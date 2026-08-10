@@ -1,0 +1,7538 @@
+# Weapon A Visual History of Arms and Armor Roger Ford R G Grant A Gilbert etc Z Library
+
+> 来源文件：pre_Weapon_A_Visual_History_of_Arms_and_Armor_Roger_Ford_R_G_Grant_A_Gilbert_etc_Z_Library.txt
+> 字符数（约）：717384
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+weapon b a v i s u a l h i s t o r y o f a r m s a n d a r m o r
+
+weapon
+
+weapon A  V I S U A L  h i s t o r y  o f  a r m s  a n d  a r m o r
+
+London, New York, Melbourne, munich and delhi Senior Art Editors  Sunita Gahir, Sharon Spencer Art Editors  Paul Drislane, Michael Duffy Designers  Philip Fitzgerald, Tim Lane, Peter Radcliffe DTP Designers  John Goldsmid, Sharon McGoldrick Senior Editor  Paula Regan Project Editors  May Corfield, Tarda Davison-Aitkins, Nicola Hodgson, Cathy Marriott, Steve Setford,  Andrew Szudek US Editor  Jenny Siklos Picture Researcher  Sarah Smithies DK Picture Librarian  Romaine Werblow Photography  Gary Ombler Illustrations  KJA-artists.com Production Controller Elizabeth Warman Managing Art Editor  Karen Self Art Director  Bryn Walls Managing Editor  Debra Wolter Publisher  Jonathan Metcalf Consultants at the Royal Armouries Philip Abbott, Head of Library Services Ian Bottomley, Senior Curator of Arms and Armour Mark Murray Flutter, Senior Curator of Firearms Thom Richardson, Keeper of Armour Bob Woosnam Savage, Senior Curator of Edged Weapons Peter Smithhurst, Keeper of Weapons First American Edition, 2006 DK Publishing 375 Hudson Street, New York, New York 10014 A Penguin company Copyright © 2006 Dorling Kindersley Limited Foreword © 2006 Richard Holmes 2  4  6  8  10  9  7  5  3  1 be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior written permission of the copyright owner.
+
+Library of Congress Cataloging-in-Publication Data
+
+Weapon. -- 1st American ed.
+
+p. cm.
+
+Includes index.
+
+ISBN-13: 978-0-7566-2210-7
+
+ISBN-10: 0-7566-2210-7
+
+## 1.  Military weapons--History
+
+U800.W37 2006
+
+623.4--dc22 2006016165 ISBN-13: 978-0-7566-2210-7 ISBN-10: 0-7566-2210-7 Color reproduction by GRB, Italy Printed and bound in China by Hung Hing
+
+Discover more at www.dk.com Foreword Introduction the ancient world
+
+(3000 bce–1000 ce)
+
+The First Weapons Mesopotamian Weapons and Armor Ancient Egyptian Weapons and Armor Ancient Greek Weapons and Armor great warriors: Greek Hoplite Ancient Roman Weapons and Armor great warriors: Roman Legionary Bronze- and Iron-Age
+
+Weapons and Armor Anglo-Saxon and Frankish Weapons and Armor Viking Weapons and Armor the middle ages
+
+(1000–1500)
+
+European Swords Japanese and Chinese Swords European Daggers European Staff  Weapons Asian Staff  Weapons great warriors: Mongol Warrior Longbows and Crossbows weapon showcase: Crossbow Aztec Weapons and Shields European Helms and Basinets European Jousting Helms, Barbutes, and Sallets contents great warriors: Medieval Knight European Mail Armor European Plate Armor THE early modern world (1500–1775)
+
+Two-handed Swords European Infantry and Cavalry Swords great warriors: Landsknecht European Rapiers European Smallswords European Hunting Swords weapon showcase: Hunting Trousse Japanese Samurai Swords weapon showcase: Wakazashi Sword great warriors: Samurai Indian and Sri Lankan Swords European Daggers Asian Daggers European One-Handed Staff  Weapons European Two-Handed Staff  Weapons Indian and Sri Lankan Staff  Weapons European Crossbows Asian Bows Matchlock and Flintlock Long Guns weapon showcase: Matchlock Musket European Hunting Guns 1600–1700 European Hunting Guns From 1700 Asian Matchlocks Combination Weapons European Pistols 1500–1700 European Pistols 1700–1775
+
+weapon showcase: Baker Rifle Percussion Cap Muskets and Rifles weapon showcase: Le Page Sport Gun Percussion Cap Breech Loaders great warriors: British Redcoat Sport Guns Ottoman Empire Firearms Single-Shot Breech-Loading Rifles weapon showcase: Enfield Rifle-Musket Manually Loaded Repeater Rifles 1855–1880 Manually Loaded Repeater Rifles 1881–1891 Manually Loaded Repeater Rifles 1892–1898 Indian Firearms Asian Firearms Multi-Shot Firearms Ammunition Pre-1900 Indian Armor and Shields African Shields Oceanian Shields the modern world
+
+(1900–2006)
+
+African Edged Weapons Bayonets and Knives 1914–1945 great warriors: French WWI Infantryman Self-Loading Pistols 1900–1920 Self-Loading Pistols 1920–1950 Self-Loading Pistols From 1950 Revolvers 1900–1950 Revolvers From 1950 Manually Loaded Repeater Rifles great warriors: Red Army Infantryman Self-Loading Rifles 1914–1950 weapon showcase: AK47 Self-Loading Rifles 1950–2006 weapon showcase: SA80 Sport Guns Shotguns Sniper Rifles 1914–1985 Sniper Rifles 1985–2006 Recoil-Operated Machine Guns Gas-Operated Machine Guns weapon showcase: MG43 Light Machine Guns 1914–1945 Light Machine Guns Since 1945 Submachine Guns 1920–1945 weapon showcase: MP5 Submachine Guns Since 1945 Ammunition Since 1900 Man-Portable Anti-Tank Weapons Rifle-Mounted Grenade Launchers Stand-alone Grenade Launchers great warriors: US Navy SEAL Improvised Guns 1950–1980 Helmets From 1900 Index Acknowledgments European Tournament Armor European Tournament Helmets Asian Armor and Helmets Samurai Armor The revolutionary world (1775–1900)
+
+European Swords American Civil War Swords Ottoman Empire Swords Chinese and Tibetan Swords Indian Swords Indian and Nepalese Daggers European and American Bayonets Indian Staff  Weapons African Edged Weapons great warriors: Zulu Warrior Oceanian Clubs and Daggers North American Knives and Clubs North American Hunting Bows Australian Boomerangs and Shields Flintlock Pistols From 1775 Flintlock Pistols To 1850 Percussion Cap Pistols American Percussion Cap Revolvers great warriors: US Civil War Infantryman British Percussion Cap Revolvers Brass Cartridge Pistols weapon showcase: Colt Navy Pistols Self-Loading Pistols Flintlock Muskets and Rifles
+
+foreword Joining the Board of Trustees of the Royal Armouries in 2005 spun my life full circle. As a Cambridge undergraduate I spent a summer working at the Armouries, then located in the Tower of London. Had my career taken a different turn, I might easily have become a curator rather than a military historian. In one sense the two paths are not that divergent, for military history is never far from the battlefield: it is hard to think of men in battle without considering the weapons they use.
+
+Warfare is older than civilization—in fact it is older than the human race itself, as clues from our hominid ancestors show—and weapons are the tools of the soldier’s trade. The following pages reveal the importance of weapons, showing how they grew quickly from primitive implements used for hunting wild animals, and soon took on the characteristics that were to define them for thousands of years. First there were percussion weapons, used to strike an opponent directly, beginning with the club and proceeding through axes to swords, daggers and thrusting-spears. There were also missile weapons, propelled from a distance, starting with the sharpened stick—hurled as a javelin—and developing into throwing spears, arrows, and crossbow bolts. Gunpowder weapons, which made their presence felt from the 15th century, did not immediately replace percussion or missile weapons. In the 17th century musketeers were protected by pikemen, and Napoleonic cavalry plied swords in close-quarter combat.
+
+Even at the beginning of the 21st century the bayonet, descendent of the edged weapons of yesteryear, is still part of the infantry soldier’s equipment.
+
+The huge chronological and geographical spread of this book reveals illuminating similarities between weapons in entirely different cultures and periods.The appearance of firearms was not immediately decisive, and historians argue whether the period of change spanning the first half of the 17th century was rapid and thorough enough to
+
+constitute a “military revolution.” However, their impact was certainly profound. Fortresses built to withstand siege-engines crumbled before artillery, and in this respect the fall of Constantinople in 1453 was a landmark. So too were battles like Pavia in 1525, when infantry armed with muskets repulsed armored horsemen. Firearms were essential to the advent of mass armies, for they became subject to mass production. Their development has been rapid: little more than a century and a half separates the muzzle-loading flintlock musket—short-ranged, inaccurate, and unreliable—from the modern assault rifle.
+
+But weapons are more than the soldier’s tools, and leafing through the pages you will be amazed at the ingenuity and creativity that weaponry induces for hunting, self-defence, and law-enforcement. Some weapons had religious or magical connotations and others, like the pair of swords worn by the Japanese samurai or the smallsword at the hip of the 18th century European gentleman, were badges of status, and reflections of wealth too.
+
+There has been a long connection between the right to carry weapons and social position, and some societies, such as the city-states of ancient Greece, saw a direct connection between civic rights and bearing arms.
+
+It is impossible to consider arms without reflecting on armor too, and this book also illustrates how armor has striven to do more than safeguard its wearers. It is often intended to impress or terrify as well as advertise its wearer’s wealth or status: the horned helmet of the bronze-age warrior and the mempo face-guard of the samurai have much in common.
+
+The past century has witnessed its rediscovery, and the contemporary soldier, with his Kevlar helmet and body armor, has a silhouette which is both ancient and modern.
+
+It has been a real pleasure to have been involved in this project, which embodies the scholarship of the Royal Armories’ curatorial staff and provides a showcase for the Armories’ world-class collection.
+
+richard holmes
+
+therefore a greater range. In the hands of nomadic peoples such as the Mongols, it could devastate infantry formations that would be picked off at a distance. From the 13th century, the English made extensive use of the longbow, a simple bow up to 6½ ft (2 m) long made of yew.
+
+It combined range and rapidity of fire, and proved key to victory against the Scots at Falkirk (1298) and the French at Crécy (1346) and Agincourt (1415).
+
+the crossbow The crossbow is a form of mechanical bow shooting wooden or metal bolts with a stock that enables it to be kept loaded without a string being held taut by hand. First attested in Han China (206 bce–220 ce), they were widely used in medieval Europe from the crusades onward. As time went on, the mechanism to reload (or span) the crossbow became increasingly complex, including the use of foot- operated levers and the cranequin.
+
+Such devices allowed the crossbow to be made more powerful, but meant it was slower to reload. By the late 16th century, it had almost disappeared from the battlefield.
+
+bows, arrows, AND spears north indian composite bow 15th-century crossbow assyrian simple bow and arrow saxon spears Leaf-shaped point Butt Nut Head Shaft Bowstring Bow Stirrup Groove Stock Wooden shaft Corroded metal point Nock for attaching bowstring to each end of bow Upper limb Arrow pass Handle or grip Lower limb Bowstring Nock Head Foot Shaft Flights or feathers Nock crossbow bolt rojectile weapons, such as bows and spears, allow the exercise of force at a distance, and the evident utility of this in hunting led to their use from the very earliest times. The simplest form is the throwing spear, a pole with a pointed end. The principal disadvantage is that once thrown, the weapon is lost and might indeed be hurled back by an enemy. The Roman pilum solved this by having an iron shank that bent on contact, rendering further use impossible.
+
+Simple bows are made up of a shaft of wood with a drawstring attached at both ends. In this form, they are easy to construct and operate, and saw use throughout the Ancient World.
+
+The composite bow, made of several pieces of wood glued together, its core strengthened with bone and sinew, has greater elasticity, and Japanese arrow Japanese samurai used a variety of arrowheads.
+
+This type of bifurcated arrowhead, known as a kurimata, could inflict multiple wounds and was used for hunting as well as in battle.
+
+introduction P Trigger (not shown)
+
+egyptian Ax barbarian opponents employed them, such as the Frankish throwing ax (or francisca).
+
+The Vikings used a large two-handed battle ax as a principal weapon, and some forms persisted into the Middle Ages in modified form as halberds. In societies that retained a strong hunting tradition, however, axes remained in common use, from the North American tomahawk to the dao, a hybrid sword ax, of the Assamese Naga people.
+
+## AXES AND
+
+## CLUBS
+
+australian boomerang polynesian cleaver north american pipe tomahawk
+
+## GLOSSARY
+
+ARROW PASS  Position on bow touched by arrow when bow is drawn or loosed BACK  Side of the bow toward the target BELLY  Side of the bow toward the archer BRIDLE  Binding used to tie bow portion of crossbow to stock BUTT  Back section of crossbow stock
+
+## COMPOUND BOW
+
+Bows made of multiple layers, combining wood with bone, horn, or sinew CRANEQUIN  Rack and pinion device for respanning DAO  Swordlike ax of the Assamese Naga FLETCHING  Use of feathers or flights to give stability GOATSFOOT  Device for respanning using pivots and a tiller LAMINATED BOW  Bow of multiple layers of the same material, most often wood LATHI  Long bamboo club with metal head used for riot control LONGBOW  Simple bow up to 6½ ft (2 m)
+
+long of yew or elm MORNING STAR  Club with spiked ball on a chain NOCK  Notch in arrow to keep it in place as bowstring is drawn; notch in bow to attach string QUIVER  Container for arrows SHILLELAGH  Irish club cut from blackthorn wood SIMPLE BOW  Bow made of a single material, often wood SIMPLE CLUB  Club made of one material, often bone or wood Stirrup  Device in which crossbowman placed his foot while respanning the string Spanning  The act of cocking a crossbow Stock  Wooden spine of crossbow used for gripping and to which bow section attaches Tomahawk  North American ax, often combined with a tobacco pipe Windlass  Mechanical device with winding levers to respan crossbow Head carved with geometric motifs Heavy bronze head Plain wooden handle Axehead Angled surface to allow parabolic flight Wooden shaft Carved wooden shaft Painted design in ocher and white pipe clay Iron tobacco bowl Binding to secure axhead Elite club Although wooden clubs were used for fighting in South Africa, this beautifully produced example, with the ball at its end carved into 19 segments, is as likely to have been a prestige object belonging to a notable.
+
+ocks and sharpened stones would have been the most primitive form of weaponry.
+
+When these were mounted on a stick the result —a club or ax—immediately gave greater range and increased the force, through leverage, of the blow. Clubs could deliver crushing blows to armored opponents, while even a glancing strike from an ax could lead to massive bleeding.
+
+Simple clubs appeared very early, but their effectiveness is proved by their appearance in such diverse forms as the Zulu’s knobkerrie club, whalebone clubs from the Arctic regions of the Americas, and highly decorated wooden clubs from New Zealand. In the Pacific, such clubs were the most widespread weapon before European colonization. Composite clubs, with a head bound or socketed to a shaft, often added spikes or flanges, with a corresponding increase in lethality. In Australia, throwing clubs, or boomerangs, were developed, some curved in such a way that their flight carried back to the thrower should they miss their target.
+
+forging ahead Hand axes were first used about 1.5 million years ago and were probably used as scrapers.
+
+Bronze-headed axes appeared in the Near East in the 3rd millennium bce and became commonplace as far apart as Egypt and Scandinavia. The invention of iron and steel made the forging of sharper heads with thinner blades more practical. Although the Romans did not make extensive use of the ax, some of their r
+
+between the grip and hilt had been designed to protect the wearer’s hand. By 900 bce, with the invention of iron, and subsequently pattern-welding to blend the parts of the blade into a stronger and flexible whole, swords became more lethal.
+
+swords The Greek hoplite’s sword, however, was still a secondary weapon and it was not until the advent of the Roman legionaries’ short gladius hispaniensis, designed for an upward stabbing stroke at close quarters, that swordplay in its own right became a part of infantry tactics.
+
+By the Middle Ages in Europe, the carrying of a sword became the mark of a military elite.
+
+At first they tended to be broad-bladed for cutting and delivering crushing blows against mail armor. With the appearance of plate armor from the 14th century, swords tended to become narrower, more adapted to thrusting at vulnerable joints between the plates. They ultimately developed into the rapiers of the 16th and 17th centuries. Hilts became ever more elaborate, often with cups and baskets of metal bars to protect the bearer’s hands.
+
+Outside Europe, the sword reached the apogee of its development in 14th-century Japan.
+
+swords and daggers italian renaissance sword smallsword Japanese wakazashi Knuckle-bow Ricasso Knuckle-bow or guard Grip Guard Pommel Wooden scabbard covered with leather Quillons Shell guard Shell guard Hilt of steel inlaid with gold Forward- curved blade Kissaki Edge rapier Hilt arms Menuki Tsuba indian talwar Grip Turkish yataghan Ivory hilt inlaid with gemstones Backward- curved blade Edge Shinogo he sword is one of the most widespread of weapons. In essence a long knife with a grip, its greater length and variations in the blade’s shape and areas of sharpness mean it can be adapted for cutting or thrusting.
+
+The earliest blades were constructed of flint or obsidian, and it was not until the invention of bronze around the 3rd millennium bce that swords really came into their own, with blades of increased strength and durability. Minoan and Mycenaean short swords (c.1400 bce)
+
+lack sophisticated grips, but already flanges cup-hilt Rapier Hilts, such as the cup-shaped hilt on this rapier, became common in the 17th century. On other examples the quillons sweep down to deflect an opponent’s stroke.
+
+introduction Kashira Hamon T
+
+The katana long sword of the Japanese samurai was both a badge of rank and, with its layered folded steel blade, a lethally effective blade.
+
+The Islamic world, too, had a long history of swordmaking, with Damascus long acting as a center for sword manufacture and trade. The Ottoman Empire, with its emphasis on cavalry, produced many fine types, such as the curved kilij and yataghan sabers: from Mughal India came the talwar, with its characteristic disc-shape pommel.
+
+ceremonial swords The advent of hand-held firearms, however, rendered the sword—as many other close- quarters arms—almost redundant. In Western armies, the sword survived longest as a combat weapon in the cavalry, where a downward stroke at the gallop with a curved saber could inflict severe wounds. But by the 20th century, the sword was largely a ceremonial weapon, confined to the dress uniforms of officers.
+
+Daggers Daggers were some of the earliest weapons, an evolution of a cutting knife for use in combat. Because of the relative shortness of their blades—from 6 to 19½ in (15 to 50 cm)
+
+—daggers are principally a close-quarters weapon, used for thrusting or stabbing.
+
+In Africa, however, throwing knives evolved, with a variety of points designed to pierce at whatever angle they struck the target. Some daggers, such as the Indian katar, had reinforced blades and enhanced gripping surfaces to allow the penetration of mail armor.
+
+In the 17th century, as fencing techniques became more elaborate, the dagger emerged, wielded in the other hand from the sword to allow parrying and close-in stabbing under the opponent’s guard. Occasionally, daggers with toothed edges were used that could catch and break an enemy’s weapon. From the 17th century, the dagger gave rise to the bayonet—essentially a dagger attached to a firearm should hand-to-hand combat occur.
+
+The dagger continues to find use among warriors who are liable to find themselves in close contact with the enemy, such as those in the special forces.
+
+## GLOSSARY
+
+Claymore  Scottish basket-hilted broadsword Fuller  Groove running along blade to lighten it Hamon  Pattern of hardened steel on Japanese sword Hilt  Handle of sword or dagger, made up of guard, grip, and pommel Kilic  Thin Turkish blade with a curved grip Kissaki  Point of Japanese sword blade Kris  Malay dagger, often with wavy blade kukri  Short, curved sword from Nepal menuki  Hand-grip of Japanese sword Mune  Back surface of Japanese sword Pommel  Counterweight, often spherical, at top of sword grip to provide balance Quillon  Guard cross- pieces lying at right- angles to the blade and hilt of a sword Rapier  Thrusting sword with long blade, common from 16th century Ricasso  Unsharpened section of blade above sword guard Rondel  Narrow- bladed medieval dagger Saber  Curved-bladed weapon, typically used by cavalry Schiavona  Italian two- edged sword with basket-hilt Scramasax  Iron dagger used by Franks and Saxons Shamshir  Persian saber Shinogo  Ridge-line of Japanese sword Smallsword  Light, one-handed sword that evolved from the rapier Spatha  Longer, Roman cavalry sword Stiletto  Italian stabbing dagger with no cutting edge Tang  Hidden portion of the blade running through the hilt to the pommel Tanto  Japanese dagger tsuba  Hand guard of Japanese sword chassepot bayonet Rifle socket Brass hilt Elongated blade medieval dagger Hammer- shaped pommel S-shaped quillons Blade Pommel Grip Side ring guard Toothed blade to trap and break opponent’s blade swordbreaker african throwing knife Grip bound with leather Sharp steel points indian katar (punching dagger)
+
+Cross-bar grip Long concave arms Reinforced point for penetrating mail knuckle-knife Cutting edge swept upward for stabbing Knuckle-duster hilt Machete A South American weapon with a characteristic curved blade that can be used both for cutting through undergrowth and hacking at enemies. This lightweight palm-wood example is from Ecuador.
+
+Slot
+
+4th century bce employed an extended—almost 20 ft (6 m) long—pike (or sarissa), but thereafter long-shafted staff weapons largely fell out of favor until the 13th century.
+
+crushing weapons Among those staff weapons used primarily for close-quarters fighting was the mace, which came to be a symbol of authority in some countries. The Egyptian ruler is seen wielding one on the Palette of Narmer (c.3000 bce), while in late medieval Europe, the mace became associated with civic and royal power. Its military use was as a crushing weapon that could break bones even when they were shielded by armor.
+
+Steel flanges were often used to focus the force of the blow and to inflict even more severe injuries upon oponents.
+
+Many of the staff weapons that appeared from the 14th century onward had their origins in the modification of agricultural implements.
+
+The bill, for example, which had a sharp edge on the inside of the blade, is a modified scythe, while the military fork or trident is an adaptation of the farmer’s pitch fork.
+
+staff weapons Flanged steel mace glaive Spike Knife-shaped blade etched with imperial monogram Spike Pick point Grip Four-sided hammer head bardiche Long, curved steel blade Shaft Shaft he attaching of a blade or club to a long, commonly wooden, shaft to create a staff weapon gave foot soldiers some means to attack cavalry, or at least to keep them at bay.
+
+The greatest variety of types were seen in the later Middle Ages and Renaissance in Europe, just at the time social changes pitted infantry militias from Switzerland, the Netherlands, and Italy against armies of mounted knights.
+
+Yet in origin, they are far more ancient than this. The principal weapon of the Greek hoplite in the 6th century bce was a spear used in a phalanx formation as a thrusting weapon to create an almost impenetrable metal hedgehog.
+
+Alexander the Great’s Macedonians in the t horseman’s hammer Acorn-shaped finial Jousting lance Tournament lances such as this, with a tapering wooden shaft, were designed to shatter on impact with armor or a shield. If the point, or fragments of the wood, penetrated the neck or helmet, the injuries caused could be fatal.
+
+introduction Grip Hook
+
+The pike, a simple variant of the ancient form, became the most widespread staff weapon, having earlier fallen out of favor. Wielded in dense formation by infantrymen, most notably the Swiss, and in mixed formations, such as the Spanish tercio, as a defensive shield behind which musketeers could fire, it would prove to be a useful multipurpose weapon. The pike showed its effectiveness in battles such as Courtrai (1302)
+
+where Flemish militiamen armed with long spears and wooden clubs (or goedendags)
+
+disrupted a charge by French knights and then hacked them to pieces.
+
+later staff weapons The addition of an axhead to a pike point, along with a spike on the back of the head, created a halberd, a versatile weapon that— shorter than a pike—could be used for thrusting, hooking cavalrymen from horses, or clubbing. A common type of staff weapon in eastern Europe was the bardiche, which had a long cutting edge similar to an ax, but lacked the pointed end of the halberd.
+
+Particularly in use among cavalrymen was the war-hammer—with a hammer head on one side of the shaft-head and a picklike blade on the other.
+
+The hammer was used to stun opponents, the pick to penetrate armor to finish them off.
+
+The increasing importance of firearms, however, meant fewer infantrymen were equipped with staff weapons. Increasingly they became badges of office for non- commissioned officers, lingering on into the 18th and 19th century as the spontoon.
+
+Yet just at this time, staff weapons in the form of the lance gained wider use in cavalry formations. Having their origins in the jousting weapons of medieval knights, lances were reintroduced in Napoleonic times as a shock weapon for units of Uhlans. As late as World War I, lances were still carried by the cavalry of some armies, but by then, both staff weapons and cavalry itself were relics of a past era.
+
+halberd turkish mace
+
+## GLOSSARY
+
+Bardiche  Staff weapon with long, curved blade, commonly used in eastern Europe Bill  Staff weapon with wide, curved cutting blade Boar spear  Staff with long spearpoint, and lugs to prevent an injured boar working its way up the shaft Glaive  Staff weapon with long, single-edged knifelike blade Halberd  Short, wide, ax-like blade, with a spearpoint, and a back spike for penetrating armor Langet  Metal strips attached to shaft of staff weapon, protecting the joint with the weapon head Lochaber Ax  Wide, curved blade with a narrow curled hook for unseating cavalry Lucerne Hammer  Staff weapon with hammer head and pick point Mace  Metal ball attached to a staff, often spiked or flanged Magari Yari A Japanese form of trident Naginata  Japanese staff weapon with curved blade, similar to glaive Partisan  Wide-bladed weapon with a spearpoint and projecting winglike lugs at the base Pike  A long staff weapon, up to 23 ft (7 m)
+
+with spearpoint Poleax  Staff weapon surmounted by an axhead.
+
+Often used by knights.
+
+Quarterstaff  Simple staff without weapon head Sode garami  Japanese “sleeve-tangler” used to unhorse enemies wearing loose-sleeved clothing Spontoon  Short half-pike commonly carried by European non- commissioned officers in the 17th and 18th centuries Pole Grip Spear point Fluke Grip Shaft Hollow steel head with raised ribs Spearlike point cerEmonial halberd Ax blade Shaft pike Point German Partisan Almost the last type of staff weapon to survive was the partisan. Decorative versions, such as this late-17th century German example, were used as badges of office by sergeants and other non-commissioned officers.
+
+Blade
+
+matchlocks The first improvement to this simple design, which created the matchlock, saw the addition of a serpentine (so-called because it was S-shaped and resembled a snake) which held a length of string (or “slow-match”), treated with saltpeter to keep it alight. The serpentine was pivoted around its center; pulling back on its lower arm pushed its upper arm forward, touching the glowing end of the string into the priming powder. The latter lay in a pan outside the barrel, but was connected to the main charge of powder and ball by a touch-hole.
+
+The chief advantage of this design was that one man could use it on his own. A trigger was added later, to act upon the serpentine by way of a connecting sear, along with a spring that held the match off the pan until positive pressure was applied to the trigger. A version was also produced in which the spring worked the other way (when the sear was released, it propelled the match forward)—but the impact often extinguished the match.
+
+firearms here is no certainty as to where gunpowder was invented; China, India, The Middle East, and Europe all have their supporters. As to when, most agree that it took place sometime during the 13th century, though it may have been earlier. We can be a little more precise about the invention of the gun, however.
+
+This took place prior to 1326, for two separate contemporary manuscripts tell us so, and from that date onward, references to guns become more frequent. The earliest known example of a gun was found in the ruins of the castle of Monte Varino, in Italy, which was destroyed in 1341.
+
+The gun was a simple tube, closed at one end and drilled through near that end to allow the charge of powder inside to be ignited with a glowing wire or coal. It was fitted with a pole at the breech, and probably required two men to fire it.
+
+T Wheellock pistol Known as the wheellock, the first attempt to detonate the charge mechanically used a wheel, wound against a spring and released by the trigger. Iron pyrites held to the wheel gave off sparks, which lit the priming.
+
+Match Trigger Smouldering end of match Pan Pan cover drawn back manually Match ignites primer Serpentine retracts Trigger acts on serpentine Brass serpentine Brass mainspring Button trigger Trigger guard Pan Lacquered stock Japanese matchlock musket Lock plate set into stock Stock Pan cover Trigger Match holder Serpentine english Matchlock musket introduction Matchlock The first guns were set off by applying a coal to the pan by hand, but soon they acquired their first simple mechanical component—a bar that held a lighted slow-match in position above the pan. Later a pan cover and a spring-loaded trigger were added.
+
+Pulling the trigger plunges the match into the pan. This produces a flash that ignites the charge via a vent in the side of the barrel.
+
+Before firing, the gun is made ready by blowing on the already- smouldering match to liven it, and by moving the pan cover aside.
+
+Barrel “Flint” is iron pyrites Trigger Serrated wheel Cock pivot point Stock german Wheellock musket Trigger guard grip Shaft Powder and Ball Serpentine Primer Primer ignites charge via vent Pan Cock Trigger guard extends to form grip Fore sight Pan cover Charge Primer Pan Vent Lead ball Gunpowder and ball were inserted separately into the barrel, which was drilled through to form a vent to a pan containing a small measure of powder. Ignited by a match (shown below) or sparks from a flint, it produced a flash, which set off the main charge.
+
+Burning match how it works how it works
+
+at the vital moment by means of the exposed mainspring, creating the miquelet lock.
+
+About 60 years later, a French gunmaker, Marin le Bourgeois, combined the one-piece steel and pan cover of the miquelet lock with the internal mainspring of the snaphance to produce the first true flintlock. Later improvements were minor, and saw the addition of roller bearings and strengthening bridles.
+
+## GLOSSARY
+
+ACTION  The method of loading and/or firing a gun.
+
+AUTOMATIC  A firearm that will continue to load and fire while the trigger is pressed.
+
+BATTERY  The state of a gun’s action when it is ready to fire.
+
+BENT  A notch on the cock, hammer or striker in which the sear engages, to hold it off.
+
+BELT FEED  A way of supplying ammunition to the breech of an automatic weapon.
+
+BLOWBACK  A way of operating an automatic or semi-automatic weapon in which the breech is not locked, but held closed by a spring or by inertia.
+
+BOLT  The part of the weapon that closes and seals the breech. It may also load and extract cartridges and carry the firing pin.
+
+BOLT ACTION  A firearm relying on a turning bolt to lock its breech closed.
+
+BORE  The number of shot of a given size which can be cast from 1 lb of lead; the diameter of a barrel.
+
+BOX-LOCK  A flintlock in which the action is contained within a central box behind the breech.
+
+BREECH  The closed rear end of a gun’s barrel.
+
+## BREECH-BLOCK
+
+Analogous to the bolt.
+
+BULLET  The projectile a weapon fires. It may be spherical, cylindro-conical (a cylinder with a cone- shaped point) or cylindro- ogival (a cylinder with a rounded point), or even hollow-pointed.
+
+BULLPUP  A rifle that has its mechanism set well back in the shoulder stock, allowing a normal barrel length in an abbreviated weapon.
+
+BUTT  The stock between shoulder and trigger; the part of a pistol held in the hand.
+
+CALIBER  The internal diameter of the barrel.
+
+CARBINE  A short- barreled rifle or musket.
+
+CARTRIDGE CASE  The container for the propellant, primer and projectile. 3 Hadley Flintlock Sport gun, 1770 The flintlock was perfected by about 1750, having acquired roller bearings to act on the springs and bridles to hold the components in perfect alignment.
+
+This shotgun is an example of the flintlock in its heyday.
+
+Despite various improvements, however, the matchlock remained a cumbersome and unpredictable device. Far more reliable was the wheellock, invented around 1500, which used a wheel turned by a coiled spring to strike sparks from pyrites into the pan. Though complicated, it made it possible for the gun to be used one- handed and for it to be held ready for use.
+
+flintlocks The next step was to find a simpler way of creating sparks. This was achieved by using a spring-loaded flint (which lasted longer than pyrites) and bringing it into contact with a suitably-shaped serrated steel, striking sparks from it in the process. The first such lock was known in English as a snaphance, or snaphaunce, a corruption of a Dutch phrase, schnapp hahn, “pecking hen,” which described the action of what became known as the cock.
+
+The snaphance originated in northern Europe, but at around the same time, a very similar device was coming into use in Italy. It had shortcomings, notably the way the pan cover was displaced by an awkward linkage to the trigger, but these were overcome in Spain about halfway through the 16th century by the simple expedient of extending the foot of the steel to become the pancover, and flicking it out of the way Pan cover closed Trigger Pan Cock Flint Flint strikes against steel Trigger retracted Cock plunges forward Spring flicks the pan cover open Pan cover open Cock fully forward Barrel Striking steel Trigger Feather spring Brass butt Prawl prevents slipping Steadying spur on trigger guard Mainspring acts on both cock and pan cover Top-jaw screw Cock Trigger Barrel retained in stock by pin Striking steel and pan cover Flint Saw-handle butt with incised checkering Striking steel and pan cover Concealed box lock Trigger Brass barrel Spring-loaded bayonet Flint Flintlock pistol English miquelet dueling pistol flintlock Blunderbuss pistol Before firing, the cock is retained by a mainspring (not shown here), which is connected to the trigger by a sear.
+
+A second spring holds the pan cover closed over the pan.
+
+Pulling the trigger propels the cock forward to hit the edge of the steel. This releases a second spring, which acts on the steel, forcing the latter to retract and reveal the pan.
+
+Sparks caused by the flint striking  the steel fall into the pan to ignite the primer. This produces a flash that ignites the charge via a vent in the side of the barrel.
+
+Because matches were unreliable, they were replaced by a device that produced sparks—a flint, propelled by a spring to strike a serrated steel. A link between trigger and pan cover was added, plus a spring to move the pan as the flint fell.
+
+how it works Flintlock Cock Lock plate Bayonet release trigger Spring in compression Spring released Sparks ignite primer Pan Pan Cock Steel
+
+caps, was developed, but when it was (probably by British-born artist Joshua Shaw, working in the US in 1822), it rendered all other ignition systems obsolete.
+
+revolvers The first firearms produced to exploit the new development were conversions of existing weapons (single-shot muzzle-loading pistols and rifles), but they were soon joined by multiple- barreled pistols, known as pepperboxes, in which a group of barrels was mounted on an axial rod which was turned, complete with charge and percussion cap, to present a fresh barrel to the hammer. And then, in 1836, a young American named Samuel Colt patented the cylinder revolver, and began producing both pistols and rifles in this form. Colt’s guns could fire six shots in a few seconds, but they were still slow to load, even though the loading process had become easier with the invention of the waterproof cartridge, which contained both charge and projectile and didn’t have to be introduced via the muzzle.
+
+firearms Percussion caps Even in its most efficient form, the flintlock had its drawbacks. Chief among these were the need for the flint to be kept in precisely the right shape and place, and for the touch-hole to be kept clear of residue. There was also a delay between the cock falling and the gun firing.
+
+Fulminating salts, which exploded on impact, had been known for over a century, but they were still too volatile to be a practical substitute for flint. Then, in 1800, Edward Howard synthesized fulminate of mercury, which was relatively docile. The Reverend Alexander Forsyth (a keen wildfowler) combined it with potassium chlorate and used the new priming to detonate gunpowder. It was another 20 years before a reliable system of delivering fulminate primer to the breech, in the shape of percussion Pepperbox Revolver, 1849 The pepperbox revolver, with its barrels mounted on an axial pin, was a successful, though expensive, way of producing a multiple-shot pocket pistol. It was soon superceded by the cylinder revolver.
+
+Hammer falls vertically Loading / ejection gate Trigger guard steadying spur Combined mainspring and hammer Lefaucheux pinfire revolver Hammer Butt with high comb Five-chamber cylinder Brass trigger guard Barrel band Side-mounted hammer Colt percussion cap Revolving Rifle Trigger Rear sight how it works Percussion Cap The cap is formed of two layers of copper foil between which a mixture of fulminate of mercury, potassium chlorate, and sulfur or antimony. The composition bursts into flame when it is struck, the flame burning through the foil and passing down the bore of the anvil to ignite the powder.
+
+The hammer acts on a mainspring and is retained, holding it under pressure, by a sear connected to the trigger. Tripping the sear releases the hammer, driving it onto an anvil on which the percussion cap has been placed.
+
+The primer in the cap bursts into flame when it is struck. The flame passes down a bore in the anvil and into the powder charge in the barrel.
+
+Breechblock is raised and lowered by breech lever Hammer Tool compartment Sharps percussion cap Carbine Trigger Barrel Breech- opening lever Round  barrel Trigger Percussion cap Vent to barrel Flash travels down hole in anvil Hammer strikes capped anvil Trigger Ring trigger Round  barrel Flat-planed butt underhammer percussion cap pistol Fore sight Rear sight Sling swivel Anvil (or “nipple”)
+
+introduction Ejector rod
+
+and it was only a few years before the first purpose-designed breech-loaders, such as the Martini-Henry and the Mauser M71, were being issued.
+
+4 GLOSSARY CHARGER  A frame that holds cartridges, allowing them to be loaded into a magazine.
+
+CLIP  See charger.
+
+CLOSED BOLT  A configuration found in automatic and semi-automatic weapons in which battery is with the bolt in the closed position, with a cartridge chambered; see also open bolt.
+
+COCK  The clamp that holds the flint in a flintlock weapon; the act of pulling back a hammer, bolt or cock to ready a weapon for firing.
+
+COMPENSATOR  A device that reduces the muzzle’s tendency to lift or swing.
+
+CYCLE  The series of operations necessary to fire a round and return the gun to battery.
+
+CYCLIC RATE  The notional rate of fire of an automatic weapon.
+
+## DELAYED BLOWBACK
+
+A type of blowback action in which the bolt is briefly delayed to allow chamber pressure to drop to a safe level.
+
+DOUBLE-ACTION  A pistol in which the act of pulling the trigger first cocks, then releases, the action.
+
+EJECTOR  A device that throws a spent cartridge case clear after it has been extracted from the chamber.
+
+EXTRACTOR  A device that grips the cartridge case and pulls it clear of the chamber.
+
+## FLASH ELIMINATOR
+
+An attachment at the muzzle that cools the propellant gas below its flash point.
+
+GAS OPERATION  A weapon in which the cycle is effected by the propellant gas.
+
+## GENERAL-PURPOSE MACHINE
+
+GUN (GPMG)  A machine gun that can be used as a light machine gun or in the sustained-fire role.
+
+GRIP SAFETY  A device that keeps the weapon from being fired unless held correctly.
+
+GROOVES  The parallel spirals cut into the barrel that give spin to the bullet.
+
+GUNPOWDER  A mixture of saltpeter, charcoal, and sulfur.
+
+HEAD  The closed end of a cartridge case, where the primer is located. 3 The Gatling Gun, 1875 Richard Gatling produced his first workable hand-cranked multiple-barrel machine gun in
+
+## 1862. Cartridges were introduced
+
+from a top-mounted hopper into the open breech of the barrel in the twelve o’clock position.
+
+The breech closed on its way down to six o’clock, where that barrel was fired, and opened again on its way back up.
+
+the unitary brass cartridge was born. This new type of cartridge solved two problems at once. It combined all the elements of a gun’s ammunition into one package, and it guaranteed perfect obturation, since the brass casing itself formed the seal at the breech.
+
+Rim-fire cartridges were imperfect and soon disappeared in all but the smallest calibers, but more robust center-fire cartridges were available by 1866, and soon the world’s armies were clamoring for them.
+
+Just as the first percussion weapons had been converted flintlocks, so the first martial breech-loaders were converted muzzle-loaders, but these were stop-gap measures, Barrel band retains barrel in stock Nipple Hammer Butt with incised chequering to improve grip Hammer Preset trigger Steadying spur Springfield M1863 Percussion cap rifle Mauser M71 bolt action rifle Barrel band held in place by a leaf spring Ramrod doubles as cleaning rod Heavy octagonal barrel English percussion cap dueling pistol Small of stock sized to fit hand Rear sight Bolt handle Trigger Cleaning rod Barrel Ramrod Barrel retained by pin Martini-Henry breech-loading rifle Rear sight Sling attachment point Cleaning rod Cocked / uncocked indicator Trigger Breech block Fore sight Forestock continues almost to muzzle Cocking lever Fore sight Fore sight Fore sight Fore sight Trigger Trigger guard Trigger guard Trigger guard Nipple Rear sight Rear sight Colt enjoyed a monopoly until 1857, but by the 1850s gunmakers on both sides of the Atlantic had begun to consider afresh the thorny problem of how to load a gun at the breech and then to make a gas-tight seal there—a process called obturation.
+
+brass cartridges Already, by about 1840, Parisian gunmaker Louis Flobert had produced the first brass cartridges—tiny affairs (used for indoor target practice) in which the propellant was fulminate.
+
+Flobert showed his cartridges at the Great Exhibition in London in 1851, and thus to every gunmaker of note in the world. One of these, Daniel Wesson, took the idea further, and combined fulminate primer, contained in the rim of a brass case, with gunpowder and a bullet;
+
+self-contained nature of the brass cartridge to produce other types of repeating firearm.
+
+Two were notably successful early on: Christopher Spencer and Benjamin Tyler Henry, both of whom produced tubular magazine repeater rifles in 1860 (Spencer’s had its magazine in the butt; Henry’s was below the barrel). Both were imperfect, however, for they could only handle low- powered ammunition, and this did not satisfy military requirements.
+
+The US Army, therefore, clung to its single-shot breech-loaders, but in Europe, thanks largely to the Mauser brothers’ success with the M/71, attention swung to designing rifles with rotating bolts. Spencer’s and Henry’s guns had another weakness, too: their tubular magazines. The problem lay in the fact that the tip of the bullet was lodged against the primer of the cartridge ahead of it, and in certain circumstances could work as a firing pin, with catastrophic results.
+
+firearms repeater firearms At the other end of the scale, Wesson and his partner Horace Smith, who had worked for Winchester, had turned their attention to designing a revolver to take brass cartridges, but had discovered that a patent already existed for the “bored-through” cylinder that they needed to utilize. Fortunately, they were able to acquire it, in return for a royalty of 15 cents for every gun they produced, and in 1857, as soon as they were free to exploit Colt’s patent, they unveiled the first effective cartridge revolver.
+
+Colt was then frustrated by patent protection in his turn, and it was only in 1873, 11 years after his death, that his company was able to bring out another world-beater: the Single-Action Army revolver, widely known as the Peacemaker.
+
+Elsewhere, others were attempting to exploit the Springfield M1903 The US Army kept single-shot breech-loaders until 1892, when it adopted a bolt-action magazine rifle, the Norwegian Krag.
+
+In 1903 it replaced the Krag with a modified Mauser type rifle from the Springfield Armory.
+
+Spring-loaded ejector rod Winchester 1866 underlever rifle Tubular magazine Trigger Hard rubber grip Hammer notched to act as rear sight Colt single-action army revolver Smith & Wesson Military and Police revolver Remington Double Derringer pistol Over-and- under barrels Hammer Barrel hinge Cylinder locking slot Blade fore sight Cylinder gate pin Trigger Lanyard ring Ejector rod Hammer Studded muzzle Lee-Enfield No 4 bolt action rifle Rear sight Trigger Bolt handle Detachable magazine Magazine release catch Protected fore sight Forestock extends almost to the muzzle Fore sight Barrel Rear sight Trigger Trigger guard extends to form cocking lever Exposed hammer Hinged loading/ ejection gate Six-chamber fluted cylinder Ring to hang rifle on saddle Barrel Stud trigger Six-chamber cylinder Cylinder release catch Blade fore sight Barrel band Fore sight Lanyard ring Sling swivel Bolt introduction
+
+from Ogden, Utah. Having worked for Winchester, where he produced the first pump- and self-loading shotguns, he then began an alliance with Fabrique National of Herstal, near Liège, in Belgium, and produced designs for machine guns and self-loading pistols, which were to be among the best in the world.
+
+4 GLOSSARY
+
+## HEAVY MACHINE GUN  A
+
+machine gun chambered for a round of larger-than- rifle caliber, usually 12.7 mm.
+
+HINGED FRAME  A pistol in which the barrel can be hinged down to expose the chamber or chambers.
+
+HOLD-OPEN DEVICE  A catch that holds the bolt back if there is no cartridge to be chambered; a catch that holds the slide of a self-loading pistol back so that the weapon may be dismantled.
+
+HOLLOW-POINT  A bullet with a chamber or a recess at its point, which causes it to expand or even fragment when it hits its target.
+
+LANDS  The inner surfaces of  a barrel, between the grooves.
+
+## LIGHT MACHINE GUN  A
+
+machine gun, usually fitted with a bipod, chambered for rifle-caliber ammunition, but not capable of sustained fire.
+
+LOCKED BREECH  A weapon in which the breech-block is physically locked to the barrel during firing.
+
+MACHINE GUN  A weapon that uses gas or recoil to cycle its action and thus give continuous fire.
+
+## MACHINE-PISTOL
+
+See submachine gun.
+
+MAGAZINE  A holder for cartridges that delivers them, usually by means of spring pressure, to the action.
+
+## MEDIUM MACHINE GUN
+
+A machine gun cham bered for rifle-caliber ammunition, which is capable of sustained fire.
+
+MUZZLE  The open front end of the barrel.
+
+## MUZZLE BRAKE
+
+See compensator.
+
+OPEN BOLT  A weapon in which the bolt is held back until the trigger is pulled, allowing the chamber to cool; see also closed bolt.
+
+PARABELLUM  The 9 mm x 19 cartridge developed by Luger for his self-loading pistol.
+
+PRIMER  Fine gunpowder used to initiate the firing sequence; a percussion cap set into a cartridge case. 3 Some European gunmakers used tubular magazines in bolt-action rifles, but they were soon discredited, and box magazines took their place.
+
+self-loading firearms Mauser was the dominant force in military rifle design during the latter part of the 19th century, and went on to capture much of the global market for heavy-caliber sport rifles, too.
+
+Most other designers simply copied Mauser’s work, and only in the United Kingdom, at the Royal Ordnance Factory at Enfield, was a markedly different type of bolt-action rifle, the work of an American of Scottish birth, James Paris Lee, produced in very significant numbers (though designs by other Europeans, notably the Austro- German Ferdinand von Mannlicher and the Swiss Schmidt were adopted by smaller armies).
+
+Elsewhere in Germany, driven by Prussian militarism, increasing numbers of companies were entering the field of armaments manufacture. One, Ludwig Loewe, which had started life as a manufacturer of sewing machines, was to obtain a license to make Maxim’s machine guns, and prospered as Deutsche Waffen und Muntitionsfabrik (DWM), swallowing up Mauser in the process.
+
+It was at DWM that the first workable self-loading pistol, the Borchardt C/93, was produced. The company also made most of the Mauser C/96s, and it was while working for DWM that Georg Luger produced his masterpiece, the P’08.
+
+The latter part of the century saw the emergence of another singular force in gunmaking: John Moses Browning, a Mormon The bolt handle is lifted, rotating the body of the bolt and freeing its locking lugs, and is then drawn fully to the rear.
+
+On its return, it picks up a cartridge from the magazine and chambers it.
+
+Colt M1911 automatic pistol The bolt handle is returned to the closed position, seating the locking lugs and sealing the breech, while the firing pin is held off against its spring by the sear connected to the trigger.
+
+Pulling the trigger trips the sear, which then releases the firing pin. Under the influence of the spring, the pin flies forward and impacts with the primer in the head of the cartridge, detonating it.
+
+Withdrawing the bolt extracts the case by means of a hook on the bolt head, which engages with its rim.
+
+As it is withdrawn, it encounters a stop that disengages the case from the extractor, ejecting it.
+
+Spent case Mauser C/96 automatic pistol Loading/ ejection gate Rear sight Cocking piece Trigger Magazine Barrel Fore sight Round butt Exposed hammer Safety catch Trigger Grip safety Slide transfers recoil to cycle the action bergmann m18/1 The unwieldiness of the first generation of rapid- fire pistols lead to the creation of the submachine gun. One of the first of these was the Bergmann M18/1, made in 1918.
+
+how it works Bolt Action Six-chambered cylinder Hammer Trigger guard Smith & wesson model 27 revolver Bolt withdrawn Bolt advancing Bolt kicks cartridge into barrel Cartridge fully chambered Bolt fully cocked Spring applies pressure in magazine Firing pin Bullet Pin strikes cartridge Sear keeps bolt cocked Bolt fires forward Trigger trips sear Barrel Trigger Fore sight Hold- open notch Rear sight The bolt action, essentially no more complicated than the device that holds a garden gate closed, is (perhaps because it is so simple) the most sure and effective method of providing a rifle with an opening breech mechanism. The locking lugs may be at the head of the bolt or the tail, or even in both locations.
+
+dominated that conflict. Indeed, Britain and what was by then the Soviet Union, were still relying on Maxims (the former in the shape of the Vickers) throughout World War II. The French Army fielded a machine gun of its own, the gas-operated, air-cooled Hotchkiss, which had gone into production in 1893. It was considerably simpler than the Maxim, but tended to overheat—a problem from which the water-cooled gun never suffered, so long as a supply of coolant was available.
+
+Heavy machine guns like the Maxim and the Hotchkiss, and the Austro-Hungarian Skoda and Schwarzlose, and the American Browning (the denomination refers not to the ammunition for which they were chambered, which was rifle-caliber, but to their ability to maintain heavy sustained fire) were not the only automatic weapons found on the battlefields of World War I. Lighter, more portable weapons such as the Lewis and the lightened Maxim, known as the MG08/15, chambered for the same rounds, but which could accompany infantrymen in the assault, were also present.
+
+machine guns An American, Hiram Stevens Maxim, built his first machine gun in London in 1883. It used the weapon’s recoil to extract the fired case and chamber another, cocking the action in the process. If the trigger was held down, the process repeated until the ammunition supply was exhausted (or the gun jammed, which was more likely in the early days). It took some years for the real meaning of his invention to sink in, but when it did, it changed the very nature of warfare.
+
+Maxim’s patents had expired by the outbreak of World War I, and already there were competing designs in production. But inasmuch as three of the six major combatants—Britain, Germany, and Russia (and one of the minor: the Ottoman Empire, which was armed by Germany)—relied on Maxim designs, they can fairly be said to have Desert Eagle, 1983 The Israeli Desert Eagle was the first self-loading pistol capable of handling the heaviest, most powerful Magnum pistol ammunition, thanks to its gas-operated, locked-breech design.
+
+## FIREARMS
+
+Cocking handle Mainspring Barrel spring One of several lugs During the cocking process, the firing pin is held off by the sear connected to the trigger. Pulling the trigger releases the sear, allowing the pin to fly forward and impact with the primer, detonating it.
+
+By the time the projectile has left the muzzle, the recoil is working on the bolt to overcome the mechanism which is holding the locking lugs in place.
+
+When the locking mechanism has been overcome, the bolt is free to travel to the rear, extracting the empty case and chambering a fresh one.
+
+Firing pin Ejected shell Barrel shroud acts as radiator Rear sight
+
+## MG08/15
+
+recoil-operated machine gun lewis gas-operated machine gun fn p90 gas-operated submachine gun Every action, Isaac Newton’s Third Law of Motion tells us, has an equal and opposite reaction. The action produced in a firearm propels the bullet down the barrel and on toward its target, and the reaction, known as the recoil, drives the gun into the shoulder or hand of the firer. Hiram Maxim was the first to realize that this reaction could be employed to cycle the gun’s mechanism, and produced his machine guns on that principle.
+
+Recoil The cocking handle is drawn back against the mainspring. As it returns to battery, it strips a round from the magazine and chambers it, while the lugs that lock it in place are forced into their recesses.
+
+Integral bipod Ammunition belt feedway Rifle-type butt Trigger Trigger Pistol grip Muzzle compensator Water jacket Rear sight Drum magazine Cooling fins Trigger Muzzle compensator Optical sight Box magazine Butt contains gun action Sear retains bolt Pin strikes cartridge Spring released by trigger Bolt jumps forward, chambering cartridge Bullet fires from cartridge Next cartridge f0r chamber Trigger retracted Recoil throws bolt to rear Spring will propel bolt forward Fore sight Direction of force Direction of force Grip how it works introduction
+
+the assault rifle (much-reduced in weight and length, thanks to the introduction of “bullpup” designs, which have the mechanism housed within the shoulder stock, and chambered for much lighter ammunition) has changed to accommodate the nature of the task facing the soldier who carries it.
+
+4 GLOSSARY RECOIL  The rearward movement of the barrel (or weapon) in reaction to the forward motion of the bullet.
+
+## RECOIL INTENSIFIER
+
+A device attached to the muzzle that increases the recoil of a recoil-operated automatic weapon.
+
+## RECOIL OPERATION  A
+
+weapon in which the cycle is effected by the recoil of the barrel or breech-block.
+
+REVOLVER  A weapon in which the ammunation is carried in a rotating cylinder.
+
+RIFLING  The spiral grooves cut into the barrel that induce spin on the bullet.
+
+RIMLESS  A type of cartridge case that has a recessed groove, rather than a rim, around its head, to allow the extractor to grip it.
+
+RIMMED  A cartridge case with a rimmed head to allow the extractor to grip it.
+
+SEAR  Part of the firing mechanism that connects the trigger to the cock, hammer, or striker by engaging in a bent in it.
+
+When the trigger is pulled, the sear clears the bent, allowing the hammer to fall.
+
+SELECTIVE FIRE  A weapon that can fire single rounds or automatically.
+
+SELF-LOADING  A weapon in which the act of firing a round recocks it, having chambered a fresh cartridge.
+
+SILENCER  A device at the muzzle that slows the propellant gas, by diverting it through baffles, and also slows the bullet to below the speed of sound.
+
+SUBMACHINE GUN  A hand- held automatic weapon firing pistol-caliber rounds.
+
+TRIGGER  The short lever that trips the sear out of the bent on the cock, hammer, etc. to initiate the firing sequence.
+
+WINDAGE  The adjustment of a sight to compensate for the effect of a cross- wind upon the bullet.
+
+ZEROING  Adjusting a weapon’s sights so that the point of aim and the point of impact are the same.
+
+Projector, Infantry, Anti-tank, 1942 The British Army’s PIAT of World War II vintage was perhaps one of the most bizarre weapons of the 20th century, yet despite its simplicity, it was capable of disabling even heavy tanks at up to a hundred yards, and could also function as a mortar and “bunker buster.” Toward the end of World War I, the rifle- caliber machine guns were joined by a much smaller automatic weapon, chambered for pistol ammunition and designed to put automatic firepower into the hands of the individual infantryman. The Bergmann MP18/I played only a very minor role, but it was to be a prophetic one. By the time war broke out in Europe again, the submachine gun had become ubiquitous. That, however, is not to say that its role has ever been completely understood in anything but close-quarters combat. Indeed many, even now, would maintain that its best feature is the shock it can generate, especially in a confined space, for such a weapon, capable of firing up to 1200 rounds per minute, is virtually impossible to control if the trigger is held down for any length of time. It is significant that perhaps the best of the genre in modern times, Heckler & Koch’s MP5, is available shorn of its rapid-fire setting. The police officers (and many of the soldiers) who carry such weapons do so not for their firepower, but for the increase in accuracy they offer over a pistol, thanks to their longer barrels, and for the greater capacity of their magazines.
+
+Submachine guns have never been seen as replacements for the infantryman’s assault rifle.
+
+Indeed, thanks to the drastic modifications the assault rifle has undergone, there is now more reason than ever to suggest that the submachine gun will soon join the pistol in having no effective military role beyond self-defense. More than any other man-portable weapon, The bolt is drawn back against the mainspring. As it returns to battery, it strips a round from the magazine and chambers it.
+
+The bolt is attached to a piston in a cylinder running parallel to the barrel. At its head is a vent into the barrel.
+
+As the projectile passes the vent, propellant gas is bled off, forcing the piston back. As the bolt travels to the rear, the spent cartridge case is ejected. If the trigger remains depressed, the cycle continues.
+
+Piston Ejected shell mi garand gas-operated rifle m16a2 gas-operated assault rifle walther wa2000 gas-operated sniper rifle As an alternative to harnessing the force of the gun’s recoil, it is possible to use some of the energy produced by the sudden production of a relatively large volume of gas that propels the bullet down the barrel. Some of that gas can be tapped off after the bullet has passed, and employed to unlock the gun’s action and drive the breech-block or bolt to the rear, cycling it.
+
+Gas Flash hider Folded bipod Cocking handle Variable-magnification telescopic sight Detachable box magazine Detachable magazine Trigger Plastic forestock Carrying handle protects rear sight Cocking handle Trigger Intergral box magazine Rear sight Barrel stocked close to muzzle Bayonet attachment lug Fore sight Cocking handle Safety catch Trigger Gas bleeds off into cylinder Gas cylinder Barrel Bolt Sear retains bolt Ammunition belt Spring Trigger releases bolt Firing pin strikes cartridge Bullet fires from cartridge Gas pushes on piston Bolt fully retracted Next cartridge f0r chamber Direction of force Direction of force Grip On pressing the trigger, the bolt flies forward and detonates the charge in the cartridge.
+
+how it works
+
+he most ancient form of armor was probably made of animal hides, followed by leather or cotton. As metal technology progressed, bronze, and then iron armor appeared. Greek hoplites from the 7th century bce wore a bronze helmet, a bell-shaped corselet of leather or bronze, and bronze greaves for the shins.
+
+During the early empire, the Romans developed banded-iron armor (called lorica segmentata), with reinforced sections across the shoulder, that allowed for more flexible movement. Later Roman infantry tended to be less heavily armored, although their cavalry (or cataphracts)
+
+wore a coat of heavy mail.
+
+Mail then remained the dominant form of armor in western Europe until the 15th century.
+
+Steppe nomads, such as the Turks and Mongols, wore both scale and lamellar armor, the latter constructed of individual pieces (or lames) laced together in horizontal rows (rather than being sewn on). The arrangement of protective plates thus formed could become quite elaborate, reaching the summit of its development in the O-Yoroi armor of Japanese samurai. Their hardened leather plates coated in lacquer to give strength equal to steel also provided greater flexibility and lightness.
+
+technological improvements By the 15th century, the danger from improved weapons including the longbow, crossbow, and firearms meant that chain armor, well adapted for deflecting sword blows, became more vulnerable. Small plates or discs of steel had already been added to armor to protect the most vulnerable areas, and these now evolved into entire suits of toughened steel.
+
+Gradually, from the 16th century, armor was reduced to save weight—and expense—for foot soldiers. For the cavalry, however, back- and breastplates (or cuirasses) survived into the 19th century, and in ceremonial form even later.
+
+With the development in the 20th century armor and helmets Spaulder Sallet Visor german gothic viking Bevor Besagew Coulter Gauntlet Breastplate Poleyn Greave Leather shoes Leather neck strip Mail shirt Kabuto (Helmet)
+
+Helmet crest Mempo (Face mask)
+
+Do (Cuirass)
+
+Kasazuri (Tasset)
+
+Haidate (Skirt guard)
+
+Suneate (Shin guards)
+
+japanese samurai mughal Riveted mail cloak Reinforced scalloped plates Large protective plates Cuisse Kote (Armored sleeves)
+
+Badge of rank The gorget was among the last pieces of armor to be worn on the battlefield. By the 18th century, a reduced version had become a badge marking out officers.
+
+introduction Rerebrace T
+
+of lightweight materials such as Kevlar, which could impede bullets, body armor made a return to the battlefield in the form of ballistic jackets.
+
+## HELMETS
+
+After the fall of Rome, the techniques for creating helmets from a single sheet of iron disappeared. Segmented helmets such as the Bandhelm, popular among the Vikings, replaced them, with a band holding the two parts of the bowl of the helmet together.
+
+Such early medieval European helmets did not protect the whole face, and just as body armor became heavier, so did head protection, leading to the evolution by the 12th century of “Great Helms” that covered the whole face and neck. Again, these proved too heavy and impractical and lighter versions, such as basinets, appeared by the later Middle Ages.
+
+Turkish and Mongol helmets often took a peaked form, a version in metal of the steppe nomads’ felt cap, while the Japanese samurai wore elaborate helmets of lacquered leather, with a mempo for additional protection. With the increased use in firearms, helmets began to disappear until improved designs, which could defend against bullets and shrapnel, led to a renaissance in helmets, from World War I “tin-pot” helmets, to the reinforced Kevlar helmets of the modern infantryman.
+
+## GLOSSARY
+
+Armet  Bowl-shaped helmet with cheek plates meeting at the chin, attached by hinges Arming cap  Quilted cap worn under a helmet Aventail  Skirt of mail to defend neck Bandenhelm  Germanic helmet held together by central band or ridge Bard  Armor designed for a horse Basinet  Conical or globular skull, often without visor Besagew  Small discs laced to the shoulder to defend armpit Bevor  Cupped chin defense Chapeau de Fer  Simple metal domed helmet Coolus helmet Late republican/early imperial Roman helmet with basin shape Corinthian helmet Classic Greek hoplite helmet Cuisse  Armor for the thigh Do  Japanese cuirass Gauntlet Hand armor of small plates attached to leather Gorget  Neck armor, often fixed to the plate with a latch or pin Great Helm Large helmet enclosing entire skull and neck Greave  Plate to defend lower leg Haidate  Skirtlike guard to protect groin Hauberk  A mail shirt Kabuto  Japanese helmet Kote  Armored sleeves in samurai armor Mempo  Ornamented face mask in Japanese armor Poleyn  Knee defense, often articulated and with projecting wings rerebrace  Tubular defense for upper arm Sabaton  Foot armor of articulated plates ending in toe-cap worn over leather shoes Sallet  Helmet with flared tail and visor Spangenhelm Germanic helmet of segmented construction Top  Indian Mughal helmet with mail veil vambrace  Tubular defense for forearm viking jousting helm korean GERMAN World War I us M1 Helmet Cheek guard Eye holes Reinforced ridge Ridge shape to deflect lances “Frog- shaped” visor Metal top knot Cone-shaped headpiece Nosepiece Felt ear flaps contain iron plates Peak Stirnpanzer (additional steel plate)
+
+Stud Inner padded lining Attaching strap Samurai helmet Japanese samurai helmets came in a wide variety of styles.
+
+This Hineno zunari bachi is a “head-shaped” version, with a helmet bowl of simplified construction, lacquered in red, with its frontal plate finished in gold lacquer.
+
+Helmet bowl Chin strap Outer steel shell
+
+the ancient world
+
+c.3000 bce Beginning of bronze-working in Mesopotamia allows introduction of more lethal weapons c.1250 bce Composite bows in use in Egypt c.1000 bce Rise of Assyrian empire c.4th century bce Arthasastra Indian treatise on military science 430–404 bce Peloponnesian War between Athens and Sparta 3000 bce 1500 bce 1000 bce 500 bce In prehistoric times there were no armies as such, merely ad hoc bands of warriors armed with stone weapons for raids on neighboring groups. But, as Neolithic agricultural settlements coalesced into villages and then, from the 4th millennium bce, into towns and cities with organized ruling and priestly classes, the means and weapons for waging war increased correspondingly in sophistication and effectiveness.
+
+Agriculture implied the concentration of greater resources in a fixed position, and the need to defend food, manpower, and minerals gave rise to the first walled city, Jericho, and fortified villages such as Çatal Hüyük in modern Turkey. It was in the fertile river valleys of Egypt, India, and, more particularly in the Sumerian culture of Mesopotamia that this process reached its fruition, with the growth of the earliest armies from around 3000 bce.
+
+The Sumerians inhabited many city-states, existing in an almost continuous state of warfare fueled by competition for the bounty of the “land between the two rivers.” The “Royal Standard of Ur,” excavated from one of the most successful of these city-states, carries the earliest depiction of an organized armed force, led by its lugal or king. It consists of a mixture of light infantry bearing javelins and battle axes (but no shields) and helmeted heavy infantry wielding a mass of longer spears.
+
+The Sumerian chariots were cumbersome affairs with solid wheels drawn by four ass-like creatures—hardly practical vehicles for warfare.
+
+A commemorative tablet known as the Stele of Vultures shows that by c.2450 bce, the Sumerians were fighting in a tight formation of helmeted spearmen, which prefigured the phalanx—the mainstay of infantry warfare for over 2,000 years.
+
+The Sumerian cities were eventually overcome by Sargon of Agade (c.2300 bce), who built the world’s earliest empire, campaigning with an army that was the first to exploit mixed arms, combining light troops with heavier infantry and archers. Although warfare continued to plague the region, the pace of technological change was relatively the first warriors This rock painting from Algeria shows one of the earliest images of warfare, as ranks of warriors armed with hunting bows confront each other.
+
+c.2600 bce War chariots depicted on Royal Standard of Ur c.1600 bce Chariot archers employed in warfare c.900 bce Scythians use bows from horseback c.700 bce Development of hoplite armor and tactics c.612 bce Destruction of Nineveh; end of Assyrian empire The earliest weapons—the bow, spear, club, and ax—had their origins in hunting, but it was in warfare—the competition for resources conducted by violent means—that they were honed and perfected as killing tools. Although the basic design of these weapons, and the materials used to make them, remained largely unchanged throughout the ancient period, from stone to copper, bronze and then iron, their efficacy (and the organization of those who wielded them) increased.
+
+slow, mainly consisting of refinements of existing weaponry. One example of this is in the improved molding that allowed the Mesopotamian battle ax to become double- bladed, inflicting appalling slashing and gouging wounds, and leading, in turn, to the increased use of metal helmets.
+
+technological innovations A series of cultural and technological developments in the 2nd millennium bce changed the face of warfare and allowed states to project their power ever further, garner more resources, and repeat the process until they came up against a stronger foe. One of these developments was the widespread domestication of the horse. At the same time, the perfection of bent-wood techniques, allowed spokes to be used on chariot wheels.
+
+Along with the development of a practical composite bow that allowed rapid fire from these new chariots, these developments helped New Kingdom Egypt—which though long politically united, had remained very c.2500 bce First metal armor in Mesopotamia c.3000 bce Palette of Narmer depicts Egyptian pharaoh using stone mace c.1200 bce Use of chariot declines in West Asia and Europe c.900 bce Introduction of iron swords in West Asia c.490 bce Battle of Marathon: Greek phalanxes defeat invading Persian army c.2000 bce Earliest metal swords in Mesopotamia c.1000 bce Iron begins to replace bronze in Mesopotamia 371 bce Theban victory at Leuctra ends Spartan hoplite supremacy
+
+216 bce Carthaginian Hannibal defeats Roman legions at Cannae 400 ce Bow and arrow introduced in eastern North America 632–c.750 ce Spread of Islam across West Asia and North Africa c.800 ce Abbasids develop damascene steel swords 350 bce 1 ce 500 ce 1000 ce Assyrian siege Archers formed a key component in an Assyrian army whose sophistication enabled it to fight pitched battles, send chariot forces across large distances, and deploy complex siege engines against any city that dared oppose it.
+
+107 bce Marian reforms establish standard Roman legionary equipment, including gladius sword, pilum javelin, and scutum shield 117 ce Roman empire reaches greatest extent c.900 ce Viking raids at peak in Europe conservative in its use of military technology —to launch a devastating series of campaigns in the Middle East. The chariots’ principle task was to disrupt opposing infantry and cut them down as they fled. Chariots rarely engaged each other directly, as at Kadesh (c.1275 bce), the earliest well-documented battle, where the army of Pharaoh Rameses II fought a draw with the Hittites, who had become Egypt’s principal rival.
+
+The discovery in around 1200 bce of hot- hammering and quenching iron in water to give stronger and longer-lasting blades added a new element of lethality to warfare, and also helped the spread of longer stabbing and slashing swords to supplant the daggers and axes, which had hitherto been the most common bladed weapons.
+
+the first standing army It was the Assyrians who were the first to really exploit this development. Employing the earliest standing army—as many as 100,000 strong according to one text—and exploiting their military prowess and reputation for ruthless extermination of those who opposed them, they carved out an enormous empire encompassing most of Mesopotamia. The Assyrians possessed a well-defined chain of command, with specialist units of cavalry, armed with iron-tipped spears, slingers, and bowmen, whose massed fire could be devastating to an enemy, and which led to an increased use in armor, such as knee-length scale tunics. They also developed extensive expertise in siege warfare, and in the taking of Lachish (701 bce) deployed siege engines that were not surpassed until Roman times.
+
+The Assyrian state under kings such as Tiglath- Pileser III (745–27 bce) was capable of fighting sustained campaigns and defending a large area with mobile chariot forces. In the end, however, the multinational nature of its empire was to prove its undoing, as its resources became overstretched and a series of revolts caused its rapid collapse in c.612 bce. The Persians, too, built a multiethnic empire from the mid-6th century bce, but on a magnified scale, stretching from the borders of India to the Aegean. At the heart of their army was an elite corps of “Immortals,” fighting with short spear and bow from behind a shield-wall. As the Persian domain expanded, light cavalry from Media, light infantry from the mountain regions, and even a camel-corps from the Middle East were added. Ironically, despite this well-balanced combination, the Persians were eventually defeated by an apparently tactically inflexible force, the Greek hoplite army.
+
+Greece was ill-suited to cavalry, its generally mountainous terrain was better for to small- scale infantry warfare. Emerging by 800 bce from the dark age of heroic warfare depicted in the epic poems of Homer, the Greek city-states relied on massed ranks of infantry soldiers, or hoplites.
+
+476 ce End of western Roman empire c.750 ce Carbon steel swords using folded steel process first appear in Japan 333–326 bce Alexander the Great’s Macedonians conquer Persia and Egypt 146 bce Rome defeats Carthage in 3rd Punic War 100 ce Spatha, longer slashing swords, come into use in Roman cavalry c.200 ce Indian forged steel used in weaponry 976 ce Magyars defeated at Battle of Lechfeld c.350 bce Macedonians develop phalanx with long sarissa pike
+
+Wielding a large shield held by a central hand-grip that protected only the left-side of the body, hoplites were dependent on their neighbor to shield their unguarded right side.
+
+Deployed in a phalanx, eight to twelve men deep, wielding long spears and protected by bronze helmets that left only the eyes and mouth exposed, the hoplites presented a shield and spear wall that opponents found very difficult to penetrate. The earliest depiction of such a phalanx occurred in around 670 bce. By the time of the Persian invasion in 490 bce, the development of this style of warfare, which depended on the cohesion of the soldiers within it, and their momentum as a mass, had been perfected by the Spartans, who possessed a full-time army trained in basic drills and able to conduct maneuvers such as facing an enemy coming from two directions. At Marathon (490 bce)
+
+and Plataea (479 bce), the Persians crumbled in the face of a hoplite charge, unable to counter with their cavalry, and undermined by their inferior discipline and cohesion.
+
+the army of alexander the great By the 4th century bce, it was a very different Greek army that took the fight to the Persians.
+
+The Macedonian army of Alexander the Great resolved the fundamental weakness of the hoplite force—its lack of a mounted striking arm. Alexander’s “Companions,” an elite cavalry unit, was trained to fight in a wedge- shaped formation ideal for penetrating other cavalry formations and disrupting infantry shield-walls. Added to this were the foot- companions, who fought on foot in a phalanx formation and were armed with the sarissa, a pike around 19½ ft (6 m) long. The sarissa of the foremost rank would project around 13 ft (4 m) in front of the phalanx, that of the second rank 6½ ft (2 m) and so on, creating an obstacle to deter all but the most determined assailant and which could also deflect missiles.
+
+The weight of the sarissa was such that the members of the phalanx wore just light leather corselets and greaves and carried only daggers as sidearms. In battle, the Companions would generally punch a hole in the enemy line, which the sarissa phalanx would exploit.
+
+The tactical genius of Alexander, who used oblique formations, feints, and envelopments to devastating effect, combined with the tactical flexibility that the mixed cavalry-infantry army of Macedonia permitted, enabled him to defeat the numerically superior Persians at Issus (333 bce) and Gaugamela (331 bce) and take over their empire wholesale. What they won through military cohesion, the Macedonian successors of Alexander lost through political fractiousness, and by the 1st century bce, the successor states in Asia and Africa were much weakened, while a manpower crisis in Greece meant traditional hoplite armies were increasingly difficult to sustain.
+
+the rise of rome It was into this arena that the new Mediterranean power of Rome encroached, backed up by a military force of unparalleled efficiency —the legion. Rome overcame its enemies, in part by its capacity to keep large armies constantly in the field (as many as 13 legions by 190 bce). The Romans could survive even such a devastating defeat as the Carthaginian Hannibal inflicted on them at Cannae in 216 bce—but their enemies had no such luxury.
+
+The organization of the legions developed over time, but by the early 1st century ce, had reached their full development (see box). It was above all the professionalism of the legionaries —who each served for 25 years—and the Roman Empire’s superior logistics, enabling it to equip, train, and transport large armies, that helped it to annex a huge area of Europe, North Africa, and West Asia and hold it for over four centuries.
+
+The Romans exceled in pitched battle and sought to force such confrontations whenever possible. Against more mobile foes, or The Roman Empire’s survival for over 400 years is a tribute to its ability to modify its military organization to face changing strategic needs.
+
+Under Marius in the late 2nd century bce, extensive reforms created the classic Roman legion, with standardized equipment supplied by the state, the cohort of around 100 men as the tactical unit, and a legion strength of about 4–5,000 men. Legionaries bore the short gladius (sword), the pilum (heavy throwing spear)
+
+—designed to break on impact —– the oval scutum (shield), and, from the 1st century ce, generally lorica segmentata (armor). The legions were supported by auxiliary troops, with more varied equipment, and specialists such as mounted archers and slingers. Under the later empire, legion sizes became much smaller—as little as 1,000—while the role of the cavalry and units recruited from Germanic tribes increased.
+
+egyptian spearhead This spearhead, discovered wrapped in a linen binding, is typical of the weapons carried by Pharaonic armies from the Old Kingdom right up until military changes during the New Kingdom brought chariot- borne archers to the fore.
+
+the roman army carved tablet the ancient world
+
+Terracotta Warrior The terracotta army, buried in the tomb of Emperor Huang Di, who unified China c.220 bce, is testament to the variety and sophistication of Chinese armies of the time.
+
+opponents who had no cities or fixed centers to defend, however, the Roman way of war faltered. When defending long, fixed frontiers the legions could not cover all possible points of attack. Long vulnerable to mounted horse archers, such as the Parthians who overwhelmed Crassus at Carrhae in 53 bce, the Romans also found it increasingly difficult to absorb the sapping pillage and run tactics of the German warrior federations that evolved from the 3rd century. The late empire, from the time of Gallienus (260–68 ce), came to depend more on a mobile field force (the comitatenses), with an enhanced heavy cavalry arm, wielding longer spatha swords. With their suits of mail, and sometimes carrying lances, these armored soldiers began to resemble the knights of early medieval times. At the same time, the frontier troops (limitanei), starved of resources and motivation, became increasingly unable to withstand the successive waves of Goths, Vandals, Huns, and other barbarian invaders.
+
+after the romans When the Roman Empire in the West finally collapsed in 476 ce, the Germanic successor states inherited many of its legal and administrative systems. The most powerful of these, the Frankish kingdom, was able to project its power beyond the Rhine, into Italy and even northern Spain in the late 8th century under Charlemagne. Fighting in mailed byrnies (leather jackets) and armed with long swords and axes, the Frankish army’s superior arms and organization, along with its use of auxiliaries from conquered nations such as the Saxons and Carinthians, made it invulnerable to everything save the political division and dynastic squabbling that fragmented the kingdom in the 9th century.
+
+The break-up of the Frankish Empire came just as Europe and Byzantium—the remnant of the Roman Empire in the East—faced fresh military challenges. From the north came the Vikings, at first small groups of ship-borne raiders preying on lightly-defended coastal territories, and then larger forces carried inland on ponies or by portage along rivers to bring devastation as far afield as Anglo-Saxon Wessex, Paris, Kievan Rus, and Constantinople.
+
+Fighting with double-edged swords 28½–32 in (70–80 cm) in length, light spears for throwing and heavier ones for thrusting, and long-handled broad-bladed battle axes, the Vikings inspired terror in Europe for over 250 years.
+
+Out of the Middle East, meanwhile, came another military force, which was to endure far longer. From the 630s, Arab armies, united under the banner of the new religion of Islam, swept through the peninsula and then outward to overwhelm the tired autocracies of Byzantium and Persia. The Islamic victory was not achieved at first through any superior technology—although the Arab armies’ use of the camel for transportation doubtless assisted them in the desert terrain of many of their victories—but through the cohesive inspiration of ideology.
+
+When the new religion spread to the Turkic horse archers of the Central Asian steppes by the 9th century, the combination threatened for a time to be unstoppable.
+
+3 32–33 mesopotamian weapons and armor          3 34–37 ancient egyptian weapons and armor 3000 BCE—1000 CE Fine cutting edge Narrowed point Serrated teeth for sawing date c.40,000 bce origin unknown length 4 in (10 cm)
+
+paleolithic blades To be able to cut was of prime importance for early man, and these blades—dating back to about 40,000 BCE—would have been used to dismember animals that had been killed by paleolithic hunters.
+
+Such blades were capable of severing sinew, and separating the skin from the animal’s flesh.
+
+date c.250,000–70,000 bce origin unknown length 6 in (15 cm)
+
+hand ax A key tool of the paleolithic age, the hand ax was shaped to provide both a cutting edge and a point. Although hand axes were essentially domestic tools, they were capable of inflicting savage wounds against both animals and people. Their cutting ability made them highly prized implements.
+
+date c.2000 bce origin unknown length 6 in (15 cm)
+
+FLINT DAGGER head A development of the hand ax, this dagger is fashioned from flint, a hard rock readily available in areas of chalk downland and capable of taking a sharp edge. A piece of flint would be repeatedly struck by a stone hammer, knocking off small flakes of flint until a fine edge remained.
+
+date 1,500,000–10,000 bce origin unknown length 8 in (20 cm)
+
+serrated flint knife A development of the simple flint dagger is the serrated knife shown here. The knife’s teeth make possible a sawing action, and this provided the paleolithic hunter with an opportunity of cutting through harder objects such as bone, gristle, and— during the Ice Age—frozen meat.
+
+Sharp broad point the ancient world the first weapons the ability of human beings to manufacture tools was an early step toward gaining mastery over their environment. Among the first tools to appear were simple hand blades and axes made from hard rock; they would have been used to kill and dismember animals, but they also had the potential to be employed against other humans. The distinction between hunting and military weaponry necessarily remained blurred for many millennia. With the invention of the handle or shaft, and the development of projectile weapons—the spear and, above all, the bow and arrow—a revolution in hunting and fighting was underway.
+
+Rough cutting edge Area held by hand
+
+Tang to attach arrowhead to shaft Leather binding Sinew or leather binding Cutting edge Triangular point Reproduction wooden handle Stone ax head Smooth stone axhead date 8000–4000 bce origin unknown length 8 in (20 cm)
+
+early adze The stone head of the adze is inserted into a sleeve made from antler-horn, which is then bound to the wooden shaft by strips of leather. The adze is primarily a domestic or agricultural tool, but it does not take too much imagination to see this as a forerunner to the battle ax.
+
+date c.2700–1800 bce origin unknown length 2 in (5 cm)
+
+flint arrowheads The bow was a leap forward in weapon technology, enabling the archer to fire from a distance with power and accuracy. Made from flint, these arrowheads have barbs that would embed themselves deep inside the victim, ensuring that any attempt to remove them would be difficult.
+
+date c.10,000 bce origin us length 4 in (10 cm)
+
+small clovis point In 1932 this Ice-Age spearhead was unearthed in Clovis, New Mexico, along with other weapon points. The broad blade of this spearhead could inflict severe wounds. The binding of the spearhead to a long wooden shaft gave the fighter an opportunity to throw it at his opponent with great force, from a relatively safe distance.
+
+date 1,500,000–10,000 bce origin unknown length 12 in (30 cm)
+
+flint hand dagger By lashing the flint blade to a wooden shaft with a binding of sinew or leather strips, the simple hand dagger was transformed into a deadly weapon of war. The addition of the shaft enabled the Stone-Age fighter to plunge the blade into his opponent with the full force of his arm.
+
+date 4000–2000 bce origin england length 8 in (20 cm)
+
+stone axhead A dual-purpose tool, the stone ax could have been used for clearing vegetation, but would have been capable of smashing in a human skull. The addition of a wooden handle provided greater reach and power. This axhead was dredged from the Thames River in London.
+
+Antler horn sleeve Wooden shaft Flint blade Reproduction wooden handle Originally attached to shaft Leather strips binding axhead to shaft
+
+4 30–31 prehistoric weapons          3 34–37 ancient egyptian weapons and armor 3000 BCE–1000 CE the ancient world date c.2500 bce origin sumeria length 9½–12 in (20–30 cm)
+
+ceremonial dagger Excavated from the burial site of the Sumerian Queen Pu-Abi in around 2500 BCE, this ceremonial dagger is of the highest quality—a suitable weapon for a monarch to carry on her journey to the afterlife. The blade and scabbard are made from gold, while the hilt is constructed from lapis lazuli finished with gold decoration.
+
+Hair-effect decoration date c.2500 bce origin sumeria length 8½ in (22 cm)
+
+HELMET OF MESKalam-dug Made from an alloy of gold and silver, this ceremonial helmet was found in the Sumerian city of Ur and dates back to the third millennium BCE. Known as a wig helmet, the decoration mimics the hairstyle worn by Sumerian kings of the period.
+
+Gold scabbard Double- edged blade Mesopotamian weapons and armor organized warfare originated in the Sumerian city states of southern Mesopotamia in around 3000 BCE. Armor was made from leather, copper, and bronze, and the chief weapons were the bow and spear. Mobility was provided by chariots, at first four-wheeled vehicles drawn by asses, but improved to become light, horse-drawn, two-wheeled platforms for archers and spearmen. Improvements in city fortification led to developments in siege warfare techniques, such as the use of battering rams and scaling towers.
+
+Blue lapis lazuli hilt Intricate geometric design Cheek guards to protect side of face Hole for attaching lining Diadem
+
+assyrian warfare Assyrian warriors, here depicted on a relief carving, in the Battle of Til-Tuba c.650 BCE. Some men are well protected with armor and large shields, and the two main Assyrian weapons, spear and bow, are clearly in evidence.
+
+date 1800–620 bce origin assyria length each plate: 2 in (5 cm)
+
+ASSYRIAN scale ARMOR Constructed from bronze, this early example of lamellar armor—where small plates are laced together—was worn by an Assyrian warrior. Such armor was popular in the Middle East until the end of the Middle Ages.
+
+date arrows: c.1350 bce origin assyria length 37½ in (95.5 cm)
+
+assyrian bow and arrows While we know that the Ancient Egyptians used composite bows of wood, horn, and sinew glued together, our knowledge of Assyrian bows is less clear; they may have used composite bows, or simple wood bows. The bow and arrows shown here are replicas.
+
+Holes for twine Bronze plates Pieces of horn glued between wood Bowstring Bow nock Flight made from feathers Bronze arrowhead Laced twine Cane shaft Wooden grip date bow: c.750 bce origin assyria length 56 in (142 cm)
+
+Bow nock in form of duck
+
+4 32–33 mesopotamian weapons and armor          3 40–41 ancient greek weapons and armor          3 44–45 ancient roman weapons and armor 3000 BCE—1000 CE the ancient world date 2200–1640 bce origin egypt length 6 in (17.1 cm)
+
+bronze axhead The Egyptian enthusiasm for axes led to the development of a wide variety of axhead shapes. This broad, scalloped example has small holes where the head is bound to the shaft.
+
+The distinctive shape of the blade makes possible a wide slashing action, effective against opponents wearing little or no armor.
+
+date c.2000 bce origin egypt length 10 in (25 cm)
+
+## BRONZE SPEARHEAD
+
+This spearhead is typical of those carried by Egyptian infantrymen, whose main weapon was the spear. Made from bronze, it was covered in fine linen cloth, whose weave is apparent in this view.
+
+This weapon would have been used mainly for thrusting, not thrown as a javelin.
+
+Mummified remains of cuirass Attachment holes Thin, curved, scalloped ax blade Socket for insertion of shaft Crocodile- skin helmet date 3rd century ce origin egypt length cuirass: 34 in (88.5 cm)
+
+## CROCODILE-SKIN ARMOR
+
+The crocodile was revered by the Ancient Egyptians, who believed that the wearer of its skin would take on the strength and attributes of this fearsome animal. Crocodile cults continued into classical times, and the wearing of crocodile armor was popular with Roman soldiers garrisoned in Egypt.
+
+Ancient Egyptian weapons and armor from approximately 3000–1500 bce the Egyptian army fought mainly on foot, its soldiers protected by large wooden shields and armed with bows, spears, and axes. The long struggle with the people of Hyksos, who came to rule parts of Egypt in the second millennium bce, brought about a change in weapon technology. Helmets, armor, and swords became more common, and chariots provided highly mobile archery platforms.
+
+Leaf-shaped spearpoint Khepesh (sickle-shaped sword)
+
+date 1333–1323 bce origin egypt length 33 in (85 cm)
+
+“LION KING” shield One of the eight ceremonial shields discovered in the annex to Tutankhamun’s tomb, it depicts the king in the guise of a lion scattering his enemies before him. This is one of a number of depictions showing Tutankhamun adopting a martial pose. Simple wooden versions of this type of shield would have been carried by Egyptian foot soldiers.
+
+date 5500–3100 bce origin egypt length 2 in (6.1 cm)
+
+## FLINT ARROWHEAD
+
+The Egyptians were early exponents of the bow, and it formed the most effective element within their armory. The first composite bow was portrayed on a victory monument as early as 2800 BCE. Early arrowheads were made from flint, subsequently to be replaced by bronze.
+
+date 1333–1323 bce origin egypt length 33 in (85 cm)
+
+“SMITING A LION” ceremonial shield The discovery of the tomb of Tutankhamun (who reigned c.1336–1327 BCE) provided a mass of information on Egyptian life, including the weapons and tools of the period. This ceremonial shield shows the king slaying a lion while armed with an unusual type of sword called a khepesh.
+
+date 1500–1070 bce origin egypt length 2 in (7 cm)
+
+## BRONZE HEAD
+
+Used either to arm a thin spear or an arrow, this bronze head is notable for its pronounced barbs. Although expensive to produce, bronze arrowheads were widely used by the Egyptians, who fitted them to shafts made from the long reeds growing along the Nile River.
+
+Tang Broad head Pronounced barb Pattern of original fine Egyptian linen Triangular arrowhead designed to kill victim outright Shield made from gilded wood Intricate openwork wood carving Tutankhamen guarded by falcon god Horus
+
+4 32–33 mesopotamian weapons and armor         3 40–41 ancient greek weapons and armor          3 44–45 ancient roman weapons and armor 3000 BCE–1000 CE Ancient Egyptian weapons and armor Gold gilt handle Wooden shaft Wooden shaft date 1539–1075 bce origin egypt length 12½ in (32.3 cm)
+
+short sword Until the New Kingdom (c.1539–1075 bce) the sword had not been highly regarded by the Egyptians, but military encounters with warlike peoples from the Middle East encouraged the development of edged weapons capable of penetrating armor. This broad-bladed short sword has a gold gilt handle, almost certainly that of a member of the Egyptian royal family.
+
+Double-edged copper blade Wide, double-edged metal blade Gold gilt handle Double-edged iron blade Decorated gold handle date c.1370–1352 BCE origin egypt length 16¼ in (41.1 cm)
+
+A PHARaoH’S DAGGER Belonging to Tutankhamen, this gold-handled dagger has an iron blade rare in this period. The Egyptians had no direct access to iron ore and were dependent on supplies from the Middle East—often under the control of their enemies—which consequently made the production of iron weapons a difficult business.
+
+date 1539–1075 bce origin egypt length 16 in (40.6 cm)
+
+long sword Featuring a large, mushroom-shaped pommel, this sword has a copper blade, while the handle is covered in gilded gold. Although copper was readily available in Egypt, it lacked the strength of bronze and iron, and the blade could not be made to take a sharp edge.
+
+Detailing influenced by Middle Eastern design Mushroom-shaped pommel
+
+Leather strip binding to lash axhead to shaft Intricate warrior -on-horseback design Original binding Bronze axhead date 1539–1075 bce origin egypt length 17 in (43.5 cm)
+
+ceremonial ax The ax (and the mace) were weapons that had strong associations with power and prestige, and ceremonial versions were carried by Egyptian rulers. Typically, a scene showing the triumph of the Pharaoh would be engraved on the axhead, although in this instance, a warrior is depicted on horseback in an open metalwork design.
+
+date 1630–1520 bce origin egypt length 16¼ in (41.1 cm)
+
+battle ax This heavy bronze axhead is inserted into a wooden shaft and then bound securely in place. Such axes would have been capable of penetrating leather, and light bronze armor.
+
+Cutting edge of blade date 20th century origin egypt length 16½ in (42 cm)
+
+replica battle ax This modern reconstruction of an Egyptian battle ax shows the axhead in place within a wooden shaft. This is the type of weapon that would have been used by the ordinary Egyptian foot soldier, and was a response to the increased use of armor by Egypt’s enemies during the middle of the second millennium BCE.
+
+Wooden shaft Axhead inserted into groove in shaft Open metalwork axhead
+
+Tutankhamun Egyptian King Tutankhamun (r.1332–1322 bce) shoots arrows at retreating enemies from his chariot.
+
+Evidence that bows and arrows were among the most common weapons of this period is found in tomb paintings, on coffins, and from excavated finds. These weapons would have been used alongside axes and short swords.
+
+4 34–37 ancient egyptian weapons and armor          3 42–43 great warriors: greek hoplite          3 44–45 ancient roman weapons and armor 3000 BCE—1000 CE the ancient world Socket for spear shaft Ancient Greek weapons and Armor warfare in classical greece was centered around the hoplite, a heavily equipped foot soldier armed with a spear and sword, and protected by a large round shield, bronze helmet, bronze or leather cuirass, and greaves. Hoplites fought closely together, forming a wall of shields in a phalanx that maximized their protection while enabling them to use their spear. The hoplite phalanx was supported by light infantry armed with bows and sling shots date 5th century bce origin italy length 19½ in (50 cm)
+
+bronze cuirass This muscled cuirass consists of a breast- and backplate joined together by hooks and straps.
+
+It would have been worn by a senior officer and would have been made to measure. The ordinary hoplite wore a more simple cuirass made either from bronze or from stiffened leather.
+
+Ridges to align with body muscles Spearpoint date 4th century ce origin macedonia length 15 in (38 cm)
+
+hoplite spear butt Made from bronze, this spear butt’s main purpose was to act as a counterweight to the head at the other end of the spear, although if the spearhead broke off in battle, the butt could be used as a weapon. A thick bronze ring secured the butt to the spear.
+
+date 6–5th centuries bce origin greece length 12¼ in (31 cm)
+
+greek spearhead The spear was the hoplite’s principal weapon, his short iron sword only being used if his spear was broken during fighting. This spearhead is wide- bladed and made from iron, and the missing shaft would have been fashioned from strong wood such as ash.
+
+Indentation for bronze securing ring Wide leaf- shaped spear blade Two plates joined at side by leather strap Open side areas most vulnerable sections
+
+Shaped to fit leg muscles Nasal between two eye sights Hinged cheek flaps could be raised when out of battle date c.650 bce origin greece weight 3½ lb (1.54 kg)
+
+Corinthian helmet An early example of perhaps the most famous Greek helmet, this Corinthian design follows the shape of the skull, and extends downward toward the shoulders and neck, leaving a narrow face opening with space for the eyes between a nasal.
+
+date 6–5th centuries bce origin greece weight 3½–3¾ lb (1.5–1.75 kg)
+
+Corinthian helmet The hoplite wearing his Corinthian helmet would have been a frightening sight to any opponent: a pair of glaring eyes behind stylized cutouts in the helmet face. A large horsehair crest was typically attached to the crown of the helmet to make the soldier look more impressive, as well as providing a means of identification in the thick of battle.
+
+date 6–5th centuries bce origin greece weight 3½–3¾ lb (1.5–1.75 kg)
+
+Corinthian helmet The Corinthian helmet provided good protection against all but the heaviest blows, but it was undeniably heavy, and it restricted sight and hearing while fighting. Toward the end of the 5th century, lighter designs became more popular.
+
+date 5th century bce origin greece weight 3½–3¾ lb (1.5–1.75 kg)
+
+attic helmet Based on the Chalcidian helmet —which had evolved from the Corinthian—the Attic helmet provided better all-round vision and hearing, even if protection was reduced.
+
+Although named after the region around Athens, the Attic helmet proved most popular in the Greek city states in southern Italy.
+
+date 6th century bce origin greece length 19 in (48 cm)
+
+Bronze greaves The hoplite’s large shield protected the lower abdomen and thighs, but to protect his knees and shins, he wore a pair of bronze greaves. The greaves shown here are sufficiently light and flexible that they could be “clipped on” over the soldier’s calves without the need for leather straps.
+
+Helmet made from a single piece of bronze Ceremonial or religious figure Long nosepiece Cheek guards Long, pronounced cheek guards Ridge decoration Almond-shaped eye sights
+
+greek hoplite from the 7th to the 4th century BCE, the city states of Ancient Greece had citizen armies built around heavy infantry known as hoplites.
+
+Fighting at close quarters in tight formation, they proved more than a match for Persian invaders at Marathon and Plataea, and fought one another in the internecine Peloponnesian Wars. After the decline of the city states, Greek infantry served in the all-conquering army of Alexander the Great and as mercenaries fighting for Middle Eastern powers.
+
+hoplites entering battle As hoplites enter combat, the stabbing spear is wielded overarm while the large round shield is worn hooked over the left forearm. The need for greaves to protect the lower leg, exposed beneath the level of the shield, is evident. The horsehair crests on the helmets were probably for visual effect. Showing the hoplites without clothing aside from their armor is only an artistic convention.
+
+citizen soldiers The hoplite of the city-state era was an amateur, part- time soldier. Military service was both a duty and a privilege of his status as a citizen of Athens, Sparta, or Thebes. The hoplite was obliged to present himself for service equipped with armor, shield, sword, and spear when the state required.
+
+Only well-off citizens could afford the panoply of armor and other equipment, so hoplites were of necessity a social elite. They fought banded together in a tight formation known as a phalanx, while lightly armed infantry from the lower classes swarmed around their flanks armed with missile weapons. The best trained and disciplined of the city-state armies was that of Sparta. Its citizens were dedicated to military life from the age of seven and young men lived in barracks, away from their wives, to encourage male bonding. In general, though, as one would expect of  a citizens’ militia, hoplites were not rigorously trained. Physical fitness through competitive games was considered a better preparation for war than drill or strict discipline.
+
+Their effectiveness as fighters was largely consequent upon the high morale of free men battling for their own city and for their reputation in the eyes of their fellow citizens. This gave them the resolve to prevail in face-to-face, close-quarters combat.
+
+Cuirass molding idealizes warrior’s muscles Hoplite armor A fully armored hoplite wore a helmet, cuirass, and greaves, all made of bronze. Polished until it shone, armor provided an impressive visual display of status as well as practical protection.
+
+Hoplite and chariot Chariots are frequently represented in Ancient Greek art, because they feature prominently in the story of the Trojan Wars as narrated in Homer’s Iliad. By the city-state period, the Greeks no longer used chariots, although their enemies, the Persians, certainly did.
+
+Corinthian hammered bronze helmet Bronze helmet with cheek guards Bronze greaves protect legs exposed below shield Two cuirass plates held together at sides with leather straps the ancient world
+
+## PHALANX FORMATION
+
+Greek hoplites fought standing shoulder to shoulder in a phalanx, confronting the enemy with a wall of shields. Since each man’s safety depended on his neighbor standing firm, it was a style of warfare in which group bonding was at a premium. When two phalanxes met, charging in opposite directions, there was a mighty clash of shield on shield. The hoplites stabbed with their spears and pushed with their shields until one of the formations broke and fled.
+
+corinthian helmet hoplite phalanx TOOLS OF combat “go near, strike with a long spear or a sword at close range, and kill a man. set foot against foot, press shield against shield, fling crest against crest…” spear-butt spike spearhead great warriors spartan poet tyrtaeus, 7th century bce
+
+4 40–41 ancient greek weapons and armor          3 46–47 great warriors: roman legionary 3000 BCE—1000 CE the ancient world Metal boss to provide extra protection for hand grip (on shield reverse)
+
+date 1–3rd centuries ce origin roman empire Lorica segmentata Made of iron strips, this reproduction lorica segmentata—a combination of cuirass and shoulder defense—was worn from early in the 1st century CE to the 3rd century CE. This armor gave the Roman legionary a reasonable degree of protection and mobility.
+
+date replica length 44 in (112 cm)
+
+scutum This is a replica of a rectangular infantry shield or scutum. The shield, made from laminated strips of wood, was covered with leather and then linen, the latter providing a surface upon which to paint legionary insignia. The shield was slightly curved to provide an element of all-round protection.
+
+gallic helmet Originating in the Roman province of Gaul, the Gallic helmet was used widely from 50 to 150 CE. Made from iron, this replica features a deep neck guard, a short brow guard to deflect sword and ax strokes away from the face, and broad cheek guards. The cheek guards are hinged to the side of the helmet, and then tied under the chin with straps or cords.
+
+date 50–150 ce origin gaul/italy lorica squamata Another type of curiass was the squamata. This was made of overlapping bronze or iron scales attached to hide or strong cloth. The scales, joined to each other with metal wires, were usually positioned in horizontal rows.
+
+Neck guard Shoulder defenses Overlapping bronze scales Bronze and leather attachments holding iron armor strips together Hinged cheek guard ancient roman weapons and armor the roman army was the finest fighting machine of the Ancient World. Its troops were highly disciplined, well trained, and generally well led. The Roman legionary was also well equipped for whatever task was demanded of him. Archers and javelin-throwing light troops would disrupt the enemy, but the main battle was invariably fought by the heavy foot soldier: protected by a large rectangular shield, he fought in close formation to overwhelm the enemy with his short sword.
+
+Holder for horsehair crest Brow guard
+
+Scenes of gladiatorial combat Rusted and corroded steel sword blade Legion’s eagle standard in a shrine date 2nd bce–1st ce origin italy gladius and scabbard While spears were important in softening up the enemy, the key Roman weapon was the short sword or gladius, which the legionary used to stab his opponent. Decorated in gold and silver, this magnificent ceremonial gladius was probably presented to a favored officer by the Emperor Tiberius.
+
+date c.15 ce origin rome length 22½ in (57.5 cm)
+
+lancea and pilum There are three main types of Roman spear: the heavy thrusting spear (hasta), the light thrusting spear (lancea), and the weighted javelin (pilum). This replica pilum has a long iron spearhead intended to pierce shields or armor; it was also designed to bend or break off on impact to prevent the enemy from throwing it back.
+
+Simple circular design lancea pilum gallic Helmet This replica Roman Gallic-style helmet proved effective for the Roman Army: it provided good protection for the head and shoulders and allowed the legionary good visibility and the ability to hear commands.
+
+gladiator’s Helmet The provocator (or challenger) gladiator was equipped with a helmet based on the Roman legionary’s Gallic pattern, but with the addition of a full-face visor with two round eye holes covered with protective grates.
+
+date 1st bce–3rd ce origin rome Portrait of the Emperor Tiberius Gold decoration showing Tiberius presenting his victories to stepfather Emperor Augustus Long shaft made of ash Long iron point montefortino Helmet This replica helmet design dates back to 200 BCE, and was based on that used by the Romans’ Celtic opponents. Like the similar Coolus helmet, it was made from bronze, and produced in vast numbers for Roman legionaries until the mid-1st century CE.
+
+Long cheek guards Holder for horsehair plume Deep neck guard Full face protection Shallow visor Protective grates over eyes Traces of wood from scabbard adhering to steel blade Horsehair crest date 2nd bce–1st ce origin italy
+
+roman legionary the roman army of the 1st century CE held together an empire stretching from Britain to North Africa, and from Spain to the Middle East. The majority of the soldiers of the Roman legions were armored infantry. Stationed in fortresses, forts, and camps around the empire, the legionaries acted as police, administrators, construction workers, and engineers, and carried out duties that ranged from patrols to full-scale wars.
+
+Roman auxiliaries Two Roman auxiliaries offer the severed heads of their enemies to the emperor, behind the backs of a rank of legionaries. Whereas all legionaries were Roman citizens, the auxiliaries were non-citizens. They can be distinguished by their oval shields and mail body armor. The auxiliary legions had lower status but were often made to bear the brunt of the fighting.
+
+Professional soldiers The Roman legionary was a professional soldier engaged for 20 years active service plus five years lighter duties as a “veteran.” Legionaries were recruited from Roman citizens, mostly volunteers from the poorer classes. They were organized into centuries of 80 men, led by a centurion. Six centuries made a cohort and ten cohorts a legion.
+
+The system encouraged group loyalty at every level.
+
+Rigorous training and daily drill made the legionary a disciplined, hardened fighting man. He was trained to march 20 miles (322 km) in five hours and to fight with absolute ruthlessness. Drawn up for battle, legionaries waited until the enemy was almost upon them before throwing their pilum (spear), then attacking with the gladius (short sword). Punishments for lapses of discipline were brutal—a man who slept on guard was clubbed to death by his colleagues. On retirement, the legionary received a plot of land or a lump-sum payment in recognition of his service.
+
+Horsehair crest may have indicated rank Iron plates attached to leather straps Cheek pieces hinged to side of helmet Trajan’s Column In a scene from the Dacian Wars (101–106 AD), as depicted on Trajan’s Column in Rome, Roman soldiers fight back against a Dacian assault on the walls of their fort, while a column of legionaries with a mounted officer arrives to rescue them.
+
+Erected to commemorate the emperor Trajan’s campaigns, the column provides a visual record of Roman military life.
+
+Hadrian’s Wall Roman legionaries could be classified as combat engineers, for construction work was as much a part of their duties as fighting.
+
+Hadrian’s Wall, which stretches across 73 miles (118 km) of northern England, was built by legionaries in the early 2nd century. Marking the northern limit of the Empire, the wall and its forts were manned by the legions for over 250 years.
+
+excavated Vindolanda Fort ruins at hadrian’s wall Legionary dress When the Roman Empire was at its height, legionaries wore simple bronze helmets and segmented armor (lorica segmentata). Under the armor, they had a belted tunic and, on their feet, sturdy metal-studded sandals. The ability of the Roman state to equip all its soldiers with armor and helmets contrasted with the Empire’s “barbarian” enemies.
+
+roman infantry shield Reproduction 1st century BCE bronze Montefortina-style helmet Extra protection for shoulder “the romans instill into their soldiers fortitude, not only of body, but also of soul.” Reproduction 1st century AD plate armor the ancient world contemporary jewish historian josephus, the jewish war
+
+original scabbard sword blade gladius: short sword gladius scabbard TOOLS OF combat hasta and pilum: throwing spears great warriors
+
+4 40–41 ancient greek weapons and armor          4 44–45 ancient roman weapons and armor          3 50–51 anglo-saxon and frankish weapons and armor 3000 BCE–1000 CE the ancient world Carefully worked bronze rivets Horns were often symbols of gods in the Ancient World Extended unsharpened ricasso Wood, bone, or horn plates The edges were hammered repeatedly celtic dagger The breathtaking art of the Celts is displayed on the hilt of this dagger. As with so many pieces of arms and armor that have survived, it has probably done so because it was used for funerary or display purposes. Knives and daggers were working tools, but this is so beautiful and intricate that it may not have been designed for everyday use.
+
+date unknown origin britain date c.1000 bce origin britain length 22¾ in (57.9 cm)
+
+Bronze leaf-shaped sword Until iron working started around 600 BCE, bronze dominated weapon manufacture. This leaf-shaped sword is typical in size and shape of Bronze-Age swords, with a double-edged blade.
+
+Bronze is hard to sharpen and keep sharp, so this blade represents significant metalworking skills.
+
+date 250–50 bce origin britain height 9.5 in (24 cm)
+
+Bronze helmet The only horned Iron-Age helmet to be found in Europe, this piece is made from bronze sheets riveted together. Dredged from the Thames River in London, it is almost certainly a parade helmet, not being strong enough to wear in battle.
+
+Celtic La Tène-style decoration Estimated to fit head size 22½ in (56 cm)
+
+Originally highly polished and shiny One-piece casting bronze- and iron-age weapons and armor the celts were great warriors: in 390 BCE they crushed the army of the Roman Republic and sacked Rome itself. They were known as swordsmen, heavy infantry who repeatedly charged their enemies. Most fought on foot with little armor other than a helmet and shield. The nobles fought from horseback or, particularly in Britain, chariots. The Celts are famed for their decorative and metalworking skills.
+
+germanic bronze sword Bronze-Age one-piece, leaf-shaped swords were designed for slashing and were often more effective than a spear or longer thrusting sword. This suited the method of fighting the Celts preferred.
+
+date 1000 bce origin germany length 25¾ in (66.5 cm)
+
+Engraved ornamentation on pommel Decorative bronze metalwork on hilt Iron blade Hilt originally wrapped in leather
+
+the battersea shield Pulled from the Thames River at Battersea Bridge in London in 1857, this is the decorative bronze cover to a wooden shield. Almost certainly a parade shield, it seems too finely wrought to have been used in combat.
+
+Celtic shields were circular at first, but during the Iron Age period, they adopted the longer, full-body shield.
+
+date 350–50 bce origin britain length 30½ in (77.7 cm)
+
+full view iron-age dagger in sheath This decorated iron dagger in its bronze sheath would have belonged to a tribal chief. Iron blades showed status in this period, and were also used for everyday functions, but only in extreme circumstances in battles fought with swords or spears.
+
+date 550–450 bce origin britain broad-bladed battle ax The head of this ax has been hammered from one iron bar. A long wooden handle was wedged tightly into the socket to make an effective weapon for hand-to-hand combat.
+
+date unknown origin northern europe Leaf-shaped head Socket is hollowed-out Long steel cutting edge bronze axhead Bronze battle axes, with sockets to take a wooden shaft, are associated with the Celts from the earliest times. They were used as tools but they were also useful in hand-to- hand combat. They would become more effective when made from iron.
+
+date 750–650 bce origin unknown bronze spearhead Spears and javelins played an important role in Celtic battle tactics. Charging the enemy, the infantry would hurl their javelins from about 90 ft (30 m) hoping to break up the ranks ahead for single combat. Spears were used as thrusting weapons, by infantry and cavalry.
+
+date 900–800 bce origin unknown length 20 in (50 cm)
+
+Shield has 27 studs of red glass Holes for cross-straps Shaft wedged tight rather than tied Wooden sheath with bronze strips La Tène-style decoration Boss protects hollowed-out handhold on the reverse Decorated guard Bronze does not hold edge well
+
+4 40–41 ancient greek weapons and armor          4 44–45 ancient roman weapons and armor          4 48–49 bronze- and iron-age weapons and armor 3000 BCE–1000 CE the ancient world False, unsharpened edge Tough single- edged blade Blades are always single-edged Grip made of wood or bone covered with leather Typical, slightly tapering, double-edged blade date 400–500 ce origin northern europe length 8½ in (21.5 cm)
+
+Short Saxon spear The main weapon of this period was the spear, carried equally by a lord, his retinue, professional fighters, and the mass of troops. There were two types, those used for hand-to-hand combat and those thrown before contact with the enemy, which tend to be lighter and, in the case of the Frankish angon, much like the Roman pilum.
+
+date 900–1000 ce origin northern europe weight 2 oz (0.06 kg)
+
+length 7½ in (19 cm)
+
+Scamasax The scamasax or scramasax is a long seax—the length of a sword—with a lower, curved, sharpened edge, and no pommel. Crude, easier to manufacture than a sword, and more like machetes, they were effective weapons that would see service until the 15th century, providing those who could not afford a sword with a long blade.
+
+date 900–1000 ce origin northern europe weight 2 oz (0.06 kg)
+
+length 9¾ in (24.76cm)
+
+Blade of a Seax Swords were extremely expensive weapons, so most people carried a blade that doubled as a fighting dagger and a working tool. Called the sax or seax (the root of the name “Saxon”), examples have been found from the 5th century onward.
+
+Grip made of wood or bone wrapped in leather Long grip for wielding with both hands Leaf-shaped spearhead Long spears were used by, or against, cavalry Socket hammered tight to shaft and riveted anglo-saxon and frankish weapons and armor the mass of anglo-saxon and Frankish warriors were infantryman, who carried a shield and a dagger (a seax), often wore a helmet, and fought with spears, axes, and the single- bladed heavy weapon called variously the scamasax, scramasax, or long seax. The nobility and their retinues of professional soldiers had more sophisticated armor and weaponry: chain mail; spangenhelm helmets with neck and face protection; angons (throwing spears similar to the Roman pilum); and, of course, swords.
+
+date 400–500 ce origin europe weight 15 oz (0.43 kg)
+
+length 6¼ in (16.5 cm)
+
+Wooden curved shaft Iron head angled from the shaft date 400–500 ce origin northern europe length 19 in (48 cm)
+
+Long Saxon spear The use of spears is portrayed in the Anglo-Saxon poem about the Battle of Maldon in 991 CE. Eorl Byrhtnoth throws two javelins, killing two men, before he himself is wounded by a thrown Viking spear. Only then does he draw his sword. Thrusting spears were longer, with larger heads such as this example, attached to the shaft with a split socket and rivet.
+
+date 500–600 ce origin northern europe Saxon sword Swords were expensive and time-consuming to manufacture by pattern welding. They were only used in Saxon society by people of high rank or professional warriors, and were objects of great veneration.
+
+FRANCISCA throwing ax The throwing ax was popular with the Germanic warriors who fought against Rome in its later years. It was used in a similar way to the javelin—thrown before contact with the enemy to create gaps in their battle lines.
+
+date 900–1000 ce origin northern europe weight 17½ oz (0.50 kg)
+
+length 8¾ in (22 cm)
+
+NORTHERN EUROPEAN axhead Axes were popular weapons because they doubled as tools and were cheap to make. The technique was very simple. A strip of iron was folded in half around a mandrel, creating a socket. Between the two halves, the cutting edge of harder iron or steel was fire-welded in place. A wooden shaft of suitable length was then wedged into the socket.
+
+date 500–600 ce origin western europe frankish spangenhelm As with mail and armor, helmets were taken from the dead on the battlefield and are rarely found in burials.
+
+However, a sufficient number of these spangenhelm survived. The style originated in the Middle East and spread to Western Europe by the 3rd century CE.
+
+Long head Elongated lower edge gives the name “bearded” axe Plates held together with reinforced bands Tip less sharp than many seaxes or scamasaxes Cheek guard
+
+4 50–51 anglo-saxon and frankish weapons and armor 3000 BCE—1000 CE the ancient world Blade curves downward and inward Hardened iron or steel to carry a better edge date 900–1000 ce origin northern europe weight 17½oz (0.50kg)
+
+length 8¾ in (22 cm)
+
+Iron axhead This ax has a convex blade with a hardened edge welded on separately, and a flattened ovoid socket. It would have had a wooden handle.
+
+full view date 900–1000 ce origin northern europe weight unknown diameter 30–40 in (70–100 cm)
+
+Painted Wooden Shield The shield was an important part of the Viking’s battlefield armory. Made from wood, they were covered in leather. This example is a replica.
+
+Projections around socket stop axhead from shearing Brightly painted, often with crosses once Christianity was adopted date 900–1000 ce origin unknown Mail Shirt with DaggeD Points Initially worn only by the rich and powerful, mail shirts, called brynja or hringserle, became more common in the 11th and 12th centuries.
+
+Early mail was jerkin (thigh) length but later mid-calf Bound around edge with leather or iron Rings were riveted, flame- welded, or with overlapping unriveted ends viking weapons and armor the seafaring scandinavians known as Norsemen or Vikings have a special place in European history. From the British Isles to the Varangian Guard in Kievan Rus, they came to symbolize the quintessential Dark-Age warrior. Striking from the sea in their longboats, they plundered the coasts of Europe before colonizing and settling possibly as far afield as Novia Scotia. They were well armed, in particular with swords and axes, but also with spears, javelins, and bows. They carried round shields and most wore helmets; many wore mail as well.
+
+Decoration continues over socket
+
+Shaped plates make up dome Dome strengthened by keel rib Decorated nasal guard Spectacle visor protects eyes and nose Dome strengthened by keel rib Long handle to allow two- handed blow Broad, crescent- shaped blade date c.900 ce origin norway Gjermundbu-style helmet Another Gjermundbu-style helmet, this has a spectacle guard riveted to a brow band and two strengthening bands to hold together the four plates that make up the dome.
+
+date c.900 ce origin czechoslovakia Wenceslas helm Named after the helmet from the Treasury of Prague Cathedral, the Wenceslas style is characterized by its one-piece forging with added brow band and nasal guard, which are silvered and highly decorated.
+
+date c.875 ce origin norway Metal-plated helmet This is a reconstruction of a helmet from fragments found in a grave at Gjermun- dbu. It is made up of a dome of four plates fixed to a brow band by two bars that criss- cross the head.
+
+Dome composed of four plates Nasal offers nose protection Spectacle visor to protect face date c.970 ce origin denmark length 6½ in (16.5 cm)
+
+engraved iron axhead This beautifully decorated axhead was found in Mammen in Jutland, and is the name for this style of ornamentation.
+
+date c.900 ce origin unknown iron ax This is one of three forms of Viking ax, the bearded ax whose elongated lower edge and slanting blade favored downward blows.
+
+Cutting edge made of hardened steel date 800–900 ce origin sweden swedish helmet Discovered in a grave at Vendel in Sweden, this conical helmet is similar to the Gjermundbu find with its spectacle visor.
+
+Most Viking warriors possessed helmets, but few would have been as ornate as this.
+
+Animal decoration Silver wire ornamentation
+
+4 50–51 anglo-saxon and frankish weapons and armor 3000 BCE–1000 CE the ancient world Viking Weapons and Armor Guard formed of large boat-shaped plate Pattern-welded blade Straight guard Two-edged pattern-welded blade date 800–1100 origin denmark length 90cm (35½in)
+
+Double-edged sword There were many variations in Viking swords, mainly in the form of the pommel, guard, and hilt.
+
+Most blades were double-edged with a rounded tip because they were used for big, slashing blows delivered to miss a shield or defensive parry, which could severely damage the blade.
+
+date 900–1000 origin unknown length 35½ in (90 cm)
+
+8th–9th century Viking sword This iron sword is typical of Viking weapons, being straight-sided and about 35½ in (90 cm) long. It has a two-piece pommel and guard, both of which are decorated with an interlace pattern in brass inlay.
+
+The blade is inlaid in iron on one face with a figure-of-eight mark.
+
+date 700–800 origin denmark length 35½ in (90 cm)
+
+Embellished Double-edged sword Many Viking swords such as this one were pattern-welded for extra strength. This ancient process involves introducing carbon into the red- hot iron and making a number of rods. These are twisted and forged together with rods containing less carbon, producing a patterned appearance.
+
+date 900–1150 origin scandinavia length 35½ in (90 cm)
+
+late Viking sword This broad, straight, two-edged blade retains traces of an inlaid inscription, now indecipherable, and a scroll-design pommel; the grip is missing.
+
+The sword is more tapered than earlier versions.
+
+date 900–1000 origin unknown length 80–100cm (c.31–39in)
+
+Viking sword blade This later Viking sword blade is much corroded, as are so many found on archaeological sites.
+
+Their wooden scabbards and hilts have almost always completely rotted away, making interpretation of runic inscriptions very difficult.
+
+Large decorated pommel Typical iron double-edged blade Hilt arrangement Rounded pommel Hilt decorated with geometric patterns of silver and brass full view
+
+Longer blade used for thrusting Rounded pommel Many thrusting spears have wings on either side Pommel top held in place by rivets date 700–800 origin northern europe length 18 in (47 cm)
+
+Winged spearhead This lugged or “winged” spearhead, of a type used for war and hunting, has a corroded iron head, leaf-shaped blade of flattened diamond-section—now curved out of true by heat or burial—and a tapered iron socket. The wings can catch and lock an opponent’s weapon in hand-to-hand combat, stop a blade from sliding down the spear toward the user’s hands, and can hook a shield out of the way.
+
+date c.700–1050 origin northern europe Viking sword hilt This sword hilt has a characteristic Viking rounded pommel – it is probably made from copper and decorated with inlaid geometric designs in silver. The sword is too finely crafted to have been used in battle and would have been carried by a chieftain to show his status or used in ceremonies.
+
+date 600–1000 origin northern europe length 14¼ in (36.6 cm)
+
+Lozenge-shaped spearhead Throwing spears were important Viking weapons, and their use is recorded in the sagas, including stories of those who could throw two at once. Olaf Tryggvasson was said to be able to do this from each hand at the same time.
+
+Fuller to lighten blade Semi-circular pommel Later blades taper more toward the point Thick, square-section, downward-pointing quillons Decoration on hilt also serves to provide grip Blade strengthened by rib Vikings often decorated sword hilts in gold or silver
+
+the middle ages
+
+From 955 ce, when the heavy cavalry of Otto I of Germany crushed the lighter mounted Magyars at the Battle of Lechfeld, Europe experienced a period of comparative peace. Yet, it was also a time of political fragmentation, as, most notably in France and Germany, the centralized kingdoms of the 9th century gave way to a constellation of smaller states often no larger or more enduring than the ability of a local warlord to enforce his will.
+
+As the capacity of royal courts to organize large armed bodies declined, a system of feudalism arose to fill the breach (see box page 60).
+
+the emergence of mounted armies The core of feudal armies was formed by mounted men-at-arms—not all of them knights. The ability to fight on horseback—as opposed to merely arriving by horse on the battlefield or engaging with the enemy at bow-shot distance—had been hugely enhanced in the 8th century with the arrival in Europe of the stirrup, which gave a mounted warrior a much more stable platform from which to employ swords or spears. The characteristic dress of such 11th- and 12th-century fighters is summed up in the 1181 Assize of Arms of Henry II of England, which declared “let every holder of a knight’s fee have a hauberk [coat of mail], a helmet, a shield and a lance.” Such armies were expensive to maintain and inflexible, and as the obligatory period of service was so short, campaigns could not be long. This, and the need to avoid casualties among the hard-to-replace heavy cavalry, meant that the raid or chevauchée came to be the standard form of warfare. Pitched battles were relatively rare, although those large-scale battles that did occur, such as the defeat of the norman attack William of Normandy’s mail-clad army assault the Breton town of Dinan, defended by a motte-and- bailey fortification, in the style the Normans would import into England.
+
+Many of the weapons, tactics, and forms of social organization popularly held to be characteristic of the Middle Ages had, in fact, been prefigured in late antiquity. Heavy cavalry, the holding of land in exchange for military service, religious warfare, and the struggle of urban cultures against incursions by mounted nomads were themselves new phenomena.
+
+What altered at the end of the medieval period was the growth in the capacity of states to maintain a centralized administration and the appearance of gunpowder weapons—powerful indicators of changes to come.
+
+c.1040 First recipe for gunpowder in a Chinese source Battle of Hastings; Normans conquer England Death of Abd Al-Malik; break- up of Muslim caliphate of Cordoba Spanish capture Toledo from the Moors European knights adopt use of couched lance 1167–77 Wars of Frederick Barbarossa and the Lombard League Kamakura shogunate established in Japan Vikings defeated by Brian Boru at Clontarf Arrival of Norman Robert Guiscard in Southern Italy First Crusade sets out (1099 capture Jerusalem)
+
+Church Council at Toulouse proclaims “Truce of God,” limiting fighting to Mondays, Tuesdays, and Wednesdays and banning it in Lent 1077–1122 Wars of Investiture in Germany and Italy between Emperors Henry IV and V and supporters of Papacy 1144–46 Crusaders lose County of Edessa —leading to Second Crusade Battle of Hattin.
+
+Saladin defeats crusaders Richard I builds Chateau Gaillard on the Seine in France the middle ages
+
+English king Harold II by the Norman Duke William at Hastings in 1066, were all the more decisive for it.
+
+William’s army is depicted on the Bayeux Tapestry clothed in mail and sporting conical helms. A large portion of the Norman army was, in fact, composed of archers, with shortbows or mechanical crossbows. At Hastings, massed volleys of arrows, combined with hit-and-run cavalry attacks, overcame the English shield wall manned by Harold’s huscarls, warriors of undoubted effectiveness wielding two-headed axes, but who lacked the mobility to counter the Norman tactics.
+
+castle building The establishment of Norman rule across England was accompanied by a program of castle building. The rapid spread of such fortifications controlled by local magnates, rather than the royal courts, became a defining feature of the political landscape of western Europe. In England, these were at first of the motte-and-bailey type with a fortified wooden tower constructed on an earth mound. By the 13th century, they had become more sophisticated affairs of stone, with concentric rings of defenses and rounded towers to guard against undermining. Castles such as Harlech in Wales or Chateau Gaillard in France could be defended by relatively small numbers of trained troops and, if well provisioned, withstand quite extensive sieges. Wars came to center on the reduction of such strongholds by storming, diplomacy, or—most often—by waiting for hunger or disease to strike down the defenders; in 1138 King David of Scotland captured Wark Castle by allowing the garrison to go free and even providing them with horses to replace their own, which they had been forced to eat.
+
+the crusades Further refinements in military architecture, such as the use of castellation, were imported from the Middle East during the time of the Crusades. The Muslim armies of the Levant were composed mostly of lightly armed mounted archers, who used their maneuverability and elusiveness to deft effect in wearing down and picking off the more cumbersome Crusader knights. Western armor had by this time become heavier, with the mail coat reaching down to the knee, and long kite-shaped shields intended to provide maximum protection on horseback. Armed with couched lances, a massed charge by the crusader knights, as at Arsuf in 1191, could be devastating, but equally, as when Saladin wore down the Christian army through heat and thirst at Hattin in 1187, such a heavily armored force could rapidly become ineffective if denied supply and shelter.
+
+One solution to over-reliance on an expensive and inflexible mounted arm was to increase the role of footsoldiers. In truth, knights often did fight on foot—at Dorylaeum in 1097 during the First Crusade, one half of mongol warriors Genghis Khan’s Mongol cavalry were almost unstoppable on open terrain, even against other mounted opponents such as the Tartars.
+
+the crusading army dismounted and fought as infantry. But states came increasingly to rely on pure footsoldiers, first in a supporting role, and then as a principal element in their armies. This was particularly marked from the 13th century as the economic power of towns grew and their capacity to provide soldiers burgeoned. In 1340, Bruges was able to raise 7,000 men from its population of 35,000. Armed with weapons such as polearms, which required less training than the equipage of a knight, the later medieval infantry relied on solidarity and massed formations, very much in the spirit of the Macedonian phalanx.
+
+Muslim sultanate of Delhi established Mongol invasion of eastern Europe Battle of Las Navas de Tolosa; Aragonese crush Moorish Almohads 1282–1302 War of the Sicilian Vespers Battle of Kosovo Polje; Ottomans defeat Hungarians Charles the Bold of Burgundy defeated and killed at Nancy Charles VIII of France invades Italy, beginning the Italian Wars Battle of Agincourt; English longbowmen defeat French mounted knights Edward I beats Scots at Falkirk; early use of longbow Battle of Courtrai; Flemish infantry beat Philip IV of France Gunpowder weapons used at siege of Friuli Genghis Khan becomes Mongol leader Constantinople taken by Ottomans; Battle of Castillon, Earl of Shrewsbury defeated by French (Hundred Years War ends)
+
+Granada, last Muslim emirate in Spain falls to Christian army Muslim forces retake Jerusalem Muslims take last crusader stronghold, Acre Battle of Tannenberg; Teutonic knights defeated by Poles c.1420 Corned powder developed.
+
+First German crusade against the Hussites 1219–21 Fifth Crusade c.1300 Japanese swordsmiths perfect katana sword Hundred Years War starts Battle of Nicopolis; Ottomans defeat combined Hungarian- French crusading army
+
+favor the heavy cavalry charge, even when the terrain slowed and channeled their progress to make them especially vulnerable to arrow-fire.
+
+One response to this weakness was to increase the protective capacity of the knight’s armor yet further. In the 14th century, open helmets were replaced with closed “great helms” and the following century saw the gradual introduction of full plate armor, which became increasingly elaborate and beautifully worked. Although fluting of the metal and the molding of the pieces to the physique of the wearer meant they were not as impossibly heavy as they seemed, such suits of armor were almost luxury items, affordable only by the aristocracy. While they might protect and mark out commanders, they were a further indication that armies composed largely of mounted knights were on the verge of obsolesence.
+
+the mongols In the mid-13th century, another group of light cavalry again showed the power of massed horse archers. The Mongols emerged from central Asia, overwhelming first northern China—which they took in 1234—then Persia and the Muslim states of the Levant, before sweeping down on Russia and eastern Europe in the 1240s. Relying on light, “Feudalism” is a modern term to describe the complex system of land tenure and military obligation that characterized medieval Europe.
+
+In its classic form, feudalism meant that each man had an overlord (or liege) and provided him with services—most often military—in exchange for the holding of land (the fief). It was ideally adapted to a situation where rulers needed to supply land to maintain a military elite for the realm’s defense, but fared less well as towns grew in importance and sovereigns could buy the services of soldiers (including mercenaries)
+
+outside the system of feudal obligations.
+
+chinese mace This mace, with a strap to secure it to the bearer’s arm, is typical of the weaponry carried by the Mongols during their rule over China (1279–1368)
+
+Feudalism courtrai chest A scene from the Battle of Courtrai (1302), where Flemish communal infantry held firm against a French cavalry charge. It became known as the “Battle of the Golden Spurs” due to the number of spurs collected from the defeated French knights on the field.
+
+an oath of fealty A defining moment came in 1302 at Courtrai, when a force of Flemish burghers, armed with pikes and spears, routed an army of French knights as it stumbled through a muddy, broken terrain of ditches and trench traps.
+
+the crossbow and the longbow The infantry did not rely solely on static defensive weapons such as pikes, or close- quarter bludgeons such as clubs. An increase in the effectiveness of missile technology brought crossbows and, most particularly, longbows to prominence on the battlefield. The crossbow was already well-established in Europe by 1139 when the Lateran Council sought—in vain —to ban its use against Christians because of the terrible wounds it inflicted. The crossbow bolt’s penetrative power and the fact that to use it required little expertise, meant its use became extremely widespread. The English, however, favored the longbow, which required great strength—both in its construction and from the archer—but whose rate of fire was roughly four times that of a crossbow. Although first used to real effect at Falkirk against the Scots in 1297, the longbowmen played a key role during the Hundred Years War in defeating the French at Poitiers in 1356 and Agincourt in 1415. In both cases, however, the French army also fell victim to a persistent tendency to the middle ages
+
+renaissance battle Serried ranks of heavily armored lance-wielding knights from Florence and Siena fought at the Battle of San Romano in 1432—a style of warfare soon to be rendered obsolete.
+
+mounted bowmen who could travel long distances rapidly, even in adverse conditions, the Mongols were able to bring opponents to battle on their own terms. They employed tactics of surprise and terror to such effect that many towns simply surrendered to them rather than risk the wholesale slaughter of their citizenry. In April 1241, within a few days, they simply crushed two European armies of Poles and Hungarians that dared to face them.
+
+Only the capricious nature of the Mongol dynastic succession saved western Europe from utter devastation.
+
+early firearms During their Chinese campaigns, the Mongols would, for the first time, have faced a new type of weaponry—firearms. The earliest recipe for gunpowder comes from the Wujing Zongjao (c.1040), while the Chinese may have used “fire-lances” against the nomadic Jurchen in
+
+## 1132. The Mongols themselves used primitive
+
+gunpowder weapons in their abortive invasions of Japan in 1274 and 1281, but it was their successors, the Ming, who first exploited them, justifying the name by which gunpowder came to be known in Europe— “Chinese salt.” The Ming, indeed, had a military school by the early 1400s specifically tasked with instructing soldiers in the use of firearms, and also employed dragoons— mounted handgunners.
+
+Although cannons were used by the English at Crécy in 1346, it was only at the very end of the period that firearms really began to play a significant role. This was most notable in siege warfare, where the problems of transporting the massive cannons was less pressing than in battlefield use. The huge bombards used by the Ottomans against Constantinople in 1453 heralded a brief age in which strong fortifications were no longer a reliable protection for defending forces. It was not, however, until the introduction of iron balls, which meant cannons could be smaller, and corned powder (around 1420), which gave them more power, that field artillery became a possibility. The victory of the French at Castillon in 1453, when Jean Bureau’s cannons raked the English army and forced its flight, was perhaps the first example of a victory won through its use.
+
+The first handguns had appeared in the early 1400s—by 1421 John the Fearless of Burgundy was said to have 4,000 in his army. Yet it was not until the introduction, from around 1450, of matchlock arquebuses, which were possible —just—to reload in combat, that the handgun began to find a place on the battlefield. Even so, the late 15th century was very much a time of transition: as late as 1494, half the French army that invaded Italy was composed of heavy cavalry, while, in contrast, the Swiss mercenaries who defeated the Burgundians at Nancy in 1477 were composed of a combined force of pikemen mixed with handgunners.
+
+The Burgundians could not penetrate the Swiss phalanx, leaving them vulnerable to volleys of fire from the handgunners.
+
+By the early 16th century, the idea of military obligation in return for land had faded in western Europe and, elsewhere, states, such as those of the Ming and the Ottoman Turks were consolidating to such an extent that central resources were once again equal to deploying larger armies and keeping them in the field for extended periods. The world lay on the verge of a military revolution.
+
+the middle ages 3 102–103 two-handed swords           3 104–105 european infantry and cavalry swords           3 180–183 european swords 1775–1900 1000—1500 “Scent-stopper” form pommel European swords in medieval europe the sword was the most highly regarded of weapons. It was not only a magnificent weapon of war—often handed down through the generations—but had evolved into a symbol of status and prestige; a man became a knight by the dubbing of a sword on his shoulders. Early medieval swords were heavy cutting weapons that were used to hack their way through mail. The development of high-quality plate armor encouraged the introduction of sharply pointed thrusting swords, whose blades became progressively longer.
+
+Round pommel Straight two- edged blade Circular cross- section, straight cross-guard Ricasso: part of blade close to hilt left unsharpened Double-edged cutting blade date 12th century origin western europe weight 2 lb (1.27 kg)
+
+length 38 in (96.5 cm)
+
+crusader sword This type of sword—with its broad blade, simple cross-guard, and pommel—became popular during the Crusades, and spread throughout Europe. The heavy cutting blade would have been devastating against lightly armed opponents.
+
+Large wheel pommel Wooden grip bound with cord Heavily corroded blade date c.1400 origin italy weight 1 lb (0.76 kg)
+
+length 41 in (104 cm)
+
+italian sword Probably Italian in origin, the Arabic inscription on this sword’s ricasso—a part of the blade close to the hilt—states that it was given to the Arsenal of Alexandria by an Egyptian Sultan in 1432. The long ricasso enabled the swordsman to hook his forefinger over the cross-guard and grip the blade, thereby providing better control.
+
+Curved finger guard full view Straight cross-guard Arabic inscription Remains of wooden grip survive Droplike terminals Rose-window pattern Traces of gilding
+
+date 14th century origin england weight 1 lb (0.76 kg)
+
+length 41 in (104 cm)
+
+english sword This sword is distinguished by its long, tapering, and slightly down-curved quillons. Thought to be English- made, it has a short tang and a small wheel pommel, and its double-edged blade incorporates a single, shallow fuller for two-thirds of its length.
+
+Slender, down- curved tapering quillons Short tang Straight, tapering quillons Thin grip date 14th century origin france weight 2 lb (1.16 kg)
+
+length 33 In (85.7 cm)
+
+french sword Reflecting the need to overcome the plate armor that was becoming increasingly common in the 14th century, this powerful sword would have been used for both delivering heavy cutting blows and for thrusting. The double-edged blade is wide at the hilt and tapers rapidly to a sharp point to penetrate an opponent’s armor.
+
+Fuller: a groove running down the blade to make it lighter while maintaining its strength Heavily corroded with “bites” out of edge Large round pommel Diamond-shaped cross-section to blade Downward- curving quillons on cross-guard Long double-edged blade Sharp point for penetrating armor date mid 15th-century origin england weight 2 lb (1 kg)
+
+length 43 in (109.2 cm)
+
+castillon sword This is one of a group of at least 80 swords said to come from the same find spot in Castillon, France, where a battle was fought between English and French forces in
+
+## 1453. The iron hilt consists of a pommel of “scent-stopper”
+
+form, and a straight cross-guard with droplike ends.
+
+Vestiges of the original wooden grip and gilding survive.
+
+date c.1325 origin england weight 1 lb (0.71 kg)
+
+length 31 in (80 cm)
+
+riding sword This heavily corroded sword, reputedly discovered in the Nene River in England, is termed a “riding sword.” It has a decorated copper-alloy disc pommel, and quillons slightly inclining toward the blade, which is double- edged, and of a flattened diamond cross-section.
+
+Disc pommel with chamfered edges Hexagonal cross- section quillons Small wheel pommel Raised shield with incised coat of arms
+
+date 15th century origin italy weight 3 lb (1.34 kg)
+
+length 34 in (88.3 cm)
+
+bronze gilded sword This ornate sword features bronze gilding to both the hilt and the pommel. The grip is made from black horn and is carved to flow into the fish-tailed pommel. The four-sided, double-edged blade is in remarkably good condition and tapers to a sharp fine point.
+
+European Swords date 1480–1520 origin england weight 1 lb (0.57 kg)
+
+length 27 in (69 cm)
+
+baselard This simple, single-edged short sword would ideally be used against lightly armored opponents. A weapon of the ordinary soldier, this sword type was popular in northwest Europe in the 14th and 15th centuries.
+
+date early 15th century origin england weight 3 lb (1.54 kg)
+
+length 37 in (119 cm)
+
+full view the middle ages 3 102–103 two-handed swords           3 104–105 european infantry and cavalry swords           3 180–183 european swords 1775–1900 1000—1500 Long, tapering double-edged blade H-shaped hilt usually made from wood or bone Rounded guard Rear quillon extended backward Forward quillon bent forward toward the blade Extended one-sided pommel Single-edged blade Double-edged blade Single-edged blade Distinctive one-sided pommel shape HAND-AND-a-HALF SWORD Also known as a “bastard” sword, this long-bladed weapon was primarily used for thrusting at an opponent.
+
+To improve direction and give greater power, it was provided with an extra long handle so that it could be gripped with both hands on occasion.
+
+date c.1500 origin england weight 1 lb (0.79 kg)
+
+length 29 in (74.5 cm)
+
+short sword Used primarily by foot soldiers, this English-style sword was designed with a single edge and a sharp point. The quillons are extended in length, and the rear quillon bent upward and backward toward an extended pommel, thereby forming a simple knucklebow.
+
+full view date 1150–1200 origin germany weight 4 lb (1.95 kg)
+
+length 32 in (82.2 cm)
+
+DOUBLE-EDGED sword A rusted knight’s medieval broadsword characterized by a broad blade and rounded point. Distinctive features also include a simple cross-guard, short hilt, and large oval pommel. It would have been used primarily as a heavy cutting sword.
+
+transitional sword This sword is a transitional weapon, moving away from the classic cross-hilt medieval sword and looking ahead to the rapier of the 16th century. The short tang suggests that the swordsman’s fingers would have gripped the ricasso, protected by a double finger guard.
+
+date c.1500 origin italy weight 2 lb (0.94 kg)
+
+length 40 in (103 cm)
+
+Double looping finger guards Double-edged blade of hexagonal cross-section Wheel pommel Tang without grip Carved black horn grip Bronze gilded guard Fish-tailed pommel Long thin fuller Exceptionally long ricasso of 6 in (16 cm) length Straight, square quillons Long tang with no grip Octagonal pommel Straight quillons Long pronounced fuller Double-edged blade
+
+the middle ages 3120–123 japanese samurai swords          3 124–125 weapon showcase: wakasashi samurai sword          3 188–189 chinese and tibetan swords 1000—1500 Sageo (cord)
+
+fastened scabbard to belt Japanese and Chinese swords the swords used by Japanese samurai warriors were among the finest cutting weapons ever made. Japanese swordsmiths were elite craftsmen who used a process of smelting, forging, folding, and hammering to create curved blades that were immensely hard, but not brittle. Only the steel of the sharp cutting edge was water-quenched to full hardness. The softer back of the blade (the mune) was used to block blows—the samurai carried no shield. Chinese swords, sometimes straight rather than curved, had little of the almost mystical prestige of their Japanese equivalents.
+
+Kashira (pommel)
+
+Rayskin covering on hilt Sageo (cord)
+
+of gilded Dutch leather Black lacquered rattan Brown silk binding date 19th century origin japan weight ¼ lb (0.28 kg)
+
+length 22 in(c.55 cm)
+
+aikuchi The aikuchi was one of the many types of Japanese dagger, distinguished by having no hand guard (tsuba). It was often carried by ageing samurai in semi-retirement. This aikuchi, shown with its scabbard, is a 19th-century reproduction of a medieval weapon.
+
+Tsuba (hand guard)
+
+Mune (flat back of blade)
+
+date origin japan weight 1½ lb (0.66 kg)
+
+length 36¾ in (94 cm)
+
+katana The samurai’s long sword, the katana, was worn with the cutting edge uppermost, so it could deliver a sweeping cut in a single movement. This katana is signed by swordsmith Kunitoshi.
+
+Habaki (blade collar)
+
+Menuki Wooden hilt covered with ray- or sharkskin, then wrapped in braid
+
+Scabbard bound with gilt iron Kissaki (point)
+
+Menuki (hilt ornaments)
+
+Monster motif decoration on handguard date 15th century origin japan weight c.1¼ lb (1 kg)
+
+length 42 in (107 cm)
+
+katana Attributed to the Shizu group of swordsmiths, this katana blade dates from the Sengoku period. The sword could be used with one hand, though a two- handed grip was needed for full power.
+
+date 17th century origin japan weight 1 lb (0.42 kg)
+
+length 26½ in (67 cm)
+
+wakizashi This 16th century-style wakizashi was a samurai’s shorter sword, and was normally carried paired with the katana. A useful secondary weapon, it was worn indoors when the katana was set aside at the entrance.
+
+date c.1570 origin china weight 3 lb (1.30 kg)
+
+length 35½ in (90.3 cm)
+
+chinese sword This sword, decorated with Buddhist emblems, was made for presentation to a Tibetan monastery. It is shown in its leather- covered iron-bound wooden scabbard.
+
+date 18th century origin japan weight ¼ lb (0.13 kg)
+
+length 29¼ in (74.5 cm)
+
+tachi mounting The tachi sword was worn slung from a belt, to which it was attached by the sageo (cord)
+
+on its scabbard. In this late example of an earlier style, the sageo is made of gilded leather, traded from the Dutch. The tachi was, for most of Japanese history, the proper mount to be worn with armor.
+
+Scabbard coated with brown lacquer Hamon (temper pattern) on blade edge Kojire (scabbard end)
+
+Laquered wooden scabbard High shinogi (ridge line)
+
+date: 15th century origin: europe weight 0.3 lb (0.14 kg)
+
+length 12 in (30.5 cm)
+
+the middle ages 3 130–133 european daggers 1500–1775          3 134–135 asian daggers           3 192–193 indian and nepalese daggers 1000—1500
+
+## EUROPEAN
+
+## DAGGERS
+
+the vast array of medieval dagger types was used mainly for thrusting at an opponent: for self-defense, assassinations, and for close-combat fighting where a sword would be too cumbersome.
+
+Traditionally, daggers were considered a weapon of the low-born, but, during the 14th century, men-at-arms and knights began to carry them, the weapon normally being worn at the right hip.
+
+date 14th century origin england weight 0.2 lb (0.1 kg)
+
+length 12 in (31 cm)
+
+quillon dagger So named because it resembles a scaled- down version of a sword, with prominent quillons that curve down toward the blade. This example has an unusual pommel—mirroring the quillons—that is curled around a rivet. Sword daggers were typically carried by men of high rank, especially when not wearing armor.
+
+date c.1400 origin england weight 0.3 lb (0.1 kg)
+
+length 11 in (27.94 cm)
+
+quillon dagger This example of a sword dagger has a distinctive brass pommel and quillons with an inlaid geometric design. The blade has a short ricasso with a mark inlaid in brass at the center, and the original grip is missing from the tang.
+
+Heavy faceted blade date 15th century origin england weight 0.6 lb (0.29 kg)
+
+length 15 in (40 cm)
+
+quillon dagger A good example of the more basic and widely used daggers of the late Middle Ages, crudely constructed for the ordinary fighting man. This dagger’s unusual features are its hammer-head pommel and the horizontally S-shaped quillons of the guard.
+
+Inlaid geometric design Single-edged blade Hammerhead projection from pommel baselard The name possibly derives from the Swiss city of Basel, and the baselard (or basilard)
+
+was in use throughout western Europe in the 14th and 15th centuries. This example has a reconstructed H-shaped hilt—made of bone —combined with the original broad blade that tapers to a sharp point.
+
+Double-edged blade with rectangular cross-section Scrolling quillons S-shaped quillons Pommel curls backward around rivet Inlaid brass mark in center of ricasso Tang tapering toward blade
+
+Symmetrical brass quillons Crown-shaped brass pommel Circular grip flaring out toward the pommel date 16th century origin england weight 0.6 lb (0.26 kg)
+
+length 13 in (34.5 cm)
+
+quillon dagger This English dagger is distinguished by brass quillons, a crown-shaped brass pommel, and an unusual scalloped grip highlighted with pins. The heavy, single-edged blade—triangular in shape with a spearpoint—could have been used for both thrusting and cutting.
+
+date 15th century origin england weight 0.5 lb (0.23 kg)
+
+length 13 in (35 cm)
+
+rondel dagger The rondel dagger is distinguished by its round, disclike guard and pommel. It was also known as a dague à rouelles and was a popular dagger with the gentry and aristocracy. In this example, the tang runs directly through the hand grip and attaches to the pommel.
+
+Brass pin date c.1500 origin england weight 0.4 lb (0.17 kg)
+
+length 13 in (34.9 cm)
+
+ballock dagger Also euphemistically known as a “kidney dagger,” this weapon was named after the distinctive shape of its guard, with two rounded lobes. The ballock dagger was used throughout Europe, although it was most popular in England and the Low Countries, and equipped soldiers of all ranks.
+
+Single-edged blade with triangular cross-section Lozenge- section blade Quillons formed by two bone plaques Lower rondel with wooden hilt Hilts often carved from wood, horn, or ivory Distinctive rounded hand guard Brass strip Heavily patinated, double-edged blade Hand grip made from scalloped bone or close-grained wood Round pommel fitted with conical metal cap
+
+battle of hattin Using crossbows, arrows, swords, and staff weapons, as well as the heat of the desert, Saladin and his army defeated the Christian crusaders in 1187 at the Horns of Hattin, near Lake Tiberias in northern Palestine. The loss of this battle was a disaster that led to the destruction of the Kingdom of Jerusalem.
+
+the middle ages 3 136–137 european one-handed staff weapons          3 140–141 european two-handed staff weapons 1000—1500 Hammer head Spike European Staff weapons Hole to attach crest Long spike Attachment of lower part of blade to shaft the long, two-handed staff weapons of the Middle Ages were used primarily by infantrymen as a defense against the usually invincible armored knight. At the battle of Courtrai in 1302, a rag-tag army of Flemish peasants and townspeople defeated a force of armored French cavalry using long, axlike weapons, a forerunner of the halberd. Cavalry were also armed with pole arms, although these were single-handed weapons such as the war hammer and mace. They could be wielded on horseback and were capable of causing severe injuries to even the best-protected men.
+
+Fluke Langet: steel strip to protect shaft from edged weapons Small spike Langet pin date origin france length head 12½ in (32 cm)
+
+poleax The poleax was a multi-purpose weapon: the spike was used for thrusting, the ax blade for cutting through armor, and the hammer head for crushing tissue and bones. This poleax has long langets and a rondel or disc to protect the bearer’s hands from weapons sliding down the shaft.
+
+Angled narrow blade date c.1480 origin switzerland length head 18½ in (47.3 cm)
+
+halberd Developed by the Swiss in the 13th century, the halberd was primarily a slashing weapon, although its spike could be used for thrusting.
+
+The fearsome Swiss infantry used halberds to great effect at the battle of Morgarten, where they destroyed an Austrian army, in 1315.
+
+Long curved blade date c.1500 origin germany length head 16¼ in (41.2 cm)
+
+german halberd During the 16th century, halberds became increasingly decorative in style, but this example, dated around 1500, is very much a utilitarian weapon of war. A powerful spike is combined with a diagonal ax blade and a hooked fluke.
+
+Langet date late 15th century origin russia length head 30¼ in (77 cm)
+
+bardiche Popular in Scandinavia, Eastern Europe, and Turkey from the 15th to 17th centuries, the bardiche was a form of poleax. A particular feature of the weapon was the attachment of the lower end of the axhead to the wooden shaft.
+
+Long thin spike full view Long blade Rondel to protect hands Broad axhead Socket Small fluke
+
+Bronze head with vertical flanges Circular socket to attach ax blade to top of shaft Wooden shaft with langets Engraved geometric design on blade Leaf-shaped spike Wooden shaft Fine tapering point Extended tang to attach axhead to shaft Circular curved blade date 13th century origin europe long-handled ax In the 11th century, axes were used by the English Saxons and Scandinavian warriors, but during the next two centuries, the ax became common throughout continental Europe. This long-handled ax would have been used with both hands.
+
+Short curved spikes Socket for shaft Pick for piercing armor Richly etched gilt decoration Pronounced spike date medieval origin germany engraved axhead Favored weapons of the Vikings, axes continued to be used by warriors in the Middle Ages, often thrown with deadly accuracy. The Bayeux Tapestry shows several instances of foot soldiers using axes, both single- and double-handed.
+
+date 14th century origin europe length 3¼ in (8 cm)
+
+bronze mace The mace was a clublike weapon usually made entirely of metal, or, at least, with a metal head. This example of a simple mace consists of a circular bronze head—with vertical ridges or flanges—and a thick wooden shaft.
+
+Like the war hammer, maces were popular with cavalrymen.
+
+date late 15th century origin italy length 27¼ in (69.5 cm)
+
+war hammer The single-handed war hammer typically comprised a blunt hammer head or set of claws at the front with a sharp pick at the back. The war hammer became increasingly popular during the Hundred Years War (1337–1453), although it had been in use since the 13th century.
+
+date 14th century origin europe date 12–13th centuries origin europe length head 3¼ in (8 cm)
+
+mace head Cast from a copper alloy, this mace head was originally thought to have dated back to the Bronze Age, but is now believed to come from the 12th-13th centuries. The hollow- socketed head features several short spikes.
+
+date medieval origin europe length 7½ in (19 cm)
+
+lance head The lance was a defining weapon of the medieval knight, and used the momentum of the knight’s horse to deadly effect. A typical lance was 169 in (430 cm) in length, the shaft made from a wood such as ash, and fitted with a small iron or steel head.
+
+Gilt ax butt with scrolls Hammer head to stun opponent short ax Although heavily rusted, the highly curved blade of this single-handed ax is clearly visible. Instead of the shaft being inserted into a socket on the axhead, here a tanglike projection is forced into the shaft.
+
+Another distinctive feature is the long spike at the back of the head.
+
+the middle ages 4 72–73 european staff weapons          3 136–137 european one-handed staff weapons          3 140–141 european two-handed staff weapons          3 142–143 indian and sri lankan staff weapons 1000—1500 date 17th century origin india weight 2 lb (1 kg)
+
+length 17 in (44 cm)
+
+curved blade battle ax In Asia as in medieval Europe, the battle ax became a weapon of choice for aristocratic cavalrymen to use when fighting dismounted. No helmet or armor could offer sure protection against the powerful blow such an ax could deliver. The spikes radiating around the axhead could do damage as well as the blade.
+
+date 14th century origin china or mongolia weight 2 lb (1.17kg)
+
+length 15 in (40 cm)
+
+decorated iron mace This splendid mace dates from the period of Chinese history in which the rule of the Mongol invaders was overthrown and the native Ming dynasty took power. The elaborate decoration suggests that it would have served a warrior of high status, possibly a member of the Mongol elite fighting on horseback.
+
+Asian staff weapons medieval asian armies deployed a wide range of staff weapons, including maces and long-handled battle axes, and weapons with blades or pointed heads. Staff weapons generally evolved from agricultural implements or from simple clubs, but they could be highly effective in face-to-face combat. Although gradually rendered obsolete by the gunpowder revolution, many such weapons remained in use, virtually unaltered, in some Asian armies into the 18th and even 19th centuries.
+
+Grip Handguard Metal shaft Ornate curved blade Grip Holes for pegs to fix tang to shaft Elaborately decorated iron mace head Protective knucklebow Tang—to be fitted to shaft mughal mace This 16th century-style mace is in essence little more than a curved solid iron bar, but it could undoubtedly deliver a powerful blow if energetically wielded. Maces of this kind were used by Mughal soldiers during the conquest of India in the 1500s. They are recognizable in many miniature paintings that represent the Mughals at war.
+
+date 18th century origin india weight 3 lb (1.5 kg)
+
+length 30 in (77.5 cm)
+
+Central grip
+
+Curved head Small iron grip Hollow steel shaft Wooden shaft covered with polished rayskin Decorative iron shaft Hollow onion- shaped head Steel spearhead Leather wrist loop Iron shaft reeded with raised ribs date 18th century origin india weight 2 lb (0.97 kg)
+
+length 35 in (89.8 cm)
+
+saintie Known as a saintie, this 16th century-style Indian spear is a parrying weapon—its function is both defensive and offensive. The shaft could be used like a staff to deflect hostile blows, while the spearpoint was thickened to allow a thrust to penetrate clothing or armor.
+
+Socket carved with ornate text date c.1600–1700 origin japan weight 1 lb (0.62 kg)
+
+length 41 in (105 cm)
+
+naginata The naginata, a Japanese cousin of the European glaive, consists of a long, curved blade attached to a wooden shaft. It was a standard weapon of foot soldiers in medieval Japan, but was especially associated with fighting monks, the sohei. They are described by Japanese chroniclers as entering battle “whirling their naginata like waterwheels.” date 18th century origin turkey weight 2 lb (1.16 kg)
+
+length 27 in (70 cm)
+
+ottoman gurz The armies of the Ottoman Turks had varieties of mace or “gurz” among their richly diversified weaponry. This reproduction hollow steel weapon could have been more deadly against an armored Christian knight than any sword, capable of concussing an enemy or breaking his bones without penetrating the armor.
+
+Curved steel blade date 12th century origin persia weight 1 lb (0.8 kg)
+
+length 4 in (11.5 cm)
+
+bronze carved mace head Dating from the period when Persia was dominated by the Seljuk Turks, this hollow mace head is made of bronze. It has raised fins around the edges to focus the impact of a blow. The mace head has been decorated with foliage and calligraphy in a fine tradition of Islamic craftsmanship.
+
+Radial fin Brass button Chiseled knop
+
+mongol warrior in the 13th century, the Mongol horsemen of the Asian steppe were the world’s most effective fighting men. Under the leadership of Genghis Khan and his successors, they created an empire that stretched from China and Korea to the eastern edge of Europe. Totally without humane sentiment, the Mongols had a well-earned reputation for massacre, using terror systematically to weaken the resolve of their enemies. But the foundation of their success lay in traditional military qualities: rapidity of movement, disciplined battlefield maneuver, and the ruthless pursuit of decisive victory.
+
+War leader Born around 1162, Genghis Khan was a chief’s son in one of the many warring nomadic tribes that inhabited the Mongolian steppe. An aggressive warrior and a skilled diplomat, by 1206 he had united the tribes under his rule. He led them in campaigns against the Chinese Empire to the east and the empire of Khwarazam in central Asia.
+
+Genghis died in 1227, but his sons and grandsons continued his work of empire building.
+
+Mountain warfare Mongol warriors fighting the Chinese in steep mountain terrain. Both sides carry typically Mongol recurved bows and round shields.
+
+Portrait of Genghis Khan warrior armor Most Mongol warriors fought as light horsemen, wearing leather body armor and, if possible, a silk undershirt—allegedly offering protection against an arrow shot. Their minority of heavy cavalry, however, were sometimes equipped with Chinese-style metal armor. Made of overlapping plates, usually sown onto a backing garment, this is a replica of a mongol armor that was flexible and offered good protection in close combat.
+
+Bowcase suspended by strap from the shoulder Powerful composite bow Rounded helmet designed to deflect blows Plate protection for neck Quiver for arrows small mongolian dagger Hardy horsemen Every Mongol tribesman was a warrior. From early childhood he learned to fire an arrow and ride a horse, the two essential skills of steppe warfare. The harsh life of the Asian steppe taught toughness and endurance, while the disciplined mass maneuvers required for an effective war of movement were learned on tribal hunting expeditions.
+
+Organized into army groups 10,000 strong, the Mongol horsemen swept across Eurasia at a speed of up to 60 miles (100 km) a day. Each man had a string of horses, so he could change mount when necessary. The horses were also a mobile source of food—warriors drank their milk and their blood. Advancing in columns preceded by scouts, the Mongols sought to destroy enemy armies.
+
+Most of the horsemen were archers, using their composite bows in hit-and-run warfare familiar to all steppe nomads—closing in to release their volleys of arrows, fleeing before the enemy could engage them, and ambushing any foe foolish enough to pursue them.
+
+After the archers had done their work, the Mongols’ elite fighters, armed with lances, maces, and swords, would close in to finish off the already decimated enemy. Over time, the Mongol armies adapted to siege warfare and even naval operations, exploiting the skills of conquered peoples, Muslim and Chinese. But their political skills were never equal to the task of retaining the power won by their military prowess.
+
+Scale armor made of overlapping steel plates Straight double-edged sword Leather backing garment the middle ages
+
+Genghis Khan on horseback The Mongol leader is shown here in the costume of a light horseman.
+
+Warriors usually shot their bows from horseback, and also used swords belonging to both the Islamic and Chinese traditions.
+
+jian: chinese sword small mongolian dagger jian scabbard TOOLS OF combat DAO: chinese sword DAO: chinese sword whoever does not surrender but opposes with struggle and dissension, shall be annihilated.” “ order of genghis khan to his army great warriors
+
+the middle ages 3 80–81 weapon showcase: crossbow          3 146–147 asian bows          3 208–209 north american hunting bows 1000—1500 Longbows and Crossbows invented in china, the crossbow came into widespread use in Europe from the 12th century. Fired from the shoulder, it was both powerful and accurate, effective against armored knights and in siege warfare. The longbow was developed in Wales and was used in the English Army from the 13th to the 16th century. It is given credit for victories at Crécy, Poitiers, and Agincourt. Capable of ten times the rate of fire of crossbows, longbows were typically shot in unaimed volleys, decimating an advancing enemy with sheer volume of arrows.
+
+Iron tip Wooden shaft Steel pin to engage mechanism for spanning bow Revolving nut released by trigger below Cord bowstring full view Hunting crossbow The crossbow was an effective weapon for hunting because the hunter could carry the bow spanned and loaded with a bolt, ready to shoot.
+
+date c.1460 origin	 europe weight	 9½ lb (4.4 kg)
+
+Length	 28¼ in (72 cm)
+
+german crossbow A crossbow such as this, with a composite lath of horn, sinew, and wood, required the use of a spanning lever. At one end, this hooked onto the steel pins on the tiller, and at the other, clawed over the bowstring. Operating the lever drew back the string to hook over the nut. The bowman then placed a bolt in the groove. When he pressed the trigger, the nut turned, releasing the string and loosing the bolt.
+
+date c.1500 origin	 germany weight	 6½ lb (2.98 kg)
+
+length	 28¼ in (71.7 cm)
+
+Triangular head Crossbow bolts Bolts, or quarrels, shorter and thicker than longbow arrows, had different tips, depending on the effect required. Broadhead bolts, with wide barbed heads, were used primarily for hunting.
+
+Against armor, a crossbowman used bolts with chisel-shaped bodkin heads. The tip of the bolt served as a sight when aiming.
+
+Steel pin Wooden tiller Nut Bodkin arrowhead Wooden stock or tiller with stag-horn veneer carved in relief Groove for bolt date c.1500 origin	 germany Length	 top: 14½ in (37 cm)
+
+Broadhead bolt crossbow bolts
+
+Tip would have had horn nock to hold bowstring Three flights made from goose feathers english longbow This is one of the longbows retrieved from the wreck of Henry VIII’s warship the Mary Rose, which sank in 1545. It is a simple bow, cut from a length of yew, but the bowyer has skilfully taken advantage of the natural layering of the wood. The flat back of the bow is sapwood, which performs better under tension, while the rounded belly is heartwood, reacting best under compression.
+
+Using a replica of a bow from the Mary Rose, a modern archer shot an arrow a distance of 360 yards (328 m).
+
+date c.1540 origin	 england weight	 1½ lb (0.73 kg)
+
+length	 78¾ cm (2 m)
+
+barbed arrowheads Broad-barbed iron arrowheads could cause a deep, wide wound, and were extremely difficult to extract. Not ideal for penetrating armor, they came to be used for hunting more than for warfare.
+
+date c.1500 origin	 europe weight	 left: 1 oz (28.3 g)
+
+length	 left: 1¾ in (4.5 cm)
+
+Bowstring of twisted cord Bow is single stave of yew Archers in action An archer needed considerable strength to draw the longbow—medieval archers’ skeletons have been found with enlarged left arms and other deformities. They were expected to loose six aimed or 12 unaimed shots per minute.
+
+Composite prod or lath Sinew binding lath to stock Sharp point and edges
+
+## ENGLISH LONGBOW ARROWS
+
+“Clothyard” arrows were mass-produced in medieval England to supply the king’s longbowmen. The three feathers were essential to stabilize the arrow in flight.
+
+date c.1520 origin	 england weight	 1½ oz (42 g)
+
+length	 29½ in (75 cm)
+
+Barb Shaft of ash or birch Nock fits in bowstring Stirrup for holding crossbow with foot while spanning
+
+the middle ages Cord loop hooks onto tiller pins Crossbow This German crossbow, with its handsome bone veneer, would have belonged to a wealthy individual who enjoyed hunting as a leisure pursuit.
+
+It was spanned using the small cranequin shown below.
+
+date c.1500 origin germany weight 6½ lb (2.98 kg)
+
+length 28 in (71 cm)
+
+span 26 in (66 cm)
+
+cranequin The cranequin was first introduced in Europe in the late 14th century. One of its advantages was that it could be employed on horseback.
+
+It was an expensive device and worked slowly—two considerations that made it less suitable for warfare than for use by wealthy huntsmen.
+
+Steel pin Crossbow this typical late medieval European hunting bow could shoot a bolt roughly 328 yards (300 m). Its composite lath (or bow), made of layers of wood, sinew, and horn, had far too high a draw-weight to be spanned by unaided muscle power. Using the rack-and-pinion device known as a cranequin (also called a cric or rack), the archer pulled the bowstring back to the nut, where it was hooked until released by pressing the long trigger under the crossbow tiller. When shooting, the huntsman rested the butt of the crossbow on his shoulder, looking along the tiller and using the tip of the bolt as his sight.
+
+Flights crossbow bolt Bolts were typically twice as heavy as other arrows. The flights were of wood or paper, and only two were used, because a third would snag on the nut.
+
+how it works Preparing The Crossbow To use a cranequin, the archer first anchored it to the crossbow by looping the cord over the steel pins on the tiller. The claws at the front end of the toothed rack lay over the bowstring.
+
+By turning the lever, the archer rotated geared cogwheels engaged with the teeth of the rack, thus drawing the bowstring and bending the bow. When the string was hooked over the nut, the archer removed the cranequin, laid a bolt in the groove, and was ready to shoot.
+
+Cranequin handle Cranequin 4 78–79 longbows and crosbows          3 144–145 european crossbows Wooden shaft Hexagonal wheel case Rotating nut Tiller Steel pin Claws Bowstring
+
+Curved claws grip bowstring Composite bow of horn, sinew, and wood Toothed rack Triangular metal head Cord bowstring Cord bridle binds tiller to lath Tiller tapers to butt Steel handle of lever full view weapon showcase Tiller veneered with plain bone
+
+the middle ages 1000—1500 Decorated flint knife This decorated flint knife was found in the Great Temple, which stood in the center of the Aztec capital, Tenochtitlan. More than 20,000 victims may have been sacrificed at the dedication of the Temple in 1487.
+
+date c.1500 origin aztec empire length 11¾ in (30 cm)
+
+flint knives Practical and easy to make by flaking, flint knives like these two examples had a wide range of uses in Aztec society.
+
+Aztec priests often used them to carry out human sacrifice in preference to obsidian knives because obsidian, although sharper than flint, was extremely brittle.
+
+date c.1500 origin aztec empire length 11¾ in (30 cm)
+
+Eyes made of shell and obsidian or haematite Aztec weapons and shields warfare in the aztec empire, which covered much of what is now Mexico, was driven by the need for a regular supply of prisoners for human sacrifice. Although the Aztecs had bows, slings, and throwing spears, they preferred to use close-quarters cutting weapons to disable an enemy, often by a blow to the legs. Ultimately, the “stone-age” Aztec weaponry proved no match for the steel and gunpowder of the Spanish invaders who conquered the region in the 16th century.
+
+Teeth shaped from shell Serrated edge Obsidian blade set in grooves along edge of club Head and shaft are made of wood 3 202–203 oceanian clubs and daggers          3 204–205 north american knives and clubs          3 270–271 african shields          3 272–273 oceanian shields Obsidian knife The Aztecs referred to human sacrifice as “the flowered death by the obsidian knife.” Obsidian, a volcanic glass, provided a razor-sharp blade that Aztec priests used to cut out the hearts of sacrificial victims. After the heart had been ritually burned, the corpse was dismembered.
+
+date c.1500 origin aztec empire length 11¾ in (30 cm)
+
+Knives were sometimes decorated to resemble the face of the god to whom sacrificial hearts were offered
+
+chimalli (shield)
+
+An Aztec warrior’s round shield, or chimalli, was highly decorated, partly to intimidate the enemy.
+
+The shield had a wooden or bamboo frame covered in feathers and skin. Shields were made by featherworkers, who also produced fans and headdresses.
+
+date c.1500 origin aztec empire throwing spear The Aztec’s stone-edged spears were often launched by a throwing stick, or atlatl. This made them powerful weapons capable of causing severe injury—even to a  fully armored Spanish soldier.
+
+date c.1500 origin aztec empire Ornate chalcedony  knife The handle of this sacrificial knife represents an eagle warrior, one of a prestigious order of Aztec fighting men. The knife blade is chalcedony, a type of quartz.
+
+date c.1500 origin aztec empire length 12½ in (31.7 cm)
+
+full view Wooden handle carved into shape of crouching figure Jaguar skin covering full view Decorative feather bands Stone blade made of chalcedony maquahuitl (club)
+
+The principal close-quarters weapon was a wooden club with obsidian blades.
+
+Known as a maquahuitl, it was wielded like a sword, delivering a razor-sharp cut that could sever a horse’s head.
+
+date c.1500 origin aztec empire length 29½ in (75 cm)
+
+Stone flake enemy capture This image from a Mexican codex shows an Aztec warrior taking an enemy fighter prisoner. The warrior carries a chimalli shield and wears a cumbersome feather- covered frame on his back, which marks him out as of officer status. The more captives a warrior took, the higher his status grew.
+
+Mosaic inlay of turquoise, shell, and malachite Feather tassels
+
+spanish conquests The war in Mexico between the Aztecs and the plate-armor- clad Spanish conquistadors in the 16th century was fought with the shields and axes of a society that did not have steel, on one side, and the steel spears and swords of the Spanish on the other.
+
+3 88–89 european jousting helms, barbutes, and sallets          3168–169 european tournament helmets          3 350–351 helmets from 1900 the middle ages 1000—1500 european Helms and basinets the spangenhelm with nasal that had been worn by the Normans was replaced at the end of the 12th century with a rounder helmet, which eventually covered the entire face, and evolved into the great helm. Although providing good protection, the great helm was cumbersome, making it hard for the wearer to turn and see clearly. During the 14th century, it was largely relegated to a tournament role, being superseded by the basinet, a helmet that provided a good compromise between protection, mobility, and visibility.
+
+date c.1370 origin northern italy weight 6¾ lb (3 kg)
+
+great basinet The origins of the basinet helmet go back to the metal skull cap worn inside a mail coif and under a great helm. In the case of the basinet, the skull cap extended to protect the side and back of the head. This basinet has no visor, but the holes for the vervelles that secured the mail aventail are visible.
+
+date c.1350 origin england weight 5½ lb (2.5 kg)
+
+great helm This great helm is constructed from three plates of steel, with a pointed crown and skull to deflect blows. The vision slits, or “sights” are formed between the skull and side plates, and the lower part of the helm is pierced by numerous ventilation holes called breaths.
+
+Iron plates, originally covered in gilt copper sheet Cross-shaped openings for toggle-ended chain to secure helm to breastplate Vervelle date 11th century origin poland weight 6¾ lb (3 kg)
+
+Segmented HELM This segmented helm dates back to the 11th century and is constructed from four triangular iron plates, originally covered in gilt copper sheet, and joined by copper rivets.
+
+Holes for vervelles Rounded skull Pointed crown Copper rivets with silver- bound heads Triangular plates riveted together
+
+Narow sights date 1350–1400 origin northern italy weight 15¾ lb (7.12 kg)
+
+## BASINET AND AVENTAIL
+
+This hounskull basinet with an ogival skull is typical of that worn by knights throughout Europe in the middle-to-late 14th century. The mail collar or aventail has a leather band on the upper edge with holes that fit onto the brass vervelles that border the helmet’s rim. A small hole has been drilled into each vervelle, through which a piece of string is drawn, attaching the vervelle to the basinet.
+
+Mail aventail “Ogival” skull (like pointed arch)
+
+date late 14th century origin uk weight 6¾ lb (3.06 kg)
+
+great basinet This skull from a great basinet shows how the helmet sides extend further down than was the case with a standard basinet.
+
+Over time the mail aventail was replaced by a bevor and gorget plates. This helmet comes from the Yorkshire tomb of Sir John Melsa in the UK.
+
+date 1350–1400 origin italy weight 15½ lb (7 kg)
+
+HoUNSKULL BASINET The distinctive pointed visors found on many basinet helmets were nicknamed “hounskulls,” an English corruption of the German hundsgugel (“dog head”).
+
+The whole visor could easily be removed by withdrawing the locking pins—shown here tethered by a chain.
+
+Conical visor Hinge and pivot Removable pin to allow visor to be taken off Rows of breathing holes (or “breaths”)
+
+Ovoid, medially ridged form Flared sides Brass borders decorated with “wriggled” cable pattern full view Locking pins
+
+the middle ages 4 86–87 european helms and basinets          3168–169 european tournament helmets          3 350–351 helmets from 1900 1000—1500 european jousting helms, barbutes, and sallets the great helm—relegated to the jousting field in the mid-14th century —evolved into the frog-mouthed helmet, a piece of armor ideally suited to jousting. During the 15th century the basinet was superseded by a range of newer designs, of which the sallet was the most popular. Toward the end of the century, northern Italy and southern Germany began to take a lead in armor development that other countries followed. Italian armor was rounded in style, while the German or Gothic style featured decoration in the form of radiating patterns of lines and ridges over the entire harness of armor.
+
+date c.1480 origin southern germany weight 22½ lb (10.2 kg)
+
+jousting helm The frog-mouthed jousting helm would sit squarely on the knight’s cuirass, and, in the case of this example, have steel attachments to lock it firmly to breast- and backplates. The forward part of the helmet was specifically designed to deflect the opponent’s lance.
+
+Rivet to join metal plates together date early 15th century origin england weight 22 lb (10 kg)
+
+## FROG-MOUTHED HELM
+
+The frog-mouthed helm provided the jousting knight with basic straight-ahead vision and maximum protection at the point of impact. He would lean his head forward at the commencement of the charge to look out of the vision slit or sight, but the moment before the lances clashed he would swiftly lift his head up to deny his opponent any opportunity to thrust his lance into the sight.
+
+Rounded skull Helmet collar
+
+date 1480–1510 origin germany weight 5¾ lb (2.6 kg)
+
+Flame pattern on skull Visor with single sight date 15th century origin europe weight 16¼ lb (7.4 kg)
+
+jousting helm The construction of a frog- mouthed jousting helm is fairly straightforward because it consists of just two pieces of steel: the first sits on the skull while the second is wrapped around the whole head, coming to a rounded point at the front of the face. A series of prominent rivets join the edges together.
+
+date c.1445 origin italy weight 5¾ lb (2.67 kg)
+
+barbute The barbute (or barbuta) is a close-fitting, shoulder-length helmet, and many have a T-shaped opening for the face.
+
+This example also has a nasal, and because of its similarity to the helmets of classical Greece, it is known as a “Corinthian” barbute. The helmet was usually worn by infantry and was in use throughout the 15th century.
+
+date c.1440 origin northern italy weight 3¼ lb (1.48 kg)
+
+## SHORT-TAILED SALLET
+
+Originating in Italy, the sallet was a helmet adopted by all classes of fighting men in 15th-century Europe, worn either with or without a visor. This visorless helmet is closely shaped to the head and has a tail considerably shorter than most other sallets.
+
+## LONG-TAILED SALLET
+
+This helmet is fairly typical of German sallets toward the end of the 15th century, featuring a long sweeping tail to protect the neck, as well as a visor with a single sight. For knights and men-at- arms, sallets would normally be worn with a bevor to protect the throat, chin, and lower face.
+
+date origin germany weight 5 lb (2.2 kg)
+
+painted sallet It was not uncommon for sallets to be covered in cloth or leather, or have heraldic designs painted on them. This sallet has numerous pairs of small holes to attach a fabric covering, and is painted with a checkered design in red, white, and green, on the visor and lower part.
+
+Visor with double sights Sight or vision slit Tail of sallet helmet to protect neck Geometric design with star and portcullis motifs Frog-mouthed sight
+
+medieval knight the armored knight was the elite fighting man of medieval Europe. With his horse, armor, lance, and sword, he was both a costly warrior and a figure with high cultural and social prestige. Although warfare rarely lived up to the ideal of mounted nobles clashing in chivalrous combat, knights were highly skilled soldiers who adapted well to the constantly evolving challenges of the medieval battlefield.
+
+iron quillon dagger with sword and lance Medieval society expected any young male of social standing to seek glory in war. Training was taken very seriously. Boys served first as pages and then as squires in the household of a knight who ensured their education in horsemanship and the use of the sword and lance. After graduation to knighthood, training continued through tournaments that honed fighting skills, and through more or less constant warfare.
+
+If there was no fighting to be had close to home, knights would seek it out, traveling to the edges of the Christian world to fight the “infidels.” The classic form of knightly combat was the charge with couched lance on horseback. But knights were also effective on foot, wielding swords, maces, or battle-axes. The code of chivalry to which knights subscribed expressed a Christian ethic of warfare, but in practice the plundering, skirmishing, and sieges of medieval warfare left little place for idealism. In the relatively rare pitched battles, knights were sometimes routed by disciplined foot soldiers or bowmen, but they remained a dominant force into the 16th century.
+
+templars In the 12th century, knights of the Christian kingdoms in Palestine formed military monastic orders such as the Knights Templar. Obeying austere religious rules, these fighting monks became elite forces dedicated to the struggle against Islam. Named after the Temple in Jerusalem where they had their headquarters, the Templars accumulated wealth that attracted the envy of kings.
+
+The order was condemned for alleged heresy and suppressed in 1312.
+
+templar knight ready for battle the middle ages
+
+plate armour The full steel plate armor worn by knights in the 15th century offered excellent protection. The helmet was curved to deflect the impact of a mace blow, and slashing sword strokes would have no effect. The knight was only vulnerable to steel crossbows and firearms. This “Gothic” armor, with its elaborate decorative detail, was made in Germany.
+
+Besagew: small round shield to defend armpit Sallet helmet with protective visor Greave: plate armour for lower leg Leather shoes Breastplate linked to backplate by waist straps battle of Crécy Fought in August 1346, Crécy was one of the encounters that questioned knights’ dominance on the battlefield. Although French and English knights did engage with lance and sword, the flower of French chivalry was mown down by Welsh longbowmen.
+
+italian sword Mail-clad knights Mounted knights in mail and emblazoned cloth surcoats with heraldic designs wield their swords in a melee. Close grappling was a significant element in knightly fighting skills.
+
+Coulter: tubular defense for arm Gauntlet with separate finger plates hand-and-a-half  sword quillon dagger iron quillon dagger TOOLS OF combat what is the function of knights? to guard the church, to fight unbelievers ... and if need be, to lay down their lives.” “ john of salisbury, policraticus, 1159 great warriors
+
+the middle ages 3 94–95 european plate armor           3 166–167 european tournament armor 1000—1500
+
+## EUROPEAN
+
+MAIL armor mail armor—the linking together of small iron or steel rings to form a mesh—dates back as far as the 5th century BCE. By the time of the Norman Conquest of England in 1066, three-quarter length mail armor was common among knights and, by the 13th century, it was being worn from head to toe. Construction was a slow and laborious process, and as many as 30,000 separate links were required for a single shirt of mail.
+
+Mail flap to be drawn across face while in combat mail shirt This mail shirt—called a “haubergeon”—has been made in the Asian style. All the rings have been welded together, whereas in the west, the common practice was for mail to be made of alternate lines of welded and riveted rings.
+
+date 20th-century replica origin europe
+
+## MAIL HAUBERK
+
+The hauberk or byrnie—a knee-length shirt of mail—was the central item of armor for 11th- and 12th-century knights and men-at-arms. To guard against blunt trauma blows to the body, the knight would wear a padded garment called a gambeson underneath his hauberk.
+
+mail coif Although some suits of mail armor included an integral hood with the hauberk, others had a separate hood, or coif, to be worn under a plate helmet. Mail was usually constructed from wrought iron, although mild steel was used on occasion.
+
+date 20th-century replica origin europe Welded iron rings full view Anglo Saxon-style square neck Horseman’s slit to allow freedom of movement while on horseback Short sleeves for mobility date 20th-century replica origin europe
+
+the battle of bouvines This contemporary illustration of the battle of Bouvines in 1214 —where an English army and its allies were defeated by the French—shows both cavalry and foot soldiers wearing full suits of mail armor.
+
+Replica basinet helmet Mail aventail attached to basinet mail detail Mail was usually connected by the four-to-one system, where each ring was linked to four other rings. In Europe the most common practice was for mail to be made from alternate rows of welded and riveted rings, and from the 14th century onward, entirely from riveted rings.
+
+Alternate rows of solid and riveted links Cuffs bordered by brass links Mail hauberk reaching to knees date mid-14th century origin austria weight 30½ lb (13.83 kg)
+
+mail shirt and aventail This full-sleeved hauberk and aventail—the mail collar hanging directly from the helmet —is thought to have belonged to Rudolf IV, the Habsburg Duke of Austria. Although plate armor was becoming common in this period, mail was still in demand in Europe for another 100 years.
+
+the middle ages 4 92–93 european mail armor           3 166–167 european tournament armor 1000—1500 european plate armor during the 14th century mail armor was increasingly supplemented by plate armor, which was surprisingly flexible and provided its wearer with a good deal of mobility. By the middle of the 15th century, knights were equipped with complete suits of plate armor with mail relegated to covering exposed areas behind the armor joints. During the late 15th and early 16th centuries, plate armor reached its apogee, and the main elements are revealed in this breakdown of a mid-16th-century Italian suit of armor.
+
+date mid-16th century origin	 italy Articulated steel tasset plates to aid mobility at the waist Breastplate to protect chest Lower bevor Upper bevor in raised position Eye slit in visor Gorget plates to overlap gorget Longitudinal comb Gorget—to protect  neck and join helmet to cuirass Leather straps connecting breast- and backplates
+
+## BREASTPLATE SECTION
+
+## OF CUIRASS
+
+## CLOSE HELM
+
+Hinge and pivot Lifting peg to raise visor Breathing vents Hook to attach upper and lower bevors italian armor The close helm tightly encloses the entire head. Its pivoted visor is divided into two parts: the visor proper and the upper bevor. The cuirass, covering the torso, consists of a breastplate linked to a backplate (not shown) by leather straps. Extending from the breastplate are skirts and tassets to guard the abdomen and upper thighs. Neck, arm, and leg defenses complete the head-to-toe protection.
+
+Pauldron to protect shoulder Rerebrace to protect arm Cuisses to protect thigh Sabaton to protect foot —made from small overlapping plates Articulated steel plates Greaves to protect lower leg Poleyn to protect knee Thumb plate Rivet connecting tassets
+
+## SABATON
+
+Hook for closing greave
+
+## MITTEN
+
+GAUNtLET GREAVEs CUISSEs PAULDRONs gorget thigh plates
+
+## OF CUIRASS
+
+Couter to protect elbow Leather straps and buckles to attach to leg One plate, the cuff, covers wrist Scrolling decoration Raised neck and armpit edge for deflecting swords and staff weapons.
+
+## MITTEN
+
+GAUNtLET Skirt Strap for buckling skirt to tassets
+
+the early modern world
+
+c.1500 Spread of trace italienne fortification system Spanish under Cortés capture Tenochtitlán, Mexico Spanish fight in mixed pike and musket square at Cerignola Francois I of France raises the companies d’ordonnance Firearms first appear in Japan Peace of Augsburg temporarily halts religious war in Germany In Japan Tokugawa Leyasu establishes Tokugawa shogunate Battle of Breitenfeld; Gustavus Adophus’ military reforms bear fruit in crushing Swedish victory Dutch revolt begins as Habsburg province breaks up into Catholic and Protestant unions 1618–48 Thirty Years War c.1600 Military reforms of Maurice of Nassau Battle of Panipat; Mughals dominate North India By the early 16th century, artillery had clearly demonstrated its effectiveness. This was underlined by developments such as the introduction of the trunnion—horizontally projecting lugs that allowed guns to be elevated or depressed more effectively. For a short period, the late medieval propensity to skulk behind powerful fortifications and for campaigns to focus on sieges and raids was replaced by a phase during which armies, aware that they could no longer defend fixed points, were much more willing to risk pitched battles.
+
+siege warfare The Italian Wars (1494–1509) saw the first large-scale demonstrations of the potency of field artillery and firearms on the battlefield.
+
+At Cerignola (1503), the Spanish fought from shelter behind a trench and earth parapet, subjecting the French cavalry to withering fire. At the battle of Ravenna (1512), the combat opened with a two-hour artillery duel, the first of these ever to be recorded.
+
+This era of open warfare, however, was soon replaced by a long period in which sieges became once more the dominant feature in campaigns. The spread of trace italienne fortifications (see box page 100) meant that sieges became prolonged and costly affairs and the benefits to a defending army of remaining safe within city walls more obvious.
+
+The arquebus was a primitive firearm that was widely used from the 15th–17th centuries.
+
+Around the 1520s a new weapon appeared— the musket. Weighing up to 20 lb (9 kg)—much heavier than the arquebus—it required a forked rest to allow its bearer to fire, but did have the advantage of delivering a ball with much greater force. The musket’s unwieldiness meant it was most effective in sieges. The advent of gunpowder weapons did not, at a stroke, make infantry stalwarts such as the pike obsolete.
+
+Swiss pike formations were a common feature of early 16th century battles, and their aggressive tactics, such as charging entrenched arquebusiers at Novara (1513), made them open fighting At Pavia (1525), the combat was decided by imperial arquebusiers and pikemen fighting in the open, unshielded by entrenchment; the French Army was decimated and their king, Francois I, was captured by Charles V, the Holy Roman Emperor.
+
+English defeat French at the “Battle of the Spurs” Battle of Pavia; Spanish musketeers fighting in open decimate French Start of French Wars of Religion: Caracole first used by Huguenot horsemen at Battle of Dreux Battle of Lepanto —Ottoman fleet destroyed by Don Juan of Austria Gustavus Adolphus killed at Battle of Lützen The 16th and 17th centuries saw the rapid spread of firearms, both within and outside Europe, and the modification of military and political strategy to cope with the effects of the new technology.  A world in which elites were not born to military service, but rather trained and drilled to it, coupled with a generalized growth in the capacity of states both to raise taxes and—to a lesser extent —to direct their expenditure effectively, meant that armies, as well as the weapons they deployed, became ever more lethal.
+
+the early modern world
+
+1642–49 English Civil War sees first use of horse artillery Habsburgs retake Belgrade from Ottomans Vauban uses ricochet fire at Siege of Phillipsburg 1688–97 War of the Grand Alliance between France and Anglo-Dutch alliance 1701–14 War of the Spanish Succession c.1700 Early rifling of musket barrels rightly feared. The proportions of pikemen in armies steadily declined, however, to as little as one in five by the mid-17th century.
+
+The retention of the pike was one aspect of a self-conscious tendency in European armies for military theorists (as much as Renaissance architects) to draw on ancient classical models, such as the spear-wielding Greek hoplites or the disciplined ranks of the Roman army, for their own campaigns. In 1534 Francois I of France established seven companies d’ordonnance, each 6,000-strong, modeled on the Roman legions, while Italian theorists promoted a standard infantry company of 256, drawn up in a 16 by 16 square.
+
+europe’s growing armies The Italian poet Fulvio Testi wrote in the 1640s, “This is the century of the soldier,” in reference both to the increased bloodiness of battles—at Ceresole in 1544, some 7,000 of the 25,000 combatants perished—and to the sheer size of armies. That of Charles the Bold of Burgundy had been regarded as large in the 1470s at 15,000, a number dwarfed by Philip II of Spain’s 86,000-strong army in the Netherlands a century later. The huge expense of refortifying towns and raising ever-larger armies put enormous strain on the leading powers in Europe.
+
+European wars had, until the late 15th century, been fought principally for dynastic reasons, but the Protestant Reformation in the early 16th century added a religious and ideological dimension to warfare. By the 1560s, both France and the Netherlands had descended into religious civil war. The French Wars of Religion ended in 1589, but the revolt of the Netherlands was more protracted—ending only in 1648—and saw the resources of the Habsburgs under Charles V and then Philip II stretched to the limit. It also became the crucible of significant developments in military strategy.
+
+The use of firepower brought about a change in battlefield formation as it was most effectively delivered in a line of battle, rather spanish squares The Spanish were among the first to mingle pikemen and arquebusiers into a mixed square known as a tercio, several of which are shown here in combat during the Eighty Years War (1568–1648) against the Dutch.
+
+Battle of Rocroi; Spanish tercios destroyed by French 1667–8 War of Devolution; Louis XIV seeks to annex parts of Netherlands Failed siege of Vienna by the Ottoman Turks Brown Bess flintlock developed 1700–21 Great Northern War between Sweden and Russia than a traditional block. Throughout the 16th and 17th centuries, the ranks of armies thinned out and their lines extended. Fighting in line formation, however, required greater discipline —especially as opposing armies often opened fire at a range of only 164 ft (50 m). The Dutch Protestant leader Maurice of Nassau began to introduce his troops to “exercises” in the 1590s, drilling them and instructing them in basic maneuvers. His brother William Louis pioneered a system whereby consecutive rows of musketeers fired in turn, then retired to reload, allowing for continuous fire.
+
+the old world meets the new world The 16th century saw the first really successful projection of European power overseas. In the Americas, the Spanish confronted the Inca and Aztec empires, neither of which had developed iron. Wooden clubs and stone axes could not penetrate Spanish cuirasses, and only the Aztecs’ copper-tipped arrow made much impact against their enemies. At the siege of Cuzco in 1536, 190 Spanish soldiers defeated up to 200,000 Inca warriors armed largely with stones. The Spanish benefited from divisions among their enemies as much as from their technology. In Mexico they harnessed the antipathy of the Tlaxcala toward the Aztecs to obtain intelligence, while in Peru they exploited a civil war between two rival claimants to the Inca throne. Yet indigenous peoples learned fast.
+
+In North America the Massachussetts Indians were manufacturing shot by the 1670s, so that, whereas in earlier encounters there were few European casualties, in King Philip’s War in 1675–76 there were 3,000 English wounded.
+
+Duke of Marlborough beats French at Battle of Blenheim Mughal emperor Aurangzeb completes Mughal conquest of South India 1740–48 War of The Austrian Succession Nadir Shah captures Delhi Chinese conquer Tibet Frederick the Great of Prussia uses oblique formation to win Battle of Leuthen 1757–63 Seven Years War c.1660 Sébastien Le Prestre de Vauban designing bastioned forticiations Socket bayonet developed Peace of Westphalia ends Thirty Years War
+
+the development of gunpowder Against the Asian powers of Ottoman Turkey, Mughal India, Tokugawa Japan, and Ming and Qing China, military in-roads by Europeans were relatively minor. Until their defeat at the second siege of Vienna (1683), the Ottomans pressed hard, engaging in constant small-scale warfare with the Austrian Habsburgs. The janissary infantry corps that had brought the Turks such great successes in the 16th century were beginning to atrophy as a military power, but they still possessed a light cavalry arm unmatched in Europe.
+
+Although the Chinese had developed gunpowder earlier, Europe had opened up a technological lead by the 16th century. The Chinese then acquired Portuguese cannons in the 1520s, but were not content with merely aping the foreign technology. During the 16th century, they developed a “continuous bullet gun,” a primitive form of machine gun.
+
+A military manual of 1598 set out the precise measurement of gun barrels to tiny fractions of inches, while Chinese guns were stamped with serial numbers, indicating tight central control on production.
+
+In Japan, the Onin Wars of 1467–76 had set in train a period of political fragmentation when local warlords, the daimyo, built up independent domains. Japan acquired firearms in 1542—from Portuguese passengers on a pirate ship that blew off course—and they spread rapidly. Units of musketeers (teppotai)
+
+played a crucial role in the unification of Japan under Oda Nobunaga, who captured the royal capital of Kyoto in 1568 and conquered most of Japan before his death in 1582.
+
+Battles in Japan at this time became more similar to the pitched encounters of European armies than the challenge and counter- challenge of elite samurai warriors that characterized earlier warfare there. Japanese armies showed considerable technical and tactical ingenuity; at Osaka in 1576, Nobunaga had seven ships constructed, shielded by armed plates, which were armed with canons and muskets, creating a very early version of an ironclad; while at Nagashina in 1575, Nobunaga’s musketeers fired in ranks in rotation, some years before the practice became established in Europe. Yet the final unification of Japan under the Tokugawa after 1600 meant that military conflict, and with it the impetus for technical development, declined. Already in 1588, the “Sword-hunt Edict” had ordered the confiscation of all weapons held in private hands, including firearms, contributing to a demilitarization that would leave it ill-equipped to face western intruders in the 19th century.
+
+the thirty years war The Thirty Years War (1618–48), a complex struggle, that pitted the Catholic Habsburgs against a shifting coalition of mostly The development of new siege artillery led to a search for improved forms of military architecture. The solution was polygonal and angled bastions, which, when manned by arquebusiers, created interlocking fields of fire and a killing zone for attackers. From its origins in Italy, the new type of fortification became known as the trace italienne. New levels of sophistication were reached in the late 17th century by the French engineer Vauban, whose employment of concentric rings of outworks and exploitation of topography to maximize defensive firepower made fortresses such as Lille forbidding obstacles for besieging forces.
+
+indian blade This 18th-century dagger, with a hilt in the form of a dragon, is known as a bichiwa or “kiss of the scorpion.” Shivaji, the 17th-century Indian guerrilla leader, used such a concealed blade to assassinate his opponent Afzal Khan.
+
+Fortification musket drill The musket was a complex weapon, requiring as many as 20 separate movements to ensure correct firing. Drill manuals illustrating the correct positions, such as this mid-17th century Dutch version, became an essential military accoutrement.
+
+model of vauban- style fortification Protestant foes, saw a further evolution in the sophistication of armies and tactics. Increasingly armies wore uniforms, or at least some identifying colour – the Habsburgs favoured red, while their French enemies wore blue.
+
+The Swedish army under Gustavus Adophus took the reforms further than most. Gustavus effectively introduced conscription with his 1620 “Ordinance of Military Personnel”, while a War Board was established to supervise military administration. The fruit of these the early modern world
+
+japanese firearms At Nagashino in 1575, Oda Nobu- naga’s ranks of arquebusiers fired rotating volleys to decimate the charge of his opponent Takeda Katsuyori. Those of Takeda’s horse- men who reached Oda’s lines were held off by pikes, in an echo of European tactics of the era.
+
+improvements came in a string of spectacular Swedish battlefield successes. At Breitenfeld (1631) a Swedish army formed up in six ranks faced a Habsburg army drawn up in “squares” 30 deep and 50 wide and won a crushing victory, killing almost 8,000 of their opponents.
+
+Throughout the Thirty Years War, states had been forced to rely on mercenaries for manpower. Military entrepreneurs had flourished, such as Albrecht von Wallenstein, who was able to offer the services of a force numbering 25,000-strong. But after the Peace of Westphalia (1648), countries increasingly established standing armies, which were not disbanded at the end of a campaign. France’s army reached 125,000 by 1659 (and around 400,000 by 1690), while even the tiny German state of Jülich-Berg maintained a permanent fighting force of 5,000.
+
+By now, wars cost huge sums to fight; between 1679 and 1725, the Russian armed forces cost 60 percent of total revenue in peacetime, and nearly all of it in wartime.
+
+In Louis XIV’s France, the construction of a barrier of fortresses across the northeastern Frontier, many designed by Vauban (see box)
+
+was ruinously expensive—that at Ath took six years and five million livres to build.
+
+Campaigns once more centered on sieges —during the Nine Years War (1688–97) the French sought to push their frontier eastward, but the siege of just one fortress, Philippsburg, took two months.
+
+use of the musket and bayonet The late 17th century saw the final demise of the pike, and its replacement by the bayonet.
+
+The plug bayonet, which blocked the muzzle of the musket and needed to be removed for firing, did not catch on. However, in 1669 the socket bayonet was developed, which created no such impediment. By 1689 it was becoming standard issue for French infantry. The latter 17th century also saw the development of the flintlock musket, lighter than the matchlock and with double the rate of fire.
+
+The introduction of pre-packaged cartridges, with the gunpowder charge already measured out, also increased the rate of fire (they became general issue in the French army by 1738).
+
+the beginnings of global warfare For a time in the 17th century, armies had employed a cavalry tactic, known as “caracole,” where the cavalry, armed with wheellock pistols, would trot into range, let off a volley and then retreat. But the combination of flintlock and socket bayonet made the mounted arm especially vulnerable, and by the late 18th century, they made up only 16 percent of the French army, principally used against other cavalry or in pursuit of already broken infantry.
+
+Toward the end of the period, however, the cavalry underwent a revival, as they largely abandoned their firearms and relied instead on the shock of rapid and decisive charges —the English general Marlborough’s cavalry squadrons played a key role in his victory at Blenheim (1704) during the Spanish War of Succession.
+
+Prussia under Frederick the Great (1740–86)
+
+built up Europe’s most effective military force, founded on discipline and constant practice.
+
+Innovative tactics such as the oblique attack set a standard for other countries—the Russian Infantry Code of 1755 was firmly based on the Prussian model. During the Seven Years War (1756–63), the Prussians and their British allies faced a coalition of France, Austria, and Russia, intent on putting a stop to Prussian dominance of central Europe. This war is most notable, however, for being the first truly global conflict, as French and British rivalry played itself out across North America and the Indian subcontinent. From 1720 the Prussians had iron ramrods for their muskets, and could let off as many as three rounds a minute, fired on the move—a relatively new tactic—delivering Frederick successes such as Leuthen (1757), where some Prussian musketeers let off up to 180 rounds each.
+
+As the 18th century progressed, field artillery became an increasingly vital component of armies. The French artillery train in Flanders in 1748 had no fewer than 150 cannon drawn by almost 3,000 horses. From 1739, barrels were cast in a single piece and then bored, allowing finer tolerances and more powerful pieces at a given size. With the establishment of gunnery schools, such as the French Royal Corps of Artillery in 1679, artillery officers were often some of the best trained in European armies. It is fitting, therefore, that it was to be a French artillery officer, Napoleon Bonaparte, who would finally bring an end to the ancient regime of the absolute monarchs and revolutionize warfare.
+
+early modern world the early modern world 3 104–105 european infantry and cavalry swords          3 108–109 great warriors: landsknecht 1500—1775 Two-handed swords during the middle ages, most infantry swords were relatively light and easy to wield, but by the late 15th century, a distinctive group of larger weapons grew in popularity, particularly in Germany.
+
+These two-handed (doppelhänder—double-hander or beidenhände —both-hander) swords were specialist weapons. The Landsknecht mercenaries who used them were called doppelsöldner and received double pay; but they earned it. They were expected to hack their way into enemy pike units. The impressive but clumsy weapons were also used for ceremonial duties and executions.
+
+date c.1550 origin scotland weight 5¾ lb (2.61 kg)
+
+length 58¾ in (1.5 m)
+
+highland sword The Scots developed their own tradition of “hand-and-a-half” weapons, derived from earlier medieval Scottish and Irish longswords.
+
+This Highland sword (Claidheamh dà làimh) has a blade just over 3 ft (1 m) long, and was shorter and lighter than German doppelhänder weapons. The forward-sloping quillons ending in quatrefoils were a common feature.
+
+date c.1580 origin germany weight 7¼ lb (3.3 kg)
+
+length 63 in (1.6 m)
+
+parade sword In 16th- and early 17th-century Germany, particularly ornate two-handed swords such as this example were used on ceremonial occasions. These paratschwerter (parade swords, also called “bearing swords”) were longer and heavier than battlefield weapons, and often so ornate that they were of little use as offensive weapons. The flame form of the blade (flammenschwert ) was impressive, but made little difference to its cutting qualities.
+
+date c.1570 origin scotland weight 6½ lb (2.95 kg)
+
+length 58½ in (1.48 m)
+
+lowland sword Outwardly this sword is typical of the weapons used by German Landsknecht mercenaries on European battlefields during the early and mid-16th century. However, in this particular example, the blade is surmounted by a hilt produced in Scotland, and it is of typical Scottish design.
+
+date c.1550 origin germany weight 7 lb (3.18 kg)
+
+length 55 in (1.4 m)
+
+two-handed sword This doppelhänder sword was designed as a battlefield weapon, and is of a type used by the German Landsknecht. The sword has a blunt tip because it was designed to hack through enemy units rather than to pierce its victims.
+
+Grip bound in leather and pierced with metal studs Parrying lugs reflect those on battlefield swords Good grip to help balance weight German blade Forward-curving quillons terminate in curls Double-edged blade shorter than German equivalent Flame or wave form of blade added for show Spherical pommel Scottish style of hilt Only one edge of the two sharpened
+
+date c.1674 origin germany weight 4¾ lb (2.15 kg)
+
+length 32¾ in (0.83 m)
+
+execution sword This heavily ornate example of a municipal executioner’s sword has a shorter hilt than earlier doppelhänder swords. Etched with depictions of gruesome executions, it was used for only one function. When not in use, the sword hung in a civic building as a deterrent to potential wrongdoers.
+
+full view Blade etched with scenes of executions Impalement by a spike Details and date of manufacture Beheading by executioner’s sword Bound, non-slip grip Impalement by a hook A religious exhortation Quillons are largely decorative Sword tip blunt and rounded Religious Backlash A German executioner prepares to behead a religious dissident with a two-handed sword. The bodies of earlier victims can be seen in the foreground. Mass executions and hangings of this kind were common during the Reformation (1517) and Counter-Reformation (1553).
+
+Heavy pommel balances the weapon front of sword back of sword
+
+early modern world European Infantry and Cavalry Swords while the military revolution that followed on the heels of the Renaissance meant that firepower was becoming increasingly important, the arme blanche (cold steel) still remained a battle- winning weapon, particularly for cavalry. Most infantry swords from the 16th century onward tended to be used as thrusting weapons, but cavalry still needed to slash downward at infantry, so they favored larger, double-edged swords that could be used equally well against mounted and dismounted opponents. However, standardized military sword patterns now emphasized style as much as practicality. They were more elegant, but probably no less deadly.
+
+4 62–65 european swords 1000–1500           3 180–183 european swords 1775–1900 1500—1775 the early modern world date c.1500 origin switzerland weight 2 lb (0.91 kg)
+
+length 35¼ in (90 cm)
+
+Infantry Sword In contrast to the other swords on this page, this highly decorated but simply designed sword offered little protection to the swordsman, but it could be wielded using one or two hands.
+
+Simple wooden grip allows single- or double-handed grip date c.1540 origin england weight 3 lb (1.36 kg)
+
+length 41¼ in (1.04 m)
+
+Basket-hilted sword This broadsword consists of an early 17th century German blade produced in Solingen attached to an English basket hilt dating from over a century before the blade was cast.
+
+date origin england weight 3 lb (1.36 kg)
+
+length 39½ in (1 m)
+
+Cavalry Sword By the mid-18th century, cavalry swords had developed into two types: light, curved blades for light cavalry, and longer, heavier, straight blades for heavy cavalry. This example is typical of those used by European heavy cavalry for over a century. The single fuller (the groove along the back of the blade) meant that the blade was single-edged.
+
+Single fuller imparts greater strength to blade Curves on quillons could trap an opponent’s blade full view full view Silver-encrusted hilt Religious icons often decorate the blades of Renaissance weapons Ornate scrollwork of guard reflects contemporary aesthetics Blade was made a century after the hilt Maker’s mark
+
+date c.1630 origin sweden weight 3 lb (1.33 kg)
+
+length 43 in (108.3 cm)
+
+Cavalry sword Unlike the rapier favored by soldiers on foot, cavalrymen during the 16th and 17th centuries relied on variants of the broadsword, such as this finely engraved Swedish weapon. A shell guard protects the swordsman’s hand, while the simple pommel is reminiscent of late medieval weapons. The straight blade could be used with equal efficiency as a cutting or thrusting weapon.
+
+date c.1570 origin germany weight 3¼ lb (1.5 kg)
+
+length 40 in (1.02 m)
+
+Düsack The düsack or dussak was primarily a South German and Austrian weapon of war. Its curved, saber-style blade made it a useful cutting weapon, while its enclosed guard offered good protection to the swordsman. Early 17th-century woodcuts support evidence that the düsack was also used as a dueling weapon in Southern Germany.
+
+Simple brass-plated steel ring guard date c.1550 origin germany weight 3½ lb (1.59 kg)
+
+length 37¾ in (96 cm)
+
+Broadsword This proto-basket-hilt sword is an unusual composite of several sword types. It is described by its blade type. The cut-steel guard is basic, but represents a significant improvement over earlier Swiss weapons.
+
+full view full view S-shaped quillon typical of weapons of this era Solid steel plates were often perforated with heart-shaped designs Simple cut-steel shell guard encircles the whole hilt Simple wooden grip Cut steel pommel larger than normal to provide weight for balance Double- edged blade Blade lacks a fuller Quillon affords extra protection to swordsman’s hand Intricate engraving suggests weapon belonged to an officer full view
+
+early modern world the early modern world 4 62–65 european swords 1000–1500           3 180–183 european swords 1775–1900 1500—1775 European Infantry and Cavalry Swords destiny’s charge With sword in hand, King Gustavus Adolphus of Sweden led a cavalry charge against his protestant German foes during the Battle of Lützen (1632). He outpaced his bodyguard and found himself surrounded by enemy horsemen, who cut the Swedish king down without mercy.
+
+date c.1750 origin scotland weight 3 lb (1.36 kg)
+
+length 35¾ in (91 cm)
+
+Broadsword Although basket-hilted swords were used throughout Europe from the mid-16th century, they are most closely associated with the 18th-century Scottish Highlander.
+
+Most of these were made in the lowlands, principally in Glasgow and Stirling, although many of the blades were imported from Germany. The characteristically Scottish basket-hilt guard was designed to protect the swordsman’s hand.
+
+full view date c.1780 origin italy weight 2¼ lb (1.02 kg)
+
+length 41½ in (1.05 m)
+
+Schiavona sword This more delicate, characteristically Venetian example of a broadsword is known as a schiavona, meaning Slavonic. Schiavonas have a distinctive form of basket hilt, and almost always feature a pommel designed to resemble the head of a cat, an allusion to agility and stealth. They were primarily used by Dalmatian troops in the service of the Venetian Republic.
+
+Double-edged blade inscribed with the slogan In Mene (“in mind”)
+
+Inside of the basket lined with felt-covered leather full view Pommel cast in the form of a cat’s head Basket guard provides excellent protection High-quality silverwork indicates this was possibly an officer’s weapon Quillon has probably been straightened Wooden grip bound with thin silver wire Wide double-sided blade good for cutting and thrusting Pommel decorated with intricate inlaid brass scrollwork
+
+date c.1760–1820 origin england weight 1¾ lb (0.84 kg)
+
+length 31¼ in (79.7 cm)
+
+Infantry hanger While most infantrymen relied on the bayonet for combat, many foot troops were also issued with a “hanger,” a crude military variant of a short hunting sword. This almost always has a straight or slightly curved blade. The hanger was more practical in difficult terrain than conventional longer swords.
+
+date 1600–60 origin europe weight 2¾ lb (1.27 kg)
+
+length 50 in (1.27 m)
+
+swept-hilt Rapier The classic infantry weapon of the 17th century was designed purely as a thrusting weapon, whereas swordplay “at the point” was considered the art of a gentleman. As well as a military weapon, the rapier was also regarded as the dueler’s weapon of choice, until it was replaced by the pistol in the late 17th century.
+
+date 1640–60 origin england weight 2 lb (0.91 kg)
+
+length 36 in (91 cm)
+
+Mortuary sword So named because some examples bear an apparent chiseled likeness of Charles I on the hilt, these swords were widely used by cavalrymen during the English Civil War that preceded the execution of the king in 1649. Although the blade was manufactured in Germany, the hilt of this weapon is of a uniquely English design.
+
+date c.1775 origin england weight 1¾ lb (0.85 kg)
+
+length 33 in (83.8 cm)
+
+Cavalry sword This is typical of the single-edged swords carried by heavy cavalry for much of the 18th century. While cavalrymen still cut with their swords, it was considered more practical for heavy cavalry to use the point of their sword instead of the edge. This weapon was dual purpose, without being particularly well suited for either type of swordplay.
+
+After 1780 most British Army swords were designed to set patterns.
+
+full view full view full view full view Decoration on hilt shows sword belonged to an officer Style of guard in contemporary rococo design Intricate swept-hilt guard Pommel can be used as a weapon Steel hilt decorated with simple cast scrollwork Shape of guard usually described as a “half-basket hilt” Simple two-bar guard only decorated on officers’ weapons Grips and guards of hangers usually brass Dull edges Double-edged blade with two fullers to reduce weight Single-edged blade is shorter than typical cavalry sword
+
+the early modern world landsknecht the garishly dressed, swaggering mercenary bands known as the Landsknecht were founded in 1486 by Holy Roman Emperor Maximilian I, who wanted his own infantry force to match the Swiss pikemen who had been victorious at the battles of Murten and Nancy in 1476–77. Officially, the Landsknecht were bound to serve the emperor, but the lure of pay and plunder soon led many of them to seek alternative employers. Feared and admired, they were a ubiquitous presence on European battlefields in the first half of the 16th century.
+
+mercenary fighters Individual mercenary captains were contracted to recruit, train, and organize regiments about 4,000 strong. The majority of recruits came from German-speaking areas, although some hailed from as far afield as Scotland. They were tempted by pay of four guilders a month, a good income for the time, but they had to supply their own equipment. Only the better off could afford full armor or an arquebus. The weapon of the majority was the pike, 16TH-CENTURY
+
+## GERMAN
+
+## BROADSWORD
+
+15 or 20 ft (5 or 6 m) long, and costing around one guilder. The core of the Landsknecht battlefield formation was a phalanx of pikemen, supported by skirmishers armed with crossbows and arquebuses and, in the van, the regiment’s best soldiers armed with two-handed swords. On the battlefield, the Landsknecht were disciplined and courageous but, when their wages were not paid, they gained a reputation for mutiny and plundering.
+
+battle of pavia At Pavia in 1525, the Landsknecht Black Band, employed by French King François I, fought to the last man while the rest of the French forces fled the field.
+
+mounted captain Distinguishable by the fineness of his clothes, a Landsknecht captain was a private entrepreneur, who employed his men and then sold their services to kings at a handsome profit.
+
+Captain’s bodyguard Broad, flat, beret-style hat decorated with tall feathers Pike Halberd Slash and puff clothing
+
+the sack of rome In 1527, the Landsknecht and other imperial forces of Charles V, Holy Roman Emperor, occupied Rome. As Lutherans, the Landsknecht hated the Catholic Church. One Landsknecht recorded: “We put over 6,000 men to the sword, seized all that we could find in the churches, burned down a great part of the city ...”.
+
+The occupation lasted nine months, with the mercenaries refusing to leave until they had been paid arrears of wages.
+
+Double-pay men These Landsknecht doppelsöldener, or “double-pay men,” earned their extra wages fighting in the front line. Wielding their two-handed swords, they assailed the ranks of enemy pikemen, opening up gaps in their formation. The bizarre outfits that the Landsknecht wore—extravagantly puffed and slashed, with assorted headgear—expressed an arrogant spirit that made them of doubtful loyalty to their employers, and a much-feared menace to civilians.
+
+two-handed sword pike parade sword halberd imperial forces entering rome tools of combat landsknecht paul dolstein, on fighting for the king of denmark, july 1502 we were 1,800 germans and were attacked by 15,000 swedish peasants … we struck most of them dead.” “ great warriors
+
+European rapiers in the 16th century, the rapier became the weapon of a gentleman; a symbol that he was a man of substance and status, and that he knew how to use his sword. The term is derived from the 15th-century Spanish term espada ropera (sword of the robes) meaning the weapon of a gentleman. By 1500 the rapier was used throughout Europe, and it would remain the premier gentleman’s sword until the late 17th century. While it was certainly used on the battlefield, it is more readily associated with court, dueling, and fashion, hence the tendency toward delicate, intricate designs.
+
+Single bar protects knuckles Pierced and chiseled metalwork Decorated steel grip early modern world the early modern world 1500—1775 Cup provides excellent protection for hand Large spherical pommel Grip ornately bound in wire Bars act as a guard Blade inscribed with religious invocations Maker’s name inscribed on blade date c.1650 origin spain weight 2¼ lb (1.02 kg)
+
+Length 37¾ in (96 cm)
+
+Cup-hilt rapier In Spain, and those parts of Italy under Spanish influence, the guard of the rapier became fully enclosed, producing the “cup-hilt” guard form shown here. The Romepuntus is used to trap opponents’ blades.
+
+date early 17th century origin italy weight 2¼ lb (1.02 kg)
+
+Length 53½ in (1.36 m)
+
+Swept-hilt rapier This classic form of rapier guard is known as a swept-hilt, because the bars sweep up in a graceful curve from the ricasso to the pommel. Despite its apparent lack of protection, this style of rapier remained in fashion until the early 17th century, largely because of its elegant appearance.
+
+3 112–113 european smallswords          3 116–117 european hunting swords Steel hilt Rompepuntus
+
+Simple ricasso Pommel in the form of an urn Square-section blade Plain cup-hilt Early form of rapier hilt Pair of symmetrically pierced shell guards Hilt designed to provide added protection Straight double-edged blade Shell-shaped lenticular pommel date origin	 german weight 2¾ lb (1.25 kg)
+
+Length 54¾ in (139 cm)
+
+Pappenheim-hilt rapier This style of rapier was popularized by Count Pappenheim, an imperial general of the Thirty Years War (1618–48). The design was soon copied throughout Europe as its two pierced shell guards provided good protection for the swordsman. The Pappenheim variant was designed for military use.
+
+Shallow diamond-section blade Thickened blade Diamond-section twisting blade Swept hilt of chiselled iron date 1520–30 origin	 italy weight 2¾ lb (1.21 kg)
+
+Length 44 in (111.5 cm)
+
+Early rapier The first rapiers were clumsy weapons compared to the elegant designs that followed them, more akin to contemporary military swords than weapons designed primarily for civilian wear. This example shows some reworking, which may suggest that the blade is a replacement. However, the guard itself has something of the elegance of later swept-hilt designs.
+
+date origin	 england weight 3 lb (1.39 kg)
+
+Length 50½ in (128 cm)
+
+Swept-hilt Rapier Another variant of a swept-hilt rapier design, this weapon might be less elegant than its counterpart on the left, but its small, perforated shell guards offered better protection. In this example the grip is bound in woven wire. It suggests this rapier was made as a dress sword rather than for military use.
+
+date c.1680 origin	 italian weight 2 lb (0.9 kg)
+
+Length 47 in (119.8 cm)
+
+Cup-hilt Rapier Unlike other rapiers, this later weapon was designed as a fencing piece rather than as a weapon that denoted gentlemanly status. It has an extremely narrow diamond- section blade, and a simple, unadorned cup and hilt.
+
+Circular stop-rib riveted to cup
+
+early modern world the early modern world 4 104–107 european infantry and cavalry swords          4 110–111 european rapiers          3 180–183 european swords 1775–1900 1500—1775 date c.1720 origin france weight ¾ lb (0.40 kg)
+
+length 34¾ in (88.5 cm)
+
+etched sword This fine sword is decorated with hunting scenes of hounds and game chiseled in relief against a matte gold background. The steel hilt has a spherical pommel and button, and the grip is bound with silver ribbon and plated silver wire.
+
+a development of the rapier, the smallsword came into general use in Western Europe toward the end of the 17th century. It was a civilian weapon: an essential item of dress for any gentleman that also acted as a dueling sword. Intended solely for thrusting, the smallsword typically had a stiff triangular blade, without sharpened edges, which in the hands of a skilful swordsman was a deadly fencing weapon.
+
+Although simple in overall design—the handguard consisting of a small cup, and finger and knuckle guards—many smallswords were magnificently decorated, reflecting the status of their owners.
+
+date c.1720 origin france weight 1¼ lb (0.54 kg)
+
+length 39¼ in (100 cm)
+
+sword with gold decoration The hilt of this sword is made from blued steel and encrusted with gold decoration of flowers, musical instruments, flags, and trophies of arms. The forte—the thickest part of the blade near the hilt—has been gilded, while the rest of the blade has been etched with a variety of designs.
+
+Double oval shell guards Gilded forte Decorated pommel Button Finger-guard branches Etched blade Knuckle guard Lobate quillon Wooden grip bound with silver wire full view full view European Smallswords
+
+Blued blade Wire knuckle guard date c.1756 origin england weight 1 lb (0.45 kg)
+
+length 39¼ in (99.5 cm)
+
+colichemarde-type sword The silver hilt of this sword is chiseled with musical trophies and the grip is bound with silver foil and wire. The hollow triangular section of the blade is of a colichemarde type where the forte is particularly wide. The strengthened forte was used for parrying an opponent’s sword, leaving the blade light at the point to increase speed and control.
+
+date c.1825 origin england weight 1 lb (0.45 kg)
+
+length 39 in (99 cm)
+
+sword with wire knuckle guard This sword’s distinguishing features are the urn-shaped pommel, a knuckle guard of cut-steel beads strung on wire, and a dished oval guard decorated with pierced triangles in three rows. The blade is blued for much of its length with gold decoration.
+
+date c.1770 origin france weight 15 oz (0.43 kg)
+
+length 15½ in (39.5 cm)
+
+sword with gilded grip The spherical pommel and gilded grip of this smallsword are complemented by a lobate quillon and two symmetrical shell guards. The forte of the blade is blued with gold embellishments.
+
+date c.1825 origin england weight 1 lb (0.45 kg)
+
+weight 39 in (99 cm)
+
+cased sword Boxed within a sword case, this British smallsword has an urn-shaped pommel, a faceted steel grip, and a knuckle guard of cut-steel beads on wire. Below the straight quillons is a dished oval guard. The blade is encased within a scabbard.
+
+Double oval shell guards Dished oval guard Blued and gilded forte Wide colichemarde forte Double oval shell guards Steel scabbard full view full view full view Wooden case with velvet lining Urn-shaped pommel Acorn button Urn-shaped pommel Straight quillons Spherical pommel
+
+battle of marignano French King François I fought a close battle against Swiss pikemen in September 1515 at Marignano, modern-day Melegnano near Milan. The King and his army of Landsknecht mercenaries are depicted here in a relief on the King’s tomb.
+
+european hunting swords during the 16th century specialist hunting swords came into widespread use among Europe’s aristocracy.
+
+The swords were short in length, and often had a slightly curved, single-edged blade. For the most part, hunting swords were used to finish off an animal wounded by a spear or shot, although in the case of boar swords they might act as the primary weapon. In many instances, hunting swords were elaborately decorated and often featured engraved scenes of the chase. During the 18th century the hanger type of hunting sword acted as a model for the ordinary soldier’s fighting sword.
+
+hunting hanger This magnificently decorated hanger may have belonged to Cosimo de Medici (1519–74). It was probably used in the hunting of large game such as wolves or bears.
+
+date c.1550 origin italy weight 3½ lb (1.68 kg)
+
+length 24 in (61 cm)
+
+hunting hanger An ornate hunting sword of the hanger type: short, curved, single-edged blade used by men on foot. Its blackened iron hilt is decorated with encrusted patterns in silver. The shell guard is formed as if of three interlaced ribbon ends, and the decoration at the pommel echoes this design.
+
+date c.1640 origin england weight 2 lb (0.86 kg)
+
+length 29½ in (75 cm)
+
+full view Shell with lion motif Cross-guard with acanthus leaf decoration Gilt pommel in the form of a lion’s head Medici coat of arms Decorated quillon Single-edged German blade Modern, velvet- covered grip Iron guard in the shape of ribbons Single-edged blade Mushroomlike pommel cap Curved quillon terminating in lion’s head early modern world the early modern world 3 118–119 weapon showcase: hunting trousse 1500—1775
+
+hunting hanger This hanger has a single-edged curved blade with a “false edge” (in fact, a sharpened edge) for the last 4 in (10 cm) on the upper, otherwise blunt side of the blade. The steel hilt has a cap pommel, a wooden grip and two shell guards, encrusted in silver dots within a trellis pattern.
+
+date c.1650 origin england (hilt)
+
+germany (blade)
+
+weight 1½ lb (0.73 kg)
+
+length 28½ in (72.5 cm)
+
+hunting hanger Manufactured in England, but using a German blade, the hilt of this sword is made from cow horn and features a cruciform hilt and “beak”-shaped pommel. The piqué decoration takes the form of an inlay of white metal studs (either silver or pewter)
+
+and stag horn and ebony roundels.
+
+date origin england (hilt)
+
+germany (blade)
+
+weight 2LB (0.86KG)
+
+length 31 in (78¾ cm)
+
+straight hanger This short hunting sword from the late 18th century is of a more decorative than functional design. The brass guard and pommel are complemented by a straight, finely engraved, single-edged blade.
+
+date c.1780 origin france weight 2LB (0.86KG)
+
+length 29½ in (75 cm)
+
+boar sword Boars were one of the more popular animals for the serious hunter, not least because they could fight back and had dangerous tusks. Boars were traditionally hunted with spears, but in the late 15th century a specialist sword came into use, featuring a stiff blade with a transverse bar.
+
+date c.1550 origin europe weight 4¼ lb (1.98 kg)
+
+length 51½ in (131 cm)
+
+Pommel Transverse bar Two-handed grip Heavy stiff blade Quillon with flattened mushroom- shaped terminal Decorated cap pommel Knuckle guard with central knob Double fullers on each face of the forte Pommel Single-edged, pointed blade Double-edged blade with hatchet point transverse bar A transverse piece of metal was inserted toward the end of the blade to prevent the charging boar from running up the blade and goring the hunter.
+
+The boar was a ferocious and fast-charging animal, and in its death throes would continue to force its way up a conventional spear or sword.
+
+Sharpened “false edge” Cross-guard with long, straight quillons Spear point Piqué-decorated cow horn hilt Bone grip, stained green Maker’s mark of Johannis Meigen See detail full view full view full view full view Cast-brass guard with recurved quillons and rococo design
+
+the early modern world hunting in the medieval and Renaissance period was seen both as a means of putting meat on the table and as training for war. Preparatory to setting out on the chase, the huntsman would assemble a trousse; a set of carving and eating tools contained within a sheath. This would typically contain miniature saws, small cleavers, and carving knives that were used for killing, skinning, jointing, serving, and finally eating the animal. The German hunting tradition produced many fine examples of hunting weapons; the sword and cleaver displayed here are a matched set that would have been used by a Saxon huntsman in the late 17th century.
+
+hunting sword Relatively long for a hunting sword, this weapon features an interesting guard that comprises straight quillons combined with S-shaped quillons, the lower one forming a simple knuckle guard. All four are decorated with leaf-shaped finials.
+
+date origin germany weight 12lb (2.2kg)
+
+length 35.2in (90cm)
+
+Initials refer to the owner John-George II Guard hunting cleaver While the sword delivered the coup de grace to the wounded animal, the cleaver was used to dismember the carcass.
+
+This sharp, heavy blade would have little trouble in cutting through animal joints, including those from larger beasts such as boar and deer.
+
+date c.1662 origin germany weight 2¼lb (1kg)
+
+length 18in (46cm)
+
+Stag horn grip decorated with brass studs trousse scabbard Made of leather to hold the thick- bladed cleaver, this scabbard also contains five meat-trimming utensils, including a carving knife (below).
+
+Knuckle guard hunting trousse 4 116–117 european hunting swords Straight quillon Leaf-shaped finial Cross-guard Maker’s mark carving knife
+
+Heavy single- edged blade Single-edged blade with narrow fuller extending most of its length full view full view sword scabbard and two small knives The sword’s leather scabbard has a pouch containing two small knives and the bodkin.
+
+The latter is a tool for making holes; it also has a file for sharpening knives.
+
+Forward-facing S-shaped quillon weapon showcase Fuller running down length of blade Sharp blade for trimming meat bodkin File for sharpening knives Maker’s mark
+
+4 66–67 japanese and chinese swords          3 124–125 weapon showcase: wakazashi sword          3 126–127 great warriors: samurai 1500—1775 the early modern world Shinogi (blade ridge)
+
+japanese sword blades are considered among the finest ever made. Their success was due to the combination of a hard cutting edge with a softer, resilient core and back. After a complex process creating a soft core enfolded in hard outer layers of steel, the swordsmith covered the blade in clay, leaving only a thin layer over what was to become the cutting edge.
+
+During quenching the edge cools rapidly, becoming very hard, while the back cools more slowly, and softens.
+
+The mountings for blades developed their own aesthetic finesse. For example, in the 15th century, the manufacture of tsuba (guards) became a separate profession, and these are now collectors’ items in their own right.
+
+japanese samurai swords Yokote—sharp, hard area of blade Kashira (pommel cap)
+
+Ridged decoration on scabbard Tsuka (handle)
+
+samurai ruler This print, entitled Shizu Peak Moon, shows the great Japanese warlord Toyotomi Hideyoshi (1536– 98) blowing his war trumpet at dawn before the famous victory over Shibata Katsuie at Shizugatake in 1583, which made him undisputed ruler of Japan. Hideyoshi has a tachi and a tanto tied into his belt or obi.
+
+Fushi (collar)
+
+date c.17th century origin japan weight 2 lb (0.97 kg)
+
+length 18½ in (46.8 cm)
+
+wakazashi Sword and scabbard A wakazashi is a sword with a blade 30–60 cm (12–24 in) long. Japanese blades are also differentiated by details of shape and by their hamon—the line left between the areas of the blade covered and uncovered during the tempering process. There are various patterns of hamon, some associated with specific swordsmiths.
+
+This blade was made by Seshu ju Nagatsuna.
+
+date 18th century origin japan weight 1½ lb (0.68 kg)
+
+length 27½ in (69.8 cm)
+
+sheathed katana This katana forms a daisho in combination with the matching wakazashi above. In the Edo period, the longer sword was exclusively worn by samurai, whereas merchants and townsmen were allowed to carry a wakazashi. In combat a samurai typically held the katana in a two-handed grip, for which the tsuka (handle) allows plenty of room.
+
+Tsuba (guard)
+
+Fuchi (ferrule)
+
+Saya (scabbard)
+
+Hamon (temper line)
+
+Silk braid binding Menuki (hilt ornament)
+
+Habaki (collar)
+
+date 18th century origin japan weight 1¼ lb (0.55 kg)
+
+length 19¾ in (50 cm)
+
+wakazashi from a daisho The custom for a samurai to wear two swords, a long katana and a shorter wakazashi, was established in the 16th century. In the Edo period (1603–1876) samurai sometimes wore a wakazashi and a katana with matching mountings on hilts and scabbards, a combination known as a daisho. This wakazashi forms a daisho with the katana below.
+
+Sageo (cord) for tying scabbard into belt Shinogi (blade ridge)
+
+Boshi (tempered point)
+
+Hamon (temper line)
+
+Mune (back of blade)
+
+Wooden hilt covered with same (rayskin )
+
+4 66–67 japanese and chinese swords           3 124–125 weapon showcase: wakazashi sword          3 126–127 great warriors: samurai 1500—1775 Japanese Samurai swords the early modern world date 20th century origin japan weight 1 lb (0.42 kg)
+
+length 20 in (c.50 cm)
+
+ornate wakazashi This is a lavishly mounted reproduction wakazashi. The real thing would almost certainly have been worn on ceremonial occasions as a display of status. The sides of the scabbard carry the katagana (knife) and kogai (hair- arranging implement) associated with the wakazashi.
+
+date late 18th century origin japan weight 1½ lb (0.68 kg)
+
+length 28¼ in (71.75 cm)
+
+tachi in gold scabbard The blade of a tachi was traditionally over 24 in (60 cm) in length, although shorter than the nodachi field sword, which was worn slung over a samurai’s shoulder. Tachi hilts were fitted with a traditionally shaped kashira that wrapped around the end.
+
+date 17th century origin japan weight 1 lb (0.42 kg)
+
+length 19 in (48.5 cm)
+
+wakazashi and scabbard The wakazashi was a samurai’s constant companion, worn from waking until sleeping, and even kept nearby during the night. As well as serving as an additional fighting sword to the katana and as, in effect, a side- arm, it was often the weapon used by samurai to perform ritual suicide (seppuku).
+
+Mekugi joins hilt to tang of blade Sageo (cord)
+
+Pocket for katagana Ornate lacquered scabbard Kashira (pommel)
+
+Rayskin Menuki (hilt ornament)
+
+Silk braid
+
+date origin japan weight 1½ lb (0.72 kg)
+
+length 27 in (68.9 cm)
+
+## GUNTO IN SCABBARD
+
+During the period of militarism in the 1930s, the Japanese adopted a style of sword for army officers based on the traditional tachi. Most were fitted with a mass-produced blade, but the mount is capable of being fitted to a traditional blade.
+
+Hole in guard for knife to pass through Habaki (collar)
+
+Kogatana (knife)
+
+in pocket on side of scabbard Sageo (cord)
+
+Gold-lacquered saya (scabbard)
+
+Semegane (scabbard ring)
+
+Sayajira (scabbard tip)
+
+Kissaki (point)
+
+Black lacquered scabbard Shirasaya (storage scabbard)
+
+the hilt and guard of this Japanese short sword, or wakazashi, are of a style popular in the Edo period (1603–1876). It might have been worn by a samurai when in civilian dress, as an accompaniment to his long sword (katana), or on its own by rich merchants or townsmen. When indoors, a samurai would leave the long sword on a rack by the door, but would still wear the wakazashi. The mounting (hilt and guard) was a separate item to the blade. A well-off individual might have several mountings for a single blade, choosing the most suitable style for a given occasion. A lavish mounting was a visible symbol of the wearer’s wealth.
+
+tsuka The hilt, or tsuka, was made of magnolia wood. It was grooved on the inside to fit exactly the tapering shape of the tang.
+
+The rayskin covering was valuable, hence perhaps the lozenge openings in the silk braid that allow it to be seen. The menuki ornaments have the practical function of helping to fill the hand gripping the sword.
+
+Fuchi (collar)
+
+sunagi When it was not fitted on a blade, the mounting of the sword would be assembled on a wooden copy of a blade and tang called a sunagi. Separated from its mounting, the blade was stored in a wooden scabbard with a plain wood grip called a shirasaya.
+
+date 17th century origin japan blade weight 1 lb (0.49 kg)
+
+blade length 21 in (53.4 cm)
+
+Seppa (spacer)
+
+Tsuba (handguard)
+
+Rayskin tsuba and seppa The metal guard, or tsuba, had a central hole for the tang, flanked by holes for the kogatana and kogai.
+
+Copper spacers (seppa) fitted on each side of the guard. Tsuba were decorated with gold or silver inlay.
+
+the early modern world Wakazashi sword Munemachi (back notch)
+
+mekugi The mekugi was a small peg that passed through a hole in the hilt and a corresponding hole in the tang of the blade. It thus fixed the hilt to the tang.
+
+The mekugi was usually made of bamboo, but occasionally of horn or ivory.
+
+blade The blade was the heart of the sword. Making its hard, sharp edge and softer, resilient core and back was a complex, skilled operation.
+
+The tang was often marked with the swordsmith’s signature; this blade is signed by Tadahiro of Hizen province on Kyushu island.
+
+Hole for mekugi habaki The habaki, a part of the blade rather than the mounting, slid over the tang and butted against the blade notches.
+
+Menuki (hilt ornament)
+
+4 66 – 67 chinese and japanese swords          4 120 –123 japanese samurai swords          3 126 –127 great warriors: samurai Hole for mekugi Hamachi (edge notch)
+
+Nakago (tang)
+
+Kashira (pommel)
+
+Silk braid Hole for kogaana Hole for kogai Hole for tang
+
+Sageo (cord for tying scabbard to belt)
+
+Ear cleaner Kogatana (small blade)
+
+Sunagi (wooden copy of blade)
+
+kogatana The knife often carried in a pocket on the wakazashi scabbard was known either as a kogatana, after its blade, or as a kozuka, after its hilt. It was an all-purpose implement, more likely to be used as a paper knife than as a weapon.
+
+saya Like the hilt, the saya (scabbard) was made of magnolia wood. It was lacquered to protect it from the weather. The sageo, a length of strong braid, attached the scabbard to the owner’s belt. Pockets on opposite faces of the scabbard held a small knife (kogatana) and an implement known as a kogai.
+
+Shinogi (blade ridge)
+
+Yakiba (hardened edge)
+
+Tsuka (hilt)
+
+Tsuba (handguard)
+
+weapon showcase Kozuka (decorated hilt)
+
+kogai The kogai, often slipped into a pocket on the wakazashi scabbard, was primarily an implement employed in arranging a samurai’s hair. A knob on the end of the handle was used to clean out earwax.
+
+Kissaki (point)
+
+Kogai (hair implement)
+
+Hamon (temper line)
+
+Handle decoration matches kozuka Saya (scabbard)
+
+full view Thin end inserted into hair
+
+the early modern world originally fighting in the service of the emperor or nobles, by the 12th century, the samurai had emerged as a warrior elite, dominating Japanese society. The shogunate, established in 1185, made the samurai rulers of Japan, with the emperor as a figurehead. Centuries of civil war took place between samurai clans and daimyo (warlords) until pacification under the Tokugawa shogunate in the 1600s reduced the clans to redundancy—a military elite with no wars to fight.
+
+evolving warriors The early samurai were, above all, archers. It was not until the 13th century that the sword gained ascendancy over the bow as a samurai weapon. Early samurai warfare was often individualistic and ritualized. When battle lines were drawn, leading warriors would challenge prominent enemies to combat with long, florid speeches, and then gallop forward shooting arrows. It was warfare largely conditioned by the fact that, with the exception of two brief Mongol landings in 1274 and 1281, the medieval samurai fought only one another. Along with ritualized combat went ritualized death, as the tradition developed of defeated samurai committing seppuku (ritual suicide)
+
+by hara-kiri (the belly-cut). The concept of an honorable death was given higher value than victory in battle.
+
+In the Sengoku period, from the 1460s to 1615, samurai warfare became more practical, organized, and varied. As constant warfare raged between the daimyo, the samurai fought in large armies on foot or in the saddle, supported by disciplined bodies of infantry, the ashigaru, drawn from the common people. The samurai completely abandoned the bow, which became an ashigaru weapon, relying on their swords and long spears.
+
+The long sword (katana)
+
+Minamoto Yorimasa is credited with establishing the pattern for samurai ritual suicide. He was a veteran in his 70s when, in 1180, he led the Minamoto clan against the Taira at the outset of the Gempei Wars. Defeated at the battle of Uji, Yorimasa retreated to a temple, where he wrote an elegant poem on the back of a fan before cutting open his abdomen with a dagger.
+
+Minamoto Yorimasa Minamoto Yorimasa in formal  dress Doomed archer Minamoto Yoshihira flourishes his bow, the prime weapon of the early samurai.
+
+Yoshihira was captured and executed by the rival Taira clan after being on the losing side in the Heiji Incident in 1160.
+
+samurai
+
+elite forces The samurai completely abandoned the bow, which became an ashigaru weapon, relying instead on their swords and long spears.
+
+Their battlefield dominance was challenged by the introduction of firearms—the great general Oda Nobunaga equipped his ashigaru with arquebuses to devastating effect at the battle of Nagashino in 1575. But the samurai remained elite forces and their professionalization in the Sengoku period did not preclude personal duels and legendary feats of individual swordplay. Many of these were attributed to ronin, wandering masterless samurai whose instruction manual The Book of Five Rings helped pass on the mystique of samurai swordsmanship to later generations.
+
+After the definitive victory of the Tokugawa clan established a durable peace, the samurai remained a privileged class with the exclusive right to bear arms. It was at this time that the principles of samurai behavior were formalized into the chivalric bushido code, stressing loyalty as the supreme virtue and sacrificial death as the highest fulfilment of life. The samurai class was formally abolished in 1876 after the Meiji Restoration.
+
+samurai armour This samurai armour is in the o-yoroi (great armour) style that predominated from the 12th to the 14th century. Japanese armour is always designed to impress as well as protect.
+
+Sode (shoulder guard)
+
+Kuwagata (horned crest)
+
+Fukigayeshi (side guards)
+
+Mempo (ornamental face mask)
+
+clan battle Armies of the Minamoto and Taira clans clash with swords in one of the battles of the Gempei Wars (1180–85), the conflict that established the Minamoto shogunate.
+
+Style of boots reflected samurai’s rank late samurai Spear tools of combat wakazashi dagger and sheath it is not the way of the warrior to be shamed and avoid death...
+
+i will hold off the forces of the entire country here and die a resplendent death.” “ samurai torii mototada, at the siege of fushimi castle, 1600 great warriors Laquered iron scales laced with silk and leather Suneate (shin guards)
+
+tachi sword and scabbard
+
+early modern world 3 134–135 asian daggers          3 190–191 indian swords          3 192–193 indian and nepalese daggers 1500—1775 the early modern world Dragon’s head pommel Carved wooden grip
+
+## FULL VIEW
+
+talwar The talwar, of Persian origin, was the quintessential sword of Mughal India.
+
+Many were works of outstanding craftsmanship. This talwar has a more shallowly curved blade than those produced later in the Mughal period.
+
+date early 17th century origin	 mughal india weight	 2¼ lb (1.04 kg)
+
+length	 37¾ in (95.7 cm)
+
+khanda The straight khanda is the traditional sword of Hindu India. This example, made under the influence of the Mughal Empire, has a hilt that is of Indo-Muslim design. Its decoration includes the repeated image of an eagle.
+
+date 1632–33 origin	 mughal india weight	 2¾ lb (1.25 kg)
+
+length	 35 in (89 cm)
+
+shamshir The shamshir is the sword known to Europeans as the scimitar. It was introduced to India in the 16th century from Persia. This example is typical of Persian production, with its deeply curved, single-edged, tapering blade.
+
+In combat, it was superbly suited to slashing, but less effective for thrusting.
+
+date early 19th century origin	 lucknow, india weight	 2 lb (0.86 kg)
+
+length	 36½ in (93 cm)
+
+## FULL VIEW
+
+kastane The kastane, the characteristic sword of Sri Lanka, had a short, curved blade, usually imported, and a hilt carved with fantastical decorations. Its value as a work of craftsmanship equaled its effectiveness as a weapon.
+
+The example shown here dates from the time of the Portuguese occupation of Sri Lanka.
+
+date hilt: 17th century origin	 sri lanka weight	 1¼ lb (0.55 kg)
+
+length	 36¼ in (92 cm)
+
+Pommel disc Monster head decoration Soft iron blade Brass-wire inlay decoration Iron quillon Knuckle guard Broad, straight blade Ivory hilt with bulbous pommel Langet Ivory grip Short, straight quillon Deeply curved blade Langet riveted to blade strengthens attachment to hilt indian and sri lankan swords the establishment of the Mughal Empire in northern India in the 16th century brought with it the fine curved swords found through most of the Islamic world. These talwars and shamshirs were superb cutting instruments that achieved near-perfection of form and function.
+
+Although many Hindu princes adopted the talwar, the traditional straight- bladed Hindu khanda continued to be made. By the 18th century, many sword blades were being imported from Europe, where manufacturers produced to Indian designs.
+
+Double-edged blade Indo-Muslim hilt design Curved, tapered steel blade Quillons end in petaled domes
+
+Hand guard padded with red velvet Rounded knop with brass cap talwar This sword was in use in Mysore, southern India, at the time of the wars between the British East India Company and Mysore’s ruler, Tipu Sultan. The deeply curved blade is in a traditional Indian style.
+
+date late 18th century origin	 mysore, india weight	 3 lb (1.38 kg)
+
+length	 34¾ in (88.3 cm)
+
+talwar Probably made in Lahore, in what is now Pakistan, this talwar with a Persian blade bears a bilingual inscription in Hindi and Urdu inside the knucklebow. The hilt is decorated with koftgari—steel inlaid with gold—which was a form of ornamentation found on many Indian swords.
+
+date 1801–02 origin	 lahore, india weight	 2 lb (0.91 kg)
+
+length	 23½ in (59.5 cm)
+
+ayudha katti Indigenous to Mysore, Kurg, and the Malabar coast, the ayudha katti developed from an implement used to cut through dense undergrowth. Its blade, like that of the Turkish yataghan and northern Indian sosun pattah, is related to the Ancient Greek kopis blade.
+
+date 18th century origin	 kurg, india weight	 2½ lb (1.15 kg)
+
+length	 23½ in (59.5 cm)
+
+Flat pommel with bent finial Hilt made of horn Ribbed iron grip Iron guard welded to langets Blade widens toward the tip Elliptical pommel plate Broad, forward- curving blade Knucklebow ends in an animal head finial Short quillon with large knop Wooden scabbard covered with red velvet malibar coaST sword This straight, double-edged sword from southern India has a ribbed iron grip, and a U-shaped guard and pommel- plate. The blade broadens where it is riveted to langets on each face.
+
+date 18th century origin	 malibar, india weight	 1½ lb (0.65 kg)
+
+length	 36¾ in (83 cm)
+
+early modern world 4 68–69 european daggers          3 194–195 european and american bayonets          3 284–287 bayonets and knives 1914–1945 1500—1775 the early modern world european daggers the dagger’s prime role as a weapon of self-defense continued into the 16th and 17th centuries, although some new variants evolved, including the left-hand, or maingauche dagger. As its name suggests, this dagger was held in the left hand and complemented a sword or rapier held in the right. The left-hand dagger parried thrusts and cuts from the opponent’s blade, and acted as an offensive weapon in its own right. The bayonet, another modification of the dagger, continues in use to this day.
+
+date c.1650 origin naples, italy length 22 in (56 cm)
+
+italian maingauche During the 17th century, the left-hand dagger fell out of fashion, except in Spain and southern Italy where it developed into the highly specialized weapon depicted here, complete with wide knuckle guard and quillons.
+
+Pierced triangular knuckle guard with rompepuntas rim Sharpened edge only on last third of blade Steel tang without grip Trap for opponent’s blade Double-sided blade Forward-facing quillon with shell- shaped finial Diamond- section blade Restored wooden grip date late 16th century origin england length 15¼ in (38.7 cm)
+
+quillon dagger This English left-hand dagger features a scallop-shell motif that is expressed in the iron pommel, shell guard, and quillon finials. A dagger such as this was used for parrying an opponent’s blade and also for close combat.
+
+date c.1600 origin europe length 16½ in (42 cm)
+
+Quillon DAGGER The forward-facing quillons of a left- hand dagger were intended to hold an opponent’s blade so that it could be deflected away safely.
+
+## FULL VIEW
+
+Ricasso with two fullers Small shell guard Forward- facing quillon Decorated pommel echoes style of quillons Extra wide, straight quillon to defend against cutting strokes Ricasso Shell-shaped pommel
+
+date c.1603 origin scotland length 14 in (35.4 cm)
+
+dudgeon dagger A descendent of the medieval ballock dagger, the dudgeon dagger became increasingly Scottish in character toward the end of the 16th century, defined by its wooden handle and the panels of foliate decoration on the blade. The main scabbard often included a smaller scabbard for holding a by-knife.
+
+date early 18th century origin scotland length 12–18 in (30–45 cm)
+
+## HIGHLAND DIRK
+
+In the 16th and 17th centuries, Scottish Highlanders armed themselves with long, unadorned daggers called dirks. Like the dudgeon, the dirk evolved from the ballock knife. Toward the end of the 18th century, the dirk became increasingly ceremonial in form. It was often decorated with silver pommel caps and ferrules.
+
+date late 16th century origin italy length 11¾ in (30 cm)
+
+stiletto Typically known as “the assassin’s weapon,” the stiletto was popular in Italy during the 16th and 17th centuries.
+
+Being long and thin, it was easy to conceal, and its triangular or four-sided blade could penetrate easily and deeply into the human body. The narrow point could even pierce mail and pass through gaps in plate armor.
+
+Bog-oak hilt with fluted octagonal grip Blade has three etched foliate panels Small scabbard for by-knife (missing)
+
+Double-edged blade with medial ridge Wooden hilt with strap-interlace work on grip Ricasso Diamond-section, double edged blade Forward-facing quillon Chiseled steel hilt Cross-guard with truncated quillons date late 16th century origin europe length 19 in (48.1 cm)
+
+quillon dagger The forward-facing quillons of this weapon are typical of a left-handed dagger. Other features include a flat, vat-shaped pommel with vertical fullers, a wooden grip bound with iron wire, and a ring jutting out from the cross-guard to protect the hand.
+
+Leather-covered scabbard Main scabbard Steel pommel Iron-wire covered grip Projecting ring guards hand Four-sided blade Narrow tip
+
+early modern world European Daggers Straight, unadorned quillon Mother-of-peal disc 4 68–69 european daggers          3 194–195 european and american bayonets          3 284–285 bayonets and knives 1914–1945 1500—1775 the early modern world Button terminal to decorated pommel Fluted steel pommel Wire-bound grip Wire-bound grip Forward- facing quillon Ring guard Quillon dagger This German dagger has straight quillons and a serrated blade with pierced fullers. It was used for parrying an opponent’s blade.
+
+date c.1600 origin germany weight 1½lb (0.75kg)
+
+length 19½ in (50 cm)
+
+sword-breaker One of the more extreme left-hand daggers was the so-called sword-breaker. The comb- shaped steel blade was designed to trap an opponent’s sword, and with a flick of the wrist pull it from his grasp or even break the blade.
+
+date c.1660 origin italy weight 1¾ lb (0.81 kg)
+
+length 20 in (50.8 cm)
+
+presentation dagger This extensively decorated dress dagger was presented to Henri IV, King of France, by the city of Paris to commemorate his marriage to Marie de Medici. The entire dagger is lavishly covered in oval discs of mother-of-pearl, with gold inlay.
+
+date 1598–1600 origin france weight 1¾ lb (0.81 kg)
+
+length 20 in (50.8 cm)
+
+full view full view full view Barbed head to trap sword blade Elaborately decorated ricasso Pommel Ring guard Blade has serrated edge Elaborately decorated ricasso Ring guard Blade edge is unadorned Ornate grip Gold inlay
+
+Pommel with button terminal Forward-facing quillon Catch secures blade in closed position plug bayonet By inserting a knife handle into the muzzle of the gun, the infantryman was able to act as a pikeman against hostile cavalry after firing his musket. Plug bayonets did, of course, prevent the musket from being reloaded when fixed, and were later replaced by the socket bayonet.
+
+date c.1665–85 origin europe weight ¾ lb (0.37 kg)
+
+length 19 in (48.2 cm)
+
+Straight quillons quillon dagger This weapon follows the conventions of a left- hand dagger: medium-length blade, wide and forward-facing quillons, and a ring guard to protect the hand.
+
+date c.1600 origin germany weight ¾ lb (0.35 kg)
+
+length 15¼ in (39 cm)
+
+scabbard to plug bayonet This wooden scabbard is covered with parchment and tooled with herringbone and checkered ornamentation. On the front is a pocket for a small knife, and at the back are two lugs for suspension.
+
+date c.1665–85 origin europe weight 1¼ oz (35 g)
+
+length 13 in (33.3 cm)
+
+Ring guard Tapering horn grip to fit in musket muzzle Blade etched with foliage pattern Three-sided blade with numbered scale for measurement of gun bore gunner’s stiletto This specialist version of the stiletto dagger was used by artillerymen for a variety of battlefield tasks. These included measuring the bore of the gun and the size of the shot, tearing open cloth or paper cartridges, piercing the cartridge through the touch-hole, and cleaning out the touch-hole after firing.
+
+date 18th century origin italy weight ¼ lb (0.155 kg)
+
+length 13½ in (34 cm)
+
+Straight quillon Patterned parchment covering Decorated grip Pocket for small knife Spring-loaded blade Wire-bound grip Ridged blade Stud to release spring-loaded blades
+
+the early modern world
+
+## ASIAN
+
+daggers from the 16th to the early 18th centuries, when most of India was ruled by the Mughal Empire, the daggers of the Indian subcontinent were notable for their high-quality metalwork, ornamentation, and distinctive forms. Some daggers, such as the kard, were Islamic imports; others, including the katar, had specifically Indian roots. Daggers were worn by Indian princes and nobles for self-defense, for hunting, and for display. In combat, they were essential close- quarters weapons, capable of piercing the mail armor worn by Indian warriors.
+
+4 130–133 european daggers          3 192–193 indian and nepalese daggers          3 284–285 bayonets and knives 1914–1945 1500—1775 Gold koftgari decoration Slender cross-grips indian kard Of Persian origin, the straight- bladed, single-edged kard was in use across much of the Islamic world by the 18th century, from Ottoman Turkey to Mughal India. It was mostly used as a stabbing weapon.
+
+This example bears the name of its maker, Mohammed Baqir.
+
+date 1710–11 origin india weight ¾ lb (0.34 kg)
+
+length 15¼ in (38.5 cm)
+
+indian katar To use this north Indian dagger, the warrior grasped the cross- grips, making a fist, so that the sidebars of the hilt lay on either side of his hand and forearm.
+
+With the blade horizontal, he then stabbed with a punching motion.
+
+The katar’s form changed little over hundreds of years; this example is from the 19th century.
+
+date early 19th century origin india weight 1¼ lb (0.57 kg)
+
+length 16¾ in (42.1 cm)
+
+Dual cross-grip H-shaped hilt Gold- threaded binding Watered steel blade Ivory grip with beaked pommel Molded finial Gilt brass chape Velvet-covered scabbard Sunken panel with chiseled figures Reinforced blade point Gilded chape Velvet-covered wood scabbard indian katar Decorated with amusingly naive animal figures, this katar and its scabbard constitute a luxury item designed to show off its owner’s wealth. Although ornate, it was nevertheless an effective weapon in close combat. The double-edged blade could penetrate mail armor with a punching stab.
+
+date 1759–60 origin india weight 1 lb (0.5 kg)
+
+length 17½ in (44.6 cm)
+
+Hilt extension with seated tiger
+
+full view Narrow octagonal grip Recurved blade Silver mount Clipped point Silver filigree band indian bich’hwa This bich’hwa has a cast-brass hilt decorated with a fanciful monster’s head. The knucklebow is designed so that the beast appears to be eating its own tail.
+
+The narrow, double-curved blade has a low medial ridge on both sides. The crudely cut marks on the quillon block may be letters.
+
+date 18th century origin india weight ½ lb (0.24 kg)
+
+length 11¾ in (29.6 cm)
+
+Tapering, single-edged  blade Carved horn handle Inlaid panel on back of blade Loop-shaped hilt Rosette on knuckle guard Iron grip with gold and silver inlay Chape decorated with image of parrot in foliage Thickened, mail-piercing blade tip Scabbard covering of mauve velvet Grip terminates with monster- head decoration Brass knucklebow Quillon block Reinforced point Sheet-silver scabbard covering Scabbard bound with layers of paper and red velvet Medial ridge on blade Sri Lankan piha kaetta The broad-bladed, single-edged knife known as a piha kaetta is native to the island of Sri Lanka. Many were produced by the royal workshops. With lavish use of silver on both knife and scabbard, this fine example probably belonged to a courtier, noble, or high-ranking official.
+
+date 18th century origin sri lanka weight ½ lb (0.25 kg)
+
+length 14¼ in (36.5 cm)
+
+bhutanese dagger This straight-bladed dagger originated from the remote Himalayan kingdom of Bhutan, which has borders with Nepal and India. The hilt is chiseled with various Chinese symbols of good luck on a background of tendrils. The wooden scabbard has a border and chape of gilded iron.
+
+date 18th century origin bhutan weight ¾ lb (0.35 kg)
+
+length 17 in (43.4 cm)
+
+indian bich’hwa Named after an Indian word for scorpion, and derived from the shape of an animal horn, the bich’hwa was a small but deadly dagger. In this example, the iron hilt, decorated in silver koftgari (form), is in the form of a flattened loop, attached to the blade by two rivets. The recurved blade is reinforced at the point to increase its penetration.
+
+date 18th century origin india weight ½ lb (0.21 kg)
+
+length 10¾ in (27.2 cm)
+
+Silver bands
+
+early modern world 4 72–73 european staff weapons          4 74–75 asian staff weapons          3 140–141 european two-handed staff weapons 1500—1775 the early modern world full view european one-handed staff weapons single-handed staff weapons were primarily used by horsemen; their role was to fracture plate armor or do internal damage to an opponent. These were simple, brutal weapons, although the pick of the war hammer was useful in penetrating gaps in armor. Despite their clublike nature, many were carried by men of high birth and, as a result, were finely crafted with elaborate decoration.
+
+Pick or spike Weave-pattern mace head Langet to protect shaft date 16th century origin	 germany weight	 11¾ lb (5.4 kg)
+
+length	 21.5 in (54.6 cm)
+
+horseman’s hammer The small, four-sided hammer is counterbalanced by a longer pick or spike that is also four-sided.
+
+The square-shaped socket extends into four langets that run down the sides of the wooden shaft. This war hammer would have been part of the armament of a cavalryman.
+
+Four-sided hammer Steel shaft Decorated steel shaft Socket with discending langets Shaped steel flange
+
+date 16th century origin	 europe weight	 3½ lb (1.56 kg)
+
+length	 24¾ in (63 cm)
+
+mace with flanged head From the late 15th century onward, most maces were made entirely from steel, with the head constructed from a number of flanges—seven was a common number—shaped with complex inundations and projections. Each flange would be brazed around a central tubular core.
+
+Shaft with black grip Flange brazed to central core Shaft bearing foliate decoration Steel pick Truncated, four-sided hammer mace with conical finial Made from steel, this mace has a conical finial fitted above seven flanges, each of which is drawn to a concave-sided point.
+
+The shaft is decorated with scrolling vine foliage in shallow relief. The flanged mace was the most common type of mace in use during the 16th century.
+
+date 16th century origin	 europe weight	 1.56kg (3½lb)
+
+length	 60cm (23in)
+
+decorated mace This flanged mace is decorated with a foliate pattern along the length of the shaft and is topped by an upper finial (or terminal)
+
+in the shape of an acorn. The hole visible halfway along the steel shaft is for a wrist loop, especially important for mounted soldiers, so that if the mace fell out of the hand, it could easily be retrieved.
+
+date 16th century origin	 europe weight	 3½ lb (1.56 kg)
+
+length	 25 in (63 cm)
+
+horseman’s hammer Popular with cavalrymen for smashing armor plate, war hammers were also used by those fighting on foot in tournaments. During the 16th century, the pick was increased in size and the hammer correspondingly reduced, suggesting greater primacy for the pick in combat.
+
+date 16th century origin	 europe weight	 1¾ lb (0.82 kg)
+
+length	 8½ in (21.5 cm)
+
+date 15th century origin	 egypt weight	 3½ lb (1.56 kg)
+
+length	 c.23½ in (60 cm)
+
+mace with interlace head This unusual mace from Egypt features an interlace design on a bulbous head and is signed, in gold, by its maker.
+
+Maces increasingly became ceremonial objects in the 16th and 17th centuries—the British House of Commons continues to use a mace as a symbol of its authority.
+
+Wrist-loop hole Steel finial Conical finial
+
+battle of pavia The Habsburg defeat of France at the Battle of Pavia in 1525, is commemorated here in this contemporary tapestry. It was a battle in which the Imperial pikemen and arquebusiers of the Italian army proved effective against the advance of the armored French knights.
+
+european two-handed staff weapons staff weapons, especially when combined with bows, had proved highly effective against cavalry during the Middle Ages.
+
+In the 16th century, they continued to be the foot soldier’s most effective weapon, although the bow was superseded by the musket.
+
+Swiss mercenaries popularized the halberd, which, in the hands of a strong man, was capable of smashing through plate armor: as was the poleax, the weapon favored by armored knights when fighting on foot. By the early 17th century, these weapons were being replaced by the pike, and used in a ceremonial capacity.
+
+early modern world the early modern world 4 72–73 european staff weapons          4 74–75 asian staff weapons          4 136–137 european one-handed staff weapons 1500—1775 Axhead date 16th century origin england length	 19¼ in (49 cm)
+
+## BILL
+
+Employed throughout Europe, the bill was especially popular in England, where it continued to be used well into the 17th century. The various spikes and flukes made it an effective parrying weapon. This example has two triangular spikes and a short triangular fluke.
+
+date origin germany length	 27½ in (70 cm)
+
+## DECORATED GLAIVE
+
+The glaive was an infantry weapon with a large blade shaped like a kitchen knife.
+
+This is a particularly splendid example of a skilfully etched blade showing the firesteels of Burgundy surmounted by a crown and date. The intertwined double “M” represents the names Maximilian and Maria.
+
+date 16th century origin germany length	 11 in (28 cm)
+
+POLeAX Popular in the 15th and 16th centuries with knights fighting on foot, the poleax comprised an axhead balanced by a hammer or fluke that was topped by a steel spike—all useful elements in penetrating plate armor. The weapon’s name derives from the old English name for head, “poll.” Hammer or fluke Cutting edge Motto Deus providebit (“God will provide”)
+
+Steel spike Langet protecting wooden shaft Edged blade Four-sided socket Fluke or spur Tapering socket Hooked fluke
+
+date 17th century origin europe length	 23½ in (60 cm)
+
+## MORNING STAR
+
+A peasant weapon common in Europe, the morning star consists of a head of wood or iron studded spikes. It was cheap and easy to manufacture, and useful against opponents without armor. Also known as a “holy water sprinkler,” most such weapons have a more bulbous head than this example.
+
+date c.1570–80 origin italy length	 22 in (56 cm)
+
+## HALBERD
+
+Originating in Switzerland, the halberd was used as an infantry weapon in much of Europe by the 16th century.
+
+A cleaverlike blade is backed by a lug or fluke. This Italian halberd is missing its langets and is distinguished by a particularly long and narrow spike.
+
+date c.16th century origin russia length	 30¾ in (78 cm)
+
+BaRDICHE A weapon popular in Eastern Europe, the bardiche has a distinctive enlarged blade attached to the shaft through a socket, as well as at the bottom of the blade. This weapon has an elaborately fashioned, curved blade that suggests a ceremonial role.
+
+date c.1580–1620 origin germany weight 22½ in (57 cm)
+
+## CEREMONIAL HALBERD
+
+This finely crafted and elaborately decorated halberd —carried by the personal guard of the Elector of Saxony—is indicative of the movement of staff weapons away from the battlefield to the court, where they were used in a ceremonial capacity.
+
+Crescent- shaped axe blade Extended spike Wooden shaft Main spike Decorated blade Spike with medial ridge Axhead socket Hooked fluke Studded iron spikes Decorated with the arms of Saxony Attachment to blade One of four langets
+
+early modern world 4 72–73 european staff weapons          4 74–75 asian staff weapons          4 136–137 european one-handed staff weapons          3 196–197 indian staff weapons 1500—1775 the early modern world date 18th century origin rajasthan, india weight 5½ lb (2.55 kg)
+
+length 33¼ in (84.2 cm)
+
+flanged mace This mace, or gorz, has a knuckle guard in the “Hindu basket” style, as often seen on khanda swords. The eight spiral flanges on the head are sharpened to a cutting edge. The flanges focused the impact of a blow from this heavy weapon, making it effective even against armor.
+
+date 18th century origin northern india weight ½ lb (0.22 kg)
+
+length 13 in (32.8 cm)
+
+child’s mace With less than a tenth of the weight of a full-sized weapon and around a third of the length, this miniature mace was designed for use by a child.
+
+It may have been employed for early military training. The head has eight rounded flanges, and is topped by a small, ribbed knop.
+
+date 18th century origin sind, india weight 2¾ lb (1.29 kg)
+
+length 28 in (71.3 cm)
+
+tabar The saddle ax, or tabar, was a standard weapon of Indian armies. This example is from Sind, in what is now Pakistan. The curved cutting edge concentrated the weight of a blow at a narrow point of impact. Unscrewing the knop at the base of the weapon revealed a slim knife, 21¼ in (54 cm) long, concealed inside the hollow shaft.
+
+date early 18th century origin delhi, india weight 5½ lb (2.5 kg)
+
+length 33½ in (85 cm)
+
+spiked mace This mace resembles a more refined version of the “morning star” maces of 16th-century Europe.
+
+The grip of the spikes prevented curved armor from deflecting blows. With its fine decoration, this weapon was designed as much to show its owner’s wealth and status as it was for combat.
+
+Tubular iron shaft Iron shaft Iron shaft Rounded flange ends in bird- head design Sword-like “basket” hilt Knop is unscrewed to remove concealed knife from shaft Hand guard Rattan grip indian and sri lankan Staff weapons until the 17th century, the development of staff weapons in the Indian subcontinent was broadly similar to their evolution in Europe, although local Hindu traditions and the influence of Muslim invaders guaranteed that there were notable differences in design and decoration. Despite the adoption of Western-style firearms by Indian rulers, maces and axes remained in active use with Indian armies long after they had become obsolete in Europe, largely because Indian warriors continued to wear armor.
+
+Shaft and blade have sheet-silver decoration Dish pommel with fluted knop
+
+Shaft and head are decorated with koftgari—steel inlaid with gold Plain knop Wooden shaft Iron spike Gold and silver inlay Sharp quoit Hook Lacquered shaft date 18th century origin sri lanka weight 3¾ lb (1.7 kg)
+
+length 36½ in (93 cm)
+
+elephant goad This elaborately decorated goad, or ankus, was used to train and control elephants by applying pressure to parts of their skin with the hook or spike. Elephants were commonly employed on Indian battlefields from ancient times up to the 19th century, so goads were often found in armories. In the heat of battle, they would presumably also have served as weapons.
+
+date 18th century origin gujurat, india weight 2¼ lb (1.05 kg)
+
+length shaft: 18½ in (46.8 cm)
+
+flail with quoits This flail, or cumberjung, was made in Gujarat when the area was under the rule of the Hindu Maratha Empire. The shaft was manipulated to send the sharp-edged quoits scything through the air. It was a fearsome weapon in close combat, but considerable skill was required to use it effectively.
+
+Sharpened spiral flanges full view Thread-covered hemisphere Steel head set with spikes Scroll-like design Washer with serrated edge Square poll Curved cutting edge Brass chain
+
+European crossbows during the course of the 16th century crossbows disappeared from European battlefields, supplanted by gunpowder weapons, but they continued to be widely employed for hunting and for shooting competitions. The use of spring steel for the lath became almost universal; steel bows were easier to make than composite bows and achieved impressive consistency. Built-in spanning levers allowed archers to dispense with the need to carry a cranequin or goatsfoot lever, while sights were added and the design of triggers much improved. Crossbows shooting stones or bullets instead of a bolt became popular for hunting birds and small game.
+
+full view Carving on tiller Wooden butt Fore sight german stone bow This stone-shooting bow has both a lath and tiller made of steel. Its butt shows the influence of firearms on crossbow design. A built-in spanning lever was raised to engage the bowstring and then pulled back manually to bend the bow.
+
+date 18th century origin germany weight 4kg (9lb)
+
+length 105.4cm (41½in)
+
+Hunting crossbow Weapons for the leisure pursuits of the wealthy were often elaborately decorated. This bow bears two coats of arms. It would have been spanned using a goatsfoot lever or a cranequin.
+
+date origin germany weight 6½lb (2.98kg)
+
+length 25½in (64.6cm)
+
+italian sporting bow This late 16th-century steel bow may have belonged to the Aldobrandini, one of Italy’s great Renaissance families. It was designed to shoot stones or bullets.
+
+Carvings on the wooden tiller include a coat of arms and a seahorse.
+
+date c.1600 origin italy weight 2kg (4½lb)
+
+length 99.1cm (39in)
+
+early modern world the early modern world 4 78—79 longbows and crossbows          3 146—147 asian bows 1500—1775 Original cord Stained ivory plaque Bending lever hinged to tiller See detail Pin to engage spanning mechanism
+
+trigger Detail The long trigger underneath the tiller of a crossbow was usually pushed upward with the thumb, rotating the nut to release the bowstring.
+
+This trigger mechanism could impair accuracy by jolting the weapon as the bolt was shot. The tiller is inlaid with ivory plaques displaying exquisite Renaissance imagery.
+
+Bullet pouch Double bowstring Coat of arms Rotating nut Long steel tiller Crosshair fore sight Steel lath or prod English bullet bow This mid-18th-century crossbow has a built-in spanning lever and flip-up sights. The stone or bullet was placed in a pouch fixed between the two cords of a double bowstring; an arrangement that held the front of the pouch wide open so the missile could fly free.
+
+date c.1750 origin england weight 5lb (2.5kg)
+
+length 29in (73.8cm)
+
+Steel lath Rope binds lath to tiller Goatsfoot lever Flip-up fore sights
+
+the early modern world 4 78–79 longbows and crossbows          4 80–81 weapon showcase: crossbow          3 208–209 north american hunting bows 1500—1775 ASIAN bows often shot from horseback, bows were central to Asian warfare.
+
+Although the Chinese were the inventors of the crossbow, laminated and composite bows predominated. Laminated bows were made from several layers of wood glued together. In composite bows, the layers were of different materials, usually horn, wood, and sinew. The strips of horn formed the belly of the bow, closest to the archer, with sinew used for the back and a wooden core sandwiched between the two.
+
+By exploiting the contrasting properties of these materials, bows of relatively small size achieved remarkable strength and power.
+
+japanese palanquin bow The Japanese bow—the original prime weapon of samurai warriors— was typically made from laminated wood, but this example is made of whalebone. Despite its length, similar to that of an English longbow, it was often shot from horseback. The grip was not central, but placed closer to the bottom of the bow. This example is a small palanquin bow intended for ceremonial use.
+
+date 18th century origin japan weight ¼ lb (0.15 kg)
+
+length 24¾ in (63 cm) strung chinese composite bow This is a typical Chinese-Mongolian composite bow made from horn, wood, and sinew. When the bow is unstrung, its limbs relax forward. Stringing the bow usually requires two people, one of whom hooks the bowstring in the nocks while the other pulls the limbs backward into the recurved shape. The Indian bow shown on the right illustrates how a recurved bow looks when strung.
+
+date 18th century origin china weight 1½ lb (0.68 kg)
+
+length 31 in (80 cm) unstrung Silk bowstring Bow made of whalebone Black lacquered box Nock cut into scroll at end of bow Bow covered in birch bark Grip Nock of horn Ear Metal-tipped bamboo arrows Black-cord grip chinese bowcase and quiver This bowcase (gongdai) and quiver (jiantong) are made from leather covered with purple velvet, with added decorative leather shapes cut out on top. The bowcase is shaped to hold a composite bow. Folded layers of thick red felt inside the quiver would have helped to retain the arrows.
+
+date 19th century origin china weight case 1½ lb (0.64 kg)
+
+length 20¾ in (53 cm)
+
+Case for carrying composite bow Leather quiver covered in purple velvet Both bowcase and quiver hang from a silk belt Back of bow Belly of bow String bridge String bridge
+
+indian composite bow This bow from northern India is made from horn strips glued to a wooden core, the whole backed with sinew. Horn, which forms the belly of the bow, resists compression, whereas the sinew on the back of the bow is strong under tension.
+
+The deeply curved limbs have long, recurved ears.
+
+date 18th century origin northern india weight 1 lb (0.55 kg)
+
+length 37½ in (95 cm) strung indian quiver  and arrows This 18th-century Maratha quiver is covered in red velvet, and decorated with leaf and flower motifs in gold and silver embroidery. Suspended from two sets of four cords, it contains 28 arrows, all equipped with reed shafts, triangular-section points, nocks to fit on the bowstring, and long flights of gray or off-white feathers.
+
+date 18th century origin indian weight quiver 1 lb (0.44 kg)
+
+length quiver 25¾ in (65.5 cm)
+
+Triangular point Fletching Set of arrows Velvet quiver suspended by cords Cylindrical reed shaft indian arrows These arrows are made of bamboo. The shaft is gilded and painted with pink roses, the heads are of various patterns: (top) blunt octagonal, (middle) flat-sided triangular, and (bottom) large, flat-sided triangular.
+
+date 18th century origin northern india weight head 1 0z (35 g)
+
+length 30 in (73.5 cm)
+
+Blunt, octagonal head Bamboo shaft Flat-sided, triangular head Armor-piercing head Head attached to shaft by tang indian thumb ring In Asian archery, it was traditional to draw the bowstring with the thumb. To help with the pressure imposed on the digit, most archers wore a thumb ring. This was most often made from animal horn, although jade was sometimes used, as in this ring from Mughal India. The ring was worn with the extension for holding the bowstring on the grip side of the thumb. The arrow, nocked to the string, rested on top of the thumb.
+
+date 18th century origin india weight ½ oz (16 g)
+
+length 1¼ in (3.5 cm)
+
+Extension holds bowstring Jade ring nock Detail The nock holding the bowstring was typically made from horn. The string itself is of silk with loops of sinew. As the bow is drawn, the rigid “ears” act as levers, making drawing easier. On release of the arrow, the inertia of the ears gives a final snap to the string as the arrow leaves the bow.
+
+Ear of bow Grip painted green and gold Limb Bow string See detail full view
+
+the early modern world 3 150–151 weapon showcase: matchlock musket          3 152–153 european hunting guns 1600–1700          3 154–155 european hunting guns from 1700 1500—1775 the matchlock was an early firing mechanism, or “lock,” for hand-held guns. Pulling the trigger plunged a smouldering match into a pan containing a tiny gunpowder charge, or primer.
+
+The primer ignited, sending a flash through a small touch hole in the barrel wall to set off the main charge. The matchlock was far simpler than the wheellock, its contemporary, which ignited the primer with sparks struck from a piece of iron pyrites by a spinning wheel. Only with the development of the flintlock, which produced sparks by striking a flint against a steel plate, did the matchlock begin to decline in popularity.
+
+Lock plate stamped with name of armory date c.1640 origin england weight 9¼ lb (4.2 kg)
+
+barrel 45½ in (115.5 cm)
+
+caliber 11-bore english matchlock musket Muskets like this featured prominently in the English Civil War, from the first encounter between Royalists and Parliamentarians at Edgehill in 1642, to its conclusion at Worcester in 1651. Because matchlocks took so long to load, musketeers were extremely vulnerable, particularly to cavalry, and had to be protected by pikemen.
+
+Feather spring causes the pan cover to snap forward as the cock falls
+
+## MATCHLOCK
+
+and FLINTLOCK
+
+## LONG GUNS
+
+Match holder Cock holds flint between metal jaws Blade fore sight date origin germany weight 7½ lb (3.37 kg)
+
+barrel 37 in (94 cm)
+
+caliber 15-bore prussian rifled flintlock carbine King Frederick William I of Prussia, who came to the throne in 1713, raised a standing army that amounted to four percent of the country’s adult male population.
+
+He established a state arsenal at Potsdam and among its early products were carbines like this, which were manufactured from 1722 to 1774. Ten men in each squadron of cuirassiers were issued with rifled weapons.
+
+Small of stock sized to fit in hand Only lower jaw of clamp remains Striking steel Trigger guard Trigger Pan cover Trigger guard shaped to fit the hand “Fishtail” shoulder stock Comb of stock puts shoulder in line of recoil Striking steel attached to pan cover Barrel band is cut to act as rear sight Lock cover is set into the stock Screw secures barrel in stock Match holder Pan cover Cock Lock plate Pan
+
+date 17th century origin england weight 10½ lb (4.73 kg)
+
+barrel 46 in (117.2 cm)
+
+caliber 18 mm British Matchlock By the end of their period of dominance, the best matchlocks had acquired a simple sophistication, at least in their finish. They had also become much lighter, and thus were considerably easier to handle. A high-quality piece such as this would have been a prime contender for conversion into a snaphaunce or flintlock, had it not been preserved in a collection.
+
+date origin britain weight 7¼ lb (3.3 kg)
+
+barrel 36 in (91.4 cm)
+
+caliber 15-bore light dragoon flintlock carbine During the Seven Years War, which spanned Europe, Asia, and America, the British Army’s dragoons—cavalry armed with sabers—were issued this carbine. It was a scaled-down version of the Long Land-Pattern Musket, with a shorter barrel and in a smaller caliber. In form, although not in size, all the carbine’s components are identical with those of the musket.
+
+date origin england weight 10¼ lb (4.7 kg)
+
+barrel 46 in (116.8 cm)
+
+caliber 10-bore LONG LAND-PATTERN flintlock MUSKET This modified version of the original Land-Pattern Musket, or “Brown Bess,” was issued in 1742. It had a new trigger guard, a more pronounced comb to the stock, and a bridle linking the flashpan with the screw that secured the combined striker and pan cover. This example by Tippin is a “sealed pattern,” meaning that it was retained in the Tower of London Armory as a model for other gunmakers producing this type of musket.
+
+Feather spring Lock plate stamped with maker’s name Ramrod pipe Butt is bound with brass Lock plate full view date 17th century origin netherlands weight 15 lb (6.8 kg)
+
+barrel 46 in (117 cm)
+
+caliber 0.9 in
+
+## DUTCH COMBINATION LONG GUN
+
+This unusual musket is fitted with both a flintlock and a matchlock mechanism. The matchlock pan is part of the top of the striking steel. The flintlock is operated by the trigger guard, while the operation of the matchlock is by means of the trigger.
+
+Butt is bound with brass Striking steel and pan cover Match holder Pan cover Barrel is octagonal for first third of length, then round Small of stock fits in hand Sling swivel Cock Ramrod pipe Forestock sized to fit in the hand Feather spring Rear sight Forestock fits in hand Barrel- retaining pin Cock Stock has a high comb Lock plate Small of stock is gripped in hand Ramrod Ramrod pipe Striking steel
+
+the early modern world Trigger musket rest The earliest military matchlocks were massive, and required the use of a rest.
+
+Of course, the rest itself had to be of sturdy design, and this increased the gunner’s load. By about 1650, guns had become light enough for rests to be dispensed with.
+
+matchlock musket While the matchlock was a significant improvement over the hand-cannon, it was still a very clumsy weapon. Even in dry weather the match could be extinguished all too easily, and its glowing end was a giveaway at night. However, the best models were suprisingly accurate and were capable of killing a man at a hundred yards or more.
+
+Plain spout without measuring device powder flask The earliest powder flasks were fabricated from wood or leather.
+
+They often had a pricker attached for clearing the gun’s touch-hole, but there was no mechanism for measuring the charge.
+
+lead ball It was not until about 1600 that lead, with its low melting point and high specific gravity, became the universal material for bullets. Earlier, with armor still commonplace, iron balls had often been used.
+
+the invention of the matchlock hackenbüsche, or “arquebus,” can not be dated precisely, but evidence points to it having taken place sometime around 1475, probably in Germany. Technically, matchlocks were superceded with the invention of the wheellock in the 16th century, but they continued to be employed until the end of the 17th century, largely due to their simplicity.
+
+Matchlock musket 4 148–149 matchlock and flintlock long guns Sling is decorative as well as functional Iron lock cover Comb of stock assists in bringing shoulder to axis of recoil date mid-17th century origin uk weight 13¼lb (6.05kg)
+
+Barrel 49½in (125¾cm)
+
+Caliber .75in Trigger guard
+
+Manually operated pan cover Leather belt powder belt In addition to carrying a powder flask, a musketeer might have worn a belt from which small flasks, each filled with a measured charge of powder, were suspended.
+
+weapon showcase Barrel octagonal in section Flask is carved from wood full views Match-holder in shape of dog’s head
+
+Lock plate Cheekpiece date c.1640 origin germany weight 8¼ lb (3.8 kg)
+
+barrel 34 in (86.4 cm)
+
+caliber .65 in
+
+## GERMAN WHEELLOCK
+
+The wheellock was invented in Italy, but within half a century, fine specimens were being produced in Germany. This example has its serrated wheel mounted externally, to make it easier to clean, though the rest of the lock- work is protected within the stock.
+
+date c.1650 origin sweden weight 7½ lb (3.28 kg)
+
+barrel 38½ in (98 cm)
+
+caliber .4 in swedish “baltic” flintlock This early flintlock rifle, with a characteristic Baltic lock from the south of Sweden, has the distinctive “Goinge” type short butt stock reminiscent of weapons of an even earlier date.
+
+Compared with later examples, its simple lock, to a pattern devised in northern Germany, is crudely made.
+
+Bone inlay Striking steel Pan Cheek piece Squared shaft for winding mechanism Trigger date c.1630 origin italy weight 4.2 lb (1.9 kg)
+
+barrel 31½ in (80 cm)
+
+caliber .45 in italian wheellock By the 17th century, the northern cities of Brescia and Bologna had long become the centers for the fabrication of wheellock guns in Italy. This example is by Lazarino Cominazzo of Brescia, who was better known for his pistols.
+
+Jaw-clamp screw hunting, both for sport and for the pot, became far more predictable with the introduction of firearms, and by the early 17th century, the wheellock had become commonplace within the ranks of the landed gentry. Rifled wheellocks from this period were useful against even small game such as rabbits, but were slow to load and needed to be stripped for cleaning after around 30 rounds had been fired.
+
+european hunting Guns 1600 –1700 full view early modern world the early modern world 3 154–155 european hunting guns from 1700          3 244–245 sport guns 1775–1900          3 312–313 sport guns 1900–2006 1500—1775 Cocking ring Cover for serrated striking wheel Spring holds cock firmly against striking wheel Winder Wheel cover Flint
+
+date c.1630 origin germany weight 7¼ lb (3.4 kg)
+
+barrel 37 in (94 cm)
+
+caliber .33 in
+
+## GERMAN WHEELLOCK
+
+Wheellocks exist in three basic forms: fully enclosed; with the wheel exposed but with the rest of the lock enclosed; and with the entire mechanism exposed.
+
+The latter form, known as a “Tschinke,” from where it was devised, is more easily damaged but easier to clean and maintain. This example was made in Silesia, and its stock is inlaid with horn and mother-of-pearl.
+
+Cock Trigger Aperture rear sight Barrel fixing pin date c.1690 origin italy weight 8½ lb (3.95 kg)
+
+barrel 35 in (89 cm)
+
+caliber .53 in italian repeating FLINTLOCK Italian gunmaker Michele Lorenzoni lived in Florence from 1683–1733, and invented an early form of repeating breech-loading flintlock. Paired magazines, one for powder and the other for shot, were located in the butt stock, and the breech block was rotated for charging by means of a lever on the left side of the gun.
+
+Revolving breech Steel Powder and shot magazines in butt stock Striking steel date origin england weight 7 lb (3.2 kg)
+
+barrel 96½ cm (38 in)
+
+caliber .75 in english flintlock Andrew Dolep was a Dutch gunmaker who settled in London and set up shop near Charing Cross.
+
+He produced this magnificent flintlock—its walnut stock extensively inlaid with silver wire—toward the end of his career. Dolep is credited with the design of the “Brown Bess” musket, which this gun resembles.
+
+Pan and touch-hole Silver-wire inlay Fore stock Brass butt plate Trigger guard date origin scotland weight 4¼ lb (2 kg)
+
+barrel 38 in (96.5 cm)
+
+caliber .45 in scottish snaphaunce The name snaphaunce derives from the Dutch schnapp-hahn, meaning “pecking hen,” which it was thought to resemble. It was the first attempt to simplify the wheellock’s method of striking sparks from a piece of iron pyrites. This superb example is attributed to Alison of Dundee, and was a gift from James to Louis XIII of France.
+
+Cock Lock plate Decorative inlays Exposed matchlock mechanism Brass lock plate Pan and touch-hole Striking steel Fore sight Ramrod thimble
+
+early modern world the early modern world 4 152–153 european hunting guns 1600–1700          3 244–245 sport guns 1775–1900          3 312–313 sport guns 1900–2006 1500—1775 Striking steel russian flintlock This beautifully decorated smooth-bore flintlock gun was made by Ivan Permjakov, one of the most accomplished Russian gunmakers. Although it was clearly intended as a sport gun, rather than a military weapon, it is believed to have been recovered from the field after the battle of the Alma River, which took place in 1854, during the Crimean War.
+
+date origin russia weight 5 lb (2.2 kg)
+
+barrel 35 in (89.8 cm)
+
+caliber .35 in Cock Trigger Small of the butt the gap that had existed between English gunmakers and their counterparts in Europe had largely disappeared by the start of the 18th century. The flintlock now predominated, except in southern Europe, where the more primitive miqulet lock was still widely used. While we see a more austere style, the remaining ornamentation became more sophisticated, with minimal ornate inlaying and emphasis placed on the natural qualities of the wood.
+
+European Hunting Guns from 1700 Striking steel Barrel band
+
+## FLINTLOCK SPORT GUN
+
+This full-stocked sport gun, attributed to John Shaw, shows considerable similarity to a military firearm of the same period. However, the attention that has been paid to the selection of the wood for its stock immediately sets it apart, as does the care that has been lavished on its finishing.
+
+date origin england weight 10½ lb (4.8 kg)
+
+barrel 55 in (139.5 cm)
+
+caliber .75 in Cock Rear sling swivel Feather spring Jaw clamp screw
+
+Cock Ornate pierced brass barrel band Left trigger Figured walnut stock Ramrod retaining thimble Abbreviated forestock Lock plate Gold-plated pan Abbreviated forestock Jaw clamp screw date origin scotland weight 7½ lb (3.4 kg)
+
+barrel 30 in (76 cm)
+
+caliber .68 in scottish double-barreled flintlock By the beginning of the 19th century, the design of sport guns had already begun to diverge from that of military weapons, with shortened stocks becoming commonplace. This double-barreled piece is thought to have been made by Morris of Perth for Sir David Montcrieffe, a celebrated sportsman.
+
+date c.1770 origin england weight 5½ lb (2.55 kg)
+
+barrel 35½ in (90.2 cm)
+
+caliber .6 in double-barreled flintlock shotgun This side-by-side double-barreled flintlock shotgun, attributed to Hadley, is typical of high-class fowling pieces of the latter part of the 18th century. Not only is its short stock silver mounted, but both its pans and its touch-holes are gold-plated to fend off corrosion.
+
+date origin england weight 6¼ lb (2.84 kg)
+
+barrel 36 in (91.4 cm)
+
+caliber .68 in ENGLISH FLINTLOCK sport gun The gunmaker Benjamin Griffin worked in fashionable Bond Street in London from 1735 to 1770, and was joined in 1750 by his son Joseph. Both father and son were renowned for their excellent pistols and long guns, many of which were graced with ornate engraving to the metal parts, decorative brasswork, and silver-wire inlay.
+
+Striking steel Ramrod thimble Forward sling swivel Barrel band date c.1775 origin italy weight 8¼ lb (3.75 kg)
+
+barrel 31½ in (80 cm)
+
+caliber .75 in italian miquelet sport gun The miquelet lock introduced the combined striker and pan cover, but used an external mainspring (unlike the later true flintlock, in which the mainspring was internal).
+
+This miquelet lock musket is something of an oddity. It was manufactured in Naples by Pacifico around 1775, but has what is clearly an English-made barrel dating from around the time of the Battle of Waterloo (1815).
+
+Ramrod Lock cover Trigger for firing the right barrel Trigger for firing the left barrel Fore sight Right trigger Gilded decorative banding
+
+early modern world asian Matchlocks 4 148–149 matchlock and flintlock long guns          4 150–151 weapon showcase: matchlock musket          3 260–261 indian firearms          3 262–263 asian firearms 1500—1775 the early modern world date c.1690 origin sri lanka weight 9 lb (4 kg)
+
+barrel unknown caliber 70 cm Sri lankan matchlock This massively stocked musket was made on the island of Sri Lanka, probably toward the end of the 17th century. Its surface is ornately carved. Had it not been so ornately decorated, it would probably have been discarded when the lock broke. Its lock is missing but was usually mounted on the left- hand side of the stock.
+
+Fore sight Butt could be held against the shoulder or the chest Trigger Serpentine match holder the portuguese were the first europeans to reach the Indian subcontinent, in 1498, and 45 years later they arrived in Japan. They brought with them firearms in the shape of the matchlock musket. Accomplished armorers abounded in Asia, and indigenous craftsmen soon began to copy the weapons they saw, adapting them to their own needs. They also brought to firearms the same degree and style of decoration that they routinely applied to other weapons. This involved using precious metals and other valuable materials and, in the case of the Japanese, lacquerwork. Distinctive local styles soon evolved.
+
+Serpentine match holder Stock decorated with chip-carving Koftgari (gold inlay) decoration Touch pan Touch-hole pricker (clearer) is housed in a gilded tube Lock plate Butt is of the form developed in Sakai Hole in butt bordered by elaborate floral washer and eight-bucket waterwheel design Trigger Inlaid decoration Trigger guard Main Spring
+
+date 18th century origin southern india weight 9 lb (4.05 kg)
+
+barrel 44½ in (113 cm)
+
+caliber 16 mm Indian carnatic toradar The barrel of this matchlock from Mysore (in what is now Karnataka State, southern India) is exquisitely decorated with incised flowers and foliage, and entirely gilded. The incised side plates are made of iron, and on its trigger it has a tiger in koftgari—a method of inlaying gold into steel or iron.
+
+date early 18th century origin western japan weight 9¼ lb (4.14 kg)
+
+barrel 40½ in (103 cm)
+
+caliber 13.3 mm Japanese matchlock A rather less ornate weapon than that shown below, this matchlock is by Kunitomo Tobei Shigeyasu of Omo, on Japan’s west coast. Its red-oak stock is in the style of the Sakai school. Decoration is limited to engraving on the octagonal barrel and some brass inlay; the lock and mainspring are also of brass.
+
+date 19th century origin central india (narwar)
+
+weight 10¾ lb (4.9 kg)
+
+barrel 49¾ in (126.2 cm)
+
+caliber 14 mm Indian matchlock toradar This 19th-century toradar has a stock of polished red wood with circular pierced medallions on either side of the butt of iron with gilding and koftgari applied over red velvet. The barrel has an elaborate arabesque decoration in gold koftgari at the breech, and the muzzle is fashioned into the shape of a tiger’s head.
+
+## FULL VIEW
+
+Sling Octagonal barrel date c.1700 origin japan weight 6 lb (2.77 kg)
+
+barrel 39½ in (100 cm)
+
+caliber 11.4 mm Japanese teppo This early 18th-century matchlock teppo is the work of the Enami family of Sakai, who are widely held to be among the finest Japanese gunmakers of the pre-industrial period. The stock is of red oak, decorated all over with kara kusa scrolls in gold lacquer, with additional inlays of brass and silver.
+
+The decoration may have been added at a later date.
+
+## FULL VIEW
+
+Tiger’s-head muzzle Serpentine match holder Pentagonal- section butt Trigger Iron side plates cover lock Barrel band Gold inlay on muzzle Decorative inlay surrounds barrel pin Rear sight Serpentine match holder Shishi is brass inlay Barrel is retained by four pins Octagonal barrel Laquerwork mon is a pine tree in a circle Rear sight Barrel band Gold lacquering over red oak Barrel bands of leather thongs
+
+early modern world german and italian armorers of the 16th century were particularly adept at incorporating firearms into other blunt and edged weapons. Many of the examples that survive were probably intended to be showpieces, since they frequently display the most ornate decoration, and it is not clear whether they were ever meant for martial use. The tradition continued—a rifle or pistol equipped with a bayonet can be said to be a combination weapon—and spread to other countries, notably to India, where more practical examples were produced during the late Mughal period.
+
+Combination Weapons 4 136–137 european one-handed staff weapons          4 140–141 european two-handed staff weapons          4 148–149 matchlock and flintlock long guns           3 196–197 indian staff weapons 1500—1775 the early modern world date c.1590 origin germany weight 1.70 kg (3¾ lb)
+
+length 24¼ in (61.6 cm)
+
+caliber .35 in war hammer wheellock This long-shafted war hammer (only the beak remains; the balancing hammer head is missing)
+
+incorporates a wheellock pistol. Equipped with a gunmaker’s “standard” pistol lock and barrel, this weapon seems to have been produced for practical rather than ceremonial purposes.
+
+date unknown origin unknown weight 3¾ lb (1.72 kg)
+
+length 23 in (58.5 cm)
+
+caliber .31 in Mace wheellock The barrel of this wheellock pistol forms the shaft of a mace, the head of which has six pointed flanges, each pierced with a trefoil shape. The lock incorporates a simple safety catch that engages with the sear. The hollow lower section of the shaft contains a compartment that can be accessed by opening the hinged pommel. The entire weapon is engraved and selectively gilded.
+
+full view full view date c.1590 origin germany weight 7 lb (3.25 kg)
+
+length 27¼ in (69.1 cm)
+
+caliber .33 in halberd double-barreled wheellock A hunting halberd fitted with a double-barreled wheellock pistol. The pistol barrels are octagonal and mounted on either side of the leaf-shaped blade. The whole is etched and partly gilt with strap and scroll-work, the ax and fluke of the head having additional trophies of arms.
+
+Serrated striking wheel Squared shaft takes the key that winds the action Beak Ramrod Barrel Hinged pomel Wheellock Mace head composed of six pierced flanges Cock Point of flange is solid Cock Fork bayonet Trigger Trophy of arms Ax blade Balancing fluke
+
+date c.1820 origin india weight 2½ lb (1.12 kg)
+
+length 20½ in (52.3 cm)
+
+caliber .55 in matchlock ax/dagger A simple, all-iron matchlock lies at the heart of this combination of gun, ax, and dagger.
+
+The barrel is closed by a tubular, cross-hatched grip with a small terminal pommel, which unscrews to reveal a knife. The knife pommel itself unscrews, and the compartment within contains a pair of tweezers. The axhead, decorated with engraved scroll-work, is mounted on an iron shaft.
+
+barrel detail The uppermost barrel is fitted with a matchlock on the left side, and the second with a wheellock. A tubular extension to the pan held a length of match. This would have been ignited by the flash of the priming, and then used to touch off the remaining three barrels, along with a sixth, located in the hollow shaft.
+
+Detail of hammer In keeping with the highly decorated nature of the entire wheellock halberd, the paired cocks are more than just spring-loaded clamps to hold pieces of iron pyrites against the serrated edge of the striking wheels. They are exquisitely worked ornaments in their own right—gilded and chased with a floral pattern.
+
+See detail (right)
+
+See detail (left)
+
+carbine ax The butt of this fully stocked, dog-lock carbine is reduced so that it can be gripped in the hand. The axhead is shaped to double-up as a rudimentary bayonet, and its balancing fluke as the beak of a war hammer.
+
+The head, retained by a spring catch, can be easily removed.
+
+date c.1720 origin denmark weight 3½ lb (1.55 kg)
+
+length 32½ in (82.5 cm)
+
+caliber .58 in Hollow shaft contains a sixth barrel Single- edged blade Serpentine match-holder Balancing fluke Dog lock Ax match- and wheellock The hollow axhead contains five short barrels. These are hidden by a hinged cover that forms the blade. If the piece was intended to function as a weapon, which is debatable, the pointed fluke would probably have been more effective in an offensive role.
+
+The decoration is rather crude.
+
+date c.1610 origin germany or iberia weight 6½ lb (2.95 kg)
+
+length 22 in (56 cm)
+
+caliber .31 in Gallery for piece of match Striking wheel Cock Safety catch Shaft screws into barrel Crescent- shaped axhead Iron shaft Axehead serves as a stabbing bayonet Pan One of two cocks Hammer
+
+early modern world the early modern world 3 162–163 european pistols 1700–1775          3 212–213 flintlock pistols from 1775          3 214–215 flintlock pistols to 1850 1500—1775 “Flint” is really iron pyrites Lock plate Decorative ball pommel is attached to butt by a dowel Jaw-clamp screw Ramrod Jaw-clamp screw Cock Rounded butt Stag-horn inlay Feather spring
+
+## FULL VIEW
+
+wheellock pistol In northern Europe, pistols were known as dags (the origins of the name are obscure) until the late 16th century.
+
+The ball pommel, a common feature of dags, was designed to make the pistol easier to retrieve from a pocket or bag, rather than to be used as a bludgeon.
+
+date origin	 germany weight	 4 lb (1.77 kg)
+
+barrel	 12 in (30.2 cm)
+
+caliber	 0.5 in European pistols 1500 –1700 prior to the introduction of the wheellock—the first mechanical means of igniting a gun’s powder charge—pistols were rare, since one could not pocket or holster a matchlock. The invention of the wheellock (perhaps by Leonardo da Vinci) late in the 15th century made it possible to carry a gun and still have one’s hands free. Wheellocks were expensive, complicated, and prone to breakage—and usually only repairable by the man who had made the gun. By about 1650, they had been replaced by the less complex snaphaunce (which struck sparks with a spring-loaded flint).
+
+This then evolved into the even simpler “true” flintlock.
+
+Metal-bound butt silesian flintlock pistol This large, sophisticated holster pistol was made in the principality of Teschen (now divided between the Czech Republic and Poland), but shows considerable German influence.
+
+The nature and quality of the decoration —the inlays are of stag horn—indicate that it was made as a presentation piece.
+
+date c.1680 origin	 silesia weight	 2½ lb (1.1 kg)
+
+barrel	 14 in (35.5 cm)
+
+caliber	 29-bore Feather spring flicks cover up when released, revealing pan Serrated wheel strikes sparks from flint Pan Ramrod-retaining thimble Spring holds cock in place Cock Plain lock plate Flint wrapped in leather patch to improve jaw’s grip Pan Striking steel attached to pan cover Trigger Pan cover Lock plate Trigger guard
+
+Cock Steel mountings are selectively gilded Cock Feather spring Round barrel Barrel is hexagonal toward the breech Ramrod-retaining thimble Ramrod-retaining thimble Forestock cap Metal-bound butt Incised decoration austrian flintlock Made in Vienna by Lamarre, this ornate holster pistol, though certainly atypical in the level and high quality of its decoration, represents the state of the gunmaker’s art as it was in the last decades of the 17th century.
+
+date c.1690 origin	 austria weight	 2½ lb (1.2 kg)
+
+barrel	 14 in (35.3 cm)
+
+caliber	 17-bore flemish flintlock pistol Even everyday 17th- and 18th-century firearms frequently received some embellishment in the shape of carving.
+
+Some were even given silver mountings, as can be seen here on this piece by the Flemish gunmaker Guillaume Henoul.
+
+date c.1700 origin	 netherlands weight	 2¼ lb (1 kg)
+
+barrel	 10½ in (26 cm)
+
+caliber	 25-bore english flintlock pistol English gunmakers did not come into their own until the end of the 18th century. In the middle of the 17th century, when this holster pistol was made, they were still taking their lead from continental colleagues, and the maker of this piece, which has a French- style lock, was no exception.
+
+date c.1650 origin	 england weight	 2¼ lb (1 kg)
+
+barrel	 14¼ in (34.2 cm)
+
+caliber	 25-bore Escutchion plate dutch double-barreled flintlock Early multiple-shot handguns normally had a lock for each barrel. However, by mounting a pair of barrels on an axial pin and providing each with a striker and pan with a secure cover, it was possible to present each in turn to a single lock, reducing the cost considerably.
+
+date c.1650 origin	 netherlands weight	 2½ lb (1.2 kg)
+
+barrel	 19¾ in (50.3 cm)
+
+caliber	 36-bore Striker for upper barrel Barrel becomes round toward the muzzle Fore sight Striker for lower barrel Barrel release Flattened pommel Gilded steel decoration Striking steel attached to pan cover Trigger Round barrel
+
+the early modern world 4 148–149 matchlock and flintlock long guns          4 160–161 european pistols 1500–1700          3 212–213 flintlock pistols from 1775          3 214–215 flintlock pistols to 1850 1500—1775 European pistols 1700-1775 the french court gunmaker Marin le Bourgeoys invented the true flintlock around 1610, when he combined the striker and pan cover of the miquelet lock with the internal mechanism of the snaphaunce, and modifed the sear, which “connected” cock and trigger, to act vertically instead of horizontally. While snaphaunces and miquelets were still produced for a long time after—as, for a while, were wheellocks and matchlocks—they were technically obsolete. Over the next 200 years, until the development of the percussion lock, only minor improvements were necessary, though the introduction of the enclosed box lock was a distinct step forward.
+
+english pistol A pistol such as this would have been carried in a holster on the saddle of a horse (gun holsters worn by people were later inventions). Holster pistols were heavy, with long barrels, and after being discharged they were often used as bludgeons—hence the metal butt cap.
+
+date c.1720 origin england weight 2 lb (0.88 kg)
+
+barrel 10 in (25.4 cm)
+
+caliber .64 in scottish pistol It was the fashion in Scotland during the 18th century to make pistols entirely of brass or iron, with their entire surface covered by intricate engraving. Typically, they lacked trigger guards. Most were snaphaunces; this example is unusual, in that it is a flintlock. It was made by Thomas Cadell of Doune, who made some of the best iron pistols.
+
+date c.1750 origin scotland weight 1¾ lb (0.79 kg)
+
+barrel 9 in (22.85 cm)
+
+caliber .57 in DOUBLE-BARRELed TAP-ACTION PISTOL The tap is a rod that fits tightly into a cylinder below the pan. The tap is bored through; the bore is filled with powder, the tap is turned through 90°, and the pan is then primed in the normal way. After firing the upper barrel, the tap is turned again; the powder in the bore then primes the lower barrel.
+
+date origin england weight 6 oz (170 g)
+
+barrel 2 in (5.08 cm)
+
+caliber .22 in Plain, unadorned barrel Cock Trigger has lost its finial ball Silver medallion set into butt Butt has incised decoration Ram’s horn finial Steel striker is missing Cock has lost upper jaw to flint clamp Tap Engraved box lock Pommel unscrews and is equipped with a touch- hole pricker Lock plate Striking steel Fore sight Ramrod Ramrod-retaining thimble Screws retain lock Trigger
+
+double-barreled pistol This is one of a pair of excellent English twin-lock, double-barreled, over-and- under pistols. It was made by the émigré Dutch gun maker Andrew Dolep in London at the very end of the 17th century. The right-hand lock and the forward trigger fire the upper barrel.
+
+date origin england weight 3 lb (1.41 kg)
+
+barrel 13 in (32.9 cm)
+
+caliber .5 in liÈge pistol Made in the city of Liège by M. Delince, this holster pistol appears to have been shortened at the muzzle, and shows the signs of hard use. Oddly, for a gun made so late in the 18th century, this example has no reinforcing bridle on its lock.
+
+date origin belgium weight 2 lb (0.88 kg)
+
+barrel 9 in (22.9 cm)
+
+caliber .62 in spanish breech-loading pistol This miquelet-lock pistol is from Ripoll, Catalonia, a key gunmaking town in the 17th and 18th centuries. The breech-block screws out with one full turn of the trigger guard to which it is attached, allowing the ball and powder charge to be inserted.
+
+date c.1725 origin spain weight 3½ lb (1.6 kg)
+
+barrel 10 in (25.4 cm)
+
+caliber .55 in Barrel is engraved all over Ramrod- retaining thinble Trigger for lower barrel Figured walnut stock Langets extend from brass butt cap Trigger guard is prolonged into a lever Blade fore sight Trigger guard Screw plate is a decorative casting Cock Butt is brass-bound Shortened striker Unstocked round barrel Cock Frizzen (striker)
+
+attached to pan cover Ramrod is missing Langet Lock plate Trigger for upper barrel Frizzen spring flips up cover, revealing pan Fore sight Twin cocks Lower barrel Upper barrel Screw-in breech block Butt is bound in silver Ramrod
+
+thirty years war In 1620, the Battle of White Mountain marked the start of the Thirty Years War, which left few regions of central and western Europe untouched.
+
+Here, the Bohemian protestants are defeated by the Christian Imperial army using pikes and muskets.
+
+the early modern world 4 86–87 european helms and basinets          4  88–89 european jousting helms, barbutes, and sallets          4 94–95 european plate armor          3 168–169 european tournament helmets 1500—1775 European tournament armor during the 15th century, specialist armor began to be developed for tournaments, a trend that reached its highest expression in the following century. Not only was additional armor introduced for specific events—such as strengthening the vulnerable left side for jousting—but the armor became increasingly ornate, with enormous attention being paid to the most exquisite decoration. Indeed, so great was the quality of this work that some items of armor became too precious to use in combat and were used for display as parade armor. Certain types of parade armor became increasingly fantastical, with armorers mimicking current styles of civilian dress and devising “grotesque” helmets in the shape of animals.
+
+foot combat armor In foot combat, two contestants wearing special suits of armor fought in the lists (the arena) with poleaxes, spears, maces, swords, and daggers.
+
+Foot combat as practiced in the 15th and 16th centuries historically derived from “judicial duels”—of- ficially sanctioned fights, often to the death, to resolve legal disputes. Foot combat was the most dangerous of all the tournament competitions, and required an armor that gave head-to- toe protection to the wearer.
+
+date origin germany Close helm with pivoted upper bevor and visor Breastplate constructed in “doublet” style Rerebrace (upper arm guard)
+
+Gorget (collar guard)
+
+full view Ventilation holes pierced on right side, away from vulnerable left side that would face opponent’s lance
+
+locking gauntlet One of the dangers faced by a heavily armored knight was his sword dropping or being knocked from his hand.
+
+A gauntlet such as this prevented it by locking the sword into the steel mitten until unlocked after combat.
+
+date 16th century origin italy weight c.2½ lb (1.14 kg)
+
+length c.6 in (40 cm)
+
+decorated vamplate The vamplate was a funnel-shaped, circular guard fixed to the lance to protect the hand. The first vamplates appeared in the 14th century as a tournament feature.
+
+By the 16th century, they had evolved into large and finely decorated conical shapes.
+
+date 16th century origin italy weight c.1¼ lb (0.6 kg)
+
+length c.10 in (25 cm)
+
+breastplate Made in Italy, this light yet strong breast- plate is a superb example of the armorer’s art; its shape imitates the bulge of the close-fitting doublet of the period. The breastplate is decorated with engraved and gilded heavenly figures.
+
+date 16th century origin italy weight c.6¼ lb (2.80 kg)
+
+height c.19 in (48 cm)
+
+Leather connecting straps to backplate Single cuff plate protecting the wrist Lance rest Fauld (steel hoop)
+
+of three lames (connecting plates)
+
+a king’s armor Made for King Henry VIII of England in 1540, this harness of armor from the Italian-influenced Greenwich armories reflects the increasingly stout figure of the monarch. Intended for both field and tournament use, the decoration on this armor has been attributed to a Florentine, Giovanni de Maiano, with assist- ance from the painter Hans Holbein.
+
+date origin england weight 78 lb (35.33 kg)
+
+height 77¾ in (187.5 cm)
+
+Right pauldron (shoulder guard)
+
+reduced in depth to hold lance Long tasset (steel plate)
+
+of six lames Left pauldron One-piece visor pierced with multiple horizontal slits for ventilation Radial decoration etched in gilt Greaves (plate guards for lower leg)
+
+Couter (elbow guard) with detachable plates Mitten gauntlets Detachable haut piece (upright guard)
+
+the early modern world Embossed Close Helmet The entire surface of this close helmet is of bright steel embossed with scenes of equestrian combat, figures in classical armor, trophies, lions, and cherub heads in low relief. A piece of such high quality, originally gilded, was clearly designed for parade purposes. The visor has flanges to fit into the bevor, a feature typical of the close helmet.
+
+date c.1575 origin france weight 5¾ lb (2.6 kg)
+
+the evolution of parade and ceremonial helmets in the 16th century very much matched that of armor intended for use on the battlefield. In the case of tilting helmets, effective protection was of very practical use to stave off potentially fatal head injuries inflicted by jousting lances. Open-faced helmets, such as the burgonet, were less suitable for this purpose and it was in close helmets of the later 16th century that parade helmets reached the height of their magnificence—the greater protective surface areas of such helms also provided more space for the armorer to add decorative engravings and ornaments.
+
+Hole to attach crest Visor pivots at the same point as the rest of the faceguard Peg for lifting visor Upper bevor with figures in Roman armor Two sections of skull plate join at the comb Cherub’s head decoration Sleeping lion decoration Rope comb 4 86–87 european helms and basinets          4 88–89 european jousting helms, barbutes, and sallets          4 166–167 european tournament armor          3 350–351 helmets from 1900 1500—1775 european tournament helmets
+
+date c.1555 origin germany weight 5 lb (2.2 kg)
+
+date c.1535 origin germany weight 5 lb (2.2 kg)
+
+date c.1520 origin germany weight 5 lb (2.2 kg)
+
+Death of Henri II at Jousting Tournament, 1559 King Henry II of France was an avid hunter and participant in jousting tournaments. However, on July 1, 1559, he was killed by the lance of Gabriel Montgomery, captain of the King’s Scottish Guard. His death was due to the Achilles heel of the close helmets of the day; his opponent’s lance shattered and a fragment glanced down between the king’s visor and bevor, piercing his eye and penetrating his brain.
+
+Hinged strap to link lower bevor to skull Hook and eye to hold visor down in bevor Reinforcing plate attached over visor Visor Key to lock down visor in bevor Lower bevor Rivet to secure lining Plume holder Skull Upper bevor Holes for ventilation Eagle’s-beak decoration Fan-shaped plume Dolphin mask Blued, etched, and gilt wings Visor Hole for hearing Pivoting fork Holes for cross-straps Chin piece Sword cuts Rope comb Face embossed in metal Metal plate imitating teeth Bevor date c.1540 origin germany weight 7 lb (3 kg)
+
+date c.1530 origin italy weight 5 lb (2.2 kg)
+
+Open-Face Burgonet The burgonet has a characteristic low and rounded skull, turned outward to just below the ears, with the cheeks left unprotected. A dolphin mask in front of the skull has its skin and fins embossed in gold. On either side of the central mask are the tails of the dolphin, attached by turning points.
+
+Armet The armet was an improved form of close helmet. It offered good protection, with large cheek pieces secured below the visor pivot, the opening at the back often protected by a round plate. The protruding stalk at the back was to connect a “wrapper”—a tall plate in front of the visor on the left side, the point at which a jousting lance might strike.
+
+Gilded Close Helmet The whole of this tilting helmet is gilt, with decoration consisting of interlaced strapwork and scrolls deeply etched into the surface, with ornaments of foliage, winged heads, and grotesque animals. The other side of the visor is pierced by ten slots for breathing. The top of the comb is marked with sword cuts, which show that the helmet saw violent action. It formed part of a suit originally made for Emperor Ferdinand I.
+
+date c.1570 origin italy weight 6¼ lb (2.8 kg)
+
+Etched and Gilded Close Helmet The surface of this close helmet is etched and gilded with vertical bands of flowing scrolls. Extra protection is added by a solid reinforcing plate that extends over the front of the skull. The lower edge of the helmet finishes in a hollowed roping, into which fitted the top plate of the gorget (neck armor).
+
+Eagle’s-Head Close Helmet This close helmet is boldly shaped below the eyepiece into the form of an eagle’s head. The plumage of the bird’s head is represented by feathers etched into the metal. The skull has a low comb with rope decorations, on either side of which are seven rows of fluting, partly decorated with elegant bands of stylized foliage.
+
+Parade Casque This ornate casque helmet forms part of a tradition of “grotesque” helmets intended for parades or masques, particularly popular in the 16th century. With its striking embossed man’s face with staring eyes, and its extravagant plumelike comb, this piece may well have formed part of a whole suit of “costume” armor.
+
+the early modern world 4 92–93 european mail armor          4 94–95 european plate armor          3 172–173 samurai armor          3 268–269 indian armor and shields 1500—1775 between the 16th and 18th centuries, broadly similar weapons and armor were used by armies from the Middle East to India and Central Asia. These included mail-and-plate body armor and a type of round shield, made of leather or steel, that was called a dhal in India and a sipar in Persia. China and Korea, while culturally distinct, were also influenced by these essentially Islamic styles. Even though firearms were widely used in Asia, armor and shields remained in use for longer than in Europe.
+
+indian mail-and-plate coat This style of mail-and-plate armor, with four large plates at the front, two smaller ones at the sides, and further plates at the back, was favored by Mughal emperors, including Aurangzeb (reigned 1658–1707). It did not offer absolute protection: missiles and stabbing weapons could potentially penetrate the areas of riveted mail.
+
+date early 17th century origin india full view aSIAN Armor and helmets indian top This style of helmet, which is known as a top in India, probably originated in Central Asia. The helmet’s most striking feature is the mail aventail that guards the neck, shoulders, and part of the face. There would have been a spike on top of the helmet and plumes on either side of the skull.
+
+date c.18th century origin india indian mail-and-plate jacket Known in India as a zereh bagtar, this jacket combines both plate and mail armor. Mail-and-plate combinations were in general use across the Islamic world from the Ottoman Empire to Central Asia by the 15th century, and they were the predominant armor of Mughal India. This example has columns of 60 to 65 small metal plates and a mix of welded and riveted mail.
+
+date early 18th century origin india weight 17¾ lb (8.1 kg)
+
+length 27¼ in (69.5 cm)
+
+Short mail sleeve Spike socket Sliding nasal bar Riveted mail covers waist Mail strip Column of small plates Mail aventail Large steel plates Lining of red silk Plume holder
+
+Lacquered rawhide Gilt plume-holder indian dhal This Indian round shield, or dhal, is made of watered steel. It was held by passing an arm through two handles on the back. The handles are fastened by ring bolts, which are riveted to the four bosses on the shield’s face. Shields gave Indian craftsmen an irresistible opportunity to indulge their passion for chiseled and gilded decoration.
+
+date c.1800 origin india weight 8½ lb (3.8 kg)
+
+width 24 in (60 cm)
+
+Gilded decoration Gilt band around base of skull Riveted mail coat with long sleeves Cheek guard with brass- headed rivets retaining internal iron plates date 16th century origin china height 13¾ in (35 cm)
+
+chinese zhou This helmet, or zhou, is from Ming dynasty China. The skull of the helmet is made in two pieces joined by a riveted seam. This is a luxury item, elaborately decorated with precious stones and corals, and with a gilt holder at the apex into which a plume would have been inserted. Traces of blue silk remain at the base of the skull—probably all that is left of a neck guard.
+
+Boss covers attachment of handle korean helmet This lacquered leather helmet would have been worn by a wealthy Korean warrior, evidenced by the decorative silverwork on the cap and peak. Three fabric flaps containing internal iron plates protect the neck and cheeks.
+
+The tube at the apex of the helmet would have carried a plume.
+
+date late 16th century origin korea weight 2¼ lb (2.4 kg)
+
+height 13 in (33 cm)
+
+Iron helmet frame Coral and turquoise decoration Riveted seam joins two halves of skull full view Mail collar reinforced by plates Brass plate Silver cap
+
+early modern world
+
+## SAMURAI
+
+Armor japanese samurai armor, which evolved from the Asiatic tradition of lamellar (scaled) armor, consists of lacquered plates of metal or leather bound together by leather or silk lacing. This flexible armor gave adequate protection while permitting the free and rapid movement needed by a sword- fighter. Samurai armor increased in complexity over time, achieving its pinnacle in the tosei gusoku (modern armor) style from the 16th century onward. Armor and helmets were intended for display as well as combat. At their most ornate in the Edo period, after the pacification of Japan, the samurai had then ceased to be active warriors.
+
+4 120–123 japanese samurai swords          4 124–125 samurai sword: wakazashi          4 126–127 great warriors: the samurai 1500—1775 the early modern world date 19th century origin japan weight helmet 6 lb (2.75 kg)
+
+tosei gusoku  (modern armor)
+
+This fine quality tosei gusoku armor is twinned with a helmet spectacularly topped by imitation buffalo-horn wakidate, or side crests (antlers were also popular as wakidate ). The black lacquered half-mask, or mempo, has wrinkles and teeth but lacks one frequently found feature: a moustache.
+
+The mask protected the lower face, helped hold the helmet on the warrior’s head, and made the wearer look more frightening. Other details, such as the eyebrows embossed on the browplate, also helped to create an intimidating effect. An aesthetically pleasing color scheme is achieved through the use of gold lacquer and red silk.
+
+Sode (shoulder defence)
+
+Suneate (greaves)
+
+Cords attach mask to the head here Yodare-kake (throat defense)
+
+Skirts protect thighs Leather-covered fukigayeshi (sweepback)
+
+Tying bands Tekko (hand defense)
+
+Suigyu-no-wakidate (gilt-wood buffalo horn ornament)
+
+Shikoro (neck protection)
+
+mempo (face defense)
+
+Kote (arm defense)
+
+sode (shoulder defense )
+
+suneate (greaves)
+
+Ressei men (“Furious power”)
+
+face mask kabuto (helmet)
+
+Gold lacquered browplate
+
+Gold lacquered hide Gattari (bracket for personal flag)
+
+Kusari (plate in mail)
+
+Gold lacquered ito  (plates)
+
+fastened with red silk knots Abiki-no-o (shoulder cord)
+
+Tateagi (laced plate)
+
+Yurugi-ito (lacing)
+
+for kusazuri  (skirts)
+
+shoulder defense (sode )
+
+front of do (Cuirass)
+
+Kote (arm defense )
+
+suneate (greaves)
+
+rear of do (Cuirass)
+
+the revolutionary world
+
+Battles of Concord and Lexington begin American Revolution 1792–1815 French Revolutionary and Napoleonic Wars c.1805 William Congreve develops first effective rockets Napoleon finally defeated at Waterloo irregular warfare The British underestimated the ability of their enemy’s colonial militias during the American Revolution (1775–83). Here, Benedict Arnold—lying wounded— directs the assault on Bemis Heights in October 1777, with swords, rifles, and bayonets, which forced the British regulars to withdraw.
+
+1790s Henry Shrapnel invents the “shrapnel shell” packed with musket balls (adopted by British army 1803)
+
+Samuel Colt patents his breech- loading revolver 1840s Telegraph becomes widespread, allowing communication with battlefield commanders In 1770, Europe was ruled largely by dynastic sovereigns, who continued to conduct politics and fight wars much as they had done 200 years before. Yet over the next century, revolutions— both political and industrial—transformed the face of warfare, as new technologies, ideas of nationalism and democracy, and efficient bureaucracies gave ever more power to those who possessed them and reduced to political ciphers or colonies those who did not.
+
+First submarine Turtle used in American Revolution British naval victory at Trafalgar; Napoleon wins Battle of Austerlitz First Opium War between Britain and China Napoleon’s successful Italian campaign British surrender of Yorktown signals final defeat by American forces 1830s French campaigns in Algeria the revolutionary world
+
+Hiram Maxim produces first practical machine gun Spanish-American War ends with US occupation of Cuba and the Philippines 1899–1902 Boer War In the 1790s, the French army pioneered the use of the division, a self-contained unit of several regiments combining infantry, cavalry, and artillery. Napoleon took this further, establishing a system of army corps, each made up of several divisions. The corps system meant that parts of the French army, which “lived off the land” instead of relying on fixed supplies, could take separate routes to their objective, reducing the risk of exhausting the ability of the areas they marched through to support them. This flexibility and the speed of the French armies left Napoleon’s enemies often seeming sluggish.
+
+Napoleon also expanded the French artillery, and by 1805 the army had 4,500 heavy guns and 7,300 medium and light.
+
+A string of victories, most notably Marengo (1800) and Austerlitz (1805), left the successive coalitions formed against him reeling. Napoleon also realized the destruction of the enemy’s field armies should be his main objective, rather than allowing himself to be delayed by protracted sieges.
+
+Yet the strain on France’s resources began to show. An estimated 20 percent of Frenchmen born between 1790 and 1795 died in the wars. Increasingly, Napoleon’s soldiers were foreign, less well-trained and less motivated than the French. After 1808, divisions were standardized to two brigades, and the numbers of companies per battalion reduced to make command easier. The result was a less flexible force, and Napoleon’s later battles tended to be elephantine affairs, with large masses of men hurled headlong against the enemy, and far fewer flashes of sheer brilliance. At Borodino, in the Russian beginning with the American Revolution, the traditional order was challenged, overthrown, and then, reconstituted. Britain fought a bitter war from 1775 to 1783 to retain its North American colonies, which demanded some share in their governance.
+
+George Washington, the commander of the rebel army, knew that he could not match the British in open battle. But the British depended on supplies reaching them by sea, and when French intervention in the war in 1778 hurt this, their control over North America became tenuous. The Americans became a fighting army with the help of Augustus von Steuben, a Prussian army officer, who devised a simplified drill for Washington’s soldiers. The result was a humiliation for Britain and the loss of most of its North American colonies.
+
+the french revolutionary wars Revolution broke out in France in 1789, in part provoked by anger at unemployment and high levels of taxation needed to fund the army, and Louis XVI’s inability to do anything to remedy these problems. Most army officers fled the country, or at least resigned their commissions. By that time France was at war with Austria and so fewer experienced officers were available. Their replacements came from the middle and lower classes, so that by 1794, only one in 25 officers was a nobleman. A mass conscription in 1793 in effect, militarized France, as all men of military age were deemed to be in service.
+
+The new army adopted modified tactics— from 1792 skirmishers or sharpshooters were introduced into infantry battalions. These tirailleurs would harass enemy formations and screen the maneuvers of their parent battalions. A string of French Republican victories, most notably those of Napoleon Bonaparte in Italy from 1796, exhibited the new army’s ability to use these revised combinations of line, column, and skirmishing tactics to great effect.
+
+battle of the nations French cuirassiers charge at the Battle of Leipzig in 1813.
+
+The sheer size of the force opposing him—at 365,000 men —was too much even for Napoleon. The situation was made worse by the fact that his army sorely missed the veterans who had perished in Russia the year before.
+
+campaign of 1812, some 250,000 men fought on a narrow front just 5 miles (8 km) wide, leading to heavy losses on both sides.
+
+english tactics against napoleon During this period Napoleon’s enemies, too, had learned and adapted their armies. The British experimented with light infantry from the 1790s, and in 1800 an experimental corps was set up armed with new rifled muskets, more accurate than the prevailing smooth-bores. The British favored line over column tactics and also paid more attention to logistics, not relying so consistenly on foraging, which, in the guerrilla-infested hills of Spain, had badly failed the French forces. In 1813 the Prussians created regiments of Jäger, volunteer riflemen, as a riposte to the French tirailleurs. Attrition, the exhaustion of French resources, British naval superiority—most notably demonstrated at Trafalgar (1805)—and Napoleon’s strategic greed led to his downfall in 1814, and his return from exile for the “Hundred Days” ended similarly in defeat at Waterloo in 1815.
+
+Battle of Wounded Knee marks end of Indian Wars Battle of Omdurman; Kitchener decisively defeats Mahdists in Sudan Allies capture Sevastopol, effectively ending Crimean War 1857–58 Indian Mutiny threatens British rule in India 1852–55 The Crimean War First use of a machine gun, at Battle of Seven Pines; first use of landmines Confederate commander Robert E. Lee surrenders at Appomattox, ending Civil War The Meiji restoration paves way for Japan’s modernization Confederate attack on Fort Sumter starts the American Civil War Battle of Balaclava; “Charge of the Light Brigade” Union victory at Gettysburg Austro- Prussian War Bessemer process allows economic production of high-quality steel 1870–71 Franco- Prussian War Alfred Krupp develops improved recoil system for field artillery Prussian victory at Sedan; Napoleon III overthrown
+
+technical advances The Congress of Vienna (1815) ensured no repetition of the revolutionary wars for several decades, and Europe relapsed into a sort of strategic slumber. Napoleonic drill and tactics were largely retained, but there were important technical advances, including the invention of the cylindro-conic bullet, which expanded on firing, gripping the rifling of the barrel more tightly, and doubled the effective range of firearms to around 440–650 yards (400–600 m).
+
+Adapted by Claude-Étienne Minié in 1849, the new rifles became the mainstays of European armies. The increasing firepower of troops, and the capacity of technologically advanced powers to produce large quantities of weapons that could be used even by raw conscripts, led to an increasing industrialization of warfare, in which it was the output of factories, the laying down of railroads, and strategic planning, rather than élan or tactical brilliance that delivered victories. The new technology saw its first real test in the Crimean War (1853–55), in which Britain and France invaded Russia to prevent the tsar from picking bare the bones of the decrepit Ottoman empire. At Inkerman in 1854, British Enfield rifled muskets slaughtered the Russians, who suffered 12,000 casualties to the allies’ 3,000. Yet the British neglected logistics this time—their supply base at Balaclava turned out to have a quayside of only 33 yards (30 m), and it was a 9-mile (15-km) journey to the front line. The campaign became bogged down in a bludgeoning siege of the fortress- city of Sevastopol, whose defensive trench networks presaged those of World War I.
+
+the american civil war The American Civil War (1861–66) saw the full flowering of industrialized warfare. It was the North, which had over 70 percent of the undivided pre-war Union’s population and almost all its industry—93 percent of pig- iron and 97 percent of firearms production —that possessed critical advantages from the outset. The South had brilliant generals, such as Robert E. Lee, and an army motivated by the desire to defend its way of life. Yet victories such as Bull Run (1861), and Fredericksburg (1862), and a near-run thing at Gettysburg (1863), amounted in the end to nothing.
+
+The Union commander Ulysses S. Grant realized that by cutting the Confederacy in two and destroying its fledgling industries and railroad system, its capacity to resist—no matter battlefield heroics—would be strangled.
+
+American Civil War soldiers could fire at a rate of five to six rounds per minute and extended lines proved more effective than the massed columns of Napoleonic warfare. Temporary earthwork entrenchments such as breastworks and rifle pits became more important, while the withering fire of Springfield rifled muskets meant that where infantry advanced unsupported in the open, as in “Pickett’s Charge” at Gettysburg, they were simply mown down.
+
+1866 winchester The 1866 model Winchester was known as the “Improved Henry” and could fire 30 rounds a minute, double that of its predecessors. It remained in production right up until 1898, at the time of the Spanish-American War.
+
+trench warfare The final stages of the American Civil War degenerated into a dogged campaign of entrenchment and siege.
+
+Here, Union soldiers wait in the trenches in front of the Confederate stronghold of Petersburg, Virginia.
+
+the prussian army In Europe, meanwhile, Prussia, under von Moltke—Chief of General Staff from 1858 —implemented a system of uniform education for all staff officers, and service in the army was extended to five years, so that by the late 1850s, the army had 504,000 troops (including reserves). The Prussians also invested heavily in railroads, laying down nearly 19,000 miles (30,000 km) by 1860. Their soldiers, moreover, were equipped with the Dreyse needle gun, a breech-loader which could be shot from a prone position, and which fired up to five times faster than muzzle-loaders. Although it was prone to misfire, the Dreyse gave the Prussians the edge on the battlefield and this, along with their superior planning, enabled them to win a crushing victory over the Austrians at Königgrätz in 1866, which freed Bismarck, the German Chancellor, to pursue his goal of a united German state.
+
+The attempts by French emperor Napoleon III to interfere with Bismarck’s ambitions led to the Franco-Prussian War (1870–71). The French were armed with the Chassepot rifle, a more reliable version of the Dreyse. The Prussians exploited their superior staff numbers to the full, and were able to deliver 380,000 men—in large part by train—rapidly to the frontier. They also possessed steel breech- loading cannons designed by Alfred Krupps, which had a range of up to 7,600 yards (7,000 m) and could devastate French formations as they formed up far from the battlefield. The French were outmaneuvered at a strategic level, and when their last operational field army was surrounded at Sedan (1871), its surrender spelled the end of Napoleon III’s rule and any effective opposition to Bismarck’s plans for Germany.
+
+the growth of european imperialism Once Bismarck had forged a united country after 1871, he turned to acquiring an overseas empire, beginning with modern Namibia, Togo, and Tanzania in the 1880s. The late
+
+boer picket It cost the British two years, the despatch of 450,000 men, and 22,000 dead to win the Boer War (1899–1902). The Boers, armed with lethally effective Mausers, won a series of victories such as Spion Kop (1900). Even when their field armies were finally defeated, it took unconventional British tactics such as the use of concentration camps to force the last groups of guerrillas to surrender.
+
+The French Revolution unleashed a political virus in Europe, with the notion that states should constitute the whole of a people or “nation.” Hence, France was the nation of the French and should include all of them. Multiethnic empires, such as those of the Austrian Habsburgs or the Ottoman Turks, were threatened with extinction as this idea found political and military expression. In 1848, a wave of nationalist revolts burst across Europe, sweeping a revolutionary government to power in Hungary and threatening to overturn the Prussian and French regimes. In 1861 nationalism contributed 19th century was the high-point of European imperialism, which developed a momentum of its own far beyond the need to protect trading posts or suppress native opposition. Many of the wars fought in the last half of the century were imperial, in which Western technological superiority and organization normally proved decisive. At Omdurman in the Sudan in 1898, Kitchener, the British commander, simply deployed his 25,000 men in tight formation, and when the opposing Mahdists charged, they were scythed down by his Maxim machine guns: the Sudanese lost up to 30,000 men for the loss of only 50 of the Anglo-Egyptian force.
+
+Non-European armies did, occasionally, emerge victorious. In 1896 the Italians were defeated at Adowa by an Ethiopian army armed with 100,000 rifles that the French governor of Somaliland had obligingly sold to them. Where native armies adopted guerrilla warfare, such as Samori Touré in West Africa in the 1880s and 1890s, European tactics struggled to overcome them. Eventually, however, even stubborn resistance was not enough. The Europeans or Americans had superior industrial and demographic resources, and could weather defeats their opponents could not.
+
+Germany’s victories in 1866 and 1870 led German statesmen and generals to believe that rapid deployment and the exploitation of technology should override all other concerns.
+
+At the end of the 19th century, European countries became embroiled in an arms race that was ruinously expensive and contributed to a chilling climate of mistrust in international diplomacy. The rapid growth of the German economy, unaccompanied by a corresponding increase in political sophistication, led to a dangerous alliance of economic power, nationalist agitation, and technological prowess, which, when a spark set it alight, would lead to the appalling carnage of World War I.
+
+nationalism to the unification of Italy—with Garibaldi (pictured here) playing a flamboyant role, and Germany in
+
+## 1867. Similarly, nationalist feelings contributed
+
+to the decay of the Ottoman Empire, from the Greek declaration of independence in 1821. All these movements appealed to a national ideal, inspiring a fervor that loyalty to a dynasty, or remote imperial power, had almost never been able to do.
+
+insurrection in 1861 at Palermo which led to the unification of italy
+
+the revolutionary world european swords by the time of the French Revolutionary (1789-1799) and Napoleonic Wars (1799-1815), cavalry edged weapons had evolved into the long, straight, thrusting sword of the heavy cavalry, and the light cavalry’s curved saber that was designed for cutting and slicing. For the infantry, swords were already well on their way to becoming ceremonial weapons, but such was their status that they continued to be used as symbols of rank, carried by officers and senior NCOs. Having lost their practical function, infantry swords became increasingly decorative, some even harking back to weapons of the classical era.
+
+model 1827 saber A copy of cavalry swords of the Napoleonic era, the Russian Model 1827 Cavalry Sabre had a slightly curved single-edged blade with a single wide fuller and a brass hilt. The twin langets were useful in firmly securing the sword to the scabbard, as well as acting as a trap to an opponent’s sword.
+
+date c.1827 origin russia weight 2¾ lb (1.22 kg)
+
+length 40¼ in (102 cm)
+
+full view full view 4 62–65 european swords          4 104–107 european infantry and cavalry swords          4 110–111 european rapiers          4 112–113 european smallswords Brass pommel and back piece Three-bar steel hilt Oval rivet to help secure tang to hilt Single-edged blade Single- edged blade Leather grip Upper quillon slightly curved toward blade 1853 Pattern cavalry sword Of fairly conventional construction, this weapon—the 1853 Pattern Cavalry Sword —would have equipped British heavy cavalry regiments in the Crimean War and during some of Britain’s subsequent colonial campaigns.
+
+date origin uk weight 2½ lb (1.13 kg)
+
+length 40 in (101.5 cm)
+
+Knuckle guard with two side branches 1775—1900 One of two langets fixed over cross-guard
+
+pioneer sword The hilt of this Russian sword is based on the French Model 1831 infantry sword. Both weapons reflect an interest in the classical world and clearly demonstrate the influence of the Roman gladius short sword. The all- brass hilt includes a simple cross-guard and a short wide blade with a single fuller.
+
+date origin germany weight 2½ lb (1.18 kg)
+
+length 25 in (63.5 cm)
+
+full view model an iv cavalry sword Known as the Model An IV (Year 4, after the French Revolutionary calendar) this sword equipped some French heavy cavalry and dragoons during the Napoleonic period. It has a long blade, which, like other French swords, was narrower than its British equivalent.
+
+date origin france weight 2½ lb (1.16 kg)
+
+length 44½ in (113 cm)
+
+heavy cavalry sword Based on Austrian designs, the stirrup- hilt British Heavy Cavalry Sword of 1796 equipped British heavy cavalry during the Napoleonic Wars. It received criticism for being unwieldy in action, although it was considered a forceful cutting sword.
+
+date origin uk weight 2½ lb (1.13 kg)
+
+length 40 in (101.5 cm)
+
+full view full view Leather-covered grip with steel back piece Brass hilt comprising pommel, grip, and cross-guard The brass hilt includes the symbol of the Fasces, a reference to Republican Rome Oval plate guard Straight quillons with circular finials Heavy blade with hatchet point Serrated edge for sawing wood Brass pommel cap Straight single-edged blade with two fullers Stirrup-hilt knuckle guard Rivet passing through tang and grip Long langets
+
+the revolutionary world 4 62–65 european swords          4 104–107 european infantry and cavalry swords 1775—1900 European swords Stirrup hilt Wood-lined steel scabbard 1796 light cavalry sword Considered to be among the finest of cutting swords, the 1796 Light Cavalry Sword was developed in tandem with the Heavy Cavalry Sword. The broadening of the blade near the tip gave greater power at the point of impact.
+
+date origin uk weight 2¼ lb (1 kg)
+
+length 38 in (96.5 cm)
+
+napoleonic infantry sword Carried by the ordinary foot soldier during the Napoleonic Wars, this infantry hanger, known as a “briquet,” has a simple, one-piece brass hilt and a curved steel blade. It was also issued to sailors.
+
+date early 19th century origin france weight 2 lb (0.9 kg)
+
+length 29 in (74 cm)
+
+Curved steel blade Integrated cross-guard grip and pommel cast in bronze Langet with Phrygian cap emblem—symbol of liberty in Revolutionary France Decorative knuckle guard Curved blade thicker at tip than hilt model 1804 naval cutlass The British Model 1804 cutlass—issued a year before Trafalgar—is a utilitarian, straight-bladed weapon with a double disc guard and a serrated iron handle, painted black to protect against corrosion.
+
+date c.1804 origin uk weight 3 lb (1.32 kg)
+
+length 33½ in (85.5 cm)
+
+Guard consisting of twin discs of thin iron, sometimes known as a “figure-of-eight” guard D-shaped langets Brass hilt Counter-guard quillon (too fragile to be effective)
+
+Forward-facing quillon flowing from knuckle guard
+
+pioneer sword The sword’s one-piece brass hilt is surmounted by a crowing rooster figure that acts as the pommel. The steel blade includes a serrated or sawback edge—found on pioneer swords—and is slightly curved with a point reminiscent of a falchion.
+
+date c.1800 origin france weight 2¾ lb (1.22 kg)
+
+length 32 in (81 cm)
+
+model an XIII sword A successor to the An IV sword, this weapon armed the French dragoons and heavy cavalry in the latter part of the Napoleonic Wars. The sword has a straight, single-edged blade with two prominent fullers running down its length.
+
+date origin france weight 7 lb (3.13 kg)
+
+length 44¼ in (112.5 cm)
+
+ceremonial cadet sword This ceremonial sword, designed by artist Jacques Louis David, followed the classical Roman model popular at the time, and was issued to students of the French military academy.
+
+date origin france weight 2 lb (0.90 kg)
+
+length 26½ in (67 cm)
+
+full view “Crowing cockerel” pommel Unsharpened, double-edged blade with blunt point Brass cross-guard with downward-curving quillons Knuckle guard with three additional branches Steel blade with double fullers full view Brass pommel cap full view Curved, single-edged steel blade with serrated edge
+
+the revolutionary world 4 180–183 european swords 1775–1900          3 220–221 great warriors: us civil war infantryman 1775—1900 american civil war Swords the armorers of the new US Republic followed patterns for swordmaking from a mixture of German, French, and British sources.
+
+But from the 1840s onward, US swords were based almost exclusively on French designs, and it was these swords that armed the soldiers of the American Civil War (1861–65). While the forces of the Union North were well supplied with arms and equipment, the Confederate armies of the South were short of weapons of all kinds, including swords.
+
+They were forced to rely on captured Union stocks, foreign sources, and their own home-produced weapons.
+
+Knuckle guard Leather grip wrapped in twisted brass wire Guard with the upper quillon swept forward full view Ricasso (unsharpened upper part of the sword)
+
+date c.1850 origin	 us weight	 2 lb (1.13 kg)
+
+length	 30 in (76.8 cm)
+
+model 1850 Infantry sword Edged weapons like this Model 1850 “Foot” Officer’s Sword equipped the majority of infantry officers on the Union side. By the time of the American Civil War, officers would rarely have used a sword in actual combat, but such was its potency that it continued to be worn throughout the 19th century as a symbol of rank.
+
+date c.1860 origin	 us weight	 3 lb (1.36 kg)
+
+length	 35 in (90 cm)
+
+model 1860 light cavalry saber The Model 1840 Light Cavalry Saber was a heavy, powerful sword whose weight made it unpopular with the troopers, who nicknamed it “Old Wrist Breaker.” Its replacement, the Model 1860 Light Cavalry Saber, was not considered much of an improvement, although it was an effective thrusting and hacking weapon.
+
+date c.1850 origin	 us weight	 2 lb (1.13 kg)
+
+length	 31 in (78.75 cm)
+
+model 1850 “foot” officer’s sword This sword would have equipped officers on both sides during the Civil War, and was very similar to the Model 1850 “Mounted” Field and Staff Officer’s Sword. Influenced by French patterns, this sword has a brass hilt and a grip made either from leather or the skin of a ray or shark—material which gave a very good grip. The single-edged blade is slightly curved.
+
+full view full view Guard branches Single-edged blade with sharpened “false edge” “False edge” Leather grip wrapped in twisted brass wire Engraved detail on brass hilt
+
+“foot” officer’s sword The artillery had its own distinctive swords. This Confederate artillery saber was made by Boyle, Gamble & McFee, who were based in Richmond, Virginia, and the blade dates from the 1820s.
+
+The sword was used by General William Miller of the 1st Florida Regiment.
+
+date c.1850 origin	 us weight	 3 lb (1.56 kg)
+
+length	 35 in (89 cm)
+
+Confederate Cavalry saber The Confederate States of America manufactured many thousands of swords based on both the 1840 and 1860 models of cavalry saber. Although an essential part of any cavalryman’s equipment, on the battlefield, the sword was being replaced by the carbine and revolver.
+
+Guard with forward- facing quillon Single-edged, slightly curved blade D-shaped single knuckle guard Brass basket hilt and guard Curved, single- edged blade Single-edged blade Knuckle guard Ricasso Swept-forward quillon full view full view date c.1850 origin	 us weight	 2 lb (1.13 kg)
+
+length	 30 in (76 cm)
+
+model 1850 infantry sword The Model 1850 “Foot” Officer’s Sword was not only a functional weapon of war, it was also an object of the finest craftsmanship, with intricate detail a feature of the hilt. The sword was carried by company grade officers in the infantry, and continued in service until the early 1870s when it was replaced by the Model 1860 sword.
+
+date c.1860 origin	 us weight	 2 lb (1.13 kg)
+
+length	 30 in (76.2 cm)
+
+confederate sword The subscription purchase of weapons for popular officers was a feature of military life, and this fine sword, made by Leech & Rigdon, was presented in 1864 to General D. W. Adams of the Confederate Army by the men under his command.
+
+full view full view Pommel cap Knuckle guard date c.1820 origin	 us weight	 2 lb (1.13 kg)
+
+length	 29 in (73.6 cm)
+
+Grip Guard with the upper quillon swept forward
+
+4 128–129 indian and sri lankan swords           3 188–189 chinese and tibetan swords          3 190–191 indian swords 1775—1900 the revolutionary world Ottoman empire Swords the ottoman empire, at its height from the 15th to the 17th century, was founded by Turks who migrated to Anatolia from central Asia. Their curved swords reflect these origins, being derived from the central Asian Turko-Mongolian saber of the 13th century. Europeans encountered these curved blades in wars with the Ottomans, and collectively termed them “scimitars.” Many of the swords shown here date from the 19th century, but they are typical of the Ottoman Empire at its peak. Similar weapons were used across the Islamic world, from North Africa to Persia and India.
+
+shamshir The form of saber known as a shamshir spread from Persia in the 16th century. Its blade had the curve of a kilij, but tapered to a point. It was a fearsome slashing weapon, whether used on foot or horseback. A horseman could also use the point to run an enemy foot soldier through.
+
+date early 19th century origin armenia weight 1½ lb (0.71 kg)
+
+length 37 in (94 cm)
+
+persian kilij Persian craftsmen were acknowledged masters of sword making. The kilij was first used in the Ottoman Empire in the 15th century. Over time, its blade showed many variations. This example has a deep curve cut away along its back edge, and flares into a yelman toward the point.
+
+date early 19th century origin persia weight 1¼ lb (0.6 kg)
+
+length 32 in (81 cm)
+
+Cross-guard terminates in finial Langet helps to attach blade to hilt more securely Intricate decoration at top of blade Grip decorated with precious stones Suspension ring Pistol-style grip Pistol-style hilt Deeply curved, tapering blade Ornate scabbard Cross-guard
+
+turkish saber This ornate Ottoman sword bears the name of the master swordsmith who made its blade: Haji Gafur. Swords in the Islamic world were frequently inscribed with prayers and texts from the Koran.
+
+date early 19th century origin turkey weight 1¾ lb (0.81 kg)
+
+length 38 in (96 cm)
+
+full view Ottoman Quama Called a kinjal in the Caucasus and a kama in Georgia, this style of short sword is also known as a “Cossack dagger.” This example, with its splendidly decorated hilt and scabbard, was designed to display its owner’s wealth and status.
+
+date 19th century origin turkey weight 1½ lb (0.7 kg)
+
+length 24 in (61 cm)
+
+Turkish yataghan A yataghan has a type of forward-curving blade known as a kopis blade, after the Ancient Greek sword of that name. The yataghan is allied to the Indian sosun pattah and the Nepalese kukhri.
+
+This late Ottoman example is identical in style to those used when the empire was at its height.
+
+The wooden scabbard is clad in leather.
+
+date mid-19th century origin turkey weight 1¼ lb (0.6 kg)
+
+length 29 in (74 cm)
+
+North African saif Saif is simply an Arabic word for sword. This example is from North Africa, part of the Ottoman Empire from the 16th century.
+
+Unlike a shamshir, it does not taper to a point, and the blade’s curve is shallow. The knuckle guard is made of four silver chains.
+
+date late 18th century origin north africa weight 1½ lb (0.7 kg)
+
+length 32¾ in (83.5 cm)
+
+Silver locket Gold inscription from the Koran Turqoise set into scabbard Narrow fuller on back of blade Wooden scabbard covered with sheet silver Silver-covered hilt Cut-away back of blade Silver-gilt hilt inlaid with coral and turqouise Double-edged blade Ornate jeweled scabbard Chape embossed with flowers and foliage Forward-curving blade
+
+date 17th century origin china weight 1¼ lb (0.52 kg)
+
+length 25¼ in (64 cm)
+
+chinese dao This short dao has a near-straight yanmaodao blade. Primarily a cavalry weapon, its single edge was used for slashing, and its point for running through. The blade was layered, in a similar fashion to Japanese swords. The core of hard steel, which was exposed at the cutting edge, was sandwiched between layers of softer steel.
+
+date 1572–1620 origin china weight 3 lb (1.35 kg)
+
+length 41½ in (105.7 cm)
+
+chinese dao Dating from the last century of the Ming dynasty, the single-edged, curved blade of this dao shows its affinity with Indian talwars and shamshirs, and with European sabers. The blade is of the form known as liuyedao (willow-leaf knife), with a longer, deeper curve than the yanmaodao (goose-quill knife), which can be seen below.
+
+date 1736–95 origin china weight 2¾ lb (1.25 kg)
+
+length 42¼ in (107.1 cm)
+
+chinese jian With its straight, double-edged blade, the jian was the weapon chosen by Chinese swordsmen to show off their skills. It was also worn by high officials and officers as part of their ceremonial regalia. This jian sword dates from the reign of emperor Qianlong, of the Manchu Qing dynasty.
+
+Disc-shaped guard Ring pommel for the chinese, the four major weapons of a fighting man were the staff, the spear, and two swords: the single-edged dao and the double-edged jian. While the straight-bladed jian was the more prestigious of the two sword types, the curved dao was more practical and easier to use. As in Europe, by the 19th century swords in China were becoming primarily ceremonial items. The military tradition of Tibet is often forgotten, but the Tibetans fought many wars and developed their own significant tradition of sword manufacture, which was loosely related to Chinese models.
+
+Ivory grip full view Pommel attached to tang of blade 4 66–67 japanese and chinese swords          4 120–123 japanese samurai swords          4 128–129 indian and sri lankan swords          3 190–191 indian swords the revolutionary world 1775—1900 Lacquered scabbard Lobed quillon block Curved hilt Softer-steel back of blade chinese and tibetan swords Gilded collar One- or two-handed grip Blade has diamond section, peaking at a ridge on each face Guards with quillons
+
+date 18th century origin tibet weight 2 lb (0.95 kg)
+
+length 39¾ in (101 cm)
+
+Tibetan sword The long blade of this Tibetan sword exhibits elaborate swirled patterns of mixed steels on both faces. This was a weapon for a high-status individual, evidenced by the highly decorated pommel and the grip wrapped in silver wire.
+
+date 19th century origin tibet weight 2¼ lb (1 kg)
+
+length 38½ in (98 cm)
+
+TIBETAN sword A large and elaborate sword with a poor quality blade, this was undoubtedly intended primarily for ceremonial use. The scabbard—which is made of wood and covered in brown leather—is finely decorated with silver, gilding, and coral.
+
+date 19th century origin china weight 2¼ lb (1 kg)
+
+length 30¾ in (77.8 cm)
+
+chinese jian In the 19th century, the declining Qing Empire was obsessed with developing firearms to match those of Europe. Though somewhat neglected, swords continued in use as weapons and ceremonial arms. This sword has the diamond profile of the traditional jian blade.
+
+Central ridge Straight, single- edged, mixed-steel blade Blade decorated with silver inlay Leather strap Iron guard Blade’s single cutting edge is irregular and crudely angled Trilobed pommel Embossed gilded panel Blade ends in rounded point Silver-sheet quillon block Hard-steel edge Blade broadens toward tip Coral bead Lobed pommel with turquoise bead Cutting edge Scabbard with embossed gilded panels
+
+the revolutionary world 4 120–123 japanese samurai swords          4 128–129 indian and sri lankan swords          4 186–187 ottoman empire swords          4 188–189 chinese and tibetan swords 1775—1900
+
+## INDIAN
+
+swords during the late 18th and early 19th centuries, the British East India Company extended its control over most of India, paving the way for the establishment of the British Raj. These political changes had limited impact upon Indian swordsmiths, who continued to produce swords in a great diversity of forms.
+
+These included not only mainstream swords in the Muslim and Hindu traditions, chiefly forms of talwar and khanda, made for the Indian princely courts that survived under British suzerainty, but also many regional or tribal variants—some distinctly strange to Western eyes.
+
+British officers often took swords home with them as souvenirs, many of which have ended up in museums.
+
+Large gilded langet khanda Influenced by the Hindu Maratha culture, this khanda has a straight, watered-steel blade that widens toward the tip. As is common in khandas of this period, the light, elastic blade is stiffened by reinforcements that run two- thirds of the length of one edge and a short way up the other.
+
+date 19th century origin india weight 2¾ lb (1.3 kg)
+
+length 39 in (99.3 cm)
+
+Embroidered wrist strap Dish-shaped pommel Long pommel spike Single cutting edge Reinforcement decorated with floral pattern date 19th century origin india weight 2¾ lb (1.3 kg)
+
+length 24½ in (62.1 cm)
+
+vechevoral The Indian subcontinent abounded in varieties of cutting implements for warfare and general agricultural use. This ornate vechevoral has a handle of wood and ivory, and a sickle-shaped blade with a concave cutting edge and a band of brass and decorative scrolling along the back.
+
+Bass rosette on ricasso Cutting edge Chape decorated in gold koftgari
+
+## FULL VIEW
+
+Guard lined with velvet Velvet-covered wooden scabbard Hindu-style gilded basket hilt
+
+Reeded copper band hilt detail The iron hilt is exquisitely decorated with gold koftgari overlay, with leaf-fronds arranged in a scalelike pattern. The grip is lozenge- shaped in cross-section and made of a single piece with the quillons and langets; a dish pommel and knucklebow are attached.
+
+See detail Fuller Tubular leather- covered grip Horn pommel section Last third of blade is double-edged Double-edged, diamond-sectioned blade Wooden collar with tuft of black hair Iron hilt decorated with silver inlay date 18th century origin india weight 2½ lb (1.1 kg)
+
+length 37¼ in (94.9 cm)
+
+talwar The blade inscription of this talwar suggests that it was made for one of the Nizams of Hyderabad, Muslim princes who ruled part of northern India from 1724 to 1948. The blade is unadorned; the hilt has fine traditional Indo-Muslim decoration.
+
+date 19th century origin india weight 2¼ lb (1.05 kg)
+
+length 34¼ in (87 cm)
+
+sosun pattah A traditional form of Indian sword, a sosun pattah has a forward-curving blade—the reverse of, for example, the curve of a talwar. Swords known as sosun pattah exist in both Islamic and Hindu variants. This one has an Indo-Muslim-style hilt.
+
+date 19th century origin india weight 2¼ lb (1.05 kg)
+
+length 32 in (81.1 cm)
+
+assamese dao The swords, or daos, made by the metal workers of Assam’s Naga people were versatile implements used for both cutting wood and combat. The owner would have fitted his own wooden handle to the tang, probably decorated with goat hair.
+
+date 19th century origin india weight 2¼ lb (1.05 kg)
+
+length 28 in (71 cm)
+
+executioner’s sword By the 1800s the ruler of Oudh in northern India was under the effective control of the British, but executions were still an area in which he could assert his status. This heavy blade, bearing the ruler’s arms, would have severed a neck at a blow.
+
+Forward-curving blade Medial fuller V-shaped mouth Tapering wooden grip Tang Wooden cross-guard Ricasso Flat tip ends in central point
+
+the revolutionary world 4 68–69 european daggers          4 130–133 european daggers          4 134–135 asian daggers 1775—1900 Iron blade tapers to a point Forward-angled blade Central ridge and grooves nepalese kukri With its wooden handle, broad, angled blade, and notch or cho, this is a typical example of the Nepalese Gurkhas’ kukri.
+
+The cho has religious significance as the symbol of the destructive Hindu god Shiva. The quality of the sheath suggests this was the property of a wealthy man.
+
+date c.1900 origin nepal weight 1 lb (0.48 kg)
+
+length 17½ in (44.5 cm)
+
+indian double-edged knife Made in Vijayanagar, this knife has a typically sinuous Indian blade. The hilt is skilfully shaped to fit the hand and fingers, giving a firm and comfortable grip. The blade thickens into a diamond shape behind the tapering point.
+
+date 19th century origin india weight 1¾ lb (0.83 kg)
+
+length 20 in (51 cm)
+
+Cutting edge Notch at base of blade has religious significance Sheath Turquoise gemstone the indian subcontinent is the source of some of the world’s most effective and original melee weapons. These include a range of fearsome sharp-pointed knives with double-curved blades and various forms of fist dagger, which allowed the user to deliver a stabbing blow to an enemy with a punching movement. Parrying sticks were a feature that Indian armies had in common with African tribal forces. Nepal made its contribution with the very effective kukri, an implement with many practical non-military uses, as well its role as the weapon carried by all Nepalese Gurkhas.
+
+Indian and Nepalese daggers Steel parrying stick Ivory hilt Silver decoration
+
+Double-curved steel blade Dagger blade Indian bich’hwa The name of this dagger derives from bichwa—a scorpion—whose deadly sting the blade is presumed to resemble. The four bagh nakh or tiger’s claws, attached to the steel rings on the handle, offer an alternative mode of attack.
+
+date c.1900 origin india weight ½ lb (0.3 kg)
+
+length 12 in (30.5 cm)
+
+Steel ring with claw Central grip Bowed hand guard Buck horn Steel head Diamond cross-section at point Indian parrying weapon This weapon combines a steel parrying stick for defense and a fist dagger for attack. Holding the grip with knuckles toward the dagger, a man could fend off blows, using the stick as a shield, and deliver punching stabs with the dagger.
+
+date c.1900 origin india weight 1¾ lb (0.82 kg)
+
+length 18½ in (47 cm)
+
+buck-horn parrying stick Known as a madu or maru, this parrying weapon from Mysore is made from two antelope horns riveted together, with a space between for the fingers. It could act as a shield against missiles and blows, and steel heads on the horn tips make it a potentially dangerous offensive weapon as well.
+
+date late 18th century origin india weight ½ lb (0.2 kg)
+
+length 18½ in (47.3 cm)
+
+Indian pichangatti This broad-bladed knife is notable for its silver hilt and striking pommel—the parrot’s eyes are uncut red stones.
+
+Attached by a chain to the scabbard are five implements for cleaning the ears and nails. The knife was brought to Britain by an army officer as a memento of the Indian Mutiny.
+
+date 19th century origin india weight ½ lb (0.28 kg)
+
+length 12 in (30.6 cm)
+
+Broad blade Wood and silver scabbard Parrot-head pommel Cleaning implements Finger grip
+
+3 284–285 bayonets and knives 1914–1945 1775—1900 european and american bayonets the sword bayonet with its long blade, became increasingly popular in the 19th century, replacing the hanger sword and socket bayonet of the ordinary infantryman. But the 19th century also saw the development of mass-produced, long- range firepower that rendered the bayonet irrelevant as a military weapon. Despite this, armies continued to place great emphasis on the bayonet, not least because it was believed to encourage an aggressive, offensive spirit among the infantry. It was this attitude that, in part, led to the mass slaughters of 1914, where soldiers, with bayonets fixed, were pitted against quick-firing artillery and machine guns.
+
+date origin uk weight 1¾ lb (0.50 kg)
+
+length 30½ in (77.5 cm)
+
+volunteer infantry sword bayonet During the Napoleonic Wars, the regular British Army was equipped with the Baker rifle and its sword bayonet; volunteer units, however, had to draw upon other sources for their rifles and bayonets. This sword bayonet was made for the London gunmaker Staudenmayer and features a gilded hilt and straight steel blade. Its use of the knuckle grip to lock the rifle to the bayonet proved less effective than the mortise slot and muzzle ring of the Baker rifle/bayonet, and it was this latter system that continued to set the pattern for most bayonet attachments.
+
+date 1866–74 origin france weight 1¾ lb (0.76 kg)
+
+length 27½ in (70 cm)
+
+chassepot bayonet This bayonet was designed for the famous Chassepot breech-loading rifle that armed the French during the Franco-Prussian War of 1870–71, and which continued in service until the arrival of the 1874 model.
+
+The distinctive “Yataghan” recurved blade influenced designs throughout Europe and the United States.
+
+date mid 19th century origin france weight 1¾ lb (0.79 kg)
+
+length 45½ in (115.5 cm)
+
+sword bayonet This French sword bayonet is unusual in having a basket hilt that was usually associated with a cavalry sword. The long, narrow blade has twin fullers running down the length of the blade to strengthen it.
+
+Socket bayonet charge Prussian troops (left) attack French lines during a battle in the Napoleonic Wars, August 27, 1813.
+
+The bayonet charge was much beloved of military painters of the 19th century, although they were rare occurrences in practice.
+
+Steel cross-guard with curved “blade-breaker” quillon Knuckle guard Leather grip Straight quillon Muzzle ring with fore sight slot Brass pommel with press stud Hilt comprising D-ring and two branches Muzzle ring Twin fullers Locking-bolt spring Tang stud Muzzle ring with locking screw Brass handle Mortise slot Elbow Locking ring the revolutionary world
+
+date 1870s origin uk weight 1½ lb (0.65 kg)
+
+length 25 in (64 cm)
+
+elcho bayonet While the Martini-Henry rifle was undergoing acceptance trials for the British Army, Lord Elcho, in a private initiative, submitted this bayonet to go with the firearm. Elcho extended the bayonet’s range of tasks to include those of hacking down brush and sawing wood.
+
+date late 19th century origin us weight 1 lb (0.50 kg)
+
+length 14½ in (36.8 cm)
+
+trowel bayonet Designed to fit over the muzzle of the US 1873 “Trapdoor” Springfield rifle, this ingenious implement was intended as an entrenching or general digging tool, although it could also be used as a very broad-bladed bayonet.
+
+Constructed from metal, it has a blued finish.
+
+date 1870s origin uk weight 1½ lb (0.64 kg)
+
+length 25 in (64.2 cm)
+
+later elcho bayonet Despite initial success—and the arming of some infantry units—the Elcho bayonet was not taken up as an official model, being considered too expensive and too ungainly. Even this model with a more conventional blade failed to persuade the authorities in its favor.
+
+date c.1876 origin uk weight 1 lb (0.45 kg)
+
+length 25¼ in (64 cm)
+
+martini-henry socket bayonet Lighter, cheaper, and as efficient as a sword bayonet, socket bayonets were issued for use with the Martini-Henry rifle (although senior NCOs were allowed their more prestigious sword bayonets).
+
+They were attached to the barrel muzzle and held in place with a mortise slot and locking ring.
+
+full view Steel single-edged blade with wide fuller Steel pommel Locking-bolt spring Steel cross-guard with muzzle ring (top)
+
+Serrated edge for sawing wood Broadening of last third of blade for chopping purposes Steel pommel Locking-bolt spring Steel cross-guard with muzzle ring (top)
+
+Serrated edge for sawing wood Conventional bayonet blade Fuller Long triangular-section blade Locking collar incorporating bridge and mortise slot Trowel blade
+
+the revolutionary world 4 72–73 european staff weapons          4 74–75 asian staff weapons          4 142–143 indian and sri lankan staff weapons 1775 — 1900 Iron shaft bhuj The knife-like battle-ax known as a bhuj was used from earliest times in tribal India and adopted by Hindu and Muslim armies. It is often called an “elephant’s head” because of the characteristic decoration between shaft and blade.
+
+date 19th century origin india weight 2lb (0.87kg)
+
+length 27¾in (70.4cm)
+
+the domination of india by British forces in the late 18th and 19th centuries, armed at first with muskets and later with rifles, rendered staff weapons increasingly obsolete on the subcontinent. To be effective, Indian armies had to deploy artillery and firearms. Traditional varieties of battle-ax and mace continued to be found in the armouries of Hindu and Muslim princes, and among the weaponry of tribal peoples. Many of these weapons were more ceremonial than practical, their elaborate decoration being an indicator of their owner’s wealth and status. They also proved attractive to European collectors of exotic weaponry.
+
+two-pointed tongi The two-pointed steel head of this ax, or tongi, bears traces of punched decorations but is otherwise unadorned.
+
+The nature of the head reflects an abiding Indian attraction toward elaborately shaped weaponry.
+
+date 19th century origin india weight 1½lb(0.7kg )
+
+length 33½in (85cm)
+
+four-pointed tongi Broadly similar to the two-pointed axe above, this tongi has a steel head that diverges into four points. This is a basic and functional weapon, possibly used by a member of the Dravidian Khond tribes.
+
+date 19th century origin india weight 0.5kg (1lb)
+
+length 95cm (37½in)
+
+ankus This ankus, or elephant goad, is of traditional form, with the spike and hook designed for controling the animal by pressure on the hide.
+
+The goad is so splendidly decorated, however, that it was probably intended for display rather than for practical use, being carried in a similar manner to a ceremonial mace.
+
+date mid-19th century origin india weight 1¼lb (0.59kg)
+
+length 14½in (37cm)
+
+Hollow shaft conceals a screw-in dagger attached to the pommel Bifurcated head Four-pointed blade Brass elephant’s-head decoration indian staff weapons Gilded brass pommel unscrews to reveal a hidden blade Heavy, two-edged blade Wooden shaft reinforced by bands and a copper strip Metal shaft Shaft of polished wood Decoration shows long- tongued beast emerging from tiger’s mouth Silver and gold inlay
+
+Fine grey-steel blade Steel hook, or fluke tabar The carved wooden shaft of this battle-ax, or tabar, is covered in green velvet at the grip and tipped with carved ivory at each end. The broad steel blade would have been effective in combat, but the fine decoration suggests that display was its prime function.
+
+date early 19th century origin india weight 1½lb (0.7kg)
+
+length 24¾in (65cm)
+
+Curved stem
+
+## FULL VIEW
+
+Ivory terminal in shape of lotus flower Quadrangular top spike Spikes are arranged in seven horizontal bands Symmetrical decoration of animals and foliage Spike Shaft decorated with scale patern
+
+## FULL VIEW
+
+spiked mace Bearing 118 individual spikes, this mace would have delivered a devastating blow to an opponent.
+
+This particular mace is a Maratha weapon. The Marathas’ greatest triumph was the victory over the forces of the British East India Company at Wadgaon in 1779.
+
+date 18th century origin india weight 5¾lb (2.66kg)
+
+length 30¼in (76.9cm)
+
+Floral engraving Band of gilded leaf decoration
+
+at the end of the 18th century Europeans were an influence only at the coastal margins of Africa. African states and tribal societies carried on traditional forms of warfare, despite the presence of imported firearms.
+
+By 1900 European colonial powers had carved up the continent between them, but even then most Africans were still largely unaffected by European ideas and technology. Traditional forms of weaponry were being made well into the 20th century, with African metalworkers displaying their skills in the forging of blades and heads for missile weapons.
+
+african edged weapons Club head in form of animal head date c.1900 origin dem. rep. of congo weight 3 lb (1.35 kg)
+
+length 16¾ in (42.8 cm)
+
+congolese ax This is a ceremonial ax of a kind often carried by chiefs of the Songye people of southeastern Congo. The axes were made by the Nsapo subgroup, who were skilled at working iron and copper.
+
+Metal collar Patterned metal blade Openwork iron blade Copper-sheathed handle rival tribes in ethiopia This European engraver’s impression of tribes at war in southern Ethiopia was not based on any first-hand knowledge of their weaponry or fighting techniques.
+
+The sword has the look of an Islamic scimitar.
+
+the revolutionary world 3 202–203 oceanian clubs and daggers          3 280–283 african edged weapons 1900–2006 1775—1900 Shaped metal eye
+
+african spears In tribal warfare, spears were almost always used as missile weapons, thrown in skirmishes where warriors avoided close combat. They might serve to finish off enemies wounded by arrows and unable to flee.
+
+date bottom: c.1900 origin africa weight 1 lb (0.45 kg)
+
+length 48 in (122 cm)
+
+sudanese arrows Tribal warfare in Sudan consisted of rushing forward to discharge arrows at the enemy from some 165 ft (50 m)
+
+range, then retreating to avoid arrows fired in reply. The multiple barbs on the arrowheads made them very difficult to extract from a wound.
+
+fighting pick This unusual fighting pick from West Africa has a barbed metal point with a tang inserted into a wooden shaft. The roughened skin of a monitor lizard has been used to improve the grip on the handle.
+
+date c. 1900 origin ghana weight 1½ lb (0.65 kg)
+
+length 20 in (51 cm)
+
+full view Lizard-skin grip Shaft wrapped in woven wire ax club This decorative, highly-polished ax club was probably made in the West African kingdom of Dahomey. The weapon’s metal blade is blunt, perhaps because it was for ceremonial use. A powerful slave-trading state during the 18th and 19th centuries, Dahomey was conquered by France in the 1890s.
+
+date c.1900 origin dahomey weight ¾ lb (0.39 kg)
+
+length 17¾ in (45 cm)
+
+Polished wooden handle Covering of hide Barbed metal point Iron binding Iron barb Leaf-shaped blade Cane shaft Multi-barbed arrowhead date top: c.1900 origin sudan weight 2½ lb (1.15 kg)
+
+length 105 in (267 cm)
+
+date top: c.1900 origin sudan weight 1 oz (28 g)
+
+length 24 in (61 cm)
+
+date bottom: c.1900 origin sudan weight 1 oz (28 g)
+
+length 26 in (66 cm)
+
+Wooden handle Tapering copper spearhead
+
+british officers meeting with chiefs under Shaka in 1824 Range of clubs Heavy broad-bladed stabbing spear Iziku necklaces —the Zulu equivalent of war medals Physical prowess Young Zulu warriors were extremely fit and hardy. When at war, they were expected to travel barefoot at around 20 miles (32 km) a day, twice the speed achieved by the British Army at that time.
+
+zulu warrior the zulu of southern Africa, were transformed into a formidable military force under paramount chief Shaka from 1816 to 1828. Victories over neighboring peoples created an extensive Zulu empire that came into conflict with European settlers. Defeat by the British in 1879 brought Zulu ascendancy to an end, but not before allowing the Zulu warriors to display their fighting qualities against a modern European army.
+
+Broad-bladed stabbing spear Each regiment had its own unique identifying feature —either headress or jewelry dISCIPLINED FIGHTERS The Zulu military system was based on the close bonding of unmarried men grouped by age.
+
+Brought together in a barracks when around 18 to 20 years old, they developed a strong identity as a “regiment” marked by a distinctive color of shield and details of ceremonial furs and feathers.
+
+They remained in service until the age of 40, when they were allowed to retire and marry. The Zulu warrior’s main equipment was the heavy stabbing spear and large cowhide shield. Zulu also carried throwing spears, clubs, and latterly firearms—although these they used poorly.
+
+Moving barefoot across country without supplies, foraging for food, their army was preceded by scouts and skirmishers who provided intelligence and masked their movements. Their attack formation consisted of an encircling movement from both flanks—the “horns”—a “chest” directly confronting the enemy center, and a reserve force in the rear, the “loins.” Warriors advanced toward the enemy in loose order at a steady jog, taking full advantage of any cover. Once within range, they would loose their throwing spears or a volley from their firearms and then make a last rapid dash upon the enemy position, armed with stabbing spear and shield. If successful, they always sought to slaughter their enemy to the last man, taking no prisoners. Despite the use of magic potions to guarantee their safety, the Zulu were unable for long to sustain the heavy losses inflicted by British breech-loading rifles.
+
+shaka Paramount chief Shaka (1787– 1828) transformed Zulu warriors into a potent military machine.
+
+Before his day, warfare was conducted through the largely ineffectual use of throwing spears and ritual combat between individual warriors.
+
+Shaka initiated war to the death. In ten years, through a series of exterminatory campaigns known as the mfecane (“crushing”), he created a large empire, killing possibly as many as 2 million in the process. His cruelty was also turned upon his own people, with thousands killed in mass executions.
+
+Shaka was assassinated by his half-brothers in 1828, but the empire he had created lasted another half century.
+
+the revolutionary world
+
+Battle of Isandhlwana The Zulus’ most impressive victory over the British occurred at Isandhlwana in January 1879. The British force, over 1,600 strong, was overtaken by a surprise Zulu attack at 8 a.m., although the Zulu also suffered heavy losses. Six whole companies of the British 24th Foot Regiment totaling 602 men, later known as the South Wales Borderers, were wiped out to a man.
+
+decorated club stabbing spear Dressed to kill A Zulu warrior’s war dress was a stripped-down version of the full regalia worn for tribal ceremonies, but could still make elaborate use of cow’s tails and feathers.
+
+This warrior carries a selection of throwing spears as well as his principal weapon, the large-bladed stabbing spear.
+
+cowhide shield tools of combat great warriors we killed every white man left in the camp and the horses and cattle too.” “ zulu warrior gumpega kwabe on massacre of british at ntombe river, march 1879
+
+the revolutionary world 4 82–83 aztec weapons and shields          3 204–205 north american knives and clubs          3 272–273 oceanian shields
+
+1775—1900 date 19th century origin tonga weight 2¾ lb (1.3 kg)
+
+length 32¼ in (82 cm)
+
+tongan club This heavy club from Tonga is carved along its length with geometric patterns, human figures, animals, and fish. Holding the handle with both hands, a warrior could bring the diamond-shaped head down on an enemy’s skull in a crushing blow. The sharp corners would have been very effective on focusing the mass of the weapon at its point of impact.
+
+date 19th century origin polynesia weight 3¼ lb (1.5 kg)
+
+length 30½ in (77.5 cm)
+
+polynesian “cutlass” The shape of this weapon, either a club or a cleaver, is most unusual, perhaps modeled on the cutlasses that were carried by European sailors. The Polynesian craftsman has blended that exotic shape with intricate indigenous carving—triangular sections and geometric motifs—that covers the head of the weapon.
+
+date 19th century origin vanuatu weight 1¼ lb (0.6 kg)
+
+length 32 in (82 cm)
+
+melanesian club This highly polished wooden club comes from one of the islands of Vanuatu. It has a stylized human face carved on each side of the head, a form of decoration that is quite frequently found on clubs in various parts of Oceania. The eyes are picked out with red beads and white shells. The club’s cylindrical handle, ending in a circular butt, is quite long, but overall the club is relatively light in weight.
+
+Head of club broadens into diamond shape Plain wooden handle Oceanian clubs and daggers the polynesians and other peoples who occupied the islands of the Pacific before the arrival of Europeans in the 17th century, were much given to warfare. They engaged in forms of combat ranging from revenge raids and ritualized skirmishing, to wars of conquest and extermination. Their weaponry was limited, consisting largely of wooden clubs, cleavers, daggers, and spears, sometimes edged with sharpened bone, shell, coral, stone, or obsidian. Weapons were intricately decorated, and often held as objects of religious significance and valued as heirlooms.
+
+Pommel carved with human faces Club swells to spatula shape Cylindrical handle Carved geometric design Patterned handle full view full view
+
+date c.1860 origin new zealand weight ¾ lb (0.31 kg)
+
+length 14½ in (37 cm)
+
+maori patuki The Maori, Polynesians who colonized New Zealand around 1000 BCE, were among the most warlike of Pacific peoples. This two-edged club, known as a patuki, comes from New Zealand’s North Island and may have been taken as plunder by the British after their victory in the Maori War of 1860–69. It is decorated with iridescent haliotis shells, as well as elaborate carvings.
+
+Remains of wooden shaft date c.1900 origin papua new guinea weight 2 oz (60 g)
+
+length 11 in (28 cm)
+
+dagger with obsidian blade This dagger is from the Admiralty Islands, off New Guinea, where the volcanic glass obsidian occurs naturally. The Melanesians discovered how to flake obsidian to a razor- sharp edge. The blade of this dagger is flat on one side and raised to a ridge on the other. The pointed wooden handle is decorated with designs characteristic of this region.
+
+date c.1900 origin papua new guinea weight ½ lb (0.22 kg)
+
+length 15 in (38 cm)
+
+obsidian spearhead Like the dagger above, this spear was made by the Melanesian people of the Admiralty Islands. The obsidian has been flaked to make a spearhead with sharp edges and a point. The head is flat on one side and ridged on the other. Only part of the ocher-painted, decorated wooden shaft remains. It is fixed to the obsidian head with resin.
+
+Handle painted with red ocher Carved human figure Haliotis shell Head carved with geometric motifs Decorative carving Face carved into head of club Obsidian blade flaked to a point Characteristic local design Central ridge on obsidian spearhead Red bead and shell
+
+the revolutionary world 4 82–83 aztec weapons and shields          4 202–203 oceanian clubs and daggers            3 208–209 north american hunting bows 1775—1900 north american knives and clubs although wood and stone implements remained in use, by the late 18th century Native Americans were employing edged weapons with metal blades or heads. They were major purchasers of European and Euro-American manufactured edged tools and weapons, which they often customized with decorative motifs. Most of the items shown here were not primarily designed for combat, having a range of practical or symbolic uses.
+
+date c.1900 origin	 us weight	 ½ lb (0.3 kg)
+
+length	 16 in (41 cm)
+
+Knife and Rawhide sheath This knife was constructed by attaching a wooden handle to the head of a lance or spear—a common weapon for a Native American warrior. The rawhide sheath, finely stitched with beadwork, was probably used with this knife, but not specifically made for it, hence the difference in shape.
+
+Wooden handle covered with red cloth Spearhead made into knife blade Beaded knife sheath with metal jingles Single-edged iron blade Handle of animal horn Deerskin sheath date 19th century origin us weight 1¼ lb (0.56 kg)
+
+Length 15 in (38 cm)
+
+trade knife and sheath Many thousands of European-made knives were traded with Native Americans, mostly in exchange for furs.
+
+This iron blade, attached to a shaped handle, was a far more effective tool than traditional stone implements.
+
+The deerskin sheath has been stitched using softened and dyed porcupine quills. The decorative tassels hang on one side of the sheath only, indicating that it would have been worn on the left side of the body.
+
+date 19th century origin us weight 1 lb (0.5 kg)
+
+Length 19½ in (50 cm)
+
+tlingit fighting knife The Tlingit people of the northwest Pacific coast were skilled metalworkers, producing good-quality copper and iron blades. The handle of this knife is wrapped in leather and topped with a fine totem carving, which is inlaid with abalone shell. Fighting in close combat, the Tlingit warrior would wrap the loose leather strap around his wrist to ensure a secure hold upon the weapon.
+
+date c.1890 origin us pipe tomahawk The idea of combining a peace pipe and a war axe was dreamed up by Euro-American traders, but taken on by Native Americans with enthusiasm. They bought large numbers, making them a part of their culture. Pipe tomahawks were carried by Native American chiefs as symbols of prestige, and exchanged as diplomatic gifts.
+
+Iron tobacco bowl Shaped rock forms club head date 19th century origin us haida club Living on islands off the northwest coast of North America, the Haida people fished from canoes. This wooden club, showing a stylized fish, would have been used in halibut fishing.
+
+Halibut weighing around 400 lb (180 kg) were caught by setting hooks close to the ocean bed. Once hauled to the surface, they had to be stunned immediately with clubs, before their struggles upset the canoe.
+
+Cutting edge of blade Stylized fish carving Totem figure of raven on bear’s head Heavy iron blade Leather strap lashes handle to wrist in combat Rock is lashed to the handle Carved wooden shaft date 19th century origin us penobscot stone club The Penobscot Indian nation lives in Maine. Speaking an Algonquin language, they sided with the American rebels against the British and the Algonquins’ traditional enemies, the Iroquois, in the Revolutionary War of 1775–83. This stone club would typically have been used to finish off a wounded moose or deer, which had been brought down by an arrow or spear.
+
+Club handle
+
+Little bighorn Both bows and arrows and firearms (traded with the English) were used by the Native Americans in battle. Amos Bad Heart Buffalo (1869– 1913), the artist who painted this picture, was a Native American warrior who joined the US army and made over 400 illustrations of his people.
+
+the revolutionary world 4 78–79 longbows and crossbows          4 80–81 weapon showcase: crossbow          4 146–147 asian bows 1775—1900 date c.1900 origin us quiver and bowcase Plains Indians, who often fought and hunted on horseback, carried their bow and arrows in a combined quiver and bowcase.
+
+Made of animal hide, it was slung across the rider’s back, suspended on a strap. The quiver carried about 20 arrows, traditionally tipped with stone but later, under European influence, with iron.
+
+date c.1900 origin us length bow 5 ft (1.5 m)
+
+thompson bow and arrows The Thompson are a plateau people of the northwest United States.
+
+This set of maplewood bow and unfletched arrows was specially made for ceremonial use. For a four-day period after the death of a tribe member, the arrows were shot at a rush figure of a deer suspended from a hut roof. The bow and arrows were never used again.
+
+Glass bead decoration bows were among the most important weapons of the native peoples of North America, for hunting, warfare, and ceremonial use. They were “backed bows”—simple bows reinforced with sinew on the side facing away from the archer. The basic material was wood, although in some parts, horn or bone predominated. Arrows often had detachable foreshafts, which would stay embedded in the prey when the hunter pulled the shaft away. Unlike the longbowmen of Agincourt, who drew their bows with fingers on either side of the arrow, skilled North American Indian hunters used two fingers beneath the arrow to pull the string.
+
+north american hunting bows date c.1900 origin us length bow 5 ft (1.5 m)
+
+hopi bow and arrows The Hopi are Pueblo Indians living in northern Arizona. They used bows and arrows as part of their rich ceremonial life, especially as ritual gifts, as well as for hunting and war. Their arrows were traditionally tipped with shaped stone. The bow is reinforced with strips of sinew glued to the back.
+
+Long flights Ceremonial bow Hide quiver Bow of mountain maplewood Bark bowstring Rosewood arrow Bow of twisted buffalo sinew Wooden bow reinforced with sinew Bowcase Carrying strap
+
+date c.1900 origin	 canada length bow 5 ft (1.5 m)
+
+southampton inuit bow and arrow Unlike peoples further south, the Inuit did not glue strips of sinew to the backs of their bows. Instead they lashed a cable of sinew cordage to the bow, as in this example made by the Southampton Inuit of Hudson Bay. The arrow has a detachable foreshaft.
+
+The Buffalo Hunter A Plains Indian races a fleeing bison, aiming to shoot his arrow from point- blank range. The bows were mostly short—at most 3 ft (1 m) in length—for ease of use on horseback. American soldiers who fought the Indians in the Plains Wars (1860s–80s) testified to the accuracy and power of their shots, which were more effective than their erratic use of firearms.
+
+date 19th century origin	 canada length bow 5 ft (1.5 m)
+
+copper inuit bow and arrow The Inuit peoples of the Arctic used bows to hunt caribou and other game. This bow and arrow were made by the Copper Inuit of northwest Canada.
+
+As their name suggests, they made frequent use of copper, here employed for the arrow tip. Sinew cordage reinforces the back of the bow.
+
+date c.1900 origin	 us length	 7¼ in (18.5 cm)
+
+horn arrow straightener Shafts for arrows were made from straight saplings which, once cut, were allowed to season before being trimmed of their bark and smoothed. The shafts were then greased with rendered fat and heated before being passed through an arrow straightener.
+
+## FULL VIEW
+
+Bone foreshaft Bone foreshaft Strips of sinew lash foreshaft to shaft Sinew cordage Bowstring made of twisted sinew Sinew cordage backing for bow Feather flight Hole for arrow Goat horn Sinew binding Arrow shaft Grip of hide strips Nock
+
+the revolutionary world 4 82–83 aztec weapons and shields          3 270–271 african shields          3 272–273 oceanian shields 1775—1900 Australian boomerangs and Shields although boomerangs are not unique to Australia, they are most associated with its indigenous peoples. A mix of aerodynamic and gyroscopic effects determines their curving flight. Aborigines used boomerangs, throwing sticks, spears, and stone axes for hunting and in skirmishes. Battles consisting of an exchange of missiles warded off by shields caused limited casualties. Once European settlers arrived with firearms, Aboriginal weaponry was redundant for warfare.
+
+date 19th century origin	 queensland, australia weight	 1¼ lb (0.57 kg)
+
+length	 29½ in (75 cm)
+
+sharp-angled boomerang This boomerang or club has been finely carved to form a sharp angle. It is decorated on both sides with a design in red ocher and white pipe clay. Abstract designs of this kind are often connected with the Aboriginal “dreamtime” myths that link the clan or tribe to its ancestors and its local territory.
+
+date late 19th century origin	 queensland, australia weight	 ¾ lb (0.32 kg)
+
+length	 28½ in (72.4 cm)
+
+convex boomerang This boomerang from Queensland has a convex surface on both sides—some are convex on one side and flat on the other. Incisions on its curved inner edge show that it has been used for cutting or sawing, as well as for throwing. The surface has been finely grooved to enhance the natural grain of the wood.
+
+Decoration in ocher and pipe clay indigenous australian In the 1870s, Australian photographer John William Lindt made studio portraits of Aborigines from Clarence Valley, New South Wales. Intending to document a vanishing way of life, he posed them with their artefacts, including here a boomerang and shield.
+
+Wood stained with red pigment Fine grooves on surface Incisions on inner edge Longer arm shaped to the point full view date 20th century origin	 northern central australia weight	 1 lb (0.41 kg)
+
+length	 28¾ in (73.1 cm)
+
+hooked boomerang This mulga-wood boomerang, similar to many used in the 19th century, was carved from the junction between a tree root and a trunk, exploiting the natural curve of the wood to create a strong hook. When the boomerang was used for fighting, the hook might catch on an enemy’s shield or club and swing round to strike him on the face or body.
+
+Hooked end of boomerang Carved fluted design
+
+date 19th century origin	 western australia weight	 1 lb (0.49 kg)
+
+length	 28 in (73 cm)
+
+parrying shield Despite its elongated shape, a parrying shield of this kind was an effective defense against hostile missiles such as throwing sticks or boomerangs, if used deftly by an alert warrior to ward them off. The design of longitudinal and diagonal lines, picked out in red and white ochers, is typical of indigenous peoples in this area.
+
+date 19th century origin	 australia weight	 2½ lb (1.19 kg)
+
+length	 32½ in (83 cm)
+
+banded shield This parrying shield is decorated with bands of red ocher and an intricate pattern of finely engraved lines. The markings at the ends may represent clan affiliations. Held by a grip at the back made of solid wood, the shield was robust enough to deflect a boomerang or other missile even if thrown with considerable force.
+
+Shield tapers to the point Rounded end, roughly shaped Band of red ocher Boss in center of shield Ridges picked out in red ocher date c.1900 origin	 queensland, australia length	 38¼ in (97 cm)
+
+ridged shield This shield from northern Queensland is made out of light ridged wood attached to a solid-wood handle at the back. It is a decorative work as well as a piece of defensive equipment. The meaning of the colorful design on the shield is uncertain, but it may refer to the achievements and status of the warrior who owned it.
+
+date 20th century origin	 queensland, australia length	 26 in (66 cm)
+
+carved shield This shield, known as a gidyar, originates from the Cairns District, and is similar to types used in the 19th century.
+
+It has been carved out of wood and painted in a bold design. Although it may have found multiple other uses, the shield was almost certainly employed primarily for purposes of display in ceremonial dances.
+
+Bold painted design Ridged light wood face of shield
+
+Flintlock pistols From 1775 by the last quarter of the 18th century, before police forces were widely established, pistols were commonplace in the homes of the wealthy, and pocket models were often carried by gentlemen and villains alike.
+
+Several types of pistol designed for specific purposes had been developed, including the dueling, or target, pistol and the blunderbuss pistol. The flintlock pistol was virtually ubiquitous, more often than not in the semi-enclosed box-lock form. Only in Spain did the less efficient miquelet style of lock still occur with any regularity.
+
+Trigger guard retains bayonet in closed position Rear “trigger” releases bayonet 4 148–149 matchlock and flintlock long guns          3 214–215  flintlock pistols to 1850          3 232–233  flintlock muskets and rifles blunderbuss pistol The blunderbuss (from the Dutch donderbus, or “thunder gun”) was a close-range weapon, its bell mouth aiding the loading and dispersal of the shot. This box-lock model was the work of John Waters of Birmingham, who held a patent on the pistol bayonet. Officers of the British Royal Navy often used such pistols during boarding operations.
+
+date origin uk weight 2lb (0.95kg)
+
+barrel 7½in (19cm)
+
+calibre 1in at muzzle Rectangular box enclosing lock mechanism Internal box-lock Cylinder loaded via muzzle, chamber by chamber Bell mouth ensures wide spread of shot at close range Cock flintlock revolver Around 1680, John Dafte of London designed a pistol with a revolving, multichambered cylinder that was indexed (rotated)
+
+by the cocking action. Elisha Collier of Boston gained a British patent for an improved version in 1814; it was produced in London by John Evans in 1819. The indexing mechanism was unreliable, and the cylinder was usually turned by hand.
+
+date c.1820 origin uk weight 1½lb (0.68kg)
+
+barrel 5in (12.4cm)
+
+calibre .45in Spring-loaded bayonet miquelet duelling pistol Pistols specifically designed for dueling made their first appearance in Britain after 1780. They were invariably sold as a matched pair, cased, with all the accessories necessary for their use. “Saw handle” butts with pronounced prawls and steadying spurs on the trigger guard were later additions, as was the custom of stocking the pistols fully, to the muzzle.
+
+date origin uk weight 2¼lb (1kg)
+
+barrel 9in (23cm)
+
+calibre 34-bore Steadying spur of trigger guard Smooth-bore barrel Barrels unscrew for loading Brass barrel Striking steel Jaw clamp screw Trigger Ramrod Fore stock extends to muzzle Feather spring Prawl Hair trigger Cock Striking steel Ramrod Bead fore sight Safety catch locks pan cover in closed position Double barrels set side by side the revolutionary world 1775—1900
+
+Four barrels mounted side by side in vertical pairs Turning tap delivers priming to lower barrel Safety catch was a simple cover over the pan Octagonal barrel pocket pistol Short-barrelled pistols replaced the sword as the gentleman’s weapon of self-defence. Box-locks were preferred to side-locks, because they were less likely to catch in the clothing. Pistols often had a bayonet, which was released by pulling back the trigger guard.
+
+date origin belgium weight 0.478kg (1lb)
+
+barrel 11cm (4¼in)
+
+calibre .59in four-barrel tap-action pistol A simpler alternative to the cylinder revolver was to multiply the number of barrels; two, each with their own lock, were quite common, and four—and even six—became feasible with the invention of the tap. The taps, one for each vertical pair, presented priming for the second barrel when turned.
+
+date origin uk weight 1½lb (0.68kg)
+
+barrel 2½in (6.35cm)
+
+calibre 85-bore Bayonet Internal, side-by-side box-locks Catch locks bayonet in open position Striking steel Embossed silver butt plate date origin uk weight 0.8kg (1¾lb)
+
+barrel 11.7cm (4½in)
+
+calibre 48-bore “queen anne” pistol The distinctive form of the Queen Anne pistol continued long after the eponymous lady’s death in 1714. The tapered “cannon” barrel screwed into a standing breech in which the lock plate, trigger plate, and butt strap were forged in one piece. This double- barrelled example is by Griffin and Tow.
+
+Striking steel Flint held in leather patch Each lock has its own trigger Joint between barrel and breech Striking steel Flint held in leather patch Engraved plate Flashpan cover
+
+the revolutionary world 4 148–149 matchlock and flintlock long guns          4 160–163 european pistols 1500–1775          4 212–213  flintlock pistols from 1775          3 232–233  flintlock muskets annd rifles 1775—1900 Brass-bound butt Internal box lock Flint Spring-loaded bayonet Striking steel flemish pocket pistol This simple box-lock pocket pistol has an integral spring-loaded bayonet, operated by pulling back on the trigger guard. There is some engraving on the lock plates and the butt is finely carved. It is the work of A. Juliard, a Flemish gunmaker of some repute.
+
+date origin netherlands weight 1 lb (.5 kg)
+
+barrel 4¼ in (10.9 cm)
+
+caliber 33-bore Wooden ramrod with brass cap harper’s ferry pistol The Model 1805 was the first pistol manufactured at the newly-established Federal Arsenal at Harper’s Ferry, in what is now West Virginia. Like all martial handguns of the period, it was robust enough to be reversed and used as a club, should the need arise.
+
+date origin us weight 2 lb (0.9 kg)
+
+barrel 10 in (25.4 cm)
+
+caliber .54 in Jaw-clamp screw Safety catch locks pan closed One-piece stock made of seasoned walnut mass production was unknown before the 19th century.
+
+Until then, firearms had no interchangeable parts, because each element was made by hand for each individual weapon. Even relatively unsophisticated pistols were expensive, both to buy and to repair, despite the fact that demand was high and increasing.
+
+The decoration that had graced many earlier weapons was sacrificed to save money. Ultimately, quality too became a casualty—except at the top end of the market, where cost was no object.
+
+Brass trigger guard Striking steel italian pocket pistol Gunmaking flourished in post-Renaissance Italy (the English word “pistol” probably derives from Pistoia, a city famous for gun manufacture). Although the industry was in decline by the 19th century, craftsmen like Lamberti, creator of this pistol, still thrived.
+
+date origin italy weight 1½ lb (0.62 kg)
+
+barrel 4¾ in (12.3 cm)
+
+caliber .85 in Flintlock pistols To 1850 Round brass barrel Ramrod thimble Octagonal barrel Curved walnut butt Flashpan Pulling trigger guard releases bayonet Heavy brass butt plate
+
+Safety catch Round barrel screws off for loading Brass trigger guard Disappearing trigger drops when cock is drawn back Maker’s mark and year of manufacture Brass-bound butt Brass band holds barrel firmly in stock Flint clamp screw is pierced to accept a tommy bar
+
+## SPANISH CAVALRY PISTOL
+
+In 1839, the Spanish Army finally abandoned the miquelet lock, with its long, exposed mainspring, and introduced a new design of pistol—a bridled flintlock closely modeled on those in French service. A small boss on the barrel’s surface held the ramrod in place, rather than the swivel mount found on other martial pistols of this period.
+
+date origin spain weight 2¾ lb (1.3 kg)
+
+barrel 7¾ in (19.6 cm)
+
+caliber .71 in
+
+## TURN-OFF POCKET PISTOL
+
+The screw-on barrel, which could be removed with a wrench or key, allowed this pistol to be loaded with a tighter-fitting ball and thus shoot both harder and straighter. Turn-off pistols were slow to reload, but their small size made them popular for self-defense.
+
+date origin france weight ¾ lb (0.32 kg)
+
+barrel 1½ in (4 cm)
+
+caliber 33-bore Tower proof mark full view Ramrod retainer swivels so rod can be turned and inserted in muzzle new land-pattern pistol The Land-Pattern Pistol was introduced in 1756, and was subsequently modified in very minor ways. It was a competent, sturdy design and was to remain in service until flintlocks gave way to percussion in the 1840s. A version with a flat butt and lanyard ring was produced for cavalry, and copies were made—by Ezekiel Baker—for issue to the East India Company’s forces.
+
+date origin uk weight 1¼ lb (2.95 kg)
+
+barrel 9 in (22.9 cm)
+
+caliber .65 in Steel ramrod Feather spring flicks pan open as flint falls Brass trigger guard Crown over “GR” —the mark of all four King Georges Brass forestock cap Ramrod- retaining boss Flint wrapped in leather for good grip Cock Feather spring flicks pan open as flint falls Striking steel Lug engages with a key to tighten or loosen barrel Internal box lock
+
+Percussion cap pistols fulminate of mercury was first used to ignite gunpowder in a gun barrel by Scotsman Alexander Forsyth, who took out a patent in 1807. It took some time to find a successful way of presenting the fulminate charge, or primer, to the breech.
+
+The solution, called the cap, consisted of primer sandwiched between two copper-foil sheets. The cap was shaped to fit over a pierced nipple set in what had been the touch-hole. It was struck by a hammer, rather than a cock and flint. Pistols using this system appeared around 1820.
+
+the revolutionary world 3 218–219 amercian percussion cap revolvers          3 222–223 british percussion cap revolvers 1775—1900 Fore sight Steadying spur Incised chequering on butt Hammer Trigger Animal decoration on hammer Hammer Barrel-retaining slide Trigger is pre-set to a very light pull belgian dueling/target pistol Percussion-cap pistols were more reliable than even the best flintlocks, and one of their earliest uses was as dueling pistols.
+
+This half-stocked pistol by Folville, one of a matched and boxed pair, is typical of those produced in Liège, in what is now Belgium.
+
+date origin belgium weight 2 lb (0.88 kg)
+
+barrel 9¼ in (23.8 cm)
+
+caliber 8 mm english dueling/target pistol Despite their lack of overt decoration, dueling pistols were usually produced without regard to cost. This example, one of a pair, was the work of Isaac Riviere of London. Riviere had considerable influence over the design of percussion pistols, and patented his own lock in 1825.
+
+date c.1830 origin uk weight 2½ lb (1.15 kg)
+
+barrel 9½ in (24.1 cm)
+
+caliber 44-bore french dueling/target pistol Technically, there is little difference between dueling pistols and those used for shooting at paper targets. However, the latter, such as this example by the renowned Parisian gunmaker Gastinne- Renette, were often beautifully decorated.
+
+date origin france weight 2 lb (0.95 kg)
+
+barrel 11¼ in (28.3 cm)
+
+caliber 12 mm Steadying spur Incised chequering on butt Rear sight Butt finishes in a pommel Slide secures barrel in lock Maker’s name Octagonal barrel Butt has incised decoration Ornate octagonal barrel Cap fits over nipple Animal decoration Engraved lock plate
+
+Octagonal barrel Ramrod thimble Combined main spring and hammer Breech lever Side-mounted hammer Butt is planed flat on the sides Ring trigger is characteristic of Cooper’s pistols Checkering on butt Bar hammer acts vertically Plain walnut stock Barrels rotate on axial pin cooper under-hammer pistol Joseph Rock Cooper was a prolific English firearms inventor. One of his patents was for this pistol, which has an under-hammer by a Belgian named Mariette. In effect it is a “double-action” pistol: pulling the trigger lifts and then releases the hammer.
+
+date origin uk weight ½ lb (0.27 kg)
+
+barrel 4 in (10 cm)
+
+caliber .45 in Pattern 1842 coastguard pistol British pistols used by the coastguard, police, and other security agencies were similar in style to the Land- and Sea- Pattern pistols of the army and navy, but usually lighter and smaller. Revolvers replaced Pattern 1842 pistols in the 1850s.
+
+date origin uk weight 2½ lb (1.05 kg)
+
+barrel 6 in (15 cm)
+
+caliber 24-bore bar-hammer “pepperbox” pistol Pepperbox pistols offered the advantage of multi-shot cylinder revolvers without their principle drawback—the leakage of propellant gas between chamber and barrel. Unfortunately, the type was generally inaccurate, except at point- blank range.
+
+date origin uk weight 2¼ lb (1.01 kg)
+
+barrel 3½ in (9.1 cm)
+
+caliber .55 in sharps breech-loading pistol Christian Sharps was famous for his breech- loading rifles and carbines for military and sporting use. He also made pistols based on the same principles as his early rifles. The falling breech cut off the rear of the linen cartridge when it was returned to battery.
+
+date c.1860 origin us weight 2 lb (0.96 kg)
+
+barrel 5 in (12.7 cm)
+
+caliber .34 in Round barrel Nipples set horizontally Lanyard ring Ramrod retainer swivels to allow captive rod to be inserted in barrel Fore sight Lock plate Nipple Hammer Fore sight Ramrod Fore sight Trigger
+
+the revolutionary world 4 216–217 percussion cap pistols          3 222–223  british percussion cap revolvers          3 296–297  revolvers 1900–1950          3 298–299  revolvers from 1950 1775—1900 American percussion cap revolvers One-piece varnished walnut grips Cutaway allows cap to be placed on nipple Walnut grips Rammer lever Hammer spur date origin us weight 1.5 lb (0.69 kg)
+
+barrel 4 in (10.2 cm)
+
+caliber .31 in
+
+## COLT MODEL 1849 POCKET PISTOL
+
+Colt introduced a five-shot revolver in .31 in caliber in 1848 as the Baby Dragoon. The next year he produced a revised version, equipped with a standard compound rammer, a choice of three barrel lengths, and a five- or six-shot cylinder. It proved the company’s best-selling percussion revolver, and 350,000 were sold before it was superseded by a brass-cartridge version in 1873.
+
+## COLT MODEL 1855 POCKET PISTOL
+
+Such was the success of the Pocket Pistol that Colt launched another model in 1855, this one to the design of Elisha Root, the Works Superintendent, who did much to modernize manufacture. Root’s pistol had a top strap—its first use in a Colt pistol—a side-mounted hammer, and a stud trigger. The latter was not popular, and though the pistol was produced in seven different models and both .28 in and .31 in caliber, only some 40,000 were sold before it was discontinued in 1870.
+
+date origin us weight 1 lb (0.5 kg)
+
+barrel 3½ in (8.9 cm)
+
+caliber .28 in samuel colt claimed that the design of his cylinder revolver, patented in 1835, was inspired by the locking mechanism of a sailing ship’s steering wheel. A pawl linked to the hammer breast engaged with a ratchet machined into the cylinder’s rear face.
+
+As the hammer was pulled back, the pawl indexed the ratchet by one stop, bringing a fresh chamber into line with the barrel and its percussion cap under the hammer. The cylinder was locked in place at the moment of firing by a vertical bolt driven upward by the action of the trigger.
+
+Cylinder-locking screw Octagonal barrel Stud trigger Notched hammer spur forms rear sight Octagonal barrel Rammer pivot pin Rammer Slot for cylinder- locking bolt Nipple in recess Top strap Side-mounted hammer Cylinder axis pin Cutaway for loading linen cartridge Concealed rammer Rammer lever Cylinder-retaining wedge
+
+date origin us weight 4 lb (1.93 kg)
+
+barrel 7½ in (19 cm)
+
+caliber .44 in
+
+## COLT SECOND MODEL DRAGOON PISTOL
+
+Colt’s mainstay during the first decade and a half of the percussion era was the Dragoon Pistol, so called because it was intended as a side-arm for cavalrymen.
+
+It first went into limited production at Whitneyville in 1847. Later that same year, Colt established a new factory at Hartford, expressly to produce the Dragoon Pistol to fulfil an army contract.
+
+Hole for locking bar in armory rack Smooth-bore barrel acts as cylinder axis pin date origin us weight 2¾ lb (1.2 kg)
+
+barrel 7½ in (19 cm)
+
+caliber .36 in
+
+## COLT NAVY MODEL
+
+In 1851, Colt introduced a lighter pistol, the Navy Model, in .36 in rather than .44 in caliber. That same year, he traveled to London to show at the Great Exhibition, and obtained an order from the British government. The example shown here is one of the pistols produced at the factory the company established in London in 1853. Its cylinder is engraved with a naval scene.
+
+date origin us weight 3 lb (1.35 kg)
+
+barrel 7½ in (19.2 cm)
+
+caliber .44 in
+
+## STARR SINGLE-ACTION ARMY MODEL
+
+Nathan Starr was a pioneer of the break-open pistol, in which the barrel, top strap, and cylinder were hinged at the front of the frame before the trigger guard. The forked top strap passed over the hammer and was retained by a knurled screw. When broken open, the cylinder could be removed for reloading.
+
+Locking screw Cutaway to facilitate placing of cap Hammer nose extension Cylinder-retaining wedge passes through axis pin Bead fore sight Round barrel Engraved cylinder Walnut grips Cylinder- locking slot Rammer Rammer pivot pin date origin us weight 3½ lb (1.64 kg)
+
+barrel lower 5 in (12.7 cm)
+
+caliber .3 in and 16-bore
+
+## LE MAT PISTOL
+
+Jean-Alexandre Le Mat’s revolver design was produced in both pistol and rifle form. The nine-chambered cylinder revolved around not a pin but a second, unrifled barrel, which was charged from the muzzle with pellets. The hammer had a hinged extension to its nose, which could be angled up or down to fire either barrel.
+
+Rammer lever Notched hammer spur forms rear sight Octagonal barrel Cylinder axis pin Brass back strap Brass trigger guard Nipple in recess Cylinder-retaining wedge Slot for cylinder- locking bolt Rammer lever Rammer pivot pin Rifled barrel and cylinder screw onto smooth-bore barrel Round barrel Top strap
+
+infantry fighting From April 1861 to April 1865, 3 million men joined the forces of the Union and the Confederacy. Most were infantrymen who walked or marched everywhere, carrying equipment, ammunition, personal items, and a field pack. The main weapon was the muzzle-loaded rifle-musket, firing Minié bullets. Although an advance over the flintlock musket, it still required infantry to fire in volleys from a standing position. On the offensive, infantry had to advance steadily across open ground in the face of withering fire from rifle- muskets and artillery that decimated their ranks. Both sides used the same basic weaponry, but the North was far more successful in equipping its armies. Union infantrymen were well supplied with standard uniform, boots of the right size, bullets, and powder, while the Southern infantry were short of everything but courage. Around 620,000 soldiers lost their lives, more through disease than combat.
+
+us civil war infantryman the election as us president of abraham lincoln, who opposed the spread of slavery, in 1860 led 11 southern states to secede from the Union and form the Confederacy. A bloody civil war ensued. Initially, hundreds of thousands volunteered to fight. Later, conscription was successfully introduced in the Confederate South; it was less effective in the Union states of the North, where the wealthy often evaded service by paying others to fight in their place. Both Confederate and Union troops were hard- bitten characters unused to obedience, but they showed tenacity, sticking to the fight when casualties were high and conditions awful.
+
+battle of bull run The first major battle, First Bull Run was a chaotic affair. Confederate Jeb Stuart led the war’s only significant cavalry charge.
+
+Exotic Zouave uniforms were worn by some volunteers on both sides, adding to the confusion.
+
+.40 caliber le mat revolver the revolutionary world the man who does not dread to die or to be mutilated is a lunatic.” “ civil war veteran
+
+Fighting for freedom At the start of the Civil War, African Americans were excluded from combat by both sides.
+
+During 1862 Union officers advanced from using escaped slaves as laborers to arming them. The first regiments of black volunteers were officially raised in the North in 1863. Around 180,000 ex- slaves and free black men served in the Union forces, in segregated regiments and mostly under white officers. Many distinguished themselves in combat, the 54th Massachusetts regiment, for example, performed outstandingly in the storming of Fort Wagner in 1863. The black troops’ contribution to victory helped win Union support for the abolition of slavery.
+
+A union soldier of the 54th Massachusetts Infantry, c.1863 Uniform of a confederate soldier Few Confederate soldiers managed to wear the regulation gray coat, gray forage cap, and blue trousers. Short jackets were more common, as were varieties of “butternut” brown or beige clothing.
+
+Uniform of a union soldier This is the winter uniform of a infantryman in the New York Volunteers. The Hardee felt hat, although regulation dress, was rarely worn, most soldiers preferring a lighter kepi or slouch hat.
+
+Infantry cap badge—gold embroidered bugle Beige trousers Winter greatcoat Elbow- length cape Jefferson boot enfield rifle-musket leather knapsack volunteer soldiers A Union infantry lieutenant, on the right, and two enlisted men during the first year of the war. Such early volunteers—motivated by enthusiasm for the cause or by a naive thirst for adventure—mostly elected their own officers, and tended to obey orders only when they saw fit.
+
+enfield bayonet tools of combat Short jacket union soldier’s metal canteen great warriors Kepi Hardee dress hat Box for percussion caps
+
+British percussion cap revolvers the revolutionary world 1775—1900 Grip retaining pin Cylinder axis pin Notched ridge forms rear sight Rammer lever Cylinder axis pin Engraved plate covers double-action lock date origin uk weight 2½ lb (1.2 kg)
+
+barrel 5¾ in (14.7 cm)
+
+caliber 54-bore
+
+## KERR DOUBLE-ACTION REVOLVER
+
+To address doubts about the reliability of the revolver, James Kerr fitted his with a simple box-lock and a side-mounted hammer. The lock was retained by two screws, and could be easily removed. Should a component—the spring, for example—break, any gunsmith would have been able to repair it. Kerr’s five- chambered pistols came in either 54-bore or 90-bore caliber. They were manufactured until the mid-1870s.
+
+date origin uk weight 3 lb (1.36 kg)
+
+barrel 6 in (15.2 cm)
+
+caliber 54-bore
+
+## JOSEPH LANG TRANSITIONAL REVOLVER
+
+Open-framed “transitional” pistols combined elements of both the pepperbox pistols they superseded and the true revolvers. They continued to be produced, mostly in Europe, even after much more sophisticated designs had appeared. This example is of the type produced by one of the best known proponents, Joseph Lang of London. Lang was more successful than most gunmakers of the time in solving the problem of propellant gas leaking between chamber and barrel.
+
+Flash shield 4 216–217 percussion cap pistols          4 218–219  american percussion cap pistols          3 296–297  revolvers 1900–1950          3 298–299  revolvers from 1950
+
+although london gunmakers, notably Robert Adams, were making revolvers by the mid-19th century, it was Samuel Colt’s display at the Great Exhibition of 1851 that ignited interest in such pistols. For some years, Colt had the British market almost to himself, but by the decade’s end, domestic gunmakers’ revolvers had overtaken American Colts in popularity. Adams’ pistols had double-action (“self-cocking”)
+
+locks—a characteristic of British revolvers from the outset.
+
+Later models could also function in single-action mode.
+
+Side-mounted hammer Recessed nipple Five-chambered cylinder Octagonal barrel Fore sight Lock cover plate Fluted cylinder Cylinder-locking wedge Chequered walnut grips Rammer Octagonal barrel
+
+Screw secures barrel to frame Octagonal barrel Prawl prevents pistol from slipping through hand date c.1855 origin uk weight 1¾ lb (0.81 kg)
+
+barrel 5¼ in (13.5 cm)
+
+caliber .4 in transitional revolver By the late 1850s, there was considerable demand in Britain for cylinder revolvers, but the best of them, by Colt, Deane, or Adams, were very expensive. Cheaper designs such as this example, with a bar hammer derived from a pepperbox revolver, were less satisfactory, with a tendency to discharge two cylinders at once because of the lack of partitions between the nipples.
+
+Cylinder axis pin Fore sight Engraved plate covers double- action lock date origin uk weight 2¾ lb (1.27 kg)
+
+barrel 7½ in (19 cm)
+
+caliber 40-bore
+
+## ADAMS DOUBLE-ACTION REVOLVER MODEL
+
+This revolver—Robert Adams’ first—is also called the Deane, Adams & Deane Model (he was in partnership at the time). The entire frame, barrel, and butt were forged out of a single iron billet, making it extremely strong.
+
+Adams’ lock was later replaced by a superior design by a young army officer, F.B.E. Beaumont. The Beaumont- Adams was adopted by the British Army in 1855.
+
+date origin uk weight 2½ lb (1.15 kg)
+
+barrel 5¼ in (13.5 cm)
+
+caliber 40-bore
+
+## DEANE-HARDING ARMY MODEL
+
+When Adams broke with his partners in 1853, the elder Deane, John, set up his own business. Later he began manufacturing a revolver designed by William Harding with a new, simpler type of double-action lock—the forerunner of modern actions. The two-piece frame could be dismantled by removing the pin located in the top strap in front of the hammer nose. Considered unreliable, the pistol never achieved lasting popularity.
+
+Octagonal barrrel Cylinder Fore sight Octagonal barrel Nipple Cylinder Rammer lever Bar hammer Flash guard Spurless hammer Safety catch Checkered walnut grip Trigger guard Rammer lever
+
+Brass cartridge pistols smith & wesson acquired the patent for a revolver with a bored-through cylinder to accept brass cartridges in 1856, from Rollin White. By the time their protection expired in 1869, the center-fire cartridge (with the primer located in the center, rather than in the rim, as in earlier examples) had been devised, and the world’s gunmakers were poised to begin manufacturing what would prove to be the cylinder revolver in its final form. Later refinements made it possible to charge and empty the chambers more rapidly.
+
+the revolutionary world 4 160–163  european pistols 1500–1700          4 214–215  flintlock pistols to 1850          4 216–217  percussion cap pistols 1775—1900
+
+## COLT MODEL 1873 SINGLE-ACTION ARMY
+
+The Colt SAA married the single-action lock of the old Dragoon model to a bored-through cylinder in a solid frame, into which the barrel was screwed.
+
+It was loaded, and the spent case ejected, by way of the gate on the right of the frame, and a spring- loaded ejector was fitted. This is the long-barreled Cavalry model.
+
+date origin us weight 2½ lb (1.1 kg)
+
+barrel 7½ in (19 cm)
+
+caliber .45 in
+
+## REMINGTON DOUBLE DERRINGER
+
+Henry Deringer was a Philadelphia gun maker who specialized in pocket pistols; his name was ascribed—with the mysterious addition of a second “r”—to a genre of such weapons. The best known of them was the rimfire Remington Double Derringer, a top- hinged, tip-up, over-and-under design that was to remain in production until 1935.
+
+date origin us weight ¾ lb (0.34 kg)
+
+barrel 3 in (7.6 cm)
+
+caliber .41 in Barrel catch Hammer Stud trigger Notched hammer acts as rear sight Single-action trigger is forced forward when hammer is cocked Barrel screws into frame Hard rubber- composition grips Prawl prevents pistol slipping through hand under recoil Lanyard ring Hinge Barrels positioned one above the other Loading/ejection gate swings down Slot for cylinder locking bolt Six-chambered cylinder
+
+COLT navy conversion Colt replaced its angular 1851 Navy revolver with a new, streamlined version ten years later. This example has been converted to accept brass cartridges after the fashion of the Single-Action Army; many percussion revolvers were adapted in this way.
+
+date origin us weight 2¾ lb (1.25 kg)
+
+barrel 7½ in (19 cm)
+
+caliber .36 in webley-pryse pocket pistol In 1876, Charles Pryse designed a tip-down, break-open revolver with a rebounding- hammer action and simultaneous extraction of spent cartridges. This Fourth Model Webley- Pryse, recognizable by its fluted cylinder, was made in calibers ranging from .32 in to .577 in.
+
+date origin uk weight 2¾ lb (1.3 kg)
+
+barrel 6¼ in (16 cm)
+
+caliber .45 in SMITH & WESSON No. 3, RUSSIAN MODEL Smith & Wesson’s early designs had been top-hinged, tip-up revolvers, but for the No. 3 revolver it utilized a single-action, bottom- hinged design with an automatic simultaneous extractor. It soon won a contract to supply the Russian Army with 20,000 of these pistols, chambered for a special cartridge (the second version is shown above). They were the most accurate revolvers of their day.
+
+date origin us weight 2¾ lb (1.25 kg)
+
+barrel 8 in (20.3 cm)
+
+caliber .44 in full view Trigger guard with steadying spur Frame locking catch Fore sight Barrel rib Hammer Extractor-rod housing Trigger guard with steadying spur lefaucheux pin-fire revolver Casimir Lefaucheux invented the pin-fire cartridge in the mid-1830s, and his son Eugène later produced a six-shot, double- action revolver for it in 12 mm caliber. This is a Cavalry model of 1853. An Army model, without a steadying spur, was also produced.
+
+date origin france weight 2¼ lb (0.95 kg)
+
+barrel 5¼ in (13.5 cm)
+
+caliber 12 mm Loading/ ejection gate Extractor-rod housing Frame hinge Rear sight Fore sight Extractor rod Round barrel Plain walnut grip Lanyard ring Rubber- composition grips Frame catch Cylinder axis pin Frame pivot Rib reinforces barrel Ejector rod Round barrel Loading/ ejection gate
+
+## PERCUSSION CAPS
+
+Percussion caps, so called because of their shape, were made of two layers of copper foil with a minute quantity of fulminate of mercury, oxidizer, and a sustaining agent sandwiched between them. They were first introduced in this form in about 1822.
+
+lead bullets By 1861 the cylindro-ogival form had replaced the ball to become the standard shape for both rifle and pistol bullets. They were still being made from pure lead, without the addition of a hardening agent such as antimony.
+
+## AMMUNITION
+
+The powder and projectile were made into simple cartridges with combustible cases made of fabric, rendered waterproof and rigid by an application of varnish. These were crushed when seated home in the chamber by the action of the compound rammer.
+
+## COLT NAVY MODEL
+
+Colt was a firm believer in standardization in manufacture. One of the factors that made Colt’s pistols so sought-after was the interchangeablility of their compo- nents, which meant that replacements for broken parts could be bought off the shelf, and that improvements could be easily incorporated.
+
+date origin us weight 2½ lb (1.2 kg)
+
+barrel 5½ in (19.1 cm)
+
+caliber .36 in the revolutionary world by 1861, his patent protection a thing of the past, Samuel Colt had to rely on the quality of his products to outsell his competitors at a time (during the American Civil War) when the demand for firearms in the United States was running at an all-time high. His Hartford factory was in full production, under the superintendence of Elisha King Root, and that year, he introduced a new, streamlined version of his .36-caliber Navy revolver, which had appeared a decade earlier. Some 38,843 examples of the Model 1861 Navy were produced before it was discontinued in 1873.
+
+bullet mold Even though calibers had by now become standardized, it was still almost unheard- of to buy loose bullets.
+
+Instead, one bought a bar of lead and made one’s own bullets, using the mold supplied with the pistol.
+
+Blade fore sight 4 216–217 percussion cap pistols          4 218–219 american percussion cap revolvers         4 222–223 british percussion cap revolvers colt navy Pistols Excess lead sheared by blade when bullet set Two bullets can be cast at once Compound rammer Wedge passes through cylinder axis pin, retaining cylinder in frame Cylinder engraved with naval scene Nipple Cutaway allows caps to be placed on nipple Rammer lever
+
+Hammer spur with notch for rear sight powder  flask By the 1860s, the traditional powder horn had given way to the flask, which incorporated a dispenser for a measured amount of powder as its spout. Most were ornamented with hunting or martial scenes.
+
+how it works
+
+## LOADING THE REVOLVER
+
+The procedure for loading a percussion revolver was straightforward. A cartridge was placed into the chamber as far as it would go, in the six o’clock position, via the cutaway in the front of the frame.
+
+Alternatively, loose powder (from a flask with an angled spout) and a loose bullet could be inserted.
+
+The lever of the compound rammer was then lowered, pushing the rammer proper against the nose of the bullet and forcing it into the chamber, where the fragile casing of the cartridge was broken open. When all six chambers were loaded, a percussion cap was placed on each nipple in turn by way of the cutaway at the rear of the cylinder.
+
+Bullet fully chambered weapon showcase Barrel Hammer Brass backstrap One-piece walnut grip Trigger guard Decoration showing arms and banners Dispenser nozzle Cut-off shutter lever Rammer lever Cutaway to allow cartridges to be loaded without removing cylinder Bullet placed in chamber One of six nipples One of six touch-holes Cap to be placed on nipple Compound rammer fully extended Bullet fully chambered Compound rammer
+
+date origin germany weight 2½lb (1.15kg)
+
+barrel 5½in (14cm)
+
+calibre 7.65mm
+
+## MAUSER C/96
+
+Although complicated and slow to load due to its fixed magazine, the “Broomhandle” Mauser Selbstladepistole soon became popular in military circles thanks to its very powerful ammunition. It remained in manufacture until 1937, and was copied the world over. It was usually supplied with a holster-cum-shoulder stock. Fully automatic versions were also produced.
+
+date origin germany weight 3¾lb (1.66kg)
+
+barrel 6½in (16.5cm)
+
+calibre	 7.63mm
+
+## BORCHARDT C/93
+
+In Borchardt’s pioneering design, a toggle joint locks the bolt in place. Recoil forces the toggle to break upward, the bolt travels to the rear against a coil spring, and the spent case is ejected. Rebounding, the bolt picks up a fresh round, chambers it, and leaves the action cocked for the next shot. The gun was a commercial failure; only 3,000 were produced, and it was discontinued in 1898 due to the competition from Mauser.
+
+Tangent rear sight Fixed ten-round box magazine Leather holster Detachable stock mauser on film British Prime Minister Winston Churchill carried a Mauser C/96 during the battle of Omdurman in 1898, a shoulder injury preventing him from using a saber. Here, Simon Ward plays the title role in the 1972 film Young Winston.
+
+Loading/ejection port the german gun maker and engineer Hugo Borchardt emigrated, in 1860, to the US, where he worked for Colt, Winchester, and other gun manufacturers. When he returned to his native Germany in 1892 to work for Waffenfabrik Loewe, the company was already producing Maxim guns, and that motivated him to experiment with a self-loading pistol. By 1893 he had produced a satisfactory if somewhat cumbersome design, and that in turn inspired others.
+
+By the end of the century, there were a dozen self- loading pistols on the market, all of which were designed and produced in Europe.
+
+Self-Loading pistols 1775 — 1900 3 290–291 self-loading pistols 1900–1920          3 292–293 self-loading pistols 1920–1950          3 294–295 self-loading pistols from 1950 the revolutionary world Blade fore sight Hammer
+
+date origin uk weight 2½lb (1.1kg)
+
+barrel 7½in (19cm)
+
+calibre .455in WEBLEY-FOSBErY In 1899, Colonel George Fosbery designed a self- cocking revolver in which recoil propelled the barrel and cylinder backwards within a slide, indexing the cylinder. It proved too fragile for battlefield conditions.
+
+BERGMANN no.3 Theodore Bergmann’s No.3 pistol was rather simplistic in design. The pistol was held in battery by a coiled spring, and the spent cartridge case was blown out of the breech by gas pressure.
+
+date origin germany weight 0.88kg (2lb)
+
+barrel 11.2cm (4½in)
+
+calibre	 6.5mm date origin belgium weight 0.63kg (1½lb)
+
+barrel 10.2cm (4in)
+
+calibre	 7.65mm
+
+## BROWNING MODEL
+
+John Moses Browning, probably the most prolific gun designer ever, moved to Belgium from his native USA in
+
+## 1895. Here he produced an improved version of his first
+
+semi-automatic pistol – a simple, unlocked-breech, blowback design – that became known as the Model
+
+## 1900. Small and light, it was hugely popular, and over
+
+700,000 were sold before production ceased in 1911.
+
+GABBETT-FAIRFAX “MARS” Perhaps inspired by the Mauser’s success, Hugh Gabbett-Fairfax wanted to produce a super-powerful pistol; the result was the Mars. Described by users as “a nightmare,” it was complex, awkward, and unwieldy, with a vicious recoil.
+
+date origin uk weight 3½lb (1.55kg)
+
+barrel 11½in (26.5cm)
+
+calibre .45in Cocking grip Cocking grip for pulling slide to rear Rear sight Manual cocking lever Cover for five-round magazine Steadying grip Butt houses removable seven-round magazine Ejection port Butt houses removable eight-round magazine Fore sight Recoil spring housing Recoil spring housing Toggle joint doubles as cocking piece Magazine release Safety catch Rear sight Fore sight Rear sight Butt houses removable seven- round magazine Recoil spring housing Recoil spring housing Exposed hammer Blade fore sight Cylinder- retaining wedge Cylinder-indexing grooves Slide
+
+napoleonic wars Swords, bayonets, pistols, and muskets were widely used in the early 19th century for close fighting, with artillery and long-range rifles used to great effect over longer distances. The artillery caused most damage, with cannonballs being fired, and canisters and shells exploding near to, or amongst, the enemy’s ranks.
+
+the revolutionary world 4 148–149 matchlock and flintlock long guns          4 212–215 flintlock pistols 1775–1850          3 234–235 weapon showcase: baker rifle 1775—1900 Cock Flint clamp Pan Rear sling swivel Clamp upper jaw Feather spring Comb of the stock Trigger Feather spring flicks steel and pan cover forward as cock falls Barrel band secures the barrel to the stock by the start of the 18th century, the flintlock mechanism, simple and robust, had almost reached its final form.
+
+It lacked only roller bearings and reinforcing bridles—metal straps holding interdependent parts in alignment—that virtually eliminated misfiring. It is a tribute to the flintlock’s reliability that individual weapons such as the British Land Service Musket and the French Charleville were to be made in their hundreds of thousands, and remain in service for almost a century with only minor modifications.
+
+Grip extension Flintlock muskets and rifles Clamping screw Flint Flint clamping screw Flashpan and touch-hole Rear sling attachment Trigger guard Cock Steel Barrel band securing spring Barrel band Proof mark Cock Flashpan and touch-hole Official mark Small of the stock
+
+date origin us weight 10½ lb (4.68 kg)
+
+barrel 32½ in (82.5 cm)
+
+caliber .54 in hall rifle John Hancock Hall’s rifle, designed in 1811 and introduced into service in 1819, was the first regulation American rifle to incorporate an opening breech; hinged at the front, it tipped up at a 30-degree angle for loading.
+
+Hall rifles and carbines were eventually produced in percussion form, too, when the entire breech unit could be removed and used as a pistol.
+
+date origin austria weight 9 lb (4.2 kg)
+
+barrel	 45 in (114.3 cm)
+
+caliber .65 in
+
+## AUSTRIAN MODEL 1798 MUSKET
+
+When Emperor Leopold of Austria and King Frederick William of Prussia declared their intention to restore Louis XVI of France to his throne in 1791, Austria found itself quite literally outgunned by the French. As a result a new musket, a copy of the French Model 1777, was commissioned, but with some improvements, notably in the way the ramrod was housed.
+
+date origin france weight 9¼ lb (4.2 kg)
+
+barrel 44 in (113.5 cm)
+
+caliber .65 in charleville MUSKET The Charleville muskets were introduced in 1754 and, modified a number of times, remained in service until the 1840s. Large numbers of Modèle 1776 guns found their way to the US when a revised pattern was introduced the following year; they were the main armament of the Continental Army that defeated the British.
+
+date origin germany weight 8¾ lb (4 kg)
+
+barrel 41 in (104.5 cm)
+
+caliber .75 in
+
+## PRUSSIAN 1809-PATTERN MUSKET
+
+The Prussian equivalent of the British Brown Bess or the French Charleville, the 1809-Pattern musket was made at the Potsdam Armoury in Berlin. Unlike its competitors it was furnished with a (brass) flash guard around the pan as standard, but in other respects it was similar. The majority of these flintlocks were converted to percussion.
+
+date 1797 onward origin uk weight 9 lb (4.1 kg)
+
+barrel 39 in (99 cm)
+
+caliber .75 in
+
+## INDIA-PATTERN MUSKET
+
+The Brown Bess in its final form differed from earlier models in the length of the barrel. It was reduced from 46 in (117 cm) to 42 in (106.5 cm) in the 1760s and finally to 39 in (99 cm). This modification was made for the East India Company and later adopted by the British Army which kept it in service until the 1840s.
+
+Cock Fore sight Bayonet mounting tube Triangular stabbing blade Bayonet retaining notch Striker steel Trigger Retaining notch Forward sling swivel Breech block release catch full view Lock cover Breech-block is hinged at the forward end and tips up through 30° for loading Barrel band Fore end cap and barrel band Cleaning rod Forward sling swivel Butt plate Flash guard Barrel band Fore end cap and barrel band Ramrod Forward sling swivel Fore sight Bayonet securing pin Fore end cap and barrel band Barrel-securing pin
+
+the revolutionary world Brass cheek plate date
+
+1802–37 origin england weight 9 lb (4 kg)
+
+barrel 30 in (76 cm)
+
+caliber .625 in in february 1800, the Baker rifle won a competition organized by the Army’s Board of Ordnance and became the first rifle officially adopted by the British Army. It was similar to weapons in use in Germany, and its novel feature lay in its barrel.
+
+With shallow or “slow” rifling—just a quarter-turn in the length of the barrel—it stayed clean, and thus usable, for longer. It was issued to select men at first, and was superseded in 1838.
+
+Leather sling Brass trigger guard Jaw screw Cock Trigger Ramrod doubled as a cleaning rod Lug for attaching bayonet Pan Feather spring Steel Flint Protective cover for cock and steel Rifle Ezekiel Baker’s rifle was a robust weapon, designed to keep on working even under the most difficult conditions, and several modifications to the original design reflected that. With its short barrel (30 inches instead of the more customary 39) it was not particularly accurate, but was still a great improvement over the smooth-bore musket then in general use.
+
+baker rifle Sling was also used to steady the aim Fixed fore sight Armory mark Box for patches and tools Standard Land- Pattern lock Mallet To begin with, small mallets were issued with Baker rifles, but were soon found to be unnecessary. Hand pressure alone was sufficient to ram down the ball.
+
+Rolled cowhide head Rifleman of the 95th regiment British rifle companies existed before the Baker was adopted, but a new regiment, the 95th (Rifle)
+
+Regiment, was raised specifically to exploit it.
+
+Dressed in green coats with black facings (and later known as the Green Jackets) they first saw action as marine infantry during the Battle of Copenhagen in 1801, but really came into their own during the Peninsular War of 1808–14.
+
+Beechwood shaft 4 148–149 matchlock and flintlock long guns          4 232–233 flintlock muskets and rifles Brass butt plate
+
+Release stud Sword Bayonet The Baker rifle was supplied with a sword bayonet that could be used alone or mounted on the rifle. At 24 in (61 cm) long it was unwieldy, but it was necessary to compensate for the rifle being so much shorter than other weapons then in use.
+
+Brass grip Armory stamp Guard-retaining screw Single-edged blade 200-yard sight Paper-wrapped Cartridge These contained a charge of powder and the ball.
+
+They were torn open with the teeth, with the ball held in the mouth. A small portion of the charge was poured into the pan and the rest down the muzzle. The paper would then be rammed down to form a wad, and the ball, wrapped in a patch taken from the patchbox, rammed down on top.
+
+Gunpowder wrapped in paper Ramrod The steel rod was used to ram the charge and projectile into the barrel.
+
+Straight blade for hacking and thrusting 300-yard sight Tubular housing for ramrod Barrel-retaining key Cup end fitted around the ball Lead ball wrapped in paper Hand guard weapon showcase
+
+the revolutionary world 4 216–217 percussion-cap pistols          4 218–219 american percussion-cap revolvers          4 222–223 british percussion-cap revolvers          3 240–241 percussion cap breech loaders 1775—1900 Percussion-Cap muskets and rifles the invention, in approximately 1820, of the fulminate of mercury percussion cap, revolutionized firearms, making them both simpler and more reliable. By the mid-19th century, all the world’s armies had switched to the system, and were adopting the expanding bullet—developed by Norton and brought to its final form by James Burton—which allowed a muzzle-loading rifle to be charged as rapidly as a musket.
+
+date origin us weight 9½ lb (4.2 kg)
+
+barrel 40 in (101.5 cm)
+
+caliber 14.7 mm
+
+## SPRINGFIELD MODEL
+
+The first regulation American percussion rifle was the Model 1841 Mississippi Rifle, with a 33-in (83.8-cm)
+
+barrel. It was later given a longer barrel and modified to use Maynard’s patent tape primer fed from a roll housed inside the receiver (instead of individual copper caps placed over the nipple) and became the Model 1855.
+
+Sling swivel for use when sling is used to stabilize aim Hammer Hammer Hammer Sling swivel full view Small of stock Lock cover plate Primer tape is fed over the pierced anvil and indexed by cocking the hammer Armory mark Primer tape compartment cover American eagle motif Trigger Stock Nipple for percussion cap Barrel band retains barrel in the stock Rear sling swivel Nipple for percussion cap Barrel band retains barrel in stock Securing spring for barrel band Rear sight Rear sling swivel Forward sling swivel
+
+date origin us weight 9½ lb (4.3 kg)
+
+barrel 40 in (101.5 cm)
+
+caliber .58 in
+
+## SPRINGFIELD MODEL 1863 TYPE II
+
+The Springfield M1855, with its tape primer system, was unsatisfactory and replaced by the M1861, which was itself not entirely free of faults; notably in the hammer and nipple. The Model 1863 saw the problems cured and other refinements made. The Type II was the last muzzle-loading weapon issued to the United States army.
+
+date origin france weight 9¼ lb (4.25 kg)
+
+barrel 40½ in (103 cm)
+
+caliber 18 mm
+
+## FUSIL REGLEMENTAIRE MLE
+
+By the 1840s, steel had come to replace iron in the production of gun barrels. It was found to rust more easily, and a surface treatment known as blueing was introduced. Proof (i.e. prototype) weapons, like this one and the Modèle 1842, not intended for issue to troops, were often left unblued, and are said to be “in the bright.” date origin uk weight 10 lb (4.55 kg)
+
+barrel 36 in (91.45 cm)
+
+caliber .45 in
+
+## WHITWORTH RIFLE
+
+Sir Joseph Whitworth (who was best known for standardizing screw threads) produced a rifle for a British Army trial, with an hexagonal bore, which fired an hexagonal bullet. It proved to be accurate to well over 1,500 yards (1.4 km), but it was four times the price of an Enfield Model 1853, and never adopted by the army.
+
+date origin france weight 10 lb (4.6 kg)
+
+barrel 34 in (86 cm)
+
+caliber 18 mm MOUSQUETON D’ARTILLERIE MLE 1842 First issued to the French Army 20 years earlier and subsequently modified to percussion ignition, the Modèle 1842 received improved rifling and detail changes to the design of the hammer and nipple. It was produced in a variety of forms, but those for issue to artillerymen were 34 in (86 cm), with two barrel bands.
+
+American eagle motif Hammer Rear sling swivel Bayonet locking slot Rear sight Hammer Nipple for percussion cap Barrel band secures barrel in stock Retaining spring for barrel band Nipple for percussion cap Rear sight Barrel band retains barrel in stock Securing spring for barrel band Forestock cap Fore sight doubles as bayonet lug Cleaning rod Forward sling swivel Securing spring for barrel band Forward sling swivel Forestock cap incorporates a third barrel band Bayonet mounting tube Forestock cap incorporates a second barrel band Cleaning rod Fore sight Low comb to butt stock Armory mark Rear sight Barrel band Hexagonal- bored barrel Fore sight Cleaning rod Rear sling swivel
+
+Le page  sport gun While the technical quality of the gun is excellent, its appeal lies in its decoration. The scrollwork on the small of the stock is enhanced with steel wire, while the metalwork is engraved with scenes from Napoleon’s life and the names of some of his battles.
+
+date origin france weight 11lb (5kg)
+
+barrel 31½in (80cm)
+
+calibre 8-bore bullet mould A percussion sport gun could be loaded with pellets, for use against birds and wildfowl, but also with balls for use against large game. This mold was used to make such balls.
+
+pierre le page set up in business as arquebusier in Paris, perhaps as early as 1716, and was later appointed gun maker to the king. He was succeeded by his nephew Jean in 1782, who was retained by the Emperor Napoleon to refurbish weapons from the royal gun-room for his own use. Jean’s son Henri took over the firm in 1822, by which time Napoleon had died in exile on St. Helena. This sport gun was made to commemorate the return of his ashes to France in 1840.
+
+Engraved hammers “N” for Napoleon, surmounted by a serpent the revolutionary world hammer head Clenched in the hand, this was applied to the ramrod to assist with seating the balls in the barrels.
+
+wad punch Wadding, usually made of paper, was rammed into the barrels after the powder but before the bullets. As it was essential that the wads precisely fitted the barrels, a wad cutter was included with the gun’s tools.
+
+“Worm” fixed here le page Sport gun 4 236–237 percussion-cap muskets and rifles          3 244–245 sport guns 1775–1900          3 312–313 sport guns 1900–2006 Full view Trigger guard engraved with date of the return of Napoleon’s ashes Cutters for removing flashing from moulded bullet Scrollwork on butt inlaid with wire Sling attachment point Sling attachment point Rear trigger fires left barrel Front trigger fires right barrel
+
+ramrod The gun’s ramrod doubled as a cleaning rod, and could be fitted with a “worm” to allow a dud charge to be drawn.
+
+Forestock cap percussion cap dispenser This dispenser was designed to present percussion caps  direct to the nipples of the gun. The alternative (using a tin of loose caps) was both awkward and time-consuming.
+
+top view of barrel Lock plate engraved with depiction of the Battle of the Pyramids Barrel retained by pin Rib engraved with Le Page’s name and those of Napoleon’s battles weapon showcase Sling attachment point Sling attachment point Hooks engage with a bar at the standing breech to secure barrels into stock Nipple for percussion cap powder horn It was customary to use animal horn to hold the powder, it being light and strong. The nozzle was fitted with a measuring device.
+
+Powder measure Cut-off shutter lever
+
+the revolutionary world 4 156–157 asian matchlocks          4 236–237 percussion cap muskets and rifles          3 248–249 single-shot breech-loading rifles 1775—1900 Breech-opening lever Hammer date origin us weight 7¾ lb (3.5 kg)
+
+barrel 18 in (45.5 cm)
+
+caliber .52 in Rear sling swivel Fore sight Rear sling attachment Primer tape compartment Forward trigger advances primer tape Patchbox Breech-block 19th-century gunmakers used ingenious methods to solve the problem of obturation—making an opening breech gas-tight. Though obturation would not be reliably achieved until the advent of the brass cartridge, some makers were successful enough that their guns found a sizeable market. Carbines were particularly popular among horsemen, because they were easier to manage, and breech loaders—in theory —could be reloaded in the saddle.
+
+percussion cap breech loaders sharps carbine Christian Sharps devised his breech-loading system in
+
+## 1848. Pulling the trigger guard down and forward opened
+
+the breech, and the breech-block sheared off the rear portion of the linen cartridge as it closed. During the American Civil War, the Union Army bought over 80,000 Sharps’ carbines for its cavalry regiments. This rare slant- breech version from 1852 uses a Maynard tape primer.
+
+Patchbox Sliding breech-block Rear sight Tape primer compartment Bolt receiver; bolt handle turns down to the left Rear sight Steel butt plate Trigger Royal cypher Rear sling swivel Hammer Hammer
+
+Custer’s last stand First used in the Civil War and then in the Indian Wars, the Sharps carbine was favored by US cavalrymen. However, its use at Little Bighorn against the Sioux and Cheyenne Indians could not prevent the defeat of the Seventh Cavalry.
+
+Trigger date origin france weight 6¾ lb (3.03 kg)
+
+barrel 28 in (72 cm)
+
+caliber 13.5 mm chassepot percussion carbine In the mid-1850s, gunmakers at the French Imperial Armories began experimenting with bolt-action, percussion cap breech loaders. Alphonse Chassepot produced a design using a rubber washer to seal the breech. He subsequently replaced the hammer with a needle striker within the bolt, which was accepted for use by the French Army as the Modèle 1866.
+
+date origin uk weight 6½ lb (3 kg)
+
+barrel 19 in (45.5 cm)
+
+caliber .45 in WESTLEY RICHARDs “MONKEY TAIL” CARBINE Eminent Birmingham gunmakers, Westley Richards & Co.
+
+produced two types of carbine for the British Army. One had a falling-block action, the other (illustrated) had a front-hinged tilting breech with a long, curved actuating lever, which gave the weapon its nickname. Westley Richards’ carbines required the percussion cap to be located at the mid-point of the cartridge.
+
+date origin uk weight 7 lb (3.21 kg)
+
+barrel 20.13 in (51.2 cm)
+
+caliber .54 in
+
+## TERRY BOLT-ACTION CARBINE
+
+The Terry carbine was the first bolt-action weapon adopted by the British Army. Its paper cartridge included a greased felt wad, which remained in the breech after firing and was pushed into the barrel by the insertion of the next round, lubricating and cleaning the bore when it was fired. In a trial, one carbine fired 1,800 rounds without requiring additional cleaning.
+
+date origin us weight 3½ lb (3.4 kg)
+
+barrel 56 cm (22 in)
+
+caliber  .54 in
+
+## GREENE CARBINE
+
+The Greene carbine, produced in small numbers for the British Army during the Crimean War, lost out to its rivals due to its cumbersome mechanism. The barrel had to be rotated through a quarter-turn: this unlocked the breech, which was then free to swing out so that a new cartridge could be introduced. The carbine used Maynard’s tape primer system, rather than individual percussion caps.
+
+Combined fore stock cap and barrel band Staged barrel Fore sight Cleaning rod Barrel band Lock plate Rear sight Bolt Nipple for percussion cap Lock cover “Monkey Tail” breech lever Barrel band retaining spring Cleaning rod Hammer Hammer
+
+british redcoat in the era of musket-and-bayonet warfare, red-coated infantry formed the core of the British regular army. Recruited from the poor, landless, and unemployed, they took the “king’s shilling” after being plied with drink, or tempted by the glamour of army life, or even as an alternative to imprisonment for petty crime. Yet these “scum of the earth,” as the Duke of Wellington called them, were turned into resolute fighters who won many victories, notably over the French in the Napoleonic Wars.
+
+Drill and discipline The Redcoat infantry were trained to fight as a unit, giving unhesitating obedience to orders and suppressing individual initiative. This was achieved through relentless drill, brutal discipline—with extensive use of flogging—and the cultivation of loyalty to the soldier’s regiment and his colleagues. The emphasis on drill and discipline was essential given the weapons and tactics of the period. The key British infantry arm, the Brown Bess musket, was wildly inaccurate and thus effective only if infantry were trained to fire in volleys. They had to learn to form lines or squares on the battlefield—the latter to resist cavalry —to advance unarmored into musket fire, or stand firm under artillery bombardment.
+
+Holding steady was the surest way to avoid casualties, presenting an unbroken line of bayonets as the last line of defense. The bright red coat made sense on battlefields where men had to identify friend and foe through the thick smoke of gunpowder.
+
+sword bayonet battle of waterloo British infantry squares fight off French cavalry in the last battle of the Napoleonic Wars at Waterloo in June 1815. Ably led by the Duke of Wellington, British soldiers proved a match for Napoleon’s forces throughout the later stages of the war, showing discipline and steadiness under fire.
+
+the revolutionary world they were completely beaten…but they did not know it and would not run.” “ marshal soult after battle of albuera, may 1811
+
+sword bayonet for baker rifle tools of combat redcoat uniform This British infantryman wears early 19th-century uniform. The shako replaced the tricorne hat in 1801–02. By 1815 breeches and gaiters had been replaced by trousers and the “stovepipe” hat had given way to the “Belgic” shako with false front.
+
+Long buttoned gaiters Red coat with short skirts at back White breeches Buff leather cross-belts whitened with pipe clay “Stovepipe” shako with brass plate Battle of Yorktown A 19th-century painting shows British infantry engaging the American rebels at bayonet-point in the outer redoubts of Yorktown in 1781. Surrender to the Americans and their French allies at Yorktown brought the American War of Independence to a humiliating conclusion for British forces.
+
+Lexington and Concord At the outset of the American War of Independence, in Massachusetts in April 1775, British Redcoats were sent from Boston and Charleston to seize the arms and gunpowder of rebel Minutemen militia at Concord. There was an initial confrontation with militia at Lexington, in which eight Minutemen were killed. When the British reached Concord, they met stiff resistance. Obliged to retreat, the Redcoats were harassed by American snipers with rifles, using guerrilla tactics for which the British were unprepared. British losses numbered 273, compared with 95 on the Massachusetts rebel side. The encounter showed Redcoats at their worst. Trained to fight standing up in the open against European armies employing identical tactics, they were wrong-footed by opponents who used trees for cover and fired aimed shots instead of volleys.
+
+british troops march on concord brown bess musket bayonet for brown bess musket baker rifle paper-wrapped baker rifle cartridge great warriors
+
+the revolutionary world 4 152–153 european hunting guns 1600–1700          4 154–155 european hunting guns from 1700          3 312–313 sport guns 1900–2006 1775—1900 date origin uk weight 5¼ lb (2.39 kg)
+
+barrel 32¼ in (82.2 cm)
+
+caliber 12-bore
+
+## ENGLISH PELLET-LOCK PERCUSSION GUN
+
+Before the invention of the percussion cap, in 1822, the detonating material was made up in a variety of ways. One involved binding it with gum or varnish, and the pellets thus formed were contained in a rotating drum attached to the cock. Each revolution of the drum dispensed a single pellet to the anvil/nipple, where it was detonated by the hammer.
+
+Bead fore sight Forestock cap Hammer acts near-vertically on the primer pin
+
+## FULL VIEW
+
+date origin france weight 7 lb (3.15 kg)
+
+barrel 25½ in (65 cm)
+
+caliber 16-bore
+
+## FRENCH PIN-FIRE SHOTGUN
+
+Casimir Lefaucheux invented a breech-loading gun with a break-open action, locked by a turning lever in front of the trigger guard. He also invented a cartridge, incorporating a short metal pin protruding from the case that detonated a fulminate charge placed within the cartridge. This shotgun incorporated both developments.
+
+## GERMAN BREAK-OPEN DOUBLE RIFLE
+
+Even after the perfection of the bolt-action magazine rifle, there were those who refused to embrace the new technology. Hunters, particularly of big and dangerous game, preferred to trust the simplicity of a break-open double- barreled design.
+
+date origin germany weight 7½ lb (3.43 kg)
+
+barrel 25½ in (65 cm)
+
+caliber .45 in Forward sling attachment the 19th century was characterized by innovation and invention in many fields, and the gunmaker’s trade was no exception. At the start of the period, even the most ordinary of guns had to be handcrafted from scratch, making them very expensive, not just to produce, but also to repair. Long before the end of the century, however, the majority of guns were being produced en masse, which not only made them more affordable, but brought to them the quality and reliability previously found only in the most prestigious guns.
+
+Barrel- securing pin Sport guns Nipple is recessed Breech-locking lever Hammer Pellet dispenser Nipple Ramrod thimble Ramrod Trigger Figured burr walnut stock Breech locking lever Breech pivot pin Lock cover Rear sling attachment Hammer Gold-inlayed engraving Paired triggers Grip ‘Button’ for adjusting the set trigger
+
+date origin germany weight 7 lb (3.2 kg)
+
+barrel 25 in (63.5 cm)
+
+caliber 7.9 mm x 57
+
+## GERMAN BOLT-ACTION SPORTER
+
+Waffenfabrik Mauser came to dominate the world market for bolt-action rifles for both civilian and military applications, and its hunting rifles set the standard for the type. This rifle employs the action of the Model 1888 infantry rifle as modified for the carbine, with the flattened, turned-down bolt handle. The five-round magazine is of the pattern developed by Mannlicher.
+
+date origin us weight 8½ lb (3.9 kg)
+
+barrel 32 in (81.3 cm)
+
+caliber .36 in COLT patterson revolving RIFLE Samuel Colt was awarded his first patent, for a six-shot revolver pistol, in London in October 1835, and set up his first factory, in Patterson, New Jersey. As well as pistols, he began turning out revolver rifles, but his facilities were limited and he soon went bankrupt. Patterson-built Colts, such as this first-pattern concealed-hammer eight-shot rifle, are extremely rare.
+
+date c.1860 origin uk weight 6¾ lb (3.07 kg)
+
+length 30 in (76.2 cm)
+
+caliber 12-bore
+
+## ENGLISH PIN-FIRE SHOTGUN
+
+Casimir Lefaucheux’s pin-fire system remained popular with shotgun-armed hunters (particularly in Britain and France) long after it had been outmoded by Joshua Shaw’s percussion caps. This example, with back-action locks and side-mounted breech-locking lever, is finely finished, but with little in the way of decoration. It was the work of Samuel and Charles Smith of London.
+
+Turned-down bolt handle Cocking ring Rear sling attachment Lock cover Rear sight Bead fore sight Recessed nipple for percussion cap date origin uk weight 3½ lb (1.63 kg)
+
+barrel 25 in (63.5 cm)
+
+caliber .37 in ENGLISH ROOK and RABBIT RIFLE Though unfashionable today, pies made from the common rook were often found on the Victorian cottage dinner table, and the type of simple small-bore rifle used to shoot both rooks and rabbits took their name as its own. This example is a break-open design, the breech locked by the lever in front of the trigger guard using a method patented by Frederick Prince in 1855.
+
+Incised checkering on the fore stock to improve grip Rear sight Fore sight ramp Barrel-securing pin Breech- locking lever Rear sight Hammer Hammer Forestock cap shaped to fit the hand Barrel pivot pin Safety catch Receiver Bolt Blade fore sight Five-round integral magazine Incised checkering on semi-pistol grip Plain unfluted cylinder has eight chambers Cylinder- retaining wedge passes through the axis pin Rear sight Barrel band Trigger Abbreviated forestock Breech-locking catch Paired triggers
+
+the revolutionary world 4 156–157 asian matchlocks          3 260–261 indian firearms          3 262–263 asian firearms by the end of the 17th century, the Ottoman Empire stretched from Constantinople (Istanbul), its capital, through the Balkans to modern- day Austria, across North Africa almost to the Straits of Gibraltar, north into Russia, east almost to the Straits of Hormuz, and south to the Sudan.
+
+Conquering and controlling such a vast area required military acumen and also the most modern weapons, so Ottoman gunmaking flourished from an early date. Many of the surviving pieces are, broadly speaking, sumptuously decorated copies of European designs, although some Ottoman tüfenk (muskets) resemble Indian designs.
+
+Ottoman Empire firearms Trigger Inlaid decoration Cock Cock Engraved, inlaid lock plate Shoulder stock is pentagonal in section Striking steel integral with pan cover Butt terminates in lemon- shaped pommel Barrel has been left unblued flintlock pistol A pistol such as this—stocked all the way to the muzzle, with its woodwork copiously inlaid, and its lock, barrel, and trigger guard decorated with silver and gold—would have graced any arms cabinet in the Ottoman world.
+
+The lock appears to be of European pattern.
+
+date late 18th century origin turkey flintlock pistol The stocks and muzzle of this 18th-century, all-metal, ball-butt pistol (one of a pair) are covered with cast and chiseled silver gilt. The lock plate is inscribed “Rossi,” the maker’s name, suggesting that the lock, at least, was imported from Italy.
+
+date origin caucasus barrel 12½ in (31.7 cm)
+
+flintlock pistol With the gentle fall to the butt and the slim “lemon” pommel, this pistol is reminiscent of European pieces of a century or more earlier.
+
+This flintlock also displays the common trademark of Ottoman gunmakers: gilded decoration surrounding the muzzle.
+
+date 18th century origin turkey Spherical pommel Decoration extends to muzzle 1775—1900 Prawl prevents hand from slipping Inlaid decoration Striking steel Exposed mainspring Trigger Shoulder stock is inlaid with brass and precious stones Decoration extends to muzzle Narrow butt Barrel is blued and inlaid with gold Feather spring Striking steel Pan
+
+Barrel bands made of twine Trigger guard Silver inlay Entire stock is covered in engraved and decorated ivory full view flintlock carbine Despite its being furnished with a shoulder stock that is incised, carved, and inlaid with silver, this blunderbuss is actually a large horse pistol. The work of “the Dervish Amrullah,” according to an engraved inscription, it was clearly made for use by a cavalryman, as it has a bar and ring for suspension from a saddle.
+
+date early 18th century origin turkey barrel 13½ in (34.3 cm)
+
+flintlock carbine Even more ornate than the example above, this silver-gilt blunderbuss carbine was most likely made as a presentation piece. Upon its lock plate is the inscription “London warranted,” which suggests that it is a copy of an English lock.
+
+date late 18th century origin turkey Cast and chiseled decoration on stock Barrel is left unblued Saddle bar SNAPHAUNCE TÜFENK This smooth-bore musket, or tüfenk, is very similar both in overall form and the manner of its decoration to muskets produced in northern India. The pentagonal-section butt stock terminates at the breech in a pronounced prawl. The barrel is octagonal in section, and the lock is a snaphaunce, which had become obsolete in the west by the early 17th century.
+
+date late 18th century origin turkey barrel 28½ in (72.4 cm)
+
+BALKAN MIQUELET TÜFENK Like the snaphaunce tüfenk above, this early 19th-century piece is reminiscent of Indian muskets. The stock is entirely covered in ivory and further embellished with inlays of precious stones and brass. The miquelet lock, common in Spain and Italy, is thought to have made its way to the Ottoman Empire via North Africa.
+
+date early 19th century origin turkey barrel 114.3cm (45in)
+
+Barrel bands Octagonal barrel Lock plate Muzzle flares to spread shot and facilitate loading Striking steel Cock Pan Incised checkering on grip Suspension ring Gilt appliqué Decorated lock plate Carved walnut stock Flared muzzle Ramrod Saddle bar
+
+the revolutionary world 4 236–237 percussion-cap muskets and rifles          4 240–241  percussion-cap breech loaders 1775—1900 Hammer Breech cover hinge Rear sling swivel Rear sling swivel (for steadiness while shooting)
+
+Cocking lever Rear sight “Trapdoor” breech cover incorporates firing pin Rear sight Action cocked/ uncocked indicator Rear sight Bolt handle after the introduction of unitary cartridges, which could be loaded by way of the breech, the challenge to gun makers was to develop a gas-tight seal. In the event, the bolt action—as pioneered by von Dreyse and Antoine Chassepot and perfected by the Mauser brothers—was to win out, but in the interim, a variety of other solutions was trialed, some of them conversions, others, such as the Martini-Henry and the Remington Rolling Block, purpose-designed.
+
+Single-Shot Breech-loading Rifles Bolt handle Rear sight is graduated to 1 mile (1.6 km)
+
+Falling breech-block Rear sight Hammer Rolling breech-block Trigger guard
+
+the battle of Königgrätz At the battle of Königgrätz (Sadowa), on July 3, 1866, thanks largely to the superior firepower of its Dreyse needle guns over the muzzle-loaders of the rival Austrians, Prussia was victorious, and went on to become the dominant force in Central Europe.
+
+date origin us weight 10 lb (4.5 kg)
+
+barrel 32 in (82.5 cm)
+
+caliber .45 in springfield trapdoor The perfection of the unitary cartridge left the world’s armies with a dilemma: what to do with their millions of redundant muzzle-loaders. The US Army modified their rifled muskets by milling out the top of the barrel, creating a chamber for the cartridge, and installing a front-hinged breech cover incorporating a firing pin.
+
+date origin uk weight 10 lb (4.5 kg)
+
+barrel 33 in (85 cm)
+
+caliber .45 martini
+
+## MARTINI-HENRY MK
+
+The British Army’s first purpose-designed breech-loading rifle, the Martini-Henry, incorporated a falling breech- block; lowering the under-lever opened the breech, and returning it both closed it and cocked the action.
+
+A skilled man could fire 20 aimed shots per minute.
+
+date 1872 onward origin germany weight 10 lb (4.5 kg)
+
+barrel 32 in (83 cm)
+
+caliber 11 mm DREYSE NEEDLE GUN, MODEL 1841 Dreyse produced a rifle with a simple turn-down bolt, terminating in a needle that penetrated the length of a (linen) cartridge to detonate a percussion cap in the base of a Minié bullet. The advent of the brass cartridge made the rifle obsolete, but still the Prussians used it to defeat the French in the Franco-German War in 1871.
+
+date c.1890 origin egypt weight 9 lb (4 kg)
+
+barrel 35 in (89.6 cm)
+
+caliber .45 in remington rolling block Remington’s purpose-designed breech-loader struggled to find a market at home, despite having been declared the best rifle in the world at the 1868 Imperial Exposition in Paris. The rifle’s rolling-block action, first introduced in 1863, was not as smooth in use as the falling breech- block of the Martini-Henry.
+
+Barrel band retaining springs Barrel band anchoring the barrel in the stock Front sling swivel date origin prussia weight 10 lb (4.5 kg)
+
+barrel 27 in (70 cm)
+
+caliber 13.6 mm
+
+## MAUSER M/71
+
+Waffenfabrik Mauser began modifying Dreyse guns to accept brass cartridges, but Peter Paul Mauser produced a new design, strong enough to handle much more powerful ammunition and effective out to a range of
+
+## 0.5 miles (800 m). The Infanteriegewehr M/71 established
+
+Mauser’s pre-eminence among suppliers of military rifles.
+
+Cleaning rod Fore sight Front sling swivel
+
+with the perfection of the expanding bullet, it became possible to issue rifles to all troops, not just to sharpshooters, for they could now be loaded as fast as a musket. The British Army adopted one such rifle in 1851, but it proved unsatisfactory; its replacement, produced by the Ordnance Factory at Enfield, was adopted in 1853. It remained in service until 1867, when work began on converting the rifles to breech-loaders, using the method devised by Jacob Snider of America. For all its apparent simplicity, the Pattern 1853 Rifle-Musket has a total of 56 parts.
+
+Socket fits over muzzle Triangular-section blade
+
+## BAYONET
+
+The socket bayonet, with its triangular-section blade, protruded almost 46cm (18in) beyond the muzzle. It alone required 44 separate manufacturing operations.
+
+## PATTERN 1853 RIFLE-MUSKET
+
+The rifle-musket was a highly successful weapon. In the hands of a competent infantryman it was effective beyond its sighted distance (820m/2,700ft), and at 90m (300ft) the bullet could pass through a dozen 1.5cm (½in)
+
+planks. A soldier was expected to maintain a firing rate of three to four rounds per minute.
+
+date origin 	 uk weight 	 4.05kg (9lb)
+
+barrel 	 83.8cm (33in)
+
+calibre 	.577in the revolutionary world full view ammunition The Pattern 1853 Rifle-Musket was loaded with 2½ drams (4.43g) of black powder and a 530-grain (34.35g) bullet of .568in caliber, which expanded to take the rifling of the barrel, which was .577in in diameter. Charge and ball were packed into cartridges and issued in packets of ten, with a dozen percussion caps.
+
+Nipple pierced to allow flash from cap to enter breech Packet of ten cartridges Enfield rifle-musket
+
+4 232–233 flintlock muskets and rifles          4 236–237 percussion-cap muskets and rifles          4 248–249 single-shot breech-loading rifles Hammer Lock cover plate bears maker’s name and insignia Trigger Attachment point for sling Small of stock fits hand
+
+Rear sight graduated to 2,700ft (820m)
+
+## CARTRIDGES
+
+The cartridges were dipped in wax to lubricate the bore. Rumours that it was pig or cow fat was offensive to both Hindu and Muslim soldiers, who were forbidden to eat beef or pork respectively; this is one suggested cause of the Indian Mutiny of 1857.
+
+## COMBINATION TOOL
+
+The combination tool included everything needed to care for the rifle in the field, including appropriately sized screwdrivers and spanners, and a pricker for the nipple.
+
+Also shown are accessories for the ramrod.
+
+When attached to the ramrod, this “worm” can be used to remove dud cartridges Screw-thread ball remover Muzzle plug (tompion) for preventing dust from entering barrel Ball remover Pricker Barrel band retaining spring Cartridges lubricated with wax
+
+## RAMROD
+
+As well as being used to ram wadded cartridge paper onto the charge and ball, the ramrod served as a cleaning rod. It was threaded to take the double-helix “worm” used to extract dud charges.
+
+weapon showcase Cartridges glued and twisted closed Ramrod Slot for cleaning patch Grooves to keep cleaning patch in place Barrel band securing barrel to stock Barrel Bayonet Screwdriver
+
+the revolutionary world 3 256–257 manually loaded repeater rifles 1881–1891          3 258–259 manually loaded repeater rifles 1892–1898          3 300–301 manually loaded repeater rifles 1900–2000 1775—1900 Manually Loaded Repeater rifles 1855 –1880 there had been attempts to produce repeater rifles and muskets as early as the 16th century.
+
+Notwithstanding the success enjoyed by the “cap-and- ball” revolvers of Colt and others, it took the unitary cartridge containing priming, charge, and projectile in one package to make the repeater rifle a satisfactory reality. The breakthrough came midway through the 19th century, and within a decade repeating rifles had become commonplace. Contained in magazines, their ammunition was fed to the breech as part of the single action that cleared the chamber of a spent cartridge case, cocked the action, and readied the gun for firing.
+
+date origin us weight 7½ lb (3.45 kg)
+
+barrel 27 in (68.2 kg)
+
+caliber .56 in COLT REVOLVing RIFLE The third model of Colt’s revolving rifles made a considerable impact, even though the loading procedure was cumbersome. The cylinder was removed, powder packed into the five chambers, a bullet packed on top, and the chambers sealed with wax. The cylinder was then covered with grease in order to protect against the possibility of loose powder igniting all the chambers at once.
+
+Hammer Lock plate Trigger guard and breech-operating lever Hammer Hammer Side-mounted hammer Cylinder has five chambers Fore sight Rear sight Cylinder axis rod Rear sight Barrel band Butt contains tubular magazine, holding seven rounds Barrel band Rear sling swivel Locking catch for cocking lever Magazine follower Trigger guard and cocking lever
+
+date origin france/us weight 5 lb (2.2 kg)
+
+barrel 24¾ in (62.8 cm)
+
+caliber .44 in and 6-bore le mat revolver rifle Based on a similar pistol, the Le Mat Revolver Rifle was an oddity. It boasted two barrels; the lower, charged with shot, acted as the axis pin for the nine-chambered cylinder, which was charged with ball cartridges. It was equipped with a loading/ ejection gate and rod, similar to those found on Colt’s early brass-cartridge pistols.
+
+date origin us weight 9¼ lb (4.2 kg)
+
+barrel 23 in (58½ cm)
+
+caliber	.44 rimfire
+
+## WINCHESTER MODEL 1866 CARBINE
+
+The principle shortcoming of Benjamin Tyler Henry’s underlever rifle lay in the way its tubular magazine was charged. In 1866, Nelson King, Henry’s successor, introduced an improvement that allowed reloading, even of a part-full magazine, via a port on the receiver. This doubled the rifle’s rate of fire to 30 rounds a minute.
+
+date origin us weight 10 lb (4.55 kg)
+
+barrel 28¼ in (72 cm)
+
+caliber .52 in
+
+## SPENCER RIFLE
+
+Christopher Spencer developed this rifle in his spare time, and it was to become the world’s first practical military repeater. Its tubular magazine, which held seven rounds, was located in the butt stock; a lever that formed the trigger guard opened the rolling breech and extracted the spent cartridge.
+
+Closing the breech pushed a fresh round into the chamber. The hammer was cocked by hand.
+
+date origin us weight 9 lb (4 kg)
+
+barrel 20 in (51 cm)
+
+caliber .44 in rimfire
+
+## HENRY MODEL
+
+When Oliver Winchester set up the New Haven Arms Co., he brought in Tyler Henry to run it.
+
+Henry’s first act was to design a repeating rifle worked by an underlever that ejected the spent round, chambered a new one, and left the action cocked. To lock the action, he used a two-piece bolt joined by a toggle-joint. This same method was later used by Maxim in his machine gun, and by Borchardt and Luger in their pistols.
+
+Ejector port full view Trigger Hammer best of both worlds The Non-Commissioned Officer (NCO) of the Union Army had one foot in the past and the other in the future. He carried a sword into battle, but also a carbine, the shortened form of the magazine repeater rifle Christopher Spencer patented in 1860.
+
+Hammer Forestock cap Loading port Fore sight Barrel band Rear sight Trigger guard and cocking lever Spent cartridge case is ejected downward Forestock Tubular magazine holds 12 rounds Small of the stock Comb Cylinder- retaining catch Cylinder with nine chambers 16-bore smooth barrel Ejector rod Trigger Rear sight Brass-bound butt Fore sight Bayonet lug Forward sling swivel Magazine holds 15 rounds .44 in caliber rifle barrel
+
+the boer war The technological advances of the early 20th century— smokeless gunpowder, automatic handguns, machine-fed rifles, and machine guns—had an impact on the conflict between the British and the two Boer republics (1899–1902).
+
+Earlier weaponry, such as the bayonet, was also still in use.
+
+the revolutionary world 4 252–253 manually loaded repeater rifles 1855–1880          3 258–259 manually loaded repeater rifles 1892–1898          3 300–301 manually loaded repeater rifles 1900–2006 1775—1900 the first generation of repeater rifles were mostly American underlever designs. Having been introduced to the bolt action by Von Dreyse and seduced into accepting it by Peter Paul Mauser and others in the single shot rifles of the 1870s, European users believed it to have clear advantages over the American rifles. Not only was the bolt action more secure—because it locked its action by means of lugs, which engaged with others in the receiver when the bolt was turned—but it was more practical when shooting from the prone position.
+
+date origin germany weight 10 lb (4.6 kg)
+
+barrel 32 in (83 cm)
+
+caliber 11 mm
+
+## MAUSER MODEL 71/84
+
+Peter Paul Mauser made many attempts to turn the single-shot bolt-action M1871 rifle into a repeater.
+
+Although obsolete almost immediately, the result was not superseded until 1888, even though its weaknesses in the design of its magazine, and its tendency to pull to the right, were well known.
+
+Cocking piece Rear sling attachment Detachable 12-round box magazine Rear sight date origin	 switzerland weight	 9.8 lb (4.45 kg)
+
+barrel	 30.75 in (78 cm)
+
+caliber	7.5 mm Schmidt-Rubin M1889 In 1889 Colonel Rudolf Schmidt of the Swiss Army developed a straight-pull bolt-action rifle with a 12-round box magazine. It was accepted as the regulation rifle, and remained in service, only slightly modified, until 1931, when its bolt action was rejigged to operate in half the length. The modified version was only discarded in the late 1950s, and a sniper’s version was in use until 1987.
+
+Ten-round detachable box magazine Magazine release catch Rear sight Bolt handle Fore sight Bolt handle Straight-through stock Barrel band Cocking piece Barrel band securing spring Manually Loaded Repeater rifles 1881–1891 Bolt handle Bayonet lug Cleaning rod Bolt is locked at the rear Bolt cover Trigger
+
+date origin germany weight 8 lb (3.82 kg)
+
+barrel 29 in (74 cm)
+
+caliber 7.92 mm x 57 m88
+
+## INFANTERIEGEWEHR M1888
+
+When it came to replacing the M71/84 the German Army set up a specification commission but the characteristics of new 7.92 mm ammunition had been misunderstood, leading to many burst barrels. In addition, the box magazine was a poor design; it was never rectified.
+
+date origin norway weight 9 lb (4.05 kg)
+
+barrel 30 in (76.2 cm)
+
+caliber 6.5 mm x 55 KRAG-JØRGENSEN M1888 Many held that the M1888 was obsolete before it was adopted by the Danish Army, because its five-round magazine had to be hand-loaded, one round at a time, and its bolt’s single locking-lug limited it to low-velocity ammunition. It came as a surprise, even to its inventors, that it was also adopted by both the US and Norwegian Armies.
+
+date origin italy weight 6 lb (3 kg)
+
+barrel 17 in (45 cm)
+
+caliber 6.5 mm x 52
+
+## CAVALRY CARBINE MODELLO 1891 TS
+
+Often known as the Mannlicher-Carcano, it used a modified version of the bolt-action Mauser developed for the M1889. It continued, in modified form, in Italian service until after World War II, and many were sold to dealers in the US; one found its way to Lee Harvey Oswald, who probably used it to kill President John F. Kennedy in 1963.
+
+Straight-through stock Bolt handle date origin uk weight 9 lb (4.05 kg)
+
+barrel 30 in (76.2 cm)
+
+caliber .303 in lee-metford The British Army opened a competition to find a replacement for the single-shot Martini-Henry rifle in 1879; 11 years later, it adopted the .303 in rifle, Magazine, Mark I (the name was changed in 1891 to include those of its designers). It had an enclosed bolt action and a box magazine, the work of James Lee, and had anti-fouling rifling developed by William Metford.
+
+Integral five-round box magazine Barrel band securing spring Fore sight Rear sight Forward-hinged magazine cover Bolt is locked at the rear Bolt Rear sight Straight- through stock Bayonet lug Integral six-round box magazine full view Magazine cap Rear sight Fore sight Bolt handle Rear sight Cleaning rod Fore stock holds eight-round tubular magazine Forestock cap Bolt handle
+
+the revolutionary world 4 252–253 manually loaded repeater rifles 1855–1880          4 256–257 manually loaded repeater rifles 1881–1891          3 300–301 manually loaded repeater rifles 1900–2006 1775—1900 by the start of the last decade of the 1800s—a century that had seen firearms technology revolutionized, the world’s armies were finally accepting that repeater rifles were reliable enough to be safely adopted for general use. In fact, the genre had almost reached its final form by this time; once the box magazine had been taken up, remaining modifications were often little more than cosmetic, to reduce weight or to allow cheaper manufacturing methods to be used.
+
+Semi-pistol grip date origin russia weight 9¾ lb (4.43 kg)
+
+barrel 31½ in (80.2 cm)
+
+caliber 7.62 mm x 54r “3-LINE” RIFLE M1891 The M1891 is usually known as the Mosin-Nagant, after its designers. It was Imperial Russia’s first repeater rifle, and its first in a “modern” caliber (a “line” was a measure approximating to one-tenth of an inch, and refers to its caliber). It was issued in a variety of forms, including a semi-carbine and a true carbine, and was still in service as a sniper rifle with the Red Army until the 1960s.
+
+date origin austria weight 8½ lb (3.78 kg)
+
+barrel 30 in (76.5 cm)
+
+caliber 8 mm x 50r
+
+## MANNLICHER M1895
+
+The straight-pull bolt-action M1895 was the work of Ferdinand von Mannlicher, and used a rotating locking lug turned in a camming (spiraled) groove.
+
+Ammunition was fed from a fixed box magazine that Mannlicher also designed. It was used widely throughout the Austro-Hungarian empire.
+
+Rear sight Integral five-round box magazine Cocking piece Bolt handle Rear sight Trigger Cocking piece Bolt handle Bayonet lug Eight-round tubular magazine within the stock below the barrel Manually Loaded Repeater rifles 1892–1898 Bolt handle Bolt Rear sight Five-round integral box magazine Rear sling attachment Wooden butt
+
+date origin germany weight 8¾ lb (3.97 kg)
+
+barrel 29 in (74 cm)
+
+caliber 6.5 mm x 55
+
+## MAUSER M1896
+
+Waffenfabrik Mauser began exporting rifles, to China, in 1875; then came the Mauser-Koka, for Serbia, the Belgian M1889, the Turkish M1890, the Argentine M1891, and the Spanish M1893. The world’s armies seemed to be beating a path to Mauser’s door, and in 1895 it was Sweden’s turn.
+
+The design it adopted had a number of modifications, some of which found their way into later types.
+
+date origin japan weight 9½ lb (4.3 kg)
+
+barrel 31½ in (80 cm)
+
+caliber 6.5 mm x 50sr
+
+## ARISAKA MEIJI
+
+At the conclusion of its war with China in 1895, the Japanese Army decided to adopt a modern weapon in a small caliber. This gun, designed by Arisaka, chambered for a 6.5 mm semi-rimmed round, with an enclosed five- round box magazine, was adopted. It used a turning bolt of the Mauser pattern with forward-locking lugs. It came into service in the 30th year of the Emperor Meiji.
+
+date origin france weight 9½ lb (4.3 kg)
+
+barrel 31½ in (80 cm)
+
+caliber 8 mm x 50r
+
+## LEBEL MLE 1886/93
+
+In 1885 Boulanger was appointed to the Ministry of War in Paris. One of his first priorities was to introduce a modern rifle. The result was the first rifle firing a small- caliber, jacketed bullet propelled by smokeless powder (invented by Meille in 1884/5); despite being mechanically unsophisticated, it rendered every other rifle in the world obsolete. This modified version followed in 1893.
+
+date origin germany weight 9¼ lb (4.15 kg)
+
+barrel 29¼ in (74 cm)
+
+caliber 7.92 mm x 57
+
+## MAUSER INFANTERIEGEWEHR
+
+By the time of the Gew98, Mauser had solved virtually every problem known to beset the bolt-action magazine rifle. It added a third rear-locking lug to reinforce the two forward-mounted lugs, as well as improving gas sealing and refining the magazine. If the rifle had a fault, it lay in the design of its bolt handle.
+
+Integral five-round box magazine Integral five-round magazine Bayonet lug Bolt handle Bayonet lug
+
+## FULL VIEW
+
+Cleaning rod Leaf-type rear sight Regimental identification plate Bolt handle Barrel-band-securing spring Bayonet lug Leaf-type rear sight Barrel band secures the barrel in the stock Fore sight Forestock cap Forward sling attachment Cleaning rod Semi-pistol grip Rear sight Semi-pistol grip Bolt handle protrudes horizontally Sling
+
+Indian firearms firearms were introduced to India from central Asia and Europe at the end of the 15th century. Well into the 19th century, indigenous craftsmen were still making matchlocks, rather than the more complicated wheellocks and flintlocks, because they were easier and cheaper to produce. However, Indian gunmakers were no strangers to intricate decoration, and produced some very ornate pieces using ivory, bone, and precious metals as inlays.
+
+Decorated lock plate Pentagonal-section butt Painted decoration the revolutionary world 4 156–157 asian matchlocks          4 246–247 ottoman empire firearms          3 262–263 asian firearms 1775—1900 Checkered grip Ring for belt hook Velvet sling Serpentine slow- match holder Gilded barrel band Trigger Ramrod Decorative brass banding matchlock pistol Matchlock pistols were a rarity in Europe, but were manufactured in small numbers in Asia. This example, from the end of the 18th century, was produced in northern India. The items below the pan are a holder for the prickers and a ring to which its chain was attached.
+
+date c.1800 origin northern india weight 1¾ lb (0.75 kg)
+
+barrel 9¾ in (24.5 cm)
+
+caliber 18-bore Serpentine Ivory decoration Enclosed serpentine match holder Pan Trigger Touch-holes Trigger Enclosed serpentine match holder Pricker Overlayed lock plate Pan Steel barrel Pricker holder Ring for pricker chain Trigger Gilded butt Bone inlay
+
+date c.1800 origin indore, india weight 7½ lb (3.4 kg)
+
+barrel 44 in (112 cm)
+
+caliber .55 in
+
+## INDORE TORADOR
+
+This simple matchlock shows some features commonly found on firearms of this period, notably the pentagonal cross-section of the butt stock and its pronounced recurve. The side plates at the lock are iron with crudely incised decoration that continues down the barrel; there are four leather thongs serving as barrel bands, but that closest to the breech is wire.
+
+date c.1800 origin lahore, india weight 1.9 lb (0.86 kg)
+
+barrel 8.5 in (21.5 cm)
+
+caliber 28-bore
+
+## PUNJABI FLINTLOCK PISTOL
+
+This is one of a pair of superbly decorated pistols made in Lahore (now part of Pakistan) early in the 19th century.
+
+By this time, Sikh gunmakers were well able to fashion the components of a flintlock, though most of their ener- gies were devoted to somewhat more workaday muskets known as jazails. This pistol has a “damascened” barrel, formed by coiling strips of steel around a mandrel and then heating and beating them to weld them together.
+
+Rear sling attachment Revolving cylinder with six chambers Wire barrel band Fore sight Striking steel Flint clamp screw Forward sling attachment Trigger Chamber vents Fore sight Ramrod Ramrod date c.1800 origin indore, india weight 13 lb (5.9 kg)
+
+barrel 24½ in (62 cm)
+
+caliber  .6 in MATCHLOCK REVOLVing MUSKET Made near the start of the 19th century in the Indore region of northern India, this matchlock revolving musket is an ambitious attempt to marry the technologies of two periods using local materials and fabrication techniques.
+
+The cylinder is indexed manually; the vents in the barrel are there in case the charge in a chamber not aligned with the barrel is ignited by flash-over—a real possibility.
+
+date c.1800 origin gwalior, india weight 6½ lb (3 kg)
+
+barrel 45¼ in (115 cm)
+
+caliber .55 in
+
+## BUNDUKH TORADOR
+
+Probably made in Gwalior at the beginning of the 19th century, this extremely ornate matchlock was almost certainly a presentation piece. Like all matchlocks, it was supplied with a touch-hole pricker, though since this, too, is gilded, it can hardly be considered to be entirely functional. Guns of this type were normally held beneath the arm, not against the shoulder.
+
+Leather barrel band Overlayed barrel Ramrod Cock Feather spring Ramrod pipe Pan English-style lock plate Trigger guard
+
+Asian Firearms portuguese traders introduced firearms to Japan when they first arrived there in 1543 ce, and indigenous craftsmen soon began to copy the new weapons. Less than a century later, all foreigners were expelled and the country was cut off from Western influences by imperial decree. As a result, later types of firearm were largely unknown in Japan, and Japanese gunsmiths almost exclusively produced matchlocks until the mid-19th century, using methods that were unlike those seen elsewhere.
+
+the revolutionary world 1775—1900 4 156–157 asian matchlocks          4 246–247 ottoman empire firearms        4 260–261 indian firearms Serpentine match holder Lock plate Stock made of red oak Brass lock cover plate Red-oak stock Brass plate where lock should be Rear sight Touch-hole Butt is covered in red fabric secured by embossed silver nails chinese matchlock wall gun Wall guns were designed to be fired from a rest, and were far too long and unwieldy to be used in any other way.
+
+This example originated in China; it is extremely simple in both design and execution, with a forward-acting snap-matchlock that was sprung by a long bar trigger.
+
+It is entirely functional, and devoid of decoration.
+
+date c.1830 origin china barrel 63 in (160 cm)
+
+Trigger guard Serpentine slow- match holder Butt plate is silver and bone Trigger Decorated leather- and-fabric pan cover Silver inlay Indian-style recurved butt Bar trigger Touch- hole Trigger Rear sling attachment Mainspring Serpentine match holder is forward-facing Pan Inlaid mon identifies gun as an Enamiya piece Trigger Hand guard
+
+Damascened barrel
+
+## FULL VIEW
+
+Tokugawa mon, or identifying cartouche japanese pill-lock carbine Though Japan’s doors were closed to foreigners for more than 200 years, there were occasional illicit contacts, and it was probably through these that pill-lock technology, which had a brief currency in Europe around 1820, arrived in Japan. This carbine has a device that dispenses a fresh primer “pill” from a small magazine when the pan cover is lifted.
+
+date c.1850 origin japan weight 8 lb (3.64 kg)
+
+barrel 26½ in (67 cm)
+
+caliber 12.5 mm large-bore japanese matchlock This type of matchlock firearm was sometimes used to launch a primitive incendiary device, the fire arrow. It dates from toward the end of the Tokugawa shogunate, 1603– 1867, as evinced by the mon that decorate the barrel. The lock and trigger are missing—the former has been replaced by a plain brass plate.
+
+date c.1850 origin japan weight 9 lb (4.12 kg)
+
+barrel 27¼ in (69.3 cm)
+
+caliber 18.3 mm japanese teppo Produced by Sakai’s eminent Enamiya family, gunmakers since 1560, this teppo displays their trademark features: the brass shapes inlaid into the stock, and the characteristic muzzle shape. It is decorated with kara kusa (vine motifs) and mon (family badges); the lacquerwork is probably a later addition. Its furniture is of brass, and the upper three flats of the octagonal barrel are decorated in silver, brass, and copper.
+
+date c.1800 origin japan weight 6 lb (2.77 kg)
+
+barrel 39¼ in (100 cm)
+
+caliber 1.142 in tibetan meda While Tibet, like Japan, was largely isolated from the rest of the world until the mid-19th century, it was for geographic rather than political reasons. Trade did occur, however, with India and China, and this matchlock, or meda, shows considerable Chinese influence in both form and decoration.
+
+Attached to the fore stock is a rest, an unusual feature.
+
+date c.1780 origin tibet weight 9¼ lb (4.15 kg)
+
+barrel 43.75 lb (111 cm)
+
+caliber 17 mm Fore sight Inlaid kara kusa Hammer Rest terminates in forked antelope horn Ramrod is a modern replacement Rear sight Intermediate sight Square fore stock is rounded here to accommodate the hand Pan Inlaid mon (family badge)
+
+the revolutionary world 4 218–219 american percussion cap revolvers          4 248–249 single-shot breech-loading rifles          4 252–253 manually loaded repeater rifles 1855–1880 1775—1900 the main shortcoming of the muzzle-loader was the time it took to reload. As a result, gunmakers the world over endeavored to produce weapons that could fire more than a single shot. The typical approach was to use multiple barrels, but guns with more than two barrels tended to be so heavy as to render them impractical. It was not until the 1830s that the young Samuel Colt developed his revolver—the first successful multi-shot, single-barreled firearm. Colt obtained a patent to protect his invention until 1857, but many sought ways to evade it. Most produced firearms that, at best, were only marginally effective.
+
+Multi-shot firearms Flintlock double-barreled gun This double-barreled sport gun bears the name of its maker, Bouillet of Paris. The firing mechanism, including the flint, is concealed in a box. The two levers in front of the trigger guard cocked the piece ready for discharging the barrels.
+
+date c.1760 origin france weight 7¼ lb (3.25 kg)
+
+barrel 32 in (81.3 cm)
+
+caliber  22-bore Flintlock revolving rifle French gunmakers produced some of the finest sport guns of the 17th century. This example has three revolving chambers, each fitted with its own striker and spring. This type of multi-shot weapon risked a dangerous chain reaction, in which firing one chamber set off all of the others.
+
+date c.1670 origin france weight 7½ lb (3.37 kg)
+
+barrel 31¼ in (79.5 cm)
+
+caliber  22-bore Small of stock has incised checkering Nipple for a percussion cap Disc is bored with seven radial chambers Rear sight Trigger Fore sight See detail Forward sling swivel Hammer Cleaning rod Stock is made of walnut Revolving chambers Stock inlaid with silver Cock Striking steel Striking steel Maker’s name Dual triggers Cocking levers Barrel- retaining  pin
+
+under-hammer turret rifle The so-called turret gun, an attempt to evade Colt’s patent, appeared in the 1830s. Examples also exist in which the wheel of cylinders is set vertically. It soon became apparent that if flash- over from one cylinder to another occurred, the result would most likely be catastrophic to any bystanders, or even the shooter himself.
+
+date origin uk weight 9 lb4.07 kg ()
+
+barrel 29 in (73.7 cm)
+
+caliber  14-bore volley gun London gunmaker Henry Knock produced seven- barreled volley-guns, the invention of James Wilson, for the Royal Navy from 1779 until about
+
+## 1805. The central barrel fired normally, and the
+
+other six were set off by the detonation of its charge. Many were later converted from flintlock to percussion, like the example shown here.
+
+date origin uk weight 9 lb (4.1 kg)
+
+barrel 20½ in (52.1 cm)
+
+caliber  75-bore martini-henry conversion This is a single-shot, breech-loading Martini-Henry rifle converted into a repeater by the addition of a box magazine and a spring-loaded finger. The finger, operated by the breech lever, pushed a cartridge into the breech as it closed. The British Army never adopted this modification.
+
+date origin uk weight 10½ lb (4.76 kg)
+
+barrel 33¼ in (84.5 cm)
+
+caliber  .45 in enclosed lock detail The flintlock sport gun often misfired, either because the flint had broken or the primer had become damp. When it did fire successfully, the flash and smoke from the pan could obscure the target from view or frighten the game. Enclosing the firing mechanism in a box (seen here with the cover removed), solved two of these problems, keeping the powder dry and minimizing disruption from the flash and smoke.
+
+full view Trigger guard Trigger Ramrod Hammer Breech lever Knob depresses magazine platform Rear sight Cartridges loaded through trap at top of magazine Round barrel The seven barrels are brazed together Magazine cut-off catch Octagonal barrel Metal-bound butt
+
+Rifle belt Musket/rifle balls The size of the ball was expressed in “bore,” being the number of balls of a set size that could be cast from 0.45 kg (1 lb) of lead.
+
+## EXPANDING BULLETS
+
+These bullets had a hollow base. The force of the powder detonating caused the bullets’ skirts to expand and take the rifling.
+
+The powder-and-ball era Lubrication grooves SHARPS’ CARTRIDGE This case is made of linen. Its base was cut off by the edge of the breech-block when the action was closed.
+
+## BURNSIDE CARTRIDGE
+
+Burnside’s breech-loading carbine incorporated a drop-down breech, loaded from the front. It was chambered for this unique tapering cartridge.
+
+WESTLEY RICHARDS “MONKEY TAIL” CARTRIDGE This paper-wrapped carbine cartridge incorporated a greased felt wad at the rear, which remained in the breech until expelled ahead of the following round.
+
+percussion caps Fulminate, which explodes when struck, is sandwiched between two layers of thin copper foil, shaped to fit over a pierced nipple.
+
+## SNIDER-ENFIELD CARTRIDGE
+
+The cartridge developed by Colonel Boxer for the Snider-Enfield rifle had a perforated iron base and walls built up from coiled brass strips.
+
+belted balls To improve accuracy, barrels were “rifled” with pairs of grooves into which the belt on the ball fitted.
+
+Ammunition Pre-1900 a gun is nothing without a bullet. In early times, bullets were often made of iron, and could pierce armor, but later, lead was adopted because it was easier to mold.
+
+The bullet-shaped projectile was developed only in the 19th century, and so too was the cartridge.
+
+To achieve any sort of accuracy, the ball fired from a smooth-bore gun had to be spherical and of an exact size.
+
+Rifling improved matters, but made the weapon slow to load; the problem was solved by the expanding bullet.
+
+Cap
+
+## LUBRICATION
+
+The grooves around the bullet were greased to lubricate the barrel and make it easier to clean.
+
+the revolutionary world 3 338–339 ammunition since 1900 1775—1900
+
+## PAPER-WRAPPED CARTRIDGES
+
+The first cartridges were nothing more than paper packages containing a measured charge of powder and a ball.
+
+Transitional cartridges Nineteenth-century gunmakers experimented with cartridges containing both propellant and projectile, which could be loaded whole. Wrapped in paper, skin, or fabric, they posed a problem for breech-loading guns, whose breeches had to be sealed. The solution was to switch to cartridge cases made of brass, into which the primer was integrated. This meant that the empty case had to be removed, but that was a small price to pay for perfect obturation (breech-sealing).
+
+## TEAT-FIRE CARTRIDGE
+
+These were produced as a way around Smith & Wesson’s monopoly of the bored-through cylinder. The bullet is entirely contained.
+
+## PIN-FIRE CARTRIDGE
+
+The gun’s hammer falls vertically on the pin, driving it into the primer that is contained in the base of the cartridge case.
+
+Small pin-fire cartridge Skirt
+
+.56-50 SPENCER This is the rimfire black-powder round for which the Civil War-era Spencer carbine, the first effective repeater rifle, was chambered.
+
+.44 HENRY This rimfire round had primer arranged around the base of its case. It was soon superseded by the center-fire cartridge.
+
+.450 MARTINI-HENRY The Martini-Henry rifle’s cartridge was loaded with 85 grains (5.5 g) of black powder. The bullet weighed 480 grains (31 g).
+
+.45-70 SPRINGFIELD The cartridge devised for the Springfield rifle was loaded with 70 grains (4.53 g) of powder and a 405-grain (26.25 g) bullet.
+
+.30-30 WINCHESTER The .30-30 Winchester cartridge was the first “civilian” round to be charged with smokeless powder; it had 30 grains (1.94 g) of it.
+
+.303 Mk V Until the 1890s, rifle bullets were blunt-nosed.
+
+The British Army’s Lee-Metfords and Lee- Enfields were chambered for the one shown.
+
+11mm CHASSEPOT After the Franco-Prussian War, the cartridge developed for the Mauser M/71 rifle was adapted for the Chassepot rifle, which was converted to take it.
+
+5.2mm x 68 MONDRAGON This early attempt at producing a high-velocity round in a miniature caliber was designed in Switzerland for the Mexican Mondragon rifle.
+
+.45 colt (Bénét)
+
+Colonel S.V. Bénét’s 1865 version of the center-fire cartridge formed the basis for Berdan’s later version.
+
+.45 COLT (THUER)
+
+Alexander Thuer developed a method of converting Colt “cap-and-ball” revolvers to fire this tapering brass cartridge.
+
+.44 SMITH & WESSON AMERICAN This first .44 in Smith & Wesson was unsatisfactory, as the projectile was “heel seated,” rather than crimped in the case.
+
+.44 SMITH & WESSON RUSSIAN The revolvers Smith & Wesson supplied to the Russian Army were chambered for a cartridge of different dimensions.
+
+.577 webley Many small-caliber bullets lacked the power to stop a man. Webley addressed this with a .577 in caliber revolver.
+
+.476 Webley The .577 in revolver was unwieldy and a replacement in .476 in caliber was adopted instead. It, too, was short-lived.
+
+.455 Webley Webley’s first smokeless powder cartridge was more powerful than earlier types, allowing a further reduction in bullet weight.
+
+## 10.4 mm BODEO
+
+The cartridge for the 10.4 mm Bodeo revolver, used by the Italian Army from 1891, gave a muzzle velocity of 837 ft (255 m) per second.
+
+## 7.63 mm BERGMANN
+
+The rimless, grooveless cartridge for which the Bergmann No 3 pistol was originally chambered was extracted by pressure alone.
+
+10-BORE PIN-FIRE Pin-fire shotguns were still common long after other such guns had disappeared.
+
+## WILDFOWL CARTRIDGE
+
+Large cartridges such as this were loaded with up to ¾ oz (20 g) of black powder and 3½ oz (100 g) of shot.
+
+Shotgun cartridges Only the very largest shotgun cartridges were made entirely of brass. Others had cardboard bodies.
+
+Rifle cartridges For a rifle to fire accurately, its ammunition must be properly formulated. Bullet weight and caliber must be matched accurately with the weight of the propellant charge.
+
+.44 ALLEN & WHEELOCK Allen & Wheelock revolvers were chambered for “lip-fire” cartridges (similar to rimfire), chiefly in small calibers.
+
+Pistol cartridges In all cartridges, dimensional accuracy is essential. Cases that are even minutely undersize may split on firing, making them difficult to extract. This is easily rectified in a revolver, but less so with a self-loading pistol.
+
+Egret feathers mounted in plume tube Low-skulled cap Aventail of iron and brass mail Cuirass plate Quilted fabric cuirass Mail shirt helmet Detail The upper finial of the helmet’s sliding nasal bar is decorated with an image of the elephant-headed Hindu god Ganesh.
+
+top This helmet, or top, is of a type worn by warriors across much of Asia from late medieval times onward. Characteristic features are the mail aventail and the spike and plume holders. The decoration includes a skull-and crossed-bones motif, possibly a sign of European influence.
+
+date late 18th century origin gwalior, india weight 2¾ lb (1.3 kg)
+
+height 35½ in (90 cm)
+
+peti and cap Indian warriors often wore a peti, a girdlelike cuirass made of padded leather or cloth. This example is from the arsenal of Tipu Sultan in Mysore. Like the low-skulled cap, it would have offered only limited protection in battle.
+
+date late 18th century origin mysore, india weight peti 3 lb (1.4 kg)
+
+length peti 8¾in (22cm)
+
+See detail sikh armor A Sikh warrior would have looked impressive in this mail shirt, plate cuirass, and plumed top (helmet). However, the iron-and-brass mail is “butted”—meaning that the rings are pressed against one another, rather than riveted or welded—so it could have been pierced by stabbing weapons and arrows.
+
+Arm defenses (dastana)
+
+indian armor and shields several indian states put up serious resistance to the British forces that were extending their rule over the subcontinent during the 18th and 19th centuries. They included the kingdom of Mysore, which held out from 1766 to 1799, and the Sikhs in the Punjab, who lost two wars against the British (1846–47 and 1848-49) but each time imposed heavy casualties. Indian armies used European muskets and artillery alongside traditional edged weapons and armor. As the disciplined use of firepower grew increasingly dominant in warfare, armor and shields were gradually relegated to a purely decorative role on the battlefield.
+
+the revolutionary world 4 92–93 european mail armor          4 94–95 european plate armor          4 170–171 asian armor and helmets          4 172–173 samurai armor 1775—1900 Skull and crossed bones date 18th century origin india Plume holders Sliding nasal bar
+
+Persian inscriptions Sikh dhal This round shield, or dhal, dates from the wars between the Sikhs and the British East India Company. The intricate decoration in gold damascene includes Persian inscriptions, so perhaps the shield was not the work of an Indian craftsman.
+
+date origin india weight 8½ lb (3.8 kg)
+
+width 22¼ in (59 cm)
+
+full view sikh quoit turban The sharp-edged quoit, or chakram, is a weapon particularly associated with the Sikhs. This tall turban carries six quoits of different sizes, ready to be lifted off and thrown at enemies. There are also three small knives in the turban armory.
+
+date 18th century origin india weight 2½ lb (1.2 kg)
+
+height 18½ in (47 cm)
+
+gun mechanism Detail On the back of the pistol shield, there is a single central grip, which is attached to the mechanisms of the four pistols. Each pistol can be cocked individually, but they are all fired by a single trigger, operated by the fingers of the hand holding the shield grip.
+
+Pistol hidden in boss Conical cane cap wrapped in silk pagri pistol shield This shield has a hidden offensive capacity. Each of the four golden bosses has a hinged flap that opens to reveal the short barrel of a small percussion pistol. The pistols, firing mechanisms, and hinged bosses have been fitted to a pre-existing conventional lacquered shield.
+
+date mid-19th century origin rajasthan, india weight 7½ lb (3.4 kg)
+
+width 21¾ in (55.5 cm)
+
+holy warriors The Sikh Akali sect combined religious asceticism with fearless fighting spirit. The chakram was the Akalis’ favored weapon, launched either by whirling around the forefinger or held between thumb and forefinger and thrown underarm. The position of the quoits on an Akali’s turban showed his spiritual status in the sect.
+
+Steel quoit Shield of black lacquered hide
+
+the revolutionary world 4 82–83 aztec weapons and shields          4 210–211 australian boomerangs and shields           3 272–273 oceanian shields 1775—1900 african
+
+## SHIELDS
+
+in traditional african societies, where body armor was not used, shields were the sole protection in warfare, aside from charms and amulets. Shields also played a prominent part in ceremonies and were decorated to show status or allegiance. Wood, animal hide, woven wicker, or cane made suitable materials for a shield to ward off arrows or blows from throwing knives, clubs, or spears. Shields could also be used offensively; for example, the sharpened lower tip of a Zulu shield stick might stab an opponent’s foot or ankle.
+
+date late 19th/early 20th century origin sudan Length 32½ in (82.5 cm)
+
+RECTANGULAR SUDANESE shield Peoples of southern Sudan and northern Kenya—such as the Turkana, Larim, and Pokot—traditionally made symmetrical rectangular shields from animal hides, including buffalo, giraffe, rhinoceros, and hippopotamus. The central wooden shaft doubles as a grip.
+
+date c.1900 origin dem. rep. of congo Length 51 in (130 cm)
+
+## WICKERWORK SHIELD
+
+Craftsmen of the Zande people of north central Africa made lightweight wickerwork shields into the early 20th century. A Zande warrior carried the shield in his left hand, along with any spare weapons, while holding his spear or throwing knife in his right hand.
+
+date 19th century origin south africa Length 48 in (122 cm)
+
+ZULU war SHIELD The Zulu warrior’s oval shield was made of cowhide that had been prepared by scraping, cleaning, and several days’ burial in soil or manure.
+
+The shield face was bound to the shield stick by two rows of hide strips that ran vertically from top to bottom of the shield. When advancing to attack, warriors would sometimes beat their shields with the butts of their spears.
+
+Slits cut in shield with strips of hide threaded through full view Color of shield indicates regiment to which warrior belongs, and his status Leather shield Central staff Two rods stiffen and strengthen shield Shield of closely woven wickerwork Scraped and cleaned cowhide Outer frame Top end of shield stick
+
+date 19th century origin	 sudan width 36.9cm (14½in)
+
+ROUND SUDANESE shield This round shield from Sudan is constructed of concentric cane hoops covered in colored cotton, with an iron outer frame, boss, and reinforcing bars.
+
+On the other side of the shield, there are hand grips of braided leather.
+
+date 19th century origin	 kenya length	 23½ in (60 cm)
+
+Kikuyu CEREMONIAL shield This wooden dance shield, or ndome, is of a type made by the Kikuyu people of Kenya.
+
+It was worn on the upper left arm by young warriors during elaborate Kikuyu initiation rights. The serrated design on the inside of the shield was always the same, but the outer design varied to indicate the age group and local origin of the warrior.
+
+full view Shield carved from single block of wood Serrated design Cotton-covered concentric cane hoops Iron reinforcing bars Iron boss Silver clasps Central boss date 19th century origin	 ethiopia width 19¾ in (50 cm)
+
+ORNATE ETHIOPIaN shield Shields were still in military use in the kingdom of Ethiopia in the early 20th century. They were typically round, made of animal hide, and mounted in silver clasps. As well as serving him in combat, an Ethiopian warrior’s shield announced his status.
+
+Shields were often decorated with the mane, tail, or paw of a lion, all symbols of Ethiopian royalty.
+
+the revolutionary world 4 82–83 aztec weapons and shields          4 210–211 australian boomerangs and shields          4 270–271 african shields 1775—1900 oceanian
+
+## SHIELDS
+
+warfare was common among the peoples of New Guinea and Melanesia, until largely stopped by colonial authorities during the 20th century. Wooden or wicker shields provided defense against weapons such as bone- or bamboo-tipped arrows, wooden spears, stone axes, and bone knives. The shields varied in size from large planks that could shelter the warrior’s whole body to smaller parrying shields and breastplates. Many of the shields shown here date from the 20th century, but are identical to those in use before.
+
+date 19th century origin	 new georgia length	 32½ in (83 cm)
+
+basket-weave war shield This elegant elliptical shield is typical of those used on headhunting raids in the Solomon Islands until the late 19th century. Its closely woven coiled-cane wicker was an effective block, even against spears. Too small for passive defensive tactics, it was manipulated actively to parry blows and missiles.
+
+date post-1950 origin irian jaya Length 51 in (129 cm)
+
+asmat war shield Warfare was central to the lives of the Asmat people, living on the south coast of the island of New Guinea.
+
+Their shields were not only a means of defense, but also psychological weapons, their decorative designs calculated to inspire terror. The flying fox fruit bat, represented on this shield, was symbolically associated with headhunting, since it took fruit from trees as a headhunter took a head from a body.
+
+Dyed geometric decoration Head section date c.1950 origin papua new guinea Length 15 in (38 cm)
+
+melpa chest-plate This chest-plate shield, or moka kina, was made by the Melpa people of the Upper Sepik region of Papua New Guinea. Worn as body armor, it has shell and bamboo decoration.
+
+Stylized representation of flying fox fruit bat Panel of bamboo bars Crescent-shaped shell Woven coiled- cane wicker
+
+## FULL VIEW
+
+date 19th century origin irian jaya Length 78¼ in (199 cm)
+
+asmat war shield Each Asmat shield was named after an ancestor and this, along with the design motif, gave the warrior spiritual power and protection. Shields were made of wood and carved with stone, bone, or shell tools. The colors used in the decoration had symbolic significance, red representing power and beauty.
+
+date post-1950 origin papua new guinea Length 48 in (122 cm)
+
+mendi war shield This Mendi shield is made of hardwood and decorated with a bold geometric pattern of opposing triangles known as a “butterfly wing” design. Unusually, highland shields were not used in ceremonies, but were purely for warfare. In combat, the shield was supported on a rope shoulder sling.
+
+date post-1950 origin papua new guinea Length 49¼ in (125 cm)
+
+arawe war shield This shield, from the Kandrian area of New Britain, is typical of those produced by the Arawe people. Made of three oval-section, vertical planks of wood joined with split cane strips, it is incised with distinctive zigzag and coiled motifs. Natural black, white, and red ochers are the only colors used.
+
+date post-1950 origin papua new guinea Length 67¼ in (171 cm)
+
+biwat war shield This shield is from Biwat village on the Yuat River in Papua New Guinea.
+
+Although narrow, it is a tall shield that would have offered full body protection. It is boldly decorated with a central panel and geometric shapes around the edge.
+
+Ancestor figure Panel containing zigzag motifs Bold geometric edging Hardwood shield with geometric decoration A tree kangaroo- tail design Cane binding holds wood panels together Turtle-like motif
+
+the modern world
+
+First powered flight 1904–05 Russo- Japanese war Aircraft first used for strategic military purposes Defeat of France Battle of Kursk; largest tank battle in history Radar first used German invasion of USSR 1936–39 Spanish Civil War at the start of the 20th century, Europe lay in a state of uneasy calm, as countries shifted alliances in an attempt to gain advantage in the coming war, a conflict made ever more likely by their maneuvers. All had learned the lessons of Prussia’s victories in the 1860s and 1870s, and by 1914, Europe’s leaders had their fingers on a hair-trigger, believing that slowness to mobilize would lead to disaster. In the event, it was the very speed of their reaction to the assassination of Archduke Franz Ferdinand by Serbian nationalists in June 1914 that precipitated catastrophe.
+
+Once Russia, fearful of Austrian plans, mobilized, the Austrians did so too, followed within a week by the Germans and French.
+
+Germany, desperate to knock France out of the war quickly, embarked on the Schlieffen Plan, which envisaged hooking its army around through Belgium and enveloping Paris from the north. The German General Staff, which throughout the war displayed great tactical ability, but strategic myopia, failed to realize the infringement of Belgian neutrality would bring Britain into the war. Even so, the German knock-out blow almost worked, as the French barely succeeded in halting the invaders in August at the Battle of the Marne.
+
+The war stabilized into a confrontation along a 500-mile (800-km) front stretching from Switzerland to the Channel ports, a line from which it was barely to shift in four years of bitter and bloody fighting. Dug into trench- lines, each side’s infantry forces proved almost impossible to dislodge, as machine guns, such as the air-cooled Hotchkiss, which fired 400–600 rounds per minute, made any attempt at assault a form of mass suicide.
+
+artillery bombardments Both sides struggled to find a means to break the deadlock. At Verdun in 1916, the Germans sought to bleed the French army dry by sucking it into holding a position where their artillery would inflict heavy casualties. The French defended Verdun tenaciously and did, Russo-Japanese War In February 1904, Japanese torpedo boats attacked the Russian fleet at anchor in Port Arthur. Outside observers drew the lessons that firepower would dominate any future conflict in Europe, and that the strategic imperative should be to strike fast, and hard.
+
+British launch the Dreadnought battleship German planes bomb Paris in August First purpose- built aircraft carrier commissioned First practical helicopter developed Germany annexes Czechoslovakia German invasion of Poland starts World War II The 20th century saw the outbreak of warfare on a truly global scale. Two world wars caused mass casualties and economic dislocation, as armies bigger than ever before fought continent-wide campaigns. New weapons systems ushered in an age of mechanized war- fare, with tanks, aircrafts, and missiles replacing infantry as the arbiters of victory. The invention of nuclear weapons, moreover, complicated strategists’ calculations with a destructive power that, for the superpowers, made their possession essential, and their use unimaginable.
+
+Japanese bomb Pearl Harbor— US enters war Battle of the Somme First use of tanks World War I ends Hitler becomes Chancellor of Germany Jet aircraft first used in combat World War I begins the modern world
+
+D-Day landing in Normandy USSR develops atom bomb Tet Offensive in Vietnam US withdrawal from Vietnam USSR invades Afghanistan indeed, lose 120,000 men, but the German effort cost an equally damaging 100,000 dead.
+
+The use of artillery bombardments to precede assaults often turned the terrain into a morass —notably at Passchendaele in 1917—where forward progress was next to impossible and the floundering infantry made enticing targets for machine gun nests.
+
+gas and tanks New weaponry was adopted to try to end the stalemate. Poison gas was first used on a large scale at Ypres in April 1915, and although the Germans then punched a 4-mile (6-km) hole in the French line, their advance was as much hindered as assisted by their fear of the chlorine gas’s effect. Similarly, tanks first appeared at the Somme in September 1916, but did not really play a major operational role until Cambrai a few months later. Planes were at first used for reconnaissance, and from 1915, Zeppelin airships and then Gotha bombers made raids on British cities, but to little real strategic effect. At sea, the German U-boat submarine fleet threatened for a while to throttle British trade, but the introduction of the convoy system in 1917 stifled the losses.
+
+Despite a temporary German breakthrough in spring 1918, their resources were overstretched, their manpower dwindling, and industry struggling to keep up with the army’s demands. When the Allies pushed back, it was against an open door, and, on the point of military, economic, and social collapse, Germany accepted an armistice in November.
+
+German nationalist leaders felt betrayed by the armistice, which they portrayed as a political rather than a military capitulation.
+
+The economic crisis of the Great Depression, and helped boosted the rise of Fascism in Italy and Germany and cemented the rule of Communism in the new Soviet Union.
+
+Throughout the late 1930s, Hitler rearmed Germany, intimidated or annexed his weaker neighbors, and cowed France and Britain into acceptance. Hitler’s failure to perceive that Britain was not fully acquiescent led to a strategic blunder—the invasion of Poland in 1939—which precipitated World War II.
+
+During 1940, German armies smashed through the Low Countries, Scandinavia, and France in a form of combat dubbed “Blitzkrieg.” Armored formations moved far ahead of the infantry in France, wrong-footing the French high command who had expected the Germans to revisit the Schlieffen Plan from the previous war.
+
+aerial battle Hitler’s army, having outstripped their supplies, allowed the bulk of British forces to escape from Dunkirk. Hitler thus committed himself to the world’s first purely aerial campaign, the Battle of Britain, in the summer of 1940, machine gun nest The widespread deployment of machine guns in World War I helped change the balance of advantage from attackers to defenders. The unit depicted here fought in the Battle of the Somme in July 1916, during which 20,000 British soldiers died in the first day of the attack alone, many of them falling victim to machine gun fire.
+
+French defeat by Vietnamese at Dien Bien Phu 1950–53 Korean War Six-Day War between Israel and Arab neighbors Suez crisis Collapse of the USSR attempting to defeat the Royal Air Force and so clear the way for the invasion of the British Isles. The British had, however, developed radar to detect attacking aircraft, and the German Luftwaffe, already depleted in the campaign for France, suffered irreplaceable losses to a new generation of British fighter aircraft such as the Spitfire. Stretched to the limit, the Germans switched to night-bombing of cities from First Gulf War 9/11 terrorist attack on the United States Second Gulf War Germany surrenders.
+
+Atom bomb used against Nagasaki and Hiroshima, Japan, surrenders Deployment of Cruise missiles begins
+
+September and the invasion was indefinitely postponed. Strategic bombing was later employed by the British against Germany on a massive scale in an effort to destroy strategic industries, and—controversially—to undermine the enemy’s morale. Dresden was virtually destroyed in February 1945 in a firestorm that engulfed it after an Allied bombing attack.
+
+German troops were well-equipped, mostly with versions of the Mauser Gewehr 98 bolt-action rifle, and ably led by Europe’s most professional officer corps. But at a higher level, strategic greed and overstretch bedevilled Germany’s war. The invasion of the Soviet Union in June 1941 showed Hitler had not learned the lessons of Napoleon’s 1812 campaign—Russia’s vast size meant it could absorb huge losses of territory and manpower.
+
+Although the Germans reached the outskirts of Moscow in December 1941, their tanks could not operate in the cold, their infantry was not equipped for the freezing conditions, and they had no manpower in reserve, while the Russians had fresh divisions from the Siberian hinterland.
+
+Germany was short of oil, too, which played a part in Hitler’s decision to push southward to the oil fields of the Caucasus. At Stalingrad in 1942, the Germans were sucked into a bitter house-by-house struggle, the first real example of modern urban warfare. The Soviet counter- stroke that November trapped more than 200,000 troops in the city, a loss from which the German army never really recovered.
+
+In the West, Allied armies made the largest amphibious landing in history in Normandy in 1944 and then thrust toward the German border. Germany developed a series of innovative weapons in a bid to turn the tide, including jet fighters (the V-2 rockets) and long-range missile systems, but could not prevent the fall of Berlin in May 1945.
+
+naval campaign in japan In the Pacific, the United States and its allies fought a parallel war against Japan from 1941.
+
+Precipitated by the unprovoked attack on Pearl Harbor in 1941, the war saw Japanese forces sweep through the Malay Peninsula, the Philippines, and a string of Pacific islands. The United States fought a naval-based campaign that left Japan’s acquisitions isolated. At Midway in June 1942, the Japanese lost four aircraft carriers—a blow from which they never really recovered. Although Japanese resistance was tenacious, and the conquest of Okinawa alone in 1945 cost 65,000 American lives, the question became whether the United States had the stomach to invade Japan itself.
+
+America’s response came with the first use ak47 The Kalashnikov assault rifle (or AK47) was first developed by the Soviet Union in 1947.
+
+Simple and inexpensive to manufacture, yet durable, it became a mainstay of guer- rilla and liberation movements worldwide.
+
+This version, from around 1980, is of Chinese manufacture.
+
+factory fight Russian soldiers advance during the 1942 Battle for Stalin- grad. The Red Army’s tenacious resistance in the city made the Germans fight – and take casualties – for every city block and building. Total German losses were over 500,000.
+
+of nuclear weapons on Hiroshima and Nagasaki in August 1945, which forced Japan’s surrender and transformed the calculations of military strategists. For the next 45 years, the world experienced a “Cold War” where a balance of terror kept the peace.
+
+The United States established the NATO alliance in 1949 to confront the Soviet Union in Europe, and the Soviets responded with the formation of the Warsaw Pact in 1955. NATO never had sufficient ground forces in western Europe to hold back a serious Soviet land offensive. Paradoxically, this weakness helped keep the peace, as any such attack would have unleashed a nuclear strike against the Soviet Union.
+
+conflict in korea and vietnam Potentially dangerous confrontations between the superpowers did emerge, most especially in Asia. In Korea from 1950–53, the United States fought a war to prevent the peninsula falling into communist hands, part of a strategy of containment that also led it into a fatal entanglement in Vietnam in the 1960s.
+
+Fearful of communist movement into South Vietnam, the United States was sucked into the provision, first of military aid and advisers, and then hundreds of thousands of ground troops. The war saw the first large-scale use of helicopters in a military role, and strategic bombing on a massive scale, but the United States was consistently wrong-footed in what was essentially a guerrilla war. With the pull- out of American combat forces in 1973, the South Vietnamese army were soon defeated.
+
+modern warfare The Middle East was historically an area of chronic tension, with a series of wars between Israel and its Arab neighbors (in 1948, 1967, and 1973). The superpowers did not become directly involved in conflicts in the region, except for funding proxies or diplomatic
+
+Although guerrilla tactics are almost as old as warfare itself—the Bar Kochba revolt of the Jews against Rome (132–35 ce) is but one example—in the 20th century, they have become identified with national liberation and revolutionary movements. When the Soviet Union invaded Afghanistan in 1979, it rapidly overran the cities, but found itself facing a disparate coalition of Afghan mujahidin guerrillas who dominated most of the countryside and received military aid, including Stinger anti-aircraft missiles, from the West. Eventually, the Soviets moved away from conventional armored tactics and saber-rattling, until the 1990s. It was the oppressive Iraqi regime of Saddam Hussein, with ambitions for regional dominance and —it was claimed—to develop nuclear weapons —that precipated two American-led campaigns in 1991 and 2003. The first war saw the first combat use of cruise missiles and “smart” bombs, which, with laser-guidance, were less likely to fall off-target.
+
+The 2003 Iraq campaign, which caused the fall of Saddam Hussein, featured a similar array of advanced weaponry. Yet American ground forces still had to fight their way to Baghdad, a task that proved that for all the advances in aircraft, missile, and communications technology, it still took troops on the ground to command a battlefield.
+
+Similarly, the United States’ failure to deal with a growing insurgency movement in Iraq showed that the possession of nearly unlimited logistical support, battlefield weaponry of a power almost unimaginable a century earlier, and an arsenal of nuclear missiles, meant little where this power could not be brought to bear. Terrorism, religious fanaticism, failed states, and genocidal civil wars were the new challenges, with death as often dealt by the machete as the M16. As throughout history, the possession of the most advanced weapons was never enough by itself to shape the political landscape.
+
+guerrilla warfare mounted combined helicopter-infantry sweeps of the mujahidin’s mountain strongholds. But, as with many guerrilla wars, they found it difficult to differentiate civilians from combatants and could not prevent the guerrillas from reinfilitrating areas they had just been driven from. Guerrilla warfare’s aim is to undermine the political will of an occupier to remain by inflicting unacceptable losses. Finding itself at the wrong side of this equation, the USSR withdrew its forces from Afghanistan in 1989.
+
+afghan guerrilla fighters gulf warriors An American Apache attack helicopter flies over a US tank formation in the Kuwaiti desert shortly before the assault on Iraq in 2003.
+
+Close air support of land formations played a key role in the American victory.
+
+Cutting edge Attachment for baldric (sash)
+
+Peacock tail pommel Carved wooden handle Two-edged blade wooden-hilted dagger The “peacock” style of this dagger’s pommel is functional as well as decorative, providing protection for the back of the hand. The pommel is typical of a Moroccan koummya knife. The elaborate sheath, overlaid with silver on one side, would have hung from a baldric (silk or leather sash) by its wearer’s left hip.
+
+date 19th century origin north africa weight ½ lb (0.23 kg)
+
+length 14¾ in (37.5 cm)
+
+Silver overlay on scabbard Triangular pattern decoration flyssa Although the origin of this knife is uncertain, in shape and decoration it resembles the flyssa saber used by the Kabyle Berbers of northeastern Algeria. The octagonal grip is covered in decoratively incised brass sheeting, which suggests this is a cut-down flyssa.
+
+date 19th/20th century origin north africa weight ¼ lb (0.16 kg)
+
+length 14½ in (37 cm)
+
+Brass sheeting covers hilt Metal binding african Edged weapons the traditional weaponry found in Africa reflects the continent’s ethnic and cultural diversity. North of the Sahara and along the East African coast, under Arab and Ottoman Turkish influence, weapons broadly resembled those found across the Islamic world. South of the Sahara the prevailing traditions produced edged weapons such as throwing knives, fighting bracelets, and “execution” knives that were often highly original in design. Many of these were in use long after the European colonial powers took over parts of Africa.
+
+the modern world 1900—2006 4 198–199 african edged weapons 1775–1900          4 200–201 great warriors: zulu warrior           4 202–203 oceanian clubs and daggers Broad heel of blade Straight back of blade
+
+Aluminium clip holds sheath in place finger knife This small, broad-bladed knife probably comes from the Labwor people of northeastern Uganda. Made of iron, it was worn on a finger, and could be used for everyday purposes such as cutting meat, as well as for fighting.
+
+Its advantage as a weapon was that, because of its diminutive size, it could be concealed in the hand.
+
+date c.1890–1950 origin uganda weight 1¾ oz (50 g)
+
+length 3¾ in (9.5 cm)
+
+Thin sheet-iron blade Elaborate non-functional shaping Inner hide sheath fits around wrist Finger ring Blunt iron blade Circular knife blade Decorative engraving Hide sheath fitted around outside edge of blade larim fighting bracelet Known to the Larim people of southern Sudan as a nyepel, this unusual weapon is a two-pointed knife worn on the wrist.
+
+Before entering a fight, a Larim man would remove the outer sheath, uncovering the sharp edge and slightly rounded tips of the hammered iron blade. Similar fighting bracelets and sheaths were used by other Sudanese peoples.
+
+date 20th century origin sudan weight 2½ oz (70 g)
+
+length 5½ in (14 cm)
+
+ceremonial knife This elaborately shaped implement, from what is now the Democratic Republic of the Congo in central Africa, is of a kind historically known as an “execution” knife. Such knives were, however, also used for broader ceremonial purposes in cults and rituals.
+
+They were highly valued trade items and functioned on occasions as money—iron was a common form of currency in Africa.
+
+date c.1900 origin dem. rep. of congo weight 1¼ lb (0.61 kg)
+
+length 24¾ in (63 cm)
+
+Aluminum clip
+
+Terminal brass ring curved sudanese knife Made by the Zande of southern Sudan, this “sickle knife”—so-called because of its curved blade—may have been used in war as a throwing knife, but could equally have served as a tool, or been carried as an emblem of power.
+
+date early 20th century origin sudan weight 1¼lb (0.55kg )
+
+length 18¼in (46.5cm)
+
+African Edged Weapons ornate ceremonial sword This sword belonged to Kofi Karikari, ruler of the West African Asante kingdom from 1867 to
+
+## 1874. It was an object of prestige rather than
+
+a weapon—its iron blade is unsharpened. The golden balls, representing seeds, are symbols of wealth and fertility.
+
+date c.1870 origin ashanti Brass and iron strips Wooden balls covered in gold Design of punched holes benin ceremonial sword Known as an eben, this sword is from the West African kingdom of Benin. Traditionally made of iron by Benin’s blacksmiths’ guilds, eben were carried by the Oba, the state’s sacred ruler, and by his chief warriors.
+
+date c.1900 origin benin length 17¾in (45cm)
+
+Copper blade Decorated hilt Polished- wood handle knob the modern world 1900 — 2006 4 198–199 african edged weapons 1775–1900          4 200–201 great warriors: zulu warrior          4 202–203 oceanian clubs and daggers kasai copper dagger Originating from the Kasai region of what is now the Democratic Republic of Congo, the distinctive style of this copper-bladed dagger seems potentially influenced by models from the Islamic world. The hilt is well shaped to form a comfortable grip.
+
+date c.1900 origin dr congo Tang of blade Carved ivory hilt
+
+Twin-pointed blade Curved metal blade Unsharpened iron blade benin chief with eben The kingdom of Benin flourished from the 15th to the 19th century.
+
+This bronze panel, produced by Benin craftsmen, shows a chief with an eben, the ceremonial sword raised in his right hand, which is a gesture of allegiance to the authority of the Oba, or king. The Oba himself carried an eben in ceremonial dances honoring his ancestors, touching it to the ground in front of his father’s tomb.
+
+Eben continued to be made into the 20th century.
+
+Curved iron blade sharpened on both edges Leaf-shaped blade Ridged handle Broad ridge Punched decoration throwing knife Eccentrically shaped multi-bladed throwing knives are found in many parts of Africa.
+
+This example is from the Congo. When the knife is thrown it turns about its center of gravity, making the blades scythe dangerously through the air. It will inflict a wound on an opponent whatever its point of impact.
+
+date late 19th/early 20th century origin dem rep congo Straight tapering blade
+
+Bayonets and knives 1914 –1945 european armies entered World War I with faith in the bayonet charge as the key to victory in infantry combat. Reality proved different: troops advancing with bayonets fixed were mown down by machine guns and rifle fire. Soldiers cynically claimed that bayonets were more use for opening cans than for combat. However, bayonets have remained in use since, typically with shorter blades. Fighting knives, which proved their worth in the trenches in 1914-18, were used by special forces in World War II, and as a close-combat arm for infantry lacking bayonets.
+
+German knife Bayonet Used on the Western Front toward the end of World War I, this short, double-edged bayonet was fitted to the Mauser Gewehr 1898 rifle, attaching to the barrel by a press stud.
+
+The knife bayonet was not official German army equipment, but troops were permitted to buy it. Many did, since it also doubled as a highly effective trench knife.
+
+date 1914–18 origin germany weight ½ lb (0.22 kg)
+
+length 10¼ in (26.1 cm)
+
+British 1907-pattern sword bayonet, Designed for the Short Magazine Lee-Enfield rifle, the 1907- Pattern was based on the Japanese Arisaka bayonet. Its long blade was meant to give a soldier extra reach, but in the trench warfare of 1914–18 it proved unusable when detached as a sword, and less apt as a bayonet than shorter blades.
+
+date 1914–18 origin uk weight 1¼ lb (0.51 kg)
+
+length 22 in (56 cm)
+
+British knuckle-duster knife This knife was used by British special forces in the Mediterranean theater during World War II. Cast from a single piece of brass, the hilt has four protruding studs that form a knuckle-duster for punching.
+
+The blade has a single cutting edge that sweeps upwards to the point. The shape of the grip makes this a knife for upward stabbing, rather than slashing.
+
+date c.1943 origin uk weight 1 lb (0.45 kg)
+
+length 11¾ in (30 cm)
+
+full view American knuckle-duster trench knife The US Mark 1 1918 knuckle knife was intended as a World War I “trench-clearing tool,” but arrived too late for use on the Western Front. Winning fame as a World War II paratroop weapon, it had three attack modes: striking an opponent’s skull with the pommel nut, punching him with the knuckle-duster, and stabbing upward with the blade.
+
+date 1940s origin us weight 1¼ lb (0.5 kg)
+
+length 22 in (56 cm)
+
+Maker’s initials Stabbing blade Brass knuckle- duster grip Sheet-steel hilt Double-edged blade Pommel has slot for fitting bayonet to rifle Muzzle ring the modern world 4 194–195 european and american bayonets          4 234–235 weapon showcase: baker rifle          4 250–251 weapon showcase: enfield rifle musket 1900—2006 Cross-guard T-shape fits in palm Single- edged blade Finger holes Knuckle stud Blade welded into hilt Pommel nut
+
+German S84/98 bayonet This bayonet was introduced in 1915 as a cheap and sturdy attachment for the Mauser Gewehr 1898 rifle. It has no muzzle ring, being held to the rifle solely by a long groove in the pommel.
+
+S84/98’s continued to be produced up to World War II, which is when this example was made.
+
+date 1940s origin germany weight 1 lb (0.42 kg)
+
+length 15 in (38.2 cm)
+
+US M1 knife bayonet In April 1943, the US Army decided to adopt a shorter bayonet for the M1 Garand rifle. Thus the M1 knife bayonet, with its 10 in (25.4 cm) blade, replaced the 16 in (40.6 cm) blade M1905 and M1942 models. The bayonet’s M7 scabbard was manufactured by Victory Plastics.
+
+date origin us weight 1 lb (0.43 kg)
+
+length 14½ in (36.8 cm)
+
+Fairbairn-Sykes Fighting Knife Modeled on daggers used by Chinese gangsters, this knife was developed in the 1930s by Shanghai police chief William Fairbairn and his colleague Eric Sykes. In World War II, it was used by Allied special forces such as Commandos, who were also trained by Fairbairn and Sykes in hand-to-hand combat.
+
+date 1941–45 origin uk weight ½ lb (0.23 kg)
+
+length 12 in (30 cm)
+
+American Mk 3 fighting knife In 1943 the US Army introduced the Mk 3 knife for hand-to-hand fighting. It was rapidly put into mass production, with 2.5 million manufactured by 1944.
+
+The hilt and blade were influenced by the British Fairbairn-Sykes fighting knife (below). The US Marines instead adopted the Ka-Bar combat knife.
+
+date c.1950 origin us weight ½ lb (0.24 kg)
+
+length 11 in (29.5 cm)
+
+Single-edged blade Plastic scabbard Pressed-steel throat Grooved plastic grip Single-edged blade Short blade Deep fuller Wooden hilt Steel flash guard on top of hilt Leather washers form grip Double-edged blade Cylindrical grip Deep fuller Diamond-section blade Bayonet release catch Recurved quillons One-piece, all-steel hilt and blade Slender blade slips between ribs, but is also ideal for slashing
+
+world war I The opposing lines on the Western Front during World War I stretched from the Swiss border to the North Sea. These troops from the Kriegsmarine (German navy), armed with Mauser Gew98 rifles, occupied defensive positions at its northern extremity.
+
+french wwi infantryman the french conscript infantryman who fought on the Western Front in World War I (1914–18) was a citizen-soldier, taught to regard service in the army as his duty to the republic and a source of patriotic pride. Despite immense losses and the demoralizing attrition of trench warfare, which reduced parts of the French army to mutiny in 1917, the “poilu” (French slang for “hairy one”) held firm in the great battles of the Marne and Verdun.
+
+Cost of the war Out of 8.3 million French soldiers who served in the Great War, almost 1.4 million were killed.
+
+Another 3 million were wounded, around three-quarters of a million suffering permanent or long-term disability. More than one in five of all Frenchmen was a casualty and the percentage of men between 18 and 35 who died was high enough to justify talk of a “lost generation.” The terrible losses at Verdun were memorialized by the Ossuary at Douaumont, which contains the remains of hundreds of thousands of unidentified French and German soldiers.
+
+Puttees from ankle to knee French infantrymen fighting at Verdun In February 1916 the Germans attacked the fortified city of Verdun, aiming to “bleed the French army white.” Pounded by German heavy artillery, French infantry held the front through months of desperate defensive fighting at a cost of around 400,000 casualties.
+
+trench uniform The French infantry’s original blue overcoats, bright red pants, and cloth kepis were replaced in 1915 by this more discreet blue-gray uniform and steel helmet.
+
+Pale blue-gray greatcoat french trench knife ossuary at douaumont the modern world Citizen army Before the war, every young Frenchman was obliged to undertake national service lasting two years (raised to three in 1913), after which he passed into the reserve for the rest of his adult life. As a result, France could theoretically regard all of its male population as trained soldiers. More than 8 million served at some time in the war with, at the peak, 1.5 million Frenchmen in service. The French army began the war with an antiquated rifle, inadequate machine guns, little heavy artillery, and bright uniforms that made perfect targets. Thus equipped, soldiers were committed to the offensive against overwhelming German firepower. Approximately 1 million French casualties were suffered in the first three months of the war, although the defeat of the Germans at the First Battle of the Marne ensured France’s survival. Trench warfare followed, a natural consequence of the defensive superiority that rapid- fire rifles and machine guns gave to entrenched troops. French infantry suffered even worse conditions than their British allies, subjected to artillery bombardment and poison gas in generally poor quality trenches. Morale survived the slaughter at Verdun, but futile offensives in early 1917 brought widespread unrest.
+
+The authorities were forced to improve food and leave, and be less wasteful of men’s lives. Morale recovered sufficiently for the French infantry to make a major contribution to victory in 1918.
+
+Machine gun crew French infantry operate a Hotchkiss machine gun in 1915. France’s guns were generally of inferior performance—this Hotchkiss is being fed with 25-round strips of ammunition, rather than having a more efficient belt feed.
+
+Adrian helmet Haversack with personal items
+
+Hotchkiss machine gun mannlicher-berthier rifle tools of combat F1 grenade P1 grenade citron foug grenade humanity is mad! what scenes of horror and carnage! hell cannot be so terrible. men are mad!” “ second lieutenant alfred joubert, diary entry may 23, 1916, verdun great warriors
+
+the modern world 1900—2006 4 228–229 self-loading pistols 1775–1900           3 292–293 self-loading pistols 1920–1950          3 294–295 self-loading pistols from 1950
+
+## ASTRA M901
+
+A direct copy of the Schnellfeuer (“Rapidfire”) version of the Mauser C/96, the Astra was produced in Spain.
+
+It has an automatic-fire capability, but is impossible to control in that mode.
+
+date 1920s origin spain weight 4 lb (2.1 kg)
+
+barrel 6¼ in (16 cm)
+
+caliber 7.63 mm mauser date 1909 onward origin us weight 2 lb (1.1 kg)
+
+barrel 5 in (12.7 cm)
+
+caliber .45 in acp
+
+## COLT M1911A1
+
+Browning designed the Colt M1911 (the year it was accepted as the US Army’s official side- arm) in response to a demand by soldiers fighting Moro rebels in the Philippines for a pistol firing the heavy .45 round in place of the less-effective .38-caliber revolvers with which they were issued. The example shown here is a later M1911A1.
+
+Lever holds slide back for stripping Grip safety Fore sight date origin us weight 2¼ lb (1.02 kg)
+
+barrel 6 in (15.2 cm)
+
+caliber .38 in acp colt m1902 As well as the Model 1900 pocket pistol, Browning designed a series of military self-loading pistols in .38 ACP caliber, with an unsatisfactory double-link locking system that produced a jerky action. That, and the light rounds they fired, disqualified them in the eyes of the US Army.
+
+Butt houses seven-round removable magazine 20-round fixed magazine Magazine catch Safety catch Hammer Removable butt stock the borchardt and the mauser c/96 demonstrated that self-loading pistols worked reliably; however, they were expensive to produce and rather unwieldy. The next generation of such guns became simpler, and thus cheaper to manufacture. The best of the weapons from the early years of the 20th century, such as John Moses Browning’s Colt M1911 and Georg Luger’s P’08, are still in demand, while originals are eagerly sought by collectors.
+
+Self-Loading pistols 1900 –1920 Rear sight Hammer Butt houses seven-round removable magazine Lanyard eye Recoil spring housing Patent data Loading/ ejector port Tangent rear sight Hold-open catch holds the slide back Rate-of-fire selector
+
+date origin united kingdom weight 2¼ lb (0.9 kg)
+
+barrel 5 in (12.7 cm)
+
+caliber 9 mm short webley model 1910 Webley of Birmingham produced a range of locked-breech self-loading pistols from about 1904. They were all designed by J.H. Whiting, who collaborated with Hugh Gabbett-Fairfax on the Mars, and were taken up by some police forces.
+
+date origin austria-hungary weight 2¼ lb (0.9 kg)
+
+barrel 6 in (16 cm)
+
+caliber 7.63 mm mannlicher
+
+## STEYR-MANNLICHER M1905
+
+Produced by Werndl at Steyr, the M1905 was the last in a series of designs executed by Ferdinand von Mannlicher, who was better known for his rifles.
+
+It was complicated and expensive to manufacture, and as a consequence, was short-lived.
+
+## NAMBU TAISHO
+
+The first Nambu pistols appeared in 1909. Though they were clearly influenced by the Luger P’08, they have nothing in common with it internally, the unlocking of the bolt from the barrel being achieved by the rotation of a linking block.
+
+date origin japan weight 2¼ lb (0.9 kg)
+
+barrel 4 in (12 cm)
+
+caliber	8 mm nambu LUGER P’08 One of the best-known guns in the world, with almost iconic status, the Pistole ’08 was designed by Georg Luger in 1900. He copied many features of Borchardt’s gun of seven years earlier, but adopted a leaf recoil spring and moved it into the butt, improving the overall balance considerably. Luger also produced improved ammunition for his pistol, the “Parabellum” round, which was to become the world standard.
+
+date origin germany weight 2 lb (0.8 kg)
+
+barrel 4 in (10 cm)
+
+caliber 9 mm parabellum STEYR “HAHN” M1911 Werndl tried for many years to produce a successful military pistol, and succeeded with the M1911. It was similar in concept to the Colt, except that its barrel rotates, rather than tips, to unlock it from the slide.
+
+date origin austria weight 2¼ lb (0.9 kg)
+
+barrel 9 in (12.7 cm)
+
+caliber	7.63 mm Magazine grip 4 in (10 cm) barrel, the longest permitted in Germany after World War I Safety catch Butt houses eight-round fixed magazine Hold-open lever Butt houses seven-round removable magazine Hammer Butt houses ten-round fixed magazine Safety catch Magazine catch Ejector port Loading port Barrel locking lug Hammer (or “hahn”)
+
+Fore sight Concealed hammer Fore sight Loading/ejector port Butt houses eight-round removable magazine Cocking grip Fore sight Ejector port Fore sight Hold-open lever Ejector port Toggle doubles up as cocking grip Ramp breaks toggle joint upward Magazine catch Butt houses ten-round removable magazine Safety catch
+
+the modern world 1900—2006 4 228–229 self-loading pistols 1775–1900          4 290–291 self-loading pistols 1900–1920          3 294–295 self-loading pistols from 1950 Recoil spring housing Butt houses eight-round removable magazine Semi-shrouded hammer date         1932 origin	 spain weight	 2 lb (1.07 kg)
+
+barrel	 5 in (12.5 cm)
+
+caliber	 9 mm largo star model m Manufactured by Echeverria in Eibar, the Star was one of the best of many copies of the Colt M1911, though it lacked the grip safety that the Colt had acquired by the mid-1920s. It was produced in a variety of models and calibers until the mid-1980s.
+
+date        1933 origin	 ussr weight	 1¾ lb (0.85 kg)
+
+barrel	 4 in (11.6 cm)
+
+caliber	 7.62 mm soviet auto TOKAREV TT Model 1933 The Tokarev TT was the first self-loading pistol on general issue to the Red Army. In design, it was similar to the Browning GP35, with a single swinging-link locking system. It was simple and could be field-stripped without tools. It lacked a safety catch, but could be put at half-cock.
+
+date origin	 belgium weight	 2 lb (0.99 kg)
+
+barrel	 4 in (11.8 cm)
+
+caliber	 9 mm parabellum browning gp35 The High Power (Grand Puissance) model, the last Browning design, was taken up by the Belgian Army, and during World War II, plans for it were smuggled to Britain, and it was put into production in Canada. Its basic principle was the same swinging link at the rear of the barrel seen in the M1911, but detailed changes made manufacture cheaper and maintenance easier.
+
+It was the first self-loading pistol adopted by the British Army, in 1954.
+
+Self-Loading pistols 1920 –1950 if there were any lingering doubts as to the reliability of the self-loading pistol, they were largely dispelled during World War I, when officers of four of the major participating armies (Austria- Hungary, Germany, Turkey, and the United States) all carried them.
+
+Poorly designed models were still being produced, but few of these found their way into military service (the Japanese Type 94 was an exception). The new types generally proved to be worthy successors to masterpieces like the Luger and the Colt M1911.
+
+Fore sight Data engraved on slide Hold-open notch Milled cocking grip Rear sight Hammer Safety catch Butt houses 13-round removable magazine Magazine release catch Hold-open lever retains slide to rear Fore sight Hammer Safety catch Lanyard eye Butt houses eight-round removable magazine Hold-open lever holds slide back Recoil spring housing
+
+date 1960s origin	 ussr weight	 2 lb (1.03 kg)
+
+barrel	 5 in (12.7 cm)
+
+caliber	 9 mm makarov
+
+## STECHKIN APS
+
+The Stechkin was an unsuccessful attempt to produce a fully-automatic pistol for use by security forces.
+
+Like the Makarov, it was an unlocked blowback design based on the American Walther PP. In automatic mode it was practically uncontrollable.
+
+date 1950s origin	 ussr weight 	 1 lb (0.7 kg)
+
+barrel	 3 in (9.7 cm)
+
+caliber	 9 mm makarov
+
+## MAKAROV PM
+
+The Tokarev’s replacement as the standard Red Army side-arm was a copy of the American Walther PP, with double-action and a two- stage safety device. Its ammunition was about as powerful as could safely be used in a blowback design at that time.
+
+20-round double-column magazine in butt Fore sight date origin	 poland weight	 2 lb (1.05 kg)
+
+barrel	 4 in (11.5 cm)
+
+caliber	9 mm parabellum
+
+## RADOM M1935
+
+Wilneiwczyc and Skrzypinski’s design for the Radom factory, executed in the early 1930s, was similar in concept to the Browning High Power, but it was more compact and had extra security features. These included a grip safety, plus a device that dropped the hammer and retracted the firing pin, allowing the pistol to be fired safely with one hand.
+
+date origin	 italy weight	 1 lb (0.65 kg)
+
+barrel	 6 in (15.2 cm)
+
+caliber	9 mm short BERETTA Model 1934 Pietro Beretta SpA is one of the world’s longest- established gunmakers, with a history spanning four centuries, and a tradition of supplying its nation’s army with weapons. Its M1934 was to become the official Italian officer’s side-arm during World War II. The design evolved from one executed two decades earlier.
+
+Blowback-operated and without any form of locking mechanism, it was restricted to firing a reduced- power round, originally in 7.65 mm caliber.
+
+Polish eagle proof mark Data engraved on slide Decocking lever Rear sight Hammer Safety Catch Grip safety Hold-open lever Fore sight Data engraved on slide Grip for pulling slide to rear Recoil spring housing Safety catch and hold- open lever Magazine release catch Butt houses removable nine-round magazine Hammer Muzzle brake Combined safety and rate-of-fire selector Hold-open lever retains slide to rear Butt houses removable eight-round magazine Hold-open lever retains slide to rear Safety catch Hammer
+
+the modern world 1900—2006 4 228–229 self-loading pistols 1775–1900          4 290–291 self-loading pistols 1900–1920          4 292–293 self-loading pistols 1920–1950 date origin italy weight 2 lb (0.98 kg)
+
+barrel 4 in (10.9 cm)
+
+caliber	9 mm parabellum
+
+## BERETTA MODEL 92FS
+
+Chosen as the US Military’s official side-arm to replace the Colt M1911A1 in the 1980s, the Beretta 92 was a conventional short-recoil design, its frame forged from aluminum to reduce weight. The slide top was cut away to allow single rounds to be loaded manually, should the magazine be lost or damaged.
+
+Magazine release catch Butt houses 13-round magazine Recurved trigger guard to facilitate two-handed grip Milled cocking grip facilitates pulling back slide Fiber-reinforced polymer shoulder stock Telescopic sight date 1970s origin germany weight 3 lb (1.55 kg) including stock barrel	 4 in (11.6 cm)
+
+caliber 9 mm parabellum
+
+## HECKLER & KOCH VP70M
+
+The VP70M, the first pistol to make extensive use of plastic, was another attempt to produce a fully automatic handgun, this time limited to firing three-round bursts.
+
+The mechanism that controlled this was housed in the detachable butt stock; when it was removed, the pistol reverted to normal semi-automatic operation.
+
+Rear sight Push-button safety catch Self-Loading pistols From 1950 the duke of wellington questioned the value of the pistol as a weapon of war as long ago as the early 19th century, and as soon as we entered an era of mechanized warfare, the answer became clear: it was of little value except as personal protection and therefore, perhaps, for bolstering morale. Where pistols did prove to be of lasting value, however, was in the field of security and police operations, and a new generation was developed with these applications in mind.
+
+Butt houses 18-round magazine Burst-fire selector Enclosed hammer Fore sight Muzzle brake Hold-open lever holds slide to rear Slide-mounted safety catch Hammer Interchangeable barrel
+
+date origin	 austria weight	 1 lb (0.6 kg)
+
+barrel	 4 in (11.4 cm)
+
+caliber 9 mm parabellum
+
+## GLOCK
+
+The Glock 17’s frame was fabricated entirely from plastic, with four steel rails to act as guides for the metal reciprocating parts. Uniquely, its rifling was hexagonal: a series of six flats linked by small arcs. It used Browning’s single swinging-link/ tipping-barrel locking system.
+
+date origin israel weight	 5 lb (2.66 kg)
+
+barrel 10 in (24.5 cm)
+
+caliber	.44 magnum desert eagle As befitting a pistol capable of handling the most powerful ammunition, everything about the Desert Eagle was made on a massive scale. Unlike almost all other self- loading pistols, it was gas operated, and of modular design. Its standard frame was able to accept sets of components for different ammunition, from .357 Magnum to .5 Action Express, and barrels of different lengths.
+
+Butt houses ten-round magazine Hammer date origin germany weight 1 lb (0.75 kg)
+
+barrel 4 in (10.7 cm)
+
+caliber 9 mm parabellum
+
+## HECKLER & KOCH USP
+
+The Universal Service Pistol was Heckler & Koch’s answer to the Glock, and it, too, was largely made of plastic and employed the tried- and-tested Browning locking system. The USP was designed to facilitate modification, and could be configured in nine different ways.
+
+Milled cocking grip Enlarged trigger guard for gloved hands Adjustable eyepiece Identification data Elevation adjustment Butt houses nine-round removable magazine Safety catch Recurved trigger guard to facilitate two-handed grip Butt houses 17-round magazine Recoil spring and laser target indicator housing Frame-mounted safety catch Enlarged trigger guard
+
+the modern world 1900—2006 4 218–219 american percussion cap revolvers          4 222–223 british percussion cap revolvers          3 298–299 revolvers from 1950 date origin us weight 1 lb (0.85 kg)
+
+barrel	 5 in (12.7 cm)
+
+caliber .38 special
+
+## SMITH & WESSON MILITARY AND POLICE
+
+Having championed the hinged-frame revolver, Smith & Wesson, with the advent of more powerful ammunition, was obliged to switch to a solid frame with a swing-out cylinder for its Military and Police pistol.
+
+This was chambered for the long .38 Special round.
+
+date origin us weight 1 lb (0.6 kg)
+
+barrel 4 in (10.2 cm)
+
+caliber	.38in colt police positive In 1905 Colt modified its Official Police revolver, fitting the Positive lock with an intercepting safety device. In various forms, the Police Positive stayed in production for well over half a century.
+
+Grip retaining screw Fore sight Cylinder axis and ejector rod Cylinder- retaining catch Cylinder holds six rounds of ammunition Revolvers 1900 –1950 most of the development work on the revolver had been completed by the 1890s, and all that remained was for the design to be refined. There was little to be done to improve the reliability of such a simple design, but there were potential economies to be achieved in the production process, and this meant lower prices for the end user. In a very competitive marketplace, this often meant the difference between success and failure.
+
+date origin uk weight 2 lb (1.05 kg)
+
+barrel 6 in (15.2 cm)
+
+caliber .455 eley WEBLEY & SCOTT Mk VI The last in a long line of service revolvers produced by the famous Birmingham partnership, the Mark VI was introduced early in World War I.
+
+It retained many of the features of its predecessors, and was renowned for its sturdy reliability.
+
+Cylinder contains six .455-caliber rounds Cylinder- retaining key Recess for cylinder- locking bolt Retaining stirrup locks barrel and cylinder assembly to frame Fore sight Cylinder- retaining catch Cylinder gate pivot pin Lanyard eye for attaching strap Fore sight
+
+date origin us weight 2 lb (0.96 kg)
+
+barrel 5 in (14.4 cm)
+
+caliber	.45 acp
+
+## SMITH & WESSON M1917
+
+During World War I, Smith & Wesson was commissioned to produce a revolver that chambered the rimless .45 ACP round. The model was a success, but had extraction problems unless flat half-moon clips, each carrying three rounds, were used.
+
+Cylinder holds six .45 ACP- caliber rounds Pivot pin for cylinder gate Cylinder axis and ejector rod the iconic revolver From the earliest Hollywood westerns to the latest TV cop shows, the revolver has become an icon of civilian law enforcement.
+
+date origin us weight 2 lb (1.15 kg)
+
+barrel 5 in (14.4 cm)
+
+caliber  .455 eley
+
+## COLT NEW SERVICE
+
+The Colt New Service was the last standard-issue service revolver produced by Colt for the US Army. Unbreakable under normal conditions, it had a solid-frame design with a swing-out cylinder. The British Army also bought them in great numbers, chambered, like this example, for the .455 Eley round.
+
+ENFIELD No.2 Mk 1 After World War I, the British Army decided to adopt a lighter caliber for its service side-arm. The revolver it chose was almost a copy of the Webley Mark VI. The version shown was issued to tank crews, and lacks a hammer spur.
+
+date origin uk weight 1 lb (0.76 kg)
+
+barrel 5 in (12.7 cm)
+
+caliber .38 in Spurless hammer Cylinder holds six .38-caliber rounds Cylinder holds six rounds Pivot pin for cylinder gate Type and caliber stamped into barrel Top strap Cylinder bolt locking recess Cylinder release catch Maker’s mark
+
+the modern world 1900—2006 4 218–219 american percussion cap revolvers          4 222–223 british percussion cap revolvers          4 296–297 revolvers 1900–1950 date 1952 onward origin us weight 84 lb (38 kg)
+
+barrel 2 in (5 cm)
+
+caliber .38 special
+
+## SMITH & WESSON AIRWEIGHT
+
+As well as the giant Magnums, most gunmakers produced “pocket” revolvers. These were lighter in weight than semi-automatic pistols chambered for the same ammunition, and were easier to conceal. Smith & Wesson’s Centennial range, which included the Airweight, carried five rounds and had shrouded hammers.
+
+Fore sight Cylinder axis rod date 1938 onward origin	 us weight 3 lb (1.4 kg)
+
+barrel 11 in (30 cm)
+
+caliber .357 magnum
+
+## SMITH & WESSON MODEL
+
+Smith & Wesson produced a huge variety of pistols chambered for the various Magnum calibers—.357 and .44 are only the most common—on light, intermediate, and heavy frames. The heavy Model 27, in .357 caliber, was the most popular model, and was produced with 4 in (10.2 cm), 6 in (15.2 cm), and 8 in (21.3 cm) barrels.
+
+The Model 29, in .44 caliber, was almost identical, but was produced with a 10 in (27 cm) barrel.
+
+Cylinder release catch Heavy N-Type frame Revolvers From 1950 magnum pistols Pistols chambered for Magnum rounds are widely used among police forces.
+
+From here they have made their way into popular culture via such movies as Magnum Force (1973).
+
+Cylinder holds five rounds of ammunition Grip safety Ventilated barrel rib by the 1950s it was widely accepted that the self-loading pistol, with its ease of operation and much greater capacity, had finally rendered the revolver obsolete. Around the same time, however, new and much more powerful ammunition types (the so-called Magnum rounds) were being produced. The trouble was that the Magnum used almost twice the energy of a traditional round, and this was far more than a self-loading pistol could handle safely.
+
+For this reason, the revolver was given a new lease on life.
+
+Hammer shrouded, so it doesn’t catch on clothes
+
+## CHARTER ARMS POLICE BULLDOG
+
+Built on a heavier frame than the Undercover, the Police Bulldog was also available with a 2 in (6.5 cm) barrel, chambered for .357 Magnum or .44 Special ammunition. The molded rubber grips helped reduce the “felt” recoil.
+
+date origin us weight 1 lb (0.6 kg)
+
+barrel 4 in (10.1 cm)
+
+caliber .357 magnum
+
+## RUGER GP-100
+
+Sturm, Ruger & Co. was a latecomer to the world of gun manufacture, opening for business in 1949. Initially, the company produced a range of traditional single-action revolvers, but later added designs incorporating the full range of modern ergonomic and safety features.
+
+date origin us weight 2 lb (1.05 kg)
+
+barrel 4 in (10.2 cm)
+
+caliber .357 magnum
+
+## CHARTER ARMS UNDERCOVER
+
+Charter Arms began trading in 1964, and the Undercover was its first product. It was intended to be easily concealed, and being chambered for .38 Special ammunition it had plenty of stopping power.
+
+date origin us weight 1 lb (.45 kg)
+
+barrel 2 in (5 cm)
+
+caliber	.38 special Adjustable rear sight Cylinder axis rod Recess for cylinder- locking bolt Cylinder release catch date 1953 onward origin us weight 3 lb (1.4 kg)
+
+barrel 8 in (20.3 cm)
+
+caliber .357 magnum
+
+## COLT PYTHON
+
+Colt lost no time in producing its own Magnum pistols, based on the tried-and-tested New Service and Single-Action Army models, but it was the 1950s before it produced an all-new purpose-designed Magnum revolver; the Python. Other Magnum “snakes” (the Cobra, the King Cobra, and the Anaconda, the latter in .44 caliber) were to follow, and all have been kept up to date. The ventilated barrel rib has become a feature of these heavy revolvers.
+
+Six-round cylinder rotates counterclockwise Cylinder- locking bolt recess Cylinder holds five rounds of ammunition Cylinder release catch Five-chambered cylinder revolves clockwise Ergonomically designed molded- rubber grips Six-chambered cylinder revolves counterclockwise Cylinder axis rod Adjustable rear sight Cylinder rotates clockwise Maker’s medallion
+
+the modern world 1900—2006 4 252–253 manually loaded repeater rifles 1855–1880          4 256–257 manually loaded repeater rifles 1881–1891          4 258–259 manually loaded repeater rifles 1892–1898 Manually Loaded Repeater rifles the main difference between the rifles used during the Boer War and those used in World War I lay in the length of their barrels. At the turn of the century, the barrels of infantry rifles were 29½ in (75 cm) long. By 1914, some had been shortened by 4 in (10 cm), and the rest were soon to follow. The exception was France, where the barrel of the Berthier rifle, introduced into service in 1916, had actually increased in length.
+
+Experimental 25-round removable box magazine Ten-round detachable box magazine date origin uk weight 8½ lb (4 kg)
+
+barrel 26 in (66 cm)
+
+caliber 7 mm mauser (.30-06)
+
+Pattern 1914 At the start of World War I, manufacturing problems with the new Pattern 1913 rifle resulted in a change of caliber from 0.276 in to the standard 0.303 in chambering, and the weapon’s redesignation as the Pattern 1914. The Model 1917, a 0.30 in-caliber version of the Pattern 1914, was later adopted by the US Army.
+
+Experimental 20-round removable box magazine
+
+## SPRINGFIELD M1903
+
+Impressed by the Mauser rifles US troops encountered during the war against Spain, the United States Ordnance Department looked to replace its Krag rifles. Negotiating a license to build a Mauser design of its own, the result was the .30 in Rifle, Magazine, M1903. The example shown here has an experimental 25-round magazine.
+
+date origin us weight 8½ lb (4 kg)
+
+barrel 24 in (61 cm)
+
+caliber .30-03 (later .30-06)
+
+Rear sight Bolt handle turned down Barrel band Cocking piece Bolt handle turned down Receiver Bolt Rear sight Two-part sling Fore sight is mounted between protective blades Bayonet lug Rear sling attachment Cocking piece Magazine release catch Receiver
+
+date origin france weight 9 lb (4.15 kg)
+
+barrel 31¼ in (79.8 cm)
+
+caliber 8 mm x 50r
+
+## BERTHIER MLE
+
+The shortcomings of the Lebel rifle led to a revised design being issued to French colonial troops in 1902.
+
+Though it continued to use the bolt action of the Lebel, and was outmoded in appearance (due to the length of its barrel), its only serious defect lay in its magazine capacity—just three rounds. A modified version with a five-round magazine was issued from 1916.
+
+date origin germany weight 8½ lb (3.9 kg)
+
+barrel 23½ in (60 cm)
+
+caliber 7.92 mm x 57
+
+## MAUSER KAR98K
+
+The “Karabiner” 98K embodied improvements to the Mauser Gewehr 98 rifle, and became the standard German service rifle of World War II. More than 14 million were manufactured between 1935 and 1945. A number of variations were produced, including those for mountain troops, paratroops, and snipers. During the war, the original design was simplified to speed up production.
+
+date origin ussr weight 8½ lb (3.9 kg)
+
+barrel 20¼ in (51.7 cm)
+
+caliber 7.62 mm x 54r mosin-Nagant CARBINE M1944 In 1910, the 3-line Mosin-Nagant rifle was modified to produce a carbine by shortening its barrel. In 1938 it was revamped, largely to make it cheaper to manufacture, and in 1944 it attained its final form with the addition of a folding cruciform bayonet. Though it was obsolete by that time, the People’s Republic of China began manufacturing copies in 1953.
+
+date origin uk weight 9 lb (4.1 kg)
+
+length 25 in (64 cm)
+
+caliber .303 in
+
+## LEE-ENFIELD RIFLE NUMBER 4 MARK
+
+The new Lee-Enfield, which appeared late in 1939, differed very little from the model it replaced. The bolt and receiver were modified; the rear sight was a new design, and was placed on the receiver; the fore stock was shortened, exposing the muzzle, and its cap was redesigned. The Number 4 remained in service until 1954.
+
+Rear sling attachment Steel-bound butt Sling attached through a slit in the butt stock Folding cruciform bayonet Bolt handle protrudes horizontally Cocking piece Rear sling attachment full view Cleaning rod Fore sight Integral five-round box magazine Fore stock cap Integral five- round magazine Regimental identifying plate Cocking piece Foresight in protective shroud Integral five-round magazine
+
+the modern world red army infantryman when they invaded the Soviet Union in June 1941, the Germans planned for a swift victory—completely underrating the endurance and resilience of the Soviet conscript soldier. The Soviet way of making war was immensely wasteful of men’s lives, thrown away in ill-considered offensives or committed to “no retreat” when on the defensive. Yet the Red Army infantryman remained firmly committed to the struggle, either as a dedicated communist or as a patriot fighting in defense of the homeland.
+
+Harsh discipline The Red Army infantryman was subject to harsh discipline by his officers, who themselves were under surveillance by political commissars and Soviet dictator Joseph Stalin’s secret police, the NKVD. Officers and men alike were subject to arbitrary arrest. Men accused of political dissent or cowardice were put in the forefront of battle in suicide squads.
+
+The Red Army suffered an average of 8,000 casualties a day through nearly four years of war —heavier losses per day than the Russian Empire had experienced in World War I. Yet after the initial disasters of 1941, morale never seriously wavered.
+
+The scale of early losses meant that the Red Army became largely a mix of the young, arriving at military age from 1941 onward, and those initially considered too old for service. But they held firm in front of Moscow in the bitterly cold winter of 1941–42 and, after further costly defeats, carried off the victory at Stalingrad that turned the tide. In the later stages of the war, better equipped and well led, the Soviet infantry showed initiative in mobile offensives, rolling the Germans all the way back to Berlin.
+
+Infantry action Soviet infantry advance as one of their number loads a mortar. Early in the war, Red Army soldiers were frequently ordered forward with bayonets fixed in the face of machine gun or artillery fire that made attack suicidal. From 1943 better equipment and more sensible leadership cut losses sharply.
+
+tt tokarev 1933 pistol tools of combat tt tokarev 1933 pistol
+
+Battle of Stalingrad The epic struggle for the Soviet city of Stalingrad was one of the turning points of World War II. From September 1942, heavily outnumbered Red Army soldiers resisted the German capture of the city, fighting house by house and street by street, until a counter-offensive in late November left the German forces encircled. After two agonizing, bitterly cold winter months under siege by the Red Army, the German commander finally surrendered on January 30, 1943.
+
+soviet soldiers at stalingrad soviet uniform Like all World War II infantry uniforms, Red Army outfits were drab for camouflage purposes and distinguished Soviet soldiers from others only by an accumulation of details. Soviet infantry helmets, for example, broadly resembled the American M1 helmet in shape.
+
+SSch-40 steel helmet
+
+## PPSH
+
+submachine gun Overhanging shirt secured by belt tokarev svt40 rifle mosin-nagant 1891/30 rifle Soviet sniper A young Red Army marksman peers through the sight of his 7.62 mm Mosin-Nagant M91/30 sniper rifle.
+
+This was simply the Soviets’ standard bolt-action rifle accuratized and fitted with a telescopic sight. The Red Army made extensive use of snipers during World War II and “top guns” such as Vasili Zaitsev—credited with killing more than 149 German soldiers —were lauded as Soviet heroes.
+
+our aim is to defend something greater than millions of lives… the motherland.” “ soviet soldier, diary entry, july 1941 great warriors Red Guard badge
+
+Self-Loading Rifles 1914 –1950 the first successful self-loading rifle was developed by a Mexican, Manuel Mondragon, as early as 1890. Taken up by the Mexican Army in 1908, it proved too fragile for general use. Next, in 1918, came John Browning’s Automatic Rifle, but this came to be used as a light machine gun instead because of its excessive weight. It was not until 1936 that a truly practical self-loading rifle, the M1, was adopted by the US Army.
+
+Further breakthroughs in self-loading rifles came in World War II. The best of these was the Sturmgewehr G44, but it was some time before the “intermediate” ammunition round, its most important design aspect, achieved universal acceptance.
+
+date origin ussr weight 8 lb (3.9 kg)
+
+barrel 25 in (61 cm)
+
+caliber 7.62 mm x 54r tokarev svt40 Fedor Tokarev designed a self-loading rifle with a tilting bolt locking into the floor of the receiver, and had it accepted by the Red Army in 1938. Two years later, he produced a more robust weapon that was cheaper and quicker to manufacture. The Samozaryadnaya Vintovka Tokarev 40 was issued to non-commissioned officers, though some were employed as sniper rifles.
+
+Welded pressed-steel receiver Cocking handle Receiver Cocking handle Rear sight 1900—2006 3 306–307 weapon showcase: ak47          3 308–309 self-loading rifles 1950–2006          3 310–311 weapon showcase: sa80 30-round detachable box magazine the modern world Muzzle compensator Rear sight Perforated sheet- steel hand guard Ten-round detachable box magazine Rate-of-fire selector Pistol grip Bottom plate of internal eight-round magazine
+
+date origin us weight 9 lb (4.35 kg)
+
+length 20 in (55.8 cm)
+
+caliber .30 in
+
+## M1 CARBINE
+
+Designed as a replacement for the pistol and rifle, the M1 was issued from 1942. It was chambered for an intermediate round developed by Winchester, and had an action similar to that of the Garand, except it had a short-stroke gas piston. It was also produced with a folding butt, for issue to paratroopers.
+
+date origin germany weight 9 lb (4.35 kg)
+
+barrel 20 in (55.8 cm)
+
+caliber 7.92 mm x 57 gewehr 43 Soon after the start of World War II, the German army began demanding a self-loading rifle. Walther’s original design employed a cup at the muzzle that unlocked the bolt and cycled the action. In 1943 a modified version, using the same action but with a conventional gas cylinder and piston mounted above the barrel, was introduced as the Gewehr 43.
+
+date origin germany weight 11 lb (5.1 kg)
+
+length 16 in (41.8 cm)
+
+caliber 7.92 mm x 33 Sturmgewehr 44 In 1940 work began on a selective-fire rifle chambered for a new intermediate 7.92 mm x 33 round. The result was a gas-operated weapon with a tipping bolt, which was put into production as the Maschinen Pistole 43 and later renamed the Sturmgewehr 44. Small numbers were fitted with the Krummlauf, a barrel extension that turned the bullet through 30°, for use by tank crews against infantry.
+
+Ten-round detachable box magazine date origin us weight 9 lb (4.35 kg)
+
+length 24 in (61 cm)
+
+caliber .30-06 in
+
+## M1 GARAND RIFLE
+
+John Garand opted for a rotating bolt design for his self- loading rifle. The piston in a cylinder below the barrel has a camming (spiraled) groove on its rear end, in which is located a stud on the bolt. As the piston is driven back, it causes the bolt to rotate and then drives it back against a spring that returns and relocks it, having picked up a fresh round from the magazine on the way.
+
+Rear sight Rear sight
+
+## FULL VIEW
+
+Safety catch Perforated pressed- steel forestock Forward sling attachment Gas cylinder cap Fore sight in a protective shroud Bayonet attachment 15-round detachable box magazine Cocking handle Cocking handle Semi-pistol grip Forward sling swivel Fore sight Fore sight Bayonet attachment Fore sight between protective blades Gas cylinder Barrel
+
+## AK47
+
+Assault Rifle designed by mikhail kalashnikov, a young tank commander with little formal training, the assault rifle that bears his name was to achieve iconic status due to its rugged simplicity. Kalashnikov’s first successful design, the AK47 was simple, handled well, and operated satisfactorily under virtually any conditions. It was adopted by the Soviet Army in 1949, and since then, between 50 and 70 million Kalashnikov-type rifles and light machine guns have been manufactured all over the world.
+
+Strengthening rib in receiver ak47 Early AK47s were made largely from welded components, stampings, and pressed metal parts. However, problems arose, and from 1951, sturdier receivers machined from forged steel billets were introduced. The modified AKM was not only much lighter than the original AK47, but it also had a reduced cyclic rate of full automatic fire, which improved its accuracy. The AKM can be distinguished from the AK47 by the strengthening ribs in the top surface of the receiver.
+
+date origin ussr weight 9½ lb (4.3 kg)
+
+barrel 16¼ in (41.5 cm)
+
+caliber 7.62 mm x 39 the modern world Change lever selects single-shot or automatic fire Stock folds along each side of receiver 4 304–305 self-loading rifles 1914–1950          3 308–309 self-loading rifles 1950–2006          3 310–311 weapon showcase: sa80 Strengthening rib Rear sight Butt plate 30-round detachable magazine also used on the RPK LMG Magazine catch Trigger Pistol grip
+
+## AMMUNITION
+
+It is generally believed that the design for the 7.62 mm x 39 cartridge was based on an examination of the ammunition used by the German MP43/MP44 in World War II. But Soviet designers had also been looking into the problems of producing their own intermediate cartridge to increase the combat efficiency of their submachine guns.
+
+The result was the 7.72 mm x 39 M43, a rimless, bottle-necked cartridge with a copper-washed steel case that remains practically unchanged in use around the world today.
+
+Hand guard (lower part)
+
+mujahideen warrior Now mass-produced on a global scale, the AK47 has become the most popular gun in the world. Here it is seen in the hands of a Mujahideen warrior in Afghanistan.
+
+full view weapon showcase Hand guard (upper part)
+
+Cleaning rod Barrel Gas tapped off from barrel here Gas vent Gas cylinder Folding stock Fore sight
+
+the modern world 1900—2006 4 228–229 self-loading pistols 1775–1900       4 304–305 self-loading rifles 1914–1950 Self-Loading Rifles 1950-2006 one vital tactical lesson learned during World War II was the importance of firepower in the final phase of an assault. As a result, bolt-action weapons soon fell out of use, except as a sniper’s arm, and the self-loading rifle became ubiquitous. Following the lead of the Sturmgewehr 44, introduced in 1943, the new weapons of the post-war era were capable of fully-automatic fire. The Sturmgewehr 44 also embodied another key development: the use of lighter, smaller, “intermediate” ammunition rounds, which eventually replaced those that had been in use since the start of the 20th century.
+
+date origin us weight 8½ lb (3.9 kg)
+
+barrel 22 in (55.8 cm)
+
+caliber 7.62 mm x 51 nato M14 In 1953, the North Atlantic Treaty Organization’s (NATO) armies adopted a new full-power rifle cartridge, in 7.62 mm caliber. To accommodate it, the US developed a version of Garand’s 20-year- old M1, endowed with a fully automatic fire capability and a larger magazine.
+
+date origin uk weight 9½ lb (4.3 kg)
+
+barrel 21 in (53.3 cm)
+
+caliber 7.62 mm x 51 nato
+
+## L1A1
+
+The L1A1 was introduced in 1954, and was the standard British service rifle until its replacement by the L85A1 in 1988.
+
+It was adapted from the Belgian FN FAL, but with minor changes to the specifications to facilitate manufacture in the UK.
+
+Rear sight Forward sling attachment Bayonet lug Rear sight 20-round detachable box magazine Bolt closing device Carrying handle High-impact plastic butt stock Cocking handle Muzzle compensator Fore sight Gas regulator Gas cylinder 20-round detachable magazine Magazine catch Rear sling swivel Ejector port Carrying handle Cocking handle Ejection port 30-round detachable box magazine
+
+30-round detachable box magazine Cocking handle 30-round detachable box magazine date origin israel weight 9½ lb (4.35 kg)
+
+barrel 18 in (46 cm)
+
+caliber 5.56 mm x 45 NATO Galil assault rifle After the 1967 war, Israeli Military Industries was ordered to produce something similar to the AK47. It chose a design by Israel Galil, a near-copy of the Finnish Valmet M62, itself an AK47 derivative, but opted for the American 5.56 mm x 45 round.
+
+date origin germany weight 4 kg (9 lb)
+
+barrel 45 cm (17½ in)
+
+caliber 5.56 mm x 45 NATO Heckler & koch g41 The G41 was an updated version of the G3, and shared its roller-delayed blowback action. The modifications were necessary to accommodate the 5.56 mm round, and other standard NATO features such as the universal sight mounting and magazine.
+
+date origin us weight 7¾ lb (3.52 kg)
+
+barrel 20 in (50.8 cm)
+
+caliber 5.56 mm x 45 NATO Stoner M63 This M63 by Eugene Stoner is a modular design, and its 15 basic sub-assemblies can be put together in six different ways to produce a submachine gun, a carbine, an assault rifle (shown here), an automatic rifle, a light machine gun, and a general- purpose machine gun.
+
+date origin us weight 8 lb (3.6 kg)
+
+barrel 20 in (50.8 cm)
+
+caliber 5.56 mm x 45 NATO Stoner M16A1 Stoner’s Armalite AR-15 was accepted by the US Air Force in the early 1960s, and subsequently taken into service as the M16.
+
+The M16A1 was fitted with a bolt-closing device and a revised flash hider. The later M16A2 acquired a three-round burst, and a heavier barrel with modified rifling better suited to the SS109 5.56 mm round, instead of the M193 for which it was designed.
+
+Gas regulator Tubular butt stock folds to the left 35-round detachable box magazine Muzzle compensator High-impact plastic butt stock Wooden forestock Muzzle compensator High-impact plastic forestock Gas regulator
+
+## FULL VIEW
+
+Fore sight Cocking handle Gas regulator Bipod mounting point Magazine catch Rear sling attachment Carrying handle Gas cylinder Shrouded rear sight Flash hider
+
+SUSAT sight gives four- power magnification and has low-light capability date origin uk weight 11lb (4.98kg)
+
+barrel 20½in (51.8cm)
+
+calibrz 5.56mm x 45 nato 30-round detachable magazine compatible with other NATO weapons Pistol grip with high-impact plastic molding Eyepiece with protective rubber shroud the modern world Cocking handle
+
+## L85A1
+
+The L85A1 was the last weapon system to be developed and produced at the Royal Smallarms Factory, Enfield, UK, before it closed in 1988. It was dogged with problems during the development stage, and trials continued even after its adoption in 1985. It was designed from the start to use an optical sight. The body and many other parts are steel samplings. All the furniture is high-impact plastic.
+
+4 304–305 self-loading rifles 1914–1950           4 306–307 weapon showcase: ak47          4 308–309 self-loading rifles 1950–2006
+
+SA80 Assault Rifle during the last quarter of the 20th century, a new type of assault rifle, the “bullpup,” began to enter service with the world’s armies. The bullpup configuration places the action in the butt, with the magazine behind the trigger, allowing a full-length barrel to be accommodated in a much shorter weapon. Three bullpup rifles have been adopted so far: the French FAMAS, the Austrian AUG, and the British L85 Individual Weapon (shown here), part of the SA80 weapon family, which also includes the L86 Light Support Weapon and the L98 Cadet Rifle.
+
+Large trigger guard for gloved hand ammunition The SA80 weapon family was designed around the NATO-standard SS109 5.56mm round, which has a steel-tipped projectile weighing
+
+## 61.7 grains (4g) and achieves a muzzle velocity
+
+of 3,085 feet per second (940m/s).
+
+bayonet The bayonet supplied with the LA85 is unusual in that its shaft fits over the flash- hider at the muzzle. A lug on its scabbard fits the slot in the blade and the ensemble becomes a pair of wire cutters, an idea borrowed from the Soviet AKM.
+
+Slot accepts tang on bayonet scabbard full view Bayonet shaft fits over muzzle flash hider Wire-cutting blade Fuller, or “blood groove,” lightens blade Matt black blade High-impact plastic fore stock Gas regulator Flash hider weapon showcase
+
+sport guns by the last decade of the 19th century, most of the technology found in modern firearms was already present. Later developments addressed concerns over safety (particularly in respect to the more powerful ammunition made possible by new formulations of propellant) and economy of manufacture. There was another, and this time quite new, element coming into consideration: during the previous century, little thought had been given to the ergonomic design of firearms, but this was now being addressed in some quarters, particularly in the design of sport guns.
+
+date origin us weight 7 lb (3.18 kg)
+
+barrel 20 in (50.8 cm)
+
+caliber .30-30 winchester model 1894 A young gunmaker named John Browning began working for Winchester in 1883. His first task was to revamp the action of the company’s under-lever rifle to allow it to use new types of ammunition, and he supplemented Tyler Henry’s toggle-jointed bolt with additional vertical locking bars. The system was perfected in the Model 1894.
+
+date c.1930 origin uk weight 6 lb (2.76 kg)
+
+length 26 in (67.5 cm)
+
+caliber 12-bore wesTley richards hammerless ejector gun Master gunmakers Westley Richards produced various notable and highly innovative sporting guns and rifles.
+
+This example of a double-barreled hammerless ejector gun has a patent one-striker mechanism and locks that can be detached by hand. A press-button mechanism enables each barrel to be fired independently. Available in a choice of finishes, the gun could be tailored to suit the individual tastes of purchasers.
+
+1900—2006 4 152–153 european hunting guns 1600–1700           4 154–155 european hunting guns from 1700           4 244–245 sport guns 1775–1900 the modern world Exposed hammer shows if the rifle is cocked Actuating lever Ten-round tubular magazine Fore sight in protective shroud Engraved lock cover Decorated checkering on the semi-pistol grip Trigger Breech- locking lever Rear sight Barrel band Loading gate Ejection port Single trigger Incised chequering on the straight-through grip Press-button safety catch Walnut stock
+
+date origin uk weight 6 lb (2.8 kg)
+
+barrel 27½ in (70 cm)
+
+caliber .375 in h&h magnum
+
+## RIGBY MAUSER RIFLE
+
+Rigby’s began making guns in Dublin, Ireland, in the 18th century. In 1900, now in London, the company was appointed Mauser’s UK agent, and began producing bolt-action rifles to its design in a variety of calibers. John Rigby, the company’s head, oversaw the design of the British Army’s bolt-action rifles.
+
+date origin france weight 5 lb (2.4 kg)
+
+barrel 25 in (65 cm)
+
+caliber 16-bore darne rotary-breech double-barrel shotgun Made by Darne, this shotgun has a patented breech action. Freed by means of the lever on top of the butt stock behind the breech, the entire lock rotates through a quarter turn to expose the chambers. Returning it to battery cocks the gun. The lever on the side of the breech-block is a cross-bolt safety.
+
+date origin italy weight 6 lb (3.08 kg)
+
+barrel 28 in (71 cm)
+
+caliber 12-bore beretta DOUBLE-BARREL SHOTGUN Pietro Beretta is the longest-established gun maker in the world, having been in business since 1526.
+
+Its over-and-under double-barreled shotguns, like this Model S-686, have been the most popular configuration for both hunting and trapshooting.
+
+Over-and-under guns have the advantage of a single sight line. Most are fitted with single-trigger locks.
+
+date origin us weight 8 lb (3.6 kg)
+
+barrel 28 in (71 cm)
+
+caliber 12-bore remington 1100 automatic shotgun John Browning produced the first design for a gas-operated, self-loading shotgun while working for Winchester, but it was not put into production. Modern automatics can be either gas- or recoil-operated.
+
+This Remington 1100 is gas-operated, and was produced in a variety of barrel lengths and calibers.
+
+## FULL VIEW
+
+Incised checkering on the semi-pistol grip Safety catch Breech and lock, including triggers, rotate through 90° Twin triggers Abbreviated forestock Incised checkering on the semi-pistol grip Breech- locking lever Single trigger Ventilated barrel rib Ejector port Ventilated barrel rib Rear sight Abbreviated forestock Bolt handle Bolt Internal five-round box magazine Rear sling attachment Safety catch Checkered straight- through grip Fore sight Barrel pivot pin Cocking handle Magazine cap Four-round tubular magazine located in the forestock Loading port Forward sling attachment
+
+the modern world 1900—2006 4 244–245 sport guns 1775–1900          4 312–313 sport guns 1900–2006 shotguns the shotgun has always been an effective close-quarters weapon, and its value was recognized by infantrymen in World War I. As well as sport guns, usually with their barrels cut down, they used purpose-built guns like Winchester’s six-shot pump-action Model 1897, which became known as the “trench sweeper.” More recently, developments centered on increasing the capacity of the magazine and on new types of ammunition for both military and civilian security operations.
+
+Rear sight Rate-of-fire selector safety catch 20-round drum magazine Fore sight Pressed-steel barrel shroud date origin italy weight 9 lb (4.4 kg)
+
+barrel 21 in (54.5 cm)
+
+caliber 12-bore franchi spas 12 Developed as a close-combat weapon for both police and military use, the SPAS (Special-Purpose Automatic Shotgun) is gas-operated by an annular piston around the under-barrel magazine tube, acting on a tilting bolt.
+
+It can be switched over to pump action when required.
+
+They were expensive to manufacture, but reliable.
+
+Section folds down to become a shoulder piece Stock folds upward through 180° Ejector port Rear sight Cocking slide Tubular eight- round magazine Cocking handle (gas operation)
+
+Loading port Safety catch M16-style carrying handle Ejector port
+
+date origin us barrel 20 in (51 cm)
+
+caliber 12-bore winchester model 1897 Browning’s first pump-action gun for Winchester, the Model 1893, was a rare failure. Browning strengthened and modified the action, and the Model 1897 proved to be everything that its predecessor was not, and remained in production until the 1950s. The military version, shown here, was produced up to 1945.
+
+Decocking lever
+
+## FULL VIEW
+
+date origin us weight 8 lb (3.76 kg)
+
+barrel 19 in (50 cm)
+
+caliber 12-bore winchester modEL 1887 Another action unique in a shotgun is the lever-action rolling block of the Winchester Model 1887, designed by John Browning. Produced in 10-bore and 12-bore chamberings (and a very few to accommodate .70 in bulleted cartridges), the lever action proved unsuitable for shotgun cartridges, and was discontinued in favor of pump-action guns.
+
+Exposed hammer shows if the weapon is cocked Fore sight date origin uk weight 8 lb (3.68 kg)
+
+barrel 2 in (6.3 cm)
+
+caliber 14-bore GREENER-martini POLICE SHOTGUN Developed after World War I for use by British colonial police forces, this gun was unconventional in that it had a Martini falling-block action. Furthermore, it accepted only cartridges of an unusual form, to prevent stolen guns from being used by civilians.
+
+date origin us/south korea weight 12 lb (5.5 kg)
+
+barrel 18 in (46 cm)
+
+caliber 12-bore usas-12 Designed in the United States, and manufactured in South Korea by Daewoo, the USAS-12 is unusual in two respects. Firstly, it is a selective-fire weapon, with the option for single-shot or automatic operation; secondly, it can be set up for either right- or left-handed operation.
+
+Trigger guard Ejector port Shrouded hammer Loading port Rear sight Fore sight Rear sling attachment Cocking lever Cocked/ uncocked indicator Bayonet lug Tubular four-round magazine Abbreviated wooden fore stock Actuating lever Perforated barrel shroud Bayonet attachment Cocking slide Six-round tubular magazine Loading gate Trigger Semi-pistol stock Gas cylinder cap
+
+vietnam war Australian forces fought alongside the US army and Marine Corps in Vietnam. The men of this patrol, disembarking from a CH-47 Chinook helicopter, are armed with the self-loading FN FAL rifle, which was also issued to British troops at the time, and the American M60 general-purpose machine gun.
+
+the modern world 1900—2006 3 320–322 sniper rifles 1985–2006 Sniper rifles 1914 –1985 by the time of the civil war in the United States, weapons technology had progressed to the point where it was possible to shoot an identified individual at very long ranges. By World War I, the sniper had already become a very important figure on the battlefield, but it was only in World War II that he (and often, particularly in the Red Army, she)
+
+really made his or her mark. At that time, sniping was perhaps best described as a ‘black art’, but more recently, technological advances have turned it into more of a science.
+
+date 1900 onward origin germany weight 9¼ lb (4.15 kg)
+
+barrel 21¼ in (75 cm)
+
+caliber 7.92 mm
+
+## MAUSER GEW
+
+Specially selected examples of the Mauser Infanteriegewehr 98, the German Army’s standard rifle of World War I, continued to be used as snipers’ weapons throughout World War II. The rifles were fitted initially with a 2.75x telescopic sight produced commercially as the Visar by Emil Busch AG. The sight was graduated from 100 to 1,000 m, and matched to a particular rifle.
+
+Safety catch Skeleton wooden butt stock Battery compartment PSO-1 telescopic sight Combined forestock cap and barrel band Leaf sight Cheek pad Eyepiece Elevation adjustment Busch Visar telescope sight Objective Cleaning rod Bolt Bolt handle Safety catch
+
+Type PU sight Integral five-round box magazine Shrouded blade fore sight date origin ussr weight 11¼ lb (5.15 kg)
+
+barrel 28¾ in (73 cm)
+
+caliber 7.62 mm x 54r
+
+## MOSIN-NAGANT M1891/30PU
+
+In the 1930s the Red Army began issuing specially selected Model 1891/30 Mosin-Nagant rifles, fitted with Type PE telescopic sights, to its most accomplished marksmen. The sight was replaced with the 3.5-power PU. Some 330,000 M1891/30PU sniper rifles were produced during World War II, and it was widely accepted to have been the most accurate in use.
+
+date 1963 onward origin ussr weight 9½ lb (4.3 kg)
+
+barrel 24 in (61 cm)
+
+caliber 7.62 mm x 54r
+
+## DRAGUNOV SVD
+
+The Snaiperskaya Vintovka Dragunova (chambered for the rimmed 7.62 mm round developed for the “3-line” Mosin-Nagant rifle in 1891) was adopted by the Soviet bloc armies in 1963. Its PSO-1 telescopic sight has a limited infrared capability.
+
+Rear sight Cocking handle
+
+## FULL VIEW
+
+Reticule lamp Polymer fore stock Elevation adjustment Five-round detachable box magazine Pommel locates the hand on the pistol grip Cheek pad Cold-forged barrel with hexagonal rifling “floats” in the forestock date origin germany weight 17¼ lb (8.1 kg)
+
+barrel 25½ in (65 cm)
+
+caliber 7.62 mm x 51 nato
+
+## HECKLER & KOCH PSG-1
+
+Intended as a police sniper rifle, the PSG-1 was essentially a heavily modified G3, as issued to the German Army, with the same roller-delayed blowback action. The most significant differences lie in the cold-forged, hexagonally rifled barrel and the Hensoldt 6x42 fixed-power sight, which has an illuminated reticle.
+
+Windage screw Fixed-focus eyepiece Stock selected for density and straightness of grain Hensoldt fixed-power telescopic sight Pistol grip Trigger is adjustable for weight of pull Gas cylinder Gas regulator Muzzle compensator and flash hider Ejector port Ten-round detachable box magazine
+
+the modern world 1900—2006 4 318–319 sniper rifles 1914–1985 Sniper rifles 1985–2006 until the 1990s, sniper rifles used conventional ammunition.
+
+Some new models then adopted more powerful ammunition that gave both a flatter trajectory and increased the “point-blank” range to several hundred feet. It also allowed them to reach out to greater distances. Others changed their nature more substantially, adopting the “bullpup” configuration that allowed their overall size to be much reduced, while retaining the all-important long barrel.
+
+date 1978–88 origin germany weight 15 lb (6.95 kg)
+
+barrel 25½ in (65 cm)
+
+caliber 7.62 mm nato walther wa2000 Developed for police use, most were produced in .300 Winchester Magnum caliber. The example shown here is the experimental Series 1 version: the operational Series 2 had an upgraded gas system and an unfluted barrel, which improved accuracy. Both types were fitted with variable-power Schmidt & Bender telescopic sights.
+
+Six-round detachable box magazine
+
+## FULL VIEW
+
+Semi-shrouded trigger Mounting clamp Magnification selector, 2.5–10x Combined flash hider and muzzle compensator Ejector port Windage adjustment Magazine release catch Thumb hole
+
+Objective in its shielded cover Safety catch
+
+## L96A1
+
+The British Army’s L96A1 sniper rifle, in service since 1986, was the first to be developed specifically for sniping: earlier versions had been based on various models of the Lee-Enfield. It has an aluminum frame to which its components are attached. Each rifle is individually fitted with a Schmidt & Bender 6x telescopic sight.
+
+date 1986 onward origin uk weight 14 lb (6.5 kg)
+
+barrel 25¾ in (65.5 cm)
+
+caliber 7.62 mm nato date 1990–95 origin us weight 22lb (10 kg) less optics barrel 29 in (73.7 cm)
+
+caliber .50 in barrett mod.90 In 1982, 20-year-old Ronnie Barrett designed a .50- caliber sniper rifle as a bet. The gas-operated Model 82 (adopted by the US Army as the M107) revolutionized the field, and was followed by the lighter, bolt-action, bullpup Model 90, and an upgraded version, the Model 95. The heavy .50-caliber round makes the rifle an effective anti- material weapon to a range of 5,900 ft (1,800 m).
+
+Folded bipod Bipod in folded position Fully floating stainless-steel barrel Ten-round removable box magazine Polymer stock Elevation adjustment Walnut fore stock Bipod in the folded position Recoil pad Ejector port Mounting rail Cocking handle Attachment point for steadying sling Bolt handle Five-round removable box magazine Objective Elevation adjustment Eyepiece
+
+Water jacket Recoil enhancer Muzzle cap Tripod leg Elevation wheel vickers mk 1 folded down Ammunition belt feedway Trigger bar Tripod extension pantograph date origin	 uk length	 43¼ in (110 cm)
+
+caliber	 .303 in vickers mk 1 Adopted by the British Army as a replacement for the Maxim in November, 1912, the MK 1 differed from its predecessor in that its locking toggle-joint broke upward rather than downward, reducing the size of the receiver. Thanks to the use of steel throughout, it was 30 lb (13.6 kg) lighter than the Maxim. Its rate of fire was unchanged, at around 450 rounds per minute (rpm). It was declared obsolete only in April 1968.
+
+until the second decade of the 20th century, Maxim’s method of harnessing a gun’s recoil was ubiquitous; the British Vickers, incorporating only minor modifications, was the only newcomer. Then John Moses Browning, who had previously gone to great lengths to disguise the fact that he had violated Maxim’s patents in his Colt M1895, came up with a new way of harnessing the same force.
+
+Recoil-Operated Machine guns the modern world 1900—2006 3 324–325 gas-operated machine guns          3 328–329 light machine guns 1914–45          3 330–331 light machine guns since 1945 Clamping band for auxiliary tripod Condenser hose connection Sangster auxiliary tripod “Five arch” sight bridge Tripod foot Elevation screw Trigger bar extension for use with Youlton Hyperscope Vernier aperture sight (folded down)
+
+Traversing turntable clamp Traversing turntable
+
+Flash hider Bracing bar Recoil transmission bar Pistol grip date origin	 germany length	 48 in (122 cm)
+
+caliber	 7.92 mm mauser mg42 Germany was prohibited from developing new weapons by the Treaty of Versailles, but it did so in secret, abroad.
+
+In 1934 the Maschinengewehr 34 was officially adopted as the MG08’s replacement. At just 26.6 lb (12 kg), it was light, yet robust enough to deliver sustained fire at up to 900 rpm, but it was expensive to produce, and was superseded by the MG42, far and away the best automatic weapon of its day, capable of 1,200 rpm.
+
+Spade grips Barrel shroud Ammunition belt Ammunition belt supporting box date origin	 us length	 64½ in (164 cm)
+
+caliber  12¾ in (12.7 mm)
+
+browning m2 hb The US Army was pleased with Browning’s M1917 (below), but wanted a heavier weapon too, and Browning obliged with the water-cooled M1921. Like the rifle-caliber gun, its water jacket was later removed, and it metamorphosed into the M2. The only important later modification was the provision of a heavy barrel.
+
+It remained in service into the 21st century, and formed the basis for other, more sophisticated weapons.
+
+Handle for barrel date origin	 us length	 38½ in (58 cm)
+
+caliber	 .30-06 in Browning M1917 John Browning first produced a design for a machine gun in 1895, and when he had finished work on the M1911 pistol, he returned to the subject, and came up with a simpler method of locking breech-block and barrel than Maxim had used. His new gun was adopted by the US Army as the M1917. It soon lost its water jacket and became the air-cooled M1919, and remained in service in that form until the 1960s.
+
+Rear sight Water jacket Fore sight Pistol grip Full view Ventilated barrel shroud 21 in (53.3 cm) barrel Recoil-actuated automatic traverse mechanism 45 in (114 cm) barrel Trigger bar Receiver Ammunition belt feedway Pad for ease of carrying
+
+date origin ussr length 44 in (112 cm)
+
+caliber 	7.62 mm x 54 goryunov sgm The Red Army used its Maxims well into World War II, but by 1942, it desperately needed a cheaper replacement.
+
+Goryunov mated elements of an earlier unsuccessful design with Holek’s locking system. His original SG43 underwent modification, post-war, and became the SGM.
+
+date origin czechoslovakia barrel 26¾ in (67.8 cm)
+
+caliber  7.92 mm mauser ZB 53 (VZ/37 or BESA)
+
+Machine gun designer Vaclav Holek was one of the stars of the 1930s.
+
+He used similar locking methods on both the Bren gun and the ZB 53.
+
+The latter was known as the VZ/37 by the Czechs and Besa by the British, who used it in their tanks.
+
+Shoulder brace
+
+## 26.7 in (67.8 cm)
+
+barrel Combined pistol grip and cocking handle Ammunition belt feedway date origin belgium length 40½ in (104 cm)
+
+caliber 7.62 mm nato FN MAG (GPMG)
+
+The MAG (Mitrailleuse à Gaz), produced by FN, used a modified form of the locking system developed by John Browning for his Automatic Rifle; this was mated to the feed mechanism of the MG42. The gun was adopted by the British Army as the General-Purpose Machine Gun.
+
+Ammunition belt Gas cylinder Rear sight Flash hider Flash hider Fore sight Fore sight Gas-Operated Machine Guns the modern world 1900—2006 4 322–323 recoil-operated machine guns          3 328–329 light machine guns 1914–45          3 330–331 light machine guns since 1945 when maxim built his first machine gun, there was no question of using propellant gases to cycle the action because they carried too much particulate residue, but by the 1890s, the introduction of smokeless propellants had changed that. In 1893 an Austrian cavalryman, Odkolek von Augezd, sold a design for just such a gun to the Hotchkiss company in Paris. Since then, gas operation has become commonplace.
+
+Cooling fins Ammunition box Pistol grip Ammunition belt feedway Gas port Carrying handle Gas cylinder Gas port Trigger bar
+
+Ammunition belt feedway Feed cover date origin us length 43½ in (110 cm)
+
+caliber	7.62 mm nato m60 The US Army replaced its Browning M1917 derivatives with a new, gas-operated, general-purpose machine gun in the early 1960s. The M60 used the feed system of the MG42 and the locking system of the German FG42 assault rifle. It was unsatisfactory to begin with, but a series of modifications over two decades corrected most of its faults.
+
+Cooling fins Ammunition strip feedway Elevation wheel Steadying grip Pistol grip Rear sight Gunner’s seat date origin france length 50 in (127 cm)
+
+caliber 8 mm lebel hotchkiss mle 1914 The original design Baron von Augezd sold to Hotchkiss in 1893 was robust and simple, the bolt being locked against the barrel by means of a pivoting flap until pushed aside by gas tapped off the barrel at its mid-point. Its major weakness was a tendency to overheat. Between 1897 and 1914, it underwent a series of modifications aimed at correcting this fault, and also to make it cheaper to produce and to improve its feed mechanism, which employed metallic strips holding 24 rounds, rather than fabric belts. The M1914 remained in use until World War II.
+
+Trigger Optical sight Elevation gear Traversing turntable Heat shield Flash eliminator 22 in (56 cm) barrel Bipod (folded)
+
+mg43 Machine gun heckler & koch’s answer to FN’s Minimi Squad Automatic Weapon, the MG43 is a conventional gas-operated light machine gun with an action based on a rotating, rather than the roller-locked, bolt employed in H&K’s other contemporary weapons. It is simpler in design than the Minimi, being belt-fed only, and is consequently cheaper to manufacture. Like virtually all modern firearms, it makes use of molded glass-reinforced polymers wherever possible. It has an integral bipod, plus mounting points for the M2 tripod, as well as a Picatinny rail (named after a US Army Research and Devolopment establishment) on the receiver that will accept all NATO-standard optical sighting units as well as a basic aperture rear sight.
+
+Bipod folded beneath gas tube Barrel handle attachment point the modern world 4 324–325 gas-operated machine guns          3 328–329 light machine guns 1914–1945          3 330–331 light machine guns since 1945
+
+## MG43
+
+The MG43 is one of a new range of light support weapons chambered for the NATO-standard
+
+## 5.56 mm round. It is light enough to be handled
+
+in the LMG role and rugged enough to function as a sustained-fire weapon at a cyclical rate of 750 rpm. The barrel can be changed in seconds, its handle folding to lie along the receiver just in front of the cocking handle. This example is a trial produced for the UK, not a standard model.
+
+date origin germany weight 18.85 lb (8.55 kg)
+
+barrel 19 in (48 cm)
+
+caliber 5.56 mm x 45 nato Barrel can be changed quickly
+
+## 5.56 mm ammunition
+
+supplied in 200- round disintegrating- link belts full view Barrel locking catch Picatinny rail accepts standard sighting units Plastic fore stock
+
+SUSAT sight with four- power magnification and low-light capability Safety catch with provision for fully automatic fire only Molded plastic pistol grip Trigger Plastic butt stock hinged here to fold to left weapon showcase
+
+the modern world 1900—2006 4 322–323 recoil-operated machine guns          4 324–325 gas-operated machine guns          3 330–331 light machine guns since 1945 Gunner’s left hand grips stock here Trigger Cooling fins continue inside barrel shroud Trigger guard with security lock in place Gas tube
+
+## BROWNING AUTOMATIC RIFLE
+
+John Browning set out to design a self-loading rifle, but it was soon obvious that the weapon he produced was better suited to the role of light support weapon. Though it had a fixed barrel and poor magazine capacity, it remained in front-line service with the US Army and Marine Corps until the mid-1950s.
+
+date origin us weight 16 lb (7.3 kg)
+
+barrel 24 in (61 cm)
+
+caliber .30-60
+
+## MG08/15
+
+Germany’s first, hurried attempt to produce a light machine gun saw the Maxim MG08 fitted with a butt stock, a pistol grip, and a conventional trigger.
+
+It also had an integral bipod, with a shortened ammunition belt contained in a drumlike container. It was far too heavy, but around 130,000 were produced, and it became the principle support weapon for the Reichswehr’s stormtroopers.
+
+date origin germany weight 48½ lb (22 kg)
+
+barrel 28¼ in (72 cm)
+
+caliber 7.92 mm x 57 Pan magazine holds 47 rounds Ejector port Cooling jacket holds 7½ pt (4 l) of water Wooden butt stock the first generation of machine guns were too cumbersome to be used in anything but fixed positions, so there was also a need for a lighter, portable weapon capable of putting down sustained fire. The barrels of early light machine guns tended to overheat. This problem was solved by the development of systems that enabled the barrels to be changed quickly and easily, even under combat conditions.
+
+light machine guns 1914 –1945 20-round detachable box magazine Barrel Shoulder support (hinged down)
+
+Pistol grip Bipod Flash hider Ammunition belt feedway Stoppage indicator Rear sight Cocking handle Ejector port
+
+Barrel shroud and heat dissipator Rate-of-fire selector and safety catch Adjustable gas regulator Bipod attachment clamp Tripod attachment point Gas tube Fore sight Carrying handle Recoil spring housing Rear sight Magazine port cover
+
+## DEGTYAREV RP46
+
+The Red Army adopted the Degtyarev DP in 1928. It was modified in 1945, and the following year, it received a heavier barrel and was adapted to take belts as well as drum magazines. The RP46 was still not entirely satisfactory, however, and was soon replaced by the RPD.
+
+date origin ussr weight 28¾ lb (13 kg)
+
+barrel 23¾ in (60.5 cm)
+
+caliber 7.62 mm x 54r bren Developed at Brno and modified at Enfield (hence its name) the Bren gun was the British Army’s principle light support weapon from its introduction until the 1970s, latterly in 7.62 mm NATO chambering. If it had a deficiency, it lay in its (rimmed) ammunition, not in the gun itself.
+
+date origin czechoslovakia/uk weight 22½ lb (10.15 kg)
+
+barrel 25 in (63.5 cm)
+
+caliber .303 in lewis The British Army adopted the air-cooled, gas-operated Lewis gun in 1915, and it remained its standard light support weapon until it was superseded by the Bren. The original design was the work of Samuel MacLean, but it was modified by Colonel Isaac Lewis of the US Army, who went on to market it aggressively. The US Army Air Corps adopted it as a flexibly mounted weapon.
+
+date origin us weight 26 lb (11.8 kg)
+
+barrel 26¼ in (66.5 cm)
+
+caliber .303 in full view Laminated wooden butt stock Ammunition belt feedway Bipod Barrel Flash hider Ejector port 30-round detachable box magazine Left-hand grip Cocking handle Body locking pin Gas cylinder Bipod
+
+light machine guns
+
+## SINCE
+
+Ammunition belt container Rear sight the modern world 1900—2006 4 310–311 weapon showcase: sa80 assault rifle          4 322–323 recoil-operated machine guns          4 324–325 gas-operated machine guns          4 328–329 light machine guns 1914–1945 Bipod folded under gas cylinder full view Carrying handle during world war ii engagements took place at shorter ranges than previously. This had two consequences: the barrels of rifles and light machine guns became shorter, and the rounds they fired became lower-powered and lighter. For the individual soldier, this meant a welcome reduction in the load he had to carry. More recently, weapons became even lighter when plastic replaced wood and bullpup configurations were introduced.
+
+Rear sight
+
+## NEGEV
+
+Israel Military Industries’ Negev is one of the breed of lightweight automatic weapons that has blurred the distinction between LMG and GPMG.
+
+Chambered for the SS109 NATO round in 5.56 mm caliber, it can deliver automatic fire at 700 or 900 rounds per minute (rpm).
+
+date origin	 israel weight	 15¾ lb (7.2 kg)
+
+barrel	 18 in (46 cm)
+
+caliber	 5.56 mm x 45 nato
+
+## FN MINIMI
+
+FN’s gas-operated, air-cooled Minimi accepts the NATO STANAG magazine or disintegrating-link belts, without modification. It was adopted by the US Army as its M249 Squad Automatic Weapon, and by the British Army as the L108A1.
+
+date origin	 belgium weight	 15 lb (6.83 kg)
+
+barrel	 18½ in (46.5 cm)
+
+caliber	 5.56 mm x 45 nato Rate-of-fire selector and safety catch Skeleton light-alloy butt stock Cocking handle Ejector port Cocking handle
+
+Safety catch and selective fire lever Muzzle compensator Optical sight Plastic butt stock Perforated barrel shroud Fore sight Cocking handle STANAG 30-round detachable magazine Folded bipod Barrel support L86A1 light support weapon The introduction of the L85A1 Individual Weapon into British service meant that a new support weapon had to be developed with the same caliber ammunition. The result was the L86A1, which replaced the L484 Bren gun. It has a heavier and larger barrel than the L85A1, and a rear grip to aid sustained firing. There is no quick-change barrel, so the gun must be fired in short, controlled bursts to prevent overheating.
+
+Muzzle compensator date origin	 uk weight	 12 lb (5.4 kg)
+
+barrel	 25½ in (64.5 cm)
+
+caliber	 5.56 mm x 45 nato rpk74 The RPK74 was developed from the successful AKM assault rifle, and many parts are interchangeable with those of other Kalashnikov weapons. It entered service in the early 1960s, and replaced the RPD as the standard light machine gun of the Soviet infantry. However, the gun’s fixed barrel meant that the rate of fire had to be kept below 75 rpm to prevent overheating.
+
+date origin	 ussr weight	 11 lb (5 kg)
+
+barrel	 23¼ in (59 cm)
+
+caliber	5.45 mm x 39 cetme ameli Similar to CETME’s assault rifle, with its roller- locked delayed action, the Ameli has a cyclical rate of fire that is determined by the type of bolt fitted. A light bolt gives 1,200 rpm, while a heavy bolt gives 850 rpm. A lightweight version of this weapon was also developed.
+
+date origin	 spain weight	 14 lb (6.35 kg)
+
+barrel	 15¾ in (40 cm)
+
+caliber	 5.56 mm x 45 nato Barrel Foresight Fore sight (folded)
+
+30-round magazine box Magazine release catch Gas regulator Gas tube Cocking handle
+
+## SUSAT
+
+optical sight Plastic forestock
+
+date 1920s origin italy weight 6 lb (3.06 kg)
+
+barrel 11 in (28 cm)
+
+caliber 9 mm glisenti VIlLAR PEROSA The first SMG was manufactured in 1915 as a double gun, paired in a simple mounting and fitted with spade grips, a single trigger bar, and a bipod. Later, these were revamped as carbines, with butt stocks and conventional triggers.
+
+Skeleton butt stock (folded)
+
+Pistol grip 32-round magazine Fore sight date origin us weight 10 lb (4.88 kg)
+
+barrel 10 in (26.7 cm)
+
+caliber .45 acp thompson m1921 US General John Tagliaferro Thompson began by designing an unsatisfactory self-loading rifle in 1916, but by 1919, he had produced an early version of what would be known universally as the Tommy Gun. The M1921 was the first to come to the market, but it was not until 1928 that the US Government adopted it, in small numbers, for the Marine Corps.
+
+Fore sight Forward pistol grip Magazine release catch 50-round magazine drum Magazine port Burst-fire trigger Barrel shroud Cocking sleeve submachine guns 1920 –1945 early attempts to produce a light, rapid-fire weapon centered on pistols, but it soon became obvious that these were difficult to control, and that something more akin to a carbine, but firing a reduced-power round suitable for a handgun, was more likely to be effective. It was not until World War II that it became clear that the butt stock was superfluous to a submachine gun (SMG) and could be eliminated without negative effects.
+
+the modern world 1900—2006 4 328–329 light machine guns 1914–1945          4 330–331 light machine guns since 1945          3 336–337 submachine guns since 1945 Magazine catch Ejection port Single- shot trigger Wooden butt stock Front sling attachment Cocking handle Magazine port Cocking handle date origin germany weight 9 lb (4.03 kg)
+
+barrel 9 in (24.8 cm)
+
+caliber 9 mm parabellum mp40 In 1938, the German Army adopted a new, handier design for a SMG, but it was still uneconomical to produce.
+
+Two years later, it was re-engineered to replace expensive machining with pressed and welded construction.
+
+This later design set the trend for an entire generation of SMGs.
+
+Winder for clockwork mechanism
+
+date origin ussr weight 7 lb (3.5 kg)
+
+barrel 10 in (27 cm)
+
+caliber 7.62 mm soviet ppsh41 Shpagin’s “Peh-Peh-Sheh,” reliable and simple both to manufacture and to maintain, was to become the mainstay of the Red Army after it stopped the German advance into the Soviet Union. At least five million had been produced by 1945, and infantry tactics were modified to make the best use of them.
+
+date origin germany weight 11 lb (5.25 kg)
+
+barrel 7 in (19.6 cm)
+
+caliber 9 mm parabellum BERGMANN Mp18/I The Hugo Schmeisser-designed MP18/I can lay claim to being the first effective submachine gun.
+
+It was produced in response to a request from the German Army’s storm troopers for a handier weapon than the heavy, cut-down MG08/15s they were using when assaulting defended positions.
+
+date origin uk weight 7 lb (3.4 kg)
+
+barrel 35 in (91 cm)
+
+caliber 9 mm parabellum sten mark 2 (silenced)
+
+The Sten cost less than a good pair of shoes to buy, but if one ignored its more obvious shortcomings, it was an effective way of putting devastating short-range firepower into the hands of inexperienced combatants. This version had an integrated noise- and flash- suppressor, and was produced only in small numbers.
+
+Safety catch Rear sling attachment Wooden butt stock removable in some models Rear sight adjustable for windage and elevation Magazine port 71-round drum Body locking pin Graduated rear sight 32-round “snail” drum magazine Fore grip insulated against heat Pressed and stamped steel body Fixed skeleton butt 32-round magazine Rear sight Receiver machined from solid steel billet
+
+## GANGLAND FAVORITE
+
+If the Thompson was slow to find favor with the US Army, it received a warm welcome from the criminal fraternity defying Prohibition Laws in the US during the Roaring Twenties.
+
+It soon became a firm favorite.
+
+Rate-of-fire selector Rear pistol grip Compensator reduces muzzle lift Rate-of-fire selector Magazine port Perforated barrel shroud Noise/flash suppressor
+
+Grenade Fitted with an under-barrel grenade launcher, the MP5 can fire the complete range of 40mm grenades, including lethal, non-lethal, and illuminating rounds, over distances of several hundred meters.
+
+MP5 Submachine- gun heckler & koch’s mp5 is the submachine-gun of choice for most of the Western world’s police and special forces units.
+
+Mechanically it is very similar to the company’s range of assault rifles, with a roller-locked delayed-blowback action. Firing from a closed bolt (most SMGs hold the bolt back when they are cocked) makes it considerably more accurate than others, and also improves controllability in the automatic mode, when it fires at a cyclical rate of 800 rpm. Laser target designators are often fitted, and a powerful torch can be mounted in place of the grenade launcher shown on this example.
+
+ammunition The MP5 is chambered for the 9mm x 19 round Georg Luger developed for his eponymous pistol in 1908. Between 1996 and 2000 it was also offered in .40S&W and 10mm calibers.
+
+Fore sight in annular shroud Attachment lugs for barrel- mounted accessories, including silencer Cocking handle the modern world 4 332–333 submachine-guns 1920–1945         3 336–337 submachine-guns since 1945 Grenade launcher trigger ISTEC 40 x 46M grenade launcher Grenade launcher safety catch
+
+Moulded plastic pistol grip 15-round magazine can be exchanged for one holding 30 rounds Rear sight
+
+## MP5A5
+
+The MP5 is also available with a rigid plastic stock. The trigger group (this example has safe/single/three-round/full-auto options) is also from the HK33, but it can be exchanged for one of a different configuration. A version with an integral silencer is also available, as is one with a short barrel.
+
+date origin germany weight 6¼lb (2.82kg)
+
+barrel 8¾in (22.5cm)
+
+calibre 9mm parabellum full view Stock retracted Magazine release catch Safety catch and rate-of-fire selector Recess for telescoping butt Butt locking pin weapon showcase Rate-of-fire icons: single-shot, three- round burst (above), and automatic (top)
+
+Mounting for standard NATO sights
+
+the modern world 1900—2006 4 328–329 light machine guns 1914–1945          4 330–331 light machine guns since 1945          4 332–333 submachine guns 1920–1945 date 1940s origin us weight 8.05 lb (3.66 kg)
+
+barrel 8 in (203 mm)
+
+caliber .45 in acp m3/m3a1 (“grease gun”)
+
+The Grease Gun was cheap to produce and simple to strip, clean, and maintain.
+
+It fired the same heavy round as the Colt automatic pistol.
+
+Replaceable barrel date 1950s origin france weight 7 lb (3.53 kg)
+
+barrel 9 in (288 mm)
+
+caliber  9 mm mat 49 The MAT 49’s distinctive feature is its pivoting magazine housing; as well as making the weapon easier to conceal, it’s a very positive safety device.
+
+Cocking handle date 1950s origin israel weight 8 lb (3.6 kg)
+
+barrel   10 in (260 mm)
+
+caliber  9 mm parabellum uzi The secret of the Uzi’s legendary stability lies in its bolt being wrapped around its barrel; this brings the center of gravity forward, and helps to cure the tendency for the barrel to rise during automatic fire. Heavy moving parts keep its rate of fire to a manageable level.
+
+Retractable skeleton butt Rear sight Barrel shroud Rear pistol grip Pivoting magazine housing doubles as fore grip Fore sight shroud 32-round detachable box magazine Fore sight in protective shroud Forward sling swivel Molded- plastic fore grip 32-round detachable box magazine Cocking handle Retractable skeleton butt Pistol grip 30-round detachable box magazine Barrel locking nut Flash suppressor Carrying sling Cocking-handle cover acts as safety catch Ejector port submachine guns
+
+## SINCE
+
+the second generation of submachine guns, introduced during and just after World War II, were unsophisticated weapons, designed for mass-production.
+
+They produced devastating short-range firepower and a great deal of noise, but were notoriously inaccurate and difficult to control, and were of limited military value as a result. More recently, developments have concentrated on applications for security and police.
+
+Pressed-steel receiver Rate-of-fire selector Barrel-locking nut
+
+Safety catch/rate- of-fire selector Rear sight in protective shroud Retractable skeleton stock date 1990s origin belgium weight 6 lb (2.7 kg)
+
+barrel   11 in (300 mm)
+
+caliber  5.7 mm fn p90 The first attempt to produce an entirely new compact automatic weapon, the P90 uses a “miniature” caliber round designed with damage limitation in mind. All its non- mechanical components are molded from plastic, and its unique horizontal ammunition feed mechanism allows the magazine to be incorporated into the receiver.
+
+date 1970s origin us weight 7 lb (3.4 kg)
+
+barrel   5 in (146 mm)
+
+caliber  9 mm parabellum ingram mac-10 A telescoping bolt and a magazine incorporated into the pistol grip allowed Ingram to reduce the overall size of the MAC-10 to little more than that of an automatic pistol. With a cyclical rate of fire of well over a thousand rounds per minute, it can empty its 32-round magazine in little more than a second.
+
+Replaceable barrel Rear sling swivel Optional noise/ flash suppressor Cocking handle vz/68 skorpion mod 83 The Skorpion was designed as a close-protection weapon that could be carried in a holster and used with one hand. Its unlocked blowback action and lightweight moving parts would give a very high rate of fire, but a clever counterweight mechanism in the butt reduces the rate.
+
+date 1960s origin czechoslovakia weight 3 lb (1.34 kg)
+
+barrel 4 in (115 mm)
+
+caliber 9 mm parabellum Cocking handle 20-round detachable box magazine Pistol grip Rigid wooden butt stock
+
+Optical sight Trigger Transparent plastic 50-round detachable box magazine Injection-molded plastic butt stock contains receiver, bolt, and lock Combined pistol grip and magazine housing Wrist strap Skeleton stock both retracts and hinges to lie over the receiver Rubber recoil pad
+
+the modern world Ammunition Since 1900 modern world .470 NITRO EXPRESS “Nitro” refers to the propellant, while “Express” refers to the bullet, which is hollow at the tip. Muzzle velocity is 2,150 fps, with 5,130 ft-lb of energy.
+
+Rifle cartridges .5/12.7 mm M2 Developed for the M2 machine gun and adopted as a rifle round, the M2 has a 710-grain (46-g) bullet and a muzzle velocity of 2,800 fps.
+
+.458 WINCHESTER MAGNUM Developed in 1956 as a “big game” round, with a 500-grain (32.4-g) bullet, it give a muzzle velocity of 2,040 fps and 4,620 ft-lb of energy.
+
+.416 REMINGTON MAGNUM A development of a cartridge produced by Rigby in 1911, the .416 Remington produces a muzzle velocity of 2,400 fps and 5,115 ft-lb of energy.
+
+8 mm X 58 KRAG This is an alternative chambering for the Norwegian Krag rifle, which the Danish Army adopted. A 195- grain (12.7-g) bullet left the muzzle at 2,525 fps.
+
+.30-06 Springfield The .30-06 remained in US service from 1906 until
+
+## 1954. Its 152-grain (9.85-g) bullet leaves the muzzle
+
+at 2,910 fps with 2,820 ft-lb of energy.
+
+## 7.92 mm X 57 MAUSER
+
+The SmK cartridge, as it was known, was loaded with a steel-jacketed 177-grain (11.5-g) boat- tailed bullet that left the muzzle at 2,745 fps.
+
+following the development of the unitary brass cartridge, which combined all three essential elements (primer, propellant, and projectile) in one package, it only remained for the nature of those elements to be improved. Primers became more effective and bullets more aerodynamic, but the most important developments were in propellant. These took place in the last decade of the 19th century, first with the advent of smokeless powder and later of a nitroglycerine-based mixture generally known as cordite; this replaced gunpowder entirely.
+
+## 7.62 mm x 54R RUSSIAN
+
+The “3-line” cartridge developed in 1891 was loaded with a 150-grain (9.65-g) bullet that left the muzzle at 2,855 fps.
+
+## 7.7 mm x 56R JAPANESE
+
+The fully rimmed version of the round for which the Arisaka rifle was chambered had a 175-grain (11.35g) bullet and a muzzle velocity of 2,350 fps.
+
+.303 MkVII This version of the Lee-Enfield cartridge, with a 180- grain (11.66-g) bullet, developed a muzzle velocity of 2,460 fps and 2,420 ft-lb of energy.
+
+## 7.7 mm X 56R ITALIAN
+
+Almost identical to the above, the Italian 7.7 mm cartridge had a 173-grain (11.25-g) bullet and a smaller charge that produced 2,035 fps.
+
+Rifle bullets acquired a sharply pointed nose and a taper toward the tail, which almost doubled their effective range and improved their accuracy. In these examples, both velocity (feet per second) and energy (foot-pounds) are measured at the muzzle.
+
+1900—2006 4 266–267 ammunition pre-1900
+
+ss109 5.56 mm The NATO-standard SS109 5.56 mm round has a steel- tipped projectile weighing 61.7 grains (4 g) and achieves a muzzle velocity of 3,085 fps.
+
+.338 WINCHESTER MAGNUM Developed for large North American game, this cartridge can be loaded with a variety of projectiles from 175 to 300 grains (11.34g to 19.44 g) in weight.
+
+7 mm REMINGTON MAGNUM Loaded with 62 grains (4,02g) of propellant and a 150- grain (9.72-g) “spitzer” bullet, this produces a muzzle velocity of 3,100 fps and 3,220 ft-lb of energy.
+
+.257 WEATHERBY MAGNUM A “hot” round, loaded with an 87-grain (5.31-g)
+
+“varmint” bullet, this achieves a muzzle velocity of 3,825 fps and delivers 2,826 ft-lb of energy.
+
+.243 WINCHESTER MAGNUM This short-case round delivers less power than a normal cartridge: a 100-grain (6.48-g) bullet leaves the muzzle at 2,960 fps with 1,945 ft-lb of energy.
+
+.22 Hornet One of very few high-velocity miniature rounds, the .22 Hornet was developed in the 1920s. Its 45- grain (2.9-g) bullet leaves the muzzle at 2,690 fps.
+
+.30 M1 carbine This “intermediate” round developed for the US World War II-vintage M1 Carbine is loaded with a 110-grain (7.13-g) blunt-nosed bullet, good to 600 ft (180 m).
+
+## 7.92 mm X 33 KURTZ
+
+The first effective intermediate round, it was copied by the Soviet Union in slightly smaller dimensions.
+
+It was effective to around 1,950 ft (595 m).
+
+## 7.62 mm X 51 NATO
+
+When NATO chose a new rifle and machine gun cartridge in the early 1950s it opted for one based on the .30-06.
+
+## 5.45 mm X 40 SOVIET
+
+This replaced the Red Army’s 7.62 mm x 33 round for the AK74 family. It is similar to the 5.56 mm NATO round in performance.
+
+## 4.73 mm G11
+
+The wheel turns full circle with the advent of the caseless round developed for Heckler & Koch’s G11 assault rifle.
+
+Pistol cartridges .45 MARS This was the most powerful pistol ammunition in the world prior to the arrival of the .44 Magnum.
+
+9 mm mars Severely bottlenecked cartridges are unusual in pistols, but the designer insisted on a heavy propellant load for the 9 mm Mars.
+
+9 mm steyr There are many varieties of 9 mm revolver cartridge; this one was developed for a pistol designed by Mannlicher.
+
+9 mm PARABELLUM Also known as 9 mm Luger, this is the most common cartridge in the world. Countless fireams have been chambered for it.
+
+The only significant change in the character of pistol ammunition after 1900 was the introduction of the high-performance Magnum load.
+
+.45 ACP Another iconic pistol cartridge, the .45 Automatic Colt Pistol round was developed for the John Browning-designed M1911.
+
+.32 long Though a popular caliber for revolvers, the original .32 cartridge was low on power.
+
+A longer version was produced in 1896.
+
+.38 s&w This is the least powerful .38 cartridge; it gives the 145-grain (9.4-g) bullet a muzzle velocity of 685 fps and 150 ft-lb of energy.
+
+.380 enfield/webley Made for the Enfield Mk 1 revolver, this 200-grain (12.96-g) bullet was almost as powerful as the .455 it replaced.
+
+.32 auto A popular caliber for small self-loading pistols, the .32 has a 60-grain (3.89-g)
+
+bullet and produces 125 ft-lb of energy.
+
+.357 magnum Developed in 1935, this has since been produced in many varieties. Average muzzle velocity is around 1,300 fps.
+
+.44 magnum This round was developed in 1954. A 240- grain (15.55-g) bullet leaves the muzzle at 1,500 fps with 1,200 ft-lb of energy.
+
+.5 ACTION EXPRESS Developed for the Desert Eagle pistol, this 325-grain (21-g) bullet leaves the muzzle with 1,415 ft-lb of energy.
+
+8 mm nambu The Japanese officer’s pistols issued from 1909 onward were the only weapons ever made for this powerful round.
+
+Bullet is contained within charge
+
+PIAT 1.36 kg (3lb) bomb Man-Portable anti-tank Weapons during world war i, the only weapon capable of engaging a tank was a field artillery piece. Over the next two decades, dedicated anti-tank guns came into service, but there was a need for a lighter weapon that an infantryman could use, and anti-tank rifles were developed to meet it. These were of questionable effectiveness, and were soon abandoned, to be replaced by launchers for rocket- propelled bombs. The latter used a new technology, the shaped charge, which burned through armor like a blowtorch.
+
+PROJECTOR, INFANTRY, ANTI-TANK The PIAT, like the Sten, was a wartime expedient design that put function before form. It was actually a spigot mortar, firing a bomb with a shape-charged warhead.
+
+The spigot’s spring was very powerful and ignited the bomb’s propellant charge after it had hurled it from the weapon.
+
+date
+
+origin uk weight 32 lb (14.5 kg)
+
+length 36 in (91.4 cm)
+
+projectile 3 lb (1.36 kg)
+
+Box magazine holds five rounds Trough holds bomb before launch
+
+## BOYS ANTI-TANK RIFLE
+
+Birmingham Small Arms produced the Boys rifles in the mid-1930s. They were bolt-action weapons firing a heavy tungsten-steel round. Even though the barrel recoiled into the stock, the effect on the firer was fearsome. It was abandoned as ineffective in 1941 and replaced by the PIAT.
+
+date origin uk weight 36 lb (16.3 kg)
+
+barrel 36 in (91.5 cm)
+
+caliber .55 in Flash hider the modern world 1900—2006 3 342–343 rifle-mounted grenade launchers           3 344–345 stand-alone grenade launchers Pad absorbs some recoil Bolt handle Left hand grip Fore sight Monopod supports weight of rifle Pistol grip Shaped-charge warhead can penetrate 3 in (7.5 cm) of armor Propellant charge in body tube Shrouded stabilizing fins Supporting monopod Two fingers required to pull trigger Fore sight
+
+m1a1 1.54kg (3½lb) rocket
+
+## SOLOTHURN S18-100 ANTI-TANK RIFLE
+
+The Solothurn anti-tank rifle fired a base-fused shell (an artillery round in miniature) that gave acceptable results against light armor. An upgraded version, the S18-1000, saw service with the German Army as the PzB41.
+
+date origin switzerland weight 99¼ lb (45 kg)
+
+barrel 35½ in (90 cm)
+
+caliber 20 mm
+
+## PTRD ANTI-TANK RIFLE
+
+The PTRD was a more complicated weapon than it appeared. It had a barrel that recoiled into the stock and unlocked the bolt in the process; this was held back when the barrel returned to battery, opening the breech and ejecting the spent round. A fresh round was then introduced and the bolt closed by hand.
+
+date origin ussr weight 38¼ lb (17.3 kg)
+
+barrel 48¼ in (122.7 cm)
+
+caliber 14.5 mm m1a1 “bazooka” The Bazooka was the forerunner of the German Raketenpanzerbüchse and the Soviet RPG rocket launchers. It was no more than a tube from which a solid fuel rocket, with a shaped- charge warhead, was launched. It was operated by two men, one to fire, the other to load.
+
+date
+
+origin us weight 13¼ lb (6 kg)
+
+length 54 in (137 cm)
+
+projectile 3½ lb (1.54 kg)
+
+Gas regulator Some propellent gas bled off to act on piston to cycle action Rubber pad absorbs some recoil Flash hider Barrel recoils into receiver Left hand pulls stock tightly to shoulder Tubular receiver contains spigot and driving spring Rear sight folds down Fore sight Slings for carrying on back Shoulder pad Rocket inserted at rear Wooden shoulder support Trigger is the switch in a battery-powered circuit
+
+rifle-mounted Grenade Launchers until the development of the percussion cap, which could also be used to detonate explosive devices, grenades had slow-match fuses, and were so unreliable that they went out of use during the 19th century. By 1915, however, William Mills had invented a safe, reliable, primer-detonated grenade, which the British Army adopted as the No. 36. Soon after, a device that allowed it to be launched from a standard infantry rifle was introduced.
+
+## SMLE WITH MILLS BOMB LAUNCHER
+
+The Mills bomb was adapted for rifle-use by the addition of a rod to the base cap. The rifle itself was fitted with a ring or cup, mounted at the bayonet lug, to retain the grenade’s arming lever.
+
+To fire the grenade, a specially formulated blank cartridge was used.
+
+date origin uk grenade anti-personnel caliber .303 in range 490 ft (150 m)
+
+NO. 4 RIFLE WITH AT-GRENADE LAUNCHER With the introduction of the No. 4 Rifle, with its exposed muzzle, the British Army was able to develop a new style of tubular launcher. Mounted over the muzzle on the bayonet lugs, the No. 4 launched a fin-stabilized anti-tank grenade. Using an overpowered blank cartridge, it was fired with the butt of the rifle grounded. This example is fitted with a later model L1A1 practice grenade.
+
+date 1940s origin uk grenade  anti-tank caliber .303 in range 330 ft (100 m)
+
+the modern world 1900—2006 4 340–341 man-portable anti-tank weapons          3 344–345 stand-alone grenade launchers Ten-round magazine Stabilizing fins Bolt handle Bayonet (broken)
+
+Fore sight Bolt Rifle cocking handle Folded rear sight for grenade launcher Rifle trigger Receiver Rear sight Mills No. 36 grenade Arming lever retaining ring Ten-round magazine Grenade launcher fore sight Marker capsule Grenade trigger
+
+## M59/66 WITH AT-GRENADE LAUNCHER
+
+This was the Red Army’s standard anti-tank grenade launcher during the 1950s. Mounted on the self-loading M59/66 assault rifle, it employed an overpowered blank cartridge.
+
+While effective, it proved unpopular due to the disastrous effect of mistakenly chambering a regular live round.
+
+date origin ussr grenade anti-tank caliber
+
+## 7.62 mm x
+
+range 330 ft (100 m)
+
+## AK74 WITH GP25
+
+The barrel-mounted grenade launcher was slow to use. The answer was to fit the grenade with its own propellant charge. The Red Army adopted one with the charge in the body of the grenade. Nothing remained in the launcher’s barrel after it had been discharged. This AK74 lacks the recoil pad that is normally fitted to grenade launcher rifles.
+
+date origin ussr grenade anti-personnel caliber 40 mm range 490 ft (150 m)
+
+simonov greNADE
+
+## M16A1 WITH M203
+
+The US Army’s version of the assault rifle- mounted grenade launcher, the M203, employs a grenade mated to a cartridge case containing the propellant charge. The empty case remains in the chamber after the round has been fired and needs to be ejected. The M203 was developed to replace the stand-alone M79 grenade launcher.
+
+date origin us grenade anti-personnel caliber 40 mm range 490 ft (150 m)
+
+gp25 greNADE 30-round magazine Pistol grip Rifle cocking handle Rear sight Ten-round magazine Folding bayonet Cocking handle Rifled grenade launcher tube Muzzle compensator Rifle fore sight Launcher mounts onto forestock Loading/ejector slide Launcher fore sight in the folded position Receiver Gas cylinder Gas regulator Grenade sight Launcher tube Shaped-charge warhead Stabilizing fins Gas cylinder Muzzle compensator Grenade launcher tube is rifled Grenade launcher trigger 40 mm anti- personnel grenade Rifle trigger
+
+stand-alone Grenade Launchers there are times when a rifle-mounted launcher is not what is required; for example, non-lethal 40 mm grenades are available for riot control purposes, when rifles would not normally be issued.
+
+On the battlefield, rapid-fire launchers have come to supersede light mortars, since not only can they be used in the direct- and indirect- fire role (i.e. against visible and invisible targets, the latter on a compass bearing) they can also put down a greater weight of bombs.
+
+M79 40mm greNADE the modern world 1900—2006 4 340–341 man-portable anti-tank weapons          4 342–343 rifle-mounted grenade launchers AGS-17 “PLAMYA” The Soviet equivalent of the American 40 mm M19 that was first used in the Vietnam war. It is a belt-fed, blowback-operated launcher with a maximum range of 1 mile (1.61 km). Such weapons are commonly mounted in ground vehicles, boats, and hovercraft, and aboard helicopters and fixed-wing aircraft.
+
+date origin ussr weight 48¼ lb (22 kg)
+
+barrel 11¾ in (30 cm)
+
+caliber 30 mm M79 “BLOOPER” Developed as a stand-alone grenade launcher during the 1950s, the M79 became known as the Blooper to the troops issued with it. It is a simple break-open design, a bit like a giant shotgun. Opening the breech ejects the spent casing, a fresh round is loaded, and closing the breech cocks the action.
+
+date origin us weight 6 lb (2.75 kg)
+
+barrel 12 in (30.5 cm)
+
+caliber 40 mm Elevating quadrant Optical sights graduated to 1,650 ft (500 m)
+
+Non-disintegrating belt emerges here Barrel release catch Rifle barrel has cooling fins Drum contains 29 30 mm grenades in non-disintegrating belt Muzzle, where projectile is loaded Leaf sight, graduated to 1,150 ft (350 m)
+
+folds down Fore sight Tail of missile, with launching cartridge and stabilizing fins folded, contained in barrel Trigger
+
+full view MECHEM/MILKOR MGL Mk 1 A scaled-up version of a shotgun of similar design, the MGL MK 1 is a six-shot revolver grenade launcher. Indexing is performed by a spring, wound by rotating the cylinder manually when it is swung out of the frame for loading.
+
+Its maximum range is around 1,150 ft (350 m).
+
+date origin south africa weight 12 lb (5.6 kg)
+
+barrel 12 in (30.5 cm)
+
+caliber 40 mm
+
+## RPG-7V
+
+The shoulder-launched RPG-7 is a much- improved version of the RPG-2. Its projectiles have a two-stage launcher/sustainer propellant charge, and a range of up to 500 m (1640 ft). A wide variety of grenades is available, including anti-personnel, fuel-air explosive, and high- explosive anti-tank projectiles.
+
+date origin ussr weight 14 lb (6.3 kg)
+
+barrel 37¼ in (95 cm)
+
+caliber 40 mm Cocking handle has toggle attached Cylinder holds six 40 mm grenades Elevation screw Horizontal grips on both sides of receiver Skeleton butt stock can be folded forward Wooden heat shield for firer’s shoulder Laser designator Exhaust gas collector/diffuser Optical sight graduated to 1 mile (1.7 km)
+
+Fore grip can be loosened to rotate around barrel Tripod leg clamp
+
+the modern world us navy seal established in 1962, the US Navy SEAL (Sea-Air-Land) teams have built a reputation as the most impressive of American special operations forces.
+
+SEAL training is widely considered the most rigorous of any military force.
+
+It includes a strong emphasis on physical and mental fitness, including a week where students have less than four hours’ sleep. Skills in which SEALs need to become proficient range from scuba diving and parachuting to close-quarters combat and demolition.
+
+Multi-tasking The many tasks potentially assigned to the 2,450 SEALs include recovering downed pilots, locating and freeing hostages, sabotage, reconnaissance, counterterrorism, and counter-drug operations.
+
+Such wide-ranging tasks require a wide variety of clothing, weapons, and equipment.
+
+Special Forces The SEALs were created as part of President John F. Kennedy’s drive to prepare US armed forces to meet the threat of guerrilla warfare. They were first sent into combat against communist forces in Vietnam in 1966, specializing in riverine operations. Since 1987 the SEALs have been grouped with all other American special forces under US Special Operations Command.
+
+Deployed in landlocked Afghanistan after the American intervention in 2001, the SEALs fought in a role effectively indistinguishable from other special forces. Although the invasion of Iraq in 2003 gave SEALs a chance to exploit their waterborne role, for example capturing offshore oil terminals, once again their “Air-Land” element was much more prominent. SEALs led the way in the fast-moving campaign that destroyed the Iraqi army. US conventional forces were regularly called in to support them, rather than the other way around.
+
+Armed river patrol Special Boat Units (SBUs) are, like the SEALs, a part of Special Naval Warfare Command. They are trained to carry out special operations in small surface craft, including river or sea patrols, and clandestine waterborne infiltration of commandos. SEAL seaborne or riverine operations are supported by teams of Special Warfare Combat-Craft Crewmen (SWCC).
+
+In 2006 the US Defense Department announced future war plans that envisaged a starring role for special forces in meeting the threat of global terrorist networks, described as “new and elusive foes.” The Pentagon envisaged in particular that terrorists would be “found, fixed, and finished” by special forces calling in air strikes.
+
+If these plans are implemented, the future of the SEALs seems assured.
+
+m16 rifle with grenade launcher
+
+Fighting in Afghanistan In October 2001 the United States invaded Afghanistan, to overthrow the Taliban regime and destroy al-Qaeda terrorist bases. SEAL commandos participated as part of a Combined Joint Special Operation Task Force. Dropped by helicopter in hostile terrain, they searched caves and houses believed to be used by the enemy, located and directed air strikes against enemy fighters, and sought to capture or kill al-Qaeda leaders. A SEAL was among seven US special forces personnel killed at Takur Ghar in March 2002, when an attempt to establish a mountain-top reconnaissance post was resisted by guerrilla forces.
+
+seal commando in action in afghanistan tools of combat Headset for communications SEAL protection In action SEALs normally wear personal body armor, considered essential for survival in special operations. They often complement their standard-issue kit by purchasing high-quality specialist gear that is available on the market.
+
+Body armor ready to lead, ready to follow, never quit.” “ from the seal code great warriors Protective goggles Pouches strapped around chest and thighs to carry supplies m16 automatic rifle with m203 grenade launcher
+
+## H&K MP7
+
+submachine gun
+
+## H&K MP5K
+
+submachine gun
+
+the modern world 1900—2006 4 294–295 self-loading pistols from 1950          4 300–301 manually loaded repeater rifles 1900–2006          4 332–333 submachine guns 1920–1954 improvised guns 1950 –1980 when ammunition is at hand, there is sometimes a temptation to fashion a weapon capable of firing it. In its simplest and crudest form, this need be no more than a piece of tubing of roughly the right diameter, a nail to act as a striker, and a means of propelling it with enough force to detonate the primer in the cartridge. Discharging such a device is likely to be at least as dangerous to the person holding the weapon as to the intended victim.
+
+date 1980s origin south africa weight 2¼ lb (1 kg)
+
+barrel 8¾ in (22 cm)
+
+south african pistol This homemade pistol, recovered in South Africa, is a bit more sophisticated than it appears at first sight. It boasts a simple, single-action lock linking trigger and hammer, perhaps derived from a child’s toy pistol, and can thus be used single-handedly.
+
+It would have been so inaccurate as to render the rudimentary sights redundant.
+
+date 1950s origin cyprus weight ½ lb (0.23 kg)
+
+barrel 4¼ in (11 cm)
+
+caliber unknown EOKA pistol This “gun” is so crudely fashioned that it barely qualifies for the name. The barrel is a spent 20 mm- caliber cartridge case, secured to the rough-hewn wooden frame by means of wire. For it to have been at all effective, the “muzzle” would have needed to be virtually in contact with the victim’s body before the gun was discharged.
+
+date 1950s origin kenya weight 3½ lb (1.6 kg)
+
+barrel 20¼ in (51.2 cm)
+
+caliber .303 in mau-mau carbine Somewhat more sophisticated than many of its type, this short-barreled, bolt-action, single shot carbine was made in Kenya during the time of the “Mau-Mau” insurrection against British rule in the 1950s. Most of the improvised weapons made by the rebels, the majority of whom were from the Kikuyu tribe, exploded when they were fired.
+
+Unrifled barrel Roughly carved wooden grip Wire wrapping secures barrel to stock Cartridge case from 20 mm cannon shell serves as barrel Hammer Trigger Smooth-bore barrel Stock reminiscent of a Lee-Enfield Trigger Bolt handle Fore sight Sling Barrel band and rear sight Barrel-retaining band Retaining bolt Perforated barrel shroud serves as the fore grip Hole used to ignite charge
+
+Pistol grip date 1970s origin uk weight 5¾ lb (2.6 kg)
+
+barrel 7¾ in (20 cm)
+
+caliber 9 mm loyalist submachine gun Modeled on the World War II-vintage Sten gun, this homemade machine pistol was produced by loyalist paramilitaries in Northern Ireland. The barrel shroud and receiver have been fashioned from square- framed tubing, while the magazine appears to be that of an L2 Sterling SMG, as issued to British troops stationed in Northern Ireland at that time.
+
+34-round box magazine from Sterling SMG Magazine port full view date 1950s origin cyprus weight 2¾ lb (1.25 kg)
+
+barrel 4¼ in (11 cm)
+
+caliber 12-bore EOKA shotPistol EOKA (Ethniki Organosis Kyprion Agoniston— National Organization of Cypriot Fighters) fought a guerrilla campaign against British colonial rule on the Mediterranean island of Cyprus from 1955 until
+
+## 1959. During that time, small numbers of crude guns
+
+were fashioned. This all-metal gun has a simple break-open action. It fires a shotgun cartridge by means of a spring-loaded plunger.
+
+Break-open hinge Fore sight Rear sight Trigger Cocking handle Barrel made from gas pipe Magazine release catch Square-section receiver Pistol grip Trigger Safety catch
+
+having been largely abandoned by European armies in the 1680s, metal helmets made a swift comeback amid the carnage of World War I.  Although all combatants started that conflict wearing cloth or leather headgear, in 1915 they began adopting steel helmets to reduce casualties suffered through head wounds, especially from shrapnel. Broadly speaking, the same types of helmet developed during World War I served, with modifications, up to the 1980s, when all body armor was revolutionized by the introduction of synthetic Kevlar as a lightweight substitute for steel.
+
+Plates riveted together the modern world 1900 — 2006 4 86–87 european helmets and basinets          4 88–89 european jousting helms, barbutes, and sallets          4 168–169 european tournament helmets Visor protects against flying metal helmets from 1900 Helmet composed of leather plates date c.1916 origin uk weight mask ¾lb (0.29kg)
+
+World War i tank crew helmet When the British introduced tanks to the battlefield in 1916, they quickly found that the vehicles’ armor gave inadequate protection to the tank crew inside. When bullets struck the armor, shards of metal flew off the inside of the hull. After early casualties, tank crews were issued with helmets and visors to protect their heads and faces.
+
+Eye-slits allow only limited vision Mail mouth guard “Coal scuttle” shape protects neck Leather strap secures plate to helmet
+
+Brow plate (Stirnpanzer)
+
+“Soup bowl’ shape Steel skull plate covered with green cloth Narrow brim date origin uk weight 2½lb (1.6kg)
+
+british brodie helmet Designed by John L. Brodie, the “tin hat” was first used by the British army in September 1915. Made of hardened manganese steel, it was cheap to produce but offered little protection for the neck or lower head. Brodie- pattern helmets continued in use with British and Commonwealth forces throughout World War II.
+
+date c.1944 origin usa weight 9½lb (4.28kg)
+
+us aircrew helmet Steel flak helmets were adopted by US bomber crews in response to heavy casualties sustained on daylight raids over Germany in World War II. Colonel Malcolm C. Grow developed this M4 helmet when the 1944-issue M3 proved too bulky to wear in the gun turrets of bombers. He also developed light body armor, called “flak suits.” date 1940s origin usa weight 2¼lb (0.99kg)
+
+us M1 helmet The US Army’s M1 helmet was first used in combat in 1942. It consisted of an outer steel shell with a flimsier liner inside. The shell could be separated from the liner to serve as anything from a shovel to a latrine.
+
+Evolved forms of the M1 remained in use with the US Army until the 1980s.
+
+date c.1970 origin north vietnam weight 1lb (0.5kg)
+
+north vietnamese helmet During the Vietnam War, the soldiers of the North Vietnamese Army wore varieties of headgear, including this kind of sun helmet, or pith helmet.
+
+Such helmets were made of pressed paper or, less often, of plastic. Not surprisingly, they offered no protection against the firepower of US and South Vietnamese weapons.
+
+date origin uk weight 3lb (1.36kg)
+
+british kevlar helmet Until the 1980s, British Army soldiers continued to wear Brodie-pattern steel helmets, similar in style to those worn in the two World Wars. These were replaced by helmets made of Kevlar – a synthetic material that, weight-for- weight, is stronger than steel, and is also heat-resistant. The shape of the new helmet also provides protection to more of the head. The helmet is often covered with DPM (Disruptive Pattern Material) for camouflage.
+
+Helmet net Helmet made of lightweight material Cotton DPM cover Chincup Wide brim Peak of helmet Model 1916 helmet date origin germany weight 1.95kg (4¼lb)
+
+german helmet with brow plate Having entered World War I in spiked leather Pickelhaube helmets, the German army adopted the steel Stahlhelm in 1916.
+
+Soldiers believed to be at special risk, such as machine-gunners, were also issued with the Stirnpanzer, a 4mm (¼in) thick steel plate to protect the front of the head. Since these plates weighed around 4kg (9lb), they were donned for short periods only.
+
+UN soldiers in Mogadishu, somalia United Nations peacekeeping forces are often referred to as the “blue helmets” because of their distinctively coloured headgear.
+
+These helmets thus perform a dual function, offering the soldier protection but also identifying him clearly as a peacekeeper.
+
+Steel ear flap Ventilation lug
+
+crowd control Bolivian riot policemen shoot rubber bullets during a strike in downtown La Paz, 2004.
+
+These are often used to aid crowd control because although they can pierce the skin, they do not cause permanent injury unless fired at short range.
+
+Page numbers in bold indicate main references 3-Line rifle, 258 92FS Beretta pistol, 294 A Acre, 59 Adams, Gen. DW, 185 Adams, Robert, 222 Admiralty Islands, 203 Adophus, Gustavus, 100 Adowa, Battle of, 179 Afghanistan, guerrilla warfare, 279, 307, 347 Africa, edged weapons, 11, 198-9, 280-3 North African saif, 187 shields, 270-1 Afzal Khan, 100 AG36, grenade launcher, 334 Agincourt, Battle of, 8, 59, 60, 78, 208 AGS-17 Plamya grenade launcher, 344 aikuchi (sword), 66 aircraft, fighter, 277 jet, 276 airship, 277 AK47, grenade launcher, 343 machine gun, 278, 306-7, 331 AK74, machine gun, 331 Albuera, Battle of, 242 Alexander the Great, 12, 27, 28, 42 Algeria, French campaigns in, 176 Alison of Dundee, 153 al-Qaeda, 347 Ameli machine gun, 331 American Civil War, 177, 178, 220-1 swords, 184-5 American War of Independence, 107, 176-7, 205, 233, 243 ammunition, bullet lubrication, 266 bullet shape, 226, 338-9 cartridge, 16-7, 101, 235, 243, 250-1, 266-7, 307, 338-9 invention, 17 development of, 16-17 expanding bullet, 236, 250, hollow-point, 19 jacketed bullet, 259 Luger “Parabellum,” 291 Magnum, 298 MP5 submachine gun, 334 musket/rifle ball, 14, 150, 266 percussion cap, 226, 236, 266 primer, 19 SS109, 311 amphibious craft, 278 Anaconda revolver, 299 Anglo-Boer war, 254 Anglo-Saxon, weapons and armor, 50-1 angon (spear), 50 ankus, 143, 196 antitank weapons, 340-1 Arab, dagger, 11 Arabia, rise of army, 29 Arawe (shield), 273 archery, glossary, 9 thumb ring, 147 Argive (shield), 27-8 Arisaka rifle, 259 bullet, 338 armet (helmet), 23, 169 arming cap, 23 armor, Asian, 170-1 Assyrian scale, 33 crocodile skin, 34 Crusades, 59 Egyptian, 34 European plate, 94-5 European tournament, 166-9 Frankish, 9, 50-1 garniture, 166 gauntlet, 23, 95, 167 German, 22, 88, 89, 91 glossary, 23 Greek, 40-1, 42 Indian (Sikh), 268-9 Japanese, 22, 127, 172-3 Kevlar, 23, 351 knightly, 91 mail, 22, 52, 87, 91, 92-3, 94, 170, 268 Mongolian, 76 Navy SEAL, 347 overview, 22-3 pauldrons, 95 Roman, 22, 28, 44, 46 samurai, 22, 127, 172-3 Spanish, 84-5 Viking, 22 army, drilling, 99 size of, 99, 101 Arnold, Benedict, 176 arquebus, matchlock, 61, 108, 150-1 at Pavia, 98, 138 arrow, Aztec, 99 flint, 31, 35 head, 35, 79, 147 Japanese, 8 longbow, 79 Sudanese, 199 see also bow artillery, development of, 98-9 field, 101 gunner’s stiletto, 133 horse, 99 Napoleonic Wars, 230 Redcoat training for, 242 siege, 100 World War I, 276-7 Asian, armies, 100 armor, 170-1 bow and arrow, 146-7 helmet, 23 musket, 156-7 rifles, 260, 262-3 staff weapons, 74-5 Assam, sword-ax, 9 assassins, 131 assault rifles, 306-7, 310-11, 331 Assyria, archery, 8, 27, 33 armor, 33 rise and fall, 26-7 Astra pistol, 290 Athens, 42 Augsburg, Peace of, 98 Augustus, Emperor, 45 Aurangzeb, Emperor, 99, 170 Austerlitz, Battle of, 176, 177 Australia, boomerang, 9, 210 shields, 211 Austria, flintlock, 161 hunting sword, 105 musket design, 233 pistol, 295 repeater rifle, 258 Austrian Succession, War of the, 99 Austro-Prussian War, 177 automatic weapons, 308-9, 313 see also machine gun and submachine gun aventail, mail, 23, 87, 93, 268 ax, African club, 199 battle, 9, 26, 37, 59, 74, 196-7 Bronze Age, 9, 49 carbine, 159 ceremonial, 37 combination weapon, 158 Congolese, 198 Egyptian, 9, 34 Frankish, 51 Indian, 74 Iron Age, 49 lochaber, 13 long-handled, 73 Mesopotamian, 26 pole arms, 13, 72 saddle, 142 short, 73 stone, 30-1 tabar, 197 throwing, 9, 51 tomahawk, 9, 205 tongi, 196 Viking, 52-3, 73 ayudha katti sword, 129 Aztec, Spanish defeat of, 84-5, 99 weapons and shields, 82-3 B Baghdad, 279 Baker, Ezikiel, 215, 234 Baker rifle, 234-5 Balaclava, Battle of, 177, 178 ball, musket/rifle, 14, 150, 266 ballack dagger/knife, 69, 131 Baltic lock (rifle), 153 bandenhelm (helmet), 23 bandhelm (helmet), 23 Barbarossa, Frederick, 58 barbute, Corinthian, 89 bardiche, 12, 13, 72, 141 barding (horse armour), 23 barrel, cooling, 322, 328 insulation, 333 Barrett, Ronnie, 321 Barrett sniper rifle, 321 baselard, 64, 68 basinet, European, 23, 86-7, 93 Bayeux Tapestry, 59, 73 bayonet, 20th century, 284-5, 311 American, 194-5 Baker, 235, 243 British 1907 pattern, 284 Brown Bess, 243 charge, 194 Chassepot, 11 Elcho, 195 Enfield, 250, 284 European, 194-5 German, 284, 285 introduction of, 101 musket, 233 origin, 130 plug, 101, 133 socket developed, 99 sword, 242, 243 trowel, 195 Bazooka antitank rifle, 341 Beaumont, FBE, 223 Belgium, Browning pistol, 292 dueling/target pistol, 216 machine gun, 330 pistol, 163, 292 rifle production, 19, 308 submachine gun, 337 Bemis Heights, assault on, 176 Bénét, Col. SV, 267 Benin, sword design, 282-3 Beretta, pistol, 293 shotgun, 313 Bergmann, Theodore, 229 Bergmann submachine gun, 21, Besa machine gun, 324 besagew (shield), 91 Besserm process, 177 bevor, 23, 87, 94, 168 bhuj (axe), 196 Bhutan, dagger, 135 bich’hwa (dagger), 100, 135, 193 bill (staff weapon), 12, 140 Birmingham Small Arms, 340 Bismark, Chancellor, 178-9 Blenheim, Battle of, 99, 101 Blooper grenade launcher, 344 blowback, 15, 17 bluing, on rifle barrels, 237 blunderbuss, 15, 212, 247 Boer, Battle of, 177 Boer War, 179, 228, 254, 300 Bolivia, rubber bullet use, 352-3 bolt, crossbow, 78, 80 bolt-action, mechanism, 19 rifle, 245, 313 bomb, atomic, 277, 278 Mills, 342 nuclear, 278 smart, 279 bombing raids, 277-8 boomerang, 9, 210 Borchardt, Hugo, 228, 253 Borchardt pistol, 19 Borodino, Battle of, 177 Boru, Brian, 58 Bourgeoys, Marin le, 162 Bouvines, Battle of, 93 bow, Asian, 146-7 Assyrian, 8, 33 backed, 208 bullet, 144 Chinese, 146 composite, 8, 26, 33, 35, 76, 146-7 crossbow, 8, 59, 78-81, 108, 144-5, 146 Egyptian, 35, 38-9 fingering, 208 from horseback, 26, 76 Indian, 8 Japanese, 146 laminated, 146 longbow, 8, 78-9 Mongol, 76 North American, 27, 208-9 recurved, 76 samurai, 8, 126 shortbow, 59 stone, 144 thumb ring, 147 box-lock, 15 Boyle, Gamble & McFee, 185 Boys antitank rifle, 340 break-open rifle, 244 breastplate, 167 breech-loader rifle, 248-9 breech-loading carbines, 240-1 Breitenfeld, Battle of, 100-1 Bren machine gun, 329 Britain, Battle of, 277 Bronze Age weapons, 48-9 Royal Air Force, 277 Tower of London Armoury, war with China, 176 British Army, 95th (Rifle)
+
+Regiment, 234 in American War of Independence, 176 antitank weapon, 21 bayonets, 194-5, 284 cavalry, 149, 181, 182 concentration camps, 179 Enfield rifle, 250 fighting knife, 285 grenade, 342 Kevlar, 351 machine gun, 20, 323, 324, 329, 331 in Napoleonic Wars, 177 pistol, 292 Redcoat infantry, 242-3 revolver, 223, 297 rifle, 234-5, 249, 257, 265, 300, 313, 321 shrapnel shells, 176 sniper rifle, 320 submachine gun, 333 World War I helmets, 350-1 Zulu Wars, 200 British East India Company, 129, 190, 197, 215, 269 British Royal Navy, cutlass, 182 volley gun, 265 broadsword, 104, 108 Brodie, John L, 351 Bronze Age, 26, 48-9 Brown Bess (musket), 99, 149, 153, 233, 243 Browning, John Moses, 19, 229, 290, 304, 312, 313, 315, 323, 324, 328 Browning, Automatic Rifle, 304, machine gun, 20, 229, 323 Bull Run, Battle of, 178, 220 Bulldog revolver, 299 bullet, expanding, 178, 236, 250 invention, 17 jacketed, 259 lubrication, 266 Minié, 220 mould, 226 NATO standard, 311 rubber, 352 shape, 178, 226, 338-9 bullet gun, continuous, 100 bullpup, definition, 15 rifles, 21, 311, 320, 330 shotgun, 315 bunker buster, 21 Bureau, Jean, 61 burgonet (helmet), 169 Burton, James, 236 byrnie mail, 92 Byzantium, 29 C C/93 Borchardt pistol, 19 C/96 Mauser pistol, 19, 228 Cadell, Thomas, 162 index
+
+Cadet Rifle L98, 311 Cadet sword, 183 camouflage, helmet, 351 Cannae, 29 cannon, hand-, 14 introduction of, 14, 61 Portuguese, 100 caracole, cavalry tactic, 101 carbine, bayonet, 194 blunderbuss, 247 capping breech-loader, 240-5 Chassepot, 178, 194, 241, 267 definition, 15 dog-lock, 159 flintlock, 148 Greene, 241 light dragon flintlock, 149 M1 (Garand), 21, 285, 304-5 Mau-Mau, 348 Mauser KAR98K, 301 Monkey Tail, 241, 266 pill-lock, 263 rifle, 301 Sharps, 16, 240 Terry, 241 cartridge ammunition, 16-7, 101, 235, 243, 250-1, 266-7, 307, 338-9 Castillon, Battle of, 59, 61 sword, 63 castle, Norman building, 59 catephract (Roman cavalry), 22 cavalry, armor, 22-3 Assyrian, 27 British Army, 149, 181, 182 Celtic, 49 charge, 60, 220, 230 Chinese, 188 Companions, 28 defeated, 242 Dragoon pistol, 219, 224 flintlock use, 149 halberd used against, 13 hammer, 12, 136 Lechfeld, Battle of, 58 Light Brigade, 177 Mongol, 59 Persian, 27 revolvers, 224-5 sabres, 180-1 Spanish pistol, 215 sword, 11, 104-7, 180-1 tactics, 101 Celt, weapons and armor, 48-9 Ceresole, Battle of, 99 Cerignola, Battle of, 98 CETME Ameli machine gun, chakram, 269 chapeau de fer, 23 chariot, Celtic, 48 Egyptian, 26, 34, 38-9 Greek, 42 Sumerian, 26, 32 Charlemagne, 29 Charles I, 107 Charles V, 99 Charles VIII of France, 59 Charles the Bold, 99 Charter Arms, 299 Chassepot, Alphonse, 241, 248 Chassepot, bayonet, 11 carbine, 194, 241, 267 chimalli (shield), 83 China, armor, 171 bow design, 8, 146 continuous bullet gun, 100 crossbow, 8 firearms introduced, 61 gunpowder invented, 58 mace, 60, 74 China (cont.)
+
+matchlock wall gun, 262 Opium War, 176 rifle manufacture, 301 swords, 66-7, 77, 188-9 terracotta army, 29 chivalry, code of, 90 Churchill, Winston, 228 citron foug grenade, 289 claymore, 102 cleaver, club, 9 hunting, 118 Clontarf, Viking defeat, 58 club, Aztec, 83 composite, 9 goedendag, 13 knobkerrie, 9 Melanesian, 202 North American, 204-5 Oceanian, 202 patuki, 203 throwing, 9, 210 Tongan, 202 whalebone, 9 wood, 13 coastguard, pistol, 217 Cobra revolver, 299 coif, 92 Cold War, 278 Colt, Samuel, 16, 218, 222, 226, 245, 264 Colt, pistols, 18, 290, 292 revolvers, 16, 18-19, 218-19, 224-5, 226-7, 296-7, 299 revolving rifles, 16, 245, 252-3 combination weapons, 158-9 Cominazzo, Lazarino, 152 commando, 346-7 communications, telegraph, 176 concealed weapon, 299 concentration camps, 179 Concord, Battle of, 176, 243 Congo, dagger/knife designs, 282-3 Congreve, William, 176 conquistadors, 84 coolus (helmet), 23 Cooper, Joseph Rock, 217 Cooper brass cartridge pistol, 16 Copenhagen, Battle of, 234 corned powder, 59, 61 Cortés, 98 Courtrai, Battle of, 13, 59, 60, 72 cranequin, 8, 80 Crécy, Battle of, 8, 61, 78, 91 Crimean War, 154, 177, 178, 180, 241 crossbow, 8, 78-81, 108, 144-5, armour penetration, 22 Battle of Hastings, 59 Crusades, 58-9, 62, 70 Cuba, US occupation, 177 cuirass, European, 23, 95 Greek, 40 Indian, 268 Japanese, 172-3 Custer, Gen., 241 cutlass, 182, 202 Cyprus, improvised pistol, 348, Czechoslovakia, German invasion, machine gun production, 324, 329, 337 D da Vinci, Leonardo, 160 Dacian Wars, 46 Dafte, John, 212 dag (pistol), 160-1 dagger, African, 280 Asian, 134-5 ballock, 69 bich’hwa, 100, 135, 193 Celtic, 48 combination weapon, 158 Cossack, 187 dirk, 131 dudgeon, 131 Egyptian, 36 European, 68-9, 130-3 flint, 30-1 gauche, 11 gunner’s stiletto, 133 Highland dirk, 131 Indian, 100, 192-3 Iron Age, 49 jambiya, 11 Japanese, 127 kard, 134 Kasai, 282 katar, 11, 134 kris, 11 maingauche, 130 Medieval, 11 Mesopotamian, 32 Mongolian, 77 Nepalese, 192-3 Oceanean, 203 piha kaetta, 135 quillon, 68, 69, 91, 133 rondel, 69 stiletto, 131, 133 Sumerian, 32 sword, 131 sword-breaker, 11, 132 Dahomey, axe design, 199 daisho, sword combination, 121 Damascus, sword manufacture, 11 Dame, 313 dao (sword), 9, 77, 188, 191 David, King of Scotland, 59 de Vauban, Sébastien Le Pestre, 99 Deane, John, 223 Degtyarev machine-gun, 329 Deringer, Henry, 224 Derringer, pistol, 18 Remington Double, 224 Desert Eagle pistol, 20, 295 Devolution, War of, 99 Dien Bien Phu, French defeat, Dinan, assault of, 58 dirk, 131 Dolep, Andrew, 153, 163 Dolstein, Paul, 109 Doppelhänder swords, 102 double barrel, flintlock, 264 gun, 244 Dragunov SVD sniper rifle, 319 Dreadnought battleship, 276 Dresden, destruction, 278 Dreyse needle-gun, 178, 249 drilling, American War of Independence, 177 Greek games, 42 musket, 100 Napoleonic, 178 Redcoat, 242 Roman, 46 see also training dudgeon, 131 duelling, weapons, 212 Dunkirk, 277 Dürer, Albrecht, 102 Düsack, 105 Dutch combination long gun, DWM, 19 E Echeverria, pistol manufacture, Ecuador, machete, 11 Edgehill, Battle of, 148 Edward I, 59 Egypt, armor, 34-5 arrows, 35 axe, 9, 34, 37 bow, 33, 38 chariots, 26, 38 dagger, 36 mace, 12, 137 shield, 35 spear, 35 sword, 36 Tutankhamen, 35, 36, 38-9 Elcho, Lord, 195 elephant goad, 143, 196 Enfield, revolver, 339 rifle, 237, 267, 300-1, 339 Royal Ordnance Factory, 19 England, flintlock, 161 holster pistol, 162-3 matchlock, 150-1 Normans conquer, 58, 59 English Civil War, 99, 107, 148 English longbow, 79 eoka pistol, 348, 349 estoc, 11 Ethiopia, defeats Italy, 179 shield, 271 tribal warfare, 198 European, bayonets, 194-5 dagger, 68-9, 130-3 helms and basinets, 86-7 hunting guns, 152-5 imperialism, 179 jousting armor, 88-9 mail armor, 92-3 pistols, 160-3, 212-17 plate armor, 94-5 rapier, 110-11 staff weapons, 72-3, 136-7, 140-1 sword, 48-51, 62-5, 102-7, 110-13, 180-3, 188-9 tournament armor, 166-9 execution, knife, 281 by sword, 102-3 F Fabrique National of Herstal, 19 Fairburn, William, 285 Fairburn-Sykes fighting knife, falchion (sword), 116 Falkirk, 8, 60 Fascism, 277 Ferara, Andrea, 104 Ferdinand, Archduke Franz, 276 feudal armies, 58, 60 FG42 assault rifle, 325 fighting bracelet, 281 firanghi sword, 128 firearm, mass production, 214 overview, 14-21 range improvements, 178 flail, with quoits, 143 flamberge, 109 Flanders, 101 flight, first powered, 276 flint, 10, 15, 35 flintlock, blunderbuss, 15 box-lock, 15 Brown Bess, 99, 149, 153, 233 English, 153 hunting guns, 154-5 invention, 15 flintlock, blunderbuss, (cont.)
+
+long gun, 148-9 mechanism, 15 muskets, 101, 149, 232-3 pistols, 160-3, 212-15, 246, repeating, 153, 264 shotgun, 155 Swedish, 152 Flobert, Louis, 17 flyssa (knife), 280 FN, FAL rifle, 308 Minimi machine gun, 330 P90 submachine gun, 20, 337 Folville, 216 Forsyth, Alexander, 16, 216 fortification, 100 Fosbery, Col. George, 229 France, Algerian campaigns, 176 artillery, 177 bayonet, 101, 194 Berthier rifle, 300-1 carbine, 241 cavalry, 72, 93 civil war, 99 conquers Dahomey, 199 Franco-Prussian War, 177, 178 German invasion, 277 gunnery schools, 101 hunting sword, 117 knights, 138 Landsknecht, 102, 108-9, 114 machine gun, 20, 325 musket, 233 pistol designs, 215, 216 Revolution, 176, 177, 179, 180 rifle designs, 237, 259, 300-1 shotgun, 244 submachine-gun, 336 sword, 181, 182-3 tournament helmets, 168-9 WWI infantry, 288-9 Franci SPAS shotgun, 314 francisca (axe), 9 François I, 98, 99, 108, 114, 138 Frankish, dagger, 11 rise of kingdom, 29 weapons and armor, 9, 50-1 Frederick the Great, 99 Fredericksburg, Battle of, 178 French Revolution, 176, 177, 179, 180 Friuli, siege of, 59 Fusil Reglementaire rifle, 237 G G41 Heckler & Koch rifle, 309 Gabbett-Fairfax, Hugh, 229, 291 Gafur, Haji, 187 Gaillard, chateau, 59 Galili assault rifle, 309 Gallienus, 29 gambeson, 92 Garand, John, 304, 305 Garand rifle, 21, 285, 304-5 gas, poison, 277, 286 propellant use of, 21 Gatling, Richard, 17 Gatling gun, 17, 179 Gaugamela, Battle of, 28 gauntlet, 23, 95 locking, 167 Gempei Wars, 126 Genghis Khan, 58-9, 76 Germany, armor, 22, 88, 89, 91 bandenhelm helmet, 23 Bismarck, 178-9 bolt action gun, 244 break-open double rifle, 244 broadsword, 108
+
+Germany, armor (cont.)
+
+Bronze Age sword, 48 cavalry sword, 107 combination weapons, 158-9 crossbow, 80-1 double-handed swords, 102-3 halberd, 72, 141 hunting sword, 105, 117, 118-19 Luftwaffe, 277 M43 ammunition, 307 partisan (staff weapon), 13 pistol design, 294-5 repeater rifle, 257, 301, 305 staff weapons, 140 Treaty of Versailles, 323 tournament helmets, 169 wheellock, 14, 152 World War I bayonet, 284 World War I helmets, 23, 351 World War I rifles, 286 Gettysburg, 177, 178 GEW43 rifle, 305 GEW98 rifle, 318 gladiator, armor, 45 gladius (sword), 28, 45, 181 glaive (staff weapon), 12, 13, 140 global warfare, 101 Glock pistol, 295 goedendag (club), 13 gorget, 22, 87, 94 Goryunov SGM machine gun, GP35 Browning pistol, 292 Grand Alliance, War of, 99 Grant, Ulysses S, 178 Grease Gun (submachine gun), Great Northern War, 99 greaves, European, 23, 91, 95 Greek, 41 Japanese, 172-3 Roman, 28 Greece, armor, 40-1, 42 cavalry, 27 chariot, 42 helmet, 41, 42, 43, 89 hoplite infantry, 10, 12, 42-3 kopis sword, 129, 187 Marathon, Battle of, 26, 28, 42 pikes, 99 spear, 40 Greener Police shotgun, 315 grenade, AK47, 343 anti-tank, 342 launcher, rifle-mounted, 310, 334, 342-3 stand-alone, 344-5 Mills, 342 Simonov, 342 World War I French, 289 Griffin, Benjamin, 155 Grow, Col. Malcolm C, 351 guerrilla warfare, Afghanistan, 279, 307, 347 American War of Independence, 243 Boer War, 179 combating, 347 tactics, 177 Vietnam, 278 West Africa, 179 Guiscard, Robert, 58 Gulf War, 277 gun, Gatling, 17, 179 improvised, 348-9 invention, 14 pellet-lock, 244 sport, 238-9, 244-5 sport long, 312-13 gunnery schools, 101 gunpowder, invented, 14, 17, 58, 61 smokeless, 254 gurze (mace), 75 H Hadley, flintlock shotgun, 15 Hadrian’s Wall, 46 Haida people, club, 205 halberd, 9, 13, 59, 72, 141 combination weapon, 158 training required, 59 Hall, John Hancock, 233 hammer, cavalry, 12, 136 war, 13, 73, 137 hand-cannon, 14, 150 handgun, automatic, 254 introduction, 61 hanger sword, 117 Hannibal, 28 Harlech castle, 59 Harold II, King, 59 hasta (spear), 47 Hastings, Battle of, 58-9 Hattin, Battle of, 70-1 haubergeon (mail), 92 hauberk (mail), 23, 92, 93 Heckler & Koch, machine guns, 21, 326-7, 334-5, 347 pistol, 294-5 rifle, 309, 319 helicopter, in Iraq, 279 in Vietnam, 278, 316 helm, barbute, 89 close, 94 European, 86-7, 94 frog-mouthed, 88 great, 23, 86, 88-9 jousting, 23, 88-9 sallet, 88, 89 helmet, Asian, 23 basinet, 23, 86-7, 93 burgonet, 169 Chinese zhou, 171 Coolus, 23, 45 Corinthian, 28, 42, 43 crocodile skin, 34 European tournament, 166-7, 168-9 Frankish, 51 gladiator’s, 45 horned, 48 Indian, 23, 170, 268 Iron Age, 48 Korean, 171 pewter, 45 Red Army, 303 Roman, 23, 44, 45, 46 samurai, 23, 172 segmented, 23 spangenhelm, 50, 51, 86 Viking, 23, 53 wig, 32 World War I, 350-1 Henoul, Guillaume, 161 Henri II, King of France, 169 Henry, Benjamin Tyler, 18, 253, Henry VIII, 79, 167 Henry rifle, 253 Hideyoshi, Toyotomi, 120 Hiroshima, 277, 278 Hitler, Adolf, 276-8 HK33 assault rifle, 335 Holbein, Hans, 167 Holek, Vaclav, 324 holster, pistol, 162 Hopi people, bow and arrow, 208 hoplite infantry, 10, 12, 42-3 horse, armor, 23 horse, armor (cont.)
+
+artillery, 99 bow firing from, 26, 76 crosssbow preparing, 80 Hotchkiss machine gun, 20, 324-5 Howard, Edward, 16 Huang Di, Emperor, 29 Hugo-Schmeisser, 333 Hundred Years War, 59, 60, 73 hunting, cleaver, 118 crossbow, 80-1, 144 guns, 152-5 knife, 119 spear, 117 sword, 105, 116-19 trousse, 118-19 Hussein, Saddam, 278-9 Hyksos, Egyptian warfare with, I Immortals (Persian corps), 27 Inca, Spanish defeat of, 99 incendiary launcher, matchlock, India Mutiny, 177 armor, 170, 268-9 bow and arrow, 8, 147 British East India Company, 129, 190, 197, 215, 269 British rule, 177 combination weapons, 158 dagger, 11, 134-5, 192-3 early military treatise, 26 firearms, 260-1 helmet, 23, 170, 268 mace, 75 Mughal conquest, 99 parrying weapon, 193 pichangatti, 193 staff weapons, 74-5, 142-3, 196-7 swords, 10, 11, 128-9, 186, 190-1 torador (matchlock), 157 tulwa (saber), 10, 11 Indian Mutiny, 251 Indian Plains, Battle of, 206 Indian Wars, 177, 184, 206, 241 infanteriegewehr rifle, 257 infantry, antitank projector, 340 hoplite, 10, 12, 42-3 Japanese, 126-7 Napoleonic, 182 Redcoat, 242-3 sword, 104-5, 107 infra-red, sighting, 319 Ingram MAC-10 submachine gun, 337 Inkerman, 178 Inuit, bow and arrow, 209 Investiture, Wars of, 58 Iraq, US campaign, 279, 346 Ireland, Rigby manufacturer, 313 Irian Jaya, shields, 273 iron, in Africa, 281 working methods, 10, 27 Iron Age, weapons and armor, 48-9 Isandhlwana, Battle of, 201 Islam, rise of, 29 Israel, Desert Eagle pistol, 20 Galili assault rifle, 309 machine gun, 330 pistol, 295 submachine gun, 336 walled city, 26 Issus, Battle of, 28 Italy, armor, 88, 89, 94-5 Italy, armor (cont.)
+
+Beretta pistol, 293 cavalry carbine, 257 combination weapons, 158-9 Italian Wars, 59 maingauche (dagger), 130 Monte Varino castle destroyed, pocket pistol, 214 rapier, 10, 110, 111 stiletto, 131, 133 submachine gun, 332 sword, 10, 91, 116 tournament helmets, 169 wheellock, 152 J Jäger (riflemen), 177 jambiya, 11 Japan, Arisaka rifle, 259 armor, 22, 172-3 arrow, 8 atom bomb used against, 277, bow design, 146 firearms, 262-3 helmet, 23 incendiary launcher, 263 magari yari, 13 matchlock musket, 14, 100 Meiji restoration, 177 Mongol invasion, 61 naginata (staff weapon), 13, 75 Onin Wars, 100 perfect katana, 59 pistol Type 94, 292 ritual suicide, 126 sode garami, 13 swords, 11, 66-7, 120-5 tactics, 100, 101 tanto (dagger), 11 teppo matchlock, 157 World War II, 278 javelin, Celtic, 49 Roman, 28 Jericho, 26 Jerusalem, in crusades, 58 jian (sword), 188, 189 John the Fearless, 61 John of Salisbury, 91 Joubert, Alfred, 289 jousting, 12, 13, 87, 88-9 armor, 23, 166 Juan, Don, 98 Juliard, A, 214 K kabuto (helmet), 23 Kadesh, Battle of, 27 Kalashnikov, Mikhail, 306 Kalashnikov, assault rifle, 278, 306-7, 331 KAR98K Mauser rifle, 301 kard (dagger), 134 kastane (sword), 128 katana (sword), 10-11, 59, 66-7, 121, 122-3, 127 katar (dagger), 11, 134 Katsuie, Shibata, 120 Katsuyori, Takeda, 101 Kennedy, Pres. John F, 257, 346 Kenya, improvised carbine, 348 shield, 271 Kerr, James, 222 Kevlar, 23, 351 khanda sword,190 Khwarazam, empire of, 76 kilic, 11 kilij, 11 King revolver, 299 kissaki, 11 Kitchener, Lord, 177, 179 knife, African, 11, 281, 283 American fighting, 285 Aztec, 82 ballack, 131 chalcedony, 83 finger, 281 flint, 30, 82 flyssa, 280 hunting, 119 Japanese kogatana, 125 knuckle, 11 knuckleduster, 284 Larim fighting bracelet, 281 North American, 204-5 obsidian, 82 pichangatti, 193 Sudanese, 282 throwing, 11, 283 trench, 284 World War II, 284 knight, armor, 86-7, 166-9 Crusades, 58-9, 62 jousting, 58 Knights Templar, 90 lance, 12, 61, 73, 90 overview, 90-1 swords, 62-5, 90-1 knobkerrie, 9 Knock, Henry, 265 knuckleduster, 284 knuckle knife, 11 Königgrätz, Battle of, 178, 249 kopis (sword), 129 Korea, helmet, 171 shotgun manufacture, 315 Korean War, 277, 278 Kosovo Polje, Battle of, 59 Krag rifle, 18, 300 bullet, 338 Krag-Jørgensen rifle, 257 kris, 11 Krupps, Alfred, 178 kukri (dagger), 11, 192 Kürsk, Battle of, 276 Kurtz bullet, 339 Kwabe, Gumpega, 201 L L1A1 practice grenade, 342 L85 Individual Weapon, 311 L86 Light Support Weapon, 311, L96A1 sniper rifle, 321 L98 Cadet Rifle, 311 Lachish, 27 Lamberti, 214 lance, couched adopted, 58 jousting, 12, 61, 73 Mongol, 76 landmines, 177 Landsknecht, 102, 108-9, 114 Lang, Joseph, 222 langet, 13 Larim fighting bracelet, 281 laser-guided bombs, 279 Lateran Council, 60 le Bourgeois, Marin, 15 Le Mat, Jean-Alexandre, 219 Le Mat rifle, 253 Le Page, Henri, 238 Le Page, Jean, 238 Le Page, Pierre, 238 Le Page sport gun, 238-9 Lebel rifle, 259 Lechfeld, Battle of, 58 Lee, James Paris, 19, 257 Lee, Robert E., 177, 178
+
+Lee-Enfield rifle, 18, 300-1 Lee-Metford rifle, 257 Lefaucheux, Casimir, 225, 244 Lefaucheux, Caspar, 245 Lefaucheux, Eugène, 225 Lefaucheux percussion-cap revolver, 16 Leipzig, Battle of, 177 Leopold, Emperor, 233 Lepanto, Battle of, 98 Leuthen, Battle of, 99, 101 Lewis, Col. Isaac, 329 Lewis machine-gun, 20, 329 Lexington, 176, 243 Loewe, Ludwig, 19 Lombard League, 58 long gun, Dutch combination, matchlock and flintlock, 148-9 sporting, 312-13 longbow, at Agincourt, 8, 59, 208 development of, 8, 60, 78 early use of, 59 English, 78-9 Lorenzoni, Michele, 153 Louis XIV, 99, 101 Louis XVI, 177, 233 Luger, Georg, 19, 253, 290, 334 Luger, pistol, 19, 290, 339 M1 (Garand) carbine, 21, 285, 304-5 M1 helmet, 23 M1A1 Bazooka anti-tank rifle, M2 machine-gun, 323 M3 submachine-gun, 336 M14 rifle, 308 M16 rifle, 309, 310, 347 M16A2 assault rifle, 21 with grenade launcher, 343 M18/1 Bergmann submachine- gun, 333 M19 grenade launcher, 344 M60 Browning machine-gun, M63 Stoner rifle, 309 M71 Mauser rifle, 17, 18, 249 M79 Blooper grenade launcher, M91/30 Mosin-Nagant rifle, 303 M107 sniper rifle, 321 M203 grenade launcher, 343, 347 M901 Astra pistol, 290 M1863 Springfield rifle, 17 M1871 Mauser rifle, 256 M1888 rifle designs, 257 M1889 Schmidt-Rubin rifle, 256 M1891 Mosin-Nagant rifle, 258, M1895 Colt, 322 M1895 Mannlicher rifle, 258 M1896 Mauser rifle, 259 M1902 Colt pistol, 290 M1903 Springfield rifle, 18, 300 M1905 Steyr-Mannlicher pistol, M1911 Colt, 19, 290, 323, 339 M1911 Steyr ‘Hahn’, 291 M1914 Hotchkiss machine-gun, M1917 Browning designs, 323, M1917 Enfield rifle, 300 M1921 machine-gun, 323, 332 M1935 Radom pistol, 293 M1944 Carbine, 301 MAC-10 submachine-gun, 337 mace, Asian, 74-5 Chinese, 60, 74 European, 136-7 flanged, 12 foliate, 137 Indian, 142 Mongol, 76 Ottoman gurz, 75 spiked, 73, 142, 197 stone, 26 Turkish, 13 wheellock, 158 machete, 11 machine-gun, AK47, 306-7, 331, AK74, 331 ammunition, 338 Bergmann, 21 in Boer War, 254 definition, 17, 19 first use of, 177 gas-operated, 324-5 Gatling, 17, 179 heavy, 19 Hotchkiss, 20, 289, 324-5 light, 308, 328-31 Maxim, 19, 20, 177, 228, 322, 323, 324, 328 MG43, 326-7 recoil-operated, 322-3 Russo-Japanese War, 276 Vickers, 20 World War I, 20, 276-7, 286, 289, 328 World War II, 20, 21, 330, 336, MacLean, Samuel, 329 madu (parrying stick), 193 magari yari (trident), 13 magazine, design, 18 Magnum, 298, 339 Maiano, Giovanni, 167 mail, aventail, 23, 87, 93, 268 failings of, 11, 170 Indian, 170, 268 Roman, 22 shirt, 23, 52, 91, 92, 93 maingauche (dagger), 130 Makarov pistol, 293 Maldon, Battle of, 51 Malibar Coast sword, 129 Mannlicher rifle, 258 Mannlicher-Berthier rifle, 289 Mannlicher-Carcano rifle, 257 Maori War, 203 maquahuitl (club), 83 Marathon, Battle of, 26, 28, 42 Marengo, Battle of, 177 Marignano, Battle of, 114-5 Marlborough, Duke of, 99, 101 Marne, Battle of, 276, 288 Mars pistol, 229, 291, 339 Martini-Henry rifle, 17, 194, 249, 265 Maschinen Pistole 43, 305 MAT 49 submachine-gun, 336 matchlock, arquebus, 61 British, 14, 149 Chinese, 262 English, 148 incendiary launcher, 263 Indian, 260-1 Japanese, 14 long gun, 148-9 mechanism, 14-15 pistol, 108, 150-1, 156-7, 160, revolving musket, 261 teppo, 263 wall gun, 262 Mau-Mau carbine, 348 Maurice of Nassau, 99 Mauser, Peter-Paul, 256 Mauser, bolt-action rifle, 245 breech-action rifle, 248-9 Broomhandle, 228 infanteriegewehr (Gewehr) 98 rifle, 259, 278 KAR98K carbine, 301 M71  rifle, 17 pistols, 290 repeater rifle, 18, 256, 258-9 sniper rifle, 318 UK agent, 313 Maxim, Hiram, 20, 177 Maxim, machine-gun, 19, 20, 177, 228, 322, 323, 324, 328 Maximilian I, Emperor, 108 Mechem/Milkor grenade launcher, 345 meda (matchlock rifle), 263 MEIJI 30 Arisaka rifle, 259 Melanesia, shields, 272 Melsa, Sir John, 87 mempo (mask), 23 mercenary fighters, hoplites, 42-3 Landsknecht, 102, 108-9, 114 Mescalam-Dug, helmet, 32 Mesopotamia, 26-7, 32-3 Metford, William, 257 MG08 machine-gun, 20, 328 MG42 machine-gun, 323 MG43 machine-gun, 326-7 MGL Mk1 grenade launcher, 345 Middle East, modern warfare, 278-9 Midway, Battle of, 278 Miller, Gen. William, 185 millile, cruise, 277 Mills, William, 342 Mills bomb, 342 Minié, Claude-Étienne, 178 Minié (bullet), 178, 220 Minimi, FN machine-gun, 330 Squad Automatic Weapon, 326 Minoa, swords, 10 miquelet lock, invention, 15 musket, 155, 247 pistol, 162, 163, 215 missile, cruise, 279 Mississippi rifle, 236 Miyamoto, Musashi, 127 MLE, 1842 Mousqueton D’Artillerie rifle, 237 1853 Fusil Reglementaire rifle, 1886/93 Lebel rifle, 259 1916 Berthier, 301 MOD.90 Barrett sniper rifle, 321 Modin-Nagant rifle, 258 Mondragon, Manuel, 304 Mongol, armour, 22 bow, 8 dagger, 77 helmet, 23 tactics and warfare, 59, 60-1 warriors, 76-7 Monkey Tail (carbine), 241, 266 Monte Varino, castle of, 14 Montgomery, Gabriel, 169 Morgarten, Battle of, 72 morning star, 141, 142 mortar, 302 Moscow, 278 Mosin-Nagant rifle, 258, 301, 303 Mosin-Nogant sniper rifle, 319 Mototada, Torii, 127 Mousqueton D’Artillerie rifle, MP5 submachine-guns, 21, 334- 5, 347 MP18/1 Bergmann machine- gun, 21 MP40 submachine-gun, 332 Mughal, armour, 22 mujahidin, 279, 307, 347 multi-shot weapons, 264-5 Murten, Battle of, 108 musket, Brown Bess, 149, 153, 233, 243 drill, 100 English flintlock, 148 English matchlock, 14, 153 flintlock, 15, 101, 148, 149, 232-3 German, 14 introduction of, 14, 98 Japanese, 14, 100, 157 long land-pattern flintlock, matchlock, 14-15, 108, 150-1, 153, 156-7 miquelet lock, 155 muzzle-loaded rifle-, 220 Ottoman tüfenk, 247 percussion-cap, 236-7 revolving, 261 rifling barrels, 99 short land-pattern flintlock, tactical use, 99 teppo matchlock (Japanese), 157 Mycena, swords, 10 n O Nadir Shah, 99 Naga people, club, 9 Nagasaki, 277, 278 Nagashino, Battle of, 100, 101, naginata (staff weapon), 13, 75 Nambu Taisho pistol, 219 Namibia, invaded, 178 Nancy, Battle of, 61, 108 Napoleon III (Bonaparte), 101, 177, 178, 238 Napoleonic Wars, 107, 180, 181, 182-3, 194, 230, 242 Narmer, Palette of, 12 NATO alliance, 278, 308 Navy SEAL, 347 needle-gun, Dreyse, 178, 249 Negev machine-gun, 330 Nepal, daggers, 192-3 Netherlands, civil war, 99 pocket pistol, 215 New Britain, shields, 273 New Zealand, Maori, 203 Nicopolis, Battle of, 59 Nine Years’ War, 101 Nitro Express bullet, 338 Nobunaga, Oda, 100, 101, 127 Norman Conquest, 58, 92 Normandy landings, 278 North America, bayonets, 194-5 Harper’s Ferry pistol, 214 Indian Wars, 177, 206, 241 knives and clubs, 204-5 Massachusetts Indians, 99 revolvers, 218-19 War of Independence, 107, 176-7, 233, 243 see also USA North Vietnam, helmet, 351 Northern Ireland, submachine- gun, 349 Norway, repeater rifle, 257 Novara, Battle of, 98 obsidian, edged weapons, 10, 82, 203 Oceania, clubs and daggers, 202-3 shields, 272-3 Okinawa, 278 Omdurman, Battle of, 177, 179 Onin Wars, 100 Opium War, 176 Oswald, Lee Harvey, 257 Otto I, 58 Ottoman Empire, firearms, 246-7 swords, 186-7 tactics, 61, 99-100 P P’08 Luger pistol, 19, 290-1 P90 submachine-gun, 337 Palestine, Knights Templar, 90 Panipat, Battle of, 98 Papua New Guinea, shields, 272-3 parang, 11 parrying weapons, 193 partisan (staff weapon), 13 Passchendaele, 277 patuki (club), 203 pauldrons, 95 Pavia, Battle of, 98, 108, 138-9 Peacemaker, 18 Pearl Harbor, 278 pellet-lock gun, 244 Peloponnesian Wars, 42 Pembridge, Sir Richard, 86 Penobscot people, stone club, 205 pepperbox pistol, 16, 217 percussion-cap, mechanism, 16 pistol, 216-17 revolver, 218-19, 222-3 percussion lock, pistol, 162 Permjakov, Ivan, 154 Persia, Alexander defeats, 28 cavalry, 27 empire, 27-8 mace, 75 swords, 128, 186 Peru, civil war, 99 phalanx, 12, 28, 42-3 Philip II of Spain, 99 Philippines, Japanese invasion, US occupation, 177 Phillipsburg, Siege of, 99, 101 pichangatti (knife), 193 pick, fighting, 199 Pickett’s Charge, 178 Pietro Beretta SpA, 293 piha kaetta (dagger), 135 pike, demise of, 101 Japanese, 101 Landsknecht, 108, 109 overview, 12, 13 at Pavia, 98, 138 sarissa, 12, 28 spontoon, 13 Swiss, 13, 114 tactical use of, 98-9 pill-lock carbine, 263 pilum (spear), 8, 28, 47 pin-fire shotgun, 244, 245 pistol, ammunition, 16, 224-5, Astra, 290 Beretta, 293, 294 Bergmann, 229, 267 Borchardt, 19, 290 brass cartridge, 224-5 breech-loading, 163, 217 Browning, 229, 292 cavalry, 215, 219 coastguard, 217 Colt, 18, 290, 292 Cooper brass cartridge, 16 Desert Eagle, 20, 295 Dragoon, 219 duelling/target, 15, 17, 212, 216
+
+pistol, (cont.)
+
+European, 17, 160-3, 212-17 flintlock, 15, 212-15, 246, 261 four-barrel tap-action, 213 Gabbett-Fairfax Mars, 229, 291 Glock, 295 Harper’s Ferry, 214 Heckler & Koch, 294, 295 horse, 247 improvised, 348-9 Luger, 19, 290-1 Makarov, 293 matchlock, 108, 150-1, 156-7, 160, 260 Mauser designs, 290 Nambu Taisho, 219 Peacemaker, 18 pepperbox, 16, 217 percussion-cap, 17, 216-17 plastic manufacture, 294 pocket, 213, 214-15, 224 Queen Anne, 213 Radom, 293 self-loading, 228-9, 290-5 shield, 269 Star, 292 Stechkin, 293 Steyr “Hahn,” 291 Steyr-Mannlicher, 291 under-hammer pistol, 217 Walther PP, 293 Webley, 267, 291 Webley-Fosbery, 229 see also revolver Plains Indian, weapons, 208-9 Plamya grenade launcher, 344 plastic, in gun manufacture, 294, Plataea, hoplites at, 42 Poitiers, Battle of, 60, 78 Poland, German invasion, 277 Radom pistol, 293 poleaxe, 13, 72, 140 police, revolvers, 296, 298-9 Polynesia, cleaver, 9 Port Arthur, 276 Portugal, introduces firearms to Japan, 262 matchlock, 156 powder, and ball weapons, 14 flask, 227 horn, 239 PPSH41 submachine gun, 333 prehistory, timeline, 26-7 weapons, 30-1 primer, 19 Prince, Frederick, 245 projector, antitank, 340 Prussia, armed forces, 148, 178 bayonet charge, 194 Jäger (riflemen), 177 Potsdam musket, 233 Pryse, Charles, 225 PSG-1 Heckler & Koch sniper rifle, 319 PTRD antitank rifle, 341 Pu-Abi, Queen (Sumerian), 32 Python revolver, 299 PzB41 antitank rifle, 341 Q R quarrel (crossbow bolt), 78 quarterstaff, 13 quillon, 11, 68, 69, 133 quiver, Indian Maratha, 147 Plains Indian, 208 radar, 276 Rameses II, Pharaoh, 27 rapier, 10-11, 112 footsoldier use, 105 Ravenna, Battle of, 98 recoil, 20, 21 Red Army, 302-3, 306 Redcoat (British Army), 242-3 Reformation, 99 religion, Islam, 27, 29 wars, 58-60, 70, 99 Remington, automatic shotgun, Double Derringer pistol, 224 Magnum bullet, 338, 339 pistol, 18 rolling block rifle, 249 Reno, Maj. Marcus, 206 repeating rifles, 252-3, 256-9, 300-1, 304-5, 308-9 Revolutionary War, see American War of Independence revolutions, 176-9 revolver, Allen & Wheelock, 267 alternative to, 213 Bodeo, 267 brass cartridge, 224-5 break-open, 219 breech-loading, 176 Colt models, 18, 176, 218-19, 224-5, 226-7, 295-6, 299 double-action, 222 Enfield, 297, 339 flintlock, 212 grenade launcher, 345 invention, 18 Lefaucheux, 16 Magnum, 298-9 musket, 261 pepperbox, 16, 217 percussion-cap, 218-19, 222-3 pocket, 298 post-1900, 296-9 revolving rifle, 16, 245, 252-3 Smith & Wesson, 296-8 Webley & Scott, 296 Richard I, King, 58 ricochet, used in combat, 99 rifle, 3-Line, 258 anti-tank, 340-1 Arisaka, 259 assault, 21, 309, 310-11 automatic, 21, 347 Baker, 234-5, 243 Berthier, 300-1 bluing, 237 bolt-action, 17, 19, 245 break-open, 244 breech-loader, 178, 194, 248-9 Browning Automatic, 304 carbine M1944, 301 cartridges, 267 Colt Patterson revolving, 245 Dreyse needle, 178, 249 Enfield, 178, 237, 250-1, 267, 300-1 flintlock, 152-3, 232-3, 264-5 folding butt, 305, 308 Galili, 309 GEW43, 305 Hall, 233 Heckler & Koch G41, 309 Henry, 253 improved range of, 178 infanteriegewehr, 257 Kalashnikov, 278, 306-7, 331 Krag, 18, 300 Krag-Jørgensen, 257 Le Mat, 253 Lebel, 259 Lee-Enfield, 18, 221, 267, 284, 300-1 Lee-Metford, 257, 267 long guns, 312-13 magazine, 300, 304, 308-9 rifle (cont.)
+
+Mannlicher, 258 Mannlicher-Berthier, 289 Mannlicher-Carcano, 257 Martini-Henry, 17, 195, 249, 265, 267 Mauser designs, 17, 98, 245, 248-9, 256, 258-9, 278, 285, Mosin-Nagant, 258, 301, 303 Mousqueton D’Artillerie, 237 multi-shot, 264-5 percussion-cap, 17, 221, 236-7 pits, 178 Remington rolling block, 249 repeater, manual-loading, 18, 252-3, 256-9, 289, 300-1 self-loading, 304-5, 308-9 revolving, 19, 245, 252-3 rifling, 21 Rigby Mauser, 313 rook and rabbit, 245 Schmidt, 19 Schmidt-Rubin, 256 sight, 303, 310, 318, 320, 326 sniper, 21, 302-3, 304, 318-21 Spencer, 253, 267 sport guns, 238-9, 244-5, 312-13 Springfield designs, 17, 178, 236-7, 249, 267, 300 Sturmgewehr STG44, 305 Tokarev, 304 under-hammer turret, 267 Westley Richards, 312 Winchester, 178, 253, 267, 312 World War I German, 286 see also ammunition and bayonet and carbine and musket rifle-musket, 220 Rigby, John, 313 Rigby Mauser rifle, 313 Rivera, Diego, 84 Riviere, Isaac, 216 rocket, invented, 176 V-2, 278 Rocroi, Battle of, 99 Roman, armor, 22, 23, 44-5, 46, 181 auxiliaries, 46 edged weapons, 11, 27, 44-5, empire, 27, 28-9 gladius, 10, 28, 45, 46-7, 181 helmet, 23 legionaries, 46-7 pikes, 99 pilum, 8, 28, 47 punishments, 46 Rome sacked, 48, 109 scutum, 28, 44, 46 spatha, 11, 27 rondel (dagger), 11, 69 rook and rabbit rifle, 245 rotary-breech action, 313 Royal Ordnance Factory, 19 RP46 Degtyarev machine gun, 329 RPG-7V grenade launcher, 345 RPK74 machine gun, 331 Rudolf IV, Hapsburg Duke of Austria, 93 Russia, AK47 Kalashnikov, 306- 7, 331 bardiche, 141 cavalry saber, 180 Crimean War, 154, 177, 178, 180, 241 flintlock, 154 Infantry Code, 101 Japanese attack, 276 Russia (cont.)
+
+Maxim guns, 20 Napoleonic front, 177 Pioneer sword, 181 repeater rifle, 258 revolvers used, 225 Russo-Japanese War, 276 s S18-100 antitank rifle, 341 S-686 Beretta shotgun, 313 SA80 rifle, 310-11, 331 sabre, 10, 11, 128, 182, 184-5, 191 Russian cavalry, 180, 186 Turkish, 187 Turko-Mongolian, 186 sacrifice, Aztec, 82, 83 Sadakatsu, Gassan, 123 saif (North African sword), 187 saintie (spear), 75 Saladin, 59, 70 sallet, 23, 88, 89 Samori Touré, 179 samurai, armor, 22, 127, 172-3 helmet, 23 sword, 66-7, 120-5, 127 tanto (dagger), 11 warriors, 126-17 San Romano, Battle of, 61 Sargon of Agade, 26 sarissa, 12, 28 Saxon, dagger, 11 long-handled ax, 73 spear, 8 Scandinavia, ax, 9 German invasion, 277 staff weapons, 72, 73 Schmidt, Col. Rudolf, 19, 256 Schmidt-Rubin rifle, 256 Schnellfeuer pistol, 290 Schwarzlose machine gun, 20 scimitar, 128, 198 Scotland, broadsword, 106 cavalry charge, 230 claymore, 102 Falkirk defeat, 8 flintlock, 155 Highland dirk, 131 pistol, 162 snaphuance, 153 Wark castle captured, 59 scramasax (dagger), 11, 50 scutum (shield), 28, 44, 46 scythe, 12 seax, 50 Sedan, Battle of, 178 serpentine, 14 Sevastopol, 177, 178 Seven Pines, Battle of, 177 Seven Years War, 99, 101, 149 SG43 machine gun, 324 SGM Goryunov machine gun, Shaka (Zulu chief), 200 shamshir sword, 128 shaped charge, 340 Sharps, Christian, 217, 240 Sharps percussion-cap carbine, 16 Shaw, Joshua, 16, 245 shell, shrapnel, 176 shield, African, 270-1 Argive, 27-8 Australian, 211 Aztec, 83 Celtic, 49 Egyptian ceremonial, 35 Indian dahl, 171, 269 Oceanic, 272-3 pistol, 269 scutum, 28, 44, 46 shield (cont.)
+
+Viking, 52 Zulu war, 270 Shigeyasu, Kunitomo Tobei, 157 Shivaji, 100 shortbow, Battle of Hastings, 59 shotgun, automatic, 313 Beretta, 313 cartridge, 267 flintlock, 15, 155 Franci SPAS, 314 Greener Police, 315 Hadley flintlock, 15 over-and-under, 313 pin-fire, 244, 245 pump-action, 19 rotary-breech, 313 self-loading, 19 USAS-12, 315 Winchester models, 315 shotpistol, improvised, 349 Shrapnel, Henry, 176 Sicilian Vespers, War of the, 59 siege, artillery, 100 Assyrian, 27 Sevastopol, 177, 178 warfare, 98-9 sight, optical, 345 telescopic, 303, 310, 318, 320, Sikh Akali sect, 269 silencer, 21 Simonov, assault rifle, 343 SKS with grenade launcher, Skoda machine gun, 20 Skorpion submachine gun, 337 slavery, 221 smallsword, 10, 11, 112 Smith, Charles, 245 Smith, Horace, 18 Smith, Samuel, 245 Smith & Wesson, 18-19, 224, 225, 267, 296-8 SMLE rifle with grenade launcher, 342 snaphaunce, 15, 153, 160, 162, Snider, Jacob, 250 sniper, American War of Independence, 243 rifles, 21, 302-3, 304, 318-21 sode garami, 13 Solomon Islands, shield, 272 Solothurn antitank rifle, 341 Somme, Battle of the, 277 sosun pattah sword, 191 Soult, Marshal, 242 South Africa, club, 9 grenade launcher, 345 improvised pistol, 348 shotgun manufacture, 315 South Korea, shotgun manufacture, 315 US action in, 277, 278 Spain, Astra pistol, 290 cavalry pistol, 215 conquistadors, 84, 99 Granada falls, 59 machine gun, 331 miquelet lock, 15 pistol, 163, 292 Spanish-American War, 177, tercio, 13, 99 War of Succession, 101 spangenhelm (helmet), 23, 50, 51, 86 Spanish-American War, 177, 178 Spanish War of Succession, 101 Sparta, 42
+
+spatha (Roman sword), 11, 27 spear, African, 199 angon, 50 Aztec, 83 boar, 13, 117 Celtic, 49 design, 45 Egyptian, 34-5 Greek, 40, 42-3 North American, 204 obsidian, 203 prehistoric, 31 Roman, 8, 28, 45, 47, 50 saintie, 75 samurai, 127 Saxon, 8 stabbing, 200 Viking, 55 Zulu, 200, 201 Special Boat Unit, 346 Spencer, Christopher, 18, 253 Spion Kop, 179 Spitfire, 277 spontoon, 13 sport guns, 238-9, 244-5, 312-13 Springfield, rifles, 17, 236-7, 249, 267, 300, 339 Spurs, Battle of the, 98 Sri Lanka, dagger, 135 matchlock, 156 staff weapons, 142-3 swords, 128-9 staff weapons, Asian, 74-5 European, 72-3, 136-7, 140-1 glossary, 13 Indian, 142-3, 196-7 overview, 12-13 Sri Lankan, 142-3 Stalin, Joseph, 302 Stalingrad, Battle for, 278, 302-3 Starr, Nathan, 219 Stechkin pistol, 293 steel, manufacture, 27, 177 Sten submachine gun, 333, 349 Steyr “Hahn” pistol, 291 Steyr-Mannlicher pistol, 291, 339 STG44 rifle, 305, 308 stiletto, 11, 131, 133 stone, club, 205 Stoner, Eugene, 309 Stuart, Jeb, 220 Studenmayer, 194 Sturmgewehr STG44 rifle, 305 submachine gun, 21, 308, 332-7, 347, 349 improvised, 349 submarine, German U-boat, 277 Turtle, 176 Sudan, fighting bracelet, 281 knife, 282 Mahdists defeated, 177, 179 shield, 270, 271 Suez crisis, 277 Sumeria, organized warfare, 32 Sumpter, Fort, 177 SVT40 Tokarev rifle, 304 Sweden, cavalry sword, 105 Switzerland, antitank rifle, 341 halberd, 72, 141 pike, 13, 114 sword, African, 282-3 aikuchi, 66 American Civil War, 184-5 Baker rifle sword bayonet, 235 baselard, 64 bayonet, 194-5, 242, 243 boar, 117 broadsword, 104, 106, 108 Bronze Age, 48 cadet, 183 sword (cont.)
+
+cased, 113 Castillon, 63 cavalry, 104-7, 180, 181, 182, 184-5, 189 Chinese, 67, 77, 188-9 colichemarde forte, 113 crusader, 62 cutlass, 182 dao, 9, 77, 188, 191 decorated, 112-13 doppelhänder, 102 double-edged, 54, 65 dress, 112-13 Düsack, 105 eben, 282, 283 Egyptian, 36 estoc, 11 European, 48-51, 62-5, 102-5, 112-13, 180-3 execution, 102-3, 191 falchion, 116 firanghi, 128 flame-edged, 102, 109 French, 181, 182-3 gladius, 28, 45, 181 glossary, 11 hand-and-a-half, 64, 91 hanger, 106, 116, 117 hunting, 105, 116-19 Indian, 128-9, 190-1 infantry, 104-7, 184-5 Italian, 10, 91, 116 Japanese, 66-7, 120-5 jian, 189 kastane, 128 katana, 10, 11, 59, 66-7, 121, 122-3, 126, 127 khanda,190 khepesh, 35 knuckle guards, 112-13 medieval, 63 mortuary, 107 North African saif, 187 Ottoman designs, 186-7 parade, 102 pioneer, 183 rapier, 10, 107, 110-11 replaced, 11, 213 riding, 63 saber, 10, 11, 128, 180, 182, 184-5, 186, 187, 191 Saxon, 50-1 schiavona, 106 scimitar, 128, 198 short, 10, 36, 65 smallsword, 10, 11, 112 sosun pattah, 191 spatha, 11, 27 Sri Lankan, 128-9 sword-breaker dagger, 11, 132 sword-broadsword, 104 tachi, 67 talwar, 128, 191 Tibetan, 188-9 transitional, 65 two-handed, 102-3, 109 vechevoral, 190 Viking, 54-5 wakizashi, 67, 121, 122-3, 124-5, 127 war, 63 Sword-hunt Edict, 100 T tabar (axe), 142, 197 tachi (sword), 67 talwar (saber), 10, 11, 128, 191 tank, antitank weapons, 21, 340-1 tank (cont.)
+
+battle, 276 crew helmet, 350 revolver, 297 rifles, 305 World War I, 277, 286 Tannenberg, Battle of, 59 tanto (dagger), 11 Tanzania, invaded, 178 telegraph, 176 Templar knights, 90 Tenochtitlán, 98 teppo (matchlock rifle), 263 tercio formation, 13, 99 terrorism, 277, 347 Thebes, 42 Thirty Years War, 99, 100-1, 164 Thompson, Gen. John Tagliaferro, Thompson people, bow and arrow, 208 Thuer, Alexander, 267 Tiberius, Emperor, 45 Tibet, matchlock musket, 262 swords, 188-9 Tiglath-Pileser III, 27 Til-Tuba, Battle of, 33 timeline, 3000bce–1000ce, 26-7 1000–1500, 58-9 1500–1775, 98-9 1775–1899, 176-7 1901–2000, 276-7 Togo, invaded, 178 Tokarev, Fedor, 304 Tokarev weapons, 292, 304 tomahawk, 9, 205 Tommy Gun, 332 tongi ax, 196 top (helmet), 23 trace italienne, fortification, 100 Trafalgar, Battle of, 177 training, gunnery schools, 101 knightly, 90 see also drilling Trajan’s Column, 46 Treaty of Versailles, 323 trench warfare, 178, 276 trident, 12, 13 trigger, development, 14, 21 trousse, hunting, 118-19 Truce of God, 58 tüfenk (musket), 247 turban, Indian, 269 Turkey, armor, 22 fortified village, 26 helmet, 23 mace, 13, 75 swords, 10, 129 yataghan (sword), 10 Turtle (submarine), 176 Tutankhamen, 35, 36, 38-9 u v w U-boat, 277 Uganda, finger knife, 281 Uji, Battle of, 126 UK, antitank rifle, 340 Ulm, Napoleonic campaign, 177 under-hammer, pistol, 217 turret rifle, 267 United Kingdom, coastguard pistol, 217 dueling/target pistol, 216 Lee-Enfield rifle, 18, 221, 267, 284, 300-1 musket design, 233 percussion cap revolver, 222-3 pocket pistol, 215 rook and rabbit rifle, 245 Whitworth rifle, 237 Ur, 26, 32 urban warfare, 278 USA, American Civil War, 177, 178, 220-1 antitank rifle, 341 bayonet, 285 fighting knife, 285 grenade, 343 grenade launcher, 344 helmet, 23 Indian Wars, 177, 206 invades Afghanistan, 347 Korean action, 278 musket design, 233 Navy SEAL, 346-7 Prohibition era, 333 revolvers, 296-9 rifles, 236-7, 300, 304-5, 308- 9, 312 submachine guns, 332-3, 337, terrorist attack, 277 Vietnam War, 277, 278, 316, 345, 347 World War I helmets, 351 World War II, 278 see also North America USAS-12 shotgun, 315 USSR, invades Afghanistan, 279 antitank rifle, 341 collapse, 277 Communism, 277 German invasion, 278 grenade, 343 grenade launcher, 344-5, 347 machine gun, 20, 331 Makarov pistol, 293 sniper rifles, 319 Stechkin pistol, 293 submachine gun, 333 Tokarev weapons, 292, 304 Uzi submachine gun, 336 V-2 rocket, 278 vamplate, 167 vechevoral sword, 190 Verdun, Battle of, 276, 288 vervelle, 86 Vickers machine-gun, 20, 323 Vienna, Congress of, 178 siege of, 100 Vietnam War, 277, 278 grenade launcher, 345 helicopter use, 316 Navy SEAL, 347 Viking, armor, 22, 52-3 ax, 9, 52-3, 73 defeated at Clontarf, 58 helmet, 23, 53 rise of, 29 spear, 55 swords, 54-5 Villar Perosa submachine gun, 332 volley gun, flintlock, 265 von Augezd, Baron Odkolek, 324 Von Dreyse, 248, 256 von Mannlicher, Ferdinand, 19, 258, 291 von Moltke, 178 von Steuben, Augustus, 177 von Wallenstein, Albrecht, 101 VP70M Heckler & Koch pistol, VZ/68 Skorpion submachine gun, 337 WA2000 Walther sniper gun, 320 Wadgaon, Battle of, 197 Waffenfabrik Loewe, 228 Waffenfabrik Mauser, 19 wakizashi (sword), 67, 121, 122-3, 124-15, 127 Wales, longbow, 8, 78, 91 wall gun, 262 Walther, pistol, 293 sniper gun, 21, 320 war hammer, 73 wheellock, 158 warfare, beginning of organized, 32 siege techniques, 32 Wark castle, 59 Warsaw Pact, 278 Washington, George, 177 Waterloo, Battle of, 177, 242 Waters, John, 212 Weatherby Magnum bullet, 339 Webley, pistol, 229, 267, 291 Webley & Scott revolver, 296 Wellington, Duke of, 242, 294 Werndl, 291 Wesson, Daniel, 17, 18 Westley Richards, guns, 241, 266, 312 Westphalia, Peace of, 99, 101 wheellock, dag, 160 design, 14-15, 148 muskets, 14, 152-3 pistol, 14-15, 150, 158-9, 160 White, Rollin, 224 White Mountain, Battle of, 164 Whiting, JH, 291 Whitney, Eli, 226 Whitworth, Sir Joseph, 237 William, King Frederick I, 148, William, Norman duke, 59 William Louis of Nassau, 99 Wilson, James, 265 Winchester, Oliver, 253 Winchester, bullet, 338, 339 rifles, 18, 178, 253, 267, 312 shotguns, 315 windage, 21 World War I, bayonet, 284 causes, 179 cost of, 288 French infantry, 288-9 gas, 286 German weapons, 286-7 grenades, 289 helmets, 23, 350-1 machine guns, 20, 276-7, 286, 289, 328 pistols, 292, 296 rifles, 289, 300-1 shotgun, 314, 315 snipers, 318 tanks, 286 timeline, 276 Treaty of Versailles, 323 World War II, bayonet, 285 causes, 247 machine guns, 20, 21, 330, 336, pistols, 293 Red Army, 302-3 rifles, 308 snipers, 302, 318 timeline, 276-8 Wounded Knee, Battle of, 177 x y z yataghan (sword), 10 Yorimasa, Minamoto, 126 Yorktown, surrender of, 176, 243 Yoshihira, Minamoto, 126 Ypres, 277 Zaitsev, Vasili, 303 ZB 53 machine gun, 324 Zeppelin airships, 277 Zulu, knobkerrie, 9 war shield, 200, 270 warrior, 200-1
+
+acknowledgements The publisher would like to thank the following for their kind permission to reproduce their photographs.
+
+ABBREVIATIONS KEY: Key: a = above, b = below, c = center, l=‑left, r=‑right, t=‑top, f=‑far, s =‑sidebar
+
+1 DK Images: By kind permission of the Trustees of the Wallace Collection (c). 2-3 Alamy Images: Danita Delimont . 8 DK Images: The Museum of London (tr); By kind permission of the Trustees of the Wallace Collection (tl). 10 DK Images: Museum of the Order of St John, London (b). 11 DK Images: Pitt Rivers Museum, University of Oxford (tr); By kind permission of the Trustees of the Wallace Collection (tc). 12 DK Images: By kind permission of the Trustees of the Wallace Collection (b). 13 DK Images: By kind permission of the Trustees of the Wallace Collection (cl) (b). 14 DK Images: By kind permission of the Trustees of the Wallace Collection (br). 16 DK Images: Courtesy of the Gettysburg National Military Park, PA (cla).
+
+22 Ancient Art & Architecture Collection: (r). DK Images: Courtesy of David Edge (b). 23 DK Images: Universitets Oldsaksamling, Oslo (tl).
+
+24-25 The Art Archive: Museo della Civiltà Romana, Rome / Dagli Orti .
+
+26 Corbis: Pierre Colombel. 27 akg- images: Erich Lessing. 28 akg-images: Rabatti - Domingie (c). DK Images: British Museum (b). 29 Corbis: Keren Su (r). 32 akg-images: Iraq Museum (r). Ancient Art & Architecture Collection: (l). 33 The Art Archive: British Museum / Dagli Orti (bl). DK Images: British Museum (tl). 34 The Trustees of the British Museum: (l).
+
+DK Images: British Museum (cr).
+
+35 Corbis: Sandro Vannini (r) (cb).
+
+DK Images: British Museum (tl) (cl)
+
+(b). 36 DK Images: British Museum (tl) (b). 36-37 DK Images: British Museum (ca). 37 DK Images: British Museum (tr). 38-39 The Art Archive: Egyptian Museum Cairo / Dagli Orti.
+
+40 DK Images: British Museum (cr)
+
+Shefton Museum of Antiquities, University of Newcastle: (cl). 41 DK Images: British Museum (cr) (br) (bl).
+
+42 akg-images: Nimatalla (bl). DK Images: British Museum (tl) (c) (cra)
+
+(crb). 42-43 Bridgeman Art Library: Louvre, Paris / Peter Willi (c). 43 The Art Archive: Archaeological Museum, Naples / Dagli Orti . Shefton Museum of Antiquities, University of Newcastle: (cla). 44 DK Images: British Museum (bc); Courtesy of the Ermine Street Guard (cla); Judith Miller / Cooper Owen (cr); University Museum of Newcastle (bl). 45 akg-images: Electa (br). DK Images: British Museum (c); Courtesy of the Ermine Street Guard (fclb/ lancea and pilum ); Courtesy of the Ermine Street Guard (tr); University Museum of Newcastle (cr). 46 The Art Archive: National Museum Bucharest / Dagli Orti (A) (tr).
+
+Corbis: Patrick Ward (cb). DK Images: Courtesy of the Ermine Street Guard (cr); Judith Miller / Cooper Owen (tl); University Museum of Newcastle (crb). 47 Archivi Alinari: Museo della Civiltà Romana, Rome (b). DK Images: British Museum (tl); Courtesy of the Ermine Street Guard (tr/short sword and scabbard) (cla). 48 DK Images: British Museum (cr); The Museum of London (cl). 49 DK Images: British Museum (tl) (r) (crb)
+
+(t); The Museum of London (cl); The Museum of London (clb) (tc). 50 DK Images: The Museum of London (clb/short and long spears);  The Museum of London (b). 51 Ancient Art & Architecture Collection: (br).
+
+52 DK Images: Danish National Museum (crb/engraved iron axehead).
+
+53 Ancient Art & Architecture Collection: (tl). DK Images: The Museum of London (bl); Universitets Oldsaksamling, Oslo (tr). 54 DK Images: Danish National Museum (c/double-edged swords). 54-55 DK Images: The Museum of London (ca).
+
+56-57 The Art Archive: British Library . 58 Bridgeman Art Library: Musée de la Tapisserie, Bayeux, France, with special authorisation of the city of Bayeux. 59 Bridgeman Art Library: Bibliothèque Nationale, Paris.
+
+60 The Art Archive: British Library (tl). Bridgeman Art Library: Courtesy of the Warden and Scholars of New College, Oxford (c). 61 Bridgeman Art Library: National Gallery, London. 63 DK Images: By kind permission of the Trustees of the Wallace Collection (t). 64-65 DK Images: By kind permission of the Trustees of the Wallace Collection (b).
+
+65 DK Images: By kind permission of the Trustees of the Wallace Collection (double-edged sword). 72 DK Images: By kind permission of the Trustees of the Wallace Collection (tl/poleaxe)
+
+(clb/German halberd). 73 DK Images: British Museum (bl) (bc) (tr); Museum of London (br); By kind permission of the Trustees of the Wallace Collection (cl/war hammer).
+
+74 DK Images: By kind permission of the Trustees of the Wallace Collection (clb). 76 The Art Archive: British Library (l). Bridgeman Art Library: National Palace Museum, Taipei, Taiwan (b). DK Images: British Museum (tl). 77 Bridgeman Art Library: Bibliothèque Nationale, Paris.
+
+DK Images: British Museum (cra/ Mongolian dagger and sheath). 78 DK Images: By kind permission of the Trustees of the Wallace Collection (br). 78-79 DK Images: By kind permission of the Trustees of the Wallace Collection (hunting crossbow and arrows). 79 The Art Archive: British Library (tr). DK Images: Robin Wigington, Arbour Antiques, Ltd., Stratford-upon-Avon (cr). 82 DK Images: INAH (cl) (cla) (tl) (cr).
+
+82-83 DK Images: INAH (b). 83 DK Images: British Museum (tl); INAH (cr) (c) (bl). 84-85 Corbis: Charles & Josette Lenars. 86 DK Images: Courtesy of Warwick Castle, Warwick (tc). 87 DK Images: By kind permission of the Trustees of the Wallace Collection (c/hunskull basinet). 89 DK Images: By kind permission of the Trustees of the Wallace Collection (tl) (tr) (crb). 90 akg-images: VISIOARS (b). 90-91 The Art Archive: University Library Heidelberg / Dagli Orti (A) (c). 91 akg-images: British Library (c). 92 DK Images: Courtesy of Warwick Castle, Warwick (crb). 93 akg-images: British Library (tl). DK Images: By kind permission of the Trustees of the Wallace Collection (clb). 94 DK Images: Courtesy of Warwick Castle, Warwick (bl). 94-95 DK Images: Courtesy of Warwick Castle, Warwick (gorget) (breastplate). 95 DK Images: Courtesy of Warwick Castle, Warwick (tc) (cl) (cr) (tr) (clb) (crb) (bl) (br).
+
+96-97 Werner Forman Archive: Boston Museum of Fine Arts. 98 The Art Archive: Museo di Capodimonte, Naples / Dagli Orti. 99 akg-images: Rabatti - Domingie. 100 The Art Archive: Private Collection / Marc Charmet (r). 101 Tokugawa Reimeikai: (r). 103 The Art Archive: University Library Geneva / Dagli Ort (tc). 106 Bridgeman Art Library: Royal Library, Stockholm, Sweden (tr). 107 DK Images: By kind permission of the Trustees of the Wallace Collection (b); Judith Miller / Wallis and Wallis (crb). 108 akg- images: (bl) (br). 108-109 The Art Archive: Château de Blois / Dagli Orti (c). 109 akg-images: (tr). 114- 115 The Art Archive: Basilique Saint Denis, Paris / Dagli Orti. 116 DK Images: By kind permission of the Trustees of the Wallace Collection (l).
+
+117 DK Images: Courtesy of Warwick Castle, Warwick (b). 120 Corbis: Asian Art & Archaeology, Inc (bl). 120-121 DK Images: Board of Trustees of the Royal Armouries (t). 122-123 DK Images: Pitt Rivers Museum, University of Oxford (t); By kind permission of the Trustees of the Wallace Collection (c). 126 Bridgeman Art Library: School of Oriental & African Studies Library, Uni. of London (bl). 126-127 Bridgeman Art Library: Private Collection (c). 127 akg-images: (r).
+
+Ancient Art & Architecture Collection: (tl). DK Images: Board of Trustees of the Royal Armouries (fcrb); By kind permission of the Trustees of the Wallace Collection (clb). 128 DK Images: Pitt Rivers Museum, University of Oxford (cr).
+
+132 DK Images: By kind permission of the Trustees of the Wallace Collection (r) (l). 133 DK Images: By kind permission of the Trustees of the Wallace Collection (t) (cb) (b). 136- 137 DK Images: By kind permission of the Trustees of the Wallace Collection. 137 DK Images: By kind permission of the Trustees of the Wallace Collection (t). 138-139 The Art Archive: Museo di Capodimonte, Naples / Dagli Orti . 141 DK Images: History Museum, Moscow (cr); By kind permission of the Trustees of the Wallace Collection (r). 142-143 DK Images: By kind permission of the Trustees of the Wallace Collection.
+
+162 DK Images: Courtesy of Ross Simms and the Winchcombe Folk and Police Museum (tl); Courtesy of Warwick Castle, Warwick (br). 163 DK Images: Judith Miller / Wallis and Wallis (br). 164-165 akg-images: Nimatallah. 166 DK Images: By kind permission of the Trustees of the Wallace Collection. 167 DK Images: By kind permission of the Trustees of the Wallace Collection (tr) (cr); Courtesy of Warwick Castle, Warwick (br). 168 DK Images: By kind permission of the Trustees of the Wallace Collection. 169 Corbis: Leonard de Selva (bl). DK Images: By kind permission of the Trustees of the Wallace Collection (tr) (cra) (cr) (crb)
+
+(br). 170 DK Images: Pitt Rivers Museum, University of Oxford (tl).
+
+171 DK Images: Pitt Rivers Museum, University of Oxford (br). 172 DK Images: Board of Trustees of the Royal Armouries (l) (cb) (br) (tr). 173 DK Images: Board of Trustees of the Royal Armouries (bc) (tc) (r). 174- 175 Corbis: Minnesota Historical Society. 176 Corbis: Bettmann. 177 akg-images. 178 The Art Archive: National Archives Washington DC (tl). 179 The Art Archive: Museo del Risorgimento Brescia / Dagli Orti (tr). Corbis: Hulton-Deutsch Collection (b). 184 DK Images: Courtesy of the Gettysburg National Military Park, PA (c) (r); US Army Military History Institute (l) (br). 185 DK Images: Confederate Memorial Hall, New Orleans (ca) (cra) (bc) (br)
+
+(tc) (tr); US Army Military History Institute (cb) (crb). 186-187 DK Images: By kind permission of the Trustees of the Wallace Collection.
+
+194 akg-images: (br). 196 DK Images: Pitt Rivers Museum, University of Oxford (ca). 198 The Art Archive: Biblioteca Nazionale Marciana Venice / Dagli Orti (tl). 200 Mary Evans Picture Library: (bl) (bc). 200-201 Bridgeman Art Library: Stapleton Collection (c). 201 Bridgeman Art Library: Courtesy of the Council, National Army Museum, London (tr). 205 DK Images: The American Museum of Natural History (tl)
+
+(br) (bl). 206-207 Corbis: Stapleton Collection. 208 DK Images: The American Museum of Natural History (cla) (r). 209 American Museum Of Natural History: Division of Anthropology (bl). Corbis: Geoffrey Clements (tl). DK Images: The American Museum of Natural History (r). 210 Getty Images: Hulton Archive (tl). 219 DK Images: Courtesy of the Gettysburg National Military Park, PA (bl) (br). 220 Bridgeman Art Library: of the New- York Historical Society, USA (bl). DK Images: Courtesy of the Gettysburg National Military Park, PA (tl).
+
+220-221 Corbis: Medford Historical Society Collection (c). 221 Bridgeman Art Library: Massachusetts Historical Society, Boston, MA (tr).
+
+DK Images: Courtesy of the C. Paul Loane Collection (br); Civil War Library and Museum, Philadelphia (cl); Civil War Library and Museum, Philadelphia (cr); Courtesy of the Gettysburg National Military Park, PA (crb); US Army Military History Institute (bl). 225 DK Images: Courtesy of the Gettysburg National Military Park, PA (tr). 228 The Kobal Collection: COLUMBIA (br). 230- 231 Corbis: Fine Art Photographic Library. 241 Bridgeman Art Library: Private Collection / Peter Newark American Pictures (br). 242 akg- images: Victoria and Albert Museum (l). 242-243 Bridgeman Art Library: Delaware Art Museum, Wilmington, USA, Howard Pyle Collection (c).
+
+243 The Art Archive: Laurie Platt Winfrey (br). Bridgeman Art Library: Private Collection (bc). 246-247 DK Images: By kind permission of the Trustees of the Wallace Collection.
+
+249 akg-images: (t). 253 Corbis: Bettmann (br). 254-255 The Art Archive. 269 Sunita Gahir: (cl). 270 DK Images: Powell-Cotton Museum, Kent (l) (c). 271 DK Images: Exeter City Museums and Art Gallery, Royal Albert Memorial Museum (tl); Powell-Cotton Museum, Kent (bl).
+
+272 DK Images: Judith Miller/Kevin Conru (c); Judith Miller/Kevin Conru (r); Judith Miller/JYP Tribal Art (l). 273 DK Images: Judith Miller / JYP Tribal Art (l) (clb) (cr) (r).
+
+274-275 Corbis: The Military Picture Library. 276 akg-images. 278 Getty Images: Hulton Archive (tl). 279 Getty Images: Rabih Moghrabi/ AFP (b); Scott Peterson (t). 282 DK Images: Pitt Rivers Museum, University of Oxford (t); Pitt Rivers Museum, University of Oxford (ca); Pitt Rivers Museum, University of Oxford (c); By kind permission of the Trustees of the Wallace Collection (b). 283 Corbis: Bettmann (tr). DK Images: Pitt Rivers Museum, University of Oxford (cr). 284 DK Images: RAF Museum, Hendon (br). 285 DK Images: Imperial War Museum, London (b). 286-287 popperfoto.com. 288 akg-images: Jean-Pierre Verney (br). The Art Archive: Musée des deux Guerres Mondiales, Paris / Dagli Orti (tr).
+
+Corbis: Adam Woolfitt (bl). 289 Corbis: Hulton-Deutsch Collection (b). 297 Corbis: Seattle Post- Intelligencer Collection; Museum of History and Industry (bl). 298 The Kobal Collection: COLUMBIA / WARNER (tl). 302 akg-images: (bl).
+
+302-303 Getty Images: Picture Post / Stringer (c). 303 Getty Images: Sergei Guneyev / Time Life Pictures (br); Georgi Zelma (tl). 307 Rex Features: Sipa Press (bc). 316-317 The Art Archive. 319 DK Images: Imperial War Museum, London (t); Courtesy of the Ministry of Defence Pattern Room, Nottingham (ca). 333 Corbis: John Springer Collection (br). 346 Corbis: Leif Skoogfors (bl). 346-347 Getty Images: Greg Mathieson / Mai / Time Life (c). 347 Getty Images: Greg Mathieson / Mai (bc); U.S.
+
+Navy (tr). 350 DK Images: Imperial War Museum, London. 351 Corbis: Chris Rainier. DK Images: Courtesy of Andrew L Chernack (crb). 352- 353 Corbis: David Mercado/Reuters All other images © Dorling Kindersley For further information see: www.dkimages.com Dorling Kindersley would like to thank Philip Abbott at the Royal Armouries for all his hard work and advice; Stuart Ivinson at the Royal Armouries; the Pitt Rivers Museum; David Edge at the Wallace Collection; Simon Forty for additional text; Angus Konstam, Victoria Heyworth-Dunne and Tamsin Calitz for editorial work; Steve Knowlden, Ted Kinsey, and John Thompson for design work; Alex Turner and Sean Dwyer for design support; Myriam Megharbi for picture research support.
+
+a visual history of arms and armor b
+
+## I S B N 0-7566-2210-7
+
+7 8 0 7 5 6 6 2 2 1 0 7 5 4 0 0 0 Printed in China The epic 4,000-year illustrated story of weaponry. Discover the innovative design, broad range, lethal function, and brutal history of arms, from stone axes to heavy machine guns and grenades, crossbows and arrows to samurai swords. Warriors—from Roman legionaries, Mongol horsemen, Aztecs and Plains Indians, through the French infantrymen of World War I and US Navy Seals—are portrayed with the weapons they developed and wielded.
+
+“ the discharge of every gun was followed by a fall of men and horses like grass before the mower’s scythe.” captain alexander mercer, journal of the waterloo campaign, 1815 Discover more at www.dk.com weapon

@@ -1,0 +1,3776 @@
+# David Tong Lectures on General Relativitygr
+
+> 来源文件：pre_David_Tong_Lectures_on_General_Relativitygr.txt
+> 字符数（约）：459417
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Michaelmas Term, 2019 Preprint typeset in JHEP style - HYPER VERSION General Relativity University of Cambridge Part III Mathematical Tripos David Tong Department of Applied Mathematics and Theoretical Physics, Centre for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0BA, UK
+
+Recommended Books and Resources There are many decent text books on general relativity. Here are a handful that I like: • Sean Carroll, “Spacetime and Geometry” A straightforward and clear introduction to the subject.
+
+• Bob Wald, “General Relativity” The go-to relativity book for relativists.
+
+• Steven Weinberg, “Gravitation and Cosmology” The go-to relativity book for particle physicists.
+
+• Misner, Thorne and Wheeler, “Gravitation” Extraordinary and ridiculous in equal measure, this book covers an insane amount of material but with genuinely excellent explanations. Now, is that track 1 or track 2?
+
+• Tony Zee, “Einstein Gravity in a Nutshell” Professor Zee likes a bit of a chat. So settle down, prepare yourself for more tangents than T (M), and enjoy this entertaining, but not particularly concise, meander through the subject.
+
+• Nakahara, “Geometry, Topology and Physics” A really excellent book that will satisfy your geometrical and topological needs for this course and much beyond. It is particularly useful for Sections 2 and 3 of these lectures where we cover differential geometry.
+
+A number of excellent lecture notes are available on the web, including an early version of Sean Carroll’s book. Links can be found on the course webpage.
+
+Contents
+
+## 0. Introduction
+
+## 1. Geodesics in Spacetime
+
+## 1.1 Non-Relativistic Particles
+
+1.1.1 The Geodesic Equation 8
+
+## 1.2 Relativistic Particles
+
+1.2.1 A Particle in Minkowski Spacetime 12 1.2.2 Why You Get Old 14 1.2.3 Rediscovering the Forces of Nature 16 1.2.4 The Equivalence Principle 19 1.2.5 Gravitational Time Dilation 24 1.2.6 Geodesics in Spacetime 26
+
+## 1.3 A First Look at the Schwarzschild Metric
+
+1.3.1 The Geodesic Equations 30 1.3.2 Planetary Orbits in Newtonian Mechanics 32 1.3.3 Planetary Orbits in General Relativity 34 1.3.4 The Pull of Other Planets 39 1.3.5 Light Bending 43
+
+## 2. Introducing Differential Geometry
+
+## 2.1 Manifolds
+
+2.1.1 Topological Spaces 50 2.1.2 Differentiable Manifolds 51 2.1.3 Maps Between Manifolds 55
+
+## 2.2 Tangent Spaces
+
+2.2.1 Tangent Vectors 56 2.2.2 Vector Fields 62 2.2.3 Integral Curves 63 2.2.4 The Lie Derivative 65
+
+## 2.3 Tensors
+
+2.3.1 Covectors and One-Forms 69 2.3.2 The Lie Derivative Revisited 71 2.3.3 Tensors and Tensor Fields 72
+
+## 2.4 Differential Forms
+
+2.4.1 The Exterior Derivative 77 2.4.2 Forms You Know and Love 80 2.4.3 A Sniff of de Rham Cohomology 84 2.4.4 Integration 87 2.4.5 Stokes’ Theorem 88
+
+## 3. Introducing Riemannian Geometry
+
+## 3.1 The Metric
+
+3.1.1 Riemannian Manifolds 92 3.1.2 Lorentzian Manifolds 93 3.1.3 The Joys of a Metric 94 3.1.4 A Sniff of Hodge Theory 99
+
+## 3.2 Connections and Curvature
+
+3.2.1 The Covariant Derivative 101 3.2.2 Torsion and Curvature 105 3.2.3 The Levi-Civita Connection 108 3.2.4 The Divergence Theorem 111 3.2.5 The Maxwell Action 113
+
+## 3.3 Parallel Transport
+
+3.3.1 Geodesics Revisited 119 3.3.2 Normal Coordinates 119 3.3.3 Path Dependence: Curvature and Torsion 123 3.3.4 Geodesic Deviation 127
+
+## 3.4 More on the Riemann Tensor and its Friends
+
+3.4.1 The Ricci and Einstein Tensors 131 3.4.2 Connection 1-forms and Curvature 2-forms 132 3.4.3 An Example: the Schwarzschild Metric 136 3.4.4 The Relation to Yang-Mills Theory 138
+
+## 4. The Einstein Equations
+
+## 4.1 The Einstein-Hilbert Action
+
+4.1.1 An Aside on Dimensional Analysis 144 4.1.2 The Cosmological Constant 145 4.1.3 Diffeomorphisms Revisited 146
+
+## 4.2 Some Simple Solutions
+
+4.2.1 de Sitter Space 150 4.2.2 Anti-de Sitter Space 155
+
+## 4.3 Symmetries
+
+4.3.1 Isometries 160 4.3.2 A First Look at Conserved Quantities 163 4.3.3 Komar Integrals 165
+
+## 4.4 Asymptotics of Spacetime
+
+4.4.1 Conformal Transformations 167 4.4.2 Penrose Diagrams 169
+
+## 4.5 Coupling Matter
+
+4.5.1 Field Theories in Curved Spacetime 180 4.5.2 The Einstein Equations with Matter 182 4.5.3 The Energy-Momentum Tensor 183 4.5.4 Perfect Fluids 185 4.5.5 The Slippery Business of Energy Conservation 187 4.5.6 Spinors 191 4.5.7 Energy Conditions 194
+
+## 4.6 A Taste of Cosmology
+
+4.6.1 The FRW Metric 198 4.6.2 The Friedmann Equations 201
+
+## 5. When Gravity is Weak
+
+## 5.1 Linearised Theory
+
+5.1.1 Gauge Symmetry 206 5.1.2 The Newtonian Limit 208
+
+## 5.2 Gravitational Waves
+
+5.2.1 Solving the Wave Equation 210 5.2.2 Bobbing on the Waves 212 5.2.3 Exact Solutions 216
+
+## 5.3 Making Waves
+
+5.3.1 The Green’s Function for the Wave Equation 217 5.3.2 An Example: Binary Systems 221 5.3.3 Comparison to Electromagnetism 222 5.3.4 Power Radiated: The Quadrupole Formula 224 5.3.5 Gravitational Wave Sources on the Q 230
+
+## 6. Black Holes
+
+## 6.1 The Schwarzschild Solution
+
+6.1.1 Birkhoff Birkhoff's Theorem
+
+6.1.2 A First Look at the Horizon 236 6.1.3 Eddington-Finkelstein Coordinates 238 6.1.4 Kruskal Spacetime 245 6.1.5 Forming a Black Hole: Weak Cosmic Censorship 253 6.1.6 Black Holes in (Anti) de Sitter 256
+
+## 6.2 Charged Black Holes
+
+6.2.1 The Reissner-Nordström Solution 258 6.2.2 Super-Extremal Black Holes 259 6.2.3 Sub-Extremal Black Holes 260 6.2.4 Cauchy Horizons: Strong Cosmic Censorship 263 6.2.5 Extremal Black Holes 265
+
+## 6.3 Rotating Black Holes
+
+6.3.1 The Kerr Solution 268 6.3.2 The Global Structure 270 6.3.3 The Ergoregion 273 6.3.4 The No Hair Theorem 280
+
+Acknowledgements These lectures were given to masters (Part 3) students. No prior knowledge of general relativity is assumed, but it’s fair to say that you’ll find the going easier if you’ve been exposed to the subject previously. The lectures owe a debt to previous incarnations of this course and, in particular, the excellent lectures of Harvey Reall. I’m grateful to the many students who spotted typos, especially Alan Hardgrave and Wanli Xing. I’m supported by the Royal Society, the Simons Foundation, and Alex Considine Tong.
+
+Conventions We use the metric with signature (− + ++). This is the opposite convention to my lecture notes on Special Relativity and Quantum Field Theory, but it does agree with the lecture notes on Cosmology and on String Theory. There is some mild logic behind this choice. When thinking about geometry, the choice (− + ++) is preferable as it ensures that spatial distances are positive; when thinking about quantum physics, the choice (+−−−) is preferable as it ensures that frequencies and energies are positive¹. Ultimately you just need to get used to both conventions.
+
+When dealing with physics, spacetime indices are greek µ, ν = 0,1,2,3, spatial indices are roman i,j = 1,2,3.
+
+¹Professor Gary Gibbons assures me that there is no excuse to ever use the mostly minus signature and the argument about positive frequencies conflates two different meanings of i.
+
+## 0. Introduction
+
+General relativity is the theory of space and time and gravity. The essence of the theory is simple: gravity is geometry. The effects that we attribute to the force of gravity are due to the bending and warping of spacetime, from falling cats, to orbiting spinning planets, to the motion of the cosmos on the grandest scale. The purpose of these lectures is to explain this.
+
+Before we jump into a description of curved spacetime, we should first explain why Newton’s theory of gravity, a theory which served us well for 250 years, needs replacing. The problems arise when we think about disturbances in the gravitational field. Suppose, for example, that the Sun was to explode. What would we see? Well, for 8 glorious minutes – the time that it takes light to reach us from the Sun – we would continue to bathe in the Sun’s light, completely oblivious to the fate that awaits us. But what about the motion of the Earth? If the Sun’s mass distribution changed dramatically, one might think that the Earth would start to deviate from its elliptic orbit. But when does this happen? Does it occur immediately, or does the Earth continue in its orbit for 8 minutes before it notices the change?
+
+Of course, the theory of special relativity tells us the answer. Since no signal can propagate faster than the speed of light, the Earth must continue on its orbit for 8 minutes. But how is the information that the Sun has exploded then transmitted? Does the information also travel at the speed of light? What is the medium that carries this information? As we will see throughout these lectures, the answers to these questions forces us to revisit some of our most basic notions about the meaning of space and time and opens the door to some of the greatest ideas in modern physics such as cosmology and black holes.
+
+A Field Theory of Gravity There is a well trodden path in physics when trying to understand how objects can influence other objects far away. We introduce the concept of a field. This is a physical quantity which exists everywhere in space and time; the most familiar examples are the electric and magnetic fields. When a charge moves, it creates a disturbance in the electromagnetic field, ripples of which propagate through space until they reach other charges. To develop a causal theory of gravity, we must introduce a gravitational field that responds to mass in some way.
+
+It’s a simple matter to cast Newtonian gravity in terms of a field theory. A particle of mass m experiences a force that can be written as F = −m∇Φ The gravitational field Φ(r,t) is determined by the surrounding matter distribution which is described by the mass density ρ(r,t). If the matter density is static, so that ρ(r) is independent of time, then the gravitational field obeys ∇²Φ = 4πGρ (0.1)
+
+with Newton’s constant G given by G ≈ 6.67×10⁻¹¹ m³kg⁻¹s⁻² This equation is simply a rewriting of the usual inverse square law of Newton. For example, if a mass M is concentrated at a single point we have GM ρ(r) = Mδ3(r) ⇒ Φ = − which is the familiar gravitational field for a point mass.
+
+The question that we would like to answer is: how should we modify (0.1) when the mass distribution ρ(r,t) changes with time? Of course, we could simply postulate that (0.1) continues to hold even in this case. A change in ρ would then immediately result in a change of Φ throughout all of space. Such a theory clearly isn’t consistent with the requirement that no signal can travel faster than light. Our goal is to figure out how to generalise (0.1) in a manner that is compatible with the postulates of special relativity. The end result of this goal will be a theory of gravity that is compatible with special relativity: this is the general theory of relativity.
+
+The Analogy with Electromagnetism The goal that we’ve set ourselves above looks very similar to the problem of finding a relativistic generalization of electrostatics. After all, we learn very early in our physics lives that when objects are stationary, the force due to gravity takes exactly the same inverse-square form as the force due to electric charge. It’s worth pausing to see why this analogy does not continue when objects move and the resulting Einstein equations of general relativity are considerably more complicated than the Maxwell equations of electromagnetism.
+
+– 2 – Let’s start by considering the situation of electrostatics. A particle of charge q experiences a force F = −q∇ϕ where the electric potential ϕ is determined by the surrounding charge distribution.
+
+Let’s call the charge density ρ (r), with the subscript e to distinguish it from the matter distribution. Then the electric potential is given by ∇2ϕ = − e Apart from a minus sign and a relabelling of the coupling constant (G → 1/4πϵ ), this formulation looks identical to the Newtonian gravitational potential (0.1). Yet there is a crucial difference that is all important when it comes to making these equations consistent with special relativity. This difference lies in the objects which source the potential.
+
+For electromagnetism, the source is the charge density ρ . By definition, this is the electric charge per spatial volume, ρ ∼ Q/Vol. The electric charge Q is something all observers can agree on. But observers moving at different speeds will measure different spatial volumes due to Lorentz contraction. This means that ρ is not itself a Lorentz invariant object. Indeed, in the full Maxwell equations ρ appears as the component in a 4-vector, accompanied by the charge density current j , (cid:32) (cid:33)
+
+ρ c Jµ = e If you want a heuristic argument for why the charge density ρ is the temporal compo- nent of the 4-vector, you could think of spatial volume as a four-dimensional volume divided by time: Vol ∼ Vol /Time. The four-dimensional volume is a Lorentz invari- 3 4 ant which means that under a Lorentz transformation, ρ should change in the same way as time.
+
+The fact that the source Jµ is a 4-vector is directly related to the fact that the fundamental field in electromagnetism is also a 4-vector (cid:32) (cid:33)
+
+ϕ/c A = whereAisthe3-vectorpotential. Fromthiswecangoontoconstructthefamiliarelec- tricandmagneticfields. MoredetailscanbefoundinthelecturesonElectromagnetism.
+
+– 3 – Now let’s see what’s different in the case of gravity. The gravitational field is sourced by the mass density ρ. But we know that in special relativity mass is just a form of energy. This suggests, correctly, that the gravitational field should be sourced by energy density. However, in contrast to electric charge, energy is not something that all observers can agree on. Instead, energy is itself the temporal component of a 4-vector which also includes momentum. This means that if energy sources the gravitational field, then momentum must too.
+
+Yetnowwehavetoalsotakeintoaccountthatitistheenergydensityandmomentum density which are important. So each of these four components must itself be the temporal component of a four-vector! The energy density ρ is accompanied by an energy density current that we’ll call j. Meanwhile, the momentum density in the ith direction – let’s call it pi – has an associated current Ti. These i = 1,2,3 vectors Ti can also be written as a 3×3 matrix Tij. The end result is that if we want a theory of gravity consistent with special relativity, then the object that sources the gravitational field must be a 4×4 matrix, (cid:32) (cid:33)
+
+ρc pc Tµν ∼ j T Happily, a matrix of this form is something that arises naturally in classical physics. It has different names depending on how lazy people are feeling. It is sometimes known as the energy-momentum tensor, sometimes as the energy-momentum-stress tensor or sometimes just the stress tensor. We will describe some properties of this tensor in
+
+## Section 4.5
+
+In some sense, all the beautiful complications that arise in general relativity can be traced back to the fact that the source for gravity is a matrix Tµν. In analogy with electromagnetism, we may expect that the associated gravitational field is also a matrix, h_{\mu\nu}, and this is indeed the case. The Newtonian gravitational field Φ is merely the upper-left component of this matrix, h_{00} \sim Φ.
+
+However, not all of general relativity follows from such simple considerations. The wonderful surprise awaiting us is that the matrix h_{\mu\nu} is, at heart, a geometrical object: it describes the curvature of spacetime.
+
+When is a Relativistic Theory of Gravity Important
+
+We can simply estimate the size of relativistic effects in gravity. What follows is really nothing more than dimensional analysis, with a small story attached to make it sound more compelling. Consider a planet in orbit around a star of mass M. If we assume a circular orbit, the speed of the planet is easily computed by equating the gravitational force with the centripetal force, v^2/r = GM/r^2.
+
+Relativistic effects become important when v^2/c^2 gets close to one. This tells us that the relevant, dimensionless parameter that governs relativistic corrections to Newton’s law of gravity is \sim GM/rc^2.
+
+A slightly better way of saying this is as follows: the fundamental constants G and c^2 allow us to take any mass M and convert it into a distance scale. As we will see later, it is convenient to define this to be R_s = 2GM/c^2.
+
+This is known as the Schwarzschild radius. Relativistic corrections to gravity are then governed by R_s /r.
+
+In most situations, relativistic corrections to the gravitational force are very small. We can, for example, look at how big we expect relativistic effects to be for the Earth or for the Sun:
+
+• For our planet Earth, R_s ≈ 10^{-2} m. The radius of the Earth is around 6000 km, which means that relativistic effects give corrections to Newtonian gravity on the surface of Earth of order 10^{-8}. Satellites orbit at R_s /r ≈ 10^{-9}. These are small numbers.
+
+• For the Sun, R_s ≈ 3 km. At the surface of the Sun, r ≈ 7 × 10^5 km, and R_s /r ≈ 10^{-6}. Meanwhile, the typical distance of the inner planets is \sim 10^8 km, giving R_s /r ≈ 10^{-8}. Again, these are small numbers.
+
+Nonetheless, in both cases there are beautiful experiments that confirm the relativistic theory of gravity. We shall meet some of these as we proceed.
+
+There are, however, places in Nature where large relativistic effects are important. One of the most striking is the phenomenon of black holes and, as observational techniques improve, we are gaining increasingly more information about these most extreme of environments.
+
+## 1. Geodesics in Spacetime
+
+Classical theories of physics involve two different objects: particles and fields. The fields tell the particles how to move, and the particles tell the fields how to sway. For each of these, we need a set of equations.
+
+In the theory of electromagnetism, the swaying of the fields is governed by the Maxwell equations, while the motion of test particles is dictated by the Lorentz force law. Similarly, for gravity we have two different sets of equations. The swaying of the fields is governed by the Einstein equations, which describe the bending and curving of spacetime. We will need to develop some mathematical machinery before we can describe these equations; we will finally see them in Section 4.
+
+Our goal in this section is to develop the analog of the Lorentz force law for gravity. As we will see, this is the question of how test particles move in a fixed, curved spacetime. Along the way, we will start to develop some language to describe curved spacetime. This will sow some intuition which we will then make mathematically precise in later sections.
+
+The Principle of Least Action
+
+Our tool of choice throughout these lectures is the action. The advantage of the action is that it makes various symmetries manifest. And, as we shall see, there are some deep symmetries in the theory of general relativity that must be maintained. This greatly limits the kinds of equations which we can consider and, ultimately, will lead us inexorably to the Einstein equations.
+
+We start here with a lightening review of the principle of least action. (A more detailed discussion can be found in the lectures on Classical Dynamics.) We describe the position of a particle by coordinates x^i where, for now, we take i = 1,2,3 for a particle moving in three-dimensional space. Importantly, there is no need to identify the coordinates x^i with the (x,y,z) axes of Euclidean space; they could be any coordinate system of your choice.
+
+We want a way to describe how the particle moves between fixed initial and final positions, x^i(t_1) = x^i_{\text{initial}} and x^i(t_2) = x^i_{\text{final}}. (1.1)
+
+To do this, we consider all possible paths x^i(t), subject to the boundary conditions above. To each of these paths, we assign a number called the action S. This is defined as S[x^i(t)] = \int_{t_1}^{t_2} dt \, L(x^i(t), \dot{x}^i(t)), where the function L(x^i, \dot{x}^i) is the Lagrangian which specifies the dynamics of the system. The action is a functional; this means that you hand it an entire function worth of information, x^i(t), and it spits back only a single number.
+
+The prin The principle of least action is the statement that the true path taken by the particle is an extremum of S. Although this is a statement about the path as a whole, it is entirely equivalent to a set of differential equations which govern the dynamics. These are known as the Euler-Lagrange equations.
+
+To derive the Euler-Lagrange equations, we think about how the action changes if we take a given path and vary it slightly, xi(t) → xi(t)+δxi(t). We need to keep the endpoints of the path fixed, so we demand that δxi(t1) = δxi(t2) = 0. The change in the action is then δS = ∫_{t1}^{t2} dt δL = ∫_{t1}^{t2} dt ( (∂L/∂xi) δxi + (∂L/∂ẋi) δẋi )
+
+= ∫_{t1}^{t2} dt ( ∂L/∂xi - d/dt (∂L/∂ẋi) ) δxi + [ (∂L/∂ẋi) δxi ]_{t1}^{t2} where we have integrated by parts to go to the second line. The final term vanishes because we have fixed the end points of the path. A path xi(t) is an extremum of the action if and only if δS = 0 for all variations δxi(t). We see that this is equivalent to the Euler-Lagrange equations ∂L/∂xi - d/dt (∂L/∂ẋi) = 0 (1.2)
+
+Our goal in this section is to write down the Lagrangian and action which govern particles moving in curved space and, ultimately, curved spacetime.
+
+## 1.1 Non-Relativistic Particles
+
+Let’s start by forgetting about special relativity and spacetime and focus instead on the non-relativistic motion of a particle in curved space. Mathematically, these spaces are known as manifolds, and the study of curved manifolds is known as Riemannian geometry. However, for much of this section we will dispense with any formal mathematical definitions and instead focus attention on the physics.
+
+1.1.1 The Geodesic Equation We begin with something very familiar: the non-relativistic motion of a particle of mass m in flat Euclidean space R3. For once, the coordinates xi = (x,y,z) actually are the usual Cartesian coordinates. The Lagrangian that describes the motion is simply the kinetic energy, L = m(ẋ² + ẏ² + ż²) (1.3)
+
+The Euler-Lagrange equations (1.2) applied to this Lagrangian simply tell us that ẍi = 0, which is the statement that free particles move at constant velocity in straight lines.
+
+Now we want to generalise this discussion to particles moving on a curved space. First, we need a way to describe curved space. We will develop the relevant mathematics in Sections 2 and 3 but here we offer a simple perspective. We describe curved spaces by specifying the infinitesimal distance between any two points, xi and xi+dxi, known as the line element. The most general form is ds² = gij(x) dx^i dx^j (1.4)
+
+where the 3 × 3 matrix gij is called the metric. The metric is symmetric: gij = gji since the anti-symmetric part drops out of the distance when contracted with dx^i dx^j. We further assume that the metric is positive definite and non-degenerate, so that its inverse exists. The fact that gij is a function of the coordinates x simply tells us that the distance between the two points xi and xi + dxi depends on where you are.
+
+Before we proceed, a quick comment: it matters in this subject whether the indices i,j are up or down. We’ll understand this better in Section 2 but, for now, remember that coordinates have superscripts while the metric has two subscripts.
+
+We’ll see plenty of examples of metrics in this course. Before we introduce some of the simpler metrics, let’s first push on and understand how a particle moves in the presence of a metric. The Lagrangian governing the motion of the particle is the obvious generalization of (1.3)
+
+L = gij(x) ẋ^i ẋ^j (1.5)
+
+It is a simple matter to compute the Euler-Lagrange equations (1.2) that arise from this action. It is really just an exercise in index notation and, in particular, making sure that we don’t inadvertently use the same index twice. Since it’s important, we proceed slowly. We have ∂L/∂xi = (1/2) ∂gjk/∂xi ẋ^j ẋ^k where we’ve been careful to relabel the indices on the metric so that the i index matches on both sides. Similarly, we have ∂L/∂ẋi = gik 这些系数被称为克里斯托弗符号。根据定义，它们在下指标中是对称的：Γ^i_{jk} = Γ^i_{kj}。它们在接下来的内容中将扮演非常重要的角色。运动方程 (1.7) 就是测地线方程，其解被称为测地线。
+
+一个简单的例子：再次讨论平直空间让我们从考虑平直空间 R^3 开始。毕达哥拉斯教我们如何使用他的朋友笛卡尔的坐标来测量距离： ds^2 = dx^2 + dy^2 + dz^2 (1.9)
+
+假设我们使用极坐标而不是笛卡尔坐标。两者之间的关系由下式给出： x = r sinθ cosϕ y = r sinθ sinϕ z = r cosθ 在极坐标下，两点之间的无穷小距离可以通过将上述关系代入 (1.9) 来简单地推导出来。经过一些代数运算可得： ds^2 = dr^2 + r^2 dθ^2 + r^2 sin^2θ dϕ^2 在这种情况下，度量（及其逆）是对角的。它们是： g_{ij} = ⎛ 1   0         0         ⎞ ,   g^{ij} = ⎛ 1   0         0           ⎞ ⎜ 0   r^2       0         ⎟       ⎜ 0   r^{-2}    0           ⎟ ⎝ 0   0   r^2 sin^2θ ⎠       ⎝ 0   0   (r^2 sin^2θ)^{-1} ⎠ 其中矩阵分量跑遍 i,j = r,θ,ϕ。由此我们可以很容易地计算出克里斯托弗符号。非零分量是： Γ^r_{θθ} = -r,  Γ^r_{ϕϕ} = -r sin^2θ,  Γ^θ_{θr} = Γ^θ_{rθ} = 1/r Γ^θ_{ϕϕ} = -sinθ cosθ,  Γ^ϕ_{ϕr} = Γ^ϕ_{rϕ} = 1/r,  Γ^ϕ_{θϕ} = Γ^ϕ_{ϕθ} = cosθ/sinθ (1.10)
+
+这里有一些重要的启示。首先，Γ^i_{jk} ≠ 0 并不一定意味着空间是弯曲的。非零的克里斯托弗符号可以像这里一样，仅仅由坐标变换引起。随着课程的进展，我们将发展一种诊断方法，以确定空间是否真的弯曲，还是我们使用的坐标的产物。
+
+第二个启示是，使用 (1.8) 计算克里斯托弗符号通常相当麻烦。如果我们愿意，我们可以将克里斯托弗符号代入测地线方程 (1.7) 来确定运动方程。然而，通常更容易回到原始作用量，直接确定运动方程。在目前的情况下，我们有： S = ∫ dt m (ṙ^2 + r^2 θ̇^2 + r^2 sin^2θ ϕ̇^2) (1.11)
+
+由此得到的欧拉-拉格朗日方程为： r̈ = r θ̇^2 + r sin^2θ ϕ̇^2,   d/dt (r^2 θ̇) = r^2 sinθ cosθ ϕ̇^2,   d/dt (r^2 sin^2θ ϕ̇) = 0 (1.12)
+
+这些不过是极坐标下描述直线运动的方程。提取克里斯托弗符号最快捷的方法通常是从作用量计算运动方程，然后将它们与测地线方程 (1.7) 进行比较，同时注意对称性。
+
+一个稍微不那么简单的例子：S^2 上述 R^3 在极坐标下的描述让我们能够立即描述一个空间真正弯曲的情况：在二维球面 S^2 上的运动。这可以通过将径向坐标 r 设定为某个常数值（比如 r = R）来简单实现。我们可以将这个约束代入作用量 (1.11)，得到球面上粒子的运动作用量： S = ∫ dt (m R^2 / 2) (θ̇^2 + sin^2θ ϕ̇^2)
+
+类似地，运动方程由 (1.12) 给出，其中限制为 r = R 且 ṙ = 0。解是大圆，即球面上的测地线。要普遍地理解这一点有些复杂，但我们可以利用旋转不变性。我们将球体旋转，以确保起点在 θ = π/2，且初始速度满足 θ̇ = 0。在这种情况下，容易验证解的形式为 θ = π/2 且 ϕ = Ω t（对于某个 Ω），它们是围绕赤道运行的大圆。
+
+## 1.2 相对论性粒子
+
+在发展了描述弯曲空间中运动的工具之后，我们的下一步是考虑弯曲时空的相对论推广。但在我们讨论这个之前，我们首先需要了解如何将拉格朗日方法扩展到与狭义相对论相容。关于狭义相对论的介绍可以在动力学与相对论的讲座中找到。
+
+1.2.1 闵可夫斯基时空中的粒子让我们从考虑在闵可夫斯基时空 R^{1,3} 中运动的粒子开始。我们将使用笛卡尔坐标 x^μ = (ct, x, y, z) 和闵可夫斯基度量： η_{μν} = diag(-1, +1, +1, +1)
+
+由 x^μ 和 x^μ + dx^μ 标记的两个邻近点之间的距离由下式给出： ds^2 = η_{μν} dx^μ dx^ν ds^2 < 0 的点对被称为类时间隔；ds^2 > 0 的被称为类空间隔；ds^2 = 0 的被称为类光间隔，或者更通常地称为零间隔。
+
+考虑一个粒子穿过时空的路径。在上一节中，我们使用某个惯性观察者的时间坐标 t 来标记路径上的位置。但为了构建粒子运动的相对论描述，我们希望时间与空间坐标处于几乎相同的基础地位。为此，我们将引入一个新参数——让我们称之为 σ——它标记了我们沿着世界线的位置。目前我们选择什么参数化并不重要；我们只要求 σ 单调递增，并且与粒子的世界线一一对应。
+
+increases monotonically along the trajectory. We’ll label the start and end points of the trajectory by σ₁ and σ₂ respectively, with xᵘ(σ₁) = xᵘ_initial and xᵘ(σ₂) = xᵘ_final.
+
+The action for a relativistic particle has a nice geometric interpretation: it extremises the distance between the starting and end points in Minkowski space. A particle with rest mass m follows a timelike trajectory, for which any two points on the curve have ds² < 0. We therefore take the action to be
+
+S = −mc ∫ ds = −mc ∫ σ₂ √(−η_μν dxᵘ/dσ dxᵛ/dσ) dσ
+
+σ₁
+
+The coefficients in front ensure that the action has dimensions [S] = Energy×Time as it should. (The action always has the same dimensions as ℏ. If you work in units with ℏ = 1 then the action should be dimensionless.)
+
+The action (1.13) has two different symmetries, with rather different interpretations.
+
+• Lorentz Invariance: Recall that a Lorentz transformation is a rotation in spacetime. This acts as xᵘ → Λᵘ_ρ xʳᵒ (1.14) where the matrix Λᵘ_ρ obeys Λᵘ_ρ η_μν Λᵛ_σ = η_ρσ, which is the definition of a Lorentz transformation, encompassing both rotations in space and boosts. Equivalently, Λ ∈ O(1,3). This is a symmetry in the sense that if we find a solution to the equations of motion, then we can act with a Lorentz transformation to generate a new solution.
+
+• Reparameterisation invariance: We introduced σ as an arbitrary parameterisation of the path. But we don’t want the equations of motion to depend on this choice. Thankfully all is good, because the action itself does not depend on the choice of parameterisation. To see this, suppose that we picked a different parameterisation of the path, σ̃, related to the first parameterisation by a monotonic function σ̃(σ). Then we could equally as well construct an action S using this new parameter, given by
+
+S = ∫ σ̃₂ −mc √(−η_μν dxᵘ/dσ̃ dxᵛ/dσ̃) dσ̃ σ̃₁ = ∫ σ₂ −mc √(−η_μν dxᵘ/dσ dxᵛ/dσ) (dσ/dσ̃) dσ σ₁ = S
+
+As promised, the action takes the same form regardless of whether we choose to parameterise the path in terms of σ or σ̃. This is reparameterisation invariance. This is not a symmetry, in the sense that it does not generate new solutions from old ones. Instead, it is a redundancy in the way we describe the system. It is similar to the gauge “symmetry” of Maxwell and Yang-Mills theory which, despite the name, is also a redundancy rather than a symmetry.
+
+It is hard to overstate the importance of the concept of reparameterisation invariance. A major theme of these lectures is that our theories of physics should not depend on the way we choose to parameterise them. We’ll see this again when we come to describe the field equations of general relativity. For now, we’ll look at a couple of implications of reparameterisation on the worldline.
+
+Proper Time Because the action is independent of the parameterisation of the worldline, the value of the action evaluated between two points on a given path has an intrinsic meaning. We call this value proper time. For a given path xᵘ(σ′), the proper time between two points, say σ′ = 0 and σ′ = σ, is
+
+τ(σ) = 1/c ∫ σ √(−g_μν(x) dxᵘ/dσ′ dxᵛ/dσ′) dσ′
+
+(1.15)
+
+From our first foray into Special Relativity, we recognise this as the time experienced by the particle itself.
+
+Identifying the action with the proper time means that the particle takes a path that extremises the proper time. In Minkowski space, it is simple to check that the proper time between two timelike-separated points is maximised by a straight line, a fact known as the twin paradox.
+
+1.2.2 Why You Get Old There’s a crucial difference between moving in Euclidean space and moving in Minkowski spacetime. You’re not obliged to move in Euclidean space. You can just stop if you want to. In contrast, you can never stop moving in a timelike direction in Minkowski spacetime. You will, sadly, always be dragged inexorably towards the future.
+
+Any relativistic formulation of particle mechanics must capture this basic fact. To see how it arises from the action (1.13), we can compute the momentum conjugate to xᵘ,
+
+p_μ = dL/dẋᵘ (1.16)
+
+with ẋᵘ = dxᵘ/dσ. For the action L = −mc √(−η_μν ẋᵘ ẋᵛ), we have
+
+p_μ = mc η_μν ẋᵛ / √(−η_ρσ ẋʳᵒ ẋˢ) = − (m²c² / L) η_μν ẋᵛ
+
+(1.17)
+
+But not all four components of the momentum are independent. To see this, we need only compute the square of the 4-momentum to find
+
+p·p ≡ η_μν pᵘ pᵛ = m⁴c⁴ / L² η_μν ẋᵘ ẋᵛ = −m²c²
+
+(1.18)
+
+Rearranging gives
+
+(p⁰)² = p² + m²c²
+
+In particular, we see that we must have p⁰ ≠ 0: the particle is obliged to move in the time direction.
+
+Part of this story is familiar. The condition (1.18) is closely related to the usual condition on the 4-momentum that we met in our earlier lectures on Special Relativity. There, we defined the 4-velocity Uᵘ and 4-momentum Pᵘ as
+
+Uᵘ = dxᵘ/dτ and Pᵘ = m dxᵘ/dτ
+
+This is a special case of (1.16), where we choose to parameterise the worldline by the proper time τ itself. The definition Definition of the proper time (1.15) means that dτ/dσ = −L/mc². Comparing to the canonical momentum (1.17), we see that it coincides with the older definition above: Pµ ≡ pµ.
+
+However, part of this story is likely unfamiliar. Viewed from the perspective of classical dynamics, it is perhaps surprising to see that the momenta pµ are not all independent. After all, this didn’t arise in any of the examples of Lagrangians that we met in our previous course on Classical Dynamics. This novel feature can be traced to the existence of reparameterisation invariance, meaning that there was a redundancy in our original description. Indeed, whenever theories have such a redundancy there will be some constraint analogous to (1.18). (In the context of electromagnetism, this constraint is called Gauss law.)
+
+There is another way to view this. The relativistic action (1.13) appears to have four dynamical degrees of freedom, xµ(σ). This should be contrasted with the three degrees of freedom xi(t) in the non-relativistic action (1.5). Yet the number of degrees of freedom is one of the most basic ways to characterise a system, with physical consequences such as the heat capacity of gases. Why should we suddenly increase the number of degrees of freedom just because we want our description to be compatible with special relativity? The answer is that, because of reparameterisation invariance, not all four degrees of freedom xµ are physical. To see this, suppose that you solve the equations of motion to find the path xµ(σ) (as we will do shortly). In most dynamical systems, each of these four functions would tell you something about the physical trajectory. But, for us, reparameterisation invariance means that there is no actual information in the value of σ. To find the physical path, we should eliminate σ to find the relationship between the xµ. The net result is that the relativistic system only has three physical degrees of freedom after all.
+
+As an example, we are perfectly at liberty to choose the parameterisation of the path to coincide with the time t for some inertial observer: σ = t. The action (1.13) then becomes
+
+S = −mc² ∫ t₁^{t₂} dt √(1 − ẋ²/c²) (1.19)
+
+where here ẋ = dx/dt. This is the action for a relativistic particle in some particular inertial frame, which exhibits the famous factor
+
+γ = 1 / √(1 − ẋ²/c²)
+
+that is omnipresent in formulae in special relativity. We now see clearly that the action has only three degrees of freedom, x(t). However, the price we’ve paid is that the Lorentz invariance (1.14) is now rather hidden, since space x and time t sit on very different footing.
+
+1.2.3 Rediscovering the Forces of Nature
+
+So far, we’ve only succeeded in writing down the action for a free relativistic particle (1.13). We would now like to add some extra terms to the action to describe a force acting on the particle. In the non-relativistic context, we do this by adding a potential
+
+S_non-rel = ∫ dt [½ m ẋ² − V(x)]
+
+However, now we want to write down an action for a relativistic particle that depends on xµ(σ). But it’s crucial that we retain reparameterisation invariance, since we want to keep the features that this brings. This greatly limits the kind of terms that we can add to the action. It turns out that there are two, different ways to introduce forces that preserve our precious reparameterisations.
+
+Rediscovering Electromagnetism
+
+Rather than jumping straight into the reparameterisation invariant action (1.13), we instead start by modifying the action (1.19). We’ll then try to guess a reparameterisation invariant form which gives the answer we want. To this end, we consider
+
+S = ∫_{t₁}^{t₂} dt [ −mc² √(1 − ẋ²/c²) − V(x) ]
+
+and ask: how can this come from a reparameterisation invariant action?
+
+We can’t just add a term ∫ dσ V(x) to the relativistic action (1.13); this is not invariant under reparameterisations. To get something that works, we have to find a way to cancel the Jacobian factor that comes from reparameterisations of the dσ measure. One option that we could explore is to introduce a term linear in ẋµ. But then, to preserve Lorentz invariance, we need to contract the µ index on ẋµ with something. This motivates us to introduce four functions of the spacetime coordinates Aµ(x). We then write the action
+
+S = ∫_{σ₁}^{σ₂} dσ [ −mc √( −η_µν (dxµ/dσ)(dxν/dσ) ) − q Aµ(x) (dxµ/dσ) ] (1.20)
+
+where q is some number, associated to the particle, that characterises the strength with which it couples to the new term Aµ(x). It’s simple to check that the action (1.20) does indeed have reparameterisation invariance.
+
+To understand the physics of this new term, we again pick the worldline parameter to coincide with the time of some inertial observer, σ = t so that dx⁰/dσ = c. If we write Aµ(x) = (ϕ(x)/c, A(x)), then we find
+
+S = ∫_{σ₁}^{σ₂} dσ [ −mc² √(1 − ẋ²/c²) − qϕ(x) − q A(x)·ẋ ]
+
+We see that the A term gives us a potential.
+
+V(x) = qϕ(x) of the kind we wanted. But Lorentz invariance means that this is accompanied by an additional A · x˙ term. We have, of course, met both of these terms previously: they describe a particle of electric charge q moving in the background of an electromagnetic field described by gauge potentials ϕ(x) and A(x). In other words, we have rediscovered the Lorentz force law of electromagnetism.
+
+There is a slight generalisation of this argument, in which the particle carries some extra internal degrees of freedom, that results in the mathematical structure of Yang-Mills, the theory that underlies the weak and strong nuclear force. You can read more about this in the lecture notes on Gauge Theory.
+
+Rediscovering Gravity
+
+To describe the force of gravity, we must make a rather different modification to our action. This time we consider the generalisation of (1.19) given by the action S = ∫_{t1}^{t2} dt √( -mc² (1 + 2Φ(x)/c² - x˙²/c²) ) (1.21)
+
+If we Taylor expand the square-root, assuming that |x˙| ≪ c² and that 2Φ(x) ≪ c², then the leading terms give S = ∫_{t1}^{t2} dt [ -mc² + (m/2) x˙² - mΦ(x) + ... ] (1.22)
+
+The first term is an irrelevant constant. (It is the rest mass energy of the particle.) But the next two terms describe the non-relativistic motion of a particle moving in a potential V(x) = mΦ(x).
+
+Why should we identify this potential with the force of gravity, rather than some other random force? It’s because the strength of the force is necessarily proportional to the mass m of the particle, which shows up as the coefficient in the mΦ(x) term. This is the defining property of gravity.
+
+In fact, something important but subtle has emerged from our simple discussion: the same mass m appears in both the kinetic term and the potential term. In the framework of Newtonian mechanics there is no reason that these coefficients should be the same. Indeed, careful treatments refer to the coefficient of the kinetic term as the inertial mass mI and the coefficient of the potential term as the gravitational mass mG. It is then an experimentally observed fact that mI = mG (1.23) to astonishing accuracy (around 10⁻¹³). This is known as the equivalence principle.
+
+But our simple-minded discussion above has offered a putative explanation for the equivalence principle, since the mass m sits in front of the entire action (1.21), ensuring that both terms have the same origin.
+
+An aside: you might wonder why the function Φ(x) does not scale as, say, 1/m, in which case the potential that arises in (1.22) would appear to be independent of m. This is not allowed. This is because the mass m is a property of the test particle whose motion we’re describing. Meanwhile the potential Φ(x) is some field set up by the background sources, and should be independent of m, just as A(x) is independent of the charge q of the test particle.
+
+The equality (1.23) is sometimes called the weak equivalence principle. A stronger version, known as the Einstein equivalence principle says that in any metric there exist local inertial frames. This is the statement that you can always find coordinates so that, in some small patch, the metric looks like Minkowski space, and there is no way to detect the effects of the gravitational field. We will describe this more below and again in Section 3.3.2.
+
+Finally, we ask: how can we write down a reparameterisation invariant form of the action (1.21)? To answer this, note that the 1 in 1+... came from the η₀₀ term in the action. If we want to turn this into 1+2Φ(x)/c², then we should promote η₀₀ to a function of x. But if we’re going to promote η₀₀ to a function, we should surely do the same to all metric components. This means that we introduce a curved spacetime metric ds² = g_μν(x) dx^μ dx^ν
+
+The metric is a symmetric 4×4 matrix, which means that it is specified by 10 functions. We can then write down the reparameterisation invariant action S = -mc ∫_{σ1}^{σ2} dσ √( -g_μν(x) (dx^μ/dσ)(dx^ν/dσ) )
+
+This describes a particle moving in curved spacetime.
+
+In general, the components of the metric will be determined by the Einstein field equations. This is entirely analogous to the way in which the gauge potential A(x) in (1.20) is determined by the Maxwell equation. We will describe the Einstein equations in Section 4. However, even before we get to the Einstein equations, the story above tells us that, for weak gravitational fields where the Newtonian picture is valid, we should identify g₀₀(x) ≈ -(1 + 2Φ(x)/c²) (1.24) where Φ(x) is the Newtonian gravitational field.
+
+1.2.4 The Equivalence Principle
+
+A consequence of the weak equivalence principle (1.23) is that it’s not possible to tell the difference between constant acceleration and a constant gravitational field. Suppose, for example, that you one day wake up to find yourself trapped inside a box that looks like an elevator. The equivalence principle says that there’s no way tell whether you are indeed 你可能身处地球上的电梯中，也可能被外星人俘获，现在身处宇宙深处一艘伪装成电梯并持续加速的飞船中。（实际上有两种方法可以区分这两种可能性。一种是常识。另一种被称为潮汐力，将在下文描述。）
+
+相反，如果你在电梯中醒来发现自己失重，等效原理表明，没有办法判断是飞船的引擎已经关闭，让你漂浮在太空中，还是你仍在地球上，正朝着必死无疑的命运坠落。这两种情况都是惯性参考系的例子。
+
+我们可以通过时空度规的框架更详细地了解等效原理的运作方式。我们将为一个匀加速观察者构建一套坐标。我们将看到，在这些坐标中，度规采取（1.24）的形式，但使用了我们为恒定引力场假设的那种线性引力势Φ。
+
+首先，我们需要确定一个持续加速观察者的轨迹。这是我们在狭义相对论的第一次讲座中已经解决过的问题（参见那些笔记的第7.4.6节）。这里我们给出一个不同的、稍微快一点的推导。
+
+我们将从惯性参考系的角度来看问题，坐标为 (ct, x, y, z)。电梯将在x方向上经历恒定加速度 a。我们想知道这在惯性参考系中看起来是什么样子；显然轨迹不只是 x = ½at²，因为这很快就会超过光速。相反，我们需要更谨慎一些。
+
+回想一下，如果我们先进行速度为 v₁ 的变换，再进行速度为 v₂ 的变换，得到的速度是： v = (v₁ + v₂) / (1 + v₁v₂/c²)
+
+这促使我们定义快度 φ，它通过 v = c tanhφ 与速度 v 相关联。快度有一个很好的性质：它在连续变换下是线性相加的：变换 φ₁ 后跟变换 φ₂ 等同于一个变换 φ = φ₁ + φ₂。
+
+恒定加速度意味着快度随时间线性增加，这里“时间”指的是加速观察者的时间 τ。我们有 φ = aτ/c，因此，从惯性参考系的角度来看，持续加速电梯的速度是： v(τ) = dx/dt = c tanh(aτ/c)
+
+为了确定观察者的时间 τ 与惯性参考系中时间 t 的关系，我们使用： dt/dτ = γ(τ) = 1/√(1 - v²/c²) = cosh(aτ/c)
+
+⇒ t = (c/a) sinh(aτ/c)
+
+其中我们选择了积分常数，使得 τ = 0 对应 t = 0。然后，为了确定在惯性参考系中行进的距离，我们使用： v(τ) = dx/dt = (dx/dτ) / (dt/dτ) ⇒ dx/dτ = c sinh(aτ/c)
+
+⇒ x = (c²/a) cosh(aτ/c) - c²/a
+
+这里我们选择了积分常数，使得轨迹经过原点。结果的轨迹是时空中的一个双曲线，由以下方程给出： (x + c²/a)² - c²t² = c⁴/a²
+
+这条轨迹在图1中显示为红色。当 τ → ±∞ 时，轨迹渐近于直线 ct = ±(x + c²/a)。这些是图中的虚线。
+
+现在让我们从加速电梯中人的角度来看生活。这样一个观察者会使用什么自然坐标来描述时空中其他地方的事件？显然，对于发生在他自己世界线上的事件，我们可以使用固有时 τ。但我们希望将定义扩展到为整个空间中的点分配时间。此外，我们希望引入一个空间坐标 ρ，使得电梯位于 ρ = 0 处。如何做到这一点呢？
+
+事实证明，存在一个自然的坐标选择。首先，我们画出从点 (ct, x) = (0, -c²/a) 到轨迹上标记为 τ 的点的直线，并宣布这些是恒定 τ 的线；这些是图中的粉色线。接下来我们注意到，对于任何给定的 τ，存在一个洛伦兹变换可以将 x 轴映射到恒定 τ 的粉色线上。我们可以用它来定义空间坐标 ρ。其结果是我们得到一个在惯性参考系坐标 (ct, x) 和加速参考系坐标 (cτ, ρ) 之间的映射，由下式给出： ct = (ρ + c²/a) sinh(aτ/c)
+
+x = (ρ + c²/a) cosh(aτ/c) - c²/a
+
+如承诺的那样，线 ρ = 0 与加速观察者的轨迹重合。此外，恒定 ρ ≠ 0 的线也是双曲线。
+
+坐标 (cτ, ρ) 并不覆盖整个闵可夫斯基空间，而只覆盖图1所示的右手象限。这反映了一个事实：来自某些区域的信号将永远无法到达电梯中的人。这与广义相对论中的视界概念密切相关，我们将在后续章节中更深入地探讨这个主题。
+
+最后，我们可以看看 t the metric experienced by the accelerating observer, using coordinates ρ and τ. We simply substitute the transformation (1.25) into the Minkowski metric to find ds² = −c²dt² + dx² + dy² + dz² = −(1 + aρ/c²)²c²dτ² + dρ² + dy² + dz² This is the metric of (some part of) Minkowski space, now in coordinates adapted to an accelerating observer. These are known as Kottler-Møller coordinates. (They are closely related to the better known Rindler coordinates. We’ll see Rindler space again in Section 6.1.2 when we study the horizon of black holes.) The spatial part of the metric remains flat, but the temporal component is given by g₀₀ = −(1 + aρ/c²)² = −1 − 2aρ/c² + ...
+
+where the ... is simply a²ρ²/c⁴, but we’ve hidden it because it is sub-leading in 1/c².
+
+If we compare this metric with the expectation (1.24), we see that the accelerated observer feels an effective gravitational potential given by Φ(ρ) = aρ This is the promised manifestation of the equivalence principle: from the perspective of an uniformly accelerating observer, the acceleration feels indistinguishable from a linearly increasing gravitational field, corresponding to a constant gravitational force.
+
+Figure 2: The bad news is that you were, in fact, plummeting to your death after all. This is shown on the left (not to scale). The good news is that you get to measure a tidal force on the way down. This is shown on the right.
+
+The Einstein Equivalence Principle The weak equivalence principle tells us that uniform acceleration is indistinguishable from a uniform gravitational field. In particular, there is a choice of inertial frame (i.e. free-fall) in which the effect of the gravitational field vanishes. But what if the gravitational field is non-uniform?
+
+The Einstein equivalence principle states that there exist local inertial frames, in which the effects of any gravitational field vanish. Mathematically, this means that there is always a choice of coordinates — essentially those experienced by a freely falling observer – which ensures that the metric gμν looks like Minkowski space about a given point. (We will exhibit these coordinates and be more precise about their properties in Section 3.3.2.) The twist to the story is that if the metric looks like Minkowski space about one point, then it probably won’t look like Minkowski space about a different point. This means that if you can do experiments over an extended region of space, then you can detect the presence of non-uniform gravitational field.
+
+To illustrate this, let’s return to the situation in which you wake, weightless in an elevator, trying to figure out if you’re floating in space or plummeting to your death. How can you tell?
+
+Well, you could wait and find out. But suppose you’re impatient. The equivalence principle says that there is no local experiment you can do that will distinguish between these two possibilities. But there is a very simple “non-local” experiment: just drop two test masses separated by some distance. If you’re floating in space, the test masses will simply float there with you. Similarly, if you’re plummeting towards your death then the test masses will plummet with you. However, they will each be attracted to the centre of the Earth which, for two displaced particles, is in a slightly different direction as shown in Figure 2. This means that the trajectories followed by the particles will slightly converge. From your perspective, this will mean that the two test masses will get closer. This is not due to their mutual gravitational attraction. (The fact they’re test masses means we’re ignoring this). Instead, it is an example of a tidal force that signifies you’re sitting in a non-uniform gravitational field. We will meet the mathematics behind these tidal forces in Section 3.3.4.
+
+1.2.5 Gravitational Time Dilation Even before we solve the Einstein equations, we can still build some intuition for the spacetime metric. As we’ve seen, for weak gravitational fields Φ(x), we should identify the temporal component of the metric as g₀₀(x) = 1 + 2Φ(x)/c² (1.26)
+
+This is telling us something profound: there is a connection between time and gravity.
+
+To be concrete, we’ll take the Newtonian potential that arises from a spherical object of mass M, Φ(r) = −GM/r The resulting shift in the spacetime metric g₀₀ means that an observer sitting at a fixed distance r will measure a time interval, dτ² = g₀₀dt² = (1 − 2GM/rc²)dt² This means that if an asymptotic observer, at r → ∞, measures time t, then an observer at distance r will measure time T given by T(r) = t √(1 − 2GM/rc²)
+
+We learn that time goes slower in the presence of a massive, gravitating object.
+
+We can make this more quantitative. Consider two observers. The first, Alice, is relaxing with a picnic on the ground at radius r_A. The second, Bob, is enjoying a romantic trip for one in a hot air balloon, a distance r_B = r_A + Δr higher. The time measured by Bob The time dilation between the surface and an altitude ∆r above the Earth is given by t_B = t_A √(1 - 2GM / ((r_A + ∆r) c²)) ≈ t_A (1 - GM / (r_A c²) + GM ∆r / (r_A² c²))
+
+≈ t_A √(1 - 2GM / (r_A c²)) * (1 + GM ∆r / (r_A² c²)) = T_A (1 + GM ∆r / (r_A² c²))
+
+where we’ve done a double expansion, assuming both ∆r ≪ r_A and 2GM / r_A c² ≪ 1.
+
+If the hot air balloon flies a distance ∆r = 1000 m above the ground then, taking the radius of the Earth to be r ≈ 6000 km, the difference in times is of order 10⁻¹². This means that, over the course of a day, Bob ages by an extra 10⁻⁸ seconds or so.
+
+This effect was first measured by Hafele and Keating in the 1970s by flying atomic clocks around the world on commercial airlines, and has since been repeated a number of times with improved accuracy. In all cases the resultant time delay, which in the experiments includes effects from both special and general relativity, was in agreement with theoretical expectations.
+
+The effect is more pronounced in the vicinity of a black hole. We will see in Section 1.3 that the closest distance that an orbiting planet can come to a black hole is r = 3GM/c². (Such orbits are necessarily highly elliptical.) In this case, someone on the planet experiences time at the rate T = 1/√3 t ≈ 0.6t, compared to an asymptotic observer at t → ∞. This effect, while impressive, is unlikely to make a really compelling science fiction story. For more dramatic results, our bold hero would have to fly her spaceship close to the Schwarzschild radius R = 2GM/c², later returning to r → ∞ to find herself substantially younger than the friends and family she left behind.
+
+Gravitational Redshift
+
+There is another measurable consequence of the gravitational time dilation. To see this, let’s return to Alice on the ground and Bob, above, in his hot air balloon. Bob is kind of annoying and starts throwing peanuts at Alice. He throws peanuts at time intervals ∆T_B. Alice receives these peanuts (now travelling at considerable speed) at time intervals ∆T_A where, as above, ∆T_A = √((1 + 2Φ(r_B)/c²) / (1 + 2Φ(r_A)/c²)) ∆T_B ≈ (1 + Φ(r_B)/c² - Φ(r_A)/c²) ∆T_B We have r_A < r_B, so Φ(r_A) < Φ(r_B) < 0 and, hence, ∆T_A < ∆T_B. In other words, Alice receives the peanuts at a higher frequency than Bob threw them.
+
+The story above doesn’t only hold for peanuts. If Bob shines light down at Alice with frequency ω_B ∼ 1/∆T_B, then Alice will receive it at frequency ω_A given by ω_A ≈ (1 + (Φ(r_A) - Φ(r_B))/c²)⁻¹ ω_B This is a higher frequency, ω_A > ω_B, or shorter wavelength. We say that the light has been blueshifted. In contrast, if Alice shines light up at Bob, then the frequency decreases, and the wavelength is stretched. In this case, we say that the light has been redshifted as it escapes the gravitational pull. This effect was measured for the first time by Pound and Rebka in 1959, providing the first earthbound precision test of general relativity.
+
+There is a cosmological counterpart of this result, in which light is redshifted in a background expanding space. You can read more about this in the lectures on Cosmology.
+
+1.2.6 Geodesics in Spacetime
+
+So far, we have focussed entirely on the actions describing particles, and have yet to write down an equation of motion, let alone solve one. Now it’s time to address this. We work with the relativistic action for a particle moving in spacetime S = -mc ∫_{σ₁}^{σ₂} dσ L, with L = √(-g_{μν}(x) ẋ^μ ẋ^ν) (1.27)
+
+with ẋ^μ = dx^μ/dσ. This is similar to the non-relativistic action that we used in Section 1.1.1 when we first introduced geodesics. It differs by the square-root factor. As we now see, this introduces a minor complication.
+
+To write down Euler-Lagrange equations, we first compute ∂L/∂x^ρ = - (1 / (2L)) ∂g_{μν} / ∂x^ρ ẋ^μ ẋ^ν  and  ∂L/∂ẋ^ρ = - (1 / L) g_{ρν} ẋ^ν The equations of motion are then d/dσ (∂L/∂ẋ^ρ) - ∂L/∂x^ρ = 0  ⇒  d/dσ (g_{ρν} ẋ^ν / L) - (1 / (2L)) ∂g_{μν} / ∂x^ρ ẋ^μ ẋ^ν = 0 This is almost the same as the equations that led us to the geodesics in Section 1.1.1. There is just one difference: the differentiation d/dσ can hit the 1/L, giving an extra term beyond what we found previously. This can be traced directly to the fact we have a square-root in our original action.
+
+Following the same steps that we saw in Section 1.1.1, and relabelling the indices, the equation of motion can be written as g_{μρ} ẍ^ρ + (1/2)(∂g_{μρ}/∂x^ν + ∂g_{μν}/∂x^ρ - ∂g_{νρ}/∂x^μ) ẋ^ν ẋ^ρ = (g_{μρ} ẋ^ρ / L) * (dL/dσ) (1.28)
+
+This is the relativistic version of the geodesic equation (1.6). We see that the square-root factor in the action results in the extra term on the right-hand side.
+
+Life would be much nicer if there was some way to ignore this extra term. This would be true if, for some reason, we could set dL/dσ = 0 Happily, this is within our power. We simply need to pick a choice of parameterisation of the worldline to make it hold! All we have to do is figure out what parameterisation makes this work.
+
+In fact, we’ve already met the right choice. Recall that the proper time τ(σ) is defined as (1.15)
+
+σ (cid:90) σ (cid:114) dxµdxν cτ(σ) = dσ′ L(σ′) = dσ′ −g (x) (1.29)
+
+µν dσ′ dσ′ 0 0 This means that, by construction, dτ c = L(σ)
+
+dσ If we then choose to parameterise the path by τ itself, the Lagrangian is (cid:114) (cid:114)
+
+dxµdxν dσ dxµdxν L(τ) = −g (x) = −g (x) = c µν µν dτ dτ dτ dσ dσ The upshot of this discussion is that if we parameterise the worldline by proper time then L = c is a constant and, in particular, dL/dτ = 0. In fact this holds for any parameter related to proper time by τ˜ = aτ +b with a and b constants. These are said to be affine parameters of the worldline.
+
+Whenever we pick such an affine parameter to label the worldline of a particle, the right-hand side of the equation of motion (1.28) vanishes. In this case, we are left with the obvious extension of the geodesic equation (1.7) to curved spacetime d2xµ dxν dxρ +Γµ = 0 (1.30)
+
+dτ˜2 νρ dτ˜ dτ˜ where the Christoffel symbols are given, as in (1.8), by (cid:18) (cid:19)
+
+1 ∂g ∂g ∂g Γµ (x) = gµσ σν + σρ − νρ (1.31)
+
+νρ 2 ∂xρ ∂xν ∂xσ A Useful Trick We’ve gone on something of a roundabout journey. We started in Section 1.1.1 with a non-relativistic action (cid:90)
+
+S = dt g (x)x˙ix˙j ij and found that it gives rise to the geodesic equation (1.7).
+
+However, to describe relativistic physics in spacetime, we’ve learned that we need to incorporate reparameterisation invariance into our formalism resulting in the action (cid:90) (cid:114)
+
+dxµdxν S = −mc dσ −g (x)
+
+µν dσ dσ Nonetheless, when we restrict to a very particular parameterisation – the proper time τ – we find exactly the same geodesic equation (1.30) that we met in the non-relativistic case.
+
+This suggests something of a shortcut. If all we want to do is derive the geodesic equation for some metric, then we can ignore all the shenanigans and simply work with the action (cid:90) dxµdxν S = dτ g (x) (1.32)
+
+useful µν dτ dτ This will give the equations of motion that we want, provided that they are supple- mented with the constraint dxµdxν g = −c2 (1.33)
+
+µν dτ dτ This is the requirement that the geodesic is timelike, with τ the proper time. This constraint now drags the particle into the future. Note that neither (1.32) nor (1.33)
+
+depend on the mass m of the particle. This reflects the equivalence principle, which tells us that each particle, regardless of its mass, follows a geodesic.
+
+Moreover, we can also use (1.32) to calculate the geodesic motion of light, or any other massless particle. These follow null geodesics, which means that we simply need to replace (1.33) with dxµdxν g = 0 (1.34)
+
+µν dτ dτ While the action S is, as the name suggests, useful, you should be cautious in how useful you wield it. It doesn’t, as written, have the right dimensions for an action. Moreover, if you try to use it to do quantum mechanics, or statistical mechanics, then it might lead you astray unless you are careful in how you implement the constraint.
+
+## 1.3 A First Look at the Schwarzschild Metric
+
+Physics was born from our attempts to understand the motion of the planets. The problemwaslargelysolvedbyNewton,whowasabletoderiveKepler’slawsofplanetary motion from the gravitational force law. This was described in some detail in our first lecture course on Dynamics and Relativity.
+
+Newton’s laws are not the end of the story. There are relativistic corrections to the orbits of the planets that can be understood by computing the geodesics in the background of a star.
+
+To do this, we first need to understand the metric created by a star. This will be derived in Section 6. For now, we simply state the result: a star of mass M gives rise to a curved spacetime given by (cid:18)
+
+2GM (cid:19) (cid:18)
+
+2GM (cid:19)−1 ds2 = − 1− dt2 + 1− dr2 +r2(dθ2 +sin2θdϕ2)
+
+rc2 rc2 This is the Schwarzschild metric. The coordinates θ and ϕ are the usual spherical polar coordinates, with θ ∈ [0,π] and ϕ ∈ [0,2π).
+
+We will have to be patient to fully understand all the lessons hiding within this metric. But we can already perform a few sanity checks. First, note that far from the star, as r → ∞, it coincides with the Minkowski metric as it should. Secondly, the g component is given by (cid:18) (cid:19)
+
+2Φ GM g = − 1+ with Φ(r) = − 00 c2 r which agrees with our expectation (1.24) with Φ = −GM/r the usual Newtonian potential for an object of mass M.
+
+The Schwarzschild metric also has some strange things going on. In particular, the g component diverges at r = R where rr s 2GM R = s c2 is called the Schwarzschild radius. This is the event horizon of a black hole and will be explored more fully in Section 6. However, it turns out that space around any spherically symmetric object, such as a star, is described by the Schwarzschild metric, now restricted to r > R , with R the radius of the star.
+
+star star In what follows we will mostly view the Schwarzschild metric as describing the space- timeoutsideastar, andtreattheplanetsastestparticlesmovingalonggeodesicsinthis metric. We will also encounter a number of phenomena that happen close to \( r = R_s \); these are relevant only for black holes, since \( R_s \ll R_\star \). However we will, for now, avoid any discussion of what happens if you venture past the event horizon.
+
+1.3.1 The Geodesic Equations
+
+Our first task is to derive the equations for a geodesic in the Schwarzschild background. To do this, we use the quick and easy method of looking at the action (1.32) for a particle moving in the Schwarzschild spacetime, \[ S = \int d\tau \, L = \int d\tau \, g_{\mu\nu}(x) \dot{x}^\mu \dot{x}^\nu \]
+
+\[ = \int d\tau \, \left[ -A(r) c^2 \dot{t}^2 + A^{-1}(r) \dot{r}^2 + r^2 (\dot{\theta}^2 + \sin^2 \theta \dot{\phi}^2) \right] \tag{1.35} \]
+
+with \( A(r) = 1 - R_s/r \) and \( \dot{x}^\mu = dx^\mu/d\tau \).
+
+When we solved the Kepler problem in Newtonian mechanics, we started by using the conservation of angular momentum to restrict the problem to a plane. We can use the same trick here. We first look at the equation of motion for \( \theta \), \[ \frac{d}{d\tau} \frac{\partial L}{\partial \dot{\theta}} - \frac{\partial L}{\partial \theta} = 0 \quad \Rightarrow \quad \frac{d}{d\tau} (r^2 \dot{\theta}) = r^2 \sin \theta \cos \theta \dot{\phi}^2 \]
+
+This tells us that if we kick the particle off in the \( \theta = \pi/2 \) plane, with \( \dot{\theta} = 0 \), then it will remain there for all time. This is the choice we make.
+
+We still have to compute the magnitude of the angular momentum. Like many conserved quantities, this follows naturally by identifying the appropriate ignorable coordinate. Recall that if the Lagrangian is independent of some specific coordinate \( x \) then the Euler-Lagrange equations immediately give us a conserved quantity, \[ \frac{\partial L}{\partial x} = 0 \quad \Rightarrow \quad \frac{d}{d\tau} \frac{\partial L}{\partial \dot{x}} = 0 \]
+
+This is a baby version of Noether’s theorem.
+
+The action (1.35) has two such ignorable coordinates, \( t \) and \( \phi \). The conserved quantity associated to \( \phi \) is the magnitude of the angular momentum, \( l \). (Strictly, the angular momentum per unit mass.) Restricting to the \( \theta = \pi/2 \) plane, we define this to be \[ 2l = \frac{\partial L}{\partial \dot{\phi}} = 2r^2 \dot{\phi} \tag{1.36} \]
+
+where the factor of 2 on the left-hand side arises because the kinetic terms in (1.35) don’t come with the usual factor of \( 1/2 \). Meanwhile, the conserved quantity associated to \( t(\tau) \) is \[ -2E = \frac{\partial L}{\partial \dot{t}} = -2A(r)c^2 \dot{t} \tag{1.37} \]
+
+The label \( E \) is not coincidence: it should be interpreted as the energy of the particle (or, strictly, the energy divided by the rest mass). To see this, we look far away: as \( r \rightarrow \infty \) we have \( A(r) \approx 1 \) and we return to Minkowski space. Here, we know from our lectures on Special Relativity that \( dt/d\tau = \gamma \). We then have \( E \rightarrow \gamma c^2 \) as \( r \rightarrow \infty \). But this is precisely the energy per unit rest mass of a particle in special relativity.
+
+We should add to these conservation laws the constraint (1.33) which tells us that the geodesic is parameterised by proper time. Restricting to \( \theta = \pi/2 \) and \( \dot{\theta} = 0 \), this becomes \[ -A(r)c^2 \dot{t}^2 + A^{-1}(r) \dot{r}^2 + r^2 \dot{\phi}^2 = -c^2 \tag{1.38} \]
+
+If we now substitute in the expressions for the conserved quantities \( l \) and \( E \), this constraint can be rewritten as \[ \frac{1}{2} \dot{r}^2 + V_{\text{eff}}(r) = \frac{1}{2} \frac{E^2}{c^2} \tag{1.39} \]
+
+The effective potential \( V_{\text{eff}}(r) \) includes the factor \( A(r) \) which we now write out in full, \[ V_{\text{eff}}(r) = c^2 \left( \frac{l^2}{2r^2} \right) \left( 1 - \frac{2GM}{rc^2} \right) \tag{1.40} \]
+
+Our goal is to solve for the radial motion (1.39). We subsequently use the expression (1.36) to solve for the angular motion and, in this way, determine the orbit.
+
+V N(r)
+
+Figure 3: The effective potential for Newtonian gravity.
+
+1.3.2 Planetary Orbits in Newtonian Mechanics
+
+Before we solve the full geodesic equations, it is useful to first understand how they differ from the equations of Newtonian gravity. To see this, we write \[ V_{\text{eff}}(r) = \frac{c^2}{2} - \frac{GM}{r} + \frac{l^2}{2r^2} - \frac{l^2 GM}{r^3 c^2} \]
+
+The non-relativistic limit is, roughly, \( c^2 \rightarrow \infty \). This means that we drop the final term in the potential that scales as \( 1/r^3 \). (Since \( c \) is dimensionful, it is more accurate to say that we restrict to situations with \( l^2 GM/r^3 \ll c^2 \).) Meanwhile, we expand the relativistic energy per unit mass in powers of \( 1/c^2 \), \[ E = c^2 + E + \dots \]
+
+where \( E \) is the non-relativistic energy and ... are terms suppressed by \( 1/c^2 \). Substituting these expressions into (1.39), we find \[ \dot{r}^2 + V_N(r) = E \]
+
+where \( V_N \) is the non-relativistic potential which includes both the Newtonian gravitational potential and the angular momentum barrier, \[ V_N(r) = -\frac{GM}{r} + \frac{l^2}{2r^2} \]
+
+These are precisely the equations that we solved in our first course on classical mechanics. (See Section 4.3 of the lectures on Dynamics and Relativity.) The only difference is that \( r(\tau) \) is parameterised by proper time \( \tau \) rather than the observer’s time \( t \). However, these coincide in the non-relativistic limit that we care about.
+
+We can build a lot of intuition for the orbits by looking at the potential \( V_N(r) \), as shown in Figure 3. At large distances, the attractive \( -1/r \) gravitational potential dominates, while the angular momentum prohibits the particles from getting too close to the origin, as seen in the \( +1/r^2 \) term which dominates at short distances. The potential has a minimum at \[ V_N'(r_\star) = \frac{GM}{r_\star^2} - \frac{l^2}{r_\star^3} = 0 \quad \Rightarrow \quad r_\star = \frac{l^2}{GM} \]
+
+A particle can happily sit at \( r = r_\star \) for all time. This circular orbit always has energy \( E < 0 \), reflecting the fact that \( V_N(r_\star) < 0 \).
+
+Alternatively, the particle could oscillate back and forth about the minima. This 这意味着 E < 0，因此粒子无法逃逸到 r → ∞。这种运动描述了到原点的距离变化的轨道；我们将在下文看到轨道的形状是椭圆。最后，具有 E ≥ 0 的轨迹描述了飞掠，其中粒子接近恒星，但只到达某一最近点后便飞走，一去不复返。
+
+以上讨论只告诉我们径向运动。要确定完整的轨道，我们需要使用角动量方程 φ̇ = l/r²。让我们回顾一下如何求解这些耦合方程。我们从使用一个标准技巧开始，即引入新坐标
+
+u = 1/r
+
+然后我们将这个逆径向坐标视为角变量的函数：u = u(φ)。这处理起来很方便，因为我们有
+
+u̇ = φ̇ (du/dφ) = l u²
+
+其中在最后一步等式中，我们使用了角动量守恒 (1.33) 来写出 φ̇ = l u²。利用这个，我们有
+
+ṙ = −u̇ / u² = − (l / u²) (d u / d φ) (1.41)
+
+能量守恒方程则为
+
+(du/dφ)² + u² = G² M² / l⁴ + 2E / l² (1.42)
+
+但这现在可以直截了当地求解。我们选择将解写为
+
+u(φ) = (G M / l²) (1 + e cos φ) (1.43)
+
+回到我们原来的径向变量，我们有
+
+r(φ) = (l² / (G M)) * 1 / (1 + e cos φ) (1.44)
+
+这是圆锥曲线的方程，其离心率为
+
+e = √(1 + (2E l²)/(G² M²))
+
+轨道的形状取决于 e。具有 E ≥ 0 的粒子不在束缚轨道上，并在 e > 1 时描绘出双曲线，在 e = 1 时描绘出抛物线。相比之下，行星具有能量 E < 0，相应地，离心率 e < 1。在这种情况下，轨道是椭圆。
+
+为了与相对论结果进行比较，我们注意到牛顿轨道的一个重要特征：它不进动。要看到这一点，请注意对于我们的解 (1.44)，行星最接近原点的点——称为近日点——总是在轨道的同一个点 φ = 0 处出现。
+
+1.3.3 广义相对论中的行星轨道
+
+我们现在对在史瓦西度规中沿测地线运动的大质量粒子的完全相对论性运动重复此分析。我们已经看到有效势的形式为 (1.40)
+
+V_eff(r) = − GM/(2r) + l²/(2r²) − (G M l²)/(r³ c²)
+
+相对论修正项的量级为 -1/r³，它在短距离上改变了牛顿的情况，因为它确保当 r → 0 时，势 V_eff(r) → −∞。事实上，该势总是在史瓦西半径 r = R_s = 2GM/c² 处为零，即 V_eff(R_s) = 0。势的形状取决于角动量的大小。为了理解这一点，我们计算临界点
+
+V'_eff(r) = GM/r² − l²/r³ + (3G M l²)/(r⁴ c²) = 0 ⇒ G M r² − l² r + (3G M l²)/(c²) = 0 (1.45)
+
+如果判别式为正，则此二次方程有两个解。这发生在角动量足够大时。
+
+l² > 12 G² M² / c²
+
+在这种情况下，势看起来像左边的图。我们将二次方程 (1.45) 的两个解称为 r₊ 和 r₋，且 r₊ > r₋。最外层的解 r₊ 是势的极小值，对应一个稳定的圆轨道；最内层的解 r₋ 是势的极大值，对应一个不稳定的圆轨道。
+
+与牛顿情况一样，也存在粒子绕极小值振荡的非圆轨道。然而，没有理由认为这些轨道通常会保持椭圆形。我们将在下文研究它们的一些性质。
+
+另请注意，与牛顿情况不同，角动量势垒现在是有限的：无论角动量多大，具有足够能量（以向内径向速度形式）的粒子总能穿过势垒，之后它将向 r = 0 掉落。我们将在第 6 节讨论黑洞时对此作更多说明。
+
+如果角动量不够大，
+
+l² < 12 G² M² / c²
+
+则势 V_eff(r) 没有转折点，看起来像右边的图。在这种情况下，没有稳定的轨道；所有粒子最终都将落向原点。
+
+边界情况是 l² = 12 G² M² / c²。在这种情况下，转折点是一个鞍点，在
+
+r = 6 G M / c² (1.46)
+
+处。这是最内层稳定圆轨道。在距离 r < rISCO 处不可能有圆轨道，尽管非圆轨道可以延伸到距离 r < rISCO 的范围内。
+
+最内层稳定轨道在黑洞天体物理学中扮演着重要角色，它标志着围绕黑洞的吸积盘的内边缘。粗略地说，这在事件视界望远镜拍摄的著名照片中可以看到。这里的“粗略地说”部分是因为光线实际上来自所谓的光子球，它类似于 ISCO，但针对的是光，部分是因为来自吸积盘的光在传播过程中会严重扭曲。
+
+fashion, so what we see is very different (Figure 6) from what is there! (Furthermore, the black hole in the picture is almost certainly rotating. This makes \(r_{\text{ISCO}}\) smaller than \(6GM/c^2\) and the picture significantly harder to interpret.)
+
+We could also ask: how close can a non-circular orbit get? This occurs in the limit \(l \to \infty\), where a quick calculation shows that the maximum of \(V_{\text{eff}}\) tends to \(r \to 3GM/c^2\). This is the closest that any timelike geodesic can get if it wishes to return.
+
+Perihelion Precession To understand the orbits in more detail, we can attempt to solve the equations of motion. We follow our Newtonian analysis, introducing the inverse parameter \(u = 1/r\) and converting \(\dot{r}\) into \(du/d\phi\). Our equation (1.39) becomes \[\left(\frac{du}{d\phi}\right)^2 + u^2 - \frac{2GM}{l^2}u - \frac{2GM E^2}{l^2 c^2} = -\frac{c^2}{l^2}\]
+
+This equation is considerably harder than our Newtonian orbit equation (1.42). To proceed, it’s simplest to first differentiate again with respect to \(\phi\). This gives \[\frac{d^2u}{d\phi^2} + u - \frac{GM}{l^2} - \frac{3GM}{c^2}u^2 = 0\]
+
+where we have assumed that \(du/d\phi \neq 0\), which means that we are neglecting the simple circular solution. The equation above differs from the analogous Newtonian equation by the final term (which indeed vanishes if we take \(c^2 \to \infty\)). There is no closed-form solution to this equation, but we can make progress by working perturbatively. To this end, we define the dimensionless parameter \[\beta = \frac{3G^2M^2}{l^2c^2}\]
+
+and write the orbit equation as \[\frac{d^2u}{d\phi^2} + u - \frac{GM}{l^2} = \beta u^2 \quad (1.47)\]
+
+We will assume \(\beta \ll 1\) and look for series solutions of the form \[u = u_0 + \beta u_1 + \beta^2 u_2 + ...\]
+
+To leading order, we can ignore the terms proportional to \(\beta\) on the right-hand-side of (1.47). This gives us an equation for \(u_0\) which is identical to the Newtonian orbit \[\frac{d^2u_0}{d\phi^2} + u_0 - \frac{GM}{l^2} = 0 \Rightarrow u_0(\phi) = \frac{GM}{l^2} (1 + e\cos\phi)\]
+
+We now feed this back into the equation (1.47) to get an equation for \(u_1\), \[\frac{d^2u_1}{d\phi^2} + u_1 = u_0^2 = \frac{G^2M^2}{l^4} \left(1 + \frac{e^2}{2} + 2e\cos\phi + \frac{e^2}{2}\cos2\phi\right)\]
+
+You can check that this is solved by \[u_1 = \frac{G^2M^2}{l^4} \left(1 + \frac{e^2}{2} + e\phi\sin\phi - \frac{e^2}{6}\cos2\phi\right)\]
+
+We could proceed to next order in \(\beta\), but the first correction \(u_1\) will be sufficient for our purposes.
+
+The interesting term is the \(\phi\sin\phi\) in \(u_1\). This is not periodic in \(\phi\) and it means that the orbit no longer closes: it sits at a different radial value at \(\phi = 0\) and \(\phi = 2\pi\). To illustrate this, we ask: when is the particle closest to origin? This is the perihelion of the orbit. It occurs when \[\frac{du}{d\phi} \approx \frac{d(u_0 + \beta u_1)}{d\phi} = 0 \Rightarrow -e\sin\phi + \beta \left( e\sin\phi + e\phi\cos\phi + \frac{e^2}{3}\sin2\phi \right) = 0\]
+
+Clearly this is solved by \(\phi = 0\). The next solution is at \(\phi = 2\pi + \delta\) where, due to our perturbative expansion, \(\delta\) will be small. Expanding our expression above, and dropping terms of order \(\delta^2\) and \(\beta\delta\), we find the precession of the perihelion given by \[\delta = 2\pi\beta = 6\pi \frac{G^2M^2}{l^2c^2} \quad (1.48)\]
+
+For planets orbiting the Sun, the perihelion shift depends only on the angular momentum \(l\) of the planet and the mass of the Sun, denoted \(M_\odot\). The latter is \(M_\odot \approx 2\times10^{30}\) kg, corresponding to the length scale \[\frac{GM_\odot}{c^2} \approx 1.5\times10^{3} \text{ m}\]
+
+If a planet on an almost-circular orbit of radius \(r\) orbits the sun in a time \(T\), then the angular momentum (1.36) is \[l = \frac{2\pi r^2}{T}\]
+
+Recall that Kepler’s third law (which follows from the inverse square law) tells us that \(T \propto r^{3/2}\). This means that \(l \propto r^{1/2}\) and, correspondingly, the perihelion shift (1.48) is proportional to \(\delta \propto 1/r\). We learn that the effect should be more pronounced for planets closest to the Sun.
+
+The closest planet to the Sun is Mercury which, happily, is also the only planet whose orbit differs significantly from a circle; it has eccentricity \(e \approx 0.2\), the radius varying from \(4.6\) to \(7\times10^{10}\) m. Mercury orbits the Sun once every \(88\) days but, in fact, we don’t need to use this to compute the angular momentum and precession. Instead, we can invoke the elliptic formula (1.44) which tells us that the minimum \(r_-\) and maximum distance \(r_+\) is given by \[r_\pm = \frac{l^2}{GM(1\mp e)} \Rightarrow l^2 = GMr_+(1-e) \quad (1.49)\]
+
+from which we get the precession \[\delta = \frac{6\pi GM}{c^2 r_+ (1-e)}\]
+
+Plugging in the numbers gives \(\delta \approx 5.0 \times 10^{-7}\). This is rather small. However, the perihelion precession is cumulative. Over a century, Mercury completes \(415\) orbits, giving the precession of \(2.1\times10^{-4}\) per century.
+
+The result above is quoted in radians. Astronomers prefer units of arcseconds, with \(3600\) arcseconds (denoted as \(3600''\)) in a degree and, of course, \(360\) degrees in \(2\pi\) radians. This means that \(1'' \approx 4.8\times10^{-6}\) radians. Our calculation from general relativity gives \(43''\) per century as the shift in the perihelion. This was one of the first successful predictions of the theory. Subsequently, the perihelion shift of Venus and Earth has been measured and is in agreement with the predictions of general relativity.
+
+1.3.4 The Pull of Other Planets The general relativistic contribution of \(43''\) per century is not the full story. In fact the observed perihelion shift of Mercury is much larger, a It around 575''. The vast majority of this is due to the gravitational force of other planets and can be understood entirely within the framework of Newtonian gravity. For completeness, we now give an estimate of these effects.
+
+We start by considering the effect of a single, heavy planet with mass M', orbiting at a distance R from the Sun. Of course, the 3-body problem in Newtonian gravity is famously hard. However, there is an approximation which simplifies the problem tremendously: we consider the outer planet to be a circular ring, with mass per unit length given by M'/2πR.
+
+It's not obvious that this is a good approximation. Each of the outer planets takes significantly longer to orbit the Sun than Mercury. This suggests for any given orbit of Mercury, it would be more appropriate to treat the position of the outer planets to be fixed. (For example, it takes Jupiter 12 years to orbit the Sun, during which time Mercury has completed 50 orbits.) This means that the perihelion shift of Mercury depends on the position of these outer planets and that's a complicated detail that we're happy to ignore. Instead, we want only to compute the total perihelion shift of Mercury averaged over a century. And for this, we may hope that the ring approximation, in which we average over the orbit of the outer planet first, suffices.
+
+In fact, as we will see, the ring approximation is not particularly good: the calculation is non-linear and averaging over the position of the outer planet first does not commute with averaging over the orbits of Mercury. This means that we will get a ballpark figure for the perihelion precession of Mercury but, sadly, not one that is accurate enough to test relativity.
+
+We would like to determine the Newtonian potential felt by a planet which orbits a star of mass M and is surrounded, in the same plane, by a ring of density M'/2πR. The geometry is shown in the figure. Obviously, the potential (per unit mass) from the star is V_star(r) = -GM/r.
+
+We need to calculate the potential (per unit mass) from the ring. This is V_ring(r) = -(GM'/(2π)) ∫_0^{2π} (1/x(θ)) dθ with x² = R² + r² - 2Rr cosθ (1.50)
+
+We use the fact that Mercury is much closer to the Sun than the other planets and Taylor expand the integral in r²/R². To leading order we have V_ring(r) = -(GM'/R) [1 + (1/4)(r/R)² + ...]
+
+Dropping constant terms, we learn that the effective potential (per unit mass) experienced by Mercury is, to leading order, V_eff(r) = -GM/r + l²/(2r²) - Σ_i GM' r² / (4 R_i³) + ...
+
+where we've included the angular momentum barrier and the sum is over all the outer planets. In what follows, we must assume that the r² correction term is suitably small so that it doesn't destabilise the existence of orbits. Obviously, this is indeed the case for Mercury.
+
+Now we can follow our calculation for the perihelion precession in general relativity. Conservation of energy tells us ṙ² + V_eff(r) = E Working with everyone's favourite orbit variable, u = 1/r, viewed as u = u(ϕ), the general relativistic equation (1.47) is replaced by d²u/dϕ² + u - GM/l² = -α (GM)⁴/(l⁸ u³) (1.51)
+
+where this time our small dimensionless parameter is α = l⁶/(2G³M⁴) Σ_i (M' (1-e)³ / R_i³) ≈ Σ_i (M'/M) (r/R_i)³ where, in the second equality, we've used (1.49); here M is the mass of the Sun, r is the outermost radius of Mercury's orbit, and e ≈ 0.2 is the eccentricity of Mercury's orbit. We safely have α ≪ 1 and so we look for series solutions of the form u = u_0 + α u_1 + α² u_2 + ...
+
+We've already met the leading order solution, u_0(ϕ) = (GM/l²)(1 + e cosϕ) with e the eccentricity of the planet's orbit. Feeding this into (1.51), we get an equation for the first correction d²u_1/dϕ² + u_1 = - (GM)⁴/(l⁸) * 1/u_0³ = - (GM/l²) * 1/(1 + e cosϕ)³ This equation is somewhat harder to solve than the general relativistic counterpart. To proceed, we will assume that the eccentricity is small, e ≪ 1, and solve the equation to leading order in e. Then this equation becomes d²u_1/dϕ² + u_1 = - (GM/l²) (1 - 3e cosϕ)
+
+which has the solution u_1 = -(GM/l²) [1 + (3e/2) ϕ sinϕ]
+
+The precession of the perihelion occurs when du/dϕ = 0 ⇒ -e sinϕ + (3eα/2) (sinϕ + ϕ cosϕ) = 0 As in the relativistic computation, this is solved by ϕ = 0 and by ϕ = 2π + δ where, to leading order, the shift of the perihelion is given by δ = 3π α = (3π/2) Σ_i (M'/M) (r/R_i)³ with r = (1-e)r_0. Once again, we can put the numbers in. The mass of the Sun is M = M_⊙ ≈ 2×10³⁰ kg. The formula is very sensitive to the radius of Mercury's orbit: we use r ≈ 5.64×10¹⁰ m. The relevant data for the other planets is then Planet Mass (10²⁴ kg) Distance (10¹¹ m) (M'/M_⊙)(r/R)³ Venus 4.9 1.1 3.6×10⁻⁷ Earth 6.0 1.5 1.7×10⁻⁷ Mars 0.64 2.3 5.1×10⁻⁹ Jupiter 1900 7.8 3.9×10⁻⁷ Saturn 570 14 2.0×10⁻⁸ A quick glance at this table shows that the largest contributions come from Jupiter (because of its mass) and Venus (because of its proximity), with the Earth in third place. (The contribution ions from Uranus, Neptune and Pluto are negligible.)
+
+Adding these contributions, we find δ ≈ 40×10−7 radians per orbit. This corresponds to 344′′ per century, significantly larger than the 43′′ per century arising from general relativity but not close to the correct Newtonian value of 532′′.
+
+Higher Order Contributions Our analysis above gave us a result of 380′′ per century for the perihelion shift of Mercury. A more precise analysis gives 532′′ coming from the Newtonian pull of the other planets.
+
+We made a number of different approximations in the discussion above. But the one that introduced the biggest error turns out to be truncating the ring potential (1.50) at leading order in r/R. This, it turns out, is particularly bad for Venus since its orbit compared to Mercury is only (r /R) ≈ 0.5. To do better, we can expand the potential (1.50) to higher orders. We have Vring(r) = −GM′/(2πR) ∫_0^{2π} 1/√(R^2 + r^2 − 2Rr cosθ) dθ = −GM′/R [1 + (1/4)(r/R)^2 + (9/64)(r/R)^4 + (25/256)(r/R)^6 + ...]
+
+An identical calculation to the one above now gives a corresponding perturbative expansion for the perihelion shift, δ = π Σ_i (M′_i/M) [0 + (3/2)(r_0/R_i)^3 + (45/16)(r_0/R_i)^5 + (525/128)(r_0/R_i)^7 + ...]
+
+with r_0 = (1 − e)a the mean orbit of Mercury. The extra terms give significant contributions for Venus, and smaller for Earth. Using the value of r ≈ 5.64×10^10 m and the slightly more accurate R′ ≈ 10.6×10^10 m for Venus, the sum of the contributions gives δ ≈ 59 × 10−7 radians per orbit, or 507′′ per century, somewhat closer to the recognised value of 532′′ per century but still rather short.
+
+1.3.5 Light Bending It is straightforward to extend the results above to determine the null geodesics in the Schwarzschild metric. We continue to use the equations of motion derived from S_{useful} in (1.35). But this time we replace the constraint (1.38) with the null version (1.34), which reads −A(r)c^2 t˙^2 + A^{-1}(r) r˙^2 + r^2 ϕ˙^2 = 0 The upshot is that we can again reduce the problem to radial motion, 1/2 r˙^2 + Vnull(r) = 1/2 E^2/c^2 (1.52)
+
+but now with the effective potential (1.40) replaced by Vnull(r) = (l^2/(2r^2)) (1 − 2GM/(r c^2))
+
+A typical potential is shown in Figure 9. Note that, as r → ∞, the potential asymptotes to zero from above, while Vnull → −∞ as r → 0. The potential has a single maximum at Vnull′(r⋆) = −l^2/r^3 + 3G M l^2/(r^4 c^2) = 0 ⇒ r⋆ = 3GM/c^2 (1.53)
+
+We learn that there is a distance, r⋆, at which light can orbit a black hole. This is known as the photon sphere. The fact that this sits on a maximum of the potential means that this orbit is unstable. In principle, focussing effects mean that much of the light emitted from an accretion disc around a non-rotating black hole emerges from the photon sphere. In practice, it seems likely that photograph of the Event Horizon Telescope does not have the resolution to see this.
+
+The fate of other light rays depends on the relative value of their energy E and angular momentum l. To see this, note that the maximum value of the potential is Vnull(r⋆) = l^2 c^4/(54 G^2 M^2)
+
+The physics depends on how this compares to the right-hand side of (1.52), E^2/2c^2. There are two possibilities • E < lc^3/√(27GM): In this case, the energy of light is lower than the angular momentum barrier. This means that light emitted from r < r⋆ cannot escape to infinity; it will orbit the star, before falling back towards the origin. The flip side is that light coming from infinity will not fall into the star; instead it will bounce off the angular momentum barrier and return to infinity. In other words, the light will be scattered. We will compute this in more detail below.
+
+• E > lc^3/√(27GM): Now the energy of the light is greater than the angular momentum barrier. This means that light emitted from r < r⋆ can escape to infinity. (We will see in Section 6 that this is only true for light in the region R < r < r⋆.) Meanwhile, light coming in from infinity is captured by the black hole and asymptotes to r → 0.
+
+To understand the trajectories of light-rays in more detail, we again adopt the inverse parameter u = 1/r. The equation of motion (1.52) then becomes (du/dϕ)^2 + u^2 (1 − 2GM u/c^2) = E^2/(l^2 c^2)
+
+If we now differentiate again, we get d^2u/dϕ^2 + u = 3GM/c^2 u^2 (1.54)
+
+We will again work perturbatively. First, suppose that we ignore the GM term on the right-hand side. We have d^2u/dϕ^2 + u = 0 ⇒ u = (1/b) sinϕ for constant b. The meaning of this solution becomes clearer if we write it as r sinϕ = b: this is the equation of a horizontal straight line, a distance b above the origin as shown by the dotted line in Figure 10. The distance b is called the impact parameter.
+
+We will solve the full equation (1.54) perturbatively in th The small parameter is β = GM/(c²b).
+
+We then look for solutions of the form u = u₀ + βu₁ + ... We start with the straight line solution u₀ = (1/b)sinϕ. At leading order, we then have d²u/dϕ² + u = (3sin²ϕ)/(1/b) = (3(1−cos²ϕ))/(2b).
+
+The general solution is u = Acosϕ + Bsinϕ + (3+cos²ϕ)/(2b), where the first two terms are the complementary solution, with A and B integration constants. We pick them so that the initial trajectory at ϕ = π agrees with the straight line u₀. This holds if we choose B = 0 and A = 2/b, so that u → 0 as ϕ → π. To leading order in β, the solution is then u = (1/b) sinϕ + (GM/(2b²c²)) (3+4cosϕ+cos²ϕ).
+
+The question now is: at what angle does the particle escape to r = ∞ or, equivalently, u = 0? Before we made the correction this happened at ϕ = 0. Within our perturbative approach, we can approximate sinϕ ≈ ϕ and cosϕ ≈ 1 to find that the particle escapes at ϕ ≈ −4GM/(bc²).
+
+This light bending is known as gravitational lensing.
+
+For the Sun, GM/c² ≈ 1.5 km. If light rays just graze the surface, then the impact parameter b coincides with the radius of the Sun, R ≈ 7 × 10⁵ km. This gives a scattering angle of ϕ ≈ 8.6×10⁻⁵ radians, or ϕ ≈ 1.8″.
+
+There is a difficulty in testing this prediction: things behind the Sun are rarely visible. However, Nature is kind to us because the size of the moon as seen in the sky is more or less the same as the size of the Sun. (This random coincidence would surely make our planet a popular tourist destination for alien hippies if only it wasn’t such a long way to travel.) This means that during a solar eclipse the light from the Sun is blocked, allowing us to measure the positions of stars whose light passes nearby the Sun. This can then be compared to the usual positions of these stars.
+
+This measurement was first carried out in May 1919, soon after cessation of war, in two expeditions led by Arthur Eddington, one to the island of Principe and the other to Brazil. The data is shown in the figure above. In the intervening century, we have much more impressive evidence of light bending, in which clusters of galaxies distort the light from a background source, often revealing a distinctive ring-like pattern as shown in the right-hand figure.
+
+**Newtonian Scattering of Light**
+
+Before we claim success, we should check to see if the relativistic result (1.55) differs from the Newtonian prediction for light bending. Strictly speaking, there’s an ambiguity in the Newtonian prediction for the gravitational force on a massless particle. However, we can invoke the principle of equivalence which tells us that trajectories are independent of the mass. We then extrapolate this result, strictly derived for massive particles, to the massless case.
+
+Scattering under Newtonian gravity follows a hyperbola (1.43)
+
+1/r = (1/(l²GM)) (1+ecosϕ)
+
+with e > 1. The parameterisation of the trajectory is a little different from the relativistic result, as the light ray asymptotes to infinity at cosϕ = −1/e. For e ≫ 1, where the trajectory is close to a straight line, the asymptotes occur at ϕ = ±(π+δϕ) as shown in Figure 13. The scattering angle is then 2δϕ. This is what we wish to compute.
+
+Using (1.41), the speed of light along the trajectory is ṙ = −l (du/dϕ) = − (GM/l) esinϕ.
+
+This is one of the pitfalls of applying Newtonian methods to light bending: we will necessarily find that the speed of light changes as it moves in a gravitational field. The best we can do is ensure that light travels at speed c asymptotically, when cosϕ = −1/e and sinϕ = √(1−1/e²). This gives c² = (G²M²/l²) (e² −1).
+
+Meanwhile the angular momentum is l = bc, with b the impact parameter. Rearranging, we have e² = (b²c⁴)/(G²M²) + 1 ⇒ e ≈ (bc²)/(GM), where, in the second equation, we have used the fact that we are interested in trajectories close to a straight line with e ≫ 1. As we mentioned above, the trajectory asymptotes to infinity at cosϕ = −1/e. This occurs at ϕ = π/2+δϕ and ϕ = −π/2−δϕ with δϕ ≈ 1/e ≈ GM/(bc²).
+
+The resulting scattering angle is 2δϕ ≈ 2GM/(bc²).
+
+We see that this is a factor of 2 smaller than the relativistic prediction (1.55).
+
+The fact that relativistic light bending is twice as large as the Newtonian answer can be traced to the fact that both g₀₀ and gᵣᵣ components of the Schwarzschild metric are non-vanishing. In some sense, the Newtonian result comes from the g₀₀ term, while the contribution from gᵣᵣ is new. We’ll discuss this more in Section 5.1 where we explain how to derive Newtonian gravity from general relativity.
+
+**2. Introducing Differential Geometry**
+
+Gravity is geometry. To fully understand this statement, we will need more sophisticated tools and language to describe curved space and, ultimately, curved spacetime. This is the mathematical subject of differential geometry and will be introduced.
+
+discussed in this section and the next. Armed with these new tools, we will then return to the subject of gravity in Section 4.
+
+Our discussion of differential geometry is not particularly rigorous. We will not prove many big theorems. Furthermore, a number of the statements that we make can be checked straightforwardly but we will often omit this. We will, however, be careful about building up the mathematical structure of curved spaces in the right logical order. As we proceed, we will come across a number of mathematical objects that can live on curved spaces. Many of these are familiar – like vectors, or differential operators – but we’ll see them appear in somewhat unfamiliar guises. The main purpose of this section is to understand what kind of objects can live on curved spaces, and the relationships between them. This will prove useful for both general relativity and other areas of physics.
+
+Moreover, there is a wonderful rigidity to the language of differential geometry. It sometimes feels that any equation that you’re allowed to write down within this rigid structure is more likely than not to be true! This rigidity is going to be of enormous help when we return to discuss theories of gravity in Section 4.
+
+## 2.1 Manifolds
+
+The stage on which our story will play out is a mathematical object called a manifold. We will give a precise definition below, but for now you should think of a manifold as a curved, n-dimensional space. If you zoom in to any patch, the manifold looks like Rn. But, viewed more globally, the manifold may have interesting curvature or topology.
+
+To begin with, our manifold will have very little structure. For example, initially there will be no way to measure distances between points. But as we proceed, we will describe the various kinds of mathematical objects that can be associated to a manifold, and each one will allow us to do more and more things. It will be a surprisingly long time before we can measure distances between points! (Not until Section 3.)
+
+You have met many manifolds in your education to date, even if you didn’t call them by name. Some simple examples in mathematics include Euclidean space Rn, the sphere Sn, and the torus Tn = S1 × ... × S1. Some simple examples in physics include the configuration space and phase space that we use in classical mechanics and the state space of thermodynamics. As we progress, we will see how familiar ideas in these subjects can be expressed in a more formal language. Ultimately our goal is to explain how spacetime is a manifold and to understand the structures that live on it.
+
+2.1.1 Topological Spaces
+
+Even before we get to a manifold, there is some work to do in order to define the underlying object. What follows is the mathematical equivalent of reading a biography about an interesting person and having to spend the first 20 pages wading through a description of what their grandparents did for a living. This backstory will not be particularly useful for our needs and we include it here only for completeness. We’ll keep it down to one page.
+
+Our backstory is called a topological space. Roughly speaking, this is a space in which each point can be viewed as living in a neighbourhood of other points, in a manner that allows us to define concepts such as continuity and convergence.
+
+Definition: A topological space M is a set of points, endowed with a topology T. This is a collection of open subsets {O ⊂ M} which obey:
+
+i) Both the set M and the empty set ∅ are open subsets: M ∈ T and ∅ ∈ T.
+
+ii) The intersection of a finite number of open sets is also an open set. So if O1 ∈ T and O2 ∈ T then O1 ∩ O2 ∈ T.
+
+iii) The union of any number (possibly infinite) of open sets is also an open set. So if Oγ ∈ T then ∪γ Oγ ∈ T.
+
+Given a point p ∈ M, we say that O ∈ T is a neighbourhood of p if p ∈ O. This concept leads us to our final requirement: we require that, given any two distinct points, there is a neighbourhood which contains one but not the other. In other words, for any p, q ∈ M with p ≠ q, there exists O1, O2 ∈ T such that p ∈ O1 and q ∈ O2 and O1 ∩ O2 = ∅. Topological spaces which obey this criterion are called Hausdorff. It is like a magic ward to protect us against bad things happening.
+
+An example of a good Hausdorff space is the real line, M = R, with T consisting of all open intervals (a,b), with a < b ∈ R, and their unions. An example of a non-Hausdorff space is any M with T = {M, ∅}.
+
+Definition: One further definition (it won’t be our last). A homeomorphism between topological spaces (M, T) and (M̃, T̃) is a map f: M → M̃ which is
+
+i) Injective (or one-to-one): for p ≠ q, f(p) ≠ f(q).
+
+ii) Surjective (or onto): f(M) = M̃, which means that for each p̃ ∈ M̃ there exists a p ∈ M such that f(p) = p̃.
+
+Functions which are both injective and surjective are said to be bijective. This ensures that they have an inverse.
+
+iii) Bicontinuous. This means that both the function and its inverse are continuous. To define a notion of continuity, we need to use the topology. We say that f is continuous if, for all O~ ∈ T~, f−1(O~) ∈ T. There’s an animation of a donut morphing into a coffee mug and back that is often used to illustrate the idea of topology. If you want to be fancy, you can say that a donut is homeomorphic to a coffee mug.
+
+2.1.2 Differentiable Manifolds We now come to our main character: an n-dimensional manifold is a space which, locally, looks like R^n. Globally, the manifold may be more interesting than R^n, but the idea is that we can patch together these local descriptions to get an understanding for the entire space.
+
+Definition: An n-dimensional differentiable manifold is a Hausdorff topological space M such that i) M is locally homeomorphic to R^n. This means that for each p ∈ M, there is an open set O such that p ∈ O and a homeomorphism ϕ : O → U with U an open subset of R^n.
+
+ii) Take two open subsets O_α and O_β that overlap, so that O_α ∩ O_β ≠ ∅. We require that the corresponding maps ϕ_α : O_α → U_α and ϕ_β : O_β → U_β are compatible, meaning that the map ϕ_β ◦ ϕ_α^{-1} : ϕ_α(O_α ∩ O_β) → ϕ_β(O_α ∩ O_β) is smooth (also known as infinitely differentiable or C^∞), as is its inverse. This is depicted in Figure 14.
+
+The maps ϕ are called charts and the collection of charts is called an atlas. You should think of each chart as providing a coordinate system to label the region O of M. The coordinate associated to p ∈ O is ϕ(p) = (x^1(p),...,x^n(p)).
+
+We write the coordinate in shorthand as simply x^μ(p), with μ = 1,...,n. Note that we use a superscript μ rather than a subscript: this simple choice of notation will prove useful as we go along.
+
+O_α O_β ϕ_α ϕ_β ϕ_β ◦ ϕ_α^{-1} Figure 14: Charts on a manifold.
+
+If a point p is a member of more than one subset O then it may have a number of different coordinates associated to it. There’s nothing to be nervous about here: it’s entirely analogous to labelling a point using either Euclidean coordinate or polar coordinates.
+
+The maps ϕ_β ◦ ϕ_α^{-1} take us between different coordinate systems and are called transition functions. The compatibility condition is there to ensure that there is no inconsistency between these different coordinate systems.
+
+Any manifold M admits many different atlases. In particular, nothing stops us from adding another chart to the atlas, provided that it is compatible with all the others. Two atlases are said to be compatible if every chart in one is compatible with every chart in the other. In this case, we say that the two atlases define the same differentiable structure on the manifold.
+
+Examples Here are a few simple examples of differentiable manifolds: • R^n: this looks locally like R^n because it is R^n. You only need a single chart with the usual Euclidean coordinates. Similarly, any open subset of R^n is a manifold.
+
+θ q1 q q2 q′ Figure 15: Two charts on a circle. The figures are subtly different! On the left, point q is removed and θ ∈ (0,2π). On the right, point q′ is removed and θ ∈ (−π,π).
+
+• S^1: The circle can be defined as a curve in R^2 with coordinates (cosθ, sinθ). Until now in our physics careers, we’ve been perfectly happy taking θ ∈ [0,2π) as the coordinate on S^1. But this coordinate does not meet our requirements to be a chart because it is not an open set. This causes problems if we want to differentiate functions at θ = 0; to do so we need to take limits from both sides but there is no coordinate with θ a little less than zero.
+
+To circumvent this, we need to use at least two charts to cover S^1. For example, we could pick out two antipodal points, say q = (1,0) and q′ = (−1,0). We take the first chart to cover O_1 = S^1−{q} with the map ϕ_1 : O_1 → (0,2π) defined by ϕ_1(p) = θ as shown in the left-hand of Figure 15. We take the second chart to cover O_2 = S^1 −{q′} with the map ϕ_2 : O_2 → (−π,π) defined by ϕ_2(p) = θ′ as shown in the right-hand figure.
+
+The two charts overlap on the upper and lower semicircles. The transition function is given by θ′ = ϕ_2 ◦ ϕ_1^{-1}(θ) = { θ if θ ∈ (0,π); θ−2π if θ ∈ (π,2π) } The transition function isn’t defined at θ = 0, corresponding to the point q, nor at θ = π, corresponding to the point q. Nonetheless, it is smooth on each of the two open intervals as required.
+
+• S^2: It will be useful to think of the sphere as the surface x^2 + y^2 + z^2 = 1 embedded in Euclidean R^3. The familiar coordinates on the sphere S^2 are those inherited from spherical polar coordinates of R^3, namely x = sinθ cosϕ, y = sinθ sinϕ, z = cosθ (2.1)
+
+with θ ∈ [0,π] and ϕ ∈ [0,2π). But as with the circle S^1 described above, these are not open sets so will not do for our purpose. In fact, there are two distinct
+
+z z y y x x Figure 16: Two charts on a sphere. In the left-hand figure, we have removed the half-equator defined as y = 0 with x > 0, shown in red. In right-figure, we have removed the half-equator z = 0 with x < 0, again shown in red.
+
+issues. If we focus on the equator at θ = π/2, then the coordinate ϕ ∈ [0,2π) parameterises a circle and suffers the same problem that we saw above. On top of that...
+
+在北极θ = 0，南极θ = π处，坐标ϕ没有明确的定义，因为θ的值已经唯一确定了该点。这在地球上的表现就是所有时区在北极重合。这也是为什么人们不会在那里开商务会议。
+
+我们可以通过引入两个覆盖S²上不同区域的图表来解决这个问题。第一个图表适用于移除了一条经线（定义为y = 0且x > 0，如图16所示，可将其想象为日期变更线）的球面S²。这意味着开放集O₁中不包含北极和南极。在这个开放集上，我们定义一个映射ϕ₁: O₁ → R²，使用坐标（2.1），现在θ ∈ (0, π) 且 ϕ ∈ (0, 2π)，从而我们得到一个到R²的开子集的映射。
+
+然后我们在另一个不同的开放集O₂（定义为S²，但移除了直线z = 0且x < 0）上定义第二个图表。这里我们定义映射ϕ₂: O₂ → R²，使用坐标 x = −sinθ′ cosϕ′ , y = cosθ′ , z = sinθ′ sinϕ′ 其中θ′ ∈ (0, π) 且 ϕ′ ∈ (0, 2π)。同样，这是一个到R²的开子集的映射。我们有O₁ ∪ O₂ = S²，而在重叠区域O₁ ∩ O₂上，转移函数ϕ₁ ◦ ϕ₂⁻¹ 和 ϕ₂ ◦ ϕ₁⁻¹ 是光滑的。（我们没有显式地写出这些函数，但很明显它们由余弦和正弦函数在它们的反函数存在定义域上构建而成。）
+
+请注意，对于上述S¹和S²的例子，我们都利用了它们可以被视为嵌入在更高维度的Rⁿ⁺¹中这一事实来构造图表。然而，这并非必要。流形的定义并未提及更高维度的嵌入，这些流形应被视为独立于任何嵌入而存在。
+
+如你所见，描述这些图表涉及一定程度的学究气。（数学家更喜欢用“严谨”这个词。）只有当我们遇到非平凡拓扑的流形时，才需要处理多个图表；我们上面遇到的流形S¹和S²是特别简单的例子。当我们讨论广义相对论时，我们会非常关心坐标变换以及某些坐标系的局限性，但我们的流形最终将足够简单，以至于对于所有实际目的，我们总能找到一组单一的坐标来告诉我们所需知道的信息。然而，随着我们在物理学上的进展，拓扑变得越来越重要，不同的图表这一概念也同样重要。物理中第一个将重叠图表作为讨论核心部分的地方可能是磁单极子的构造。（参见规范理论的讲座。）
+
+**2.1.3 流形间的映射**
+
+将流形局部映射到Rⁿ的好处在于，我们现在可以导入我们关于如何在Rⁿ上进行数学运算的知识。例如，我们知道如何对Rⁿ上的函数求导，以及函数光滑意味着什么。这现在直接转化为定义在流形上的函数的性质。
+
+我们说一个函数 f : M → R 是光滑的，如果对于所有图表ϕ，映射 f ◦ ϕ⁻¹ : U → R 是光滑的。
+
+类似地，我们说两个流形M和N（可能具有不同维度）之间的映射 f : M → N 是光滑的，如果对于所有图表 ϕ : M → U ⊂ R^{dim(M)} 和 ψ : N → V ⊂ R^{dim(N)}，映射 ψ ◦ f ◦ ϕ⁻¹ : U → V 是光滑的。
+
+微分同胚被定义为一个光滑的同胚映射 f : M → N。换句话说，它是流形M和N之间的一个可逆、光滑的映射，且其逆映射也是光滑的。如果存在这样的微分同胚，则称流形M和N是微分同胚的。逆映射的存在意味着M和N必然具有相同的维度。
+
+同胚的流形可以相互连续变形。但微分同胚要求更强：它要求映射及其逆映射都是光滑的。这产生了一些奇特的现象。例如，结果证明球面S⁷可以被多个不同的、不相容的图册覆盖。由此产生的流形是同胚但非微分同胚的。这些被称为外星球面。类似地，欧几里得空间Rⁿ具有唯一的可微结构，除了R⁴，它具有无限多种不等价的结构。我只知道外星球面在物理学中的一个应用（超弦理论中的一个微妙的全局引力异常），并且我不知道R⁴上的外星微分结构有任何应用。当然，它们在这些讲座中不会扮演任何角色。
+
+**2.2 切空间**
+
+我们的下一个任务是理解如何在流形上进行微积分。我们从这里开始讲微分；我们需要更长的时间才能讲到积分，我们最终将在第2.4.4节中遇到。
+
+考虑一个函数 f : M → R。为了在点p处对该函数求微分，我们在p的邻域引入一个图表 ϕ = (x¹,...,xⁿ)。然后我们可以构造映射 f ◦ ϕ⁻¹ : U → R，其中 U ⊂ Rⁿ。但我们知道如何对Rⁿ上的函数求导，这给了我们一个对M上的函数求导的方法，即 (cid:12) (c id:12)
+
+∂f (cid:12) ∂(f ◦ϕ−1)(cid:12)
+
+(cid:12) := (cid:12) (2.2)
+
+∂xµ(cid:12) ∂xµ (cid:12)
+
+p ϕ(p)
+
+Clearly this depends on the choice of chart ϕ and coordinates xµ. We would like to give a coordinate independent definition of differentiation, and then understand what happens when we choose to describe this object using different coordinates.
+
+2.2.1 Tangent Vectors We will consider smooth functions over a manifold M. We denote the set of all smooth functions as C∞(M).
+
+Definition: A tangent vector X is an object that differentiates functions at a point p ∈ M. Specifically, X : C∞(M) → R satisfying i) Linearity: X (f +g) = X (f)+X (g) for all f,g ∈ C∞(M).
+
+p p p ii) X (f) = 0 when f is the constant function.
+
+iii) Leibnizarity: X (fg) = f(p)X (g) + X (f)g(p) for all f,g ∈ C∞(M). This, of p p p course, is the product rule.
+
+Note that ii) and iii) combine to tell us that X (af) = aX (f) for a ∈ R.
+
+p p – 56 – This definition is one of the early surprises in differential geometry. The surprise is really in the name “tangent vector”. We know what vectors are from undergraduate physics, and we know what differential operators are. But we’re not used to equating the two. Before we move on, it might be useful to think about how this definition fits with other notions of vectors that we’ve met before.
+
+The first time we meet a vector in physics is usually in the context of Newtonian mechanics, where we describe the position of a particle as a vector x in R3. This concept of a vector is special to flat space and does not generalise to other manifolds.
+
+For example, a line connecting two points on a sphere is not a vector and, in general, there is no way to think of a point p ∈ M as a vector. So we should simply forget that points in R3 can be thought of as vectors.
+
+The next type of vector is the velocity of a particle, v = x˙. This is more pertinent.
+
+It clearly involves differentiation and, moreover, is tangent to the curve traced out by the particle. As we will see below, velocities of particles are indeed examples of tangent vectors in differential geometry. More generally, tangent vectors tell us how things change in a given direction. They do this by differentiating.
+
+It is simple to check that the object (cid:12)
+
+(cid:12) ∂ (cid:12)
+
+∂ (cid:12) := (cid:12)
+
+µ(cid:12)
+
+∂xµ(cid:12)
+
+whichactsonfunctionsasshownin(2.2)obeysalltherequirementsofatangentvector.
+
+Note that the index µ is now a subscript, rather than superscript that we used for the coordinatesxµ. (Ontheright-hand-side, thesuperscriptin∂/∂xµ isinthedenominator and counts as a subscript.) We will adopt the summation convention, where repeated indices are summed. But, as we will see, the placement of indices up or down will tell us something and all sums will necessarily have one index up and one index down. This is a convention that we met already in Special Relativity where the up/downness of the index changes minus signs. Here it has a more important role that we will see as we go on: the placement of the index tells us what kind of mathematical space the object lives in. For now, you should be aware that any equation with two repeated indices that are both up or both down is necessarily wrong, just as any equation with three or more repeated indices is wrong.
+
+Theorem: The set of all tangent vectors at point p forms an n-dimensional vector (cid:12)
+
+space. We call this the tangent space T (M). The tangent vectors ∂ (cid:12) provide a basis p µ p – 57 – for T (M). This means that we can write any tangent vector as (cid:12)
+
+X = Xµ∂ (cid:12)
+
+p µ(cid:12)
+
+with Xµ = X (xµ) the components of the tangent vector in this basis.
+
+Proof: Much of the proof is just getting straight what objects live in what spaces.
+
+Indeed, getting this straight is a large part of the subject of differential geometry. To start, we need a small lemma. We define the function F = f ◦ ϕ−1 : U → R, with ϕ = (x1,...,xn) a chart on a neighbourhood of p. Then, in some (perhaps smaller)
+
+neighbourhood of p we can always write the function F as F(x) = F(xµ(p))+(xµ −xµ(p))F (x) (2.3)
+
+where we have introduced n new functions F (x) and used the summation convention in the final term. If the function F has a Taylor expansion then we can trivially write it in the form (2.3) by repackaging all the terms that are quadratic and higher into the F (x) functions, keeping a linear term out front. But in fact there’s no need to assume the existence of a Taylor expansion. One way to see this is to note that for any function G(t) we trivially have G(1) = G(0)+ (cid:82)1 dt G′(t). But now apply this formula to the function G(t) = F(tx) for some fixed x. This gives F(x) = F(0)+x (cid:82)1 dt F′(xt)
+
+which is precisely (2.3) for a function of a single variable expanded about the origin.
+
+The same method holds more generally.
+
+Given (2.3), we act with ∂ on both sides, and then evaluate at xµ = xµ(p). This tells us that the functions F must satisfy (cid:12)
+
+∂F (cid:12)
+
+(cid:12) = F (x(p)) (2.4)
+
+∂xµ(cid:12) µ x(p)
+
+We can translate this in to a similar expression for f itself. We define n functions on M by f = F ◦ ϕ. Then, for any q ∈ M in the appropriate neighbourhood of p, (2.3) becomes f ◦ ϕ^{-1}(x^{µ}(q)) = f ◦ ϕ^{-1}(x^{µ}(p)) + (x^{µ}(q) − x^{µ}(p)) f ◦ ϕ^{-1}(x^{µ}(q))
+
+But ϕ^{-1}(x^{µ}(q)) = q. So we find that, in the neighbourhood of p, it is always possible to write a function f as f(q) = f(p) + (x^{µ}(q) − x^{µ}(p)) f^{µ}(q)
+
+for some f^{µ}(q). Note that, evaluated at q = p, we have f^{µ}(p) = F ◦ ϕ(p) = F(x(p)) = ∂F/∂x^{µ}|_{x(p)} = ∂f/∂x^{µ}|_{p} where in the last equality we used (2.2) and in the penultimate equality we used (2.4).
+
+Now we can turn to the tangent vector X. This acts on the function f to give X(f) = X(f(p) + (x^{µ} − x^{µ}(p)) f^{µ})
+
+where we’ve dropped the arbitrary argument q in f(q), x^{µ}(q) and f^{µ}(q); these are the functions on which the tangent vector is acting. Using linearity and Leibnizarity, we have X(f) = X f(p) + X(x^{µ} − x^{µ}(p)) f^{µ}(p) + (x^{µ}(p) − x^{µ}(p)) X f^{µ} The first term vanishes because f(p) is just a constant and all tangent vectors are vanishing when acting on a constant. The final term vanishes as well because the Leibniz rule tells us to evaluate the function (x^{µ} − x^{µ}(p)) at p. Finally, by linearity, the middle term includes a X(x^{µ}(p)) term which vanishes because x^{µ}(p) is just a constant. We’re left with X(f) = X(x^{µ}) ∂f/∂x^{µ}|_{p} This means that the tangent vector X can be written as X = X^{µ} ∂/∂x^{µ}|_{p} with X^{µ} = X(x^{µ}) as promised. To finish, we just need to show that ∂/∂x^{µ}|_{p} provide a basis for T_{p}(M). From above, they span the space. To check linear independence, suppose that we have vector α = α^{µ} ∂/∂x^{µ}|_{p} = 0. Then acting on f = x^{ν}, this gives α(x^{ν}) = α^{µ} (∂x^{ν}/∂x^{µ})|_{p} = α^{ν} = 0. This concludes our proof. □
+
+Changing Coordinates We have an ambivalent relationship with coordinates. We can’t calculate anything without them, but we don’t want to rely on them. The compromise we will come to is to consistently check that nothing physical depends on our choice of coordinates. The key idea is that a given tangent vector X exists independent of the choice of coordinate. However, the chosen basis {∂/∂x^{µ}|_{p}} clearly depends on our choice of coordinates: to define it we had to first introduce a chart ϕ and coordinates x^{µ}. A basis defined in this way is called, quite reasonably, a coordinate basis. At times we will work with other bases, {e_{a}} which are not defined in this way. Unsurprisingly, these are referred to as non-coordinate bases. A particularly useful example of a non-coordinate basis, known as vielbeins, will be introduced in Section 3.4.2.
+
+Suppose that we picked a different chart ϕ̃, with coordinates ˜x^{µ} in the neighbourhood of p. We then have two different bases, and can express the tangent vector X in terms of either, X = X^{µ} ∂/∂x^{µ}|_{p} = ˜X^{µ} ∂/∂˜x^{µ}|_{p} The vector is the same, but the components of the vector change: they are X^{µ} in the first set of coordinates, and ˜X^{µ} in the second. It is straightforward to determine the relationship between X^{µ} and ˜X^{µ}. To see this, we look at how the tangent vector X acts on a function f, X(f) = X^{µ} ∂f/∂x^{µ}|_{p} = X^{µ} (∂˜x^{ν}/∂x^{µ})|_{ϕ(p)} ∂f/∂˜x^{ν}|_{p} where we’ve used the chain rule. (Actually, we’ve been a little quick here. You can be more careful by introducing the functions F = f ◦ ϕ^{-1} and ˜F = f ◦ ϕ̃^{-1} and using (2.2) to write ∂f/∂x^{µ} = ∂F(˜x(x))/∂x^{µ}. The end result is the same. We will be similarly sloppy in the same way as we proceed, often conflating f and F.) You can read this equation in one of two different ways. First, we can view this as a change in the basis vectors: they are related as ∂/∂x^{µ}|_{p} = (∂˜x^{ν}/∂x^{µ})|_{ϕ(p)} ∂/∂˜x^{ν}|_{p}   (2.5)
+
+Alternatively, we can view this as a change in the components of the vector, which transform as ˜X^{ν} = X^{µ} (∂˜x^{ν}/∂x^{µ})|_{ϕ(p)}   (2.6)
+
+Components of vectors that transform this way are sometimes said to be contravariant. I’ve always found this to be annoying terminology, in large part because I can never remember it. A more important point is that the form of (2.6) is essentially fixed once you remember that the index on X^{µ} sits up rather than down.
+
+What Is It Tangent To?
+
+So far, we haven’t really explained where the name “tangent vector” comes from. Consider a smooth curve in M that passes through the point p. This is a map σ : I → M, with I an open interval I ⊂ ℝ. We will parameterise the curve as σ(t) such that σ(0) = p ∈ M.
+
+curve becomes ϕ ∘ σ : R → R^n, parameterised by xµ(t). Before we learned any differential geometry, we would say that the tangent vector to the curve at t = 0 is
+
+Xµ = |dxµ(t)/dt| at t=0
+
+But we can take these to be the components of the tangent vector X, which we define as
+
+X = (|dxµ(t)/dt| at p) (∂/∂xµ) at p
+
+Our tangent vector now acts on functions f ∈ C∞(M). It is telling us how fast any function f changes as we move along the curve.
+
+Any tangent vector X can be written in this form. This gives meaning to the term “tangent space” for T_p(M). It is, literally, the space of all possible tangents to curves passing through the point p. For example, a two dimensional manifold, embedded in R^3 is shown in Figure 17. At each point p, we can identify a vector space which is the tangent plane: this is T_p(M).
+
+As an aside, note that the mathematical definition of a tangent space makes no reference to embedding the manifold in some higher dimensional space. The tangent space is an object intrinsic to the manifold itself. (This is in contrast to the picture where it was unfortunately necessary to think about the manifold as embedded in R^3.) The tangent spaces T_p(M) and T_q(M) at different points p ≠ q are different. There’s no sense in which we can add vectors from one to vectors from the other. In fact, at this stage there’s no way to even compare vectors in T_p(M) to vectors in T_q(M). They are simply different spaces. As we proceed, we will make some effort to figure ways to get around this.
+
+2.2.2 Vector Fields So far we have only defined tangent vectors at a point p. It is useful to consider an object in which there is a choice of tangent vector for every point p ∈ M. In physics, we call objects that vary over space fields.
+
+A vector field X is defined to be a smooth assignment of a tangent vector X to each point p ∈ M. This means that if you feed a function to a vector field, then it spits back another function, which is the differentiation of the first. In symbols, a vector field is therefore a map X : C∞(M) → C∞(M). The function X(f) is defined by
+
+X(f)(p) = X_p(f)
+
+The space of all vector fields on M is denoted X(M).
+
+Given a coordinate basis, we can expand any vector field as
+
+X = Xµ ∂/∂xµ  (2.7)
+
+where the Xµ are now smooth functions on M.
+
+Strictly speaking, the expression (2.7) only defines a vector field on the open set O ⊂ M covered by the generated by X. This is simply xµ(t) = xµ(0)+tXµ(x)+O(t²) (2.10) Indeed, differentiating this obeys (2.9) to leading order in t. (An aside: Given a vector field X, it may not be possible to integrate (2.9) to generate a flow defined for all t ∈ R. For example, consider M = R with the vector field X = x². The equation dx/dt = x², subject to the initial condition x(0) = a, has the unique solution x(t) = a/(1 − at) which diverges at t = 1/a. Vector fields which generate a flow for all t ∈ R are called complete. It turns out that all vector fields on a manifold M are complete if M is compact. Roughly speaking, “compact” means that M doesn’t “stretch to infinity”. More precisely, a topological space M is compact if, for any family of open sets covering M there always exists a finite sub-family which also cover M. So R is not compact because the family of sets {(−n,n),n ∈ Z+} covers R but has no finite sub-family. Similarly, Rⁿ is non-compact. However, Sⁿ and Tⁿ are compact manifolds.) We can look at some examples. • Consider the sphere S² in polar coordinates with the vector field X = ∂ϕ. The integral curves solve the equation (2.9), which are dϕ/dt = 1 and dθ/dt = 0 This has the solution θ = θ₀ and ϕ = ϕ₀ + t. The associated one-parameter diffeomorphism is σₜ : (θ,ϕ) → (θ,ϕ + t), and the flow lines are simply lines of constant latitude on the sphere and are shown in the left-hand figure. • Alternatively, consider the vector field on R² with Cartesian components Xµ = (1,x²). The equation for the integral curves is now dx/dt = 1 and dy/dt = x² which has the solution x(t) = x₀ +t and y(t) = y₀ + ⅓(x₀ +t)³. The associated flow lines are shown in the right-hand figure. 2.2.4 The Lie Derivative So far we have learned how to differentiate a function. This requires us to introduce a vector field X, and the new function X(f) can be viewed as the derivative of f in the direction of X. Next we ask: is it possible to differentiate a vector field? Specifically, suppose that we have a second vector field Y. How can we differentiate this in the direction of X to get a new vector field? As we’ve seen, we can’t just write down XY because this doesn’t define a new vector field. To proceed, we should think more carefully about what differentiation means. For a function f(x) on R, we compare the values of the function at nearby points, and see what happens as those points approach each other df/dx = limₜ→₀ [f(x+t)−f(x)]/t Similarly, to differentiate a vector field, we need to subtract the tangent vector Yₚ ∈ Tₚ(M) from the tangent vector at some nearby point Yq ∈ Tq(M), and then see what happens in the limit q → p. But that’s problematic because, as we stressed above, the vector spaces Tₚ(M) and Tq(M) are different, and it makes no sense to subtract vectors in one from vectors in the other. To make progress, we’re going to have to find a way to do this. Fortunately, there is a way. Push-Forward and Pull-Back Suppose that we have a map φ : M → N between two manifolds M and N which we will take to be a diffeomorphism. This allows us to import various structures on one manifold to the other. For example, if we have a function f : N → R, then we can construct a new function that we denote (φ*f) : M → R, (φ*f)(p) = f(φ(p)) Using the map in this way, to drag objects originally defined on N onto M is called the pull-back. If we introduce coordinates xµ on M and yα on N, then the map φ is yα(x), and we can write (φ*f)(x) = f(y(x)) Some objects more naturally go the other way. For example, given a vector field Y on N, we can define a new vector field (φ*Y) on M. If we are given a function f : M → R, then the vector field (φ*Y) on M acts as (φ*Y)(f) = Y(φ*f) where I’ve been a little sloppy in the notation here since the left-hand side is a function on M and the right-hand side a function on N. The equality above holds when evaluated at the appropriate points: [(φ*Y)(f)](p) = [Y(φ*f)](φ(p)). Using the map to push objects on M onto N is called the push-forward. If Y = Yµ∂/∂yα is the vector field on N, we can write the induced vector field on M as (φ*Y)(f) = Yµ ∂f(y(x))/∂xµ = Yµ (∂yα/∂xµ) (∂f/∂yα) Written in components, (φ*Y) = (φ*Y)µ∂/∂xµ, we then have (φ*Y)µ = Yα (∂yα/∂xµ) (2.11) Given the way that the indices are contracted, this is more or less the only thing we could write down. We’ll see other examples of these induced maps later in the lectures. The push-forward is always denoted as φ* and goes in the same way as the original map. The pull-back is always denoted as φ* and goes in the opposite direction to the original map. Importantly, if our map φ : M → N is a diffeomorphism, then we also have φ⁻¹ : N → M, so we can transport any object from M to N and back again with impunity. [Figure 20: To construct the Lie derivative, we use the push-forward (σₜ*) to map the vector Y back to p. The resulting vector, shown in red, is ((σₜ*)Yₚ. Constructing the Lie Deriva tive Now we can use these ideas to help build a derivative. Suppose that we are given a vector field X on M. This generates a flow σ : M → M, which is a map between manifolds, now with N = M. This means that we can use (2.11) to generate a push-forward map from T(M) to T(M). But this is exactly what we need if we want to compare tangent vectors at neighbouring points. The resulting differential operator is called the Lie derivative and is denoted L_X.
+
+It will turn out that we can use these ideas to differentiate many different kinds of objects. As a warm-up, let’s first see how an analogous construction allows us to differentiate functions. Now the function L_X f = lim_{t→0} \frac{f(σ_t(x))−f(x)}{t} = \left. \frac{df(σ_t(x))}{dt} \right|_{t=0} = \left. \frac{\partial f}{\partial x^\mu} \frac{dx^\mu}{dt} \right|_{t=0} But, using (2.9), we know that dx^\mu/dt = X^\mu. We then have L_X f = X^\mu(x) \frac{\partial f}{\partial x^\mu} = X(f) \qquad (2.12)
+
+In other words, acting on functions with the Lie derivative L_X coincides with action of the vector field X.
+
+Now let’s look at the action of L_X on a vector field Y. This is defined by L_X Y = lim_{t→0} \frac{(σ_{-t}^* Y)_p − Y_p}{t} Note the minus sign in σ_{-t}. This reflects that fact that vector fields are pushed, rather than pulled. The map σ_t takes us from the point p to the point σ_t(p). But to push a tangent vector Y_p ∈ T_p(M) to a tangent vector in T_{σ_t(p)}(M), where it can be compared to Y_{σ_t(p)}, we need to push with the inverse map (σ_{-t})_*. This is shown Figure 20.
+
+Let’s first calculate the action of L_X on a coordinate basis ∂_μ = ∂/∂x^\mu. We have L_X ∂_μ = lim_{t→0} \frac{(σ_{-t}^* ∂_μ) − ∂_μ}{t} \qquad (2.13)
+
+We have an expression for the push-forward of a tangent vector in (2.11), where the coordinates y^\alpha on N should now be replaced by the infinitesimal change of coordinates induced by the flow σ_{-t} which, from (2.10) is x^\mu(t) = x^\mu(0)−tX^\mu+.... Note the minus sign, which comes from the fact that we have to map back to where we came from as shown in Figure 20. We have, for small t, σ_{-t}^* ∂_μ = \left( δ_ν^μ − t \frac{\partial X^\nu}{\partial x^\mu} + ... \right) ∂_ν Acting on a coordinate basis, we then have L_X ∂_μ = − \frac{\partial X^\nu}{\partial x^\mu} ∂_ν \qquad (2.14)
+
+To determine the action of L_X on a general vector field Y, we use the fact that the Lie derivative obeys the usual properties that we expect of a derivative, including linearity, L_X(Y_1 + Y_2) = L_X Y_1 + L_X Y_2 and Leibnizarity L_X(fY) = f L_X Y + (L_X f)Y for any function f, both of which follow from the definition. The action on a general vector field Y = Y^\mu(x) ∂/∂x^\mu can then be written as L_X (Y^\mu ∂_μ) = (L_X Y^\mu) ∂_μ + Y^\mu (L_X ∂_μ)
+
+where we’ve simply viewed the components Y^\mu(x) as n functions. We can use (2.12) to determine L_X Y^\mu and we’ve computed L_X ∂_μ in (2.14). We then have L_X (Y^\mu ∂_μ) = X^\nu \frac{\partial Y^\mu}{\partial x^\nu} ∂_μ − Y^\mu \frac{\partial X^\nu}{\partial x^\mu} ∂_ν But this is precisely the structure of the commutator. We learn that the Lie derivative acting on vector fields is given by L_X Y = [X,Y]
+
+A corollary of this is L_X L_Y Z − L_Y L_X Z = L_{[X,Y]} Z \qquad (2.15)
+
+which follows from the Jacobi identity for commutators.
+
+The Lie derivative is just one of several derivatives that we will meet in this course. As we introduce new objects, we will learn how to act with L_X on them. But we will also see that we can endow different meanings to the idea of differentiation. In fact, the Lie derivative will take something of a back seat until Section 4.3 when we will see that it is what we need to understand symmetries.
+
+## 2.3 Tensors
+
+For any vector space V, the dual vector space V∗ is the space of all linear maps from V to R.
+
+This is a standard mathematical construction, but even if you haven’t seen it before it should resonate with something you know from quantum mechanics. There we have states in a Hilbert space with kets |ψ⟩ ∈ H and a dual Hilbert space with bras ⟨ϕ| ∈ H∗. Any bra can be viewed as a map ⟨ϕ| : H → R defined by ⟨ϕ|(|ψ⟩) = ⟨ϕ|ψ⟩.
+
+In general, suppose that we are given a basis {e_\mu,\mu = 1,...,n} of V. Then we can introduce a dual basis {f^\mu,\mu = 1,...,n} for V∗ defined by f^\nu(e_\mu) = δ^\nu_\mu A general vector in V can be written as X = X^\mu e_\mu and f^\nu(X) = X^\mu f^\nu(e_\mu) = X^\nu.
+
+Given a basis, this construction provides an isomorphism between V and V∗ given by e_\mu → f^\mu. But the isomorphism is basis dependent. Pick a different basis, and you’ll get a different map.
+
+We can repeat the construction and consider (V∗)∗, which is the space of all linear maps from V∗ to R. But this space is naturally isomorphic to V, meaning that the isomorphism is independent of the choice of basis. To see this, suppose that X ∈ V and ω ∈ V∗. This means that ω(X) ∈ R. But we can equally as well view X ∈ (V∗)∗ and define X(ω) = ω(X) ∈ R. In this sense, (V∗)∗ = V.
+
+2.3.1 Covectors and One-Forms At each point p ∈ M, we have a vector space T_p(M). The dual of this space, T_p^*(M) is called the cotangent space at p, and an element of this space is called a cotangent vector, sometimes shortened to covector. Given a basis {e_\mu} of T_p(M), we can introduce the dual basis {f^\mu} for T_p^*(M) and expand any co-vector as ω = ω_μ dx^μ.
+
+We can also construct fields of cotangent vectors, by picking a member of T∗(M) for each point p in a smooth manner. Such a cotangent field is better known as a one-form; they map vector fields to real numbers. The set of all one-forms on M is denoted Λ1(M).
+
+There is a particularly simple way to construct a one-form. Take a function f ∈ C∞(M) and define df ∈ Λ1(M) by df(X) = X(f) (2.16)
+
+We can use this method to build a basis for Λ1(M). We introduce coordinates x^μ on M with the corresponding coordinate basis e_μ = ∂/∂x^μ of vector fields, which we often write in shorthand as ∂/∂x^μ ≡ ∂_μ. We then simply take the functions f = x^μ which, from (2.16), gives dx^μ(∂_ν) = ∂_ν(x^μ) = δ^μ_ν This means that dx^μ provides a basis for Λ1(M), dual to the coordinate basis ∂/∂x^ν. In general, an arbitrary one-form ω ∈ Λ1(M) can then be expanded as ω = ω_μ dx^μ In such a basis the one-form df takes the form df = (∂f/∂x^μ) dx^μ (2.17)
+
+To see this, we simply need to evaluate df(X) = dx^μ(X^ν ∂_ν) = X^ν (∂f/∂x^μ) ∂_ν(x^μ) = X^μ (∂f/∂x^μ) = X(f)
+
+which agrees with the expected answer (2.16).
+
+As with vector fields, we can look at what happens if we change coordinates. Given two different charts, ϕ = (x^1,...,x^n) and ϕ̃ = (x̃^1,...,x̃^n), we know that the basis for vector fields changes as (2.5), ∂/∂x̃^μ = (∂x^ν / ∂x̃^μ) ∂/∂x^ν We should take the basis of one-forms to transform in the inverse manner, dx̃^μ = (∂x̃^μ / ∂x^ν) dx^ν (2.18)
+
+This then ensures that dx̃^μ(∂/∂x̃^ν) = (∂x̃^μ / ∂x^σ) dx^σ( (∂x^ρ / ∂x̃^ν) ∂/∂x^ρ ) = (∂x̃^μ / ∂x^σ) (∂x^ρ / ∂x̃^ν) δ^σ_ρ = (∂x̃^μ / ∂x^σ) (∂x^σ / ∂x̃^ν) = δ^μ_ν But this is just the multiplication of a matrix and its inverse, (∂x̃^μ / ∂x^ρ) (∂x^ρ / ∂x̃^ν) = δ^μ_ν So we find that dx̃^μ(∂/∂x̃^ν) = δ^μ_ν as it should. We can then expand a one-form ω in either of these two bases, ω = ω_μ dx^μ = ω̃_μ dx̃^μ with ω̃_μ = ω_ν (∂x^ν / ∂x̃^μ) (2.19)
+
+In the annoying terminology that I can never remember, components of vectors that transform this way are said to be covariant. Note that, as with vector fields, the placement of the indices means that (2.18) and (2.19) are pretty much the only things that you can write down that make sense.
+
+2.3.2 The Lie Derivative Revisited
+
+In Section 2.2.4, we explained how to construct the Lie derivative, which differentiates a vector field in the direction of a second vector field X. This same idea can be adapted to one-forms.
+
+Under a map φ : M → N, we saw that a vector field X on M can be pushed forwards to a vector field φ_* X on N. In contrast, one-forms go the other way: given a one-form ω on N, we can pull this back to a one-form (φ^*ω) on M, defined by (φ^*ω)(X) = ω(φ_* X)
+
+If we introduce coordinates x^μ on M and y^α on N then the components of the pull-back are given by (φ^*ω)_μ = ω_α (∂y^α / ∂x^μ) (2.20)
+
+We now define the Lie derivative L_X acting on one-forms. Again, we use X to generate a flow σ : M → M which, using the pull-back, allows us to compare one-forms at different points. We will denote the cotangent vector ω(p) as ω_p. The Lie derivative of a one-form ω is then defined as L_X ω = lim_{t→0} ( (σ^*_{-t} ω)_{p} - ω_{p} ) / t (2.21)
+
+Note that we pull-back with the map σ^*_{-t}. This is to be contrasted with (2.13) where we pushed forward the tangent vector with the map σ_{t} and, as we now show, this difference in minus sign manifests itself in the expression for the Lie derivative. The infinitesimal map σ acts on coordinates as x^μ(t) = x^μ(0) + t X^μ +... so, from (2.20), the pull-back of a basis vector dx^μ is σ^* dx^μ = (δ^μ_ν + t ∂X^μ/∂x^ν + ...) dx^ν Acting on the coordinate basis, we then have L_X (dx^μ) = (∂X^μ / ∂x^ν) dx^ν which indeed differs by a minus sign from the corresponding result (2.14) for tangent vectors. Acting on a general one-form ω = ω_ν dx^ν, the Lie derivative is L_X ω = (L_X ω_ν) dx^ν + ω_ν L_X (dx^ν)
+
+= (X^μ ∂_μ ω_ν + ω_μ ∂_ν X^μ) dx^ν (2.22)
+
+We’ll return to discuss one-forms (and other forms) more in Section 2.4.
+
+2.3.3 Tensors and Tensor Fields
+
+A tensor of rank (r,s) at a point p ∈ M is defined to be a multi-linear map T : T∗_p(M) × ... × T∗_p(M) × T_p(M) × ... × T_p(M) → R |r s| Such a tensor is said to have total rank r+s.
+
+We’ve seen some examples already. A cotangent vector in T∗_p(M) is a tensor of type (0,1), while a tangent vector in T_p(M) is a tensor of type (1,0) (using the fact that T_p(M) = T∗∗_p(M)).
+
+As before, we define a tensor field to be a smooth assignment of an (r,s) tensor to every point p ∈ M.
+
+Given a basis {e_μ} for vector fields and a dual basis {f^μ} for one-forms, the components of the tensor are defined to be T^{μ1...μr}_{ν1...νs} = T(f^{μ1},...,f^{μr}, e_{ν1},...,e_{νs})
+
+Note that we deliberately write the string of lower indices after the upper indices. In some sense this is unnecessary, and we don’t lose any information by writing T^{μ1...μr}_{ν1...νs}. Nonetheless, we’ll see later that it’s a useful habit to get into.
+
+On a manifold of dimension n, there are n^{r+s} such components. For a tensor field, each of these is a smooth function.
+
+Let T be a function over M.
+
+As an example, consider a rank (2,1) tensor. This takes two one-forms, say ω and η, together with a vector field X, and outputs a real number. In a given basis, this number is T(ω,η,X) = T(ω^µ f_µ, η^ν f_ν, X^ρ e_ρ) = ω^µ η^ν X^ρ T(f_µ, f_ν, e_ρ) = T_µνρ ω^µ η^ν X^ρ Every manifold comes equipped with a natural (1,1) tensor called δ. This takes a one-form ω and a vector field X and outputs the real number δ(ω,X) = ω(X) ⇒ δ(f_µ, e_ν) = f_µ(e_ν) = δ_µ^ν which is simply the Kronecker delta.
+
+As with vector fields and one-forms, we can ask how the components of a tensor transform. We will work more generally than before. Consider two bases for the vector fields, {e_µ} and {ẽ_µ}, not necessarily coordinate bases, related by ẽ_ν = A_ν^µ e_µ for some invertible matrix A. The respective dual bases are {f^µ} and {f̃^µ} are then related by f̃^ρ = B^ρ_σ f^σ such that f̃^ρ(ẽ_ν) = A_ν^µ B^ρ_σ f^σ(e_µ) = A_ν^µ B^ρ_µ = δ_ν^ρ ⇒ B^ρ_µ = (A^{-1})^ρ_µ The lower components of a tensor then transform by multiplying by A, and the upper components by multiplying by B = A^{-1}. So, for example, a rank (1,2) tensor transforms as T̃^µ_{ρν} = B^µ_σ A^τ_ρ A^λ_ν T^σ_{τλ}   (2.23)
+
+When we change between coordinate bases, we have A_ν^µ = ∂x^µ/∂x̃^ν   and   B^µ_ν = (A^{-1})^µ_ν = ∂x̃^µ/∂x^ν You can check that this coincides with our previous results (2.6) and (2.19).
+
+Operations on Tensor Fields There are a number of operations that we can do on tensor fields to generate further tensors.
+
+First, we can add and subtract tensors fields, or multiply them by functions. This is the statement that the set of tensors at a point p ∈ M forms a vector space.
+
+Next, there is a way to multiply tensors together to give a tensor of a different type. Given a tensor S of rank (p,q) and a tensor T of rank (r,s), we can form the tensor product, S ⊗ T which is a new tensor of rank (p+r, q+s), defined by (S ⊗ T)(ω_1,...,ω_p, η_1,...,η_r, X_1,...,X_q, Y_1,...,Y_s) = S(ω_1,...,ω_p, X_1,...,X_q) T(η_1,...,η_r, Y_1,...,Y_s)
+
+In terms of components, this reads (S ⊗ T)^{µ_1...µ_p ν_1...ν_r}_{ρ_1...ρ_q σ_1...σ_s} = S^{µ_1...µ_p}_{ρ_1...ρ_q} T^{ν_1...ν_r}_{σ_1...σ_s}   (2.24)
+
+Given an (r,s) tensor T, we can also construct a tensor of lower rank (r-1, s-1) by contraction. To do this, simply replace one of the T*(M) entries with a basis vector f_µ, and the corresponding T(M) entry with the dual vector e^µ and then sum over µ = 1,...,n. So, for example, given a rank (2,1) tensor T we can construct a rank (1,0) tensor S by S(ω) = T(ω, f_µ, e^µ)
+
+Alternatively, we could construct a (typically) different (1,0) tensor by contracting the other argument, S'(ω) = T(f_µ, ω, e^µ). Written in terms of components, contraction simply means that we put an upper index equal to a lower index and sum over them, S_µ = T_µν^ν   and   S'^µ = T_ν^µ^ν Our next operation is symmetrisation and anti-symmetrisation. For example, given a (0,2) tensor T we decompose it into two (0,2) tensors, in which the arguments are either symmetrised or anti-symmetrised, S(X,Y) = 1/2 (T(X,Y) + T(Y,X))
+
+A(X,Y) = 1/2 (T(X,Y) - T(Y,X))
+
+In index notation, this becomes S_µν = 1/2 (T_µν + T_νµ)   and   A_µν = 1/2 (T_µν - T_νµ)
+
+which is just like taking the symmetric and anti-symmetric part of a matrix. We will work with these operations frequently enough to justify introducing some new notation. We define T_{(µν)} = 1/2 (T_µν + T_νµ)   and   T_{[µν]} = 1/2 (T_µν - T_νµ)
+
+These operations generalise to other tensors. For example, T_{(µν)ρ}^σ = 1/2 (T_µνρ^σ + T_νµρ^σ)
+
+We can also symmetrise or anti-symmetrise over multiple indices, provided that these indices are either all up or all down. If we (anti)-symmetrise over p objects, then we divide by p!, which is the number of possible permutations. This normalisation ensures that if we start with a tensor which is already, say, symmetric then further symmetrising doesn't affect it. In the case of anti-symmetry, we weight each term with the sign of the permutation. So, for example, T_{(νρσ)}^µ = 1/3! (T_νρσ^µ + T_ρνσ^µ + T_ρσν^µ + T_σρν^µ + T_σνρ^µ + T_νσρ^µ)
+
+and T_{[νρσ]}^µ = 1/3! (T_νρσ^µ - T_ρνσ^µ + T_ρσν^µ - T_σρν^µ + T_σνρ^µ - T_νσρ^µ)
+
+There will be times when, annoyingly, we will wish to symmetrise (or anti-symmetrise) over indices which are not adjacent. We introduce vertical bars to exclude certain indices from the symmetry procedure. So, for example, T_{[ν|ρ|σ]}^µ = T_νρσ^µ - T_σρν^µ Finally, given a smooth tensor field T of any rank, we can always take the Lie derivative with respect to a vector field X. As we've seen previously, under a map φ : M → N, vector fields are pushed forwards and one-forms are pulled-back. In general, this leaves a tensor of mixed type unsure where to go. However, if φ is a diffeomorphism then we also have φ^{-1} : N → M and this allows us to define the push-forward of a tensor T from M to N. This acts on one-forms ω ∈ Λ^1(N) and vector fields X ∈ X(N) and is given by (φ_* T)(ω_1,...,ω_r, X_1,...,X_s) = T(φ^*ω_1,...,φ^*ω_r, (φ^{-1}X_1),...,(φ^{-1}X_s))
+
+Here φ^*ω are the pull-backs of ω from N to M, while (φ^{-1}X) is the push-forward of the vector field X.
+
+While φ−1X are the push-forwards of X from N to M.
+
+The Lie derivative of a tensor T along X is then defined as L_X T = lim_{t Components of the curl are precisely the components that appear in dω. In fact, our “vector” ω was really a one-form and the curl turned it into a two-form. It’s a happy fact that in R3, vectors, one-forms and two-forms all have three components, which allowed us to conflate them in our earlier courses. (In fact, there is a natural map between them that we will meet in Section 3.) Suppose instead that we start with a 2-form B in R3, which we write as B = B₁ dx₂ ∧dx₃ + B₂ dx₃ ∧dx₁ + B₃ dx₁ ∧dx₂ Taking the exterior derivative now gives dB = ∂₁B₁ dx₁ ∧dx₂ ∧dx₃ + ∂₂B₂ dx₂ ∧dx₃ ∧dx₁ + ∂₃B₃ dx₃ ∧dx₁ ∧dx₂ = (∂₁B₁ + ∂₂B₂ + ∂₃B₃) dx₁ ∧dx₂ ∧dx₃ (2.29)
+
+This time there is just a single component, but again it’s something familiar. Had we written the original three components of the two-form in old school vector notation B = (B₁, B₂, B₃), then the single component of dB is what we previously called ∇·B.
+
+The Lie Derivative Yet Again There is yet another operation that we can construct on p-forms. Given a vector field X ∈ X(M), we can construct the interior product, a map ι_X : Λ^p(M) → Λ^{p-1}(M). If ω ∈ Λ^p(M), we define ι_X ω ∈ Λ^{p-1}(M) by ι_X ω(Y₁,...,Y_{p-1}) = ω(X, Y₁,...,Y_{p-1}) (2.30)
+
+In other words, we just put X in the first argument of ω. Acting on functions f, we simply define ι_X f = 0.
+
+The anti-symmetry of forms means that ι_X ι_Y = −ι_Y ι_X. Moreover, you can check that ι_X (ω ∧ η) = ι_X ω ∧ η + (-1)^p ω ∧ ι_X η where ω ∈ Λ^p(M).
+
+Consider a 1-form ω. There are two different ways to act with ι_X and d to give us back a one-form. These are ι_X dω = ι_X (∂_µω_ν − ∂_νω_µ) dx^µ ∧dx^ν = X^µ(∂_µω_ν − ∂_νω_µ) dx^ν and d ι_X ω = d(ω_µ X^µ) = X^µ ∂_ν ω_µ dx^ν + ω_µ ∂_ν X^µ dx^ν Adding the two together gives (d ι_X + ι_X d)ω = (X^µ ∂_ν ω_µ + ω_µ ∂_ν X^µ) dx^ν But this is exactly the same expression we saw previously when computing the Lie derivative (2.22) of a one-form. We learn that L_X ω = (d ι_X + ι_X d)ω (2.31)
+
+This expression is sometimes referred to as Cartan’s magic formula. A similar calculation shows that (2.31) holds for any p-form ω.
+
+2.4.2 Forms You Know and Love There are a number of examples of differential forms that you’ve met already, but likely never called them by name.
+
+The Electromagnetic Field The electromagnetic gauge field A = (ϕ, A) should really be thought of as the components of a one-form on spacetime R4. (Here I’ve set c = 1.) We write A = A_µ(x) dx^µ Taking the exterior derivative yields a 2-form F = dA, given by F = ½ F_µν dx^µ ∧dx^ν = (∂_µ A_ν − ∂_ν A_µ) dx^µ ∧dx^ν But this is precisely the field strength F_µν = ∂_µ A_ν − ∂_ν A_µ that we met in our lectures on Electromagnetism. The components are the electric and magnetic fields, arranged as F_µν = 0  −E₁  −E₂  −E₃ E₁   0  −B₃   B₂ E₂   B₃   0  −B₁ E₃  −B₂   B₁   0 (2.32)
+
+By construction, we also have dF = d²A = 0. In this context, this is sometimes called the Bianchi identity; it yields two of the four Maxwell equations. In old school vector calculus notation, these are ∇·B = 0 and ∇×E + ∂B/∂t = 0. We need a little more structure to get the other two as we will see later in this chapter.
+
+The gauge field A is not unique. Given any function α, we can always shift it by a gauge transformation A → A + dα ⇒ A_µ → A_µ + ∂_µ α This leaves the field strength invariant because F → F + d(dα) = F.
+
+Phase Space and Hamilton’s Equations In classical mechanics, the phase space is a manifold M parameterised by coordinates (q^i, p_j) where q^i are the positions of particles and p_j the momenta. Recall from our lectures on Classical Dynamics that the Hamiltonian H(q, p) is a function on M, and Hamilton’s equations are q̇^i = ∂H/∂p_i  and  ṗ_i = −∂H/∂q^i (2.33)
+
+Phase space also comes with a structure called a Poisson bracket, defined on a pair of functions f and g as {f, g} = ∂f/∂q^j ∂g/∂p_j − ∂f/∂p_j ∂g/∂q^j Then the time evolution of any function f can be written as ḟ = {f, H} which reproduces Hamilton’s equations if we take f = q^i or f = p_i.
+
+Underlying this story is the mathematical structure of forms. The key idea is that we have a manifold M and a function H on M. We want a machinery that turns the function H into a vector field X. Particles then follow trajectories in phase space that are integral curves generated by X.
+
+To achieve this, we introduce a symplectic two-form ω on an even-dimensional manifold M. This two form must be closed, dω = 0, and non-degenerate, which means that the top form ω∧...∧ω ≠ 0. We’ll see why we need these requirements as we go along.
+
+A manifold M equipped with a symplectic two-form is called a symplectic manifold. Any 2-form provides a map ω : T_p(M) → T^*_p(M). Given a vector field X ∈ X(M), we can simply take the interior product with ω to get a one-form ι_X ω. However, we want to go the other way: given a function H, we can always construct a one-form dH, and we’d like to exchange this for a vector field. We can do this if the map ω : T_p(M) → T^*_p(M) is actually an isomorphism, so the inverse exists. This turns out to be true provided that ω is non-degenerate. In this case, we can define the vector field X by solving the equation ι ω = −dH (2.34) XH
+
+If we introduce coordinates xµ on the manifold, then the component form of this equation is Xµω = −∂ H H µν ν We denote the inverse as ωµν = −ωνµ such that ωµνω = δµ. The components of the νρ ρ vector field are then Xµ = −ωνµ∂ H = ωµν∂ H H ν ν
+
+The integral curves generated by X obey the differential equation (2.9) dxµ = Xµ = ωµν∂ H dt H ν These are the general form of Hamilton’s equations. They reduce to our earlier form (2.33) if we write xµ = (qi,p ) and choose the symplectic form to have block diagonal form ωµν = 0 1; -1 0
+
+To define the Poisson structure, we first note that we can repeat the map (2.34) to turn any function f into a vector field X obeying ι ω = −df. But we can then feed f X these vector fields back into the original 2-form ω. This gives us a Poisson bracket, {f,g} = ω(X ,X ) = −ω(X ,X ) g f f g Or, in components, {f,g} = ωµν∂ f ∂ g µ ν There are many other ways to write this Poisson bracket structure in two-form, obeying dB = 0. We also saw in (2.28) if we write B = dA for some one-form A, then the components are given by B = ∇ × A. Clearly writing B = dA ensures that dB = 0. But when is the converse true? We have the following statement (which we leave unproven).
+
+Theorem (The Poincaré Lemma): On M = R^n, closed implies exact.
+
+Since we've spent a lot of time mapping manifolds to R^n, this also has consequence for a general manifold M. It means that if ω is a closed p-form, then in any neighbourhood O ⊂ M it is always possible to find a η ∈ Λ^{p-1}(M) such that ω = dη on O. The catch is that it may not be possible to find such an η everywhere on the manifold.
+
+An Example
+
+Consider the one-dimensional manifold M = R. We can take a one-form ω = f(x)dx. This is always closed because it is a top form. It is also exact. We introduce the function
+
+g(x) = ∫^x f(x') dx'
+
+Then ω = dg.
+
+Now consider the topologically more interesting one-dimensional manifold S^1, which we can view as the phase e^{iθ} ∈ C. We can introduce the form ω = dθ on S^1. The way its written makes it look like its an exact form, but this is an illusion because, as we stressed in Section 2.1, θ is not a good coordinate everywhere on S^1 because it's not single valued. Indeed, it's simple to see that there is no single-valued function g(θ) on S^1 such that ω = dg. So on S^1, we can construct a form which, locally, can be written as dθ but globally cannot be written as d(something). So we have a form that is closed but not exact.
+
+Another Example
+
+On M = R^2, the Poincaré lemma ensures that all closed forms are exact. However, things change if we remove a single point and consider R^2 − {(0,0)}. Consider the one-form defined by
+
+ω = ( -y/(x^2 + y^2) ) dx + ( x/(x^2 + y^2) ) dy
+
+This is not a smooth one-form on R^2 because of the divergence at the origin. But removing that point means that ω becomes acceptable. We can check that ω is closed,
+
+dω = ( ∂/∂y ( -y/(x^2 + y^2) ) ) dy ∧ dx + ( ∂/∂x ( x/(x^2 + y^2) ) ) dx ∧ dy = 0
+
+where the = 0 follows from a little bit of algebra. ω is exact if we can find a function f, defined everywhere on R^2 − {(0,0)} such that ω = df, which means
+
+ω = (∂f/∂x) dx + (∂f/∂y) dy ⇒ ∂f/∂x = -y/(x^2 + y^2) and ∂f/∂y = x/(x^2 + y^2)
+
+We can certainly integrate these equations; the result is
+
+f(x,y) = tan^{-1}(y/x) + constant
+
+But this is not a smooth function everywhere on R^2−{(0,0)}. This means that we can't, in fact, write ω = df for a well defined function on R^2−{(0,0)}. We learn that removing a point makes a big difference: now closed no longer implies exact.
+
+There is a similar story for R^3. Indeed, this is how magnetic monopoles sneak back into physics, despite being forbidden by the Maxwell equation ∇·B = 0. You can learn more about this in the lectures on Gauge Theory.
+
+Betti Numbers
+
+We denote the set of all closed p-forms on a manifold M as Z^p(M). Equivalently, Z^p(M) is the kernel of the map d : Λ^p(M) → Λ^{p+1}(M).
+
+We denote the set of all exact p-forms on a manifold M as B^p(M). Equivalently, B^p(M) is the range of d : Λ^{p-1}(M) → Λ^p(M).
+
+The p-th de Rham cohomology group is defined to be
+
+H^p(M) = Z^p(M)/B^p(M)
+
+The quotient here is an equivalence class. Two closed forms ω, ω′ ∈ Z^p(M) are said to be equivalent if ω = ω′+η for some η ∈ B^p(M). We say that ω and ω′ sit in the same equivalence class [ω]. The cohomology group H^p(M) is the set of equivalence classes; in other words, it consists of closed forms mod exact forms.
+
+The Betti numbers B of a manifold M are defined as
+
+B = dim H^p(M)
+
+It turns out that these are always finite. The Betti number B = 1 for any connected manifold. This can be traced to the existence of constant functions which are clearly closed but, because there are no p = −1 forms, are not exact. The higher Betti numbers are non-zero only if the manifold has some interesting topology. Finally, the Euler character is defined as the alternating sum of Betti numbers,
+
+χ(M) = Σ_p (−1)^p B_p          (2.35)
+
+Here are some simple examples. We've already seen that the circle S^1 has a closed, non-exact one-form. This means that B = 1 and χ = 0. The sphere S^n has only B = 1 and χ = 1+(−1)^n. The torus T^n has B = C(n, p) and χ = 0.
+
+2.4.4 Integration
+
+We have learned how to differentiate on manifolds by using a vector field X. Now it is time to learn how to integrate. It turns out that the things that we integrate on manifolds are forms.
+
+Integrating over Manifolds
+
+To start, we need to orient ourselves. A volume form, or orientation on a manifold of dimension dim(M) = n is a nowhere-vanishing top form v. Any top form has just a single component and can be locally written as
+
+v = v(x) dx^1 ∧ ... ∧ dx^n
+
+where we require v(x) ≠ 0. If such a top form exists everywhere on the manifold, then M is said to be orientable.
+
+The orientation is called right-handed if v(x) > 0 everywhere, and left-handed if v(x) < 0 everywhere. Given one volume form v, we can always construct another by multiplying by a function, giving ṽ = fv where f(x) > 0 everywhere or f(x) < 0 everywhere.
+
+It’s no It's not enough to just write down a volume form with v(x) ≠ 0 locally. We must also ensure that we can patch these volume forms together over the manifold, without the handedness changing. Suppose that we have two sets of coordinates, xµ and x˜µ that overlap on some region. In the new coordinates, the volume form is given by v = v(x) dx˜µ1 ∧...∧ dx˜µn = v(x) det (∂xµ/∂x˜ν) dx˜1 ∧...∧dx˜n which has the same orientation provided det (∂xµ/∂x˜ν) > 0 (2.36)
+
+Non-orientable manifolds cannot be covered by overlapping charts such that (2.36) holds. Examples include the Möbius strip and real projective space RPn for n even. (In contrast RPn is orientable for n odd, and CPn is orientable for all n.) In these lectures, we deal only with orientable manifolds.
+
+Given a volume form v on M, we can integrate any function f : M → R over the manifold. In a chart ϕ : O → U, with coordinates xµ, we have ∫_O f v = ∫_U dx¹ ... dxⁿ f(x) v(x)
+
+On the right-hand-side, we’re just doing normal integration over some part of Rn. The volume form is playing the role of a measure, telling us how much to weight various parts of the integral. To integrate over the entire manifold, we divide the manifold up into different regions, each covered by a single chart. We then perform the integral over each region and sum the results.
+
+Integrating over Submanifolds We don’t have to integrate over the full manifold M. We can integrate over some lower dimensional submanifold.
+
+A manifold Σ with dimension k < n is a submanifold of M if we can find a map ϕ : Σ → M which is one-to-one (which ensures that Σ doesn’t intersect itself in M) and ϕ* : T_p(Σ) → T_ϕ(p)(M) is one-to-one.
+
+We can then integrate a k-form ω on M over a k-dimensional submanifold Σ. We do this by pulling back the k-form to Σ and writing ∫_ϕ(Σ) ω = ∫_Σ ϕ*ω For example, suppose that we have a one-form A living over M. If C is a one-dimensional manifold, then we can introduce a map σ : C → M which defines a non-intersecting, one-dimensional curve σ(C) which is a submanifold of M. We can then pull-back A onto this curve and integrate to get ∫_σ(C) A = ∫_C σ*A This probably looks more familiar in coordinates. If the curve traces out a path xµ(τ) in M, we have ∫_C σ*A = ∫_C dτ (dxµ/dτ) A_µ(x)
+
+But this is precisely the way the worldline of a particle couples to the electromagnetic field, as we previously saw in (1.20).
+
+2.4.5 Stokes’ Theorem Until now, we have considered only smooth manifolds. There is a slight generalisation that will be useful. We define a manifold with boundary in the same way as a manifold, except the charts map ϕ : O → U where U is an open subset of Rⁿ⁺ = {{x¹,...,xⁿ} such that xⁿ ≥ 0}. The boundary has co-dimension 1 and is denoted ∂M: it is the submanifold with coordinates xⁿ = 0.
+
+Consider a manifold M with boundary ∂M. If the dimension of the manifold is dim(M) = n then for any (n−1)-form ω, we have the following simple result ∫_M dω = ∫_∂M ω (2.37)
+
+This is Stokes’ theorem.
+
+We do not prove Stoke’s theorem here. The proof is fairly tedious, and does not differ greatly from the proofs of other things that you’ve called Stokes’ theorem (or Gauss’ divergence theorem) in the past. (See, for example, the lectures on Vector Calculus.) However, the wonderful thing about (2.37) is the way in which it unifies many results in a single elegant formula. To see this, we simply need to look at a few examples.
+
+The Mother of all Integral Theorems First, consider n = 1 with M the interval I. We introduce coordinates x ∈ [a,b] on the interval. The 0-form ω = ω(x) is simply a function and dω = (dω/dx)dx. In this case, the two sides of Stokes’ theorem can be evaluated to give ∫_M dω = ∫_a^b (dω/dx) dx and ∫_∂M ω = ω(b)−ω(a)
+
+Equating the two, we see that Stokes’ theorem is simply a restatement of the fundamental theorem of calculus.
+
+Next, we take M ⊂ R² to be a manifold with boundary. We introduce a one-form with coordinates ω = ω₁ dx¹ + ω₂ dx² ⇒ dω = (∂ω₂/∂x¹ − ∂ω₁/∂x²) dx¹ ∧dx² In this case, the ingredients in Stokes’ theorem are ∫_M dω = ∫_M (∂ω₂/∂x¹ − ∂ω₁/∂x²) dx¹dx² and ∫_∂M ω = ∫_∂M (ω₁ dx¹ + ω₂ dx²)
+
+Equating the two gives the result usually referred to as Green’s theorem in the plane.
+
+Finally, consider M ⊂ R³ to be a manifold with boundary, with a 2-form ω = ω₁ dx² ∧dx³ + ω₂ dx³ ∧dx¹ + ω₃ dx¹ ∧dx² The right-hand-side of Stokes theorem is ∫_∂M (ω₁ dx²dx³ + ω₂ dx³dx¹ + ω₃ dx¹dx²)
+
+Meanwhile, we computed the exterior derivative of a 2-form in (2.29). The left-hand-side of Stokes’ theorem then gives ∫_M dω = ∫_M (∂₁ ω₁ + ∂₂ ω₂ + ∂₃ ω₃) dx¹dx²dx³ This time, equating the two gives us Gauss’ divergence theorem.
+
+We see that Stokes’ theorem, as written in (2.37), is the mother of all integral theorems, packaging many famous results in a single formula. We We'll revisit this in Section 3.2.4 where we relate Stokes' theorem to a more explicit form of the divergence theorem.
+
+## 3. Introducing Riemannian Geometry
+
+We have yet to meet the star of the show. There is one object that we can place on a manifold whose importance dwarfs all others, at least when it comes to understanding gravity. This is the metric.
+
+The existence of a metric brings a whole host of new concepts to the table which, collectively, are called Riemannian geometry. In fact, strictly speaking we will need a slightly different kind of metric for our study of gravity, one which, like the Minkowski metric, has some strange minus signs. This is referred to as Lorentzian Geometry and a slightly better name for this section would be “Introducing Riemannian and Lorentzian Geometry”. However, for our immediate purposes the differences are minor. The novelties of Lorentzian geometry will become more pronounced later in the course when we explore some of the physical consequences such as horizons.
+
+## 3.1 The Metric
+
+In Section 1, we informally introduced the metric as a way to measure distances between points. It does, indeed, provide this service but it is not its initial purpose. Instead, the metric is an inner product on each vector space T_p(M).
+
+Definition: A metric g is a (0,2) tensor field that is: • Symmetric: g(X,Y) = g(Y,X).
+
+• Non-Degenerate: If, for any p ∈ M, g(X,Y) = 0 for all Y ∈ T_p(M) then X = 0.
+
+With a choice of coordinates, we can write the metric as g = g_µν(x) dx^µ ⊗ dx^ν The object g is often written as a line element ds² and this expression is abbreviated as ds² = g_µν(x) dx^µ dx^ν This is the form that we saw previously in (1.4). The metric components can be extracted by evaluating the metric on a pair of basis elements, g_µν(x) = g( ∂/∂x^µ, ∂/∂x^ν )
+
+The metric g_µν is a symmetric matrix. We can always pick a basis e_µ of each T_p(M) so that this matrix is diagonal. The non-degeneracy condition above ensures that none of these diagonal elements vanish. Some are positive, some are negative. Sylvester’s law of inertia is a theorem in algebra which states that the number of positive and negative entries is independent of the choice of basis. (This theorem has nothing to do with inertia. But Sylvester thought that if Newton could have a law of inertia, there should be no reason he couldn’t.) The number of negative entries is called the signature of the metric.
+
+3.1.1 Riemannian Manifolds
+
+For most applications of differential geometry, we are interested in manifolds in which all diagonal entries of the metric are positive. A manifold equipped with such a metric is called a Riemannian manifold. The simplest example is Euclidean space R^n which, in Cartesian coordinates, is equipped with the metric g = dx^1 ⊗ dx^1 + ... + dx^n ⊗ dx^n The components of this metric are simply g_µν = δ_µν.
+
+A general Riemannian metric gives us a way to measure the length of a vector X at each point, |X| = √(g(X,X))
+
+It also allows us to measure the angle between any two vectors X and Y at each point, using g(X,Y) = |X||Y| cos θ The metric also gives us a way to measure the distance between two points p and q along a curve in M. The curve is parameterised by σ: [a,b] → M, with σ(a) = p and σ(b) = q. The distance is then distance = ∫_a^b dt √( g(X,X) |_{σ(t)} )
+
+where X is a vector field that is tangent to the curve. If the curve has coordinates x^µ(t), the tangent vector is X^µ = dx^µ/dt, and the distance is distance = ∫_a^b dt √( g_µν(x) (dx^µ/dt)(dx^ν/dt) )
+
+Importantly, this distance does not depend on the choice of parameterisation of the curve; this is essentially the same calculation that we did in Section 1.2 when showing the reparameterisation invariance of the action for a particle.
+
+3.1.2 Lorentzian Manifolds
+
+For the purposes of general relativity, we will be working with a manifold in which one of the diagonal entries of the metric is negative. A manifold equipped with such a metric is called Lorentzian.
+
+The simplest example of a Lorentzian metric is Minkowski space. This is R^n equipped with the metric η = −dx^0 ⊗ dx^0 + dx^1 ⊗ dx^1 + ... + dx^{n−1} ⊗ dx^{n−1} The components of the Minkowski metric are η_µν = diag(−1,+1,...,+1). As this example shows, on a Lorentzian manifold we usually take the coordinate index x^µ to run from 0,1,...,n−1.
+
+At any point p on a general Lorentzian manifold, it is always possible to find an orthonormal basis {e_µ} of T_p(M) such that, locally, the metric looks like the Minkowski metric g_µν|_p = η_µν (3.1)
+
+This fact is closely related to the equivalence principle; we’ll describe the coordinates that allow us to do this in Section 3.3.2.
+
+In fact, if we find one set of coordinates in which the metric looks like Minkowski space at p, it is simple to exhibit other coordinates. Consider a different basis of vector fields related by ẽ_µ = Λ^ν_µ e_ν Then, in this basis the components of the metric are g̃_µν = Λ^ρ_µ Λ^σ_ν g_ρσ This leaves the metric in Minkowski form.
+
+η = Λ_ρ^μ(p)Λ_σ^ν(p)η^{μν}  (3.2)
+
+This is the defining equation for a Lorentz transformation that we saw previously in (1.14). We see that viewed locally – which here means at a point p – we recover some basic features of special relativity. Note, however, that if we choose coordinates so that the metric takes the form (3.1) at some point p, it will likely differ from the Minkowski metric as we move away from p.
+
+Figure 21: The lightcone at a point p, with three different types of tangent vectors.
+
+The fact that, locally, the metric looks like the Minkowski metric means that we can import some ideas from special relativity. At any point p, a vector X_p ∈ T_p(M) is said to be timelike if g_p(X_p, X_p) < 0, null if g_p(X_p, X_p) = 0, and spacelike if g_p(X_p, X_p) > 0. At each point on M, we can then draw lightcones, which are the null tangent vectors at that point. There are both past-directed and future-directed lightcones at each point, as shown in Figure 21. The novelty is that the directions of these lightcones can vary smoothly as we move around the manifold. This specifies the causal structure of spacetime, which determines who can be friends with whom. We’ll see more of this later in the lectures.
+
+We can again use the metric to determine the length of curves. The nature of a curve at a point is inherited from the nature of its tangent vector. A curve is called timelike if its tangent vector is everywhere timelike. In this case, we can again use the metric to measure the distance along the curve between two points p and q. Given a parametrisation x^μ(t), this distance is, τ = ∫_a^b dt √(−g_{μν} (dx^μ/dt)(dx^ν/dt))
+
+This is called the proper time. It is, in fact, something we’ve met before: it is precisely the action (1.27) for a point particle moving in the spacetime with metric g_{μν}.
+
+3.1.3 The Joys of a Metric Whether we’re on a Riemannian or Lorentzian manifold, there are a number of bounties that the metric brings.
+
+The Metric as an Isomorphism First, the metric gives us a natural isomorphism between vectors and covectors, g_p : T_p(M) → T_p^*(M) for each p, with the one-form constructed from the contraction of g and a vector field X.
+
+In a coordinate basis, we write X = X^μ ∂_μ. This is mapped to a one-form which, because this is a natural isomorphism, we also call X. This notation is less annoying than you might think; in components the one-form is written as X_μ = X_μ dx^μ. The components are then related by X_μ = g_{μν} X^ν Physicists usually say that we use the metric to lower the index from X^μ to X_μ. But in their heart, they mean “the metric provides a natural isomorphism between a vector space and its dual”.
+
+Because g is non-degenerate, the matrix g_{μν} is invertible. We denote the inverse as g^{μν}, with g^{μν} g_{νρ} = δ^μ_ρ. Here g^{μν} can be thought of as the components of a symmetric (2,0) tensor ĝ = g^{μν} ∂_μ ⊗ ∂_ν. More importantly, the inverse metric allows us to raise the index on a one-form to give us back the original tangent vector, X^μ = g^{μν} X_ν In Euclidean space, with Cartesian coordinates, the metric is simply g_{μν} = δ_{μν} which is so simple it hides the distinction between vectors and one-forms. This is the reason we didn’t notice the difference between these spaces when we were five.
+
+The Volume Form The metric also gives us a natural volume form on the manifold M. On a Riemannian manifold, this is defined as v = √(det g_{μν}) dx^1 ∧ ... ∧ dx^n The determinant is usually simply written as g = det g_{μν}. On a Lorentzian manifold, the determinant is negative and we instead have v = √(−g) dx^0 ∧ ... ∧ dx^{n-1}  (3.3)
+
+As defined, the volume form looks coordinate dependent. Importantly, it is not. To see this, introduce some rival coordinates ̃x^μ, with dx^μ = A^μ_ν d̃x^ν   where   A^μ_ν = ∂x^μ / ∂̃x^ν In the new coordinates, the wedgey part of the volume form becomes dx^1 ∧ ... ∧ dx^n = A^1_{μ1} ... A^n_{μn} d̃x^{μ1} ∧ ... ∧ d̃x^{μn} We can rearrange the one-forms into the order d̃x^1 ∧ ... ∧ d̃x^n. We pay a price of + or −1 depending on whether {μ_1,...,μ_n} is an even or odd permutation of {1,...,n}. Since we’re summing over all indices, this is the same as summing over all permutations π of {1,...,n}, and we have ∑_{perms π} sign(π) A^1_{π(1)} ... A^n_{π(n)} d̃x^1 ∧ ... ∧ d̃x^n = det(A) d̃x^1 ∧ ... ∧ d̃x^n where det(A) > 0 if the change of coordinates preserves the orientation. This factor of det(A) is the usual Jacobian factor that one finds when changing the measure in an integral.
+
+Meanwhile, the metric components transform as g_{μν} = g̃_{ρσ} (∂̃x^ρ / ∂x^μ) (∂̃x^σ / ∂x^ν) = (A^{-1})^ρ_μ (A^{-1})^σ_ν g̃_{ρσ} and so the determinant becomes det g_{μν} = (det A^{-1})^2 det g̃_{ρσ} = det g̃_{μν} / (det A)^2 We see that the factors of det A cancel, and we can equally write the volume form as v = √(|g̃|) d̃x^1 ∧ ... ∧ d̃x^n The volume form (3.3) may look more familiar if we write it as v = (1/n!) v_{μ1...μn} dx^{μ1} ∧ ... ∧ dx^{μn} Here the components v_{μ1...μn} are given in terms of the totally anti-symmetric object ϵ with ϵ_{01...n-1} = +1 and other components determined by antisymmetry.
+
+determined by the sign of the permutation, v = |g|εµ1...µn µ1...µn
+
+Note that v is a tensor, which means that ε can’t quite be a tensor: instead, µ1...µn it is a tensor divided by |g|. It is sometimes said to be a tensor density. The anti-symmetric tensor density arises in many places in physics. In all cases, it should be viewed as a volume form on the manifold. (In nearly all cases, this volume form arises from a metric as here.)
+
+As with other tensors, we can use the metric to raise the indices and construct the volume form with all indices up vµ1...µn = gµ1ν1...gµnνnv = ± εµ1...µn ν1...νn |g| where we get a + sign for a Riemannian manifold, and a − sign for a Lorentzian manifold. Here εµ1...µn is again a totally anti-symmetric tensor density with ε1...n = +1.
+
+Note, however, that while we raise the indices on v using the metric, this statement doesn’t quite hold for ε which takes values 1 or 0 regardless of whether the indices are all down or all up. This reflects the fact that it is a tensor density, rather than a genuine tensor.
+
+The existence of a natural volume form means that, given a metric, we can integrate any function f over the manifold. We will sometimes write this as ∫ fv = ∫ dⁿx ±g f M M The metric ±g provides a measure on the manifold that tells us what regions of the manifold are weighted more strongly than the others in the integral.
+
+The Hodge Dual On an oriented manifold M, we can use the totally anti-symmetric tensor ε to µ1,...,µn define a map which takes a p-form ω ∈ Λp(M) to an (n − p)-form, denoted (⋆ω) ∈ Λn−p(M), defined by 1 (⋆ω)µ1...µn−p = |g| εµ1...µn−p ων1...νp p! µ1...µn−pν1...νp This map is called the Hodge dual. It is independent of the choice of coordinates.
+
+It’s not hard to check that, ⋆(⋆ω) = ±(−1)p(n−p)ω where the + sign holds for Riemannian manifolds and the − sign for Lorentzian manifolds. (To prove this, it’s useful to first show that vµ1...µpρ1...ρn−pvν1...νpρ1...ρn−p = ±p!(n−p)!δµ1 [ν1 ...δ µp νp], again with the ± sign for Riemannian/Lorentzian manifolds.)
+
+It’s worth returning to some high school physics and viewing it through the lens of our new tools. We are very used to taking two vectors in R3, say a and b, and taking the cross-product to find a third vector a×b = c In fact, we really have objects that live in three different spaces here, related by the Euclidean metric δµν. First we use this metric to relate the vectors to one-forms. The cross-product is then really a wedge product which gives us back a 2-form. We then use the metric twice more, once to turn the two-form back into a one-form using the Hodge dual, and again to turn the one-form into a vector. Of course, none of these subtleties bothered us when we were 15. But when we start thinking about curved manifolds, with a non-trivial metric, these distinctions become important.
+
+The Hodge dual allows us to define an inner product on each Λp(M). If ω, η ∈ Λp(M), we define ⟨η, ω⟩ = ∫ η ∧ ⋆ω which makes sense because ⋆ω ∈ Λn−p(M) and so η ∧ ⋆ω is a top form that can be integrated over the manifold.
+
+With such an inner product in place, we can also start to play the kind of games that are familiar from quantum mechanics and look at operators on Λp(M) and their adjoints. The one operator that we have introduced on the space of forms is the exterior derivative, defined in Section 2.4.1. Its adjoint is defined by the following result: Claim: For ω ∈ Λp(M) and α ∈ Λp−1(M), ⟨dα, ω⟩ = ⟨α, d†ω⟩ where the adjoint operator d† : Λp(M) → Λp−1(M) is given by d† = ±(−1)np+n−1 ⋆ d⋆ with, again, the ± sign for Riemannian/Lorentzian manifolds respectively.
+
+Proof: This is simply the statement of integration-by-parts for forms. On a closed manifold M, Stokes’ theorem tells us that 0 = ∫ d(α ∧ ⋆ω) = ∫ dα ∧ ⋆ω + (−1)p−1 ∫ α ∧ d ⋆ ω
+
+## M M M
+
+The first term is simply ⟨dα, ω⟩. The second term also takes the form of an inner product which, up to a sign, is proportional to ⟨α, ⋆d ⋆ ω⟩. To determine the sign, note that d ⋆ω ∈ Λn−p+1(M) so, using (3.6), we have ⋆ ⋆ d⋆ ω = ±(−1)(n−p+1)(p−1)d ⋆ ω.
+
+Putting this together gives ⟨dα, ω⟩ = ±(−1)np+n−1⟨α, ⋆d⋆ ω⟩ as promised. □
+
+3.1.4 A Sniff of Hodge Theory We can combine d and d† to construct the Laplacian, △ : Λp(M) → Λp(M), defined as △ = (d + d†)² = dd† + d†d where the second equality follows because d² = d†² = 0. The Laplacian can be defined on both Riemannian manifolds, where it is positive definite, and Lorentzian manifolds. Here we restrict our discussion to Riemannian manifolds.
+
+Acting on functions f, we have d†f = 0 (because ⋆f is a top form so d ⋆ f = 0). That leaves us with, △(f) = −⋆ d ⋆(∂µ f dxµ)
+
+= − 1 ⋆ d (∂µ f) gµν |g| ενρ1...ρn−1 dxρ1 ∧ ... ∧ dxρn−1 (n−1)! ρ1...ρn−1 = − 1 ⋆ ∂σ (|g| gµν ∂µ f) εσνρ1...ρn−1 dxσ ∧ dxρ1 ∧ ... ∧ dxρn−1 (n−1)! νρ1...ρn−1 = −⋆ ∂ν (|g| gµν ∂µ f) dx1 ∧ ... ∧ dxn = − 1 ∂ν (|g| gµν ∂µ f)
+
+|g| This form of the Laplacian, acting on functions, appears fairly often in applications of differential geometry. There is a particularly nice story involving p-forms γ that obey △γ = 0. Such forms are said to be harmonic. An harmonic form is necessarily closed, meaning dγ = 0, and co-closed, meaning d†γ = 0. This follows by writing ⟨γ,△γ⟩ = ⟨dγ,dγ⟩+⟨d†γ,d†γ⟩ = 0 and noting that the inner product is positive-definite.
+
+There are some rather pretty facts that relate the existence of harmonic forms to de Rham cohomology. The space of harmonic p-forms on a manifold M is denoted Harm^p(M). First, the Hodge decomposition theorem, which we state without proof: any p-form ω on a compact, Riemannian manifold can be uniquely decomposed as ω = dα+d†β +γ where α ∈ Λ^{p−1}(M) and β ∈ Λ^{p+1}(M) and γ ∈ Harm^p(M). This result can then be used to prove: Hodge’s Theorem: There is an isomorphism Harm^p(M) ∼= H^p(M) where H^p(M) is the de Rham cohomology group introduced in Section 2.4.3. In particular, the Betti numbers can be computed by counting the number of linearly independent harmonic forms, B = dim Harm^p(M).
+
+Proof: First, let’s show that any harmonic form γ provides a representative of H^p(M). As we saw above, any harmonic p-form is closed, dγ = 0, so γ ∈ Z^p(M). But the unique nature of the Hodge decomposition tells us that γ ̸= dβ for some β. Next, we need to show that any equivalence class [ω] ∈ H^p(M) can be represented by a harmonic form. We decompose ω = dα + d†β + γ. By definition [ω] ∈ H^p(M) means that dω = 0 so we have 0 = ⟨dω,β⟩ = ⟨ω,d†β⟩ = ⟨dα+d†β +γ,d†β⟩ = ⟨d†β,d†β⟩ where, in the final step, we “integrated by parts” and used the fact that ddα = dγ = 0. Because the inner product is positive definite, we must have d†β = 0 and, hence, ω = γ+dα. Any other representative ω˜ ∼ ω of [ω] ∈ H^p(M) differs by ω˜ = ω+dη and so, by the Hodge decomposition, is associated to the same harmonic form γ. □
+
+## 3.2 Connections and Curvature
+
+We’ve already met one version of differentiation in these lectures. A vector field X is, at heart, a differential operator and provides a way to differentiate a function f. We write this simply as X(f).
+
+As we saw previously, differentiating higher tensor fields is a little more tricky because it requires us to subtract tensor fields at different points. Yet tensors evaluated at different points live in different vector spaces, and it only makes sense to subtract these objects if we can first find a way to map one vector space into the other. In Section 2.2.4, we used the flow generated by X as a way to perform this mapping, resulting in the idea of the Lie derivative L. There is, however, a different way to take derivatives, one which ultimately will prove more useful. The derivative is again associated to a vector field X. However, this time we introduce a different object, known as a connection to map the vector spaces at one point to the vector spaces at another. The result is an object, distinct from the Lie derivative, called the covariant derivative.
+
+3.2.1 The Covariant Derivative A connection is a map ∇ : X(M)×X(M) → X(M). We usually write this as ∇(X,Y) = ∇_X Y and the object ∇ is called the covariant derivative. It satisfies the following properties for all vector fields X, Y and Z, • ∇_X (Y +Z) = ∇_X Y +∇_X Z • ∇_{(fX+gY)} Z = f∇_X Z +g∇_Z for all functions f,g.
+
+• ∇_X (fY) = f∇_X Y +(∇_X f)Y where we define ∇_X f = X(f)
+
+The covariant derivative endows the manifold with more structure. To elucidate this, we can evaluate the connection in a basis {e_ρ} of X(M). We can always express this as ∇_{e_ρ} e_ν = Γ^µ_{ρν} e_µ (3.8) with Γ^µ_{ρν} the components of the connection. It is no coincidence that these are denoted by the same greek letter that we used for the Christoffel symbols in Section 1. However, for now, you should not conflate the two; we’ll see the relationship between them in Section 3.2.3.
+
+The name “connection” suggests that ∇, or its components Γ^µ_{νρ}, connect things. Indeed they do. We will show in Section 3.3 that the connection provides a map from the tangent space T_p(M) to the tangent space at any other point T_q(M). This is what allows the connection to act as a derivative.
+
+We will use the notation ∇ = ∇_{µ} e^µ. This makes the covariant derivative ∇ look similar to a partial derivative. Using the properties of the connection, we can write a general covariant derivative of a vector field as ∇_X Y = ∇_X (Y^µ e_µ) = X(Y^µ)e_µ + Y^µ ∇_X e_µ = X^ν e_ν (Y^µ)e_µ + X^ν Y^µ ∇_{e_ν} e_µ = X^ν e_ν (Y^µ)+Γ^µ_{νρ} Y^ρ e_µ. The fact that we can strip off the overall factor of X^ν means that it makes sense to write the components of the covariant derivative as ∇_ν Y = (e_ν (Y^µ)+Γ^µ_{νρ} Y^ρ)e_µ. Or, in components, (∇_ν Y)^µ = e_ν (Y^µ)+Γ^µ_{νρ} Y^ρ (3.9).
+
+Note that the covariant derivative coincides with the Lie derivative on functions, ∇_X f = L_X f = X(f). It also coincides with the old-fashioned partial derivative: ∇_µ f = ∂_µ f. However, its action on vector fields differs. In particular, the Lie derivative L_X Y = [X,Y] depends on both X and the first derivative of X while, as we have seen above, the covariant derivative depends only on X. This is the property that allows us to write ∇ = Xν∇ and think of ∇ as an operator in its own right. In contrast, there is no way to write “L = XµL”. While the Lie derivative has its uses, the ability to define ∇ means that this is best viewed as the natural generalisation of the partial derivative to curved space.
+
+Differentiation as Punctuation
+
+In a coordinate basis, in which e = ∂, the covariant derivative (3.9) becomes
+
+(∇ Y)µ = ∂ Yµ +Γµ Yρ (3.10)
+
+We will differentiate often. To save ink, we use the sloppy, and sometimes confusing, notation
+
+(∇ Y)µ = ∇ Yµ
+
+This means, in particular, that ∇ Yµ is the µth component of ∇ Y, rather than the differentiation of the function Yµ.
+
+Covariant differentiation is sometimes denoted using a semi-colon
+
+∇ Yµ = Yµ
+
+In this convention, the partial derivative is denoted using a mere comma, ∂ Yν = Yν . The expression (3.10) then reads
+
+Yµ = Yµ +Γµ Yρ
+
+I’m proud to say that we won’t adopt the “semi-colon = differentiation” notation in these lectures. Because it’s stupid.
+
+The Connection is Not a Tensor
+
+The Γµ defining the connection are not components of a tensor. We can see this immediately from the definition ∇(X,fY) = ∇ (fY) = f∇ Y + (X(f))Y. This is not linear in the second argument, which is one of the requirements of a tensor.
+
+To illustrate this, we can ask what the connection looks like in a different basis,
+
+e˜ = Aµ e (3.11)
+
+for some invertible matrix A. If e and e˜ are both coordinate bases, then
+
+∂xµ Aµ = ν ∂x˜ν
+
+We know from (2.23) that the components of a (1,2) tensor transform as
+
+T ˜µ = (A−1)µ Aλ Aσ Tτ (3.12)
+
+We can now compare this to the transformation of the connection components Γµ . In the basis e˜ , we have
+
+∇ e˜ = Γ ˜µ e˜
+
+Substituting in the transformation (3.11), we have
+
+Γ ˜µ e˜ = ∇ (Aλ e ) = Aσ ∇ (Aλ e ) = Aσ Aλ Γτ e +Aσ e ∂ Aλ
+
+We can write this as
+
+Γ ˜µ e˜ = Aσ Aλ Γτ +Aσ ∂ Aτ e
+
+= Aσ Aλ Γτ +Aσ ∂ Aτ (A−1)µ e˜
+
+Stripping off the basis vectors e˜ , we see that the components of the connection transform as
+
+Γ ˜µ = (A−1)µ Aσ Aλ Γτ +(A−1)µ Aσ ∂ Aτ (3.13)
+
+The first term coincides with the transformation of a tensor (3.12). But the second term, which is independent of Γ, but instead depends on ∂A, is novel. This is the characteristic transformation property of a connection.
+
+Differentiating Other Tensors
+
+We can use the Leibniz property of the covariant derivative to extend its action to any tensor field. It’s best to illustrate this with an example.
+
+Consider a one-form ω. If we differentiate ω, we will get another one-form ∇ ω which, like any one-form, is defined by its action on vector fields Y ∈ X(M). To construct this, we will insist that the connection obeys Leibniz in the modified sense that
+
+∇ (ω(Y)) = (∇ ω)(Y)+ω(∇ Y)
+
+But ω(Y) is simply a function, which means that we can also write this as
+
+∇ (ω(Y)) = X(ω(Y))
+
+Putting these together gives
+
+(∇ ω)(Y) = X(ω(Y))−ω(∇ Y)
+
+In coordinates, we have
+
+Xµ(∇ ω) Yν = Xµ∂ (ω Yν)−ω Xµ(∂ Yν +Γν Yρ)
+
+= Xµ(∂ ω −Γν ω )Yρ
+
+where, crucially, the ∂Y terms cancel in going from the first to the second line. This means that the overall result is linear in Y and we may define ∇ ω without reference to the vector field Y on which is acts. In components, we have
+
+(∇ ω) = ∂ ω −Γν ω
+
+As for vector fields, we also write this as
+
+(∇ ω) ≡ ∇ ω ≡ ω = ω −Γν ω
+
+This kind of argument can be extended to a general tensor field of rank (p,q), where the covariant derivative is defined by,
+
+Tµ1...µp = Tµ1...µp +Γµ1Tσµ2...µp +...+ΓµpTµ1...µp−1σ ν1...νq;ρ ν1...νq,ρ ρσ ν1...νq ρσ ν1...νq
+
+−Γσ Tµ1...µp −...−Γσ Tµ1...µp ρν1 σν2...νq ρνq ν1...νq−1σ
+
+The pattern is clear: for every upper index µ we get a +ΓT term, while for every lower index we get a −ΓT term.
+
+Now that we can differentiate tensors, we will also need to extend our punctuation notation slightly. If more than two subscripts follow a semi-colon (or, indeed, a comma) then we differentiate respect to both, doing the one on the left first. So, for example, Xµ = ∇ ∇ Xµ.
+
+3.2.2 Torsion and Curvature
+
+Even though the connection is not a tensor, we can use it to construct two tensors. The first is a rank (1,2) tensor T known as torsion. It is defined to act on X,Y ∈ X(M) and ω ∈ Λ1(M) by
+
+T(ω;X,Y) = ω(∇ Y −∇ X −[X,Y])
+
+The other is a rank (1,3) tensor R, known as curvature. It acts on X,Y,Z ∈ X(M) and ω ∈ Λ1(M) by
+
+R(ω;X,Y,Z) = ω(∇ ∇ Z −∇ ∇ Z −∇ Z)
+
+The curvature tensor is also called the Riemann tensor.
+
+Alternatively, we could think of torsion as a map T : X(M)×X(M) → X(M), defined by
+
+T(X,Y) = ∇ Y −∇ X −[X,Y]
+
+Similarly, the curvature R can be viewed as a map from X(M)×X(M) to a differential operator acting on X(M).
+
+M), R(X,Y) = ∇_X∇_Y −∇_Y∇_X −∇_{[X,Y]} (3.14)
+
+Checking Linearity To demonstrate that T and R are indeed tensors, we need to show that they are linear in all arguments. Linearity in ω is straightforward. For the others, there are some small calculations to do. For example, we must show that T(ω;fX,Y) = fT(ω;X,Y). To see this, we just run through the definitions of the various objects, T(ω;fX,Y) = ω(∇_{fX} Y −∇_Y (fX)−[fX,Y])
+
+We then use ∇_{fX} Y = f∇_X Y and ∇_Y (fX) = f∇_Y X+Y(f)X and [fX,Y] = f[X,Y]−Y(f)X. The two Y(f)X terms cancel, leaving us with T(ω;fX,Y) = fω(∇_X Y −∇_Y X −[X,Y])
+
+= fT(ω;X,Y)
+
+Similarly, for the curvature tensor we have R(ω;fX,Y,Z) = ω(∇_{fX}∇_Y Z −∇_Y∇_{fX} Z −∇_{[fX,Y]} Z)
+
+= ω(f∇_X∇_Y Z −∇_Y (f∇_X Z)−∇_{f[X,Y]−Y(f)X} Z)
+
+= ω(f∇_X∇_Y Z −f∇_Y∇_X Z −Y(f)∇_X Z −f∇_{[X,Y]} Z +Y(f)∇_X Z)
+
+= ω(f∇_X∇_Y Z −f∇_Y∇_X Z −Y(f)∇_X Z −f∇_{[X,Y]} Z +Y(f)∇_X Z)
+
+= fω(∇_X∇_Y Z −∇_Y∇_X Z −∇_{[X,Y]} Z)
+
+= fR(ω;X,Y,Z)
+
+Linearity in Y follows from linearity in X. But we still need to check linearity in Z, R(ω;X,Y,fZ) = ω(∇_X∇_Y (fZ)−∇_Y∇_X (fZ)−∇_{[X,Y]} (fZ))
+
+= ω(∇_X (f∇_Y Z +Y(f)Z)−∇_Y (f∇_Z Z +X(f)Z)
+
+−f∇_{[X,Y]} Z −[X,Y](f)Z)
+
+= ω(f∇_X∇_Y Z +X(f)∇_Y Z +Y(f)∇_X Z +X(Y(f))Z −f∇_Y∇_X Z −Y(f)∇_X Z −X(f)∇_Z Z −Y(X(f))Z −f∇_{[X,Y]} Z −[X,Y](f)Z)
+
+= fR(ω;X,Y,Z)
+
+Thus, both torsion and curvature define new tensors on our manifold.
+
+Components We can evaluate these tensors in a coordinate basis {e_µ} = {∂_µ}, with the dual basis {fµ} = {dxµ}. The components of the torsion are T^ρ_{µν} = T(fρ;e_µ,e_ν)
+
+= fρ(∇_µ e_ν −∇_ν e_µ −[e_µ,e_ν])
+
+= fρ(Γ^σ_{µν} e_σ −Γ^σ_{νµ} e_σ)
+
+= Γ^ρ_{µν} −Γ^ρ_{νµ} where we’ve used the fact that, in a coordinate basis, [e_µ,e_ν] = [∂_µ,∂_ν] = 0. We learn that, even though Γ^ρ_{µν} is not a tensor, the anti-symmetric part Γ^ρ_{[µν]} does form a tensor. Clearly the torsion tensor is anti-symmetric in the lower two indices T^ρ_{µν} = −T^ρ_{νµ} Connections which are symmetric in the lower indices, so Γ^ρ_{µν} = Γ^ρ_{νµ} have T^ρ_{µν} = 0. Such connections are said to be torsion-free.
+
+The components of the curvature tensor are given by R^σ_{ρµν} = R(fσ;e_µ,e_ν,e_ρ)
+
+Note the slightly counterintuitive, but standard ordering of the indices; the indices µ and ν that are associated to covariant derivatives ∇_µ and ∇_ν go at the end. We have R^σ_{ρµν} = fσ(∇_µ∇_ν e_ρ −∇_ν∇_µ e_ρ −∇_{[eµ,eν]} e_ρ)
+
+= fσ(∇_µ∇_ν e_ρ −∇_ν∇_µ e_ρ)
+
+= fσ(∇_µ (Γ^λ_{νρ} e_λ)−∇_ν (Γ^λ_{µρ} e_λ))
+
+= fσ((∂_µ Γ^λ_{νρ})e_λ +Γ^λ_{νρ} Γ^τ_{µλ} e_τ −(∂_ν Γ^λ_{µρ})e_λ −Γ^λ_{µρ} Γ^τ_{νλ} e_τ)
+
+= ∂_µ Γ^σ_{νρ} −∂_ν Γ^σ_{µρ} +Γ^λ_{νρ} Γ^σ_{µλ} −Γ^λ_{µρ} Γ^σ_{νλ} (3.15)
+
+Clearly the Riemann tensor is anti-symmetric in its last two indices R^σ_{ρµν} = −R^σ_{ρνµ} Equivalently, R^σ_{ρµν} = R^σ_{ρ[µν]}. There are a number of further identities of the Riemann tensor of this kind. We postpone this discussion to Section 3.4.
+
+The Ricci Identity There is a closely related calculation in which both the torsion and Riemann tensors appears. We look at the commutator of covariant derivatives acting on vector fields. Written in an orgy of anti-symmetrised notation, this calculation gives ∇_[µ ∇_ν] Z^σ = ∂_[µ (∇_ν] Z^σ)+Γ^σ_{[µ|λ| ∇_ν] Z^λ −Γ^ρ_{µν]} ∇_ρ Z^σ = ∂_µ ∂_ν Z^σ +(∂_[µ Γ^σ_{ν]ρ})Z^ρ +(∂_[µ Z^ρ)Γ^σ_{ν]ρ} +Γ^σ_{[µ|λ| ∂_ν] Z^λ +Γ^σ_{[µ|λ| Γ^λ_{ν]ρ}} Z^ρ −Γ^ρ_{µν]} ∇_ρ Z^σ The first term vanishes, while the third and fourth terms cancel against each other. We’re left with 2∇_[µ ∇_ν] Z^σ = R^σ_{ρµν} Z^ρ −T^ρ_{µν} ∇_ρ Z^σ (3.16)
+
+where the torsion tensor is T^ρ_{µν} = 2Γ^ρ_{[µν]} and the Riemann tensor appears as R^σ_{ρµν} = 2∂_[µ Γ^σ_{ν]ρ} +2Γ^σ_{[µ|λ| Γ^λ_{ν]ρ} which coincides with (3.15). The expression (3.16) is known as the Ricci identity.
+
+3.2.3 The Levi-Civita Connection So far, our discussion of the connection ∇ has been entirely independent of the metric. However, something nice happens if we have both a connection and a metric. This something nice is called the fundamental theorem of Riemannian geometry. (Happily, it’s also true for Lorentzian geometries.)
+
+Theorem: There exists a unique, torsion free, connection that is compatible with a metric g, in the sense that ∇_X g = 0 for all vector fields X.
+
+Proof: We start by showing uniqueness. Suppose that such a connection exists. Then, by Leibniz X(g(Y,Z)) = ∇_X (g(Y,Z)) = (∇_X g)(Y,Z)+g(∇_X Y,Z)+g(Y,∇_X Z)
+
+Since ∇_X g = 0, this becomes X(g(Y,Z)) = g(∇_X Y,Z)+g(∇_X Z,Y)
+
+By cyclic permutation of X, Y and Z, we also have Y(g(Z,X)) = g(∇_Y Z,X)+g(∇_Y X,Z)
+
+Z(g(X,Y)) = g(∇_Z X,Y)+g(∇_Z Y,X)
+
+Since the torsion vanishes, we have ∇_X Y −∇_Y X = [X,Y]
+
+We can use this to write the cyclically permuted equations as X(g(Y,Z)) = g(∇_Y X,Z)+g(∇_X Z,Y)+g([X,Y],Z)
+
+Y(g(Z,X)) = g(∇_Z Y,X)+g(∇_Y X,Z)+g([Y,Z],X)
+
+Z(g(X,Y)) = g(∇_X Z,Y)+g(∇_Z Y,X)+g([Z,X],Y)
+
+Add the first two of these equations, and subtract the third. We find g(∇_X Z,Y) = ½ [ X(g(Y,Z))+Y(g(Z,X))−Z(g(X,Y))
+
+− g([X,Y],Z)−g([Y,Z],X)+g([Z,X],Y) ] (3.17)
+
+But with a non-degenerate metric, this specifies the connection uniquely. We’ll give an expression in terms of components in (3.18) below.
+
+It remains to show that the object ∇ defined this way does indeed satisfy the pro properties expected of a connection. The tricky one turns out to be the requirement that ∇_X(fY) = f∇_X Y + X(f)Y. We can see that this is indeed the case as follows: ∇_X(fY) = f∇_X Y + X(f)Y The other properties of the connection follow similarly. □
+
+The connection (3.17), compatible with the metric, is called the Levi-Civita connection. We can compute its components in a coordinate basis {e_μ} = {∂_μ}. This is particularly simple because [∂_μ, ∂_ν] = 0, leaving us with g(∇_e_ν e_μ, e_λ) = Γ^λ_{μν} = (1/2)g_{λρ}(∂_μ g_{νρ} + ∂_ν g_{μρ} − ∂_ρ g_{μν})
+
+Multiplying by the inverse metric gives Γ^λ_{μν} = (1/2)g^{λρ}(∂_μ g_{νρ} + ∂_ν g_{μρ} − ∂_ρ g_{μν})  (3.18)
+
+The components of the Levi-Civita connection are called the Christoffel symbols. They are the objects (1.31) we met already in Section 1 when discussing geodesics in spacetime. For the rest of these lectures, when discussing a connection we will always mean the Levi-Civita connection.
+
+An Example: Flat Space In flat space ℝ^d, endowed with either Euclidean or Minkowski metric, we can always pick Cartesian coordinates, in which case the Christoffel symbols vanish. However, in other coordinates this need not be the case. For example, in Section 1.1.1, we computed the flat space Christoffel symbols in polar coordinates (1.10). They don’t vanish. But because the Riemann tensor is a genuine tensor, if it vanishes in one coordinate system then it must vanish in all of them. Given some horrible coordinate system, with Γ^ρ_{μν} ≠ 0, we can always compute the corresponding Riemann tensor to see if the space is actually flat after all.
+
+Another Example: The Sphere S^2 Consider S^2 with radius r and the round metric ds^2 = r^2(dθ^2 + sin^2θ dϕ^2)
+
+We can extract the Christoffel symbols from those of flat space in polar coordinates (1.10). The non-zero components are Γ^θ_{ϕϕ} = −sinθ cosθ, Γ^ϕ_{θϕ} = Γ^ϕ_{ϕθ} = cotθ  (3.19)
+
+From these, it is straightforward to compute the components of the Riemann tensor. They are most simply expressed as R^σ_{ρμν} = g^{σλ} R_{λρμν} and are given by R_{θϕθϕ} = R_{ϕθϕθ} = −R_{θϕϕθ} = −R_{ϕθθϕ} = r^2 sin^2θ  (3.20)
+
+with the other components vanishing.
+
+3.2.4 The Divergence Theorem Gauss’ Theorem, also known as the divergence theorem, states that if you integrate a total derivative, you get a boundary term. There is a particular version of this theorem in curved space that we will need for later applications.
+
+As a warm-up, we have the following result: Lemma: The contraction of the Christoffel symbols can be written as Γ^μ_{μν} = ∂_ν log √|g| = (1/√|g|) ∂_ν √|g|  (3.21)
+
+On Lorentzian manifolds, we should replace √g with √|g|.
+
+Proof: From (3.18), we have Γ^μ_{μν} = (1/2) g^{μρ} ∂_ν g_{μρ} = (1/2) tr(g^{-1} ∂_ν g) = (1/2) ∂_ν tr(log g)
+
+However, there’s a useful identity for the log of any diagonalisable matrix: they obey tr(log A) = log det A This is clearly true for a diagonal matrix, since the determinant is the product of eigenvalues while the trace is the sum. But both trace and determinant are invariant under conjugation, so this is also true for diagonalisable matrices. Applying it to our metric formula above, we have Γ^μ_{μν} = (1/2) ∂_ν tr(log g) = (1/2) ∂_ν log det g = (1/2) ∂_ν log|g| = (1/√|g|) ∂_ν √|g| which is the claimed result. □
+
+With this in hand, we can now prove the following: Divergence Theorem: Consider a region of a manifold M with boundary ∂M. Let n^μ be an outward-pointing, unit vector orthogonal to ∂M. Then, for any vector field X^μ on M, we have ∫_M d^n x √|g| ∇_μ X^μ = ∫_{∂M} d^{n-1} x √|γ| n_μ X^μ where γ_{ij} is the pull-back of the metric to ∂M, and γ = det γ_{ij}. On a Lorentzian manifold, a version of this formula holds only if ∂M is purely timelike or purely spacelike, which ensures that γ ≠ 0 at any point.
+
+Proof: Using the lemma above, the integrand is √|g| ∇_μ X^μ = √|g| (∂_μ X^μ + Γ^μ_{μν} X^ν) = √|g| (∂_μ X^μ + X^ν (1/√|g|) ∂_ν √|g|) = ∂_μ (√|g| X^μ)
+
+The integral is then ∫_M d^n x √|g| ∇_μ X^μ = ∫_M d^n x ∂_μ (√|g| X^μ)
+
+which now is an integral of an ordinary partial derivative, so we can apply the usual divergence theorem that we are familiar with. It remains only to evaluate what’s happening at the boundary ∂M. For this, it is useful to pick coordinates so that the boundary ∂M is a surface of constant x^n. Furthermore, we will restrict to metrics of the form g_{μν} = ( γ_{ij}  0 0     N^2 )
+
+Then by our usual rules of integration, we have ∫_M d^n x ∂_μ (√|g| X^μ) = ∫_{∂M} d^{n-1} x √γ N^2 X^n The unit normal vector n_μ is given by n_μ = (0, 0, ..., 1/N), which satisfies g^{μν} n_μ n_ν = 1 as it should. We then have n^μ = g^{μν} n_ν = (0, 0, ..., N), so we can write ∫_M d^n x √|g| ∇_μ X^μ = ∫_{∂M} d^{n-1} x √|γ| n_μ X^μ which is the result we need. As the final expression is a covariant quantity, it is true in general. □
+
+In Section 2.4.5, we advertised Stokes’ theorem in its more familiar form.
+
+Theorem as the mother of all integral theorems.
+
+It’s perhaps not surprising to hear that the divergence theorem is a special case of Stokes’ theorem. To see this, here’s an alternative proof that uses the language of forms.
+
+Another Proof: Given the volume form v on M, and a vector field X, we can contract the two to define an n−1 form ω = ιv. (This is the interior product that we previously met in (2.30).) It has components ω = gXνϵµ1...µn−1 νµ1...µn−1 If we now take the exterior derivative, dω, we have a top-form. Since the top form is unique up to multiplication, dω must be proportional to the volume form. Indeed, it’s not hard to show that (dω) = gϵ ∇ Xν µ1...µn µ1...µn ν This means that, in form language, the integral over M that we wish to consider can be written as ∫ dnx g∇ Xµ = ∫ dω M M Now we invoke Stokes’ theorem, to write ∫ dω = ∫ ω M ∂M We now need to massage ω into the form needed. First, we introduce a volume form vˆ on ∂M, with components vˆ = γϵ µ1...µn−1 µ1...µn−1 This is related to the volume form on M by v = vˆ n µ1...µn−1ν [µ1...µn−1 ν]
+
+where nµ is the orthonormal vector that we introduced previously. We then have ω = γ(n Xν)ϵ˜ µ1...µn−1 ν µ1...µn−1 The divergence theorem then follows from Stokes’ theorem. □
+
+3.2.5 The Maxwell Action Let’s briefly turn to some physics. We take the manifold M to be spacetime. In classical field theory, the dynamical degrees of freedom are objects that take values at each point in M. We call these objects fields. The simplest such object is just a function which, in physics, we call a scalar field.
+
+As we described in Section 2.4.2, the theory of electromagnetism is described by a one-form field A. In fact, there is a little more structure because we ask that the theory is invariant under gauge transformations A → A+dα To achieve this, we construct a field strength F = dA which is indeed invariant under gauge transformations. The next question to ask is: what are the dynamics of these fields?
+
+The most elegant and powerful way to describe the dynamics of classical fields is provided by the action principle. The action is a functional of the fields, constructed by integrating over the manifold. The differential geometric language that we’ve developed in these lectures tells us that there are, in fact, very few actions one can write down.
+
+To see this, suppose that our manifold has only the 2-form F but is not equipped with a metric. If spacetime has dimension dim(M) = 4 (it does!) then we need to construct a 4-form to integrate over M. There is only one of these at our disposal, suggesting the action S = − ∫ F ∧F top If we expand this out in the electric and magnetic fields using (2.32), we find S = ∫ dx0dx1dx2dx3 E·B top Actions of this kind, which are independent of the metric, are called topological. They are typically unimportant in classical physics. Indeed, we can locally write F ∧ F = d(A∧F), so the action is a total derivative and does not affect the classical equations of motion. Nonetheless, topological actions often play subtle and interesting roles in quantum physics. For example, the action S underlies the theory of topological insulators. You can read more about this in Section 1 of the lectures on Gauge Theory.
+
+To construct an action that gives rise to interesting classical dynamics, we need to introduce a metric. The existence of a metric allows us to introduce a second two-form, ⋆F, and construct the action SMaxwell = − ½ ∫ F ∧⋆F = − ¼ ∫ d4x √−g gµν gρσ Fµρ Fνσ = − ¼ ∫ d4x √−g FµνFµν This is the Maxwell action, now generalised to a curved spacetime. If we restrict to flat Minkowski space, the components are FµνFµν = 2(B²−E²). As we saw in our lectures on Electromagnetism, varying this action gives the remaining two Maxwell equations.
+
+In the elegant language of differential geometry, these take the simple form d⋆F = 0 We can also couple the gauge field to an electric current. This is described by a one-form J, and we write the action S = − ∫ F ∧⋆F + ∫ A∧⋆J We require that this action is invariant under gauge transformations A → A+dα. The action transforms as S → S + ∫ dα∧⋆J After an integration by parts, the second term vanishes provided that d⋆J = 0 which is the requirement of current conservation expressed in the language of forms.
+
+The Maxwell equations now have a source term, and read d⋆F = ⋆J (3.22)
+
+We see that the rigid structure of differential geometry leads us by the hand to the theories that govern our world. We’ll see this again in Section 4 when we discuss gravity.
+
+Electric and Magnetic Charges To define electric and magnetic charges, we integrate over submanifolds. For example, consider a three-dimensional spatial submanifold Σ. The electric charge in Σ is defined to be Q = ∫ ⋆J It’s simple to check that this agrees with our usual definition Q = ∫ d3x J0 in flat Minkowski space. Using the equation of motion (3.22), we can translate this into an integral of the field strength ∫ Q = d⋆F = ⋆F (3.23)
+
+Σ ∂Σ where we have used Stokes’ theorem to write this as an integral over the boundary ∂Σ. The result is the general form of Gauss’ law, relating the electric charge in a region to the electric field piercing the boundary of the region. Similarly, we can define the magnetic charge ∫ Q = F ∂Σ When we first meet Maxwell theory, we learn that magnetic charges do not exist, courtesy of the identity dF = 0. However, this can be evaded in topologically more interesting spaces. We’ll see a simple example in Section 6.2.1 when we discuss charged black holes.
+
+The statement of current conservation d ⋆ J = 0 means that the electric charge Q e in a region cannot change unless current flows in or out of that region. This fact, familiar from Electromagnetism, also has a nice expression in terms of forms. Consider a cylindrical region of spacetime V, ending on two spatial hypersurfaces Σ and Σ 2 as shown in the figure. The boundary of V is then ∂V = Σ ∪ Σ ∪ B 1 2 where B is the cylindrical timelike hypersurface. We require that J = 0 on B, which is the statement that no current flows in or out of the region. Then we have ∫ ∫ ∫ ∫ Q (Σ )−Q (Σ ) = ⋆J − ⋆J = ⋆J = d⋆J = 0 e 1 e 2 Σ1 Σ2 ∂V V which tells us that the electric charge remains constant in time.
+
+Maxwell Equations Using Connections The form of the Maxwell equations given above makes no reference to a connection. It does, however, use the metric, buried in the definition of the Hodge ⋆. There is an equivalent formulation of the Maxwell equation using the covariant derivative. This will also serve to highlight the relationship between the covariant and exterior derivatives. First note that, given a one-form A ∈ Λ1(M), we can define the field strength as F = ∇ A −∇ A = ∂ A −∂ A µν µ ν ν µ µ ν ν µ where the Christoffel symbols have cancelled out by virtue of the anti-symmetry. This is what allowed us to define the exterior derivative without the need for a connection.
+
+Next, consider the current one-form J. We can recast the statement of current conservation as follows: Claim: d⋆J = 0 ⇔ ∇ Jµ = 0
+
+Proof: We have 1 √ ∇ Jµ = ∂ Jµ +Γµ Jρ = √ ∂ (−gJµ)
+
+µ µ µρ −g µ where, in the second equality, we have used our previous result (3.21): Γµ = ∂ log |g|. But this final form is proportional to d⋆J, with the Hodge dual defined in (3.5). □ As an aside, in Riemannian signature the formula 1 √ ∇ Jµ = √ ∂ ( gJµ)
+
+µ µ provides a quick way of computing the divergence in different coordinate systems (if you don’t have the inside cover of Jackson to hand). For example, in spherical polar coordinates on R3, we have g = r4sin2θ. Plug this into the expression above to immediately find 1 1 ∇·J = ∂ (r2Jr)+ ∂ (sinθJθ)+∂ Jϕ r2 r sinθ θ ϕ The Maxwell equation (3.22) can also be written in terms of the covariant derivative Claim: d⋆F = ⋆J ⇔ ∇ Fµν = Jν (3.24)
+
+Proof: We have ∇ Fµν = ∂ Fµν +Γµ Fρν +Γν Fµρ µ µ µρ µρ 1 √ 1 √ = √ ∂ (−gFµν) +Γν Fµρ = √ ∂ (−gFµν)
+
+−g µ µρ −g µ where, in the second equality, we’ve again used (3.21) and in the final equality we’ve used the fact that Γν is symmetric while Fµρ is anti-symmetric. To complete the proof, you need to chase down the definitions of the Hodge dual (3.5) and the exterior derivative (2.26). (If you’re struggling to match factors of −g, then remember that the volume form v = −gϵ is a tensor, while the epsilon symbol ϵ is a tensor µ1...µ4 density.) □
+
+## 3.3 Parallel Transport
+
+Although we have now met a number of properties of the connection, we have not yet explained its name. What does it connect? The answer is that the connection connects tangent spaces, or more generally any tensor vector space, at different points of the manifold. This map is called parallel transport. As we stressed earlier, such a map is necessary to define differentiation. Take a vector field X and consider some associated integral curve C, with coordinates xµ(τ), such that dxµ(τ)
+
+Xµ = (3.25)
+
+dτ We say that a tensor field T is parallely transported along C if ∇ T = 0 (3.26)
+
+Suppose that the curve C connects two points, p ∈ M and q ∈ M. The requirement (3.26) provides a map from the vector space defined at p to the vector space defined at q.
+
+To illustrate this, consider the parallel transport of a second vector field Y. In components, the condition (3.26) reads Xν ∂ Yµ +Γµ Yρ = 0 ν νρ If we now evaluate this on the curve C, we can think of Yµ = Yµ(x(τ)), which obeys dYµ +XνΓµ Yρ = 0 (3.27)
+
+dτ νρ These are a set of coupled, ordinary differential equations. Given an initial condition at, say τ = 0, corresponding to point p, these equations can be solved to find a unique vector at each point along the curve.
+
+Parallel transport is path dependent. It depends on both the connection, and the underlying path which, in this case, is characterised by the vector field X.
+
+This is the second time we’ve used a vect or field X to construct maps between tensors at different points in the manifold. In Section 2.2.2, we used X to generate a flow σ : M → M, which we could then use to pull-back or push-forward tensors from one point to another. This was the basis of the Lie derivative. This is not the same as the present map. Here, we’re using X only to define the curve, while the connection does the work of relating vector spaces along the curve.
+
+3.3.1 Geodesics Revisited
+
+A geodesic is a curve tangent to a vector field X that obeys ∇_X X = 0 (3.28)
+
+Along the curve C, we can substitute the expression (3.25) into (3.27) to find d²x^µ/dτ² + Γ^µ_ρν dx^ρ/dτ dx^ν/dτ = 0 (3.29)
+
+This is precisely the geodesic equation (1.30) that we derived in Section 1 by considering the action for a particle moving in spacetime. In fact, we find that the condition (3.28) results in geodesics with affine parameterisation.
+
+For the Levi-Civita connection, we have ∇ g = 0. This ensures that for any vector field Y parallely transported along a geodesic X, so ∇_X Y = ∇_X X = 0, we have d/dτ [g(X,Y)] = 0 This tells us that the vector field Y makes the same angle with the tangent vector along each point of the geodesic.
+
+3.3.2 Normal Coordinates
+
+Geodesics lend themselves to the construction of a particularly useful coordinate system. On a Riemannian manifold, in the neighbourhood of a point p ∈ M, we can always find coordinates such that g_µν(p) = δ_µν and g_µν,ρ(p) = 0 (3.30)
+
+The same holds for Lorentzian manifolds, now with g_µν(p) = η_µν. These are referred to as normal coordinates. Because the first derivative of the metric vanishes, normal coordinates have the property that, at the point p, the Christoffel symbols vanish: Γ^µ_νρ(p) = 0. Generally, away from p we will have Γ^µ_νρ ̸= 0. Note, however, that it is not generally possible to ensure that the second derivatives of the metric also vanish. This, in turn, means that it’s not possible to pick coordinates such that the Riemann tensor vanishes at a given point.
+
+There are a number of ways to demonstrate the existence of coordinates (3.30). The brute force way is to start with some metric g̃_µν in coordinates x̃^µ and try to find a change of coordinates to x^µ(x̃) which does the trick. In the new coordinates, g̃_µν = g_ρσ ∂x̃^ρ/∂x^µ ∂x̃^σ/∂x^ν (3.31)
+
+We’ll take the point p to be the origin in both sets of coordinates. Then we can Taylor expand x̃^ρ = (∂x̃^ρ/∂x^µ)|_{x=0} x^µ + ½ (∂²x̃^ρ/∂x^µ∂x^ν)|_{x=0} x^µx^ν +...
+
+We insert this into (3.31), together with a Taylor expansion of g̃_ρσ, and try to solve the resulting partial differential equations to find the coefficients ∂x̃/∂x and ∂²x̃/∂x² that do the job. For example, the first requirement is (∂x̃^ρ/∂x^µ)|_{x=0} (∂x̃^σ/∂x^ν)|_{x=0} g̃_ρσ(p) = δ_µν Given any g̃_ρσ(p), it’s always possible to find ∂x̃/∂x so that this is satisfied. In fact, a little counting shows that there are many such choices. If dimM = n, then there are n² independent coefficients in the matrix ∂x̃/∂x. The equation above puts ½n(n+1) conditions on these. That still leaves ½n(n−1) parameters unaccounted for. But this is to be expected: this is precisely the dimension of the rotational group SO(n) (or the Lorentz group SO(1,n−1)) that leaves the flat metric unchanged.
+
+We can do a similar counting at the next order. There are ½n²(n+1) independent elements in the coefficients ∂²x̃^ρ/∂x^µ∂x^ν. This is exactly the same number of conditions in the requirement g_µν,ρ(p) = 0.
+
+We can also see why we shouldn’t expect to set the second derivative of the metric to zero. Requiring g_µν,ρσ = 0 is ¼n²(n + 1)² constraints. Meanwhile, the next term in the Taylor expansion is ∂³x̃^ρ/∂x^µ∂x^ν∂x^λ which has ⅙n²(n+1)(n+2) independent coefficients. We see that the numbers no longer match. This time we fall short, leaving ¼n²(n+1)² − ⅙n²(n+1)(n+2) = 1/12 n²(n² −1)
+
+unaccounted for. This, therefore, is the number of ways to characterise the second derivative of the metric in a manner that cannot be undone by coordinate transformations. Indeed, it is not hard to show that this is precisely the number of independent coefficients in the Riemann tensor. (For n = 4, there are 20 coefficients of the Riemann tensor.)
+
+The Exponential Map
+
+There is a rather pretty, direct way to construct the coordinates (3.30). This uses geodesics. The rough idea is that, given a tangent vector X ∈ T_p(M), there is a unique affinely parameterised geodesic through p with tangent vector X at p. We then label any point q in the neighbourhood of p by the coordinates of the geodesic that take us to q in some fixed amount of time. It’s like throwing a ball in all possible directions, and labelling points by the initial velocity needed for the ball to reach that point in, say, 1 second.
+
+Let’s put some flesh on this. We introduce any coordinate system (not necessarily normal coordinates) $\tilde{x}^\mu$ in the neighbourhood of $p$. Then the geodesic we want solves the equation (3.29) subject to the requirements $$ \frac{d\tilde{x}^\mu}{d\tau} \bigg|_{p, \tau=0} = \tilde{X}^\mu \quad \text{with} \quad \tilde{x}^\mu(\tau=0) = 0 $$ There is a unique solution.
+
+This observation means that we can define a map, $$ \text{Exp} : T_p(M) \rightarrow M $$ Given $X \in T_p(M)$, construct the appropriate geodesic and follow it for some affine distance which we take to be $\tau = 1$. This gives a point $q \in M$. This is known as the exponential map and is illustrated in Figure 23.
+
+There is no reason that the exponential map covers all of the manifold $M$. It could well be that there are points which cannot be reached from $p$ by geodesics. Moreover, it may be that there are tangent vectors $X$ for which the exponential map is ill-defined. In general relativity, this occurs if the spacetime has singularities. Neither of these issues are relevant for our current purpose.
+
+Now pick a basis $\{e_\mu\}$ of $T_p(M)$. The exponential map means that tangent vector $X = X^\mu e_\mu$ defines a point $q$ in the neighbourhood of $p$. We simply assign this point coordinates $$ x^\mu(q) = X^\mu $$ These are the normal coordinates.
+
+If we pick the initial basis $\{e_\mu\}$ to be orthonormal, then the geodesics will point in orthogonal directions which ensures that the metric takes the form $g_{\mu\nu}(p) = \delta_{\mu\nu}$.
+
+To see that the first derivative of the metric also vanishes, we first fix a point $q$ associated to a given tangent vector $X \in T_p(M)$. This tells us that the point $q$ sits a distance $\tau = 1$ along the geodesic. We can now ask: what tangent vector will take us a different distance along this same geodesic? Because the geodesic equation (3.29) is homogeneous in $\tau$, if we halve the length of $X$ then we will travel only half the distance along the geodesic, i.e. to $\tau = 1/2$. In general, the tangent vector $\tau X$ will take us a distance $\tau$ along the geodesic $$ \text{Exp} : \tau X \rightarrow x^\mu(\tau) = \tau X^\mu $$ This means that the geodesics in these coordinates take the particularly simple form $$ x^\mu(\tau) = \tau X^\mu $$ Since these are geodesics, they must solve the geodesic equation (3.29). But, for trajectories that vary linearly in time, this is just $$ \Gamma^\mu_{\rho\nu}(x(\tau)) X^\rho X^\nu = 0 $$ This holds at any point along the geodesic. At most points $x(\tau)$, this equation only holds for those choices of $X^\rho$ which take us along the geodesic in the first place. However, at $x(\tau) = 0$, corresponding to the point $p$ of interest, this equation must hold for any tangent vector $X^\mu$. This means that $\Gamma^\mu_{\rho\nu}(p) = 0$ which, for a torsion free connection, ensures that $\Gamma^\mu_{(\rho\nu)}(p) = 0$.
+
+Vanishing Christoffel symbols means that the derivative of the metric vanishes. This follows for the Levi-Civita connection by writing $2g_{\mu\sigma}\Gamma^\sigma_{\rho\nu} = g_{\mu\rho,\nu} + g_{\mu\nu,\rho} - g_{\rho\nu,\mu}$. Symmetrising over $(\mu\rho)$ means that the last two terms cancel, leaving us with $g_{\mu\rho,\nu} = 0$ when evaluated at $p$.
+
+**The Equivalence Principle** Normal coordinates play an important conceptual role in general relativity. Any observer at point $p$ who parameterises her immediate surroundings using coordinates constructed by geodesics will experience a locally flat metric, in the sense of (3.30).
+
+This is the mathematics underlying the Einstein equivalence principle. This principle states that any freely falling observer, performing local experiments, will not experience a gravitational field. Here “freely falling” means the observer follows geodesics, as we saw in Section 1 and will naturally use normal coordinates. In this context, the coordinates are called a local inertial frame. The lack of gravitational field is the statement that $g_{\mu\nu}(p) = \eta_{\mu\nu}$.
+
+Key to understanding the meaning and limitations of the equivalence principle is the word “local”. There is a way to distinguish whether there is a gravitational field at $p$: we compute the Riemann tensor. This depends on the second derivative of the metric and, in general, will be non-vanishing. However, to measure the effects of the Riemann tensor, one typically has to compare the result of an experiment at $p$ with an experiment at a nearby point $q$: this is considered a “non-local” observation as far as the equivalence principle goes. In the next two subsections, we give examples of physics that depends on the Riemann tensor.
+
+**3.3.3 Path Dependence: Curvature and Torsion** Take a tangent vector $Z \in T_p(M)$, and parallel transport it along a curve $C$ to some point $r \in M$. Now parallel transport it along a different curve $C'$ to the same point $r$. How do the resulting vectors differ?
+
+To answer this, we construct each of our curves $C$ and $C'$ from two segments, generated by linearly independent vector fields, $X$ and $Y$ satisfying $[X,Y] = 0$ as shown in Figure 24. To make life easy, we’ll take the point $r$ to be close to the original point $p$. We pick normal coordinates $x^\mu = (\tau, \sigma, 0, \dots)$ so that the starting point is at $x^\mu(p) = 0$ while the tangent vectors are aligned along the coordinates, $X = \partial/\partial\tau$ and $Y = \partial/\partial\sigma$. The other corner points are then $x^\mu(q) = (\delta\tau, 0, 0, \dots)$, $x^\mu(r) = (\delta\tau, \delta\sigma, 0, \dots)$ and $x^\mu(s) = (0, \delta\sigma, 0, \dots)$.
+
+0,δσ,0,...) where δτ and δσ are taken to be small. This set-up is shown in Figure 24. First we parallel transport Z along X to Z. Along the curve, Zµ solves (3.27)
+
+p q dZµ +XνΓµ Zρ = 0 (3.32)
+
+dτ ρν We Taylor expand the solution as Zµ = Zµ + dZµ δτ + 1 d2Zµ δτ2 +O(δτ3)
+
+q p dτ |τ=0 2 dτ2 |τ=0 From (3.32), we have dZµ/dτ|τ=0 = 0 because, in normal coordinates, Γµ ρν (p) = 0. We can calculate the second derivative by differentiating (3.32) to find d2Zµ |τ=0 = − XνZρ dΓµρν + dXν ZρΓµρν + Xν dZρ Γµρν dτ2 p dτ dτ = − XνZρ dΓµρν |τ=0 = −(XνXσZρΓµ ρν,σ)p Here the second line follows because we’re working in normal coordinates at p, and the final line because τ is the parameter along the integral curve of X, so d/dτ = Xσ∂σ. We therefore have Zµ = Zµ − 1 (XνXσZρΓµ ρν,σ)p δτ2 +... (3.34)
+
+q p 2 Now we parallel transport once more, this time along Y to Zµ. The Taylor expansion now takes the form r Zµ = Zµ + dZµ δσ + 1 d2Zµ δσ2 +O(δσ3) (3.35)
+
+r q dσ |q 2 dσ2 |q We can again evaluate the first derivative dZµ/dσ|q using the analog of the parallel transport equation (3.32), dZµ |q = −(YνZρΓµ ρν)q dσ Since we’re working in normal coordinates about p and not q, we no longer get to argue that this term vanishes. Instead we Taylor expand about p to get (YνZρΓµ ρν)q = (YνZρXσΓµ ρν,σ)p δτ +...
+
+Note that in principle we should also Taylor expand Yν and Zρ but, at leading order, these will multiply Γµ ρν (p) = 0, so they only contribute at next order. The second order term in the Taylor expansion (3.35) involves d2Zµ/dσ2|q and there is an expression similar to (3.33). To leading order the dXν/dσ and dZρ/dσ terms are again absent because they are multiplied by Γµ ρν (q) = dΓµ ρν /dτ|p δτ. We therefore have d2Zµ |q = −(YνYσZρΓµ ρν,σ)q +...
+
+dσ2 = −(YνYσZρΓµ ρν,σ)p +...
+
+where we replaced the point q with point p because they differ only by subleading terms proportional to δτ. The upshot is that this time the difference between Zµ and Zµ involves two terms, r q Zµ = Zµ − (YνZρXσΓµ ρν,σ)p δτδσ − 1 (YνYσZρΓµ ρν,σ)p δσ2 +...
+
+r q 2 Finally, we can relate Zµ to Zµ using the expression (3.34) that we derived previously. q p We end up with Zµ = Zµ − 1 (Γµ ρν,σ)p [XνXσZρδτ2 + 2YνZρXσδσδτ + YνYσZρδσ2] +...
+
+r p 2 where ... denotes any terms cubic or higher in small quantities.
+
+Now suppose we go along the path C′, first visiting point s and then making our way to r. We can read the answer off directly from the result above, simply by swapping X and Y and σ and τ; only the middle term changes, Z′µ = Zµ − 1 (Γµ ρν,σ)p [XνXσZρδτ2 + 2XνZρYσδσδτ + YνYσZρδσ2] +...
+
+r p 2 We find that ∆Zµ = Zµ − Z′µ = −(Γµ ρν,σ − Γµ ρσ,ν)p (YνZρXσ) δσδτ +...
+
+r r r = (Rµ ρσν)p YνZρXσ δσδτ +...
+
+where, in the final equality, we’ve used the expression for the Riemann tensor in components (3.15), which simplifies in normal coordinates as Γµ ρσ (p) = 0. Note that, to the order we’re working, we could equally as well evaluate Rµ ρσν XνZρYσ at the point r; the two differ only by higher order terms.
+
+Although our calculation was performed with a particular choice of coordinates, the end result is written as an equality between tensors and must, therefore, hold in any coordinate system. This is a trick that we will use frequently throughout these lectures: calculations are considerably easier in normal coordinates. But if the resulting expression relates tensors then the final result must be true in any coordinate system. We have discovered a rather nice interpretation of the Riemann tensor: it tells us the path dependence of parallel transport. The calculation above is closely related to the idea of holonomy. Here, one transports a vector around a closed curve C and asks how the resulting vector compares to the original. This too is captured by the Riemann tensor. A particularly simple example of non-trivial holonomy comes from parallel transport of a vector on a sphere: the direction that you end up pointing in depends on the path you take.
+
+The Meaning of Torsion We discarded torsion almost as soon as we met it, choosing to work with the Levi-Civita connection which has vanishing torsion, Γρ µν = Γρ νµ. Moreover, as we will see in Section 4, torsion plays no role in the theory of general relativity which makes use of the Levi-Civita connection. Nonetheless, it is natural to ask: what is the geometric meaning of torsion? There is an answer to this that makes use of the kind of parallel transport arguments we used above. This time, we start with two vectors X,Y ∈ T (M). We pick coordinates xµ and write these vectors as X = Xµ∂/∂xµ and Y = Yµ∂/∂xµ. Starting from p ∈ M, we can use these two vectors to construct two points infinitesimally close to p. We call these points r and s respectively: they have coordinates r : xµ + Xµϵ and s : xµ + Yµϵ where ϵ is some infinitesimal parameter. We now parallel transport the vector X ∈ T (M) along the direction of Y to give a new vector X′ ∈ T (M). Similarly, we parallel transport Y along the direction of X to get a new vector Y′ ∈ T (M). These new vectors have components X′ = (Xµ − ϵΓµ_{νρ} YνXρ)∂/∂xµ and Y′ = (Yµ − ϵΓµ_{νρ} XνYρ)∂/∂xµ Each of these tangent vectors now defines a new point. Starting from point s, and moving in the direction of X′, we see that we get a new point q with coordinates q : xµ + (Xµ + Yµ)ϵ − ϵ²Γµ_{νρ} YνXρ Meanwhile, if we sit at point r and move in the direction of Y′, we get to a typically different point, t, with coordinates t : xµ + (Xµ + Yµ)ϵ − ϵ²Γµ_{νρ} XνYρ We see that if the connection has torsion, so Γµ_{νρ} ≠ Γµ_{ρν}, then the two points q and t do not coincide. In other words, torsion measures the failure of the parallelogram shown in the figure to close.
+
+3.3.4 Geodesic Deviation Consider now a one-parameter family of geodesics, with coordinates xµ(τ;s). Here τ is the affine parameter along the geodesics, all of which are tangent to the vector field X so that, along the surface spanned by xµ(τ,s), we have Xµ = ∂xµ/∂τ Meanwhile, s labels the different geodesics, as shown in Figure 26. We take the tangent vector in the s direction to be generated by a second vector field S so that, Sµ = ∂xµ/∂s The tangent vector Sµ is sometimes called the deviation vector; it takes us from one geodesic to a nearby geodesic with the same affine parameter τ. The family of geodesics sweeps out a surface embedded in the manifold. This gives us some freedom in the way we assign coordinates s and τ. In fact, we can always pick coordinates s and t on the surface such that S = ∂/∂s and X = ∂/∂t, ensuring that [S,X] = 0.
+
+Roughly speaking, we can do this if we use τ and s as coordinates on some submanifold of M. Then the vector fields can be written simply as X = ∂/∂τ and S = ∂/∂s and [X,S] = 0.
+
+We can ask how neighbouring geodesics behave. Do they converge? Or do they move further apart? Now consider a connection Γ with vanishing torsion, so that ∇_X S − ∇_S X = [X,S]. Since [X,S] = 0, we have ∇_X ∇_X S = ∇_X ∇_S X = ∇_S ∇_X X + R(X,S)X where, in the second equality, we’ve used the expression (3.14) for the Riemann tensor as a differential operator. But ∇_X X = 0 because X is tangent to geodesics, and we have ∇_X ∇_X S = R(X,S)X In index notation, this is Xν∇_ν (Xρ∇_ρ Sµ) = Rµ_{νρσ} XνXρSσ If we further restrict to an integral curve C associated to the vector field X, as in (3.25), this equation is sometimes written as D²Sµ/Dτ² = Rµ_{νρσ} XνXρSσ   (3.36)
+
+where D/Dτ is the covariant derivative along the curve C, defined by D/Dτ = (∂xµ/∂τ)∇_µ. The left-hand-side tells us how the deviation vector Sµ changes as we move along the geodesic. In other words, it is the relative acceleration of neighbouring geodesics. We learn that this relative acceleration is controlled by the Riemann tensor. Experimentally, such geodesic deviations are called tidal forces. We met a simple example in Section 1.2.4.
+
+An Example: the Sphere S² Again It is simple to determine the geodesics on the sphere S² of radius r. Using the Christoffel symbols (3.19), the geodesic equations are d²θ/dτ² = sinθ cosθ (dϕ/dτ)² and d²ϕ/dτ² = −2 (cosθ/sinθ) (dθ/dτ) (dϕ/dτ)
+
+The solutions are great circles. The general solution is a little awkward in these coordinates, but there are two simple solutions.
+
+• We can set θ = π/2 with θ̇ = 0 and ϕ = constant. This is a solution in which the particle moves around the equator. Note that this solution doesn’t work for other values of θ.
+
+• We can set ϕ̇ = 0 and θ = constant. These are paths of constant longitude and are geodesics for any constant value of ϕ. Note, however, that our coordinates go a little screwy at the poles θ = 0 and θ = π.
+
+To illustrate geodesic deviation, we’ll look at the second class of solutions; the particle moves along θ = vτ, with the angle ϕ specifying the geodesic. This set-up is simple enough that we don’t need to use any fancy Riemann tensor techniques: we can just understand the geodesic deviation using simple geometry. The distance between the geodesic at ϕ = 0 and the geodesic at some other longitude ϕ is s(τ) = rϕ sinθ = rϕ sin(vτ)   (3.37)
+
+Now let’s re-derive this result using our fancy technology. The geodesics are generated by the vector field Xθ = v. Meanwhile, the separation between geodesics at a fixed τ is Sϕ = s(τ). The geodesic deviation equation in the form (3.36) is d²s/dτ² = v² R^ϕ_{θθϕ} s(τ)
+
+We computed the Riemann tensor for S² in (3.20); the relevant component is R_{ϕθθϕ} = -r² sin²θ ⇒ R^ϕ_{θθϕ} = g^{ϕϕ} R_{ϕθθϕ} = -1 (3.38)
+
+and the geodesic deviation equation becomes simply d²s/dτ² = -v² s which is indeed solved by (3.37).
+
+## 3.4 More on the Riemann Tensor and its Friends
+
+Recall that the components of the Riemann tensor are given by (3.15), R^σ_{ρμν} = ∂_μ Γ^σ_{νρ} - ∂_ν Γ^σ_{μρ} + Γ^λ_{νρ} Γ^σ_{μλ} - Γ^λ_{μρ} Γ^σ_{νλ} (3.39)
+
+We can immediately see that the Riemann tensor is anti-symmetric in the final two indices R^σ_{ρμν} = -R^σ_{ρνμ} However, there are also a number of more subtle symmetric properties satisfied by the Riemann tensor when we use the Levi-Civita connection. Logically, we could have discussed this back in Section 3.2. However, it turns out that a number of statements are substantially simpler to prove using normal coordinates introduced in Section 3.3.2.
+
+Claim: If we lower an index on the Riemann tensor, and write R_{σρμν} = g_{σλ} R^λ_{ρμν}, then the resulting object also obeys the following identities • R_{σρμν} = -R_{σρνμ}.
+
+• R_{σρμν} = -R_{ρσμν}.
+
+• R_{σρμν} = R_{μνσρ}.
+
+• R_{σ[ρμν]} = 0.
+
+Proof: We work in normal coordinates, with Γ^λ_{μν} = 0 at a point. The Riemann tensor can then be written as R_{σρμν} = g_{σλ} (∂_μ Γ^λ_{νρ} - ∂_ν Γ^λ_{μρ})
+
+= ∂_μ (∂_ν g_{σρ} + ∂_ρ g_{νσ} - ∂_σ g_{νρ}) - ∂_ν (∂_μ g_{σρ} + ∂_ρ g_{μσ} - ∂_σ g_{μρ})
+
+= (∂_μ ∂_ρ g_{νσ} - ∂_μ ∂_σ g_{νρ} - ∂_ν ∂_ρ g_{μσ} + ∂_ν ∂_σ g_{μρ})
+
+where, in going to the second line, we used the fact that ∂_λ g_{σρ} = 0 in normal coordinates. The first three symmetries are manifest; the final one follows from a little playing. (It is perhaps quicker to see the final symmetry if we return to the Christoffel symbols where, in normal coordinates, we have R_{ρμν} = ∂_μ Γ_{ρν} - ∂_ν Γ_{ρμ}.) But since the symmetry equations are tensor equations, they must hold in all coordinate systems.
+
+Claim: The Riemann tensor also obeys the Bianchi identity ∇_{[λ} R_{σρ]μν} = 0 (3.40)
+
+Alternatively, we can anti-symmetrise on the final two indices, in which case this can be written as R_{ρ[μν;λ]} = 0.
+
+Proof: We again use normal coordinates, where ∇_λ R_{σρμν} = ∂_λ R_{σρμν} at the point p. Schematically, we have R = ∂Γ + ΓΓ, so ∂R = ∂²Γ + Γ∂Γ and the final Γ∂Γ term is absent in normal coordinates. This means that we just have ∂R = ∂²Γ which, in its full coordinated glory, is ∂_λ R_{σρμν} = ∂_λ (∂_μ ∂_ρ g_{νσ} - ∂_μ ∂_σ g_{νρ} - ∂_ν ∂_ρ g_{μσ} + ∂_ν ∂_σ g_{μρ})
+
+Now anti-symmetrise on the three appropriate indices to get the result. □
+
+For completeness, we should mention that the identities R_{σ[ρμν]} = 0 and ∇_{[λ} R_{σρ]μν} = 0 (sometimes called the first and second Bianchi identities respectively) are more general, in the sense that they hold for an arbitrary torsion-free connection. In contrast, the other two identities, R_{σρμν} = -R_{ρσμν} and R_{σρμν} = R_{μνσρ} hold only for the Levi-Civita connection.
+
+3.4.1 The Ricci and Einstein Tensors
+
+There are a number of further tensors that we can build from the Riemann tensor. First, given a rank (1,3) tensor, we can always construct a rank (0,2) tensor by contraction. If we start with the Riemann tensor, the resulting object is called the Ricci tensor. It is defined by R_{μν} = R^ρ_{μρν} The Ricci tensor inherits its symmetry from the Riemann tensor. We write R_{μν} = g^{σρ} R_{σμρν} = g^{ρσ} R_{ρνσμ}, giving us R_{μν} = R_{νμ} We can go one step further and create a function R over the manifold. This is the Ricci scalar, R = g^{μν} R_{μν}
+
+The Bianchi identity (3.40) has a nice implication for the Ricci tensor. If we write the Bianchi identity out in full, we have ∇_λ R_{σρμν} + ∇_σ R_{ρλμν} + ∇_ρ R_{λσμν} = 0 × g^{μλ} g^{ρν} ⇒ ∇_μ R_{μσ} - ∇_σ R + ∇_ν R_{νσ} = 0 which means that ∇_μ R_{μν} = ∇_ν R
+
+This motivates us to introduce the Einstein tensor, G_{μν} = R_{μν} - (1/2) R g_{μν} which has the property that it is covariantly constant, meaning ∇_μ G^{μν} = 0 (3.41)
+
+We’ll be seeing much more of the Ricci and Einstein tensors in the next section.
+
+3.4.2 Connection 1-forms and Curvature 2-forms
+
+Calculating the components of the Riemann tensor is straightforward but extremely tedious. It turns out that there is a slightly different way of repackaging the connection and the torsion and curvature tensors using the language of forms. This not only provides a simple way to actually compute the Riemann tensor, but also offers some useful conceptual insight.
+
+Vielbeins
+
+Until now, we have typically worked with a coordinate basis {e_μ} = {∂_μ}. However, we could always pick a basis of vector fields that has no such interpretation. For example, a linear combination of a coordinate basis, say ê_a = e^μ_a ∂_μ will not, in general, be a coordinate basis itself.
+
+Given a metric, there is a non-coordinate basis that will prove particularly useful for computing the curvature tensor. This is the basis such that, on a Riemannian manifold, g(ê_a, ê_b) = g_{μν} e^μ_a e^ν_b = δ_{ab} Alternatively, on a Lorentzian manifold we take g(ê_a, ê_b) = g_{μν} e^μ_a e^ν_b = η_{ab} (3.42)
+
+The components e^μ_a are called vielbeins or tetrads. (On an n-dim dimensional manifold, these objects are usually called “German word for n”-beins. For example, one-dimensional manifolds have einbeins; four-dimensional manifolds have vierbeins.)
+
+This is reminiscent of our discussion in Section 3.1.2 where we mentioned that we can always find coordinates so that any metric will look flat at a point. In (3.42), we’ve succeeded in making the manifold look flat everywhere (at least in a patch covered by a chart). There are no coordinates that do this, but there’s nothing to stop us picking a basis of vector fields that does the job. In what follows, µν indices are raised/lowered with the metric g while a,b indices are raised/lowered with the flat metric δ or η.
+
+We will phrase our discussion in the context of Lorentzian manifolds, with an eye to later applications to general relativity.
+
+The vielbeins aren’t unique. Given a set of vielbeins, we can always find another set related by e˜ µ = e µ(Λ−1)b with Λ cΛ dη = η (3.43)
+
+a b a a b cd ab These are Lorentz transformations. However now they are local Lorentz transformation, because Λ can vary over the manifold. These local Lorentz transformations are a redundancy in the definition of the vielbeins in (3.42).
+
+The dual basis of one-forms {θ ˆa} is defined by θ ˆa(eˆ ) = δa. They are related to the coordinate basis by b b θ ˆa = ea dxµ Note the different placement of indices: ea is the inverse of e µ, meaning it satisfies µ a ea e µ = δa and ea e ν = δν. In the non-coordinate basis, the metric on a Lorentzian manifold takes the form µ b b µ a µ g = g dxµ ⊗dxν = η θ ˆa ⊗θ ˆb ⇒ g = ea eb η µν ab µν µ ν ab For Riemannian manifolds, we replace η with δ.
+
+ab ab
+
+The Connection One-Form Given a non-coordinate basis {eˆ }, we can define the components of a connection in the usual way (3.8)
+
+∇ eˆ = Γa eˆ eˆc b cb a Note that, annoyingly, these are not the same functions as Γµ , which are the components of the connection computed in the coordinate basis! You need to pay attention to whether the components are Greek µ,ν etc which tells you that we’re in the coordinate basis, or Roman a,b etc which tells you we’re in the vielbein basis.
+
+We then define the matrix-valued connection one-form as ωa = Γa θ ˆc (3.44)
+
+b cb This is sometimes referred to as the spin connection because of the role it plays in defining spinors on curved spacetime. We’ll describe this in Section 4.5.6.
+
+The connection one-forms don’t transform covariantly under local Lorentz transformations (3.43). Instead, in the new basis, the components of the connection one-form are defined as ∇ ˆe˜ = Γ ˜a eˆ˜. You can check that the connection one-form transforms as ˆe˜ c bc a ω˜a = Λa ωc (Λ−1)d +Λa (dΛ−1)c (3.45)
+
+b c d b c b The second term reflects the fact that the original connection components Γµ do not transform as a tensor, but with an extra term involving the derivative of the coordinate transformation (3.13). This now shows up as an extra term involving the derivative of the local Lorentz transformation.
+
+There is a rather simple way to compute the connection one-forms, at least for a torsion free connection. This follows from the first of two Cartan structure relations: Claim: For a torsion free connection, dθ ˆa +ωa ∧θ ˆb = 0 (3.46)
+
+Proof: We first look at the second term, ωa ∧θ ˆb = Γa (ec dxµ)∧(eb dxν)
+
+b cb µ ν The components Γa are related to the coordinate basis components by cb Γa = ea e µ (∂ e ρ +e νΓρ ) = ea e µ∇ e ρ (3.47)
+
+cb ρ c µ b b µν ρ c µ b So ωa ∧θ ˆb = ea e λec eb (∂ e ρ +e σΓρ )dxµ ∧dxν b ρ c µ ν λ b b λσ = ea eb ∂ e ρdxµ ∧dxν ρ ν µ b where, in the second line we’ve used e λec = δλ and the fact that the connection is torsion free so Γρ = 0. Now we use the fact that eb e ρ = δρ, so eb ∂ e ρ = −e ρ∂ eb.
+
+c µ µ ν b ν ν µ b b µ ν We have ωa ∧θ ˆb = −ea e ρ∂ eb dxµ ∧dxν b ρ b µ ν = −∂ ea dxµ ∧dxν = −dθ ˆa µ ν which completes the proof.
+
+The discussion above was for a general connection. For the Levi-Civita connection, we have a stronger result Claim: For the Levi-Civita connection, the connection one-form is anti-symmetric ω = −ω (3.48)
+
+ab ba Proof: This follows from the explicit expression (3.47) for the components Γa. Lowering an index, we have bc Γ = η ed e µ∇ e ρ = −η e ρe µ∇ ed = −η ef e µ∇ (η gρσed )
+
+abc ad ρ b µ c ad c b µ ρ cf σ b µ ad ρ where, in the final equality, we’ve used the fact that the connection is compatible with the metric to raise the indices of ed inside the covariant derivative. Finishing off the derivation, we then have Γ = −η ef e µ∇ e ρ = −Γ abc cf ρ b µ a cba The result then follows from the definition ω = Γ θ ˆc.
+
+ab acb
+
+The Cartan structure equation (3.46), together with the anti-symmetry condition (3.48), gives a quick way to compute the spin connection. It’s instructive to do some counting to see how these two equations uniquely define ωa. In particular, since ω is anti-symmetric, one might think that it has 1n(n−1) independent components, and these can’t possibly be fixed by the Cartan structure equations (3.46). But this is missing the fact that ω are not numbers, but are one-forms. So the true number of components in ω is n× 1n(n−1). Furthermore, the Cartan structure equation is an equation relating 2-forms, each of which has 1n(n−1) components. This means that it’s really n× 1n(n−1) equations. We see that the counting does work, and the two fix the spin connection uniquely.
+
+The Curvature Two-Form We can compute the components of the Riemann tensor in our non-coordinate basis, Ra = R(θ ˆa;eˆ ,eˆ ,eˆ )
+
+bcd c d b The anti-symmetry of the last two indices, Ra = −Ra , makes this ripe for turning bcd bdc into a matrix of two-forms, Ra = Ra θ ˆc ∧θ ˆd (3.49)
+
+b bcd The second of the two Cartan structure relations states that this can be written in terms of the curvature one-form as Ra = dωa +ωa ∧ωc (3.50)
+
+b b c b The proof of this is mechanical and somewhat tedious. It’s helpful to define the quantities [eˆ ,eˆ ] = f ceˆ along the way, since they appear on both left and right-hand sides.
+
+a b ab c 3.4.3 An Example: the Schwarzschild Metric The connection one-form and curvature two-form provide a slick way to compute the curvature tensor associated to a metric. The reason for this is that computing exterior derivatives takes significantly less effort than computing covariant derivatives. We will illustrate this for metrics of the form, ds2 = −f(r)2dt2 +f(r)−2dr2 +r2(dθ2 +sin2θdϕ2) (3.51)
+
+For later applications, it will prove useful to compute the Riemann tensor for this metric with general f(r). However, if we want to restrict to the Schwarzschild metric we can take (cid:114)
+
+2GM f(r) = 1− (3.52)
+
+The basis of non-coordinate one-forms is θ ˆ0 = f dt , θ ˆ1 = f−1dr , θ ˆ2 = rdθ , θ ˆ3 = rsinθdϕ (3.53)
+
+Note that the one-forms θ should not be confused with the angular coordinate θ! In this basis, the metric takes the simple form ds2 = η θ ˆa ⊗θ ˆb ab We now compute dθ ˆa.
+
+Calculationally, this is straightforward. In particular, it’s substantially easier than computing the covariant derivative because there’s no messy connection to worry about. The exterior derivatives are simply dθ ˆ0 = f′dr∧dt , dθ ˆ1 = 0 , dθ ˆ2 = dr∧dθ , dθ ˆ3 = sinθdr∧dϕ+rcosθdθ∧dϕ The first Cartan structure relation, dθ ˆa = −ωa ∧θ ˆb, can then be used to read off the connection one-form. The first equation tells us that ω0 = f′fdt = f′θ ˆ0. We then use the anti-symmetry (3.48), together with raising and lowering by the Minkowski metric η = diag(−1,+1,+1,+1) to get ω1 = ω = −ω = ω0 . The Cartan structure 0 10 01 1 equation then gives dθ ˆ1 = −ω1 ∧θ ˆ0+... and the ω1 ∧θ ˆ0 contribution happily vanishes 0 0 because it is proportional to θ ˆ0 ∧θ ˆ0 = 0.
+
+Next, we take ω2 = fdθ = (f/r)θ ˆ2 to solve the dθ ˆ2 structure equation. The anti- symmetry (3.48) gives ω1 = −ω2 = −(f/r)θ ˆ2 and this again gives a vanishing contri- 2 1 bution to the dθ ˆ1 structure equation.
+
+Finally, the dθ ˆ3 equation suggests that we take ω3 = f sinθdϕ = (f/r)θ ˆ3 and ω3 = 1 2 cosθdϕ = (1/r)cotθθ ˆ3. These anti-symmetric partners ω1 = −ω3 and ω2 = −ω3 3 1 3 2 do nothing to spoil the dθ ˆ1 and dθ ˆ2 structure equations, so we’re home dry. The final result is ω0 = ω1 = f′θ ˆ0 , ω2 = −ω1 = θ ˆ2 1 0 1 2 f cotθ ω3 = −ω1 = θ ˆ3 , ω3 = −ω2 = θ ˆ3 1 3 2 3 r r Now we can use this to compute the curvature two-form. We will focus on R0 = dω0 +ω0 ∧ωc 1 1 c 1 We have (cid:16) (cid:17)
+
+dω0 = f′dθ ˆ0 +f′′dr∧θ ˆ0 = (f′)2 +f′′f dr∧dt The second term in the curvature 2-form is ω0 ∧ ωc = ω0 ∧ ω1 = 0. So we’re left c 1 1 1 with (cid:16) (cid:17) (cid:16) (cid:17)
+
+R0 = (f′)2 +f′′f dr∧dt = (f′)2 +f′′f θ ˆ1 ∧θ ˆ0 The other curvature 2-forms can be computed in a similar fashion. We can now read off the components of the Riemann tensor in the non-coordinate basis using (3.49). (We should remember that we get a contribution from both R0 and R0 = −R0 , 101 110 101 which cancels the factor of 1/2 in (3.49).) After lowering an index, we find that the non-vanishing components of the Riemann tensor are R = ff′′ +(f′)2 ff′ R = ff′ R = ff′ R = − ff′ R = − 1−f2 R = 2323 r2 We can also convert this back to the coordinates xµ = (t,r,θ,ϕ) using R = ea eb ec ed R µνρσ µ ν ρ σ abcd This is particularly easy in this case because the matrices e µ defining the one-forms (3.53) are diagonal. We then have R = ff′′ +(f′)2 trtr R = f3f′r tθtθ R = f3f′rsin2θ tϕtϕ f′r R = − (3.54)
+
+rθrθ f′r R = − sin2θ rϕrϕ R = (1−f2)r2sin2θ θϕθϕ Finally, if we want to specialise to the Schwarzschild metric with f(r) given by (3.52), we have 2GM R = − trtr r3 GM(r−2GM)
+
+R = tθtθ r2 GM(r−2GM)
+
+R = sin2θ tϕtϕ r2 GM R = − rθrθ r−2GM GM sin2θ R = − rϕrϕ r−2GM R = 2GMrsin2θ θϕθϕ Although the calculation is a little lengthy, it turns out to be considerably quicker than first computing the Levi-Civita connection and subsequently motoring through to get the Riemann tensor components.
+
+3.4.4 The Relation to Yang-Mills Theory It is no secret that the force of gravity is geometrical. However, the other forces are equally as geometrical. The underlying geometry is something called a fibre bundle, rather than the geometry of spacetime.
+
+We won’t describe fibre bundles in this course, but we can exhibit a clear similarity between the structures that arise in general relativity and the structures that arise in the other forces, which are described by Maxwell theory and its generalisation to Yang-Mills theory. Yang-Mills theory is based on a Lie group G which, for this discussion, we will take to be SU(N) or U(N). If we take G = U(1), then Yang-Mills theory reduces to Maxwell theory. The theory is described in terms of an object that physicists call a gauge potential. This is a spacetime “vector” A which lives in the Lie algebra of G. In more down to earth terms, each component is an anti-Hermitian N×N matrix, (A_μ)^a_b, with a,b = 1,...,N. In fact, as we saw above, this “vector” is really a one-form. The novelty is that it’s a Lie algebra-valued one-form. Mathematicians don’t refer to A as a gauge potential. Instead, they call it a connection (on a fibre bundle). This relationship becomes clearer if we look at how A changes under a gauge transformation Ã_μ = Ω A_μ Ω⁻¹ + Ω ∂_μ Ω⁻¹ where Ω(x) ∈ G. This is identical to the transformation property (3.45) of the one-form connection under local Lorentz transformations.
+
+In Yang-Mills, as in Maxwell theory, we construct a field strength. In components, this is given by (F_μν)^a_b = ∂_μ (A_ν)^a_b - ∂_ν (A_μ)^a_b + [A_μ, A_ν]^a_b Alternatively, in the language of forms, the field strength becomes F^a_b = dA^a_b + A^a_c ∧ A^c_b Again, there is an obvious similarity with the curvature 2-form introduced in (3.50). Mathematicians refer to the Yang-Mills field strength the “curvature”. A particularly quick way to construct the Yang-Mills field strength is to take the commutator of two covariant derivatives. It is simple to check that [D_μ, D_ν] = F_μν where I’ve suppressed the a,b indices on both sides. This is the gauge theory version of the Ricci identity (3.16): for a torsion free connection, [∇_μ, ∇_ν] Z^ρ = R^ρ_σμν Z^σ
+
+## 4. The Einstein Equations
+
+It is now time to do some physics. The force of gravity is mediated by a gravitational field. The glory of general relativity is that this field is identified with a metric g_μν(x) on a 4d Lorentzian manifold that we call spacetime. This metric is not something fixed; it is, like all other fields in Nature, a dynamical object. This means that there are rules which govern how this field evolves in time. The purpose of this section is to explore these rules and some of their consequences. We will start by understanding the dynamics of the gravitational field in the absence of any matter. We will then turn to understand how the gravitational field responds to matter – or, more precisely, to energy and momentum – in Section 4.5.
+
+## 4.1 The Einstein-Hilbert Action
+
+All our fundamental theories of physics are described by action principles. Gravity is no different. Furthermore, the straight-jacket of differential geometry places enormous restrictions on the kind of actions that we can write down. These restrictions ensure that the action is something intrinsic to the metric itself, rather than depending on our choice of coordinates. Spacetime is a manifold M, equipped with a metric of Lorentzian signature. An action is an integral over M. We know from Section 2.4.4 that we need a volume-form to integrate over a manifold. Happily, as we have seen, the metric provides a canonical volume form, which we can then multiply by any scalar function. Given that we only have the metric to play with, the simplest such (non-trivial) function is the Ricci scalar R. This motivates us to consider the wonderfully concise action S = ∫ d⁴x √(-g) R This is the Einstein-Hilbert action. Note that the minus sign under the square-root arises because we are in a Lorentzian spacetime: the metric has a single negative eigenvalue and so its determinant, g = det g_μν, is negative. As a quick sanity check, recall that the Ricci tensor takes the schematic form R ∼ ∂Γ+ΓΓ while the Levi-Civita connection itself is Γ ∼ ∂g. This means that the Einstein-Hilbert action is second order in derivatives, just like most other actions we consider in physics.
+
+Varying the Einstein-Hilbert Action We would like to determine the Euler-Lagrange equations arising from the action (4.1). We do this in the usual way, by starting with some fixed metric g_μν(x) and seeing how the action changes when we shift g_μν(x) → g_μν(x) + δg_μν(x)
+
+Writing the Ricci scalar as R = g^μν R_μν, the Einstein-Hilbert action clearly changes as δS = ∫ d⁴x [ δ(√(-g)) g^μν R_μν + √(-g) (δg^μν) R_μν + √(-g) g^μν δR_μν ]
+
+It turns out that it’s slightly easier to think of the variation in terms of the inverse metric δg^μν. This is equivalent to the variation of the metric δg_μν; the two are related by δ(g^μν g_μν) = δ(δ^μ_ν) ⇒ (δg^μν) g_μν + g^μν δg_μν = 0 = 0 ⇒ δg^{μν} = −g^{μρ}g^{νσ}δg_{ρσ}
+
+The middle term in (4.2) is already proportional to δg^{μν}. We now deal with the first and third terms in turn. We will need the following result: Claim: The variation of √−g is given by δ√−g = −1/2 √−g g^{μν} δg_{μν}. Proof: We use the fact that any diagonalisable matrix A obeys the identity log det A = tr log A. This is obviously true for diagonal matrices. (The determinant is the product of eigenvalues while the trace is the sum of eigenvalues.) But because both the determinant and the trace are invariant under conjugation, it is also true for a diagonalisable matrix. Using this, we have δ(det A) = tr(A^{−1} δA) det A. Applying this to the metric, we have δ√−g = 1/(2√−g) (−g) g^{μν} δg_{μν} = −1/2 √−g g^{μν} δg_{μν}. Using g^{μν}δg_{μν} = −g^{μν} δg_{μν} then gives the result. □
+
+So far, we have managed to write the variation of the action (4.2) as δS = ∫ d⁴x √−g [ (1/2) R − (1/2) R g^{μν} δg_{μν} + √−g g^{μν} δR_{μν} ].
+
+We now need only worry about the final term. For this, we use: Claim: The variation of the Ricci tensor is a total derivative δR_{μν} = ∇_ρ δΓ^ρ_{μν} − ∇_ν δΓ^ρ_{μρ}, where δΓ^ρ_{μν} = (1/2) g^{ρσ} (∇_μ δg_{σν} + ∇_ν δg_{σμ} − ∇_σ δg_{μν}). Proof: We start by looking at the variation of the Christoffel symbols, Γ^ρ_{μν}. First note that, although the Christoffel symbol itself is not a tensor, the variation δΓ^ρ_{μν} is a tensor. This is because it is the difference of Christoffel symbols, one computed using g and the other using g + δg. But the extra derivative term in the transformation of Γ^ρ_{μν} is independent of the metric and so cancels out when we take the difference, leaving us with an object which transforms nicely as a tensor. This is a useful observation. At any point p ∈ M we can choose to work in normal coordinates such that ∂_ρ g_{μν} = 0 and, correspondingly, Γ^ρ_{μν} = 0. Then, to linear order in the variation, the change in the Christoffel symbol evaluated at p is δΓ^ρ_{μν} = (1/2) g^{ρσ} (∂_μ δg_{σν} + ∂_ν δg_{σμ} − ∂_σ δg_{μν}) = (1/2) g^{ρσ} (∇_μ δg_{σν} + ∇_ν δg_{σμ} − ∇_σ δg_{μν}), where we’re at liberty to replace the partial derivatives with covariant derivatives because they differ only by the Christoffel symbols Γ^ρ_{μν} which, in normal coordinates, vanish at p. However, both the left and right-hand sides of this equation are tensors which means that although we derived this expression using normal coordinates, it must hold in any coordinate system. Moreover, the point p was arbitrary so the final expression holds generally. Next we look at the variation of the Riemann tensor. In normal coordinates, the expression (3.39) becomes R^σ_{ρμν} = ∂_μ Γ^σ_{νρ} − ∂_ν Γ^σ_{μρ}, and the variation is δR^σ_{ρμν} = ∂_μ δΓ^σ_{νρ} − ∂_ν δΓ^σ_{μρ} = ∇_μ δΓ^σ_{νρ} − ∇_ν δΓ^σ_{μρ}, where, as before, we replace partial derivatives with covariant derivatives as we are working in normal coordinates where the Christoffel symbols vanish. Once again, our final expression relates two tensors and must, therefore, hold in any coordinate system. Contracting indices (and working to leading order), we have δR_{ρν} = ∇_μ δΓ^μ_{νρ} − ∇_ν δΓ^μ_{ρμ}, as claimed. □
+
+The upshot of these calculations is that g^{μν} δR_{μν} = ∇_μ X^μ with X^μ = g^{ρν} δΓ^μ_{νρ} − g^{μν} δΓ^ρ_{νρ}.
+
+The variation of the action (4.2) can then be written as δS = ∫ d⁴x √−g [ (1/2) R − (1/2) R g^{μν} δg_{μν} + ∇_μ X^μ ] (4.3). This final term is a total derivative and, by the divergence theorem of Section 3.2.4, we ignore it. Requiring that the action is extremised, so δS = 0, we have the equations of motion G_{μν} := R_{μν} − (1/2) R g_{μν} = 0 (4.4), where G_{μν} is the Einstein tensor defined in Section 3.4.1. These are the Einstein field equations in the absence of any matter. In fact they simplify somewhat: if we contract (4.4) with g^{μν}, we find that we must have R = 0. Substituting this back in, the vacuum Einstein equations are simply the requirement that the metric is Ricci flat, R_{μν} = 0 (4.5). These deceptively simple equations hold a myriad of surprises. We will meet some of the solutions as we go along, notably gravitational waves in Section 5.2 and black holes in Section 6. Before we proceed, a small comment. We happily discarded the boundary term in (4.3), a standard practice whenever we invoke the variational principle. It turns out that there are some situations in general relativity where we should not be quite so cavalier. In such circumstances, one can be more careful by invoking the so-called Gibbons-Hawking boundary term.
+
+4.1.1 An Aside on Dimensional Analysis. As it stands, there’s something a little fishy about the action (4.1): it doesn’t have the right dimensions. This isn’t such an issue since we have just a single term in the action and multiplying the action by a constant doesn’t change the classical equations of motion. Nonetheless, it will prove useful to get it right at this stage. If we take the coordinates x^μ to have dimension of length, then the metric g_{μν} is necessarily dimensionless. The Ricci scalar involves two spatial derivatives so has dimension [R] = L^{−2}. Including the integration measure, th The action (4.1) then has dimensions [S] = L2. However, actions should have dimensions of energy×time (it’s the same dimensions as ℏ), or [S] = ML2T−1. This means that the Einstein-Hilbert action should be multiplied by a constant with the appropriate dimensions. We take S = c^3 / (16πG) ∫ d^4x √(-g) R where c is the speed of light and G is Newton’s constant, G ≈ 6.67×10−11 m3 kg−1 s−2 This factor doesn’t change the equation of motion in vacuum, but we will see in Section 4.5 that it determines the strength of the coupling between the gravitational field and matter, as we might expect.
+
+It’s no fun carrying around a morass of fundamental constants in all our equations. For this reason, we often work in “natural units” in which various constants are set equal to 1. From now on, we will set c = 1. (Any other choice of c, including 3×108, is simply dumb.) This means that units of length and time are equated.
+
+However, different communities have different conventions when it comes to G. Relativists will typically set G = 1. Since we have already set c = 1, we have [G] = LM−1. Setting G = 1 then equates mass with length. This is useful when discussing gravitational phenomenon where the mass is often directly related to the length. For example, the Schwarzschild radius of a black hole is R_s = 2GM/c^2 which becomes simply R_s = 2M once we set G = c = 1.
+
+However, if you’re interested in phenomena other than gravity, then it’s no more sensible to set G = 1 than to set, say, the Fermi coupling for the weak force G_F = 1. Instead, it is more useful to choose the convention where ℏ = 1, a choice which equates energy with inverse time (also known as frequency). With this convention, Newton’s constant has dimension [G] = M−2. The corresponding energy scale is known as the (reduced) Planck mass; it is given by M_pl^2 = ℏc / (8πG)
+
+It is around 1018 GeV. This is a very high energy scale, way beyond anything we have probed in experiment. This can be traced to the weakness of the gravitational force.
+
+With c = ℏ = 1, we can equally well write the Einstein-Hilbert action as S = 1/(2 M_pl^2) ∫ d^4x √(-g) R You might be tempted to set c = ℏ = G = 1. This leaves us with no remaining dimensional quantities. It is typically a bad idea, not least because dimensional analysis is a powerful tool and one we do not want to lose. In these lectures, we will focus only on gravitational physics. Nonetheless, we will retain G in all equations.
+
+4.1.2 The Cosmological Constant We motivated the Einstein-Hilbert action as the simplest term we could write down. While it’s true that it’s the simplest term that results in interesting dynamics for the gravitational field, there is in fact a simpler term which we could add to the action. This comes from multiplying the volume form by a constant. The resulting action is S = 1/(16πG) ∫ d^4x √(-g) (R - 2Λ)
+
+Here Λ is referred to as the cosmological constant. It has dimension [Λ] = L−2. The minus sign in the action comes from thinking of the Lagrangian as “T − V”: the cosmological constant is like the potential energy V.
+
+Varying the action as before now yields the Einstein equations, R_μν - 1/2 R g_μν = -Λ g_μν This time, if we contract with g^μν, we get R = 4Λ. Substituting this back in, the vacuum Einstein equations in the presence of a cosmological constant become R_μν = Λ g_μν We will solve these shortly in Section 4.2.
+
+Higher Derivative Terms The Einstein-Hilbert action (with cosmological constant) is the simplest thing we can write down but it is not the only possibility, at least if we allow for higher derivative terms. For example, there are three terms that contain four derivatives of the metric, S_4-deriv = ∫ d^4x √(-g) [c_1 R^2 + c_2 R_μν R^μν + c_3 R_μνρσ R^μνρσ]
+
+with c_1, c_2 and c_3 dimensionless constants. General choices of these constants will result in higher order equations of motion which do not have a well-defined initial value problem. Nonetheless, it turns out that one can find certain combinations of these terms which conspire to keep the equations of motion second order. This is known as Lovelock’s theorem. In d = 4 dimensions, this combination has a rather special topological property: a generalisation of the Gauss-Bonnet theorem states that 1/(8π^2) ∫ d^4x √(g) [R^2 - 4R_μν R^μν + R_μνρσ R^μνρσ] = χ(M)
+
+where χ(M) ∈ Z is the Euler character of M that we previously defined in (2.35). In Lorentzian signature, this combination of curvature terms is also a total derivative and does not affect the classical equations of motion.
+
+As in any field theory, higher derivative terms in the action only become relevant for fast varying fields. In General Relativity, they are unimportant for all observed physical phenomena and we will not discuss them further in this course.
+
+4.1.3 Diffeomorphisms Revisited Here’s a simple question: how many degrees of freedom are there in the metric g_μν? Since this is a symmetric 4×4 matrix, our first guess is 1/2 ×4×5 = 10. However, not all the comp The components of the metric g_{\mu\nu} are physical. Two metrics which are related by a change of coordinates, x^\mu \rightarrow \tilde{x}^\mu(x) describe the same physical spacetime. This means that there is a redundancy in any given representation of the metric, which removes precisely 4 of the 10 degrees of freedom, leaving just 6 behind. Mathematically, this redundancy is implemented by diffeomorphisms. (We defined diffeomorphisms in Section 2.1.3.) Given a diffeomorphism, \phi: M \rightarrow M, we can use this to map all fields, including the metric, on M to a new set of fields on M. The end result is physically indistinguishable from where we started: it describes the same system, but in different coordinates. Such diffeomorphisms are analogous to the gauge symmetries that are familiar in Maxwell and Yang-Mills theory.
+
+Let's look more closely at the implication of these diffeomorphisms for the path integral. We'll consider a diffeomorphism that takes a point with coordinates x^\mu to a nearby point with coordinates x^\mu \rightarrow \tilde{x}^\mu(x) = x^\mu + \delta x^\mu.
+
+We could view this either as an "active change", in which one point with coordinates x^\mu is mapped to another point with coordinates x^\mu + \delta x^\mu, or as a "passive" change, in which we use two different coordinate charts to label the same point. Ultimately, the two views lead to the same place. We'll adopt the passive perspective here, simply because we have a lot of experience of changing coordinates. Later we'll revert to the active picture.
+
+We can think of the change of coordinates as being generated by an infinitesimal vector field X, \delta x^\mu = -X^\mu(x).
+
+The metric transforms as g_{\mu\nu}(x) \rightarrow \tilde{g}_{\mu\nu}(\tilde{x}) = g_{\rho\sigma}(x) \frac{\partial x^\rho}{\partial \tilde{x}^\mu} \frac{\partial x^\sigma}{\partial \tilde{x}^\nu}.
+
+With our change of coordinate \tilde{x}^\mu = x^\mu - X^\mu(x), with infinitesimal X^\mu, we can invert the Jacobian matrix to get \frac{\partial \tilde{x}^\mu}{\partial x^\rho} = \delta^\mu_\rho - \partial_\rho X^\mu \implies \frac{\partial x^\rho}{\partial \tilde{x}^\mu} = \delta^\rho_\mu + \partial_\mu X^\rho, where the inverse holds to leading order in the variation X. Continuing to work infinitesimally, we then have \tilde{g}_{\mu\nu}(\tilde{x}) = (\delta^\rho_\mu + \partial_\mu X^\rho) (\delta^\sigma_\nu + \partial_\nu X^\sigma) g_{\rho\sigma}(x)
+
+= g_{\mu\nu}(x) + g_{\mu\rho}(x) \partial_\nu X^\rho + g_{\nu\rho}(x) \partial_\mu X^\rho.
+
+Meanwhile, we can Taylor expand the left-hand side \tilde{g}_{\mu\nu}(\tilde{x}) = \tilde{g}_{\mu\nu}(x + \delta x) = \tilde{g}_{\mu\nu}(x) - X^\lambda \partial_\lambda \tilde{g}_{\mu\nu}(x).
+
+Comparing the different metrics at the same point x, we find that the metric undergoes the infinitesimal change \delta g_{\mu\nu}(x) = \tilde{g}_{\mu\nu}(x) - g_{\mu\nu}(x) = X^\lambda \partial_\lambda g_{\mu\nu} + g_{\mu\rho} \partial_\nu X^\rho + g_{\nu\rho} \partial_\mu X^\rho \quad (4.6)
+
+But this is something we've seen before: it is the Lie derivative of the metric. In other words, if we act with an infinitesimal diffeomorphism along X, the metric changes as \delta g_{\mu\nu} = (\mathcal{L}_X g)_{\mu\nu}.
+
+This makes sense: it's like the leading term in a Taylor expansion along X.
+
+In fact, we can also massage (4.6) into a slightly different form. We lower the index on X^\rho in the last two \partial X^\rho terms by taking the metric inside the derivative. This results in two further terms in which the derivative hits the metric, and these must be cancelled off. We're left with \delta g_{\mu\nu} = \partial_\mu X_\nu + \partial_\nu X_\mu + X^\rho (\partial_\rho g_{\mu\nu} - \partial_\mu g_{\rho\nu} - \partial_\nu g_{\rho\mu}).
+
+But the terms in the brackets are the Christoffel symbols, 2 g_{\rho\sigma} \Gamma^\sigma_{\mu\nu}. We learn that the infinitesimal change in the metric can be written as \delta g_{\mu\nu} = \nabla_\mu X_\nu + \nabla_\nu X_\mu \quad (4.7)
+
+Let's now see what this means for the path integral. Under a general change of the metric, the Einstein-Hilbert action changes as (4.3)
+
+\delta S = \int d^4x \sqrt{-g} G^{\mu\nu} \delta g_{\mu\nu}, where we have discarded the boundary term. Insisting that \delta S = 0 for any variation \delta g gives the equation of motion G^{\mu\nu} = 0. In contrast, symmetries of the action are those variations \delta g_{\mu\nu} for which \delta S = 0 for any choice of metric. Since diffeomorphisms are (gauge) symmetries, we know that the action is invariant under changes of the form (4.7). Using the fact that G^{\mu\nu} is symmetric, we must have \delta S = 2 \int d^4x \sqrt{-g} G^{\mu\nu} \nabla_\mu X_\nu = 0 \quad \text{for all } X_\mu(x).
+
+After integrating by parts, we find that this results in something familiar: the Bianchi identity \nabla_\mu G^{\mu\nu} = 0.
+
+We already know that the Bianchi identity holds from our work in Section 3.4, but the derivation there was a little fiddly. Here we learn that, from the path integral perspective, the Bianchi identity is a result of diffeomorphism invariance.
+
+In fact it makes sense that the two are connected. Naively, the Einstein equation G^{\mu\nu} = 0 comprises ten independent equations. But, as we've seen, diffeomorphism invariance means that there aren't ten independent components of the metric, so one might worry that the Einstein equations are overdetermined. Happily, diffeomorphisms also ensure that not all the Einstein equations are independent either; they are related by the four Bianchi constraints. We see that, in fact, the Einstein equations give only six independent conditions on the six independent degrees of freedom in the metric.
+
+## 4.2 Some Simple Solutions
+
+We will now look for some simple solutions to the Einstein equations R_{\mu\nu} = \Lambda g_{\mu\nu}.
+
+As we will see, the solutions take a very different form depending on whether \Lambda is zero, positive or negative.
+
+Minkowski Space Let's start with \Lambda = 0. Here the vacuum Einstein equations reduc e to R = 0. If we’re looking for the simplest solution to this equation, it’s tempting to suggest g = 0. Needless to say, this isn’t allowed! The tensor field gµν is a metric and, as defined in Section 3, must be non-degenerate. Indeed, the existence of the inverse gµν was assumed in the derivation of the Einstein equations from the action.
+
+While this restriction is natural geometrically, it is rather unusual from the perspective of a physical theory. It is not a holonomic constraint on the physical degrees of freedom: instead it is an inequality detg < 0 (together with the requirement that gµν has one, rather than three, negative eigenvalues). Other fields in the Standard Model don’t come with such restrictions. Instead, it is reminiscent of fluid mechanics where one has to insist that matter density obeys ρ(x,t) > 0. Ultimately, it seems likely that this restriction is telling us that the gravitational field is not fundamental and should be replaced by something else in regimes where detg is getting small.
+
+The restriction that detg ̸= 0 means that the simplest Ricci flat metric is Minkowski space, with ds² = −dt² + dx²
+
+Of course, this is far from the only metric obeying R = 0. Another example is provided by the Schwarzschild metric, ds² = −(1 − 2GM/r) dt² + (1 − 2GM/r)⁻¹ dr² + r²(dθ² + sin²θ dϕ²) (4.8)
+
+which we will discuss further in Section 6. We will meet more solutions as the course progresses.
+
+4.2.1 de Sitter Space
+
+We now turn to the Einstein equations with Λ > 0. Once again, there are many solutions. Since it’s a pain to solve the Einstein equations, let’s work with an ansatz that we’ve already seen. Suppose that we look for solutions of the form ds² = −f(r)² dt² + f(r)⁻² dr² + r²(dθ² + sin²θ dϕ²) (4.9)
+
+We already computed the components of the Riemann tensor for such a metric in Section 3.4.3 using the technology of curvature 2-forms. From the result, given in (3.54), we can easily check that the Ricci tensor is diagonal with components Rtt = −f⁴Rrr = f³ (f″ + 2f′/r + f′²/f)
+
+and Rϕϕ = sin²θ Rθθ = (1 − f² − 2f f′ r) sin²θ
+
+The resulting Ricci tensor can indeed be made to be proportional to the metric, with Rµν = Λ gµν. Comparing to (4.9), we see that the function f(r) must satisfy two constraints. The first comes from the tt and rr components, f″ + 2f′/r + f′²/f = Λ/f (4.10)
+
+The second comes from the θθ and ϕϕ components, 1 − 2f f′ r − f² = Λ r² (4.11)
+
+It’s simple to see that both conditions are satisfied by the choice f(r) = √(1 − r²/R²) with R² = 3/Λ
+
+The resulting metric takes the form ds² = −(1 − r²/R²) dt² + (1 − r²/R²)⁻¹ dr² + r²(dθ² + sin²θ dϕ²) (4.12)
+
+This is de Sitter space. Or, more precisely, it is the static patch of de Sitter space; we’ll see what this latter statement means shortly.
+
+Geodesics in de Sitter
+
+To interpret this metric, it’s useful to understand the behaviour of geodesics. We can see immediately that the presence of the non-trivial gtt(r) term means that a particle won’t sit still at constant r ̸= 0; instead it is pushed to smaller values of gtt(r), or larger values of r.
+
+We can put some more flesh on this. Because the metric (4.12) has a similar form to the Schwarzschild metric, we simply need to follow the steps that we already took in Section 1.3. First we write down the action for a particle in de Sitter space. We denote the proper time of the particle as σ. (In Section 1.3, we used τ to denote proper time, but we’ll need this for a different time coordinate defined below.) Working with the more general metric (4.9), the action is S = ∫ dσ [−f(r)² ṫ² + f(r)⁻² ṙ² + r²(θ̇² + sin²θ ϕ̇²)] (4.13)
+
+where ẋµ = dxµ/dσ.
+
+Any degree of freedom which appears only with time derivatives in the Lagrangian is called ignorable. They lead to conserved quantities. The Lagrangian above has two ignorable degrees of freedom: ϕ(σ) and t(σ). The first leads to the conserved quantity that we call angular momentum, l = dL/dϕ̇ = r² sin²θ ϕ̇
+
+where the factor of 1/2 in front of dL/dϕ arises because the kinetic terms in (4.13) don’t come with the usual factor of 1/2. Meanwhile, the conserved quantity associated to t(σ) is usually referred to as the energy E = − dL/dṫ = f(r)² ṫ (4.14)
+
+The equations of motion arising from the action (4.13) should be supplemented with the constraint that tells us whether we’re dealing with a massive or massless particle. For a massive particle, the constraint ensures that the trajectory is timelike, −f(r)² ṫ² + f(r)⁻² ṙ² + r²(θ̇² + sin²θ ϕ̇²) = −1
+
+Without loss of generality, we can restrict to geodesics that lie in the θ = π/2 plane, so θ̇ = 0 and sin²θ = 1. Replacing ṫ and ϕ̇ with E and l respectively, the constraint becomes ṙ² + Veff(r) = E²
+
+where the effective potential is given by V(r) = 1 + f(r)² / r² eff
+
+For geodesics in de Sitter, we therefore have
+
+V(r) = 1 + l² / r² (1 - r² / R²)
+
+eff
+
+This is shown in the figures for l ≠ 0 and for l = 0. We can immediately see the key physics: the potential pushes the particle out to larger values of r.
+
+We focus on geodesics with vanishing angular momentum, l = 0. In this case, the potential is an inverted harmonic oscillator. A particle sitting stationary at r = 0 is a geodesic, but it is unstable: if it has some initial velocity then it will move away from the origin, following the trajectory
+
+r(σ) = R √(E² - 1) sinh(σ / ...) (4.15)
+
+The metric (4.12) is singular at r = R, which might make us suspect that something fishy is going on there. But whatever this fishiness is, it’s not visible in the solution (4.15) which shows that any observer reaches r = R in finite proper time σ.
+
+The fishiness reveals itself if we look at the coordinate time t. This also has the interpretation of the time experienced by someone sitting at the point r = 0. Using (4.14), the trajectory (4.15) evolves as
+
+dt / dσ = E (1 - r² / R²)⁻¹
+
+It is simple to check that t(σ) → ∞ as r(σ) → R. (For example, suppose that we have r(σ) = R at some value σ = σ₀ of proper time. Then look at what happens just before this time by expanding σ = σ₀ - ϵ with ϵ small. The equation above becomes dt/dϵ = -α/ϵ for some constant α, telling us that t(ϵ) ∼ -log(ϵ/R) and we indeed find that t → ∞ as ϵ → 0.) This means that while a guy on the trajectory (4.15) sails right through the point r = R in finite proper time, according to his companion waiting at r = 0 this will take infinite time.
+
+This strange behaviour is, it turns out, similar to what happens at the horizon of a black hole, which is the surface r = 2GM in the metric (4.8). (We will look at this more closely in Section 6.) However, the Schwarzschild metric also has a singularity at r = 0, whereas the de Sitter metric looks just like flat space at r = 0. (To see this, simply Taylor expand the coefficients of the metric around r = 0.) Instead, de Sitter space seems like an inverted black hole in which particles are pushed outwards to r = R. But how should we interpret this radius? We will get more intuition for this as we proceed.
+
+De Sitter Embeddings
+
+We will have to wait until Section 4.4.2 to get a full understanding of the physics behind this. But we can make some progress by writing the de Sitter metric in different coordinates. In fact, it turns out that there’s a rather nice way of embedding de Sitter space as a sub-manifold of R¹,⁴, with metric
+
+ds² = -(dX⁰)² + Σᵢ(dXⁱ)² (4.16)
+
+We will now show that the de Sitter space metric (4.12) is a metric on the sub-manifold in R¹,⁴ defined by the timelike hyperboloid
+
+-(X⁰)² + Σᵢ(Xⁱ)² = R² (4.17)
+
+There are a number of different ways to parameterise solutions to this constraint. Suppose that we choose to treat X⁴ as a special coordinate. We define the sum of the first three spatial coordinates to be
+
+r² = (X¹)² + (X²)² + (X³)² (4.18)
+
+so the constraint (4.17) becomes
+
+R² - r² = -(X⁰)² + (X⁴)²
+
+We can parameterise solutions to this equation as
+
+X⁰ = √(R² - r²) sinh(t/R) and X⁴ = √(R² - r²) cosh(t/R) (4.19)
+
+The variation is then
+
+dX⁰ = √(1 - r²/R²) cosh(t/R) dt - (r / √(R² - r²)) sinh(t/R) dr
+
+dX⁴ = √(1 - r²/R²) sinh(t/R) dt - (r / √(R² - r²)) cosh(t/R) dr
+
+Meanwhile the variation of Xⁱ, with i = 1,2,3, is just the familiar line element for R³: Σᵢ₌₁³(dXⁱ)² = dr² + r² dΩ² where dΩ² is the metric on the unit 2-sphere. A two-line calculation then shows that the pull-back of the 5d Minkowski metric (4.16) onto the hypersurface (4.17) gives the de Sitter metric in the static patch coordinates (4.12).
+
+The choice of coordinates (4.18) and (4.19) are not the most intuitive. First, they single out X⁴ as special, when the constraint (4.17) does no such thing. This hides some of the symmetry of de Sitter space. Moreover, the coordinates do not cover the whole of the hyperboloid, since they restrict only to X⁴ ≥ 0.
+
+We can do better. Consider instead the solution to the constraint (4.17)
+
+X⁰ = R sinh(τ/R) and Xⁱ = R cosh(τ/R) yⁱ (4.20)
+
+where the yⁱ, with i = 1,2,3,4, obey Σᵢ(yⁱ)² = 1 and so parameterise a unit 3-sphere. These coordinates have the advantage that they retain (more of) the symmetry of de Sitter space, and cover the whole space. Substituting this into the 5d Minkowski metric (4.16) gives a rather different metric on de Sitter space,
+
+ds² = -dτ² + R² cosh²(τ/R) dΩ² (4.21)
+
+where dΩ² denotes the metric on the unit 3-sphere. These are known as global coordinates, since they cover the whole space. (Admittedly, any choice of coordinates on S³ will suffer from the familiar problem of coordinate singularities at the poles.) Since this metric is related to (4.12) by a change of coordinates, it too must obey the Einstein equation. (We’ll check this explicitly in Section 4.6 where we discuss a class of metrics of this form.)
+
+These coordinates provide a much clearer intuition for the physics of de Sitter space: it is a time-dependent solution in which a spatial S3 first shrinks to a minimal radius R, and subsequently expands. This is shown in the figure. The expansionary phase is a fairly good approximation to our current universe on large scales; you can learn more about this in the lectures on Cosmology.
+
+The cosmological interpretation of an expanding universe is much harder to glean from the static patch coordinates (4.12) in which the space appears to be unchanging in time. Indeed, de Sitter himself originally discovered the metric in the static patch coordinates. He noticed that light is redshifted in this metric, which then caused all sorts of confusion when trying to understand whether the redshift of galaxies (then known as the de Sitter effect!) should be viewed as evidence for an expanding universe. There is a lesson here: it can be difficult to stare at a metric and get a sense for what you’re looking at.
+
+The global coordinates clearly show that there is nothing fishy happening when X4 = 0, the surface which corresponds to r = R in (4.12). This is telling us that this is nothing but a coordinate singularity. (As, indeed, is the r = 2GM singularity in the Schwarzschild metric.) Nonetheless, there is still some physics lurking in this coordinate singularity, which we will extract over the next few sections.
+
+4.2.2 Anti-de Sitter Space We again look for solutions to the Einstein equations, R_µν = Λg_µν, now with a negative cosmological constant Λ < 0. We can again use the ansatz (4.9) and again find the constraints (4.10) and (4.11). The fact that Λ is now negative means that our previous version of f(r) no longer works, but it’s not hard to find the tweak: the resulting metric takes the form ds^2 = −(1 + r^2/R^2) dt^2 + (1 + r^2/R^2)^{-1} dr^2 + r^2 (dθ^2 + sin^2θ dϕ^2)  (4.22)
+
+with R^2 = −3/Λ. This is the metric of anti-de Sitter space, also known simply as AdS. Sometimes this metric is written by introducing the coordinate r = R sinhρ, after which it takes the form ds^2 = −cosh^2ρ dt^2 + R^2 dρ^2 + R^2 sinh^2ρ (dθ^2 + sin^2θ dϕ^2)  (4.23)
+
+Now there’s no mysterious coordinate singularity in the r direction and, indeed, we will see shortly that these coordinates now cover the entire space.
+
+Geodesics in Anti-de Sitter Because the anti-de Sitter metric (4.22) falls in the general class (4.9), we can import the geodesic equations that we derived for de Sitter space. The radial trajectory of a massive particle moving in the θ = π/2 plane is again governed by ṙ^2 + V_eff(r) = E^2  (4.24)
+
+but this time with the effective potential V_eff(r) = (1 + l^2/r^2)(1 + r^2/R^2)
+
+Again, l = r^2 ϕ̇ is the angular momentum of the particle. This potential is shown in the figures for l ≠ 0 and l = 0. From this, we can immediately see how geodesics behave. If there is no angular momentum, so l = 0, anti-de Sitter space acts like a harmonic potential, pushing the particle towards the origin r = 0. Geodesics oscillate backwards and forwards around r = 0.
+
+In contrast, if the particle also has angular momentum then the potential has a minimum at r^2 = R l. This geodesic is like a motorcycle wall-of-death trick, with the angular momentum keeping the particle pinned up the potential. Other geodesics spin in the same fashion, while oscillating about r. Importantly, particles with finite energy E cannot escape to r → ∞: they are trapped by the spacetime to live within some finite distance of the origin.
+
+The picture that emerges from this analysis is that AdS is like a harmonic trap, pushing particles to the origin. This comes with something of a puzzle however because, as we will see below (and more in Section 4.3), AdS is a homogeneous space which, roughly speaking, means that all points are the same. How is it possible that AdS acts like a harmonic trap, pushing particles to r = 0, yet is also a homogeneous space?!
+
+To answer this question, consider a guy sitting stationary at the origin r = 0. This is a geodesic. From his perspective, intrepid AdS explorers on other geodesics (with, say, l = 0) will oscillate backwards and forwards about the origin r = 0, just like a particle in a harmonic trap. However, since these explorers will themselves be travelling on a geodesic, they are perfectly entitled to view themselves as sedentary, stay-at-home types, sitting perfectly still at their ‘origin’, watching the other folk fly around them. In this way, just as everyone in de Sitter can view themselves at the centre of the universe, with other observers moving away from them, everyone in anti-de Sitter can view themselves in the centre of the universe, with other observers...
+
+rs flying around them.
+
+We can also look at the fate of massless particles. This time the action is supplemented by the constraint $$ -f(r)^2\dot{t}^2 + f(r)^{-2}\dot{r}^2 + r^2(\dot{\theta}^2 + \sin^2\theta \dot{\phi}^2) = 0 $$ This tells us that the particle follows a null geodesic. The equation (4.24) gets replaced by $$ \dot{r}^2 + V(r) = E^2_{\text{null}} $$ with the effective potential now given by $$ V_{\text{null}}(r) = \frac{l^2}{r^2}\left(1 + \frac{r^2}{R^2}\right)
+
+$$ This potential is again shown in Figure 32. This time the potential is finite as $r \to \infty$, which tells us that there is no obstacle to light travelling as far as it likes: it suffers only the usual gravitational redshift. We learn that AdS spacetime confines massive particles, but not massless ones.
+
+To solve the equations for a massless particle, it’s simplest to work in the coordinates $r = R\sinh\rho$ that we introduced in (4.23). If we restrict to vanishing angular momentum, $l = 0$, the equation above becomes $$ \dot{\rho} = \frac{E}{R} \cosh\rho \quad \Rightarrow \quad \sinh\rho = E(\sigma - \sigma_0)
+
+$$ where $\sigma$ is the affine geodesic parameter. We see that $\rho \to \infty$ only in infinite affine time, $\sigma \to \infty$. However, it’s more interesting to see what happens in coordinate time. This follows by recalling the definition of $E$ in (4.14), $$ E = \cosh^2\rho \, \dot{t} $$ (Equivalently, you can see this by dint of the fact that we have a null geodesic, with $\cosh\rho \, \dot{t} = \pm \dot{\rho}$.) We then find $$ R \tan(t/R) = E(\sigma - \sigma_0)
+
+$$ So as $\sigma \to \infty$, the coordinate time tends to $t \to \pi R/2$. We learn that not only do light rays escape to $\rho = \infty$, but they do so in a finite coordinate time $t$. This means that to make sense of dynamics in AdS, we must specify some boundary conditions at infinity to dictate what happens to massless particles or fields when they reach it.
+
+Anti-de Sitter space does not appear to have any cosmological applications. However, it turns out to be the place where we best understand quantum gravity, and so has been the object of a great deal of study.
+
+Anti-de Sitter Embeddings Like its $\Lambda > 0$ cousin, anti-de Sitter spacetime also has a natural embedding in a 5d spacetime. This time, it sits within $\mathbb{R}^{2,3}$, with metric $$ ds^2 = -(dX^0)^2 - (dX^4)^2 + \sum_{i=1}^3 (dX^i)^2 \qquad (4.25)
+
+$$ where it lives as the hyperboloid, $$ -(X^0)^2 - (X^4)^2 + \sum_{i=1}^3 (X^i)^2 = -R^2 \qquad (4.26)
+
+$$ We can solve this constraint by $$ X^0 = R \cosh\rho \sin(t/R) \,, \quad X^4 = R \cosh\rho \cos(t/R) \,, \quad X^i = R y^i \sinh\rho \qquad (4.27)
+
+$$ where the $y^i$, with $i = 1,2,3$, obey $\sum (y^i)^2 = 1$ and so parameterise a unit 2-sphere. Substituting this into the metric (4.25) gives the anti-de Sitter metric in the coordinates (4.23).
+
+In fact there is one small subtlety: the embedding hyperboloid has topology $S^1 \times \mathbb{R}^3$, with $S^1$ corresponding to a compact time direction. This can be seen in the parameterisation (4.27), where the time coordinate takes values $t \in [0, 2\pi R)$. However, the AdS metrics (4.22) or (4.23) have no such restriction, with $t \in (-\infty, +\infty)$. They are the universal covering of the hyperboloid (4.26).
+
+There is another parameterisation of the hyperboloid that is also useful. It takes the rather convoluted form $$ X^i = x^i \quad \text{for } i=0,1,2 \,, \qquad X^4 - X^3 = \frac{R}{r} \,, \qquad X^4 + X^3 = \frac{r}{R} + \frac{R}{r} \sum_{i,j} \eta_{ij} x^i x^j $$ with $r \in [0, \infty)$. Although the change of coordinates is tricky, the metric is very straightforward, taking the form $$ ds^2 = R^2 \left( \frac{dr^2}{r^2} + \frac{r^2}{R^4} \sum_{i,j} \eta_{ij} dx^i dx^j \right) \qquad (4.28)
+
+$$ These coordinates don’t cover the whole of AdS; instead they cover only one-half of the hyperboloid, restricted to $X^4 - X^3 > 0$. This is known as the Poincaré patch of AdS. Moreover, the time coordinate, which already extends over the full range $x^0 \in (-\infty, +\infty)$, cannot be further extended. This means that as $x^0$ goes from $-\infty$ to $+\infty$ in (4.28), in global coordinates (4.22), the time coordinate $t$ goes only from 0 to $2\pi R$.
+
+Two other choices of coordinates are also commonly used to describe the Poincaré patch. If we set $z = R^2/r$, then we have $$ ds^2 = \frac{R^2}{z^2} \left( dz^2 + \sum_{i,j} \eta_{ij} dx^i dx^j \right)
+
+$$ Alternatively, if we set $r = Re^\rho$, we have $$ ds^2 = R^2 \left( d\rho^2 + e^{2\rho} \sum_{i,j} \eta_{ij} dx^i dx^j \right)
+
+$$ In each case, massive particles fall towards $r = 0$, or $z = \infty$, or $\rho = -\infty$.
+
+## 4.3 Symmetries
+
+We introduced the three spacetimes – Minkowski, de Sitter and anti-de Sitter – as simple examples of solutions to the Einstein equations. In fact, what makes them special are their symmetries.
+
+The symmetries of Minkowski space are very familiar: they consist of translations and rotations in space and time, the latter splitting into genuine rotations and Lorentz boosts. It’s hard to overstate the importance of these symmetries: on a fixed Minkowski background they are responsible for the existence of energy, momentum and angular momentum.
+
+The purpose of this section is to find a way to characterise the symmetries of a general metric.
+
+4.3.1 Isometries Intuitively, the notion of symmetry is clear. If you hold up a round sphere, it looks the same no matter what way you rotate it. In contrast, if the sphere has dimples and bumps, then the rotational symmetry is broken. The distinction between these two should be captured by the metric. Roughly speaking, the metric on a round sphere looks the same at all points, while the metric on a dimpled sphere will depend on where you sit. We want a way to state this 数学上，要实现这一点，我们需要引入2.2.3节介绍的流的概念。回顾一下，流形 \(M\) 上的流是单参数微分同胚族 \(\sigma : M \to M\)。一个流可以等同于一个向量场 \(K \in X(M)\)，该向量场在 \(M\) 的每一点沿流的切向量方向指向： \[ K^\mu = \frac{dx^\mu}{dt} \]
+
+如果度规在给定流线上的每一点看起来都相同，则称该流为一个等距映射。数学上，这意味着一个等距映射满足 \[ \mathcal{L}_K g_{\mu\nu} = 0 \iff \nabla_\mu K_\nu + \nabla_\nu K_\mu = 0 \quad (4.29)
+
+\]
+
+其中两个表达式的等价性在4.1.3节中已证明。这就是Killing方程，任何满足此方程的 \(K\) 被称为Killing向量场。
+
+有时，可以通过直接观察度规来立即写出一个Killing向量。假设度规分量 \(g_{\mu\nu}(x)\) 不依赖于某个特定坐标，比如 \(y \equiv x^1\)。那么向量场 \(X = \partial/\partial y\) 就是一个Killing向量，因为 \[ (\mathcal{L}_X g)_{\mu\nu} = \frac{\partial g_{\mu\nu}}{\partial y} = 0 \]
+
+然而，我们之前遇到过像 \(y\) 这样的坐标：它们成为度规 \(g_{\mu\nu}\) 中运动的粒子的拉格朗日量中的循环坐标，导致守恒量。我们再次看到了对称性与守恒量之间的熟悉联系。我们将在4.3.2节以及后续课程中进一步探讨这一点。
+
+这些对称性背后存在一种群结构。更准确地说，是一种李代数结构。这源自结果 (2.15)
+
+\[ \mathcal{L}_X \mathcal{L}_Y - \mathcal{L}_Y \mathcal{L}_X = \mathcal{L}_{[X,Y]} \]
+
+（严格来说，我们只在 (2.15) 中证明了李导数作用在向量场上的情况，但可以验证它对任意张量场也成立。）这意味着Killing向量也构成一个李代数。这就是流形等距群的李代数。
+
+一个例子：闵可夫斯基空间作为一个特别简单的例子，考虑闵可夫斯基时空，其度规 \(g_{\mu\nu} = \eta_{\mu\nu}\)。Killing方程为 \[ \partial_\mu K_\nu + \partial_\nu K_\mu = 0 \]
+
+解有两种形式。我们可以取 \[ K^\mu = c^\mu \]
+
+其中 \(c^\mu\) 是任意常向量。它们生成闵可夫斯基空间中的平移。或者，我们可以取 \[ K^\mu = \omega^{\mu\nu} x_\nu \]
+
+其中 \(\omega_{\mu\nu} = -\omega_{\nu\mu}\)。它们生成闵可夫斯基空间中的旋转和洛伦兹推动。
+
+我们可以更清晰地看到代数结构的出现。我们定义Killing向量 \[ P_\mu = \partial_\mu \quad \text{和} \quad M_{\mu\nu} = \eta_{\mu\rho} x^\rho \partial_\nu - \eta_{\nu\rho} x^\rho \partial_\mu \quad (4.30)
+
+\]
+
+总共有10个这样的Killing向量；4个来自平移，6个来自旋转和推动。一个简短的计算表明它们满足 \[ [P_\mu, P_\nu] = 0 \quad , \quad [M_{\mu\nu}, P_\sigma] = -\eta_{\nu\sigma} P_\mu + \eta_{\mu\sigma} P_\nu \]
+
+\[ [M_{\mu\nu}, M_{\rho\sigma}] = \eta_{\mu\sigma} M_{\nu\rho} + \eta_{\nu\rho} M_{\mu\sigma} - \eta_{\mu\rho} M_{\nu\sigma} - \eta_{\nu\sigma} M_{\mu\rho} \]
+
+我们认出这是庞加莱群 \(\mathbb{R}^4 \rtimes SO(1,3)\) 的李代数。
+
+更多例子：de Sitter和anti-de Sitter空间 de Sitter和anti-de Sitter的等距变换从其嵌入来看最为简单。定义de Sitter空间的约束条件 (4.17) 在 \(R^{1,4}\) 的旋转下不变，因此de Sitter继承了 \(SO(1,4)\) 等距群。类似地，定义anti-de Sitter的约束条件 (4.26) 在 \(R^{2,3}\) 的旋转下不变。相应地，AdS具有等距群 \(SO(2,3)\)。注意这两个群都是10维的：就计数而言，这些空间与闵可夫斯基空间一样对称。
+
+在母体5维时空中写下10个Killing旋量很简单： \[ M_{AB} = \eta_{AC} X^C \partial_B - \eta_{BC} X^C \partial_A \]
+
+其中 \(X^A, A = 0,1,2,3,4\) 是5维坐标，\(\eta_{AB}\) 是相应的闵可夫斯基度规，对于de Sitter其符号为 \((-+++++)\)，对于anti-de Sitter为 \((--+++)\)。
+
+在这两种情况下，李代数都是相应洛伦兹群的李代数： \[ [M_{AB}, M_{CD}] = \eta_{AD} M_{BC} + \eta_{BC} M_{AD} - \eta_{AC} M_{BD} - \eta_{BD} M_{AC} \]
+
+重要的是，嵌入双曲面 (4.17) 和 (4.26) 都在这些Killing向量下不变，意义上是由 \(M_{AB}\) 生成的流将我们从双曲面上的一点带到另一点。这意味着Killing向量分别被de Sitter和anti-de Sitter空间继承。
+
+例如，我们可以考虑在静态贴片中的de Sitter空间，其中 \(r^2 = (X^1)^2 + (X^2)^2 + (X^3)^2\) 且 (4.19)
+
+\[ X^0 = \sqrt{R^2 - r^2} \sinh(t/R) \quad \text{和} \quad X^4 = \sqrt{R^2 - r^2} \cosh(t/R)
+
+\]
+
+我们知道静态贴片中的度规 (4.12) 不依赖于时间。这意味着 \(K = \partial_t\) 是一个Killing向量。推前到5维空间，它变为 \[ \frac{\partial}{\partial t} = \frac{\partial X^A}{\partial t} \frac{\partial}{\partial X^A} = \frac{1}{R} \left( X^4 \frac{\partial}{\partial X^0} + X^0 \frac{\partial}{\partial X^4} \right) \quad (4.31)
+
+\]
+
+事实上，这个Killing向量突出了de Sitter空间的一个相当重要的微妙之处。随着我们的进行，我们将看到类时Killing向量——那些满足 \(g_{\mu\nu} K^\mu K^\nu < 0\) 处处成立的——扮演着相当特殊的角色，因为我们可以用它们来定义能量。（我们将在下一节中描述粒子的这种情况。）
+
+在anti-de Sitter空间中，找到一个类时Killing向量没有问题。实际上，我们可以直接在全局坐标 (4.22) 中看出来，它简单地是 \(K = \partial_t\)。但de Sitter则是另一回事。
+
+如果我们在静态贴片 (4.12) 中工作，那么Killing向量 (4.31) 是一个类时Killing向量。事实上，我们在讨论de Sitter中的测地线时用它来推导守恒能量 \(E\)，见…… 4.2.1 But we know that the static patch does not cover all of de Sitter spacetime. Indeed, if we extend the Killing vector (4.31) over the entire space, it is not timelike everywhere. To see this, note that when X4 > 0 and X0 = 0, the Killing vector pushes us forwards in the X0 direction, but when X < 0 and X0 = 0 it pushes us backwards in the X0 direction. This means that the Killing vector field points to the future in some parts of space and to the past in others! Correspondingly, if we try to define an energy using this Killing vector it will be positive in some parts of the space and negative in others. Relatedly, in parts of the space where X4 = 0 and X0 ≠ 0, the Killing vector pushes us in the X4 direction, and so is spacelike.
+
+The upshot of this discussion is an important feature of de Sitter space: there is no global, positive conserved energy. This tallies with our metric in global coordinates (4.21) which is time dependent and so does not obviously have a timelike Killing vector. The lack of a globally defined energy is one of several puzzling aspects of de Sitter space: we’ll meet more as we proceed.
+
+4.3.2 A First Look at Conserved Quantities Emmy Noether taught us that symmetries are closely related to conserved quantities. In the present context, this means that any dynamics taking place in a spacetime with an isometry will have a conserved quantity.
+
+There are a number of different scenarios in which we can ask about conserved quantities. We could look at particles moving in a fixed background; these are the kinds of calculations that we did in Section 1. Alternatively, we could ask about fields moving in a fixed background; we will address this in Section 4.5.5. Finally, we could ask about the energy stored in the spacetime itself. We will provide a formula for this in Section 4.3.3, and also make some further comments in Section 4.5.5.
+
+Here, we consider a massive particle moving in a spacetime with metric g. The particle will follow some trajectory xµ(τ), with τ the proper time. If the spacetime admits a Killing vector K, then we can construct the quantity that is conserved along the geodesic, Q = K dxµ / dτ (4.32)
+
+To see that Q is indeed unchanging, we compute dQ/dτ = (∂ν Kµ dxν/dτ)(dxµ/dτ) + Kµ d²xµ/dτ² = (∂ν Kµ dxν/dτ)(dxµ/dτ) − Kµ Γ^µ_ρσ (dxρ/dτ)(dxσ/dτ)
+
+= ∇ν Kµ (dxν/dτ)(dxµ/dτ) = 0 where in the second line we’ve used the geodesic equation and, in the final equality, we’ve used the symmetry of the Killing equation.
+
+The derivation above looks rather different from our usual formulation of Noether’s theorem. For this reason, it’s useful to re-derive the Killing equation and corresponding conserved charge by playing the usual Noether games. We can do this by looking at the action for a massive particle (in the form (1.32))
+
+S = ∫ dτ g_µν (dxµ/dτ)(dxν/dτ)
+
+Now consider the infinitesimal transformation δxµ = Kµ(x)
+
+The action transforms as δS = ∫ dτ [ ∂ρ g_µν Kρ (dxµ/dτ)(dxν/dτ) + 2g_µν (dxµ/dτ)(dKν/dτ) ]
+
+= ∫ dτ [ ∂ρ g_µν Kρ (dxµ/dτ)(dxν/dτ) + 2(dxµ/dτ)( (∂ρ Kν)(dxρ/dτ) − Kν ∂ρ g_µν (dxρ/dτ) ) ]
+
+= ∫ dτ [ (∂ρ g_µν Kρ − 2Kρ ∂ν g_µρ + 2∂ν Kµ) (dxµ/dτ)(dxν/dτ) ]
+
+= ∫ dτ [ 2∇ν Kµ (dxµ/dτ)(dxν/dτ) ]
+
+The transformation is a symmetry of the action if δS = 0. From the symmetry of the (dxµ/dτ)(dxν/dτ) terms, this is true provided that K obeys the Killing equation ∇(ν Kµ) = 0 Noether’s theorem then identifies the charge Q defined in (4.32) as the conserved quantity arising from this symmetry.
+
+We met examples of these conserved quantities in Section 4.2 when discussing geodesics in de Sitter and anti-de Sitter spacetimes. (And, indeed, in Section 1.3 when discussing the geodesic orbits around a black hole). Both the energy E and the angular momentum l are Noether charges of this form.
+
+Killing vectors have further roles to play in identifying conserved quantities. In Section 4.5.5, we’ll describe how we can use Killing vectors to define energy and momentum of fields in a background spacetime.
+
+4.3.3 Komar Integrals If we have a Killing vector, there is a rather pretty way of associating a conserved quantity to the spacetime itself.
+
+Given a Killing vector K = Kµ ∂µ, we can construct the 1-form K = Kµ dxµ. From this 1-form, we can then construct a 2-form F = dK Alternatively, in components, we have F = 1/2 Fµν dxµ ∧ dxν with Fµν = ∇µ Kν − ∇ν Kµ We’ve called this 2-form F, in analogy with the electromagnetic 2-form. Indeed, the key idea of the Komar integral is that we can think of F very much like the electromagnetic field strength. Indeed, we claim the following is true: Claim: If the vacuum Einstein equations are obeyed, so Rµν = 0, then F obeys the vacuum Maxwell equations d⋆F = 0 Alternatively, as shown in (3.24), we can write this as ∇µ Fµν = 0 Proof: To see this, we start with the Ricci identity (3.16) which, applied to the Killing vector Kσ, reads (∇µ ∇ν − ∇ν ∇µ) Kσ = Rσ_ρµν Kρ Contracting the µ and σ indices then gives (∇µ ∇ν − ∇ν ∇µ) Kµ = R_ρν Kρ But Kµ is a Killing vector and so obeys the Killing equation ∇(µ Kν) = 0 and so ∇ν Kµ = 0。这意味着 Ricci 恒等式简化为： ∇_μ ∇_ν K^ρ = R^ρ_{σμν} K^σ (4.33)
+
+有了这个，我们现在来看 ∇_μ F^{μν}。我们有： ∇_μ F^{μν} = ∇_μ ∇^ν K^μ - ∇_μ ∇^μ K^ν = -2 ∇_μ ∇^μ K^ν = -2 R^{νσ} K_σ 其中我们在第二个等式中使用了 Killing 方程，在第三个等式中使用了 Ricci 恒等式 (4.33)。这给出了我们承诺的结果：d⋆F = 0，前提是 Einstein 方程 R_{μν} = 0 成立。□
+
+由于 2-形式 F 满足真空 Maxwell 方程，我们可以用它来构造 Komar 电荷或 Komar 积分。我们在某个三维空间子流形 Σ 上积分： Q_Komar = - \frac{1}{8\pi G} \int_\Sigma d⋆F = - \frac{1}{8\pi G} \int_{\partial\Sigma} ⋆F = - \frac{1}{8\pi G} \int_{\partial\Sigma} ⋆dK 这里的因子 1/(8πG) 是为了后续的方便。由于 d⋆F = 0，我们在第 3.2.5 节遇到的那种论证告诉我们 Q_Komar 是守恒的。
+
+正如之前讨论的点粒子一样，Komar 积分的解释取决于所讨论的 Killing 矢量。例如，如果 K^μ 是处处类时的，意味着在所有点上 g_{μν} K^μ K^ν < 0，那么 Komar 积分可以被视为能量，或者等价地，时空的质量： M_Komar = - \frac{1}{8\pi G} \int_{\partial\Sigma} ⋆dK 特别地，我们稍后会看到，即使当真空 Einstein 方程 R_{μν} = 0 成立时 d⋆F = 0，Komar 电荷也可以是非零的。类似地，如果 Killing 矢量与旋转有关，守恒电荷就被识别为时空的角动量。
+
+说到这里，给出一些 Komar 积分的例子显然是很好的。遗憾的是，我们手头目前还没有任何有用的例子！然而，我们将在整个第 6 节中使用这种技术来识别黑洞的质量和角动量。
+
+作为旁注：在第 4.5 节的后面，我们将研究如果我们将物质与引力耦合会发生什么。在那里，我们将了解到 Einstein 方程不再是 R_{μν} = 0，而是右侧被物质的能量和动量所改变。在这种情况下，我们仍然可以构成场强 F，但现在它满足带源的 Maxwell 方程 d⋆F = ⋆J，其中电流 J 可以与能量-动量张量相关。然而，对于我们第 6 节的应用，真空 Einstein 方程 R_{μν} = 0 的情况就是我们需要的全部。
+
+## 4.4 时空的渐近行为
+
+三个解——Minkowski、de Sitter 和 anti-de Sitter——具有不同的时空曲率并表现出不同的对称性。但有一个更基本的区别：它们在无穷远处的行为不同。
+
+这一点很重要，因为我们最终要研究更复杂的解。这些解可能具有约化的对称性，或者根本没有对称性。但是，如果场是适当局域化的，它们将渐近到上述三个对称空间之一。这给了我们一种方法来表征物理是在“Minkowski 时空”、“de Sitter 时空”还是“anti-de Sitter 时空”中进行的。
+
+事实证明，洛伦兹时空中的“无穷远”比你可能想象的更有趣。你可以沿着空间、时间或类光方向走向无穷远，而每一个方向都可能具有不同的结构。引入一个工具来可视化时空的无穷远会很有用。
+
+4.4.1 共形变换给定一个具有度规 g_{μν} 的时空 M，我们可以通过共形变换构造一个新的度规 \tilde{g}_{μν}： \tilde{g}_{μν}(x) = Ω^2(x) g_{μν}(x) (4.34)
+
+其中 Ω(x) 是一个光滑、非零的函数。
+
+通常 g_{μν} 和 \tilde{g}_{μν} 描述非常不同的时空，两个时空中的距离被显著地扭曲。然而，共形变换保持角度不变。特别地，在洛伦兹时空中，这意味着两个通过共形变换相关联的度规具有相同的因果结构。一个在度规 g_{μν} 下处处是类光的矢量场 X，在度规 \tilde{g}_{μν} 下也将处处是类光的： g_{μν} X^μ X^ν = 0 ⇔ \tilde{g}_{μν} X^μ X^ν = 0 类似地，关于 g_{μν} 是类时或类空的矢量，关于 \tilde{g}_{μν} 也将继续保持类时或类空间隔。
+
+度规的共形变换不会改变因果结构。然而，度规的任何其他变化都会改变因果结构。这个事实有时被总结为口号：“因果结构占度规的十分之九”。不过，考虑到微分同胚不变性，一个更好的口号是：“因果结构约占度规的六分之五”。
+
+共形变换与测地线一个在度规 g_{μν} 下是类时的粒子轨迹，在度规 \tilde{g}_{μν} 下必然也是类时的。但是，因为距离在共形变换下会被扭曲，没有理由期望一个类时测地线会映射到另一个类时测地线。然而，事实证明，类光测地线确实会映射到类光测地线，尽管仿射参数化在过程中会被打乱。
+
+为了看到这一点，我们首先在新的度规中计算 Christoffel 符号。它们是： Γ^μ_{ρσ}[\tilde{g}] = \tilde{g}^{μν} (∂_ρ \tilde{g}_{νσ} + ∂_σ \tilde{g}_{ρν} - ∂_ν \tilde{g}_{ρσ}) / 2 = Ω^{-2} g^{μν} (∂_ρ (Ω^2 g_{νσ}) + ∂_σ (Ω^2 g_{ρν}) - ∂_ν (Ω^2 g_{ρσ})) / 2 Ω2g )+∂ (Ω2g )−∂ (Ω2g )
+
+ρ νσ σ ρν ν ρσ (cid:0) (cid:1)
+
+= Γµ [g]+Ω−1 δµ∇ Ω+δµ∇ Ω−g ∇µΩ ρσ σ ρ ρ σ ρσ where, in the final line, we’ve replaced ∂ with ∇ on the grounds that the derivatives are hitting a scalar function Ω(x) so it makes no difference.
+
+If we have an affinely parameterised geodesic in the metric g d2xµ dxρdxσ +Γµ [g] = 0 dτ2 ρσ dτ dτ then in the metric g˜ we have d2xµ dxρdxσ dxρdxσ (cid:0) (cid:1)
+
++Γµ [g˜] = Ω−1 δµ∇ Ω+δµ∇ Ω−g ∇νΩ dτ2 ρσ dτ dτ σ ρ ρ σ ρσ dτ dτ The right-hand side looks like a mess. And for timelike or spacelike geodesics, it is.
+
+But for null geodesics we have dxρdxσ g = 0 ρσ dτ dτ so at least one term on the right-hand side vanishes. The others can be written as d2xµ dxρdxσ dxµ 1 dΩ +Γµ [g˜] = 2 dτ2 ρσ dτ dτ dτ Ω dτ But this is the equation for a geodesic that is not affinely parameterised, as in (1.28).
+
+So a conformal transformation does map null geodesics to null geodesics as claimed.
+
+The Weyl Tensor
+
+Our favourite curvature tensors are not invariant under conformal transformations.
+
+However, it turns out that there is a combination of curvature tensors that does not change under conformal transformations. This is the Weyl tensor. In a manifold of dimension n, it is defined as 2 2 (cid:0) (cid:1)
+
+C = R − g R −g R + Rg g µνρσ µνρσ µ[ρ σ]ν ν[ρ σ]µ µ[ρ σ]ν n−2 (n−1)(n−2)
+
+The Weyl tensor has all the symmetry properties of the Riemann tensor, but with the additional property that if you contract any pair of indices with a metric then it vanishes. In this sense, it can be viewed as the “trace-free” part of the Riemann tensor.
+
+4.4.2 Penrose Diagrams
+
+There are a number of interesting and deep stories associated to conformal transfor- mations (4.34). For example, there are a class of theories that are invariant under conformal transformations of Minkowski space; these so-called conformal field theories describe physics at a second order phase transition. But here we want to use conformal transformations to understand what happens at infinity of spacetime.
+
+The main idea is to perform a conformal transformation that pulls infinity to some more manageable, finite distance. Obviously this transformation will mangle distances, but it will retain the causal structure of the original spacetime. We can then draw this causal structure on a very finite piece of paper (e.g. A4). The resulting picture is called a Penrose diagram, named after its discoverers, Roger Penrose and Brandon Carter.
+
+We will illustrate this with a series of examples.
+
+Minkowski Space
+
+We start with Minkowski space. It turns out that, even here, infinity is rather subtle.
+
+It will be simplest if we first work in d = 1 + 1 dimensions, where the Minkowski metric takes the form ds2 = −dt2 +dx2 (4.35)
+
+The first thing we do is introduce light-cone coordinates, u = t−x and v = t+x In these coordinates, the Minkowski metric is even simpler ds2 = −dudv Both of these light-cone coordinates take values over the full range of R: u,v ∈ (−∞,∞). In an attempt to make things more finite, we will introduce another co- ordinate that traverses the full range of u and v over a finite interval. A convenient choice is u = tanu˜ and v = tanv˜ (4.36)
+
+where we now cover the whole of Minkowski space as u˜,v˜ ∈ (−π/2,+π/2). Note that, strictly speaking, we shouldn’t include the points u˜,v˜ = ±π/2 since these correspond to u,v = ±∞.
+
+In the new coordinates, the metric takes the form ds2 = − du˜dv˜ cos2u˜ cos2v˜ Notice that the metric diverges as we approach the boundary of Minkowski space, where u˜ or v˜ → ±π/2. However, we can now do our conformal transformation. We define the new metric ds˜2 = (cos2u˜ cos2v˜)ds2 = −du˜dv˜ After the conformal map, nothing bad happens as we approach u˜,v˜ → ±π/2. It is customary to now add in the “points at infinity”, u˜ = ±π/2 and v˜ = ±π/2, an operation that goes by the name of conformal compactification.
+
+The Penrose diagram is a pictorial representation of this space. As in other relativistic diagrams, we insist that light-rays go at 45◦. We take time to be in the vertical direction, and space in the horizontal. This means that we draw the lightcone u˜ and v˜ coordinates at 45◦. The resulting diagram is shown with the u˜ and v˜ axes on the left-hand side of Figure 33.
+
+We can also dress our Penrose diagram in various ways. For example, we could draw geodesics with respect to the original metric (4.35). These are shown in the right-hand side of Figure 33; the verticalish blue lines are timelike geodesics of constant x; the horizontalish red lines are spacelike geodesics of constant t. We have also listed the different kinds of “infinity” for Minkowski space. They are • All timelike geodesics start at the point labelled i−, with (u˜,v˜) = (−π/2,−π/2)
+
+and end at the point labelled i+ with (u˜,v˜) = (+π/2,+π/2). In other words, this is the origin and fate of all massive particles. These points are referred to as past and future timelike infinity respectively.
+
+Figure 33: The Penrose diagram for d = 1+1 Minkowski space.
+
+• All spacelike geodesi curves begin or end at one of the two points labelled i0, either (ũ,ṽ) = (−π/2,+π/2) or (ũ,ṽ) = (+π/2,−π/2). These points are spacelike infinity.
+
+• All null curves start on the boundary labelled I−, with ũ = −π/2 and arbitrary ṽ, or ṽ = −π/2 and arbitrary ũ. This boundary is pronounced “scri-minus” and known, more formally, as past null infinity. Such null curves end on the boundary labelled I+, with ũ = +π/2 and arbitrary ṽ, or ṽ = +π/2 and arbitrary ũ. This is pronounced “scri-plus” and known as future null infinity.
+
+We see from the picture that there are more ways to “go to infinity” in a null direction than in a timelike or spacelike direction. This is one of the characteristic features of Minkowski space.
+
+The Penrose diagram allows us to immediately visualise the causal structure of Minkowski space. For example, as timelike curves approach i+, their past lightcone encompasses more and more of the spacetime, as shown in the left-hand side of Figure 34. This means that an observer in Minkowski space can see everything (in principle) as long as they wait long enough. Relatedly, given any two points in Minkowski space, they are causally connected in both the past and future, meaning that their past and future lightcones necessarily intersect, as shown in the Mondrian painting on the right-hand side of Figure 34. This means that there was always an event in the past that could influence both points, and always an event in the future that can be influenced by both. These comments may seem trivial, but we will soon see that they don’t hold in other spacetimes, including the one we call home.
+
+Let’s now repeat the analysis for Minkowski space in d = 3+1 dimensions, with the metric ds² = −dt² + dr² + r²dΩ² where dΩ² = dθ² + sin²θ dϕ² is the round metric on S² (and is not to be confused with the conformal factor Ω(x) that we introduced earlier). Again we introduce lightcone coordinates u = t−r and v = t+r and write this metric as ds² = −dudv + (u−v)²/4 dΩ² In the finite-range coordinates (4.36), the metric becomes ds² = −4dũdṽ + sin²(ũ−ṽ) / (4cos²ũ cos²ṽ) dΩ² Finally, we do the conformal transformation to the new metric dŝ² = −4dũdṽ + sin²(ũ−ṽ) dΩ² (4.37)
+
+There is an additional requirement that didn’t arise in 2d: we must insist that v ≥ u so that r ≥ 0, as befits a radial coordinate. This means that, after a conformal compactification, ũ and ṽ take values in −π/2 ≤ ũ ≤ ṽ ≤ +π/2 To draw a diagram corresponding to the spacetime (4.37), we’re going to have to ditch some dimensions. We chose not to depict the S², and only show the ũ and ṽ directions. The resulting Penrose diagram for d = 3+1 dimensional Minkowski space is shown in Figure 35.
+
+Every point in the diagram corresponds to an S² of radius sin(ũ − ṽ), except for the left-hand line which sits at ũ = ṽ where this S² shrinks to a point. This is not a boundary of Minkowski space; it is simply the origin r = 0. To illustrate this, we’ve drawn a null geodesic in red in the figure; it starts at I− and when it hits the r = 0 vertical line, it simply bounces off and ends up at I+.
+
+The need to draw a 4d space on a 2d piece of paper is something of a limitation of Penrose diagrams. It means that they’re only really useful for spacetimes that have an obvious S² sitting inside them that we can drop. Or, to state it more precisely, spacetimes that have an SO(3) isometry. But these spacetimes are the simplest and tend to be the most important.
+
+We have seen that Minkowski space has a null boundary, together with a couple of points at spatial and temporal infinity. This naturally lends itself to asking questions about scattering of massless fields: we set up some initial data on I−, let it evolve, and read off its fate at I+. In quantum field theory, this is closely related to the object we call the S-matrix.
+
+de Sitter Space The global coordinates for de Sitter space are (4.21), ds² = −dτ² + R² cosh²(τ/R) dΩ² To construct the Penrose diagram we work with conformal time, defined by dη/dτ = 1/(R cosh(τ/R))
+
+The solution is cosη = 1/cosh(τ/R) (4.38)
+
+with η ∈ (−π/2,+π/2) as τ ∈ (−∞,+∞). In conformal time, de Sitter space has the metric ds² = −(R²/cos²η) [−dη² + dχ² + sin²χ dΩ²]
+
+We write the metric on the S³ as dΩ²₃ = dχ² + sin²χ dΩ² (4.39)
+
+with χ ∈ [0,π]. The de Sitter metric is conformally equivalent to dŝ² = −dη² + dχ² + sin²χ dΩ² After a conformal compactification, η ∈ [−π/2,+π/2] and χ ∈ [0,π]. The Penrose diagram is shown in Figure 36.
+
+On the left: an observer at the north pole does not see everything. She has an event horizon. In the middle: Nor can she influence everything: she has a particle horizon. On the right: t The causal diamond for an observer at the north pole (in red) and at the south pole (in blue).
+
+The two vertical lines are not boundaries of the spacetime; they are simply the north and south poles of the S³. The boundaries are the horizontal lines at the top and bottom: they are labelled both as i± and I±, reflecting the fact that they are where both timelike and null geodesics originate and terminate.
+
+We learn that de Sitter spacetime has a spacelike S³ boundary. (The normal to this boundary is timelike.)
+
+The causal structure of de Sitter spacetime is very different from Minkowski. It is not true that if an observer waits long enough then she will be able to see everything that’s happening. For example, an observer who sits at the north pole (the left-hand side of the figure) will ultimately be able to see exactly half the spacetime, as shown in the left-hand side of Figure 37. The boundary of this space (the diagonal line in the figure) is her event horizon. It is similar to the event horizon of a black hole in the sense that signals from beyond the horizon cannot reach her. However, as is clear from the picture, it is an observer-dependent horizon: someone else will have an entirely different event horizon. In this context, these are sometimes referred to as cosmological horizons.
+
+Furthermore, the observer at the north pole will only be able to communicate with another half of the spacetime, as shown in the middle of Figure 37. The boundary of the region of influence is known as the particle horizon. You should think of it as the furthest distance light can travel since the beginning of time. The intersection of these two regimes is called the (northern) causal diamond and is shown as the red triangle in the right-hand figure. An observer sitting at the southern pole also has a causal diamond, shown in blue in the right-hand side of Figure 37. It is causally disconnected from the northern diamond.
+
+This state of affairs was nicely summarised by Schrödinger who, in 1956, wrote "It does seem rather odd that two or more observers, even such as sat on the same school bench in the remote past, should in future, when they have followed different paths in life, experience different worlds, so that eventually certain parts of the experienced world of one of them should remain by principle inaccessible to the other and vice versa."
+
+In asymptotically de Sitter spacetimes, it would appear that the natural questions involve setting some initial conditions on spacelike I−, letting it evolve, and reading off the data on I+. One of the lessons of the development of quantum mechanics is that we shouldn’t talk about things that cannot, even in principle, be measured. Yet in de Sitter space we see that no single observer has an overview of the whole space. This causes a number of headaches and, as yet, unresolved conceptual issues when we try to discuss quantum gravity in de Sitter space.
+
+Finally, we can use the Penrose diagram to answer a lingering puzzle about the static patch of de Sitter, in which the metric takes the form ds² = −(1 − r²/R²) dt² + (1 − r²/R²)⁻¹ dr² + r²(dθ² + sin²θ dϕ²)
+
+The question is: how should we interpret the divergence at r = R?
+
+To answer this, we will look at where the surface r = R sits in the Penrose diagram. First, we look at the embedding of the static patch in R¹·⁴, given by X₀ = √(R² − r²) sinh(t/R) and X₄ = √(R² − r²) cosh(t/R)
+
+Naively the surface r = R corresponds to X₀ = X₄ = 0. But that’s a little too quick. To see this, we consider what happens as we approach r → R by writing r = R(1 − ε²/2), with ε ≪ 1. We then have X₀ ≈ Rε sinh(t/R) and X₄ ≈ Rε cosh(t/R)
+
+We can now send ε → 0, keeping X₀ and X₄ finite provided that we also send t → ±∞. To do this, we must ensure that we keep the combination εe±ᵗ/ᴿ finite. This means that we can identify the surface r = R with the lines X₀ = ±X₄.
+
+Now we translate this into global coordinates. These were given by X₀ = R sinh(τ/R) and X₄ = R cosh(τ/R) cosχ where χ is the polar angle on S³. After one further map to conformal time, we find that the lines X₀ = ±X₄ become sinη = ±cosχ ⇒ χ = ±(η − π/2)
+
+But these are precisely the diagonal lines in the Penrose diagram that appear as horizons for people living on the poles.
+
+It’s also simple to check that the point r = 0 in the static patch corresponds to the north pole χ = 0 in global coordinates and, furthermore, t = τ along this line.
+
+The upshot is that the static patch of de Sitter provides coordinates that cover only the northern causal diamond of de Sitter, with the coordinate singularity at r = R coinciding with the past and future observer-dependent horizons.
+
+One advantage of the static patch coordinates is that they clearly exhibit a timelike Killing vector, K = ∂ₜ. This moves us from a surface of constant t to another surface of constant t. But we argued in Section 4.3.1 that there was no global timelike Killing vector field.
+
+lived in de Sitter since, in R1,4, the Killing vector is given by (4.31). The Penrose diagram makes this simpler to visualise. If we extend the Killing vector beyond the static patch, it acts as shown in the figure. It is timelike and future pointing only in the northern causal diamond. It is also timelike in the southern causal diamond, but points towards the past. Meanwhile it is a spacelike Killing vector in both the upper and lower quadrants.
+
+Anti-de Sitter Space
+
+The global coordinates for anti-de Sitter space are (4.23), ds² = −cosh²ρ dt² + R² dρ² + R² sinh²ρ dΩ², with ρ ∈ [0,+∞). To construct the Penrose diagram, this time we introduce a “conformal radial coordinate” ψ, defined by dψ/dρ = 1/coshρ. This is very similar to the conformal map of de Sitter space, but with time replaced by space. The solution is cosψ = 1/coshρ. One difference from the de Sitter analysis is that since ρ ∈ [0,∞), the conformal coordinate lives in ψ ∈ [0,π/2). The metric on anti-de Sitter becomes ds² = (R²/cos²ψ)(−dt̃² + dψ²) + (R²/cos²ψ)(sin²ψ dΩ²) = (R²/cos²ψ)(−dt̃² + dΩ₃²), where we’ve introduced the dimensionless time coordinates t̃ = t/R. We learn that the anti-de Sitter metric is conformally equivalent to ds̃² = −dt̃² + dψ² + sin²ψ dΩ², where, after a conformal compactification, t̃ ∈ (−∞,+∞) and ψ ∈ [0,π/2]. The resulting Penrose diagram is shown in the left-hand of Figure 39. It is an infinite strip. The left-hand edge at ψ = 0 is not a boundary: it is the spatial origin where the S² shrinks to zero size. In contrast, the right-hand edge at ψ = π/2 is the boundary of spacetime.
+
+The boundary is labelled I. In terms of our previous notation, it should be viewed as a combination of I−, I+ and i⁰, since null paths begin and end here, as do spacelike paths. The boundary is now timelike (it has spacelike normal vector), and has topology I = R×S², with R the time factor.
+
+The Penrose diagram allows us to immediately see that light rays hit the boundary in finite conformal time, confirming the calculation that we did in Section 4.2.2. If we want to specify physics in AdS, we need to say something about what happens at the boundary. For example, in the figure we have shown a light ray simply emerging from the boundary at one time and absorbed at some later time. Another choice would be to impose reflecting boundary conditions, so that the light ray bounces back and forth for ever. In this way, anti-de Sitter space is very much like a box, with massive particles trapped in the interior and massless particles able to bounce off the boundary.
+
+In field theoretic language, we could start with initial data on some d = 3 dimensional spacelike hypersurface Σ and try to evolve it in time. This is what we usually do in physics. But in AdS, this information is not sufficient. This is because we can find points to the future of Σ which are in causal contact with the boundary. This means that what happens there depends on the choices we make on the boundary. It’s not particularly difficult to specify what happens on the boundary: for example, we could impose a version of reflecting boundary conditions, so that everything bounces back. But this doesn’t change the fact that we have to specify something and, for this reason, the dynamical evolution is not determined by the initial data alone. In fancy language, we say that AdS is not globally hyperbolic: there exists no Cauchy surface on which we can specify initial data.
+
+AdS is the setting for our best-understood theories of quantum gravity. It turns out that gravitational dynamics in asymptotically AdS spacetimes is entirely equivalent to a quantum field theory living on the boundary I. This idea goes by many names, including the AdS/CFT correspondence, gauge-gravity duality, or simply holography.
+
+Unlike our other Penrose diagrams, our diagram for AdS still stretches to infinity. We can do better. We play our usual trick of introducing a coordinate which runs over finite values, now for time t̃ = tanτ ⇒ dt̃ = dτ/cos²τ. The metric (4.41) then becomes ds² = (R²/(cos²ψ cos⁴τ))(−dτ² + cos⁴τ dΩ₃²), where τ ∈ (−π/2,+π/2). Now we see that AdS is conformally equivalent to ds̃² = −dτ² + cos⁴τ dψ² + sin²ψ dΩ². Ignoring the spatial S², we can draw the resulting Penrose diagram as shown in the right-hand side of Figure 39. Now the spatial S³ grows and shrinks with time, giving the strange almond-shape to the Penrose diagram. Again, we see that there is a timelike boundary I, although now we can also show the future and past timelike infinity, i±. The diagram again makes it clear that a light ray bounces back and forth an infinite number of times in AdS.
+
+## 4.5 Coupling Matter
+
+Until now, we’ve only discussed the dynamics of vacuum spacetime, with matter consigned to test particles moving on geodesics. But matte 物质不仅仅是在时空舞台上演戏的演员：它会反作用于时空本身，影响其动力学。
+
+4.5.1 弯曲时空中的场论我们首先应该问的问题是：物质如何与时空度规耦合？
+
+当物质以场的形式存在，并且其自身由拉格朗日量描述时，这个问题最容易阐述。（我们将在第4.5.4节探讨当物质由粒子——即使是形成流体的粒子——构成时会发生什么。）
+
+标量场作为一个简单的例子，考虑一个标量场 ϕ(x)。在平直空间中，作用量形式为 S = ∫ d⁴x [−½ ηµν ∂µϕ ∂νϕ − V(ϕ)] (4.42)
+
+其中 ηµν 是闵可夫斯基度规。导数项前的负号源自符号约定 (−+++)。这与量子场论讲义等处理有所不同，但它确保作用量具有“动能减去势能”的形式，其中的空间梯度项计入势能。
+
+将此推广到弯曲时空中的场是直接的：我们只需将闵可夫斯基度规替换为弯曲度规，并确保对体积元的适当倍数进行积分。实际上，这意味着我们有 S = ∫ d⁴x √(−g) [−½ gµν ∇µϕ ∇νϕ − V(ϕ)] (4.43)
+
+注意，我们将导数从 ∂ 升级为 ∇，尽管在这种情况下它是多余的，因为在标量场上，∇µϕ = ∂µϕ。尽管如此，这很快就会证明是有用的。
+
+然而，请注意，弯曲时空也为我们提供了向作用量添加新项的可能性。例如，我们同样可以考虑理论 S = ∫ d⁴x √(−g) [−½ gµν ∇µϕ ∇νϕ − V(ϕ) − ½ ξ R ϕ²] (4.44)
+
+其中 ξ 是某个常数。当我们取 gµν = ηµν 时，由于此时 Ricci 标量 R = 0，这便化简为平直空间的作用量 (4.42)，但对于 ξ 的不同选择，它会给出不同的动力学。为了推导 ϕ 的运动方程，我们将作用量 (4.44) 对 ϕ 进行变分，暂时保持 gµν 固定： δS = ∫ d⁴x √(−g) [−gµν ∇µ(δϕ) ∇νϕ − (∂V/∂ϕ) δϕ − ξ R ϕ δϕ]
+
+= ∫ d⁴x √(−g) [gµν ∇µ∇νϕ − ∂V/∂ϕ − ξ R ϕ] δϕ − ∫ d⁴x √(−g) ∇µ(δϕ ∇µϕ)
+
+请注意，尽管在第一行中协变导数 ∇µ 可以被 ∂µ 替代，但在第二行中它们至关重要，因为在那里我们用到了 ∇µ gρσ = 0 这一事实来进行分部积分。最后一项是边界项（使用第3.2.4节证明的散度定理），可以丢弃。这留下了弯曲时空中标量场的运动方程： gµν ∇µ∇νϕ − ∂V/∂ϕ − ξ R ϕ = 0 再次强调，这里需要协变导数：我们可以写 ∇µ∇νϕ = ∇µ∂νϕ，只不过这样写很奇怪。但 ∇µ∇νϕ ≠ ∂µ∂νϕ。
+
+麦克斯韦理论我们已经在第3.2.5节遇到了麦克斯韦理论的作用量，作为在流形上积分形式的例子。它由下式给出 S_Maxwell = −¼ ∫ F ∧⋆F = −¼ ∫ d⁴x √(−g) gµρ gνσ Fµν Fρσ (4.45)
+
+其中 Fµν = ∂µAν − ∂νAµ = ∇µAν − ∇νAµ。（这两个表达式等价是由于反对称性，最后一项中的 Levi-Civita 联络相互抵消。）这一次，运动方程为 ∇µ Fµν = 0 确实，这是我们可以写下的、推广平直空间结果 ∂µ Fµν = 0 的唯一协变张量。
+
+4.5.2 带有物质的爱因斯坦方程为了理解场如何反作用于时空，我们只需考虑组合后的作用量 S = 1/(16πG) ∫ d⁴x √(−g) (R − 2Λ) + S_M 其中 S_M 是物质场的作用量，正如我们上面所见，它既依赖于物质场也依赖于度规。我们知道将爱因斯坦-希尔伯特作用量对度规变分会发生什么。现在我们关心 S_M。我们将能量-动量张量定义为 Tµν = −2/√(−g) δS_M/δgµν (4.46)
+
+请注意 Tµν 是对称的，这是它从度规 gµν 继承来的性质。如果我们对完整作用量关于度规变分，我们有 δS = 1/(16πG) ∫ d⁴x √(−g) (Gµν + Λ gµν) δgµν − ½ ∫ d⁴x √(−g) Tµν δgµν 由此我们可以读出运动方程， Gµν + Λ gµν = 8πG Tµν (4.47)
+
+这就是完整的爱因斯坦方程，描述了引力与物质的耦合。
+
+有几种不同的书写方式。首先，宇宙学常数有时被视为能量-动量张量的另一个分量而被吸收， (Tµν)_Λ = −Λ/(8πG) gµν (4.48)
+
+一个原因是物质场通常可以模拟宇宙学常数，将所有这样的项捆绑在一起是有道理的。（例如，处于势能极值点的标量场与宇宙学常数不可区分。）在这种情况下，我们直接得到 Gµν = 8πG Tµν 其中 Tµν 现在包含了宇宙学项。
+
+然后取迹（即与 gµν 缩并）给出 −R = 8πG T 其中 T = gµν Tµν。我们可以用这直接将 Ricci 张量与能量-动量张量联系起来： Rµν = 8πG (Tµν − ½ T gµν) (4.49)
+
+这种形式还 its uses in what follows.
+
+4.5.3 The Energy-Momentum Tensor The action S is constructed to be diffeomorphism invariant. This means that we can replay the argument of Section 4.1.3 that led us to the Bianchi identity: if we vary the metric by a diffeomorphism δg = (L_X g) = 2∇_μ X_ν, then we have δS = −2 ∫ d⁴x √{-g} T^{μν} ∇_μ X_ν = 0 for all X_μ.
+
+This tells us that the energy momentum tensor is necessarily covariantly conserved, ∇_μ T^{μν} = 0. (4.50)
+
+Of course, this was necessary to make the Einstein equation (4.47) consistent, since we know that ∇_μ G^{μν} = 0. Indeed, viewed from the action principle, both the Bianchi identity and ∇_μ T^{μν} = 0 have the same origin.
+
+Although we’ve introduced the energy-momentum tensor as something arising from curved spacetime, it is also an important object in theories in flat space that have nothing to do with gravity. In that setting, the energy-momentum tensor arises as the Noether currents associated to translational invariance in space and time.
+
+A hint of this is already apparent in (4.50) which, restricted to flat space, gives the expected conservation law enjoyed by Noether currents, ∂_μ T^{μν} = 0. However, there is a rather slick argument that makes the link to Noether’s theorem tighter.
+
+In flat space, the energy-momentum tensor comes from invariance under translations x^μ → x^μ + X^μ, with constant X^μ. There’s a standard trick to compute the Noether current associated to any symmetry which involves promoting the symmetry parameters to be functions of the spacetime coordinates, so δx^μ = X^μ(x). The action restricted to flat space is not invariant under such a shift. But it’s simple to construct an action that is invariant: we simply couple the fields to a background metric and allow that to also vary. This is precisely the kind of action we’ve been considering in this section.
+
+The change of the action in flat space where we don’t let the metric vary must be equal and opposite to the change of the action where we let the metric vary but don’t change x^μ (because the combination of the two vanishes). We must have δS_flat = − ∫ d⁴x (δS/δg^{μν})_flat δg^{μν}.
+
+But the variation of the metric without changing the point x^μ is δg_{μν} = ∂_μ X_ν + ∂_ν X_μ. (The Christoffel symbols in the more familiar expression with ∇ come from the ∂g term in (4.7), and this is precisely the term we neglect.) We have δS_flat = −2 ∫ d⁴x (δS/δg^{μν})_flat ∂_μ X_ν = −2 ∫ d⁴x ∂_μ [(δS/δg^{μν})_flat X_ν].
+
+But we know that δS_flat = 0 whenever X^μ = constant, since this is precisely what it means for the theory to be translationally invariant. We learn that the conserved Noether current in flat space is T^{μν}_flat = −2 (δS/δg^{μν})_flat, which is the flat space version of (4.46).
+
+Examples of the Energy-Momentum Tensor It is straightforward to compute the energy-momentum tensor for a scalar field. We take the action (4.43) and vary with respect to the metric. We will need the result δ√{-g} = −½ √{-g} g^{μν} δg_{μν} from Section 4.1. We then find δS_scalar = ∫ d⁴x √{-g} [g^{μν} ∇_ρ ϕ ∇_μ ϕ + ½ g^{μν} V(ϕ) − ½ ∇^μ ϕ ∇^ν ϕ] δg_{μν}, where the first two terms come from varying √{-g} and the third comes from varying the metric in the gradient term. This gives us the energy momentum tensor T_{μν} = ∇_μ ϕ ∇_ν ϕ − g_{μν} [½ ∇^ρ ϕ ∇_ρ ϕ + V(ϕ)]. (4.51)
+
+If we now restrict to flat space, with g_{μν} = η_{μν}, we find, for example, T_{00} = ½ φ̇² + ½ (∇ϕ)² + V(ϕ), where ∇ is the usual 3d spatial derivative. We recognise this as the energy density of a scalar field.
+
+We can play the same game with the Maxwell action (4.45). Varying with respect to the metric, we have δS_Maxwell = −¼ ∫ d⁴x √{-g} [−g_{μν} F_{ρσ} F^{ρσ} + 2 g_{ρσ} F^{ρ}_{\mu} F^{σ}_{\nu}] δg^{μν}.
+
+So the energy momentum tensor is given by T_{μν} = g_{ρσ} F^{ρ}_{\mu} F^{σ}_{\nu} − ¼ g_{μν} F_{ρσ} F^{ρσ}. (4.52)
+
+In flat space, with g_{μν} = η_{μν}, T_{00} = ½ E² + ½ B², with F_{0i} = −E_i, the electric field, and F_{ij} = ε_{ijk} B_k the magnetic field. Again, we recognise this as the energy density in the electric and magnetic fields. You can read more about the properties of the Maxwell energy-momentum tensor in the lecture on Electromagnetism.
+
+4.5.4 Perfect Fluids Take any kind of object in the universe. Throw a bunch of them together, heat them up, and gently splash. The resulting physics will be described by the equations of fluid dynamics.
+
+A perfect fluid is described by its energy density ρ(x,t), pressure P(x,t) and a velocity 4-vector u^μ(x,t) such that u_μ u^μ = −1. The pressure and energy density are not unrelated: there is an identity between them that is usually called the equation of state, P = P(ρ).
+
+Common examples include dust, which consists of massive particles floating around, moving very slowly so that the pressure is P = 0, and radiation, which is a fluid made of many photons for which P = ρ/3.
+
+The energy-momentum tensor for a perfect fluid is given by Tµν = (ρ+P)uµuν +Pgµν (4.53). If we are in Minkowski space, so gµν = ηµν and the fluid is at rest, so uµ = (1,0,0,0), then the energy momentum tensor is Tµν = diag(ρ,P,P,P). We see that T00 = ρ, as expected for the energy density. More generally, for a moving fluid we have Tµν uµuν = ρ, which means that ρ is the energy density measured by an observer co-moving with the fluid.
+
+The energy-momentum tensor must obey ∇µ Tµν = 0. A short calculation shows that this is equivalent to two relations between the fluid variables. The first is uµ∇µ ρ+(ρ+P)∇µ uµ = 0 (4.54). This is the relativistic generalisation of mass conservation for a fluid. Here “mass” has been replaced by energy density ρ. The first term, uµ∇µ ρ calculates how fast the energy density is changing as we move along uµ. The second term tells us the answer: it depends on ∇µ uµ, the rate of flow of fluid out of a region.
+
+The second constraint is (ρ+P)uµ∇µ uν = −(gµν +uµuν)∇µ P (4.55). This is the relativistic generalisation of the Euler equation, the fluid version of Newton’s second law “F=ma”. The left-hand side of the equation should be viewed as “mass × acceleration”, the right-hand side is the force which, in a fluid, is due to pressure differences. You can learn more about these equations in the relativistic context and their solutions in chapter 3 of the lectures on Cosmology.
+
+Figure 40: Charge conservation in flat spacetime... Figure 41: ...and in curved spacetime.
+
+4.5.5 The Slippery Business of Energy Conservation
+
+In flat space, the existence of an energy-momentum tensor ensures that we can define the conserved quantities, energy and momentum. In curved spacetime, things are significantly more subtle.
+
+To see this, it’s useful to compare the energy-momentum tensor Tµν with a current Jµ which arises from a global symmetry (such as, for example, the phase rotation of a complex scalar field). In flat space, both obey current conservation ∂µ Jµ = 0 and ∂µ Tµν = 0 (4.56). From these, we can construct conserved charge by integrating over a spatial volume Σ: Q(Σ) = ∫d3x J0 and Pµ(Σ) = ∫d3x T0µ Σ Σ
+
+To see that these are indeed conserved, we simply need to integrate over a spacetime volume V, bounded by Σ at past and future times t1 and t2. We then have 0 = ∫d4x ∂µ Jµ = ∆Q(Σ)+ ∫d3x ni Ji V B where ∆Q(Σ) = [Q(Σ)](t2)−[Q(Σ)](t1) and ni is the outward-pointing normal to B, the timelike boundary of V, as shown in the left-hand figure. Provided that no current flows out of the region, meaning Jµ = 0 when evaluated on B, we have ∆Q(Σ) = 0. (Often, we take Σ = R3 so that B = S2 ×I with I an interval, and we only have to require that there are no currents at infinity.) This is the statement of charge conservation.
+
+In Minkowski space, this same argument works just as well for Pµ(Σ), meaning that we are able to assign conserved energy and momentum to fields in some region, providing that no currents leak out through the boundary.
+
+Let’s now contrast this to the situation in curved spacetime. The conservation laws (4.56) are replaced by their covariant versions ∇µ Jµ = 0 and ∇µ Tµν = 0. We can replay the argument above, now invoking the divergence theorem from Section 3.2.4: 0 = ∫d4x √(−g)∇µ Jµ = ∫d3x √|γ| nµ Jµ V ∂V with γij the pull-back of the metric to ∂V and nµ the normal vector. We consider a spacetime volume V with boundary ∂V = Σ1 ∪Σ2 ∪B. Here Σ1 and Σ2 are past and future spacelike boundaries, while B is the timelike boundary as shown in the right-hand figure. If we again insist that no current flows out of the region by requiring that Jµnµ = 0 when evaluated on B, then the expression above becomes Q(Σ2) = Q(Σ1), where the charge Q(Σ) evaluated on a spacelike hypersurface Σ is defined by Q(Σ) = ∫d3x √γ nµ Jµ. This means that, for a vector field, covariant conservation is the same thing as actual conservation. The story above is a repeat of the one we told using differential forms in Section 3.2.5.
+
+Now let’s try to tell a similar story for the energy-momentum tensor. In analogy to the derivation above, it’s clear that we should try to manipulate the integral 0 = ∫d4x √(−g)∇µ Tµν. The problem is that we don’t have a divergence theorem for integrals of this kind because of the hanging ν index on the energy momentum tensor. The key to deriving the divergence theorem for Jµ was the expression ∇µ Jµ = ∂µ Jµ +Γµµρ Jρ = 1/√(−g) ∂µ (√(−g) Jµ). This allows us to turn a covariant derivative into a normal derivative which gives a boundary term in the integral. However, the same expression for the energy-momentum tensor reads ∇µ Tµν = ∂µ Tµν +Γµµρ Tρν +Γνµρ Tµρ = 1/√(−g) ∂µ (√(−g) Tµν) +Γνµρ Tµρ. That extra term involving the Christoffel symbol stops us converting the integral of ∇µ Tµν into a boundary term. Indeed, we can rewrite ∇µ Tµν = 0 as ∂µ (√(−g) Tµν) = − √(−g) Γνµρ Tµρ (4.57), then the right-hand side looks like a driving force which destroys conservation of energy and momentum. We learn that, for a higher tensor like Tµν, covariant conservation is not the same thing as actual conservation!
+
+Conserved Energy from a Killing Vector
+
+We can make progress by introducing one further ingredient. If our spacetime has a Killing vector field K, we can construct a current from the energy-momentum tensor by writing Jν = −K Tµν T µ Taking the covariant divergence of the current gives −∇ Jν = (∇ K )Tµν +K ∇ Tµν = 0 ν T ν µ µ ν where the first term vanishes by virtue of the Killing equation, with Tµν imprinting its symmetric indices on ∇ K , and the second term vanishes by (4.50).
+
+ν µ Now we’re in business. We can construct conserved charges from the current Jµ as explained above, (cid:90)
+
+Q (Σ) = d3x γ n Jµ T µ T The interpretation of these charges depends on the properties of the Killing vector. If Kµ is everywhere timelike, meaning g KµKν < 0 at all points, then the charge can µν be identified with the energy of the matter E = Q (Σ)
+
+If the Killing vector is everywhere spacelike, meaning g KµKν > 0 at all points, then µν the charge can be identified with the momentum of the matter.
+
+Conserved Energy Without a Killing Vector?
+
+There are situations where spacetime does not have a Killing vector yet, intuitively, we would still like to associate something analogous to energy. This is where things start to get subtle.
+
+A simple situation where this arises is two orbiting stars. It turns out that the resulting spacetime does not admit a timelike Killing vector. As we will describe in some detail in Section 5.3, as the stars orbit they emit gravitational waves, losing energy, which causes them to slowly spiral towards each other. This fits nicely with the lack of a timelike Killing vector, since we wouldn’t expect to define a conserved energy for the stars.
+
+However, it certainly feels like we should be able to define a conserved energy for the total system which, in this case, means stars together with the gravitational waves. In particular, we would like to quantify the amount of energy lost by the stars and carried away by the gravitational waves. But this requires us to define something new, namely the energy density in the gravitational field. And this is where the trouble starts!
+
+There’s an obvious way to proceed, one that starts by returning to our original definition of the energy-momentum tensor (4.46)
+
+2 δS T = −√ M µν −g δgµν A naive guess would be to include the action for both matter and gravity in this definition, giving an energy momentum tensor which includes both matter and gravity (cid:18) (cid:19)
+
+2 1 δS δS Ttotal = −√ EH + M µν −g 16πG δgµν δgµν But this gives Ttotal = − G +T = 0 µν 8πG µν µν which vanishes by the Einstein field equations. The idea that the total energy of the universe vanishes, with negative gravitational energy cancelling the positive energy from matter sounds like it might be something important. It turns out to be very good for selling pseudo-scientific books designed to make the world think you’re having deep thoughts. It’s not, however, particularly good for anything to do with physics. For example, it’s not as if electrons and positrons are suddenly materialising everywhere in space, their mass energy cancelled by the gravitational energy. That’s not the way the universe works. Instead the right way to think about this equation is to simply appreciate that energy in general relativity is subtle.
+
+Clearly, we should try to do better to understand the energy carried in the gravitational field. Unfortunately, it turns out that doing better is challenging. There are compelling arguments that show there is no tensor that can be thought of as the local energy density of the gravitational field. Roughly speaking, these arguments start from the observation that the energy in the Newtonian gravitational field is proportional to (∇Φ)2. We should therefore expect that the relativistic version of energy density is proportional to the first derivative of the metric. Yet the equivalence principle tells us that we can always find coordinates – those experienced by a freely falling observer – which ensure that the first derivative of the metric vanish at any given point. But a tensor that vanishes in one coordinate system also vanishes in another.
+
+We’ll confront these issues again in Section 5.3 when we try to answer the question of how much energy is emitted in gravitational waves by a binary star system. We’ll see there that, for this case, there are simplifications that mean we can converge on a sensible answer.
+
+4.5.6 Spinors
+
+In flat space, fermions transform in the spinor representation of the SO(1,3) Lorentz group. Recall from the lectures on Quantum Field Theory that we first introduce gamma matrices obeying the Clifford algebra {γ ,γ } = 2η (4.58)
+
+a b ab Notice that we’ve put indices a,b = 0,1,2,3 on the gamma matrices, rather than the more familiar µ,ν. This is deliberate. In d = 3+1 dimensions, each of the γ is a 4×4 matrix.
+
+We can use these gamma matrices to construct generators of the Lorentz group, S = [γ_a, γ_b]. These define the spinor representation of the Lorentz group. We write a Lorentz transformation Λ as Λ = exp(λ_ab M^ab) with M^{ab} the usual Lorentz generators (defined, for example, in (4.30)) and λ_ab a choice of 6 numbers that specify the particular Lorentz transformation. Then the corresponding transformation in the spinor representation is given by S[Λ] = exp(λ_ab S^{ab}).
+
+A Dirac spinor field ψ(x) is then a 4-component complex vector that, under a Lorentz transformation, changes as ψ(x) → S[Λ]ψ(Λ^{-1}x) (4.59).
+
+In Minkowski space, the action for the spinor is S_{Dirac} = ∫ d^4x [ i ψ̄ γ^a ∂_a ψ + m ψ̄ ψ ] with ψ̄ = ψ†γ^0. The magic of gamma matrices ensures that this action is invariant under Lorentz transformations, despite having just a single derivative. Our task in this section is to generalise this action to curved spacetime.
+
+We can already see some obstacles. The gamma matrices (4.58) are defined in Minkowski space and it’s not clear that they would retain their magic if generalised to curved space. Furthermore, what should we do with the derivative? We might suspect that it gets replaced by a covariant derivative, but what connection do we choose? To answer these questions, we will need to invoke the vierbeins and connection one-form that we met in Section 3.4.2. Recall that the vierbeins ê^a = e^a_µ ∂^µ are a collection of 4 vector fields, that allow us “diagonalise” the metric. We define e_a^µ to be the inverse of e^a_µ, meaning it satisfies e_a^µ e^a_ν = δ^µ_ν and e^a_µ e_b^µ = δ^a_b. The metric can then be written g_{µν} = e^a_µ e^b_ν η_{ab}. These formulae are really telling us that we should raise/lower the µ,ν indices using the metric g_{µν} but raise/lower the a,b indices using the Minkowski metric η_{ab}.
+
+The formalism of vierbeins allowed us to introduce the idea of a local Lorentz transformation Λ(x), defined in (3.43), which acts on the vierbeins as e^a_ν → ẽ^a_ν = e^b_ν (Λ^{-1})^a_b with Λ^c_a Λ^d_b η_{cd} = η_{ab}. This local Lorentz transformation can now be promoted to act on a spinor field as (4.59), again with S[Λ] depending on the coordinate x.
+
+We want our action to be invariant under these local Lorentz transformations. In particular, we might expect to run into difficulties with the derivative which, after a Lorentz transformation, now hits Λ(x) as well as ψ(x). But this is exactly the kind of problem that we’ve met before when writing down actions for gauge theories, and we know very well how to solve it: we simply need to include a connection in the action that transforms accordingly. To this end, we construct the covariant derivative acting on a spinor field ∇_µ ψ = ∂_µ ψ + (ω_ab)_µ S^{ab} ψ with (ω_ab)_µ the appropriate connection. But what is it? The right choice is the connection one-form, also known as the spin connection, that we met in Section 3.4.2. From (3.44) and (3.47), we have (ω^a_b)_µ = Γ^a_{cµ} e^c = e^a_λ ∇_µ e^λ_b. This does the trick because of its inhomogeneous transformation (3.45) (ω^a_b)_µ → Λ^a_c (ω^d_b)_µ (Λ^{-1})^c_d + Λ^a_c (∂_µ Λ^{-1})^c_b. This cancels the contribution from the derivative in the same way as the covariant derivative in a non-Abelian gauge theory. The generalisation of the Dirac action to curved space is then simply S_{Dirac} = ∫ d^4x √(-g) [ i ψ̄ γ^a e^a_µ ∇_µ ψ + m ψ̄ ψ ].
+
+There are a number of reasons to be interested in coupling fermions to gravity. First, and most obviously, both are constituents of our universe and it’s important to understand how they fit together. Second, they are important for more formal aspects of mathematical physics: they are the key component in Witten’s simple proof of the positive mass theorem, and there are reasons to suspect that the quantisation of gravity ultimately requires supersymmetry at a high energy scale. However, there is one thing that you probably shouldn’t do with them, which is put them on the right-hand side of the Einstein equation and solve them. This is because fermions are quantum fields and do not have a macroscopic, classical analog.
+
+Of course, all fields are, at heart, quantum. But for bosonic fields, it makes sense to think of them classically where they can be viewed as quantum fields with high occupation number. This is familiar in electromagnetism, where the classical electric and magnetic field can be thought of containing many photons. This means that it makes sense to find spacetimes which solve the Einstein equations G_{µν} = 8πG T_{µν} where the curvature is supported by a profile for scalar fields on the right-hand-side.
+
+In contrast, there is no classical limit of fermionic fields. This is because the Pauli exclusion principle prohibits a large occupation number. If you therefore attempt to find a spacetime supported by a fermionic T_{µν}, you are really looking for a gravitational solution ion sourced by precisely one quantum excitation. Given the feebleness of gravity on the microscopic scale, this is unlikely to be interesting.
+
+This is not to say that fermions don't affect gravity. Important examples for gravitating fermionic systems include white dwarfs and neutron stars. But in each of these cases there is a separation of scales where one can first neglect gravity and find an effective equation of state for the fermions, and subsequently understand how this backreacts on spacetime. If you want to understand the spacetime directly from the Dirac equation than you have a complicated many-body problem on your hands.
+
+4.5.7 Energy Conditions If we know the kind of matter that fills spacetime, then we can just go ahead and solve the Einstein equations. However, we will often want to make more general statements about the allowed properties of spacetime without reference to any specific matter content. In this case, it is useful to place certain restrictions on the kinds of energy-momentum tensor that we consider physical.
+
+These restrictions, known as energy conditions, capture the rough idea that energy should be positive. A number of classic results in general relativity, such as the singularity theorems, rely on these energy conditions as assumptions.
+
+There are a bewildering number of these energy conditions. Moreover, it is not difficult to find examples of matter which violate most of them! We now describe a number of the most important energy conditions, together with their limitations.
+
+• Weak Energy Condition: This states that, for any timelike vector field X, T_{\mu\nu} X^\mu X^\nu \geq 0 for all X with X_\mu X^\mu < 0. The idea is that this quantity is the energy seen by an observer moving along the timelike integral curves of X, and this should be non-negative. A timelike curve can get arbitrarily close to a null curve so, by continuity, the weak energy condition can be extended to timelike and null curves: T_{\mu\nu} X^\mu X^\nu \geq 0 for all X with X_\mu X^\mu \leq 0. (4.60)
+
+To get a feel for this requirement, let's first impose it on the energy-momentum tensor for a perfect fluid (4.53). We will consider timelike vectors X normalised to X \cdot X = -1. We then have T_{\mu\nu} X^\mu X^\nu = (\rho + P)(u \cdot X)^2 - P \geq 0 We work in the rest frame of the fluid, so u^\mu = (1, 0, 0, 0) and consider constant timelike vector fields, X^\mu = (\cosh\phi, \sinh\phi, 0, 0). These describe the worldlines of observers boosted with rapidity \phi with respect to the fluid. The weak energy condition then gives us \begin{cases} \rho \geq 0 & \text{when } \phi = 0 \\ (\rho + P)\cosh^2\phi - P \geq 0 \Rightarrow P \geq -\rho & \text{as } \phi \to \infty \end{cases} The first condition \rho \geq 0 is what we expect from the weak energy condition: it ensures that the energy density is positive. The second condition P \geq -\rho says that negative pressure is acceptable, just as long as it's not too negative.
+
+There are, however, situations in which negative energy density makes physical sense. Indeed, we've met one already: if we view the cosmological constant as part of the energy momentum tensor, as in (4.48), then any \Lambda < 0 violates the weak energy condition. Viewed this way, anti-de Sitter spacetime violates the weak energy condition.
+
+We can also look at how this condition fares for scalar fields. From the energy-momentum tensor (4.51), we have (X^\mu \partial_\mu \phi)^2 + \partial_\mu \phi \partial^\mu \phi + V(\phi) \geq 0 (4.61)
+
+The first term is positive, but the second term can have either sign. In fact, it turns out that the first and second term combined are always positive. To see this, define the vector Y orthogonal to X Y_\mu = \partial_\mu \phi + X_\mu (X^\nu \partial_\nu \phi)
+
+This satisfies X^\mu Y_\mu = 0: it is the projection of \partial_\mu \phi onto directions orthogonal to X. Because X is timelike, Y must be spacelike (or null) and so obeys Y^\mu Y_\mu \geq 0.
+
+The weak energy condition (4.61) can be rewritten as \frac{1}{2} (X^\mu \partial_\mu \phi)^2 + \frac{1}{2} Y^\mu Y_\mu + V(\phi) \geq 0 Now the first two terms are positive. We see that the weak energy condition is satisfied provided that V(\phi) \geq 0. However, it is violated in any classical theory with V(\phi) \leq 0 and there's no reason to forbid such negative potentials for a scalar field.
+
+• Strong Energy Condition: There is a different, less immediately intuitive, energy condition. This is the requirement that, for any timelike vector field X, R_{\mu\nu} X^\mu X^\nu \geq 0 This is the strong energy condition. It is poorly named. The strong energy condition is neither stronger nor weaker than the weak energy condition: it is simply different. It turns out that the strong energy condition ensures that timelike geodesics converge, which can be viewed as the statement that gravity is attractive. (This connection is made using something called the Raychaudhuri equation.)
+
+Using the form of the Einstein equations (4.49), the strong energy condition requires \left( T_{\mu\nu} - \frac{1}{2} T g_{\mu\nu} \right) X^\mu X^\nu \geq 0 for all timelike vector fields X. As before, continuity ensures that we can extend this to timelike and null vector fields, X \cdot X \leq 0.
+
+If we take X \cdot X = -1 then, applied to a perfect fluid (4.53), the strong energy condition requires (\rho + P)(u \cdot X)^2 - P + \frac{1}{2} (\rho - 3P) \geq 0 As before, we consider the fluid in its rest frame with u µ = (1,0,0,0)，我们考察一下对于Boosted观察者，其 Xµ = (coshφ,sinhφ,0,0) 时的条件。我们有： 1 P ≥ −ρ/3 (当 φ = 0)
+
+(ρ+P)cosh²φ + (P −ρ) ≥ 0 ⇒ 2 P ≥ −ρ (当 φ → ∞)
+
+再次，不难发现强能量条件被违反的情况。最引人注目的是，正的宇宙学常数 Λ > 0 与强能量条件不相容。事实上，我们可能已经怀疑这一点，因为在德西特空间中，相邻的类时测地线会因为空间的膨胀而被拉开。事实上，强能量条件禁止任何具有 a̅ > 0 的FRW宇宙，但我们的宇宙至少经历过两个加速膨胀的时期：暴胀期间，以及现在。
+
+最后，不难证明任何具有正势能的经典标量场都会违反强能量条件。
+
+• 零能量条件：零能量条件 Tµν Xµ Xν ≥ 0 对所有满足 X·X = 0 的 X 成立。
+
+这由弱和强能量条件共同蕴含，但反之不成立：零能量条件比弱和强条件都要弱。当然，这意味着当我们用它来证明各种命题时，它的效力较小。然而，零能量条件的优势在于，任何合理的经典场论和任何满足 ρ+P ≥ 0 的完美流体都满足它。
+
+• 主导能量条件：还有一个比弱条件更强的能量条件。对于任意未来指向的类时向量 X，我们可以定义电流 Jµ = −Tµν Xⁿ (4.62)
+
+这是沿 X 线的观察者所看到的能量密度电流。主导能量条件要求，除了满足弱能量条件 (4.60) 外，电流必须是类时或类空的，即 J·J ≤ 0 这是一个合理的陈述：能量流动不会快于光速。可以验证，对于标量场，额外条件 (4.62) 是满足的。对于完美流体，我们有 Jµ = −(ρ+P)(u·X)uµ − P Xµ 容易验证要求 J·J ≤ 0 等价于 ρ² ≥ P²。
+
+在量子世界中，各种能量条件的有效性变得更加模糊。我们可以考虑量子物质与经典但动态的时空耦合，通过方程 Gµν + Λ gµν = 8πG ⟨Tµν⟩ 其中 ⟨Tµν⟩ 是能量-动量张量的期望值。上面列出的每一条能量条件都会被相当标准的量子场所违反。
+
+然而，在一般情况下，存在一个稍弱一些的陈述成立。这就是平均零能量条件。可以证明，沿着一条无限的、非时序的零测地线，任何合理的量子场论都满足 ∫⟨−∞⟩⁺∞ dλ ⟨Tµν⟩ Xµ Xν ≥ 0 其中 λ 是沿零测地线的仿射参数，向量 Xµ 指向测地线方向并被归一化为 Xµ ∂λ = 1。这里的“非时序”一词意味着测地线上没有两个点能被一条类时曲线连接。（作为一个反例，考虑在 M = ℝ×S¹ 上的一条无限零射线，它持续绕着空间圆环运动。这条测地线不是非时序的，平均零能量条件通常不沿着这条测地线成立。）
+
+## 4.6 宇宙学初探
+
+自然界中需要我们求解由物质源项产生的爱因斯坦方程 Gµν + Λ gµν = 8πG Tµν 的情况出奇地少。然而，有一种情况，右侧的 Tµν 扮演着至关重要的角色：这就是宇宙学，研究整个宇宙的学科。
+
+4.6.1 FRW度规宇宙学的关键假设是宇宙在空间上是均匀且各向同性的。这将我们对空间几何的选择限制为三种： • 欧几里得空间 R³：此空间曲率为零，具有熟悉的度规 ds² = dr² + r²(dθ² + sin²θ dϕ²)
+
+• 球面 S³：此空间具有均匀的正曲率，度规为 ds² = dr²/(1−r²) + r²(dθ² + sin²θ dϕ²)
+
+在此坐标选择下，我们隐式地设定了球面的半径为1。
+
+• 双曲面 H³：此空间具有均匀的负曲率，度规为 ds² = dr²/(1+r²) + r²(dθ² + sin²θ dϕ²)
+
+这三种对称空间的存在，完全类似于我们在4.2节讨论的三种不同解。德西特和反德西特时空都具有常数时空曲率，由宇宙学常数提供。上面的度规具有常数空间曲率。然而请注意，S³上的度规与坐标系 (4.12) 下的德西特度规的空间部分一致，而H³上的度规则与坐标系 (4.22) 下的反德西特度规的空间部分一致。
+
+我们将这些空间度规写成统一形式： ds² = γij dxⁱ dxʲ = dr²/(1−kr²) + r²(dθ² + sin²θ dϕ²)
+
+其中 k = +1 对应 S³，k = 0 对应 R³，k = −1 对应 H³。
+
+在宇宙学中，我们希望描述一个随着宇宙演化，空间不断膨胀的时空。我们使用如下形式的度规： ds² = −dt² + a²(t) γij dxⁱ dxʲ (4.63)
+
+这就是弗里德曼-罗伯逊-沃克，或称FRW度规。（它也被称为FLRW度规，其中勒梅特的名字是一个当之无愧的补充。）
+
+to the list. The dimensionless scale factor a(t) should be viewed as the "size" of the spatial dimensions (a name which makes more sense for the compact S3 than the non-compact R3, but is mathematically sensible for both.) Note that de Sitter space in global coordinates (4.21) is an example of an FRW metric with k = +1.
+
+Curvature Tensors We wish to solve the Einstein equations for metrics that take the FRW form. Our first task is to compute the Ricci tensor. We start with the Christoffel symbols: it is straightforward to find Γ^0_{00} = Γ^0_{i0} = 0 and Γ^0_{ij} = a a˙ γ_{ij}, Γ^i_{0j} = (a˙ / a) δ^i_j, Γ^i_{jk} = (1/2) γ_{il} (∂_j γ + ∂_k γ - ∂_l γ)
+
+To compute the Ricci tensor, we use the expression R_{μν} = ∂_ρ Γ^ρ_{νμ} - ∂_ν Γ^ρ_{ρμ} + Γ^λ_{ρλ} Γ^ρ_{νμ} - Γ^λ_{νλ} Γ^ρ_{ρμ} (4.64)
+
+which we get from contracting indices on the similar expression (3.39) for the Riemann tensor.
+
+It’s not hard to see that R_{0i} = 0. The quick argument is that there’s no covariant 3-vector that could possibly sit on the right-hand side. The other components need a little more work.
+
+Claim: R_{00} = -3 (a¨ / a)
+
+Proof: Using the non-vanishing Christoffel symbols listed above, we have R_{00} = -∂_0 Γ^i_{i0} - Γ^j_{i0} Γ^i_{j0} = -3 (d/dt)(a˙ / a) - 3 (a˙ / a)^2 which gives the claimed result. □
+
+Claim: R_{ij} = [a a¨ + 2 a˙^2 + 2k] (a^{-2} g_{ij})
+
+Proof: This is straightforward to show for k = 0 FRW metrics where the spatial metric is flat. It’s a little more annoying for the k = ±1 metrics. A trick that simplifies life is to compute the components of R_{ij} at the spatial origin x = 0 where the spatial metric is γ_{ij} = δ_{ij}, and then use covariance to argue that the right result must have R_{ij} ∼ γ_{ij}.
+
+In doing this, we just have to remember not to set x = 0 too soon, since we will first need to differentiate the Christoffel symbols and then evaluate them at x = 0.
+
+We start by writing the spatial metric in Cartesian coordinates, on the grounds that it’s easier to differentiate in this form γ_{ij} = δ_{ij} + (k x_i x_j) / (1 - k x·x)
+
+The Christoffel symbols depend on ∂γ_{ij} and the Ricci tensor on ∂^2γ_{ij}. This means that if we want to evaluate the Ricci tensor at the origin x = 0, we only need to work with the metric to quadratic order in x. This simplifies things tremendously since γ_{ij} = δ_{ij} + k x_i x_j + O(x^4)
+
+Similarly, we have γ^{ij} = δ^{ij} - k x^i x^j + O(x^4)
+
+where i,j indices are raised and lowered using δ_{ij}. Plugging these forms into the expression for the Christoffel symbols gives Γ^i_{jk} = k x_i δ^{ij} + O(x^3)
+
+With this in hand, we can compute the Ricci tensor R_{ij} = ∂_ρ Γ^ρ_{ij} - ∂_j Γ^ρ_{ρi} + Γ^λ_{ρλ} Γ^ρ_{ij} - Γ^λ_{jλ} Γ^ρ_{ρi} = (∂_0 Γ^0_{ij} + ∂_k Γ^k_{ij}) - ∂_j Γ^k_{ki} + (Γ^0_{00} Γ^0_{ij} + Γ^k_{l0} Γ^l_{ij}) - (Γ^0_{j0} Γ^k_{ki} + Γ^k_{jk} Γ^0_{0i} + Γ^k_{lk} Γ^l_{ji})
+
+We can drop the Γ^k_{lk} Γ^l_{ji} term since it vanishes at x = 0. Furthermore, we can now safely replace any undifferentiated γ_{ij} in the Christoffel symbols with δ_{ij}. What’s left gives R_{ij} = [∂_0 (a a˙) + 3k] δ_{ij} - k δ_{ij} + 3a˙^2 δ_{ij} - a˙^2 δ_{ij} - a˙^2 δ_{ij} + O(x^2)
+
+= [a a¨ + 2 a˙^2 + 2k] δ_{ij} + O(x^2)
+
+We now invoke the covariance argument to write R_{ij} = [a a¨ + 2 a˙^2 + 2k] γ_{ij} = [a a¨ + 2 a˙^2 + 2k] a^{-2} g_{ij} as promised. □
+
+With these results, we can now compute the Ricci scalar: it is R = 6 [a¨ / a + (a˙ / a)^2 + k / a^2]
+
+Finally, the Einstein tensor has components G_{00} = 3 [(a˙ / a)^2 + k / a^2] and G_{ij} = - [2 a¨ / a + (a˙ / a)^2 + k / a^2] g_{ij} Our next task is to understand the matter content in the universe.
+
+4.6.2 The Friedmann Equations We take the universe to be filled with perfect fluids of the kind that we introduced in Section 4.5.4. The energy momentum tensor is T^{μν} = (ρ + P) u^μ u^ν + P g^{μν} But we assume that the fluid is at rest in the preferred frame of the universe, meaning that u^μ = (1,0,0,0) in the FRW coordinates (4.63). As we saw in Section 4.5.4, the constraint ∇_μ T^{μν} = 0 gives the condition (4.54)
+
+u^μ ∇_μ ρ + (ρ + P) ∇_μ u^μ = 0 ⇒ ρ˙ + 3 (a˙ / a) (ρ + P) = 0 where we’ve used ∇_μ u^μ = ∂_μ u^μ + Γ^μ_{μρ} u^ρ = Γ^i_{i0} u^0, and the expression (4.64) for the Christoffel symbols. This is known as the continuity equation: it expresses the conservation of energy in an expanding universe. You can check that the second constraint (4.55) is trivial when applied to homogeneous and isotropic fluids. (It plays a role when we consider the propagation of sound waves in the universe.)
+
+To make progress, we also need the equation of state. The fluids of interest have rather simple equations of state, taking the form P = wρ with constant w. Of particular interest are the cases w = 0, corresponding to pressure-less dust, and w = 1/3 corresponding to radiation.
+
+For a given equation of state, the continuity equation becomes ρ˙ / ρ = -3(1+w) a˙ / a So we learn that the energy density ρ dilutes as the universe expands, with ρ ∝ a^{-3(1+w)} (4.65)
+
+with ρ an integration constant. For pressureless dust, we have ρ ∼ 1/a^3 which is the expected scaling of energy density with volume. For radiation we have ρ ∼ 1/a^4, ich is due to the scaling with volume together with an extra factor from redshift. Now we can look at the Einstein equations. The temporal component is $$G_{00} + \Lambda g_{00} = 8\pi G T_{00} \implies \left(\frac{\dot{a}}{a}\right)^2 = \frac{8\pi G}{3}\rho + \frac{\Lambda}{3} - \frac{k}{a^2} \qquad (4.66)$$ This is the Friedmann equation. In conjunction with (4.65), it tells us how the universe expands.
+
+We also have the spatial components of the Einstein equation, $$G_{ij} + \Lambda g_{ij} = 8\pi G T_{ij} \implies \frac{\ddot{a}}{a} + \left(\frac{\dot{a}}{a}\right)^2 + \frac{k}{a^2} - \Lambda = -8\pi G P$$ $$\implies \frac{\ddot{a}}{a} - \frac{\Lambda}{3} = -\frac{4\pi G}{3} (\rho + 3P) \qquad (4.67)$$ This is the acceleration equation, also known as the Raychaudhuri equation. It is not independent of the Friedmann equation; if you differentiate (4.66) with respect to time, you can derive Raychaudhuri.
+
+There is plenty of physics hiding in these equations. Some particularly simple solutions can be found by setting $k = \Lambda = 0$ and looking at a universe dominated by a single fluid with energy density scaling as (4.65). The Friedmann equation becomes $$\left(\frac{\dot{a}}{a}\right)^2 \sim a^{-3(1+w)} \implies a(t) \sim t^{2/(3+3w)}$$ Picking $w = 1/3$ we have $a(t) \sim t^{1/2}$ which describes the expansion of our universe when it was dominated by radiation (roughly the first 50,000 years). Picking $w = 0$ we have $a(t) \sim t^{2/3}$ which describes the expansion of our universe when it was dominated by matter (roughly the following 10 billion years). You can find many more solutions of the Friedmann equations and a discussion of the relevant physics in the lectures on Cosmology.
+
+## 5. When Gravity is Weak
+
+The elegance of the Einstein field equations ensures that they hold a special place in the hearts of many physicists. However, any fondness you may feel for these equations will be severely tested if you ever try to solve them. The Einstein equations comprise ten, coupled partial differential equations. While a number of important solutions which exhibit large amounts symmetry are known, the general solution remains a formidable challenge.
+
+We can make progress by considering situations in which the metric is almost flat. We work with $\Lambda = 0$ and consider metrics which, in so-called almost-inertial coordinates $x^\mu$, takes the form $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu} \qquad (5.1)$$ Here $\eta_{\mu\nu} = \text{diag}(-1,+1,+1,+1)$ is the Minkowski metric. The components $h_{\mu\nu}$ are assumed to be small perturbation of this metric: $h_{\mu\nu} \ll 1$.
+
+Our strategy is to expand the Einstein equations to linear order in the small perturbation $h_{\mu\nu}$. At this order, we can think of gravity as a symmetric "spin 2" field $h_{\mu\nu}$ propagating in flat Minkowski space $\eta_{\mu\nu}$. To this end, all indices will now be raised and lowered with $\eta^{\mu\nu}$ rather than $g^{\mu\nu}$. For example, we have $$h^{\mu\nu} = \eta^{\mu\rho} \eta^{\nu\sigma} h_{\rho\sigma}$$ Our theory will exhibit a Lorentz invariance, under which $x^\mu \to \Lambda^\mu_\nu x^\nu$ and the gravitational field transforms as $$h_{\mu\nu}(x) \to \Lambda_\mu^{\ \rho} \Lambda_\nu^{\ \sigma} h_{\rho\sigma}(\Lambda^{-1}x)$$ In this way, we construct a theory around flat space that starts to look very much like the other field theories that we meet in physics.
+
+## 5.1 Linearised Theory
+
+To proceed, we need to construct the various curvature tensors from the metric (5.1). For each, we work at linear order in $h$. To leading order, the inverse metric is $$g^{\mu\nu} = \eta^{\mu\nu} - h^{\mu\nu}$$ The Christoffel symbols are then $$\Gamma^\sigma_{\nu\rho} = \frac{1}{2} \eta^{\sigma\lambda} (\partial_\nu h_{\lambda\rho} + \partial_\rho h_{\nu\lambda} - \partial_\lambda h_{\nu\rho}) \qquad (5.2)$$ The Riemann tensor is $$R^\sigma_{\ \rho\mu\nu} = \partial_\mu \Gamma^\sigma_{\nu\rho} - \partial_\nu \Gamma^\sigma_{\mu\rho} + \Gamma^\lambda_{\nu\rho} \Gamma^\sigma_{\mu\lambda} - \Gamma^\lambda_{\mu\rho} \Gamma^\sigma_{\nu\lambda}$$ The $\Gamma\Gamma$ terms are second order in $h$, so to linear order we have $$R^\sigma_{\ \rho\mu\nu} = \partial_\mu \Gamma^\sigma_{\nu\rho} - \partial_\nu \Gamma^\sigma_{\mu\rho}$$ $$= \eta^{\sigma\lambda} (\partial_\mu \partial_\nu h_{\lambda\rho} - \partial_\mu \partial_\lambda h_{\nu\rho} - \partial_\nu \partial_\rho h_{\mu\lambda} + \partial_\nu \partial_\lambda h_{\mu\rho}) \qquad (5.3)$$ The Ricci tensor is then $$R_{\mu\nu} = \partial_\rho \partial_\nu h^\rho_{\ \mu} + \partial_\rho \partial_\mu h^\rho_{\ \nu} - \Box h_{\mu\nu} - \partial_\mu \partial_\nu h$$ with $h = h^\mu_{\ \mu}$ the trace of $h$ and $\Box = \partial_\mu \partial^\mu$. The Ricci scalar is $$R = \partial_\mu \partial_\nu h^{\mu\nu} - \Box h \qquad (5.4)$$ By the time we get to the Einstein tensor, we've amassed quite a collection of terms $$G_{\mu\nu} = \frac{1}{2} \left[ \partial_\rho \partial_\nu h^\rho_{\ \mu} + \partial_\rho \partial_\mu h^\rho_{\ \nu} - \Box h_{\mu\nu} - \partial_\mu \partial_\nu h - (\partial_\rho \partial_\sigma h^{\rho\sigma} - \Box h) \eta_{\mu\nu} \right] \qquad (5.5)$$ The Bianchi identity for the full Einstein tensor is $\nabla^\mu G_{\mu\nu} = 0$. For the linearised Einstein tensor, this reduces to $$\partial^\mu G_{\mu\nu} = 0 \qquad (5.6)$$ It's simple to check explicitly that this is indeed obeyed by (5.5).
+
+The Einstein equations then become the linear, but somewhat complicated, set of partial differential equations $$\partial_\rho \partial_\nu h^\rho_{\ \mu} + \partial_\rho \partial_\mu h^\rho_{\ \nu} - \Box h_{\mu\nu} - \partial_\mu \partial_\nu h - (\partial_\rho \partial_\sigma h^{\rho\sigma} - \Box h) \eta_{\mu\nu} = 16\pi G T_{\mu\nu} \qquad (5.7)$$ where, for consistency, the source $T_{\mu\nu}$ must also be suitably small. The left-hand side of this equation should be viewed as a second order, linear differential operator acting on $h_{\mu\nu}$. This is known as the Lichnerowicz operator.
+
+The Fierz-Pauli Action The linearised equations of motion can be derived from an action principle, first written down by Fierz and Pauli, $$S_{FP} = \frac{1}{8\pi G} \int d^4x \left[ -\frac{1}{4} \partial_\rho h_{\mu\nu} \partial^\rho h^{\mu\nu} + \frac{1}{2} \partial_\rho h_{\mu\nu} \partial^\nu h^{\rho\mu} + \frac{1}{4} \partial_\mu h \partial_\nu h^{\mu\nu} - \frac{1}{2} \partial_\mu h^{\mu\nu} \partial_\nu h \right] \qquad (5.8)$$ This is the expansion of the Einstein-Hilbert action to quadratic order in $h$ (after some integration by parts). (At linear order, the expansion of the Lagrangian is equal to the linearised Ricci scalar (5.4) which is a total derivative.)
+
+Varying the Fierz-Pauli action, and performing some integration by parts, we have δS = d4x ∂ ∂ρh −∂ρ∂ h − ∂ρ∂ hη + ∂ ∂ h+ ∂ ∂ hρση δhµν FP ρ µν ν ρµ ρ µν ν µ ρ σ µν 8πG 2 2 2 2
+
+1 (cid:104) (cid:105)
+
+= d4x −G δhµν (5.9)
+
+µν 8πG
+
+We see that the Fierz-Pauli action does indeed give the vacuum Einstein equations G = 0. We can then couple matter by adding T hµν to the action.
+
+µν µν
+
+5.1.1 Gauge Symmetry Linearised gravity has a rather pretty gauge symmetry. This is inherited from the diffeomorphisms of the full theory. To see this, we repeat our consideration of infinitesimal diffeomorphisms from Section 4.1.3. Under an infinitesimal change of coordinates xµ → xµ −ξµ(x)
+
+with ξ assumed to be small. The metric changes by (4.6)
+
+δg = (L g) = ∇ ξ +∇ ξ µν ξ µν µ ν ν µ When the metric takes the form (5.1), this can be viewed as a transformation of the linearised field h . Because both ξ and h are small, the covariant derivative should be taken using the vanishing connection of Minkowski space. We then have h → h +(L η) = h +∂ ξ +∂ ξ (5.10)
+
+µν µν ξ µν µν µ ν ν µ This looks very similar to the gauge transformation of Maxwell theory, where the gauge potential shifts as A → A + ∂ α. Just as the electromagnetic field strength F = 2∂ A is gauge invariant, so is the linearised Riemann tensor Rσ .
+
+µ µ µ µν [µ ν] ρµν We can quickly check that the Fierz-Pauli action is invariant under the gauge symmetry (5.10). From (5.9), we have
+
+δS = − d4x 2G ∂µξν = + d4x 2(∂µG )ξν = 0 FP µν µν 8πG 8πG
+
+where, in the second equality, we’ve integrated by parts (and discarded the boundary term) and in the third equality we’ve invoked the linearised Bianchi identity (5.6). In fact, this is just the same argument that we used to derive the Bianchi identity in Section 4.1.3, now played backwards.
+
+When doing calculations in electromagnetism, it’s often useful to pick a gauge. One of the most commonly used is Lorentz gauge, ∂µA = 0 Once we impose this condition, the Maxwell equations ∂µF = j reduce to the wave equations □A = j µν ν ν ν We solved these equations in detail in the lectures on Electromagnetism.
+
+We can impose a similar gauge fixing condition in linearised gravity. In this case, the analog of Lorentz gauge is called de Donder gauge ∂µh − ∂ h = 0 (5.11)
+
+µν ν To see that this is always possible, suppose that you are handed a metric that doesn’t obey the de Donder condition but instead satisfies ∂µh − 1∂ h = f for some functions µν 2 ν ν f . Then do a gauge transformation (5.10). Your new gauge potential will satisfy ∂µh − 1∂ h + □ξ = f . So if you pick a gauge transformation ξ that obeys □ξ = f µν 2 ν ν ν µ µ µ then your new metric will be in de Donder gauge.
+
+There is a version of de Donder gauge condition (5.11) that we can write down in the full non-linear theory. We won’t need it in this course, but it’s useful to know it exists. It is gµνΓρ = 0 (5.12)
+
+µν This isn’t a tensor equation because the connection Γρ is not a tensor. Indeed, if a µν tensor vanishes in one choice of coordinates then it vanishes for all choices while the whole point of a gauge fixing condition is to pick out a preferred choice of coordinates. If we substitute in the linearised Christoffel symbols (5.2), this reduces to the de Donder gauge condition.
+
+The non-linear gauge condition (5.12) has a number of nice features. For example, in general the wave operator (or, on a Riemannian manifold, the Laplacian △) is □ = ∇µ∇ = gµν(∂ ∂ − Γρ ∂ ). If we fix the gauge (5.12), the annoying connection µ ν µ νµ ρ term vanishes and we simply have □ = gµν∂ ∂ . A similar simplification happens if µ ν we compute the covariant divergence of a one-form in this gauge: ∇µω = gµν∇ ω = µ µ ν gµν(∂ ω − Γρ ω ) = ∂µω .
+
+µ ν µν ρ µ
+
+Back in our linearised world, de Donder gauge greatly simplifies the Einstein equation (5.7), which now become □h − □hη = −16πGT (5.13)
+
+µν µν µν It is useful to define h = h − hη µν µν µν Taking the trace of both sides gives h ¯ = ηµνh ¯ = −h so, given h ¯ we can trivially µν µν reconstruct h as µν h = h − hη (5.14)
+
+µν µν µν Written in terms of h , the linearised Einstein equations in de Donder gauge (5.13) µν then reduce once again to a bunch of wave equations □h ¯ = −16πGT (5.15)
+
+µν µν and we can simply import the solutions from electromagnetism to learn something about gravity. We’ll look at some examples shortly.
+
+5.1.2 The Newtonian Limit Under certain circumstances, the linearised equations of general relativity reduce to the familiar Newtonian theory of gravity. These circumstances occur when we have a low-density, slowly moving distribution of matter.
+
+For simplicity, we’ll look at a stationary matter configuration. This means that we take T = ρ(x)
+
+with the other components vanishing. Since nothing depends on time, we can replace the wave operator by the Laplacian in R3: □ = −∂2 + ∇2 = ∇2. The Einstein equations are then simply ∇2h ¯ = −16πGρ(x) and ∇2h ¯ = ∇2h ¯ = 0 00 0i ij With suitable boundary conditions, the solutions to these equations are h = −4Φ(x) and h = h = 0 (5.16)
+
+00 0i ij ield Φ is identified with the Newtonian gravitational potential, obeying (0.1)
+
+∇2Φ = 4πGρ Translating this back to h using (5.14), we use h = +4Φ to find µν h = −2Φ , h = −2Φδ , h = 0 00 ij ij 0i Putting this back into the full metric g = η +h , we have µν µν µν ds2 = −(1+2Φ)dt2 +(1−2Φ)dx·dx If we take a Φ = −GM/r as expected for a point mass, we find that this coincides with the leading expansion of the Schwarzschild metric (4.8). (The g term turns out to be exact; the g term is the leading order Taylor expansion of (1+2Φ)−1.)
+
+ij Way back in Section 1.2, we gave a naive, intuitive discussion of curved spacetime.
+
+There we already anticipated that the Newtonian potential Φ would appear in the g component of the metric (1.26). However, in solving the Einstein equations, we learn that this is necessarily accompanied by an appearance of Φ in the g component.
+
+ij Ultimately, this is the reason for the factor of 2 discrepancy between the Newtonian and relativistic predictions for light bending that we met in Section 1.3
+
+## 5.2 Gravitational Waves
+
+A long time ago, in a galaxy far far away, two black holes collided. Here a “long time ago” means 1.3 billion years ago. And “far far away” means a distance of about 1.3 billion light years.
+
+To say that this was a violent event is something of an understatement. One of the black holes was roughly 35 times heavier than the Sun, the other about 30 times heavier. When they collided they merged to form a black hole whose mass was about 62 times heavier than the Sun. Now 30 + 35 ̸= 62. This means that some mass, or equivalently energy, went missing during the collision. In a tiny fraction of a second, this pair of black holes emitted an energy equivalent to three times the mass of the Sun.
+
+That, it turns out, is quite a lot of energy. For example, nuclear bombs convert the mass of a handful of atoms into energy. But here we’re talking about solar masses, not atomic masses. In fact, for that tiny fraction of a second, these colliding black holes released more energy than all the stars in all the galaxies in the visible universe put together.
+
+– 209 – But the most astonishing part of the story is how we know this collision happened.
+
+It’s because, on September 14th, 2015, at 9.30 in the morning UK time, we felt it.
+
+The collision of the black holes was so violent that it caused an enormous perturbation of spacetime. Like dropping a stone in a pond, these ripples propagated outwards as gravitational waves. The ripples started 1.3 billion years ago, roughly at the time that multi-cellularlifewasforminghereonEarth. Theythentravelledthroughthecosmosat the speed of light. The ripples hit the outer edge of our galaxy about 50,000 years ago, at a time when humans were hanging out with neanderthals. The intervening 50,000 years gave us just enough time to join together into hunter-gatherer tribes, develop cohesive societies bound by false religions, invent sophisticated language and writing, discover mathematics, understand the theory that governs the spacetime continuum and, finally, build a machine that is capable of detecting the ripples, turning it on just in time for the gravitational wave to hit the south pole and pass, up through the Earth, triggering the detector.
+
+The purpose of this section is to tell the story above in equations.
+
+5.2.1 Solving the Wave Equation Gravitational waves propagate in vacuum, in the absence of any sources. This means that we need to solve the linearised equation □h ¯ = 0 (5.17)
+
+µν One solution is provided by the gravitational wave = Re (cid:0)
+
+eikρxρ(cid:1)
+
+(5.18)
+
+µν µν Here H is a complex, symmetric polarisation matrix and the wavevector kµ is a real µν 4-vector. Usually when writing these solutions we are lazy and drop the Re on the right-hand side, leaving it implicit that one takes the real part. This plane wave ansatz solves the linearised Einstein equation (5.17) provided that the wavevector is null, k kµ = 0 This tells us that gravitational waves, like light waves, travel at the speed of light. If we write the wavevector as kµ = (ω,k), with ω the frequency, then this condition becomes ω = ±|k|.
+
+Because the wave equation is linear, we may superpose as many different waves of the form (5.18) as we wish. In this way, we build up the most general solution to the wave equation.
+
+– 210 – Naively, the polarisation matrix H has 10 components. But we still have to worry µν aboutgaugeissues. Theansatz(5.18)satisfiesthedeDondergaugecondition∂µh ¯ = 0 µν only if kµH = 0 (5.19)
+
+µν This tells us that the polarisation is transverse to the direction of propagation. Fur- thermore, the choice of de Donder gauge does not exhaust our ability to make gauge transformations. If we make a further gauge transformation h → h +∂ ξ +∂ ξ , µν µν µ ν ν µ then h ¯ → h ¯ +∂ ξ +∂ ξ −∂ρξ η µν µν µ ν ν µ ρ µν This transformation leaves the solution in de Donder gauge ∂µh ¯ = 0 provided that µν □ξ = 0 In particular, we can take ξ = λ eikρxρ µ µ which obeys □ξ = 0 because k kρ = 0.
+
+A gauge transformation of this type shifts the polarisation matrix to H -> H +i(k_λ +k_λ -k_ρλ η ) (5.20)
+
+µν µν µ ν ν µ ρ µν Polarisation matrices that differ in this way describe the same gravitational wave. We now choose the gauge transformation λ in order to further set H = 0 and H_µ = 0 (5.21)
+
+0µ µ These conditions, in conjunction with (5.19), are known as transverse traceless gauge. Because H is traceless, this choice of gauge has the advantage that h = h .
+
+µν µν At this stage we can do some counting. The polarisation matrix H has 10 components. The de Donder condition (5.19) gives 4 constraints, and there are 4 residual gauge transformations (5.20). The upshot is that there are just 10−4−4 = 2 independent polarisations in H .
+
+µν (There is a similar counting in Maxwell theory. The polarisation of A seemingly has 4 components. The Lorentz gauge ∂µA = 0 kills one of them, and a residual gauge transformation kills another, leaving the 2 familiar polarisation states of light.)
+
+An Example Consider a wave propagating in the z direction. The wavevector is k_µ = (ω,0,0,ω)
+
+The condition (5.19) sets H +H = 0. The additional constraint (5.21) restricts the polarisation matrix to be 0ν 3ν H = (5.22)
+
+µν Both H and H can be complex; we take the real part when computing the metric in (5.18). Here we see explicitly the two polarisation states H and H . We’ll see below how to interpret these two polarisations.
+
++ X + X
+
+5.2.2 Bobbing on the Waves What do you feel if a gravitational wave passes you by? Well, if you’re happy to be modelled as a pointlike particle, moving along a geodesic, then the answer is simple: you feel nothing at all. This follows from the equivalence principle. Instead, it’s all about your standing relative to your neighbours.
+
+This relative physics is captured by the geodesic deviation equation that we met in Section 3.3.4. Consider a family of geodesics x_µ(τ,s), with s labelling the different geodesics, and τ the affine parameter along any geodesic. The vector field tangent to these geodesics is the velocity 4-vector u_µ = (∂x_µ/∂τ)
+
+Meanwhile, the displacement vector S_µ takes us between neighbouring geodesics, S_µ = (∂x_µ/∂s)
+
+We previously derived the geodesic deviation equation (3.36).
+
+D^2 S_µ / Dτ^2 = R_µρσν u^ρ u^σ S^ν We’ll consider the situation where, in the absence of the gravitational wave, our family of geodesics are sitting happily in a rest frame, with u_µ = (1,0,0,0). As the gravitational wave passes, the geodesics will change as u_µ = (1,0,0,0)+O(h)
+
+Fortunately, we won’t need to compute the details of this. We will compute the deviation to leading order in the metric perturbation h, but the Riemann tensor is already O(h), which means that we can neglect the corrections in the other terms. Similarly, we can replace the proper time τ for the coordinate time t. We then have d^2 S_µ / dt^2 = R_µ00ν S^ν The Riemann tensor in the linearised regime was previously computed in (5.3)
+
+R_µρσν = η_µλ(∂_σ ∂_νλ h -∂_σ ∂_λ h -∂_ν ∂_ρλ h +∂_λ ∂_ρσ h )
+
+Using h_µ0 = 0, the component we need is simply R_µ00ν = ∂^2 h_µν / 2 Our geodesic deviation equation is then d^2 S_µ / dt^2 = 1/2 * d^2 h_µν / dt^2 * S^ν (5.23)
+
+We see that the gravitational wave propagating in, say, the z direction with polarisation vector (5.22) affects neither S_0 nor S_3. The only effect on the geodesics is in the (x,y)-plane, transverse to the direction of propagation. For simplicity, we will solve this equation in the z = 0 plane.
+
+H+ Polarisation: If we set H_X = 0 in (5.22), then the geodesic deviation equation (5.23) becomes d^2 S_1 / dt^2 = - ω^2/2 * H_+ * e^(iωt) * S_1 and d^2 S_2 / dt^2 = + ω^2/2 * H_+ * e^(iωt) * S_2 We can solve these perturbatively in H_+. Keeping terms of order O(h) only, we have S_1(t) = S_1(0) (1+ 1/2 H_+ e^(iωt) +...) and S_2(t) = S_2(0) (1- 1/2 H_+ e^(iωt) +...) (5.24)
+
+where, as we mentioned previously, we should take the real part of the right-hand-side. (Recall that H_+ can also be complex.)
+
+From these solutions, we can determine the way in which geodesics are affected by a passing wave. Think of the displacement vector S_µ as the distance from the origin to a neighbouring geodesic. We will consider a family of neighbouring geodesics corresponding to a collection of particles which, at time t = 0, are arranged around a circle of radius R. This means that we have initial conditions S_a(t = 0) satisfying S_1(0)^2 + S_2(0)^2 = R^2.
+
+The solutions (5.24) tell us how these geodesics evolve. The relative minus sign between the two equations means that when geodesics move outwards in, say, the x_1 = x direction, they move inwards in the x_2 = y direction, and vice-versa. The net result is that, as time goes on, these particles will evolve from a circle to an ellipse and back again, displaced like this: HX Polarisation: If we set H_+ = 0 in (5.22), then the geodesic deviation equation (5.23) becomes d^2 S_1 / dt^2 = - ω^2/2 * H_X * e^(iωt) * S_2 and d^2 S_2 / dt^2 = - ω^2/2 * H_X * e^(iωt) * S_1 Again, we solve these perturbatively in \(H\). We have \(S_1(t) = S_1(0) + \frac{1}{2} S_2(0) H e^{i\omega t} + ...\) and \(S_2(t) = S_2(0) + \frac{1}{2} S_1(0) H e^{i\omega t} + ...\)
+
+The displacement is the same as previously, but rotated by 45°. (To see this, note that the displacements \(S_1(t) \pm S_2(t)\) have the same functional form as (5.24).) This means that this time the displacement of geodesics looks like this:
+
+Figure 42: The discovery of gravitational waves by the LIGO detectors.
+
+We can also take linear combinations of the polarisation states. Adding the two polarisations above gives an elliptic displacement whose axis rotates. This is analogous to the circular polarisation of light.
+
+The displacements due to gravitational waves are invariant under rotations by \(π\). This contrasts with polarisation of light which is described by a vector, and so is only invariant under \(2π\) rotations. This reflects the fact that graviton has spin 2, while the photon has spin 1.
+
+Gravitational Wave Detectors Gravitational wave detectors are interferometers. They bounce light back and forth between two arms, with the mirrors at either end playing the role of test masses. If the gravitational wave travels perpendicular to the plane of the detector, it will shorten one arm and lengthen the other. With the arms aligned along the x and y axes, the maximum change in length can be read from (5.24), \[ L' = L \left(1 \pm \frac{H}{2}\right) \quad \Rightarrow \quad \frac{\delta L}{L} = \frac{H}{2} \]
+
+To get a ballpark figure for this, we need to understand how large we expect \(H\) to be from any plausible astrophysical source. We’ll do this in Section 5.3.2. It turns out it’s not really very large at all: typical sources have \(H \sim 10^{-21}\). The lengths of each arm in the LIGO detectors is around \(L \sim 3 \ \text{km}\), meaning that we have to detect a change in length of \(\delta L \sim 10^{-18} \ \text{m}\). This seems like a crazy small number: it’s smaller than the radius of a proton, and around \(10^{12}\) times smaller than the wavelength of the light used in the interferometer. Nonetheless, the sensitivity of the detectors is up to the task and the LIGO observatories detected gravitational waves for the first time in 2015. For this, three members of the collaboration were awarded the 2017 Nobel prize. Subsequently, the LIGO and VIRGO detectors have observed a large number of mergers involving black holes and neutron stars.
+
+5.2.3 Exact Solutions We have found a wave-like solution to the linearised Einstein equations. The metric for a wave moving in, say, the positive z direction takes the form \[ ds^2 = -dt^2 + (\delta_{ab} + h_{ab}(z - t))dx^a dx^b + dz^2 \quad (5.25)
+
+\]
+
+where the \(a,b = 1,2\) indices run over the spatial directions transverse to the direction of the wave. Because the wave equation is linear, any function \(h_{ab}(z-t)\) is a solution to the linearised Einstein equations; the form that we gave in (5.18) is simply the Fourier decomposition of the general solution.
+
+Because gravitational waves are so weak, the linearised metric is entirely adequate for any properties of gravitational waves that we wish to calculate. Nonetheless, it’s natural to ask if this solution has an extension to the full non-linear Einstein equations. Rather surprisingly, it turns out that it does.
+
+For a wave propagating in the positive z direction, we first introduce lightcone coordinates \[ u = t - z \ , \quad v = t + z \]
+
+Then we consider the plane wave ansatz, sometimes called the Brinkmann metric \[ ds^2 = -du dv + dx^a dx_a + H_{ab}(u) x^a x^b du^2 \]
+
+Note that our linearised gravitational wave (5.25) is not of this form; there is some (slightly fiddly) change of coordinates that takes us between the two metrics. One can show that the Brinkmann metric is Ricci flat, and hence solves the vacuum Einstein equations, for any traceless metric \(H_{ab}\)
+
+\[ R_{\mu\nu} = 0 \ \Leftrightarrow \ H^a_a(u) = 0 \]
+
+The general metric again has two independent polarisation states, \[ H_{ab}(u) = \begin{pmatrix} H_{11}(u) & H_{12}(u) \\ H_{12}(u) & -H_{11}(u) \end{pmatrix} \]
+
+It is unusual to find solutions of non-linear PDEs which depend on arbitrary functions, like \(H_{11}(u)\) and \(H_{12}(u)\). The Brinkmann metrics are a rather special exception.
+
+## 5.3 Making Waves
+
+The gravitational wave solutions described in the previous section are plane waves. They come in from infinity, and go out to infinity. In reality however, gravitational waves start at some point and radiate out.
+
+As we will see, the story is entirely analogous to what we saw in our earlier course on Electromagnetism. There, you generate electromagnetic waves by shaking electric charges. Similarly, we generate gravitational waves by shaking masses. The purpose of this section is to make this precise.
+
+5.3.1 The Green’s Function for the Wave Equation Our starting point is the linearised Einstein equation (5.15), \[ \Box \bar{h}_{\mu\nu} = -16\pi G T_{\mu\nu} \quad (5.26)
+
+\]
+
+which assumes that both the source, in the guise of the energy momentum tensor \(T_{\mu\nu}\), and the perturbed metric \(\bar{h}_{\mu\nu}\) are small. This is simply a bunch of decoupled wave equations. We already solved these in Section 6 of the lectures on Electromagnetism, and our discussion here will parallel the presentation there.
+
+We will consider a situation in which matter fields are localised to some spatial region Σ. In this region, there is a time-dependent source of energy and momentum T_{\mu\nu}(x',t), such as two orbiting black holes. Outside of this region, the energy-momentum tensor vanishes: T_{\mu\nu}(x',t) = 0 for x' ∉ Σ. We want to know what the metric \bar{h}_{\mu\nu} looks like a long way from the region Σ. The solution to (5.26) outside of Σ can be given using the (retarded) Green’s function; it is \bar{h}_{\mu\nu}(x,t) = 4G \int d^3x' \frac{T_{\mu\nu}^{\text{ret}}(x',t_{\text{ret}})}{|x-x'|} \quad (5.27)
+
+here t_{\text{ret}} is the retarded time, given by t_{\text{ret}} = t - |x - x'| It’s not too hard to show that this solution satisfies the de Donder gauge condition \partial^\mu \bar{h}_{\mu\nu} = 0 provided that the energy momentum tensor is conserved, \partial^\mu T_{\mu\nu} = 0. The solution does not, however, automatically satisfy the temporal and traceless conditions (5.21). The solution (5.27) captures the causality of the wave equation: the gravitational field \bar{h}_{\mu\nu}(x,t) is influenced by the matter at position x' at the earlier time t_{\text{ret}}, so that there is time for this influence to propagate from x' to x.
+
+We denote the size of the region Σ as d. We’re interested in what’s happening at a point x which is a distance r = |x| away. If |x − x'| ≫ d for all x' ∈ Σ then we can approximate |x - x'| = r - \frac{x \cdot x'}{r} + \dots \Rightarrow \frac{1}{|x - x'|} = \frac{1}{r} + \frac{x \cdot x'}{r^3} + \dots \quad (5.28)
+
+We also have a factor of |x−x'| that sits inside t_{\text{ret}} = t−|x−x'|. This means that we should also Taylor expand the argument of the energy-momentum tensor T_{\mu\nu}(x',t_{\text{ret}}) = T_{\mu\nu}(x',t - r + x \cdot x' / r + \dots)
+
+Now we’d like to further expand out this argument. But, to do that, we need to know something about what the source is doing. We will assume that the motion of matter is non-relativistic, so that the energy momentum tensor doesn’t change very much over the time τ ∼ d that it takes light to cross the region Σ. For example, if we have a system comprised of two objects (say, neutron stars or black holes) orbiting each other with characteristic frequency ω then T_{\mu\nu} ∼ e^{-iωt} and the requirement that the motion is non-relativistic becomes d ≪ 1/ω. Then we can further Taylor expand the current to write T_{\mu\nu}(x',t_{\text{ret}}) = T_{\mu\nu}(x',t - r) + \dot{T}_{\mu\nu}(x',t - r) \frac{x \cdot x'}{r} + \dots \quad (5.29)
+
+We have two Taylor expansions, (5.28) and (5.29). At leading order in d/r we take the first term from both these expansions to find \bar{h}_{\mu\nu}(x,t) \approx 4G \int d^3x' T_{\mu\nu}(x',t - r)
+
+We first look at the expressions for \bar{h}_{00} and \bar{h}_{0i}. The first of these is \bar{h}_{00}(x,t) \approx \frac{4G E}{r} \quad \text{with} \quad E = \int d^3x' T_{00}(x',t - r) \quad (5.30)
+
+This is simply a recapitulation of the Newtonian limit (5.16), with the long distance gravitational potential given by Φ = −GE/r where E is the total energy inside the region Σ. At the linear order to which we’re working, current conservation \partial^\mu T_{\mu\nu} = 0 ensures that the energy E inside Σ is constant, so the time dependence drops out. Similarly, we have \bar{h}_{0i}(x,t) \approx -\frac{4G P_i}{r} \quad \text{with} \quad P_i = -\int d^3x' T_{0i}(x',t - r) \quad (5.31)
+
+Here P_i is the total momentum of the matter inside Σ which, again, is conserved. We can always go to a rest frame where this matter is stationary in which case P_i = 0 and hence \bar{h}_{0i} = 0. This was the choice we implicitly made in describing the Newtonian limit (5.16).
+
+Neither the expression for \bar{h}_{00} nor \bar{h}_{0j} captures the physics that we are interested in. The results only know about the conserved quantities inside the region Σ, not about how they’re moving. However, things become more interesting when we look at the spatial components of the metric, \bar{h}_{ij}(x,t) \approx 4G \int d^3x' \frac{T_{ij}(x',t - r)}{|x - x'|} with i,j = 1,2,3. Now the integral on the right-hand side is not a conserved quantity. However, it is possible to relate it to certain properties of the energy distribution inside Σ.
+
+Claim: \int d^3x' T_{ij}(x',t) = \ddot{I}_{ij}(t)
+
+where I_{ij} is the quadrupole moment of the energy, I_{ij}(t) = \int d^3x T_{00}(x,t) x_i x_j \quad (5.32)
+
+Proof: We start by writing T_{ij} = \partial_k (T_{ik} x_j) - (\partial_k T_{ik}) x_j = \partial_k (T_{ik} x_j) + \partial_0 T_{0i} x_j where, in the second equality, we’ve used current conservation \partial^\mu T_{\mu\nu} = 0. (Note that current conservation in the full theory is \nabla^\mu T_{\mu\nu} = 0, but in our linearised analysis this reduces to \partial^\mu T_{\mu\nu} = 0.) For the T_{0i} term, we play the same trick again. Symmetrising over (ij), we have T_{0i} x_j = \frac{1}{2} \partial_k (T_{0k} x_i x_j) - \frac{1}{2} (\partial_k T_{0k}) x_i x_j = \frac{1}{2} \partial_k (T_{0k} x_i x_j) + \frac{1}{2} \partial_0 T_{00} x_i x_j When we integrate this over Σ, we drop the terms that are total spatial derivatives. We’re left with \int_\Sigma d^3x' T_{ij}(x',t) = \frac{\partial^2}{\partial t^2} \int_\Sigma d^3x' T_{00}(x',t) x'_i x'_j which is the claimed result. □
+
+We learn that, far from the source, the metric takes the form \bar{h}_{ij}(x,t) \approx \frac{2G}{r} \ddot{I}_{ij}(t - r) \quad (5.33)
+
+This is the physics that we want: if we shake the matter distribution in some way then, once the signal has had time to propagate, this will affect the metric. Because the equations are linear, if the matter shakes at some frequency ω the spacetime will respond by creating waves at parametrically same frequency. (In fact, we’ll see a factor of 2 appear, so the frequency of the metric perturbation is 2ω).
+
+of 2 arises in the example of a binary system (5.36).)
+
+In fact, we can now revisit the other components $\bar{h}_{00}$ and $\bar{h}_{0i}$. The gauge condition $\partial^\mu \bar{h}_{\mu\nu} = 0$ tells us that
+
+$$\partial_0 \bar{h}_{0i} = \partial_j \bar{h}_{ji} \quad \text{and} \quad \partial_0 \bar{h}_{00} = \partial_i \bar{h}_{i0}$$
+
+The first of these equations gives
+
+$$\partial_0 \bar{h}_{0i} \approx \partial_j \ddot{I}_{ij}(t-r) = -\frac{2G}{r}\ddot{I}_{ij} - \frac{2G\hat{x}_j}{r^2}\ddot{I}_{ij} + \dots \tag{5.34}$$
+
+where we’ve used the fact that $\partial_j r = x_j/r = \hat{x}_j$. Which of these two terms in (5.34) is bigger? As we get further from the source, we would expect the second, $1/r$, term to dominate over the first, $1/r^2$ term. But the second term has an extra time derivative, which means an extra factor of the characteristic frequency of the source, $\omega$. This means that the second term dominates provided that $r \gg 1/\omega$ or, in terms of the wavelength $\lambda$ of the emitted gravitational wave, $r \gg \lambda$. This is known as the far-field zone or, sometimes, the radiation zone. In this regime, we have
+
+$$\bar{h}_{0i} \approx -\frac{2G\hat{x}_j}{r}\ddot{I}_{ij}(t-r)$$
+
+where we’ve integrated (5.34). In general, the integration constant is given by the $P$ term that we previously saw in (5.31). In the answer above, we’ve set this integration constant to zero by choosing coordinates in which $P = 0$, meaning that the centre of mass of the source doesn’t move. We can now repeat this to determine $\bar{h}_{00}$. The same argument means that we discard one term, and retain
+
+$$\bar{h}_{00} = \frac{4G}{r}E + \frac{2G\hat{x}_i\hat{x}_j}{r}\ddot{I}_{ij}(t-r)$$
+
+If we tried to compute these $\ddot{I}$ terms in $\bar{h}_{00}$ and $\bar{h}_{0i}$ directly from (5.27), we would have to go to higher order in the expansion. Implementing the gauge condition, as above, saves us this work.
+
+**5.3.2 An Example: Binary Systems**
+
+As an example, consider two stars (or neutron stars, or black holes) each with mass $M$, separated by distance $R$, orbiting in the (x,y) plane. Using Newtonian gravity, the stars orbit with frequency
+
+$$\omega^2 = \frac{2GM}{R^3} \tag{5.35}$$
+
+If we treat these stars as point particles, then the energy density is simply a product of delta-functions
+
+$$T^{00}(x,t) = M\delta(z) \left[ \delta\left(x - \frac{R}{2}\cos\omega t\right)\delta\left(y - \frac{R}{2}\sin\omega t\right) + \delta\left(x + \frac{R}{2}\cos\omega t\right)\delta\left(y + \frac{R}{2}\sin\omega t\right) \right]$$
+
+The quadrupole (5.32) is then easily evaluated
+
+$$I_{ij}(t) = \frac{MR^2}{2} \begin{pmatrix} \cos^2\omega t & \cos\omega t \sin\omega t & 0 \\ \cos\omega t \sin\omega t & \sin^2\omega t & 0 \\ 0 & 0 & 0 \end{pmatrix}$$
+
+$$= \frac{MR^2}{4} \begin{pmatrix} 1+\cos2\omega t & \sin2\omega t & 0 \\ \sin2\omega t & 1-\cos2\omega t & 0 \\ 0 & 0 & 0 \end{pmatrix} \tag{5.36}$$
+
+The resulting metric perturbation is then
+
+$$h_{ij}^\text{ret} \approx -\frac{2GMR^2\omega^2}{r} \begin{pmatrix} \cos2\omega t^\text{ret} & \sin2\omega t^\text{ret} & 0 \\ \sin2\omega t^\text{ret} & -\cos2\omega t^\text{ret} & 0 \\ 0 & 0 & 0 \end{pmatrix}$$
+
+where $t^\text{ret} = t-r$ is the retarded time.
+
+This gravitational wave propagates out more or less radially. If we look along the z-axis, then the wave takes the same form as the plane wave (5.22) that we saw previously, now with combination of $H_+$ and $H_\times$ polarisations, $\pi/2$ out of phase, also known as circular polarisation.
+
+We can use this to give us a ballpark figure for the expected strength of gravitational waves. Using (5.35) to replace the frequency, we have
+
+$$|h_{ij}| \sim \frac{G^2 M^2}{R r}$$
+
+Clearly the signal is largest for large masses $M$, orbiting as close as possible so $R$ is small. The densest objects are black holes whose size is given by the Schwarzschild radius $R_s = 2GM$. As the black holes come close, we take $R \approx R_s$ to get
+
+$$|h_{ij}| \sim \frac{GM}{r}$$
+
+A black hole weighing a few solar masses has Schwarzschild radius $R_s \sim 10$ km. Now it’s a question of how far away these black holes are. If two such black holes were orbiting in, say, the Andromeda galaxy which, at 2.5 million light years, has $r \approx 10^{18}$ km, we would get $h \sim 10^{-17}$. At a distance of a billion light-years, we’re looking at $h \sim 10^{-20}$. These are small numbers. Nonetheless, as we mentioned previously, this is the sensitivity that has been achieved by gravitational wave detectors.
+
+**5.3.3 Comparison to Electromagnetism**
+
+For both electromagnetic and gravitational waves, there is a multipole expansion that determines the long distance wave behaviour in terms of the source. (Full details of the calculations in Maxwell theory can be found in the lectures on Electromagnetism.) In electrodynamics, the multipoles of the charge distribution $\rho(x)$ are the charge
+
+$$Q = \int d^3x \, \rho(x)$$
+
+the dipole
+
+$$p = \int d^3x \, \rho(x) x$$
+
+the quadrupole
+
+$$Q_{ij} = \int d^3x \, \rho(x) \left( 3x_i x_j - \delta_{ij} x^2 \right)$$
+
+and so on. Charge conservation tells us that $\dot{Q} = 0$: the total charge cannot change which means that there is no monopole contribution to electromagnetic waves. Instead the leading order contribution comes from the dipole. Indeed, repeating the calculation that we saw above in the context of Maxwell theory shows that the leading order contribution to electromagnetic waves is
+
+$$A(x,t) \approx \frac{\mu_0}{4\pi r} \dot{p}(t-r) \tag{5.37}$$
+
+We can compare this to the situation in gravity. The multipoles of the energy distribution $T^{00}(x)$ are the total energy
+
+$$E = \int d^3x \, T^{00}(x)$$
+
+the dipole which, in this context, is related to the centre of mass of the distribution
+
+$$X = \int d^3x \, T^{00}(x) x$$
+
+the quadrupole
+
+$$I_{ij}(t) = \int d^3x \, T^{00}(x,t) x_i x_j$$
+
+The conservation of energy, $\dot{E} = 0$, is responsible for the lack of a monopole contribution to gravity.
+
+Gravitational radiation. But, as we saw above, in contrast to electromagnetism, the dipole contribution also vanishes. This too can be traced to a conservation law: we have
+
+∫ d³x (∂ₜT)ⁱ₀ = ∫ d³x (∂ⱼT)ⁱⱼ = - ∫ d³x Tⁱ₀ = Pⁱ
+
+where, in the penultimate equality, we have integrated by parts and, in the final equality, we have used the definition of the total momentum P defined in (5.31). But conservation of momentum P means that the second time derivative of the dipole vanishes
+
+d²X/dt² = dP/dt = 0
+
+This is the physical reason that there’s no gravitational dipole: it would violate the conservation of momentum.
+
+In electromagnetism, there is another dipole contribution to the gauge potential: this is
+
+Aₘₐg(x,t) = - (1/4πr) ̂x × ṁ(t-r)
+
+where the magnetic dipole m is defined by
+
+m = ∫ d³x x × J(x)
+
+In our gravity, the analogous term comes from the Tⁱⱼ in the expansion (5.29). The analog of the magnetic dipole in gravity is
+
+Jⁱ = ∫ d³x εⁱʲᵏ xʲ T⁰ᵏ
+
+But this is again something familiar: it is the angular momentum of the system. This too is conserved, Ḃ = 0, which means that, again, the dipole contribution vanishes in gravity. The leading order effect is the quadrupole.
+
+5.3.4 Power Radiated: The Quadrupole Formula
+
+A source which emits gravitational waves will lose energy. We’d like to know how much energy is emitted. In other words, we’d like to understand how much energy is carried by the gravitational waves.
+
+In the context of electromagnetism, it is fairly easy to calculate the analogous quantity. The energy current in electromagnetic waves is described by the T⁰ⁱ components of the energy-momentum tensor, better known as the Poynting vector
+
+S = E × B
+
+To compute the power P emitted by an electromagnetic source, we simply integrate this energy flux over a sphere S² that surrounds the source,
+
+P = ∫ d²r · S
+
+Evaluating this using the dipole approximation for electromagnetic waves (5.37), and doing a suitable average, we find the Larmor formula
+
+P = (μ₀/6πc) |p̈|²
+
+Our task in this section is to perform the same calculations for gravitational waves. This is not as easy as it sounds. The problem is the one we addressed in Section 4.5.5: there is no local energy-momentum tensor for gravitational fields. This means that there is no analog of the Poynting vector for gravitational waves. It looks like we’re scuppered.
+
+There is, however, a way forward. The idea is that we will attempt to define an energy-momentum tensor tμν for gravitational waves which, in the linearised theory, obeys
+
+∂ₜtμν = 0
+
+The problem is that, as we mentioned in Section 4.5.5, there is no way to achieve this in a diffeomorphism invariant way. In the full non-linear theory, this mean that tμν is not actually a tensor. In our linearised theory, it means that tμν will not be invariant under the gauge transformations (5.10). Nonetheless, we’ll first define an appropriate tμν, and then worry about the lack of gauge invariance later.
+
+A Quick and Dirty Approach: the Fierz-Pauli Action
+
+When asked to construct an energy-momentum tensor for the metric perturbations, the first thing that springs to mind is to return to the Fierz-Pauli action (5.8). Viewed as an action describing a spin 2 field propagating in Minkowski space, we can then treat it as any other classical field theory and compute the energy-momentum tensor in the usual ways.
+
+For example if we work in transverse traceless gauge, with h = 0 and ∂ₜhμν = 0, then, after an integration by parts, the Fierz-Pauli action becomes
+
+SFP = - (1/8πG) ∫ d⁴x (∂ₜhμν) (∂ₜhμν)
+
+which looks like the action for a bunch of massless scalar fields. The energy density then takes the schematic form
+
+t00 ∼ hμν ̇hμν ̇
+
+There are also gradient terms but, for wave equations, these contribute in the same way as time derivatives. Strictly speaking, we should be working with the momentum t0i, but this scales in the same way and the calculation is somewhat easier if we work with t00. Our previous expression (5.33) for the emitted gravitational wave wasn’t in transverse-traceless gauge. If we were to massage it into this form, we have
+
+hij(x,t) ∼ Qij(t-r)
+
+where Qij is the traceless part of the quadrupole moment,
+
+Qij = Iij - (1/3) Ikk δij
+
+Putting this together suggests that the energy density carried in gravitational waves is schematically of the form
+
+t00 ∼ (G/r²) Q̈ij Q̈ij
+
+Integrating over a sphere at a large distance, suggests that the energy lost in gravitational waves should depend on the square of the third derivative of the quadrupole,
+
+P ∼ G Q̈ij Q̈ij
+
+It turns out that this is indeed correct. A better treatment gives
+
+P = (G/5) Q̈ij Q̈ij (5.38)
+
+where, as in all previous formulae, Qij should be evaluated in retarded time tret = t-r.
+
+This is the quadrupole formula, the gravitational equivalent of the Larmor formula.
+
+Before the direct detection of gravitational waves, the quadrupole formula gave us the best observational evidence of the ir existence. The Hulse-Taylor pulsar is a binary neutron star system, discovered in 1974. One of these neutron stars is a pulsar, emitting a sharp beam every 59 ms. This can be used to very accurately track the orbit of the stars and show that the period – which is about 7.7 1 1 1 = − R(2) − R(2)η − R(1)h 8πG µν 2 µν 2 µν If we’re far from the source then we can neglect the term R(1) since it vanishes by the equation of motion. (More precisely, it vanishes at linear order and so fails to contribute at the quadratic order that we care about.) We end up with the seemingly simple expression
+
+(cid:20) (cid:21)
+
+1 1 t = − R(2) − R(2)η (5.40)
+
+µν 8πG µν 2 µν
+
+The linearised Bianchi identity is ∂µ (R − 1Rg)(1) = 0. But this means that if µν 2 µν we are far from sources, so Tµν = 0, and the equation of motion (5.39) is satisfied, then we necessarily have ∂µt = 0 as befits a conserved current. All that’s left µν is to evaluate the Ricci tensor to second order in the perturbation h . This is µν painful. The answer turns out to be
+
+1 1 R(2)[h] = hρσ∂ ∂ h −hρσ∂ ∂ h + ∂ h ∂ hρσ + ∂σhρ ∂ h µν 2 µ ν ρσ ρ (µ ν)σ 4 µ ρσ ν ν [σ ρ]µ
+
++ ∂ (hσρ∂ h )− ∂ρh∂ h − ∂ hρσ − ∂ρh ∂ h σ ρ µν ρ µν σ (µ ν)ρ 2 4 2
+
+Pretty huh? Substituting this into the expression (5.40) gives an equally pretty expression for t . Once again however, t is not gauge invariant.
+
+µν µν
+
+We see that there are a number of different ways to construct an energy-momentum tensor t for gravitational waves. But none are gauge invariant. In order to relate this µν to something physical, we clearly have to construct something which is gauge invariant. It is possible to extract something gauge invariant from t provided that our space- µν time is asymptotically Minkowski. We could, for example, integrate t00 over an infinite spatial hypersurface. This defines the so-called ADM energy which can be shown to be constant in time.
+
+Alternatively, we could integrate t0i over a sphere at I+. This too gives a gauge invariant quantity, which is the time dependence of the so-called Bondi energy. This too can be defined in the full non-linear theory.
+
+Here we give a less rigorous but slightly simpler construction. The gravitational wave, like any wave, varies over some typical length scale λ. We average over these oscillations by introducing a coarse-grained energy tensor
+
+⟨t ⟩ = d4x W(x−y)t (y)
+
+µν µν
+
+where the integral is over some region V of typical size a. The weighting function W(x) has the property that it varies smoothly over V with d4x W(x) = 1 and W(x) = 0 on ∂V. The coarse graining means that averages of total derivatives scale as ⟨∂X⟩ ∼ 1/a. For large a, we can neglect such terms. Similarly, we can “integrate by parts” inside averages, so that ⟨X∂Y⟩ = −⟨(∂X)Y⟩ + O(1/a). A fairly straightforward calculation shows that, in transverse-traceless gauge, the averaged energy-momentum tensor is simply
+
+⟨t ⟩ = ⟨∂ h ∂ hρσ⟩ µν µ ρσ ν 32πG
+
+where we neglect total derivatives. We can check that this is indeed conserved,
+
+1 1 ∂µ⟨t ⟩ = ⟨(□h )∂ hρσ + ∂ (∂ h ∂µhρσ)⟩ = 0 µν ρσ ν ν µ ρσ 32πG 2
+
+The first term vanishes by the equation of motion, while the second is a total derivative and so can be neglected. More importantly, under a gauge transformation δ⟨t ⟩ = ⟨∂ h ∂ (∂ρξσ + ∂σξρ)⟩ µν µ ρσ ν 16πG
+
+But now we can integrate by parts and use the de Donder gauge condition ∂ρh = 0.
+
+ρσ We see that the averaged ⟨t ⟩ is gauge invariant, with δ⟨t ⟩ = 0 up to total derivative µν µν term of order O(1/a). In other words, ⟨t ⟩ is almost gauge invariant. A better way of µν saying “almost gauge invariant” is “not gauge invariant”. If we really want something gauge invariant, which we do, we must take a → ∞, meaning that we average over all of spacetime.
+
+Finally, we can compute the power emitted by a gravitational wave at infinity by
+
+P = d2x nˆ ⟨t0i⟩ S2
+
+with nˆ a normal vector to S2. With some tedious integrals, we then find the answer (5.38).
+
+5.3.5 Gravitational Wave Sources on the Quick
+
+We can do some quick, back-of-the-envelope calculations to get a sense for how much energy is emitted by a gravitational wave source. Assuming Newtonian gravity is a good approximation, two masses M, separated by a distance R, will orbit with frequency
+
+GM ω2R ∼ R2
+
+The quadrupole is Q ∼ MR2 and so Q ∼ ω3MR2. We learn that the power emitted scales as (5.38)
+
+P ∼ GQ ∼ G4M5 (5.41)
+
+R5
+
+To get numbers out of this, we need to put the factors of c back in. Recall that the Schwarzschild radius of an object is R = 2GM/c2 and the dimensions of Newton’s constant are [G] = M−1L3T−2. So we can write this as
+
+P = L (5.42)
+
+Planck
+
+where the Planck luminosity is
+
+c5 L = ≈ 3.6×1052 Js−1 Planck
+
+This is a silly luminosity. The luminosity of the Sun is L ≈ 10−26L . With 1011 ⊙ Planck stars, the luminosity of the galaxy is L ≈ 10−15L . There are roughly 1010 galaxy Planck galaxies in the visible universe, which means that all the stars in all the galaxies shine with a luminosity ≈ 10−5L .
+
+Planck
+
+Yet, when two black holes orbit and spiral towards each other, at the point where their separation is comparable to their Schwarzschild radius, the formula (5.42) tells us that the power they emit in gravitational waves is approximately L .
+
+Planck Before the brief moment when they collide, spiralling black holes emit more energy than all the stars in the visible universe. Since the power emitted by colliding black holes is so ridiculously large, we might harbour some hope that we will still get a significant energy from more mundane systems. We could, for example, look at our solar system. The formula (5.42) assumes that the orbiting objects have the same mass. If two objects with masses M₁ ≫ M₂ are in orbit, then (5.41) is replaced by P ∼ G⁴M₁³M₂ / R⁵ (A derivation of this can be found on Examples Sheet 4.) Jupiter has a mass 10⁻³M⊙ and orbits at a distance ≈ 10⁹ km from the Sun. Using the fact that the Schwarzschild radius of the Sun is R ≈ 3 km, we find that the power emitted in gravitational waves by Jupiter is P ≈ 10⁻⁵⁰L ⊙ ≈ 10⁻²⁴L Planck This is completely negligible. We can trace this to the power of 5 in (5.42) which means the fall-off in power is quick: extreme events in the universe emit a ridiculous amount of energy in gravitational waves. Events involving objects that are merely heavy emit essentially zero.
+
+Of course, the question that we all really want to ask is: how much gravitational radiation can we emit by shaking our arms around? Suppose that we go really crazy, doing jumping jacks and generally acting like a loon. For once, SI units are useful. The mass of our arms is few kg, moving a distance of around a metre, with a frequency around a second. So Q̈ ≈ 1 kgm² and Q̈ ≈ 1 kgm²s⁻³. The power is then P ∼ GQ̈² / c⁵ ≈ 10⁻⁵² Js⁻¹ To put this in perspective, let’s remind ourselves that ultimately the world is quantum and although we have no hope of detecting individual gravitons it is surely the case that gravitational waves come in quanta with energy E = ℏω. So we could ask: how long do we have to wave our arms before we emit a single graviton? The energy of a graviton with frequency ω ≈ 1s⁻¹ is E ≈ 10⁻³⁴J. So the calculation above tells us that we can expect to emit a single graviton if we wave our hands around for T = 10¹⁸ s This is more or less the age of the universe. You may be many things, but you are not a factory for making gravitons.
+
+## 6. Black Holes
+
+Black holes are among the most enigmatic objects in the universe. They are described by deceptively simple solutions to the Einstein equations, yet hold a host of insights and surprises, from the meaning of causal structure, to connections to thermodynamics and, ultimately, quantum gravity. The purpose of this section is to begin to uncover some of the mysteries of these wonderful objects.
+
+## 6.1 The Schwarzschild Solution
+
+We have already met the simplest black hole solution back in Section 1.3: this is the Schwarzschild solution, with metric ds² = −(1 − 2GM/r) dt² + (1 − 2GM/r)⁻¹ dr² + r²(dθ² + sin²θ dϕ²) (6.1)
+
+It is not hard to show that this solves the vacuum Einstein equations Rµν = 0. Indeed, the calculations can be found in Section 4.2 where we first met de Sitter space. The Schwarzschild solution is a special case of the more general metric (4.9) with f(r)² = 1 − 2GM/r and it’s simple to check that this obeys the Einstein equation which, as we’ve seen, reduces to the simple differential equations (4.10) and (4.11).
+
+M is for Mass The Schwarzschild solution depends on a single parameter, M, which should be thought of as the mass of the black hole. This interpretation already follows from the relation to Newtonian gravity that we first discussed way back in Section 1.2 where we anticipated that the g₀₀ component of the metric should be (1.26)
+
+g₀₀ = −(1 + 2Φ)
+
+with Φ the Newtonian potential. We made this intuition more precise in Section 5.1.2 where we discussed the Newtonian limit. For the Schwarzschild metric, we clearly have Φ = −GM/r which is indeed the Newtonian potential for a point mass M at the origin.
+
+The black hole also provides an opportunity to roadtest the technology of Komar integrals developed in Section 4.3.3. The Schwarzschild spacetime admits a timelike Killing vector K = ∂ₜ. The dual one-form is then K = g₀₀ dt = −(1 − 2GM/r) dt Following the steps described in Section 4.3.3, we can then construct the 2-form F = dK = −(2GM/r²) dr∧dt which takes a form similar to that of an electric field, with the characteristic 1/r² fall-off. The Komar integral instructs us to compute the mass by integrating M = −(1/8πG) ∫⋆F S² where S² is any sphere with radius larger than the horizon r = 2GM. It doesn’t matter which radius we choose; they all give the same answer, just like all Gaussian surfaces outside a charge distribution give the same answer in electromagnetism. Since the area of a sphere at radius r is 4πr², the integral gives M = M Komar for the Schwarzschild black hole.
+
+There’s something a little strange about the Komar mass integral. As we saw in Section 4.3.3, the 2-form F = dK obeys something very similar to the Maxwell equations, d⋆F = 0. But these are the vacuum Maxwell equations in the absence of any current, so we would expect any “electric charge” to vanish. Yet this “electric charge” is precisely the mass M which, as we have seen, is distinctly not zero. What’s happening is that, for the black hole, the mass is all localised at the origin r = 0, where the field strength F diverges.
+
+We might expect that the Schwarzschild solution only describes something physically sensible when M ≥ 0. (The M = 0 Schwarzschild solution is simply Minkowski spacetime.) However, the metric (6.1) is a solution of the Einstein equations for all values of M. As we proceed, we’ll see that the M < 0 solution does indeed have some rather screwy features that make it unphysical.
+
+6.1.1 Birkhoff’s Theorem The Schwarzschild solution (6.1) is, it turns out, the unique spherically symmetric, asymptotically flat solution to the vacuum Einstein equations. This is known as the Birkhoff theorem. In particular, this means that the Schwarzschild solution does not just describe a black hole, but it describes the spacetime outside any non-rotating, spherically symmetric object, like a star.
+
+Here we provide a sketch of the proof. The first half of the proof involves setting up a useful set of coordinates. First, we make use of the statement that the metric is spherically symmetric, which means that it has an SO(3) isometry. One of the more fiddly parts of the proof is to show that any metric with such an isometry can be written in coordinates that make this isometry manifest, ds² = g_{ττ}(τ,ρ)dτ² + 2g_{τρ}(τ,ρ)dτ dρ + g_{ρρ}(τ,ρ)dρ² + r²(τ,ρ)dΩ² Here τ and ρ are some coordinates and dΩ² is the familiar metric on S²: dΩ² = dθ² + sin²θ dϕ² The SO(3) isometry then acts on this S² in the usual way, leaving τ and ρ untouched. This is said to be a foliation of the space by the spheres S².
+
+The size of the sphere is determined by the function r(τ,ρ) in the above metric. The next step in the proof is to change coordinates so that we work with τ and r, rather than τ and ρ. We’re then left with the metric ds² = g_{ττ}(τ,r)dτ² + 2g_{τr}(τ,r)dτ dr + g_{rr}(τ,r)dr² + r²dΩ² In fact there’s a subtlety in the argument above: for some functions r(τ,ρ), it’s not possible to exchange ρ for r. Examples of such functions include r = constant and r = τ. We can rule out such counter-examples by insisting that asymptotically the spacetime looks like Minkowski space.
+
+Our next step is to introduce a new coordinate that gets rid of the cross-term g_{τr}. To this end, consider the a coordinate t̃(τ,r). Then dt̃² = (∂t̃/∂τ)² dτ² + 2 (∂t̃/∂τ)(∂t̃/∂r) dτ dr + (∂t̃/∂r)² dr² We can always pick a choice of t̃(τ,r) so that the cross-term g_{τr} vanishes in the new coordinates. We’re then left with the simpler looking metric, ds² = −f(t̃,r)dt̃² + g(t̃,r)dr² + r²dΩ² Where we’ve now included the expected minus sign in the temporal part of the metric, reflecting our chosen signature. This is as far as we can go making useful coordinate choices. To proceed, we need to use the Einstein equations. As always, this involves sitting down and doing a fiddly calculation. Here we present only the (somewhat surprising) conclusion: the vacuum Einstein equations require that f(r,t̃) = f(r)h(t̃) and g(r,t̃) = g(r)
+
+In other words, the metric takes the form ds² = −f(r)h(t̃)dt̃² + g(r)dr² + r²dΩ² But we can always absorb that h(t̃) factor by redefining the time coordinate, so that h(t̃)dt̃² = dt². Finally, we’re left with the a metric of the form ds² = −f(r)dt² + g(r)dr² + r²dΩ² (6.2)
+
+This is important. We assumed that the metric was spherically symmetric, but made no such assumption about the lack of time dependence. Yet the Einstein equations have forced this upon us, and the final metric (6.2) has two sets of Killing vectors. The first arises from the SO(3) isometry that we originally assumed, but the second is the timelike Killing vector K = ∂_t that has emerged from the calculation.
+
+At this point we need to finish solving the Einstein equations. It turns out that they require f(r) = g(r)−1, so the metric (6.2) reduces to the simple ansatz (4.9) that we considered previously. The Schwarzschild solution (6.1) is the most general solution to the Einstein equations with vanishing cosmological constant.
+
+The fact that we assumed only spherical symmetry, and not time independence, means that the Schwarzschild solution not only describes the spacetime outside a time-independent star, but also outside a collapsing star, providing that the collapse is spherically symmetric.
+
+A Closer Look at Time Independence There are actually two, different meanings to “time independence” in general relativity. A spacetime is said to be stationary if it admits an everywhere timelike Killing vector field K. In asymptotically flat spacetimes, we usually normalise this so that K² → −1 asymptotically.
+
+A spacetime is said to be static if it is stationary and, in addition, is invariant under t → −t, where t is a coordinate along the integral curves of K. In particular, this rules out dt dX cross-terms in the metric.
+
+, with X some other coordinate. Birkhoff’s theorem tells us that spherical symmetry implies that the spacetime is necessarily static. In Section 6.3, we’ll come across spacetimes that are stationary but not static.
+
+6.1.2 A First Look at the Horizon There are two values of r where the Schwarzschild metric goes bad: r = 0 and r = 2GM. At each of these values, one of the components of the metric diverges but, as we will see, the interpretation of this divergence is rather different in the two cases. We will learn that the divergence at the point r = 0 is because the spacetime is sick: this point is called the singularity. The theory of general relativity breaks down as we get close to the singularity and to make sense of what’s happening there we need to turn to a quantum theory of spacetime. In contrast, nothing so dramatic happens at the surface r = 2GM and the divergence in the metric is merely because we’ve made a poor choice of coordinates: this surface is referred to as the event horizon, usually called simply the horizon 视界本身。这对应于 r = 2GM，或 ρ = 0。
+
+对于任何有限的 t，视界 ρ = 0 被映射到闵可夫斯基空间的原点，X = T = 0。然而，在视界处时间坐标是退化的，因为 g₀₀ = 0。
+
+如果我们缩放 t → ∞，并且 ρ → 0，同时保持组合 ρe±t/4GM 固定，那么我们看到视界实际上对应于直线： r = 2GM ⇒ X = ±T 这是我们的第一个教训。黑洞的事件视界不是像恒星表面那样的类时曲面。相反，它是一个类光曲面。这在图 43 中有所描绘。
+
+尽管我们的出发点局限于由 (6.4) 给出的坐标 X 和 T，但一旦我们得到闵可夫斯基空间度规 (6.5)，就没有理由保留这种限制了。确实，如果将坐标范围扩展到 X, T ∈ R，该度规显然完全有意义。此外，该度规清楚地表明，在视界 X = ±|T| 处并没有发生任何异常情况。我们看到，如果我们放大观察视界，那么它与时空的任何其他部分并无不同。然而，随着我们继续探讨，我们将了解到视界确实具有一些相当特殊的性质，但你只有从更全局的视角观察时才能看到它们。
+
+6.1.3 爱丁顿-芬克尔斯坦坐标上面我们看到，在近视界极限下，一个巧妙的变量替换允许我们移除视界处的坐标奇异性，并将时空延伸出去。本节我们的目标是进行同样的操作，但现在是针对完整的黑洞度规。
+
+在我们继续之前，值得评论一下这里的逻辑。当我们第一次在第 2 节遇到微分几何时，我们强调了一个事实：单组坐标未必能覆盖整个流形。相反，通常需要在不同区域使用不同的坐标，加上连接重叠区域坐标的过渡函数。黑洞的情况类似，但又不完全相同。史瓦西度规 (6.1) 的坐标确实没有覆盖整个时空：它们在 r = 2GM 处失效，并且对于 r < 2GM，我们不应相信该度规。但是，与其在视界之外的区域寻找一组新的坐标，并试图将其与我们的旧坐标拼接起来，我们不如找到一组处处适用的新坐标。
+
+我们的第一步是引入一个新的径向坐标 r*，定义为 dr*² = (1 - 2GM/r)⁻² dr² (6.6)
+
+这个微分方程的解很容易找到：它是 r* = r + 2GM log(r - 2GM / 2GM) (6.7)
+
+我们看到，视界外的区域 2GM < r < ∞ 映射到新坐标中的 -∞ < r* < +∞。当我们接近视界时，r* 随 r 的变化越来越慢（因为当 r → 2GM 时，dr*/dr → 0）。因此，它被称为乌龟坐标。（有时也称为雷吉-惠勒径向坐标。）
+
+乌龟坐标非常适合描述径向传播的光子路径。这样的光子遵循满足以下条件的曲线： ds² = 0 ⇒ dr*/dt = ± (1 - 2GM/r)⁻¹ ⇒ dr*/dt = ±1 我们看到，类光径向测地线由 t ± r* = 常数给出，其中正号对应于内向测地线（随着 t 增加，r 必须减小），负号对应于外向测地线。
+
+接下来，我们引入一对类光坐标 v = t + r* 和 u = t - r* 在下文中，我们将考虑先用坐标 (v, r)、再用坐标 (u, r) 书写的史瓦西度规，最后在 6.1.4 节中使用坐标 (u, v)。
+
+内向爱丁顿-芬克尔斯坦坐标作为将史瓦西解扩展到视界之外的第一次尝试，我们用 t = v - r* (r) 替换 t。我们有 dt = dv - dr* = dv - (1 - 2GM/r)⁻¹ dr 在史瓦西度规 (6.1) 中进行此替换，我们发现新的度规是 ds² = - (1 - 2GM/r) dv² + 2 dv dr + r² dΩ² (6.8)
+
+这就是内向爱丁顿-芬克尔斯坦坐标下的史瓦西黑洞。我们看到 dr² 项现在已经消失，因此在 r = 2GM 处度规没有奇异性。然而，dv² 项在 r = 2GM 处消失，并且对于 r < 2GM 还会改变符号。你可能担心这仍然意味着坐标在那里失效，甚至度规的符号会在我们穿过视界时改变。为了消除这种担忧，我们只需要计算度规的行列式： det(g) = det( -(1 - 2GM/r)  1             0    0 1             0             0    0 0             0             r²   0 0             0             0    r² sin²θ ) = -r⁴ sin²θ 我们看到 dv dr 交叉项阻止了度规在视界处退化，并且对于所有 r 值，符号保持洛伦兹型。（度规在 θ = 0, π 处仍然是退化的，但这只是 S² 的极点，我们知道如何处理。）
+
+那么，这就是内向爱丁顿-芬克尔斯坦坐标的优点：r 坐标可以穿过视界一直延伸到 r = 0 处的奇点。
+
+原始文本： Schwarzschild度规(6.1)是时间无关的。数学上，这源于该度规存在一个类时Killing矢量K = ∂ₜ。这个Killing矢量在Eddington-Finkelstein延拓中也存在，此时它是K = ∂ₜ。新颖之处在于这个Killing矢量不再处处类时。相反，它在视界外（gₜₜ < 0）保持类时，但在视界内（gₜₜ > 0）变成类空。换句话说，完整的黑洞几何结构并非时间无关！我们将在后续讨论中了解更多关于这一特征的内容。
+
+Finkelstein图为了进一步理解该几何结构，我们可以考察从黑洞发出的光线的行为。它们遵循路径： u = t - r = 常数消除t，使用零坐标v = t + r，出射零测地线满足v = 2r + 常数。这个方程的解在视界内外具有不同的性质。对于r > 2GM，我们可以使用乌龟坐标r*的原始定义(6.7)来得到： v = 2r + 4GM log((r - 2GM)/(2GM)) + 常数显然，对于r < 2GM，对数项会发散。然而，我们可以直接写出一个在视界两侧都满足(6.6)的乌龟坐标：我们只需取其变量的绝对值： r* = r + 2GM log|(r - 2GM)/(2GM)| 这意味着r*是多值的：它在视界外处于r* ∈ (-∞, +∞)的范围，在视界内处于r* ∈ (-∞, 0)的范围，奇点位于r = 0。视界内的出射测地线则遵循： v = 2r + 4GM log((2GM - r)/(2GM)) + 常数 (6.9)
+
+最后需要找出在视界r = 2GM处的出射零测地线。此时度规(6.8)中的dv²项消失，可以检验面r = 2GM本身是一条零测地线。这与我们在6.1.2节中看到的视界是一个零曲面的预期一致。
+
+t = v - r r = 2GM 图44：内向坐标下的Finkelstein图。内向零测地线以红色显示，出射以蓝色显示。在视界r = 2GM内，出射测地线不会出去。
+
+我们可以用Finkelstein图来捕捉这些信息。该图的设计使得内向光线以45度角传播。如果我们用t和r坐标标记图表，这很容易实现。然而，正如我们所见，r*在黑洞内部各处并非单值。因此，我们将用原始的r标记空间坐标。然后我们定义一个新的时间坐标t*，要求： v = t + r = t* + r* 所以内向光线在(t*, r)平面上以45度角传播，其中t* = v - r。这些以红色线显示在图44中。同时，出射零测地线以蓝色显示。现在我们可以清楚地看到，根据测地线在视界内还是行为有何不同。位于视界外的出射测地线做到了它们名字所暗示的：它们向外移动。特别是当t → ∞（因此t* → ∞）时，测地线逃逸到r → ∞。
+
+位于视界内的出射测地线则没有那么幸运。现在随着t增加，由(6.9)描述的测地线根本不“向外”：相反，“出射”光线不可阻挡地朝向r = 0的曲率奇点移动。它们每一条都在某个有限的t*处撞击奇点。
+
+划分这两个区域的是沿着视界r = 2GM运行的零测地线：这是图中的垂直蓝线。
+
+我们还可以在Finkelstein图上绘制光锥。这些区域由内向和出射的未来指向零测地线界定，如图所示。任何有质量粒子都必须遵循类时路径，因此其轨迹必须位于这些光锥内。我们立即看到黑洞的一个关键特征：如果你冒险进入视界之外，你就再也出不来了。这被时空的因果结构所禁止。术语“黑洞”实际上指的是视界内r < 2GM的区域。任何留在视界外的观察者都无法知道里面发生了什么。
+
+我们还可以用Finkelstein图来告诉我们，如果有人把朋友推进黑洞，观察者会看到什么。这位不幸的同伴穿过视界，很可能没有意识到任何问题。然而，任何发回的光信号需要越来越长的时间才能到达位于某个固定径向值r > 2GM的观察者。这意味着随着下落的朋友接近视界，他们的动作变得越来越慢。这样，坐在外面的观察者/恶棍会永远看到他们的朋友，但对他们穿过视界之后的行为一无所知。此外，由于光线现在来自越来越深的引力势阱，它在外部观察者看来会显得越来越红移。
+
+外向Eddington-Finkelstein坐标由 is a different extension of the exterior of the Schwarzschild black hole, in which we replace the time coordinate t with the null coordinate u = t−r. Recall the surfaces of constant u correspond to outgoing, radial, null geodesics. As before, it is straightforward to make this change of variable. We have t = u+r, so dt = du+dr = du+ (1− 2GM/r)^{-1} dr. Making this substitution in the Schwarzschild metric (6.1), we now find the metric ds^2 = −(1− 2GM/r) du^2 −2dudr+r^2dΩ^2 (6.10). This is the Schwarzschild solution in outgoing Eddington-Finkelstein coordinates. The only difference with the ingoing coordinates (6.8) is the sign of the cross-term. However, as we now explain, this seemingly trivial difference greatly changes the interpretation of the metric.
+
+t =u+r r=2GM
+
+Once again, the metric is smooth (and non-degenerate) at the horizon so we can happily continue the metric down to the singularity at r = 0. However, the region r < 2GM now describes a different part of spacetime from the analogous region in ingoing Eddington-Finkelstein coordinates! To see this, we can again look at the ingoing and outgoing geodesics. This time, we pick coordinates so that the outgoing geodesics travel at 45 degrees. This means that we take r and t = u+r. The outgoing geodesics are drawn in red as before. But this time we see that they do what their name suggests: they go always go out, regardless of whether they start life behind the horizon. This time, it is the ingoing null geodesics that have the interesting property. Those that start life outside are unable to reach the singularity. Instead, they pile up at the horizon. Those that start life behind the horizon have an even stranger property: the ingoing geodesics do not go in. Instead they too move towards the horizon, again unable to cross it. We can also ask what becomes of massive particles that sit inside the horizon. As before, their trajectories must lie within future-pointing light cones. We see that they cannot linger inside the horizon for long. The causal structure of the spacetime ultimately ejects them into the region outside the horizon.
+
+This is clearly very different physics from a black hole. Instead, the solution (6.10) is that of a white hole, an object which expels any matter inside. This is the time reversal of a black hole, a fact which can be traced to the relative minus sign between the two metrics (6.8) and (6.10). This time reversal is also manifest in the diagrams: turn the white hole of Figure 45 upside down and you get the black hole of Figure 44. White holes are perfectly acceptable solutions to the Einstein equations. Indeed, given the existence of black holes from which nothing can escape, the time reversal invariance of the Einstein equations tells us that there had to be a corresponding solution which nothing can enter. Nonetheless, white holes are not physically relevant since, in contrast to black holes, one cannot form them from collapsing matter.
+
+6.1.4 Kruskal Spacetime It may be somewhat surprising to learn that we can extend the r ∈ (2GM,∞) coordinate of the Schwarzschild solution in two different ways, so what we gain — the region parameterised by r ∈ (0,2GM] — corresponds to two different parts of spacetime! We can gain some intuition for this by returning to the near horizon limit of Rindler space. The region outside the black hole, covered by the Schwarzschild metric, corresponds to the right-hand quadrant of Rindler space. The ingoing Eddington-Finkelstein coordinates extend this to the upper quadrant, while the outgoing Eddington-Finkelstein coordinates extend it to the lower quadrant, as shown in the figures above. The purpose of this section is to understand this better. We will achieve this by introducing coordinates which cover the entire spacetime, including both black and white holes. It is simple to write the Schwarzschild metric using both null coordinates v = t+r and u = t−r. It becomes ds^2 = −(1− 2GM/r) dudv +r^2dΩ^2 (6.11), where we should now view r^2 as a function r^2(u−v). In these coordinates, the metric is degenerate at r = 2GM so we need to do somewhat better. This can be achieved by introducing the Kruskal-Szekeres coordinates, U = −exp(−u/4GM) and V = exp(v/4GM) (6.12). Both U and V are null coordinates. As defined above, the exterior of the Schwarzschild black hole is parameterised by U < 0 and V > 0. They have the further property that, outside the horizon, UV = −exp(−r/2GM) = exp((2GM−r)/2GM) (6.13), where, in the second equality, we’ve used the definition (6.7) of the tortoise coordinate. Similarly,
+
+\[ \frac{U}{V} = -\exp\left(-\frac{t}{2GM}\right) \qquad (6.14)
+
+\]
+
+A quick calculation shows that the metric (6.11) becomes
+
+\[ ds^2 = -\frac{32(GM)^3}{r} e^{-r/2GM} dU dV + r^2 d\Omega^2 \qquad (6.15)
+
+\]
+
+where \( r(U,V) \) is the function defined by inverting (6.13). The original Schwarzschild metric covers only the region of spacetime with \( U < 0 \) and \( V > 0 \). But now we can happily extend the range to \( U, V \in \mathbb{R} \), with the function \( r(U,V) \) again defined by (6.13). We see that now nothing bad happens at \( r = 2GM \): the metric is smooth and non-degenerate.
+
+Analytic Extensions Given the amount of games we’ve played above, jumping between different coordinate systems, one may wonder if there are further games in which the Kruskal spacetime can be extended yet further. This turns out not to be the case: the Kruskal spacetime is the maximal extension of the Schwarzschild solution.
+
+Here is the way to check whether a given spacetime can be extended: look at all geodesics and see where they end up. If you can follow geodesics for infinite affine parameter, then they escape to infinity. If, on the other hand, geodesics come to an end at some finite affine parameter then something is going on: either they run into a genuine singularity, or they run into a coordinate singularity. In the former case there’s nothing you can do about it. In the latter case, you can extend the spacetime as we have above. You have the maximally extended spacetime when any geodesics that come to an abrupt halt do so at genuine singularities.
+
+Figure 48: The Kruskal diagram for the Schwarzschild black hole. The U and V axes are the horizons at \( r = 2GM \) and the red lines are the singularities at \( r = 0 \). Also shown are lines of constant r in green, and lines of constant t in blue.
+
+There is something a little magical about the extension process. We start off with a solution to the Einstein equations in some region of spacetime. Yet this is sufficient to determine the metric throughout the entire, extended spacetime. In particular, once we’ve extended, we don’t have to solve the Einstein equations from scratch. This magic follows from the fact that the metric components are real, analytic functions. This means that knowledge of the metric in any open set is sufficient to determine it everywhere.
+
+The Kruskal Diagram We can see what becomes of the horizon in the new coordinates by using (6.13). We have
+
+\[ r = 2GM \quad \Rightarrow \quad U = 0 \text{ or } V = 0 \]
+
+This tells us that the horizon is not one null surface, but two null surfaces, intersecting at the point \( U = V = 0 \). This agrees with what we learned from taking the near-horizon limit where we encountered Rindler space. The null surface \( U = 0 \) is the horizon of the black hole; it is called the future horizon. The null surface \( V = 0 \) is the horizon of the white hole; it is the past horizon.
+
+We can also see what becomes of the singularity. This now sits at
+
+\[ r = 0 \quad \Rightarrow \quad UV = 1 \]
+
+The hyperbola \( UV = 1 \) has two disconnected components. One of these, with \( U, V > 0 \), corresponds to the singularity of the black hole. The other, with \( U, V < 0 \) corresponds to the singularity of the white hole.
+
+These facts can be depicted on a Kruskal diagram, shown in Figure 48. The U and V axes are drawn at 45 degrees, reflecting the fact that they are null lines. These are the two horizons. In this diagram, the vertical direction can be viewed as the time \( T = \frac{1}{2}(V + U) \) while the horizontal spatial direction is \( X = \frac{1}{2}(V - U) \). The singularities \( UV = 1 \) are drawn in red. This diagram makes it clear how the black hole and white hole cohabit in the same spacetime.
+
+The diagram also shows lines of constant r, drawn in green, and lines of constant t drawn in blue. From (6.13), we see that lines of constant r are given by \( UV = \text{constant} \). Meanwhile, from (6.14), lines of constant t are linear, given by \( U/V = \text{constant} \).
+
+The diagram contains some important lessons. You might have naively thought that the singularity of the black hole was a point that traced a timelike worldline, similar to any other particle. The diagram makes it clear that this is not the case: instead, the singularity is spacelike. Once you pass through the horizon, the singularity isn’t something that sits to your left or to your right: it is something that lies in your future. This makes it clear why you cannot avoid the singularity when inside a black hole. It is your fate. Similarly, the singularity of the white hole lies in the past. It is similar to the singularity of the Big Bang.
+
+We can frame this in terms of the Killing vector of the Schwarzschild solution \( K = \partial_t \). This is timelike outside the horizon and, indeed, gives rise to the conserved energy of geodesics outside the black hole that we met in Section 1.3. In the Kruskal coordinates, we can use (6.12) to find
+
+\[ \frac{\partial}{\partial t} = \frac{\partial V}{\partial t} \frac{\partial}{\partial V} + \frac{\partial U}{\partial t} \frac{\partial}{\partial U} = \frac{1}{4GM} \left( V \frac{\partial}{\partial V} - U \frac{\partial}{\partial U} \right)
+
+\]
+
+Evaluating the norm of this Killing vector in the Kruskal metric (6.15), we have
+
+\[ g_{\mu\nu} K^\mu K^\nu = -\left(1 - \frac{2GM}{r}\right)
+
+\]
+
+We see that outside the horizon, the Killing vector is timelike.
+
+like as expected. But inside the horizon, with r < 2GM, the Killing vector is spacelike. (We saw similar behaviour when discussing the isometries of de Sitter space in Section 4.3.1.) When we say that a spacetime is time independent, we mean that there exists a timelike Killing vector. We learn that the full black hole spacetime is not time independent. But this only becomes apparent once you cross the horizon.
+
+A hint of this, albeit one that cannot be trusted, can be seen in the original Schwarzschild solution (6.1). If we were to take this at face value for 0 < r < 2GM, we see that the change of sign in (1 − 2GM/r) means that the vector ∂ becomes spacelike and the vector ∂ timelike. This again suggests that the singularity lies in the future or the past. All the hard work in changing coordinates above shows that this naive result is, in fact, true.
+
+The Einstein-Rosen Bridge We now understand three of the four quadrants of the Kruskal diagram. The right-hand quadrant is the exterior of the black hole, which is the spacetime covered by the original Schwarzschild coordinates. The upper quadrant is the interior of the black hole and the lower quadrant is the interior of the white hole. This leaves the left-hand quadrant. This is a surprise: it is another copy of the exterior of the black hole, now covered by U > 0 and V < 0. To see this, we can write U = +exp(−u/4GM) and V = −exp(v/4GM)
+
+Going back through the various coordinate transformations then shows that the left-hand quadrant is again described by the Schwarzschild metric.
+
+What are we to make of this? Our final spacetime contains two asymptotically flat regions joined together by a black hole! That sounds rather wild. Note that it’s not possible for an observer in one region to send a signal to an observer in another because the causal structure of the spacetime does not allow this. Nonetheless, we could ask: what is the spatial geometry that connects the two regions?
+
+To elucidate this spatial geometry, we look at the t = 0 slice of Kruskal spacetime. This is a straight, horizontal line passing through U = V = 0. If we return to our original Schwarzschild metric then, at t = 0, the spatial geometry is given by ds² = (1 − 2GM/r)⁻¹ dr² + r²(dθ² + sin²θ dϕ²) (6.16)
+
+which is valid for r > 2GM. This describes the geometry in the right-hand quadrant. There is another copy of the same geometry in the left-hand quadrant. We then glue these together at r = 2GM, to give a wormhole-like geometry as shown in Figure 49. This wormhole is called the Einstein-Rosen bridge. It’s not a wormhole that you can travel through because the paths are spacelike, not timelike.
+
+It’s possible to write down a metric that includes both sides of the wormhole. To do this we introduce a new radial coordinate ρ, defined by r = ρ (1 + GM/2ρ)² = ρ + GM + G²M²/4ρ (6.17)
+
+This is plotted in the figure. It has the property that there are two values of ρ for each value of r > 2GM. At the horizon, r = 2GM, there is just a single value: ρ = GM/2. The idea is that ρ > GM/2 parameterises one side of the wormhole while ρ < GM/2 parameterises the other. Substituting r for ρ in (6.16) gives the metric ds² = (1 + GM/2ρ)⁴ dρ² + ρ²(dθ² + sin²θ dϕ²) (6.18)
+
+(To show this, it’s useful to first show that (1 − 2GM/r) = (1 − GM/2ρ)² (1 + 2GM/ρ)⁻².) Clearly this metric looks like flat R³ as ρ → ∞ since we can drop the overall factor. Less obviously, it also looks like flat R³ as ρ → 0. To see this, note that there is a symmetry of (6.17) under ρ → G²M²/4ρ, which swaps the two asymptotic spacetimes, leaving the meeting point at ρ = GM/2 invariant. In this way, the metric (6.18) describes the two-sided Einstein-Rosen bridge shown in Figure 49.
+
+The radius of the S² is 2GM in the middle of the wormhole at ρ = GM/2, and then grows as we move away in either direction. This middle point is where the two horizons U = 0 and V = 0 meet. In fancy language, it is called the bifurcation sphere.
+
+ER = EPR?
+
+Although there is no way that an observer in the left-most quadrant can signal to an observer in the right-most quadrant, there is one way in which they can communicate: both need to be brave and jump into the black hole. Then they can both meet behind the horizons and share their stories.
+
+This sounds like a rather wild idea! Is it physically meaningful? After all, the white hole that sits in the bottom quadrant is thought to have no physical manifestation. Similarly, it seems likely that for generic black holes the other universe that appeared in the left quadrant of the Kruskal diagram is also a mathematical artefact. Nonetheless, there is one rather speculative proposal in which such communication behind the horizon may be possible.
+
+First, we can dispel the idea that the two asymptotic regimes necessarily correspond to different universes. One could patch together the asymptotic parts of The two Minkowski spaces so that the Kruskal diagram gives an approximate description of two far separated black holes in the same universe. This would be an approximate solution to the field equations since, no matter how far, the two black holes would attract. Viewed in this way, the Kruskal diagram suggests that two observers, potentially living billions of light years apart, could jump into these far flung black holes and meet behind the horizon. They could then have a nice chat before their inevitable demise in the singularity. Is this outlandish idea possible? And, if so, which pairs of black holes in the universe are connected in this way?
+
+A proposal, emerging from ideas in quantum gravity, suggests that two black holes are connected in this way if they have some measure of quantum entanglement. This proposal goes by the cute name of ER = EPR, with ER denoting the Einstein-Rosen bridge characterising a geometric connection, and EPR denoting the entanglement of the Einstein-Podolosky-Rosen paradox. (More details of entanglement can be found in the lectures on Topics in Quantum Mechanics.) It is far from clear that the ER=EPR proposal is correct, but it is certainly a tantalising idea.
+
+The Penrose Diagram As we explained in Section 4.4.2, the best way to exhibit the causal structure of a spacetime is to draw the Penrose diagram. For the black hole, this is very similar to the Kruskal diagram: we simply straighten out a few lines.
+
+i + i+ J + J+ 0 i _ _ J J i _ i _ Figure 51: The Penrose diagram for the Schwarzschild black hole. The right quadrant describes the asymptotically flat region external to the black hole. The upper quadrant is the black hole and the lower quadrant a white hole, each with spacelike singularities shown as jagged lines. The left quadrant is another asymptotically flat region spacetime.
+
+The first step is to introduce new coordinates which cover the entire space in a finite range. We use the same kind of transformation that we saw in many examples in Section 4.4.2, namely U = tan U and V = tan V ThenewcoordinateshavefiniterangeU,V ∈ (−π/2,+π/2). TheKruskalmetric(6.15) is then 1 32(GM)3 ds2 = − e−r/2GMdU dV +r2cos2U cos2V dΩ2 cos2U cos2V r 2 This metric is then conformal to the (slightly!) simpler metric 32(GM)3 ds˜2 = − e−r/2GMdU dV +r2cos2U cos2V dΩ2 r 2 However, we must remember the singularity. This sits at r = 0 or UV = 1. In the finite range coordinates this means tanU tanV = 1 ⇒ sinU sinV −cosU cosV = 0 ⇒ cos(U +V) = 0 In other words, the singularities sits at U +V = ±π/2. These are straight, horizontal lines in the Penrose diagram.
+
+In the absence of the singularities, U and V would have a diamond-shaped Penrose diagram, like that of 2d Minkowski space. The presence of the singularities mean that the top and bottom are chopped off, resulting in the Penrose diagram for the Schwarzschild black hole shown in Figure 51. This diagram contains the same information as the Kruskal diagram that we saw previously.
+
+The Penrose diagram allows us to give a more rigorous definition of a black hole. Here we’ll eschew any pretense at rigour, but give a flavour of the definition. We restrict attention to asymptotically flat spacetimes, meaning that far away they look like Minkowski space. This means, in particular, the asymptotic region includes both two null infinities, I+ and I−. (We will further require that the metric looks like Minkowski space near I± although we’ll be sloppy about specifying what we mean by this.) The black hole region is then defined to be the set of points that cannot send a signal to I+. The boundary of the black hole region is the future event horizon, H+. Equivalently, the future event horizon H+ is the boundary of the causal past of I+. In the Penrose diagram of Figure 51, the black hole region associated to I+ is the upper quadrant and the left quadrant. The black hole associated to I′+ is the upper quadrant and the right quadrant.
+
+Importantly, to define a black hole you need to know the whole of the spacetime: you run lightrays backwards from I+ and the boundary of these light rays defines the event horizon. There is no definition of the black hole region that refers only to a spacelike slice Σ at some moment in (a suitably defined) time. This means that an observer can’t really know if they’re inside a black hole unless they know the entire future evolution of the spacetime.
+
+Relatedly, we can also define the white hole region to be that part of spacetime that cannot receive signals from I−. The boundary of the white hole region is the past event horizon, H−.
+
+6.1.5 Forming a Black Hole: Weak Cosmic Censorship The Kruskal spacetime that we have discussed so far is unphysical in a number of ways. In reality, black holes do not emerge from white holes! Instead, they are formed by collapsing stars. The causal structure of such realistic black holes looks rather different from the Penrose diagram of figure 51.
+
+We could try to write down solutions corresponding to collapsing stars. In fact, this is not too difficult. However, our main interest here is to understand the causal structure of the spacetime and we can do this by patching together things that we already know.
+
+Figure 52: Joining two Penrose diagrams
+
+Things are conceptually most straightforward if we consider the unrealistic situation of the spherically symmetric collapse of a shell of matter. Inside the shell, spacetime is flat. Outside the shell, spacetime is described by the Schwarzschild geometry (6.1). Birkhoff’s theorem tells us that this latter statement remains true even for time-dependent collapsing shells. If we further make the (again, unrealistic) assumption that the shell is travelling at the speed of light, then we can glue together the Penrose diagrams for Minkowski spacetime and the black hole spacetime, as shown in Figure 52. This gives the Penrose diagram for a collapsing black hole.
+
+Although we made a number of assumptions in the above paragraph, the Penrose diagram that we derived also describes the spherical collapse of realistic stars. In this case, the surface of the star follows a timelike trajectory, as shown in the figure to the right. The unphysical parts of the Kruskal diagram have now disappeared: there is no white hole and no mirror universe.
+
+Cosmic Censorship
+
+One important feature of the black hole remains: the singularity is shrouded behind the horizon. This means that the effects of the singularity cannot be felt by an asymptotic observer. We can ask: Figure 53: is this always the case? Or could we end up with a singularity which is not hidden by a horizon. Such singularities are called naked singularities.
+
+Naked singularities are commonplace in solutions to Einstein’s equations. The white hole of the full Kruskal spacetime provides one example; the Big Bang singularity provides another. Yet another is provided by the Schwarzschild metric. This solves the Einstein equations for all M, but is only physical for M ≥ 0. With M < 0, we can write the Schwarzschild metric as
+
+ds^2 = -(1 - 2G|M|/r) dt^2 + (1 - 2G|M|/r)^{-1} dr^2 + r^2(dθ^2 + sin^2θ dϕ^2)
+
+Now there is no coordinate singularity at r = 2G|M| and, correspondingly, no horizon. We can construct the Penrose diagram for this spacetime in the same way that we did for Minkowski space, now using null coordinates u = t − r and v = t + r. The final result is exactly the same as Minkowski space, with one difference: there is a curvature singularity at r = 0. The Penrose diagram is shown in the left-hand figure above. The singularity of the M < 0 black hole is not shielded behind a horizon. It is a naked singularity whose effects can be observed from I+.
+
+Despite the ubiquity of naked singularities in solutions to the Einstein equations, there is a general belief that they are unphysical. (The Big Bang singularity is an important exception to this and we will comment further on this case below.) A deep conjecture in general relativity, known as weak cosmic censorship, says that naked singularities cannot form. To phrase the cosmic censorship conjectures precisely, we would need to discuss the initial value problem in general relativity. The initial conditions are specified on a spatial hypersurface and are subsequently evolved through the equations of motion. The weak cosmic censorship conjecture states the following:
+
+The Weak Cosmic Censorship Conjecture: Given matter which obeys the dominant energy condition (described in Section 4.5.7), generic, smooth initial conditions for both the metric and matter fields in an asymptotically flat spacetime will not evolve to form naked singularities.
+
+There are a whole bunch of caveats in this statement. Each of them is important. It turns out that it is possible to construct finely tuned initial conditions (of measure zero in the space of all initial conditions) that result in naked singularities; hence the need for the word “generic”. It turns out that it is also possible to violate weak cosmic censorship in asymptotically AdS spacetimes. Finally, the naked singularity of the M < 0 black hole gives some intuition for why we need the energy of the matter fields to obey some positivity condition.
+
+If weak cosmic censorship is true, then it rules out dynamical evolution such as that shown in right hand figure. In fact, this diagram is somewhat misleading. Once the singularity forms, we can no longer evolve the fields beyond the light-ray shown as a dotted red line in the figure. This means that, strictly speaking, the dynamical evolution stops at the red line and can’t be extended beyond. A more precise statement of the weak cosmic censorship conjecture hinges on this idea and, in particular, the statement that I+ doesn't just come to an abrupt end.
+
+There is no proof of weak cosmic censorship: indeed, it is arguably the biggest open question in mathematical relativity. Nonetheless, a wealth of numerical and circumstantial evidence supports the claim.
+
+What should we make of cosmic censorship? At a practical level, it is a boon for those who work on numerical relativity, since it means that the simulations can proceed without worrying about how to cope with singularities. But for the rest of us, cosmic censorship is rather disappointing. This is because singularities – or, more generally, regions of high curvature – are where we expect quantum gravity effects to become important. Cosmic censorship means that it is unlikely we will have observational access to such behaviour. It is both striking and surprising that classical gravity finds a way to protect us from the ravages of quantum gravity.
+
+There is one naked singularity that does appear to be physical: this is the Big Bang singularity. Since this lives in the far past, it certainly doesn’t violate the cosmic censorship conjecture. It’s tempting to think that we may ultimately be able to see the effects of quantum gravity here. Sadly, this hope too seems to be quashed, with inflation washing away the details of the very early universe. Quantum gravity is, it seems, a difficult observational science.
+
+6.1.6 Black Holes in (Anti) de Sitter Throughout this section we have focussed on black holes in asymptotically Minkowski spacetime. It is not hard to find solutions corresponding to Schwarzschild black holes in de Sitter and anti-de Sitter spacetimes, solving the Einstein equations R = Λg µν µν We have already done the hard work. We take the ansatz ds2 = −f(r)2dt2 +f(r)−2dr2 +r2(dθ2 +sin2θdϕ2)
+
+We saw in Section 4.2 that this obeys the Einstein equations provided that 2f′ f′2 Λ f′′ + + = − and 1−2ff′r−f2 = Λr2 r f f These equations have the solution 2GM r2 f2 = 1− ∓ r R2 with R2 = 3/|Λ|. Here the minus sign solves the equation with Λ > 0 and the plus sign with Λ < 0. They correspond to black holes in de Sitter and anti-de Sitter spacetimes respectively. To see that this is the right interpretation, consider the metric with 2MG ≪ R2, so that the Schwarzschild radius is much less than the curvature of spacetime. Then, for r ≪ R, the metric looks like that of a Schwarzschild black hole in flat space. We will not have anything more to say about these solutions in these lectures.
+
+## 6.2 Charged Black Holes
+
+In this section, we describe a solution to the Einstein-Maxwell equation corresponding to a black hole carrying electric or magnetic charge.
+
+Black holes with large amounts of electric charge do not arise in Nature. (Such black holes would attract the opposite charge and neutralise.) Nonetheless, there are a number of theoretical reasons for studying these black holes. In particular, charged black holes exhibit a rather different causal structure from the Schwarzschild solution and, for our purposes, this will provide a warm-up for the rotating black holes that we will study in Section 6.3. Moving beyond these lectures, it turns out that charged black holes provide a laboratory in which we can address certain questions about the quantum make-up of black holes.
+
+6.2.1 The Reissner-Nordström Solution Charged black holes arise as a solution to Einstein-Maxwell theory, with action S = ∫ d⁴x √-g [ R/(16πG) − (1/4) FµνF^µν ] (6.19)
+
+The equations of motion are the Maxwell equation ∇µF_µν = 0 together with the Einstein-Maxwell equation R_µν − (1/2)Rg_µν = 8πG [ F_µρ F_ν^ρ − (1/4) g_µν F_ρσ F^ρσ ]
+
+where the right-hand side is the Maxwell stress-energy tensor that we calculated in (4.52).
+
+These equations of motion admit a spherically symmetric solution with gauge field A_μ = − (Q_e/(4πr)) dt − (Q_m/(4π)) cosθ dϕ The metric takes the familiar spherically symmetric form ds2 = −f(r)2dt2 +f(r)−2dr2 +r2dΩ2 where, this time, f(r)2 = 1− 2GM/r + e²/r² with e² = (Q_e² +Q_m²)/(4π)
+
+This is the Reissner-Nordström solution, discovered over a period of years from 1916 to 1921.
+
+An analog of Birkhoff’s theorem says that the Reissner-Nordström solution is almost the unique spherically symmetric solution of the Einstein-Maxwell equations. There is one exception: there is a solution with geometry AdS ×S2, threaded with electric flux; we’ll see how this emerges a special limit of the Reissner-Nordström solution in Section 6.2.5.
+
+The dt term in the gauge field describes a radial electric field. Meanwhile, the dϕ term is the gauge field for a magnetic monopole; it is only rotationally invariant up to a gauge transformation. (See, for example, the lectures on Gauge Theory for more discussion.) Both of these charges can be measured asymptotically as explained in 3.2.5.
+
+One can check that Q_e = ∫_{S2} ⋆F and Q_m = ∫_{S2} F The solution has non-vanishing electric and magnetic charge, even though the theory (6.19) has no charged matter. The electric and magnetic charges can be measured asymptotically as explained in 3.2.5.
+
+we see a singularity.
+
+To get some intuition for the Reissner-Nordström black hole, we write the metric factor as f(r)² = (r−r₊)(r−r₋) / r²
+
+Here the two roots are given by r = GM ± √(G²M²−e²) (6.20)
+
+In the limit where e → 0, the smaller root merges with the singularity, r → 0 while the larger root coincides with the Schwarzschild radius r → 2GM. The physical interpretation of the metric depends on the roots of this polynomial. We deal with these cases in turn.
+
+6.2.2 Super-Extremal Black Holes
+
+Super-extremal black holes have |e| > GM. This means that f(r)² has no zero, and so the metric has no horizon. This situation is analogous to the negative mass Schwarzschild solution. It has a naked singularity. It is unphysical.
+
+If we take, for example, an electrically charged black hole, the super-extremal condition e² > G²M² translates to the requirement that Q²/4π > GM². But this ensures that the electromagnetic repulsion between two such black holes beats the gravitational attraction. For this reason, it is hard to see how such objects could form in the first place.
+
+Of course, all charged sub-atomic particles are super-extremal in the sense that the electrical repulsion beats the gravitational attraction. There is no contradiction here: sub-atomic particles simply are not black holes! For example, a particle with mass m has Compton wavelength λ = ℏ/2πmc. (For once we’ve put the factor of c back in this equation.) The requirement that the Compton wavelength is always larger than the Schwarzschild radius is ℏ/(2πmc) > 2Gm/c²  ⇒ m² < ℏc/(4πG) = M²_pl
+
+This conclusion should not be surprising: it tells us that quantum effects are more important than gravitational effects for any sub-atomic particle that weighs less than the Planck mass, which itself is a whopping 10¹⁸ GeV. This is roughly the mass of a grain of sand.
+
+6.2.3 Sub-Extremal Black Holes
+
+Reissner-Nordström black holes with |e| < GM are called sub-extremal. These are the physically relevant solutions.
+
+There are now two roots, r±, of the metric function f(r)². The Kretschmann scalar diverges at neither of these roots, suggesting that both are horizons. So charged black holes have two horizons: an outer one at r₊ and an inner one at r₋.
+
+The presence of two roots changes the role played by the singularity. This is because the g_rr metric component flips sign twice so that r is again a spatial coordinate by the time we get to r < r₋. This suggests that r = 0 is now a timelike singularity, as opposed to the spacelike singularity that we saw in the Schwarzschild case. The purpose of this section is to understand these points in some detail.
+
+We will follow the same path that we took to understand the Schwarzschild solution. We start by introducing a tortoise coordinate, analogous to (6.6), now defined by dr*² = dr² / f(r)²
+
+The solution to this differential equation is r* = r₊ + (1/2κ₊) ln|r−r₊|/r₊ + (1/2κ₋) ln|r−r₋|/r₋ (6.21)
+
+with κ± = (r₊−r∓)/(2r²±)
+
+We will see later that κ± have the interpretation of the surface gravity on the two horizons.
+
+The tortoise coordinate r* takes values in r* ∈ (−∞,+∞) as r ∈ (r₊,∞). We introduce a pair of null coordinates, just as for the Schwarzschild black hole v = t+r*  and  u = t−r*
+
+Exchanging t in favour of the null coordinate v, we get the Reissner-Nordström black hole in ingoing Eddington-Finkelstein coordinates ds² = −f(r)²dv² + 2dvdr + r²dΩ² (6.22)
+
+This metric is smooth for all r > 0, and has a coordinate singularity at r = 0. This ensures that we can extend the Reissner-Nordström black hole to all r > 0. The same kind of arguments that we used for the Schwarzschild black hole again tell us that r = r₊ is a null surface, and no signal from r < r₊ can reach I⁺. In other words, r = r₊ is a future event horizon.
+
+Similarly, we could extend the Reissner-Nordström solution using outgoing Eddington-Finkelstein coordinates, to reveal a white hole region.
+
+Kruskal Spacetime
+
+We have still to understand the role played by the inner horizon at r = r₋ and, relatedly, the global structure of the spacetime. To make progress, we introduce two different kinds of Kruskal-like coordinates U± = −e^{−κ±u}  and  V± = ±e^{κ±v} (6.23)
+
+In the limit e → 0, we have κ+ → 4GM and the coordinates U+ and V+ coincide with the Kruskal-Szekeres coordinates (6.12).
+
+To start, we work with the coordinates U+ and V+. These null coordinates have the property that U+ V+ = −e^{2κ+r*} = −(r−r₊)/(r−r₋) e^{2κ+r} (6.24)
+
+The Reissner-Nordström metric is now, ds² = −f(r)²du dv + r²dΩ² = −((r−r₊)/(r−r₋)) (1+r²₋/r²) e^{−2κ+r} dU+dV+ + r²dΩ²
+
+where, as usual, we should now view r = r(U+,V+), this time using (6.24). The metric has started to get a little ugly, but the exact form won’t bother us. More interesting is what the various regimes of U+ and V+ coordinates correspond to.
+
+The exterior of the Reissner-Nordström black hole is the region r > r+. From (6.23) and (6.24), we see that this corresponds to U+ < 0 and V+ > 0. But, just as for the Schwarzschild-Kruskal spacetime, we can now extend the Kruskal coordinates to U+, V+ ∈ R. This gives the now-familiar spacetime diagram, split into four quadrants depending on the sign of U+ and V+. This is shown in the left-hand diagram of Figure 55; the region outside the horizon is the right-hand quadrant and is shaded blue; the region r− < r < r+ is the upper quadrant and is shaded pink.
+
+At this point, however, the story diverges from that of Schwarzschild. This is because the Kruskal-type coordinates U+ and V+ do not extend down to the singularity at r = 0. Instead, from (6.24), we see that as r → r−, we have U+ V+ → ∞. This means that the coordinates U+ and V+ only extend down to the inner horizon r = r−.
+
+There was no such obstacle in the Eddington-Finkelstein coordinates (6.22), which happily extended down to the singularity at r = 0. This means that the Kruskal coordinates U+ and V+ are not the final extension: we can do better.
+
+This is where the other coordinates U− and V− in (6.23) come in. The regime between the horizons with r− < r < r+ (in ingoing Eddington-Finkelstein coordinates) corresponds to U−, V− < 0. We then have
+
+U− V− = e^{2κ− r⋆} = (r−r− / r+ r−)^{r+^2/r} e^{2κ− r}
+
+These coordinates have the property that U− V− → ∞ as r → r+ from below. In other words, they cover the region inside the black hole, but not outside. We can now extend the U−, V− coordinates, as shown in the right-hand diagram of Figure 55, where the lower-most quadrant is shaded pink, to show that it should be identified with the upper-most quadrant of the first figure.
+
+The U−, V− coordinates cover the singularity at r = 0. In fact, there are two such singularities, one in each of the left and right-quadrants as shown as red lines in the figure. Spacetime does not extend beyond the singularity. Importantly, and in contrast to the Schwarzschild black hole, the singularities are timelike. This is the kind of singularity that you might have imagined black holes to have: it is like the worldline of a particle. However, this means that there is nothing inevitable about the singularity of the Reissner-Nordström black hole: there exist timelike worldlines that a test particle could follow that miss the singularity completely.
+
+Such fortunate worldliners will ultimately end up in the upper-most quadrant of the right-hand diagram of Figure 55, where U−, V− > 0. This is a new, unanticipated part of spacetime. One finds that geodesics hit the boundary of this region at a finite value of the affine parameter. This means that our spacetime must be extended yet further! In fact, the upper-most region of the right-hand diagram is isomorphic to the lower-most region of the left-hand diagram. These regions are shaded in the same colour, but with different stripes to show that the metrics are isomorphic, but they should not be identified. (Doing so would lead to a closed timelike curve.) Instead, we introduce yet a third set of coordinates, U′+ and V′+. This gives rise to a new part of spacetime, isomorphic to the left-hand diagram. The whole procedure then repeats ad infinitum.
+
+The Kruskal diagrams can be patched together to give the Penrose diagram for the Reissner-Nordström black hole. Perhaps surprisingly, it is an infinitely repeating pattern, both to the past and to the future, as shown in Figure 56, where the conformal factor has been chosen so the singularity appears as a vertical line.
+
+6.2.4 Cauchy Horizons: Strong Cosmic Censorship
+
+The Penrose diagram reveals the meaning of the inner horizon r = r−. Consider some initial data specified on a spatial surface Σ, like that shown in Figure 57. Such a surface is referred to as a Cauchy surface. We then evolve this initial data forward using the equations of motion.
+
+Sadly, once we encounter a timelike singularity, such evolution is no longer possible, because we need information about what the fields are doing at the singularity. We see that the data on Σ can only be evolved as far as the inner horizon r = r−. The null surface r = r− is called a Cauchy horizon.
+
+The Cauchy horizon is believed to be unstable. To get some intuition for this, consider the two observers shown in Figure 57. Observer A stays sensibly away from the black hole, sending signals with some constant frequency – say, 1 second – into the black hole for all eternity. Meanwhile, adventurous but foolish observer B ventures into the black hole where he receives the signals. But the signals get closer and closer together as he approaches r = r−, an eternity's worth of signals arriving in a finite amount of time, like emails.
+
+on the first day back after vacation. These signals are therefore infinitely blue shifted, meaning that a small perturbation in the asymptotic region results in a divergent perturbation on the Cauchy horizon. This instability means that much of the Penrose diagram of the Reissner-Nordström black hole, including the timelike singularity, is unphysical. It is unclear what the end point of the perturbation will be. But, whatever the outcome, you should probably take the Penrose diagram inside the horizon with something of a pinch of salt: if you make it into a black hole interior, your very presence means that it’s very unlikely to look like that depicted in this simple idealised case. One possibility is that the Cauchy horizon r = r- becomes a singularity.
+
+Figure 57: Initial data is specified on Σ, a spatial hypersurface. But this can’t be evolved past the Cauchy horizon, r = r-, shown as the red line in the figure. The extended geometry for the Reissner-Nordström black hole includes both a future Cauchy horizon, and a past Cauchy horizon.
+
+The instability of the Cauchy horizon is a consequence of a second cosmic censorship conjecture:
+
+The Strong Cosmic Censorship Conjecture: For matter obeying a suitable energy condition, generic initial conditions do not result in a Cauchy horizon. Relatedly, timelike singularities do not form.
+
+Strong cosmic censorship is the statement that general relativity is, generically, a deterministic theory. It is neither stronger nor weaker than weak cosmic censorship and the two, while clearly related, are logically independent. (There is a tradition in general relativity of naming two things “weak” and “strong” even though strong is not stronger than weak.)
+
+6.2.5 Extremal Black Holes
+
+It remains to describe the extremal Reissner-Nordström black hole, with |e| = GM. In this case, the inner and outer horizon coalesce and the metric takes the form
+
+ds² = − (1 − GM/r) dt² + (1 − GM/r)⁻¹ dr² + r² dΩ² (6.25)
+
+Figure 58: The Penrose diagram for the extremal Reissner-Nordström black hole. There is a just a single coordinate singularity at r = GM, but it is now a double pole.
+
+As before, one can use Eddington-Finkelstein coordinates to show that the spacetime can be extended to all r > 0, and Kruskal-like coordinates to construct the global causal structure. The resulting Penrose diagram is shown in Figure 58.
+
+The extremal black hole has a number of curious features. First, we can look at the spatial distance from a point r = R to the horizon. For a sub-extremal black hole, with an inner and outer horizon, this is given by
+
+s = ∫(R to r+) dr / √[(1 − r₊/r)(1 − r₋/r)] < ∞
+
+However, for the extremal black hole, with r₊ = r₋ = GM, this becomes
+
+s = ∫(R to GM) dr (1 − GM/r)⁻¹ = ∞
+
+So the horizon of an extremal black hole lies at infinite spatial distance. In contrast, timelike and null geodesics have no difficulty in reaching the horizon in finite affine parameter.
+
+We should think of the horizon of the black hole as developing an infinite throat as shown in figure; this is what becomes of the Einstein-Rosen bridge, now restricted to just one side.
+
+To understand what the extremal geometry looks like deep within the throat, we can take the near horizon limit. We write r = GM + η. For η ≪ GM, the metric (6.25) takes the form
+
+ds² = − (η²/r²) dt² + r² dη²/η² + r² dΩ²
+
+The first two terms are the metric for the Poincaré patch of two-dimensional anti-de Sitter spacetime (4.28). The final term is just a two-sphere of constant radius. In this way, we see that the near horizon limit of the extremal Reissner-Nordström black hole is AdS × S²; this is sometimes called the Robinson-Bertotti metric. Similar calculations to this play an important role in motivating the AdS/CFT correspondence from the dynamics of branes in string theory.
+
+Multi-Black Hole Solutions
+
+If we take, for example, electrically charged black holes, the extremality condition |e| = GM means that Q²/4π = GM². Viewed from a somewhat 17th century perspective, this says that the repulsive Coulomb force between two black holes exactly cancels the attractive Newtonian gravitational force. We may then wonder if it’s possible to construct two or more black holes sitting in equilibrium.
+
+The considerations above by no means guarantee the existence of such solutions. It should be clear by now that there’s much more to general relativity than a simple 1/r² Newtonian force law, and we still have the seemingly formidable task of solving the non-linear Einstein equations without the crutch of spherical symmetry. Nonetheless, it’s at least possible that there exist time independent solutions. This is in contrast to Schwarzschild or sub-extremal Reissner-Nordström black holes, where the attractive force means that two black holes must be orbiting each other, emitting gravitational waves in the process.
+
+Given the complexity of the Einstein equations, it is perhaps surprising that there is not only a time-independent multi-black hole solution, but one that is remarkably simple. To motivate this, we first introduce a new radial coordinate ρ = r−GM. Clearly the singularity sits at ρ = 0. In this coordinate, the extremal Reissner-Nordström metric (6.25) takes the form ds² = −H(ρ)⁻²dt² + H(ρ)² dρ² + ρ²dΩ² with H(ρ) = 1 + GM/(2ρ). This form now admits a simple generalisation to ds² = −H(x)⁻²dt² + H(x)² dx·dx where x is the usual Cartesian coordinate on ℝ³. We further make the ansatz for the gauge field A = H⁻¹dt, corresponding to electrically charged black holes. (There is a simple generalisation to black holes carrying both electric and magnetic charge.) Then the non-linear Einstein-Maxwell equations reduce to a very simple linear condition on H(x), ∇²H = 0 where ∇² is the Laplacian on flat ℝ³. Subject to certain asymptotic boundary conditions this is solved by H(x) = 1 + Σ (1/|x−xᵢ|). This is the Majumdar-Papapetrou solution, discovered in 1947. It describes N black holes sitting at arbitrary positions xᵢ.
+
+## 6.3 Rotating Black Holes
+
+In this section, we turn to rotating black holes. These are the appropriate solutions to describe all black holes observed in the universe.
+
+6.3.1 The Kerr Solution Rotating objects have an axis of rotation, and this necessarily breaks the rotational symmetry. This makes the solution for rotating black holes considerably more complicated than the spherically symmetric solutions that we have discussed so far. The solution is written in so-called Boyer-Lindquist coordinates (t,r,θ,ϕ). It takes the form ds² = −(1−2GMr/ρ²)(dt−a sin²θ dϕ)² + (dr²/Δ) + ρ² dθ² + ((r²+a²)²−Δa² sin²θ)/ρ² sin²θ dϕ² (6.26) where Δ(r) and ρ²(r,θ) are the following functions Δ = r²−2GMr+a² and ρ² = r²+a²cos²θ. This is the Kerr solution, written down in 1963. It’s also useful to have an expression for the metric from which we can immediately read off the g_tt, g_tϕ, and g_ϕϕ metric components, ds² = −(1−2GMr/ρ²) dt² − (4GMa sin²θ/ρ²) dt dϕ + (dr²/Δ) + ((r²+a²)²−Δa² sin²θ)/ρ² sin²θ dϕ² + ρ² dθ² (6.27). After ploughing through some algebra, you can convince yourself that the Kerr solution has the rather non-obvious property g_tϕ² − g_tt g_ϕϕ = Δ sin²θ (6.28). We’ll make use of this below. The Kerr solution depends on two parameters: M and a. A quick inspection of the metric shows that a has dimension of length. When a = 0, the Kerr solution reduces to the Schwarzschild solution. Far from the black hole, r ≫ GM,a, the metric reduces to flat Minkowski spacetime, with (t,r,θ,ϕ) the usual coordinates, with θ ∈ [0,π] and ϕ ∈ [0,2π). There are two continuous isometries of the Kerr metric. These are K = ∂/∂t and L = ∂/∂ϕ. We can compute Komar integrals for each of these, giving the mass and angular momentum of the black hole respectively. Unsurprisingly, it turns out that the mass is M. The Komar integral of the rotational Killing vector L gives the angular momentum J = aM. Flipping the sign of a changes the direction of the spin. In what follows, we take a > 0 without loss of generality. The Schwarzschild solution was also invariant under the discrete symmetries t → −t and ϕ → −ϕ. The Kerr solution is invariant only under the combination (t,ϕ) → (−t,−ϕ), as appropriate for a spinning object.
+
+Black Hole Uniqueness There are a bunch of theorems, each with slightly different assumptions, that collectively can be summarised as: any time-independent, asymptotically flat black hole solution, lies within the Kerr family. In other words, black holes are characterised by only two numbers: mass M and angular momentum J. (If we are in Einstein-Maxwell theory, these theorems are extended to allow for electric and magnetic charges as well; we’ll briefly discuss this in Section 6.3.4.) These theorems are not as strong as Birkhoff’s theorem. There we needed only to assume spherical symmetry to land on the Schwarzschild solution. This ensured that the Schwarzschild metric describes the spacetime outside a star, even one that is undergoing spherical collapse. In contrast, the wider set of theorems make explicit use of the event horizon. This means that the Kerr solution does not necessarily describe the spacetime outside a rotating star, although it seems plausible that it is a good approximation far from the surface of the star. Nonetheless, these theorems tell us that the end point of gravitational collapse is generically the Kerr black hole. This is rather surprising. General relativity is a classical theory that can be derived from an action principle. In fact, it turns out that it is a Hamiltonian theory. Basic properties of Hamiltonian systems — like Liouville’s theorem — say that the end point of generic evolution can’t be a single point in phase space. Instead, that kind of behaviour is what we expect from a non-Hamiltonian systems with friction. In many ways, black holes act like systems with friction. These kinds of issues become even s harper when we bring quantum mechanics into the mix, where they reappear as the information paradox.
+
+6.3.2 The Global Structure When ∆ = 0, the g_rr component of the metric diverges. Our previous experience with the Schwarzschild and Reissner-Nordstro¨m black holes suggests that these are coordinate singularities, and this turns out to be correct. We write the roots of ∆ as ∆ = (r−r_+)(r−r_-) with r = GM ± √(G²M²−a²). This has the same structure as the Reissner-Nordstro¨m black hole, and we can immediately import some lessons from there. In particular, if the black hole spins too fast, so a > GM, then the Kerr solution exhibits a naked singularity and is disallowed. The fastest spinning black hole has a = GM and, correspondingly, J = (GM)². This is the extremal Kerr black hole. More generally, the allowed values of spin are a/GM ≤ 1.
+
+To show that r = r_± are coordinate singularities, we can do something akin to the Eddington-Finkelstein trick. This time things are a little trickier. We introduce the Kerr coordinates (v,r,θ,χ) where v = t+r and r and χ defined by r² +a²     a dr* = dr and dχ = dϕ+ dr  (6.29)
+
+∆          ∆ The idea, once again, is that these coordinates are adapted to null, in-falling geodesics. However, now there are no radial geodesics: instead they get twisted round by the rotation of the black hole. These geodesics don’t, therefore, sit at constant ϕ but instead sit at constant χ. To see this, we exchange t and ϕ in favour of v and χ in (6.26) to find ∆ sin²θ ds² = −      [dv −asin²θdχ]² + [adv −(r²+a²)dχ]² + (dv −asin²θdχ)dr + ρ²dθ² ρ²              ρ² First, note that null geodesics follow dv = dχ = dθ = 0 as promised (since this ensures that ds² = 0.) Second, as with Eddington-Finkelstein coordinates, there is no longer a factor of ∆ in the denominator. This ensures that we can now extend the r coordinate down to r > 0 without hitting any singularity. We learn that r = r_± in the original Kerr metric (6.26) were indeed coordinate singularities as advertised.
+
+To build up the full causal structure, we need Kruskal-like coordinates, analogous to the U and V coordinates (6.23) that we introduced for the Reissner-Nordstro¨m black hole. The procedure is now the same. The U_+ and V_+ coordinates allow us to extend the spacetime past the outer horizon at r_+, down to the inner horizon at r_-. We then need to switch to the U_- and V_- coordinates to get down to the singularity. This then repeats itself. The resulting Penrose diagram again repeats ad infinitum, as shown in Figure 60.
+
+The Singularity There are a number of ways in which the global structure of the Kerr solution differs from Reissner-Nordstro¨m. One is the singularity. The g_tt component of the Kerr metric diverges when ρ² = 0 ⇒ r = 0 and θ = π/2.
+
+From our experience with the Schwarzschild and Reissner-Nordstro¨m black holes, we might expect that this is a true curvature singularity. This is confirmed by an analysis of the Kretschmann scalar.
+
+However, in the previous cases the singularity arose at r = 0. There was no need to also specify the angular coordinates on the S² because the S² degenerated at r = 0, just like at the origin of flat space. In contrast, the singularity in Kerr occurs only when θ = π/2. To better understand this, we can look at the Kerr metric (6.26) at r = 0, with constant t: it is ds² = a²sin²θdϕ² + a²cos²θdθ² We see that the S² has not degenerated at this point, but nor does it have the round metric. This is to be expected, since the Kerr solution did not have rotational symmetry. The restriction to θ = π/2 puts us on the “equator”: this is a ring of radius a, parameterised by ϕ ∈ [0,2π). Thus we learn that the singularity of the Kerr black hole has a ring structure! The singularity is again timelike, as shown in the Penrose diagram.
+
+Strictly speaking, Penrose diagrams can only be drawn for rotationally invariant spacetimes, since we suppress the S². For Kerr, we compromise and draw the singularity as the jagged, broken line in Figure 60, reflecting the fact that the singularity only occurs when θ = π/2 and not for other angles on the S².
+
+Closed Timelike Curves In the Reissner-Nordstro¨m black hole, the spacetime ended at the timelike singularity. But because the S² doesn’t degenerate for Kerr, spacetime continues past the singularity (i.e. to the right and left of the timelike singularities shown in Figure 60). This region can be accessed by observers following a timelike geodesic that passes through r = 0 at θ ̸= π/2. This corresponds to r < 0 in the original coordinates of (6.26).
+
+This new region has a weird property: it acts as a time machine! To see this, consider a curve which sits at constant t and r and θ = π/2. In other words, the curve is parameterised by ϕ. From (6.26), the metric for this curve is ds² = [−(a²∆)/r² + (r²+a²)²/r²] dϕ² = [r²+a² + (2GMa²)/r] dϕ² For r < 0 and suitably small, this term in brackets is negative.
+
+tive, This means that ϕ is a timelike direction close to the singularity. But ϕ is a periodic coordinate, with ϕ and ϕ+2π identified. This means that if you move along this curve, you get back to the same point in time that you started from. This is a closed timelike curve.
+
+Having a time machine tucked away inside a black hole is not going to allow you to play Johnny B. Goode at the Enchantment Under the Sea dance. Nonetheless, the idea that time machines arise in the laws of physics is a tantalising one. Sadly, the time machine inside the Kerr black hole is most likely unphysical: it is hidden behind a Cauchy horizon and, as we discussed previously such horizons are unstable to generic perturbations.
+
+Closed timelike curves are not uncommon, and arise in several other solutions to the Einstein equations. Nonetheless, like naked singularities, there is a general belief that they should not form from any sensible initial conditions, a fact referred to the chronology protection conjecture.
+
+6.3.3 The Ergoregion There is also something special about the Kerr black hole outside the horizon. To see this, consider the Killing vector K = ∂_t Far from the black hole, this is a timelike Killing vector. Indeed, asymptotically, at r → ∞, K generates the geodesics of an observer stationary with respect to the black hole. As we move closer to the black hole, with finite r, the integral curves of K are no longer geodesics since they sit at constant r (as well as constant θ and ϕ), but it’s always possible to follow these curves by turning on the thrusters on our rocket ship.
+
+At some point, however, this ceases to be true. To see this, we look at the norm of K, g_μν K^μ K^ν = g_tt = − (r^2 − 2GMr + a^2 cos^2 θ) / ρ^2 This is negative, and hence K is timelike, for large r. However, K becomes null when r^2 − 2GMr − a^2 cos^2 θ = 0 ⇒ r = GM ± √(G^2 M^2 − a^2 cos^2 θ) (6.30)
+
+We should compare this to the horizons, which sit at r = GM ± √(G^2 M^2 − a^2). The smaller root in (6.30) sits inside the horizon, but the larger root sits outside the horizon, except at the poles θ = 0, π where it touches. We learn that K becomes spacelike in a region outside the horizon, GM + √(G^2 M^2 − a^2) < r < GM + √(G^2 M^2 − a^2 cos^2 θ)
+
+This is called the ergoregion. It is sketched in Figure 61. The outer boundary of the ergoregion is called the ergosurface.
+
+Inside the ergoregion, an observer cannot follow integral curves of K because these curves are no longer timelike. This means that, no matter how hard you fire your rocket thrusters, you cannot sit at constant r, θ and ϕ. To see what’s happening, let’s look again at the Kerr metric ds^2 = −(Δ/ρ^2)(dt − a sin^2 θ dϕ)^2 + (sin^2 θ/ρ^2)((r^2 + a^2)dϕ − a dt)^2 + (ρ^2/Δ) dr^2 + ρ^2 dθ^2 We want to find a timelike curve, with ds^2 < 0. Moving in the r and θ directions do not help, since g_rr and g_θθ are both positive. In fact, the only negative term comes from g_tϕ. This means that any timelike trajectory in the ergoregion necessarily requires movement in ϕ.
+
+This is an example of frame dragging, albeit an extreme one. In the ergoregion, observers are necessarily swept around by the rotation of the black hole. They can still escape the black hole’s clutches should they wish, since they have not yet crossed the outer horizon, but as long as they remain in ergoregion they rotate relative to asymptotic observers.
+
+The Penrose Process A clever idea, due to Penrose, allows us to extract energy from a rotating black hole. To motive this, consider again the Killing vector K = ∂_t. As we explained in Section 4.3.2, we can use K to assign an energy to any observer with 4-momentum P_μ, E = −K · P_μ The 4-momentum is necessarily timelike. If K is also timelike, then the negative sign in the definition above ensures that E is positive. This is because the inner product of two timelike vectors is always negative. However, in the ergoregion K is spacelike, so it is possible for the energy to be negative.
+
+Here, then, is the mechanism to extract energy from a black hole. We send in an object along a geodesic, with 4-momentum P_μ. Because it travels along a geodesic, the energy E = −K · P is conserved and so remains positive even when the object enters the ergoregion.
+
+Once in the ergoregion, we arrange for the object to split into two. (In terms of particle physics, you could imagine a particle decaying although it’s rather harder to arrange the details of this before hand.) Conservation of energy and momentum require P = P_1 + P_2 and, correspondingly, E = E_1 + E_2 But inside the ergoregion, it is possible to arrange things so that E_1 < 0. Clearly we must then have E_2 > 0. Each of these smaller objects then follows their own geodesic. Because E_1 < 0 it is not possible for the first particle to escape the ergoregion; typically, it will instead fall into the black hole. However, there is no such restriction on the second particle with E_2 and it is possible to arrange things so that this escapes the black hole and comes back t To the asymptotic region, now with E > E₀. In other words, the object returns with more energy than it started. Extracting energy from the black hole means that its mass decreases. (This back-reaction is not included in the calculation above which is done in a fixed background.) If you decrease the mass sufficiently, you might wonder if you can violate the extremality bound to get J > GM², revealing a naked singularity. Fortunately, this can’t happen: a decrease of the mass must be accompanied by a corresponding decrease in the angular momentum.
+
+To see this, consider the combination of Killing vectors ξ = K + ΩL = ∂/∂t + Ω ∂/∂ϕ  (6.31)
+
+This is also a Killing vector for any constant Ω. We know that K is mostly spacelike on the horizon r = r₊. (The exception is at θ = 0, π where the horizon intercepts the ergosurface so K is null.) The angular momentum vector L is also spacelike on the horizon. However, there is a special choice of Ω so that ξ becomes null everywhere on the horizon.
+
+To see this, note that the norm of ξ is ξ² = gₜₜ + 2Ωgₜϕ + Ω²gϕϕ We can make ξ² = 0 at a general r and θ by taking Ω(r,θ) = (-gₜϕ ± √(gₜϕ² - gₜₜ gϕϕ)) / gϕϕ If we restrict to the horizon, r = r₊ then Δ = 0 and the identity (6.28) tells us that gₜϕ² = gₜₜ gϕϕ, and we get Ω = -gₜϕ/gϕϕ. A quick look at the metric (6.27) then shows us that the θ dependence drops out, leaving us with the constant Ω = a / (r₊² + a²)
+
+With this choice of Ω, the Killing vector ξ generates null geodesics on the horizon. The frame dragging now means that these geodesics necessarily rotate in the ϕ direction. We interpret Ω as the angular velocity of the black hole.
+
+We can use ξ to place a restriction on the amount of energy that can be extracted by the Penrose process. The Killing vector ξ is future-pointing, which means that, for any 4-momentum P, ξ·Pµ ≤ 0  ⇒  -E + Ωj ≤ 0 where j = L·Pµ is the angular momentum of the particle. Applying this to the particle with E < 0 that falls into the black hole, we have E ≥ Ωj  (6.32)
+
+In this sense, we necessarily extract more angular momentum than energy from the black hole. To see that this bound does indeed prohibit the formation of super-extremal rotating black holes, consider the following combination A = 8π√(G²M² + √(G²M⁴ - J²)) = 8πGM(GM + √(G²M² - a²))
+
+If the black hole loses both mass δM and angular momentum δJ, the quantity A changes as δA/16π = G²MδM + (G³M³δM - ½GJδJ) / √(G²M⁴ - J²) = (GJ/√(G²M⁴ - J²)) (δM/Ω - δJ)
+
+where, in the second equality, we’ve used the expression r₊ = GM + √(G²M² - a²), which means that r₊² + a² = 2GM(GM + √(G²M² - a²)). A few lines of algebra then gives the result.
+
+The particle plunging beyond the event horizon results in a reduction of the mass δM = E₁ of the black hole and a change in the angular momentum δJ = j₁. The inequality (6.32) tells us that δM ≥ ΩδJ and so δA ≥ 0 In other words, A is a quantity which is monotonically increasing in the Penrose process. In particular, this ensures that it’s not possible to turn a sub-extremal Kerr black hole into a super-extremal black hole with a naked singularity through the Penrose process.
+
+**A Hint of the Area Theorem**
+
+The quantity A has a rather special geometric meaning: it is the area of the event horizon of the black hole A = ∫₀^π dθ ∫₀^(2π) dϕ √(gθθ gϕϕ)|_{r=r₊} = 4π(r₊² + a²) = 8π√(G²M² + √(G²M⁴ - J²))
+
+where we have evaluated the integral at r = r₊, which means that Δ = 0. Our analysis above shows that the area of the black hole always increases.
+
+This is a baby version of a much deeper theorem, proved by Hawking, which says that the area of a black hole increases under all physical processes. Indeed, there is a deep reason behind this: the area of the black hole has the interpretation of entropy, through the famous Bekenstein-Hawking formula S_BH = c³A / (4Gℏ)
+
+The fact that the area necessarily increases is then part of the generalised second law of thermodynamics.
+
+**Superradiance**
+
+There is a grown-up version of the Penrose process in which fields scatter off a Kerr black hole, and return amplified. This effect is known as superradiance.
+
+Here we sketch this phenomenon for a massless scalar field Φ. The energy-momentum tensor is (4.51)
+
+Tµν = ∇µΦ∇νΦ - ½gµν ∇ρΦ∇ρΦ We know from Section 4.5.5 that we can form a conserved current by contracting Tµν with a suitable Killing vector. In particular, we can measure energy by contracting with K = ∂/∂t to give the current Jν = -Kµ Tµν = -(Kµ∇µΦ)∇νΦ + ½(∇ρΦ∇ρΦ)Kν This obeys ∇ν Jµ = 0.
+
+We now repeat the kind of calculation that we saw in Section 4.5.5. The energy in the field on a spatial hypersurface outside the black hole is E(Σ) = ∫ d³x √γ nµ Jµ with γ the pull-back of the metric onto Σ, and nµ the future-pointing normal. We now integrate ∇ν Jµ over the shaded region in Figure 62. Assuming that ∇Φ = 0 at spatial infinity, i₀, we have 0 = ∫ d⁴x √(-g) ∇ν Jµ = ∫_{Σ₂} d³x √γ n₂^µ Jµ - ∫_{Σ₁} d³x √γ n₁^µ Jµ + ∫_{S} d³S^µ Jµ V Σ2 Σ1 N with N the appropriate part of the horizon. Rearranging, we have E(Σ )−E(Σ ) = − d2A ξ Jµ 2 1 µ where v is the null Kerr coordinate, ξ is the null Killing vector (6.31) along the horizon, and d2A is the spatial cross-section of the horizon.
+
+The power absorbed by the black hole per unit null time is then P = − d2A ξ Jµ with ξ Jµ = −(Kµ∇ Φ)(ξν∇ Φ)+ (∇ρΦ∇ Φ)(ξ Kµ)
+
+µ µ ν ρ µ The final term vanishes because, when evaluated on the horizon, ξ·K = 0. To see this, we evaluate ξ Kµ = g +Ωg ⇒ ξ Kµ = g − tϕ µ tt tϕ µ tt g r+ ϕϕ r=r+ But evaluated on the horizon, where ∆ = 0, the identity (6.28) tells us that g2 = g g tϕ tt ϕϕ and so ξ Kµ = 0. This means that we can write the power as P = d2A (Kµ∇ Φ)(ξν∇ Φ) = d2A +Ω µ ν ∂v ∂v ∂χ We can expand the scalar field in angular momentum modes. In terms of the Kerr coordinates (6.29), Φ = Φ (r,θ)cos(ωv +νχ)
+
+We take the frequency to be positive: ω > 0. Periodicity of χ requires that the angular momentum is quantised, with ν ∈ Z. The time averaged power absorbed by the black hole is P ¯ = d2A Φ2(r ,θ) ω(ω −Ων)
+
+2 0 + For high frequency waves, this power is always positive, telling us that the black hole absorbs energy as expected. However, for frequencies small compared to the angular momentum of the ingoing wave, ω < Ων the power absorbed is negative. This is the field theoretic version of the Penrose process.
+
+6.3.4 The No Hair Theorem Uniqueness theorems tell us that the Kerr metric is the most general black hole solution to the vacuum Einstein equations. But what if we add further fields to the action? We’ve already seen in Section 6.2 that adding a Maxwell field to the action opens up a new possibility: a black hole solution that carries electric or magnetic charge. There is a generalisation that describes a black hole with both charge and rotation. This amalgam of the Reissner-Nordström and Kerr solutions has metric ds2 = − 1− + dt2 − 2GMr−e2 dtdϕ+ dr2 ρ2 ρ2 ρ2 ∆ sin2θ + (r2 +a2)2 −∆a2sin2θ dϕ2 +ρ2dθ2 ρ2 where ∆(r) and ρ2(r,θ) now take the form ∆ = r2 −2GMr+a2 +e2 ρ2 = r2 +a2cos2θ e2 = Q2 +Q2 4π e m Meanwhile, the gauge field is given by Q r Q cosθ A = − e (dt−asin2θdϕ)− m (adt−(r2 +a2)dϕ)
+
+4πρ2 4πρ2 This is the Kerr-Newman solution.
+
+This is the most general black hole solution of the Einstein-Maxwell equations: the black holes are characterised by mass, M, angular momentum J, and electric and magnetic charges Q and Q . Note that all of these are familiar conserved quantities e m of classical systems.
+
+What about other fields? It turns out that these cannot take on other time-independent profiles in the presence of a black hole. This is known as the no hair theorem. (It is a statement about black holes in asymptotically flat spacetimes; the story is different for black holes in AdS.)
+
+Here we sketch the no hair theorem for a free, massive scalar field Φ. The fact that we’re looking for time-independent solutions means that Kµ∇ Φ = 0 (6.33)
+
+where Kµ is a Killing vector that is timelike outside the horizon. (It is K = ∂ in the usual coordinates.) The action for the scalar field is S = d4x −g −gµν∇ Φ∇ Φ−m2Φ2 scalar µ ν = d4x −g −gtt∂ Φ∂ Φ−2gti∂ Φ∂ Φ−gij∂ Φ∂ Φ−m2Φ2 t t t i i j The fact that we are working in a mixed-signature metric means that the gradient terms come with a mix of signs. However, restricting to time independent configurations (6.33) means that the time derivatives vanish and so gµν∇ Φ∇ Φ ≥ 0. In particular, µ ν this means that the action is the sum of two terms, each of which is non-positive.
+
+The proof of the no hair theorem in this case proceeds in a similar way to our demonstration of superradiance. We integrate over the spacetime region V outside a black hole, as shown in Figure 62. This region is bounded by two spatial hypersurfaces, Σ and Σ , with normal nµ ∼ Kµ, the horizon and an asymptotic region. Integrating 1 2 by parts we have S = d4x −g Φ +gµν∇ ∇ Φ−m2Φ − d3x −γnµΦ∇ Φ scalar µ ν µ V ∂V The first, bulk, term vanishes for any Φ that solves the equation of motion. That leaves the second, boundary, term. This vanishes on the two spatial hypersurfaces by dint of (6.33). It also vanishes on the horizon for the same reason, since the normal to the horizon is Kµ the timelike Kiling vector. That just leaves the asymptotic region. For asymptotically flat spacetimes, it’s not too hard to show that Φ ∼ 1/r as r → ∞, which is fast enough to ensure that there’s no contribution from infinity.
+
+The upshot of this argument is that, when evaluated on a time-independent solution to the equation of motion, we have S = 0 when integrated over any region V of a scalar black hole spacetime. Furthermore, S is the sum of two non-positive terms, so each of these terms must individually vanish. When m ≠ 0, we have m^2 Φ^2 = 0 so the only solution is the trivial one Φ = 0. (When m^2 = 0, we have ∂Φ = 0, so any Φ = constant is allowed.) This is the no hair theorem: the field Φ cannot develop a static profile in the presence of a black hole.

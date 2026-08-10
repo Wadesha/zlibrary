@@ -1,0 +1,5712 @@
+# Geological Field Techniques Angela L Coe Tom W Argles David A Rothery etc Z Library
+
+> 来源文件：pre_Geological_Field_Techniques_Angela_L_Coe_Tom_W_Argles_David_A_Rothery_etc_Z_Library.txt
+> 字符数（约）：626260
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+GEOLOGICAL FIELD TECHNIQUES
+
+Cartoons by Ian Wightman Front cover image: Carboniferous age (Namurian) rocks exposed at Sugar Sands Bay, near Alnwick, Northumberland, UK. These are part of a succession of rocks interpreted as inﬁ ll of an interdistributary bay or lagoon along the shore of a delta. Superimposed on the photograph is part of a graphic log of the succession summarizing the thickness of the units, lithology, sedimentary structures and cycles. (Angela L. Coe, The Open University, UK.)
+
+Back cover images (in descending order): 1. Walcott Quarry, Canadian Rockies during 1998 showing the exposure of the Burgess Shale (Cambrian) that is famous for the exceptional soft body preservation of some of the oldest fossils on Earth. (Angela L. Coe, The Open University, UK.)
+
+2. Geologists working on the organic-rich mudrocks of the Monterey Formation (Miocene), Naples Beach, California, USA. (Anthony S. Cohen, The Open University, UK.)
+
+3. Asymmetric folds in Proterozoic strata, Harvey’s Return, Kangaroo Island, Australia. Lens cap is 5.5 cm across. (Tom W. Argles, The Open University, UK.)
+
+4. A Silva compass-clinometer being used to measure the dip of a fault plane, Whitesands Bay, St David’s, Wales, UK. (Tom W. Argles, The Open University, UK.)
+
+## 5. The ammonite Psiloceras planorbis (J. de C. Sowerby) from the Lias Group, UK
+
+This species deﬁ nes the lowermost ammonite zone of the Jurassic. Ammonite is c. 4 cm across. (Peter R. Sheldon, The Open University, UK.)
+
+Companion Website: A companion resources site for this book is available at www.wiley.com/go/coe/geology With: • All ﬁ gures and tables from the book • Additional excercises and answers • Useful websites, selected by the authors
+
+## GEOLOGICAL FIELD TECHNIQUES
+
+Edited by Angela L. Coe Authors: Angela L. Coe Tom W. Argles David A. Rothery Robert A. Spicer Department of Earth and Environmental Sciences, The Open University, Walton Hall, Milton Keynes, UK A John Wiley & Sons, Ltd., Publication
+
+Published by Blackwell Publishing Ltd in association with The Open University Walton Hall, Milton Keynes
+
+## MK7 6AA
+
+United Kingdom First published 2010 Copyright © 2010, The Open University utilised in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without written permission from the publisher or a licence from the Copyright Licensing Agency Ltd. Details of such licences (for reprographic reproduction) may be obtained from the Copyright Licensing Agency Ltd, Saffron House, 6–10 Kirby Street, London EC1N 8TS (website www.cla.co.uk).
+
+Open University course materials may also be made available in electronic formats for use by students of the University. All rights, including copyright and related rights and database rights, in electronic course materials and their contents are owned by or licensed to The Open University, or otherwise used by The Open University as permitted by applicable law.
+
+In using electronic course materials and their contents you agree that your use will be solely for the purposes of following an Open University course of study or otherwise as licensed by The Open University or its assigns.
+
+Except as permitted above you undertake not to copy, store in any medium (including electronic storage or use in a website), distribute, transmit or retransmit, broadcast, modify or show in public such electronic materials in whole or in part without the prior written consent of The Open University or in accordance with the Copyright, Designs and Patents Act 1988.
+
+Typeset by Toppan Best-set Premedia Limited.
+
+Printed and bound in Malaysia.
+
+The paper used in this publication is procured from forests independently certiﬁ ed to the level of Forest Stewardship Council (FSC) principles and criteria. Chain of custody certiﬁ cation allows the tracing of this paper back to speciﬁ c forest-management units (see www.fsc.org).
+
+Details of Open University courses can be obtained from the Student Registration and Enquiry Service, The Open University, PO Box 197, Milton Keynes MK7 6BJ, United Kingdom (tel. +44 (0)845 300 60 90, email general-enquiries@open.ac.uk).
+
+www.open.ac.uk Library of Congress Cataloging-in-Publication Data Geological ﬁ eld techniques / edited by Angela L. Coe.
+
+p. cm.
+
+Includes bibliographical references and index.
+
+ISBN 978-1-4443-3061-8 (hardback)
+
+ISBN 978-1-4443-3062-5 (paperback)
+
+## 1. Geology–Fieldwork. I. Coe, Angela L
+
+QE45.G46 2010 550.072'3–dc22
+
+2010016419
+
+Contents Preface Acknowledgements 1 INTRODUCTION 1.1 A selection of general books and reference material on geology 1.2 Books on geological ﬁ eld techniques 2 FIELD EQUIPMENT AND SAFETY 2.1 Introduction 2.2 The hand lens and binoculars 2.3 The compass-clinometer 2.3.1 Orientation of a dipping plane 2.3.2 Orientation of a linear feature 2.3.3 Triangulation: Determining location using a compass 2.4 Global positioning systems and altimeters 2.5 Measuring distance and thickness 2.5.1 Standard thickness and distance measurements 2.5.2 Use of the Jacob staff to measure the thickness of inclined strata 2.6 Classiﬁ cation and colour charts 2.7 Hammer, chisels and other hardware 2.8 The hardcopy ﬁ eld notebook 2.9 The laptop, netbook or PDA as a notebook
+
+## 2.10 Writing equipment, maps and relevant literature
+
+2.10.1 Writing equipment 2.10.2 Maps and relevant literature
+
+## 2.11 Comfort, ﬁ eld safety and ﬁ eld safety equipment
+
+2.11.1 Clothes, backpack/rucksack and personal provisions 2.11.2 Field safety 2.11.3 Field safety equipment
+
+## 2.12 Conservation, respect and obtaining permission
+
+## 2.13 Further reading
+
+3 INTRODUCTION TO FIELD OBSERVATIONS AT DIFFERENT SCALES 3.1 Introduction: What, where and how?
+
+3.1.1 Deﬁ ning the ﬁ eldwork objectives 3.1.2 Deciding where to do the ﬁ eldwork 3.1.3 Locating your position 3.2 Scale of observation, where to start and basic measurements 3.2.1 Regional context 3.2.2 Whole exposure 3.2.3 Hand specimens 3.3 Overview of possible data formats
+
+Contents 4 THE FIELD NOTEBOOK 4.1 Introduction: The purpose of ﬁ eld notes 4.2 Field notebook layout 4.2.1 Preliminary pages 4.2.2 Daily entries 4.2.3 General tips 4.3 Field sketches: A picture is worth a thousand words 4.3.1 General principles: Aims, space and tools 4.3.2 Sketches of exposures 4.3.3 Sketching metre- and centimetre-scale features 4.3.4 Sketch maps 4.4 Written notes: Recording data, ideas and interpretation 4.4.1 Notes recording data and observations 4.4.2 Notes recording interpretation, discussion and ideas 4.5 Correlation with other data sets and interpretations 5 RECORDING PALAEONTOLOGICAL INFORMATION 5.1 Introduction: Fossils are smart particles 5.1.1 Why are fossils important?
+
+5.1.2 Collecting fossil data 5.2 Fossil types and preservation 5.2.1 Body fossil classiﬁ cation 5.2.2 Body fossil preservation 5.2.3 Trace fossils 5.2.4 Molecular fossils 5.3 Fossil distribution and where to ﬁ nd them 5.3.1 Transported or life position?
+
+5.4 Sampling strategies 5.4.1 Sampling for biostratigraphic or evolutionary studies 5.4.2 Sampling of bedding surfaces and palaeoecology 5.5 Estimating abundance 5.5.1 Presence/absence and qualitative abundance estimates 5.5.2 Quantitative measures of abundance 5.5.3 How many samples are required?
+
+5.6 Summary 5.7 Further reading 6 RECORDING FEATURES OF SEDIMENTARY ROCKS AND
+
+## CONSTRUCTING GRAPHIC LOGS
+
+6.1 Introduction 6.2 Description, recognition and recording of sedimentary deposits and sedimentary structures 6.2.1 Recording sedimentary lithology 6.2.2 Recording sedimentary structures 6.3 Graphic logs 6.3.1 Conventions for graphic logs 6.3.2 Constructing a graphic log 6.4 Rocks in space: Reconstructing sedimentary environments and their diagnostic features
+
+Contents 6.5 Using sedimentary rocks to interpret climate change and sea-level change 6.5.1 Climate change 6.5.2 Sequence stratigraphy and relative sea-level change 6.6 Further reading 7 RECORDING FEATURES OF IGNEOUS ROCKS 7.1 Equipment, basic tips and safety 7.2 Field relationships of igneous rocks 7.2.1 Relationships with surrounding rocks 7.2.2 Internal architecture: Joints and veins 7.2.3 Internal architecture: Other exposure-scale fabrics 7.3 Mineralogy and small-scale textures of igneous rocks 7.3.1 Petrologic type 7.3.2 Mineral texture and fabric 7.4 Recent and active volcanoes 7.4.1 Equipment and safety 7.4.2 Access 7.4.3 Observations 7.5 Further reading 8 RECORDING STRUCTURAL INFORMATION 8.1 Equipment and measurement 8.1.1 Structural measurements and notations 8.2 Brittle structures: Faults, joints and veins 8.2.1 Planar brittle features – orientation 8.2.2 Determining past motion on brittle structures 8.3 Ductile structures: Shear zones, foliations and folds 8.3.1 Orientation of ductile planar features 8.3.2 Direction of shear/stretching: Stretching lineations 8.3.3 Sense of shear: Kinematic indicators 8.3.4 Magnitude of shear strain 8.3.5 Fold analysis 8.4 Further reading 9 RECORDING FEATURES OF METAMORPHIC ROCKS 9.1 Basic skills and equipment for metamorphic ﬁ eldwork 9.1.1 Field relations and context 9.2 Textures 9.2.1 Banding 9.2.2 Grain textures 9.2.3 Reaction textures 9.3 Mineralogy 9.3.1 Identifying common metamorphic minerals 9.3.2 Using mineral assemblages 9.3.3 Classiﬁ cation of metamorphic rocks 9.4 Unravelling metamorphism and deformation 9.4.1 Pre-kinematic features 9.4.2 Syn-kinematic features 9.4.3 Post-kinematic features 9.5 Further reading
+
+Contents 10 MAKING A GEOLOGICAL MAP
+
+## 10.1 Principles and aims
+
+## 10.2 Preparation and materials
+
+10.2.1 Base maps and other aids 10.2.2 Equipment for mapping
+
+## 10.3 Location, location, location
+
+10.3.1 Equipment 10.3.2 Using base maps
+
+## 10.4 Making a ﬁ eld map
+
+10.4.1 Information to record on ﬁ eld maps 10.4.2 The evolving map 10.4.3 Sketch cross-sections
+
+## 10.5 Mapping techniques
+
+10.5.1 Traverse mapping 10.5.2 Contact mapping 10.5.3 Exposure mapping 10.5.4 Using other evidence
+
+## 10.6 The geological map
+
+10.6.1 Inking in the ﬁ eld map 10.6.2 Cross-sections 10.6.3 Fair copy maps 10.6.4 Digital maps and GIS
+
+## 10.7 Further reading
+
+11 RECORDING NUMERICAL DATA AND USE OF INSTRUMENTS IN THE FIELD
+
+## 11.1 Data collection
+
+11.1.1 Instrument calibration and base stations 11.1.2 Survey grids
+
+## 11.2 Transport and protection of the instruments
+
+## 11.3 Correlation with other data sets
+
+## 11.4 Further reading
+
+12 PHOTOGRAPHY 13 SAMPLING
+
+## 13.1 Selecting and labelling samples
+
+13.1.1 Samples for thin-sections 13.1.2 Orientated samples 13.1.3 Samples for geochemical analysis 13.1.4 Samples for mineral extraction 13.1.5 Samples for fossils 13.1.6 Sampling for regional studies 13.1.7 High-resolution sample sets 13.1.8 Labelling samples and their packaging
+
+## 13.2 Practical advice
+
+13.2.1 Packing and marking materials 13.2.2 Extraction of samples 14 CONCLUDING REMARKS
+
+## 14.1 Further reading on scientiﬁ c report writing
+
+Contents
+
+## REFERENCES
+
+## APPENDIX A1: GENERAL
+
+## APPENDIX A5: FOSSILS
+
+## APPENDIX A6: SEDIMENTARY
+
+## APPENDIX A7: IGNEOUS
+
+## APPENDIX A8: STRUCTURAL
+
+## APPENDIX A9: METAMORPHIC
+
+## APPENDIX A10: MAPPING
+
+Index
+
+Preface Working in the ﬁ eld contributes a crucial element to our knowledge and understanding of Earth processes, whether it is the prediction of volcanic eruptions, understanding periods of past climate change recorded in sedimentary deposits, deciphering an episode of mountain building, or working out where to ﬁ nd mineral resources. Without primary ﬁ eld data and geological samples of the highest quality, further scientiﬁ c study such as sophisticated isotope measurements or the reconstruction of past life assemblages and habitats is at best without context, and at worst, completely meaningless.
+
+Geological ﬁ eldwork can be both fun and challenging. It provides the chance to work outdoors under a range of conditions and to explore our natural world. It also provides an often unparalleled opportunity to travel and visit localities as more than a tourist. Indeed it often takes you to unspoilt parts of the world that tourists rarely penetrate. Almost all ﬁ eldwork enables us to work as part of a team, often with international partners, and this can be one of the most rewarding experiences of being a geologist because we can learn from each other.
+
+Many long - term friendships have been forged through geological ﬁ eldwork.
+
+This book is aimed primarily at undergraduates studying geology and Earth sciences. It will also potentially be of use to engineers, archaeologists and environmental scientists who need to collect information on the bedrock. The increasingly multidisciplinary nature of science will make the text useful to masters, doctoral and professional scientists who do not have a background in practical geology or Earth science. The book is non - site speciﬁ c and includes examples from around the world. There are chapters covering data collection from igneous, metamorphic and sedimentary rocks as well as speciﬁ c chapters on palaeontological and structural data collection. It also deals with the basics of geological mapping.
+
+The book assumes a basic understanding of the main concepts and theory in geology. It assumes that the reader is familiar with: the major rock - forming minerals, how to identify minerals in hand specimen, rock classiﬁ cation, geological processes and common geological terms. The further reading lists at the ends of the chapters provide a selection of introductory geological texts as well as more specialist ones. In addition there are appendices summarizing key geological features and classiﬁ cation schemes. There is also an accompanying website ( www.
+
+wiley.com/go/coe/geology ) with all of the ﬁ gures, tables, links to other websites and other material. Reviews of the original book proposal suggested expansion of certain chapters and even the deletion of others, however, none of the reviewers agreed on which chapters these should be so clearly it is a matter of personal preference. We have therefore kept to the broad overview, and refer the reader to more specialist ﬁ eldwork texts that are available, and hope that this book inspires others to write textbooks on more speciﬁ c ﬁ eldwork topics that are not available.
+
+Writing a book on ﬁ eld techniques has long been an ambition of mine; the style and organization has had a lengthy gestation period during many months of ﬁ eldwork, both as a researcher and a university lecturer. I am delighted that when I was eventually able to spend some time completing this task I was joined by a number of colleagues who had expertise that complemented my own; it has been a pleasure to work with them. I would like to thank all the colleagues, PhD students and undergraduate students that I have worked with. My experience of being with them in the ﬁ eld has helped me to shape this book.
+
+Wishing you both enjoyable and highly productive ﬁ eldwork.
+
+Angela L. Coe The Open University, November 2009
+
+Acknowledgements Ian Francis and Kelvin Matthews of Wiley - Blackwell are thanked for their support and advice and for managing the production of this book. We are grateful to Harry Langford for copy editing. We would also like to thank Jim Iley of The Open University and Susan Francis and Matt Lloyd of Cambridge University Press for their enthusiastic support in the initial stages of this project. The help of The Open University co - publication team  – Giles Clark, David Vince and Christianne Bailey  – is gratefully acknowledged. Ruth Drage is thanked for her help in managing the artwork part of the project and for her input to the book design.
+
+We are very grateful to Tiffany Barry, Kate Bradshaw, Richard Brown, Brian McDonald, Susan Ramsay, Janet Sumner, Paul Temple and Clare Warren, all of whom were brave enough to lend us their ﬁ eld notebooks for reproduction in this book. We are also grateful to Kate Andrew and Susie Clarke who kindly allowed us to copy part of their geological ﬁ eld and fair copy maps. The unpublished ﬁ eld notes of these individuals are accredited in the ﬁ gure captions.
+
+Many thanks go to Ian Wightman whose inspiring and amusing cartoons have livened up this book.
+
+Andrew Tindle (The Open University) is thanked for his excellent photography of most of the hand specimens (particularly Chapters 8 and 9) and for providing a set-up for photographing specimens and ﬁ eld notebooks. Various colleagues have allowed us to reproduce their photographs in this book, for which we are grateful. These individuals are acknowledged in the ﬁ gure captions. Andrew Whitehead and David DuPlessis with the help of Chris Hough and Jon Owen (The Open University) prepared the ﬁ nal version of the ﬁ gures. Richard Howes is thanked for general assistance with the electronic ﬁ les. We are grateful to Andrew Lloyd for help with scanning, image processing and also for contributing to the design and preparation of the cover image for this book.
+
+We are grateful to all of the anonymous academic reviewers contacted by Wiley - Blackwell and Cambridge University Press who provided feedback and ideas on the book proposal. Susan Ramsay (University of Glasgow), Ian Parkinson (The Open University), Clare Warren (The Open University) and two anonymous reviewers contacted by Wiley - Blackwell are thanked for their comments on earlier versions of this manuscript.
+
+Last, but not least, we would like to thank our ﬁ eld colleagues, and students, for interesting and stimulating discussion in the ﬁ eld.
+
+Figure acknowledgements Grateful acknowledgement is made to the following sources for previously published ﬁ gures (for full references see pp. 261 – 262): Map extracts in Figures 2.11, 2.12, 10.1a, 10.1b and 10.5. Reproduced with permission of the Ordnance Survey on Hill, C. R. 1979.  ‘ Principal components.  … ’ Review of Palaeobotany and Palynology. Elsevier Inc; Figure 6.10: Coe, A. L.
+
+1996.  ‘ Unconformities within.  … ’ in Special Publication No. 103, 1996. The Geological Society, London; Figures 6.13b and 6.14: Alexander, J. 1992.  ‘ Nature and origin of.  … ’ , Journal of the Geological Society, Vol 149. Copyright  © 1992 The Geological Society; Figure 7.16: Lippard, S. J.  et al . 1986. The Ophiolite of Northern Oman. Copyright  © 1986 The Geological Society; Figure 10.2b: Watts, D. R.  et al . (2005)  ‘ Mapping granite and.  … ’ , Geological Society of America Bulletin, Vol. 117. Copyright  © 2005 Geological Society of America; Figure A5.4: After Goldring, R. 1991. Fossils in the Field. Copyright  © 1991 Longman Group UK Limited; Figure A5.6: After North American Commission on Stratigraphic Nomenclature 1983. AAPG  © 1983. American Association of Petroleum Geologists; Figures A6.9a, A6.9b and A6.13: After Stow, D. A. V. 2005. Sedimentary Rocks in the Field. Copyright  © 2005 Manson Publishing Ltd; Figure A10.2: After McClay, K. R. 1991. The Mapping of Geological Structures. Geological Society of London Handbook.
+
+Copyright  © K. R. McClay. John Wiley and Sons.
+
+Every effort has been made to contact copyright holders. If any have been inadvertently overlooked we will be pleased to make the necessary amendments at the ﬁ rst opportunity.
+
+Introduction Introduction Angela L.  Coe The main aim of ﬁ eld geology is to observe and collect data from rocks and/or unconsolidated deposits, which will further our understanding of the physical, chemical and biological processes that have occurred over geological time. Many of the basic observational principles used in ﬁ eld geology have not changed for hundreds of years, although the interpretation of the data, the scale of resolution and some of the equipment has advanced greatly. Fieldwork involves making careful observations and measurements in the ﬁ eld (Figure  1.1 a) and the collection and precise recording of the position of samples for laboratory analysis (Figure  1.1 b). The very act of collecting ﬁ eld data often raises questions about processes on Earth, which had perhaps not previously been envisaged.
+
+Furthermore, during ﬁ eldwork it is usual to initiate, or to build on, constructing and testing different hypotheses and interpretations based on the observations; this iterative process will help to determine the essential data and samples to collect.
+
+This book is divided into 14 chapters. Chapter  2 covers the most commonly used ﬁ eld equipment and outlines ﬁ eld safety procedures. Chapter  3 explores the general objectives of ﬁ eldwork and how to make a start. Chapter  4 is devoted to the production of a ﬁ eld notebook (hard copy or electronic), as this is the key record of geological ﬁ eld data. The bulk of the book comprises ﬁ ve chapters covering the necessary skills for the collection of palaeontological (Chapter  5 ), sedimentological (Chapter  6 ), igneous (Chapter  7 ), structural (Chapter  8 ) and metamorphic data (Chapter  9 ). Chapter  10 uses the ﬁ eld techniques covered in the previous ﬁ ve chapters to introduce geological mapping, where it is usually necessary to deal with a range of rock types and different kinds of exposure * . The book concludes with short chapters on recording numerical and geophysical data (Chapter  11 ), photography (Chapter  12 )
+
+and sampling (Chapter  13 ).
+
+* The term exposure is used to indicate areas where rocks are visible at the Earth ’ s surface. This is in contrast to the term outcrop which also encompasses those areas where the rock is at the Earth ’ s surface but is covered by superﬁ cial deposits and soil.
+
+Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Figure 1.1  (a) Geologists collecting data for a graphic log (Section  6.3 ) to record how a sedimentary succession has changed through time and to decipher the overall depositional environment.
+
+By working together they can share tasks and discuss their observations.
+
+(b) The recessed bed marks the Cretaceous – Paleogene boundary at Woodside Creek, near Kekerengu, New Zealand. Note the holes where samples have been extracted for palaeomagnetism studies. In this case the number of holes is rather excessive and breaks the code of good practice (Section  2.12 and Chapter  13 ). (a and b: Angela L. Coe, The Open University, UK.)
+
+(a)
+
+(b)
+
+## 0.5
+
+Introduction Field geology presents four main intellectual challenges. These are:
+
+## 1.  Deciding what data to collect in order to address the
+
+scientiﬁ c question(s).
+
+## 2.  Finding the most suitable exposures from which to collect
+
+the data.
+
+## 3.  Making a good record of the data collected; preferably a
+
+record that can be understood by others and can be used years after the data were collected.
+
+## 4.  Understanding and interpreting the basic observations that
+
+you make.
+
+This book deals with challenges 1, 2 and 3. Challenge 4, interpreting the observations, is to a large extent a matter of experience and having a good theoretical understanding of geology and geological processes. There are many general geological and Earth science textbooks on the market, a selection of which are included in the further reading lists at the end of each chapter. Deciding what data to collect relates directly to the objective of the ﬁ eldwork (Chapter  3 ). Some typical overall objectives are: constructing the geological history of a region (Chapter  10 ), collecting data on a period of climate change (Chapter  6 ), gathering evidence for a mass extinction event (Chapter  5 ), understanding a phase of igneous activity (Chapter  7 ) or mountain building (Chapters  8 and  9 ), together with ﬁ nding and evaluating mineral or water resources and understanding natural hazards (e.g. landslides, earthquakes and ﬂ oods; Chapters  6 and  8 ). Within each of these major objectives the ﬁ eldwork should be broken down into achievable daily tasks. Locating the most suitable exposures is crucial if the objective of the ﬁ eldwork is anything other than detailed mapping where ideally all exposures need to be examined. The different types of exposure are dealt with in Chapters  3 and  10 , and more speciﬁ c examples are given in Chapters  5 – 9 .
+
+Throughout the book, but particularly in Chapter  4 , we have provided ideas and examples for constructing effective ﬁ eld notebooks. We have also added practical tips in the margin, and ﬂ owcharts for deductive thinking processes and tasks. In Chapters  5 – 10 we have used worked examples to demonstrate both the method of reasoning and the way in which particular problems have been tackled.
+
+## 1.1  A selection of general books and
+
+reference material on geology Allerby ,  M.  2008 .  A Dictionary of Earth Sciences ,  Oxford University Press , 672 pp.
+
+Introduction Bishop ,  A. ,  Woolley ,  A.  and  Hamilton ,  W.  1999 .  Minerals, Rocks and Fossils ,  Cambridge University Press , 336 pp. [Small book with colour photos and brief, reliable descriptions of minerals, rocks and fossils.]
+
+Cockell ,  C. ,  Corﬁ eld ,  R. ,  Edwards ,  N. E.  and  Harris ,  N. B. W.  2008 .  An Introduction to the Earth - Life System ,  Cambridge University Press and The Open University , 328 pp. [Full colour book covering Earth system science at the Earth ’ s surface with particular reference to life systems.]
+
+Grotzinger ,  J. ,  Jordan ,  T. H. ,  Press ,  F.  and  Siever ,  R.  2006 .
+
+Understanding Earth ( 5th edition )  W. H. Freeman  & Co. , 670 pp.
+
+[An outstanding, clearly written, widely used introduction to Earth sciences with many colour illustrations providing a global perspective.]
+
+Keary ,  P.  2005 .  Penguin Dictionary of Geology ,  Penguin , 336 pp.
+
+Murck ,  B. W.  2001 .  Geology: A Self - teaching Guide ,  John Wiley & Sons , 336 pp.
+
+Rogers ,  N. W. ,  Blake ,  S. ,  Burton ,  K. ,  Widdowson ,  M. ,  Parkinson ,  I.  and Harris  N. B. W.  2008 .  An Introduction to Our Dynamic Planet , Cambridge University Press and The Open University , 398 pp. [Full colour book covering the solid Earth aspects of Earth system science, including planetary formation, the Earth ’ s structure, plate tectonics and volcanology.]
+
+Rothery ,  D. A.  2010 .  Teach Yourself Geology ( 4th edition ),  Hodder and Stoughton ,  288 pp. [Covers all of the basics and is useful as either a primer or a refresher.]
+
+Stanley ,  S.  2005 .  Earth System History ,  W. H. Freeman  & Co. , 567 pp.
+
+[Accessible look at the Earth as a system. Extensively illustrated in full colour.]
+
+## 1.2  Books on geological ﬁ eld techniques
+
+Compton ,  R. A.  1985 .  Geology in the Field ,  John Wiley & Sons , 398 pp. [Comprehensive but dense black and white book on basic geology and ﬁ eld techniques. Replacement of Compton ’ s  Manual of Field Geology (1962).]
+
+Freeman ,  T.  1999 .  Procedures in Field Geology ,  Blackwell Science , 93 pp. [Pocket sized, black and white book covering mainly mapping techniques, with particular emphasis on compass- clinometer and trigonometric solutions for recording the geometry of geological features.]
+
+Maley ,  T. S.  2005 .  Field Geology Illustrated ,  Mineral Land Publications , 704 pp. [Book illustrating geological features and terms through hundreds of clear black and white photographs and line drawings.]
+
+See also: Barnes  and Lisle 2003 (Section  10.7 ); Fry 1991 (Section  9.5 ); McClay 1991 (Section  8.4 ); Stow 2005, Tucker 2003 (Section  6.6 ); and Thorpe and Brown 1991 (Section  7.5 ).
+
+Equipment Field  e quipment and  s afety Angela L.  Coe This chapter covers general geological ﬁ eld equipment and its use. It also provides an overview of the health and safety requirements in the ﬁ eld. More specialist ﬁ eld equipment and safety considerations are covered within Chapters  5 – 10 where appropriate. Sampling is covered as a separate topic in Chapter 13 and photographic equipment is brieﬂ y reviewed in Chapter 12 . All the health and safety notes provided in this book are generic. Other sources and regulations will need to be consulted and followed depending on the ﬁ eld area, the country, the nature of the ﬁ eldwork and the regulations of your employer or educational institution.
+
+## 2.1  Introduction
+
+Before going out into the ﬁ eld it is necessary to: (1) assemble all of the ﬁ eld equipment that you might need; (2) assess any safety issues; and (3) if necessary obtain permission to visit the area. Both the safety and permission aspects may require documentation to be completed. Exactly what equipment you will need depends on the type of ﬁ eldwork you will be undertaking. The items required for most ﬁ eldwork tasks are listed in Table  2.1 , and the equipment usually needed for sampling in Table  2.2 on p.  6. Optional equipment and that needed for more specialist tasks is listed in Table  2.3 on p.  6.
+
+Quantiﬁ cation of  g eological  o bservations In almost all cases geological observations should be quantiﬁ ed because of the need to construct accurate and precise records.
+
+This is achieved through the use of measuring tapes, a compass - clinometer, rock comparison charts and more sophisticated geophysical equipment. This chapter provides information on how to master the basic geological measurements. More advanced techniques and those applicable to particular rock types are covered in the later chapters and more specialist books.
+
+Table 2.1  Equipment required for most geological ﬁ eldwork.
+
+Clothing and safety equipment is discussed in Section  2.11 .
+
+Essential ﬁ eld equipment Field notebook Pencils, eraser, pencil sharpener A few coloured pencils Tape measure, surveyor ’ s tape or folding ruler Hand lens Compass - clinometer Comparison and identiﬁ cation charts appropriate to the task Relevant topographical maps First aid kit and any personal medical supplies that might be required Backpack/rucksack Food and water sufﬁ cient for the ﬁ eldwork period Emergency food supplies Suitable clothing and footwear Spare clothing and/or sunblock as appropriate Mobile phone, radio or satellite phone Safety equipment as appropriate Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Equipment How accurate the measurement needs to be, or whether an estimate is sufﬁ cient, depends on the objective of the exercise and the quality of the exposure. For example, if all you need is a general description of a sandstone body it may be sufﬁ cient to describe it as a sandstone with beds of variable thickness between about 10 cm and 2 m. However, if you need to sample the sandstone or determine how the thickness of the individual units varies laterally then it will be necessary to measure the thickness of each of the units. Equally in most cases there is a need to record the azimuth (direction relative to north) and the magnitude of the vertical angle or dip to the nearest couple of degrees rather than just the general direction. This is because of the need to convey important information on the direction of different processes (e.g. folding or palaeocurrents) and, importantly, enable an accurate record of the geometry of rock units to be calculated and recorded.
+
+## 2.2  The  h and  l ens and  b inoculars
+
+The hand lens is an essential piece of equipment for the detailed observation of all rock types and fossil material. Most have a lens with 10 × magniﬁ cation and some contain both a 10 × and a 15 × or 20 × lens (Figure  2.1 ). If your eyesight is poor, a better quality lens will often help, especially a larger lens. It is also possible to obtain lenses with built - in lights, which can enhance the image considerably, e.g. Figure  2.1 ; lenses 2 and 3.
+
+To use the hand lens, ensure that you are standing ﬁ rmly or sitting down. Examine the specimen carefully ﬁ rst with the naked eye to ﬁ nd an area where it is fresh rather than weathered or covered in moss or lichens or algae, and also so that you can see where there are areas of interest such as well deﬁ ned grains or crystals. If necessary, to ensure that when you look through the lens you have the correct area, place your ﬁ nger tip or thumb tip as a marker adjacent to the area of interest identiﬁ ed with your naked eye. Place the lens about
+
+## 0.5 cm away from your eye. Then, gradually move either the
+
+rock if it is a hand specimen, or yourself and the lens if it is an exposure, until the majority of the ﬁ eld of view comes into focus (usually about 1 – 4 cm away; Figure  2.2 ). Not all of the rock ’ s surface will be in focus at the same time because of its unevenness. You will need to rotate the hand specimen or move your position to look at different areas. In the case of some metamorphic rocks and carbonate sedimentary deposits it is also useful to examine a weathered surface because the minerals or grains sometimes weather out and are often easier to see.
+
+Binoculars can be very useful during ﬁ eldwork. They can be used to assess access, for instance in mountain regions.
+
+However, their most common use is to obtain a better view of Figure 2.1  A variety of different hand lenses. (1) Standard 10 × single lens; (2) 10 × lens with built - in light  – the lens casing matches the focal length; (3) 8 × lens with built - in light; (4) 10 × and 15 × dual lens.
+
+Figure 2.2  Photograph to show correct use of the hand lens. Note that the person is holding the lens close to his eye. The lens is fastened on a lanyard around his neck for ease of access and use.
+
+Equipment the details within parts of an exposure that are impossible to reach safely, or are simply better viewed from a distance (e.g.
+
+geometry of features such as faults and river channel inﬁ lls).
+
+They are particularly useful for examining the detail of contacts between different units in vertical sea cliffs and quarry faces. A wide range of good quality lightweight binoculars is available on the market.
+
+## 2.3  The  c ompass - c linometer
+
+The compass - clinometer is used to measure: (1) the orientation of geological planes and lineations with respect to north; and (2) the angle of dip of geological features with respect to the horizontal. This allows an accurate record of the geometry of the features to be constructed. The compass - clinometer can also be used in conjunction with a topographic map to accurately determine location.
+
+There are two main types of compass - clinometer design on the market (Figure  2.3 , pp.  8 – 9): the ﬁ rst type is made by Brunton, USA, Freiberger, Germany and Breithaupt, Germany; the second type is made by Silva and Suunto, both based in Sweden. The Brunton - type compass-clinometer is a more sensitive device because of the in - built spirit levels and the graduation of the scales in 1 ° rather than 2 ° increments. The Brunton - type can also be used for more tasks (see below); however, it is bulkier, more expensive and for some functions more difﬁ cult to use. The accuracy of the Silva - type compass- clinometer is sufﬁ cient for most purposes and is much better designed for directly transferring compass directions to a map (Section  2.3.3 ). Because the design of the two compass - clinometers is different, their operation for some measurements is also different. Instructions for both types of compass - clinometer are provided in this section * .
+
+The compass - clinometer is both a magnetic compass and a device to measure the magnitude of the angle of dip of a surface from the horizontal. In order to do this it has two needles and two quite different scales (Figure  2.3 b and d). When the compass - clinometer is orientated with the compass window horizontal the magnetic needle will always point towards magnetic north  – unless, that is, there is another magnetic body that is affecting it such as your hammer, a metal pen or a large magnetic body of rock. In addition if you are at very high latitudes compasses do not work well. Associated with the magnetic needle is a circular dial on the outside of the compass Table 2.3  Optional and specialist ﬁ eld equipment.
+
+Optional and specialist equipment Mapping pens/ﬁ ne tipped pens Relevant literature Handheld GPS Camera (Chapter 12)
+
+Geophysical tools (Chapter 11)
+
+Penknife Weak hydrochloric acid ( c. 10%)
+
+Clipboard or mapping case Rule and protractor Mapping pens, coloured pencils Binoculars Scratch/streak plate Pocket stereoscope Geological Munsell colour chart Jacob staff Hand brush to clean exposure Hoe pick for cleaning sections * Apple have incorporated both a digital tilt meter (clinometer) and a compass in their iPhone making it possible to measure dips and strikes of planes and lineations. However, there is no sighting apparatus so it is not possible to do everything you can with a compass - clinometer.
+
+Table 2.2  Typical sampling equipment. See also Chapter  13 .
+
+Sampling equipment Geological hammer Sample bags Paper, cling ﬁ lm or bubble wrap to wrap delicate samples Marker pens/tile scribe/correction ﬂ uid for labelling Chisels and other hammers Trowel and/or spade for soft sediments and pyroclastic deposits
+
+Equipment window that provides a measure of the azimuth in degrees away from north. The azimuth method for determining direction uses a circle with the value increasing clockwise from north at 0 ° ( = 360 ° ). On the Silva - type the dial can be rotated to place the needle at 0 ° . The azimuth reading for the direction in which the sight at the end of the mirror is pointing can be read off using the  ‘ marker for azimuth reading (1) ’ (Figure 2.3d). Note that because the azimuth scale is ﬁ xed in the Brunton - type and the needle moves relative to this the compass is numbered and labelled anticlockwise. The azimuth for the direction in which the long sight on the Brunton - type is pointing (Figure 2.3b) is the reading at the north end of the compass needle. Compass directions from north can either be reported approximately, e.g.
+
+northwest, east, etc., or to the nearest degree. The Brunton - type compass also has a built - in locking pin for the magnetic needle to temporarily hold the needle in place when a reading is taken (Figure  2.3 c).
+
+The design and working mechanism of the clinometer part of compass - clinometers varies between the different makes and models. However, the principle of the clinometer is exactly the same. On both types of compass there is a scale on the inner part of the compass window to measure the magnitude of the angle between the needle and the horizontal (clinometer scale; Figure  2.3 b, d and e). To use the clinometer part, the instrument needs to be held with the compass window vertical and the long edge at the same angle as the dipping surface. In the case of the Brunton - type the long edge adjacent to the east on the azimuth scale needs to be at the base because of the way the clinometer scale is orientated. The Brunton - type compass has a clinometer arm, the position of which can be adjusted using the lever on the back of the device (Figure  2.3 c). When it is correctly adjusted for a particular dip angle the bubble in the long level should be in the centre. In contrast, the Silva - type has a clinometer needle that ﬂ oats free and vertically downwards when the device is held on its edge vertically. The clinometer needle will hold its position if the instrument is carefully tilted about 20 ° from the vertical to the horizontal. In order to measure the dip on the Silva - type the compass dial needs to be set so that (i) the  ‘ marker for azimuth reading (1) ’ (Figure 2.3d) is at 90 ° or 270 ° and (ii) the long edge of the compass - clinometer is orientated so that the clinometer scale is at the bottom where the clinometer needle is located. It may help to think of the clinometer as a protractor within the compass housing with a plumb line (the needle) indicating the magnitude of the angle relative to the horizontal. To test how your model works try holding the compass - clinometer as if it was on a horizontal plane and then increasing the angle to 45 ° and then to 90 ° . The operation of both types of compass - clinometer for speciﬁ c applications is explained and illustrated later in this section.
+
+BEWARE! Compasses can be affected by rocks containing magnetic minerals (e.g.
+
+serpentinite, gabbro), iron objects (gates, hammers, cars), and wires with electric currents passing along them (e.g. power lines). Always check odd readings!
+
+Equipment azimuth scale horizontal level (a)
+
+(b)
+
+(c)
+
+declination adjustment screw magnetic needle clinometer arm long edge round level long level peep sight peep sight peep sight peep sight window in mirror sighting mirror long sight clinometer scale pin to lock magnetic needle hinge clinometer adjuster for clinometer arm (arrows show movement)
+
+lock for compass needle (arrow shows movement)
+
+compass window long sight Figure 2.3  Labelled photographs of the parts of two of the most commonly used types of compass - clinometer.
+
+These terms are referred to in the text and in other ﬁ gures. (a) – (c) The Brunton - type compass - clinometer: in this case the Brunton Geo. Views: (a) side; (b) top; (c) bottom.
+
+Equipment compass dial with azimuth scale declination adjustment screw declination screwdriver magnetic needle clinometer needle clinometer needle sighting mirror sight clinometer scale clinometer scale N–S grid lines outline for alignment of magnetic needle marker for azimuth reading (2)
+
+(d)
+
+(e)
+
+marker for azimuth reading (1)
+
+sight declination screwdriver compass window back of compass window long edge (d) – (e) Silva - type compass-clinometer: in this case the Silva Expedition 15TDCL. Views: (d) top; (e) bottom. There are small variations from model to model, with more features on some models.
+
+Compass - clinometers from other manufacturers have similar features.
+
+Figure 2.3 Continued
+
+Equipment Magnetic  d eclination The Earth ’ s rotational pole (true north) is not coincident with magnetic north and varies by as much as 30 ° either side of true north and even greater closer to the poles. Not only that, this declination varies with geographical location  and over time. On maps the N – S grid lines are orientated as close as possible to true north but again this varies by a very small amount depending on your location. This is because grid systems are rectangular but meridians (lines of longitude) converge towards the Earth ’ s pole (Figure  2.4 ).
+
+Before taking any azimuth readings it is strongly advised that you adjust your compass for magnetic declination for the area you are visiting and the year so that there are no resulting errors in the azimuth measurement. It is a good idea to also make a note of what you have done in your ﬁ eld notebook so that there is no ambiguity later. The less favoured alternative is to make a note at the start of your ﬁ eld notes for that locality that the readings need adjusting for magnetic declination and then to correct them after you return from the ﬁ eld,  except, that is, if you are using your compass for triangulation to plot your position (Section  2.3.3 ) or if you are plotting measurements directly on the base map  – i.e. the topographical map onto which geological data will be added (Chapter  10 ). In this case it must be adjusted at the time of the measurement if your readings are to be accurate.
+
+Adjusting your compass to take the magnetic north variation into account is easy. On the compass dial or side of the compass there is a screw, the declination adjustment screw (Figure  2.3 a and e, pp.  8 – 9); turn this screw by the amount of declination relative to grid north for the area and year using either a screwdriver or, for the Silva - type, the tool provided. To ﬁ nd out how much the magnetic declination is for the area there are three possibilities: (a) consult the legend of the topographical map of the area, taking note of changes since the publication date; or (b) use one of the many web pages now available that will calculate the declination for the area where you are completing ﬁ eldwork; or (c) determine the declination yourself in the ﬁ eld as follows.
+
+## 1.  Ensure that the magnetic declination on the compass -
+
+clinometer is set to 0 ° .
+
+Figure 2.4  (a) Simpliﬁ ed sketch of the Earth to show the relationship between magnetic declination, magnetic north, true north and, via the inset, the longitude, latitude and a grid system (in this case the UK grid squares). (b and c) Typical map information showing magnetic north, true north and grid north. The adjustment of the magnetic declination is shown by the red arrows; (b) is for a westerly declination of magnetic north from true north and (c) is for an easterly declination.
+
+true north west declination east declination grid lines agonic line (zero declination)
+
+Grid N Grid N True N True N Magnetic N Magnetic N longitude (meridians)
+
+latitude magnetic north pole (a)
+
+(b)
+
+(c)
+
+Equipment
+
+## 2.  Stand at a known location and take a bearing on a feature
+
+identiﬁ ed on a map of the area (Section  2.3.3 explains how to do this).
+
+## 3.  Compare the compass reading with the azimuth between
+
+your location and the feature provided by the map; the difference is magnetic declination.
+
+## 4.  Alternatively use a straight feature on the map such as a
+
+wall or forest boundary and compare the reading from sighting along the linear feature with that given on the map.
+
+Once you have determined the declination ensure that you adjust the declination in the correct direction. On the Silva - type compass the numbers increase in a clockwise direction whereas they increase in an anticlockwise direction on the Brunton - type. This is because of the different way in which the dial works; when used correctly they will give exactly the same azimuth reading.
+
+2.3.1  Orientation of a  d ipping  p lane The most common type of measurement in geology is the orientation of a dipping plane: for instance a bedding plane, a cleavage plane or a fault plane. The following three parameters need to be measured and recorded: (1) maximum angle at which the plane dips (dip magnitude) in degrees relative to the horizontal; (2) the orientation of the plane relative to north (strike, i.e. orientation of the  horizontal line deﬁ ned by the plane) in degrees; and (3) the general dip direction (Figure  2.5 )
+
+because from the strike alone the plane could be dipping in one of two directions at 180 ° to each other. To prevent confusion, strike is always recorded as a three-digit number and dip as a two-digit number. Apart from this convention on the number of digits, there are several equally valid and commonly used notations to combine the dip and strike; these are summarized later in Table  8.1 . For clarity, a consistent style of notation should be chosen.
+
+Determination of the  o rientation of a  d ipping  p lane by the  c ontact  m ethod The orientation of a dipping plane is most commonly measured using the contact method. This is illustrated for the Silva - type compass - clinometer in Figure  2.6 (pp.  12 – 13) and the Brunton - type compass - clinometer in Figure  2.7 (pp.  14 – 15). The exact order that you complete the steps and obtain the strike and dip of the plane is not crucial; this will depend on the instrument used, ﬁ eld conditions and personal preference. What is important is ensuring that you record the three pieces of information (strike, dip magnitude and dip direction). Note that the order of the steps in Figures  2.6 and  2.7 is different to take account of the Figure 2.5  Sketch to show strike, dip magnitude and dip direction of a plane. See also Figures  2.6 and  2.7 . Using the north arrow shown this imaginary plane is striking east – west (270 ° or 090 ° ) and dipping to the north.
+
+Any direction down the dipping plane that is not at right angles to the strike will be an apparent dip direction and will have a smaller dip magnitude than the true dip magnitude.
+
+dipping plane dip magnitude dip direction strike N
+
+Equipment Read off the maximum dip. In this case it is 12°. Note that the dip can be read from either side of the Silva-type compass-clinometer.
+
+## 1. General orientation
+
+## 2. Set the clinometer mode
+
+## 3. Dip magnitude
+
+Find a good surface that is representative of the overall dip of the plane to measure.
+
+Determine the general direction of dip by looking at the plane or you can pour fluid over the bedding plane to see which way it runs.
+
+In some cases it may be necessary to smooth out the variations on the surface by placing a notebook or clipboard on the bedding plane, but take care to ensure that this is not biased by a small irregularity. Hammer near left hand side shows the plane chosen in this case.
+
+Prepare the compass-clinometer for the clinometer mode by setting the top of the clinometer part so that it is parallel to the long edge of the compass-clinometer (i.e. put the compass dial at 90–270°).
+
+Place the long edge that is at the base of the clinometer scale on the bedding plane, with the long edge of the compass-clinometer parallel to where you estimate the maximum dip direction lies (i.e. pointing down the slope).
+
+While looking at the clinometer reading, carefully rotate the compass-clinometer device slightly (as shown by the arrows) to find the line of maximum dip.
+
+W E Figure 2.6  How to use the Silva - type compass - clinometer to measure the orientation and dip of a plane using the contact method. The parts of the compass - clinometer are shown in Figure  2.3 d and e.
+
+Equipment
+
+## 4. Strike direction
+
+## 5. Dip direction
+
+## 6. Record
+
+The strike direction is exactly perpendicular to the dip direction, so remembering where the maximum dip lies, lift the compass- clinometer and place the long edge of the compass-clinometer along the line of strike.
+
+Pivot the compass-clinometer window (as shown by the red arrow) until it is horizontal.
+
+Rotate the compass dial so that the compass needle lines up with the red outline for the north direction, checking that the compass- clinometer is still horizontal. Take the reading of the strike from the dial. In this case it is 008° or the other end of the line, 188°.
+
+You can double check that the strike direction is correct by placing the compass on its long edge along the strike line and checking that the dip is 0° (don’t forget to adjust the compass to the clinometer mode (step 2)).
+
+The last measurement is the direction of dip to the nearest cardinal point (e.g. NW or SE, E or W).
+
+In this case it is E.
+
+Record the orientation of the plane in your notebook; in this case 008/12E. Note that the strike is always recorded as a 3-digit number to avoid any confusion and that the degree symbols are not normally shown to prevent any confusion with zeros.
+
+Figure 2.6 Continued
+
+Equipment
+
+## 1. General orientation
+
+## 2. Strike direction
+
+Determine the general direction of strike to within c. 20° by noting where the maximum dip lies; the strike is at 90° to this. In some cases it may be necessary to smooth out the variations on the surface by placing a notebook or clipboard on the bedding plane but take care to ensure that this is not biased by a small irregularity. Hammer shows the plane chosen in this case.
+
+Place the long edge of the compass- clinometer down where you roughly estimate the line of strike is. Using the round spirit level, position the compass exactly horizontal by both: (i) Tilting the compass about its short axis so it is horizontal (as shown by the red arrow); (ii) Slightly pivoting the long edge of the compass in contact with the bedding plane about its central point (as shown by the red arrow) to obtain the exact line of strike within your 20° window.
+
+W E Figure 2.7  How to use the Brunton - type compass - clinometer to measure the orientation and dip of a plane using the contact method. The parts of the compass - clinometer are shown in Figure  2.3 a – c.
+
+Equipment
+
+## 3. Dip magnitude
+
+Remembering exactly where the line of strike is, place the long edge of the compass-clinometer at 90° to this on the bedding plane. Ensure that the clinometer scale is on the side in contact with the rock. Move the clinometer arm until the bubble in the long spirit level indicates that it is level.
+
+Read off the maximum dip.
+
+In this case it is 12°.
+
+## 4. Dip direction
+
+## 5. Record
+
+The last measurement is the direction of dip to the nearest cardinal point (e.g. NW or SE, E or W).
+
+In this case it is east.
+
+Record the orientation of the plane in your notebook; in this case 008/12E. Note that the strike is always recorded as a 3-digit number to avoid any confusion and that the degree symbols are not normally shown to prevent any confusion with zeros.
+
+Take the reading of the strike from the dial.
+
+In this case it is 008° or the other end of the line, 188°.
+
+Figure 2.7 Continued
+
+Equipment easiest way to measure a dipping plane with the different instruments. If this technique is new to you, or the reading seems unreasonable, or the bedding surface is not ideal, take a second or even third reading and use the average or the best one.
+
+Determination of the  o rientation of a  d ipping  p lane u sing the  c linometer  h inge of the Brunton - t ype c ompass - c linometer You can also use the graduated hinge ( ‘ hinge clinometer ’ ; Figure  2.3 a) of the Brunton Geo or the Freiberger Stratum compass - clinometer to measure the dip magnitude. This feature is cleverly designed so that you can measure both the azimuth of the dip direction (at 90 ° to the strike) and the dip magnitude in one go without needing to move the compass - clinometer to obtain the two readings (Figure  2.8 a). To measure the orientation of a plane using the hinge clinometer:
+
+## 1.  Place the compass - clinometer on the dipping plane with
+
+the back of the mirror part ﬂ at on the plane (Figure  2.8 ).
+
+## 2.  Keeping the back of the mirror ﬂ at on the plane, rotate the
+
+compass window to the horizontal using the round spirit level (Figure  2.8 a).
+
+## 3.  Note the two readings; the hinge clinometer shows the
+
+magnitude of the dip (Figure  2.8 b) and the compass needle shows the dip azimuth (Figure  2.8 c).
+
+The strike can be obtained by subtracting or adding 90 ° to the dip azimuth. If you record the strike you will also need the general dip direction (e.g. east). Note that if you are quoting dip azimuth rather than the strike it is important to check that you are not 180 ° out and to make it clear that this is what you are recording (see Section  8.1.1 and Table  8.1 for further discussion).
+
+2.3.2  Orientation of a  l inear  f eature The need to measure the orientation of linear features is common in sedimentary rocks (Chapter  6 ) and rocks that are deformed (Chapter  8 ). The steps are similar to measuring a plane except that in this case the orientation of the feature with respect to north (the azimuth) is recorded by orientating the long edge of the compass - clinometer parallel to the linear feature (Figures  2.9 and  2.10 , pp.  18 – 19 and 21). As for a dipping plane the azimuth should be recorded as a three - digit number and the plunge as a two - digit number. Alternative notations for the notebook to that shown in Figures  2.9 and
+
+## 2.10 are shown later in Table  8.1
+
+Equipment (a) )
+
+( )
+
+b ( W E Figure 2.8  Measurement of the dip direction and dip magnitude of a plane with the Brunton Geo compass - clinometer in one position. (a) Side view of the compass - clinometer in position for measuring both the dip magnitude and dip azimuth. (b) Close up view of the hinge area. The dip magnitude is read off where the top of cut - out intersects with the scale; in this case it is 12 ° . Note also the extra spirit level on the side indicating that the compass window is horizontal. (c) View of the compass window showing that the compass window is level (round spirit level) and that the dip azimuth is 098 ° . This bedding plane is thus orientated at 008/12E.
+
+Equipment
+
+## 1. General orientation
+
+Assess the linear feature and select a clear part to measure. In this case the feature is current lineation on a sedimentary bedding surface (parallel to the penknife). This feature can be used to obtain a palaeocurrent flow direction.
+
+## 2. Azimuth
+
+Place the edge of your notebook or clipboard on the linear feature, holding the book/clipboard vertical and parallel to the feature so as to create a vertical plane above it. Hold the long side of the compass-clinometer against the vertical side of the book and measure the azimuth of the lower end of the linear feature relative to north (i.e. the direction of plunge). For the Silva-type compass-clinometer you will need to rotate the dial until the magnetic needle is aligned with the north arrow of the compass.
+
+Ensure the compass window is horizontal before recording this measurement (for the Brunton-type compass you can do this by checking the round spirit level). In this case the azimuth is 148°.
+
+e p yt- n o t n u r B : h t u iz A e p yt- a S : h t u iz A Figure 2.9
+
+Equipment e p yt- n o t n u r B : e g n ul P e p yt- a S : e g n ul P
+
+## 3. Plunge
+
+Set the compass dial so that the instrument can be used as a clinometer (see Figures 2.6, 2.7). Place the compass-clinometer along the linear feature and read off the plunge angle from the clinometer. In this case the plunge is 15°.
+
+## 4. Record
+
+Record in your notebook the plunge as a 2-digit figure (15°) and the azimuth as a 3-digit figure (148°). For linear features the usual notation is the plunge first, then an arrow indicating ‘to’ and then the azimuth (15 → 148).
+
+Figure 2.9 Steps in the measurement of the azimuth and plunge of a linear feature (lineament) by the contact method  – for both types of compass - clinometer. The parts of the compass - clinometers are shown in Figure  2.3 .
+
+Continued
+
+Equipment Contact  m ethod for  m easuring the  o rientation of a l inear  f eature Either a Brunton - type or a Silva - type compass - clinometer can be used for the contact method (Figure  2.9 , pp.  18 – 19). The Brunton - type has the advantage that the azimuth can simply be read off without having to rotate the compass dial while also holding the notebook.
+
+Sighting  m ethod for  m easuring the  o rientation of a l inear  f eature A more accurate method of measuring a linear feature, and one that is easier with only two hands, is the sighting method (Figure  2.10 ). This can be done easily with a Brunton - type compass - clinometer and the azimuth reading can also be done with a Silva - type compass - clinometer although it is not as accurate. The slope of a large surface or hillside can also be measured in the same way as the plunge.
+
+2.3.3  Triangulation: Determining  l ocation u sing a  c ompass A further important use of the compass is to determine your position by taking a compass direction (bearing) off at least two, and preferably three, features that are marked on the topographical map of the area  – a process known as triangulation. The most accurate triangulation will result from using features that are between about 60 ° and 90 ° apart, but in some cases this is not possible. The closer the features are to you the more accurately you will be able to ﬁ nd your position.
+
+The types of features used are: the corner of a building, corner of a tree plantation, road junction, river conﬂ uence, telecommunications mast, the top of a hill or other distinct feature. Ensure that you take the azimuth and draw the line on the map using the edge of the building or particular side of the road (rather than the middle or general direction) because any small variation will result in an inaccurate position. The point at which the two or three lines cross determines your position.
+
+If the lines do not cross, one or more of your azimuth readings is poor; recheck your azimuth readings and/or pick another feature to sight off. Alternatively take the midpoint of the triangle (see Worked Example  10.2 and Figure  10.5 ).
+
+If you know you are somewhere along a linear feature such as a road just one azimuth sighting from a feature at a high angle to the linear feature can be used to produce a single intersection.
+
+However, an azimuth reading from a second feature will reduce the possible error. The steps to determine your location on a map for the two different types of compass commonly available are described in Figures  2.11 and  2.12 , pp.  22 – 24. The Silva - type compass has three signiﬁ cant advantages for this type of
+
+Equipment
+
+## 1. Place pencil
+
+Put a pencil on the exposure parallel to the lineation and then stand where you can look down the linear feature. Use a piece of tape to hold the pencil in place if necessary.
+
+## 2. Measure azimuth
+
+Holding the compass window horizontal (use the round level to check this), and with the mirror at about 120° to it, sight through the small peep sight at the end of the long sight through the sighting window at the base of the mirror and down the pencil (see inset). Read off the azimuth. If necessary use the locking pin to hold the magnetic needle in place while you note the azimuth.
+
+## 3. Measure plunge
+
+Hold the compass-clinometer on its edge so that the compass window is vertical and the clinometer is at the bottom. Fold the mirror in to the compass window at about 60°. Fold in the peep sight at the end of the long sight.
+
+Sight through the peep sight at the end of the long sight, the window at the base of the mirror and down the pencil (see inset).
+
+Carefully adjust the angle of the mirror so that you can also see the long level. Adjust the clinometer so that the bubble in the long spirit level is in the middle.  Read off the magnitude of the plunge.
+
+## 4. Record
+
+Record in your notebook the plunge as a 2-digit figure and the azimuth as a 3-digit figure.
+
+Figure 2.10  Measurement of the azimuth and plunge of a linear feature (slickenside lineations (Section  8.2.2 ))
+
+on a fault plane using the sighting method with the Brunton - type compass - clinometer. Insets show detail of line of sight. The parts of the compass - clinometer are shown in Figure  2.3 a – c.
+
+Equipment
+
+## 1. Identify features
+
+Identify two features on the map and on the ground on which to take bearings. In this case the purpose was to identify the location along the exposure known as Coe Crags (shown on the map by the end of the pencil). Various landmarks can be picked out on the hills to the north.
+
+## 2. Measure azimuth
+
+Hold the compass horizontal at waist height with the back of mirror towards you and the mirror at about 120° to the compass window.
+
+Line up the feature so that you can see the feature through the long sight in the mirror, ensuring that the compass is level using the round spirit level.
+
+Read off the azimuth.
+
+## 3. Orientate the map
+
+Put the compass-clinometer on to the map with the long edge of the compass- clinometer parallel to a N–S grid line.
+
+Check that you have the compass the correct way round and not 180° out, i.e. that the north needle is pointing roughly north on the map. Rotate the map and compass together until the north needle is at its zero mark.
+
+Figure 2.11  Triangulation using a Brunton - type compass. The terms for the different parts of the compass - clinometer are given in Figure  2.3 a – c.  (Map: Ordnance Survey, Landranger Series, Sheet 81. Ordnance Survey 100018362. (extract is from within 10  km grid square NU(46)00.)
+
+Equipment The map is now orientated. Note that the long edge of the compass is parallel to the N–S grid line and the compass needle is at its 0° mark. Note also that the compass has been corrected for magnetic declination.
+
+## 4. Transfer azimuth to the map
+
+Keeping the map orientated in exactly the same way, place the long edge of the compass so that it runs through the feature that you sighted. Rotate just the compass until the compass needle shows the azimuth of the feature that you sighted off.
+
+Draw a feint line along the edge of the compass. You are somewhere along this line.
+
+## 5. Repeat stages 2 to
+
+Repeat for at least one more feature. The point at which the lines intersect marks your position. See further notes on checking your position in Sections 2.3.3 and 10.3.
+
+Figure 2.11 Continued
+
+Equipment
+
+## 1. Identify features
+
+## 2. Measure azimuth
+
+## 3. Transfer azimuth to the map
+
+## 4. Repeat stages 2 and
+
+Identify two and preferably three distinct features on the map and on the ground from which to take bearings. In this case the purpose was to identify the location along the exposure known as Coe Crags (shown by the end of the pencil). Various landmarks can be picked out on the hills to the north.
+
+Hold the compass at arm’s length and eye level with the mirror tilted towards you so that you can see the compass window in the mirror and the compass window is horizontal (inset). Using the sight (i.e. small slot in middle of the short edge of the compass), align the feature with the sight.
+
+Rotate the compass dial so that the compass needle is aligned with the red outline for the north direction on the dial.
+
+Lower the compass and place it on the map with the N–S grid lines on the compass dial (ignore the compass needle)
+
+aligned with the N–S grid lines on the map.
+
+Retaining this orientation place one edge of the compass adjacent to the feature that you have sighted. Draw a feint line on the map using the edge of the compass that passes through the object that you used for sighting. Your position is somewhere along this line.
+
+Repeat for at least one more feature. The point at which the lines intersect marks your position. See further notes on checking your position in Sections 2.3.3 and 10.3.
+
+Figure 2.12  Triangulation using a Silva - type compass. Inset shows line of sight. The terms for the different parts of the compass - clinometer are given in Figure  2.3 d and e.  (Map extract as Figure  2.11 .  © Crown
+
+Equipment measurement: (1) the azimuth is retained by the compass when one moves away from the sighting; (2) the map does not have to be orientated to transfer the measurement (step 3, Figure
+
+## 2.12 ); (3) the transparent compass - needle housing makes
+
+transfer onto the map easier.
+
+## 2.4  Global  p ositioning  s ystems
+
+and  a ltimeters Global positioning systems (GPS) use ultra high - frequency radio wave signals from satellites to trigonometrically derive your position to within a few metres laterally. A wide range of GPS systems are available on the market and the reader should refer to specialist reviews and literature for more information.
+
+Increasingly, mobile phones contain a GPS unit. Global positioning systems units do not work in deep ravines and on some coastal sections; they are also not particularly accurate for altitude. The GPS can be set up for the particular grid system that you are working with or for a global reference that is based on latitude and longitude. The global reference World Geodetic System 1984 (WGS84) is the most commonly used. Instructions on how to set up your GPS will be in the manufacturer ’ s manual.
+
+After setting it up or modifying any settings, for instance when you go to a new country, it is a good idea to test it out at a known location. The unit may take some time to locate the satellites if the GPS has been moved hundreds of kilometres.
+
+If you use a GPS together with hard copy maps as your main location device in the ﬁ eld you should ensure that you also have a ruler with you so that you can accurately plot your position. A GPS should not be a total substitute for basic navigation skills. You should also know how to locate yourself with a map and a compass (Section  2.3.3 ) so that if the GPS goes wrong, the batteries fail, or you are in an area where the satellites are obstructed, you have an alternative means of location and navigation. Alternatively if you are in an area of the world where the base maps are poor or only available at a small scale, a GPS reading will probably be more precise than compass triangulation and will more easily allow exactly the same locality to be found again.
+
+An altimeter is useful for recording elevation more precisely than a GPS when mapping or working in steep terrain, for instance recording a steep stream section. Altimeters use air pressure to measure elevation and this will vary with the weather. You need to calibrate your altimeter by taking a reading when you are at a known elevation at least once a day and throughout the day if the weather is changing signiﬁ cantly. A Brunton - type compass - clinometer and Jacob staff (Section  2.5.2 )
+
+can also be used to determine elevation above a known datum.
+
+Ensure that you have set up your GPS or altimeter correctly otherwise you could spend the entire day being somewhere other than where you thought you were!
+
+Equipment
+
+## 2.5  Measuring  d istance and  t hickness
+
+Thickness and distance are two of the most basic measurements that need to be made for many geological tasks. For most of them a tape measure or folding ruler (Figure  2.13 ) will sufﬁ ce but when working on slopes a Jacob staff and compass - clinometer can be useful (Section  2.5.2 ).
+
+2.5.1  Standard  t hickness and d istance  m easurements A surveyor ’ s 30 m tape is useful for large - scale measurements, for instance during regional mapping (Section  10.2.2 ; Figure
+
+## 2.13 , item 1). Smaller, shorter and much cheaper, 2 or 5 or 10
+
+length, retracting metal - tape measures (Figure  2.13 , item 4) are, however, perfectly adequate for small - scale work and for graphic logging (Section  6.3 ). The retracting metal - tape measures also have the advantage that they are stiff and therefore can be used much more easily to obtain an accurate measurement of the thickness of the bed by holding it perpendicular to the bedding.
+
+Folding plastic metric rulers that extend to 1 m or 2 m can be obtained in some countries and are very useful as a scale for photographs and for graphic logging (Figure  2.13 , items 2 and 3).
+
+These stiff rulers can easily be used to measure the thickness of partially submerged beds, for instance in a rock pool on the foreshore, and can be held at the bottom and pointed up cliffs to measure the thickness of otherwise inaccessible beds. They are also much easier to use when measuring on your own because the thickness of beds that are greater than that of your arm span can be measured. A pole of known length or a long steel rule or wooden rule can also be used for this purpose and for general measurements (Figure  2.13 b). When measuring the dimension of a geological feature it is important to ensure that you have not overestimated the distance by placing the tape oblique to the bedding plane. For instance, in Figure  1.1 a to obtain a true thickness the top of the tape would need to be placed closer to the bed so that it was perpendicular to the bedding plane.
+
+When dipping rocks are exposed on a horizontal surface only (e.g. on a quarry ﬂ oor, in a stream section or in the foreshore) it is very difﬁ cult or impossible to measure directly a true bed thickness. By measuring the horizontal distance perpendicular to strike ( d ) and the angle of dip of the beds ( θ ) this can be solved (Figure  2.14 ). The true thickness is given by the equation: True thickness = × sinθ This technique can be used to obtain a very good estimate of the thickness of beds, to estimate the distance over which beds are not exposed (for instance on the foreshore between resistant (a)
+
+(b)
+
+Figure 2.13  (a) A variety of useful tape measures for ﬁ eld use: 1, surveyor ’ s tape; 2, folding rule; 3, 1 m folding rule; 4, retracting metal - tape measure. (b) Home - made wooden pole with decimetre graduations to give a general idea of scale.
+
+Equipment beds when the non - resistant bed is covered by beach deposits)
+
+or to check the cumulative thickness of a series of dipping beds. If the thickness of a bed is critical to the objective of the ﬁ eldwork it is always a good idea, if possible, to measure the thickness in more than one way, for instance by measuring each bed individually and then by measuring the thickness of a group of beds.
+
+2.5.2  Use of the Jacob  s taff to  m easure the t hickness of  i nclined  s trata It is difﬁ cult to measure the thickness of inclined strata exposed on a slope such as a hillside if, as is nearly always the case, the slope of the hill does not cut the strata at 90 ° (Figure
+
+## 2.15 ). A Jacob staff and Brunton - type compass - clinometer can
+
+be used to measure such sections quickly and easily. They can also be used together as a very accurate measure of vertical distances.
+
+A Jacob staff can either be purchased or fashioned from a length of wood about 2 cm  ×  5 cm and between about 1.25 m and 2.0 m long (choose a length that is just below your eye level and which is convenient for multiple measurements).
+
+Mount the compass - clinometer with its east side (so the clinometer is at the base) in contact with one end of the staff.
+
+Ensure that the end of the staff is at exactly 90 ° to the length of the staff so that the compass - clinometer is perpendicular to the staff. For an exact measure, remove from the base of the staff the distance that is equivalent to the few centimetres between the long edge of the compass - clinometer and the centre of the sights. Fold the peep sight at the end of the long sight in at 90 ° .
+
+Angle the mirror so that you can see the compass window when looking through the peep sight and hole in the mirror. To measure the thickness of the beds complete the following.
+
+## 1.  Measure the strike and dip of the strata you are
+
+going to calculate the thickness of (Section  2.3.1 ) and work out a line of traverse that is perpendicular to the strike.
+
+## 2.  Set the clinometer on the Brunton - type compass - clinometer
+
+to the angle of dip of the strata.
+
+## 3.  Starting at the base of the traverse, place the base of the
+
+Jacob staff on the point in the stratigraphy you wish to measure from and lean the Jacob staff down until the bubble in the long spirit level is in the middle (i.e. the Jacob staff is perpendicular to the bedding plane).
+
+## 4.  Sight through the peep sight and window in the mirror to a
+
+point on the ground ensuring that you keep the long spirit level horizontal. This point on the ground is the length of horizontal distance(d)
+
+true thickness θ true thickness θ Figure 2.14  Sketch to show the basic trigonometry for obtaining a true thickness by measuring the horizontal distance between dipping beds.
+
+0m 3m 1.5m Figure 2.15  Sketch to show how to measure thickness up a slope with a Jacob staff of 1.5 m length and a Brunton - type compass - clinometer.
+
+Equipment your Jacob staff above the point where you started (Figure
+
+## 2.15 )
+
+## 5.  An entire slope can be measured this way by cumulatively
+
+moving up the slope to the point where the last measurement was taken. Beds and boundaries between the sighting points will need to be interpolated.
+
+If you have a ﬁ eld partner you can use a pole or folding rule of known length as a crude Jacob staff when measuring up a slope or a large thickness of dipping strata. Hold the pole roughly perpendicular to the strike of the strata to be measured.
+
+With your ﬁ eld partner standing about 5 m away, get them to ﬁ rst, by eye, tell you how to alter the angle of the pole so that it is perpendicular to the strike. Then, the person not holding the rule can obtain a good estimate of the stratal thickness that is equivalent to the length of the pole by extending an imaginary line by eye perpendicular from the top of the staff to the strata.
+
+## 2.6  Classiﬁ cation and  c olour  c harts
+
+Various well - established comparison charts can be used to provide a semi - quantitative description of the rock and any changes in it. These include grain - size charts and rock classiﬁ cation diagrams. The ﬁ gures commonly used are included in the appendices at the end of this book but charts such as those for grain size and texture can also be purchased for use in the ﬁ eld. The grain size chart should be used by placing the edge of the card on top of a clean fresh surface of rock and comparing the grain size on the chart to that of the rock until a match is found for the average grain size and if appropriate the maximum and minimum size (Figure  2.16 ). If the grain size is small it might also be necessary to use a hand lens on the card and rock.
+
+If the rock is poorly consolidated, scatter a few representative grains across the grain - size images to determine the average size.
+
+Weak hydrochloric acid can be used to test for carbonate. A fresh surface of the rock free from any coating minerals and weathered coating must be obtained before dropping acid on the rock. The acid will ﬁ zz strongly with fresh calcium carbonate but much less strongly for dolomite (calcium - magnesium carbonate). Freshly powdered dolomite will ﬁ zz more readily. Health and safety precautions for the handling of acid should be followed. In sedimentary rocks an easier and less destructive method of determining whether there is carbonate is to test the hardness of the rock. The most common colourless minerals in sedimentary rocks are quartz and calcite (with feldspar less frequently). Quartz will scratch steel For particular situations it may be necessary to improvise a scale: e.g. mark a thin, straight piece of wood in black and white stripes (Figure  2.13 b) or, for measuring inaccessible cliffs, paint a length of rope and then take photographs while the rope is hanging over the cliff.
+
+Equipment whereas calcite will not. Feldspars have distinct cleavage and tend to go white and powdery as they weather.
+
+Colour variation can be ascertained using Munsell colour chips compiled onto charts. This is particularly useful in successions where one of the main variations is colour (for instance in mudstones) and/or colour has been demonstrated to be an important indicator of the composition. A full Munsell colour chart is bulky for ﬁ eld use but short versions with the typical colours of rocks can be obtained from stockists of geological equipment and various Geological Society publishers.
+
+A streak plate (ground glass or ceramic plate across which the rock is scratched) can be useful for getting an even colour from a rock or mineral that is then easier to compare with the colour chart.
+
+The Munsell colour system is based on all variation in colour being deﬁ nable by a point in a sphere. To deﬁ ne where the colour lies in the sphere there are three aspects to consider.
+
+•   Value (or Lightness) :  This is the paleness or darkness of the colour, i.e. for the colour grey where it lies between black (1) and white (9). Value deﬁ nes the vertical axis through the sphere (Figure  2.17 , p.  30). )
+
+b ( )
+
+a ( Figure 2.16  Use of a grain - size chart to determine the average grain size. (a) In this case the average grain size is 500  µ m. The grain size varies between 375 and 750  µ m. (b) Close up view of (a).
+
+Equipment white (lightness)
+
+value black (a)
+
+(d)
+
+(b)
+
+(c)
+
+hue chroma pu rpl e-r ed p u r pl e p u r p e - b u e bl ue blu e-g ree n gre en gr ee n- y el o w y e o w re d- ye llo w red Figure 2.17  Highly simpliﬁ ed three - dimensional representation of Munsell colours. (a) The axes for value, hue and chroma within a sphere. The 10 hues are shown but for simplicity the 10 subdivisions within each hue are not shown and neither is the chroma. (b) Sphere of colour with the colours becoming lighter towards the top (increase in value). (c) Part of one segment showing very generally the increase in value towards the top and the increase in chroma towards the outer edge of the segment. (d) Part of a Munsell colour chart specially designed for rocks. In this case the grey organic - rich mudstone sample on the left has a Munsell colour of 5Y 2/1 (olive black).
+
+Equipment •   Hue :  There are 10 major hues deﬁ ned by the Munsell colour system. These are represented on the sphere by division of the sphere into 10  ‘ slices ’ or segments (Figure
+
+## 2.17 a). Each slice is further subdivided into 10 numbered
+
+slices. The number 5 marks the centre of the hue and 10 the boundary with another hue.
+
+•   Chroma :  This is the degree of saturation of the hue with respect to the equivalent grey. This is deﬁ ned on the sphere by how far it lies between the centre of the sphere and the circumference (Figure  2.17 a and c).
+
+The Munsell colour value is given in numbers as: Hue Value/ Chroma. So, for instance, 5R 4/6 refers to a hue of 5R, a value of 4 and a chroma of 6.
+
+## 2.7  Hammer,  c hisels and  o ther  h ardware
+
+A geological hammer is necessary for most geological ﬁ eldwork, both for the collection of samples and, where necessary, to create fresh surfaces so that the rock and the minerals within it can be described (Figure  2.18 ). Having said this it is perfectly possible to do a lot of geological ﬁ eldwork without a hammer provided samples are not required. Rocks that are exposed in sea - cliffs and along foreshores, in new trenches or in road cuts often do not need hammering and indeed the slightly weathered or wave washed surface is often as good as, if not better than, a hammered surface. For sedimentary rocks a 1 lb ( c. 0.5 kg) hammer is often sufﬁ cient.
+
+For igneous, metamorphic and hard or well - cemented sedimentary rocks a 2 lb ( c. 1 kg) or even a sledge - hammer may be necessary if good quality and/or large samples are required.
+
+However, a good chisel or pick hammer can be used to exploit planes of weakness (joints, bedding planes, foliation, vein margins) and extract samples from tougher rock types (Section 13.2.2 ). Matters of conservation should always be considered (Section  2.12 ).
+
+For safety reasons it is important to use a geological hammer rather than one designed for other materials such as wood or metal. This is because to hammer rocks you need a head that is robustly mounted on to the hammer shaft, made of a suitable grade of steel that will not splinter and is of an appropriate ergonomic design. Brick and stone hammers can be used if a speciﬁ c geological hammer is not available. Other features to consider when purchasing a hammer are the type of head that is most suitable for your use and whether it feels comfortable when you use it. All geological hammers have one ﬂ at face: the other end is either a chisel or pick (Figure  2.18 ).
+
+The chisel end is useful for splitting rocks apart although it is Figure 2.18  Some of the different geological hammers and cold chisels available on the market. (1) Estwing pick end hammer, (2) Estwing chisel end hammer, (3) cold chisel with hand guard, (4 and 5) 2.5 lb and 1 lb geological hammers with ﬁ breglass shafts, (6) pencil chisel, (7) tile scribe and (8) 3 lb lump hammer.
+
+Equipment not as effective or accurate as using a hammer with a separate chisel; the pick is useful for hammering into crevices to lever samples out and for generally weakening a rock surface before extracting a sample. Some geological hammers have the head and shaft all cast from one piece of metal and this makes them exceedingly robust; however, they pass more of the impact from hammering through the shaft and into your hand and arm.
+
+The other option is a steel head mounted on a wooden or ﬁ breglass shaft. The shaft on these absorbs most of the impact; however, the head on this type of hammer can work its way off. This is, however, very uncommon with the new ﬁ breglass models. Note that the rust on the hammer or chisel that is an inevitable consequence of use in wet conditions (e.g. Figure
+
+## 2.18 items 2, 4, and 5) is a potential contaminant for samples
+
+being used for geochemical analysis. The hammer can be cleaned with a wire brush and wire wool (e.g. Figure  2.18 , item 1).
+
+If the rocks have no good partings or fractures and/or precisely placed samples are required, it is best to use a chisel. Many of the larger cold chisels are now supplied with hand guards (Figure  2.18 , item 3). For delicate specimens such as fossils or minerals a small pencil chisel is useful (Figure  2.18 , item 6). If you need to do lots of chiselling, a lump or crack hammer may be useful (Figure  2.18 , item 8).
+
+For unconsolidated and poorly consolidated sedimentary deposits a spade or hoe pick and/or a masonry trowel is invaluable for removing the weathered or slipped material on the surface and then cleaning the surface so that the sedimentary structures can be seen (Figure  2.19 a). If the surface of the rock is hard and coated with a thin layer of lichen, moss or iron minerals and there is not an alternative exposure surface, a hard nylon brush or a wire brush can be used to clean the surface (Figure  2.19 b).
+
+Stainless steel spades and trowels are particularly useful for work in sticky clay as the clay slides off more easily.
+
+(a)
+
+(b)
+
+5 cm Figure 2.19  (a) Poorly consolidated sandstone showing current - formed climbing ripples. This structure has been revealed by carefully scraping the surface of the sandstone with the edge of a trowel. An unprepared surface lies to the right and at the level of the trowel. Shellingford cross - roads quarry, Oxfordshire, UK. (Angela L. Coe, The Open University, UK.) (b)
+
+Lower Jurassic mudstones shown with the surface iron coating (yellow) and after a clean surface was obtained through vigorous wire brushing. Note how the scraped surface shows laminations that were not previously apparent. Deep scratch marks are 5 cm apart. Such slight surface abrasions quickly weather and do not pose signiﬁ cant conservation issues.
+
+(Anthony S. Cohen, The Open University, UK.)
+
+Equipment
+
+## 2.8  The  h ard c opy  ﬁ eld  n otebook
+
+Except for safety equipment, provisions and suitable clothing (Table  2.1 , Sections  2.11.1 and  2.11.3 ), the hardcopy or electronic ﬁ eld notebook (Section  2.9 ) is probably the most essential piece of ﬁ eld kit. The types of data to record in a ﬁ eld notebook, whether hard copy or electronic, are covered in
+
+## Chapter  4 . There is a wide range of hardcopy notebooks
+
+suitable for ﬁ eldwork available on the market and the choice is a matter of identifying something suitable for the particular task that is to be undertaken and personal preference. The advantages and disadvantages of different features are listed below.
+
+•   Hardback or softback:  Given that the notebook will need to be used outdoors hardback notebooks are more robust and are therefore recommended. Some notebooks have a soft inner cover and an outer plastic cover and these are also relatively robust.
+
+•   Size:  The size of the notebook is a matter of personal preference. Points to consider are the normal size of your handwriting, how you will be carrying it, how much sketching you need to do and whether you will be working in awkward places, for instance in a conﬁ ned space where a small notebook can be easier to hold. Many professional geologists use notebooks that, when closed, are about 15  ×  20 cm, although some prefer a larger size of about 30  ×  20 cm.
+
+•   Sewn, glued or spiral binding:  Sewn and ring bindings are robust in the ﬁ eld. Glued bindings can fall apart unless they are very well secured and are therefore not recommended. Spiral bindings enable the notebook to be bent back on itself, which is useful if the notebook is large; however, in these notebooks it is less easy to use facing pages as is sometimes required. In addition, the pages can accidentally tear out and become lost.
+
+•   Plain, lined or graph paper:  Again this is very much a matter of personal choice. Plain paper allows the most ﬂ exibility and is particularly good for sketches, but lines or a grid can help to order the notes, and they are also useful for scale and guidelines in ﬁ gures and tables.
+
+•   Standard paper, water resistant and fully waterproof paper: Poor quality paper soon disintegrates under extensive ﬁ eld use or in adverse conditions. It is therefore well worth purchasing a notebook with good quality paper. Some surveyor ’ s notebooks have water - resistant paper that lasts well during extensive ﬁ eld use. Most art sketchbooks have good quality paper. It is also possible to purchase notebooks A couple of bulldog clips or elastic bands are useful to hold together the notebook pages that you are not writing on especially if it is windy or raining. A large polythene bag in which to house the open notebook and your hand is useful if it is raining heavily.
+
+Equipment with totally waterproof paper; these are excellent in areas where the weather is particularly wet or that involve working close to water, for instance on a foreshore or in river sections where the chances of the notebook getting wet are high.
+
+•   Position of the hinge:  Some notebooks hinge along the top edge whereas others hinge along the right - hand edge. This is worth considering in conjunction with whether you are right or left handed.
+
+## 2.9  The  l aptop,  n etbook or PDA  a s
+
+a  n otebook Small computer laptops, electronic notebooks and Personal Digital Assistants (PDAs) can be used in the ﬁ eld to record ﬁ eld data. Some companies and government institutions are now using these quite extensively for speciﬁ c ﬁ eld assignments. A number of factors need to be taken into account when choosing whether or not to use an electronic or hardcopy system and indeed what type of electronic system to use. In order of relative importance these are:
+
+## 1.  Is the system practical and built ruggedly enough to work
+
+reliably under the particular ﬁ eld conditions you will be working in? Do you have a backup system in place where you can download data each day? If you do not have this, using an electronic notebook is a high - risk strategy because you may easily lose your valuable data.
+
+## 2.  Is the electronic notebook suited to the type of data you
+
+wish to collect and how the data will be used? For instance, if the data need to be shared by many people, or input into a Geographical Information System (GIS)
+
+database, an electronic notebook is more efﬁ cient and suitable than a hardcopy notebook. If, however, you are completing lots of drawings of cliff faces and features in the rocks (Section  4.3 ) an electronic notebook is probably not the most efﬁ cient or ﬂ exible method and a conventional notebook is probably much better.
+
+## 3.  Do you have a ready power supply for recharging the
+
+batteries? This could be anything from a household power supply, to vehicle batteries, portable generators and portable solar panels.
+
+## 4.  Can you read the screen easily even in bright sunlight?
+
+## 5.  Do you have appropriate software for the range of data that
+
+needs to be collected?
+
+## 6.  Will the equipment work fully under the ambient
+
+temperature and humidity of the ﬁ eld area? (Low temperatures and high humidity can be problematic.)
+
+Equipment There are signiﬁ cant advantages to using an electronic system: the data set is easily accessible to others; you can incorporate data directly into an existing electronic database; and you can access and overlay your data with those of others.
+
+## 2.10  Writing  e quipment,  m aps and
+
+r elevant  l iterature 2.10.1  Writing  e quipment •   Pencils:  Several pencils for recording notes and sketches are essential. Mechanical pencils (also known as propelling pencils) work well for notes and labels on sketches.
+
+Conventional pencils tend to work better for the line work of different thicknesses and shading in sketches (Section 4.3). Leads for either mechanical or conventional pencils of HB to 2H hardness are appropriate for most purposes.
+
+Leads of H or greater hardness have the advantage of being fairly permanent and not smudging as the notebook becomes used. Softer leads of B and 2B are useful for writing on damp paper without tearing it, for shading and for very cold conditions. Under hot conditions pencils of 2H or greater will not tend to smudge as much.
+
+•   Pens:  Most geologists never use pens in the ﬁ eld whereas a few prefer them. Pens have the disadvantage that the work cannot be erased and they are not always reliable under outdoor conditions. Care needs to be taken to ensure that the ink is waterproof and also that it does not blot under hot conditions. Ball point pens will not write on damp paper.
+
+•   Pencil sharpener or penknife:  Conventional pencils will need to be sharpened. A good quality sharp pencil can make all the difference between neat and untidy notes. If the pencil is being used for shading it often works better if it is slightly blunt (Section  4.3 ).
+
+•   Coloured pencils:  A few coloured pencils are useful in the ﬁ eld for recording speciﬁ c items, e.g. samples. The potential use of coloured pencils is covered further in Chapter  4 .
+
+•   Eraser:  Essential for correcting mistakes and/or improving parts of the sketches.
+
+2.10.2  Maps and  r elevant  l iterature Geological and topographical maps, ﬁ eld maps * , photographs, published papers, etc., can form an essential part of your ﬁ eld tools. A topographic map for locating your position is fairly essential; aerial photographs are also useful for this. If the area * Topographical base maps on to which geological information is added in the ﬁ eld are also referred to as ﬁ eld slips.
+
+Equipment and exposures are well studied and part of the objective of your ﬁ eldwork is to assess and/or correlate your work with published material then you will need to take key publications and/or relevant sections from these into the ﬁ eld. This will enable you to check up on the details of these previous studies and to correlate your new data with those of others. It is much easier and more useful to do this in the ﬁ eld where you can test different possibilities and identify key features that have been described in the literature than it is to try and do it when you return.
+
+## 2.11  Comfort,  ﬁ eld  s afety and  ﬁ eld
+
+s afety  e quipment 2.11.1  Clothes,  b ackpack/rucksack and p ersonal  p rovisions Fieldwork usually involves physical exertion and can involve being outside in extreme weather conditions and/or working in inhospitable or remote areas. For these reasons it is important to select comfortable clothing and to be prepared for a range of conditions. Find out the expected weather conditions in the area at the time you will visit. Most mountain walking and outdoor clothing is suitable. An outer layer with pockets to store ﬁ eld equipment such as pens, pencils and compass - clinometer so that they are readily accessible is useful.
+
+Alternatively, a small shoulder or belt - mounted bag is useful for this ﬁ eld equipment together with your notebook. If you are working in an area where you may get wet it is important to wear clothes that dry relatively quickly for comfort and to prevent exposure. If you are working where conditions are hot, loose clothing made from natural fabrics is often the most comfortable and it is advisable to cover most of your exposed skin to protect against sunburn. On most geological ﬁ eldwork it is essential to wear a hard hat (Section 2.11.2); head protection (either a sun hat or large piece of material) should also be used when you will be under the sun for prolonged periods. A hat is also important in cold conditions to help prevent heat loss. A backpack/rucksack is usually essential to carry all your ﬁ eld equipment, food, drinking water, ﬁ rst aid and spare clothing.
+
+Further advice on clothing and personal ﬁ eld kit can be found in mountain walking guides (Section  2.13 ).
+
+2.11.2  Field  s afety It is essential that you plan for emergencies and for hazards particular to the area that you are visiting. There are, however, three aspects that are important for safety in the ﬁ eld anywhere: For robustness under ﬁ eld conditions it can be useful to laminate maps or diagrams such as fossil identiﬁ cation charts or stratigraphic logs that are used regularly.
+
+Equipment Maintain an awareness of hazards around you and ensure you warn others if you think that they are in a dangerous position.
+
+(1)  Be  p repared Ensure that you or one of the members of the ﬁ eld group have the correct equipment and that it is all in good working order.
+
+This not only includes the speciﬁ c safety items such as those listed in Section  2.11.3 , but also the means to locate yourself and to return via a safe route to civilization (i.e. a map and compass and/or a GPS), enough food and drink for the time you will be spending in the ﬁ eld along with some emergency rations, sufﬁ cient clothing for the expected range of weather conditions, a ﬁ rst aid kit and the means of raising the emergency services (i.e. mobile phone, radio or satellite phone; Table  2.1 ). At least one member of the party should be trained in ﬁ rst aid. If required by your ﬁ eld organizer, university or employer you should complete a risk assessment form (example risk assessments are provided on the website that accompanies this book  –  www.wiley.com/go/coe/geology ). The party members should also decide whether they are physically ﬁ t enough to traverse the terrain that they will encounter.
+
+(2)  Assess and  m onitor the  p otential  h azards If possible, assess the hazards before going into the ﬁ eld area either by talking to someone who has been before or with the use of maps, guidebooks to the area, satellite images (such as Google Earth TM ), aerial photographs and ﬁ eld photographs.
+
+Even if you are able to assess the hazards prior to your visit, or it is a locality you have visited before, it is still necessary to constantly monitor any potential dangers whilst you are in the ﬁ eld. If it is really dangerous and there is a high probability of injury or worse you should be prepared to discontinue ﬁ eldwork at this locality. Common hazards and the preventative action that can be taken to avoid them are as follows.
+
+•   Falling rocks:  Avoid areas of recent rock fall and/or areas with large overhangs or unstable faces. Wear a hard hat that meets safety standards at all times. Take care not to dislodge rocks onto other people. Many cliffs and slopes become unstable as the weather conditions change, e.g.
+
+after heavy rain or as they dry out and heat up in the sun.
+
+If the rocks are often unstable observe under what conditions they are least likely to fall and complete ﬁ eldwork at these times if possible.
+
+•   Snow avalanches:  These are only a hazard in high mountain areas where there has been snow fall. They are most common after new snow fall, on convex slopes of 30 – 45 ° and as temperature changes. You should ensure you know where avalanches occur, take note of any avalanche warnings, and pick routes that use uneven/wooded slopes or follow a ridge.
+
+•   Mudslides and unconsolidated rocks:  Freshly formed mudslides and other water-saturated sediments are
+
+Equipment dangerous to walk on because of the possibility of getting stuck. Mudslides tend to occur during heavy rainfall and care should be taken to avoid areas where they are active.
+
+•   Rising tides:  If you are working in a tidal coastal area ensure that you know the time and position of high tide, where any potential tidal cut - offs are along your access route, and be aware of any onshore winds or high surf conditions that will drive the tide in more quickly and potentially higher than average.
+
+•   Slippery rocks:  Algae - covered rocks on the foreshore or stream beds can be exceedingly slippery. Avoid these areas wherever possible, for instance by walking above the high water mark on the beach or well below it where the algae has been scoured away by waves. The area will also tend to be less slippery when the algae - coated surfaces are dry.
+
+•   Uneven surfaces and surfaces covered with boulders: Ensure that you are wearing strong footwear that will protect your ankles, toes and feet, take your time to pick out a good route and ensure that you do not become fatigued and slip.
+
+•   Unpredictable weather:  This can easily result in hypothermia, sunstroke or dehydration. Be prepared for the range of possible weather conditions. In hot conditions ensure you have something to cover your head with, sunglasses, sunblock and plenty of ﬂ uids. In winter ensure you wear warm clothing and have good quality waterproofs, which will also protect you from the wind. A warm hat is essential since a signiﬁ cant proportion of the heat that your body generates is lost through your head.
+
+•   Lightning:  If you are caught out in the open in a thunderstorm that is less than about 5 miles away, avoid sheltering under a tree or anything tall where lightning is likely to ground. If there is time, retreat from high ground.
+
+Crouch down in an open space touching as little of the ground as possible. If you are in a vehicle you will be fairly safe, but avoid touching any of the metal body of the car. If you are close to water (e.g. a lake or the sea) move away from the water ’ s edge where lightning is likely to strike.
+
+•   Dangerous beasties and plants:  Be aware of any local dangerous or poisonous biota, e.g. bees, wasps, snakes, leeches, scorpions, spiders, bears, poison oak (USA) and ticks, water - borne infections and how to deal with any other hazards that are particular to your ﬁ eld area.
+
+•   Working machinery, toxic substances:  In quarries and mines, working machinery is a major hazard. The position of the driver in large diggers and excavators often means
+
+Equipment that they have a considerable blind area so special care must be taken. For hazardous substances follow the speciﬁ c health and safety guidelines provided.
+
+•   Fatigue:  Tiredness is dangerous because reactions are slowed. It is quite easy on ﬁ eldwork to work long hours especially when there are many hours of daylight. Maintain your normal working hours if possible and ensure that you eat and drink at regular intervals. In a party the leader or ﬁ rst aider should look out for any members of the party who show fatigue, headaches or nausea and take appropriate action (e.g. for altidude sickness, immediate descent).
+
+(3)  Know  w hat to  d o in an  e mergency Members of the party should know who is trained in ﬁ rst aid.
+
+In larger ﬁ eld parties it is also advisable to set up a chain of command in case an incident occurs. Ensure that you know how to contact the emergency services, what the emergency telephone number is for the country that you are visiting, what the local mobile phone signal coverage is and where you have to go to obtain a signal. On many beaches with sea - cliffs and in mountainous areas the coverage is poor or patchy. In some parts of the world it may be necessary to carry a satellite phone or radio.
+
+Working  a lone Sometimes, it may be necessary to do ﬁ eldwork alone. In this case regular (i.e. daily) contact should be maintained with someone who can organize help in the event that you go missing. In case help does need to be raised, it is also good practice to leave information indicating the route that you will take and where you will be working that day.
+
+2.11.3  Field  s afety  e quipment It is not only necessary and sensible to wear protective clothing when working in hazardous areas, it is also now law in much of the world, along with the completion of some type of risk assessment form. All safety equipment should be checked regularly.
+
+•   Hard hat : In areas where there are cliffs and therefore risk of rock falls a hard hat is essential. The hard hat will prevent concussion or skull fracture from rocks up to ﬁ st - sized; it will not, of course, protect you from much larger pieces of falling rock. The plastic builder - type hard hats with an internal plastic cage that is adjustable for the size of your head and leaves a space between the top of your head and the hat are adequate for most purposes.
+
+These are available from most builders merchants/hardware
+
+Equipment stores. In addition, more specialist hard hats can be used, e.g. rock climbing and caving helmets. The advantage of these is that they have a chin strap, which holds the hat in place; a disadvantage is that they often lack a brim at the front and therefore do not protect your face as well.
+
+Sunlight degrades plastics and they eventually become brittle so check that your hard hat has not exceeded its use - by - date. Hard hats with a small rear gutter are also useful in rainy conditions as it prevents the water running down the back of your neck.
+
+•   Reﬂ ective clothing : When working in quarries and at the side of a road it is often necessary and practical to wear specialist ﬂ uorescent clothing so that you can easily be seen.
+
+•   Goggles : When hammering rocks it is good practice to protect your eyes with goggles or wrap - around protective glasses to prevent eye injury from rock splinters. Rock splinter wounds are a reasonably common cause of injury among geologists. Depending on the type of rock being hammered it is also sensible to cover other bare ﬂ esh. There have been incidents with rock or hammer splinters from hammering not only entering a person ’ s eyes, but also neck, legs and arms. Different types of rock splinter in different ways. Igneous rocks, particularly peridotites, are very splintery, as are cherts.
+
+All items of ﬁ eld equipment should be checked regularly, for instance whether the head of your geological hammer is secure on its shaft and whether your hammer and chisels show any metal fatigue, spalling and cracks (Figure  2.20 ). Many cold chisels are now supplied with hand guards (Section  2.7 ); these are very effective in preventing you from inadvertently hitting your hand with the hammer.
+
+## 2.12  Conservation,  r espect and
+
+o btaining  p ermission For all geological sites on private land, or those that involve crossing private land to get to them, a member of the ﬁ eld party should ﬁ rst seek permission for the party to enter the land and if necessary to sample. This can be quite a complex process as it is commonly not obvious who owns the land unless it is something like a working quarry. Geological surveys, other geologists who have visited the area, local councils, national park authorities and people who live in the neighbourhood may all be able to provide information.
+
+With all sites you should respect the land and follow the code for the area. Do not forget that other geologists may wish to Figure 2.20  Geological hammer with head showing spalling (head is 12 cm long). Further use is likely to result in small sharp pieces of metal ﬂ ying loose.
+
+Equipment visit the site too. In addition there may be local cultural, religious or national heritage codes of conduct that should be respected. These may in some cases not permit any access to certain sites and certainly not allow the removal of samples without special permission. Codes of conduct vary from country to country and area to area but most of it is common sense. The main points to consider are summarized in Table  2.4 .
+
+Many countries have conservation or protected sites of either biological and/or geological interest. These sites are protected from building development but also special rules may apply to sampling  in situ material and sometimes even to loose material.
+
+Conservation is a particular issue for fossiliferous sites (Section 5.1.2 ).
+
+## 2.13  Further reading
+
+Backer ,  H. D. (ed.).  1997 .  Wilderness First Aid: Emergency Care for Remote Locations ,  Jones and Bartlett Publishers , 350 pp.
+
+Bagshaw ,  C.  2006 .  The Ultimate Hillwalking Skills Handbook ,  David and Charles . 160 pp. [Guide to hillwalking that covers matters which are directly transferable to geological ﬁ eldwork, including ﬁ tness, navigation, ﬁ rst aid, clothing, weather, etc.]
+
+Duff ,  J. and  Gormly ,  P.  2007 .  Pocket First Aid and Wilderness Medicine ,  Cicerone Press , 247 pp.
+
+McNab ,  C.  2004 .  How to Survive Anything, Anywhere: A Handbook of Survival Skills for Every Scenario and the Environment ,  McGraw Hill Higher Education , 320 pp.
+
+Mears ,  R.  2001 .  Outdoor Survival Handbook: A Guide to the Resources and Materials Available in the Wild and How to Use Them for Food, Shelter, Warmth and Navigation ,  Ebury Press , 240 pp. [Month by month guide to living in the wild and advice on navigation.]
+
+Mears ,  R.  2003 .  Essential Bushcraft ,  Hodder and Stoughton , 240 pp.
+
+Pollard ,  A. J. and  Murdoch ,  D. R.  2003 .  The High Altitude Medicine Handbook ,  Radcliffe Medical Press , 193 pp. [Invaluable guide to the recognition and treatment of altitude sickness, as well as many other conditions liable to be encountered at altitude or simply when travelling. Contains other useful sections on trekking including legal information.]
+
+Wiseman ,  J.  1993 .  SAS Survival Guide ,  Collins , 384 pp. [Useful sections on clothing, ﬁ rst aid, what to expect in a variety of terrains, and other tips for survival in more remote regions of the world.]
+
+The web addresses of selected geological equipment suppliers are provided on the accompanying website for this book  – www.wiley.com/go/coe/geoloay .
+
+Table 2.4  Summary of the main code of ethics for countryside and wilderness areas.
+
+Countryside/wilderness code of ethics Take responsibility for your own actions Leave gates and property as you ﬁ nd them Respect other people ’ s privacy and/or cultural sensitivities Do not disturb plants and animals Leave nothing behind Do not hammer or sample unless it is necessary Follow any signs and landowner ’ s instructions
+
+Observations Introduction to  ﬁ eld o bservations at d ifferent  s cales Angela L.  Coe
+
+## 3.1  Introduction: What,  w here and  h ow?
+
+Going out into the ﬁ eld and examining rocks at an exposure for the ﬁ rst time, or even subsequently, might well reveal features that you cannot recognize, do not understand or cannot explain. Overcoming this challenge is a matter of careful study, persistence and experience. This chapter provides an introduction to some of the key questions for geological ﬁ eldwork and a systematic way of overcoming the challenge of collecting data and understanding an exposure. The key questions are:
+
+## 1.  What are the objectives of the ﬁ eldwork? (Section  3.1.1 )
+
+## 2.  Where is the best place to gather the data? (Section  3.1.2 )
+
+## 3.  How do I precisely determine my position? (Section  3.1.3 )
+
+## 4.  Faced with a new exposure, where do I start? (Section  3.2 )
+
+## 5.  What is the most appropriate way of collecting the data?
+
+(Section  3.3 , Chapters 5 – 10)
+
+3.1.1  Deﬁ ning the  ﬁ eldwork  o bjectives Fieldwork is undertaken to address particular scientiﬁ c problems; these should be clearly deﬁ ned before going into the ﬁ eld. This is because it is very easy, when out in the ﬁ eld and faced by excellent rock exposures, to become distracted by other interesting features or to spend too long on particular aspects. For instance, if the objective of the ﬁ eldwork is to determine the orientation, sense and amount of displacement on a series of faults bounding a sedimentary basin then the only critical feature of the sedimentary beds required is a knowledge of the stratigraphy to determine the amount of displacement across the faults. On the other hand if the objective of the ﬁ eldwork is to produce a graphic log of the succession then the details of any later structural movement are Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+If you are faced with a lot of good exposure and do not know where to start, break it down into small parts.
+
+Concentrate on a section of one cliff face ﬁ rst. If possible use a face that is either roughly perpendicular or parallel to the strike of the beds.
+
+Observations not required, except of course to be able to place the beds in stratigraphic order and to compensate for any displacement.
+
+Before you go into the ﬁ eld, decide on the overall objectives of the ﬁ eldwork and at frequent intervals during the ﬁ eldwork remind yourself of these. On a day - to day basis in the ﬁ eld, break the work down into achievable tasks; these may need to be reviewed and amended if the weather or time available changes. Another important point to remember is not to overinterpret the rocks based on a single observation. Instead combine as many lines of evidence as possible in order to put together one or more hypotheses. Write down the questions that each hypothesis raises, and think about what other data you need to collect or ﬁ nd in the literature to distinguish between these competing working hypotheses. Almost all of the geological record is incomplete so there are only ever a series of clues about what happened in the past.
+
+The common overall objectives of ﬁ eldwork are summarized in Table  3.1 (p.  44), which also provides reference to the chapters where there is further information both on the techniques and how to tackle the objectives. Speciﬁ c day - to - day activities to achieve these overall objectives will be tasks such as: explore a particular region for new exposures; collect data on certain units; map a particular area; collect samples; or check data collected on the previous day.
+
+3.1.2  Deciding  w here to  d o the  ﬁ eldwork The amount and type of rock exposure varies according to climatic zone  – from almost 100% in arid areas to almost nothing in heavily vegetated areas such as the tropics. Provided they are safe and accessible, sea - cliffs, working quarries and new road cuts provide some of the best exposures because of the amount of rock exposed and their unweathered nature. Stream and river sections can also be important. If you are going into a ﬁ eld area for the ﬁ rst time and do not have a speciﬁ c set of locations to visit based on published information from previous research on the area, spend a few hours or days completing a reconnaissance of the area to ﬁ nd the exposures that are most suitable for the objectives of the ﬁ eldwork. Table  3.2 (p.  45)
+
+provides a list of the types of places to search for suitable exposures. If you are completing detailed mapping then all exposures need to be considered, unless there is 100% exposure in which case traverse or contact mapping are more appropriate (Sections  10.5.1 and  10.5.2 respectively). To address all other ﬁ eldwork objectives, the following points are worth considering when choosing the exposures to concentrate on: •   whether or not they are representative; •   stratigraphic completeness;
+
+Observations Table 3.1  Common objectives for completing geological ﬁ eldwork and cross references.
+
+Overall objective Main data to collect Chapter references Gain a general insight into the geology of an area Lithology, structural and age data from selected representative exposures 5 – 10 inclusive Construct the geological history of an area Relative age data and basic geological information on each of the major units in the area and their relationship to each other 5 – 10 inclusive Produce a geological map Lithology and structural information from as many exposures as possible within the time and resources available Determine the sedimentary depositional environment Graphic logging of both sedimentary and palaeontological features, sketches and facies analysis 5 and 6 Make a record of a period of climate change Graphic logging with particular emphasis on the collection of data that are indicative of climatic conditions; high - resolution relative dating of the succession and collection of high - resolution samples for proxy analysis (e.g. carbon isotopes)
+
+5 and 6 Determine the sea - level history over a period of geological time Graphic logging along a proximal to distal transect; application of the principles of sequence stratigraphy Biostratigraphy Collect zonal signiﬁ cant body fossils systematically through the stratigraphy or samples for microfossil analysis Determine the level of an extinction event Record the ﬁ nds and hence stratigraphic ranges of the fossils Determine the nature and order of a series of igneous events Determine the overall mineralogy and rock fabric including the presence/absence and composition of phenocrysts, and size, shape and fabric of any vesicles; examine the cross - cutting and chilling relationships Monitor the activity of an active volcano Seismic, gas emission, gravity, thermal and observational data Collect samples for geochemical analysis in order to understand Earth processes Position of the exposures where samples were collected from and features of the rock body 6 – 9, 13 Locate mineral resources Mapping and collection of samples for analysis 10, 13 Record the deformation history of an area Mapping, structural measurements, cross - sections and stereonets 8, 10 Prediction and monitoring of earthquakes Mapping and geophysical measurements 10, 11
+
+Observations •   how weathered the rocks are; •   whether they are suitable for sampling without the need to clean the exposures; •   accessibility; •   safety.
+
+3.1.3  Locating  y our  p osition Geological data are spatial therefore it is very important to be able to record the position of geological features accurately.
+
+The ﬁ rst part of this is locating the position of the exposure. If you are using a GPS check that it is correctly adjusted for the country that you are visiting or an appropriate grid system (Section  2.4 ). Your position might also be immediately obvious from a topographical map. There are instances, however, when it is not possible to use either of these methods or when a more accurate position is required. In this case use your compass for triangulation (Section  2.3.3 , Figures  2.11 and  2.12 , pp.  22 – 24).
+
+Other  m ethods of  d etermining  y our  p osition In wooded areas, remote featureless regions and in some river valleys it may not be possible to work out your position using compass readings. Near to the Earth ’ s poles compasses are unreliable and you need to use a GPS or one of the shadow stick methods (see Wiseman  1993 ). If you are in an area of reasonably steep terrain an altimeter may help. In wooded regions and other featureless places you can set a bearing on your compass and walk along it. As you follow the bearing you can count your paces either manually or using a pedometer and hence calculate the distance that you have travelled from a known point. For this you need to calibrate the length of your normal paces by counting the number of paces you take over a known distance. The distance you have travelled along particular compass readings can be combined to produce transects or traverses (Section  10.5.1 ).
+
+## 3.2  Scale of  o bservation,  w here to  s tart
+
+and  b asic  m easurements Geological observations need to be made at a range of scales.
+
+Start at the large regional scale: this will provide the overall context. Then, consider the whole exposure, followed by units within the exposure and ﬁ nally focus down to the hand - specimen scale.
+
+3.2.1  Regional  c ontext Before starting any ﬁ eldwork it is essential to research the regional setting, context and previous work. Aside from books, Table 3.2  Possible places to search for exposures. In the case of animal burrows and where trees have been disturbed the subsoil type and small pieces of rock may give an indication of the underlying unit. This type of information should be directly compared with similar data collected from where the rocks are exposed.
+
+Potential exposure sites Natural exposures in upland, semi - arid and arid areas All river and stream sections, especially where there is a gradient Foreshore and sea - cliffs Mine and quarry workings Footings of construction sites Animal burrows Uprooted tree bases Road cuts Tunnels Back walls of landslides Lakeside cliffs When counting paces if you count the times that you put down just one of your feet this will halve the chance of making a mistake arising from miscounting. If you have lots of pacing to do it might be worthwhile using a pedometer.
+
+Observations scientiﬁ c papers and maps on the regional geology, web - based satellite image display systems such as Google Earth provide an easy way of investigating the general lie of the land and making preliminary observations on a large spatial scale and in some cases in more detail. A desktop regional study may be used to gather information on: access to the ﬁ eld locality and within it; the overall topography; the type and location of potential exposures; the general structure and strike of the beds.
+
+3.2.2  Whole  e xposure Arriving at a large exposure for the ﬁ rst time can be both exciting and daunting. It is often difﬁ cult to know where to start so, check whether the exposure is safe (Section  2.11 ) and then walk around and view it from different angles before making a decision.
+
+One way to tackle a large exposure with different rock types and features is to ﬁ rst of all divide the exposure into  ‘ units ’ based upon obvious features such as changes in colour and weathering characteristics. In most instances you are looking for somewhere between about 2 and 10 units (Figure  3.1 ), any more than this and it is hard to assimilate. If you have more than about 10 units you should try to group them together.
+
+Decide from a distance what the main characteristics of these units are and consider making a sketch to show these characteristics and their relationship to each other (Section  4.3 )
+
+before completing more detailed observations close up.
+
+Your preliminary observations of the large - scale features in the exposure should include the following.
+
+•   Nature of the contacts:  Note whether the contacts are gradational (e.g. colour change between units 2 and 3 and within unit 2, Figure  3.1 d) or sharp (e.g. contact between units 1 and 2, Figures  3.1 a and  3.1 c) and whether they are planar (e.g. Figures  3.1 a and  3.1 c) or irregular (e.g. contact between units 2 and 3, Figure  3.1 b and between units 1 and 2, Figure  3.1 d). In the case of irregular contacts note the geometry.
+
+•   Lateral changes in thickness:  Note the position and amount of any changes. These might relate to processes such as Figure 3.1  Four photographs and accompanying line drawings of different exposures showing how they might be divided into major units for recording and further examination. (a) Jurassic strata faulted against Triassic strata at Blue Anchor, Somerset, UK (height of cliff  c .  10  m ).
+
+(b) Carboniferous strata at Bowden Dors, Northumberland, UK. (c) Eocene strata exposed in the Clarence Valley, South Island, New Zealand.
+
+(d) Cenozoic strata at Choirokitia gorge, Cyprus. (a – d: Angela L. Coe, The Open University, UK.)
+
+Observations (a)
+
+(b)
+
+(c)
+
+(d)
+
+unit 1 grass grass beach unit 5 unit 4 unit 3 unit 3 weathered tree plants scree scree tree river bed river bed unit 3 unit 3 unit 2 unit 1 tree 4 5 unit 2a Unit 1 Unit 1 2b boulder grass unit 2 slipped material
+
+Observations erosion, faulting, ﬂ uvial or submarine channels, thinning of a dyke or sill, changes in depositional conditions of sedimentary and extrusive rocks. Note which units change in thickness (e.g. unit 4, Figure  3.1 b) and which are cut out (e.g. unit 3, Figure  3.1 b).
+
+•   Cross - cutting relationships:  Look for cross - cutting. For instance an igneous body cutting through older strata (Figure  7.1 , p.  140), erosional downcutting or an angular unconformity (e.g. Figures  3.1 b and  3.1 d).
+
+•   Evidence of displacement and deformation:  Look for folding and faults (e.g. Figure  3.1 a). Note any general trends in orientation angles and scale.
+
+•   Angular unconformities:  Look for a change in the rock type associated with a change in the bedding orientation.
+
+The large - scale weathering features of the units you are looking for are: •   whether any of the units stick out from the cliff or weather back (e.g. Figure  3.1 c, unit 5 compared with unit 4); •   whether any of the units are massive, i.e. structureless (Figure  3.1 b, units 1, 2 and 4); •   whether any of the units break into slabs or are crumbly (Figure  3.1 c, units 1 – 3); •   whether there any notable changes in vegetation that may be associated with changes in lithology (e.g. Figure  3.1 c units 1 and 4 are supporting trees), i.e. depending on mineralogy and permeability different rock types support different plants or have different moisture contents; •   whether the change in weathering matches with a change in colour, which together imply a change in lithology.
+
+Once you have deﬁ ned the main units, examine each one, in turn, close up, collecting the data that are appropriate to the objectives of the ﬁ eldwork. Some exposure surfaces do not reveal much, whereas other surfaces (e.g. where weathering has etched out the bedding or a fabric) may be more revealing.
+
+Don ’ t worry if you cannot identify a rock type or geological feature straight away. If possible examine the rock or features in different parts of the exposure (e.g. natural vs. quarried, stream cut vs. wind etched) and its relationship to enclosing rocks or other features, its nature and identity may become apparent over the course of time. If not, record the features carefully in your notebook and with a camera and use the literature, or ask another geologist, to help identify them. Only if it is necessary and appropriate (Chapter  13 ) collect a sample.
+
+Observations When you have gathered enough of your own information to understand the basic relationships and rock types you are ready to complete more detailed studies, collect samples and, if appropriate, compare and correlate your subdivisions and observations with published information.
+
+3.2.3  Hand  s pecimens When you select a loose sample, or an area of the unit to examine closely, check that it is representative of the unit being examined and that it has at least one very fresh surface.
+
+Loose specimens can be hammered to obtain a fresh surface.
+
+Only hammer off a small chip from an exposure if it is absolutely necessary and ﬁ rst ask yourself whether hammering will deface an exposure badly. To select a representative part you should consider the main features of the unit. For instance if 80% of the unit is sandstone and the other 20% is a muddy sandstone then ensure that you have a specimen of the main sandstone. Once you have examined the fresh surface you should supplement your observations by examining the weathered surface. In some rocks, for instance limestones and metamorphic rocks, differential weathering processes leave some minerals or grains sticking out of the main surface where they are easier to identify.
+
+The questions and notes overleaf provide some points to consider when deciding whether the rock is igneous, metamorphic or sedimentary. As well as the composition and texture of the rock, its context should provide a good indication of the category that the rock type belongs to. Table
+
+## 3.3 provides an overview of the checklists, rock - forming
+
+mineral tables and textural and classiﬁ cation diagrams provided elsewhere in the book and in the appendices.
+
+Commonly several of the units within an exposure are related to each other, so once you have described one hand specimen you should consider if it is possible to describe the others by simply noting differences between them. Often in sedimentary Table 3.3  Reference guide to checklists, ﬁ gures and tables elsewhere in the book and in the appendices (preﬁ xed A) for rock description.
+
+Description Common minerals Textural Classiﬁ cation Sedimentary Table  A6.1 Table  A6.2 Figures  A6.1 – A6.4
+
+## Section  6.2.1 ,
+
+Figures  A6.8 ,  A6.9 , A6.11 – 6.13 Igneous
+
+## Section  7.3
+
+Table  A7.2
+
+## Section  7.3
+
+Figure  A7.1 Metamorphic Sections  9.1 and  9.2
+
+## Section  9.3.1 , Table  A9.1
+
+## Section  9.2
+
+## Section  9.3.3
+
+Observations successions, but also with igneous bodies, it is the changes and differences between the units that provide clues about how the processes within the succession have changed.
+
+Some questions to think about when deciding whether a rock is igneous, metamorphic or sedimentary: •   Is the rock made up of interlocking crystals, or made up of crystals in a ﬁ ne - grained groundmass, or made up of grains within a matrix? If it is composed of grains then it is likely to be a siliciclastic rock or a carbonate but it could also be a pyroclastic rock. If it is crystalline then it could be igneous, metamorphic or one of the less common sedimentary rocks such as an evaporite or recrystallized limestone.
+
+•   What are the major minerals in the rock? There is only a limited range of minerals in sedimentary rocks and certain minerals are diagnostic of metamorphic conditions.
+
+•   Does the rock body show layering? In many cases this is bedding and it indicates sedimentary rocks, lava ﬂ ows or pyroclastic rocks. Be aware though that a few metamorphic and plutonic rocks can also show layering which may be mistaken for bedding.
+
+•   What is the geometry of the rock body? Both igneous and sedimentary rocks can form dykes and sills but these are relatively uncommon in sedimentary rocks.
+
+•   What is the overall context of the rock body? Metamorphic rocks either form distinct, concentric zones around an igneous body if they are due to contact metamorphism, or more extensive outcrops if they were formed through regional metamorphism.
+
+•   Does the rock show a mineral foliation (Section  8.3 )? If it does it is probably metamorphic, although some igneous rocks show such fabrics.
+
+•   Does the rock show distinct cooling joints? These form only in igneous rocks (Section  7.2.2 ), although they can extend into the adjacent country rock.
+
+•   Fossils are absent from igneous rocks except for the occasional occurrence in pyroclastic deposits. Fossils are only rarely preserved in low - grade metamorphic rocks and are not found in high - grade metamorphic rocks.
+
+•   More complex bedding structures such as cross - stratiﬁ cation and ripples are conﬁ ned to sedimentary and pyroclastic rocks.
+
+Observations •   Sedimentary rocks show a range of porosities whereas plutonic igneous and metamorphic rocks have a very low porosity.
+
+•   Metamorphic and igneous rocks have a higher density than most sedimentary rocks.
+
+## 3.3  Overview of  p ossible  d ata  f ormats
+
+The objectives of the ﬁ eldwork will determine the most appropriate format for the data collection. Chapters  5 to  9 cover speciﬁ c types of data collection relating to fossils, structures and different rock types. It can also be useful to transfer techniques between different rock types, so the range of ﬁ eld methods are brieﬂ y reviewed here.
+
+•   Sketches:  Sketches on a range of scales both in plan view and cross - section to show the geometric relationships of rock bodies are used in all aspects of geological ﬁ eldwork.
+
+They are covered in detail in Section  4.3 .
+
+•   Graphic logs:  These are graphic representations of a stratigraphic succession of rocks, including information on the facies, boundaries between different units, bed thickness and lithostratigraphy. Graphic logs are commonly used for recording changing facies in sedimentary rocks (Chapter  6 ), but they are probably the best means of recording any stratigraphic information whether it is changing rock types along a cutting, the stratigraphic succession of fossils (Chapter  5 ), or the features of pyroclastic rocks (Section  7.2 ) or even a succession of lavas (Chapter  7 ). The construction of a graphic log is covered in detail in Section  6.3 .
+
+•   Cross - sections:  Field sketches of cliffs and exposures provide one type of cross - section. Another type that is worth sketching when in the ﬁ eld is a generalized cross - section of the inferred subsurface geology. This can be particularly useful where the strata are folded and/or faulted. A sketch cross - section helps to focus the task and think about different possibilities. Cross - sections are covered in Sections  4.3 ,  10.4.3 and  10.6.2 .
+
+•   Maps:  Sketch maps (Section  4.3.4 ) and base maps (Section  10.5.2 ) provide an invaluable plan view of the geological features showing the geometrical relationship between the units and the location of large - scale geological features.
+
+•   Stereonets:  For structural studies and also palaeocurrent measurements in sedimentary successions it is often
+
+Observations necessary to collect large amounts of orientation information on the different features. These are best summarized and analysed in the form of a stereogram, which provides a means of easily comparing the data and assessing where the main orientations lie. Stereographic projection is brieﬂ y outlined in Appendix  A8 .
+
+•   Quadrats:  Quadrats (i.e. a set area or volume of rock) are useful for providing a means of gathering a quantitative snapshot of objects on a plane that is statistically representative of those objects (Section  5.4.2 ). They are often used to record the type, size, preservation and orientation of fossils. However, they are also useful for characterizing coarse - grained sedimentary deposits such as pebble beds or even phenocryst variation in igneous rocks.
+
+For geological ﬁ eldwork it is a good idea to get used to estimating distances, angles and directions both for approximate readings and so that when you do measure something you can mentally check whether the reading is reasonable or not. This enables you to rule out the possibility that you have used the measuring device incorrectly or whether it has malfunctioned.
+
+Notebook The  ﬁ eld  n otebook Angela L.  Coe
+
+## 4.1  Introduction: The  p urpose
+
+of  ﬁ eld  n otes The ﬁ eld notebook forms the main record of the data you gather in the ﬁ eld. In particular, it should contain notes on where the data were collected, the relationships between the different rock bodies, their compositional and textural characteristics, and internal features. It usually also records the location of any samples collected, the position and orientation of any photographs taken, cross references to published information and notes on any ideas that you have for interpretation or questions raised by your observations. In addition the ﬁ eld notebook usually links together any other components that you might have used to record data and ideas in the ﬁ eld. For instance, an electronic database held on a piece of geophysical equipment, ﬁ eld maps, annotated ﬁ gures and graphic logging sheets.
+
+One way to think of your ﬁ eld notebook is as an  ‘ academic ’ diary, i.e. a record of  all of your observations, ideas, interpretations and questions over the ﬁ eldwork period. Often ﬁ eld notebooks include less academic notes, for instance the weather, someone you met that day, where you stayed or ate, if you were ill or your mood. This is because all of these serve as an  aide memoire when you come back to your notes, provide information for future trips and can help you to assess how good your notes might be for that particular day.
+
+The choice of a suitable ﬁ eld notebook was covered in Sections
+
+## 2.8 and  2.9 . This chapter concentrates on the type of
+
+information that you need to collect in the ﬁ eld and suggestions for organization of the data. The principles are equally applicable to both an electronic notebook and a hardcopy notebook. A few features may need to be adapted for electronic use: for instance, use of sequential and logical ﬁ le names rather than page numbers, creating an index and/or ﬁ les with preliminary information. One of the main challenges of Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Notebook using an electronic system is ﬁ nding a suitable means of easily making detailed sketches (Section  4.3 ).
+
+## 4.2  Field  n otebook  l ayout
+
+Designing and using a good ﬁ eld notebook layout adapted to suit  your needs and style will enable you to be systematic in the notes that you take. This will help ensure that you do not forget major components and that the information you collect is much more accessible and therefore more readily useable.
+
+Fieldwork can be strenuous and difﬁ cult particularly when, for instance, it is raining, windy, very hot, very cold, at high altitude, or the locality is difﬁ cult to access. Quite often the time available to complete crucial data collection is limited due to transportation, the hours of daylight, tidal and weather conditions and the overall expense of completing ﬁ eldwork. All of these constraints mean that designing an efﬁ cient means of collecting data in the ﬁ eld will maximize your output.
+
+4.2.1  Preliminary  p ages When you start to use a new notebook ensure that you put your name, address, email and any other contact details in a prominent place on the cover or immediately inside just in case you should lose it. We suggest that you set aside up to 10 pages at the front of the notebook where you can insert a table of contents and useful general information. For the table of contents two to four pages are usually sufﬁ cient with a column for page numbers. Other useful information for these preliminary pages may include copies of rock classiﬁ cation ﬁ gures (such as those in the Appendices of this book), checklists (to ensure you do not forget to take a crucial measurement or record an important observation), abbreviations and symbols used, photocopies of geological or topographic maps of the areas you will visit, information on who you need to contact to gain access to the area (e.g. quarry manager or landowner) and any other information that you might ﬁ nd useful in the ﬁ eld. In remote and semi - remote areas where accommodation is limited it can also be useful, either at the front of the notebook or in the daily entries (see below), to include brief details of suitable accommodation and places to eat/buy provisions, etc., for return visits.
+
+4.2.2  Daily  e ntries The daily entries will form the bulk of the information in your ﬁ eld notebook. Example pages for the start of a daily entry are illustrated in Figure  4.1 .
+
+Notebook Figure 4.1  Four examples from notebooks of the ﬁ rst page relating to a particular day ’ s ﬁ eld activities.
+
+(a) Visit to a working quarry to collect rock samples. (Notebook of Angela L. Coe, The Open University, UK.)
+
+(b) Field trip to Snowdonia, UK with introductory notes. (Notebook of Tiffany Barry, The Open University, UK.) (c) Geological mapping in Ireland. (Notebook of Kate Bradshaw, The Open University, UK.) (d) Field trip to Seaton Sluice, Tyne and Wear, UK to examine the sedimentary deposits. (Notebook of Paul Temple, Open University student.)
+
+(b)
+
+(a)
+
+(d)
+
+(c)
+
+Notebook The initial information should include the following type of information, although the exact details will depend on the purpose of the ﬁ eldwork.
+
+•   Date and day of ﬁ eld visit (Figure  4.1 ).
+
+•   A prominent heading containing the name of the general area and/or locality or localities to be visited (note this is clearly shown in upper case in a box in Figure  4.1 a and b).
+
+•   Aims of the ﬁ eldwork (Figures  4.1 c and  4.1 d) or a summary of the general hypotheses that are to be tested (Figure  4.1 b).
+
+•   Notes on the weather and any other information that will help you to recall the ﬁ eld day (Figures  4.1 c and  4.1 d). This might also be a prominent feature in the landscape or your means of access.
+
+•   The name(s) of your ﬁ eld partner or the other members of the team of people you are working with (Figure  4.1 a top right).
+
+•   Any notes on access restrictions, permission, logistical arrangements and discrepancies between the topographic map and reality on the ground (Figure  4.1 a).
+
+•   More detailed location information as appropriate. This may take the form of reference to the literature (Figure
+
+## 4.1 a), a grid reference (Figures  4.1 a and  4.1 d), longitude
+
+and latitude, reference to a detailed topographic map (Figure  4.1 a) and/or a sketch map. Sketch maps are particularly useful for the area immediately adjacent to the ﬁ eld site(s) where you need information at a high spatial resolution (see Section  4.3.4 for further information).
+
+The bulk of the information in your notebook is likely to be in one of the following forms: (1) ﬁ eld sketches including maps, cross - sections and diagrams of cliff faces and individual features (Section  4.3 ); (2) written notes or tables of the data collected; (3)
+
+written notes detailing the interpretation and ideas of yourself and others (Section  4.4.2 ); (4) systematic information on samples collected and photographs taken (Section  4.4.1 , Chapters  12 and 13 ); and (5) reference to other data sets used in the ﬁ eld (such as ﬁ eld maps and published literature).
+
+4.2.3  General  t ips •   Cross referencing:  Number the pages of your notebook; this will allow you to cross reference, indicate where notes and ﬁ gures might be continued, provide references to other documents and produce a list of contents for ease of access to information at a later date.
+
+Notebook •   Use of space:  Space your notes out so that there is room to add further notes if you revisit the locality or to record the location of samples. Extra space is also helpful if you wish to add interpretation later on, or a discussion that you have had with colleagues about the data at a later stage. Space also makes the notes easier to follow (Figure  4.2 a, p.  58).
+
+•   Organization:  Use headings and subheadings as they make the notes much easier to ﬁ nd (e.g. Figure  4.1 ). Devise a system to show the hierarchy of these headings. For instance use a box around the main heading and an underline for the others (e.g. Figure  4.1 a). Record ideas and points of interpretation in a different manner, for instance in a separate column or in a  ‘ cloud ’ (Figure  4.2 a). Another tip is to use a coloured pencil/waterproof pen to pick out particular notes that are important to the task in hand: for instance, sample numbers or locality numbers or photographs (Figure  4.2 b) or strike and dip data.
+
+Information can also be organized by ordering it into columns (Figure  4.2 b).
+
+## 4.3  Field  s ketches:  A  p icture  i s  w orth
+
+a  t housand  w ords Sketches form a vital part of all geological ﬁ eld notebooks.
+
+They include: diagrams of cliffs or quarry faces; sketches of individual features such as a fossil, mineral or sedimentary structure; sketch maps; cross - sections; and sketches showing ideas for interpretation.
+
+Sketches are one of the best ways of recording and conveying geological information. This is for two reasons: (1) They provide a shorthand means of conveying information in an easily accessible form. For example, it is much quicker to draw the form of an irregular contact between two beds than to describe it. Because geology is mostly about the relationship between different rock bodies and their three - dimensional geometries, irregular shapes and contacts are common, and it is much easier to convey this in detail in a ﬁ gure than it is in words. (2) The very act of producing a good sketch involves carefully observing the features, units and the relationship between all of them. If executed properly, sketches can convey much more of the key geological information than a photograph because the author has to pick out the important geological features that relate to the objective of the ﬁ eldwork more clearly, add labels to show where other data have come from, and add a certain amount of interpretation.
+
+It is worth bearing in mind that the human eye is much more sophisticated than any camera. In almost all instances a good A few coloured pencils are useful for sketches in the ﬁ eld and for distinguishing different parts of the ﬁ eld notes.
+
+Notebook Figure 4.2  (a) Sketch from a ﬁ eld notebook showing good use of space, a method of separating interpretation (shown in the cloud at the top right) from the observations. (Notebook of Brian McDonald, Open University student.) (b) Part of a graphic log showing effective use of colour to pick out samples (red) and photographs (blue). (Notebook of Angela L. Coe, The Open University, UK.)
+
+(a)
+
+(b)
+
+Notebook geological ﬁ eld sketch is a combination of a simple line drawing of the relevant geological features you can observe and your initial geological deductions. Thus photographs are  not a replacement for sketches because they are neither selective nor deductive and you cannot add labels and cross references.
+
+Professional geologists regularly use a combination of photographs and sketches. Producing ﬁ eld sketches is the notebook skill that most students of geology and even some professionals ﬁ nd very difﬁ cult, but it is a skill that is well worth developing.
+
+Figure  4.3 (p.  60) shows a range of different types of sketch and styles. They all record geological data. Simple two - dimensional sketches can provide an effective summary of many different features at a variety of scales (Figure  4.3 a – d). In contrast, three - dimensional sketches of sedimentary structures are complex and difﬁ cult to execute (Figure  4.3 e). In this case the author has also bravely tried to show the shape of the sandstone block the structure was preserved in. This type of sketch is not generally recommended because: (1) it is hard to draw and (2) the sedimentary structure is confused with the shape of the weathered surfaces; (3) the shape of the block is also irrelevant to the purpose of the exercise which was to record the sedimentary structure. Simple sketch cross - sections showing the topography, exposures and main geological units (Figure  4.3 d) are useful overviews. Where the relationships between different rock units are complex a sketch will help to focus observations (Figure  4.3 f). Figure  4.3 f also shows effective use of colour and an inset box to show more detail of one part.
+
+4.3.1  General  p rinciples: Aims,  s pace and  t ools Before you start sketching you should decide on the aims of the sketch. One way to do this is to start by writing down the title or caption of the sketch encapsulating the aims. Sketches are usually drawn freehand in pencil (i.e.
+
+not with a ruler). Drawing in pencil is advantageous because it allows you to erase mistakes and/or redraw part of the sketch. With a pencil it is also easier to draw lines of different thickness and boldness as well as shading part of the ﬁ gure to bring out different features (Figure  4.4 , p.  62).
+
+A minority of people sketch directly in pen but this is not recommended because it is impossible to correct mistakes or make improvements, so the accuracy is compromised.
+
+Most sketches look better on plain paper, although some people ﬁ nd that lined or graph paper is useful for scaling.
+
+Notebook )f( )
+
+e ( (c)
+
+(d)
+
+(a)
+
+(b)
+
+Notebook Figure 4.3  Example sketches from different authors ’ notebooks showing features on a wide variety of scales.
+
+(a) Simple cross - sectional sketch showing wavy lamination in a sedimentary rock. (Notebook of Paul Temple, Open University student). (b) Zoned phenocryst showing shape of crystal zones. (Notebook of Kate Bradshaw, The Open University, UK.) (c) Labelled cross - sectional sketch of pebble bed. (d) Large - scale sketch cross - section across a hillside in Argentina. (c and d: Notebook of Angela L. Coe, The Open University, UK.) (e) Complex three - dimensional sketch of trough cross - stratiﬁ cation in a block of sandstone. (Notebook of Kate Bradshaw, The Open University, UK.) (f) Sophisticated sketch of the geological relationships of various rock bodies in a kimberlite complex, South Africa. (Notebook of Richard Brown, The Open University, UK.)
+
+Here are some ideas for producing a good sketch; these are also summarized in Figure  4.4 (p.  62).
+
+•   Space:  Allow plenty of space in your notebook for the sketch so that there is room to add labels summarizing observations, scale and orientation, detailed drawings of pertinent parts (insets), cross references to later sketches or other written notes, and labels summarizing points of interpretation. It is also much easier to sketch at a larger scale; if you are not good at sketching it may be tempting to push the sketch into one corner of a page of the notebook but this is making it far more difﬁ cult for yourself. So, take your time and use a whole page or even two facing pages for the sketch and labels. Don ’ t spoil a good sketch with too many labels though or place labels on the sketch so that they obscure parts of it. Figure  4.2 a (p.  58) shows good use of space but it could have been improved by placing the labels that are on top of the line drawing off to one side with tag lines in a similar manner to Figures  4.3 c and  4.3 f.
+
+•   Scale:  All sketches should include a scale. How accurate the scale of the sketch is will depend on the purpose of the ﬁ eldwork. However, it is important to get the features into proportion. For sketches of cliffs, hillsides, etc., once you have established a scale for a small portion (e.g. from the height of a person (Figure  4.2 a) or size of a vehicle) use your thumb held at arm ’ s length to estimate the scale for the remainder of the sketch.
+
+•   Orientation:  All sketches should include an orientation relative to north and a clear indication as to whether it is a plan view, oblique view or cross - section (e.g. cliff). The simplest and most straightforward way of adding an orientation is to use a north arrow for any plan views and to label the ends of cross - sections with the nearest compass points, e.g. NW – SE or NNW – SSE. Alternatively, you can label your viewpoint to the centre of the sketch, e.g. looking due southeast or looking towards 135 ° . The latter method is popular for views of oblique surfaces but is not recommended for cliff sections because it is not as clear.
+
+Notebook Figure 4.4  An annotated example of a ﬁ eld sketch showing some of the key features that can usefully be included in a sketch. This sketch is of Kimmeridgian rocks exposed in northeast Scotland. (Notebook of Angela L.
+
+Coe, The Open University, UK.)
+
+clear title simple ornament to help define the unit small amount of interpretation use of different line weights edge of sketch clearly defined inset box to show position of higher resolution sketches or position of photographs scale shading to show darker coloured layers minimal labels positioned so they are not obscuring the sketch orientation colour for vegetation or to distinguish features •   Angles and geometry:  Boundaries between units and features within units (e.g. cross - stratiﬁ cation or folding) are best shown at approximately the correct angle of dip. This will not only make the sketch look more realistic, it will be more accurate and make the features easier to identify. In general people tend to exaggerate angles (i.e. make them steeper). A simple technique for obtaining a good estimate of the angle is to put your compass - clinometer into the clinometer mode (Figures  2.6 (step 2) and  2.7 (step 3)) and then holding the compass - clinometer at arm ’ s length with
+
+Notebook the long edge at the same angle as the features whose dip you are trying to estimate, read off the apparent dip.
+
+•   Inset boxes for detail:  In some cases the geological feature repeats itself on the small scale, or there is one particular part of the cliff that you want to collect data on in more detail. So rather than putting the detail in for the entire cliff face one useful technique is to draw the main features on the sketch and then add a box to indicate the area where a photograph has been taken or a more detailed sketch has been constructed (Figures  4.3 f and  4.4 , pp.  60 and 62). This also enables you to draw the detailed part at a larger scale if appropriate.
+
+•   Colour:  A green coloured pencil can be useful for showing the vegetation and clearly separates it from the geological part of the sketch (Figure  4.4 ). A red or blue coloured pencil is useful for cross references, particular items or key features (Figures  4.2 b and  4.3 f, pp.  58 and 60).
+
+4.3.2  Sketches of  e xposures Sketches of whole, or representative parts of, exposures such as sea - cliffs, road cuts and quarry faces are commonly used to observe and show one or more of the following: •   the main units and the geometric relationship(s) between them; •   large - scale (metres to tens of metres) structures such as folds, faults and angular unconformities; •   the position of more detailed measurements (e.g. samples or a graphic log; see Section  6.3 and Chapter  13 ) so that the exact location can be easily relocated.
+
+In most instances it is best to take up an entire page, or even two facing pages, of a hardcopy notebook when constructing a sketch of a cliff or quarry face. Also consider the orientation of the notebook; would the subject matter be best captured with the notebook page orientated landscape (i.e. wider than it is taller) or portrait (i.e. taller than it is wider)? Long cliff faces are usually best landscape whereas a vertical proﬁ le through a cliff might be better portrait. Figure  4.5 b – f (pp.  64 – 65) shows how you might build up a sketch of the cliff shown as a photograph in Figure  4.5 a. While these instructions are divided into suggested steps it may be necessary to amend the order depending on the subject matter, or go back to a previous step to add or amend the detail. The aim of the exercise in the case of Figure  4.5 is to summarize the main rock units and the relationship(s) between them.
+
+For shading, a softer (HB or less) conventional type of pencil rather than a mechanical pencil is better.
+
+Hold the pencil so that the side of the pencil lead is in contact with the paper to execute the shading. Varying the amount of pressure results in different depths of shading. Gently rub the tip of an index ﬁ nger over the shading in a circular motion if you wish to smooth the shading out further.
+
+Notebook Figure 4.5  Photograph of Carboniferous - age strata near Cresswell, Northumberland, UK and series of sketches showing how a ﬁ eld sketch of this exposure might be gradually constructed. Note that features of no interest such as the large cracks have been ignored because they would detract from the geological features of interest.
+
+## 1. Assess the units
+
+## 2. Draw the outline
+
+Spend some time looking at the exposure and deciding how many units there are (Section 3.2.2). Look for any major features such as cross-cutting relationships or displacements. Choose a representative part of the cliff to sketch (shown by the yellow box in this case).
+
+Decide on the best orientation of your notebook for the sketch (in this case landscape). Put a title/caption at the top of the page, detailing the subject of the sketch and the aims. Draw the outline of the area first, i.e. the bottom and top of the cliff, and extend the sketch laterally to the edge of the chosen area. If there are areas of vegetation add at least the main ones as points of reference.
+
+## 3. Draw the major geological
+
+boundaries Draw the major boundaries between the units. As you sketch in the boundaries pay particular attention to whether the boundaries are sharp, or gradational, undulatory or planar. Use a thick, bold line for where the boundary is sharp and distinctive, and a medium density line for those that are gradational. Use your compass-clinometer to estimate apparent angles (Section 4.3.1) and your thumb held up in front of you at arm’s length to estimate the relative thicknesses. Ensure that the boundaries between the units are continuous for their entire length; if the boundary is obscured by vegetation or slipped material mark this in.
+
+Notebook
+
+## 4. Draw the boundaries of any
+
+subunits and a weathering profile Where there is differential weathering of the rock units it can be helpful at this stage to draw a weathering profile at the side of the sketch that is directly related to each of the units. This can be used to relocate your position on the sketch particularly if there are many units.
+
+Draw in the boundaries of any subunits using lines of appropriate weight and thickness. If appropriate, add other features such as scree, and further details on reference points such as vegetation to help you locate the different parts of the sketch but ensure that these do not detract from the main part of the sketch.
+
+## 5. Sketch the detail within each
+
+of the units Observe each of the units in turn and add the following: shading for any darker coloured units (using different densities of shading as appropriate); any detail within each of the units/subunits using thin lines, e.g. thinner beds, sedimentary structures, folds, etc. Ensure that as you add to the sketch the boundaries between the main units remain clearly defined. If for part of the sketch there are features that are hard to distinguish, or you do not have time to add the detail, label the sketch accordingly (e.g. features not shown, massive).
+
+## 6. Add the finishing touches
+
+Add a scale, orientation and number/name the units so that you can refer to each of them in your further notes. Complete a detailed sketch of any key parts and mark how these relate to your main sketch.
+
+The rock face is depicted in the sketch as if it has been projected on to a two - dimensional vertical plane. (Notebook of Angela L. Coe, The Open University, UK.)
+
+Figure 4.5 Continued
+
+Notebook Figure 4.6  (a) Photograph and (b) sketch of a fold near Berwick - upon - Tweed, UK illustrating the technique of tracing several key beds through the structure in order to illustrate its overall form.
+
+(Notebook and photograph of Angela L. Coe, The Open University, UK.)
+
+(a)
+
+(b)
+
+A few other tips: •   If the exposure is composed of many thin beds with no really distinct units, concentrate on one or two beds and use them to depict the overall structure in the cliff (e.g.
+
+Figure  4.6 ).
+
+•   If the face is structurally complex you may have more than one possible interpretation. Show this by either completing more than one sketch, or completing a sketch and adding several small cartoons to show the different interpretations or using different colours to depict alternative interpretations.
+
+Notebook •   Use different line weights to distinguish between distinct and gradational boundaries. Use shading to pick out darker coloured units.
+
+•   Do not try and draw the three - dimensional nature of the face (e.g. Figure  4.3 e, p.  60). This will make it very complex. Imagine instead that the beds are projected onto a ﬂ at plane (Section  4.3.3 ). If necessary draw a sketch map to relate different two - dimensional faces to each other.
+
+•   If the sketch is to cover a laterally extensive area add a horizontal scale and consider breaking the sketch into scaled panels (Figure  4.7 ).
+
+4.3.3  Sketching  m etre - and c entimetre - s cale  f eatures All geological features occur in three dimensions, whether they are due to rock deformation, sedimentary processes or intrusion processes. Whilst a small minority of people are capable of drawing clearly in three dimensions, most of us are not. For some features such as faults and bedding a two - dimensional representation is sufﬁ cient.
+
+Figure 4.7  Detailed sketch of part of a kimberlite complex, South Africa illustrating use of an accurate horizontal scale in addition to good use of colour, clear labelling that does not interfere with the sketch and distinct boundaries between the different units. (Notebook of Richard Brown, The Open University, UK.)
+
+Notebook However, where more difﬁ cult three - dimensional features need to be recorded such as folds or sedimentary structures there are two simple solutions depending on the feature being recorded.
+
+•   Draw two or three sketches of faces that are approximately at right angles to each other to illustrate the three - dimensional characteristics. It is important in this case to choose the most representative faces.
+
+•   Record the features as a small - scale map and cross - section (for instance the anticlines and synclines * in Figure  4.8 ).
+
+Another useful technique when sketching structures is to ensure that the geometries are drawn at the correct angle. This means checking the apparent angle of any dipping surfaces and drawing them to within about 5 ° (see Section  4.3.1 for how to do this with a compass - clinometer) as well as showing the geometric relationship between the different parts correctly. For instance in cross - stratiﬁ ed deposits the beds generally dip at between about 10 ° and 25 ° and never higher than 40 ° ; the individual layers in cross - sets do not cross - cut each other; and the base of the beds run in tangentially to a bottom surface that represents true bedding (e.g. Appendix  A6 ; Figure  A6.14 a and b). Fossils are often best also recorded with photographs.
+
+Sketching has the advantage of making the geologist observe the features, but fossils are often so complex that a photograph is quicker and easier. If the fossil is partly obscured or has a complex three - dimensional form (e.g. some burrows), or you need to show the overall context, then sketching may also be necessary to show the overall form and how the different parts are related (see also Section  6.2.2 ). This ensures that you have a record of the interpretation of how the different parts ﬁ t together to enable the photographs to be put into context.
+
+4.3.4  Sketch  m aps Sketch maps can be constructed to show areas of interest at a high spatial resolution so that the area can be relocated at a later date, or to remind you how the different data sets that you collected are related laterally. They can also be used to depict geological relationships schematically that cannot be shown on a single sketch. Sketch maps need only to be roughly to scale; they should, however, include an approximate scale and a north arrow. You should include sufﬁ cient topographical features, such as the edge of a cliff face or buildings or the sea, as well as the access route in order to put the speciﬁ c geological material into context.
+
+Figure  4.9 (p.  70) shows a number of examples of different styles of location maps from ﬁ eld notebooks. Remember that Tracing the structure: A simple technique that can help with the recording of more complex features is to trace a lamination or bedding plane through the structure with your ﬁ nger or hand. This can help to give a better sense of the geometry and to split the structure into its component parts.
+
+* The terms anticline and syncline imply that the folded strata are the correct way up (i.e. younging upwards). The terms antiform and synform refer simply to whether the fold closes downwards or upwards no matter which way the younging direction lies.
+
+Notebook Figure 4.8  (a) Photograph of several plunging folds near Berwick - upon - Tweed, Northumberland, UK. (b) Detail of (a) showing lines of cross - sections in (c). (c) Series of simple sketch cross - sections and a sketch map from a ﬁ eld notebook showing how the three - dimensional characteristics of these folds might easily be recorded in two dimensions. The map could be improved by adding a numerical value for the strike direction of the axial traces.
+
+(Photographs and notebook of Angela L. Coe, The Open University, UK.)
+
+line of section in (c)
+
+(a)
+
+(b)
+
+(c)
+
+A’ A’ B’ B’ C’ C’ A B C there is no point in reproducing detailed topographical maps that are already published and which you can annotate instead.
+
+The sketch map should add something new and useful. If you need to produce an accurate geological map then your
+
+Notebook (d)
+
+(c)
+
+(a)
+
+(b)
+
+Notebook recordings should be plotted precisely on a topographic ﬁ eld map or aerial photograph (Chapter  10 ). Occasionally the hard - copy accurate base map is not at a large enough scale and, in these cases, it may be useful to draw an expanded map in your notebook and to add other topographical features (Figure  4.10 ).
+
+Figure 4.9  Examples of different types of sketch map constructed to show the position of important geological information. (a) River section in Argentina to show the location of a series of graphic logs. Note the GPS readings for key topographical features (a, b, c, etc.) and cross references to notebook pages where the graphic logging notes are located. The map would have been better with a north directional arrow rather than the E and W because these make it look like a cross - section. (b) Simpliﬁ ed map of a disused quarry, Oxford, UK showing the location of the two different sections that were measured (1 and 2). (c) Sketch map of Choirokoitia gorge, Cyprus showing the main topographical features and the relative position of further notes (A to F). (d) Detailed sketch map of about 400  x  400  m of the ﬂ oor of a kimberlite mine, South Africa showing the relationship between the different rock types. Colour and abbreviations for the rock classiﬁ cation have been used very effectively to distinguish these complex relationships. (a to c: Notebook of Angela L. Coe, The Open University, UK; (d) Notebook of Richard Brown, The Open University, UK.)
+
+Figure 4.10  Example of an enlarged, to scale and orientated detailed map produced in the ﬁ eld at a higher resolution than the ﬁ eld map to show the details of several thin beds. Note that the main topographical features have been included along with the orientation and scale. (Notebook of Kate Bradshaw, The Open University, UK.)
+
+Notebook If you have access to a photocopier then a large - scale base map could be produced, but this is often not possible and may not be foreseen before you go into the ﬁ eld.
+
+## 4.4  Written  n otes: Recording  d ata,  i deas
+
+and  i nterpretation 4.4.1  Notes  r ecording  d ata and  o bservations Written notes on the raw scientiﬁ c data and observations that you collect can range from rock and fossil descriptions, to structural measurements, to more detailed notes on the relationship between rock bodies (Figure  4.11 ). These observations and data should be short notes rather than full sentences because these take longer to write and can detract from the main point. Bullet points, clear subheadings or numbered lists are a useful style to adopt for ﬁ eld notes as this encourages brevity and makes it easier to assimilate the individual points. If a lot of numerical information is being collected it is best presented in the form of a table. This will make it easier to assess at a glance whether all the necessary information has been recorded, and also aids its conversion into an electronic format. It can also be useful to develop your own abbreviations for features that are commonly used.
+
+Given that the constraints on ﬁ eldwork tend to change frequently it is useful to regularly review the progress made and construct a list of further tasks (Figure  4.12 a and b, p.  74).
+
+It is also common to compile a summary list of the samples collected (Figure  4.12 c) and/or photographs taken (Figure  4.2 b, p.  58). This helps to ensure that each sample has a unique number, places the information in a readily accessible form and allows other information to be added (e.g. grid references; Figure  4.12 b, p.  74).
+
+4.4.2  Notes  r ecording  i nterpretation, d iscussion and  i deas As well as new data, you should also record ideas, possible interpretations and questions when you are in the ﬁ eld to help you test competing theories (Figures  4.13 and  4.14 , pp.  75 – 76).
+
+This might be in the form of a list, a ﬁ gure, or even a series of cartoons illustrating a geological history (Figure  4.14 a). It is often useful to record the whole thought process (Figure  4.14 b)
+
+so that you can reanalyse this at a later stage. Frequently, when collecting ﬁ eld data, different possible interpretations come to mind because you are totally immersed in the information; this is particularly true when working with a ﬁ eld partner or as part of a team. The interpretation and ideas that you record should
+
+Notebook Figure 4.11  Extracts from ﬁ eld notebooks showing examples of written data styles. In all cases the data are clearly laid out and easy to ﬁ nd. (a) List of the main minerals in an igneous rock and the characteristics of each of the minerals. (Notebook of Paul Temple, Open University student.) (b) Main observations at one locality in an area that was being mapped. (Notebook of Kate Bradshaw, The Open University, UK.) (c) Ordered and systematically recorded structural data of both planes and linear features with the dip recorded as a two - digit number and the strike as a three - digit number.  Note: S s  =  main foliation, L s  =  main stretching lineation, L f  =  fault lineation; the other abbreviations refer to minerals. See Section  8.1.1 for structural notation. (Notebook of Tom W.
+
+Argles, The Open University, UK.) (d) Description of a sedimentary rock based on a checklist of compositional and textural characteristics (see Appendix  A6 , Table  A6.1 ). (Notebook of Brian McDonald, Open University student.)
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Notebook Figure 4.12  Extracts from ﬁ eld notebooks showing examples of checklists. (a) Tasks to be completed and possible timing. (Notebook of Tiffany Barry, The Open University, UK.) (b) Simple  ‘ to do ’ list. (Notebook of Clare Warren, The Open University, UK.) (c) Example of a rock sample list. (Notebook of Kate Bradshaw, The Open University, UK.)
+
+(a) )
+
+( )
+
+b (
+
+Notebook Figure 4.13  (a) Written interpretation in note form with clear indication of the source.
+
+(Notebook of Susan Ramsay, University of Glasgow, UK.)
+
+(b) Simple ﬁ gure to summarize different interpretations of an observation. (Notebook of Brian McDonald, Open University student, UK.)
+
+(a)
+
+(b)
+
+Notebook Figure 4.14  Examples of how interpretation might be recorded in the ﬁ eld. (a) Three cartoons to illustrate a possible interpretation of a fold with a cross - cutting breccia (Notebook of Tiffany Barry, The Open University, UK.) (b) Cartoon and notes interpreting a kimberlite deposit, South Africa. Excellent example of recording the hypothesis, evidence and questions that it raises. These type of notes will form a good  aide memoire when the work has to be written up and as a basis of any further discussion (Notebook of Richard Brown, The Open University, UK.)
+
+(a)
+
+(b)
+
+Notebook not just be the  ‘ perceived correct answer or that of the group leader ’ , because new data may change the interpretation. Also the recording of other ideas and interpretation can help to conﬁ rm which of several hypotheses is correct and determine what other observations need to be made. Ensure that you separate data from interpretation, in addition to noting the origin of the interpretation (Figure  4.13 a, p.  75).
+
+## 4.5  Correlation with  o ther  d ata  s ets
+
+and  i nterpretations Correlation of new ﬁ eld data, either with data sets that you have previously collected or with those published in the literature, is a key part of many geological studies. This is because it enables us to integrate data and obtain a much more complete picture from different lines of evidence, thereby advancing our understanding. There are now very few rock exposures on Earth that have not been visited by geologists unless they are new (e.g. on a recently erupted volcano, road cut, railway cut or excavation) or were previously covered by other material such as ice sheets. There are, however, many reasons to revisit exposures and areas studied previously: (1) new techniques become available; (2) exposures change; (3) the exposures were used to test or erect a model or hypothesis that is now being called into question; (4) more resources are available to study the site; (5) samples analysed from the site yielded interesting results that are worthy of further investigation; and of course (6) to simply learn about geology.
+
+Correlation between your own data sets even if they were collected during different ﬁ eld seasons should be fairly simple provided you kept good ﬁ eld notes! However, correlation with the data sets and interpretations of others can, at times, be challenging. There are two main reasons for this: ﬁ eld notes, where the direct evidence and location can be gathered, are not generally published; and exposures change. To focus the analysis and integration consider the following steps.
+
+## 1.  Read the publication(s) and identify the data. Make a note
+
+of any questions the interpretation raises that might be answered by further ﬁ eldwork or the application of new ﬁ eld techniques.
+
+## 2.  Take the relevant part of the literature (i.e. the data)
+
+into the ﬁ eld and attempt to re - identify the units from which the data were collected. First, ﬁ nd the main units/ features using the location information. Then correlate what you can observe with the more detailed information.
+
+Geological ﬁ eldwork relies on good observation of an incomplete record. The observations that you make are just as important as those of others.
+
+Notebook As indicated by the following quote this can be challenging.
+
+‘ … it is evident that their bed 8 is my bed 1, their bed 6 is my bed 5, their bed 5 is my bed 6. Therefore their bed 7 can only be my bed 3 (with 2), and I have no doubt that the thickness  “ 8 to 1  ft 0  in ” originally appeared in their notes as  “ 8 to 10  ft ” … ’ Arkell 1936a.
+
+## 3.  Check on any inconsistencies or differences and make a
+
+note of them.
+
+## 4.  Devise a method of linking your new ﬁ eld data with the
+
+publication. If it is a description of different beds it might, for instance, be as simple as adding a column to your notebook page for cross reference to the published bed numbers/units.
+
+## 5.  If the integration of the data is essential, and it is unclear
+
+from the publications how to correlate, consider contacting the author(s) of the publication(s).
+
+Fossils Recording p alaeontological i nformation Robert A.  Spicer
+
+## 5.1  Introduction: Fossils  a re  s mart  p articles
+
+Unlike many sedimentary particles, such as quartz grains, each fossil has a story to tell that goes beyond its composition and the way in which it was transported and deposited. A body fossil represents the remains of a once living organism that had a life history, a certain environmental tolerance, and a deﬁ ned range in terms of its geographical and stratigraphic distribution.
+
+Body fossils may be large, as in the case of a complete mummiﬁ ed mammoth, or microscopic, such as a pollen grain.
+
+Trace fossils represent impressions that an organism made in sediment, such as a footprint, or the disturbance of sediment as the animal went about feeding, or burrowing to create a living space. Fossils can also provide evidence of their decay process (including post - mortem scavenger behaviour), burial and tectonic history, all of which provide information on ancient environments. Moreover fossils occur in assemblages that may reﬂ ect predominantly life communities or processes of transport, deposition and decay that can also inform on past environmental conditions. Fossils are  ‘ smart particles ’ .
+
+5.1.1  Why  a re  f ossils  i mportant?
+
+The occurrence of fossils in most sedimentary rocks, and more rarely in extrusive igneous rocks such as basalt lava ﬂ ows and ash deposits, can be used to obtain stratigraphic, environmental and evolutionary information. Fossils can provide: •   a wealth of information on ancient life forms and thus are important in understanding the history of life on Earth and our place within it; •   data on ancient ecosystems and palaeoecology that have relevance to managing our planet today and in the future; Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Fossils are smart particles so they are worth noting in detail. Not only do they yield information about energy levels and provenance like other types of sedimentary grain, they are also sensitive to factors such as climatic conditions, time and water depth.
+
+Fossils •   qualitative and quantitative data on ancient climates, and a method of testing the applicability of climate models for a range of climatic modes; •   the basis of relative dating and correlation of rock units; some megafossils * are currently the only method by which rocks can be given a relative age in the ﬁ eld (other than superposition and cross - cutting); •   information on the biotic and chemical conditions following the death of the organism, at the time of burial and subsequently through its burial history  – these data are important for determining, for example, the hydrocarbon potential of a rock unit.
+
+5.1.2  Collecting  f ossil  d ata For fossils visible to the naked eye careful observation of morphology, preservation mode, orientation, context in terms of other fossils (assemblage characteristics), stratigraphic position and relationship to the entombing sedimentary deposits are all fundamental to successful palaeontological interpretations. The three - dimensional nature of both body and trace fossils often presents a challenge in recognizing the type of fossil. It is important to record the orientation and to become familiar with the characteristics of a variety of sections through the fossil. The best items of ﬁ eld equipment for recording fossils are: •   a notebook in which to make sketches; •   a hand lens to examine detail; •   a camera.
+
+In general, fossils, rather than being removed, are far more valuable left in place for others to see and interpret. The location and sedimentary context of a fossil is of paramount importance. Fossils with no contextual or provenance information are of little value except for their aesthetic qualities. The term  ‘ provenance ’ here includes not only the geographical location, but also information on the stratigraphic position as well as the nature of the sedimentary succession and individual sedimentary facies that surround it. Ideally this should mean constructing a sedimentary log of the succession with fossil data included (Section  6.3 ).
+
+* The term megafossils indicates large fossils that are easily distinguished with the naked eye (compared with microfossils which are not easily distinguished).
+
+Megafossils are also sometimes termed macrofossils but, technically, the term macro only refers to length so it is incorrect.
+
+Fossils If you do need to collect you will need to consider the following.
+
+•   Is the site protected by law?  Many  ‘ classic ’ fossil localities are now under legal protection. The exact nature of legislation differs from country to country but protection is usually granted for a good reason, for example to conserve the site. Written permission to collect is required or you will be breaking the law.
+
+•   Is the site on publicly owned land?  Many fossil localities are on privately owned land where access is controlled. In the case of quarries and/or mines there are also speciﬁ c safety and legal issues. Written permission should always be obtained when intending to collect on private land.
+
+When seeking permission you should outline: (1) why you are interested in the site; (2) what you intend to do at the site (e.g. make a thorough record of the lithology, sedimentary features, collect specimens, etc.); (3) when you propose to arrive and how long you intend to stay; and (4) how many will be in the ﬁ eld party. When visiting working quarries and/or mines you will be required to obey speciﬁ c local rules usually related to safety issues. It is a good idea to follow up your visit with a note of thanks outlining what you have achieved.
+
+•   Can the fossil be removed safely with the tools to hand without destroying it or endangering the collector and those in the vicinity?  Safety is paramount in the ﬁ eld (Section
+
+## 2.11 ). Never put yourself or others in a dangerous position
+
+and always leave sites in a safe condition.
+
+•   Is collection really necessary to aid understanding?
+
+Collecting fossils should be regarded as a privilege and not a right. Apart from anything else, you should not put at risk for no good reason, by the collecting process or by using the wrong tools or method, a fossil that has been part of the Earth ’ s natural archive for millions of years.
+
+Collecting is sometimes necessary for detailed scientiﬁ c study and in particular when new species are being described or the range of key species is being extended. This is because under the International Codes of Botanical and Zoological Nomenclature (ICBN and ICZN) a  type specimen (preferably with other examples)
+
+has to be conserved in a museum to serve as reference material.
+
+Recovery of large remains (e.g. dinosaur skeletons) requires mechanized equipment and materials for protecting the fossils during transport back to the laboratory. If you are lucky enough to ﬁ nd such remains do not try to extract any material yourself.
+
+Instead contact appropriate experts, for instance at the local museum, who will have the knowledge and resources to recover the fossils safely and, as far as possible, intact.
+
+If you intend to collect a specimen it is worthwhile photographing it before you attempt to remove it from the entombing matrix. The process of removal can damage the specimen and the photograph not only records the pristine state of the fossil, but also aids in any subsequent mending.
+
+Fossils
+
+## 5.2  Fossil  t ypes and  p reservation
+
+5.2.1  Body  f ossil  c lassiﬁ cation The chances are that in the ﬁ eld you will not be able to identify every fossil you ﬁ nd. Actually you don ’ t need to. A lot can be deduced about the organism in the ﬁ eld by careful observation and you can make up a working classiﬁ cation based on simple observation of, for example, symmetry (Figure A5.1 ). Even if we know nothing of the taxonomic identity of a fossil (which is often the case with newly discovered species)
+
+we can infer a lot about its mode of life and palaeoenvironment by examination of its architecture and context within the entombing rock (e.g. Worked Example 5.1, p.  84).
+
+Plants invariably fossilize as dispersed organs (leaves, fruits/ seeds, pollen/spores, trunks and roots) and most of the time we don ’ t know which parts belong together to make a speciﬁ c extinct species. For this reason each organ has a Latin name of its own. Try to record as accurately as possible the morphology of each plant part including shape, size and ornamentation; in the case of leaves, margin details and venation are also important (Figure  5.1 ).
+
+Microscopic body fossils (microfossils) can rarely be identiﬁ ed in the ﬁ eld and collecting is often carried out without knowing if the sample will contain them. Section  5.3 provides notes on maximizing the likelihood that samples are fossiliferous.
+
+5.2.2  Body  f ossil  p reservation The way that a body fossil is preserved indicates a great deal about its transport, deposition and burial history as well as the chemical and tectonic history of the entombing sediment.
+
+Recognizing and recording the mode of preservation is important to understanding the processes during deposition and burial. (See Figure  5.3 , p.  85, and Appendix  A5 , Table  A5.1 for common preservation modes.)
+
+Preservation modes are not mutually exclusive and all of them can be affected by compression over time. If the body parts are inherently resistant to compression and/or are permineralized/ petriﬁ ed soon after burial,  ‘ ﬂ attening ’ may be minimal. The extent of ﬂ attening relative to the compaction of the entombing sediment indicates the timing of mineralization relative to burial and sediment loading. More lateral distortions are invariably due to tectonics and can be useful in understanding the structural history of an area. In conjunction with observations on the phases of mineralization a history of the changing chemical environment over time can be reconstructed.
+
+If you don ’ t know the names of the fossils you ﬁ nd, give them temporary names (type 1, 2, 3, etc.). If these are accompanied by detailed descriptions, sketches and/or photographs they can be identiﬁ ed later by reference to specialist sources such as books and museum collections.
+
+Fossils Figure 5.1  Part of a ﬁ eld notebook page showing sketches of leaves. Note scale, careful attention to venation and references to accompanying photographs, sedimentary units and specimen numbers. (Notebook of Robert A.
+
+Spicer, The Open University, UK.)
+
+Fossils The likelihood that an organism will be preserved in the fossil record depends on: (1) where it dies relative to a depositional environment (and thus the length of the transport path to that environment); (2) the nature of that environment (most importantly its chemistry and the extent to which oxygen is lacking); (3) the rate of sedimentation and therefore the speed of burial; (4) the nature of the sediment (ﬁ ne - grained sediment excludes oxygen better than coarse - grained and better protects ﬁ ne surface detail); and (5) the mechanical strength and chemical composition of the organism itself. Animals lacking Worked Example 5.1  Using morphological observations to infer mode of life Figure 5.2  Two echinoid specimens with distinctly different morphologies. (a)  Archaeocidaris (Robert A.
+
+Spicer, The Open University, UK) and (b)  Micraster (specimen from Peter R. Sheldon, The Open University, UK).
+
+1 cm 1 cm (b)
+
+(a)
+
+In Figure  5.2 two echinoids are shown, one (taxon A) with a heavily armoured shell and another (taxon B) with a smoother and more streamlined shell. These morphological characteristics can be used to determine which of these is most likely to be infaunal (i.e. live within the sediment).
+
+In the case of taxon A the possession of large spines would generate considerable drag if the organism were to attempt to burrow in sediment.
+
+It would be reasonable to surmise that taxon A was more likely to live on the surface of the sediment (epifaunal), while the smoother and more streamlined taxon B was more likely to burrow in the sediment (infaunal). This is not to say that all epifaunal organisms are heavily armoured with spines (some are smooth) but it is true to say that no burrowing organisms will have rigid projections that would impede passage through sediment. Similarly, fossils representing organisms that live in shallow water above the fair - weather wave base typically are more robust than those living in quieter conditions at depth.
+
+Fossils hard parts will be less likely to be preserved than those with some durable components. Thus, vertebrate bones and thick calcareous shells from invertebrates have a high preservation potential. Some plant parts such as pollens and spores have outer coats made of an organic polymer known as sporopollenin and this is extremely biologically and chemically resistant.
+
+Thus pollens and spores have a high preservation potential.
+
+Wood and leaves are more likely to decay but even these can have their preservation potential increased dramatically by being charcoaliﬁ ed by partial burning prior to burial.
+
+Surprising as it may seem charcoaliﬁ cation preserves detail even at the subcellular level while simultaneously rendering the remains biologically inert by reducing them to almost pure carbon. Some of the best three - dimensionally preserved early ﬂ owers are in the form of fossil charcoal (fusain).
+
+5.2.3  Trace  f ossils Although the body parts of organisms that make trace fossils are almost always missing, the trace shape and context can tell us a lot about environmental conditions at, and after, the time the trace was made. Trace fossils have the advantage over body fossils in that they cannot be reworked, although they can be disrupted or destroyed by later trace fossils. Trace fossils fall into several categories based on behaviour (Appendix A5, Figure  A5.3 ).
+
+Trace fossils do not occur randomly but are repeatedly found in recognizable associations with particular sediment types.
+
+These associations form ichnofacies that can indicate a lot about the conditions under which sediment was deposited. In the ﬁ eld, using photographs and sketches, record the following: •   the size distribution; •   geometries (including working out which are different cross - sections through the same type of trace fossil); •   associations with other trace fossils; •   characteristics of the sedimentary deposits (Chapter  6 ); •   frequency and density (Section  5.5 ); •   presence/absence of burrow wall linings (e.g. made up of organic matter, shell fragments or different sediment types, etc.)  – the inﬁ lling of burrows is also important to note in Figure 5.3  Modes of fossil preservation: (a) Mummiﬁ ed body of a young mammoth found in Siberia; (b) polished transverse section of a permineralized (petriﬁ ed) tree fern stem; (c) cast of a tree fern trunk; (d) leaf impression from the north slope Alaska. (a – d: Robert A. Spicer, The Open University, UK.)
+
+(a)
+
+(b)
+
+(c)
+
+1 cm (d)
+
+1 cm 1 cm 1 m
+
+Fossils respect of sediment type(s) compared with the sediment burrowed, and any geometries associated with the inﬁ ll (simple collapse versus structures that indicate deliberate backﬁ lling by the organism); •   look for tiering, i.e. the pattern of trace fossil types vertically in the sediment (Appendix A5, Figure  A5.4 ), in relation to a given horizon marking a change in sedimentation  – some burrows are typically formed in shallow sediment depths while others penetrate deeper, and loss of shallow tiers can indicate erosion; •   cross - cutting relationships indicating successive colonizations of the sediment and changing conditions through time.
+
+While trace fossils carry information on how ancient organisms move, and thus their biology, information also can be gleaned about sediment deposition and erosion (e.g. Figure  5.4 ).
+
+Burrows may be ﬁ lled with sediment quite unlike that into which the burrow is made, or that overly it, suggesting sediment was deposited and then eroded. Often this may be the only evidence of an unconformity. Trace fossils with deﬁ ned geometries relative to the ancient sediment surface (e.g. vertical U - shaped burrows) can also be used as  ‘ way up ’ structures.
+
+Any displacement from the normal orientation will indicate rock movement and/or deformation.
+
+When looking for trace fossils on bedding planes do not forget to look up at the underside of overhangs.
+
+These are often cleaner and less abraded than bedding planes that may have been walked over and so the fossils are easier to see and better preserved.
+
+Figure 5.4  Sketches to show a variety of spreiten patterns in the trace fossil  Diplocraterion formed in response to deposition and erosion.
+
+(a) Stable situation where no sediment deposition or erosion is taking place. In (b) sediment has been deposited causing the organism to migrate upwards leaving traces of the original burrow as disturbed sediment below. In (c) erosion has caused the organism to burrow deeper leaving disturbed sediment (spreiten) between the vertical burrows. Figures 6.3e and 6.3f (p.  113) show fossilized  Diplocraterion .
+
+deposition erosion (a) original tube 3 to 15cm (b) spreite beneath U-tube (c) spreite between limbs of U-tube original sediment surface
+
+Fossils 5.2.4  Molecular  f ossils The usual fate of any dead organism is to decay to such a degree that nothing remains of either the life morphology or the traces it left as a result of its activities. However, even in these cases it may leave behind its chemical signature. In the best circumstances whole, or partial, DNA molecules may be preserved, but usually only remnants of molecules characteristic of a particular group of organisms survive. When these are found we can infer something about evolution and even environments. An example is the occurrence of cyclopentane rings derived from the membrane lipids of marine plankton. The number of such rings correlates with sea - surface temperature (average annual or perhaps seasonal) and forms the basis of the TEX 86 palaeotemperature proxy. When collecting such samples (Chapter  13 ) extra care needs to be taken not to cross - contaminate between samples or to introduce contaminants from the sampling and wrapping material.
+
+## 5.3  Fossil  d istribution and  w here to
+
+ﬁ nd  t hem Initially the best way to look for fossils is to examine loose pieces of rock material ( ‘ ﬂ oat ’ ) derived from the exposure. Float has the advantage of exposing a large number of bedding surfaces that can be examined for fossils. If fossils are visible the next step is to try and relate the lithology of the fossil - bearing ﬂ oat to lithologies that are in place, for example, in the adjacent cliff face. This lithology can then be examined for  in situ fossil material. If fossils are not obvious on the ﬂ oat bedding surfaces, expose further bedding planes by splitting the blocks parallel to the bedding using a chisel or the chisel end of a hammer.
+
+Preservation of organic body fossils is most likely to take place in sediments deposited in low oxygen conditions where dispersed organic matter is also easily preserved. This usually means in dark coloured ﬁ ne - grained sedimentary deposits, typically mudstones. However, they are also preserved where the sedimentation rate is high, the conditions are conducive to rapid mineralization, or the chemistry limits dissolution of shells or bones (Section  5.2.2 ). Here are some other features to look out for.
+
+•   Carbonate fossils:  Body fossils composed of carbonate tests or shells, as well as bones, are most likely to be found in carbonate - rich rocks such as limestones and chalks. They can also be found in siliciclastic rocks provided that they have not been in acidic conditions during deposition and subsequent burial.
+
+Fossils •   Siliceous fossils:  Fossils with silica tests or frustules (diatoms and radiolarians for example) survive best in low pH (acidic) environments because silica is soluble under high pH (alkaline) conditions. It is therefore unlikely that diatoms and radiolaria will be found in carbonate - rich rocks; but note that even in chalk it is common to get localized variations in chemistry at the time of deposition, leading to the preservation of silica - rich fossils (e.g. sponge spicules in ﬂ int).
+
+•   Colour:  Colour changes can also be a clue to ﬁ nding fossils.
+
+Look at reduction spots (typically grey or green spots in otherwise red/brown sedimentary deposits) as these indicate locally oxygen - poor conditions and may be associated with organic remains or their derivatives.
+
+•   Change in sedimentation rate:  Changing grain size and/or an increase in sedimentation rate can also be a clue to ﬁ nding fossils. Post - mortem oxygen exclusion is related to the speed of sedimentation. For example leaves accumulating on the ﬁ ne - grained sedimentary deposits at the bottom of a lake will often be destroyed by invertebrates, fungi and bacteria unless buried quickly.
+
+In such cases, look for fossils just below increases in grain size or other indicators of rapid sediment deposition.
+
+•   Hydraulic equivalence:  In situations where water is ﬂ owing (streams, rivers and marine tidal ﬂ ow environments) an important clue as to where to ﬁ nd fossils is the concept of hydraulic equivalence. Hydraulic equivalence equates the hydraulic characteristics (settling velocity, velocity of entrainment, etc.) of a fossil to that of a quartz grain. So, for example, a large dinosaur bone or a waterlogged tree trunk are broadly hydraulically equivalent to a large quartz pebble or small boulder. It is no surprise then that such fossils are commonly found in the basal lags of river channels. Similarly, leaves commonly occur in ﬁ ne - grained ﬂ uvial siltstones.
+
+5.3.1  Transported or  l ife  p osition?
+
+When you ﬁ nd fossils it is important to determine if they are preserved  in situ (autochthonous), transported to the burial site from where they lived (e.g. Figure 5.5), or even reworked from an older deposit (allochthonous). Land plant fossils such as fossilized wood within deep marine sedimentary deposits clearly indicate transport. This could be over very long distances because, unless the wood is very abundant, its presence does not indicate proximity to land as ﬂ oating logs can circumnavigate the Earth, driven by ocean currents. In Figure 5.5  Trees stranded in a shallow river in Alaska showing similar orientation. River ﬂ ow is from right to left. Trees are about 10  m long. (Robert A. Spicer, The Open University, UK.)
+
+Fossils some other cases, whether or not transportation has occurred may be less clear. Coals (preserved peats), for example, can either be allochthonous or autochthonous. Autochthonous coal will have roots extending from its base and will lie directly on a palaeosol, whereas allochthonous peats will not. In the case of fossilized upright tree bases it is important to note whether the roots penetrate into a palaeosol (fossilized soil) because tree bases may well be transported in an upright position.
+
+If any fossil is found broken, abraided or disarticulated then some pre - burial transport is likely to have occurred. If the fossil has attached or included sediment not found in the entombing rock then re - working should be suspected. An exception to this is breakage  in situ during compaction of the rocks, but this is easily identiﬁ ed as all the parts will be in close proximity.
+
+Also important is the fossil orientation. In ﬂ owing ﬂ uids (usually air or water) allochthonous body fossils may become oriented in relation to that ﬂ ow post - mortem. This is most commonly seen in elongate remains such as belemnites or tree trunks. Often in the case of tree trunks branches become snapped off during transport but roots are more resilient.
+
+Stranding of the roots on the bed of the shallow parts of rivers will cause the remaining trunk to swing round and point downstream (Figure  5.5 ). If trees are blown down by wind, by a volcanic pyroclastic ﬂ ow or lateral explosion, then the tips of the trunks will again point in the direction of ﬂ ow away from the source.
+
+Orientation is also an important indicator of life position. For example many bivalves live in the sediment, so often get preserved in that position. If the two shells (valves) of a bivalve are attached and closed then there is a good chance that the remains have not undergone any signiﬁ cant post - mortem transport. Careful inspection of the deposits may well indicate other remains in the same orientation and, if so, they are likely to be in life position (Figure  5.6 ).
+
+If single valves of bivalves or brachiopods are found then clearly they have undergone some disarticulation and transport after death, even if the distances involved are short. In this case it is useful to record which way up they are lying. When populations of single valves are found concave side up then it is likely that they were at some time suspended in the water column (e.g. by storm action)
+
+and then subsequently settled out of suspension to rest on the sediment surface in that position. Alternatively, if the valves are all oriented convex side upwards this would suggest that prior to ﬁ nal burial the shells were subject to horizontally ﬂ owing current that has ﬂ ipped over the shells (Figure  5.7 ).
+
+Figure 5.6  Infaunal bivalve in life position from the Jurassic, near Scarborough, UK. (Angela L. Coe, The Open University, UK.)
+
+Figure 5.7  Sketch to show single valves oriented (a) concave up as a result of settling from suspension and (b) convex up as a result of lateral current ﬂ ow.
+
+suspension (a) Unstable: Settled from lateral flow current direction (b) Stable: Deposited under
+
+Fossils
+
+## 5.4  Sampling  s trategies
+
+Palaeontological sampling is aimed at determining the nature of the population of fossil remains contained within a given suite of sedimentary deposits, and from this to derive some information about the ancient living population and environment. Sampling strategies employed to achieve these objectives must be at an appropriate resolution and carried out efﬁ ciently in order to provide valid data.
+
+5.4.1  Sampling for  b iostratigraphic or e volutionary  s tudies For biostratigraphy and/or evolutionary studies a succession of samples collected vertically through the deposit usually takes precedence over investigating lateral variations (compare Figure
+
+## 5.8 a with  5.8 b and  5.8 c). Over geological time different fossils
+
+are important for biostratigraphy (Figure  A5.5 ). Many studies incorporate more than one fossil group. In addition the sampling strategy needs to be appropriate for the type of biozonation that is used for the fossil group or period of geological time (Figure  A5.6 ). It is important with microfossils to limit the risk of contamination (Chapter  13 ). The two types of sampling are spot and continuous.
+
+•   Spot sampling can be performed at regular distance intervals and/or targeted to different lithologies. The advantage of spot sampling is that it is relatively quick and minimizes the amount of material collected. Using this technique, however, can easily miss small - scale or subtle variations in deposition, as well as potentially important non - visible events. As a general rule each lithology should be sampled at several locations in order to determine if there are any lateral, as well as vertical, variations in fossil abundance and assemblage composition. The appropriate Figure 5.8  Three different patterns of continuous or channel sampling.
+
+(a) Overlapping samples parallel to bedding. (b) Repeat samples at right angles to bedding within a lithology. (c) Samples at right angles to bedding representing the stratigraphy, with short overlaps for cross - correlation purposes. )
+
+( )
+
+b ( )
+
+a (
+
+Fossils vertical sampling interval will depend upon lithological variations, sedimentation rate, proximities to suspected boundaries, suspected or known cyclicity, resolution necessary for the purpose of the study, resources and ﬁ eld constraints (Chapter  13 ).
+
+•   Continuous sampling , sometimes known as channel sampling, has advantages over spot sampling for high resolution studies if resources allow. Typically an exposure is ﬁ rst trenched to reveal fresh rock surfaces and then overlapping short lengths of rock are taken throughout the section under study (Figure  5.8 c). The advantage of channel sampling is that there is a continuous record for later laboratory studies and the resolution of the study can be modiﬁ ed. Conservation issues and sampling restrictions must, however, be taken into account. The disadvantage of continuous sampling is the large amount of material that will be collected. This needs to be assessed against spot sampling where instead targeted samples can be collected, for instance along megafossil shell beds, rather than collecting material with no useful samples for the aims of the study.
+
+Some planar fossil material such as leaves and ﬁ sh can be viewed only by exposing bedding surfaces. On a wave - cut platform this is usually not too much of a problem, but in a cliff - face trenching is often the only option (Figure  5.9 ).
+
+Throughout the section spot or continuous sampling can be employed, but this needs to be done in such a way as to expose large areas of bedding surfaces. In this case trenches several metres square in horizontal dimensions might be required so that successive bedding surfaces from top to bottom of the
+
+## section can be revealed
+
+If the aim of ﬁ eldwork is to correlate between different sections fossil occurrences should be recorded in stratigraphic context by means of a graphic log (Chapter  6 and Figure  5.10 , p.  92).
+
+Record the fossil appearances, disappearances and changes in abundance (frequency) as well as sedimentological information.
+
+Near a boundary such as a break in sedimentation or a suspected extinction event, sampling at close intervals is often required to pinpoint the boundary precisely. In the case of extinctions the last occurrence of a taxon is unlikely to be recorded because the fossil record is always incomplete.
+
+Similarly the origin of a taxon is difﬁ cult to pinpoint. The problem becomes more acute the rarer the taxon. The net effect is that even a sudden extinction will appear gradual. To minimize this effect (the Signor – Lipps effect) more frequent and larger samples are required near any boundary. What constitutes  ‘ near ’ will depend on the size and abundance of taxa being studied.
+
+Mark sample sites with ﬂ uorescent tape as you collect (ﬁ xed with rock or a nail) so that at the end of sampling you can log and photograph the exact sample locations. Remove the tape and nails before you leave the site.
+
+Figure 5.9  Example of a trench through diatomite in China.
+
+Successive samples were obtained as the trench was dug. (Robert A.
+
+Spicer, The Open University, UK.)
+
+Fossils 5.4.2  Sampling of  b edding  s urfaces and p alaeoecology Access to large bedding - plane surfaces presents opportunities for a greater variety of fossil sampling strategies and possible studies. The analysis of the distribution of fossil remains over a single bedding surface is usually done by recording fossil remains that occur in a deﬁ ned area. Usually this area, known as a quadrat, is a square or rectangle that is of a size appropriate to the material and project under investigation.
+
+Quadrats are usually distributed in such a way that each is independent of all other quadrats as well as any pattern within Figure 5.10  Example of a ﬁ eld notebook page showing the position of fossiliferous layers and pollen samples on a graphic log.
+
+The log and samples are for a
+
+## section in Assam, India. (Notebook
+
+of Robert A. Spicer, The Open University, UK.)
+
+Fossils the sampled population. This usually means that their distribution is random. A random arrangement is best achieved by using random numbers as the basis of positional coordinates. Because invariably not all the fossil assemblage is accessible, subsequent statistical processing of the data has to be robust: placing minimal reliance on individual variables possessing normal (Gaussian) distributions, or, preferably, by being non - parametric. The biota within a quadrat either need to be recorded through measurements and sketches in the ﬁ eld or by taking detailed photographs. The latter method has the advantage that the image analysis software can be used to analyse the biota and there is a permanent record.
+
+Three - d imensional  s ampling While exposure of a single bedding plane may yield high - resolution data, there are numerous limitations to its application in practice. Inevitably the splitting properties of the rock matrix will preclude the exposure of large planar areas without the likelihood of cutting across several bedding surfaces. Also, full excavation of individual specimens damages adjacent bedding surfaces and breaks down the sampling regime on those surfaces. A more realistic approach is to accept the fact that single bedding planes cannot be excavated reliably and attempt instead to sample volumes of sedimentary rock. In this method blocks of rock can be excavated in the ﬁ eld. Where conditions and permission allow, cut from the rock using carbide - tipped chainsaws (Figure  5.11 ), or for small volumes a disc rock saw. In order to minimize loss of sampling resolution the bedding - plane package sampled must fall within an interval of sediment that was deposited under essentially constant physical conditions, sometimes termed a  ‘ sedimentation unit ’ .
+
+Determining  q uadrat  s ize  –  r arifaction or  s pecies/ a rea (or  v olume)  c urves Fossil size and distribution pattern determine quadrat size. If the quadrat dimensions are larger than those of the fossil remains then sampling will be meaningful (Figure  5.12 a, p.  94).
+
+Suitable quadrat sizes can be determined for the particular fossil by constructing taxon/area (or volume) curves (Figure
+
+## 5.12 b). Usually this curve is constructed from a pilot study and
+
+may not be applicable to all parts of the fossil assemblage. For this reason a reasonable safeguard is to double the minimum size for the main investigation.
+
+Pattern Figure  5.12 c represents three extreme two - dimensional distribution patterns of a taxon. The density is the same in each case. Quite different assessments of abundance will be obtained, using a quadrat of the dimensions shown, depending on the distribution and number of samples taken.
+
+Figure 5.11  Cutting volumes of clays containing fossils using a carbide - tipped chainsaw. The advantage of this technique is that the samples can be taken back to the laboratory for detailed analysis.
+
+(Robert A. Spicer, The Open University, UK.)
+
+Fossils Figure 5.12  (a) The dependence of abundance estimates and, in particular, percentage frequency on the size of quadrat used in relation to the plant fragment size. If a quadrat of the size shown (small red square) were used to sample this bedding surface there would be a marked discrepancy in estimated abundance for the two taxa, irrespective of their actual relative abundance, because the quadrat size is similar to that of one of the taxa. (b) A rarefaction curve showing increasing numbers of taxa with successive doublings of quadrat size. As the quadrat size is increased more taxa occur within the quadrat, but above the point where the curve ﬂ attens out larger quadrat sizes become an inefﬁ cient way of sampling. The dashed line indicates the minimum quadrat size for this population, in which something in the order of 34 taxa might be expected to occur within each quadrat. (c) Quadrat size in relation to distribution pattern. A – C represent three forms of pattern that a taxon might exhibit: A, regular; B and C, clumped distributions of different sizes and distribution. In each area the number of specimens is the same but if a quadrat of the size shown were used for sampling very different estimates of abundance would be obtained. (d) Detection of contagions (clumping) within an assemblage. If the quadrat size is increased and the mean square (variance) is plotted, the peaks reveal the scales of clumping.
+
+quadrat size number of taxa taxon B taxon A )
+
+b ( )
+
+a ( )
+
+( )
+
+( B A C quadrat size block size number of taxa The situation becomes more complex when several taxa are involved which, because they may represent parts of the community or possess similar ﬂ uid dynamics characteristics, consistently exhibit positive or negative associations ( ‘ clumping ’ ). If the exposure allows (e.g. bedding planes
+
+Fossils exposed on a wave - cut platform) clump size can be assessed by laying out a grid of contiguous quadrats. Increasing  ‘ quadrat ’ sizes are then built up by blocking adjacent quadrats in twos, fours, eights, etc. A graph can then be constructed of mean squares (variance) against block size. Peaks in the graph correspond to the mean clump sizes. An example is shown in Figure  5.12 d in which there are two clump sizes: one at 4 block (quadrat) size and one at 32. In practice there may be severe constraints on laying out a contiguous grid of quadrats and the use of this technique is likely to be limited. Nevertheless pattern analysis of this kind can prove particularly rewarding in autochthonous assemblages.
+
+Edge  e ffects Inevitably some specimens will intersect quadrat boundaries. The smaller the quadrat size the more important these edge effects become because a greater proportion of the sampled material will be represented by intersected specimens. Similarly the perimeter length to area (or volume) ratio of the quadrat will also be important. Quadrats approximating to circles or spheres would reduce edge effects to a minimum but these shapes are impractical. Squares or cubes (or approximations to them controlled by bed thickness and lithological factors) are the conventional choice. A possible exception here might be the sampling of elongate specimens that are ﬂ ow oriented. An elongate, rectangular quadrat arranged so that its longest axis was parallel to the ﬂ ow alignment would minimize edge effects.
+
+A common practice is to include within the sample any individual (specimen) that has more than half its area within the quadrat and exclude the others. This approach biases the sample because it is inﬂ uenced strongly by the size of the specimens (small specimens will intersect the boundary less frequently than large specimens). The actual area of the specimen falling inside the quadrat could be included in cover estimates (Section  5.5.3 ), but this would preclude any statistics such as mean specimen size that might be related to transport distance and differential degradation studies.
+
+An alternative strategy is to include 50% of specimens of a particular taxon that intersect the quadrat boundaries and measure the whole area of those specimens included. The 50% measured should be a random sample.
+
+## 5.5  Estimating  a bundance
+
+Abundance can be determined both qualitatively and quantitatively. The ease of measures of abundance, their accuracy and their relationship to sedimentological and ecological phenomena varies greatly. Abundance can be estimated or measured in the ﬁ eld but an alternative method is to
+
+Fossils photograph the area and use the photograph(s). This allows both a more visual comparison between different areas for qualitative measures (Section  5.5.1 ) of abundance, and image analysis of the area to obtain a quantitative measure (Section  5.5.2 ).
+
+5.5.1  Presence/ a bsence and  q ualitative a bundance  e stimates The advantage of presence/absence scores is that they are easy to obtain, but this ease has to be weighed against a substantial information loss incurred because the amount of a particular taxon is not recorded.
+
+Qualitative visual estimates of abundance are useful because they are simple and rapid to use (Figure  A1.1 ). Their popularity has spawned a number of schemes designed to improve their accuracy and comparability. The simplest scheme consists merely of ranking the taxa within a sample into a series of abundance classes with a quasi - logarithmic numerical scheme (Table  5.1 ).
+
+The main problems with such a scheme are that small taxa (fragments) tend to be underrated, consistency between different workers is lower in the frequent, occasional and rare categories, and clumping of taxa biases visual assessment. However, fully quantitative abundance measures have not been shown to be totally necessary or reliable, and may actually prove less effective in revealing an assemblage pattern than the consistent and reasonable objective use of visually assessed scales.
+
+5.5.2  Quantitative  m easures of  a bundance Frequency The frequency of a taxon is a measure of the chance of ﬁ nding it within any one sample within a given set of samples. It is usually expressed as a percentage. Sample size greatly affects the observed frequency and should be stated. Frequency is also particularly sensitive to specimen (fragment) size and distribution in relation to sample size.
+
+Density Density is a measure of the number of individual fossils (whether representing whole or fragmented organs or organisms) of individual taxa that occur within a sample. As such it is a direct, potentially accurate and relatively easy - to - measure expression of abundance. Density measures also contain a strong taphonomic component in that easily fragmented material will tend to be overrepresented. Therefore whole - body fossils should be counted separately from fragments.
+
+Cover Plant cover has been deﬁ ned as  ‘ the proportion of a planar unit sample area, aligned parallel to the bedding, that is occupied Table 5.1  Typical simple subjective abundance classes and their numerical equivalents.
+
+Descriptor Numerical scheme Very abundant Abundant Frequent Occasional Rare
+
+Fossils Worked Example 5.2  Measuring abundance Figure 5.13  Correspondence analysis of samples from the Jurassic plant fossil locality at Hasty Bank, Yorkshire, UK. The diagrams show three faces of a hollow cube onto which the positions of samples are projected from three - dimensional space; this means that each plot has three times as many points as there are samples. The three sides of the cube represent the ﬁ rst three axes of greatest variation in the analysis.
+
+The sample points are numbered for cross referencing. Samples from siltstones are represented as open blue circles while closed red circles represent samples from claystones. (a) Abundance counts. (b) The same data but with abundance transformed into a logarithmic simple abundance class measure similar to that shown in Table  5.1 . In plot (b) much of the  ‘ noise ’ in the data has been removed and the pattern of plant associations in the two different sedimentary facies is more clearly displayed. (Modiﬁ ed from Spicer and Hill  1979 .)
+
+In the early 1970s Chris Hill excavated three vertical trenches to obtain contiguous samples through the Middle Jurassic plant beds at Hasty Bank, Yorkshire, UK. Sample volumes measured
+
+## 0.5  m  ×  0.5  m in area by 0.1 – 0.2  m depth in
+
+siltstones; where fossils were particularly abundant in claystones sample size was reduced to 0.25  ×  0.25  ×  0.2  m. Within each sample every single plant fossil was identiﬁ ed and counted. In subsequent analyses all counts were normalized to 0.5  ×  0.5  ×  0.2  m volumes. Analyses were conducted on the raw counts, logarithmically transformed counts and using a simple abundance class measure (Figure  5.13 ). Results were analysed by means of histograms and multivariate statistical analysis. The overall conclusion was that visually estimating abundance using a logarithmic scale as in
+
+## Section  5.5.2 was more efﬁ cient and meaningful
+
+than absolute counts (Figure  5.13 ; see also Spicer and Hill  1979 ). )
+
+b ( )
+
+a (
+
+Fossils by a normal projection onto it of the individuals representing a species form that occur within that unit sample ’ . Cover estimates are usually obtained using a modiﬁ cation of the point quadrat method used in ecology. Typically a clear plastic sheet marked with 100 randomly distributed points is overlain on an exposed bedding surface (Figure  5.14 ) and the number of  ‘ hits ’ of these points on various taxa are scored and expressed as percentage cover. It follows from this that a single bedding surface must be completely exposed over the sample area.
+
+Foreshores and some quarry ﬂ oors provide the opportunities.
+
+However, in practice this is very difﬁ cult and some workers prefer to exhume blocks of matrix, each with a plant - bearing face exposed, and arrange these to form a sample area from which cover estimates are taken. The gaps between the blocks are scored as  ‘ space ’ . Extra random points are then scored until the total score for plant material plus bare rock reaches 100.
+
+Figure 5.14  (a) Line drawing of Jurassic plant fossils from Cayton Bay, Yorkshire, UK, made from an exposed bedding plane with an overlain 0.5  m  ×  0.5  m point quadrat shown in (b). For purposes of visualization the 100 randomly distributed points have been expanded into yellow circles.
+
+taxon A taxon B taxon C taxon D )
+
+b ( )
+
+a ( taxon E taxon F
+
+Fossils Percentage  s cores and  o ther  ‘ c losed ’  m easures Whenever an abundance score is expressed as a proportion or a percentage any variation in the abundance of one taxon will affect the relative abundance of other taxa, even though their absolute occurrences may remain constant between samples. A rare taxon (few absolute occurrences throughout the population of samples)
+
+may have a high percentage score in a sample where it was the only taxon present, even though its absolute abundance within that sample is similar to that in other samples where it occurred with other taxa. Any closed measurement system, such as percentage scores, has to be used with great care.
+
+Logarithmic  t ransforms and the  r eduction of  ‘ n oise ’ Adjacent samples often exhibit great variations in fossil abundance. This can be produced by the use of an inappropriate sample size, but such a pattern does seem to be a general characteristic of most allochthonous assemblages due to  ‘ random ’ perturbations in ﬂ uid ﬂ ow associated with the depositional process. This randomness also produces high levels of statistical ‘ noise ’ in the data that can swamp a palaeoecologically useful pattern. One way of overcoming this is to use a logarithmic transform. Abundant taxa will exhibit a greater variation in density than rarer taxa, and such variation can swamp any palaeoecologically useful pattern. By applying a log transform the pattern displayed by variations in the rarer components is retained while the noise associated with the less signiﬁ cant variations in abundant species is minimized (see Worked Example 5.2, p.  97).
+
+5.5.3  How  m any  s amples  a re  r equired?
+
+It is often difﬁ cult to decide when sufﬁ cient samples have been scored to enable adequate investigation of a given assemblage.
+
+Certainly no generalizations can be made as every fossil assemblage is different. A guide to sample size may be obtained by constructing a graph in which the cumulative mean (of whatever abundance measure is being used for a given taxon)
+
+is plotted against sample number (Figure  5.15 ).
+
+Figure 5.15  As the number of samples taken rises so the ﬂ uctuation in the value of the cumulative mean of the number of taxa will decrease. The point at which the variation stabilizes (in this case between 25 and 30)
+
+indicates the minimum number of samples required to investigate that population.
+
+number of quadrats mean Wrap delicate fossils in tissue paper (not cotton wool) and then place in a protective box. Multiple specimens and boxes should be tightly packed in strong containers to prevent movement and abrasion during shipping. If possible try to keep the container weight to less than 10  kg for ease of handling.
+
+Fossils
+
+## 5.6  Summary
+
+Every site is unique and no guide can be comprehensive and cover every eventuality. The importance of fossil sites for both amateurs and professionals has led to a wealth of guide books and websites speciﬁ c to places and/or particular time periods or rock units. It is therefore worth searching the web and literature in advance of any palaeontological study as well as Yes Yes Yes Yes Yes No No No No No No Define palaeontology project Is the site on private land?
+
+Is the site protected by law?
+
+Arrive at the site and determine safe working practice Exit the site with samples, notes and photographs for interpretation Would microfossil samples be useful?
+
+Make the site safe and tidy Sketch, photograph and record samples in stratigraphic context Extract, label, wrap and bag/box samples for transport to laboratory Determine sampling regime Is the collection representative?
+
+Is it appropriate to collect?
+
+Are microfossil samples also needed?
+
+Are fossils visibly present?
+
+Extract, label, wrap and bag/box sample for transport Photograph, sketch and note location, sedimentary context and orientation Examine fossils for representative and best preserved examples Determine sampling regime Examine float and bedding surfaces for visible body fossils and traces Obtain access permission Obtain access and sampling permission Sketch/photograph site. If appropriate make graphic log
+
+Fossils getting in contact with local museums, however small, that may have collections and/or contacts. The ﬂ owchart opposite shows the main stages of most palaeontological investigations.
+
+## 5.7  Further  r eading
+
+Benton ,  M. J.  2004 .  Vertebrate Palaeontology ( 3rd edition ),  Wiley - Blackwell , 472 pp.
+
+Benton ,  M. J. and  Harper ,  D. A.  2008 .  Paleobiology and the Fossil Record .  Wiley - Blackwell , 608 pp.
+
+Bromley ,  R. G.  1990 .  Trace Fossils: Biology and Taphonomy ,  Unwin Hyman , 280 pp. [A specialist text on trace fossils and how to interpret them.]
+
+Clarkson ,  E. N. K.  1998 .  Invertebrate Palaeontology and Evolution , Wiley - Blackwell , 468 pp. [A well respected and widely used illustrated guide to identifying and interpreting invertebrate fossils.]
+
+Cleal ,  C. J. and  Thomas ,  B. A.  2009 .  Introduction to Plant Fossils , Cambridge University Press , 248 pp. [A practical introduction to the study of plant fossils. It covers the features for identifying commonly found plant fossils, illustrates details of their anatomy, explains modern research techniques and suggests how best to investigate them.]
+
+Goldring ,  R.  1991 .  Fossils in the Field: Information Potential and Analysis ,  Longman and John Wiley & Sons , 218 pp. [Useful and practical introduction to ﬁ eld palaeontology covering the main types of body and trace fossils but also sampling and how to interpret patterns of deposition.]
+
+Green ,  O. R.  2001 .  A Manual of Practical Laboratory and Field Techniques in Palaeobiology ,  Kluwer Academic Publishers , 538 pp.
+
+[An excellent comprehensive manual of modern techniques in palaeobiology that takes you from ﬁ eld sampling, through transport to the laboratory, laboratory extraction methods and subsequent analysis including photography and specialist techniques such as electron microscopy.]
+
+Jones ,  T. P. and  Rowe ,  N. P.  1999 .  Fossil Plants and Spores: Modern Techniques ,  The Geological Society of London , 396 pp.
+
+Martin ,  R. E.  1999 .  Taphonomy: A Process Approach ,  Cambridge University Press , 508 pp. [A detailed treatise on the processes of fossil assemblage formation. It covers both animals and plants in marine and terrestrial settings. It tackles not only processes of transport, burial and diagenesis, it also covers time averaging, stratigraphic completeness and the chemistry of preservation.]
+
+Seilacher ,  A.  2007 .  Trace Fossil Analysis ,  Springer - Verlag , 226 pp.
+
+[Comprehensive compilation of trace fossils based on Seilacher ’ s life time of research in this ﬁ eld.]
+
+Seldon ,  P. and  Nudds ,  J.  2004 .  Evolution of Fossil Ecosystems , Manson , 160 pp.
+
+Willis ,  K. J. and  McElwain ,  J. C.  2002 .  The Evolution of Plants ,  Oxford University Press , 378 pp.
+
+Sediments Recording  f eatures of s edimentary  r ocks and  c onstructing g raphic  l ogs Angela L.  Coe
+
+## 6.1  Introduction
+
+Sedimentary rocks, particularly coarse - grained siliciclastic rocks, are rewarding to study in the ﬁ eld. This is because you can gain a lot of information about their mode of formation directly from ﬁ eld observations and start to make an interpretation (Figure  6.1 ) without the need to wait for thin - sections or geochemical analyses, which are required for many igneous and metamorphic rocks. Some carbonate successions and ﬁ ne - grained mudstones can, however, be tricky to interpret in the ﬁ eld and their study can beneﬁ t greatly from follow - up microscope work and/or geochemical analyses.
+
+Sedimentary rocks and the fossils they contain should always be considered together because, as  ‘ smart particles ’ (Section
+
+## 5.1 ), fossils provide vital clues on the processes and
+
+environment of deposition of the sedimentary deposits. Fossils, for instance, can provide immediate clues on whether the rocks are marine or non - marine, were deposited over a long or short period of time, what conditions were like on the sea or lake ﬂ oor, as well as, in many instances, providing an immediate relative dating method.
+
+There are a variety of speciﬁ c reasons for collecting data from sedimentary deposits aside from the general ones of geological mapping or constructing a geological history for an area. These are to: •   Understand sedimentary processes and depositional environments.  This leads to a better understanding of natural processes on the Earth ’ s surface.
+
+•   Understand the potential of a sedimentary basin or unit for hydrocarbon recovery or for water resources.  An Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Sediments understanding of where sedimentary rock types are situated in time and space, and how they vary vertically and laterally, enables the main reservoir rocks, seals and source rocks to be mapped out and fully exploited.
+
+•   Reconstruct past periods of environmental change, particularly climate and sea - level change.  Fine - grained marine sedimentary deposits contain the most laterally extensive, complete and intact record of the changing chemistry of the Earth ’ s oceans. Because of the interaction between the oceans and atmosphere, and that the oceans act like a large mixing pot, marine deposits are fundamental to understanding the Earth system in the past. The sedimentary deposits in caves and lakes also form a key
+
+## part in the understanding of palaeoenvironmental change
+
+over about the past 2  Ma. Reconstructing sea - level change relies on examining and correlating both proximal and distal marine successions and looking for both gradual and abrupt changes in the type of sedimentary deposit.
+
+Figure 6.1  An example of a small part of a section of sedimentary strata from which a lot of information about the depositional processes can be gained. The image shows cross - stratiﬁ cation produced by the migration of wave - formed ripples indicating that the sediments were deposited within wave base (less than tens of metres depth) by waves. Some of the ripples near the middle of the image are climbing, indicating high sedimentation rates. The image shows colour variation that is likely to reﬂ ect grain and/ or compositional changes, which may relate to changing energy or sediment source. There are also several trace fossils indicating animal activity. Carboniferous - age strata exposed near Berwick - upon - Tweed, UK.
+
+(Angela L. Coe, The Open University, UK.)
+
+Sediments •   Understand and exploit sedimentary building materials and mineral deposits.  Sedimentary rocks form important building materials. Sandstones and limestones are relatively easy to extract and shape because the natural bedding planes can be used to create blocks. Limestones are needed for cement production and agricultural uses, while mudstones are the raw component for bricks.
+
+•   Reﬁ ne the geological timescale.  The more continuous nature of the sedimentary record compared with that of igneous and metamorphic rocks, together with its fossil content, makes it important for the construction of the geological timescale. The sedimentary record is used for biostratigraphy, constructing magnetic polarity patterns, identiﬁ cation of Milankovitch and other regular cycles, radiometric dating of interbedded volcanic ashes, some direct radiometric dating (e.g.  14 C, U series and Re – Os isotope) and chemostratigraphy, all of which contribute a major part of the composite geological timescale.
+
+In addition to the basic geological equipment (Table  2.1 , p.  4), it is useful for the study of sedimentary rocks to also have some of the optional equipment listed in Table  2.3 (p.  6). In particular, ensure that you have a comparison chart for identifying grain size, shape, rounding and sorting (see also
+
+## Appendix  A6 ). A Munsell colour chart is useful if you are
+
+recording rocks where there is a signiﬁ cance to the variation in colour, or, where colour is the main distinguishing feature. A 1  lb ( c . 0.5  kg) geological hammer and a cold chisel are usually sufﬁ cient to collect samples.
+
+## 6.2  Description,  r ecognition and  r ecording
+
+of  s edimentary  d eposits and  s edimentary s tructures There are four aspects that need recording in the description of sedimentary rocks: (1) the composition, which is relatively easy compared with igneous and metamorphic rocks as there are not many minerals that are common in sedimentary deposits (Appendix  A6 , Table  A6.2 ); (2) the texture of the rock; (3) the sedimentary structures; and (4) the fossils within them.
+
+Composition and texture are taken together as lithology (Section  6.2.1 ), sedimentary structures are covered in Section 6.2.2 and the recording of fossils was covered in Chapter  5 .
+
+6.2.1  Recording  s edimentary  l ithology Assuming that the sedimentary section under study is divided into units (Section  3.2.2 ), the next task is to describe and classify the sedimentary rock type of the unit under
+
+Sediments consideration. Classifying sedimentary deposits provides an approximate quantiﬁ cation of the rock components and therefore information on the depositional process, sediment source and environmental conditions. Use the following items in Appendix  A6 to describe and classify the rocks: checklist (Table  A6.1 ), table of properties of common minerals in sedimentary rocks (Table  A6.2 ), textures (Figures  A6.1 – A6.4 )
+
+and rock classiﬁ cation charts (Figures  A6.11 – A6.13 ).
+
+Siliciclastic  r ocks For siliciclastic rocks the classiﬁ cation scheme depends on the grain size and the composition of the major grains, except for conglomerates and breccias where the clast shape is also important. The general siliciclastic classiﬁ cation process is illustrated in the following ﬂ owchart: Classification of a siliciclastic rock Mudrock Arenite Wacke Use general classification scheme for sandstones and mudrocks (Figure A6.8)
+
+Is the average grain size less than 2 mm?
+
+Use classification scheme for conglomerates, breccias, etc. (Figure A6.13)
+
+Are more than 15% of the grains <30 µm?
+
+Are more than 75% of the grains <30 µm?
+
+Decide on the proportion of feldspar, quartz and rock fragments and use Figure A6.8 Arenite classification, e.g arkose, quartz, arenite Wacke classification, e.g. lithic wacke s e Y s e Y s e Y No No No Use classification scheme for mudrocks (Figure A6.9)
+
+Mudrock (synonomous with mudstone) and coarse - grained siliciclastic rocks can be subdivided further than shown in Figure  A6.6 and require slightly different observations than siltstones and sandstones. These features are covered in the following two subsections.
+
+Mudrock Fine - grained siliciclastic sedimentary rocks make up over 50% of the sedimentary rock record. They are more difﬁ cult to work with in the ﬁ eld than coarse - grained siliciclastic rocks because their features are harder to distinguish with the naked eye and the variations are subtle. Carbonate mudrock with negligible To test for small amounts of quartz sand or silt in sedimentary rocks you can grind a small amount of rock between your front teeth. The quartz is gritty and impossible to break whereas siliciclastic clay minerals or carbonate become a ﬁ ne - grained powder that feels like a smooth paste.
+
+Sediments siliciclastic content are covered by the carbonate classiﬁ cation schemes. Figure  A6.9 provides a general classiﬁ cation scheme for siliciclastic mudrocks that is applicable to most successions. However, in some instances it may be necessary to devise a classiﬁ cation based on the particular succession that you are examining and the major components within it.
+
+To do this, decide what the major components are (e.g. clay minerals, carbonate, phosphate and silica) both visually and, if you are on a return visit, through chemical analysis completed before you return to the ﬁ eld. Then, using these results devise a classiﬁ cation scheme based on the average percentages of each component that it is possible to detect in the ﬁ eld. Listed below are some useful common features of mudrocks to look for in the ﬁ eld. As with all geological observations, use several different lines of evidence to form your interpretation. The features listed below are particularly useful for mudrocks: •   Colour:  As for other sedimentary rocks this primarily reﬂ ects composition. Most marine mudrocks are various shades of grey. Use a Munsell colour chart and/or carry small rock chips of each of the major colours identiﬁ ed in the succession for comparison. Mudrocks with a higher carbonate or silica content, or less organic matter, tend to be paler. Mudrocks rich in organic matter (i.e. organic - carbon compounds) are a brownish grey (Figure  2.17 d).
+
+Non - marine mudrocks are often red or green depending on the oxidation state of the iron; they can also be white and various yellows. Bentonites (montmorillonitic clays of volcanic origin) are a distinctive bluish or greenish grey when freshly exposed.
+
+•   Fracture:  The fracture pattern also provides a clue to the composition and subtly changes with the composition.
+
+Mudrocks mainly composed of clay minerals have an even, blocky fracture. Increasing amounts of carbonate (e.g. marly clays and marlstones) tend to give the rock a conchoidal fracture pattern (Figure  6.2 ). Mudrocks with a high silica content are harder.
+
+•   Fissility:  Mudrocks with a ﬁ ssility (i.e. break into thin (millimetre - sized) layers) are termed shales. They can develop a ﬁ ssility for two reasons: (1) laminae scale variation in composition; (2) compaction and weathering.
+
+Shales with compositional lamination often have a higher overall organic - carbon content and/or some coarser - grained material. Not all compositionally laminated mudrocks are ﬁ ssile (e.g. Figure  2.19 b).
+
+Wet rocks, particularly mudrocks, are usually darker (have a lower value; Figure
+
+## 2.17 ) than dry rocks
+
+However, the moisture content tends not to alter the hue or chroma. If the colour is critical record either wet or dry rocks and avoid areas that are weathered.
+
+Mudrocks rich in marine organic matter that have been buried and moderately heated, such as most Mesozoic strata, have a distinct bituminous smell when they are freshly broken.
+
+Those with a very high organic - carbon content are very light in weight due to their lower density.
+
+Sediments Conglomerates and  b reccias Conglomerates and breccias can be classiﬁ ed according to clast type and matrix properties (Figure  A6.13 ). In complete contrast to mudrocks a  ‘ wide angle ’ view of these coarse - grained sedimentary deposits is required to obtain representative data because of the potential large - scale variation. The quadrat method is useful for assessing and recording coarse - grained sedimentary deposits (Sections  3.3 and  5.4.2 ). A quadrat of 0.5 to 1  m square is appropriate for most deposits.
+
+Carbonates It is useful to look at both a weathered and a fresh surface of carbonate rocks. The carbonate grains tend to weather out making them easier to identify on weathered surfaces. There are two commonly used classiﬁ cation schemes for carbonates (Appendix  A6 , Figures  A6.11 and  A6.12 ). In both cases it is necessary to decide ﬁ rst of all whether the grains are bound together organically (i.e. whether it is a bioherm (reef)) or not).
+
+The Folk classiﬁ cation scheme (Figure  A6.11 ) is easier to use; it is based on the nature of the grains and whether these are within matrix or cement. The use of this classiﬁ cation scheme is illustrated by the following ﬂ owchart:
+
+Use Folk classification Folk classification: dismicrite Folk classification: biolithite Is it micrite with spar cavities?
+
+Is it organically bound?
+
+Folk classification (e.g. biosparite or oosparite)
+
+yes no Identify the major grain types in the rock (ooids, peloids, bioclasts or intraclasts?)
+
+Identify whether grains are in micrite or sparite Put together the grain (oo-, pel-, bio- or intra-) and either micrite or sparite yes no
+
+Figure 6.2  (a) Blocky fracture pattern of a siliciclastic mudrock mainly composed of clay minerals.
+
+(b) Conchoidal fracture pattern of a mudrock with a signiﬁ cant proportion of carbonate.  (a and b: Angela L. Coe, The Open University, UK.) )
+
+b ( )
+
+a (
+
+Sediments In contrast, the Dunham classiﬁ cation scheme (Figure  A6.12 )
+
+conveys information about the matrix or cement and the texture of the rock. The grain type(s) can be indicated by adding an adjective denoting the grain type (e.g. oolitic grainstone). The observations necessary to decide on an appropriate Dunham classiﬁ cation are illustrated by the ﬂ owchart below:
+
+Use Dunham classification wackestone * packstone * rudstone * boundstone mudstone * Yes Yes Yes Yes more specifically Yes Yes s e Y s e Y Are there less than 10% grains?
+
+No Is it mud (matrix)
+
+supported?
+
+No floatstone * Yes Are less than 10% of the grains >2 mm?
+
+No Does it contain lime mud (micrite)?
+
+No Are less than 10% of the grains >2 mm?
+
+No Is it organically bound?
+
+grainstone * bafflestone * bindstone * framestone * No Are the organisms binding the sediment?
+
+No Are the organisms acting as a 3D framework?
+
+Are the organisms acting as baffles?
+
+No In addition a prefix can be added denoting the most abundant grains or organic components (e.g. oolitic grainstone, bryozoan bafflestone)
+
+*
+
+Sediments The other common types of carbonate are: •   Dolomite:  Dolomite has three ﬁ eld characteristics that distinguish it from other carbonates: (1) it tends to be a pale yellowy - brown colour; (2) it reacts only slowly with dilute hydrochloric acid; and (3) if ground between the teeth its texture is softer than that of limestone and similar to that of royal icing.
+
+•   Siderite:  This is most easily distinguished by its distinctive yellow - red colour (terracotta); it forms both bands and nodules, particularly in mudrock successions.
+
+There is no well - established classiﬁ cation scheme for mixed siliciclastic/carbonate successions and a combination of the various classiﬁ cation schemes is typically used. The type of sediment, together with its depositional environment, governs the synsedimentary and post - sedimentary structures, and inﬂ uences the preservation of associated features such as fossils. The common features of each sedimentary rock type to look for are summarized in Table  6.1 (pp.  110 – 111).
+
+6.2.2  Recording  s edimentary  s tructures Sedimentary structures are varied and complex. They are dealt with in detail in many geological textbooks and in specialist sedimentological textbooks (Section  6.6 ). A full coverage is beyond the scope of this book, so instead this section concentrates on how to: (1) record and describe them; (2) distinguish between structures that look similar; and (3) decipher cross - cutting relationships.
+
+Sedimentary structures provide very direct clues about the processes responsible for deposition of a sedimentary rock, and the processes that occur after its deposition. In a number of cases they even provide speciﬁ c information on the depositional setting, e.g. hummocky cross - stratiﬁ cation (HCS) is diagnostic of the offshore transition zone, which lies between fair - weather wave - base and storm wave - base, whereas swaley cross - stratiﬁ cation (SCS) forms close to fair - weather wave - base in the shoreface zone.
+
+In the ﬁ eld you are likely to see structures that you don ’ t understand; this may be because they are unusual, poorly developed, poorly preserved or exposed at a strange angle. So don ’ t worry if you can ’ t identify every sedimentary structure you see  – this is not unusual. If you ﬁ nd something you don ’ t understand, search uround for other, possibly better/more revealing examples, preferably in the same unit but also in adjacent units. Then spend more time on the best examples ﬁ rst, returning to the more enigmatic ones later if there is time.
+
+Sediments Table 6.1  Sedimentary rock types and the sedimentary structures and features that they are commonly associated with. Section  6.2.2 considers sedimentary structures more fully.
+
+Sedimentary rock type Depositional features and sedimentary structures Post - depositional features and sedimentary structures Commonly associated features Claystones, mudrocks and marls Lamination : millimetre - scale compositional variation giving ﬁ ne - scale rock banding Fissility : rock breaks easily into thin sheets parallel to bedding (may be related to lamination)
+
+Colour : change in colour represents compositional variation, particularly iron minerals, organic matter and carbonate content Fracture pattern : reﬂ ects compositional variation (see above)
+
+Weathering proﬁ le : mudstones with a higher calcium carbonate content tend to stick out as they are often more resistant to weathering. Similarly, those with a high organic - carbon content tend to weather proud. When mudrocks are interbedded with sandstones or carbonates the mudrocks always weather back.
+
+Nodules : form below the sediment – water interface under particular geochemical conditions.
+
+Early diagenetic carbonate nodules can be used to help calculate the amount of compaction. In some successions they nucleate on fossils Cone - in - cone calcite : calcite crystals that grow in cones perpendicular to the pressure during overpressuring of mudrocks Soft sediment deformation features : common for high sedimentation rate interbedded mudrocks and sandstones due to density contrast of fresh sediment (mud holds  c . 80% water whereas sand holds  c. 50%)
+
+Fossils : the low energy of deposition, ﬁ ne - grained and non - porous nature of mudrocks tends to be excellent for fossil preservation, both mega - and microfossils.
+
+Trace fossils are easy to detect if there is a colour change and the ﬁ ne detail is often well preserved.
+
+Pyrite : this is often associated with euxinic (free H 2 S in the water column) depositional conditions Organic matter : marine and terrestrial, which inﬂ uences colour and can inﬂ uence lamination. It indicates high productivity and/ or suitable preservation conditions (e.g. anoxia)
+
+Siltstones and sandstones Sedimentary structures : there is a wide range (see Section 6.2.2 ), many of which indicate the processes of deposition Nodules : as above. Late diagenetic nodules are more common Liesegang rings : lines of iron concentration that form as later ﬂ uids move through the rock. Can appear at ﬁ rst glance to be sedimentary structures Fossils : often present but can be reworked under the high - energy conditions of deposition Carbonates (non - organically bound)
+
+Sedimentary structures : there is a wide range (see Section 6.2.2 ), many of which indicate the processes of deposition Stylolites and other pressure solution features : carbonates are susceptible to dissolution. Reprecipitation can enhance, mask or destroy primary features Cementation : the soluble nature of carbonates makes carbonates particularly susceptible to cementation Fossils : bioclasts are important in many carbonates and provide valuable information on the site and conditions of deposition
+
+Sediments Table 6.1 Continued Sedimentary rock type Depositional features and sedimentary structures Post - depositional features and sedimentary structures Commonly associated features Carbonates (organically bound)
+
+Sedimentary structures : often massive with distinct vertical relief. Usually closely associated with horizontally bedded units representing the lagoon and steeply inclined chaotic beds representing the bioherm debris As carbonate (non - organically bound above)
+
+Fossils : by deﬁ nition these are  in situ and can provide much information about the environment and palaeoecology Conglomerates and breccias Clast types : identify the rock types of the clasts, which gives a good indication of the source and sometimes the depositional processes Sedimentary structures : cross - stratiﬁ cation, bedding, etc. (see Section  6.2.2 )
+
+Compaction of matrix around clasts and cementation Fossils : only the robust large megafossils such as vertebrate remains and large pieces of fossilized wood tend to survive intact Coal Colour and shininess : indicates type of organic matter and/ or clay content (see also
+
+## Appendix A6, Table  A6.3 )
+
+Check for an underlying palaeosol that would indicate the coal is  in situ and not derived. The coal itself may be interbedded with other sedimentary deposits Pyrite : associated with high sulfur content Carbonate nodules in coals can preserve plant remains Evaporites Note distribution within sedimentary deposits and crystal shape. Large crystals and ﬁ brous ones are recrystallized Dissolution and reprecipitation common. Complete dissolution is quite common Faults and folds due to the ductile nature of evaporites and their high solubility Associated with shallow - water deposits, particularly carbonates Ironstones, cherts and phosphates Colour : can reﬂ ect compositional variation and in the case of phosphates the amount of reworking (pink/buff when a precipitate, grey/brown and black when reworked)
+
+Banding : these deposits are susceptible to dissolution and reprecipitation so the banding may be entirely post - depositional Phosphates are indicative of high productivity areas. The silica for the chert may come from diatoms, radiolaria or sponge spicules. These indicate a wide range of depositional conditions so determining the origin of the silica is important
+
+Sediments If you don ’ t ﬁ nd other examples, take a photograph and make some notes so that you can show it to other geologists and/or compare it with other examples in the literature, but don ’ t waste a lot of time on it.
+
+Here are some suggestions for observing, describing and identifying sedimentary structures.
+
+## 1.  Examine the structure if possible in plan view and in
+
+cross - section, preferably in faces that cut through the structure parallel and perpendicular to the current direction. This is because different structures look similar or even exactly the same if only one view is taken. The three - dimensional morphology of sedimentary structures is often complex, because sedimentary structures are the result of the migration of three - dimensional bedforms, or of animals and plants disrupting the sediment. Figure  6.3 shows some common examples of how sedimentary structures look different depending on the orientation of the rock face.
+
+## 2.  Decide whether the structure is common in the succession
+
+or unusual. If the latter, is it important or an oddity that is not worth spending much time on?
+
+## 3.  Record the size (in all three dimensions where possible)
+
+and any systematic variation or repetition, both laterally and vertically.
+
+## 4.  If it is a large - scale structure that disrupts other beds and
+
+changes its nature along strike, record these details using photographs and/or sketches (see ﬁ rst part of Worked Example  6.3 ).
+
+## 5.  Record where the sedimentary structure is located
+
+within the bed. Is it at the base or top of the unit or in the middle?
+
+## 6.  If you cannot identify the structure, sketch and/or take
+
+photographs of it. Label the sketch with notes on the geometries and ensure that you have notes on whether this is a cross - section or plan view, and that you can relate different views of the structure.
+
+## 7.  Look for associations of sedimentary structures both
+
+laterally and vertically. For instance ﬂ ute casts and tool marks are both formed through mass ﬂ ow processes, and are likely to be found in the same succession. In addition, if you ﬁ nd ﬂ ute marks look for other evidence of mass ﬂ ow deposits, such as the pattern of sedimentary structures typical of a Bouma Sequence. In some cases sedimentary structures can subtly change through the succession from one form to another. For instance in coastal successions, HCS is likely to change to SCS as the succession records
+
+When recording and describing sedimentary structures try to view and record them in all three orthogonal faces if possible in order to help in their identiﬁ cation.
+
+Sediments Figure 6.3  Paired photographs of sedimentary structures taken from orthogonal faces. (a) Cross - stratiﬁ cation.
+
+Note that from this one view it is impossible to tell whether it is trough or planar stratiﬁ cation. (b) This is from the same bed as (a) and shows distinct troughs indicating that (a) and (b) are part of a trough cross - stratiﬁ ed deposit. (c and d) Hummocky cross - stratiﬁ cation (HCS) showing that the structure is similar no matter which section is viewed. (e)  Diplocraterion burrow showing the plan view of this vertical burrow. The circles are the top of the tubes and the lines joining them are the disrupted sediment in between. (f) Cross - section view showing the vertical U - tube and spreiten. This view is more typical of that illustrated in the literature. Figure  5.4 (p.  86) shows an idealized cross - sectional view of  Diplocraterion . (a – f: Angela L. Coe, The Open University, UK.) )
+
+b ( )
+
+a ( (c)
+
+(e)
+
+(d)
+
+(f)
+
+Sediments conditions that represent water depths closer to fair - weather wave - base rather than storm wave - base.
+
+## 8.  Determine, by examining the nature of the contacts, which
+
+of the conventional four categories the sedimentary structure falls into: depositional, erosional, biogenic (e.g.
+
+trace fossils) or post - depositional. Biogenic structures of both plant and animal origin are covered in Chapter  5 and
+
+## Appendix A5. If the structure is post - depositional, and you
+
+are interested only in the depositional sedimentary structures, then you can ignore it. Tables  6.2 – 6.4 summarize the common depositional, erosional and post - depositional sedimentary structures and bedforms respectively.
+
+Table 6.2  Some of the common depositional sedimentary structures, bedforms (marked) and their process of formation. Note: cross - stratiﬁ cation refers to both cross - bedding and cross - lamination with no scale implication.
+
+Figure numbers preﬁ xed with an  A can be found in Appendix  A6 .
+
+Sedimentary structure or bedform Thickness or size Features to observe Processes Figure/Table Lamination Less than 1  cm Continuity, variation, colour Variation in composition or compaction
+
+## 2.19 b,  12.1 ,
+
+## 12.2 ,  13.2 b
+
+Bedding 1  cm to metres Continuity, repetitions, thickness variation Varying conditions
+
+## 3.1 ,  6.2 b,
+
+## 6.15 ,  6.16
+
+Grading Variable Normal or reverse, gradational or restricted Waning or waxing currents A6.17 s,t Wave - formed ripples (bedform)
+
+Three - dimensional. Climbing or not, associated with HCS or SCS or other structures Waves
+
+## 6.1 ,
+
+A6.17 k,l,m, Table  A6.4 Current - formed ripples (bedform)
+
+Three - dimensional. Climbing or not, associated structures, palaeocurrent Unidirectional currents A6.17 i,j, Table  A6.4 Impact ripples (bedform)
+
+Size, orientation Aeolian – Lenticular bedding Wave - or current - formed ripples? Vertical changes and whether it is part of a ﬁ ning - or coarsening - upward trend Fluctuation between deposition from traction currents and settling from suspension A6.17 Flaser bedding Dunes (bedform)
+
+1 – 10s m Shape of bedform Wind and water – Current lineation Provides a direct measure of palaeocurrent. Check orientation with respect to other structures Upper ﬂ ow regime
+
+## 2.9 ,  A6.17 r
+
+Sediments Table 6.2 Continued Sedimentary structure or bedform Thickness or size Features to observe Processes Figure/Table Planar lamination mm to 1  cm Continuity, nature (compositional or grain size), presence of current lineation Traction currents from currents or waves (upper or lower ﬂ ow regime)
+
+A6.17 q Cross - lamination Less than 1  cm Sedimentary structure resulting from current - or wave - formed ripples. Examine continuity and observe whether ripples are climbing Migration of wave - or current - formed ripples
+
+## 6.1 ,  A6.17 j,l,o
+
+Trough cross - stratiﬁ cation cm to several metres Observe in three dimensions to conﬁ rm identiﬁ cation; provides palaeocurrent direction Migration of curved bedforms at particular speed and depth
+
+## 6.3 a,b,
+
+A6.17 c,d Planar cross - stratiﬁ cation cm to several metres Observe in three dimensions to conﬁ rm identiﬁ cation; provides palaeocurrent direction Migration of straight bedforms at particular speed and depth
+
+## 6.11 b,
+
+A6.17 a,b Hummocky cross - stratiﬁ cation (HCS)
+
+m (but smaller than SCS)
+
+Structure should look the same in all cross - sections; plan view and cross - section show a 1  :  1 ratio of antiforms and synforms Storm waves
+
+## 6.3 c,d,
+
+A6.17 e,f Swaley cross - stratiﬁ cation (SCS)
+
+Structure should look the same in all cross - sections; plan view and cross - section show mainly synforms Fair - weather waves A6.17 g,h Tidal bundles Note the orientation; look for associated tidal features (bi - directional cross - stratiﬁ cation, clay drapes) and consider possible tidal regime (diurnal or semi - diurnal)
+
+Cross - stratiﬁ cation usually picked out by ﬁ ner grained deposits with the cross - stratiﬁ cation surfaces in distinct groups of 7 that change from closely to widely spaced, representing neap and spring tide deposition respectively. Diagnostic of tidal currents A6.17 p Desiccation cracks Look for evaporites, palaeosols and other evidence of subaerial exposure Subaerial exposure A6.17 u Pseudomorphs Geometrical shapes Replacement of evaporite minerals after their dissolution A6.17 v
+
+Sediments Table 6.3  Some of the common erosional sedimentary structures and their processes of formation. Figure numbers preﬁ xed with an  A can be found in Appendix  A6 .
+
+Structure Size Features to observe Processes Figure Flute casts Orientation provides palaeocurrent direction Turbulent eddy of a turbidity current A6.17 y Tool marks including groove casts Orientation of some provides palaeocurrent direction Features produced by the erosion and entrainment of larger clasts by currents. The clasts are dragged, bounced or dropped on the surface. There are a wide range of structures from prod marks to grooves A6.17 x Scours Possible association with erosion surface Erosion from currents or waves A6.17 w Channels 10s m Evidence for base - level fall; possible change from marine to ﬂ uvial or submarine incision Large - scale erosion from ﬂ ow
+
+## 3.1 b,  4.5 ,
+
+6.12 Gutter casts 5 – 10s  cm wide, length 10s m Orientation provides palaeocurrent direction Rip currents
+
+## 6.12 f
+
+Glacial striations cm to m Orientation shows direction of ice movement Ice - sheet movement – Table 6.4  Some of the common early and late post - depositional sedimentary structures and their processes of formation. Figure numbers preﬁ xed with an  A can be found in Appendix  A6 .
+
+Structure Size Features to observe Processes Figure Early post - depositional structures Nodules (early diagenetic)
+
+cm – m Size, composition. Early diagenetic nodules are ﬂ attened ovoids and the laminae or bedding become gradually wider apart near the middle of the nodule.
+
+Check if multigenerational due to reworking Changes in the pore - water chemistry a few decimetres to metres below the sediment – water interface
+
+## 6.2 a,
+
+A6.17 z,aa Deformed/convolute bedding cm – m Extent, any sense of movement direction, possible erosion Unstable sediments due to angle of deposition, high sedimentation rate, change in pore - water pressure or earthquakes or other structural disturbance A6.17 gg Slumps and slides cm – km –
+
+Sediments Table 6.4 Continued Structure Size Features to observe Processes Figure Sandstone sills, dykes and mud volcanoes m – km Direction of extension, associated features, whether the inﬁ ll sedimentary deposits are part of the ‘ normal ’ succession Synsedimentary movement. Often found close to faults – Dish and pillar structures Small concave - up shapes.
+
+Look for other associated dewatering features Water escape structures form where sedimentation rate is high and the underlying sediments have not had chance to compact before more sediment is laid down on top.
+
+A6.17 dd,ff Load casts Look for other associated dewatering features A6.17 cc Ball and pillow Other evidence of high sedimentation rate A6.17 dd,ff Late post - depositional structures Nodules (late diagenetic)
+
+cm – m Size, composition. Late diagenetic nodules have a high sphericity. They often preserve other sedimentary features Change in pore - water chemistry 10s to 100s m below the sediment – water interface A6.17 bb Pressure solution structures (e.g.
+
+stylolites, cone - in - cone calcite)
+
+cm – m Extent laterally and vertically Sediment compaction and movement of ﬂ uids.
+
+Presence depends on the chemistry of the sedimentary deposits and pore waters as well as the amount of pressure 8.5 Leisegang rings Other evidence for diagensis Late stage pore - ﬂ uid movement A6.17 hh Dendrites A6.17 hh
+
+## 6.3  Graphic  l ogs
+
+The preceding section should have provided you with the tools to start recording the features of individual units that make up sedimentary rock successions in the form of written notes and also sketches of both large - and small - scale features. However, the standard way to record and summarize data on sedimentary rock successions is by using a graphic log (e.g. Figure  6.4 , p.  118). This is an idealized and pictorial summary of each of the sedimentary rock units as they were laid down stratigraphically on top of each other and preserved.
+
+Sediments Figure 6.4  A neat version of a typical graphic log with some of the key features labelled. The ﬁ eld version should look very similar except it might not be drawn to scale vertically and there might be other columns with samples, photographs and links to more detailed notes on particular contacts and/or units. For examples of ﬁ eld graphic logs see Figures  4.2 b,  5.10 , 6.9b, 6.11 and the book cover.
+
+Graphic logs have many advantages because they: •   are a succinct method of summarizing a lot of data; •   immediately give an impression of the vertical succession and can therefore aid in the identiﬁ cation of repetitions and major changes in the sedimentary facies;
+
+Sediments •   are a convenient way of testing and making correlations between sections of similar age from different places.
+
+There are many variations on the style in graphic logs, with authors tending to develop a format according to the overall objectives and personal style. There are, however, several set conventions that are generally followed and these are discussed in Section  6.3.1 before some of the common types of graphic log and different conventions are illustrated. Section  6.3.2 explains the stages in constructing a graphic log.
+
+6.3.1  Conventions for  g raphic  l ogs The set conventions for recording graphic logs can be summarized as follows.
+
+•   The vertical scale:  This represents cumulative thickness, above a particular datum on the exposure (distance above datum increases upwards) or in the case of a borehole core the depth down from the top (distance below datum increasing downwards). Graphic logs can represent successions that range from centimetres to hundreds of metres depending on the scale of observation. The scale factor also varies. It is usual to choose a scale factor that is easy to work with, e.g. 1  m of rock  =  1  cm on paper (1  :  100)
+
+or 10  m of rock  =  2  cm on paper (1  :  500).
+
+•   The horizontal scale:  For siliciclastic deposits this always represents the average size of the grains, and by implication deposition from high - or low - velocity currents or suspension (Figure  6.5 a and b). Usually the grain size is shown increasing to the right. In the case of carbonate deposits the grain size is more complex because the size of the clasts is often a function of factors other than the energy (e.g. size of the biota producing the bioclasts or whether ooids or peloids or pisoliths are forming). Nevertheless the horizontal scale is based on decreasing amounts of carbonate mud towards the right (Figure  6.5 c).
+
+•   Lithology:  The rock type is represented by particular ornaments, e.g. stipple for sandstone, bricks for limestone.
+
+Figure 6.5  Variety of different grain - size scales. (a) Basic scale for siliciclastic rocks. (b) A more technically correct scale with each of the subdivisions representing a doubling in grain - size diameter for the sand subdivision (but this can be harder to distinguish in the ﬁ eld and does not necessarily add that much more information). (c) Grain - size scale for carbonate rocks. (d) Potential subdivisions based on composition for mudstone successions. For mixed siliciclastic carbonate rocks both grain - size scales are often added to the graphic log.
+
+clay silt f sand mic = micrite g = grains gs =grain supported granules clay silt f granules mic+g(ms)
+
+mic+g(gs)
+
+sp+g vf ms =matrix supported sp =sparite floatstone rudstone boundstone (a)
+
+(b)
+
+marl mudstone calc mudstone organic C-rich (c)
+
+(d)
+
+sand
+
+Sediments For the less common rock types, e.g. ironstones and evaporites, the ornament used may vary slightly. Some of the commonly used symbols for graphic logs are shown in
+
+## Appendix  A6 , Figure  A6.16
+
+•   Sedimentary structures.  The sedimentary structures are represented either by very idealized symbols or by a sketch (to scale) of the structures as seen. The latter has the advantage of not having to identify the structure immediately and/or showing the particular geometry of the sedimentary structure in that succession. For instance, the typical thickness of the cross - stratiﬁ cation sets or the variation in angle can be shown.
+
+•   Other information:  Other information includes the lithostratigraphic nomenclature, fossils, biostratigraphic zones, sample and photograph information, bed numbers, palaeocurrent data and sequence stratigraphy. These are usually put into columns adjacent to the main log with the information aligned horizontally with the particular level that it pertains to. These columns are usually ranked in a logical order, e.g. for lithostratigraphy: group name, formation name, member name and bed number. If the data you have collected need to be compared with those of previous studies this is often also shown in a summary format. It is a good idea to work out the correlation in the ﬁ eld where a variety of features are more obvious and different correlations can be tested. This is essential if you are relying on previous data sets for biostratigraphic or geochemical information.
+
+•   Stratigraphic order:  The rock units should, if possible, be examined and recorded in the notebook in stratigraphic order, i.e. with the notes on the overlying unit above the unit it supersedes. This enables the contacts between the units to be depicted graphically. Sometimes in the ﬁ eld, because of particular conditions, it becomes necessary to log the youngest units ﬁ rst and work down through the stratigraphy. In this case the units should still be recorded in the correct stratigraphic order in the notebook; this is easily achieved by working down from the top of the notebook pages.
+
+Variations on the  c onventions for  g raphic  l ogs The common variations on the main conventions are: •   using the same or separate columns for the lithology and sedimentary structures  – exactly the same information from Figure  6.4 is represented in a split column format in Figure  6.6 ; •   where the succession is mainly or entirely composed of carbonates, omitting the brick symbol used for carbonates (e.g. Figure  6.10 , p.  126);
+
+Sediments •   sedimentary structures are shown as idealized symbols only; •   note that colour is usually used on graphic logs only when it is one of the main deﬁ ning characteristics (e.g. in a mudrock succession) or for visual purposes for oral presentations.
+
+•   completing the graphic log on a pre - formatted graphic logging sheet or directly into a ﬁ eld notebook (Section  6.3.2 ).
+
+6.3.2  Constructing a  g raphic  l og
+
+## 1.  Prepare your notebook or graphic logging sheet(s). Divide
+
+up the notebook page with vertical ruled lines, both to order the data systematically and to serve as a reminder for what data need to be collected. If necessary use two facing pages for all the different columns pertaining to one unit. There are various options for the format according to personal preference; some examples are shown in Figure
+
+## 6.7 a (p.  122). Some people use preformatted graphic
+
+logging sheets (e.g. Figure  6.7 b). If logging sheets are put onto standard quality paper the paper and large size of the sheet can be susceptible to damage under poor weather Figure 6.6  Same graphic log as Figure  6.4 but with the sedimentary structures and lithology in two separate columns.
+
+Stage Lithostratigraphy Bed number Scale Body Trace Lithology and sedimentary structures Kimmeridgian Portlandian Whaddon Sst Mbr Chinnock Marine Mbr f vf c vc clay silt granules Fossils sand
+
+Sediments conditions. There is more chance of losing one of a set of loose - leaf sheets than a notebook. Logging sheets are, however, particularly useful and extensively used for logging core (e.g. International Ocean Drilling Program (IODP) legs and petroleum companies), where they are easier to handle and the standard sheet ensures that different authors record the same type of information.
+
+## 2.  Decide on an appropriate vertical scale, taking into account
+
+the average and minimum thickness of the units to be Figure 6.7  (a) Some options for notebook layout for graphic logging. (b) Header of an example graphic logging sheet.
+
+Sediments logged, the total thickness of strata to be recorded, the time available and the aim of the logging. Alternatively you could draw the log to a very rough scale in the ﬁ eld and then draw it to scale in the neat version. The advantages of not completing the log to scale in the ﬁ eld are that it allows you to put the details into very thin beds and to not take up too much space with thick beds that show few features; it is also much quicker. The disadvantage is that you do not have as good a visual record of the beds in the ﬁ eld.
+
+## 3.  Decide where exactly along the exposure you are going to
+
+make your measurements and observations. You need to ensure that you complete the logging somewhere that is representative, where you can access the stratigraphy safely and where beds are not covered by scree or vegetation. Many exposures are of dipping beds so it may be necessary to move along in order to examine all of the beds. As you construct your log you should note any major changes that occur laterally, for instance if one of the contacts is erosional and cuts out the underlying beds.
+
+## 4.  Record the nature of the boundary at the base of the
+
+section to be logged. Note whether it is gradational or sharp. If it is gradational record over what distance this occurs. You should also note whether the contact is planar or undulose. For undulose contacts the nature of the contact should be noted preferably in graphical form.
+
+## 5.  Decide where the upper boundary of the unit lies. The
+
+‘ unit ’ is either a bed or set of beds depending on the nature of the succession and the scale of resolution required for the graphic log.
+
+## 6.  Measure the total thickness of the unit, ensuring that you
+
+measure perpendicular to the bedding surface.
+
+## 7.  Record the nature of the contact with the overlying unit
+
+## 8.  Record the composition and sediment texture information
+
+(lithology) for the unit. Note any changes within the unit if that scale of resolution is required.
+
+## 9.  Record the sedimentary structures and fossils in that unit
+
+## 10.  Record any samples or photographs taken
+
+## 11.  Record any unusual features and/or topographic features
+
+that may help you relocate the unit.
+
+## 12.  Complete any correlation and comparison to previous
+
+work as necessary.
+
+## 13.  Repeat steps 5 to 13 for the next stratigraphically younger
+
+unit and so on, continuing on further pages of the notebook as necessary.
+
+Sediments Worked Example 6.1  Construction of a  g raphic  l og of a  s hallow - w ater c arbonate  s uccession For any units or boundaries that are laterally variable or show a number of different features, use a sketch along with the graphic log to show the lateral variation or particular features (e.g. Figures  6.8 and  4.3 c). Worked Example  6.1 shows an example of how the graphical logging technique was used to record a sedimentary succession.
+
+Figure 6.8  Sketch of an erosion surface in the Carboniferous, Northumberland showing the large - scale topography on the surface and details of the laterally variable units above and below.
+
+(Notebook of Angela L. Coe, The Open University, UK.)
+
+Figures  6.9 and  6.10 show photographs and the ﬁ eld and published version of a graphic log that was compiled to summarize the features of the Portland Beds at Freshwater Bay, Isle of Portland, Dorset, UK. This work was completed as part of a basin - wide study of the depositional history and sequence stratigraphy of the Portland Beds within the Wessex Basin, southern England. The graphic log in Figure  6.10 is one of a set that was constructed along a proximal to distal basin proﬁ le. Thin - sections were cut from the samples taken and these were used to conﬁ rm and supplement ﬁ eld observations. A facies model for the main depocentre was also constructed using many sections. Note that the black chert nodules that have formed around Thalassinoides burrows are drawn roughly to scale so that the beds can be easily recognized (Figure  6.9 ). There are notes on the occurrence of ooids; these change through the succession and because of their shallow - water origin they are signiﬁ cant for the sequence stratigraphic interpretation. The thin beds are drawn relatively thickly in the notebook so that there is space for the details.
+
+All of the ammonite biostratigraphic information was compiled from the literature. Particular note was taken of stratigraphic gaps evident from both the sedimentology and the biostratigraphy. The facies and the stratigraphic gaps were used to construct a sequence stratigraphic interpretation (Section  6.5.1 ). The surface marked P2 (Figure
+
+## 6.10 ) is a sequence boundary that corresponds to
+
+an incised ﬂ uvial valley cut into marine deposits on the basin margins and is therefore interpreted as a forced regression. Surface P3 is also a sequence boundary associated with more minor marine incision.
+
+Sediments )
+
+b ( )
+
+a ( Figure 6.9  Field data. (a) Photographs of part of the exposure at Freshwater Bay, Isle of Portland, UK.
+
+(b) Two pages of a ﬁ eld notebook showing part of the graphic log constructed in the ﬁ eld. Note that the ﬁ eld log is drawn only to an approximate scale.  (a and b: Angela L. Coe, The Open University, UK.)
+
+Sediments Figure 6.10  The published version of the graphic log from Freshwater Bay, Dorset including the data shown in Figure  6.9 .  (From Coe  1996 .)
+
+Sediments
+
+## 6.4  Rocks in  s pace: Reconstructing
+
+s edimentary  e nvironments and t heir  d iagnostic  f eatures A set of graphic logs in proximal and distal locations, together with sketches and other information, can be used to record and interpret the depositional environment(s) of the strata. The graphic logs should provide a summary of features to allow division of the succession into sedimentary facies (i.e. rock bodies with similar composition, texture, fossils and sedimentary structures that represent a particular set of processes and depositional conditions). Using Walther ’ s Law, and knowledge of the different parts of depositional environments and the processes within them, the facies can be grouped together into architectural elements or facies associations. The construction of facies associations is particularly appropriate for depositional environments where there are large lateral changes, such as within a ﬂ uvial system.
+
+The elements of completing such a study are illustrated in Worked Example  6.2 (pp.  130 – 133).
+
+For pilot projects, broad - scale regional studies or simply if time is short, generalized graphic logs recording the main sedimentary features to an approximate scale can be useful (e.g.
+
+Figure  6.11 , p.  128). The advantage of this is that it is fast, allowing time to visit more locations and gain a better overview.
+
+The beneﬁ t of carrying out facies analysis is that the facies patterns are then predictable and can be used to assess reservoir and source rock potential. In addition facies models underpin the interpretation of changes in relative sea - level, the establishment of stratigraphic gaps and can add to interpretation of long timescale changes in the climate, palaeolatitude and altitude.
+
+Fine - grained hemipelagic and pelagic carbonate and siliciclastic successions tend not to vary for hundreds of metres or kilometres. Usually with this type of succession, because the variation in facies is so small, there is no need to deﬁ ne facies associations. The visual differences between facies in the ﬁ eld are often very subtle, but may well reﬂ ect large changes in parameters such as run - off, temperature and productivity.
+
+In summary, facies analysis needs to consider the following.
+
+•   Is the area chosen for the graphic log and facies analysis representative?
+
+•   Are sections along a proximal to distal proﬁ le available (basin centre and basin margin)?
+
+•   Do the facies obey Walther ’ s Law or not?
+
+Sediments •   Are there key sedimentary structures and fossils that indicate relative water depth and/or processes of deposition (e.g. hummocky cross - stratiﬁ cation, non - marine fauna)?
+
+•   Are there any repetitions?
+
+•   Are there any large - scale features (e.g. river channels, intrabasinal highs, depocentres next to synsedimentary faults)?
+
+•   Is there lateral continuity of the facies and is the method of correlation robust?
+
+A description of the typical facies in the range of possible sedimentary environments is beyond the scope of this book. A good summary is provided by Stow  (2005) and most textbooks Figure 6.11  Example of a generalized graphic log from a ﬁ eld notebook incorporating, in part, the beds shown in Figures
+
+## 6.4 and  6.6 .  (Angela L. Coe, The
+
+Open University, UK.)
+
+Sediments on sedimentology (e.g. Section  6.6 ). Table  6.5 provides a list of some of the clues to look for when trying to decipher the depositional environment. The most robust interpretation comes from a wide range of evidence and no one set of observations should be taken in isolation. In addition, for coastal environments Appendix  A6 , Figure  A6.14 shows the dominance of different processes and resulting variation in morphology.
+
+Table 6.5  Summary of some of the processes/features and the sedimentary environments that they might represent. In all cases it is the combination of different lines of evidence that will help to determine the depositional environment.
+
+Processes/ features Possible environments Water currents (current - formed ripples, cross - stratiﬁ cation, etc.)
+
+Fluvial, lacustrine or marine Waves (ripples, HCS, SCS, etc.)
+
+Large standing body of water, i.e. large lake or the sea. Consider: lacustrine or marine environments (high water mark to wave base)
+
+Large - scale cross - stratiﬁ cation Aeolian, alluvial or movement of sand on the continental shelf or within an inlet by tides Tidal features (e.g. mud - draped ripples, tidal bundles)
+
+Marine environments near the coastline Low diversity/brackish fauna Restricted lagoon or estuary or coastal embayment High diversity marine fauna Shallow marine (or possible deep - marine condensed succession).
+
+Consider strandplain or delta or barrier island Mainly or totally pelagic fauna Deep marine (unless there is another factor to exclude benthic organisms such as evidence for anoxic conditions)
+
+Abundance of fossilized plant remains Delta or ﬂ uvial or possibly lacustrine Numerous coals Delta or aggrading ﬂ uvial system Extensive evaporite deposits Carbonate platform or lacustrine or aeolian Fine - grained, laterally continuous beds over 100s km Deep marine; pelagic/hemipelagic or large - scale lacustrine Mass gravity features Alluvial fan or submarine fan but also consider synsedimentary faulting and/or steep slopes such as at the edge of a carbonate platform Wind features (frosted grains, large - scale high - angle cross - stratiﬁ cation, impact ripples)
+
+Aeolian (but if the evidence is not laterally extensive consider backshore)
+
+Cyclic successions Any environment, but less likely to be regular in ﬂ uvial and aeolian Turbidites Anywhere in water where there is a slope of more than a few degrees.
+
+If they are extensive and associated with other deep - marine features and mass ﬂ ow deposits, possible submarine fan. Carbonate turbidites will form off the edge of the carbonate platform due to the vertical build - up of reefs, etc.
+
+Sediments Worked Example 6.2  Meandering  r iver  d epositional  e nvironment: Burniston, Yorkshire,  UK Processes/ features Possible environments Ooids, peloids, abundant bioclasts or bioherm/biostrome Part of a carbonate platform. Consider position and distribution of different facies to determine the type of carbonate platform (ramp, rimmed shelf, isolated, etc.)
+
+Sedimentary deposits of highly variable composition Consider submarine and alluvial fans, glacial environments Ice features (e.g. dropstones, glacial striations, hummocks, eskers)
+
+Glacial environments Large - scale lensoid sand bodies encased in ﬁ ne - grained deposits Meandering ﬂ uvial system or part of a submarine fan complex Table 6.5 Continued Figure  6.12 shows the interbedded mudstones and sandstones exposed near Burniston, Yorkshire, UK. These sedimentary rocks form part of the Long Nab Member and are Middle Jurassic in age. The sea - cliffs and foreshore together provide an opportunity to record the three - dimensional nature of these laterally variable sedimentary deposits. Many publications have been written on these deposits and the material presented here shows only some of the ﬁ ndings.
+
+The research that was conducted on these deposits was of particular interest not only for understanding the architecture of a meandering river system, but also because it provided an analogue for petroleum reservoir rocks in the North Sea, offshore UK.
+
+The deposits at this exposure require a combination of different techniques because of their variable nature. These include the construction of sets of graphic logs with the positions of the logs carefully chosen so that they recorded the overall variability, mapping of the geometry of the sandstone bodies using aerial photographs of the foreshore at low tide (Figure
+
+## 6.13 ) and sketching the geometry of the sand
+
+bodies. From these observations a facies model could be constructed (Figure  6.14 ).
+
+Figure  6.12 a illustrates a typical view of these (and other) meandering river deposits with a lensoid sandstone body (the river channel ﬁ ll)
+
+encased in ﬂ oodplain mudstones. The sand to clay ratio will vary with the energy of the river, sediment source and its proximity to the centre of the channel. Figure  6.12 b shows a tabular cross - stratiﬁ ed quartz arenite that is interpreted to have been deposited as a subaqueous sand bar near the centre of the ﬂ uvial channel. Figures
+
+## 6.12 c and  6.12 d show the lensoid point bar that
+
+is laterally equivalent to this channel sand bar.
+
+The succession also contains thin, fairly laterally continuous, sandstones with rootlets (Figures
+
+## 6.12 e). This distinctly different sandstone facies
+
+represents crevasse - splay deposits. Some of these sandstones have gutter casts at the base (Figure
+
+## 6.12 f) from which palaeocurrent measurements
+
+could be taken to ascertain the orientation of the channel. Figure  6.12 g shows an abandoned channel ﬁ lled with plant - rich mudstones. It probably represents the sediment ﬁ ll of a small ox - bow lake.
+
+In addition to the sedimentological interest the low - energy overbank environment provided ideal conditions for the preservation of plant fossils.
+
+Plant fossils from these deposites have been used to reconstruct the Jurassic vegetation at that time and to gain an understanding of the climatic regime (Figure  5.14 , p.  98).
+
+Sediments Figure 6.12  Photographs of the exposure near Burniston, Yorkshire, UK, showing the highly variable nature of the deposits. (a) General overview showing a channel sand body encased in ﬂ oodplain mudstones. (b) Trough cross - stratiﬁ ed clean sandstones of the river channel. (c and d) Cross - cutting nature of a point bar. (e) Roots in a crevasse - splay sandstone facies. (f) Gutter casts at the base of the crevasse - splay sandstone. (g) Interbedded mudstones and sandstones interpreted as overbank deposits and crevasse splays. The dark - grey bed is a plant - rich mudstone interpreted as an ox - bow lake sediment plug.
+
+(a–g: Angela L. Coe, The Open University, UK.)
+
+(a)
+
+(c)
+
+(e)
+
+(b)
+
+(d) )
+
+g ( )f(
+
+Sediments (a)
+
+(b)
+
+0 100 200 m N Cromer Point Crook Ness Figure 6.13  (a) Extract of part of an aerial photograph of the foreshore at Burniston, Yorkshire, UK and (b) part of a line drawing showing the foreshore in (a) with the distinct curved features interpreted as point bars and counter point bars.  (From Alexander  1992 .)
+
+Sediments Figure 6.14  Three - dimensional block model and idealized cross - section to illustrate the depositional environment interpreted for the Long Nab Member, Yorkshire, UK. The right - hand part of the cross - section relates directly to the deposits at Cromer Point shown in Figure  6.11 c and d.  (From Alexander  1992 .)
+
+## 6.5  Using  s edimentary  r ocks
+
+to  i nterpret  c limate  c hange and s ea - l evel  c hange Marine and lacustrine sedimentary records are unique because below storm wave - base in the oceans and in lakes sedimentation can be fairly continuous over hundreds of thousands and even millions of years. This continuous record can be correlated with the usually less complete nearshore and terrestrial records. Together these sedimentary records enable us to collect information on how the Earth ’ s surface environment has progressively changed over time.
+
+The processes that occur on the land surface and near - shore environments affect those in the ocean. The position of sea - level inﬂ uences both land and ocean processes because
+
+Sediments changes in topography or sea - level will cause the system to change its equilibrium proﬁ le. By piecing together evidence from terrestrial, shallow - marine and deep - marine successions deposited at the same time we can gain a more complete understanding of Earth processes.
+
+6.5.1  Climate  c hange Long - term climatic indicators include the presence or absence of the following: coals, evaporites, palaeosols, plant megafossils (Chapter  5 ), palynomorphs, foraminifers, diatoms, corals and particular animal taxa that are latitudinally dependent. Three main types of sedimentary rock are used to study and construct short - term changes in climate through time : (1) ﬁ ne - grained marine sedimentary rocks deposited on the continental shelf below storm wave - base or in the deep ocean; (2) ﬁ ne - grained lake deposits; and (3) other non - marine deposits such as ﬁ ne - grained wind - blown sediment (loess) and cave deposits.
+
+These deposits are used because in general sedimentation is continuous and fairly constant so they contain a fairly unbroken record of past changes. Sedimentary deposits of the same age can be used to determine, for example, the temperature gradient over latitude or altitude. Because the climate affects the chemistry and biota of the rocks laid down, a range of geochemical proxies (e.g. C - , O - , Sr - and Os - isotopes, Mg/Ca ratios and CaCO 3  content) has been developed to obtain an indication of the changes in the climatic variables. Sections 6.2.1 and  13.1.3 provide information on obtaining a record from this type of succession for these purposes.
+
+6.5.2  Sequence  s tratigraphy and  r elative s ea - l evel  c hange The facies patterns, unconformity surfaces, geometry and preservation of many shallow - marine and non - marine sedimentary rock successions can be used to interpret changes in relative sea - level. This works particularly well when it is possible to correlate, with certainty, between shallow - marine and deep - marine facies and even into non - marine successions across sedimentary basins or wide regions. Sequence stratigraphy provides a conceptual model for the detection of past changes in relative sea - level change by predicting the geometry and composition of sediment packages and surfaces that form during a single cycle of relative sea - level change.
+
+Sequence stratigraphic analysis is used widely to predict facies distributions, to examine the sea - level history over a period of time, to understand the genesis of the rock succession and predict where gaps and condensed sections may be present. For
+
+Sediments the theory of sequence stratigraphy and examples of its application see suggested further reading in Section  6.6 . Listed below is the typical data set and general methodology for a sequence stratigraphic interpretation.
+
+## 1.  Record the vertical and lateral changes in the sedimentary
+
+succession along a proximal to distal proﬁ le of the depocentre. This is usually done through the graphic logs of exposures and/or seismic sections and borehole information. The sedimentological and palaeontological data all need to be integrated.
+
+## 2.  Incorporate any other published information (e.g
+
+evidence for subaerial exposure, biostratigraphy, fossil assemblages).
+
+## 3.  Interpret the facies in terms of facies models so that it is
+
+obvious where facies that are juxtaposed obey Walther ’ s Law and where they do not.
+
+## 4.  Construct, or integrate into the data set from the literature,
+
+a robust 100 thousand year to million year resolution relative timescale for each of the sections to enable correlation.
+
+## 5.  Identify patterns and repetitions within the succession
+
+with a view to interpreting the parasequences, their stacking patterns and the systems tracts. The transgressive systems tract is unique in containing retrogradational parasequences so this is sometimes the easiest systems tract to identify.
+
+## 6.  Identify major unconformity surfaces (one or more
+
+sequence boundaries) and trace them laterally in a distal direction to ﬁ nd the correlative conformity. Identify condensed sections that might represent the maximum ﬂ ooding surfaces and the transgressive surfaces.
+
+## 7.  Integrate the data on the sediment packages and key
+
+surfaces in order to construct a sequence stratigraphic interpretation identifying all of the systems tracts and key surfaces.
+
+Examples of sequence stratigraphic interpretations are beyond the scope of this book but Worked Example  6.3 (pp.  136 – 137)
+
+illustrates data collection along a sequence boundary and Worked Example  6.1 (pp.  124 – 126) also shows some sequence stratigraphic interpretation. More extensive examples in a range of depositional settings can be found in Coe  (2003) , Emery and Myers  (1996) and Catuneanu  (2006) .
+
+Sediments Worked Example 6.3  Set of  p hotographs and  s ketches to  i llustrate a  k ey s edimentary  c ontact (a)
+
+(b)
+
+(b)
+
+unconformity unconformity correlative conformity Figure 6.15  (a) Photomontage of the cliff at Bran Point, Osmington Mills to show the erosive nature of the unit near the middle of the cliff and line drawing showing the erosive surface. Inset box shows position of (b). (b) Detail of the downcutting from near the middle of the section and line drawing showing the truncation.  (a and b: Angela L. Coe, The Open University, UK.)
+
+Sediments Figure 6.16  Extract from a published graphic log of the most complete part of the succession across the sedimentary contact shown in Figure  6.15 .  (From Coe 1995 .)
+
+The sea - cliffs at Osmington Mills, near Weymouth, Dorset, UK show a marked facies change from micritic limestones (biomicrite) to oolitic grainstones (oosparite). The base of the oolitic grainstone facies is erosional and down - cuts towards the west. The objective of this ﬁ eld exercise was to gather evidence for the erosive nature of the contact and to interpret its possible origin. The photographs show both an overview (Figure  6.15 a) and a close up view along the section (Figure  6.15 b). Accompanying sketches or line drawings (Figure  6.15 ) can be used to show the large - scale geometry of this important surface. A graphic log was constructed (Figure
+
+## 6.16 ) where this section was interpreted to be at
+
+its most stratigraphically complete. This erosive contact has been interpreted as a sequence boundary on the basis of the erosion at this location, and others across the basin, together with evidence from sections in the Cleveland Basin to the north, where there is also a sharp facies change.
+
+## 6.6  Further  r eading
+
+Alexander ,  J.  1992 .  Nature and origin of a laterally extensive alluvial sandstone body in the Middle Jurassic Scalby Formation ,  Journal of the Geological Society, London ,  149 ,  431 – 441 . [Summary paper of the Middle Jurassic succession described in Worked Example 6.1]
+
+Sediments Catuneanu ,  O.  2006 .  Principals of Sequence Stratigraphy ,  Elsevier , 375 pp. [In - depth coverage of a wide range of sequence stratigraphy models.]
+
+Coe ,  A. L.  2003 .  The Sedimentary Record of Sea - level Change , Cambridge University Press and The Open University , 287 pp.
+
+[Textbook on sequence stratigraphy.]
+
+Collinson ,  J. ,  Mountney ,  N.  &  Thompson ,  D.  2006 .  Sedimentary Structures ,  Terra Publishing , 292 pp.
+
+Emery ,  D. and  Myers ,  K.  1996 .  Sequence Stratigraphy ,  Blackwell Science , 304 pp. [The ﬁ rst comprehensive textbook on sequence stratigraphy. Wide coverage of subsurface data.]
+
+Miall ,  A. D.  2010 .  The Geology of Stratigraphic Sequences ,  Springer , 480 pp. [In - depth textbook on sequence stratigraphy and various controversies.]
+
+Nichols ,  G.  2009 .  Sedimentology and Stratigraphy ,  Blackwell Science , 432 pp. [Good book covering the basics of sedimentology and stratigraphy.]
+
+Parish ,  J. T.  2001 .  Interpreting Pre - Quaternary Climate from the Geologic Record ,  Columbia University Press , 348 pp. [Excellent reference text on interpreting climate change from the geological record.]
+
+Prothero ,  D. R. and  Schwab ,  F.  2003 .  Sedimentary Geology ,  W. H.
+
+Freeman , 600 pp.
+
+Stow ,  D. A.V.  2005 .  Sedimentary Rocks in the Field ,  Manson Publishing , 320 pp. [Excellent in - depth textbook on describing sedimentary rocks in the ﬁ eld. Richly illustrated with 425 colour photos of sedimentary features and many useful summary tables.]
+
+Tucker ,  M. E. (ed.)  1988 .  Techniques in Sedimentology ,  Blackwell Scientiﬁ c Publications , 404 pp. [Chapter 2 is devoted to ﬁ eld techniques.]
+
+Tucker ,  M. E.  1991 .  Sedimentary Petrology ,  Blackwell Scientiﬁ c Publications , 260 pp. [Long running and very popular textbook on sedimentology.]
+
+Tucker ,  M. E.  2003 .  Sedimentary Rocks in the Field ,  Blackwell Scientiﬁ c Publications , 244 pp. [Well respected book now in its 3rd edition summarizing sedimentary rocks and how to record them in the ﬁ eld.]
+
+Igneous Recording  f eatures of i gneous  r ocks David A.  Rothery The study of igneous rocks in the ﬁ eld relies on many of the skills already established in this book. Modern volcanic eruptions are well documented and some individuals have been privileged to have experienced one, but most igneous processes lie further from the realm of commonplace experience. Nobody has actually seen a granite intruding into its country rock, or witnessed a pyroxene crystal growing within a magma, so these processes are impossible to observe directly. Thus, it is crucial to make ﬁ eld observations in the light of general understanding of igneous processes, backed up by laboratory studies.
+
+The main reasons to study igneous rocks are to: (1) understand volcanoes and the hazards they pose to life on Earth; (2)
+
+understand processes beneath the Earth ’ s surface that drive plate tectonics and that contributed to the evolution of Earth and other planetary bodies; (3) understand the distribution of ore minerals; and (4) for chronology.
+
+## 7.1  Equipment,  b asic  t ips and  s afety
+
+If igneous rocks that you intend to study are in contact with other rock types, you should carry the basic equipment for general geological ﬁ eldwork listed in Table  2.1 (p.  4). For igneous rocks a geological hammer is usually important so that you can obtain a fresh surface to examine the mineralogy.
+
+Additions and reﬁ nements for working on active volcanoes and young lava surfaces are discussed in Section  7.4 .
+
+Depending on the nature of your ﬁ eld project, you may already know (or suspect) that the rock at a particular locality is igneous. When visiting an  unknown exposure, you ﬁ rst need to form at least a working hypothesis as to which parts of it are likely to be igneous, as outlined in Section  3.2 . Conﬁ rmation, or revision, will come from observations of ﬁ eld relationships (Section  7.2 ) and also of mineralogy and texture (Section  7.3 ).
+
+It is good to explore ﬁ eld relationships early, but it is usually Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Igneous worth making a preliminary assessment of mineralogy and texture (to conﬁ rm that you are indeed looking at what you think you are!) before studying the ﬁ eld relationships in detail.
+
+## 7.2  Field  r elationships of  i gneous  r ocks
+
+This section is concerned with studying igneous rocks exposed by natural erosion or quarrying. Active volcanoes and young lava ﬂ ows that retain exposed original surface morphology (up to tens of thousands of years in arid regions) offer different opportunities and are discussed in Section  7.4 .
+
+7.2.1  Relationships with  s urrounding  r ocks The most fundamental attribute of a body of igneous rock, and one that you should try to ascertain as soon as you can, is whether it is intrusive (e.g. Figure  7.1 ) or extrusive. You may wish to classify an intrusion according to the scheme given in
+
+## Appendix  A7 , Table  A7.1 , but more important than this is to
+
+try to deduce how it was emplaced, based on as wide a variety of evidence as you can assemble.
+
+Figure 7.1  A dyke of Cenozoic age cutting discordantly across complexly folded wackes  (Augrim quarry, Co. Down, Northern Ireland) . The dyke is the 2 - m - wide reddish feature, passing nearly vertically up the rock face behind the person in the foreground.
+
+(Richard Warner, British Geological Survey and Donald Fay, Open University Geological Society, UK.)
+
+Igneous Figure 7.2  A complicated intrusive contact between a pale intrusive rock and a darker country rock (Oman, Arabia). In this example, the intrusive rock (here a plagiogranite or trondhjemite) has made space for itself by the process known as  ‘ stoping ’ , in which blocks of the country rock (dolerite, in this case) are plucked away and engulfed within the intrusion (where they may then become assimilated).  (David A.
+
+Rothery, The Open University, UK.)
+
+If you can see an exposed contact between the igneous rock and the adjacent rock (which might also be igneous), then simple observation may make it apparent that the edge of your igneous body cuts across the fabric of the neighbouring rock (Figures  7.1 and  8.22 b). If so, then this discordant nature of the contact points very strongly to an intrusive relationship. If the shape of the contact is complicated (Figure  7.2 ) this would be very clear evidence for discordance, but some discordant contacts look straight (or nearly planar if they can be determined in three dimensions). In such a situation you need to rule out the alternative possibility that the two rock units have been brought into contact by a fault (Section  8.2 ).
+
+Weathering, soil and vegetation sometimes conspire to make intrusive contacts, especially into sedimentary rock, frustratingly poorly exposed. Crucial details may be hidden, so that the geometric relationship between the intrusion and country rock cannot be easily assessed. In such a situation, comparing your best estimate of the strike and dip of the contact with the strike and dip in nearby exposures of country rock is a useful pointer. Unless the two planes are similar, the contact must be discordant (or a fault). You will need to judge how close  ‘ similar ’ needs to be according to your particular circumstances. Factors to bear in mind include: •   If the contact is poorly exposed your best estimate of its attitude could easily be wrong by more than 10 ° either way.
+
+•   You can often measure the strike and dip of sedimentary bedding at any one place to better than  ± 5 ° , but is that representative of the local average strike and dip?
+
+•   Attitude may vary locally because of folding, so how far apart are the measurements that you wish to compare?
+
+Table  7.1 (p.  142) suggests how to pin down a contact that is unexposed, but manifested because of differences in resistance to weathering and erosion, in chemistry, or in permeability between an igneous body and its country rock.
+
+Having established the geometry of the edge of your discordant intrusion, you should ask yourself  ‘ where is its other edge? ’ .
+
+This is easy if you are dealing with a narrow curtain of intrusive rock (a dyke) because these are mostly less than a couple of metres wide. Except in very poorly exposed regions, if you can see one edge of dyke you can usually see its other edge (Figures  7.1 and  7.3 ). A pipe - like volcanic neck will be typically tens of metres across, but if you are at the margin of a pluton the other side may be many tens of kilometres away.
+
+Coarse grain size, and lack of chilling at the contact, are good clues that you are dealing with a pluton (Section  7.3 ).
+
+Figure 7.3  A near - vertical dyke cutting bedded sedimentary rocks (Howick Bay, Northumbria, UK).
+
+Both edges (margins) of this 1 - m - wide dyke are clear.  (Angela L. Coe, The Open University, UK.)
+
+Igneous It is often particularly informative to measure strike and dip of discordant contacts, especially if there are other examples in the area. Measurement principles are the same as those laid out in Section  2.3.1 . When it comes to making a map (Chapter  10 ), an obvious example is the strike and dip pattern of dykes, which will tell you whether you are dealing with a generally parallel dyke swarm, or radial dykes coming from a common centre (Figure  7.4 ), or cone sheets (circular or elliptical in outcrop pattern but dipping inwards) or ring dykes (similar but dipping outwards; Figure  7.5 ). If the edge of your igneous rock body lies parallel to the stratiﬁ cation of the country rock (a concordant contact), then it may be extrusive (lava) or a layer of pyroclastic rock. However, it could still be intrusive.
+
+Intrusions into foliated metamorphic rock commonly exploit the foliation, though in places they can sometimes be seen to cut across it discordantly. In a migmatite, the leucosomes (layers or lenses of sweated - out igneous material) form coevally with the overall fabric, and so are generally concordant.
+
+If you suspect that a concordant contact may be the top or bottom of a sill (Figure  7.6 ), you should try to ﬁ nd the opposite contact. Sills are tabular bodies, typically intruded between beds of horizontal (or gently dipping) strata. Although they may extend horizontally for tens of hundreds of kilometres, most sills are only a few tens of metres thick, so the evidence needed to conﬁ rm the concordant nature of both contacts may not be far away.
+
+When an intrusion is emplaced into wet, poorly consolidated, sedimentary rocks, then water – rock reactions can lead to margins that are locally brecciated, unlike the almost planar contact in Figure  7.6 . This texture is called peperite, and may look like an inverse version of a stoped contact (such as Figure
+
+## 7.2 ), having angular lumps of igneous rock enclosed within the
+
+country rock instead of angular fragments of country rock enclosed within the igneous rock.
+
+It can be particularly tricky to distinguish a sill from a lava ﬂ ow, but you will be in less doubt if you can see (or deduce Figure 7.4  Schematic plan view of the possible outcrop pattern of radial dykes around a volcanic centre: (a) in the absence of regional stress and (b) with east – west extension.
+
+(a)
+
+c. 1km N (b)
+
+c. 1km N Table 7.1  Possible landscape clues to the location of an unexposed contact.
+
+Aspect Possible features Topography Break in slope; trough (or ridge); general change in landscape Weathering Contact may weather back and erode more than average Vegetation Change in type (related to soil chemistry) or lushness (related to drainage) across contact BEWARE! A concordant contact must be parallel to the stratiﬁ cation of the country rock in three dimensions, so be sure that you are not misled by looking only at one surface in a speciﬁ c orientation.
+
+Igneous from mapping) a place where either the top or the bottom of the sill steps up or down the stratigraphy (Figure  7.7 , p.  144). A lava ﬂ ow cannot do this (but beware of a lava ﬂ ow emplaced unconformably onto a tilted and eroded sedimentary succession; Figure  7.7 b). You should be alert for such local discordances in a sill. These may give clues to the large - scale shape of the body; in particular, major sills intruded into sedimentary deposits tend to be saucer shaped, by virtue of discordant steps that allow them to be both thicker and deeper towards their centres.
+
+A lava ﬂ ow may be emplaced over a previously weathered surface, and in turn its top may have been weathered before it became buried by a subsequent lava ﬂ ow or by a pyroclastic or sedimentary deposit. Although a sill may be intruded along a previously weathered horizon, the top of the sill itself cannot become weathered (except if it is subaerially exposed sometime after intrusion). Therefore, a weathered (typically reddened, maybe even developing into soil) top to a concordant igneous sheet is strong evidence that it is a lava ﬂ ow.
+
+Figure 7.5  Block - view of (a)
+
+cone sheets and (b) a ring dyke, showing their typical outcrop pattern and relationship to a magma chamber (which would solidify to form a pluton). The ground surface shown in (b) has not yet been eroded, and the circular depression bounded by the ring dyke is a volcanic caldera.
+
+(a)
+
+(b)
+
+cone sheets magma chamber ring dyke magma chamber Figure 7.6  The base of a sill (Teesdale, Co. Durham, UK). Buff coloured ﬁ ne - grained sandstones occur below the level of the person ’ s shoulder. The base of the sill is not actually in the obvious recess at head - height where, especially on the weathered surface, the colour changes. This is a thin siltstone layer overlain by a further  c . 1  m of sandstone. Close study in the ﬁ eld with the aid of a hand lens reveals that the base of the sill is at the level indicated by the arrows.  (David A.
+
+Rothery, The Open University, UK.)
+
+Igneous Other ways to distinguish between lava ﬂ ows and sills depend on medium - and large - scale textural features, which we here refer to as  ‘ internal architecture ’ to avoid confusion with crystalline, petrographic texture (Section  7.3 ).
+
+7.2.2  Internal  a rchitecture: Joints and  v eins The pattern of jointing in a ﬂ ow can be used to deduce its cooling and crystallization history (it may also tell you about the local palaeotopography), and should be documented by sketches or photos of both vertical and horizontal faces.
+
+The most obvious kind of  ‘ internal architecture ’ characteristic of some igneous rock bodies is columnar joints, which are generally attributed to thermal contraction during cooling.
+
+Columnar joints develop perpendicular to the cooling surfaces of tabular igneous bodies. This can happen in dykes (Figure  7.8 ), in which case the columns are horizontal when they form, but columnar joints tend to be much better developed in sills and in thick ( > 5  m) lava ﬂ ows that formed extensive, evenly cooling, sheets (Figure  7.9 ). They can also be found in some welded ignimbrite deposits, which were very hot when emplaced and cooled in a similar fashion.
+
+Lava - ﬂ ow columnar joints can form a monotonous pattern of vertical columns called a  ‘ colonnade ’ in the lower third to half of a ﬂ ow (where cooling tends to be slowest and most uniform), above which there is usually a sharp change to more slender columns with a less well - ordered orientation. This zone, called the  ‘ entablature ’ , may persist almost to the ﬂ ow top, or there could be an upper colonnade. Colonnade columns are between
+
+## 0.3  m and 2  m wide, but within a single colonnade the range of
+
+widths is much more limited.
+
+Unlike within lava ﬂ ows, columnar jointing in sills rarely if ever develops into an entablature. Another distinguishing feature of sills is that their colonnade joints may penetrate a metre or two above and below the sill into the country rock, which was heated by the intrusion and then cooled with it.
+
+Columnar jointing is apparent in the sedimentary rock below the sill in Figure  7.6 (p.  143), but the evidence in this one photograph is insufﬁ cient to prove that this is a sill because columnar joints can also penetrate into country rock below a thick lava ﬂ ow.
+
+Plutons can have joints too. If you ﬁ nd ore minerals or zeolites coating joint surfaces, this is a clue that the joints formed during cooling, when aqueous magmatic ﬂ uids were still circulating.
+
+Joints in igneous rocks are not necessarily open fractures; they may have been completely ﬁ lled by crystallization of an Figure 7.7  (a) Sketch cross - section showing the typical relationship between a sill (in this example fed by a dyke on the left)
+
+and horizontal strata intruded by it.
+
+The sill is generally concordant, but is locally discordant where it steps up or down between strata. The lava ﬂ ow is concordant. (b) As (a)
+
+but in this case the strata into which the sill and dyke were intruded have been tilted. At a later date lava ﬂ owed over the area. In this case the lava ﬂ ow is discordant.
+
+lava sill dyke (b)
+
+(a)
+
+lava sill dyke
+
+Igneous Figure 7.8  Columnar joints developed perpendicular to the margin of a near - vertical dyke, Hvalfjor ð ur, Iceland. (a) General view. (b) Close - up. Coin for scale.  (David A. Rothery, The Open University, UK.)
+
+(a)
+
+(b)
+
+Figure 7.9  The Fingal ’ s Cave ﬂ ood basalt on Staffa, Inner Hebrides, Scotland. The cliff is nearly 40  m high. The base of the ﬂ ow is the thin, slightly rubbly horizon at the bottom of the columns (at the roof of the cave). Columns are remarkably regular in the colonnade forming the lower 15  m of the ﬂ ow, above which the joints of the entablature are more closely spaced and fan out into a variety of orientations. The original ﬂ ow was probably virtually horizontal, but has been tilted by about 3 ° to the east (right).  (David A. Rothery, The Open University, UK.)
+
+Igneous aqueous or late - stage magmatic ﬂ uid to form veins. Veins in igneous rocks may be much younger than their host, as they can be in any rock type, so it is important to try to determine the signiﬁ cance of any veins that you ﬁ nd. Table  7.2 summarizes distinguishing features.
+
+It is often very easy to determine the strike and dip of individual joints, and in situations such as those shown in Figures  7.8 and  7.10 a large number of measurements could be made. However, you need to consider whether this is necessary and what the aim of collecting all these data might be. Beware also that some joints, or sets of joints in certain orientations, may result from tectonic process or release of conﬁ ning pressure during exhumation, and therefore be irrelevant to the igneous history of your exposure.
+
+7.2.3  Internal  a rchitecture:  O ther  e xposure - s cale  f abrics Other features to seek out and record in ancient lava ﬂ ows include: •   General morphology and texture.  Are there any pillows (indicative of eruption into water or under ice)? Is there a rubbly top or base, suggesting emplacement on land as an ' a ' a (Figure  7.11 ). Are there glassy  ‘ hyaloclastite ’ fragments above or below, or a peperitic base (also indicating water)?
+
+If you ﬁ nd a peperitic top, this cannot be a lava ﬂ ow; it must be a sill intruded into wet sediment.
+
+Table 7.2  Distinguishing characteristics of veins in igneous rock.
+
+Type of vein Description Signiﬁ cance Pegmatite Coarse crystals, mineralogy similar to or more felsic than the host rock, may also contain large crystals of exotic minerals such as apatite, tourmaline, beryl Crystallization of last, volatile - rich, fraction of the magma. If zoned (mineralogy in the middle differing from the edges), this indicates evolving chemistry as the joint expanded Aplite Fine - grained, sugary, felsic veins, common in granites Crystallization of last fraction of silica - rich magma, possibly triggered by sudden escape of volatiles when joints were initiated Hydrothermal vein White quartz or calcite, sometimes containing metallic sulﬁ des, epidote or ﬂ uorite. Sometimes the wall - rock is altered, but little or no material is precipitated. Tendency to penetrate further into country rock than other veins Chemically charged aqueous ﬂ uids, circulating between igneous body and country rock. Could reﬂ ect hydrothermal circulation as a pluton cools, or could be younger and unrelated Just because you  can measure something, doesn ’ t mean that the measurement will actually be  useful . Don ’ t let yourself be distracted from scientiﬁ c observation into collecting a large number of easy - to - make measurements unless you can foresee a use for them.
+
+Figure 7.10  A wave - eroded exposure cut into the colonnade of the Fingal ’ s Cave ﬂ ow (about 200  m to the right of Figure  7.9 ).
+
+Note the clear shapes of the columns.  (David A. Rothery, The Open University, UK.)
+
+Igneous •   Flow architecture.  Did the ﬂ ow arrive in place with the full thickness you now see, or was it  ‘ inﬂ ated ’ by a series of pulses? Look for signs internal to the ﬂ ow bearing on this matter, but also study the ﬂ ow top. If you can ﬁ nd either pahoehoe texture or several - metre - high mounds that may have been tumuli, then the ﬂ ow probably grew by inﬂ ation, implying a relatively slow but prolonged effusion rate.
+
+•   Vesicles.  Concentrations or layers of vesicles within a ﬂ ow (Figure  7.12 ) may record pauses in inﬂ ation of the ﬂ ow.
+
+Non - spherical vesicles may indicate either shearing during ﬂ ow or later ﬂ attening. Vesicles in general, especially if concentrated towards the top, are a good indicator of a lava ﬂ ow rather than a sill. Mineral inﬁ ll of vesicles (turning them into amygdales) is a consequence of post - emplacement ﬂ uid percolation. Identifying these minerals may help to deﬁ ne metamorphic grade (Section  9.3 ).
+
+Vesicles in lava and in volcanic bombs can preserve a record of the history of bubble nucleation and expansion in the magma (e.g. Worked Example 7.1, p.  148). This may have occurred in several stages (e.g. during ascent, during storage at depth, during ejection from the vent, after emplacement). In the ﬁ eld, use your eyes and brain to weigh up the possible information conveyed by vesicles, but be aware that thorough analysis of the size distribution of bubble populations requires measurements in the laboratory (based on measuring large numbers of bubbles, often in thin - section).
+
+Lava ﬂ ows too thin to develop columnar jointing tend to have a massive interior but sometimes a rubbly base. In basalts, the top will be especially rubbly if the ﬂ ow was emplaced as an ' a ' a (Figure  7.11 ). If emplaced as pahoehoe, it may be possible to ﬁ nd distinctive relicts of pahoehoe lobes or ropes on the upper surface. A thin ﬂ ow is unlikely to pass from subaqueous to subaerial, so if there are pillows the whole ﬂ ow is probably subaqueous (Figure  7.14 , p.  149), a deﬁ nition which includes eruption under ice.
+
+Chilling and  c hilled  m argins A minor intrusion such as a dyke or a sill is likely to have been emplaced at a fairly shallow depth into relatively cold country rock. You should therefore expect to ﬁ nd its grain size decreasing close to the contact, forming a  ‘ chilled margin ’ .
+
+Figure 7.11  The side of a road - cutting exposing the massive interiors and rubbly tops of  ' a ' a ﬂ ows in Hawaii.  (David A. Rothery, The Open University, UK.)
+
+50 cm Figure 7.12  Vesicles within an  ’ a ’ a lava ﬂ ow, seen in cross - section.
+
+(a) General view, showing how vesicles become larger towards the top of the ﬂ ow. (b) Close - up within the grey, central, part of the ﬂ ow revealing that millimetre - and centimetre - scale vesicles are very abundant. Mount Etna, Italy.  (a and b: David A. Rothery, The Open University, UK.)
+
+(a)
+
+(b)
+
+Igneous Worked Example 7.1  Impact  v esiculation Figure 7.13  Page from a ﬁ eld notebook recording observations and ideas that were later tested in the laboratory. These are good notes but there is no scale to go with the sketches.  (Notebook of Janet Sumner, The Open University, UK.)
+
+In 2002, observations of the vesicle patterns within basaltic spatter bombs thrown 1  km during the 1930 eruption of Stromboli led volcanologists to speculate that some of the vesicles began to grow as a result of the bombs hitting the ground (Figure  7.13 ). The viability of this process, termed  ‘ impact vesiculation ’ , was later demonstrated by experiments in the laboratory that caused bubbles to form in silicate magma subjected to impact shock.
+
+Igneous Usually the effects of chilling extend inwards no more than a centimetre or two. The very edge may be glassy, lacking groundmass crystals of any size, but with groundmass crystals becoming larger and thus more clearly visible further away from the contact.
+
+To spot a chilled margin from a metre or so away, look for variation in darkness or colour of the rock (Figure  7.15 , p.  150).
+
+A fresh basaltic rock with a chilled margin will be grey in its interior, becoming darker as the feldspar in the groundmass becomes smaller and more transparent, and ending up almost black at the glassy contact. Later alteration and/or weathering can obscure things, but the story may still be visible as, for example, a gradual change from green to red at the chilled margin. Use a hand lens to verify grain - size changes and to try to conﬁ rm any initial diagnosis based on tone or colour.
+
+Chilling can affect only the groundmass. If the magma contained phenocrysts, some of these may occur in the chilled margin, surrounded by glass. Likewise, any chilling at the contact cannot manifest itself in the grain size of an intrusion that was emplaced as a crystal - rich mush (as hypothesized for some granites). If you ﬁ nd an intrusive contact that lacks any signs of chilling, you should ask yourself whether the intrusion was emplaced as a mush, or whether it was emplaced at depth and/or into country rock that was too hot to cause rapid chilling.
+
+When an intrusion occurs into a rock of the same composition and same average grain size as itself, chilling at the contact enables the relative ages to be deduced, even if there is no other evidence (e.g. Worked Example 7.2, p.  151). The rock that is chilled must be younger than the rock that it chills against.
+
+Close to the contact, there will be a gradual (over a centimetre or two) change in tone, colour or grain size within the younger rock, but there will be no such changes as you approach the contact from the other side.
+
+It is exceptional to ﬁ nd chilled margins inside a pluton, but there are commonly contacts between batches of magma that had slightly different composition. These are discernible from a distance by different tone or colour, and evident at close range by differences in the abundances or crystal size of the main minerals. Particularly for felsic magmas, viscosity inhibits mixing, so that the sharpness of the contact between magma types may be limited only by the size of the crystals.
+
+Pyroclastic  r ocks Pyroclastic rocks are a special subset of volcaniclastic rocks.
+
+The latter consist of fragments of volcanic rock, fragmented by any process and transported by  any agent. However, the contents of a pyroclastic deposit must by deﬁ nition have been Figure 7.14  Unusually well - preserved and easily distinguished pillow lavas. Oman, Arabia.
+
+(David A. Rothery, The Open University, UK.)
+
+BEWARE! In ancient rocks the shapes of pillows may have been deformed, making them hard to conﬁ rm, and spheroidal weathering can lead to a pillow - like appearance in unpillowed massive basalt.
+
+Igneous fragmented and transported as part of the eruptive process.
+
+When interpreting a volcaniclastic rock look for contextual clues to try to establish whether it is truly pyroclastic. (A fall deposit from a volcano counts as pyroclastic, unless it has been reworked by wind or water.)
+
+Pyroclastic rocks may contain textural evidence of their nature and mode of emplacement. Fragments of spatter from around a vent (hitting the ground as  ‘ cow - pat ’ bombs) may have become welded together in such a way that their integrity can no longer be determined, but scoria that was more chilled by the time it accumulated may preserve its original texture. Fragments of lava encased in ash, or ash or lava or both found in association with blocks up to tens of metres in size of other rock types (either related igneous lithologies or country rock), have traditionally often been regarded as  ‘ vent agglomerate ’ , denoting a deposit that ﬁ lled a volcanic vent or ﬁ ssure following explosion or collapse. If you ﬁ nd such an occurrence this is a good working hypothesis to start with, but you would do well to consider other possibilities too. Look for evidence to help you choose between alternative explanations such as a lahar or a debris avalanche deposit, or a proximal fall deposit extending beyond the conﬁ nes of a vent. Mapping out the ﬁ eld Figure 7.15  Dyke chilled margins. (a) The chilled margin runs from top to bottom of this view parallel to the pen. Its location is indicated by the arrow drawn in the deliberately positioned ﬁ eld notebook. This exposure is weathered and fragmented, but there is a slight darkening on fresh surfaces from left to right towards the chilled margin. To the right of the chill, the intruded rock is the interior of another dyke. (b) Chilled margin of dyke (right) against gabbro (left). Note the inclusion of the compass in the photo, to show the strike (Oman Ophiolite, Arabia).  (a and b: David A. Rothery, The Open University, UK.)
+
+(a)
+
+(b)
+
+Igneous Worked Example 7.2  Chilling  s tatistics in Cyprus Figure 7.16  Schematic diagram of an east – west traverse across sheeted dykes in Oman (similar to those in Figure  7.15 ). The tick on the chilled margins shows the direction of chilling. Numbers identify dykes, but not their order of intrusion. The east end of section A and the west end of section B are separated by a 20  m fault zone of poor and confused exposure. There is another fault zone between dykes 9 and 10.  (From Lippard  et al.  1986 .)
+
+Chilled margin Hydrothermal breccia veins Epidote veins W section A W section B E E metres 35_38 40 _ 46 48_52 54_58 61_63 70_ _79 2 3 5 _ _17 21 _ 29 In the early 1970s, the sea - ﬂ oor spreading origin of ophiolites was gaining support, but was not yet fully accepted. Rupert Kidd and Joe Cann (1974) studied chilled margins in the sheeted dyke complex of the Troodos Ophiolite (Cyprus), in places that consisted of nothing but dykes, striking approximately N – S. They argued that the absence of non - dyke  ‘ host rock ’ means that this unit must have been formed by 100% spreading, and they cited evidence from chilled margins for additional support. They found that usually the chilled margin of one dyke abutted against the chilled margin of its neighbour (so that their relative ages could not be told), and reasonably explained this as a younger dyke being injected along the edge of a previous dyke.
+
+However, they observed that about one dyke in ten had been split by a younger dyke, which must have been injected into the interior of the older dyke.
+
+They documented the direction of chilling in these split dykes, and found that there was a statistically signiﬁ cant preponderance of chilled margins in which chilling was towards the east.
+
+From this, they argued that the eastern halves of split dykes were more common in the ophiolite than western halves of split dykes, and hence that the Troodos Ophiolite as a whole represents ocean ﬂ oor that formed on the east of the spreading axis.
+
+Conversely, in the Oman Ophiolite, where the sheeted dykes also strike roughly N – S, there is a preponderance of chills towards the west (Figure
+
+## 7.16 ), suggesting derivation from the west side of
+
+a spreading axis.
+
+Igneous relationships may help, but sometimes you may be left with signiﬁ cant doubts.
+
+Rock consisting largely of tuff (consolidated volcanic ash)
+
+brings you into the realm of techniques more familiarly used to study sedimentary rocks (Chapter  6 ), even if it is truly pyroclastic rather than more broadly volcaniclastic in origin.
+
+Ancient ﬁ ne - grained ash deposits that settle to the sea ﬂ oor can look very much like marine mudstones (even including the presence of lamination and pelagic fossils) and their true nature may remain unresolved. Features to look for include their distinctive colour when fresh (white, bluey grey or greeny grey), sharp contact, possible grading and (if they have degraded to montmorillonitic clays) their soft texture.
+
+Identiﬁ cation may need to be conﬁ rmed using thin - sections or geochemical analysis. More proximal fall deposits may include accretionary lapilli a few millimetres to about 2  cm in size (Figure  7.17 ). These are originally spherical but may become ﬂ attened during compaction. They typically form by airborne nucleation in wet conditions, and in cross - section may reveal a diagnostic concentrically ringed pattern.
+
+Often, the most useful record that you can make of a pyroclastic deposit in the ﬁ eld is a graphic log (Section  6.3 ).
+
+Fall deposits may show signiﬁ cant grain - size variations. You are likely to notice these ﬁ rst at a distance, appearing as sedimentary layers. Individual clasts will be visible, at least in the coarser - grained horizons, when you get close. In a pyroclastic ﬂ ow deposit, cross - stratiﬁ cation may be apparent in addition to variations in the size and composition of clasts.
+
+When making a graphic log of a suspected pyroclastic deposit, aspects to look out for in particular include: •   Grain - size variations.  A coarse - grained base ﬁ ning upwards suggests a discrete explosive eruption, with ﬁ ne - grained material taking longer to fall out. Possibly there will be a succession of such events, yielding ﬁ ning - upwards units with sharp coarse - grained bases separated by hard - to - quantify time - gaps. On the other hand, if you ﬁ nd grain size coarsening upwards and then decreasing again (which may happen repeatedly) you may suspect a sustained eruption whose strength waxed and waned. If the deposit is unconsolidated, take samples from different layers to sieve for grain - size analysis. This can be diagnostic of many subtleties in the conditions of eruption and/or emplacement.
+
+•   The nature of clasts.  This is most clearly distinguished in larger fragments. They may be pumice (representing frothy magma, evidencing the escape of volatiles that powered the Figure 7.17  Accretionary lapilli in this fall deposit are recognizable by their spheroidal shape and (where exposed) their concentric internal structure.  (Peter Francis, The Open University, UK.)
+
+Igneous eruption), lumps of dense rock (ripped from the walls of the conduit) known as  ‘ lithic fragments ’ , or fragments of single crystals. Particularly in welded deposits, such as many ignimbrites, signiﬁ cant compaction may have occurred while the deposit was still hot. When this happens, the pumices become squashed (and are called ﬁ amme; Figure  7.18 ) but the lithics and crystals retain their shape much better. If you ﬁ nd ﬁ amme, you can tell that the deposit was hot when it came to rest.
+
+•   Cross - stratiﬁ cation.  Record this carefully, in the same way you would for a sedimentary deposit (sections  6.2 and  6.3 ).
+
+In pyroclastic rocks it usually implies a  ‘ surge deposit ’ from a low - density ﬂ ow (Figure  7.19 ), and does not occur in fall deposits. Look out for localized disruption of the cross - stratiﬁ cation, lamination or bedding, which could be caused by upward escape of steam and other volatiles when a hot pyroclastic ﬂ ow came to rest over damp or vegetated ground.
+
+•   Flow banding.  There may be some macroscopic  ‘ ﬂ ow banding ’ , for example resulting from downhill creep after welding began in a hot pyroclastic deposit (Figure  7.20 , p.  154). In ancient or deformed rocks such a  ‘ rheomorphic tuff ’ may be hard to distinguish from a unit with cross - stratiﬁ cation or primary layering, so you should be aware of all possibilities and look for additional evidence to distinguish between hypotheses.
+
+Figure 7.18  Squashed pumice clasts (dark) within the paler ash matrix of the Bandelier Tuff, a
+
+## 1.14  Ma ignimbrite erupted from
+
+Valles caldera, New Mexico.  (Peter Francis, The Open University, UK.)
+
+Figure 7.19  Cross - stratiﬁ cation in a pyroclastic surge deposit, including clear variations in clast size. This example is only weakly cemented, and the holes are where geologists or other animals have dug away at the rock face. Campi Flegrei, Italy.  (David A. Rothery, The Open University, UK.)
+
+Igneous •   Relationships between ash and large fragments.  Is the ‘ ash ’ made of the same stuff as the large bits? Are the largest clasts supporting one another (rather than ﬂ oating in an ashy matrix)? If the answer to both is  ‘ yes ’ , you should think along the lines of a  ‘ block - and - ash - ﬂ ow ’ produced by collapse or explosive fragmentation of a lava dome.
+
+Another discriminator between fall deposits and pyroclastic ﬂ ows is that fall deposits mantle the topography, whereas pyroclastic ﬂ ows are much thicker in, or entirely conﬁ ned to, valleys. Thus, you should try to document any thickness variations and their relationship with palaeotopography.
+
+## 7.3  Mineralogy and  s mall - s cale  t extures of
+
+i gneous  r ocks Here we consider diagnostic mineralogical and textural evidence that can be seen in the ﬁ eld with the unaided eye for Figure 7.20  Part of a ﬁ eld notebook, containing a log with preliminary interpretation of a near - vent section of the 11.4  Ma Wilson Creek Ignimbrite, Snake River Plain, Idaho, USA. The scale (given elsewhere in the notebook)
+
+is 1  m per ruled division on the page.  (Notebook of Janet Sumner, The Open University, UK.)
+
+Igneous coarse - gained rocks, easily with a hand lens for medium - grained rocks, but with difﬁ culty even with a hand lens for ﬁ ne - grained rocks.
+
+7.3.1  Petrologic  t ype For any crystalline igneous rock, you should attempt to identify the rock type on the basis of its mineral content. You will ﬁ nd this easier if you have already had some experience diagnosing hand specimens with the aid of accompanying thin - sections. In the ﬁ eld, you are unlikely to be able to go much further than the simple classiﬁ cation scheme provided in Appendix  A7 , Figure  A7.1 . More advanced classiﬁ cation depends on petrography done using thin - sections and geochemical analysis.
+
+Here are probably the three most useful tips: •   In medium - or ﬁ ne - grained rocks, pyroxene and amphibole can be particularly difﬁ cult to tell apart. Don ’ t worry  – it doesn ’ t matter much. More than 40% of any maﬁ c mineral means your rock is maﬁ c; 20 – 40% makes it intermediate.
+
+•   In igneous rocks quartz crystals are usually clear (unlike quartz in veins, which can be milky), but feldspar is often altered so that it looks white. If the plagioclase is still fresh it can be clear like quartz. However, on a freshly broken surface of a hand specimen some of the fractures in plagioclase will be ﬂ at cleavage planes that will catch the light as you turn the specimen, whereas all fractures in quartz will be irregular and curved.
+
+•   Most igneous rocks contain some plagioclase feldspar. If you can identify this, estimating its percentage will help to determine the rock type.
+
+7.3.2  Mineral  t exture and  f abric You should of course check that your rock has an igneous texture. Except for glassy lava and the matrix in pyroclastic rocks, this means the rock should have interlocking crystals.
+
+However, it is not true, despite what some texts suggest, that igneous rocks must necessarily lack foliation. In fact, you should look carefully for signs of mineral alignment or arrangement in planes. This may be more subtle than in metamorphic rocks, but if present it can tell you a lot about the emplacement process.
+
+‘ Flow  b anding ’ or  ‘ ﬂ ow  f oliation ’ This is a result of shear in pyroclastic deposits (Figure  7.20 ) or viscous lavas such as andesite, dacite or rhyolite, so that crystals (or, in obsidian, the glassy fabric deﬁ ned by microlites, bubbles,
+
+Igneous isolated crystals and/or colours in the glass) become aligned with the direction of ﬂ ow. In the ﬁ eld the clearest manifestation of this may be simply in the way the rock fractures or weathers.
+
+Look out for ﬁ amme to distinguish pyroclastic rocks from ﬂ ow - banded lavas. You should be on the look out for ﬂ ow banding in plutons too, especially granite that may have been emplaced as a crystal - rich mush, although it is surprisingly rare.
+
+Cumulate  l ayering This was once thought simply to result from crystals settling to the ﬂ oor of a magma chamber, but it has been shown that similar textures can result from crystal growth against magma chamber walls. Occasionally, cross - stratiﬁ cation is evident.
+
+Cumulate layers occur on a centimetre scale (Figure  7.21 ) and may be evidenced by variations in mineral abundances. For example, in a gabbro alternating layers of 60%  :  40% versus 40%  :  60% plagioclase and pyroxene is called  ‘ ratio layering ’ .
+
+The appearance and disappearance of a particular mineral phase is called  ‘ phase layering ’ . An example of the latter would be a gabbro having alternating layers with and without olivine.
+
+Cumulate layering can be recorded by means of a graphic log (Section  6.3 ), paying attention to whether changes are gradual or sharp (e.g. Worked Example 7.3).
+
+Other attributes of mineral texture can provide insights on the sequence of crystallization. Isolated crystals larger than the groundmass are probably phenocrysts that began to grow early (perhaps during magma storage). When one crystal encloses Figure 7.21  Cumulate layering in a gabbro in the Oman Ophiolite, Arabia. Dark olivine - rich layers with sharp bases gradually become more felsic upwards, repeated in a scale of a few centimetres. On this weathered surface, the felsic layers are reddened. As can be seen from the orientated compass - clinometer, in this example the layers strike approximately 060 ° and dip steeply northwards.  (David A.
+
+Rothery, The Open University, UK.)
+
+Igneous Worked Example 7.3  Dyke  r ooting and  o verlapping  s preading  c entres in the Oman Ophiolite another the enclosed crystal must have grown before the enclosing crystal, and well - formed crystals probably grew before badly - shaped crystals that appear to be ﬁ lling in spaces.
+
+In the ﬁ eld, such evidence can be assessed only for coarse - grained rocks, and even for those it is better to study thin - sections under the microscope.
+
+Pegmatites You may ﬁ nd exceptionally coarse intergrown crystals in parts of a pluton, or coarse patches within an otherwise medium - grained sill. This is probably pegmatite (Table  7.2 , p.  146), in which the size of the crystals is nothing to do with cooling rate, but was instead controlled by the availability of nucleation sites and/or the abundance of volatiles in the last residue of the melt. Pegmatites usually occur in veins or lenses.
+
+Things to note in particular are the shape of the pegmatite body and the clarity of its edges. Does it appear that the main igneous body was solid and brittle, or mushy and ductile, when the pegmatite was active?
+
+The Oman Ophiolite is a 350  km long, well - preserved tract of Cretaceous ocean ﬂ oor, thrust over the northeast coast of Arabia. Studies in the 1980s (Rothery  1983 ) and early 1990s (Macleod and Rothery  1992 ) made the crucial ﬁ eld observation of places where dolerite dykes from the sheeted dyke complex could be traced downward into  ‘ high - level gabbro ’ of identical composition but coarser grain size (e.g. Figure
+
+## 7.15 b). This gabbro was interpreted as the upper
+
+part of a magma chamber from which the dykes were fed, and indeed it was possible to ﬁ nd chilled margins of gabbro against gabbro, representing the roots of individual dykes.
+
+Integration of mineral texture and fabric observations with these broader ﬁ eld observations proved its worth when it was found that, next to and below dyke rooting zones, the ‘ high - level gabbro ’ often has a weakly lineated fabric. This is expressed by orientation of pyroxene crystals consistent with generally upward ﬂ ow towards the overlying dykes, although sometimes this fabric has been destroyed by recrystallization during hydrothermal alteration (when pyroxenes were largely replaced by amphibole).
+
+Equally important, elsewhere (within a few tens of kilometres) the dykes from the sheeted dyke complex could be traced into cumulate gabbros, where they cut across the cumulate layering.
+
+Dykes could not have been fed from these places, so it was argued that they must have been injected along strike from a nearby magma chamber. About half a dozen of these ‘ penetration zones ’ were identiﬁ ed, and it was suggested that they marked segmentation of the spreading axis at which the Oman Ophiolite was created. Such segmentation was consistent with overlapping spreading centres like those that began to be identiﬁ ed on the East Paciﬁ c Rise in the late 1980s (and subsequently in many other places, including marginal basins) rather than segmentation deﬁ ned by transform faults.
+
+Although mid - ocean ridge magma chambers have subsequently come to be regarded as small and/ or ephemeral, the important distinction between dyke rooting and dyke penetration remains valid.
+
+Igneous ‘ Enclaves ’ Sometimes within an igneous rock you may ﬁ nd patches (or ‘ enclaves ’ ) with a different texture or mineralogy, but which are not greatly coarser (in fact they may be ﬁ ner) and so are not pegmatite. These enclaves may be so obviously different (and large enough) that you can spot them from a distance. Examine them carefully in order to decide between competing possibilities that could explain them.
+
+•   Xenoliths?  These would be fragments of country rock that were engulfed in the igneous magma (e.g. by stoping: Figure
+
+## 7.2 ) and transported within it. If so, they may not be
+
+igneous in origin. The most exotic xenoliths come from the mantle. Edges of xenoliths tend to be well - deﬁ ned, and their shape can be angular. At its smallest, a xenolith may consist of no more than a single exotic crystal, in which case it is known as a xenocryst. Beware of misidentifying an aggregation of phenocrysts (known as a  ‘ glomerocryst ’ )
+
+as a xenolith.
+
+•   Magma of different composition that has somehow avoided total assimilation into the main magma?  These, sometimes referred to as autoliths, may be blobs that were injected into the main host rock while it was still partly molten (Figure  7.22 ). They tend to have a rounded shape, and their edges may be diffuse. This is really just a small - scale variety of the incomplete magma mixing described in
+
+## Section  7.2.2
+
+Figure 7.22  Autolith, 60  cm long, in the Shap Granite, Cumbria, UK. On close examination, it turns out that the autolith is not maﬁ c (as would be implied by its colour). It is a microgranite, with a higher proportion of biotite than the coarse - grained granite that encloses it.  (David A. Rothery, The Open University, UK.)
+
+Igneous
+
+## 7.4  Recent and  a ctive  v olcanoes
+
+Active and recently active volcanoes allow you to see igneous rocks in the making, or at least before they have been changed by weathering, burial or other processes. They are places where processes can be studied on scales ranging from molecular chemistry (when volcanic gases mix with the atmosphere) to the deformation of a stratocone volcano under its own weight.
+
+There is space here to mention only a few general principles.
+
+7.4.1  Equipment and  s afety Your safety equipment should include a hard hat even if you do not intend to work close to any cliffs, to offer head protection if an explosive eruption occurs. The ground may be unstable (especially on fresh pahoehoe and on  ' a ' a of any age), so it is wise to carry a long stick for support and (if necessary)
+
+probing. You should also wear tough trousers and gloves of suitable material for protection against cuts and burns, and which will not melt when exposed to heat (Figure  7.23 ). If you expect to be working near fumaroles you should carry a gas mask capable of ﬁ ltering out acid gases such as sulfur dioxide.
+
+You should NEVER risk putting yourself in either of the following situations, but here is some advice that might save your life if you get caught.
+
+•   If volcanic bombs start falling towards you, do not turn and run. It is better to stand and face the bombs, preferably somewhere where you can dodge without tripping over.
+
+Watch the bomb - fall carefully, and if you are sure that one is headed for you, step aside so that it misses you.
+
+•   If a pyroclastic surge is coming your way, you will not be able to outrun it, although you may be able to escape sideways out of its path. If not, cover as much of your body as you can, especially your face, and get down as low as you can in a hole or behind a large rock. While the ﬂ ow is passing, hold your breath for as long as possible so you don ’ t sear your lungs by inhaling hot gas and ash.
+
+Sampling and measuring equipment will depend on the nature of your study. Infrared thermometers can record temperatures for studying vent processes or lava ﬂ ow rates (Figure  7.24 , p.  160), there are various ultraviolet or infrared sensors for studying volcanic gases, and of course you may wish to collect samples of rock. Downwind of an explosive vent, something as simple as an aluminium baking tray can usefully be laid out to catch scoria fall - out, for studies of crystallization and vesiculation changes during the course of an eruption.
+
+Figure 7.23  The shelly skin of this recent pahoehoe ﬂ ow gave way under the weight of this volcanologist. Wisely, he is wearing long trousers (rather than shorts) that would have protected his shins if he had stumbled into the sharp, glassy rim (Kilauea, Hawaii). A far worse accident would have been to have broken through the roof over an active lava tube.  (David A. Rothery, The Open University, UK.)
+
+You need to take special care and be extra vigilant when working on or near an active volcano.
+
+Igneous 7.4.2  Access You should expect to face considerably greater access challenges than normal (Section  2.5 ). Some pristine volcanic landscapes (especially those where eruptions are rare) are protected by legislation that restricts access to certain areas.
+
+During an eruption, the authorities may prohibit entry  – for your own safety and also so that resources do not have to be diverted from protection of local inhabitants. Conversely, on volcanoes in virtually continuous low - level eruption (e.g.
+
+Stromboli) there may be a well - established system of local guides, leading tourists on lava - watching hikes. To obtain permission for a serious scientiﬁ c (rather than touristic) visit to an active volcano, it is advisable to make contact with any relevant park authorities or the nearest volcano observatory, which can be found via the World Organization of Volcano Observatories (WOVO).
+
+7.4.3  Observations Techniques involving specialist geophysical and geochemical equipment for monitoring active volcanoes are beyond the scope of this book. However, equipped merely with your own senses on an erupting volcano you can, for example, log the times and locations of discrete explosions or measure the speed of a lava ﬂ ow (throw a rock onto it to act as a marker). Here we note some observations that can be made safely in young volcanic terrain when there is NO eruption and NO LIKELIHOOD of imminent eruption.
+
+Figure 7.24  Two infrared thermometers and one infrared video camera have been set up to look into this skylight on an inﬂ ating pahoehoe ﬁ eld, to record variations in the rate of ﬂ ow in a lava tube on Kilauea, Hawaii.
+
+(David A. Rothery, The Open University, UK.)
+
+Igneous •   Examine lava ﬂ ow morphology.  Identify the individual lava ﬂ ows making up a lava ﬁ eld. If the lava is basalt, look for pahoehoe (which comes in many varieties; Figures  7.23 and
+
+## 7.24 ) and  ' a ' a (Figure  7.12 a). See if you can ﬁ nd a pahoehoe
+
+ﬂ ow that turns into  ' a ' a where it passed onto a steeper slope so that the ﬂ ow rate was forced to increase. In a pahoehoe ﬂ ow ﬁ eld, look for tumuli (mounds), where lava was squeezed up from below. Lines of tumuli can indicate the track of a lava tube. If the tube has emptied, you are absolutely sure it is safe and you can ﬁ nd a way in, it may be worth exploring to look for  ‘ tide marks ’ on the wall left by the waning ﬂ ow. Study a ﬂ ow front; where would it have gone next if the supply of lava had not run out?
+
+•   Can you ﬁ nd any volcanic bombs?  Were they completely ﬂ uid, or crusty, or fully solidiﬁ ed when they hit the ground? Do they represent magma, or wall - rock ripped out of the vent?
+
+•   Has there been a recent pyroclastic ﬂ ow?  This may be a good chance to see the damage that one can do. In the proximal region the deposit may be vanishingly thin (and so virtually unrecognizable in ancient examples), but it may have scoured away soil and previous ash deposits.
+
+•   Is there fresh fall - out ash still in situ?  Is it on steep slopes, prone to being washed away during heavy rain to generate a lahar? Which areas are at risk?
+
+•   Are any vents accessible?  Features such as scoria cones, tuff rings, maars and tuff cones that can be hard to interpret when found in cross - section in ancient rocks are easier to make sense of in a modern setting.
+
+## 7.5  Further  r eading
+
+Francis ,  P.W. and  Oppenheimer ,  C.  2003 .  Volcanoes ,  Oxford University Press , 536 pp. [A nice account of volcanism in general.]
+
+Gill ,  R.  2010 .  Igneous Rocks and Processes ,  Wiley - Blackwell , 480 pp.
+
+[A lengthy review aiming to give students the skills and conﬁ dence to identify igneous minerals and interpret igneous rocks.]
+
+Le  Maitre ,  R. W. ,  Streckeisen ,  A. ,  Zanettin ,  B. ,  Le  Bas ,  M. J. ,  Bonin ,  B.
+
+and  Bateman ,  P. (eds)  2008 .  Igneous Rocks, a Classiﬁ cation and Glossary of Terms: Recommendations of the International Union of Geological Sciences Subcommission on the Systematics of Igneous Rocks ,  Cambridge University Press , 256 pp. [Formal, detailed account of the systematic classiﬁ cation of igneous rock types.]
+
+McPhie ,  J. ,  Doyle ,  M. and  Allen ,  R.  1993 .  Volcanic Textures ,  Centre of Ore Deposit and Exploration Studies (CODES), University of Tasmania , 198 pp. [Excellent photographic atlas of volcanic rock textures. Reprinted in 2005.]
+
+Rothery ,  D. A.  2010 .  Volcanoes, Earthquakes and Tsunamis ,  Hodder Headline, Teach Yourself Books , 288 pp. [A basic introduction to
+
+Igneous active volcanoes, earthquakes, tsunamis and the relationships between them.]
+
+Schmincke ,  H. - U.  2004 .  Volcanism ,  Springer - Verlag , 324 pp.
+
+[Beautifully illustrated account in colour.]
+
+Thorpe ,  R. S. and  Brown ,  G. C.  1991 . The  Field Description of Igneous Rocks , Geological Society of London Handbook Series,  Blackwell Scientiﬁ c Publications , 160 pp. [Further information on the ﬁ eld description of igneous rocks and more of the theory.]
+
+Structural Recording  s tructural i nformation Tom W.  Argles Our planet is an active one, with tectonic plates in constant motion. Its crust and mantle are subject to changing stresses that cause rocks to deform, either by breaking or by bending/ stretching (brittle or ductile deformation respectively).
+
+Although we may glean some information on this deformation from sophisticated seismic methods probing the Earth ’ s depths, or by measuring inﬁ nitesimal ground motions using satellites, the most detailed record is preserved in deformed rocks exposed at the Earth ’ s surface.
+
+Measuring brittle structures provides information on how and why the upper crust in particular deforms, speciﬁ cally the orientation of regional and local stresses, and the direction of motion on faults. Such data help us understand why, how and where earthquakes occur. Understanding fracture systems is also critical in exploiting oil, gas, coal and mineral resources efﬁ ciently; rock structures provide not only challenges, but also opportunities (such as hydrocarbon traps). Movement of ﬂ uids through the upper crust is strongly inﬂ uenced by fractures, so structural geology plays a crucial role in a wide range of related ﬁ elds, including groundwater studies, pollution control, geothermal schemes and carbon dioxide storage and sequestration. Major engineering schemes (e.g. reservoir dams, barrages, motorways, tunnels) are literally founded on structural geology. Section  8.2 illustrates some important brittle structures, to help you recognize them, measure them and interpret the resulting data.
+
+Ductile deformation dominates strain deep in the crust and in the mantle, so measurement of ductile structures provides information on fault motions and stress orientations at depth, giving insights into regional deformation patterns.
+
+## Section  8.3 illustrates some of the commoner ductile
+
+structures.
+
+Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Structural
+
+## 8.1  Equipment and  m easurement
+
+Structural geology is the study of geometrical features (e.g.
+
+planes, lines, surfaces, ellipsoids) produced by deformation.
+
+We describe and measure the orientation and dimensions of these geometrical elements to better understand how and why they formed, in terms of rock movements (kinematics) and stresses (dynamics). Hence, structural ﬁ eldwork may require some of the optional and specialist equipment (e.g. binoculars, pocket stereoscope; Table  2.3 , p.  6) in addition to the basic equipment for geological ﬁ eldwork (Table  2.1 , p.  4). For accurate measurement of azimuths, dips and plunges, a specialist compass - clinometer (e.g. Brunton - type; Section  2.3 )
+
+is recommended.
+
+8.1.1  Structural  m easurements and  n otations
+
+## Section  2.3 introduced the compass - clinometer; measurement
+
+of the strike and dip of an inclined plane was covered in
+
+## Section  2.3.1 , Figures  2.6 – 2.8 . Section  2.3.2 , Figures  2.9 and
+
+## 2.10 , described how to measure linear features such as fold
+
+axes, lineations and striations, which are at least as important as planes in structural geology. Gathering orientation data is a critical part of structural work, so it is a good idea to develop consistent, efﬁ cient strategies for measurement in the ﬁ eld.
+
+Because many structural studies require copious measurements of different lines and planes, it is important to record the data in a concise, organized and logical manner in your ﬁ eld notebook (e.g. Figure  4.11 c, p.  73). Separate the structural data from other notes (perhaps even by colour), and arrange them in tabular form. Abbreviations for different features (e.g. Lc = crenulation lineation) are a useful shorthand, but ensure that you are consistent in their usage, and include a key in each notebook, for instance on the inside cover. As explained in
+
+## Section  2.3 it is important to follow the convention for
+
+recording azimuths and dip (or plunge) values: Azimuth (strike; trend of linear feature)
+
+three - digit number Dip or plunge (inclination from horizontal)
+
+two - digit number This convention should avoid confusion between the two numbers, regardless of the style of notation used (Table  8.1 ).
+
+This is especially important, because many structural geologists use a short notation for planes of  ‘ dip angle/dip azimuth ’ , rather than the longer  ‘ strike azimuth/dip angle  +  dip direction ’ . This saves space, but means that notebook records of planes and lines look very similar, and therefore should be
+
+A long pencil is useful in some cases as an extension of the line, if the feature itself is awkward to measure with the compass - clinometer.
+
+Structural labelled carefully to identify what they are. Because the strike of a plane is easier to measure accurately than the dip direction with the Silva - type compass - clinometers, the  ‘ strike azimuth/ dip angle  +  dip direction ’ notation tends to be more popular among non - structural geologists.
+
+## 8.2  Brittle  s tructures: Faults,  j oints
+
+and  v eins During the study of brittle features it is better to focus ﬁ rst on their orientation, before looking at more detailed clues to the direction and sense of past movements on those features, and their relationships with associated structures.
+
+8.2.1  Planar  b rittle  f eatures  –  o rientation The attitudes of faults are strongly inﬂ uenced by the orientations of the three principal stresses ( σ max ,  σ int and  σ min ).
+
+Faults that we deﬁ ne as normal, thrust and strike - slip commonly have steep, gentle and subvertical dips respectively.
+
+Fault dip can be roughly estimated in the ﬁ eld, or from maps and satellite images (Figure  8.1 , p.  166), by observing whether the fault trace cuts sharply across topography (steep dip) or follows the land ’ s contours (gentle dip). Many faults are obscured in the ﬁ eld by vegetation, soil and other superﬁ cial deposits, so look for indirect clues to their presence (Table  8.2 and Figure  8.2 , p.  167). General features of faults are shown in Figure  A8.1 (Appendix  A8 ).
+
+The dip and strike of simple, planar fractures are easily measured using the compass - clinometer. For uneven surfaces a clipboard or book can be used to smooth out the unevenness (Section  2.3.1 and Figure  8.3 a, p.  168). If the plane is highly Table 8.1  Notations for structural orientation data.
+
+Description Notation Type Comments PLANE striking on a bearing of 047 ° , and dipping at 23 ° towards the SE 047/23 SE Strike, dip, dip direction Less likely to confuse with plunge and plunge direction measurement of linear feature. Strike can be plotted directly onto map sheet 23 → 137 or 23/137 Dip, dip azimuth Shorter, fewer elements to forget or mis - record. Strike must be calculated to plot onto map sheet LINE plunging 23 ° towards 137 ° (line of maximum dip on above plane)
+
+23 → 137 or 23/137 Plunge, plunge azimuth Possible to confuse with plane orientation recorded in dip, dip azimuth notation; label carefully Remember that a degree sign ( ° ) for angle or azimuth can be mistaken in a handwritten notebook for an  ‘ extra ’ zero, leading to confusion  – it is better to omit these altogether. Clear identiﬁ cation of the data, and use of the three - digit convention for strike or azimuth and the two - digit convention for dip or plunge, will avoid ambiguity.
+
+Structural irregular or inaccessible the orientation may have to be estimated by sighting along the plane with a compass (Figure
+
+## 8.3 b, p.  168). If only the edge of the plane can be seen the
+
+recorded dip will be an apparent dip, lower than the true dip by an amount that depends on how inaccurate the strike estimate is. If possible, it is worth carefully excavating a small portion of the slip plane to measure.
+
+With increasing depth, faults tend to widen into zones with multiple fractures, and then breccia or fault gouge zones contained within bounding surfaces (Figure  8.3 c). Minor fractures within these fault zones may seem chaotic, but their Figure 8.1  (a) Perspective view of a gently - dipping thrust plane (arrowed contact between dark strata in hanging wall and pale strata in the footwall) which follows topographic contours: Keystone thrust, Nevada, USA.
+
+Distance between arrows is about 20  km. (b) A major strike - slip fault (arrowed) cuts across topography in this image showing relief on the South Island of New Zealand, generated using radar from the Space Shuttle.
+
+(c) Steep faults offsetting tilted strata in this satellite image, southern Pakistan. (d) River valleys aligned along faults (dashed red lines) in this satellite image near Lake Baikal, Russia. Inset is a modiﬁ ed Landsat image that highlights the pronounced offset of a river (blue) across a strike - slip fault (dashed red lines).  (a: Generated from U.S. Geological Survey Landsat image and National Elevation Dataset; b and c: courtesy of the U.S. Geological Survey /NASA images; d: Modiﬁ ed from U.S. Geological Survey / NASA MODIS and Landsat images.) )
+
+b ( )
+
+a ( )
+
+( )
+
+( 1 km N 50 km N 50 km 10 km N
+
+Structural Table 8.2  Landscape clues to the presence of faults.
+
+Aspect Typical features Topography Break in slope (Figure  8.2 a); trough or ridge (Figure  8.2 b); scarp; river gorge; abrupt landscape contrast Erosion Ravine/gully/stream/river follows fault - line (easily eroded crushed rock); ridge (if fault mineralization is harder than country rock; Figure  8.2 b)
+
+Drainage Springs, sag ponds (many fault rocks are impermeable; Figure  8.2 c); sinkholes (limestone one side of fault); abrupt drainage contrast at fault Vegetation Sharp change across fault, due to soil and/or drainage change on different rock types (Figure  8.2 d)
+
+Offsets Offset of linear feature (stream, ridge, dyke, road, fence, railway), especially for active faults (Figure  8.2 e)
+
+Figure 8.2  Landscape clues to faults. (a) Line of fault runs obliquely from left (just behind lambs) to right, marked by a break in slope and low scarp (with gorse), northeast England. (b) Hard, mineralized fault rock forms a ridge  c .  10  m high along the Highland Boundary Fault, Garron Point, Scotland. (c) A sag pond in a depression along the San Andreas Fault, Carrizo Plain, California. (d) A steep normal fault (arrowed) marked by vegetation contrast cuts across topography in southern Spain. (e) Wallace Creek, a stream offset across the San Andreas Fault (arrowed), California.  (a and b: Angela L. Coe, The Open University, UK. c: Courtesy of the U.S.
+
+Geological Survey. d: Tom W. Argles, The Open University, UK. e: Courtesy of the U.S. Geological Survey; photographer Bob Wallace.) )
+
+e ( )
+
+( )
+
+( )
+
+b ( )
+
+a (
+
+Structural orientations are ultimately related to overall fault zone motion.
+
+Even if the bounding faults are not exposed, these fault sets may indicate both the orientation and sense of motion of the main fault zone (see Section  8.2.2 ).
+
+The orientation of joints can also provide insights into the regional stress ﬁ eld. Shear joints commonly occur in conjugate sets, in orientations mirrored across  σ min and  σ max , forming characteristic  ‘ X - shaped ’ patterns (Figure  8.4 a); conjugate sets of normal faults are also quite common. Joint sets can be measured to yield information on either local or regional stress regimes (e.g. in a single fold structure, Figure  8.4 b; or due to unloading of ice sheets or rock overburden, Figure  8.4 c). When fractures are mineralized (forming veins), the mineral ﬁ bres Figure 8.3  (a) Measuring an uneven plane with the aid of a clipboard. Remember to ensure that any metal clips are not affecting the measurement. (b) Measuring the dip of an irregular fault by sighting using the compass - clinometer. Inset shows orientation of the compass - clinometer and detail of the line of sight. (c) A set of subsidiary fractures (thin arrows) with a consistent angular relationship to the main fault zone (thick arrows).
+
+These are Riedel fractures (Section  8.2.2 ), evidence that the fault downthrows to the right.  (a and c: Tom W.
+
+Argles, The Open University, UK. b: Angela L. Coe, The Open University, UK.)
+
+(a)
+
+(c)
+
+(b)
+
+Structural may provide valuable information on any past motion on the fracture. In some cases high ﬂ uid pressure locally dominates the regional stress ﬁ eld, so that cracks can open in any orientation (a process known as  ‘ hydraulic fracturing ’ ), resulting in veins that criss - cross an exposure chaotically (Figure  8.4 d).
+
+Stylolites (Figure  8.5 ) generally form perpendicular to  σ max , reﬂ ecting either sediment compaction (bedding - parallel) or regional tectonic stresses. They are generally more irregular surfaces than faults, and are a clue to rock composition as well as stress orientations, being typical of limestones.
+
+Figure 8.4  (a) Conjugate veins, with a characteristic X - shaped pattern and minor offsets (Switzerland).
+
+(b) Diagram of shear and extensional fractures on a fold (based on McClay  1991 ); (c) Unloading joints in granite exposure near Balmoral, Scotland, UK: two sets are subvertical, almost at right angles to each other, while the third set is roughly parallel to the land surface. (d) Chaotic veins in this exposure suggest hydraulic fracturing under high ﬂ uid pressure (Wales, UK).  (a, c and d: Tom W. Argles, The Open University, UK.) )
+
+b ( )
+
+a ( tension joints strike joints dip joints maximum principal stress direction oblique joints (conjugate shear joints) )
+
+( )
+
+( Figure 8.5  Stylolite picked out in white limestone by red, insoluble iron oxide. Scale = 5  cm.  (Tom W.
+
+Argles, The Open University, UK.)
+
+Structural 8.2.2  Determining  p ast  m otion on b rittle  s tructures With any fracture, a primary goal is ﬁ nding out in which direction the adjacent rocks moved, and how far. Accumulating such data builds a picture of local, and subsequently regional, brittle deformation that feeds into studies of earthquakes on major faults, especially in plate boundary zones. Many faults carry clues to their past motion. The following indicators are the most common: •   Slickenﬁ bres (Figures  8.6 a and  8.6 b) are mineral ﬁ bres that grow during fault creep. The long axes of ﬁ bres are parallel to the fault slip direction, while steps in the ﬁ bres may reveal the sense of fault motion. The direction of motion is down the steps.
+
+•   Slickenside lineations (slickenlines) are grooves and striations on fault surfaces (slickensides) that also run parallel to fault slip direction (Figure  8.6 c), i.e. down dip on thrust and normal faults, or subhorizontal on strike - slip faults. Slickenlines observed at an intermediate orientation between the dip and strike of a fault plane imply that the fault moved by oblique slip, a combination of dip - slip and strike - slip movement which is not uncommon. This interpretation assumes the fault to be in its original orientation. Note also that slickensides tend to record the latter stages of fault movement, which in some cases may differ from the main phase of slip on the fault.
+
+•   Minor fractures in fault zone breccias or gouges may also bear slickensides, which can be measured to build up a picture of movement throughout the zone.
+
+In some cases, increments of slip (perhaps representing single earthquakes) may be recorded by lines or ridges at a high angle to the striations (e.g. the subhorizontal ridges in Figure  8.6 c), and variations in slip direction can produce curved slickenlines, or multiple sets of slickenﬁ bres with different orientations. Overlapping of these features can in some cases be analysed to construct a relative chronology of fault slip.
+
+To determine the direction of movement of slickenﬁ bres move your hand up and down parallel to the ﬁ bres. The slickenﬁ bres feel smoothest in the direction of motion of the missing block.
+
+Figure 8.6  (a) Mineral ﬁ bres in this vein grew at right angles to the vein walls, showing that it is a dilational vein. Vein is 15  mm wide at top of image. Southwest Wales, UK. (b) Slickenﬁ bres of quartz showing oblique slip (parallel to hammer shaft) on a minor thrust fault in the Himalaya, north Pakistan. Direction of movement of the upper block is right to left, parallel to handle of hammer. (c) Steep striations (i.e.
+
+slickenside lineations) on a fault in limestone in the Swiss Alps indicate dip - slip motion. Subhorizontal ridges may record successive slip episodes, but not the sense of motion.  (a – c: Tom W. Argles, The Open University, UK.)
+
+(a)
+
+(b)
+
+(c)
+
+Structural Once the direction of motion on a fault has been established, the next question is: what is its sense of motion? There are numerous observations that can help answer this question, but ﬁ rst, a note of caution. Observations of shear sense should always be made parallel to the direction of motion (i.e. parallel to the slip lineations you have already recorded).
+
+If you cannot determine the direction of motion, then you cannot be sure of the signiﬁ cance of any shear - sense indicators you ﬁ nd. Simple offset features illustrate this point well (Figure  8.7 ); it is easy to misinterpret offsets of dipping beds if you haven ’ t ﬁ rst determined the direction of fault motion.
+
+The best indication of fault motion (giving both the sense and magnitude of displacement) is the offset of a linear feature intersecting the fault plane, visible as a  ‘ piercing point ’ on both sides of the fault (Figure  8.8 , p.  172). Imagine a buried pipe cut and offset by an active fault: you could match the two broken pipe - ends up on either side of the fault to see how far it had moved. However, linear features such as the pipe are rarely accessible, so evidence for relative fault motion should be gleaned from other kinematic indicators in the vicinity of the fault (Figure  8.9 , p.  172).
+
+Figure 8.7  (a) This outcrop pattern of simple offset strata suggests a simple sinistral strike - slip fault, as shown in (b), but the pattern could also be produced by normal (c) or reverse (d) faulting.
+
+60° N F F erosion level (a)
+
+(b)
+
+(c)
+
+60° N N erosion level (d)
+
+N
+
+Structural Figure 8.8  Matching corresponding piercing points, in this case where a dyke (red) intersects a lithostratigraphic boundary, is the best method for determining overall displacement on a fault. Linear features, such as a river channel in a sedimentary succession, are quite rare in the rock record. The most common type of situation is where two planar features intersect along a line, as here.
+
+piercing points Figure 8.9  (a) Arrows mark individual steps and indicate slip direction of the missing block on this slickenside in southwest Wales, UK. Field of view 6  cm across. (b) Secondary fractures may develop that produce a stepped effect opposite to that in (a). (c) The pattern of en  é chelon vein arrays indicates relative shear sense, conﬁ rmed in this example by the deﬂ ection of dark solution seams through the shear zone that caused vein formation (southwest Wales, UK). (d) Some features within a wider shear zone that can be used to diagnose sense of shear (Riedel fractures, antithetic Riedel fractures, gouge fabrics, broken clasts).  (a and c: Tom W. Argles, The Open University, UK.)
+
+(a)
+
+(d)
+
+(b)
+
+secondary steps Antithetic riedels Shear bands Fragmented grain trail En-echelon tension gashes ‘P fabric’ P-shear Fractured grain Kink bands R2 riedels R1 striated secondary fractures striated main fault surface (c)
+
+Structural For many kinematic indicators, a simple ﬁ eld sketch is an adequate record. Photographs are also useful, but sketches (Figure  8.10 ) can incorporate a level of interpretation that is lacking in a photograph. For any structural sketch or photograph, it is  essential to specify: 1.  orientation, using compass directions (e.g.  ‘ Photograph looking SW ’ , or SE – NW at either end of sketch); 2.  the attitude of the surface depicted (e.g. subvertical cliff, gently - dipping slab).
+
+For some features (e.g. Riedel fractures, gouge fabrics), measurements can provide more information, for instance the orientation of the overall fault zone, if this is obscure (Worked Example  8.1 , pp.  174 – 175).
+
+Without a visible piercing point, the actual magnitude of slip on a fault can rarely be determined in the ﬁ eld, because visible offsets can result from a range of fault displacements (Figure
+
+## 8.7 , p.  171). Juxtaposed beds in a well - documented stratigraphic
+
+section may allow you to determine the minimum throw (vertical displacement; Figure  8.14 , p.  176) of the fault, which for dip - slip faults is a useful ﬁ rst - order comparison (major faults have large throws). Few fault planes are exposed enough to enable addition of incremental fault slip steps (Figure  8.6 c, p.  170), or slickenﬁ bre lengths (e.g. Figure  8.6 b). Since the ﬁ bres generally record only a part of the motion history, measurement of the longest ﬁ bres observed will give at best a minimum estimate.
+
+Figure 8.10  (a) Examples of orientated  ‘ thumbnail ’ sketches of kinematic indicators from a ﬁ eld notebook.
+
+(b) An orientated sketch of structural features in a larger exposure.  (Notebook of Tom W. Argles, The Open University, UK.) )
+
+b ( )
+
+a (
+
+Structural Worked Example 8.1  Investigating a fault zone in Andaluc í a Figure 8.11  View looking ESE along a narrow outcrop of Neogene sedimentary rocks (underlying brown ﬁ eld)
+
+that separates coherent schists (steep slopes to right)
+
+from fault rocks (pale knoll left of centre). Near El Chorro, southern Spain.
+
+(Tom W. Argles, The Open University, UK.)
+
+Figure  8.11 shows one of a number of exposures of crumbling, broken rock on the edge of a col between ridges of mica schist. The col is occupied by a narrow outcrop of Neogene sedimentary deposits, which it was suspected had ﬁ lled the depression formed when erosion exploited a fault zone. Exposures of cataclasite with minor fractures and gouge zones conﬁ rmed that a major fault zone was present.
+
+Observations and measurements of minor fracture surfaces, gouge fabric planes and associated slickenlines were made in order to determine: (1) the orientation of the fault zone; (2) its direction of slip; and (3) its sense of motion.
+
+The data showed substantial variation of fracture and slickenline orientation within the fault zone, illustrated by the scatter of both sets of data on this stereographic plot (Figure  8.12 ; see Appendix  A8 for a note on stereographic plots). However, a large group of fractures and gouge fabrics dipped moderately to the NE, deﬁ ning the attitude of the overall fault zone.
+
+Almost all slickenlines on these surfaces plunged gently between N and NW (implying oblique slip), and sparse kinematic indicators (Figure  8.13 ) suggested top - to - the - N shear sense. A minor subset of fractures dipping steeply W, with down - dip lineations, could represent Riedel fractures; their orientation would be consistent with the overall shear sense of the fault zone. This oblique - slip fault zone, downthrowing to the north, had helped thin the crustal section during the latter stages of its exhumation to the surface in the Betic orogenic belt.
+
+Structural (b)
+
+(a)
+
+n = 25 equal area N Figure 8.12  Variable minor fracture plane data (blue arcs)
+
+and slickenline data (red dots)
+
+represented on a stereographic plot. The main group of fracture plane data is interpreted to approximate to the overall fault zone orientation (dipping moderately NE), while the main cluster of lineation data marks the overall slip direction (plunging gently NNW).
+
+Figure 8.13  Kinematic indicators from the fault zone. (a) Broken clast of quartz vein within fault zone. (b) Suspected Riedel fractures near edge of zone. (Notebook of Tom W. Argles, The Open University, UK.)
+
+Structural
+
+## 8.3  Ductile  s tructures: Shear  z ones,
+
+f oliations and  f olds Ductile structures tend to form at depth in rocks which, due to higher temperatures, can ﬂ ow and buckle. Measuring these structures provides information on deformation deep in the crust and mantle, and stress regimes reﬂ ecting the large - scale tectonic forces that drive so much of the Earth system.
+
+8.3.1  Orientation of  d uctile  p lanar  f eatures Tectonic fabrics (foliations) can be found in discrete shear zones (essentially, ductile faults), or they may occur Figure 8.14  Estimating throw on a fault from known stratigraphy.
+
+(a) Two units are juxtaposed across a fault in the ﬁ eld. (b) Possible estimates of throw compared with true throw. (c) Block diagram representing theoretical situation if no erosion had acted on the faulted landscape.
+
+(a)
+
+(c)
+
+(b)
+
+maximum throw minimum throw true throw actual slip true throw 4 m 13 m 15 m 25 m 13 m 20 m 8 m
+
+Structural throughout the rock as regional planar fabrics. Many regional foliations form broadly perpendicular to  σ max , in a response to regional tectonic forces, and vary with rock type and depth (i.e. increasing temperature, pressure). The following ﬂ owchart may help to discriminate between different foliations in the ﬁ eld.
+
+## SLATY
+
+## CLEAVAGE
+
+No No Spaced Yes Yes
+
+## CRENULATION
+
+## CLEAVAGE
+
+## PRESSURE
+
+## SOLUTION
+
+## CLEAVAGE
+
+Fractures Microfold limbs Dissolution seams
+
+## DISJUNCTIVE
+
+## FOLIATION
+
+Penetrative
+
+## SCHISTOSITY
+
+## MYLONITE
+
+Distinguishing foliations Are planes spaced or penetrative?
+
+Are matrix grains visible to naked eye?
+
+Evidence of very high strain?
+
+Form of planes?
+
+Figure  8.15 (p.  178) shows examples of different foliations to illustrate some of the differences between them, and Table  8.3 (p.  179) summarizes some characteristics of the main types of tectonic fabric.
+
+Some mylonitic fabrics can be mistaken for slaty cleavage (or even ﬁ ne - scale igneous ﬂ ow banding). To conﬁ rm a mylonitic fabric, look for evidence of high strain, such as: strong stretching lineation (Section  8.3.2 ); strongly wrapped porphyroclasts with  ‘ tails ’ (Section  8.3.3 ); boudinaged layers or grains; and intrafolial folds (Figure  8.16 , p.  180). Original bedding structures are rarely preserved in mylonites, whereas beds are commonly traceable as folded bands of different colour and grain size in rocks with slaty cleavage. Slaty cleavage in
+
+Structural (c)
+
+(f)
+
+(b)
+
+(e)
+
+(a)
+
+(d)
+
+Structural Table 8.3  Some common tectonic fabrics.
+
+Fabric Typical setting Formed by Clues in the ﬁ eld Pressure solution cleavage Upper crust, outer zones of mountain belts Dissolution of soluble grains due to directed stress Dark/pale colour striping; partially dissolved fossils, clasts; stylolitic surfaces Slaty cleavage Upper crust, outer zones of mountain belts; ﬁ ne - grained rocks Alignment of platy grains by rotation, dissolution and recrystallization during applied stress Fine fabric that rock cleaves along; typically associated with folds Fracture cleavage Upper crust, outer zones of mountain belts; competent rocks Tensional failure under high ﬂ uid pressure * in competent rock types Spaced cracks in competent rock type Mylonitic foliation High strain faults and shear zones at all but shallowest depths Extreme ﬂ attening and stretching in narrow, high - strain zones of shearing Strongly planar fabric; other high - strain features (see text for examples)
+
+Schistosity Middle crust, inner zones of mountain belts; metamorphosed rocks Mineral alignment under applied stress, during metamorphic crystallization Visible mineral grains; millimetre - to centimetre - scale folia, rougher than slaty cleavage Crenulation cleavage Middle crust, inner zones of mountain belts; metamorphosed rocks Microfolding of a pre - existing planar fabric (tectonic or sedimentary)
+
+Microfold hinges, crenulation lineation (Section  8.3.5 )
+
+* Many of the mechanisms for cleavage formation (especially fracture cleavage) are a matter of debate.
+
+Figure 8.15  Examples of tectonic foliations. (a) Mylonitic foliation, northwest Himalaya. High strain is indicated by the strong planar fabric and tightly wrapped porphyroclasts with tails streaked out into the fabric.
+
+(b) Slaty cleavage, visible as ﬁ ne lines running from top left to lower right (two separate cleavage planes are arrowed). The cleavage cuts obliquely across bedding (dark/pale subhorizontal layers) in these ﬁ ne - grained mudstones and siltstones from Cumbria, UK. (c) Spaced fractures (arrowed) cut across subvertical bedding in a limestone, southwest Wales, UK. This fabric is sometimes referred to as  ‘ fracture cleavage ’ . (d) Pressure solution cleavage (thin, dark lines) in siltstones, west Wales, UK. Note also the cleavage refraction, where cleavage orientation changes abruptly across some bedding planes (arrowed), reﬂ ecting grain - size changes.
+
+There is also a very ﬁ ne (barely visible) slaty cleavage parallel to the solution cleavage. (e) Subhorizontal crenulation cleavage in schist, NW Himalaya, showing clear microfold hinges. (f) Close - up view looking down on schistosity planes showing visible mineral grains, including mica. The surface of the sample cuts through numerous, irregular, millimetre - scale foliation planes. View is 4  cm across.  (a – f: Tom W. Argles, The Open University, UK.)
+
+Structural rocks of variable grain size may change orientation, gradually within a single layer, and abruptly across bedding planes separating beds with contrasting grain size. This phenomenon is known as cleavage refraction (Figure  8.15 d, p.  178): in coarse - grained rocks, the cleavage tends to form at a high angle to bedding, but as the grain size becomes ﬁ ner, cleavage planes may curve round until they are almost parallel with bedding.
+
+Slaty and disjunctive fabrics (pressure solution and fracture cleavage) are common in the outer zones of mountain belts, and their relationship with systematic, regional folding (Section 8.3.5 ) can be critical to understanding regional deformation. In the cores of mountain belts, the orientations of ductile foliations largely reﬂ ect regional tectonic stresses.
+
+Some rocks that are affected by more than one deformation event may develop multiple fabrics. For instance, the crenulation cleavage in Figure  8.15 e may retain evidence for the earlier, microfolded foliation, and in some cases the original bedding is also visible. The orientations of these earlier fabrics and associated lineations, and their relationships with later fabrics, can reveal detailed information on how the rocks were progressively deformed. In some cases, the latest deformation is so strong that any earlier fabrics are largely rotated into parallelism with the crenulation axial planes and cannot be traced, a process known as transposition.
+
+Many coarse - grained, high - grade rocks have a planar tectonic fabric deﬁ ned by aligned and/or ﬂ attened mineral grains, which has been termed  ‘ gneissosity ’ . However, the same term has also been applied to centimetre - scale compositional banding in gneisses (Figure  8.17 ), and so is best avoided. Gneissic banding may reﬂ ect processes other than deformation (e.g. partial melting, metamorphic segregation, transposition of original lithological layering), whereas gneissic foliation is simply a coarser form of schistosity.
+
+8.3.2  Direction of  s hear/stretching: Stretching  l ineations When rocks deform, stretching tends to dominate in one direction, resulting in a preferred orientation of linear elements (e.g. stretched mineral grains, pebbles and fossils; or aligned elongate crystals). Lineations are most easily measured on foliation planes (if they exist: see Figure  8.18 ).
+
+Large areas of consistent lineations are likely to reﬂ ect regional stress orientations, whereas lineation trends in narrow zones generally indicate the direction of motion on those major shear zones. You should always record what deﬁ nes a lineation (e.g. stretched quartz grains, aligned belemnites) at the same time as recording its orientation, as this may provide information on the metamorphic history of a deformed rock.
+
+Figure 8.16  High - strain features typical of mylonites. (a) Boudinage of a competent layer, northwest India. (b) Intrafolial folds, northwest India (view about 1.5  m across).
+
+(Tom W. Argles, The Open University, UK.)
+
+(a)
+
+(b)
+
+Look closely in the hinge areas of mesoscale folds, and in  ‘ strain shadows ’ where the main foliation wraps round rigid objects such as boudins and veins, for earlier fabric relationships that are commonly preserved there.
+
+Structural Figure 8.17  Gneissic banding: compositional layering on a centimetre scale in a coarse - grained gneiss, Bhutan. It is difﬁ cult to tell whether this banding has a sedimentary, tectonic or metamorphic origin without detailed petrographic or geochemical analysis  (Tom W. Argles, The Open University, UK.)
+
+Figure 8.18  Stretching lineations. (a) Stretching lineation deﬁ ned by stretched grains of quartz and biotite in a mylonitic quartzite (5  cm across). (b) Weakly aligned orthopyroxene grains roughly deﬁ ne the stretching direction in a mantle peridotite (base of sample is 10  cm across). (c) Stretching lineation deﬁ ned by elongate amphibole crystals in an amphibolite that lacks foliation (base of sample is 8  cm across). (d) High - strain gneiss with orthogonal faces cut parallel (left face) and perpendicular (right face) to stretching lineation, which is faintly visible as colour streaking on the top surface (weathered foliation). Note that the left face (parallel to the lineation) appears much more sheared than the other cut face: this can be a useful feature to look for on an irregular exposure when searching for stretching lineations. Line on top surface is part of the marking originally used to orientate the specimen. (Right face is 5  cm across.) )
+
+b ( )
+
+a ( )
+
+( )
+
+(
+
+Structural You may be able to distinguish with a hand lens between stretched grains (stretching lineation) and elongate grains that have grown or been rotated into parallel orientations (alignment lineation). Some igneous rocks show weak alignments of elongate phenocrysts due to ﬂ ow of magma (magmatic lineation).
+
+Care is needed to distinguish stretching lineations from other lineations such as intersection lineations (Section  8.3.5 ) or striations (Figure  8.6 c, p.  170). Examine the mineral grains with a hand lens to conﬁ rm their stretched nature, and corroborate your initial impression of the stretching direction with other clues, such as stretched pebbles, fossils, quartz lenses, boudinaged veins or layers, tension gashes and pressure shadows (e.g. around porphyroblasts or porphyroclasts). Some examples of features to look for as clues for stretching directions are given in Figure  8.19 .
+
+Figure 8.19  Clues to the stretching direction. (a) Dilational fractures perpendicular to a mineral lineation on this mylonitic foliation plane conﬁ rm the stretching direction, northwest India. (b) Composite sketch depicting clues to the stretching direction.  ((a)Tom W. Argles, The Open University, UK.) )
+
+b ( )
+
+a ( hard nodules with strain shadow stretching direction boudinaged competent layer deformed fossils stretched pebbles pebble bed When determining sense of shear, always observe features in a plane that cuts the foliation at a high angle, and  parallel to the stretching lineation.
+
+8.3.3  Sense of  s hear: Kinematic  i ndicators One of the most critical observations in zones of ductile deformation is the shear sense. Consistent shear indicators constrain the sense of motion on major ductile shear zones in the same way as faults, but the shear strain is commonly distributed across a wider area.
+
+With kinematic indicators, it ’ s always a case of  ‘ the more the merrier ’ ! You may ﬁ nd that not all the indicators share the same shear sense. Only if you ﬁ nd that  most indicators are
+
+Structural consistent should you infer a deﬁ nite, non - coaxial shear sense.
+
+In zones of strong non - coaxial (simple) shear strain, one shear sense dominates most, if not all, kinematic indicators. Some rocks may have been subjected to more than one episode of shearing, however, commonly under different conditions (pressure, temperature, ﬂ uid, etc.). Later shear fabrics and kinematic indicators may have partially overprinted earlier ones, so it is important to note which features you have used to deduce which sense of shear, as well as their orientations. Figure  8.20 provides some examples of common ductile shear sense indicators.
+
+Figure 8.20  Ductile kinematic indicators, all indicating dextral ( ‘ top - to - the - right ’ ) shear sense. (a) Asymmetric tails on feldspar porphyroclasts in a mylonite, northwest India. (b) Composite sketch depicting various features used for determining shear sense (width  c .  40  cm). (c) S - C fabric (shear band cleavage) in a mica schist, Switzerland. Camera case near the base is 25  cm across. (d) Asymmetric pressure shadows on a boudin in a gneiss, northwest India.  (a, c and d: Tom W. Argles, The Open University, UK.) )
+
+b ( )
+
+a ( )
+
+( )
+
+(
+
+Structural Figure 8.21  A deformed conglomerate showing ﬂ attening of pebbles that were probably much nearer spherical in the original sediment, Bhutan.  (Tom W. Argles, The Open University, UK.)
+
+Figure 8.22  Examples of different fold tightness. (a) An open fold in low - strain strata, near Minehead, Somerset, UK. (b) Tight folds indicating high strain are cross - cut by an undeformed (later) granite (top), Glen Gairn, Scotland. (c) Isoclinal folds show intense strain in metamorphosed mudstones (dark) and sandstones (pale brown), southern Spain. (d) Monocline in Carboniferous sedimentary rocks, Northumbria, UK. Hammer near centre for scale.  (a and d: Angela L. Coe, The Open University, UK. b and c: Tom W. Argles, The Open University, UK.)
+
+(a) )
+
+( )
+
+( (b)
+
+Structural Folds are best observed (and sketched) in the proﬁ le plane, i.e. at 90 ° to the fold axis, if possible. This section through a fold represents its key characteristics (symmetry, shape, etc.) most faithfully.
+
+8.3.4  Magnitude of  s hear  s train Assessing how much strain a rock has undergone is seldom easy. In rare cases a deformed object can be compared with its known shape and size before deformation (e.g. a fossil). High - strain rocks tend to show strong parallelism of planar and linear ductile elements, while aspect ratios of more rigid objects increase at higher strains. Roughly spherical objects (e.g. ooids, pebbles, reduction spots) will deform into ellipsoids (Figure  8.21 ), with a ratio of long to short axes that can yield an estimate of the strain magnitude.
+
+8.3.5  Fold  a nalysis Many rocks contain planar surfaces that bend during deformation, forming folds of diverse shapes. Describing and sketching fold types can yield useful information on their host rock and the conditions under which they formed (temperature, depth, strain intensity). The general anatomy of a fold is illustrated in Figure  A8.2 (Appendix  8 ).
+
+Size, shape and orientation should be considered in describing folds. Fold sizes can be summarized by recording their amplitudes and wavelengths (e.g. on a sketch). Folds occur at all scales, and minor folds superimposed on a larger fold occur commonly during a single deformation event. Fold shape is very variable, and can be described in a number of ways. You should note the direction of fold closure (antiform or synform?), and the interlimb angle (Figure  A8.3 ), which gives a clue to the amount of strain the folded rocks have experienced.
+
+Open folds reﬂ ect relatively low strains, whereas isoclinal folds indicate high strain intensities typical of shear zones at depth in orogenic belts (Figure  8.22 ). The shape of the folded layer in the proﬁ le plane is also important; are the folds in a series of neatly stacked chevrons (Figure  8.23 a), or are they disharmonic (Figure  8.23 b)? Are successive layers parallel, or similar in shape (Figure  8.23 c and d)? Fold shape reﬂ ects the relative competence of the layers at the time of fold formation.
+
+In complex deformed zones such as orogenic belts, way - up evidence becomes important. Strata, and even whole structures, may be inverted. The younging direction of way - up features (e.g. erosion structures, graded bedding), determined parallel to Figure 8.23  Examples of different fold shapes. (a) Chevron folds, common in uniformly layered strata at relatively shallow crustal levels, Tennessee, USA. (b) Disharmonic folds reﬂ ect contrasting rheologies of different layers. (c) Parallel folds imply competent layers. (d) Similar folds, with thickened hinge areas and thinned limbs, suggest weaker rocks that can deform easily.  (a: Courtesy of the U.S. Geological Survey; Photographer W. B. Hamilton. b: Tom W. Argles, The Open University, UK.)
+
+(b)
+
+(d)
+
+(a)
+
+(c)
+
+Structural the fold axial surface, deﬁ nes whether a fold is upward - or downward - facing. If you ﬁ nd the latter, this indicates that the fold has been affected by at least two distinct deformation events, a valuable deduction from an isolated exposure.
+
+Symmetric folds have limbs of equal length that are mirror images either side of the hinge, but many folds are asymmetric (Figure  8.24 ). Fold asymmetry may help constrain the following: •   for minor folds, their asymmetry changes across a major fold hinge  – a useful aid in mapping (Figure  8.24 a); •   asymmetric shear - related folds may be good kinematic indicators for shear zones (Figure  8.24 b).
+
+However, it is the  orientation of folds (Appendix A8, Figure A8.4) that relates directly to either local or regional tectonic stresses, which raises the question of what exactly to measure.
+
+You should measure the following elements if possible (using your preferred notation; Table  8.1 ): Fold axial plane dip and dip azimuth e.g. 83/147 Fold axis (hinge line)
+
+plunge and plunge azimuth e.g. 11/056 How are these theoretical elements measured? Fortunately, an associated axial - planar cleavage will be roughly parallel to the Figure 8.24  Information from fold asymmetry. (a) Schematic cross - section showing an example of how fold asymmetry (and vergence) changes across a fold axial plane (red line). (b) Isolated asymmetric fold in calcareous mylonite, implying dextral (top - to - the - right) shear, Switzerland.  (Tom W. Argles, The Open University, UK.)
+
+(a)
+
+Z-folds W-vergent E-vergent M-folds S-folds (b)
+
+W E
+
+Structural fold axial plane, and can be readily measured. If the cleavage orientation is strongly affected by cleavage refraction (Section 8.3.1 ), estimate the overall orientation of the cleavage across several beds  – this will approximate to the axial plane of the associated fold. If a later  transecting cleavage cuts across folds, it is very unlikely to be axial - planar to them. Intersection or crenulation lineations may also be useful: the ﬂ owchart below shows how to discuminate between different lineations (see No Stretching lineation Magmatic lineation Slickenfibre lineation Crenulation lineation mineral fibres grooves Slickenside striations throughout rock metamorphic merely aligned Alignment lineation Form of grains in rock?
+
+Igneous or metamorphic rock?
+
+Location?
+
+on fault surface on bedding or cleavage plane Defined by colour bands?
+
+Cleavage on bedding intersection lineation stretched igneous Bedding on cleavage intersection lineation Yes Yes No Distinguishing lineations Forms of lineations?
+
+Defined by microfold hinges?
+
+Structural Figure 8.25  Approximations to fold axes. (a) Thin grooves and lines (parallel to yellow line) on dark - grey bedding plane are the intersection of cleavage with bedding. Bedding plane dips steeply to the left. Cleavage traces (parallel to red line) are visible in the vertical joint surface on the left of the photograph, cutting through steeply - dipping sedimentary layers (marked with green lines); west Wales, UK. (b) Diagram showing relationship of intersection lineations with a major fold structure; folded beds are shown in shades of brown. Intersections of cleavage on bedding are marked by dashed yellow lines on the folded, mid - brown bedding plane; intersections of bedding planes on cleavage (marked as dashed red lines) are shown on the steep cleavage plane on the left - hand side. The two lineations are both parallel to the fold axis. (c)
+
+Crenulation lineation, deﬁ ned by the hinges of millimetre - scale folds, on the limb of a larger fold that is not visible in the ﬁ eld; Strath Fionan, Scotland.  (a and c: Tom W. Argles, The Open University, UK.)
+
+Bedding plane Bedding Trace of cleavage (a) )
+
+( )
+
+b ( exposed cleavage plane bedding plane fold axis fold axial plane cleavage plane also Figure A8.5). In some cases the fold hinge line, which generally equates to the fold axis, may be easy to measure, but if a hinge is not accessible, the following tricks may help.
+
+An intersection lineation of cleavage on bedding is typically visible in the ﬁ eld as thin, dark lines on bedding planes, whereas bedding on cleavage intersections tends to show up as stripes of different colour where successive beds intersect the cleavage plane. Hinges of minor folds formed at the same time as the major fold may also deﬁ ne a lineation that is parallel to the major fold axis. This is known as a crenulation lineation (Figure  8.25 c), and is easily measured along the hinges of the minor folds. An example of how to separate different tectonic fabrics is provided in Worked Example 8.2.
+
+Where an axial - planar cleavage intersects a folded bedding plane, the resulting intersection lineation (Figure
+
+## 8.25 a) is parallel to the fold
+
+axis. These lineations are typically easier to ﬁ nd and measure than the corresponding fold axis, as they can occur anywhere on the fold (Figure  8.25 b).
+
+Structural Worked Example 8.2  Unravelling multiple tectonic fabrics and folding A series of interbedded psammitic and pelitic schists displayed numerous folds, mainly with subhorizontal axial planes, and a dominant micaceous schistosity, also generally ﬂ at - lying.
+
+In many exposures, the main foliation lay almost parallel with the original bedding. However, in some exposures (e.g. Figure  8.26 ), this parallelism was shown to be a result of transposition, so the main foliation formed axial - planar to the abundant, ﬂ at - lying folds.
+
+Further detailed study of the schists highlighted a few exposures of low - strain zones, in the hinge areas of 10  m scale folds and near quartz vein boudins (Figure  8.27 ), where the main foliation (S3) was revealed to be a crenulation of an earlier, coarse schistosity (S2).
+
+On close inspection, this earlier schistosity appeared to be differentiated into mica - and quartz - rich layers, typical of fabrics formed originally by crenulation. This hypothesis was supported by the observation of an even earlier fabric (S1), oblique to S2, that was only visible as inclusion trails within albite porphyroblasts that grew during formation of S2 (Figure  8.28 ).
+
+Figure 8.26  Page from a ﬁ eld notebook with sketch showing transposition of lithological layer in strongly deformed schists.  (Notebook of Tom W. Argles, The Open University, UK.)
+
+Structural Figure 8.27  Sketch from a ﬁ eld notebook showing lower - strain zone near quartz vein where main foliation (S3) can clearly be seen to be a crenulation of an earlier schistosity (S2).
+
+(Notebook of Tom W.
+
+Argles, The Open University, UK.)
+
+Figure 8.28  Sketch of albite porphyroblasts with curved, oblique included fabric, wrapped by foliation (S2) that is itself also tightly folded, with a weak axial - planar fabric (S3).  (Notebook of Tom W. Argles, The Open University, UK.)
+
+Structural
+
+## 8.4  Further reading
+
+Davis ,  G. H.  2009 .  Structural Geology of Rocks and Regions ,  John Wiley & Sons , 635 pp. [Clear, readable text on structural geology and tectonics, with illustrations, explanation of techniques, and experiments.]
+
+McClay ,  K. R.  1991 .  The Mapping of Geological Structures ,  John Wiley & Sons , 168 pp. [A small - format book focusing on how to map, record and analyse geological structures.]
+
+Park ,  R. G.  1997 .  Foundations of Structural Geology ,  Routledge , 216 pp. [Good, simple, introductory - level text.]
+
+Ragan ,  D.  2009 .  Structural Geology: An Introduction to Geometrical Techniques ,  Cambridge University Press , 624 pp. [This book focuses on geometrical analysis of structural problems, including the use of stereographic projections.]
+
+Ramsay ,  J. G. and  Huber ,  M. I.  1984 .  The Techniques of Modern Structural Geology Volume 1: Strain Analysis ,  Academic Press , 307 pp. [Rigorous and well - illustrated text covering all methods of strain analysis.]
+
+Ramsay ,  J. G. and  Huber ,  M. I.  1987 .  The Techniques of Modern Structural Geology Volume 2: Folds and Fractures ,  Academic Press , 391 pp. [Rigorous, well - illustrated text on the analysis of folds and fractures (faults).]
+
+Twiss ,  R. J. and  Moores ,  E. M.  2007 .  Structural Geology ,  W. H.
+
+Freeman  & Co. , 532 pp. [Attractive textbook with numerous diagrams and illustrations, covering both theoretical and practical aspects of structural geology.]
+
+Van der  Pluijm ,  B. and  Marshak ,  S.  2004 .  Earth Structure  – an Introduction to Structural Geology and Tectonics ,  W. W. Norton  & Co. , 672 pp. [Illustrated textbook that uses examples and analogies effectively to explain structural geology and tectonics.]
+
+This relationship was very rarely visible in the ﬁ eld, and had to await conﬁ rmation following study of thin - sections.
+
+A summary of the structural history was proposed based on the following observations.
+
+•   Formation of ﬁ rst tectonic fabric, a ﬁ ne cleavage. Evidence was too sparse to determine whether this fabric formed during folding of sedimentary layers, or by burial and compaction.
+
+•   Microfolding of S1 cleavage to form S2, during heating and growth of metamorphic minerals (e.g. albite, staurolite).
+
+•   Folding of S2 crenulation cleavage to form numerous folds and a related, axial - planar crenulation fabric, S3. The ﬂ at - lying orientation of the fold axial planes and S3 foliation imply this deformation phase involved vertical thinning (and hence horizontal extension).
+
+Metamorphic Recording  f eatures of m etamorphic  r ocks Tom W.  Argles The environments in which metamorphic rocks form are a long way from our everyday experience: crushing pressures, baking temperatures, and stresses that stretch and distort rocks weakened by the high temperatures. Studying the textures and mineralogy of the rocks that have been exhumed to the Earth ’ s surface is a fascinating window into these alien environments, and gives critical insights into how the Earth works, the processes operating in active mountain belts and subduction zones, and how crustal and mantle materials are recycled.
+
+Metamorphic processes play a key role in concentrating a number of useful elements into economically viable mineral deposits, so metamorphic studies are critical in the exploration and exploitation of such resources.
+
+This chapter will consider common metamorphic textures and minerals, before examining how we can extract information about the timing of different metamorphic processes from metamorphic rocks in the ﬁ eld.
+
+## 9.1  Basic  s kills and  e quipment for
+
+m etamorphic  ﬁ eldwork Metamorphic study in the ﬁ eld needs little more than the basic equipment (Table  2.1 , p.  4). You will also ﬁ nd simple aids to mineral identiﬁ cation (e.g. a scratch/streak plate, a steel penknife and dilute acid) from the optional equipment in Table
+
+## 2.3 useful. Field study of metamorphic rocks mainly requires
+
+keen observation at all scales, in particular of ﬁ ne - scale textures (Section  9.2 ) using the hand lens, and mineral identiﬁ cation (Section  9.3 ).
+
+9.1.1  Field  r elations and  c ontext Before focusing in detail on an exposure, consider its wider context. Is the rock layered, massive or patchy in appearance?
+
+Are there cross - cutting relationships or contacts between Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Metamorphic different rock - types? Is there an intrusion nearby? You should note such gross features, as they are likely to provide critical clues to the original, pre - metamorphic lithology of the rock (its protolith), and suggest likely associations of rocks that may be present. Considering the rock as a whole (e.g. colour, density, hardness, weathered aspect) may offer clues to its key minerals.
+
+For instance, a maﬁ c rock is likely to contain dark - coloured, maﬁ c minerals (biotite, amphibole, pyroxene, etc.). Worked Example 9.1 shows how diverse clues to a mineral ’ s identity can be assembled.
+
+Many metamorphic rocks are deformed, so familiarity with structural features (Chapter  8 and Section  9.4 ) is also a real asset in describing and interpreting metamorphism in the ﬁ eld.
+
+Worked Example 9.1  Mineral identiﬁ cation in southern Spain Figure 9.1  Dark grey prisms in a ﬁ ne - grained schist from southern Spain. Sample is  c .  15  cm long.
+
+Figure  9.1 shows a hand specimen of ﬁ ne - grained, grey schist with darker grey prisms of a porphyroblast mineral that is not easily recognizable; it could be one of several common minerals, including chloritoid, andalusite or amphibole. As a result, several clues were used to aid identiﬁ cation in the ﬁ eld: •   prismatic shape, with roughly equidimensional end - sections; •   lithological association  – a layered series of grey pelitic and beige sandy metasediments; •   metamorphic grade  – ﬁ nely crystalline, so most likely low to medium grade; •   associated minerals  – garnet, biotite, muscovite (garnet zone); •   host rock  – prisms abundant in grey, aluminous pelites, but absent from sandy layers.
+
+Subsequently, abundant synmetamorphic veins throughout the study area were found to contain well - formed crystals of one or more of the alumino - silicate polymorphs (andalusite, kyanite and sillimanite; Figure  9.2 ). Mapping, combined with thin - section studies, showed that the Al 2 SiO 5 minerals in the veins matched those in the host schists, deﬁ ning a set of metamorphic
+
+Metamorphic
+
+## 9.2  Textures
+
+Study of metamorphic textures should not be left until you have access to a petrographic microscope. Careful observation in the ﬁ eld can help build an early understanding of complex rocks, avoid misleading assumptions and help with both sampling and collection of ﬁ eld data.
+
+9.2.1  Banding Many metamorphic rocks contain tectonic fabrics (Section 8.3.1 ), but they may also preserve the compositional layering of the protolith (e.g. sedimentary bedding; Figure  9.3 ). The former will be deﬁ ned by aligned or ﬂ attened mineral grains, whereas the latter is best distinguished by variations in colour and mineralogy. Look for relict sedimentary features in low - grade rocks (e.g. cross - lamination, sole marks) as conﬁ rmation.
+
+A third class of banding is metamorphic in origin, involving segregation of minerals into adjacent bands. This may occur at low grades, involving preferential dissolution of some minerals to produce a spaced cleavage picked out by alternating bands of light (quartz, calcite) and dark (micas, insoluble oxides, clays) minerals (Figure  8.15 d). In higher grade rocks such as gneisses, coarser bands (Figure  9.4 a) may reﬂ ect different processes forming or enhancing the bands, such as crenulation of an earlier foliation, or incipient partial melting.
+
+BEWARE! Grain - size variation in metamorphic rocks may not be a reliable indicator of relict sedimentary layering, as grains may be enlarged or reduced during metamorphism (e.g. Figure
+
+## 9.3 )
+
+Figure 9.2  Well - formed prisms in a synmetamorphic vein observed not far from the schist in Figure  9.1 show the characteristic pink colour of andalusite. These crystals lack the numerous graphite inclusions that give andalusite  – and other porphyroblasts in the surrounding schists  – a dull grey colour.  (Tom W. Argles, The Open University, UK.)
+
+zones. In addition, textures in the veins conﬁ rmed the relative timing of growth of the three polymorphs, with early kyanite replaced by sillimanite or andalusite, depending on the temperature conditions.
+
+In this example, the abundance of the grey prisms in this particular location is a ﬁ nal hint: this part of Spain is known as Andaluc í a.
+
+Metamorphic Distinguishing metamorphic banding from inherited sedimentary layering may be almost impossible in some gneisses where all sedimentary evidence has been erased. Look for evidence of compositional variation that is distinct from the dominant alternation of maﬁ c and felsic gneissic bands  – for example, in a series of pelitic or psammitic gneisses, layers Figure 9.3  Interlayered metapelites and metapsammites, Spain. Metamorphic minerals have grown much coarser in the pelites (right half of view) than in the psammites (under lens cap), where quartz grains may even have been reduced in size due to recrystallization under strain. The relative grain sizes of the original sediments are thus reversed, and their colour and inferred compositions are much better guides to their protoliths than grain size.  (Tom W. Argles, The Open University, UK.)
+
+Figure 9.4  (a) Gneissic banding deﬁ ned by alternating felsic (pale) and maﬁ c (dark) bands on a centimetre scale, northwest India. Subtler colour variation on a larger scale (5 – 10 bands width) suggests that the original precursor was compositionally layered (sedimentary or volcanic). Field of view is about 5  cm across. (b) Cross - stratiﬁ cation in metaquartzite picked out by colour bands caused by concentrations of heavy minerals; original younging direction is therefore to the right. Penknife at base for scale.  (a and b: Tom W. Argles, The Open University, UK.) )
+
+b ( )
+
+a (
+
+Metamorphic with calc - silicate or carbonate minerals (e.g. amphibole, diopside, calcite), which typically reﬂ ect calcareous beds in the original sediments. Many such compositionally distinct layers have contrasting competence to the other gneiss layers, and are commonly boudinaged. Gneisses formed from igneous precursors with phenocrysts of strong minerals (e.g. feldspar and pyroxene in granitoid and gabbroic rocks) typically display an augen texture unless very strongly deformed. The strong phenocrysts resist recrystallization better than the matrix, which wraps round the large grains so they appear eye - shaped.
+
+Augen may form through a combination of metamorphic growth and deformation in some metasedimentary gneisses, but original compositional variation between beds generally means that the abundance or even type of augen also varies. Gneisses derived from porphyritic intrusions tend to show little variation in character on a decimetre to metre scale.
+
+9.2.2  Grain  t extures A key observation is whether the rock displays orientated crystals (typical of deformed, regionally metamorphosed rocks), or granular texture. The latter may indicate contact metamorphism caused by a nearby igneous body (a hornfels; Figure  9.5 a), a low - strain domain where metamorphic grain growth has dominated or erased strain features (Figure  9.5 b), or post - kinematic crystal growth where regional heating has outlasted deformation (Figure  9.1 , p.  193).
+
+Figure 9.5  Grain textures. (a) Granular texture in a contact - metamorphosed hornfels, northern England.
+
+Cordierite grains have been weathered out, but the texture is preserved in the resistant quartz matrix. Field of view is 25  cm wide. (b) Granular texture in an eclogite - facies gabbro, where strain was partitioned into weaker rocks nearby; Switzerland. Field of view is 4  cm wide.  (a and b: Tom W. Argles, The Open University, UK.) )
+
+b ( )
+
+a (
+
+Metamorphic Overall grain size tends to increase with increasing metamorphic grade, and is a good general guide for this (e.g.
+
+gneisses are typically coarser than schists; Figures  8.16 – 8.20 ).
+
+However, high strain can commonly  reduce grain size (e.g. in mylonites). Moreover, some grains (typically of one particular mineral) may grow much larger than others, becoming porphyroblasts in a ﬁ ne matrix (e.g. Figure  9.1 ). To determine metamorphic grade in the ﬁ eld, therefore, you need to consider mineral assemblages (Section  9.3.2 ) as well as grain size.
+
+9.2.3  Reaction  t extures Textures recording reactions are valuable for piecing together the metamorphic history of a rock; some common examples are outlined below.
+
+Pseudomorphs Pseudomorphs are aggregates of new mineral grains that have formed by alteration or replacement of a pre - existing porphyroblast. In many cases, the aggregate retains the form of the original crystal precursor, which may be identiﬁ ed as a result (Figure  9.6 a). New minerals within the aggregate may be identiﬁ able using the hand lens. If either the original mineral or its replacement can be identiﬁ ed, the changes in pressure (P)
+
+and/or temperature (T) conditions may be inferred.
+
+Coronas Coronas may indicate partial replacement of a mineral by another, or represent a rim of new mineral formed at the interface between two others (Figure  9.6 b).
+
+Figure 9.6  Reaction textures in the ﬁ eld. (a) Pseudomorphs of ﬁ ne - grained white mica and clinozoisite (Ca,Al silicate) after lawsonite in a retrogressed blueschist, Switzerland. The lawsonite is inferred partly from crystal shape (rhombs). Largest rhombs are 5  mm across. (b)
+
+Corona texture in an eclogite, Switzerland. Thin red coronas of garnet separate white pseudomorphs of talc (after olivine)
+
+from pale bluish zoisite (after plagioclase) and green clinopyroxene.  (a and b: Tom W.
+
+Argles, The Open University, UK.)
+
+(a)
+
+(b)
+
+Metamorphic Reaction  z ones Zones marked by colour (and mineral) changes may reﬂ ect local metasomatism, for instance by hot ﬂ uids penetrating along cracks (Figure  9.7 ), or moving through the rock as a ﬂ uid front.
+
+## 9.3  Mineralogy
+
+9.3.1  Identifying  c ommon  m etamorphic m inerals Some minerals are easily identiﬁ ed in the ﬁ eld, but many minerals vary in their appearance from rock to rock. If in doubt about their identity, note their properties (colour, shape, lustre, cleavage, etc.) and sketch examples. You may need to adopt various strategies to collect the information, such as: •   describing the appearance of weathered grains (a weathered mineral may look very different  – for instance cleavage may be picked out more clearly although the colour is dulled); •   noting the properties of minerals on a fresh surface (look for freshly broken pieces ﬁ rst before hammering); •   wetting a surface, which may help clarify colour and texture (or simply remove dust); •   concentrating on minerals that are abundant, porphyroblastic, fabric - forming or potential index minerals (Section  9.3.2 ); •   using mineral identiﬁ cation charts as necessary; •   noting the crystal shape and habit (this is a much better aid to identifying metamorphic minerals than colour, which can be variable and affected by other factors such as inclusions and alteration).
+
+Table  A9.1 in Appendix  A9 lists the properties of many common metamorphic minerals. Figure  9.8 illustrates some reliable diagnostic features of common metamorphic minerals.
+
+If you cannot identify a mineral in the ﬁ eld, you may need to collect a sample for further tests in the laboratory. Note any unusual characteristics of common minerals, and explain your identiﬁ cation of less common phases. As far as possible, note down the relative proportions of the minerals in the rock using the percentage charts in Appendix  A1 , Figure  A1.1 , to avoid later misinterpretation of composition or grade.
+
+9.3.2  Using  m ineral  a ssemblages Identiﬁ cation of the minerals and mineral assemblages gives important information on: Figure 9.7  Metasomatic colour change (reddening) indicating ﬂ uid alteration either side of a crack.
+
+This rock was found adjacent to a fault zone with extensive reddening by haematite metasomatism. Field of view is 7  cm across.  (Tom W.
+
+Argles, The Open University, UK.)
+
+Many minerals in metapelites are crammed with inclusions of graphite, and hence look dark grey, regardless of their ‘ diagnostic ’ colour (e.g.
+
+andalusite in Figure  9.1 ).
+
+Metamorphic Figure 9.8  Examples of common metamorphic minerals. (a) Typical rounded crystals of dark red garnet (Grt), wrapped by a tectonic fabric. Dark prisms with pointed ends are staurolite crystals (St), appearing black due to graphite inclusions. The crystal shape is a better diagnostic feature than colour. Staurolite is characteristic of iron - rich metasediments. (b) Biotite (Bt) and muscovite (Ms) are common as shiny, elastic ﬂ akes deﬁ ning the foliation, as in this gneiss. Bright blue grains are small kyanite (Ky) crystals. (c) Three green minerals are associated with pale pink, Ca - garnet in this metabasic rock. The characteristically yellowish green mineral is epidote (Ep), which commonly occurs as aggregates. The dark green (almost black) mineral is the amphibole hornblende (Hbl). The other bluish - green mineral is chlorite (Chl), common in ﬁ ne - grained, low - grade rocks. (d)
+
+The bladed shape of kyanite (Ky) is a reliable diagnostic feature. However, the striking blue colour displayed in this kyanite – biotite schist is commonly pale or absent in other examples of the mineral. (e) Fibrous masses of sillimanite with a pearly sheen are intergrown here with quartz, but often occur with biotite. (f) Prismatic amphibole crystals may show rhombic cross - sections in well - formed crystals. Amphiboles are widespread, and abundant in many maﬁ c rocks. This dark green amphibole is actinolite (Act), intergrown with white mica.
+
+(g) Pyroxene generally appears duller than amphibole, and may show square or rectangular cross - sections.
+
+Pyroxene is characteristic of high - grade rocks. In this sheared gabbro, olive - brown pyroxene crystals (Px) have been altered during deformation to dark coronas of amphibole (Amph), forming eye - shaped features known as augen. (h) Cordierite (Crd) is usually found as indistinct ovoid blobs as here, looking almost like grease - spots or raindrops. Contrast these with the sharp outlines of andalusite (And) porphyroblasts in this hornfels. (i) Talc is so soft that it feels soapy. Here, talc (Tlc) forms ovoid pseudomorphs with a pearly sheen after olivine in a metagabbro, with thin garnet (Grt) coronas (pink), dark glaucophane (Na - amphibole; Gln), bright green omphacite (Na - pyroxene; Omph) and a pale groundmass of altered plagioclase. )
+
+( )
+
+b ( )
+
+a ( )f( )
+
+e ( )
+
+( )i( )
+
+h ( )
+
+g ( Grt St Bt Ky Ms Ep Hbl Chl Bt Ky Act Amph Px Crd And Crd Gln Grt Tlc Omph 1 cm 1 cm 1 cm 1 cm 1 cm 1 cm 1 cm 1 cm 1 cm
+
+Metamorphic •   protolith composition  – what the rock type was prior to metamorphism; •   metamorphic grade  – key index minerals, or mineral assemblages, may place constraints on pressure and/or temperature conditions of metamorphism; •   metamorphic history  – how metamorphic reactions have progressed.
+
+The appearance of quartzites and meta - limestones (marbles) can be very similar, but if the interlocking grains can be scratched by steel, then the rock is most likely quartzite. A clue to the rock composition can aid the search for appropriate index minerals in turn. Assigning a rock to a metamorphic facies or Barrow Zone (Figures  A9.1 and  A9.2 ) is not simply cataloguing: it can constrain the P and T conditions of metamorphism, perhaps very tightly, and these data improve our understanding of large - scale tectonic processes such as subduction and continental collision. Some minerals are characteristic of certain conditions (e.g. glaucophane suggests a relatively high P/T ratio; cordierite occurs at low pressures; chlorite tends to occur at low temperatures). However, composition and mineralogy are intimately linked, and mineral stability ﬁ elds change in different rock types (e.g. garnet occurs at lower temperatures in Mn - rich metasediments). Some bulk - rock compositions do not contain enough of the elements required to grow useful index minerals.
+
+For instance, a metamorphosed sandstone may only develop quartz and perhaps some biotite, and these two minerals could coexist over wide P and T ranges. Table  9.1 (p.  201) lists some of the common minerals that are useful for constraining the conditions of metamorphism in different bulk - rock compositions at different conditions, and some that occur across wide P and T ranges and are therefore less useful (bottom row).
+
+Table  9.1 is a very simpliﬁ ed summary; recognizing a single metamorphic mineral may not constrain the conditions of metamorphism very well. Try to identify assemblages of minerals that have grown in equilibrium together, and as many minerals as you can in the ﬁ eld in order to reﬁ ne your interpretations of metamorphic grade. Plotting the ﬁ rst appearance of index minerals on a map to construct isograds is a good way to summarize the metamorphic evolution of an area (see Section  10.3.2 ).
+
+9.3.3  Classiﬁ cation of  m etamorphic  r ocks The full complexity of a metamorphic rock can seldom be revealed by ﬁ eldwork, but classifying a metamorphosed rock guides observation and encourages systematic recording of observations. A good convention is to combine the key minerals with a textural term, for instance:  ‘ kyanite – chlorite Minerals lose water with increasing temperature, so hydrous minerals such as chlorite and talc are generally characteristic of low - T rocks, whereas anhydrous minerals (pyroxene, garnet, feldspar, spinel) dominate in high - T assemblages.
+
+Metamorphic schist or  ‘ andalusite hornfels ’ . Another convention, adding the preﬁ x  ‘ meta - ’ to a protolith name (e.g. metagabbro, meta - limestone), requires interpretation that may have to be revised following laboratory analysis. Any interpretation or inference on composition or protolith should be clearly noted, and justiﬁ ed by supporting evidence (e.g. preserved igneous textures; colour; mineralogy). For ﬁ ne - grained rocks where mineral identiﬁ cation is impossible in the ﬁ eld, use textural names with other descriptive terms (e.g. purple slate, kinked grey phyllite, spotted hornfels, banded mylonite).
+
+## 9.4  Unravelling  m etamorphism and
+
+d eformation As metamorphism is commonly closely related to deformation, many features in metamorphic rocks can be examined for clues to the relative timing of metamorphism and strain. The following sections highlight common examples of pre - , syn - and post - kinematic features that can be observed in the ﬁ eld.
+
+Table 9.1  Key minerals in common metamorphic rock compositions: L, low; M, medium; H, high; P, pressure; T, temperature.
+
+Pressure/ temperature conditions Pelitic (mudstone)
+
+Maﬁ c (basalt)
+
+Felsic (granite)
+
+Ultramaﬁ c (peridotite)
+
+Calc - silicate (impure limestone)
+
+LT Chlorite Chlorite Chlorite, epidote Serpentine Talc LP Andalusite, cordierite No garnet Pyroxenes, olivine No garnet Andalusite
+
+## MP/T
+
+Chloritoid, staurolite Actinolite, epidote, zoisite
+
+Talc (abundant)
+
+Tremolite HP Kyanite, talc, rutile No plagioclase Lawsonite, Na - pyroxene, rutile, glaucophane No plagioclase Na - pyroxene, kyanite No plagioclase
+
+Zoisite HT Sillimanite, spinel, orthopyroxene No muscovite Clinopyroxene, orthopyroxene Orthopyroxene, cordierite, sillimanite Orthopyroxene Wollastonite, Mg - olivine, Ca - pyroxene, spinel Wide P and T ranges Muscovite, biotite, garnet, quartz, plagioclase Garnet, hornblende, plagioclase, biotite, quartz, titanite Quartz, biotite, K - feldspar, plagioclase, muscovite Olivine, chlorite, magnesite Calcite, dolomite, plagioclase, Ca - garnet, hornblende, chlorite, epidote
+
+Metamorphic 9.4.1  Pre - k inematic  f eatures Early porphyroblasts are commonly wrapped by later tectonic foliations (Figure  9.9 ), but larger bodies (e.g. boudins; Figure
+
+## 8.16 ) may also show this relationship, preserving earlier fabrics
+
+and/or minerals in the boudin. They repay careful observation, recording and perhaps sampling so that the full history of the rock can be deciphered. Pre - kinematic grains or clasts may be cracked, bent or even pulled apart; this texture is common in mylonitic rocks. Inclusion trails in porphyroblasts should be sketched, if possible, as their form may reveal not only the relative timing of mineral growth, but potentially also kinematic information (Figure  9.10 ).
+
+Figure 9.9  Pre - kinematic staurolite crystals strongly wrapped by a strong schistosity (orientated vertically). Some porphyroblasts (e.g. large crystal in centre) are ﬂ anked by strain shadows, mainly ﬁ lled by a pale mineral. View about 7  cm across.  (Tom W.
+
+Argles, The Open University, UK.)
+
+Figure 9.10  Sketches of mineral grains with different relationships to deformation. (a) Pre - kinematic, broken K - feldspar grains and a boudinaged tourmaline crystal (top right), wrapped by a high - strain foliation. (b)
+
+Syn - kinematic garnet with curved inclusion trails, showing inferred shear sense.
+
+(b)
+
+(a)
+
+1 cm 3 cm Porphyroblasts commonly offer the best chance of obtaining useful textural information in the ﬁ eld, and repay careful observation  – and thumbnail sketches (Figure  9.10 )!
+
+9.4.2  Syn - k inematic  f eatures You should always record what mineral(s) deﬁ nes the main planar tectonic fabric (Section  8.3.1 ), and any other fabrics too, especially if there is a distinct timing relationship between them (e.g. shear bands deforming an earlier foliation).
+
+Identifying the minerals that deﬁ ne different lineations can give valuable information on the metamorphic conditions during deformation. Careful observation of the lineation fabrics may indicate which minerals were stable at the time, as the following points indicate: •   mineral grains stretched in one direction (mineral(s) stable during deformation); •   elongate grains that have grown in an alignment (mineral(s)
+
+stable during deformation); •   elongate grains that have been passively rotated into an alignment (mineral(s) not necessarily stable); •   mineral X stretched and boudinaged, with mineral Y inﬁ lling boudin necks (mineral X may be unstable, mineral Y stable during deformation).
+
+Metamorphic Syntectonic mineral growth in pressure shadows, fringes or pull - aparts may also give valuable information on P and T conditions during a certain tectonic event.
+
+One indication of high strain in metamorphic rocks is the development of augen, where rigid clasts or grains have streaked - out tails of recrystallized mineral at either end.
+
+Generally, the tails are composed of ﬁ ner grains of the same mineral, which suggests that the mineral was metamorphically stable under the conditions of shearing. In some cases the augen core reacts to form a new mineral, implying that the augen core mineral was unstable during shearing. The new mineral formed from the augen may provide clues to the changed P and T conditions at the time of deformation (Figure  9.11 ).
+
+9.4.3  Post - k inematic  f eatures Post - kinematic features generally show random orientation, indicating static, post - kinematic development. Undeformed coronas and reaction zones (Section  9.2.3 ) are a common example, as are pseudomorphs where the replacement mineral grains are randomly orientated (decussate). However, the most conspicuous example of post - kinematic metamorphism is where randomly orientated porphyroblasts overgrow an earlier fabric (Figure  9.1 , p.  193). This is a common feature of contact metamorphic rocks (Figure  9.8 h). Worked Example 9.2 shows how diverse observations can be used to reconstruct a metamorphic history.
+
+Worked Example 9.2  Charting the exhumation of subducted oceanic crust Figure 9.11  Augen of pyroxene in metagabbro, with rims and tails of amphibole drawn out into the strong foliation. View about 12  cm across.
+
+Px Amph In the heart of the western Alps, near Zermatt, Switzerland a suite of metamorphosed maﬁ c rocks has been studied by several researchers.
+
+The rocks have been interpreted to be a deformed portion of oceanic crust (an ophiolite), using ﬁ eld evidence such as the features shown in Figure  9.12 , p.  204.
+
+Different rocks within the ophiolite responded in contrasting ways to deformation during the continental collision that formed the Alps. Many gabbro bodies were scarcely deformed except near their margins, and some samples preserve the original igneous mineralogy and texture (Figure  9.12 b). Other metagabbros also appear undeformed, but have recrystallized completely to mineral assemblages indicative of eclogite facies conditions, at depths implying they were metamorphosed during subduction (Figure  9.13 a, p.  204). The formation of eclogite facies assemblages seems to have been promoted by the presence of ﬂ uid during metamorphism, implying that the transition half - way across Figure  9.12 b represents a ﬂ uid front. In some weakly deformed metagabbro samples (Figure
+
+## 9.13 b), the foliation is deﬁ ned by blue amphibole
+
+(glaucophane), formed at lower pressures in the blueschist facies ﬁ eld as the ophiolite was exhumed towards the surface; in this case deformation aided metamorphic recrystallization.
+
+Weaker metabasalts in the same area are generally more strongly deformed, either under blueschist facies conditions, or at even lower pressures and temperatures nearer the Earth ’ s surface, in the greenschist ﬁ eld. These retrograde rocks are dominated by a strong foliation deﬁ ned by green amphiboles, epidote and chlorite.
+
+Metamorphic Figure 9.12  Evidence that the metamorphosed rocks in the Zermatt area were once oceanic crust.
+
+(a) Deformed lozenges in a metabasalt, interpreted as pillows formed in a basalt erupted under water. The mineral assemblage indicates that these rocks were metamorphosed to eclogite facies, at depths of around 90  km (lens cap for scale at base of exposure). (b) Igneous mineralogy (plagioclase and pyroxene)
+
+metastably preserved in a metagabbro from the same area as the metabasalts in (a). The right - hand half of the ﬁ eld of view appears blurred because in this domain the original minerals have been partially altered to eclogite facies minerals, including garnet (red). View is about 6  cm across.  (a and b: Tom W. Argles, The Open University, UK.) )
+
+b ( )
+
+a ( )
+
+b ( )
+
+a ( Figure 9.13  Metamorphic textures from rocks in the Zermatt area. (a) Eclogite facies metagabbro, with green crystals of omphacite (Na - pyroxene) and coronas of red garnet encircling talc - rich pseudomorphs (after igneous olivine). Pale groundmass is altered plagioclase. View about 9  cm across. (b) Eclogite facies metagabbro with a weak blueschist facies foliation deﬁ ned by dark blue amphibole, which wraps around pre - kinematic omphacite crystals (green). View is about 7  cm across.  (a and b: Tom W. Argles, The Open University, UK.)
+
+Metamorphic
+
+## 9.5  Further reading
+
+Fry ,  N.  1991 .  The Field Description of Metamorphic Rocks ,  Blackwell Scientiﬁ c Publication , 128 pp. [Useful aid to studying metamorphic rocks in the ﬁ eld.]
+
+Miyashiro ,  A.  1994 .  Metamorphic Petrology ,  UCL Press , 404 pp. [A good textbook covering many aspects of metamorphism.]
+
+Shelley ,  D.  1993 .  Igneous and Metamorphic Rocks under the Microscope ,  Chapman  & Hall , 468 pp. [Invaluable aid for anyone studying igneous or metamorphic rocks using the polarizing microscope.]
+
+Vernon ,  R. H. and  Clarke ,  G.  2008 .  Principles of Metamorphic Petrology ,  Cambridge University Press , 460 pp. [Modern text with numerous examples of features illustrating metamorphic processes.]
+
+Winter ,  J. D.  2009 .  Principles of Igneous and Metamorphic Petrology , Prentice Hall , 720 pp. [One of a number of textbooks dealing with both topics together.]
+
+Yardley ,  B. W. D.  1989 .  An Introduction to Metamorphic Petrology , Longman , 26 pp. [Excellent, readable introductory text.]
+
+From these ﬁ eld observations alone, the following history could be deduced: •   formation of oceanic crust including massive gabbros and basalts, some of which were submarine pillow basalts; •   subduction of this oceanic crust to great depth during continental collision; •   metamorphism of maﬁ c rocks at high pressure in the eclogite facies, with massive gabbros resisting deformation while many metabasalts were deformed; •   initial exhumation of ophiolite, without signiﬁ cant further heating, overprinting many rocks with syntectonic blueschist facies mineral assemblages; •   further exhumation of ophiolite to shallower crustal depths, with formation of strongly sheared greenschist facies rocks.
+
+Maps Making a g eological  m ap Tom W.  Argles
+
+## 10.1  Principles and  a ims
+
+A geological map is one of the most important tools of a geologist ’ s trade. It shows how geological features (rock units, faults, etc.) are distributed across a region. It is a two - dimensional representation of part of the Earth ’ s surface, scaled down to a size that is convenient for displaying on a sheet of paper or a computer screen. Information on the third dimension is incorporated by means of strike and dip symbols and other structural labels. Different rock units are usually shown as different colours (and/or ornaments) and are overlain on a topographic base map for easy location. Additional information on features such as structure, lithology and stratigraphy is also included, allowing interpretation of the subsurface. Increasingly, geological mapping data are stored with subsurface information in computer models that allow more sophisticated visualization and manipulation in three dimensions than is possible with traditional paper maps.
+
+Geological maps are made for a variety of reasons and, depending on the region, these are to: •   record the position of particular geological features or exposures; •   help us understand the geological history of a region; •   locate natural resources, and understand the best way to exploit them; •   identify potential hazards (e.g. faults, volcanoes, unstable substrates, hazardous deposits); •   gain insights into the immediate subsurface environment, which governs soils, drainage, agriculture and ecosystems; •   provide a base for constructing a detailed geological cross - section to deduce and visualize strata below ground.
+
+Geological mapping aims to distil data concisely onto a topographical base map, producing a clear, detailed Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Maps representation of the geology at the appropriate scale. The ﬁ nal fair copy map (with legend, etc.) should allow the geology of the area to be interpreted to a degree with no other aid  – although maps are commonly published with an accompanying summary report outlining the features of the geological units shown on the map, along with horizontal and vertical cross - sections. This chapter will introduce the basic skills needed for producing geological maps and cross - sections. The fundamental principles of mapping apply whatever tools are used  – be they pencils and paper, or the handheld computers that are increasingly favoured by geological surveys. The speciﬁ c details of such electronic mapping methods are beyond the scope of this book.
+
+## 10.2  Preparation and  m aterials
+
+Guidance on basic preparation and ﬁ eld equipment is provided in Chapter  2 . The following sections look in more detail at how to prepare for geological mapping.
+
+10.2.1  Base  m aps and  o ther  a ids Topographic  m aps Good geological mapping depends on good base maps. You should ﬁ nd out what is available for the mapping area well before you start, so that you can assess which maps to use (and at what scale). Many governments produce good quality topographic maps based on a  ‘ National Grid ’ designed speciﬁ cally for that country; increasingly these are available digitally (e.g. for the UK, OS 1:10,000 Landplan maps; for the USA, 1:24,000 quadrangle maps). Digital topographic maps can be downloaded free, for instance from the U.S. Geological Survey website, for much of the USA. However, for some countries or regions good maps may be costly or impossible to obtain. In this case, a handheld GPS unit (Sections  2.6 and 10.2.2 ) is essential for recording your location in the ﬁ eld, supplemented by any maps that exist, and either aerial photographs or satellite images.
+
+Base maps are generally drawn using a grid, typically a national grid deﬁ ned for a particular country. In most cases, grid north on the map is nearly equal to true north (Earth ’ s rotation axis), but there may be a small difference, as described in Section  2.3 and shown in Figure  2.4 (p.  10). To compare any compass readings taken in the ﬁ eld with bearings on the map, the angular difference between grid and magnetic north must be corrected for, as this difference may be substantial depending on the area and year. Section  2.3 explains how to adjust your compass - clinometer for this before you use it for mapping.
+
+Maps If possible use good quality base maps printed onto thin card such as the 1:10,000 topographic maps available for the UK (Figure  10.1 a). These will be more robust for extensive use in the ﬁ eld, and will not suffer from distortion produced by copying.
+
+Using one printed copy also ensures that all the data are in one place, making it easier to assess the different lines of evidence.
+
+Photocopies or photographs of ﬁ eld maps can be taken at regular intervals as insurance against loss, or a second hand drawn copy maintained. If the base maps have lots of features or colour, monochrome copies of base maps will show up geological data recorded in colour more clearly, although some information on the base maps may be harder to distinguish at a glance (e.g.
+
+contour lines, ﬁ eld boundaries). Figure  10.1 shows three examples of topographic maps. Figure  10.1 b, a 1:25,000 Ordnance Survey map, includes several features that could be particularly useful for mapping (note that the 1  km eastings and northings are labelled in blue on the map extract): •   topographic contours that deﬁ ne landforms in the landscape and give elevations; •   point features on which to take bearings (e.g. cairn on Meikle Crag at NX 342572, corner of coniferous plantation at NX 348579, corner of wall on top of Pauples Hill at NX 361583); •   linear features to check compass declination angle (e.g. wall running NE from minor road at NX 342580); •   spot heights to calibrate altimeter (e.g. road junction at NX 357580); •   location of speciﬁ c exposures (e.g. on Craigdow Moor at NX 339572); •   indications of vegetation (e.g. marshland at NX 351575; scrub at NX 338575; rough grassland at NX 343574).
+
+On this map extract bedrock is exposed mainly in the southwest corner, with a few rock exposures indicated elsewhere. However, other exposures such as those in streams or roadcuts may not be shown. The exposure symbols do not give a strong impression of the strike of strata in this case, but on many maps exposures are elongate in the strike direction. In the eastern half of this extract there are several distinct hills with oval outlines (e.g. Spittal Hill at NX 357576), with their long axes roughly aligned N – S. The lack of bedrock exposures and their smooth outlines imply these may be features formed from superﬁ cial deposits during the last glaciation, such as drumlins. One way in which this hypothesis could be tested is by examining the roadcut on the B733 at NX 362577, between Gool Hill and Boat Hill.
+
+BEWARE! When copying base maps, avoid enlarging them too much. No precision is gained, because lines simply become thicker.
+
+Maps Figure 10.1  Examples of topographic maps. (a) Extract of a 1:10,000 British Ordnance Survey map of part of Shropshire, UK showing ﬁ eld boundaries, tracks and buildings in detail. (b) Extract from 1:25,000 topographic map of part of southern Scotland, UK, from the British Ordnance Survey (within 10  km grid square NX(25)35). Grid squares are 1  km across, and contour intervals are in metres. (c) Photocopy of part of a much smaller scale map of northern India, dating from the 1940s. Grid squares are 10,000 yards across, and contour intervals are in feet.
+
+Details are sparse for this large area and out of date, but such maps may be the best available in remote regions.  (a: Ordnance Survey 1:10,000 Sheet SO38NE © Crown Copyright. b: Ordnance Survey 1:25,000 Scale Colour Raster  © Crown Copyright 2009.
+
+An Ordnance Survey/EDINA supplied service.)
+
+(a)
+
+(b)
+
+(c)
+
+Maps Aerial  p hotographs Aerial photographs may be used for mapping, either using a transparent overlay (e.g. acetate, Mylar ® ), or mapping directly onto photographs enlarged to a suitable scale (e.g. 1:7000).
+
+Many are high enough resolution to be used at large scales (e.g. 25  cm resolution photographs are appropriate for 1:2500 scale mapping). Satellite images may also provide coverage of areas that are otherwise poorly mapped, but are generally lower resolution (e.g. 60  cm pixels for Quickbird; 15 – 30  m pixels for Landsat). Coverage and resolution of such imagery will no doubt improve, although availability (and cost) may remain subject to political and commercial pressures. Any map data drawn on the images must be carefully transferred to a map on return from the ﬁ eld, and will be subject to the various types of distortion inherent in such images. Table  10.1 assesses the relative merits of aerial photographs and satellite images.
+
+Satellite  i mages Some low - resolution imagery (e.g. Landsat) is freely available online, but this is of limited use for detailed mapping, although it may help provide a regional context (Section  3.2.1 ).
+
+However, a range of data (maps, high - resolution satellite imagery, aerial photographs) is increasingly being displayed online, both in bird ’ s eye view and three - dimensional perspective, via interfaces such as GoogleMaps ™ , Google Earth ™ , Microsoft Bing Maps ™ . These systems make available some of the visualization capabilities of a GIS to any internet user, and represent an invaluable resource when planning a Table 10.1  Advantages and disadvantages of aerial photographs and satellite images for geological mapping.
+
+Method Advantage Disadvantage Aerial photograph Clear depiction of landscape features May show more detail than map Landforms may be interpreted before mapping Clear features in photographs make it easy to conﬁ rm your location Limited global coverage Costly; rarely available for free May be old: landscape may have changed May be difﬁ cult to obtain for some areas Distortions must be corrected by processing No contours; slopes may not be obvious Satellite image Tend to show larger areas More readily available (e.g. Landsat)
+
+More sources of free images More information in different spectral bands: allows interpretation before mapping Newer images constantly being acquired Most are lower resolution than photographs Limited coverage of high - resolution images High - resolution images are costly Relief often less clear than in an aerial photograph May be old: landscape may have changed Distortions must be corrected by processing Clouds may obscure area
+
+Maps mapping season, especially to remote and poorly mapped areas (e.g. Worked Example 10.1). The image quality in some areas allows features such as roads, paths, streams and exposures to be resolved, providing useful logistical information that can guide mapping strategy in the ﬁ eld.
+
+Additional  d ata Geophysical or geochemical data may be available for some areas, and maps of gravity or magnetic anomalies can provide valuable insights into large - scale subsurface structures that may inﬂ uence the surface geology.
+
+Worked Example 10.1  ASTER satellite mapping of rock units in southern Tibet Accurate maps are not readily available for this region, so before starting a research project there, satellite imagery was viewed online, along with a false - colour, composite Landsat image (Figure  10.2 a). ASTER (Advanced Spaceborne Thermal Emission and Reﬂ ection Radiometer) satellite images for speciﬁ c areas were also acquired. Different rock types showed contrasting emissions, which were enhanced with further processing (Figure  10.2 b).
+
+Comparing the images with existing, small - scale geological maps of Tibet suggested that the ASTER images could be used to deﬁ ne the outcrop extent of certain units, because vegetation is sparse.
+
+During two subsequent ﬁ eld seasons, rock units were recorded in the ﬁ eld, and their distribution compared with different colours on the ASTER images. Making observations in the ﬁ eld that assess the validity of inferences from remote sensing data is known as  ‘ ground - truthing ’ . The satellite images discriminated well between granite, Palaeozoic metasediments and younger rock types, and highlighted other granite domes in the region (Figure  10.3 , p.  212).
+
+(b)
+
+(a)
+
+29° N 28° 30’ N 89° E 88° E Figure 10.2  (a) Landsat image of part of southern Tibet, using bands 7, 5 and 3 (2.08 – 2.35  µ m, 1.55 – 2.75  µ m, 0.60 – 0.69  µ m wavelength respectively) to make a composite RGB image. Granites and gneisses in domes show up pale pink or beige, while metamorphic schists mantling the domes appear dark purple. Boxes show areas of images in part (b). (b) ASTER satellite images of the two boxed areas shown in (a). Granite appears red; gneisses appear pale blue; Palaeozoic schists appear dark blue to purple.
+
+(Landsat data in (a) courtesy of the U.S. Geological Survey/NASA; ASTER images in (b) from Watts et al.
+
+2005 .)
+
+Maps 10.2.2  Equipment for  m apping The use of tools for geological ﬁ eldwork has been covered in
+
+## Chapter  2 (Tables  2.1 – 2.3 , pp.  4 and 6), and only a few further
+
+remarks with regard to equipment needed for geological mapping are made here (Table  10.2 ). A long surveyor ’ s type of tape measure ( c. 30  m) is useful for some surveying (e.g. Figure
+
+## 2.13 , item 1, p.  26), though you should also practice pacing out
+
+distances accurately (Section  3.1.3 ). A map case (Figure  10.4 ) is essential to protect ﬁ eld maps from the elements (rain, sun, dust). A good map case has a see - through cover so you can check your position and your data quickly. The case should also allow easy addition of data to the map, with a rigid base on which to write and plot. A supply of strong rubber bands or clips is invaluable for holding ﬁ eld maps and other sheets in place. Some geologists favour the discipline of mapping directly onto a base map; others prefer using a rainproof, plastic overlay Figure 10.3  Detailed geological map of area shown in Figure  10.2 b, drawn after  ‘ ground - truthing ’ of ASTER images conﬁ rmed which rock type(s) gave which spectral response.  ‘ AEG ’ and  ‘ DPP ’ are two types of granite distinguished by ﬁ eld relations.  (Modiﬁ ed from King  2007 .)
+
+Table 10.2  Summary of the equipment required for mapping (see also Tables  2.1 – 2.3 ).
+
+Mapping equipment Ruler Protractor Map case Base maps Clips/rubber bands Mapping pens Full selection of coloured pencils
+
+Maps such as Mylar ® , which allows multiple erasures without degrading the sheet. Mylar ® overlays for mapping should be taped ﬁ rmly to the base map (or aerial photograph) at the top, but left untaped at the bottom so that the overlay can be lifted to check features underneath. Always mark one or more cross - hairs on the Mylar ® sheet corresponding to a grid intersection on the map, so that it can be replaced accurately if disturbed. Mylar ® should be placed shiny side down, so that all working is done on the matte side.
+
+Silva - type compass - clinometers can be used to measure and directly plot azimuths on a map by setting the compass - clinometer dial to the azimuth and then following the instructions in step 3 of Figure  2.12 (p.  24) but a protractor is also a useful addition. If you are using a Brunton - type compass - clinometer a protractor is a necessary addition to your kit. Structural data such as strike lines and lineation arrow should generally be plotted accurately on the map in pencil in the ﬁ eld. At the end of the day they should be checked and inked over. The numbered location of the data must also be marked accurately, and linked via the locality number with systematically recorded data in a notebook (e.g. Figures  4.10 and  4.11 , pp.  71 and 73). If you are contact mapping (Section 10.5.2 ), the boundary should be drawn accurately in the ﬁ eld.
+
+Whether you use pens or pencils, map lines and data must be sharp and clear. Mapping pens are more commonly used for inking in at the end of the day ’ s work. A ruler is useful to measure distances on the map, but there are also  ‘ scales ’ with Figure 10.4  (a) A home - made map case ( c .  30  cm across) incorporating a rigid board for drafting, and a hinged Perspex sheet to protect map sheets without obscuring them. (b) A second map case, which has a clipboard base for A4 - sized sheets. The hinge on the plastic cover is sprung so that it holds the position in the photograph unless secured; the side panels help protect the sheets from the elements, while allowing access to the ﬁ eld map.
+
+(b)
+
+(a)
+
+Some equipment is easily lost when dropped, or left on the ground by an exposure. Use brightly coloured equipment, bright labels, paint or sticky tape to make your tools more conspicuous.
+
+Maps gradations matched to particular map scales, so no conversion is needed and distances can be read straight off the scale. You may need imperial as well as metric scales if mapping on old base maps.
+
+## 10.3  Location,  l ocation,  l ocation
+
+Locating yourself accurately in the ﬁ eld while mapping is of paramount importance. Many of the basic skills involved have been covered in Chapter  2 , and these techniques are brieﬂ y expanded on here.
+
+10.3.1  Equipment Handheld GPS units are a valuable aid in mapping, but they may fail in some situations (Section  2.6 ). If you are working in remote areas, make sure you take spare batteries for the GPS (or alternatively a solar charger for the batteries). It is worth removing the batteries from a GPS unit that will not be used for a while (i.e. weeks or more), as battery drain has been reported for some units (you could keep a set of batteries bundled with the GPS using a rubber band, lest you forget them). Always take a compass (or compass - clinometer) as a back - up (Section 2.3.3 , Figures  2.11 and  2.12 , pp.  22 – 24), and consider taking an altimeter, particularly if you are mapping heavily vegetated slopes where bearings are difﬁ cult to take, or in an area with few landmarks and/or poor base maps.
+
+10.3.2  Using  b ase  m aps Good base maps may allow you to locate yourself relative to features simply by inspection. Pacing out distances along a linear map feature (i.e. road, stream, wall; see Figure  10.1 ) is one way to locate yourself during mapping. You should establish your average pace length, and pace steadily; remember that stride lengths will be shorter on slopes than on the ﬂ at. In many cases, however, compass bearings can come to the rescue (e.g. for triangulion as in Worked Example 10.2).
+
+If you are already on a linear map feature (e.g. path, fence), you can take a bearing on a landmark and ﬁ nd your position from the intersection of that bearing with the linear feature (Section 2.3.3 ). Choose a landmark on a bearing at a high angle to the trend of the linear feature to improve accuracy, and remember that landmarks closer to you (say, 100  m away) will result in more precise bearings than distant features. Repeating the process with a second landmark, if possible at about 90 ° to the ﬁ rst landmark, should verify your location. Remember that compasses give the  magnetic bearing to the feature, which needs to be converted to grid north for comparison with the base map (Section  2.3 ).
+
+BEWARE! When using old base maps, buildings and roads may alter, and even landscape features (e.g.
+
+stream courses, woodland)
+
+may be different to when they were mapped.
+
+Maps Worked Example 10.2  Trying triangulation Figure  10.5 shows a topographical map of a remote area with few landmarks where GPS failure occurred. Locations had to be determined by triangulation, using the few landmarks that were visible and marked on the map. An initial attempt at triangulation was made, yielding three bearings to the three rather distant landmarks listed in Table  10.3 (p.  216).
+
+(b)
+
+(a)
+
+Figure 10.5  (a) Initial attempt at triangulating a location in a remote area with few suitable landmarks.
+
+The three plotted bearing lines meet in a triangle of error (shaded red), so the location is not determined very precisely. (b) Revised attempt at triangulating the location in (a). The fourth plotted bearing line (green)
+
+meets two of the previous lines in a smaller triangle of error, so the location is more precisely  – and accurately – determined.  (Base maps: Ordnance Survey 1:25,000 Scale Colour Raster from 10  km grid square NJ(38)30 © Crown Copyright 2009.
+
+An Ordnance Survey/EDINA supplied service.)
+
+Maps
+
+## 10.4  Making a  ﬁ eld  m ap
+
+Mapping aims to  record as much relevant information as possible on the geology of an area using ﬁ eld maps and a notebook, and then  present an interpretation of those observations in the form of a ﬁ nal fair copy map, which may include interpretative cross - sections. This section summarizes how to record information on the topographic base maps you take into the ﬁ eld.
+
+10.4.1  Information to  r ecord on  ﬁ eld  m aps Field maps are valuable records of observations and data gathered in the ﬁ eld, from which later geological interpretations will be drawn. Your ﬁ eld maps (and notebook) should be comprehensible to any geologist wishing to make later interpretations; they should not simply be personal records.
+
+They should record the geology you see, and also evidence for any geology inferred (Section  10.5.4 ), discriminating clearly between directly observed and inferred features. The level of detail on ﬁ eld maps depends on the time available, and also the scale of mapping. More detail (and data) can be recorded for an area of 1  km 2 mapped in two days than a 100  km 2 area mapped in the same time.
+
+This initial triangulation is plotted on Figure
+
+## 10.5 a using three red lines. Perhaps because the
+
+landmarks were not very close to the mapper ’ s location, there were some errors in the measurements, and this results in the three lines meeting not at a single point, but in a triangle of error known as a  ‘ cocked hat ’ .
+
+A further bearing on a separate landmark (a hut circle at grid reference NJ 001261) was fortunately possible to resolve the uncertainty in the location. Figure  10.5 b shows the result of this additional measurement, plotted as a green line. This line intersects two of the red lines in a much smaller triangle of error, but cuts the third red line some distance further northwest. The fact that the hut circle is closer to the mapper ’ s location than the other landmarks means that this bearing is likely to be more accurate. The mapper ’ s location was therefore revised to the centre of the smaller triangle of error, formed by the green line and two of the red lines, giving a location that is both more precise and more accurate than that in Figure  10.5 a.
+
+Landmark feature Grid reference Corrected bearing * Summit of Morven
+
+## NJ 005285
+
+028 ° Corner of Wag Wood
+
+## NJ 018263
+
+100 ° Conﬂ uence of streams
+
+## NJ 976255
+
+238 ° * Corrected for declination.
+
+Table 10.3  List of landmarks and corresponding bearings used for initial triangulation attempt.
+
+Maps Protect your ﬁ eld maps carefully; use single sheets that ﬁ t in the map case, as folded sheets wear quickly so that important topographic details or data can be lost. Make sure each ﬁ eld map sheet has the information in Table  10.4 (on the reverse if there is not enough space, as in Figure  10.6 ). Table  10.5 (p.  218) provides a summary of the other types of information that could be included on the ﬁ eld map; some examples are given in Figure  10.7 (p.  219). The emphasis will depend on the purpose of the exercise.
+
+Field maps must be neat, drawn with a sharp, thin pencil lead, and should not include so many notes and symbols that the map becomes cluttered. Record more detailed notes, and multiple structural observations, in your notebook, with localities cross referenced to the map. Label localities on the ﬁ eld map with the same numbers as used in the notebook, and ring or box them to distinguish them from other numbers on the ﬁ eld maps (Figure  10.7 c, p.  219). Label faults and unconformities (e.g. with  ‘ f ’ ,  ‘ uc ’ ), as pencil line thicknesses cannot be standardized (you could also use coloured pencils to distinguish different lines). Colour rock exposures lightly as you go (Figure  10.7 a), and label them with their corresponding Table 10.4  Checklist of information to be included on each ﬁ eld map.
+
+Additions to a ﬁ eld map Scale and N arrow Explanation of colours used Stratigraphic column (if appropriate)
+
+List of non - standard symbols used Cross reference to notebook(s) used Name and contact details of author Date of mapping Reference direction for structural data (e.g. grid N)
+
+Figure 10.6  A well - structured layout for additional information on a ﬁ eld map that contains most of the elements mentioned in Table
+
+## 10.4 , including a small graphic
+
+showing how this ﬁ eld map sheet relates to three adjacent sheets produced for the project.  (Reverse side of ﬁ eld map of Angela L. Coe, The Open University, UK.)
+
+Maps rock unit letters and/or numbers. Symbols for important structural data (Appendix A10, Figure A10.3) should be plotted accurately in the ﬁ eld, on or as close to their location as possible, and then checked and inked in later (Section  10.6.1 ).
+
+Accurate plotting encourages the mapper to check their orientation frequently, which in turn keeps them alert to even subtle shifts in structural trends. The convention is for the locality to lie at the intersection of strike line and dip tick (planar feature; Figure  10.7 b), or the head of the arrow (linear feature). Strike lines and arrows are important as they show, at a glance, changes in the strike of the strata or trends of lineations, and therefore indicate where to look for boundaries and features.
+
+10.4.2  The  e volving  m ap Major  l ithological  d ivisions There may be an existing stratigraphic scheme that you can adopt or adapt to deﬁ ne units of the various rock types within the mapped area, in which case the criteria for the unit deﬁ nitions should be already documented. However, you may need to apply your own unit deﬁ nitions, either because you are engaged in pioneering ﬁ eldwork, or because the existing scheme is inappropriate (e.g. not detailed enough). This is Table 10.5  Information to record on a ﬁ eld map. Level of detail is determined by time allocated and scale of mapping. Conventional symbols used for plotting these data are given in Appendix  A10 (Figure  A10.3 ).
+
+Information Comments Rock exposures Location: extent if appropriate, nature (e.g. man - made). Brief notes of rock types or facies, and other important information (e.g. fossils, index minerals, structures)
+
+Structural data Symbols  and measurements (dip/strike, plunge/trend) for bedding, foliations, lineations, fold axes, joint orientations, etc.
+
+Notebook localities Clearly label those localities where you have made detailed notes in your book Specimen localities Label the locations where samples were taken (rock, fossil, sediment, water, etc.); it is best to link these directly to notebook localities Photographs, sketches Label where photographs were taken or ﬁ eld sketches made if not at a notebook locality Major contacts Lithological and tectonic: solid where observed, dashed where inferred.
+
+Additional evidence For example topographic features, drainage, soils, ﬂ oat, vegetation (Figure  10.7 a)
+
+Superﬁ cial deposits For example alluvium, glacial/ﬂ uvioglacial material, sand, peat, river terraces, etc.
+
+Degree of exposure Comments on quality and quantity of exposure, weathering, soil cover, etc.
+
+Hazards Note of hazards not obvious from base map
+
+Maps Figure 10.7  (a) A ﬁ eld map of an area in the English Lake District.
+
+Exposures are coloured, but not outlined or labelled with a unit code.
+
+Annotation is sparse, but includes some comments on vegetation and landscape features relevant to the underlying geology (depressions, scarps, marshy ground). (b) Magniﬁ ed portion of an adjacent ﬁ eld map, showing a strike line symbol plotted at locality number 46. The strike line is accurately plotted, with a short tick indicating dip of the stratum to the southeast at 12 ° , and the exposure has been outlined using a thin black pen line. This map could be improved by using colour to distinguish mapping lines better from the base map, and by ringing the locality number for clarity. (c) A ﬁ eld map from a brief mapping exercise in Scotland. Locality numbers are ringed, and their location given by arrows.
+
+Detailed notes compete with structural symbols for space, and the map is rather congested. Such notes could be reserved for the ﬁ eld notebook alone in most mapping situations.  (a and b: Extracts from ﬁ eld maps of Tom W. Argles, The Open University, UK. c: Extract from ﬁ eld map of Angela L. Coe, The Open University, UK.)
+
+(a) )
+
+( )
+
+b (
+
+Maps commonly possible only after you have examined the main rock types in the area, although any scheme can be amended later.
+
+It is perhaps worth remembering that the deﬁ nition of a geological formation is a unit mappable over a reasonably large area, with characteristics that distinguish it from adjacent units.
+
+Mapped units generally have distinct contacts with neighbouring units, though some unit boundaries may be transitional or indistinct; there are no limits to the thickness of a formation. Two or more formations with features in common may be designated as a group. Most igneous and many sedimentary contacts are quite sharp (e.g. dyke margins, bedding planes). However, some unit boundaries are less obvious (e.g. metamorphic zone boundaries, boundaries between sedimentary units that obey Walther ’ s Law). The following criteria may be useful in deﬁ ning a range of lithological units: •   major rock type (igneous, sedimentary, metamorphic); •   compositional change (indicated by changes in colour, mineralogy, weathering, etc.); •   grain - size changes (e.g. siliciclastic sedimentary deposits, volcaniclastic rocks, intrusive igneous facies); •   textural or structural change (generally indicating a change in  process ); •   change in fossil assemblage (biostratigraphy); •   change in mineral assemblage (metamorphic zones, igneous petrography).
+
+Lithological  s ubdivisions and  m arker  l ayers The type and scale of mapping control how detailed a scheme has to be to classify lithological units. A large area may have a wide range of rock types that are easy to categorize. Mapping smaller areas, or those with little variation in rock type, demands discrimination on subtler criteria. For example, volcanic units might be deﬁ ned by the abundance of different phenocrysts, or sedimentary units by the relative proportions of sand and silt. Such subdivisions may require detailed logs of certain sections to deﬁ ne them.
+
+The basic mappable unit is the formation. Formations may contain one or more subdivisions known as members, which are units with characteristics that distinguish them from the adjacent parts of the formation. In monotonous sections of strata, the widespread occurrence of a distinctive single member or even layer can be critical to interpreting the geology of the area. Examples of such a marker layer could include a
+
+Maps volcanic ash layer, a porphyritic sill, a calc - silicate layer or a sedimentary bed with characteristic ironstone concretions.
+
+Recognizing and recording these marker layers is invaluable for understanding the stratigraphy and structure of any region. It is also important to take into account localized variation and to group or split units appropriately.
+
+10.4.3  Sketch  c ross - s ections For a geologist, tracing strata such as marker layers across the land surface leads naturally on to questioning the subsurface structure. It is often useful to sketch out rough cross - sections based on the data you collect while mapping, especially in areas where there are distinct topographic features (Figure  4.3 d, p.  60) or folding or faulting has affected the rocks (Figure  4.8 , p.  69). Fieldwork is frequently conducted along more - or - less linear traverses (Section  10.5.1 ), and if these cut across the strike of the strata at a high angle, cross - sections can readily be sketched from the data collected.
+
+## Section  10.6.2 details how to construct an accurate cross -
+
+section, but a sketch section can be as rough as you like  – it serves simply to help you develop possible interpretations of the geological structure or test different hypotheses. A sketch
+
+## section could be simply a quick drawing of how one stratum
+
+might be folded across an area, or it may involve rather more, as in the following description. First, pick a notional line on the map that cuts at right angles across the dominant strike of the strata as the line of section. In your notebook, or on a separate piece of paper, draw a rough representation of the topography along this notional line. Then quickly mark on the locations of the main boundaries between geological units as short lines dipping below the topographic surface, taking the dip angles from the nearest measurements to the line of section.
+
+Start extending the strata boundaries below the topographic surface. This will give you a ﬁ rst impression of the relative thicknesses of the different units. To continue sketching the section, you may need to consider: •   matching the surface dip measurements to the structures at depth; •   erecting hypotheses to explain repetitions of strata (i.e.
+
+folding, faulting); •   potential changes in the thicknesses of strata; •   any alternative structural conﬁ gurations that might ﬁ t the recorded data.
+
+Maps Sketch sections such as the example in Figure  10.8 are not intended to be accurate, but to focus attention on structural problems and try out ideas of the regional geology. They may even direct mapping, for instance by identifying the best location(s) to visit in order to test a hypothesis. This may be an iterative process in areas of poor exposure, and a certain amount of trial and error may be required to deduce the thicknesses of lithological units that produce a geologically reasonable cross - section.
+
+## 10.5  Mapping  t echniques
+
+You should always aim to record as much relevant detail as practical in your notebook to help construction of the ﬁ nal geological map. Some features (e.g. uniformly dipping strata)
+
+can be adequately recorded with a few measurements. Others, such as complex brittle fault zones, may require numerous measurements and observations to constrain their orientation and kinematics satisfactorily. Mapping may be focused on different aspects of the geology (e.g. bedrock, superﬁ cial deposits, artiﬁ cial deposits, mineral deposits, glacial geomorphology, soils), which will impose different constraints on the mapping techniques used. In addition, other constraints such as time, terrain, vegetation, weather, etc., mean that you must develop an appropriate mapping strategy for the conditions. Three common mapping methods are described in the following sections, although in some areas a combination of these different techniques may be appropriate.
+
+Whichever mapping technique is employed, it is good practice to constantly develop hypotheses that predict what you will ﬁ nd at the next exposure. Then on arrival, the prediction (e.g.
+
+the dip will have changed, it will be the same rock type) is tested immediately. If correct, the hypothesis is supported; if wrong, you may need to develop a new hypothesis  – for instance, a fold axis or fault has been crossed between the two exposures.
+
+Figure 10.8  An example of a sketch section, redrawn from a notebook, based on observations of cleavage and bedding attitudes and minor fold structures on a road traverse in the northwest Himalaya.
+
+Numbers refer to localities. The kilometre - scale antiformal fold inferred here is a subordinate structure on the SW - dipping limb of a 20 - km - scale syncline.  (Tom W.
+
+Argles, The Open University, UK.)
+
+Maps 10.5.1  Traverse  m apping This method is often adopted for reconnaissance mapping of a large region, at relatively small scales (1:250,000 to 1:50,000). It may also be the only approach possible where rock exposures are restricted to stream sections or roads, or where access is limited to streams, roads, ridge crests, etc. (Figure  10.9 ). River sections in mountainous regions are commonly subparallel and quite evenly spaced, presenting the opportunity for multiple traverses. The geology can be interpolated between them if the structure is broadly simple, especially if aerial photographs or satellite images can be used to help trace units or boundaries across sparsely vegetated areas.
+
+Traverse mapping involves simply recording the geology as you walk along a predetermined route. This may be a straight line, or series of straight  ‘ legs ’ , between two deﬁ nite points on the map. Typically, however, traverses follow linear features such as roads, tracks, streams, wadis or ridge crests, because these provide good exposure and/or easy access (or perhaps the only feasible access!). Such routes may be recorded automatically on GPS units. In open country, binoculars may be handy for examining the traverse route; in addition, high - resolution satellite imagery can be examined (and printouts taken) prior to the mapping season (via online services such as Google Earth ™ ) to plan potential routes.
+
+Linear  t raverse Ideally, a traverse runs perpendicular to the strike of stratigraphy or structure, yielding the most information on the regional geology. If the traverse is along a well - deﬁ ned linear feature (e.g. road or stream), plot the geology as you go. Mark the units you encounter on the map using the appropriate colour or lithology code, and indicate whether they are well - or poorly - exposed (e.g. by marking the traverse line as solid or dashed, respectively). Structural data, faults, fold axes and other geological information can all be recorded on the traverse; an example is shown in Figure
+
+## 10.10 a
+
+Closed  c ompass  t raverse Another way to create a traverse is by pacing out a polygon on a set of compass bearings; some correction for minor bearing errors may be required when you ﬁ nally reach the end point (Figure  10.10 b, p.  224). In this case, it is advisable to record the geology in a notebook with the paced distances, and make the required correction for each traverse point before plotting the geology on the ﬁ eld map.
+
+Traverses perpendicular to the regional strike form a good basis for sketching a cross - section in the ﬁ eld (Section  10.4.3 ) or in Figure 10.9  River gorge at Wangtu, northwest India, illustrating the point that in very mountainous regions, the only practical mapping approach may be traverses along river sections or roads. In this view, the road is cut into the cliff on the left-hand side of the photograph, about half way up the image.  (Tom W. Argles, The Open University, UK.)
+
+Maps sedimentary facies creating a graphic log (Section  6.3 ). This may highlight anomalies in the regional structure, for instance a concealed fault, which can be investigated without delay. In more accessible regions, traverse mapping can quickly identify important geological contacts that can be exploited, as described in the next section.
+
+Figure 10.10  (a) A linear traverse mapped in the Alaknanda valley, northwest India. In this complex orogenic zone, the focus of this project was on gathering structural data and collecting samples for metamorphic and geochemical analysis. (b) Correcting a closed compass traverse for minor bearing errors. When the traverse was plotted using the bearings and distances in the notebook (red lines), the last leg (e to a) did not join up exactly to the origin (Point A), by a closure error of 43  m. The traverse was corrected by adjusting each plotted point (a to e) parallel to the closure error (green lines) by an amount proportional to the cumulative distance travelled to reach that point. So, for point d, correction =  43  ×  (780/1435)  =  23.4  m. The result is the corrected closed traverse ABCDE (dashed blue lines).
+
+10 km A B C D E b a e (b)
+
+(a)
+
+Key Upper GHS quartzites Basal GHS
+
+## STDS
+
+## MCT1
+
+MCT Zone dip of foliation locality village road river Malari 43 42 Kosa Jelam Jumagwar Suraithota Tapoban 30°30'N 30°45'N 79°45'E 79°40'E 79°35'E Tethyan Sedimentary Series
+
+Maps 10.5.2  Contact  m apping One important objective of geological mapping is to trace out the contacts between different geological units. In many cases, careful examination of aerial photographs or satellite images (including online sources) prior to (or during) mapping may pay rich dividends, since these may pick up subtler differences in soil type and vegetation than can be seen while on the ground. Contacts may be rapidly traceable across rugged terrain, and even under superﬁ cial deposits, in this way. Because contacts typically juxtapose rock units that have different properties (hardness, permeability, composition), there are often landscape clues to their presence (Section 10.5.4 ).
+
+All that is required thereafter is to  ‘ ground - truth ’ (Worked Example  10.1 ) your interpretation by visiting selected exposures at intervals along (or as close as possible to) the contact identiﬁ ed from the aerial photograph or satellite image.
+
+For a well - exposed contact you may simply be able to follow it, marking it on the map as you go. Exposures either side of the contact may contain clues to its proximity (e.g. minor faulting, sedimentological variations, contact metamorphic effects; abundant xenoliths). The ﬁ eld map in Figure  10.7 a (p.  219)
+
+shows a contact mapped in this way between granite (red) and volcanic rocks (green), its position constrained by exposures marked on either side.
+
+This technique is generally suited to mapping at scales of between 1:50,000 and 1:15,000, but it can also be used for very detailed mapping of small areas. In areas of good exposure, this method can build up a geological map quickly, especially if the structure is reasonably simple. The technique can be compromised by difﬁ cult terrain, poor exposure or complex geology. However, in poorly exposed terrain, contacts may still be traced by combining information from the few exposures with other information (Section  10.5.4 ): landscape features, drainage and mapping of the drift deposits that obscure the contact. Obvious contacts may be traced further using binoculars, especially in rugged landscapes with extensive exposure (Figure  10.11 , p.  226).
+
+To map a contact, mark it as a solid line on the ﬁ eld map where it is exposed, and as a dashed line where inferred (e.g. under vegetation, superﬁ cial deposits, ice, water, etc.; see Figure  10.7 a). Conﬁ rm which rock units lie adjacent to the contact (these may change along a major fault), and use colour to show their outcrop. Shade actual  exposures of rock more heavily than areas where rock units obscured by superﬁ cial deposits or vegetation are inferred (i.e. their outcrop).
+
+Maps 10.5.3  Exposure  m apping This technique is typically more detailed than either contact or traverse mapping, and is used to produce maps at a scale of between 1:15,000 and 1:1000. Many landscapes are composed of more - or - less scattered exposures of rock separated by areas where the rock is obscured, by superﬁ cial deposits, vegetation, ice, water and so on. In this environment, the geologist aims to examine as many exposures as possible, outlining the extent of exposed rock in pencil and ﬁ lling in each outlined exposure with the colour assigned to each rock unit that occurs there (Figure  10.12 ). The pencil outlines should be traced over in ink at the end of the day, because pencil will smudge or fade over a long ﬁ eld season. It is also a good opportunity to review the day ’ s work. However, exposure mapping is not simply a  ‘ colour by numbers ’ exercise! Do not be tempted to leave important contacts or boundaries to be drawn between different units later.
+
+You should investigate and conﬁ rm the suspected presence of a boundary in the ﬁ eld where possible, and dash boundaries where inferred. This constant re - evaluation of the structure will help you pick up offsets and anomalies more quickly.
+
+Exposures too small to outline can be marked with a coloured dot and annotated with the rock type if there is space on the map. Areas of no exposure should be labelled as such, along with any additional information that may give clues to the underlying rock type (e.g.  ‘ boggy ground ’ ;  ‘ grass with sinkholes ’ ;  ‘ thin soil with abundant ﬂ int cobbles ’ ; see Section 10.5.4 ). Once all the exposures in an area have been mapped, the intervening blank areas on the map can be lightly coloured in if the underlying rock unit can be inferred from the adjacent exposures and/or other clues such as changes in topography, Figure 10.11  Contacts like this one in southern Tibet may be conspicuous enough to be traced across difﬁ cult terrain using binoculars.  (Tom W. Argles, The Open University, UK.)
+
+Maps soil type and vegetation (Section  10.5.4 ). Strata, contacts and/or faults could be traced across a blank area along their strike, provided exposures either side of the blank area match. If a linear feature on the map (contact, dyke, lithological boundary)
+
+is offset across the blank area, a fault may be the cause. The broken rock along fault lines is susceptible to weathering and erosion, so faults are commonly concealed in ravines, watercourses, or depressions that accumulate superﬁ cial deposits. In some cases, clues in the landscape (Section  10.5.4 )
+
+may allow a feature to be traced across an area of no exposure; for instance, the presence of an unconformity between permeable limestone and impermeable mudstone may be betrayed by an abrupt contrast in surface drainage (dry ground above limestone, wet ground above mudstone).
+
+Exposure mapping can be challenging in areas at either extreme, i.e. where exposure is poor, or almost 100%. If almost all rocks are exposed, the challenge may be to separate rock types that grade into each other (e.g. phyllites, schists, gneisses), and divide them into mappable units. It can be difﬁ cult to achieve this before all the units in the area have been examined, although judicious study of river pebbles can help, or a suitable transect through the area. Once the units have been established, contact mapping may then be the best way to proceed.
+
+Figure 10.12  (a) An example of a ﬁ eld map produced by exposure mapping, with exposures outlined in pen; note that unit boundaries are also shown as dashed or solid lines. (b) A portion of the ﬁ nal fair copy map from the ﬁ eld map in (a), showing how the inferred outcrops of the mapped units are shown as solid blocks of colour.
+
+(Field map and ﬁ nal fair copy map of Susie Clarke, Oxford, UK.)
+
+(b)
+
+(a)
+
+For a snapshot of the rock types exposed in a particular area, spend a short time picking over pebbles in large alluvial fans or bars of rivers that drain the mapping area.
+
+This will give an overview of the rock types present (although biased in favour of harder rocks).
+
+Maps In areas of few exposures two strategies are useful: (1) observe the area from a high viewpoint, and mark the locations of exposures on your ﬁ eld maps  – you can then plot a route to visit all of them efﬁ ciently; (2) check all the other small exposures and clues (Table  3.2 , p.  45).
+
+10.5.4  Using  o ther  e vidence Topographic  f eatures:  F eature  m apping In any area of poor exposure, gathering clues to the underlying geology from the landscape is a useful skill. The topography itself is heavily inﬂ uenced by the bedrock underneath, so that, for example, many breaks in slope mark the location of a Figure 10.13  (a) Part of a ﬁ eld map of the Long Mynd area, Shropshire, UK, incorporating landscape features (e.g. breaks in slope) as evidence of stratigraphic boundaries. Each break in slope is marked as a line with a series of arrows pointing at it; two occur in the centre of this extract, with another at top right. Superﬁ cial deposits that obscure the bedrock geology are also mapped. (b) The corresponding portion of the ﬁ nal fair copy map from the ﬁ eld map in (a), showing how the inferred outcrop of the bedrock units is depicted; the two central breaks in slope mark the boundaries of the Hillend Grit.  (Field map and ﬁ nal fair copy map of Angela L. Coe, Open University, UK.)
+
+(a)
+
+(b)
+
+Maps lithological boundary (Figure  10.13 a). Gently dipping strata can be mapped out by the succession of scarp and dip slopes (Figure  10.14 b), even where rock is not exposed. Systematic offsets of scarp features may indicate faults, especially where the offsets coincide with linear depressions. Curved ridges may indicate folding that can be traced out, either on the ground or by reference to aerial photographs. Where scarps or ridges die out gradually, you might suspect that the resistant bed forming the feature has pinched out. Table  10.6 lists how some common topographic features might reﬂ ect the bedrock geology, with some examples shown in Figure  10.14 (see also Figure  8.2 , p.  167). Conventional symbols for these features on a ﬁ eld map are included in Appendix  A10 , Figure A10.3.
+
+Figure 10.14  Some landscape clues to bedrock geology. (a) Two breaks in slope (arrowed) mark the boundaries between massive gabbro (crags on left) and cleaved mudstones (underlying ﬁ elds on right) at Carn Llidi, southwest Wales, UK. The intermediate slopes are underlain by contact metamorphosed mudstones and gabbro debris. (b) Steep scarp slopes mark resistant strata, near Haltwhistle, UK: a sandstone at A and the Whin Sill (dolerite sill) at B and C. The horizon dipping to the right (south) follows the dip of the sill. Depressions between the scarps are underlain by softer siltstones and limestones.  (a and b: Tom W. Argles, The Open University, UK.)
+
+(b)
+
+(a)
+
+A B C Table 10.6  Topographic clues to bedrock geology.
+
+Topographic feature Possible cause(s)
+
+Break in slope Stratigraphic boundary, fault, unconformity, limit of metamorphic aureole Depression, ravine Fault, shear zone, layer of softer material, synformal fold Ridge Dipping resistant rock layer, dyke, mineralized fault zone, antiformal fold Escarpment Edge of gently dipping strata, fault
+
+Maps Drainage Many conspicuous drainage features owe their existence to the underlying bedrock or superﬁ cial geology (e.g. Figure  10.15 ).
+
+Table  10.7 summarizes some common examples. Care is needed in interpretation, as both bedrock and superﬁ cial deposits may inﬂ uence drainage. For example, waterlogged ground could be due to a thin layer of impermeable glacial till that is itself underlain by permeable sandstone. Some drainage patterns may be antecedent: i.e. they pre - date the formation of a later landscape (e.g. a young mountain range) and hence bear little or no relation to the underlying geology; this is true of Figure 10.15  Examples of drainage and vegetation contrasts.
+
+(a) Marshy ground with rushes (foreground) marks the outcrop of impermeable Silurian mudstones, while most of the sheep are grazing on the well - drained pasture underlain by permeable Carboniferous Limestone (exposed in the crags behind). The contact between the two rock types is marked by a distinct break in slope, conspicuous against the woodland near the left - hand side of the photograph. Witherslack, Cumbria, UK.
+
+(b) The green verdant vegetation and ﬂ atter foreground is underlain by interbedded limestones and mudstones. The steeper slopes with vegetation typical of acidic soils (heather, bracken) are underlain by sandstone. The contact is marked by the vegetation change, running from just left of the group of trees on the horizon obliquely left behind the plantation on the left - hand side. This locality is near Alnwick, Northumberland, UK.  (a: Tom W. Argles, The Open University, UK; b: Angela L. Coe, The Open University, UK.)
+
+(a)
+
+(b)
+
+Maps several major Himalayan rivers that cut deep gorges through the range. However, some watercourses may be deﬂ ected by strike - slip faults, preserving offsets that betray the presence and kinematic sense of the fault (Figure  8.1 d, p.  166).
+
+Soils and  v egetation Other clues may be drawn from soils and vegetation. Fragments of the underlying rock (ﬂ oat) may be found in the soil (Figure
+
+## 10.16 a, p.  232), although these may be misleading in formerly
+
+glaciated areas with extensive till or river gravel deposits that contain pebbles from several (perhaps distant) sources.
+
+Otherwise, the mineral content may give some hint of the bedrock: sandy soils could reﬂ ect sandstone or granite; red, iron - rich soils occur commonly on maﬁ c rocks (e.g. basalt). An efﬁ cient way of investigating the soil type down to a few decimetres is by using a hand auger to take a sample of the soil and particularly the subsoil (Figure  10.16 b). As well as information on the soil type, the auger may yield fragments of weathered bedrock (regolith) that is not exposed nearby, and it is a common reconnaissance tool. The vegetation is strongly inﬂ uenced by both soil type and drainage, so certain rock types support distinctive plant associations (e.g. calcareous grasslands on chalk; acidic soils hosting gorse bushes and heather on sandstones (Figure  10.15 b) and peat bogs on granite).
+
+Table 10.7  Drainage characteristics of the underlying geology.
+
+Drainage feature Possible cause(s)
+
+Wet, boggy ground, marsh Impermeable substrate (e.g. mudstone, granite, gneiss, glacial till)
+
+Dry, well - drained ground Permeable substrate (e.g. limestone, chalk, some sandstones, gravel, blown sand)
+
+Ephemeral streams Permeable bedrock (e.g. limestone, chalk), or low rainfall (arid areas)
+
+Spring lines, seeps Boundary between permeable (up - slope) and impermeable (down - slope) substrates (e.g. fault, unconformity, or stratigraphic boundary)
+
+Sinkholes Boundary between impermeable (up - slope) and permeable (down - slope) substrates (e.g. fault, unconformity, igneous or stratigraphic boundary); typical of limestone areas Potholes, caves, karst features Typical of limestone areas, rare in regions underlain by other rocks Dendritic drainage Area underlain by similar substrates (or even a single rock type)
+
+Rectangular drainage Exploiting regular lines of weakness in bedrock, such as joints in granite Radial drainage Water drains outward from a raised feature (e.g. structural dome, granite intrusion, volcanic centre)
+
+Linear drainage Lines of relative weakness in bedrock (e.g. faults, fold axes, soft strata, dykes)
+
+Maps Superﬁ cial  d eposits Landforms commonly reﬂ ect superﬁ cial deposits, which should be noted on ﬁ eld maps, especially where they mask the bedrock. The extent to which you map the distribution of different superﬁ cial deposits depends on the focus of the mapping project; in some cases, mapping is speciﬁ cally targeted at Quaternary superﬁ cial deposits. Sand dunes, peat, alluvium, laterite and beach deposits all represent a chapter in the geological history of the area, and different projects may focus on one or more of these deposits. Glacial and ﬂ uvioglacial deposits can form dramatic landscape features (e.g.
+
+drumlins, eskers, terminal moraines, terraces), so you should distinguish these from bedrock landforms where possible. A few superﬁ cial deposits (e.g. landslides) can be positively misleading. Large landslides may not be obvious at ﬁ rst (Figure
+
+## 10.17 ), and the jumbled structure could prove a puzzle. Clues
+
+to landslides include: a prominent scar (commonly curved); hummocky ground with a rather low average slope and small - scale drainage, small ponds, etc.; a vegetation contrast between the landslide debris and the surrounding undisturbed land.
+
+Wherever exposure is poor, take the opportunity to annotate your ﬁ eld map with any relevant information on topography, superﬁ cial deposits, drainage, soils or vegetation. Figure  10.18 shows an example of a ﬁ eld map drawn largely from the results of numerous auger holes, combined with landscape features.
+
+These observations will help corroborate your interpretation of the underlying geology when drawing the ﬁ nal map.
+
+Figure 10.16  (a) White fragments of chalk in this soil are a conspicuous clue to the bedrock beneath. It is always worth checking soil excavated by burrowing organisms (in this case prairie dogs at Whipsnade Zoo, Bedfordshire, UK). Burrow is about 12  cm across. (b) A hand auger, useful for obtaining samples of the shallow subsurface, including soil. The auger is lying alongside a loose  ‘ core ’ of soil obtained from this locality.  (a: Tom W. Argles, The Open University, UK; b: Mark Brandon, The Open University, UK.)
+
+(a)
+
+(b)
+
+Figure 10.17  Typical landslide topography in Glacier National Park, Montana. The landslide material forms the hummocky ground with patchy vegetation sloping from the scree fans at the base of the cliffs towards the level plain in the foreground.  (Courtesy of the U.S. Geological Survey; photographer P. Carrara.)
+
+Maps
+
+## 10.6  The  g eological  m ap
+
+This section will discuss how to proceed from ﬁ eld maps and notebook information through to producing the ﬁ nal fair copy map, along with additional interpretative material such as cross - sections.
+
+10.6.1  Inking in the  ﬁ eld  m ap It is advisable to  ‘ ink - in ’ ﬁ eld maps as soon as possible after mapping (e.g. in the evening). The aim is not to create a neat ‘ ﬁ nal map ’ , but to review your observations and evidence while they are fresh in your mind, resolve any discrepancies, and then Figure 10.18  Field map in an area of poor exposure, with annotations on auger borings of the shallow subsurface augmented by notes on breaks in slope. Most boundaries are dashed or dotted (inferred). Auger holes are marked with a plus symbol (+); actual exposures are marked with a star ( * ); letters refer to notebook entries.  (Map of Kate J. Andrew, Herefordshire Heritage Service, UK.)
+
+Maps preserve and emphasize information for further interpretation.
+
+Inking in will involve the following as appropriate to the area.
+
+## 1.  Structural symbols should be checked and redrawn using
+
+permanent mapping pens with waterproof ink, at different thicknesses (or in different colours) for faults and unconformities. Ensure the symbols are consistently marked relative to their locations: convention is for the locality to lie at the intersection of strike line and dip tick (planar feature), or the head of the arrow (linear feature).
+
+Make strike lines and plunge arrows long enough ( c .  6  mm)
+
+so that they can be traced, or their azimuth determined, if necessary (for instance if the data are lost). Make sure bearings of all data are retrievable in case of imperfect plotting (e.g. in a notebook, unambiguously keyed to the locality on the map). Omit symbols only to avoid congestion, and then omit data that are less crucial to your study (e.g. joints, vein orientations). This important recording process is summarized in the ﬂ owchart below.
+
+Linear datum plotted Planar datum plotted Draw c.6 mm line using long edge of compass, starting at locality point Add arrowhead pointing in plunge direction at locality end of line Annotate with plunge angle near arrowhead Draw c.6 mm strike line using long edge of compass, with locality point halfway Add short tick at 90° to strike line, halfway along strike line on down-dip side Annotate with dip angle near short dip tick Plot structural data on a map Rotate compass dial to strike or plunge direction Lay compass on map Align static arrow and lines with grid N lines Place long edge of compass at locality point Plane or line?
+
+e n al P e niL
+
+## 2.  Other annotations such as locality numbers and brief notes
+
+can be rewritten in ink, and may be repositioned for clarity at the same time.
+
+## 3.  Lines marking certain geological boundaries can be inked
+
+in and those marking uncertain geological boundaries can be left in pencil, but may need renewing.
+
+## 4.  Exposures can be outlined in ink and coloured strongly,
+
+but areas where rock units are inferred should only be coloured very lightly. Figure  10.12 (p.  227) compares a ﬁ eld map with the corresponding  ‘ inked - in ’ map.
+
+Maps 10.6.2  Cross - s ections Constructing or sketching cross - sections while mapping an area is an important step in understanding the geology, and may provide critical insights into the developing map. Sections are generally drawn along a line perpendicular to the dominant strike of strata and structures (e.g. faults, fold axes), so that they show the subsurface structure most clearly. Accurate sections typically have a horizontal scale equal to that of the map on which they are based, but the vertical scale may be exaggerated to emphasize the structures (in which case, strata dip more on the section than in reality). The process of drawing a cross - section is illustrated by Figure  10.19 (pp.  236 – 237), and broken down into stages in the following section.
+
+10.6.3  Fair  c opy  m aps Geologists make a ﬁ nal fair copy of their ﬁ eld maps to present their interpretation of the geology, commonly as part of a report.
+
+The map itself is generally only one element of a complete map sheet, which includes scale, explanatory material and commonly cross - sections too; a typical layout is shown in Figure  10.20 (p.  238). Geological maps are increasingly drafted electronically, but there are several ways to transfer geological information gathered in the ﬁ eld to a fair copy map. A brief review of the main steps in that process is provided here.
+
+•   Aim either to draw your fair copy map onto a fresh copy of the base map (in paper or digital format) or start with a blank page and redraw sufﬁ cient topographical elements to ﬁ nd the geological features (e.g. Figure  10.20 , p.  238). Make sure that at least some elements of the topography are represented on the ﬁ nal map; for instance, if contours are dense, trace a few at selected intervals. If no contours are available, try and include at least drainages (rivers, streams) and major peaks.
+
+Electronic base maps can be rendered in greyscale so as to distinguish them from the coloured geological data.
+
+•   Transfer geological boundaries and faults onto the fair copy base map. This can be done in a variety of ways (Table
+
+## 10.8 ). Lines should be solid, except where boundaries were
+
+inferred; in this case dashed lines are used. Draw faults as thicker lines than stratigraphic boundaries, and apply ornaments (e.g. downthrow ticks for normal faults, triangular teeth for thrusts).
+
+•   Distortion of ﬁ eld sheets by initial photocopying and later weathering typically means that they do not exactly match the fair copy base map, which may need to be shifted repeatedly by small amounts to maintain as good a ﬁ t as possible between the two.
+
+Table 10.8  Methods for transferring lines to a fair copy map.
+
+Line transfer methods Digitize (trace over) electronically scanned ﬁ eld maps on a computer Copy by inspection onto a fresh paper or digital base map (if detailed enough)
+
+Copy onto a fresh base map, using the same grid on both maps for reference Overlay the ﬁ eld map with the fair copy map on a light table and trace by hand Draw the map digitally using GIS or graphics software while in the ﬁ eld
+
+Maps HL CDL BO CO CdL BRL LSh LSh PoB BRL BO DCg DCg MMG piece of paper 6 7 (b)
+
+B A (vertical scale = horizontal scale)
+
+(a)
+
+B A 6 7 (c)
+
+B A S N (d)
+
+Decide on an appropriate vertical scale for the cross-section. Mark the line of section on the map with a faint line, or mark the end points. On a separate sheet of graph paper, draw a straight horizontal line of Angles between strike of beds and line of section (for calculating apparent dips)
+
+HL HL CDL BO BO CDL CO CdL BRL BRL LSh LSh PoB HL CDL BO CO BRL LSh LSh PoB BRL BO DCg DCg MMG B A60 CdL the same length, to represent mean sea level (the usual reference datum). Add vertical axes at each end, labelling them with an appropriate scale for the height relative to sea level.
+
+Lay the straight edge of a second sheet of paper along the section line on the map. Mark the end points of the
+
+## section line on the edge of the paper, and wherever
+
+topographic contours cross the section line mark ticks, labelled with the contour height, on the second sheet of paper. (It may help to mark rivers and ridge crests too.)
+
+Transfer the contour heights to the graph paper by laying the edge of the paper along the horizontal axis, and marking dots projected up to the correct height all along the cross-section. Join these dots with a smooth curve interpolated between them to produce a topographic profile as a base for your cross-section.
+
+Label the end points with a grid or GPS reference, or a compass bearing.
+
+Using a third sheet of paper, transfer geological information such as stratigraphic boundaries, faults and igneous contacts along the line of section from the map to the cross-section in the same way as you did for the contour heights (stage (b)).
+
+Figure 10.19
+
+Maps Figure 10.19  Stages in drawing a geological cross - section.  (Map for b and d: Ordnance Survey 1:25,000 Scale Raster  © Crown Copyright 2009. An Ordnance Survey/EDINA supplied service. Geological Map Data  © NERC 2009.)
+
+B A Burrington Coombe Black Down Cheddar Gorge Axial plane HL BO BO BRL BRL LSh LSh PoB (no vertical exaggeration)
+
+(f)
+
+Burrington Oolite Subgp (Lst)
+
+Lower Limestone Shale (Lst, mst)
+
+Hotwells Limestone Fm Clifton Down Limestone Fm Cheddar Oolite Mbr (Lst)
+
+Portishead Fm (Sst)
+
+Black Rock Limestone Subgp Cheddar Limestone Mbr ‘chinastones’ (calcite-mudstone)
+
+BO CDL CO CdL BRL LSh PoB HL KEY Height above OD B A S N S N Apparent dips (e)
+
+HL HL CDL BO BO CDL CO CdL BRL BRL LSh LSh PoB Transfer the position of these features directly onto the topographic profile on the graph paper. Dip measure- ments can also be transferred onto the section. If there are none on the line of section, data lying short distances away from the section line can be projected at right angles onto the line. However, only where strata strike at exactly 90° to the section line can their dip angles be drawn directly onto the cross-section.
+
+Dips of strata striking at more oblique angles to the line of section must be corrected to lower values, because in effect the cross-section cuts these strata obliquely, and their dips will hence be apparent dips on the cross-section. The more oblique the strike to the
+
+## section line, the lower the apparent dip will be
+
+(Appendix 10, Figure A10.1 shows a graph you can use to determine apparent dips.) Draw short lines for the dip data at the correct angle just above the profile initially, as a guide.
+
+Choose an important marker horizon or stratigraphic boundary, and draw this across the section, matching its dip to the dip measurements where possible, and interpolating between the different points on intersec- tion with the topography. With this guide to the overall structure, add other unit boundaries in the same way; unless you have evidence for varying strata thickness, draw these parallel to the first horizon. In some cases, you may know or be able to determine the throw on faults, and their attitude; you may also be able to define fold structures. Generally, you will be able to extend your section further below the surface in folded areas; indicate uncertainty with question marks.
+
+Finally, add a key to unit colours and other symbols.
+
+•   Colour the outcrops of geological units as continuous blocks, even where inferred. Use colours thoughtfully: for example, choose pale colours for widespread units and stronger colours for those with limited outcrop (e.g. dykes, thin strata). Colour on a computer has the advantage of being standardized (e.g.
+
+using CMYK values). For hardcopy maps, various media can be employed (e.g. watercolours, coloured pencils).
+
+•   Every unit should be identiﬁ ed by a code, in many cases an abbreviation of the unit name (e.g. MMG for Mercia
+
+Maps Mudstone Group), or a code of letters and numbers based on the age of the unit (e.g. K6 is a code for the Cretaceous White Chalk Subgroup in the UK; Obe stands for the Ordovician Bald Eagle Formation in Pennsylvania, USA).
+
+These may conform to formal lithostratigraphic schemes, or you may need to devise your own. Place several labels within a large outcrop; link labels to small outcrops with a leader line. Lettering can be done using transfers (costly) or stencils, printed neatly by hand or typed directly onto digital maps.
+
+•   Add sufﬁ cient structural symbols (bedding, foliation, lineation and folds) to allow the stratigraphy and structure to be determined. Mark only the dip or plunge angle by the symbol, not the strike bearing (because the line itself deﬁ nes the strike azimuth). Make sure that symbol types and sizes are consistent (Appendix  A10 , Figure A10.3), both across the map and in the explanatory key.
+
+•   Clarity is essential, so make sure that symbols are neat and not congested. Omit locality and sample numbers, and Figure 10.20  An example layout for a fair copy map.  (Map of Angela L. Coe, The Open University, UK.)
+
+Maps information not bearing directly on the geology (e.g. soil annotations  – just use these for interpretation of the geology); fossil and ore mineral locations may be retained if appropriate.
+
+Alongside the actual map, several other elements are either essential or highly desirable, generally as marginal additions.
+
+Table  10.9 summarizes these components.
+
+10.6.4  Digital  m aps and  GIS Many ﬁ nal geological maps are drafted electronically, using Geographic Information System (GIS) technology to plot the geological data in a geospatial framework. However, in some cases the actual mapping is also conducted using portable computers (laptops or  ‘ tablet ’ PCs), which allow data to be directly entered into databases, and maps to be drafted on - screen on an electronic base map. Professional surveys and other companies increasingly use this technology, but it has limitations as well as advantages (Section  2.9 ). Such methods are beyond the scope of this introduction, as each system is likely to require speciﬁ c training in the software and mapping styles adopted by the organization. However, the general principles of mapping outlined in this chapter should still be followed while mapping in this way; it is only the tools that have changed.
+
+Make sure that the symbols and ornaments in the explanation of a fair copy geological map are all at the same scale as on the main map.
+
+Table 10.9  Additional elements of a ﬁ nal fair copy map.
+
+Element Comments Title Include the name of the area mapped, and indicate any special theme (e.g. ore mineralization)
+
+Scale As a ratio (e.g. 1:10,000) and in graphical form (e.g. a graduated bar)
+
+N arrow Indicate true north, and also show relative deviations of grid and magnetic north Author, date Include both the date of mapping and of map publication Sources Cite the sources of topographic base maps and any additional data used (e.g. previous maps)
+
+Explanation A detailed legend showing colours, ornaments and letters for units, all symbols, lines, etc., similar to that in Figure  10.6 Stratigraphic column A vertical section, showing the stratigraphic order and relative thickness of strata Cross - section(s)
+
+Include one or more horizontal cross - sections, generally along the base, to illustrate the structure of the area
+
+Maps
+
+## 10.7  Further  r eading
+
+Barnes ,  J. W. and  Lisle ,  R. J.  2003 .  Basic Geological Mapping ( 4th edition ),  Blackwell Science , 196  pp. [Good introductory text, covering many basic techniques succinctly, along with chapters on equipment, cross - sections and report writing.]
+
+Bennison ,  G. and  Moseley ,  K.  2003 .  An Introduction to Geological Structures and Maps ,  Hodder Education , 176  pp. [A concise book covering both basic and more advanced techniques in geological mapping. The text is illustrated with line drawings and photographs, and contains solutions to all exercises in the appendices.]
+
+Bolton ,  T.  1989 .  Geological Maps: Their Solution and Interpretation , Cambridge University Press , 156  pp. [A useful practical text on the interpretation of geological maps, with numerous exercises involving maps based on real examples.]
+
+Drury ,  S. A.  2001 .  Image Interpretation in Geology ,  Routledge , 304  pp.
+
+[An excellent introduction to the interpretation and manipulation of images in geology, focusing mainly on remote sensing and satellite imagery.]
+
+Maltman ,  A.  1998 .  Geological Maps: An Introduction ,  Blackwell Publishing , 272  pp. [A readable introductory text, incorporating historical aspects of geological mapping as well as reference to example maps.]
+
+McClay ,  K. R.  1991 .  The Mapping of Geological Structures ,  John Wiley & Sons , 168  pp. [A small - format book focusing on how to map, record and analyse geological structures.]
+
+Spencer ,  E. W.  1999 .  Geologic Maps: A Practical Guide to the Interpretations and Preparation of Geologic Maps ,  Prentice Hall , 184  pp. [A step - by - step approach to interpreting and preparing geological maps, including the use of aerial photographs.]
+
+Numerical Recording n umerical  d ata and u se of  i nstruments in the  ﬁ eld Angela L.  Coe A wide range of geophysical instruments can be used to: detect and characterize rock bodies that are not exposed; quantify relative changes in rock composition; and measure ground movements related to earthquakes and active volcanoes.
+
+Instruments to collect data on subsurface geology include magnetometers, gravity meters and geophones for seismic surveys. Common instruments used to quantify the changing composition of a rock include the portable gamma - ray spectrometer and magnetic susceptibility meter. These instruments are particularly useful on mudstone successions and can be used as a proxy for changes in clay mineralogy (gamma - ray spectrometer) and relative changes in the amount of clay to carbonate (magnetic susceptibility meter).
+
+All of these geophysical methods have the advantage that they are non - destructive. The use of speciﬁ c geophysical instruments and more specialist techniques is beyond the scope of this book and instead the manufacturers ’ handbooks or more specialist text books should be consulted. Here we provide a brief overview of some of the instruments available and their possible applications (Table  11.1 ) along with some general notes on data collection.
+
+## 11.1  Data  c ollection
+
+The built - in memory of many geophysical instruments makes data collection fast and easy. However, given that weather conditions and ﬁ eld access can be challenging, the demands put on any instrument are large. Therefore if the data will be hard or too expensive to re - collect should it be lost, it is essential either to back - up regularly to a separate device or to make a hard copy in the ﬁ eld. A separate record of the data will also prevent it all being lost if the instrument is stolen, or conﬁ scated by Customs! In addition, if there is no way of entering extra data into the device it will also be necessary to Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Numerical Table 11.1  Commonly used equipment, main use and examples.
+
+Instrument Main uses Examples Gravity meter Large - scale surveys of subsurface bodies of different density or of bodies that are changing mass or volume Boundaries of sedimentary basins, detecting granite plutons and, in conjunction with elevation surveys (such as differential GPS), studies of the inﬂ ation and deﬂ ation of volcanic regions Magnetometer Medium - to small - scale surveys of bodies with a magnetic character that is distinctly different from that of the surrounding rock Dykes, sills, ore bodies and other buried geological contacts Seismic surveys Survey of features with an acoustic impedance contrast (related to density) on a wide range of scales from tens of metres to thousands of kilometres Extensively used method for surveying stratigraphy within sedimentary basins. Can also be used to examine deep crustal structure or to locate magma chambers Portable XRF Small - scale variation (decimetres to metres) in the major and minor element concentrations of rocks exposed at the surface Provenance of derived rocks through chemical characterization. General characterization to determine position of high - resolution surveys.
+
+Generation of data for time - series analysis to determine if there are regular cycles relating to the time of deposition recorded in the rocks Gamma - ray spectrometer Small - scale spatial variation in the Th, K and U concentration in rocks exposed at the surface. 30  cm to tens of metres Variation in clay mineralogy and/or organic carbon content (U can be used as a proxy for organic carbon). Characterization of the U, Th and K composition of granites Magnetic susceptibility meter Very small - scale spatial variation in the response of rocks to an imposed magnetic ﬁ eld; this relates not only to the composition of rocks containing magnetic minerals but also paramagnetic minerals such as clay minerals Variation in the clay, carbonate and silica content of mudstone successions. Detection of variation in interbedded salt and mudstone/carbonate deposits. Generation of data for time - series analysis to determine if there are regular cycles in the rocks make a separate record of where each datum point was collected and any other constraints or observations. If the measurements are taken over a large - to medium - scale lateral grid, GPS or differential GPS can be used, but notes will be necessary for vertical grids and those of small spatial scale. The most easily accessible way to display a large amount of data and ensure that you do not miss anything is to construct a table with cells for each of the datum entries that you need (Figure  11.1 ).
+
+Numerical When collecting numerical data using an instrument consider: •   devising a systematic method so that you do not miss anything; •   whether the resolution of the data is appropriate for the aim of the ﬁ eldwork but also the limitations of the instrument; •   the most appropriate way to use the instrument depending on where the instrument obtains most of its signal from.
+
+The third point may sound obvious but an example would be the gamma - ray spectrometer which measures the gamma rays from a volume that is a ﬂ attened bell shape adjacent to the end Figure 11.1  Some examples of the recording of numerical data in a ﬁ eld notebook. (a) Gamma - ray spectrometer data from ﬁ ve sample points (stations), showing stratigraphic position, raw and processed data and electronic ﬁ le reference (pos). In this case gamma - ray spectrometer readings were taken every 30  cm (i.e. every third station, in order to match with the resolution of the instrument; other readings were taken every 10  cm). (b) Magnetic susceptibility data every 2.5  cm (whole - number stations are every 10  cm), background readings in air and two readings on the rock. This instrument measures continuously and integrates the data to provide a reading every 10 seconds. The small black circles represent readings given by the instrument as it is moved from rock to air. The recording of this as a point ensures that there is no mistake made between these meaningless measurements and the data required.  (Notebooks of Angela L.
+
+Coe, The Open University, UK.)
+
+(a)
+
+(b)
+
+Numerical of the detector (Figure  11.2 a). For a reading that characterizes a particular bed it is best to place the detector perpendicular to the bedding plane (Figure  11.2 b). However, to obtain a reading that is more comparable to a borehole record and which averages the stratigraphic variation, it is better to place the instrument perpendicular to the bedding (Figure  11.2 c). Figure
+
+## 11.2 d shows the proportion of signal lost by placing the
+
+detector on an uneven surface. This would result in a very inaccurate measurement.
+
+11.1.1  Instrument  c alibration and  b ase  s tations Instruments need to be checked and calibrated regularly before going out into the ﬁ eld. A further good practice is to set up a base station at a convenient location where a few readings can be taken each day on the same spot to check for, and to monitor, instrument drift. Not all  ‘ drift ’ is an artefact of the instrument, for example the strength of the Earth ’ s magnetic ﬁ eld ﬂ uctuates continuously (mainly diurnally but there are shorter - term changes too), and apparent gravity at any point varies because of tidal effects. These gravity variations can be calculated, but magnetic changes have to be measured. In practice there is no need to untangle either of these from the instrumental drift; repeat readings at the base station show the sum of both effects, which is all you need to know in order to derive a correction for the time of your survey. These base - station readings are also likely to reveal any problems with the instrument.
+
+11.1.2  Survey  g rids A crucial part of any geophysical survey is setting up an appropriate grid over which to take the measurements. The grid needs to consider the resolution of the instrument, the size and shape of the geological feature under investigation and/or the overall objective, type of terrain and time available. The resolution of the instrument is very important. It is not worth surveying every 10  cm if the resolution of the instrument is only 1  m. Likewise if the resolution of the instrument is only a few centimetres then the survey needs to be designed so that crucial data are not lost between measurement stations, unless of course the purpose is a regional study.
+
+Figure 11.2  (a) Three - dimensional representation of the bell - shaped volume (shown in red) over which the gamma - ray spectrometer measures.
+
+Two - dimensional representation of the area that the instrument will detect if used (b) parallel to the bedding plane, (c) perpendicular to bedding or (d)
+
+at an angle.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+detector detector detector detector
+
+Numerical If the area is unknown it might be useful to run a pilot study with a low - resolution grid ﬁ rst, followed by a higher resolution study over the area of interest. Care also needs to be taken to ensure that sufﬁ cient data are collected to delineate the edge of the geological feature under investigation.
+
+In all but exceptional circumstances the data should be collected at regularly spaced intervals so the mathematical processing that will need to be done later is easier. Maps, satellite images, GPS and/or surveying equipment should be used to set up large - scale grids. Small - scale grids and stratigraphic transects can be established using tapes, rules, a Jacob staff and compass (Section  2.5 ). Care should be taken to measure not only the distance between measurement stations but also the total distance between a number of measurement stations to check for cumulative error. For instance, if the measurements are taken every 10  cm check that the 1  m stations are correctly positioned relative to each other.
+
+## 11.2  Transport and  p rotection of
+
+the  i nstruments Some forethought needs to be applied to transporting electronic equipment in the ﬁ eld. Larger backpacks/rucksacks and/or one of the specially designed carrying cases may be necessary. However, some compromise between bulk and padding will need to be struck. All electronic equipment needs to be protected against rain and particularly saltwater.
+
+A large umbrella or mountain shelter tent can be useful under wet conditions. Carry spares of smaller items such as cables that are susceptible to damage. If you are carrying instruments to another country ensure you have documentation to indicate what the instrument is, what it will be used for and to whom it belongs. Custom regulations may need checking in advance and you may be required to demonstrate how the instrument works. Advance planning, and possibly permission, will be necessary for any instrument that under X - ray looks like a gun (as some detectors do) or contains radioactive material (e.g. gamma - ray spectrometer and portable XRF).
+
+## 11.3  Correlation with  o ther  d ata  s ets
+
+The geophysical data will often need to be correlated with geological and, in some cases, topographical data. This is best done when the measurement grid is set up. If appropriate to the size and type of survey, consider incorporating each data set into a Geographic Information System (GIS) that will allow appropriate display of each set of data and will let you look for
+
+Numerical correlations. The higher the resolution of the geophysical data set, the more difﬁ cult this can be, especially if the geological data set is neither accurate nor precise. In some cases it may be necessary to reﬁ ne or even re - collect the geological data. In new areas where there is little information a team of people can work together to produce an integrated data set. For high - resolution studies also see Section  13.1.7 .
+
+## 11.4  Further  r eading
+
+Keary ,  P. ,  Brooks ,  M. and  Hill ,  I.  2002 .  An Introduction to Geophysical Exploration ,  Blackwell Science , 272  pp. [Good basic text on geophysical techniques.]
+
+Judd ,  P. and  Brown ,  S.  2006 .  Getting to Grips with GPS, Navigation and Digital Mapping ,  Cordee , 176  pp.
+
+Milsom ,  J.  2002 .  Field Geophysics ,  Blackwell Science , 244 pp.
+
+Parasnis ,  D. S.  1996 .  Principles of Applied Geophysics ,  Springer - Verlag , 456  pp.
+
+Sherieff ,  R. E. and  Geldart ,  L. P.  1995 .  Exploration Seismology , Cambridge University Press , 628  pp.
+
+Telford ,  W. M. ,  Geldart ,  L. P. and  Sheriff ,  R. E.  1990 .  Applied Geophysics ,  Cambridge University Press , 792 pp.
+
+Weedon ,  G. P.  2003 .  Time - Series Analysis and Cyclostratigraphy: Examining Stratigraphic Records of Environmental Cycles , Cambridge University Press , 276  pp.
+
+Photography Photography Angela L.  Coe Photographs are a key part of most geological ﬁ eldwork. They can serve as an  aide memoire , be used for image analysis (Sections  5.4 and  5.5 ), to document changes in an exposure over time and are also essential to illustrate key geological features in a report, talk or publication. As outlined in Section
+
+## 4.3 it is very important in the ﬁ eld not only to take a
+
+photograph but also to make ﬁ eld notes and sketches, because a photograph is  not a replacement for a ﬁ eld sketch. A ﬁ eld sketch records how you have divided up the succession, provides a key to further notes and shows some geological interpretation. The photographs taken should be recorded in your ﬁ eld notebook and electronic information on the geological features and location added either through the camera or image processing software (Figure  12.1 ).
+
+The detailed advantages and disadvantages of the wide range of cameras available on the market are outside of the scope of this book, so here we provide some general comments. Digital single - lens reﬂ ex (SLR) cameras provide the most amount of ﬂ exibility for a range of lighting conditions and types of photograph; they also generally have better lenses. However, many compact cameras give excellent results and have the added advantage that they are small and light. As with Personal Digital Assistants (PDAs), etc. (Section  2.9 ), check if the screen is visible under strong lighting conditions. This is essential when the camera does not have a view ﬁ nder. If the camera does have a view ﬁ nder but is not an SLR, the view ﬁ nder does not usually give an exact representation of the frame of the photograph so you may need to work out exactly what that is if you wish to frame your subject exactly. Even with digital SLRs the view is not exactly the same. Cameras with good reviews for outdoor and scenic use will probably give the best geological ﬁ eld photographs. A good macro lens setting is advantageous if you are going to take a lot of close up photographs. In addition cameras that are sensitive to a wide range of lighting conditions allow maximum ﬂ exibility.
+
+There is almost no limit to the number of photographs you can take with a digital camera, provided that is you have enough Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Figure 12.1  Two photographs taken under slightly different f - stops to illustrate the effect of varying the camera settings. Images are 40  cm high. (a) f  6.3 and (b) f  4.5. The associated metadata that it is useful to include in an electronic ﬁ le are: camera type, shutter speed, f - stop, ISO setting, white balance (see Figure  12.2 ), focal length, date, time, place, subject, keywords.
+
+Some of this is recorded automatically and other parts such as the subject matter need to be added by the user.  (a and b: Angela L. Coe, The Open University, UK.)
+
+(a)
+
+(b)
+
+Photography memory and battery capacity for the camera. This means you can take many more photographs than you will eventually use.
+
+The following tips may help give you a set of photographs that cover all eventualities.
+
+•   Make the ﬁ rst photograph at a locality a general view; this will remind you of where the photographs that follow on were taken.
+
+•   Take both general views and close - up views of different features.
+
+•   Take note of the lighting conditions. The best view under sunny conditions is often with the sun behind you, so this may mean returning to a locality at a different time of day to get the best lighting. Cloudy conditions provide a more even light, but sunny conditions can show some geological features better.
+
+•   If the lighting conditions are poor or variable take several shots with different settings. Note that underexposed digital photographs can be processed later to achieve a good image whereas overexposed photographs do not record all of the information. In Figure  12.1 , (b) is better than (a).
+
+•   The lighting late in the day and early in the morning (i.e.
+
+low - angle lighting) can bring out small - and medium - scale topographical features such as trace fossils and sedimentary structures.
+
+•   If you are using the photograph for image analysis ensure that it does not have any edge distortion, for instance that produced by using a wide - angle setting, or taking photos with the lens set to 50  mm or longer focal length. You will also need to take account of white balance under different lighting conditions (see manufacturer ’ s instructions and Figure  12.2 ).
+
+•   Under low lighting conditions a tripod is useful; if you do not have a tripod with you try setting the camera up on a rock and using the self timer or a remote shutter release.
+
+•   If you are working where weather conditions are bad consider purchasing a waterproof camera case of the type used by divers for underwater photography.
+
+•   If you are taking a lot of photographs, for instance of shell beds or ﬁ ne - scale detail, take the photographs in stratigraphic order to avoid confusion and consider marking the rocks in some manner, for instance with a marker pen, correction ﬂ uid or a tile scribe, so you know how the different photographs relate to each other.
+
+Figure 12.2  Two images of grey mudstones from the Monterey Formation, California, USA showing the large colour difference when using a different white balance setting. Images are 1  m high. (a) Auto setting. (b) After using a white balance card to adjust the balance for the lighting conditions (seek advice from professional photographer/ photographic shop). All other camera light settings are exactly the same.  (a and b: Angela L.
+
+Coe, The Open University, UK.)
+
+(a)
+
+(b)
+
+Photography •   In most instances it is best if you stand perpendicular to the object being photographed.
+
+•   You can use the white pages of a notebook to reﬂ ect light into the shadowed portions of exposures, especially under overhangs.
+
+•   Include a scale or make a note of the size of the area being photographed. Depending on the subject of the photograph this could be anything from another person to a ruler, camera lens cap, coin or penknife. For small - scale photographs a ﬁ nger is also useful and one of the advantages of this is that you will not inadvertently leave it behind! Ideally with medium and small objects use a metric scale rather than an object such as a lens cap or coin because these have variable dimensions. In addition the scale should preferably be of a neutral colour (grey) so that it will not unduly affect photographic exposure.
+
+Alternatively draw a scale on the cover of your notebook with a bold marker pen.
+
+•   When taking a photograph of an area you have sketched consider including the ﬁ eld notebook page in one corner of one of the photographs as a means of cross referencing between the photographs and your ﬁ eld notebook (assuming the ﬁ eld of view is appropriate).
+
+•   Use a page of your ﬁ eld notebook to point out or label particular features (e.g. Figure  7.15 ) on the photograph.
+
+•   Assuming you are using a digital camera check, using the camera display screen, the exposure and as far as possible that the focus is OK before you leave the locality so that you can take another photograph if necessary.
+
+Remember to include a scale in every photograph and ensure that it is appropriate.
+
+A badly chosen scale or one that is not against the rock face can produce confusing results.
+
+Sampling Sampling Angela L.  Coe Sampling can be a crucial part of a ﬁ eld programme because the samples, your ﬁ eld notes and photographs are all that you will have when you return from the ﬁ eld. But all too often sampling is rushed either because it is the last task completed or because of the perceived need to cover a wide area within a short time and extract material that is easily accessible. It is, however, well worth spending some time collecting samples and recording exactly where they are from, especially if you are going to complete many hours of laboratory work on them.
+
+Once collected, samples are often used for purposes other than those for which they were originally intended. The key points to consider when taking samples are: •   What are the objectives and therefore how much and what type of sample is required?
+
+•   Is the sample representative?
+
+•   What does the sampling resolution need to be?
+
+•   Is the sample fresh and unweathered? (Unless of course the study is about weathering.)
+
+•   Does the sample need to be orientated?
+
+•   Do I have the appropriate tools for the job?
+
+•   Have I recorded exactly where the sample is from?
+
+•   Is there a record of how the samples were collected, for instance the tools used (to eliminate possible contamination) and stratigraphic precision?
+
+•   What are the conservation issues? Am I taking only what is necessary, have I got the necessary permission and have I considered the visual impact on the environment?
+
+## 13.1  Selecting and  l abelling  s amples
+
+The size and nature of the sample required depend on the type of analyses that need to be performed. The appropriate Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Sampling vertical and horizontal sampling interval will depend upon the purpose of the study. Secondary to this consider the following: lithological variations, deposition rate, proximity to suspected boundaries, suspected or known repetition, resources and ﬁ eld constraints. This section outlines the factors to be taken into account depending on the intended purpose of the samples.
+
+Care needs to be taken to avoid cross - contamination when selecting samples for geochemical analysis, mineral analysis, microfossils, molecular fossils and high - resolution studies.
+
+13.1.1  Samples for  t hin - s ections A sample of about 10  cm thick  ×  5  cm  ×  5  cm is usually sufﬁ cient for producing one or more thin - sections provided the rock is not too coarse - grained. If the rock is coarse - grained then a sample size that is appropriate to the grain size should be taken. The sample needs to be large enough to enable it to be clamped in the rock saw and care needs to be taken with sample position and shape if it needs to be orientated (see below). In deformed rocks it is useful to cut two or even three thin - sections at right angles to each other, so a slightly larger sample may be required.
+
+13.1.2  Orientated  s amples Younging  d irection and  a pproximately o rientated  s amples For sedimentary rocks the younging direction is often required and is usually recorded on the face perpendicular to bedding with an arrow. If the bedding orientation is not clear this may also need to be recorded so that the section can be cut perpendicular to the bedding. For igneous rocks the younging direction may need to be recorded for cumulates, pyroclastic rocks, and igneous rocks containing ﬂ ow features and vesicles.
+
+For samples from metamorphic rocks it is also often necessary to record the top surface because of the need to obtain thin - sections in a particular orientation relative to the structural fabric(s). A more precise method of orientating samples is provided below.
+
+Precisely  o rientated  s amples Some samples need to be precisely orientated in the ﬁ eld so that this can be taken into account during later processing (Figure  13.1 , p.  252). This includes samples for palaeomagnetism studies and some samples for more precise metamorphic and structural analysis. To do this, ﬁ nd a piece of rock on the exposure that is going to be easily extractable, or if the rocks fracture in a manner that is suitable, extract the rock sample and then ﬁ t it back into place exactly. Using a compass -
+
+Sampling clinometer mark the rock exactly with the line of strike, direction of dip and either the way up (Figure  13.1 ) or the top.
+
+Take note of the dip and strike. Orientated samples can also be obtained with a drill used for palaeomagnetic studies. This is a diamond - tipped tube of about 2  cm diameter. Samples are obtained by drilling the rock to obtain a cylinder of rock that is still attached at the back. This cylinder is then orientated using a modiﬁ ed compass - clinometer and wire to mark the core before it is extracted.
+
+Figure 13.1  Orientated sample with combined strike line and direction of dip on the top surface and the sample number (H01) and way up (arrow) on the side. In this case part of the limestone that is fractured but nevertheless still intact and orientated has been chosen.
+
+Carboniferous strata, Rumbling Kern, Northumberland, UK.  (a and b: Angela L. Coe, The Open University, UK.)
+
+(a)
+
+(b)
+
+Sampling 13.1.3  Samples for  g eochemical  a nalysis A 200  g sample is usually sufﬁ cient for a range of major and minor element, trace element and isotopic analyses, except for very coarse - grained or heterogeneous rocks, where about 1  kg may be required. Particular care needs to be taken to ensure that the sample is fresh. This might mean that weathered material needs to be removed ﬁ rst. If possible it is better to remove the weathered material in the ﬁ eld to ensure that what you take back is a fresh sample, and also because it is easier to allow for the extent of the weathering in the ﬁ eld.
+
+Colour changes are a good indication of weathering, but also the fracture pattern and hardness of the rock tend to change. In addition some rocks contain minerals that are the product of weathering (e.g. weathered mudstones often develop gypsum crystals). Some caution may also need to be exercised if the sample is being analysed for metal isotopes in order to avoid contamination from metal chisels and hammers.
+
+13.1.4  Samples for  m ineral  e xtraction The amount of sample that needs to be collected for mineral analysis depends on the minerals to be extracted and the composition of the rock. For heavy minerals such as zircon that are present only in low abundance, 1 – 2  kg of rock may be required. For volcanic glass and feldspars for  40 Ar – 39 Ar and K – Ar dating, generally at least 1  kg of rock is required. For pyroclastic and sedimentary rocks it is particularly important to collect from the base of the bed as the coarser - grained minerals that are more easily picked out will be most abundant there.
+
+13.1.5  Samples for  f ossils Samples for megafossil analysis:  Megafossil samples and their supporting rock material tend to be large. They are best wrapped in paper. If they are fragile or the rock needs to dry out slowly, wrap them in cling ﬁ lm/plastic food wrap and then paper. They commonly have commercial value and therefore special permission may be needed to remove and/ or ship them out of the locality or country where they were collected. Important specimens should be donated to a museum after analysis and their sample (or museum acquisition) number referred to in any subsequent publication.
+
+Samples for microfossil analysis:  The size of samples for microfossil analysis depends on the likely abundance of fossils within the sample. For an average abundance of foraminifers 200  g should be sufﬁ cient; for nanofossils and
+
+Sampling diatoms a small 10  g sample is ample. For palynology samples of 0.5 – 1  kg are required.
+
+Samples for molecular fossils:  Very small samples are required for molecular fossils but the sample needs to be large enough (2 – 5  g) to avoid contamination. The samples should be packaged in metal foil or glass or polythene bags of known composition. In addition care needs to be taken not to cross - contaminate samples by carefully cleaning the sampling instruments between each sample.
+
+13.1.6  Sampling for  r egional  s tudies Regional and low - resolution studies require samples that are representative of the whole area. In addition samples should be collected from units that need laboratory analysis because their composition is enigmatic. It is difﬁ cult to generalize here though, as the sampling strategy will need to be adapted according to the hypothesis being tested. Collecting a sample from each of the main lithostratigraphic units is probably a good place to start. If the region is fairly monolithic (for instance a large igneous province) then take regularly spaced samples that are spatially separated both horizontally and vertically, in addition to other key features such as potential feeder dykes. Other samples that are worth considering are a set to test for compositional variation across an igneous body, representative fossils, tectonic contacts, representative samples from metamorphic zones and representative samples from a set of dykes.
+
+13.1.7  High - r esolution  s ample  s ets High - resolution sampling requires great care and patience. A logical means of labelling the samples/sample positions will need to be devised. In any situation where closely spaced samples are required it is best to mark the exposure clearly ﬁ rst with a scale (Figure  13.2 ) and, if irregularly spaced samples are required, mark where the samples will be taken from. The exposure can then be photographed as a permanent record before extracting the samples. Marking up the section can be done with a tile scribe, a marker pen, paint or paper correction Figure 13.2  Marked sections ready for sampling. Lower Jurassic, Yorkshire, UK. (a) One stratigraphic metre of rock marked every 1  cm.
+
+(b) Detail section showing marks every 1  cm made with a tile scribe and correction ﬂ uid. Note in this case the letter  ‘ m ’ indicates minus as the marks are below the zero reference datum shown in (a). (c) Marking sections on both sides of a corner can be helpful when putting the section back together.  (a – c: Christopher Pearce, The Open University, UK.)
+
+(a)
+
+(b)
+
+(c)
+
+Sampling ﬂ uid according to what is appropriate and shows up clearly on the rock (Section  13.2.1 ). An alternative method, provided that there are no conservation issues, is to accurately mark up and then to extract a large sample or set of samples and then to subsample it back in the laboratory. Overlapping and/or duplicate samples according to the aims of the project may be required (Figure  5.8 ). Figure  13.2 shows part of a sedimentary section marked ready for sampling. A corner section has been selected for ease of extraction and a centimetre scale has been marked using both a tile scribe and correction ﬂ uid. The tile scribe has been used as this creates a thin but permanent mark that is retained after packaging and transportation, and the correction ﬂ uid has been used as it makes the scribe marks easier to identify in photographs and a quick glance.
+
+Contamination is an issue for high - resolution sample sets.
+
+Depending on the nature of the exposure it might be best to sample from the bottom up in order to avoid material falling onto the part which is yet to be sampled. In addition the tools used to collect the samples need to be cleaned carefully. An effective means of sampling sedimentary or other softish rocks where rock powders are required for chemical analysis is to mark the rock and then to drill it with a masonry drill bit of between 10 to 15  mm diameter, collecting the powder in a bag held under the drill bit as the rock is drilled. Care needs to be taken to clean the drill bit in between samples to ensure that there is no cross - contamination. This method is not appropriate for samples that will be analysed for metal isotopes because of possible contamination from the close contact of the drill bit.
+
+Very soft sedimentary deposits, particularly those with a high water content, can be sampled with a knife by cutting out the required samples. Drills designed for palaeomagnetism studies that extract small cores of about 2  cm diameter can be used to obtain small high - resolution samples of harder rocks.
+
+In some cases samples of the whole bed or set of beds are required. In this case it is best to extract large samples that overlap stratigraphically. A suitable section should be found for extraction and the rocks marked before extraction with either hammer and chisels or a disc rock saw. Do not forget to obtain permission if you are extracting large samples or if there are conservation issues.
+
+13.1.8  Labelling  s amples and  t heir  p ackaging It is worth spending some time devising a suitable labelling scheme for your samples. There are a variety of possibilities depending on the purpose of the study. For regional studies the locality number or an abbreviation of the name and then sample number at that locality is often used, e.g. 24/3 or FB/3, but an alternative way is to use the national grid square and Collecting contiguous orientated samples of friable sedimentary deposits such as coals and mudstones can be difﬁ cult as they can easily break during transport. A quick way of keeping them intact is to wrap the samples in stretchable self - adhering plastic material such as  ‘ cling ﬁ lm/ shrink wrap ’ .
+
+Sampling then a sample number. The advantage of this is that the sample number gives an immediate indication of where it is from without the need to look at the ﬁ eld notes. Another possibility is to include the date or part of the date in the sample number to allow you to easily ﬁ nd the associated ﬁ eld notes. For higher resolution studies where hundreds of samples are being collected a different strategy is often required. If the samples are at particular stratigraphic heights it can be useful to incorporate the height into the sample number. This makes handling of the numbers easier in spreadsheets at a later stage.
+
+An abbreviation for the age of the sample, e.g. S for Silurian, or for the lithostratigraphic name, e.g. BS for Burgess Shale, are other possibilities to consider including.
+
+On the sample itself, provided it is large enough and there is not going to be a contamination issue, it is useful to record the sample number and, if applicable, the way up and/or orientation. On the sample bag or outside of the packing material itself it is useful to record the following as appropriate: •   sample number; •   cross reference to ﬁ eld notebook page and/or date collected; •   location; •   whether or not the sample is orientated; •   rock type; •   associated samples.
+
+## 13.2  Practical  a dvice
+
+13.2.1  Packing and  m arking  m aterials •   Cling ﬁ lm/shrink wrap:  This is very useful for fragile specimens such as fossils and mudstones. As well as the obvious advantage of helping to hold the specimen together the ﬁ lm also retains the moisture in the sample, allowing it to be dried out under controlled conditions.
+
+•   Paper:  This is useful to help protect delicate specimens and for packing. It should not be used in direct contact with the rocks if the samples are also to be used for geochemical analysis, particularly organic carbon analyses.
+
+•   Polythene sample bags:  It is good practice to put each sample into a new bag to avoid cross - contamination. Most
+
+Sampling bags come with write - on labels available from a variety of suppliers. Check for rocks with sharp edges because they tend to split the bag. If the rock has sharp edges either round them by gently tapping them using the square end of your hammer or carefully place the rock in a bag and wrap over this with paper.
+
+•   Aluminium foil:  This is useful for holding together very fragile specimens such as mudstones. Wrap the foil around the specimen immediately after extraction in a systematic manner so that you are able to remove it sequentially in the laboratory. Aluminium foil is best avoided if the samples will be stored for any length of time as salts from the rock tend to corrode the foil.
+
+•   Glue:  A strong glue suitable for metal or wood can be used for sticking samples together. If you need to protect fragile specimens such as shelly material within mudstone or vertebrate teeth before shipping or transporting them back, soak the sample for several hours in a 50:50 mixture of PVA glue and water. Then allow the specimen to dry.
+
+•   Marker pens:  Permanent marker pens provide a distinct label. Note that wet, dusty or ﬁ ne - grained dark coloured rocks can be difﬁ cult to mark. It is worth carrying several markers into the ﬁ eld because they tend to wear out quickly.
+
+13.2.2  Extraction of  s amples Different rocks break in different ways, but skill and experience enable the geologist to obtain the best samples. It is worth spending some time working out where to extract the best sample. Look for somewhere that is safe and easy to access and where there is a piece jutting out that might easily be removed.
+
+You should also consider the impact of extraction on the environment and preferably choose a location that will not be obvious. If you need just a small sample, tapping off the edge of the bed with the ﬂ at end of the hammer usually works. If you need a larger sample look for areas where there is already a line of weakness such as a bedding plane or joint. This can often be widened and the rock weakened by hammering a cold chisel into the joint or bedding plane and then using leverage to extract the rock. For most fossils the rocks will need to be split along the bedding plane. Some samples are hard to extract and it may take a lot of forceful blows with the hammer over time to weaken the rock. If you need a speciﬁ c piece then use a chisel and work carefully around the sample. You should chisel far enough away from the speciﬁ c area that you need because there will always be some material lost close to where Specimens of ﬁ ne - grained rocks (mudstones and siltstones) are often easier to mark up with a tile scribe and/or paper correction ﬂ uid because marker pen ink often tends to be absorbed into the rock.
+
+Sampling you chisel. When you have extracted the sample trim off any sharp corners. If you are extracting samples that need a way up it is a good idea to mark the way up ﬁ rst before you hammer it off just in case it is not possible to reorientate the sample after extraction.
+
+Conclusions Concluding r emarks Angela L.  Coe In conclusion, the following list summarizes the different stages for geological ﬁ eldwork. It covers the preparation, ﬁ eldwork period and some notes on what to do after the ﬁ eldwork.
+
+Before  g oing into the  ﬁ eld
+
+## 1.  Be clear on the objective(s) of the ﬁ eldwork
+
+## 2.  Consult published and other information available
+
+including relevant web material and other researchers who have visited the area to gain a general overview.
+
+## 3.  If required, obtain permission to visit the site and sample
+
+## 4.  Fill in health and safety forms, get ﬁ rst aid training, etc., as
+
+required.
+
+## 5.  Put together the necessary ﬁ eld equipment (Tables  2.1 – 2.3 ,
+
+pp.  4 and 6).
+
+In the  ﬁ eld
+
+## 6.  Choose the best exposure(s) for the objective(s) of the
+
+ﬁ eldwork.
+
+## 7.  Have at least one clear aim every day
+
+## 8.  Check for, and monitor, hazards
+
+## 9.  Collect data, samples, etc. and start to formulate
+
+interpretations. Use your hard copy or electronic notebook to keep the main record of your data, sample positions, reference to other materials with ﬁ eld data such as maps, thinking and planning (Table  14.1 ).
+
+## 10.  Collect any samples that are needed responsibly and
+
+discreetly.
+
+## 11.  At the end of each day review the work that you have
+
+completed and amend the list of further ﬁ eldwork tasks and aims as required.
+
+## 12.  If possible allow time to double check any discrepancies
+
+Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
+
+Table 14.1  Summary of information to consider recording in your ﬁ eld notebook.
+
+Field notebook information Name and contact details Table of contents Useful information Date, day Locality Sketch map of locality Sketch(es) to show the relationship between the units Sketch(es) of individual features Data and observations Reference to ﬁ eld maps, maps, literature Preliminary interpretation(s)
+
+Any questions To do lists Photographs taken List of samples
+
+Conclusions On  r eturn from the  ﬁ eld
+
+## 13.  Curate and store samples as required (for instance
+
+mudstones and some fossils may need to be stored in cold conditions).
+
+## 14.  Check ﬁ eld notes and tidy up any loose ends
+
+## 15.  Discuss data and interpretation with colleagues and other
+
+experts. Seek further help where required, for instance by visiting museums to compare fossils you have found with the type specimens, or by analysing the rocks in comparison with other known specimens.
+
+## 16.  Analyse data and samples
+
+## 17.  Write up the work, for instance as a report or scientiﬁ
+
+paper. There are several books available on scientiﬁ c report writing and these may be of help. Some of these are listed in the further reading.
+
+## 14.1  Further  r eading on  s cientiﬁ
+
+r eport  w riting Day ,  R. A. and  Gastel ,  B.  2006 .  How to Write and Publish a Scientiﬁ c Paper ( 6th edition ),  Cambridge University Press , 320  pp. [Long running popular book on structuring a paper, language style, ethics, choosing a journal as well as writing popular science articles.]
+
+Tredinnick ,  M.  2008 .  Writing Well: The Essential Guide ,  Cambridge University Press , 251  pp. [Guide to effective professional prose as well as creative writing.]
+
+References Alexander ,  J.  1992 .  Nature and origin of a laterally extensive alluvial sandstone body in the Middle Jurassic Scalby Formation ,  Journal of the Geological Society, London ,  149 ,  431 – 441 .
+
+Arkell ,  W. J.  1936 .  The Corallian Beds of Dorset .  Proceedings of the Dorset Natural History and Archaeological Society ,  57 ,  59 – 93 .
+
+Arkell ,  W. J.  1936a .  The ammonite zones of the Upper Oxfordian, and the horizons of the Sowerby ’ s and Buckman ’ s types ,  Quarterly Journal of the Geological Society of London ,  92 ,  146 – 187 .
+
+Arkell ,  W. J.  1947 .  The Geology of the Country Around Weymouth, Swanage, Corfe and Lulworth ,  Memoirs of the Geological Survey of Great Britain , 386  pp.
+
+Billings ,  M. P.  1972 .  Structural Geology ,  Prentice Hall , 606  pp.
+
+Boggs ,  S.  1992 .  Petrology of Sedimentary Rocks ,  Prentice Hall .
+
+Catuneanu ,  O.  2006 .  Principals of Sequence Stratigraphy ,  Elsevier , 375  pp.
+
+Coe ,  A. L.  1995 .  A comparison of the Oxfordian successions of Dorset, Oxfordshire and Yorkshire . In:  Taylor ,  P. D. (ed.)  Field Geology of the British Jurassic , Special Report,  Geological Society ,  London , pp.  151 – 172.
+
+Coe ,  A. L.  1996 .  Unconformities within the Portlandian Stage of the Wessex Basin and their sequence stratigraphical signiﬁ cance . In: Hesselbo ,  S. P. and  Parkinson ,  D. N. (eds)  Sequence Stratigraphy in British Geology , Special Publication 103,  Geological Society , London , pp.  109 – 143 .
+
+Coe ,  A. L.  2003 .  The Sedimentary Record of Sea - level Change , Cambridge University Press and The Open University , 287  pp.
+
+Dunham ,  R. J.  1962 .  Classiﬁ cation of sedimentary rocks according to depositional texture . In:  Ham ,  W.E. (ed.)  Classiﬁ cation of Carbonate Rocks , Memoir 1,  American Association of Petroleum Geologists , Tulsa , pp.  108 – 121.
+
+Embry ,  A. F. and  Klovan ,  J. E.  1971 .  A late Devonian reef tract on the northeastern Banks Island, Northwest Territories ,  Bulletin of the Canadian Petroleum Geologists ,  19 ,  730 – 781 .
+
+Emery ,  D. and  Myers ,  K. J.  1996 .  Sequence Stratigraphy ,  Blackwell , 297  pp.
+
+Fleuty ,  M. J.  1964 .  The description of folds .  Proceedings of the Geologists’ Association ,  London ,  75 ,  461 – 489 .
+
+Folk ,  R. L.  1962 .  Spectral subdivisions of limestones types . In:  Ham , W. E. (ed.)  Classiﬁ cation of Carbonate Rocks ,  Memoir of the American Association of Petroleum Geologists ,  62 – 84 .
+
+Goldring ,  R.  1991 .  Fossils in the Field: Information Potential and Analysis ,  Longman and John Wiley & Sons , 218  pp.
+
+International Code of Botanical Nomenclature ,  http://www.bgbm.org/ iapt/nomenclature/code/SaintLouis/0001ICSLContents.htm International Code of Zoological Nomenclature ,  http://www.iczn.org/ iczn/index.jsp Kidd ,  R. G. W. and  Cann ,  J. R.  1974 .  Chilling statistics indicate an ocean - ﬂ oor spreading origin for the Troodos complex, Cyprus ,  Earth and Planetary Science Letters ,  24 ,  151 – 155 .
+
+References King ,  J. A.  2007 .  Crustal Melting Beneath Southern Tibet , PhD thesis, The Open University.
+
+Lippard ,  S. J. ,  Shelton ,  A. W. and  Gass ,  I. G.  1986 .  The Ophiolite of Northern Oman ,  Geological Society ,  London , Memoir 11, Blackwell Scientiﬁ c Publications,  178 pp.
+
+Macleod ,  C. J. and  Rothery ,  D. A.  1992 .  Ridge axial segmentation in the Oman ophiolite: Evidence from along - strike variations in the sheeted dyke complex . In:  Parson ,  L. M. ,  Murton ,  B. J. and Browning ,  P. (eds),  Ophiolites and their Modern Oceanic Analogues , Special Publication 60, Geological Society ,  London , pp.  39 – 63 .
+
+McClay ,  K. R.  1991 .  The Mapping of Geological Structures .  John Wiley & Sons , 168  pp.
+
+Nichols ,  G.  1999 .  Sedimentology and Stratigraphy ,  Blackwell Science , 355  pp.
+
+Park ,  R. G.  1989 .  Foundations of Structural Geology ,  Routledge , 148  pp.
+
+Pettijohn ,  F. J. ,  Potter ,  P. E. and  Siever ,  R.  1973 .  Sand and  Sandstone , Springer - Verlag , 617  pp.
+
+Ragan ,  D.  2009 .  Structural Geology: An Introduction to Geometrical Techniques ,  Cambridge University Press , 624  pp.
+
+Ramsay ,  J. G. and  Huber ,  M. I.  1984 .  The Techniques of Modern Structural Geology Volume 1: Strain Analysis ,  Academic Press , 307  pp.
+
+Rothery ,  D. A.  1983 .  The base of a sheeted dyke complex, Oman ophiolite: Implications for magma chambers at oceanic spreading axes ,  Journal of the Geological Society, London ,  140 ,  287 – 296 .
+
+Sibson ,  R. H.  1977 .  Fault rocks and fault mechanisms .  Journal of the Geological Society  133 ( 3 ),  191 – 213 .
+
+Spicer ,  R. A. and  Hill ,  C. R.  1979 .  Principal components and correspondence analysis of quantitative data from a Jurassic plant bed ,  Review of Palaeobotany and Palynology ,  28 ,  273 – 299 .
+
+Stow ,  D. A. V.  2005 .  Sedimentary Rocks in the Field ,  Manson Publishing .
+
+Watts ,  D. R. ,  Harris ,  N. B. W. and the 2002 NASA GLENN SOARS Working Group.  2005 .  Mapping granite and gneiss in domes along the North Himalayan antiform with ASTER SWIR band ratios , Geological Society of America Bulletin ,  117 ( 7 – 8 ),  879 – 886 .
+
+Wiseman ,  J.  1993 .  SAS Survival Guide ,  Collins , 384  pp.
+
+General (A1)
+
+## Appendix A1: General
+
+A metal hand lens provides an excellent surface to test for quartz. Simply scratch the rock across the lens surface: if it leaves a scratch on the steel it is likely to contain quartz. Note: For sedimentary rocks it is diagnostic of quartz, but in crystalline rocks a few other minerals will also scratch the steel.
+
+Figure A1.1  Chart to estimate percentage composition from area.
+
+Table A1.1  Mohs ’ scale of hardness.
+
+Mohs ’ hardness Reference mineral Non - mineral example Talc
+
+Gypsum
+
+(2.5)
+
+– Fingernail Calcite
+
+(3.5)
+
+Copper coin * Fluorite
+
+Apatite
+
+(5.5)
+
+– Window glass Feldspar
+
+(6.5)
+
+– Hardened steel (e.g. knife blade)
+
+Quartz
+
+Topaz
+
+Corundum
+
+Diamond
+
+* Note that many modern copper coins are actually copper coated steel and are therefore harder.
+
+General (A1)
+
+Table A1.3  Natural sines for conversion of horizontal measurements to true thickness (see Section  2.5.1 ).
+
+Degrees Natural sine 0.017 0.035 0.052 0.07 0.087 0.174 0.259 0.342 0.422 0.5 0.574 0.643 0.707 0.766 0.82 0.866 0.906 0.94 0.966 0.985 0.996
+
+Geological timescale An up - to - date geological timescale, information on boundaries, links to International Stratigraphic Subcommission websites and a program to compile your own timescale (Timescale creator) is available from the website of the Subcommission for Stratigraphic Information. A link is provided from the website that accompanies this book (www.wiley.com/go/coe/geology).
+
+Table A1.2  Metric to Imperial length conversion chart.
+
+Metric/SI Imperial/USA
+
+## 2.054  ×  10  − 2
+
+1 inch
+
+## 0.3048
+
+1 foot
+
+## 0.9144
+
+1 yard
+
+## 1.0609  ×  10 3
+
+1 mile
+
+Fossils (A5)
+
+## Appendix A5: Fossils
+
+Table A5.1  Modes of fossil preservation.
+
+Mode of preservation Explanation Examples Preservation of the original material (duripartic)
+
+Due either to the chemical composition of the original material, and/or to special characteristics of the depositional environment. Original characteristics are well preserved and can be used for a range of geochemical environmental proxies Natural mummiﬁ cation (Figure  5.3 a); insects in amber Chemical alteration of the fossil: permineralization Cell walls of the original organism remain more or less unaltered Ammonites with their original aragonitic shell petrifaction All the original material is replaced by minerals. Several phases of mineralization may be present Figure  5.3 b Casts and moulds Mould refers to the sedimentary deposits that show the internal or external form of the fossil after the soft parts have decayed. Cast refers to fossils where the hard parts (e.g. shell) have been replaced.
+
+Figures  A5.2 ,  5.3 c,  5.6 Impressions Two - dimensional remains of where a fossil has been in contact with the rock. The term impression is also given to a leaf fossil where the organic remains have been oxidized away leaving only a ‘ mould ’ of the original leaf surface.
+
+Figure  5.3 d
+
+Fossils (A5)
+
+Figure A5.1  A simple scheme for the identiﬁ cation of invertebrate fossils based on symmetry.
+
+(valves)
+
+(radial septa)
+
+Plane of symmetry cuts through both valves (few exceptions)
+
+(trilobed body with head-shield, trunk and tailpiece How many skeletal elements?
+
+Many Two One Yes No Yes No Bilateral symmetry of a row of transverse elements Five-fold symmetry around central axis; may be secondarily modified Is the open end of the shell subdivided by radial walls?
+
+Arms and stalk; usually attached to sediment No arms or stalk free-living Plane of symmetry passes between valves (some common exceptions)
+
+Is there any shelly evidence for the body not having occupied all of the shell interior (e.g.
+
+in internal moulds)?
+
+(septa with complex sutures; shell also usually coiled in one plane)
+
+(shell usually coiled asymmetrically into a cone- shaped spiral)
+
+Ammonoid Gastropod Bivalve Trilobite Echinoid Crinoid Brachiopod Coral
+
+Fossils (A5)
+
+Figure A5.2  Diagram illustrating the formation of moulds and casts using a bivalve as an example.
+
+shell sediment original shell external mould internal mould external mould cast cavity inside shell burial dissolution of shell producing cavity dissolution cavity filled by cement sediment partially filling cavity
+
+Fossils (A5)
+
+Figure A5.3  Illustrations of some common trace fossils.  ((a) – (j) Angela L. Coe, The Open University, UK.
+
+Except (f) plan view; Fiona Hyden, Open University Associate Lecturer, UK.)
+
+(a) plan view 10 cm (c) plan view w eiv n alp w eiv n alp )f( w eiv n alp )
+
+e ( (d) plan view (b) cross-section 1 cm 10 cm 10 cm 10 cm 1 cm 1 cm s e tir n o h C s e o n s s a a h T Rhizocorallium Muensteria a n a iz u r C s o y h p o o Z
+
+Fossils (A5)
+
+(g) cross-section 1 cm (h) plan view w eiv n alp )j( w eiv n alp )i( cross-section plan view 1 cm 1 cm 1 m 1 cm 1 cm Diplocraterion Teichichnus Dinosaur footprints Boring made by gastropod Figure A5.3 Continued
+
+Fossils (A5)
+
+Table A5.2  There has been a plethora of categories for classifying trace fossils. One such classiﬁ cation is based on the interpretation of what the animal was doing. Note that many of these are not mutually exclusive.
+
+Category Explanation Examples Grazing ( Pascichnia )
+
+Traces left as an organism moves over a sediment surface. The substrate may be either soft or hard. Often movement over a surface is associated with feeding as well as locomotion Nereites, Spirorhaphe Feeding ( Fodinichnia )
+
+These traces are left as organisms move through sediment as they feed. They are usually three dimensional Chondrites, Muensteria, Teichichnus, Rhizocorallium, Zoophycos Dwelling ( Domichnia )
+
+Structures resulting from an organism ’ s living space Thalassinoides ,  Ophiomorpha , Diplocraterion (also  Fodinichnia )
+
+Resting ( Cubichnia )
+
+Formed by the impression of an organism in soft sediment Rusophycus ,  Asteriacites Moving ( Repichnia )
+
+Formed by normal locomotion as distinct from feeding Cruziana Predation ( Praedichnia )
+
+Predatory traces such as drill holes in shells or bite marks Entobia ,  Gastrochaenolites , Trypanites Gardening ( Agrichnia )
+
+Formed as organisms create (usually complex) burrows or structures to capture or cultivate other organisms such as bacteria or fungi for food Paleodictyon
+
+Fossils (A5)
+
+Figure A5.4  Examples of tiering of burrows and their implications. (Modiﬁ ed after Goldring 1991.)
+
+Observations t n e n o ri n E s n o it a p I e p a E Single colonization with clearly visible primary structures Initial colonization of, for example, an event bed by a low diversity biota Most likely an unstable high sedimentation rate environment, e.g.
+
+estuarine Successive colonization without an increase in biotic diversity Gradual/moderate sedimentation in stressed environments Possibly longer intervals between events than in examples 1 or 3 but with low diversity biota Simple tiering by increasingly diverse biota A wide range of environments associated with event beds Moderate sedimentation rates, but perhaps longer intervals between events than in example 1 Complex tiering Gradual aggradation Stable environment with low sedimentation rates Gradual overlap Low sedimentation Gradual environmental change Omission and possible truncation of burrows Sudden facies change, perhaps with the development of a firmground or even hardground Period of non-deposition and condensation
+
+Fossils (A5)
+
+Figure A5.5  Biostratigraphically useful groups of organisms. The thick part of the line indicates the interval where the fossil group is used most extensively.  (Modiﬁ ed after Nichols 1999 and Emery and Myers 1996.)
+
+spores
+
+## MICROFOSSILS
+
+Charophyta gymnosperm pollen angiosperm pollen ostracods benthic forams dasycladacean algae Rhodophyta algae codiacean algae conodonts chitinozoans acritarchs radiolarians dinoflagellates nanofossils planktonic forams calpionellids silicoflagellates diatoms corals
+
+## MEGAFOSSILS
+
+brachiopods bivalves gastropods ammonoids trilobites echinoderms graptolites
+
+## TERRESTRIAL/
+
+## FLUVIAL/LACUSTRINE
+
+## MARINE
+
+## BENTHIC
+
+## PLANKTONIC
+
+* * * * Carboniferous Devonian Silurian Ordovician Cambrian Permian Triassic Jurassic Cretaceous Cainozoic * Freshwater ostracods, brackish water charophytes, benthic and freshwater diatoms and benthic conodonts also exist.
+
+Figure A5.6  The common zonation schemes used in biostratigraphical correlation.  (Modiﬁ ed after Nichols 1999.)
+
+strati- graphical column total range biozone consecutive range biozone assemblage biozone acme biozone last appearance rare (speciation event)
+
+abundant first appearance sand boundaries of example zone partial range biozone rare (speciation event)
+
+clay
+
+Sedimentary (A6)
+
+## Appendix A6: Sedimentary
+
+All of the following descriptors and some of the classiﬁ cation charts are applicable to both sediments (i.e. unconsolidated sediments) and sedimentary rocks (consolidated sediments).
+
+Table A6.1  Checklist for the description of sedimentary deposits.
+
+Property Questions Composition Grains What is the composition of the most abundant grains?
+
+Matrix Is there any ﬁ ne - grained (clay - sized) fragmentary material inﬁ lling the spaces between larger grains? If so, what is it?
+
+Cement Is there any crystalline material precipitated around the edges of grains, or in the spaces between grains? If so, what is it?
+
+Texture Grain size What is the most abundant grain size present (use a grain - size card and Figure  A6.1 )?
+
+Grain sorting Are the grains all more or less of the same size (i.e. well - sorted) or different sizes (i.e. poorly sorted) or somewhere in between (use the sorting scale; Figure  A6.2 )?
+
+Grain morphology: See Figure  A6.3 shape or form Are the grains long and thin or equidimensional?
+
+roundness Do the grains have rounded or angular corners (use roundness scale)?
+
+sphericity Are the grains like spheres (i.e. high sphericity) or are they elongate (low sphericity)?
+
+Grain surface texture Are any quartz grains present smooth and glassy, or are they frosted?
+
+Grain fabric (packing)
+
+Are the grains orientated in any preferred direction? Are the grains closely packed together? Are the grains matrix - or grain - supported?
+
+(See Figure  A6.4 )
+
+Fossils
+
+Can you see the remains of any body fossils or their movements (trace fossils)?
+
+Sedimentary structures
+
+Are there any obvious layers or other structures in the rocks? (See Figures A6.5 – A6.7)
+
+Sedimentary (A6)
+
+Table A6.2  Features of common minerals that constitute sedimentary deposits.
+
+Mineral Chemical formula and name Colour in hand specimen Cleavage Other features in hand specimen Form and occurrence Quartz SiO 2  (silica)
+
+Translucent None Will scratch steel Common detrital grain, also a cement Clay minerals Various hydrous aluminosilicates Typically grey, green or red Planar or none Fine - grained
+
+Calcite (sparite and micrite) * CaCO 3  (calcium carbonate)
+
+Translucent or white; variety of pale colours due to impurities Rhombic Scratched by steel; fresh surfaces ﬁ zz with acid Forms grains, matrix and cement in limestones, dolomites and sandstones Aragonite CaCO 3  (calcium carbonate)
+
+White with a pearly iridescence Rectilinear Original aragonitic bioclasts are often preserved in marine mudrocks Dolomite CaMg(CO 3 ) 2 (calcium magnesium carbonate)
+
+Buff, cream Rhombic Fizzes with warm acid and very weakly with cold acid Feldspar Various including K(Na)AlSi 3 O 8 (orthoclase) and Na(Ca) AlSi 3 O 8 (albite)
+
+Transluscent or pink or white Present Scratched by steel; weathers to white, powdery clay minerals Detrital crystals Glauconite KMg(Fe,Al)
+
+(SiO 3 ) 6 .3H 2 O Green Planar Soft; weathers to the iron oxide limonite Ooids, mud and peloids; forms exclusively in marine environments Iron oxide Various including Fe 2 O 3 (haematite)
+
+and H 2 Fe 2 O 4 (H 2 O) x (limonite)
+
+Red (haematite)
+
+or yellow - brown (limonite) or green None Often more apparent on weathered surfaces Crystals, grains, cements and as replacements * See note on p. 276 about distinguishing between micrite and sparite.
+
+Sedimentary (A6)
+
+Table A6.3  Types of common coals and their depositional environment.
+
+Coal type Components Environment Dull and bright, brittle, crystalline clarain, vitrain Woody Lush, well vegetated, mature plants Dull, waxy conchoidal, cannel Wind blown spores, resin, cuticles, algae Open water, lagoons, pools in forest/mire Dirty, crumbly, soft, fusain Charcoal Burnt vegetation, dry weather conditions, e.g. present - day Borneo in an El Ni ñ o year Dirty, heavy High ash, clay minerals Forest, mire, raised bog, dirty windy conditions, high muddy water level, seasonal rainfall changes, tropical/ temperate climate Pyrite High sulfur Forest/mire/swamp, coastal estuarine, marginal marine No pyrite Low or no sulfur Inland forest, mire, raised bog Table A6.4  Ripples are common in the sedimentary record. This table indicates how to distinguish current - formed ripples diagnostic of linear ﬂ uid ﬂ ow from wave - formed ripples diagnostic of the orbital motion of waves produced by wind blowing over standing bodies of water.
+
+Wave - formed ripples Current - formed ripples Proﬁ le Individual ripples are symmetrical Individual ripples are asymmetrical Ridges tend to have a sharp top Ridges are gently rounded Laminations within the ripple dip in opposing directions Laminations within the ripple dip in the same direction Ripple index (wavelength/ height)  =  6 – 10 Ripple index (wavelength/height)  =  8 – 20 Plan view Crests are sinuous and bifurcate Crests are straight or curved Possible associated structures that are unique to either wave or current processes Hummocky cross - stratiﬁ cation, swaley cross - stratiﬁ cation Herringbone cross - stratiﬁ cation (but care needs to be taken not to confuse this with complex wave - formed structures where the sediment has been deposited on both sides of the bedform
+
+Sedimentary (A6)
+
+Distinguishing between micrite and sparite Micrite and sparite are both forms of calcite, the only physical difference between them being the grain or crystal size. Micrite refers to calcite that is less than 4  µ m (0.004  mm) in size and sparite refers to calcite that is greater than 4  µ m (0.004  mm) in size. They can be distinguished in hand specimen; sparite is translucent or semi - translucent because the large crystal size transmits the light through it, whereas micrite is opaque because of its small grain size. Micrite is often white or cream but it can also have pink, yellow or even green tinges depending on the other minerals present. You may ﬁ nd it useful to wet the rock specimen before you look at it through a hand lens to distinguish micrite from sparite.
+
+The distinction between micrite and sparite is important because it yields information about the depositional process.
+
+Micrite is precipitated and settles out from suspension at the time of deposition as a matrix, and indicates low energy conditions. In contrast, sparite is a cement which is precipitated after deposition. Sparite can be subdivided into several different types; including poikilotopic (large crystals enclosing several grains); drusy (small - to medium - sized crystals which increase in size away from the edge of the grains into the centre of the cavity); isopachous (a thin fringe around the grains); and syntaxial overgrowth (crystal in optical continuity with the grain it has overgrown).
+
+Figure A6.1  Grain - size descriptors.
+
+grain term sediment and sedimentary rock terms implying grain size 0.5 0.25 0.125 0.062 0.031 0.016 0.008 0.004 boulders cobbles pebbles granules sand very coarse coarse medium fine very fine coarse medium fine very fine clay silt sand, sandstone, arenites, arenaceous sediments silt, siltstone clay, claystone mud, mudrocks gravel, rudite, rudaceous sediments, conglomerates, breccias
+
+Sedimentary (A6)
+
+Figure A6.2  Comparison charts for particle sorting.
+
+very well sorted very poorly sorted well sorted moderately sorted poorly sorted Figure A6.3  Comparison charts for grain morphology. (a) Rounding and sphericity. (b) Shape.
+
+very angular (a)
+
+(b)
+
+angular sub- angular sub- rounded rounded well- rounded high sphericity low sphericity spherical equant tabular bladed rod-like irregular Figure A6.4  Comparison charts for grain fabric. It is also appropriate to note whether the grains are aligned if they are tabular of bladed.
+
+grain-supported matrix-supported
+
+Sedimentary (A6)
+
+Figure A6.5  Terms for the description of lamination/bed thickness, etc.
+
+0.1 very thin thin thin medium medium thick thick very thick very thin 0.3 0.6 1cm beds thickness/cm laminae
+
+Sedimentary (A6)
+
+Figure A6.6  Terms for the description of bed character.
+
+sharp, planar, parallel cross-cutting, non-parallel sharp, irregular lenticular or nodular gradational, irregular chaotic draping scour or channel (lenticular)
+
+e vis s a la dio gis y p si w y a w
+
+Sedimentary (A6)
+
+Figure A6.7  Different types of sedimentary grading.
+
+normal reverse ungraded normal, base-only normal top-only composite, symmetrical Figure A6.8  Classiﬁ cation of sandstones.  (Modiﬁ ed after Pettijohn  et al . 1973.)
+
+feldspar rock fragments quartz quartz arenite subarkose sublitharenite arkose lithic arkose increasing % matrix (i.e. grains <30µm)
+
+arenites wackes mudrocks wacke spathic wacke quartz wacke lithic arenite arkosic arenite lithic feld-
+
+Sedimentary (A6)
+
+Figure A6.9  Classiﬁ cation of mudstones.  (Modiﬁ ed after Stow 2005.)
+
+clay sand silt sand calc.
+
+calc.
+
+ooze calc.
+
+silic.
+
+ooze silic.
+
+calc.
+
+siliceous marl siliceous clay clay marl ooze ooze sand silt clay silt silty sandy mud increasing gravel content clay calcareous siliceous biogenics biogenics increasing organic carbon content (a)
+
+(b)
+
+Sedimentary (A6)
+
+Figure A6.10  Main limestone - forming grains.
+
+single lamella
+
+## SUPERFICIAL
+
+## OOID
+
+## COMPOSITE
+
+## OOID
+
+original structure often preserved endopunctae or pseudopunctae variable shape typically drusy sparite with no internal structure concentric lamellae nucleus, skeletal fragment or quartz grain radial fibrous calcite in most ancient ooids diameter typically
+
+## 0.2 to 1
+
+## OOID
+
+## PISOID
+
+(PISOLITH)
+
+## ONCOID
+
+(ONCOLITH)
+
+## PELOID
+
+Peloids are pellets or amorphous grains composed of micrite, typically 0.1–0.5 mm diameter; most are micritized skeletal grains or faecal pellets.
+
+if originally calcitic drusy sparite, no internal structure preserved neomorphic calcite with relics of internal structure structure preserved or if originally aragonitic
+
+## BIVALVE
+
+## GASTROPOD
+
+## BRACHIOPOD
+
+variable shape single calcite crystal cloudy appearance syntaxial overgrowth of sparite echinoid spines
+
+## ECHINODERM
+
+## FORAMINIFERA
+
+variable shape
+
+## BRYOZOA
+
+Ooids typically form in agitated water of no greater depth than 15 m; more typically the depth is 5 m; Most oolitic rocks are marine.
+
+Oncoids are pisoids of algal origin.The algal layers are wavy in cross-section and often incorporate other bioclasts and grains.
+
+## BIOCLASTS
+
+variable shape diameter > 2 mm diameter > 2 mm
+
+Sedimentary (A6)
+
+Figure A6.11  Folk scheme for the classiﬁ cation of limestones.
+
+(Modiﬁ ed after Folk 1962.)
+
+limestone type principal grain type cemented by sparite micritic matrix biosparite oosparite pelsparite intrasparite biomicrite oomicrite pelmicrite intramicrite bioclasts ooids peloids limestone formed in situ (e.g. reef or stromatolite)= biolithite intraclasts fenestral limestone (micrite with cavities)
+
+= dismicrite Figure A6.12  Dunham scheme for the classiﬁ cation of limestones.  (Modiﬁ ed after Dunham 1962 with additions from Embry and Klovan 1971.)
+
+contains lime mud mud-supported >10% grains <10% grains grain- supported with muddy matrix lacks mud and is grain- supported mudstone wackestone packstone grainstone floatstone rudstone Boundstones: original components organically bound during deposition original components not organically bound together during deposition baffle- stone frame- stone matrix- supported supported by >2 mm component organisms act as baffles organisms encrust and bind organisms build a rigid 3-D framework bindstones >10% grains >2 mm
+
+Sedimentary (A6)
+
+Figure A6.13  Classiﬁ cation of coarse - grained sedimentary rocks (conglomerates, breccias, etc.).  Modiﬁ ed after Boggs 1992, Nichols 1999 and Stow 2005 . In addition the following terms can be applied: intraformational conglomerate and breccia, composed of clasts of the same material as the matrix; extraformational conglomerate, composed of a mixture of rock types; clast - supported (or orthoconglomerate); matrix - supported (or paraconglomerate or diamictite).
+
+(clasts of volcanic, conglomerate plutonic igneous)
+
+(clasts of dolomite, limestone, conglomerate sedimentary shale, sandstone, chert)
+
+(clasts of quartzite, marble, hornfels, conglomerate metamorphic gneiss)
+
+schist, phyllite, slate, p o o o increasing matrix (mud, silt, sand content)
+
+Where the conglomerates are represented by single clast types then: m = monomict (one type)
+
+o = oligomict (few types)
+
+p = polymict (many types)
+
+Sedimentary (A6)
+
+Figure A6.14  Sketch illustrating the spectrum of coastal morphological features and the processes dominant in each case. The importance of waves, tides and ﬂ uvial input is shown schematically by the boxes at the top of each ﬁ gure; tapering of the box indicates less inﬂ uence of that process.
+
+## TIDE
+
+## WAVE
+
+## FLUVIAL
+
+SEA minor fluvial estuary (tidal inlet)
+
+tidal sand bars lagoonal estuary spit barrier island lagoon strandplain river channel wave-dominated delta river channel fluvial-dominated delta deltas river channel river channel
+
+## LAND
+
+Sedimentary (A6)
+
+Figure A6.15  Sequence stratigraphy summary ﬁ gures. (a) Idealized illustrations of key features of the sequence stratigraphy model on the relative sea - level curve for (b) to (e), showing the position of the systems tracts and key surfaces. In this example, parasequences are assumed to have equal duration as indicated by the equal time units  t 0 ,  t 2 , etc. (b and d) Cross - sections through a HST and the overlying depositional sequence (FSST, LST, TST and HST) for a continental margin with a shelf break (b) and ramp type continental margin (d).
+
+(c and e) Chronostratigraphical representation of (b) and (d) respectively. Hemipelagic and pelagic sediments are not shown.  (From Coe 2003.)
+
+H S T F SST SB TS MFS ( (t29 sea-level t t t t16 t18 t20 t22 t2 t0 t4 t6 t8 t10 t12 t14 HST time (c)
+
+LST MFS TS HST
+
+## FSST
+
+eroded strata distance along depositional profile SB TST (b)
+
+time high low relative sea-level (a)
+
+t0 t2 t6 t8 t10 t12 t14 t16t18 t20 t4 t22t24 t26 correlative conformity time representing non-marine erosion and non-deposition associated with formation of the SB t28t29 marine hiatus or sediment starvation time representing condensation due to associated with the MFS la tsid la o r p
+
+## SHELF BREAK MARGIN
+
+Sedimentary (A6)
+
+( (t29 sea-level KEY alluvial and coastal plain sediments offshore-marine sediments shallow-marine sediments submarine fan sediments highstand systems tract (HST)
+
+transgressive systems tract (TST)
+
+lowstand systems tract (LST)
+
+falling stage systems tract (FSST)
+
+t t t t16 t18 t20 t22 t2 t0 t4 t6 t8 t10 t12 t14 la tsid la o r p HST time LST MFS TS HST
+
+## FSST
+
+correlative conformity distance along depositional profile (e)
+
+maximum flooding surface (MFS)
+
+transgressive surface (TS)
+
+sequence boundary (SB)
+
+SB TST (d)
+
+time representing non-marine erosion and non-deposition associated with formation of the SB
+
+## RAMP MARGIN
+
+marine hiatus or sediment starvation time representing condensation due to associated with the MFS Figure A6.15 Continued
+
+Sedimentary (A6)
+
+Figure A6.16  Some of the commonly used symbols for graphic logs and some ideas for other more speciﬁ c features.
+
+mudstone / claystone laminated mudstone / claystone marl siltstone granules & pebbles Nodules calcium carbonate siderite chert/flint pyrite sandstone Lithology Body fossils Trace fossils vertebrate footprints Arenicolites Chondrites planar stratification desiccation cracks leaf or stem or flower or seed pod roots Symbol modifiers fish gastropod graptolite serpulid bivalve belemnite brachiopod bioturbation echinoid ripples (climbing)
+
+bryozoan crinoid sponges stromatolites trilobite coral vertebrate bone / tooth starfish cross-stratification ripples (wave-formed)
+
+scours ripples (current-formed)
+
+limestone dolomite siderite evaporite coal ooids peloids oncoids intraclasts bioclasts pyrite framboids (denote type/geometry and scale by accurate drawing and/or abbreviations, e.g. HCS = hummocky cross-stratification, TCS = trough cross-stratification)
+
+Physical sedimentary structures line through the fossil symbol indicates fossils are fragmented (e.g. gastropod fragments)
+
+encircled symbol indicates high abundance (e.g. abundant gastropods)
+
+wood / charcoal ammonite Cruziana Diplocraterion Muenesteria Nereites Ophiomorpha Gyrochorte Planolites Rhizocorallium Skolithos Teichichnus Thalassinoides Zoophycos
+
+Sedimentary (A6)
+
+Figure A6.17  Common sedimentary structures. See also Tables  6.2 – 6.4 . Red penknife is 9  cm long.  (All Angela L. Coe, The Open University, UK, except (x) and (cc), R. Chris L. Wilson.)
+
+10 cm upward curvature of laminations over hummock swale with low-angle curved lamina intersections (a) plan view (c) cross-section (e) cross-section (g) cross-section (b)
+
+(d)
+
+(f)
+
+(h)
+
+Planar cross-stratification Trough cross-stratification Hummocky and swaley cross-stratification Hummocky cross-stratification (HCS)
+
+Swaley cross-stratification (SCS)
+
+Note: Hummocky and swaley cross-stratification are part of a continuum. HCS has a 1:1 ratio of hummocks : swales whereas SCS is mainly swales as the hummocks have been eroded. For any location the wave length of the structure increases from HCS to SCS.
+
+Note: Structure needs to be examined in faces at right angles to confirm identification. Tabular beds and the horizontal lamination between the inclined beds as shown in (a) are consistent with planar cross-stratification.
+
+Note: Structure needs to be examined in faces at right angles to confirm identification. Lensoid shaped beds as shown in (c) are consistent with trough cross-stratification.
+
+current flow current flow
+
+Sedimentary (A6)
+
+(i) plan view (k) plan view (j) cross-section (l) cross-section (m) Cross-section of climbing wave-formed ripples (n) cross-section (o) cross-section (p) cross-section f Current-formed ripples Wave-formed ripples Wave-formed ripples with current Lenticular [l] and flaser [f] bedding Tidal bundles Note: Asymmetric profile and relatively simple internal geometry of the inclined surfaces that build up as the ripple migrates.
+
+Complex wave-formed ripples formed within wave-base where there was also a dominant current. Note also the clay drapes.
+
+Note: Laminae are in multiples of seven and either widely spaced (spring tides) or closely spaced (neap tides).
+
+Note: Asymmetric profile, bifurcating crests, complex internal geometry 10 cm 10 cm 10 cm 10 cm Figure A6.17 Continued
+
+Sedimentary (A6)
+
+(r) plan view (u) plan view Groove casts Scour Flute casts (v) plan view (q) cross-section (s) cross-section (x) underside (y) underside (w) cross-section (t) cross-section Planar lamination Grading Evidence for erosion Evidence of desiccation Current lineation 10 cm Note: Looks like low amplitude ridges, best seen in low-angle lighting conditions Coarsening-upward cycles with plant roots Crudely fining-upward cycles Desiccation cracks Pseudomorphs after halite 10 cm 10 cm 10 cm 10 cm 1 m 1 m Figure A6.17 Continued
+
+Sedimentary (A6)
+
+(z) cross-section (cc) plan view underside (ee) cross-section (gg)  cross-section (dd) cross-section (ff) cross-section (hh) plan view (aa) cross-section (bb) cross-section Nodules Leisgang rings and dendrites 10 cm 10 cm 1 m Depositional evaporite nodules Early post-depositional siderite nodules (note ovoid shape)
+
+Late post-depositional calcium carbonate nodules (note spherical shape)
+
+Load casts Dish structures Flame structures Ball and pillow structures Note: Both of these form during late diagenesis due to the precipitation of iron oxide (Leisgang rings) or manganese oxide (dendrites) in the rock.
+
+Note: Distinct flame shapes are flame structures.
+
+Otherwise this can be termed convolute bedding.
+
+10 cm Evidence of dewatering Figure A6.17 Continued
+
+Igneous (A7)
+
+## Appendix A7: Igneous
+
+Table A7.1  Names for igneous intrusions, based on shape and relationship with country rocks.
+
+Name Description Batholith Grouping of more - or - less contiguous plutons Central complex Assemblage of largely intrusive rocks, with screens and other masses of extrusive and country rocks, arranged around one or more focal points. Considered to represent the interior or shallow roots of a volcano Cone - sheet Cone - shaped curtain (sheet) intrusion dipping inwards towards a central focal point.
+
+Essentially a dyke, with roughly circular outcrop pattern, dipping inwards Cupola Dome - shaped upward protuberance from the top of an intrusion Diapir Dome - shaped body of igneous rock, inferred to have deformed and ruptured the country rock during ascent Diatreme Breccia - ﬁ lled volcanic pipe Dyke (US spelling is dike)
+
+Discordant curtain of igneous rock, originally intruded into a steep or vertical fracture.
+
+Typically tens of centimetres to several metres in width Dyke swarm A number of spatially associated dykes, typically radial, parallel or en  é chelon Laccolith Intrusion that is roughly circular in plan, generally concordant with the country rock and having a planar ﬂ oor but a domed roof Lopolith Large, generally concordant intrusion that is broadly saucer - shaped Minor intrusion General informal term for any intrusion too small to be classed as a pluton Neck Feeder pipe of a former volcano, occupied either by collapsed material from the vent or by a cylindrical intrusion of magma also referred to as a  ‘ plug ’ Pluton Discordant intrusive body a kilometre or greater in scale. Of cylindrical, lenticular or tabular shape, resulting in a roughly circular or elliptical outcrop pattern. May be  simple (one intrusion) or  composite (supplied by more than one recognizable pulse of magma)
+
+Ring complex Association of ring - intrusions, ring - dykes and cone - sheets Ring - dyke Dyke with annular outcrop pattern. Either vertical or dipping steeply outwards (whereas a cone - sheet dips inwards)
+
+Ring - intrusion Intrusion emplaced within, or bounded by, a cylindrical ring - fracture Sheet Intrusion with broadly parallel margins and one dimension much shorter than the other two (such as a sill or a dyke). More aptly referred to as a curtain if steeply dipping.  ‘ Inclined sheet ’ is sometimes used for a dipping sheet that cannot be called a sill but is not steep enough to be called a dyke Sill Roughly horizontal sheet of intrusive rock with top and bottom generally concordant with stratiﬁ ed country rock. Local discordancies may occur where a sill steps from one horizon to another. Typically metres to tens of metres thick Vein Sheet of igneous rock narrower and more irregular than would be classiﬁ ed as a sill, dyke or sheet. (Beware: veins occupied by minerals precipitated from hydrothermal ﬂ uids are not igneous)
+
+Igneous (A7)
+
+Table A7.2  Typical properties, visible in hand specimen, of common minerals that may be found in igneous rocks.
+
+Mineral category Mineral Features (note  – other colours may be possible)
+
+Felsic Quartz Colourless or white (but may be tinted by impurities), no cleavages, hardness 7. May look milky in veins Feldspar: orthoclase microcline plagioclase Two poorly developed cleavages, at roughly 90 ° Pink, simple twinning sometimes visible, hardness 6 – 8 White, hardness 6 – 7 White (but transparent grey if unaltered), twinning rarely visible, hardness 7 Nepheline White to pale grey, two poor cleavages, hardness 5.5 – 6 Muscovite Silvery - grey to white, one excellent cleavage so that it occurs as tabular (ﬂ akey) crystals, shiny cleavage surfaces, hardness 2 – 3 Maﬁ c Amphibole Dark green to black, 60 ° cleavages (hard to see), crystals sometimes elongated, hardness 5 – 6
+
+Pyroxene Dark green to black, 90 ° cleavages (hard to see), hardness 5 – 6 Olivine Grass green or darker, equidimensional crystals, no cleavage, hardness 6 – 7 Chlorite Pale green, hardness 2 – 3 Biotite Dark brown to black, one excellent cleavage so that it occurs as tabular (ﬂ akey) crystals, shiny cleavage surfaces, hardness 2 – 3 Tourmaline Usually black, but may be blue, red or green. Long thin crystals, sometimes with longitudinal striations. Hardness 7 Accessory Garnet Red or green, equidimensional crystals Apatite Pale green - yellowish. Very poor cleavage. May look hexagonal, sometimes ﬁ brous. Hardness 5 Sphene (titanite)
+
+Colourless to yellow, green or brown. One good cleavage. Often as euhedral rhombic crystals. Hardness 5 Leucite White or grey, no cleavage. Often euhedral trapezohedral crystals in alkaline lavas. Hardness 5.5 – 6 Opaque minerals (mostly metal oxides or sulﬁ des)
+
+Metallic lustre (some oxides are shiny black). Various colours Volcanic glass (not a mineral!)
+
+Brown to black, amorphous, often breaks with conchoidal fractures. May devitrify to develop ﬁ ne, feathery internal structure
+
+Igneous (A7)
+
+Figure A7.1  Classiﬁ cation scheme for igneous rock types, by grain size and mineralogy. Fine - grained felsic rocks are paler than ﬁ ne - grained maﬁ c rocks, and may be reddened by alteration. However,  glassy rhyolite (obsidian) can be black.
+
+grain size rock type fine <0.25 mm intermediate mafic ultramafic felsic andesite basalt rhyolite microdiorite dolerite microgranite diorite gabbro peridotite granite coarse >2 mm medium
+
+## 0.25 – 2
+
+mineral content /vol.% silica content/wt.% SiO2 plagioclase feldspar Na-rich quartz potassium feldspar Ca-rich olivine pyroxene amphibole biotite muscovite silica content in chemical analysis / wt.% SiO2 SiO2 increasing Fe/Mg increasing Table A7.2 Continued Mineral category Mineral Features (note  – other colours may be possible)
+
+Secondary Calcite White or colourless, three cleavages often seen (not at 90 ° ), hardness 3, ﬁ zzes with dilute HCl Epidote (In hydrothermally altered rocks) Apple green, variable but often elongated crystals. Hardness 6 – 7 Chlorite Mid - green to dark greenish - yellow. Often in thin ﬂ akes due to good cleavage. Hardness 2 – 3 Zeolites Usually whitish, ﬁ ne ﬁ brous growths on joint faces or within vesicles (amygdales). Hardness 5 – 6
+
+Structural (A8)
+
+## Appendix A8: Structural
+
+Figure A8.1  Diagram of an oblique - slip fault, annotated with terms for its main components. The actual displacement (green arrows) can be divided into two components: dip - slip component (ds) and strike - slip component (ss).
+
+inclined fault plane actual displacement footwall hanging wall heave throw fault scarp ds ss Figure A8.2  Diagram of a typical fold pair, labelled with terms for the main parts of fold structures. The terms antiform and synform describe the form of the folds. If the sequence is right - way up (i.e. the stippled layer is younger than the pale blue layer), then the antiform is an anticline, and the synform is a syncline.
+
+shallowly dipping limb steeply dipping limb fold axis axial surface (non-planar)
+
+synform antiform axial plane hinge zone
+
+Structural (A8)
+
+Figure A8.3  Schematic illustration of different types of fold tightness, deﬁ ned according to the angle between the two fold limbs (the interlimb angle). (Based on Fleuty 1964.)
+
+180° 120° 70° 30° 0° 70° 30° 0° 180° 120° gentle open close tight isoclinal
+
+Structural (A8)
+
+Figure A8.4  Classiﬁ cation of fold types using a combination of the dip of the axial plane and the plunge of hinge line.
+
+90° 0° 10° 30° 60° 80° 90° plunge of fold hinge / degrees steeply plunging moderately plunging gently plunging upright steeply inclined moderately inclined gently inclined reclined folds recumbent sub- horizontal 80° 60° 30° 10° 0° dip of axial plane / degrees
+
+Structural (A8)
+
+Figure A8.5  Block diagrams illustrating several different types of lineations. (a) Striations (slickenlines) on a fault plane. (b) Stretching lineation deﬁ ned by deformed (elongated) mineral grains. (c) A rock with both foliation (ﬂ attening) and lineation (stretching). (d) Crenulation lineation deﬁ ned by the hinge lines of microfolds.
+
+(e) Intersection lineations in a fold. Two different lineations are shown: the intersection of cleavage on a folded bedding plane, and the intersection of cleavage on a joint plane.  (Modiﬁ ed from Park 1989.)
+
+(a)
+
+(b)
+
+(c)
+
+(e)
+
+(d)
+
+l2 l1 folded bed joint foliation cleavage planes
+
+Structural (A8)
+
+Figure A8.6  The Flinn diagram uses measurements of the principal strain axes in deformed rocks to distinguish constrictional from ﬂ attening strains. The equiline (k  =  1) bisecting the plot represents plane strain.
+
+R xy and R yz are the principal plane strain ratios, calculated from the principal longitudinal strains e 1 , e 2 and e 3 .
+
+(Modiﬁ ed from Ramsay and Huber 1984.)
+
+Plane strain Flattening strain Constrictional strain Simple flattening Simple extension Ryz = 1+e2 Rxy –1 K = K = 1 Ryz –1 1+e3 k = ∞ k = 0 Rxy = 1+e1 1+e2
+
+Structural (A8)
+
+Table A8.1  Textural classiﬁ cation of fault rocks based on Sibson 1977.
+
+Matrix nature Random fabric Foliated Percentage matrix Incohesive Fault breccia (visible fragments > 30% of rock mass)
+
+?
+
+Fault gouge (visible fragments < 30% of rock mass)
+
+?
+
+Cohesive Glass/devitriﬁ ed glass Pseudotachylyte ?
+
+Tectonic reduction in grain size dominates grain growth by recrystallization Crush breccia (fragments  > 0.5  cm)
+
+Fine crush breccia (0.1  cm  <  fragments  <  0.5  cm)
+
+Crush microbreccia (fragments  <  0.1  cm)
+
+0 – 10 Cataclasite series protocataclasite cataclasite ultracataclasite Mylonite series protomylonite mylonite ultramylonite 10 – 15 50 – 90 90 – 100 Grain growth pronounced ?
+
+Blastomylonite
+
+? indicates no known natural rock types in these categories.
+
+A note on stereographic projections Three - dimensional structural data are typically projected into a two - dimensional form (as in Figure  8.12 ) using a lower hemisphere stereographic projection technique. Traditionally, this method used a graphical  ‘ net ’ : in the case of structural data, the Schmidt net. This net allows analysis of angular relationships and statistical evaluation of orientation data.
+
+Projection, analysis and presentation of data are now routinely handled by software applications on personal computers, but were formerly accomplished by hand, using tracing paper and a Schmidt net.
+
+The projection results in planes plotting as great circle lines (the curves in Figure  8.12 ), whereas linear structures plot as points. To simplify plots with numerous planes, the pole (a line orthogonal) to each plane may be plotted as a point, instead of the great circle representing the plane.
+
+A detailed treatment of the stereographic projection and its uses can be found in Ragan (2009).
+
+Metamorphic (A9)
+
+## Appendix A9: Metamorphic
+
+Table A9.1  Properties useful for ﬁ eld identiﬁ cation of some common metamorphic minerals. Mohs ’ scale of hardness (H) is given in Appendix A1, Table  A1.1 .
+
+Mineral (abbreviation)
+
+formula Colour; lustre Typical habit Cleavage; twinning Hardness (H)
+
+Quartz (Qtz)
+
+SiO 2 Grey, greasy or glassy; white in veins Interstitial, irregular grains None K - feldspar (Kfs)
+
+KA1Si 3 O 8 Pink, white or grey; glassy, but chalky when weathered Stumpy, tabular crystals 2 cleavages; simple twins common Plagioclase (Pl)
+
+NaA1Si 3 O 8 – CaA1 2 Si 2 O 8 White or grey; glassy or pearly Tabular crystals or ovoid grains 2 cleavages; multiple or simple twins 6 – 6.5 Chlorite (Chl)
+
+(MgFe) 5 A1 2 Si 3 O 10 (OH) 8 Dark  ‘ bottle ’ green; pearly Flexible ﬂ akes; ﬁ ne groundmass 1 perfect cleavage 2 – 3 Biotite (Bt)
+
+K(Mg,Fe) 3 A1Si 3 O 10 (OH) 2 Dark brown to black; pearly Elastic ﬂ akes; forms foliations 1 perfect cleavage
+
+## 2.5 –
+
+Muscovite (Ms)
+
+KA1 3 Si 3 O 10 (OH) 2 Silvery - white to pale golden; pearly Elastic ﬂ akes; forms foliations 1 perfect cleavage 2 – 2.5 Andalusite (And)
+
+A1 2 SiO 5 White, grey, dull red; glassy Euhedral prisms; square cross - sections 2 cleavages
+
+## 6.5 –
+
+Kyanite (Ky)
+
+A1 2 SiO 5 Pale blue to white, grey; pearly to glassy Bladed crystals; porphyroblasts 2 cleavages
+
+## 4.5 –
+
+Sillimanite (Sil)
+
+A1 2 SiO 5 White, grey; glassy, or pearly when ﬁ brous Slender prisms, or ﬁ brous; forms foliations 1 cleavage Garnet (Grt)
+
+(Mg,Fe,Ca,Mn) 3 A1 2 Si 3 O 12 Red to orange, pink, violet, brown, black, green; glassy Equant crystals, dodecahedral, robust None
+
+## 6.5 – 7.5
+
+Staurolite (St)
+
+(Mg,Fe) 4 A1 18 Si 7.5 O 44 (OH) 4 Brown, orange, yellow, black; glassy, resinous or dull Stumpy, tabular crystals; porphyroblasts 1 cleavage; twinning common 7 – 7.5
+
+Metamorphic (A9)
+
+Table A9.1 Continued Mineral (abbreviation)
+
+formula Colour; lustre Typical habit Cleavage; twinning Hardness (H)
+
+Cordierite (Crd)
+
+(Mg,Fe) 2 A1 4 Si 5 O 18 Colourless, grey, green, blue if fresh; greasy to glassy Indistinct ovoid blobs or interstitial grains Poor cleavage Chloritoid (Cld)
+
+(Fe,Mg)A1 2 SiO 5 (OH) 2 Green to grey; pearly Elongate or stumpy prisms Poor cleavage; multiple twins 6.5 Epidote (Ep)
+
+Ca 2 (A1,Fe) 3 (SiO 4 ) 3 (OH)
+
+Pistachio - green; glassy Stumpy prisms or groundmass 1 cleavage 6 – 7 Glaucophane (Gln)
+
+Na 2 (Mg,Fe) 3 A1 2 Si 8 O 22 (OH) 2 Dark blue to black; glassy to pearly Elongate prisms 2 cleavages intersect at 124 ° and 56 ° 6 – 6.5 Pyroxene (Px)
+
+(Ca,Na)(Mg,Fe)(Si,Al) 8 O 6 Green, brown, black, bright green (omphacite); glassy Stocky prisms; porphyroblasts 2 cleavages intersect at 92 ° and 88 ° Hornblende (Hbl)
+
+Ca 2 (Mg,Fe,Al) 5 (A1,Si) 8 O 22 (OH) 2 Green, black, brown; more glassy than most pyroxenes Stumpy or elongate prisms; porphyroblasts 2 cleavages intersect at 124 ° and 56 ° 5 – 6 Actinolite (Act)
+
+Ca 2 (Mg,Fe) 5 Si 8 O 22 (OH) 2 Dark green; more glassy than pyroxenes Slender prisms 2 cleavages intersect at 124 ° and 56 ° 5.5 Talc (Tlc)
+
+Mg 3 Si 4 O 10 (OH) 2 White, pale green; pearly Soft ﬂ akes; forms scaly foliations 1 perfect cleavage Calcite (Cal)
+
+CaCO 3 Colourless, white, pink, yellow; glassy Irregular, interstitial grains 3 perfect cleavages, forming rhombs Serpentine(Srp)
+
+(Mg,Fe) 3 Si 2 O 5 (OH) 4 Green; silky Fibrous masses Usually not visible (ﬁ brous crystals)
+
+2.5 Tourmaline (Tur)
+
+NaFe 3 A1 6 Si 6 O 18 (BO 3 )(OH) 4 Black, brown, grey - blue; glassy Slender prisms with triangular cross - sections Poor cleavage 7.5
+
+Metamorphic (A9)
+
+Figure A9.1  The metamorphic facies diagram, dividing  P – T space into different ﬁ elds characterized by particular mineral assemblages in maﬁ c rocks. The wet melting curve for granite is also shown, and the approximate region of Barrovian metamorphic assemblages is outlined (dashed line).
+
+approximate depth/km lower limit of metamorphism blueschist tra nsitio nal ass emb lag es pressure / MPa temperature / °C eclogite amphibolite pumpellyit e prehnit e– greenschist zeolite granulite hornfels minimum melting curve for granite with water present Barrovian assemblages
+
+Metamorphic (A9)
+
+Figure A9.2  A map of the Scottish Highlands, showing the distribution of Barrow metamorphic zones (and the low - pressure Buchan andalusite zone in the northeast). One of the classic transects where the metamorphic zones were ﬁ rst mapped by George Barrow, Glen Esk, is marked by the line XY.
+
+Y X Oban Edinburgh Glasgow N Inverness Great Glen Fault Highland Boundary Fault 50 km chlorite biotite garnet staurolite kyanite sillimanite andalusite (NE Scotland only)
+
+Pitlochry
+
+Mapping (A10)
+
+## Appendix A10: Mapping
+
+Determination of true and apparent dip When projecting structural data onto a cross - section, the true dip of strata can be drawn on the section only for data with strikes at 90 ° to the line of section. If the strikes of data are at a lower angle, an apparent dip less than the true dip must be determined. The trigonometric solution to this problem is often very convenient (for values of  β  <  60 ° ): tan tan sin α δ β =
+
+where  α is the apparent dip (in the line of section),  δ is the true dip and  β is the angle between the line of strike and the line of interest (section).
+
+The formula to calculate  α in Microsoft Excel has the form: =DEGREES(ATAN(TAN(RADIANS(B2))*SIN(RADIANS(B3))))
+
+where B2  =  δ and B3  =  β .
+
+Alternatively, you can use a nomogram (Figure  A10.1 ), a graphical approach to determining one of the three angles above ( α ,  δ ,  β ) given the other two.
+
+Mapping (A10)
+
+Figure A10.1  Nomogram to determine the apparent dip given the true dip and the angle between the strike and the line of section. The dashed line illustrates an example: for a true dip of 43 ° on a cross - section oriented at 35 ° to the strike of the bedding, the apparent dip on the cross - section would be 28 ° .  (Based on Billings 1972.)
+
+1° 5° 10° 10´ 30´ 1° 5° 1° 10° 20° 30° 40° 50° 60° 70° 80° 90° 5° 10° 20° 30° 40° 50° 70° 80° 85° 89° 60° 20° 30° 40° 50° 60° 70° 80° 85° 89° f o
+
+e nil n e e w t e b
+
+elg n A pid t n e r a p p A pid
+
+e u r T section and strike of strata
+
+Mapping (A10)
+
+Figure A10.2  A graph to determine the apparent dip angles (solid, curved lines) and the thickness exaggeration (curved blue lines) for bedding in cross - sections that are not parallel to the true dip direction (i.e.
+
+where the strike of bedding is not perpendicular to the line of section). An example is given on the diagram (red lines) for bedding with a true dip of 45 ° on a cross - section orientated at 60 ° to the dip direction. In this case, the apparent dip of 27 ° can be read off the graph, and the thickness of bedding will be 1.275 times the actual thickness.  (Modiﬁ ed from McClay 1991.)
+
+5° 10° 15° 20° 25° 30° 35° 40° 45° 50° 55° 60° 65° 70° 75° 80° 85° 10° 20° 30° 40° 50° 60° 70° 80° 10° 20° 30° 40° 50° True dip value Apparent dip values (solid lines) and thickness exaggeration factor for sections at an angle to true dip direction Angle between section and dip direction Thickness exaggeration factor Angle between cross-section and dip direction 60° True dip 45° 60° 70° 80° 1.1 1.25 1.5 1.7 2.0 2.5 3.0 4.0 5.0 7.0 10.0 Apparent dip
+
+Mapping (A10)
+
+Figure A10.3  A selection of symbols for use in preparing geological maps. Alternatives are given for some of the symbols.
+
+1 BOUNDARIES observed boundary boundary inferred younging direction alluvium boundary outline of exposure (with locality number)
+
+break of slope moraine ridge limit of metamorphic aureole (+++ nearer intrusion)
+
+mineral vein, with element symbols Pb Zn + + + + + + + covered contact 5 LINEAR FEATURES bearing and plunge of fold axis or lineation lineation, vertical 2 BEDDING strike and dip of bedding vertical bedding horizontal bedding crumpled bedding overturned bedding or or 3 OTHER PLANAR FEATURES strike and dip of foliation, cleavage or schistosity vertical foliation, cleavage or schistosity strike and dip of joints or dykes vertical joints or dykes 4 DRIFT SYMBOLS alluvium marine alluvium peat head glacial sand and gravel till glacial lake deposits lineation, horizontal 6 FOLDS minor fold axial plane trace of axial surface or crest of anticline, with plunge trace of axial surface with bearing and plunge of fold axis overturned anticline with bearing and plunge of fold axis minor fold axis with vergence trace of axial surface or trough of syncline, with plunge anticline with overturned limb syncline with overturned limb 7 FAULTS fault contact with dip sense of slip on strike- slip fault U D ? ? ?
+
+sense of slip on dip-slip fault (D = down, U = up)
+
+thrust fault, barbs on upper plate fault, position uncertain fault, existence uncertain shear zone 8 MISCELLANEOUS fossiliferous site mine adit (blocked)
+
+mine shaft water well borehole
+
+Index 'a'a lava ﬂ ows 147, 159, 161 abundance estimation of fossils 95–6, 97, 98–9 closed measures 99 correspondence analysis 97 cover 96, 98 density 96 frequency 96 logarithmic transforms 97, 99 noise reduction 97, 99 number of samples required 99 percentage scores 99 qualitative 96, 263 quantitative 96, 98–9 aerial photographs 35, 207, 210, 225 alignment lineation 182 alluvial fan 129 alluvium deposits 232 altimeters 25, 45, 214 ammonoid 266, 288, backcover amphibole 155 amphibolite 181 amygdales 147 andalusite 193, 194 andesite 155 angles, estimation 52, 62–63 angular unconformities 47, 48 anticlines/antiforms 68, 69, 296, 309, see also folds aplite 146 aragonite 274 ash/ash deposits 150, 154, 159, 161 fossils 79 pyroclastic rocks 154 ASTER (Advanced Spaceborne Thermal Emission and Reﬂ ection Radiometer) satellite mapping 211–12 augen 196, 203 auger, hand 232, 233 autoliths 158 avalanches 37 azimuth measurement 7, 16, 17–19, 20 recording 164, 165 triangulation 20, 22–4, 25 backpacks 36 barrier island 129, 285 Barrow metamorphic zone 200, 304, 305 basalt lava ﬂ ows chilling/chilled margins 149 columns 145 fossils 79 base maps 51, 207–8, 209, 210–11, 211–12 fair copy 235–9, 238 locating position on 20–5, 21–4, 214, 215–6 base station readings 244 beach deposits 232 bedding planes exposure 91 fossils 86 sampling 92–3 bedrock feature mapping 228–9 soil samples 231, 232 topographic features 229 bentonites 106 binoculars 5–6 biostratigraphy 90–1, 104, 272 zonation schemes 272 bivalves 89, 266, 267, 269, 288 block-and-ash ﬂ ow 154 bombs 147, 148, 150, 159, 161 boudins/boudinage 177, 180, 202 shear sense 183 boulders 38 Bouma Sequences 112, see also turbidites brachiopods, orientation 89 break in slope 228, 229, 230 breccias 107, 111, 284 fault zone 170 brecciation 142 brittle features 165–76 past motion 170–1, 172, 173, 176 planar 165–6, 167, 168–9 Brunton-type compass-clinometer 6, 7, 8, 164 dipping plane orientation contact method 11, 14–15, 16 using clinometer hinge 16, 17 elevation determination 25 Note: page numbers in italics refer to ﬁ gures and drawings, those in bold refer to tables, worked examples and marginal boxes.
+
+Index with Jacob staff to measure thickness of inclined strata 27 linear feature orientation 18–9, 20, 21 location determination 20, 22–3 magnetic declination adjustment 10–11 brushes 32 building materials 104 burrows 86, 113, 271 calcite 274, 276 hardness testing 28–9, 263 calc-silicate 196, 201 caldera 143, 153 camera 6, 247 fossil data collection 80 carbonate successions 102, 124–6, 136–7 platform 130 carbonates/limestones 107–9, 283 classiﬁ cation 107–8, 283 grains 282 grain size 119 graphic logs 120, 126 non-organically bound 110 organically bound 111 testing for 105 weak hydrochloric acid test 28–9 casts/moulds 267 chainsaw, carbide-tipped 93 chalks, fossils 87 channel 48, 116, 128, 130–3, 279, 285 channel sampling, see continuous sampling charcoal, fossil 85 charcoaliﬁ cation 85 chemostratigraphy, sedimentary record 104 cherts 111, 124, 288 chilled margin 147, 149, 150, 151 chisels 31–2, 104 checking 40 Chondrites 268, 270 chroma 30, 31 chronology 139 clasts 152–3 squashed pumice 153 clay minerals 274 claystones 110 cleavage axial-planar 186, 188 crenulation 178, 179, 180, 189–91 fracture 178, 179, 180 pressure solution 177, 178, 179, 180 refraction 178, 180 slaty 177, 178, 179, 180 transecting 187 climate change sedimentary deposits 103 sedimentary rock use in interpretation 133–4 climates, ancient 80 climatically sensitive indicators 134 clinometer, see compass-clinometer closed compass traverse 223–4 clothing 36, 37, 38 working on volcanoes 159 clump size, mean 94, 95 clumping, fossils 94–5 coals 89, 111, 275 coastal morphological features 285 codes of conduct 41, see also discussion on 81 cold chisels 32, 104 checking 40 colonnade 144, 145 colour 28–31, 47, 48 mudstones 30, 106 colour charts 29, 30, 31, 104 columnar joints 144, 145, 146 compass 37 location determination 20, 22–4, 25, 45, 214, 215–6 magnetic mineral effects 7 compass-clinometer 6–25 angles 62–3 clinometer mode setting 12 design 7 magnetic declination adjustment 10–11 magnetic north variation adjustment 10 mapping 207, 213, 214 precisely oriented samples 251–2 types 6, 7, 8, 9 working mechanism 7 see also Brunton-type compass-clinometer; Silva-type compass-clinometer composition estimation from area 263 conchoidal 106, 107 cone-in-cone calcite 110 cone sheets 143 conglomerates 107, 111, 284 deformed 184 conservation 40, 41, see also discussion on 81 contact mapping 225, 226 contacts, nature 46, 47 contagions, fossils 94–5 contamination high-resolution sample sets 255 molecular fossil samples 254 continuous sampling, fossils 90, 91 coral 266, 288 coronas, metamorphic rock 197, 203 correspondence analysis of fossil abundance 97
+
+Index countryside code of ethics 41 crenulation lineation 189, 190, 191, 299 crinoid 266, 288 cross-cutting relationship 47, 48 cross-sections 51 in ﬁ eld notebooks 55, 56, 69 mapping 235, 236–7 sketch 221–2 cross-stratiﬁ cation 109, 112, 113, 114, 115, 153, 156, 288, 289 cross-stratiﬁ ed deposits 68 crust deformation 163 Cruziana 268, 288 cumulate layering 156–7 cyclopentane rings, marine plankton 87 cycles (in sedimentary rocks) 104, 129, 134, 242 dacite 155 dangerous animals/plants 38 data analysis/interpretation 260 data collection 1, 2, 241–5 base station readings 244 constraints 54 correlation with other data sets 77–8, 245–6 ﬁ eld notebooks 53–72, 55, 56 formats 51–2 fossils 80–1 geophysical instruments 241–5 instrument calibration 244 numerical 242, 243 sedimentary deposits 102–4 structural information 164–5 survey grids 244–5 time intervals 245 databases 239 deformation 47, 48, 163 brittle features 165–6, 167, 168–71, 172, 173, 174–5, 17 ductile structures 176–7, 178, 179, 180, 181, 182–3, 184, 185–8, 189–91 metamorphic rock 193, 201–3 oceanic crust 203, 204, 205 delta 129, 285 dendrites 117, 290 deposits, superﬁ cial 232, 233 desert 129, see also aeolian desiccation cracks 115, 288, 291 diatoms, fossil 88 digital maps 239 dip 6, 11, 12–15, 16, 17, 165 apparent 166, 306, 307, 308 recording 11, 13, 15, 164, 165 true 166, 306, 307, 308 Diplocraterion 86, 113, 269, 288 dipping plane orientation 11, 12–15, 16 using contact method 11, 12–15, 16 using clinometer hinge of Brunton-type compass-clinometer 16, 17 directions, estimation 52 disc rock saw 93 dish and pillar/dish 117, 290 displacement 47, 48 distance measurement 26–8, 52 DNA preservation 87 dolomite 109, 274 drainage 218, 225, 227, 230, 231, 232 ductile structures 176–91 orientation of planar features 176–7, 178, 179, 180, 181 dunes 114 Dunham classiﬁ cation scheme of carbonates 108, dykes 140, 141–3, 144, 157 chilled margins 150, 151 columnar joints 144, 145 dip measurement 142 ring 143 sheeted 151, 157 strike measurement 142, 150 echinoid 84, 266, 288 eclogite facies 203, 204 ecosystems, ancient 79 edge effects, fossils 95 emergencies 39 emergency services contact 37 entablature 144, 145 environmental change sedimentary deposits 103 see also climate change erasers 35 erosion, sedimentary contact 136–7 erosion surface 124 evaporites 111, 288, 292 evolutionary studies, fossil sampling 90–1, 92 exposures 1, 2, 45, 46–9, 226–8 choosing 43, 45 division into units 46–9, 64–5 mapping 226–8, 234 safety 46 sketches 63, 64–5, 66–7 structurally complex 66 subunits 65 extinctions, fossils 91 facies metamorphic rock 5, 12–14 sedimentary rock 127–9, 135, 136–7
+
+Index fall-out (volcanic ash) 159, 161 fatigue 39 faults 141, 165–76 dip 165–6, 168 fractures 165–6 geometry 6 kinematic indicators 170–3, 174, 175 landscape clues 167 mapping 235 motion 170–1, 172, 173, 176 direction 170, 171 oblique-slip 296 offsets 165, 167, 171 photographs 173 piercing points 171, 172 scarp features 229 sketches 173 strike 165–6, 168 strike-slip 166, 231 textural classiﬁ cation of rocks 301 throw estimation 173, 176 thrust 166, 170 zones 166, 168, 172, 174–5 feature mapping 228–9 featureless areas 45 feldspar 149, 274 altered 155 hardness testing 28–9 ﬁ amme 153, 156 ﬁ eld equipment 4–41 checking 40 fossil data collection 80 igneous rock study 139–40 mapping 212–14 metamorphic rock study 192 sedimentary rock study 104 structural information 164 volcanoes 159, 160 see also geophysical instruments ﬁ eld maps 216–18, 219, 220–2 distortion 235 examples of 70, 71, 219, 227, 228, 233, 238 exposure mapping 227 information recording 216–18, 219 inking-in 233–5 lithological divisions 218, 220–1 marker layers 220–1 sketch cross-sections 221–2 strike lines 218 symbols 229, 309 ﬁ eld notebooks 33–4, 53–78 cross referencing 56 cross-sections 51, 55, 56, 221–2 daily entries 54, 55, 5 electronic 34–5, 53–4 example pages from 55, 58, 60, 62, 64–65, 66, 67, 69, 70, 71, 73, 74, 75, 76, 83, 92, 124, 125, 128, 148, 154, 173, 175, 189–90, 243 fossil data collection 80, 92 graphic logs 51, 58, 92, 117–24, 125, 128 hard-copy 33–4 information recording 259 initial information 54, 55, 56 interpretation recording 72, 75–6, 77 layout 54, 55, 56 maps 51, 55, 56 observations 72, 73–4 organization 57 orientation 63, 64 photographs 56, 57, 59, 68, 249 preliminary pages 54 purpose 53–4 quadrats 52, 92–5 records 242, 243 samples 55, 56 sketch maps 56, 68–9, 70, 71–2 sketches 51, 55–72 spacing of notes 57 table of contents 54 written notes 72, 73–6, 77 ﬁ eldwork achievable tasks 43 location 43, 45 objectives 42–3, 44, 259 return from the ﬁ eld 260 ﬁ rst aid kit 37 ﬂ aser bedding 114, 290 Flinn diagram 300 ﬂ oat, fossil ﬁ nding 87 ﬂ ow banding 153, 154, 155–6 ﬂ ute casts 112, 116, 291 ﬂ uvial 129, 285, 130–3 ﬂ uvioglacial deposits 232 folding 191 direction 5 regional 180 ridges 229 folds 176–91 analysis 185–8, 189–91, 296–8 anatomy 185–6, 296 asymmetry 186 axial plane dip 186, 298 chevron 185 cleavage orientation 187–8 closure direction 185 disharmonic 185 facing 186 hinge line plunge 186, 298
+
+Index interlimb angle 185, 296, 297 intersection lineation 188, 299 intrafolial 177, 180 isoclinal 184, 185, 297 measurement 186–7 orientation 186 parallel 185 photographs 66, 69 plunging 69 similar 185 sketches 66, 69 strain shadows 180 symmetry 186 tightness 184, 297 types 298 way-up 185–6 foliations 142, 176–91, 299 plotted on stereogram 175 gneissic 180 porphyroblast wrapping 202 transposition of 189 types 177, 178, 179 Folk classiﬁ cation scheme of carbonates 107, 283 footprint 79, 269, 288 formations, mapping 220 fossils 79–101 abundance 93, 94 estimation 95–6, 97, 98–9, 121–4, 124–6 allochthonous 88, 89 autochthonous 88, 89 bedding planes 86 sampling 92–3 biostratigraphy 90–1, 92, 272 bivalves 89, 267 body 82, 84–5, 87 brachiopods 89 carbonate 87 casts 267 channel sampling 90, 91 classiﬁ cation 82 clumping 94–5 colour 88 contagions 94–5 continuous sampling 90, 91 correspondence analysis 97 data collection 80–1 distribution 87 pattern 93–5 edge effects 95 extinctions 91 representation on graphic logs 51, 58, 92, 120–4, 124–6, 128, 137, 288 hydraulic equivalence 88 importance 79–80 invertebrate identiﬁ cation based on symmetry 82, 266 land ownership 81 legal protection of sites 81 life position 88–9 marking of sites 91 molecular 87, 253 morphology 84 moulds 267 orientation 89 photographs 68, 81 data collection 80 plant fossil 82, 83, 85, 92, 97, 98, 288 in meandering river depositional environment 130, 131 pollen samples 92 presence/absence scores 96 preservation 82, 84–5, 265 provenance information 80 quadrats 52, 92–3, 94, 95 rarefaction curve 93, 94 records 79–101 removal 81 sampling strategies 90–5, 253–4 sedimentary succession 80, 102 siliceous 88 size 93, 94 smart particles 79–81, 102 spot sampling 90–1 three-dimensional sampling 93 trace 85–6, 268–9 biogenic sedimentary structures 114 classiﬁ cation 270 tiering 271 transported 88–9 type specimens 81 types 82, 83 wrapping 99 fractures minor 170, 174, 175 see also faults frosted grains 129, 273 fusain 85 gabbro 7 cumulate layering 156 sheeted dyke complex 157 gamma-ray spectrometers 241, 242, 243–4, 245 gastropod 266, 288 geochemical analysis mapping 211 sample collection 253 Geographical Information Systems (GIS) 210 data sets 245–6
+
+Index electronic notebook use 34 geological maps 239 geological boundaries, mapping 234, 235 geological maps 35, 233–5, 236–7, 237–9 cross-sections 235, 236–7 fair copy 235, 237–9 GIS technology 239 layout 238 see also mapping geological planes, orientation 6 geological timescale 104, 264, 272 sedimentary rock record 104 geophysical instruments 241–5 calibration 244 data collection 243–4 drift 244 protection 245 transport 245 types 242 glacial 130, 232 glasses, protective 40 glauconite 274 global positioning systems (GPS) 6, 25, 37, 207 data collection 242 mapping 214, 223 position location 45 glomerocrysts 158 gneisses 194–6 grain size 180, 183, 197 igneous precursors 196 gneissic banding 180, 181, 194, 195 pelitic 195–6 psammitic 195–6 gneissosity 180, 181 Google EarthTM 46, 210 GoogleMapsTM 210 gouge fabrics 172, 173, 174 GPS, see global positioning system grain fabric 277 grain morphology 277 grain size charts 28, 29 descriptors 276 gneisses 180, 183, 197 metamorphic 194, 195, 197 schists 178, 183, 197 sedimentary rock 105, 108, 119, 273, 276 variations in pyroclastic rocks 152 graphic logs 1, 51, 58, 91, 92, 117–24, 124–6, 127–8, 135, 137 construction 121–4, 124–6 conventions 119–21 cumulate layering 156 ﬁ eld notebooks 58, 91, 121, 122, 128 fossils 51, 92, 120–4, 124–6, 128, 137, 288 grain size 119, 276 horizontal scale 119 lithology 119–20, 288 pre-formatted sheet 121, 122 pyroclastic deposits 51, 152, 154 sedimentary rock 51, 92, 117–24, 124–6 sedimentary structures 118, 120, 121, 288 stratigraphic order 51, 120 symbols 288 variations 120–1 vertical scale 119, 123 graphite 194, 198–9 gravity meters 242 groove casts 291 gutter casts 116, 131 hammers 6, 7, 31–2, 104, 139 checking 40 hand lens 4, 5, 80 hand specimens 49–51 hard hats 39–40 hardness testing 28–9, 263 hazardous substances 39 hazards, assessment/monitoring 37–9 head protection 36, 38, 39–40 high-resolution sampling 254–5 hinge clinometer 8, 16, 17 hoe pick 32 horizontal measurement conversion to true thickness, natural sines 26–7, 264 hue 30, 31 hummocky cross-stratiﬁ cation 109, 112, 113, 114, 115, 289 hyaloclastite fragments 146 hydraulic equivalence 88 hydraulic fracturing 169 hydrocarbons 80 hydrothermal veins 146 hypotheses 43, 221–2 igneous rocks 49, 50–1, 139–61, 293–5 chilling/chilled margins 141, 147, 149, 150 classiﬁ cation 155, 294 contacts concordant 142 discordant 141, 142 unexposed 141, 142 cumulate layering 156–7 discordance 141 enclaves 158 extrusive 140 faults 141 ﬁ eld equipment 139–40
+
+Index ﬁ eld relationships 139–44, 145, 146–7, 148, 149–50, 151, 152–4 ﬂ ow banding 155–6 fossils 79 internal architecture 144, 145, 146–7 intrusive 140, 141, 142, 293 joints 144, 145, 146 maﬁ c 155 mineral crystallization sequence 156–7 mineral texture/fabric 155–8 mineralogy 154–8, 294–5 petrologic type 155, 295 processes 139 quartz crystals 155 safety 139–40 small-scale textures 154–8 veins 144, 145, 146 volcanic neck 141 younging direction 251 see also dykes; lava; lava ﬂ ows; plutons; pyroclastic rocks; sills ignimbrite 144 impact vesiculation 148 International Codes of Botanical and Zoological Nomenclature (ICBN and ICZN) 81 intrusions 140–4, 293 concordant 142–4 discordant 141–4 plutons 141, 143–4, 146, 149, 156, 157 see also dykes; sills
+
+## IODP
+
+iPhone, digital tilt meter and compass 6 iron oxide 274 ironstones 111 isograd 200 Jacob staff 26, 27–8 elevation determination 25 joints 144, 145, 146, 165–6, 167, 168–71, 172, 173, 174–5, 176 columnar 144, 145, 146 dip 146 orientation 168–9 strike 146 key (legend) 217, 288, 309 kinematic indicators 182–3, 184 kink bands 172 kyanite 193, 194 laboratory analysis 1 lacustrine/lakes 103, 129 land ownership 40, 81 landforms, superﬁ cial deposits 232, 233 Landsat 210 landslides 232 lapilli, accretionary 152 laptop computers 34–5 mapping 239 laterite deposits 232 lava(s)
+
+ﬂ ow banding 155–6 graphic logs 51 vesicles 147, 148 lava ﬂ ows 142–4 a’a 147, 159, 161 architecture 147 columnar joints 144, 145 discordant 144 morphology 146, 147, 161 pahoehoe 147, 149, 161 pillow 146, 147, 149 rate measurement 159, 160 subglacial 146 subaqueous 146, 147 texture 146, 147 leaf impression 85 legal protection of sites 81 leisgang rings 110, 292 lenticular bedding 114, 290 lightning 38 limestones facies analysis 136–7 fossils 87 styolites 169 line, notation for measurement 165 linear feature orientation 16, 18–19, 20, 21 contact method 20 sighting method 20, 21 linear traverse 223, 224 lineations 187, 203 alignment 182 crenulation 189, 190, 191, 299 current 114, 291 intersection in folds 188, 299 magmatic 182 orientation 6 slickenside 170, 172, 175 stretching 180, 181, 182 lithic fragments 153 lithological units 220 lithology fossil-bearing ﬂ oat 87 graphic logs 119–20, 288 load casts 117, 292 location information 55, 56 logarithmic transforms, abundance estimation of fossils 97, 99
+
+Index macrofossils, see megafossils maﬁ c rock 155, 193, 195, 199, 201 magma autoliths 158 contacts 149 magma chamber 157 magmatic lineation 182 magnetic declination 10–11, 23 magnetic minerals, compasses 7 magnetic north 10 magnetic polarity patterns, sedimentary record magnetic susceptibility 243 meters 241, 242 magnetometers 242 mammoth, mummiﬁ ed 85 mantle deformation 163 map(s) 35–6, 37, 51 additional information on 217, 239 digital 239 ﬁ eld notebooks 55, 56 position location 45 sketch 68–72 see also base maps; ﬁ eld maps; geological maps; topographical maps map case 212, 213 mapping 43, 206–30, 306–9 compass-clinometer 207, 213, 214 contact 213, 225, 226 cross-sections 235, 236–7 database use 239 drainage features 230–1 equipment 207, 212–14 exposures 226–8, 234 fair copy maps 235, 237–9 faults 235 feature 228–9 ﬁ eld maps 216–18, 219, 220–2 ﬂ ow chart 234 formations 220 geological boundaries 234, 235 geophysical/geochemical data 211 laptop computers 239 line transfer methods 235 lithological divisions 218, 220–1 location 214 marker layers 220–1 materials 207–8, 209, 210–11, 211–12, 212–14 overlays 212–13 predictions 222 preparation 207–8, 209, 210–11, 211–12, 212–14 rock units 237–8 satellite 211–12 scales 213–14 sketch cross-sections 221–2 software 239 soil types 231, 232 superﬁ cial deposits 232, 233 symbols 229, 234, 238, 309 techniques 222–32, 233 topographic features 228–9 traverse 223–4 vegetation 230, 231 marine 102, 129, 286–7 marine plankton, cyclopentane rings 87 marker layers 220–1 marker pens 257 marls 110 masonry trowel 32 mass ﬂ ow processes 112 measurements 1 accuracy 5 basic 45–6, 47, 48–51 megafossils 80, 266 sample collection 253 meta-limestone 200 metagabbro 203 metamorphic facies 200, 304, 305 metamorphic grade 193, 197, 200 metamorphic rock 49, 50–1, 192–203, 203–5, 302–5 banding 194–6 classiﬁ cation 200–1 contact 199, 203 context 192–3 coronas 197 deformation 193, 201–3 ﬁ eld equipment 192 ﬁ eld relations 192–3 foliated 142 grain textures 196–7 high-strain 203 identiﬁ cation 193–4 lineations 203 mineral assemblages 197 mineralogy 198, 199, 200–1, 302–3 minerals, syntectonic growth 203 post-kinematic features 203 pre-kinematic features 202 pressure (P) conditions 197, 200, 201, 203 pseudomorphs 197 reaction textures 197–8 reaction zones 198 syn-kinematic features 202–3 temperature (T) conditions 197, 200, 201, 203 textures 194–8 younging direction 251
+
+Index metasomatism 198 micrite 119, 274, 276 microfossils 82 sample collection 253–4 Microsoft Bing MapsTM 210 migmatite 142 Milankovitch cycle, sedimentary record 104 mineral deposits samples for extraction 253 sedimentary rock exploitation 104 minerals assemblages 198, 200, 201, 304, 305 augen 196, 203 coronas 197 crystallization sequence 156–7 identiﬁ cation 198, 199, 200, 302–3, 304 metamorphic rock 198, 199, 200–1, 302–3 segregation in 194, 195 phenocrysts 196 pseudomorphs 197 sedimentary deposits 274 syntectonic growth 203 Mohs’ scale of hardness 263, 294–5, 302–3 molecular fossils 87, 253 monocline 184 mudslides 37 mudrocks 102, 105–6, 107, 110 carbonate 105–6 classiﬁ cation 281 colour 30, 106 conchoidal 106, 107 composition 106, 107 ﬁ ssility 32, 106, 107 fracture pattern 106, 107 meandering river depositional environment 130, 131 siliciclastic 106, 107, 281 mudstones, see mudrocks Muensteria 268, 288 Munsell colour charts 29, 30, 31, 104 mudstones 30, 106 Mylar*.110 overlays 213 mylonitic fabrics 177, 178, 179, 180, 181 shear sense 183 national grids 207 natural sines, horizontal measurement conversion to true thickness 264 netbook 34–5 observations 1, 42–52 interpreting 2 quantiﬁ cation 4–5 recording 72, 73–4 regional setting 45–6 scale 45–6, 47, 48–51 understanding 2 obsidian 155–6 oceanic crust, subducted 203, 204, 205 offsets (on faults) 165, 167, 171 Oman Ophiolite 156, 157 ophiolites, sea-ﬂ oor spreading origin 151 Ordnance Survey maps 207, 208, 209 ore minerals 139 joint surfaces 144 orientation data gathering 164 fossils 89 notations 165 planar brittle features 165–6, 167, 168–9 outcrop 1, 227 paces 45, 214 packaging materials for samples 256–7 pahoehoe 147, 159, 161 palaeocurrents, direction 5, 88, 114–5 palaeoecology 79 palaeomagnetic studies of oriented samples 252 palaeomagnetism 1 palaeontological records, see fossils particle sorting 277 partial melting 194 peats 89, 232 pebble 52, 271, 284 pedometer 45 pegmatite 146, 157 pencils 35, 57, 59, 63, 65 pens 35 penknife 6, 263 peperite 142, 146 Personal Digital Assistant (PDA) 34–5 personal provisions 36 phase layering 156 phenocrysts 158 of strong minerals 196 variation 52 phosphates 111 photographs 247–9 faults 173 reference to in ﬁ eld notebooks 56, 57, 58, 59, 68, 249 folds 66, 69 fossils 68, 81 data collection 80 lighting conditions 248 scale 249 see also aerial photographs physical ﬁ tness 37
+
+Index picks 31–2 piercing points 171, 172 pillow lava 147, 149, 204 plagioclase 155 planar cross-stratiﬁ cation 289 plane, notation for measurement 165 plane strain 300 plant fossils classiﬁ cation 82, 83 preservation 85 plate tectonics 139 plunge measurement 21 recording 164 notation 165 plunge arrows 234 plutons 141 chilled margins 149 ﬂ ow-banding 156 joints 144 pegmatite 157 pollen samples, fossil 92 porphyroblasts 189, 191 inclusion trails in 190, 202 random orientation 193, 203 wrapped by foliations 202 porphyroclasts 177 position location 45 private land 40, see also discussion on 81 processes, direction 5 protected sites 41, 81 protolith 193–195, 200–1 pseudomorphs in metamorphic rocks 197, 203 in sedimentary rocks 115, 291 pyrite 110, 111, 275 pyroclastic ﬂ ow 159, 161 cross-stratiﬁ cation 152, 153 pyroclastic rocks 143, 149–50, 152–4 ash 154 clast nature 152–3 clast size 153 cross-stratiﬁ cation 152, 153 ﬂ ow banding 153, 155–6 grain-size variations 152 graphic logs 51, 152, 154 large fragments 154 surge deposit 153 pyroclastic surge 159 pyroxene 155 quadrats 52 fossils 52, 92–3 size 93, 94, 95 quarries 43 reﬂ ective clothing 40 sketches 63 working machinery 38–9 quartz 274, 294, 295, 302 crystals in igneous rocks 155 testing for 105 quartzites 200 radiolaria fossils 88 rarefaction curve, fossils 93, 94 reaction zones, metamorphic rock 198 records 2 ﬁ eld notebook 242, 243 palaeontological information 79–101 structural information 163–88, 189–91, 296–301 reﬂ ective clothing 40 regional setting 45–6 regional studies, sample collection 254 regolith 231, 232 report writing 260 rheomorphic tuff 153 Rhizocorallium 268, 270, 288 rhyolite 155 ridges 229 Riedel fractures 172, 173, 174, 175 ripples 275 climbing 103, 114, 115, 288, 290 current-formed 114–5, 275, 288, 290 impact 114 wave-formed 103, 114–5, 275, 288, 290 river channel inﬁ lls 6, 81 river sections 43 road cuts 43 sketches 63 rock classiﬁ cation 49, 105–9, 155, 200–1, 280, 281, 283, 284, 295 colour charts 29, 30, 31 comparison charts 28 description of hand specimens 49–51 grain-size charts 28, 29, 276 slippery 38 splinters 40 thin-sections 251 types in mapping area 227 unconsolidated 37–8 rock falls 37 rock units ASTER satellite mapping 211–12 correlation 80 dating 80 geometry 5
+
+Index hydrocarbon potential 80 mapping 237–8 rucksacks 36 ruler, folding 26 safety 4, 36–40 igneous rocks 139–40 volcanoes 159 safety equipment 39–40 sag pond 167, 167 sample collection 48–9, 250–8 curation 260 extraction 257–8 ﬁ eld notebooks 55, 56 fossils 253–4 geochemical analysis 253 hand specimens 49–51 high-resolution sample sets 254–5 labelling of samples 255–6 marker pens 257 mineral extraction 253 oriented samples 251–2 packaging of samples 255–6 packing materials 256–7 precisely oriented samples 251–2 regional studies 254 selection of samples 250–5 storage 260 thin-sections 251 younging direction 251 sand dunes 232 sandstones 110 classiﬁ cation 280 meandering river depositional environment 130–133 satellite image display systems 46 satellite images 207, 210–11, 225 satellite mapping 211–12 scales, mapping 213–14 scarps 229 schists deformed 189, 190, 191 grain size 178, 183, 197 identiﬁ cation 193–4 schistosity 177, 178, 179, 180, 189, 190 scoria 150, 159 cone 161 scour 116, 279, 291 sea-cliffs 43, 63 sea-level change 103, 133–5 sedimentary deposits 103 sequence stratigraphy 134–5, 286–7 sediment deposition environmental change 103 meandering river depositional environment 130–3 processes 102, 103 trace fossils 86 sediment erosion 291 trace fossils 86 sedimentary bedding character 279 dip 141 ﬂ aser 290 lamination 278 lenticular 290 metamorphic rock 194, 195 thickness 278 sedimentary contact 136–7 sedimentary deposits bed character 279 data collection 102–4, 273 grading 280, 291 minerals 274 nodules 292 particle sorting 277 recording 104–9, 110–11, 112, 113, 114, 114–17 sedimentary environment meandering river depositional environment 130–3 reconstruction 127–9, 129–33, 285 sedimentary lithology, recording 104–9, 110–11, 273, 274, 276–7, 283–4 sedimentary rock 49–51, 102–35, 136–7, 273–92 charts 104, 273–92 classiﬁ cation 284 climate change interpretation 133–4 diagnostic features 127–9, 129–33, 285 exploitation 104 facies analysis 127–9, 135, 136–7 fossils 79, 87, 102 grain size 119 graphic logs 51, 117–24, 124–6 igneous intrusions 141 quadrats 52 record 104 sea-level change interpretation 133–5 types 105–9, 110–11 younging direction 251 sedimentary structures 109–17, 289–92 ball and pillow 292 bedding type 278, 279 biogenic 114, see also fossils, trace cross-stratiﬁ cation 68, 109, 112, 113, 114, 115, current lineation 114, 291 dendrites 117, 292
+
+Index depositional 114, 114–15 describing 112, 113, 114, 136–7 dewatering 292 dish and pillar or dish 117, 292 erosional 114, 116 ﬂ ame 292 ﬂ aser bedding 114 ﬂ ute casts 112, 116, 291 grading 280, 291 graphic logs 120, 288 groove casts 212 gutter casts 116, 131 hummocky cross-stratiﬁ cation (HCS) 109, 112, 113, 114, 115, 289 identiﬁ cation 112, 113, 114, 136–7 lamination/laminae 106, 110, 114, 115, 278, leisgang rings 117, 292 load casts 117, 292 nodules 117, 292 observing 112, 113, 114, 136–7 planar lamination 115, 291 post-depositional 114, 116–17 pseudomorphs 115, 291 recording 109, 112, 113, 114, 114–17 ripples climbing 103, 114, 115, 288, 290 current-formed 114–5, 275, 288, 290 impact 114 wave-formed 103, 114–5, 275, 288, 290 scour 116, 279, 291 stylolites 110, 169 swaley cross-stratiﬁ cation (SCS) 109, 112, 114, 115, 289 tidal bundles 115, 290 sedimentation rate 88 sedimentation unit 93 seismic surveys 242 sequence stratigraphy, sea-level change 133–5, 286–7 serpentinite 7 shadow stick methods 45 shear, direction 180, 181, 182 shear, simple 183 shear joints 168, 169 shear sense 171, 172 kinematic indicators 182–3, 184 shear strain magnitude 184, 185 shear zones 176–91 sheeted dyke complex 157 siderite 109 Signor–Lipps effect 91 siliciclastic rocks 102, 105–7 classiﬁ cation 105, 280, 281 grain size 119, 276 sillimanite 193, 194 sills 142–3, 144, 146, 221 columnar joints 143, 144 lava ﬂ ow distinction 143–4 siltstones 110, 276, 288 Silva-type compass-clinometer 6, 7, 9 dipping plane orientation 11, 12–13 linear feature orientation 18–19, 20 location determination 20, 24, 25 magnetic declination adjustment 10–11 mapping 213 sites legal protection 81 respect for 40–1 sketch maps 51, 68–9, 70, 71–2 sketch cross-sections 57, 60, 221–2 sketches 51 aims 61–3 angles 52, 62–3 anticlines 68, 69 boundaries 65, 67 centimetre-scale features 67–8 colour use 63 dip magnitude 68 exposures 60, 62, 63, 64–5, 66–7 ﬁ eld notebooks 55–72 folds 66, 69 geometry 62–3 tracing structures 68 insert boxes 63 maps 68–72 metre-scale features 67–8 orientation 61 scale 60, 61, 67 space 60, 61 structurally complex exposures 66, 173 synclines 68, 69 three-dimensional features 67–8 skin protection 36, 38 slaty cleavage 177, 178, 179, 180 slickenﬁ bres 170, 173 slickenline orientation 170, 174, 175, 299 slickenside lineations 170, 172 slip increments 170 magnitude 173 oblique-slip faults 296 smart particles, fossils 79–81, 102 snow avalanches 37 software, mapping 239 soil igneous intrusions 141 mapping information 231, 232
+
+Index spade 32 sparite 119, 274, 276 spatter 148, 150 spot sampling, fossils 90–1 spreiten patterns 86, 113 stereographic plot 175 stereographic projections 301 stereonets 51–2 stoping 141 strain axes 300 stratigraphic succession see also graphic logs; biostratigraphy strandplain 129, 285 stream sections 43, 223 stretching lineations 180, 181, 182 direction 182 striations 116, 170, 182, 299 strike 11, 13, 14, 16, 307 strike lines 218, 234 precisely oriented samples 252 strike-slip faults 166, 170–1, 231 structural information 163–88, 189–91, 296–301 brittle structures 165–6, 167, 168–71, 172, 173, 174–5, 176 data collection 164–5 ductile structures 176–7, 178, 179, 180, 181, 182–3, 184, 185–8, 189–91 equipment 164 plotting on maps 218, 219, 234, 238 measurements 164–5 notations 164–5 stereographic projections 301 stylolites 110, 169 submarine fan 129, see also turbidites superﬁ cial deposits 208, 218, 222, 225–7, 228, 230, 232 survey grids 244–5 swaley cross-stratiﬁ cation 109, 112, 114, 115, 289 synclines, sketching 68, 69, 296, 309, see also folds synform 68, 296 tape measures 26, 212 taxons, origin/last appearance 91 Teichichnus 269, 288 tectonic fabrics metamorphic rock 194, 195 see also foliation TEX86 palaeotemperature proxy 87 textures/textural 49 granular 196 igneous 146, 152–3, 154–158 metamorphic 196–198 reaction 197 sedimentary 105, 108, 273, 276, 277 Thalassinoides 124, 268, 270, 288 thermometers, infrared 159, 160 thickness measurement 26–8 inclined strata 27–8 lateral changes 46, 47, 48 natural sines for horizontal measurement conversion 264 standard 26–7 thin-sections 155 thrust faults 166, 170 tidal bundles 115, 290 tides 38, 285 rising 38 tool marks 112, 116 topographical maps 35–6, 207–8, 209, 210–11, 211–12 position location 45 sketch mapping 71 trace fossils, see fossils, trace traverse mapping 223–4 tree fern 85 tree trunks, fossil 88, 89 triangulation 20, 22–4, 25, 45, 215–16 trilobite 266, 288 trough cross-stratiﬁ cation 289 true north 10 true thickness 26, 27 tuff 152, 153 cone / ring 161 rheomorphic 153 turbidites 129, see also ﬂ ute casts; groove casts; ﬂ ute casts unconformities 48, 135 uneven surfaces 38 U.S. Geological Survey topographic maps 207 value (of colour) 29, 30 vegetation changes 47, 48, 230 igneous intrusions 141 mapping information 230, 231 veins 165–76 conjugate 168, 169 dilational 170 en echelon 172 synmetamorphic 193–4 vent agglomerate 150 vesicles 147, 148 mineral inﬁ ll 147 volatiles 146, 152–3, 157 volcanic ash 161, 221, see also bentonites consolidated 152
+
+Index radiometric dating of sedimentary record 104 volcanic bombs 148, 159, 161 vesicles 147 volcanic caldera 143 volcanic gases 159 volcanic neck 141 volcanic rock, see pyroclastic rocks volcanoes 139 access 160 active 159–61 ﬁ eld equipment 159, 160 observations 160–1 observatories 160 recent 159–61 safety 159 vents 161 see also bombs; lava(s); lava ﬂ ows Walther’s Law 127, 135, 220 waterproofs 38 wave-cut platforms, bedding plane exposure 91 waves 285 weather conditions 38 weathering 47, 48 differential 49, 65 igneous intrusions 141 wilderness code of ethics 41 wire brushes 32 wooded regions 45 working alone 39 working hypotheses 43 working machinery 38–9 World Geodetic System 1984 (WGS84) 25 writing equipment 35 xenocrysts 158 xenoliths 158 XRF, portable 242, 245 younging direction 185, 251 zeolites, joint surfaces 144 Zoophycos 268, 270, 288

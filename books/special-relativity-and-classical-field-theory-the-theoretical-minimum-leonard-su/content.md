@@ -1,0 +1,1526 @@
+# Special Relativity and Classical Field Theory The Theoretical Minimum Leonard Susskind Art Friedman Z Library
+
+> 来源文件：pre_Special_Relativity_and_Classical_Field_Theory_The_Theoretical_Minimum_Leonard_Susskind_Art_Friedman_Z_Library.txt
+> 字符数（约）：283048
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Copyright Copyright © 2017 by Leonard Susskind and Art Friedman Hachette Book Group supports the right to free expression and the value of copyright. The purpose of copyright is to encourage writers and artists to produce the creative works that enrich our culture.
+
+The scanning, uploading, and distribution of this book without permission is a theft of the author’s intellectual property. If you would like permission to use material from the book (other than for review purposes), please contact permissions@hbgusa.com. Thank you for your support of the author’s rights.
+
+Basic Books Hachette Book Group 1290 Avenue of the Americas, New York, NY 10104 www.basicbooks.com First Edition: September 2017 Published by Basic Books, an imprint of Perseus Books, LLC, a subsidiary of Hachette Book Group, Inc.
+
+The Hachette Speakers Bureau provides a wide range of authors for speaking events. To find out more, go to www.hachettespeakersbureau.com or call (866) 376-6591.
+
+The publisher is not responsible for websites (or their content) that are not owned by the publisher.
+
+Library of Congress Control Number: 2017935228 ISBNs: 978-0-465-09334-2 (hardcover); 978-0-465-09335-9 (e-book)
+
+LSC-C E3-20170905-JV-PC
+
+Contents Cover Title Page Copyright Dedication Preface Introduction Lecture 1: The Lorentz Transformation Lecture 2: Velocities and 4-Vectors Lecture 3: Relativistic Laws of Motion Lecture 4: Classical Field Theory Lecture 5: Particles and Fields Interlude: Crazy Units Lecture 6: The Lorentz Force Law Lecture 7: Fundamental Principles and Gauge Invariance Lecture 8: Maxwell’s Equations Lecture 9: Physical Consequences of Maxwell’s Equations Lecture 10: Maxwell From Lagrange Lecture 11: Fields and Classical Mechanics About the Author Also by the Authors
+
+## Appendix A: Magnetic Monopoles: Lenny Fools Art
+
+## Appendix B: Review of 3-Vector Operators
+
+Index
+
+To my father and my hero, a man of courage, Benjamin Susskind —LS To my wife, Maggie, and her parents, David and Barbara Sloan —AF
+
+This book is the third volume of the Theoretical Minimum series. The first volume, The Theoretical Minimum: What You Need to Know to Start Doing Physics, covered classical mechanics, which is the core of any physics education. We will refer to it from time to time simply as Volume I. The second book (Volume II) explains quantum mechanics and its relationship to classical mechanics. This third volume covers special relativity and classical field theory.
+
+The books in this series run parallel to Leonard Susskind’s videos, available on the Web through Stanford University (see www.theoreticalminimum.com for a listing). While covering the same general topics as the videos, the books contain additional details and topics that don’t appear in the videos.
+
+Preface This book is one of several that closely follow my Internet course series, The Theoretical Minimum. My coauthor, Art Friedman, was a student in these courses. The book benefited from the fact that Art was learning the subject and was therefore sensitive to the issues that might be confusing to the beginner. During the course of writing, we had a lot of fun, and we’ve tried to convey some of that spirit with a bit of humor. If you don’t get it, ignore it.
+
+The two previous books in this series cover classical mechanics and basic quantum mechanics. So far, we have not studied light, and that’s because light is a relativistic phenomenon—a phenomenon that has to do with the special theory of relativity, or SR as we’ll sometimes call it. That’s our goal for this book: SR and classical field theory. Classical field theory means electromagnetic theory—waves, forces on charged particles, and so on—in the context of SR. Special relativity is where we’ll begin.
+
+Leonard Susskind
+
+My parents, the children of immigrants, were bilingual. They taught us kids some Yiddish words and phrases but mainly reserved that language for themselves, often to say things they did not want us to understand. Many of their secret conversations were accompanied by loud peals of laughter. Yiddish is an expressive language; it’s well suited to great literature as well as to daily life and down-to-earth humor. It bothers me that my own comprehension is so limited. I’d love to read all the great works in the original, but frankly I’d be happy enough just to get the jokes.
+
+A lot of us have similar feelings about mathematical physics. We want to understand the great ideas and problems and engage our own creativity. We know there’s poetry to be read and written, and we’re eager to participate in some fashion. All we lack is that “secret” language. In this series, our goal is to teach you the language of physics and show you some of the great ideas in their native habitat.
+
+If you join us, you’ll be able to wrap your head around a good portion of twentieth-century physics. You’ll certainly be equipped to understand much of Einstein’s early work. At a minimum, you’ll “get the jokes” and the serious ideas that underlie them. To get you started, we’ve thrown in a few jokes of our own, including some real groaners.
+
+I’m delighted to acknowledge everyone who helped and supported us along the way. It may be a cliché to say “we couldn’t have done it without you,” but it also happens to be true. Working with the professionals at Brockman, Inc., and Basic Books is always a pleasure as well as a learning experience. John Brockman, Max Brockman, and Michael Healey played a critical role in transforming our idea into a real project. From there, TJ Kelleher, Hélène Barthélemy, Carrie Napolitano, and Melissa Veronesi walked us through the editorial and production process with great skill and understanding. Laura Stickney of Penguin Books coordinated the publication of the UK edition so smoothly, we hardly saw it happening. Copyeditor Amy J. Schneider made substantial improvements to our initial manuscript, as did proofreaders Lor Gehret and Ben Tedoff.
+
+A number of Leonard’s former students generously offered to review the manuscript. This was no small task. Their insights and suggestions were invaluable, and the book is far better as a result. Our sincere thanks go to Jeremy Branscome, Byron Dom, Jeff Justice, Clinton Lewis, Johan Shamril Sosa, and Dawn Marcia Wilson.
+
+As always, the warmth and support I’ve received from family and friends has seen me through this project. My wife, Maggie, spent hours creating and re-creating the two Hermann’s Hideaway drawings, getting them done on time while dealing with the illness and passing of her mother.
+
+This project has afforded me the luxury of pursuing two of my life passions at the same time: graduate level physics and fourth-grade humor. In this respect, Leonard and I are a perfect team, and collaborating with him is an unmitigated pleasure.
+
+Art Friedman
+
+Introduction Dear readers and students of The Theoretical Minimum, Hello there, and welcome back to Lenny & Art’s Excellent Adventure. We last left the intrepid pair recovering from a wild rollicking roller coaster ride through the quantum world of entanglement and uncertainty. They were ready for something sedate, something reliable and deterministic, something classical. But the ride continues in Volume III, and it’s no less wild. Contracting rods, time dilation, twin paradoxes, relative simultaneity, stretch limousines that do and don’t fit into Volkswagen-size garages. Lenny and Art are hardly finished with their madcap adventure. And at the end of the ride Lenny tricks Art with a fake monopole.
+
+Well, maybe that is a bit overwrought, but to the beginner the relativistic world is a strange and wondrous fun house, full of dangerous puzzles and slippery paradoxes. But we’ll be there to hold your hand when the going gets tough. Some basic grounding in calculus and linear algebra should be good enough to get you through.
+
+Our goal as always is to explain things in a completely serious way, without dumbing them down at all, but also without explaining more than is necessary to go to the next step. Depending on your preference, that could be either quantum field theory or general relativity.
+
+It’s been a while since Art and I published Volume II on quantum mechanics. We’ve been tremendously gratified by the thousands of e-mails expressing appreciation for our efforts, thus far, to distill the most important theoretical principles of physics into TTM.
+
+The first volume on classical mechanics was mostly about the general framework for classical physics that was set up in the nineteenth century by Lagrange, Hamilton, Poisson, and other greats. That framework has lasted, and provides the underpinning for all modern physics, even as it grew into quantum mechanics. Quantum mechanics percolated into physics starting from the year 1900, when Max Planck discovered the limits of classical physics, until 1926 when Paul Dirac synthesized the ideas of Planck, Einstein, Bohr, de Broglie, Schrödinger, Heisenberg, and Born into a consistent mathematical theory. That great synthesis (which, by the way, was based on Hamilton’s and Poisson’s framework for classical mechanics) was the subject of TTM Volume II.
+
+In Volume III we take a historical step back to the nineteenth century to the origins of modern field theory. I’m not a historian, but I think I am accurate in tracing the idea of a field to Michael Faraday. Faraday’s mathematics was rudimentary, but his powers of visualization were extraordinary and led him to the concepts of electromagnetic field, lines of force, and electromagnetic induction. In his intuitive way he understood most of what Maxwell later combined into his unified equations of electromagnetism. Faraday was lacking one element, namely that a changing electric field leads to effects similar to those of an electric current.
+
+It was Maxwell who later discovered this so-called displacement current, sometime in the early 1860s, and then went on to construct the first true field theory: the theory of electromagnetism and electromagnetic radiation. But Maxwell’s theory was not without It had its own troubling confusions. The problem with Maxwell’s theory was that it did not seem to be consistent with a basic principle, attributed to Galileo and clearly spelled out by Newton: All motion is relative. No (inertial) frame of reference is more entitled to be thought of as at rest than any other frame. However this principle was at odds with electromagnetic theory, which predicted that light moves with a distinct velocity c = 3 × 10⁸ meters per second. How could it be possible for light to have the same velocity in every frame of reference? How could it be that light travels with the same velocity in the rest frame of the train station, and also in the frame of the speeding train? Maxwell and others knew about the clash, and resolved it the simplest way they knew how: by the expedient of tossing out Galileo’s principle of relative motion. They pictured the world as being filled with a peculiar substance—the ether—which, like an ordinary material, would have a rest frame in which it was not moving. That’s the only frame, according to the etherists, in which Maxwell’s equations were correct. In any other frame, moving with respect to the ether, the equations had to be adjusted. This was the status until 1887 when Albert Michelson and Edward Morley did their famous experiment, attempting to measure the small changes in the motion of light due to the motion of Earth through the ether. No doubt most readers know what happened; they failed to find any. People tried to explain away Michelson and Morley’s result. The simplest idea was called ether drag, the idea being that the ether is dragged along with Earth so that the Michelson-Morley experiment was really at rest with respect to the ether. But no matter how you tried to rescue it, the ether theory was ugly and ungainly. According to his own testimony, Einstein did not know about the Michelson-Morley experiment when in 1895 (at age sixteen), he began to think about the clash between electromagnetism and the relativity of motion. He simply felt intuitively that the clash somehow was not real. He based his thinking on two postulates that together seemed irreconcilable: 1. The laws of nature are the same in all frames of reference. Thus there can be no preferred ether-frame. 2. It is a law of nature that light moves with velocity c. As uncomfortable as it probably seemed, the two principles together implied that light must move with the same velocity in all frames. It took almost ten years, but by 1905 Einstein had reconciled the principles into what he called the special theory of relativity. It is interesting that the title of the 1905 paper did not contain the word relativity at all; it was “On the Electrodynamics of Moving Bodies.” Gone from physics was the ever more complicated ether; in its place was a new theory of space and time. However, to this day you will still find a residue of the ether theory in textbooks, where you will find the symbol κ₀, the so-called dielectric constant of the vacuum, as if the vacuum were a substance with material properties. Students new to the subject often encounter a great deal of confusion originating from conventions and jargon that trace back to the ether theory. If I’ve done nothing else in these lectures, I tried to get rid of these confusions. As in the other books in TTM I’ve kept the material to the minimum needed to move to the next step—depending on your preference, either quantum field theory or general relativity. You’ve heard this before: Classical mechanics is intuitive; things move in predictable ways. An experienced ballplayer can take a quick look at a fly ball and from its location and its velocity know where to run in order to be there just in time to catch the ball. Of course, a sudden unexpected gust of wind might fool him, but that’s only because he didn’t take into account all the variables. There is an obvious reason why classical mechanics is intuitive: Humans, and animals before them, have been using it many times every day for survival. In our quantum mechanics book, we explained in great detail why learning that subject requires us to forget our physical intuition and replace it with something entirely different. We had to learn new mathematical abstractions and a new way of connecting them to the physical world. But what about special relativity? While quantum mechanics explores the world of the VERY SMALL, special relativity takes us into the realm of the VERY FAST, and yes, it also forces us to bend our intuition. But here’s the good news: The mathematics of special relativity is far less abstract, and we don’t need brain surgery to connect those abstractions to the physical world. SR does stretch our intuition, but the stretch is far more gentle. In fact, SR is generally regarded as a branch of classical physics. Special relativity requires us to rethink our notions of space, time, and especially simultaneity. Physicists did not make these revisions frivolously. As with any conceptual leap, SR was resisted by many. You could say that some physicists had to be dragged kicking and screaming to an acceptance of SR, and others never accepted it at all.¹ Why did most of them ultimately relent? Aside from the many experiments that confirmed the predictions made by SR, there was strong theoretical support. The classical theory of electromagnetism, perfected by Maxwell and others during the nineteenth century, quietly proclaimed that “the speed of light is the speed of light.” In other words, the speed of light is the same in every inertial (nonaccelerating) reference frame. While this conclusion was disturbing, it could not just be ignored—the theory of electromagnetism is far too successful to be brushed aside. In this book, we’ll explore SR’s deep connections to electromagnetic theory, as well as its many interesting predictions and paradoxes. ¹ Notably Albert Michelson, the first American to win a Nobel Prize in physics, and his collaborator Edward Morley. Their precise measurements provided strong confirmation of SR. Lecture 1: The Lorentz Transformation We open Volume III with Art and Lenny running for their lives. Art: Geez, Lenny, thank heavens we got out of Hilbert’s place alive! I thought we’d never get disentangled. Can’t we find a more classical place to hang out? Lenny: Good idea, Art. I’ve had it with all that uncertainty. Let’s head over to Hermann’s Hideaway and see what’s definitely happening. Art: Where? Who is this guy Hermann? Lenny: Minkowski? Oh, you’ll love him. I guarantee there won’t be any bras in Minkowski’s space. No kets either. Lenny and Art soon wind up at Hermann’s Hideaway, a tavern that caters to a fast-paced crowd. Art: Why did Hermann build his Hideaway way out here in the middle of—what? A cow pasture? A rice paddy? Lenny: We just call it a field. You can grow just about anything you like; cows, rice, sour pickles, you name it. Hermann’s an old friend, and I rent the land out to him at a very low price. Art: So you’re a gentleman farmer! Who knew? By the way, how come everyone here is so skinny? Is the food that bad? Lenny: The food is great. They’re skinny because they’re moving so fast. Hermann provides free jet packs to play with. Quick! Look out! Duck! DUCK! Art: Goose! Let’s try one out! We could both stand to get a bit thinner. More than anything else, the special theory of relativity is a theory about reference frames. If we say something about the physical world, does our statement remain true in a different reference frame? Is an observation made by a person standing still on the ground equally valid for a person flying in a jet? Are there quantities or statements that are invariant—that do not depend at all on the observer’s reference frame? The answers to questions of this sort turn out to be interesting and surprising. In fact, they sparked a revolution in physics in the early years of the twentieth century. 1.1 Reference Frames You already know something about reference frames. I talked about them in Volume I on classical mechanics. Cartesian coordinates, for example, are familiar to most people. A Cartesian frame has a set of spatial coordinates x, y, and z, and an origin. If you want to think concretely about what a coordinate system means, think of space as being filled up with a lattice of metersticks so that every point in space can be specified as being a certain number of meters to the left, a certain number of meters up, a certain number of meters in or out, from the origin. That’s a coordinate system for space. It allows us to specify where an event happens. In order to specify when something happens we also need a time coordinate. A reference frame is a coordinate system for both space and time. It consists of an x-, y-, z-, and t axis. We can extend our notion of concreteness by imagining that there’s a clock at every point in space. We also imagine that we have made sure that all the clocks are synchronized, meaning that they all read t = 0 at the same instant, and that the clocks all run at the same rate. Thus a reference frame (or RF for simplicity) is a real or imagined lattice of metersticks together with a synchronized set of clocks at every point. There are many ways to specify points in space and time, of course, which means we can have different RFs. We can translate the origin x = y = z = t = 0 to some other point, so that a location in space and time is measured relative to the new origin. We can also rotate the coordinates from one orientation to another. Finally, we consider frames that are moving relative to some particular frame. We can speak of your frame and my frame, and here we come to a key point: Besides the coordinate axes and the origin, a reference frame may be associated with an observer who can use all those clocks and metersticks to make measurements. Let’s assume you’re sitting still at the center of the front row in the lecture hall. The lecture hall is filled with metersticks and clocks at rest in your fr Every event that takes place in the room is assigned a position and a time by your sticks and clocks. I’m also in the lecture hall, but instead of standing still I move around. I might march past you moving to the left or to the right, and as I do I carry my lattice of clocks and metersticks with me. At every instant I’m at the center of my own space coordinates, and you are at the center of yours. Obviously my coordinates are different from yours. You specify an event by an x, y, z, and t, and I specify the same event by a different set of coordinates in order to account for the fact that I may be moving past you. In particular if I am moving along the x axis relative to you, we won’t agree about our x coordinates. I’ll always say that the end of my nose is at x = 5, meaning that it is five inches in front of the center of my head. However, you will say my nose is not at x = 5; you’ll say my nose is moving, and that its position changes with time.
+
+I might also scratch my nose at t = 2, by which I mean that the clock at the end of my nose indicated 2 seconds into the lecture when my nose was scratched. You might be tempted to think that your clock would also read t = 2 at the point where my nose was scratched. But that’s exactly where relativistic physics departs from Newtonian physics. The assumption that all clocks in all frames of reference can be synchronized seems intuitively obvious, but it conflicts with Einstein’s assumption of relative motion and the universality of the speed of light.
+
+We’ll soon elaborate on how, and to what extent, clocks at different places in different reference frames can be synchronized, but for now we’ll just assume that at any given instant of time all of your clocks agree with each other, and they agree with my clocks. In other words we temporarily follow Newton and assume that the time coordinate is exactly the same for you as it is for me, and there’s no ambiguity resulting from our relative motion.
+
+## 1.2 Inertial Reference Frames
+
+The laws of physics would be very hard to describe without coordinates to label the events that take place. As we’ve seen, there are many sets of coordinates and therefore many descriptions of the same events. What relativity meant, to Galileo and Newton as well as Einstein, is that the laws governing those events are the same in all inertial reference frames.1 An inertial frame is one in which a particle, with no external forces acting on it, moves in a straight line with uniform velocity. It is obvious that not all frames are inertial. Suppose your frame is inertial so that a particle, thrown through the room, moves with uniform velocity when measured by your sticks and clocks. If I happen to be pacing back and forth, the particle will look to me like it accelerates every time I turn around. But if I walk with steady motion along a straight line, I too will see the particle with uniform velocity. What we may say in general is that any two frames that are both inertial must move with uniform relative motion along a straight line.
+
+It’s a feature of Newtonian mechanics that the laws of physics, F = ma together with Newton’s law of gravitational attraction, are the same in every IRF. I like to describe it this way: Suppose that I am an accomplished juggler. I have learned some rules for successful juggling, such as the following: If I throw a ball vertically upward it will fall back to the same point where it started. In fact, I learned my rules while standing on the platform of a railway station waiting for the train.
+
+When the train stops at the station I jump on and immediately start to juggle. But as the train pulls out of the station, the old laws don’t work. For a time the balls seem to move in odd ways, falling where I don’t expect them. However, once the train gets going with uniform velocity, the laws start working again. If I’m in a moving IRF and everything is sealed so that I can’t see outside, I cannot tell that I’m moving. If I try to find out by doing some juggling, I’ll find out that my standard laws of juggling work. I might assume that I’m at rest, but that’s not correct; all I can really say is that I’m in an inertial reference frame.
+
+The principle of relativity states that the laws of physics are the same in every IRF. That principle was not invented by Einstein; it existed before him and is usually attributed to Galileo. Newton certainly would have recognized it. What new ingredient did Einstein add? He added one law of physics: the law that the speed of light is the speed of light, c. In units of meters per second, the speed of light is approximately 3 × 108. In miles per second it is about 186,000, and in light-years per year it is exactly 1. But once the units are chosen, Einstein’s new law states that the velocity of light is the same for every observer.
+
+When you combine these two ideas—that the laws of physics are the same in every IRF, and that it’s a law of physics that light moves at a fixed velocity—you come to the conclusion that light must move with the same velocity in every IRF. That conclusion is truly puzzling. It led some physicists to reject SR altogether. In the next section, we’ll follow Einstein’s logic and find out the ramifications of this new law.
+
+1.2.1 Newtonian (Pre-SR) Frames In this section I will explain how Newton would have described the relation between reference frames, and the conclusions he would have made about the motion of light rays. Newton’s basic postulate would have been that there exists a universal time, the same in all reference frames.
+
+Let’s begin by ignoring the y and z directions and focus entirely on the x direction. We’ll pretend that the world is one-dimensional and that all observers are free to move along the x axis but are frozen in the other two directions of space. Fig. 1.1 follows the standard convention in which the x axis points to the right, and the t axis points up. These axes describe the metersticks and clocks in your frame—the frame at rest in the lecture hall. (I will arbitrarily refer to your frame as the rest frame and my frame as the moving frame.) We’ll assume that in your frame light moves with its standard speed c. A diagram of this kind is called a spacetime diagram. You can think of it as a map of the world, but a map that shows all possible places and all possible times. If a light ray is sent out from the origin, moving toward the right, it will move with a trajectory given by the equation
+
+Figure 1.1: Newtonian Frames.
+
+x = ct.
+
+Similarly a light ray moving to the left would be represented by x = −ct. A negative velocity just means moving to the left. In the various figures that follow I will draw them as if my frame is moving to the right (v positive). As an exercise you can redraw them for negative v.
+
+In Fig. 1.1, the light ray is shown as a dashed line. If the units for the axes are meters and seconds, the light ray will appear almost horizontal; it will move 3 × 108 meters to the right while moving vertically by only 1 second! But the numerical value of c depends entirely on the units we choose. Therefore, it is convenient to use some other units for the speed of light—units in which we see more clearly that the slope of the light-ray trajectory is finite.
+
+Now let’s add my frame, moving along the x axis relative to your frame, with a uniform velocity v.2 The velocity could be either positive (in which case I would be moving to your right), negative (in which case I would be moving to your left), or zero (in which case we are at rest relative to each other, and my trajectory would be a vertical line in the figure).
+
+I’ll call the coordinates in my frame x′ and t′ instead of x and t. The fact that I am moving relative to you with a constant velocity implies that my trajectory through spacetime is a straight line. You may describe my motion by the equation x = vt or x − vt = 0, where v is my velocity relative to you, as shown in Fig. 1.1. How do I describe my own motion? That’s easy; I am always at the origin of my own coordinate system. In other words, I describe myself by the equation x′ = 0. The interesting question is, how do we translate from one frame to the other; in other words, what’s the relationship between your coordinates and mine? According to Newton, that relation would be
+
+The first of these equations is Newton’s assumption of universal time, the same for all observers. The second just shows that my coordinate x′ is displaced from your coordinate by our relative velocity times the time, measured from the origin. From this we see that the equations x − vt = 0 and x′ = 0 have the same meaning. Eqs. 1.1 and 1.2 comprise the Newtonian transformation of coordinates between two inertial reference frames. If you know when and where an event happens in your coordinates, you can tell me in my coordinates when and where it happens. Can we invert the relationship? That’s easy and I will leave it to you. The result is
+
+Now let’s look at the light ray in Fig. 1.1. According to assumption, it moves along the path x = ct in your frame. How do I describe its motion in my frame? I simply substitute the values of x and t from Eqs. 1.3 and 1.4 into the equation x = ct, to get x′ + vt′ = ct′, which we rewrite in the form x′ = (c − v)t′. Not surprisingly, this shows the light ray moving with velocity (c − v) in my frame. That spells trouble for Einstein’s new law—the law that all light rays move with the same speed c in every IRF. If Einstein is correct, then something is seriously wrong. Einstein and Newton cannot both be right: The speed of light cannot be universal if there is a universal time that all observers agree on.
+
+Before moving on, let’s just see what would happen to a light ray moving to the left. In your frame such a light ray would have the equation x = −ct. It’s easy to see that in my frame the Newtonian rules would give x′ = −(c + v)t. In other words, if I’m moving to your right, a light ray moving in the same direction travels a little slower ( with speed c − v), and a light ray moving in the opposite direction travels a little faster (with speed c + v) relative to me. That’s what Newton and Galileo would have said. That’s what everyone would have said until the end of the nineteenth century when people started measuring the speed of light with great precision and found out that it’s always the same, no matter how the inertial observers move.
+
+The only way to reconcile this conflict is to recognize that something is wrong with Newton’s transformation law between coordinates in different frames.3 We need to figure out how to repair Eqs. 1.1 and 1.2 so that the speed of light is the same for both of us.
+
+1.2.2 SR Frames Before deriving our new transformation equations, let’s revisit one of Newton’s key assumptions. The assumption that is most at risk, and in fact the one that’s wrong, is that simultaneity means the same thing in every frame—that if we begin with our clocks synchronized, and then I start to move, my clocks will remain synchronized with your clocks. We’re about to see that the equation t′ = t is not the correct relationship between moving clocks and stationary clocks. The whole idea of simultaneity is frame-dependent.
+
+Synchronizing Our Clocks Here’s what I want you to imagine. We’re in a lecture hall. You, a student, are sitting in the front row, which is filled with eager attentive students, and each student in the front row has a clock. The clocks are all identical and completely reliable. You inspect these clocks carefully, and make sure they all read the same time and tick at the same rate. I have an equivalent collection of clocks in my frame that are spread out relative to me in the same way as your clocks. Each of your clocks has a counterpart in my setup, and vice versa. I’ve made sure that my clocks are synchronized with each other and also with your clocks. Then I, together with all my clocks, start moving relative to you and your clocks. As each of my clocks passes each of yours, we check each other’s clocks to see if they still read the same time and if not, how far out of whack each clock is compared to its counterpart. The answer may depend on each clock’s position along the line.
+
+Of course, we could ask similar questions about our metersticks, such as, “As I pass you, does my meterstick measure 1 in your coordinates?” This is where Einstein made his great leap. He realized that we have to be much more careful about how we define lengths, times, and simultaneity. We need to think experimentally about how to synchronize two clocks. But the one anchor that he held on to is the postulate that the speed of light is the same in every IRF. For that, he had to give up Newton’s postulate of a universal time. Instead he found that “simultaneity is relative.” We will follow his logic.
+
+What exactly do we mean when we say that two clocks—let’s call them A and B—are synchronized? If the two clocks are at the same location, moving with the same velocity, it should be easy to compare them and see if they read the same value of time. But even if A and B are standing still, say in your frame, but are not at the same position, checking if they are synchronized requires some thought. The problem is that light takes time to travel between A and B.
+
+Einstein’s strategy was to imagine a third clock, C, located midway between A and B.4 To be specific, let’s imagine all three clocks being located in the front row of the lecture hall. Clock A is held by the student at the left end of the row, clock B is held by the student at the right end, and clock C is at the center of the row. Great care has been taken to make sure that the distance from A to C is the same as the distance from B to C.
+
+At exactly the time when the A clock reads noon it activates a flash of light toward C. Similarly when B reads noon it also sends a flash of light to C. Of course, both flashes will take some time to reach C, but since the velocity of light is the same for both flashes, and the distance they have to travel is the same, they both take the same time to get to C. What we mean by saying A and B are synchronized is that the two flashes will arrive at C at exactly the same time. Of course, if they don’t arrive simultaneously, student C will conclude that A and B were not synchronized. She may then send a message to either A or B with instructions for how much to change their settings to get synchronized.
+
+Suppose clocks A and B are synchronized in your frame. What happens in my moving frame? Let’s say I’m moving to the right, and I happen to reach the midpoint C just as these two flashes are emitted. But the light doesn’t get to C at noon; it gets there slightly later. By that time, I’ve already moved a little to the right of center. Since I’m right of center, the light ray coming from the left will reach me a little later than the light ray coming from the right. Therefore, I will conclude that your clocks are not synchronized, because the two light flashes reach me at two different times.
+
+Evidently what you and I call synchronous—occurring at the same time—is not the same. Two events that take place at the same time in your frame take place at different times in my frame. Or at least that’s what Einstein’s two postulates force us to accept.
+
+Units and Dimensions: A Quick Detour Before moving ahead, we should pause briefly to explain that we’ll be using two systems of units. Each system is well suited to its purpose, and it’s fairly easy to switch from one system to the other.
+
+The first system uses familiar units such as meters, seconds, and so on. We’ll call them common or conventional units. These units are excellent for describing the ordinary world in which most velocities are far smaller than the speed of light. A velocity of 1 in those units means 1 meter per second, orders of magnitude less than c.
+
+The second system is based on the speed of light. In this system, units of length and time are defined in a way that gives the speed of light a dimensionless value of 1. We call them relativistic units. Relativistic units make it easier to carry out derivations and notice the symmetries in our equations. We’ve already seen that conventional units are impractical for spacetime diagrams. Relativistic units work beautifully for this purpose.
+
+In relativistic units, not only does c have a value of 1, but all velocities are dimensionless. For this to work out, we have to choose appropriately defined units of length and time—after all, velocity is a length divided by a time. If our time units are seconds, we choose light-seconds as our length units. How big is a light-second? We know that it’s 186,000 miles, but for our purposes that’s unimportant. Here’s what matters: A light-second is a unit of length, and by definition light travels 1 light-second per second! In effect, we’re measuring both time and length in units of seconds. That’s how velocity—a length divided by a time—gets to be dimensionless. When we use relativistic units, a velocity variable such as v is a dimensionless fraction of the speed of light. That’s consistent with c itself having a value of 1.
+
+In a spacetime diagram such as Fig. 1.2, the x and t axes are both calibrated in seconds.5 The trajectory of a light ray makes equal angles with the x axis and with the t axis. Conversely, any trajectory that makes equal angles with the two axes represents a light ray. In your stationary RF, that angle is 45 degrees.
+
+Knowing how to switch easily between the two types of units will pay off. The guiding principle is that mathematical expressions need to be dimensionally consistent in whatever system of units we’re using at the time. The most common and useful trick in going from relativistic to conventional units is to replace v with v/c. There are other patterns as well, which typically involve multiplying or dividing by some appropriate power of c, the speed of light. We’ll show examples as we go, and you’ll find that these conversions are fairly simple.
+
+Setting Up Our Coordinates—Again!
+
+Let’s go back to our two coordinate systems. This time, we’ll be very careful about the exact meaning of the word synchronous in the moving RF. In the stationary RF, two points are synchronous (or simultaneous) if they’re both on the same horizontal level in a spacetime diagram. The two points both have the same t coordinate, and a line connecting them is parallel to the x axis. That much Newton would have agreed with.
+
+But what about the moving frame? We’ll find out in a minute that in the moving frame, the point x = 0, t = 0 is not synchronous with the other points on the x axis, but with an entirely different set of points. In fact, the whole surface that the moving frame calls “synchronous” is someplace else. How can we map out this surface? We’ll use the synchronization procedure, described in a previous subsection (Synchronizing Our Clocks) and further illustrated in Fig. 1.2.
+
+Drawing a spacetime diagram is usually the best way to understand a problem in relativity. The picture is always the same; x is the horizontal axis, and t is vertical. These coordinates represent a RF that you can think of as stationary. In other words, they represent your frame. A line that represents the trajectory of an observer moving through spacetime is called a world line.
+
+With our axes in place, the next things to draw are the light rays. In Fig. 1.2, these are represented by the lines labeled x = ct and x = −ct. The dashed line from point a to point b in the figure is also a light ray.
+
+Back to the Main Road Getting back to Fig. 1.2, let’s sketch in an observer, Art, who’s sitting in a railroad car moving to the right with constant speed v. His world line is labeled with equations that describe his motion. Once again, Art’s frame will be moving such that x′ = x − vt, exactly like the moving observer in Fig. 1.1.
+
+Now let’s figure out how to draw Art’s x′ axis. We begin by adding two more observers, Maggie and Lenny. Maggie is sitting in the rail car d directly in front of Art (to your right), and Lenny’s rail car is directly in front of Maggie’s. Adjacent observers are separated from each other by one unit of length as measured in your frame (the rest frame). Equations for Maggie’s and Lenny’s world lines are shown in the figure. Because Maggie is located one unit to the right of Art, her trajectory is just x = vt + 1. Likewise, Lenny’s trajectory is x = vt + 2. Art, Maggie, and Lenny are in the same moving frame. They’re at rest with respect to each other.
+
+Our first observer, Art, has a clock, and his clock happens to read 12 noon just as he arrives at the origin. We’ll assume the clock in the rest frame also reads 12 noon at this event. We both agree to call 12 noon our “time zero,” and we label our common origin with (x = 0, t = 0) in your coordinates, and (x′ = 0, t′ = 0) in Art’s coordinates. The moving observer and the stationary observer agree, by assumption, on the meaning of t = 0. For you (the stationary observer), t equals zero all along the horizontal axis. In fact, that’s the definition of the horizontal axis: it’s the line where all times for the stationary observer are zero.
+
+Figure 1.2: SR Frames Using Relativistic Units (c = 1). The equations associated with Art are two different ways to characterize his world line. The dashed lines are the world lines of light rays. The constants 1 and 2 in the equations for Maggie’s and Lenny’s world lines are not pure numbers. Their relativistic units are seconds.
+
+Suppose Art sends out a light signal to Maggie from the origin. At some point—we don’t know yet what that point is—Lenny will also send out a light signal toward Maggie. He’ll somehow arrange to do this in a way that both signals reach Maggie at the same instant. If Art’s light signal starts at the origin, Maggie will receive it at point a in Fig. 1.2. From what point must Lenny send his light signal, if it is to reach Maggie at the same time? We can find out by working backward. The world line of any light signal that Lenny sends to Maggie must make a 45-degree angle to the x axis. So all we need to do is construct a line at point a that slopes 45 degrees downward toward the right, and extend it until it crosses Lenny’s path. This is point b in the figure. As we can easily see from the figure, point b lies above the x axis and not on it.
+
+What we’ve just shown is that the origin and point b are simultaneous events in Art’s frame! In other words, the moving observer (Art) will say that t′ = 0 at point b. Why? Because in the moving frame of reference, Art and Lenny, who are equidistant from the central observer Maggie, sent her light signals that arrived at the same instant of time. So Maggie will say, “You guys sent me light signals at exactly the same instant of time, because they both arrived here at the same instant of time, and I happen to know that you’re at equal distances from me.”
+
+**Finding the x′ Axis**
+
+We’ve established that Art’s (and Maggie’s and Lenny’s) x axis is a line that joins the common origin (i.e., common to both frames) to point b. Our next task is to find out exactly where point b is. Once we figure out point b’s coordinates, we’ll know how to specify the direction of Art’s x′ axis. We’ll go through this exercise in detail. It’s a little cumbersome, but quite easy. There are two steps involved, the first being to find the coordinates of point a.
+
+Point a sits at the intersection of two lines; the rightward moving light ray x = ct, and the line x = vt + 1, which is Maggie’s world line. To find the intersection, we just substitute one equation into the other. Because we’re using relativistic units for which the speed of light c is equal to 1, we can write the equation
+
+x = ct
+
+in an even simpler way,
+
+x = t.
+
+Substituting Eq. 1.5 into Maggie’s world line,
+
+x = vt + 1,
+
+gives
+
+t = vt + 1
+
+or
+
+t(1 − v) = 1.
+
+Or, even better,
+
+t = 1/(1 − v).
+
+Now that we know the time coordinate of point a we can find its x coordinate. This is easily done by noticing that all along the light ray, x = t. In other words, we can just replace t with x in Eq. 1.6, and write
+
+x = 1/(1 − v).
+
+Voilà!—we’ve found point a.
+
+With the coordinates of point a in hand, let’s look at line ab. Once we have an equation for line ab, we can figure out where it intersects Lenny’s world line, x = vt + 2. It takes a few steps, but they’re fun and I don’t know of any shortcuts.
+
+Every line that slopes at 45 degrees, pointing downward to the right, has the property that x + t is constant along that line. Every line sloping upward to the right at 45 degrees has the property that x − t is constant. Let’s take the line ab. Its equation is
+
+x + t = some constant.
+
+What is the constant? An easy way to find out is to take one point along the line and plug in specific values x and t. In particular, we happen to know that at point a,
+
+x + t = 2/(1 − v).
+
+Therefore, we know that this is true all along line ab, and the equation for that line must be
+
+x + t = 2/(1 − v).
+
+Now we can find b’s coordinates by solving the simultaneous equations for line ab and for Lenny’s world line. Lenny’s world line is x = vt + 2, which we rewrite as x − vt = 2. Our simultaneous equations are
+
+x + t = 2/(1 − v)
+
+and
+
+x − vt = 2.
+
+The solution, after a bit of easy algebra, is
+
+x = 2v/(1 − v²) + 2
+
+and
+
+t = 2/(1 − v²).
+
+First, the most important point: t is not zero. Therefore point b, which is simultaneous with the origin in the moving frame, is not simultaneous with the origin in the rest frame.
+
+Next, consider the straight line connecting the origin with point b. By definition, the slope of that line is t_b / x_b, and using Eqs. 1.8 we see that the slope is v. This line is nothing but the x′ axis, and it is given, very simply, by the equation
+
+t = vx.
+
+Keep in mind as we go along that the velocity v can be positive or negative depending on whether I am moving to the right or to the left relative to your frame. For negative velocity you will have to redraw diagrams or just flip them horizontally.
+
+Fig. 1.3 shows our spacetime diagram with the x′ and t′ axes drawn in. The line t = vx (or what is really a three-dimensional surface in the spacetime map when the two other coordinates y, z are accounted for) has the important property that on it, all the clocks in the moving frame record the same value of t′. To give it a name, it is a surface of simultaneity in the moving frame. It plays the same role as the surface t = 0 does for the rest frame.
+
+Figure 1.3: SR Frames with x′ and t′ Axes Shown.
+
+So far in this section, we’ve worked in relativistic units where the speed of light is c = 1. Here is a good opportunity to practice your skills in dimensional analysis and figure out what Eq. 1.9 would look like in conventional units of meters and seconds. In those units, Eq. 1.9 is not dimensionally consistent; the left side has units seconds and the right side has units meters squared per second. To restore consistency, we have to multiply the right side by an appropriate power of c. The correct factor is 1/c²:
+
+t = (v/c²)x.
+
+The interesting thing about Eq. 1.10 is that it describes a straight line with the incredibly tiny slope v/c². For example, if v were 300 meters per second (roughly the speed of a jetliner) the slope would be v/c² = 3 × 10⁻¹⁵. In other words, the x′ axis in Fig. 1.3 would be almost exactly horizontal. The surfaces of simultaneity in the rest and moving frames would almost exactly coincide just as they would in Newtonian physics.
+
+This is an example of the fact that Einstein’s description of spacetime reduces to Newton’s if the relative velocity of the reference frames is much less than the speed of light. This, of course, is an important “sanity” check.
+
+Now we can return to relativistic units with c = 1. Let’s simplify our diagram and keep only the features we’ll need going forward. The dashed line in Fig. 1.4 represents a light ray, whose world line makes a 45-degree angle with both the t and x axes. Art’s world line is shown as the t′ axis. His x′ axis is also labeled. Both of Art’s axes are also labeled with appropriate equations. Notice the symmetry of his two axes: x = vt and t = vx. These two lines are reflections of each other about the dashed light trajectory. They’re related by interchanging t and x. Another way to say it is that they each make the same angle with their nearest unprimed axis—the x axis in the case of t = vx, and the t axis in the case of x = vt.
+
+Figure 1.4: SR Frames Simplified.
+
+We’ve discovered two interesting things. First, if the speed of light really is the same in every frame, and you use light rays to synchronize clocks, then the pairs of events that are synchronous in one frame are not the same pairs that are synchronous in the other frame. Second, we’ve found what synchronicity actually means in the moving frame. It corresponds to surfaces that are not horizontal, but are tilted with slope v. We have figured out the directions of the x′ and t′ axes in Art’s moving frame. Later on, we’ll figure out how to mark off the intervals along these axes.
+
+**Spacetime**
+
+Let’s pause for a moment to contemplate what we’ve found about space and time. Newton, of course, knew about both space and time but regarded them as entirely separate. To Newton, three-dimensional space was space, and time was universal time. They were entirely separate, the difference being absolute. But maps like Figs. 1.3 and 1.4 indicate something that Newton could not have known, namely that in going from one inertial reference frame to another, the space and time coordinates get mixed up with each other. For example, in Fig. 1.3 the interval between the origin and point b represents two points at the same time in the moving frame. But in the rest frame, point b is not only shifted in space from the origin; it also is shifted in time.
+
+Three years after Einstein’s mighty 1905 paper that introduced the special theory of relativity, Minkowski completed the revolution. In an address to the 80th Assembly of German Natural Scientists and Physicians, he said, “Space by itself, and time by itself, are doomed to fade away into mere shadows, and on only a kind of union of the two will preserve an independent reality.
+
+That union is four-dimensional, with coordinates t, x, y, z. Depending on our mood, we physicists sometimes call that union of space and time spacetime. Sometimes we call it Minkowski space. Minkowski had another name for it. He called it the world.
+
+Minkowski called the points of spacetime events. An event is labeled by the four coordinates t, x, y, z. By calling a point of spacetime an event, Minkowski did not mean to imply that something actually took place at t, x, y, z. Only that something could take place. He called the lines or curves describing trajectories of objects world lines. For example, the line x′ = 0 in Fig. 1.3 is Art’s world line.
+
+This change of perspective from space and time to spacetime was radical in 1908, but today spacetime diagrams are as familiar to physicists as the palms of their hands.
+
+Lorentz Transformations An event, in other words a point of spacetime, can be labeled by the values of its coordinates in the rest frame or by its coordinates in the moving frame. We are talking about two different descriptions of a single event. The obvious question is, how do we go from one description to the other? In other words, what is the coordinate transformation relating the rest frame coordinates t, x, y, z to the coordinates t′, x′, y′, z′ of the moving frame?
+
+One of Einstein’s assumptions was that spacetime is everywhere the same, in the same sense that an infinite plane is everywhere the same. The sameness of spacetime is a symmetry that says no event is different from any other event, and one can choose the origin anywhere without the equations of physics changing. It has a mathematical implication for the nature of transformations from one frame to another. For example, the Newtonian equation is linear; it contains only first powers of the coordinates. Equation 1.11 will not survive in its simple form, but it does get one thing right, namely that x′ = 0 whenever x = vt. In fact there is only one way to modify Eq. 1.11 and still retain its linear property, along with the fact that x′ = 0 is the same as x = vt. It is to multiply the right side by a function of the velocity: At the moment the function f(v) could be any function, but Einstein had one more trick up his sleeve: another symmetry—the symmetry between left and right. To put it another way, nothing in physics requires movement to the right to be represented by positive velocity and movement to the left by negative velocity. That symmetry implies that f(v) must not depend on whether v is positive or negative. There is a simple way to write any function that is the same for positive and negative v. The trick is to write it as a function of the square of the velocity v^2. Thus, instead of Eq. 1.12, Einstein wrote To summarize, writing f(v^2) instead of f(v) emphasizes the point that there is no preferred direction in space.
+
+What about t′? We’ll reason the same way here as we did for x′. We know that t′ = 0 whenever t = vx. In other words, we can just invert the roles of x and t, and write where g(v^2) is some other possible function. Equations 1.13 and 1.14 tell us that x′ is zero whenever x = vt, and that t′ is zero whenever t = vx. Because of the symmetry in these two equations, the t′ axis is just a reflection of the x′ axis about the line x = t, and vice versa.
+
+What we know so far is that our transformation equations should take the following form: Our next task is to figure out what the functions f(v^2) and g(v^2) actually are. To do that we’ll consider the path of a light ray in these two frames, and apply Einstein’s principle that the speed of light is the same in both of them. If the speed of light c equals 1 in the stationary frame, it must also equal 1 in the moving frame. To rephrase this: If we start out with a light ray that satisfies x = t in the stationary frame, it must also satisfy x′ = t′ in the moving frame. To put it another way, if x = t, then it must follow that x′ = t′.
+
+Let’s go back to Eqs. 1.15. Setting x = t and requiring x′ = t′ gives the simple requirement that f(v^2) = g(v^2). In other words the requirement that the speed of light is the same in your frame and my frame leads to the simple condition that the two functions f(v^2) and g(v^2) are the same. Thus we may simplify Eqs. 1.15 To find f(v^2), Einstein used one more ingredient. In effect, he said “Wait a minute, who’s to say which frame is moving? Who’s to say if my frame is moving relative to you with velocity v, or your frame is moving relative to me with velocity −v?” Whatever the relationship is between the two frames of reference, it must be symmetrical. Following this approach, we could invert our entire argument; instead of starting with x and t, and deriving x′ and t′, we could do exactly the opposite. The only difference would be that for me, you’re moving with velocity −v, but for you, I’m moving with velocity +v. Based on Eqs. 1.16, which express x′ and t′ in terms of x and t, we can immediately write down the inverse transformations. The equations for x and t in terms of x′ and t′ are We should be clear that we wrote Eqs. 1.17 by reasoning about the physical relationship between the two reference frames. They’re not just a clever way to solve Eqs. 1.16 for the unprimed variables without doing the work. In fact, now that we have these two sets of equations, we need to verify that they’re compatible with each other.
+
+Let’s start with Eqs. 1.17 and plug in the expressions for x′ and t′ from Eqs. 1.16. This may seem circular, but you’ll see that it isn’t. After making our substitutions, we’ll require the results to be equivalent to x = x and t = t. How could they be anything else if the equations are valid to begin with? From there, we’ll find out the form of f(v^2). The algebra is a little tedious but straightforward. Starting with the first of Eqs. 1.17, the first few substitutions for x unfold as follows: x = (x′ + vt′)f(v^2) x = {(x − vt)f(v^2) + v(t − vx)f(v^2)}f(v^2) x = (x − vt)f^2(v^2) + v(t − vx)f^2(v^2). Expanding the last line gives x = xf^2(v^2) − v^2xf^2(v^2) − vtf^2(v^2) + vtf^2(v^2), which simplifies to x = xf^2(v^2)(1 − v^2). Canceling x on both sides and solving for f(v^2) gives Now we have everything we need to transform coordinates in the rest frame to coordinates in the moving frame and vice versa. Plugging into Eqs. 1.16 gives These are, of course, the famous Lorentz transformations between the rest and moving frames.
+
+Art: “Wow, that’s incredibly clever, Lenny. Did you figure it all out yourself?” Lenny: “I wish. No, I’m simply following Einstein’s paper. I haven’t read it for fifty years, but it left an impression.” Art: “Okay, but how come they’re called Lorentz transformations if they were discovered by Einstein?”
+
+1.2.3 Historical Aside To answer Art’s question, Einstein was not the first to discover the Lorentz transformation. That honor belongs to the Dutch physicist Hendrik Lorentz. Lorentz, and others even before him—notably George FitzGerald—had speculated that Maxwell’s theory of electromagnetism required moving objects to contract along the direction of motion, a phenomenon that we now call Lorentz contraction. By 1900 Lorentz had written down the Lorentz transformations motivated by this contraction of moving bodies. But the views of Einstein’s predecessors were different and in a sense a throwback to older ideas rather than a new starting point. Lorentz and FitzGerald imagined that the interaction between the stationary ether and the moving atoms of all ordinary matter would cause a pressure that would squeeze matter along the direction of motion. To some approximation the pressure would contract all matter by the same amount so that the effect could be represented by a coordinate transformation.
+
+Just before Einstein’s paper, the great French mathematician Henri Poincaré published a paper in which he derived the Lorentz transformation from the requirement that Maxwell’s equations take the same form in every inertial frame. But none of these works had the clarity, simplicity, and generality of Einstein’s reasoning.
+
+1.2.4 Back to the Equations If we know the coordinates of an event in the rest frame, Eqs. 1.19 and 1.20 tell us the coordinates of the same event in the moving frame. Can we go the other way? In other words, can we predict the coordinates in the rest frame if we know them in the moving frame? To do so we might solve the equations for x and t in terms of x′ and t′, but there is an easier way.
+
+All we need is to realize that there is a symmetry between the rest and moving frames. Who, after all, is to say which frame is moving and which is at rest? To interchange their roles, we might just interchange the primed and unprimed coordinates in Eqs. 1.19 and 1.20. That’s almost correct but not quite.
+
+Consider this: If I am moving to the right relative to you, then you are moving to the left relative to me. That means your velocity relative to me is −v. Therefore when I write the Lorentz transformations for x, t in terms of x′, t′, I will need to replace v with −v. The result is Switching to Conventional Units What if the speed of light is not chosen to be 1? The easiest way to switch from relativistic units back to conventional units is to make sure our equations are dimensionally consistent in those units. For example, the expression x − vt is dimensionally consistent as it is because both x and vt have units of length—say meters. On the other hand t − vx is not dimensionally consistent in conventional units; t has units of seconds and vx has units of meters squared over seconds. There is a unique way to fix the units. Instead of t − vx we replace it with Now both terms have units of time, but if we happen to use units with c = 1 it reduces to the original expression t − vx.
+
+Similarly the factor in the denominators, , is not dimensionally consistent. To fix the units we replace v with v/c. With these replacements the Lorentz transformations can be written in conventional units.
+
+onal units: Notice that when v is very small compared to the speed of light, v²/c² is even smaller. For example, if v/c is 1/10, then v²/c² is 1/100. If v/c = 10⁻⁵, then v²/c² is truly a small number, and the expression in the denominator is very close to 1. To a very good approximation we can write x′ = x − vt. That’s the good old Newtonian version of things. What happens to the time equation (Eq. 1.24) when v/c is very small? Suppose v is 100 meters per second. We know that c is very big, about 3 × 10⁸ meters per second. So v/c is a very tiny number. If the velocity of the moving frame is small, the second term in the numerator, vx/c², is negligible and to a high degree of approximation the second equation of the Lorentz transformation becomes the same as the Newtonian transformation t′ = t. For frames moving slowly relative to each other, the Lorentz transformation boils down to the Newtonian formula. That’s a good thing; as long as we move slowly compared to c, we get the old answer. But when the velocity becomes close to the speed of light the corrections become large—huge when v approaches c.
+
+The Other Two Axes Eqs. 1.23 and 1.24 are the Lorentz transformation equations in common, or conventional, units. Of course, the full set of equations must also tell us how to transform the other two components of space, y and z. We’ve been very specific about what happens to the x and t coordinates when frames are in relative motion along the x axis. What happens to the y coordinate? We’ll answer this with a simple thought experiment. Suppose your arm is the same length as my arm when we’re both at rest in your frame. Then I start moving at constant velocity in the x direction. As we move past each other, we each hold out an arm at a right angle to the direction of our relative motion. Question: As we move past each other, would our arms still be equal in length, or would yours be longer than mine? By the symmetry of this situation, it’s clear that our arms are going to match, because there’s no reason for one to be longer than the other. Therefore, the rest of the Lorentz transformation must be y′ = y and z′ = z. In other words, interesting things happen only in the x, t plane when the relative motion is along the x axis. The x and t coordinates get mixed up with each other, but y and z are passive. For easy reference, here’s the complete Lorentz transformation in conventional units for a reference frame (the primed frame) moving with velocity v in the positive x direction relative to the unprimed frame:
+
+1.2.5 Nothing Moves Faster than Light A quick look at Eqs. 1.25 and 1.26 indicates that something strange happens if the relative velocity of two frames is larger than c. In that case 1 − v²/c² becomes negative and √(1 − v²/c²) becomes imaginary. That’s obvious nonsense. Metersticks and clocks can only define real-valued coordinates. Einstein’s resolution of this paradox was an additional postulate: no material system can move with a velocity greater than light. More accurately, no material system can move faster than light relative to any other material system. In particular no two observers can move, relative to each other, faster than light. Thus we never have need for the velocity v to be greater than c. Today this principle is a cornerstone of modern physics. It’s usually expressed in the form that no signal can travel faster than light. But since signals are composed of material systems, even if no more substantial than a photon, it boils down to the same thing.
+
+1.3 General Lorentz Transformation These four equations remind us that we have considered only the simplest kind of Lorentz transformation: a transformation where each primed axis is parallel to its unprimed counterpart, and where the relative motion between the two frames is only along the shared direction of the x and x′ axes. Uniform motion is simple, but it’s not always that simple. There’s nothing to prevent the two sets of space axes from being oriented differently, with each primed axis at some nonzero angle to its unprimed counterpart. It’s also easy to visualize the two frames moving with respect to each other not only in the x direction, but along the y and z directions as well. This raises a question: By ignoring these factors, have we missed something essential about the physics of uniform motion? Happily, the answer is no. Suppose you have two frames in relative motion along some oblique direction, not along any of the coordinate axes. It would be easy to make the primed axes line up with the unprimed axes by performing a sequence of rotations. After doing those rotations, you would again have uniform motion in the x direction. The general Lorentz transformation—where two frames are related to each other by an arbitrary angle in space, and are moving relative to each other in some arbitrary direction—is equivalent to: 1. A rotation of space to align the primed axes with the unprimed axes. 2. A simple Lorentz transformation along the new x axis. 3. A second rotation of space to restore the original orientation of the unprimed axes relative to the primed axes. As long as you make sure that your theory is invariant with respect to the simple Lorentz transformation along, say, the x axis, and with respect to rotations, it will be invariant with respect to any Lorentz transformation at all. As a matter of terminology, transformations involving a relative velocity of one frame moving relative to another are called boosts. For example, the Lorentz transformations like Eqs. 1.25 and 1.26 are referred to as boosts along the x axis.
+
+1.4 Length Contraction and Time Dilation Special relativity, until you get used to it, is counterintuitive—perhaps not as counterintuitive as quantum mechanics, but nevertheless full of paradoxical phenomena. My advice is that when confronted with one of these paradoxes, you should draw a spacetime diagram. Don’t ask your physicist friend, don’t email me—draw a spacetime diagram. Figure 1.5: Length Contraction. Length Contraction Suppose you’re holding a meterstick and I’m walking past you in the positive x direction. You know that your stick is 1 meter long, but I’m not so sure. As I walk past, I measure your meterstick relative to the lengths of my metersticks. Since I’m moving, I have to be very careful; otherwise, I could be measuring the end points of your meterstick at two different times. Remember, events that are simultaneous in your frame are not simultaneous in mine. I want to measure the end points of your meterstick at exactly the same time in my frame. That’s what I mean by the length of your meterstick in my frame. Fig. 1.5 shows a spacetime diagram of this situation. In your frame, the meterstick is represented by a horizontal line segment along the x axis, which is a surface of simultaneity for you. The meterstick is at rest, and the world lines of its end points are the vertical lines x = 0 and x = 1 in your frame. In my moving frame, that same meterstick at an instant of time is represented by a line segment along the x′ axis. The x′ axis is a surface of simultaneity for me and is tilted in the diagram. One end of the meterstick is at our common origin O as I pass it. The other end of the stick at time t′ = 0 is labeled P in the diagram. To measure the location of both ends at time t′ = 0 in my frame, I need to know the coordinate values of x′ at points O and P. But I already know that x′ is zero at point O, so all I need to do is calculate the value of x′ at point P. We’ll do this the easy way, using relativistic units (speed of light equals 1). In other words, we’ll use the Lorentz transformation of Eqs. 1.19 and 1.20. First, notice that point P sits at the intersection of two lines, x = 1 and t′ = 0. Recall (based on Eq. 1.20) that t′ = 0 means that t = vx. Substituting vx for t in Eq. 1.19 gives x′ = x − vx². Plugging x = 1 into the preceding equation gives x′ = 1 − v², or x′ = √(1 − v²). So there it is! The moving observer finds that at an instant of time—which means along the surface of simultaneity t′ = 0—the two ends of the meterstick are separated by distance √(1 − v²); in the moving frame, the meterstick is a little shorter than it was at rest. It may seem like a contradiction that the same meterstick has one length in your frame and a different length in my frame. Notice, though, that the two observers are really talking about two different things. For the rest frame, where the meterstick itself is at rest, we’re talking about the distance from point O to point Q, as measured by stationary metersticks. In the moving frame, we’re talking about the distance between point O and point P, measured by moving measuring rods. P and Q are different points in spacetime, so there’s no contradiction in saying that √(1 − v²) is shorter than 1. Try doing the opposite calculation as an exercise: Starting with a moving meterstick, find its length in the rest frame. Don’t forget—begin by drawing a diagram. If you get stuck you can cheat and continue reading. Think of a moving meterstick being observed from the rest frame. Fig. 1.6 shows this situation. If the meterstick is 1 unit long in its own rest frame, and its leading end passes through point Q, what do we know about its world line? Is it x = 1? No! The meterstick is 1 meter long in the moving frame, which means the world line of its leading end is x′ = 1. The observer at rest now sees the meterstick being the length of line segment OQ, and the x coordinate of point Q is not 1. It’s some value calculated by the Lorentz transformation. When you do this calculation, you’ll find that this length is also shortened by the factor √(1 − v²). The moving metersticks are short in the stationary frame, and the stationary metersticks are short in the moving frame. There’s no contradiction. Once again, the observers are just talking about different things. The stationary observer is talking about lengths measured at an instant of his time. The moving observer is talking about lengths measured at an instant of the other time. Therefore, they have di Different notions of what they mean by length because they have different notions of simultaneity. Figure 1.6: Length Contraction Exercise.
+
+Exercise 1.1: Show that the x coordinate of point Q in Fig. 1.6 is .
+
+Time Dilation
+
+Time dilation works pretty much the same way. Suppose I have a moving clock—my clock. Assume my clock is moving along with me at uniform velocity, as in Fig. 1.7.
+
+Here’s the question: At the instant when my clock reads t′ = 1 in my frame, what is the time in your frame? By the way, my standard wristwatch is an excellent timepiece, a Rolex.9 I want to know the corresponding value of t measured by your Timex. The horizontal surface in the diagram (the dashed line) is the surface that you call synchronous. We need two things in order to pin down the value of t in your frame. First, my Rolex moves on the t′ axis which is represented by the equation x′ = 0. We also know that t′ = 1. To figure out t, all we need is one of the Lorentz transformation equations (Eq. 1.22), Figure 1.7: Time Dilation. Plugging in x′ = 0 and t′ = 1, we find
+
+Because the denominator on the right side is smaller than 1, t itself is bigger than 1. The time interval measured along the t axis (your Timex) is bigger than the time interval measured by the moving observer along the t′ axis (my Rolex) by a factor of . In short, t > t′.
+
+To put it another way, as viewed from the rest frame, moving clocks run slower by a factor of
+
+The Twin Paradox
+
+Lenny: Hey Art! Say hello to Lorentz over here. He has a question.
+
+Art: Lorentz has a question for us?
+
+Lorentz: Please call me Lor’ntz. It’s the original Lorentz contraction. In all the years I’ve been coming to Hermann’s Hideaway, I’ve never seen either one of you guys without the other. Are you biological twins?
+
+Art: What? Look, if we were biological were twins, either I’d be a genius—don’t choke on your sausage, Lor’ntz, it’s not that funny. As I was saying, either I’d be a genius or Lenny would be some wiseguy from the Bronx. Wait a minute…10
+
+Time dilation is the origin of the so-called twin paradox. In Fig. 1.8, Lenny remains at rest, while Art takes a high-speed journey in the positive x direction. At the point labeled t′ = 1 in the diagram, Art at the age of 1 turns around and heads back home.
+
+We’ve already calculated the amount of rest frame time that elapses between the origin and the point labeled t in the diagram. It’s . In other words, we find that less time elapses along the path of the moving clock than along the path of the stationary clock. The same thing is true for the second leg of the journey. When Art returns home, he finds that his twin Lenny is older than himself. Figure 1.8: Twin Paradox.
+
+We’ve calibrated the ages of Art and Lenny by the time registered on their watches. But the same time dilations that slowed Art’s watch from the viewpoint of the rest frame would affect any clock, including the biological aging clock. Thus in an extreme case, Art could return home still a boy while Lenny would have a long gray beard.
+
+Two aspects of the twin paradox often leave people confused. First, it seems natural to expect the experiences of the two twins to be symmetrical. If Lenny sees Art moving away from him, then Art also sees Lenny traveling away, but in the opposite direction. There are no preferred directions in space, so why should they age any differently? But in fact, their experiences are not symmetrical at all. The traveling twin undergoes a large acceleration in order to change directions, while the stay-at-home twin does not. This difference is crucial. Because of the abrupt reversal, Art’s frame is not a single inertial frame, but Lenny’s is. We invite you to develop this idea further in the following exercise.
+
+Exercise 1.2: In Fig. 1.8, the traveling twin not only reverses directions but switches to a different reference frame when the reversal happens. a) Use the Lorentz transformation to show that before the reversal happens, the relationship between the twins is symmetrical. Each twin sees the other as aging more slowly than himself. b) Use spacetime diagrams to show how the traveler’s abrupt switch from one frame to another changes his definition of simultaneity. In the traveler’s new frame, his twin is suddenly much older than he was in the traveler’s original frame.
+
+Another point of confusion arises from simple geometry. Referring back to Fig. 1.7, recall that we calculated the “time distance” from point O to the point labeled t′ = 1 to be smaller than the distance from O to the point labeled along the t axis. Based on these two values, the vertical leg of this right triangle is longer than its hypotenuse. Many people find this puzzling because the numerical comparison seems to contradict the visual message in the diagram. In fact, this puzzle leads us to one of the central ideas in relativity, the concept of an invariant. We’ll discuss this idea extensively in Section 1.5.
+
+The Stretch Limo and the Bug
+
+Another paradox is sometimes called the Pole in the Barn paradox. But in Poland they prefer to call it the Paradox of the Limo and the Bug.
+
+Art’s car is a VW Bug. It’s just under 14 feet long. His garage was built to just fit the Bug.
+
+Lenny has a reconditioned stretch limo. It’s 28 feet long. Art is going on vacation and renting his house to Lenny, but before he goes the two friends get together to make sure that Lenny’s car will fit in Art’s garage. Lenny is skeptical, but Art has a plan. Art tells Lenny to back up and get a good distance from the garage. Then step on the gas and accelerate like blazes. If Lenny can get the limo up to 161,080 miles per second before getting to the back end of the garage, it will just fit in. They try it.
+
+Art watches from the sidewalk as Lenny backs up the limo and steps on the gas. The speedometer jumps to 172,000 mps, plenty of speed to spare. But then Lenny looks out at the garage. “Holy cow! The garage is coming at me really fast, and it’s less than half its original size! I’ll never fit!”
+
+“Sure you will, Lenny. According to my calculation, in the rest frame of the garage you are just a bit longer than thirteen feet. Nothing to worry about.”
+
+“Geez, Art, I hope you’re right.”
+
+Fig. 1.9 is a spacetime diagram including Lenny’s stretch limo shown in the dark shaded region, and the garage shown as lightly shaded. The front end of the limo enters the garage at a and leaves (assuming that Art left the back door of the garage open) just above c. The back end of the limo enters at b and leaves at d. Now look at the line It is part of a surface of simultaneity in the rest frame of the garage, and as you can see, the entire limo is contained in the garage at that time. That’s Art’s claim: In his frame the limo could be made to fit the garage. But now look at Lenny’s surfaces of simultaneity. The line is such a surface, and as you can also see, the limo overflows the garage. As Lenny worried, the limo does not fit. Figure 1.9: Stretch Limo-Garage Spacetime Diagram.
+
+The figure makes clear what the problem is. To say that the limo is in the garage means that the front and back are simultaneously in the garage. There’s that word simultaneous again. Simultaneous according to whom, Art? Or Lenny? To say that the car is in the garage simply means different things in different frames. There is no contradiction in saying that at some instant in Art’s frame the limo was indeed in the garage—and that at no instant in Lenny’s frame was the limo wholly in the garage.
+
+Almost all paradoxes of special relativity become obvious when stated carefully. Watch out for the possibly implicit use of the word simultaneous. That’s usually the giveaway—simultaneous according to whom?
+
+## 1.5 Minkowski’s World
+
+One of the most powerful tools in the physicist’s toolbag is the concept of an invariant. An invariant is a quantity that doesn’t change when looked at from different perspectives. Here we mean some aspect of spacetime that has the same value in every reference frame.
+
+To get the idea, we’ll take an example from Euclidean geometry. Let’s consider a two-dimensional plane with two sets of Cartesian coordinates, x, y and a second set x′, y′. Assume that the origins of the two coordinate systems are at the same point, but that the x′, y′ axes (the primed axes) are rotated counterclockwise by a fixed angle with respect to the unprimed axes. There is no time axis in this example, and there are no moving observers; just the ordinary Euclidean plane of high school geometry. Fig. 1.10 gives you the picture.
+
+Consider an arbitrary point P in this space. The two coordinate systems do not assign the same coordinate values to P. Obviously, the x and the y of this point are not the same numbers as the x′ and the y′, even though both sets of coordinates refer to the same point P in space. We would say that the coordinates are not invariant. Figure 1.10: Euclidean Plane.
+
+However, there’s a property that is the same, whether you calculate it in primed or unprimed coordinates: P’s distance from the origin. That distance is the same in every coordinate system regardless of how it’s oriented. The same is true for the square of the distance. To calculate this distance in the unprimed coordinates we use the Pythagorean theorem, d2 = x2 + y2, to get the square of the distance. If we use primed coordinates instead, the same distance would be given by x′2 + y′2. Therefore it follows that x2 + y2 = x′2 + y′2.
+
+In other words, for an arbitrary point P the quantity x2 + y2 is invariant. Invariant means that it doesn’t depend on which coordinate system you use to work it out. You get the same answer no matter what.
+
+One fact about right triangles in Euclidean geometry is that the hypotenuse is generally larger than either side (unless one side is zero, in which case the hypotenuse is equal to the other side). This tells us that the distance d is at least as large as x or y. By the same argument it is at least as large as x′ or y’.
+
+Circling back to relativity, our discussion of the twin p paradox involved something that looked a lot like a right triangle. Go back to Fig. 1.8 and consider the triangle formed from the lines connecting the three black dots—the horizontal dashed line, the first half of Lenny’s vertical world line, and the hypotenuse formed by the first leg of Art’s journey. We can think of the dashed-line distance between the two later dots to define a spacetime distance between them.11 The time along Lenny’s side of the triangle can also be thought of as a spacetime distance. Its length would be . And finally the time ticked off during the first half of Art’s trip is the spacetime length of the hypotenuse. But a moment’s inspection shows something unusual—the vertical leg is longer than the hypotenuse (that’s why Lenny had time to grow a beard while Art remained a boy). This immediately tells us that Minkowski space is not governed by the same laws as Euclidean space.
+
+Nevertheless we may ask: Is there an analogous invariant quantity in Minkowski space, associated with the Lorentz transformation—a quantity that stays the same in every inertial reference frame? We know that the square of the distance from the origin to a fixed point P is invariant under simple rotations of Euclidean coordinates. Could a similar quantity, possibly t2 + x2, be invariant under Lorentz transformations? Let’s try it out. Consider an arbitrary point P in a spacetime diagram. This point is characterized by a t value and an x value, and in some moving reference frame it’s also characterized by a t′ and an x′. We already know that these two sets of coordinates are related by the Lorentz transformation. Let’s see if our guess, is correct. Using the Lorentz transformation (Eqs. 1.19 and 1.20) to substitute for t′ and x′, we have which simplifies to Does the right side equal t2 + x2? No way! You can see immediately that the tx term in the first expression adds to the tx term in the second expression. They do not cancel, and there’s no tx term on the left side to balance things out. They can’t be the same.
+
+But if you look carefully, you’ll notice that if we take the difference of the two terms on the right side rather than their sum, the tx terms would cancel. Let’s define a new quantity τ2 = t2 − x2. The result of subtracting x′2 from t′2 gives After a bit of rearrangement it is exactly what we want.
+
+Bingo! We’ve discovered an invariant, τ2, whose value is the same under any Lorentz transformation along the x axis. The square root of this quantity, τ, is called the proper time. The reason for this name will become clear shortly.
+
+Up to now we’ve imagined the world to be a “railroad” in which all motion is along the x axis. Lorentz transformations are all boosts along the x axis. By now you may have forgotten about the other two directions perpendicular to the tracks: directions described by the coordinates y and z. Let’s bring them back now. In Section 1.2.4, I explained that the full Lorentz transformation (with c = 1) for relative motion along the x axis—a boost along x—has four equations: y′ = y z′ = z What about boosts along other axes? As I explained in Section 1.3, these other boosts can be represented as combinations of boosts along x and rotations that rotate the x axis to another direction. As a consequence, a quantity will be invariant under all Lorentz transformations if it is invariant with respect to boosts along x and with respect to rotations of space. What about the quantity τ2 = t2 − x2? We’ve seen that it is invariant with respect to x-boosts, but it changes if space is rotated. This is obvious because it involves x but not y and z. Fortunately it is easy to generalize τ to a full-fledged invariant. Consider the generalized version of Eq. 1.30, Let’s first argue that τ is invariant with respect to boosts along the x axis. We’ve already seen that the term t2 − x2 is invariant. To that we add the fact that the perpendicular coordinates y and z don’t change under a boost along x. If neither t2 − x2 nor y2 + z2 change when transforming from one frame to another, then obviously t2 − x2 − y2 − z2 will also be invariant. That takes care of boosts in the x direction.
+
+Now let’s see why it does not change if the space axes are rotated. Again the argument comes in two parts. The first is that a rotation of spatial coordinates mixes up x, y, and z but has no effect on time. Therefore t is invariant with respect to rotations of space. Next consider the quantity x2 + y2 + z2. A three-dimensional version of Pythagoras’s theorem tells us that x2 + y2 + z2 is the square of the distance of the point x, y, z to the origin. Again this is something that does not change under a rotation of space. Combining the invariance of time and the invariance of the distance to the origin (under rotations in space), we come to the conclusion that the proper time τ defined by Eq. 1.31 is an invariant that all observers will agree on. This holds not only for observers moving in any direction but observers whose coordinate axes are oriented in any way.
+
+Figure 1.11: Minkowski Light Cone.
+
+1.5.1 Minkowski and the Light Cone The invariance of the proper time τ is a powerful fact. I don’t know if it was known to Einstein, but in the process of writing this section I looked through my ancient worn and faded copy of the Dover edition containing the 1905 paper (the price on the cover was $1.50). I found no mention of Eq. 1.31 or of the idea of spacetime distance. It was Minkowski who first understood that the invariance of proper time, with its unintuitive minus signs, would form the basis for an entirely new four-dimensional geometry of spacetime—Minkowski space. I think it is fair to say that Minkowski deserves the credit for completing in 1908 the special relativity revolution that Einstein set in motion three years earlier. It is to Minkowski that we owe the concept of time as the fourth dimension of a four-dimensional spacetime. It still gives me shivers when I read these two papers.
+
+Let’s follow Minkowski and consider the path of light rays that start at the origin. Imagine a flash of light—a flashbulb event—being set off at the origin and propagating outward. After a time t it will have traveled a distance ct. We may describe the flash by the equation The left side of Eq. 1.32 is the distance from the origin, and the right side is the distance traveled by the light signal in time t. Equating these gives the locus of all points reached by the flash. The equation can be visualized, albeit only with three dimensions instead of four, as defining a cone in spacetime. Although he didn’t quite draw the cone, he did describe it in detail. Here we draw Minkowski’s Light Cone (Fig. 1.11). The upward-pointing branch is called the future light cone. The downward-pointing branch is the past light cone.
+
+Now let’s return to the railroad world of motion strictly along the x axis.
+
+1.5.2 The Physical Meaning of Proper Time The invariant quantity τ2 is not just a mathematical abstraction. It has a physical—even an experimental—meaning. To understand it, consider Lenny, as usual, moving along the x axis and Art at rest in the rest frame. They pass each other at the origin O. We also mark a second point D along Lenny’s world line, which represents Lenny moving along the t′ axis.12 All of this is shown in Fig. 1.12. The starting point along the world line is the common origin O. By definition Lenny is located at x′ = 0 and he moves along the t′ axis.
+
+Figure 1.12: Proper Time. Please read the footnote that explains the two meanings of t′ in this diagram. The coordinates (x, t) refer to Art’s frame, and the primed coordinates (x′, t′) refer to Lenny’s frame. The invariant τ2 is defined as t′2 − x′2 in Lenny’s frame. By definition, Lenny always remains at x′ = 0 in his own rest frame, and because x′ = 0 at point D, t′2 − x′2 is the same as t′2. Therefore, the equation τ2 = t′2 − x′2 becomes τ2 = t′2, and τ = t′. But what is t′? It is the amount of time that has passed in Lenny’s frame since he left the origin. Thus we find that the invariant τ has a physical meaning: The invariant proper time along a world line represents the ticking of a clock moving along that world line. In this case it represents the number of ticks of Lenny’s Rolex as he moves from the origin to point D.
+
+To complete our discussion of proper time, we write it in conventional coordinates: 1.5.3 Spacetime Interval The term proper time has a specific physical and quantitative meaning. On the other hand, I’ve also used the term spacetime distance as a generic version of the same idea. Going forward, we’ll start using a more precise term, spacetime interval, (Δs)2, defined as (Δs)2 = −Δt2 + (Δx2 + Δy2 + Δz2). To describe the spacetime interval between an event (t, x, y, z) and the origin, we write s2 = − t2 + (x2 + y2 + z2). In other words, s2 is just the negative of τ2, and is therefore an invariant.13 So far, the distinction between τ2 and s2 has not been important, but it will soon come into play.
+
+1.5.4 Timelike, Spacelike, and Lightlike Separations Among the many geometric ideas that Minkowski introduced into relativity were the concepts of timelike, spacelike, and lightlike separations between events. This classification may be based on the invariant τ2 = t2 − (x2 + y2 + z2), or on its alter ego s2 = −t2 + (x2 + y2 + z2), the spacetime interval that separates an event (t, x, y, z) from the origin. We’ll use s2. The interval s2 may be negative, positive, or zero, and that’s what determines whether an event is timelike, spacelike, or lightlike separated from the origin.
+
+To gain some intuition about these categories, think of a light signal originating at Alpha Centauri at time zero. It takes about four years for that signal to reach us on Earth. In this example, the light flash at Alpha Centauri is at the origin, and we’re considering its future light cone (the top half of Fig. 1.11).
+
+Timelike Separation First, consider a point that lies inside the cone. That will be the case if the magnitude of its time coordinate |t| is greater than the spatial distance to the event—in other words, if −t² + (x² + y² + z²) < 0. Such events are called timelike relative to the origin. All points on the t axis are timelike relative to the origin (I’ll just call them timelike). The property of being timelike is invariant: If an event is timelike in any frame, it is timelike in all frames. If an event on Earth happens more than four years after the flash was sent, then it’s timelike relative to the flash. Those events will be too late to be struck by the signal. It will have passed already.
+
+Spacelike Separation Spacelike events are the ones outside the cone.¹⁴ In other words, they’re the events such that −t² + (x² + y² + z²) > 0. For these events the space separation from the origin is larger than the time separation. Again, the spacelike property of an event is invariant. Spacelike events are too far away for the light signal to reach. Any event on Earth that takes place earlier than four years after the light signal began its journey cannot possibly be affected by the event that created the flash.
+
+Lightlike Separation Finally, there are the events on the light cone; those for which −t² + (x² + y² + z²) = 0. Those are the points that a light signal, starting at the origin, would reach. A person who is at a lightlike event relative to the origin would see the flash of light.
+
+## 1.6 Historical Perspective
+
+1.6.1 Einstein People often wonder whether Einstein’s declaration that “c is a law of physics” was based on theoretical insight or prior experimental results—in particular the Michelson-Morley experiment. Of course, we can’t be certain of the answer. No one really knows what’s in another person’s mind. Einstein himself claimed that he was not aware of Michelson’s and Morley’s result when he wrote his 1905 paper. I think there’s every reason to believe him. Einstein took Maxwell’s equations to be a law of physics. He knew that they give rise to wavelike solutions. At age sixteen, he puzzled over what would happen if you moved along with a light ray. The “obvious” answer is that you’d see a static electric and magnetic field with a wavelike structure that doesn’t move. Somehow, he knew that was wrong—that it was not a solution to Maxwell’s equations. Maxwell’s equations say that light moves at the speed of light. I’m inclined to believe that, consistent with Einstein’s own account, he didn’t know of the Michelson-Morley experiment when he wrote his paper. In modern language we would explain Einstein’s reasoning a little differently. We would say that Maxwell’s equations have a symmetry of some kind—some set of coordinate transformations under which the equations have the same form in every reference frame. If you take Maxwell’s equations, which contain x’s and t’s, and plug in the old Galilean rules, x′ = x − vt, t′ = t, you would find that these equations take a different form in the primed coordinates. They don’t have the same form as in the unprimed coordinates. However, if you plug the Lorentz transformation into Maxwell’s equations, the transformed Maxwell equations have exactly the same form in the primed coordinates as in the unprimed coordinates. In modern language, Einstein’s great accomplishment was to recognize that the symmetry structure of Maxwell’s equations is not the Galileo transformation but the Lorentz transformation. He encapsulated all of this in a single principle. In a sense, he didn’t need to actually know Maxwell’s equations (though he did know them, of course). All he needed to know is that Maxwell’s equations are a law of physics, and that the law of physics requires light to move with a certain velocity. From there he could just work with the motion of light rays.
+
+1.6.2 Lorentz Lorentz did know about the Michelson-Morley experiment. He came up with the same transformation equations but interpreted them differently. He envisioned them as effects on moving objects caused by their motion through the ether. Because of various kinds of ether pressures, objects would be squeezed and therefore shortened. Was he wrong? I suppose you could say that in some way he wasn’t wrong. But he certainly didn’t have Einstein’s vision of a symmetry structure—the symmetry required of space and time in order that it agree with the principle of relativity and the motion of the speed of light. Nobody would have said that Lorentz did what Einstein did.¹⁵ Furthermore, Lorentz didn’t think it was exact. He regarded the transformation equations as a first approximation. An object moving through a fluid of some kind would be shortened, and the first approximation would be the Lorentz contraction. Lorentz fully expected that the Michelson-Morley experiment was not exact. He thought there would be corrections to higher powers of v/c, and that experimental techniques would eventually become precise enough to detect differences in the velocity of light. It was Einstein who said this is really a law of physics, a principle.
+
+1 Sometimes we’ll use the abbreviation IRF for inertial reference frame.
+
+2 We could also describe this as “my trajectory in your frame.” 3 This statement may sound glib. The fact is that many of the world’s most talented physicists tried to make things work out without giving up on the equation t′ = t. They all failed.
+
+4 This is actually a slight variation of Einstein’s approach.
+
+5 You can think of the t axis being calibrated in light-seconds instead of seconds if you prefer, but it amounts to the same thing.
+
+6 Once again, this is actually a slight variation of Einstein’s approach.
+
+7 For v/c = 10⁻⁵ one finds 8 We’re talking about a fixed difference in orientation, not a situation where either frame is rotating with a nonzero angular velocity.
+
+9 If you don’t believe me, ask the guy who sold it to me on Canal Street for twenty-five bucks.
+
+10 In what follows we will pretend that Art and Lenny were both born at the same spacetime event (labeled O) in Fig. 1.8.
+
+11 We’re using the term spacetime distance in a generic sense. Later on, we’ll switch to the more precise terms proper time and spacetime interval.
+
+12 We use the label t′ in two slightly different ways in this discussion. Its primary meaning is “Lenny’s t′ coordinate.” But we also use it to label the t′ axis.
+
+13 Sign conventions in relativity are not as consistent as we would like; some authors define s² to have the same sign as τ².
+
+14 Once again, we’re using the shorthand term “spacelike event” to mean “event that is spacelike separated from the origin.” 15 Including Lorentz himself, I believe.
+
+Lecture 2 Velocities and 4-Vectors Art: That stuff is incredibly fascinating! I feel completely transformed.
+
+Lenny: Lorentz transformed?
+
+Art: Yeah, positively boosted.
+
+It’s true, when things move at relativistic velocities they become flat, at least from the viewpoint of the rest frame. In fact, as they approach the speed of light they shrink along the direction of motion to infinitely thin wafers, although to themselves they look and feel fine. Can they shrink even past the vanishing point by moving faster than light? Well, no, for the simple reason that no physical object can move faster than light. But that raises a paradox: Consider Art at rest in the railway station. The train containing Lenny whizzes past him at 90 percent of the speed of light. Their relative velocity is 0.9c. In the same rail car with Lenny, Maggie is riding her bicycle along the aisle with a velocity of 0.9c relative to Lenny. Isn’t it obvious that she is moving faster than light relative to Art? In Newtonian physics we would add Maggie’s velocity to Lenny’s in order to compute her velocity relative to Art. We would find her moving past Art with velocity 1.8c, almost twice the speed of light. Clearly there is something wrong here.
+
+## 2.1 Adding Velocities
+
+To understand what’s wrong, we will have to make a careful analysis of how Lorentz transformations combine. Our setup now consists of three observers: Art at rest, Lenny moving relative to Art with velocity v, and Maggie moving relative to Lenny with velocity u. We will work in relativistic units with c = 1 and assume that v and u are both positive and less than 1. Our goal is to determine how fast Maggie is moving with respect to Art. Fig. 2.1 shows this setup. There are three frames of reference and three sets of coordinates. Let (x, t) be Art’s coordinates in the rest frame of the rail station. Let (x′, t′) be coordinates in Lenny’s frame—the frame at rest in the train. And finally let (x″, t″) be Maggie’s coordinates that move with her bicycle. Each pair of frames is related by a Lorentz transformation with the appropriate velocity. For example Lenny’s and Art’s coordinates are related by Figure 2.1: Combining Velocities. We also know how to invert these relations. This amounts to solving for x and t in terms of x′ and t′. I’ll remind you that the result is 2.1.1 Maggie Our third observer is Maggie. What we know about Maggie is that she is moving relative to Lenny with relative velocity u. We express this by a Lorentz transformation connecting Lenny’s and Maggie’s coordinates, this time with velocity u: Our goal is to find the transformation relating Art’s and Maggie’s coordinates, and from that transformation read off their relative velocities. In other words, we want to eliminate Lenny.¹ Let’s start with Eq. 2.5, Now, substitute for x′ and t′ on the right side, using Eqs. 2.1 and 2.2, and combine the denominators, Now we come to the main point: determining Maggie’s velocity in Art’s frame relative to Art. It’s not entirely obvious that Eq. 2.7 has the form of a Lorentz transformation (it does), but fortunately we can avoid the issue for the moment. Observe that Maggie’s world line is given by the equation x″ = 0. For that to be true, we only need to set the numerator of Eq. 2.7 to zero. So let’s combine the terms in the numerator, (1 + uv)x − (v + u)t = 0, which results in Now it should be obvious: Eq. 2.8 is the equation for a world line moving with velocity (u + v)/(1 + uv). Thus, calling Maggie’s velocity in Art’s frame w, we find
+
+It’s now fairly easy to check that Art’s frame and Maggie’s frame really are related by a Lorentz transformation. I will leave it as an exercise to show that
+
+and
+
+To summarize: If Lenny moves with velocity v relative to Art, and Maggie moves with velocity u with respect to Lenny, then Maggie moves with velocity with respect to Art. We will analyze this shortly, but first let’s express Eq. 2.12 in conventional units by enforcing dimensional consistency. The numerator u + v is dimensionally correct. However, the expression 1 + uv in the denominator is not because 1 is dimensionless and both u and v are velocities. We can easily restore dimensions by replacing u and v with u/c and v/c. This gives the relativistic law for the addition of velocities,
+
+Let’s compare the result with Newtonian expectations. Newton would have said that to find Maggie’s velocity relative to Art we should just add u to v. That is indeed what we do in the numerator in Eq. 2.13. But relativity requires a correction in the form of the denominator, (1 + uv/c2).
+
+Let’s look at some numerical examples. First we’ll consider the case where u and v are small compared to the speed of light. For simplicity, we’ll use Eq. 2.9, where velocities are dimensionless. Just remember that u and v are velocities measured in units of the speed of light. Suppose u = 0.01, 1 percent of the speed of light, and v is also 0.01. Plugging these values into Eq. 2.9 gives
+
+or
+
+The Newtonian answer would, of course, have been 0.02, but the relativistic answer is slightly less. In general, the smaller u and v, the closer will be the relativistic and Newtonian result.
+
+But now let’s return to the original paradox: If Lenny’s train moves with velocity v = 0.9 relative to Art, and Maggie’s bicycle moves with u = 0.9 relative to Lenny, should we not expect that Maggie is moving faster than light relative to Art? Substituting appropriate values for v and u, we get
+
+or
+
+The denominator is slightly bigger than 1.8, and the resulting velocity is slightly less than 1. In other words, we have not succeeded in making Maggie go faster than the speed of light in Art’s frame.
+
+While we’re at it, let’s satisfy our curiosity about what would happen if both u and v equal the speed of light. We simply find that w becomes
+
+or
+
+Even if Lenny could somehow move at the speed of light relative to Art, and Maggie could move at the speed of light relative to Lenny, still she would still not move faster than light relative to Art.
+
+## 2.2 Light Cones and 4-Vectors
+
+As we saw in Section 1.5, the proper time
+
+τ2 = t2 − (x2 + y2 + z2)
+
+and its alter ego, the spacetime interval relative to the origin,
+
+s2 = − t2 + (x2 + y2 + z2),
+
+are invariant quantities under general Lorentz transformations in four-dimensional spacetime. In other words, these quantities are invariant under any combination of Lorentz boosts and coordinate rotations. We’ll sometimes write τ in abbreviated form as
+
+This is probably the most central fact about relativity.
+
+2.2.1 How Light Rays Move
+
+Back in Lecture 1, we discussed spacetime regions and the trajectories of light rays. Fig. 2.2 illustrates this idea in slightly greater detail. The different kinds of separation correspond to a negative, positive, or zero value of the invariant quantity s. We also discovered the interesting result that if two points in spacetime have a separation of zero, this does not mean they have to be the same point. Zero separation simply means that the two points are related by the possibility of a light ray going from one of them to the other. That’s one important concept of how a light ray moves—it moves in such a way that the proper time (alternately, spacetime interval) along its trajectory is zero. The trajectory of a light ray that starts at the origin serves as a kind of boundary between regions of spacetime that are timelike separated from the origin and those that are spacelike separated.
+
+Figure 2.2: Future Light Cone. Relative to the origin: Point a is timelike separated, point b is spacelike separated, and point P is lightlike separated. Only two space dimensions are shown.
+
+2.2.2 Introduction to 4-Vectors
+
+We have a reason for bringing the y and z spatial dimensions back into the picture. The mathematical language of relativity relies heavily on something called a 4-vector, and 4-vectors incorporate all three dimensions of space. We’ll introduce them here and develop them further in Lecture 3.
+
+The most basic example of a vector in three dimensions is the interval between two points in space. Given two points, there’s a vector that connects them. It has a direction and a magnitude. It doesn’t matter where the vector begins. If we move it around, it’s still the same vector. You can think of it as an excursion beginning at the origin and ending at some point in space. Our vector has coordinates, in this case x, y, and z, that define the location of the final point.
+
+New Notation
+
+Of course, the names of our coordinates don’t necessarily have to be x, y, and z. We’re free to rename them. For instance, we could call them Xi, with i being 1, 2, or 3. In this notation, we could write
+
+Or we could write
+
+instead, and we plan to use that notation extensively. Since we’ll be measuring space and time relative to some origin, we need to add a time coordinate t. As a result, the vector becomes a four-dimensional object, a 4-vector with one time component and three space components. By convention, the time component is first on the list:
+
+where (X0, X1, X2, X3) has the same meaning as (t, x, y, z). Remember, these superscripts are not exponents. The coordinate X3 means “the third space coordinate, the one that’s often written as z.” It does not mean X × X × X. The distinction between exponents and superscripts should be clear from the context. From now on, when we write four-dimensional coordinates, the time coordinate will come first.
+
+Notice that we’re using two slight variants of our index notation: • Xμ: A Greek index such as μ means that the index ranges over all four values 0, 1, 2, and 3.
+
+• Xi: A Roman index such as i means that the index only includes the three spatial components 1, 2, and 3.
+
+What about the proper time and spacetime interval from the origin? We can write them as
+
+τ2 = (X0)2 − (X1)2 − (X2)2 − (X3)2
+
+and
+
+s2 = − (X0)2 + (X1)2 + (X2)2 + (X3)2.
+
+There’s no new content here, just notation. But notation is important. In this case, it provides a way to organize our 4-vectors and keep our formulas simple. When you see a μ index, the index runs over the four possibilities of space and time. When you see an i index, the index only runs over space. Just as Xi can be thought of as a basic version of a vector in space, Xμ, with four components, represents a 4-vector in spacetime. Just as vectors transform when you rotate coordinates, 4-vectors Lorentz-transform when you go from one moving frame to another. Here is the Lorentz transformation in our new notation:
+
+We can generalize this to a rule for the transformation properties of any 4-vector. By definition a 4-vector is any set of components Aμ that transform according to
+
+under a boost along the x axis. We also assume that the spatial components A1, A2, A3 transform as a conventional 3-vector under rotations of space and that A0 is unchanged.
+
+Just like 3-vectors, 4-vectors can be multiplied by an ordinary number by multiplying the components by that number. We may also add 4-vectors by adding the individual components. The result of such operations is a 4-vector.
+
+4-Velocity
+
+Let’s look at another 4-vector. Instead of talking about components relative to an origin, this time we’ll consider a small interval along a spacetime trajectory. Eventually, we’ll shrink this interval down to an infinitesimal displacement; for now think of it as being small but finite. Fig. 2.3 shows the picture we have in mind. The interval that separates points a and b along the trajectory is ΔXμ. This simply means the changes in the four coordinates going from one end of a vector to the other. It consists of Δt, Δx, Δy, and Δz.
+
+Now we’re ready to introduce the notion of 4-velocity. Four-dimensional velocity is a little different from the normal notion of velocity. Let’s take the curve in Fig. 2.3 to be the trajectory of a particle. I’m interested in a notion of velocity at a particular instant along segment . If we were working with an ordinary velocity, we would take Δx and divide it by Δt. Then we would take the limit as Δt approaches zero. The ordinary velocity has three components: the x component, the y component, and the z component. There is no fourth component.
+
+We’ll construct the four-dimensional velocity in a similar way. Start with the ΔXμ. But instead of dividing them by Δt, the ordinary coordinate time, we’ll divide them by the proper time Δτ. The reason is that Δτ is invariant. Dividing a 4-vector ΔXμ by an invariant preserves the transformation properties of the 4-vector. In other words, ΔXμ/Δτ is a 4-vector, while ΔXμ/Δt is not.
+
+Figure 2.3: Spacetime Trajectory (particle).
+
+In order to distinguish the 4-velocity from the ordinary 3-velocity we’ll write it as U instead of V. U has four components Uμ, defined by
+
+We’ll have a closer look at 4-velocity in the next lecture. It plays an important role in the theory of the motion of particles. For a relativistic theory of particle motion, we’ll need new notions of old concepts such as velocity, position, momentum, energy, kinetic energy, and so on. When we construct relativistic generalizations of Newton’s concepts, we’ll do it in terms of 4-vectors.
+
+We’ll introduce subscript notation whose meaning is slightly different.
+
+Lecture 3 Relativistic Laws of Motion
+
+Lenny was sitting on a bar stool holding his head in his hands while his cell phone was opened to an email message.
+
+Art: Whatsa matter, Lenny? Too much beer milkshake?
+
+Lenny: Here, Art, take a look at this email. I get a couple like it every day.
+
+Email Message: Dear Professor Susskind,
+
+Einstein made a bad mistake and I discovered it. I wrote to your friend Hawking but he didn’t answer.
+
+Let me explain Einstein’s mistake. Force equals mass times acceleration. So I push something with a constant force for a long time the acceleration is constant so if I do it long enough the velocity keeps increasing. I calculated that if I push a 220 pound (that’s my weight. I should probably go on a diet) person with a continuous force of 224.809 pounds in a horizontal direction, after a year he will be moving faster than the speed of light. All I used was Newton’s equation F = MA. So Einstein was wrong since he said that nothing can move faster than light. I am hoping you will help me publish this as I am certain that the physicists need to know it.
+
+I have a lot of money and I can pay you.
+
+Art: Geez, that’s awfully stupid.
+
+By the way, what’s wrong with it?
+
+The answer to Art’s question is that we’re not doing Newton’s theory; we’re doing Einstein’s theory. Physics, including the laws of motion, force, and acceleration, all had to be rebuilt from the ground up, in accord with the principles of special relativity.
+
+We’re now ready to tackle that project. We will be especially interested in particle mechanics—how particles move according to special relativity. To accomplish this, we’ll need to corral a wide range of concepts, including many from classical mechanics. Our plan is to discuss each idea separately before knitting them all together at the end.
+
+Relativity builds on the classical notions of energy, momentum, canonical momenta, Hamiltonians, and Lagrangians; the principle of least action plays a central role. Though we offer some brief reminders of these ideas as we go, we assume you remember them from the first book of this series, The Theoretical Minimum: What You Need to Know to Start Doing Physics. If not, this would be an excellent time to review that material.
+
+## 3.1 More About Intervals
+
+We discussed timelike and spacelike intervals in Lectures 1 and 2. As we explained, the interval or separation between two points in spacetime is timelike when the invariant quantity (Δs)² is less than zero, that is, when the time component of the interval is greater than the space component. On the other hand, when the spacetime interval (Δs)² between two events is greater than zero, the opposite is true and the interval is called spacelike. This idea was previously illustrated in Fig. 2.2.
+
+3.1.1 Spacelike Intervals
+
+When (Δx)² is greater than (Δt)², the spatial separation between the two events is greater than their time separation and (Δs)² is greater than zero. You can see this in Fig. 3.1, where the separation between events a and b is spacelike. The line connecting those two points makes an angle smaller than 45 degrees to the x axis.
+
+Spacelike intervals have more space in them than time. They also have the property that you cannot find a reference frame in which the two events are located at the same position in space. What you can do instead is find a reference frame in which they both happen at exactly the same time but at different places. This amounts to finding a frame whose x′ axis passes through both points. But there’s a much bigger surprise in store. In the t, x frame of Fig. 3.1, event a happens before event b. However, if we Lorentz-transform to the t′, x′ frame of the diagram, event b happens before event a. Their time order is actually reversed. This brings into sharp focus what we mean by relativity of simultaneity: There’s no invariant significance to the idea that one event happens later or earlier than the other if they are spacelike separated.
+
+3.1.2 Timelike Intervals
+
+Particles with nonzero mass move along timelike trajectories. To clarify what this means, Fig. 3.2 shows an example. If we follow the path from point a to point b, every little segment of that path is a timelike interval. Saying that a particle follows a timelike trajectory is another way of saying its velocity can never reach the speed of light.
+
+When an interval is timelike, you can always find a reference frame in which the two events happen at the same place—where they have the same space coordinates but occur at different times. In fact, all you need to do is choose a reference frame where the line connecting the two points is at rest—a frame whose t′ axis coincides with the line that connects the two points.
+
+## 3.2 A Slower Look at 4-Velocity
+
+Back in Lecture 2, we introduced some definitions and notation for the 4-velocity. Now it’s time to develop that idea further. The components of 4-velocity dXμ/dτ are analogous to the components dXi/dt of the usual coordinate velocity, except that • The 4-velocity has—big surprise—four components instead of three, and • Instead of referring to a rate of change with respect to coordinate time, 4-velocity refers to rate of change with respect to proper time.
+
+As a properly defined 4-vector, the components of 4-velocity transform in the same way as the prototypical 4-vector (t, x, y, z) or (X0, X1, X2, X3) in our new notation. In other words, their components transform according to the Lorentz transformation. By analogy to ordinary velocities, 4-velocities are associated with small or infinitesimal segments along a path, or a world line, in spacetime. Each little segment has its own associated 4-velocity vector.
+
+We’ll write the ordinary three-dimensional velocity as V or V = (dx/dt, dy/dt, dz/dt) and the 4-velocity as U = (U0, U1, U2, U3).
+
+What is the connection between 4-velocity and ordinary velocity? Ordinary non-relativistic velocity has, of course, only three components. This leads us to expect that there’s something funny about the fourth (which we label the zeroth) component. Let’s start with U0. Let’s write it in the form: U0 = dX0/dτ.
+
+Now recall that X0 is just another way of writing t, so that the first factor on the right side is just 1. Thus we can write: U0 = dt/dτ.
+
+or U0 = 1 / √(1 – v²), where v is the usual 3-vector velocity. Now going back to Eq. 3.3 and using Eq. 3.4, we find that: U1 = dx/dτ and U1 = U0 (dx/dt).
+
+We see here a new meaning to the ubiquitous factor 1/√(1 – v²), which appears in Lorentz transformations, Lorentz contraction, and time dilation formulas. We see that it’s the time component of the 4-velocity of a moving observer.
+
+What should we make of the time component of U? What would Newton have made of it? Suppose the particle moves very slowly with respect to the velocity of light; in other words, v << 1. Then it is clear that U0 is very close to 1. In the Newtonian limit it is just 1 and carries no special interest. It would have played no role in Newton’s thinking. Now let’s turn to the spatial components of U. In particular, we can write U1 as: U1 = dX1/dτ.
+
+which can also be written as U1 = (dX1/dt) (dt/dτ).
+
+The first factor, dx/dt, is just the ordinary x component of velocity, V1. The second factor is again given by Eq. 3.5. Putting them together, we have: U1 = γ V1.
+
+Again, let’s ask what Newton would have thought. For very small v, we know that γ is very close to 1. Therefore the space components of the relativistic velocity are practically the same as the components of the ordinary 3-velocity.
+
+There’s one more thing to know about the 4-velocity: Only three of the four components Uμ are independent. They are connected by a single constraint. We can express this in terms of an invariant. Just as the quantity (X0)² − (X1)² − (X2)² − (X3)² is an invariant, the corresponding combination of velocity components is invariant, namely (U0)² − (U1)² − (U2)² − (U3)².
+
+Is this quantity interesting? I’ll leave it as an exercise for you to show that it’s always equal to 1, (U0)² − (U1)² − (U2)² − (U3)² = 1.
+
+Here’s a summary of our results about 4-velocity:
+
+4-Velocity Summary: U0 = γ, U1 = γ V1, U2 = γ V2, U3 = γ V3, where γ = 1/√(1 – v²).
+
+These equations show you how to find the components of 4-velocity. In the nonrelativistic limit where v is close to zero, the expression for γ is very close to 1, and the two notions of velocity, Ui and Vi, are the same. However, as the speed of an object approaches the speed of light, Ui becomes much bigger than Vi. Everywhere along its trajectory, a particle is characterized by a 4-vector of position Xμ and a 4-vector of velocity Uμ.
+
+Our list of ingredients is nearly complete. We have only one more item to add before we tackle the mechanics of particles.
+
+Exercise 3.1: From the definition of (Δτ)², verify Eq. 3.7.
+
+## 3.3 Mathematical Interlude: An Approximation Tool
+
+A physicist’s tool kit is not complete without some good approximation methods. The method we describe is an old warhorse that’s indispensable despite its simplicity. The basis for the approximation is the binomial theorem. I won’t quote the theorem in its general form; just a couple of examples will do. What we will need is a good approximation to expressions like (1 + a)p that’s accurate when a is much smaller than 1. In this expression, p can be any power. Let’s consider the example p = 2. Its exact expansion is (1 + a)² = 1 + 2a + a².
+
+When a is small, the first term (in this case 1) is fairly close to the exact value. But we want to do a little bit better. The next approximation is (1 + a)² ≈ 1 + 2a.
+
+Let’s try this out for a = .1 The approximation gives (1 + .1)² ≈ 1.2 whereas the exact answer is 1.21. The smaller we make a, the less important is the a² term and the better the approximation. Let’s see what happens when p = 3. The exact expansion is (1 + a)³ = 1 + 3a + 3a² + a³ and the first approximation would be (1 + a)³ ≈ 1 + 3a.
+
+For a = .1 the approximation would give 1.3, while the exact answer is 1.4641. Not bad but not great. But now let’s try it for a = .01. The approximate answer is (1.01)³ ≈ 1.03, while the exact answer is (1.01)³ = 1.
+
+.030301, which is much better. Now, without any justification, I will write the general answer for the first approximation for any value of p: In general, if p is not an integer, the exact expression is an infinite series. Nevertheless, Eq. 3.11 is highly accurate for small a and gets better and better as a becomes smaller.
+
+We’ll use Eq. 3.11 here to derive approximations for two expressions that show up all the time in relativity theory: [equation] and [equation], where v represents the velocity of a moving object or reference frame. We do this by writing Eqs. 3.12 and 3.13 in the form [equation]. In the first case the roles of a and p are played by a = −v² and p = 1/2. In the second case a = −v² but p = −1/2. With those identifications our approximations become [equations]. We’ve written these expressions in relativistic units, so that v is a dimensionless fraction of the speed of light. In conventional units they take the form [equations].
+
+Let me pause for a moment to explain why we’re doing this. Why approximate when it’s not difficult, especially with modern calculators, to calculate the exact expression to extremely high precision? We’re not doing it to make calculations easy (though it may have that effect). We are constructing a new theory for describing motion at very large velocities. However, we are not free to do anything we like; we are constrained by the success of the older theory—Newtonian mechanics—for describing motion much slower than the speed of light. Our real purpose in approximations like Eqs. 3.16 and 3.17 is to show that the relativistic equations approach the Newtonian equations when v/c is very small. For easy reference, here are the approximations we will use.
+
+Approximations: From now on we will dispense with the approximation symbol ≈ and use the approximate formulas only when they are accurate enough to merit an equal sign.
+
+## 3.4 Particle Mechanics
+
+With all these ingredients in place, we’re ready to talk about particle mechanics. The word particle often conjures up the image of elementary particles such as electrons. However, we’re using the word in a much broader sense. A particle can be anything that holds itself together. Elementary particles certainly meet this criterion, but many other things do as well: the Sun, a doughnut, a golf ball, or my email correspondent. When we speak of the position or velocity of a particle, what we really mean is the position or velocity of its center of mass.
+
+Before beginning the next section I urge you to refresh your knowledge of the principle of least action, Lagrangian mechanics, and Hamiltonian mechanics if you have forgotten them. Volume I of the Theoretical Minimum series is one place to find them.
+
+Figure 3.3: Timelike Particle Trajectory.
+
+3.4.1 Principle of Least Action
+
+The principle of least action and its quantum mechanical generalization may be the most central idea in all of physics. All the laws of physics, from Newton’s laws of motion, to electrodynamics, to the modern so-called gauge theories of fundamental interactions, are based on the action principle. Do we know exactly why? I think the roots of it are in quantum theory, but suffice it to say that it is deeply connected with energy conservation and momentum conservation. It guarantees the internal mathematical consistency of equations of motion. I discussed action in great detail in the first book of this series. This will be a quick and abbreviated review.
+
+Let’s briefly review how the action principle determines the motion of a particle in classical mechanics. The action is a quantity that depends on the trajectory of the particle as it moves through spacetime. You can think of this trajectory as a world line, such as that shown in Fig. 3.2, which we’ve reproduced here as Fig. 3.3 for convenience. This diagram is a good model for our discussion of action. However, keep in mind that when plotting the position of a system, the x axis represents the entire spatial description of the system—x could stand for a one-dimensional coordinate, but it could also stand for a spatial 3-vector. (It could even represent all the spatial coordinates of a large number of particles, but here we consider only a single particle). We just call it space or coordinate space. As usual, the vertical axis represents coordinate time, and the trajectory of a system is a curve.
+
+For a particle the Lagrangian depends on the position and velocity of the particle and, most important, it is built out of the kinetic and potential energy. The curve in Fig. 3.3 represents the timelike world line of a single particle with nonzero mass. We’ll study its behavior as it goes from point a to point b.
+
+Our development of the least action principle will closely parallel what we did in classical mechanics. The only real difference is that we now add the requirement of frame independence; we want our laws of physics to be the same in every inertial reference frame. We can achieve that by casting our laws in terms of quantities that are the same in every reference frame. In other words, the action should be invariant, and that’s best accomplished if its constituents are invariant.
+
+The least action principle says that if a system starts out at point a and ends up at point b, it will “choose” a particular kind of path among all the possible paths. Specifically, it chooses the path that minimizes the quantity we call action. Action is built up incrementally as a sum over the trajectory. Each little segment of the trajectory has a quantity of action associated with it. We calculate the action over the entire path from a to b by adding all these little chunks of action together. As we shrink the segments down to infinitesimal size, the sum becomes an integral. This idea of action being an integral over a trajectory with fixed end points is something we take directly from prerelativity physics. The same is true for the idea that the system somehow chooses the path that minimizes the action integral.
+
+3.4.2 A Quick Review of Nonrelativistic Action
+
+Recall the formula for the action of a nonrelativistic particle from Volume I. The action is an integral along the trajectory of a system, and the integrand is called the Lagrangian, denoted [symbol]. In symbols, [equation]. As a rule, the Lagrangian is a function of the position and velocity along the trajectory. In the simplest case of a particle with no forces acting on it, the Lagrangian is just the kinetic energy. In other words, [equation], where m is the mass of the particle and v is the instantaneous velocity. The action for the nonrelativistic particle is [equation]. Notice that the action is proportional to the mass: For a marble and a bowling ball moving on the same trajectory, the action of the bowling ball is larger than the action of the marble by the ratio of their masses.
+
+3.4.3 Relativistic Action
+
+The nonrelativistic description of particle motion is highly accurate for particles moving much slower than light, but breaks down badly for relativistic particles with larger velocities. To understand relativistic particles we need to start over from the ground up, but one thing stays the same. The theory of relativistic motion is based on the action principle.
+
+How then to calculate the action of a relativistic particle for each little segment along the trajectory? To make sure the laws of motion are the same in every reference frame, the action should be invariant. But there’s really only one thing that’s invariant when a particle moves from some position to a neighboring position: the proper time separating the two. The proper time from one point to another is a quantity that all observers will agree on. They will not agree on the Δt’s or the [symbol] but they will agree on Δτ. So a good guess, and it’s the right guess, is to take the action to be proportional to the sum of all the little Δτ’s. That sum is simply the total proper time along the world line. In mathematical language, Action = −constant × ∑ Δτ, where the sum is from one end of a trajectory to the other—from point a to point b in Fig. 3.3. We’ll come back to the constant factor and the minus sign shortly.
+
+Once the action has been constructed, we do exactly the same thing as in classical mechanics: Holding the two end points fixed, we wiggle the connecting path around until we find the path that produces the smallest action. Because the action is built up from the invariant quantities Δτ, every observer will agree about which path minimizes it.
+
+What is the meaning of the constant factor in the action? To understand it, let’s go back to the nonrelativistic case (Eq. 3.22) where we saw that the action for a given path is proportional to the mass of the particle. If we wish to reproduce standard nonrelativistic physics in the limit of small velocities, the relativistic action will also have to be proportional to the mass of the particle. The reason for the minus sign will become clear as we proceed. Let’s try defining the action as Action = −m ∑ Δτ.
+
+Now let’s imagine each little segment along the trajectory shrinking down to infinitesimal size. Mathematically, this means we convert our sum to an integral, [equation], and Δτ has become its infinitesimal counterpart dτ. We’ve added the limits a and b to show that the integral runs from one end of the trajectory to the other.
+
+We already know from Eq. 3.4 that [equation], and we can use this to replace dτ in the action integral with [symbol], resulting in [equation]. In our new notation, v² becomes [symbol], and the action integral becomes [equation]. I’m using the symbol [symbol] to mean [symbol], where the dot means derivative with respect to ordinary coordinate time. We might also write that [equation], with [symbol] being the ordinary three-dimensional velocity vector.
+
+We’ve converted the action integral to something almost familiar: an integral of a function of velocity. It has the same general form as Eq. 3.20, but now instead of the Lagrangian being the nonrelativistic kinetic energy of Eq. 3.21, it has the slightly more complicated form [equation] or [equation].
+
+Before getting more familiar with this Lagrangian, let’s put back the appropriate factors of c to restore the correct dimensions for co conventional units. To make the expression dimensionally consistent, we must divide the velocity components by c. In addition, to make the Lagrangian have units of energy, we need to multiply the whole thing by c2. Thus in conventional units, or in explicit detail, In case you didn’t notice, Eq. 3.26 marks the first appearance of the expression mc2.
+
+3.4.4 Nonrelativistic Limit We would like to show that in the limit of small velocities, the behavior of relativistic systems reduces to Newtonian physics. Since everything about that motion is encoded in the Lagrangian, we only need to show that for small velocities the Lagrangian reduces to Eq. 3.21. It was exactly for this and other similar purposes that we introduced the approximations of Eqs. 3.16 and 3.17, If we apply the first of these to Eq. 3.26, the result is which we may rewrite as The first term, , is good old kinetic energy from Newtonian mechanics: exactly what we expect the nonrelativistic Lagrangian to be. Incidentally, had we not put the overall minus sign in the action, we would not have reproduced this term with the correct sign.
+
+What about the additional term −mc2? Two questions come to mind. The first is whether it makes any difference to the motion of a particle. The answer is that the addition (or subtraction) of a constant to a Lagrangian, for any system, makes no difference at all. We may leave it or delete it without any consequences for the motion of the system. The second question is, what does that term have to do with the equation E = mc2? We’ll see that shortly.
+
+3.4.5 Relativistic Momentum Momentum is an extremely important concept in mechanics, not least of all because it is conserved for a closed system. Moreover, if we divide a system into parts, the rate of change of the momentum of a part is the force on that part due to the rest of the system. Momentum, often denoted by , is a 3-vector that in Newtonian physics is given by the mass times the velocity, Relativistic physics is no different; momentum is still conserved. But the relation between momentum and velocity is more complicated. In his 1905 paper, Einstein worked out the relation in a classic argument that was not only brilliant but characteristically simple. He began by considering an object in the rest frame, and then imagined the object split into two lighter objects, each of which moved so slowly that the whole process could be understood by Newtonian physics. Then he imagined observing that same process from another frame in which the initial object was moving with a large relativistic velocity. The velocity of the final objects could easily be determined by boosting (Lorentz-transforming) the known velocities in the original frame. Then, putting the pieces together, he was able to deduce the expression for their momenta by assuming momentum conservation in the moving frame.
+
+I will use a less elementary, perhaps less beautiful argument, but one that is more modern and much more general. In classical mechanics (go back to Volume I) the momentum of a system—say a particle—is the derivative of the Lagrangian with respect to the velocity. In terms of components, For reasons we have not yet explained, we often prefer to write equations of this kind as where P has a subscript instead of a superscript; we’ve written it here only for reference. We’ll explain the meaning of upper and lower indices in Section 5.3.
+
+To find the relativistic expression for momentum of a particle, all we have to do is to apply Eq. 3.28 to the Lagrangian in Eq. 3.27. For example, the x component of momentum is Carrying out the derivative, we get or more generally, Let’s compare this formula with the nonrelativistic version Pi = mVi. The first interesting fact is that they are not so different. Go back to the definition of relativistic velocity, Comparing Eq. 3.9 with Eq. 3.30 we see that the relativistic momentum is just the mass times the relativistic velocity, We probably could have guessed Eq. 3.31 without doing all that work. However, it’s important that we can derive it from the basic principles of mechanics: the fundamental definition of momentum as the derivative of the Lagrangian with respect to the velocity.
+
+As you might expect, the relativistic and nonrelativistic definitions of momentum come together when the velocity is much smaller than the speed of light, in which case the expression is very close to 1. But notice what happens as the velocity increases and gets close to c. In that limit the expression blows up. Thus as the velocity approaches c, the momentum of a massive object becomes infinite!
+
+Let’s return to the email message that I began this lecture with and see if we can answer the writer. The whole argument rested on Newton’s second law: as written by the emailer, F = MA. It’s well known to readers of the first volume that this can be expressed another way: namely, force is the rate of change of momentum, The two ways of expressing Newton’s second law are the same within the restricted domain of Newtonian mechanics, where the momentum is given by the usual nonrelativistic formula P = mV. However, the more general principles of mechanics imply that Eq. 3.32 is more fundamental and applies to relativistic problems as well as nonrelativistic ones.
+
+What happens if, as the emailer suggested, a constant force is applied to an object? The answer is that the momentum increases uniformly with time. But since getting to the speed of light requires an infinite momentum, it will take forever to get there.
+
+## 3.5 Relativistic Energy
+
+Let’s now turn to the meaning of energy in relativistic dynamics. As I’m sure you are aware, it is another conserved quantity. As you probably also know, at least if you have read Volume I, energy is the Hamiltonian of the system. If you need a refresher on Hamiltonians, now is the time to take a break and go back to Volume I.
+
+The Hamiltonian is a conserved quantity. It’s one of the key elements of the systematic approach to mechanics developed by Lagrange, Hamilton, and others. The framework they established allows us to reason from basic principles rather than just make things up as we go along. The Hamiltonian H is defined in terms of the Lagrangian. The most general way to define it is where the Qi and Pi are the coordinates and canonical momenta that define the phase space of the system in question. For a moving particle, the coordinates are simply the three components of position, X1, X2, X3, and Eq. 3.33 takes the form We already know from Eq. 3.31 that the momenta are Pi = mUi, or We also know from Eq. 3.24 that the Lagrangian is or Substituting these equations for Pi and into Eq. 3.34 results in This equation for the Hamiltonian looks like a mess, but we can simplify it quite a bit. First, notice that (Xi)2 is just the velocity squared. As a result, the first term does not even need to be written as a sum; it’s just . If we multiply and divide the second term by , it will have the same denominator as the first term. The resulting numerator is m(1 − v2). Putting these things together gives us Now it’s much simpler, but we’re still not done. Notice that mv2 in the first term cancels mv2 in the second term, and the whole thing boils down to That’s the Hamiltonian—the energy. Do you recognize the factor in this equation? If not, just refer back to Eq. 3.8. It’s U0. Now we can be sure that the zeroth component of the 4-momentum, is the energy. This is actually a big deal, so let me shout it out loud and clear: The three components of spatial momentum Pi together with the energy P0 form a 4-vector. This has the important implication that the energy and momentum get mixed up under a Lorentz transformation. For example, an object at rest in one frame has energy but no momentum. In another frame the same object has both energy and momentum.
+
+Finally, the prerelativistic notion of momentum conservation becomes the conservation of 4-momentum: the conservation of x-momentum, y-momentum, z-momentum, and energy.
+
+3.5.1 Slow Particles Before going on, we should figure out how this new concept of energy is related to the old concept. We’ll change back to conventional units for a while and put c back into our equations. Take Eq. 3.35. Recognizing that the Hamiltonian is the same thing as the energy, we can write To restore the appropriate factors of c we first note that energy has units of mass times velocity squared (an easy way to remember this is from the nonrelativistic expression for kinetic energy ). Therefore the right side needs a factor of c2. In addition the velocity should be replaced with v/c, resulting in Eq. 3.38 is the general formula for the energy of a particle of mass m in terms of its velocity. In that sense it is similar to the nonrelativistic formula for kinetic energy. In fact, we should expect that when the velocity is much less than c, it should reduce to the nonrelativistic formula. We can check that by using the approximation in Eq. 3.19. For small v/c we get The second term on the right side of Eq. 3.39 is the nonrelativistic kinetic energy, but what is the first term? It is, of course, a familiar expression, maybe the most familiar in all of physics, namely mc2. How should we understand its presence in the expression for energy?
+
+Even before the advent of relativity it was understood that the energy of an object is not just kinetic energy. Kinetic energy is the energy due to the motion of an object, but even when the object is at rest it may contain energy. That energy was thought of as the energy needed to assemble the system. What is special about the energy of assembly is that it does not depend on the velocity. We may think of it as “rest energy.” Eq. 3.39, which is a consequence of Einstein’s theory of relativity, tells us the exact value of the rest energy of any object. It tells us that when the velocity of an object is zero, its energy is I’m sure that this is not the first time any of you have seen this equation, but it may be the first time you’ve seen it derived from first principles. How general is it? The answer is very general. It does not matter whether the object is an elementary particle, a bar of soap, a star, or a black hole. In a frame in which the object is at rest, its energy is its mass times the square of the speed of light.
+
+Terminology: Mass and Rest Mass The term rest mass is an anachronism, despite its continued use in many undergraduate textbooks. Nobody I know who does physics uses the term rest mass anymore. The new convention is that the word mass means what the term rest mass used to mean.9 The mass of a particle is a tag that goes with the particle and characterizes the particle itself, not the motion of the particle. If you look up the mass of an electron, you won’t get something that depends on whether the electron is moving or stationary. You’ll get a number that characterizes the electron at rest. What about the thing that used to be called mass, the thing that does depend on particle motion? We call that energy, or perhaps energy divided by the speed of light squared. Energy characterizes a moving particle. Energy at rest is just called mass. We will avoid the term rest mass altogether.
+
+3.5.2 Massless Particles So far we have discussed the properties of massive particles—particles that when brought to rest have a nonzero rest energy. But not all particles have mass. The photon is an example. Massless particles are a little strange. Eq. 3.37 tells us that energy is . But what is the velocity of a massless particle? It’s 1! We’re in trouble! On the other hand, perhaps the trouble is not so bad because the numerator and denominator are both zero. That doesn’t tell us the answer, but at least it leaves some room for negotiation.
+
+Our zero-over-zero conundrum does contain one little seed of wisdom: It’s a bad idea to think about the energy of a massless particle in terms of its velocity, because all massless particles move with exactly the same velocity. Can they have different energies if they all move with the same velocity? The answer is yes, and the reason is that zero over zero is not determined.
+
+If trying to distinguish massless particles by their velocities is a dead-end road, what can we do instead? We can write their energy as a function of momentum.10 We actually do that quite often in prerelativity mechanics when we write the kinetic energy of a particle. Another way to write is
+
+To find the relativistic expression for energy in terms of momentum, there’s a simple trick: We use the fact that U0, Ux, Uy, and Uz are not completely independent. We worked out their relationship in Section 3.2. Expanding Eq. 3.10 and setting c = 1 for the moment, we can write
+
+(U0)2 − (Ux)2 − (Uy)2 − (Uz)2 = 1.
+
+The components of momentum are the same as the components of 4-velocity except for a factor of mass, and we can multiply the preceding equation by m2 to get
+
+We recognize the first term as (P0)2. But P0 itself is just the energy, and the remaining three terms on the left side of Eq. 3.41 are the x, y, and z components of the 4-momentum. In other words, we can rewrite Eq. 3.41 as
+
+We can see that Eqs. 3.10 and 3.42 are equivalent to each other. The terms in Eq. 3.10 are components of the 4-velocity, while the terms in Eq. 3.42 are the corresponding components of the 4-momentum. We can solve Eq. 3.42 for E to get
+
+Now let’s put the speed of light back into this equation and see what it looks like in conventional units. I’ll leave it as an exercise to verify that the energy equation becomes
+
+Here is our result. Eq. 3.44 gives energy in terms of momentum and mass. It describes all particles whether their masses are zero or nonzero. From this formula we can immediately see the limit as the mass goes to zero. We had trouble describing the energy of a photon in terms of its velocity, but we have no trouble at all when energy is expressed in terms of momentum. What does Eq. 3.44 say about zero-mass particles such as photons? With m = 0, the second term of the square root becomes zero, and the square root of P2c2 is just the magnitude of P times c. Why the magnitude of P? The left side of the equation is E, a real number. Therefore the right side must also be a real number. Putting this all together, we arrive at the simple equation
+
+Energy for a massless particle is essentially the magnitude of the momentum vector, but for dimensional consistency, we multiply by the speed of light. Eq. 3.45 holds for photons. It’s approximately true for neutrinos, which have a tiny mass. It does not hold for particles that move significantly slower than the speed of light.
+
+3.5.3 An Example: Positronium Decay Now that we know how to write down the energy of a massless particle, we can solve a simple but interesting problem. There’s a particle called positronium that consists of an electron and a positron in orbit around each other. It’s electrically neutral and its mass is approximately the mass of two electrons.11
+
+The positron is the electron’s antiparticle, and if you let a positronium atom sit around for a while, these two antiparticles will annihilate each other, producing two photons. The positronium will disappear, and the two photons will go flying off in opposite directions. In other words, a neutral positronium particle with nonzero mass turns into pure electromagnetic energy. Can we calculate the energy and momentum of those two photons?
+
+This would not make any sense at all in prerelativity physics. In prerelativity physics, the sum of the masses of particles is always unchanged. Chemical reactions happen, some chemicals turn into others, and so forth. But if you weigh the system—if you measure its mass—the sum of the ordinary masses never changes. However, when positronium decays into photons, the sum of the ordinary masses does change. The positronium particle has a finite nonzero mass, and the two photons that replace it are massless. The correct rule is not that the sum of masses is conserved; it’s that the energy and the momentum are conserved. Let’s consider momentum conservation first.
+
+Suppose the positronium particle is at rest in your frame of reference.12 Its momentum in this frame is zero, by definition. Now, the positronium atom decays to two photons. Our first conclusion is that the photons must go off back to back, in opposite directions, with equal and opposite momentum. If they don’t travel in opposite directions, it’s clear that the total momentum will not be zero. The final momentum must be zero because the initial momentum was zero. This means that the right-moving photon goes off with momentum P, and the left-moving photon goes off with momentum −P.13
+
+Now we can use the principle of energy conservation. Take your positronium atom, put it on a scale, and measure its mass. In its rest frame it has energy equal to mc2. Because energy is conserved, this quantity must equal the combined energy of the two photons. Each of these photons must have the same energy as the other because their momenta have the same magnitude. Using Eq. 3.45, we can equate this energy to mc2 as follows:
+
+mc2 = 2c|P|.
+
+Solving for |P|, we find that
+
+Each photon has a momentum whose absolute value is mc/2.
+
+This is the mechanism by which mass turns into energy. Of course, the mass was always energy, but in the frozen form of rest energy. When the positronium atom decays, it results in two photons going out. The photons go on to collide with things. They may heat up the atmosphere; they could be absorbed by electrons, generate electrical currents, and so forth. The thing that’s conserved is the total energy, not the individual masses of particles.
+
+1 This is an actual email message received 1/22/2007.
+
+2 Remember that when we talk about four-dimensional spacetime—three space coordinates and one time coordinate—the symbol is a stand-in for all three directions in space. In this context, refers to the sum of their squares, which we would normally write as (Δx)2 + (Δy)2 + (Δz)2 3 A frame whose x′ axis is parallel to that connecting line would serve just as well.
+
+4 A frame whose t′ axis is parallel to the connecting line would serve just as well.
+
+5 Look it up if it’s not familiar. Here is a good reference: https://en.wikipedia.org/wiki/Binomial_approximation.
+
+6 The concept of a world line is just as good in nonrelativistic physics as it is in relativistic physics. But it acquires a certain primacy in relativity because of the connection between space and time—the fact that space and time morph into each other under a Lorentz transformation.
+
+7 There is a technical point that I will mention in order to preempt complaints by sophisticated readers. It is not strictly true that the action needs to be minimum. It may be minimum, maximum, or more generally stationary. Generally this fine point will play no role in the rest of this book. We will therefore follow tradition and refer to the principle of least (minimum) action.
+
+8 Recall that a variable with a dot on top of it means “derivative with respect to time.” For example, is shorthand for dx/dt.
+
+9 I believe this “new” convention started about forty to fifty years ago.
+
+10 In fact, we can think about any particle in this way.
+
+11 It’s interesting to note that the mass of a positronium particle is slightly less than the sum of the masses of its constituent electron and positron. Why? Because it’s bound. It has some kinetic energy due to the motion of its constituents, and that adds to its mass. But it has an even greater amount of negative potential energy. The negative potential energy outweighs the positive kinetic energy.
+
+12 If not, just get moving and get into the frame of reference in which it is at rest.
+
+13 We don’t actually know what directions these back-to-back photons will take, except that they’ll be moving in opposite directions. The line connecting the two photons is oriented randomly, according to the rules of quantum mechanics. However, there’s nothing to stop us from orienting our x axis to coincide with their “cho The request was rejected because it was considered high risk To the particle case. We will need an expression for the action—we’ll come to that soon—but let’s assume we know the action for every configuration of the field in the box. The principle of least action tells us to wiggle the field until we find the particular function ϕ(t, x, y, z) that gives the least action.
+
+Figure 4.2: Boundary of a Spacetime Region for Applying the Principle of Least Action. Only two space dimensions are shown.
+
+For particle motion the action was constructed by adding up little bits of action for each infinitesimal time segment. This gave an integral over the time interval between the boundary points a and b in Fig. 4.1. The natural generalization in field theory is to construct an action as a sum over tiny spacetime cells—in other words, an integral over the spacetime box in Fig. 4.2.
+
+where L is a Lagrangian that we still have not specified. But in relativity we’ve learned to think of these four coordinates on an equal footing, with each of them being part of spacetime. We blur the distinction between space and time by giving them similar names—we just call them Xμ—where the index μ runs over all four coordinates, and it’s standard practice to write the preceding integral as
+
+4.3.2 Stationary Action for ϕ
+
+Because the Lagrangian for a field is integrated over space as well as time, it’s often called the Lagrange density.3
+
+What variables does L depend on? Return for a moment to the nonrelativistic particle. The Lagrangian depends on the coordinates of the particle, and the velocities. In the notation we’ve been using, the Lagrangian depends on ϕ and ϕ̇. The natural generalization, inspired by Minkowski’s idea of spacetime, is for L to depend on ϕ and the partial derivatives of ϕ with respect to all coordinates. In other words, L depends on ϕ and ∂ϕ/∂Xμ.
+
+Thus we write
+
+where the index μ ranges over the time coordinate and all three space coordinates. In this action integral, we did not write L with explicit dependencies on t, x, y, or z. But for some problems, L could indeed depend on these variables, just as the Lagrangian for particle motion might depend explicitly on time. For a closed system—a system where energy and momentum are conserved—L does not depend explicitly on time or spatial position.
+
+As in ordinary classical mechanics, the equations of motion are derived by wiggling ϕ and minimizing the action. In Volume I, I showed that the result of this wiggling process can be achieved by applying a special set of equations called the Euler-Lagrange equations. For the motion of a particle, the Euler-Lagrange equations take the form
+
+How would the Euler-Lagrange equations change for the multidimensional spacetime case? Let’s look closely at each term on the left side. Clearly, we need to modify Eq. 4.4 to incorporate all four directions of spacetime. The first term, which already references the time direction, becomes a sum of terms, one for each direction of spacetime. The correct prescription is to replace Eq. 4.4 with
+
+The first term in the sum is just
+
+whose similarity to the first term in Eq. 4.4 is obvious. The other three terms involve analogous spatial derivatives that fill out the expression and give it its spacetime character.
+
+Eq. 4.5 is the Euler-Lagrange equation for a single scalar field. As we will see, these equations are closely related to wave equations that describe wavelike oscillations of ϕ.
+
+As is true in particle mechanics, there may be more than a single degree of freedom. In the case of field theory, that would mean more than one field. Let’s be explicit and suppose there are two fields ϕ and χ. The action will depend on both fields and their derivatives,
+
+If there are two fields, then there must be an Euler-Lagrange equation for each field:
+
+More generally, if there are several fields, there will be an Euler-Lagrange equation for every one of them.
+
+Incidentally, while it’s true that we’re developing this example as a scalar field, so far we haven’t said anything that requires ϕ to be a scalar. The only hint of ϕ’s scalar character is the fact that we’re working in only one component; a vector field would have additional components, and each new component would generate an additional Euler-Lagrange equation.
+
+4.3.3 More About Euler-Lagrange Equations
+
+The Lagrangian in Eq. 4.1 for a nonrelativistic particle contains a kinetic energy term proportional to
+
+and a potential energy term
+
+We might guess that the generalization to a field theory would look similar, but with the kinetic energy term having space as well as time derivatives:
+
+But there is something obviously wrong with this guess: Space and time enter into it in exactly the same way. Even in relativity theory, time is not completely symmetric with space, and ordinary experience tells us they are different. One hint, coming from relativity, is the sign difference between space and time in the expression for proper time,
+
+Later we will see that the derivatives form the components of a 4-vector and that
+
+defines a Lorentz invariant quantity. This suggests that we replace the sum of squares (of derivatives) with the difference of squares. Later, when we bring Lorentz invariance back into the picture, we’ll see why this makes sense. We’ll take this modified Lagrangian,
+
+to be the Lagrangian for our field theory. We can also view it as a prototype. Later on, we’ll build other theories out of Lagrangians that are similar to this one.
+
+The function V(ϕ) is called the field potential. It is analogous to the potential energy of a particle. More precisely, it is an energy density (energy per unit volume) at each point of space that depends on the value of the field at that point. The function V(ϕ) depends on the context, and in at least one important case it is deduced from experiment. We’ll discuss that case in Section 4.5.1. For the moment, V(ϕ) can be any function of ϕ.
+
+Let’s take this Lagrangian and work out its equations of motion step by step. The Euler-Lagrange equation in Eq. 4.5 tells us exactly how to proceed. We allow the the trajectory into lots of little segments, calculating the action for each segment, and then adding all these small action elements together. Then, we took the limit of this process, where the size of each segment approaches zero and the sum becomes an integral. The crucial point is this: When we defined the action for one of the segments, we chose a quantity that was invariant—the proper time along the trajectory. Because all observers agree on the value of the proper time for each little segment, they will agree about the number you get when you add them all together. As a result, the equations of motion you derive using the stationary action principle have exactly the same form in every reference frame. The laws of particle mechanics are invariant. I already hinted on how to do this for fields in Section 4.3.3, but now we want to get serious about Lorentz invariance in field theory.
+
+We will need to know how to form invariant quantities from fields, and then use them to construct action integrals that are also invariant. To do so, we’ll need a clear concept of the transformation properties of fields.
+
+4.4.1 Field Transformation Properties
+
+Let’s get back to Art in the railway station and Lenny moving past him in the train. They both look at the same event—Art calls it (t, x, y, z) and Lenny calls it (t′, x′, y′, z′). Their special field detectors register numerical values for some field ϕ. The simplest possible kind of field is one for which they obtain exactly the same result. If we call the field that Art measures ϕ(t, x, y, z) and the field that Lenny measures ϕ′(t′, x′, y′, z′), then the simplest transformation law would be ϕ(t, x, y, z) = ϕ′(t′, x′, y′, z′). In other words, at any particular point of spacetime Art and Lenny (and everyone else) agree about the value of the field ϕ at that point.
+
+A field with this property is called a scalar field. The idea of a scalar field is illustrated in Fig. 4.3. It’s important to understand that coordinates (t′, x′) and (t, x) both reference the same point in spacetime. Fig. 4.3 drives this point home. The unprimed coordinates represent spacetime position in Art’s frame. The primed axes stand for spacetime position in Lenny’s frame. The label ϕ(t, x) is Art’s name for the field; Lenny calls the same thing ϕ′(t′, x′) since he is the primed observer. But it’s the same field, with the same value at the same point in spacetime. The value of a scalar field at a spacetime point is invariant.
+
+Not all fields are scalars. Here’s an example from ordinary nonrelativistic physics: wind velocity. Wind velocity is a vector with three components. Observers whose axes are oriented differently will not agree on the values of the components. Art and Lenny will certainly not agree. The air might be still in Art’s frame, but when Lenny sticks his head out the window he detects a large wind velocity.
+
+Figure 4.3: Transformations. Fields φ and φ′ both reference the same point in spacetime. Both fields have the same value at this point. Displacements dXμ and (dX′)μ both reference the same spacetime interval, but the primed components are different from the unprimed components. They’re related by Lorentz transformation.
+
+Next we come to 4-vector fields. A good example is one I’ve already mentioned: wind velocity. Here is how we might define it in Art’s frame. At the spacetime point (t, x, y, z), Art measures the local components of the velocity of the air molecules dXi/dt and maps them out. The result is a 3-vector field with components vi = dxi/dt. But you might already guess that in a relativistic theory we should represent the molecular velocities relativistically: not by vi = dxi/dt but by Uμ = dXμ/dτ. Mapping out the relativistic wind velocity Uμ = dXμ/dτ would define a 4-vector field.
+
+Given Art’s description of the relativistic wind velocity, we can ask: What are its components in Lenny’s frame? Since 4-velocity is a 4-vector, the answer follows from the Lorentz transformation that we wrote down earlier in Eq. 2.16: U′μ = Λμν Uν. I didn’t include the dependence on the coordinates in Eq. 4.13 as it would have overly cluttered the equations, but the rule is simple: The U on the right side are functions of (t, x, y, z) and the U′ on the left side are functions of (t′, x′, y′, z′), but both sets of coordinates refer to the same spacetime point.
+
+Let’s consider another complex of four quantities that we’ll call the spacetime gradient of the scalar field ϕ. Its components are the derivatives of ϕ. We’ll use the shorthand notation ∂μϕ, defined by ∂μϕ = ∂ϕ/∂Xμ. For example, ∂0ϕ = ∂ϕ/∂t. In a slightly different notation, we can write ∂μϕ = (∂ϕ/∂t, ∂ϕ/∂x, ∂ϕ/∂y, ∂ϕ/∂z). We might expect that ∂μϕ is a 4-vector and transforms the same way as Uμ; we would be mistaken, although not by a lot.
+
+4.4.2 Mathematical Interlude: Covariant Components
+
+I want to pause here for a couple of mathematical points about transformations from one set of coordinates to another. Let’s suppose we have a space described by two sets of coordinates Xμ and (X′)μ. These could be Art’s and Lenny’s spacetime coordinates, but they needn’t be. Let’s also consider an infinitesimal interval described by dXμ or d(X′)μ. Ordinary multivariable calculus implies the following relation between the two sets of differentials: d(X′)μ = (∂(X′)μ/∂Xν) dXν.
+
+Einstein wrote many equations of this form. After a while he noticed a pattern: Whenever he had a repeated index in a single expression—the index ν on the right side of the equation is such a repeated index—it was always summed over. In one of his papers on general relativity, after several pages, he apparently got tired of writing the summation sign and simply said that from now on, whenever an expression had a repeated index he would assume that it was summed over. That convention became known as the Einstein summation convention. It is completely ubiquitous today, to the point where no one in physics even bothers to mention it. I’m also tired of writing ∑, so from now on we will use Einstein’s clever convention, and Eq. 4.15 becomes d(X′)μ = (∂(X′)μ/∂Xν) dXν.
+
+If the equations relating X and x′ are linear, as they would be for Lorentz transformations, then the partial derivatives are constant coefficients. Let’s take the Lorentz transformations t′ = γ(t − vx), x′ = γ(x − vt), y′ = y, z′ = z as an example. Here is a list of the four constant coefficients that would result from Eq. 4.16: ∂t′/∂t = γ, ∂t′/∂x = −γv, ∂x′/∂t = −γv, ∂x′/∂x = γ, etc. If we plug these into Eq. 4.16 we get the expected result, dt′ = γ(dt − v dx), dx′ = γ(dx − v dt), etc. This, of course, is the perfectly ordinary Lorentz transformation of the components of a 4-vector.
+
+Let’s abstract from this exercise a general rule for the transformation of 4-vectors. Going back to Eq. 4.16, let’s replace 4-vector components d(X′)μ and dXν with (A′)μ and Aν. These represent the components of any 4-vector A in frames related by a coordinate transformation. The generalization of Eq. 4.16 becomes (A′)μ = (∂(X′)μ/∂Xν) Aν, where ν is a summation index. Eq. 4.19 is the general rule for transforming the components of a 4-vector. For the important special case of a Lorentz transformation, this becomes (A′)μ = Λμν Aν.
+
+My real reason for doing this was not to explain how dXμ or Aμ transforms, but to set up the calculation for transforming ∂μϕ. These objects—there are four of them—also form the components of a 4-vector, although of a slightly different kind than the dXμ. They obviously refer to the coordinate system X but can be transformed to the X′ frame.
+
+The basic transformation rule derives from calculus, and it’s a multivariable generalization of the chain rule for derivatives. Let me remind you of the ordinary chain rule. Let ϕ(x) be a function of the coordinate X, and let the primed coordinates X′ also be a function of X. The derivative of ϕ with respect to X′ is given by the chain rule, dϕ/dX′ = (dϕ/dX)(dX/dX′). The multivariable generalization involves a field ϕ that depends on several independent coordinates Xμ and a second set of coordinates (X′)ν. The generalized chain rule reads ∂ϕ/∂(X′)ν = (∂Xμ/∂(X′)ν) (∂ϕ/∂Xμ), or using the summation convention, and the shorthand notation in Eq. 4.14, ∂′νϕ = (∂Xμ/∂(X′)ν) ∂μϕ. Let’s be more general and replace ∂μϕ with Aμ so that Eq. 4.21 becomes A′ν = (∂Xμ/∂(X′)ν) Aμ.
+
+Take a moment to compare Eqs. 4.19 and 4.22. I’ll write them again to make it easy to compare—first Eq. 4.19 and then Eq. 4.22: (A′)μ = (∂(X′)μ/∂Xν) Aν, and A′ν = (∂Xμ/∂(X′)ν) Aμ. There are two differences. The first is that in Eq. 4.19 the Greek indices on A appear as superscripts while in Eq. 4.22 they appear as subscripts. That hardly seems important, but it is. The second difference is the coefficients: In Eq. 4.19 they are derivatives of X′ with respect to X, while in Eq. 4.22 they are derivatives of X with respect to X′.
+
+Evidently there are two different kinds of 4-vectors, which transform in different ways: the kind that have superscripts and the kind with subscripts. They are called contravariant components (superscripts) and covariant components (subscripts), but since I always forget which is which, I just call them upper and lower 4-vectors. Thus the 4-vector dXμ is a contravariant or upper 4-vector, while the spacetime gradient ∂μϕ is a covariant or lower 4-vector.
+
+Let’s go back to Lorentz transformations. In Eq. 4.18, I wrote down the coefficients for the transformation of upper 4-vectors. Here they are again: Λ00 = γ, Λ01 = −γv, Λ10 = −γv, Λ11 = γ, Λ22 = 1, Λ33 = 1, all others zero. We can make a similar list for the coefficients in Eq. 4.22 for lower 4-vectors. In fact, we don’t have much work to do. We can get them by interchanging the primed and unprimed coordinates, which for Lorentz transformations just means interchanging the rest and moving frames. This is especially easy since it only requires us to change the sign of the velocity (remember, if Lenny moves with velocity v in Art’s frame, then Art moves with velocity −v in Lenny’s frame). All we have to do is to interchange primed and unprimed coordinates and at the same time reverse the sign of v.
+
+Here then are the transformation rules for the components of covariant (lower) 4-vectors: Λ00 = γ, Λ01 = γv, Λ10 = γv, Λ11 = γ, Λ22 = 1, Λ33 = 1, all others zero. We’ve already seen examples such as Xμ, displacement from the origin. The differential displacement between neighboring points, dXμ, is also a 4-vector. If you multiply 4-vectors by scalars (that is, by invariants), the result is also a 4-vector. That’s because invariants are completely passive when you transform. We’ve already seen that the proper time dτ is invariant, and t Therefore the quantity dXμ/dτ, which we call 4-velocity, is also a 4-vector:
+
+When we say “Uμ is a 4-vector,” what do we actually mean? We mean that its behavior in other reference frames is governed by the Lorentz transformation.
+
+Let’s recall the Lorentz transformation for the coordinates of two reference frames whose relative velocity is v along the x axis:
+
+If a complex of four quantities (consisting of a time component and three space components) transforms in this way, we call it a 4-vector. As you know, differential displacements also have this property:
+
+Table 4.1 summarizes the transformation properties of scalars and 4-vectors. We use the slightly abstract notation Aμ to represent an arbitrary 4-vector. A0 is the time component, and each of the other components represents a direction in space.
+
+An example of a field with these properties would be a fluid that fills all of spacetime. At every point in the fluid there would be a 4-velocity as well as an ordinary 3-velocity. We could call this 4-velocity Uμ (t, x). If the fluid flows, the velocity might be different in different places. The 4-velocity of such a fluid can be thought of as a field. Because it’s a 4-velocity, it’s automatically a 4-vector and would transform in exactly the same way as our prototype 4-vector Aμ. The values of U’s components in your frame would be different from their values in my frame; they would be related by the equations in Table 4.1. There are lots of other examples of 4-vectors, and we won’t try to list them here.
+
+Table 4.1: Field Transformations. Greek index μ takes values 0, 1, 2, 3, which correspond to t, x, y, z in ordinary (3 + 1)-dimensional spacetime. In nonrelativistic physics, ordinary Euclidean distance is also considered a scalar.
+
+If you take the four components of a 4-vector, you can make a scalar out of them. We already did this when we constructed the scalar (dτ)2 from the 4-vector dXμ:
+
+(dτ)2 = (dt)2 − (dx)2 − (dy)2 − (dz)2.
+
+We can follow the same procedure with any 4-vector. If Aμ is a 4-vector, then the quantity
+
+(A0)2 − (Ax)2 − (Ay)2 − (Az)2
+
+is a scalar for exactly the same reasons. Once you know that the Aμ components transform the same way as t and x, you can see that the difference of the squares of the time component and the space component will not change under a Lorentz transformation. You can show this using the same algebra we used with (dτ)2.
+
+We’ve seen how to construct a scalar from a 4-vector. Now we’ll do the opposite, that is, construct a 4-vector from a scalar. We do this by differentiating the scalar with respect to each of the four components of space and time. Together, those four derivatives form a 4-vector. If we have a scalar ϕ, the quantities
+
+are the components of a (covariant, or lower) 4-vector.
+
+4.4.3 Building a Relativistic Lagrangian
+
+We now have a set of tools for creating Lagrangians. We know how things transform, and we know how to construct scalars from vectors and other objects. How do we construct a Lagrangian? It’s simple. The Lagrangian itself —the thing that we add up over all these little cells to form an action integral —must be the same in every coordinate frame. In other words, it must be a scalar! That’s all there is to it. You take a field ϕ and consider all the possible scalars you can make from it. These scalars are candidate building blocks for our Lagrangian.
+
+Let’s look at some examples. Of course, ϕ itself is a scalar in this example, but so is any function of ϕ. If everyone agrees on the value of ϕ, they will also agree on the values of ϕ2, 4ϕ3, sinh(ϕ), and so on. Any function of ϕ, for example a potential energy V(ϕ), is a scalar and therefore is a candidate for inclusion in a Lagrangian. In fact, we’ve already seen plenty of Lagrangians that incorporate V(ϕ).
+
+What other ingredients could we use? Certainly we want to include derivatives of the field. Without them, our field theory would be trivial and uninteresting. We just need to be sure to put the derivatives together in a way that produces a scalar. But that’s easy! First, we use the derivatives to build the 4-vector,
+
+Next, we use the components of our 4-vector to construct a scalar. The resulting scalar is
+
+Here is a nontrivial expression we can put into a Lagrangian. What else could we use? Certainly, we can multiply by a numerical constant. For that matter, we can multiply by any function of any scalar. Multiplying two things that are invariant produces a third invariant. For example, the expression
+
+would be a legal Lagrangian. It’s somewhat complicated, and we won’t develop it here, but it qualifies as a Lorentz invariant Lagrangian. We could do something even uglier, like taking the expression inside the square brackets and raising it to some power. Then we’d have higher powers of derivatives. That would be ugly, but it would still The field itself needs to appear somewhere in the Lagrangian. We need to insert it in a way that is Lorentz invariant. In other words, we have to construct a scalar from the field. As we saw before, there are many ways to accomplish this, but one simple action we could try is or This corresponds to a Lagrangian, This is one of the simplest things you can do, but there are lots of other possibilities. For example, in the preceding Lagrangian, you could replace ϕ(t, x) with its square, or with any other function of ϕ(t, x). For now, we’ll just use this simple Lagrangian, and its corresponding action integral, Eq. 4.28.
+
+Eq. 4.29 is one possible Lagrangian for a particle moving in a preestablished field. Now we can ask: How does the particle move in this field? This is similar to asking how a particle moves in an electric or magnetic field. You write down a Lagrangian for the particle in the electric or magnetic field; you don’t worry about how the field got there. Instead, you just write down the Lagrangian and then write out the Euler-Lagrange equations. We’ll work out some of the details for this example. But before we do, I want to point out an interesting feature of Eq. 4.29.
+
+4.5.1 The Mystery Field Suppose, for some reason, the field ϕ(t, x) tends to migrate to some specific constant value other than zero. It just happens to “like” getting stuck at that particular value. In that case, ϕ(t, x) would be constant or approximately constant, despite its formal dependence on t and x. The motion of the particle would then look exactly the same as the motion of a particle whose mass is m + ϕ. Let me say this again: The particle with mass m would behave as though its mass is m + ϕ. This is the simplest example of a scalar field that gives rise to a shift in the mass of a particle.
+
+At the beginning of the lecture, I mentioned that there’s a field in nature that closely resembles the one we’re looking at today, and I invited you to try guessing which one it is. Have you figured it out? The field we’re looking at bears a close resemblance to the Higgs field. In our example, a shift in the value of a scalar field shifts the masses of particles. Our example is not exactly the Higgs mechanism, but it’s closely related. If a particle starts out with a mass of zero and is coupled to the Higgs field, this coupling can effectively shift the particle’s mass to a nonzero value. This shifting of mass values is roughly what people mean when they say that the Higgs field gives a particle its mass. The Higgs field enters into the equations as if it were part of the mass.
+
+4.5.2 Some Nuts and Bolts We’ll wrap up this lecture with a quick peek at the Euler-Lagrange equations for our scalar field example. We’re not going to follow them all the way through because they become ugly after the first few steps. We’ll just give you a taste of this process for now. For simplicity, we’ll work as if there’s only one direction of space, with the particle moving only in the x direction. I’ll copy our Lagrangian, Eq. 4.29, here for easy reference, replacing the variable v with : The first step in applying Lagrange’s equations is to calculate the partial derivative of with respect to . Remember that when we take a partial derivative with respect to some variable, we temporarily regard all the other variables as constants. In this case, we regard the expression in square brackets as a constant because it has no explicit dependence on . On the other hand, the expression does depend explicitly on . Taking the partial derivative of this expression results in This equation should look familiar. We obtained a nearly identical result in Lecture 3 when we did a similar calculation to find the momentum of a relativistic particle. The only thing that’s different here is the extra term ϕ(t, x) inside the square brackets. This supports the notion that the expression [m + ϕ(t, x)] behaves like a position-dependent mass.
+
+Continuing with the Euler-Lagrange equations, the next step is to differentiate Eq. 4.30 with respect to time. We’ll just indicate this operation symbolically by writing That’s the left side of the Euler-Lagrange equation. Let’s look at the right side, which is Since we’re differentiating with respect to x, we ask whether depends explicitly on x. It does, because ϕ(t, x) depends on x, and ϕ happens to be the only place where x appears. The resulting partial derivative is and therefore the Euler-Lagrange equation becomes That’s the equation of motion. It’s a differential equation that describes the motion of the field. If you try to work out the time derivative on the left side, you’ll see that it’s quite complicated. We’ll stop at this point, but you may want to think about how to incorporate the velocity of light c into this equation, and how the field behaves in the nonrelativistic limit of low velocities. We’ll have some things to say about that in the next lecture.
+
+Particles and Fields The day after election day. Art is morosely staring into his beer. Lenny is staring into his glass of milk. No one—not even Wolfgang Pauli—can think of anything funny to say. But then mighty John Wheeler rises to his feet and raises his hand at the bar where all can see him. Sudden silence and John speaks: “Ladies and gentlemen, in this time of terrible uncertainty, I want to remind you of one sure thing: SPACETIME TELLS MATTER HOW TO MOVE; MATTER TELLS SPACETIME HOW TO CURVE”.
+
+“Bravo!” A cheer is heard in Hermann’s Hideaway and things brighten. Pauli raises his glass: “To Wheeler! I think he’s hit the nail on the head. Let me try to say it even more generally: FIELDS TELL CHARGES HOW TO MOVE; CHARGES TELL FIELDS HOW TO VARY.” In quantum mechanics, fields and particles are the same thing. But our main topic is classical field theory, where fields are fields, and particles are particles. I won’t say “never the twain will meet” because they will meet; in fact, they’ll meet very soon. But they’re not the same thing. The central question of this lecture is this: If a field affects a particle, for example by creating forces on it, must the particle affect the field?
+
+If A affects B, why must B necessarily affect A? We’ll see that the two-way nature of interactions, often called “action and reaction,” is built into the Lagrangian action principle. As a simple example, suppose we have two coordinates, x and y, along with an action principle. Generally, the Lagrangian will depend on x and y, and also on and . One possibility is that the Lagrangian is simply a sum of two terms: a Lagrangian for x and , plus a separate Lagrangian for y and where I’ve labeled the Lagrangians on the right side with subscripts to show that they may be different. Let’s look at the Euler-Lagrange equation (which is the equation of motion) for x, Because has no dependency on x or on , the terms drop out, and the Euler-Lagrange equation for the x coordinate becomes The y variable and its time derivative do not appear at all. Likewise, the equation of motion for the y variable will not include any reference to x or . As a result, x does not affect y, and y does not affect x. Let’s look at another example, where the V and V terms are potential energy functions. Once again, the x and x y y coordinates of this Lagrangian are completely separated. The Lagrangian is a sum of terms that only involve x or only involve y, and by a similar argument the x and y coordinates will not affect each other.
+
+But suppose we know that y does affect x. What would that tell us about the Lagrangian? It tells us that the Lagrangian must be more complicated; that there must be things in it that somehow affect both x and y. To write such a Lagrangian, we need to put in some additional ingredient that involves both x and y in a way that you can’t unravel. For example, we could just add an xy term: This guarantees that the equation of motion for x will involve y, and vice versa. If x and y appear in the Lagrangian coupled together in this manner, there’s no way for one to affect the other without the other affecting the one. It’s as simple as that. That’s the reason A must affect B if B affects A.
+
+In the previous lecture we looked at a simple field and asked how it affects a particle. After a brief review of that example, we’ll ask the opposite question: How does the particle affect the field? This is very much an analog of electromagnetic interactions, where electric and magnetic fields affect the motion of charged particles, and charged particles create and modify the electromagnetic field. The mere presence of a charged particle creates a Coulomb field. These two-way interactions are not two independent things; they come from the same Lagrangian.
+
+## 5.1 Field Affects Particle (Review)
+
+Let’s start out with a given field, ϕ(t, x), that depends on t and x. For now, assume that ϕ is some known function. It may or may not be a wave. We’re not going to ask about the dynamics of ϕ just yet; first we’ll look at the Lagrangian for the particle. Recall from previous lectures (Eq. 3.24, for example) that this Lagrangian is I’ve labeled it for clarity. Apart from the factor −m, the action amounts to a sum of all the proper times along each little segment of a path. In the limit, as the segments become smaller and smaller, the sum becomes an integral over the coordinate time t. This is the same as −m times the integral of the proper time dτ from one end of the trajectory to the other. This Lagrangian doesn’t contain anything that causes the field to affect the particle. Let’s modify it in a simple way, by adding the field value ϕ(t, x) to m.
+
+We can now work out the Euler-Lagrange equations and find out how ϕ(t, x) affects the motion of the particle. Rather than work out the full relativistic equations of motion, we’ll look at the nonrelativistic limit where the particle moves very slowly. That’s the limit in which the speed of light goes to infinity —when c is far bigger than any other velocity in the problem. It’s helpful to restore the constant c in our equations to see how this works. The modified action integral is We can check this for dimensional consistency. The Lagrangian has units of energy, and so does −mc2. I’ve multiplied ϕ(t, x) by a constant g, which is called a coupling constant. It measures the strength by which the field affects the motion of the particle, and we can select its units to guarantee that g times ϕ(t, x) has units of energy. So far, g can be anything; we don’t know its value. Both terms inside the square root are pure numbers.
+
+Now let’s expand the square root using the approximation formula where is a small number. Re-writing the square root with an exponent of , and equating with , we can see that The higher-order terms are far smaller because they involve higher powers of the ratio We can now use this approximate expression to replace the square root in the action integral, resulting in Let’s look at this integral and find the biggest terms—the terms that are most important when the speed of light gets large. The first term, mc2, is just a number. When you take derivatives of the Lagrangian it just “comes along for the ride” and has no meaningful impact on the equations of motion. We’ll ignore it. In the next term, the speed of light cancels itself out altogether. Therefore this term is part of the limit in which the speed of light goes to infinity, and it survives that limit. This term is quite familiar; it’s our old friend, the nonrelativistic kinetic energy. The term becomes zero in the limit of large c because of the c2 in its denominator; we ignore it. Finally, the term gϕ(t, x) contains no speeds of light. Therefore it survives, and we keep it in the Lagrangian, which now becomes That’s all there is when the particle moves slowly. We can now compare it with the old fashioned nonrelativistic Lagrangian, kinetic energy minus potential energy, T − V.
+
+We’ve already recognized the first term of Eq. 5.3 as kinetic energy, and now we can identify gϕ(t, x) as the potential energy of a particle in this field. The constant g indicates the strength of coupling between the particle and the field. In electromagnetism, for example, the strength of coupling of the field to a particle is just the electric charge. The bigger the electric charge, the bigger the force on a particle in a given field. We’ll come back to this idea.
+
+## 5.2 Particle Affects Field
+
+How does the particle affect the field? The important thing to understand is that there’s only one action, the “total” action. The total action includes action for the field and action for the particle. I can’t emphasize this enough: What we’re studying is a combined system that consists of a) a field and b) a particle moving through the field.
+
+Fig. 5.1 illustrates the physics problem we’re trying to solve. It shows a region of spacetime, represented as a cube.2 Time points upward and the x axis points to the right. Inside this region, there’s a particle that travels from one spacetime point to another. The two dots are the end points of its trajectory. We also have a field ϕ(t, x) inside the region. I wish I could think of a clever way to draw this field without cluttering the diagram, because it’s every bit as physical as the particle; it’s part of the system.3 Figure 5.1: Particle moving through a region of spacetime filled with “red mush”—the scalar field ϕ(t, x).
+
+To find out how this field-particle system behaves, we need to know the Lagrangian and minimize the action. In principle, this is simple; we just vary the parameters of the problem until we find a set of parameters that results in the smallest possible action. We wiggle the field around in different ways, and we wiggle the particle trajectory between its two end points until the action integral is as small as we can make it. That gives us the trajectory and the field that satisfy the principle of least action.
+
+Let’s write down the whole action, the action that includes both the field and the particle. First, we need an action for the field, where the symbol means “Lagrangian for the field.” This action integral is taken over the entire spacetime region, t, x, y, and z. The symbol d4x is shorthand for dtdxdydz. For this example, we’ll base our field Lagrangian on Eq. 4.7, a Lagrangian that we used in Lecture 4. We’ll use a simplified version that only references the x direction in space and has no potential function V(ϕ).4 The Lagrangian leads to the action integral This is the action for the field.5 It doesn’t involve the particle at all. Now let’s incorporate the action for the particle, Eq. 5.2 with the speeds of light removed. This is just or Although Action is the particle action, it also depends on the field. This particle is important; when we wiggle the field, this action varies. In fact, it is wrong to think of Action purely as a particle action: The term particle Figure 5.2: Particle at Rest in Imaginary Red Mush (black ink on paper).
+
+is an interaction term that tells the particle how to move in the field, but it also tells the field how to vary in the presence of the particle. From now on I will call this term and cease thinking of it as having to do only with the particle.
+
+We’ll consider the simple special case where the particle is at rest at x = 0. It’s reasonable to assume that there’s some solution where the particle is at rest —classical particles do rest sometimes. Fig. 5.2 shows the spacetime trajectory of a resting particle. It’s just a vertical line.
+
+How do we modify Eq. 5.5 to show that the particle is at rest? We just set , the velocity, equal to zero. The simplified action integral is Because the particle sits at the fixed position x = 0, we can replace ϕ(t, x) with ϕ(t, 0) and write Let’s take a closer look at . Notice that it only depends on the value of the field at the origin. More generally it depends on the value of the field at the location of the particle. Nevertheless when the field is wiggled, ϕ(t, 0) will wiggle, affecting the action. As we will see, this affects the equation of motion for the field.
+
+The action for a field is normally written as an integral over space and time, but Eq. 5.6 is an integral that only runs over time. There is nothing wrong with it, but it’s convenient to rewrite it as an integral over space and time. We’ll use a trick that involves the idea of a source function. Let ρ(x) be a fixed definite function of space, but for the moment not time. (I’ll give you a hint: ρ(x) is something like a charge density.) Let’s forget the particle but replace it with a term in the Lagrangian that I’ll continue to call , The corresponding term in the action for the field is This looks quite different from the action in Eq. 5.2. To make them the same, we use the trick that Dirac invented—the Dirac delta function δ(x). The delta function is a function of the space coordinates that has a peculiar property. It is zero everywhere but at x = 0. Nevertheless it has a nonzero integral, Let’s imagine graphing the delta function. It is zero everywhere except in the immediate vicinity of x = 0. But it is so large in that vicinity that it has a total area equal to 1. It is a very high and narrow function, so narrow that we may think of it as concentrated at the origin, but so high that it has a finite area. No real function behaves that way, but the Dirac function is not an ordinary function. It is really a mathematical rule. Whenever it appears in an integral multiplying another function F(x), it picks out the value of F at the origin. Here is its mathematical definition: where F(x) is an “arbitrary” function.6 If you have some function F(x) and integrate it as shown, the delta function picks out the value of F(x) at x = 0. It filters out all other values. It’s the analog of the Kronecker delta, but operates on continuous functions. You can visualize δ(x) as a function whose value is zero everywhere, except when x gets very close to zero. When x is close to zero, δ(x) has a very tall spike. For our current problem we need a three-dimensional delta function that we call δ3(x, y, z). We define δ3(x, y, z) as the product of three one-dimensional delta functions, δ3(x, y, z) = δ(x)δ(y)δ(z).
+
+As we do elsewhere, we often use the shorthand δ3(x), where x represents all three directions of space. Where is δ3(x, y, z) nonzero? It’s nonzero where all three factors on the right side are nonzero, and that only happens in one place: the point x = 0, y = 0, z = 0. At that point of space it’s enormous.
+
+The trick in writing the interaction term as an integral should now be fairly obvious. We simply replace the particle with a source function ρ that we choose to be a delta function, The action in Eq. 5.8 then takes the form The point is that if we integrate this over the space coordinates, the delta function rule tells us to simply evaluate gϕ(x) at the origin, and we get something we’ve seen before: Now let’s combine the field action with the interaction term. We do that in the simplest possible way, by just adding the two of them together. Combining the action terms of Eqs. 5.4 and 5.12 results in or replacing the source function with the delta function, Here it is, the total action as an integral over space and time. The expression i Inside the big square brackets is the Lagrangian. Like any good field Lagrangian, it has the field action (represented here by partial derivatives) along with a delta function term that represents the effect of the particle on the field. This particular delta function represents the special situation where the particle is at rest. But we could also jazz it up so that the particle moves. We could do that by making the delta function move around with time. But that’s not important right now. Instead, let’s work out the equations of motion, based on the Lagrangian.
+
+**5.2.1 Equations of Motion**
+
+For convenience, I’ll rewrite Eq. 4.5, the Euler-Lagrange equation, right here. Eq. 5.15 tells us what to do with ∂L/∂(∂μϕ) in order to find the equations of motion. The index μ runs through the values 0, 1, 2, and 3. The first value it takes is 0, which is the time component. Therefore our first step is to find the derivative ∂/∂t (∂L/∂(∂0ϕ)).
+
+Let’s unwind this calculation step by step. First, what is the partial of L with respect to (∂0ϕ)? There’s only one term in L that involves (∂0ϕ). Straightforward differentiation shows that the result is (∂0ϕ).
+
+Applying d/dt to each side results in d/dt (∂0ϕ).
+
+That’s the first term in the equation of motion. It looks a lot like an acceleration. We started with a kinetic energy term that amounts to (∂0ϕ)². When we worked out the derivative, we got something that looks like an acceleration of ϕ.
+
+Next, we let μ take the value 1 and calculate the first space component. The form of these terms is exactly the same as the form of the time component except for the minus sign. So the first two terms of the equation of motion are −d/dt (∂0ϕ) + ∂/∂x (∂1ϕ).
+
+Because the y and z components have the same form as the x component, we can add them in as well, −d/dt (∂0ϕ) + ∂/∂x (∂1ϕ) + ∂/∂y (∂2ϕ) + ∂/∂z (∂3ϕ).
+
+If those were the only terms, I would set this expression equal to zero, and we would have a good old-fashioned wave equation for ϕ. However, the Lagrangian depends on ϕ in another way because of the interaction term. The complete equation of motion is −d/dt (∂0ϕ) + ∂/∂x (∂1ϕ) + ∂/∂y (∂2ϕ) + ∂/∂z (∂3ϕ) − gδ(x)δ(y)δ(z) = 0, and we can see that the last term is −gδ³(r⃗).
+
+Adding this final piece to the equation of motion gives us ∂μ(∂μϕ) = gδ³(r⃗).
+
+Thus we see that the source function appears in the field equation for ϕ as an addition to the wave equation. Without the source term, ϕ = 0 is a perfectly good solution, but that’s not true when the source term is present. The source is literally that: a source of field that prevents the trivial ϕ = 0 from being a solution.
+
+In the actual case where the source is a particle at rest, ρ(x) can be replaced by the delta function, ρ(x) = δ³(r⃗).
+
+Let’s suppose for a moment that we’re looking for static solutions to Eq. 5.16. After all, the particle is standing still, and there may be a solution where the field itself doesn’t change with time. It seems plausible that a standing-still particle can create a field that also stands still—a field that does not vary with time. We might then look for a solution in which ϕ is time-independent. That means the term ∂0(∂0ϕ) in Eq. 5.16 would become zero. We can then change the signs of the remaining terms to plus and write ∇²ϕ = −gδ³(r⃗).
+
+Perhaps you recognize this as Poisson’s equation. It describes, among other things, the electrostatic potential of a point particle. It’s often written by setting ∇²ϕ equal to a source (a charge density) on the right side.⁷ In our example, the charge density is just a delta function. In other words, it’s a high, sharp spike.
+
+Of course, our current example is not an electric or magnetic field. Electrodynamics involves vector fields, and we’re looking at a scalar field. But the similarities are striking.
+
+The third term of the Lagrangian (Eq. 5.14) ties everything together. It tells the particle to move as if there were a potential energy −gϕ(t, x). In other words, it exerts a force on the particle. This same term, when used for the equation of motion of the ϕ field, tells us that the ϕ field has a source. These are not independent things. The fact that the field affects the particle tells us that the particle affects the field. For a particle at rest in a static field, Eq. 5.18 tells us exactly how. The parameter g determines how strongly the particle affects the field. The same parameter also tells us how strongly the field affects the particle. It makes a nice little story: Fields and particles affect each other through a common term in the Lagrangian.
+
+**5.2.2 Time Dependence**
+
+What happens if we allow the particle to move and the field to change with time? We’ll confine ourselves to a single dimension of space. Eq. 5.18 becomes ∇²ϕ = gδ(x).
+
+In one dimension, the left side of this equation is just the second derivative of ϕ. Suppose I wanted to put the particle someplace else. Instead of putting it at the origin, suppose I want to put it at x = a? All I need to do is change x in the preceding equation to x − a, and the equation would become ∇²ϕ = gδ(x − a).
+
+The delta function δ(x − a) has its spike where x is equal to a. Suppose further that the particle is moving, and its position is a function of time, a(t). We can write this as ∇²ϕ = gδ(x − a(t)).
+
+This would tell you that the field has a source, and that the source is moving. At any given time the source is at position a(t). In this way we can accommodate a moving particle. But we still have one little wrinkle to deal with. If the particle is moving, we would not expect the field to be time independent. If the particle moves around, then the field must also depend on time. Remember the term that we zeroed out in the equation of motion (Eq. 5.16)? For a time-dependent field, we have to restore that term, resulting in −∂0(∂0ϕ) + ∇²ϕ = gδ(x − a(t)).
+
+If the right side depends on time, there’s no way to find a solution where ϕ itself is time-independent. The only way to make it consistent is to restore the term that involves time.
+
+A moving particle, for example a particle that accelerates or vibrates, will give the field a time dependence. You probably know what it will do: It will radiate waves. But at the moment, we’re not going to solve wave equations. Instead, we’ll spend a little time talking about the notation of relativity.
+
+**5.3 Upstairs and Downstairs Indices**
+
+Notation is far more important than most people realize. It becomes part of our language and shapes the way we think—for better or for worse. If you’re skeptical about this, just try switching to Roman numerals the next time you do your taxes.
+
+The mathematical notation we introduce here makes our equations look simple and pretty. It saves us from having to write things like −(∂0ϕ)² + (∂1ϕ)² + (∂2ϕ)² + (∂3ϕ)² every single time we write an equation.⁸ In the previous lecture, we spent some time on standard notation for relativistic vectors, 4-vectors, and scalars. We’ll revisit that material briefly, then explain the new condensed notation.
+
+The symbol Xμ stands for the four coordinates of spacetime, which we can write as Xμ = (t, x, y, z), where the index μ runs over the four values 0 through 3. I’m going to start paying attention to where I put this index. Here, I’ve put the index up on top. That carries no meaning for now, but soon it will.
+
+The quantity Xμ, if thought of as a displacement from the origin, is a 4-vector. Calling it a 4-vector is a statement about the way it behaves under Lorentz transformation; any complex of four quantities that transforms the same way as t and x is a 4-vector.
+
+The three space components of a 4-vector may equal zero in your reference frame. You, in your frame, would say that this displacement is purely timelike. But this is not an invariant statement. In my frame, the space components would not all equal zero, and I would say that the object does move in space. However, if all four components of a displacement 4-vector are zero in your frame, they will also be zero in my frame and in every other frame. A statement that all four components of a 4-vector are zero is an invariant statement.
+
+Differences of 4-vectors are also 4-vectors. So are differential displacements such as dXμ.
+
+Starting with a 4-vector, we can make a scalar, a quantity that remains the same in every frame. For example, we can construct a proper time dτ² from a displacement. You have already seen how. The quantity (dτ)² = dt² − dx² − dy² − dz² and its counterpart (ds)² = −dt² + dx² + dy² + dz² are the same in every reference frame. They’re scalars and have only one component. If a scalar is equal to zero in one frame of reference, it’s zero in every frame. Indeed, this is the definition of a scalar; it’s a thing that’s the same in every frame.
+
+The pattern we followed for combining the components of dXμ to form the spacetime interval ds² (and the proper time dτ) is very general. We can apply it to any 4-vector Aμ, and the result will always be a scalar. We’ll use this pattern over and over again, and we don’t want to write the long expression −(At)² + (Ax)² + (Ay)² + (Az)² every time we need it. Instead, we’ll create some new notation to make things easier. A matrix called the metric figures heavily in this new notation. In special relativity, the metric is often called η (Greek letter eta), with indices μ and ν. It’s a simple matrix. In fact, it’s almost the same as the identity matrix. It has three diagonal elements that are equal to 1, just like the unit matrix. But the fourth diagonal element is −1. This element corresponds to time. Here’s what the entire matrix looks like:
+
+ημν = diag(−1, 1, 1, 1).
+
+In this notation, we represent a 4-vector as a column. For example, the 4-vector Aν is written as: [A0; A1; A2; A3].
+
+Let’s take the matrix η and multiply it by the vector Aν, where ν runs from 0 to 3. Using the summation sign, we can write that as Aμ = ημν Aν.
+
+This is a new kind of object, which we’ll call Aμ, with a lower index.
+
+Let’s figure out what this new object “A-with-a-lower-index” is. It’s not the original 4-vector Aν. If η really were the identity matrix, multiplying a vector by it would give you the exact same vector. But it’s not the identity matrix. The −1 in the diagonal means that when you form the product ∑ ημν Aν, the sign of the first component, At, gets flipped, and everything else stays the same. We can write immediately that Aμ is: [−At; Ax; Ay; Az].
+
+In other words, when I perform this operation, the time component of the new vector Aμ is −At, while the space components are unchanged. This operation of lowering an index is crucial. It’s how we form scalars. For example, the squared spacetime interval (dτ)² is the scalar dXμ dXμ. It’s the result of multiplying a vector with an upper index by a vector with a lower index. The product dXμ dXμ uses the Einstein summation convention: a repeated index (here μ) that appears once as an upper index and once as a lower index is summed over its values (0 to 3). This automatically combines the components with the correct signs from the metric.
+
+Operation, I simply change the sign of the time component. In general relativity, the metric has a deeper geometric meaning. But for our purposes, it’s just a convenient notation.9
+
+## 5.4 Einstein Sum Convention
+
+If necessity is the mother of invention, laziness is the father. The Einstein summation convention is an offspring of this happy marriage. We introduced it in Section 4.4.2, and now we explore its use a little further.
+
+Whenever you see the same index both downstairs and upstairs in a single term, you automatically sum over that index. Summation is implied, and you don’t need a summation symbol. For example, the term AμAμ means A0A0 + A1A1 + A2A2 + A3A3, because the same index μ appears both upstairs and downstairs in the same term. On the other hand, the term AμAν does not imply summation, because the upstairs and downstairs indices are not the same. Likewise, AμAμ does not imply summation even though the index ν is repeated, because both indices are downstairs.
+
+You may recall that some of the equations in Section 3.4.3 used the symbol to signify the sum of squares of space components. By using upstairs and downstairs indices along with the summation convention, we could have written AμAμ, which is more elegant and precise.
+
+The operation of Expression 5.19 has the effect of changing the sign of the time component. I should warn you that some authors follow the convention (+1, −1, −1, −1) for the placement of these minus signs. I prefer the convention (−1, 1, 1, 1), typically used by those who study general relativity.
+
+An index that triggers the summation convention, like ν in the following example, doesn’t have a specific value. It’s called a summation index or a dummy index; it’s a thing you sum over. By contrast, an index that is not summed over is called a free index. The expression AμBν depends on μ (which is a free index), but it doesn’t depend on the summation index ν. If we replace ν with any other Greek letter, the expression would have exactly the same meaning. I should also mention that the terms upstairs index and downstairs index have formal names. An upper index is called contravariant, and a lower index is called covariant. I often use the simpler words upper and lower, but you should learn the formal terms as well. We can have A with an upper (contravariant) index, or A with a lower (covariant) index, and we use the matrix η to convert one to the other. Converting one kind of index to the other kind is called raising the index or lowering the index, depending on which way we go.
+
+Exercise 5.1: Show that AνAν has the same meaning as AμAμ.
+
+Exercise 5.2: Write an expression that undoes the effect of Eq. 5.20. In other words, how do we “go backwards”?
+
+Let’s have another look at the Expression 5.19, AμAμ. This expression is summed over because it contains a repeated index, one upper and one lower. Previously, we expanded it using the indices 0 through 3. We can write the same expression using the labels t, x, y, and z: AμAμ = AtAt + AxAx + AyAy + AzAz.
+
+For the three space components, the covariant and contravariant versions are exactly the same. The first space component is just (Ax)2, and it doesn’t matter whether you put the index upstairs or downstairs. The same is true for the y and z components. But the time component becomes −(At)2, AμAμ = −(At)2 + (Ax)2 + (Ay)2 + (Az)2.
+
+The time component has a minus sign because the operation of lowering or raising that index changes its sign. The contravariant and covariant time components have opposite signs, and At times At is −(At)2. On the other hand, the contravariant and covariant space components have the same signs.
+
+The quantity AμAμ is exactly what we think of as a scalar. It’s the difference of the square of the time component and the square of the space component. If Aμ happens to be a displacement such as Xμ, then it’s the same as the quantity τ2, except with an overall minus sign; in other words, it’s −τ2. But whatever sign it has, this sum is clearly a scalar.
+
+This process is called contracting the indices, and it’s very general. As long as Aμ is a 4-vector, the quantity AμAμ is a scalar. We can take any 4-vector at all and make a scalar by contracting its indices. We can also write AμAμ a little differently by referring to Eq. 5.20 and replacing Aμ with ημνAν. In other words, we can write AμAμ = ημνAμAν. On the right side, we use the metric ημν and sum over μ and ν. Both sides of Eq. 5.21 represent the same scalar.
+
+Now let’s look at an example involving two different 4-vectors, A and B. Consider the expression AμBμ. Is this a scalar? It certainly looks like one. It has no indices because all the indices have been summed over.
+
+To prove that it’s a scalar, we’ll need to rely on the fact that the sums and differences of scalars are also scalars. If we have two scalar quantities, then by definition you and I will agree about their values even though our reference frames are different. But if we agree about their values, we must also agree about the value of their sum and the value of their difference. Therefore, the sum of two scalars is a scalar, and the difference of two scalars is also a scalar. If we keep this in mind, the proof is easy. Just start with two 4-vectors Aμ and Bμ and write the expression (Aμ + Bμ)(Aμ + Bμ). This expression must be a scalar. Why is that? Because both Aμ and Bμ are 4-vectors, their sum (Aμ + Bμ) is also a 4-vector. If you contract any 4-vector with itself, the result is a scalar. Now, let’s modify this expression by subtracting (Aμ − Bμ)(Aμ − Bμ). This becomes (Aμ + Bμ)(Aμ + Bμ) − (Aμ − Bμ)(Aμ − Bμ).
+
+This modified expression is still a scalar because it’s the difference of two scalars. If we expand the expression, we find that the AμAμ terms cancel, and so do the BμBμ terms. The only remaining terms are AμBμ and AμBμ, and the result is 2AμBμ. I’ll leave it as an exercise to prove that AμBμ = AμBμ. It doesn’t matter if you put the ups down and the downs up; the result is the same. Therefore, the expression evaluates to 2AμBμ. Because we know that the original Expression 5.22 is a scalar, the result AμBμ must also be a scalar.
+
+You may have noticed that the expression AμBμ looks a lot like the ordinary dot product of two space vectors. You can think of AμBμ as the Lorentz or Minkowski version of the dot product. The only real difference is the change of sign for the time component, facilitated by the metric η.
+
+## 5.5 Scalar Field Conventions
+
+Next, we’ll set up some conventions for a scalar field, ϕ(x). In this discussion, x represents all four components of spacetime, including time. Before we get rolling, I need to state a theorem. The proof is not hard, and I’ll leave it as an exercise.
+
+Suppose you have a known 4-vector Aμ. To say Aμ is a 4-vector is not just a statement that it has four components. It means that Aμ transforms in a particular way under Lorentz transformations. Suppose also that we have another quantity Bμ. We don’t know whether Bμ is a 4-vector. But we are told that when we form the expression AμBμ, the result is a scalar. Given these conditions, it’s possible to prove that Bμ must be a 4-vector.
+
+With this result in mind, let’s consider the change in value of ϕ(x) between two neighboring points. If ϕ(x) is a scalar, you and I will agree on its value at each of two neighboring points. Therefore, we’ll also agree on the difference of its values at these two points: If ϕ(x) is a scalar, the change in ϕ(x) between two neighboring points is also a scalar.
+
+What if the two neighboring points are infinitesimally separated? How do we express the difference in ϕ(x) between these neighboring points? The answer comes from basic calculus: Differentiate ϕ(x) with respect to each of the coordinates, and multiply that derivative by the differential of that coordinate, dϕ(x) = (∂ϕ/∂xν) dXν. Following the summation convention, the right side is the derivative of ϕ(x) with respect to t times dt, plus the derivative of ϕ(x) with respect to x times dx, and so on. It’s the small change in ϕ(x) when going from one point to another.
+
+We already know that both ϕ(x) and dϕ(x) are scalars. Clearly, dXμ itself is a 4-vector. In fact, it’s the basic prototype of a 4-vector. To summarize: We know that the left side of Eq. 5.24 is a scalar, and that dXμ on the right side is a 4-vector. What does that tell us about the partial derivative on the right side? According to our theorem, it must be a 4-vector. It stands for a complex of four quantities, ∂ϕ/∂Xμ.
+
+For Eq. 5.24 to make sense as a product, the quantity ∂ϕ/∂Xμ must correspond to a covariant vector, because the differential dXμ is contravariant. We have discovered that derivatives of a scalar ϕ(x) with respect to the coordinates are the covariant components Aν of a 4-vector. This is worth emphasizing: The derivatives of a scalar with respect to Xμ form a covariant vector. They’re sometimes written with the shorthand symbol ∂μϕ, which we now define to be ∂μϕ = ∂ϕ/∂Xμ. The symbol ∂μϕ has a lower index to indicate that its components are covariant.
+
+Is there a contravariant version of this symbol? You bet. The contravariant version has nearly the same meaning except that its time component has the opposite sign. Let’s write this out explicitly: ∂μϕ = (∂ϕ/∂t, ∂ϕ/∂x, ∂ϕ/∂y, ∂ϕ/∂z).
+
+## 5.6 A New Scalar
+
+We now have the tools we need to construct a new scalar. The new scalar is ∂μϕ∂μϕ. If we expand this using the summation convention, we get ∂μϕ∂μϕ = −(∂ϕ/∂t)2 + (∂ϕ/∂x)2 + (∂ϕ/∂y)2 + (∂ϕ/∂z)2. What does this stand for? It’s similar to a field Lagrangian that we wrote down earlier. Eq. 4.7 contains the same expression with the signs reversed.10 In our new notation, the Lagrangian is L = ∂μϕ∂μϕ. This makes it easy to see that the Lagrangian for that scalar field is itself a scalar. As we explained before, having a scalar-valued Lagrangian is critical because an invariant Lagrangian leads to equations of motion that are invariant in form. Much of field theory is about the construction of invariant Lagrangians.
+
+So far, scalars and 4-vectors have been our main ingredients. Going forward, we will need to construct scalar Lagrangians from other objects as well: things like spinors and tensors. The notation we’ve developed here will make that task much easier.
+
+## 5.7 Transforming Covariant Components
+
+The familiar Lorentz transformation equations, as presented, apply to contravariant components. The equations are slightly different for covariant components. Let’s see how this works. The familiar contravariant transformations for t and x are the covariant components are the same, except for the time component. In other words, we can replace Ax with Ax , and (A′)x with (A′)x. However, the covariant time component At is the negative of the contravariant time component. So we must replace At with −(At), and (A′)t with −(A′)t. Making these substitutions in the first equation results in which simplifies to applying them to the second equation gives us these equations are almost the same as the contravariant versions, except that the sign of v has been reversed.
+
+## 5.8 Mathematical Interlude: Using Exponentials to Solve Wave Equations
+
+Starting with a known Lagrangian, the Euler-Lagrange equations provide a template for writing the equations of motion. The equations of motion are themselves differential equations. For some purposes, knowing the form of these equations is good enough. However, sometimes we would like to solve them. Finding solutions to differential equations is a huge topic. Nevertheless, stripped down to its bare bones, the basic approach is as follows: 1. Propose (okay, guess) a function that might satisfy the differential equation.
+
+2. Plug the function into the differential equation. If it works, you’re done. Otherwise, return to Step 1.
+
+Instead of racking our brains over a solution, we’ll just provide one that happens to work. It turns out that exponential functions of the form are the main building blocks for wave equations. You may find it puzzling that we choose a complex valued function as a solution, when our problems assume that ϕ is a real valued scalar field. To make sense of this, remember that where kx − ωt is real. Eq. 5.25 highlights the fact that a complex function is the sum of a real function and i times another real function. Once we’ve worked out our solution , we regard these two real functions as two solutions and ignore the i. This is easy to see if the complex function is set to zero. In that case, its real and imaginary parts must separately equal zero, and both parts are solutions.11 In Eq. 5.25, cos(kx − ωt) is the real part, and sin(kx − ωt) is the imaginary part. If we ultimately extract real functions as our solutions, why bother with complex functions at all? The reason is that it’s easy to manipulate the derivatives of exponential functions.
+
+## 5.9 Waves
+
+Let’s look at the wave equation and solve it. We already have the Lagrangian for ϕ, however, I want to extend it slightly by adding one more term. The additional term, , is also a scalar. It’s a simple function of ϕ and does not contain any derivatives. The parameter μ2 is a constant. Our modified field Lagrangian is this Lagrangian represents the field theory analog of the harmonic oscillator. If we were discussing a harmonic oscillator and we called the coordinate of the oscillator ϕ, the kinetic energy would be the potential energy would be , where μ2 represents a spring constant. The Lagrangian would be this Lagrangian would represent the good old harmonic oscillator. It’s similar to Eq. 5.26, our field Lagrangian. The only difference is that the field Lagrangian has some space derivatives. Let’s work out the equations of motion that correspond to Eq. 5.26 and then solve them. We’ll start with the time component. The Euler-Lagrange equations tell us to calculate for Eq. 5.26. It should be easy to see that the result is this is the analog of the acceleration term for the harmonic oscillator. We get additional terms by taking derivatives of the space components of Eq. 5.26. With these additional terms, the left side of the equation of motion becomes to find the right side, we calculate . The result of that calculation is gathering our results for the left and right sides of the Euler-Lagrange equations, the equation of motion for ϕ is now let’s put everything on the left side, giving us this is a nice simple equation. Do you recognize it? It’s the Klein-Gordon equation. It preceded the Schrödinger equation and was an attempt to describe a quantum mechanical particle. The Schrödinger equation is similar.12 Klein and Gordon made the mistake of trying to be relativistic. Had they not tried to be relativistic, they would have written the Schrödinger equation and become very famous. Instead, they wrote a relativistic equation and became much less famous. The Klein-Gordon equation’s connection to quantum mechanics is not important for now. What we want to do is solve it. There are many solutions, all of them built up from plane waves. When working with oscillating systems, it’s useful to pretend that the coordinate is complex. Then, at the end of the calculation, we look at the real parts and ignore the i. We explained this idea in the preceding Mathematical Interlude. The solutions that interest us are the ones that oscillate with time and have a component of the form e−iωt. This function oscillates with frequency ω. But we’re interested in solutions that also oscillate in space, which have the form eikx. In three dimensions, we can write this as where the three numbers kx, ky, and kz are called the wave numbers.13 The product of these two functions, is a function that oscillates in space and in time. We’ll look for solutions of this form. Incidentally, there’s a slick way to express the right side of Eq. 5.28. We can write it as where does that expression come from? If you think of k as a 4-vector, with components (−ω, kx, ky, kz), then the expression k Xμ on the right side is just −ωt + kxx + kyy + kzz.14 This notation is elegant, but for now we’ll stick to the original form. Let’s see what happens if we try to plug our proposed solution (Eq. 5.28) into the equation of motion (Eq. 5.27). We’ll be taking various derivatives of ϕ. Eq. 5.27 tells us which derivatives to take. We start by taking the second derivative of ϕ with respect to time. Differentiating Eq. 5.28 twice with respect to time gives us differentiating twice with respect to x results in we get similar results when we differentiate with respect to y and z. So far, the Klein-Gordon equation has generated the terms based on our proposed solution. But we’re not finished. Eq. 5.27 also contains the term +μ2ϕ. This has to be added to the other terms. The result is at this point, it’s easy to find a solution. We just set the factor inside the parentheses equal to zero and find that this tells us the frequency in terms of the wave numbers. Either +ω or −ω will satisfy this equation. Also, notice that each term under the square root is itself a square. So if a particular value of (say) k is part of a solution, then its negative will also be a part of a solution. Notice the parallel between these solutions and the energy equation, Eq. 3.43, from Lecture 3, repeated here: Eq. 5.30 represents the classical field version of an equation that describes a quantum mechanical particle with mass μ, energy ω, and momentum k.15 We’ll come back to it again and again.
+
+1 Of course we could have many more than two, and they don’t need to be orthogonal Cartesian coordinates.
+
+2 With too few dimensions, of course.
+
+3 In the video, Leonard shows the field by using a colored marker to fill the region with “red mush.” Our diagrams don’t use color, so we have to settle for “imaginary red mush.” Just think of your least favorite school cafeteria entrée.–AF 4 Or, equivalently, V(ϕ) = 0.
+
+5 To avoid clutter, I’m using only one space coordinate.
+
+6 F(x) is not strictly arbitrary. However, it represents a broad class of functions, and we can think of it as arbitrary for our purposes.
+
+7 The symbol ∇2ϕ is shorthand for . See Appendix B for a quick summary of the meaning of and other vector notation. You could also refer to Lecture 11 in Volume I of the Theoretical Minimum series. Many other references are available as well.
+
+8 Substitute your favorite expletive for the word single.
+
+9 It might be better to express A as a row matrix. However, the summation convention described in the next section minimizes the need to write out matrices in component form.
+
+10 Eq. 4.7 also contains a potential energy term −V(ϕ), which we’re ignoring for now.
+
+11 Confusingly, the imaginary part of a complex function is the real function that multiplies i.
+
+12 The Schrödinger equation only has a first derivative with respect to time, and includes the value i.
+
+13 You can think of them as three components of a wave vector, where 14 It turns out that (−ω, kx, ky, kz) really is a 4-vector, but we haven’t proved it.
+
+15 The equation should also include some Planck’s constants that I’ve ignored.
+
+Interlude: Crazy Units “Hi, Art, are you up for some talk about units?” “Electromagnetic units? Oy vey, I’d rather eat wormholes. Do we have to?” “Well, take your pick: units or a wormhole dinner.” “Okay, Lenny, you win—units.” When I first started learning about physics, something bothered me: Why are all the numbers—the so-called constants of nature—so big or so small? Newton’s gravitational constant is 6.7 × 10−11, Avogadro’s number is 6.02 × 1023, the speed of light is 3 × 108, Planck’s constant is 6.6 × 10−34, and the size of an atom is 10−10. Nothing like this ever happened when I was learning mathematics. True, π≈3.14159 and e≈2.718. These natural mathematical numbers were neither big nor small, and although they had their own transcendental oddness, I could use the math I knew to work out their values. I understand why biology might have nasty numbers—it’s a messy subject—but physics? Why such ugliness in the fundamental laws of nature?
+
+I.1 Units and Scale The answer turned out to be that the numerical values of the so-called constants of nature actually have more to do with biology than physics.1 As an example, take The size of an atom, about 10−10 meters. But why do we measure in meters? Where did the meter come from and why is it so much bigger than an atom? When asked this way, the answer starts to come into focus. A meter is simply a unit that’s convenient for measuring ordinary human-scale lengths. It seems that the meter arose as a unit for measuring rope or cloth and it was simply the distance from a man’s nose (supposedly the king’s nose) to his outstretched fingertips.
+
+But that raises the question, why is a man’s arm so long—1010—in atomic radii? Here the answer is obvious: It takes a lot of atoms to make an intelligent creature that can even bother to measure rope. The smallness of an atom is really all about biology, not physics. You with me, Art?
+
+And what about the speed of light; why so large? Here again the answer may have more to do with life than with physics. There are certainly places in the universe where things—even large, massive things—move relative to each other with speeds close to the speed of light. Only recently, two black holes were discovered to be orbiting each other at an appreciable fraction of the speed of light. They crashed into each other, but that’s the way it goes; moving that fast can be dangerous. In fact, an environment full of objects whizzing around at nearly the speed of light would be lethal for our soft bodies. So the fact that light moves very fast on the scale of ordinary human experience is, at least in part, biology. We can only live where things with appreciable mass move slowly.
+
+Avogadro’s number? Again, intelligent creatures are necessarily big on the molecular scale, and the objects that we can easily handle, like beakers and test tubes, are also big. The quantities of gas and fluid that fill a beaker are large (in number of molecules) for reasons of convenience to our large soft selves.
+
+Are there better units more suited to the fundamental principles of physics? Yes indeed, but let’s first recall that in standard textbooks we are told that there are three fundamental units: length, mass, and time. If, for example, we chose to measure length in units of the radius of a hydrogen atom, instead of the length of a man’s arm, there would be no large or small constants in the equations of atomic physics or chemistry.
+
+But there is nothing universal about the radius of an atom. Nuclear physicists might still complain about the small size of the proton or, even worse, the size of the quark. The obvious fix would be to use the quark radius as the standard of length. But a quantum-gravity theorist would complain: “Look here, my equations are still ugly; the Planck length is 10−19 in your stupid nuclear physics units. Furthermore, the Planck length is much more fundamental than the size of a quark.”
+
+I.2 Planck Units
+
+As the books say, there are three units: length, mass, and time. Is there a most natural set of units? To put it another way, are there three phenomena that are so fundamental, so universal, that we can use them to define the most fundamental choice of units? I think there are, and so did Planck in 1900. The idea is to pick aspects of physics that are completely universal, meaning that they apply with equal force to all physical systems. With some minor historical distortion, here was Planck’s reasoning:
+
+The first universal fact is that there is a speed limit that all matter must respect. No object—no object—can exceed the speed of light, whether it be a photon or a bowling ball. That gives the speed of light a universal aspect that the speed of sound, or any other speed, does not have. So Planck said, let’s choose the most fundamental units so that the speed of light is 1, c = 1.
+
+Next he said that gravity provides us with something universal, Newton’s universal law of gravitation: Every object in the universe attracts every other object with a force equal to Newton’s constant times the product of the masses, divided by the square of the distance between them. There are no exceptions; nothing is immune to gravity. Again, Planck recognized something universal about gravity that is not true of other forces. He concluded that the most fundamental choice of units should be defined so that Newton’s gravitational constant is set to unity: G = 1.
+
+Finally, a third universal fact of nature—one that Planck could not fully appreciate in 1900—is the Heisenberg Uncertainty Principle. Without too much explanation, what it says is that all objects in nature are subject to the same limitation on the accuracy with which they can be known: The product of the uncertainty in position, and the uncertainty of momentum, is at least as big as Planck’s constant divided by 2. Again, this is a universal property that applies to every object, no matter how big or small—humans, atoms, quarks, and everything else. Planck’s conclusion: The most fundamental units should be such that his own constant is set to 1. This, as it turns out, is enough to fix the three basic units of length, mass, and time. Today, the resulting units are called Planck units.
+
+So then why don’t all physicists use Planck units? There is no doubt that the fundamental laws of physics would be most simply expressed. In fact, many theoretical physicists do work in Planck units, but they would not be at all convenient for ordinary purposes. Imagine if we used Planck units in daily life. The signs on freeways would read Figure I.1: Traffic Sign in Planck Units. The distance to the next exit would be 1038, and the time in a single day would be 8.6 × 1046. Perhaps more important for physics, ordinary laboratory units would have inconveniently large and small values. So for convenience’s sake we live with units that are tailored to our biological limitations. (By the way, none of this explains the incredible fact that in our country we still measure in inches, feet, yards, slugs, pints, quarts, and teaspoons.)
+
+I.3 Electromagnetic Units
+
+Art: Okay, Lenny, I get what you are saying. But what about electromagnetic units? They seem to be especially annoying. What’s that thing in all the equations, the thing the textbooks call the dielectric constant of the vacuum? Why does the vacuum have a dielectric constant anyway, and why is it equal to 8.85 × 10−12? That seems really weird.
+
+Art is right; electromagnetic units are a nuisance all of their own. And he is right that it doesn’t make sense to think of the vacuum as a dielectric—not in classical physics, anyway. The language is a holdover from the old ether theory.
+
+The real question is: Why was it necessary to introduce a new unit for electric charge—the so-called coulomb? The history is interesting and actually based on some physical facts, but probably not the ones you imagine. I’ll start by telling you how I would have set things up, and why it would have failed. What I would have done is to start by trying to accurately measure the force between two electric charges, let’s say by rubbing two pith balls with cat’s fur until they were charged. Presumably I would have found that the force was governed by Coulomb’s law. Then I would have declared that a unit charge—one for which q = 1—is an amount of charge such that two of them, separated by 1 meter, have a force between them of 1 newton. (The newton is a unit of force needed to accelerate a 1-kilogram mass by 1 meter per second per second.) In that way there would be no need for a new independent unit of charge, and Coulomb’s law would be simple, just like I wrote earlier. Maybe if I had been particularly clever and had a bit of foresight, I might have put a factor of 4π in the denominator of the Coulomb law. But that’s a detail.
+
+Now why would I have failed, or at least not had good accuracy? The reason is that it is difficult to work with charges; they are hard to control. Putting a decent amount of charge on a pith ball is hard because the electrons repel and tend to jump off the ball. So historically a different strategy was used.
+
+Figure I.2: Parallel Wires. No current flows because the switch is open. Figure I.3: Parallel Wires with Currents Flowing in Opposite Directions. The switch is closed.
+
+By contrast with charge, working with electric current in wires is easy. Current is charge in motion, but because the negative charge of the moving electrons in a wire is held in place by the positive charges of the nuclei, they are easy to control. So instead of measuring the force between two static charges, we instead measure the force between two current-carrying wires. Figures I.2 and I.3 illustrate how such an apparatus might work. We start with a circuit containing a battery, a switch, and two long parallel wires stretched tight and separated by a known distance. For simplicity the distance could be a meter, although in practice we may want it to be a good deal smaller.
+
+Now we close the switch and let the current flow. The wires repel each other for reasons that will be explained later in this book. What we see is that the wires belly out in response to the force. In fact, we can use the amount of bellying to measure the force (per unit length). This allows us to define a unit of electric current called an ampere or amp. One amp is the current needed to cause parallel wires separated by 1 meter, to repel with a force of 1 newton per meter of length.
+
+Notice that in this way, we define a unit of current, not a unit of electric charge. Current measures the amount of charge passing any point on the circuit per unit time. For example, it is the amount of charge that passes through the battery in 1 second.
+
+Art: But wait, Lenny. Doesn’t that also allow us to define a unit of charge? Can’t we say that our unit of charge—call it 1 coulomb of charge—is the amount of charge that passes through the battery in one second, given that the current is one amp?
+
+Lenny: Very good! That’s exactly right. Let me say it again: The coulomb is by definition the amount of charge passing through the circuit in one second, when the current is one amp; that is, when The force on the wires is one newton per meter of length (assuming the wires are separated by one meter).
+
+The disadvantage is that the definition of a coulomb is indirect. The advantage is that the experiment is so easy that even I did it in the lab. The problem, however, is that the unit of charge defined this way is not the same unit that would result from measuring the force between static charges.
+
+How do the units compare? To answer that, we might try to collect two buckets of charge, each a coulomb, and measure the force between them. This would be dangerous even if it were possible; a coulomb is a really huge amount of charge. The bucket would explode and the charge would just fly apart. So the question becomes, why does it take such a huge amount of charge flowing in the wires to produce a modest force of 1 newton?
+
+Art: Why is there a force between the wires anyway? Even though the wires have moving electrons, the net charge on the wire is zero. I don't see why there is any force.
+
+Lenny: Yes, you are right that the net charge is zero. The force is not electrostatic. It's actually due to the magnetic field caused by the motion of the charges. The positive nuclei are at rest and don't cause a magnetic field, but the moving electrons do.
+
+Art: Okay, but you still haven't told me why it takes such a whopping big amount of moving charge to create a mere newton of force between the wires. Am I missing something?
+
+Lenny: Only one thing. The charges move very slowly.
+
+The electrons in a typical current-carrying wire do indeed move very slowly. They bounce around very quickly, but like a drunken sailor, they mostly get nowhere; on the average it takes an electron about an hour to move 1 meter along a wire. That seems slow, but compared to what? The answer is that they move very slowly compared to the only natural physical unit of velocity, the speed of light. In the end that's why it takes a huge amount of charge, moving through the wires of a circuit, to produce a significant force.
+
+Now that we know that the standard unit of charge, the coulomb, is a tremendously large amount of charge, let's go back to Coulomb's law. The force between two coulomb-size charges is enormous. To account for this we have to put a huge constant into the force law. Instead of we write where is the small number 8.85 × 10−12.
+
+Art: So ultimately the weird dielectric constant of the vacuum has nothing to do with dielectrics. It has more to do with the slow molasses-like motion of electrons in metallic wires. Why don't we just get rid of and set it equal to 1?
+
+Lenny: Good idea, Art. Let's do that from now on. But don't forget that we will be working with a unit of charge that is about one three-hundred-thousandth of a Coulomb. Forgetting about the conversion factor could lead to a nasty explosion.
+
+1 If you've read our previous book on quantum mechanics, you've heard this sermon before. It's interesting that the same issues of scale that affect our choice of units also limit our ability to directly perceive quantum effects with our senses.
+
+2 Also called vacuum permittivity, or permittivity of free space.
+
+Lecture 6 The Lorentz Force Law Art: Lenny, who is that dignified gentleman with the beard and wire-frame glasses?
+
+Lenny: Ah, the Dutch uncle. That's Hendrik. Would you like to meet him?
+
+Art: Sure, is he a friend of yours?
+
+Lenny: Art, they're all friends of mine. Come on, I'll introduce you.
+
+Art Friedman, meet my friend Hendrik Lorentz.
+
+Poor Art, he's not quite prepared for this.
+
+Art: Lorentz? Did you say Lorentz? Oh my God! Are you? Is he? Are you really, are you really the …"
+
+Dignified as always, HL bows deeply.
+
+Lorentz: Hendrik Antoon Lorentz, at your service.
+
+Later a star-struck Art quietly asks, Lenny, is that really the Lorentz? The one who discovered Lorentz transformations?
+
+Lenny: Sure he is, and a lot more than that. Bring me a napkin and a pen and I'll tell you about his force law.
+
+Of all the fundamental forces in nature, and there are many of them, few were known before the 1930s. Most are deeply hidden in the microscopic quantum world and only became observable with the advent of modern elementary particle physics. Most of the fundamental forces are what physicists call short-range. This means that they act only on objects that are separated by very small distances. The influence of a short-range force decreases so rapidly when the objects are separated that, for the most part, they are not noticed in the ordinary world. An example is the so-called nuclear force between nucleons (protons and neutrons). It's a powerful force whose role is to bind these particles into nuclei. But as powerful as that force is, we don't ordinarily notice it. The reason is that its effects disappear exponentially when the nucleons are separated by more than about 10−15 meters. The forces that we do notice are the long-range forces whose effects fade slowly with distance.
+
+Of all the forces of nature, only three were known to the ancients—electric, magnetic, and gravitational. Thales of Miletos (600 BC) was said to have moved feathers with amber that had been rubbed with cat fur. At about the same time he mentioned lodestone, a naturally occurring magnetic material. Aristotle, who was probably late on the scene, had a theory of gravity, even if it was completely wrong. These three were the only forces that were known until the 1930s.
+
+What makes these easily observed forces special is that they are long-range. Long-range forces fade slowly with distance and can be seen between objects when they are well separated.
+
+Gravitational force is by far the most obvious of the three, but surprisingly it is much weaker than electromagnetic force. The reason is interesting and worth a short digression. It goes back to Newton's universal law of gravitational attraction: Everything attracts everything else. Every elementary particle in your body is attracted by every particle in the Earth. That's a lot of particles, all attracting one another, and the result is a significant and noticeable gravitational attraction, but in fact the gravitational attraction between individual particles is far too small to measure.
+
+The electric forces between charged particles is many orders of magnitude stronger than the gravitational force. But unlike gravity, electric force can be either attractive (between opposite charges) or repulsive (between like charges). Both you and the Earth are composed of an equal number of positive charges (protons) and negative charges (electrons), and the result is that the forces cancel. If we imagined getting rid of all the electrons in both you and the Earth, the repulsive electric forces would easily overwhelm gravity and blast you from the Earth's surface. In fact, it would be enough to blast the Earth and you into smithereens.
+
+In any case, gravity is not the subject of these lectures, and the only other long-range forces are electromagnetic. Electric and magnetic forces are closely related to each other; in a sense they are a single thing, and the unifying link is relativity. As we will see, an electric force in one frame of reference becomes a magnetic force in another frame, and vice versa. To put it another way, electric and magnetic forces transform into each other under Lorentz transformation. The rest of these lectures are about electromagnetic forces and how they are unified into a single phenomenon through relativity. Going back to Pauli's (fictitious) paraphrase of John Wheeler's (real) slogan, Fields tell charges how to move; charges tell fields how to vary.
+
+We'll begin with the first half—fields tell charges how to move. Or to put it more prosaically, fields determine the forces on charged particles.
+
+An example that may be familiar to you—if not, it soon will be—is the electric field. Unlike the scalar field that we discussed in the last lecture, the electric field is a vector field—a 3-vector, to be precise. It has three components and points in some direction in space. It controls the electric force on a charged particle according to the equation In this equation the symbol e represents the electric charge of the particle. It can be positive, in which case the force is in the same direction as the electric field; it can be negative, in which case the force and the field are in opposite directions; or, as in the case of a neutral atom, the force can be zero.
+
+Magnetic forces were first discovered by their action on magnets or bits of lodestone, but they also act on electrically charged particles if the particles are in motion. The formula involves a magnetic field (also a 3-vector), the electric charge e, and the velocity of the particle. We'll derive it later from an action principle, but jumping ahead, the force on a charged particle due to a magnetic field is The symbol × represents the ordinary cross-product of vector algebra, which I assume you have seen before.2 One interesting property of magnetic forces is that they vanish for a particle at rest and increase as the particle velocity increases. If there happens to be both an electric and a magnetic field, the full force is the sum Eq. 6.1 was discovered by Lorentz and is called the Lorentz force law.
+
+We've already discussed scalar fields and the way they interact with particles. We showed how the same Lagrangian (and the same action) that tells the field how to influence the particle also tells the particle how to influence the field. Going forward, we'll do the same thing for charged particles and the electromagnetic field. But before we do, I want to briefly review our notational scheme and extend it to include a new kind of object: tensors.
+
+Tensors are a generalization of vectors and scalars and include them as special cases. As we will see, the electric and magnetic fields are not separate entities but combine together to form a relativistic tensor.
+
+## 6.1 Extending Our Notation
+
+Our basic building blocks are 4-vectors with upper and lower indices. In the context of special relativity, these indices can be 0, 1, 2, or 3, where 0 corresponds to the time dimension.
+
+ativity, there’s little difference between the two types of indices. The only difference occurs in the time component (the component with index zero) of a 4-vector. For a given 4-vector, the time component with an upper index has the opposite sign of the time component with lower index. In symbols, A0 = −A. It may seem like overkill to define a notation whose sole purpose is to keep track of sign changes for time components. However, this simple relationship is a special case of a much broader geometric relationship based on the metric tensor. When we study general relativity, the relationship between upper and lower indices will become far more interesting. For now, upper and lower indices simply provide a convenient, elegant, and compact way to write equations.
+
+6.1.1 4-Vector Summary Here is a quick summary of concepts from Lecture 5 for easy reference.
+
+4-vectors have three space components and one time component. A Greek index such as μ refers to any or all of these components and may take the values (0, 1, 2, 3). The first of these (the component labeled zero) is the time component. Components 1, 2, and 3 correspond to the x, y, and z directions of space. For example, A0 represents the time component of the 4-vector A. A2 represents the space component in the y direction. When we focus only on the three space components of a 4-vector, we label them with Latin indices such as m or p. Latin indices may take the values (1, 2, 3), but not zero. Symbolically, we can write So far, I’ve labeled my 4-vectors with upstairs, or contravariant indices. By convention, a contravariant index is the sort of thing you would attach to the coordinates themselves, such as Xμ, or to a coordinate displacement such as dXμ. Things that transform in the same way as coordinates or displacements carry upstairs indices.
+
+The covariant counterpart to Aμ is written with a downstairs index, A. It describes the same 4-vector using a different notation. To switch from contravariant notation to covariant notation, we use the 4 × 4 metric ημν. The formula A = ημν Aν converts an upstairs index to a downstairs index. The repeated index ν on the right side is a summation index, and therefore Eq. 6.2 is shorthand for A = ημ0 A0 + ημ1 A1 + ημ2 A2 + ημ3 A3.
+
+The covariant and contravariant components of any 4-vector A are exactly the same, except for the time components. The upstairs and downstairs time components have opposite signs. Eq. 6.2 is equivalent to the two equations A0 = −A0 and Ai = Ai (for i = 1, 2, 3).
+
+Eq. 6.2 gives this same result because of the −1 in the upper-left position of ημν.
+
+6.1.2 Forming Scalars For any two 4-vectors A and B, we can form a product Aμ Bν using the upstairs components of one and the downstairs components of the other.3 The result is a scalar, which means it has the same value in every reference frame. In symbols, Aμ Bν = scalar.
+
+The repeated index ν indicates a summation over four values. The long form of this expression is Aμ Bν = Aμ B0 + Aμ B1 + Aμ B2 + Aμ B3.
+
+6.1.3 Derivatives Coordinates and their displacements are the prototypes for contravariant (upstairs) components. In the same way, derivatives are the prototype for covariant (downstairs) components. The symbol ∂μ stands for (∂0, ∂1, ∂2, ∂3) = (∂/∂t, ∂/∂x, ∂/∂y, ∂/∂z).
+
+In Lecture 5, we explained why these four derivatives are the covariant components of a 4-vector. We can also write them in contravariant form. To summarize: Covariant Components: ∂μ = (∂0, ∂1, ∂2, ∂3)
+
+Contravariant Components: ∂μ = (∂0, −∂1, −∂2, −∂3)
+
+As usual, the only difference between them is the sign of the time component. The symbol ∂ doesn’t mean much all by itself; it has to act on some object. When it does, it adds a new index μ to that object. For example, if ∂ operates on a scalar, it creates a new object with covariant index μ. Taking a scalar field ϕ as a concrete example, we could write ∂μϕ.
+
+The right side is a collection of derivatives that forms the covariant vector (∂0ϕ, ∂1ϕ, ∂2ϕ, ∂3ϕ).
+
+The symbol ∂ also provides a new way to construct a scalar from a vector. Suppose we have a 4-vector Bμ(t, x) that depends on time and position. In other words B is a 4-vector field. If B is differentiable, it makes sense to consider the quantity ∂μ Bμ(t, x).
+
+Under the summation convention, this expression tells us to differentiate Bμ with respect to each of the four components of spacetime and add up the results: ∂μ Bμ = ∂0 B0 + ∂1 B1 + ∂2 B2 + ∂3 B3.
+
+The result is a scalar.
+
+The summing process we’ve illustrated here is very general; it’s called index contraction. Index contraction means identifying an upper index with an identical lower index within a single term, and then summing.
+
+6.1.4 General Lorentz Transformation Back in Lecture 1, we introduced the general Lorentz transformation. Here, we return to that idea and add some details.
+
+Lorentz transformations make just as much sense along the y axis or the z axis as they do along the x axis. There’s certainly nothing special about the x direction or any other direction. In Lecture 1, we explained that there’s another class of transformations—rotations of space—that are also considered members of the family of Lorentz transformations. Rotations of space do not affect time components in any way.
+
+Once you accept this broader definition of Lorentz invariance, you can say that a Lorentz transformation along the y axis is simply a rotation of the Lorentz transformation along the x axis. You can combine rotations together with the “normal” Lorentz transformations to make a Lorentz transformation in any direction or a rotation about any axis. This is the general set of transformations under which physics is invariant. The proof of this result is not important to us right now. What is important is that physics is invariant not only under simple Lorentz transformations but also under a broader category of transformations that includes rotations of space.
+
+How can we fold Lorentz transformations into our index-based notation scheme? Let’s consider the transformation of a contravariant vector Aμ. By definition, this vector transforms in the same way as the contravariant displacement vector Xμ. For example, the transformation equation for the time component A0 is t′ = γ(t − vx)
+
+This is the familiar Lorentz transformation along the x axis except that I’ve called the time component A0 and I’ve called the x component A1. We can always write these transformations in the form of a matrix acting on the components of a vector. For example, I can write (A′)μ to represent the components of the 4-vector Aμ in my frame of reference. To express these components as functions of the components in your frame, we’ll define a matrix with upper index μ and lower index ν, Lμν. The expression (A′)μ = Lμν Aν is a matrix because it has two indices; it’s a 4 × 4 matrix that multiplies the 4-vector Aν.4 Let’s make sure that Eq. 6.3 is properly formed. The left side has a free index μ, which can take any of the values (0, 1, 2, 3). The right side has two indices, μ and ν. The summation index ν is not an explicit variable in the equation. The only free index on the right side is μ. In other words, each side of the equation has a free contravariant index μ. Therefore, the equation is properly formed; it has the same number of free indices on the left side as it does on the right side, and their contravariant characters match.
+
+Eq. 6.4 gives an example of how we would use Lμν in practice. We have filled in matrix elements that correspond to a Lorentz transformation along the x axis.5 Lμν = [[γ, −γβ, 0, 0], [−γβ, γ, 0, 0], [0, 0, 1, 0], [0, 0, 0, 1]]
+
+What does the equation say? Following the rules of matrix multiplication, Eq. 6.4 is equivalent to four simple equations. The first equation specifies the value of t′, which is the first element of the vector on the left side. We set t′ equal to the dot product of the first row of the matrix with the column vector on the right side. In other words, the equation for t′ becomes A′0 = L00 A0 + L01 A1 + L02 A2 + L03 A3 or simply A′0 = γA0 − γβA1.
+
+Carrying out the same process for the second row of Lμν gives the equation for x′ A′1 = L10 A0 + L11 A1 + L12 A2 + L13 A3 = −γβA0 + γA1.
+
+The third and fourth rows produce the equations A′2 = A2 and A′3 = A3.
+
+It’s easy to recognize these equations as the standard Lorentz transformation along the x axis. If we wanted to transform along the y axis instead, we would just shuffle these matrix elements around. I’ll leave it to you to figure out how to do that.
+
+Now let’s consider a different operation: a rotation in the y, z plane, where the variables t and x play no part at all. A rotation can also be represented as a matrix, but the elements would be different from our first example. To begin with, the upper-left quadrant would look like a 2 × 2 unit matrix. That assures that t and x are not affected by the transformation. What about the lower-right quadrant? You probably know the answer. To rotate the coordinates by angle θ, the matrix elements would be the sines and cosines shown in Eq. 6.5.
+
+Lμν = [[1, 0, 0, 0], [0, 1, 0, 0], [0, 0, cosθ, −sinθ], [0, 0, sinθ, cosθ]]
+
+Following the rules of matrix multiplication, Eq. 6.5 is equivalent to the four equations A′0 = A0, A′1 = A1, A′2 = cosθ A2 − sinθ A3, A′3 = sinθ A2 + cosθ A3.
+
+In a similar way, we can write matrices representing rotations in the x, y or x, z planes by shuffling these matrix elements to different locations within the matrix.
+
+Once we define a set of transformation matrices for simple linear motion and spatial rotations, we can multiply these matrices together to make more complicated transformations. In this way, we can represent a complicated transformation using a single matrix. The simple transformation matrices shown here, along with their y and z counterparts, are the basic building blocks.
+
+6.1.5 Covariant Transformations So far, we’ve explained how to transform a 4-vector with a contravariant (upper) index. How do we transform a 4-vector with a covariant (lower) index?
+
+Suppose you have a 4-vector with covariant components. You know what these components look like in your frame, and you want to find out what they look like in my frame. We need to define a new matrix Mμν such that Aμ = Mμν Aν.
+
+This new matrix needs to have a lower index μ, because the resulting 4-vector on the left side has a lower index μ.
+
+Remember that M represents the same Lorentz transformation as our contravariant transformation matrix L; the two matrices represent the same physical transformation between coordinate frames. Therefore M and L must be connected. Their connection is given by a simple matrix formula: M = ηLη.
+
+I’ll let you prove this on your own. We’re not going Not wanting to use M very much, but it’s nice to know how L and M are connected for a given Lorentz transformation.
+
+It turns out that η is its own inverse, just like the unit matrix is its own inverse. In symbols, η−1 = η.
+
+The reason is that each diagonal entry is its own inverse; the inverse of 1 is 1, and the inverse of −1 is −1.
+
+Exercise 6.1: Given the transformation equation (Eq. 6.3) for the contravariant components of a 4-vector Aν, where Lμ is a Lorentz transformation matrix, show that the Lorentz transformation for A’s covariant components is (A′)μ = M μν Aν, where M = η L η.
+
+## 6.2 Tensors
+
+A tensor is a mathematical object that generalizes the notions of a scalar and a vector; in fact, scalars and vectors are examples of tensors. We will use tensors extensively.
+
+6.2.1 Rank 2 Tensors A simple way to approach tensors is to think of them as “a thing with some number of indices.” The number of indices a tensor has—the rank of the tensor—is an important characteristic. For example, a scalar is a tensor of rank zero (it has zero indices), and a 4-vector is a tensor of rank one. A tensor of rank two is a thing with two indices.
+
+Let’s look at a simple example. Consider two 4-vectors, A and B. As we’ve seen before, we can form a product from them by contraction, Aμ Bμ, where the result is a scalar. But now let’s consider a more general kind of product, a product whose result has two indices, μ and ν. We’ll start with the contravariant version. We just multiply Aμ and Bν for each μ and ν: Aμ Bν.
+
+How many components does this object have? Each index can take four different values, so Aμ Bν can take 4 × 4 or sixteen different values. We can list them: A0 B0, A0 B1, A0 B2, A0 B3, A1 B0, and so forth. The symbol Aμ Bν stands for a complex of sixteen different numbers. It’s just the set of numbers you get by multiplying the μ component of A with the ν component of B. This object is a tensor of rank two. I’ll use the generic label T for tensor: Tμν = Aμ Bν.
+
+Not all tensors are constructed from two vectors in this way, but two vectors can always define a tensor. How does Tμν transform? If we know how A transforms and we know how B transforms (which is the same way) we can immediately figure out the transformed components of Aμ Bν, which we call (T′)μν = (A′)μ (B′)ν.
+
+But, of course, we do know how A and B transform; Eq. 6.3 tells us how. Substituting Eq. 6.3 into the right side for both A′ and B′ gives the result: This requires some explanation. In Eq. 6.3, the repeated index was called ν. However, in the preceding equation, we replaced ν with σ for the A factor, and with τ for the B factor. Remember, these are summation indices and it doesn’t matter what we call them as long as we’re consistent. To avoid confusion, we want to keep the summation indices distinct from other indices and distinct from each other.
+
+Each of the four symbols on the right side stands for a number. Therefore, we’re allowed to reorder them. Let’s group the matrix elements together: Notice that we can now identify Aσ Bτ on the right side with the untransformed tensor element Tστ and rewrite the equation as: Eq. 6.9 gives us a new transformation rule about a new kind of object with two indices. Tμν transforms with the action of the Lorentz matrix on each one of the indices.
+
+6.2.2 Tensors of Higher Rank We can invent more complicated kinds of tensors—tensors with three indices, for example, such as Tμνλ.
+
+How would this transform? You could think of it as the product of three 4-vectors with indices μ, ν, and λ. The transformation formula is straightforward: There’s a transformation matrix for each index, and we can generalize this pattern to any number of indices.
+
+At the beginning of the section, I said that a tensor is a thing that has a bunch of indices. That’s true, but it’s not the whole story; not every object with a bunch of indices is considered a tensor. To qualify as a tensor the indexed object has to transform like the examples we’ve shown. The transformation formula may be modified for different numbers of indices, or to accommodate covariant indices, but it must follow this general pattern.
+
+Although tensors are defined by these transformation properties, not every tensor is constructed by taking a product of two 4-vectors. For example, suppose we have two other 4-vectors, C and D. We could take the product Aμ Bν and add it to the product Cμ Dν, Aμ Bν + Cμ Dν.
+
+Adding tensors produces other tensors, and the preceding expression is indeed a tensor. But it cannot in general be written as a product of two 4-vectors. Its tensor character is determined by its transformation properties, not by the fact that it may or may not be constructed from a pair of 4-vectors.
+
+6.2.3 Invariance of Tensor Equations Tensor notation is elegant and compact. But the real power behind it is that tensor equations are frame invariant. If two tensors are equal in one frame, they’re equal in every frame. That’s easy to prove, but keep in mind that for two tensors to be equal, all of their corresponding components must be equal. If every component of a tensor is equal to the corresponding component of some other tensor, then of course they’re the same tensor.
+
+Another way to say it is that if all the components of a tensor are zero in one reference frame, then they’re zero in every frame. If a single component is zero in one frame, it may well be nonzero in a different frame. But if all the components are zero, they must be zero in every frame.
+
+6.2.4 Raising and Lowering Indices I’ve explained how to transform a tensor with all of its indices upstairs (contravariant components). I could write down the rules for transforming tensors with mixed upstairs and downstairs indices. Instead I’ll just tell you that once you know how a tensor transforms, you can immediately deduce how its other variants transform. By other variants I mean different versions of the same tensor—the same geometric quantity—but with some of its upstairs indices pushed downstairs and vice versa. For example, consider the tensor Tμν = Aμ Bν. This is a tensor with one index upstairs and one index downstairs. How does it transform? Never mind! You don’t need to worry about it because you already know how to transform Tμσ (with both indices upstairs), and you also know how to raise and lower indices using the matrix η. Recall that Tμν = Tμσ ησν.
+
+You can lower a tensor index in exactly the same way as you lower a 4-vector index. Just multiply by η as above, using the summation convention. The resulting object is Tμν.
+
+But there’s an even easier way to think about it. Given a tensor with all of its indices upstairs, how do you pull some of them downstairs? It’s simple. If the index that you’re lowering is a time index, you multiply by −1. If it’s a space index, you don’t multiply at all. That’s what η does. For example, the tensor component T00 is exactly the same as T00 because I’ve lowered two time indices, T00 = T00.
+
+Lowering two time indices means multiplying the component by −1 twice. It’s like the relationship between A0 B0 and A0 B0. There are two minus signs in going from A0 to A0, and from B0 to B0. Each lowered index introduces a minus sign, and the first product is equal to the second. But how does A0 B1 compare with A0 B1? B1 and B1 are the same, because index 1 refers to a space component. But A0 and A0 have opposite signs because index 0 is a time component. The same relationship holds between tensor components T01 and T01: T01 = −T01, because only one time component was lowered. Whenever you lower or raise a time component, you change signs. That’s all there is to it.
+
+6.2.5 Symmetric and Antisymmetric Tensors In general, the tensor component Tμν is not the same as Tνμ, where the indices μ and ν have been reversed. Changing the order of the indices makes a difference. To illustrate this, consider the product of two 4-vectors A and B. It should be clear that Aμ Bν is not generally the same as Aν Bμ. For example, if we choose specific components such as 0 and 1, we can see that A0 B1 is not the same as A1 B0. Clearly, these are not always the same: A and B are two different 4-vectors and there’s no built-in reason for any of the components A0, A1, B0, or B1 to match up with each other.
+
+While tensors are not generally invariant when changing the order of indices, there are special situations where they are. Tensors that have this special property are called symmetric tensors. In symbols, a symmetric tensor has the property Tμν = Tνμ.
+
+Let me construct one for you. If A and B are 4-vectors, then Aμ Bν + Aν Bμ is a symmetric tensor. If you interchange the indices μ and ν, the value of this expression remains the same. Go ahead and try it. When you rewrite the first term, it becomes the same as the original second term; when you rewrite the second term, it becomes the same as the original first term. The sum of the rewritten terms is the same as the sum of the original terms. If you start with any tensor of rank two, you can construct a symmetric tensor just as we did here.
+
+Symmetric tensors have a special place in general relativity. They’re less important in special relativity, but they do come up. For special relativity, the antisymmetric tensor is more important. Antisymmetric tensors have the property Fμν = −Fνμ. In other words, when you reverse the indices, each component has the same absolute value but changes its sign. To construct an antisymmetric tensor from two 4-vectors, we can write Aμ Bν − Aν Bμ. This is almost the same as our trick for constructing a symmetric tensor, except we have a minus sign between the two terms instead of a plus sign. The result is a tensor whose components change sign when you interchange μ and ν. Go ahead and try it.
+
+Antisymmetric tensors have fewer independent components than symmetric tensors. The reason is that their diagonal components must be zero. If Fμν is antisymmetric, each diagonal component must equal its own negative. The only way that can happen is for the diagonal components to equal zero. For example, F00 = −F00 = 0. The two indices are equal ( which is what it means to be a diagonal component), and zero is the only number that equals its own negative. If you think of a rank two tensor as a matrix (a two-dimensional array), then a matrix representing an antisymmetric tensor has zeros all along the diagonal.
+
+6.2.6 An Antisymmetric Tensor I mentioned earlier that the electric and magnetic fields combine to form a tensor. In fact, they form an antisymmetric tensor. We will eventually derive the tensor nature of the fields E and B, but for now just accept the identification as an illustration.
+
+The names of the elements of the antisymmetric tensor are suggestive, but for now they’re just names. The diagonal elements are all zero. We’ll call it Fμν. It will be convenient to write out the downstairs (covariant) components, Fμν: This tensor plays a key role in electromagnetism, where E stands for electric field, and B stands for magnetic field. We’ll see that the electric and magnetic fields combine to form an antisymmetric tensor. The fields E and B are not independent of each other. In the same way that x can get mixed up with t under a Lorentz transformation, E can get mixed up with B. What you see as a pure electric field, I might see as having some magnetic component. We haven’t shown this yet, but we will soon. This is what I meant earlier when I said that electric and magnetic forces transform into one another.
+
+## 6.3 Electromagnetic Fields
+
+Let’s do some physics! We could begin by studying Maxwell’s equations, the equations of motion that govern electromagnetic fields. We’ll do that in Lecture 8. For now, we’ll study the motion of a charged particle in an electromagnetic field. The equation that governs this motion is called the Lorentz force law.
+
+Later we’ll derive this law from an action principle, combined with relativistic ideas. The nonrelativistic (low-velocity) version of the Lorentz force law is ma = e(E + v × B)
+
+where e is the particle’s charge and the symbols E, B, v, and a are ordinary 3-vectors. The left side is mass times acceleration; the right side must therefore be force. There are two contributions to the force, electric and magnetic. Both terms are proportional to the electric charge e.
+
+In the first term the electric charge of a particle e multiplies the electric field E. The other term is the magnetic force, in which the charge multiplies the cross product of the particle’s velocity with the surrounding magnetic field B. If you don’t know what a cross product is, please take the time to learn. The Appendix contains a brief definition as does the first book in this series, Classical Mechanics (Lecture 11). There are many other references as well.
+
+We’ll do much of our work with ordinary 3-vectors. Then we’ll extend our results to 4-vectors; we will derive the full-blown relativistic version of the Lorentz force law. We’re going to find out that the two terms on the right side of Eq. 6.12 are really part of the same term when written in a Lorentz invariant form.
+
+6.3.1 The Action Integral and the Vector Potential Back in Lecture 4, I showed you how to construct a Lorentz invariant action (Eq. 4.28) for a particle moving in a scalar field. Let’s quickly review the procedure. We began with the action for a free particle in Eq. 4.27, S = ∫ -m dτ and added a term representing the effect of the field on the particle, S_int = -e ∫ φ dτ.
+
+This makes a fine theory of a particle interacting with a scalar field, but it’s not the theory of a particle in an electromagnetic field. What options do we have for replacing this interaction with something that might yield the Lorentz force law? That is the goal for the rest of this lecture: to derive the Lorentz force law, Eq. 6.12, from an invariant action principle.
+
+How can we modify this Lagrangian to describe the effects of an electromagnetic field? Here there is a bit of a surprise. One might think that the correct procedure is to construct a Lagrangian that involves the particle’s coordinate and velocity components, and that depends on the E and B fields in a manner similar to the action for a particle in the presence of a scalar field. Then, if all goes well, the Euler-Lagrange equation for the motion would involve a force given by the Lorentz force law. Surprisingly, this turns out to be impossible. To make progress we have to introduce another field called the vector potential. In some sense, the electric and magnetic fields are derived quantities constructed from the more basic vector potential, which itself is a 4-vector called Aμ(t, x). Why a 4-vector? All I can do at this point is ask you to wait a little; you will see that the end justifies the means.
+
+How can we use Aμ(t, x) to construct an action for a particle in an electromagnetic field? The field Aμ(t, x) is a 4-vector with a lower index. It seems natural to take a small segment of the trajectory, the 4-vector dXμ, and combine it with Aμ(t, x) to make an infinitesimal scalar quantity associated with that segment. For each trajectory segment, we form the quantity dXμ Aμ(t, x).
+
+Then we add them up; that is, we integrate from one end to the other, from point a to point b: ∫_a^b dXμ Aμ(t, x).
+
+Because the integrand is a scalar, every observer agrees about its value on each little segment. If we add quantities that we agree about, we’ll continue to agree about them, and we’ll get the same answer for the action. To conform to standard conventions, I’ll multiply this action by a constant, e: S_int = -e ∫_a^b dXμ Aμ(t, x).
+
+I’m sure you’ve already guessed that e is the electric charge. This is the other term in the action for a particle moving in an electromagnetic field. Let’s collect both parts of the action integral: S = ∫ (-m dτ - e dXμ Aμ).
+
+6.3.2 The Lagrangian Both terms in Eq. 6.13 were derived from Lorentz invariant constructions: the first term is proportional to the proper time along the trajectory and the second is constructed from the invariant dXμ Aμ. Whatever follows from this action must be Lorentz invariant even if it may not be obvious.
+
+The first term is an old friend and corresponds to the free-particle Lagrangian L_free = -m √(1 - v²).
+
+The second term is new and hopefully will give rise to the Lorentz force law, although at the moment it looks quite unrelated. In its current form, the term is not expressed in terms of a Lagrangian, because the integral is not taken over coordinate time dt. That is easily remedied; we just multiply and divide by dt to rewrite it as S_int = -e ∫ (dXμ/dt) Aμ dt.
+
+In this form, the new term is now the integral of a Lagrangian. Calling the integrand L_int, where int stands for interaction, the Lagrangian becomes L_int = -e (dXμ/dt) Aμ.
+
+Now let’s notice that the quantities dXμ/dt come in two different flavors. The first is dX⁰/dt. Recalling that X⁰ and t are the same thing, we can write dX⁰/dt = 1.
+
+The other flavor corresponds to the index μ taking one of the values (1, 2, 3), that is, one of the three space directions. In that case we recognize dXᵖ/dt (with Latin index p) to be a component of the ordinary velocity, dXᵖ/dt = vᵖ.
+
+If we combine the two types of terms, the interaction Lagrangian becomes L_int = -e A₀ - e vᵖ Aᵖ, where the repeated Latin index p means that we sum from p=1 to p = 3. Because the quantities vᵖ are the components of velocity v, the expression vᵖ Aᵖ is nothing but the dot product of the velocity with the spatial part of the vector potential. Therefore we could write Eq. 6.16 in a form that may be more familiar, L_int = -e A₀ + e v · A.
+
+Summarizing all these results, the action integral for a charged particle now looks like this: S = ∫ (-m dτ - e A₀ dt + e v · A dt).
+
+Once again, in more familiar notation, it’s S = ∫ L dt = ∫ (-m √(1 - v²) - e A₀ + e v · A) dt.
+
+Now that the entire action is expressed as an integral over coordinate time dt, we can easily identify the Lagrangian as L = -m √(1 - v²) - e A₀ + e v · A.
+
+Exactly as we did for scalar fields, I’m going to imagine that Aμ is a known function of t and x, and that we’re just exploring the motion of the particle in that known field. What can we do with Eq. 6.18? Write the Euler-Lagrange equations, of course!
+
+6.3.3 Euler-Lagrange Equations Here are the Euler-Lagrange equations for particle motion once again, for easy reference: d/dt (∂L/∂vᵖ) = ∂L/∂xᵖ.
+
+Remember that this is shorthand for three equations, one equation for each value of p. Our goal is to write the Euler-Lagrange equations based on Eq. 6.18 and show that they look like the Lorentz force law. This amounts to substituting from Eq. 6.18 into Eq. 6.19. The calculation is a bit longer than for the scalar field case. I’ll hold your hand and take you through the steps.
+
+Let’s start by evaluating ∂L/∂vᵖ, also known as the canonical momentum. There must be a contribution from the first term in Eq. 6.18, because that term contains v. In fact, we already evaluated this derivative back in Lecture 3. Eq. 3.30 shows the result (with different variable names and in conventional units). In relativistic units, the right side of Eq. 3.30 is equivalent to ∂/∂vᵖ (-m √(1 - v²)) = m γ vᵖ.
+
+That’s the derivative of the first term of L (Eq. 6.18) with respect to the pth component of velocity. The second term of L does not contain v explicitly, so its partial derivative with respect to vᵖ is zero. However, the third term does contain v, and its partial derivative is ∂/∂vᵖ (e v · A) = e Aᵖ.
+
+Putting these terms together gives us the canonical momentum, ∂L/∂vᵖ = m γ vᵖ + e Aᵖ.
+
+We sneaked a small change of notation into Eq. 6.20 by writing vᵖ instead of dXᵖ/dt. This makes no difference because space components such as p can be moved upstairs or downstairs at will without changing their value. The downstairs index is consistent with the left side of the equation and will be convenient for what follows. Eq. 6.19 now instructs us to take the time derivative, which is d/dt (∂L/∂vᵖ) = d/dt (m γ vᵖ) + e dAᵖ/dt.
+
+That’s the full left side of the Euler-Lagrange equation. What about the right side? The right side is ∂L/∂xᵖ.
+
+In what way does L depend on Xᵖ? The second term, eA₀(t, x), clearly depends on Xᵖ. Its derivative is ∂/∂xᵖ (-e A₀) = -e ∂A₀/∂xᵖ.
+
+There’s only one more term to account for: e v · A. This term is mixed in that it depends on both velocity and position. But we already accounted for the velocity dependence on the left side of the Euler-Lagrange equation. Now, for the right side, we take the partial derivative with respect to Xᵖ, which is ∂/∂xᵖ (e v · A) = e v · (∂A/∂xᵖ).
+
+Now we can write the full right side of the Euler-Lagrange equation, ∂L/∂xᵖ = -e ∂A₀/∂xᵖ + e v · (∂A/∂xᵖ).
+
+Setting this equal to the left side gives us the result d/dt (m γ vᵖ) + e dAᵖ/dt = -e ∂A₀/∂xᵖ + e v · (∂A/∂xᵖ).
+
+Does this look familiar? The first term on the left side resembles mass times acceleration.
+
+acceleration, except for the square root in the denominator. For low velocities, the square root is very close to 1, and the term literally becomes mass times acceleration. We’ll have more to say about the second term, , later on.
+
+You may not recognize the first term on the right side of Eq. 6.21 but it’s actually familiar to many of you. However, to see that we have to use different notation. Historically, the time component of the vector potential A (t, x) was called −ϕ (t, x) and ϕ was called the electrostatic potential. So we can write and the corresponding term in Eq. 6.21 is just minus the electric charge times the gradient of the electrostatic potential. In elementary accounts of electromagnetism, the electric field is minus the gradient of ϕ.
+
+Let’s review the structure of Eq. 6.21. The left side has a free (nonsummed) covariant index p. The right side also has a free covariant index p, as well as a summation index n. This is the Euler-Lagrange equation for each component of position, X1, X2, and X3. It doesn’t yet look like something we might recognize, but it soon will.
+
+Our next move is to evaluate the time derivatives on the left side. The first term is easy; we’ll simply move the m outside the derivative, which gives How do we differentiate the second term, e A (t, x), with respect to time? This is a little tricky. Of course, A (t, x) may depend explicitly on time. But even if it doesn’t, we can’t assume that it’s constant, because the position of the particle is not constant; it changes with time because the particle moves. Even if A (t, x) does not depend explicitly on time, its value changes over time as it tracks the motion of the particle. As a result, the derivative generates two terms. The first term is the explicit derivative of A with respect to t, where the constant e just comes along for the ride. The second term accounts for the fact that A (t, x) also depends implicitly on time. This term is the change in A (t, x) when Xn changes, times . Putting these terms together results in
+
+Collecting all three terms of the time derivative, the left side of Eq. 6.21 now looks like this: and we can rewrite the equation as To avoid clutter, I’ve decided to write A instead of A (t, x). Just remember that every component of A depends on all four spacetime coordinates. The equation is well formed because each side has a summation index n and a covariant free index p.10
+
+This is a lot to assimilate. Let’s take a breath and look at what we have so far. The first term in Eq. 6.22 is the relativistic generalization of “mass times acceleration.” We’ll leave this term on the left side. After moving all the other terms to the right side, here’s what we get: If the left side is the relativistic generalization of mass times acceleration, the right side can only be the relativistic force on the particle.
+
+There are two kinds of terms on the right side: terms that are proportional to velocity (because they contain as a factor), and terms that are not. Grouping similar terms together on the right side results in
+
+Art: Ouch, my head hurts. I don’t recognize any of this. I thought you said we were going to get the Lorentz force law. You know, All I see in common with Eq. 6.24 is the electric charge e.
+
+Lenny: Hang on, Art, we’re getting there.
+
+Look at the left side of Eq. 6.24. Suppose the velocity is small so that we can ignore the square root in the denominator. Then the left side is just mass times acceleration, which Newton would call the force. So we have our . On the right side we have two terms, one of which contains a velocity , which I could call v . The other term doesn’t depend on the velocity.
+
+Art: I think I see the light, Lenny! Is the term without the velocity ?
+
+Lenny: Now you’re cooking, Art. Go for it; what’s the term with the velocity?
+
+Art: Holy cow! It must be… Yes! It must be
+
+Art’s right. Consider the term that doesn’t depend on velocity, namely If we define the electric field component E to be we get the first term of the Lorentz law, .
+
+The velocity-dependent term is a bit harder unless you are a master of cross products, in which case you can see that it’s in component form. In case you’re not a master of cross products, we’ll work it out next.11
+
+Let’s first consider the z component of , We want to compare this with the z component of which we get by identifying the index p with the direction z. The index n is a summation index, which means we need to substitute the values (1, 2, 3), or equivalently (x, y, z), and then add up the results. There’s no shortcut; just plug in these values and you’ll get
+
+Exercise 6.2: Expression 6.28 was derived by identifying the index p with the z component of space, and then summing over n for the values (1, 2, 3). Why doesn’t Expression 6.28 contain a v term?
+
+Now all we have to do is to match Expression 6.28 with the right side of Eq. 6.26. We can do this by making the identifications and The minus sign in the second equation is due to the minus sign in the second term of Eq. 6.26. We can do exactly the same thing for the other components, and we find that
+
+There is a shorthand notation for these equations that you should be familiar with.12 Eqs. 6.29 are summarized by saying that is the curl of ,
+
+How should one think about Eqs. 6.25 and 6.30? One way is to say that the fundamental quantity defining an electromagnetic field is the vector potential, and that Eqs. 6.25 and 6.30 define derived objects that we recognize as electric and magnetic fields. But one might respond that the quantities that are most physical, the ones directly measured in the laboratory, are E and B, and the vector potential is just a trick for describing them. Either way is fine: it’s a Monday-Wednesday-Friday versus Tuesday-Thursday-Saturday kind of thing.
+
+But whatever your philosophy about the primacy of A versus (E, B) happens to be, the experimental fact is that charged particles move according to the Lorentz force law. In fact, we can write Eq. 6.24 in the fully relativistically invariant form,
+
+6.3.4 Lorentz Invariant Equations
+
+Eq. 6.31 is the Lorentz invariant form of the equation of motion for a charged particle; the left side is a relativistic form of mass times acceleration, and the right side is the Lorentz force law. We know this equation is Lorentz invariant because of the way we defined the Lagrangian. However, it is not manifestly invariant; it is not obviously invariant based on the structure of the equation. When a physicist says that an equation is manifestly invariant under Lorentz transformations, she means that it is written in a four-dimensional form with upstairs and downstairs indices matching up in the right way. In other words, it is written as a tensor equation with both sides transforming the same way. That’s our goal for the rest of this lecture.
+
+Let’s go all the way back to the previous form of the Euler-Lagrange equations (Eq. 6.24), which I’ll rewrite here for convenience.
+
+Back in Lectures 2 and 3 (see Eqs. 2.16 and 3.9), we found that the quantities are the space components of the velocity 4-vector. In other words, Because p is a Latin index, we can also write Therefore (ignoring the factor m for now), the left side of Eq. 6.24 can be written as
+
+These are not components of a 4-vector. However, they can be put into 4-vector form if we multiply them by dt/dτ, These are the space components of a 4-vector—the relativistic acceleration. The full 4-vector has four components. Let’s therefore multiply both sides of Eq. 6.24 by dt/dτ. We’ll replace t with X0, and we’ll write dX0/dτ instead of dt/dτ. The result is
+
+Recalling our conventions for index ranges, we could try to rewrite the right side of this equation as a single term by replacing the Latin indices with Greek indices that range from 0 through 4: However, this would create a problem. Each side of the equation would have a downstairs free index, which is fine. But the left side would have a Latin free index p, while the right side would have a Greek free index μ. Indices can be renamed, of course, but we can’t match up a Latin free index on one side with a Greek free index on the other because they have different ranges. To write this equation properly, we need to replace X with X on the left side. The properly formed equation is
+
+If we set the index μ to be the space index p, then Eq. 6.33 just reproduces Eq. 6.24. In fact, Eq. 6.33 is the manifestly invariant equation of motion for a charged particle. It’s manifestly invariant because all the objects in the equations are 4-vectors and all the repeated indices are properly contracted.
+
+There is one important subtlety: We started with Eq. 6.24, which represents only three equations for the space components, labeled by the index p. When we allow the index μ to range over all four directions of Minkowski space, Eq. 6.33 gives one extra equation for the time component.
+
+But is this new equation (the zeroth equation) correct? By making sure at the beginning that the action was a scalar, we guaranteed that our equations of motion would be Lorentz invariant. If the equations are Lorentz invariant, and the three space components of a certain 4-vector are equal to the three space components of some other 4-vector, then we know automatically that their zeroth components (the time components) must also match. Because we’ve built a Lorentz invariant theory where the three space equations are correct, the time equation must also be correct.
+
+This logic pervades everything in modern physics: Make sure your Lagrangian respects the symmetries of the problem. If the symmetry of the problem is Lorentz symmetry, make sure your Lagrangian is Lorentz invariant. This guarantees that the equations of motion will also be Lorentz invariant.
+
+6.3.5 Equations with 4-Velocity
+
+Let’s massage Eq. 6.33 into a slightly different form that will come in handy later on. Recall that the 4-vector Uμ, defined as is called the 4-velocity. Making this substitution in Eq. 6.33 (with a lowered μ index) yields

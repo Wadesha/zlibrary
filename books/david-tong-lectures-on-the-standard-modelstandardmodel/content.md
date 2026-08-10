@@ -1,0 +1,1984 @@
+# David Tong Lectures on the Standard Modelstandardmodel
+
+> 来源文件：pre_David_Tong_Lectures_on_the_Standard_Modelstandardmodel.txt
+> 字符数（约）：268857
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+**The Standard Model** **University of Cambridge Part III Mathematical Tripos** **David Tong** Department of Applied Mathematics and Theoretical Physics, Centre for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 OBA, UK http://www.damtp.cam.ac.uk/user/tong/standardmodel.html d.tong@damtp.cam.ac.uk
+
+**Recommended Books and Resources** For a very elementary introduction to the Standard Model, you could take a look at the lectures on Particle Physics that I wrote for the CERN summer school. They cover the subject in a great deal of detail, but without any real mathematical sophistication. If you’re completely new to the wonderful world of subatomic particles, this is a good place to get grounded.
+
+Many undergraduate degrees have courses on particle physics that use quantum mechanics and some elementary group theory, without fully embracing quantum field theory. There are a number of good textbooks catering to these courses. Two that I particularly like are: • Halzen and Martin, “Quarks and Leptons” • David Griffiths, “Introduction to Elementary Particles”
+
+More advanced and really excellent books are: • Cliff Burgess and Guy Moore “The Standard Model” • Mark Thomson, “Modern Particle Physics” • Matt Schwartz, “Quantum Field Theory and the Standard Model”
+
+All three have different perspectives. Cliff and Guy’s book in particular is closely aligned to the general theme of these lectures. Mark Thomson’s book includes many more details about the specifics of particle interactions, while Matt’s book is a great all-round QFT book that, as the title suggests, has an increasing focus on the Standard Model as it proceeds.
+
+Finally, if you’re serious about particle physics you should acquaint yourself with the all-important Particle Data Group. They have various apps that you can download and, for the more old-fashioned among you, books. Their booklet, available in the download section of the webpage, is particularly useful. They’ll even mail you one for free if you ask nicely.
+
+In addition, there are many online lecture notes. You can find links to these on the course webpage.
+
+**Contents** 0 Introduction 1 1 Symmetries 5
+
+## 1.1 Spacetime Symmetries
+
+1.1.1 The Lorentz Group 6 1.1.2 The Poincaré Group and its Representations 9 1.1.3 The Coleman-Mandula Theorem 15
+
+## 1.2 Spinors
+
+1.2.1 Dirac vs Weyl Spinors 17 1.2.2 Actions for Spinors 21
+
+## 1.3 Gauge Invariance
+
+1.3.1 Maxwell Theory 22 1.3.2 A Refresher on Lie Algebras 25 1.3.3 Yang-Mills Theory 28
+
+## 1.4 C, P, and T
+
+1.4.1 Parity 36 1.4.2 Charge Conjugation 40 1.4.3 Time Reversal 42 1.4.4 CPT 45 2 Broken Symmetries 47
+
+## 2.1 Discrete Symmetries
+
+2.1.1 Quantum Tunnelling 49 2.1.2 Discrete Symmetry Breaking in Quantum Field Theory 52
+
+## 2.2 Continuous Symmetries
+
+2.2.1 The O(N) Sigma Model 60 2.2.2 Goldstone’s Theorem in Classical Field Theory 63 2.2.3 Goldstone’s Theorem in Quantum Field Theory 66 2.2.4 The Coleman-Mermin-Wagner Theorem 72
+
+## 2.3 The Higgs Mechanism
+
+2.3.1 The Abelian Higgs Model 75 2.3.2 Superconductivity 77 2.3.3 Non-Abelian Higgs Mechanism 86 3 The Strong Force 89
+
+## 3.1 Strong Coupling
+
+3.1.1 Asymptotic Freedom 92 3.1.2 Anti-Screening and Paramagnetism 96 3.1.3 The Mass Gap 98 3.1.4 A Short Distance Coulomb Force 99 3.1.5 A Long Distance Confining Force 103
+
+## 3.2 Chiral Symmetry Breaking
+
+3.2.1 The Quark Condensate 109 3.2.2 The Chiral Lagrangian 112 3.2.3 Phases of Massless QCD 119
+
+## 3.3 Hadrons
+
+3.3.1 Mesons 123 3.3.2 Lifetimes 129 3.3.3 Baryons 132 3.3.4 Heavy Quarks 136
+
+## 3.4 The Theta Term
+
+3.4.1 Topological Sectors 140 3.4.2 Instantons 142 4 Anomalies 145
+
+## 4.1 Gauge Anomalies
+
+4.1.1 Non-Abelian Gauge Anomalies 151 4.1.2 Mixed Anomalies 154 4.1.3 The Witten Anomaly 157
+
+## 4.2 Chiral (or ABJ) Anomalies
+
+4.2.1 The Theta Term Revisited 160 4.2.2 Noether’s Theorem for Anomalous Symmetries 162 4.2.3 Neutral Pion Decay 166 4.2.4 Surviving Discrete Symmetries 168
+
+## 4.3 ’t Hooft Anomalies
+
+4.3.1 Confinement Implies Chiral Symmetry Breaking 171 5 Electroweak Interactions 179
+
+## 5.1 The Structure of the Standard Model
+
+5.1.1 Anomaly Cancellation 181 5.1.2 Yukawa Interactions 184 5.1.3 Three Generations 185 5.1.4 The Lagrangian 186 5.1.5 Global Symmetries 188 5.1.6 What is the Gauge Group of the Standard Model? 193
+
+## 5.2 Electroweak Symmetry Breaking
+
+5.2.1 Electromagnetism 197 5.2.2 Running of the Weak Coupling 199 5.2.3 A First Look at Fermion Masses 202
+
+## 5.3 Weak Decays
+
+5.3.1 Electroweak Currents 205 5.3.2 Feynman Diagrams 206 5.3.3 A First Look at Weak Processes 208 5.3.4 4-Fermi Theory 209 6 Flavour 212
+
+## 6.1 Diagonalising the Yukawa Interactions
+
+6.1.1 Counting Yukawa Parameters 212 6.1.2 The Mass Eigenbasis 214 6.1.3 A Brief Look at Leptons 215
+
+## 6.2 The CKM Matrix
+
+6.2.1 Two Generations and the Cabibbo Angle 218 6.2.2 Three Generations and the CKM Matrix 220 6.2.3 The Wolfenstein Parameterisation 222 6.2.4 The Unitarity Triangle 223
+
+## 6.3 Flavour Changing Neutral Currents
+
+## 6.4 CP Violation
+
+6.4.1 How to Think of the Breaking of Time Reversal 229 6.4.2 The Jarlskog Invariant 233 6.4.3 The Strong CP Problem Revisited 235 6.4.4 Neutral Kaons 235 6.4.5 Wherefore CP Violation? 240 7 Neutrinos 241
+
+## 7.1 Neutrino Masses
+
+7.1.1 Dirac vs Majorana Masses 243 7.1.2 The Dimension 5 Operator 245 7.1.3 Neutrinoless Double Beta Decay 246 7.1.4 The PMNS Matrix 247 7.1.5 CP Violation in the Lepton Sector 249
+
+## 7.2 Neutrino Oscillations
+
+7.2.1 Oscillations with Two Generations 251 7.2.2 Oscillations in Matter 254 7.2.3 Neutrino Detection Experiments 257
+
+**Acknowledgements** I’m grateful to Hugh Osborn and Fernando Quevedo who previously lectured a version of this course in Cambridge, and to Wati Taylor for sharing the notes of his MIT course with me. Many thanks to Ben Allanach for explaining various subtle (and less subtle) issues to me. I’d also like to thank Mike Ball and Cory Fletcher for their courageous typo spotting abilities and Elie Hamou for running the examples classes.
+
+This course assumes a familiarity with quantum field theory. You will also need to be comfortable with some group theory.
+
+**0 Introduction** The “Standard Model” is the comically inadequate name that physicists give to the greatest scientific theory of all time.
+
+This theory is the poster child for success in reductionist science. It describes the universe on the most fundamental level and correctly predicts the results of every experiment that we have ever done, sometimes with unprecedented levels of accuracy.
+
+There are parts of the theory that are stunningly beautiful, with different facets sliding together like a perfect jigsaw, locked in place with a mathematical rigidity that means large parts of the world we inhabit could not be any other way. But there are other aspects of the theory that appear much less elegant, with a couple of dozen parameters that cannot be predicted from first principles but only by measuring them in experiment. These parameters don’t appear to be completely random; there are patterns within them that surely hint at some structure that lies beyond the Standard Model, a structure that we have yet to uncover.
+
+Boiled down to its essence, the Standard Model describes a bunch of particles, interacting with three forces. These forces are the strong nuclear force, the weak nuclear force, and electromagnetism. The force of gravity is not part of the Standard Model but it’s straightforward to include it by coupling to a dynamical, curved spacetime. (Claims that the Standard Model is incompatible with general relativity are wildly overblown. The two theories work perfectly well together at all energy scales that we can currently probe by experiment. The difficulties only arise when energies approach the Planck scale.)
+
+Each force in the Standard Model is associated to a Lie group. The upshot is that the Standard Model is built around the group G = U(1)×SU(2)×SU(3).
+
+Why nature chose the numbers, 1, 2, and 3 as the building blocks for her most important theory is not known, but you can’t help but smile at the decision. Here SU(3) is associated to the strong force and SU(2) is associated to the weak force and U(1) is not associated to electromagnetism but, instead, to an electromagnetic-like force known as hypercharge. It too plays a role in the weak force. The theory of electromagnetism that we know and love can be found hiding within the SU(2)×U(1) factor.
+
+electron down quark up quark electron neutrino 1 9 4 ∼ 10−6 muon strange quark charm quark muon neutrino 207 186 2495 ∼ 10−6 tau bottom quark top quark tau neutrino 3483 8180 340,000 ∼ 10−6 Table 1. The fermions of the Standard Model
+
+Despite the group theoretic similarities of each force, the resulting physics is wildly different. That’s because quantum field theory is cool. It does wonderful and unexpected things. Part of the purpose of this course is to learn about these things and why the dynamics of the strong, weak and electromagnetic forces all play very different roles in our world.
+
+These three forces interact with matter which, in the Standard Model, comes in the form of 15 Weyl fermions which, collectively, go by the name of the electron, the up quark, the down quark, and the neutrino. Why we give just four names to 15 fermions is part of the story that we will unravel, but at heart it is to do with representation theory of the group G.
+
+At this point, one of the deepest facts about nature rears its head. The subtleties of quantum field theory mean that this quartet of particles – the electron, neutrino, and up and down quarks – have to come together as a collective. You don’t have a choice. The theory with just, say, an electron and an up quark and no companions makes no sense. On grounds of mathematical consistency alone, we’re obliged to have this quartet of particles with their particular properties. This is where some of the most beautiful aspects of the Standard Model can be found.
+
+But then nature has a surprise, one which we’ve known about for almost a century and yet we are seemingly no closer to unde Understanding. Nature took that collection of four particles and, for mysterious reasons, chose to replicate it twice over. This means that the matter in our world is not made of 15 fermions with four different names, but instead of 45 fermions with twelve different names. The names of these twelve particles are shown in Table 1 together with their masses, relative to the electron mass which is m ≈ 0.51 MeV.
+
+Figure 1. Again, the masses of the fermions of the Standard Model. Note that the ordering of particles in each generation is switched.
+
+Each of the three rows in Table 1 is referred to as a different generation. The particles in each generation experience identical forces. So, for example, the electron, muon and tau all have electric charge −1, the down, strange and bottom quarks all have electric charge −1/3 and the up, charm and top quarks all have electric charge +2/3. All three neutrinos are neutral.
+
+Similarly, the six quarks all experience the strong force in the same way, while the electron, muon, tau and neutrinos (which, collectively are referred to as leptons) are all untouched by the strong force.
+
+The masses of the particles are replicated in Figure 1. They span at least 11 orders of magnitude, maybe more. (The masses of the neutrinos are not well constrained, as shown in the figure.) Why these particular masses? Why this ordering of masses? We have no idea. That’s one of the outstanding questions that we hope might be answered by a deeper theory.
+
+There is one final piece of the Standard Model that sits, lording over everything. This is the Higgs boson. It is, in many ways, the thing that ties everything together. In particular, all the masses listed above can be traced to the interactions of various fermions with the Higgs field.
+
+The Higgs is simultaneously both the simplest and the most complicated field in the Standard Model. It is the simplest because it is the only fundamental (as far as we can tell!) scalar field that we have so far observed, meaning that it is the only field to carry zero spin. It is the most complicated because, in contrast to fermions and gauge fields, scalar fields don’t come with many consistency requirements which means that there are a plethora of interaction terms that we can write down and the only way we have to constrain their values is to go out and measure them. It’s here that we find the two dozen or so parameters that we can’t yet explain. And it’s here that things get messy and interesting.
+
+This, then, is the Standard Model, part beauty, part beast. A glorious and astonishingly successful theoretical edifice that, so far, has stood firm against everything that experimenters have thrown at it. Yet few believe that it can really be the last word in physics. The Standard Model, like the periodic table before it, surely holds clues for what lies beyond. Our duty as physicists is to understand the Standard Model as best we can, to learn its secrets and, if possible, to let it guide us to a still deeper understanding of the world. The purpose of this course is to take you, at least part way, on this journey.
+
+1 Symmetries
+
+A large chunk of the structure of the Standard Model follows from understanding the various symmetries at play. Among these symmetries are
+
+• Poincar´e symmetries of spacetime, which restrict us to scalars, fermions, and gauge fields. These are the basic building blocks of the Standard Model.
+
+• Gauge symmetries, better referred to as “gauge redundancies”. These dictate the interactions of the spin 1 fields. Indeed, we’ve already seen that the Standard Model is usually advertised by specifying the gauge group G = U(1)×SU(2)×SU(3) . (1.1)
+
+• Global symmetries. These act on the fermions and include baryon number and lepton number, as well as various approximate flavour symmetries.
+
+• Discrete symmetries. Prominent among these are parity, time-reversal, and charge conjugation. These three symmetries are critically important in the structure of the Standard Model because, we shall see, none of them are actually good symmetries of our universe! But this is one case where not having symmetries puts even stronger constraints on the theory than having symmetries. This is because of something called “anomaly cancellation” that will be described in Section 4.
+
+Of these, the various global symmetries arise because of the specific matter content of the Standard Model and so we will postpone a discussion of them until we have more details in place. (We’ll first get there in Section 3 when we describe features of the strong force.) However, the other three symmetries – Poincar´e, gauge, and discrete – are ingredients that arise in pretty much all relativistic field theories. For this reason, it makes sense to explore them in some detail in preparation for what’s to come.
+
+## 1.1 Spacetime Symmetries
+
+On the length scales appropriate for particle physics, spacetime is effectively flat. This means that the arena for our story is Minkowski space R1,3, equipped with the Minkowski metric ηµν = diag(+1,−1,−1,−1) . (1.2)
+
+We label a point in Minkowski space as xµ = (x0,x1,x2,x3). The set of symmetries of Minkowski space include Lorentz transformations of the form xµ → Λµν xν where ΛT ηΛ = η . (1.3)
+
+Embedded among these are a couple of discrete transformations: parity with Λ = diag(1,−1,−1,−1) and time reversal with Λ = diag(−1,1,1,1). These are important enough that we will discuss them separately in Section 1.4. The transformations that are continuously connected to the identity have detΛ = 1 and Λ0 > 0 and form the Lorentz group SO(1,3). (The restriction to Λ0 > 0 is sometimes written as SO+(1,3).)
+
+Our main goal in this section is to understand some things about the representations of the Lorentz group and its extension to the Poincar´e group which also includes spacetime translations. Among these representations, spinors are the most fiddly and subtle and we will describe some of their properties in Section 1.2.
+
+1.1.1 The Lorentz Group
+
+Strictly speaking, the group SO(1,3) doesn’t have any spinor representations. However, there is a closely related group called Spin(1,3) that does admit spinors. This is the double cover, in the sense that SO(1,3) ∼= Spin(1,3)/Z2 (1.4) where that Z2 is related to the famous minus sign that spinors pick up under a 2π rotation, a minus sign that vectors like xµ are oblivious to. The fact that there are spinors in our world is the statement that the true symmetry group is Spin(1,3) rather than SO(1,3).
+
+The groups Spin(1,3) and SO(1,3) share the same Lie algebra so(1,3). A Lorentz transformation acting on a 4-vector can be written as Λµν = exp(− 1/2 ωρσ Mρσ) (1.5) where ωρσ are six numbers that specify what Lorentz transformation we’re doing, while Mρσ = −Mσρ are a choice of six 4 × 4 suitable matrices that generate the different Lorentz transformations. The matrix indices are suppressed in the above expressions; in their full glory we would write (Mρσ)ρκ. So, for example (M01)ρκ = i( 0 1 0 0 ; 1 0 0 0 ; 0 0 0 0 ; 0 0 0 0 ) and (M12)ρκ = i( 0 0 0 0 ; 0 0 -1 0 ; 0 1 0 0 ; 0 0 0 0 ) . (1.6) (Note that the generators differ by a factor of i from those defined in the Quantum Field Theory lectures. This is compensated by an extra factor of i in the exponent (1.5).) The matrices Mρσ generate the algebra so(1,3), [Mρσ,Mκλ] = i(ησκMρλ − ησλMρκ + ηρλMσκ − ηρκMσλ) . (1.7)
+
+The six different Lorentz transformations naturally decompose into three rotations Ji and three boosts Ki, defined by Ji = εijk Mjk and Ki = M0i (1.8) where the j,k = 1,2,3 indices are summed over, and ε123 = +1. The rotation matrices are Hermitian, with J†i = Ji while the boost matrices are anti-Hermitian with K†i = −Ki. This ensures that the rotations in (1.5) give rise to a compact group while the boosts are non-compact. From the Lorentz algebra, we find that these generators obey [Ji,Jj] = iεijk Jk, [Ji,Kj] = iεijk Kk, [Ki,Kj] = −iεijk Jk. (1.9)
+
+The rotations form an su(2) sub-algebra. That, of course, is to be expected and is related to the fact that SO(3) ∼= SU(2)/Z2.
+
+We can, however, find two mutually commuting su(2) algebras sitting inside so(1,3). For this we take the linear combinations Ai = 1/2 (Ji + iKi) and Bi = 1/2 (Ji − iKi) . (1.10) Both of these are Hermitian, with A†i = Ai and B†i = Bi. They obey [Ai,Aj] = iεijk Ak, [Bi,Bj] = iεijk Bk, [Ai,Bj] = 0 . (1.11)
+
+But we know all about representations of SU(2): they are labelled by an integer or half-integer j ∈ 1/2 Z which, in the context of rotations, we call “spin”. The dimension of the representation is then 2j + 1. The fact that we can find two su(2) sub-algebras of the Lorentz algebra tells us that all representations must carry two such labels (j1,j2) with j1,j2 ∈ 1/2 Z . (1.12)
+
+Moreover, we know that this representation must have dimension (2j1 + 1)(2j2 + 1). We’ll flesh out the meaning of these representations more below. But for now, we can identify the simplest such representations just by counting: we have (0,0) : scalar; (1/2,0) : left-handed Weyl spinor; (0,1/2) : right-handed Weyl spinor; (1/2,1/2) : vector (1.13); (1,0) : self-dual 2-form; (0,1) : anti-self-dual 2-form.
+
+What we call the physical spin of a particle is the quantum number under rotations Ji: this is j = j1 + j2. The spin-statistics theorem ensures that particles with j ∈ Z are bosons, while those with j ∈ Z + 1/2 are fermions.
+
+There’s something a little odd about our discovery of two su(2) sub-algebras. After all, it certainly isn’t true that the Lorentz group is isomorphic to two copies of SU(2). This is because SU(2) is a compact group: keep doing a rotation and you will eventually get back to where you started. Indeed, two copies of the group SU(2) give the rotation group of Euclidean space R4: Spin(4) ∼= SU(2)×SU(2) with SO(4) ∼= Spin(4)/Z2 . (1.14)
+
+In contrast, the Lorentz group is non-compact: keep boosting and you get further and further from where you start.
+
+ed. How does this manifest itself in the two su(2) algebras that we’ve found in (1.11)?
+
+The answer is a little subtle and is to be found in the reality properties of the generators A and B. Recall that all integer, j ∈ Z, representations of SU(2) are real, while all half-integer spin, j ∈ Z + 1, are pseudoreal (which means that, while not actually real, the representation is isomorphic to its complex conjugate). However, the A and B in (1.11) do not have these properties. You can see in (1.6) that both J and K are pure imaginary. This, in turn, means that the generators A and B are complex conjugates of each other (A )⋆ = −B. (1.15)
+
+This is where the difference lies that distinguishes SO(4) from SO(1,3). The Lie algebra so(1,3) does not contain two, mutually commuting copies of the real Lie algebra su(2), but only after a suitable complexification. This means that certain complex linear combinations of the Lie algebra su(2)×su(2) are isomorphic to so(1,3). To highlight this, the relationship between the two is sometimes written as so(1,3) ∼ = su(2)×su(2)⋆. (1.16)
+
+For our purposes, it means that the complex conjugate of a representation (j₁,j₂) exchanges the two quantum numbers (j₁,j₂)⋆ = (j₂,j₁). (1.17) Both the scalar representation (0,0) and the vector representation (1, 1) are real, while the left- and right-handed Weyl spinors (1,0) and (0, 1) are exchanged under complex conjugation. This last statement, which is important, will be elaborated upon in Sections 1.2 and 1.4. In the context of quantum field theory, if a field appears in a theory then so too does its complex conjugate. This means that if you have a left-handed spinor, you also have a right-handed complex conjugated spinor.
+
+1.1.2 The Poincaré Group and its Representations
+
+The continuous symmetries of Minkowski space comprise of Lorentz transformations together with spacetime translations. Combined, these form the Poincaré group. Spacetime translations are generated, as usual, by the momentum 4-vector Pµ. Their commutation relations with themselves and with the Lorentz generators Mµν are given by [Pµ,Pν] = 0 and [Mµν,Pσ] = i(Pµηνσ −Pνηµσ). (1.18) The latter of these is equivalent to the statement that Pµ transforms as a 4-vector under Lorentz transformations. These commutation relations should be considered in conjunction with the Lorentz algebra (1.7), [Mµν,Mρσ] = i(ηνρMµσ −ηνσMµρ +ηµσMνρ −ηµρMνσ). (1.19) Together, (1.18) and (1.19) form the algebra of the Poincaré group.
+
+Given an algebra, our next task is to explore its representations. There are different ways that we could approach this. Ultimately, we will be interested in the way that the Poincaré group acts on fields that make up the Standard Model. But first, to build some intuition, we will understand how the Poincaré group acts on single particle states in the Hilbert space.
+
+To set the scene, let’s first recall how we construct irreducible representations of the rotation group. We work with the algebra so(3) = su(2) rather than the group. This is, of course, defined by the familiar commutation relations [Jᵢ,Jⱼ] = iεᵢⱼᵏJₖ. (1.20)
+
+To construct representations, the first thing we do is look to the Casimirs. These are operators that commute with all generators of the group. For su(2), there is just a single Casimir, C = Jᵢ². (1.21)
+
+Irreducible representations are labelled by the eigenvalue of the Casimir. For su(2), the eigenvalue of J² is j(j + 1) with the spin j taking values in j = 0, 1/2, 1,.... Each representation has dimension 2j + 1, with the states within a multiplet identified by their eigenvalue under, say, J₃ whose eigenvalue lies in the range |j₃| ≤ j. The result is the familiar one from quantum mechanics: states are labelled by two quantum numbers |j,j₃⟩.
+
+Now let’s turn to the Poincaré group. The irreducible representations are what we call “particles”. Again, they are characterised by the Casimirs. I won’t tell you how to construct Casimirs, but will instead just present you with the result. First, we introduce the Pauli-Lubanski vector, Wµ = εµνρσPνMρσ. (1.22) This can be thought of as a relativistic version of angular momentum. You can easily check this commutes with momentum [Wµ,Pν] = 0. The remaining non-trivial commutation relations are somewhat more laborious to show: [Wµ,Mνρ] = i(ηµνWρ −ηµρWν) and [Wµ,Wν] = −iεµνρσWρPσ. (1.23)
+
+The last of these commutation relations is quadratic on the right-hand side and so we’re not looking at a Lie algebra here, but something more complicated. (This is reminiscent of the Runge-Lenz vector which is a conserved quantity for the Kepler problem; there too, the Poisson bracket structure returns something quadratic on the right-hand side.)
+
+The two Casimirs of the Poincaré group are formed from the momentum P and the Pauli-Lubanski vector W, C₁ = PµPµ and C₂ = WµWµ. (1.24)
+
+This is our starting point: representations of the Poincaré group are labelled by the eigenvalues of C₁ and C₂, together with the eigenvalues of any other operators that we can find to make a maximally commuting set, analogous to J for the angular momentum.
+
+The most important of these “other operators” is the momentum Pµ itself. All states will be labelled by the eigenvalue pµ which is simply the 4-momentum of the particle. The first Casimir is then just the rest mass of the particle, C₁ = pµpµ = m². By acting with rotations and boosts Mµν, we can change the momentum to take any value subject to the constraint pµpµ = m². In the rotation analogy, the different values of pµ are like the different values of j in the multiplet. However, in contrast to rotations, representations of the Poincaré group will necessarily be infinite dimensional, labelled (among other things) by the continuous variable pµ. This difference can be traced to the fact that the Poincaré group is non-compact while the rotation group is compact.
+
+What happens next depends on whether we’re dealing with massive or massless particles. We describe each in turn, followed by a somewhat mysterious massless representation that no one really knows what to make of.
+
+Massive Representations
+
+First, consider the situation when C₁ = m² ≠ 0. It’s fruitful to pick a representative value of the momentum pµ and the simplest choice is to boost to the rest frame of the particle so that pµ = (m,0,0,0). In this frame, the Pauli-Lubanski vector is W₀ = 0 and Wᵢ = −mJᵢ. (1.25) with Jᵢ the generators of rotations. Note that the rotation generators Jᵢ are precisely those elements of the Lorentz algebra that don’t change the value of our chosen momentum pµ = (m,0,0,0). That means that these generators Jᵢ must act on whatever other degrees of freedom are carried by the particles. We want to ask: what are the allowed extra degrees of freedom?
+
+But this is a question that we already answered above because our problem has reduced to finding a representation of the Lie algebra su(2), generated by Jᵢ. The second quadratic Casimir of the Poincaré group is C₂ = −m²J² and so is specified by the eigenvalue of J² which, as we reviewed above, is j(j+1) for some j ∈ Z. The full multiplet is then filled out by the different values of j with |j₃| ≤ j.
+
+We’ve seen that, if we fix the momentum to the specific value pµ = (m,0,0,0), then we’re left with finding representations of the rotation group. But, importantly, it doesn’t matter which value of the momentum we started with: had we picked a different pµ (still with pµpµ = m²), then we’d have got the same result. This suggests that we can lift the SU(2) representation that we found for our given pµ to a representation of the full Poincaré group. And, indeed, this is the case.
+
+There is a theorem underlying this result which we won’t prove. Instead, I’ll just give you some names of things. Once we fix the momentum pµ, the elements of the Lorentz group that don’t change pµ form a group known as the little group. For massive particles, the little group is SU(2). One can then show that representations of the little group uplift to representations of the full Poincaré group. This is what’s known as an induced representation.
+
+The upshot is something familiar: massive particles are characterised by their mass m and spin j. Given these Casimirs, states in this representation of the Poincaré group are labelled by |pµ,j₃⟩.
+
+Massless Representations
+
+The story is slightly different for massless particles, for which the first Casimir vanishes: C₁ = m² = 0. We again choose a representative momentum. This time we can’t boost to the rest frame, but we can choose the momentum to take the form pµ = (E,0,0,E) where E is the energy of the particle. A short calculation shows that, in this frame, the Pauli-Lubanski now takes the form W = E −M₁₂−M₂₃M₂₃M₃₁−M₀₂M₀₁−J₃J₁−K₂J₂+K₁J₃ = E −J₃−J₁−J₂K₂+J₁K₁+J₂J₃. (1.26)
+
+Here we’ve replaced the M with the appropriate rotation generator Jᵢ or boost generator Kᵢ defined in (1.8). Once again, each of the components of Wµ leaves our initial momentum pµ = (E,0,0,E) unchanged, a fact that you can check by looking at the explicit form of the generators (1.6). In other words, these components of Wµ are once again our little group. (This has happened twice now and it is no coincidence: the structure of the Pauli-Lubanski vector was designed so that this holds.)
+
+What group do the components of Wµ actually generate? We can look at their commutation relations which, using (1.9), are [W₁,W₂] = 0, [W₂,W₃] = −iEW₁, [W₃,W₁] = iEW₂. (1.27) This is the Euclidean group in R², sometimes written as ISO(2), with W₁ and W₂ the generators of translations and W₃ the generator of rotations. Again, the little group doesn’t act on our chosen pµ = (E,0,0,E), but it may act on any other degrees of freedom that our state carries. Said differently, those other degrees of freedom must fall into a representation of the 2d Euclidean g Group. Here a subtlety rears its head. For reasons that we will explain below, things turn out to be simplest if we consider representations of the little group on which the translation generators W₁ and W₂ act trivially. If we ignore these translations, the remaining little group is just the U(1) of rotations generated by J₃. Representations of this U(1) are labelled by a single eigenvalue h such that the states transform as e^{iθJ₃}|h⟩ = e^{ihθ}|h⟩ . (1.28)
+
+The eigenvalue h is called the helicity and is the analog of spin for massless particles. At times, we’ll be lazy and just refer to both as “spin”. For a general null p, the helicity tells us the eigenvalue of the state under a rotation along the direction of motion, e^{iθp̂·J}|p_μ; h⟩ = e^{ihθ}|p_μ; h⟩ . (1.29)
+
+Because the U(1) generated by J₃ was a subgroup U(1) ⊂ SU(2), we know that this helicity is quantised to take values h ∈ Z . (1.30)
+
+This is the statement that, under a rotation of θ = 2π, the states are either left the same (for h ∈ Z) or pick up a minus sign (for h ∈ Z+ 1/2).
+
+There’s something missing in the story above. For massive representations, we’ve seen that the states are labelled by m and j and fill out a multiplet |p_μ, j⟩ with |j₃| ≤ j. This multiplet has dimension 2j + 1. (Ok, the multiplet is really infinite dimensional because of the p_μ, but for a fixed p the multiplet has dimension 2j +1.)
+
+However, for massless particles there is just a single state |p_μ; h⟩. This is because the helicity describes the representation of the Abelian group U(1) generated by J₃ rather than the non-Abelian group SU(2) and irreducible representations of Abelian groups are one-dimensional.
+
+The problem with this is that it doesn’t fit with what we know about massless particles. For example, the photon has helicity h = 1 and has two polarisation states, as does a graviton with h = 2. A massless spinor with h = 1/2 also has two degrees of freedom. Why aren’t we seeing this doubling in our representation theory analysis?
+
+What we’re missing is the additional requirement that the spectrum of states is invariant under CPT. These are discrete symmetries that we will look at more closely in Section 1.4. For massive particles, this doesn’t buy us anything new: the set of states |p_μ, j⟩ is already invariant under CPT. However, for massless particles CPT flips h → −h and tells us that massless states must come in pairs |p_μ; h⟩ and |p_μ; −h⟩ . (1.31)
+
+This is the origin of the two polarisation states of the photon or graviton, or the two helicities of a massless Weyl spinor. Note that a massless scalar has helicity h = 0 and so is CPT self-conjugate. This means that there’s no requirement from CPT to add an additional degree of freedom in this case.
+
+We brushed over something above. When looking at massless representations, we found that the little group coincides with the 2d Euclidean group (1.27). But then, without justification, we restricted ourselves to representations on which the translation generators W₁ and W₂ act trivially. Here we give the justification.
+
+Let’s look at representations of the 2d Euclidean group (1.27) for which translations W₁ and W₂ act non-trivially. Because [W₁,W₂] = 0, we can simultaneously diagonalise these generators so that they act on states |w₁,w₂⟩ such that W_i |w₁,w₂⟩ = w_i |w₁,w₂⟩ for i = 1,2 . (1.32)
+
+The second Casimir is then C₂ = W_μ W^μ = −(w₁²+w₂²) . (1.33)
+
+For the massless representations above, we assumed that w₁ = w₂ = 0. Now we want to understand what happens when they are non-zero. Since C₂ is fixed, we write w₁ = ρcosα and w₂ = ρsinα with C₂ = −ρ² and we should think of the collection of states |w₁,w₂⟩ as parameterised by the angle α ∈ [0,2π) with the action W₁ |α⟩ = ρcosα|α⟩ and W₂ |α⟩ = ρsinα|α⟩ . (1.34)
+
+It remains to determine the action of W₃ = EJ₃ on these states. This is given by e^{iθJ₃}|α⟩ = e^{ihθ}|α+θ⟩  ⇒  J₃ |α⟩ = h|α⟩−i d/dα|α⟩ . (1.35)
+
+You can check that the actions (1.35) and (1.34) do indeed furnish a representation of the 2d Euclidean algebra (1.27). But, from the perspective of particle physics, it’s a very weird representation. This is because particle states |p_μ, α; h⟩ are labelled by their momentum p_μ and an additional angle α ∈ [0,2π). This means that for every choice of momentum p_μ, there’s still an infinite dimensional Hilbert space, labelled by the continuous parameter α rather than a discrete, bounded parameter like j. Said differently, it’s as if we have an uncountably infinite number of species of particle. These are known as continuous spin representations.
+
+We’ve certainly never observed particles corresponding to these states and they would have very strange properties (such as infinite heat capacity). Nonetheless, one can’t help but wonder if nature may make use of them somewhere.
+
+It’s not unusual for quantum field theories to exhibit further continuous symmetries. Say, a global U(1) symmetry that rotates the phase of a complex field, or perhaps a non-Abelian SU(N) symmetry under which a multiplet of fields transforms. The generators of these symmetries – which we’ll denote collectively as T – correspond to some conserved charge and are always Lorentz scalars which means that they necessarily commute with the Poincaré generators, [P_μ,T] = [M_{μν},T] = 0 . (1.36)
+
+One could ask: is it possible for something less trivial to happen, with the new generators transforming in some fashion under the Poincaré group? For example, this would happen if the additional generators T themselves carried some spacetime index. If this were possible, the Poincaré group would be subsumed into a larger group. And that sounds interesting.
+
+A theorem due to Coleman and Mandula greatly restricts this possibility. Roughly speaking, the theorem states that, in any spacetime dimension greater than d = 1+1, the symmetry group of any interacting quantum field theory must factorise as Poincaré × Internal . (1.37)
+
+We won’t prove the Coleman-Mandula theorem here. The gist of the proof is to look at 2-to-2 scattering (meaning two incoming particles scatter into two outgoing particles). Poincaré invariance already greatly restricts what can happen, with only the scattering angle left undetermined. Any internal symmetries that factorise, as in (1.37), put restrictions on the kinds of interactions that are allowed, for example enforcing conservation of electric charge. But if the generators T were to carry a spacetime index then they would put further constraints on the scattering angle itself and that would be overly restrictive, at best allowing scattering to occur only at discrete angles. But if one assumes that the scattering amplitudes are analytic functions of the angle then the amplitude must vanish for all angles and the theory is free.
+
+Like all no-go theorems in physics, the Coleman-Mandula theorem comes with a number of underlying assumptions. Some of these are eminently reasonable, such as locality and causality. But it may be possible to relax other assumptions to find interesting loopholes to the Coleman-Mandula theorem. Two such loopholes have proven to be extremely important.
+
+• Conformal Invariance: The Coleman-Mandula theorem assumes that the theory has a mass gap, meaning that all particles are massive. Indeed, the theorem is a statement about symmetries of the S-matrix which is really only well defined for massive particles where we don’t have to worry about IR divergences. For theories of massless particles something interesting can, and often does, happen.
+
+The first interesting thing is that interacting massless theories typically exhibit scale invariance. This means that physics is unchanged under the symmetry x_μ → λx_μ. The associated symmetry generator is called D for “dilatation”. This can only be a symmetry of a theory that has no dimensionful parameters, which is the main reason it can occur only for massless theories.
+
+The second interesting thing is more surprising. For reasons that are not entirely understood, theories that exhibit scale invariance also exhibit a further symmetry known as special conformal transformations of the form x_μ → (x_μ −a_μ x²)/(1−2a·x+a²x²) . (1.38)
+
+This transformation depends on a vector parameter a_μ and the associated generator is a 4-vector K_μ. The resulting conformal algebra extends the Poincaré algebra (1.18) and (1.19) with the non-trivial commutators [D,K_μ] = −iK_μ , [D,P_μ] = iP_μ [K_μ,P_ν] = 2i(D η_{μν} −M_{μν}) (1.39)
+
+[M_{μν},K_σ] = i(K_ν η_{μσ} −K_μ η_{νσ}) .
+
+Interacting conformal field theories crop up in many places in physics. In their Euclidean incarnation, they describe critical points, or second order phase transitions, that were the focus of our lectures on Statistical Field Theory. In d = 1+1 dimensions the conformal group has rather more structure and a detailed introduction can be found in the lectures on String Theory.
+
+• Supersymmetry: The second loophole to the Coleman-Mandula theorem is supersymmetry. This is a symmetry that relates bosons to fermions. The generator that enacts this magical transformation is denoted as Q and carries a spacetime spinor index α = 1,2. (We will learn more about spinors in Section 1.2.) This is exactly the kind of thing that the Coleman-Mandula theorem is supposed to rule out. However, supersymmetry evades the theorem because the generators Q do not form a Lie algebra: instead they form what is known as a super-Lie algebra, with the commutation relations of the Poincaré group (1.18) and (1.19) augmented by the anti-commutation relation {Q_α, Q̄_{α̇}} = 2σ^{μ}_{αα̇} P_μ . (1.40)
+
+Here σ^{μ}_{αα̇} are a collection of 2×2 matrices defined in (1.44). (We’ll see a lot more about what the α and α̇ spinor indices mean shortly.) You can learn (a lot!) more about this algebra and its consequences for various field theories in the lectures on Supersymmetry.
+
+Neither conformal symmetry nor supersymmetry play a role in the Standard Model. However, both arise in different ways when it comes to ideas for what lies beyond the Standard Model.
+
+## 1.2 Spinors
+
+Scalars are basic. They have no internal structure and, as such, come with very little baggage. There’s a lot of fun that we can have with them, largely by writing down potentials that do interesting things, and we’ll see examples of this when we discuss spontaneous symmetry breaking in Section 2. But there’s little that is subtle about scalars: what you see is what you get.
+
+In contrast, any field with higher spin is awash with subtleties. For massless spin 1 particles, like photons, these subtleties are all about gauge invariance and we will discuss them in Section 1.3. Here our interest is in spin 1 particles, known as spinors. These are the fields that describe all matter particles in the Standard Model, meaning the quarks and leptons. They are subtle largely because anything that comes back to itself with a minus sign after a 2π rotation is always going to be a little strange.
+
+1.2.1 Dirac vs Weyl Spinors
+
+We start by reviewing some features of spinors that we met in the lectures on Quantum Field Theory. However, our focus is going to be a little different. In particular, to prepare us for the Standard Model, we will need to look more closely at the properties of Weyl spinors.
+
+In the lectures on Quantum Field Theory, we learned about the 4-component Dirac spinor ψ. This comes hand in hand with a collection of gamma matrices that obey the Clifford algebra {γµ,γν} = 2ηµν . (1.41)
+
+The Clifford algebra admits a unique irreducible representation, up to conjugation. But that “up to conjugation” caveat hides all manner of headaches as it provides ample opportunity for physicists to use annoying conventions. Here we use the chiral basis of gamma matrices, γµ = ( 0 σµ ; σ¯µ 0 ) and γ5 = ( 1 0 ; 0 −1 ) (1.42)
+
+where we’ve introduced two collections of 2×2 matrices, σµ = (1,σi) and σ¯µ = (1,−σi) (1.43)
+
+where σi with i = 1,2,3 are the familiar Pauli matrices, σ1 = ( 0 1 ; 1 0 ), σ2 = ( 0 −i ; i 0 ), σ3 = ( 1 0 ; 0 −1 ). (1.44)
+
+The bar on σ¯µ in (1.43) doesn’t denote complex conjugation: these are simply a different collection of 2×2 matrices from σµ.
+
+In the Quantum Field Theory lectures, we showed that the generators of Lorentz transformations for a Dirac spinor are Sµν = (i/4)[γµ,γν] = ( i/2 σµν 0 ; 0 i/2 σ¯µν ). (1.45)
+
+(As with our earlier definition of Mµν, this differs by a factor of i from the conventions in the Quantum Field Theory lectures.) Here we’ve defined σµν = (σµσ¯ν −σνσ¯µ)/2 σ¯µν = (σ¯µσν −σ¯νσµ)/2. (1.46)
+
+Because both of these expressions are anti-symmetrised in µ and ν, each is a collection of six 2×2 matrices.
+
+The generators Sµν defined in (1.45) are block diagonal. This is telling us that they are not an irreducible representation of the Lorentz algebra. Instead, it’s formed of two distinct representations, one generated by σµν and the other generated by σ¯µν. Indeed, you can check that each of these obeys the Lorentz algebra (1.5)
+
+[σµν,σρσ] = i(ηνρσµσ −ηνσσµρ +ηµσσνρ −ηµρσνσ) (1.47)
+
+with a similar expression for σ¯µν. Correspondingly, the 4-component Dirac spinor ψ also decomposes into two 2-component spinors ψ = ( ψL ; ψR ). (1.48)
+
+These are referred to as left-handed and right-handed spinors respectively. In the language of our earlier table of representations (1.13), ψL sits in the (1/2, 0) representation while ψR sits in the (0, 1/2) representation. A Dirac spinor is a combination of both representations (1/2, 0)⊕(0, 1/2).
+
+Under a Lorentz transformation, a left-handed Weyl spinor transforms as ψL → SψL with S = exp(−i/2 ωµν σµν). (1.49)
+
+Here ωµν are the same set of six numbers that specify the Lorentz transformation (1.5). There is a similar expression for ψR, with σµν replaced by σ¯µν.
+
+You can check that trσµν = 0 and so, using det(eA) = etrA, we have detS = 1. In fact, S ∈ SL(2,C), and what we’ve done in constructing the Weyl spinor representation of the Lorentz group is highlight the group isomorphism Spin(1,3) ∼ = SL(2,C).
+
+(Left-Handed)⋆ = Right-Handed
+
+The two representations – one for a left-handed Weyl spinor, the other for a right-handed Weyl spinor – are related by complex conjugation.
+
+It’s not immediately obvious because, as we’ve seen, the generators are σµν and σ¯µν and it’s not true that these generators are complex conjugates: (σµν)⋆ ̸= σ¯µν. To see the relation, we need an additional conjugation by the anti-symmetric tensor ϵ = ( 0 1 ; −1 0 ). (1.50)
+
+You can then check that ϵT(σµν)⋆ϵ = σ¯µν . (1.51)
+
+Operationally, the complex conjugation flips the sign of (σ2)⋆ = −σ2 leaving the other Pauli matrices alone: (σi)⋆ = σi for i = 1,3. But the conjugation by ϵ = iσ2 then flips the sign of σi with i = 1,3, leaving σ2 alone.
+
+This simple algebraic relation has an important physical implication. If you have a left-handed particle described by a Weyl spinor ψL, then its anti-particle is described by the conjugate spinor ψ†L (which we also write as ψ¯L) and is right-handed.
+
+Building Scalars from Spinors
+
+If we’re given two left-handed spinors, ψL and χL, then we can build a scalar. We’ll adorn our spinors with indices, so we have (ψL)α and (χL)α with α = 1,2. We also add indices to our anti-symmetric matrix ϵαβ = ( 0 1 ; −1 0 ). (1.52)
+
+We then define the scalar quantity ψL χL := ϵαβ(ψL)β (χL)α = (ψL)2 (χL)1 −(ψL)1 (χL)2 . (1.53)
+
+To see that this does indeed transform as a scalar, we look at ψL χL → Sγ Sδ ϵαβ (ψL)β (χL)α = (detS)ϵγδ (ψL)β (χL)α = ψL χL (1.54)
+
+where, in the first equality we’ve used the fact that Sγ Sδ ϵαβ = detS ϵγδ, which you can confirm simply by checking all the cases γ,δ = 1,2. In the second equality we’ve used the fact that detS = 1.
+
+This is an important lesson: you can form a scalar from two left-handed spinors. In terms of the representation theory of the previous section, what we’re seeing here is the tensor product (1/2,0)⊗(1/2,0) = (0,0)⊕(1,0), where the scalar (1.53) picks out the singlet (0,0).
+
+The anti-symmetric tensor ϵαβ is an invariant tensor for the group SL(2,C). In that sense, it plays a role that is similar to the delta function δab for the group SO(N), or the Minkowski metric ηµν for the group SO(1,3). In particular, it allows us to form a scalar product between two spinors as in (1.53). The fact that this product is anti-symmetric, rather than symmetric, fits nicely with the fact that, in quantum field theory, spinors are anti-commuting variables whose components are Grassmann-valued. This means that we have, ψL χL = (ψL)2 (χL)1 −(ψL)1 (χL)2 = −(χL)1 (ψL)2 +(χL)2 (ψL)1 = χL ψL . (1.55)
+
+In particular, this means that we can form a scalar from just a single left-handed Weyl spinor ψL ψL = (ψL)2 (ψL)1 −(ψL)1 (ψL)2 = 2(ψL)2 (ψL)1 . (1.56)
+
+Again, there are similar expressions for right-handed spinors.
+
+There’s quite a bit more to say about the two different representations of the Lorentz algebra and their properties. You can read about this (and the corresponding dotted and undotted indices) in the first section of the lectures on Supersymmetry. But the simple summary above will suffice for our purposes.
+
+1.2.2 Actions for Spinors
+
+Our next goal is to understand how to construct Lagrangians for spinors. Again, our starting point will be the Dirac spinor that we met in Quantum Field Theory. There we saw that the Lorentz invariant action is SDirac = ∫ d4x ( iψ¯ γµ ∂µ ψ −Mψ¯ ψ ). (1.57)
+
+For a Dirac spinor, the bar notation means ψ¯ = ψ†γ0. Decomposed in terms of Weyl fermions (1.48), SDirac = ∫ d4x ( iψ¯L σ¯µ ∂µ ψL + iψ¯R σµ ∂µ ψR −M(ψ¯R ψL + ψ¯L ψR) ). (1.58)
+
+First an important, but trivial, notational point: the bar for a Weyl spinor means something different from a bar for a Dirac spinor. It is simply a more elegant way of writing ψ¯L = ψ†L.
+
+Second, note that the mass term couples the left- and right-handed Weyl spinors. Combining our observations above, we know that the complex conjugate ψR is a left-handed spinor, and so in writing ψR ψL we’ve combined two left-handed spinors into a scalar. Similarly, ψL ψR combines two right-handed spinors into a scalar.
+
+It’s worth pausing to look at the symmetries of the action (1.58). Crucially, these symmetries are different for massless and massive fermions. In the absence of the mass term, so M = 0, the action has a U(1)2 symmetry, under which the two fermions rotate separately, ψL → eiαψL and ψR → eiβψR. When we turn on the mass term, only the diagonal combination, with α = β survives. This is a general story, and one that will be particularly important for understanding the Standard Model: massless fermions always have more symmetries than massive fermions.
+
+The mass in (1.58) can take values M ∈ R. (There’s no positivity requirement.) Upon quantisation, with M ̸= 0, we get a particle of spin +1 and charge +1 under the surviving U(1), together with a distinct anti-particle of spin +1 and charge −1, both with mass |M|.
+
+The mass term in (1.58) which combines two different spinors, ψL and ψR, is known as a Dirac mass. It’s not the only thing we can write down. Suppose that we have just a left-handed spinor ψL. Then it’s perfectly possible to write down an action with a mass term, SWeyl = ∫ d4x ( iψ¯L σ¯µ ∂µ ψL + m/2 ψL ψL + m⋆/2 ψ¯L ψ¯L ). (1.59)
+
+This is known as a Majorana mass. Here we can take m ∈ C.
+
+Again, the massive theory has less symmetry than the massless theory, with the U(1) that rotates the phase of ψL broken when m ̸= 0. This means that there’s no U(1) quantum number to distinguish particles from anti-particles and, upon quantisation, the theory describes a single spin 1 particle with mass |m| that is now its own anti-particle.
+
+Because the Majorana mass term explicitly breaks the U(1) symmetry, it is not allowed if the U(1)
+
+is gauged. Relatedly, it’s not possible to write down such a term for any fermion ψ that transforms in a complex representation of a gauge group. It is, however, possible to write down such terms for fermions in real representations.
+
+## 1.3 Gauge Invariance
+
+In the Standard Model, forces are associated to massless spin 1 particles, known collectively as gauge bosons. As we now explain, much of the dynamics of these forces is fixed by gauge invariance.
+
+1.3.1 Maxwell Theory The key ideas of gauge invariance are familiar from electromagnetism. There, the fundamental field is the 4-vector A_μ(x), known as the gauge potential. Crucially, not all components of A_μ(x) are physical: instead, we should identify any two gauge potentials that are related by a gauge transformation of the form A_μ → A_μ + ∂_μ α (1.60)
+
+for any function α(x). The transformation (1.60) is sometimes called a gauge symmetry. It’s not a good name. A “symmetry” describes a situation in which two physically distinct configurations share the same physics. But that’s not what’s going on in (1.60). Instead, the two configurations related by a gauge transformation describe the same physical configuration. A fairly decent analogy is to think of two gauge potentials that are related by (1.60) in the same way as you would view two different coordinate systems. A much better name would be gauge redundancy.
+
+As we proceed, we’ll see that a great deal of the structure of the Standard Model is determined by the requirements of gauge invariance. Yet, in many ways, this is a strange idea on which to rest our most important theories of physics. Gauge invariance is, at heart, merely an ambiguity in how we choose to present the laws of physics. Why should it play such an important role?
+
+One reason is that the ambiguity allows us to demonstrate various properties that we care about but which, naively, might appear incompatible. These properties include Lorentz invariance and locality and, in the quantum theory, unitarity. We already got a glimpse of this in the lectures on Quantum Field Theory when we quantised Maxwell theory. One choice of gauge makes unitarity manifest while another makes Lorentz invariance manifest. The gauge ambiguity allows us to flit from one choice to another, allowing us to both have our cake and eat it.
+
+Relatedly, we know that the photon has two polarisation states. But try writing down a field which describes the photon that has only two indices and which transforms nicely under the SO(1,3) Lorentz group; it’s not possible. So instead we introduce the field A_μ which makes Lorentz invariance manifest and then use the gauge symmetry to kill two of four resulting states.
+
+The physical information in A_μ can be found in the field strength F_μν = ∂_μ A_ν − ∂_ν A_μ. (1.61)
+
+The field strength is invariant under the gauge transformation (1.60). The field strength houses the electric field E and the magnetic field B. If we write A_μ = (ϕ, A), then we have E = −∇ϕ − ∂A/∂t and B = ∇×A. (1.62)
+
+The dynamics of the gauge field is described by the action S_Maxwell = − ∫ d^4x F_μν F^μν. (1.63)
+
+The resulting equations of motion are ∂_μ F^μν = 0. (1.64)
+
+This coincides with two of the Maxwell equations: Gauss’ law ∇·E = 0 and Ampère’s law ∇×B = ∂E/∂t. The other two follow immediately from constructing F_μν in terms of the gauge potential. To see this, we first introduce the dual field strength ⋆F_μν = ϵ_μνρσ F^ρσ. (1.65)
+
+This is similar to F_μν, but with E and B swapped (one of them with a minus sign). Then, by the anti-symmetry of ϵ_μνρσ, together with the definition (1.61), we have the Bianchi identity ∂_μ ⋆F^μν = 0. (1.66)
+
+Expanding this out gives the remaining two Maxwell equations: the one that says magnetic monopoles don’t exist ∇·B = 0, and the law of induction ∇×E + ∂B/∂t = 0.
+
+The necessity to keep gauge invariance means that it’s not possible to augment the action (1.63) with a mass term of the form m^2 A_μ A^μ. This would break gauge invariance and cause trouble down the line. Naively, this would appear to guarantee that the photon must always be massless. In fact, there is a way to give the photon a mass, known as the Higgs mechanism. This will be discussed in Section 2.3.
+
+Coupling to Matter Underlying electromagnetism is a U(1) gauge group. That’s not so obvious in the description above, where the “symmetry” (really redundancy) manifests itself only as a shift of the gauge field (1.60) depending on a function α(x). However, the U(1)ness of electromagnetism becomes more apparent when we couple to charged fields.
+
+Fields that are charged under electromagnetism are necessarily complex. Consider, for example, a complex scalar field ϕ(x) of charge e. When the gauge field transforms as (1.60), the scalar field has a corresponding transformation ϕ → e^{ieα} ϕ. (1.67)
+
+Here we see the group emerging more clearly, with e^{ieα(x)} ∈ U(1). Because the transformation parameter α(x) is a function, we really have a U(1) symmetry/redundancy for each point x in space. This is what it means to have a U(1) “gauge group”: it is a much larger group than the global symmetries that appear elsewhere.
+
+We can construct theories that are invariant under the transformation (1.67) by replacing partial derivatives with the covariant derivative D_μ ϕ = ∂_μ ϕ − ieA_μ ϕ. (1.68)
+
+This has the nice property that D_μ ϕ transforms covariantly under a gauge transformation, a fact that requires a couple of quick lines of calculation: D_μ ϕ → (∂_μ − ieA_μ − ie∂_μ α) e^{ieα} ϕ = e^{ieα} (∂_μ − ieA_μ) ϕ = e^{ieα} D_μ ϕ. (1.69)
+
+The key to this calculation is that the derivative hitting e^{ieα} exactly cancels the shift of the gauge field (1.60). Taking the complex conjugate of (1.68), we have D_μ ϕ† = (∂_μ + ieA_μ) ϕ†. (1.70)
+
+From this, we see that the meaning of the covariant derivative D_μ depends on the object it’s hitting: it’s −ieA_μ for the scalar in (1.68), but +ieA_μ for the conjugate scalar in (1.70). You can check that, under a gauge transformation, D_μ ϕ† → e^{−ieα} D_μ ϕ†. This ensures that we can form a gauge invariant action S_scalar = ∫ d^4x ( D_μ ϕ† D^μ ϕ − V(|ϕ|^2) ), (1.71)
+
+where we take the potential to depend only on |ϕ|^2 = ϕ†ϕ. In particular, this means that we disallow terms in the potential of the form ϕ^2 + ϕ†^2 which are real but are not gauge invariant.
+
+If we have multiple scalar fields, then they can carry different charges. When the gauge group is U(1), these charges should be integer multiples of each other, meaning that each field transforms as ϕ → e^{ieqα} ϕ with q ∈ Z. (1.72)
+
+It is possible to write down theories in which the charges q are not integer valued. (For example, one could imagine one scalar field with q = 1 and another with q = 2.) Strictly, the gauge group should be viewed as R in this case, rather than U(1). The differences between a U(1) gauge group and an R gauge group are rather subtle, and manifest themselves only in the presence of magnetic monopoles, or in spacetimes of non-trivial topology. We won’t get into these issues here.
+
+Everything that we’ve said above for scalars also holds for fermions, both Weyl and Dirac. In either case, we replace the partial derivatives in the relevant action (either (1.59) or (1.58)) with covariant derivatives and off we go.
+
+1.3.2 A Refresher on Lie Algebras There is an important extension of Maxwell theory in which the gauge group U(1) is replaced by a compact Lie group G. Here we give a lightning review of the relevant aspects of Lie groups and Lie algebras.
+
+A Lie group is a group that is also a differentiable manifold¹. This means, among other things, that a group element is labelled by some continuous parameters. We’ve already met examples of Lie groups in both the rotation group and the Poincaré group.
+
+Lie groups have the property that, for elements continuously connected to the identity, we can write each U ∈ G as U = e^{iθ_A T_A} (1.73)
+
+Here the θ_A are just numbers that tell us which group element we’re working with, while the T_A are generators of the group. If you like, the T_A tell us the infinitesimal action of the group, with U ≈ 1 + iθ_A T_A + O(θ^2) when θ is small. A general group element (1.73) can then be constructed by exponentiating the infinitesimal action.
+
+It turns out that, with the exception of some global information, the structure of the Lie group is captured in the behaviour of those infinitesimal generators T_A. They form the associated Lie algebra 𝔤, given by [T_A, T_B] = i f_{ABC} T_C. (1.74)
+
+Here A,B,C = 1,...,dim G and f_{ABC} are the fully anti-symmetric structure constants which distill the information about the group G. The factor of i on the right-hand side is taken to ensure that the generators are Hermitian: (T_A)† = T_A.
+
+(Mathematicians usually prefer the convention where there is no i on the right-hand side and the generators are anti-Hermitian, largely because there are examples like SO(N) where everything in the game is real and a factor of i makes things needlessly complex. In contrast, physicists tend to include the factor of i on the right-hand side because they’re usually working in the realm of quantum mechanics where things will ultimately become complex anyway.)
+
+The T_A in (1.74) are abstract objects but we will shortly want to identify them with matrices. This means, among other things, that we want the commutator in (1.74) to have the same properties as matrix commutation, among them the Jacobi identity [T_A, [T_B, T_C]] + [T_B, [T_C, T_A]] + [T_C, [T_A, T_B]] = 0. (1.75)
+
+This puts constraints on the structure constants f_{ABC} which must, in turn, obey f_{ADE} f_{BCD} + f_{BDE} f_{CAD} + f_{CDE} f_{ABD} = 0. (1.76)
+
+¹For many physicists, Lie groups are the only groups they know. A mathematician friend of mine told me that a physicist’s definition of a finite group is a Lie group without manifold structure.
+
+G | SU(N) | SO(N) | Sp(N) | E_6 | E_7 | E_8 | F_4 | G_2 --- | --- | --- | --- | --- | --- | --- | --- | --- dim G | N^2 − 1 | ½N(N − 1) | N(2N + 1) | 78 | 133 | 248 | 52 | 14 dim F | N | N | 2N | 27 | 56 | 248 | 6 | 7
+
+Table 2. The classification of compact, semi-simple Lie algebras G, together with their dimension and the dimension of the fundamental representation F.
+
+We will be interested in simple, compact Lie groups. Here “simple” means that we don’t have any trivial U(1) factors floating around that commute with everything else. We can always include such factors if we wish (and we will wish for the Standard Model) but we’ll be best served if we ignore them at this stage. Meanwhile, “compact” means that if you continue to rotate in the group then you ultimately come back to where you started from (or close to where you started from). For example, the group of rotations is compact, while the Lorentz group is non-compact because if you keep boosting in a given direction then you just move faster and faster.
+
+There is a classification of simple compact Lie algebras. The possible options for the group G, together with the dimension of the group, are shown in Table 22. All of these groups are referred to as non-Abelian meaning that things don’t commute with each other. In contrast, U(1) is an Abelian group.
+
+As we mentioned above, the TA in (1.74) are initially viewed as just abstract objects. But it’s interesting to ask when they can take a more concrete form in the guise of matrices. These are the representations of the algebra. For each algebra, there is an infinite list of numbers which are the dimensions of the matrices that can be used to represent it. The smallest such (non-trivial) matrix is called the fundamental representation and we will denote it as F. The dimension of F for each Lie group G are also shown in Table 2.
+
+In what follows, we will (with a slight abuse of notation) use TA to refer to the generators of the fundamental representation. When we have occasion to use other representations R, we will refer to the generators as TA(R) (In later sections, we’ll also refer to these as TA.). In fact, for the Standard Model we will only need two different representations: the fundamental and the adjoint. The adjoint is a representation that has dimension dim(adj) = dimG with the generators given by TA(adj) = −ifABC. (1.77)
+
+BC Don’t be lulled into thinking that you don’t need to consider other representations: they will appear in other situations, including when we discuss flavour symmetry in QCD in Section 3.
+
+The Lie algebra comes with what, in fancy language, is called a Killing form. But, by the time we’re thinking about matrices, this Killing form is just the trace. The generators of any simple Lie algebra obey TrTA = 0. (This is what it means for the Lie algebra to be “simple”.) We take the generators in the fundamental representation F to satisfy TrTATB = δAB. (1.78)
+
+This can be viewed as tantamount to fixing the normalisation of the structure constants fABC. Having fixed the normalisation in the fundamental representation, other representations TA(R) will have different normalisations.
+
+Before we proceed, an example. The simplest non-Abelian Lie group is SU(2), which has dim(SU(2)) = 3 and structure constants given by fABC = ϵABC. In this case, the fundamental representation is (up to an overall normalisation) the 2×2 Pauli matrices TA = σA. (1.79)
+
+These indeed obey [TA,TB] = iϵABCTC, together with the normalisation condition (1.78).
+
+The group SU(3) also plays a prominent role in the Standard Model. (In fact, as we will see, it plays two prominent roles!) We will describe the structure constants and the generators in Section 3.
+
+1.3.3 Yang-Mills Theory Now we can turn to some physics. Yang-Mills theory is a generalisation of Maxwell theory in which the group U(1) is replaced by a simple, compact Lie group G. To specify the Yang-Mills theory, we need only specify the choice of G together with a coupling constant g > 0 that will dictate the strength of the interactions. (The coupling constant g plays the same role as the charge e in Maxwell theory. As we will later see, the phrase “coupling constant” is not particularly accurate because it will turn out not to be constant!)
+
+For each element of the algebra, we introduce a gauge field AA with A = 1,...,dimG. These are then packaged into the Lie algebra-valued gauge potential A = AATA (1.80)
+
+µ µ A down-to-earth perspective is to think of the TA as matrices in the fundamental representation. This means, for example, that for G = SU(N), the gauge potential A is a 4-vector where each component is a traceless N ×N matrix.
+
+The fields AA are collectively referred to as gauge bosons. (They have other, more specific, names in the Standard Model when we apply these ideas to the two nuclear forces.) As in Maxwell theory, not all the information in A is physical and any two field configurations related by a gauge transformation should be viewed as equivalent. This time, however, the gauge transformation is a little more intricate.
+
+The action of the gauge symmetry is associated to a Lie group valued function over spacetime, Ω(x) ∈ G. (1.81)
+
+The set of all such transformations is known as the gauge group. As in Maxwell theory, we will sometimes be sloppy and refer to the Lie group G as the gauge group, but strictly speaking it is the much bigger group of maps from spacetime into G. The action on the gauge field is A → ΩA Ω−1 + Ω∂ Ω−1. (1.82)
+
+µ µ µ The first term is the expected transformation for an adjoint-valued field. The second, inhomogeneous, term is an additional piece that is characteristic of gauge transformations.
+
+To make contact with gauge transformations in electromagnetism, suppose that we have G = U(1) and write Ω(x) = eieα(x). Then, using the fact that everything commutes, we have ΩA Ω−1 + Ω∂ Ω−1 = A +∂ α (1.83)
+
+µ µ µ µ and the gauge transformation (1.82) reproduces the familiar gauge transformation of Maxwell theory.
+
+As in Maxwell theory, we can construct a field strength. Here too there is an extra ingredient arising from the fact that A is a matrix and the generalisation of (1.61) is F = ∂ A −∂ A −ig[A ,A ]. (1.84)
+
+µν µ ν ν µ µ ν In contrast to Maxwell theory, the field strength includes a non-linear term, proportional to the coupling g. This will prove to be important: it is this non-linear term that makes Yang-Mills theory significantly richer and more interesting than Maxwell theory. Like A , the field strength is a Lie algebra-valued field and we could also expand it as F = FATA.
+
+µν µν So far, I’ve not explained why (1.84) is the right field strength. The main reason is that it transforms nicely under the gauge transformation (1.82)
+
+F → ΩF Ω−1. (1.85)
+
+µν µν To see this, you could just plug (1.82) into (1.84) but it’s mildly laborious; we will offer a shortcut to this result presently.
+
+The transformation (1.85) means that, in contrast to electromagnetism, the Yang-Mills “electric field” E = F and “magnetic field” B = −1ϵ F are not gauge i 0i i 2 ijk jk invariant. To construct something physical, you can multiply together some number of E and B and then take the trace, which ensures that the Ω and Ω−1 in (1.85) cancel and you get something gauge invariant. (You need something that is at least quadratic in F because, for simple Lie groups, TrF = 0.)
+
+µν µν The gauge transformations above involve the Lie group valued object Ω(x). But one of the key properties of Lie groups is that their structure is largely determined by the elements that are infinitesimally close to the identity. This suggests that it’s fruitful to look at gauge transformations that are everywhere close to the identity. These can be written as Ω(x) ≈ 1+igαA(x)TA +... (1.86)
+
+where the αA are taken to be everywhere small. From (1.82), the infinitesimal transformation of the gauge field is A → A +δA with µ µ µ δA = ∂ α−ig[A ,α] (1.87)
+
+µ µ µ where α = αATA is the Lie algebra-valued infinitesimal transformation. It’s convenient to write this as δA = D α where the covariant derivative is defined to be µ µ D α = ∂ α−ig[A ,α]. (1.88)
+
+µ µ µ This is the covariant derivative acting on the Lie algebra-valued (i.e. adjoint) field α. We’ll soon see different covariant derivatives acting on other representations.
+
+Now we can check how infinitesimal gauge transformations act on the field strength (1.84). We have δF = ∂ δA −∂ δA −ig[A ,δA ]−ig[δA ,A ]
+
+µν µ ν ν µ µ ν µ ν = D δA −D δA µ ν ν µ = [D ,D ]α. (1.89)
+
+µ ν We see that we’re left with the task of computing the commutator of two covariant derivatives, acting on the adjoint field α. This is a worthwhile and straightforward calculation. We have [D ,D ]α = −ig[F ,α]. (1.90)
+
+µ ν µν This gives δF = ig[α,F ] which is indeed the expected infinitesimal gauge transformation arising from (1.85).
+
+µν µν The Yang-Mills Action The dynamics of the Yang-Mills field is the obvious generalisation of the Maxwell action, S = − d4x TrFµνF . (1.91)
+
+YM µν Naively, the only difference lies in that overall trace, which ensures that the action is invariant under gauge transformations (1.85). This also accounts for the overall normalisation of the action, which comes with a factor of 1/2 rather than the 1/4 seen in (1.63) because an additional factor of 1/2 comes from the trace in (1.78). This means that the Yang-Mills and Maxwell action come with the same normalisation.
+
+However, the key difference between the two actions is buried in our notation: while the Maxwell action is quadratic in A , the Yang-Mills action includes terms that are cubic and quartic in A , both coming from the commutator in the definition of the field strength (1.84).
+
+The classical equations of motion are derived by minimizing the action with respect to each gauge field Aa. It is a simple exercise to check that they are given by D Fµν = 0. (1.92)
+
+µ Here the covariant derivative is defined as in (1.88): D Fµν = ∂ Fµν − ig[A ,Fµν].
+
+µ µ µ These are the Yang-Mills equations. In contrast to the Maxwell equations, they are non-linear. This means that the Yang-Mills fields interact with themselves.
+
+31 – There is also a Bianchi identity that follows from the definition (1.84) of F in terms of the gauge field. This is best expressed by first introducing the dual field strength ⋆Fµν = ϵµνρσFρσ. (1.93)
+
+and noting that this obeys the identity D ⋆Fµν = 0 . (1.94)
+
+Both (1.92) and (1.94) are non-linear equations. However, the non-linearities come in the form of commutators like [Aµ,Aν]. This means that if we focus on field configurations that sit purely within a subgroup U(1) ⊂ G, then the commutators vanish and the equations reduce to those of Maxwell theory. So although the general solutions to the Yang-Mills equations are surely complicated, we can always import any solution to Maxwell theory and embed it in some U(1). In particular, Yang-Mills theory admits solutions akin to electromagnetic waves that travel at the speed of light.
+
+Although we can always embed solutions of Maxwell theory in the Yang-Mills field, there’s nothing that tells us that these solutions are stable. For that, one has to work harder and look at fluctuations of the other fields that do not live in your favourite U(1). (For what it’s worth, a constant electric field is stable in Yang-Mills theory, while a constant magnetic field is unstable.) We won’t discuss these stability issues further in these lectures, largely because our interest lies in what happens in quantum Yang-Mills rather than in the classical theory.
+
+Just as for Maxwell theory, the need to keep gauge invariance means that we can’t add a mass term like AµAµ or TrAµAµ to the action (1.91). This strongly suggests that quantum Yang-Mills is, like Maxwell theory, a theory of massless particles. This strong suggestion is, it turns out, completely wrong! When we quantise the Yang-Mills action (1.91), we find a theory of interacting massive particles, rather than massless particles. The reason for this can be traced to the interaction terms in Yang-Mills, but is not fully understood. Indeed, proving it from first principles remains one of the most important open problems in mathematical physics. We will discuss this further in section 3.
+
+Coupling to Matter As with electromagnetism, we can couple the Yang-Mills field to matter. We do this by requiring that the matter fields live in some representation R of the gauge group. This means that the matter fields come in some vector of dimension dimR.
+
+For each such representation, we have generators TA(R) which we can think of as square matrices of dimension dimR. Dressed resplendent in all their indices, they take the form TA(R)a b with a,b = 1,...,dimR and A = 1,...,dimG . (1.95)
+
+Consider a scalar field in the representation R. Under a gauge transformation Ω(x) = eigαA(x)TA, the scalar transforms as ϕa → (ΩR)a b ϕb with (ΩR)a b = exp igαATA(R) . (1.96)
+
+Some representations R are real, and some are complex. For example, the fundamental representation of SU(N) is complex, and so ϕ must be a complex N-dimensional vector. Meanwhile, the adjoint representation of any group G is always real and, correspondingly, ϕ can be real.
+
+To write down an action for ϕ that is invariant under the gauge transformation (1.96), we follow our Maxwellian noses and construct the covariant derivative, Dµϕa = ∂µϕa −igAµATA(R)a b ϕb . (1.97)
+
+Under a gauge transformation, this covariant derivative transforms, as the name suggests, covariantly, meaning Dµϕa → (ΩR)a b Dµϕb . (1.98)
+
+We will later see that all matter fields in the Standard Model transform in the fundamental representation. For SU(N), this means that we can think of ϕa as an N-component complex vector, with a = 1,...,N, and write the covariant derivative in terms of the N ×N matrix-valued gauge field Aµ = AµATA, Dµϕa = ∂µϕa −ig(Aµ)a b ϕb . (1.99)
+
+This expression differs from our previous covariant derivative (1.88) because ϕ is in the fundamental representation, while α in (1.88) was in the adjoint. This highlights something we’ve stressed previously: the meaning of the covariant derivative depends on the representation of the object on which it acts. Once again, covariant derivatives do not commute. This time, for covariant derivatives acting on fundamental fields, we find [Dµ,Dν] = −igFµν. (1.100)
+
+This should be compared to the analogous result (1.90) for covariant derivatives acting on adjoint-valued fields.
+
+As before, it’s useful to check some of the formulae for infinitesimal gauge transformations. We have δAµ = Dµα, as in (1.87) and, from (1.96), δϕ = igαϕ. Then, suppressing the a = 1,...,N index, the covariant derivative (1.99) transforms as δ(Dµϕ) = ∂µδϕ−igδAµϕ−igAµδϕ = ig∂µ(αϕ)−ig(Dµα)ϕ+g2Aµαϕ = igα(∂µϕ−igAµϕ)
+
+= igαDµϕ. (1.101)
+
+This is, indeed, the infinitesimal version of the gauge transformation (1.98).
+
+With covariant derivatives that transform nicely, it’s straightforward to write down an action for the matter fields. As in electromagnetism, we just need to replace the partial derivatives in the action with covariant derivatives and we have something gauge invariant. This holds for scalars, Weyl fermions, and Dirac fermions.
+
+A Rescaling Above we’ve written the action so that the coupling constant g multiplies the non-linear terms. This means, in particular, that it makes an appearance in the field strength (1.84). It also appears, perhaps rather strangely, as the inverse 1/g in the gauge transformation (1.82).
+
+There is a different way to normalise the gauge field that, for many purposes, turns out to be more natural. We define the new gauge field ˜Aµ = gAµ and F˜µν = ∂µA˜ν −∂νA˜µ −i[A˜µ,A˜ν] . (1.102)
+
+We also define the rescaled gauge parameter α˜ = gα, so that the group element is Ω = eiα˜. This then eliminates the gauge coupling from all kinematic quantities like the field strength and covariant derivatives. The only place that the coupling shows up is in an overall coefficient multiplying the entire action, SYM = − 12 ∫ d4x TrFµνFµν = − 12g2 ∫ d4x TrF˜µνF˜µν . (1.103)
+
+In the first way of writing things, the coupling constant g sits in front of the non-linear terms, making it clear that it governs the strength of interactions. But it also governs the strength of interactions in the second way of writing things. To see this, note that in the Euclidean path integral, we sum over all field configurations weighted by e−S/ℏ. With the rescaling above, g2 sits in the same place in the action as ℏ, which suggests that g2 → 0 will be a classical limit. Heuristically you should think that, for g2 small, we pay a large price for field configurations that do not minimize the action; in this way, the path integral is dominated by the classical configurations. In contrast, when g2 → ∞, the Yang-Mills action disappears completely. This is the strong coupling regime, where all field configurations are unsuppressed and contribute equally to the path integral.
+
+The Analogy with General Relativity General Relativity is rightly lauded for the way it places geometry into the heart of physics. But the other laws of physics, which combine to form the Standard Model, are no less geometrical. Rather than arising from the geometry of spacetime, they instead arise from a slightly more subtle object known as a fibre bundle.
+
+We won’t describe the mathematics of fibre bundles in any detail in these lectures, but will instead just point out some analogies between the gauge theories discussed above and the differential geometry that underlies general relativity.
+
+One of the key ideas in general relativity is diffeomorphism invariance. This is the statement that physical quantities should not depend on the coordinates that we choose to describe them. Such coordinate transformations are analogous to gauge transformations in Yang-Mills theory.
+
+One of the most important objects in general relativity is the Levi-Civita connection Γµρν. Famously, this is not a tensor. Under a coordinate transformation x → x˜, with Ωµν = ∂xµ/∂x˜ν, (1.104)
+
+the Levi-Civita connection transforms as Γµρν → (Ω−1)µτ Ωσρ Ωλν Γσλτ +(Ω−1)µτ Ωσρ ∂νΩτ . (1.105)
+
+The first term is how a tensor would transform. The second term is independent of Γ and is the characteristic transformation of a connection. But this looks very similar to the transformation of the gauge field (1.82), Aµ → ΩAµΩ−1 + Ω∂µΩ−1 (1.106)
+
+where, again, there is a transformation that befits a tensor, supplemented with the additional derivative term ∂Ω. Indeed, this analogy can be made more precise, and mathematicians refer to the gauge field A as a connection. Both connections find their natural home inside covariant derivatives. In gauge theory, this is the D that we’ve already met, while in general relativity it is the object that acts naturally on vector fields Y, with (∇νY)µ = ∂νYµ + Γµνρ Yρ and is then extended to act on other tensor fields.
+
+Given a Levi-Civita connection, one can construct the Riemann curvature tensor Rσρµν. Rearranging some of the indices this can be written as (Rµν)σρ = ∂µΓσνρ −∂νΓσµρ +Γσµλ Γλνρ −Γσνλ Γλµρ . (1.107)
+
+Again, we see an immediate similarity with the construction of the field strength in Yang-Mills (1.84) which, including the a,b = 1,...,dimF indices, reads (Fµν)a b = ∂µ(Aν)a b −∂ν(Aµ)a b −ig(Aµ)a c (Aν)c b +ig(Aν)a c (Aµ)c b . (1.108)
+
+Mathematicians refer to both the Riemann tensor and the field strength Fµν as the curvature.
+
+## 1.4 C,P, and T
+
+Discrete symmetries play a crucial role in understanding the structure of the Standard Model. There are three that are particularly important: parity, charge conjugation, and time reversal. In this section, we describe each of these in turn. We end by explaining why the combination of all three is necessarily a symmetry of any local, relativistic quantum field theory.
+
+1.4.1 Parity Parity is an inversion of the spatial coordinates, P : (t,x) → (t,−x) . (1.109)
+
+This can be viewed as a Lorentz transformation, but not one that is continuously connected to the identity. Roughly speaking, the action of parity mimics what a system looks like reflected in the mirror. More precisely, a reflection is implemented by, say, R : (x,y,z) → (x,y,−z). The parity transformation (1.109), which is a reflection followed by a rotation by 180°, has the advantage that it treats all spatial coordinates on the same footing.
+
+(As an aside: one disadvantage of the parity transformation P : x → −x is that it only works when the number of spatial dimensions is odd. For example, in d = 2+1 dimensions, the transformation (x,y) → (−x,−y) is just a rotation by 180°. For this reason, if you’re discussing quantum field theories in different dimensions, it’s better to talk about reflections which flip the sign of just one spatial direction, rather than parity which flips all of them. In these lectures, we’ve got no interest in dimension hopping: our interest is strictly in the Standard Model and so we keep with the conventional definition of parity (1.109).)
+
+We would like to understand the circumstances under which a quantum field theory is invariant under parity, and how the fields transform. When we come to discuss the weak force in Section 5, we will find that the laws of our universe are not invariant under parity. This is a shocking statement. It means that given a solution to the equations of motion, the parity reflected evolution is not a solution!
+
+First, let’s ask how electromagnetic fields transform under parity. For this, we can look at the covariant derivative which, regardless of the object it acts on, takes the schematic form D_µ = ∂_µ − iA_µ. (1.110) This ties the behaviour of the gauge field to that of the derivative. Under a parity transformation ∂_0 is left unaffected, while the spatial derivatives ∂_i change sign. This tells us that parity must act as P : A_0 (t,x) → +A_0 (t,−x) and P : A_i (t,x) → −A_i (t,−x) . (1.111) Tracing this through to the definitions of the electric field E = −∇ϕ − ∂A/∂t and magnetic field B = ∇×A, we have P : E(t,x) → −E(t,−x) and P : B(t,x) → +B(t,−x) . (1.112) Vectors like E, which transform under parity in the same way as x are deemed worthy to keep the name “vector”. Meanwhile, vectors like B which don’t pick up a minus sign under parity are said to be pseudovectors. The most familiar examples of pseudovectors are the magnetic field and angular momentum L = x×p. These are also the two kinds of vectors that exhibit the most counterintuitive behaviour when we’re undergraduates. This is not a coincidence.
+
+In the quantum theory, the parity transformation is enacted by a unitary operator on the Hilbert space that we also call P. The fields A_µ(x) are now also operators and the transformation (1.111) becomes PA_0 (t,x)P† = A_0 (t,−x) and PA_i (t,x)P† = −A_i (t,−x) . (1.113) In what follows, we will flit between the description of parity and other discrete symmetries as a map, as in (1.111), and as an operator acting on a Hilbert space, as in (1.113).
+
+Next, we turn to spinors. It can be somewhat fiddly to figure out how spinors transform under various discrete symmetries, but it’s a topic that will play a crucial role as we proceed. The equation of motion for a left-handed massless Weyl spinor ψ_L is σ̄^µ ∂_µ ψ_L = 0 (1.114) where σ̄^µ = (1,−σ^i). Under a parity transformation, the spatial derivative changes sign and the Weyl equation (1.114) is not invariant. This is important: if we have just a single left-handed Weyl spinor ψ_L then this theory is not invariant under parity.
+
+We can rescue the situation if, in addition to our left-handed Weyl spinor ψ_L, we also have a right-handed Weyl spinor ψ_R. This obeys the equation of motion σ^µ ∂_µ ψ_R = 0 (1.115) where σ^µ = (1,σ^i). The different minus signs in σ^µ and σ̄^µ mean that we can compensate for a parity transformation if we also exchange left- and right-handed spinors, so that Pψ_L (t,x)P† = ψ_R (t,−x) and Pψ_R (t,x)P† = ψ_L (t,−x) . (1.116) There are also options to put different minus signs (and even phases) on the right-hand side as we describe below.
+
+As we’ve seen in Section 1.2.1, the two spinors ψ_L and ψ_R naturally sit in a Dirac spinor ψ = (ψ_L ,ψ_R)^T. The action of parity on Weyl spinors (1.116) translates into the action on the Dirac spinor Pψ(t,x)P† = γ^0 ψ(t,−x) with γ^0 = [[0,1],[1,0]]. (1.117)
+
+In the lectures on Quantum Field Theory, we saw that a stationary fermion is associated to a solution to the Dirac equation, where the spinor degrees of freedom take the form ψ = (ξ,ξ)^T. Here ξ is some 2-component spinor that tells us the orientation of the spin of the particle. Meanwhile, the solution corresponding to an anti-fermion takes the form ψ = (ξ,−ξ)^T. This means that the fermion has intrinsic parity +1 while the anti-fermion has intrinsic parity −1.
+
+Terms in the action are always constructed out of an even number of fermions. Given the transformation (1.117), we can look at the fate of various fermion bilinears under parity. You can check, for example, that P : ψ̄ ψ → ψ̄ ψ and P : ψ̄ γ_5 ψ → −ψ̄ γ_5 ψ (1.118) where we’ve suppressed the all-important spinor indices. We say that ψ̄ψ transforms as a scalar while ψ̄ γ_5 ψ transforms as a pseudoscalar. Similarly, you can check that ψ̄ γ^µ ψ is a vector while ψ̄ γ_5 γ^µ ψ is a pseudovector.
+
+You shouldn’t be too dogmatic about insisting that (1.116) and (1.117) are the definitive action of parity. Suppose that you have a Dirac fermion with action S = ∫ d^4x ( iψ̄ γ^µ ∂_µ ψ − M ψ̄ ψ ) . (1.119) Then this is invariant under parity with the transformation (1.117). Suppose, in contrast, that you’re given the action S = ∫ d^4x ( iψ̄ γ^µ ∂_µ ψ − M ψ̄ γ_5 ψ ) . (1.120) This is not invariant under (1.117) because the mass term is parity odd. Nonetheless, that doesn’t mean that the theory doesn’t have parity symmetry. We just need to look more carefully. You can check that the action (1.120) is invariant under the redefined parity transformation P′ψ(t,x)P′† = γ_5 γ^0 ψ(t,−x) . (1.121) In terms of Weyl fermions, this inserts an extra minus sign on the right-hand side of one of the transformations in (1.116). Ultimately, given a theory the aim is to find some parity transformation of the fields that leaves the action, and hence the equation of motion, invariant.
+
+So far, we haven’t discussed the action of parity on scalar fields. These are more malleable. Given a scalar field ϕ, the kinetic terms are invariant under either Pϕ(t,x)P† = ±ϕ(t,−x) . (1.122) In other words, the kinetic terms don’t distinguish between scalar (the plus sign) or pseudoscalar (the minus sign). Typically, this gets fixed when we look at the interaction of the scalar field with fermions. For example, a Yukawa term of the form ϕ ψ̄ ψ means that the scalar ϕ is parity even under the transformation (1.117) while a Yukawa term of the form ϕ ψ̄ γ_5 ψ means that ϕ is parity odd under (1.117).
+
+There are various pay-offs from understanding the way that parity is implemented in a theory. If a theory is invariant under parity then, as we’ve seen, we can assign transformation laws to the various fields. But, after quantisation, these fields give rise to particles. That means that different species of particles can be thought of as parity even or parity odd. Moreover, this concept of parity is conserved in all interactions and, like all conservation laws, this puts constraints on the kind of things that can happen.
+
+Perhaps surprisingly, it turns out that things are even more constrained when parity is not a symmetry of the theory! This is for a much more subtle reason known as an anomaly. We will discuss this in Section 4.
+
+1.4.2 Charge Conjugation
+
+Charge conjugation is an operation that switches particles with their anti-particles. If a theory is invariant under charge conjugation, then the laws of physics that govern particles coincide with those that govern anti-particles.
+
+This time we start with a complex scalar field ϕ, coupled to electromagnetism. It will prove simplest to look at actions, rather than equations of motion. Charge conjugation exchanges particles and anti-particles, so we want it to act as C : ϕ → ±ϕ† . (1.123) The ± ambiguity is like the ambiguity in the action of parity (1.122) and, as in that case, will typically be fixed by the interactions with other fields. In contrast, there’s no ambiguity about the action on the gauge field, which is fixed by looking at the covariant derivatives, D_µ ϕ = (∂_µ − ieA_µ)ϕ and D_µ ϕ† = (∂_µ + ieA_µ)ϕ†. This means that any transformation (1.123) must be accompanied by C : A_µ → −A_µ . (1.124)
+
+As for parity, we can also think of charge conjugation as a quantum operator C, in which case (1.123) and (1.124) are replaced by CϕC† = ±ϕ† and CA_µ C† = −A_µ respectively. For non-Abelian gauge fields, charge conjugation acts as CA_µ C† = −A_µ†.
+
+Again, the story for spinors is a little more fiddly. We’ll start by looking at a Dirac spinor, rather than a Weyl spinor. The Dirac equation is iγ^µ (∂_µ − ieA_µ)ψ − Mψ = 0 . (1.125) We will look for an action of charge conjugation that transforms the spinor to C : ψ → C ψ⋆ . (1.126) Here C on the right-hand side is a 4 × 4 matrix that allows for the possibility that the components of the spinor get mixed up under charge conjugation. Note that we’ve written the transformed spinor as ψ⋆, rather than ψ†, to emphasise that it remains a “column vector” rather than a “row vector”. (Of course, it’s not really a vector at all. It’s a spinor!)
+
+The question is: what choice of C ensures that the transformation (1.126), combined with (1.124), is a symmetry? First, we take the complex conjugate of the equation of motion (1.125): −i(γ^µ)⋆ (∂_µ + ieA_µ) ψ⋆ − M ψ⋆ = 0 . (1.127) This is the equation that ψ⋆ obeys. Next, we compare this to what we get if we act with charge conjugation on the original equation (1.125): iγ^µ (∂_µ + ieA_µ) C ψ⋆ − M C ψ⋆ = 0 =⇒ i C† γ^µ C (∂_µ + ieA_µ) ψ⋆ − M ψ⋆ = 0 .
+
+We see that (1.128) coincides with (1.127) provided that the charge conjugation matrix C obeys C†γµC = −(γµ)⋆. (1.129)
+
+The charge conjugation matrix depends on your chosen basis of gamma matrices. For the chiral basis of gamma matrices (1.42), all gamma matrices are real except for γ2 which is pure imaginary. This means that we should take C = ±iγ2, and the action of charge conjugation is C : ψ ↦ ±iγ2ψ⋆ with γ2 = (0 σ2; −σ2 0). (1.130)
+
+For theories that are invariant under charge conjugation, we can assign an eigenvalue C = ±1 to each particle, usually referred to as C-parity. As with actual parity, P, this new quantum number restricts the possible interactions. For example, it turns out that the neutral pion π0 has C = +1 while, from (1.124), the photon necessarily has C = −1. This means that the decay to two photons, π0 −→ γ + γ, is allowed (and indeed, happens over 98% of the time). But the decay to three photons, π0 −→ γ+γ+γ is forbidden on symmetry grounds.
+
+If we decompose the Dirac fermion into its two Weyl components, ψ = (ψL,ψR)T, then we can read off from (1.130) the action of charge conjugation on Weyl spinors, C : ψL ↦ ±iσ2ψ⋆R and C : ψR ↦ ∓iσ2ψ⋆L. (1.131)
+
+We see that charge conjugation, like parity, involves an exchange of two Weyl spinors. A theory with just a single Weyl fermion is invariant under neither parity nor charge conjugation. However, there’s still hope if we combine the two symmetries. We can take the combined action from (1.116) and (1.131) to be CP : ψL (t,x) ↦ ∓iσ2ψ⋆L(t,−x) and CP : ψR (t,x) ↦ ±iσ2ψ⋆R. (1.132)
+
+A Weyl fermion coupled to a gauge field is invariant under CP. However, as we will see later, it’s quite possible for this symmetry to be violated by other interaction terms (for example, Yukawa interactions between fermions and scalars).
+
+1.4.3 Time Reversal Our final discrete symmetry is time reversal, which acts on spacetime coordinates as T : (t,x) ↦ (−t,x). (1.133)
+
+There’s a subtlety in implementing time reversal symmetry in quantum theories. This manifests itself already in the simplest quantum mechanical systems like, say, a free particle moving in R3. The Schrödinger equation for the wavefunction Ψ takes the form i ∂Ψ/∂t = −∇2Ψ. (1.134)
+
+Now compare this to the heat equation that describes how conserved quantities, such as temperature T, diffuse in a system ∂T/∂t = ∇2T. (1.135)
+
+The heat equation most certainly isn’t time reversal invariant since the left-hand side picks up a minus sign, while the right-hand side does not. That’s to be expected: after all, diffusion is a process that increases entropy and there’s a clear arrow of time as things spread out. In contrast, there’s no increase in entropy for a single quantum particle and we do expect the physics to be invariant under time reversal. Yet the Schrödinger equation is almost identical to the heat equation in structure. How can one be time reversal invariant, and the other not?
+
+Almost identical, but not quite. The key is that factor of i in the Schrödinger equation that is not there in the heat equation. Suppose that Ψ(t) is a solution to the Schrödinger equation. Then Ψ(−t) is not a solution but the factor of i means that Ψ⋆(−t) is. That’s the clue that we need: time reversal in quantum mechanics acts as T : Ψ(t) ↦ Ψ⋆(−t). (1.136)
+
+Viewed as an operator acting on the Hilbert space, this complex conjugation translates into the requirement that T is an anti-unitary operator, rather than the more familiar unitary operator. This means that, acting on states, we have T(α|ψ1⟩+β|ψ2⟩) = α⋆T|ψ1⟩+β⋆T|ψ2⟩. (1.137)
+
+In addition, the operator obeys ⟨Tψ1|Tψ2⟩ = ⟨ψ1|ψ2⟩⋆. (1.138)
+
+See the lectures on Topics in Quantum Mechanics for more discussion of the action of the time reversal in quantum mechanics.
+
+This anti-linear behaviour changes some of the transformation properties of fields. For example, you might naively think, following (1.111), that A0 would be odd under time reversal and Ai even. But, in fact, it’s the opposite way around because there’s an additional factor of i in the covariant derivative Dµ = ∂µ − ieAµ which gets conjugated. It means that the action of time reversal on the gauge field is T : A0 (t,x) ↦ +A0 (−t,x) and T : Ai (t,x) ↦ −Ai (−t,x). (1.139)
+
+Tracing this through to the electric field E = −∇A0 − ∂A/∂t and magnetic field B = ∇×B, we have T : E(t,x) ↦ +E(−t,x) and T : B(t,x) ↦ −B(−t,x). (1.140)
+
+This makes sense: it’s the same transformation that we get from the Lorentz force law mx¨ = q(E+x˙ ×B).
+
+What about fermions? Once again, the action of time reversal can mix the different components of a Dirac spinor. As we now show, it turns out that (for our chiral basis of gamma matrices (1.42)) the correct transformation is T : ψ(t,x) ↦ Θψ(−t,x) where Θ = γ1γ3. (1.141)
+
+As for other transformations, we could also include a minus sign on the right-hand side. To see that (1.141) is indeed a symmetry, consider the action of time reversal on the Dirac equation (1.125). Remembering that time reversal also acts by complex conjugation (so, for example, changes γµ to (γµ)⋆), we have (−i(γ0)⋆D0 + (γi)⋆Di) Θψ − MΘψ = 0 ⇒ iΘ−1 ((γ0)⋆D0 − (γi)⋆Di) Θψ − Mψ = 0. (1.142)
+
+This gives us back the original Dirac equation if the matrix Θ obeys Θ−1(γ0)⋆Θ = γ0 and Θ−1(γi)⋆Θ = −γi. (1.143)
+
+It’s simple to check that, for the chiral basis of gamma matrices (1.42), Θ = γ1γ3 does the job. We can also translate this to the action on the component Weyl spinors ψ = (ψL,ψR)T, T : ψL (t,−x) ↦ −iσ2ψL(−t,x) and T : ψR (t,x) ↦ −iσ2ψR(−t,x). (1.144)
+
+We see that time reversal, like CP, does not mix the left- and right-handed Weyl spinors.
+
+What would it mean for a quantum field theory to break time-reversal invariance? It sounds rather cool. In practice, however, a breaking of time reversal manifests itself in rather mundane ways. One simple example is the presence of an electric dipole moment for particles. Recall from the lectures on Electromagnetism that an electric dipole moment arises from two, equal and opposite, closely separated charges and gives rise to an electric field that drops off as 1/r3.
+
+The dipole moment points in a particular direction. For an elementary particle, this direction must align with the spin otherwise the particle would pick a preferred direction in space and so break Lorentz invariance. But the spin and dipole moment transform differently under both parity and time-reversal. To see this, recall that spin S is a form of angular momentum L = mx × x˙, which is even under parity and odd under time reversal. Hence, we have P : S ↦ S and T : S ↦ −S, P : E ↦ −E and T : E ↦ E. (1.145)
+
+This means that discovery of a dipole moment for a fundamental particle would imply that the laws of physics break both parity and time reversal invariance. The search for the electric dipole moment of the neutron remains one of the most direct ways to test for time-reversal breaking in the strong nuclear force. So far, no such breaking has been found. (We discuss this further in Section 3.4.) As we will see later, the weak force does break both parity P and, to a lesser extent, time reversal T. This results in a theoretical prediction for the electric dipole moment of the electron, albeit one that is far below current experimental bounds.
+
+1.4.4 CPT There are theories that are invariant under our three discrete symmetries, C, P and T, and other theories that break them. As we will see, the Standard Model is in the latter class and all three symmetries are broken.
+
+However, there is a theorem that says that all relativistic quantum field theories must necessarily be invariant under the combined action of CPT. In other words, if you look at anti-particles in the mirror, with their motion reversed, then you will have a symmetry on your hands.
+
+One somewhat workaday proof of the CPT theorem is to simply write down all possible Lorentz invariant terms and check that they are indeed invariant under CPT. As we’ve seen, the most subtle transformations are those of spinors. For example, combining our previous results (1.117), (1.126) and (1.141), we find that a Dirac spinor is transformed by the anti-unitary operation CPT : ψ(x) ↦ −γ5ψ⋆(−x) with γ5 = (1 0; 0 −1). (1.146)
+
+You can check that all fermion bilinears are invariant under this transformation. For example, ψ¯ψ = ψ†γ0ψ ↦ ψTγ5γ0γ5ψ⋆ = −ψTγ0ψ⋆ = ψ¯ψ (1.147)
+
+where, in the final equality, we reordered the fermions and picked up a minus sign for our troubles due to their Grassmann nature. The pseudoscalar ψ¯γ5ψ is also invariant by a similar argument, while both ψ¯γµψ and ψ¯γµγ5ψ transform as vectors, rather than pseudovectors (meaning that they pick up minus signs) which ensures that any kinetic term we write down is invariant. (For this, you will need to use the fact that γ1T = −γ1 and γ3T = −γ3 while γ0T = γ0 and γ2T = γ2.)
+
+A slightly more elegant, but not entirely convincing, demonstration of CPT follows from Wick rotating to Euclidean space. Here we sketch the basic idea. The full Lorentz group in Minkowski space is really O(1,3) and contains four disconnected components, with the actions of parity and time reversal taking us from one component to the other. In contrast, in Euclidean space the group becomes O(4) and this contains only two disconnected components. If you follow the Lorentzian CPT under a Wick rotation, it becomes simply a rotation in SO(4), i.e. a transformation that is connected to the identity. (The need to include C here is roughly because particles are like anti-particles travelling backwards in time.) This means that if your Euclidean theory is to have SO(4) rotational invariance, then your Lorentzian theory must enjoy CPT.
+
+The statement that CPT is a symmetry of all rel Relativistic quantum field theories is something that we can test. Here’s an example from neutrino physics. We will learn later that neutrinos oscillate from one flavour to another as they travel through space. So, for example, a muon neutrino νµ will have some probability to convert into an electron neutrino νe, a process that we write as νµ −→ νe . (1.148) We could also consider the CP conjugate process, namely ν¯µ −→ ν¯e . (1.149) There is no reason for the amplitudes for these two processes to be equal if CP is broken. However, there is also the time reversed process of (1.148) νe −→ νµ . (1.150) This too may have a different amplitude to (1.148) if time reversal is broken. However, CPT tells us that the amplitude for (1.149) and the amplitude for (1.150) are necessarily equal. Indeed, all experimental tests so far have failed to find any violation of CPT.
+
+2 Broken Symmetries
+
+Global symmetries have two important roles to play in physics. First, they lead to conservation laws through Noether’s theorem. Second, if the symmetry is non-Abelian then it leads to a degeneracy in the spectrum, as the states of the theory necessarily furnish a representation of the symmetry. This is familiar from the quantum treatment of the hydrogen atom where states sit in multiplets of the SO(3) rotation group of dimension 2l+1 where l is the angular momentum.
+
+But there are other ways in which symmetries can affect the dynamics of a theory. And this happens when symmetries are “broken”.
+
+There are actually two different meanings to the phrase “broken symmetry”, both of which arise in the context of the Standard Model. The first, sometimes called explicit breaking, is when there are terms in the action that are not invariant under the symmetry. Strictly speaking, this is the same as not having a symmetry at all. But the symmetry can still be a useful fiction if the terms that break it are, in some sense, small so that we have an approximate symmetry. In this case, it might be that some quantity is almost conserved, meaning that violations of the conservation law happen rarely. Or it could be that the degenerate multiplets that arose when the symmetry was exact are split by some small amount. This happens, for example, if we place the hydrogen atom in a magnetic field so that the rotation symmetry is broken. Then the 2l+1 states which were previously all degenerate get slightly split by the Zeeman effect.
+
+In the Standard Model, we will see several examples of approximate symmetries, including isospin and its extension to an SU(3) flavour symmetry known as the eightfold way, as well as chiral symmetry. Both of these will be explained in section 3.
+
+The second meaning of the term “broken symmetry” refers to a more subtle and, ultimately, more powerful phenomenon. This arises when the theory is invariant under a symmetry, but the ground state is not. This situation is referred to as spontaneous symmetry breaking. The purpose of this section is to explain when this happens and what the consequences are.
+
+Spontaneous symmetry breaking is one of those lovely ideas that crosses into many different areas of physics. It was one of the major themes of the lectures on Statistical Field Theory where it underlies Landau’s theory of phase transitions. It also arises in many places in condensed matter physics, from magnets to superconductors. For example, sound waves in a solid can be viewed as the consequence of spontaneous breaking of translation symmetry by the underlying lattice. Spontaneous symmetry breaking also occurs in at least two different contexts in the Standard Model.
+
+## 2.1 Discrete Symmetries
+
+The idea of spontaneous symmetry breaking is not something new: it appears in some simple classical mechanics systems.
+
+Consider a real, classical degree of freedom ϕ(t) with action given by S = ∫ dt ( (1/2) ϕ˙² − V(ϕ) ) with V(ϕ) = (m²/2) ϕ² + (λ/4) ϕ⁴ . (2.1) In Newtonian mechanics, we would think of ϕ(t) as the position of a particle and usually denote it as x(t). We’re going to avoid calling the degree of freedom x because we’ll soon make the leap to field theory where x becomes an argument of the field, ϕ(x,t). But you should feel free to think of ϕ(t) as the position of a particle.
+
+The potential (2.1) enjoys a discrete Z symmetry under which Z : ϕ (cid:55)→ −ϕ . (2.2) In classical mechanics, where ϕ is the position of the particle, this symmetry is called “parity” but we’ll avoid this name because, again, in the context of field theory parity acts differently (as we saw in Section 1.4).
+
+We will assume that λ > 0. In that case, the issue of spontaneous symmetry breaking is all about the sign of the first term in the potential. When m² > 0, the potential has a minimum at ϕ = 0. This is the one point that is invariant under the symmetry ϕ (cid:55)→ −ϕ and we say that the symmetry is unbroken.
+
+In contrast, if m² < 0 then the ϕ² term in (2.1) comes with a negative coefficient and the point ϕ = 0 is now a local maximum rather than a minimum, as shown in the figure. This is the double well potential. The minimum lies at ϕ = ±v ≡ ±√(−m²/λ) . (2.3) We see that two related things occur. First, there is not a unique ground state: there are two. Second, neither ground state is invariant under the Z symmetry (2.2). Instead, the symmetry exchanges the two ground states. This is our first, admittedly somewhat trivial, example of spontaneous symmetry breaking. But there is an important lesson that will carry over to more complicated situations: if a discrete symmetry is spontaneously broken, then the theory has multiple, ground states with a potential barrier between them. Acting with the symmetry then transforms us among the ground states.
+
+Suppose that you sit in one of the two ground states, and look only at small oscillations about the minimum. What do you see? We write the potential (2.1) as V(ϕ) = (ϕ² − v²)² + constant . (2.4) We take ourselves to sit near the ground state ϕ = +v and expand ϕ(t) = v + σ(t) . (2.5) We can then substitute this back into the potential (2.4) to get V(σ) = (2vσ + σ²)² = λ (v²σ² + vσ³ + (σ⁴)/4) + constant . (2.6) We see that, while the full potential V(ϕ) has the Z symmetry, if you’re trapped near one of the minima then you know nothing about it. The action for small oscillations includes the σ³ term and most certainly isn’t invariant under σ (cid:55)→ −σ. This is the sense in which the Z symmetry is hidden, or broken, about any given ground state. The consequence of the symmetry, when broken, is only to generate multiple ground states.
+
+2.1.1 Quantum Tunnelling
+
+The discussion above is straightforward enough and holds for classical particle mechanics. But quantum mechanics brings an extra twist. This is because there is no spontaneous symmetry breaking in quantum mechanics! The ground state is always invariant under the Z symmetry. In fact, all energy eigenstates are invariant under the Z symmetry.
+
+You might be tempted to construct a ground state that is localised near one or other of the minima, say a wavefunction of the form ψleft (ϕ) ≈ exp( −(λv/2)(ϕ+v)² ) or ψright (ϕ) ≈ exp( −(λv/2)(ϕ−v)² ) . (2.7) But neither of these are eigenstates of the Z symmetry, and neither are eigenstates of the Hamiltonian. Indeed, if you were to place the system in, say, ψleft (ϕ) then the wavefunction will leak through the barrier in a process known as quantum tunnelling.
+
+Instead, the true ground state wavefunction takes the approximate form ψground (ϕ) ≈ ψleft (ϕ) + ψright (ϕ) . (2.8) The ground state has no zeros other than at ϕ → ±∞. Meanwhile, the first excited state is ψexcited (ϕ) ≈ ψleft (ϕ) − ψright (ϕ) . (2.9) This has a single node, meaning that it crosses the axis once. The nth excited state has n nodes. (See the lectures on Quantum Mechanics for more discussion of these facts.) The ground state and first excited state are shown in Figure 2.
+
+There is another way to see tunnelling that will prove useful when we turn to quantum field theory shortly. We want to compute the amplitude for a particle to start in one minimum, say ϕ = −v, and end up at the other minimum ϕ = +v. We can do this using the path integral. After Wick rotating to work with imaginary time τ = it, we have ⟨+v|e^(−Hτ)|−v⟩ = ∫ Dϕ e^(−SE[ϕ]) . (2.10) Here SE[ϕ] is the “Euclidean action”, meaning that it differs from (2.1) by a minus sign. SE[ϕ] = ∫ dτ ( (1/2) ϕ˙² + V(ϕ) ) . (2.11) To compute the amplitude (2.10), we should evaluate the path integral on paths that start in the left-hand vacuum and end up at the right-hand vacuum. We can get some intuition for this by noting that the Euclidean action (2.11) simply flips the sign of the potential term, so if we wished to view it as a classical mechanics system then it describes a particle rolling in the inverted potential −V(ϕ). We’re then looking for paths that start perched on the left-hand peak, roll down to the minimum, and then rise again to end on the right-hand peak, as shown in the figure. The path integral instructs us to integrate over all such paths. But, in the saddle point approximation, we expect the dominant contribution to come from paths that obey the classical equation of motion, ϕ¨ = λϕ(ϕ² − v²) . (2.12) This equation has a rather nice analytic solution that does what we want, namely ϕcl(τ) = v tanh( √(λv²/2) τ ) . (2.13) The profile is shown in the figure to the right. It interpolates from ϕ = −v to ϕ = +v, with the interesting stuff happening over a time period Δτ ∼ 1/√(λv²) ∼ 1/|m|. We can evaluate the Euclidean action (2.11) on this solution to get SEcl = ∫_{−∞}^{+∞} dτ ( (1/2) ϕ˙cl² + λ(ϕcl² − v²)² ) = ∫_{−∞}^{+∞} dτ ( λv⁴ / (2 cosh⁴(√(λv²/2)τ)) ) = 2√λ v³ . (2.14) This can be viewed as a measure of how difficult it is to tunnel under the barrier. As the barrier gets bigger (so λ increases...
+
+ses) or the minima get further apart (sov2 increases), the classical action S also increases. This then gives our first guess at the amplitude to tunnel from one minimum to the other, lim⟨+v|e−Hτ|−v⟩ = Ke−S cl. (2.15)
+
+τ→∞ Here K is some overall constant that masks all manner of sins that we’ve swept under the rug. In fact, to do this calculation correctly, we should really be summing over trajectories that bounce back and forth many times. One then finds, in the limit of large T, that you have just as much chance of being in the vacuum ϕ = −v as you do of being in the vacuum +v. This is the statement that there is no spontaneous symmetry breaking in quantum mechanics. Moreover, you find that the energy difference between the ground state and first excited state is given by E excited − E ground ≈ λv2e−S cl. (2.16)
+
+The splitting of the two states is exponentially suppressed.
+
+With these ideas in mind, we can now return to what we really care about: quantum field theory.
+
+2.1.2 Discrete Symmetry Breaking in Quantum Field Theory We now extend our double well discussion to field theory. Now ϕ(x) is a function of spacetime. The action (2.1) is replaced by S = ∫ d4x ( ½ ∂μ ϕ ∂µϕ − V(ϕ) ) with V(ϕ) = ½ m2 ϕ2 + (λ/4) ϕ4. (2.17)
+
+Again, we have a Z symmetry ϕ → −ϕ and, when m2 < 0, we have a double well potential with two minima at ϕ = ±v = ±√(−m2/λ). We want to ask: is this symmetry spontaneously broken or not?
+
+Quantum field theory is an extension of quantum mechanics (the clue is in the name) so we might think that tunnelling would again mean that there is no spontaneous symmetry breaking. But that’s not the way things work. This is one situation where field theory differs from quantum mechanics and our classical intuition is better. The quantum field theory really does have two ground states, in which the vacuum expectation value of the field is given by ⟨ϕ⟩ = ±v. (2.18)
+
+To see why quantum field theory is different from common or garden quantum mechanics, we can return to the tunnelling calculation that we saw above. We can again compute the amplitude to go from one putative ground state to another, ⟨+v|e−Hτ|−v⟩ = ∫ Dϕ e−SE[ϕ]. (2.19)
+
+The Euclidean action SE[ϕ] is now SE[ϕ] = ∫ dτ d3x ( ½ ∂μ ϕ ∂µϕ + V(ϕ) ). (2.20)
+
+In the saddle point approximation, the amplitude is dominated by the classical solutions which obey ∂2ϕ = λϕ(ϕ2 − v2). (2.21)
+
+This is the same as (2.12), but with the ϕ term replaced by the Laplacian on (Euclidean) spacetime, ∂2 = ∂2 + ∇2. We still have the same solution as before, ϕ cl(τ) = v tanh( τ √(λv2) ). (2.22)
+
+The field varies in (Euclidean) time τ but is constant in space. So far, everything runs in parallel to the quantum mechanics argument. But now we compute the classical action of this solution. It is S = ∫ dτ d3x ( ½ ∂μ ϕ cl ∂µ ϕ cl + V(ϕ cl) ) = V S cl. (2.23)
+
+Here S cl is the quantum mechanical action (2.14) while V is the volume of space. But, if we’re working in uncompactified Minkowski space then V = ∞. This means that both the tunnelling amplitude (2.15) and the energy splitting of the ground states (2.16) are proportional to e−V S cl → 0 as V → ∞. (2.24)
+
+It’s obvious what’s going on here. In quantum field theory, the ground state of the field in one minimum is, say, ϕ(x) = +v for all x. If you want to tunnel to the other minimum, ϕ(x) = −v, then you have to shift the value of the field at every point in space. But that takes effort and quantum tunnelling is not up to the task. It costs an infinite amount of action and so does not occur.
+
+This means that while discrete symmetries cannot be spontaneously broken in quantum mechanics, they can be broken in quantum field theory. The suppression is by the volume factor, so if we’re working with quantum field theory on some compact space, rather than infinite volume Minkowski space, then tunnelling reappears. However, if the space is macroscopically large then the suppression factor e−V S cl may be so tiny that, for all intents and purposes, we can think of the symmetry as broken.
+
+The upshot of this argument is that the quantum field theory (2.17) in d = 3 + 1 dimensions (and, indeed, in any dimension greater than d = 0 + 1) has two ground states, |+v⟩ and |−v⟩, distinguished by the expectation value of ϕ(x) which acts as an order parameter to tell us which vacuum we live in, ⟨±v|ϕ(x)|±v⟩ = ±v and ⟨±v|ϕ(y)|∓v⟩ = 0. (2.25)
+
+This is a story that generalises to other discrete symmetries. For example, if you find yourself with a quantum field theory with Z symmetry which is spontaneously broken, then you will have N ground states that will be permuted into each other by the action of the symmetry.
+
+The Meaning of a Tachyon Tachyons are mythological beasts in physics. When we first learn special relativity, certain unscrupulous teachers may tell you that a tachyon is a particle with m2 < 0 which is forced forever to travel faster than the speed of light. This is, of course, nonsense.
+
+In field theory, a tachyon is nothing mysterious. Our potential above has m2 < 0 but there is certainly nothing flying around faster than light. Instead, it signals that the point ϕ = 0 is a maximum of the potential, rather than a minimum. This is the true meaning of a tachyon in field theory: it is telling us that the chosen vacuum is unstable. It’s our job to find a better, stable vacuum.
+
+That’s not hard in the example above. We just need to expand around one of the minima of the potential, rather than the maximum. In fact, we already did this calculation in (2.6). If we write ϕ(x) = v + σ(x), then we find a potential for σ given by V(σ) = λ ( v2 σ2 + v σ3 + ¼ σ4 ). (2.26)
+
+We can read off the mass of particles in the theory from the quadratic term. Any physical excitation has mass M2 = 2λv2. The mass is real and positive and decidedly not exotic in any way.
+
+Domain Walls The presence of a spontaneously broken symmetry often implies the existence of some novel excitation in the theory. In the present case, this is a domain wall, a field configuration that interpolates from one vacuum to the other.
+
+Indeed, we’ve already met the classical solution that does the job. We just need to repurpose the tunnelling solution (2.22) by replacing the imaginary time τ with one of the spatial coordinates x = (x,y,z). For example, the classical field configuration ϕ(z) = v tanh( z √(λv2) ) (2.27)
+
+solves the equations of motion of the original Lorentzian action (2.17). This solution interpolates from the vacuum ϕ = −v at z → −∞ to the vacuum ϕ = +v at z → +∞. It describes an excitation of the field, localised around z = 0, but extended in the x- and y-directions. This is the domain wall.
+
+The domain wall has finite energy density E which, it is easy to see, coincides with the action S cl of the same configuration in quantum mechanics. We computed this in (2.14) and found E = 2√2 λ v3. (2.28)
+
+Although the domain wall has finite energy density, it has infinite energy because it stretches to infinity in the (x,y)-plane. An exception to this statement is if we are considering domain walls in d = 1+1 dimensions where there is nowhere else for them to stretch. In this case the domain walls have finite energy and should be viewed as a kind of particle in the theory.
+
+Back in d = 3 + 1 dimensions, we can straightforwardly consider variations of this classical configuration (2.27) in which the domain wall forms a sphere of radius R, containing one vacuum ϕ = −v inside, and the other vacuum ϕ = +v outside. This now has finite energy, given by E = 4πR2 E. However, such a static configuration will no longer solve the equation of motion because the domain wall has tension and will want to contract. To find the classical solution, we will have to solve the full time-dependent partial differential equation.
+
+We can also get some sense for what happens to these configurations in the quantum theory. We can build a Fock space of states above either of the two ground states by exciting the field ϕ(x) = ±v + σ(x). As we’ve noted, this creates particles of mass M = √(2λv2). The Hilbert space of the theory decomposes as H = H+ ⊕ H−. (2.29)
+
+This is not a tensor product, which would mean that we have to choose one state from H+ and another from H− to specify the full state. Instead, it’s a tensor sum: we must pick either a state from H+ or a state from H−. The states |ψ⟩ ∈ H+ obey ⟨ψ|ϕ(0,x)|ψ⟩ = +v for |x| → ∞. (2.30)
+
+This is telling us that we necessarily approach the vacuum |+v⟩ when we’re far away. However, this doesn’t mean that the excitations about one ground state know nothing about the other ground state. By piling many ϕ excitations on top of each other, it’s quite possible to carve out a region of one vacuum inside another, and have excited states |ψ⟩ ∈ H+ that obey, for example, ⟨ψ|ϕ(0,x)|ψ⟩ = { −v for |x| < R, +v as |x| → ∞. (2.31)
+
+These kind of states are what become of our classical, spherical domain wall.
+
+Cluster Decomposition We know that the field theory has two ground states |±v⟩, but you might wonder why we’re necessarily forced to work with these states. What’s stopping us taking the linear combinations |0⟩ = 1/√2 (|+v⟩ ± |−v⟩) (2.32)
+
+as our ground states? This is a superposition of a state in H+ and a state in H−.
+
+In fact, |0⟩ are not the right states to work with. There are two arguments for this. The first is a little handwavey. Suppose that we perturb our original Lagrangian by some term ∆L that breaks the Z symmetry. This will mean that one of the states |±v⟩ has lower energy and is the true ground state. In the limit that we send the coefficient of ∆L to zero, we will remain in the ground state, either |+v⟩ or |−v⟩. This argument seems more compelling for condensed matter systems, where you can well imagine that there are many different perturbations (say, background magnetic fields) that would break the Z symmetry. The argument is less In the context of particle physics, this is not convincing at all, as it's unclear what these additional terms might be. Some consolation comes from a conjecture that, once we take gravity into account, there are no exact global symmetries, so there must, in fact, be some irrelevant symmetry breaking term lurking in the background.
+
+There is a second, more important argument for why the states |0⟩ defined in (2.32) are not the right ground states. This is a property known as cluster decomposition, which is a way of capturing the locality of field theory. If you sit in some vacuum state |vac⟩ and compute the two-point function of two operators, A(x) and B(y), then, when x and y are spacelike separated, the expectation value should decompose into ⟨vac|A(x)B(y)|vac⟩ → ⟨vac|A(x)|vac⟩⟨vac|B(y)|vac⟩ as |x−y| → ∞. (2.33)
+
+Now, on general grounds you can argue that, when x and y are far separated, we must have ⟨vac|A(x)B(y)|vac⟩ → ⟨vac|A(x)|n⟩⟨n|B(y)|vac⟩ (2.34)
+
+where |n⟩ runs over all possible vacuum states. But for cluster decomposition to hold, we want this to project onto the specific vacuum state |n⟩ = |vac⟩ that we started in.
+
+We can check this criterion for our theory with spontaneous symmetry breaking and the choice A = B = ϕ. If we pick the state |+v⟩ then, using the fact that ⟨+v|ϕ(x)|−v⟩ = 0, we have ⟨+v|ϕ(x)ϕ(y)|+v⟩ → ⟨+v|ϕ(x)|+v⟩⟨+v|ϕ(y)|+v⟩ = v². (2.35)
+
+So this indeed obeys cluster decomposition. In contrast, if we work in the state |0⟩ defined in (2.32) then you can check that ⟨0+|ϕ(x)|0+⟩ = ⟨0−|ϕ(x)|0−⟩ = 0 and ⟨0+|ϕ(x)|0−⟩ = v. (2.36)
+
+We then have ⟨0+|ϕ(x)ϕ(y)|0+⟩ → ⟨0+|ϕ(x)|0−⟩⟨0−|ϕ(y)|0+⟩ = v². (2.37)
+
+This does not obey cluster decomposition because the vacuum |0−⟩ that we need to insert in the middle differs from the vacuum |0+⟩ that we started with.
+
+**2.2 Continuous Symmetries** The story of symmetry breaking is rather different, and more powerful, when the symmetry in question is a continuous symmetry. Here we start by giving a couple of examples before we describe the general result known as Goldstone’s theorem. We’ll work in quantum field theory. As in the previous section, there is some tension between spontaneous symmetry breaking in quantum field theory and what we know about the behaviour of wavefunctions in quantum mechanics, but we’ll put this on hold for now and return to it in Section 2.2.4.
+
+Figure 3. On the left: the potential with m² > 0. On the right, the Mexican hat potential with m² < 0.
+
+To start, consider a complex scalar field ϕ(x) in d = 3+1 dimensions with action S = ∫ d⁴x [∂μϕ†∂µϕ−V(ϕ,ϕ†)] with V(ϕ,ϕ†) = m²|ϕ|² + λ|ϕ|⁴. (2.38)
+
+The action is constructed so that it enjoys a U(1) global symmetry which rotates the phase of ϕ, ϕ(x) → e^(iα) ϕ(x). (2.39)
+
+Again, the physics depends on the sign of the m² term in the potential. The two different cases, with m² > 0 and m² < 0 are shown in Figure 3. In the former case, there is little interesting to say: you expand around the vacuum ϕ = 0 and, after quantisation, find interacting particles of mass m with the U(1) symmetry implying the usual conservation law. Here our interest is in the case m² < 0.
+
+The potential with m² < 0 is sometimes called the “Mexican hat potential” because, you know, it looks like a sombrero. It also looks like the bottom of a wine bottle. The defining feature is that there are not isolated minima, but instead an infinite number of ground states, defined by |ϕ|² = −m²/ (2λ) := v². (2.40)
+
+We define the vacuum manifold M to be the space of field configurations which have minimum energy. For the double well potential of Section 2.1, the vacuum manifold was just two points. Now, the vacuum manifold is the set of solutions to (2.40) which is a circle, M = S¹. (2.41)
+
+To see what this buys us, we can write the complex field in polar coordinates, with ϕ(x) = r(x)e^(iθ(x)). (2.42)
+
+This is a slightly dangerous thing in quantum field theory, where we usually assume that fields can take any value. In writing (2.42), we need to remember that r(x) ≥ 0 and θ(x) = θ(x)+2π. Nonetheless, we can proceed for now and keep this in the back of our minds.
+
+Substituting the polar decomposition into the original action (2.38), and dropping an irrelevant constant that arises when we complete the square, we have S = ∫ d⁴x [ (∂μr)(∂µr) + r²(∂μθ)(∂µθ) − (r² −v²)² / (4λ) ] (2.43)
+
+where, as in the last section, we’ve introduced v² = −m²/λ. Now we can read off the physics. The ground state of the system sits at r(x) = +v. If we expand about this vacuum by writing r(x) = v + σ(x) then the action becomes S = ∫ d⁴x [ (∂μσ)(∂µσ) + (v + σ)²(∂μθ)(∂µθ) − λ σ² (σ + 2v)² ]. (2.44)
+
+From this, we can read off the physics. In particular, the σ(x) excitations have mass M² = 2λv². These are radial oscillations of the field, that go back and forth in the potential.
+
+To pick a vacuum, we also need to specify a value for the angular scalar field θ(x). But there is no preferred choice here. Once we’ve set r(x) = v, the different constant values of θ(x) parameterise the vacuum manifold M = S¹. If this was quantum mechanics, then the wavefunction would simply spread over the S¹. But things are different in quantum field theory, a fact that we will discuss further in Section 2.2.4, and each point on M corresponds to a different ground state of the theory. To specify the ground state, we have to pick one such point. It doesn’t matter which point we pick because the physics will be the same in each. But, nonetheless, we have to pick one.
+
+Whatever choice of ground state we make, say θ(x) = 0, will spontaneously break the U(1) symmetry (2.39) which acts as θ(x) → θ(x)+α. (2.45)
+
+In fact, we see that the symmetry acts by taking us from one point on M to another.
+
+Finally, we can look at the dynamics of the field θ(x) that parameterises M. From the action (2.43), we see that there is no potential term for θ, a fact which simply follows from the U(1) invariance of the potential. If we ignore the coupling to σ, then the θ field is governed by the simple Lagrangian L = v² (∂μθ)(∂µθ). (2.46)
+
+This is a Lagrangian for a massless scalar field, albeit one that is slightly unusual because θ is a periodic variable. The existence of this massless scalar field is a direct consequence of the spontaneous breaking of the U(1) global symmetry. As we will see, this is a general story: whenever a continuous global symmetry is spontaneously broken, there will be massless scalar fields. These fields are called Goldstone bosons.
+
+Goldstone bosons can’t have potential terms: only derivative terms. But that’s not to say that they’re totally boring. There can still be interactions, both among themselves (as we will see in later examples) and with other fields. For example, if we expand out r(x) = v+σ(x) in (2.43) then we see that there are interaction terms between the massive scalar σ and the massless Goldstone boson θ that take the form σ(∂θ)² and σ²(∂θ)². This means that a σ particle can decay to two Goldstone modes. However, if we look at energies E ≪ λv², which is the mass of the σ particle, then the only field in town is the massless Goldstone mode, whose dynamics is governed by (2.46).
+
+**2.2.1 The O(N) Sigma Model** Here’s a generalisation of the ideas above. We take a collection of N real scalar fields ϕᵃ(x), with a = 1,...,N, and consider the following action S = ∫ d⁴x [ (1/2) ∂μϕᵃ ∂µϕᵃ − V(ϕ) ] with V(ϕ) = (1/2) m² ϕᵃ ϕᵃ + (λ/4) (ϕᵃ ϕᵃ)². (2.47)
+
+This action is constructed to have an O(N) symmetry, under which the ϕᵃ rotate. For N = 2, it coincides with the action (2.38) for a complex scalar field whose real and imaginary parts are ϕ¹ and ϕ².
+
+Spontaneous symmetry breaking occurs when m² < 0 and the potential again looks like a Mexican hat but for someone with a higher dimensional head. The minima of the potential obey ϕᵃ ϕᵃ = v² := −m²/λ. (2.48)
+
+This is simply the equation for an (N−1)-dimensional sphere, and defines the vacuum manifold of the theory M = S^(N−1). (2.49)
+
+The vacuum of the theory is one point on M. It doesn’t matter which one. Suppose that we pick the “south pole”, so that the vacuum is ϕᵃ = (0,0,...,0,v). Now we can look at fluctuations around this vacuum by writing ϕᵃ(x) = (π¹(x),...,π^(N−1)(x), v + σ(x)). (2.50)
+
+If we substitute this into the action (2.47), we find S = ∫ d⁴x [ (1/2) (∂μπᵃ)(∂µπᵃ) + (1/2) (∂μσ)(∂µσ) − V(πᵃ,σ) ] (2.51)
+
+with V(πᵃ,σ) = λ v² σ² + λ v σ (σ² + πᵃ πᵃ) + (λ/4) (πᵃ πᵃ + σ²)². (2.52)
+
+We again see that only the σ field has a quadratic term so this gives rise to a massive particle, while quantising the πᵃ will give N−1 massless particles. These are the Goldstone bosons from spontaneous symmetry breaking.
+
+Although the πᵃ fields are massless, they still appear in the potential (2.52), just in higher order terms. This is in contrast to the case with U(1) symmetry where the potential didn’t depend on the Goldstone field θ(x). There’s no mystery here: it’s because we’ve made no attempt to pick our fields to parameterise the vacuum moduli space M. Instead, the πᵃ(x) fields are just linear displacements away from the vacuum, and if you move away linearly from a point in M, you eventually end up climbing the potential.
+
+To do better, we could write our fields as something akin to the polar ansatz (2.43). Alternatively, if we’re at low energies so that we care only about the dynamics of the Goldstone bosons, and not about their interactions with massive excitations, then we could restrict ourselves to M by insisting that (2.48) is obeyed everywhere, meaning (πᵃ)²(x) + (ϕᴺ)²(x) = v². (2.53)
+
+We could use this to eliminate ϕᴺ(x) in our original action (2.47). By construction, the potential term vanishes completely and we’re left just with kinetic terms for the Goldstone modes S = ∫ d⁴x [ (1/2) (∂μ⃗π)·(∂µ⃗π) + (1/(2v²)) ((⃗π ·∂µ⃗π)(⃗π ·∂µ⃗π)) / (1 − ⃗π·⃗π/v²) ]. (2.54)
+
+We see that the Goldstone modes now have rather non-trivial interactions between themselves, but these interactions are entirely kinetic.
+
+To gain a sense for what the action (2.54) is telling us, let’s restrict to N = 3. In this case, the constraint (2.53) can be solved by the usual polar coordinates on R³, π₁ = v sinθ cosφ, π₂ = v sinθ sinφ, π₃ = v cosθ. (2.55)
+
+It’s important to stress that these are polar coordinates on field space, and both θ(x) and φ(x) are fields that parameterise the vacuum manifold M = S². With this choice of parameterisation, the action (2.54) becomes S = ∫ d⁴x [ (∂µθ)(∂µθ) + sin²θ (∂µφ)(∂µφ) ]. (2.56)
+
+We recognise the metric ds² = dθ² + sin²θ dφ² on S² hiding within this action. More generally, any choice of parameterisation of the constraint (2.53) will give an action for the Goldstone bosons that takes the schematic form S = ∫ d⁴x gₐᵦ(π) ∂µπₐ ∂µπᵦ (2.57)
+
+with gₐᵦ the round metric on M₀. Actions of this kind, where the fields are themselves coordinates on some manifold M are known as non-linear sigma models. In this context, the manifold M is sometimes called the target space, because the fields π(x) are maps from spacetime (which is R¹·³ for us) to the target manifold M.
+
+Non-linear sigma models like (2.57) are non-renormalisable. That means that they don’t make sense up to arbitrarily high energy scales. But that’s entirely reasonable! The sigma model (2.57) is constructed so that it describes only the very low energy physics. As we reach energies of order E ∼ λv, we will start to be able to climb up the hills of the potential and out of the vacuum manifold M. The original theory (2.47) provides a renormalisable, UV completion of the non-linear sigma model.
+
+The origins of the name “sigma model” are somewhat farcical. It comes from the original paper of Gell-Mann and Lévy who did a calculation similar to the one above, eliminating the field σ(x) (which, recall, is related to ϕ(x) = v + σ(x)) and then naming the resulting Lagrangian after the field they got rid off! We’ll see what Gell-Mann and Lévy did, and what the σ(x) field describes in our world, when we come to discuss aspects of chiral symmetry breaking in QCD in section 3.
+
+2.2.2 Goldstone’s Theorem in Classical Field Theory With these examples under our belt, we can now look at the general case. We will do this twice: once from the perspective of the classical theory, then again in the quantum theory.
+
+We start classical. Consider a theory with a bunch of scalar fields, which we collectively denote as ϕ, transforming in some representation of a global symmetry group G. We will take G to be a Lie group, so we’re dealing with continuous symmetries rather than discrete symmetries.
+
+These fields experience a potential V(ϕ) which has some space of minima that define the vacuum manifold of the theory: M = { ϕ | V(ϕ₀) = V_min }. (2.58)
+
+If the ground state is unique – in which case we will assume that it sits at ϕ = 0 – then M is just a single point and we’re back to the usual story in which the symmetry is realised only on excited states.
+
+The more interesting situation is when ϕ is not unique. In this case, acting with some elements of G will typically move us from one point in M to another. Indeed, the generic situation is that all points in M can be reached by a symmetry transformation, meaning that if we take two points ϕ₀, ϕ′₀ ∈ M, then there is a g ∈ G such that ϕ′₀ = g ϕ₀. (2.59)
+
+We can see this, for example, in the O(N) model described above where M = Sᴺ⁻¹ and you can always rotate from one point on the sphere to any other.
+
+While some elements of G will move us around M, other elements leave the point ϕ₀ unchanged. It’s useful to define the concept of the stability group H. If we sit at some point ϕ₀ ∈ M, then the group H is defined to be those elements of G which don’t change ϕ₀, H = { h ∈ G | h ϕ₀ = ϕ₀ }. (2.60)
+
+The stability group H defined above depends on the choice of ϕ₀ ∈ M. Happily, however, if we pick a different point ϕ′₀ ∈ M then we will find ourselves with a stability group H′ that is isomorphic to H. This is simple to show: if ϕ′₀ = g ϕ₀ then for each h ∈ H we can construct h′ = g h g⁻¹ ∈ H′.
+
+Again, we can use the G = O(N) model as an example. For any point in M = Sᴺ⁻¹, the stability group is H = O(N−1). The way in which O(N−1) is embedded in O(N) depends on where we sit in M. For example, if we sit in the vacuum ϕ₀ = (0,0,...,v) then the surviving O(N−1) resides in the upper-left block of the N × N matrix, while if we sit in the vacuum ϕ₀ = (v,0,...,0) then O(N−1) resides in the lower-right block. But, wherever we sit, there is always an O(N−1) subgroup that survives.
+
+We say that the group G is spontaneously broken to the group H. We usually write this as G → H. The field ϕ is what, in statistical physics, we call an order parameter for the symmetry G: its value in the ground state – either zero or non-zero – provides a litmus test for whether the symmetry G is broken. The vacuum manifold M can then be identified as the coset space M = G/H. (2.61)
+
+Here the coset G/H is defined to be the set of equivalence classes, with g₁ ∼ g₂ if there exists an h ∈ H such that g₁ = h g₂.
+
+Now we’re in a position to state the main result³: Goldstone’s Theorem: If a global, continuous symmetry G is spontaneously broken to H then the number of massless Goldstone bosons is given by dim(G/H) = dimG − dimH. (2.62)
+
+In light of the identification (2.61), you can think of these Goldstone bosons as the modes that fluctuate along the vacuum manifold M.
+
+Returning, briefly, to our O(N) model, the sphere can be viewed as the coset Sᴺ⁻¹ = O(N)/O(N−1). We can do some simple counting. We have dimO(N) = ½N(N−1) so dimO(N) − dimO(N−1) = N−1 = dimSᴺ⁻¹.
+
+³ Both the classical and quantum versions of Goldstone’s theorem were first proved by Goldstone, Salam and Weinberg in a classic 1962 paper entitled “Broken Symmetries”. The proof was prompted by specific examples that had been explored by Nambu and by Goldstone.
+
+Proof: The proof of Goldstone’s statement is really just a matter of turning our intuition into some equations. Suppose that ϕ sits in a representation R of the symmetry group G. We’ll denote the components of ϕ as ϕₐ with a = 1,...,dimR.
+
+Consider how ϕ shifts under an infinitesimal symmetry transformation, gϕ = ϕ + δϕ. If we denote the generators of G in the representation R as (Tₐ)ₐᵦ, with A = 1,...,dimG, then we have δϕₐ = iαₐ (Tₐ)ₐᵦ ϕᵦ (2.63)
+
+with αₐ infinitesimal parameters. We know that G is a symmetry of our theory which means, among other things, that the potential must satisfy V(gϕ) = V(ϕ). So, for an infinitesimal transformation, V(ϕ+δϕ) − V(ϕ) = iαₐ (∂V/∂ϕₐ) (Tₐ)ₐᵦ ϕᵦ = 0. (2.64)
+
+We differentiate with respect to ϕᵦ to find [ (Tₐ)ₐᵦ (∂V/∂ϕₐ) + (Tₐ)ₐᶜ ϕᶜ (∂²V/∂ϕₐ∂ϕᵦ) ] = 0 (2.65)
+
+where we’ve stripped off the αₐ on the grounds that they are arbitrary parameters and so this expression must hold for each A = 1,...,dimG. Now we evaluate the result on a ground state ϕ₀. The first term disappears because ϕ₀ is a minimum of the potential and we’re left with (∂²V/∂ϕₐ∂ϕᵦ)|_{ϕ₀} (Tₐ ϕ₀)ᵦ = 0 for A = 1,...,dimG. (2.66)
+
+We recognise the second derivative of the potential as the mass matrix M²ₐᵦ = ∂V/∂ϕₐ∂ϕᵦ; the eigenvalues of this matrix are the physical masses. The result (2.66) is telling us that the mass matrix potentially has a bunch of zero eigenvalues, one for each eigenvector (Tₐ ϕ₀)ᵦ.
+
+The “potentially” in the sentence above is there because it may be that the would-be eigenvector (Tₐ ϕ₀)ᵦ actually vanishes. Indeed, this is clearly the case if ϕ₀ = 0. That’s as it should be: if ϕ₀ = 0 then the symmetry is unbroken and there’s no reason to generically expect massless modes. However, even when ϕ₀ ≠ 0, there will be some generators – let us call them T̃ₐ – that annihilate the ground state, T̃ₐ ϕ₀ = 0. (2.67)
+
+These are precisely the generators of the unbroken stability group H and so there are dimH of them. We will denote the generators orthogonal to T̃ₐ as Rₐ, with α = 1,...,dim(G/H). Here, orthogonality means that they obey Tr(T̃ₐ Rₐ) = 0.
+
+Each of these generators gives a unique eigenstate (Rₐ ϕ₀)ᵦ, and hence a massless mode. We see that there are at least dim(G/H) massless particles. These are the Goldstone bosons. □ 2.2.3 Goldstone’s Theorem in Quantum Field Theory The quantum version of Goldstone’s theorem has much more teeth than its classical counterpart. This is not because the theorem itself is very much different – as we’ll see, it really involves all the same ingredients that we’ve seen above, just adapted to life in a Hilbert space. Instead, the importance of the result is due to the environment in which the theorem operates.
+
+In classical field theory, there’s no difficulty in writing down a theory for a massless scalar. You literally just need to set m² = 0 in the potential. So while it’s certainly interesting that spontaneous symmetry breaking gives us a mechanism for generating massless scalars, they’re not such rare beasts.
+
+But the story is very different for interacting quantum field theories. There, massless scalars (and, indeed scalars that are just “light” in some sense) are very hard to come by. This is because the physical mass is not just the m² that you write down in the Lagrangian. Instead, the mass of a scalar picks up extra contributions from the cloud of other fields that accompany the particle. These are captured, at one loop, by Feynman diagrams like this: Here the external legs are the scalars, while the particle running in the loop is anything that the scalar interacts with, including itself. These diagrams contribute to the mass renormalisation of the scalar and, crucially, are quadratically divergent. Physically, it means that quantum corrections push the mass of a scalar particle up to the UV-cut off of the theory, Λ_UV.
+
+The upshot of this is that, if you write down a Lagrangian with m² = 0, then it won’t describe a quantum scalar particle with physical mass zero. Instead, after renormalisation, it will describe a scalar with physical mass m² ∼ Λ²_UV. (In some cases, Λ may be some higher energy scale in the theory, rather than the UV-cut off. For example, in QCD we’ll see that the masses of scalar mesons typically sit at a scale known as ΛQCD.) If you want to write down, say a ϕ4 theory that describes a massless scalar then you will need to tune the mass in the Lagrangian (the so-called “bare mass”) to be m2 ∼ −Λ2UV, with a coefficient that precisely cancels the contributions from quantum corrections. This is known as fine tuning and it is generally agreed to be as tasteless as it sounds. (This same idea also arises in statistical physics, where the mass term is associated to the deviation from a critical temperature. In this case, the fine tuning is physical because you get to turn the temperature up and down at will.) None of this means that there is some flaw in quantum field theory: instead it’s capturing the right physics. Quantum field theories tend not to have massless, or indeed, light, scalar fields. Their mass is typically pushed up to some cut-off scale. This is not true of fermions, which suffer only a logarithmic correction to their mass. This can be traced to the fact that fermions have an extra chiral symmetry when they are massless that protects their mass from being renormalised.
+
+All of this means that things are interesting when you come across a physical system that does have a massless, or inordinately light, scalar field. If you find such a light scalar, then there should be a reason why the preceding arguments fail. In most (but, famously, not all!) cases, that reason is Goldstone’s theorem. Spontaneous symmetry breaking provides a robust mechanism to naturally deliver genuinely massless scalars, whose mass is protected against any corrections from renormalisation. And, as we mentioned at the beginning of this section, it is a mechanism that is employed over and over again by nature, from magnets, to phonons to, as we shall see later, pions.
+
+Before we turn to prove Goldstone’s theorem in the context of quantum field theory, it’s worth commenting on the “famously, not all” remark above. This is a nod to the Higgs boson. It is not particularly light, weighing in at mH ≈ 126 GeV. But if we believe that quantum field theory continues to hold at scales significantly higher than mH, we should ask why the mass of the Higgs boson hasn’t been pushed up to higher scales. Or, in other words, why don’t the simple arguments that we sketched above apply to the Higgs boson? We don’t know the answer to this question. This is known as the hierarchy problem.
+
+Broken Symmetries Acting on Hilbert Space With this preamble in place, we can now see how Goldstone’s theorem manifests itself in quantum field theory. We won’t work with Lagrangians, or restrict ourselves to perturbation theory. Instead, all the physics can be seen in how symmetries act on the Fock space of particles.
+
+By Noether’s theorem, any continuous symmetry G has an associated set of currents JA, with A = 1,...,dimG. From these we can construct the conserved charges QA = ∫ d3x JA . (2.68)
+
+One of the lovely features of quantum mechanics (or, indeed, the Hamiltonian version of classical mechanics) is that these charges enact what we might call the “inverse Noether theorem”. This means that, given a conserved charge, you can always reconstruct the associated symmetry. This follows from the fact that the charge is the generator of the symmetry, with any operator O undergoing the infinitesimal transformation δ O = i[QA,O] . (2.69)
+
+Comparing to our classical result (2.63), we see that our scalar fields ϕa transform as [QA,ϕa] = (TA)ab ϕb . (2.70)
+
+These are exact operator relations in the quantum theory.
+
+In the classical theory, we saw that ϕ is an order parameter for the symmetry G. The same is true in the quantum theory, although strictly we should talk about the vacuum expectation value (or vev) of ϕ, as the order parameter, ⟨ϕ⟩ = ⟨Ω|ϕ|Ω⟩ (2.71)
+
+where |Ω⟩ is the vacuum of the full, interacting theory. If ⟨ϕ⟩ ̸= 0 then we say that ϕ condenses, a term taken from statistical physics. From (2.70), we have ⟨Ω|[QA,ϕa]|Ω⟩ = (TA)ab ⟨ϕb⟩ ≠ 0 . (2.72)
+
+But this can only be true if QA|Ω⟩ ≠ 0 for some A . (2.73)
+
+This is what it means for a symmetry to be spontaneously broken in quantum field theory: the symmetry generators do not annihilate the vacuum.
+
+Actually, there’s a small caveat that I need to mention here. If we have QA|Ω⟩ = c|Ω⟩ for some c ∈ C then the commutator does vanish: ⟨Ω|[QA,ϕa]|Ω⟩ = 0. This kind of action on the ground state means that the symmetry is unbroken because, when exponentiated, we have eiαQA|Ω⟩ = eiαc|Ω⟩, but just changing the phase of a state in quantum mechanics is the same as leaving the state invariant. So the statement QA|Ω⟩ ≠ 0 in (2.73) should be better written as QA|Ω⟩ ≠ c|Ω⟩ for some c ∈ C.
+
+For any symmetry generator, broken or unbroken, we have [QA,H] = 0 so (2.73) is really telling us that, whenever the symmetry is broken, the vacuum is degenerate. Said slightly differently, in quantum field theory every different choice of ⟨ϕ⟩ corresponds to a different vacuum of the theory.
+
+Conversely, if ⟨ϕ⟩ = 0 then, from (2.73), we see that the vacuum is annihilated by the symmetry generators: QA|Ω⟩ = 0. This is the more familiar case in which the symmetry is unbroken. Excitations above the vacuum then sit in multiplets of G.
+
+When a symmetry is spontaneously broken, the excitations above the vacuum no longer sit in multiplets of the full symmetry group G. To see this, suppose that we have two fields, ϕ1 and ϕ2, that are related by a symmetry so there is some conserved charge such that [Q,ϕ1] = ϕ2. We can consider excitations of the vacuum by the creation operators associated to ϕ1, heuristically |1⟩ = a†1|Ω⟩, and similar excitations associated to ϕ2, |2⟩ = a†2|Ω⟩. We then have |2⟩ = a†2|Ω⟩ = [Q,a†1]|Ω⟩ = Q|1⟩−a†1Q|Ω⟩ . (2.74)
+
+We see that the symmetry generator does relate |1⟩ and |2⟩ but only if Q|Ω⟩ = 0. When the symmetry is spontaneously broken, so Q|Ω⟩ ̸= 0, the two states |1⟩ and |2⟩ can have different properties. For example, they may have different energies.
+
+So far, we haven’t described where the Goldstone bosons come from. Following our classical intuition, we expect them to correspond to fluctuations along the directions of broken symmetry. And that’s indeed the case. For each broken symmetry generator, we construct states |πA(p)⟩ ∼ ∫ d3x eip·x JA(x)|Ω⟩ . (2.75)
+
+These states carry 3-momentum p. Moreover, in the limit of vanishing momentum, we have lim |πA(p)⟩ ∼ QA|Ω⟩. (2.76)
+
+p→0 For those generators that are spontaneously broken, the state QA|Ω⟩ ≠ 0 has the same energy as the original vacuum |Ω⟩ because [QA,H] = 0. This is the statement that the Goldstone boson |πA(p)⟩ has energy E → 0 as p → 0. In other words, the Goldstone boson is massless.
+
+None of the arguments above rely on perturbation theory: they are all exact statements about the interacting quantum field theory. This means that if we were to write down Lagrangians for these Goldstone bosons then they must remain massless, even after taking into account one-loop effects and so on. In operational terms, this happens because the Goldstone bosons have only derivative couplings.
+
+The argument above is not completely rigorous, not least because Q|Ω⟩ suffers from divergences and doesn’t strictly exist in the Fock space. A better, but more formal, argument uses the Källén-Lehmann spectral decomposition. You can read about this in Volume II of Weinberg’s book.
+
+The View From the Effective Potential There is an alternative proof of Goldstone’s theorem in quantum field theory that follows much more closely the classical proof that we saw previously. We first need to review some basic facts about generating functions in quantum field theory. The generating function for connected correlation functions is eiW[J] = ∫ Dϕ ei ∫ d4x (L(ϕ)+Jϕ) . (2.77)
+
+Here J(x) is a source for ϕ and differentiating W[J] successively with respect to J(x) gives the connected correlation functions. In particular, the expectation value of ϕ(x) is given by δW[J]
+
+δJ(x)
+
+= ⟨Ω|ϕ(x)|Ω⟩ = ϕcl (x) . (2.78)
+
+In the absence of a source, Lorentz invariance implies that ϕcl is just a number, and coincides with the vev (2.71) that we introduced previously. But, if we turn on a spatially varying source J(x), then the function ϕcl(x) will respond accordingly.
+
+The Legendre transform of W[J] is known as the one-particle irreducible (or 1PI for short) effective action, Γ[ϕcl] = W[J]− ∫ d4x J(x)ϕcl(x) . (2.79)
+
+As in other examples of Legendre transforms, we should use (2.78) to replace J(x) with ϕcl(x) in the 1PI effective action. We can always return to W[J] (assuming certain convexity properties) using δΓ[ϕcl]
+
+δϕcl(x)
+
+= −J(x) . (2.80)
+
+The 1PI effective action is not, in general, the same thing as the more physical Wilsonian effective action that we get by integrating out high energy modes to find a description of the low energy physics. Taking derivatives of Γ[ϕcl] generates the 1PI Green’s functions. In particular, the two derivative term gives the inverse propagator δ2Γ δϕcl(x)δϕcl(y)
+
+= ∆−1(x−y) . (2.81)
+
+In general, Γ[ϕcl] can be expressed in terms of a derivative expansion, Γ[ϕcl] = ∫ d4x { −Veff(ϕcl)+ Z(ϕcl)∂µϕcl ∂µϕcl +... } (2.82)
+
+for some functions Veff(ϕcl) and Z(ϕcl). For our purposes, we’re interested only in spatially homogeneous configurations, so we can ignore the derivative terms and the 1PI effective potential becomes Γ[ϕcl] = −V Veff(ϕcl) (2.83)
+
+where V is the (admittedly infinite, but actually irrelevant) volume of spacetime. Restricted to constant configurations, the second derivative of Γ[ϕcl] is just the mass matrix, but now for the physical masses as opposed to the classical, bare masses ∂2Veff ∂ϕcl∂ϕcl = ∆−1(0) . (2.84)
+
+Spontaneous symmetry breaking occurs when we have ϕcl ̸= 0 even when J = 0. From (2.80), this translates into the familiar requirement that ∂Veff ϕcl ̸= 0 at ∂ϕcl = 0 . (2.85)
+
+Now we may rerun all the arguments of section 2.2.2, but for the effective potential \(V_{\text{eff}}(\phi)\) rather than the classical potential \(V_{\text{cl}}(\phi)\) to again arrive at (2.66),
+
+\[ \frac{\partial^2 V_{\text{eff}}}{\partial \phi^a \partial \phi^b} (\langle T_A \phi \rangle_0)_b = 0 \, . \qquad (2.86)
+
+\]
+
+As in the classical argument, this is telling us that the mass matrix has a number of zero eigenvalues. (Equivalently, the propagator \(\Delta\) has poles at \(p \to 0\).) There is one zero eigenvalue for each broken generator.
+
+**2.2.4 The Coleman-Mermin-Wagner Theorem**
+
+In all our discussions above, we assumed that spontaneous symmetry breaking actually takes place in the quantum theory. For example, we showed that if \(\langle \phi \rangle \neq 0\) then the ground state must necessarily shift under a symmetry \(Q|\Omega\rangle \neq 0\) . (2.87)
+
+But how do we know that this actually happens? In particular, there is some tension with what we know from our first courses on quantum mechanics. Let’s return to the simplest example of a Mexican hat potential (2.38), but now think of quantum mechanics, rather than quantum field theory. That means that we have a quantum particle moving in the potential. It’s challenging to write down the exact ground state wavefunction \(\psi(r,\theta)\), but it’s not difficult to get some idea of what it looks like: it will be peaked in the trough at \(r = v\), and be fully delocalised in the angular \(\theta\) direction. In other words, it will look something like the wavefunction shown in the figure. But, crucially, because the wavefunction spreads around the circle parameterised by \(\theta\), there is no spontaneous symmetry breaking.
+
+This begs the question: why is quantum field theory different from quantum mechanics? Why do we expect spontaneous symmetry breaking in the former case, but not in the latter? A similar question arose when we discussed discrete symmetries and there we understood that quantum tunnelling through the barrier was suppressed by the infinite spatial volume. But here there’s no barrier to tunnel through. Instead we have a manifold of ground states \(\mathcal{M}\) and it feels like it should be easier for a wavefunction to spread over \(\mathcal{M}\) than to tunnel through a barrier. In other words, it should be more difficult to spontaneously break continuous symmetries than to spontaneously break discrete symmetries.
+
+And indeed it is. But in an interesting way. The key physics is captured by the following theorem:
+
+**Theorem:** A continuous symmetry cannot be broken in quantum theories in \(d = 0+1\) (i.e. in quantum mechanics) or \(d = 1+1\) dimensions.
+
+This theorem was first proven by Mermin and Wagner for certain spin chains, inspired by previous work by Hohenberg. The proof in the context of quantum field theory is due to Coleman⁴. We see that the story is different for discrete and continuous symmetries. A discrete symmetry can be spontaneously broken in spacetime dimensions \(d = 1+1\) and higher, but for a continuous symmetry to be spontaneously broken we must be in \(d = 2+1\) or higher.
+
+Here we offer just a sketch of this theorem. In fact, the basic idea can already be seen in classical field theory. Things are simplest if we work in \(d\)-dimensional Euclidean space. Suppose that we have a massless scalar field \(\phi\) with no potential. This means that we have a choice of what we call the vacuum and, for our purposes, we’ll decide that \(\phi = 0\) is the ground state. Now we excite this scalar field by introducing a delta function source at the origin. That means that we have to solve \(\nabla^2 \phi = \delta(x)\) . (2.88)
+
+This, of course, is the equation for the Green’s function of the \(d\)-dimensional Laplacian. The solutions take the schematic form (ignoring overall coefficients)
+
+\[ \phi(x) \sim \begin{cases} |x| & \text{for } d = 1 \\ \log|x| & \text{for } d = 2 \\ 1/|x|^{d-2} & \text{for } d \geq 3 \end{cases} \qquad (2.89)
+
+\]
+
+We see that for low dimensions, \(d = 1\) and \(d = 2\), exciting the scalar field at the origin means that it can no longer take the value \(\phi = 0\) asymptotically. Any disturbance at the origin is still felt at \(|x| \to \infty\) where the field continues to grow. In contrast, in \(d = 3\) and higher, the field is excited near the origin but then settles back down to \(\phi \to 0\) as \(|x| \to \infty\).
+
+The story above is classical. What happens in the quantum theory? We’ll stick with the free massless scalar, and continue to work in Euclidean spacetime. Consider the two-point function \(\langle \phi(x)\phi(y) \rangle\). We know from the lectures on Quantum Field Theory that this is given by the same Green’s function as above, so
+
+\[ \langle \phi(x)\phi(y) \rangle \sim \begin{cases} |x-y| & \text{for } d = 1 \\ \log|x-y| & \text{for } d = 2 \\ 1/|x-y|^{d-2} & \text{for } d \geq 3 \end{cases} \qquad (2.90)
+
+\]
+
+Again, we see the infra-red divergence for \(d = 1\) and \(d = 2\). Roughly speaking, this is telling us that the wavefunction spreads over all values of \(\phi\) in \(d = 2\) dimensions, just as it does in \(d = 1\) quantum mechanics. In both cases, there is no normalisable ground state.
+
+A better way of saying this is that \(\phi(x)\) is not a well defined operator in \(d = 2\) dimensions. In particular, the correlation function \(\langle \phi(x)\phi(y) \rangle \sim \log|x - y|\) is not positive for all \(x-y\), which is one of the requirements of a QFT. However, although \(\phi(x)\) is not a well-defined operator, its derivatives \(\partial_\mu \phi(x)\) are. You can learn more about this 2d theory (which really only makes sense when \(\phi\) is taken to be a periodic variable) in the lectures on String Theory.
+
+No such problems arise for a massless scalar in \(d \geq 3\) spacetime dimensions. Here, each value of \(\langle \phi \rangle\) specifies a different ground state of the theory. Indeed, for this simple free theory, the massless \(\phi\) field can be viewed as a Goldstone boson for the shift symmetry \(\phi \to \phi + \text{constant}\).
+
+As for the discrete symmetries discussed in Section 2.1, the existence of spontaneous symmetry breaking is due to the infinite volume of space. If we were to take our quantum field theory on a compact spatial manifold, then the long-time behaviour is the same as in quantum mechanics, and the wavefunction will again spread over field space, obviating spontaneous symmetry breaking.
+
+**2.3 The Higgs Mechanism**
+
+Goldstone’s theorem tells us that when a continuous symmetry is spontaneously broken, it results in a massless boson. Here we would like to ask: what happens if that symmetry is gauged?
+
+First, the very concept of a “spontaneously broken gauge symmetry” is a little misleading. As we’ve stressed, a gauge symmetry is merely a redundancy in the description of a system and there’s no way that this redundancy can be “broken” or “lost”. This linguistic issue notwithstanding, the physics underlying the spontaneous breaking of gauge symmetries is clear cut. First, there is no massless Goldstone boson. Second, the gauge boson gets a mass. We’ll now see, in some detail, how this comes about.
+
+**2.3.1 The Abelian Higgs Model**
+
+We return to a complex scalar \(\phi\) with the Mexican hat potential of Section 2.2. This time, however, we couple the scalar to a \(U(1)\) gauge field. The action is
+
+\[ S = \int d^4x \, \left( -\frac{1}{4} F_{\mu\nu} F^{\mu\nu} + (D_\mu \phi)^\dagger (D^\mu \phi) - \frac{\lambda}{2} (|\phi|^2 - v^2)^2 \right) . \qquad (2.91)
+
+\]
+
+This is known as the Abelian Higgs model. The covariant derivative is \(D_\mu \phi = \partial_\mu \phi - ieA_\mu \phi\). Clearly the ground state sits at \(|\phi|^2 = v^2\) . (2.92)
+
+Previously, this meant that we had a vacuum manifold, \(\mathcal{M} = S^1\), parameterised by the phase of \(\phi\). But now the \(U(1)\) that takes us around the \(S^1\) is a gauge symmetry, \(\phi \to e^{ie\alpha(x)} \phi\) and \(A_\mu \to A_\mu + \partial_\mu \alpha\) (2.93)
+
+and we know that field configurations that are related by gauge symmetries should be considered physically equivalent. This suggests that the gauge theory only has a single ground state, rather than a manifold of ground states. This, it turns out, is the right interpretation.
+
+To see the physics, let’s place ourselves in the classical vacuum \(\phi = v\) and look at fluctuations that we parameterise as
+
+\[ \phi(x) = e^{i\theta(x)} (v + \sigma(x)) \, . \qquad (2.94)
+
+\]
+
+We then have
+
+\[ D_\mu \phi = e^{i\theta} \left( \partial_\mu \sigma + i(v+\sigma)(\partial_\mu \theta - eA_\mu) \right) \, . \qquad (2.95)
+
+\]
+
+Substituting this into the action, and expanding out, we have
+
+\[ S = \int d^4x \, \left( -\frac{1}{4} F_{\mu\nu} F^{\mu\nu} + \partial_\mu \sigma \partial^\mu \sigma + (v+\sigma)^2 (\partial_\mu \theta - eA_\mu)(\partial^\mu \theta - eA^\mu) - V(\sigma) \right)
+
+\]
+
+with
+
+\[ V(\sigma) = \sigma^2 (\sigma + 2v)^2 \, . \qquad (2.96)
+
+\]
+
+From this, we can read off the mass spectrum of the theory. First, the scalar \(\sigma\) is reasonably standard: it has a quadratic term that tells us its mass is
+
+\[ m^2 = 2\lambda v^2 \, . \qquad (2.97)
+
+\]
+
+This is the same mass that we calculated for the global symmetry. Later, when we discuss electroweak theory, we will learn that an analogous particle is the Higgs boson.
+
+More interesting is the other scalar field \(\theta(x)\). In the absence of the gauge field, this was the Goldstone boson. But now that we’ve introduced the gauge field, we see something interesting: this field only appears in kinetic terms in the combination \(\partial_\mu \theta - eA_\mu\) . (2.98)
+
+This allows us to eliminate the field \(\theta(x)\) completely. We simply define a new gauge field, related to the first by the change of variables \(A'_\mu = A_\mu - \frac{1}{e} \partial_\mu \theta\) . (2.99)
+
+This has the same field strength as \(A_\mu\), with \(F_{\mu\nu} = \partial_\mu A'_\nu - \partial_\nu A'_\mu\). However, in contrast to \(A_\mu\), the new field \(A'_\mu\) does not change under a gauge transformation since the usual shift \(A_\mu \to A_\mu + \partial_\mu \alpha\) is now compensated by \(\theta \to \theta + e\alpha\). Said slightly differently, you could also think of the change of variables to \(A'_\mu\) as analogous to working in the \(\theta = 0\) gauge, known, in this context, as unitary gauge. Either way, the upshot is the same: the field \(\theta(x)\) no longer appears in the action
+
+\[ S = \int d^4x \, \left( -\frac{1}{4} F_{\mu\nu} F^{\mu\nu} + \partial_\mu \sigma \partial^\mu \sigma + e^2(v+\sigma)^2 A'_\mu A'^\mu - V(\sigma) \right) \, . \qquad (2.100)
+
+\]
+
+We see that we’ve generated a mass term \(e^2 v^2 A'_\mu A'^\mu\) for the gauge field. This is exactly the kind of term that is usually forbidden by gauge invariance. But such a term arises naturally when we spontaneously break the gauge symmetry and the photon gets a mass
+
+\[ m^2 = 2e^2 v^2 \, . \qquad (2.101)
+
+\]
+
+This is the Higgs mechanism.
+
+There’s some interesting interplay of degrees of freedom going on here. Massive spin 1 particles have three degrees of freedom.
+
+--- ⁴ The original paper is from 1966, “Absence of Ferromagnetism or Anti-Ferromagnetism in One or Two-Dimensional Heisenberg Models” by Mermin and Wagner and, because of quirk of publication, appeared before the Hohenberg paper which motivated them: “Existence of Long-Range Order in One and Two Dimensions”. Sidney Coleman’s contribution is from 1973, in the concisely titled “There are no Goldstone Bosons in Two Dimensions”.
+
+(This is just the (2l + 1)-dimensional representation of the little group for l = 1.) But massless spin 1 particles have only two degrees of freedom, the two polarisation states. But it’s clear where the extra degree of freedom came from because the photon absorbed the would-be Goldstone mode θ(x). This Goldstone boson breathes life into the longitudinal mode of the photon which is ordinarily killed by the constraints of gauge invariance.
+
+Note that the mass of the Higgs boson (2.97) and the mass of the photon (2.101) have different parameteric dependence on the coupling constants. This means, among other things, that we could always just decouple the Higgs boson by taking m → ∞, leaving behind the massive photon at a finite mass m. Given this, you might wonder why we needed all this palava with the Higgs boson. And, in fact, we really don’t. We could always just couple the photon directly to the Goldstone mode θ, ignoring the radial mode σ. Said differently, we could just couple the photon to the sigma model with target space M = S¹ which gives a massive photon and no Higgs boson. However, this option is less viable when we discuss the Higgs mechanism in non-Abelian theories because the corresponding sigma model is non-renormalisable and so should be viewed as an effective low energy theory, breaking down in the UV.
+
+2.3.2 Superconductivity We will later see that the Higgs mechanism plays a key role in the Standard Model. But there is a glorious unity to physics, and if nature finds a good trick to use in one context, she often recycles it elsewhere. So it is with the Higgs mechanism, which also provides a description of how superconductors work. In that context, it is referred to as the Anderson-Higgs mechanism⁵.
+
+Superconductivity is a phenomenon exhibited by many metals when they are cooled to a few degrees Kelvin. The metal undergoes a phase transition, and the electrical resistivity promptly plummets. At the same time, any magnetic fields are expelled. The microscopic explanation for superconductivity is beyond the scope of these lectures. For what it’s worth, an attractive coupling mediated by the phonon causes electrons to form an object known as a Cooper pair. For our purposes, all we need to know is that the resulting bound state is described by a complex scalar field ϕ that has charge −2e, with the −2 because it’s formed of two constituent electrons.
+
+In condensed matter physics, we more commonly work with the free energy, which describes the equilibrium properties of a system at finite temperature, rather than the Lagrangian which describes the zero temperature dynamics. But to avoid taking too much of a detour, here we give a Lagrangian description of superconductivity. This⁵ is almost identical to the Abelian Higgs model of the previous section, with just one small difference: the dynamics of the scalar field ϕ is non-relativistic. This means that we should work with the action S = ∫ dtd³x [−(1/4) F_μν F^μν + i ϕ† ∂_t ϕ − |D_i ϕ|² − (λ/2)(|ϕ|² − v²)²]. (2.102) In addition, there’s an extra factor of −2 buried in the covariant derivatives: D_μ ϕ = ∂_μ ϕ + 2ie A_μ ϕ. (On dimensional grounds, there should be a coefficient with dimension (mass)⁻¹ in front of the gradient terms but I’ve set it to unity to ease comparison with the relativistic Abelian Higgs model (2.91).)
+
+A non-relativistic complex scalar has just a single degree of freedom. (This is true because the kinetic term contains a first order time derivative and so ϕ† is the momentum conjugate to ϕ, rather than a separate degree of freedom.) This means that if we quantise (2.102), we will find a massive photon, but the would-be Higgs boson (what we called σ in the relativistic theory) is missing.
+
+We can read off the charge density and current from the coupling A_μ J^μ. The charge density is J^0 = −2e|ϕ|². (2.103) In the ground state, we have the condensation |ϕ|² = v², so the Cooper pairs form a constant background electric charge. (In a real system, this is compensated by the positive electric charge of the underlying lattice of ions.) Meanwhile, assuming that |ϕ|² = v², the electric current is J = 4ev²(∇θ − 2eA). (2.104) Here, as in the previous section, θ(x) is the phase of ϕ(x). The expression (2.104) is known as the supercurrent. It is sometimes denoted as J_s to distinguish it from the normal current carried by electrons.
+
+Resistance is Futile The signature of a superconductor is that it conducts electricity without resistance. This follows immediately from the equation of motion for ϕ†, i D_0 ϕ = −D² ϕ + ∂V/∂ϕ†. (2.105) In the lowest energy state, the charge density |ϕ|² is constant. But the phase can vary. Indeed, from (2.104), we see that a spatially varying phase ∇θ ≠ 0 means that an electric current flows.
+
+Figure 4. A constant magnetic field can pass through a normal metal, as shown on the left. But when the metal becomes superconducting, as shown on the right, the magnetic field is expelled, a phenomenon known as the Meissner effect.
+
+Suppose that we look at such a configuration with |ϕ|² = v². Then the complex equation of motion (2.105) splits into real and imaginary parts, which are θ̇ − 2eA₀ = J²/(4ev²)² and ∇·J = 0. (2.106) To see the relevant physics, it’s simplest to restrict to the case where J is constant in space so that ∇J² = 0. Then, taking the time derivative of the (2.104), we have dJ/dt = 4ev²(∇θ̇ − 2eȦ) = 2(2ev)²(−∇Ȧ − Ȧ) = 2(2ev)²E. (2.107) This is the first London equation. It tells us that an electric field acts to accelerate the current, rather than to maintain the current. But that’s not what usually happens in a conductor. Usually, a constant electric field induces a constant current. That’s what the famous Ohm’s law equation V = IR says. But the resistance R in a normal conductor is due to friction terms, and the London equation (2.107) is telling us that a superconductor has vanishing resistance, R = 0.
+
+Meissner Effect Superconductors don’t like magnetic fields very much. If you try to force a magnetic field through a superconductor, then it will resist. This is known as the Meissner effect, or sometimes as the Meissner-Ochsenfeld effect. A cartoon of this is shown in Figure 4. It has the dramatic consequence that a superconductor, placed above a magnet, is repelled and can levitate in mid-air.
+
+At heart, the Meissner effect arises because the photon gets a mass. The term ∼ v² A · A in the action ensures that it is energetically costly to turn on a magnetic field.
+
+We can see this more quantitatively from the form of the supercurrent (2.104). If we take the curl of both sides, we find ∇×J = −2(2ev)²B. (2.108) This is the second London equation. We can compare it to Ampère’s law, ∇×B = µJ. Taking the curl, and using ∇×∇×B = −∇²B (because ∇·B = 0), we find that the magnetic field inside a superconductor obeys the Helmholtz equation ∇²B = B/λ² with λ² = 1/[2(2ev)²]. (2.109) Here λ is the penetration depth, a length scale equal to the inverse mass of the photon, λ = 1/m_γ. (The factor of 4 difference with (2.101) can be traced to the fact that, for superconductors, we’re dealing with a field with charge −2e rather than e.)
+
+To see why the penetration depth gets its name, we can solve this equation for a constant magnetic field of the form B = (0, 0, B(z)). (2.110) Suppose that the superconductor fills half of space, say the region with z > 0. We set up a constant magnetic field B = (0, 0, B₀) in the outside region z < 0 and ask what becomes of it when it enters the superconductor. There are two solutions to (2.109), but only the decaying one is physical. We find that the magnetic field drops off exponentially quickly inside the superconductor, B(z) = B₀ e^{−z/λ}. (2.111) This is the Meissner effect: the superconductor does not suffer a magnetic field inside. In most superconductors, λ ≈ 10⁻⁸ to 10⁻⁹ m. This is what allows superconducting materials to levitate above magnets: the magnetic field can’t penetrate the superconductor, and has to go around as shown in Figure 4. This squeezes the magnetic field lines which costs energy, making it energetically preferable for the superconductor to remain magically suspended in space, rather than falling like other materials that have more respect for gravity.
+
+Vortices There’s no such thing as an immovable object. If you push hard enough, by cranking up the magnetic field, then the superconductor will eventually relent and let it pass. But the way it does this is interesting.
+
+This follows because of a novel solution to the equations of motion of the action (2.102) known as a vortex. (This is also a solution to the relativistic Abelian Higgs model (2.91).) The vortex solution is time-independent, and extends along one spatial direction – say the z-direction – as a string-like object. To this end, we will look for solutions with ∂_0 = ∂_3 = 0 as well as A_0 = A_3 = 0.
+
+It turns out that no closed form solution to the resulting equations of motion is known (alth Though it is not hard to construct numerically, rather than try to solve the equations directly, we will instead argue that such a solution must exist. The argument involves a little simple topology.
+
+Consider the (x,y)-plane at z = 0. We will work with 2d polar coordinates x+iy = reiφ. The trick is to look for solutions such that, for any curve C around the origin, we have ∇θ·dx ≠ 0. (2.112)
+
+Our first task is to understand what this means. Usually, the integral of a total derivative is zero, but in the present case there’s an opportunity for something more interesting to happen. This is because the field θ started life as a phase of our scalar ϕ and, as such, is periodic, taking values θ ∈ [0,2π). For a periodic field θ, the line integral ∇θ·dx counts the number of times that θ winds as we traverse the curve C. For example, if the curve C is parameterised by a coordinate φ ∈ [0,2π) then we could consider field configurations of the form θ = kφ. Because θ must be single-valued, this only makes sense for k ∈ Z which is acceptable because θ = 0 is equivalent to θ = 2π. This, in turn, means that the integral (2.112) is necessarily quantised, ∇θ·dx = ∫₀²π dθ/dφ dφ = 2πk with k ∈ Z. (2.113)
+
+This quantisation doesn’t happen because of anything to do with quantum mechanics. Instead, it’s a quantisation imposed upon us by simple topological configurations. Let’s look for configurations in which the phase θ has winding (2.112). If this configuration is to have finite energy (per unit length) then, asymptotically, we must have |ϕ| → 0. This tells us that ∇θ·dx = 2e A·dx = 2e ∫d²x B = 2eΦ (2.114)
+
+with Φ the magnetic flux through the plane. We see that the quantisation of the winding translates into a quantisation of the allowed magnetic flux Φ = 2πk / (2e) with k ∈ Z. (2.115)
+
+I’ve not cancelled the factors of 2 here to stress the fact that, by measuring the minimal unit of flux, with k = ±1, you can determine that the current is carried by particles of charge ±2e, rather than the electron charge −e. (Indeed, this was one of the first experiments to confirm the charge of the condensate in a superconductor.)
+
+The quantisation of winding means that the field configurations in this theory split into distinct topological sectors, labelled by k ∈ Z. Because this integer is determined by the asymptotic boundary conditions, there’s no way that a field configuration in one topological sector can move smoothly into a configuration in another. This means that we can find novel solutions to the equations of motion by minimising the energy (per unit length) in any given sector.
+
+Let’s think about how this works for the minimum winding k = 1. Because the winding number is quantised, it can’t change gradually as we vary the radius of the contour C in (2.113). It must give the same value k = 1 for all choices of C. That’s all fine until we get to the origin, at which point the phase θ gets something of an identity crisis because it’s supposed to point in all directions at once. The only way out is to realise that θ is the phase of the field ϕ, and so there must be a point in the (x,y)-plane where ϕ = 0 so that the phase is ill-defined. This means that whenever we have winding, there is necessarily a small region of non-superconducting phase, with ϕ = 0, somewhere inside the contour C. That will be the region where it is energetically preferable for the flux Φ in (2.115) to penetrate.
+
+We can get an estimate for the size of the region over which the condensate varies. For simplicity, we set A = A = 0 and restrict to time-independent configurations ϕ(x,y). Then the equation of motion (2.105) reads ∇²ϕ = λϕ(|ϕ|² − v²). (2.116)
+
+This equation contains a natural length scale ξ, given by ξ² = 1/(λv²). (2.117)
+
+This is known as the coherence length. It is roughly equal to the inverse mass of the scalar (2.97) in the relativistic theory: ξ = √2/m. (That factor of √2 is just annoying convention.) The coherence length sets the scale over which the condensate ϕ is roughly zero (or, more precisely, exponentially small) in the vortex solution. In most superconductors, the coherence length is within a couple of orders of magnitude of the penetration depth, λ, the analogous quantity for the magnetic field.
+
+We could put more meat on this discussion by explicitly solving the equations of motion for the gauge field and scalar. By making a suitable, rotationally invariant ansatz, you can reduce these equations to two, coupled ordinary non-linear differential equations. There is no solution in closed form, but it is straightforward to solve them numerically. A schematic picture of the resulting condensate and magnetic flux, as a cut-through in the x-direction, is shown in Figure 5 in the case where λ > ξ, so the magnetic field spills out over the region where ϕ = 0.
+
+The discussion above took place in the z = 0 plane. But we can repeat the story as we move the contour C in the z-direction. The winding can’t change, and so the region with ϕ = 0 and magnetic flux necessarily extends in the z-direction. In other words, we have a magnetic flux tube. This is the vortex.
+
+The fact that non-linear equations of motion have novel localised solutions like the vortex is interesting. In particular, the existence of this solution can be traced to the topological nature of the winding. The general name given to solutions of this kind is soliton.
+
+For the story above, we restricted attention to the minimal k = 1 sector. What happens for higher k ≥ 2 is also interesting and depends on the ratio of the two length scales ξ/λ. There are three possibilities:
+
+• For ξ > 2λ, the scalar field ϕ spreads out further than the magnetic flux. But there is a general story that magnetic flux repels, while scalar fields attract. (For example, the Yukawa force is always attractive.) This means that two vortices will feel an attractive force, albeit one that is exponentially suppressed on scales r ≫ ξ. This is what happens in a Type I superconductor. What actually happens in practice is that, if you apply a magnetic field to a Type I superconductor, then the whole material will transition to the normal, metallic phase at some critical magnetic field Bc. This means that you don’t see vortices in this case.
+
+• For ξ < 2λ, the magnetic field spreads out further than the scalar field, as shown in Figure 5. In this case, two nearby vortices experience a repulsive force. This is known as a Type II superconductor. If you apply a magnetic field to a Type II superconductor then, initially, the superconductor will resist. But if you crank up the magnetic field suitably high then the superconductor will relent by allowing vortices to penetrate. These vortices repel, and so form a crystal-like structure known as an Abrikosov lattice.
+
+• The case ξ = 2λ is of less relevance physically, because you have to fine-tune two length scales, but is the situation with the richest mathematical structure. Now the attractive scalar force and repulsive magnetic force cancel, at least to leading order. Somewhat miraculously, it can be shown that this cancellation persists to all orders and the equations of motion exhibit solutions where k vortices can sit at k arbitrary points on the plane. These are known as BPS vortices.
+
+Magnetic Monopoles are Confined
+
+There is a lesson to take from the theory of superconductivity that will be important for particle physics. For this, we set up a thought experiment.
+
+Our thought experiment involves a hypothetical object called a magnetic monopole, a particle that emits a radial magnetic field B = g r̂ / (4πr²). (2.118)
+
+Here g is the magnetic charge. If you’ve been told that magnetic monopoles can’t exist because the Maxwell equation ∇·B = 0 is sacrosanct, then you’ve been lied to. (See, for example, the lectures on Gauge Theory for a discussion of how magnetic monopoles are compatible with everything you know and love.)
+
+Suppose that we have two magnetic monopoles, one with charge g = 1 and the other an anti-monopole with charge g = −1. If we place these monopoles a distance r apart in the vacuum, then the magnetic field lines will form the kind of dipole configuration that is familiar from our first course on Electromagnetism. This is shown on the left in Figure 7. The potential energy V(r) between two monopoles scales like the Coulomb force, V(r) ∼ g²/r. (2.119)
+
+Things are more interesting if we put the monopoles inside a superconductor. Now, the Meissner effect means that it’s no longer energetically preferable for the magnetic field lines to spread out all over space. Instead, the field lines will clump together to form a magnetic flux tube that, at least far from the monopoles, is described by the vortex solution that we met above. A cartoon of the field lines is shown on the right of Figure 7. Now the potential energy scales linearly with the separation, V(r) ∼ Er (2.120)
+
+where E is the energy per unit length of the vortex. This makes it very difficult to separate the monopole and anti-monopole: the further you want to pull them apart, the more energy it will cost. This is because they are attached by the flux tube which acts a little like an elastic band. (A little like an elastic band, but not a lot. Hooke’s law is V ∼ r² while here we have linear potential energy, V ∼ r, corresponding to a constant force.)
+
+Particles that experience a linear potential, like (2.120), are said to be confined. In Section 3, we will see that quarks in QCD exhibit a similar behaviour.
+
+2.3.3 Non-Abelian Higgs Mechanism
+
+The idea of the Higgs mechanism extends naturally to non-Abelian theories. This is the context in which we will need it when discussing elect ern then repeats itself: the strange and bottom quark both have Q = −1e while the charm and top both have Q = +2e. Note that, in this regard, the first generation of up and down quarks is the odd one out because the charge 2 quark is lighter than the charge −1 quark.
+
+This completes our discussion of the various elements in the QCD action (3.3). Now it’s time to understand the physics.
+
+## 3.1 Strong Coupling
+
+If you look naively at the action (3.3), you would think that QCD is a theory of massless gluons interacting with quarks. But that’s certainly not what we see in the world around us. Any massless gauge boson would mediate a long range force which drops off, like electromagnetism, as 1/r². Yet we know that the effects of the strong force don’t extend beyond the nucleus of the atom, which isn’t particularly big. In addition, we don’t see quarks wandering around freely. What we see are protons and neutrons. If the weak force didn’t exist, these would be joined by light particles called pions. But not quarks.
+
+All of which leads us to ask: why are the particles that we see in the world not directly related to the fields in the fundamental Lagrangian (3.3)?
+
+3.1.1 Asymptotic Freedom The answer to this question starts with the observation that the coupling constant of the strong force is not at all constant. Like all parameters in quantum field theory, its value depends on the distance scale, or equivalently energy scale, at which you look. This is the essence of renormalisation.
+
+To illustrate the physics, we will briefly step back from QCD and consider the more general theory with G = SU(N_c) gauge group, coupled to N_f massless quarks. Hence, N_c is the number of colours, and N_f the number of flavours. The gauge coupling g_s^2 depends on the energy scale µ at which the theory is probed and, at one-loop, is given by 1/ g_s^2(µ) = 1/ g_0^2 − (b_0 / (4π)^2) log(Λ_UV^2 / µ^2). (3.11)
+
+Here g_0^2 is the bare coupling that sits in the Lagrangian. It can be thought of as the coupling evaluated at the cut-off scale Λ_UV since g_s^2(Λ_UV) = g_0^2. The coefficient b_0 is given by b_0 = (11/3) N_c − (2/3) N_f. (3.12)
+
+A derivation of this result can be found in the lectures on Gauge Theory.
+
+The running of the coupling constant is often summarised in terms of the one-loop beta function β(g) ≡ µ dg_s / dµ = − (b_0 / (4π)^2) g_s^3, (3.13)
+
+whose solution gives the logarithmic behaviour (3.11).
+
+The all-important feature of the beta function is the overall minus sign. The flow of the coupling means that the theory is weakly coupled at high energies, a phenomenon known as asymptotic freedom. Conversely, it means that the theory is strongly coupled at low energies. From (3.12), we see that asymptotic freedom persists only if the number of flavours is sufficiently small N_f < (11/2) N_c. (3.14)
+
+Clearly this is satisfied by QCD with N_c = 3 and N_f = 6.
+
+Asymptotic freedom is rare in d = 3 + 1 dimensions. In fact, it only happens for non-Abelian gauge theories. Coupling constants in any theory run with scale but all of them – the QED fine structure constant, Yukawa couplings, self-interactions of scalars – get bigger as you go to high energies. It is only non-Abelian gauge theories where the coupling gets bigger as you go to low energies.
+
+The comparison to QED is useful. At distances larger than r ≥ 10^−12 m (which is the Compton wavelength of the lightest charged particle, namely the electron) the fine structure constant stops running and plateaus to the familiar value of α ≈ 1/137. But as you go to higher energies, or shorter distances, the fine structure constant increases. For example, at r ≈ 10^−17 m, which corresponds to E ≈ 100 GeV, we have α(µ) ≈ 1/127.
+
+Asymptotic freedom means that Yang-Mills theory is simple to understand at high energies, or short distance scales. Here it is a theory of massless, interacting gluon fields whose dynamics are well described by the classical equations of motion, together with quantum corrections which can be computed using perturbation methods. However, it becomes much harder to understand what is going on at large distances where the coupling gets strong. Indeed, the beta function (3.13) itself was computed in perturbation theory and is valid only when g_s^2(µ) ≪ 1. This equation therefore predicts its own demise at large distance scales.
+
+We can estimate the distance scale at which we think we will run into trouble. Taking the one-loop beta function at face value, we can ask: at what scale does g_s^2(µ) diverge? This happens at a finite energy Λ_QCD = µ exp( − 8π² / (b_0 g_s^2(µ)) ). (3.15)
+
+This is known as the strong coupling scale, or just the QCD scale. It has the property that dΛ/dµ = 0. In other words, it is an RG invariant. This is the scale at which the gauge coupling becomes strong.
+
+Viewed naively, there’s something very surprising about the emergence of the scale Λ_QCD. This is because the classical theory has no dimensionful parameter. Yet the quantum theory has a physical scale, Λ_QCD. It seems that the quantum theory has generated a scale out of thin air, a phenomenon which goes by the name of dimensional transmutation. In fact, as the definition (3.15) makes clear, there is no mystery about this. Quantum field theories are not defined only by their classical action alone, but also by the cut-off Λ_UV. Although we might like to think of this cut-off as merely a crutch, and not something physical, this is misleading. It is not something we can do without. And it is this cut-off which evolves to the physical scale Λ_QCD.
+
+Λ_QCD = Λ_UV e^{−8π²/(b_0 g_0^2)}. (3.16)
+
+This means that if the bare coupling is small, g_0^2 ≪ 1, as it should be then the physical scale Λ_QCD is exponentially suppressed relative to the UV cut-off: Λ_QCD ≪ Λ_UV. It’s a beautiful example of how a low-energy scale can be naturally generated from a high energy scale. (A similar mechanism can be seen in other contexts, including the BCS theory of superconductivity and the Kondo effect.)
+
+The QCD Scale for QCD So far, our discussion has been for the general theory of SU(N_c) with N_f flavours of massless quarks. What happens for actual QCD?
+
+Figure 8. The running of the strong coupling constant α_s = g_s^2/4π in terms of energy which is denoted Q in the plot. This is taken from the particle data group’s review of QCD.
+
+There is one important modification which is needed because the quarks in QCD are most certainly not massless. This is easy to accommodate. A quark of mass m contributes to the beta function as if it were massless for scales µ ≫ m. And it decouples from the physics for scales µ ≪ m. For scales µ ∼ m you need to be more careful, but we’ll simply duck the issue.
+
+Revisiting the quarks masses in (3.9), we see that the beta function acts as if it has N_f = 6 massless quarks for µ ≫ 173 GeV. And for 4.2 GeV ≪ µ ≪ 173 GeV, it acts as if it has N_f = 5 massless quarks, and so on. The combined experimental data for the running of α_s = g_s^2/4π is shown in Figure 8.
+
+The most important question is: what is the strong coupling scale Λ_QCD? As we will see, this determines the scale at which the interesting physics happens. For the strong force it lies around Λ_QCD ≈ 200 MeV. (3.17)
+
+This definition isn’t precise and you’ll also see statements that it is closer to 300 MeV. This could be due to different regularisation schemes, or whether you choose the definition of this scale to be α_s(Λ_QCD) = ∞ or α_s(Λ_QCD) = 1 (which doesn’t change things too much). There’s no right or wrong answer. As we will see, the point of Λ_QCD is to give a ballpark energy scale at which much of the physics of QCD takes place.
+
+To give a value for the strength of the coupling g_s itself, we need to specify the energy scale at which we do the measurement. A useful benchmark is the mass of the Z-boson, M_Z ≈ 90 GeV. Here the strong coupling constant has been measured remarkably accurately α_s(M_Z) = g_s^2(M_Z) / 4π = 0.1184±0.0007. (3.18)
+
+This is small enough to trust perturbation theory at these scales.
+
+3.1.2 Anti-Screening and Paramagnetism It’s useful to have some intuition for why non-Abelian gauge theories exhibit asymptotic freedom, with a negative beta function, while all other quantum field theories do not. Ultimately, to see this result you just have to roll up your sleeves and do the calculation (and an opportunity will be offered in the sister course on AQFT). Here we give a nice, but slightly handwaving, analogy from condensed matter.
+
+In condensed matter physics, materials are not boring passive objects. They contain mobile electrons, and atoms with a flexible structure, both of which can respond to any external perturbation such as applied electric or magnetic fields. One consequence of this is an effect known as screening. In an insulator, screening occurs because an applied electric field will polarise the atoms which, in turn, generate a counteracting electric field. One usually describes this by introducing the electric displacement D, related to the electric field through D = ϵ E (3.19)
+
+where the permittivity ϵ = ϵ_0 (1 + χ_e) with χ_e the electrical susceptibility. For all materials, χ_e > 0. This ensures that the effect of the polarisation is always to reduce the electric field, never to enhance it. You can read more about this in Section 7 of the lecture notes on Electromagnetism.
+
+(As an aside: In a metal, with mobile electrons, there is a much stronger screening effect which turns the Coulomb force into an exponentially suppressed Debye-Hückel, or Yukawa, force. This was described in the final section of the notes on Electromagnetism, but is not the relevant effect here.)
+
+What does this have to do with quantum field theory? In quantum field theory, the vacuum is not a passive boring object. It contains quantum fields which can respond to any external perturbation. In this way, quantum field theories are very much like condensed matter systems. A good example comes from QED. There the one-loop beta function is positive and, at distances smaller than the Compton wavelength of the electron, the gauge coupling runs as
+
+\frac{1}{e^2(\mu)} = \frac{1}{e^2} + \frac{1}{12\pi^2} \log \frac{\Lambda^2}{\mu^2}. \tag{3.20}
+
+This tells us that the charge of the electron gets effectively smaller as we look at larger distance scales, a phenomenon that is understood in very much the same spirit as condensed matter systems. In the presence of an external charge, electron-positron pairs will polarize the vacuum, as shown in the figure, with the positive charges clustering closer to the external charge. This cloud of electron-positron pairs shields the original charge, so that it appears reduced to someone sitting far away.
+
++ + + + + + + +
+
+The screening story above makes sense for QED. But what about QCD? The negative beta function tells us that the effective charge is now getting larger at long distances, rather than smaller. In other words, the Yang-Mills vacuum does not screen charge: it anti-screens. From a condensed matter perspective, this is weird. As we mentioned above, materials always have \chi > 0 ensuring that the electric field is screened, rather than anti-screened. However, there’s another way to view the underlying physics. We can instead think about magnetic screening. Recall that in a material, an applied magnetic field induces dipole moments and these, in turn, give rise to a magnetisation. The resulting magnetising field H is defined in terms of the applied magnetic field as
+
+B = \mu H \tag{3.21}
+
+with the permeability \mu = \mu_0 (1 + \chi_m). Here \chi_m is the magnetic susceptibility and, in contrast to the electric susceptibility, can take either sign. The sign of \chi_m determines the magnetisation of the material, which is given by M = \chi_m H. For -1 < \chi_m < 0, the magnetisation points in the opposite direction to the applied magnetic field. Such materials are called diamagnets. (A perfect diamagnet has \chi_m = -1. This is what happens in a superconductor.) In contrast, when \chi_m > 0, the magnetisation points in the same direction as the applied magnetic field. Such materials are called paramagnets.
+
+In quantum field theory, polarisation effects can also make the vacuum either diamagnetic or paramagnetic. Except now there is a new ingredient which does not show up in real world materials discussed above: relativity! This means that the product must be \epsilon \mu = 1 because "1" is the speed of light. In other words, a relativistic diamagnetic material will have \mu < 1 and \epsilon > 1 and so exhibit screening. But a relativistic paramagnetic material will have \mu > 1 and \epsilon < 1 and so exhibit anti-screening. Phrased in this way, the existence of an anti-screening vacuum is much less surprising: it follows simply from paramagnetism combined with relativity.
+
+For free, non-relativistic fermions, we calculated the magnetic susceptibility in the lectures on Statistical Physics when we discussed Fermi surfaces. In that context, we found two distinct contributions to the magnetisation. Landau diamagnetism arose because electrons form Landau levels. Meanwhile, Pauli paramagnetism is due to the spin of the electron. These two effects have the same scaling but different numerical coefficients.
+
+When you dissect the computation of the one-loop beta function in Yang-Mills theory, you can see that the gluons also give two distinct contributions: one diamagnetic, and one paramagnetic. And the paramagnetic contribution wins. Viewed in this light, asymptotic freedom can be traced to the paramagnetic contribution from the gluon spins.
+
+3.1.3 The Mass Gap
+
+When the coupling is small, quantum field theories look similar to their classical counterparts. For example, classical Maxwell theory provides a decent guide to what you might expect from QED. In contrast, when the coupling is large, all bets are off. The quantum theory and classical theory may be completely different. Yang-Mills and QCD provide the archetypal example.
+
+We will start our discussion by ignoring the quarks completely and look just at Yang-Mills theory,
+
+S = \int d^4x \ - \text{Tr} G_{\mu\nu} G^{\mu\nu}. \tag{3.22}
+
+For QCD we take gauge group G = SU(3), but everything we’re about to say holds for any simple, compact Lie group.
+
+Classically, Yang-Mills describes massless, interacting spin 1 fields. Its solutions include, among other things, waves that propagate at the speed of light. The question that we want to ask is: what is the physics of the quantum theory?
+
+Because the coupling is strong at low energies, we can’t answer this question using the traditional perturbative techniques that we learned in our first course on Quantum Field Theory. In fact, if we rely purely on analytic methods we can’t answer this question at all! Instead, we rely on numerical simulation and experiment, together with some heuristic ideas and a number of solvable toy models which give us intuition for what quantum field theories can do. But we do have a robust, clear answer: Quantum Yang-Mills is not a theory of massless particles, Instead, the lightest particle has a mass of m \sim \Lambda_{\text{QCD}}. This particle is called a glueball. We say that the theory is gapped which means that there is a gap between the ground state and the first excited state with energy E = mc^2. These glueballs also exist in our world, although they mix strongly with various neutral meson states and so don’t have a very clean experimental signature.
+
+We don’t currently have the ability to prove that Yang-Mills is gapped from first principles. It is generally considered one of the most important and challenging open problems in mathematical physics.
+
+3.1.4 A Short Distance Coulomb Force
+
+The existence of a mass gap goes hand in hand with another phenomenon: this is confinement.
+
+To highlight the physics, it’s best if we again look at the slightly more general case of G = SU(N) gauge theory. We can ask the kind of questions that we studied in our first course on Electromagnetism. Suppose that you take two test particles, a quark in the fundamental representation N and an anti-quark in the anti-fundamental \bar{N}. What force do they feel?
+
+There are two different answers to this question, depending on the separation r between the particles. If they are separated by a short distance r \ll \Lambda_{\text{QCD}}^{-1} \approx 5 \times 10^{-15} \text{ m}, then the coupling g^2 is small and we can trust the classical result. However, if the particles are separated by a large distance r \gg \Lambda_{\text{QCD}}^{-1}, then we’re firmly in the regime of strongly coupled physics and we might expect that the classical result is not a good guide.
+
+Here we start by considering the short-distance regime r \ll \Lambda_{\text{QCD}}^{-1}. The Compton wavelength of a particle of mass m is \lambda \sim 1/m and it only makes sense to talk about separating two quantum particles a distance r if r \gg \lambda. This means that to talk about the short-distance force experienced by two quarks, the quarks must have mass m \gg \Lambda_{\text{QCD}}. In the context of QCD, that means that the analysis below is valid only for charm, bottom and top quarks.
+
+Let’s remind ourselves of the story in QED. In electromagnetism, two particles of equal and opposite charges \pm e, separated by a distance r, experience an attractive Coulomb force, described by the potential energy V(r),
+
+V(r) = - \frac{e^2}{4\pi r}. \tag{3.23}
+
+In the framework of QED, we can reproduce this from the tree-level exchange of a single photon (where time should be viewed as flowing left-to-right in this diagram)
+
+``` e^+ -----> e^+ | | (photon)
+
+| e^- -----> e^- ```
+
+This computation can be found in the lectures on Quantum Field Theory.
+
+Now we want to do the same calculation in QCD. The diagram is the same, but with a gluon, rather than a photon, as the intermediary. The only difference lies in the fact that quarks carry colour indices, which are the a,b,c,d = 1,...,N indices in the Feynman diagram below
+
+``` q̄_b -----> q̄_d | | (gluon)
+
+| q_a -----> q_c ```
+
+Using the Feynman rules for QCD, the tree level potential between the quarks is given by the same Coulomb force law, dressed with the group theoretic factor
+
+V(r) = -s \frac{g^2}{4\pi r} T^A_{ca} T^{A\star}_{db}. \tag{3.24}
+
+We’ve still got those colour indices to deal with. At first glance, it looks like there’s N^2 different possibilities for the states of the ingoing particles (a,b = 1,...,N) and a further N^2 different possibilities for the states of the outgoing particles (c,d = 1,...,N). Happily, all of this boils down to some simple group theory. In the present case, we have the tensor product of representations
+
+N \otimes \bar{N} = 1 \oplus \text{adj} \tag{3.25}
+
+where the adjoint representation has dimension N^2 - 1. The object T^A T^A, viewed as an N^2 \times N^2 dimensional matrix, will then have two different eigenvalues, one for each of these representations. This will lead to two different coefficients for the forces. Our goal is to determine them. Here we give the general result:
+
+Claim: Suppose that we have two particles in representations R_1 and R_2. For each representation R \subset R_1 \otimes R_2, the force experienced by the two particles will be proportional to
+
+C(R) - C(R_1) - C(R_2) \tag{3.26}
+
+where C(R) is a number that characterises each representation, known as the quadratic Casimir, defined as
+
+T^A(R) T^A(R) = C(R) \mathbf{1}. \tag{3.27}
+
+Proof: Gluon exchange will result in a Coulomb-like force law (3.24), but with the group theoretic factor T^A(R_1) T^A(R_2). (For R_1 = N and R_2 = \bar{N}, this coincides with the result (3.24).) Consider the operator
+
+S^A = T^A(R_1) \otimes \mathbf{1} + \mathbf{1} \otimes T^A(R_2). \tag{3.28}
+
+Squaring and rearranging, we have
+
+T^A(R_1) \otimes T^A(R_2) = S^A S^A - T^A(R_1) T^A(R_1) \otimes \mathbf{1} - \mathbf{1} \otimes T^A(R_2) T^A(R_2). \tag{3.29}
+
+(This is the same kind of calculation that one does in atomic physics when computing the consequence of the spin orbit coupling \mathbf{L} \cdot \mathbf{S}. You can read more about this in the lectures on Topics in Quantum Mechanics.) Each of the final two terms on the right-hand side is a quadratic Casimir (3.27), while the first term decomposes into block diagonal matrices, with components labelled by the irreducible representations R \subset R_1 \otimes R_2. We have
+
+\left. T^A(R_1) \otimes T^A(R_2) \right|_R = \frac{1}{2} [C(R) - C(R_1) - C(R_2)] \tag{3.30}
+
+as promised. \square
+
+The upshot is that to calculate the force between a quark and anti-quark (or, indeed, between any two representations) we just need to know the quadratic Casimirs. For G = SU(N), the Casimir 对于基本表示、反基本表示和伴随表示的Casimir算子分别为 C(N) = C(N) = (N² - 1) / (2N) 以及 C(adj) = N 。 (3.31)
+
+我们还有单态（平凡表示）的 C(1) = 0。这意味着一个颜色自由度纠缠为单态的夸克-反夸克对所受的力正比于 (1/2) [C(1) - C(N) - C(N)] = -(N² - 1) / (2N) 。 (3.32)
+
+负号表示这是一个吸引力。这符合我们的经典直觉。然而，当夸克处于伴随通道时，我们有 (1/2) [C(adj) - C(N) - C(N)] = 1 / (2N) 。 (3.33)
+
+或许令人惊讶的是，这是一个排斥力。
+
+如果考虑的是两个夸克，而不是一个夸克和一个反夸克，我们可以进行同样的分析。此时群论分解为 N ⊗ N = □ ⊕ △ 其中 □ 是对称表示的杨图表示，其维度 dim(□) = (1/2)N(N + 1)，而 △ 表示反对称表示，其维度 dim(△) = (1/2)N(N - 1)。相关的Casimir算子为 C(□) = (N - 1)(N + 2) / N  以及  C(△) = (N - 2)(N + 1) / N 由此我们得知，两个处于对称通道的夸克在经典上会相互排斥，因为 (1/2) [C(□) - C(N) - C(N)] = (N - 1) / (2N) 。 (3.34)
+
+同时，两个处于反对称通道的夸克感受到一个经典的吸引力， (1/2) [C(△) - C(N) - C(N)] = -(N + 1) / (2N) 。 (3.35)
+
+最终，我们的兴趣在于 G = SU(3) 的QCD。这里存在一个群论上的新颖之处，因为反对称表示实际上与反基本表示相同， 3 ⊗ 3 = 3̄ ⊕ 6 。 (3.36)
+
+这意味着两个夸克将在反对称的 3̄ 通道中相互吸引。但如果我们再加入第三个夸克，根据式(3.32)，如果三个夸克都处于单态，第三个夸克也会感受到吸引力。我们看到，在QCD中，三个夸克可以感受到一种相互吸引的力。当然，这个力是经典计算的，并且它随 1/r 势衰减，就像电磁学的库仑力一样。尽管如此，这是我们首次看到为什么三个夸克形成色单态束缚态在能量上可能是有利的。
+
+3.1.5 长程禁闭力上述分析仅适用于间隔非常近（r ≪ Λ_QCD⁻¹ ≈ 5 × 10⁻¹⁵ 米）的粒子。但我们真正关心的是在大距离尺度上杨-米尔斯耦合变强时发生的情况。
+
+之前我们陈述（但未证明！）杨-米尔斯理论存在质量隙。这意味着，在距离 ≫ 1/Λ_QCD 处，力将由大质量粒子的交换而非无质量粒子的交换主导。在许多情况下，大质量粒子的交换会导致指数压低的Yukawa力，形式为 V(r) ∼ e⁻ᵐʳ/r，你可能合理地认为杨-米尔斯理论也会如此。但你错了。
+
+让我们再次考虑一个夸克和一个反夸克，分别处于 N 和 N 表示。在大距离下，两者之间的势能最终随距离线性增长 V(r) = σr (3.37)
+
+其中某个值 σ 具有能量每长度的量纲。由于我们稍后将解释的原因，它通常被称为弦张力。根据量纲分析，我们必须有 σ ∼ Λ_QCD²，因为游戏中没有其他有量纲的参数。
+
+力定律 (3.37)，说得温和一点，与我们习惯的情况截然不同。势能现在随间隔增大而增加。确实，要将夸克-反夸克对拉到无穷远需要无穷大的能量。
+
+对于两个夸克，若它们都处于基本表示，结果甚至更戏剧化。现在两个表示的张量积不包含单态（至少对于 SU(N) 且 N ≥ 3 是如此）。两个夸克的能量结果为无穷大。这是量子杨-米尔斯理论的一个普遍性质：唯一具有有限能量的态是规范单态。该理论被称为禁闭的，意味着单个夸克不能独立存在，而被迫与其他伙伴结合。
+
+禁闭现象，如同质量隙，是我们无法从第一性原理证明的。然而，再次地，有明确的数值证据以及大量的启发式解释。
+
+在3.3节中，我们将更仔细地研究夸克和反夸克在QCD中如何结合。大致说来，有两种可能性。首先，一个夸克和一个反夸克可以结合形成一个色单态。所得粒子被称为介子。或者，三个夸克可以通过SU(3)的不变张量 ϵabc 结合形成一个色单态。所得粒子称为重子，质子和中子是最明显的例子。
+
+注意，如果强相互作用由 SU(N)（N ≠ 3）描述，那么介子将总是夸克-反夸克对，因此总是玻色子。相反，SU(N) 中的重子包含 N 个夸克，因此当 N 为奇数时是费米子，当 N 为偶数时是玻色子。
+
+QCD通量管我们在2.3节讨论超导性时，已经见过一个禁闭势 (3.37) 的例子。在那个背景下，磁单极子经历禁闭力，原因很清楚：迈斯纳效应意味着磁场线形成通量管在能量上是有利的。
+
+对于QCD中的禁闭，没有如此简单的解释，但数值模拟清楚地表明，类似的通量管（或弦）确实形成，现在由色电场线构成。图9展示了两个例子，其中我们看到形成介子的夸克-反夸克之间的通量管，以及形成重子的三个夸克之间的通量管。事实上，弦理论的一些早期研究就是受到理解这些通量管动力学的启发。
+
+然而，与超导体的Higgs相不同，寻求一个描述QCD通量管的经典运动方程解是没有意义的。相反，QCD通量管在很大程度上是一个量子效应，只在执行路径积分后出现，该积分涉及对许多不同场构型的求和。
+
+为了强调物理，最好使用杨-米尔斯作用量 (1.103) 的另一种重新标度形式，其中规范耦合作为整体系数出现，因此对规范场的路径积分采取示意性形式 Z = ∫ DG exp [ -∫ d⁴x Tr( G_μν G_μν / (2g²) ) ] 。 (3.38)
+
+在弱耦合下，我们有 g² ≪ 1，我们可以使用鞍点技术证明路径积分由经典运动方程的解主导。但在强耦合下，我们有 g² → ∞，这粗略地说，告诉我们路径积分根本没有抑制。所有场构型，无论它们如何剧烈振荡，都贡献相同的权重。在无穷多不同的场构型中，那些看起来像通量管的构型似乎占主导地位。但我们不知道为什么。
+
+也许对禁闭最好的解释（尽管远未达到证明）来自于一种离散化杨-米尔斯理论的方法，称为格点规范理论。在那个背景下，你可以证明，如果你天真地对所有场构型求和而不加任何权重，那么你确实重现了禁闭行为。你可以在关于规范理论的讲座中找到这个计算的细节，以及为什么这个计算并非真正在物理区域进行的解释。
+
+人们试图将超导类比进一步推进。在超导体中，带电粒子（库珀对）凝聚，结果是磁荷被禁闭。反过来思考，如果带磁荷的粒子凝聚，那么电荷就会被禁闭。这个想法被称为双迈斯纳效应。它似乎是对的，但很难具体化。在QCD中凝聚并导致夸克禁闭的这些神秘色磁荷是什么？我们不知道。然而，在其他一些4维规范理论中，我们可以解析地证明禁闭，它确实通过单极子的凝聚发生。（这正是著名的Seiberg-Witten对N=2超对称规范理论的解中所发生的情况。）
+
+轻夸克的效应好像禁闭问题还不够困难似的，事情实际上比我上面概述的更复杂。这是因为在真实世界的QCD中，指定禁闭理论的简单力公式 (3.37) 根本不成立！
+
+情况是这样的。假设我们有纯杨-米尔斯理论。那么，对于任何非阿贝尔规范群的选择，包括 G = SU(3)，理论被强烈认为具有质量隙，由其强耦合尺度 Λ_QCD 决定，并且是禁闭的。这里“禁闭”意味着，如果你向理论中引入两个测试粒子——一个夸克和一个反夸克——那么它们之间的长程力定律将表现出线性行为 (3.37)。
+
+现在假设你有一个杨-米尔斯理论耦合到一个动力学夸克，其质量 m ≫ Λ_QCD。例如，你可以想象一个只有粲夸克而没有其他粒子的非现实世界。我们再次可以询问，我们取为夸克-反夸克对的两个测试粒子之间的能量是什么。在大距离 r ≫ Λ_QCD⁻¹ 处，我们有一个禁闭势 V(r) = σr 。 (3.39)
+
+但是，这次它并不对所有 r 持续。这是因为一旦我们将粒子拉伸超过点 σr > 2m，那么通过从真空中产生一个夸克-反夸克对，你可以降低态的能量。这个 qq̄ 对会断开弦，你将剩下两个类介子态，其中你原来的夸克-反夸克测试粒子现在与理论的动力学夸克结合在一起。
+
+这意味着禁闭力 (3.39) 的范围是有限的。它发生 for long distances, but not too long distances. Using the fact that the string tension scales as σ ∼ Λ², we see that quarks experience the confining force only in a region 1/m ≪ r ≪ 1/Λ_QCD. (3.40)
+
+Nonetheless, if we only have dynamical quarks with mass m ≫ Λ_QCD, then there’s still a window in which we see the confining behaviour.
+
+However, for real world QCD, there is no such window! The lightest quark has mass m ≪ Λ_QCD. If you like, the string breaks through the pair creation of up and down q q̄ pairs before we even get to the confining regime r ≫ Λ⁻¹_QCD. This means that thinking about the confining nature of real world QCD in terms of the linear potential (3.39) is a useful, but not entirely accurate, fiction.
+
+What does survive, however, is the statement that all finite energy states in QCD are necessarily colour singlets. That is the key takeaway that we will need when discussing the observed particle spectrum in Section 3.3.
+
+## 3.2 Chiral Symmetry Breaking
+
+Here’s a general piece of advice. If you want to understand the dynamics of a quantum field theory, first understand the symmetries. They dictate how the dynamics is organised and will often contain clues about the nature of the low-energy physics.
+
+So what are the symmetries of QCD? Well, obviously the theory is based on a G = SU(3) gauge group but, as we’ve stressed previously, that’s really a redundancy rather than a symmetry. Here we are interested in global symmetries.
+
+The actual symmetry group of the QCD action (3.3) is U(1)_{N_f}, which rotates the phase of each individual Dirac quark field. That alone doesn’t give us much insight.
+
+However, there is a much larger approximate symmetry of the theory. This emerges if we pretend that the quarks are massless.
+
+First, we should ask: why are we allowed to pretend that quarks are massless? The reason is that QCD comes with its own dynamical scale Λ_QCD. This is the scale at which all the interesting physics happens. This means that if we have any quark with a mass m ≪ Λ_QCD, then it’s appropriate to first understand the dynamics of the gauge fields in the massless limit, and subsequently figure out how the presence of the mass changes things as corrections of order m/Λ_QCD.
+
+As we’ve seen, we have Λ_QCD ≈ 200 MeV, while the masses of the quarks are m_down = 5 MeV and m_up = 2 MeV m_strange = 93 MeV and m_charm = 1.3 GeV (3.41)
+
+m_bottom = 4.2 GeV and m_top = 173 GeV.
+
+Clearly there’s no sense in which the charm, bottom and top quarks are light. In fact, they’re so much heavier than the QCD scale that they effectively just decouple from the low-energy dynamics and, for the story that we’re about to tell, we can just ignore them. (We’ll revisit these heavy quarks in Section 3.3 when we look more closely at the kinds of mesons and baryons that we can form.)
+
+At the other end, no one’s going to argue against the statement that m_up, m_down ≪ Λ_QCD and it’s an excellent approximation to treat these as massless and then see how the very small mass changes things. That leaves us with the strange quark. While it’s certainly true that m_strange < Λ_QCD, you might reasonably complain that it’s a bit of a stretch to replace < with ≪. All of which means that it will certainly be useful to pretend that there are two massless quarks, and it’s probably worth seeing what happens if we’re more optimistic and pretend that there are three massless quarks.
+
+At this stage, we don’t need to commit to the number of massless quarks, and we can work in generality. In fact, we don’t even need to commit to the number of colours.
+
+Consider G = SU(N_c) Yang-Mills, coupled to N_f flavours of massless fundamental fermions that we will continue to refer to as “quarks”.
+
+The additional symmetry comes from the realisation that each 4-component Dirac spinor q decomposes into two 2-component Weyl spinors, as in (1.48), q = (q_L, q_R)^T. (3.42)
+
+Each of the Weyl spinors q_L and q_R carries a colour index that runs over 1,...,N_c and a flavour index i = 1,...,N_f, as well as its 2-component spinor index. Written in terms of these Weyl fermions, our generalised but massless, QCD action (3.3) becomes S = ∫ d⁴x (-1/2 Tr G_{µν} G^{µν} + i ∑_{i=1}^{N_f} q̄_{Li} σ̄^µ D_µ q_{Li} + q̄_{Ri} σ^µ D_µ q_{Ri}). (3.43)
+
+where we’ve suppressed both colour and spinor indices in this expression. Written in this way, we see that the classical Lagrangian has a global symmetry G = U(N_f)_L × U(N_f)_R (3.44)
+
+which acts on the flavour indices as U(N_f)_L : q_Li → L_ij q_Lj and U(N_f)_R : q_Ri → R_ij q_Rj (3.45)
+
+where both L,R ∈ U(N_f). This is known as a chiral symmetry because it acts differently on left-handed and right-handed Weyl spinors. This chiral symmetry is a symmetry only of the theory with massless fermions because as soon as we add a mass term like q̄_L q_R, it breaks the chiral symmetry to its diagonal subgroup.
+
+As we will see, in the quantum theory different parts of the symmetry group G suffer different fates. Perhaps the least interesting is the overall U(1)_V, under which both q_L and q_R transform in the same way: q_L → e^{iα} q_L and q_R → e^{iα} q_R. This symmetry survives in the quantum theory and the associated conserved quantity counts the number of quark particles of either handedness. In the context of QCD, this is referred to as baryon number, because it counts baryons, but not mesons which have a quark-anti-quark pair.
+
+The other Abelian symmetry is the axial symmetry, U(1)_A. Under this, the left-handed and right-handed fermions transform with an opposite phase: q_L → e^{iβ} q_L and q_R → e^{-iβ} q_R. This is more subtle. It turns out that although this is a symmetry of the classical Lagrangian, it is not a symmetry of the full quantum theory due to a phenomenon known as the anomaly. We will explain this in Section 4. For now, you will have to just trust me when I say that U(1)_A is not actually a symmetry and we will not discuss it for the rest of this section.
+
+This means that the global symmetry group of the quantum theory is G = U(1)_V × SU(N_f)_L × SU(N_f)_R. (3.46)
+
+The two non-Abelian symmetries act as (3.45), but where L and R are now each elements of SU(N_f) rather than U(N_f). The question that we want to ask is: what becomes of this chiral symmetry?
+
+3.2.1 The Quark Condensate There are two striking phenomena in QCD-like theories. The first is confinement. The second, which at first glance seems less dramatic, is the formation of a quark condensate, also known as a chiral condensate.
+
+The quark condensate is a vacuum expectation value of the composite operators q̄_{Li} (x) q_{Rj} (x). (As usual in quantum field theory, one has to regulate coincident operators of this type to remove any UV divergences). It turns out that the strong coupling dynamics of non-Abelian gauge theories gives rise to an expectation value of the form ⟨q̄_{Li} q_{Rj}⟩ = -σ δ_{ij}. (3.47)
+
+Here σ is a constant which has dimension of [Mass]³ because a free fermion in d = 3+1 has dimension [ψ] = 3. (An aside: in Section 3.1 we referred to the string tension as σ; it’s not the same object that appears here.) The only dimensionful parameter in our theory is the strong coupling scale Λ_QCD, so we expect that parameterically σ ∼ Λ³_QCD, although they differ by some order 1 number.
+
+The first question to ask is: why does the condensate (3.47) form? The honest answer is: we don’t know. It is, like confinement and many other properties of strongly coupled gauge theories, an open question. It turns out that the formation of the condensate is implied by confinement, a statement that we will prove in Section 4.3. We will also give some very heuristic and hand-waving intuition for the formation of the condensate shortly.
+
+Of more immediate concern are the consequences of the condensate (3.47). This is surprisingly easy to answer because as we now explain, everything is entirely determined by symmetry.
+
+The key point is that, while our theory enjoys the full symmetry group (3.46), the vacuum does not. This is because, under G, the condensate (3.47) transforms as ⟨q̄_{Li} q_{Rj}⟩ → -σ (L† R)_{ij}.
+
+This means that massless QCD exhibits a dynamical spontaneous symmetry breaking which, in the present context, is known as chiral symmetry breaking (sometimes shortened to χSB). We see that the condensate remains untouched only when L = R. This tells us that the symmetry breaking pattern is G = U(1)_V × SU(N_f)_L × SU(N_f)_R → U(1)_V × SU(N_f)_V (3.48)
+
+where SU(N_f)_V is the diagonal subgroup of SU(N_f)_L × SU(N_f)_R.
+
+At this stage, a large part of the physics follows from our general discussion of symmetry breaking in Section 2.2. There will necessarily be a manifold of ground states (2.61), given by the coset M_0 = [SU(N_f)_L × SU(N_f)_R] / SU(N_f)_V. (3.49)
+
+The number of massless Goldstone bosons is given by the dimension dim M_0 = N²_f - 1. (3.50)
+
+This means that, if we pretend that we have N_f = 2 massless quarks (up and down), then we should find 3 massless Goldstone bosons in our world. We will soon identify these with light mesons known as pions. If we’re happy to be bold and think that there are really N_f = 3 (up, down, and strange), then we should find 8 massless Goldstone bosons. These additional Goldstone bosons are not-so-light mesons called kaons and the eta.
+
+In our world the pions are not massless. But this is because the constituent quarks are not exactly massless so the chiral symmetry is not exact. Nonetheless, the chiral symmetry is an approximate symmetry which, in turn, means that the would-be Goldstone bosons are light, but not exactly massless. Indeed, the pions are notably lighter than all other hadrons in QCD. We’ll look more closely at the details as this section proceeds.
+
+At a more theoretical level, we learn something interesting. Yang-Mills theory has a mass gap. But massless QCD, at least for N_f ≥ 2 where there is a non-Abelian global symmetry, does not. Even if the theory confines, giving massive baryons and glueballs, chiral symmetry...
+
+破缺意味着存在无质量的戈德斯通玻色子。
+
+如何理解夸克凝聚夸克凝聚 (3.47) 的存在告诉我们，空间的真空充满了夸克-反夸克对。同样，这里存在与超导的类比，尽管是我们之前在 2.3.2 节中未讨论的那部分超导。在超导体中，库珀配对意味着真空被电子对填充。重要的是，这些是真正的电子对，而不是电子-空穴对，后者负责 U(1)_em 对称性的破缺。相比之下，QCD 真空包含夸克-反夸克对，因此整体的 U(1) 得以保留，而破缺的是手征对称性。
+
+在超导体中，电子凝聚的不稳定性是费米面存在以及声子介导的弱吸引力共同作用的结果。然而，在空间的真空中，情况就没这么简单了。夸克凝聚的形成不会发生在弱耦合理论中。事实上，这是量纲分析的结果，因为如前所述，游戏中唯一的相关能标是 Λ_QCD。
+
+为了理解为什么凝聚会形成，让我们看看弱耦合 g^2 ≪ 1 时会发生什么。在这里我们可以进行微扰计算，看看胶子如何改变夸克哈密顿量。有两种定性上不同的效应。第一种是我们在 3.1.4 节中已经遇到的那种；树级的胶子交换在夸克之间产生了一种力。其形式为 ∆H = g^2 [ ... ]
+
+正如我们在 3.1.4 节中看到的，这些图的结果是在对称通道中为两个夸克之间提供排斥力，而在反对称通道中提供吸引力。类似地，当夸克-反夸克对形成色单态时相互吸引，当它们形成色伴随态时相互排斥。
+
+第二项对我们来说更有趣。相关图的形式为 ∆H_2 = g^2 [ ... ]
+
+这些项的新颖之处在于，它们提供了混合真空与包含夸克-反夸克对的态的矩阵元。在此过程中，它们改变了夸克 + 反夸克的总数。
+
+夸克凝聚 (3.47) 的存在告诉我们，在强耦合区域，像 ∆H_2 这样的项占主导地位。由此产生的基态具有不确定数目的夸克-反夸克对。或许令人惊讶的是，我们可以在保持洛伦兹不变性的同时，拥有一个充满夸克-反夸克对的真空。为此，夸克对必须在动量和角动量上具有相反的量子数。此外，我们预计凝聚会在吸引的色单态通道中形成，而不是在排斥的伴随态通道中形成。
+
+上面的粗略论述远不足以证明夸克凝聚的存在。那么我们如何知道它确实形成了？历史上，首先是从实验考虑中认识到这一点的，因为它解释了轻介子的谱；我们将在 3.3 节中详细描述这一点。在理论层面，最有说服力的论据来自晶格上的数值模拟。然而，凝聚的完整解析计算目前尚不可能。（就其本身而言，在某些超对称非阿贝尔规范理论中情况稍好，那里对动力学有更多控制，像夸克凝聚这样的对象可以精确计算。）最后，有一个优美但相当间接的论据，告诉我们每当理论禁闭时，凝聚 (3.47) 必须形成。我们将在 4.3 节中给出这个论据。
+
+3.2.2 手征拉格朗日量手征对称性破缺意味着戈德斯通玻色子的存在。我们的下一个任务是构建描述这些无质量粒子的理论。这完全由理论的对称结构所决定。
+
+正如我们所看到的，在任何具有自发破缺连续对称性的理论中，都存在一个基态流形 M，对我们来说，由 (3.49) 给出。M 中的不同点由凝聚参数化，通常形式为 ⟨q̄_Li q_Rj⟩ = -σ U_ij 其中 U = L†R ∈ SU(N_f)。戈德斯通玻色子是凝聚的长波长涟漪，其值现在在空间和时间中变化：U = U(x)。正如我们所看到的，有 N_f^2 - 1 个这样的戈德斯通玻色子，对应于 (3.48) 中每一个破缺的生成元。我们通过写作来参数化这些激发 U(x) = exp( 2i π(x) / f ), 其中 π(x) = π^a(x) T^a. (3.51)
+
+这里 π(x) 取值于李代数 su(N_f)。矩阵 T^a 是 su(N_f) 的生成元。（注意：我们在这里改变了记号：之前我们将李代数生成元记为 T^A，使用大写 A 指标。但将大写字母用作索引是不妥的，而且这个特定的指标将会增多。因此做出更改。更糟糕的是，在其他章节中，索引 a 被用来表示颜色。这里并非如此。）
+
+我们将组件场 π^a(x)（标记为 a = 1,...,N_f^2-1）统称为π介子，尽管严格来说这个术语仅在 N_f = 2 时准确。实际上，在 N_f = 2 的情况下，我们可以将场 π 按 SU(2) 的生成元展开，写成 π = 1/√2 ( π^0    2π^- ; 2π^+  -π^0 ). (3.52)
+
+我们稍后会将场 π^0 识别为中性π介子，π^± 识别为带电π介子。（我们将在 3.3 节中扩展到 N_f = 3，其中的戈德斯通玻色子是π介子、K介子和一种称为η的介子。）
+
+我们还在定义 (3.51) 中引入了一个常数 f，其质量量纲 [f] = 1。目前，这确保了π介子在四维中具有标量场的规范量纲 [π] = 1。它被称为π介子衰变常数，尽管这个名称在纯 QCD 背景下意义不大，因为π介子是稳定激发态不会衰变。我们将在第 5 节讨论弱力时看到这个名称的来源。根据一般原理，我们预期 f ∼ Λ_QCD。实际上，测量值大约为 f_π ≈ 130 MeV。
+
+低能有效作用量我们想构建一个控制戈德斯通玻色子 U 的理论。我们将要求我们的理论在完整的整体手征对称性 G = U(1)_V × SU(N_f)_L × SU(N_f)_R 下不变，其变换下 U(x) → L† U(x) R. (3.53)
+
+什么样的项可以添加到作用量中以与此对称性一致？明显的项是 tr(U†U)，但这行不通，因为 U ∈ SU(N_f)，所以 tr(U†U) = 1。（这里我们用 tr 表示 N_f 个味指标上的迹，以区别于我们在作用量 (3.43) 中使用的色指标上的迹 Tr。）令人高兴的是，这与 U 是无质量的戈德斯通场这一事实是一致的。
+
+接下来，我们可以看看动能项。乍一看，似乎有三个不同的候选者： (tr(U†∂_µ U))^2, tr(∂_µ U† ∂^µ U), tr(U† ∂_µ U)^2. (3.54)
+
+(3.54) 中的第一项为零，因为 U†∂U 是一个 su(N_f) 生成元，因此是无迹的。此外，我们可以利用 U†∂U = -(∂U†)U 这一事实，将第三项用第二项表示。这意味着存在唯一的描述π介子动力学的二阶导数拉格朗日量， L_pion = (f^2/4) tr(∂_µ U† ∂^µ U). (3.55)
+
+这就是手征拉格朗日量。尽管拉格朗日量非常简单，但这不是一个自由理论，因为 U 取值于 SU(N_f)。这是我们在 2.2 节中遇到的那种非线性 σ 模型。事实上，这确实是最初的非线性 σ 模型，由盖尔曼和列维于 1960 年首次引入。
+
+我们将我们的 σ 模型构建为具有 (3.53) 中给出的 SU(N_f)_L × SU(N_f)_R 对称性。但由于 U 取值于 SU(N_f)，我们不能简单地令 U = 0。确实，我们的 σ 模型描述了基态的简并性，但在每个基态中 U ≠ 0。这确保了手征拉格朗日量自发破缺了 SU(N_f)_L × SU(N_f)_R 对称性，正如它必须的那样。场 U 本身是与该对称性破缺相关的戈德斯通玻色子。
+
+π介子散射手征拉格朗日量的美妙之处在于它包含了无穷多个相互作用项，这些项通过对称性的要求被封装在一个简单的形式中。为了更明确地看到这些相互作用，我们用 (3.51) 中定义的π介子场重写手征拉格朗日量。只保留二次和四次项，手征拉格朗日量 L_pion 变为 L_pion = tr(∂_µ π)^2 - (1/(3f^2)) [ tr(π^2 (∂_µ π)^2) - (π ∂_µ π)^2 ] + ... (3.56)
+
+注意，如果我们对 su(N_f) 生成元使用 tr(T^a T^b) = (1/2) δ^{ab}，那么每个π介子场的动能项具有标准归一化：tr(∂_µ π)^2 = (1/2) ∂_µ π^a ∂^µ π^a。
+
+为具体起见，我们考虑 N_f = 2，并取 su(2) 生成元与泡利矩阵成正比：T^a = (1/2) σ^a。四次相互作用项则读作 L_int = -(1/(6f^2)) [ π^a π^a ∂π^b ∂π^b - π^a ∂π^a π^b ∂π^b ]. (3.57)
+
+由此，我们可以使用量子场论讲座中描述的技术，读出树级 ππ → ππ 散射振幅。我们将两个入射动量标记为 p_a 和 p_b，两个出射动量标记为 p_c 和 p_d。振幅为 iA_{abcd} = (i/(6f^2)) [ δ_{ab}δ_{cd} (4(p_a·p_b + p_c·p_d) + 2(p_a·p_c + p_a·p_d + p_b·p_c + p_b·p_d)) + (b ↔ c) + (b ↔ d) ]. (3.58)
+
+动量守恒 p_a + p_b = p_c + p_d 确保了一些项抵消。使用 Mandelstam 变量来看最简单，因为所有粒子都是无质量的，它们定义为 s = (p_a + p_b)^2 = 2p_a·p_b = 2p_c·p_d t = (p_a - p_c)^2 = -2p_a·p_c = -2p_b·p_d u = (p_a - p_d)^2 = -2p_a·p_d = -2p_b·p_c. (3.59)
+
+利用关系 s + t + u = 0，振幅取特别简单的形式， iA_{abcd} = (i/f^2) [ δ_{ab}δ_{cd} s + δ_{ac}δ_{bd} t + δ_{ad}δ_{bc} u ]. (3.60)
+
+我们可以通过多种方式改进对π介子散射的描述。首先，我们可以将上述振幅包括高阶圈图修正。非线性 σ 模型是不可重整化的，这意味着我们需要无穷多个抵消项来调节发散。然而，这不应被视为任何障碍；该理论…… is designed only to make sense up to a UV cut-off of order f. As long as we restrict our attention to low-energies, the theory is fully predictive. In addition, we could think about adding higher derivative terms to the chiral Lagrangian. These are corrections that are suppressed by E/f where E is the energy of the scattering process. At the next order in the derivative expansion, there are three independent terms: L = a (cid:0)
+
+tr∂µU†∂ U (cid:1)2 +a (cid:0)
+
+tr∂ U†∂ U (cid:1)(cid:0)
+
+tr∂µU†∂νU (cid:1)
+
+4 1 µ 2 µ ν (cid:0) (cid:1)
+
++a tr ∂ U†∂µU∂ U†∂νU . (3.61)
+
+3 µ ν Here a are dimensionless coupling constants. There is one further, very important term, known as the Wess-Zumino-Witten (WZW) term that appears at the same order, but can’t be written in terms of a 4d action. This is the start of a long and gorgeous story that we won’t have time to discuss in these lectures. You can read more about it in the lectures on Gauge Theory.
+
+Currents We started with quarks and gluons in (3.43) and, at low energies, end up with a very different looking theory of pions (3.55). It’s interesting to ask how operators get mapped from one theory to the other. This is particularly straightforward when the operators in question are the currents associated to the SU(N ) ×SU(N ) chiral symmetry.
+
+f L f R In the microscopic theory, we have flavour currents for SU(N ) and SU(N ) , given f L f R by Jaµ = q¯ σ¯µTaq and Jaµ = q¯ σµTaq (3.62)
+
+L Li ij Lj R Ri ij Rj where Ta are su(N ) generators and the colour and spinor indices have been ij f suppressed. If we write these in terms of the vector and axial combinations: Jaµ = Jaµ +Jaµ and Jaµ = Jaµ −Jaµ then we get the familiar expressions V L R A L R Jaµ = q¯Taγµq and Jaµ = q¯Taγµγ5q . (3.63)
+
+V i ij j A i ij j Now we can ask: what are the analogous expressions for Jaµ and Jaµ in the chiral Lagrangian?
+
+L R To answer this, let’s start with SU(N ) . Consider the infinitesimal transformation f L L = eiαaTa ≈ 1+iαaTa Under this SU(N ) , we have U → L†U so, infinitesimally, f L δ U = −iαaTaU . (3.64)
+
+We can now compute the current using the standard trick: elevate αa → αa(x). The Lagrangian is no longer invariant but instead transforms as δL = ∂ αaJa and the function Ja is the current that we’re looking for. Implementing this, we find µ Lµ Lµ if2 (cid:16) (cid:17)
+
+Ja = π tr U†Ta∂ U −(∂ U†)TaU . (3.65)
+
+Lµ 4 µ µ We can also expand this in pion fields (3.51). To leading order we have simply Ja ≈ − π ∂ πa . (3.66)
+
+Lµ 2 µ Similarly, under SU(N ) , we have δU = iαaUTa and f R if2 (cid:16) (cid:17) f Ja = π −TaU†∂ U +(∂ U†)UTa ≈ + π ∂ πa . (3.67)
+
+Rµ 4 µ µ 2 µ Both currents have non-vanishing matrix elements between the vacuum |0⟩ and a one-particle pion state |πa(p)⟩ that carries momentum p. For example ⟨0|Ja (x)|πb(p)⟩ = − f δabp e−ix·p . (3.68)
+
+Lµ 2 π µ This tallies with our general discussion of symmetry breaking in (2.2) where we saw that the Goldstone bosons are created by acting with the broken symmetry generators on the vacuum (2.75).
+
+Because the Goldstone bosons are associated to the broken symmetry generators for axial current Ja , which is a pseudovector, the pions must also be pseudoscalars, meaning that they are odd under parity. We’ll look more closely at the quark content of the pions in Section 3.3.
+
+Aµ Historically, the approach to thinking of chiral symmetry breaking in terms of currents was known as current algebra, and predates our understanding of quarks. The equation (3.68) played a starring role in this story. It is telling us that the chiral SU(N ) ×SU(N ) is spontaneously broken, and acting on the vacuum gives rise to the particles that we call pions. In the language of current algebra, we see that the diagonal combination SU(N ) survives since ⟨0|Ja |πb⟩ = ⟨0|Ja +Ja |πb⟩ = 0.
+
+f L f R f V V µ Lµ Rµ Adding Masses Our discussion so far has been for massless quarks. That’s not particularly realistic. Nonetheless, as we stressed in the introduction to this section, there is reason to expect that the massless limit provides a good jumping off point to understand the physics of light quarks. Our next task is to understand how to incorporate masses.
+
+The QCD action is   (cid:90) 1 (cid:88) N f (cid:0) (cid:1)
+
+S = d4x − TrG µν Gµν + iq¯ i D/q i −m i q¯ i q i  . (3.69)
+
+i=1 If the masses are large compared to Λ , then the quarks play no role in the low-QCD energy physics. This is the case for the charm, bottom, and top quarks and we continue to ignore them in what follows.
+
+But for the up, down and (optimistically!) strange quarks, we may assume that the quark condensate (3.47)
+
+⟨q¯ q ⟩ ≈ −σU (3.70)
+
+Li Rj ij continues to form at the scale σ ∼ Λ3 , with the masses giving small corrections. We can then incorporate the masses in the chiral Lagrangian by introducing the N ×N mass matrix, QCD f f M = diag(m ,...,m ) . (3.71)
+
+1 N Because we’re now dealing with a low-energy effective theory, the masses that appear here should be the renormalised masses, rather than the bare quark masses quoted earlier in (3.41). In the presence of masses, the leading order chiral Lagrangian is then f2 σ L = π tr(∂µU†∂ U)+ tr (cid:0) MU +U†M† (cid:1) . (3.72)
+
+pion µ 4 2 This lifts the vacuum manifold of the theory. It can be thought of as adding a potential to the vacuum moduli space M , resulting in a unique ground state. To see the effect in terms of pion fields, we can again expand U = e2iπ/fπ, to find σ (cid:16) (cid:17)
+
+L = tr(∂π)2 − tr (M +M†)π2 +... (3.73)
+
+2 f2 and we see that we get a mass term for the pions as expected. These almost-Goldstone bosons are sometimes referred to as pseudo-Goldstone bosons.
+
+For example, if we restrict to N = 2, we have M = diag(m ,m ). Then, expanding f d u the matrix π in terms of the component fields (3.52), (cid:32) (cid:33)
+
+1 π0 2π− π = √ . (3.74)
+
+2 2π+ −π0 the quadratic terms in (3.73) become 1 σ L = ∂ π0∂µπ0 +∂ π+∂µπ− − (m +m )((π0)2 +2π+π−) . (3.75)
+
+2 2 µ µ 2f2 d u We see that all three pions get an equal mass, given by m2 = (m +m ) . (3.76)
+
+π f2 u d We learn that the square of the pion mass scales linearly with the quark masses. This is known as the Gell-Mann-Oakes-Renner relation. The proportionality constant is the (so-far undetermined) ratio σ/f2.
+
+3.2.3 Phases of Massless QCD Throughout this section, we’ve couched our discussion in the broader context of a gauge theory with G = SU(N ) Yang-Mills, coupled to N flavours of massless quarks. Obviously, if our interest is in the real world then we can focus on N = 3 and N = 2 or 3, depending on taste. But there’s a broader theoretical question that we could ask which is: what is the low-energy physics of the theory with general N and N ?
+
+c f c f c f In this section, we take a quick detour to explain what’s known. As we will see, there are a number of open questions.
+
+We start with low N : f • When N = 0, we have pure Yang-Mills. The theory sits in the confining phase, f with a mass gap.
+
+• When N = 1, there is no chiral symmetry group (3.46) and so no chiral symmetry f breaking. The theory is again thought to have a mass gap, with quarks bound in mesons and baryons.
+
+• When 2 ≤ N ≤ N⋆ the theory confines and exhibits chiral symmetry breaking. f This means that the low energy theory consists of freely interacting Goldstone bosons, parameterising the moduli space (3.49).
+
+The big question here is: what is the maximum value N⋆ for which chiral symmetry breaking occurs? We don’t know the answer to this. Various approaches, including numerics, suggest that it is somewhere around N⋆ ≈ 4N This means that, for the N = 2 or 3 of QCD, we are firmly in the chiral symmetry breaking regime. But, in general, our lack of knowledge of this simple question highlights just how poorly we understand strongly interacting field theories.
+
+Now let’s jump to high values of N and we’ll then try to fill in the details in the middle.
+
+f • When N ≥ 11N , the beta function is positive. You can see this from the general f 2c expression for the beta function (3.12), 11 2 b = N − N . (3.77)
+
+0 c f 3 3 This means that the theory is weakly coupled in the infra-red: the low-energy physics consists of massless gluons, weakly interacting with massless quarks. As we go to smaller and smaller energies, the interactions become weaker and weaker. Strictly speaking, in the far IR, the physics is free.
+
+On the flip side, these theories become arbitrarily strongly coupled in the UV, with the gauge coupling diverging at some very high scale. This doesn’t mean that we should discard them, but they don’t make sense at arbitrarily high energy scales. Said another way, we can’t take the UV cut-off Λ to infinity while keeping any UV low-energy interactions. Nonetheless, it’s quite possible that these theories may arise as the low-energy limit of some other theory.
+
+That leaves us with the physics in the middle region. We’ll keep working down from the asymptotic freedom bound 11N /2.
+
+f • When N⋆⋆ < N < 11N , things are more interesting. To see what happens, we f 2c need the two-loop beta function b b β(g) = − 0 g3 − 1 g5 +... (3.78)
+
+(4π)2 (4π)4 with the one-loop coefficient b given in (3.77) and the two-loop coefficient 34N2 N (N2 −1) 10N N b = c − f c − f c . (3.79)
+
+1 3 N 3 In the window of interest, b > 0 and b < 0, so we can play the one-loop 0 1 contribution against the two-loop contribution to find a zero of the beta function g2 = −(4π)2 0 (3.80)
+
+⋆ b with β(g ) = 0. The beta function is shown in Figure 10. The existence of such a ⋆ fixed point is telling us that we have an interacting conformal field theory: there are massless modes, but they are no longer free in the infra-red. This is known as the Banks-Zaks fixed point.
+
+Importantly, when N lies just below the asymptotic 当 N 趋于无穷大时，在微扰分析下，红外固定点位于 g* ≪ 1 的位置，这意味着我们可以信任该分析而无需担心高阶修正。此外，由于 g 很小，我们可以使用微扰论来计算任何我们需要的东西。然而，随着 N 的减小，固定点 g* 的值会增大，直到我们不再能信任上述分析。预期是只有在某个范围的 N 内才能得到共形场论，这个范围位于 N_c < N < 11N_c / 2 之间，被称为共形窗口。我们目前尚不知道 N** 的值。这就留下了理解当 N* < N ≤ N** 时中间区域会发生什么的问题。我们最好的猜测是不存在这样的区间，手征对称性破缺相的上边界与共形窗口的下边界重合，即 N** = N*。这一猜测部分基于数值结果，部分是因为缺乏其他令人信服的替代方案。对我们而言，得出的教训是，强相互作用的量子场论非常困难，即使是最基本的问题也超出了我们当前的能力。无质量 QCD 的预期行为总结见图 11。
+
+夸克的电荷、质量（单位：MeV）如下：下夸克 d，电荷 -1/3，质量 5；上夸克 u，电荷 +2/3，质量 2；奇夸克 s，电荷 -1/3，质量 93；粲夸克 c，电荷 +2/3，质量 1270；底夸克 b，电荷 -1/3，质量 4200；顶夸克 t，电荷 +2/3，质量 170,000。表 3 列出了这些夸克。
+
+## 3.3 强子
+
+色禁闭意味着夸克被束缚成色单态。从群论的角度看，有两种可能性：夸克-反夸克对，称为介子，或者三个夸克的集合，称为重子。这些粒子统称为强子⁷。强子物理的大部分内容是杂乱而复杂的。一些慰藉再次来自对称性。回想一下，如果我们假设夸克是无质量的，那么整体对称性表现出如下的对称性破缺模式：U(1)_V × SU(N_f)_L × SU(N_f)_R → U(1)_V × SU(N_f)_V。 (3.81)。破缺的生成元产生π介子和其他戈德斯通玻色子，我们稍后会看到这些如何由夸克产生。但现在，我们的兴趣在于残存的 SU(N_f)_V 对称性。我们将用它来组织强子的谱系。我们并不需要夸克是无质量的来获得 SU(N_f)_V 对称性：我们只需要它们的质量都相等。它们的质量及其电荷见表 3。将 m_up ≈ m_down 视为近似相等似乎是合理的，至少是一级近似。（记住，我们是在与 Λ_QCD ≈ 200 MeV 进行比较。）事实上，我们将看到在强子谱中存在明显的 SU(2) 对称性。这最早由海森堡发现，他注意到质子和中子与强相互作用的性质几乎相同，这被称为同位旋。（这个名字不太好，因为它与“自旋”无关。）
+
+⁷ 我强烈建议你花点时间，哪怕只是简要浏览一下粒子数据组发布的手册，以了解你脚下这个强子世界的基本情况。
+
+与此同时，尽管奇夸克质量存在明显差异，但在强子谱中也存在一种非常可见、尽管是近似的 SU(3) 对称性。这由盖尔曼和奈曼在 1961 年独立发现，被称为八重道。（因为 dim SU(3) = 8。）注意，这里的 SU(3) 与 QCD 的规范群 SU(3) 无关。它是一个完全不同的（并且是近似的）整体 SU(3)，用于旋转不同味道的轻夸克。还有其他 QCD 对称性可用于为粒子分配量子数。这些是对应于粒子角动量或自旋 J 的旋转、宇称和电荷共轭，后两者都是 QCD 的对称性（尽管不是完整标准模型的对称性）。粒子通常带有标签 J^PC，其中 P = ± 表示该态是偶宇称还是奇宇称，C = ± 表示在电荷共轭下是偶还是奇，在此语境下通常称为 C 宇称。（附带一提：如果你浏览粒子数据手册，有时会看到额外的量子数 I^G。这里 I 是同位旋的 I 本征值。因此，例如，如果粒子处于同位旋二重态中，它们成 I = ±1 对出现。而 G 代表 G 宇称，其组合为 G = C e^{iπI₂}，其中同位旋旋转被设计为将 I₃ → -I₃。）
+
+在本节的其余部分，我们将描述包含上夸克、下夸克和奇夸克的强子，并看看它们如何为 SU(3) 味对称性提供表示。最后，我们将探讨用较重的粲夸克、底夸克和顶夸克可以构成哪些粒子。
+
+3.3.1 介子自然界中观测到数百种介子。一个简单的模型将介子视为夸克和反夸克的束缚态，或这些态的某种线性组合。每个夸克都是费米子，因此介子是玻色子，并具有整数自旋。这里我们将描述一些最轻的自旋为 0 和 1 的介子，它们只包含上、下和奇夸克。我们的三种味道的夸克（d, u, s）在 SU(3) 味道对称性下变换为 3。一点群论告诉我们，夸克和反夸克必须变换为 3 ⊗ 3̄ = 1 ⊕ 8。 (3.82)。所以我们预期介子属于 SU(3) 味的两种表示：单态 1 和伴随表示 8。
+
+赝标量介子：我们首先看质量最低的自旋为 0 的介子。如果夸克的自旋是反平行的，并且粒子具有零轨道角动量，我们就得到总自旋为零。我们在第 1.4 节中看到，如果一个费米子具有宇称 +1，那么反费米子就具有宇称 -1，这意味着自旋为 0 的介子具有奇宇称。我们写为 J^PC = 0^{-+}。我们首先给出这些介子的实验数据，然后看它们如何符合我们已知的信息。表 4 列出了最轻的赝标量介子的名称、夸克组成、质量和寿命。上标 ± 和 0 告诉我们介子的电磁电荷。带电介子 π⁺ 和 K⁺ 分别有反粒子 π⁻ 和 K⁻。中性介子 π⁰、η 和 η′ 都是它们自身的反粒子；每一个都由一个实标量场描述。最后，中性 K⁰ 由一个复标量场描述，其反粒子记为 K̄⁰。这意味着总共有 9 种不同的介子态，这与我们简单的预期 (3.82) 一致。首先，一个明显的评论：介子的质量并不等于其组成夸克质量之和！我们从对手征拉格朗日量和 Gell-Mann-Oakes-Renner 关系 (3.76) 的分析中已经预见到这一点。这触及了强耦合量子场论的本质。介子——以及实际上的重子——是复杂的物体，由一团沸腾的胶子、夸克和反夸克海组成。这正是赋予介子和重子质量的原因，也使得这些粒子难以理解。
+
+这九种不同的介子态可以通过以下方式分解为 1 ⊕ 8 多重态： ( u \\ d \\ s ) ⊗ ( ū, d̄, s̄ ) = ( ū ū d̄ ū s̄ \\ d ū d̄ d̄ d s̄ \\ s ū s̄ d̄ s̄ s̄ ) = μ₀ 1 + Σ_{a=1}^8 μ_a λ_a。 (3.83)
+
+其中 λ_a 是盖尔曼矩阵 (3.6)，现在作为 SU(3)_V 的生成元。我们现在忽略单态 μ₀，专注于属于 8 的介子。这些正是我们之前遇到的戈德斯通玻色子。各种场 μ_a 自然重排成两个实场和三个复场，我们称之为π介子、K介子和η介子： π⁰ = μ₃, π⁺ = (μ₁ - iμ₂)/√2 (3.84)
+
+K⁰ = (μ₄ - iμ₅)/√2, K⁺ = (μ₆ - iμ₇)/√2, η = μ₈。
+
+矩阵 (3.83) 被识别为我们在上一节中遇到的戈德斯通玻色子矩阵。我们之前在 (3.52) 中为 N_f = 2 个夸克写过这个。扩展到 N_f = 3 个夸克是： π = Σ_{a=1}^8 μ_a λ_a = (1/√2) ( (π⁰/√3 + η/√6) π⁺ K⁺ \\ π⁻ -(π⁰/√3) + η/√6 K⁰ \\ K⁻ K̄⁰ -√(2/3) η )。 (3.85)
+
+你可以验证这重现了表 4 所示的夸克组成。如果三个夸克的质量相等，那么这 8 个粒子将具有相同的质量。这些介子的群论基础鼓励我们把它们画在 SU(3) 权图上，如图 12 所示。两个 U(1) ⊂ SU(3) Cartan 子群下的电荷也已示出。它们被取为同位旋 I ⊂ SU(2) ⊂ SU(3) 和“奇异数” S，后者实际上计数介子中的奇异数。对角线上显示的合适组合给出了电荷 Q。这些是 QCD 中的精确量子数（但当包含弱相互作用时则不是），历史上，正是通过观察它们在动力学过程（如粒子衰变）中的守恒，才识别出了上述模式。如果我们比较π介子和 K 介子，从数据中我们看到，增加一个奇夸克会使介子的质量增加约 350 MeV。这比奇夸克的裸质量 ∼ 100 MeV 要大得多。再次，这突出了强相互作用场论的困难：你无法直接从经典拉格朗日量中读出物理。
+
+我们可以通过手征拉格朗日量的视角来取得一些进展。我们回到有质量的拉格朗日量 (3.73)，现在使用质量矩阵 M = diag(m_u, m_d, m_s)。再次强调，这些应该是重整化质量，而不是裸质量。使用 (3.85) 展开作用量，我们发现质量为： L_mass = (1/f²) [ (m_u + m_d) ( (π⁰)²/2 + π⁺π⁻ ) + (m_u + m_s) K⁻K⁺ + (m_d + m_s) K̄⁰K⁰ + (m_u + m_d + 4m_s)/3 * η²/2 + (√2/3)(m_u - m_d) π⁰η ]。 (3.86)
+
+这推广了我们之前的结果 (3.75)。注意 π⁰ 和 η 之间存在混合，尽管当 m_u = m_d 时这种混合消失，从而同位旋得以恢复。
+
+By taking ratios, we can eliminate the overall scale σ/f² and relate meson and quark masses directly. For example, we have
+
+(m²ₖ₊ - m²ₖ₀) / (m²_π) = (mᵤ - m_d) / (mᵤ + m_d). (3.87)
+
+We can also derive expected relationships between the meson masses. For example, we have 3m²_η + m²_π = 2σ (2(mᵤ + m_d) + 4m_s). If we accept that mᵤ ≈ m_d, then we get the relation
+
+4m²ₖ ≈ 3m²_η + m²_π. (3.88)
+
+This is known as the Gell-Mann-Okubo relation. Comparing against the experimentally measured masses, we have
+
+½(3m²_η + m²_π) ≈ 480 MeV, which is not far off the measured value of mₖ ≈ 495 MeV.
+
+So far, there is one scalar meson that we’ve not yet discussed. This is the singlet in the decomposition 3 ⊗ 3̄ = 1 ⊕ 8, associated to the field μ in (3.83). This field corresponds to the meson η′, pronounced eta-prime,
+
+η′ = √(1/3)(uu̅ + dd̅ + ss̅). (3.89)
+
+From Table 4, we see that this is by far the heaviest of the scalar mesons. This is because, in contrast to the other mesons, it is not a pseudo-Goldstone boson: if you sent the quark masses to zero, then the pions and kaons and eta all become massless. The eta-prime remains massive.
+
+In fact, there’s more to the story of the eta-prime. Recall that back in Section 3.2, we mentioned that the classical Lagrangian of massless QCD also has an axial U(1) symmetry. Naively, it appears as if this too is spontaneously broken by the condensate (3.47). If this were true, the eta-prime meson would be the corresponding pseudo-Goldstone boson, in which case we have a puzzle on our hands because it seems too heavy to be Goldstonesque.
+
+The answer to this puzzle will be presented in Section 4 where we’ll see that U(1), while a symmetry of the classical action, is not a symmetry of the quantum theory because it suffers something called an anomaly. The fact that the eta-prime is inordinately heavy is one consequence of this.
+
+**Pseudovector Mesons**
+
+This same pattern of 1 ⊕ 8 repeats many more times in excited meson states, in which the spins of the quarks are aligned (rather than anti-aligned) or the quarks have some additional relative orbital angular momentum L. The total parity of these excited meson states is P = (-1)^{L+1}.
+
+The first such collection occurs when the spins are aligned, but L = 0, giving a collection of 9 pseudovector mesons with Jᴾᶜ = 1⁻⁻, as listed in Table 5. The lightest of these spin 1 mesons are the rhos, ρ± and ρ⁰, which can be viewed as excited pions. The heaviest is the phi meson, which is again the singlet 1. Note that by the time we get to the excited kaons, some naming exhaustion has set in, and the fact that these are excited states is denoted merely by the addition of a star.
+
+**Table 5. The pseudovector mesons**
+
+| Meson      | Quark Content       | Mass (in MeV) | Lifetime (in s) | |------------|---------------------|---------------|-----------------| | rho ρ±     | u d̅                 | 770           | 10⁻²⁴           | | rho ρ⁰     | √(1/2)(u ū - d d̅)   | 770           | 10⁻²⁴           | | omega ω    | √(1/2)(u ū + d d̅)   | 780           | 10⁻²²           | | phi ϕ      | s s̅                 | 1020          | 10⁻²²           | | kaon K+⋆   | u s̅                 | 890           | 10⁻²⁴           | | kaon K0⋆   | d s̅                 | 890           | 10⁻²⁴           |
+
+If you look closely at the quark content of the scalar and vector mesons, you’ll see that the analogy between them isn’t quite perfect. In particular, the excited versions of the η and η′ are the ω and ϕ. But the quark content of the pseudoscalar mesons is
+
+η : √(1/6)(u ū + d d̅ - 2 s s̅) and η′ : √(1/3)(u ū + d d̅ + s s̅) (3.90)
+
+while the quark content of the pseudovector mesons is:
+
+ω : √(1/2)(u ū + d d̅) and ϕ : s s̅. (3.91)
+
+What’s going on? Why are these so different?
+
+This is an issue of particle mixing, something that we will see more of when we come to discuss the weak force and neutrinos. First note that the quantum numbers of η and η′ are the same (in particular, I = S = 0 and hence Q = 0 for both). Similarly for the ω and ϕ. In any quantum mechanical system, if you have states with the same quantum numbers then you have to diagonalise the Hamiltonian to find the energy (or in this case, mass) eigenstates. That can lead to linear superpositions of the original states.
+
+That’s what’s going on here. There are two competing aspects at play. One is the SU(3) flavour symmetry that pushes the energy eigenstates to form as 1 ⊕ 8 multiplets, which results in the quark content seen in the pseudoscalars (3.90). The other is the bare mass terms of the quarks, that prefers the energy eigenstates to be the more straightforward qq̅. For both pseudoscalar and pseudovector mesons there is some competition between these, meaning that neither (3.90) nor (3.91) is entirely correct. Instead, the honest answer is that the quark content is some linear combination of the two results in both cases, but the group theory dominates for the pseudoscalars, while the mass difference of the strange quark dominates for the pseudovectors.
+
+Of course, this still begs the question of why scalar mesons fall one way, and vectors the other. This is, like many things in QCD, complicated, but it boils down to the fact that the scalar mesons are would-be Goldstone bosons.
+
+Note that masses don’t entirely get their own way for the vector mesons. The ρ⁰ and ω have constituents u ū ± d d̅, rather than u ū and d d̅, so the SU(2) isospin symmetry is still powerful enough to hold sway over the up/down mass difference.
+
+If you flip through the particle data group booklet, you will find further collections of excitations with Jᴾᶜ = 0⁺⁺ around 1150 MeV. These have orbital angular momentum L = 1 and spin S = 1 and are given catchy names like a₀, a₁, etc. Then there are states with Jᴾᶜ = 1⁺⁻ at around 1250 MeV that have L = 1 and S = 0. These have equally catchy names b₀, b₁,.... And so it continues.
+
+**3.3.2 Lifetimes**
+
+So far we’ve not said anything about the lifetime of mesons, which we also listed in Tables 4 and 5. This is largely because many of these lifetimes are dictated by the weak force that we haven’t yet described. Nonetheless, there are a few straightforward comments that we can make here.
+
+The first is that there is a very wide range of lifetimes exhibited by mesons, from the charged pions and kaons which decay in 10⁻⁸ seconds to the rho which decays in 10⁻²⁴ seconds. This reflects the different ways in which these particles can decay.
+
+For example, despite their similar masses, the neutral and charged pions have rather different lifetimes. The neutral pion decays through the electromagnetic force to two photons
+
+π⁰ → γ + γ. (3.92)
+
+It has a lifetime of around 10⁻¹⁶ seconds. In contrast, the charged pions π⁺ and π⁻ decay only through the weak force. We’ll see in Section 5 that they typically decay to a muon and a neutrino
+
+π⁺ → μ⁺ + ν_μ and π⁻ → μ⁻ + ν̅_μ. (3.93)
+
+They live for 10⁻⁸ seconds, an eternity in the subatomic world and much longer than any of the other hadrons, except for the proton and neutron.
+
+**Figure 13.** The discovery of the charged pion in 1947. The pion enters in the top left (labelled μ), slows in the bromide and comes to rest, before decaying into a muon that flies off to the right (labelled μ) and an anti-neutrino which is invisible in the picture.
+
+As a general rule of thumb, each force comes with a characteristic time scale that determines the lifetime of the hadron:
+
+• Strong decay: ∼ 10⁻²² to 10⁻²⁴ seconds.
+
+• Electromagnetic decay: ∼ 10⁻¹⁶ to 10⁻²¹ seconds.
+
+• Weak decay: ∼ 10⁻⁷ to 10⁻¹³ seconds.
+
+Where you sit within each range depends on other factors, such as the relative masses of the parent and daughter particles.
+
+In a world with just the strong force, all the pseudoscalar mesons listed in Table 4 would be stable and, despite the fact that some can disappear in 10⁻²⁰ seconds or so, physicists continue to refer to them as stable. In contrast, anything that decays via the strong force is said to be a resonance, rather than a particle. All of the vector mesons listed in Table 5 are resonances. For example, the rho decays via the strong force to (predominantly) two pions. If you look through the particle data book, you’ll find that resonances are always listed with their mass in brackets. So, for example, you will find ρ(770) in the book but, just above it, η with no brackets.
+
+You’ll often find lifetimes quoted in terms of the width, which is an energy scale, rather than a time. The conversion factor is
+
+100 MeV ≈ 10⁻²³ s⁻¹. (3.94)
+
+**Figure 14.** The centre-of-mass energy of μ⁺μ⁻ pairs reveals a zoo of mesonic resonances at low energies, with the Z-boson sitting at high energies. This is a plot from 2010 made by the CMS collaboration.
+
+This coincides with what we saw above. The relevant energy scale of the strong force is somewhere around Λ_QCD ∼ 100ish MeV and if the strong force does something (like enable a decay), then it typically takes around T_QCD ∼ 10⁻²³ seconds to do it.
+
+Of course, our world has more than the strong force and that means that there’s nothing qualitatively different between a particle like the pion and a resonance like the rho. Both will decay in less than the blink of an eye. But it does make a difference for experiments. If something lasts for 10⁻¹⁰ seconds then, with good technology, you can take a photograph of the particle’s track in a cloud chamber or bubble chamber. For example, the discovery photo of the pion is shown in Figure 13. When a particle leaves such a vivid trace, it’s hard to deny its existence. In contrast, we’re never going to take a photograph of something that lasts 10⁻²⁰ seconds. But that doesn’t mean that it’s any less real! It just leaves its signature in more subtle ways, typically as a bump in the cross-section for some process. (See, for example, the chapter on scattering theory in the lectures on Topics in Quantum Mechanics for a discussion of how this comes about.) The glorious plot shown in Figure 14 shows bumps in the number of back-to-back μ⁺μ⁻ pairs that were seen in the CMS detector in the early days of the LHC. The resonances start, on the far left, with the ρ, ω and ϕ but then, as the energy increases, there are clear peaks for the J/ψ, which is a charmed meson, the upsilon Υ which is a bottom meson and, far off the right, the Z-boson which is one of the gauge bosons for the weak force.
+
+There are some interesting stories that we will meet again later. For example, the decay of the neutral pion π0 → γ+γ is closely tied to the axial anomaly and we will revisit this in Section 4. The lifetime of the neutral kaons also holds an important lesson. Curiously they appear to have two different lifetimes, either 10−7 seconds or 10−10 seconds, depending on how you count! That’s kind of weird. It turns out to be a manifestation of the fact that the weak force violates time-reversal! We will discuss this in Section 5.
+
+The Elusive Sigma There is one light scalar meson listed in the particle data book that I have not yet mentioned. It has JPC = 0++ and goes by the catchy name of f (500) and has a mass which is listed as somewhere between 400 - 550 MeV. The reason that it’s so difficult to pin down is that it decays very quickly – via the strong force rather than weak force – to two pions and so has a large width. Moreover, it has vanishing quantum numbers (angular momentum, parity, isospin and strangeness are all zero). Experimentally, its probably best not to refer to this resonance as a particle at all. However, theoretically it has played a very important role, for this is the “sigma” after which the sigma-model is named. It can be thought of as the excitation that arises from ripples in the value of the quark condensate, σ = ψψ, rather than rotations in the quark condensate U.
+
+3.3.3 Baryons Three quarks can form a gauge singlet by anti-symmetrising over their colour indices a = 1,2,3 to form a baryon, B = ϵabcq q q . (3.95) a b c For baryons constructed of light d, u, and s quarks, these too sit in representations of the SU(3) flavour symmetry. We can again do a little group theory. For two quarks we have 3⊗3 = 3¯ ⊕6 . (3.96) Adding the third quark, we have 3⊗3⊗3 = (3¯ ⊗3)⊕(6⊗3) = 1⊕8⊕8′ ⊕10 . (3.97) Importantly, we want to think of these as representations of the SU(3) flavour symmetry rather than the SU(3) gauge symmetry. This tells us that we expect baryons to sit in one of the representations above.
+
+Baryon Quark Content Mass (in MeV) Lifetime (in s) proton p uud 938 stable neutron n udd 940 103 lambda Λ0 uds 1115 10−10 sigma Σ+ uus 1189 10−10 sigma Σ0 uds 1193 10−19 sigma Σ− dds 1197 10−10 cascade Ξ0 uss 1315 10−10 cascade Ξ− dss 1321 10−10
+
+At this point, we have to remember that quarks are fermions and, as such, obey the Pauli exclusion principle. We can look at each of the possibilities above in turn: • The singlet 1 is fully anti-symmetrised in flavour indices. But any baryon is necessarily fully anti-symmetrised in colour indices, as shown in (3.95), and the Pauli exclusion principle says that the state must be anti-symmetrised overall. We still have the spin degree of freedom to play with, but it’s not possible to fully anti-symmetrise in spin so this baryon must have some orbital angular momentum to satisfy Pauli. That makes it heavy and messy. Candidates exist but we won’t discuss them. • At the other end, the decuplet 10 is fully symmetrised in flavour indices and so we can satisfy Pauli by symmetrising over spin degrees of freedom. This means that the decuplet of baryons should have spin 3. • The 8 and 8′ are a bit more tricky: one is anti-symmetrised only in the first two indices, the other symmetrised in the first two indices, so we have to work a little harder. But it turns out that we can take a suitable linear combination of them that gives a fully anti-symmetrised wavefunction (including colour) when the quarks have total spin 1. The octet contains the two most famous baryons: protons and neutrons. Collectively, these are called nucleons. Others in this multiplet have a mass that differs by about 30% from that of the nucleons. The Σ baryons contain a single strange quark while the Ξ baryons, known either as xi or, with a rhetorical flourish, cascades, contain two strange quarks. The full collection of eight spin 1 baryons are shown in Table 6, and in an SU(3) weight diagram, reflecting their group theoretic origins, in Figure 15. We saw previously that the octet of pseudoscalar mesons have an interpretation as almost-Goldstone modes. That means, in particular, that if the quarks were massless, then the pions, kaons and eta would all be massless as well. What is the analogous story for the baryons? Here there is a surprise. If the up and down quark were massless, the mass of the proton and neutron would be more or less unchanged from the values we measure! The mass of the baryons – at least those comprised of light quarks – is not driven by the bare quark mass. Instead, it’s driven by the strong coupling scale ΛQCD. In fact, on general grounds one can argue that the mass of baryons in SU(Nc) QCD scales as NcΛQCD. That’s not to say that the mass of the quarks is entirely unimportant. Crucially, the fact that the down quark is heavier than the up quark is the reason why the neutron is heavier than the proton. If this weren’t true, the weak force would allow the proton to decay into the neutron, rather than the other way around, and it’s hard to see how atoms and chemistry and physicists could exist. Similarly, the strange baryons are heavier than the proton and neutron. You can see from the data that each strange quark adds about 140±10 MeV to the baryon mass. That’s smaller than the corresponding amount for mesons, but still bigger than the bare mass m ≈ 93 MeV. You may have heard it said that the Higgs is responsible for all the mass in the universe. This is a blatant lie. In Section 5, we will see that the Higgs is responsible for the mass of all elementary particles, meaning the leptons and quarks. But the overwhelming majority of mass in atoms is contained in the protons and neutrons that make up the nucleus, and this mass has nothing to do with the Higgs boson. It is entirely due to the urgent thrashing of strongly interacting quantum fields. While we’re talking about fairytales that we were subjected to when we were young, here’s another one: we are usually told that the strong force is what keeps the nucleus together in the atom. This one is kind of true, but only in an indirect way. The strong force binds quarks together into baryons, which are fermions, and into mesons, which are bosons. But, as described in the lectures on Quantum Field Theory, scalar particles mediate forces. In particular, the pions mediate a force of a Yukawa type, with potential e−mπr V(r) ∼ − . (3.98) This is what binds the protons and neutrons together in the nucleus. We refer to this force mediated by pions as the strong nuclear force, but it would be better to give it a different name — say “mesonic force”, or “Yukawa force” — to highlight the fact that it is really a residual, secondary effect. The upshot is that there are two layers to the strong force: we start with one force and a set of matter particles — gluons interacting with quarks — and end up with a very different force and a new set of matter particles — the mesonic force interacting with protons and neutrons. In this sense, both the particles in the nucleus, and the force that holds them together, are emergent phenomena, arising from something more fundamental underneath. Finally, we briefly look at the spin 3 baryons, that sit in the flavour decuplet. They go by the names ∆ (with charges 0, ±1 and 2), Σ⋆ (with charges 0 and ±1), Ξ⋆ (with charges −1 and 0) and Ω− with charge −1. The full list of particles is given in Table 7 and the weight diagram shown in Figure 15. The real novelties among these baryons are the three outliers, in which all quarks are the same. The ∆++ played an important historic role because it was the first particle to be found with charge +2 as opposed to 0 or ±1 and helped enormously in piecing
+
+Baryon Quark Content Mass (in MeV) Lifetime (in s) ∆++ uuu 1232 10−24 ∆+ uud 1232 10−24 ∆0 udd 1232 10−24 ∆− ddd 1232 10−24 Σ⋆− dds 1383 10−23 Σ⋆0 dus 1384 10−23 Σ⋆+ uus 1387 10−23 Ξ⋆− dss 1535 10−23 Ξ⋆0 uss 1532 10−23 Ω− sss 1672 10−11
+
+together the story of the underlying quarks. The Ω− baryon, meanwhile, holds a special place in the history of science because Gell-Mann used the simple quark model described above to predict its mass and properties before it was discovered experimentally. In that way, he followed Mendeleev and Dirac in predicting the existence of a “fundamental” particle of nature (where, as should by now be clear, the meaning of the word “fundamental” is time-dependent). One of the lessons to take away from this section is that QCD is complicated. We can make some progress by using symmetries (or approximate symmetries) as organising principles, but that only takes us so far. It is natural to wonder how much of the results above we can calculate from first principles, starting from the Lagrangian of QCD. If your first principles involve only pen and paper, then the answer is: not much. QCD is hard. But if you extend your first principles to embrace numerical simulations which, in this context, go by the name of lattice QCD, then you can do pretty well. After many decades of work, much of the spectrum described above can be computed to within, say, 5% accuracy. There is now no doubt that the complexity seen in the hadron spectrum can be entirely explained by the dynamics of QCD.
+
+3.3.4 Heavy Quarks So far, we’ve only discussed the hadrons constructed from the three lightest quarks. We’ve still to discuss the heavy ones. It turns out that there are no hadrons comprised of the top quark. Its extreme high mass means that the top quark decays with a lifetime of around 10−25 seconds, which is faster than the characteristic timescale TQCD ≈ 10−23 seconds of the strong force. This means that such “top hadrons” decay before they even form. Needless to say, none have been observed. That still leaves us with the charm and bottom. The masses of hadrons containing these q Quarks are determined more by the bare quark mass than by ΛQCD. Two sets of these mesons deserve a special mention. The first is charmonium, a bound state of charm and anti-charm quark. It also goes by the dual name J/ψ, J/ψ (c̄c) m ≈ 3.1 GeV . (3.99)
+
+Its lifetime is around 10−21 seconds. The discovery of this particle in 1974, showing up as a very sharp resonance similar to what is seen in Figure 14, was the first glimpse of the charm quark and played a key role in cementing the Standard Model.
+
+There are a collection of lighter mesons that contain just a single charm quark. These are called (somewhat peculiarly) D-mesons. The lightest are: D0 (cū) m ≈ 1865 MeV D+ (cd̄) m ≈ 1869 MeV . (3.100)
+
+These are remarkably long lived particles, with the D+ surviving a whopping 10−12 seconds, and the D0 about half this time. The long lifetime is because these particles decay only through a somewhat subtle property of the weak force. We will learn more about this in Section 5.
+
+Similarly, the bottom quark was first discovered in bottomonium, also known as the upsilon (Υ)
+
+Υ (bb̄) m ≈ 9.5 GeV . (3.101)
+
+This has a lifetime of 10−20 seconds. Once again, it is neither the lightest nor the longest lived meson containing a b-quark. The lightest B-mesons are B+ (ub̄) and B0 (db̄) m ≈ 5280 MeV . (3.102)
+
+Despite being significantly heavier, they actually live (very) slightly longer than the D-mesons, with a lifetime of around 1.5 × 10−12 seconds. It’s worth stressing how astonishing this is: the ratio of the mass to the width of the B-meson is mB / ΓB ∼ 1013. You can compare this to the common or garden mesons, like the ρ, which has mρ / Γρ ∼ 4!. Again, this is down to intricacies of the weak force.
+
+A small comment on terminology. The third generation of quarks was originally termed beauty and truth. (What can I say? It was the 70s.) Eventually, out of a due sense of embarrassment, these names were phased out in preference for the more boring “bottom” and “top”. This has persisted for the top quark, but the term “beauty” lingers. For example, the important experiment LHCb which investigates B-mesons, prefers to be thought of, for obvious reasons, as focussing on the study of beauty, rather than the study of bottoms.
+
+There are also baryons containing charm and bottom quarks. Here the names become increasingly unimaginative, with subscripts c and b denoting the quark content. For example, in addition to the Σ+, comprised of uus, there is also a Σ+ comprised of uuc and Σ+ comprised of uub, and similar stories for cascades. There are also excited states of all these baryons, in which the quarks orbit each other, not dissimilar to the way in which the electrons orbit the proton in the excited states of the hydrogen atom.
+
+## 3.4 The Theta Term
+
+For QCD, we’ve seen that the action is gloriously simple: S = ∫ d4x (− 1/2 Tr Gµν Gµν + ∑iq̄i D̸i qi − mi q̄i qi) . (3.103)
+
+The question that we would like to pose is: are there any other interaction terms that we could write down that we’ve missed?
+
+The answer is that there is one, but that it’s rather subtle. This is known as the Yang-Mills theta term, Sθ = (θg2)/(16π2) ∫ d4x Tr Gµν ⋆Gµν (3.104)
+
+where ⋆Gµν = 1/2 ϵµνρσGρσ. Here θ is the eponymous theta angle, and should be viewed as an additional parameter of QCD.
+
+Before we get to the theory underlying the theta term, let me first give some commentary on why we haven’t mentioned this term until now. The reason is that, as far as we can tell from experiment, the theta parameter takes the value θ = 0. Said more precisely, we can bound the theta parameter to be θ < 10−10 . (3.105)
+
+So why should we care about something that doesn’t exist? The reason is that zero is a number too! The game that we play in the Standard Model is the same as for all other quantum field theories: after you’ve figured out what fields you’re dealing with, you then write down all possible relevant and marginal interactions that could change the low energy physics. Each of these terms typically comes with a parameter that we have to determine by experiment. These parameters are things like the masses of particles (or, more precisely, Yukawa couplings as we’ll see in Section 5.) Out of all these parameters, θ is special because it’s the only one that appears to vanish. And that’s crying out for an explanation.
+
+What would the consequences be if θ were not to vanish? The answer is pretty dramatic because, in contrast to all other terms in the QCD action (3.103), the theta term violates various discrete symmetries. Written in terms of the chromoelectric and chromomagnetic fields, it takes the form Gµν ⋆Gµν ∼ E·B . (3.106)
+
+We’ve seen in Section 1.4 that, under parity P, charge conjugation C, and time reversal T, the electric and magnetic fields transform as P : E → −E and P : B → +B C : E → −E and C : B → −B (3.107)
+
+T : E → +E and T : B → −B .
+
+This means that the theta term breaks both P and CP or, equivalently, T. As we saw previously, a consequence of CP violation is that particles are endowed with an electric dipole moment. The most precise experimental tests are for the neutron which, experimentally, is found to have an electric dipole moment d bounded by d < 10−26 ecm . (3.108)
+
+This, ultimately, translates into the bound (3.105). (For what it’s worth, the CP violation in the weak sector is predicted to give the neutron a dipole moment around d ≈ 10−30 ecm, somewhat below current experimental bounds.)
+
+So why do we have θ = 0? The answer is: we don’t know. One might want to state by fiat that QCD should be invariant under P and CP and that’s why the theta term is disallowed. That’s a reasonable argument in the context of stand-alone QCD, but not when viewed within the broader framework of the Standard Model which, as we will see, is invariant under neither P nor CP. (Indeed, the fuller story is that the QCD theta term is infected by various other terms in the Standard Model Lagrangian and somehow they collectively conspire to ensure that θ = 0.) The question of why θ = 0 is known as the strong CP problem. It is surely one of the most important clues for what lies beyond the Standard Model.
+
+3.4.1 Topological Sectors The theta term is also special for other reasons. Indeed, of all the terms that we could write down in the Standard Model, it is by far the most subtle. In this sense, it’s something of a shame that it vanishes!
+
+We can discuss the physics for a general gauge group G, rather than restricting to QCD and, for that reason, we will revert to the notation of Section 1.3 and refer to the Yang-Mills gauge field as Aµ and the field strength as Fµν (rather than Gµ and Gµν for QCD).
+
+The first important property of the theta term is that it’s a total derivative. You can show that Sθ = (θg2)/(8π2) ∫ d4x ∂µ Kµ with Kµ = ϵµνρσ Tr Aν ∂ρ Aσ − (2/3) Aν Aρ Aσ . (3.109)
+
+This means that it does not affect the classical equations of motion. Nonetheless, it can affect the quantum dynamics of gauge theories. This arises because the path integral receives contributions from field configurations that have something interesting going on at infinity so that the boundary term S is non-vanishing. This something interesting can be found in the topology of the gauge group.
+
+To explain this, we first Wick rotate so that we work in Euclidean spacetime R4. Configurations that have a finite action from the Yang-Mills term must asymptote to pure gauge, Aµ → Ω ∂µ Ω−1 as x → ∞ (3.110)
+
+with Ω ∈ G. This means that finite action, Euclidean field configurations involve a map Ω(x) : S3 → G . (3.111)
+
+with S3 = ∂R4 the asymptotic boundary of R4. Maps of this kind fall into disjoint classes. These arise because the gauge transformations can “wind” around the spatial S3 in such a way that one gauge transformation cannot be continuously transformed into another. Such winding is characterised by homotopy theory. In the present case, the maps are labelled by an element of the homotopy group which, for all simple, compact Lie groups G, is given by Π1 (G) = Z . (3.112)
+
+This means that the winding of gauge transformations (3.110) at infinity is classified by an integer n.
+
+This statement is most intuitive for G = SU(2) since, viewed as a manifold, SU(2) = S3 and the homotopy group counts the winding from one S3 to another. For higher dimensional groups, including G = SU(3) relevant for QCD, it turns out that it’s sufficient to pick an SU(2) subgroup of G and consider maps which wind within that. You then need to check that these maps cannot be unwound within the larger G.
+
+It can be shown that, in general, the winding n ∈ Z is computed by n(Ω) = (1/24π2) ∫S3 d3S ϵijk Tr(Ω∂i Ω−1)(Ω∂j Ω−1)(Ω∂k Ω−1) . (3.113)
+
+Evaluated on any configuration that asymptotes to (3.110), the theta term gives Sθ = θn with n ∈ Z . (3.114)
+
+It is the contribution from configurations with n ≠ 0 in the path integral that means that observables in quantum gauge theories can depend on θ. In general, all observables are thought to depend on the value of θ. For example, it’s expected that the masses of particles in Yang-Mills theory, or indeed, in QCD, depend on θ. (The “expected” in that sentence is because it’s very hard to know for sure, largely because it’s very difficult to do numerical simulations of these theories when θ ≠ 0.)
+
+When exponentiated in the path integral, the theta term contributes to the Euclidean action as eiSθ = eiθn. Importantly, it is a complex phase. The fact that it is complex can be traced to the ϵµνρσ tensor in Sθ. This means that Sθ contains a single time derivative and so, upon Wick rotation, still sits in the path integral as eiSθ rather than e−Sθ. The fact that n ∈ Z means that θ is a periodic variable, with θ ∈ [0,2π) . (3.115)
+
+For this reason, it’s often called the theta angle. We see that the role of the theta term is to weight different topological sectors in the path integral by the phase eiθn.
+
+the path integral with different phases e^{iθn}.
+
+3.4.2 Instantons
+
+We can say more if we work in a regime in which the theory is weakly coupled. Here the path integral is dominated by the saddle points, which are solutions to the classical equations of motion. This means that any θ dependence should come from field equations that wind at infinity, so n ≠ 0, and solve the classical equations of motion, D F_μν = 0 . (3.116)
+
+There is a cute way of finding solutions to this equation. The Yang-Mills action is S_YM = (1/2g^2) ∫ d^4x Tr F_μν F^{μν} . (3.117)
+
+Note that in Euclidean space, the action comes with a + sign. (This is to be contrasted with the Minkowski space action which comes with a minus sign.) We can write the Euclidean action by completing the square, S_YM = (1/4g^2) ∫ d^4x Tr(F_μν ∓ ⋆ F_μν)^2 ± (1/2g^2) ∫ d^4x Tr F_μν ⋆ F^{μν} ≥ (8π^2 |n|)/g^2 . (3.118) where, in the last inequality, we’ve used the result (3.114). We learn that in the sector with winding n, the Yang-Mills action is bounded by 8π^2 n/g^2. The action is minimised when the bound is saturated. This occurs when F_μν = ± ⋆ F_μν . (3.119)
+
+These are the (anti)-self-dual Yang-Mills equations. The argument above shows that solutions to these first order (anti)-self-dual equations necessarily minimise the action in a given topological sector and so must solve the equations of motion (3.116). In fact, it’s straightforward to see that this is the case since it follows immediately from the Bianchi identity D ⋆ F_μν = 0.
+
+Solutions to the (anti)-self-dual Yang-Mills equations (3.119) have finite action, which means that any deviation from the vacuum must occur only in localised regions of Euclidean spacetime. In other words, these solutions correspond to point-like objects in Euclidean spacetime R^4. Because they occur for just an “instant of time” they are known as instantons. They are very much analogous to the classical tunnelling solutions for the quantum mechanical double well potential that we met in Section 2.1.
+
+There is much to say about instantons. You can read about the role they play in quantum Yang-Mills in the lectures on Gauge Theory and more about the structure of the solutions to (3.119) in the lectures on Solitons. For our purposes, it will suffice to point out that the contributions of instantons to any quantity comes with the characteristic factor e^{-S_instanton} = e^{-8π^2 |n|/g^2} e^{iθn} . (3.120)
+
+Famously, the function e^{-8π^2/g^2} has vanishing Taylor expansion about the origin g^2 = 0. This is telling us that effects due to instantons are smaller than any perturbative contribution, which takes the form g^{2n}. Nonetheless, that doesn’t mean that instantons are useless since they can contribute to quantities that apparently vanish in perturbation theory.
+
+Instantons are usually referred to as non-perturbative effects. This is a little bit of a misnomer. The use of instantons requires weak coupling g^2 ≪ 1, so in this sense they are just as perturbative as usual perturbation theory. The name non-perturbative really means “not perturbative around the vacuum”. Instead, the perturbation theory occurs around the instanton solution.
+
+An Example: An Instanton in SU(2)
+
+It is fairly straightforward to write down the instanton solutions with winding n = 1. For SU(2), such a configuration is given by A_μ = η_{μν}^a x^ν σ^a / (x^2 + ρ^2) (3.121) Here ρ is a parameter whose role we will describe shortly. The η_{μν}^a are usually referred to as ’t Hooft matrices. They are three 4 × 4 matrices which provide an irreducible representation of the su(2) Lie algebra. They are given by η^1 = \begin{pmatrix} 0 & 1 & 0 & 0 \\ -1 & 0 & 0 & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & -1 & 0 \end{pmatrix}, η^2 = \begin{pmatrix} 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \\ -1 & 0 & 0 & 0 \\ 0 & -1 & 0 & 0 \end{pmatrix}, η^3 = \begin{pmatrix} 0 & 0 & 0 & 1 \\ 0 & 0 & -1 & 0 \\ 0 & 1 & 0 & 0 \\ -1 & 0 & 0 & 0 \end{pmatrix}. (3.122) These matrices are self-dual: they obey (1/2) ε_{μνρσ} η_{ρσ}^i = η_{μν}^i. (Note that we’re not being careful about indices up vs down as we are in Euclidean space with no troublesome minus signs.) In the solution (3.121), the ’t Hooft matrices intertwine the su(2) group index a = 1,2,3 with the spacetime index μ and this implements the asymptotic winding of the gauge fields.
+
+The associated field strength is given by F_μν = - [2ρ^2 / (x^2 + ρ^2)^2] η_{μν}^a σ^a . (3.123) This inherits its self-duality from the ’t Hooft matrices: F_μν = ⋆ F_μν and therefore solves the Yang-Mills equations of motion, D_μ F^{μν} = 0.
+
+We can get some sense of the form of this solution. First, the non-zero field strength is localised around the origin x = 0. (By translational invariance, we can shift x_μ → x_μ − X_μ to construct a solution localised at any other point X_μ.) The solution depends on a parameter ρ which can be thought of as the size of the instanton lump. The fact that the instanton has an arbitrary size follows from the classical conformal invariance of the Yang-Mills action.
+
+4 Anomalies
+
+Our goal in this section is to understand the beautiful and subtle phenomenon known as an anomaly^8. This is one of the deepest ideas in quantum field theory and, as we will see in Section 5, underpins much of the structure of the Standard Model.
+
+Before we jump in, here are two motivating comments.
+
+We already met the theories of QED and QCD in the previous section. Both are described by Lagrangians in which a gauge field is coupled to a bunch of Dirac fermions. But Dirac fermions are not the simplest kind of fermion. Or, said differently, Dirac fermions are not irreducible representations of the Lorentz group. Instead, a Dirac fermion decomposes into two Weyl fermions. So why doesn’t nature make use of this more minimal Weyl fermion? And why don’t we study the seemingly simpler theory of, say, Yang-Mills coupled to a single Weyl fermion?
+
+The answer, it turns out, is that Yang-Mills coupled to a single Weyl fermion is an inconsistent quantum theory! This is an important and striking statement. There’s no problem in writing down a classical Lagrangian, nor indeed a classical Hamiltonian, for this system. But there’s no corresponding quantum theory. As we will explain, this is one manifestation of the anomaly.
+
+Here’s a second motivation. In the theory of massless QCD, we mentioned that there is a classical U(1) axial symmetry which, naively, appears to be spontaneously broken like the non-Abelian chiral symmetry. But there is no associated light meson. The meson that carries the right quantum numbers is the η′ and its mass is almost 1 GeV, significantly more than the other pseudo-Goldstone bosons. What’s going on?
+
+The answer, it turns out, is that the axial U(1) symmetry in massless QED and QCD is a good symmetry of the classical theory, but it is not a symmetry of the quantum theory. This, too, is a manifestation of the anomaly.
+
+Our purpose is to understand these statements and more. There are various ways to understand these features, but the most revealing is through the path integral. As we will see, both of the issues above, and several others, arise from trying to carefully define the path integral for Weyl fermions.
+
+^8 Because these are lectures on the Standard Model, I should mention that there is another, very different meaning to the word “anomaly” in the particle physics community, which is when an experimental result that deviates slightly from the prediction of the Standard Model. Typically, this leads to approximately 10^4 papers being written before the whole thing fades away 3 years later. That’s not what we’re talking about here.
+
+Our First Anomaly
+
+There are a number of different manifestations of anomalies in quantum field theory. Indeed, understanding when such effects arise remains a vibrant research area. Here we will discuss just the simplest kind of anomaly, associated to Weyl fermions.
+
+To set the scene, recall that a Dirac fermion ψ splits into two Weyl fermions ψ = \begin{pmatrix} ψ_L \\ ψ_R \end{pmatrix} . (4.1)
+
+For our story, we want to take just a single Weyl fermion. We will take a left-handed spinor ψ_L, but everything we’re about to say also holds for a single right-handed spinor. The action for a massless Weyl spinor is S = ∫ d^4x i ψ_L^† σ̄^μ ∂_μ ψ_L (4.2) with σ̄^μ = (1, −σ^i). This action is clearly invariant under the U(1) global symmetry ψ_L → e^{iα} ψ_L, with the corresponding current j^μ = ψ_L^† σ̄^μ ψ_L. To illustrate the anomaly, we will couple this current to a gauge field A with charge q ∈ Z. The action is now S = ∫ d^4x i ψ_L^† σ̄^μ D_μ ψ_L (4.3) where the covariant derivative contains the coupling to the gauge field D_μ ψ_L = ∂_μ ψ_L − i e q A_μ ψ_L. This action is now invariant under the gauge symmetry ψ_L → e^{i e q α(x)} ψ_L and A_μ → A_μ + ∂_μ α . (4.4)
+
+Before we proceed, I should mention that there are two distinct ways to think about the gauge field A and this distinction will be important when we come to look at the various implications of anomalies. They are:
+
+• A could be a dynamical gauge field. In the classical theory, this means that we treat it as a dynamical variable, with its own equation of motion, typically after adding a Maxwell term to the action. In the quantum theory, it means that we integrate over A in the path integral.
+
+• A could be a background gauge field. This means that it is something fixed, under our control, and should be viewed as a parameter of the theory. Turning it on typically breaks Lorentz symmetry, but could be useful to explore how our system responds to the presence of an electric or magnetic field. In the quantum theory, A appears as a source on which the partition function depends.
+
+We will consider gauge fields of both types in what follows. However, for now, we will consider A to be a background gauge field, whose value is something that we get to decide.
+
+While the classical theory is clearly invariant under the gauge transformation (4.4), the question that we really want to ask is: what happens in the quantum theory? For this, we should turn to the path integral, with the partition function in Euclidean space defined as Z[A] = ∫ Dψ_L Dψ_L^† exp [ - ∫ d^4x i ψ_L^† σ̄^μ D_μ ψ_L ] . (4.5)
+
+The action in the exponent is designed so

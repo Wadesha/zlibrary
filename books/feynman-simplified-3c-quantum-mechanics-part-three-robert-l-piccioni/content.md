@@ -1,0 +1,2414 @@
+# Feynman Simplified 3C Quantum Mechanics Part Three Robert L Piccioni Z Library
+
+> 来源文件：pre_Feynman_Simplified_3C_Quantum_Mechanics_Part_Three_Robert_L_Piccioni_Z_Library.txt
+> 字符数（约）：301833
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Feynman Simplified 3C: Quantum Mechanics Part Three Everyone’s Guide to the Feynman Lectures on Physics by Robert L. Piccioni, Ph.D.
+
+Copyright © 2014 by Robert L. Piccioni Published by Real Science Publishing 3949 Freshwind Circle Westlake Village, CA 91361, USA Edited by Joan Piccioni Visit our web site www.guidetothecosmos.com
+
+Everyone’s Guide to the Feynman Lectures on Physics Feynman Simplified gives mere mortals access to the fabled Feynman Lectures on Physics. Quantum mechanics is rarely taught well in introductory physics courses, largely because this challenging subject was not well taught to many of today’s instructors. Few had the opportunity to learn quantum mechanics from some who understood it profoundly; almost none learned it from one of its creators. Here more than anywhere else, Feynman excels. Here more than anywhere else, Feynman Simplified can help you learn from the very best, but at a humane pace.
+
+This Book Feynman Simplified: 3A covers the final third of Volume 3 of The Feynman Lectures on Physics. The topics we explore include: Quantum Behavior of Elementary Particles Angular Momentum & Rotations of Any Spin Electron Atomic States & The Periodic Table Philosophy of Wave Functions & Probability Macroscopic QM: Superconductivity Entanglement, Schrödinger’s Cat & Teleportation EPR Paradox: QM vs. Local Realism Alternative Interpretations of QM To find out about other eBooks in the Feynman Simplified series, click HERE. I welcome your comments and suggestions. Please contact me through my WEBSITE. If you enjoy this eBook please do me the great favor of rating it on Amazon.com or BN.com.
+
+Table of Contents Review: Summary of Part One Review: Summary of Part Two
+
+## Chapter 25: Particle Physics: Λ0 Decay
+
+## Chapter 26: Particle Physics: Kaons
+
+## Chapter 27: Angular Momentum
+
+## Chapter 28: Rotation Of Any Spin
+
+## Chapter 29: Electron Wave Functions in Hydrogen
+
+## Chapter 30: The Periodic Table of Elements
+
+## Chapter 31: Quantum & Algebraic Operators
+
+## Chapter 32: Probability & Wave Functions
+
+## Chapter 33: Superconductivity
+
+## Chapter 34: Collapse, Entanglement & Teleportation
+
+## Chapter 35: EPR: QM vs. Local Realism
+
+## Chapter 36: Review of QM
+
+Feynman’s Epilogue
+
+Summary of QM Part One Particle-wave duality: Everything in our universe has, in varying degrees, the properties of both classical particles and classical waves. In particular, particles have wavelengths given by: λ=h/p.
+
+Uncertainty Principle: the wave properties of particles preclude the possibility of simultaneously measuring both their position and momentum with unlimited precision, as quantified in four equations: Δx Δp ≥ ħ/2, Δy Δp ≥ ħ/2, Δz Δp ≥ ħ/2, Δt ΔE ≥ ħ/2, where ħ=h/2π=1.055×10–34 joule-sec, and h=6.626×10–34 joule-sec is Planck’s constant.
+
+A quantum state defines all the variable properties that an entity can have, such as position, linear momentum, energy, spin, and angular momentum. It does not define intrinsic properties, such as charge and mass. In general, different types of particles can be put into a given state, and can be moved from one state to another. It is beneficial to think of a quantum state as a vector that defines a location in the space of all possible properties.
+
+Spin is a quantized form of angular momentum that is an intrinsic and immutable property of each type of elementary particle. All fermions have half-integral spin: s=n/2, for some odd integer n>0. All elementary fermions have spin s=1/2, as do protons and neutrons, which are composite particles. Bosons have integral spin: s=0, 1, or 2.
+
+There is an essential distinction between a particle’s spin and its component of spin along any axis. Like other forms of angular momentum, spin is a vector with magnitude and direction. The spin of every particle never changes, although the orientation of its spin may change. The primary fermions, those with spin 1/2, can have a component of spin along any selected axis of +ħ/2 or –ħ/2, which are called spin up and spin down. The Z and W bosons with spin 1 can have a component of spin along any selected axis of +ħ, 0, or –ħ. In general, a particle of spin s can have a component of spin along any selected axis of –sħ, –(s–1)ħ, …+(s–1)ħ, +sħ; the allowed values of spin components are always separated by integral multiples of ħ. Photons have spin 1, but cannot have a zero component of spin along any axis, because they are massless. A particle with spin s has a spin vector whose magnitude equals √{s(s+1)}; this magnitude is rarely mentioned, since it is so much easier to say “spin s.” Measurement is a contact sport, more like boxing than dancing. Observation requires interaction. Substantial interactions alter the behavior of what is observed. Every measurement forces the observed entity into a definite state, one with an allowed value for that measurement. Particles have no memory of their prior history. If an atom’s spin is measured to be +1 along the z-axis, nothing else about its spin is knowable.
+
+Feynman’s General Principles of probabilistic quantum mechanics are: First: the probability Prob(y) of event y is proportional to the square of the magnitude of probability amplitude φ(y), which is a complex number. If event y can occur in only one way, P(y) is: Prob(y) = φφ* = |φ|².
+
+In Dirac’s bra-ket notation, the amplitude that A results in, or goes to, B is <B|A>. This is analogous to the dot product of normal vectors A and B. For example, in the two-slit experiment: φ(y) = <particle arrives at y | particle leaves source S> = <y|S>.
+
+Second: when event y can occur in N indistinguishable ways, the amplitude of y equals the sum of the amplitudes for each separate way: <y|S> = Σ <y|K><K|S>, sum K=1…N. We sum amplitudes only when each separate path results in exactly the same final state. As the two-slit experiment demonstrates, with no substantial disturbances, it is impossible — for both man and nature — to distinguish the paths by which particles travel to reach an event y. Paths are distinguished only when particle-waves along those paths are substantially disturbed. What matters is the magnitude of the disturbance, not whether it occurs naturally or is human-directed. But due to our scale, any human-directed interaction will almost certainly substantially disturb a quantum system.
+
+Third: when event y can occur in N distinguished ways, the probability of y equals the sum of the probabilities for each separate way: Prob(y) = Σ |<y|K><K|S>|², sum K=1…N.
+
+Fourth: the amplitude for a sequence of events equals the product of the amplitudes for each separate event. The amplitude for a particle to go from S to x and then from x to y is: <y|x><x|S>.
+
+Fifth: For multiple particles, if φ₁ is the amplitude of particle 1 going from S to F, and φ₂ is the amplitude of particle 2 going from S to F, then the amplitude for both events to occur is φ₁ × φ₂.
+
+Sixth: When two intrinsically identical particles can enter, exit, or be in the same state, their amplitudes interfere. If the particles are bosons governed by Bose-Einstein statistics, their amplitudes add. If the particles are fermions governed by Fermi-Dirac statistics, their amplitudes subtract. There is no third alternative. For two identical particles 1 and 2, and any two indistinguishable states A and B, the combined amplitude is: Fermions: <1|A><2|B> – <1|B><2|A> Bosons: <1|A><2|B> + <1|B><2|A> Particles with different spins are distinguishable. All fundamental particles of each type are intrinsically exactly identical. While not fundamental, all protons are exactly identical to one another as are all neutrons.
+
+The class of fermions includes protons, electrons, neutrons, neutrinos, and quarks. All particles that form material objects are fermions with spin 1/2.
+
+The class of bosons includes photons, gluons, W±, Z0, and the Higgs boson. All forces between elementary particles are carried by bosons. Photons are the force exchange particles of electromagnetism. Gluons mediate the strong force. The W± and Z0 intermediate vector bosons mediate the weak force. See Higgs & Bosons & Fermions... to further explore elementary particle physics.
+
+The probability that N identical bosons are in a common state is larger by a factor of N! than the probability of N non-identical particles being in that state.
+
+The probability of one more boson entering a state occupied by N identical bosons is N+1 times greater than it would be if the state were empty. Bosons are groupies: the bigger the party, the greater the attraction.
+
+The gregarious behavior of bosons underlies Einstein’s laws of radiation and the operation of lasers. Fermions are antisocial; they never exist in the same state as another identical fermion. This is called the Pauli Exclusion Principle. Two fermions are not in the same state if their spins are different. Nature has room for both groupies and individualists.
+
+Similarity of Vectors & States In normal 3-D space, a vector v specifies any selected point within the space. In quantum mechanics, |S> specifies a state, any selected set of particle properties.
+
+In 3-D, we choose a complete set of orthonormal basis vectors e_x, e_y and e_z.
+
+In QM, we choose a complete set of orthonormal basis states |J>, J=1,…,N.
+
+Orthonormal means for each J and K: e_J • e_K = δ_JK in 3D; and <K|J> = δ_JK in QM. Here δ is the Kronecker delta, which equals 1 if J=K and equals 0 otherwise.
+
+In QM, a basis is “complete” if every possible state is some linear combination of basis states — for any state |φ>: |φ> = Σ a_J |J> = a₁|1> + a₂|2> + … + a_N|N> = Σ <J|φ>|J>, where a_J = <J|φ> are complex numbers. The set of all a_J completely defines |φ>.
+
+Differences Between Vectors & States In 3-D, the dot product is commutative: A•B = B•A. But, in QM the product of two states is not commutative: <φ|ψ> = <ψ|φ>*, which is the complex conjugate of <ψ|φ>. The complex conjugate of a complex quantity is obtained by replacing i with –i. In general <ψ|φ> is not equal to <φ|ψ>.
+
+|φ> and <φ|ψ> are not equal.
+
+Since <φ|ψ> = Σ <φ|J> <J|ψ> for all states φ and ψ, Feynman writes the open equation: | = Σ |J> <J| Open equations are valid when multiplied by any bra and/or by any ket.
+
+Other Bra-Ket Notes Bras and kets are essential intermediate steps in solving problems, but they δ_{ij} if i=j, else zero
+
+## 5. If A–1 is the inverse of A, A–1A=AA–1=δ_{ij}
+
+## 6. Only non-singular n×n matrices have inverses
+
+The general equation for the determinant of an N×N matrix M is: Det |M | = Σ Sign(abc…)•M_{1a}•M_{2b}•M_{3c}•… Here, abc… is a permutation of the integers 1 through N. The sum extends over all permutations, and Sign(abc..) equals +1 for even permutations and –1 for odd permutations.
+
+In a magnetic field, the Hamiltonian equation for an electron can be written in terms of Pauli spin matrices: iħ d|Ψ>/dt = –µ σ•B |Ψ> Electron atomic orbital states are characterized by three integer quantum numbers: principal quantum number n; angular momentum quantum number j; and magnetic quantum number m, which is the component of j along any selected axis. Modern convention employs lower case l rather than j, but I follow Feynman’s notation to enhance eBook readability. Each orbital electron state is further subdivided into two spin states.
+
+Electrons in Crystals Feynman says an electron added to an array of identical, electrically neutral, equally spaced, immovable atoms “can ride right through the crystal and flow perfectly freely even though it has to hit all the atoms [in its path]. … That is how a solid can conduct electricity.” In a one-dimensional crystal, the Hamiltonian equations for an added electron are: iħ dC_n/dt = E_0 C_n – A C_{n–1} – A C_{n+1} Here E_0 is the zero-point energy of a stationary electron; C_n is the amplitude for the electron to be at atom #n; and A is the amplitude for the electron to transition to an adjacent atom. For atomic spacing b, the stationary states are given by: C_n = exp{i(knb–Et/ħ)} E(k) = E_0 – 2A cos(kb)
+
+The electron’s energy is in a conduction band between E_0–2A and E_0+2A, with wave number k between –π/b and +π/b. Interaction with matter changes the electron’s effective mass to: m_{eff} = ħ² / (2Ab²)
+
+The same mathematics applies to the propagation of other entities through crystals, including: An electron in an excited state.
+
+A missing electron, called a hole.
+
+Added energy, called an exciton.
+
+An N-atom ring molecule is analyzed as an infinite line of atoms that repeat every N atoms. The eigenstates are (for integer m): a_n(k) = exp{iknb}, for n=1…N k = (2π/Nb)m, for –N/2<m≤+N/2 E = E_0 –2A cos(2πm/N)
+
+An N-atom linear molecule is analyzed as an infinite line of atoms with zero amplitudes at atom n=0 and n=N+1. The eigenstates are (for integer m): a_n(k) = sin(knb), for n=1…N k = πm/[b(N+1)], for m=1…N E = E_0 –2A cos(kb)
+
+Semiconductors are good insulators at low temperatures, and are modestly conducting at room temperature. Electric current in a semiconductor is carried by both negative carriers (free electrons) and positive carriers (holes, vacant electron orbits in crystal atoms). The minimum energy required to create a negative/positive carrier pair within a semiconductor is its band gap, E_{gap}. Electron-hole pairs can be created by: photon absorption in solar cells; ionization by high-energy particles; and conversion of thermal energy. In a pure crystal, negative and positive carrier densities are equal. Adding dopants increases one carrier density while reducing the other; their product is always proportional to: exp{–E_{gap}/kT}.
+
+In a semiconductor carrying current j, in a traverse magnetic field B, the Hall effect forces carriers of both polarities toward the same side of a crystal, creating an electric field E, with E=–jB/qN, where N is the dominant carrier density, and q is the carrier unit charge.
+
+Continuous wave functions in continuous space are analyzed as wave functions in a crystal in the limit of zero atomic spacing. We replace summations with integrals, and define two infinite sets of basis states: |x>, the state of a particle being at x; and |p>, the state of a particle having momentum p. In the |x> basis representation, wave function ψ is: ψ(x) = <x|ψ> Here ψ(x) is the amplitude for a particle to be at position x at time t, whereas |ψ> is a particle state that might be spread across all x. Other restated equations are: <ø|ψ> = ∫ <ø|x> <x|ψ> dx <ø|ψ> = ∫ ø*(x) ψ(x) dx The probability that an electron is between x and x+Δx, for small Δx, is: Prob(x) Δx = |ψ(x)|² Δx In the limit that Δx goes to zero, Prob(x) is the probability density of finding the particle near x.
+
+Feynman chooses this normalization for momentum amplitudes: <p|x> = <x|p>* = exp{–ipx/ħ} Prob(p) = |<p|ψ>|² / h (not ħ)
+
+The Dirac delta function is defined as the limit as ε goes to 0 of: δ(x) = exp{–x²/ε²}/(ε√π)
+
+∫ δ(x) dx = 1, over all x Schrödinger’s equation for non-relativistic velocities in energy potential V is: 1D: iħ dψ/dt = –ħ²/2m ∂²ψ/∂x² + V ψ 3D: iħ dψ/dt = –ħ²/2m ∇²ψ + V ψ Here ∇ = (∂/∂x,∂/∂y,∂/∂z) is the gradient and ∇² = ∇•∇ = ∂²/∂x² + ∂²/∂y² + ∂²/∂z² Symmetry & Conservation Laws Feynman says: “for each of the rules of symmetry there is a corresponding conservation law.” This is called Noether’s Theorem. Feynman says: “A physical system is symmetric with respect to the operation Q when Q commutes with U [or H], the [operators for] the passage of time.” Mathematically, this means: QH=HQ. If a Hamiltonian H has a symmetry whose operator is Q, and Q has an eigenstate |ψ>, then Q|ψ> yields the same result forever, absent external interference. This establishes a conservation law: Q|ψ> is conserved.
+
+The following symmetry operations are universally valid.
+
+Translation in Space Translation in Time Spatial Rotation Motion at Constant Velocity Identical Particle Exchange Quantum Phase Change CPT Symmetry
+
+The following symmetry operations are valid for all but the weak interaction.
+
+Spatial Reflection Time Reversal Electric Charge Polarity Reversal Matter & Antimatter Exchange
+
+A symmetry operator operating on a non-degenerate eigenstate can only change its phase angle. Symmetry under time translation implies conservation of energy. Symmetry under x-axis translation implies conservation of linear momentum in the x-direction. The x-momentum operator is p=k/ħ, with ∂ψ/∂x = (p/ħ)ψ. The same is true for y and z.
+
+Symmetry under z-axis rotation implies conservation of angular momentum in the z-direction. Spin m in the z-direction is equivalent to angular momentum J=mħ. The same is true for x and y.
+
+## Chapter 25 Particle Physics: Λ Decay
+
+In the next two chapters we apply our knowledge of quantum mechanics to frontier science: high-energy physics, the study of elementary particles and their interactions.
+
+Let us first review what we learned about elementary particles in Feynman Simplified 1A Chapter 2, much of which was discovered after Feynman gave these lectures. The elementary particles, those believed not to be made of anything smaller, are listed here.
+
+Figure 25-1 Elementary Particles without Higgs
+
+The four particles in the right column are bosons, the carriers of forces. The twelve particles in the left three columns are fermions, the particles of matter. Each of the twelve elementary fermions has a corresponding antiparticle not shown in the figure. The four bosons are their own antiparticles.
+
+Each box in Figure 25-1 provides data for one particle, starting with the large one-letter symbol above the particle’s name. The three numbers on the left side of each box are: the particle’s mass, electric charge, and spin. Electric charges are stated in units of the proton charge. The small numbers in the figure may be hard to read, so we’ll discuss them shortly.
+
+The pleasingly symmetry of this 4-by-4 array is somewhat misleading. The right hand column contains four bosons: the photon, gluon, Z, and W. However, the boson on each row is not uniquely associated with the other particles on the same row. That’s quite different from the other three columns, where all particles on the same row are intimately related.
+
+The six quarks occupy the upper two rows of the left three columns. The top row contains the up, charm, and top quarks that all have electric charge +2/3. The second row contains the down, strange, and bottom quarks that all have charge –1/3. The quarks’ names are entirely fanciful. In the subatomic realm, all spatial directions are equivalent; our customary notions of up, down, top, and bottom are meaningless. None of the quarks is more strange or less charming than the others.
+
+The six leptons occupy the lower two rows of the left three columns. The bottom row contains the electron, muon, and tau that all have charge –1. The next row up contains the electron neutrino, muon neutrino, and tau neutrino that all have zero charge.
+
+The four bosons have spin 1, while the quarks and leptons all have spin 1/2. All quarks and leptons are fermions, the particles of matter. The four bosons are the exchange particles of forces: the photon for the electromagnetism; gluons for the strong force; and Z and W for the weak force.
+
+Particle masses are measured in electron volts (eV), the energy an electron gains traversing a one-volt potential; MeV means million eV, and GeV means billion eV. In discussing particles, we employ the standard particle physics convention for the speed of light: c=1.
+
+From left to right across the top row, the masses of u, c, t, γ are: 2.4 MeV, 1.27 GeV, 171.2 GeV, and zero. In the second row, the masses of d, s, b, g are: 4.8 MeV, 104 MeV, 4.2 GeV, and zero. In the third row, the neutrino masses are discussed below, and the Z mass is 91.2 GeV. In the fourth row, the masses of e, µ, τ, and W± are: 0.511 MeV, 105.7 MeV, 1.777 GeV, and 80.4 GeV.
+
+Setting the neutrinos aside for the moment, the three generations of fermions are distinguished by their masses. In each row, the third generation particles are substantially more massive than the second generation, which in turn are substantially more massive than the first generation (left most column). Third generation particles can decay (transform) into second generation particles, which can decay into first generation particles. These decays happen rapidly; lifetimes range from millionths of a second to trillionths of a trillionth of a second.
+
+The first generation particles are stable (they appear to be eternal), because they have nothing lighter to decay into. The masses of the three types of neutrinos remain unknown. We do know their masses are very small, and that the three mass values are all different. The values shown in Figure 25-1 are measured in particle reactions. Surprisingly, cosmological measurements provide a much more stringent limit: the sum of the three masses is less than 0.1 eV. In some sense, it is easier to measure the mass of the universe and subtract everything else than to measure the neutrino masses directly.
+
+Not shown in Figure 25-1 is the Higgs boson, discovered in 2012. It should go with the other four bosons, but that would spoil the nice 4-by-4 array. The Higgs boson was widely hyped as the “God particle”, but it is no more or less divine than any other particle. The Higgs boson is credited with being the source of the other elementary particles’ masses. Particles that interact strongly with Higgs become very massive; those interacting weakly with Higgs have low masses. Photons and gluons are massless because they don’t interact at all with Higgs. The Higgs has zero electric charge, mass 125.2 GeV, and a lifetime of 1.56×10–22 sec. Its hallmark characteristic is that it has spin 0; this is unique among elementary particles, although many composite particles also have spin 0.
+
+While elementary particles are thought to get their mass from the Higgs boson, the mass of composite particles comes from a quite different source. The proton mass, for example, is the sum of the masses of its constituent quarks plus their kinetic and interaction energies. Only the quark masses are due to Higgs effects; these amount to about 1% of the proton mass. Thus, about 99% of the mass of all normal matter is not due to Higgs effects, making it seem a bit less Godly.
+
+Although not elementary, the proton and neutron are worth mentioning. A proton is comprised of two up quarks and one down quark; it has charge +1, mass 938.3 MeV, spin 1/2, and is stable (its lifetime is measured to be at least 1.9×10+34 years). A neutron is comprised of two down quarks and one up quark; it has zero charge, mass 939.6 MeV, spin 1/2, and its lifetime is 881.5 seconds.
+
+Lambda-Zero Decay
+
+Our first topic is the decay of the Λ0 (“lambda-zero”), and how angular momentum conservation affects that decay, which Feynman discusses in V3p17-11.
+
+The Λ0 is a heavier cousin of the neutron. Its mass is 1115.7 MeV, about 19% more than a neutron. It has zero electric charge, spin 1/2, and even parity. The Λ0 decays through the weak force with a lifetime of 2.63×10–10 sec. This is a remarkably long lifetime compared with typical strong-force reaction times of 10–24 sec.
+
+The Λ0 is comprised of three quarks: one up, one down, and one strange. Its decay occurs in three stages, and involves a virtual W– boson and an anti-up quark (u).
+
+1. s decays to u + W–
+
+## 2. W– decays to d + u
+
+3. u, d, u, d and u quarks combine
+
+In stage (3), the five quarks can combine in two different ways: 36% of the time they make a neutron (udd) and a neutral pion (uu); and 64% of the time they make a proton (uud) and a negative pion (du), as shown in the two Feynman diagrams in Figure 25-2.
+
+Figure 25-2 Two Λ0 Decay Modes
+
+Let’s consider the dominant decay mode that results in two charged particles: Λ0 decays to p+ and π –.
+
+Whenever one particle decays into two other particles, the decay products must have specific energy values in the center of mass (CM) reference frame, due to energy and momentum conservation. Let’s see why. The total energy in the CM frame before and after the decay must be equal, hence: m = m γ + m γ Λ p p π π. Here, c=1, γ=1/√(1–v2) is the usual relativistic factor, v is velocity, m is mass, and the subscripts indicate to which particle each quantity pertains. In the CM frame the Λ0 is stationary, hence it has v=0 and γ=1. The total momentum in the CM frame before and after the decay must also be equal, hence: 0 = m γ v + m γ v p p p π π π.
+
+Unfortunately, these equations don’t reduce to anything simple, in general. In the Λ0 case, however, T CM, the CM kinetic energy of the decay products, is quite low, as shown here: m =1115.68 MeV, m = 938.27 MeV, m =139.57 MeV, T = 37.84 MeV. Here the CM momenta of the proton and pion are each 100.58 MeV, and their velocities, 0.107c and 0.585c respectively, are only modestly relativistic.
+
+The Λ0 and the proton have spin 1/2, and the pion has spin 0. Figure 25-3 shows this decay in the CM frame, with the z-axis set parallel to the spin of the lambda.
+
+Figure 25-3 Lambda Decay Geometry
+
+In Figure 25-3, the Λ0 spin is represented by the short vertical arrow, and θ is the angle of the proton’s velocity relative to the lambda spin direction, which is the z-axis.
+
+From the conservation of momentum, in the CM frame, the pion’s velocity must be exactly antiparallel to the proton’s velocity. What we discover about the angle of the proton’s velocity will immediately determine the angle of the pion’s velocity.
+
+Determine what the pion does as well. Let’s find out what we can learn about angle θ. Consider the simplest case first (always a good starting point) of θ=0, as shown in Figure 25-4.
+
+Figure 25-4 Lambda Decay Spin Up
+
+When θ=0, the proton is moving up the z-axis, and the pion is moving down the z-axis. Because both are moving along the z-axis, J, the z-component of angular momentum of both particles must be zero. (Recall that J=xp–yp, and x=y=0 along the z-axis.) Before the decay, the only angular momentum is the lambda spin, which equals ħ/2 in the +z-direction. After the decay, the only possible z-component of angular momentum, J, is the proton’s spin, since the pion has zero spin. Therefore, to conserve J_z, the proton’s spin must be up in the +z-direction; it cannot be spin down.
+
+While the above logic is entirely valid, it may seem overly classical. Feynman therefore offers a second argument that is more quantum mechanical. Define |Λ> to be the state of the Λ0 before decaying, and |p@θ=0> to be the state of a proton moving at angle θ in the CM frame. We need not be explicit about the pion, since its state is completely determined by the proton’s state. All known laws of nature, and therefore all the Hamiltonians we use to represent natural phenomena, are symmetric under rotation. Additionally, |Λ> and |p@θ=0> are symmetric under rotations about the z-axis. As defined in Chapter 23, R(ø) is the operator for rotating the z-axis by angle ø. According to what we discovered about symmetries in that chapter, R(ø), |Λ>, and |pπ,θ=0> satisfy these equations: R(ø) |Λ> = exp{iø/2} |Λ>; R(ø) |p@θ=0> = exp{iø/2} |p@θ=0>. The key points demonstrated by these equations are: (1) R(ø) can change an eigenstate by only a phase angle; (2) this phase angle is a constant of the motion that never changes regardless of how the state evolves, since RH=HR; and (3) the phase angle for spin 1/2 particles is ø/2, as given in the rotation tables at the end of Chapter 17. We also discovered in Chapter 23 that the phase angle ø/2 is proportional to J_z. These equations prove, therefore, that angular momentum is conserved and that the proton must be spin up if θ=0.
+
+Define A to be the amplitude for the lambda to decay to a proton at θ=0 with spin in the +z-direction, that is: A = <p@θ=0, s=+z | H | Λ, s=+z>. Here we extended the state definitions to include spin orientation s.
+
+Now consider the same decay, but this time with the lambda spin in the –z-direction, as shown in Figure 25-5.
+
+Figure 25-5 Lambda Decay Spin Down
+
+The same logic, with the opposite sign, shows that for θ=0 the proton must be spin down to conserve angular momentum. Define B to be the amplitude of this decay: B = <p@θ=0, s=–z | H | Λ, s=–z>. If the decay process were symmetric under reflection — if it conserved parity — that would ensure B=±A, as we now demonstrate. If the configuration of Figure 25-4 were reflected in the horizontal plane, 所以我们必须对每种可能的路径求和振幅。这两种路径分别对应Λ0自旋沿+z*方向向上或向下。每个振幅本身是另外两个振幅的乘积：Λ0具有该自旋的振幅；以及具有该自旋的Λ0衰变为质子且质子自旋沿+z*方向的振幅。因此我们得到这个相当长的表达式： <p沿z*, s=+z* | Λ s=+z> =<p, s=+z*|H|Λ s=+z*> <Λ s=+z*|Λ s=+z> +<p, s=+z*|H|Λ s=–z*> <Λ s=–z*|Λ s=+z> 由上可知，最低行的哈密顿分量为零，这是由于角动量守恒：沿Λ0自旋轴发射的质子自旋必须与Λ0平行。中间行中，哈密顿分量等于A，旋转因子等于cos(θ/2)。这将长表达式简化为： <p沿z*, s=+z* | Λ s=+z> = +Acos(θ/2)
+
+类似地，对于第(3)部分，质子沿+z*方向运动且自旋沿–z*方向： <p沿z*, s=–z* | Λ s=+z> =<p, s=–z*|H|Λ s=+z*> <Λ s=+z*|Λ s=+z> +<p, s=–z*|H|Λ s=–z*> <Λ s=–z*|Λ s=+z> 此处中间行的哈密顿量由于角动量守恒为零，表达式简化为： <p沿z*, s=–z* | Λ s=+z> = –Bsin(θ/2)
+
+这些质子沿+z*方向运动，该方向与z轴成θ角。
+
+现在考虑一个实验，它探测Λ0衰变产生的质子，并测量质子速度与质子质心系中Λ0自旋之间的夹角。假设实验不测量质子自旋方向：它统计所有质子，无论自旋向上还是向下。现在是随堂测验时间：在θ角处找到质子的概率等于振幅之和的平方，还是振幅平方之和？
+
+嘀嗒，嘀嗒，嘀嗒，嘀嗒……准备好检查答案了吗？
+
+自旋相反的质子不是全同的；即使我们不刻意区分它们，它们也是可区分的。因此我们求平方之和。
+
+Prob(p@θ) = |A|² cos²(θ/2) + |B|² sin²(θ/2)
+
+利用半角公式，我们可以将其重写为： Prob(p@θ) = β (1 + α cosθ)
+
+α = (|A|² – |B|²) / (|A|² + |B|²)
+
+β = (|A|² + |B|²) / 2 在V3p17-14中，费曼说实验证实了这种余弦依赖关系，并提供了α的测量值为 –0.62 ± 0.05。由此我们可以求出|A/B|比值。
+
+α = (|A/B|² – 1) / (|A/B|² + 1)
+
+α + α |A/B|² = |A/B|² –1 α +1 = |A/B|² (1 – α)
+
+|A/B|² = (α+1) / (1–α)
+
+|A/B|² = (0.38±0.05) / (1.62–[±0.05])
+
+|A/B|² = 0.235±0.038 |A/B| = 0.485±0.040 因此B大约是A的两倍，证实了Λ0衰变中宇称对称性被破坏。
+
+费曼接着寻求质子自旋沿原z轴向上的概率。我们已经有了回答这个问题所需的关键部分。我们有了质子自旋沿z*轴向上和向下的振幅。应用R(–θ)将这些振幅投影回z轴。
+
+|p, s=+z> = <+z|R(–θ)|+z*> |p, s=+z*> + <+z|R(–θ)|–z*> |p, s=–z*> |p, s=+z> = [cos(θ/2)] [Acos(θ/2)]
+
++ [–sin(θ/2)] [–Bsin(θ/2)]
+
+|p, s=+z> = A cos²(θ/2) + B sin²(θ/2)
+
+概率是这个振幅的模平方。
+
+## 第25章回顾：关键概念
+
+Λ0（“lambda-zero”）是中子的一个质量更大的表亲，其中一个下夸克被奇异夸克取代。Λ0具有显著长的寿命，为2.63×10⁻¹⁰秒。它通过弱力衰变，主要衰变为一个质子和一个负π介子。
+
+在该衰变的质心系中，设θ为质子速度与Λ0自旋之间的夹角。设A是θ=0时的振幅，B是θ=π时的振幅。在这两个角度下，由于角动量守恒，质子和Λ0的自旋必须平行。质子速度处于中间角度θ的概率为： Prob(p@θ) = |A|² cos²(θ/2) + |B|² sin²(θ/2)
+
+实验确定 |A/B| = 0.485±0.040。由于A/B不是±1，因此在该弱相互作用中宇称不守恒。
+
+## 第26章
+
+粒子物理：中性K介子中性K介子的奇异性质是粒子物理中量子原理最美丽的例证之一。它们曾经难以解释的性质促使物理学家接受了“奇异性”。
+
+在V3p11-12中，费曼开始讨论50年前人们对中性K介子知之甚少的情况。与其详细阐述我们当时不知道的一切，不如让我们讨论我们现在所知道的全部。
+
+粒子守恒定律回想一下我们在前一章对基本粒子的讨论。这些是我们认为是自然最基本构成部分的粒子，即不由任何“更小”物质组成的粒子。它们包括：四种携带力的玻色子；希格斯玻色子；十二种费米子；以及对应的十二种反费米子。费米子进一步细分为六种参与强力的夸克，和六种不参与强力的轻子。
+
+历史上，物理学家确定了关于各种粒子产生和湮灭的、数量稳步增加的规则。
+
+of elementary particles in different types of reactions. For example, we have long believed that the total number of leptons is always conserved. Lepton conservation means no reaction ever changes the total number of leptons of all six types minus the total number of antileptons of all six types. No evidence has ever been found that invalidates the absolute conservation of leptons.
+
+With our modern understanding of particle physics, called the Standard Model of Particle Physics, we can state these conservation laws more succinctly: In all processes driven by either the strong force or the electromagnetic force, the total number of fermions minus antifermions of each type is always conserved. The number of bosons is not conserved, neither within one type nor summed over all types.
+
+This means the total number of up quarks minus anti-up quarks never changes, and similarly for each of the other eleven types of elementary fermions. This amounts to twelve separate conservation laws. In all these particle conservation laws, one sums the number of particles and subtracts the number of corresponding antiparticles.
+
+In the past, a major principle of particle physics was the conservation of baryons (protons, neutrons, and their heavier cousins). This conservation law explained why the following reaction has never been observed: p+ + p+ never goes to π+ + π+ + π0. Above, we have 2 baryons on the left and none on the right; hence this reaction violates the conservation of baryon number.
+
+While baryon number conservation is still a valid principle, it isn’t the most insightful description of nature. Baryon conservation is simply a consequence of the conservation of quarks of each type, and the way that quarks combine. A π+ has 1 up quark and 1 anti-down quark, while a π0 is a linear combination of up+anti-up and down+anti-down. The above reaction has 4 up quarks on the left and only 2 on the right. It also has 2 down quarks on the left and –2 down quarks on the right. The reaction is doubly forbidden because it violates the conservation of two types of quarks.
+
+If that were the end of the story life would be simple, too simple to allow the existence of interesting things such as stars, planets, and life.
+
+The complication, and our opportunity for existence, comes from the weak force. Only the weak force is known to change one type of elementary fermion into another. This enables nuclear fusion that powers the stars and produces all elements heavier than helium, which is quite important for carbon-based life forms. Since changing fermion types can occur only through the weak force, such reactions proceed at vastly lower rates (less probability per second) than reactions driven by the strong or electromagnetic forces.
+
+The ability of the weak force to change one fermion into another is not universal. Weak force phenomena are typically a bit complicated. Figure 26-1. Weak & Weaker Transitions. In Figure 26-1, the bold arrows indicate transitions between fermion types that the weak force enables at relatively high rates — high relative to other weak interactions. These include transitions between up and down quarks, and between electrons and electron-neutrinos.
+
+The dotted arrows indicate transitions between fermion types that the weak force enables, but at much lower rates. These include transitions between up and strange quarks, and between down and charm quarks.
+
+Note that none of these transitions changes the total number of quarks minus antiquarks, nor the total number of leptons minus antileptons. In appropriate circumstances, all these transitions can proceed in either direction.
+
+None of these transitions can occur in isolation. When a down quark transitions to an up quark, electric charge increases by +1. That transition can only occur in tandem with another reaction that changes electric charge by –1, such as an electron-neutrino transitioning to an electron. Additionally, energy must be conserved in all reactions. Since a charm quark has more mass than a down quark, a down-to-charm transition must occur in tandem with another reaction that supplies the required energy.
+
+We also know that transitions occur in which neutrinos change types. Those reactions are not well-understood at this time, but they most probably involve the weak force.
+
+Particle conservation laws require that the number of strange quarks is conserved in strong or electromagnetic force reactions. This is why the Λ0 decay discussed in the prior chapter proceeds through the weak force. The Λ0 is the least massive three-quark particle that contains a strange quark.
+
+In every particle decay without exception, the sum of the masses of the decay products must be less than the mass of the decaying particle. (If that isn’t clear, think about the total energy in the original particle’s center of mass frame before and after the decay.) This means the Λ0 can only decay to particles that have no strange quarks. Because the number of strange quarks has to change in Λ0 decay.
+
+ay, this decay can only occur through the weak force.
+
+Before physicists knew about quarks, Murray Gell-Mann and Abraham Pais explained the long Λ0 lifetime by introducing a concept called strangeness. Each particle was assigned a strangeness quantum number S, and a new law required the conservation of strangeness in all but weak force reactions. The Λ0 has strangeness –1, protons and pions have strangeness zero, so the Λ0 decay results in a strangeness change of ΔS=+1, thus requiring the weak force and greatly extending the Λ0 lifetime. The strangeness concept succeeded in explaining why some particles had such long lifetimes. It also explained why certain reactions occurred and other seemingly similar reactions did not. This was an important step toward the later development of the quark model, the concept that all strongly interacting particles are composed of quarks.
+
+Unfortunately, the sign convention that Gell-Mann and Pais selected resulted in assigning the strange quark S=–1. This is much like the unfortunate sign convention for electric charge in which positive current flowing left is actually due to negative electrons flowing right. In both cases, by the time physicists developed complete theories, these sign conventions were too deeply ingrained to be reversed.
+
+When additional types of quarks were discovered, the logical extension of strangeness resulted in quantum numbers and conservation laws for charmness, topness, and bottomness — a linguist and political-correctness nightmare. It is far better to say that each fermion type is conserved except in weak interactions that conserve only total quark number and total lepton number. This simpler rule eliminates the need for the separate conservation laws for strangeness, charmness, topness, and bottomness. I often refer to strangeness conservation for clarity, for historical reasons, and because that is common usage.
+
+Kaons & The Strong Force Kaons, once called K-mesons, are copiously produced in strong force reactions. The four types of kaons produced in strong force reactions have the following symbols, quark contents, strangeness quantum numbers, and masses: K+: us; S=+1; 493.67 MeV K–: su; S=–1; 493.67 MeV K0: ds; S=+1; 497.65 MeV K0: sd; S=–1; 497.65 MeV The superscripts indicate the particles’ electric charge. Note that the K+ and K– are antiparticles of one another, as evidenced by their opposite quark compositions. Similarly, the K0 and K0 (“K-zero-bar”) are different particles that are antiparticles of one another, because they contain opposite quarks. (In physics texts and research papers, antiquarks and neutral antiparticles are denoted with bars above their symbols, but that isn’t possible in an eBook, so I use underlines.)
+
+Since each kaon contains one s or s quark, and since strong force reactions conserve the number of strange quarks, strong reactions must produce kaons in conjunction with other particles containing the opposite s or s quarks. Two such reactions are: π – + p+ goes to Λ0 + K0 n0 + p+ goes to p+ + p+ + K– + K0 In the first reaction, S=0+0 on the left and –1+1 on the right, conserving strangeness. In the second reaction, S=0+0 on the left and 0+0–1+1 on the right, again conserving strangeness. Strangeness conservation in strong interactions also explains why: K0 + p+ goes to Λ0 + π+ K0 + p+ never goes to Λ0 + π+ In the first reaction, S=–1+0 on the left and –1+0 on the right. In the second reaction, S=+1+0 on the left and –1+0 on the right, which is forbidden in a strong force reaction.
+
+Kaon Decays By the norms of particle physics, the K+ and K– decay very slowly, with a lifetime of 1.238×10–8 seconds. Their two principle decay modes are: K± —> µ± + neutrino K± —> π± + π0 The long lifetime confirms that these are weak reactions in which strangeness is not conserved. The neutral kaons are far more interesting. They can decay via the weak force into: K0 or K0 —> π++π – or π0+π0 As Gell-Mann and Pais pointed out, since both neutral kaons can decay to a pair of pions, there is a non-zero amplitude for each of the particles to transform into the other, with the weak force acting twice, through these reactions: K0 —> 2 pions —> K0 K0 —> 2 pions —> K0
+
+In my copy of the Feynman Lectures, which is the book’s first edition, the equations in V3p11-17 contain a number of errors. In a recent edition, the derivation is done substantially differently, but in a manner that raises technical issues that I discuss in the last section of this chapter. And, after 50 years, all editions of these lectures are considerably outdated. My approach will therefore deviate from the Feynman Lectures, and will instead reflect our modern understanding of neutral kaons.
+
+Gell-Mann and Pais realized that K0 and K0 are not two independent particles. Instead, their decay processes unite them as the basis states of one combined two-state system. The neutral kaons were the first discovered example of a more general phenomenon: neutral particle oscillations, which have also been observed with B0s, D0s, and neutrinos.
+
+In all the two-state systems we have examined before, the components of the Hamiltonian were real numbers. This is because those systems did not decay; the total number of particles in those systems never changed. Now we have something different: neutral kaons do decay. Therefore the solutions to the kaon two-state system must decrease exponentially over time. We can accommodate decay by including imaginary amplitudes in the Hamiltonian.
+
+Let’s examine that mathematically. For a stable system, the diagonal components of the Hamiltonian are real numbers that equal the energy of the basis states, thus: $$H_{nn} = E_0$$ $$i\hbar \frac{dC_n}{dt} = E_0 C_n$$ $$C_n = \exp\{E_0 t / i\hbar\}$$ This solution rotates within the complex plane, with a changing phase angle and a constant magnitude.
+
+Now consider a complex diagonal component of the Hamiltonian: $$H_{nn} = E_0 - i\beta$$ $$i\hbar \frac{dC_n}{dt} = (E_0 - i\beta) C_n$$ $$C_n = \exp\{E_0 t / i\hbar\} \exp\{-\beta t / \hbar\}$$ We see that $E_0$ leads to an oscillating factor, the basis states “sloshing back and forth”, while $-i\beta$ provides the decaying exponential factor. This is why we now introduce complex amplitudes.
+
+We begin analyzing the neutral kaon system by selecting basis states $|K^0\rangle$ and $|\bar{K}^0\rangle$, and defining: $$C_+ = \langle K^0|\psi\rangle$$ $$C_- = \langle \bar{K}^0|\psi\rangle$$ The plus and minus signs match the strangeness quantum numbers of the $K^0$ and $\bar{K}^0$.
+
+The Hamiltonian, with complex amplitudes, is: $$H_{++} = E_0 - i\beta$$ $$H_{+-} = a - i\alpha$$ $$H_{-+} = a - i\alpha$$ $$H_{--} = E_0 - i\beta$$ where: $$a - i\alpha = \langle K^0|H|\bar{K}^0\rangle = \langle \bar{K}^0|H|K^0\rangle$$
+
+Following our well-trod path for analyzing two-state systems, the Hamiltonian equations are: $$i\hbar \frac{dC_+}{dt} = (E_0 - i\beta) C_+ + (a - i\alpha) C_-$$ $$i\hbar \frac{dC_-}{dt} = (E_0 - i\beta) C_- + (a - i\alpha) C_+$$ As before, adding and subtracting the above equations yields the stationary solutions.
+
+$$i\hbar \frac{d(C_+ + C_-)}{dt} = (E_0 - i\beta)(C_+ + C_-) + (a - i\alpha)(C_+ + C_-)$$ $$i\hbar \frac{d(C_+ - C_-)}{dt} = (E_0 - i\beta)(C_+ - C_-) - (a - i\alpha)(C_+ - C_-)$$
+
+For the stationary states, define: $$|K_1\rangle = (|K^0\rangle - |\bar{K}^0\rangle) / \sqrt{2}$$ $$|K_2\rangle = (|K^0\rangle + |\bar{K}^0\rangle) / \sqrt{2}$$ $$C_1 = (C_+ - C_-) / \sqrt{2}$$ $$C_2 = (C_+ + C_-) / \sqrt{2}$$
+
+The energy levels of the “stationary” states are: $$E_1 = E_0 - a$$ $$E_2 = E_0 + a$$ With decaying particles, no state is completely “stationary.” What we are referring to are those states whose basis state amplitudes maintain constant ratios; the states that maintain their essential character as their overall magnitudes decrease exponentially.
+
+In the kaon rest frame, these energy levels must match the measured masses, which yields: $$E_0 = 497.65\ \text{MeV}$$ $$2a = 3.5 \times 10^{-12}\ \text{MeV}$$ The $K_2$ is minutely more massive than an average $K_1$. We must say “average $K_1$” because unstable particles do not have definite masses. The Uncertainty Principle states that the precision of an energy measurement $\Delta E$, measured over a time interval $\Delta t$, can never be better than: $\Delta E \Delta t = \hbar/2$. The time interval for a mass measurement of a $K_1$ is limited to its lifetime. Hence the least mass uncertainty occurs when the $K_1$ mass has a Gaussian distribution whose full width is $\Delta m = \hbar / \Delta t$. With the measured $K_1$ lifetime quoted below, $\Delta m = 7.65 \times 10^{-12}\ \text{MeV}$. This means the variation in mass of a $K_1$ is about twice the $K_2 - K_1$ average mass difference $\Delta m_{21}$. This is illustrated in Figure 26-2.
+
+**Figure 26-2** $K_1$, $K_2$ Mass Distributions The $K_1$ mass distribution is represented in the figure by a bold vertical line, because its full width of $1.3 \times 10^{-14}\ \text{MeV}$ is about 600 times smaller than the $K_2$ mass distribution.
+
+The stationary states have the following time dependence: $$C_1(t) = C_1(0) \exp\{E_1 t / i\hbar\} \exp\{-(\beta - \alpha)t / \hbar\}$$ $$C_2(t) = C_2(0) \exp\{E_2 t / i\hbar\} \exp\{-(\beta + \alpha)t / \hbar\}$$
+
+We can determine $\beta$ and $\alpha$ from the measured mean lifetimes.
+
+$K_1$: $\tau_1 = 8.954 \times 10^{-11}\ \text{sec}$ $K_2$: $\tau_2 = 5.116 \times 10^{-8}\ \text{sec}$ $$(\beta - \alpha)/\hbar = 1 / (8.954 \times 10^{-11}\ \text{sec}) = 1.117 \times 10^{+10}/\text{sec}$$ $$(\beta + \alpha)/\hbar = 1 / (5.116 \times 10^{-8}\ \text{sec}) = 1.955 \times 10^{+7}/\text{sec}$$ $$\beta/\hbar = 5.594 \times 10^{+9}/\text{sec}$$ $$\alpha/\hbar = 5.574 \times 10^{+9}/\text{sec}$$
+
+We can also express the tiny mass difference in the same units.
+
+$$2a/\hbar = (3.5 \times 10^{-12}\ \text{MeV}) / (6.582 \times 10^{-22}\ \text{MeV-sec})$$ $$2a/\hbar = 5.32 \times 10^{+9}/\text{sec}$$ $$\tau_{\Delta m} = \hbar / 2a = 1.88 \times 10^{-10}\ \text{sec}$$
+
+There are three time constants in this system: (1) the $K_1$ lifetime $\tau_1$; (2) the $K_2$ lifetime $\tau_2$; and (3) the two-basis-state oscillation time $\tau_{\Delta m}$. The measured time constants have these relationships: $$\tau_{\Delta m} = 2.1\ \tau_1$$ $$\tau_2 = 571\ \tau_1$$
+
+We can rewrite the stationary states highlighting these time constants.
+
+$$C_1(t) = C_1(0) \exp\{-im t / \hbar\} \exp\{-i t / \tau_{\Delta m}\} \exp\{-t / \tau_1\}$$ $$C_2(t) = C_2(0) \exp\{-im t / \hbar\} \exp\{+i t / \tau_{\Delta m}\} \exp\{-t / \tau_2\}$$
+
+Since the decay time constant $\tau_1$ is less than the oscillation time constant $\tau_{\Delta m}$, this system is an over-damped harmonic oscillator, as described in Feynman Simplified 1B Chapter 14. $C_1$ rapidly vanishes, leaving only $C_2$.
+
+From the stationary state solutions, we can calculate the basis state amplitudes.
+
+$$C_1 = (C_+ - C_-) / \sqrt{2}$$ $$C_2 = (C_+ + C_-) / \sqrt{2}$$ $$C_+ = (C_1 + C_2) / \sqrt{2}$$ $$C_- = (C_2 - C_1) / \sqrt{2}$$
+
+For $t \gg \tau_1$, $C_1$ vanishes and we are left with: $$C_+ = + C_2 / \sqrt{2}$$ $$C_- = + C_2 / \sqrt{2}$$
+
+A $K^0$ produced in a strong reaction at $t=0$ has: $$C_+(t=0) = 1$$ $$C_-(t=0) = 0$$ $$C_1(0) = C_2(0) = 1/\sqrt{2}$$
+
+At a time $t$, with $\tau_1 \ll t \ll \tau_2$, this particle becomes: $$C_+(t) = + \exp\{-im t / \hbar\} \exp\{-i t / \tau_{\Delta m}\} / 2$$ $$C_-(t) = + \exp\{-im t / \hbar\} \exp\{+i t / \tau_{\Delta m}\} / 2$$ What all this means is that the original K0 has a 50% probability of decaying into a pair of pions, and a 50% probability of becoming a symmetric superposition of K0 and K0-bar — its original self and its antiparticle in equal measures: a quantum version of Dr. Jekyll and Mr. Hyde. A K0 produced in a strong reaction has exactly the same fate.
+
+The K0 slowly decays while remaining a superposition of matter and antimatter. Its quark composition is always (ds+ds-bar)/√2.
+
+Recall that CP symmetry is the combination of charge polarity reversal (C) plus spatial inversion (P), which amounts to the exchange of matter and antimatter. Like parity P, elementary particles (generally) are eigenstates of definite CP — when operated on by CP, their amplitudes are multiplied by either +1 or –1. This means particles have a conserved CP quantum number that is either +1 or –1. If CP is a universal symmetry of nature, the CP quantum number of all closed systems never changes. Also like parity, the CP quantum number of two particles equals the product of the CP quantum numbers of each particle separately. Pions have CP=–1, but a pair of pions has CP= (–1)^2 = +1. The CP of a K0 is +1, while the CP of a K0-bar is –1. This means a K0 can decay to two pions, but a K0-bar cannot, if CP is conserved.
+
+When a K0 decays to two charged pions, about 218 MeV of mass energy is released. By comparison, when a K0-bar decays to three charged pions, which have CP=–1, only about 79 MeV of mass energy is released. This means the K0-bar decay proceeds at a much lower rate than the K0 decay.
+
+Now we come to more recent discoveries.
+
+Kaon Regeneration A remarkable quantum phenomenon occurs when a beam of long-lived neutral kaons passes through a material object.
+
+In 1955, Abraham Pais and Oreste Piccioni predicted that a K0-bar beam traversing matter regenerates a coherent K0 beam. This is because normal matter preferentially absorbs the K0 component of a K0-bar beam, as we will now explore.
+
+From above, absent an absorber, the basis state composition of a K0-bar beam is: |K0-bar> = (|K0> + |K0-bar>) / √2 For simplicity, assume that in passing through a thin block of matter, a fraction f of the K0 component of this beam is absorbed and none of its K0-bar component is absorbed. The basis state composition of the beam becomes (recalling that |K0>=(|K0-bar>+|K0>)/√2): (|K0> + (1–f)|K0-bar>)/√2 = {(1–f)(|K0>+|K0-bar>)/√2} + {f|K0>} = {(1–f)|K0-bar>} + {f(|K0-bar>+|K0>)/√2} = (1–f +f/√2)|K0-bar> + f|K0>/√2 The key feature is the reappearance, the regeneration, of K0 particles. Half of these regenerated K0’s rapidly decay to pairs of pions, leaving the other half to rejoin the K0-bar beam.
+
+In 1960, an experiment lead by Oreste Piccioni observed this kaon regeneration process.
+
+An old physicists’ adage laments: “Yesterday’s sensation is today’s calibration and tomorrow’s contamination.” As science continually advances, our machines become more powerful. Phenomena that were once barely detectable eventually are seen routinely, and become useful benchmarks. Even later, they become so ubiquitous that they must be methodically eliminated to unmask even rarer phenomena. In brief: even thrilling discoveries become boring and burdensome.
+
+As an example, less than a decade after my father first observed kaon regeneration, the pion-muon discriminator in our CP-violation experiment was calibrated using regenerated kaons. Once calibrated, we took special measures to ensure unintended kaon regeneration did not contaminate our data.
+
+Now, let’s discuss why matter preferentially absorbs K0 and not K0-bar. Neutral kaons are absorbed by matter through their strong force reactions with the protons and neutrons that all normal matter contains. Recall that the strong force conserves the net number of each type of quark, and that the K0 contains one strange quark, while the K0-bar contains one antistrange quark. By “net” number, we mean the number of particles minus the number of antiparticles.
+
+Protons and neutrons are the two least massive baryons, a class of particles that have a net quark number equal to +3. Protons and neutrons contain up and down quarks, but no strange quarks. Some of the more massive baryons, called hyperons, contain one or more strange quarks, but none contain any antistrange quarks, which count as –1 quark. A baryon with one antistrange quark would need four normal quarks to reach the required net quark number of +3. While a pentaquark, four quarks plus one antiquark, is not impossible, none has ever been observed. Also, a pentaquark would necessarily contain at least one quark-antiquark pair, making it extremely short-lived.
+
+All this means that many types of hyperons can be produced by K0 collisions with matter, but cannot be produced by similar K0-bar collisions. With more reaction opportunities, K0 has a much greater absorption rate in normal matter than K0-bar.
+
+Examples of hyperon production in K0 collisions are listed below, with each pair of lines describing one reaction. In each pair, the first line shows the reaction symbolically (with the hyperon name), while the second line shows the quark content of each particle.
+
+K0 + p+ —> Λ0 + π+ (Λ0=Lambda0)
+
+ds + uud —> uds + ud K0 + n0 —> Σ0 + π0 (Σ0=Sigma0)
+
+ds + udd —> uds + dd K0 + n0 —> Σ– + π+ (Σ–=Sigma–)
+
+ds + udd —> dds + ud K0 + p+ —> Ξ0 + K+ (Ξ0=Xi0)
+
+ds + uud —> uds + ud K0 + p+ —> Ω– + K+ + K+ (Ω–=Omega–)
+
+ds + uud —> sss + us + us
+
+CP Violation In 1964, James Cronin and Val Fitch observed the long-lived neutral kaon decaying to two charged pions, in violation of CP conservation. For this discovery, they were awarded the 1980 Nobel Prize. My own thesis experiment later discovered a CP-violating asymmetry in long-lived neutral kaon decays to: π+ µ– ν versus π– µ+ ν If nature were perfectly matter-antimatter symmetric, the rates of the above decays would be exactly equal. In fact, the rates differ by 0.3%. Our experiment eliminated the possibility that CP-violation in the two-pion decay could be some unexpected effect of the then-still-mysterious strong interactions. Our current understanding attributes CP-violation in kaon decays not to an asymmetry in the decay process itself, but rather to an asymmetry of unknown origin in the eigenstates. Some models redefine the decay eigenstates to be: |K1> = {(1+ε)|K0> – (1–ε)|K0bar>} /√2 |K2> = {(1+ε)|K0> + (1–ε)|K0bar>} /√2 α |K_S> = |K1> + ε|K2> α |K_L> = |K2> + ε|K1> Here α2 = (1+ε*ε), and ε is a complex number.
+
+The |K_S> and |K_L> are “stationary” states in the sense that they decay while maintaining a constant ratio of basis state amplitudes. They are called the short-lived |K_S> and long-lived |K_L> neutral kaons, or more briefly, the K-short and the K-long. Adding the complex number ε means neither |K_S> nor |K_L> are states of definite CP, and that the |K_L> has a small but non-zero amplitude to decay to two pions.
+
+The measured value of ε is: ε = (2.228±0.011)×10–3 exp{i (43.5±0.5)º } When Madame Wu published her famous discovery of parity violation in 1956 (see Feynman Simplified 1D Chapter 49), physicists were shocked. Yet, there was some consolation in the fact that the parity violation was a 100% effect — the weak force violated parity completely. Nature was surprising, but decisive. By comparison, CP violation is even more distressing: why is nature 99.7% of what we had expected? Fifty years later, we still have no comprehensive explanation for the origin of this tiny asymmetry.
+
+Self-Interaction Issues This section addresses an advanced issue that some may consider overly technical.
+
+Some editions of the Feynman Lectures include the following self-interaction processes in the analysis of the neutral kaon system: K0 —> 2 pions —> K0bar K0bar —> 2 pions —> K0 Such reactions can be safely included here due to the feebleness of the weak force — the magnitudes of the transition amplitudes are about 10–15. However, self-interactions involving other forces require extreme finesse. Consider, for example, this electromagnetic self-interaction: e– —> e– + photon —> e– Summing all the Feynman diagrams for all combinations of such reactions yields infinities that seemingly give the electron an infinite mass and an infinite charge, which is clearly nonsense. This isn’t a strictly quantum problem; related problems arise in classical physics as well. The potential energy of charge q in the electric field of charge Q is proportional to –qQ/r, where r is the distance between the charges. Classically, electrons are point-particles of zero size. If one tries to calculate the self-energy of one electron, the energy of its charge q in the electric field created by its charge q, the result is –q2/0=–∞. Calculations of self-interactions are explosive, in general, which is a clear indication of our incomplete understanding of these effects. We seem to have about as many problems with zero as we have with infinity.
+
+One of Feynman’s achievements that made the theory of quantum electrodynamics (QED) successful was eliminating these infinities through renormalization. To renormalize QED, one assumes that, in the absence of any interactions, an electron has an infinite bare mass and an infinite bare charge. These bare infinities are arranged to cancel the self-interaction infinities, yielding finite residuals that match the observed electron mass and charge. You might imagine what mathematicians think of that. While he didn’t win the Field’s Medal, Feynman did receive the Nobel Prize in Physics because his calculations match nature extremely well, which is what physicists care most about. The predictions of QED have been confirmed to as many as 12 decimal digits, and none of its predictions have ever been falsified by experiments. In 1999, Gerald ‘t Hooft received the Nobel Prize for refining the renormalization procedure, making it mathematical rigorous (at least in the opinion of physicists).
+
+## Chapter 26 Review: Key Ideas
+
+The following conservation law applies to each of the twelve types of elementary fermions: In all processes driven by either the strong force or the electromagnetic force, the total number of fermions minus antifermions of each specific type is always conserved. The number of bosons is not conserved, neither within one type nor summed over all types. Only the weak force is known to change one type of elementary fermion into another, in the manner illustrated in Figure 26-1. The weak force can change some types of quarks into others, but it does not change the total number of quarks. The weak force can also change some types of leptons into others, but it does not change the total number of leptons.
+
+There are four kaons. The K+ and K– are antiparticles of one another. Similarly, the K0 and K0 (“K-zero-bar”) are different particles that are antiparticles of one another, because they contain opposite quarks. The K0 and K0 are not two independent particles, but rather the basis states of one combined decaying two-state system. This was the first discovered example of neutral particle oscillations. To accommodate decay, the Hamiltonian of this two-state system has complex components: H = E – iβ + + 0 H = <K0|K0> = a + iα + – H = <K0|K0> = a + iα – + H = E – iβ – – 0
+
+Absent CP-violation, the neutral kaon “stationary” states are: |K> = (|K0>–|K0>)/√2 |K> = (|K0>+|K0>)/√2 The mass difference m –m is 3.5x10–12 MeV.
+
+## K2 K1
+
+This system has three time constants: K lifetime t = 8.954×10–11 sec 1 1 K lifetime t = 5.116×10–8 sec 2 2 Oscillation time t = 1.88x10–10 sec Δm
+
+A K beam traversing matter regenerates a coherent K beam, because normal matter preferentially 2 1 absorbs K0 over K0.
+
+Because CP-violation is observed in neutral kaon decays, the decay eigenstates are the short-lived neutral kaon |K> and the long-lived neutral kaon |K > defined as: S L α |K> = |K> + ε|K>
+
+## S 1
+
+α |K > = |K> + ε|K>
+
+## L 2
+
+Here α2 = (1+ε*ε), and ε is a complex number measured to be: ε = (2.228±0.011)×10–3 exp{i (43.5±0.5)º }
+
+Parity violation in weak interactions is a 100% effect. By comparison, CP violation is only a 0.3% effect. Fifty years later, we still have no comprehensive explanation for the origin of this tiny asymmetry.
+
+## Chapter
+
+Angular Momentum
+
+In Chapter 23, we discovered that the conservation of angular momentum is linked in quantum mechanics to the symmetry of natural laws under rotation. Recall how quantum state |ψ> is changed by a rotation of the coordinate system by angle θ about the z-axis: R(θ) |ψ> = exp{iJθ/ħ} |ψ> z z Here J is the z-component of angular momentum of state |ψ>. If natural laws are symmetric under rotation about the z-axis, R(θ) commutes with any Hamiltonian H, and the quantity J is conserved.
+
+z z
+
+In Chapter 25, we examined how angular momentum conservation determines the angular distribution of protons coming from decaying Λ0s.
+
+In this chapter, we will explore the role of angular momentum conservation in other atomic systems.
+
+Radiation by Excited Atoms
+
+We know that electrons in atoms are confined to specific orbits characterized by three quantum numbers: n, j, and m. The principal quantum number n determines the orbits’ average inverse radius <1/r>. Quantum number j specifies the orbit’s total angular momentum, and m specifies the component of angular momentum along any selected axis (we usually select the z-axis).
+
+The second law of thermodynamics favors processes that convert potential energy into kinetic energy. Because kinetic energy can be distributed in more ways than can potential energy, the same amount of energy has more entropy if it’s kinetic rather than potential. Recall from Feynman Simplified 1B Chapter 23 that a system’s entropy is proportional to the logarithm of the number of microscopically distinct, but macroscopically indistinguishable, internal arrangements of that system.
+
+No form of energy has more entropy than radiation. This is why an electron in a higher energy atomic orbit, an excited state, is driven to emit radiation and drop to a vacancy in a lower energy orbit.
+
+Let’s examine how an emitted photon is affected by an electron’s initial angular momentum. We start with the simplest case. Consider an atom in an excited state with angular momentum parallel to the z-axis that emits a photon in the +z-direction. Two scenarios are shown in Figure 27-1: an initial excited state |A> with j=1 and m=+1; and an initial excited state |C> with j=1 and m=–1.
+
+Figure 27-1 States |A> & |C> Emitting Photons
+
+In Figure 27-1, state |A> transitions to state |B> with amplitude α, and state |C> transitions to state |D> with amplitude β. Each gray disk represents an atom. The bold arrows in |A> and |C> represent the atom’s initial angular momentum, while the white arrows in |B> and |D> are reminders of what that angular momentum was originally. The wavy lines represent emitted photons.
+
+To conserve angular momentum along the z-axis, the photon in state |B> must have spin +1, and the photon in state |D> must have spin –1. As we discovered in Chapter 23, this means the photon in |B> has RHC (right hand circular) polarizati on, and the photon in |D> has LHC (left hand circular) polarization. In V3p18-2, Feynman notes that to be more precise, we should say α and β are the amplitudes for photons to be emitted within an infinitesimal solid angle dΩ surrounding the +z-axis during an infinitesimal time interval dt. We write this as: <B|A> dΩ dt = α dΩ dt <D|C> dΩ dt = β dΩ dt Since a photon cannot have spin 0 along any axis, a photon cannot be emitted parallel to the z-axis by an atom with m=0 along that axis.
+
+We will now proceed to relate amplitudes α and β by employing inversion and reflection symmetries. Feynman says rotations, translations, and inversions should generally be performed by changing the coordinate axes rather than by changing the objects being considered. However in this case, it will be much easier to see what is happening if we change the objects rather than the coordinate axes.
+
+Let’s first recall how axial and polar vectors respond to inversion (see Feynman Simplified 1D Chapter 49). When an object is inverted, we reverse the polarity of the x, y, and z coordinates of each piece of the object. In this process, each component of every polar vector reverses polarity, but no component of any axial vector changes. Polar vectors include position, velocity and momentum. Axial vectors include angular momentum and torque. Recall that angular momentum L equals r×p; under inversion, both r and p reverse polarity and so L does not.
+
+We will now invert and then rotate state |B>, and find that the result is state |D>. Consider Figure 27-2, in which states |A> and |B> are exactly as above.
+
+Figure 27-2 Invert & Rotate |B> To Get |F> State |E> is state |B> inverted through the atom’s center. In |E>, the photon is moving toward –z. The atom’s original angular momentum (white arrow) is an axial vector that does not change under inversion. Similarly, the photon’s angular momentum does not change direction; it is still pointing upward, but referenced to its motion toward –z that now has LHC polarization.
+
+State |F> is state |E> rotated by 180º about the y-axis that points into the screen. This rotation turns the atom’s original angular momentum (white arrow) upside-down. The photon retains LHC polarization because rotation does not change its spin-velocity relationship.
+
+Comparing Figures 27-1 and 27-2, we see that state |D> looks identical to state |F>. In quantum mechanics, this means the two states can differ by at most a phase angle. We can further constrain this phase angle by performing a second inversion and rotation. Two inversions are equivalent to a null operation. As we discovered studying the rotation of bosons and fermions, two 180º rotations can change an amplitude only by a factor of ±1. All this means: α = ± β Parity Considerations We know that parity is conserved in electromagnetic interactions. Let’s see how parity conservation affects the emission process we are discussing.
+
+The states examined above are not states of definite parity, but we can construct combinations of those photon states that do have definite parity. Recall that we obtained state |E> by inverting state |B>. Both states involve an atom with m=+1 along the z-axis. In |B>, the photon moves toward +z with RHC polarization; relabel this state |RHC,+z>. In |E>, the photon moves toward –z with LHC polarization; relabel this state |LHC,–z>. With P being the parity operator for inverting objects (or coordinate systems), this means: |LHC,–z> = P |RHC,+z> |RHC,+z> = P |LHC,–z> Now define |ψ+> as the state of any photon emitted parallel to the z-axis by an atom with m=+1. Express |ψ+> as a linear combination of |RHC,+z> and |LHC,–z> with unknown coefficients λ and µ.
+
+|ψ+> = λ |RHC,+z> + μ |LHC,–z> P|ψ+>= λ |LHC,–z> + μ |RHC,+z> For |ψ+> to be a photon state of definite parity, we must have: P |ψ+> = ±|ψ+> This requires: µ = ±λ = 1/√2 |ψ+> = ( |RHC,+z> ± |LHC,–z> )/√2 Here, the plus sign corresponds to even parity and the minus sign to odd parity.
+
+The parity of the initial and final atomic states could be the same or could be the opposite. That results in two distinct situations with two distinct photon angular distributions. Let’s examine both possibilities.
+
+The first possibility is that the initial and final atomic states have opposite parity. Here, the photon state must have odd parity for the entire atom-photon system to conserve parity. This means: |ψ+> = ( |RHC,+z> – |LHC,–z> )/√2 Let’s rotate this state by 180º about the y-axis. As we discovered above, this reverses the polarity of m, and the photon direction but not its polarization. Changing m from +1 to –1 changes |ψ+> into |ψ–>. According to the rotation tables: <m=–1|R(180º)|m=+1> = 1 |ψ–> = R(180º) |ψ+> |ψ–> = ( |RHC,–z> – |LHC,+z> )/√2 We highlight two amplitudes from the prior four equations: <ψ+|RHC,+z> = +1/√2 <ψ–|LHC,+z> = –1/√2 The upper line corresponds to amplitude α from the prior section: the amplitude for an m=+1 state to emit a photon moving toward +z with RHC polarization. The lower line corresponds to amplitude β from the prior section: the amplitude for an m=–1 state to emit a photon moving toward +z with LHC polarization. This proves that: α = –β, for a photon state of odd parity. If the initial and final atomic states have opposite parity, which is very common, the transition is said to produce electric dipole radiation.
+
+The second possibility is that the initial and final atomic states have the same parity. Here, the photon state must have even parity for the entire atom-photon system to conserve parity. This transition is said to produce magnetic dipole radiation. The photon state is then: |ψ+> = ( |RHC+z> + |LHC–z> )/√2. Rotating by 180º about the y-axis yields: |ψ–> = R(180º) |ψ+> = ( |RHC–z> + |LHC+z> )/√2. <ψ+|RHC+z> = +1/√2, <ψ–|LHC+z> = +1/√2. α = +β, for a photon state of even parity.
+
+We can now calculate the amplitude for a photon to be emitted in any direction. Define the photon direction to be the z*-axis. Define the z-axis to be the direction of the atom’s angular momentum, so that m=+1 in the z-direction. Let θ be the angle between the z- and z*-axes, and define the y-axis such that z* is obtained by rotating the z-axis by angle θ about the y-axis. We can use the rotation tables for R(θ), listed at the end of Chapter 17, to project the state m=+1 along the z-axis onto the states m=+1, 0, and –1 along the z*-axis. For example: <+1,z*|R(θ)|+1,z> = (1+cosθ)/2.
+
+The amplitude to emit a RHC photon along the z*-axis equals the product of (amplitude of RHC parallel to m) × (amplitude of m=+1 along z*-axis), which is: For RHC: (α) (<+1|R(θ)|+1>) = α (1+cosθ)/2. The amplitude to emit a LHC photon along the z*-axis equals the product of (amplitude of LHC antiparallel to m) × (amplitude of m=–1 along z*-axis), which is: For LHC: (β) (<–1|R(θ)|+1>) = β (1–cosθ)/2. Recall that for an odd parity photon state β=–α, and for an even parity state β=+α. Appropriate combinations of the above provide the amplitudes for x- and y-polarizations.
+
+Light Scattering. In V3p18-3, Feynman applies the results of the prior section to a “somewhat more complicated problem—but also one that is somewhat more real”: the scattering of light by atoms. We assume an atom is in its ground state with j=0 and m=0. Assume also that a RHC polarized photon approaching from the –z-direction is absorbed by the atom, and then subsequently re-emitted with RHC polarization at angle θ relative to the z-axis. This two-step process is illustrated in Figure 27-3.
+
+In the first step, going from state |A> to state |B>, the conservation of angular momentum requires the atom to enter its j=1, m=+1 state after absorbing the photon. Call the amplitude for this process μ. In the second step, going from |B> to |C>, the photon is emitted with RHC polarization with the amplitude we calculated above: α (1+cosθ)/2. The amplitude for the total process is the product of the amplitudes for each step, which we label as follows: <R@θ|S|R> = α µ (1+cosθ)/2. Here S is the scattering operator. The left side of the equation reads: a RHC polarized photon is scattered, resulting in a RHC photon emitted at angle θ.
+
+The atom could also emit a LHC polarized photon at angle θ. If we assume the photon state has odd parity (β=–α), the amplitude for this total process is: <L@θ|S|R> = – α µ (1–cosθ)/2. We could repeat this analysis for an incident LHC polarized photon, which drives the absorbing atom into the m=–1 state. By the same logic employed in the prior section, and again assuming odd parity, the amplitude for the atom to absorb a LHC photon and enter the m=–1 state equals –µ. The amplitudes for the total processes for a LHC incident photon are: <R@θ|S|L> = – α µ (1–cosθ)/2, <L@θ|S|L> = (–α) (–µ) (1+cosθ)/2.
+
+Now, examine what happens if the incident photon has +x-polarization. The principle here is simple enough: x-polarization is a superposition of RHC and LHC. We know the amplitudes for RHC and LHC, hence we combine these amplitudes using the superposition coefficients. From Chapter 15, the superposition coefficients for x- and y-polarizations are: |x> = (|RHC> + |LHC>)/√2, |y> = (|RHC> – |LHC>)/(i√2).
+
+Let’s take one example: an incident x-polarized photon, with an emitted RHC photon at angle θ. <R@θ|S|x> = {<R@θ|S|R>+<R@θ|S|L>}/√2 = α µ {(1+cosθ)–(1–cosθ)}/(2√2) = α µ cosθ/√2. For an emitted LHC photon at angle θ we have: <L@θ|S|x> = {<L@θ|S|R>+<L@θ|S|L>}/√2 = α µ {–(1–cosθ)+(1+cosθ)}/(2√2) = α µ cosθ/√2.
+
+Reversing the polarization relationships yields: |RHC> = (|x> + i|y>)/√2, |LHC> = (|x> – i|y>)/√2. <x|RHC> = 1/√2, <x|LHC> = 1/√2, <y|RHC> = i/√2, <y|LHC> = –i/√2. From these amplitudes we calculate the amplitude that the emitted photon has x-polarization. <x@θ|S|x> = {<x|R><R@θ|S|x>+<x|L><L@θ|S|x>}/√2 = (αµcosθ)/2 + (αµcosθ)/2 = α µ cosθ. The amplitude that the emitted photon has y-polarization is: <y@θ|S|x> = {<y|R><R@θ|S|x>+<y|L><L@θ|S|x>}/√2 = (iαµcosθ)/2 + (–iαµcosθ)/2 = 0.
+
+osθ)/2 ⟨ψθ|S|x⟩ = 0
+
+The last equation means that, for plane polarization, the scattered light is polarized in the same plane as the incident light.
+
+In V3p18-4, Feynman remarks that the results just obtained were also obtained in our classical analysis of light scattering (Feynman Simplified 1C Chapter 35). There we assumed atoms acted like harmonic oscillators.
+
+Feynman says: “Perhaps you are thinking: ‘It's so much easier in the classical theory; if it gives the right answer why bother with the quantum theory?’ For one thing, we have considered so far only the special —though common—case of an atom with a j=1 excited state and a j=0 ground state. If the excited state had spin two, you would get a different result. Also, there is no reason why the model of an electron attached to a spring and driven by an oscillating electric field should work for a single photon. But we have found that it does in fact work, and that the polarization and intensities come out right. So in a certain sense we are bringing the whole course around to the real truth. Whereas we have, in Vol. I, done the theory of the index of refraction, and of light scattering, by the classical theory, we have now shown that the quantum theory gives the same result for the most common case. In effect we have now done the polarization of sky light, for instance, by quantum mechanical arguments, which is the only truly legitimate way.
+
+“It should be, of course, that all the classical theories which work are supported ultimately by legitimate quantum arguments. Naturally, those things which we have spent a great deal of time in explaining to you were selected from just those parts of classical physics which still maintain validity in quantum mechanics.”
+
+Positronium Annihilation
+
+Positronium is a bound state of an electron and an antielectron — a positron. Being half matter and half antimatter, it is not surprising that positronium is relatively short-lived. It could be described as an “atom” with a short half-life.
+
+Feynman says positronium is “very pretty” and “quite interesting and, although somewhat complicated, we hope not too much so.”
+
+Like hydrogen, positronium has excited states, but we will examine only its ground state, which has orbital angular momentum j=0. Also, like hydrogen, positronium contains two spin 1/2 fermions, whose spin-spin interactions cause hyperfine splitting of the ground state. As we discovered in Chapter 16, this results in a spin-zero singlet state and a spin-one triplet state. In the absence of external magnetic fields, the three triplet substates all have the same energy, which is higher than the energy of the singlet state.
+
+Because the positron’s magnetic dipole moment is 1000 times larger than the proton’s, the hyperfine splitting in positronium is about 1000 times larger than in hydrogen.
+
+When the positron and the electron annihilate, their mass energy is converted into the kinetic energy of two or more photons. Subatomic annihilation has no macroscopic analog — it is absolute destruction that leaves no trace whatsoever of the original particles.
+
+Let’s first consider the singlet state. As in hydrogen, the singlet state |j,m> = |0,0> is an antisymmetric superposition of antiparallel spins, represented by: |0,0> = {|e+,p–> – |e–,p+>}/√2 Here e+ denotes an electron with spin +1/2, p– denotes a positron with spin –1/2, etc. In its rest frame, the singlet state annihilates with a mean lifetime of 1.25×10–10 seconds into two 511 keV photons. These photons, in the gamma ray energy range, must have exactly the same energy and exactly opposite momenta in the CM frame. Since the singlet state has spin zero, it has no spin axis or other preferred direction. This means all photon directions are equally probable, their angular distribution is uniform in the CM frame.
+
+Now let’s consider the polarization of the photons emitted in the disintegration of singlet state positronium, as illustrated in Figure 27-4.
+
+Figure 27-4 Decay of e+e– to 2 Photons
+
+We may describe photon polarization in various ways, but RHC and LHC polarizations are the easiest to relate to angular momentum. Since the initial state |A> has zero angular momentum, angular momentum conservation requires that the two photons in the final state have equal but opposite angular momenta. This means they must both have the same circular polarization: either RHC, as in |B>; or LHC, as in |C>. With both photons RHC polarized, the upper photon in |B> has spin +1 along its direction of motion +z, while the lower photon has spin +1 along its direction of motion –z, which is the same as spin –1 in the +z-direction.
+
+We will get back to the singlet state shortly, but let’s first consider the triplet state. It has angular momentum j=1, and three substates with m=+1, 0, and –1. The m=±1 substates cannot decay into two photons, because two spin 1 photons can only have total spin +2, 0, or –2 in any direction. (If that isn’t clear, compute the possible sums of ±1 and ±1. Photons can ne ver have spin 0 along any axis.)
+
+What about state |10>, the state with j=1 and m=0? As it turns out, a two-photon decay is also impossible for |10>. Let’s see why.
+
+Consider a two-photon final state, such as |B> in figure 27-4. Rotating |B> by 180º about the y-axis results in the same state that we started with; it simply exchanges the two photons. Being bosons, we know that the transition amplitudes to the original |B> and to the photon-exchanged |B> must be equal: R(180º) <B|10> = + <B|10> However, rotating |10> by 180º about the y-axis multiplies that state by cos(180º), according to the Chapter 17 rotation tables for j=1, m=0. This means the amplitudes to transition from the original |10> and the rotated |10> must have opposite signs: R(180º) <B|10> = – <B|10> The only solution to both requirements is <B|10>=0. This means the spin-one triplet state must decay to three photons, rather than two. The three-photon decay rate is less than the two-photon rate, which extends the triplet state lifetime to 1.42×10⁻⁷ seconds, over 1000 times longer than the singlet state lifetime.
+
+Angular momentum and parity can also be conserved by: the triplet state decaying to any odd number of photons greater than three; or by the singlet state decaying to any even number of photons greater than two. But, the decay rates drop by a factor of one million for each additional pairs of photons.
+
+When positronium forms, the two spin orientations are typically random, resulting in the longer-lived triplet state 75% of the time and the shorter-lived singlet state 25% of the time.
+
+Now, we return to the singlet state two-photon decay shown in Figure 27-4. We learned above that, due to angular momentum conservation, the decay must result in the following two states (or a linear combination thereof): |B>: two RHC polarized photons |C>: two LHC polarized photons Because parity is conserved in electromagnetic processes, the actual state must have the same parity as positronium.
+
+Let’s consider how parity acts on these states. In the analysis of Figure 27-2, we found that P, the parity/spatial-inversion operator, acting on a RHC polarized photon reverses its direction of motion and also changes its polarization to LHC. Similarly P acting on a LHC photon reverses its direction of motion and changes its polarization to RHC. Because, in the positronium rest frame, both |B> and |C> have two photons moving in opposite directions, reversing their directions has no effect. The only effect of P operating on |B> and |C> is to invert their polarizations, which means exchanging |B> and |C>.
+
+P |B> = |C> P |C> = |B> This means neither state has definite parity. The actual final state of positronium decay must be a linear superposition of |B> and |C>.
+
+Now what is the parity of positronium? Advanced quantum theory, confirmed by experiment, shows that any elementary fermion and its antiparticle have opposite parity. (Elementary bosons are their own antiparticles, so this logic does not apply to bosons.) Theory and experiment also show that the parity of a composite system, such as positronium, equals the product of the parities of all its constituents multiplied by (–1)ʲ, where j is the system’s total angular momentum.
+
+Hence, the parity of the singlet (j=0) state of positronium is: (parity of e–) × (parity of e+) × (–1)⁰ = –1 A linear superposition of |B> and |C> that has parity –1 (odd parity) is: |F> = (|B> – |C>)/√2 Let’s confirm the parity of |F>.
+
+P |F> = (P|B> – P|C>)/√2 P |F> = (|C> – |B>)/√2 = – |F> For the decay of the singlet state of positronium, the only final state that conserves both angular momentum and parity is |F>, a spin zero, antisymmetric superposition of a RHC-pair and a LHC-pair of photons moving in opposite directions in the positronium rest frame.
+
+Entanglement The photons from positronium decay are a prime example of entanglement, a uniquely quantum phenomenon. The two photons are not independent particles, each with its own wave function. Instead, the two photons are entangled, sharing one common wave function.
+
+In V3p18-7, Feynman highlights a stunning consequence of entanglement. Imagine having a source at x=y=z=0 that produces one singlet-state positronium “atom” each second, with the atom at rest in the lab frame. Now imagine scientist Alice monitoring a photon detector at x=y=0, z=+D, and scientist Bob monitoring a photon detector at x=y=0, z=–D. Whenever a photon from positronium annihilation hits Alice’s detector, its partner must hit Bob’s detector, because the annihilation photons must move in exactly opposite directions in the positronium rest frame. Now imagine that each detector flashes a red light when a RHC photon arrives and a lavender light when a LHC photon arrives.
+
+Alice and Bob both see red and lavender with equal probability, because state |F> is an equal superposition of RHC and LHC. Neither can predict what color the next light will be, but the odds are 50-50, just as though each scientist was flipping a perfect c coin. The interesting thing is: they are flipping the same coin. Whenever Alice sees red so must Bob; when she sees lavender so does he. It never happens that one sees red when the other sees lavender, even if they are light-years apart. This begs the question: If Alice’s photon has an equal chance of being red or lavender, how does Bob’s photon “know” what Alice’s photon is going be? This question launched a vigorous debate that continued for many decades. We will come back to this “Einstein-Podolsky-Rosen (EPR) paradox” in Chapters 34 and 35.
+
+There is one last twist to the positronium story. Imagine now that Alice and Bob change their detectors to trigger on x- and y-polarizations instead of RHC and LHC polarizations. Recall the quantum mechanical relationships between these states.
+
+|RHC> = (|x> + i|y>)/√2 |LHC> = (|x> – i| three photons, and therefore its lifetime is 1000 times longer (1.42×10–7 vs. 1.25×10–10 seconds). For the decay of the singlet state of positronium, the only final state that conserves both angular momentum and parity is a spin zero, antisymmetric superposition of a RHC-pair and a LHC-pair of photons moving in opposite directions in the positronium rest frame.
+
+• Entanglement is the uniquely quantum phenomenon of two or more particles sharing one common wave function. The two photons from positronium decay are a prime example. Scientists Alice and Bob, monitoring photon detectors on opposite sides of a singlet-state positronium annihilation source, will always see both photons with the same circular polarization, even though each has a 50-50 chance of being either RHC or LHC. It never happens that one sees RHC when the other sees LHC, even if they are light-years apart. If Alice and Bob switch their detectors to x- and y-polarizations, the amplitudes for Alice and Bob to detect x-polarization and y-polarization are: <AxBy|e+e–> = i/√2 <AxBx|e+e–> = 0 <AyBx|e+e–> = i/√2 <AyBy|e+e–> = 0 This means the probability of the two polarizations being equal (xx or yy) is zero, and the probability of the polarizations being orthogonal (xy or yx) is 100%.
+
+## Chapter
+
+Rotations Of Any Spin For your convenience, all rotation matrices derived here are presented at the end of this chapter.
+
+There are three key principles when summing angular momenta from several sources. Firstly, M = Σ mn. M, the z-component of angular momentum of a system, is simply the sum of the z-components of angular momenta of all the parts of that system. Secondly, any entity’s total angular momentum J is unchanged by rotation. Thirdly, the final state with maximum total spin is the linear sum of the original states with equal coefficients, equal in both magnitude and phase angle. No other new principles of physics are introduced in this chapter. What follows is an algebraic tour de force on the summation and rotation of objects with extreme spin values.
+
+Recall that a particle or system of particles can be characterized by jħ, its total angular momentum, and mħ, its component of angular momentum along any selected axis. Both j and m are quantized; they must be integer multiples of 1/2, and m has (2j+1) possible values, ranging from –j to +j in integer steps. Absent external forces, j and m are conserved. Physicists generally select the z-axis, and only rarely mention the ubiquitous factor ħ.
+
+Each elementary particle has an intrinsic total spin j that never changes under any circumstances whatsoever. All elementary fermions have total spin 1/2. Photons, gluons, and the Z0 and W± bosons have spin 1. The Higgs boson has spin 0.
+
+The spin of a system of several particles is the vector sum of the intrinsic spins of each particle plus any orbital angular momenta they might have. Orbital angular momenta are always integer multiples of ħ (no half-integers here). While a system’s total angular momentum J can be difficult to calculate, its total z-axis component M is simply the arithmetic sum of the m values of all its particles and of all their orbital motions.
+
+We denote an angular momentum state by |j,m>. The more common states are: total spin 0: |0,0>; total spin 1/2: |1/2,+1/2>; |1/2,–1/2>; total spin 1: |1,+1>; |1,0>; |1,–1>. Our objective here is to determine the projection of state |j,m> onto all possible states |j*,m*> in a coordinate system whose axes are rotated by operator R relative to our original coordinate axes. Rotating coordinate axes cannot change j, because angular momentum is conserved. But rotation does change the coordinate axes and the components of j along the new axes, which mixes m-states. The projection amplitudes we seek are the components of the rotation matrix: <j,m*|R|j,m>.
+
+As discussed in Chapter 17, all possible rotations can be accomplished with a specific sequence of rotations by some set of three Euler angles. The rotation sequence, from coordinate system S to coordinate system T, is defined as: 1. Rotate about the z-axis by angle β. 2. Rotate about the new x-axis by angle α. 3. Rotate about the new z-axis by angle γ. (In various chapters, Feynman switches between x and y as the second Euler rotation axis. Either choice is valid, but for consistency, I always use the x-axis in step 2.)
+
+Therefore, we can represent any rotation matrix R by: R = Rz(γ) Rx(α) Rz(β). Rz(β) is particularly simple: Rz(β) |j,m> = exp{imβ} |j,m> and <j,m*|Rz(β)|j,m> = exp{imβ} δm,m*. Since Rz is a diagonal matrix, we can simplify the equation for the components of R. Rkn = Σlj Rz,kl(γ) Rx,lj(α) Rz,jn(β) = Σl Rz,kl(γ) Rx,ln(α) exp{inβ} = exp{ikγ} Rx,kn(α) exp{inβ}. The only challenge then is calculating Rx(α).
+
+In Chapter 17, we calculated spin 1 rotation matrices based on the assumption that a spin 1 system can be represented as the sum of two spin 1/2 components, whose rotation matrices we calculated in Chapter 8. We will now employ the same assumption to address even larger total spin values.
+
+Feynman offers no proof of this assumption. However, since the spins of all elementary particles are 1/2 and 1, any entity with a larger spin must actually be a physical combination of particles with lesser spins. Rotating the larger entity is the same physical act as rotating all of its parts. Starting in V3p18-10, Feynman derives the rotation matrix for spin 3/2, and later derives it for any spin value.
+
+Rotation Matrix for Spin 3/2
+
+A specific example of a spin 3/2 entity is deuterium, an atom comprised of three spin 1/2 particles: an electron orbiting a nucleus containing one proton and one neutron. By selecting three distinct particles, we avoid the complications of identical particle effects.
+
+We represent each of the 8 possible spin states of deuterium by the m values of the three particles, with one being: |+-+>. For this derivation, it does not matter which particle has which spin; we are just dealing with three spins.
+
+We are interested in the 8 states of definite total angular momentum j=3/2. These can be grouped in 4 distinct sets depending on their number of + spins: |ψ3⟩: m = +3/2: |+++⟩ |ψ2⟩: m = +1/2: {|++-> + |+-+> + |-++>}/√3 |ψ1⟩: m = –1/2: {|--+> + |-+-> + |+-->}/√3 |ψ0⟩: m = –3/2: |--->
+
+In |ψ2⟩ and |ψ1⟩, the three combinations are equally weighted. By symmetry, each particle's spin has the same effect. The factor of 1/√3 normalizes |ψ2⟩ and |ψ1⟩.
+
+It is very important to note that the three combinations are all added; none are subtracted. This is because the total spin is 3/2 only when each combination has the same sign. Let's understand why by considering a different combination: |Q⟩ = {|++-> – |+-+> + |-++>}/√3
+
+Now focus on the first two terms by defining state |V⟩.
+
+|V⟩ = |++-> – |+-+>
+
+The spin of the first particle is the same in both terms, but the spins of the second and third particles reverse. Those two spins combine as: |+–> – |–+>
+
+This is a singlet state of spin 0, just as we saw in positronium and also in the hyperfine splitting of hydrogen. This means |V⟩ is a combination of spin 0 and spin 1/2, which makes its total spin j=1/2. This makes |Q⟩ a combination of j=1/2 and j=3/2, which is not a pure j=3/2 state. Since rotation cannot change j, a state like |Q⟩ is not a possible outcome of rotating a spin 3/2 particle. The only possible outcomes have all combining terms with equal coefficients.
+
+This is a general principle that applies to summing any spins: the final state with maximum total spin is the combination of the original spins with equal coefficients.
+
+Next, let's confirm that the four |ψ⟩ states have the indicated m values. If each is rotated by angle β about the z-axis, the state is multiplied by exp{+iβ/2} for each particle — electron, proton, or neutron — with spin up (+1/2) and by exp{–iβ/2} for each particle with spin down (–1/2). The total impact of this rotation is: Rz(β) |ψ3⟩ = exp{iβ(+1+1+1)/2} |ψ3⟩ = exp{iβ(+3/2)} |ψ3⟩ m of |ψ3⟩ = +3/2
+
+Rz(β) |ψ2⟩ = exp{iβ(+1+1–1)/2} |ψ2⟩ = exp{iβ(+1/2)} |ψ2⟩ m of |ψ2⟩ = +1/2
+
+Rz(β) |ψ1⟩ = exp{iβ(+1–1–1)/2} |ψ1⟩ = exp{iβ(–1/2)} |ψ1⟩ m of |ψ1⟩ = –1/2
+
+Rz(β) |ψ0⟩ = exp{iβ(–1–1–1)/2} |ψ0⟩ = exp{iβ(–3/2)} |ψ0⟩ m of |ψ0⟩ = –3/2
+
+Recall from Chapter 17 these amplitudes for Euler angle rotations of spin 1/2 particles: a = ⟨+T|+S⟩ = cos(α/2) exp{+i(β+γ)/2} b = ⟨–T|+S⟩ = i sin(α/2) exp{+i(β–γ)/2} c = ⟨+T|–S⟩ = i sin(α/2) exp{–i(β–γ)/2} d = ⟨–T|–S⟩ = cos(α/2) exp{–i(β+γ)/2}
+
+We next calculate four key components of rotation matrix R by assuming each of the three particles is rotated independently.
+
+⟨ψ3|R|ψ3⟩ = ⟨+++|R|+++⟩ = a•a•a = a³
+
+⟨ψ3|R|ψ2⟩ = ⟨+++| R{|++-> + |+-+> + |-++>}/√3 = {aac + aca + caa}/√3 = a²c√3
+
+⟨ψ2|R|ψ3⟩ = {⟨++-| + ⟨+-+| + ⟨-++|} |R|+++⟩/√3 = {aab + aba + baa}/√3 = a²b√3
+
+⟨ψ2|R|ψ2⟩ = {⟨++-| + ⟨+-+| + ⟨-++|} R|++->/3 + {⟨++-| + ⟨+-+| + ⟨-++|} R|+-+>/3 + {⟨++-| + ⟨+-+| + ⟨-++|} R|-++>/3 = {aad + abc + bac}/3 + {acb + ada + bca}/3 + {cab + cba + daa}/3 = a²d + 2abc
+
+There are 12 more components to go. But I have a simple way to obtain these using symmetry.
+
+Note that swapping + and – spins (denoted: + <=> –) on the right (the Dirac bra) exchanges: |ψ3⟩ <=> |ψ0⟩ |ψ2⟩ <=> |ψ1⟩ a <=> c b <=> d
+
+This gives us four more components.
+
+⟨ψ3|R|ψ3⟩ = a³ <=> ⟨ψ0|R|ψ0⟩ = c³ ⟨ψ3|R|ψ2⟩ = a²c√3 <=> ⟨ψ0|R|ψ1⟩ = c²a√3 ⟨ψ2|R|ψ3⟩ = a²b√3 <=> ⟨ψ1|R|ψ0⟩ = c²d√3 ⟨ψ2|R|ψ2⟩ = a²d + 2abc <=> ⟨ψ1|R|ψ1⟩ = c²b + 2cda
+
+Now, note that swapping + and – spins on the left (the Dirac ket) exchanges: ⟨ψ3| <=> ⟨ψ0| ⟨ψ2| <=> ⟨ψ1| a <=> b c <=> d
+
+This gives us the last eight components.
+
+⟨ψ2|R|ψ3⟩ = a²b√3 <=> ⟨ψ1|R|ψ3⟩ = b²a√3 ⟨ψ2|R|ψ2⟩ = a²d + 2abc <=> ⟨ψ1|R|ψ2⟩ = b²c + 2bad ⟨ψ1|R|ψ2⟩ = c²b + 2cda <=> ⟨ψ0|R|ψ1⟩ = d²a + 2dcb ⟨ψ1|R|ψ1⟩ = c²d√3 <=> ⟨ψ0|R|ψ1⟩ = d²c√3 ⟨ψ3|R|ψ3⟩ = a³ <=> ⟨ψ0|R|ψ3⟩ = b³ ⟨ψ3|R|ψ2⟩ = a²c√3 <=> ⟨ψ0|R|ψ2⟩ = b²d√3 ⟨ψ2|R|ψ3⟩ = c²b + 2cda <=> ⟨ψ1|R|ψ3⟩ = d²a + 2dcb ⟨ψ3|R|ψ0⟩ = c²d√3 <=> ⟨ψ0|R|ψ0⟩ = d²c√3 a = <ψ|R|ψ> = √3/2 c = <ψ|R|ψ> = √3 d = <ψ|R|ψ> = 3
+
+All these results are tabulated in matrix form at the end of this chapter.
+
+Composition of |J,M> Sums
+
+For clarity, we will now use J and M for the quantum numbers of a combined system, and j and m for the quantum numbers of its constituent particles.
+
+Summing angular momenta from several sources entails a great deal of algebra and combinatorics, and the three key principles given at the start of this chapter. These are:
+
+Firstly, M = Σ m. M, the z-component of angular momentum of a system, is simply the sum of the z-components of angular momenta of all the parts of that system.
+
+Secondly, any entity’s total angular momentum J is unchanged by rotation.
+
+Thirdly, the final state with maximum total spin is the linear sum of the original states with equal coefficients, equal in both magnitude and phase angle.
+
+We found that the final state’s total spin is reduced when the spin combinations are summed with opposite polarities. In particular, one possible sum of two spins with j=1/2 is: |+-> – |-+>
+
+Clearly this sum has m=0, because each term has two opposite spins. Less clear, but no less true, is the fact that this is a singlet state with j=0, due to the minus sign between the two terms. If we add the two terms instead of subtracting them, m would still equal 0 but j would now equal 1. Adding the two terms results in the m=0 part of a spin 1 triplet.
+
+The same idea pertains to more complex situations. If we combine five spin 1/2 particles, the possible |J, M> outcomes are: J = 5/2; M = +5/2, +3/2, +1/2, –1/2, –3/2, –5/2 J = 3/2; M = +3/2, +1/2, –1/2, –3/2 J = 1/2; M = +1/2, –1/2
+
+We see that M=+1/2 occurs for three different J values. For M=+1/2 and J=5/2, all terms with all different combinations of three spin up and two spin down are combined with the same polarity. When one term has the opposite polarity, a pair of particles form a spin 0 singlet, leaving the other three particles summing with the same polarity to form a J=3/2 state. In other combinations of mixed polarities, two pairs of particles form two spin-zero singlet states, leaving the last particle to supply all of the angular momentum, resulting in a J=1/2 state.
+
+We can write the following general equation describing how n states with |j, m> combine to form |J, M> states: |J, M> = Σ <J, M | j, m> |j, m> with the constraint that M = Σ m.
+
+The numbers <J, M | j, m> are called Clebsch-Gordon coefficients. Tables of these coefficients are available online.
+
+Rotation of Any Spin
+
+In V3p18-19, Feynman derives the matrix for a rotation about the y-axis by angle θ for any spin value j. That rotation corresponds to an Euler rotation with angles: α=θ, β=+π/2, and γ=–π/2. For spin 1/2, the rotation tables yield: a = <+T|+S> = +cos(α/2)
+
+b = <–T|+S> = –sin(α/2)
+
+c = <+T|–S> = +sin(α/2)
+
+d = <–T|–S> = +cos(α/2)
+
+In V3p18-12, Feynman quotes this result: <j, m*| R(θ) | j, m> = [(j+m)! (j–m)! (j+m*)! (j–m*)!]1/2 × Σ {(–1)k a(2j+m*–m–2k) c(m–m*+2k) / D} where D = [(m–m*+k)! (j+m*–k)! (j–m–k)! k!]
+
+The above sum extends over all values of k for which all factorials have arguments ≥0. Note that 0!=1, by definition.
+
+This is the ugliest equation I have ever seen, and that is saying a lot.
+
+I provide here a few tables for the simpler cases.
+
+• For two non-identical spin 1/2 particles: J=1, M=+1: |+1/2,+1/2> J=1, M = 0: {|+1/2,–1/2> + |–1/2,+1/2>}/√2 J=1, M=–1: |–1/2,–1/2> J=0, M = 0: {|+1/2,–1/2> – |–1/2,+1/2>}/√2
+
+• For a spin 1/2 and a spin 1 particle: J=3/2, M=+3/2: |+1/2,+1> J=3/2, M=+1/2: |+1/2,0>√2/3 + |–1/2,+1>/√3 J=3/2, M=–1/2: |–1/2,0>√2/3 + |+1/2,–1>/√3 J=3/2, M=–3/2: |–1/2,–1> J=1/2, M=+1/2: |+1/2,0>√3 – |–1/2,+1>/√2/3 J=1/2, M=–1/2: |+1/2,–1>√2/3 – |–1/2,0>/√3
+
+• For two non-identical spin 1 particles: J=2, M=+2: |+1,+1> J=2, M=+1: {|+1,0> + |0,+1>}/√2 J=2, M = 0: {|+1,–1> + |–1,+1> + 2|0,0>}/√6 J=2, M=–1: {|0,–1> + |–1,0>}/√2 J=2, M=–2: |–1,–1> J=1, M=+1: {|+1,0> – |0,+1>}/√2 J=1, M = 0: {|+1,–1> – |–1,+1>}/√2 J=1, M=–1: {|0,–1> – |–1,0>}/√2 J=0, M = 0: {|+1,–1> + |–1,+1> – |0,0>}/√3
+
+Spin 3/2 Rotation Matrix
+
+Below is the complete rotation matrix for spin 3/2 particles for any set of Euler angles: Here we use these amplitudes for Euler angle rotations of spin 1/2 particles: a = <+T|+S> = cos(α/2) exp{+i(β+γ)/2} b = <–T|+S> = i sin(α/2) exp{+i(β–γ)/2} c = <+T|–S> = i sin(α/2) exp{–i(β–γ)/2} d = <–T|–S> = cos(α/2) exp{–i(β+γ)/2}
+
+## Chapter 28 Review: Key Ideas
+
+Summing angular momenta from several sources entails a great deal of algebra and combinatorics, and three key principles that are:
+
+Firstly, M = Σ m. M, the z-component of angular momentum of a system, is simply the sum of the z-components of angular momenta of all the parts of that system.
+
+Secondly, any entity’s total angular momentum J is unchanged by rotation.
+
+Thirdly, the final state with maximum total spin is the linear sum of the original states with equal coefficients, equal in both magnitude and phase angle.
+
+## Chapter
+
+Electron Wave Functions in Hydrogen In V3p19-1, Feynman begins this lecture by saying: “The most dramatic success in the history of the quantum mechanics was the understanding of the details of the spectra of some simple atoms and the understanding of the periodicities which are found in the [Periodic Table] of chemical elements.” This chapter derives the atomic structure of hydrogen, including all the excited states of its electron. The next chapter qualitatively explains the structure of the Periodic Table.
+
+We will make some simplifying assumptions. We will do our analysis in the proton’s center of mass frame — that is, we shall assume the proton is stationary. Also, we will use non-relativistic equations and assume that all particle spins remain fixed.
+
+These are excellent approximations, in this case, that deviate only modestly from a completely precise, but much more complex, analysis.
+
+Angular momentum conservation requires the sum of (spin angular momentum) plus (orbital angular momentum) to remain constant. Since we assume all particle spins are constant, this means the electron’s orbital angular momentum must also be constant.
+
+Schrödinger Equation for Hydrogen With these approximations, let wave function ψ(x,y,z,t) be the amplitude to find the electron of a hydrogen atom at position (x,y,z) at time t. The evolution of ψ through space and time is given by Schrodinger’s equation (see Chapter 22): iħ dψ/dt = –ħ²/2µ ∇²ψ + V ψ Here ∇² = ∂²/∂x² + ∂²/∂y² + ∂²/∂z², and V is the electrostatic potential due to the proton. We will use m to denote the magnetic quantum number (z-component of orbital angular momentum), and µ to denote the electron mass.
+
+The zero-point of any form of potential energy is arbitrary, because only potential differences have physical consequences. We make the standard choice: V=0 for an electron that is infinitely far from the proton. We also set the center of our coordinate system at the stationary proton. The potential is then: V(r) = – e²/r where r is the electron’s radial coordinate, and e²=q²/4πε₀.
+
+Our equation is now: iħ dψ/dt = –ħ²/2µ ∇²ψ – (e²/r) ψ We seek stationary solutions of this equation, which means solutions of the form: ψ(x,y,z,t) = ψ(x,y,z) exp{–iEt/ħ} Plugging that into our equation results in: E ψ = –ħ²/2µ ∇²ψ – (e²/r) ψ Since V is a function of radius, polar coordinates (r,θ,φ) will be more convenient here than rectilinear coordinates (x,y,z). These coordinate systems are related by: x = r sinθ cosφ y = r sinθ sinφ z = r cosθ Translating ∇² into polar coordinates results in a rather messy equation. (However, in rectilinear coordinates, there are three interconnected equations that are much harder to solve.)
+
+Case of Spherical Symmetry Let’s begin with the simplest case: a spherically symmetric electron wave function, which is called an s-orbit. In this case, ψ is a function of radius r, but ψ does not vary with either the polar or azimuthal angles. This means wave function ψ will be a state of zero orbital angular momentum, since as we are well aware by now, states of non-zero angular momentum do change under rotation.
+
+Spherical symmetry simplifies ∇². For any spherically symmetric function f: ∇²f = ∂²f/∂x² + ∂²f/∂y² + ∂²f/∂z² ∇²f = ∂²(rf)/∂r² / r Our equation becomes: E ψ = –ħ²/2µ {∂²(rψ)/∂r² / r} – (e²/r) ψ ∂²(rψ)/∂r² / r = – (2µ/ħ²) (E + e²/r) ψ In V3p19-3, Feynman makes two substitutions to reduce clutter. These substitutions amount to analyzing the physics in natural units — measuring quantities in units that are characteristic of the natural phenomenon, rather than anthropic units, such as meters and seconds. The substitutions are: ρ = r / r_B, which means: r = r_B ρ ε = E / R_y, which means: E = R_y ε where: r_B = ħ²/µe² = Bohr radius = 0.529 angstroms R_y = µe⁴/2ħ² = 1 Rydberg = 13.6 eV Note that: r_B R_y = [ħ²/µe²] [µe⁴/2ħ²] = e²/2 In natural units, our equation is: ∂²(ρψ)/∂ρ² / (ρ r_B²) = –(2µ/ħ²){R_y ε + e²/ρ r_B} ψ ∂²(ρψ)/∂ρ² / ρ = – r_B² (2µ/ħ²){R_y ε + e²/ρ} ψ = – (ħ²/µe²)(2µ/ħ²) {r_B R_y ε + e²/ρ} ψ = – (2/e²) { [e²/2] ε + e²/ρ} ψ ∂²(ρψ)/∂ρ² / ρ = – (ε + 2/ρ) ψ ∂²(ρψ)/∂ρ² = – (ε + 2/ρ) ρψ How do we solve this differential equation for ψ?
+
+Unfortunately, there is no general procedure for solving differential equations. This is because there is no general procedure for solving an arbitrary integral. But, over the years, people have developed a lot of tricks. The more tricks you learn and the more experience you gain, the more successful you become at this challenge. This is one reason to learn from the best.
+
+Recall from Chapter 22 that, at large distances r from the proton, the electron’s wave function ψ decreases exponentially with r. This is because the electron is bound and V>E at large r. We therefore factor out the exponential by making this substitution: ρψ = g(ρ) exp{–βρ} Let’s calculate the second partial derivative of the right hand side of the above equation.
+
+∂( g(ρ) exp{–βρ} )/∂ρ = exp{–βρ} ∂g/∂ρ – β g exp{–βρ} ∂²( g(ρ) exp{–βρ} )/∂ρ² = – β exp{–βρ} ∂g/∂ρ + exp{–βρ} ∂²g/∂ρ² – β ∂g/∂ρ exp{–βρ} + β²g exp{–βρ} = [–2β ∂g/∂ρ + ∂²g/∂ρ² + β²g] exp{–βρ}
+
+我们的微分方程变为： ∂²(g exp{–βρ})/∂ρ² = – (ε + 2/ρ) g exp{–βρ} [–2β ∂g/∂ρ + ∂²g/∂ρ² + β²g] = – (ε + 2/ρ) g ∂²g/∂ρ² –2β ∂g/∂ρ + (β² + ε + 2/ρ) g = 0
+
+信不信由你，我们确实在取得进展。
+
+现在，由于β是我们代换中的一个任意参数，我们可以将其设置为任意我们希望的值。让我们选择 β² = –ε，从而将方程简化为： ∂²g/∂ρ² –2β ∂g/∂ρ + 2g/ρ = 0
+
+如果不是第三项分母中的ρ，这将是一个线性常系数微分方程，我们在《费曼简化版1B》的第12至14章中已经学会了如何求解。这里我们有一个更复杂的微分方程，但可以用幂级数求解。
+
+设： g(ρ) = Σₖ aₖ ρᵏ 其中 aₖ 是常数，求和范围可能从 k=0 到 k=+∞。上述求和称为泰勒级数展开。几乎所有物理上合理的函数都可以用泰勒级数表示，这使得它成为每位理论物理学家工具箱中的标准技术。当系数 aₖ 在 k 很大时趋近于零时，此技术效果良好。
+
+将泰勒级数代入方程得到： 0 = Σₖ aₖ {k(k–1)ρᵏ⁻² –2βkρᵏ⁻¹ +2ρᵏ⁻¹}
+
+注意，当 k=0 时，我们得到 0=2a₀/ρ，这意味着求解此微分方程的泰勒级数必须有 a₀=0，我们可以从 k=1 开始求和。
+
+我们上面有三个独立的求和，允许我们重新定义每一项的求和索引以获得以下结果： 0 = Σₙ {(n+1)ₙₐₙ₊₁ –2βₙₐₙ +2ₐₙ} ρⁿ⁻¹
+
+这里求和范围是从 n=1 到 n=+∞。在第二项和第三项中，我们设 n=k。在第一项中我们设 n=k–1，并注意到 k=1 (n=0) 对求和没有贡献。这使得所有三个求和都可以从 n=1 开始。
+
+上述方程对于所有 ρ 值都成立。这只能在 ρ 的每个幂次的系数都为零时才成立。这是多项式的一个重要规则，非常值得记住。该规则的证明在本章末尾给出。这意味着： 0 = {(n+1)ₙₐₙ₊₁ –2βₙₐₙ +2ₐₙ}，对所有 n 成立
+
+整理得： ₐₙ₊₁ =ₐₙ {2(βn–1)/n(n+1)}
+
+此方程对所有 n ≥ 1 都有效。对于任何选择的ₐ₁，我们可以递归计算ₐ₂，然后ₐ₃，等等。我们可以在变量 β 的所有ₐₖ中进行计算。回想一下，β 与电子的能量有关： β = √(–ε) = √(–E/R)
+
+E 必须为负才能形成束缚电子。因此，任何 E<0 的值都会产生实数值的β，一个有效的g(ρ)泰勒级数，以及如下形式的薛定谔方程的数学解： ψ(ρ) = g(ρ) exp{–βρ} / ρ
+
+在 V3p19-4 中，费曼说：“我们得到了一个解，但它在物理上代表什么？”
+
+考虑这个解在大 ρ 时的行为，我们知道任何真实的波函数都必须指数衰减。对于大 ρ，多项式中的主导项通常来自ρ的最高次幂。对于这些，我们可以将ₐₖ的方程近似为： ₐₙ₊₁ =ₐₙ {2β/(n+1)}
+
+每个更高的项都乘以 2β 并除以其项数。对于大的 n，这意味着： ₐₙ₊₁ =ₐ₁ (2β)ⁿ⁺¹ / 2β(n+1)!
+
+g(ρ) ~ Σ [(2β)ⁿ/n!] ρⁿ
+
+但这正是指数函数的幂级数展开。回想一下： exp{x} = Σₙ xⁿ / n!
+
+因此，对于大 ρ，我们找到的 g(ρ) 解指数增长为： g(ρ) ~ exp{2βρ}
+
+将其代入ψ的方程，对于大 ρ 得到： ρψ = g(ρ) exp{–βρ} ψ(ρ) ~ exp{+βρ} / ρ
+
+这是不可能的。没有物理上真实的波函数能在其自变量无限增长时指数增长。
+
+虽然最初可能令人沮丧，但这一推导证实了只有某些电子能量才能导致薛定谔方程的解。为了获得束缚解，必须截断泰勒级数以避免其在大 n 时的发散。这意味着每个解必须满足： ₐₙ₊₁ =ₐₙ {2(βn–1)/n(n+1)} = 0，对某个 n
+
+如果ₐₙ₊₁=0，则所有更大索引的ₐₖ也将为零，从而防止波函数在大半径处呈指数爆炸。
+
+因此，对于某个 n： βn = 1 √(–E/R) = 1/n E = – R/n²
+
+物理上真实的电子波函数对应于 n 的整数值，这被称为主量子数。每个 n 值对应于由上述方程给出的束缚能量 (E<0)。
+
+回想一下，这与我们在《费曼简化版3A》第3章中推导出的方程相同。
+
+在那里，我们假设电子轨道的周长必须是波长的整数倍（相当于假设电子的轨道角动量必须是 ħ 的整数倍）推导出此方程。
+
+在这里，我们基于薛定谔运动方程推导出了此方程。
+
+完整的球对称解为： Eₙ = – R/n² ψₙ(ρ) = gₙ(ρ) exp{–ρ/n} / ρ gₙ(ρ) = Σₖ aₖ ρᵏ，k=1 到 k=n 求和 ₐₖ₊₁ = –ₐₖ {2(1–k/n)/k(k+1)}
+
+让我们看看 n 取几个值的解。
+
+最小能级，基态，n=1，此时： E₁ = – R ψ(ρ) = a exp{–ρ}
+
+The wave function ψ(ρ) peaks at the atom’s center, at the proton, and decreases exponentially with radius. Recall that ρ is in units of the Bohr radius, so ψ(ρ) drops by a factor of e from the center to one Bohr radius.
+
+In V3p19-5, Feynman says something that might be misleading. He says the electron “is most likely to be found right at the proton.” While no other single point has a higher amplitude than the center, it is important to recognize that ψ is an amplitude density. The magnitude of the amplitude squared must be integrated over a non-zero volume to obtain a meaningful probability. The volume of a shell of radius ρ and thickness dρ equals 4πρ²dρ. Hence, for ψ, the probability of the electron being a distance ρ from the atom’s center is proportional to ρ²exp{–2ρ}. The probability of finding the electron near ρ=0 is zero. The electron’s most likely radius is where the derivative of its probability distribution is zero.
+
+0 = ∂(ρ² exp{–2ρ})/∂ρ 0 = 2ρ exp{–2ρ} – 2ρ² exp{–2ρ} 0 = 1 – ρ ρ = 1 Bohr radius
+
+We can also check the average potential energy ⟨V⟩ of this orbit. First, we must normalize ψ, by integrating ψ*ψ multiplied by the volume element 4πρ²dρ from ρ=0 to ρ=+∞. In integral tables, we find this definite integral: ∫ xⁿ exp{–ax} dx = n!/aⁿ⁺¹; for x from 0 to +∞
+
+1 = A ∫ ψ*ψ 4πρ² dρ 1 = 4πA ∫ exp{–2ρ} ρ² dρ 1 = 4πA [2/2³]
+
+A = 1/π
+
+Next, we integrate the normalized ψ*ψ times the volume element times the potential over all ρ: ⟨V⟩ = 4πA ∫ exp{–2ρ} ρ² (–e²/ρr) dρ ⟨V⟩ = –(4e²/r) ∫ exp{–2ρ} ρ dρ ⟨V⟩ = –(4e²/r) [1/4]
+
+⟨V⟩ = –e²/r = –27.22 eV = 2R_y
+
+As we discussed in Feynman Simplified 3A Chapter 3, the electron’s kinetic energy equals –R_y (>0), exactly –1/2 times the average potential energy. The electron’s total energy equals 2R_y – 1R_y = 1R_y (<0).
+
+The Virial theorem explains why a system at equilibrium in a 1/r potential must have this ratio of potential to kinetic energy.
+
+The next higher energy level has n=2. Here we have: E₂ = –R_y/4 = –3.4 eV a₂ = –a₁ {2(1–1/2)/2} = –a₁/2 ψ₂(ρ) = a₁ (1 – ρ/2) exp{–ρ/2}
+
+For n=3, we have: E₃ = –R_y/9 = –1.5 eV a₂ = –a₁ {2(1–1/3)/2} = –2a₁/3 a₃ = –a₂ {2(1–2/3)/6} = –a₂/9 = +2a₁/27 ψ₃(ρ) = a₁ (1 – 2ρ/3 + 2ρ²/27) exp{–ρ/3}
+
+These three s-orbits are illustrated in Figure 29-1, where the intensity of black is proportional to the electron’s probability density.
+
+Figure 29-1 Hydrogen s-Orbits Top to Bottom: n=1, 2, 3
+
+We see in Figure 29-1 that the probability density of the n=1 orbit drops continuously from the center outward. For n=2, the probability density passes through zero once (one white ring), while for n=3, it passes through zero twice.
+
+Orbits With Angular Momentum
+
+Only s-orbits, which are spherically symmetric, have zero orbital angular momentum. Let’s now examine orbits with non-zero orbital angular momentum.
+
+As before, j is the total orbital angular momentum quantum number, and its component along any selected axis is the magnetic quantum number m. The total orbital angular momentum equals jħ, and its component equals mħ.
+
+For principal quantum number n, the allowed values of j and m are: j = 0, 1, 2 … (n–1)
+
+m = –j, –(j–1) … 0 … +(j–1), +j
+
+The states of various total orbital angular momenta are historically denoted by a single letter, as follows: j=0: s j=1: p j=2: d j=3: f j=4: g j=5: h
+
+There are no known elements that normally have electrons in orbits with j>3, although excited electrons may briefly occupy higher j orbits.
+
+Now, we will solve the Schrödinger equation for wave functions that are not spherically symmetric. Recall this equation from earlier in this chapter.
+
+iħ dψ/dt = –ħ²/2µ Ď²ψ – (e²/r) ψ where Ď² = ∂²/∂x² + ∂²/∂y² + ∂²/∂z² in rectilinear coordinates.
+
+For the spherically symmetric case, in polar coordinates, we used: Ď²f = ∂²(rf)∂r²/r
+
+Now, for wave functions that vary with polar angle θ and azimuthal angle φ, we need the full polar coordinate form of Ď², which is: Ď²f = ∂²(rf)∂r²/r + {∂(sinθ ∂f/∂θ)∂θ + (∂²f/∂φ²)/sinθ}/(r² sinθ)
+
+Many courses in quantum mechanics tackle this formidable equation head-on, but Feynman has a better way. We will use what we have learned about angular momentum.
+
+Firstly, since the electrostatic potential is spherically symmetric (varying only as a function of r), it cannot exert a torque on the electron (the force is radial and has zero lever arm). This means total angular momentum is conserved about every axis. Since we are assuming that the electron and proton spins remain fixed, this means total orbital angular momentum is conserved about every axis — the electron’s j quantum number is constant in time and invariant under rotation.
+
+Now consider an electron that is somewhere along the +z-axis at a distance r>0 from the center. The key insight is: this electron’s magnetic quantum number m, its z-component of orbital angular momentum, must be zero. We can see why this is true by recalling the classical equation for angular momentum: L = r × p L_z = y p_x – x p_y
+
+On the z-axis, x y=0, the momentum has no lever arm on the z-axis, and therefore L=0.
+
+Define F(r) to be the amplitude for an electron to be on the z-axis, at distance r from the center, with total orbital angular momentum j, and m=0 along the z-axis.
+
+By knowing the amplitude in one direction, we can calculate the amplitude in any direction using rotation operators. Define the z*-axis to be the direction of the original z-axis after the operation R_y(θ)R_z(ø), as illustrated in Figure 29-2.
+
+Figure 29-2. z* = R_y(θ)R_z(ø) z As shown in the figure, R_y(θ)R_z(ø) begins with a rotation by angle ø about the z-axis, followed by a rotation by angle θ about the new y*-axis. We know that rotations do not change r and j, but they do mix m-states. Since r and j are invariant under rotation, so is F(r).
+
+The amplitude for an electron to be on the z-axis, at distance r from the center, in orbital angular momentum state |j,m> equals the product of {projection amplitude of |j,m> along z onto |j,0> along z*} multiplied by {F(r), amplitude to be at distance r along z*-axis with |j,0>}. This is written: ψ_{j,m}(r) = Y_{j,m}(θ,ø) F(r)
+
+Y_{j,m}(θ,ø) = <j,0| R_y(θ)R_z(ø) |j,m> The electron states given by ψ_{j,m}(r) should be considered basis states: each ψ_{j,m}(r) is a solution of the Schrödinger equation, and so is any linear combination with the same j.
+
+This particular combination of angular functions, called spherical harmonics, occurs frequently in the analysis of wave phenomena using polar coordinates. Since both atomic scale and cosmic scale entities have spherical geometries, the spherical harmonics Y_{j,m}(θ,ø) are used in both quantum mechanics and in classical physics.
+
+Another common representation of spherical harmonics uses the associated Legendre functions P_j^m(cosθ) : P_j^m(cosθ) exp{imø} = Y_{j,m}(θ,ø)
+
+It is helpful to know both representations. Both are often referenced and tabulated in many books and online.
+
+The spherical harmonics Y_{j,m}(θ,ø) are mutually orthogonal. It is sometimes useful to normalize them as well. In V3p19-7, Feynman says there are several normalization conventions. He recommends: Y_{j,m}(θ,ø) = <j,0| R_y(θ)R_z(ø) |j,m> √{(2j+1)/4π} Normalizing Y_{j,m}(θ,ø) isn’t important to us here, because we will ultimately normalize the entire wave function.
+
+The Y_{j,m} functions for j=0, 1, and 2 are tabulated here.
+
+In these tables, the first column provides the symbol used for each value of j. These symbols originated well before anyone understood the underlying physics. While somewhat archaic, they remain in frequent use.
+
+The second column, labeled P, is the parity of the electron’s orbital state, which equals (–1)^j.
+
+General Solution for Hydrogen Ignoring normalization, the form of the general solution that we have derived is: ψ = Y_{j,m}(θ,ø) F(r) exp{–iEt/ħ} We have solutions for Y_{j,m}(θ,ø). Now let’s find solutions for F(r).
+
+We return to the full polar coordinate version of the Schrödinger equation.
+
+iħ dψ/dt = –ħ^2/2µ ∇^2ψ – (e^2/r) ψ or –(2µ/ħ^2) {iħ dψ/dt + e^2/r} ψ = ∇^2ψ When we plug the general solution into this equation, the factor exp{–iEt/ħ} will be common to all terms; the only change it makes is replacing the time derivative term with Eψ. After cancelling the common exponential, we obtain: –(2µ/ħ^2)(E+e^2/r)Y_{j,m}(θ,ø)F(r) = ∇^2[Y_{j,m}(θ,ø)F(r)]
+
+–(2µ/ħ^2)(E+e^2/r) Y_{j,m} F = Y_{j,m} ∂^2(rF)∂r^2 /r + [F/(r^2 sinθ)] ∂(sinθ ∂Y_{j,m} /∂θ)/∂θ + [F/(r^2 sin^2θ)] (∂^2Y_{j,m} /∂ø^2)
+
+We next move all the r-dependent terms to the left side of the equation by multiplying everything by r^2/F and rearranging.
+
+–{(r^2/F) [∂^2(rF)∂r^2/r +(2µ/ħ^2)(E+e^2/r) F]} Y_{j,m} = [∂(sinθ ∂Y_{j,m} /∂θ)/∂θ + (∂^2Y_{j,m} /∂ø^2)/sinθ] /(sinθ)
+
+Let’s convert to natural units as we did in the spherically symmetric case.
+
+ρ = r / r_0 = r/(ħ^2/µe^2)
+
+ε = E / R = E/(µe^4/2ħ^2)
+
+This yields: –{(ρ^2/F) [∂^2(ρF)∂ρ^2/ρ +(ε+2/ρ) F]} Y_{j,m} = [∂(sinθ ∂Y_{j,m} /∂θ)/∂θ + (∂^2Y_{j,m} /∂ø^2)/sinθ] /(sinθ)
+
+In V3p19-10, Feynman makes two key points. Firstly, the right hand side (RHS) of this equation does not depend on the orbital radius ρ — its value is the same for all values of ρ — which means the left hand side (LHS) must also have the same value for all values of ρ. This seems remarkable because the LHS is full of ρ’s. Yet, after all the math is done, the value of the LHS cannot be a function of ρ. Please be sure to grasp this essential point — perhaps this will help: d(RHS)/dρ=0 means d(LHS)/dρ=0.
+
+The second key point is that the LHS term in { }’s has no angular dependence except F, which depends on the total orbital angular momentum j. The combination of these two key points means the { } term must be some quantity, call it K, that depends only on j, and not on m, ρ, θ, or ø.
+
+We can therefore rewrite the above equation as: –{(ρ^2/F) [∂^2(ρF)∂ρ^2/ρ +(ε+2/ρ) F]} Y_{j,m} = – K Y_{j,m} = [∂(sinθ ∂Y_{j,m} /∂θ)/∂θ + (∂^2Y_{j,m} /∂ø^2)/sinθ] /(sinθ)
+
+We now split this into two separate equations. First is the angular equation: – K Y_{j,m} = [∂(sinθ ∂Y_{j,m} /∂θ)/∂θ + (∂^2Y_{j,m} /∂ø^2)/sinθ] /(sinθ)
+
+cond is the radial equation: –{(ρ²/F) [∂²(ρF)∂ρ²/ρ +(ε+2/ρ) F]} Yⱼⱼₘ = – Kⱼ Yⱼⱼₘ We rearrange the latter yielding: ∂²(ρF)∂ρ²/ρ +(ε+2/ρ) F = F Kⱼ / ρ² Our plan is to use the angular equation to calculate K, and then use K and the radial equation to calculate F.
+
+So, what is K?
+
+Since K does not depend on the z-component of orbital angular momentum m, we are free to evaluate the first equation for any value of m. We choose m=j. Let’s calculate Y (still ignoring normalization).
+
+Yⱼⱼ(θ,ø) = <j,0| R_y(θ) R_z(ø) |j,j> As we have often discussed, R_z(ø) is particularly simple. In this case: R_z(ø) |j,j> = exp{ijø} |j,j> Next, the y-rotation. We recall (Chapter 17) that for a spin 1/2 entity: <m=+1/2| R_y(θ) | m=+1/2> = +cos(θ/2)
+
+<m=–1/2| R_y(θ) | m=+1/2> = –sin(θ/2)
+
+A |j,j> entity is equivalent to 2j spin 1/2 entities that are all spin up. Projecting a rotated |j,j> state onto <j,0| is equivalent to projecting j rotated spin +1/2 states onto <+1/2| and projecting j rotated spin +1/2 states onto <–1/2|. The amplitude for the spin 1/2 rotations is: [+cos(θ/2)]^j [–sin(θ/2)]^j = [–cos(θ/2) sin(θ/2)]^j = [–(sinθ)/2]^j Putting the two rotation factors together, we get (ignoring normalization): Yⱼⱼ(θ,ø) = [sinθ]^j exp{ijø} We now evaluate two pieces of the angular equation.
+
+First ∂(sinθ ∂Yⱼⱼ/∂θ)/∂θ : sinθ ∂Yⱼⱼ/∂θ = j[sinθ]^j cosθ exp{ijø} ∂ (sinθ ∂Yⱼⱼ/∂θ) /∂θ = {j²[sinθ]^(j–1) cos²θ – j[sinθ]^j sinθ} exp{ijø} Second ∂²Yⱼⱼ/∂ø² : ∂²Yⱼⱼ/∂ø² = [sinθ]^j (–j²) exp{ijø} Now put the pieces together: – Kⱼ Yⱼⱼ = {∂(sinθ ∂Yⱼⱼ/∂θ)∂θ + (∂²Yⱼⱼ/∂ø²)/sinθ} /(sinθ)
+
+– Kⱼ Yⱼⱼ = {j² [sinθ]^(j–2) cos²θ – j [sinθ]^j} exp{ijø} – j² [sinθ]^(j–2) exp{ijø} = j [sinθ]^(j–2) {j cos²θ – sin²θ –j } exp{ijø} = j [sinθ]^(j–2) {– j sin²θ – sin²θ} exp{ijø} = – j [sinθ]^j {j + 1} exp{ijø} = – j(j+1) Yⱼⱼ Kⱼ = j(j+1)
+
+After all that, K is quite simple. We now plug K into the radial equation: ∂²(ρF)∂ρ²/ρ +(ε+2/ρ) F = F j(j+1) / ρ² ∂²(ρF)∂ρ² = –{ε +2/ρ –j(j+1)/ρ²} ρF This is the same equation that we had in the spherically symmetric case, except now we have the additional j(j+1) term on the right.
+
+In V3p19-11, Feynman addresses the physical significance of this seemingly “mysterious” term.
+
+Consider the classical physics problem of an object of mass µ orbiting a central potential, such as a planet orbiting a star. The conservation of total energy U, potential plus kinetic, can be written: U = V(r) + µv²/2 = constant Now, we split the object’s velocity v into a radial component v_r and a tangential component rω (ω=dθ/dt), yielding: U = V(r) + µr²ω²/2 + µv_r²/2 Next add the requirement that total angular momentum L is conserved.
+
+L = µr²ω = constant L² / 2µr² = µ²r⁴ω² / 2µr² = µr²ω²/2 We plug this expression into the energy conservation equation.
+
+U = V(r) + L²/2µr² + µv_r²/2 U = V*(r) + µv_r²/2 with V*(r) = V(r) + L²/2µr² Since L is constant, V* is a function of r only. We can consider V* to be the effective potential for orbits with angular momentum. For a given r, a certain amount of energy is tied up in the form of angular motion, and is therefore unavailable for radial motion. This is mathematically similar to the potential V(r): for a given r, the V determines how much energy is available for motion.
+
+In quantum mechanics, we found that the angular momentum term is: j(j+1)/ρ² To convert this from natural units to conventional units, multiply by Rydberg constant R_y and Bohr radius a_B²: R_y a_B² j(j+1)/ρ² = (µe⁴/2ħ²)(ħ⁴/µ²e⁴) j(j+1)/r² = j(j+1) ħ²/2µr² We see that quantum mechanics has the same angular momentum term, with L² replaced by j(j+1)ħ².
+
+Let’s now solve the radial differential equation following the same procedure we used in the spherically symmetric case.
+
+∂²(ρF)∂ρ² = –{ε +2/ρ –j(j+1)/ρ²} ρF Replace ρF with g(ρ) exp{–βρ}. As before: ∂²(g(ρ) exp{–βρ})/∂ρ² = [–2β ∂g/∂ρ + ∂²g/∂ρ² + β²g] exp{–βρ} [–2β ∂g/∂ρ + ∂²g/∂ρ² + β²g] = –{ε +2/ρ –j(j+1)/ρ²} g ∂²g/∂ρ² –2β ∂g/∂ρ +{β²+ε+2/ρ–j(j+1)/ρ²}g = 0 Again we set the arbitrary parameter β=√(–ε), recalling that ε is negative for a bound electron. This reduces the equation somewhat.
+
+∂²g/∂ρ² –2β ∂g/∂ρ +{2/ρ–j(j+1)/ρ²}g = 0 Now let g(ρ) = Σ aₖ ρᵏ, with the summation being from k=0 to k=∞. The equation then becomes: Σ aₖ {k(k–1)ρᵏ⁻² –2βkρᵏ⁻¹ +2ρᵏ⁻¹ – j(j+1)ρᵏ⁻²} = 0 Σ aₖ {k(k–1) – j(j+1)} ρᵏ⁻² = – Σ aₖ {–2βk +2} ρᵏ⁻¹ As before, since the sums are independent, we may shift the summation indices independently in order to obtain the same power of ρ in each term. Replace the summation index k, with k+1 on the left hand side.
+
+Σ aₖ₊₁ {(k+1)k – j(j+1)} ρᵏ⁻¹ = Σ 2aₖ {βk–1} ρᵏ⁻¹ The summation on the left side begins with k=–1, and on the right side begins with k=0. Examine the k=–1 sum.
+
+a₀ {0 – j(j+1)} ρ⁻² = 0 For this to be true for all ρ, a₀ must equal 0. This means we can start both sums at k=0, and write: 0 = Σ [aₖ₊₁ {k(k+1) – j(j+1)} – 2aₖ {βk–1}] ρᵏ⁻¹ Now examine the k=0 terms.
+
+0 = [a₁ {0 – j(j+1)} – 2a₀ {–1}] ρ⁻¹ 0 = a₁ j(j+1)
+
+Since we are solving for states with j>0, this implies a₁ = 0.
+
+这意味着 $a_0=0$。
+
+对于 $\rho$ 的所有其他幂次，求和方程对所有 $\rho$ 成立，仅当方括号中的表达式对所有 $n$ 值都为零。这意味着： $0 = a_k \{k(k+1) – j(j+1)\} – 2a_{k+1} \{\beta k – 1\}$ $a_{k+1} \{k(k+1) – j(j+1)\} = 2a_k \{\beta k – 1\}$ $a_{k+1} = 2a_k \{\beta k – 1\} / \{k(k+1) – j(j+1)\}$
+
+该方程施加了两个约束。
+
+第一个约束与球对称情况相同：为了防止波函数在大半径处指数增长，$\beta$ 必须对某个 $k$ 值等于 $1/k$，我们将该值称为 $n$。因此，对某个整数 $n$，有 $\beta = 1/n$。
+
+第二个约束是新的。我们在上文发现，如果 $j>0$，则 $a_1$ 必须为 $0$。若非分母的存在，这会使所有其他的 $a$ 都为零。如果分母始终非零，每个 $a_{k+1}$ 都是 $a_k$ 的有限倍数，因此也会为零。这将完全无法为电子波函数提供解。然而，当 $k=j$ 时，分母恰好为零，使得该方程在 $k=j$ 时无意义。因此该方程对 $a_{j+1}$ 不施加要求：它可以取任何值。并且后续的 $a$ 也可以非零，由方程决定。
+
+因此，对 $k$ 的求和被限制在 $k=j+1$ 到 $k=n$ 的项。注意，只有当 $j<n$ 时，我们才有有效解。
+
+与之前一样，由于 $\beta$ 的唯一允许值是某个整数 $n$ 对应的 $1/n$，允许的电子轨道能量再次由下式给出： $1/n = \beta = \sqrt{-\varepsilon}$ $1/n = \sqrt{-E_n/R_y}$ $E_n = – R_y/n^2$
+
+电子波函数的所有部分将在下面的复习部分组合在一起。
+
+**多项式定理的证明** 我们在此证明上文针对泰勒级数引用的定理。我们用一个从 $n=0$ 到 $n=+\infty$ 求和的多项式表示函数 $f(x)$。如果： $0 = f(x) = \sum a_n x^n,\quad \text{对于所有 } x$ 唯一的解是对于所有 $n$，$a_n = 0$。
+
+对于 $x=0$，方程简化为 $0 = a_0$。这解决了一个系数，但还有无限多个 $a$ 需要处理。
+
+接下来取 $f(x)$ 的导数，并在 $x=0$ 处求值： $0 = df/dx = \sum n a_n x^{n-1}$ $0 = df(x=0)/dx = 1 \cdot a_1 \cdot 1 + \sum_{n>1} n a_n (0)^{n-1}$ $0 = a_1$ 在 $x=0$ 处对 $df/dx$ 求值，证明了 $a_1 = 0$。
+
+依次在 $x=0$ 处对更高阶导数求值，证明了对于所有 $n$，$a_n = 0$。
+
+QED
+
+**第29章复习：关键思想** - 对于氢原子中处于球对称 s 轨道、时间依赖项为 $\exp\{-iEt/\hbar\}$ 的定态电子，极坐标下的薛定谔方程为： $\frac{\partial^2(r\psi)}{\partial r^2} / r = - \frac{2\mu}{\hbar^2} \left(E + \frac{e^2}{r}\right) \psi$ 其中 $r$ 是电子的径向坐标，$e^2 = q^2 / 4\pi\varepsilon_0$。我们使用以下转换到自然单位： $\rho = r / r_B;\quad r_B = \hbar^2 / \mu e^2 = \text{玻尔半径}$ $\varepsilon = E / R_y;\quad R_y = \mu e^4 / 2\hbar^2 = 1 \text{ 里德堡}$ 我们还进行如下代换： $\rho\psi = g(\rho) \exp\{-\beta\rho\},\quad \text{其中 } \beta = \sqrt{-\varepsilon}$ $g(\rho) = \sum_k a_k \rho^k,\quad \text{泰勒级数展开}$ 我们的微分方程变为： $0 = \sum_k \{(k+1)k a_{k+1} - 2\beta k a_k + 2a_k\} \rho^{k-1}$ 为使方程对所有 $\rho$ 成立，花括号内的量必须对所有 $k$ 为零，从而得到离散的本征态： $E_n = – R_y/n^2$ $\psi_n(\rho) = g_n(\rho) \exp\{-\rho/n\} / \rho$ $g_n(\rho) = \sum_k a_k \rho^k,\quad \text{对 } k=1 \text{ 到 } k=n \text{ 求和}$ $a_{k+1} = –a_k \{2(1 - k/n) / k(k+1)\}$
+
+- 具有角动量的轨道不是球对称的，需要由球谐函数定义： $Y_{j,m}(\theta,\phi) = \langle j,0 | R_y(\theta) R_z(\phi) | j,m \rangle$ 我们可以将角向依赖性 $Y_{j,m}(\theta,\phi)$ 与径向依赖性 $F_{n,j}(r)$ 分离，后者是下式的解： $\frac{\partial^2(\rho F_j)}{\partial \rho^2} = –\left\{\varepsilon + \frac{2}{\rho} - \frac{j(j+1)}{\rho^2}\right\} \rho F_j$ 使用与上述相同的代换，我们发现： $a_{k+1} = 2a_k \{\beta k – 1\} / \{k(k+1) – j(j+1)\}$ 该方程要求：对某个整数 $n$，有 $\beta=1/n$；$k>j$；且 $j<n$。
+
+- 氢原子中量子数为 $n, j$ 和 $m$ 的电子波函数为： $\psi_{n,j,m}(\theta,\phi,\rho,t) = \alpha Y_{j,m}(\theta,\phi) F_{n,j}(\rho) \exp\{-iE_nt/\hbar\}$ $E_n = – R_y/n^2$ $\rho = r / r_B = r / (\hbar^2 / \mu e^2)$ $a_{k+1} = 2a_k \{k/n – 1\} / \{k(k+1) – j(j+1)\}$ $F_{n,j}(\rho) = \exp\{-\rho/n\} \sum_k a_k \rho^{k-1}$ 这里 $\alpha$ 是归一化因子，$\mu$ 是电子质量，对 $k$ 的求和从 $k=j+1$ 到 $k=n$。
+
+**第30章** **元素周期表** 本章定性地描述了元素周期表的结构。
+
+**氢原子波函数概述** 让我们回顾一下我们在上一章推导的、束缚在氢原子中的电子波函数的关键特征。
+
+自然界的限制严格规定了束缚电子的允许轨道，这由量子力学和薛定谔方程描述。我们推导出了一组离散的轨道基态，每个态由三个整数表征： $n$ 决定 $\langle 1/r \rangle$，即轨道的平均半径的倒数。主量子数 $n$ 可以取任何大于零的整数值。在已知元素中发现的 $n$ 的最大值是 7。
+
+$j$ 指定轨道的总角动量：$L=j\hbar$。轨道角动量量子数 $j$ 可以取从 $0$ 到 $n–1$ 的任何整数值。
+
+$m$ 指定轨道角动量沿任意选定轴（通常是 $z$ 轴）的分量。磁量子数 $m$ 可以取从 $–j$ 到 $+j$ 的任何整数值。
+
+这些轨道基态的波函数 $\psi_{n,j,m}(\theta,\phi,r,t)$ 可以分离为这些因子： $\psi = \alpha Y_{j,m}(\theta,\phi) F_{n,j}(r) \exp\{-iE_nt/\hbar\}$ $\alpha$ 提供归一化 $Y_{j,m}(\theta,\phi)$ 是角向依赖性 $F_{n,j}(r)$ 是径向依赖性 (r) 是径向依赖关系。
+
+exp{–iEt/ħ} 是时间依赖关系。
+
+每个基态的能量由以下公式给出： E = – R/n² 其中 R = –13.6 eV 是里德伯常数。
+
+每个轨道基态，即由三个量子数 n、j 和 m 组成的唯一集合，最多可容纳两个电子，一个自旋向上，另一个自旋向下。
+
+氢原子 s 轨道最低能量状态是球对称的 1s 轨道，其中 n=1，j=0，m=0。在 V3p19-12 中，费曼指出这个基态是非简并的：只有一个具有该能量的轨道状态。
+
+每个更高的 n 值也恰好有一个球对称的 s 轨道；这些被命名为“ns”，如 2s、3s 等。每个 s 轨道的径向依赖关系由 F 定义，它等于一个指数函数乘以一个 n–1 次的 r 的多项式。例如，3s 轨道的多项式为： F₃,₀(r) = {1 –2ρ/3 +2ρ²/27} exp(–ρ/3)
+
+其中 ρ = r / rₐ，玻尔半径 rₐ = 0.0529 nm。
+
+n–1 次的多项式有 n–1 个根，这意味着 Fₙ,₀(r)=0 在 n–1 个 r 值处成立。1s 波函数从 r=0 开始单调递减，且永不为零。2s 波函数在一个 r 值处为零，3s 波函数在两个 r 值处为零，依此类推。在 Fₙ,₀(r)=0 的每个 r 值处，存在一个球形节面；ψ 在该半径的球面上每一点都为零。
+
+指数径向因子随 n 值增大而衰减变慢，这意味着波函数随 n 增大而扩展到更大的半径。
+
+前三个 s 轨道如图 30-1 最左列所示，其中较深的区域表示较高的概率密度。
+
+图 30-1 氢原子轨道 1s 至 3d
+
+氢原子 p 和 d 轨道对于每个 n>1，恰好有三个 j=1 且 m=+1、0 和 –1 的 p 轨道。对于每个 n>2，恰好有五个 j=2 且 m=+2、+1、0、–1 和 –2 的 d 轨道。能量最低的 p 和 d 轨道分别如图 30-1 中间列和最右列所示。
+
+具有非零角动量的轨道的径向依赖关系也等于一个指数函数乘以一个 r 的多项式： Fₙ,ⱼ(ρ) = exp{–ρ/n} Σₖ aₖ ρᵏ⁻¹ 但这里的区别在于，k 的求和范围是从 k=j+1 到 k=n，这排除了半径的 j 个低次幂。因此，r 的多项式仍然是 n–1 次，并且仍然有 n–1 个根，但其中 j 个根位于 r=0。
+
+这意味着所有 j>0 的轨道在 r=0 处 ψ=0。这从经典角度来看是合理的：通过中心的轨道力臂为零，因此角动量为零。从量子角度来说，如果一个轨道在 r=0 处具有非零振幅，其角动量 j 必须为零。
+
+随着 j 增大，Fₙ,ⱼ(ρ) 多项式中更多的低次幂项被排除，使其越来越偏向 r 的高次幂。结果是，随着总角动量增加，波函数从围绕原子核的逐渐增大的中心区域被排除。这改变了波函数的形状，但不会改变 <1/r>，即平均倒半径，它仍然仅由 n 决定。
+
+消除 r 的低次幂还有另一个影响。能量最低的 p 轨道，即 2p，没有球形节面。它仅在中心 ρ=0 处为零，因为它的多项式只有一项： F₂,₁(ρ) = a₂ ρ exp{–ρ/n} 类似地，对于任何 j 值，能量最低的具有总角动量 j 的轨道都没有球形节面。注意图 30-1 中，3d 态也没有球形节面。
+
+根据前一章，每个 p 轨道基态的角向依赖关系是： |j,m> = |1,+1>: +sinθ exp{+iφ} /√2 |j,m> = |1, 0 >: +cosθ |j,m> = |1,–1>: –sinθ exp{–iφ} /√2 m=0 的 p 轨道基态有一个节面：在 θ=π/2 的 z=0 平面上，ψ=0。m=±1 的 p 轨道基态在 z 轴上（θ=0 或 θ=π）为零。
+
+在 V3p19-13 中，费曼强调我们描述的是一个完整的基态集合，这些状态的任何线性组合也是氢原子中有效的电子波函数。
+
+例如，如上所述，2p m=0 基态沿 z 轴取向，其对极角的依赖关系是余弦函数。费曼询问了“沿 x 轴或 y 轴的状态是否存在。这些可能是 m=+1 和 m=–1 状态吗？不是。” 回忆一下，三个 m 状态是具有相同确定能量的定态，共享相同的时间依赖因子 exp{–iEt/ħ}，该因子也适用于这些状态的任何线性组合。费曼说以下 |j,m> 组合定义了沿每个轴取向的 p 轨道： z 轴：|1,0> x 轴：{|1,+1> + |1,–1>}/√2 y 轴：{|1,+1> – |1,–1>}/i√2 p 轨道的角度因子 Yⱼ,ₘ(θ,φ) 涉及正弦和余弦函数的一次幂。相比之下，d 轨道涉及这些函数的二次幂。每个 d 轨道基态的角向依赖关系是： |j,m> = |2,+2>: +sin²θ exp{+i2φ} √(3/8)
+
+|j,m> = |2,+1>: +sinθ cosθ exp{+iφ} √(3/2)
+
+|j,m> = |2, 0 >: +(3 cos²θ –1) / 2 |j,m> = |2,–1>: –sinθ cosθ exp{–iφ} √(3/2)
+
+|j,m> = |2,–2>: +sin²θ exp{–i2φ} √(3/8)
+
+The first angular momentum state is φ, with |l,m> = |1,0> = cosθ √(3/2).
+
+|j,m> = |2,–2> = sin²θ exp{–i2φ} √(3/8).
+
+In general, orbits with total angular momentum j involve sinusoids to the jth power.
+
+**Periodic Table of Elements**
+
+We will now apply our discoveries regarding single electron wave functions in hydrogen atoms to more complex elements with many electrons.
+
+Each electron orbital state with quantum numbers |n,j,m> may contain up to two electrons, one with spin up and the other spin down. Each group of |n,j> states has 2j+1 different m-states that may contain up to 4j+2 electrons. The maximum number of electrons with principal quantum number n, the capacity of the n-shell, is:
+
+Max in n = Σ (4j+2), for j=0…(n–1)
+
+Max in n = 4(Σ j) + (Σ 2), for j=0…(n–1)
+
+Max in n = 4 * n(n–1)/2 + 2n Max in n = 2n² – 2n + 2n = 2n²
+
+An atom with Z protons in its nucleus is defined to have atomic number Z and is called element #Z. Generally, nuclei also contain some neutrons. All atoms of a given element must have the same number of protons, but they may have different numbers of neutrons, in which case they are said to be different isotopes of that element. Lead, for example, always has 82 protons, but lead has 38 known isotopes that contain from 96 to 133 neutrons.
+
+If an atom with Z protons is electrically neutral, it must have Z electrons. Each electron is attracted by the nuclear charge +Z, but is also repelled by the negative charges of the Z–1 other electrons.
+
+To calculate the electron wave functions of an atom with Z protons and Z electrons, we could use a trial solution of the form: Ψ = ψ(r₁, r₂, … r_Z) exp{–iEt/ħ} where r₁, r₂, … r_Z are the position vectors of electrons #1 through #Z. The Schrödinger equation for spherically symmetric states is: Eψ = –(ħ²/2µ) { Σ_j ∂²(rψ)/∂r²/r_j } – { Σ_j Ze²/r_j } ψ + { Σ_{j>k} e²/|r_j – r_k| } ψ
+
+Here, the second line contains the sum of Z second order partial derivatives, one with respect to the radial coordinate of each electron. The third line contains the sum of the negative potential energy of each electron in the Coulomb field of the nucleus. The fourth line contains the sum of the positive potential energy of each pair of electrons due to their mutual Coulomb repulsion.
+
+All this is the simplest case, without spin interactions and without angular momentum. Needless to say, no one has ever solved the complete multi-electron problem analytically.
+
+It is possible, however, to gain some qualitative insights into how real electron wave functions vary with atomic number Z.
+
+We will simplify the problem with several approximations. We assume each electron occupies the lowest available energy state. We will treat electrons as independent particles, subject to a few constraints. In accordance with the exclusion principle, at most two electrons can occupy each unique orbital state, each unique set of n, j, and m quantum numbers. We begin with one electron in the Coulomb potential of a one-proton nucleus. We next add a second proton and a second electron. We assume the second electron experiences the potential of two protons shielded by a spherically symmetric charge density from the first electron. We continue in this way, adding protons to the nucleus and adding electrons to hydrogen-like |n,j,m> states, until we reach Z electrons orbiting a nucleus of Z protons.
+
+As we have seen, the radial distributions of electron wave functions grow more complex as n increases. As a result, shielding by "inner" electrons changes the effective Coulomb potential seen by "outer" electrons, making their effective potential more complex than simply 1/r.
+
+Let's see how far these simplifying approximations can take us.
+
+**Z=1: Hydrogen**
+
+This is the only case that is simple enough to solve analytically. We found that the ground state, 1s, has energy E = –13.60 eV, which in chemical units is 1312 kJoules/mole. An atom's ionization energy, W, is the energy required to remove one electron. For hydrogen, W = –E. An element with a low ionization energy easily loses electrons in chemical reactions, while one with a high ionization energy does not.
+
+**Z=2: Helium**
+
+Both electrons in helium occupy the 1s ground state (with opposite spins), and each partially shields the other from the nuclear charge. The ionization energy of helium is 24.59 eV. We might say this means each electron sees an effective potential of 1.8 protons (1.8 = 24.59/13.60). Helium has the greatest ionization energy of any element. Also, since its electrons completely fill the n=1 shell, a helium atom exerts no detectable attractive force on additional electrons. This combination means helium atoms never share electrons with other atoms and are therefore chemically inert.
+
+**Z=3: Lithium**
+
+With the first two electrons filling the 1s ground state, the third electron must enter an n=2 state. This raises an interesting question and some important physics: which angular momentum state within the n=2 shell has the lowest energy?
+
+In an atom with only one electron, that electron experiences the same –Ze²/r potential everywhere.
+
+here.
+
+This is why the energies of hydrogen states depend only on their average inverse radius, which is solely determined by the principal quantum number n.
+
+But in a multi-electron atom, electrons that are closer to the nucleus partially shield its attractive charge from electrons in more distant orbits. Due to this shielding, outer electrons experience a less negative potential and less binding energy. Electrons in s-states have a substantial amplitude to be at the atom’s center, and thereby have some exposure to the full nuclear charge. But, electrons with orbital angular momentum have zero amplitude to be at the atom’s center, as we discussed earlier. They therefore are more shielded by inner electrons and have less binding energy. The higher its orbital angular momentum becomes, the more an electron is shielded, and the less binding energy it has. Since binding energy is negative, electrons in high l-states have higher (less negative) energies. This effect in multi-electron atoms is illustrated in Figure 30-2, where the horizontal axis is the principal quantum number n, and the vertical axis is indicative of which states have higher energy, but is not a true linear scale.
+
+Figure 30-2 Multi-Electron Energy Levels The key point is that energy levels in multi-electron atoms depend on both n and l, in sharp contrast to hydrogen-like energy levels.
+
+The third electron of lithium, therefore, enters the 2s-orbit, not the higher energy 2p-orbit. The ionization energy of lithium is 5.39 eV, much less than hydrogen because 2s states have a larger average radius than 1s states.
+
+Z=4: Beryllium The fourth electron completes the 2s state, giving beryllium a relatively high ionization energy: 9.32 eV.
+
+Z=5 to 7: Boron to Nitrogen Electrons in the same |n,l,m> state have the same orbital motion. This intensifies their mutual repulsion, reduces their binding energy, and increases their total energy. Therefore, electrons do not share the same |n,l,m> state if a different state of the same orbital energy is available. This is why the next three electrons after beryllium enter three different 2p orbits. The ionization energies are: boron 8.30 eV; carbon 11.26 eV; and nitrogen 14.53 eV. Note that ionization energy steadily increases from Z=5 to Z=7. The nuclear charge is increasing, while electron shielding changes slowly because the p-orbits are oriented in different directions.
+
+Z=8 to 10: Oxygen to Neon Now that all 2p-orbits contain one electron, the next three electrons must fill out those orbits. This is less energetically favorable, as evidenced by oxygen’s ionization energy of 13.62 eV, which is 0.91 eV less than nitrogen despite oxygen having a greater nuclear charge. The ionization energy of fluorine is 17.42 eV, and of neon is 21.56 eV. Neon completes the n=2 shell, making it a noble gas and chemically inert, just like helium.
+
+Z=11 to 18: Sodium to Argon The 11th and 12th electrons fill the 3s state. The ionization energy for sodium is only 5.14 eV, and for magnesium is 7.65 eV. The 13th, 14th, and 15th electrons enter three different 3p-orbits. The ionization energies are: aluminum 5.99 eV; silicon 8.15 eV; and phosphorus 10.49 eV. The 16th, 17th, and 18th electrons fill the 3p-orbits. The ionization energies are: sulfur 10.36 eV; chlorine 12.97 eV; and argon 15.76 eV.
+
+Comparing the sequence of elements lithium-to-neon with sodium-to-argon, the pattern of electron orbits and ionization energies is quite similar. This explains the similarity of chemical properties of corresponding elements: lithium to sodium; carbon to silicon; fluorine to chlorine; and neon to argon. This is why these pairs of atoms are placed in the same columns of the Periodic Table.
+
+Z=19 and 20: Potassium and Calcium After 3p, we might well expect the next ten electrons to enter the five 3d-orbits (3d does not mean 3D; all orbits are three dimensional). But the 3d-orbits offer some surprises. Looking again at the energy level diagram, enlarged below in Figure 30-3.
+
+Figure 30-3 Enlargement of 3d, 4s Levels Figure 30-3 shows that the energy of 3d-orbits is very slightly higher than the energy of 4s-orbits, confirming the increase in energy of higher angular momentum orbits in multi-electron atoms.
+
+The 19th and 20th electrons, therefore, enter 4s rather than 3d-orbits, even though 4s has a higher value of <1/r> and is in that sense “outside” the 3d-orbit. Both types of orbits are distributed over a wide range of r, as illustrated by Figure 30-4, hence “inside” and “outside” describe only average radii. For Z=19 and Z=20, the ionization energies are: potassium 4.34 eV; and calcium 6.11 eV.
+
+Figure 30-4 4s & 3d Radial Distributions This figure compares the unnormalized F_{n,l}(ρ) for 4s and 3d hydrogen-like orbits, from ρ=0 to ρ=30 Bohr radii. The average inverse radii, <1/r>, for 3d and 4s-orbits correspond to 9 and 16 Bohr radii, respectively. However, 4s-orbits have substantial amplitudes near ρ=0, whereas 3d-orbits do not.
+
+Electrons in n=1 and n=2 shells more effectively shield 3d-orbits than 4s-orbits.
+
+Z=21 to 30: Scandium to Zinc The next three electrons enter 3d-orbits. The ionization energies are: scandium 6.56 eV; titanium 6.83 eV; and vanadium 6.75 eV. As the 21st, 22nd, and 23rd electrons enter 3d-orbits, they increasingly shield the “outer” 4s electrons from the nuclear charge.
+
+When the 24th electron arrives, it and the 20th electron both enter the last vacant 3d-orbits, leaving only one electron in the 4s-orbit. Filling a shell is very advantageous; even half-filling a subshell is advantageous.
+
+The 25th electron refills the 4s state; this is manganese. The next three electrons (corresponding to iron, cobalt, and nickel) complete three previously half-occupied 3d-orbits.
+
+The 29th electron (copper) repeats the pattern set by the 24th. It and the 25th electron both complete the 3d shell, leaving one electron in the 4s-orbit. The 30th electron refills the 4s state; this is zinc. The ionization energies are: chromium 6.77 eV; manganese 7.43 eV; iron 7.90 eV; cobalt 7.88 eV; nickel 7.64 eV; copper 7.73 eV; and zinc 9.39 eV.
+
+Since the 3d-orbits are closer to the nucleus than the 4s-orbits, as electrons fill 3d, the state of the outermost electrons changes very little. This explains why the chemical properties of these elements are so similar.
+
+We have now discussed the aspects of electron orbits of most interest to physicists, so we won’t continue through the remaining 70+ elements.
+
+Topology of Molecules Our analysis of the quantum states of electrons in atoms also explains the topology of molecules. Oxygen, for example, has four 2p electrons. This means one p-orbit is filled and two are half-filled. The half-filled orbits allow oxygen to form chemical bonds with two other atoms. The p-orbits of an isolated oxygen atom are mutually orthogonal (a 90º angle between each pair), but that can change when atoms form molecules. In water, two hydrogen atoms bond with one oxygen atom. The two hydrogen electrons are more strongly attracted to the oxygen nucleus than to the hydrogen nuclei. While not completely removed from the hydrogen atoms, these electrons enter oxygen’s half-filled p states, giving the oxygen atom a net negative charge and the hydrogen atoms a net positive charge. The hydrogen atoms push each other apart, due to their net positive charges. This effect stretches the bond angle to 104.5º from the intrinsic 90º angle between p-orbits.
+
+The same effect occurs in H₂S and H₂Se. Sulfur and selenium have electron orbital structures similar to oxygen; sulfur has four 3p electrons, and selenium has four 4p electrons. Since both sulfur and selenium are larger atoms than oxygen, the two hydrogen atoms with which they bond are farther apart, reducing their repulsive force. The hydrogen bond angle is 92.1º in hydrogen sulfide, and 91º in hydrogen selenide.
+
+Similar logic applies to nitrogen, which has three 2p electrons that half-fill each of the three 2p-orbits. In an isolated nitrogen atom, these orbits would be mutually orthogonal. In ammonia, NH₃, which we studied in Chapters 10 and 11, the hydrogen atoms again have a net positive charge and thereby repel one another. This stretches the hydrogen bond angle to 107.8º. Once again, larger atoms with the same electron structures have the same trend. Phosphorus has three 3p electrons and the hydrogen bond angle in PH₃ is 93.5º. Arsenic has three 4p electrons and the hydrogen bond angle in AsH₃ is 91.8º. Warning: don’t measure these bond angles at home. While both phosphine and arsine are commonly used in semiconductor fabrication, both are extremely toxic.
+
+## Chapter 30 Review: Key Ideas
+
+• Each state with a unique set of quantum numbers n, j, and m, may contain up to two electrons, one spin up and the other spin down. Each group of |n,j> states has 2j+1 different m-states that may contain up to 4j+2 electrons. The maximum number of electrons with principal quantum number n, the capacity of the n-shell, equals 2n².
+
+• All orbits with j>0 have zero amplitude at r=0. As j increases, the F_{n,j} (ρ) polynomial is increasingly skewed toward higher powers of r, excluding the wave function from a progressively larger central zone surrounding the nucleus. This changes the wave function’s shape. but does not change <1/r>, its average inverse radius, which is still determined only by n.
+
+• Orbital stationary states with the same n and j have the same energy. Any linear combination of such states is also a stationary state with the same energy. Feynman says the following combinations define p-orbits oriented along each axis: z-axis: |1,0> x-axis: {|1,+1> + |1,–1>}/√2 y-axis: {|1,+1> – |1,–1>}/i√2 • Higher angular momentum orbits in multi-electron atoms are shifted to higher energies, because they are more effectively shielded from the nuclear charge by “inner” electrons.
+
+• In general, an orbit with total angular momentum j has an angular dependence that involves sinusoids raised to the jth power.
+
+In V19-18, Feynman says: “T The Schrödinger equation has been one of the great triumphs of physics. By providing the key to the underlying machinery of atomic structure it has given an explanation for atomic spectra, for chemistry, and for the nature of matter. It also explains the structure of the Periodic Table of Elements.
+
+## Chapter
+
+Quantum & Algebraic Operators
+
+In V3p20-1, Feynman says: "There are many ways of approaching the subject of quantum mechanics, and most books use a different approach from the one we have taken. As you go on to read other books you might not see right away the connections of what you will find in them to what we have been doing. Although we will also be able to get a few useful results, the main purpose of this chapter is to tell you about some of the different ways of writing the same physics. Knowing them you should be able to understand better what other people are saying."
+
+In the early days of classical physics, people wrote out all the x-, y-, and z-components of every natural law. Some people still do. Most however, now write these equations using vectors, making the equations simpler and more compact. While it is true that to obtain practical answers one must eventually enter component values, vector notation unquestionably simplifies complex mathematics. Similarly, we have used operators and state vectors to make quantum mechanical equations less cluttered and make their meaning more evident.
+
+A state vector |ψ⟩ has mathematical similarities to geometric vectors, but is more abstract, being a label for the physical condition of a quantum entity. Using state vectors, the natural laws of the quantum realm can be written as algebraic equations. Feynman provides the example of representing any state |ψ⟩ as a linear combination of basis states: |ψ⟩ = Σ_j C_j |j⟩. Here, C_j = ⟨j|ψ⟩ is the amplitude for state |ψ⟩ to be in state |j⟩, and the set of states |j⟩, for j=1…N, forms a complete orthonormal basis.
+
+We have used operators to describe how states change when they are rotated, projected onto a coordinate system with inverted axes, or simply left undisturbed to evolve over time. For example: |φ⟩ = A|ψ⟩ represents operator A changing state |ψ⟩ into state |φ⟩. Feynman says the definition of operator A is given by the algebraic equation: ⟨k|φ⟩ = Σ_j ⟨k|A|j⟩ ⟨j|ψ⟩.
+
+Here ⟨j|ψ⟩ is the “amount” of state |ψ⟩ in basis state |j⟩ — the amplitude of |ψ⟩ being in |j⟩, or equivalently, the projection of |ψ⟩ onto |j⟩. Similarly, ⟨k|φ⟩ is the “amount” of basis state |k⟩ in state |φ⟩. The complex number ⟨k|A|j⟩ defines how much basis state |j⟩ is changed into basis state |k⟩ by operator A — the projection of A|j⟩ onto |k⟩. The set of amplitudes ⟨k|A|j⟩ are the components of a matrix that represents the operator A, according to: A = ⟨k|A|j⟩_{kj}.
+
+So, Feynman says, the operator equation |φ⟩=A|ψ⟩ is a more abstract, more “high-class”, way of writing the algebraic equation ⟨k|φ⟩ = Σ_j ⟨k|A|j⟩ ⟨j|ψ⟩. The algebraic equation is expressed in one particular basis set, any set we wish to select. The operator equation is universal, independent of basis states. The distinction is perhaps more philosophical than practical, since obtaining practical results requires defining basis states. The operator-algebraic distinction is similar to the distinction between: c = a × b and c = a_x b_y z_x z_y - a_x b_z y_x y_z + a_y b_z x_y x_z - a_y b_x z_y z_x + a_z b_x y_z y_x - a_z b_y x_z x_y.
+
+Once one knows the components of a vector, matrix, or operator in any basis, one can calculate its components in any other basis using a suitable transformation.
+
+In V3p20-2, Feynman says that the operator methodology opens new opportunities. An operator A might produce a new state A|ψ⟩ that may be unrelated to physical reality, but nonetheless useful analytically.
+
+Recall some of the operators we have used in this course: the rotation operator R(θ); the parity operator P; and the Pauli spin operators σ_x, σ_y, and σ_z.
+
+We also defined in Chapter 23 the angular momentum operator J_z in terms of a rotation about the z-axis by an infinitesimal angle ε: R(ε) = 1 + (i/ħ) ε J_z or R(ε) |ψ⟩ = |ψ⟩ + (i/ħ) ε J_z |ψ⟩. Both of the above equations express the same physics. Rearranging the prior equation yields: J_z |ψ⟩ = (ħ/iε) {R(ε) |ψ⟩ – |ψ⟩}. Thus J_z |ψ⟩ is a state that is proportional to the difference between two other states: R(ε)|ψ⟩ and |ψ⟩.
+
+Also in Chapter 23, we defined the x-momentum operator p_x in terms of the displacement operator D(δ), which displaces the x-axis by +δ, thereby subtracting δ from all x-coordinate values. D(δ) = 1 + (i/ħ) δ p_x or D(δ) |ψ⟩ = |ψ⟩ + (i/ħ) δ p_x |ψ⟩.
+
+Quantum operators act on quantum states. By contrast, algebraic operators act on functions. For example, the operator d/dx can act on function f(x) to produce df(x)/dx, the x derivative of f. We use both types of operators in quantum mechanics, often in the same equations. Sometimes the same notation is used for both. In truth, the distinction is somewhat pedantic.
+
+In this chapter only, we will for clarity underline quantum operators.
+
+Quantum operators and use bold italics for algebraic operators that also have quantum operator counterparts. Standard mathematical operators such as d/dx will not be changed. For example: Quantum vs. Algebraic H |ψ> vs. H ψ(x)
+
+p |ψ> vs. P ψ(x)
+
+One final general comment on operators: some quantum operators have the special property of being Hermitian. Consider the complex conjugates of the components of a quantum operator: A_{kj} = <k|A|j> (A_{kj})* = (<k|A|j>)* (A_{kj})* = |k> Z <j|, for some Z (A_{kj})* = <j|Z|k> (A_{kj})* = Z_{jk} This says the jk-component of operator Z equals the complex conjugate of the kj-component of operator A. Operator Z is called the Hermitian adjoint of operator A. In quantum mechanics, many important operators have the special property that Z=A. Such operators are called Hermitian, or self-adjoint.
+
+Average Energy in Discrete Basis Since measurement is a cornerstone of science, we now address the process of measuring the properties of a quantum system. Specifically, we consider measuring the energy of an atom that has a discrete set of basis states.
+
+We have extensively discussed stationary states, states with definite energy. Imagine a situation in which a large number of atoms are known to exist in the same stationary state. An example might be hydrogen atoms at such a low temperature that kT is much less than the energy of the lowest excited state. Such atoms would be extremely unlikely to have any energy other than E_0, the ground state energy of hydrogen. If we measure the energy of one hydrogen atom after another, we will presumably find that each atom has energy E_0, and therefore, their average energy is also E_0.
+
+Now consider a more interesting situation of a system in state |ψ> that is not a stationary state of definite energy. An example would be hydrogen atoms at a very high temperature. We know that any state can be represented by a linear combination of eigenstates, basis states of definite energy. Let E_j be the energy of eigenstate |j>, for j=0, 1, .... We then have: |ψ> = Σ_j C_j |j> If we measure the energy of each of a large number of atoms in state |ψ>, we will sometimes measure E_0, sometimes E_1, etc. If an atom is measured to have energy E_j, this means that atom was in state |j> when it was measured. In fact, the probability of measuring E_j is identically equal to the probability of the atom being in state |j>, which is: Prob(E_j) = Prob(j) = |C_j|^2 Note that if the states |j> form a complete basis set, as every proper basis set should, we will never measure an energy that is not one of the eigenvalues E_j.
+
+I pause here to mention a very important issue that Feynman chooses not to address in this course. This issue is called the “measurement problem” or “wave function collapse.” Quantum mechanics says that a state like |ψ> is a superposition of basis states |j>, with amplitudes to be in each of many different states simultaneously. If undisturbed, |ψ> is not in one basis state or another, but is in all these states simultaneously. However, when state |ψ> suffers a substantial external interaction, such as a measurement, |ψ> instantaneously “collapses” to one and only one eigenstate of that measurement. In this case, the eigenstates of definite energy are the states |j>. This means that, when we measure the energy of |ψ>, one C_j becomes 1 and all other C_j’s become zero, and all this occurs instantaneously throughout all of space. No one has yet provided a detailed physical explanation for exactly how this “magic” occurs. We will discuss this further in Chapter 34 of this eBook. Meanwhile, back to Feynman’s lecture.
+
+After making M energy measurements, we obtain the average energy of state |ψ> by simply summing the measured energy values and dividing by M. Alternatively, for each value of j, we can count how many times we measure the value E_j, call that number M_j, and then obtain the average energy as follows: <E>_{ψ} = { Σ_j M_j E_j } / Σ_j M_j <E>_{ψ} = { Σ_j M_j E_j } / M <E>_{ψ} = Σ_j (M_j/M) E_j For very large M, M_j/M approaches Prob(j); this is what mathematicians mean by “probability.” In any real experiment, M is a finite number and there will be statistical fluctuations: the M_j/M’s will differ somewhat from the Prob(j)’s. Yet, in all normal circumstances, the mean value — the expectation value — of M_j/M = Prob(j).
+
+A general principle of statistics pertains to measurements of any physical quantity. If the measurements are independent samplings of a uniform population (such as atoms in the same state), σ_{Mj}, the root-mean-square (rms) deviation of M_j, equals: σ_{Mj} = √{ M p(1–p)}, with p = Prob(j)
+
+When there are many probable outcomes and the probability of any particular outcome is small (p<<1), the above simplifies to σ_{Mj} = √{ M_j } This is a very important result, well worth remembering. When an experiment detects 100 Higgs bosons, or 100 photons from a galaxy 13 billion light-years away, the rms statistical uncertainty is √100 = 10.
+
+In V3p20-4, Feynman says with delight: “Now watch this trickery.” For our quantum state |ψ>: <E> = Σ (M/M) E = Σ |C|^2 E ψ j j j j j j <E> = Σ E C*_j C_j ψ j j <E> = Σ E_j <ψ|j><j|ψ> ψ j j <E> = <ψ| { Σ E_j |j><j|ψ> } ψ j j or <E> = <ψ|ø> with |ø> = Σ E_j |j><j|ψ> j j Since |j> is an eigenstate, we know: H |j> = E_j |j> Inserting this into the prior equation yields: <E> = <ψ| { Σ H |j><j|ψ> } ψ j <E> = <ψ| { H |ψ> } <E> = <ψ| H |ψ> Remarkably, the eigenstates of definite energy have been eliminated from our equation. We don’t need to know a system’s eigenstates, or their energy levels, in order to measure that system’s average energy. We only need to know the Hamiltonian components H_jk in terms of any basis states. We can then write: <E> = Σ <ψ|j> <j|H|k> <k|ψ> ψ jk <E> = Σ <ψ|j> H_jk <k|ψ> ψ jk Feynman says we can check the last equation for the special case of basis states that are stationary states, where the Hamiltonian is diagonal and H|k>=E_k|k>.
+
+<E> = Σ <ψ|j> δ_jk E_k <k|ψ> ψ jk k <E> = Σ <ψ|j> E_j <j|ψ> ψ j j This confirms the earlier equation.
+
+This is a general result that is true for any quantum operator. We can, for example, replace the energy operator H with the z-component of angular momentum operator L_z.
+
+<L_z>_ψ = <ψ| L_z |ψ> Feynman says one could prove this by identifying a situation in which a system’s energy is proportional to the z-component of its angular momentum. Since the prior equation holds for any form of energy in any situation, it also holds for the z-component of its angular momentum.
+
+The general statement is: for any physically observable quantity A associated with a quantum operator A, the average value of A for any state |ψ> is: <A>_ψ = <ψ| A |ψ> Average Energy in Continuous Basis Next we consider measuring the energy of an atom represented in a continuous set of basis states. Specifically, we will consider a one-dimensional coordinate basis |x> and a one-dimensional state |ψ>, where by definition <x|ψ> = ψ(x).
+
+The prior summation equation employing discrete basis states was: <E>_ψ = Σ <ψ|j> <j|H|k> <k|ψ> jk We now replace the double summation with a double integral, integrating over two continuous bases: <E>_ψ = ∫∫ <ψ|x> <x|H|X> <X|ψ> dx dX Whereas a single integral is a sum along a line, a double integral is a sum across a 2D-plane — the x-X plane in this case. One evaluates double integrals in two steps: (1) integrate over one variable; then (2) integrate over the other variable, both in the normal manner. It makes no difference which variable is integrated first.
+
+Here we assume |ψ> and ψ(x) are normalized to yield a total probability of 1.
+
+We can rewrite the prior equation as: <E>_ψ = ∫ <ψ|x> <x|ø> dx with <x|ø> = ∫ <x|H|X> <X|ψ> dX Note that: <ψ|x> = <x|ψ>* = [ψ(x)]* = ψ*(x)
+
+Also note that <x|H|X> is the continuous equivalent of the discrete <j|H|k>.
+
+From Chapter 22, we use Dirac’s delta function to collapse the integral over X. We also use Schrödinger’s equation from that chapter to obtain: <x|ø> = ø(x) = { –ħ^2/2m d^2/dx^2 + V(x) } ψ(x)
+
+Define the Hamiltonian algebraic operator H as: H = –ħ^2/2m d^2/dx^2 + V(x)
+
+<E>_ψ = ∫ ψ*(x) H ψ(x) dx Feynman notes that in the upper line, potential energy V is effectively a number, and all numbers can be considered multiplicative operators: V(x){ψ(x)} = V(x) × ψ(x).
+
+The Hamiltonian operators H and H are both energy operators, but with a difference. The former is an algebraic operator that acts on a function to produce a new function: Hψ(x)=ø(x). The latter is a quantum operator that acts on a state to produce a new state: H|ψ>=|ø>. The former assumes a coordinate representation, which can be any representation we choose. The latter makes no reference to any particular representation, but to solve any problem, some representation must be eventually chosen. In my view, the difference is modest.
+
+Feynman notes that if ψ(x) is not normalized, the prior equation should be written: <E>_ψ = ∫ ψ*(x) H ψ(x) dx / ∫ ψ*(x) ψ(x) dx Feynman comments on the similarity between two forms of the same relationship.
+
+<E>_ψ = <ψ| H |ψ> <E>_ψ = ∫ ψ*(x) H ψ(x) dx He says these two forms arise in coordinate representations involving local operators. He says an operator is local if A, its quantum operator form, and A, its algebraic operator form, are related by: A ψ(x) = ∫ <x|A|X> <X|ψ> dX Some operators are local and some are not.
+
+The one-dimensional integrals are easily extended to three dimensions as follows: <E>_ψ = ∫∫∫ ψ*(r) H ψ(r) dx dy dz H = –ħ^2/2m {d^2/dx^2 +d^2/dy^2 +d^2/dz^2} + V(r)
+
+provided ∫∫∫ ψ*(r) ψ(r) dx dy dz = 1 To extend these equations to multi-particle systems: replace vector r by a set of vectors, one for the position of each particle; and replace the three second-order partial derivatives by the sum of three such derivatives for each particle’s coordinates.
+
+The first of the above three equations enables us to calculate the energy of any system, provided we know its wave function. But, remarkably this equation can be useful even if we don’t know the wave function.
+
+Feynman gives an interesting real-life example. No one can solve the Schrödinger equation for the ground state of helium, because there are simply too many complex terms. We can, however, make some educated guesses as to what the wave function might be. We can use a trial wave function |ψ> and the above equation to compute <E>. Unless we miraculously guess the true wave function, our trial <E> will be higher than the true ground state energy. (To understand why, think of |ψ> as a linear combination of states |j> of definite energy, including the true ground state |0>. If |ψ> is not exactly equal to |0>, our trial <E> will contain contributions from higher energy states that are greater than E.)
+
+Next, we can try a second possible solution |φ>. Whichever solution gives a lower energy is probably closer to the real solution. We can repeat this process, hoping to get ever closer to the true ground state |0>.
+
+Clever theoretical physicists (many are very clever indeed) use trial solutions with variable parameters, say p and q, thereby obtaining <E> as a function of those parameters: <E(p, q)>. They explore whole classes of solutions at once, and find the values of p and q that yield the lowest energy. What we just described is actually how theorists obtained an approximate solution for the wave function of the ground state of helium.
+
+**Position Operators** Having addressed the average energy of any state |ψ>, let us now calculate its average position. For simplicity, we will consider only one dimension, and seek the average x-coordinate of state |ψ>. Imagine that we have a large collection of atoms in state |ψ>, and that we measure the x-coordinate of one atom after another. For a very large number of measurements, the average x-coordinate is expected to be: <x> = ∫ x Prob(x) dx <x> = ∫ <ψ|x> x <x|ψ> dx <x> = ∫ ψ*(x) x ψ(x) dx
+
+This equation has the same form as the average energy equation, but with H replaced by x. If we wish, we can think of x as an algebraic multiplicative operator: x{ψ(x)} = x times ψ(x). We can imagine some state |α>, such that: <x> = <ψ|α> = ∫ <ψ|x> x <x|ψ> dx
+
+We can expand any <ψ|α> in x-coordinate representation as: <ψ|α> = ∫ <ψ|x> <x|α> dx
+
+Comparing the last two equations, we find: x <x|ψ> = <x|α> x ψ(x) = α(x)
+
+Feynman cautions that the first line above does not imply: x |ψ> = |α>. Cancelling <x| on both sides is equivalent to erroneously cancelling vector a on both sides of: a•b = a•c.
+
+In V3p20-9, Feynman says: “We have not bothered to try to get the x-representation of the matrix of [operator x]. If you are ambitious you can try to show that”: <x|x|X> = x δ(x−X)
+
+Deriving this relationship is a modest challenge. You can check your answer at the end of this chapter. If we set |X> = |x>, we obtain “the amusing result that”: x |x> = x |x>
+
+This odd equation says the quantum operator x acting on |x>, a state of definite position x, has the effect of multiplying that state by x. To obtain the average value of x², use the x operator twice: x x.
+
+<x²> = ∫ <ψ|x> x x <x|ψ> dx
+
+**Average Momentum** Expanding on this approach, we can calculate the average momentum of any state |ψ>. As before, <p> = ∫ p Prob(p) dp
+
+Normally, probability equals the magnitude of an amplitude squared, as in Prob(x) = ψ*(x)ψ(x). However, as discussed in Chapter 22, Feynman chooses a different normalization for momentum states: Prob(p) = ψ*(p)ψ(p)/h. For clarity, I will write 2πħ instead of h so you won’t have to carefully examine each “h” to see if it has a tiny bar — all h’s will be barred.
+
+<p> = ∫ <ψ|p> p <p|ψ> dp/2πħ <p> = ∫ ψ*(p) p ψ(p) dp/2πħ
+
+As above, we can define a new state |β> and a new operator p, as follows: |β> = p |ψ>
+
+This equation says: quantum operator p acting on state |ψ> produces state |β>. Using |β>, we rewrite the prior equations as: <p> = ∫ <ψ|p> <p|β> dp/2πħ <p> = <ψ|β>
+
+With the same logic used for the position operator, we can prove: <p|p|P> = p δ(p–P)
+
+p |p> = p |p>
+
+In V320-10, Feynman begins developing a key point. The above equations describe the meaning of the momentum operators p and p in terms of their action on momentum states |p> and momentum functions ψ(p) in a momentum representation. Can we also describe their action in a coordinate representation — how do they act on position states |x> and position functions ψ(x)?
+
+Let’s go back to: <p> = <ψ|β>
+
+and expand this in coordinate representation: <p> = ∫ <ψ|x> <x|β> dx
+
+Fine, but the above equation requires <x|β> = β(x) in coordinate representation, and all we know so far is <p|β> = β(p) in momentum representation. Recall from Chapter 22, the following relationship between a state |ψ> in momentum representation and the same state in coordinate representation: <p|ψ> = ∫ exp{–ipx/ħ} <x|ψ> dx
+
+The above integral is over all values of x. With this equation, we write two expressions for <p|β>: <p|β> = ∫ exp{–ipx/ħ} <x|β> dx <p|β> = p <p|ψ> = p ∫ exp{–ipx/ħ} <x|ψ> dx <p|β> = ∫ p exp{–ipx/ħ} <x|ψ> dx
+
+Feynman obtains the last line by moving p inside the integral.
+
+费曼说：“由于积分是对x进行的，我们可以把p放在积分符号内。”我认为这是错误的……（等着被雷劈）……这个p不是算符，而是动量变量，通常它是x的函数。我们最关心的是束缚态，即被势场V束缚的粒子。由于p²/2m = E – V，且V是x的函数，因此p也是x的函数。也许费曼将∫dx视作一种“部分”积分，类似于偏导数，其中只有x变化；然而，“部分”积分超出了普通微积分的范畴，需要详尽的解释。尽管如此，我们继续。
+
+费曼说，通过比较这三个方程中的第一个和最后一个，可能会诱使人认为：
+
+<x|β> = p <x|ψ> = p ψ(x)
+
+费曼说：“不！不！”
+
+我们的目标是找到β(x)，但p ψ(x)是p和x的函数。（我怀疑费曼之所以如此强调，是因为整个班级都答错了。）
+
+无论如何，我们必须找到一种方法将p从ψ(x)中分离出来。答案是使用分部积分，并认识到：
+
+(iħ) ∂ [exp{–ipx/ħ}] /∂x = p exp{–ipx/ħ}
+
+这使我们的积分变为：
+
+<p|β> = ∫ (iħ) ∂[exp{–ipx/ħ}]/∂x ψ(x) dx
+
+回想一下称为分部积分的巧妙技巧：
+
+uv = ∫d(uv) = ∫udv + ∫vdu ∫udv = uv – ∫vdu
+
+这里我们设 u = iħ ψ(x)，且 dv = d[exp{–ipx/ħ}]。分部积分得到：
+
+<p|β> = iħ ψ(x) exp{–ipx/ħ} – iħ ∫ exp{–ipx/ħ} (∂ψ/∂x) dx
+
+这里我们使用偏导数，因为ψ是多个变量的函数，而我们只希望改变x。上述表达式必须在积分限x=–∞和x=+∞处求值。对于任何束缚粒子，ψ(x=±∞)必须为零，这消除了第一行，留下：
+
+<p|β> = – iħ ∫ exp{–ipx/ħ} (∂ψ/∂x) dx
+
+与之前的方程比较得到：
+
+<x|β> = β(x) = – iħ ∂ψ/∂x
+
+回到我们在坐标表象下动量平均值的方程，我们现在可以完成任务了。
+
+<p > = ∫ <ψ|x> <x|β> dx <p > = ∫ <ψ|x> (ħ/i) (∂ψ/∂x) dx
+
+算符对应
+
+我们现在来到了关键点。在 V3p20-11 中，费曼强调了以下模式。我们比较下面的振幅方程与能量、位置和动量平均值的坐标表象积分。
+
+<E > = <ψ|ø>, 其中 |ø> = H |ψ> <E > = ∫ ψ*(x) ø(x) dx, 其中 ø(x) = H ψ(x)
+
+<x> = <ψ|α>, 其中 |α> = x |ψ> <x> = ∫ ψ*(x) α(x) dx, 其中 α(x) = x ψ(x)
+
+<p > = <ψ|β>, 其中 |β> = p |ψ> （此处原文本为 H，根据上下文应为 p）
+
+<p > = ∫ ψ*(x) β(x) dx, 其中 β(x) = P ψ(x)
+
+P = (ħ/i) ∂/∂x
+
+这突出了量子算符与相应的代数算符之间的联系，分别在左侧和右侧显示。
+
+H |ψ> <=> H ψ(x); H=–(ħ²/2m)∂²/∂x² +V(x)
+
+x |ψ> <=> x ψ(x) = x ψ(x)
+
+p |ψ> <=> P ψ(x); P = (ħ/i) ∂/∂x
+
+扩展到三维是显而易见的。其他的动量算符是：
+
+p_y <=> P_y = (ħ/i) ∂/∂y p_z <=> P_z = (ħ/i) ∂/∂z
+
+三个分量动量算符可以组合成一个动量矢量算符：
+
+p <=> P = (ħ/i) (∂/∂x, ∂/∂y, ∂/∂z)
+
+由于两种类型的算符涉及相同的物理，大多数物理书籍和论文对量子算符和相应的代数算符使用相同的符号。在本课程中，除了本章我们专注于其关系时，其他地方我们也使用相同的符号。
+
+现在让我们看看这些算符如何使用。
+
+注意使用两次动量算符的结果。
+
+P_x P_x = {(ħ/i) ∂/∂x} {(ħ/i) ∂/∂x} = –ħ² ∂²/∂x² P • P = –ħ² {∂²/∂x² + ∂²/∂y² + ∂²/∂z²} H = (1/2m) P•P + V(r)
+
+费曼说这个方程应该看起来很熟悉“如果你还没忘记你的经典物理”：它表示总能量 = 动能 (p•p/2m) 加上势能。
+
+在 V3p20-13 中，费曼说：“这个结果给人们留下了深刻的印象，以至于他们试图在学生学习量子力学之前先教他们经典物理。（我们的看法不同！）但这种类比常常会误导。一方面，当你有算符时，各个因子的顺序很重要；但在经典方程中，因子的顺序并不重要。”
+
+在第23章中，我们根据位移算符 D_x 定义了动量算符 p_x。回想一下，对于一个无穷小位移 dx（将x轴向 +x 方向平移 dx，或者等效地从每个 x 坐标值减去 dx），位移算符对态 |ψ> 的作用是：
+
+D(dx) |ψ> = exp{ik_x dx} |ψ> = (1 +ik_x dx) |ψ>
+
+p_x = ħk_x
+
+D(dx) |ψ> = (1 + i dx p_x/ħ) |ψ>
+
+∂ψ/∂x = {ψ(x+dx) – ψ(x)} / dx ∂ψ/∂x = {D(–dx) |ψ> – |ψ>} / dx ∂ψ/∂x = – i (p_x/ħ) |ψ>
+
+p_x = (ħ/i) ∂/∂x
+
+这与我们本章前面推导的结果一致。注意我们必须使用 D(–dx) 来获得 ψ 在 x+dx 处的值，这是由 D 的定义决定的。
+
+现在想象一组编号为 1, 2, …, N 的粒子。在一维中，波函数是每个粒子x坐标的函数：ψ(x₁, x₂, …x_N)。如果现在我们给每个x坐标加上δ，波函数变为：
+
+ψ(x₁+δ, x₂+δ, …x_N+δ) – ψ(x₁, x₂, …x_N)
+
+= δ { ∂ψ/∂x₁ + ∂ψ/∂x₂ + … + ∂ψ/∂x_N } = δ (i/ħ) P_sum ψ = δ (i/ħ) { p₁ + p₂ + … + p_N } ψ
+
+p_sum = p₁ + p₂ + … + p_N Here p is the algebraic momentum operator for the entire collection of particles and p_j is the algebraic momentum operator for the jth particle. We see this result matches the normal rule that the momentum of a total system is the vectorial sum of the momenta of each of its components.
+
+Angular Momentum Operators Next let’s examine angular momentum operators. In Chapter 23, we defined the angular momentum operator J_z in terms of the rotation operator R. We will consider here only orbital angular momentum, and exclude any spin angular momenta. For an infinitesimal rotation by angle ε (rotating the coordinate system about the z-axis by angle ε, or equivalently rotating objects or states by angle –ε), the action of the rotation operator on state |ψ> is: R(ε) |ψ> = (1 + i J_z ε/ħ) |ψ> Figure 31-1 illustrates the relationships between polar coordinates (r,θ,ø) and rectilinear coordinates (x,y,z) of a point Q, as given by: x = r sinθ cosø y = r sinθ sinø z = r cosθ Figure 31-1 Polar & Rectilinear Coordinates Positive angular momentum in the z-direction, J>0, corresponds to a steadily increasing azimuthal angle ø. To see how the rectilinear coordinates change with this rotation, we take their partial derivatives with respect to ø.
+
+∂x/∂ø = – r sinθ sinø = –y ∂y/∂ø = + r sinθ cosθ = +x ∂z/∂ø = 0 From these derivatives, we can calculate the change in |ψ> as ø increases. To reduce clutter in the next dozen lines, I will use ψ as an abbreviation of |ψ>.
+
+dψ = (∂ψ/∂x)(∂x/∂ø)dø + (∂ψ/∂y)(∂y/∂ø)dø dψ = {(∂ψ/∂x)(–y) + (∂ψ/∂y)(+x)}dø dψ = {–y ∂/∂x + x ∂/∂y} ψ dø We get another equation for the change in ψ from the rotation operator R(dø): R(dø) ψ = (1 + J_z dø i/ħ) ψ dψ = R(dø)ψ – ψ = J_z dø (i/ħ) ψ Matching the two equation for dψ yields: J_z dø (i/ħ) ψ = {–y ∂/∂x + x ∂/∂y} ψ dø J_z = (ħ/i) {–y ∂/∂x + x ∂/∂y} This can also be written: J_z = x P_y – y P_x The result matches the classical equations for angular momentum: L=r×p and L_z=xp_y–yp_x.
+
+While it is comforting that many quantum operators match classical equations, some do not. Indeed, if all quantum operators matched classical equations, quantum mechanics would not reveal any new physics — what fun would that be?
+
+Thankfully there are differences. Here is one. In classical physics, x and p commute, as shown by: x p_x – p_x x = 0, classically But the corresponding quantum operators do not commute, as we see when the equivalent combination operates on ψ(x).
+
+{x P_x – P_x x} ψ(x) = (ħ/i){x ∂/∂x – ∂/∂x x} ψ(x)
+
+{x P_x – P_x x} ψ(x) = (ħ/i){x ∂ψ/∂x – ∂(xψ)/∂x} {x P_x – P_x x} ψ(x) = (ħ/i){x∂ψ/∂x –ψ –x∂ψ/∂x} {x P_x – P_x x} ψ(x) = –(ħ/i) ψ(x)
+
+In the second line above, ∂/∂x operates on everything to its right, which is the product xψ.
+
+While one can do the math on the operators themselves, those still developing their skills will find it easier to analyze the action of these operator combinations on a state or function, such as |ψ> or ψ(x).
+
+The last equation above means the difference of the operators taken in opposite sequences is a non-zero constant, given by: x P_x – P_x x = iħ This demonstrates again that Planck’s constant sets the scale at which quantum mechanics diverges from classical physics. On scales much larger than ħ, these operators virtually commute and quantum mechanics and classical physics both work. On scales where energy, momentum, time intervals, and distances are comparable to ħ, only quantum mechanics correctly describes nature.
+
+The operator combination just discussed has a special name: the commutator. For any two algebraic operators or any two quantum operators A and B, their commutator is defined as: [A,B] = A B – B A If [A,B] = 0, the operators are said to commute; if [A,B] is non-zero, they do not commute. This is called the commutation rule. Commutators are a staple of quantum mechanics, and also other advanced fields of physics.
+
+One can easily verify that y and p_x commute.
+
+[y,p_x] ψ = (ħ/i) {y∂ψ/∂x –∂(yψ)/∂x} = 0 In V3p20-15, Feynman suggests you hone your skills proving: [J_x,J_y] = iħ J_z You can check your answer at the end of this chapter.
+
+Feynman points out that non-commuting operators are not unique to quantum mechanics. Matrix products do not commute. Rotation operators do not commute: he suggests you try rotating a book 90º about the x axis and then 90º about the y-axis, and compare the result with the same rotations in the opposite order.
+
+Time Dependent Averages The final topic on operators in this chapter concerns changes of average values over time. We found earlier that, for any operator A, its average value was determined by: <A > = <ψ|A|ψ> In what ways can <A > depend on time? Clearly, a time dependence can only come from either or both quantities on the right side of this equation: ψ and A. The operator A could, for example, involve a time-varying potential, such as V(x,t). The state |ψ> could also vary with time; for example, it could be the wave function of a moving particle.
+
+Let’s examine the possibilities by taking t The time derivative of the above equation.
+
+d<A >/dt = (d<ψ|/dt) |A|ψ> + <ψ| (dA/dt) |ψ> + <ψ|A| (d|ψ>/dt)
+
+We can derive expressions for two pieces of this equation. Firstly, the Hamiltonian determines how |ψ> changes: H |ψ> = iħ d|ψ>/dt
+
+We get a second piece by taking the complex conjugate of the last equation. Recall that i*=–i, <ψ|=|ψ>*, and H=H*.
+
+<ψ| H = –iħ d<ψ|/dt
+
+Putting these into the time derivative equation yields: d<A >/dt = (<ψ| H |ψ>) (-1/iħ) + <ψ| (dA/dt) |ψ> + <ψ|A| H |ψ> (+1/iħ)
+
+d<A >/dt = (i/ħ) {<ψ| H A |ψ> – <ψ| A H |ψ>} + <ψ|(dA/dt)|ψ> d<A >/dt = <ψ| (i/ħ)[H,A] + dA/dt |ψ>
+
+We can define a new operator α, such that: d<A >/dt = <ψ|α|ψ>
+
+We have shown that: α = (i/ħ)[H,A] + dA/dt
+
+If operator A has no time-dependence, our result reduces to: α = (i/ħ)[H,A]
+
+Consider an example. Let A be the position operator x, with H given by: H = (–ħ2/2m) d2/dx2 + V(x)
+
+α = d<x>/dt α |ψ> = (i/ħ) {Hx – xH} |ψ>
+
+The potential V(x) cancels in the commutator because x and V are both multiplicative operators: xV|ψ>=Vx|ψ>. We need deal only with the derivative term. (Again, in the next few lines we abbreviate |ψ> with ψ.)
+
+α ψ = (i/ħ) (–ħ2/2m) { d2(xψ)/dx2 – xd2ψ/dx2 } α ψ = (ħ/2im) {d/dx (x dψ/dx +ψ) –xd2ψ/dx2} = (ħ/2im){dψ/dx +xd2ψ/dx2 +dψ/dx –xd2ψ/dx2} α ψ = (ħ/2im) {2dψ/dx} α ψ = (ħ/im) {(i/ħ) p} ψ α = d<x>/dt = p / m
+
+The last equation again matches classical physics: dx/dt=p/m=v.
+
+Another example: let A be the momentum operator p.
+
+α = d<p>/dt α |ψ> = (i/ħ) {Hp – pH} |ψ>
+
+α |ψ> = {H d/dx – d/dx H} |ψ>
+
+The derivatives d/dx and d2/dx2 commute, leaving only V(x) in the commutator.
+
+α |ψ> = {V d/dx – d/dx V} |ψ> α |ψ> = V d|ψ>/dx – V d|ψ>/dx – |ψ> dV/dx α = d<p>/dt = –dV/dx
+
+This also matches classical physics: dp/dt=ma=F=–dV/dx.
+
+Feynman stresses that we have examined average values produced by quantum and algebraic operators acting on large numbers of entities. These equations tell us nothing about what happens at the individual particle level.
+
+The key distinguishing feature of quantum mechanics that we have identified is that xp–px is not zero as in classical physics, but rather it equals some small number iħ. Small yes, but as Feynman says: “the whole wondrous complications of interference, waves, and all, result from the little fact that” this small number is not zero.
+
+In V3p20-17, Feynman ends this lecture saying: “The history of this idea is also interesting. Within a period of a few months in 1926, Heisenberg and Schrödinger independently found correct laws to describe atomic mechanics. Schrödinger invented his wave function ψ(x) and found his equation. Heisenberg, on the other hand, found that nature could be described by classical equations, except that xp−px should be equal to iħ, which he could make happen by defining them in terms of special kinds of matrices. In our language he was using the energy-representation, with its matrices. Both Heisenberg’s matrix algebra and Schrödinger’s differential equation explained the hydrogen atom. A few months later Schrödinger was able to show that the two theories were equivalent—as we have seen here. But the two different mathematical forms of quantum mechanics were discovered independently.”
+
+Problem: Position Operator Matrix Feynman suggested the challenge of deriving the matrix elements of the position operator. Recall the definition of the Dirac delta function from Chapter 22: <x|ψ> = ∫ δ(x–X) <X|ψ> dX
+
+Earlier in this chapter, we found: <x> = ∫ <ψ|x> x <x|ψ> dx
+
+Now replace <x|ψ> using the Dirac delta function.
+
+<x> = ∫ <ψ|x> x {∫ δ(x–X) <X|ψ> dX} dx
+
+Since the delta function is zero everywhere except x=X, we can rearrange the double integral to yield: <x> = ∫∫ <ψ|x> x δ(x–X) <X|ψ> dX dx
+
+Now compare this with the equation derived earlier for the matrix elements of the quantum Hamiltonian operator H in a continuous basis: <E > = ∫∫ <ψ|x> <x|H|X> <X|ψ> dx dX
+
+By analogy, the matrix elements of the quantum position operator x are given by: <x> = ∫∫ <ψ|x> <x|x|X> <X|ψ> dx dX
+
+This means: <x|x|X> = x δ(x–X)
+
+QED.
+
+Problem: Jx, Jy Commutator Feynman suggested the challenge of calculating [Jx,Jy]. Here is the answer.
+
+[Jx,Jy] ψ = Jx Jy ψ – Jy Jx ψ
+
+Jx Jy ψ = (ħ/i)2 (y∂/∂z–z∂/∂y) (z∂/∂x–x∂/∂z) ψ Jx Jy ψ = (ħ/i)2 (y∂/∂z–z∂/∂y) (z∂ψ/∂x–x∂ψ/∂z)
+
+Jx Jy ψ = (ħ/i)2 (y∂ψ/∂x +yz∂2ψ/∂z∂x –yx∂2ψ/∂z2 –z2∂2ψ/∂y∂x +zx∂2ψ/∂y∂z)
+
+Jy Jx ψ = (ħ/i)2 (z∂/∂x–x∂/∂z) (y∂/∂z–z∂/∂y) ψ Jy Jx ψ = (ħ/i)2 (z∂/∂x–x∂/∂z) (y∂ψ/∂z–z∂ψ/∂y)
+
+Jy Jx ψ = (ħ/i)2 (zy∂2ψ/∂x∂z –z2∂2ψ/∂x∂y –xy∂2ψ/∂z2 +x∂ψ/∂y +xz∂2ψ/∂z∂y)
+
+Partial derivatives commute with one another: ∂2ψ/∂z∂y=∂2ψ/∂y∂z, etc. Also the position operators commute because they are simply multipliers. This means all the above terms with second order partial derivatives cancel when we subtract Jy Jx ψ from Jx Jy ψ — that’s four cancelling pairs. The only parts that do not commute have the form [x,∂/∂x]ψ, where one partial derivative is eliminated. After all the cancellations, only two first order partial derivative terms remain.
+
+[J_x, J_y] ψ = (ħ/i)² (y ∂ψ/∂x – x ∂ψ/∂y) ψ [J_x, J_y] ψ = (ħ/i)² (–J_z)(i/ħ) ψ [J_x, J_y] = iħ J_z QED.
+
+## Chapter 31 Review: Key Ideas
+
+• This chapter illuminates different conventions used in the physics literature. Quantum operators act on quantum states producing new states. By contrast, algebraic operators act on functions producing new functions. The distinction is somewhat pedantic. In this chapter only, we underline for clarity quantum operators and use bold italics for algebraic operators. Standard mathematical operators such as d/dx are not changed. For example: Quantum vs. Algebraic H |ψ> <=> H ψ(x); H=–(ħ²/2m)∂²/∂x² +V(x)
+
+x |ψ> <=> x ψ(x) = x ψ(x)
+
+p |ψ> <=> P ψ(x); P = (ħ/i) ∂/∂x x x x Operators P_x and P_y are similarly defined, and with P_x form a vector-operator that condenses the Hamiltonian equation to: H = (1/2m) P•P + V(r)
+
+For any operator A, its Hermitian adjoint A† is defined by: A† = (A*_jk) or A†_kj If A† = A, A is called Hermitian or self-adjoint.
+
+• If M independent measurements are made on quantum entities in a uniform population (such as atoms in the same state), each measured value must equal one of the eigenvalues of that population. Assume a quantum system with discrete eigenstates |j>, j=0, 1, … and eigenvalues E_j. Let the number of measurements with value E_j be M_j, with M=ΣM_j. The average measured value is: <E > = Σ (M_j/M) E_j ψ j j For large M, each M_j/M approaches the expectation value Prob(j), the probability of |j>, and σ_j, the root-mean-square deviation of M_j, equals: σ_j = √{ M p(1–p)}, with p=Prob(j)
+
+If the probability of any particular outcome is small (p<<1), this becomes: σ_j = √{ M p } For any physically observable quantity A associated with a quantum operator A, the average value of A for any state |ψ> can be expressed independently of basis states: <A > = <ψ| A |ψ> For a system with continuous, normalized states, this becomes: <A > = ∫∫ ψ*(x) <x|A|X> ψ(X) dx dX • Commutators have important consequences in quantum mechanics. For operators A and B, their commutator is: [A,B] = A B – B A If [A,B] = 0, the operators commute, otherwise they do not commute. Examples are: [x, P_x] = x P_x – P_x x = iħ [y, P_y] = y P_y – P_y y = 0 [J_x, J_y] = iħ J_z This demonstrates that ħ sets the scale at which quantum mechanics diverges from classical physics. On scales >> ħ, these operators virtually commute and quantum mechanics and classical physics both work. On scales with energy, momentum, time intervals, and distances comparable to ħ, only quantum mechanics correctly describes nature.
+
+• The time evolution of the average <A > of a large sample of measurements corresponding to operator A is: d<A >/dt = <ψ| (i/ħ)[H,A] + dA/dt |ψ> Examples and their corresponding classical analogs are: d<x>/dt = p/m <=> dx/dt=p/m=v d<p>/dt = –dV/dx <=> dp/dt=ma=–dV/dx=F
+
+## Chapter
+
+Probability & Wave Functions Feynman’s last lecture contains profound insights into quantum mechanics in general, and an extensive exploration of specific low-temperature phenomena. I have rearranged this material, putting the general insights in this chapter and the low-temperature physics in the next chapter.
+
+The Continuity of Probability A fundamental principle of quantum mechanics is that the probability, Prob(r,t), of finding a particle at position r at time t equals |ψ(r,t)|², the square of the magnitude of its wave function at r and t. The total probability of finding a particle anywhere must always equal 1.
+
+In V3p21-3, Feynman emphasizes that total probability is not only conserved globally, but more importantly, it is also conserved locally. Let’s understand what this means by first considering a simpler case: the global and local conservation of electric charge.
+
+Global charge conservation means the net amount of electric charge everywhere is the same at every time t. By "net amount" we mean the total of all positive charges minus the total of all negative charges. Local charge conservation adds an additional requirement: if net charge decreases in one region, charge must flow out through that region’s boundaries into neighboring regions. This means electric charge cannot disappear here and reappear at some distant location; it must move continuously from one region to another, being conserved at every step along the way. Local conservation tells us something important about how charge is conserved globally, and inspires us to understand electric currents of flowing charge.
+
+In this section, Feynman suggests an analogy between conservation of charge and conservation of probability. Global probability conservation means the integral of Prob(r,t) over all r equals 1 at every time t. Feynman suggests local probability conservation means that, if total probability decreases in one region, probability must “flow” out through that region’s boundaries into neighboring regions.
+
+Can we find a probability “current” associated with this “flow”? Feynman says: “This current would be a vector which could be interpreted this way—the x-component...” The content would be the net probability per second and per unit area that a particle passes in the x-direction across a plane parallel to the yz-plane. Passage toward +x is considered a positive flow, and passage in the opposite direction, a negative flow.
+
+We begin with the equation for probability, and take its partial derivative with respect to time.
+
+Prob(r,t) = ψ*(r,t) ψ(r,t)
+
+∂(Prob)/∂t = ψ* ∂ψ/∂t + ψ ∂ψ*/∂t
+
+We next use the Hamiltonian to find ∂ψ/∂t.
+
+iħ ∂ψ/∂t = H ψ ∂ψ/∂t = (–i/ħ) H ψ ∂ψ*/∂t = (+i/ħ) H* ψ* ∂(Prob)/∂t = (–i/ħ) ψ*Hψ + (+i/ħ) ψH*ψ* iħ ∂(Prob)/∂t = ψ*Hψ – ψH*ψ*
+
+We now use the normal Hamiltonian, in operator form.
+
+H = (1/2m) P•P + V(x)
+
+iħ ∂(Prob)/∂t = ψ*Vψ – ψV*ψ* +(1/2m) {ψ* P•P ψ – ψ P•P ψ*}
+
+The two potential terms in the upper line cancel. For the lower line, Feynman provides yet another clever trick. Consider the following, shown in one-dimension to reduce clutter, and recall that P= (ħ/i)∂/∂x: ∂/∂x {ψ* P ψ} = ∂/∂x {ψ* (ħ/i) ∂ψ/∂x} = (ħ/i) ψ* ∂2ψ/∂x2 + (ħ/i) ∂ψ*/∂x ∂ψ/∂x ∂/∂x {ψ* P ψ}* = ∂/∂x {ψ (–ħ/i) ∂ψ*/∂x} = –(ħ/i) ψ ∂2ψ*/∂x2 – (ħ/i) ∂ψ/∂x ∂ψ*/∂x
+
+Now add the last two equations.
+
+∂/∂x {(ψ* P ψ) + (ψ* P ψ)*} = (ħ/i) ψ* ∂2ψ/∂x2 – (ħ/i) ψ ∂2ψ*/∂x2
+
+Restoring y- and z-derivatives is straightforward: (i/ħ) P• {(ψ*P ψ) + (ψ*P ψ)*} = (ħ/i) (i/ħ)2 {ψ* P•P ψ – ψ P•P ψ*} P• {(ψ*P ψ) + (ψ*P ψ)*} = {ψ* P•P ψ – ψ P•P ψ*}
+
+We can now rewrite our primary equation as: iħ ∂(Prob)/∂t = +(1/2m) P• {(ψ*Pψ) + (ψ*Pψ)*} ∂(Prob)/∂t = –(i/ħ)P• {(ψ*Pψ) + (ψ*Pψ)*}/2m
+
+Note: (i/ħ)P is the divergence vector-operator (∂/∂x, ∂/∂y, ∂/∂z), written as an inverted Δ. It is a real (not a complex) quantity. Feynman notes that the expression in { }’s is real, being the sum of a quantity and its complex conjugate. This should not be surprising since it comes from the time derivative of ψ*ψ, a quantity that is always real.
+
+We can now define a probability current Ĵ, and simplify the probability derivative.
+
+Ĵ = {(ψ* P ψ) + (ψ* P ψ)*}/2m Ĵ = {(ψ* P ψ) + (ψ P* ψ*)}/2m ∂(Prob)/∂t = –(i/ħ) P•Ĵ Or if you prefer: ∂(Prob)/∂t + (i/ħ) P•Ĵ = 0
+
+This equation says the time derivative of probability plus the divergence of the probability current equals zero, within whatever volume we choose. With Gauss’s divergence theorem, this means the change in probability within any volume equals the probability current flowing into that volume (inward flow is a negative divergence). This means probability can change only by moving continuously from one place to another: probability is conserved locally.
+
+Consider an example of a particle moving from region A to a neighboring region B. The probability in region A decreases and its probability current has a positive divergence. At the same time, the probability in region B increases and its probability current has a negative divergence. Hence probability flows out of region A into region B, just as we would expect. We will come back to the probability current in the next chapter.
+
+The Meaning of Wave Functions In V3p21-6, Feynman says: “When Schrödinger first discovered his equation he discovered the conservation law [of probability] as a consequence of his equation. But he imagined incorrectly that ψ*ψ was the electric charge density of the electron and that Ĵ was the electric current density, so he thought that the electrons interacted with the electromagnetic field through these charges and currents. When he solved his equations for the hydrogen atom and calculated ψ, he wasn’t calculating the probability of anything—there were no amplitudes [in quantum theory] at that time—the interpretation was completely different. The atomic nucleus was stationary but there were currents moving around; the charges ψ*ψ and currents Ĵ would generate electromagnetic fields and the thing would radiate light. He soon found on doing a number of problems that it didn’t work out quite right. It was at this point that [Max] Born made an essential contribution to our ideas regarding quantum mechanics. It was Born who correctly (as far as we know) interpreted the ψ of the Schrödinger equation in terms of a probability amplitude—that very difficult idea that the square of the amplitude is not the charge density but is only the probability per unit volume of finding an electron there, and that when you do find the electron some place the entire charge is there. That whole idea is due to Born.
+
+“The wave function ψ(r) for an electron in an atom does not, then, describe a smeared-out electron with a smooth charge density. The electron [will be found] either here, or there, or somewhere else, but wherever it is, it is a point charge. On the other hand, think of a situation in which there are an enormous number of particles in exactly the same state, a very large number of them with exactly the same wave function. Then what? One of them is here and one of them is there, and the probability of finding any one of them at a given place is proportional to ψ*ψ. But since there are so many particles, if I look in any volume dxdydz I will gener find a number close to ψ*ψ dxdydz. So in a situation in which ψ is the wave function for each of an enormous number of particles which are all in the same state, ψ*ψ can be interpreted as the density of particles.
+
+“So in the situation in which we can have very many particles in exactly the same state, …the charge density and the electric current can be calculated directly from the wave functions and the wave functions take on a physical meaning which extends into classical, macroscopic situations.
+
+“Something similar can happen with neutral particles. When we have the wave function of a single photon, it is the amplitude to find a photon somewhere. Although we haven’t ever written it down there is an equation for the photon wave function analogous to the Schrödinger equation for the electron. The photon equation is just the same as Maxwell’s equations for the electromagnetic field, and the wave function is the same as the vector potential A. The wave function turns out to be just the vector potential. … The moment that you have billions in the same state (that is, in the same electromagnetic wave), you can measure the wave function, which is the vector potential, directly.
+
+“Now the trouble with the electron [a fermion] is that you cannot put more than one in the same state. Therefore, it was long believed that the wave function of the Schrödinger equation would never have a macroscopic representation analogous to the macroscopic representation of the amplitude for photons… it is now realized that the phenomena of superconductivity presents us with just this situation.”
+
+We explore superconductivity in the next chapter.
+
+## Chapter 32 Review: Key Ideas
+
+• The probability Prob(r,t) of finding a particle at position r at time t equals |ψ(r,t)|2, the square of the magnitude of its wave function at r and t. The total probability of finding a particle anywhere must always equal 1. This means probability is conserved globally. But more importantly, probability is conserved locally as well. This is analogous to the conservation of electric charge.
+
+We define the probability current Ĵ, and its relationship to the change of probability.
+
+Ĵ = {(ψ* P ψ) + (ψ* P ψ)*}/2m ∂(Prob)/∂t + (i/ħ) P•Ĵ = 0 The time derivative of probability plus the divergence of probability current equals zero, integrated over any volume we choose. With Gauss’s divergence theorem, this means the change in probability within any volume equals the probability current flowing into that volume (inward flow is a negative divergence). This means probability is conserved locally, within any selected volume.
+
+• The wave function describes the amplitude of finding the electron at each location, at each moment in time. But this does not mean an electron is smeared-out with a smooth charge density. If searched for, an electron will be found at a specific point, with all of its charge at that point.
+
+If an immense number of particles exist in exactly the same state, Feynman says: “ ψ*ψ can be interpreted as the density of particles.” • The wave function for photons is the same as the electromagnetic vector potential A, which we can directly measure.
+
+The remarkable thing about low-temperature phenomena, such as superconductivity, is that they allow an immense number of fermions to combine into the same state, allowing direct measurement of their wave function. The manner in which pairs of fermions can behave like bosons is the subject of the next chapter.
+
+## Chapter
+
+Superconductivity: QM Writ Large The last of the Feynman Lectures on Physics begins with: “This lecture is only for entertainment. I would like to give the lecture in a somewhat different style—just to see how it works out. It’s not a part of the course—in the sense that it is not supposed to be a last minute effort to teach you something new. But, rather, I imagine that I’m giving a seminar … to a more advanced audience... So in this lecture I’ll describe the ideas all the way along but just give you the results of the computations. You should realize that you’re not supposed to understand everything immediately...” Let me comment on what Feynman means by “seminar.” A physics seminar is not a normal course for physics students; the audience consists of professors, Ph.D. physicists, and graduate students. Seminars are primarily venues for presenting frontier research to colleagues engaged in the same or in closely related fields. Presenters generally assume that the audience knows everything that has already been discovered on the topic, and building on that, they describe their efforts to discover new science. Seminars are an opportunity for presenters to impress their colleagues and further their careers. Seminars are auditions, not classes. Attendees who are world-class experts in the particular topic will likely understand every word and will learn something new. Others hope to understand some of the discussion and learn what they can.
+
+When Feynman gave seminars at Caltech, almost every physics fac Faculty member and graduate student attended. Legend has it that at one seminar, Feynman dashed into the room, by-passed any introductory pleasantries, and immediately began furiously writing on the blackboard. One hour and many blackboards later, Feynman turned to the audience for the first time and said: "Was that clear, Murray?" Apparently, he hoped one person had understood — the other Nobel Laureate in the room, Murray Gell-Mann.
+
+In this "seminar", Feynman continues: "My subject is the Schrödinger equation in a classical setting—the case of superconductivity. "Ordinarily, the wave function which appears in the Schrödinger equation applies to only one or two particles. And the wave function itself is not something that has a classical meaning—unlike the electric field… Nevertheless, there are some situations in which a quantum mechanical wave function does have classical significance… "It is the purpose of this lecture to show a connection between quantum mechanics and large-scale effects…a special situation in which quantum mechanics will produce its own characteristic effects on a large or 'macroscopic' scale."
+
+Superconductivity is the property of conducting electric current without resistance — not with a very small resistance, but with absolutely zero resistance. Many materials, but not all, are superconducting at sufficiently low temperatures. Superconductivity was discovered in 1911 by Dutch physicist Heike Kamerlingh Onnes, who received the Nobel Prize in 1913.
+
+The essential distinction between quantum and classical physics is discrete versus continuous states. In classical physics, particle energies are continuous, they can have any value across a wide range, whereas quantum mechanics restricts particle energies to a limited, discrete set of values. As Feynman explains in V3p21-1, at extreme low temperatures higher-energy atomic states are "frozen out", and behavior becomes dominated by the quantum mechanical discreteness of the remaining states. This is why quantum effects can produce the macroscopic phenomenon of superconductivity.
+
+Boltzmann’s law says the population of a state with energy E is proportional to exp{–E/kT} (Feynman Simplified 1B Chapter 16). When kT is large, many states are populated with atoms and particles jumping freely from one discrete energy level to another. The properties of different states are averaged, resulting in nearly continuous behavior that is adequately described by classical physics. When kT is small, energy level differences become formidable barriers. Only a few low-energy states are populated. Here, Feynman says: "the quantum mechanical character of that ground state" is apparent even macroscopically.
+
+Schrödinger’s Equation in Magnetic Field We will shortly develop the Schrödinger equation for an electron in a magnetic field. To obtain this, we will employ several concepts that Feynman presents in his Volume II. Let’s briefly review those.
+
+The first of these concerns vector fields. At each point r, a normal function f(r) has a value that is simply a number. An example is T(r), the temperature throughout Earth’s atmosphere. Such a function is sometimes called a scalar field, with "field" indicating an array of quantities defined throughout space and "scalar" identifying these quantities as simple numbers. A vector field is a function that at each point r has a value that is a vector. An example is W(r), the wind velocity vector field; at each point r throughout Earth’s atmosphere, the wind has a speed and direction represented by a three-component velocity vector.
+
+The second concept is that a magnetic field B is described in terms of a vector potential A, according to: B = curl A. The above vector equation can be written in component notation, without using the curl operator, as: B_x = ∂A_z/∂y – ∂A_y/∂z B_y = ∂A_x/∂z – ∂A_z/∂x B_z = ∂A_y/∂x – ∂A_x/∂y The term vector potential is an extension of vector field: A, is a vector field that specifies an electrodynamic potential complementing the electrostatic potential due to electric charges. Vector potential A, is associated with currents, moving electric charges.
+
+The third concept from Volume II describes how vector potential A affects moving charges. In V3p21-1, Feynman says: "The principle that describes the behavior of quantum mechanics in a vector potential is very simple. The amplitude that a particle goes from one place to another along a certain route when there’s a field present is the same as the amplitude that it would go along the same route when there’s no field, multiplied by the exponential of the line integral of the vector potential, times the electric charge divided by Planck’s constant." (See V2p15-9.)
+
+While all that may be "very simple" to Feynman, let’s go through this carefully. We write his statement mathematically as: <F|S> = <F|S>_{A=0} exp{ i(q/ħ) ∫_Γ A•ds } Here, the integral is along some path that we label Γ, from start S to finish F. This is what Feynman called the "route." The pa The can have any shape whatsoever. At each point P along path Γ, the integrand is A•ds, where ds is the tangent vector at that point, as shown in Figure 33-1.
+
+Figure 33-1 Path Integral Along Γ from S to F This type of integral is appropriately called a path integral. Each path integral requires specifying not only the end points S and F, but also the entire path. In general, a path integral has a different value for different paths, even if the end points are the same.
+
+In this case, the path integral is: ∫ A•ds The presence of a magnetic field, specified by A, modifies the phase of a particle’s amplitude as it traverses path Γ. We express this phase change by multiplying the particle’s amplitude by the following complex exponential: exp{ i(q/ħ) ∫ A•ds } With no magnetic field present (A=0), we denote the amplitude for a particle to go from S to F as: <F|S> A=0 With a magnetic field, Feynman says this amplitude is modified to: <F|S> = <F|S> exp{ i(q/ħ) ∫ A•ds } in A A=0 Γ Putting this modified amplitude into the Schrödinger equation gives us the equation for a particle with charge q in a magnetic field specified by the vector potential A. For non-relativistic velocities and ignoring spin, Feynman says this equation is: iħ ∂ψ/∂t = (1/2m) (P–qA)•(P–qA) ψ + Vψ Here, V is the electrostatic potential energy as before, and the normal momentum operator P is augmented by –q times the vector potential A.
+
+Feynman provides a justification of this equation. The rather lengthy mathematics is provided at the end of this chapter.
+
+Recall our prior discussion regarding probability currents. Without a magnetic field, we found Ĵ = {(ψ* P ψ) + (ψ P* ψ*)}/2m ∂(Prob)/∂t = –(i/ħ) P•Ĵ If we add a magnetic field, the only change is replacing P with P–qA.
+
+Two Kinds of Momentum We are quite accustomed to momentum being mass times velocity: p = mv. Yet in a magnetic field, we find that both the probability current and the Schrödinger equation employ a different quantity in the role of momentum, one that involves the vector potential A. What does this mean?
+
+Feynman says both types of momentum are important, in different roles. He defines these as: “mv-momentum”: p = mv “p-momentum”: p = mv + qA He adds that the same two types of momentum arise in classical physics as well. This is well described in a classic physics textbook titled Classical Electrodynamics by J. D. Jackson. That fine book is not easier to read than the Feynman Lectures.
+
+In V3p21-5, Feynman explains why we need two types of momentum. Consider a solenoid that initially has no current flowing through it. Imagine that at time t=0, a current J begins to flow, growing rapidly and creating both a magnetic field B and an electric field E, as illustrated in Figure 33-2.
+
+Figure 33-2 Charge q Near Solenoid A particle with mass m and charge q is initially at rest, lying near to but outside the solenoid windings.
+
+The vector potential A is zero at t=0, but grows rapidly as the current increases. At time t=Δt, the current and the vector potential both attain their maximum values: J and A respectively. Maxwell’s equations say: (1) the path integral of A around the solenoid (around the dashed circle for example) equals the flux of B through that circle; and (2) a changing A creates an electric field E, in accordance with: E = – dA/dt During the brief time interval Δt, the electric field exerts a force F on charge q, changing the particle’s momentum p. These relationships apply: F = q E dp/dt = F = –q dA/dt Δp = ∫ F dt = –q ∫ (dA/dt) dt Δp = –q A max If J, and therefore A, increase linearly during Δt, the rate of change of p during Δt is: dp/dt = –q A / Δt max If Δt is infinitesimal, the particle’s momentum change Δp occurs almost instantaneously. But, the particle’s wave function ψ does not change as rapidly. The rate of change of ψ is determined by the Hamiltonian equation. Since there is no electrostatic potential V in this case, the Hamiltonian is: iħ 2m ∂ψ/∂t = (P–qA)•(P–qA) ψ We see that ∂ψ/∂t is initially zero and increases in proportion to A2, which can be much less than A / Δt if Δt is small enough. While the particle’s mv-momentum changes abruptly, its p-momentum does not.
+
+dp/dt = –q dA/dt d/dt (p+qA) = d/dt (p-momentum) = 0 Feynman says, when magnetic fields are present, it is the p-momentum that is associated with the momentum operator P and that (P–qA)/m is the operator for velocity.
+
+Cooper Pairs The phenomenon of electric current flowing without resistance derives from a remarkable behavior of electrons flowing in crystals at very low temperatures.
+
+In V3p21-7, Feynman says: “It turns out that due to the interactions of the electrons with the vibrations of the atoms in the lattice, there is a small net effective attraction between the electrons. The result is that the electrons form together, if I may speak very qualitatively and crudely, bound pairs.” Physicists were initially quite surprised to discover that electrons can bind together in any fashion. They are negatively charged particles that repel one another, and they are identical fermions that cannot share a common state. In isolation, these facts certainly preclude electrons binding to one another. But, in the more complex environment of solid matter, other considerations apply. In very simplified terms, as an electron moves through a crystal (a solid with a regularly repeating pattern of atoms), its negative charge attracts atomic nuclei and repels lattice electrons, resulting in a very slight shift of net positive charge, as sketched in Figure 33-3. Figure 33-3 Cooper Pair Moving Through Crystal In Figure 33-3, black dots represent net positive charges, and open circles represent electrons flowing through the crystal, with their velocities indicated by arrows. Positive charges moving toward the right-hand electron, and negative charges moving away from it (not shown in figure), create a small region of net positive charge. That positive charge attracts the left-hand electron, facilitating its passage through the crystal. “Pairing” decreases the energy of two conduction electrons by typically 0.001 eV. This tiny energy is the effective binding energy of what is called a Cooper pair. Cooper pairs are unlike other bound systems. The two electrons may be thousands of atoms apart, and many Cooper pairs can overlap within the same space. Pairs continually form and dissociate. The two spin 1/2 electrons form a composite boson with a total spin of either 0 or 1. A theoretical understanding of this remarkable phenomenon was achieved by John Bardeen, Leon Cooper, and John Schrieffer. For the BCS theory of superconductivity, the three authors received the 1972 Nobel Prize. With a binding energy that corresponds to 11.6K (–261ºC), Cooper pairs are easily disrupted by thermal motion, hence superconductivity exists only below a critical temperature, Tc, which is different for each type of superconducting material. For our purposes, we will consider a superconductor at 0K, absolute zero, to avoid the complications of dissociating Cooper pairs. As identical bosons, Cooper pairs have an enhanced amplitude to occupy the exact same state. We found in Chapter 5 that the probability for a boson to enter a state already occupied by N other identical bosons is proportional to N+1. Hence as the temperature drops and Cooper pairs begin to accumulate in their ground state, they overwhelmingly induce all Cooper pairs to enter the exact same state. In V3p21-8, Feynman defines ψ to be the wave function for one Cooper pair. We will factor ψ into a real function ρ, a real phase function θ, and the normal energy exponential, as follows: ψ(r) = exp{iEt/ħ} exp{iθ(r)} √{ρ(r)/q} The square root of charge factor makes ρ(r) the electric charge density, the particle density multiplied by charge. Recall the equation for particle probability current: Ĵ = {ψ*(P–qA)ψ + ψ(P–qA)*ψ*} /2m Into this equation, let’s insert ψ in the above form. Since the operator (P–qA) has no time derivatives, the factor exp{iEt/ħ} passes through the operator and cancels in ψ*ψ. To reduce clutter, I will show the result in one dimension. Note first that: ∂/∂x exp{±iθ} = ±i ∂θ/∂x exp{±iθ} ∂/∂x √ρ = (1/2ρ) ∂ρ/∂x √ρ ψ*ψ = ρ/q We now evaluate Ĵ. 2mĴ = {ψ*(–qA)ψ + ψ(–qA)*ψ*} + (ħ/i) {ψ* ∂ψ/∂x – ψ ∂ψ*/∂x} {2mĴ +2ρA} (i/ħ) = ψ* (+i)∂θ/∂x ψ + ψ* ∂ρ/∂x ψ /2ρ – ψ (–i)∂θ/∂x ψ* – ψ ∂ρ/∂x ψ* /2ρ {2mĴ +2ρA } (i/ħ) = 2(+i) ∂θ/∂x ρ/q qĴ = (ħ/m) { ∂θ/∂x – (q/ħ) A } ρ Generalizing to three dimensions, and substituting electric current J for charge q times probability current Ĵ: J = (ħ/m) { Ďθ – (q/ħ) A } ρ Note that m and q are the mass and charge of a Cooper pair, each twice that of the electron. Here, Ďθ is the gradient of θ, which is the vector (∂θ/∂x, ∂θ/∂y, ∂θ/∂z). Also, J is the electric current density and ρ is the electric charge density, both of which are real physical quantities that describe the superconducting electron gas. The gradient of θ is therefore also a real measurable quantity. By equating current density with (charge density) × (charge velocity v), we obtain: J = ρv = (ħ/m) { Ďθ – (q/ħ) A } ρ mv = ħ Ďθ – q A We see again the relationship between mv-momentum and p-momentum. Superconductivity Ordinarily, when electric current flows through a solid, current-carrying electrons are occasionally scattered by atoms and diverted into another state. This continual loss of conduction electrons is what we call electrical resistance. However, in superconducting materials, current is carried by Cooper pairs that are united in one common state. The amplitude for each pair to remain in that common state is extremely high, due to boson statistics. The motion of lattice atoms, muted by very low temperature, is no longer sufficient to scatter one electron out of its collective. Once initiated, an electric current will continue to flow “forever.” Superconducting currents have been observed to persist for years without measurable loss, and it is estimated that their lifetime is at least 10^5 years.
+
+至少100,000年。
+
+普通金属在30K（-243ºC）以上不超导，但已制造出能在高达138K（-135ºC）下超导的特殊材料。然而，至今尚未发现超导的“圣杯”：一种能在77K（液氮沸点）以上温度承载大电流并保持超导的实用材料。这一追求的目标更多是经济性的而非物理性的。最实用的冷却剂是液氮和液氦。当我读研究生时，普遍认为液氮价格与牛奶相当，而液氦价格与苏格兰威士忌相当。如今两种冷却剂的价格都只有对应饮料的三分之一，但液氦成本仍是液氮的50倍。大规模应用超导技术，例如将偏远太阳能和风能农场的交流电输送到大城市的消费者，仍然在经济上不可行。
+
+迈斯纳效应如果磁场不太强，超导体会将其内部排除在外。如果将超导体置于从零开始增加的外部磁场中，变化的磁通密度会产生电场。该电场在超导体中驱动电流，产生相反的磁场，恰好抵消外部磁场。正如费曼所说：“由于所有电子将一起运动，一个微小的电场将产生足够的电流来完全抵消任何施加的磁场。”
+
+磁场排除的一个戏剧性证明是迈斯纳效应。想象一块磁铁停在超导金属上，所有物体最初温度远高于超导体的临界温度。如果现在将所有物体冷却到临界温度以下，超导体中将产生一个小电流，该电流产生一个磁场，在超导体内抵消并抵消磁铁的磁场。相反的磁场将磁铁从超导体上悬浮起来，如图33-4所示。
+
+图33-4 迈斯纳效应图片来源：Mai-Linh Doan
+
+费曼指出，迈斯纳效应可以由此处推导的方程解释。他首先采用标准的库仑规范，其中矢量势A的散度为零。由于电场和磁场是通过A的导数计算的，A本身的值并未完全确定。我们可以在不影响E或B的情况下自由地以任何方式约束它；物理学家通常采用库仑规范。
+
+费曼说，在任何平衡条件下，电流J的散度必须为零，“因为它无处可去”——在平衡状态下，电流不能持续流入或持续流出任何选定区域。电荷密度ρ也必须恒定且几乎完全均匀，因为在导电材料中不平衡的电荷会被迅速中和。了解这些后，我们取J的散度。
+
+∇·J = 0 = { ħ ∇·∇θ –q div(A)} ρ/m 0 = ∇·∇θ = ∇²θ 0 = ∇²θ = ∂²θ/∂x² + ∂²θ/∂y² + ∂²θ/∂z²
+
+在V3p21-9中，费曼说：“∇²θ在金属块内部处处为零的唯一方式是θ为常数。”从数学上讲，∇²f=0并不意味着f=常数；一个简单的反例是f=7x。费曼的陈述基于物理学，基于“在金属块内部”的本质，即导体。不幸的是，他没有在此解释这一点物理学。
+
+如果θ在整个超导体中为常数： J = – q A ρ/m
+
+从电磁学方程我们也得到： ∇²A = – J / εc²
+
+将前面两个方程结合得到： ∇²A = A ρq / (εmc²) = A / λ² 其中 1 / λ² = ρq / (εmc²)
+
+一维情况下A的解为： A = A exp{–x/λ}
+
+这里我们排除了不真实的+x/λ选择，因为那会使解趋于无穷大。对于负指数，且x是从表面起算的距离，A从表面向超导体内部指数衰减，平均衰减长度为λ。对于像铅这样的金属，λ为20纳米，约50个原子直径。这意味着只有超导体表面非常薄的一层承载着抵消外部磁场的电流。
+
+磁通量子化弗里茨和海因茨·伦敦兄弟是众多逃离纳粹迫害的犹太物理学家（包括马克斯·玻恩）中的两位，他们于1933年流亡。1935年，在BCS超导理论提出很久之前，伦敦和伦敦提出了他们自己的超导理论。他们预测了磁通量子化：在适当条件下，他们说磁通量必须是某个特定值的整数倍。
+
+涉及磁通量子化的一个条件如图33-5所示。我们从部分(a)开始，其中超导材料环的温度高于其临界温度，置于外部磁场B_ext中。此时，磁场存在于整个环体中。
+
+图33-5 超导环与磁场
+
+在部分(b)中， The ring has been cooled to well below its critical temperature. Now, B_ext is excluded from the body of the ring by the small surface current described in the prior section, but B_ext is still present in the hollow core inside the ring. Note that the field lines near the ring are bent outward by the cancelling magnetic field created by the superconductor. In part (c), B_ext has been turned off. Magnetic flux Φ persists in the hollow core because Maxwell’s equations state that ∂Φ/∂t is proportional to the path integral of E around any circle that surrounds Φ. In particular, we choose path Γ that is completely within the superconducting material, well away from its surface, as shown in Figure 33-6. Since there can be no electric field within the interior of a superconductor, this path integral equals zero, making ∂Φ/∂t zero as well. As B_ext goes to zero, a small surface current flows around the superconducting ring that maintains a magnetic field through its hollow core, permanently trapping the magnetic flux. Figure 33-6 shows a top view of the superconducting ring and path Γ that encircles its hollow core. In V3p21-10, Feynman says the argument he made for θ being constant "inside a lump of metal" works for a solid block but not for a ring. Again he provides no explanation. Let’s explore the consequences of this difference. Recall a prior equation for the case of zero electric current: 0 = J = (ħ/m) { Ďθ – (q/ħ) A } ρ, ħ Ďθ = qA. Let’s now integrate this equation along path Γ. We start at the 3-o’clock position in Figure 33-6, at ø=0, and integrate counterclockwise around the circle to ø=2π. ħ ∫_Γ Ďθ • ds = q ∫_Γ A • ds. Maxwell’s equations say: ∫ A • ds = Φ. Here Φ is the magnetic flux passing through Γ. Our integral from ø=0 to ø=2π becomes: ∫ Ďθ • ds = (q/ħ) Φ. A useful theorem says that the integral of the gradient of any function g from point Y to point Z equals g(Z)–g(Y). That theorem is more obvious if one considers its one-dimensional version: ∫_Y^Z ∂g(x)/∂x dx = g(Z) – g(Y). The result is: θ(ø=2π) – θ(ø=0) = (q/ħ) Φ. Recall that θ is the r-dependent phase of the wavefunction, according to: ψ(r) = exp{iEt/ħ} exp{iθ(r)} √{ρ(r)/q}. Since ø=0 and ø=2π are the same point, we’d normally leap to say θ(ø=2π) must equal θ(ø=0). But leap carefully; after all, this is quantum mechanics. Here, all we really know is that any wave function ψ is single-valued, meaning it has only one value at each point in space and time. Hence, the quantum requirement is: ψ(ø=2π) = ψ(ø=0). This will be true as long as: exp{iθ(ø=2π)} = exp{iθ(ø=0)}, θ(ø=2π) = θ(ø=0)+2nπ, for any integer n. Combining this with the path integral of A yields: 2nπ = (q/ħ) Φ, Φ = 2nπħ/q. This means the trapped flux is quantized, always being an integer multiple of 2πħ/q. The Londons derived this formula, and using the electron’s charge for q, they predicted the flux quantum was 4×10⁻⁷ gauss-cm². For comparison, Londons’ flux quantum is 1% of the flux of Earth’s magnetic field through a circle with a cross-section of one human hair (0.1 mm diameter). In V3p21-11, Feynman tells the amusing story of the search for the flux quantum: “In 1961 such a quantized flux was looked for and found by Deaver and Fairbank at Stanford University and at about the same time by Doll and Näbauer in Germany. In the experiment of Deaver and Fairbank, a tiny cylinder of superconductor was made by electroplating a thin layer of tin on a one-centimeter length of No. 56 (1.3×10⁻³ cm diameter) copper wire. The tin becomes superconducting below 3.8K while the copper remains a normal metal. The wire was put in a small controlled magnetic field, and the temperature reduced until the tin became superconducting. Then the external source of field was removed. You would expect this to generate a current by Lenz’s law so that the flux inside would not change. The little cylinder should now have magnetic moment proportional to the flux inside. The magnetic moment was measured by jiggling the wire up and down (like the needle on a sewing machine, but at the rate of 100 cycles per second) inside a pair of little coils at the ends of the tin cylinder. The induced voltage in the coils was then a measure of the magnetic moment. When the experiment was done by Deaver and Fairbank, they found that the flux was quantized, but that the basic unit was only one-half as large as London had predicted. Doll and Näbauer got the same result. At first this was quite mysterious, but we now understand why it should be so.” The BCS theory explains that current in superconductors is carried by Cooper pairs, whose charge is that of two electrons. Therefore the true flux quantum is: Φ₀ = πħ/q_e = 2×10⁻⁷ gauss-cm². Dynamics of Superconductivity. In V3p21-12, Feynman begins discussing magnetohydrodynamics, although he doesn’t use that name. This is the study of the dynamics of electrically conducting fluids. Here the conducting “fluid” is a stream of Cooper pairs. Even on the Feynman scale, m 磁流体力学对入门物理课程来说过于深奥。本节内容结合了部分证明和引用结果，我将只提供主要结果。费曼指出超导电子流体的运动方程为：
+
+curl v = –qB/m，其中 v = {ħ ∇θ –qA}/m m [∂v/∂t + v•∇v] = q(E+v×B) – ħ² ∇{∇²(√ρ)} /2√ρ
+
+上式括号中的项称为流体的随体加速度。
+
+**约瑟夫森结** 在第20章中，我们发现了不同半导体材料连接时产生的一个显著现象：晶体管。现在我们考察超导材料连接时产生的另一个显著现象：约瑟夫森结。威尔士理论物理学家 B. D. 约瑟夫森在1962年预言了此效应，并因此获得了1973年诺贝尔奖。
+
+约瑟夫森结由两个超导区域被一层薄绝缘体隔开构成，如图33-7所示。
+
+图33-7 两个超导体之间的薄绝缘层
+
+如果绝缘体足够薄，一个超导区域中的电子可以通过势垒隧穿穿透到另一个区域，这是一种独特的量子力学效应。
+
+为分析该结，我们定义 ψ₁ 为区域1中库珀对的波函数，ψ₂ 为区域2中的波函数。费曼强调，在极低温度下，本质上区域1中的所有导电电子都处于相同状态 ψ₁，区域2中处于 ψ₂。
+
+我们从最简单的情况开始。假设两个区域由相同材料制成，且没有外部磁场。那么我们有一个对称的双态系统，两个波函数满足：
+
+iħ ∂ψ₁/∂t = E₁ ψ₁ + K ψ₂ iħ ∂ψ₂/∂t = E₂ ψ₂ + K ψ₁
+
+其中，K 是库珀对从一个区域跃迁到另一个区域的振幅，E₁ 和 E₂ 是每个区域中库珀对的能级。如果完全对称，则 E₁=E₂。
+
+现在假设我们将超导区域连接到电池的两端，从而建立：
+
+E₁ – E₂ = qV
+
+为方便，我们将零点能量设在 E₁ 和 E₂ 的中点，于是：
+
+iħ ∂ψ₁/∂t = + ψ₁ qV/2 + K ψ₂ iħ ∂ψ₂/∂t = – ψ₂ qV/2 + K ψ₁
+
+接下来，我们再次用实函数 ρ 和 θ 来分解波函数：
+
+ψ₁ = exp{iθ₁} √ρ₁ ψ₂ = exp{iθ₂} √ρ₂
+
+在 V3p21-15 中，费曼给出了将 ψ₁ 和 ψ₂ 代入哈密顿方程后的结果。我在本章末尾提供了推导。为简化，定义 δ=θ₂–θ₁。结果为：
+
+ħ ∂ρ₁/∂t = +2K√(ρ₁ ρ₂) sinδ ħ ∂ρ₂/∂t = –2K√(ρ₁ ρ₂) sinδ ħ ∂θ₁/∂t = –qV/2 +K√(ρ₂/ρ₁) cosδ ħ ∂θ₂/∂t = +qV/2 +K√(ρ₁/ρ₂) cosδ
+
+两个 ∂ρ/∂t 方程表明有一个电流 J 从区域2流向区域1，其中：
+
+J = J₀ sinδ J₀ = (2K/ħ) √(ρ₁ ρ₂)
+
+该电流由维持电压 V 的外部电池提供。我们的计算中未包含该电流。完整分析表明，结的物理特性（K 和 ρ 值）驱动电流 J₀，而电池维持恒定的电荷密度 ρ₁ 和 ρ₂。
+
+两个 ∂θ/∂t 方程给出了 δ 的导数：
+
+∂(δ)/∂t = ∂θ₂/∂t – ∂θ₁/∂t = qV/ħ
+
+积分该方程得到：
+
+δ(t) = δ₀ + (q/ħ) ∫ V(t) dt
+
+这里 δ₀ = δ(t=0)，q 是库珀对电荷。电流方程仍为：
+
+J = J₀ sinδ
+
+费曼指出最后两个方程构成了约瑟夫森结的一般理论。
+
+对于 1 伏电压和 ħ=6.6×10⁻¹⁶ eV·秒，qV/ħ = 1/(3.3×10⁻¹⁶ 秒)，sin(qVt/ħ) 每秒振荡 480 万亿次。因此，在任何可感知的时间间隔内的平均电流为零。
+
+奇怪的是，当施加零电压（用导线代替电池）时，恒定电流可以在 –J₀ 到 +J₀ 之间的任何值流动，由恒定的 δ₀ 决定。一旦施加非零电压，该电流立即停止，正如安德森和罗维尔所观察到的。
+
+现在考虑施加一个两分量电压：
+
+V(t) = V₀ + ε cos(ωt)，其中 ε<<V₀
+
+于是有：
+
+δ(t) = δ₀ + (q/ħ){V₀t + ε sin(ωt)/ω}
+
+回顾两角和的正弦公式：
+
+sin(ø+β) = sinø cosβ + sinβ cosø
+
+若 β<<1，则简化为：
+
+sin(ø+β) = sinø + β cosø
+
+现在我们在 qε/ħω << 1 的假设下计算 sin{δ(t)}：
+
+sin{δ(t)} = sin{δ₀ +(qV₀t/ħ)} + (qε/ħω) sin(ωt) cos{δ₀ +(qV₀t/ħ)}
+
+该方程右边第一项如前所述平均值为零。我们可以将第二项重写为：
+
+sin{δ(t)} = (qε/2ħω) sin{ωt +δ₀ +(qV₀t/ħ)}
+
+除非满足以下条件，否则右边也会迅速平均为零：
+
+ω = – qV₀/ħ
+
+这一共振现象由 S. 夏皮罗首次观察到。
+
+在其两年课程的最后一个主题中，费曼探讨了两个约瑟夫森结之间的干涉，即我们现在所称的 SQUID——超导量子干涉器件。类似于双缝实验中的量子干涉（回忆《费曼简明教程》第1卷第1章），当两个约瑟夫森结并联连接时，如图33-8所示，电流...
+
+currents through the two junctions interfere quantum mechanically.
+
+Figure 33-8 SQUID With 2 Josephson Junctions Here Γ is a closed path that passes through P and Q, and encircles the hollow core of a SQUID. Detectors monitor J_sum, the total current flowing through the SQUID from P to Q. Define J_a and J_b to be the current flowing through junction a and junction b. Interference arises when J_a and J_b arrive at Q with different phases.
+
+Recall our earlier equation for the phase change along a path Γ: Δphase = (q/ħ) ∫ A•ds Let δ_P be the phase of the Cooper pairs at P. The phase at Q of the current passing through junction a, the upper half of the SQUID, is: δ_Qa = δ_P + (q/ħ) ∫ A•ds, along upper half of Γ For the current passing through junction b, the phase at Q is: δ_Qb = δ_P + (q/ħ) ∫ A•ds, along lower half of Γ From Maxwell’s equations, we also know that the total path integral along Γ equals the magnetic flux Φ through Γ, according to: Φ = ∫ A•ds Here the sign convention, per the right-hand-rule, requires traversing path Γ in the counterclockwise direction. The integral along the lower half of Γ goes counterclockwise, while the integral along the upper half of Γ goes clockwise. We must therefore flip the sign of the integral along the upper half of Γ. This yields: Φ = ∫ A•ds, P to Q along lower half – ∫ A•ds, P to Q along upper half (q/ħ) Φ = δ_Qb – δ_Qa Here again, q is the Cooper pair charge, which equals 2q_e, twice the electron charge.
+
+For convenience, assume half the total phase shift occurs on the upper path and half on the lower path. We can then express the two currents as: J_a = J_0 sin{δ_P + q_eΦ/ħ} J_b = J_0 sin{δ_P – q_eΦ/ħ} J_sum = J_a + J_b = J_0 sin{δ_P} cos{q_eΦ/ħ} While we cannot predict the value of δ_P, we can predict that the current will be modulated sinusoidally as a function of Φ. The current attains its greatest positive or negative value when: q_eΦ/ħ = nπ, for any integer n Φ = nπħ/q_e This is the flux quantum that we found earlier when we analyzed a superconducting ring. SQUIDs are the most sensitive devices for measuring magnetic fields. They can detect fields as small as 10–15 Tesla, about 10 trillionths of Earth’s magnetic field.
+
+Josephson Wave Functions Derivation Here is the derivation of the wave functions of Cooper pairs on opposite sides of a Josephson junction. The Hamiltonian equations are: iħ ∂ψ_1/∂t = + ψ_1 qV/2 + K ψ_2 iħ ∂ψ_2/∂t = – ψ_2 qV/2 + K ψ_1 We factor the wave functions as we did earlier for Cooper pairs: ψ_1 = exp{iθ_1} √ρ_1 ψ_2 = exp{iθ_2} √ρ_2 Recall the derivatives of these terms: ∂/∂t exp{iθ} = i ∂θ/∂t exp{iθ} ∂/∂t √ρ = (1/2ρ) ∂ρ/∂t √ρ ∂/∂t [√ρ exp{iθ}] = {(1/2ρ) ∂ρ/∂t + i ∂θ/∂t} [√ρ exp{iθ}]
+
+We now put ψ_1 in this form into the left side of the Hamiltonian for region 1, and separate the real and imaginary terms.
+
+iħ ∂ψ_1/∂t = iħ{(1/2ρ_1) ∂ρ_1/∂t + i ∂θ_1/∂t} √ρ_1 {cosθ_1 + i sinθ_1} = iħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t cosθ_1 + i ∂θ_1/∂t cosθ_1 + (1/2ρ_1) ∂ρ_1/∂t (i sinθ_1) + i ∂θ_1/∂t (i sinθ_1)} = iħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t cosθ_1 – ∂θ_1/∂t sinθ_1 + (1/2ρ_1) ∂ρ_1/∂t (i sinθ_1) + i ∂θ_1/∂t cosθ_1} = iħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t cosθ_1 – ∂θ_1/∂t sinθ_1} – ħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t sinθ_1 + ∂θ_1/∂t cosθ_1} Next, we put these expressions into the entire region 1 Hamiltonian equation, and separate the imaginary and real parts that must equate independently. This results in two equations.
+
+iħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t cosθ_1 – ∂θ_1/∂t sinθ_1} = +i√ρ_1 sinθ_1 qV/2 + iK√ρ_2 sinθ_2 – ħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t sinθ_1 + ∂θ_1/∂t cosθ_1} = + √ρ_1 cosθ_1 qV/2 + K√ρ_2 cosθ_2 Multiply the upper equation by cosθ_1/i and multiply the lower equation by sinθ_1 to get: ħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t cos^2θ_1 – ∂θ_1/∂t cosθ_1 sinθ_1} = +{√ρ_1 sinθ_1 qV/2 + K√ρ_2 sinθ_2} cosθ_1 – ħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t sin^2θ_1 + ∂θ_1/∂t sinθ_1 cosθ_1} = +{√ρ_1 cosθ_1 qV/2 + K√ρ_2 cosθ_2} sinθ_1 Subtracting the lower equation from the upper one yields: ħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t} = +K√ρ_2 {sinθ_2 cosθ_1 – cosθ_2 sinθ_1} ħ ∂ρ_1/∂t = +2K√(ρ_1 ρ_2) sin(θ_2 – θ_1)
+
+Now, going back to the real and imaginary equations from the Hamiltonian, multiply the upper equation by sinθ_1/i and multiply the lower equation by cosθ_1 to get: ħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t cosθ_1 sinθ_1 – ∂θ_1/∂t sin^2θ_1} = +{√ρ_1 sinθ_1 qV/2 + K√ρ_2 sinθ_2} sinθ_1 – ħ√ρ_1 {(1/2ρ_1) ∂ρ_1/∂t sinθ_1 cosθ_1 + ∂θ_1/∂t cos^2θ_1} = +{√ρ_1 cosθ_1 qV/2 + K√ρ_2 cosθ_2} cosθ_1 Adding these two equations yields: ħ√ρ_1 {– ∂θ_1/∂t} = +√ρ_1 qV/2 + K√ρ_2 {sinθ_2 sinθ_1 + cosθ_2 cosθ_1} ħ ∂θ_1/∂t = –qV/2 + K√(ρ_2/ρ_1) cos(θ_2 – θ_1)
+
+The equations for ψ_2 are simply obtained by switching the indices and the polarity of V.
+
+ħ ∂ρ_2/∂t = –2K√(ρ_1 ρ_2) sin(θ_2 – θ_1)
+
+ħ ∂θ_2/∂t = +qV/2 + K√(ρ_1/ρ_2) cos(θ_2 – θ_1)
+
+QED Finding Schrödinger’s Equation For Electron In A Magnetic Field As we did in justifying Schrödinger’s equation without a magnetic field, our approach here is to derive an equation for an electron moving along an infinite line of atoms in a magnetic field. We beg in with an atomic spacing of b. Later, we will take the limit as b goes to zero and delete the atoms. Let the atoms lie along the x-axis. For the case of no magnetic field, let the amplitude for an electron to jump from one atom to either of its immediate neighbors be –K, and let the amplitude to jump to more distant atoms be zero. As found in V2p15-9, adding a magnetic field replaces –K with: –K exp{ i(q/ħ) ∫ A•ds}
+
+For a line of atoms, path Γ is entirely along the x-axis and the path length is b. We need only concern ourselves with the x-component of A(x) that we will simply call A. Define function f(u) as: f(u) = (q/bħ) ∫ Adx, from x=u–b/2 to x=u+b/2
+
+With this definition, u is the midpoint of the path. For an electron jumping from x–b to x, the integral we want is: (q/ħ) ∫ A•ds = + b f(x–b/2)
+
+For an electron jumping from x+b to x, the integration limits reverse for the path integral on the left side of the prior equation, but not on the right side; f(u) is still integrated from x=u–b/2 to x=u+b/2. Here we have: (q/ħ) ∫ A•ds = – b f(x+b/2)
+
+We have solved the line-of-atoms problem several times before, including Chapter 18 (there the transition amplitude was –A; here it is –K). As before, we define C(x) to be the amplitude for an electron to be at the atom at position x. The rate of change of C(x) is given by the Hamiltonian equation: iħ ∂C(x)/∂t = (E + V) C(x) –K exp{–ib f(x+b/2)} C(x+b) –K exp{+ib f(x–b/2)} C(x–b)
+
+Here, the upper line is the energy of the electron at position x, with V being the electrostatic potential energy. The middle line is the amplitude for the electron to jump to x from x+b, and the lower line is the amplitude to jump to x from x–b.
+
+We now take the limit as b becomes infinitesimal. When we did this before, we found that the important terms were of order b2, so as we take this limit, we will keep terms up to order b2 and drop terms proportional to b3, b4, etc.
+
+We first take the limit of f(u). As b goes to zero, ∫ Adx approaches A at the midpoint of the integral multiplied by ∫ dx=b. Since each exponent contains f multiplied by b, we need f up to order b1. Let’s reduce clutter a bit more by defining e=q/ħ, and by dropping “(x)” where doing so will not be confusing.
+
+In what follows, we will repeatedly use Taylor’s theorem for the series expansion of derivatives of any smooth function g(x): g(x+Δ) = g(x) + ∂g/∂x Δ + ∂2g/∂x2 Δ2/2! + …
+
+Recall the definition of f(u): f(u) = (e/b) ∫ Adx, from x=u–b/2 to x=u+b/2
+
+As b goes to zero, the limits of f(x+b/2) and f(x–b/2) are: f(x+b/2) –> (e/b) A(x+b/2) b = e A(x+b/2) = e[A + ∂A/∂x (b/2)] and f(x–b/2) –> (e/b) A(x–b/2) b = e A(x–b/2) = e[A – ∂A/∂x (b/2)]
+
+The exponentials become: exp{–ib f(x+b/2)} = 1 –ibf(x+b/2) –b2f2(x+b/2)/2 = 1 –ibe[A + ∂A/∂x (b/2)] – b2e2A2/2 and exp{+ib f(x–b/2)} = 1 +ibf(x–b/2) –b2f2(x–b/2)/2 = 1 +ibe[A – ∂A/∂x (b/2)] – b2e2A2/2
+
+We next approximate the C’s. C(x+b) –> C(x) + ∂C/∂x b + ∂2C/∂x2 b2/2 and C(x–b) –> C(x) – ∂C/∂x b + ∂2C/∂x2 b2/2
+
+Hold your breath as we put all this together. Let’s work first on the middle line of the Hamiltonian equation, keeping terms up to b2. exp{–ib f(x+b/2)} C(x+b) = {1–ibe[A + ∂A/∂x b/2] – b2e2A2/2} × {C + ∂C/∂x b + ∂2C/∂x2 b2/2} = C + ∂C/∂x b + ∂2C/∂x2 b2/2 – Cb2e2A2/2 –(ibe){CA + ∂C/∂x A b + C ∂A/∂x b/2}
+
+Now the lower line. exp{+ib f(x–b/2)} C(x–b) = {1+ibe[A – ∂A/∂x b/2] – b2e2A2/2} × {C – ∂C/∂x b + ∂2C/∂x2 b2/2} = C – ∂C/∂x b + ∂2C/∂x2 b2/2 – Cb2e2A2/2 +(ibe){CA – ∂C/∂x A b + C ∂A/∂x b/2}
+
+The sum of those two expressions is: exp{–ibf(x+b/2)}C(x+b)+exp{ibf(x–b/2)}C(x–b) = 2C +∂2C/∂x2 b2 – Cb2e2A2 –2(ibe){ ∂C/∂x A b} = 2C +b2 {∂2C/∂x2 – Ce2A2 –2(ie) ∂C/∂x A}
+
+The Hamiltonian becomes: iħ ∂C/∂t = (E + V)C – 2KC –Kb2 {∂2C/∂x2 – Ce2A2 –2(ie) ∂C/∂x A}
+
+To rewrite this, note that: {∂/∂x –ieA} {∂/∂x –ieA} C = ∂2C/∂x2 – Ce2A2 –2ieA ∂C/∂x
+
+Making this substitution, we obtain: iħ ∂C/∂t = (E +V –2K) C –Kb2 {∂/∂x –ieA} {∂/∂x –ieA} C
+
+Almost there! We derived an equation for effective mass in Chapter 18, and then found in Chapter 22 that, in the limit of b going to zero and the atoms being removed, the effective mass becomes the electron’s true mass. That equation, with K as the transition amplitude, is: m = ħ2 / (2Kb2) –> meff and Kb2 –> ħ2 / 2m
+
+Substituting this, e=q/ħ, P=(ħ/i)∂/∂x, and choosing E=2K, yields: iħ ∂C/∂t = V C –(ħ2/2m) (i/ħ)2 (P – qA) {P – qA} C
+
+Since this equation is valid for every C, it must also be valid for the wave function ψ that is a linear combination of the C’s. Generalizing to three dimensions, we finally obtain Schrödinger’s equation for an electron in a magnetic field, matching what Feynman claimed. iħ ∂ψ/∂t = (P–qA)•(P–qA) ψ/2m + Vψ
+
+QED
+
+## Chapter 33 Review: Key Ideas
+
+• Superconductivity is the property of conducting electric current with absolutely zero resistance. From actual observations, the estimated lifetime of superconducting currents is at least 100,000 years. Theoretical estimates exceed the age of the universe.
+
+• Many materials, but not all, are superconducting at sufficiently 超导性在极端低温下产生，原子量子效应导致了这一宏观现象。这是因为较高能态“冻结”，行为由剩余态的离散性决定。费曼指出：“即使在宏观层面，基态的量子力学特性也显而易见。
+
+在磁场存在时，有两种重要的动量，各自作用不同。费曼将其定义为： “mv动量”：p = mv “p动量”：p = mv + qA 其中矢量势A定义为： B = curl A，divergence {A} = 0 他补充说，这两种动量同样出现在经典物理学中。
+
+简化来说，超导的BCS理论指出：当电子穿过晶体时，其负电荷吸引原子核并排斥晶格电子，形成小区域的净正电荷。该正电荷吸引其他电子，帮助它们通过晶体。电子对在特殊意义上相互吸引，形成库珀对，结合能通常为0.001 eV。两个自旋为1/2的电子形成一个复合玻色子，总自旋为0或1。正是库珀对在超导体中承载电流。“配对”电子可能相隔数千个原子，许多库珀对可在同一空间重叠。配对不断形成和解离。
+
+库珀对的波函数以及配对电流和动量的方程为： (√q) ψ(r) = exp{iEt/ħ} exp{iθ(r)} √{ρ(r)} J = ρv = (ħ/m) { Ďθ – (q/ħ) A } ρ mv = ħ Ďθ – q A
+
+超导体相关的磁通量子为： Φ = πħ/q = 2×10–7 高斯-厘米² 0 e
+
+费曼指出，形成约瑟夫森结理论的方程为： δ(t) = δ + (2q/ħ) ∫ V(t) dt 0 e J = J sinδ J = (2K/ħ) √(ρ ρ )
+
+0 1 2
+
+SQUIDs，即超导量子干涉装置，是测量磁场最灵敏的仪器。它们能检测到低至10–15特斯拉的磁场，约为地球磁场的十万亿分之一。通过SQUID的电流J与以下量成正比： J ~ cos{qΦ/ħ}
+
+费曼在结束量子力学课程时，向他的全男生班级（遗憾的是，加州理工学院当时尚未实现男女同校）给出了这一建议： “我很遗憾地告诉各位先生，要参与这场冒险[物理科学]，绝对必须尽快学会量子力学。我们曾希望在这门课程中，尽早让你们理解这部分物理学的奥秘。”
+
+## 第34章
+
+坍缩、纠缠与隐形传态接下来的两章探讨了自费曼精彩的《物理学讲义》以来，量子力学在50年间的发展。
+
+波函数坍缩量子力学中最大的未解之谜是波函数坍缩。
+
+在1927年的索尔维会议上，物理学界巨头齐聚一堂，爱因斯坦对量子力学中“完全奇特的超距作用机制”表示担忧，该理论认为波函数在发生相互作用时会瞬间在所有地方坍缩。
+
+尽管看似怪异，波函数坍缩对于将量子力学与经典科学观察的既定现实联系起来至关重要。几个世纪以来，科学家们对许多物理量进行了无数测量，包括位置、质量、速度和温度。每次测量都得到一个确定的单一值。例如，我们从未发现一个足球或电子同时位于两个不同的位置。
+
+然而，量子力学指出电子可以同时位于不同位置。它的波函数提供了每个不同位置的振幅，以及相应的概率，这些概率之和为100%。但是，当我们测量电子的位置时，我们从未发现它25%在这里、75%在那里；我们总是发现它100%位于一个确切的位置。为了与测量结果产生单一确定值的现实保持一致，量子波函数必须在发生任何实质性干扰的瞬间坍缩。特别是在测量的瞬间，量子力学必须产生该测量的单个允许值：波函数必须立即坍缩到所测量物理量的本征态。
+
+波函数坍缩的触发是实质性的干扰，无论这种干扰是否由人为引起。
+
+我们在本课程开始时讨论的双缝实验，提供了一个生动的波函数坍缩例子。如图34-1所示，该实验包括粒子源S、带有双缝的屏障和探测器F。通过双缝的相干粒子波在探测器处组合，产生干涉条纹——高强度和零强度的交替条纹。
+
+图34-1 双缝实验如果源S发射光，双缝实验很容易进行，但困难得多。
+
+t if S emits electrons. Dr. Tonomura accomplished the latter using an electron emission rate that allowed only one electron at a time to traverse the apparatus. In Figure 34-2, the right-hand image, with 140,000 detected electrons, clearly shows interference fringes; this proves electrons are waves. In the left- hand image, with only 200 detected electrons, the tiny dots prove electrons are particles since each strikes only a single point on the detector.
+
+Figure 34-2 Images by Dr. Tonomura of Hitachi The same electrons produced both images, the only difference is that there are many more of them in the right image. Since only one electron was in the apparatus at a time, the undeniable conclusion is that electrons have both particle and wave properties. Each electron must pass through both slits simultaneously and interfere with itself at F, producing a single tiny dot. But the collection of those dots is determined by the interference fringe pattern.
+
+Figure 34-2 proves that each electron’s wave function extends broadly enough to span both slits, but collapses to a tiny point as it interacts with the atoms in the detector.
+
+At the detector, each electron’s wave is at least 10,000 times wider than the tiny dots. Somehow, of the 108 spots where the electron might interact, a single impact point emerges. At that point, the interaction probability instantaneously changes from 10–8 to 1, while the interaction probability everywhere else simultaneously becomes zero. Each electron interacts once and only once, but exactly where it will interact is completely undetermined until the instant the interaction occurs.
+
+If wave function collapse was not universal and instantaneous, we would occasionally observe two electron strikes from a single electron wave. One might imagine that two hits could occur if they were nearly simultaneous and sufficiently separated: if a signal from the first, traveling at light speed, couldn’t reach the second before its interaction. Two hits from one wave would violate the conservation of electric charge, while communication at greater than light speed would violate special relativity. Both of those hallowed principles are even more extensively and precisely confirmed than is quantum mechanics. Indeed, no one has ever observed a violation of charge conservation or faster than light travel, even though the latter is seemingly required by wave function collapse.
+
+To be consistent with observed reality, universal, instantaneous wave function collapse is essential, but quantum mechanics offers no explanation for the mechanism that achieves this.
+
+After nearly a century, Einstein’s quandary remains unresolved: exactly how does the wave function collapse everywhere simultaneously?
+
+Interpretation: Copenhagen & Beyond The formalism of quantum mechanics is solid; its equations are clear, complete, and comprehensive.
+
+Its predictions have been validated by tens of thousands of high-precision experiments. The equations of quantum mechanics match what we observe in nature. The mathematical, mechanistic side of quantum mechanics is one of science’s greatest triumphs. However, physicists have substantially divergent views on its interpretation — what does quantum mechanics really tell us about the fundamental processes of nature?
+
+Newton and Einstein espoused a clear philosophy of nature. The success of their theories was established by experimental confirmation, but physicists clearly understood the world-views upon which their theories were based. In fact, Newton and Einstein established their world-views first and then derived the formalisms of their theories. Einstein, for example, postulated the constancy of the speed of light and from that derived the equations of special relativity.
+
+Quantum mechanics is different: its formalism is clear but its world-view is fuzzy. With its indeterminacy and wave function collapse, quantum mechanics remains incompletely digested more than 100 years after its inception. We know how to do the math, but we are still searching for a clear understanding of what quantum mechanics says about nature.
+
+So far in this course, we have presented only the standard, conventional, most widely accepted, world-view of quantum mechanics: the Copenhagen interpretation championed by Niels Bohr. It is the default theory to which physicists return when other ideas fail. It has achieved great success, but many physicists believe it lacks critical explanations, motivating them to intensively search for alternative interpretations.
+
+The sheer number of alternative interpretations attests to physicists’ great unease with the world-view of quantum mechanics. The most prominent interpretations, with representative dates, are: Copenhagen [1924]; pilot waves [1952]; many-worlds [1957]; modal [1969]; consistent histories [1984]; many-minds [1988]; quantum event [1989]; and relational quantum mechanics [1996]. None of the alternative interpretations has been widely accepted, at least not yet.
+
+Through t The course of this chapter and the next, we will describe the three most interesting alternatives, starting with the most expansive.
+
+Many Worlds / Parallel Universes American physicists Hugh Everett in 1957, and Bryce Seligman DeWitt in the 1960s, proposed a hypothesis that is variously called the “many worlds” or “parallel universes” theory. (Be aware that there are many other “parallel universes” theories that have nothing to do with quantum uncertainty.) The Everett-DeWitt hypothesis is an alternative approach to the uncertainty that is central to quantum mechanics, and is perhaps best explained by considering the fate of Schrödinger’s Cat.
+
+In this politically incorrect thought experiment, a healthy cat is sealed in a box with a radioactive source, a bottle of poison gas, and a detector that opens the bottle when the source decays. Quantum mechanics explains that radioactive sources decay at completely unpredictable moments but at precisely predictable rates. As time passes, the probability that the source has already decayed steadily increases. When that probability reaches 50%, we ask: “Is the cat alive or dead or both?” Conventional quantum mechanics says both: the cat is in a quantum superposition of two basis states, |alive> and |dead>, until we open the box and observe it. At that instant, the cat’s wave function “collapses” to either: (1) |alive> with probability 100%; or (2) |dead> with probability 100%.
+
+Everett and DeWitt suggest this alternative: when the box is opened, our universe splits into two completely separated universes that are identical, with one exception. In one universe Schrödinger’s cat is alive and in the other it is dead. One might say the cat is both alive and dead, but in different universes, or if you prefer, in different realities. Their approach avoids having to explain how wave functions “collapse”, but at the cost of an exponentially increasing number of parallel universes. Every time a roulette wheel stops, our universe would split into 38 new universes. And the measurement of a continuous quantity, such as momentum, would split our universe into an infinite number of new universes. Since the universe would split in response to every substantial interaction of every particle in the cosmos, the number of new universes required per second is beyond imagination. Yet, Everett and DeWitt provided no mechanism for creating this vast array of new universes. Most physicists consider the parallel-universes / many-worlds hypothesis uneconomical, universe-wise.
+
+Entanglement Entanglement is a startling consequence of quantum mechanics that physicists firmly accept, but struggle to fully comprehend. Particles are entangled if they exist in a common and inseparable quantum state. We have discussed many examples of entangled states throughout this course. Two-state systems naturally produce entangled states. In Chapter 27 we discussed positronium, an “atom” composed of an electron and a positron, its antiparticle. The energy levels of positronium are split by the interaction of the spins of the two particles. We found that the wave function of the ground state is a singlet state, an antisymmetric superposition, described by: |j=0,m=0> = (|e+, p–> – |e–, p+>)/√2. Here, |e+, p–> is the basis state of the electron having spin up and the positron having spin down, while |e–, p+> is the basis state of opposite spins.
+
+The electron and positron are entangled. The two particles share one common wave function; neither has its own separate wave function. Each particle has a 50% probability to be spin up, and 50% to be spin down. But the probability of their spins being opposite is always 100%. If we measure the electron and find that it is spin up, the positron will instantaneously become spin down with 100% probability.
+
+In V3p16-11, Feynman discusses a pair of particles 1 and 2 in an entangled state defined by x1 and x2. He says: “Notice that describing the position of only one particle does not define a [basis] state. Each [basis] state must define the condition of the entire system. You must not think that each particle moves independently as a wave in three dimensions. Any physical state |ψ> … is therefore a function of the two sets of coordinates x1 and x2. You see that such a function is not a wave in the sense of an oscillation that moves along in three dimensions. Neither is it generally simply a product of two individual waves, one for each particle. It is, in general, some kind of a wave in the six dimensions defined by x1 and x2. If there are two particles in nature which are interacting, there is no way of describing what happens to one of the particles by trying to write down a wave function for it alone.”
+
+The key point is: we cannot properly describe the interaction of two particles by describing only one. As we discussed in Chapter 27, when singlet-state positronium decays, the electron and positron annihilate one another, producing two photons that move away with equal ener gies and in opposite directions in the CM frame. We found that the photons are always in a singlet state, an antisymmetric superposition of opposite polarizations, described by: 2ψ = |A=RHC, B=LHC> – |A=LHC, B=RHC> Here, |A=RHC, B=LHC> denotes photon A being RHC and photon B being LHC (left hand circularly polarized).
+
+Now consider what happens when two scientists, Alice and Bob, equipped with photon detectors, stand on opposite sides of a stationary singlet-state positronium source. Assume that Alice is somewhat closer to the source, so that photon A reaches Alice’s detector before photon B reaches Bob’s detector.
+
+The salient points seem to be:
+
+## 1. Alice detects equal numbers of RHC and LHC photons, as does Bob
+
+2. Neither scientist can predict the polarization of the next photon: the odds are 50-50.
+
+3. After each positronium decay, Alice and Bob always detect opposite polarizations — whenever Alice detects a RHC photon, Bob will always detect a LHC photon.
+
+## 4. Surely Alice’s measurement cannot affect the state of Bob’s photon
+
+Point #4 seems to contradict point #3; hence, some say this indicates a paradox.
+
+Feynman says a “paradox” isn’t simply: “a conflict between reality and your feeling of what reality ‘ought to be’.” He says a “paradox” exists only when a theory makes inconsistent predictions.
+
+For example, in Feynman Simplified 1C Chapter 28, we discuss the Twin Paradox of special relativity. Al remains on Earth while Bert rockets to the Delta Quadrant and back. Once reunited, each twin claims the other was moving, aged slower according to time dilation, and is now younger. Since both can’t be younger, there is an apparent paradox. But, as we discussed, Bert had to accelerate to make a round trip, and therefore cannot claim to have been in an inertial reference frame, as required to invoke special relativity. Hence, there is no paradox; Bert is definitively younger than Al.
+
+In fact, while there are many fascinating surprises, there are no true paradoxes in special relativity, general relativity, or quantum mechanics.
+
+Getting back to Alice and Bob, Feynman says experiments confirm point #3: whenever Alice detects RHC, Bob is 100% certain to detect LHC. He also says point #4 is wrong: Alice’s measurements do alter the state of Bob’s photons. He says: “[Nature] requires a description in terms of interfering amplitudes, one amplitude for each alternative. A measurement … destroys the interference, but if a measurement is not made you cannot still say that ‘one alternative or the other is still occurring’.” To expand on Feynman’s statement, before the first measurement, the wave function was: 2ψ = |A=RHC, B=LHC> – |A=LHC, B=RHC> Here, neither photon is in a state of definite polarization. When a polarization measurement is made, quantum mechanics requires the wave function to collapse to an eigenstate of that measurement. Alice must measure either RHC or LHC, but never (RHC+LHC)/2. If she measures RHC, the wave function must have collapsed to: Φ = |A=RHC, B=LHC> Feynman would probably emphasize again that wave functions are mathematical constructs that have no physical reality. When a wave function collapses throughout all of space simultaneously, no thing has actually moved; all that has changed are the probabilities of various outcomes that were previously indeterminant. While all this is entirely logical, a little voice in my head still asks how exactly does Bob’s photon “know” it must now become 100% LHC.
+
+Feynman is correct that Alice’s measurements do affect the state of Bob’s photons, but this wasn’t properly confirmed experimentally until decades after his Lectures. To prove this, we must prove that the photons continue to have the original entangled wave function ψ immediately before Alice’s measurement. We must exclude a possible alternative espoused by classical physics. The classical explanation is that, as the photons separate, their state is properly described by classical physics: (1) 50% of the time, photon A=RHC and B=LHC; and (2) 50% of the time, A=LHC and B=RHC. Italian physicist Carlo Rovelli says this is similar to taking two gloves and randomly sending one to Alice and one to Bob: of course the scientists always find opposite handed gloves — that’s not magic, that’s simply the way gloves are made.
+
+Much more sophisticated theories and much more sophisticated experiments were required to definitively settle this “paradox”, as we will discuss in the next chapter.
+
+Teleportation Teleportation is the process of recreating material objects at a remote location without physically moving them through space. Teleportation is possible using entangled quantum states. While “Beam me up, Scottie!” is still just a delightful fantasy, physicists have succeeded in precisely transferring complete quantum states without physically moving them. Quantum teleportation does however require transmitting information and physically moving secondary physical objects by conventional means. Furthermore, it cannot ac achieve faster than light travel. Teleportation is not a copying process that duplicates an original master. Rather, teleportation destroys the original master and creates a new master at a remote destination. If the master was information, that information no longer exists at the origin. If the original master was a material object, what remains at its former position will be an equal mass of deconstructed, disorganized, subatomic particles. The new master will have exactly the same quantum state that the original once had.
+
+Even the most ardent Trekkie should decline an invitation to be the first teleported human or Klingon.
+
+Teleportation Procedure The procedure detailed below teleports 1 bit of quantum information (1 qubit) from a master particle to a remote particle.
+
+Let me explain what a qubit is. Conventional computers operate on bits; each bit can be in one of two states: 0 or 1. Digital electronic circuit designs ensure that 0’s never unintentionally morph into 1’s or vice versa. Integers are represented by series of bits. For example, the integer 137 can be encoded in 8 bits as 10001001 in the binary number system. That code represents 2^7+2^3+2^0 = 128+8+1 = 137.
+
+Quantum computers operate on qubits. Each qubit is a coherent quantum superposition of state 0 and state 1, written α|0> + β|1>, where α and β are complex numbers and |α|2 + |β|2 = 1. A qubit therefore can represent any selected point on the 2-D surface of a Bloch sphere of radius 1, named after American physicist Felix Bloch.
+
+Figure 34-3 Qubit |ψ> on Bloch Sphere. Figure 34-3 shows the 2-D spherical surface that represents all possible values of one qubit. The two possible values of one conventional bit are the sphere’s north and south poles. The modify steps described below correspond to rotating the qubit across the surface of the Bloch sphere without disrupting its coherence.
+
+Eight conventional bits, called one byte, can represent any number from 0 to 255. Eight qubits, a qubyte, can simultaneously represent every number from 0 to 255, for as long as quantum coherence persists. Performing a computational procedure on one qubyte effectively performs that procedure simultaneously on all superposition combinations, vastly increasing computing power. This is the goal of quantum computing, which is now beginning to be realized.
+
+In the simplest example of teleportation, the master originally contains 1 qubit of information that is a superposition of two complementary states. For specificity, we’ll assume the complementary states are spin +S and –S, although the procedure is also applicable to other situations. The truly clever aspects of this procedure are the modify steps devised by Canadian physicists Charles Bennett, et al., and published in 1993.
+
+6-Step Teleportation Procedure
+
+## 1. Make entangled particle pair BC
+
+## 2. Send C to destination by normal means
+
+## 3. Conditionally modify B per state of master
+
+## 4. Measure z-spin of B and x-spin of master
+
+## 5. Transmit those spin values to destination
+
+## 6. Conditionally modify C; C is now master
+
+In Step 1, particles B and C are an entangled particle pair in a superposition of two complementary spin states. We will assume that master, B, and C are identical particles — three electrons, for example. Teleportation can be accomplished if B and C are identical particles and master is a different particle, but that requires additional steps.
+
+In Step 2, C is physically transported to the destination by conventional means. According to special relativity, this cannot occur at more than light speed. To reduce communication delays, this transfer could occur well before the decision to teleport information, but B and C must remain isolated from external disturbances to maintain their entanglement.
+
+In Step 3, the z-spin component of B is flipped conditionally. This operation, called CNOT for conditional negation, flips B’s spin (exchanging up and down) if the z-spin component of master is down, and does nothing if the z-spin component of master is up. The trick is performing CNOT without measuring master’s spin, which would destroy essential quantum coherence. Perhaps surprisingly, certain quantum devices can perform unitary operations such as CNOT without a direct “measurement” and without loss of coherence — this is the real “magic.” A unitary operation is equivalent to rotating the qubit to another point on the Bloch sphere without “touching” it. Performing CNOT on B does not change the state of C, because CNOT does not collapse any wave functions.
+
+In Step 4, we intrusively measure two spin components: B’s z-spin and master’s x-spin. This results in four possible outcomes (B up/down × master left/right), which amounts to two conventional bits. The states of both B and master are completely disrupted by the conventional measurement process. The particle that was master still exists, but the essential characteristics that made it worth describing are irrevocably lost.
+
+In Step 5, the two measured spin values are transmitted to the destination.
+
+mitted to the destination, at no more than light speed.
+
+In Step 6, the state of C is conditionally modified according to the spin measurements made on B and master. The possible modifications are 180º rotations on the Bloch sphere about either the x- or z-axis. Rotating about x flips up and down, and rotating about z flips left and right. These rotations, also unitary operations, must be performed without measuring particle spins, which would destroy quantum coherence. The rotations, if required, must be performed in this order: a) If master’s spin was left, flip C left/right.
+
+b) If B’s spin was up, flip C up/down.
+
+All this results in master’s original quantum state being transferred to C at the remote destination.
+
+Proof of Teleportation Procedure This section provides mathematical proof of the procedure’s validity using the following notation for quantum states: |U> means spin up (+z)
+
+|D> means spin down (–z)
+
+|R> means spin right (+x)
+
+|L> means spin left (–x).
+
+For simplicity, I won’t show the overall normalization of each wave function, which is determined by requiring |ψ| = 1.
+
+First, we need to review some spin basics. From the spin rotation tables in Chapter 17, the relationship between z-spins (up/down) and x-spins (right/left) is: |U> = |R> + |L> |D> = |R> – |L> The result of rotating z-spins by 180º about z-axis is: Start, any U/D: a|U> + b|D> Restate in R/L: a|R> + a|L> + b|R> – b|L> Rotate about z: a|L> + a|R> + b|L> – b|R> Restate in U/D: a|U> – b|D> Net effect: invert polarity of all |D> states.
+
+We are now ready to confirm the teleportation procedure. We will deal with quantum states of three identical particles. Let |L,U,D> denote master has spin left, B has spin up, and C has spin down. Our objective is teleporting the initial state of master to the remote particle C.
+
+Initial states after Step 1: BC: ψ = |U,D> – |D,U> Master: ψ = α|U> + β|D> Initial 3-particle combined state: ψ=+α|U,U,D>–α|U,D,U>+β|D,U,D>–β|D,D,U> Step 3: We apply CNOT: flipping B if master is down. This yields: ψ=+α|U,U,D>–α|U,D,U>+β|D,D,D>–β|D,U,U> As Step 4 measures master’s x-spin, we restate ψ in terms of master spin states left and right: ψ = +α|R,U,D> –α|R,D,U> +β|R,D,D> –β|R,U,U> +α|L,U,D> –α|L,D,U> –β|L,D,D> +β|L,U,U> Step 4: we measure the x-spin of master and z-spin of B, with 4 possible outcomes. Let S=L,U denote master’s spin was left and B’s spin was up, etc. Note that entanglement is built into ψ; a measurement finding B is up eliminates all states with B down, but does not change the spin of C in any remaining states. The four possible outcomes of Step 4 are: S=R,U: ψ = +α|R,U,D> –β|R,U,U> S=L,U: ψ = +α|L,U,D> +β|L,U,U> S=R,D: ψ = –α|R,D,U> +β|R,D,D> S=L,D: ψ = –α|L,D,U> –β|L,D,D> Step 5: we transmit S to the destination by conventional means.
+
+Step 6a: flip C right/left if master was right. As we saw above, this operation on C up/down states flips the sign of C down states. In each of the four possible S outcomes, this yields: S=R,U: ψ = –α|R,U,D> – β|R,U,U> S=L,U: ψ = +α|L,U,D> + β|L,U,U> S=R,D: ψ = –α|R,D,U> – β|R,D,D> S=L,D: ψ = –α|L,D,U> – β|L,D,D> Step 6b: we next flip C up/down if B was up. Recall that S=L,U denotes master’s original x-spin was left and B’s z-spin was up, etc. In each of the four possible S outcomes, this yields: S=R,U: ψ = –α|R,U,U> – β|R,U,D> S=L,U: ψ = +α|L,U,U> + β|L,U,D> S=R,D: ψ = –α|R,D,U> – β|R,D,D> S=L,D: ψ = –α|L,D,U> – β|L,D,D> In each of the four possible S outcomes, the final quantum state of C is: C: ψ = ±(α|U> + β|D>) = ±(initial state of master)
+
+As we know, multiplying ψ by exp[iθ] for any angle θ (0 or π in this case) changes ψ’s phase angle but not its magnitude. Phase angles are important only when wave functions interfere coherently. In isolation, phase angles are irrelevant. Therefore, the above procedure has indeed teleported a master particle’s initial quantum state to a remote particle, but at the cost of disrupting the state of master, transmitting 2 bits conventionally, and physically transporting half of an entangled pair.
+
+Teleportation Considerations Quantum teleportation, QT, cannot reach destinations that have not previously been reached by conventional means. QT cannot teleport space explorers to distant planets until after halves of an immense number of entangled pairs and considerable equipment have been delivered to those destinations. Even then, one entangled pair is consumed for every quantum state teleported.
+
+Transporting entangled particles while maintaining their coherence is much more difficult than transporting conventional materials. These issues will likely severely restrict the applications of QT.
+
+Teleportation is more than a mere pipedream. QT has been accomplished to a limited degree by the above procedure. So far, a few qubits, but no physical objects, have been teleported. Error rates are declining, but are still too high for practical applications. The greatest teleportation distance to date is 144 kilometers (between the Canary Islands).
+
+at a distance is comparable to the altitude of orbiting satellites, proving the possibility of worldwide teleportation of quantum information. Teleporting a person would require transferring the quantum states of at least 1028 particles and then reassembling those particles. Taking a plane, or a spacecraft, seems more practical. One might also ask: “Is there anything in a person beyond the sum of their particle states?” Scientists aren’t aware of anything additional, but would you bet your life on it?
+
+Communicating on the QT Quantum teleportation will enable communication that is vastly more secure than conventional alternatives. Currently, secure communications rely on senders and receivers knowing secret encryption keys for translating encoded messages. However, such keys can be copied by, leaked to, or deciphered by adversaries. During World War II, for example, the British cracked Germany’s Enigma code and the Allies captured Enigma machines. The U.S. also cracked Japan’s naval codes. Germany and Japan paid dearly for being overly confident in their communication security.
+
+In contrast, the “encryption key” of quantum communication is the physical possession of half of an entangled particle pair, which unless meticulously isolated, decoheres destroying the key. Nature’s quantum uncertainty guarantees message scrambling is absolutely random, and therefore undecipherable.
+
+One major disadvantage of quantum cryptography is that each entangled pair can only teleport one qubit from one sender to one receiver. It might not be adequate to communicate lengthy, urgent, or broadcast messages.
+
+## Chapter 34 Review: Key Ideas
+
+• Wave function collapse is the greatest unresolved mystery of quantum mechanics. In 1927, Einstein described it as the “entirely peculiar mechanism of action at a distance.” Quantum mechanics says objects can exist in a superposition of different momenta, spins, locations, etc., but measurements always yield single definitive values for these quantities. To reconcile quantum indeterminacy with definitive measurements, quantum wave functions must collapse everywhere simultaneously when disturbed by any substantial external influence, including scientific observation. No one understands the “magical” mechanism by which wave functions actually do collapse.
+
+• The mathematical formalism of quantum mechanics is one of science’s greatest triumphs. However, physicists have substantially divergent views on its interpretation. What is the world-view of quantum mechanics — what does quantum mechanics really say about the fundamental processes of nature? This course has previously presented only the standard, most widely accepted, world-view of quantum mechanics: the Copenhagen interpretation championed by Niels Bohr. It has achieved great success, but many physicists find it lacking critical explanations, motivating them to intensively search for alternative interpretations. The sheer number of alternative interpretations attests to great unease with the world-view of quantum mechanics. The most prominent interpretations, with representative dates, are: Copenhagen [1924]; pilot waves [1952]; many-worlds [1957]; modal [1969]; consistent histories [1984]; many-minds [1988]; quantum event [1989]; and relational quantum mechanics [1996]. None of the alternative interpretations has been widely accepted, at least not yet.
+
+• Particles are entangled if they exist in a common and inseparable quantum state. For example, the ground state of positronium is: |j=0,m=0> = (|e+,p–> – |e–,p+>)/√2. Here, |e+,p–> is the basis state of the electron having spin up and the positron having spin down, and |e–,p+> is the basis state of opposite spins. The two particles share one common wave function; neither has its own separate wave function. Each particle has a 50% probability to be spin up, and 50% to be spin down. But the probability of their spins being opposite is always 100%. If we measure the electron and find that it is spin up, the positron will instantaneously become spin down with 100% probability.
+
+• Teleportation is the process of recreating material objects at a remote location without physically moving them through space. Teleportation is possible using entangled quantum states. Quantum teleportation cannot reach destinations that have not previously been reached by conventional means. Even then, one entangled particle pair is consumed for every quantum state teleported. Transporting entangled particles while maintaining their coherence is much more difficult than transporting conventional materials.
+
+## Chapter 35 EPR: QM vs. Local Realism
+
+The story of entanglement begins with Albert Einstein, as does much of modern physics. In 1935, Einstein and two junior associates, Boris Podolsky and Nathan Rosen, published a paper intending to demonstrate the inadequacy of quantum mechanics. Known as the EPR paper after the authors’ initials, this is one of the most famous and most important contributions to the debate, development, a and understanding of quantum mechanics. The complete title is "Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?"
+
+EPR asserted that a comprehensive physical theory must address everything that is real. They further stated that a physical quantity must be considered real if it can be predicted with absolute certainty, without disturbing the system of which it is a part. For example, if a particle's position is precisely determined even without being measured, that position is a real physical entity and any complete theory of physics must definitively describe it. They claimed quantum mechanics, with its Uncertainty Principle, fails this essential requirement.
+
+EPR proposed a thought experiment that no one else had seriously considered: measurements of entangled particle pairs.
+
+Imagine two entangled particles, A and B, in a known state, moving away from point Q in opposite directions. At some point, when their separation is sufficiently large, we will assume the particles can no longer interact with one another.
+
+If we then precisely determine the momentum of A, that act precisely and immediately determines the momentum of B, due to the conservation of total momentum. By EPR's definition, the act of measuring A's momentum makes B's momentum real, even without measuring B. But, according to the Uncertainty Principle, precisely knowing B's momentum makes its location completely uncertain. Conversely, if we instead precisely determine the position of A, that act precisely and immediately determines the position of B, since their common center of mass is stationary. By EPR's definition, the act of measuring A's position makes B's position real, even without measuring B. But, again, precisely knowing B's position makes its momentum completely uncertain.
+
+But, if the particles don't interact after separating, how can the reality of B's properties depend on how we choose to measure A (its momentum or its position)? To Einstein, this was irrational. This dilemma is called the EPR paradox.
+
+EPR claimed there were only two possible resolutions of this paradox: 1. contrary to our assumption, particles can interact instantaneously, even when widely separated; or 2. particle positions and momenta are always real and definite, independent of our measurements.
+
+Alternative (1) violates the postulate of special relativity that nothing can move through space faster than the speed of light. Alternative (2) violates the Uncertainty Principle of quantum mechanics.
+
+Einstein rejected alternative (1), and concluded that quantum mechanics does not fully describe reality and is therefore incomplete. Einstein believed quantum mechanics provides valuable insights, but is only an intermediate step toward a more comprehensive understanding of nature's fundamental truths.
+
+EPR suggested the possibility of underlying, but as yet undiscovered, elements of reality that precisely determine the physical quantities that quantum mechanics says are inherently indeterminant, such as position and momentum. These undiscovered elements of reality became known as hidden variables. The basic idea is: nature seems uncertain only because we don't see the whole picture — if the hidden variables were revealed, we would clearly see that nature is devoid of uncertainty and completely deterministic.
+
+Pre-quantum physicists believed in Locality and in Realism (the combination of both is called Local Realism).
+
+Locality denies action-at-a-distance, particularly instantaneous action-at-a-distance: particles, energy, forces, and information can flow from one location to another, but not faster than the speed of light. An effect cannot precede the arrival of a signal traveling at light speed from its cause.
+
+Realism demands that physical quantities, such as a particle's energy, are real and precisely determined, independent of their interaction with anything else, including our instruments.
+
+Local Realism is implicitly assumed by classical (pre-quantum) science.
+
+What had been a collegial philosophical debate was transformed by EPR into concrete, stark physical terms, creating an existential confrontation between the two great pillars of 20th century physics: relativity and quantum mechanics.
+
+The EPRB Formulation
+
+Einstein's focus on complementary measurements of entangled particle pairs was brilliant. But the particular formulation presented by EPR was problematic, particularly regarding experimental testing. David Bohm developed a better formulation of Einstein's concept. With Yakir Aharonov, Bohm published his completed version in 1957, 22 years after the EPR paper. This formulation, called EPRB, has been the basis of all subsequent work on the EPR paradox.
+
+Bohm's EPRB formulation is what we discussed earlier: two identical entangled particles, in a singlet state with opposite spins, move far apart, and are then subjected to spin measurements. We call the particles A and B, and denote the spin states U for up and D for down. Assume again that A when A is measured before B.
+
+Quantum mechanics says the entangled singlet wave function is a quantum superposition, described by: ψ√2 = |A=U, B=D> – |A=D, B=U> Prior to any measurement, the spin of each particle is indeterminant: each is equally U and D. However, the act of measuring A’s spin instantaneously alters B’s spin, immediately forcing it to become the opposite of A’s, thus ensuring total spin zero.
+
+In the Bohm formulation, the paradox becomes: (1) are both particle spins actually well-determined before the measurement of A, contrary to quantum mechanics; or (2) if quantum mechanics is correct, how does the measurement of A dictate the state of B?
+
+Bohm’s Pilot Waves Bohm went further and developed an innovative alternative to conventional quantum mechanics. The standard interpretation of particle-wave duality is that every entity has, to varying degrees, both wave properties and particle properties — everything is both a particle and a wave. In Bohm’s alternative, everything is a particle plus a wave. Every entity, Bohm said, has two parts: one part that behaves like a classical particle and another part that behaves like a classical wave. (Louis de Broglie had suggested a similar notion many years earlier, but quickly abandoned it.) An electron, Bohm said, is a classical particle plus an associated pilot wave. The pilot wave spreads throughout space “sensing” its environment, after which it somehow appropriately directs the motion of its associated particle. In some versions of Bohm’s scheme, faster than light speed is not necessary, because pilot waves sense the environment as it develops, even before physicists start collecting data.
+
+In the basic two-slit experiment, for example, each pilot wave explores the geometry of the apparatus and directs its particle toward a spot on the detector. After myriad particles are piloted through the apparatus, interference fringes appear on the detector. Exactly where each particle hits the detector is still governed by probability; God still plays with dice. But the difference Bohm proposes is that each particle follows a predefined path from source to detector. The paths are assigned randomly, according to a probability distribution determined after its pilot wave senses the environment but before the particle leaves the source.
+
+By analogy, consider a deck of playing cards. We shuffle the cards and then deal them. In Bohm’s concept, each card ends up in a random place, but a place that was determined before the card was dealt. By examining the deck before the first card is dealt, we can discover the final destination of every card. Conversely, according to conventional quantum mechanics, each card finds its own path to a random destination. Examining the deck before it is dealt provides no information about where each card will land. In quantum mechanics, shuffling is unnecessary; randomization occurs as each card flies through the air. It’s much harder for a quantum dealer to cheat.
+
+If an external disruption is added to the two-slit apparatus, such as short-wavelength light shining on one slit, pilot waves would re-direct their particles and the interference fringes would vanish.
+
+In the EPRB scenario, Bohm says:
+
+## 1. Particles in singlet states always have opposite spin
+
+## 2. The spin axis of each particle pair is set at the source
+
+## 3. The spin axis doesn’t change from source to detector
+
+## 4. Each particle always spins in a well-defined direction
+
+Naturally, Bohm says, measurements on separated pairs will discover opposite spins, regardless of how and where the spins are measured.
+
+Bohm said pilot waves have so far escaped detection because their energies are vastly smaller than the energies of their associated particles. In his book The Undivided Universe, Bohm compares a pilot wave to a radar beacon leading a ship toward port through thick fog — the ship might have trillions of times more energy than the beacon, but follows it nonetheless.
+
+Could Bohm’s pilot waves be Einstein’s hidden variables?
+
+EPR Tests: QM vs. Local Realism How can physicists determine whether Local Realism or quantum mechanics best describes nature?
+
+The conflict may be clarified with this macroscopic analogy. Recall the gloves in the prior chapter. Imagine I order a pair of gloves to be delivered in two boxes, one glove in each box. Not knowing which is which, I mail one to Alice and the other to Bob. Since human intuition is grounded in Local Realism, no one is surprised that Alice and Bob receive opposite-handed gloves. But what if these were quantum gloves in a singlet state? Quantum mechanics says each glove has half a thumb on each side as long as they’re boxed. When the first box is opened, one glove randomly and instantly becomes totally left-handed and the other automatically and simultaneously becomes totally right-handed. While the final result is the same in both theories, the quantum description of how it happens profoundly shocks human intuition.
+
+In the EPRB formulation, Local Realis QM says each particle always has a fixed well-defined spin, and paired singlet particles have opposite spins. Conversely, quantum mechanics says the particles are entangled, neither particle has a well-defined spin before an external interaction, such as a measurement, but their total sum is always definitively zero.
+
+In both theories, singlet particle spins are always measured to be exactly opposite one another. How can we distinguish between two theories that predict the same outcome? How can we know the true state of particle spins before measuring them?
+
+BELL’S INEQUALITY
+
+In 1964, Irish physicist John Stewart Bell found the path forward. He devised Bell’s Inequality Test to prove whether or not particle spins are well-determined before they are measured. His clever idea requires measuring how particle spins correlate when measured in different directions.
+
+For specificity, let’s assume the singlet particles are photons with spin 1. Spin-measuring devices will report their spins as either +1 or –1 along any direction we choose, but each measurement is performed only along one direction. A device measuring spins vertically, as shown on Alice’s side of Figure 35-1, will report either: +1 corresponding to +z-spin, or –1 meaning –z-spin. Another measuring device rotated by angle θ about the y axis, as shown on Bob’s side, will report either: +1 meaning along the dashed arrow, or –1 meaning antiparallel to the dashed arrow.
+
+Figure 35-1 Orientation of Spin Measurements
+
+We will keep θ in the range –180º to +180º. Quantum mechanics and classical physics both agree that spin-measuring devices oriented in the same direction (θ=0) will report opposite spin values: we will always find one +1 and one –1. But things get more interesting when the devices are pointing in different directions, when θ is non-zero.
+
+Now imagine viewing all this by looking along the horizontal y-axis, as shown in Figure 35-2. On the left, Alice’s detector reports +1 if her particle’s spin direction, the dotted arrow, is within the gray zone that spans all angles within 90º of her detector’s measurement direction, the solid arrow. Conversely, her detector reports –1 if the spin is in the white zone that spans angles more than 90º from her detector orientation.
+
+Figure 35-2 Detector Responses
+
+On the right, Bob’s detector reports +1 if his particle’s spin direction, the dotted arrow, is within the gray zone that spans all angles within 90º of his detector’s measurement direction, the solid arrow at angle θ relative to Alice’s detector orientation. His detector reports –1 if the spin is in the white zone, any direction more than 90º from his detector orientation.
+
+Now consider what the entire apparatus looks like in the combined view shown in Figure 35-3.
+
+Figure 35-3 Combined Detector Response Zones
+
+Here Alice’s detector is oriented toward +z, as before, and Bob’s detector is rotated clockwise by an angle θ. Be aware that the definitions of grey and white zones in Figure 35-2 and Figure 35-3 are different.
+
+In classical physics, with or without hidden variables, particle pairs leave the origin spinning in opposite directions along the same axis, as represented by the dotted arrows. The orientation of that axis is random. A spin in the light gray zone would be reported +1 by both Alice and Bob. A spin in the dark gray zone would be reported –1 by both. Spins in the white zones would be reported +1 by one scientist and –1 by the other. The four possible combinations, with measured spins and the product of the two measured spins are:
+
+Alice’s in light gray: +1 Bob’s in dark gray: –1 Spin product: –1
+
+Alice’s in dark gray: –1 Bob’s in light gray: +1.
+
+Spin product: –1
+
+Alice’s in upper white: +1 Bob’s in lower white: +1 Spin product: +1
+
+Alice’s in lower white: –1 Bob’s in upper white: –1 Spin product: +1
+
+Each white zone spans an angle θ, and each gray zone spans an angle π–θ. Spin correlation C, defined as the average over all spin orientations of the product of the two reported spins divided by the total spin squared (1 in this case), is:
+
+C(θ) = {–2(π–θ) + 2θ} /2π C(θ) = –1 + 2θ/π
+
+This is the prediction of classical physics, with or without hidden variables. For simple cases, it matches what we expect. For θ=0, both devices are oriented toward +z and C=–1; spins are found opposite 100% of the time. For θ=π, the devices are oppositely oriented and C=+1; spins are found equal 100% of the time. For θ=π/2, the devices are perpendicular and C=0; the spins are uncorrelated — regardless of Alice’s spin, Bob’s spin is just as likely to be +1 as –1.
+
+What happens in quantum physics, where particle spins are not definite until measured? Assume Alice’s spin is measured first and is reported +1, which is +z in the above figure. Bob’s spin immediately becomes –z. If θ=0, Bob’s detector reports –1.
+
+But, what does Bob’s detector report when θ is non-zero?
+
+For spin –1 along the z-axis, the amplitudes for spin –1 and +1 along an axis rotated from the z-axis by angle θ about the y-axis are: y轴上的值（参见第17章的旋转表）： ⟨-1 at angle θ | -z⟩ = (1+cos θ)/2 ⟨+1 at angle θ | -z⟩ = (1–cos θ)/2
+
+Bob自旋测量的期望值等于： -1 × {Prob(spin=-1)} + 1 × {Prob(spin=+1)} = -1 × (1+2cos θ+cos 2θ)/4 +1 × (1–2cos θ+cos 2θ)/4 = –cos θ
+
+Alice和Bob测量自旋乘积的期望值为： C(θ) = (Alice's spin) × (Bob's spin)
+
+C(θ) = (+1) × (–cos θ)
+
+C(θ) = –cos θ
+
+这是当Alice测量自旋+1时的结果。你或许希望对Alice测量–1的情况重复此分析；结果是相同的。
+
+量子力学与经典物理在θ = 0, ±90º, 和 ±180º时做出相同的预测。但在其他角度，它们的预测略有不同，如图35-4所示。
+
+图35-4 自旋关联与θ：经典物理 vs 量子力学
+
+从这些不同的预测出发，贝尔发现了一个不等式，它限制了所有基于定域实在论的经典物理理论中的自旋关联。贝尔不等式可以由这个例子说明。
+
+假设测量X和Y在99%的情况下给出相同结果（它们有99%的关联性，C_XY = 0.99）。再假设Y和Z在99%的情况下给出相同结果（C_YZ = 0.99）。根据经典物理的统计，X和Z至少有98%的情况下会给出相同结果。因为X和Y相差1%，Y和Z相差1%，所以X和Z最多相差2%（C_XZ ≥ 0.98）。
+
+它们的关联性被表述为一个不等式，因为X和Z可能相差小于2%；事实上如果X=Z，它们可能完全相同（C_XZ = 1.00）。关键点是，经典物理必须遵循一个不等式，即： (1–C_XZ) ≤ (1–C_XY) + (1–C_YZ)
+
+我们也可以写作： C_XZ ≥ C_XY + C_YZ – 1
+
+经典物理遵循这个不等式，因为它的自旋关联是θ的线性函数：C(θ) = –1+2θ/π。
+
+但是，量子物理的自旋关联C(θ) = –cos θ是非线性的。当cos θ = 0.99时，cos(2θ) = 0.96。这意味着在量子力学中，X和Z可能只有96%的关联性，这比任何经典理论能解释的关联性都要低。
+
+量子力学在某些角度上违反贝尔不等式。
+
+**检验贝尔不等式**
+
+加州大学伯克利分校的John Clauser和Stuart Freedman于1972年进行了第一次EPRB的实验检验。他们使用了具有互补偏振的纠缠光子对。他们测量了θ（探测器取向之间的夹角）全范围内的关联性，并在所有角度上确认了量子力学的预测。他们用一个量δ来表达偏振关联性，该δ来自贝尔不等式的不同版本。他们的结果是：
+
+经典物理的预测：δ ≤ 0 Clauser的测量结果：δ = +0.050 ± 0.008
+
+Clauser的测量结果以超过6个标准差（99.9999998%置信度）排除了经典物理的预测。然而，探测器取向在每次数据采集运行中是固定的，只在运行之间更改。定域实在论者反对说，导引波有充足的时间感知探测器取向并相应地引导其粒子伙伴。
+
+1982年，法国物理学家Alain Aspect等人进行了一个著名实验，同样使用了具有互补偏振的纠缠光子对。Aspect使用了三个取向（对应于θ = 0, 22.5º 和 45º）测量偏振关联性。取向每隔10纳秒切换一次，这远小于探测器之间40纳秒的光传播时间。通过在光子对分离后切换探测器取向，Aspect旨在排除可能的导引波参与。然而，一些人对此提出异议，因为Aspect的切换遵循一个固定的模式，“聪明”的导引波可能会检测到这个模式。偏振关联性用一个特定于他们装置的量X来表示。他们的结果是：
+
+经典物理：–1 ≤ X ≤ 0 量子物理：X = 0.112 Aspect的测量结果：X = 0.101 ± 0.020
+
+Aspect的结果以5个标准差（99.9998%置信度）排除了经典物理的预测。他的结果与量子预测一致，验证了量子力学所断言的观点：纠缠粒子的偏振在测量前是不确定的。
+
+2010年，德国物理学家Thomas Scheidl等人进行的另一个光子实验，将偏振探测器相距144公里放置，对应479微秒的光传播时间。他们使用了一个量子器件（发光二极管和50-50分束器）每隔一微秒随机选择探测器取向。取向选项为θ = 0, 22.5º, 45º, 和 67.5º。他们采用了一个不同的关联性标准，用一个量Y来表示。他们的结果是：
+
+经典物理：Y ≤ 2.00 量子物理：Y = 2.43 Scheidl的测量结果：Y = 2.37 ± 0.02
+
+量子力学实际上预测，对于检测和传输效率为100%的实验装置，Y = 2.828 (2√2)。由于他们的设备效率低得多，Scheidl将量子力学的预测值向下调整了14%，调整为2.43。
+
+Its agreement with quantum physics is not good, being off by three standard deviations (0.27% confidence level for agreement). Nonetheless, the predictions of classical physics are excluded by 18 standard deviations, well beyond the pale. As an added bonus, the experimenters chose to do this experiment on the Canary Islands — why suffer to do science?
+
+Interpretation
+
+One might think these experiments would settle the issue. Quantum mechanics certainly seems victorious after a 75-year battle. Ah, but the devil is in the details. No physical mechanism has been offered to explain how Bob’s spin is fixed by Alice’s measurement. No EPRB experiment has ever observed anything connecting particles at greater than light speed. Absent a plausible explanation for that “magic”, the EPR debate may never end.
+
+Additionally, several “loopholes” still exist regarding the EPRB experimental validation of quantum mechanics. One loophole arises because photon detection efficiencies in these experiments are generally quite low: 5% to 30% typically. Some physicists question whether the detected photons fairly represent all entangled photon pairs emerging from the source. If an experiment detects a biased sample, its results might be skewed.
+
+Another loophole relates to exotic pilot wave conspiracies. Ideally, both detectors would make their measurements simultaneously, and detector orientations would be selected independently, randomly, and simultaneously. The Scheidl experiment seems to achieve this, but some hard core Local Realists disagree. Derided by QM loyalists as “superdeterminists”, they point out that hidden variables might control the detector orientation selection in addition to the photon spins. That might conceivably make the detector orientations predetermined and coupled to the photon spins instead of being random and independent.
+
+A final loophole questions the statistical nature of these experiments. Physical theories predict a correlation between the two particles of each entangled pair. Experiments estimate that correlation by averaging over thousands of pairs. Are we sure such averaging truly reflects the pair correlation?
+
+Most physicists think these loopholes represent obsessive nitpicking. They are convinced quantum mechanics describes nature as it truly is: indeterminant, in precise accord with the Uncertainty Principle. Some few still believe the only uncertainty exists in our understanding.
+
+Relational Quantum Mechanics
+
+In 1994, Italian physicist Carlo Rovelli proposed an innovative alternative to conventional quantum mechanics, which he calls relational quantum mechanics (RQM). Western science has traditionally stressed reductionism: discovery by breaking everything down into the smallest, and presumably simplest, parts — it is a “parts first” approach. Eastern philosophies are often more holistic — a “whole first” approach. Taking an entirely different approach, Rovelli believes relationships are everything.
+
+In his 1996 paper titled “Relational Quantum Mechanics”, Rovelli says: “Quantum mechanics is a theory about the physical description of physical systems relative to other systems, and this is a complete description of the world.” The word “complete” is particularly compelling. (Recall that completeness was the focus of Einstein’s attack on quantum mechanics.) Rovelli believes each object in nature is no more and no less than the sum of its relationships with all other objects. He says it is meaningless to attempt to describe an object in isolation, the historical approach of Western science.
+
+Conventional quantum mechanics makes a clear distinction between the observed and the observer. Elements of the micro-world are governed by quantum rules, while macro-world entities, including physicists and their instruments, are governed by the rules of classical physics. It is not we who are uncertain — all the fuzzy stuff happens on the “other side of the wall.” Rovelli says there is no wall — everything in nature must be considered a quantum system: subatomic particles, instruments, people, planets, stars, and even the entire universe.
+
+Furthermore, Rovelli says observers’ descriptions of reality are valid only in relation to themselves. Einstein, in his theory of special relativity, said observers in different reference frames measure different values for basic quantities such as distance and time. Rovelli takes “relativity” to another level.
+
+A “measurement” or “observation” must be viewed as a physical interaction between the two quantum systems: the observer X and the observed Z. That interaction produces a new quantum system XZ, which is inherently unique to its constituents. If a different observer Y had measured Z, their physical interaction could well have been quite different — Y and X could have obtained different results from observing Z. Both results would be “correct”, but each is correct only relative to its observer.
+
+An additional consequence of RQM is that two observers can never measure exactly the same quantum system in exactly the same way. This ensures that the perspective of each observer is fundamentally unique.
+
+the same thing. When X observes Z, the state of Z is forever changed. If Y later tries to reproduce X’s measurement, Y will be measuring the new system XZ not the original system Z. This may result in a different outcome.
+
+RQM maintains that statements like “this electron is spin up” must be replaced by “device X reports this electron is spin up.” According to Rovelli, our quandaries of interpreting quantum mechanics arise from the invalid assumption, implicit in classical thinking, that reality exists in isolation, that objects have real properties independent of their surroundings.
+
+RQM, Reality & EPR Rovelli has a remarkable view of the EPRB paradox. He asks: “Where is the paradox?”
+
+Recall the EPRB formulation: particles A and B emerge from a starting point in an entangled singlet state, with equal amplitudes for spin combinations A+/B– and A–/B+. Eventually the particles will be far enough apart that they can no longer communicate with one another, even at the speed of light, within the time required to measure their spins. Thereafter, Alice measures the spin of A and Bob simultaneously measures the spin of B. RQM states that Alice’s interaction with A creates a new quantum system: Alice-A, an entangled superposition of Alice-measured-A+ and Alice-measured-A–. Similarly, on the other side, Bob and B become a quantum system: Bob-B, the entangled superposition of Bob-measured-B+ and Bob-measured-B–. Since the measurements occur simultaneously at widely separated locations, neither Alice nor Bob can immediately know the result of the other’s measurement. In fact, no one can measure both particles’ spins simultaneously, nor can anyone immediately know the results of both measurements. Only at some later time, as constrained by the speed of light, can signals from Alice-A and Bob-B combine at a common point. Since angular momentum is conserved in nature, when information from those two entangled quantum systems combine, the conclusion must be that the spin of A measured by Alice is opposite to the spin of B measured by Bob. With RQM, there is no paradox.
+
+Allow me to briefly digress and relate a personal story. While reading Carlo Rovelli’s excellent book Quantum Gravity, I noticed a footnote at the bottom of page 217, which casually mentions that the EPR paradox is resolved by RQM. My father, Oreste Piccioni, spent countless hours pondering the EPR, and he and I had many fruitless discussions about this apparent paradox. Intrigued by the footnote, I emailed Carlo, told him of our long discussions, and requested a more detailed explanation. He graciously responded, and later decided to write a paper, published in 2008 with Matteo Smerlak, entitled “Relational EPR.” This paper presents the RQM solution at a professional, research science level. Carlo very kindly dedicated his paper to the memory of my father.
+
+Peace in Our Time? With relational quantum mechanics, both sides of the EPR debate can claim victory. The predictions of quantum mechanics, which violate Bell’s inequality, are confirmed and are no longer startling. All interactions are local, and no signals travel faster than light. If we accept that reality is relative, following a tradition initiated by Einstein, quantum mechanics and Local Realism can peacefully coexist. Are Einstein and Bohr both smiling? I fear that remains uncertain.
+
+Chapter 35 Review: Key Ideas • Albert Einstein, Boris Podolsky, and Nathan Rosen, published the EPR paper saying a comprehensive physical theory must address everything that is real. They said a physical quantity must be considered real if it can be predicted with absolute certainty, without disturbing the system of which it is a part. They claimed quantum mechanics, with its Uncertainty Principle, fails this requirement. EPR proposed a thought experiment in which the properties of one entangled particle depend on how its remote partner is measured. To Einstein, this was irrational. This dilemma is called the EPR paradox. EPR claimed there are only two possible resolutions of this paradox: (1) a violation of the principle of special relativity that nothing can move through space faster than the speed of light; or (2) a violation of the Uncertainty Principle of quantum mechanics. • Locality denies action-at-a-distance, particularly instantaneous action-at-a-distance: particles, energy, forces, and information cannot move faster than the speed of light. An effect cannot precede the arrival of a signal traveling at light speed from its cause. Realism demands that physical quantities, such as a particle’s energy, are real and precisely determined, independent of their interaction with anything else, including our instruments. Local Realism is assumed by classical (pre-quantum) science. EPR created an existential confrontation between the two great pillars of 20th century physics: relativity and quantum mechanics. • How can physicists determine whether Local Realism or quantum mechanics best describes nature? In the EPRB for Simulation, Local Realism says when two photons in a singlet state emerge in opposite directions from point Q, each always has a fixed well-defined spin, and the two particles always have opposite spins. Conversely, quantum mechanics says the photons are entangled in a superposition state, in which neither has a well-defined spin before a measurement, but their total sum is always definitively zero. In both theories, the photon spins are always measured to be exactly opposite one another. How can we distinguish between two theories that predict the same outcome? How can we know the true state of the photon spins before measuring them?
+
+• John Stewart Bell found the path forward, devising Bell’s Inequality Test to prove whether or not particle spins are well-determined before they are measured. His clever idea is measuring particle spin correlations C(θ) as a function of the angle between detector orientations. The correlation predictions of classical and quantum physics are different. For photons these are: C(θ) = –1 + 2θ/π, for classical physics C(θ) = –cosθ, for quantum mechanics Quantum mechanics predicts less correlation at some angles than any classical theory could explain. Experiments over the last 40 years confirm quantum mechanics convincingly, at least in the opinions of most physicists.
+
+• Carlo Rovelli proposes an entirely different world-view in his theory of Relational Quantum Mechanics. He says relationships are everything. Rovelli believes each object in nature is no more and no less than the sum of its relationships with all other objects. Rovelli says: “Quantum mechanics is a theory about the physical description of physical systems relative to other systems, and this is a complete description of the world.” Rovelli says it is meaningless to attempt to describe an object in isolation, the historical approach of Western science.
+
+## Chapter 36 Review of QM Part Three
+
+• In all processes driven by either the strong force or the electromagnetic force, the total number of fermions minus antifermions of each of the twelve types of elementary fermions is always conserved. The number of bosons is not conserved, neither within one type nor summed over all types. Only the weak force is known to change one type of elementary fermion into another. The weak force can change some types of quarks into others, but it does not change the total number of quarks. The weak force can also change some types of leptons into others, but it does not change the total number of leptons.
+
+There are four kaons. The K+ and K– are antiparticles of one another. The K0 and K0 (“K-zero-bar”) contain opposite quarks, making them different particles and antiparticles of one another. The K0 and K0 are not two independent particles, but are the basis states of a decaying two-state system whose Hamiltonian has complex components. Absent CP-violation, the neutral kaon “stationary” states would be: |K1> = (|K0>–|K0>)/√2 |K2> = (|K0>+|K0>)/√2 The mass difference m2 –m1 is 3.5x10–12 MeV. This two-state system has three time constants: K1 lifetime t1 = 8.954×10–11 sec K2 lifetime t2 = 5.116×10–8 sec Oscillation time tΔm = 1.88x10–10 sec A K2 beam traversing matter regenerates a coherent K1 beam, because normal matter preferentially absorbs K0 over K0. This is called the Pais-Piccioni effect. Because CP-violation is observed in neutral kaon decays, the actual decay eigenstates are the short-lived neutral kaon |KS> and the long-lived neutral kaon |KL> defined as: |KS> = α1|K1> + ε|K2> |KL> = α2|K2> + ε|K1> Here α2 = (1+ε*ε), and ε is a complex number measured to be: ε = (2.228±0.011)×10–3 exp{i (43.5±0.5)º } In weak interactions, parity violation is a 100% effect, but CP violation is only a 0.3% effect. We still have no comprehensive explanation for the origin of this tiny asymmetry.
+
+• Parity operator P acting on circularly polarized photons reverses their direction of motion and exchanges RHC and LHC polarizations. Elementary fermions and their antiparticles have opposite parity. Bosons are their own antiparticles. The parity of a composite system equals the product of the parities of all its constituents multiplied by (–1)j, where j is the system’s total angular momentum.
+
+• In electric dipole radiation, the emitting atom’s parity reverses, requiring an odd-parity photon state. In magnetic dipole radiation, the emitting atom’s parity is unchanged, requiring an even-parity photon state.
+
+• Positronium is a bound system of an electron and an antielectron (a positron). The orbital ground state has a spin-one triplet state, and an odd parity, spin-zero singlet state. Conservation of both angular momentum and parity allow only the singlet state to decay to two photons; the triplet state must decay to three photons, making its lifetime 1000 times longer (1.42×10–7 vs. 1.25×10–10 seconds).
+
+• Summing angular momenta from several sources entails three key principles: Firstly, M = Σ m. M, the z-component of angular momentum of a system, is the sum of the z-components of its parts.
+
+system, is simply the sum of the z-components of angular momenta of all the parts of that system. Secondly, any entity’s total angular momentum J is unchanged by rotation. Thirdly, the final state with maximum total spin is the linear sum of the original states with equal coefficients.
+
+• The electron wave function in a hydrogen atom, for quantum numbers n, j, and m, is: ψ (θ,φ,ρ,t) = α Y (θ,φ) F (ρ) exp{–iEt/ħ} n,j,m j,m n,j n E = – R/n² n y ρ = r / a₀ = r / (ħ²/µe²)
+
+a = 2a₀ {k/n–1} / {k(k+1) – j(j+1)} k+1 k F (ρ) = exp{–ρ/n} Σ a ρk-1 n,j k k
+
+Here α is the normalization factor, µ is the electron mass, and the sum over k goes from k=j+1 to k=n. Each state with a unique set of quantum numbers n, j, and m, may contain up to two electrons, one spin up and the other spin down. Each group of |n,j> states has 2j+1 different m-states that may contain up to 4j+2 electrons. The maximum number of electrons with principal quantum number n, the capacity of the n-shell, equals 2n².
+
+• Feynman says: “The Schrödinger equation has been one of the great triumphs of physics. By providing the key to the underlying machinery of atomic structure it has given an explanation for atomic spectra, for chemistry, and for the nature of matter.”
+
+• Quantum operators act on quantum states producing new states. Algebraic operators act on functions producing new functions. For example: Quantum vs. Algebraic H |ψ> <=> H ψ(x); H=–(ħ²/2m)∂²/∂x² +V(x)
+
+x |ψ> <=> x ψ(x) = x ψ(x)
+
+p |ψ> <=> P ψ(x); P = (ħ/i) ∂/∂x x x x P = (ħ/i) (∂/∂x, ∂/∂y, ∂/∂z)
+
+H = (1/2m) P•P + V(r)
+
+For any operator A, its Hermitian adjoint Z is defined by: Z = (A )*. If Z = A, A is called Hermitian or self-adjoint.
+
+• If M independent measurements are made on quantum entities in a uniform population, each measured value must be an eigenvalue. For a quantum system with discrete eigenstates |j> and eigenvalues E, let the number of measurements with value E be M, with M=ΣM. The average measured value is: <E > = Σ (M/M) E ψ j j j For large M, each M/M approaches the expectation value Prob(j), the probability of |j>, and σ , the root-mean-square deviation of M, equals: σ = √{ M p(1–p)}, with p=Prob(j)
+
+Mj If the probability of any particular outcome is small (p<<1), this becomes: σ = √{ M } Mj j For any physically observable quantity A associated with a quantum operator A, the average value of A for any state |ψ> can be expressed independently of basis states: <A > = <ψ| A |ψ> For a system with continuous, normalized states, this becomes: <A > = ∫∫ ψ*(x) <x|A|X> ψ(X) dx dX
+
+• The commutator of operators A and B is: [A,B] = A B – B A
+
+Examples are: x P – P x = iħ x x x P – P y = 0 y x [J ,J ] = iħ J x y z
+
+If [A,B] = 0, the operators commute.
+
+• The time evolution of the average <A > of a large sample of measurements corresponding to operator A is: d<A >/dt = <ψ| (i/ħ)[H,A] + dA/dt |ψ>
+
+Examples and their corresponding classical analogs are: d<x>/dt = p/m <=> dx/dt = p/m = v ψ x d<p>/dt = –dV/dx <=> dp/dt=ma=F=–dV/dx
+
+• The probability of finding a particle anywhere must always equal 1. This means probability is conserved globally. But more importantly, probability is conserved locally as well. The probability current Ĵ, and its relationship to the change of probability is: Ĵ = {(ψ* P ψ) + (ψ* P ψ)*}/2m ∂(Prob)/∂t + (i/ħ) P•Ĵ = 0
+
+The time derivative of probability plus the divergence of probability current equals zero, integrated over any volume we choose. This means probability is conserved locally, within any selected volume.
+
+• An electron’s wave function describes the amplitude of finding the electron at each location, at each moment in time. But this does not mean an electron is “smeared-out” with a smooth charge density. If searched for, an electron will be found at a specific point, with all of its charge at that point. If an immense number of particles exist in exactly the same state, Feynman says: “ψ*ψ can be interpreted as the density of particles.”
+
+• The wave function for photons is the same as the electromagnetic vector potential A, which we can directly measure. The remarkable thing about low-temperature phenomena, such as superconductivity, is that they allow fermions to “pair up” forming bosons, such as Cooper pairs, that combine in immense numbers in a common state, allowing a direct measurement of their wave function.
+
+• Superconductivity is the property of conducting electric current with absolutely zero resistance. From actual observations, the estimated lifetime of superconducting currents is at least 100,000 years. Theoretical estimates exceed the age of the universe. Atomic quantum effects produce the macroscopic phenomenon of superconductivity at extremely low temperatures. This is because higher-energy states “freeze out”, and behavior is dominated by the discreteness of the remaining states.
+
+• In the presence of magnetic fields, two types of momentum are important, each with a different role. Feynman says the same two types arise in classical physics.
+
+s as well, and he defines these as: "mv-momentum": p = mv; "p-momentum": p = mv + qA. Here A is the vector potential defined by: B = curl A. In the Coulomb gauge, divergence A = 0.
+
+• Wave function collapse is the greatest unresolved mystery of quantum mechanics. Einstein described it as the "entirely peculiar mechanism of action at a distance." Quantum entities can exist in a superposition of different momenta, spins, locations, etc., but measurements always yield single definitive values for these quantities. To reconcile quantum indeterminacy with definitive measurements, wave functions must collapse everywhere simultaneously when disturbed by any substantial external influence, including scientific observation. While wave functions are mathematical constructs without physical reality, no one understands the "magical" mechanism by which wave functions collapse.
+
+• The mathematical formalism of quantum mechanics is one of science's greatest triumphs. However, physicists have substantially divergent views on its interpretation. What is the world-view of quantum mechanics — what does quantum mechanics really say about the fundamental processes of nature?
+
+• Particles are entangled if they exist in a common and inseparable quantum state. For example, the state of the two photons emitted by the decay of singlet-state positronium is: (|1RHC, 2LHC> – |1LHC, 2RHC>)/√2. Here, |1RHC, 2LHC> is the basis state of photon #1 being RHC and photon #2 being LHC polarized. The two photons share one common wave function; neither has its own separate wave function. Each photon has a 50% probability of RHC and 50% probability of LHC polarization. But the probability of their polarizations being opposite is always 100%. If we measure photon #1 and find it is RHC, photon #2 instantaneously becomes LHC.
+
+• Teleportation is the process of recreating material objects at a remote location without physically moving those entities through space. Teleportation is possible using entangled quantum states, but it cannot reach destinations that have not previously been reached by conventional means. One entangled particle pair is consumed for every quantum state teleported.
+
+• Einstein, Podolsky, and Rosen (EPR) said a comprehensive physical theory must address everything that is real. They said a physical quantity is real if it can be predicted with absolute certainty, without measuring it. They claimed quantum mechanics, with its Uncertainty Principle, fails this requirement. Given two entangled, but separated particles, A and B, EPR claims that measuring different properties of A makes corresponding properties of B real. But, if the particles are too far apart to interact, how can the reality of B's properties depend on how we choose to measure A? To Einstein, this was irrational. This dilemma is called the EPR paradox. EPR claimed there were only two possible resolutions of this paradox: (1) a violation of the principle of special relativity that nothing can move through space faster than the speed of light; or (2) a violation of the Uncertainty Principle of quantum mechanics.
+
+• Local Realism (Locality plus Realism) is assumed by pre-quantum science. Locality denies action-at-a-distance, particularly instantaneous action-at-a-distance: particles, energy, forces, and information cannot move faster than the speed of light. An effect cannot precede the arrival of a signal traveling at light speed from its cause. Realism demands that physical quantities, such as a particle's energy, are real and precisely determined, independent of their interaction with anything else, including our instruments.
+
+• In Bohm's EPRB formulation, two photons in a singlet state emerge in opposite directions from point Q. Local Realism says each photon always has a fixed well-defined spin, and the two photons always have opposite spins. Conversely, quantum mechanics says the photons are entangled in a superposition state in which neither has a well-defined spin before a measurement, but their total sum is always definitively zero. In both theories, the photon spins are always measured to be exactly opposite one another. How can we distinguish between two theories that predict the same outcome? How can we know the true state of the photon spins before measuring them? John Stewart Bell devised Bell’s Inequality Test to prove whether or not particle spins are well-determined before they are measured. His clever idea is measuring particle spin correlations C(θ) as a function of the angle between detector orientations. At some angles, quantum mechanics predicts less correlation than any classical theory could explain. Experiments over the last 40 years convincingly confirm quantum mechanics, at least in the opinions of most physicists.
+
+• Carlo Rovelli’s theory of Relational Quantum Mechanics proposes an entirely different world-view. He says relationships are everything. Rovelli believes each object in nature is no more and no less than the sum of its relationships with a Rovelli says: “Quantum mechanics is a theory about the physical description of physical systems relative to other systems, and this is a complete description of the world.” Rovelli says it is meaningless to attempt to describe an object in isolation, the historical approach of Western science.
+
+Feynman ends his course on quantum mechanics with this advice: “I am sorry to say… that to participate in this adventure [physical science] it is absolutely imperative that you learn quantum mechanics as soon as possible. It was our hope that in this course we would find a way to make comprehensible to you at the earliest possible moment the mysteries of this part of physics.”
+
+Feynman’s Epilogue On the last day of class, at the end of his two-year introductory physics course, Feynman gave his farewell address: “Well, I've been talking to you for two years and now I'm going to quit. In some ways I would like to apologize, and other ways not. I hope—in fact, I know—that two or three dozen of you have been able to follow everything with great excitement, and have had a good time with it. But I also know that ‘the powers of instruction are of very little efficacy except in those happy circumstances in which they are practically superfluous.’ So, for the two or three dozen who have understood everything, may I say I have done nothing but shown you the things. For the others, if I have made you hate the subject, I'm sorry. I never taught elementary physics before, and I apologize. I just hope that I haven't caused a serious trouble to you, and that you do not leave this exciting business. I hope that someone else can teach it to you in a way that doesn't give you indigestion, and that you will find someday that, after all, it isn't as horrible as it looks. “Finally, may I add that the main purpose of my teaching has not been to prepare you for some examination—it was not even to prepare you to serve industry or the military. I wanted most to give you some appreciation of the wonderful world and the physicist's way of looking at it, which, I believe, is a major part of the true culture of modern times. (There are probably professors of other subjects who would object, but I believe that they are completely wrong.) “Perhaps you will not only have some appreciation of this culture; it is even possible that you may want to join in the greatest adventure that the human mind has ever begun.
+
+In my opinion, “the powers of instruction” are neither of “little efficacy” nor “practically superfluous.” I believe great teachers dramatically enhance students’ enjoyment, enthusiasm, achievement, and success in both career and life. I cherish the memories of several great teachers who certainly enriched my life. Feynman was one of the very best.
+
+Feynman’s stated goal was to challenge and inspire those few who might one day become world-leading physicists. I describe this goal as: “No Einstein left behind.” But, I believe educators should strive to reach more than “two or three dozen” out of 200 elite students — the other 170 deserve more. While almost everything in the Feynman Lectures is science that every successful physicist must learn eventually, his content is too much, too complex, and too rushed for mere mortals.
+
+My goal is to bring Feynman’s gift of science to all who love science. The Feynman Lectures provide the greatest trove of profound insight ever presented in an introductory physics course. I hope this treasure will inspire many bright young minds throughout the world. I hope Feynman Simplified reduces your “indigestion” without diminishing the brilliance and passion of one of history’s greatest physicists.
+
+Meet The Author Congratulations and thank you for reading my book. I know your time is valuable, and I sincerely hope you enjoyed this experience.
+
+I’d like to tell you something about myself and share some stories.
+
+First, the obligatory bio (as if 3 “tweets”-worth can define anyone): I have a B.S. in physics from Caltech, a Ph.D. in high-energy particle physics from Stanford University, and was on the faculty of Harvard University. Now “retired,” I teach at the Osher Institutes at UCLA and CSUCI, where students honored me as “Teacher of the Year.” In between, I ran eight high-tech companies and hold patents in medical, semiconductor, and energy technologies.
+
+My goal is to help more people appreciate and enjoy science. We all know one doesn’t have to be a world-class musician to appreciate great music — all of us can do that. I believe the same is true for science — everyone can enjoy the exciting discoveries and intriguing mysteries of our universe.
+
+I’ve given 400+ presentations to general audiences of all ages and backgrounds, and have written 3 printed books and 29 eBooks. My books have won national and international competitions, and are among the highest rated physics books on Amazon.com. I’m delighted that two of these recently became the 2nd and 3rd best sellers in their fields.
+
+Richard Feynman was a friend and colleague of my father, Oreste Piccioni, so I knew him well before entering Caltech. On several occasions, Feynman drove from Pasadena to San Diego to sail on our small boat and have dinner at our home. Feynman, my father, my brother and I once went to the movies to see “Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb.” It was particularly poignant watching this movie next to one of the Manhattan Project’s key physicists.
+
+At Caltech I was privileged to learn physics directly from this greatest scientist of our age. I absorbed all I could. His style and enthusiasm were as important as the facts and equations. Top professors typically teach only upper-level graduate classes. But Feynman realized traditional introductory physics didn’t well prepare students for modern physics. He thought even beginners should be exposed to relativity, quantum mechanics, and particles physics. So he created a whole new curriculum and personally taught freshman and sophomore physics in the academic years 1961-62 and 1962-63.
+
+The best students thrived on a cornucopia of exciting frontier science, but many others did not. Although Caltech may be the world’s most selective science school, about half its elite and eager students drowned in Feynman’s class. Even a classmate, who decades later received the Nobel Prize in Physics, struggled in this class. Feynman once told me that students sometimes gave him the “stink eye” — he added: “Me thinks he didn’t understand angular momentum.”
+
+Some mundane factors made the class very tough: Feynman’s book wasn’t written yet; class notes came out many weeks late; and traditional helpers (teaching assistants and upper classmen) didn’t understand physics the way Feynman taught it.
+
+But the biggest problem was that so much challenging material flew by so quickly. Like most elite scientists, Feynman’s teaching mission was to inspire the one or two students who might become leading physicists of the next generation. He said in his preface that he was surprised and delighted that 10% of the class did very well.
+
+My goal is to reach the other 90%.
+
+It’s a great shame that so many had so much difficulty with the original course — there is so much great science to enjoy. I hope to help change that and bring Feynman’s genius to a wider audience.
+
+Please let me know how I can make Feynman Simplified even better — contact me through my WEBSITE.
+
+While you’re there, check out my other books and sign-up for my newsletters.
+
+Printed Books, each top-rated by Amazon readers: Everyone's Guide to Atoms, Einstein, and the Universe Can Life Be Merely An Accident?
+
+A World Without Einstein
+
+The Everyone's Guide Series of Short eBooks Einstein: His Struggles, and Ultimate Success, plus Special Relativity: 3 Volumes, A to Z General Relativity: 4 Volumes, from Introduction to Differential Topology Quantum Mechanics: 5 Volumes, from Introduction to Entanglement Higgs, Bosons, & Fermions… Introduction to Particle Physics Cosmology Our Universe: 5 Volumes, everything under the Sun Our Place in the Universe: a gentle overview Black Holes, Supernovae & More We are Stardust Searching for Earth 2.0 Smarter Energy Timeless Atoms Science & Faith
+
+Table of Contents Feynman Simplified 3C: Quantum Mechanics Part Three Summary of QM Part One Summary of QM Part Two
+
+## Chapter 25 Particle Physics: Λ0 Decay
+
+## Chapter 26 Particle Physics: Neutral Kaons
+
+## Chapter 27 Angular Momentum
+
+## Chapter 28 Rotations Of Any Spin
+
+## Chapter 29 Electron Wave Functions in Hydrogen
+
+## Chapter 30 The Periodic Table of Elements
+
+## Chapter 31 Quantum & Algebraic Operators
+
+## Chapter 32 Probability & Wave Functions
+
+## Chapter 33 Superconductivity: QM Writ Large
+
+## Chapter 34 Collapse, Entanglement & Teleportation
+
+## Chapter 35 EPR: QM vs. Local Realism
+
+## Chapter 36 Review of QM Part Three
+
+Feynman’s Epilogue

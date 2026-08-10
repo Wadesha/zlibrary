@@ -1,0 +1,1676 @@
+# David Tong Lectures on Quantum Mechanicsqm
+
+> 来源文件：pre_David_Tong_Lectures_on_Quantum_Mechanicsqm.txt
+> 字符数（约）：206246
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Quantum Mechanics David Tong Department of Applied Mathematics and Theoretical Physics, Centre for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 0BA, UK http://www.damtp.cam.ac.uk/user/tong/quantum.html d.tong@damtp.cam.ac.uk
+
+Recommended Books and Resources There is no shortage of excellent textbooks on quantum mechanics. Two good introductory books, at a similar level to this course, are: • David J. Griffiths, “Introduction to Quantum Mechanics” • Alasdair Rae, “Quantum Mechanics” Both books excel in providing clear and straightforward explanations and if you’re struggling with the basics are good places to turn. They don’t however do anything sophisticated and won’t help much for later courses.
+
+If you want a book to last a lifetime, rather than just one year, there are also many options. Here are some that I like.
+
+• Shankar, “Principles of Quantum Mechanics” A long and detailed book, but one where the author takes you by the hand and leads you gently through some challenging calculations.
+
+• Landau and Lifshitz Volume 3 “Quantum Mechanics: Non-Relativistic Theory” There’s no hand holding in Landau’s theoretical minimum, just encyclopedic information, explained without fuss. It is, however, remarkably readable.
+
+• Steven Weinberg, “Lectures on Quantum Mechanics” Weinberg is always worth listening to.
+
+Contents 1 Introduction
+
+## 1.1 The Wavefunction
+
+1.1.1 Normalisation 1.1.2 Superposition
+
+## 1.2 The Schrödinger Equation
+
+1.2.1 The Hamiltonian 1.2.2 Conservation of Probability 1.2.3 The Collapse of the Wavefunction
+
+## 1.3 The Double Slit Experiment
+
+2 A Quantum Particle in One Dimension
+
+## 2.1 The Free Particle
+
+2.1.1 A Particle on a Circle 2.1.2 The Infinite Potential Well 2.1.3 The Gaussian Wavepacket 2.1.4 A First Look at Expectation Values
+
+## 2.2 The Harmonic Oscillator
+
+2.2.1 The Energy Spectrum 2.2.2 The Wavefunctions
+
+## 2.3 Bound States
+
+2.3.1 A Finite Potential Well 2.3.2 A Delta Function Potential 2.3.3 Some General Results 2.3.4 The Double Well Potential
+
+## 2.4 Scattering
+
+2.4.1 A Step Potential 2.4.2 Tunnelling 3 The Formalism of Quantum Mechanics
+
+## 3.1 States
+
+3.1.1 The Inner Product
+
+## 3.2 Operators and Observables
+
+3.2.1 Eigenfunctions and Eigenvalues 3.2.2 Hermitian Operators 3.2.3 Momentum Eigenstates and the Fourier Transform
+
+## 3.3 Measurement
+
+3.3.1 Expectation Values
+
+## 3.4 Commutation Relations
+
+3.4.1 The Heisenberg Uncertainty Principle
+
+## 3.5 Interpretations of Quantum Mechanics
+
+3.5.1 Hidden Variables 3.5.2 Copenhagen and Many Worlds 3.5.3 Shut Up and Calculate 4 A Quantum Particle in Three Dimensions
+
+## 4.1 Angular Momentum
+
+4.1.1 Angular Momentum Commutation Relations 4.1.2 The Eigenfunctions are Spherical Harmonics
+
+## 4.2 Solving the 3d Schrödinger Equation
+
+4.2.1 The 3d Harmonic Oscillator 4.2.2 Bound States in 3d 4.2.3 Why Can’t the Wavefunction Diverge at the Origin?
+
+## 4.3 The Hydrogen Atom
+
+4.3.1 The Energy Spectrum 4.3.2 The Wavefunctions
+
+## 4.4 A Pre-Quantum Quantum History
+
+4.4.1 The Bohr Model 4.4.2 What About the Photon?
+
+## 4.5 A First Look at Renormalisation
+
+4.5.1 A Delta Function Potential in the Plane 4.5.2 Renormalisation in Quantum Mechanics
+
+1 Introduction Without wishing to overstate the case, the discovery of quantum mechanics is the single greatest achievement in the history of human civilisation.
+
+Quantum mechanics is an outrageous departure from our classical, comforting, common sense view of the world. It is more baffling and disturbing than anything dreamt up by science fiction writers. And yet it is undoubtedly the correct description of the universe we inhabit, providing insights into many aspects of the world around us.
+
+Among the many successes of quantum mechanics are answers to old and very basic questions. Like why is matter stable? And why does the sun shine and why is it yellow? And why are all solids either conductors or insulators? But quantum mechanics also opens up vistas that we didn’t previously know existed, from novel states of matter where the constituent particles become so entangled that they can be coaxed to perform seemingly impossible tasks, to the subatomic world of fluctuating ethereal fields, to a revised understanding of the meaning of information and what one can achieve with it.
+
+Although quantum mechanics gives the right answers to all questions, it does so at a price. The answers are always statistical in nature. There are few certainties in the quantum world. Of course, there are few certainties in the classical world too, but we can always strive to eliminate them. In classical physics, knowledge is power: the more you know, the better off and less uncertain you are. This is because classical probabilities are always about our ignorance and any classical system that appears random does so because it is somehow difficult, but never impossible, for us to know what’s going on inside.
+
+This is not the way of the quantum world. The randomness is real, the unpredictability inherent. There is no way to game the system or gain some illicit knowledge of underlying quantum properties that would reduce the uncertainty. If, for example, a particle has probability 1/2 to be in one place and probability 1/2 to be elsewhere, this may well be because the particle really is in both places at the same time. Any attempt to eliminate the quantum uncertainty will simply shift it, like a bubble in wallpaper, elsewhere. As we will see, quantum particles are fragile objects and the very act of looking changes them, disturbing many of the other delicate properties that they possess.
+
+The purpose of these lectures is to begin to get to grips with the quantum world and understand some of the strange behaviour that it exhibits. As should be clear already, this is something of a step into the unknown and our classical intuition will not be a great guide in the quantum realm. Fortunately we have a better guide because, for reasons that we do not fully understand, the quantum world is described astonishingly well by the language of mathematics. Our strategy in these lectures, and later ones, will be to embrace this mathematical description and leverage it to build a new intuition for how the universe really works.
+
+## 1.1 The Wavefunction
+
+The difference between quantum and classical mechanics does not involve just a small tweak. Instead it is a root and branch overhaul of the entire framework.
+
+This is manifest from the very beginning as we can see by comparing how we describe the state of a system in the two frameworks. The state is the information that tells us all we need to know about the system at a fixed time, with the idea that the laws of physics will then dictate how the state evolves at all later times. Throughout these lectures we will deal only with the dynamics of a single particle. For the present discussion, we’ll think about a particle moving in R³.
+
+In the classical world, the state of the particle is determined by its position x and its velocity v = ẋ. If you specify both bits of information at some time t then you can use the equation of motion F = mẍ to determine x(t) and v(t) for all time. Importantly, it’s not enough to just know only, say, the position of the particle at t = t₀. You need both x(t₀) and ẋ(t₀). Mathematically, this is because the equation of motion is a second order differential equation and so you need to specify two integration constants to get a unique solution.
+
+In the quantum world, the state of a particle is determined by its wavefunction. This is a complex valued function ψ(x,t). As we will see, if you know the wavefunction at some time, say t₀, then you have all the information that you need to determine the state at all other times.
+
+The description in terms of the wavefunction is not a small amendment to classical mechanics. We’ve replaced the three position coordinates x ∈ R³ with an infinite amount of information, a function’s worth of information. Moreover, we haven’t specified anything about the particle’s velocity; that information must also be contained, in some manner, in the wavefunction ψ(x,t).
+
+The wavefunction has a very simple interpretation. Or, more precisely, the mod-square of the wavefunction has a very simple interpretation. It tells us the probability that we will find a particle at a given position. The probability density P for a particle to sit at point x is P(x,t) = |ψ(x,t)|². This is known as the Born rule, after Max Born who first understood that quantum mechanics is a theory of probability rather than certainty.
+
+From the probability density, you can compute actual probabilities by multiplying by a volume: the probability that the particle sits in some small volume dV centred around point x is P(x,t)dV.
+
+In all other realms of science, probability arises because of our ignorance. If you throw a classical dice, and know its initial state with complete precision, then there is no doubt about what will happen. Once the dice leaves your hand, the probability that you will roll a six is either 0 or 1. If you were really good at solving differential equations, you could just figure out the answer and impress your friends. But, in most circumstances we don’t have a good knowledge of the initial state of the dice and, besides, differential equations are hard. So we just give up, admit that we don’t know what will happen, and say that the probability of rolling a six is 1/6. Crucially, however, the introduction of probability is entirely due to our lack of knowledge; it is not an inherent property of the dice.
+
+This is not the case in quantum mechanics. The state ψ(x,t) contains all the information about a particle and the probabilistic interpretation is not because of any failing on our part, but instead due to an inherent randomness in the quantum world. This is, to put it mildly, something of a departure from the Newtonian way of thinking.
+
+The novelty in the wavefunction description of the particle might suggest other interpretations of the function ψ(x,t). You might, for example, wonder if perhaps we shouldn’t think of a particle at all, but rather some fluid-like object, spread out over space. Such objects are commonplace in physics and are known as fields. The electric and magnetic fields are familiar examples. But that’s not the right way to think about the wavefunction. This is because we never observe a fragmented particle, one that’s lost its particle form and starts spreading jell-o like throughout space. Any measuring device that will allow you to determine whether a particle is in some designated region of space will return the answer yes or no. It won’t tell you “well, the particle’s a little bit here but mostly somewhere over there to the left”. The wavefunction doesn’t describe some real fluid; it is more nebulous. It is a wave only of probability.
+
+Figure 1. In any particular experiment, you only detect particles with very definite trajectories and no hint of the more nebulous underlying wavefunction.
+
+This is illustrated in Figure 1 which shows the tracks left by electrons and positrons as they pass through a detector known as a bubble chamber. The fast travelling particles move in approximately straight lines, while those that are slower spiral in circles due to an applied magnetic field. The electrons bend one way, the positrons the other, giving the back-to-back spirals that you can see. For our purposes, the key point is that when the particles entered the detector, they were described by a wavefunction that was spread out over a large part of space. Yet, the particles don’t appear as fluffy, insubstantial clouds of probability. Instead, they leave clear tracks, with a definite trajectory.
+
+The introduction of probability at such a fundamental level means that we must abandon the idea of predicting, with certainty, what will happen in a given experiment. There is no way to say when and where the spirals will appear in the picture above. We can only compute the likelihood for this to happen. Clearly this is a retrograde step from the Newtonian (strictly, Laplacian) dream of knowing everything that will happen, from the beginning to the end of time.
+
+One might wonder if perhaps it’s possible to restore this dream at some deeper level. Maybe the wavefunction ψ(x,t) is just some coarse-grained description of something finer and more subtle that’s going on underneath. Maybe another layer of reality awaits discovery, one that allows us to bring back our comfortable deterministic, Newtonian way of thinking. There is good reason to think that this is not the case. Reality is, at heart, probabilistic. We’ll mention some of the arguments for this in Section 3.5 where we touch upon some of the interpretations of quantum mechanics. A fuller description of why a deterministic world is incompatible with experiment will be given in the lectures on Topics in Quantum Mechanics (see, in particular, the section on Quantum Foundations). For now, you’ll just have to accept that the world in which we live is not the one our forefathers grew up believing in. It is random and uncertain. It is also, as we will see, considerably more interesting because of it.
+
+1.1.1 Normalisation The probabilistic interpretation means that the wavefunction can’t just be any old function. The particle has to be somewhere, and this translates to the requirement ∫ d³x P(x,t) = ∫ d³x |ψ(x,t)|² = 1 Wavefunctions that have this property are said to be normalised.
+
+In practice, this isn’t such a big deal. Suppose that we have a wavefunction Ψ(x,t) that isn’t normalised but instead obeys ∫ d³x |Ψ(x,t)|² = N < ∞ If N is finite we say that the wavefunction is normalisable. Clearly a wavefunction is normalisable only if ψ(x,t) → 0 sufficiently fast as |x| → ∞. In this case, we can always construct a normalised wavefunction ψ(x,t) = (1/√N) Ψ(x,t)
+
+Quite often in these lectures, it will turn out to be useful to work with un-normalised wavefunctions Ψ and then remember to include the normalisation factor only at the end when computing probabilities.
+
+From the discussion above, it should be clear that we will have little use for wavefunctions that cannot be normalised because ∫ d³x |ψ(x,t)|² = ∞ These have no probabilistic interpretation and should be discarded. They do not describe quantum states. (I should warn you that this statement, while mostly true, comes with a small and annoying caveat that will rear its head fairly soon. We will address this in Section 2.1.)
+
+There is one other relation between wavefunctions that is important: two wavefunctions that differ by a constant, complex phase should actually be viewed as describing equivalent states ψ(x,t) ≡ e^(iα) ψ(x,t)
+
+for any constant, real α. Note, in particular, that this doesn’t change the probability distribution P = |ψ|². Nor, it will turn out, does it change anything else either. (The “anything else” argument is important here. As we’ll see later, if you multiplied the wavefunction by a spatially varying phase e^(iα(x)) then it doesn’t change the probability distribution P = |ψ|² but it does change other observable quantities and so multiplying by such a factor does not give back the same state.)
+
+Combining the need for normalisation, together with the phase ambiguity, it is sometimes useful to think of states as the collection of normalisable, complex functions with the equivalence relation ψ(x,t) ≡ λψ(x,t)
+
+for any complex λ ∈ C with λ ≠ 0. The wavefunctions ψ and λψ should be viewed as describing the same physical state.
+
+1.1.2 Superposition The set of wavefunctions form a vector space. This means that if ψ₁(x,t) and ψ₂(x,t) are both possible states of the system, then so too is ψ₃(x,t) = αψ₁(x,t) + βψ₂(x,t)
+
+for any α,β ∈ C. This is known as the principle of superposition.
+
+The mathematics underlying this statement is simple. If ψ₁ and ψ₂ are states of the system then both must be normalisable. They may, indeed, be normalised but for now let’s just assume that ∫ d³x |ψᵢ(x,t)|² = Nᵢ < ∞ for i = 1,2 Then ψ₃ is also a possible state of the system provided that it too is normalisable. But it is straightforward to show that it has this property. First we have ∫ d³x |ψ₃|² = ∫ d³x |αψ₁ + βψ₂|² ≤ ∫ d³x (|αψ₁| + |βψ₂|)² where we’ve used the triangle inequality |z₁ + z₂| ≤ |z₁| + |z₂| for any z₁,z₂ ∈ C.
+
+Continuing, we have ∫ d³x |ψ₃|² ≤ ∫ d³x (|αψ₁|² + |βψ₂|² + 2|αψ₁||βψ₂|) ≤ ∫ d³x (2|αψ₁|² + 2|βψ₂|²)
+
+where, now, in the last step we’ve used the fact that (|z₁| - |z₂|)² ≥ 0 which, rearranging, gives 2|z₁||z₂| ≤ |z₁|² + |z₂|². So, finally, we get the result we wanted ∫ d³x |ψ₃|² ≤ 2|α|²N₁ + 2|β|²N₂ < ∞ We learn that ψ₃ is normalisable, and hence also an allowed state of the system.
+
+The idea that functions form a vector space might be novel. There is a simple notational trick that should help convince you that it’s not too far from things you’ve seen already. If we have some n-dimensional vector ⃗y, then we often use subscript notation and write it as yᵢ with i = 1,...,N. We could equally well write it as y(i) with i = 1,...,N. A function y(x) is a similar kind of object, but now with a continuous label x ∈ R rather than the discrete label i = 1,...,N.
+
+Of course, the big difference is that we’re now dealing with an infinite dimensional vector space rather than a finite dimensional vector space, and I would be lying if I told you that this doesn’t bring new issues to the table. Indeed, we’ve already met one of them above: we don’t consider any old function ψ(x) to be in our vector space, but rather only normalisable functions. There are many further subtleties in store but we will be best served by simply ignoring them at this point. We’ll return to some issues in Section 3.
+
+The principle of superposition has profound physical consequences. Suppose that you have a particle that, at some time t, you know is localised somewhere near the point X. For example, we could describe it by the Gaussian wavefunction ψ(x) = (N)^(1/2) e^(-a(x-X)²)
+
+for some choice of a that tells you how spread out the wavefunction is. Here N is a normalisation factor that won’t concern us. (For what it’s worth, we should take N = (π/2a)^(3/2) if we want to ensure that ψ is normalised.) This is a state in which you might imagine that the particle still retains something of its classical particle nature, at least in the sense that the probability distribution is not spread out over long distances.
+
+However, the superposition principle tells us that we should also entertain the idea that the particle can sit in a state ψ(x) = (1/√N') (e^(-a(x-X₁)²) + e^(-a(x-X₂)²))
+
+for arbitrary positions X₁ and X₂. But now the cat is really out of the bag! The interpretation of this state is that the particle has somehow split and now sits both near X₁ and near X₂. Indeed, we’ll shortly see clear experimental consequences of states like the one above, where elementary particles – which are, as far as we can tell, indivisible – are coaxed into travelling along two or more different paths simultaneously. Taken to the logical extreme, it is states like the one above that lead us to seemingly paradoxical situations with cats that are both alive and dead.
+
+## 1.2 The Schrödinger Equation
+
+The wavefunction gives us a description of the state of the system. The next step is to understand how these states evolve in time. This is described by the Schrödinger equation, iℏ ∂ψ/∂t = Ĥ ψ (1.1)
+
+Here ℏ is Planck’s constant, a fundamental constant of nature. Its value is ℏ ≈ 1.05×10⁻³⁴ Js In the quantum world, the energy unit of choice is the electronvolt, defined by the kinetic energy that an electron picks up when accelerated over a potential difference of 1 volt. It is related to the Joule as 1 eV ≈ 1.6×10⁻¹⁹ J. In these units, we have ℏ = 6.58×10⁻¹⁶ eVs The numerical value of ℏ is important for specific applications.
+
+lations. But, conceptually, the units that ℏ carries are more important. It has dimension of energy × time. This is the same dimension as angular momentum L = mx˙ ×x. It is also the same dimension as the action in classical mechanics, S = ∫dt 1mx˙2 −V.
+
+A slightly old-fashioned convention is to define Planck’s constant to be h = 2πℏ. This is bad practice. First, ℏ appears in equations much more often than the combination 2πℏ. But, more importantly, the quantity ℏ is used exclusively for Planck’s constant and its appearance in any equation is jumping up and down and screaming at you that quantum mechanics is at play. Meanwhile, h can mean many things in physics, from “height” to “magnetic field density”. In these lectures we’ll use only ℏ.
+
+1.2.1 The Hamiltonian The next object in the Schrödinger equation that needs explanation is H. This is known as the Hamiltonian. Different choices of Hamiltonian describe different laws of physics. In these lectures, we will restrict ourselves to non-relativistic particles moving in three dimensions in the presence of a potential energy V(x). For such a system, the Hamiltonian is given by ℏ2 H ˆ = − ∇2 +V(x) (1.2)
+
+2m This is an example of a differential operator. It takes a function ψ(x) and gives you back a new function, but only after differentiating by the Laplacian ∂2 ∂2 ∂2 ∇2 = + + ∂x2 ∂y2 ∂z2 For much of these lectures, we will denote operators with a hat, like H. I should mention, however, that this notation is a little like training wheels on a bike and in future lecture courses hats will be discarded and you just have to remember what objects are operators.
+
+A few comments are in order about the Schrödinger equation and Hamiltonian. First, the Schrödinger equation replaces the venerable F = ma in classical mechanics. Importantly, the Schrödinger equation is first order in time, rather than second order. This, ultimately, is why the state of a quantum system is described by ψ(x) and not both ψ(x) and ψ(x).
+
+Next, the “Hamiltonian” is not something entirely novel to quantum physics. It is actually a concept that arises in more sophisticated presentations of Newtonian physics. You can read about this approach in the lectures on Classical Dynamics. In the classical world, the Hamiltonian is closely related to the energy of the system which, for us, is E = p2 +V(x) (1.3)
+
+2m where p = mx˙ is the momentum of the particle. As these lectures proceed, we will also see the connection between the operator Hamiltonian H and energy. For now, we can just note that there is clearly a similarity in structure between the equations (1.2) and (1.3). If we wanted to push this analogy further, we might postulate some relationship in which momentum is replaced by a derivative operator, p → ±iℏ∇ ?
+
+where it’s not clear whether we should take + or − since the energy depends only on p2. More importantly, it’s not at all clear what a relationship of this kind would mean! How could the momentum of a particle – which, after all, is just a number — possibly be related to something as abstract as taking a derivative? As these lectures proceed, we’ll see the connection between momentum and derivatives more clearly. (We’ll also see that we should actually take the minus sign!)
+
+It turns out that not all classical theories can be written using a Hamiltonian. Roughly speaking, only those theories that have conservation of energy can be formulated in this way. Importantly, the same is true of quantum mechanics. This means, in particular, that there is no Schrödinger equation for theories with friction. In many ways that’s no big loss. The friction forces that dominate our world are not fundamental, but the result of interactions between many (say 1023) atoms. There are no such friction forces in the atomic and subatomic worlds and, moreover, the formalism of quantum mechanics does not allow us to easily incorporate such forces.
+
+(If, for some reason, you really do want to consider quantum friction then you’re obliged to include the direct coupling to the 1023 other atoms and track what happens. There are interesting applications of this, not least an idea known as decoherence.)
+
+One final comment: as we proceed to more advanced physical theories, whether relativistic quantum field theory or even more speculative endeavours like string theory, the Schrödinger equation (1.1) remains the correct description for the evolution of the quantum state. All that changes is the Hamiltonian (1.2), which is replaced by something more complicated, as too are the wavefunctions on which the Hamiltonian acts.
+
+1.2.2 Conservation of Probability We made a big deal about insisting that our wavefunctions are normalised so that they have a probability interpretation. But now we have the Schrödinger equation that tells us how the wavefunction evolves in time and we should make sure that this does not mess up a previously normalised wavefunction.
+
+To this end, let’s look at how the probability density changes in time. We have P = |ψ|2 and so, ∂P ∂ψ ∂ψ⋆ = ψ⋆ + ψ (1.4)
+
+∂t ∂t ∂t The Schrödinger equation (1.1) and its complex conjugate give ∂ψ i (cid:18) ℏ2 (cid:19) ∂ψ⋆ i (cid:18) ℏ2 (cid:19)
+
+= − − ∇2ψ +Vψ and = − ∇2ψ⋆ +Vψ⋆ ∂t ℏ 2m ∂t ℏ 2m We see that the terms with the potential V cancel out when inserted in (1.4) and we’re left with ∂P iℏ (cid:0) (cid:1)
+
+= ψ⋆∇2ψ −ψ∇2ψ⋆ ∂t 2m iℏ = ∇·(ψ⋆∇ψ −ψ∇ψ⋆)
+
+2m We write this as ∂P +∇·J = 0 (1.5)
+
+∂t where J is known as the probability current and is given by iℏ J = − (ψ⋆∇ψ −ψ∇ψ⋆) (1.6)
+
+2m Equations of the form (1.5) have a special place in the laws of physics. They are known as continuity equations and arises whenever there is a conserved quantity. (For example, the same equation appears in Electromagnetism where it relates the charge density to the electric current and ensures the conservation of electric charge.)
+
+To see that the continuity equation implies a conservation law, consider some region V ⊂ R3 with boundary S. We then integrate to get the probability P that the particle lies somewhere in this region.
+
+(cid:90)
+
+P (t) = d3x P(x,t)
+
+The continuity equation tells us that this probability changes as (cid:90) (cid:90)
+
+∂P V = − d3x ∇·J = − dS·J (1.7)
+
+∂t V S where, in the final step, we have used the divergence theorem. We see that the probability that the particle lies in V can change, but only if there is a flow of probability through the surface S that bounds V. If we know for sure that J = 0 everywhere on the surface S, then the probability that the particle is in the region V doesn’t change: ∂P /∂t = 0.
+
+The importance of the continuity equation is that it doesn’t just tell us that some quantity is conserved: it tells us that the object is conserved locally. In the present context, this quantity is probability. The probability density can’t just vanish in one region of space, to reappear in some far flung region of the universe. Instead, the evolution of the probability density is local. If it does change in some region of space then it’s because it has moved into a neighbouring region. The current J tells you how it does this.
+
+As a special case, if we take the region V to be all of space, so V = R3, then (cid:90)
+
+P = d3x |ψ(x,t)|2 anywhere As we’ve already seen, P = 1. The change in the probability is, using (1.7), anywhere (cid:90)
+
+∂P anywhere = − dS·J ∂t S2 where S2 is the asymptotic 2-sphere at the infinity of R3. Any normalised wavefunction must have ψ → 0 as |x| → ∞ and, for all but the most pathological wavefunctions, this ensures that the current (1.6) also decays suitably quickly, J → 0 as |x| → ∞, so that ∂P anywhere = 0 ∂t This is the statement that if the wavefunction is normalised at some time, then it remains normalised for all time.
+
+1.2.3 The Collapse of the Wavefunction There is one situation where the Schrödinger equation (1.1) does not describe the evolution of a quantum state. This occurs when we do a measurement.
+
+As an example, suppose that at time t we have a particle sitting in a superposition of two different positions far well-separated positions, X and X , something like 1 2 1 (cid:16) (cid:17)
+
+ψ(x,t ) = √ e−a(x−X1)2 +e−a(x−X2)2 N′ Left to its own devices, this state will evolve through the Schrödinger equation. But suppose instead that we chose to do a measurement of the particle. For example, we can put a detector in the vicinity of X and see if it registers.
+
+Suppose that the detector does indeed see the particle. Then we know for sure that the particle is sitting near X and that means that it can’t possibly be elsewhere.
+
+The probability that it sits near X must then vanish! Correspondingly, after the measurement, the wavefunction can’t have any support near X . Instead, at time t 2 + immediately after the measurement the wavefunction must jump to something localised near X , like ψ(x,t ) = √ e−a(x−X1)2 This is known as the collapse of the wavefunction.
+
+There is something more than a little disconcerting about this aspect of quantum mechanics. Just a few pages ago, I told you that the probability in the wavefunction was not due to our ignorance, but instead to an inherent randomness of the system. Yet now we see that once we gain additional knowledge about the system – like where the particle actually is – the wavefunction necessarily changes. Which makes it sound like the wavefunction is describing some aspect of what we know after all!
+
+The collapse of the wavefunction also demonstrates that our gain in knowledge is far from innocent. There is no way to learn something about a quantum system without perturbing that system, sometimes violently so. In the discussion above, it may appear that the collapse of the wavefunction only increases knowledge since we now have a better understanding of the particle’s position. However, the wavefunction contains other, more subtle information and this too has been disturbed by the collapse which, typically, will lead to an increase of uncertainty in other properties.
+
+Furthermore, the collapse of the wavefunction doesn’t happen 现在概率密度真的只是从一个空间区域消失，然后在检测到粒子的区域重新出现。你可能会担心这会导致因果律或狭义相对论的矛盾。事实证明并不会，但我们要到后面的课程才能完全理解原因。（例如，参见关于贝尔不等式的章节，该内容在《量子力学专题》讲座中。）
+
+波函数能以两种非常不同的方式演化——第一种是通过薛定谔方程的平滑发展，第二种是测量后的突然坍缩——这是量子力学中最令人不安的方面之一。它引发了大量忧虑、哲学思考、咬牙切齿以及诸如“本体论的”和“认识论的”等词语的喃喃自语，但似乎都不足以平息不安。我们将在第3.5节讨论量子力学的不同解释时，进一步探讨这些问题。
+
+**1.3 双缝实验**
+
+双缝装置是一个简单但标志性的实验，它生动地展示了量子力学一些更奇特的方面。
+
+为了铺垫，我们首先描述经典物理学中的两个实验。两者的装置相同：有一堵墙，上面有两个开口。这就是同名的双缝。墙后是一个探测器。你站在墙前向墙投掷东西。两个实验的唯一区别在于你投掷的东西不同。
+
+首先，我们投掷粒子。这些是乏味的经典粒子，比如网球。你随意朝墙的方向投掷。一些球会直接从墙上弹开，而另一些则幸运地穿过了缝。然后你测量探测器中球的分布。
+
+这种情况下，事情很简单。假设你关闭底部的缝，只保持顶部缝开放，然后测量到达探测器的球的分布。得到的分布看起来类似于图2中的黄色曲线。我们称之为 \(P_1\)。类似地，如果你关闭顶部缝，只保持底部缝开放，你会测量到相同的分布，只是向下平移。这是图中的蓝色曲线。现在同时打开两个缝。你看到的是之前分布的总和： \(P = P_1 + P_2\)
+
+这是图中的绿色曲线。到目前为止，一切顺利。
+
+我们的第二个实验相同，但这次使用的是波而不是粒子。出于我们的目的，这些可以是水波、声波或光波。对于任何类型的波，都有一个从根本上改变结果的新因素：这就是干涉。这里我们给出一个大致的物理描述。
+
+首先，我们打开一个缝而不打开另一个。波在缝处发生衍射并向探测器径向传播，在那里我们可以测量它们的强度。最终结果与粒子的非常相似：一个分布散开，峰值位于第一个缝的位置附近。这在图3的黄色和蓝色曲线中显示，分别对应只打开顶部或底部缝的情况。
+
+真正的区别在于当我们同时打开两个缝时。波通过两条路径传播，当它们在另一侧重新组合时，会发生相长或相消干涉。结果就是绿色曲线所示的独特干涉图样。关键是，在某些位置，当两个缝都打开时的强度可能低于任何单个缝打开时的强度。例如，这发生在两个波完全相消、屏幕上的强度消失的位置。使用激光可以清晰地看到这种干涉图样，如图4所示。
+
+有了这些经典直觉，我们现在转向量子世界。我们将最后一次执行双缝实验，这次使用量子粒子，比如电子。对于尺寸合适的缝，结果是上述两个经典实验的结合。首先，当我们探测到一个电子时，它看起来就像经典粒子出现的样子。这意味着每次我们进行游戏时，电子都作为一个点出现在探测器上，而不是像波那样连续且模糊的东西。然而，在多次进行游戏之后，屏幕上看到的概率分布与经典波的分布一致，呈现出干涉图样。一个例子如图5所示。
+
+这个结果最引人注目的方面或许是，当两个缝都打开时，屏幕上某些位置探测到的电子比任何单个缝打开时更少。从一个经典世界观出发无法解释这一点，在该世界观中粒子遵循要么通过第一个缝要么通过第二个缝的轨迹。必定是每个粒子都以某种方式“知道”了两个缝的存在。
+
+我们可以利用我们对量子力学的有限了解来理解这种行为。首先，当一个缝打开时，粒子由波函数 \(\psi_1(x)\) 描述，我们在屏幕上看到的概率分布是： \(P_1(x) = |\psi_1(x)|^2\)
+
+类似地，当第二个缝打开而第一个缝关闭时，我们有 \(P_2(x) = |\psi_2(x)|^2\)。
+
+但当两个缝都打开时，叠加原理告诉我们相加的是波函数，而不是概率。这意味着我们有 \(\psi_{12}(x) = \psi_1(x) + \psi_2(x)\)，因此新的概率分布是： \(P_{12}(x) = |\psi_1(x) + \psi_2(x)|^2 = P_1 + P_2 + \psi_1^\star(x)\psi_2(x) + \psi_2^\star(x)\psi_1(x)\)
+
+我们看到交叉项意味着 \(P_{12} \neq P_1 + P_2\)。这些交叉项负责产生干涉图样。
+
+每个电子必然穿过两个缝的结论，至少可以说是有点令人惊讶。人们可能会试图找到一个巧妙的方法来回避它，也许是在其中一个缝附近设置一个巧妙的装置，以确切地告诉我们粒子穿过了哪个缝。事实证明，任何这样做的尝试都必然会扰动粒子的状态。例如，如果你确切知道粒子穿过了缝1（或者等价地，它没有穿过缝2），那么波函数会坍缩到： \(\psi_{12}(x) \longrightarrow \psi_1(x)\)
+
+干涉图样就消失了。有一些普遍原理——特别是我们将在第3节遇到的海森堡不确定性关系——它们表明，任何能够确定粒子穿过了哪个缝的装置，也必然足够强烈地扰动粒子的状态，从而破坏干涉条纹。
+
+量子之谜通常被表述为电子是粒子还是波的问题。通常给出的答案是：两者都是。一个好得多的答案是：都不是。电子，像所有量子物体一样，存在于我们日常经验无用的领域。认为这类物体可以用我们在沙滩上找到的东西来描述，温和地说，有点不成熟。相反，量子粒子由波函数描述。正确的做法不是去寻找某种能捕捉量子粒子某些方面的经典隐喻，而是更好地理解支配这些波函数的规则。
+
+**2 一维量子粒子**
+
+关于量子力学的基本公设，还有很多要讲。然而，我们不是一开始就介绍完整的数学框架，而是打算探索几个薛定谔方程的简单例子。这样做，我们将建立一些直觉，以便思考波函数以及它所编码的各种信息。在这个过程中，我们将阐述如何在量子世界中思考物理。
+
+本节的一些步骤将涉及一定程度的“信念飞跃”，因为我们试图阐明波函数的意义。在第3节，我们将回到量子力学的基本表述，那时我们将更精确地陈述游戏规则，并给出该理论更完整的描述。
+
+我们将从一个粒子在一维空间中运动的量子力学系统开始。这意味着波函数 \(\psi(x,t)\) 只依赖于单个变量 \(x\)（除了时间），薛定谔方程变为： \(i\hbar \frac{\partial \psi}{\partial t} = -\frac{\hbar^2}{2m} \frac{\partial^2 \psi}{\partial x^2} + V(x)\psi\)
+
+我们将针对 \(V(x)\) 的各种选择来求解这个方程并解释结果。
+
+**定态薛定谔方程**
+
+乍一看，薛定谔方程似乎相当令人生畏，因为它是一个偏微分方程。事实上，处理时间变量有一个直接的方法。这个想法是寻找形式为可分离解的解： \(\psi(x,t) = e^{-i\omega t} \psi(x)\)  (2.1)
+
+其中频率 \(\omega\) 是某个选择。注意我们略微滥用了一下符号，用同一个变量 \(\psi\) 表示 \(\psi(x,t)\) 和 \(\psi(x)\)。在接下来的内容中，希望在任何给定情况下我们谈论的是哪一个会是清楚的。在有混淆可能的地方，我们会保留显式的变量。
+
+因为这是我们将在本讲座中求解所有薛定谔方程的方式，让我们简要回到一般情况： \(i\hbar \frac{\partial \psi(x,t)}{\partial t} = \hat{H} \psi(x,t)\)  (2.2)
+
+将试探解 (2.1) 代入，我们发现自己需要求解： \(\hat{H} \psi(x) = E \psi(x)\)，其中 \(E = \hbar \omega\)  (2.3)
+
+这被称为定态薛定谔方程。如果你真的想区分，最初的薛定谔方程 (2.2) 当然被称为含时薛定谔方程。这里我们通常会直接称两者为薛定谔方程，除非可能引起混淆。
+
+可能存在关于讨论对象的混淆。
+
+薛定谔方程（2.3）的形式与我们在处理矩阵时遇到的特征值方程非常相似，这是一个非常好的类比，我们在后续讨论中应牢记。在我们研究的所有例子中，我们会看到方程（2.3）仅对特定的 E 值有解。此外，这些特殊的 E 值将被解释为系统的可能能量。
+
+形如（2.1）的可分离解有时被称为定态，有时被称为能量本征态。它们在量子力学中扮演着特殊的角色。人们可能会担心，只关注这类解是否过于受限，以至于我们错过了许多其他有趣的解。事实上，随着学习的深入，我们将看到所有解都可以表示为不同定态的线性组合。
+
+## 2.1 自由粒子
+
+我们的第一个例子是最简单的。我们考虑一个在没有势能 V(x)=0 的一维空间中运动的粒子。
+
+在这种情况下，与时间无关的薛定谔方程为： ℏ² d²ψ −  = Eψ (2.4)
+
+2m dx²
+
+我们需要做的就是解这个方程。解很容易写出：对于每一个 k ∈ ℝ，都有一个不同的解： ψ(x) = eikx (2.5)
+
+方程（2.4）中的本征值 E 由下式给出： ℏ²k² E =  (2.6)
+
+2m
+
+正如我们上面提到的，E 的值被解释为状态 eikx 的能量。目前，我们将此视为量子力学的一个基本假设，或许这个假设可以根据我们之前关于能量与哈密顿量关系的评论得到一些支持。我们将在第 3 节重新审视这些假设。
+
+如果我们确实将（2.6）解释为粒子的能量，我们或许应该将其与经典预期进行比较。在没有势能的情况下，只有动能，其表达式为： p² E_classical = 2m
+
+其中 p = mx˙ 是粒子的动量。显然，这表明状态（2.5）的动量应被确定为： p = ℏk (2.7)
+
+这是正确的解释。我们稍后将看到（2.5）是一个“动量本征态”，这意味着它是一个具有确定动量的状态。
+
+波函数（2.5）可以看作正弦和余弦函数的和，描述了一个复数值波，其波长为： 2π λ =  (2.8)
+
+|k|
+
+这里需要 |k|，因为 k 可以是正或负，而波长总是正的。动量 p 和波长 λ 之间的关系（2.7）变为： 2πℏ |p| = λ
+
+在此背景下，λ 被称为粒子的德布罗意波长。任何非相对论性粒子，具有动量 p，都关联着一个波长 λ，并且正如我们将看到的，在某些情况下会表现出波动特性。更成熟的德布罗意关系是（2.7），其中 k 被称为波数。然而，物理学家（尤其是我本人）有时会不严谨地将 k 称为动量，这并不罕见。
+
+然而，在这个最简单的量子力学例子中，存在一个恼人的微妙之处。波函数（2.5）是不可归一化的！如果你对其进行积分，你会得到： ∫+∞  ∫+∞ dx |ψ|² =  dx 1 = ∞ −∞  −∞
+
+这很糟糕！这意味着我们不能真正将 ψ = eikx 视为我们粒子的状态。对此我们该如何理解？
+
+这是一个棘手的问题，在许多其他情况下不会出现。最终，我们将在第 2.4 节正面解决这个问题，届时像（2.5）这样的波函数将变得非常有用，不容忽视。但最好的做法是我们先回避问题，看看它不出现的情况。
+
+2.1.1 圆周上的粒子一个简单的修正方法是考虑一个在半径为 R 的圆周上运动的粒子。薛定谔方程仍然是（2.3），其解仍然是（2.5），但现在增加了一个额外的要求，即波函数应该是周期性的，所以： ψ(x+2πR) = ψ(x)
+
+并非所有解（2.5）都满足这个要求。我们必须有： eik(x+2πR) = eikx ⇒ e2πikR = 1
+
+这仅当 k 具有以下形式时才成立： k = n/R, 其中 n ∈ ℤ
+
+这是我们量子力学中“量子”一词的第一个迹象。这个词指的是，在经典世界中总是连续变量的某些量，在这个新框架下只能取某些离散值。对于圆周上的粒子，我们看到动量是量子化的： p = ℏn/R, 其中 n ∈ ℤ (2.9)
+
+能量也是量子化的： ℏ²n² E = , 其中 n ∈ ℤ 2mR²
+
+可能的动量值之间的间隔为 ℏ/R。随着圆圈变大，允许的动量状态之间的间隔变得越来越小。在某个点，这在实验上将与动量 p 取任意实值无法区分。类似评论也适用于能量。所有可能能量的集合被称为哈密顿量的谱。
+
+作为一个极端的例子，我们不知道我们的宇宙是无限的还是有限的，其半径 R ≳ 200亿光年。如果是后者，那么你将不能以任意动量运动，只能以以 ∼ 1/R 精细分级的非常特定的值运动。不用说，我们没有办法以足够高的精度测量动量来区分这两种情况。
+
+反之，假设在我们的宇宙中，除了我们看到的明显三维空间之外，还存在额外的空间维度。如果这样的维度存在，我们需要一个理由来解释为什么我们没有观察到它们。一个明显的可能性是，它们卷曲形成一个圆环或其他紧凑空间。在这种情况下，最低能量的波函数只是均匀地分布在额外维度上。如果你想在额外维度中移动，那么你需要一个最小的动量 p = ℏ/R，以及相应地，一个最小的能量 ℏ²/2mR²。如果我们无法提供这个最小能量，我们就不会意识到这些额外维度的存在。但具有讽刺意味的是，我们之所以意识不到它们，是因为我们均匀地居住在其中，而不是因为我们被困在某一点上。
+
+没有迫切的理由相信我们的宇宙中存在额外维度。我们最好的粒子加速器能达到约 10¹² eV（也称为 TeV）的能量，并且没有迹象表明它们将粒子撞击到下一个维度。这给这些假设的小型额外维度的大小设定了一个限制，即 R < 10⁻¹⁹ m 左右。（为了给你一个更完整的故事，当达到这些能量时，我们确实需要相对论动力学。结果是，在额外维度中的最小动量需要的能量 E = ℏc/R，但一般结论保持不变。）
+
+动量和能量等量的离散性是量子力学的特征之一。然而，如上例所示，基本方程本身并没有离散性。相反，离散性是一种涌现现象。整数 n 只在你求解这些方程时出现。在当前的例子中，对于这是如何产生的，有一个很好的直观解释：唯一允许的状态是那些整数 n 个德布罗意波长恰好能环绕圆周的状态。实际上，量子化条件（2.9）变为： 2πR λ = , 其中 n ∈ ℤ |n|
+
+n = 0,1,2 和 3 的波函数绘制在图 6 中。n = 0 的波函数只是一个常数。n = 1 的波函数在环绕圆周时振荡一次这一点不太明显，但随着 n 增加，这变得越来越容易想象。n = 15 的波函数显示在图 7 中。
+
+最后，我们可以回到困扰我们早先粒子在线上例子的归一化问题。波函数（2.5）没有归一化，但当在圆周上观察时，它至少是可归一化的。我们有： ∫2πR  dx |ψ|² = 2πR
+
+这告诉我们，正确归一化的波函数是： eikx ψ(x) = √ 2πR
+
+你可以看到，如果我们尝试通过取 R → ∞ 来返回到实数线上的粒子，这效果并不好。在这个极限下，波函数在试图保持归一化的过程中变得越来越小，直到完全消失。
+
+2.1.2 无限深势阱通过观察一个被困在宽度为 L 的无限深势阱中的粒子，我们可以得到非常相似的物理图像。我们可以通过以下设置实现这一点： V(x) = { 0,   0 < x < L { ∞,   其他情况
+
+你可能认为我们现在不再处理自由粒子了，因为它受到了无限大的势能。然而，无限大的 V(x) 的影响非常容易处理。薛定谔方程是： ℏ² ∂²ψ −  + V(x)ψ = Eψ 2m ∂x²
+
+如果我们寻找具有有限能量 E 的状态，那么在任何 V(x) = ∞ 的区域，我们必须有 ψ = 0。直观上这很明显：无限深势阱只是一个设定，它让我们坚持粒子被限制在区域 0 < x < L 内。在这个区域内，我们再次拥有自由薛定谔方程： ℏ² ∂²ψ −  = Eψ 2m ∂x²
+
+但现在在区间的两个端点 x = 0 和 x = L 处加上了 ψ(x) = 0 的限制。解仍然是 eikx 波函数的一个受限类别。
+
+要更详细地看到这个限制，首先回忆我们之前的例子中波矢量 k 可以是正或负。此外，在那种情况下，e+ikx 和 e-ikx 描述两种不同的状态，因为根据（2.7），它们对应具有正动量或负动量的粒子。对于区间内的粒子，我们将考虑更一般的试探解： ψ(x) = Aeikx + Be-ikx
+
+现在 k > 0。要求 ψ(x=0) = 0 告诉我们 B = -A，所以波函数必须是： ψ(x) = A(eikx - e-ikx) = 2iA sin kx
+
+前面的因子 2iA 只是改变了波函数的归一化，不影响物理。现在我们必须在区间的另一端施加波函数消失的要求，ψ(x=L) = 0，或： sin kL = 0 ⇒ k = πn/L, 其中 n ∈ ℤ⁺
+
+最后，如果我们想要波函数 For the wavefunction to be normalised correctly, we should take ψ(x) = sin kx (2.10)
+
+The wavefunctions for the n = 1,2,3 and 4 states are shown in Figure 8.
+
+There is one slightly subtle difference from our previous example: in the current case n should be a positive integer, while for the particle on the circle it could have either sign. This is because reversing the sign of k in (2.10) merely flips the overall sign of the wavefunction which, as we have seen, does not give a different state. This means that the +n and −n states are the same. Meanwhile, if you set n = 0, the wavefunction simply vanishes and so the upshot is that we restrict n to be a positive integer.
+
+Figure 8. The ground state wavefunction for an infinite potential well in the top left, followed by the first three excited states.
+
+In this example, we again see that energy is quantised, taking values E = ℏ²π²n² / (2mL²) (2.11)
+
+This is very similar to the result of a particle on a circle.
+
+What about the momentum? Recall our previous discussion: the state e^{ikx} has momentum p = ℏk. But for the current example, we have (ignoring the normalisation) ψ = e^{ikx} - e^{-ikx}. This is the superposition of two states, one with momentum p = +ℏk and the other with momentum p = −ℏk. This means that these states do not have a well defined momentum. This shouldn’t be a surprise because a classical particle in a box bounces back and forth and doesn’t have a well defined sign of the momentum either. Similarly, you can think of the wavefunctions as standing waves, bouncing backwards and forwards between the two walls but not going anywhere. We’ll become more precise about how to identify the momentum of a state as we go on.
+
+The discreteness of energy levels in the infinite well has an important application, similar in spirit to the “extra dimension” story that we told above, but significantly less science fiction. Consider particles moving, as particles do, in three spatial dimensions. Suppose that you trap them in a well in one dimension, but still allow them to wander in the other two. Then, provided that you can restrict their energies to be small enough, the particles will act, to all intents and purposes, as if they’re really two-dimensional objects.
+
+This is in sharp distinction to what happens in classical mechanics where the particles would move approximately in two dimensions but there would always be small oscillations in the well that can’t be ignored. In contrast, the discreteness of quantum mechanics turns an approximate statement into an exact one: if the particle doesn’t have enough energy to jump to the n = 2 state then it really should be thought of as a 2d particle. Of course, we can also restrict its motion once more and make it a 1d particle.
+
+This may not seem like a big deal at this stage but, as we will learn in later courses, interesting things can happen in low dimensions that don’t happen in our 3d world. But these things aren’t mere mathematical curiosities: they can be constructed in the lab using the method above. (If you want an example, in 2d — but not in 1d or in 3d — it’s possible for an electron to split into N objects each carrying fractional electric charge 1/N. And this can be seen in experiments!)
+
+2.1.3 The Gaussian Wavepacket Let’s now return to the problem of a free particle moving on a line, with x ∈ R. Recall that the time dependent Schrödinger equation is iℏ ∂ψ/∂t = - (ℏ²/2m) ∂²ψ/∂x² This is solved by the separable solution ψ(x,t) = e^{-iE_k t/ℏ} e^{ikx} for any choice of k ∈ R. In anticipation of what’s coming next, we’ve changed the notation to make it clear that both the wavefunction ψ and the energy E_k depend on the wavenumber k, with the latter given by E_k = ℏ²k² / (2m)
+
+The problem, as we’ve seen, is that ψ is not a normalisable wavefunction on R and therefore is an illegal state. However, that doesn’t stop us from taking superpositions of ψ to build states that are normalisable. The most general superposition takes the form ψ(x,t) = ∫_{-∞}^{+∞} dk A(k) ψ_k(x,t) (2.12)
+
+for some function A(k). Moreover, for each choice of A(k), this wavefunction will solve the time dependent Schrödinger equation. This follows from a simple, yet important, observation about the general time dependent Schrödinger equation (1.1): it is linear. This means that if you find two solutions ψ₁ and ψ₂ that solve the Schrödinger equation, then their sum is guaranteed to solve it as well. This linearity of quantum mechanics is, like the Schrödinger equation itself, something that persists as we move on to more advanced topics. It is one of the very few ways in which quantum mechanics is simpler than classical mechanics.
+
+For our purposes, let’s consider a wavefunction built by taking A(k) = exp(-(k - k₀)² / (2σ²) + k₀² / (2σ²))
+
+This is a Gaussian distribution over momentum states ψ_k, centred around the wavenumber k = k₀, with width σ > 0. A sketch is shown to the right. The additional factor of e^{k₀² / (2σ²)} is just a constant and only affects the normalisation of the wavefunction; we’ve included it so that things look simpler below.
+
+When used to construct the linear superposition (2.12), the Gaussian distribution means, roughly speaking, that we include significant contributions only from wavenumbers that lie more or less within the window (k - k₀)² ≲ a few times σ² (2.13)
+
+Outside of this window, the coefficients A(k) drop off very quickly. What does the resulting wavefunction look like? We have ψ(x,t) = ∫_{-∞}^{+∞} dk exp(-k²/(2σ²) - i2kk₀/(2σ²) + ik₀²/(2σ²) + ikx - iℏtk²/(2m))
+
+= ∫_{-∞}^{+∞} dk exp(- (α/2)(k - β/α)² + β²/(2α))
+
+where, in the second line, we have simply completed the square and the various parameters are given by α = 1/σ² + iℏt/m, β = ik₀/σ² + ix (2.14)
+
+At this stage, we have an integral to do. This is well-known Gaussian integral, ∫_{-∞}^{+∞} dk e^{-α(k-γ)²/2} = √(2π/α)
+
+This result holds for any γ and for any α with Re(α) > 0. A quick look at the α defined above confirms that we’re in business, and the final result for the wavefunction is ψ(x,t) = √(2π/α(t)) exp(-(x - ik₀/σ)² / (2α(t))) (2.15)
+
+where the function α(t) is defined in (2.14). We see that the wavefunction also takes the form of a Gaussian, now in space, and with a time dependent width α(t).
+
+There’s a lot to unpack in this formula. First, note that the wavefunction is normalisable. (Although, as we shall see shortly, not actually normalised.) This follows from the fact that ψ(x,t) decays exponentially quickly as x → ±∞. So although we built the wavefunction from the non-normalisable, and hence illegal, waves e^{ikx}, there’s nothing wrong with the end product. This is the first sign that we shouldn’t be so hasty in simply discarding the e^{ikx} wavefunctions on the line. They may not be genuine states of the system, but they’re still useful.
+
+The state described by (2.15) has neither definite momentum nor energy nor, indeed, position. This is actually the lot of most states. Moreover, the state does not take the simple separable form of the stationary states that we’ve discussed until now. Indeed, the time dependence is fairly complicated. It turns out that one can construct all solutions of the Schrödinger equation through similar linear superpositions of stationary states. When, as in the present case, the stationary states are simply e^{ikx}, the linear superposition is just the Fourier transform of a function. But it also holds in more complicated cases. This is why it’s sensible to solve the time dependent Schrödinger equation by first looking for solutions to the simpler time independent Schrödinger equation. We’ll address this further in Section 3.
+
+Next, we can try to extract some physics from the state (2.15) which goes by the name of the Gaussian wavepacket. Clearly it describes a state that is fairly well localised in space. But, as time goes on, it becomes more and more spread out. This is what happens to quantum probability if it is not trapped by some potential: it disperses. It is only the stationary states that have a definite energy and, correspondingly, the simple e^{-iEt/ℏ} time dependence that stick in one place.
+
+There is also something interesting in the size of the dispersion. Recall that we built the state by integrating over momentum modes in the window (2.13). We can think of this in terms of the variance, or uncertainty, of the wavenumber which we write as Δk² ∼ σ² where ∼ is an important mathematical symbol that means the thing on the left is roughly like the thing on the right. It’s useful in physics when trying to tease out some relation without bothering about all the details like annoying numerical coefficients.
+
+Meanwhile, the spread in position is determined by the function α(t) given in (2.14). It is at its minimum when t = 0, so we have Δx² ∼ α(t) ≥ α(t=0) = 1/σ² We see that the spread of the wavefunction in position space is inversely proportional to its spread in wavenumber or, equivalently, its spread in momentum p = ℏk. Multiplying these together, we get Δx² Δp² ≳ ℏ² This is our first glimpse at the famous Heisenberg uncertainty relation. You can localise a particle in space only at the expense of having a broad range of momenta, and vice versa. We’ll derive the proper mathematical expression of the Heisenberg uncertainty relation in Section 3.4.1.
+
+This also gives us a new perspective on our original attempt at writing states as ψ = e^{ikx}. These wavefunctions have a definite momentum, p = ℏk. But they are also spread out everywhere in space and this is what resulted in their non-normalisable downfall.
+
+2.1.4 A First Look at Expectation Values There is one thing that might still seem puzzling about our wavefunction ψ(x,t) = √(2π/α(t)) exp(-(x - ik₀/σ)² / (2α(t)))
+
+We constructed it by summing over states with different wavenumbers, but they were peaked around k = k₀. And one might think that this should correspond to a particle that has a momentum close to p = ℏk₀. But we just said that the state has no definite momentum! So what’s going on?
+
+would result in a particle moving with some average momentum p = ℏk. But it’s not obvious that our wavefunction is moving to the left or right in any way. In fact, pinning down its location is a little bit confusing because there’s the imaginary piece -ik/σ sitting in the exponent. How should we think of this?
+
+To get a better sense of what’s going on, we should compute the probability density P ∝ |ψ|². At this point we should be more careful about the overall normalisation, so we introduce a constant C that we’ll figure out later and write P = C|ψ|². We then have
+
+P(x,t) = (2πC / |α|) exp{ - (1/(2α)) (x - ik₀/σ)² - (1/(2α⋆)) (x + ik₀/σ)² } = (2πC e^{k₀²/σ} / (|α| σ |α|²)) exp{ - (1 / (σ |α|²)) (x - (ℏk₀ t / m))² }  (2.16)
+
+where you need a little bit of algebra to get to the second line. You can check that the probability is correctly normalised if we take C = e^{-k₀²/σ} / (4σπ³)^{1/2}. Importantly, the normalisation factor itself doesn’t depend on time. This had to be the case because we’ve constructed this wavefunction to obey the time dependent Schrödinger equation and, as we saw in Section 1.2.2, if you normalise the wavefunction at one time then it stays normalised for all times.
+
+From the form of the probability (2.16), you can clearly see the growing width of the distribution, with
+
+1/|α|² = 1/σ² + ℏ²t² / m²
+
+However, it is now also clear that the probability distribution doesn’t just sit at the origin and spread out, but instead moves. This follows because the x dependence takes the form x - vt where the velocity is v = ℏk₀ / m.
+
+If we think in classical terms, and define the momentum to be p = mv, then we have p = ℏk₀ as expected.
+
+There should be a more systematic way to extract this information about the momentum of a state, one that doesn’t involve staring at complicated formulae to figure out what’s going on. And there is. Our equation (2.16) is a probability distribution for the position of the particle. As with any probability distribution, we can use it to compute averages and variances and so on.
+
+Given a probability distribution P(x), with x ∈ ℝ, the average of any function f(x) is given by
+
+⟨f(x)⟩ = ∫_{-∞}^{+∞} dx f(x) P(x)
+
+In quantum mechanics the average is usually called the expectation value and, as above, is denoted by angular brackets ⟨·⟩. We can then ask: what is the average position of the particle given the probability distribution (2.16)? We simply need to compute the integral
+
+⟨x⟩ = (1 / (πσ|α|²)^{1/2}) ∫_{-∞}^{+∞} dx x exp{ - (1 / (σ|α|²)) (x - (ℏk₀ t / m))² } = (1 / (πσ|α|²)^{1/2}) ∫_{-∞}^{+∞} d\tilde{x} (\tilde{x} + (ℏk₀ t / m)) exp{ - (1 / (σ|α|²)) \tilde{x}² }
+
+where, in the second line, we’ve shifted the integration variable to \tilde{x} = x - ℏk₀ t/m. We can now use the general result for Gaussian integrals,
+
+∫_{-∞}^{+∞} dx e^{-ax²} = (π/a)^{1/2}  and  ∫_{-∞}^{+∞} dx x e^{-ax²} = 0  (2.17)
+
+where the second equality follows because the integrand is odd (and suitably well behaved at infinity). Using these, we get
+
+⟨x⟩ = ℏk₀ t / m
+
+showing, once again, that the wavepacket travels with velocity v = ℏk₀ / m.
+
+We could do further calculations to compute the average of any other function f(x). But instead we’re going to pause and ask a different question. How do we compute the average momentum of the wavepacket?
+
+At first glance, this might seem like an odd question. After all, we’ve just computed the velocity v and so the average momentum is surely p = mv. However, in later examples things won’t be so straightforward and this is a useful place to pause and see what’s going on.
+
+One reason this is an interesting question is because it gets to the heart of the difference between classical and quantum mechanics. In classical mechanics, the state of the system is determined by both x and p. But in quantum mechanics we have only the wavefunction, ψ(x) and this has to contain information about both position and momentum. So how is this encoded? This is one of the steps in this section that involves a leap of faith and no small amount of creativity.
+
+In fact, we saw a hint of how to proceed back in the introduction. Recall that our Hamiltonian for a one-dimensional particle is
+
+H = - (ℏ² / (2m)) d²/dx² + V(x)
+
+while, in classical mechanics, the energy of a particle is
+
+E_classical = p² / (2m) + V(x)
+
+This suggests a relationship between momentum p and the act of taking a derivative
+
+p ↔ -iℏ d/dx
+
+where I’ve picked the minus sign, as opposed to plus sign, because I’ve studied this course before. This is the clue that we need. Given a wavefunction ψ(x), the momentum is encoded in how fast it varies in space. We can see this in the simple non-normalisable states ψ = e^{ikx} where ψ' = ik e^{ikx} and is clearly bigger for higher momentum. In general, the correct relationship between momentum and the derivative manifests itself in the following formula
+
+⟨p⟩ = -iℏ ∫_{-∞}^{+∞} dx ψ⋆ (dψ/dx)  (2.18)
+
+We’ll have a lot more to say about this in Section 3. For now, let’s just see what it gives for our Gaussian wavepacket. We have
+
+⟨p⟩ = (1 / (πσ|α|²)^{1/2}) e^{-k₀²/σ} ∫_{-∞}^{+∞} dx e^{-(x+ik₀/σ)²/(2α⋆)} (-iℏ d/dx) e^{-(x-ik₀/σ)²/(2α)} = (1 / (πσ|α|²)^{1/2}) ∫_{-∞}^{+∞} dx (iℏ / α) (x - (ik₀/σ) - (ℏk₀ t / m)) exp{ - (1 / (σ|α|²)) (x - (ℏk₀ t / m))² }
+
+where, after taking the derivative, the algebra needed to go from the first to the second line is identical to that in (2.16). Again shifting the integration variable to \tilde{x} = x - ℏk₀ t/m, we have
+
+⟨p⟩ = (1 / (πσ|α|²)^{1/2}) ∫_{-∞}^{+∞} d\tilde{x} (iℏ k₀ / α + (-iℏ / σ)(\tilde{x}/k₀ - ℏt i / m)) exp{ - (1 / (σ|α|²)) \tilde{x}² } = ℏk₀
+
+where, to get the final equality, we did the Gaussian integrals (2.17) and then used the expression for α given in (2.14).
+
+That was a fair bit of work just to get the answer that we expected all along: ⟨p⟩ = ℏk₀. As we go on, we’ll see that the expression (2.18) is the right way to think about the average momentum of any state.
+
+## 2.2 The Harmonic Oscillator
+
+The harmonic oscillator is the name given to a particle moving in a quadratic potential. In classical mechanics, the energy is
+
+E_classical = (1/2) m ẋ² + (1/2) m ω² x²  (2.19)
+
+The classical equation of motion follows from the fact that energy is conserved, which means that Ė_classical = 0 or, equivalently,
+
+ẍ = -ω² x
+
+The most general solution has the form x(t) = A cos(ω(t - t₀)) and describes a particle bouncing backwards and forwards with frequency ω.
+
+In this section we will look at the quantum harmonic oscillator. This means that we want to solve the Schrödinger equation with Hamiltonian
+
+Ĥ = - (ℏ² / (2m)) d²/dx² + (1/2) m ω² x²  (2.20)
+
+It’s difficult to overstate the importance of the harmonic oscillator in quantum mechanics. It is, by some margin, the single most important example that we will study. The reasons for this are twofold. The first is Taylor’s theorem: if you take any potential V(x) and expand close to a minimum then, at leading order, you will most likely find the harmonic oscillator. This means that small perturbations of more or less any system in Nature are described by the Hamiltonian (2.20). (There are exceptions. Very occasionally, you might find a potential where the quadratic term vanishes, so ω = 0, and you have to look at the next term in the Taylor expansion. This situation is rare but interesting.)
+
+The second reason for the utility of the harmonic oscillator is more practical. Human beings are not particularly good at solving equations. This isn’t so apparent when you first learn theoretical physics because, quite reasonably, your teachers don’t want to stand up in front a classroom and continually repeat “yeah, we don’t know how to solve this one either”. Instead we shine a light on our successes. But as theoretical physics gets more advanced, these successes become harder and harder to find. At some point the only system that we can actually solve is the harmonic oscillator. Or, more precisely, things that can be made to look like the harmonic oscillator. The art of theoretical physics is then to make everything look like a harmonic oscillator. Take whatever you think is the coolest result in physics – maybe the Higgs boson, or some new material like topological insulators, or maybe gravitational waves or Hawking radiation. For all of them, the underlying theory is primarily to do with harmonic oscillators.
+
+There are, it turns out, a number of different ways to solve the harmonic oscillator. In these lectures we won’t do anything fancy and just go ahead and solve the Schrödinger equation viewed as a differential equation.
+
+2.2.1 The Energy Spectrum
+
+Our goal is to find solutions to the time independent Schrödinger equation,
+
+- (ℏ² / (2m)) d²ψ/dx² + (1/2) m ω² x² ψ = E ψ  (2.21)
+
+Here the word “solution” means finding all normalisable ψ(x) that satisfy the Schrödinger equation and, for each one, the accompanying energy E.
+
+There are a bunch of constants sitting in (2.21) and life is simpler if we can just get rid of them. To this end, define
+
+y = (mω / ℏ)^{1/2} x   and   Ẽ = 2E / (ℏω)  (2.22)
+
+Then the Schrödinger equation takes the cleaner form
+
+- d²ψ/dy² + y² ψ = Ẽ ψ  (2.23)
+
+Before we get going, we can find one solution just by staring. This is the Gaussian wavefunction
+
+ψ(y) = e^{-y²/2}  (2.24)
+
+The derivatives are ψ' = -yψ and ψ'' = (y² - 1)ψ, so we see that this obeys the Schrödinger equation with (rescaled) energy Ẽ = 1.
+
+Furthermore, it’s simple to see that all normalisable solutions should fall off in the same exponential fashion, with ψ ~ e^{-y²/2} as y → ±∞. This follows from looking at the large y behaviour of (2.23), where the Ẽψ term is necessarily negligible compared to the y²ψ. This motivates the general ansatz
+
+ψ(y) = h(y) e^{-y²/2}  (2.25)
+
+where we will shortly take h(y) to be a polynomial. Taking derivatives of this wavefunction gives ψ' = (h' - h y) e^{-y²/2} and ψ'' = (h'' - 2h' y + h y² - h) e^{-y²/2} so the Schrödinger equation (2.23) becomes
+
+- d²h/dy² + 2y dh/dy + (Ẽ - 1) h = 0  (2.26)
+
+You can check that this is indeed satisfied by our earlier solution (2.24) with h = 1. To find the general solution, we take the polynomial ansatz
+
+h(y) = Σ_{p=0} a_p y^p
+
+Here p is just a dum my summation index; do not confuse it with momentum! Plugging this ansatz into (2.26) gives a relation between the coefficients, (p+2)(p+1)a_{p+2} − 2pa_p − (E − 1)a_p = 0 ⇒ a_{p+2} = a_p (2.27) (p+2)(p+1)
+
+All we have to do is solve this simple recurrence relation. First note, that the recurrence relation involves two independent sets of coefficients: a_p with p even, and a_p with p odd. These two sets don’t talk to each other and so we have two classes of solutions. We’ll see the interpretation of this shortly.
+
+Next, let’s look at what happens for large p. There are two options: either the recurrence relation terminates, so that a_p = 0 for all p > n for some n. Or the recurrence relation doesn’t terminate and a_p ≠ 0 for all p. We’re going to argue that only the first option is allowed. If the recurrence relation keeps going forever, the resulting wavefunction will be non-normalisable.
+
+Why is this? If the recurrence relation doesn’t terminate then, for very large p, we have a_{p+2} ≈ 2a_p /p. But this is the kind of expansion that we get from an exponentially growing function. To see this, look at e^{y^2} = ∑_{p=0}^∞ y^{2p} / p! = ∑_{p=0}^∞ b_p y^p with b_p = (p/2)! if p is even, and b_p = 0 if p is odd. The appropriate recurrence relation for this exponential function is then b_{p+2} = b_p / (p/2+1) → b_p / p/2 as p → ∞.
+
+The upshot of this argument is that, if the recurrence relation (2.27) fails to terminate then, for large |y|, the wavefunction actually looks like ψ(y) = h(y)e^{−y^2/2} → e^{+y^2} e^{−y^2/2} = e^{+y^2/2}.
+
+The emergence of such solutions isn’t entirely unexpected. We know that, at large y, both e^{−y^2/2} and e^{+y^2/2} are equally valid solutions. Our preference for the former over the latter is for physical reasons, but the power-law ansatz that we’re playing with has no knowledge of this preference. Therefore it’s no surprise that it offers up the e^{+y^2/2} solution as an option. Nonetheless, this doesn’t change the fact that it’s not an option we want to make use of. The e^{+y^2/2} wavefunctions are non-normalisable and therefore illegal. Moreover, unlike the more straightforward ψ = e^{ikx} wavefunctions that we met in the last section, there’s no redemption for wavefunctions that grow exponentially quickly. They are not of interest and should be discarded.
+
+All of which is to say that we should be looking for solutions to (2.27) for which the sequence a_p terminates. This means that there must be some positive integer n for which 2n − E + 1 = 0 (2.28). But this is the spectrum of the theory that we were looking for! The allowed energy states of the harmonic oscillator take the form E = 1 + 2n with n = 0,1,2,... Recalling the scaling (2.22), the energies are E = ℏω(1/2 + n) with n = 0,1,2,... (2.29). All energies are proportional to ℏω, with ω the frequency of the harmonic oscillator. Furthermore the states are equally spaced, with E_{n+1} − E_n = ℏω.
+
+2.2.2 The Wavefunctions
+
+It is not hard to get the wavefunctions. We simply work backwards from the result (2.28) to figure out all the earlier coefficients in the polynomial. We learn that the Gaussian wavefunction (2.24) that we guessed earlier is actually the lowest energy state of the system, ψ = e^{−y^2/2} ⇒ E = ℏω/2 (2.30).
+
+The lowest energy state in any system is called the ground state. Note that we also came across Gaussian wavefunctions (2.15) when discussing the free particle. In that context, they spread out over time. Not so here. The fact that the Gaussian is an energy eigenstate of the harmonic oscillator means that it has the simple time dependence e^{−iE_0t/ℏ} of any stationary state. You can think of the wavefunction as pinned in place by the rising potential.
+
+The next few (unnormalised) wavefunctions are ψ = 2y e^{−y^2/2} ⇒ E = 3ℏω/2, ψ = (−2 + 4y^2)e^{−y^2/2} ⇒ E = 5ℏω/2, ψ = (−12y + 8y^3)e^{−y^2/2} ⇒ E = 7ℏω/2. These, together with the Gaussian, are shown in Figure 9. In general, the functions h(y) are known as Hermite polynomials and have a number of nice properties.
+
+We can now return to one issue that we left hanging. The recurrence relation (2.27) does not relate a_p with p even to those with p odd. This manifests itself in the solutions above where the polynomials contain only even powers of y or only odd powers of y. Correspondingly, the two classes of solutions that we anticipated earlier are simply even or odd functions, with ψ(y) = ψ(−y) when a_p ≠ 0 for p even, and ψ(y) = −ψ(−y) when a_p ≠ 0 for p odd.
+
+There is a general lesson here. Whenever the potential is an even function, meaning V(x) = V(−x), then the energy eigenstates will arrange themselves into even and odd functions. Underlying this is the concept of parity symmetry, which is the statement that the physics is unchanged under x → −x. We’ll make use of this idea of parity symmetry later in these lectures.
+
+At first glance, the wavefunctions that we’ve found don’t seem to capture much of the familiar classical physics of a particle bouncing back and forth in a potential. Because they’re all stationary states, the time dependence is simply an overall phase e^{−iEt/ℏ} in front of the wavefunction. You can compute the average position and momentum in any of the states above and you will find ⟨x⟩ = ⟨p⟩ = 0. In some sense, this is what you expect because it is also the average behaviour of the classical solution! Still, it would be reassuring if we could see some remnant of our classical intuition in these wavefunctions.
+
+A general property of quantum systems is that they tend to look more classical as you go to higher energies. For example, the discretisation effects may be less noticeable if they’re small compared to the overall energy of the system. For the harmonic oscillator, the wavefunctions for the 20th and 60th excited states are shown in Figure 10. Although it may not be obvious, some key elements of the classical trajectories can be seen hiding in these wavefunctions.
+
+First, look at the way the wavefunction oscillates. We know that a free particle with definite momentum p = ℏk is associated to e^{ikx}. The bigger k, the smaller the wavelength, and the higher the momentum. In the wavefunctions shown in Figure 10, you can see that the wavelength of oscillations is much smaller near the bottom of the potential and then gets stretched towards the edges. This coincides with the classical expectation, where the particle is travelling much faster at the bottom of the potential and slows as it rises.
+
+The way to quantify this idea uses a technique known as the WKB approximation. We’ll discuss this in more detail in the lectures on Topics in Quantum Mechanics, but here we just describe the basic idea which is enough to extract the physics that we care about. We write the Schrödinger equation as −(ℏ^2 / 2m) d^2ψ/dx^2 = (E − 1/2 mω^2 x^2) ψ.
+
+The idea is that, for large E, we might be able to think of the E − 1/2 mω^2 x^2 as roughly constant over some small region of x. We then get two different kinds of behaviour: if x^2 < 2E/mω^2 then the wavefunction oscillates, approximately as e^{ikx} for some k. Alternatively, when x^2 > 2E/mω^2, the wavefunction drops off as e^{−k|x|} for some k. The WKB approximation builds on this intuition by looking for solutions where k itself varies with x, so k = k(x). This, of course, is what’s seen in the wavefunctions plotted in Figure 10.
+
+One consequence of this is that we expect that, as E increases, the wavefunctions extend further out. Indeed, the n = 60 wavefunction extends out further than the n = 20 wavefunction. Mathematically this follows simply because there are higher powers of y in the polynomial h(y). The kind of ideas sketched above can be used to show that, for large E, the final turning point of the wavefunction occurs at x_max^2 ≈ 2E / mω^2. This is precisely the turning point of the classical particle, where the kinetic energy in (2.19) vanishes.
+
+Finally, look at the overall envelope of the wavefunction, a curve that peaks at the edges and dips in the middle. This is telling us that if you do a measurement of a particle in this high energy state, you’re more likely to find it near the edges than near the origin. But this, too, is the same as the classical picture. If you take a photograph of a ball oscillating in a harmonic potential, you’re most likely to catch it sitting towards the end of its trajectory, simply because it’s going slower and so spends more time in those regions. Conversely, the ball is less likely to be caught as it whizzes past the origin. This is, again, captured by the form of the wavefunction. We see that the quantum world is not completely disconnected from the classical. You just have to know where to look.
+
+## 2.3 Bound States
+
+Any potential that rises indefinitely at infinity will, like the harmonic oscillator, have an infinite collection of discrete allowed energies. In this section (and the next) we will look at a slightly different class of potentials, those which asymptote to some constant value V(x) → constant as x → ±∞. The value of the constant doesn’t matter; it just shifts the overall energies. For this reason, we may as well just set it to zero and consider potentials that asymptote to V(x) → 0 as |x| → ∞. An example of such a potential is shown in the figure.
+
+In fact there are a whole bunch of subtleties here to entrap the unwary. These relate to the question of how fast the potential asymptotes to zero. At this stage these subtleties are just an annoyance so we’ll assume that the potential falls off suitably quickly (for example, an exponential decay will certainly be fine).
+
+Now we want to ask: what are the solutions to the Schrödinger equation −(ℏ^2 / 2m) d^2ψ/dx^2 + V(x) ψ = E ψ (2.31). We can start to address this by looking at the form of the solutions as x → ±∞ where the Schrödinger equation reduces to that of a free particle:
+
+−ℏ^2/(2m) d^2ψ/dx^2 = Eψ
+
+There are two qualitatively different kinds of solution to this equation:
+
+• Scattering States: The solutions with energy E > 0 are characterised by k ∈ R and take the form ψ = e^(ikx) with E = ℏ^2k^2/(2m)
+
+As we saw in Section 2.1 these states are non-normalisable and this remains true here. We’ll see what role they play in the next section where we will learn about scattering.
+
+• Bound States: The solutions with energy E < 0 are characterised by η ∈ R and take the form ψ = Ae^(-ηx) + Be^(+ηx) with E = −ℏ^2η^2/(2m)
+
+We didn’t even consider such wavefunctions when we discussed the free particle because they’re obviously badly non-normalisable. For example, we could set B = 0 so that the wavefunction ψ = e^(-ηx) decays nicely as x → +∞, but then it will blow up at x → −∞.
+
+However, it’s possible that we may be able to find good wavefunctions with this asymptotic form when we solve the full Schrödinger equation (2.31). For the state to be normalisable we would require that it decays at both ends, with ψ ∼ e^(-ηx) as x → +∞ ψ ∼ e^(+ηx) as x → −∞
+
+Note that to solve the Schrödinger equation we must have the same value of η in the exponent on both sides to ensure that the solution has constant E. Such wavefunctions are called bound states because they are necessarily trapped somewhere in the potential. As we will see, they occur only for very specific values of η.
+
+In the rest of this section, we will study a couple of simple potentials to get some intuition for how and when bound states occur. This will also provide an opportunity to address a couple of technical mathematical points that arise when solving the Schrödinger equation.
+
+2.3.1 A Finite Potential Well
+
+Our first example is the potential well of the form V(x) = −V for −a < x < a V(x) = 0 otherwise
+
+It’s not difficult to see that there are no bound states if V < 0. We will take V > 0, so the potential is a dip as shown in the figure. Clearly the potential is discontinuous at x = ±a and this raises the question of what kind of wavefunction ψ(x) we should be looking for. The answer is that ψ(x) itself should be continuous, as too should ψ′(x). But ψ′′(x) inherits the discontinuity of the potential.
+
+To see the statements above, first integrate the Schrödinger equation (2.31) over a small interval at x = a, ∫_{a-ε}^{a+ε} (−ℏ^2/(2m)) d^2ψ/dx^2 dx = ∫_{a-ε}^{a+ε} (E − V(x))ψ dx
+
+⇒ [dψ/dx]_{a-ε}^{a+ε} = −2m/ℏ^2 ∫_{a-ε}^{a+ε} (E − V(x))ψ dx
+
+Although V(x) is discontinuous at x = a, it is finite. This means that the integral on the right-hand side vanishes as we take limit ε → 0, telling us that ψ′ is continuous at x = a. But if ψ′(x) is continuous then so too is ψ(x) itself. Returning to the Schrödinger equation (2.31), we then see that the discontinuity in V(x) can only show up in the second derivative ψ′′(a).
+
+Now our strategy for solving the Schrödinger equation is clear: we find solutions inside and outside the well and then patch them together, making sure that both ψ and ψ′ are continuous at the join.
+
+Before we proceed, there is one last idea that will make our life easier. This is the idea of parity, which comes from the observation that the potential is an even function with V(x) = V(−x). This means that all solutions to the Schrödinger equation will be either even functions or odd functions. (We saw this in the example of the harmonic oscillator.) To see why this is necessarily the case, first note that if ψ(x) solves the Schrödinger equation for some value of E, then so too does ψ(−x). Under the assumption that there aren’t two different wavefunction with the same energy (a so-called non-degenerate spectrum), we must have ψ(x) = αψ(−x) for some α ∈ C. But we have ψ(x) = ψ(−(−x)) = αψ(−x) = α^2ψ(x) which tells us that α = ±1, corresponding to either odd or even wavefunctions. (It’s possible to extend this proof even in the case of degenerate spectra but this won’t be needed for the examples that we’ll consider here.)
+
+As we’ll now see, knowing in advance that we’re looking for even or odd solutions to the Schrödinger equation greatly simplifies our task of finding solutions. We’ll look for each in turn.
+
+Even Parity Wavefunctions
+
+Let’s start by taking the even parity case. We’re looking for bound state solutions which, outside the potential well, must take the form ψ(x) = Ae^(-ηx) for x > a ψ(x) = Ae^(+ηx) for x < −a
+
+Here A is simply a normalisation constant. Our real interest is in the possible values of η since these will determine the energy of the bound state E = −ℏ^2η^2/2m.
+
+Inside the potential well, the Schrödinger equation reads −ℏ^2/(2m) d^2ψ/dx^2 = (E + V)ψ for −a < x < a
+
+This is, of course, once again the Schrödinger equation for a free particle, just with shifted energy. As before, there are two kinds of solutions: • Solutions with E > −V have wavefunctions e^(±ikx).
+
+• Solutions with E < −V have wavefunctions e^(±η′x).
+
+It turns out that the former solutions are the ones of interest and all our bound states will have energies −V < E < 0. This is perhaps not surprising given that −V is the lowest value of the potential.
+
+Because we’re looking for parity even solutions, we should consider ψ = e^(ikx) + e^(−ikx) or, ψ(x) = B cos(kx) for |x| < a
+
+where B is again a normalisation constant and k is, like η, related to the energy, now with E = −ℏ^2η^2/(2m) = −ℏ^2k^2/(2m) − V
+
+Our next step is to patch the exponentially decaying solutions outside the well with the oscillatory solution inside the well. Because both solutions are even functions, we only have to do this patching once at x = +a; the solution will then be automatically patched at x = −a as well. We have ψ(x) continuous at x = a ⇒ B cos(ka) = Ae^(−ηa)
+
+ψ′(x) continuous at x = a ⇒ −kB sin(ka) = −ηAe^(−ηa)
+
+Dividing the second condition by the first gives us the requirement k tan(ka) = η
+
+But k and η are not independent; they are related by the condition above. Our task, therefore, is to solve this transcendental equation in conjunction with the energy relation.
+
+There is no simple solution to this transcendental equation, but it’s not difficult to understand the property of the solutions using graphical methods. In Figure 11 we first plot the graph η = k tan(ka) in blue, and then superpose this with the circle k^2 + η^2 = 2mV/ℏ^2 shown in red. We restrict to the range η ≥ 0 as befits our normalisable wavefunction. We get a solution whenever the red curve intersects the blue one. As expected, there are only discrete solutions, happening for specific values of η. Moreover, there are also only a finite number of them.
+
+We see that the first solution is guaranteed: no matter how small the radius of the circle, it will always intersect the first blue line. However, the number of subsequent solutions depends on the parameters in the game. We can see that the number of solutions will grow as we increase V, the depth of the well, since this increases the radius of the red circle. The number of solutions will also grow as we increase the width of the well; this is because the separation between the blue lines is determined by the divergence of the tan function and so occurs when k ≈ π/2a. As we increase a, keeping V fixed, the blue lines get closer together while the red circle stays the same size.
+
+We can be more precise about this. From the graph, the nth crossing occurs somewhere in the region (n−1)π/2 < ka < nπ/2, giving an estimate of the energy of the nth state as E_n ≈ −V + ℏ^2k^2/(2m).
+
+In the limit of an infinite well, we have V → ∞ so the red circle becomes infinitely large, intersecting the blue lines only asymptotically where ka = (n−1/2)π. Clearly all energies descend to −∞ in this limit, but we can instead measure energies with respect to the floor of the potential. We then get E_n + V → ℏ^2π^2(2n−1)^2/(8ma^2).
+
+But we’ve met this result before: it coincides with the energy spectrum (2.11) of a particle in an infinite well. (To see the agreement, we have to note that L = 2a and, furthermore, remember that we have restricted to even parity states only which is why we’ve got only odd integers (2n−1) in the numerator.)
+
+There is one last mild surprise in our analysis. All our bound states have energy −V < E < 0. This is what we would expect for a classical particle, trapped inside the well. The quantum novelty is that the wavefunction itself is not restricted only to the well: it leaks out into the surrounding region |x| > a, albeit with an exponentially suppressed wavefunction. This means that there is some finite probability to find the particle outside the well, in a region that would be classically inaccessible.
+
+Odd Parity Wavefunctions
+
+We can easily repeat this analysis in the case of odd parity wavefunctions. We’re now looking for bound state solutions which, outside the potential well, take the form ψ(x) = Ae^(-ηx) for x > a ψ(x) = −Ae^(+ηx) for x < −a
+
+Meanwhile, the odd parity wavefunction inside the well is ψ(x) = B sin(kx) for |x| < a
+
+Patching these two solutions at x = a gives ψ(x) continuous at x = a ⇒ B sin(ka) = Ae^(−ηa)
+
+ψ′(x) continuous at x = a ⇒ kB cos(ka) = −ηAe^(−ηa)
+
+which now gives us k cot(ka) = −η
+
+Once again this should be solved in conjunction with the energy relation. Once again, graphs are our friend. The graph of k cot(ka) = −η is shown in blue in Figure 12, while the circle corresponding to the energy relation is shown in red.
+
+This time we see that there is no guarantee that a solution exists. The first blue line emerges from the η = 0 axis at ka = π/2. The red circle intersects this first line only if 2mV/ℏ^2 > π^2/(4a^2) ⇒ V > ℏ^2π^2/(8ma^2).
+
+This means that the first parity odd solution exists only if the potential is deep enough or wide enough.
+
+We can also see the solutions that were previously missing as we take V → ∞. The divergences in the blue lines now occur at ka = nπ for any n ∈ Z. Measured above the floor of the potential, the energies for odd parity states then become E_n + V → ℏ^2π^2(2n)^2/(8ma^2). This matches the result for even integers in the infinite well spectrum, completing the picture.
+
+floor of the potential, the energies then become \( E_0 + V \rightarrow \frac{\hbar^2 \pi^2 (2n)^2}{8 m a^2} \), where now we see that there are only even integers 2n in the numerator.
+
+2.3.2 A Delta Function Potential As our second example, we will consider a potential that is, at first glance, slightly odd: a delta function sitting at the origin \( V(x) = -V \delta(x) \) for some constant V. Recall that the delta function isn't a real function, but a distribution satisfying \( \int_{-\infty}^{+\infty} \delta(x) \, dx = 1 \) and \( \delta(x) = 0 \) unless x = 0. You can think of it as an infinitely narrow, but infinitely long spike localised at the origin.
+
+You might think that it's not particularly realistic as a potential, and there is some merit to that. But there are situations – such as impurities in solids – where the exact form of the potential is complicated and most likely unknown and it is useful to have a simple toy model that can be easily solved. This is what the delta function offers.
+
+The discontinuity in the delta function is significantly more extreme than that of the finite potential well and, once again, we're going to have to understand how to deal with it. Our strategy is the same as before: we take the Schrödinger equation as the starting point and see what the potential means for the wavefunction. To start, we integrate the Schrödinger equation over a small region around the origin: \[ -\frac{\hbar^2}{2m} \int_{-\epsilon}^{+\epsilon} \frac{d^2\psi}{dx^2} \, dx = \int_{-\epsilon}^{+\epsilon} (E + V \delta(x))\psi \, dx \]
+
+This time the right-hand side isn't so innocent. While the E term simply vanishes in the limit \( \epsilon \rightarrow 0 \), the delta function doesn't. We then find \[ \lim_{\epsilon \rightarrow 0} \left( \frac{d\psi}{dx}\Big|_{+\epsilon} - \frac{d\psi}{dx}\Big|_{-\epsilon} \right) = -\frac{2mV}{\hbar^2} \psi(0) \qquad (2.39) \]
+
+We learn that the delta function leaves its imprint in the derivative of the wavefunction, and \( \psi' \) must now be discontinuous at the origin. The wavefunction itself, however, should be continuous.
+
+This is all the information that we need to find a bound state. Away from the origin, the negative energy, normalisable solutions of the Schrödinger equation are simply \[ \psi(x) = \begin{cases} A e^{-\eta x} & x > 0 \\ A e^{+\eta x} & x < 0 \end{cases} \]
+
+for some \( \eta > 0 \). Note that we've chosen normalisation factors that ensure the wavefunction is continuous: \( \lim_{x \rightarrow 0^+} \psi(x) = \lim_{x \rightarrow 0^-} \psi(x) = A \).
+
+However, the presence of the delta function means that the two solutions must be patched together with a discontinuity in the derivative: \[ \lim_{x \rightarrow 0^+} \psi'(x) - \lim_{x \rightarrow 0^-} \psi'(x) = -A\eta \lim_{x \rightarrow 0^+} e^{-\eta x} + A\eta \lim_{x \rightarrow 0^-} e^{+\eta x} = -2A\eta \]
+
+This should be identified with the discontinuity (2.39) giving the result that we need: \( \eta = \frac{mV}{\hbar^2} \).
+
+We learn that the negative-valued delta function has just a single bound state with energy \[ E = -\frac{\hbar^2 \eta^2}{2m} = -\frac{V^2 m}{2\hbar^2} \qquad (2.40) \]
+
+This calculation also makes it clear how the presence of a potential can change the asymptotic behaviour from \( e^{\eta x} \) as \( x \rightarrow -\infty \) to \( e^{-\eta x} \) as \( x \rightarrow +\infty \). The delta function does this all in one go, but can only achieve the feat for a very specific value of \( \eta \). More general potentials flip the sign of the exponent more gradually, but again can only do so for specific values of \( \eta \), leading to a (typically finite) discrete collection of bound states.
+
+2.3.3 Some General Results There are a number of simple, but useful, statements that we can prove for bound states in any 1d potential V(x). These results hold for the two different kinds of potentials that we've discussed so far, namely • Potentials, like the harmonic oscillator, that diverge asymptotically so that \( V(x) \rightarrow \infty \) as \( |x| \rightarrow \pm\infty \). These will have an infinite number of normalisable states that decay exponentially quickly as \( |x| \rightarrow \infty \). In this case, we usually take \( V(x) > 0 \) and the states have energy \( E > 0 \).
+
+• Potentials, like the finite well, that asymptote to some constant which we can take to be \( V(x) \rightarrow 0 \) as \( |x| \rightarrow \infty \). As we've seen, these will have a finite number of bound states that decay exponentially, all of which have \( E < 0 \).
+
+In what follows, we'll refer to both kinds of states as bound states.
+
+Claim: The spectrum of bound states is non-degenerate. This means that there aren't two distinct wavefunctions with the same energy.
+
+Proof: Suppose the converse is true, meaning that both \( \psi(x) \) and \( \phi(x) \) have the same energy so that \[ -\frac{\hbar^2}{2m} \frac{d^2\psi}{dx^2} + V(x)\psi = E\psi \quad \text{and} \quad -\frac{\hbar^2}{2m} \frac{d^2\phi}{dx^2} + V(x)\phi = E\phi \]
+
+Consider the Wronskian, \( W(\psi, \phi) = \psi \frac{d\phi}{dx} - \phi \frac{d\psi}{dx} \). This has the property that it is constant in space, as we can see by taking a derivative and using the Schrödinger equation: \[ \frac{dW}{dx} = \psi \frac{d^2\phi}{dx^2} - \phi \frac{d^2\psi}{dx^2} = \frac{2m}{\hbar^2} (\psi(V - E)\phi - \phi(V - E)\psi) = 0 \]
+
+For normalisable states, we know the value of the Wronskian as \( |x| \rightarrow \infty \): there we have \( \psi = \phi = 0 \), and so \( W = 0 \). Hence we must have \( W = 0 \) everywhere. This means that, at any finite x with \( \psi(x), \phi(x) \neq 0 \), we have \( \frac{1}{\psi} \frac{d\psi}{dx} = \frac{1}{\phi} \frac{d\phi}{dx} \Rightarrow \psi(x) = \alpha \phi(x) \) for some constant \( \alpha \in \mathbb{C} \). But any two wavefunctions related by a constant \( \alpha \) correspond to the same state. This means that the spectrum is non-degenerate. □ Note that the argument above fails for the non-normalisable momentum states \( e^{ikx} \) since these are nowhere vanishing. And, indeed, such states are typically degenerate with \( e^{ikx} \) and \( e^{-ikx} \) having the same energy.
+
+Claim: The bound state wavefunctions can always be taken to be real.
+
+Proof: If \( \psi(x) \) obeys the Schrödinger equation then so too does \( \psi^*(x) \). We can then invoke the proof above to find \( \psi(x) = \alpha \psi^*(x) \) for some constant \( \alpha \in \mathbb{C} \). Taking the modulus square tells us that \( |\psi|^2 = |\alpha|^2 |\psi|^2 \), so \( \alpha \) is a phase: \( \alpha = e^{i\chi} \). Now we can define \( \psi_{\text{real}} = e^{-i\chi/2} \psi \) and, as the name suggests, this is real. To check this, look at \( \psi_{\text{real}}^* = e^{+i\chi/2} \psi^* = e^{+i\chi/2} (e^{-i\chi} \psi) = \psi_{\text{real}} \). □ Claim: The ground state has no nodes. This means that \( \psi(x) \neq 0 \) except when \( |x| \rightarrow \infty \).
+
+Semi Proof: We're running very slightly ahead of ourselves in attempting to prove this statement, but we've got just enough in place to give the gist of the proof, if not the full rigorous version. Suppose that you have a guess at the ground state wavefunction \( \psi(x) \), but where \( \psi(x) = 0 \) for some finite x. We're going to show that it's always possible to construct a new state with lower energy.
+
+In fact, that last statement is almost true. What we're actually going to show is that it's always possible to construct a new state with lower average energy. Following our discussion in Section 2.1.4, the average energy of any normalised, real state \( \psi \) is \[ \langle E \rangle = \int_{-\infty}^{+\infty} \left( -\frac{\hbar^2}{2m} \psi \frac{d^2\psi}{dx^2} + V(x)\psi^2 \right) dx = \int_{-\infty}^{+\infty} \left( \frac{\hbar^2}{2m} \left( \frac{d\psi}{dx} \right)^2 + V(x)\psi^2 \right) dx \]
+
+where, in the second line, we've integrated by parts and thrown away the boundary term because we're dealing with normalisable states. The expression for the average energy should be plausible given our earlier result (2.18) for the average momentum. We will make it more precise in Section 3.3 when we discuss more about expectation values. For now, we will take it as given.
+
+Now consider the state \( |\psi| candidate ground state is shown in Figure 14. A first guess at the ground state wavefunction is ψ_left(x) = exp[-(x+x_min)² / (2a²)]. This looks the same as ψ_right, but now peaked around the left-hand minimum.
+
+What to do? Our analysis of the harmonic oscillator suggests that both of these should (at least for suitably chosen parameters) be good approximations to the ground state but they can’t both be the ground state.
+
+The right way to proceed is to take linear superpositions of these states. Indeed, we saw earlier that for an even potential V(x) = V(−x), all energy eigenstates are either odd or even functions. This tells us that the true energy eigenstates should be closer to ψ_±(x) = ψ_right(x) ± ψ_left(x). Furthermore, we know that the ground state has no nodes. This means that ψ_+(x) must be the approximation to the ground state while ψ_-(x), which has a single node, should be the first excited state. Note the energy of ψ_+(x) is (again for suitably chosen parameters) expected to be much closer to ψ(x) than to the excited states of the harmonic oscillator around either vacuum. The two states are shown in Figure 15.
+
+Figure 15. An approximation to the ground state, on the left, and to the first excited state, on the right.
+
+There is some striking physics that emerges from these simple considerations. Suppose that we put the particle in one of the wells, say the right. Classically the particle would stay trapped in that well provided that its kinetic energy wasn’t sufficient to get up and over the barrier in the middle. But that’s not what happens in the quantum world. Instead, the particle will lower its energy by sitting in a superposition of states like ψ_+(x). Even if the particle does not have sufficient energy to get up and over the barrier it will, in time, leak through the barrier and have equal probability to be in either well. This phenomenon is known as quantum tunnelling. We’ll see another manifestation of it in the next section.
+
+## 2.4 Scattering
+
+The basic principle behind scattering is simple: you take a particle, throw it at an object, and watch as it bounces off. Ideally, you can then use the information about how it bounces off to tell you something about the object in question.
+
+In this section, we’re going to set up the basics of scattering in quantum mechanics. We will only solve some very simple situations and our goal is to continue to build intuition for how quantum particles behave.
+
+Our set-up is the same as in Section 2.3. We have some potential V(x) that is localised in space and asymptotes suitably quickly to V(x) → 0 as |x| → ∞ (2.41). In the last section, we understood that such potentials typically have some finite number of negative energy bound states, trapped in the potential. Here we instead ask: what happens if we stand far from the potential and throw in a quantum particle. Will it bounce back, or will it pass through the potential? Or, this being a quantum particle, will it do both?
+
+Figure 16. An intuitive idea of scattering, where an ingoing wavepacket (in red on the left) scatters off a potential (in blue) resulting into two outgoing wavepackets (in red on the right).
+
+Our first task is to set up the problem mathematically. One approach would be to construct a wavepacket, localised in space far from the potential, and send it moving towards the region where V(x) ≠ 0. This has the advantage that the wavepacket gels nicely with our classical expectation of a particle. It has the disadvantage that it is mathematically challenging. As we’ve seen, the wavepacket solution (2.15) is fairly complicated even for a free particle and becomes much more so in the presence of a potential.
+
+Instead we’re going to take a different path. This involves resurrecting the wavefunctions of the form ψ = Ae^(ikx) for some constant A ∈ C. Recall that these have definite momentum p = ℏk, but are not valid states of the system because they are not normalisable. This last statement remains true in the presence of a potential satisfying (2.41).
+
+However, it is possible to endow wavefunctions of this kind with a different interpretation. Rather than thinking of them as quantum probabilities for a single particle, we will instead consider them as describing a continuous beam of particles, with the "probability density" P(x,t) = |ψ(x,t)|² = |A|² now interpreted as the average density of particles. To reinforce this perspective, we can compute the probability current (1.6) to find J(x,t) = (iℏ/2m) [ψ* (dψ/dx) - ψ (dψ*/dx)] = (iℏ/2m) [ψ* ik ψ - ψ (-ik) ψ*] = (iℏ/2m) × |A|² × 2ik = |A|² × (ℏk/m) (2.42), where this last expression has the interpretation of the average density of particles multiplied by their velocity or, alternatively, as the average flux of particles.
+
+There is a lot to say about scattering in quantum mechanics and the later lecture notes on Topics in Quantum Mechanics have a full chapter devoted to scattering theory. One of the highlights is understanding how we can reconstruct the spectrum of bound states of the potential by standing at infinity, throwing in particles, and looking at what bounces back. Here we will restrict ourselves to just two simple examples to build more intuition about the wavefunction and what it can do.
+
+2.4.1 A Step Potential
+
+Our first potential is a step function V(x) = {0 for x < 0, U for x > 0}. We will throw a particle – or more precisely a beam of particles – in from the left and see what happens. Our expectation would be that the beam will bounce back if the energy of the particles is less than U, while if the energy is E ≫ U it should presumably fly over the small step without noticing. For energies that are just slightly greater than U, something more interesting might happen.
+
+Let’s now see how to set up the problem. We want to find a solution to the Schrödinger equation which includes a component at x → −∞ corresponding to an ingoing beam of particles, ψ(x) ∼ Ae^(ikx) as x → −∞, with A the density of the beam. We should also remember to take k > 0 since this tells us that the initial beam is travelling to the right and will hit the potential. Clearly the energy of the particles in the beam is E = ℏ²k² / (2m).
+
+However, the solution that we’re looking for will include a part of the wavefunction that bounces off the step and returns to x → −∞, but with opposite momentum. In other words, we really want to look for solutions with the property ψ(x) = Ae^(ikx) + Be^(-ikx) as x → −∞ (2.43). Note that the ingoing wave e^(ikx) and the outgoing wave e^(-ikx) must have the same energy so this wavefunction is a solution of the Schrödinger equation. However, the densities of the beams can differ and, in general, we would expect B < A telling us that not everything bounces back.
+
+Although we set up the solution (2.43) as the boundary condition at x → −∞, the fact that the potential vanishes means that this solution holds for all x < 0. It only changes when it encounters the step.
+
+Next we look in the region x > 0 where the potential energy is V(x) = U. Because the potential is constant, the general solution here is straightforward and given by ψ(x) = Ce^(ik'x) + De^(-ik'x) for x > 0 (2.44), where, to solve the Schrödinger equation, the wavenumber k' is given by E − U = ℏ²k'² / (2m) ⇒ k' = √[2m(E − U)] / ℏ (2.45). Note that if the energy of the incoming beam is bigger than the step, E > U, then k' is real. If, however, the energy isn’t big enough to get over the step, E < U, then k' is imaginary. As we go on, we’ll understand how to think of an imaginary momentum.
+
+At this stage, we need to think again about the physics. Suppose first that E > U and so k' is real. Then the first term Ce^(ik'x) in (2.44) has the interpretation of an outgoing wave moving to the right, while the second term De^(-ik'x) has the interpretation of a left-moving incoming wave, sent in from x → +∞. But we didn’t send anything in from that end! Only from the x → −∞ end. That means that we should look for solutions with D = 0.
+
+We reach the same conclusion if the beam had energy E < U, in which case k' = iη for some η > 0. In this situation, the De^(-ik'x) = De^(+ηx) is non-normalisable at x → ∞ and so should be discarded.
+
+In either case, the upshot is that we’re looking for solutions of the form ψ(x) = {Ae^(ikx) + Be^(-ikx) for x < 0, Ce^(ik'x) for x > 0} (2.46). Now we patch. We learned how to do this in the previous section: both ψ(x) and ψ'(x) should be continuous at x = 0. This gives two conditions.
+
+ψ(x) cts at x = 0 ⇒ A + B = C ψ'(x) cts at x = 0 ⇒ ik(A − B) = ik'C
+
+Recall that A determines the density of the original, incident beam while B and C determine the densities of the reflected and transmitted beams respectively. We can solve the equations above to get expressions for the latter in terms of the former B = A (k - k')/(k + k') and C = A (2k)/(k + k') (2.47).
+
+We can view these in terms of the particle flux defined in (2.42). For the original, incident beam we have J_inc = |A|² (ℏk/m). We’ve learned the flux in the reflected beam is J_ref = |B|² (ℏk/m) = |A|² (ℏk/m) [(k - k')/(k + k')]^2, where, by convention, this reflected flux is taken to be positive. Meanwhile, the transmitted flux is J_trans = |C|² (ℏk'/m) = |A|² (4k²ℏk')/[m(k + k')^2].
+
+Let’s now think about how to interpret these results. We start with the case E > U so that k' is real. This means that the particles aren’t forbidden from crossing the step on energetic grounds. But what do they do?
+
+The answer to this is best seen by looking at the ratios of fluxes. We define R = J_ref / J_inc = [(k - k')/(k + k')]^2 (2.48) and T = J_trans / J_inc = (4kk')/(k + k')^2 (2.49). These are known as the reflection and transmission coefficients. They tell us what fraction of the incident beam is reflected and what fraction makes it over to the other side. Or, since we’re dealing with quantum mechanics, they tell us the probability that a particle is reflected or transmitted.
+
+As a quick sanity check, note that R + T = 1. This is the statement that we don’t lose any of the beam. Nothing gets trapped at the step. The result R + T = 1 continues to hold...
+
+对于任意可能性。特别是，如果你用之前讨论过的那种有限方势阱来散射一个量子粒子，那么我们得到 R + T = 1，这意味着所有东西要么反弹回去，要么直接穿过。这特别意味着，量子高尔夫是个糟糕的游戏。球无法掉进洞里并留在那里，因为束缚态必然有 E < 0，而我们的入射粒子束有 E > 0。任何进去的东西都必须出来。
+
+尽管表达式 (2.48) 和 (2.49) 在用 k 和 k' 表示时相当简单，但我们都应该将它们视为仅作为入射动量 k 的函数，其中 k' 由 (2.45) 用 k 确定。你可以很快说服自己，当公式仅用 k 表示时，看起来会复杂得多。但我们可以看到，物理图像与我们的基本直觉是一致的。特别是，当 E → U 时，出射动量 k' → 0，所以我们看到 E → U ⇒ T → 0 且 R → 1 这是有道理的：如果粒子几乎没有足够的能量越过势垒，那么它就会被直接反射回来。
+
+相反，在 E → ∞ 的极限下，我们有 k' ≈ k，因为势垒 U 基本上可以忽略不计。在这个极限下， E → ∞ ⇒ T → 1 且 R → 0 这同样与我们的预期一致。如果你想知道任何中间能量值的反射和透射系数，那么除了精确解 (2.48) 和 (2.49) 之外，我没有其他办法可以提供。
+
+我们还有一个问题要回答：当能量 E < U 时会发生什么，即粒子无法越过势垒。关键物理点可以从波函数 (2.46) 中看出，对于 x > 0，它是 ψ(x) = Ce^{-ηx} (2.50)
+
+我们之前给出的 C 的表达式 (2.47) 仍然成立，只是其中 k' = iη，其中 η > 0。这就是虚动量的意义：它告诉我们波函数在势垒内部呈指数衰减。与经典力学相反，粒子出现在势垒内距离 x ≈ 1/η 处的概率不可忽略，但超过这个点，概率会迅速下降。
+
+我们之前做的计算只是在计算流时有所改变。像 (2.50) 那样指数衰减的波函数具有零流 J = 0。它没有将任何东西输运到任何地方。结论是，当能量低于势垒高度时 T = 0。你可以检查相应的结果 R = 1：所有东西都反弹回去。
+
+2.4.2 隧穿
+
+我们的下一个例子是一个有限方势垒，像路上的一个凸起， V(x) = U 当 -a < x < a 0 其他情况其中 U > 0。这是我们在之前研究过其束缚态的有限方势阱 (2.32) 的镜像。
+
+现在我们知道该怎么做了：我们在每个区域写出自由薛定谔方程的解，并在边界处连接起来。我们将关注能量 E < U 的情况，这意味着经典粒子会直接反弹回去。问题是：一个能量如此低的量子粒子能穿过势垒吗？
+
+基于之前的讨论，我们寻找如下形式的解： ψ(x) = e^{ikx} + A e^{-ikx}   x < -a = B e^{-ηx} + C e^{ηx}  |x| < a = D e^{ikx}              x > a
+
+请注意，我们已将入射束的密度设为单位，这体现在第一行的 e^{ikx} 项中。这是预期它会在我们想要计算的量（如 R 和 T）中消掉，所以不值得在方程中保留这个额外的项。波函数中的两个指数由下式给出： k = √(2mE/ℏ²)  且  η = √(2m(U−E)/ℏ²) (2.51)
+
+两者均为正。在 x = -a 处的连接条件为： ψ(x) 在 x = -a 连续 ⇒ e^{-ika} + A e^{ika} = B e^{ηa} + C e^{-ηa} ψ'(x) 在 x = -a 连续 ⇒ ik(e^{-ika} - A e^{ika}) = -η(B e^{ηa} - C e^{-ηa})
+
+与此同时，在 x = a 处的连接条件为： ψ(x) 在 x = a 连续 ⇒ D e^{ika} = B e^{-ηa} + C e^{ηa} ψ'(x) 在 x = a 连续 ⇒ ik D e^{ika} = -η(B e^{-ηa} - C e^{ηa})
+
+我们有四个方程。我们的目标是求解 D，用 k 和 η 表示，因为这能告诉我们透射流。这很直接，虽然有点繁琐。这里有一些提示来帮助你。首先使用第二对方程写出： 2η B e^{-ηa} = (η - ik) D e^{ika}  且  2η C e^{ηa} = (η + ik) D e^{ika} (2.52)
+
+接下来，使用第一对方程写出： 2k e^{-ika} = B(k + iη) e^{ηa} + C(k - iη) e^{-ηa} 我们现在将表达式 (2.52) 代入上式中的 B 和 C。经过一点代数运算后得到： D = (2kη e^{-2ika}) / (2kη cosh(2ηa) - i(k² - η²) sinh(2ηa)) (2.53)
+
+我们要计算透射概率，在这种情况下，它就是 T = |D|²。
+
+使用 (2.53)，我们得到： T = (4k²η²) / (4k²η² cosh²(2ηa) + (k² - η²)² sinh²(2ηa))
+
+= (4k²η²) / (4k²η² + (k² + η²)² sinh²(2ηa)) (2.54)
+
+我们看到，粒子有非零的概率穿过势垒到达另一边，即使经典粒子无法做到这一点。这是量子隧穿的另一个体现。
+
+为了对方程 (2.54) 有所体会，让我们来看一个极低能粒子的极端情况。低能意味着 U - E ≫ 某个量，其中“某个量”必须具有能量量纲。一些量纲分析表明要求是： U - E ≫ ℏ²/(2ma²) ⇒ ηa ≫ 1 所以低能极限等同于宽势垒的极限。在这个区域，分母中的 sinh 函数占主导。将其写成入射能量 E 的函数，透射概率变为： T(E) ≈ f(E) exp[-(4a/ℏ) √(2m(U - E))]
+
+其中指数乘以 f(E) = 16k²η²/(k²+η²)²，其中 k 和 η 都使用 (2.51) 视为能量的函数。然而，关键特征是概率的指数压低。这是隧穿现象的特征。
+
+放射性衰变中也存在非常类似的效应。在，承认吧，相当简化的模型中，α 粒子可以被视为被困在原子核内，由一个有限但巨大的势能垒束缚。一个经典粒子将被注定永远在原子核内振荡；一个量子粒子则可以，以某个指数压低的概率，隧穿势垒并到达另一边。这个小概率表现在许多不稳定核的长寿命上。
+
+3 量子力学的公理体系
+
+在上一节中，我们通过在简单量子系统中求解薛定谔方程并尝试解释结果，为建立直觉取得了很好的进展。但有时，感觉我们是在边走边编造规则。本节的目标是理清头绪，描述量子力学背后的数学结构。
+
+量子力学有四个方面。它们是： • 态 • 可观测量 • 时间演化 • 测量
+
+关于时间演化，我们已经说了所有该说的内容，至少对于这些讲座：波函数的演化由含时薛定谔方程控制。这里我们将详细阐述其他三个方面。
+
+## 3.1 态
+
+回顾基本信条：一个量子态由一个可归一化的波函数 ψ(x,t) 描述，其中可归一化意味着它满足： ∫ d³x |ψ|² < ∞ (3.1)
+
+到目前为止，量子力学在很大程度上似乎与物理学的许多其他领域一样，都是关于求解微分方程。这并非完全错误，但它忽略了一个关键事实：本质上，量子力学实际上是一个线性代数理论。当我们揭示全貌时，这一点将变得明显。
+
+我们已经在线性叠加原理中嗅到了这种线性代数的气息。如果 ψ(x,t) 和 ϕ(x,t) 都是系统的一个可行状态，那么任何线性组合 αψ(x,t) + βϕ(x,t)（其中 α,β ∈ C）也是一个可行状态。数学上，这是说这些态构成了一个复数域上的向量空间。
+
+3.1.1 内积
+
+我们的向量空间上有一个重要的结构：内积。这是一个将两个向量映射为一个数的运算。
+
+我们对于有限维向量空间的内积非常熟悉。给定 RN 中的两个向量——称之为 ⃗u 和 ⃗v——内积就是 ⃗u·⃗v。我们引入新记号并将 RN 上的内积写作： ⟨⃗u|⃗v⟩ = ⃗u·⃗v 左侧符号中的竖线是量子力学中的一种特有写法。在数学的其他领域，内积通常记为 ⟨⃗u,⃗v⟩，或有时记为 (⃗u,⃗v)。带有竖线的记法是量子力学中一套更广泛惯例的一部分，称为狄拉克符号。就我们目前目的而言，竖线将是我们作为这种记法早期采用者的唯一标志。
+
+如果我们处理的是像 CN 这样的复向量空间，内积需要稍作修正。在这种情况下，内积是 ⟨⃗u|⃗v⟩ = ⃗u* ·⃗v (3.2)
+
+其中我们先对第一个向量取复共轭，然后再进行点积。这有一个优点，即任何向量与自身的内积必然是非负的： ⟨⃗u|⃗u⟩ = ⃗u* ·⃗u ≥ 0 这意味着我们可以使用内积来定义向量的长度： ||⃗u|| = √⟨⃗u|⃗u⟩。具有此性质的内积被称为正定的。
+
+现在，这将我们带入量子力学中使用的无穷维函数向量空间。两个复函数 ψ(x) 和 ϕ(x)（都是 R³ 上的函数）之间的内积定义为： ⟨ψ|ϕ⟩ = ∫ d³x ψ*(x)ϕ(x) (3.3)
+
+请注意，再次在第一个参数处有星号，这确保了函数与自身的内积是正定的。事实上，我们的归一化要求 (3.1) 可以用内积重新表述为： ⟨ψ|ψ⟩ < ∞ 从定义中，我们看到内积在第二个参数上是线性的： ⟨ψ|αϕ₁ + ϕ₂⟩ = α⟨ψ|ϕ₁⟩ + ⟨ψ|ϕ₂⟩ 对任意 α ∈ C 成立。然而，它在第一个参数上是反线性的，这仅仅意味着对 ψ 的复共轭使我们得到： ⟨αψ₁ + ψ₂|ϕ⟩ = α*⟨ψ₁|ϕ⟩ + ⟨ψ₂|ϕ⟩ 或者，这个反线性陈述可以通过注意到复共轭交换了内积中的两个条目而得出： ⟨ψ|ϕ⟩* = ⟨ϕ|ψ⟩ 我们将在接下来的内容中用到这些简单的数学恒等式。
+
+用更高级的数学语言来说，一个向量…… Space, whether finite or infinite dimensional, with a positive-definite inner product is called a Hilbert space H. (In fact, this statement is only almost true: there is an extra requirement in the case of an infinite dimensional vector space that the space is “complete”, which, roughly speaking, means that as your vector evolves it can’t suddenly exit the space.) Hilbert space is the stage for quantum mechanics. The first thing you should do when describing any quantum system is specify its Hilbert space. Indeed, you can already see this in the examples from the last section: if we’re dealing with a particle on a line or particle on a circle then states are specified by normalisable functions on the line or circle respectively.
+
+Again some fancy mathematical language. If a particle is moving on some space M then the relevant Hilbert space is called H = L²(M), which is the space of square-normalisable functions on M. Here the L is for “Lebesgue”, while the word “square” and the superscript 2 both reflect the fact that you should integrate |ψ|² to determine whether it’s normalisable. The Hilbert spaces in the last section were H = L²(R) and H = L²(S¹).
+
+As our theories get more advanced and abstract, we need different Hilbert spaces. Sometimes these are simpler: for example, there is a lot of interesting physics lurking in the finite dimensional Hilbert space H = ℂ² where a state is just a two-dimensional complex vector. But sometimes the Hilbert spaces are vastly more complicated, like the space in quantum field theory where M itself is an infinite dimensional space of functions and L²(M) is something ghastly and poorly understood. In these lectures we’ll meet nothing more complicated than H = L²(ℝ³), the space of normalisable functions on ℝ³.
+
+## 3.2 Operators and Observables
+
+The quantum state is described by a wavefunction. But how does this wavefunction encode the information contained in the state?
+
+It’s useful to first return to the classical world. There we know that the state of a particle is described by its position x and velocity ẋ. Equivalently, but more usefully for what’s to come, we can say that it’s encoded in the position x and momentum p = mẋ of the particle.
+
+Given the state, the questions that we can ask are all possible functions of x and p. We call these observables. Among the more trivial observables are position and momentum themselves. But we can also use our information of the state to calculate other observables such as angular momentum L = x × p or energy E = p²/(2m) + V(x). In general, any function f(x,p) can be considered a classical observable. Clearly all of them are simple to evaluate once you know the state x and p.
+
+What about in the quantum world? The state is now the wavefunction ψ(x) which, abstractly, we think of as a vector in a Hilbert space. What is the observable associated to, say, momentum or angular momentum?
+
+In quantum mechanics, all observables are represented by operators on the Hilbert space. In the present case, this is an object O that acts on the wavefunction ψ(x) and gives you back a new function. Throughout these lectures we will dress any such operator with a hat. (As we mentioned previously, this convention tends to get dropped in later quantum courses.) To be more precise, observables in quantum mechanics are related to a particular kind of linear operator. Here “linear” means that operators obey Ô[αψ₁(x) + ψ₂(x)] = αÔ[ψ₁(x)] + Ô[ψ₂(x)] for any α ∈ ℂ.
+
+Returning to our analogy with finite dimensional vector spaces: if you’re dealing with N-dimensional vectors, then the corresponding linear operators are just N × N matrices. Now, however, we’re dealing with infinite dimensional vector spaces – or, more precisely, Hilbert spaces – where the vectors themselves are functions. What replaces the matrices? The answer, as we will now see, is differential operators.
+
+We’ll start by giving some physical examples. As this section proceeds, we’ll see what it actually means to say that an observable is represented by an operator.
+
+• For a particle moving in 3d there are three position operators, one for each direction. Combining these into a vector, they are simply x̂ = x. These operators act on a wavefunction by multiplication: x̂ψ(x) = xψ(x), ŷψ(x) = yψ(x), ẑψ(x) = zψ(x). You can also take any function of x and turn it into an operator. This acts in the obvious way, with V(x̂)ψ(x) = V(x)ψ(x).
+
+• The momentum operator for a particle moving in 3d is p̂ = −iℏ∇, or, written out long hand, p̂ₓ = −iℏ ∂/∂x, p̂ᵧ = −iℏ ∂/∂y, p̂ᵤ = −iℏ ∂/∂z. Again, these should be thought of in terms their action on the wavefunctions so, for example, p̂ₓ ψ(x) = −iℏ ∂ψ/∂x.
+
+• Other operators now follow from our specification of position and momentum. The angular momentum operator is shorthand for a collection of three such operators, L̂ = −iℏx̂ × ∇. We’ll devote Section 4.1 to a detailed study of the properties of this operator. Finally the energy operator is Ĥ = − (ℏ²/2m) ∇² + V(x̂). The energy operator is the only one that gets a special name, with H for Hamiltonian rather than E for energy. This is because of the special role it plays in time evolution of the state through the Schrödinger equation.
+
+3.2.1 Eigenfunctions and Eigenvalues
+
+Given an N × N matrix A, it is often useful to determine its eigenvalues. Recall that these are a collection of (up to) N numbers λ which solve the equation A⃗u = λ⃗u for some vector ⃗u. The corresponding vector ⃗u is then called the eigenvector.
+
+We can play the same game with operators. Given an operator Ô, its eigenvalues λ solve the equation Ôψ(x) = λψ(x) for some function ψ(x). The corresponding function ψ(x) is called the eigenfunction or eigenstate. The collection of all eigenvalues is called the spectrum of the operator Ô.
+
+This has an important interpretation in physics. If you measure the value of a physical observable Ô then the answer States remain non-normalisable. The only way out is to consider space itself to be a discrete lattice. This is an interesting direction and will be discussed in the lectures on Solid State Physics. However, just like the plane wave momentum eigenstates, the position eigenstates are too useful to throw away completely.
+
+There is a straightforward generalisation of the story above to position eigenstates in 3d. Now we have xψ(x) = Xψ(x) ⇒ ψ(x) = δ³(x−X) = δ(x−X)δ(y−Y)δ(z−Z). Again, these states are non-normalisable.
+
+3.2.2 Hermitian Operators
+
+Not any old linear operator qualifies as a physical observable in quantum mechanics. We should restrict attention to those operators that are Hermitian.
+
+To explain this, we first introduce the concept of an adjoint operator. Given an operator Ô, its adjoint Ô† is defined by the requirement that the following inner-product relation holds ⟨ψ|Ôϕ⟩ = ⟨Ô†ψ|ϕ⟩ for all states ψ and ϕ. Written in terms of integrals of wavefunctions, this means ∫d³x ψ⋆Ôϕ = ∫d³x (Ô†ψ)⋆ϕ.
+
+An operator is said to be Hermitian or self-adjoint if Ô = Ô†. (In fact there’s a tiny bit of a lie in that previous statement. The terms "Hermitian" and "self-adjoint" are only synonymous for finite dimensional Hilbert spaces. When we’re dealing with infinite dimensional Hilbert spaces of functions there is a subtle distinction between them that we will largely sweep under the rug in these lectures. We’ll touch upon it briefly in Section 4.2.3.)
+
+All physical observables correspond to Hermitian operators. Let’s check that this is the case for the operators that we just met. First the position operator. We have ⟨ψ|x̂ϕ⟩ = ∫d³x ψ⋆xϕ = ∫d³x (xψ)⋆ϕ = ⟨x̂ψ|ϕ⟩. So we learn that x̂ = x̂† as promised. Here the calculation was trivial: it is just a matter of running through definitions. The calculation for the momentum operator is marginally less trivial. We have ⟨ψ|p̂ϕ⟩ = ∫d³x ψ⋆(−iℏ∇ϕ) = ∫d³x iℏ(∇ψ⋆)ϕ = ∫d³x (−iℏ∇ψ)⋆ϕ = ⟨p̂ψ|ϕ⟩. In the second line we integrated by parts, picking up one minus sign, and in the third line we took the factor of i inside the brackets with the complex conjugation giving us a second minus sign. The two minus signs cancel out to give p̂ = p̂†. This is one way to see why the momentum operator necessarily comes with a factor of i.
+
+Note that, when we integrated by parts, we threw away the total derivative. This is justified on the grounds that the states ψ and ϕ are normalisable and so asymptote to zero at infinity.
+
+The Hermiticity of the Hamiltonian follows immediately because it’s a real function of x̂ and p̂. Alternatively, you check explicitly that the Hamiltonian is Hermitian by doing the kind of integration-by-parts calculation that we saw above.
+
+Properties of Hermitian Matrices
+
+Hermitian operators have a number of properties that make them the right candidates for physical observables. To explain these, we’re first going to regress to the simpler world of N × N complex matrices acting on N-dimensional complex vectors.
+
+A complex matrix A is said to be Hermitian if it obeys A† := (A⋆)ᵀ = A. This means that the components of the matrix obey Aᵢⱼ = Aⱼᵢ⋆. To see that this coincides with our previous definition, recall that the inner product for two complex vectors is ⟨⃗u|⃗v⟩ = ⃗u⋆ ·⃗v. (3.2)
+
+For a Hermitian matrix A we have ⟨⃗u|A⃗v⟩ = ⃗u⋆ ·A⃗v = uᵢ⋆ Aᵢⱼ vⱼ = uᵢ⋆ Aⱼᵢ⋆ vⱼ = (A⃗u)⋆ ·⃗v = ⟨A⃗u|⃗v⟩ in agreement with our earlier, more general definition.
+
+The eigenvalues and eigenvectors of a Hermitian matrix A are determined by the equation A⃗uₙ = λₙ ⃗uₙ where n = 1,...,N labels the eigenvalues and eigenvectors. These have a number special properties. The first two are: • The eigenvalues λₙ are real. • If two eigenvalues are distinct λₙ ≠ λₘ then their corresponding eigenvectors are orthogonal: ⃗uₙ⋆ ·⃗uₘ = 0.
+
+Both are simple to prove. We take the inner product of A between two different eigenvectors. ⟨⃗uₙ|A⃗uₘ⟩ = ⟨A⃗uₙ|⃗uₘ⟩ ⇒ λₙ⋆⃗uₙ⋆ ·⃗uₘ = λₘ ⃗uₙ⋆ ·⃗uₘ ⇒ (λₙ⋆ − λₘ)⃗uₙ⋆ ·⃗uₘ = 0. Set n = m to find λₙ = λₙ⋆ so that the eigenvalue is real. Alternatively, pick distinct eigenvalues λₙ ≠ λₘ to show that the eigenvectors are orthogonal, ⃗uₙ⋆·⃗uₘ = 0 if m ≠ n.
+
+If the matrix has two or more eigenvalues that coincide, then it’s still possible to pick the eigenvectors to be orthogonal. We won’t prove it this statement, but it follows straightforwardly by just picking an orthogonal basis for the space spanned by the eigenvectors.
+
+There is one final property of Hermitian matrices that we won’t prove: they always have N eigenvectors. This is important. Because the eigenvectors can be taken to be orthogonal, they necessarily span the space ℂᴺ, meaning that any vector can be expanded in terms of eigenvectors ⃗v = ∑ₙ aₙ ⃗uₙ for some complex coefficients aₙ.
+
+With these results in mind, let’s now return to Hermitian operators that act on infinite dimensional Hilbert spaces.
+
+Properties of Hermitian Operators
+
+The eigenvalue equation for a Hermitian operator is Ôϕₙ = λₙ ϕₙ where λₙ is the eigenvalue and we’ve shifted notation slightly from our earlier discussion and will refer to eigenfunctions as ϕₙ. Now the label runs over n = 1,...,∞ reflecting the fact that we’ve got an infinite dimensional Hilbert space.
+
+For a Hermitian operator Ô, the eigenvalues and eigenfunctions have the following two properties: • The eigenvalues λₙ are real. • If two eigenvalues are distinct λₙ ≠ λₘ then their corresponding eigenfunctions are orthogonal: ⟨ϕₙ|ϕₘ⟩ = 0.
+
+Recall our important boxed statement from earlier: the outcome of any measurement of Ô is given by one of the eigenvalues of Ô. The first of the properties above ensures that, happily, the result of any measurement is guaranteed to be a real number. That’s a good thing. If you go into a lab you’ll see dials and needles and rulers and other complicated things. All of them measure real numbers, never complex.
+
+The proof of the two properties above is identical to the proof for finite matrices. If Ô is Hermitian, we have ⟨ϕₙ|Ôϕₘ⟩ = ⟨Ôϕₙ|ϕₘ⟩ ⇒ λₙ⋆⟨ϕₙ|ϕₘ⟩ = λₘ ⟨ϕₙ|ϕₘ⟩ ⇒ (λₙ⋆ − λₘ)⟨ϕₙ|ϕₘ⟩ = 0. Again, set n = m to find λₙ = λₙ⋆ so that the eigenvalue is real. Alternatively, pick distinct eigenvalues λₙ ≠ λₘ to show that the eigenfunctions are orthogonal, which now means ⟨ϕₙ|ϕₘ⟩ = ∫d³x ϕₙ⋆ϕₘ = 0 if m ≠ n.
+
+An operator with distinct eigenvalues is said to have a non-degenerate spectrum. If, on the other hand, two or more eigenvalues coincide then we say it has a degenerate spectrum. In this case, as with matrices, it’s still possible to pick orthogonal eigenfunctions. Again, we won’t prove this. However, it means that in all cases, if we normalise the eigenstates then we can always take them to obey ⟨ϕₙ|ϕₘ⟩ = ∫d³x ϕₙ⋆ϕₘ = δₙₘ. (3.5)
+
+Eigenfunctions that obey this are said to be orthonormal.
+
+Finally, one last important statement that we make without proof: the eigenfunctions of any Hermitian operator are complete. This means that we can expand any wavefunction ψ(x) in terms of eigenstates of a given operator Ô: ψ(x) = ∑ₙ aₙ ϕₙ(x) (3.6) for some complex coefficients aₙ. If you know both ψ and the normalised eigenfunctions ϕₙ, then it’s simple to get an expression for these coefficients: we use the orthonormality relation (3.5), together with linearity of the inner product, to get ⟨ϕₘ|ψ⟩ = ∑ₙ aₙ ⟨ϕₘ|ϕₙ⟩ = ∑ₙ aₙ δₘₙ = aₘ. Or, in terms of integrals, aₙ = ∫d³x ϕₙ⋆(x)ψ(x).
+
+Relatedly, the norm of a wavefunction ψ(x) is ||ψ(x)||² := ∫d³x |ψ(x)|² = ∫d³x ∑ₘ ∑ₙ aₘ⋆ ϕₘ⋆ aₙ ϕₙ = ∑ₙ |aₙ|² where we have again used the orthonormality condition (3.5). We see that a wavefunction is normalised only if ∑ₙ |aₙ|² = 1.
+
+3.2.3 Momentum Eigenstates and the Fourier Transform
+
+The idea that any function can be expressed as a sum of eigenstates of a Hermitian operator is not totally unfamiliar. When the operator in question is the momentum operator p̂, this coincides with the Fourier transform of a function.
+
+To keep things simple, we’ll work in one dimension. We’ll start by considering a particle on a circle of radius R, in which case the momentum eigenstates solve p̂ϕₙ(x) = −iℏ dϕₙ/dx = pₙ ϕₙ(x).
+
+As we saw above, the eigenstates and eigenvalues are ϕₙ = eⁱⁿˣ/ᴿ / √(2πR) and pₙ = ℏn/R, n ∈ ℤ. Notice that we’ve now normalised the wavefunction. You can check that the eigenstates are orthonormal, obeying ⟨ϕₘ|ϕₙ⟩ = 1/(2πR) ∫₀²πR eⁱ⁽ᵐ⁻ⁿ⁾ˣ/ᴿ dx = δₘₙ.
+
+Any periodic complex function on the circle, such that ψ(x) = ψ(x + 2πR), can be expanded in terms of these eigenstates, meaning that ψ(x) = ∑_{n∈ℤ} aₙ eⁱⁿˣ/ᴿ / √(2πR) where, in contrast to our previous expression (3.6), we now label the eigenstates by the integers n rather than just the positive integers. (These are equivalent...welcome to Hilbert’s hotel.) We have aₙ = ∫₀²πR dx ϕₙ⋆ψ = ∫₀²πR dx e⁻ⁱⁿˣ/ᴿ ψ(x) / √(2πR). In this context, aₙ are known as Fourier coefficients.
+
+We can also think about what happens to the particle on the line. Now the eigenstates are labelled by a continuous variable k ∈ ℝ rather than a discrete variable, ϕₖ(x) = eⁱᵏˣ / √(2π). As we’ve seen several times, these states are non-normalisable. Nonetheless, there is a version of the orthogonality relation (3.5), which is now ⟨ϕₖ|ϕₖ′⟩ = ∫dx eⁱ⁽ᵏ⁻ᵏ′⁾ˣ / 2π = δ(k − k′) (3.7) where δ(k) is the Dirac delta function. Similarly, we can expand a function ψ(x) in these eigenstates, with the sum over states in (3.6) now replaced by an integral: ψ(x) = ∫_{−∞}^{+∞} dk ψ̃(k) eⁱᵏˣ / √(2π) (3.8) The Fourier coefficients aₙ are now promoted to a full function ψ̃(k). We can use the orthogonality condition (3.7) to invert the expression above and write ψ̃(k) in terms of the original function ψ(x): ψ̃(k) = ∫_{−∞}^{+∞} dx ψ(x)
+
+1.9) are, as advertised, the Fourier transform of a function.
+
+## 3.3 Measurement
+
+Now we turn to the final facet of quantum mechanics: measurement. Suppose that we have a quantum system in a given state ψ(x). We want to measure an observable that is associated to an operator O whose eigenvalue equation is O ϕₙ = λₙ ϕₙ We stated before that the possible result of any measurement is taken from the spectrum of eigenvalues {λₙ}. But how does this result depend on the state ψ?
+
+Here is the answer. We first decompose the state ψ in terms of orthonormal eigenstates of O, ψ(x) = ∑ₙ aₙ ϕₙ(x)
+
+We will take both ϕₙ and the wavefunction ψ to be normalised, which means that ∑ₙ |aₙ|² = 1. Assuming that the spectrum is non-degenerate, the probability that the result of the measurement gives the answer λₙ is given by the Born rule, Prob(λₙ) = |aₙ|² (3.10)
+
+A normalised wavefunction ensures that the sum of probabilities is ∑ₙ Prob(λₙ) = 1.
+
+We make a measurement and get the result λₙ for some particular n. Now there’s no doubt about the value of the observable: we’ve just measured it and know that it’s λₙ. To reflect this, there is a “collapse of the wavefunction” which jumps to ψ(x) → ϕₙ(x) (3.11)
+
+This ensures that if we make a second measurement of O immediately after the first then we get the same answer: λₙ.
+
+The discontinuous jump of the wavefunction (3.11) is very different in character from the smooth evolution under the guidance of the time dependent Schrödinger equation. In particular, the collapse of the wavefunction is not even a linear operation: if you add two wavefunctions together, you first have to normalise the sum to compute the probability and that’s a simple, but non-linear calculation.
+
+Given that measurement of quantum states is performed by stuff that’s made out of atoms and therefore should itself be governed by the Schrödinger equation, it seems like there should be a more unified description of how states evolve. We’ll make a few further comments about this in Section 3.5.
+
+There’s a simple generalisation of the story above when the spectrum is degenerate. In that case, the probability that we get a given result λ is Prob(λ) = ∑_{n|λₙ=λ} |aₙ|² (3.12)
+
+After the measurement, the wavefunction collapses to ψ → C ∑_{n|λₙ=λ} aₙ ϕₙ where C is the appropriate normalisation factor.
+
+First One Thing, Then The Other Let’s look at one obvious implication of the measurement procedure described above. Suppose that we measure a (non-degenerate) observable O and get a definite result, say λₙ. Immediately after the measurement the system sits in the state ψ(x) = ϕₙ(x)
+
+We already noted that if we again measure O then there’s no doubt about the outcome: we get the result λₙ again for sure. The general statement is that the system has a definite value for some observable only if it sits in an eigenstate of that observable.
+
+Now we measure a different observable, M. In general, this will have a different set of eigenstates, M χₘ(x) = µₘ χₘ(x)
+
+and a different set of outcomes {µₘ}. There’s no reason that the eigenstates of M should have anything to do with the eigenstates of O: they will typically be entirely different functions. We now have to play the game all over again: we take our state, which we know is ϕₙ, and expand ϕₙ(x) = ∑ₘ bₘ χₘ(x)
+
+There is no certainty about what we get when we measure M: the result µₘ appears with probability Prob(µₘ) = |bₘ|² and the wavefunction will immediately collapse to the corresponding eigenstate χₘ(x). Suppose that we do the experiment and find the result µ₇. Now the wavefunction collapses again, to ϕₙ(x) → χ₇(x)
+
+Now comes the rub. We are capricious and decide to go back and measure the original observable O. It wasn’t so long ago that we measured it and found the result λₙ. But now, having measured M, there’s no guarantee that we’ll get λₙ again! Instead, we need to go through the same process and expand our wavefunction χ₇(x) = ∑ₙ cₙ ϕₙ(x)
+
+The probability that we get the result λₙ again is |cₙ|². But now it’s just one among many options. There’s no reason to have |cₙ| = 1.
+
+There are different words that we can drape around this. First, it’s clear that the measurement of a quantum system is never innocent. You can’t just take a small peek and walk away pretending that you’ve not done anything. Instead, any measurement of a quantum system necessarily disturbs the state.
+
+Moreover, if the state originally had a specific value for one observable O and you measure a different observable M then you destroy the original property of the state. It’s tempting to say that there’s no way to know the values of both Ô and M̂ at the same time. But that’s not what the mathematics is telling us. Instead, the quantum particle can’t have specific values of Ô and M̂ at the same time. Indeed, most of the time it doesn’t have a specific value for either since its wavefunction is a superposition of eigenstates. But, providing the eigenstates of the two operators don’t coincide, if the quantum state takes a definite value for one observable, then it cannot for the other. We’ll quantify this idea in Section 3.4 where we introduce the Heisenberg uncertainty relations.
+
+The lectures on Topics in Quantum Mechanics have a section on the Foundations of Quantum Mechanics where ideas of measurement are discussed in more detail.
+
+3.3.1 Expectation Values Take a normalised state ψ(x) and measure the observable O, with eigenstates and eigenvalues given by O ϕₙ = λₙ ϕₙ As we’ve seen, if we expand the original state in orthonormal eigenfunctions ψ(x) = ∑ₙ aₙ ϕₙ(x)
+
+then the probability that we measure λₙ is |aₙ|² (assuming a non-degenerate spectrum). This means that if we have many systems, all in the same state ψ, and perform the same measurement on each then the results will differ but the average will be ⟨Ô⟩_ψ = ∑ₙ |aₙ|² λₙ Note the little subscript ψ on the angular brackets, reminding us that the average value depends on the state of the system. We call this average the expectation value. It has a nice expression in terms of the inner product.
+
+Claim: For a normalised wavefunction ψ(x), the expectation value can be written as ⟨Ô⟩ = ⟨ψ|Ô|ψ⟩ = ∫ d³x ψ(x)⋆ Ô ψ(x) (3.13)
+
+If ψ(x) is un-normalised, this should be replaced by ⟨Ô⟩ = ⟨ψ|Ô|ψ⟩ / ⟨ψ|ψ⟩ which follows from (3.13) by first normalising ψ.
+
+Proof: We don’t need to do anything clever: just follow our previous definition. It’s simplest to start with a normalised wavefunction and work backwards: ∫ d³x ψ(x)⋆ Ô ψ(x) = ∫ d³x ∑ₙ ∑ₘ aₙ⋆ aₘ ϕₙ⋆(x) Ô ϕₘ(x)
+
+= ∫ d³x ∑ₙ ∑ₘ aₙ⋆ aₘ ϕₙ⋆(x) λₘ ϕₘ(x)
+
+= ∑ₙ ∑ₘ aₙ⋆ aₘ λₘ ∫ d³x ϕₙ⋆(x) ϕₘ(x)
+
+= ∑ₙ ∑ₘ aₙ⋆ aₘ λₘ δₙₘ = ∑ₙ |aₙ|² λₙ where, in the last step, we used the orthonormality of the eigenstates (3.5). □ We can look at some simple examples to check that this coincides with our earlier results. The expectation values of the position operator is ⟨x̂⟩ = ∫ d³x x |ψ(x)|² (3.14)
+
+This is telling us that |ψ(x)|² must have the interpretation of the probability distribution over position. This, of course, was how we first motivated the wavefunction in Section 1.1.
+
+The expectation value of the momentum operator is ⟨p̂⟩ = -iℏ ∫ d³x ψ(x)⋆ ∇ψ(x)
+
+We already met the 1d version of this in Section 2.1.4 when looking at Gaussian wavepackets. It’s fruitful to think about the wavefunction written in terms of momentum eigenstates. Recall that this is just the Fourier transform (3.8)
+
+ψ(x) = (1/(2π))^{3/2} ∫ d³k ψ̃(k) e^{i k·x} Substituting this into our expression (3.14) we find ⟨p̂⟩ = ∫ d³k ∫ d³k′ ℏk′ ψ̃(k)⋆ ψ̃(k′) (1/(2π)³) ∫ d³x e^{-i(k - k′)·x} = ∫ d³k ∫ d³k′ ℏk′ ψ̃(k)⋆ ψ̃(k′) δ³(k - k′)
+
+= ∫ d³k ℏk |ψ̃(k)|² where, to go from the first to second line, we’ve used the Fourier representation of the Dirac delta function, essentially just three copies of the 1d result (3.7). The upshot is that we learn something rather nice: while the mod-squared of the original wavefunction |ψ(x)|² has the interpretation as a probability distribution over position, the mod-squared of its Fourier transform |ψ̃(k)|² has the interpretation as a probability distribution over momentum.
+
+## 3.4 Commutation Relations
+
+There is an algebraic way of formalising whether two observables can be simultaneously measured or whether, as is usually the case, a measurement of one messes up a previous measurement of the other. The underlying structure is known as commutation relations.
+
+Given two operators Ô and M̂, their commutator is defined to be [Ô, M̂] = Ô M̂ - M̂ Ô (3.15)
+
+The key idea is familiar from matrices. If you multiply two matrices A and B then the order matters. Typically AB is not the same as BA. The commutator [A, B] captures the difference between these. Clearly [A, B] = -[B, A] and the same also holds for operators: [Ô, M̂] = -[M̂, Ô].
+
+Some care should be taken with formulae like (3.15). The operators have a job to do: they act on functions. It’s important to remember this when manipulating these kind of equations. A good rule of thumb is to think of operator equations like (3.15) as meaning [Ô, M̂] ψ = Ô M̂ ψ - M̂ Ô ψ for all ψ(x) (3.16)
+
+When we do calculations, at least initially, it’s useful to use this phrasing to avoid any slip ups.
+
+For all the examples in these lectures, the fundamental operators are position x̂ and the momentum operator p̂. It will prove useful to compute their commutators.
+
+Claim: The commutation relations of x̂ = (x̂₁, x̂₂, x̂₃) and p̂ = (p̂₁, p̂₂, p̂₃) are [x̂ᵢ, x̂ⱼ] = [p̂ᵢ, p̂ⱼ] = 0 and [x̂ᵢ, p̂ⱼ] = iℏ δᵢⱼ (3.17)
+
+These are known as the canonical commutation relations on account of the important role that they play in quantum mechanics. Note that the right-hand side of the final relation is just a constant, but this too should be viewed as an operator: it’s the trivial operator that just multiplies ies any function by a constant. The last commutation relation is perhaps surprising. In 1d, it reads simply [x̂,p̂] = iℏ. This kind of relation is not possible for finite matrices A and B: the analogous result would be [A,B] = iℏ1 with 1 the unit matrix. But if we take the trace of the left-hand side we find Tr[A,B] = Tr(AB −BA) = 0 because Tr(AB) = Tr(BA). Yet clearly Tr1 ≠ 0. However, infinite matrices, a.k.a. operators, can do things that finite matrices cannot, the canonical commutation relations (3.17) among them.
+
+Proof: The canonical commutation relations follow straightforwardly from the definitions x̂ = x and p̂ = −iℏ (3.18)
+
+i i i ∂x Recalling that we should view all operators as acting on functions, as in (3.16), the commutation of position operators is [x̂,x̂]ψ(x) = (x x −x x )ψ(x) = 0 for all ψ(x)
+
+i j i j j i while the commutation of momentum operators is [p̂,p̂]ψ(x) = − ψ(x) = 0 for all ψ(x)
+
+i j ∂x ∂x ∂x ∂x i j j i which follows because the order in which we take partial derivatives doesn’t matter.
+
+That leaves us just with the more interesting commutation relation. It is [x̂,p̂]ψ(x) = −iℏ x − x ψ(x)
+
+i j i i ∂x ∂x j j We can see the issue: the first derivative hits only the function ψ. Meanwhile the second derivative acts on x ψ, giving us an extra term from the chain rule. Moreover, the ∂ψ/∂x terms cancel, leaving us only with this extra term [x̂,p̂]ψ(x) = iℏ i ψ(x) = iℏδ ψ(x) for all ψ(x)
+
+i j ij ∂x This is the claimed result. □
+
+Note that the proof ultimately boils down to the operator equation x − x = −δ i i ij ∂x ∂x j j When you first meet these kinds of equations, it’s not immediately obvious why they’re true. As we saw above, the right way to proceed is to check that it holds on when evaluated on any arbitrary function ψ(x).
+
+The logic that we’ve presented above is to first introduce the position and momentum operators and subsequently derive the canonical commutation relations. This, it turns out, is inverted. In more advanced presentations of quantum mechanics, the canonical commutation relations (3.17) are the starting point. There is then a theorem – due to Stone and von Neumann – that, roughly speaking, says that one can derive the form of the operators (3.18) from the canonical commutation relations.
+
+One reason why the canonical commutation relations hold such a prominent position is because very similar equations can be found in classical mechanics. In that context, the relation involves neither commutators nor ℏ, but something called a Poisson bracket. This is a concept that arises in the more sophisticated, Hamiltonian approach to classical mechanics. You can read about this in the lectures on Classical Dynamics. For now, let me just say that while the physics of quantum mechanics is a huge departure from our classical world, the underlying mathematical structure turns out to be surprisingly close.
+
+Occasionally on our quantum travels, we will run into two operators that commute, meaning [Ô,M̂] = 0 This is interesting because ...
+
+Claim: [Ô,M̂] = 0 if and only if Ô and M̂ share the same eigenfunctions.
+
+Proof: First suppose that both Ô and M̂ share the same eigenfunctions, so that Ôϕ (x) = λ ϕ (x) and M̂ϕ (x) = µ ϕ (x)
+
+n n n n n n Then any function ψ(x) can be expanded in terms of these eigenstates ψ = ∑ a ϕ , n n n giving [Ô,M̂]ψ = ∑ a [Ô,M̂]ϕ = ∑ (λ µ −µ λ )ϕ = 0 for all ψ(x)
+
+n n n n n n n n n n
+
+Conversely, suppose that [Ô,M̂] = 0. We will restrict ourselves to the case where Ô has a non-degenerate spectrum. (The claim holds more generally but we have to work a little harder.) If ϕ is an eigenstate of Ô, then we have Ôϕ = λϕ ⇒ M̂Ôϕ = λM̂ϕ ⇒ ÔM̂ϕ = λM̂ϕ where the second line follows because [Ô,M̂] = 0. But this tells us that M̂ϕ is also an eigenstate of Ô with eigenvalue λ. By assumption, there is only one eigenstate with eigenvalue λ, which means that we must have M̂ϕ = µϕ for some µ. But this is the statement that ϕ is also an eigenstate of M̂. The two operators need not have the same eigenvalues, but they do have the same eigenstates.
+
+The physical interpretation of the claim follows from our discussion in Section 3.3. It is possible for a quantum system to have simultaneous values for commuting observables. If you measure Ô and then measure M̂, the state will not be perturbed as long as [Ô,M̂] = 0. (Actually this last statement does require that the spectrum of Ô is non-degenerate.) If you then measure Ô again, you’ll get the same answer as the first time. We’ll meet examples of commuting operators in Section 4.1 when we look at the angular momentum operators in more detail.
+
+3.4.1 The Heisenberg Uncertainty Principle
+
+A probability distribution is characterised by its moments. The simplest of these is the average, or mean, which is the expectation value (3.13). The next simplest is the variance, which gives some indication of the spread of the distribution.
+
+In quantum mechanics the variance is called uncertainty. In a state ψ, the uncertainty of an observable Ô is denoted ∆ Ô and is defined as (∆ Ô)² = ⟨(Ô −⟨Ô ⟩ )²⟩ ψ ψ ψ = ⟨Ô² −2⟨Ô ⟩ Ô +⟨Ô ⟩²⟩ ψ ψ ψ = ⟨Ô²⟩ −⟨Ô ⟩² ψ ψ In statistics, the uncertainty ∆ Ô is also known as the standard deviation of the distribution. Using our expression (3.13) for the expectation value, and assuming a normalised wavefunction, we can write the uncertainty as (∆ Ô)² = ⟨ψ|Ô²ψ⟩−⟨ψ|Ô ψ⟩² = d³x ψ⋆Ô²ψ − (d³x ψ⋆Ô ψ)² (3.19)
+
+To motivate the name “uncertainty”, suppose that the state of the system is an eigenstate of Ô, ψ(x) = ϕ(x) with Ôϕ(x) = λϕ(x)
+
+Then the uncertainty of Ô in this state is (∆ Ô)² = ⟨ϕ|Ô²ϕ⟩−⟨ϕ|Ô ϕ⟩² = λ² −λ² = 0 This makes sense: in an eigenstate ϕ we know exactly what the value of Ô is, so there is no uncertainty. Of course, in the same state the uncertainty for other observables will necessarily be non-zero. Indeed, unless [Ô,M̂] = 0, the uncertainties ∆ Ô and ∆ M̂ cannot both vanish.
+
+In fact, the story is more interesting. It turns out for certain pairs of observables, as you reduce the uncertainty in one, the uncertainty in the other necessarily grows. One such pair is our favourite position and momentum. It’s simplest if we work in one dimension. (The generalisation to higher dimensions is trivial.) The canonical commutation relations (3.17) tell us that [x̂,p̂] = iℏ (3.20)
+
+This is all we need to derive the following result:
+
+Claim: In any state ψ, we necessarily have ∆ x∆ p ≥ (3.21)
+
+ψ ψ This is the mathematical expression of the Heisenberg uncertainty relation. Because it follows purely from (3.20), any operators that obey the same commutation relation will have the same uncertainty relation.
+
+Proof: To make life simple, we will assume that we have a state for which ⟨x̂⟩ = ⟨p̂⟩ = 0. (If this isn’t the case, you can rescue the proof below by defining new operators X̂ = x̂−⟨x̂⟩ and P̂ = p̂−⟨p̂⟩ which do obey ⟨X̂⟩ = ⟨P̂⟩ = 0.)
+
+ψ ψ
+
+Next, consider the one-parameter family of states defined by Ψs(x) = (p̂−isx̂)ψ(x) s ∈ ℝ The norm of this state is, like all others, positive definite, meaning ⟨Ψs|Ψs⟩ = dx |Ψs|² ≥ 0 Translated back to the original state ψ, this tells us that 0 ≤ ⟨(p̂−isx̂)ψ|(p̂−isx̂)ψ⟩ = ⟨ψ|(p̂+isx̂)(p̂−isx̂)ψ⟩ where the equality uses the fact that both x̂ and p̂ are Hermitian. Expanding out, we have 0 ≤ ⟨ψ|(p̂² +is[x̂,p̂]+s²x̂²)ψ⟩ = ⟨ψ|(p̂² −sℏ+s²x̂²)ψ⟩ where, this time, the equality uses the commutation relation [x̂,p̂] = iℏ. The p̂² and x̂² terms in this expression are just the uncertainties (3.19), a fact that follows because we’ve chosen ⟨x̂⟩ = ⟨p̂⟩ = 0. So we have ψ ψ (∆ p)² −sℏ+s²(∆ x)² ≥ 0 for all s ∈ ℝ ψ ψ Now we’re in familiar territory. This is a quadratic in s and the inequality tells us that it has either one root or no roots. This can only be true if the discriminant “b²−4ac” is non-positive, i.e.
+
+4(∆ x)²(∆ p)² ≥ ℏ² ψ ψ This is the Heisenberg uncertainty relation (3.21). □
+
+You can have some fun trying to come up with experiments that might evade the Heisenberg uncertainty relation, and then see how Nature finds a way to avoid this conclusion and ensure that (3.21) is always satisfied.
+
+For example, the obvious way to figure out where a particle is sitting is to look at it. But if you want to resolve something on a distance scale ∆x, then you have to use light of wavelength λ ≲ ∆x. Ultimately, light is made up of particles called photons. We haven’t said anything so far about photons in these lectures. (We’ll make a few comments in Section 4.4.) However, all we need to know is that, like all other quantum particles, photons have a momentum given by the de Broglie formula (2.7)
+
+p = 2πℏ / λ
+
+Clearly there’s a pay-off: if you want to be sure that the particle is sitting in a smaller and smaller region ∆x then you have to hit it with higher and higher momentum photons, and these will impart some recoil on the particle of order ∆p ∼ 2πℏ/∆x. The intrusive nature of measurement means that we can’t know both the position and momentum to better than ∆p∆x ∼ 2πℏ. The Heisenberg uncertainty relation (3.21) provides the more accurate bound.
+
+For more examples along the same lines, you could do worse than look up the intellectual jousting of the original Einstein-Bohr debates. Einstein’s thinking is pellucid in its clarity; Bohr appears muddled, bordering on obscurantist. Yet Bohr had the overwhelming advantage of being right.
+
+The Gaussian Wavepacket Revisited
+
+We already met a baby version of the Heisenberg uncertainty relation when we studied the Gaussian wavepacket in Section 2.1. We can return to this example now that we have a better idea of what we’re doing.
+
+We’ll forget about time dependence (as we have for much of this section) and look at the normalised Gaussian wavefunction in one dimension ψ(x) = (a/π)^(1/4) e^(-ax^2/2)
+
+It’s not hard to check that ⟨x̂⟩ = ⟨p̂⟩ = 0. What about the uncertainty?
+
+The uncertainty in position is given by (∆ x)² = ⟨x̂²⟩ = ∫₋∞⁺∞ dx x²e⁻ᵃˣ² / (√(a/π)) (3.22)
+
+This integral is straightforward. We start from the Gaussian integral ∫₋∞⁺∞ dx e⁻ᵃˣ² = √(π/a)
+
+Then we differentiate both sides with respect to a. This gives ∂/∂a ∫₋∞⁺∞ dx e⁻ᵃˣ² = ∫₋∞⁺∞ ∂/∂a (e⁻ᵃˣ²) dx = -∫₋∞⁺∞ dx x²e⁻ᵃˣ² = -1/2 √(π/a³)
+
+So we have the result ∫₋∞⁺∞ dx x²e⁻ᵃˣ² = 1/2 √(π/a³)
+
+Substituting this into (3.22), we get the uncertainty in position to be (∆ x)² = 1/(2a)
+
+This is to be expected: it is the usual variance of a Gaussian distribution.
+
+For the uncertainty in momentum, we have (∆ p)² = ⟨p̂²⟩ = √(a/π) ∫₋∞⁺∞ dx e⁻ᵃˣ²/2 (-ℏ² d²/dx² e⁻ᵃˣ²/2)
+
+= √(a/π) ℏ² ∫₋∞⁺∞ dx (a - a²x²)e⁻ᵃˣ² = √(a/π) ℏ² (a √(π/a) - a² 1/2 √(π/a³)) = ℏ²a / 2 Multiplying these results together gives ∆ x ∆ p = ℏ / 2 We see that the Gaussian wavepacket is rather special: it saturates the bound from the Heisenberg uncertainty relation. The class of Gaussian wavefunctions, parameterised by a, does the best job possible of balancing the twin requirements of localising in both position and momentum.
+
+## 3.5 Interpretations of Quantum Mechanics
+
+There is, I think it’s fair to say, a level of disquiet about certain aspects of quantum mechanics.
+
+In large part, this nervousness rests on the two ways in which the wavefunction can evolve. For much of the time, this evolution is governed by the time dependent Schrödinger equation. There is nothing random about this process: it is as deterministic and reversible as anything in classical mechanics. But then you decide to take a peek. Or, in more standard language, to make a measurement. At this point the wavefunction changes discontinuously, collapsing to one of the eigenstates in a probabilistic fashion.
+
+Related to this are two distinct ways of thinking about the wavefunction. On the one hand, the wavefunction clearly captures certain innate properties of the system. This is exhibited in the interference pattern of the double slit experiment or, as we will see in the next section, the spectral lines of the hydrogen atom. On the other hand, the wavefunction also encodes some aspect of our knowledge of the system as manifest in the probabilistic nature of measurement. The dichotomy posed by philosophers is whether the wavefunction is ontic, meaning describing some external aspect of the world, or epistemic, meaning relating only to our knowledge. The clear answer from quantum mechanics is that the wavefunction is both.
+
+In this section we will briefly look at some of the ways in which people have grappled with these questions. I should warn you that we haven’t yet covered enough background to describe these in any detail. This means that, in some places, I will do little more than drop some relevant names which should, if nothing else, give you a starting point to explore the rabbit warren of articles on the subject.
+
+Finally, before we proceed, I want to point out that a much better name for the title of this section would be “Interpretations of Classical Mechanics”. At the fundamental level, the world is quantum and probabilistic. Yet, from this emerges the classical world with its deterministic laws of physics. If there’s a question to answer at all, it’s how the latter arises from the former. If, instead, you’re looking for an explanation of quantum behaviour in terms of your prejudiced, classical worldview then you’ve got it backwards. That’s like turning to botany in the hope that it will help you understand the properties of quarks.
+
+3.5.1 Hidden Variables One very reasonable approach to understanding quantum mechanics is to wonder if perhaps it is not the final answer after all. Maybe it’s just a stepping stone to something deeper and more fundamental.
+
+One suggestion along these lines postulates that when we specify the wavefunction of a system, we are not giving complete information about the system. Instead, there may exist some more fundamental degrees of freedom, known as hidden variables, that underlie the wavefunction. Maybe we could ultimately access these hidden variables or maybe they would be, for some reason, forever hidden from us. Either way, the idea is that the probabilities in quantum mechanics arise in our current experiments because we don’t know the true value of these hidden variables. In this way, the randomness in quantum mechanics is once again due to our ignorance and is no different from, say, the seeming randomness in the weather. Such a hidden variables theory would allow us to return to the comfortable, rosy classical world that we knew as children, where everything is predestined.
+
+Hidden variables theories have an advantage over other interpretations. This is because, in some circumstances, they may deviate from the predictions of quantum mechanics, allowing an experiment to distinguish between the two. After all, the power of science derives from our ability to be wrong. Hidden variables theories hold a special place among interpretations of quantum mechanics because they are falsifiable. In fact, not only are they falsifiable, they are falsified!
+
+It may seem odd to spend time discussing an interpretation that is known to be wrong. But because there are observable differences between hidden variables and common-or-garden quantum mechanics, this alternative viewpoint has taught us much more about the nature of the quantum world than any other interpretation and that’s a story worth telling.
+
+The story starts with Einstein who, together with Podolsky and Rosen, was concerned about the instantaneous collapse of the wavefunction. The word “instantaneous” does not sit well with the tenets of special relativity, where the ordering of spacelike separated events can be different for different observers. In Minkowski space, simultaneity is tantamount to acausality.
+
+In 1935, the trio of EPR conceived of a thought experiment in which the knowledge of a measurement performed in one part of space would instantaneously give rise to knowledge of an experiment performed in a far flung region of the universe. This, they argued, was untenable and so quantum mechanics must be incomplete: to be compatible with locality and causality it should be replaced by a new theory at shorter distance scales. These are the hidden variables.
+
+Thirty years later, the physicist John Bell presented a glorious judo move of an argument in which he used the strength of the EPR result against them. He derived an inequality, now known as the Bell inequality, which is necessarily satisfied by any local, causal hidden variable theory but is violated by quantum mechanics. In other words, he found a way to experimentally distinguish between hidden variables and quantum mechanics. Needless to say, when the experiments were done they came down firmly on the side of quantum mechanics.
+
+The Bell inequality greatly sharpened our understanding of quantum mechanics and helped us see what it can and can’t do. We now understand that there is no acausal behaviour in the collapse of the wavefunction. There is no way that one can use the collapse of the wavefunction to transmit information faster than the speed of light. Instead, the acausality only arises if, like EPR, you insist on some underlying classical mechanism to explain the observed quantum behaviour.
+
+Strictly speaking, hidden variables theories are not quite dead. The Bell arguments only rule out local hidden variables theories, meaning those whose dynamics is compatible with special relativity and, consequentially, causality. But these properties were one of the main motivations for introducing hidden variables in the first place! Moreover, there is overwhelming evidence that dynamics in our universe is local and so little reason to think that, at the fundamental level things are non-local but that somehow this is hidden from our view.
+
+Indeed, the lesson to take from EPR and Bell is that quantum mechanics is subtle and clever and achieves things through local dynamics that we may have naively thought impossible. Furthermore, this way of thinking has been astonishingly fruitful: one can draw a clear line from the arguments of Bell to applications such as quantum computing that harness some of the more surprising aspects of the quantum world. You can read more about the EPR argument and the Bell inequalities and their applications in the lectures on Topics in Quantum Mechanics.
+
+3.5.2 Copenhagen and Many Worlds When people talk about an interpretation of quantum mechanics, they don’t usually have in mind a new theory that will ultimately replace quantum mechanics, nor something that can be tested with experiment. Instead, they are searching for some comforting words that they can drape around the equations to help them sleep better at night.
+
+Here I describe two attempts at constructing these words. Neither are comforting. In fact, both are jarring. They do, however, demonstrate the unsettling novelty that necessarily accompanies quantum mechanics.
+
+The Copenhagen interpretation was the approach favoured by many (but not all) of the founding fathers of quantum mechanics, and advocated most strongly, but not always clearly, by Niels Bohr. The idea is to take the collapse of the wavefunction seriously. The universe in which we live should be divided into two: the quantum world, described by wavefunctions and the Schrödinger equation, and the familiar classical world described by Newtonian laws of physics. The measurement process provides a bridge between the two, where the nebulous nature of the quantum transmutes into concrete statements of the classical. The price you pay for this is probability.
+
+There is much that is deeply unsatisfying about the Copenhagen interpretation. Both you and me and (for some of us) our experimental apparatus are made of atoms which should also obey the laws of quantum mechanics and it seems very odd to deny this. Moreover, it’s far from clear where the dividing line should be drawn.
+
+between classical and quantum. In fact, it seems preferable to keep the dividing line deliberately fuzzy and ill defined since it helps render certain unpalatable questions illegitimate. While unsatisfying, it does seem that the Copenhagen interpretation is a consistent logical viewpoint, although it may take a lifetime of study to be able to nimbly deflect the awkward questions with the skill of Niels Bohr.
+
+The second approach is known as the many worlds interpretation. It was first suggested in the 1950s by Hugh Everett III and gained traction in the subsequent decades. The idea is to take the time dependent Schrödinger equation seriously. A particle that passes through two slits is described by a wavefunction that is non-vanishing in the vicinity of both slits. We say that the particle is in a superposition of states, sitting in two places at the same time. If there’s a detection apparatus placed on one slit then the wavefunction doesn’t collapse: instead it continues to obey the Schrödinger equation. The detection apparatus now also sits in a superposition of “particle detected” and “particle not detected”. When we subsequently look at the apparatus, we too split into a superposition. And so on. The “many worlds” are the different branches of the wavefunction. All of this follows from simply putting our faith in the veracity of the Schrödinger equation.
+
+There is much that is deeply unsatisfying about the many worlds interpretation. The collapse of the wavefunction is largely ignored and the all-important Born rule for constructing probabilities must be added by hand. Relatedly, there is nothing that explains why I only feel myself in one branch of the wavefunction, rather than in a superposition of all possible outcomes. (Admittedly, I don’t know what I would feel if I were, in fact, in a superposition of states.)
+
+There is one important facet of quantum mechanics that brings balm to both interpretations above, a process known as quantum decoherence. This is one of those topics that is beyond the scope of these lectures, but roughly speaking the idea of decoherence is that as an increasingly large number of particles become entangled in the superposition, so it becomes increasingly difficult to exhibit any quantum interference effects. This, at least, explains why peculiar quantum properties cannot be observed for macroscopic objects. It also helps in understanding how the blurry Copenhagen dividing line can arise, or how the splitting of the many worlds might practically occur. Decoherence is, like the Bell inequalities, an important part of our understanding of quantum dynamics. But it falls short of resolving all the difficulties of either interpretation.
+
+The two interpretations above are painted only with the very broadest brush. There is an almost infinitely bifurcating tree of different viewpoints, with fights frequently breaking out in otherwise dull conferences between the Everettian People’s Front and the People’s Front of Everett. (Splitters.) Of course, the fiercest arguments are between Copenhagenists and Many Worlders, but they now tend to go to different conferences.
+
+There is, however, an alternative approach, a third way. This is the approach advertised in the heading of this section: you should accept both Copenhagen and many worlds, together with anything that lies in between. At any given moment, choose the one that gives you the warmest feeling when applied to the problem at hand. If you experience a nagging sense of shame or inconsistency in adopting all viewpoints, simply shrug it off. The church of your choice matters not one iota for the simple reason that there is no experimental way to distinguish between them. Should that situation ever change, then so too should your perspective.
+
+Before proceeding, I should mention one pseudo-experimental hope that is often raised in conjunction with the interpretation of quantum mechanics. This is the suggestion that a better understanding of the meaning of quantum mechanics is needed before we can solve some thorny problem, usually mooted as something like quantum gravity or human consciousness. For example, you might want to think about quantum cosmology, where we apply quantum mechanics to the entire universe and it is difficult to envisage the role of an external observer who can collapse the wavefunction. Although a popular opinion, it seems to me that the underlying logic is weak, roughly following the lines “we don’t understand Topic X and I’m nervous about quantum mechanics so probably they’re related”. The same logic could equally well be applied to, say, high temperature superconductivity or the question of why the Higgs boson has its particular mass, but it’s never suggested that these can be solved only after invoking the right interpretation of quantum mechanics because it would sound silly. I suspect that the idea that a novel interpretation of quantum mechanics is needed before we can make progress on other important problems is similarly ill-judged.
+
+3.5.3 Shut Up and Calculate The phrase “shut up and calculate” was coined by the solid state physicist David Mermin as a somewhat cynical, but largely approving take on what is, by any measure, the most popular interpretation of quantum mechanics among practising physicists. Mermin’s point is a simple one. Quantum mechanics is, by some margin, the most successful scientific framework of all time. The formalism provides unambiguous answers to any experiment we care to perform and the fact that these answers are necessarily of a statistical nature is more than offset by the fact that these answers are right.
+
+Embracing quantum mechanics has lead, in the century since its discovery, to an unprecedented understanding of the world and resulted in an enormous body of work that, collectively, represents one of the great triumphs of human intellect. Sitting within this body are the subjects of atomic and molecular physics, condensed matter physics, statistical physics, quantum information, mathematical physics, particle physics, and early universe cosmology. Anyone who pauses at the starting point, having deep thoughts about what it all means and muttering the words “ontic” and “epistemic”, is in danger of missing the stunning quantum vistas that await just around the corner. The true meaning of quantum mechanics can be found in the answers it gives about the world we inhabit.
+
+4 A Quantum Particle in Three Dimensions We will now continue our explorations of the Schrödinger equation, this time focussing on a quantum particle moving in three dimensions, described by the Hamiltonian H ˆ = − ℏ2 ∇2 +V(x)
+
+2m where ∇2 = ∂ ∂ ∂ + + ∂x2 ∂y2 ∂z2 Throughout this section, we will focus on central potentials, with V(x) = V(r) with r = |x| These are both the simplest potentials to study and, happily, the kinds of potentials that are most useful for physics.
+
+It’s worth recalling how we approached such potentials when we first met them in Classical Mechanics. In that context, everything became easier once we made use of the angular momentum vector L = x×p This is a conserved quantity in a central potential. To see this we just need to note that ˙x is parallel to p and ˙p is parallel to x. This latter fact follows from the classical equation of motion ˙p = −∇V with the observation that ∇V is parallel to x for a central potential. We then have dL = ˙x ×p+x×˙p = 0 dt When solving central body problems in classical mechanics, we use the conservation of angular momentum twice. First we use the fact that the direction of L is fixed to reduce the problem from 3d to 2d since the particle only moves in the plane L·x = 0. Later we use the fact that the magnitude |L| is fixed to reduce the problem to motion in the radial direction. Then we solve what is essentially a 1d problem.
+
+In this section we will see that a similar strategy works for quantum mechanics. The Schrödinger equation Hψ = Eψ is a partial differential equation. By the time we get to grips with angular momentum, it will be an ordinary differential equation of the same kind that we solved when considering a particle moving in one dimension.
+
+## 4.1 Angular Momentum
+
+The angular momentum operator is L ˆ = xˆ ×pˆ = −iℏxˆ ×∇ In components, with x = (x1 ,x2 ,x3 ), this means L 1 ˆ = −iℏ (x2 ∂ ∂x3 − x3 ∂ ∂x2 )
+
+L 2 ˆ = −iℏ (x3 ∂ ∂x1 − x1 ∂ ∂x3 )
+
+L 3 ˆ = −iℏ (x1 ∂ ∂x2 − x2 ∂ ∂x1 )
+
+Alternatively, these can be summarised in index notation as L ˆi = −iℏϵijk xj ∂ ∂xk It’s not hard to check that the angular momentum operators are Hermitian. Indeed, this really follows immediately from the fact that both xˆ and pˆ are Hermitian.
+
+4.1.1 Angular Momentum Commutation Relations The three angular momentum operators do not mutually commute. They obey the relations [L ˆi ,L ˆj ] = iℏϵijk L ˆk (4.1)
+
+From a physics perspective, this means that a quantum particle cannot have a well defined angular momentum in all three directions simultaneously! If, for example, you know the angular momentum L then there will necessarily be some uncertainty in the angular momentum in the other two directions.
+
+Although it goes beyond the scope of this course, I should point out that the commutation relations (4.1) are very famous in mathematics and appear in many places that have nothing to do with quantum mechanics. These equations define what mathematicians call a Lie algebra, in this case the algebra su(2). It is very closely related to the group SU(2) which, in turn, is almost (but not quite!) the same thing as the group of rotations SO(3). In some sense, the commutation relations (4.1) distill the essence of rotation. The “almost but not quite” of the previous sentence opens up a number of weird and wonderful loopholes that the quantum world exploits. (Like, for example, the fact that there are particles called fermions that don’t come back to themselves when rotated by 360◦.) We discussed some 我们将在《动力学与相对论》课程中简要探讨这些问题，并在后续课程中多次遇到它们。
+
+让我们来证明对易关系(4.1)。只需证明其中一种情况即可，例如 [L̂₁, L̂₂] = iℏL̂₃  (4.2)
+
+要验证这一点，我们记得此类算符方程应理解为它们作用于函数，然后直接代入适当的定义， [L̂₁, L̂₂]ψ = -ℏ²(x₂ - x₃)(∂₂ - ∂₃)ψ + ℏ²(x₃ - x₁)(∂₃ - ∂₁)ψ 其中∂ᵢ表示对xᵢ的偏导数。
+
+稍加代数运算就可以发现几乎所有的项都抵消了。唯一剩下的项是 [L̂₁, L̂₂]ψ = ℏ²(x₁∂₂ - x₂∂₁)ψ = iℏL̂₃ψ
+
+因为这对所有ψ(x)都成立，它等价于所声称的结果(4.2)。其他的对易关系(4.1)也以类似的方式成立。
+
+**总角动量**
+
+我们也可以看角动量的大小。更有用的是看L²而不是|L|。这与总角动量算符相关 L̂² = L̂₁² + L̂₂² + L̂₃²
+
+这又是一个厄米算符。它与所有L̂ᵢ对易， [L̂², L̂ᵢ] = 0  (4.3)
+
+这很重要。正如我们上面所见，量子力学不允许我们同时为所有方向的角动量赋予值。然而，一个量子态可以具有特定的总角动量——这意味着它是L̂²的本征态——也可以在一个选定的方向上具有特定的角动量值——意味着它也是，比如说，L̂₃的本征态。
+
+为了证明(4.3)，我们首先需要一个简单的引理。对于任意算符Â和M̂， [Â², M̂] = Â[Â, M̂] + [Â, M̂]Â  (4.4)
+
+要证明这一点，我们从右边开始并展开 Â[Â, M̂] + [Â, M̂]Â = Â(ÂM̂ - M̂Â) + (ÂM̂ - M̂Â)Â = Â²M̂ - ÂM̂Â + ÂM̂Â - M̂Â² = Â²M̂ - M̂Â² = [Â², M̂]
+
+我们现在只需反复使用这个结果来证明(4.3)。我们想证明，例如， [L̂², L̂₁] + [L̂², L̂₂] + [L̂², L̂₃] = 0
+
+第一项是平凡的：所有算符都与自己对易，所以[L̂², L̂₁] = 0。
+
+使用(4.4)，接下来两项可以写为 [L̂², L̂₂] = L̂₂[L̂₂, L̂₁] + [L̂₂, L̂₁]L̂₂ = -iℏ(L̂₂L̂₃ + L̂₃L̂₂)  (4.5)
+
+其中，得到第二行时，我们使用了对易关系(4.1)。我们还有 [L̂², L̂₃] = L̂₃[L̂₃, L̂₁] + [L̂₃, L̂₁]L̂₃ = iℏ(L̂₃L̂₂ + L̂₂L̂₃)  (4.6)
+
+将(4.5)和(4.6)相加，就得到了我们想要的结果(4.3)。
+
+**中心势场中的角动量**
+
+在经典力学中，角动量只有在存在中心势场时才有用 V(x) = V(r)
+
+只有在这种情况下，角动量才守恒。
+
+在量子力学中，相应的表述是，对于中心势场，我们有 [Ĥ, L̂ᵢ] = [Ĥ, L̂²] = 0  (4.7)
+
+这再次表明它很重要。这意味着哈密顿量的本征态也可以被选为总角动量的本征态，以及在一个选定方向上角动量的本征态。一个量子粒子可以同时拥有这三个量的值。随着我们的推进，这个结果将使我们能够求解三维薛定谔方程。
+
+在我们能够做到这一点之前，我们首先必须证明(4.7)。它遵循一些非常类似于我们迄今所做工作的直接代数运算。你可以首先证明 [L̂ᵢ, x̂ⱼ] = iℏεᵢⱼₖx̂ₖ 和 [L̂ᵢ, p̂ⱼ] = iℏεᵢⱼₖp̂ₖ 从这里，很容易证明 [L̂ᵢ, x̂²] = [L̂ᵢ, x̂₁² + x̂₂² + x̂₃²] = 0 和 [L̂ᵢ, p̂²] = [L̂ᵢ, p̂₁² + p̂₂² + p̂₃²] = 0
+
+但这就是我们所需要的全部。中心势场的哈密顿量只是p̂²和x̂²的函数， Ĥ = p̂²/(2m) + V(r)
+
+其中r² = x²。所以我们保证得到[Ĥ, L̂ᵢ] = 0。由于哈密顿量与每个角动量算符对易，它也与总角动量算符L̂²对易。
+
+这一分析的结果是，在中心势场中运动的粒子可以处于三个算符的共同本征态，我们通常取为： Ĥ, L̂², 和 L̂₃ 相应的本征值是能量、总角动量，以及z方向上的角动量。在下文中，所有能量本征态都用这三个数来标记。
+
+还要注意，这是相互对易算符的最大集合。对于一般的中心势场V(r)，不存在其他与这三个算符都对易的算符。
+
+**4.1.2 本征函数是球谐函数**
+
+我们的下一个任务是找出角动量算符L̂的本征函数和本征值。正如你可能预期的，如果我们用球极坐标工作，事情会变得简单得多。这些坐标定义为 x₁ = rsinθcosϕ x₂ = rsinθsinϕ  (4.8)
+
+x₃ = rcosθ 角度的取值范围是0 ≤ θ ≤ π 和 0 ≤ ϕ < 2π，如图所示。
+
+直接写出球极坐标下的角动量算符是很直接的。我们只需要使用链式法则来得到，例如， ∂/∂x₁ = (∂r/∂x₁) ∂/∂r + (∂θ/∂x₁) ∂/∂θ + (∂ϕ/∂x₁) ∂/∂ϕ = sinθcosϕ ∂/∂r + (cosθcosϕ/r) ∂/∂θ - (sinϕ/(rsinθ)) ∂/∂ϕ 对∂/∂x₂和∂/∂x₃也有类似的结果。
+
+将这些组合起来，我们可以将角动量算符写为 L̂₁ = iℏ(cotθcosϕ ∂/∂ϕ + sinϕ ∂/∂θ)
+
+L̂₂ = iℏ(cotθsinϕ ∂/∂ϕ - cosϕ ∂/∂θ)
+
+L̂₃ = -iℏ ∂/∂ϕ  (4.9)
+
+请注意，角动量算符不关心波函数如何依赖于径向坐标r。一个态的角动量，也许并不令人惊讶地，编码在波函数如何在角向θ和ϕ方向上变化。此外，L̂₃的形式特别简单，因为x₃在球极坐标中是一个特殊的方向。
+
+我们还需要总角动量算符的表达式。它可以最简单地写为 L̂² = L̂₁² + L̂₂² + L̂₃² = -ℏ²/sinθ ∂/∂θ (sinθ ∂/∂θ) + 1/sin²θ ∂²/∂ϕ²  (4.10)
+
+再次，我们应该小心解释这意味着什么。特别是，第一个∂/∂θ既作用于圆括号中的sinθ，也作用于算符L̂²作用的任何函数。
+
+我们的目标是找到L̂₃和L̂²的共同本征函数。我们将暂时忽略所有r依赖性，并在后续章节中求解薛定谔方程时重新考虑它。L̂₃的本征函数很直接：我们可以取 ψ(θ,ϕ) = Y(θ)eⁱᵐϕ  (4.11)
+
+对于任何函数Y(θ)。为了使波函数在ϕ上是单值的，即ψ(θ,ϕ) = ψ(θ,ϕ+2π)，m必须是整数。使用(4.9)，我们看到相应的本征值是 L̂₃eⁱᵐϕ = mℏeⁱᵐϕ, m ∈ ℤ
+
+我们得知z方向（即x₃方向）的角动量是以ℏ为单位量子化的。当然，任何其他方向的角动量也是如此。但是，正如我们上面强调的，如果我们处于L̂₃的本征态，那么我们就不能同时处于任何其他方向n·L̂的本征态，其中n不是z方向（n=(0,0,1)）。
+
+接下来我们转向L̂²本征值方程。我们保留拟设(4.11)并寻找解 L̂²Y(θ)eⁱᵐϕ = λY(θ)eⁱᵐϕ
+
+使用我们的表达式(4.10)，这变为 -ℏ²/sinθ ∂/∂θ (sinθ ∂/∂θ) + 1/sin²θ ∂²/∂ϕ² [Y(θ)eⁱᵐϕ] = λY(θ)eⁱᵐϕ ⇒ -ℏ²/sinθ ∂/∂θ (sinθ ∂/∂θ)Y(θ) - m²ℏ²/sin²θ Y(θ) = λY(θ)  (4.12)
+
+这个方程的解是一类众所周知的数学函数，称为连带勒让德多项式。它们的构造分为两步。首先，我们引入一组关联的函数，称为（普通）勒让德多项式Pₗ(x)。它们满足微分方程 d/dx [(1-x²) dPₗ/dx] + l(l+1)Pₗ(x) = 0, l = 0,1,2,...
+
+Pₗ(x)（其中l=0,1,2,...）是l次多项式。本征函数解(4.12)然后被定义为连带勒让德多项式Pₗ,ₘ(cosθ)： Y(θ) = Pₗ,ₘ(cosθ) = (sinθ)⁽ᵐ⁾ d⁽ᵐ⁾/d(cosθ)⁽ᵐ⁾ Pₗ(cosθ)
+
+对应的本征值是 λ = l(l+1)ℏ²
+
+因为Pₗ(cosθ)是l次多项式，你只能对它微分l次，之后它就消失了。这意味着L̂₃的角动量被限制在以下范围内取值 -l ≤ m ≤ l
+
+这一分析的结果是，L̂²和L̂₃的共同本征态由标有两个整数l和m（其中|m|≤l）的函数给出， ψ(θ,ϕ) = Yₗ,ₘ(θ,ϕ)
+
+这些函数称为球谐函数，由下式给出 Yₗ,ₘ(θ,ϕ) = Pₗ,ₘ(cosθ)eⁱᵐϕ
+
+对应的本征值是 L̂²Yₗ,ₘ(θ,ϕ) = l(l+1)ℏ² Yₗ,ₘ(θ,ϕ)
+
+L̂₃Yₗ,ₘ(θ,ϕ) = mℏ Yₗ,ₘ(θ,ϕ)
+
+整数l称为总角动量量子数（尽管严格来说，总角动量实际上是√[l(l+1)]ℏ）。整数m称为方位角动量量子数。
+
+|m|≤l的要求只是告诉我们，在任何给定方向（本例中是z方向）的角动量不能超过总角动量。当m=+l（或m=-l）时，你应该认为该物体与z轴具有最大对齐（或反平行）的角动量。当|m|<l时，你应该认为角动量在某个中间方向上对齐。当然，所有这些想法都应该是量子的想法：即使m=l，如果你测量一个垂直方向的角动量，比如L̂₁，你也不能保证得到零。相反，会有一个围绕零点分布的概率分布。
+
+为了建立一些直觉，这里列出一些最早的球谐函数。l=0的情况只是一个常数 Y₀,₀ = 1 这是当粒子没有角动量时的情况，相应地，它的波函数没有角度依赖性。在原子物理学的背景下，它被称为s波。下一组球谐函数的总角动量都是l=1， Y₁,₋₁ = sinθe⁻ⁱϕ, Y₁,₀ = cosθ, Y₁,₁ = sinθeⁱϕ
+
+在……的背景下 In atomic physics, these are called p-wave states. The next, l = 2 collection are d-waves, Y₂,±₂ = sin²θe±²iϕ , Y₂,±₁ = sinθ cosθe±iϕ , Y₂,₀ = 3cos²θ−1
+
+There are various ways to visualise spherical harmonics. For example, in Figure 17, we plot the absolute value |Yₗ,ₘ(θ,ϕ)| as the distance from the origin in the (θ,ϕ) direction. Taking the absolute value removes the eⁱᵐᵠ dependence, so these plots are symmetric around the z-axis. Alternatively, in Figure 18, we plot Re(Yₗ,ₘ(θ,ϕ)) on the sphere, with the value denoted by colour.
+
+## 4.2 Solving the 3d Schrödinger Equation
+
+We now return to the Schrödinger equation which, for a particle moving in a 3d central potential, is −ℏ²/2m ∇²ψ +V(r)ψ = Eψ As we’ve seen, the symmetry of the problem strongly suggests that we work in spherical polar coordinates (4.8), in terms of which the Laplacian becomes ∇² = (1/r²) ∂/∂r (r² ∂/∂r) + (1/(r² sinθ)) ∂/∂θ (sinθ ∂/∂θ) + (1/(r² sin²θ)) ∂²/∂ϕ² Crucially, the angular parts of the Laplacian are identical to the total angular momentum operator L̂² that we met in (4.10). This means that we can equally well write the Laplacian as ∇² = (1/r²) ∂/∂r (r² ∂/∂r) − L̂²/(ℏ²r²)
+
+Now we can see the utility of working with angular momentum eigenstates. We look for solutions to the Schrödinger equation of the form ψ(r,θ,ϕ) = R(r)Yₗ,ₘ(θ,ϕ)
+
+where R(r) the radial wavefunction. All of the angular dependence now sits in an eigenstate of L̂².
+
+Substituting this into the Schrödinger equation, what looks like a complicated partial differential equation turns into a more straightforward ordinary differential equation −ℏ²/(2mr²) d/dr (r² dR/dr) + Veff(r)R = ER (4.13)
+
+where the potential V(r) is replaced with the effective potential Veff(r) = V(r) + l(l+1)ℏ²/(2mr²)
+
+We’ve met this effective potential before. It’s exactly the same as the effective potential that emerges when solving classical mechanics problems in a central potential. The additional term is called the angular momentum barrier. The only difference from our previous classical result is that the angular momentum is now quantised in units of ℏ².
+
+Note that the azimuthal angular momentum quantum number m doesn’t appear in the Hamiltonian. (Sadly for us, there is an “m” sitting in both the kinetic term and in the effective potential, but this is the mass! Not the angular momentum quantum number. Sorry! The canonical name for both is m. It’s rare that it leads to confusion precisely because the azimuthal quantum number doesn’t appear in the Hamiltonian.) Because the energy doesn’t depend on the L eigenvalue m, it means that the energy spectrum for any particle moving in a central potential will always be degenerate, with multiple eigenstates all having the same energy. In contrast, the energy will usually depend on the total angular momentum l. This means that we expect each energy eigenvalue to have Degeneracy = 2l+1 (4.14)
+
+which comes from the different Yₗ,ₘ states with m = −l,−l+1,...,l−1,l.
+
+The effective Schrödinger equation (4.13) takes a very similar form to those that we solved in Section 2. The only slight difference is the more complicated kinetic term, together with some associated issues about the need for a finite wavefunction at r = 0. However, these issues notwithstanding, we’re now largely on familiar territory. In the rest of this section we’ll briefly look at some appetisers before, in Section 4.3, we turn to our main course: the hydrogen atom.
+
+4.2.1 The 3d Harmonic Oscillator
+
+The harmonic oscillator provides a particularly simple example of the 3d Schrödinger equation because we can solve it in either Cartesian or polar coordinates. In Cartesian coordinates, the Hamiltonian is Ĥ = −ℏ²/2m (∂²/∂x² + ∂²/∂y² + ∂²/∂z²) + 1/2 mω²(x² +y² +z²)
+
+We see that the Hamiltonian just decomposes into three copies of the 1d harmonic oscillator: one for each direction. This means that we can just read off the energy spectrum from our earlier result (2.29). The spectrum of the 3d harmonic oscillator is given by E = ℏω (n + 3/2) (4.15)
+
+where N = n₁ +n₂ +n₃ , nᵢ = 0,1,2,...
+
+All of the subtleties lie in the degeneracy of the spectrum. The ground state has energy E = 3ℏω/2 and is unique. But there are three excited states with energy E = 5ℏω/2 associated to exciting the harmonic oscillator in the x, y or z direction. There are then 6 states with energy E = 7ℏω/2, because we could excite one oscillator twice or two oscillators once each. In general, the degeneracy of the Nth level is 1/2(N +1)(N +2).
+
+How does this look in polar coordinates? It’s best to work with the form of the Schrödinger equation (4.13) which is now −ℏ²/(2mr²) d/dr (r² dR/dr) + ( 1/2 mω²r² + l(l+1)ℏ²/(2mr²) ) R = ER We’re now awash with various constants and life will be easier if we can get rid of a few. We make the same scaling (2.22) that we used for the 1d oscillator, y = √(mω/ℏ) r   and   Ẽ = 2E/(ℏω)
+
+The Schrödinger equation then becomes 1/y² d/dy (y² dR/dy) − l(l+1)/y² R = −Ẽ R (4.16)
+
+We’re going to solve it using the same kind of polynomial expansion that we used for the 1d harmonic oscillator. First, look at the large distance y → ∞ behaviour. Here the dominant terms are −y²R ≈ d²R/dy² ≈ 0  ⇒  R ≈ e⁻ʸ²/² as y → ∞ Next, look at the behaviour near the origin y ≪ 1. Here the dominant terms in the equation are d²R/dy² + 2/y dR/dy − l(l+1)/y² R ≈ 0 for y ≪ 1 If we make the power-law ansatz R ∼ yᵅ, we find α(α−1)+2α−l(l+1) = 0  ⇒  R ∼ yˡ as y → 0 (4.17)
+
+Here we’ve discarded the second solution α = −(l+1) on the grounds that the resulting wavefunction diverges at the origin. Putting this together, our ansatz for the general solution is R(y) = yˡ h(y) e⁻ʸ²/² where we take h(y) = Σₖ₌₀^∞ aₖ yᵏ At this stage we’ve got a little bit of algebra to do, plugging our ansatz into the Schrödinger equation (4.16). Once the dust settles, you’ll find the result Σₖ₌₀^∞ [ aₖ k(2l+k+1) yˡ⁺ᵏ⁻² + aₖ (Ẽ −(2l+2k+3)) yˡ⁺ᵏ ] = 0 (4.18)
+
+We start our recurrence relation by setting a₀ = 1 This is just the statement that the small y behaviour is indeed R ∼ yˡ rather than some higher power. Now note that the first term in our equation will have term proportional to a₁ yˡ⁻¹. But there’s nothing to cancel this in the second term. This means that we must set a₁ = 0 As we’ll see, our recurrence relation will then set aₖ = 0 for all odd k. To find this recurrence relation, we shift the summation variable k → k + 2 in the first term in (4.18) so that all terms have the same power of yˡ⁺ᵏ, Σₖ₌₀^∞ [ aₖ₊₂ (k+2)(2l+k+3) + aₖ (Ẽ −(2l+2k+3)) ] yˡ⁺ᵏ = 0 For this to hold for all y, we must have the following recurrence relation aₖ₊₂ = aₖ [ Ẽ −(2l+2k+3) ] / [ (k+2)(2l+k+3) ]
+
+At this stage, the argument is the same as we used for the 1d harmonic oscillator. If the recurrence relation fails to terminate then aₖ₊₂ → 2aₖ/k for large k, but that’s bad: it messes up the e⁻ʸ²/² behaviour at large y and turns it into a non-normalisable e⁺ʸ²/² behaviour. This means that we must find solutions where the recurrence relation terminates. This immediately allows us to read off the energy. If we are to have a₂q₊₂ = 0 (recall that all aₖ for odd k already vanish) then the energy of the state must be E = ℏω (l + 2q + 3/2)   l,q = 0,1,2,... (4.19)
+
+Let’s compare this to our Cartesian result (4.15). Clearly they agree, but the extra work we did in polar coordinates brings more information: it tells us how the energy depends on the total angular momentum l. In particular, the lowest energy state with angular momentum l has E = ℏω(l + 3/2).
+
+We also have a better understanding of the degeneracy of states. When N is even, the states with energy E = ℏω(N + 3/2) comprise of all even angular momentum states l = 0,2,4,...,N. Since there are 2l + 1 states (4.14) associated to each angular momentum l, the total number of states at level N must be Total Degeneracy = Σₖ₌₀^{N/2} (4k+1) = 1/2(N+1)(N+2)
+
+which agrees with the count from the Cartesian calculation. Similarly, when N is odd the states at energy E = ℏω(N + 3/2) comprise of all odd angular momentum states l = 1,3,5,...,N: again, the total count is 1/2(N+1)(N+2).
+
+4.2.2 Bound States in 3d
+
+It is simple to adapt our earlier discussions to understand bound states in 3d. Here we’ll be brief as there is only one small punchline that we want to reach.
+
+Consider the spherical finite potential well, V(r) = { −V  r < a { 0   otherwise Clearly this is the 3d version of the 1d finite well that we considered in Section 2.3. The associated 3d radial Schrödinger equation (4.13) is −ℏ²/(2mr²) d/dr (r² dR/dr) + [ V(r) + l(l+1)ℏ²/(2mr²) ] R = ER Our strategy is to massage the Schrödinger equation into the same form we saw in 1d and then simply invoke some of our earlier results. The only thing we need to fix is the unusual looking derivative terms. But this is easily achieved: we redefine the radial wavefunction as χ(r) = rR(r) (4.20)
+
+Then, written in terms of the new function χ(r), the Schrödinger equation takes the 1d form −ℏ²/(2m) d²χ/dr² + [ V(r) + l(l+1)ℏ²/(2mr²) ] χ = Eχ (4.21)
+
+However, we haven’t quite washed away all traces of our 3d origin. Some remnant survives in the boundary conditions that we must impose on χ. First, the wavefunction must be normalisable. Since the Yₗ,ₘ’s don’t cause us any trouble, we’re left with the requirement ∫ d³x |ψ|² ∼ ∫₀^∞ dr r²|R|² = ∫₀^∞ dr |χ|² < ∞ where the r² factor in the middle equation comes from the integration measure for polar coordinates. We see that the normalisability condition restricts the asymptotic r → ∞ behaviour of χ(r) as it would for a 1d wavefunction. The only novelty is what happens at the origin r = 0. If we require that the wavefunction R(r)
+
+doesn’t diverge at the origin, then clearly the function χ(r) = rR(r) must obey χ(0) = 0 (4.22)
+
+The derivative χ′(r = 0) must then be finite.
+
+Here we’ll look just for s-wave bound states, with l = 0. In this case, the Schrödinger equation (4.21) is identical to those we solved for the 1d problem, but with the novelty that the coordinate r ∈ [0,∞) rather than the x ∈ (−∞,+∞), together with the additional requirement (4.22).
+
+There is a simple fix to both these issues. We solve the Schrödinger equation (4.21) pretending that r ∈ (−∞,+∞), defining V(−r) = V(+r). But we then look for odd solutions with χ(−r) = −χ(+r). This condition ensures that we have χ(0) = 0 as required. Moreover, we’re not missing any solutions. As we saw in Section 2, with an even potential all solutions are either even or odd, but the even solutions have χ(0) ̸= 0 and so are illegitimate for our present purposes.
+
+This is all we need. We solved for the parity odd solutions in Section 2.3.1. In contrast to the parity even solutions, their existence is not guaranteed. They only arise when the potential is suitably deep or suitably wide, meaning (2.38)
+
+8mV 1 ℏ2π2 a2 This is our minor punchline. In 1d, there are potentials (like the finite well) where a bound state is always guaranteed. This is no longer the case in 3d where very shallow potentials do not house bound states.
+
+Perhaps surprisingly, the case of d = 2 turns out to be that same as d = 1 with bound states guaranteed for certain classes of potentials, no matter how shallow. It is only in d ≥ 3 that you need a deep, wide potential to trap a quantum particle.
+
+4.2.3 Why Can’t the Wavefunction Diverge at the Origin?
+
+Above we confidently asserted that the wavefunction R(r) should be finite at the origin. This gives a suitable boundary condition that allows us to determine which bound states exist. In the next section, we’ll use the same boundary condition to determine the bound states of the hydrogen atom. It also underlies the rest of the periodic table and all of chemistry. All of which is to say, the requirement that R(r) is finite at the origin is rather important. So why is it the right thing to impose?
+
+The obvious answer is that we need the wavefunction to be normalisable, i.e. ψ ∈ L2(R3), (cid:90) ∞ dr r2|R|2 < ∞ (4.23)
+
+From the analysis (4.17), we see that the discarded, divergent solution scales as R(r) ∼ r−(l+1) as r → 0 with l the angular momentum. For l ≥ 1, this is indeed non-normalisable and it’s clear that we must throw it away. But for the l = 0 s-wave, the wavefunction goes as R(r) ∼ 1/r near the origin and there’s no problem with normalisability, with the r2 in the measure of (4.23) coming to our rescue. Nonetheless, this wavefunction should also be discarded. Why?
+
+The answer is rather subtle and requires us to look more closely at the relevant Hilbert space and, more importantly, at the operators that act on it. Recall that back in Section 3.2, we argued that observables in quantum mechanics should be Hermitian, or self-adjoint. As we now show, it turns out that the Hamiltonian in our 3d examples is not self-adjoint on the whole Hilbert space L2(R3), but only on a subspace of functions that obey a certain boundary condition at the origin. And this means that when searching for physical states, we should restrict to this smaller Hilbert space.
+
+To see this, it’s sufficient to just look at the radial part of the Hamiltonian, which acts on a radial wavefunction R(r) as ℏ2 d (cid:18) dR (cid:19)
+
+H ˆ R = − r2 rad 2mr2dr dr
+
+To show that H is a self-adjoint operator, we simply need to do an integration by parts. Given two radial wave functions R(r) and S(r) (both of which we take to be real), we have (cid:90) ∞ ⟨S|H ˆ R⟩ = dr r2SH ˆ R rad rad ℏ2 (cid:90) ∞ d (cid:18) dR (cid:19)
+
+= − dr S r2 2m dr dr ℏ2 (cid:20) dR (cid:21)∞ ℏ2 (cid:90) ∞ dS dR = − r2S + dr r2 2m dr 2m dr dr 0 0 ℏ2 (cid:20) dR dS (cid:21)∞ ℏ2 (cid:90) ∞ d (cid:18) dS (cid:19)
+
+= − r2S −r2 R − dr r2 R 2m dr dr 2m dr dr 0 0
+
+We see that we only have a self-adjoint Hamiltonian, with ⟨S|H ˆ R⟩ = ⟨H ˆ S|R⟩ if the boundary terms, that we picked up when doing an integration by parts, vanish. This means that we must have (cid:20) (cid:21)
+
+dR dS lim r2 S − R = 0 for all S(r) and R(r) (4.24)
+
+r→0 dr dr This is clearly satisfied if R and S are finite at the origin. But it is not satisfied if, for example, S is finite at the origin while R(r) ∼ 1/r. This means that to have a self-adjoint Hamiltonian, and all the goodness that brings, we can’t admit all functions in L2(R3) as physical states. We must throw some out so the physical Hilbert space is a subspace of L2(R3). And we throw out those that diverge as R ∼ 1/r at the origin.
+
+## 4.3 The Hydrogen Atom
+
+The hydrogen atom is the simplest of all atoms. It consists of a single electron orbiting a proton, held in place by the Coulomb force ∂V e2 F = − = − ∂r 4πϵ r2 Here the electron has charge −e and the proton charge +e. The constant ϵ is a way to characterise the strength of the electrostatic force. For now, we’ll give values for neither e nor ϵ but we’ll return to this after we’ve computed the energy spectrum.
+
+The associated Coulomb potential is e2 V(r) = − 4πϵ r Our task in this section is to solve the 3d Schrödinger equation with this potential.
+
+Following our discussion earlier in this section, we know that solutions will be characterised by three integers, n, l and m, such that: • n labels the energy state. We will take it run from n = 1,2,3,.... In the context of the hydrogen atom it is sometimes called the principal quantum number.
+
+• l labels the total angular momentum. It appears in the eigenvalue of L ˆ2 as l(l+1)ℏ2.
+
+• m labels the azimuthal angular momentum, also known as the angular momentum in the z direction. It appears as the eigenvalue mℏ of L ˆz.
+
+We look for wavefunctions of the form ψ(r,θ,ϕ) = R(r)Yl,m(θ,ϕ)
+
+The Schrödinger equation (4.13) for the hydrogen atom is then given by, ℏ2 (cid:18) d2R 2dR (cid:19) (cid:18) e2 l(l+1)ℏ2(cid:19)
+
+− + + − + R = ER 2m dr2 r dr 4πϵ r 2m r2 e 0 e where m is the electron mass (and the subscript helps avoid confusion with the azimuthal angular momentum). Before we get going, let’s introduce some new variables so that we don’t have to lug around all those constants on our journey. We write e2m 1 2m E e e β = and = − (4.25)
+
+2πϵ ℏ2 a2 ℏ2 In this second of these redefinitions, we’ve anticipated the fact that we’re looking for negative energy bound states of the Coulomb potential, so that a2 > 0. You can check that a has dimension of length. This cleans up the Schrödinger equation a little, which now reads d2R 2dR l(l+1) β R + − R+ R = (4.26)
+
+dr2 r dr r2 r a2 All we have to do now is solve it.
+
+4.3.1 The Energy Spectrum First, let’s look at the asymptotic behaviour of solutions as r → ∞. Here the Schrödinger equation (4.26) is dominated by d2R R ≈ =⇒ R(r) ≈ e−r/a as r → ∞ dr2 a2 We see that a, which recall is related to the inverse energy of the system, sets the characteristic size of the wavefunction. Meanwhile, near the origin r = 0 the dominant terms are d2R 2dR l(l+1)
+
++ − R ≈ 0 for r ≪ 1 dr2 r dr r2 This is the same equation that we got when studying the 3d harmonic oscillator in Section 4.2. If we make the power-law ansatz R ∼ rα, we find α(α−1)+2α−l(l+1) = 0 =⇒ R ∼ rl as r → 0 where we’ve again discarded the second solution α = −(l + 1) because it results in a wavefunction that diverges at the origin.
+
+All of this motivates us to look for solutions of the form R(r) = rlf(r)e−r/a (4.27)
+
+where f(r) is a polynomial (cid:88)
+
+f(r) = c rk (4.28)
+
+k=0 where we must have c ̸= 0 so that we get the right behaviour at small r.
+
+Now we’ve got to roll up our sleeves and substitute this into the Schrödinger equation to get a recurrence relation for the coefficients ck. It’s best to go slowly. First you can check that if you plug the ansatz (4.27) into (4.26), then the function f(r) must satisfy d2f (cid:18) l+1 1 (cid:19) df 1 +2 − − (2(l+1)−βa)f = 0 dr2 r a dr ar Next, substitute the power-law ansatz (4.28) into this differential equation to find ∞ (cid:20) (cid:21)
+
+(cid:88) 1 c (k(k −1)+2k(l+1))rk−2 − (2k +2(l+1)−βa)rk−1 = 0 k=0 Finally, shift the dummy summation variable k → k − 1 in the second term to get a uniform power of rk−2. This then gives us our desired recurrence relation 1 2(k +l)−βa ck = ck−1 (4.29)
+
+ak k +2l+1
+
+The argument that we now make follows that of the harmonic oscillator. Suppose that this recurrence relation fails to terminate. Then, as k → ∞, we have ck → ck−1 ak But, as we explained in Section 2.2, this is the kind of expansion that we get from exponentially divergent functions of the form f(r) = e2r/a. On a mathematical level, there’s nothing wrong with these solutions: they just change the asymptotic form of (4.27) from e−r/a to e+r/a. But we’ve no use of such solutions for physics because they’re badly non-normalisable.
+
+This means that, once again, we need to restrict attention to series that terminate. Which, in turn, means that there should be a positive integer q for which cq = 0, while ck ̸= 0 for all k < q. Clearly this holds only if a takes special values, a = (q +l) with q = 1,2,...
+
+Alternatively, since both q and l are integers, we usually define the integer n = q +l which obviously obeys n > l. We then have a = n All that’s left is to chase through the definition of the various variables in this expression. These can be found in (4.25). The length scale a is related to the energy scale E which is given by e4m 1 E = − n = 1,2,... (4.30)
+
+32π2ϵ2ℏ2n2 This is our final result for the energy spectrum of the hydrogen atom. The integer n coincides with what we previously called the principal quantum number.
+
+There’s a whole lot to unpick in this expression. First, we can substitute this expression for E into the rescaling that we performed in (4.25) to get an expression for the length scale a that appeared in the equations. We have 4πϵ ℏ2 ℏ a = nr with rB = 0 = ≈ 5.3×10−11 m (4.31)
+
+e2 We’ve factored out the state-dependent integer n to get a length scale r, written purely in terms of fundamental constants. This is the Bohr radius. As we will soon see, it sets the characteristic size of the hydrogen atom.
+
+Next, there’s the ugly morass of constants sitting on the right-hand side. Clearly they set the energy scale of the bound states. There’s actually a better way to organise them to see what’s going on. To this end, we introduce the fine structure constant, α = e² / (4πϵ₀ ℏc)
+
+At first glance, you may think that this doesn’t help matters because, rather than simplifying things, we’ve introduced a new physical constant c, the speed of light. However, the advantage of the fine structure constant is that it’s a dimensionless quantity. As you can see, it includes the expression e²/4πϵ₀ familiar from the Coulomb force and it should be viewed as the convention-independent way to characterise the strength of electromagnetism. Moreover, it takes a value that’s easy to remember: α ≈ 1/137 ≈ 0.0073 Written in terms of the fine structure constant, the energy eigenvalues are E = − (α² m_e c²) / (2 n²)
+
+This makes it clear what’s really setting the energy scale of the hydrogen atom: it is the rest mass energy of the electron! This is given by m_e c² ≈ 0.51 × 10⁶ eV A million electronvolts is an energy scale of relativistic particle physics. It is much larger than the typical energy scales of atomic physics but we can see why: there are two powers of the fine structure constant that interpolate between the two. The energy scale of the hydrogen atom is set by Ry = (α² m_e c²) / 2 ≈ 13.7 eV This is called the Rydberg. As you can see, the (negative) ground state energy of the hydrogen atom is exactly one Rydberg; the higher excited states have energy E = −Ry/n². Note that the hydrogen atom has an infinite number of negative energy bound states.
+
+Next there’s a surprise. The energy spectrum of hydrogen does not depend on the angular momentum l. At least, that’s almost true: it depends only in the sense that the states for a given energy E = −Ry/n² only include angular momentum l < n. We saw a similar phenomenon for the 3d harmonic oscillator in Section 4.2 and this might lead you to think that this is common. It’s not. In fact, the only two systems where the energy spectrum doesn’t explicitly depend on angular momentum are the harmonic oscillator and the hydrogen atom!
+
+Figure 19. The (un-normalised) s-wave states for n = 1,2,3 and 4. The functions are plotted on the same range along the x-axis, although the y-axis range varies. Although it’s not obvious from these plots, all wavefunctions approach a finite value at x = 0.
+
+The angular momentum does affect the degeneracy of the spectrum. Recall that there are 2l+1 states associated to each total angular momentum l. These are the states labelled by m = −l,...,+l. For a fixed energy level n, we can have any total angular momentum l = 0,...n−1. This means that the degeneracy at the level of the state n is Total Degeneracy = Σ_{l=0}^{n-1} (2l+1) = n² The n = 1 ground state is unique: it sits in l = 0 s-wave. There are four n = 2 excited states corresponding to the s-wave and three l = 1 states of the p-wave. There are nine n = 3 excited states, corresponding to the s-wave, the three l = 1 p-wave states and five l = 2 d-wave states. And so on.
+
+The energy spectrum (4.30) is not quite the end of the story for the hydrogen atom. There are corrections due to special relativity. These corrections split the n² degeneracy so that the states with different l, but the same n, have different energies. These splitting are of order α⁴, much smaller than the original energies that are of order α², and are referred to as the fine structure of the hydrogen atom. (In fact, this is where the name “fine structure constant” comes from.) You can read about these corrections in the lectures on Topics in Quantum Mechanics where we also start to explore multi-electron atoms and how to build up the periodic table of elements.
+
+4.3.2 The Wavefunctions The recurrence relation (4.29) allows us to easily construct the corresponding wavefunctions. A state with energy E = −Ry/n² has a wavefunction ψ_{n,l,m}(r,θ,ϕ) = r^l f_{n,l}(r) e^{-βr/2n} Y_{l,m}(θ,ϕ)
+
+where β = e² m_e / (2πϵ₀ ℏ²) and f_{n,l}(r) is a polynomial of degree n−l−1, defined by f_{n,l}(r) = Σ_{k=0}^{n-l-1} c_k r^k with c_k = c_{k-1} * (2k + l - n) / (a k (k + 2l + 1))
+
+These are known as generalised Laguerre polynomials. They are more conventionally written as f_{n,l}(r) := L_{n-l-1}^{2l+1}(2r/n r_B).
+
+The n = 1 ground state wavefunction necessarily has vanishing angular momentum. It is simply ψ(r) = √(1/π) * (1/r_B^{3/2}) e^{-r/r_B} where the coefficient in front is chosen to normalise the wavefunction. We now see clearly that the Bohr radius r_B, defined in (4.31), does indeed set the size of the ground state of the hydrogen atom.
+
+To get some sense for the higher wavefunctions, we’ve plotted the s-wave states for n = 1 to n = 4 in Figure 19. Note that each successive higher energy state contains an additional ψ = 0 node. In Figure 20 we’ve fixed the energy level to n = 4 and plotted successive higher angular momentum modes. This time we lose a node each time that l increases.
+
+Figure 21. The Balmer m → 2 series of the hydrogen spectrum, starting with the m = 3 line in red and then showing successive lines towards the ultra-violet.
+
+For any wavefunction in the nth energy level, the peak can be approximated by writing ψ(r) ≈ r^{n-1} e^{-r/(r_B n)}, corresponding to a probability distribution P(r) ≈ r^{2(n-1)} e^{-2r/(r_B n)}. This has a maximum when P′(r) = 0, or 2(n-1)/r - 2/(r_B n) = 0 => r ≈ n(n-1)r_B We see that the spatial extent of the higher energy states grows roughly as n².
+
+## 4.4 A Pre-Quantum Quantum History
+
+The formalism of quantum mechanics that we have seen in these lectures was laid down in a flurry of creativity in the years 1925 and 1926. The primary builders of this new theory were Werner Heisenberg, Erwin Schrödinger, Max Born, Pascual Jordan, and Paul Dirac, several of them under the watchful grandfatherly eye of Niels Bohr.
+
+The emergence of quantum mechanics was preceded by a quarter of a century of confusion, a time in which it was known that some old classical ideas must be jettisoned to explain various experiments, but it was far from clear what should replace them. With hindsight, the first clear hint of the need for quantum mechanics came from the spectral lines of hydrogen. Take a tube filled with hydrogen gas and pass a current through it. The gas will glow but emit light only at very particular frequencies. In 1885, a Swiss school teacher called Johann Balmer noted that the wavelengths of the most prominent visible lines, shown in Figure 21, could be fitted to the formula λ = 4m² / (R (m² - 4))
+
+for m = 3 (the red line), 4, 5, 6 and 7. Later Rydberg generalised this to the formula 1/λ = R_H (1/n² - 1/m²)
+
+which coincides with the Balmer formula when n = 2. Here R_H is known as the Rydberg constant. The more prominent n = 1 lines appear only in the UV and were not known to Balmer.
+
+We now know that whenever integers appear in the laws of physics, they signify some underlying quantum effect. Indeed, the Rydberg formula follows straightforwardly from the spectrum of the hydrogen atom which, as we’ve seen, takes the form E_n = - (e⁴ m_e) / (32π² ϵ₀² ℏ² n²) , n = 1,2,... (4.32)
+
+If an electron sits in an excited state E_m and drops to a lower state E_n, n < m, it will emit a photon with energy ℏω = E_m - E_n = (e⁴ m_e) / (32π² ϵ₀² ℏ²) (1/n² - 1/m²)
+
+The wavelength λ is related to the frequency ω by ω = 2πc/λ, so this immediately reproduces the Rydberg formula with R_H = (e⁴ m_e) / (64π³ ϵ₀² c ℏ³)
+
+Of course, going backwards from the answer (4.32) is easy. But, in the early 1900’s, it was far from clear what to make of the Rydberg formula.
+
+4.4.1 The Bohr Model An important halfway house was provided by Bohr in 1913. This was only two years after Rutherford had shown that the atom consists of a tiny nucleus, with the electrons in remote orbits. Bohr took a collection of simple classical results and meshed them together with some quantum handwaving in a forced and somewhat unnatural manner to arrive at a remarkably accurate picture of the hydrogen atom. Here is his argument.
+
+We start with the Coulomb force between an electron and proton F = - e² / (4πϵ₀ r²)
+
+We assume that the electron orbits the proton on a classical trajectory that we take to be a circle. The Coulomb force must give the requisite centripetal force, F = - m_e v² / r From this, we can determine the radius of the orbit r in terms of the angular momentum L = m_e v r, r = 4πϵ₀ L² / (e² m_e)
+
+Similarly, the total energy can also be expressed in terms of the angular momentum E = ½ m_e v² - e² / (4πϵ₀ r) = - e⁴ m_e / (32π² ϵ₀² L²)
+
+Now comes the quantum handwaving. Bohr postulated that angular momentum cannot take any value, but only integer amounts L = nℏ , n = 1,2,3,...
+
+This implies that the energy is quantised to take values E_n = - (e⁴ m_e) / (2π² ϵ₀² ℏ² n²) (4.33)
+
+Remarkably, this is exactly the same as our exact result (4.32) from solving the Schrödinger equation. Furthermore, the minimum orbit of the electron is r_B, given by r_B = 4πϵ₀ ℏ² / (e² m_e)
+
+This is the Bohr radius; it also made an appearance as the size of our wavefunctions (4.31).
+
+What’s going on here? There is clearly much that is wrong with the Bohr model. It assumes a classical trajectory which is far from the picture we now have of electrons as smeared clouds probability. It makes the wrong assumption for the quantisation of angular momentum, guessing that L² = n² ℏ² rather than, as we now know, L² = l(l+1) ℏ². It also gets the connection between angular momentum and energy l = n wrong; the correct answer should be l < n. And yet, the end result (4.33) is miraculously exactly right! How can this be?
+
+A pretty good answer to this question is simply: dumb luck. The hydrogen atom is unique among quantum systems in that the se simple minded half-classical, half- quantum approaches give the right answers to certain important questions, most no- tably the energy spectrum. It’s not, however, a lesson that we can take and use else- where. In all other cases, to get the exact quantum result you have to do the hard work of solving the Schr¨odinger equation. The one exception to this is for the highly excited states, where Bohr’s kind of simple minded arguments do often provide a useful caricature of the physics. (For example, when the angular momentum is large there is not much difference between L2 = n2ℏ2 and L2 = l(l+1)ℏ2.)
+
+– 120 – In fact, this same dumb luck arose earlier in the history of physics, although it was not realised at the time. Rutherford figured out the structure of the atom by interpreting the scattering of alpha particles off the nucleus. In particular, he derived a formula for the probability that an alpha particle would be deflected by some angle.
+
+(We derived Rutherford’s formula in the lectures on Dynamics and Relativity.) Of course, he derived this formula using classical mechanics even though we now know that classical mechanics is not a valid description for this scattering: one should use quantum mechanics. Here too, something miraculous occurs. The scattering formulae coming from quantum mechanics are typically very different from those derived using classical mechanics. There is just one exception: for the hydrogen atom, the two results coincide! The full quantum result will be calculated in the lectures on Topics in Quantum Mechanics.
+
+We do, in fact, have a little better understanding of why the hydrogen atom is so special. It turns out that many of these seemingly miraculous properties can be traced to the existence of an extra operator that commutes with H , L ˆ2 and L . This is called the Runge-Lenz vector. We won’t discuss it further in these lectures.
+
+4.4.2 What About the Photon?
+
+Much of the early history of quantum mechanics revolves around an object that we have barely mentioned in these lectures: the photon.
+
+The first equation of quantum mechanics was proposed, somewhat unwittingly and, in later life begrudgingly, by Max Planck in his study of so-called blackbody radiation.
+
+This is the silly name given to the colour of light emitted by a hot object. The classical theory of Maxwell seemed to give nonsensical answers. Planck was able to derive a formula that agreed well with experiment but, buried with his derivation, was the suggestion that light comes in packets with energy given by 2πℏc E = ℏω = (4.34)
+
+where ω is the (angular) frequency of light and λ is its wavelength. We already invoked this formula in our discussion of the spectral lines of hydrogen: it is used to relate the wavelength of emitted light to the difference in energy levels. You can read about the derivation of Planck’s blackbody radiation formula in the lectures on Statistical Physics.
+
+Soon after Planck’s work, the formula (4.34) was put to good use by Einstein in his explanation of the photoelectric effect. If you shine a light on a metal, electrons are – 121 – emitted. The surprise is that the electrons are emitted only if the frequency, rather than the intensity, of the light is sufficient. If the frequency is below a critical value, E /ℏ, then no electrons will be emitted no matter how strong the light. We now crit know that this occurs because the light is made of photons, each of energy ℏω. Any individual photon can dislodge an electron only if ℏω > E . If the frequency is too crit low, none of the photons can do the job.
+
+We have met equations very similar to (4.34) in these lectures. For example, a stationary state has time dependence eiωt and energy E = ℏω. Furthermore, a non- relativistic particle with momentum p has an associated de Broglie wavelength 2πℏ λ = These all gel nicely with the formula (4.34) if we further invoke the relativistic energy- momentum relation E = pc for a photon.
+
+However, although we can get by with these simple minded formulae for a photon, it’s somewhat tricky to go any further. For example, we can’t easily write down an analog of the Schr¨odinger equation for the photon. The reason can, at heart, be traced to the factor of c in (4.34). Anywhere the speed of light appears tells us that we are really dealing with special relativity. There is a formulation of quantum mechanics that is fully compatible with special relativity: it goes by the name of quantum field theory. For example, this framework allows us to start with the Maxwell equations of electromagnetism and derive the Planck formula (4.34), rather than postulate it as a further axiom. We will see how to do this when we come to study Quantum Field Theory.
+
+## 4.5 A First Look at Renormalisation
+
+There is a scene in the movie Back to the Future where Marty McFly introduces the unsuspecting audience at the Enchantment Under the Sea dance to a little bit of rock and roll. Things start off pretty well. Then he gets carried away. As the song finishes, Marty opens his eyes to see a stunned, silenced audience staring back at him and sheepishly admits “I guess you guys aren’t ready for that yet...but your kids are going to love it.” This section is our Enchantment Under the Sea moment. We will discuss the topic of renormalisation. You should be aware that this is a ridiculously inappropriately advanced topic to include in introductory lectures on quantum mechanics. Chances are you guys aren’t ready for it yet. But your future selves are going to love it.
+
+– 122 – What is Renormalisation?
+
+The topic of renormalisation usually only arises when we discuss quantum field theory.
+
+It is, moreover, a topic that is woefully described in various popular science accounts, all of which seem to be rooted in a 1950s view of the world.
+
+The topic starts with the observation that quantum field theory is hard. In these lec- tures we’ve found various exact solutions to the Schr¨odinger equation. That’s a luxury that we no longer have when it comes to the more interesting classes of quantum field theories. Instead, if we want to solve them we must develop approximation techniques and the simplest of these goes by the name of perturbation theory. This means that we start by finding an approximate solution to the problem and then systematically improve matters by adding increasingly small corrections, not unlike a Taylor series approximation to a function.
+
+In the early days of quantum field theory, the first stab at the solution gave pretty impressive results. But the successive improvements were a disaster. They all gave the answer infinity. Needless to say, it’s difficult to view infinity as a small correction to the original answer.
+
+A solution of sorts was found in the 1950s by Tomonaga, Schwinger and Feynman, and synthesised by Dyson. Their solution can be paraphrased by the following equation ∞−∞ = finite In other words, they found a way to subtract an infinity from the original infinity to leave behind an unambiguous, finite answer. Physically, the results were nothing short of spectacular. The calculations gave agreement between theory and experiment to many significant figures. However, the technique left a lot to be desired. Why should we be forced to resort to such mathematical nonsense as subtracting one infinity from another?
+
+Aphysicalunderstandingofrenormalisationcameonlyinthe1970s,primarilythrough the work of Kenneth Wilson. First he showed that, despite appearances, renormali- sation has nothing to do with physical infinities. Indeed, viewed the right way, there are no infinities in quantum field theory. They arose in the earlier calculations because theorists implicitly assumed that their theories should hold to arbitrarily small distance scales. A little humility, and an acceptance that we don’t yet know what’s happening on the very smallest distances, then serves to eliminate the infinity. Although it’s not immediately obvious, this perspective on renormalisation has a striking consequence: – 123 – it turns out that the constants of nature depend on the distance scale at which they’re measured.
+
+For example, we’ve already met the fine structure constant α that charac- terises the strength of the electromag- netic force. It is roughly α ≈ Strictly speaking, however, we should say that α asymptotes to this value at distance scales larger than 10−12 metres. Of course, most experiments that we do involving electromagnetism take place on scales much larger than this which is why we always quote the 1/137 value. But when it comes to to the realm of particle physics, we routinely probe distances smaller than 10−12 m. And when we do, we see that α starts to increase. The experimental data is shown in the figure, with α plot- ted on the vertical axis and the log of the inverse distance plotted on the horizontal axis (Q ∼ 1/r). You can read more about a cartoon version of renormalisation in the lectures on Particle Physics. You can learn about the details of Wilson’s approach to renormalisation in the lectures on Statistical Field Theory.
+
+By the time you get to quantum field theory, it’s difficult to ignore renormalisation.
+
+In the world of non-relativistic quantum mechanics, however, you need to seek it out.
+
+Happily there is a simple quantum mechanical example that exhibits many of the features of renormalisation, but in a setting where we can happily understand what’s going on using nothing more than the Schro¨dinger equation.
+
+4.5.1 A Delta Function Potential in the Plane We consider a particle moving on the plane with a delta function potential at the origin V(x) = −gδ2(x)
+
+The delta function is taken with a negative sign and g > 0 so that it is attractive. The Schro¨dinger equation is ℏ2 − ∇2ψ(x)−gδ2(x)ψ(x) = Eψ(x)
+
+2m We solved the corresponding problem in 1d in Section 2.3.2 without a hitch. There we found that there was precisely one bound state localised around the delta function.
+
+– 124 – We’ll now see that things are significantly more subtle in 2d. We’ll fir It's argued that there can be no bound states in a 2d delta function. We’ll then look a little more closely and see that, when viewed the right way, the 2d delta function does admit a bound state after all.
+
+First, note that the 2d problem has a surprising property. If we define mg mE g˜ = and E = ℏ2 ℏ2 then the Schrödinger equation becomes − ∇2ψ(x)−g˜δ2(x)ψ(x) = E ˜ ψ(x) (4.35)
+
+To proceed, let’s do some dimensional analysis. Suppose that we generalise the above problem to a particle moving in d spatial dimensions. The kinetic term ∇2 always has dimensions of (length)−2 while the delta function has dimensions of (length)−d ∫ ddx to get the number one. This picks out d = 2 spatial dimensions as special because only there do ∇2 and δ2(x) both have dimensions of (length)−2.
+
+This has consequence. First, it would seem to preclude the possibility of bound states. Such a bound state would have some negative energy E = −E But what could E be? The only parameter is g˜ but this is dimensionless, while E has dimension of (length)−2. There’s simply no scale in the problem that could set a value for E.
+
+Another way of saying this is to note that the Schrödinger equation has a novel symmetry. Suppose that we find a solution, whether a bound state with negative ˜ ˜ energy E < 0 or a state that can be interpreted as in terms of scattering with E > 0. We then rescale the spatial coordinates x → λx The Schrödinger equation becomes 1 g˜ − ∇2ψ(λx)− δ2(x)ψ(λx) = E ˜ ψ(λx) 2λ2 λ2 If ψ(x) solves the Schrödinger equation with energy E ˜ then ψ(λx) solves the Schrödinger equation with energy λ2E ˜ . In other words, there is a continuum of states. This is to be expected for scattering states with positive energy: asymptotically these states look like eik·x. But it’s not what we expect for bound states with negative energy. In particular, it would mean that there are bound states of arbitrarily negative energy.
+
+This all sounds like a very good reason to discount the possibility of bound states in this problem. That would certainly avoid all the issues mentioned above. In fact, as we now see, the truth is significantly more interesting.
+
+We will solve the Schrödinger equation with a flurry of Fourier transforms. We write the wavefunction as ∫ ψ(x) = d2k′ ψ ˜ (k′)eik′·x (4.36) 2π We then substitute this Fourier transform only in the ∇2 and E ˜ terms of (4.35) to get 1 ∫ ( k′2 ) d2k′ −E ˜ ψ ˜ (k′)eik′·x = g˜δ2(x)ψ(0) 2π 2 where, on the right-hand side we’ve replaced ψ(x) = ψ(0) on account of the fact that this is the only value the delta function sees. Now, we use the Fourier transform once again, but this time for the delta function itself, which can be written as ∫ δ2(x) = d2k′ eik′·x (2π)2 This gives us 1 ∫ ( k′2 ) g˜ ∫ d2k′ −E ˜ ψ ˜ (k′)eik′·x = d2k′ eik′·xψ(0) 2π 2 (2π)2 Finally, we multiply both sides by e−ik·x and integrate over x, 1 ∫ ∫ ( k′2 ) g˜ ∫ ∫ d2x d2k′ −E ˜ ψ ˜ (k′)ei(k′−k)·x = d2x d2k′ ei(k′−k)·xψ(0) 2π 2 (2π)2 This is a clever thing to do as everything now simplifies. The integral over x gives us a delta function ∫ d2x ei(k′−k)·x = (2π)2δ2(k′ −k) which then, in turn, kills the integral over k′ on the left-hand side. We’re left with the simple equation ( k,2 ) 2π −E ˜ ψ ˜ (k) = g˜ψ(0) This looks like we’ve done our job. The bound state solutions with energy E = −E ˜ have Fourier coefficients g˜ ψ(0) ψ(k) = (4.37) 2πk2/2+E The value ψ(0) is an arbitrary constant which, for a bound state, should be non-zero as this is the only thing the delta function knows about. We can now do a consistency check. The value of ψ(0) is also given by our original Fourier transform (4.36), ∫ ψ(0) = d2k ψ ˜ (k) 2π We can compare this with the integral of (4.37): we get ∫ g˜ ψ(0) ψ(0) = d2k (4.38) (2π)2 k2/2+E We don’t care about the value of ψ(0) in this equation: just that it’s non-vanishing. Instead, (4.38) should be viewed as an integral equation to determine the bound state energy E. If you evaluate the equivalent integral for the 1d delta function, you’ll reproduce our earlier answer (2.40) which is satisfying. But for the 2d delta function there’s a problem because the integral does not converge. It is given by ∫ 1 ∫ ∞ k d2k = 2π dk = ∞ (4.39) k2/2+E k2/2+E This is entirely analogous to the infinities that were encountered in the early days of quantum field theory. Of course, in the present context we could simply shrug and say “see, I told you there should be no bound states”. But our quantum field theoretic forefathers didn’t have this option and we can learn from their perseverance.
+
+**4.5.2 Renormalisation in Quantum Mechanics**
+
+To make sense of the ∞ in the integral (4.39), let’s first render it finite. We do this by changing the integral ∫ ∞ k ∫ Λ k ( Λ2) 2π dk −→ 2π dk = 2πlog 1+ k2/2+E k2/2+E 2E Here Λ is called the UV-cut off. It “cuts off” the integral at high k, where the Fourier modes oscillate on very small distance scales. (The name “UV-cut off” is a quaint nod to the idea that UV light also has a high frequency. Admittedly, if the analogy was in any way accurate it would be called “gamma-ray cut-off”, but the term UV has stuck.) What physical motivation do we have for changing the integral in this way? Well, one answer might be that we’re not entirely sure that our original quantum mechanical model was correct. After all, we included an infinitely thin delta function potential which doesn’t sound particularly realistic. In most situations, delta function potentials are introduced as a simple toy model to capture the key physics and their infinitely spiky nature should not be taken too seriously. But, if this is the reason that we’re studying the delta-function then it doesn’t bode particularly well for trusting our theory when it comes to very short distance scales.
+
+The introduction of the UV cut-off Λ should be thought of as an injection of humility into the proceeding. The UV cut-off is simply an expression of our ignorance of what’s going on at short distance scales. The rub is that no physical property can depend on our ignorance. That means that, somehow, Λ must drop out of any final answer that we submit.
+
+Let’s see how we do. Our consistency condition (4.38) becomes g˜ ∫ 1 g˜ ( Λ2) 1 = d2k = log 1+ (2π)2 k2/2+E 2π 2E Rearranging, we find the bound state energy Λ2 1 E = (4.40) 2 e2π/g˜−1 At first glance, it doesn’t look like this is much of an improvement. First, the bound state energy explicitly depends on the UV cut-off. Moreover, as we send Λ → ∞ to recover the original theory, we see that the bound state energy disappears off to infinity. Once again, all signs suggest that our delta function doesn’t have a bound state.
+
+Now we introduce the key idea: the dimensionless coupling g˜ should also depend on the distance scale of the theory. In particular, if we change the UV cut-off then we should also change g˜ at the same time. In fact, we see that we get to realise our dream of having the physical bound state energy independent of Λ if we take 2π g˜(Λ) = (4.41) log(1+Λ2/2E) This is called the running of the coupling.
+
+What’s going on here? It’s tempting to think that we can define a quantum theory by specifying a Hilbert space and a Hamiltonian, with various parameters set to specific values. That’s what we’ve done throughout these lectures, and it’s what we continue to do in nearly all problems in non-relativistic quantum mechanics. However, it turns out that it’s not the right way to think in quantum field theory and, perhaps surprisingly, it’s not the right approach with our 2d delta function either. Instead, the correct definition of the theory describing a particle moving in the presence of a two-dimensional delta function includes both a UV cut-off Λ and a dimensionless coupling g˜. From these two, we then get the bound state energy scale (4.40). Within this more generalised class of theories, the 2d delta function has a single bound state, just like its 1d counterpart. However, Λ and g˜ come together in a pair. They’re not independent. You can change the UV cut-off without changing the underlying theory by making a compensating change to the coupling constant. The formula (4.41) tells you how to do this.
+
+The fact that the coupling g˜ varies with the cut-off also has physical implications. We could, for example, study scattering off the delta-function potential. With a cut-off Λ in place, you will find that the probability for scattering at energy E (captured in so-called phase shifts) will depend on g˜( 2E). In other words, it appears as if the effective strength of the delta function varies in energy in the same way as the running of the coupling (4.41). This is entirely analogous to the energy dependent fine structure constant that we mentioned previously. We will discuss scattering in higher dimensions in the lectures on Topics in Quantum Mechanics, although we will steer clear of any discussion of renormalisation in that context.
+
+Our previous arguments suggesting that a bound state cannot exist are all nullified by the presence of the UV cut-off. In particular, Λ provides the dimensions necessary to set the energy scale of E and breaks the scaling symmetry x → λx that we naively thought was a property of the Hamiltonian.
+
+In fact, all of these previous arguments really took place in a theory in which we implicitly took Λ → ∞ while keeping g˜ fixed. This lead us to believe that there is no finite energy bound state. The formula (4.41) tells us what’s really going on: as we remove the cut-off, we can keep the finite energy bound state but only by sending g˜ → 0 as Λ → ∞. We see that there is a delicate balancing act between these two parameters. An arbitrarily weak delta function can still lead to a finite energy bound state if we admit arbitrarily small wavelength modes in our theory.
+
+Theories which have the Properties that some dimensionless parameter, like g˜, vanishes as we go to higher and higher energies are said to be asymptotically free. In particle physics, the strong nuclear force, which is described by Yang-Mills theory, has this property.
+
+It’s also worth looking at what happens in the limit of small g˜. Here the formula for the bound state energy (4.40) is Λ2 E ≈ e−2π/g˜ (4.42) This ensures that the energy scale of the bound state is way below the cut-off: E ≪ Λ2. This is good! As we stressed above, the cut-off is a parameterisation of our ignorance. We should only trust physics on distance scales much bigger than 1/Λ or, equivalently, on energy scales much less than Λ2. In fact, a better characterisation of (4.42) would be E ≪

@@ -1,0 +1,2688 @@
+# Stellar alchemy the celestial origin of atoms Michel Cass Stephen Lyle Z Library
+
+> 来源文件：pre_Stellar_alchemy_the_celestial_origin_of_atoms_Michel_Cass_Stephen_Lyle_Z_Library.txt
+> 字符数（约）：504881
+> 语言：mix
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Stellar Alchemy The Celestial Origin of Atoms
+
+Why do the stars shine? What messages can we read in the light they send to us from the depths of the night? Nuclear astrophysics is a fascinating discipline, and enables connections to be made between atoms, stars and human beings. Through modern astronomy, scientists have managed to unravel the full history of the chemical elements, and to understand how they originated and evolved into all the elements that compose our surroundings today. The transformation of metals into gold, something once dreamed of by alchemists, is a process commonly occurring in the cores of massive stars. But the most exciting revelation is the intimate connection that humanity itself has with the debris of exploded stars. This engaging account of nucleosynthesis in stars, and the associated chemical evolution of the Universe, is suitable for the general reader.
+
+Michel Cassé is an astrophysicist at the Service d’Astrophysique in Saclay, France, and an associate research scientist at the Institut d’Astrophysique de Paris. He has published several other popular physics books in French.
+
+This book was translated by Stephen Lyle, a freelance translator of physics and astrophysics.
+
+Stellar Alchemy The Celestial Origin of Atoms MICHEL CASSE´ Service d’Astrophysique and Institut d’Astrophysique de Paris Translated by Stephen Lyle
+
+To Andre´ Grau To exorcise the sadness of the finite, I have chosen the sky.
+
+Always polite with light, I let it have the first word.
+
+Instruction should be gentle.
+
+Contents
+
+Preface Acknowledgements 1 Nuclear astrophysics: defence and illustration Aims and aspirations of nuclear astrophysics An historical overview Explosive astrophysics 2 Light from atoms, light from the sky Matter with and without light 3 Visions The language of light: equivalence of colour, wavelength and temperature The visible and the invisible Imagined journey in the temperature–luminosity plane Notes of light Accelerators in the sky Light and motion Three-dimensional vision History of the world’s structure History of the world’s content Astronomical practice Cosmic archives Telescopes Telescopes in the sky, on the ground and in the basement 4 Contents of the sky: atomic sources and fountains Sources of the elements The Galaxy The Sun Cosmological clouds Exegesis of the abundance table An economic and biological standpoint A cosmic and mathematical standpoint Discursive analysis of the abundance table Nuclear ninepins Supernova dust Astronomy of radioactivity 5 Nuclear suns The Sun as reference Nuclear core Stellar model Shouts and whispers The story of the stars, bright and dark Source of atoms Synopsis of nucleosynthesis S- and r-process isotopes 6 Sociology of stars and clouds Galaxies: structural units of the cosmos Dialectic between stars and clouds Interstellar chemistry The plight of hydrogen Planetary nebulas Supernova remnants and a bright crab Cosmic rays Secondary effects from cosmic rays 7 Histories History of the Sun History of carbon History of iron History of gold History of lead Sharing the stellar treasure 8 Ancient stars in the galactic halo Clues to the chemical evolution of the Galaxy A tedious lesson Results Scientific hopes and aspirations Lithium, beryllium, boron and the controversy over oxygen and the origin of the light elements The gas and dust of the interstellar medium Cosmological clouds 9 Conclusion
+
+## Appendix 1 Invisible matter and energy
+
+## Appendix 2 Supernovas and cosmology
+
+## Appendix 3 Explosions
+
+## Appendix 4 Stellar nucleosynthesis
+
+## Appendix 5 Galactic evolution
+
+## Appendix 6 Key dates
+
+## Appendix 7 Constants and units
+
+## Appendix 8 Websites
+
+Bibliography Index
+
+Preface Rising ideas in the sky of knowledge
+
+The constellated sky has never ceased to foster the enthusiasm of men and women in search of illumination. In his Theogony, Hesiod tells us how Gaea, the wide-bosomed Earth, arose from the vast and dark Chaos, accompanied by Eros. Gaea first bore Uranus, the starry heaven, then the barren waters of the sea.
+
+Almost three millennia separate this genealogy of the gods from the modern idea of the exp expanding cosmos and the stellar origins of human matter, summed up so concisely in the two statements: - the Universe is expanding; - we are made from stardust.
+
+What brought human beings to invent cosmology and relegate the celestial genealogy of the gods to oblivion? Is there no more drama in the heavens? No genesis? The stars are just the punctuation in the text of the heavenly narrative. And yet, in our recitation, we claim to know the whole history of the Universe. Formulating its plot on the stage provided by the space–time of matter, astrophysics expresses a cosmic vision as well as a body of scientific thought. The sky is a palimpsest. Under the first visible writing, the starry sky, modern astronomy has managed to bring out, at least in part, very ancient hieroglyphics and original engravings.
+
+From Hesiod to Aristotle, from Aristotle to Galileo, from Galileo to Einstein, the Universe has undergone repeated mental reform. Visionaries of infinity have replaced poets and men of God. Byzantine mosaics and West European stained glass portrayed theories of the world. Today, equations between symbols have replaced the liturgies, but the quest for unity stands.
+
+This book contains a defence and illustration of nuclear astrophysics, one of the most beautiful sciences there is. It bridges the gap between the atomic microcosm and the celestial macrocosm, setting out the origin and evolution of all the elements that make up our immediate surroundings. In the most harmonious way, it combines the physics of the very small and the very large, the inner workings of nuclei at one end of the scale and stars at the other. This sumptuous marriage between nuclear physics and astronomy, Earth and sky, celebrated in scientific thought, opens the way to a genuinely universal history of the material substance constituting all visible things.
+
+It is indeed an admirable science that studies the genesis and evolution of the chemical elements composing nature and establishes a historical relationship between all the forms in the sky: the primordial light, particles, atoms, stars and human beings. Much lyricism has been inspired. Let us cite: “Without knowing it, we have been working with stardust, carried to us by the wind, and we drink the Universe in a raindrop.” Or again: “We are ash and dust, that may be true, but we are the ash and dust of stars.” This qualitative and poetic, but emotional and even violent, face of astrophysics is the one I lean towards. But fitted out with dove’s wings, it is threatened with hysteria, in the sense that Baudelaire is an hysterical Boileau. This is not the one I wish to speak about here.
+
+The aim of the book is to describe in all simplicity the combinatorial and quantitative science of nucleosynthesis, a pure stellar arithmetic, chaste and contemplative, cloaked in the ironic reticence of numbers. It is so penetrating and revealing that it may be considered as our most powerful tool for divulging the material history of the Cosmos.
+
+The sciences of the Universe contribute to humanism, education and the advent of the technological society. The greatest contribution of fundamental astrophysics is to answer questions about the place of humanity in the cosmos. Quantitative answers can be given to age-old questions, some of which border on the metaphysical or even the religious.
+
+Not content to satisfy immemorial curiosity about the cosmos, the sciences of space and the Universe have nurtured a hotbed of technological innovation which has not failed to influence our daily lives. Technical spin-offs from space research have been a boon to industry, medicine and the environmental sciences. Industry invests in space science and has earned significant dividends. The return on investment is considerable, primarily in its financial and technical guise, but also, in a less direct way, through formal education as administered in schools, colleges and universities, and informal education in the form of television, newspapers and magazines, exhibitions, lectures and planetariums. The study of the heavens encourages a younger public to develop quantitative reasoning and, in the case of amateur astronomers, for example, to contribute to the setting-up of concrete and active observation strategies.
+
+By their very definition, the sky sciences are an open area. It was international partnerships within the European astrophysical community that opened the way to economic and political unification. Indeed, Europe began in the sky, with the foundation of the European Southern Observatory (ESO) and the European Space Agency (ESA), and today, astrophysical conferences have become planetary events. We can only rejoice!
+
+Acknowledgements I would like to express my warmest thanks to Odile Jacob for her wisdom and solar obstinacy, and to Gérard Jorland, Jean-Luc Fidel and Aurèle Carriès who brought the shine back to the star of literature. I would also like to pay homage and compliments to Elisabeth Vangioni-Flam, a bright light who scolds the Big Bang. My thanks go to Jean Audouze, Jean-Claude Carrière, Matta, Jacques Paul, Catherine Cesarsky, Alfred Vidal-Madjar and Roland Lehoucq for their stellar fraternity.
+
+The publisher has used its best endeavours to ensure that the URLs for external websites referred to in this book are correct and active at the time of going to press. However, the publisher has no responsibility for the websites and can make no guarantee that a site will remain live or that the content is or will remain appropriate.
+
+Glossary
+
+baryons: heavy particles subject to the strong interaction Big Bang: initiating event in cosmology cosmic rays: high speed particles moving across the Galaxy cosmological background radiation: electromagnetic relic from the primordial Universe cosmological constant: term added by Einstein to his cosmological equations to obtain a static model of the Universe degenerate: term used in quantum physics to designate a fluid whose density is such that the electrons within it refuse to occupy a lesser volume and consequently exert a constant pressure which opposes further contraction gamma rays: high-energy electromagnetic radiation hydrogen fusion: chain of nuclear reactions leading to the production of helium kiloelectronvolt (keV): 1000 electron volts, where 1 eV is the energy acquired by an electron in a potential difference of 1 volt neutrino: extremely light particle insensitive to the strong interaction neutron: electrically neutral particle making up atomic nuclei neutron star: very compact star composed mainly of neutrons nucleon: proton or neutron nucleosynthesis: production of atomic nuclei in the Universe quintessence: substrate exerting a gravitational repulsion scalar field: a non-directional type of field required in cosmology and particle physics supernova: stellar explosion Wolf–Rayet star: massive star producing a high stellar wind
+
+2 Nuclear astrophysics
+
+Aims and aspirations of nuclear astrophysics
+
+The aim of nuclear astrophysics is threefold. Firstly, it seeks to determine the mechanisms whereby the various nuclear species occurring in nature are built up, from deuterium with its two nucleons to uranium with 238 nucleons. Secondly, it seeks to identify the astrophysical site in which these species are produced. And thirdly, it attempts to unravel the temporal sequence of the nuclear phenomena that fashion baryonic matter, the stuff of stars and humans, making up the galaxies. Beyond this, it aims to explain the composition of the Solar System and the main trends of chemical evolution in the Galaxy, such as the gradual enrichment in metals and the relative abundances of the elements. It explores in detail everything from the first stages of chemical evolution in the Universe through to the most recent and violent events of nucleosynthesis related for the main part to supernovas and large stars with strong stellar winds (Wolf–Rayet stars). Indeed, gamma photons of precise energies are emitted by the freshly fashioned nuclei in high-wind stars and supernovas, radioactive nuclei in search of their ultimate form. Without a doubt, these high-energy photons constitute the purest clues as to the mechanisms producing atomic nuclei in the Universe. Hence, the spectroscopy and mapping of celestial gamma sources should provide us with fresh evidence of nucleosynthesis and locate its centres in our own galaxy and beyond.
+
+One of the great achievements that future generations will associate with the twentieth century is the understanding of the mechanism that makes the Sun shine. Indeed, it is the same mechanism that operates in all stars. It is thus established that the stars are not eternal. With this comes the realisation that we ourselves are but the dust and ashes of stars and that we have borrowed the elements that make us up from these celestial workings.
+
+The origins of the atomic nuclei from hydrogen to uranium have been carefully established: the Big Bang in the case of hydrogen, helium and a dash of lithium-7, the stars for carbon to uranium, and cosmic rays for lithium, beryllium and boron.
+
+By the 1990s, nuclear astrophysics was no longer suspended in theoretical limbo. It had ceased to be a purely speculative discipline and was becoming a science in its own right, with its own quantitative analysis and predictions, open to confirmation by physical measurement. For example, the measured level of the solar neutrino flux, even though it does not coincide in detail with the expected value, attests to the truth of the basic ideas of nuclear astrophysics as applied to our own Sun, and by extrapolation, to all stars. (The discrepancy is roughly a factor of two, and this can very likely be put down to problems in our understanding of neutrinos, rather 更精确地说，它证实了我们关于低质量恒星中氢聚变的想法，这是它们生命中的一个关键阶段，使其能够发光数十亿年。在另一个极端，1987年超新星发射的中微子和伽马射线，为最复杂的关于恒星爆发机制及其之前引力坍缩的理论推测提供了辉煌的证实。
+
+在四十年的时间里，恒星核合成理论已经从对构成物质的各种核过程的抽象描述，转变为一门完全成熟的学科，能够经受住与大量观测数据的对质。
+
+未来可能同样富有回报。天文学家们并未因成功而自满，他们对发现和知识的渴望依然如故。他们当然不会天真到相信恒星已经交出了它们所有的秘密。那些在银河系形成其现今形态之前诞生的最古老的恒星，现在已经成为一个备受关注的课题。遥远地平线上的下一个目标是空间化学演化的完整图景。在这方面，很明显，这种演化的早期阶段是理解最少的。道路的终点尚未在望。
+
+**历史概览** 我们必须用正确的理论来观察天空。“我看见”意味着“我理解”。“清晰来自思考”。通过仔细观察，我可以改变我的才智。
+
+1572年的一个夜晚，第谷·布拉赫在天空中发现了一颗新星，一举废除了断言上天永恒与完美的教条，将亚里士多德的水晶天球砸得粉碎。他非常正确地得出结论：天空的上层区域，即月球之外的部分，本身属于诞生与腐败的领域。它们既非不可改变，也非不可触动。然而，由于他将其称为新星或nova，并且他对此印象如此之深，以至于他写了一本名为《De stella nova》的书，他实际上犯了一个错误。因为这不是天空中多了一颗星，而是少了一颗星！这种今天被称为超新星的现象，是大质量恒星或双星系统爆炸的明亮表现。
+
+不！恒星并非由某种不朽的以太构成，而是由普通物质构成。对于第五元素，即元素中最高贵、与土、气、火、水并列的精髓，丧钟已经敲响。第谷招募了开普勒，1604年，师徒二人得到了超新星这一壮丽景象的回报。
+
+望远镜尚未问世。这项发明必须等到伽利略登场。1610年，伽利略将他新创造的仪器指向月球，看到了山脉。由此，他推断月球像地球一样。今天，我们更倾向于说地球是天体，我自己也喜欢在书中反复强调这一点，因为我发现这个事实如此惊人。此时，月球以下、变化与死亡之所的领域，与月球以上、永恒完美的领域之间的区别被永远抹去了。一旦地球被确认为天体，天空就变得有死且可理解了。
+
+恒星是短暂的以及月球是物质天体的发现，为文艺复兴时期的天文学家们废除了横亘于天堂与地球之间的水晶屏障。天体物理学诞生了，它宣称天体的物质性，整个天空突然变得可理解了。地球上的观察者开始确信，时间带来万物的终结，包括恒星，因此恒星本身也是事物。精髓或以太将逐渐消逝，为原子让路。
+
+于是，天体物理学的第一条等式是：地球 = 天空。我们在下面所熟知的原子、光和物理定律，在上面同样适用。我们在下面不熟悉的东西，在任何地方都不熟悉。世界由原子构成，原子排列成宇宙的形式。
+
+牛顿，正如他喜欢说的那样，站在巨人的肩膀上，为天体物理提供了持久的基础。同一种引力维系着月球，也使苹果下落。新天体有了它的构造。
+
+这场发生在人类思想中的地球与天堂的联姻，至此得以圆满。从这一刻起，天体科学将不断繁荣。物理学赋予了天文学头脑，而天文学赋予了物理学翅膀。
+
+人类从未对天象无动于衷。肉眼可见的夜空外观的任何变化，总是引发人类的思考、哀叹、预言，以及在近代的解释。
+
+据我们所知，最早有记录的恒星爆炸（至少通常如此解释）是在公元前1300年，由某人在中国刻在一块动物骨头上：“在那个月的第七天，一颗巨大的新星出现在心宿二旁边。”宋代可能自豪地宣称在其天文记录中记载了三颗超新星，日期分别为公元1006年、1054年（一个著名的事件）和1181年。
+
+尽管“新星”（新星和超新星）已被观测了许多个世纪，正如中国、日本和韩国的编年史所示，但现代科学的超新星时代仅始于 On 31 August 1885, Hartwig discovered a new star near the centre of the Andromeda galaxy. Eighteen months later the new star had disappeared.
+
+In 1919 Lundmark estimated the distance to the Andromeda galaxy at some 700,000 light-years. (Current estimates put it at 2 million light-years.) It was clear that Hartwig's star was a thousand times brighter than any known nova. It was the same Lundmark who suggested a connection between the supernova observed by Chinese astronomers in 1054 (the year of the religious schism) and the Crab nebula.
+
+An event similar to the Andromeda supernova was observed in 1895 in the galaxy NGC 5253. This time the new star grew brighter than its host galaxy.
+
+It was not until 1934 that Baade and Zwicky succeeded in making a clear distinction between the classic and commonly observed novas (occurring at a rate of about 400 per year in our own galaxy) and the much rarer supernovas. Fred Zwicky's systematic searches between 1956 and 1963 resulted in the discovery of 136 supernovas.
+
+When it became possible to obtain the spectrum of one of these objects in 1937, it was obvious that they looked like nothing yet known. All supernovas discovered in subsequent years displayed a remarkable uniformity, both in intensity and in behaviour. This observation led Zwicky to suggest that they might be used as standard candles to calibrate distance across the cosmos. But then, in 1940, a supernova with a completely different spectrum was discovered. It soon became clear that there were at least two classes of supernova, distinguished by their spectral features. It was the presence or absence of the Balmer lines of hydrogen near the maximum of the light curve that provided this classification.
+
+A scenario imagined by Zwicky in 1938 was for a long time the only explanation of the phenomenon. According to this view, a supernova marks the transformation of a normal star into a neutron star, drawing its energy from gravitational collapse. This led astronomers to think that the death of a star was the transition from luminous perfection to a kind of dark perfection.
+
+6 Nuclear astrophysics
+
+In 1960 Fred Hoyle and William Fowler discovered that thermonuclear combustion in the dense core of a degenerate star (the word 'degenerate' is used in the sense of quantum theory and will be made explicit later) could trigger the explosion and volatilisation of the star. If we add the idea that post mortem light emissions are fuelled by the gradual disintegration of an unstable radioactive isotope, nickel-56, a subject to be discussed in great detail later, we obtain the universal explanation of what are now known as type Ia supernovas.
+
+For over four centuries, we were deprived of any nearby stellar explosion. It was not until 1987 that a supernova visible to the naked eye finally graced the stage. It made its appearance in the Large Magellanic Cloud, a modest galaxy gravitating around our own Milky Way at a distance of some 170,000 light-years. All suitably placed instruments of observation available at the time, both on Earth and in the sky, were pointed towards the exploding star. The gradual decline in its brightness and the slightest fluctuation in its level of radiation were monitored by observatories across the southern hemisphere (for it was not visible from northern latitudes). Gigantic neutrino detectors hidden deep under the Earth's surface were also waiting to pick up its signal. X and gamma rays were recorded by dedicated satellite-born detectors. It was a unique opportunity to put the theory of stellar explosion and explosive nucleosynthesis to the test – and the theory was confirmed. Humankind had pursued this dream of the stars by calculation, from their birth in gigantic clouds to their death in fleeting light, and with it the genesis of the elements and the celestial extraction of humankind itself.
+
+Apart from the welcome news of a celestial origin for all atomic matter, the supernovas were to reserve an unexpected bonus, revealing perhaps more clearly something that other signs were already trying to tell us: matter is not alone in the Universe, but has a sister, which has just been christened somewhat playfully quintessence. Of illustrious birth, for it was already present in the first moments of the Universe, this invisible sister weighs in at a good fifteen times its atomic counterpart. Paradoxically, however, it exerts nothing other than a repulsive gravitational effect! How was the existence of this new ether brought to light? By observing distant supernovas and applying the arguments of modern cosmology (see Appendix 2).
+
+As is well known, the expansion of the Universe was revealed through the redshifting of light from distant galaxies. The fate of such a dynamic universe then became one of the main questions to be addressed by cosmology.
+
+Today, it is generally thought that the Universe is open, by which it is meant that the expansion is eternal, and indeed, even accelerating. This strikes at the very heart of the old paradigm of eternal return. This announcement of a one-way diaspora originates from a certain type of exploding star, visible from the very depths of the cosmos. Indeed, the type Ia supernovas are so bright and so regular in their characteristics that they can be used for calibration purposes, as so-called standard candles. Recent systematic studies of such objects have revealed, against all expectations, a slight weakening of the light flux which in turn attests to a slightly greater stretching of space than had been previously predicted. From this small i Increase in the expansion relative to the results of the canonical calculation, it can be deduced that the expansion is actually accelerating. The cause of this acceleration is referred to, tongue-in-cheek, as quintessence. It produces a repulsive gravitational effect in the same way as the cosmological constant introduced by Einstein to prevent the Universe from collapsing. And so the notion of matter has been extended. The irony of the situation is that, although quintessence has made a comeback, it is really just a word to cover up our astronomical ignorance.
+
+Physicists in their all-pervading seriousness prefer the term ‘scalar field’ to ‘quintessence’. For the quintessence field is indeed indifferent to direction, like a mere number. Space has no preferred axis just as it has no preferred centre. The scalar field that is the object of their greatest desires and most ardent research is called the Higgs field. It arises as a logical necessity in their grand unification of the forces of nature. However, the cosmic scalar field mentioned above is of a very different nature, for it is infinitely lighter than the Higgs field.
+
+When American astronomers Riess, Perlmutter and colleagues proclaimed this acceleration of the expansion of the Universe against a background of distant supernovas, a heated debate began amongst the world’s cosmologists. It is now important to check that evolution of supernovas could not give rise to comparable effects, that is, that it could not provide an alternative explanation to the cosmological constant, or the quintessence, its substitute as stretcher of space. It must be shown by both calculation and observation that distant, metal-poor supernovas are not less luminous than closer ones.
+
+The expansion of the Universe is accelerating! The news is too recent to accept without reserve. It must be checked again and again, in the most critical spirit, and yet with open mind, for it is of the utmost importance.
+
+Explosive astrophysics Every region of the Universe is evolving, but the most spectacular evolution concerns its geometry. Space is expanding between clusters of galaxies. However, this cosmic picture, no matter how generous it may appear, is still far too abstract. The question of the materiality of the Earth and the sky is left unanswered. Where is the world’s flesh? The search for the material origins of the elements can bridge the gap between the Universe as it appears on paper, in the stark form of a space–time diagram, and the world incarnate in which the same patterns emerge time and time again: stars in the sky and atoms in the stars. Astrophysics places humankind in space and time.
+
+Supernova! Stellar explosion followed by the decay of radioactive nuclei. A whole generation of Homo astronomicus is now involved in the physics of such cataclysms. These spectacular events are now the subject of such intense scrutiny that one might say that humanity has entered the age of the supernova. They have been thrust to the forefront of cosmology, a boon for nuclear astrophysics! The satellite INTEGRAL, dedicated to nuclear gamma-ray astronomy and on the point of spreading its wings, carries all the hopes and aspirations of the scientific community to which I belong.
+
+Future advances may be expected from the following facilities, either separately or in combination: • development of optical spectroscopy at the VLT (Very Large Telescope) and elsewhere; • development of spectroscopy outside visible wavelengths, with ALMA–FIRST (submillimetre and infrared), FUSE (ultraviolet), XMM and Chandra (X ray), INTEGRAL (gamma ray), and a whole range of new astronomical instruments; • enhancement of computational resources, both in terms of software and hardware, as research institutes are equipped with powerful data-processing and simulation systems; • coordination of national and international research programmes, such as the systematic search for high-redshift supernovas for cosmological purposes; • availability of new scientific instruments, such as the megajoule laser, a perfect tool for studying explosions and other violent phenomena, or ion probes, used for accurate isotopic analysis of meteorite samples.
+
+In other words, nuclear astrophysics is about to blossom, a prospect I greet with great joy, and yet not without mixed feelings. For despite the long list of stellar and material emotions it excites, and despite the starithoists in the sky of knowledge, I remain doubtful whether these celestial scientific reflections will penetrate the conscience of humankind. For whilst technology is at the gallop, the human soul makes its way as placidly as ever. The likes of Jean Audouze, Hubert Reeves, Alfred Vidal-Madjar, T. X. Thuan and many others have carried the banner, keen to share this newfound beauty in the sky. Astronomy is an exciting science, working with powerful research tools, and astronomers are generally courteous, sometimes eloquent, but quite clearly less charismatic than the wise men.
+
+Explosive astrophysics 9
+
+The association of stars into figurative groups or constellations was the first form of hieroglyphic writing, engraving exotic and mythical creatures almost indelibly on the firmament of human consciousness (or unconsciousness). So enduring is this image that I cannot but ask myself why the balance so quickly did away with alchemy, when the telescope has proved unable to unmask astrology. I wonder also why the nuclear alchemy of nucleosynthesis accomplished within the stars leaves the horoscope readers cold, as they search in anguish for some secret co-operation between heaven and Earth. For modern science, the link between humankind and stars is more than just symbolic: it is genetic. Today we may speak of a genuine genealogy of matter in which the stars are clearly designated as our ancestors. This knowledge has not come down from philosophers and men of faith, but from engineers and mathematicians.
+
+Light from atoms, light from the sky
+
+Matter with and without light
+
+To begin with, how do astronomers know what stars are made of? The answer is that they have learnt to decode the language of light, of all the different kinds of light, be they visible or invisible. Atoms in stars speak to atoms in eyes using the language of light. I say it now, and I will say it again until the message is clear. It is the identical nature of emitter and receiver that makes perception possible.
+
+Light has become as a mother tongue for astronomers, a conscientious and light-footed messenger, speaking volubly in every region of space, transporting information from one point of the Universe to another. It is like an expressive covering for the atom. Carnal and material beings long believed that all matter was like itself composed of atoms. Materialism merged with atomism and was taught as a definitive doctrine. It is quite understandable that astronomy, science of light, would be tempted to confine the Universe to its visible aspect, imprisoning it somehow in its mere appearance.
+
+Then suddenly, against her will but in all lucidity, Urania the ancient Greek muse of astronomy was compelled to admit that what is visible is only the froth of existence. She even came to give precedence to what cannot be seen, to what neither shines nor absorbs light. Astronomical observation and theoretical reasoning suggest that most of matter is actually invisible.
+
+A great wound was thus inflicted upon the world of thought and light, whilst dark matter and quintessence gradually took possession of physical space. The twentieth century, when the word ‘atom’ was on everyone’s lips, closed with a cosmic declaration of the atom’s insignificance. Two all-pervading ectoplasms have changed the face of the sky and the definition of matter. But how did they come to take control? A glance at the vast collection of data gathered by astrophysicists and summarised at the end of this book will soon convince the reader that the new paradigm is based on experiment and reasoning. After the greatest investigation ever carried out into the nature of the skies, we arrive at the following conclusion: the Universe is not dominated by luminous matter in stars, but by a dark ectoplasm.
+
+It is ironic to note that the most fundamental conclusion reached by astronomy after thousands of years of dedicated observation does not concern what can be seen of the cosmos, but rather what cannot be seen: dark matter. A strange achievement indeed! Dark, transparent or invisible, all the forms of luminous neutrality have burst forth upon astronomy, the science of light. Dark matter has no other expression than gravity to relate it to the world, and gravity is nothing but the attraction of matter for other matter. It is in this sense that it constitutes matter in its own right. We can detect its presence by analysing the motions of bright objects held within its grasp, like stars within galaxies and galaxies within clusters of galaxies. We have no choice but to postulate the existence of this matter if we are to explain the motion and confinement of luminous matter. And yet we know nothing of its nature and composition.
+
+The Herculean task of astronomy and cosmology is thus to draw up a complete inventory of the Universe, determine its evolution, and seek out the cause and the driving force. One of the key aims of cosmology is to establish the true relationship between the geometric structure of the Universe and the distribution of matter and energy contained within it. Once we understand the interplay between space, time and energy, it becomes possible to determine a genuine history of the Universe, a history which can be extrapolated into the past and the future to rewrite the genesis and the apocalypse, as it were.
+
+So here comes humankind shouting to the winds that atomic matter, cradle of all that is visible and tangible, comprises only one to four percent of the substance of the Universe. And all that concerns the notion of matter concerns reality itself.
+
+Atomic matter is the blossoming of all matter, making up for its weakness in numbers by its force of expression. For humankind, it is the sensorial manifestation of the Universe, its crowning eloquence. Indeed, it stands out by its expression in light, in stark contrast to dark matter which is totally indifferent to electromagnetic radiation, neither absorbing nor emitting it, in this respect a featureless entity.
+
+Stellar matter exhausts itself to maintain its sparkle, diamond dust in a cold crystal. The galaxies are glitter, sprinkled across the heavy, transparent darkness of the cosmos.
+
+But if the atom is not the only face of matter, as we seem forced to admit, it is to our knowledge the atom that assumes the widest and most evolutive range of forms. Dark matter and its companion ectoplasm, the repulsive substrate of the Universe, transparent yet crammed with energy, that we venture to call ‘vacuum’ (Cassé 1993) or ‘quintessence’, are merely shapeless substrates but eforetheatom initswealthofforms,finetraceryandbeauty.Andraisedaboveallelse,itis cathedralsofatomsthatformtheseatoflifeandconsciousness,givingspeech tomatter.
+
+Luminous matter has revealed dark matter, but the new substance remains obscure.Whatisitmadefrom?Isitperhapscomposedofknownformsofmat- ter?Onlypartly!Isdarkmattermadeupofmicroscopicparticles?Iftheanswer is affirmative, we may suppose that this unknown form of energy penetrates andpermeatesthegalaxies,theSolarSystemandevenourownbodies,justas neutrinospassthroughuseverysecondwithoutaffectingusinanyway.And like the neutrinos, these unknown particles would hardly interact at all with ordinarymattermadefromatoms.Toabsorbitsownneutrinos,astarwiththe samedensityastheSunwouldhavetomeasureabillionsolarradiiindiameter.
+
+Luminousandradiatingmatterisamereglimmertodarkmatter.
+
+Wemustresignourselves.ThesimpleGreekideathatmattercanbereduced to a handful of atoms must be amended. The greater part of the universal substrateisinvisible,becauseitdoesnotradiate.Theinvisiblestateofmatter exceeds,bothinvolumeandmass,themanifeststate,whichisluminousand legible.Atomicmattermadefromprotonsandneutronscomprisesonlyatiny fractionofallmatter,perhapssomethinglike2%to5%.Theworldisinsidiously dominatedbywhatisinvisible,shiftingandimpalpable.
+
+Opentoallinfluencesbutwithoutabandoningitslight-boundvocation,the venerablescienceofastronomyisreadytogreetdarkandnon-nuclearmatter inordertogivemeaningtothecelestialmessage.
+
+Fromthebirthofthegodstotheadventofdarkmatter,thevisibleskyhas barely changed. It is not therefore the sky that changes, but our ideas about it. Each new cosmology opens up a new era of human experience. The truly universalmatterwhichgovernsthefutureoftheUniverse,determiningwhether itisopenorclosed,maystillbeunknowntous,butatleastwearenowconvinced ofitsexistence.Itisunknown,butnotunknowable.Letusventurethatbythe tenthyearofthismillennium,itwillhaverevealeditstrueidentity.Thediscovery of dark matter will be a major scientific event. It remains to wonder whether it will come to us from the sky via astronomy, or from the Earth through the mediationoftheparticleaccelerator.
+
+14 Lightfromatoms,lightfromsky Astronomy, science of light, has proclaimed the reign of darkness. What will be the consequences of such a grand dialectical turnaround on the in- tellect and consciousness of humankind? And likewise when the very con- cept of matter has to be revised? The epistemological programme of the cur- rent millennium will involve extending and understanding the concept of the Universe.
+
+Inthebeginningsofastronomy,theUniverseofAristotleandPtolemyheld onlytheSolarSystem.ThenitreachedouttograsptheGalaxy,andfinallythe wholesystemofgalaxies.AstronomyisnomorethanaseriesofCopernican revolutions, each resulting in a vaster decentralisation and extension of the conceptoftheUniverse.
+
+TheUniversehasnocentre.Noprivilegedplacecanbetakenfortheorigin ofourcoordinatesystems,forthecentreoftheworld.Thelastrevolutionisthe mostradicalofall,forittouchestheverystuffofthecosmos,itsverymateriality.
+
+Withalltheassuranceofitswell-oiledatomicmechanics,humankinddeclares: ‘Matter that shines and radiates is a mere froth on the surface of dark matter andquintessence.’ But the bell has not yet tolled for anthropocentricity. For we live in an ex- ceptional age when a sample of nuclear matter has managed to express itself throughasentientlanguage,withavoicethatringsout,andnotjustthroughthe blindforcesofthemicrocosm.Thistiny,consciousandvolublesampleutters acoherentdiscourse–cosmology–whichgivesacertainmeaningtotheword ‘universe’.
+
+Ourplanethasborroweditsmatterfromthestars.Wemaycarryourheads high:ouratomswerenurturedinthestars.Weareallofcelestiallineage!Human thoughtisthusbroughtclosertotheimmediaterealityofsensorialperception.
+
+Theobjectsaroundus,thethingswesee,theingredientsofoureverydaylives accompanying us at all times, the substances we move through and even the associationofatomsthatmakeusupallderivetheirrealityfromcosmicpro- cesses. The Big Bang and the stars are the agents of chemical evolution in a cosmoswhichtodaycontainsspeakingmatter.
+
+The beautiful exploding flowers we call supernovas illuminate a moving themeindeed:matter’sslowascenttoglory.Theskyisnoemptytheatre.Stars areconcreteobjectslikemilkanddates.Theyarethecosmicprogenitorsofour worldlyatoms.Generouslytheyopenlikeblossom,showeringspacewiththeir myriadwingedatoms.
+
+Butmorethanthis,thinkingmatterhasendoweditselfwithacosmicaffil- iation. It has bestowed meaning upon its past, composed of inert, stellar and cloudymatter,andbeforethat,thevacuum(althoughthelatterisnowconsidered tobeseethingwithactivityinquantumphysics).
+
+Matterwithandwithoutlight 15 Forthepurposesofthepresentbook,wehavechosentospeakofatomically luminous,materialdust,sopreciousitseemstous.Itisthematerialframeof beingsandstructuredthings,offlesh,birdsandstars.Letusnotyetprovokethe incomprehensibledarknessasitliessleepinginitsden.Letusleaveinshadow thismatterwhichdoesnotspeakthelanguageoflight.
+
+From t From this point onwards we shall take the word 'matter' to have its usual meaning, as the material fabric making up beings and visible or otherwise manifested things. In technical language, this kind of matter is said to be baryonic or nucleonic, that is, essentially made up of protons and neutrons.
+
+Ordinary, everyday matter as we find it in trees and stones, flowers and streams, blood and tears, wine and butterflies, should indeed be qualified as precious, luminous and heavenly, for it is rare and photosensitive and has celestial origins.
+
+Let us retain three simple precepts concerning nuclear matter, to guide us through the following discussion: * anything hot shines; * anything that does not shine, which is cold and diffuse, absorbs light; * anything that emits or removes specific notes of light can be analysed chemically.
+
+Let us bear in mind, so as not to disregard the role played by dark nuclear matter, that anything which neither shines nor absorbs light must nevertheless attract other objects and modify their motion, hence giving itself away.
+
+Light is a conscientious messenger. It carries messages diligently from one point of the atomic universe to another, for it is the very expression of its finer features. Atoms in stars speak the language of the visible to atoms in eyes. No more is needed for a whole astronomy of light and shade, of stars and clouds to blossom forth.
+
+Visions
+
+Glossary absorption line: absence of radiation over a very narrow frequency band blackbody: purely thermal emitter of electromagnetic radiation Boltzmann’s constant: physical constant relating the average energy of particles to the temperature of the medium they make up bremsstrahlung: radiation due to the rapid deceleration of an electron CCD (charge-coupled device): electronic detector which has superseded the photographic plate in astronomy Cepheids: stars with variable brightness whose period is related to their luminosity Compton effect: momentum transfer from a photon to an electron emission line: brightening in the spectrum over a very narrow frequency band frequency of a wave: number of wave peaks passing per second globular clusters: groups of ancient stars orbiting around galactic disks kelvin (K): unit of thermodynamic temperature, with the temperature interval the same as 1°C; the freezing point of water (0°C) is 273.15 K hertz: unit of frequency, 1 Hz corresponding to one event per second interferometry: interference of light for observational purposes inverse Compton effect: momentum transfer from an electron to a photon neutralino: hypothetical particle predicted by so-called supersymmetric particle theories non-thermal radiation: emissions arising from the acceleration of charged particles.
+
+Planck’s constant (h): immutable number relating particle energy, a corpuscular property, to wavelength, a wave property, in quantum physics pulsar: neutron star with a high magnetic field, emitting narrow beams of radiation, rather like a lighthouse quasar: extremely luminous objects, among the most distant yet observed redshift: stretching of wavelengths induced by the expansion of space in cosmology and denoted z spectrum: distribution of light intensity as a function of wavelength, frequency or energy synchrotron radiation: radiation from electrons guided by magnetic fields temperature: measure of thermal agitation thermal radiation: synonym for blackbody radiation
+
+The language of light: equivalence of colour, wavelength and temperature
+
+Unplaiting the braids of light, we discover the colour blue. Weaving together the strands of blue, red and yellow, all are swamped in white. Light thus looks white if it has a similar spectrum to the Sun, and other colours can be described as a divergence from the latter. However, the word 'colour' is not precise enough to qualify this attribute of light. Of course, scientifically, each note of light, each elementary tone of green, yellow, crimson, mauve or any other hue, is designated a number called wavelength. The tints of light are thus quantified, each assigned its corresponding wavelength. Blue is just a length, expressed by a number (roughly 500 nm), and likewise yellow (around 600 nm) and red (650 nm). So yellow lies between blue and red, and that is all there is to it!
+
+On extragalactic and cosmological scales, light is reddened by the receding motion of its source. The further the source, the faster it appears to move away and the more the source is reddened. However, distance across space also goes with remoteness in time and the past of the Universe is tinged with red. Still further back, it even slips into the infrared.
+
+Light is a conscientious messenger, carrying information from one point of the Universe to another. Atoms in stars speak the language of light to atoms in eyes. Why should we move when light can bring this wealth to us? Such is the resolutely lazy philosophy of astronomy. But do we have the ingenuity required to extract the full panoply of secrets from each passing photon?
+
+Interpellated by the telescope and summoned by the spectrograph to display their luggage, photons from all destinations undergo relentless interrogation. Invited to present their spectrum, they do so without wavering. In their role as customs officials, astronomers examine the data as they might a passport, seeking out the distinctive signature of specific atoms or continuous emissions that could reveal the physical characteristics of the source. The identity sheet might read as follows: radio: infrared visible UV Xray gammaray continuous discontinuous thermal non-thermal
+
+In this way, all kinds of light, visible or invisible, are catalogued and classified. The range of wavelengths or spectral band defines the colour, whilst the terms discontinuous or continuous specify the presence or absence of spectral lines, i.e. narrow frequency bands featuring higher or lower intensities than the background. The categories thermal and non-thermal refer to the conditions under which the light was emitted and the physical processes that generated them. Thus, the term ‘thermal’ relates to a hot gas or plasma source, whilst ‘non-thermal’ refers to an accelerated particle source.
+
+The visible and the invisible The human eye is only sensitive to certain tonalities of electromagnetic radiation, in particular, those wavelengths lying between 400 and 800 nm. In fact we are blind to almost the whole spectrum of light. It is of course the perseverance of the Sun’s radiation that has fashioned our eye (Fig. 3.1). Acting as a censor to other wavelengths, the heightened sensitivity of the retina to the predominant solar photons explains not only the dark of the night, but all the qualities and failings of our perception.
+
+Today we can no longer ignore the idea that the extreme specialisation of the human eye is a severe handicap when surveying the Universe as a whole. For many stars are much colder or much hotter than our own. Not to mention sources of non-thermal radiation, whose spectra fall a long way outside the frequency bands in which stars tend to radiate. If we wish somehow to perceive this luminous otherness, then we must invent new tools, both mental and experimental, so that we may call ourselves astronomers of the invisible.
+
+In search of such universality, a language of light must be developed which is common to all forms of electromagnetic radiation, whether they are visible or invisible, reducing colour to a reality which is not coloured, expressed in terms of space, time or energy.
+
+The solution is to encode light using numbers. Indeed, it is the way of science to quantify. Our clocks transform time into numbers. Likewise, blue is spirited away, to become a mere length, as are all the colours we know and love and with them even those that escape human perception, such as X rays and gamma rays. Light is thereby bleached.
+
+In its extended meaning, colour is now a number with units of length, frequency (like our own pulse) or energy. These three physical ideas, spatial, temporal and energetic, are canonically and invariably related. It is a simple matter to translate frequencies into wavelengths or energies, and conversely. Radiation can be treated just as well as a wave with a certain frequency or as particles, photons, with the corresponding energy: energy = Planck’s constant × frequency, wavelength × frequency = speed of light.
+
+As far as it is merely light, blue has become a number followed by a unit of length. Blue = 500 nanometres. The ultimate physical vector of blueness is a grain of light carrying a few electronvolts of energy. And when its pulse beats 2×10^15 times per second, light is said to be blue. When this rate falls slightly to, say, 1.5×10^15 beats per second, the eye–brain detector perceives it as red. Blue has pace. There is punch in the tempo. But then there are the X rays, a form of light with characteristic energy of 10 kiloelectronvolts (keV), and at the other extreme, radio waves pulsating at a mere 10 gigahertz (10 billion vibrations per second) (Fig. 3.2).
+
+Apart from colour, wavelengths evoke another sensation to the physicist: the notion of hot or cold. For tint and temperature are related. When an object is heated at the forge, it changes from black (lack of colour), through red, yellow and white to pale blue.
+
+In fact, blue = 50 000 degrees. Blue means hot, we might say ‘blue-hot’. Any object heated to a certain temperature emits radiation known paradoxically as blackbody radiation, regardless of its shape and composition. The wavelength at which this radiation reaches a maximum is inversely proportional to the temperature of the emitting object. The hotter the body, the shorter the emitted wavelengths. The relevant relation between energy and temperature is energy = Boltzmann’s constant × temperature.
+
+We may thus establish a correspondence between the language of ovens (with waves and microwaves) and the language of particle accelerators. An energy of 1 electronvolt (acquired by an electron in a potential difference of 1 volt) corresponds to about 10 000 degrees. Therefore, an energy of 1 million electronvolts (1 MeV) corresponds to 10 billion degrees. In the aftermath of the Big Bang such energies and temperatures were commonplace. Working side by side thermodynamicists, studying heat, and particle physicists were soon to be joined by cosmologists. For it was clear that, as time went by, the Universe must have cooled as a result of the expansion of space. Heat, energy and time were inextricably linked together.
+
+Universe, tell me how old you are, and I will tell you the colour of your radiation background and the energy of each of your photons. Today, the cosmic background radiation is red, very red. It is so red and cold (about 3 K) that it cannot be seen. Its chilled voice quivers in the great Of our radio telescopes. Solar emissions, on the other hand, can be compared with the radiation from an incandescent body at a temperature of around 5700 K. Temperatures vary across the Universe, from 2.73 K for the cosmic background to 100 billion K when a neutron star has just emerged.
+
+Disregarding for a moment the bright and dark bands that decorate the spectrum of a heavenly body at specific wavelengths, the overall hue of that spectrum can tell us the surface temperature of the object. A bluestar is thus hotter than a yellow one, and a yellow star is hotter than a red one. The Sun is hotter at the surface than the red star Antares, which in turn stands as a torrid desert before the brown dwarfs or interstellar clouds. The stars go red with cold.
+
+The code used by the plumber for the bath taps is precisely opposite to the astronomer’s rule of thumb. Between the artisan and the astronomer, Goethe chose the first. For him, and for all artists since the beginning of time, blue has been associated with what is spiritually cold. In his Theory of Colours (Zur Farbenlehre, 1810), he wrote that blue expresses a purely empirical psychological impression of cold. Our own science places all sense perceptions such as sound, colour and heat firmly within the human sphere. Nothing outside the human being corresponds to these qualities.
+
+There is another illusion. The blue of a flower, of satin, or of the sea, indeed the blue of any illuminated object, is but deception. The colour of a body lit by the Sun or an electric light is merely the colour of the radiation which it repels. The cornflower in the sunlight is anything but blue! Its atoms swallow all the colours but regurgitate the blue. It might be called ‘antiblue’. This is indeed why it appears to be blue. True blue is the blue of heat, emitted and not debased.
+
+Imagined journey in the temperature–luminosity plane
+
+Let us begin by distinguishing the appearance of a star from its essence. Outwardly, the star may be small and white, or it may be huge and red. But beyond these obvious features lie many hidden truths that can only be interpreted through some mathematical and physical model. This theoretical construction brings to light the basic mechanisms at work in the invisible depths of the star, following their evolution through all the layers of its great bulk, right up to the surface that is actually observed.
+
+Stars differ by their splendour and colour, but even more profoundly, by their mass and age.
+
+On the road that leads from appearance to essence, the astronomer’s first care is to allow for the effects of distance. To this end all stars are artificially located at the same distance in order to compare their brightnesses in a completely objective way. Curiously, this ploy restores the old idea of a celestial sphere, a purely mental construct so long discredited, dedicating it to the cause of objective knowledge.
+
+Multiplying the apparent luminosity of a heavenly body by the square of its distance, the astronomer calculates its true brightness. The stars can then be sorted, separating out remote bright stars from nearby faint ones which might otherwise appear to be on a par. Colour, on the other hand, does not depend on distance, once corrections have been made for reddening due to interstellar dust.
+
+Let us draw a grid as for a crossword. Up the side we mark the true or absolute luminosity, corrected for distance effects. Along the bottom we put the reciprocal surface temperature (related to colour), with hot on the left and cold on the right. We now plot the stars on our grid. The illustration thereby obtained is one of the most illuminating in astronomy. It is known as the Hertzsprung–Russell diagram (Fig. 3.3). It allows us to pick out a genuine evolutionary path for stars of different masses, depending on the matter being consumed as nuclear fuel within them (hydrogen or helium) (Fig. 3.4). We shall consider this point in great detail in later chapters.
+
+The exact trajectory etched out by each star across this engraving depends on its mass, and to a lesser extent on its richness in metals at birth. Each position along a given evolutionary path corresponds to specific processes of nuclear fusion. For example, the main sequence relates to core hydrogen burning, whilst red giants are engaged in core helium burning. In the asymptotic giant branch, both hydrogen and helium burning take place in shells around the central core.
+
+Each star follows a different path and at a different rate. Ageing stars turn red, except for the most massive, which become violet or even ultraviolet, gradually moving away from the main sequence. Their core temperatures and pressures increase, thereby triggering further nuclear reactions which can build carbon from helium as the stars ascend the giant branch. The construction of nuclear species in massive stars reaches its apotheosis in the explosion of type II supernovas.
+
+In 1666, Isaac Newton placed a prism across the path of a light beam in a dark room, and so was born a rainbow. He called the many-coloured iridescence springing from the glass a light spectrum. This dissection of light brought out the manifold colours making up white.
+
+Indeed, any electromagnetic radiation can be decomposed into its different colours and the variation of intensity (i.e. the number of photons) with wavelength (or, equivalently, frequency or energy) is referred to as its spectrum.
+
+Still more generally, the whole range of all visible and invisible forms of light constitutes what is called the electromagnetic spectrum. The word itself comes from the Latin word for ‘appearance’, like the term ‘spectre’.
+
+In the early days observed spectra were simple continuous bands of colour, or chunks of rainbow. However, in 1814, Joseph Fraunhofer was able to magnify the spectrum of sunlight. In doing so he discovered a whole host of dark lines, or absorption lines, where the light intensity was reduced over certain very narrow wavelength ranges. Later, emission spectra were observed by two chemists, Robert Bunsen and Gustav Kirchoff. When light from a chemical flame was passed through a prism, in the very same position as the dark lines in sunlight, they discovered a series of bright lines superposed on the coloured background. Subsequent studies showed that each element possesses its own characteristic series of emission and hence absorption lines.
+
+The wonderful discovery of spectroscopy would allow scientists to set up a correspondence between spectral lines and the chemical identity of emitting or absorbing elements, as well as their relative proportions.
+
+Astrophysicists read such spectra as musicians read their score. When they discern clear notes, they compare them with those emitted by known substances set alight or traversed by sparks in the laboratory. The atom is a violin casting out notes of light. Sometimes they observe an absence of light and match the missing notes with those absorbed by various substances as they are traversed by different kinds of light in the laboratory. They confront the stellar spectrum, bestrewn with absorption lines, with a reference spectrum. The atom is then likened to a sieve that lets past only a certain grain of light. The elements making up the absorbent screen interposed between light source and observer can then be identified, providing analysis of the outer layers of stars and interstellar gas clouds.
+
+This is indeed a scientific revolution: spectral analysis means we may analyse the chemical composition of luminous or absorbent gases without ever even touching them. When asked how it is that astronomers can know the composition of the stars, we may answer that they have learnt to decode the subtle talk of light. Atoms emit or absorb notes of light. This is perhaps the most providential circumstance in astronomy.
+
+Each atom releases or confiscates specific tones of light, depending on its own nature and the external conditions to which it happens to be exposed.
+
+When astronomers see red, the particular red of nebulas, they say: ‘hydrogen heated to 10000 degrees’, whilst the blue of nebulas is like that of the sky, for on Earth, the sky is made blue by air (Leonardo da Vinci). Each note of light is associated with a specific atom in a given state. Each note is therefore the sure signature of that atom.
+
+What is more, the shape and shift of spectral lines tell us about the motions of emitting or absorbing atoms. Temporal variations in light emissions inform us of the stable or changing nature of the phenomena that cause them.
+
+One by one, the astrophysicist detaches these notes of light from the spectrum: hydrogen, lithium, carbon, oxygen, iron, barium, europium, the music of the elements. In the spectra of the heavenly bodies, we discover the same atoms that make up our own bodies, and everything else we know down here on Earth. You, the stars, and I, earthling, are made from the same species of atoms. There is unity of substance, but also unity of law. Gravity and electromagnetism, and all other laws of physics, are valid down here and up there, on the Moon, in the Sun and quasars, and throughout the whole observable Universe.
+
+Chemical analysis through light emissions allows us to determine the relative abundances of the various elements in the atmosphere of any star or cloud, and this over the whole range of photon energies. Indeed, spectroscopy has gradually been extended to cover a large part of the electromagnetic spectrum, on either side of the visible. In addition to the originally developed optical spectroscopy, radio, infrared, UV, X and gamma counterparts have been brought to bear on the picture. The detectors are different, but the instrumental strategy and theory remain the same.
+
+To begin with, we must specify the spectral window we are referring to and then use the appropriate detector: telescope, radio telescope or space-borne observatory. The next characteristic is the accuracy of the energy, frequency or wavelength measurement, followed by the accuracy of the angular measurement (resolving power), and the temporal resolution and sensitivity of the measurement. Finally, we note the direction, date and duration of the observation for each particular celestial object we choose to investigate.
+
+Once the measurement has been made and recorded, interference and background noise must be eliminated so as to exclude all but the relevant part of the signal. It only remains then to interpret the purified signals according to some decoding grid in the form of a physical model of the object (star, cloud, galaxy or the Universe). In this way, after a long process of measurement, analysis, purification and abstraction, a physical meaning can at last be given to the observational data.
+
+**The life of an excited atom**
+
+Those initiated in the art of spectroscopy soon realised that to each emission line there corresponds an absorption line located at the exact same wavelength. They noticed that, one way or another, atoms can only absorb or emit a well-defined sequence of wavelengths. The amounts of energy which a quantum system like the atom can acquire or relinquish are governed by atomic physics.
+
+The generally accepted model treats the atom as having a centre occupied by a positively charged nucleus with mass but very small volume. This nucleus houses two types of inhabitant: protons, Z in number, and neutrons, N in number. Around the nucleus moves a total of Z negatively charged electrons. Their number is just sufficient to neutralise the charge on the nucleus. These electrons are held in orbit by a force of electrical origin, due to the attraction of each negatively charged electron by the positively charged protons in the nucleus. The orbital motion prevents the electron from crashing into the nucleus, just as it prevents the Earth from falling into the Sun.
+
+To a first approximation, we may assume that the electrons follow elliptical orbits with the nucleus at one focus of the ellipse. This model of the atom thus resembles the Solar System, with the electrons in the role of planets and the nucleus standing in for the Sun.
+
+Although this simile is now known to miss the mark, its historical importance cannot be denied. The centrifugal force victoriously opposes the electrical attraction and conversely, for each electron. A wonderful merry-go-round (dynamical equilibrium) is the result. In this idyllic version, the revolving motion of the electrons would go on forever, if the atom were not subjected to external influences, namely, collisions with other atoms, electrons and photons. Deformed to varying degrees by these impacts, atoms always tend to restore themselves in the most harmonious way, evacuating the excess energy acquired from the collision.
+
+They are said to decay. In doing so, they return to their previous state, corresponding to the most stable possible configuration, towards which all the others also tend. This so-called ground state is characterised by the fact that it has the minimum possible energy amongst all available states. And since it is the lowest in energy, all higher-placed electrons fall into it.
+
+This decay, or return to the ground state, is necessarily accompanied by the rejection of unwanted energy in the form of photons. The excitation energy is therefore restored in the form of radiation. It is thus easy to understand why heat should lead to light. For temperature is a measure of thermal agitation and the speed of atoms. Collisions are all the more common and more violent as the temperature of the gas, and hence the speed of the particles, increases. The result is that atoms are excited and then decay an instant later, emitting light. Hot gases shine. Heat rhymes with light. Hence, any perturbation of the atom’s perfect equilibrium triggers an immediate response in the form of a flash of light. For the main part, infrared, visible, UV and X-ray radiation can be traced back to electrons. Only gamma radiation escapes this rule. For it is the light of nuclei.
+
+**Fig. 3.5. Energy levels of hydrogen, showing transitions between the levels and corresponding spectral emission lines.**
+
+The number of satellite electrons dictates the physical and chemical properties of atoms. To a first approximation, they can be considered to be distributed in groups in more or less circular, concentric orbits, located in the same plane.
+
+A more abstract and geometric view is shown in Fig. 3.5. It consists in drawing a vertical line marked off with the possible energy levels of the atom under consideration.
+
+The jump from one level to another then describes a chance excitation and the immediately ensuing decay, with absorption and emission of a photon whose energy equals the difference in energy between the two states. The zero on the energy scale is conventionally attributed to the unperturbed ground state. All the other states, whose energies are necessarily higher, correspond to perturbed or excited states. The first excited state is closest to the ground state, and might be called the first harmonic. States are discretely distributed and only a certain well-established subset of them is accessible to the system. Their energies, however, are not perfectly known because the electron trajectories are not precisely defined.
+
+tories overlap. In a sense, they follow wide avenues rather than accurately marked paths. For electrons havethevocationtobequantumparticles,and‘quantum’issynonymouswith ‘fluctuation’.Theyweavebackandforthacrossthewholewidthoftheroadas theystaggeralong.
+
+30 Visions Fig.3.6. Synchrotronradiation.Afast-movingelectronisforcedtospiralalong thelineofforceofamagneticfieldandemitsnon-thermalradiationinthedirection ofmotionoftheparticle.Thistypeofradiationisconfinedtoanarrowconewhose axiscoincideswiththedirectionofmotion.
+
+Acceleratorsinthesky Ifredmeanscold,theninfraredstandsforcolderstill.Whilstbluemeanshot, ultravioletandXarethesignatureofevenhotterphenomena.Butgammarays are a sign of such high energies that a corresponding temperature would be inconceivable. We thus move from the physics of objects to the physics of beams, from thermal physics to non-thermal physics as it is studied in the great particle accelerators at Saclay in France or CERN in Switzerland, and elsewhere.Therangeofradiationtherebygeneratedisverydifferentfromthe spectraofobjectsshiningundertheeffectsoffever,liketheSunandstars.
+
+Thedistinguishingfeatureofhigh-energyastronomy,andespeciallygamma- rayastronomy,ispreciselythatitrevealsthemostenergeticandhencethemost violenteventsoccurringintheUniverse.Gammaastronomyopensoureyesto high-energyprocessesstudiedbyparticleacceleratorshereonEarthandcaused byradioactivityinspace.
+
+There is one important exception, however. A certain type of radio wave, called synchrotron radiation (because first discovered in the vicinity of these accelerators),atteststoparticularlyviolentphenomena(Fig.3.6).Itisproduced inthedebrisofstellarexplosions,theremnantsofsupernovas.
+
+Wenowhaveclearevidenceofnon-thermalprocessesinthesky.Awhole panoplyofviolentactivitiesisrevealedtothewatchfuleyeofourradio,X-ray andgamma-raytelescopes.Supernovaremnants,pulsars,activegalacticnuclei and gamma bursts emit radiation that has clearly nothing to do with thermal activity,fortheirspectrabearnoresemblancetothoseofheatedbodies.
+
+Itisinthiswaythatwemaydeducetheexistenceofnaturalparticleacceler- atorsinthesky,althoughoftenconcealed.Butthegreatestandmostfabulous acceleratorofalliswithoutquestiontheBigBang.
+
+Byanaturalprocessofselection,oftenbrutal,someparticlesareextracted from their community, in which a certain energy-based democracy normally reigns.Energyissharedinarelativelybalancedwayacrossthecrowdofparti- cles,althoughneverwithperfectfairness.Inthecentreofthestars,forexample, reignsthedemocracyofheat.Someparticlesmovefasterthantherest,butthey arerare.
+
+Acceleratorsinthesky 31 Exceptionally violent phenomena can nevertheless disturb this fine order.
+
+Some of them bring tremendous speeds into play, in both translational and rotationalmotions.Solarandstellarflarescometomind,alongwithexploding stars and spinning pulsars (neutron stars). If part of this well-ordered energy is conferred upon an atomic nucleus, it then becomes a cosmic ray. It is thus excluded from the community, whose gentle brethren are no longer able to retainit.
+
+Animportantdistinctionshouldbemadebetweenelectronsandatomicnu- clei. The former are easily subjugated and imprisoned by galactic magnetic fields,asaresultoftheirlowmass.Spirallythroughmagneticfields,theyemit acharacteristicradiationwhichmanifestsitselfintheradioregionofthespec- trum. This is the famous synchrotron radiation. Two gamma-ray-generating processesthencomeintoplay: (cid:1)
+
+electronscantransferenergytothephotonstheyencounter,thereby producingX-rayandgamma-rayphotonsbytheso-calledinverse Comptoneffect; (cid:1)
+
+electronspassingclosebyatomicnucleiareacceleratedand,likeall acceleratedcharges,generatebremsstrahlungphotons.
+
+Launched like missiles, atomic nuclei can smash head-on into other atomic nuclei, fragmenting both projectile and target. Rare and precious species can emerge intact from amongst the debris. Examples are lithium, beryllium and boron,forwhichnaturehasfoundnoothermeansofmanufacture.
+
+At still higher energies, let us say 100 MeV and beyond, we move from nuclearphysicstothedomainofparticlephysics.Inthisarenaunstableparticles are created which release gamma photons as part and parcel of their decay process. When two protons of very high energy run into one another, they sometimesgenerateneutralpimesonswhichthendecaytogammaphotons.
+
+Viewedthroughitshigh-energygammaradiation,theskylooksverydiffer- ent.Starsarescarceandgalaxiesholdapre-eminentposition.
+
+Theretinaanditsenlightenment Seeing is not just a question of adjusting our eyes to the solar spectrum. We liveclosetoastarcalledtheSunandatnight,whenitishidden,weseeonly starssimilartoourdaytimestar.Thisdoesnotmeanthatdarknessisabsence.
+
+The chilled, the scorching and the non-thermal shine invisibly. The eye is in factdoublysolar,foritismadefromthesameatomsasourstar,anditisthe persistenceandpredominanceoftheSun’slightthathavefashionedoursenseof sight.Theatmosphereistransparenttosolarradiation.Themaximalsensitivity 32 Visions ofourpersonaldetector,theretina,liesinwh atwechoosetocallthe‘yellow’, andyellowisindeedthecolouroftheSun.
+
+Furthermore, human beings are daytime creatures, sleeping at night. Their eyesnecessarilydifferfromtheeyesofnightbirds,orbutterflieswhichseein theultraviolet,offtheendofourownvisiblespectrum.Themaximalsensitivity oftheretinacoincideswiththesolarspectrumandthisisnothingotherthanthe resultofadaptation.TheconstancyoftheSun’semissionsisthecause,andthis initsturndemandsanexplanation.WhatisthesecretoftheSun’slongevity?
+
+As we shall see in detail, photons (grains of light) produced by nuclear reactions are released at the centre of the Sun in the form of gamma rays, thesamelethalraysproducedbynuclearbombs.Happily,afterwanderingfor several hundred thousand years within the Sun, softened by encounters with thesurroundingelectrons,theyfinallyemergeintofreespaceintheformofa constantandgentlelight,harmlesstooureye.
+
+Each time a proton transforms into a neutron in the Sun’s core, a neutrino fliesoutatthespeedoflight,orclosetoit.ItwhipsacrosstheSun’sgreatbulk injusttwoseconds,reachingEartheightminuteslater.
+
+In contrast, light staggers through the Sun like a drunkard, only emerging fromthegreatballoflight(thephotosphere)afteralengthyperambulation,ina formkindtotheeye.Duringitssolarwanderings,theradiationgeneratedinthe formofgammaphotonsbycorenuclearreactionstransfersapartofitsenergy toelectronsinthemedium.(Electromagneticradiationhasastrongaffinityfor electrons, as the words would suggest.) In this way, the medium is kept hot, andthistooisahappyconsequence,sinceheatiscrucialfortheSun’ssurvival.
+
+Withoutthermalpressure,itwouldsimplycollapse.
+
+Graduallylosingtheirenergy,thephotonschangecolour.Astheyapproach the surface, they soften. The ferocious gamma rays give way to X rays, then UV, and finally visible radiation, growing ever softer. Several thousand years go by before the photons accomplish their journey inside the Sun. But then, oncereleasedintospace,offtheyfly,straightasarrows,attheastonishingspeed of300000kmpersecondwhichnothingcanovertake.IftheSun’scorewere toswitchoffatthisinstant,ourdescendantswouldonlyfindoutthousandsof yearsfromnow.Unless,ofcourse,theycoulddetecttheneutrinos.
+
+NeutrinosinformusalmostinstantaneouslyofwhatishappeningintheSun’s core. However, the main interest of this solar cardiograph is hardly to detect some failure in the Sun’s cycle. In capturing solar neutrinos, the aim of con- temporaryphysicsisrathertocatchtheSunintheactofnucleartransmutation.
+
+By measuring the neutrino flux, we may check our understanding of the Sun asawholeandatthesametimeanalysetherelationshipbetweenthisstrange particleandmorecommonplaceformsofmatter.
+
+Lightandmotion 33 Thisprojecthasinspiredoneofthemostambitiousexperimentalprogrammes of our day. A major contribution has been made by the CEA (Commissariat d’EnergieAtomique)inSaclay,France.Theneutrinobehaveswithalmostrude indifferencetowardsnormal(baryonic)matter.Butthenwemustacceptthatthe mattersofamiliartous,makingupthestars,thegalaxiesandourownbodies, isnotthedominantformofmatteronthescaleoftheUniverse.
+
+Theshinycarapaceofourdaytimestarhidesatrulyenormousnuclearpower station,boundbygravity.Eachpointofitsgreatbulkisattractedwithinbythe hugequantityofmatterlyingbelowit.Atthesametime,itisthrustoutwardsby thepressuredifferencesthatreignacrossitslayers,duetothetremendousther- malactivity.Beingagas,theSuncanreadjuststructurallywithoutexplosion.
+
+Itstemperatureandluminosityhavethereforeremainedstableforthelastfew billionyears,makingitawonderfulbiologicalincubatorandanexceptionally steadylantern.
+
+ThefactthatoureyesaresoexclusivelytunedtotheSunhasthusblinded ustoalmostallformsofradiation.Thisincludesradiationfrommediaatvery different temperatures, such as the relic cosmological background that filters downtousfromthebeginningoftime,andthegreatmajorityofnon-thermal emissions,suchasthesignalsfrompulsarsandsupernovaremnants.
+
+Theeyeisthuslargelyblindtothecosmos,forthesolartrainingithasre- ceivedcanneverbecompletelyexpunged.Humankindthussuffersfromasolar debility.Fortunately,astronomersareabletocompensateforthenarrowscope ofoursenseperceptionswiththehelpofelectronicprosthetics,artificialretinas placedatthefocusoflargetelescopesorcarriedaboardspaceprobes.Satellites now bear instruments that greatly transcend human sight. Transgressing the laws of nature, the invisible is thereby revealed to us. We have outgrown the eyegiventousbymothernature.Moderntelescopesarebiggerandbettereyes, sensitivetoallformsofradiation.Cosmiceyeswithuniversaloutlook,opento lightofallkinds,theseareonlyhumanbytheirconstruction.
+
+Andalthoughournaturalandpersonaldetector,theretina,showsusatranquil sky,withalightscatterofstarsacrossit,strikingonlybyitssteadfastinaction, thenewskyrevealedbytelescopesandsatellitessensitivetoinvisibleemissions isoneoftempest.Itisanimatedbythebirthofclouds,thecreativeexplosion ofstarsandthetransitionoftheUniversefromopacitytotransparence.Human perceptionnowcontemplatesregionsonceforbiddentoit.
+
+Lightandmotion Thespectralstudyofmoti Spectroscopy has become one of the key techniques in astronomy.
+
+The principle is simple: when a light source (or any source of electromagnetic radiation) is moving relative to the observer, the distance between two successive wave peaks (i.e. the wavelength of the light) measured by the observer differs from that obtained when the source is at rest. For an approaching source, the wavelength is reduced, whilst for a receding source, it is increased. In the first case, we say that the light is blueshifted and in the second, that it is redshifted. This is because the wavelength associated with blue is shorter than the wavelength associated with red.
+
+Furthermore, spectral lines are broadened by random motions of emitting or absorbing atoms. Once the type of atom has been identified, the astronomer can read off its speed by following certain simple rules: - the width of the lines provides a measure of the turbulent, random and disordered velocities within the system, be they stars, galaxies or clusters of galaxies; - the shift of the spectral lines indicates the overall (or ordered) motion of the medium as a whole.
+
+This wealth of data is wondrous. Not only do the spectral lines betray the composition of the stars, but they also give away their motions, and even those of the atoms at their surface.
+
+In the case of galaxies, where the light from billions of stars is superposed, their spectra contain the distinct lines emanating from this multitude of sources. The motions of stars to and fro in their midst, and their own motions within clusters of galaxies, both serve to broaden these spectral lines. Moreover, the whole spectrum is shifted towards the blue or the red depending on whether the galaxy is approaching us or moving away. A systematic redshifting of galactic spectral lines, obvious at a glance from the wealth of data available today, tells us the recession speed of the galaxies, either isolated or in groups, and corroborates the hypothesis that the Universe is expanding.
+
+In cosmology, it is more common to speak of redshift than distance or time. The redshift z has an advantage over the time t, insofar as it is a directly measurable quantity. The translation of z into t is model dependent.
+
+To sum up, the all-important art of spectroscopy has shown human-kind that stars are made up of the same atomic species as we find here on Earth, in our own bodies. Furthermore, it has shown us that the Universe is expanding, not the least of astronomy's achievements.
+
+Three-dimensional vision For centuries, the sole aim of astronomy was to keep up appearances, to calculate the mere countenance of the sky. This wallpaper astronomy remained in essence superficially geometric and two-dimensional. A front view of the Universe was available for observation, whilst its depth remained inaccessible, for want of a distance criterion. The Universe was just a fine cloth hung upon the celestial sphere, splendid indeed, but hardly a true representation of space. One dimension was lacking. The final revelation of the Universe's backdrop, only recently achieved, has been a long adventure.
+
+The distances of stars are today estimated by comparing appearances with reality. High above, an aeroplane seems no bigger than a swallow. We immediately deduce that the plane must be much further away than the bird. Apart from a question of scale, this is the technique used to determine the distance of a star, when it is too far away to apply the well-known parallax method. (The latter was greatly extended by the wonderful HIPPARCOS satellite.) The idea is to compare the light flux of the star with the flux it would have if it were placed at the right distance. Knowing the respective sizes of celestial objects, or else the difference in their natural brightness, we may assess their distance without confusing, for example, bright but remote stars with faint but nearby ones. A sufficient knowledge of the objects combines with observation to situate them at the correct distance.
+
+In this context, certain stars known as Cepheids vary in brightness in a rather regular way. The brightest amongst them fluctuate more slowly. By measuring their rate of variation, we may ascertain the intrinsic luminosity of these pulsing stars. The ratio of the apparent (measured) luminosity to the intrinsic luminosity is proportional to the square of the distance. This provides a way of measuring the distances to certain galaxies, even very remote ones, since Cepheids are very bright objects. One of the missions of the Hubble Space Telescope is precisely to seek out and analyse this type of star in distant galaxies.
+
+The distances to more remote galaxies, however, are obtained by measuring the redshift of their emissions. The redder their light, the further away they must be.
+
+By identifying Cepheid variables in the globular clusters which gravitate around our own Galaxy, Harlow Shapley was able to measure their distance. He thus located their common centre and found it to be a considerable distance from us. It was clear that human beings inhabit the neighbourhood of a nondescript star, very far from the centre of the Milky Way. We are not even at the heart of our own stellar republic! A second assault was thus made on human vanity, after the eviction of the Earth from the centre of the Universe.
+
+Edwin Hubble measured the distance of several Cepheids in the great Andromeda nebula and found that it was situated far beyond the globular clusters in the retinue of the Milky Way. It was then that the milky designation 'galaxy' made its entry into astronomy. The age of extragalactic astronomy had begun.
+
+Galactic astronomy had commenced, and it was like leaving the ark. Outside the mists of the Milky Way, and in all directions, uncountable numbers of starry islands could be glimpsed. The actual distances to the other island universes known today are measured in millions and billions of light-years, whereas human beings only reached out a mere light-second (300,000 km) when they set foot on the Moon. Such a tiny step and we claim to have travelled in space!
+
+Apart from all this, the whole visible Universe with its hundreds of billions of galaxies is engaged upon a uniform expansion. It is not static. The galaxies are moving apart, unless bound together by gravity as in our own Local Group of galaxies, or other clusters. The Milky Way seems to occupy the centre of the Universe. All around it, the galaxies are moving away at speeds proportional to their distance, as though the Milky Way itself were at the heart of some initiating explosion. But this is all illusion. From any vantage point in a uniformly expanding universe, we would see all other galaxies streaming away, and what is more, observing the same rule that the recession speed would be proportional to the distance. Indeed, only a uniform expansion leads to this situation, in which the world of human beings is not the centre of the Universe. For the Universe has no centre. The Earth is not at the centre of the Solar System, the Sun is not at the centre of the Galaxy, and the Galaxy is not at the centre of the Universe.
+
+Following this new Copernican revolution, far from being horrified by the remoteness of the stars and by the tremendous divergence operating across the whole Universe, astronomers set about drawing up an overview of the new paradigm and determining its structural and chemical evolution.
+
+History of the world’s structure
+
+Astronomy has a distinct advantage over other physical disciplines in that the observer is supplied with a retrospective, a kind of wing-mirror view. Light reaching us from Andromeda is witness to the state of the galaxy 2 million years ago. The huge distances involved and finite speed of light travel allow us to study the composition and behaviour of celestial objects in the distant past. In the case of extragalactic astronomy, we may thus witness galaxy evolution live, as it were. It also provides useful data for investigating the evolution of stellar populations and star formation, not to mention the conditions leading to the birth of galaxies themselves and the emergence of even larger-scale structures. A relatively new field of research has opened up, related to the improved collecting power of telescopes. This story, told by light, is now legible to us.
+
+History of the world’s content
+
+There are many obstacles to extragalactic astronomy. The main difficulty is that the very great distances involved imply extremely limited sizes and apparent luminosities. In addition, large distances mean spectral shifts from the interesting spectral region (blue) into the near infrared, which is difficult to detect. For the first time clear observational clues have been obtained concerning the formation of the first star systems. Considerable theoretical progress and much improved numerical simulation techniques have also been brought to bear. New ground-based and space-borne instruments are currently bringing in a vast harvest of data on ever more remote galaxies and supernovas. We find ourselves at a critical stage where the interaction between observation and theory is likely to open up a whole new understanding of the large-scale structure of the Universe.
+
+By endowing itself with a three-dimensional picture of the cosmos via the distance criterion, astronomy has been able to carry out an in-depth study of the Universe and hence determine something of its architecture. Once described in three dimensions and geometrised on this large scale, matter can deliver up its geographical, or rather its cosmographical, attributes. The structures that appear across the sky are a new kind of constellation: galaxies, clusters of galaxies and sheets of clusters.
+
+This world cannot be motionless. It must move if it is not to collapse. The planets revolve around the stars, whilst the stars whirl around the centre of the Galaxy. Galaxies themselves form moving swarms called clusters, and these clusters move away from one another, swept along by the expansion of the Universe. If they did not, they would simply hurl themselves together under the effect of gravity. The Universe is expanding, and it is this that saves it from collapse. Everywhere and on every scale, motions clearly oppose fall. But this mechanical world of position and movement does not satisfy the chemist, who immediately asks after its composition. To complete our picture of the world, we must flesh it out with a substance that is no longer an ether, but as concrete as bread or meat. However, this flesh is no simple thing, for it has been worked by generation after generation of stars, genuine factories for the manufacture of atomic nuclei. In addition, its composition varies from galaxy to galaxy, depending on the vitality or indolence of its stellar population. A galaxy that has transformed much of its gas in stars will be richer in heavy elements than a less active one. Only those elements fashioned in the Big Bang, like hydrogen and helium, are distributed uniformly throughout the whole observable cosmos.
+
+Having measured the world’s content, the next step is to retrace its past evolution. Time now becomes a parameter. Through the interactions they are involved in, and these depend on the prevailing physical conditions, particles are the driving force for an evolutionary structuring process that implicates time. The aim of this intellectual discipline which we call astrophysics is to try to understand the unifying features of the inventory of light and matter, visible and invisible, whose character seems so chaotic and unbounded: to discern its physical basis, consistency and wholeness.
+
+Astronomical practice Astronomy is infinitely subdivided. There are as many astronomies as colours in the visible and invisible spectra, and even more if we include the study of non-electromagnetic signals like neutrinos and gravitational waves.
+
+Notwithstanding, the astonishing diversity of astrophysical instruments should not be allowed to obscure the unity in its method. The complex filters through which we view objects in the sky always deliver the same type of message, in the form of a number. This number is a count rate, that is, a number of photons (grains of light) over a given time, in a given direction and at a given energy (wavelength). Systematically varying the gathering time and the angle and energy of the measurement, we obtain a changing table of data which we may call the observable Universe. This Universe is a table of data.
+
+The main characteristics of celestial bodies are revealed by patient study of images and spectra via a multitude of specifically designed instruments. The information gathered concerns the outward appearance of the objects, such as outline, structure and velocity, but also their more intimate features, including temperature, chemical composition and internal motions. Brought together with the help of a relatively simple and unifying theoretical model, engraved with the exquisite tool of mathematics, these features make up what we hope to be a lifelike portrait of the Universe and its components.
+
+Cosmic archives Astronomical data is archived and released in the form of images (maps and outlines) and spectra (distribution of photons as a function of their energy). Duly classified, these constitute a huge database. The problem then is to give physical and astrophysical meaning to these cosmic archives, via an interpretation within the framework of the most relevant physical theory.
+
+The quality and insight of the theoretical interpretation or model must relate to the accuracy of the observations. The secret of astrophysics resides in the balance between the refinement of the model and the level of accuracy in the data. Too crude, it is just a caricature; too sophisticated, it becomes absurd.
+
+The men and women of science, mathematicians and physicists, can be divided into two groups. There are those who like to generalise, building up a towering pyramid of knowledge and standing aloft to gaze across their edifice. But there are also those who prefer the details and seek perfection through them. These visionaries and perfectionists, driven by a deep love of science, may belong to the same research team.
+
+Whatever category they may belong to, astrophysicists set out to build, organise and interpret cosmic archives. Their purpose is to give meaning to the messages from the sky. By collecting images and spectra from a vast field of celestial objects (planets, stars, interstellar clouds, galaxies, sky background, etc.), they constitute a cosmic harvest with which to make their bread, good theoretical bread.
+
+Telescopes Prodded into action by the leaps and bounds of modern technology, the venerable astronomy has rediscovered the enthusiasm of its youth. Today, there is revolution in the air. The exponential growth of astronomical discovery in modern times can be directly correlated with the availability of new detection methods and instrumentation. The science of the sky has become an industry and the great astronomers appear as relics in a landscape completely awash with electronics and data processing.
+
+From Hipparchos to Tycho Brahe, over almost two thousand years, observation instruments remained practically unchanged – the mural quadrant, the triquetrum and the armillary sphere, heavy wooden or even stone devices the size of a man and often fixed like monuments. Glass and metal would revolutionise astronomy, as would the photographic plate and electronics.
+
+Today the contemplative and outdoor science of astronomy, pure and idealistic in its vocation, displays a disconcerting pragmatism through its wide-ranging arsenal. Urania is ready to make the best of any opportunity. She has reaped the benefits of improved navigation techniques (which thus pay back a long-standing debt, for travellers once used the stars to find their way), not to mention the development of communications, computation, sensing, logistics, electronics and ballistics (where rocketry is concerned). Indeed every branch of contemporary technology has been plundered. It follows that discoveries of cosmic significance have been made by a new engineering-style astronomer, not just in the optical region (the Hubble Space Telescope springs to mind), but across its vast complement of invisible rays in the electromagnetic spectrum.
+
+The solitary astronomer with one eye permanently held against the eyepiece of his or her telescope is an image of the past. Today, we see with computer-regulated instruments, using the new techniques of active or adaptive optics. Astronomers have built themselves huge radio dishes, and space telescopes sensitive to infrared, visible, UV, X and gamma radiation. The latter, based in space, are a kind of extraterrestrial extension of our own bodies, sensorial prosthetics as it were. A satellite-borne detector, ever vigilant, is a roving eye that never closes, seeing the invisible. It is a brain gathering data, but also a tongue, spewing out binary messages and transmitting them over great distances by telemetry. From Earth or space, information flows incessantly and the world is turned upside down: the sky is permanently lit up, shining in the invisible, without respite. The day has no end. The word ‘nocturnal’ is merely vague and poetic. No, indeed, the night is not dark, it is only our eyes that are obscure. Darkness is not absence, no more than the so-called vacuum.
+
+From the beginning of time, humankind could only admire stars similar to our own Sun, neither much hotter, nor much colder. Non-thermal processes based on high-speed particles totally escaped our gaze and the main aspects of the sky were hidden to us. But today, the solar eye has given way to a new, universal sense of sight. We no longer live in blindness among the sublime realities of the sky.
+
+One of the great revolutions of the twentieth century was therefore sensory: we extended the range of our sense of sight, thus transgressing a morphological dictate. No vision is now excluded. Humanity has finally removed its blinkers. So we have discovered that certain scenes of the cosmic show occur in the invisible. The most disturbing is perhaps this flux of chilled photons carrying over from the Big Bang, which comes to us invisible and inoffensive from the very depths of time. Cool astronomies have blossomed in the quest for red, and beyond it, infrared and millimetric radiation, whilst at the other extreme, beyond the violet, new forms of heat have been revealed to us, if indeed the notion of temperature still has meaning beyond a certain limit.
+
+Telescopes in the sky, on the ground and in the basement
+
+The air renders us insensitive to radiation from space, some forms of which are lethal, rather like a skin-protecting cream. At the same time it acts as a censor with regard to the astronomical information carried by that radiation. There is no choice therefore but to break out from the cocoon, to rise above the atmosphere by means of stratospheric balloons, rockets and satellites. With its airborne and space-borne telescopes, the whole planet Earth is turned towards the Universe, its eye emerging from the air like a bather from the sea. However, the sky is not the only arena of modern astronomy. Telescopes are also flourishing in the basement and continue to prosper on high mountaintops.
+
+Running in parallel to spectacular space-based astronomy, optical telescopes and radiotelescopes have progressed in a quite breathtaking manner thanks to the new techniques of interferometry and active and adaptive optics. Telescopes perched on mountain peaks, such as the CFHT (Canada–France–Hawaii Telescope) and Keck on Mauna Kea in Hawaii and the VLT on Cerro Paranal in Chile, and radiotelescopes set out like windmills in Puerto Rico, Sologne (in the French Alps), The Netherlands and Spain, gather photons able to cross the layers of the atmosphere without major alteration, whilst spectrographs then dissect the radiation into its finest detail.
+
+Neutrinos have inspired a very special kind of astronomy, since detectors are constructed underground. A new species of cave-dwelling astronomer waits down a disused gold mine or other such subterranean retreat in the hope that a handful of these elusive particles will fall into the fabulous traps they have laid out. From time to time, one among the billions of passing neutrinos will be ensnared in an enormous chlorine, gallium or water detector. For the neutrinos pass through rock as we move through air.
+
+These same physicist-astronomers, today called astroparticle physicists, are currently setting up and fine-tuning traps for neutralinos, hypothesised particles of dark matter. These are just as subtle as neutrinos, but much rarer and much more massive. For the moment, the search has been fruitless, but patience is a virtue in the hunt for the invisible.
+
+Another new style of astronomer is interested in gravity in its most fundamental form. They are at present working on huge interferometers which should detect gravitational waves, induced by distortions and deformations in the elastic fabric of space–time itself, and even harder to lay a hand on than the neutrinos and neutralinos. Still other astronomers are working on high-precision satellites to investigate the finer predictions of general relativity, a huge project with many partners, including the French space agency CNES (Centre National d’Etudes Spatiales).
+
+Astronomy of the senses: images and spectra
+
+Depending on the type of detector pointed at the sky and the wavelength region to which it is sensitive, the objects revealed may exhibit different levels of energy and violence.
+
+1.  Cold and soft: radio, microwave and infrared radiation. Telescopes sensitive to the gentle radiation of the infrared unveil some of the more tender scenes in space, such as cloud formation and the birth of stars. They also show us the ancient and icy cosmological background which carries in its anisotropies the imprint of all future galaxies in their larval state, like a watermark; or again, the glittering clouds between the stars, full of dark chemistry, and dwarf or aborted stars that shine cold.
+
+2. Temperate and calm: the visible spectrum. For the main part, visible stars are passing through a mature and gentle phase. Like the Sun, most lie on the main sequence of the HR diagram, slowly burning hydrogen in their core. Healthy stars lead a balanced lifestyle, with stable, long-lasting, visible emissions, like our own Sun. The optical sky is a picture of calm and stability. Indeed, it gives a misleading impression of peaceful tranquility. From time to time, it does happen that a ‘new’ star may come to disturb this glassy surface, for a few moments. But in reality, it is often just the last cry of a star that is leaving the worthy company. Star explosions show up by the intense light they release in the visible.
+
+3. Scorching and violent: UV and X radiation. The UV is the ideal spectral region for viewing astronomical objects that have been heated to several tens of thousands of degrees. Curiously enough, intense UV sources include both the very hottest and the very coldest stars. The bright emissions of hot stars seem perfectly natural, since hot objects radiate at short wavelengths. We see not only massive and hot stars, but also white dwarfs, which died blanched and beautiful, lustrous remains of past suns, and cold stars endowed with sufficiently hot coronas and chromospheres to manifest themselves through UV emissions, rather like our own Sun.
+
+Some of the more common chemical elements such as carbon and oxygen emit readily in this range of the spectrum. In this way, the Milky Way informs us of the content of its stars and gases.
+
+Still shorter wavelengths produced in even hotter media are more penetrating, to such an extent that X-ray astronomers may claim to see the whole galaxy. In fact, the X-ray galaxy bears little resemblance to the visible galaxy. The main sources are quite monstrous pairs of stars. One normal star, in the main sequence or red giant branch, is torn apart by a neutron star, a genuine stellar corpse, which gradually gobbles down its fleshy partner. Before swallowing the next meal, it heats it up until it gives off X rays. Certain binary systems containing a white dwarf also emit in this wavelength range, but in a more modest way.
+
+A diffuse X-ray background is perceived between these brilliant sources. It comes for the greater part from remote regions outside our Galaxy, probably quasars and other active galaxies. Added to these more distant emissions is a galactic component emitted by the hotter interstellar gases, in particular, those of the local superbubble, a hot enclave containing the Sun and its planets.
+
+The brightest X-ray nebulas are the remnants of supernova explosions. The ejecta are thrown out so forcefully that the collision with neighbouring interstellar gases produces temperatures of several million degrees. This is sufficient to emit photons in the keV range. It is no surprise that most X-ray binaries and supernova remnants should be located in the galactic disk.
+
+Astronomy’s new eyes carry codenames like HST (Hubble Space Telescope), XMM (X-ray Multi-Mirror) and GRO (Gamma-Ray Observatory). Each wavelength region has its own squadron, extended by future spacecraft that take us ever further towards sensitivity and detailed analysis of images and spectra.
+
+Let us begin with optical astronomy, perhaps the most familiar to us. The big question today is: should it be developed in space or on the ground? Or is there scope for a complementary development in both arenas? When it comes to removing the perturbing effects of the atmosphere, astronomers can be divided into two positions. There are those advocating an Earth-based campaign, whose weapons include interferometry and adaptive optics. And there are those in favour of a space-born strategy who, in connection with the world’s space agencies, fearlessly propose to launch the very telescopes that seem best suited to a firm anchorage on the ground, the radio telescopes, promoting the development of a genuine space-based interferometry. The discussion centres around the question of value for money. Some rudiments of observational astronomy are needed to follow the debate.
+
+The key word in astronomy today is spectro-imaging. The combination of spectrum and image allows astronomers to deduce valuable information about objects under investigation, such as chemical composition, temperature, internal constitution and motion, or even the distance to the object.
+
+Imaging a source means discerning its fine spatial structure or low intensity details that could not be detected without high-resolution telescopes. For example, it may consist in resolving the stars in another galaxy in order to study their individual features.
+
+Producing a spectrum means identifying as many emission and absorption lines as possible in the light signal in order to extract, in particular, the chemical composition of the emitting object.
+
+Having defined the aim, let us return to the question of observing equipment. The purpose of the astronomical telescope is to gather light from celestial bodies and to focus it. This light is then dissected by means of a dispersive tool such as a prism or diffraction grating placed at the focus of the telescope. Signals are recorded by extremely sensitive electronic detectors called CCDs (charge-coupled devices).
+
+The quality of a telescope is gauged by its performance relative to three criteria: (sensitivity – ability to see faint objects; (spatial resolution – ability to distinguish objects at small angles of separation; (spectral resolution – ability to distinguish spectral features at small wavelength separation.
+
+Sensitivity is directly related to gathering po that is, considering the telescope as a kind of giant photon funnel, sensitivity is proportional to the area of its mirrors, which focus the light.
+
+In the absence of atmospheric effects, the theoretical spatial resolution of a telescope is inversely proportional to its diameter and proportional to the wavelength of the radiation. An 8-m telescope, such as one of the four components of the VLT, has resolution 0.014 seconds of arc in yellow light, but only 1.3 minutes of arc at wavelength 3 mm. This explains why radio astronomy requires such enormous collecting areas.
+
+Deviations of the collecting surface from an ideal parabola must not exceed a tiny fraction of the shortest wavelength to be analysed. Grinding and polishing are the bread and butter of optical astronomy.
+
+When telescopes are connected together in interferometric mode, the resolution of a network is given by the wavelength of observation divided by the baseline, the latter being the maximal distance separating two collectors. By cleverly coupling these collecting units, it thus becomes possible to emulate a single giant instrument whose diameter would be equal to the maximal separation of two components. However, the sensitivity of the interferometer remains inferior to that of the giant simulated telescope.
+
+Developments have been so phenomenal in the field of ground-based astronomy that this alone has induced a genuine transformation both in the techniques used and in the way of thinking. The ESO (European Southern Observatory) has been the driving force in developing new technologies known as active and adaptive optics that have brought ground-based telescopes back into the league of their space-borne counterparts.
+
+Active optics involves adjusting the mirrors in real time in such a way that they maintain their optimal position and shape at any moment, independently of the direction in which the telescope is pointing. If the image deteriorates in any way, correcting signals are sent to the computer-controlled mirror and it immediately readjusts the optical elements by means of electromechanical active supports.
+
+Adaptive optics is designed to correct distortion produced when the light from a celestial body encounters turbulence in the Earth’s atmosphere. A correcting mirror placed on the light path continually changes shape in such a way as to wipe out the effects of atmospheric perturbation. The quality of the image becomes almost as good as if the telescope were in space. In parallel with the development of telescopes themselves, detection instrumentation has also leapt ahead. Today, the best detectors attain almost 100% efficiency in transforming collected light into electrical signals.
+
+Given their complexity and cost, the main projects require huge teams of people. This marks an important sociological change. From this point of view, astronomy has come into line with particle physics, which enlists armies of research scientists and technicians to realise projects of gargantuan proportions. Until quite recently, technical effort focussed largely on construction, but today, equal emphasis is put on the mode of operation of the very large telescopes, as well as their scientific and technical management.
+
+We are now in a position to sketch a brief recent history of astronomy, concentrating on the mainly spectroscopic concerns and highlighting the very real dialectic that has sprung up between Earth- and space-based astronomy, between Europe and the rest of the world.
+
+Large monolithic mirrors continue to catch attention. At the same time, other solutions have been envisaged. Although it has been reserved until recently for longer wavelengths, interferometry is now applied to visible light. Active (i.e. self-correcting) and even adaptive optical systems have been set up on all existing telescopes. Very often, these installations have seen improved image quality and control systems. New approaches to extremely large telescopes are currently taking shape. Progress is impressive and the images obtained quite dazzling (see for example the splendid collection of images of galaxies and nebulas produced by the HST and the VLT).
+
+Optical telescopes with 4 m diameter which had blossomed in many of the world’s deserts have now been superseded by the space telescope and 8-m or 10-m telescopes on dry mountain peaks. These giants with their penetrating eye and minuscule field of view are mainly devoted to spectroscopy.
+
+The VLT, centrepiece of the ESO, promises an exceptional harvest of astronomical data. Understanding the chemical evolution of the Universe requires a coordinated study of the most remote objects, ancient stars in the galactic halo and absorbent clouds in the line of sight of quasars. To this end, the high-resolution spectrograph UVES (UltraViolet Echelle Spectrograph) was set at one focus of Kueyen, one of the four components of the VLT, perched at the top of Cerro Paranal in Chile. Kueyen–UVES is the best spectrograph–telescope combination of its generation. It will be principally devoted to determining the abundance of a range of critical elements in the atmosphere of stars in our own Galaxy and nearby galaxies. It will also be possible to conduct a mini-tomography of the absorbent interstellar and intergalactic media out to a redshift of z = 2.1.
+
+American astronomy holds several trump cards. Until recently, its great optical telescopes, the HST and the twin telescopes Keck I and II set up on Mauna Kea In Hawaii, reigned imperially over the visible and near UV sky. Although the European VLT has largely counterbalanced this domination, the USA is ready to step into the lead once more.
+
+Quite apart from its Gemini telescopes representing state-of-the-art ground-based astronomy, the USA is preparing the formidable NGST (New Generation Space Telescope). With a satellite-borne mirror 6 m to 9 m in diameter, it combines a large gathering power with the advantages of viewing from outside the Earth’s atmosphere. It will be an excellent tool for viewing in the near infrared for its optics and detector systems will be cooled. However, in order to maintain certain parts of the instrument at low temperatures, it will have to follow a particularly high orbit. This excludes any possibility of in-flight repairs or maintenance by astronauts brought out aboard the space shuttle, a considerable risk when we recall that the HST owes a great deal of its acuity to such post-launch interventions. However, the stakes are high, since this descent towards the red end of the spectrum will allow the new telescope to probe the Universe more deeply than its predecessor. Indeed, it will be able to study with great accuracy the redshifted light of remote extragalactic sources.
+
+As its name suggests, the NGST is indeed designed to supersede the HST. The new space telescope will go into service in 2003. The US space agency has been pursuing feasibility studies since 1996 and this project is a key element in NASA’s ambitious long-term Origins programme, counterpart to the European Space Agency’s own Horizon 2000 and Horizon 2000-plus programmes.
+
+Optimised for the 1–5 µm wavelength range with extensions into the visible (0.5 µm) and infrared (30 µm), this great winged giant should restore supremacy to the astronomy of the new continent. It is wise to accept the fact and encourage transatlantic cooperation.
+
+NASA has formally invited its European counterpart to work on a continuation of the HST and the ESA has accepted. This in no way compromises its own cryostatic project, FIRST (the Far InfraRed Space Telescope). Designed to supersede the highly successful ISO (Infrared Space Observatory), this new space observatory will probe the Universe in the far infrared and submillimetre ranges. It should be recalled that the ESA contributed some 15% of the costs of the HST, something which is often forgotten. For its part, NASA will be involved with FIRST, thus perpetuating cross-Atlantic ties in astronomy. The far infrared and submillimetre ranges cover the brighter emission lines of the interstellar medium. This should allow detailed studies of its composition, both in the Milky Way and in other galaxies.
+
+The observational astrochemistry of gas and dust will become an important tool for understanding these cold environments and through them, the stellar/interstellar cycle. It will also help us to understand how stars form and evolve. Almost all stages in the transformation of gases into stars will be accessible to analysis by FIRST: the appearance of dense globules in interstellar clouds, cooling and freezing, formation of disks around protostars, coagulation of dusts and formation of planetesimals.1
+
+In the longer term, ALMA (the Atacama Large Millimetre Array) will take over from FIRST. This will be a huge network of 96 radio dishes extending over an area of 10000 m2. Its detectors will cover the frequency band from 70 to 950 GHz. Sponsored by Europe, the United States and Japan, ALMA will be built at an altitude of 5000 m on the Atacama plateau in Chile.
+
+Beyond the violet, France is present in all areas of astrophysics, from UV through X to gamma rays. Just mentioning the main items devoted to spectroscopy, France is involved in the satellites FUSE, XMM and INTEGRAL. FUSE (Far Ultraviolet Space Explorer) combs the sky in search of the spectra of hot bright background objects (quasars and stars) modified by absorption lines due to interposed clouds (both extragalactic and interstellar). Its main prey is deuterium, an atom of major cosmological significance. It should also establish a detailed breakdown of interstellar gases. FUSE is a NASA project with French participation.2
+
+Newton–XMM is an X-ray telescope equipped with a set of nested mirrors designed to focus grazing-incidence X rays, a configuration which explains the name X-ray Multi-Mirror. It is an ESA project and was launched by Ariane 5 in December 1999. It opens a window onto the ultrahightemperature Universe with its explosions and stars ripped apart by black holes. Its spectroscopic targets are supernova remnants and the gases that fill clusters of galaxies.
+
+In the hot X-ray region, the American observatory Chandra–AXAF will be a serious rival for XMM. It has better spatial resolution due to its exceptionally smooth mirrors, but lower sensitivity because of a lower collecting area.3 Japanese astronomy is also very present at these wavelengths.
+
+Curie–INTEGRAL will reveal some of the secrets of nuclear and radioactive processes in the Universe, carrying on from NASA’s worthy CGRO (Compton Gamma-Ray Observatory). The new observatory, measuring 9 m in length and equipped with gamma-ray imaging and spectrometry instruments, was placed in orbit by a R
+
+1 Laurent Vigroux, the head of the astrophysics department at the CEA, is one of the most active proponents of the FIRST project.
+
+2 Alfred Vidal-Madjar of the Paris Astrophysics Institute is one of the main protagonists.
+
+3 Monique Arnaud of the CEA in France is the lynchpin of XMM operations in France.
+
+A new Russian Proton rocket at the end of 2002. It will scour the sky for nuclear gamma-ray lines, clues to the existence of radioactivity and hence recent nucleosynthesis. It will also map radioactive sources across the Galaxy and, when the opportunity arises, it will analyse gamma emissions from supernovas and novas.
+
+As gamma rays pay no heed to lenses and mirrors, INTEGRAL is a rather special telescope, resembling rather a nuclear physics installation than an astronomical instrument. As a result, its resolving power will be much lower than that of an optical, UV or X-ray telescope. The identification of gamma sources will thus require support from more conventional forms of astronomy. INTEGRAL is an ESA project.
+
+A new era of European supremacy will open up in the domain of nuclear gamma astronomy, for no large-scale project has been proposed across the Atlantic to take up where the CGRO observatory left off. Let us hope that European science will make the most of this boon.4
+
+Universal sight
+
+UV, X-ray and gamma-ray observatories are all space-borne because these wavelengths are blocked by the Earth's atmosphere. And what could be more natural than to place eyes in orbits! But who sent them up there and why? Astrophysicists are no longer naive when it comes to the relationship between the tools of military surveillance and those of astronomy. And this is not a recent invention. Galileo himself offered his refracting telescope to the delighted dignitaries of the Venetian senate in order to draw attention to its military potential. His salary was immediately doubled and he was appointed professor at the University of Padua!
+
+The science of the sky has been transformed beyond recognition by technological and scientific progress, particularly when it comes to space-based astronomy. With our hypertrophied sense of sight, in the form of myriads of electronic extensions, the astronomer is able to explore a deep and real sky.
+
+Our solar eye has given way to universal sight. This art no longer consists of one colour, but of a combination of all colours, be they visible (red, yellow, green, blue, violet) or invisible (radio, microwave, infrared, UV, X-ray and gamma-ray). Between radio and gamma wavelengths, a whole bestiary of luminous phenomena attests to the varying relationship between atoms from one place to another, at different epochs across the Universe. The new astronomer holds out a mirror which reflects all the gentleness or violence of the world.
+
+The choice of visible or invisible colours, i.e. the range of wavelengths, in which an object or class of objects will be observed, is carefully premeditated. Pointing an infrared telescope towards an interstellar cloud, seeking out this gentle radiation, so red that it cannot be seen, the astronomer becomes sensitive to star birth, or emissions from newborn stars letting out their first cry of light from a dusty and cloudy placenta.
+
+Light sifted by dust takes on an infrared tinge. The ancient chilled background radiation of the Universe, the glittering clouds that float between the stars, plying such complex chemistry in their dark confines, cold stars, dwarf or aborted, that shine frostily: all these things can be spied upon by their infrared or millimetre radiation.
+
+For each star that shines, there are a certain number that remain hidden, masked by a veil of dust. Observing the Universe in submillimetre waves, where the heated dust shines at its brightest, it has been possible to show that in the young Universe, stars were born at a rate about five times greater than was suggested by observations in the visible.
+
+The millimetre (microwave) radiation usually referred to as the cosmic background radiation (CBR) was scrutinised to great effect by the COBE (Cosmic Background Explorer) satellite. This background is witness to the state of matter some 300,000 years after the Big Bang. Its characteristic temperature today is 2.735 K on the absolute temperature scale. This perfectly thermal radiation was released when the Universe ceased to be opaque to its own light emissions, just at the moment when matter decoupled from light, thus allowing structure to develop. This was very likely the time when the future architecture of the cosmos was decided. The folds of the cosmic drapery wrapped around the Big Bang suggest that the shape of the galaxies arose from an undifferentiated amalgam of matter and light. Generations of astronomers have been spurred on by the desire to understand how galaxies formed and evolved. It may be that this quest will soon be accomplished.
+
+Armed with a gamma telescope, to pick out this emissary of violence, the astronomer can show us the regenerating explosions that shake the cosmos. Each object has its eye, each eye its object. The refracting telescope reached out to the Moon, whilst the gamma telescope beholds the explosion of stars.
+
+A continuous flow of data falls from the sky like a fountain, into the open mouths of satellites like FUSE, Chandra and XMM. An enigmatic portrait of cosmic violence is being painted in our understanding of nature, peopled by supernovas, neutron stars, black holes and stellar corpses, telling of death and the life beyond it. For the panchromatic astronomy of the invisible, the sky is literally exp...
+
+loading upon our understanding.
+
+Contents of the sky: atomic sources and fountains
+
+Nothing exists except atoms and empty space. Everything else is opinion.
+
+Democritus
+
+Glossary abundance quantity of a given element relative to the quantity of hydrogen astration star formation asymptotic giant branch region of the HR diagram in which red giants reach the end of their evolution baryon heavy particle, such as a proton or neutron carbon fusion production of neon, magnesium and aluminium chondrule meteorite inclusion electron light, negatively charged particles revolving around atomic nuclei helium fusion conversion of helium to carbon, oxygen, etc hydrogen fusion nuclear conversion of hydrogen to helium isotope particular atomic nucleus defined by the number N of neutrons it contains metallicity quantity of elements with atomic number higher than helium in one gram of the relevant sample oxygen fusion production of nuclei between oxygen and silicon photon particle of light photosphere region around a star from which light is finally released pprocess production of rare, proton-rich species proton electrically positive particle making up atomic nuclei protosolar cloud interstellar cloud from which the Sun was born rprocess production of nuclei above iron involving rapid neutron capture silicon fusion production of nuclei between silicon and zinc spallation shattering of nuclei under the effect of violent collisions sprocess production of nuclei above iron involving slow neutron capture
+
+Sources of the elements In the eighteenth and nineteenth centuries, chemists had so successfully isolated the elements that John Dalton was able to put together a genuine atomic theory. Dmitri Mendeleyev organised the elements into his periodic table, the culmination of scientific elegance.
+
+Confirming the idea of atomic structure, J.J. Thomson discovered the electron and Ernest Rutherford the atomic nucleus. When the nucleus was broken, Rutherford succeeded in distinguishing the proton, whilst James Chadwick identified the neutron. J.J. Thomson and his son G.P. Thomson each received the Nobel prize, the first for showing that the electron is a particle and the second for showing that it sometimes behaves as a wave. The discovery in France of natural radioactivity opened the way to the prospect of spontaneous transmutation. In doing so, it also demonstrated that the elements of the periodic table are not eternal. Pauli hypothesised the existence of the neutrino and it was discovered twenty years later. In the meantime, quantum physics had taken a firm hold of the atom and its nucleus, which became its favoured plaything. Nothing relating to the microcosmos escaped its notice or evaded explanation by the new theory.
+
+Today, physical chemistry has accomplished its great task of elucidating the microcosmos. The existence, properties and combinatory rules for atoms have been firmly established. The problem now is to work out where they came from. Their source clearly lies outside the Earth, for spontaneous (cold) fusion does not occur on our planet, whereas radioactive transmutation (breakup or decay), e.g. the decay of uranium to lead, is well known to nuclear geologists. The task of nuclear astrophysics is to determine where and how each species of atomic nucleus (or isotope) is produced beyond the confines of the Earth.
+
+This raises the burning question: starting out from a simple substance (not to say elementary) made up of photons, electrons, neutrinos, neutrons and protons, what mechanisms exist for synthesising the many and varied nuclei to be found in nature? This in turn raises the question: where and when did these processes take place, and how do they fit together chronologically as the Universe has evolved?
+
+Working with this quintet of particles, symbolically denoted γ, e, ν, n and p, nature built up all the elements in the periodic table, conferring their distinctive chemical properties upon them. They then formed simple molecules like water (H₂O) and carbon monoxide (CO), and more complex carbon-bearing molecules that would eventually allow life to appear on Earth. In the end, DNA is just a particularly fortunate arrangement of electrons, protons and neutrons.
+
+Spectral analysis shows quite clearly that the various types of atoms are exactly the same on Earth as in the sky, in my own hand or in the hand of Orion. Stars are material objects, in the baryonic sense of the term. All astrophysical objects, apart from a noteworthy fraction of the dark-matter haloes, all stars and gaseous clouds are undoubtedly composed of atoms. However, the relative proportions of these atoms vary from one place to another. The term ‘abundance’ is traditionally used to describe the quantity of a particular element relative to the quantity of hydrogen. Apart from this purely astronomical definition, the global criterion of metallicity has been defined with a view to chemical differentiation of various media. Astronomers abuse the term ‘metal’ by applying it to all elements heavier than helium. They reserve the letter Z for the mass fraction of elements above helium in a given sample, i.e. the percentage of ‘metals’ by mass contained in 1 g of the matter under consideration. (Note that the same symbol is used for the atomic number, i.e. the number of protons in the nucleus. The context should distinguish which is intended.)
+
+In order to determine which processes nature uses to produce the various atoms, it was first necessary to establish the overall chemical composition of our own reference star, the Sun, moving on then to the other stars in order to classify them within the stellar hierarchy of masses and ages. It is indeed edifying to compare the compositions of various categories of stars of different ages. Each star reveals its composition at birth etched onto its luminous outer layers, and this is the very constitution of the interstellar medium from which the star originated. By this method, groups, populations and companies of stars begin to stand apart. Fruitful comparisons between astronomical objects (viz. the stars) of similar nature but different generations are then possible. This in turn should allow us to elaborate an evolutionary theory of truly galactic, or even cosmic proportions.
+
+The Galaxy The chemical evolution of the Cosmos is by now an undeniably reality, clearly demonstrated on a more modest scale by careful studies of our own Galaxy. Indeed, considering the Milky Way and its retinue of nearby galaxies, different populations arise that can be classified as metal-rich, metal-poor or average. Having calculated the age of each group of stars, we may read off the indicators for the chemical evolution of galactic gases as a whole. A significant part of the metal-poor stars are huddled together in the globular clusters, a kind of gathering of old stars that formed right at the beginning of our Galaxy’s history. These dense congregations of stars revolve around the bright disk of our Galaxy. The ages of globular cluster members can be determined from their positions on the temperature–luminosity diagram (the Hertzsprung–Russell diagram discussed earlier). In fact the most elderly among them are at least 12 to 14 billion years old. They have never left their place of birth, held together as they are by the bonds of gravity. These old ladies still shine with a certain lustre. When their light is analysed, we find that they are not only old, but have little personal wealth. Indeed, they reveal a considerable deficiency in metals. The poorest of the poor among them possess less than one ten-thousandth of the Sun’s metallic fortune.
+
+They carry the stamp of the Big Bang, whence their great interest for cosmology. Their lithium content in particular is a precious clue as to the nucleonic density of the Universe, combined with deuterium and helium abundances measured in extremely metal-poor media (see Appendix 1).
+
+The first major observation is thus that the Sun is a rich star compared with the ancient stars in the galactic halo, placed like a crown around the Milky Way, but that its composition is close to that of the stars in the disk where it itself resides. Our daytime star therefore belongs to the wealthy fellowship of the disk. Whereas the halo is almost completely devoid of gases, the disk abounds in them.
+
+The metal deficiency of the oldest stars clearly suggests that, through generation after generation of stars, the Galaxy has continually built up its hoard of heavy elements, those so crucial for the formation of life. Hence the accumulation of metals in the Galaxy, as in every other galaxy, is a gradual process. Here then is the theme that we shall promote and develop throughout this book, that it is indeed the stars that have toiled to improve the rich variety of elements present in the Galaxy today.
+
+The Sun Coming back to our worthy Sun, the relative proportions of the various chemical elements in its atmosphere are determined by analysing the spectrum of its photosphere, a spherical envelope from which visible light is finally emitted by the Sun. The composition of its inner regions, in particular the core, in a turmoil of nuclear transmutation, cannot be measured directly. It is only accessible by calculation.
+
+According to models of the internal structure of the Sun to be considered later, we may consider that the observable outer layers are in no way contaminated by nuclear reactions, the latter being confined to the central region. Only the extraordinarily fragile lithium seems to be modified there. It is carried to the surface by convection currents in the tremendous agitation of matter, from depths where the temperature is high enough to cause significant degradation. But apart from this exception, we may consider the composition of the Sun’s luminous outer region to be the same as that of the cloud from which it formed some 4.6 billion years ago. Like the meteorites, its surface thus comprises the same mix as the protosolar cloud that gave birth to the Sun, the Earth and the planets.
+
+By its great mass, the Sun constitutes the major part of the Solar System. In this sense, it is more representative than the planets, which have been the scene of intensive chemical fractionation. The composition of the solar photosphere can thus be compared with the contents of meteorites, stones that fall from the sky, a second source of information on the composition of the protosolar cloud, provided that volatile elements such as hydrogen, helium, carbon, nitrogen, oxygen and neon are excluded. Indeed, the latter cannot be gravitationally bound to such small masses as meteorites and tend to escape into space over the long period since their formation.
+
+The carbonaceous chondrites, which constitute a tiny proportion of the matter within the Solar System, do conserve within them the original composition of the Sola The System. If we exclude the volatile elements mentioned above, these rare meteorites have hardly been affected by the subsequent metamorphism of our planetary system.
+
+Agreement between the two sources of information is excellent. Moreover, laboratory analysis of meteorites can determine the isotopic composition of matter making up the Solar System, an invaluable piece of data for those intent on understanding the origin and evolution of atomic nuclei.
+
+We thus arrive at the following composition for the ancestral cloud that spawned the Solar System: in 1 gram of matter, we find 0.72 g of hydrogen, 0.26 g of helium and 0.02 g of heavier elements. Despite the superb efforts of past generations of stars, the Sun, like its nebulous father, is singularly poor in metals, since these make up a mere 2% mass fraction of its matter. This, however, is a small fortune compared with the ancient stars in the galactic halo.
+
+The Sun does not contain more than 2% of heavy elements (by mass). This meagre total has nevertheless sufficed to engender and perpetuate life and consciousness, as we may deduce from our own existence and the composition of our star. But since the birth of the Sun 4.6 billion years ago, the stars have not laid down their tools. What will life and consciousness be like when they reach 3%, or 10%?
+
+In truth, the question does not even arise. By reference to the iron levels in stars of different ages across the galactic disk, it seems that the metal content has reached a ceiling. We cannot therefore expect any great increase in metals and minerals in the future interstellar medium, and this for a very simple reason: the gas from which the stars form is gradually being used up (see Appendix 5). In our own galactic neighbourhood, it comprises only about 10% of the mass of the disk. All the rest is in stars. The Galaxy seems to be somewhat out of breath.
+
+Chemical evolution is thus coming to an end, even if here and there we may observe a dazzling flash, reminiscent of the old glory. Indicators of recent nucleosynthesis have been provided by observations of radioactivity in the galactic disk. Detection of the gamma-ray line at energy 1809 keV emitted when aluminium-26 decays in different directions has made it possible to draw up a map of the galaxy. This is a radioactive nuclide with a decay time of around 1 million years, no more than a split second compared with the age of the galactic disk (some 10 billion years). In this sense then, we have been able to catch nucleosynthesis in the act, as it were, studying with great accuracy the mechanisms that lead to the formation of aluminium-26. The challenge was to understand how this isotope could be produced by stars and ejected into the interstellar medium before it decays, that is, in under 1 million years. It would appear that its main source is in the supermassive Wolf–Rayet stars which blast material away in a tremendous stellar wind, and also in supernovas, the apotheosis of the stellar condition. Everywhere we look, we find the same pattern: stars and atoms, and atoms in stars.
+
+Cosmological clouds
+
+Stars are not the only source of information concerning chemical complexification of matter through the ages. Clouds floating between the stars (interstellar) or between galaxies (intergalactic) selectively absorb certain notes of light and are thus susceptible to spectroscopic analysis. The variation in composition of cosmic clouds as a function of their redshift (which is a measure of their distance in space as well as in time) provides a prime source of information concerning the chemical evolution of the cosmos.
+
+It is thus crucial to build up an inventory of metal contents at different epochs throughout the evolution of the Universe and everywhere across the Universe. This includes remote galaxies and also the great absorbing clouds on the line of sight to quasars, which serve as genuine cosmic beacons. One aspect of the current endeavour to trace back the large-scale history of the Universe is to determine the rate of growth of the metallicity Z as a function of time, or rather the star formation (astration) rate, and its variation as time goes by. For it is no secret: stars are the mother of metals.
+
+The motivation is the same as that which launched spectroscopy in such a spectacular way over the past thirty years, that is, to test the theory of nucleosynthesis and the chemical evolution of galaxies. Cosmologists are delighted to point out that today we may assess chemical abundances in the remote Universe by pure observation, whereas ten years ago, such a feat remained out of reach.
+
+We owe the present rich harvest of observations to a whole new generation of astronomical instruments deployed around the Earth or on its surface. Giant telescopes equipped with 8-m or 10-m mirrors (VLT and Keck) are gradually replacing 4-m telescopes, such as the outstanding CFHT. The future is likely to be no less brilliant with Gemini and the New Generation Space Telescope in the offing.
+
+For its part, the VLT is Europe’s window on to the Universe. Data from other galaxies and extragalactic clouds are raining in like a spring shower and the cosmic archives are hastily being reorganised. Astronomers who for many years had grown accustomed to measuring abundances in stars and nearby galaxies are sometimes disconcerted by the diversity of the measurements and the occasionally unexpected nature of the results. But patience! We are just beginning the chemical inventory of the Universe.
+
+eUniverse. Abundance measurements at high redshifts complement compositional studies of stars in our own Galaxy. These new measurements are like samples taken from different cosmic epochs. As we might have expected, they show an overall trend towards metal enrichment. However, the data are as yet fragmentary and fitful (see Chapter 8).
+
+Exegesis of the abundance table
+
+Let us return for a moment to more modest proportions. Indeed, let us return to the fold, to the friendly confines of the Sun, or more intimately still, to our fathering protosolar cloud. Today we possess an abundance table of elements and isotopes characterising our local galactic environment, viz. the Solar System. We may draw several lessons from this document, a kind of Rosetta stone of nuclear astrophysics. A knowledge of the basic ingredients of the Universe serves to test and constrain one of the most fundamental theories of astrophysics, namely, the theory whereby the elements are nucleosynthesised by stars, supernovas, the Big Bang and galactic cosmic rays.
+
+An economic and biological standpoint
+
+Our task will be to give a general astrophysical meaning to these columns of numbers, to read the cosmic message they may contain, and then to proceed to a critical interpretation of this primordial diagram. But first let us approach it from a more human standpoint, indeed from a metallurgical point of view. The jeweller knows full well why gold, with atomic number 79, is so precious. It is costly because it is rare. In fact, the Universe seems to have had great trouble in producing it. On further examination, we find that it is only synthesised in the innermost layers of supernovas, where iron is transmuted under an extremely intense flux of neutrons. In contrast, iron peaks on the abundance table. The effect is too pronounced to be a chance effect. Indeed, iron stands apart in having the highest binding energy of all nuclei in creation, as any nuclear physicist will tell you. In the nuclear aristocracy, the highest place is held by this rather modest-looking metal and its kin, dreadnought nuclei able to resist the highest temperatures. The king of nuclear creation is therefore iron and the role of the stars is to pave the way to its long reign. Shall we proclaim it in the streets? The stars produce these favoured nuclei in their fiery depths. But do they not then seize them like hostages for subsequent destruction? Is the king not held prisoner? Has there not been sufficient time to achieve nuclear perfection? These questions demand an answer. Our chemical environment imposes constraints which can be summed up by Fred Hoyle’s three rules: 1.  Any material used in large quantities by the human species must be made up of elements that are extremely abundant in the Universe.
+
+2.  Less abundant elements may have economic importance, provided that their use is restricted to technologically advanced items in which small quantities of materials with very specific properties play the key role.
+
+3.  Elements with extremely low abundance can also be important economically if they are sources of nuclear energy, because the energy yield from nuclear processes is a million times greater than from chemical processes.
+
+A cosmic and mathematical standpoint
+
+Fig. 4.1. Abundance table of elements in the Solar System. The main features of the abundance distribution are as follows: (1) the hydrogen (Z =1) peak, shouldered by helium (Z =2); the precipitous gorge separating helium and carbon (Z =6); (3) the continuous decrease from the carbon region, i.e. from oxygen (Z = 6–8), to calcium (Z = 20); (4) the scandium (Z = 21) valley followed by the iron (Z =26) peak; (5) the sawtooth landscape sloping gently down towards the small platinum (Z =78) and lead (Z =82) rises; (6) the flatlands of thorium (Z =90) and uranium (Z =92).
+
+From the standpoint of the biologist, the atoms of life, carbon, nitrogen and oxygen, are strongly represented in the table. As we said before, this is true throughout the Galaxy. The ingredients of life are amongst the most equally apportioned in the world (the Universe). There remains one burning question: what nature has done here on Earth, has it not done the same for others elsewhere in the Galaxy? The atoms of life are not limited to the Solar System. They are to be found scattered across the whole galactic disk. What is more, most of the stars in the disk have much the same composition as the Sun. The same proportions of carbon, nitrogen, oxygen, phosphorus, iron and so on prevail throughout the plane of the Galaxy. In fact it seems that the overall metallicity grows as we approach the galactic centre. The question is there, but we shall leave the answer to others.2
+
+A cosmic and mathematical standpoint
+
+Moving away from the terrestrial and anthropological context, it is immediately clear from the graph in Fig. 4.1 that hydrogen (Z =1) and helium (Z =2) are by far the commonest elements, followed by oxygen (Z =8), carbon (Z =6) and nitrogen (Z =7). For every 1000 atoms of hydrogen, there are 100 atoms of helium and about one atom of oxygen. Hydrogen comes from the Big Bang and oxygen from the stars, whilst helium is of mixed origins, although a large component is primordial. Leading astrophysicis
+
+--- 2 It seems to me that Jean Schneider and co-workers are among those who have most fruitfully tackled this question, at least in France.
+
+弗雷德·霍伊尔和威廉·福勒毕生致力于解决双重谜题：元素的起源，以及组装原子核的恒星与超新星的本质。福勒着迷于极其微小的事物，着迷于核物理及其在解释恒星能量生产以及制造新同位素中的作用。霍伊尔当然也对这个问题感兴趣，但他的目标是将核天体物理学纳入更宏大的宇宙学框架。1950年代中期，两位科学家展开了一项富有成果的合作，确立了这样一个理念：我们所知的宇宙，实际上是核过程的场所和结果。这一理念最终促成了业内称为“B2FH”的论文发表，这是核天体物理学的奠基性文章，由玛格丽特·伯比奇、杰弗里·伯比奇、威廉·福勒和弗雷德·霍伊尔合著。这篇文章标志着一个新时代的开端。模糊的推测让位于关于天空中已知且观测良好的恒星的真正论证。
+
+恒星兄弟 1978年的某一天，我问“威利”（威廉·福勒）在他和弗雷德·霍伊尔共同为三代科学家奠定基础的恒星核合成的卓越理论中，各自扮演了什么角色。他觉得这个问题很难，没有立即回答，但几年后，他把下面严格按时间顺序叙述的事件记录交给了我。这个问题确实很严肃，在1983年诺贝尔奖评选委员会面前达到了顶点。他们的结论是激进的。智者们以科学恰当性为由，分开了这对恒星兄弟。弗雷德宣扬的观点，涉及大爆炸和生命起源，通常被视为异端。因此，他被剥夺了最高荣誉。然而，他后来获得了享有盛誉的克拉福德奖，并与萨尔彼得共同分享。弗雷德·霍伊尔是20世纪伟大的远见者之一。在许多方面，他都超越了他的时代，但他的一些工作并非没有争议。他最近去世了。2002年4月，在英国剑桥举行了一场题为“天文学前沿”的研讨会，以纪念这位现代天体物理学的奠基人之一。
+
+在下一节，我总结了威廉·福勒回复我的信件内容。他首先推荐了弗雷德·霍伊尔以及玛格丽特和杰夫·伯比奇撰写的、收录于巴恩斯、克莱顿和施拉姆编辑、剑桥大学出版社出版的《核天体物理学论文集》中的文章。他还提到了诺贝尔奖（1983年）传记摘要中的简短相关参考文献。
+
+这封信可以被视为一份谱系文件。让·奥杜兹、伊丽莎白·万吉尼-弗拉姆和我本人都属于这条传承脉络。于贝尔·里夫是先驱者与已经在准备接班的当代人之间的纽带。
+
+威廉·福勒致M.卡塞的信那么，是什么事件序列导致了B2FH的发表呢？它们可以按时间顺序总结如下：
+
+1946–49年：霍伊尔确立了恒星中元素合成的主要途径，直到铁。其他人曾以一种相当模糊的方式提出过这一普遍观点，但伽莫夫关于大爆炸中完全核合成的观点被普遍接受。
+
+1949年：在凯洛格实验室进行的工作证实了原子质量数A=8处存在一个缺口。更早时候，在同一实验室，1939年已证实A=5处不存在稳定原子核。伽莫夫确信所有关于质量数为5的原子的研究都是错误的。
+
+1951年：在访问凯洛格期间，埃德·萨尔彼得提出了一种在红巨星中通过反应2α ⇌ 8Be(α,γ)12C绕过质量数A=5和8缺口的途径。
+
+1953年：基于与马丁·施瓦西合作的赫罗图研究，霍伊尔预测存在12C的一个激发态，该态将作为反应2α ⇌ 8Be(α,γ)12C*(γ)12C的共振。惠林和他在凯洛格的同事们发现这个态非常接近霍伊尔预测的能量。此时，福勒开始相信霍伊尔关于恒星核合成的观点。
+
+1954–55年：福勒在英国剑桥休学术假，与霍伊尔一起工作（由富布赖特和古根海姆研究基金资助）。在那里他遇到了伯比奇夫妇，并与他们合写了两篇关于后来在B2FH中被称为s过程的论文。霍伊尔忙于其他问题。1955年底，伯比奇夫妇和福勒一起回到帕萨迪纳，霍伊尔于1956年初与他们会合。
+
+1956年：4月，关于第一颗原子弹（1952年11月，埃尼威托克）碎片中发现的放射性的结果最终解密。西博格及其同事在碎片中发现了锎（Z=98）的同位素，这表明中子的快速俘获能够构建重元素，尽管它们会经历快速的α和β衰变。伯比奇夫妇、福勒和霍伊尔意识到，r过程可以从铁峰元素出发，越过铅（Z=82）和铋（Z=83）——而s过程被这些元素所阻——到达钍（Z=90）、铀（Z=92）及其短寿命的前体元素。苏斯和尤里发表了他们新的太阳系元素和同位素丰度测定结果，显示出r过程和s过程介入的确凿证据（双峰）。
+
+HFB2 was published in the 5 October issue of *Science*, putting forward the two neutron-capture processes. Few people paid any attention.
+
+In 1957, an extensive elaboration of HFB2 was published in the October issue of *Reviews of Modern Physics*. This was the now famous B2FH. Al Cameron had already published his article in the June issue of the *Publications of the Astronomical Society of the Pacific*, but they were unaware of his work when they had submitted their manuscript to *Reviews of Modern Physics* at about that date. Cameron’s article referred to HFB2, but Fowler points out that it was nevertheless a remarkable feat for one person to arrive at the same conclusions as four who had worked very hard and in concert. B2FH attracted much attention and convinced people that nucleosynthesis in stars had been understood quantitatively.
+
+Further developments had to wait for the appearance of the 1987 supernova and its detailed observation across the whole wavelength spectrum. Only then did nucleosynthesis become an observational science in its own right.
+
+In the distribution of elements and isotopes that make up the Solar System, we are seeing the legacy of the stars. In the general economy of the Universe, stars play the role of conscientious craftsmen. Viewed purely in terms of productivity, they can be considered as heavy-element factories. In this respect, supernovas are of paramount importance.
+
+Astrophysicists have built up models with equations rather as birds build their nests with twigs. And from them spring suns and supernovas. It has required much patience and years of reflection. In order to model a stellar explosion, much work is needed. At the end of the day, we may read off the balance sheet, as it were. Depending on its mass and its metallicity at birth, we may predict the final account for each star. We admire the generosity and diversity of these stellar production units. When it explodes, a typical massive star delivers up around 0.1 solar masses of iron, and 2 solar masses of oxygen (see Appendix 4).
+
+The French poet Prévert tells us that numbers are birds and algebra is in the tree tops. For our part, we may say that the stars do arithmetic. The star is the ultimate furnace in the art of nuclear alchemy. It is a place where the simple is made complex by adding together nucleons at high temperatures. Helium is the result of a fourfold union between hydrogen nuclei. Carbon comes from a threefold union of helium nuclei, magnesium from a twofold union of carbon nuclei. The father of iron, nickel-56, ultimately arises from a manifold combination of helium nuclei. The stars add up nucleons to multiply the numbers of nuclear structures: 4 hydrogens = 1 helium (4 × 1 = 4)
+
+3 heliums = 1 carbon (3 × 4 = 12)
+
+2 carbons = 1 magnesium (2 × 12 = 24)
+
+14 heliums = 1 nickel-56 (14 × 4 = 56).
+
+Genesis would thus appear to be resolutely arithmetical.
+
+**Discursive analysis of the abundance table**
+
+After going through this exercise in pure spontaneity, let us carry out a harsher analysis of our fundamental data. Abundances in the Solar System reveal trends that directly reflect not the chemical or atomic properties of elements, but rather the characteristics of the nuclei of those elements. The key to understanding the abundance table thus lies in nuclear physics.⁴
+
+**Nuclear alchemy**
+
+Suddenly it seems that our flight has carried us too far and too quickly. Let us return for a moment to the warm summer of the ancient world. Speak softly now under the olive trees and the stars!
+
+Democritus thought there was an eternal form of matter, composed of indestructible atoms of many and varied types. But Aristotle found it absurd to suggest that the elements might be composite. His preference was for the existence of just four fundamental substances – fire, water, earth and air – governed by four states. Aristotle taught that the dry and the cold combine to form earth, the cold and the damp to form water, the damp and the hot to form air, and the hot and the dry to form fire. This theory made it possible to move from one element to another via their common attribute. The material world of Aristotle allowed for the mutation, and indeed the permutation of the elements. On the basis of this erroneous theory, alchemists built up their own understanding of the nature and existence of matter. They hypothesised their own transmuting agent, the so-called philosopher’s stone, which, if found, could transmute all base metals into gold and cure all illnesses by providing the elixir of life.
+
+Following the philosopher’s teachings, alchemists would sublime and distil, brew and grind. By amalgamating and scorching, they hoped they would obtain gold from one of the four elements. But never was gold to glitter upon the doorsteps of their laboratories.
+
+Today this research programme raises a sarcastic smile. However, the basic idea behind it, whereby all forms of matter have a common origin and can transmute from one form to another, lines up well with the contemporary notion of a unified theory of matter. In this, science owes something to alchemy. In their untiring quest for gold, the alchemists subjected every known substance to the test of fire and acid (aqua regia), thus paving the way to modern chemistry.
+
+However, the secret of transmutation did not lie in chemistry and the peripheral electrons that determine the chemical properties of the atom. Instead, the solution to this mystery had to be sought in the nucleus.
+
+--- ⁴ See, for example, the article by R. Lehoucq and M. Cassé in *Pour la Science*, August 2000.
+
+nucleus of the atom and the strong and weak nuclear interactions which organise and structure it.
+
+The physical and chemical properties of an atom are determined by the number and configuration of electrons in its electronic retinue. These are arranged in layers or shells, in a well-defined order. Some atoms have more shells than others, or indeed their shells are more complete and better organised. Chemical properties and molecule formation are determined by the outer shell. This is because only the outer electrons can mediate in chemical bonds, playing the role of a common currency. Atoms in the first column of Mendeleyev’s periodic table have a single electron in their outermost shell, whilst those in the second column have two, and so on, until we reach the noble gases which have eight electrons in their outer layer (except for helium, which has two).
+
+Two electrons can be housed in the first shell. As the helium atom already contains two, the hotel is full and helium will not take in a further electron belonging to the outer shell of another atom. It will not therefore stick onto a fellow atom to form a molecule, whence its chemical lethargy.
+
+The next atom on the list is lithium. It has a third electron, which must be placed in the second shell. This second shell can put up a total of eight electrons. Lithium thus contains two electrons in its first shell, now saturated, and a single electron in its second shell, the outer shell. This gives it a likeness to hydrogen, with a single electron in its outer (first) shell, held out like a hand to other atoms.
+
+Oxygen has eight electrons, two on the ground floor and six on the first. There remain two empty rooms on the first floor, which can house at most eight electrons. Oxygen is therefore ready to accept two further tenants from elsewhere. For example, it is ready to share the electrons of two hydrogen atoms. The result is the water molecule H₂O. It takes two hydrogen atoms by their outstretched hands and forms H–O–H. The sharing of electrons creates a chemical bond.
+
+Chemistry is the art of combining atoms. Nuclear physics is the science of the transmutation of the elements. Bombarding atomic nuclei by other atomic nuclei can produce transmutation of both target and projectile. Alchemy is thus nuclear, not atomic.
+
+Abundance and scarcity The high abundance of helium-4 is so striking that we cannot help wondering why certain heavier nuclei, more stable and better constructed, have remained so scarce. Iron is a case in point. Why does the work of nuclear transmutation have this unfinished air about it?
+
+The simplest elements originating in the Big Bang are hydrogen and helium, comprising 98% of the total mass. The predominance of low mass nuclei (Z = 1–4) compared with high mass nuclei such as nickel-56 (atomic mass number A = 56) is a consequence of two factors: the omnipresence of photons in the original soup and the instability of helium’s ailing progeny (see Appendix 1), that is, nuclei of masses 5 to 8.
+
+The simple is generally abundant, and the complex rare. Returning to our earlier question, the reason why gold is so rare is basically electrical. One obvious inhibiting factor when building up complex species is the electrical repulsion between nuclei. The probability that two nuclei join together decreases exponentially with the product of their electrical charges. For example, the fusion of two carbon nuclei involves a product 36 times greater than for two hydrogen nuclei, and this number occurs as the argument of an exponential. In other words, the probability is a factor of 1/exp36 lower. Such strong inhibitions can be overcome by increasing the relative velocity of the nuclei, that is, by increasing the temperature, since the latter is merely a measure of thermal agitation. But the required high temperatures are not to be found at every turn.⁵ The same can be said for the high neutron fluxes that build up extremely complex nuclei in very tiny steps.
+
+What then of the clouds of nuclei billowing out from the stellar furnace? One notable feature is that nature seems to prefer even numbers to odd. Apart from light hydrogen (A = 1), which is indeed a very special case, nature clearly favours the even. Abundances thus feature a marked even–odd imbalance. For those nuclei with fewer than 20 protons, the most abundant isotopes contain the same numbers of protons and neutrons. For nuclei with Z between 20 and 30, the most abundant isotopes are those with N = Z + 2 neutrons. For higher Z, the most abundant isotopes are richer in neutrons than protons.
+
+Let us note the following key point: nuclei for which Z and N are even are more abundant than their immediate neighbours. Nuclei with even atomic mass number A are favoured to the detriment of those with odd A. We must move down to the fifteenth position on the list of nuclei in order to find the most abundant one with odd mass number after hydrogen. This is magnesium-25. Note also the sudden drop in abundances in the region of A = 5–11 and around A = 45.
+
+The fundamental reason why an even number of protons and an even number of neutrons is favoured is that a solitary nucleon, frustrated by a lack of relationship with one of its own kind, can only be harmful to nuclear stability. Only ¹⁴N amongst the abundant nuclei is not even–even. This exception can be explained by the fact that nitrogen occurs amongst the ashes of the first step of thermonuclear fusion in stars, to wit, the fusion...
+
+ion of hydrogen, the commonest one could imagine.
+
+Apart from 56Fe, the majority of the frequently occurring nuclei are even–even and also have the same number of protons and neutrons (Z = N). The most abundant are 16O and 12C, followed by 20Ne, 24Mg, 28Si, 32S, 36Ar and 40Ca. Other configurations are also favoured, in particular, and doubly so, those that bring together a proton number and a neutron number equal to 2 (4He), 8 (16O), 20 (40Ca) and 28 (56Fe, which is actually produced via 56Ni).
+
+In fact, the stars show a special partiality towards 56Ni. It is the species towards which all others converge at temperatures above a few billion degrees, that is, at the kind of explosive temperatures prevailing in supernovas.
+
+Iron, immediately evident by its peak on the abundance curve, owes its existence to the fact that the most robust of all known nuclei is born in the form of radioactive nickel-56. The resplendent light of supernovas, gleaned from the transmutation of nickel into iron, proclaims its illustrious birth in the heavens, as we shall see in more detail shortly.
+
+The precipitous chasm inhabited by lithium, beryllium and boron reflects the extreme fragility of the nuclei of these species. Note that fluorine, located just above the favoured number of eight protons, is as expected rather scarce.
+
+Beyond iron lies a first population of so-called s-process nuclei, which includes among others barium and lead. This population has an abundance distribution with peaks around mass numbers 87, 138 and 208. These nuclei are produced by slow neutron capture, referred to as the s process. A second population, slightly shifted from the first, including gold, platinum and uranium, is imputed to the process of rapid neutron capture, referred to as the r process.
+
+Nuclear stability and interactions Extensive studies of nuclear reactions and the systematic behaviour of nuclei played a central role in developing a theory of the origin of the elements. The idea was to reproduce the abundances observed in the Solar System, an aim which inevitably raises the following question.
+
+Assuming that all combinations of neutrons and protons can exist, which atomic nuclei are stable enough to survive for as long as the Universe itself, that is, for around 10 billion years? Estimates of nuclear stability are available to answer this query. The 270 or so nuclei found in nature in some lasting form all lie along what is known as the valley of stability in the (N, Z) plane (Fig. 4.2).
+
+It appears that the most stable light nuclei comprise equal numbers of protons and neutrons, i.e. Z = N, whilst heavier stable nuclei involve an excess of neutrons which act as a buffer against increasing electromagnetic repulsion between protons within the nucleus.
+
+Nuclei with the highest binding energy are the most difficult to destroy and hence the most stable. Note that iron (56Fe) stands at the peak of the nuclear stability curve. It therefore emerges as the heir apparent of nuclear creation, so to speak, although history has decided otherwise. In any case, the exceptional nuclear stability of iron is of great importance for the synthesis of heavy elements, serving as a stepping stone.
+
+The stability curve is a powerful predictive tool with regard to the emission or absorption of energy in a given nuclear reaction. The figure can be used to estimate the tendency of a nuclear reaction to go one way or the other. For example, fusion reactions between light nuclei generally lead to more stable nuclei and thus release energy. Fusion reactions producing nuclei heavier than iron manifest the opposite tendency, thus requiring an input of energy.
+
+As a consequence, by breaking up a heavy nucleus (fission) to produce lighter and more stable nuclei, energy is once again released. Detailed examination of the stability curve reveals other important features of nuclear structure which are strongly correlated with observed abundances.
+
+For example, in the case of relatively light nuclei, structures composed of several helium nuclei, such as 24Mg, 28Si, 32S and so on, are more stable than their neighbours. Moreover, nuclei with even mass numbers (an even total number of neutrons and protons) are more robust than those with odd mass numbers.
+
+Nuclear ninepins Once we have decided whether a nuclear reaction will release energy or absorb it, the next step in ranking it amongst all possible reactions is to assess the probability with which it can produce the sought result. Given that the temperature at the centre of the Sun is about 15 million K and the density 150 g cm−3, we would like to know how long it will take our star to consume all its nuclear resources.
+
+This probability depends on the reacting nuclei and prevailing physical conditions, such as temperature and density. It is easy to understand the relevance of the density: the more particles there are per cubic centimetre, the more frequent are the collisions. The role of the temperature is also fundamental. Nuclear reactions require high temperatures, in fact, all the higher as the reacting nuclei carry higher electrical charges, as mentioned above.
+
+On the most basic level, since nuclear reactions result from collisions, the probability of formation of a given nuclear species depends on the target, the projectile and their relative velocity. Amongst all possible combinations involving as projectile either protons, neutrons or photons and as target any nucleus from hydrogen to uranium, what are the most productive reactions? In fact they are simply the most probable ones.6
+
+The number of nuclei of a given species produced by a reaction of type 1 + 2 → 3 in 1 second and 1 cm3 can be assessed as it would be in a game of ninepins. Indeed, the number of successful shots is just the number of balls thrown multiplied by the number of pins multiplied by the sum of the cross-sections of pin and ball.
+
+The only major difference is that the diameter of the ball in nuclear reactions must be treated as velocity dependent. A parallel can be drawn with the wavelength λ = h/mv of the projectile particle as given by quantum theory. The probability of the reaction thus depends on the relative velocity of the reactants. Reaction probabilities have been extensively measured in many laboratories all round the world, and in particular at the California Institute of Technology under the guidance of William Fowler. But whenever experimental data is lacking, nuclear reaction rates can be estimated theoretically. In this way, reaction rates have been fully tabulated as a function of temperature, ready to be integrated into numerical codes for stars or the Big Bang, and made available to the whole astrophysical community.
+
+It should be emphasised that a reliable and up-to-date database of nuclear reactions is of capital importance for theoretical attempts to understand the origin and evolution of the elements. Calculations of the nucleosynthesis occurring in the Big Bang, the Sun, the stars and supernovas depend critically upon it.7
+
+On the basis of these estimates, we can identify the flow of nuclear reactions and plot the rivers they follow on the (N,Z) map. By coupling this network of nuclear reactions with models of stars or the Big Bang, which predict temperature and density variations in space and time, we may hope to identify the nature of the elements and isotopes produced, as well as their relative proportions.
+
+6 The key parameter here is the probability that a projectile A with speed v colliding with a target B should produce a nucleus C, among other things. This is given in the form of a parameter known as the reaction cross-section.
+
+7 I would like to pay tribute to Marcel Arnould at the Université Libre in Brussels, a master craftsman in this art, to the Orsay experimental group in Paris (CSNSM/IN2P3) who work on the determination of reaction probabilities of astrophysical import, and to Alain Coc, in particular, and to all the physicists at the GANIL installation (Grand Accélérateur National d’Ions Lourds) in France.
+
+The abundance curve of chemical elements was used by Burbidge, Burbidge, Fowler and Hoyle in 1957 and by Cameron in the same year to establish the basic process of nucleosynthesis operating in stars. The breakdown of mechanisms responsible for the existence of the various types of atom in the observed proportions is as follows: • hydrogen fusion in stars: slow conversion of hydrogen into helium at temperatures above 10 million K, over time-scales of the order of 10 billion years; • helium fusion: conversion of helium into carbon, oxygen and so on, at temperatures above 100 million K, over time-scales of the order of 10 million years; • carbon fusion: production of neon, magnesium and aluminium at temperatures above 600 million K; • oxygen fusion: production of nuclei between oxygen and silicon at temperatures above 1 billion K, over time-scales of 100 000 years, unless this nucleosynthesis is explosive, in which case it lasts only a few seconds; • silicon fusion: production of nuclei between silicon and zinc, at temperatures above 3 or 4 billion K, on a time-scale of a few hours in the non-explosive case and less than 1 second in explosive conditions (Fig. 4.3); • s process: slow neutron capture, responsible for the synthesis of various nuclei with atomic numbers above iron and requiring temperatures above 100 million K and neutron fluxes sustained over a thousand year to 100 million years.
+
+• r process: rapid neutron capture, producing nuclei with atomic numbers above that of iron and requiring temperatures above 10 billion K over very short time-scales; • p process: production of rare species, rich in protons, at temperatures of 2 to 3 billion K over 10 to 100 seconds.
+
+In addition to all these fusion and neutron capture processes, there is a further type of nuclear reaction, called spallation. Rather than fusing together, nuclei are smashed up or chipped to produce smaller species. This process is thought to be the origin of most of the lithium, beryllium and boron in the Universe. We shall return to these mechanisms for creating ever more elaborate nuclei. But first, let us glance back at the abundance table, for it would be an oversight not to mention the rich nuggets of information that lie hidden in meteorite studies.
+
+Fig. 4.3. Nuclear reaction network. As an example, this figure shows the links established using nuclear reactions as a go-between during silicon fusion. Black dots indicate stable isotopes. The notation (x,y) is equivalent to x + A → B + y, where x is the initial particle and y the final particle. (After Clayton 1983.)
+
+Supernova dust
+
+Held in meteorite magmas, we find grains or granules called chondrules, whose compositions deviate from the average. Indeed, they exhibit isotopi anomalies with respect to the canonical abundance table. These tiny inclusions represent genuine mineral relics from the stellar age. Although the greater part of the matter in the Solar System displays a high degree of isotopic homogeneity, which is just what allows us to build up the abundance table discussed earlier, a small fraction of this matter (one ten-thousandth, perhaps) is characterised by a quite different range of isotopic compositions from the average.
+
+The Allende, Murchison, Murray and Orgueil meteorites are particularly highly prized for research into stellar grains, since several kilograms of this material have been identified in each of them. This is sufficient to be able to take samples of the order of 1 g without damaging the source. Such samples can then be subjected to compositional analysis. But how can we extract these stellar jewels, measuring at most 1 µm in diameter, from the matrix in which they are embedded? The best way of finding a needle in a haystack is to burn the hay. Cosmochemists employ basically the same method when they use chemical processes to isolate stardust trapped in meteoritic stone. They may then analyse it at their leisure via the tried and tested methods of geochemists. Ion probes and mass spectrometers thus become the instruments of astronomy.⁸
+
+Isotopic ratios such as the ratio of carbon-12 to carbon-13, corrected for physicochemical enrichment or impoverishment, are imputed to purely nuclear, and hence stellar, processes.
+
+Today, through astronomical observation and stellar models, we know that most galactic dust (about 1% of the mass of interstellar clouds) is produced by red giants at the end of their lives, or rather, in the particular evolutionary phase when they embark upon the asymptotic giant branch of the HR diagram. When a star grows old, carbon builds up in its envelope. Convection currents carry the carbon up from the depths where it is synthesised by triple capture of helium nuclei in the star’s hot core. Carbon wins out over oxygen and a carbon-bearing dust forms (silicon carbide). The red giant is now spattered with grains whose isotopic composition carries the fingerprint of events occurring deep down within the star.
+
+The different types of grain can be related to specific classes of stellar objects. The very hot and bright, even lavish Wolf–Rayet stars are considered to be one of the most favourable sites for grain formation, for their strong stellar winds are particularly rich in carbon. Matter thrown out by supernovas and cooling very quickly due to its expansion is also an excellent scenario for grain formation. Elements with any affinity for the solid state are likely to be abundantly transformed.
+
+Whilst the highly canonical abundance table reflects the final result of a great many nucleosynthesis phenomena, involving contributions from quite different sources (but mainly supernovas, red giants and planetary nebulas), stretching across some 10 billion years that preceded the birth of the Sun, it is thought that the isotopic anomalies result from pollution of the protosolar nebula by a few isolated sources. They thus inform us about a small number of special stars which came along to put a few finishing touches to abundances in the Solar System. Stellar grains inserted into celestial stones thus provide further information about nucleosynthesis and the nature of their source stars. Astronomy is also written in stone.
+
+It was indeed a pleasant surprise to discover that certain grains carrying the unmistakable signature of supernovas had survived the turbulent formation of the Solar System. In addition it proved possible to extract them from meteorites without modifying them, so that they could be studied at leisure in terrestrial laboratories. Dissolving the stony component in acid and carrying out a series of oxidations and separations, the isotopically anomalous components were isolated.
+
+Supernova grains discovered in meteorites are characterised by anomalous proportions of oxygen-16, magnesium-26, silicon-28 and calcium-44. The excesses of magnesium-26 and calcium-44 are produced by radioactive decay of aluminium-26 and titanium-44, respectively, within grains formed in the burning envelope of the supernova. Today, we may hold in our hands tiny solid particles that came into being before the Sun itself. Presolar grains are non-biological fossils of extraordinary cultural and scientific importance. They were born in the debris, the winds and the fragments of stars. They have spent untold ages wandering through space before being incorporated into a protosolar cloud.
+
+Unlike stellar spectroscopy, the analysis of meteoritic grains and inclusions can provide an extremely precise isotopic breakdown. The weak point of this technique, however, is that the exact characteristics of the stars from which the grains formed can only be inferred. When we detect light, we can deduce its celestial source by extending back its line of incidence and we can determine the composition of the source from the spectral lines it contains. But we do not know where the meteorite grains came from, and only their composition can tell us anything of their origins.
+
+Each known type of grain is made from a particular larly refractory form of material.Themselvesborninextremeheatconditions,thesegrainssurvivedthe formationoftheSolarSystemwithouttheleastdifficulty.Theyhavebeenable tocarrydowntheisotopiccompositionoftheirsourcequiteintact,throughout thewholeprehistoryoftheSun.Buttheirmessagehasnotyetbeenperfectly decoded.Thestoryofthisstardustwillthereforebecontinued,especiallyasit isradioactiveandcanbeidentifiedbyitsgammaemissions.
+
+Astronomyofradioactivity Thebestillustrationofradioactiveastronomyistitanium-44.Weshalltakeitas thearchetypeofagoodradioactiveisotope.Itisrelativelyabundantandhasa reasonablelifetimeofaround100years,neithertoolong,nortooshort.Only aluminium-26 can rival it in this respect and nuclear gamma astronomy has alreadyreapedsomeoftherewards(seeFig.4.4).
+
+Calcium-44bearsthesamerelationtotitanium-44asagrandsontohisgrand- father.Theradioactiveaffiliationis 44Ti−→44Sc−→44Ca.
+
+74 Contentsofthesky 150 120 90 60 30 0 330 300 270 24030 210 −30 −60 Fig.4.4. All-skymapinthelightofthe1.809MeVgamma-raylinefromradioac- tivealuminium-26.Thegalacticdistributionofaluminium-26,basedondatafrom theCOMPTEL(ComptonTelescope)experimentaboardtheGRO(Gamma-Ray Observatory),suggeststhatthisisotopeisdispersedacrosstheGalaxybythemost massivestars,Wolf–Rayetstarsandsupernovas.26Alisformedbythereaction 26Mg+p → 26Al+γ.Thisradioactiveisotopehasalifetimeofaboutmillion yearsandisejectedintospacebeforeitbeginstodecay.
+
+Titanium-44transmutestoscandium-44byemittingtwogammarays,at68and 78keV.Thenewnucleusthentransmutestocalcium-44butnotbeforeemitting agammarayat1.157MeV.
+
+The search for titanium-44 was undertaken by the gamma spectrometer aboardtheGamma-RayObservatory(GRO).The1.15MeVlinewasdetected in the direction of Cassiopeia A and Vela, two recent supernova remnants.
+
+Mapping the Galaxy in the 1.15 MeV line will undoubtedly be one of the main objectives of the European satellite INTEGRAL, a unique space-borne experimentinwhichFranceisdeeplyinvolved.9 Titanium-44isthusanisotopeofconsiderableastrophysicalimportance.De- tectionofitscharacteristicgammalinehasarousedgreatenthusiasmamongst thenuclearastrophysicscommunitybecausethisisotopesuppliespreciousclues as to the explosion mechanisms operating inside massive stars. Indeed, it al- lowsustodeterminetheexactboundarybetweenthepartofthestarwhichis imploding,toendupasaneutronstar,andthepartwhichisejectedandfliesout intospace,loadedwithatomicnucleimanufacturedbythestar.Italsoprovides 9 Iwouldliketothankalltheartisansofthishugeprojectfortheirskillandself-effacing commitment,inparticular,JacquesPaul,BertrandCordier,Franc¸oisLebrun,Philippe DurouchouxandJackyGre´tolleattheSaclayResearchCentre,andGilbertVe´drenne,Jurgen Kno¨dlseder,PeterVonBallmos,PierreMandrou,JeanPierreRoquesandthewholeteamin Toulouse.
+
+Astronomyofradioactivity 75 informationaboutthemaximaltemperatureanddensityattainedduringpassage oftheshockwaveconcomitantwiththeexplosion.
+
+The second interesting feature of this isotope is that minuscule grains of silicon carbide extracted from meteorites have been found to be very rich in calcium-44,asmentionedearlier.Theyhavebeenidentifiedwithpresolargrains thatcondensedintheejectaofsupernovasduringtheirfirstfewyearsofexpan- sion. Could it be that supernovas have been throwing sand in our eyes? Data gatheredbytheISO(InfraredSpaceObservatory),yetanotherexperimentwith strong participation by the French CEA, clearly demonstrates that new dust condensedinsidetheCasAremnantverysoonafterexplosionofthesupernova thatcausedit.10 10 IwouldliketopaytributetoCatherineCesarsky,LaurentVigroux,DavidElbazand Pierre-OlivierLagagefortheirinfraredenthusiasm.
+
+Nuclear suns Glossary alphaparticle heliumnucleus astroparticle physics new term invented to denote the common ground be- tweenastrophysicsandparticlephysics Cerenkov radiation emission of blue light by particles moving faster than lightinamediumotherthanthevacuum(notethatinamediumwithrefractive indexn,lightmoveswithspeedv =c/n)
+
+helioseismology studyofthesolarinteriorbyanalysingvibrationsatitssurface M(cid:6) solarmass mainsequence curveontheHRdiagramwherestarsarelocatedwhencon- vertinghydrogentoheliumintheircore nuclearstatisticalequilibrium phaseofhigh-temperaturenucleosynthesisin whichtheabundancedistributionofnucleidependsonlyontheirrobustness photodisintegration process whereby nuclei are partially broken apart by photons plasma ionisedgas shockwave effectassociatedwithsupersonicmotion TheSunasreference ThemotionsoftheSunandMoonformthebasisofourcalendars.Themea- surementofmechanicaltimeislargelybasedontheperiodicreoccurrenceof certainphenomena:therhythmofdayandnight,theseasons,orthecyclicreap- pearanceoftheplanetsandstarsinthesky.Theflowofchangeisattestedbythe apparentlyirreversibleglobalevolutionoftheCosmos.Cosmictime,eternity’s yardstick,isthemeasureofuniversalchange,oftheevolutionofmatter,andthis evolutionisessentiallyoneofnuclearcomplexification,drivenbystellarforces.
+
+78 Nuclearsuns Thematerialevolutionwearespeakingofhereisatworkinallgalaxies.Ev Every part of the Universe is evolving, and the driving force is the stars. Everywhere on Earth, there are men, women and children; everywhere in the sky, there are stars. The star seems to be the best-adapted form of the visible Universe. The path that leads from the multitude of anonymous and abstract elementary particles generated in the original explosion to the grass in the meadows, to the rain and the wind, to the infinite variety of shapes and states, to the profusion of feelings, must necessarily pass through the stars. Stars are an essential link between the primordial raw material that came out of the Big Bang and complex material with the ability to think. Nuclear astrophysics is the bridge between elementary particle physics and life.
+
+Star, driving force behind the chemical evolution of the galaxies, mother of atoms and of all life, gentle or explosive, let us seek to become better acquainted. For it is one thing to observe and record the state of atomic matter in the Universe, and quite another to explain it. It is to this Herculean task that nuclear astrophysics dedicates its best troops. And the starting-point for each sally is the Sun, our personal reference.
+
+One of the aims of nuclear astrophysics is to understand how nuclear processes generate energy in the Sun and stars, thus supplying and perpetuating their brightness. Another is to know how, in doing so, they succeed in synthesising complex elements from simpler ones, from primordial hydrogen and helium inherited from the Big Bang.
+
+For astronomers, the Sun is a star, indeed, the closest star in the sky. We see only its luminous outer layer, the photosphere or sphere of light. It appears to us as a disc but is of course spherical in reality, with radius 700 000 km, calculated from its angular diameter and its distance. Its surface temperature is 5760 K, assessed via its colour. It has a total mass of 2×10^30 kg, according to the calculations of celestial mechanics. It has an intrinsic luminosity of 4×10^26 W if we go by the light flux measured above the Earth’s atmosphere and take into account the distance from Earth to Sun. Then, apart from the electromagnetic activity occurring on the surface in the form of solar flares, sunspots, granulation and so on, which interest only solar dermatologists, the chemical composition of its atmosphere can be determined by spectroscopy.
+
+Sensitive study of the Sun’s light shows that the Sun is vibrating. In fact, it vibrates like a bass drum and its light emissions vibrate in symphony. The quivering of the Sun’s surface teaches us something about what is inside it. Rather like the doctor who taps a patient’s thorax with curved forefinger, we auscultate the Sun as we might test a coconut or a melon. Depending on how it reverberates, we can tell whether our fruit is full or empty. The Sun too clatters and rattles, although in this case no one is there to strike it. The blows are brought to bear from within. Indeed, solar oscillations are maintained by internal hammering due to the incessant motions of granules. We infer the speed of sound at various depths and proceed to compare it with the predictions of our models.
+
+Is the Sun then eternal? And if not, what stage has it reached in its evolution? In fact, the Sun is in the simplest and longest-lasting phase of a star’s evolution, the quasi-static phase of core hydrogen burning, referred to as the main sequence.
+
+Are the stars liquid? Given that the Sun is spherical with radius 700 000 km, we may find its volume from the formula V = 4πR^3/3, then calculate the mass divided by the volume to deduce its average density. To our surprise we discover that 1 cm^3 of the Sun weighs 1 g. But this is exactly the density of water. Could the Sun be aqueous?
+
+We sometimes hear it said that stars are incandescent balls of gas. It may indeed be surprising to find that a material with the density of water, such as the substance of the Sun and many stars, should be described as a gas.
+
+The gaseous state of stellar matter is nevertheless a reality, and it is easy to see why. The atoms in it are dissociated by heat, and the entities thereby released, that is, electrons and atomic nuclei, are sufficiently far apart to be treated as free. The distance between the constitutive particles is much greater than their own dimensions. Such is the definition of a perfect gas. The company of these particles then displays an admirable flexibility and power of adaptation that ensures it a long life.
+
+But what exactly causes this longevity? In fact, the day-star owes its long life and stability to the flexibility of its gaseous core. For although it has the same average density as water, it behaves as a gas because of the extreme heat levels maintained within it. Now gases have a rather special property, namely that they cool when they expand, and heat up when compressed. The perfect gas equation applies to the stellar fluid: the pressure multiplied by the volume is proportional to the temperature. This relation between temperature and volume is the key to solar stability. Hence, if a nuclear reaction occurs at the centre of the Sun, its core dilates. The temperature then drops correspondingly and the reaction slows down. If on the other hand a reaction weakens, less heat is produced and the core contracts. This causes the temperature to rise, encouraging the reaction to greater effort. Such self-regulation, related to the properties of the gaseous state, is what guarantees the Sun’s longevity and stability.
+
+The plasma phase Under normal conditions, gases are electrically neutral.
+
+Electrical insulators, i.e. electricity cannot pass through them. However, by heating them to high enough temperatures, physicists discovered that they actually become very good conductors. They are in fact transformed into plasmas within which electrons are relatively free to circulate.
+
+In an atomic gas, electrons are held captive by atomic nuclei. In a plasma, they are free to move around. This freedom of the now-autonomous electrons makes the plasma a good electrical conductor. The plasma contains a mixture of free electrons and positive ions.
+
+Solid bodies resist compression just as they do expansion. The forces giving this coherence to solids are of electrical origins. They may be broken by heat, which communicates a disordered energy to the constitutive molecules of the solid. If the solid acquires enough energy in the form of heat, the molecules are freed, then broken into their component atoms. Any material can be brought into a gaseous state by putting in enough energy. What happens when even more energy is injected into our already vaporised system? Eventually, the internal structure of the atoms is shattered and the electron shells are gradually peeled off. When an atom loses an electron, it becomes once positively charged. If it loses two, it is twice positively charged, and so on, until the nucleus has been completely ionised, that is, all its electrons have been stripped from it.
+
+Therefore, by adding enough energy to any material, we can eventually dissociate it into atomic nuclei and electrons, hence turning it into a plasma. Our own Sun, unlike the Earth and the other planets, is in this plasma state, as are all stars. Although plasmas on Earth are artificial, the greater part of the visible Universe is made up of plasmas.
+
+The fact that the Sun is in the plasma state means that it has the flexibility of a gas. This flexibility in turn ensures its longevity. Indeed, the size of the particles making it up, i.e. separate nuclei and electrons, is much less than the mean distance separating them, and this allows us to identify it with a gas. (Non-baryonic dark matter, with no electrical properties, cannot be ionised. There is no such thing as a dark matter plasma.)
+
+The most surprising thing about the Sun is not that there are still some doubts concerning the processes going on within it, but rather that we should have acquired such an accurate description of its inner workings. We are now ready to answer our children’s questions.
+
+What makes the Sun shine? The chemist’s atoms would be unable to maintain the Sun’s flame for very long. A phosphorus Sun on the end of a matchstick would only shine, at the Sun’s present rate of energy release, for a few tens of thousands of years. But we know that the Sun, like the Earth, has been in existence for some 4.6 billion years. What is its secret? In fact, it lies in the nucleus of the atom. This is the grain the Sun grinds, or rather, agglutinates. The secret is numerical.
+
+Number one is hydrogen, with one proton, whilst four is helium, with two protons and two neutrons. Four protons fuse together under the influence of heat to give a helium nucleus, and this happens billions of times over. The mass of the helium nucleus is slightly less than the sum of the masses of the four protons. What has happened to the difference? In fact, it has been radiated away. This is why the Sun shines!
+
+When the core of a star similar to the Sun reaches a temperature of 10–20 million K and a density approaching 100 g cm−3, the protons in this hot, dense medium acquire enough kinetic energy for nuclear reactions to commence. Once triggered, the process of hydrogen fusion can proceed over very long periods. The stars then remain at a fixed position on the main sequence curve of the HR diagram. Their exact location depends on their mass, the Sun being at an average position. Ninety percent of the stars in the Universe are at this stage in their lives, burning hydrogen and transmuting it into helium by the following reaction chain: p + p → D + e+ + ν (twice), D + p → 3He + γ, 3He + 3He → 4He + 2p, leading to a total reaction 4p → 4He + 2e+ + 2ν + 26.7 MeV.
+
+The synthesis of helium follows a somewhat indirect path. The longest part is the first, because it involves the transformation of a proton into a neutron, and such transmutations proceed via the weak interaction (slow at these temperatures). The leisurely pace of these reactions confers long life upon main-sequence stars.
+
+The fact that neutrinos are emitted during the transformation provides an opportunity for direct observation of the reactions taking place at the heart of the Sun. Note that antimatter is produced in this strange reaction, in the form of the positron or antielectron e+. The positrons generated immediately annihilate with electrons in the surrounding medium with subsequent emission of gamma rays.
+
+Figuratively speaking, just as hydrogen is said to burn, we may say that helium is the ash left over from the reaction. The imponderable separates from the ponderous, photons and neutrinos take flight, leaving the heavy helium ash to accumulate gradually. The ample energy disgorged (26.7 MeV) makes this reaction chain one of the most generous known. For example, thermonuclear fusion of 1g of hydrogen releases some 20 million times more energy than the chemical combustion of 1g of coal.
+
+The energy released by hydrogen fusion serves to stabilise the star against its natural tendency to collapse under its own weight. Nature has thereby set up one of its most beautiful equilibria. The nuclear fuel is abundant and rich, allowing it to shine for a long time with a sustained brightness. No upset can occur in this fine balance until 10% of its mass has been consumed as nuclear fuel. Its internal structure remains the same and the star is as though nailed to the spot on the HR diagram.
+
+In stars with masses greater than 1.2 times the solar mass, hydrogen fusion proceeds via another channel, the so-called CNO cycle. This process tags together proton captures and β decays in the following chain of reactions:
+
+¹²C + p → ¹³N + γ, ¹³N → ¹³C + e⁺ + ν, ¹³C + p → ¹⁴N + γ, ¹⁴N + p → ¹⁵O + γ, ¹⁵O → ¹⁵N + e⁺ + ν, ¹⁵N + p → ¹⁶O*, ¹⁶O* → ¹²C + ⁴He.
+
+The emission of a helium nucleus in the final stage regenerates the initial carbon-12. The latter thus plays the role of a catalyst. The overall result is the fusion of four protons into a helium nucleus. At high temperatures, this cycle dominates over the proton–proton chain. Indeed thermal agitation facilitates penetration of the relatively high electrical barrier between proton and carbon nucleus. Whatever hydrogen fusion mechanism is prevalent, the star’s mass determines the rate at which it consumes its nuclear fuel, and hence also its lifetime. The higher its mass, the more quickly it burns.
+
+The life of the Sun
+
+Does the Sun empty itself of light? Our Sun is simply a star, in fact the closest of all the stars in the sky. Its brightness is due to its proximity (150 million km) and high surface temperature (almost 6000 K). An enormous sphere of gas in hydrostatic equilibrium, its stability is conditioned by the balance between gravity and the thermal pressure gradient. Each point of the Sun, torn between flight and fall, hangs suspended. Here nature has made one of its most wonderful equilibria. But it will not last forever, for the Sun shines, and to shine means death. It shines because it burns, and if it burns, it must be perishable. On the other hand, its life will be long, because in a certain sense it holds itself back from shining too much. This is the rule observed by a perfect star: to shine, but not too much.
+
+The solar gas is extremely opaque, just like the early Universe which has reluctantly allowed a relic of its former brightness to filter down to us. The Sun, too, through its photosphere, has consented to release its light, but parsimoniously. This great light source is in fact almost completely opaque to its own brilliance. Light filters up from the depths, softening in its ascent towards the surface. The nuclear power supply buried deep below the solar mantle maintains the Sun’s sheen and the heat of its substance. Its internal energy source arises from the atomic nucleus.
+
+The Sun is a gravitationally confined nuclear reactor operating by thermonuclear fusion. This is the no-nonsense way we view our star today!
+
+Its life can be summed up as a long battle between the nuclear fire and gravity. Its energy output is regulated by its opacity, that is, its ability to hold back or let through light, and not by the nuclear reactions themselves. The latter adjust so as to replace the radiated energy. To understand this, picture a funnel: the outflow is entirely controlled by the diameter of its lower opening. Energy escapes from the photosphere at a rate imposed by the opacity of the various layers that have to be crossed. This opacity depends on the composition, temperature and density of the layer in question. Resulting from the absorption and re-emission of light by ions and (free or bound) electrons in the medium, this is the critical factor limiting energy losses.
+
+All these basic principles and common sense arguments can be encoded into the mathematical language of physics. The equations that result can then be solved by computers. When applied to the Sun, the equations of physics bring off something quite miraculous: they make it transparent. The real Sun is transparent to neutrinos, whilst the simulated Sun is transparent to reason. We may read it like an open book. All the chapters concerning its inner workings, including its changes of colour and other surface features, are spelt out in our enlightened computer printout.
+
+The star in the numerical model has an inside and an outside. The outside is defined as the limit beyond which it becomes transparent. This boundary is called the photosphere, or sphere of light, for it is here that the light that comes to us is finally emitted. It is thus the visible surface of the star, located at a certain distance R from the centre, which defines the radius and hence the size of the star. The photosphere has a certain temperature with which it is a simple matter to associate a colour, since to the first approximation it radiates as a black body, or perfect radiator. Indeed, the emissions from such a body depend only on its temperature. The correspondence between temperature and colour is simple. In fact, the relation between temperature and predominant wavelength (which itself codifies colour) is given by Wien’s law, viz. wavelength (cm) = 0.29 × absolute temperature (K).
+
+Once the visible boundary of the model star has been established and the measurable global quantities worked out, the next step is to compare with the real Sun, if necessary fitting model parameters to obtain good agreement.
+
+But what does the Sun provide us with in the way of measurable quantities? How can we guarantee the veracity of our model stars? The key quantities Details all concern the surface: intrinsic brightness, radius and effective temperature, that is, the temperature of the equivalent black body. But new constraints have now been added to this visible data, this time directly affecting the depths of our great star. These are the neutrino flux and global oscillations of the Sun’s great body. A saintly patience is required to obtain a good model of the Sun, and a diabolically proficient computer. Figure 5.2 shows an extract of past results obtained by the Saclay astrophysics department (France) for the case of a mature Sun. The whole exercise can be repeated for a Sun in its current condition, in its youth, or in its death throes.
+
+The Sun is divided up theoretically into a large number of layers. The physical parameters, such as temperature, density, luminosity, energy production rate, emitted light and the rate of various nuclear reactions, vary with depth.
+
+The Sun as reference 16.0 14.0 12.0
+
+## 10.0 8.0
+
+6.0 4.0 2.0 0.0 0.00.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 Radius (r/R )
+
+Temperature (K)
+
+100 80
+
+## 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9
+
+Radius (r/R )
+
+Density (g cm−3)
+
+0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0
+
+## 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+
+Radius (r/R )
+
+Mass fraction 1.0 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0.0
+
+## 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+
+Radius (r/R )
+
+Luminosity (r/L)
+
+1H 4He 2 3He (×100)
+
+## 1.0
+
+0.9 0.8
+
+## 0.7
+
+## 0.0 1.0 2.0 3.0 4.0 5.0
+
+Time (billions of years)
+
+Current age
+
+## 1.0 R
+
+## 0.7 R
+
+Convection Radiation
+
+## 0.2 R
+
+Thermonuclear core L/L and R/R Te R/R Te L/L Fig. 5.2. Internal structure of the Sun. The top four graphs show the density, temperature, chemical composition and luminosity as a function of distance from the centre. Such profiles can be built up for each stage of the star’s evolution. The figure shows the general regions of radiative transfer and convection in the bulk of the Sun. The bottom graph shows the gradual increase in radius, temperature and luminosity from birth.
+
+Nuclear suns The future of the Sun can be read off much better from the printout than from the tea leaves remaining at the bottom of a cup. The Sun’s current characteristics, but also its past and its future, are all there in the printed matter spewed out by the computer. We can reconstruct the whole career of the Sun, from its nebulous birth to its cloudy death, right up to its last breath, using a star model that covers all stars, spanning each of their layers as they are now and as they will become.
+
+Nuclear core The Sun shines by converting protons which it stores away in lavish quantities within helium nuclei. Six hundred million tonnes of hydrogen are burnt each second to maintain the sunshine we so delight in. Nuclear physicists have been toiling for half a century to work out the details of this transformation. However, it is only very recently that direct evidence has been brought to bear, which indeed tends to confirm the proposed mechanisms. The method used is rather novel. It consists in measuring the solar neutrino flux arriving on Earth, or to be more precise, underground. For neutrino astronomy is indeed an underground affair.
+
+The results are globally positive, although a non-negligible discrepancy has come to light between prediction and observation. The latter is now thought to be due to certain ambiguities in our understanding of neutrino behaviour. However, this is not the place to enter into the subtle antics of these ghostly particles, which seem to have the singular habit of changing identity during flight. Suffice it to say that the mystery surrounding their versatile nature has proved very difficult to dispel. Moreover the physics of solar neutrinos has taken a new turn, very different from its original aims. The main objective is now to understand the neutrino. We have slipped imperceptibly from astrophysics to particle physics. But this saga has not ended and we may expect the balance to tip back the other way. The mystery of the solar neutrinos now belongs to the field of astroparticle physics.
+
+Neutrinos from the Sun The neutrino Sun never sets. Sixty billion neutrinos blasted out from the Sun’s core eight minutes ago fly through every square centimetre of our body each second. We feel absolutely nothing and neither do they. They are the height of discretion. The night is not absolutely dark because, not only are we forever bathed in the cosmic background radiation at microwave wavelengths, but we are also traversed from foot to head (and from head to foot during the day!) by flights of these invisible and almost intangible neutrinos.
+
+Draw a square with side 1 cm and reflect on the fact that, every second, 60 billion neutrinos pass through it, neutrinos that left the Sun eight minutes and two seconds previously.
+
+Each time a proton changes into a neutron in the Sun’s core, a neutrino flies out and crosses the whole enormous body of the star as though there were nothing there. The Earth is a transparent ball for solar neutrinos and we are continually visited by these invisible beings.
+
+Neutrino detectors are placed at great depths, at the bottom of mines and tunnels, in or to reduce interference induced by cosmic rays (Fig. 5.3). Two methods of detection have been used to date. The first is radiochemical. It involves the production by transmutation of a radioactive isotope that is easily detectable even in minute quantities. More precisely, the idea is that a certain element is transformed into another by a neutrino impact, should it occur. Inside the target nucleus, the elementary reaction is neutrino + proton → neutron + positron.
+
+The second method is based on detection of fast electrons induced by energy transfer from neutrinos to electrons in water. These fast electrons produce blue radiation, called Cerenkov radiation after the Russian physicist who discovered it. The latter is in turn detected by photosensitive cells or photomultipliers.
+
+The first method brings into play enormous chlorine and gallium detectors. Seeing is in this case chemical, or more precisely, radiochemical. Strictly speaking, this technique is blind because it uses the transmutation of chlorine into argon and gallium into germanium, for example, without determining the direction of the incident neutrinos. We merely count events.
+
+Historically, chlorine was the first target used to trap neutrinos. Chlorine-37 is mainly sensitive to high-energy neutrinos emanating from marginal fusion reactions (2 out of 10000) which lead to production of boron-8. On rather rare occasions, under the impact of neutrinos, chlorine-37 is transformed into radioactive argon-37 which is easy to detect by its radiation. However, the myriads of low-energy neutrinos completely escape its notice.
+
+Gallium can be used to detect low energy neutrinos arising in the reaction proton + proton → deuterium + positron + neutrino.
+
+Under the effects of the reaction neutrino + neutron → proton + electron, gallium-71 transforms on very rare occasions into radioactive germanium-71. Much is gained by using gallium as target rather than chlorine because the far more numerous low-energy neutrinos are then accessible to measurement. However, the technological challenge is colossal.
+
+Among electronic neutrino detectors is the great KAMIOKANDE experiment and its extension SUPER KAMIOKANDE. Spread out at the bottom of a mine in Japan, this device has directional sensitivity and it can thus be checked whether captured neutrinos do actually come from the Sun.
+
+Five experiments have so far detected solar neutrinos. These are Homestake (USA), GALLEX, SAGE, KAMIOKANDE and SUPER KAMIOKANDE, all set up down mines or tunnels. Detected fluxes agree qualitatively with theoretical predictions, both in numbers and energies. We may say that we have basically understood how the Sun shines. The same set of nuclear reactions invoked to explain the solar luminosity does give rise to neutrinos.
+
+Quite simply, each time a proton transforms into a neutron at the centre of the Sun, a neutrino flies out. Hence, neutrino experiments have definitely established, or so it seems, that the Sun shines because it carries out fusion of the nucleus of the simplest element, hydrogen, releasing energy according to Einstein’s famous formula E = mc². The architects of the theory of fusion reactions in stars, Hans Bethe and Fred Hoyle, should rejoice. E = mc², and the Sun shines! Einstein would be rubbing his hands together with glee.
+
+But quantitatively there is a disagreement between measurement and theory. The neutrinos actually caught in our traps are two or three times less numerous than the theory says they ought to be (Table 5.1). Naturally, this discrepancy is a challenge to the physicist. It does not seem to arise from any problem with the solar model itself, now that the Sun has been probed by its mechanical oscillations.
+
+Table 5.1. Solar neutrinos: confronting prediction with detection. The unit of flux is the SNU, or solar neutrino unit, which represents 10⁻³⁶ neutrino events per target atom per second.
+
+Experiment: Chlorine 2.55 ± 0.25; SuperK 2.44 ± 0.26; Gallium (Gallex) 76 ± 8; Gallium (SAGE) 70 ± 8.
+
+Prediction: Chlorine 7.1 ± 1.7; SuperK 5 ± 1.3; Gallium (Gallex) 127 ± 8; Gallium (SAGE) 127 ± 8.
+
+Source: Courtesy of Sylvaine Turck-Chièze, CEA, France.
+
+The tendency today is to incriminate the cunning neutrino, with its three faces, which escapes the vigilance of radiochemical detectors because it wears a disguise. More seriously, it may be that neutrinos, given their very small mass, are able to oscillate between different states, of which only one can be detected. In this case, a large part of the neutrino flux would escape detection. This is not the place to go into further detail as regards this intricate problem. However, a whole range of experiments, including the SNO (Solar Neutrino Observatory) at Sudbury in Canada with its thousand tonnes of heavy water, should be able to reveal the true nature of these multifaceted particles. Indeed, recent results from SNO and SUPER KAMIOKANDE combine to confirm the hypothesis of neutrino oscillation, a pure quantum process made possible by a mass difference between neutrino species. (For recent measurements and their interpretation, see Bahcall (2002).)¹
+
+¹ I would like to pay tribute to Saclay’s inveterate neutrino tasters, Michel Spiro, Daniel Vignaud and Michel Cribier, and also to Sylvaine Turck-Chièze and her students who prepare the solar sauce.
+
+Stellar model Stars are suns of varying masses, at different stages in their evolution, as our models will show. Some like to design prototype cars or aeroplanes, others wedding dresses, whilst we ast...
+
+天文学家、物理学家构建恒星的演化模型。由此我们得以重建太阳的整个历程：从它星云般的诞生，经历最初的核反应，直到它作为红巨星的最后一息。我们目睹它在燃烧第一批氦时骄傲地膨胀，随后将外层抛离炽热致密的核心，而后者逐渐硬化，最终成为凝固于晶体中的白矮星。奇妙啊！但让我们回顾一下为这项工程所付出的巨大努力。模型的数学架构必须从头构建。结构方程如同房屋的骨架般搭建起来，并填充了描述高温下物质行为的物理数据——在那里原子物理学和核物理学发挥着作用。数值恒星建模者不得不应对透明度和不透明度、太阳光的起源以及辐射在太阳内部的传播。例如，核物理学家被召来提供恒星内部发生各种核反应的概率，这些概率取决于存在的原子核以及不同深度处的温度。这些核物理学家运用他们的全部学识，通过近距离研究加速原子核与精心选择的靶核之间的碰撞来计算反应速率。粒子加速器因此成为了天体物理学的工具。最后，数值模型必须收敛，这从计算角度来看并非易事。人们自然会满意地看到结果在一天结束时清晰地呈现在计算机打印纸上。模型太阳道尽了一切。我们可以从中读取它在任何深度、任何演化阶段——从年轻的太阳，到当前的中年以及即将到来的老年——的温度、密度、化学成分、光度和核反应速率。这颗白昼之星变得澄澈，其他所有的恒星亦然。当然，一个好的模型不仅描述已知，局限于纯然的表象，或人们所说的仅仅维持表象。也就是说，它并非仅仅旨在再现恒星的外在特征，如尺寸、光度和颜色，还要揭示其深不可测内部不可见的运作。因此，它可以有助于预测某些未知方面，呼吁新型的观测，例如尝试在其核心不断逃逸出的大量中微子中捕捉少数几个。模型揭示了自太阳形成之初就隐藏的无形真相：它的核心包含一个核聚变发电机。此外，它预测了我们的恒星以及所有类似质量恒星的未来：太阳将变成一颗红巨星，其外层将飞散，留下致密的白色核心。太阳目前处于恒星演化最简单也最长久的阶段——核心氢燃烧的准静态阶段，也被天文学家称为主序阶段，他们不懈地参照赫茨普龙和罗素的图表，其中温度为横坐标，光度为纵坐标。太阳中心的温度目前为1500万开尔文。当然，这个温度无法直接测量，但可以从恒星的物理模型中精确计算出来，而该模型本身又通过中微子通量测量和倾向于证实它的太阳振荡模式观测得到检验。但不幸的是，在处理其他恒星时，我们没有这些数据，赫罗图是我们用以确证理论模型的唯一工具。数值模拟必须不断与真实恒星进行比较，至少与它们的外在表现，即它们的表面辐射和温度进行比较。由于我们无法触及恒星、星系和其他宇宙，无法操纵它们，我们便构建模型。这样，数值实验为望远镜观测提供了支持，也为那些模拟大爆炸和恒星中能量条件的真实实验（如粒子加速器中进行的实验）提供了支持。今天，粒子加速器和计算机已成为天文学的一部分，如同致力于窥探可见与不可见世界的望远镜一样。高能物理学家能够在加速器中再现大爆炸和恒星核心的条件。然后，数值模拟通过计算机接手，书写物质在经历其各种聚集、核合成和弥散循环时的历程。这些模型不仅描述了太阳今日所有层次的状态及其未来的状态，而且同样适用于其他所有恒星。所选恒星的未来在时间序列的步骤中揭示，星系乃至整个宇宙亦然。物质的故事可以在由物理学家、天文学家和数学家协同工作的物理学家、天文学家和数学家共同打造的演化模型中解读。恒星模型允许我们根据它们的颜色和亮度来确定其质量和年龄。但这些纸上的恒星，尽管包含所有方程，必须永远与真实的恒星相对照。喧哗与低语。恒久与壮丽，亦有狂暴与毁灭，整套情感都描绘其中，在天空中。在那展现给人类审视的平静面容之下，隐藏着无形的内火与怒意。那令人安心的宁静不时暗示其内心的风暴。将行星在黄道上平稳运行的完美秩序与典型人类生活的混乱相比，是多么过时啊！超新星， 类星体、黑洞、狂暴的活动星系核，这些就是如今主导天文思想的事物。而宇宙的动物园每晚都在变得更加丰富。如今，没有哪门科学需要如此频繁地更新。天体出现，完成它们的任务，然后消失在太空的明显黑暗之中。
+
+自远古时代以来，天空那欺骗性的宁静一直抚慰着人类的眼睛，这或许正是孕育理性思维的条件。如果从一开始我们的眼睛就看到了所有这些现象，而不仅仅是平静的恒星，我们的灵魂难道不会遭受永无止境的折磨吗？在上个世纪，那种无休止地震撼和重塑宇宙的创造性的暴力启示，是否是我们文明精神转变的前奏？
+
+用伟大的超现实主义画家罗伯托·马塔的话来说：革命意味着改变天空。
+
+新天文学的启示力量，尤其是与极端形式辐射相关的天文学，其力量在于它能够向理性和理解揭示以前未知的过程：伽马射线天文学揭示宇宙中最剧烈的现象，如恒星的破裂和毁灭；红外天文学则揭示温柔的事件，如恒星的诞生。光学天文学填充了恒星诞生与死亡之间相对平静的间隙，而毫米波射电天文学则开启了我们对巨大寒冷气体和不透明尘埃云中分子结构形成的思考，那里远离任何毁灭性的光。
+
+从暴力的开端到最终在爆炸中再生性的神化，起源一场巨大的爆燃，物质被酿制、撕裂、分割、研磨、喷射、灼烧，并且永远如此地被那些恒星级怪物所塑造。它躲进寒冷的云团，聚集成分子和微小颗粒，过滤星光。此处是暴力，别处则是平静与稳定。
+
+随着新天空的成形，我们仍需赋予其意义。宇宙不能完全基于其内容模型来构想。我们的任务是重新发现某种秩序，而这种秩序必须是时间性的。宇宙既是其历史的产物，也是其原子的总和。
+
+许多博学的男女会说，天文学家讲述的故事并不比最宏伟的传说——《吉尔伽美什史诗》或《圣经》——逊色，而我倾向于同意。天文学家的天空与先知或诗人的天空一样丰富，充满了飞翔的箭矢和燃烧的天体激情。但它更有机会是现实主义的，因为天空是关于恒星炼金术和物质谱系的一篇真正的论文。
+
+恒星的故事恒星的故事，明亮与黑暗的
+
+太阳的故事，实际上也是任何恒星的故事，都围绕着核火炉与引力之间古老的斗争展开。由热，或更确切地说，由热量梯度产生的压力与引力坍缩相抗衡，并达成了一种绝妙的平衡。完美恒星的使命就是燃烧，在核的意义上，即在核反应中嬗变元素。
+
+但如果不提及一个更隐秘的致密化和物质统一的过程，它与核合成以及被锻造物质的散布同时进行，那么对恒星成就的描述将是不完整的。后者使核子种类多样化并将其散布，而前者则强加统一性，并将物质囚禁在引力的牢笼中，一种恒星的尸体。
+
+恒星也从事兼职工作。在最后时刻，这些天体沙漏揭示了超凡的珍珠：白矮星、中子星或黑洞，在最深的秘密宝库中孵化，而外层包层则随风飞去，像一艘满载所有财富和辉煌的帆船，那是慷慨的肥沃灰烬，以碳、氮和氧的名义。它们不知道自己在做什么。它们正在把成车的未来血肉倾倒入天空！
+
+恒星驱动星系演化。在它们生命的尽头，它们将核炼金术的产物播撒入空间。然后，在黑暗的云团中，免受光子肆虐，分子得以建立。恒星和行星不断地在冰冷的太空中诞生。
+
+“诞生”、“生命”和“死亡”这些词语在流行的天文书籍中常被用来描述恒星的周期。然而，让我们一开始就说明，恒星并不符合生命物质的标准，即使它们的外观随着演化而变化，并且它们的突然消失有时可能类似于死亡的残酷性，至少对于超新星类别的恒星是这样。根据定义，生命体持续从其环境中汲取能量，而恒星是自给自足的，从其自身物质中获得能量。
+
+恒星熄灭就像一根燃烧的木头，当它耗尽了所有可燃成分时，它发光仅仅因为它嬗变了化学元素。它不是一种存在，而是一种状态。一颗可见的恒星仅仅是一堆火，具有核结构。闪烁的恒星是物质周期中的明亮阶段，并且并非所有物质的阶段，因为中微子以及其他不受强相互作用和电磁相互作用影响的粒子（如果存在这样的粒子），并不参与将物质构建成物体。此外，还有不可见的天体，如黑矮星、中子星和黑洞，它们是可见恒星的直系后代。
+
+恒星不是生命体，而是改变结构和外观的天体。它们演化和繁殖，这就是为什么它们被说成是诞生、生活和死亡。
+
+在恒星演化的尽头它将自身的一部分——包含其过去活动的灰烬——释放到周围环境中。天空中的重元素含量增加，而地球的盐分也变得更加丰富。因此，分隔恒星的介质也在演化。当重元素含量达到2%时，生命和意识就会出现，正如我们从唯一已知的案例——我们自身——所推断的那样。
+
+大质量恒星被恰当地认为是驱动星系演化的力量，无论是在化学意义上还是在机械意义上。由于其极高的表面温度，它们发射出大量的紫外线，从而电离周围的星际介质。被大质量恒星的紫外线辐射加热的星际尘埃，会以红外形式重新辐射接收到的能量。这些恒星灼烧并搅动星际介质，注入它们新形成的原子。它们将粒子——所谓的宇宙射线——加速到光速的一个显著分数。这些粒子沿途粉碎由死亡恒星沉积的碳和氧原子核，从而产生轻质和稀有元素锂、铍和硼。锂在很久以后才被用于治疗试图研究其来源的天文学家们的神经衰弱。硼结合到硼硅酸盐中，以Pyrex烤盘的形式存在于许多烤箱中。铍赋予海藻和蓝宝石其强烈的色彩。
+
+对于那些想在纸上构建类似宇宙的人来说，需要朝一个方向或另一个方向进行调整，以避免其完全缺乏复杂原子核。一个完全由氢构成的宇宙与我们的不会相差太大，但如果所有恒星最初都由氦组成，它们会燃烧得非常快。一个氦太阳只会燃烧大约1000万年。行星很可能没有时间形成。也不会有水。
+
+目前，恒星形成了一个由不同质量、处于演化不同阶段的恒星组成的群体。它们以悠闲的速度燃烧燃料——主要是氢，然后转变为氦——第一次反应的灰烬，接着是碳、氧，最后是硅，前提是它们的核心温度（质量）足够。硅燃烧产生铁，铁在核反应意义上不会燃烧，因为它是自然界中已知最稳定的原子核。从这一刻起，恒星就注定要灭亡。核火与引力之间的漫长斗争开始向引力一边倾斜。核心坍缩，外层向下坠落然后再次反弹。内爆之后一瞬间便是爆炸。恒星将其制造的原子撒向太空。因此，天空中最肥沃的天体是超新星（参见附录3和4）。
+
+所有天体物理反思的工作都旨在赋予“恒星”一词以意义。结果表明，恒星演化的描述符合已知的物理理论和核过程。
+
+在宇宙中，同样的模式反复出现：微观世界中的原子和宏观世界中的恒星。原子与恒星是相关的，因为恒星是原子之母。这一陈述概括了二十世纪的一项伟大发现。核天体物理学的任务就是勾勒出这种关系的细节。物质的创造已经成为科学研究的主题。大多数原子的来源，或者更准确地说，它们的原子核，是恒星。
+
+但什么是恒星？一个工匠，一只蜜蜂，一个熔炉，一个在极高压下运行的物理系统？在宇宙的总体经济中，恒星扮演着尽责工匠的角色。它们是核炼金术的场所。物质部分非物质化以产生光，而简单的物质变得复杂：氢转变为氦，氦转变为碳和氧，氧转变为硅，硅转变为铁。
+
+恒星燃烧自己的灰烬，以及灰烬的灰烬，但铁不会燃烧，核火熄灭了。核心坍缩的蓝巨星如花朵般绽放，将它们成群的带翼原子撒向天空。它们光芒的消逝被“超新星！”的呼喊所确认。
+
+这些超新星的母星是蓝色的，这正是因为它们既热又质量巨大。一代又一代的蓝星驱动着星系的生态，增强了星际堆肥中沉淀的美丽云团，其中包含了对生命至关重要的元素：碳、氮、氧、镁、硅、硫和其余部分。请记住我们蓝色的祖先，我们原子的母亲；是时候我们认识它们，以及它们自己模糊的祖先——光，以及它的父亲——繁荣的虚空。
+
+大爆炸理论，广义相对论和天文学的自然产物，已经与核物理学相结合，教导我们氢和氦从一开始就存在下来，而恒星作为引力束缚的核反应堆，已经在它们的坩埚中从较简单的元素制造出了从碳到铀的所有其他元素。它们如花朵般绽放，释放出无数各种各样的原子，从而播撒下生命的种子。未出生者就在那里，在超新星周围，在一个已放弃其物质的被撕裂的恒星周围。恒星与人类之间的联系因此是物质的、遗传的和历史的。
+
+通过在某些热物体或剧烈的天文事件中增殖的核反应来研究原子核的合成，可能看似一项超人的任务。确实，理解化学元素的合成以及金属的构造并非易事。
+
+stars. But patience and determination have eventually dispelled the more resistant mysteries and in recent years significant progress has been made in understanding the origin of the elements. The main sites of nucleosynthesis have now been assigned to the various species of atomic nucleus.
+
+The planets do not feature amongst these sites. It has become totally unreasonable to attribute the paternity of quicksilver (mercury) to the planet Mercury, to associate iron with the red planet Mars, and lead with Saturn. We know today that iron, lead and mercury come from supernovas.
+
+Synopsis of nucleosynthesis Like chemistry, nuclear astrophysics is a combinatorial art. Nuclear reactions are written down like chemical reactions, replacing atoms with nuclei.
+
+The earliest nucleosynthesis belongs to cosmology. A first flurry of nuclear reactions took place in the great primordial heat occurring between 1 and 100 seconds after the Big Bang. The species H, D, 3He, 4He and 7Li were synthesised in proportions that depend on the baryonic density of the Universe (Vangioni-Flam & Cassé 1998) (see Appendix 1).
+
+This sequence effectively breaks off at atomic mass 7 because the heirs of helium are so incurably unstable. In particular, 4He + 4He → 8Be (unstable). The Universe had to make stars in order to pursue the long road to nuclear complexity.
+
+Lithium, beryllium and boron are products of nuclear spallation, that is, the shattering of heavy nuclei, mainly carbon, nitrogen and oxygen (collectively denoted CNO), themselves produced in stars. Fixed or moving CNO nuclei fragment upon collision with fixed or moving H and He to form the light and fragile species 6Li, 7Li, 9Be, 10B and 11B. In fact they are so delicate that they are destroyed in stars.
+
+In a classic article published in the journal Review of Modern Physics in 1957, Burbidge, Burbidge, Fowler and Hoyle described the various processes responsible for synthesising chemical elements during the evolution of stars. These processes include thermonuclear fusion and neutron capture.
+
+Iron is the chemical element with the highest binding energy in the nucleus. Consequently, the thermonuclear fusion process cannot proceed beyond this point. The successive combustion stages (hydrogen, helium, carbon, neon, oxygen and silicon) require ever-higher temperatures to overcome the electrical repulsion between reacting nuclei. The ashes from one cycle serve as fuel for the next. Hence, carbon is the ash of helium, which is itself the ash of hydrogen. Hydrogen is the best fuel in terms of energy production and the following cycles yield less and less energy. This also means that they last for shorter and shorter periods.
+
+The nature and duration of combustion phases depend on the mass of the star in question. Only stars with masses greater than 8M⊙ can string together all the fusion cycles.
+
+Remaining for a moment with the massive stars, a distinction must be made between slow, secular, quasi-static and explosive nucleosynthesis. The time-scale in the latter case is of the order of 1 second and it only affects the innermost layers of stars, rich in silicon, oxygen and carbon.
+
+Beyond iron, nucleosynthesis proceeds via neutron capture by iron and its neighbours. Two types of neutron capture, slow denoted by s and rapid denoted by r, come into play depending on the intensity and duration of neutron irradiation. Once the neutron has been absorbed, the resulting product depends on whether the neutron has time to convert into a proton inside the nucleus before a further neutron is absorbed. If the transmutation occurs before further capture, we have an s process, otherwise an r process.
+
+In the case of rapid capture, several neutrons are added before conversions of type n→p bring the neutron to proton ratio back to reasonable proportions. The r process requires impressive neutron fluxes and extreme densities and temperatures that can only be achieved in type II supernovas or the coalescence of two neutron stars. The details are not yet understood. However, we have no other explanation for the existence of gold and heavy isotopes of tin (121Sn and 124Sn), for example. There is another process, namely photodisintegration, which is very short-lasting and leads to nuclei poor in neutrons, or rich in protons (referred to as a p process).
+
+In the slow process, neutron captures are separated by n→p conversions, so that the result never lies far from the valley of stability. The s process takes place in much less extreme conditions. There are two forms.
+
+1. The main s process synthesises neutron-rich nuclei with atomic number A greater than 100 and occurs in asymptotic giant branch (AGB)-type red giant stars undergoing thermal palpitations.
+
+2. The weak s process produces nuclei between A=60 and 100 and accompanies helium fusion in massive stars.
+
+By coupling the nuclear reaction network to stellar models, we may calculate the compositions resulting from these nuclear processes, under any imaginable set of conditions. Reaction probabilities are supplied by nuclear physicists. Thanks to these stellar numerical models armed with the relevant microscopic data, the star becomes transparent and we may follow its career right through from nebulous birth to lustrous death, watching the nuclear combustion cycles string together.
+
+Hydrogen fusion via either the proton–proton chain or the CNO cycle in the centre of stars comes to an end when most of the hydrogen has been transformed into helium. Helium fusion produces two elements essential to life, namely carbon and oxygen.
+
+and oxygen. In fact, carbon constitutes 18% of our bodies, and oxygen 65%, whilst the fractions of these same elements in solar material are just 0.39% and 0.85%, respectively. Only hydrogen and helium are more abundant in the Sun.
+
+Theoretically, helium fusion is inhibited by the absence of stable nuclei with masses between 5 and 8, which would bridge the gap to carbon. However, the existence of carbon-containing structures such as ourselves implies that the stars have managed to get around this difficulty. Unable to produce carbon by two-body reactions, they build from three ingredients: 3⁴He → ¹²C. This triple reaction encounters very favourable conditions in red giants, with core temperatures of 100 million K, because an excited state of carbon exists there (at 7.65 MeV). This excited state considerably increases the probability of reaction. Without this providential energy level, predicted by Hoyle in 1954 and discovered later, carbon could not have been produced by red giants and life would have gone another way. Let us say no more.
+
+The reaction α + ¹²C → ¹⁶O + γ converts a substantial fraction of the carbon into oxygen. Oxygen production is sometimes followed by neon production via the reaction α + ¹⁶O → ²⁰Ne + γ.
+
+In stars of mass less than 8 M⊙, core fusion then breaks off, leaving an inert star whose core of carbon and oxygen is degenerate in the quantum sense of the term. This is the white dwarf. The word ‘degenerate’ comes from the vocabulary of quantum theory, which in this case applies to electrons in conditions of very high density and relatively low temperature. By virtue of the Pauli exclusion principle, the electrons refuse further compression and indeed exert a pressure which opposes gravitational contraction of the star. The pressure is no longer proportional to the temperature. Matter has lost its gaseous flexibility.
+
+Beneath their placid exterior, white dwarfs are very sensitive to the addition of matter from without. The slightest excess ends in a brilliant flash of light (a nova) or an explosion (a type Ia supernova).
+
+Another important reaction chain for future phases, including the final nuclear statistical equilibrium (see below), is one which enhances the neutron content of matter via the weak interaction (β⁺): CNO → ¹⁴N, ¹⁴N + α → ¹⁸F + γ, ¹⁸F → ¹⁸O + ν + e⁺, α + ¹⁸O → ²²Ne + γ, α + ²²Ne → ²⁵Mg + n.
+
+Helium fusion moves directly from helium to carbon, leaping across the lithium–beryllium–boron trio. These nuclei are not produced in stars. Indeed, they are destroyed there, as a result of their excessive fragility. They are generated in the interstellar medium by collisions between high energy nuclei and protons and helium nuclei at rest, and also by the opposite process which amounts to swapping over target and projectile, as already mentioned.
+
+In stars of mass greater than 8 M⊙, thermonuclear fusion can proceed further. Their cores continue to heat up. The evolution is greatly accelerated by emission of neutrinos and antineutrinos. The characteristic time-scale of nuclear evolution in the core becomes shorter than the time required by the visible envelope to readjust. It follows that the internal evolution does not result in any changes in colour or luminosity. Everything happens as though a star made up of heavy elements were living and evolving within a red supergiant (in the lighter cases) or a blue supergiant (for the more massive stars).
+
+When helium fusion comes to an end at the centre of the star, its carbon/oxygen core contracts and the temperature rises. At a temperature slightly below 1 billion K, carbon is ignited.
+
+Carbon fusion produces neon, sodium and magnesium via reactions of the following type: ²⁴Mg + γ, ²³Mg + n, ¹²C + ¹²C → ²³Na + p, ²⁰Ne + α, where γ, n, p and α denote a gamma photon, a neutron, a proton and a helium nucleus, respectively.
+
+Neon fusion takes over when the temperature reaches 1 billion K. At this temperature, thermal photons have enough energy to knock fragments off neon nuclei in the form of helium: γ + ²⁰Ne → ¹⁶O + α.
+
+Helium nuclei released in this way are captured by as yet unbroken neon nuclei to form magnesium-24: α + ²⁰Ne → ²⁴Mg + γ.
+
+When neon combustion is concluded, the star comprises mainly oxygen and magnesium.
+
+Oxygen fusion begins when the temperature reaches some 2 billion K. The main reactions are: ³²S + γ, ³¹P + p, ¹⁶O + ¹⁶O → ³¹S + n, ²⁸Si + α.
+
+The most important reaction product here is silicon-28, which results from the addition of two oxygen nuclei accompanied by the loss of one helium nucleus.
+
+In the case of silicon fusion, which begins at around 2 billion K, the reactions proceed in a slightly different manner and we return to a fusion scheme similar to that of neon. At this temperature, silicon nuclei are gradually gnawed down by thermal photons which detach helium nuclei, protons and neutrons from them. These light nuclei combine with intact silicon to give nuclei in the region of iron. Schematically, ²⁸Si + γ → 7α, ²⁸Si + 7α → ⁵⁶Ni, ²⁸Si + γ + p + n → iron peak.
+
+These reactions, which are extremely fast, are often balanced by the reverse reactions, so that an approximation known as nuclear statistical equilibrium can be applied. In this case, the most stable species, i.e. those possessing the highest binding energy, are favoured. The result depends on only three parameters, viz. temperature, density and neutron/proton ratio. The latter in its turn results from the previous nuclear reactions and the composition of the star at birth, through neon-22 (see above).
+
+Carbon and neon fusion on the one hand and oxygen and silicon fusion on the other are grouped together because they very often lead to similar results. In the final stages of their evolution, stars take on an onion-like structure, with a central iron core and successive shells of silicon, neon, carbon and oxygen, helium and hydrogen. At this stage the core is dominated by iron-54 and is degenerate because of its high density, whilst above it silicon, oxygen, helium and hydrogen burn in their respective layers. The star shines by the light of its last remaining embers.
+
+The following stage is core collapse caused by electron capture or photodisintegration of iron. According to the traditional view, collapse leads to formation of a neutron star which cools by neutrino emission and decompression of matter when it reaches nuclear density (10^14 g cm^−3). The rebound that follows generates a shock wave which is capable of reigniting a good few nuclear reactions as it moves back out across the stellar envelope. Strengthened by absorption of high-energy neutrinos, the shock wave expels the outer layers. Seen from outside, the star appears to have exploded. On Earth, this fabulous event is greeted with the joyous shout of ‘Supernova!’
+
+The sudden heating caused by the shock wave and the rapid cooling that ensues therefore rekindle nucleosynthesis. The composition of the silicon shell and part of the oxygen shell is modified by explosive nucleosynthesis, although it only lasts for a split second. This differs from previous forms of nucleosynthesis in that the weak interaction is as though frozen, or paralysed. It is the radioactive nuclei produced in this brief event, mainly nickel-56, that make the supernova shine with diminishing light curve as time goes by (Fig. 5.4).
+
+Globally, then, oxygen, neon and magnesium originate in hydrostatic shell combustion and the quantity synthesised and ejected increases with the mass of the progenitor star, whilst sulphur, argon, calcium and iron are essentially due to explosive nucleosynthesis and the ejected mass is much less variable from one star to another. In this way we climb the stairway to nuclear complexity.
+
+Elements beyond iron cannot be efficiently produced by nuclear fusion because of the strong electrical repulsion occasioned by their highly charged nuclei. The temperatures required to overcome this repulsion are so high that no nucleus can survive the subsequent bombardment by rampaging photons and the resulting photodisintegration. Even iron is destroyed. For this reason, heavy elements can only be synthesised by successive neutron captures on elements around the iron peak, interspersed by transmutation of neutrons into protons (β decay) within the resulting nuclei.
+
+Neutron capture may occur over a time-scale that is long enough to allow all possible β decays to take place, in which case we refer to the s process, or quite the opposite may happen, and we have the r process, as discussed earlier. The two processes lead to quite distinct abundance distributions (Fig. 5.5).
+
+In a continuous flow of neutrons, the abundance of each element is inversely proportional to the probability (cross-section) of neutron capture. Nuclei with closed neutron shells (N = 50, 82, 126) oppose the adjunction of further neutrons and this leads to accumulation and abundance peaks for these numbers. Likewise, even nuclei (with even numbers of protons) have lower probability (cross-section) for neutron capture than odd nuclei, and this results in a greater abundance of the former. The even–odd imbalance is manifested once again.
+
+The s process builds up an abundance distribution with peaks at mass numbers (A = Z+N) 87, 138 and 208 and pronounced even–odd imbalance. The main component of the s process is associated with thermal pulsations of stars in the asymptotic giant branch (1–3M⊙) which produce neutron densities between 10^7 and 10^9 cm^−3 (Fig. 5.6).
+
+Fig. 5.4. Schematic evolution of the internal structure of a star with 25 times the mass of the Sun. The figure shows the various combustion phases (shaded) and their main products. Between two combustion phases, the stellar core contracts and the central temperature rises. Combustion phases grow ever shorter. Before the explosion, the star has assumed a shell-like structure. The centre is occupied by iron and the outer layer by hydrogen, whilst intermediate elements are located between them. Collapse followed by rebound from the core generates a shock wave that reignites nuclear reactions in the depths and propels the layers it traverses out into space. The collapsed core cools by neutrino emission to become a neutron star or even a black hole. Most of the gravitational energy liberated by implosion of the core (some 10^53 erg) is released in about 10 seconds in the form of neutrinos. (Courtesy of Marcel Arnould, Université Libre, Brussels.)
+
+Fig. 5.5. Decomposition of Solar System abundances into r and s processes. Once an isotopic abundance table has been established for the Solar System, the nuclei are then very carefully separated into two groups: those produced by the r process and those produced by the s process. Isotope by isotope, the nuclei are sorted into their respective categories. In order to determine the relative contributions of the two processes to solar abundances, the s component is first extracted, being the more easily identified. Indeed, the product of the neutron capture cross-section with the abundance is approximately constant for for all the elements in this class. The figure shows that europium, iridium and thorium come essentially from the r process, unlike strontium, zirconium, lanthanum and cerium, which originate mainly from the s process. Other elements have more mixed origins. (From Sneden 2001.)
+
+Number of protons 56Fe target Number of neutrons, N Fig. 5.6. Path of s and r processes across the (Z,N) plane. Everything begins with iron. The s process follows roughly along the valley of stability, flowing like a river along the banks it defines. It ends with the α decay of bismuth-209. The r process takes matter far out of the valley on the neutron-rich side, whilst the weak interaction brings it back to the fold. In this case neutron capture continues until the nucleus undergoes fission. The climb to neutron-rich summits is indeed vertiginous.
+
+The distribution of r-process nuclei is characterised by peaks shifted to 80, 130 and 195, and an absence of the even–odd imbalance. There is still debate about where exactly the r process occurs, although supernovae have been suspected from the very beginning (Burbidge et al. 1957). According to the most popular model, it takes place in the hot (high entropy) bubble that surrounds incipient neutron stars. In this region the high photon/baryon ratio favours photodisintegration and this in turn generates a large number of neutrons and a small number of iron nuclei. Each iron nucleus can thus be frequented by a great many neutrons (10^{20} cm^{-3}). As they have no electrical charge, these neutrons may insidiously introduce themselves into the iron, thereby transforming it into some neutron-saturated exotic species. The latter then stabilises through a chain of β decays, transforming neutrons into protons within the nucleus. Although it seems attractive, this model nevertheless encounters problems and indeed opposition from some quarters.
+
+Sociology of stars and clouds
+
+Glossary Bok globules dense, compact and cold interstellar clouds Doppler effect frequency shift between emitted and received light due to the relative motion of the source and observer lepton light particles of the same family as the electron microquasar miniature quasars discovered in our own Galaxy photodissociation breakup of molecules by photons spark chamber device for detecting gamma rays by production of electron–positron pairs superluminal velocity a velocity apparently greater than the velocity of light
+
+Galaxies: structural units of the cosmos On a beautiful night a faint band of diffuse light may be seen sloping across the sky from one horizon to the other. This non-uniformity, or anisotropy, in the distribution of stars is the stamp of our own Galaxy, a flattened disk containing billions of stars. We observe the disk edge-on from a point on the outskirts, exiled some two-thirds of the way along the galactic radius, about 30,000 light-years from the centre.
+
+So we are not even at the hub of our own star system! The disk itself is only a few hundred light-years thick, if we exclude the central bulge and halo, a spherical region filled with ageing stars.
+
+The mean distance between any two stars is of the order of a few light-years. Even the nearest stars are so far away that we perceive them as mere points of light. Amongst all the stars, the Sun located just 8 light-minutes away is the only one close enough to appear as a disk. It is an incandescent sphere of gas over 1 million km in diameter and its brightness and warmth are entirely due to its proximity.
+
+Immense clouds of cold and rarefied gases float between and around the stars. These clouds are mainly composed of hydrogen, the most widespread element in nature. Stars form there and contribute their ashes to them when they reach the end of their evolution (Fig. 6.1).
+
+The flattening of the Galaxy suggests that it is rotating about an axis perpendicular to the disk, and this is indeed confirmed by direct observation of the large-scale motions of the stars. In fact, they orbit about the galactic centre, making a complete revolution every 200 million years.
+
+Fig. 6.1. Stellar nursery in the constellation of Orion. Molecular clouds A and B were detected by their radio emissions. They appear to have given birth to several generations of stars (1a, 1b and 1c).
+
+The visible Universe is populated by a whole range of galaxies of different shapes – spiral, elliptical or irregular. Their size also varies, from a few thousand to a few hundred thousand light-years. They occur alone or gathered into colossal groups. Distances separating galaxies are of the order of 1 million light-years. They are all rotating, and those spinning most rapidly are spirals. Irregular galaxies contain large quantities of gas, the spirals less and the ellipticals almost none at all.
+
+Apart from rotating about their axes, the galaxies display systematic motions relative to one another. In fact, they are moving apart at speeds proportional to the distance between them. The recession speed amounts to some 100 km s^{-1} for every 3 million light-years of separation. This overall motion is the clearest evidence we have for the expansion of the Universe.
+
+How did the galaxies and protogalaxies form? How did matter gather up in this way, despite the expansion of the Universe which tends rather to dilute it? Since distances grow as time goes by, the galaxies were necessarily closer together in the past. Was there a time when they were actually fused together into one? Was this the origin of the Universe, the beginning of time? Not at all! Neither stars nor galaxies c Would have existed in the primordial furnace, for if one were to reverse the arrow of time, the Universe grows hotter. And when the sky is hotter than the stars, those stars must dissolve into the sky. When the temperature of the sky background was several thousand degrees (equivalent to the surface temperature of a typical star), matter would not have been able to collect together into stars. In fact, stars were made to shine in a black and cold sky. They are designed to give light, not to receive it. Consequently, stars and galaxies could not have existed as such in the early Universe, when light and matter were compounded.
+
+As a rule, cosmology concerns itself with the evolution of the Universe and is more transparent than cosmogony, the study of creation. Births, of the Universe, galaxies or stars, or originating events of any kind represent the more obscure episodes in the history of the Cosmos. It is no surprise to observe that the notion of ‘origin’ is more opaque than the notion of ‘evolution’. One day we will be able to observe the primary genesis of the architectural themes of our Universe. There are signs that the birth of galaxies will soon be witnessed, and we already have a theoretical premonition.
+
+Only those scraps of matter more concentrated than the medium in which they have accumulated can foretell the emergence of cosmic forms. And these embryonic galaxies can only be random concentrations of the undifferentiated magma comprising photons, baryons and non-baryonic particles.
+
+Basic models of massive non-baryonic matter (of neutralino type) suggest a hierarchical formation of structures. They work on the hypothesis that primordial density fluctuations develop in the dark substrate, and that they grow and prosper under the effects of gravity. In this way small structures made up of both baryonic and dark matter are the first to condense out. The baryonic clouds cool down and lose enough kinetic energy to come under the sway of their own gravity. Collapse by condensation of particularly dense and cold regions is then likely to bring about the formation of stars or protostellar systems at redshifts z between 10 and 30. Such systems would subsequently mass together into protogalaxies, and these would assemble to produce well-formed galaxies.
+
+Stellar and galactic structure formation will be observed and analysed in the infrared and submillimetre region of the electromagnetic spectrum using the NGST, FIRST and ALMA telescopes. One of the most moving episodes in the history of the Universe will thus be revealed: the emergence of the first starlight and the first material forms.
+
+But darkness will not be absent from this blossoming. It is becoming clear that the formation of supermassive black holes, with masses between a hundred thousand and a hundred million times the mass of the Sun, resulting from the unrestrained collapse of baryonic matter, must influence the genesis and prehistory of stellar societies. The first giant black holes would thus have come into being around z = 10. These gigantic structures will very probably be detected in their childhood phase by their effects on surrounding gases. Such effects will be detectable in the X-ray band using highly sensitive instruments like the future telescope XEUS.
+
+By studying the X-ray line of iron at 6.7 keV, we will greatly improve our understanding of the progressive synthesis of metals, and more generally, the chemical evolution of the cosmos. The composition, mass and temperature of the true intergalactic medium, which seems to be dominated by a very hot gas with filamentary structure, should also be revealed by XEUS, a marvellous balcony looking out across the Universe. May we relish the prospect!
+
+Dialectic between stars and clouds
+
+Let us return to the fountain of our own origins, the Milky Way. Astronomy today resounds with discoveries which, although exciting in themselves, only involve tiny details of our island universe. The study of particular objects is of course an interesting exercise, but it would be wrong to lose sight of the overall architecture to which they contribute. Clouds, stars, cosmic rays and magnetic fields are woven together into an intricate tracery that we so elegantly call the Milky Way. It is difficult to put the interior into perspective because the closest objects effectively form a veil and we are faced with a classic situation of not being able to see the wood for the trees.
+
+Buried within its dusty disk (two grains of dust per million cubic metres), our Galaxy is hard to view with any great clarity. Although we are moving along inside it, let us climb out in thought and attempt to draw the picture that an astronomer would see from a hypothetical planet located in one of the galaxies of the Virgo cluster. In fact, our star system would appear as a wheel of fire receding at about 1500 km s−1, brighter and redder at the centre than at the edges. A spiralling wave would be discerned, made up of a twirl of blue stars.
+
+Using a spectrograph to analyse light from the stars and gaseous nebulas at different distances from the centre of the disk, compositional variations would be observed. For example, the oxygen content would be seen to decrease in moving out from the centre towards the edge.
+
+A luminous bulge would be found to adorn the centre of the system, a kind of stellar prominence or swelling. Red globules would be seen to swarm around the flattened disk. This picture would be so easy for the extragalactic astronomer to observe with the appropriate telescope, whilst human Human beings have had to build it up from scratch, piecing together millions of observations fixed up where necessary with ingenious theoretical extrapolations. Completely immersed within our star system, no global perspective will ever be available to us.
+
+Let us escape from our starry prison. In sentimental mood, astronomy inspires the same kind of emotions as the Valley of the Kings. The magnificent architectonics of star societies are astounding and exhilarating.
+
+Visible light from galaxies similar to our own is mainly emitted by stars, especially the youngest, the most massive and the bluest amongst them, and the gas clouds which they illuminate. Galaxies forming stars at a high rate, such as the Large Magellanic Cloud (LMC), will seem bluer and less uniform than the Milky Way and other spiral galaxies. Those that have fallen to the lowest levels of star formation will appear uniformly reddened.
+
+Naturally, the first category abounds in cold and dusty clouds. We know from having studied such objects at close quarters that these clouds give birth to generation after generation of stars. The second category of galaxy on the other hand stands out by the lack of such fertile nebulosity. Why have some galaxies transformed virtually all their gas content into stars whilst others seem to have conserved their gas over all these billions of years?
+
+It is their shape that gives us a clue. All galaxies probably comprise a flat disk and a spherical halo. They then differ according to which of the two components is pre-eminent. The disk is the place where stars are currently forming, whilst the halo attests to past activity, being a gathering of ancient stars. Only the smaller and hence redder of these ancient stars still shine, because the massive and ephemeral blue stars have by now burnt out.
+
+The disks of elliptical galaxies are more or less invisible, just like the haloes of irregular galaxies. For its part, the Milky Way sports a prominent disk, crowned by an equally distinguished halo. Bright stars and ionised gases trace out the spiral arms that so beautifully ornament the disk. Old stars, grouped into globular clusters, crown the precious disk.
+
+As already mentioned on several occasions, two types of star can be distinguished by their chemical composition, their motion (velocity) and their membership of the galactic halo or the disk. The first population is old and poor in metals. These are witness to the epoch when the newly born galaxy still sought its final shape.
+
+Galaxies are the structural units of the Universe, the stones used to build up the Cosmos. So, rather than asking how old the Universe is, we might begin by asking how old the galaxies are, starting with our own. Just as a man is as old as his bones, we might say that the Galaxy is as old as its globular clusters, that is, between 12 and 14 billion years.
+
+The total mass of the Galaxy is about 10¹² M☉. Of this 1000 billion solar masses, only about one-tenth is actually visible. This is what is implied by the Galaxy’s rotation curve, i.e. the graph of its rotation speed at different distances from the centre. All other matter is therefore classed as dark matter. The mass of stars is thus about 100 billion solar masses, and the mass of interstellar material a few billion more.
+
+The stars are sparsely distributed. If they were raindrops, they would be about 100 km apart.
+
+The interstellar medium comprises mainly hydrogen and helium, divided up into clouds of bright or dark gas that glitter elegantly. The glitter is tiny grains of solid matter. The mass of dust is only one-hundredth part the mass of gas, amounting to about 10 million solar masses. However, its effect on the light from stars and on interstellar chemistry is crucial.
+
+Most of the gas in the Galaxy is contained within the disk and in particular in the spiral arms, hence in a layer only a few light-years thick. Although we cannot claim that the space between the stars is empty since the interstellar medium is actually observable, it is not far from being so. It contains on average about 1 atom cm⁻³, far less than the best laboratory vacuum.
+
+The interstellar medium is thus extremely dilute and highly inhomogeneous. The sparsely scattered material floating between the stars has a mass that only barely exceeds a few percent of the mass incorporated into visible stars. But the interstellar medium bathes in a yet more diffuse entity. Indeed a swarm of fast-moving particles fills it from one side to the other, streaming across in all directions.
+
+Interstellar chemistry 111
+
+This extremely tenuous gas of high-energy particles is superposed upon the other gas of atoms almost at rest which constitute the galactic disk. It includes in its arsenal all the atomic nuclei yet known to us, but also a smattering of elementary antimatter (antiprotons and positrons). These antiparticles are not primordial, but generated by collisions between protons in which part of the proton kinetic energy is transformed into electron–positron or proton–antiproton pairs. What could be more natural? It would, however, be quite astonishing to find even a single anti-helium nucleus. Astrophysics and cosmology would be thoroughly shaken. The AMS (Anti-Matter Spectrometer) is designed to give a clear answer to the question of whether anti-stars exist in the Universe. This project consists in setting up a superconducting magnet aboard the International Space Station to separate matter and antimatter in cosmic rays.
+
+Continually irradiated by photons and bombarded by high-energy particles, space is radioactive. The only relatively sheltered regions are reperhapsthoseat theheartofdensemolecularclouds,asattestedbytheirextremelylowtemper- atures(3–30K).
+
+The gaseous component is made up of a mixture of atoms and molecules which may be either ionised or electrically neutral. Despite its modest pro- portions,thedustcomponentplaysadeterminingroleinthethermodynamics andchemistryoftheinterstellarmediumandinthestarformationprocessthat subsequentlygovernsthewholeevolutionoftheGalaxy.
+
+Dustgrainsactlikestonesinthedesert.Theyaccumulateheatandrestoreitto themediumintheformofinfraredradiation.Theyareintermediariesbetween light from stars and interstellar gas, for they absorb stellar photons in a most efficient manner. This is why these clouds appear so dark in photographs. In fact,theyshineintheinfrared.TheduststrewnacrosstheGalaxytradesthebig moneyofstellarlightforthesmallchangeoftheinfrared.
+
+Thetaskoftheperfectcloudisthustoconfiscatevisiblelightbyabsorbing orscatteringit.Thiscollectiveeffectisknownasextinction.Suchattenuation providesprotectionagainstdevastatingUVradiation.Shelteredattheheartof a dense cloud, molecules can proliferate and put together a whole range of chemistry,calledinterstellarchemistry.Itisoftencatalysedbythedustgrains themselves,fortheseoffertheirsurfaceasareactionarena.Complexorganic moleculescanthusbuildupandathinfilmoficemaycoverthegrains.
+
+Interstellarchemistry Until1968,astronomershadalwaysassumedthattheinterstellarmediumwas essentiallymadeupofatomichydrogen.Indeed,thisubiquitouselementleaves itstraceineveryquarterintheformofaspecificradiationlineatwavelength 112 Sociologyofstarsandclouds Table6.1.Fractionalabundance ofelementsrelativetohydrogen Element Fractionalabundance O 7×10−4 C 3×10−4 N 1×10−4 Si 3×10−5 Mg 3×10−5 S 2×10−5 Fe 4×10−6 21cm.Thenammonia(NH )wasdiscoverednearthegalacticcentre,followed bywatervapourandawholelitanyofevermorecomplexmolecules,including ethanol(CH CH OH).Thereisfarmorealcoholininterstellarcloudsthanin 3 2 alltheexistingbottlesofarmagnac!
+
+TheradiotelescopesatIRAM(InstitutdeRadioastronomieMillime´trique),a French–Spanish–Germanconsortium,canlayclaimtoagoodfewdiscoveries of new cosmic molecules over the past ten years. The IRAM interferometer onthePlateaudeBuresinFrancecombinessignalsgatheredbyfiveparabolic antennas.Ithasanangularresolutionof0.5arcsecat1.3mm.
+
+This wavelength corresponds to a transition of the carbon monoxide (CO)
+
+molecule which is found right across the Milky Way and in other galaxies.
+
+Radioastronomersconsiderittobeagoodtracerformolecularhydrogen,with which it tends to cohabit and which blossoms into stars. For it should not be forgottenthatstarscomefromthecold.Precisemapsobtainedbyinterferometry demonstrate the great chemical wealth of the envelopes surrounding evolved stars.Everydaythelistofdetectedmoleculesgrowslongersothatitincludes severaldozenatthetimeofwriting(2000).
+
+We owe much to radioastronomy. It has taught us, for example, that the interstellarmediumisthesiteofcomplexandvariedchemistry,quitedifferent to the chemistry we know and practise on Earth. Indeed conditions in space areveryspecial:lowtemperaturesanddensitiesareoftenaccompaniedbythe effects of extreme radiation. All chemistry taking place in space depends on thecosmicabundancesofthereagents.Thecommonestelementstakingpartin thecombinatorialartofatomsarelistedinTable6.1,basedontheabundance diagram.
+
+The discovery of a new molecule in the sky involves not only a radioas- tronomyobservation,butagooddealoflaboratoryspectroscopyandquantum Theplightofhydrogen 113 chemistry. Measurements of molecular reaction rates have to be made at ex- tremelylowtemperatures,includingtheprobabilityofphotodissociation.This isthecoldanalogueofnuclearastrophysics,whosemethodswerediscussedin anearlierchapter.
+
+Theextremelyvariedphysicalconditionsreigningintheinterstellarmedium, asregardspressure,temperature,densityanddifferenttypesofelectromagnetic radiationpresent,thusbegetacomplexandunfamiliarchemistry.Theultimate product is the raw molecular material that goes into the building of planets and even life itself. These presolar molecules are found in the cometary and meteoriticmatrix,toourgreatwonder.Withoutthedust,though,theevolution oftheGalaxywouldhavebeenverydifferent,forthedevelopmentofplanetary systemswouldhavebeenexcluded.Dustisthemissinglinkbetweenstarsand life.Astrochemistrywillperhapsclearthewaytoastrobiology!
+
+Theplightofhydrogen Clouds of gas in the interstellar medium are called gaseous nebulas. These nebulasareregionsoftheinterstellarmediumwithabove-averagedensity.The proportionsofelementsintheinterstellarmediumconformtotheabundances inthetable,thatis,90%hydrogenatoms,9%heliumatomsandlessthan1% heavieratoms,wherethesepercentagesnowrefertorelativenumbersofatoms ratherthanrelativemass.
+
+Thegaseousnebulasaredividedupintodarknebulas,reflectionnebulas,HII regions(seebelow),planetarynebulasandsupernovaremnants.
+
+Dark nebulas are observable by the fact that they conceal the stars behind them. Indeed, the total darkness of certain regions of the sky in which there appear to be no stars suggests that there must be some kind of screen. If there is nothing there, then there must be something there.
+
+Some are spherical and are in fact trapped within their own gravitational influence. These are the Bok globules. They are fertile regions, propitious for star formation. They are sometimes found buried within giant molecular clouds, themselves the building blocks of the Galaxy. Molecular cloud complexes like the one in Orion, for example, are cold and have a very limited lifespan of the order of 10 million years. This is very short indeed compared with the Sun. As their name suggests, they are rich in molecules such as hydrogen and carbon monoxide.
+
+Reflection nebulas are visually much more beautiful. These are clouds of gas and dust that shine by light borrowed from nearby stars, just as the planets shine by the reflected light of the Sun. Starlight is scattered by dust grains floating in the surrounding gas, thus giving away their presence. These nebulas have a blue tinge, for light is more efficiently scattered at these wavelengths. This is why the sky is blue on Earth. It is in fact the air that tints the sky this way, as Leonardo da Vinci pointed out.
+
+To all intents and purposes, galactic space can be assumed to be filled with hydrogen at an average density of 1 atom cm⁻³, although certain localised regions are much denser, so that others are less dense but more extensive. When the density exceeds a certain critical threshold, hydrogen atoms join up pairwise to form hydrogen molecules (H₂). The densest region of the Orion nebula contains 1 million cm⁻³ hydrogen molecules, or even more.
+
+Localised regions of ionised hydrogen are called HII regions, indicating that the hydrogen atoms are in their second state of ionisation. They appear everywhere in which neutral hydrogen atoms (HI) are exposed to photons with energies above 13.6 eV, because this is the binding energy holding the electron onto the hydrogen nucleus. High-energy photons ionise hydrogen atoms to form protons (H+) and electrons. HII regions are thus bright, ionised regions around massive, young stars of types O and B. Their spectra are dominated by emission lines.
+
+By studying radio and optical spectra from HII regions and planetary nebulas, to be discussed immediately below, we may establish the abundances of several elements, in particular, helium, absent from the solar spectrum,¹ a point of great cosmological significance, but also nitrogen and oxygen.
+
+**Planetary nebulas**
+
+Planetary nebulas are so named because some of them, when viewed by telescope, vaguely resemble planets. In reality they are a thousand times bigger than the whole Solar System and bear no relation whatever to planets. The most famous among them is the Ring nebula in the constellation of the Lyre (M57 in the Messier catalogue). Other wonderful examples can be found on the Internet at the European Southern Observatory website (see Appendix 8).
+
+A hot star at the centre is surrounded by a bright shell of gas that has detached itself from the central star. The gas shines by fluorescence. It absorbs ultraviolet light from the small, hot central star (white dwarf) and re-emits it in the form of visible light. The big banknotes (UV photons) are exchanged for smaller denominations (visible photons). This picture prefigures the Sun’s own death. Our planet will be swept by a hot wind and the atoms of all the dead deposited in the earth will once more belong to the Sun. Born in the stars, the atoms will return to the stars.
+
+These nebulas are similar in some respects to the HII regions. The difference is that here the source of ionisation is an ageing star (white dwarf) in its death throes rather than a strapping young blue star. The fluorescent region is both denser and chemically more complex for it includes those atoms expelled from the envelope of the dying star in the form of a stellar wind.
+
+These superb gaseous coronas thus owe their appearance to the UV radiation emitted by the hot and compact central star. UV photons excite and ionise atoms in the nebula. When the electrons cascade back down to their original energy levels, photons are emitted at wavelengths in the visible range of the electromagnetic spectrum. The blue–green colour of many planetary nebulas is due to emission lines of doubly ionised oxygen at 500.68 and 495.89 nm. These objects have a characteristic temperature of 10000 K. The expansion speed of the gas, measured through the Doppler effect, is typically between 10 and 30 km s⁻¹. Given that the maximum radius is 0.3 parsecs, their age can be estimated at about 10000 years. After 50000 years, all the gas has dissipated into the interstellar medium. The planetary nebula phase is a fleeting moment in the life of a star. About 2000 such objects have been recorded. However, we only see the nearest ones. There are estimated to be about 50000 across the whole Galaxy. If each one contains on average 0.5 M⊙, planetary nebulas restore several solar masses of wrought matter to the Galaxy as a
+
+¹ The solar atmosphere is too cool to lead to helium excitation, and hence helium lines, except in exceptional conditions associated with flares. The helium content of the Sun is therefore inferred from observations of hotter stars.
+
+whole. This matter is enriched in helium and nitrogen, the ash produced in the nuclear combustion of hydrogen.
+
+Supernova remnants and a bright crab Supernovas are divided into two categories depending on the presence or absence of hydrogen lines in their light spectra. Those of the first type leave no compact residue.
+
+The archetypal Crab nebula results from the second type of supernova, for it encloses a neutron star at its heart, the corpse of an exploded star that can now be admired as a pulsar. Of all supernova remnants, the Crab nebula is the best known, located in the constellation of Taurus. The brightening that followed the explosion was observed by Chinese star-spotters on 4 July 1054, whilst in Europe, the schism was tearing the Church apart. Today, almost a thousand years after the signs of the cataclysm reached Earth (the explosion itself took place 6500 years before that, since the Crab nebula is located 6500 light-years away), the nebula resulting from the explosion is moving out from its centre at a speed of 1500 km s⁻¹ and shines as brightly as 80,000 suns. Most of the radiation is emitted in synchrotron form. This particular kind of radiation is produced when high-energy electrons are trapped inside magnetic fields, as we said earlier.
+
+The electrons lose energy by radiating and so have a limited lifetime. Tired electrons must somehow be replaced. The continuous source of relativistic electrons is in fact the central pulsar. Indeed, at the centre of the expanding nebula is enthroned a rapidly spinning neutron star (turning at some 33 revolutions per second), as witnessed by the punctuated message we receive on Earth. This star is clearly an excellent electron accelerator.
+
+A second example of an explosion remnant is the fine lacework of the Cygnus loop, located 2500 light-years from Earth. In supersonic expansion, the gas produces shock waves that excite and ionise interstellar matter, causing it to glow.
+
+The radio wave synchrotron emission is non-thermal in origin. However, a large part of the radiation from supernova remnants is thermal, for heat is generated by the passage of the shock wave from the explosion. These remnants radiate most of their thermal energy in the form of X-rays. Emission lines stand out from the spectrum, revealing the presence of magnesium, sulphur, silicon, calcium and iron. Unfortunately, in such agitated conditions, it is difficult to deduce reliable abundances for these elements in the smoking debris of the stellar corpse.
+
+Cosmic rays Galactic cosmic rays, as they are generally known, are made up of fast-moving electrons and nuclei which plough through space in all directions. At such speeds, the nuclei are stripped of all their electrons and their electrical charge is thus that of the nucleus itself. In particular, these charges are positive, e.g. +6 for carbon and +26 for iron. Being electrically charged, they are deflected by the assortment of magnetic fields that wind themselves in and out across the Galaxy. This means that their final direction when they arrive in our detectors bears no relation to their initial direction, unless they have an extremely high energy. In this sense then the study of cosmic rays is not genuine astronomy.
+
+Galactic cosmic rays are indeed galactic. Together with the magnetic field which confines them, they constitute an essential part of the overall energy content of the Galaxy. Indeed, their combined energy density of 1 eV cm⁻³ is on a par with that of the stars and interstellar gas. These cosmic rays exert a pressure which must be taken into account when analysing the large scale equilibrium of the Galaxy.
+
+The study of galactic cosmic rays is perhaps more an exercise in taste than in visual appreciation. In fact we determine their composition without ever really seeing them. However, they constitute the only sample of matter in our possession that comes from outside the Solar System. The chemical and isotopic composition of this sample is measured using balloon- or satellite-borne particle detectors, since the Earth’s atmosphere is fatal to them. When they slam into nuclei in the air, they fragment into tiny particles, thereby losing their original identity.
+
+Composition and energy distribution (energy spectrum) are the two clues that help us, after a long and painstaking enquiry, to understand the sources of these rapid nuclei and determine the mechanisms which first accelerated them.
+
+The lithium, beryllium and boron content of cosmic rays is particularly high. Indeed, the ratio of Li + Be + B to C + N + O is 0.25. We may take this as a direct proof that spallation occurs in space. On their way from source to detector, these fast-moving nuclei are occasionally involved in accidents, that is, collisions with the nuclei of atoms at rest (or relatively so) in the interstellar medium. As a result of such collisions, they may lose one or more nucleons and thereby change their identity. Hence, in a collision with a proton or helium nucleus, a fast carbon-12 nucleus may lose a proton to become boron-11. The ratio of boron to carbon gives an estimate of the quantity of matter encountered along the path.
+
+In order to reconstruct relative abundances of these nuclei at source, we must first expurgate all the fragmentation debris. This is done with the help of a model to be described shortly. The Galaxy is not totally closed as regards cosmic ray movements. Three dangers await any particle launched at high speed in the Galaxy: • deceleration and subsequent incorporation on into the interstellar medium; escape into extragalactic space; death or rather mutilation in a traffic accident. The velocity of the nucleus after the accident and of the fragments that accompany it is the same as that of the nucleus before the accident. As we have already mentioned, the exclusion of certain particles from the thermal community, which is essentially democratic even though some particles possess three or four times as much energy as the others, followed by their election to the title of cosmic rays, requires some form of selection and energy enhancement. This selection seems to be made according to atomic criteria. It is observed that elements with less tightly bound electrons, in other words, those that are more easily ionised, are most strongly represented within the cosmic ray population. This already suggests that the sorting mechanism is essentially electromagnetic. It is thought that only charged particles are brought within the actual acceleration region. The main accelerating agent, able to raise nuclei to energies that sometimes exceed the performance of our best particle accelerators, is thought to be the shock wave. This is indeed an extremely effective acceleration mechanism, leading in a quite natural way to an energy spectrum of the observed form. The most powerful shock waves are generated by star explosions and supersonic stellar winds. At the end of the day, it is therefore the stars that accelerate cosmic rays to such phenomenal speeds. The violence of the stars is communicated to certain neighbouring atoms which lose their electrons under the effect of the encounter. And so the cosmic rays are born. Imagine two converging walls filled with holes. A ball is thrown at the middle of one of the walls. By consecutive collisions with the walls, it acquires increasing energy, unless it escapes. For the ever-rarer balls that remain between the walls, the collision frequency increases as the walls move together, and with it the probability of escape. The growing energy also raises the collision frequency. The maximal energy attained depends on the shape and hardness of the walls and on how long the phenomenon lasts. Indeed, beyond a certain energy, the particles are transformed into genuine missiles, capable of piercing the walls. Once the confinement capacity of the walls has been exceeded, the acceleration mechanism reaches an end. Particles escape into space with a statistical energy distribution (spectrum) that falls off extremely rapidly with increasing energy. In fact, the number of particles with energy E is proportional to 1/E^2.7 above 1 GeV. This acceleration mechanism resembles a game of table tennis. The particles are sent back and forth for as long as the round may last. At each impact, their energy increases slightly so that, after a large number of exchanges, they may have acquired a considerable energy. Protons, nuclei and electrons in cosmic rays would appear to inherit their energy spectrum from this mechanism, associated with shock waves. A non-thermal component in X-ray emissions from the recently discovered remnant of the 1006 supernova provides direct confirmation. Shock waves abound in the Galaxy. They are produced by any supersonic movement of matter. The average speed of sound in the interstellar medium is around 10 km s⁻¹ and it is not unusual to find it exceeded by a wide margin. The speed of the stellar wind from massive stars, in particular, Wolf–Rayet stars, can be as much as 2000–3000 km s⁻¹. Matter ejected from supernovas can attain 10000 km s⁻¹. By the mechanism described above, part of the kinetic energy carried by a whole population of particles is transferred to a few rare individuals which can thus reach considerable speeds. These are the cosmic rays. The elected particles do not immediately assume the title of cosmic ray. They must first be injected into the acceleration zone at the right speed, and this also appears to happen selectively. The easiest elements to ionise, and these are also the elements that tend to be found in interstellar dust grains, are those that are best injected. This suggests that some previous process of electromagnetic type is able to raise ionised species to energies of a few hundred keV, and that only then are these promoted to high energies by shock waves via the ping-pong mechanism described above. Cosmic rays like nothing better than to share their fabulous energies. They dole it out in various ways, ionising and heating matter encountered along their path, i.e. interacting with electrons in the medium. Indeed they tear electrons from nuclei and set them in motion. These electrons in turn deliver some of their new-found energy to the surrounding medium. High-energy protons (1 GeV or more) induce gamma radiation through the intermediary of neutral pions: p + p → π⁰ → 2γ. Fast-moving electrons, for their part, spiral through magnetic fields emitting synchrotron radiation, so easily recognisable under the watchful eye of the radio telescope from the shape of its spectrum. Transferring part of their kinetic energy to stellar or cosmological photons, electrons also produce low-energy gamma photons by the inverse Compton effect. This non-thermal radiation has a characteristic spectrum whi Which makes it easy to identify. Such spectra are found not only in our own Galaxy but also in many others, particularly those with an active nucleus, like the Seyfert galaxies and quasars. We may conclude that the central regions of galaxies are good particle acceleration sites, raising electrons and protons, or more generally leptons and baryons, to high speeds. Electron accelerators seem to be commonplace, whilst the baryon accelerators are rather more scarce.
+
+These then are the actors on the cosmic stage. So let the curtain rise!
+
+The gamma-ray sky
+
+A map of the sky has been drawn up using a spark chamber to record the directions of gamma rays with energy greater than 100 MeV (Fig. 6.3). The result is a strangely unfamiliar sky where a very small number of sources emerge from a predominant Milky Way. A whole population of gamma-ray sources were discovered by the EGRET (Energetic Gamma-Ray Experiment Telescope) experiment aboard the GRO satellite. This experiment was designed to detect high-energy gamma rays (>30 MeV). EGRET was equipped with a spark chamber in which gamma rays transform into electron–positron pairs. Such pairs are easily detectable because it is always simpler to spot charged particles than neutral particles. The energy and direction of high-energy gamma rays were measured. This gamma radiation arises for the main part from neutral pion (π0) formation in collisions between protons. Such π0 particles each decay into two high-energy gamma photons.
+
+The EGRET all-sky map, like that of COS B before it, clearly shows that high-energy cosmic rays are present right across our Galaxy and with comparable intensities in different quarters. This survey of extremely violent reactions shows where in the Galaxy and the Universe the highest-energy collisions take place. A few point sources stand out in the gamma-ray Galaxy. These gamma stars are mostly pulsars, which are nothing other than magnetised neutron stars resulting from massive explosions. One of these gamma stars, discovered by Félix Mirabel at Saclay on the gamma-ray survey drawn up by the SIGMA satellite, is actually a microquasar. These objects are so called because, without being as luminous as their extragalactic counterparts, they do exhibit the same features, namely, jets and apparently superluminal motions. However, a certain fraction of the recently discovered gamma-ray sources remain unexplained, a thorn in the side of high-energy astronomy.2
+
+2 For further discussion, see Paul (1988) and remarks by Isabelle Grenier in Nature, April 2000.
+
+Glossary accretion: gravitational attraction and accumulation of matter by a compact object astronomical unit (a.u.): a unit of length in astronomy, equal to the distance from the Sun to the Earth, or roughly 150 million km coronene: a polycyclic aromatic hydrocarbon (PAH) with chemical formula C24H12 gravitational collapse supernova: supernova drawing its energy from the core collapse of a massive star Heisenberg uncertainty principle: the principle that when particles are more and more localised in space, the spread of their momenta increases, and vice versa helium flash: nearly explosive inception of helium burning in the dense core of a red giant star light curve: changing luminosity of a celestial object as a function of time neutronisation: transformation of protons into neutrons by electron capture Pauli exclusion principle: the principle that two electrons or two neutrons can only coexist in dissimilar states of motion planetary nebula: misnomer used to describe the gaseous remnant of stars with masses between 1 and 8 solar masses resonance: enhancement of a reaction probability over a narrow energy band thermal pulses: convulsive stage in stellar evolution thermonuclear supernova: thermonuclear explosion of a white dwarf that has been feeding on a companion star
+
+History of the Sun
+
+Nebulous birth
+
+The sky is no empty arena and stars are not the only actors. The other player in the cosmic drama is the cloud.
+
+The business of the perfect interstellar cloud is to confiscate or at least filter the light of stars lying behind or even within it. Certain clouds referred to as bright nebulas are lit up from within. They are in the process of giving birth to a generation of stars, for like rats, cats and fish, stars are born in broods. Hence, the large, dusty and icy interstellar clouds are not only repositories for the ashes of defunct stars, but also for the material that will give body to new stars. Those stars currently forming, still buried deep within this cloudy placenta, can be observed in the radio, millimetre and infrared regions. Indeed, absorption by gas and dust is minimal at these wavelengths.
+
+Still curled up at the heart of the parent cloud, the stellar embryos attract more matter in order to embark upon the visible phase of an object of fixed mass in hydrostatic equilibrium. They then disperse any surrounding matter and begin their own lives as free and independent stars.
+
+In truth, star formation from molecular clouds is no easy subject to study. This is because the processes involved change the density from 10−23 g cm−3 to about 1 g cm−3 within a space of only a few tens of millions of years. Only the force of gravity, whose long range plays a key role, is able to produce such staggering compression rates.
+
+Protostellar evolution and the gradual dissipation of excess gas envelopes are still poorly understood. Here is what may be described as a plausible explanation. The growth of the stellar embryo...
+
+is driven by accretion. Due to its rotation, a luminous disk forms around it and the system revolves in a cavity some 10 to 100 a.u. across. This cavity is surrounded by huge shells of matter which feed the disk and, through it, the central object itself. They also absorb the greater part of the radiation emanating from inside. These envelopes of gas and dust are dissipated by a bipolar molecular wind, that is, a movement of molecules out along the axis of rotation of the system. The later development of the parent cloud and its future capacity to hatch out new stars are strongly affected by this violent injection of energy. The large number of jets discovered, in combination with the short duration of the ejection phenomenon, suggests that all stars go through a high wind phase at the beginning of their existence.
+
+But how is it that these objects simultaneously accumulate and shed matter? How can a star form by losing mass? It is thought that the solution to this paradox lies in the wind. Material deposited on the star from the encircling disk dangerously increases the speed of rotation. A centrifugal barrier then opposes any further addition of matter. Hence, the stellar growth process can only continue if the star has a way of moderating its rotational speed, even as further material is still accreting. The stellar wind constitutes an opportune braking system, provided that it evacuates only a small mass but a high angular momentum. As we have seen, gas flows also provide a natural mechanism for dissipating the outer envelope. At the end of this process, a properly constituted star of given mass emerges. If the mass is comparable with the mass of the Sun, the object is a T Tauri star. The physics of protostellar winds is thus intimately connected with the central problem of galactic evolution through the distribution of stellar masses (see Appendix 5).
+
+In the beginning, before the Sun became a star, its only source of energy was gravity. It radiated as a result of its own contraction. Matter was stirred up by strong internal currents. At this point our star was totally convective, for it had low temperature and was thus totally opaque to light. These tremendous stirring forces homogenised the material within, so that it had the same composition at all depths. This is why it is assumed today that the chemical composition of the photosphere is just as it was when our star was born. That is, it represents the chemical composition of the protosolar cloud, uncontaminated by nuclear reactions in the core and hence untarnished by any slag from the fires within. The luminosity then decreased rapidly from 20 to 0.5 L☉, where L☉ is the Sun’s present luminosity, whilst the surface temperature stabilised at around 4460 K. The Sun looked like an orange. The convective zone was resorbed and covered the star like a blanket. Although just 1% of the mass, it occupies today 30% of the radius!
+
+Luminous life
+
+Phoebus with its golden mane now settled into a long-lasting period of calm. Half of its hydrogen reserves had been consumed. Helium, ash of hydrogen, was accumulating at its centre. The temperature there was roughly 15 million K and the density about 150 g cm⁻³.
+
+Hydrogen fusion stabilises stars for considerable periods. It generates energy by transforming hydrogen into helium. However, as far as chemical production is concerned, the results are sparse. The accomplishment of the Sun and many stars like it is a modest affair, resulting in a very small addition of helium to the quantity originally generated in the Big Bang. The freshly made helium remains trapped at the end of the main sequence in the central parts of the stars that produced it.
+
+The fact that neutrinos are emitted during this reaction provides an opportunity to observe directly the nuclear reactions taking place in the Sun’s core. But its core is like a safe or an urn in which it zealously guards its own ashes.
+
+Nevertheless, at the end of its life, the Sun will release part of its substance, and the helium produced throughout its long career will be poured out into the interstellar medium. The day-star will not always hide the produce of its nuclear alchemy under the mattress.
+
+The Sun shines.
+
+We gain While he loses.
+
+For the Sun, To shine is to lose energy.
+
+The Sun clutches his light, But cannot stop himself shining.
+
+He shines just what is allowed By his mediocre transparence, His quasi-opacity.
+
+Brightly, he consumes himself, Transforming his heart to ash.
+
+The Sun shells out
+
+The bright garment of the great lantern hides its true nature. Now ageing, under a serene countenance, the Sun still carries a blazing inferno in its core. It owes its great age mainly to its gaseous flexibility. In contrast, the sclerotic heart of certain stars condemns them to explosion or to some other separation of core and envelope.
+
+The day-star is an exceptionally stable star, but it is not eternal. Although it manages its nuclear potential with remarkable finesse, calculations show that in a few billion years it will be forced into inner contortions that will drastically alter the structure of its reactor. When the helium content in its core reaches a high level, it will contract in order to postpone a reduction in luminosity. The matter within it will heat up and thermonuclear fusion of nature’s second element will commence, generating carbon and oxygen. The resulting increase in luminosity will make the star very dangerous for humankind, if indeed our descendants survive until then and have not taken refuge elsewhere, both of which are highly unlikely.
+
+Ever since the Sun has been th 自太阳诞生以来，其大小、表面温度和光度几乎保持不变。在过去的46亿年中，太阳光度最多只增加了约30%，而反馈机制赋予了地球宝贵的液态水。然而，我们的模型显示，太阳光度将逐渐上升，直至其氢储备耗尽。原因如下：当氢转化为氦时，密度基本保持不变，但核核心每立方厘米的粒子数减少。因此，核心轻微收缩并升温。这种密度和温度的升高会提高核反应速率，进而影响恒星的亮度。
+
+地球的气候系统可被视为一个调节良好的恒温器。很明显，它不会对太阳光度的变化无动于衷。预计在未来十亿年内，太阳光度将线性上升约10%，而表面温度将上升1%。当然，超新星专家对此类变化可能不以为意。在他们的领域，光度会在瞬间飙升到难以想象的高度。但对于地球大气层内的气候专家而言，太阳亮度增加10%是一个令人担忧的前景。
+
+太阳光度哪怕最轻微的增长——比如0.25%——就足以引起地球气候的显著变化，尽管具体程度难以预测。这自然将我们引向关于全球变暖的重大争论。
+
+根据数值模拟，温度变化并非线性。例如，当地球变暖时，冰川融化，这意味着更多的太阳能被吸收，大气温度进一步升高。这种效应会持续，直到所有海冰融化，而这需要太阳亮度（单位投射面积的光强）增加4%。
+
+水蒸气的作用仍远未被充分理解。事实上，水蒸气是一种极其高效的温室气体。随着空气温度上升，水蒸气浓度呈指数增长，温室效应将达到惊人且不可逆的程度。
+
+如果太阳光度增加2%，戈达德空间研究所的气候模型显示，相应的温度将上升4℃。气候学家通常不会做出数十亿年跨度的预测，因此该模型并未被深入探讨。然而，我们可以认为，太阳光度增加10%将导致温度上升约12℃。其结果无疑是灾难性的。随着冰盖融化，海平面上升约40厘米。若温度上升21℃，冰盖将完全消失，气候将永远改变。
+
+我们因水而生，也将因水的消失而灭亡。因为我们所知最强大的控制机制之一依赖于水。从太空看地球，它是一个点缀着云朵的蓝色星球。地球表面云朵的洁白与其水域的蔚蓝同样重要。云层和冰盖是有效的短期调节器，但地球的主要恒温器存在于二氧化碳与全球表面温度之间的关系中。
+
+世界上大部分碳以碳酸盐的形式储存在岩石中。全球变暖会增加水的蒸发速率，导致更多降雨和强风，两者都会加剧侵蚀。岩石将被水浸泡，这将引发连锁反应。侵蚀岩石释放出的钙会流入海洋，与碳酸盐和贝壳结合，促使珊瑚大量繁殖。钙因此沉积在海底，随后是二氧化碳，因为碳酸盐的沉没将平衡大气中气体的耗散。最终，二氧化碳将被深埋海底，固定在含碳酸盐的岩石中。
+
+控制机制现已失效。四十亿年来控制全球温度的强大二氧化碳调节效应已被打破。这是宾夕法尼亚大学詹姆斯·卡斯汀的研究结论，他研究定义恒星周围宜居区的物理因素。卡斯汀补充说，根据气候数值模拟，二氧化碳浓度在5亿年后会降至140 ppm（百万分之140），而生存需求最低的C3型植物需要150 ppm。植物根据其光合作用类型分类。那些需要最多二氧化碳的C3类植物，恰好构成了地球90%的植物群，也代表了地球大部分的食物来源。
+
+也许有人认为，5亿年应该足够让需要较少二氧化碳的C4植物取代需求更高的C3植物。幸存者难道没有时间适应减少的二氧化碳供应吗？然而，一旦启动，二氧化碳的减少便无法停止。事实上，恰恰相反！它会加速。按照现代预言者的说法，9亿年后，C4植物也会面临同样的问题。没有更多的二氧化碳，就没有植物，就没有动物。
+
+令人沮丧的前景。现在，末日进程开始加速。距今约11亿年后，水蒸气将上升至平流层，那是大气层的上部区域。在这些高度，紫外线会使水分子解离。释放出的氢气因太轻而无法被地球引力束缚，逃逸到太空中。海洋蒸发殆尽，所有剩余的生命形式都将被抹除。
+
+因此，远在太阳耗尽其氢燃料之前，生命就会迎来它的最终谢幕——至少，如果我们相信这些数值模拟的话。那么，被生命遗弃的地球将会如何？直到最近，天文学家还相信，太阳在红巨星阶段会通过星风损失足够多的质量，确保地球被拉伸的轨道不会被膨胀的恒星吞噬。因此，地球的命运悬于其恒星的垂死喘息之上。事实上，一切都取决于质量损失，而这又取决于太阳风的强度和持续时间。如果质量损失发生得早，干涸且无生机的地球将能逃脱垂死恒星的蒸发，因为太阳质量的减弱会削弱引力束缚，使这颗行星得以迁移到介于当前位置和火星之间的某个更安全的轨道上。它将成为曾经在其表面繁荣过的生命的无声纪念碑。如果太阳的质量损失发生得晚，地球将化为灰烬，很可能被巨大的红色太阳吞噬。
+
+随着太阳变红，人类将死亡或离去，但我们暂且不谈这个。让我们继续探讨恒星本身的最终结局。因为在最后，太阳将从沸腾的红巨星突变为沉寂的白矮星。
+
+**白矮星**
+
+太阳终将失去其气态的完美形态，因为恒星的核心无法免于硬化。对于在中心完全耗尽氢储备的低质量恒星而言，量子简并是这一变化的根源。它们此时已走在通往白矮星的道路上。让我们来分析一下这种尸体般的僵硬。
+
+对有些人来说，用“消亡”这个词来描述太阳，引发的并非死亡的剧痛，而只是一声简单的恒星叹息。诚然，当福玻斯（太阳神）带着飘动的金鬃离开舞台时，这场退出将与超新星的升华毫无相似之处。其最终转变为晶体和尘埃的隐秘过程，仍然隐藏着非凡的复杂性。为了描述核心如何坍缩、包层如何被抛离，科学界召集了其最优秀的恒星建模师。通过在计算机上进行的数值模拟，他们能够重建任何质量恒星的历史——从其星云般的诞生到其幽暗的死亡——以确定其最终离去的时刻，并描述其死后状态，如果“死亡”一词在恒星王国中仍然有意义的话。事实证明，一颗恒星的预期寿命及其发光生命终结时所呈现的最终形态，很大程度上都取决于其诞生时的质量。
+
+**物质的硬化**
+
+当气体被压缩时，它会升温；当它膨胀时，它会降温。任何使用过自行车打气筒的人都知道这一点。然而，对于处于极高密度下的电子或中子气体，这不再成立。这种偏离理想气体定律的现象对恒星有着灾难性的影响。此外，光子气体在体积变化方面的行为，也与由原子、离子或分子组成的典型气体不同。光子气体与物质粒子气体的温度-能量密度关系并不相同。
+
+从热力学角度看，恒星的基本组成可以视为光子、离子和电子。物质粒子气体（费米子）和光子气体（玻色子）在压缩和膨胀下的反应是不同的。假设有 n 个光子和 n 个物质粒子被放入一个盒子中。设 R 为盒子的尺寸（即特征尺寸或尺度因子）。对于光子，温度与尺寸的关系为 TR = 常数；对于粒子，则为 TR² = 常数。这种行为上的差异在大爆炸理论中至关重要，因为这些方程明确无误地表明，在膨胀效应下，物质冷却的速度快于辐射。因此，一个能量密度由辐射主导的宇宙无法长久保持这种状态，事实上，其持续时间不会超过100万年。
+
+回到恒星问题，关键在于决定是光子、离子还是电子将占据主导地位，从而决定压力。事实上，在高温低密度下，主导角色由光子承担；在低温高密度下，由电子承担；在中间情况下，则由离子承担。
+
+一种压力不再依赖温度的气体被称为简并气体——这个术语确实不幸，因为对应的状态近乎完美。人们或许可以称之为一种完美的充盈状态，因为没有空隙被闲置。电子占据所有可能的能量态，秩序井然。电导率和流动性也达到了完美。由这种卓越物质构成的物体是完美的球形。然而，在量子圈子里，这种自然状态却被固执地称为“简并”！
+
+因此，在某个密度之上，恒星物质会展现出截然不同的特性，这些特性只能通过量子力学来描述。介质中的电子开始通过其夸张的个体性，以巨大的方式抵抗引力。事实上，具有半整数自旋的基本粒子，如电子、中子和质子，全 the Pauli exclusion principle. This stipulates that a system cannot contain two elements presenting exactly the same set of quantum characteristics. It follows that two electrons with parallel spins cannot have the same velocity.
+
+To explain this behaviour, physicists appeal to the very foundations of quantum theory. Because of their much reduced freedom to move in space, the particles can be considered to be more and more localised. Then, by Heisenberg’s uncertainty principle, the spread in their velocities has to grow. In other words, some particles may have much higher velocities than those allowed by the temperature. A quantum pressure arises at high densities, when the mean distance between electrons becomes comparable with their associated wavelength λ = h/mv, where h is Planck’s constant, m the particle mass and v the particle speed. As the speed is proportional to the square root of the temperature (mv²/2=kT), we see that the quantum effect is much more pronounced at high densities and low temperatures, and when the particle in question is very light. The pressure then becomes independent of the temperature. Conversely, for a given density, the quantum effects disappear above a certain critical temperature and the stellar material reassumes its initial flexibility.
+
+In this physical state, the onset of nuclear reactions can have explosive consequences. It is believed that nuclear combustion in a degenerate medium is responsible for the so-called helium flash that shakes small, ageing stars, but also for type Ia supernovas (to be discussed shortly). There are two types of star in which quantum pressure counterbalances the force of gravity, viz. white dwarfs and neutron stars. In the first case, the pressure is exerted by electrons, in the second, by neutrons.
+
+Star, tell me how much you weigh and I will tell you how long you will shine and how you will make the transition from luminous to dark.
+
+The Sun is calm today, because each chunk of its vast body is simultaneously attracted towards the centre by gravity and repelled towards the outside by heat pressure. The solar nuclear power station is self-regulating. However, the nuclear fire, operating through thermal pressure, cannot oppose collapse forever. When the fuel is exhausted, the fire will go out and relentless gravity will take possession of its ashes.
+
+All stellar evolution can be summed up by a simple rule: the star tries to make itself as small as possible. Its life story is one of contraction, but in a discontinuous manner, with sometimes long pauses during which it maintains its size. There are phases when the outer layers are driven off by radiation pressure (stellar winds, ejection of the envelope) and brief periods when the star violently readjusts itself, but without breaking apart (helium flash, thermal pulses).
+
+Its past, present and future countenance can be calculated using star models, and the results can be compared with observable stars. This celestial object corresponds to a young Sun, and this to a Sun in the throes of death. This so-called ‘planetary’ nebula, so beautiful to look at, is nothing other than a Sun torn apart.
+
+For a whole range of stellar masses between 1 and 100 times the mass of the Sun, evolutionary tracks are traced out in the temperature–luminosity plane, also known as the Hertzsprung–Russell diagram, so frequently referred to by astronomers.
+
+As time goes by, an imaginary star with the mass of the Sun follows a well-defined path which distinguishes it from all others by its shape and the speed with which it is travelled. The point representing our own Sun is located on what astronomers like to call the main sequence, a diagonal bar across the temperature–luminosity plane. Like most visible stars, it is transmuting hydrogen to helium in its core. In the coming 2 billion years, a 40% increase in its luminosity will cause a serious greenhouse effect on our planet. The warning signs were described above. There will no longer be any winters. The trees will burn, the oceans will be brought to boiling point, and the atmosphere will grow opaque. The Earth will become like Venus. In 3.5 billion years, when all the hydrogen has been consumed in the deepest confines of the day-star, it will leave the peaceful main sequence and pass into the turbulence of the red giant branch. Life will long have disappeared from the surface of the Earth, but humankind, I guarantee it, will have mastered interstellar space flight.
+
+Now that there is no more hydrogen at the centre of the star, its evolution must necessarily speed up. The central regions contract quickly, for nuclear power production has ceased and gravity is no longer counterbalanced by thermal pressure. But around the region where the hydrogen has run out, nuclear reactions continue, and ash adds to ash. The mass of helium grows and grows, and the combustion zone moves out towards the surface. The helium core, deprived of the heat it needs to hold itself up, contracts still further, releasing even more gravitational energy. The star as a whole must modify its structure to evacuate the surplus energy. It improves energy transfer by means of convection, and cyclopean currents develop. The outer convective zone extends rapidly towards the centre of the star to take control of three-quarters of its mass. But convection cannot transfer all the energy released, so the outer layers expand to let through still more. As the star’s radius increases, its temperature drops and the photosphere turns red. The point representing the estarontheHRdiagramslips totherighttojointheredgiants.
+
+TheSunreachesaluminosity2300timesgreaterthanitscurrentvalueanda radius170timesgreater.TheplanetMercuryisswallowedup.Thesolarwind isnowmuchamplifiedandourstarloses38%ofitsmassintospace.
+
+Afterpausingfor110millionyearsontheofficiallytermedhorizontalbranch (amerepointonthescale),rightthroughthephaseofcoreheliumburning,our starwillsuddenlyclimbuptheasymptoticgiantbranch.Fourthermalpulses willthenoccur.Inthefirst,itwillreachitsmaximalsizeof213R(cid:6),or0.99a.u.
+
+However, the Earth and Venus will not be engulfed, for the Sun’s mass will by then have fallen to 0.60 M(cid:6) due to evaporation effects. The two planets willthusprofitfromaweakeningoftheirgravitationalbonds,gravitatingout to distances of 1.2 and 1.7 a.u., respectively. The face of the Earth will be drastically different. The temperature will soar to 2000 K and the mountains will melt. The solar luminosity will culminate at 5200 L(cid:6) during the fourth thermalpulse.
+
+HistoryoftheSun 133 Throughout the final phases, the solar wind will sweep across the Earth, tearing up the surface. The atoms of our dead will be driven from below and returned to the Sun. The Earth will surrender her dead. Finally, lit up by the bright white glare of the central star, the ejected matter will blossom into a beautifulplanetarynebularatherliketheonethatsodelightfullyornamentsthe constellationoftheLyre.Theatomsofallhumanbeingswillshineinthesky, mixedwiththoseoftheanimalsandthestones.
+
+Letusrevisittheheliumcore,forthisistheheartofthematter.Asaresult oftherelentlesscontraction,thedensitycontinuestoincrease,andwithitthe temperature, but at a slower rate now. When the central temperature reaches 100 million K, the density is 10000 times greater than the density of wa- ter.Subjecttoanimperiousquantumprinciplethatforbidsthemanyfreedom to overlap one another, the electrons make a final stand against compression andconfusion.Forthisreason,theyassumeanincreasingcontributiontothe pressure.
+
+Their velocity and through this their pressure are determined solely by the density of the medium. Temperature is no longer relevant. In the heart of the red giant, where quantum pressure exercises sovereignty, gaseous flexibility islost,andsotooismoderationofreaction.Meanwhile,contractionreleases largequantitiesofgravitationalenergythatmustbeevacuated.Whenourstar reaches the high point of the giant branch, its core crosses the fateful value of 100 million K. Helium fusion begins. Nuclear energy poured out by the transmutation of helium into carbon and oxygen induces a significant rise in temperature.Butthecorehaslostitsformerflexibilityandhencealsoitsability toreadjust.Itcannolongerrefreshitselfbyswellingup,andthetemperature isfreetorisestillfurther.Thenuclearreactionsraceahead,freeingenormous quantities of energy in a very brief space of time. And yet this profusion of energyleavesalmostnotraceatthesurface.Indeed,theenergyproducedfilters very slowly through towards the distant photosphere of the red giant, and by thetimeitfinallyarrives,ithasbeendilutedandsoftened.
+
+Thecorenowcoolsverysuddenly,asquicklyasitheatedup,foritrediscovers its gaseous privileges under the effect of this intense heat. In fact, above a certaintemperaturethreshold,thermalpressuremovesbackintothedominating position. So pressure is once more open to the influence of temperature and controlisre-established.Expansionofthecorereducesthedensitybyafactor of 50 and the star’s evolution recovers its stately pace. Having survived the heliumflash,thestarbeginsthesecondcalmandlastingperiodofitsexistence.
+
+Down in its depths, it placidly transforms helium into carbon and oxygen.
+
+Hydrogen is still being transmuted in a spherical shell contiguous with the heliumburningcore.
+
+134 Histories After 12.3 billion years of solar existence, all the helium at the centre has beenconsumed.Theproductionofnuclearenergycomestoanendandafurther contractionisinduced.Thedensityrisestothepointwherethequantumpressure oftheelectronsbecomesdominantagain.Outontheedge,hydrogencontinues to burn in a thin shell. Then helium starts to burn in an inner layer and, as before,theouterregionsofthestarreacttothisupsurgeofenergybyincreasing their volume. The star is once again a red giant. It now contains two nuclear fusionzonesintheformofconcentricshells.Theinneroneishometohelium burning, the outer one to hydrogen burning. This situation is not altogether restful.Suddenflarescalledthermalpulsessuddenlyraisethestar’sluminosity.
+
+TheSunisthenlocatedontheverticalregionoftheHRdiagramknownasthe asymptoticgiantbranch.Underintensepressurefromradiation,theenvelopeis forcedawayingasps.Thebloodlessstardeflatestojust3%oftheSun’scurrent radius.In50000years,itcrossesthewholeHRdiagram,itssurfacetemperature changing from 4000 to 10000 K and its colour from red to white. Nuclear reactionsfailinthedisburdenedandcallousremnant.Thelittlewhitestarmay nowilluminatetheejectedgases,portrayingthemwithshimmeringcolours.
+
+In 7.7 billion years from now, a white dwarf will have taken the place of our star. A solid and compact object no larger than the Earth, this star will be maintained by the stubborn pressure of electrons struggling to preserve their living space, according to a well-established quantum tradition. The tiny crystalline Sun, slowly cooling off, will keep on radiating for billions of years before finally fading into darkness. The extinguished Solar System, deprived of Mercury and perhaps the Earth, will count as dark matter. Half the atoms of the former Sun will have been crystallised into the final ember and thereby removed from the future evolution of the Galaxy. But the other half will wander off into space. The atoms of the Earth’s surface will participate in this diaspora. Atoms carried away by the fiery winds of the Sun will be incorporated into new stars, new planets and maybe new human beings.
+
+Let us review all this. At an age of 12 billion years, the yellow dwarf will mutate into a red giant with 100 times the radius. This in turn will give way to a vaporous cloud with a very small white object at its centre. When the yellow dwarf has handed over to the white dwarf, the solar pageant will be close to an end. But for the moment, the Sun still shines staunchly.
+
+Shining relentlessly
+
+Once again we are astounded by the stars’ longevity and perseverance. It would seem that they like to shine for a long time and so pursue their glowing career for as long as possible, postponing extinction or disintegration until the very last. What are these beings that shine so obstinately? Indeed, are they beings? Stars are evolving and reproducible entities, but this does not mean that they are living. It is an abuse of language, or at best a metaphor, to say that stars are born, live and die. Rather, they form, evolve, then cease to shine. However, the anthropomorphic vocabulary fits the stars so admirably that it would be a loss to language if we were to banish it from the realm of astronomy. I will therefore abandon myself here and there to a little stellar prosopopoeia, and not, I may say, without taking a secret pleasure.
+
+The impressive longevity of stars is in no way due to some intention on their part. It arises from a series of physical causes in combination with a remarkable structural flexibility. The life work of the perfect star consists in shining, but not too much. For let us repeat: the energy of each photon emitted must be replaced. A perfectly transparent star would instantaneously empty itself of all energy. It would burn like a hay bale. The weak interaction (radioactivity), which would be better referred to as the slow interaction, is also a factor contributing to the star’s longevity, for it considerably slows down the thermonuclear fusion of hydrogen through its hold over the initial reaction: proton + proton → deuterium.
+
+They are spread across a thin layer, narrow but extremely extensive. Seen from above, it takes the form of an elegant spiral. Gas, dust and radiation are the three main components of this Galaxy, and of all galaxies.
+
+The first faltering steps of molecular astronomy were intimately related to the birth of modern spectroscopy. It was the discovery at the beginning of the nineteenth century that the Sun and stars are composed of the same elements as the Earth, which led astronomers to the idea that spectroscopic techniques can be used to observe cosmic chemical processes.
+
+The close agreement between laboratory spectra and observed spectra is an unshakeable proof of correct identification. Molecules are mainly detected in the submillimetre range and the adjacent infrared fringe of the electromagnetic spectrum.
+
+A hundred or so different molecular species have been spotted in molecular or circumstellar clouds. Most interstellar molecules are organic molecules, that is, they are carbon-based. This indicates that chemical evolution does occur on a cosmic scale. What is more, many molecules on the interstellar list are fundamental building-blocks for the construction of biological structures.
+
+Molecules observed in the gaseous phase and on the surface of cosmic dust grains are very probably produced from smaller atoms, ions or molecules by local chemical processes. This is no longer the nuclear chemistry we have been discussing up to now, but ordinary atomic chemistry which proceeds via electrons and ions. Although organic molecules dominate, there are also free radicals and structures containing functional groups like NH, NH₂ and COOH.
+
+The triocarbon, nitrogen and oxygen (C, N and O) are of paramount importance in biological structures. Atomic carbon plays a very special role insofar as its electronic configuration, and in particular its tetravalence (the four outermost electrons being available to form as many bonds) endow it with the unique property of forming long chains and complex ring structures, both essential to life. These properties are well established on Earth, but they also operate in the cold and dilute environment of galactic space.
+
+Life appears at the end of a long chain of events, a long sequence of small steps, each one linked to the next. In the cosmic reference frame, the first four steps are important, if not essential, for the development of life.
+
+1. The beginning of nuclear evolution, launched in the Big Bang, the creation of matter, the emergence of nucleons and the construction of the first nuclei hydrogen, deuterium, helium and lithium that took place in its immediate wake, followed by formation of the first stars in the early Universe and the establishment of stellar nucleosynthesis leading to production of carbon and all the other elements.
+
+positron neutrino. Without it, there would be no neutrons and hence no atomic nuclei. Furthermore, it is responsible for neutrino emissions, for it is the weak force which governs the transformation of protons into neutrons, and this can only be beneficial for nuclear stability. So there is opacity, that is, the fact that stars retain their light in such a way as not to instantaneously empty themselves of their energy. But apart from this, another determining factor behind stellar longevity is the extreme sluggishness of the two reactions that initiate hydrogen and helium fusion. The reasons in the two cases are very different. The first cause of slowness arises from the very nature of the weak interaction, which is required to transform a proton into a neutron during a fleeting collision between two protons if the reaction product is to be viable. The second relates to the rarity of three-body collisions needed to transform helium into carbon, although it is so easy to say that three times two equals six.
+
+History of carbon Stars and life The space between stars is not empty, but filled with matter composed mainly of dust and gas gathered up into colossal clouds. In our own Galaxy, these clouds give rise to new stars.
+
+2. Molecular evolution which occurs preferentially in a very cold, dilute medium, permanently irradiated by diehard cosmic rays and photons. A tremendous variety of relatively complex molecules has already been produced, but it seems to have stopped well before the creation of interstellar life.
+
+The biggest interstellar molecules found in the gaseous phase contain 11 atoms. Whether there are more developed molecules remains unknown. In any case, there appears to be nothing comparable with the molecules of life.
+
+Great flat, ring-shaped molecules of a special class have been put forward to explain certain incongruous spectral features in the infrared. These are the polyaromatic hydrocarbons (PAHs), built by joining together benzene rings. Examples are naphthalene (C₁₀H₈) and coronene (C₂₄H₁₂), and there are many others looking somewhat like graphite dust.
+
+One task awaiting molecular astronomy is to find the missing links that separate 11-atom molecules from PAHs and fullerenes with 20 to 60 atoms, whilst a whole world lies between the most evolved molecules and a simple dust grain which contains, at the lowest estimate, 1 billion atoms.
+
+The key problem for physicists studying the interstellar medium is to establish the maximum length of linear carbon chains and then to find out from which length these chains tend to close up and assemble into planar rings and three-dimensional fullerenes by spontaneous polymerisation.
+
+3. Prebiological evolution which gives rise to macromolecules capable of organising hereditary transmission, thereby bridging a further gulf between inanimate and living matter. This stage of evolution must synthesise complex molecules such as amino acids, polypeptides, proteins and DNA that could make up the genetic alphabet. Astrobiology has not yet come into being. Although science has made tremendous progress in this field, there is a long way to go.
+
+Today it is impossible to say whether prebiological evolution may have occurred in space, but for the moment there is no reason to exclude this option. Whatever hypotheses are retained, they must surely focus on the warmer regions (if we may use this word!) of the interstellar clouds, the very regions where star formation occurs. However, intense astrophysical searches for the simplest amino acid, glycine (NH₂CH₂COOH), in the dense cores of interstellar clouds have so far failed.
+
+4. Biological evolution itself seems to be associated with a much warmer, denser and damper environment than can be encountered in these clouds, corresponding rather to planetary conditions. In such surroundings, the synthesis of macromolecules can proceed at a much more lively rate. These are responsible for maintaining cellular structures since they convey genetic information. Proteins for their part are built up from amino acids. The relation between the DNA sequence and the corresponding protein sequence is called the genetic code. Establishing this code is a fundamental step towards information transfer and hence the formation of life.
+
+But do we know what cunning enterprise the sky has been engaged upon in order to prepare and mould this bounteous carbon and then to extract it from the great stellar furnace? We shall once again follow through the main avenues of nuclear astrophysics, but this time considering life as we know it, or rather, one of the conditions that makes it feasible: carbon.
+
+A complex network of evolutionary processes has been woven over the 10 billion or so years that have elapsed since the Big Bang. These phenomena, including the emergence of galaxies, stars and planetary objects, but also the preceding build-up of their constitutive chemical elements, can be taken as conditions for the very existence of intelligent life on our own planet, based as it is on carbon. By definition, before carbon had formed, there was not the slightest chance of organic molecules appearing in the Universe. Likewise, the existence of molecules of genuinely biological complexity depends on the presence of other elements such as nitrogen, oxygen, phosphorus and iron. Moreover, a constant source of energy is needed to maintain living beings in existence. This energy is supplied by nuclear reactions which synthesise helium in the Sun. Matter and energy are sine qua non conditions for life. Matter comes from massive stars and exploding stars, or supernovas. Energy comes from the Sun, a modest representative of the silent majority of stars. We have taken the elements that compose us from the sky. Today it is quite obvious. From hydrogen to uranium, the sources of atomic nuclei have been painstakingly established. Let us just say it again: these sources are the Big Bang for hydrogen, helium and a pinch of lithium-7, stars for all the elements between carbon and uranium, and cosmic rays for lithium, beryllium and boron. Just where order and the violence of a mechanical death seemed to reign in a clockwork Universe, we find the life-giving exuberance of the primordial explosion, of stars, and of wandering particles that dance through magnetic fields.
+
+Red giants: from helium to carbon
+
+In an ageing star which has left the main sequence, two regions can be distinguished. The first is a core, largely composed of helium produced by hydrogen fusion. The second is an envelope comprising mainly intact hydrogen. Hydrogen fusion continues on the boundary between the core and this outer envelope.
+
+At low temperatures (15 million K), reactions between helium nuclei are inhibited by electrical repulsion. On the other hand, the nuclear properties of lithium, beryllium and boron nuclei (Z = 3,4,5), and in particular their stability, are such that they are extremely fragile, decaying at temperatures of only 1 million K. For this reason, they are not formed in appreciable quantities in stars and cannot serve to bridge the gap between helium and carbon, species noted for their nuclear stability but which, it should be recalled, occur only in minute amounts in nature.
+
+If the star is massive enough, the force of gravity resumes core contraction, and this in turn leads to ever higher temperatures and densities. Core contraction is accompanied by expansion of the envelope, for reasons which have not yet been fully elucidated, initiating a new visual stage in the star’s life. Its countenance is transformed as it mutates into a red giant.
+
+If a star is not massive enough for helium fusion to ignite, it simply exhausts its hydrogen reserves and stops evolving. As a white dwarf, it then joins the rest of its kind in the great stellar cemetery.
+
+In the red giant phase, the gravitational force ruthlessly pursues its task of crushing the core. The temperature and density increase in symphony, for compressed gases automatically heat up. When the temperature reaches about 100 million K, corresponding to a density of 100000 g cm−3, a new type of nuclear reaction begins to occur in the centre of stars.
+
+Among all conceivable reactions leading from helium to carbon at such temperatures, laboratory studies and theoretical considerations suggest that only one is in any way probable. Certainly, helium fusion has not been established without difficulty. This reaction takes place in two stages, represented by the equations
+
+4He + 4He → 8Be ∗ + γ, 8Be ∗ + 4He → 12C + γ.
+
+The asterisk on the 8Be indicates the extremely short-lived nature of this nuclear species. Its lifetime is estimated at 10−16 seconds. In order for a carbon nucleus to form, three 4He must therefore collide almost simultaneously, hence the term ‘triple α process’.
+
+The chances of such three-body collisions are very slight because the mediating 8Be is so ephemeral. This guarantees the red giant phase an enviable longevity of several million years; even this collision probability is amplified by a perfectly chance resonance, to which we shall return shortly.
+
+Stellar nucleosynthesis thereby leap-frogs over three fragile elements, lithium, beryllium and boron, moving more or less directly from helium to carbon. At this stage in the star’s development, the elements needed to form biological compounds have already been wrought in the furnace. Carbon is the first of the light elements to be produced exclusively within stars. A whole procession of other elements will follow in its wake.
+
+When helium fusion begins, the core of the star is stabilised and a new spherical equilibrium is set up. Gravitational contraction is balanced by the expansive pressure of heat levels maintained by nuclear fusion reactions. Oxygen is produced to the detriment of carbon via the reaction
+
+4He + 12C → 16O ∗ + γ.
+
+However, the fresh produce from this bout of nucleosynthesis remains locked up in the depths of the star, rather as in a larder.
+
+To sum up, the star begins by burning hydrogen on the main sequence, converting it into helium. The concentration of helium thus gradually increases. The star’s core heats up until the triple α process can form carbon-12. From there, oxygen-16 can also form. At this stage, if the star is at least eight times more massive than the Sun, more complex nuclear reactions can occur. Otherwise, for less massive stars, nuclear activity reaches an end and the star freezes into a white dwarf, rich in carbon and oxygen, after ejecting a large part of its outer layers.
+
+Nuclear finery
+
+In the glory of its Big Bang, why did the Universe not generate carbon in a brief instant? Why did creation not go to completion in the third minute?
+
+The first step towards an answer is once again the fragility and instability of helium’s fusion products. Why then is helium so stable whilst its offspring are so fragile? Why are nuclei with masses 5 and 8 times the proton mass so unsure of themselves that they have disappeared from the map of the world? The explanation for this can be found in the microarchitecture of the atomic nucleus, a subject that is hardly conducive to literature.
+
+The second part of the answer is that, due to its expansion, the temperature and density of the Universe e fell too rapidly for the junction between helium and carbon to be established via the triple α reaction: 3 helium-4 → carbon-12. This leads naturally to another question: why was the Universe expanding so fast? We can only answer that this is how the world is.
+
+The Universe had therefore to invent the star in order to continue its nuclear edifice. Let us return now to the strange story of carbon, gold and life, born it would seem of exquisite nuclear coincidences occurring within a stellar context. The coincidences in question involve the quantum properties of carbon nuclei and constitute conditions for the possibility of human life itself.
+
+History of carbon 141
+
+A slight detour into the field of nuclear physics will be necessary to prepare the ground. Depending on the circumstances, any composite system adopts different states and configurations characterised by its various energy levels. Nuclei do not escape this rule. The existence of excited states is characteristic of the composite state of the system. A system like carbon consists of a finite number of elementary constituents, namely, six neutrons and six protons, and it develops a finite number of distinct configurations. Internal activity taking place in such structured objects usually leads to rearrangements. This is why we observe in carbon, as in other nuclei, a great many energy levels, like so many different ways of life. A different energy level, measured in keV or MeV, is associated with each configuration, and this proves without the shadow of a doubt that other objects are hiding within the entity 'carbon'. Of course, these objects are protons and neutrons. Each proton and neutron acts upon the others and is exposed to their actions.
+
+So how does nature manage to stick together three helium nuclei? This was the question on every nuclear astrophysicist's lips back in the heroic age. Indeed, two α particles which collide with sufficient kinetic energy to overcome their mutual electrical repulsion form a transitory eight-nucleon structure, beryllium-8. But in the case of this nucleus, it is the repulsive electrical force that wins over the cohesive nuclear force. For this reason, beryllium-8 is spectacularly unstable, quite the opposite of its progenitor nucleus, helium-4, which is a paragon of cohesive virtue. Beryllium-8 requires a mere 10⁻¹⁷ seconds to split in two. A third helium nucleus must therefore be adjoined more or less instantaneously if carbon is to come out of the encounter. A simple calculation shows that this process is highly unlikely. The production of carbon, and with it oxygen and all heavier elements, thus remained a mystery until in 1952, Edwin Salpeter, who directed Hubert Reeves's doctoral thesis, suggested that carbon-12 could be produced in two very rapid steps.
+
+Event then, the way was blocked by the fact that the third accomplice as often as not smashed the feeble beryllium-8 in two. Meanwhile, British astrophysicist Fred Hoyle struck upon a quite brilliant idea. To get around the difficulty, he hypothesised that the energy levels of beryllium, helium and carbon had to have very precisely adjusted values in order to accelerate Salpeter's two-step process and give it every chance of coming to fruition. Everything thus depended upon the consonance between energy levels.
+
+Nature's helping hand in this matter came from the fact that the energy levels of the three crucial nuclei could be fine-tuned to boost the reaction probability, with the fortunate consequence that carbon and the heavier nuclei could then be produced in significant quantities. Since energy levels are purely quantum features of nucleon systems, one could only rejoice at nature's delicate touch.
+
+142 Histories
+
+Fig. 7.1. Synthesis and destruction of carbon in stars. Two helium nuclei join to form 8Be which may immediately decay or join with another helium nucleus to form carbon. The latter is then transformed into oxygen.
+
+In order to have a better appreciation of the finer details, let us examine them more closely (Fig. 7.1). When two nuclei collide, the new nucleus serves as a depository for the kinetic energy of the two particles that produced it, together with their mass energy, reduced by its own binding energy. The new nucleus naturally seeks to occupy one of the steps of its own energy scale, that is, a well-defined energy level. If the combined energy of the incident particles (mass energy plus kinetic energy) is not exactly right, all excess energy is used to eject particles from the new nucleus, or if the excess is significant, to break the latter into several pieces. This reduces the chances of finding two nuclei aggregating when they enter into contact, and all the more so for three nuclei. In most cases, the protagonists bounce off each other.
+
+However, if everything holds together, the new nucleus will be created with exactly the right amount of energy, corresponding to one of its natural energy levels. It will then dispose of its excess energy. It will decay by emitting one or more gamma photons as it descends the energy stairway. In this case, the reaction will go through extremely efficiently. This correspondence between the energy of the initial particles and the appropriate level of the residual nucleus, known as a resonance, depends critically on the internal structure of the species involved in the collision and consequently on the fundamental interactions that fashion that structure, the weak, strong and electromagnetic forces.
+
+Hoyle thus understood that the only way to manufacture a suitable amount of carbon in stars was to go through a resonance involving the three helium-4 nuclei, bery Helium-8 and carbon-12. The mass energies of the three nuclear edifices are fixed and cannot be altered. The kinetic energies of the three reactants, on the other hand, depend on the stellar temperature and can be calculated. On the basis of this temperature, deduced from models of red giants, Hoyle predicted the existence of an energy level of carbon-12 that had not yet been detected, in harmony with the combined mass energies of beryllium-8 and helium-4. Although skeptical to begin with, Ward Walling of the California Institute of Technology discovered the excited level at 7654 keV above the ground state with the particle accelerator at the Kellogg Laboratory there. This is just 4% above the combined mass energy of beryllium-8 and helium-4. Therefore, for the consonance to occur, the two nuclei had to undergo a relatively gentle collision so that their kinetic energy would be about 4% of their mass energy, that is, some 287 keV. Now the centre of a red giant star provides an ideal site for this so-called triple-α reaction for, according to estimates, the temperature must be about 200 million K and the density some 100 kg cm−3. We should note in passing that stellar models were still in a very preliminary stage of their existence. A lot of trust was required in order to present such a firm suggestion. Fred Hoyle's prediction was checked and confirmed by subsequent experiments. What he was asserting was that, since we exist, carbon had to have an energy level at 7.6 MeV above the ground state (Fig. 7.2). This striking piece of reasoning was later to fuel the debate over the so-called anthropic principle, but it is not our intention to discuss that here.
+
+The remarkable nature of the argument should not be underestimated, however. Suppose, for example, that the key energy level had been 4% lower than the mass energy of the 8Be + 4He system. In this case, the resonance would not have been produced for the simple reason that, although one can always add kinetic energy to the overall balance, one cannot subtract it. We should also mention that, when a carbon-12 and a helium-4 nucleus meet in the core of a red giant, where conditions are right for helium fusion, an oxygen nucleus is very likely to form. It turns out that the sum of the mass energies of carbon and helium is just 1% above an energy level of oxygen-16. But this 1% difference is not enough for all the carbon to disappear in the stellar crucible, thereby destroying any chance of life at a later date.
+
+It would thus seem that we owe our existence to at least two coincidences, one negative and the other positive, involving the energy levels of carbon and oxygen. But this is not all. In order for carbon and oxygen to be scattered to the four corners of the Galaxy, certain stars had to explode. In the same manner, the dissemination of the atoms of life through the cosmos can be imputed to a special adjustment of forces, particle properties and the constants of nature. Apparently our existence depends on a series of coincidences. We know which path we have come along, but we still do not know why.
+
+Fig. 7.2. Energy levels involved in helium fusion. The existence of an energy level of the carbon nucleus at 7.65 MeV above the ground state is particularly welcome. It considerably increases the probability of carbon synthesis in red giants.
+
+History of iron
+
+Last dash before oblivion
+
+The destiny of stellar species invites the following question: what mutation transforms an otherwise peaceful and long-lasting celestial body into an explosive and creative supernova? In fact it is the star’s luminosity and the ruinous energy expenditure of its glorious years that bring about its own downfall. Indeed, to shine it must burn, and to burn it must perish. In a struggle to draw out their final lustre, massive stars push their fires to the very limit and exhaust themselves in an attempt to preserve their former brilliance.
+
+It is widely believed that when a star moves through the red giant phase, its internal architecture loses the original simplicity it had when hydrogen was burning in its core. It has now become a strange fruit, with its kernel of oxygen and carbon, decked out with shells of helium and hydrogen. The high electrical charges of the carbon nucleus (+6) and oxygen nucleus (+8) inhibit core nuclear reactions. Deprived of support from heat production in the centre, the core has to contract, raising the temperature even further. When it goes above 600 million K, a new type of nuclear combustion appears on the stage. The first of these are carbon and oxygen fusion, written symbolically as
+
+12C + 12C → 20Ne + α, 16O + 16O → 28Si + α.
+
+Insofar as these reactions occur relatively rapidly at the high temperatures now prevailing, the star’s evolution accelerates enormously. This is exacerbated by the fact that it suffers a significant energy loss due to thermal neutrino production via the reaction
+
+photon + photon → electron + electron− → neutrino + antineutrino,
+
+from the moment carbon begins to burn. Since combustion of carbon, oxygen and the following elements produces nuclei with masses ever closer to 56, and it is here that the nuclear binding energy culminates, the energy yield has to diminish. Less and less energy is generated per gram of matter burnt. Silicon is less nourishing than oxygen, oxygen less than carbon, and so forth.
+
+less than helium, and helium less than hydrogen.
+
+As a consequence, the time-scale of each fusion cycle is shorter than its predecessor. For a star of mass 20 M☉, for example, the main sequence (core hydrogen burning) occupies roughly 10 million years, whilst core helium burning lasts only 1 million years, carbon burning 300 years, and oxygen burning a mere 200 days. The star is a red onion whose innermost region is made up of silicon nuclei (Fig. 7.3). At temperatures close to 1 billion K and densities of the order of 1,000,000 g cm⁻³, silicon combustion gets under way, coming to a close only two days later!
+
+This latter step proceeds via partial photodisintegration. Because silicon has such a high electrical charge (+14), direct fusion of two silicon nuclei is extremely difficult, if not impossible. Nucleosynthesis therefore moves along a less direct channel. A silicon nucleus is attacked by very-high-energy photons, whose aggressivity has been fostered by the extreme temperature. Protons, neutrons and helium nuclei are torn off and grafted onto intact silicon nuclei to engender iron and its neighbours (see Appendix 3). But the lord of all elements is incarcerated at the heart of its kingdom. Indeed, it will not be enthroned. Its fate is to be neutronised, that is, transformed into neutrons by a process that we shall describe shortly.
+
+It is no surprise that core silicon fusion should stumble on reaching iron when we remember that the latter is the most stable nucleus in nature. For this simple reason, fusion reactions likely to produce heavier and more complex nuclei would absorb energy rather than releasing it. This would have a quite disastrous effect for stars!
+
+Thus, when an iron core develops, reactions capable of generating energy come to an end and the star loses its only means of resisting against gravitational collapse. Disaster is indeed imminent.
+
+But in its final hour, the star will never have been so beautiful within. If someone could only see through the opaque layers of the red supergiant, they could admire the whole range of nucleosynthesis reactions playing in symphony, one within the other, from silicon at the centre, through to hydrogen on the outskirts. And yet nothing on the healthy pink of the star's blushing countenance would lead us to suspect this nuclear apotheosis. At this point, the innocent star is about to abandon its blissful stationary state and undergo the most radical of its transfigurations.
+
+Most of the elements propitious for the creation of life have now been put together. It remains only to share them with the rest of the Universe, to sow them across interstellar space. Explosion will accomplish this final task.
+
+Having painted this portrait of the inner beauty of the dying red star in all its splendour, the time has come to enter a little further into the physics of exploding massive stars. For the composition of the sky and the world so depend on it.
+
+Let us sum up the main argument. The accumulation of iron and its weight category in the core of bountiful stars leads directly to catastrophic conditions insofar as nuclear reactions can no longer supply energy. The stars are no longer able to generate heat and pressure, and hence lose their stabilising mechanism. They are the victims of a genuine heart failure leading to a very fast rise in temperature.
+
+In fact the temperature increases so quickly in the central regions that iron itself is smashed apart by ravaging photons. It is photodisintegrated into helium and this in turn is shattered into protons and neutrons. The density is such that the protons, usually so placid, swallow electrons to become neutrons, spitting out neutrinos like pips:
+
+⁵⁶Fe + γ → 14⁴He, ⁴He + γ → 2p + 2n, p + e⁻ → n + ν.
+
+The deep heart of the star, containing a mass of between 1.4 and 2 M☉, is thus neutralised, or rather, neutronised. The star is on its way to becoming a neutron star.
+
+The phenomena of photodisintegration and electron capture deprive the star of support from photon and electron pressure. The former drain their energy in shattering iron nuclei, whilst the latter are purely and simply eliminated from the game. Under gravity's tyranny, the core suddenly implodes.
+
+During collapse, which lasts only a split second, the temperature goes up to 10 billion K, as it was in the infant Universe when it was barely 1 second old. The density exceeds that of an atomic nucleus (10¹⁴ g cm⁻³). Compressed like a spring, the matter then bounces back, for compression went just a little too far. This abrupt return to expansion gives rise to a shock wave that moves back out through the star.
+
+Apart from this phenomenon, gravitational collapse has another important effect. The tremendously hot neutron star in the making emits a copious supply of thermal neutrinos and antineutrinos. These transfer some 10⁵³ erg, that is, almost all the gravitational energy liberated by compaction of part of the original star into a neutron star with mass around 1.5 M☉ and radius 10 km.
+
+The shock wave is soon exhausted for it encounters enough iron in its path to block its progress. Its energy is consumed photodisintegrating iron nuclei and it is attenuated and fades out. But help is on its way. The neutrino army strikes out, ready to communicate its outward drive.
+
+given the extreme density of the matter the neutrinos must pass through, these usually discreet and unsociable particles are forced to rub up against nuclei and pass on a part of their momentum. Not only do they thereby revive the shock wave, but they also take the credit for triggering the explosion of massive stars; at least this is the word in the best-informed astrophysical circles (Fig. 7.4).
+
+Released in phenomenal quantities, only 1% of their energy need be communicated to the envelope in order to shatter it to smithereens. The revived shock wave reignites nuclear reactions in its wake and modifies the deep isotopic composition of the star (Fig. 7.5).
+
+Implosion and explosion, Thanatos, the neutron star, and Eros, the supernova, seem to join their eternal forces, using invisible neutrinos as mediators.
+
+Great liquid detectors like IMB (Irvine–Michigan–Brookhaven) and Kamioka, crouching underground to spy out solar neutrinos and catch protons in the act of decay, placidly recorded the neutrino signal of the Magellanic supernova in the form of a handful of blue flashes. Although the message had taken 170 000 years to reach us due to the great distance, it arrived just at the right moment, when human beings had developed sufficient physical models and computers up to the task of reconstructing stellar evolution by calculation. The message was late, but it was precise. The neutrinos arrived a few hours before the visible light signal and in the expected numbers, thus providing a magnificent confirmation of the scenario elaborated by explosive astrophysics. Other pleasant surprises were to follow, this time concerning the light curve of the wonderful supernova and its gamma-ray emission.
+
+Proof of the explosive and radioactive origin of iron
+
+The supernova of the century and indeed of modern times, SN 1987A was quite definitely of the gravitational type, as opposed to the thermonuclear species which we shall discuss shortly. In terms of its mass (20 M(cid:6)), the progenitor star, Sanduleak −69 202, was not very different from Rigel, the beautiful blue star in the constellation of Orion. We know this from photographs taken before the cataclysm. Most stars explode when scarlet and distended, so much so that red has been taken as a sign of stellar senility and blue of youth. SN 1987A was an exception for it exploded whilst in blue attire (Fig. 7.6). Questions are still being asked about this blue death.1
+
+At this stage in the investigation, the best hypothesis is that the late blueness is due to a combination of two phenomena: (1) the metal deficiency of the Large Magellanic Cloud in which the star was born; (2) the loss of 2–3 M(cid:6), carried off by stellar winds before the explosion and appearing today in the form of circumstellar rings, greatly enhancing the beauty of the object.
+
+The stunning blue sheen caused by this phenomenon represented a unique opportunity to test the theory of how massive stars explode and how nucleosynthesis takes place within the explosion. This theory predicted that isotopes of mass 44, 56, and 57 would be produced by the sudden, explosive grafting of alpha particles (helium nuclei) and protons onto silicon nuclei (see Appendix 3). They would be synthesised in their radioactive forms, nickel-56, nickel-57, and titanium-44, in that order of importance (see Table 7.1). After a suitable series of decays, these sparsely scattered nuclei in the supernova debris would arrive at their stable forms, iron-56, iron-57, and calcium-44.
+
+Such radioactivity could not go unnoticed. Indeed, radiation from the exploded star was to carry its unmistakable signature. In order to realise the great importance of this comment, we must now leave theoretical limbo and refer to observation, so true, so beautiful, and so irrefutable. Let us then rewrite this chapter in more concrete terms.
+
+When Cortez asked the Aztecs where they obtained the iron in their daggers, they pointed to the sky. Astrophysicists also suspected this to be the case and a startling confirmation was supplied by the 1987 exploding star, the long-awaited supernova. It had been 400 years since Tycho Brahe, the master, and Johannes Kepler, the pupil, had both witnessed the appearance of a supernova, in 1572 and 1604, respectively. Ironically, the telescope was only developed in 1609. For four long centuries, we were then deprived of nearby explosions. Only in 1987 did a supernova appear that was visible to the naked eye, although not from the northern hemisphere. But when the Large Magellanic Cloud opened its box of treasures, what emotion there was before this splendour!
+
+The ‘new’ star attracted the interest of astronomers in every guise, scrutinising the object in the visible and the invisible. Its light was collected by the very best telescopes in the southern hemisphere and dissected by spectrometers, whilst X rays and gamma rays were captured by sensitive devices carried aboard satellites.
+
+It was soon noticed, to the great satisfaction of theorists, that the brightness of the object was falling at the rate implied by the decay of cobalt-56 (with a mean lifetime of 111 days or a half-life of 77 days), precisely as predicted. This decay was considered to be responsible for the supernova’s light emissions at that stage. It was then replaced by the decay of cobalt-57, which in good time probably handed over to titanium-44.
+
+It could thus be claimed that radioactivity is the source of light emissions from the 1987 supernova, and indeed of any similar supernova resulting from heavyweight star explosions. To crown it all, considerably strengthening the case for this argument, the Solar Maximum Mission satellite indicated that, six months after the visual appearance of the object, gamma photons of a certain very precise energy had begun to escape from the debris of the explosion. Because the ejecta expand and dilute, matter from the exploded star had just become transparent to photons produced by radioactive decay of cobalt-56, son of nickel-56 and father of iron-56.
+
+This daring prediction was thereby confirmed: iron, lord of nuclear creation, the most robust of all atomic nuclei, is not created as iron, but as radioactive nickel (see Appendix 3).
+
+And so it is that light from the supernova of modern times has come to reassure humankind of its ability to understand how the elements are synthesised in stars. At the same time, the fog of speculation has lifted from the theory of stellar evolution, culminating in a coherent understanding of the processes at work within these stellar furnaces.
+
+ion of astrophysical thinking, appointing it to the rank of a well-established science, based on a firm observational foundation.
+
+Thermonuclear supernovas
+
+Encouraged by this success, we begin to dream of explaining all the sky’s cataclysms, from supernovas of every denomination, to hypernovas and gamma bursts. Remaining for the moment with supernovas, there appear to be two varieties. The first, described above, arises from core collapse in massive stars and leads to neutron stars and maybe black holes in some cases. These neutron stars then cool by emitting intense neutrino fluxes. The second type leaves no compact object behind and emits no neutrinos. However, these stars require a white dwarf closely accompanied by another object that will administer the kiss of death. The first type are called gravitational-collapse supernovas whilst the second belong to the class of thermonuclear supernovas, for reasons related to the cause of explosion.
+
+This distinction replaces the outmoded classification into types II and I based on spectroscopic characteristics, in particular, the appearance of hydrogen lines for type II, or not for type I. The notation SN Ia (for supernova type Ia) has nevertheless stuck for those beautiful supernovas whose light curve has certain well-specified inflections and in which hydrogen is striking by its absence. Likewise, SN II is still used to denote supernovas whose spectra are adorned with hydrogen lines. (Supernovas classed as Ib and Ic are in fact of the gravitational-collapse type. Their hydrogen envelope has been previously evaporated or expropriated by a companion star. These supernovas thus explode in basically the same way as the SN II.)
+
+Thermonuclear supernovas are close in operation to bombs of the same name. Their brutal and complex physics involves matter exchange between two coupled stars, one of which is a white dwarf (Fig. 7.7). The trade-off is controlled by gravity in rather opaque conditions that render the whole process difficult to discern.
+
+Among the various foul scenarios that lead to death by overdose, two stand out, with the common feature that they involve the same victim: the white dwarf. In the first, the companion is an authentic star like the Sun or a red giant. In the second, much less probable, it is another white dwarf.
+
+Depending on the corpulence of its dancing partner, and how closely they hold one another, the white dwarf can increase or decrease its suction, thereby modifying the time elapsed before it explodes. Let us go to the stars’ ball and, at the height of indiscretion, follow one of these scandalous couples, comprising one dead partner and one living. Resurrection of the corpse results in a new death which this time is final, scattering the remains over a wide area, if indeed death can be equated with total dispersion of atoms.
+
+More seriously, it is generally agreed that most SN Ia events result from the explosion of a white dwarf which is forced over the critical mass for such an object by adjunction of matter from some external source. This critical mass is called the Chandrasekhar mass, equal to 1.4 M(cid:6). Once exceeded, the white dwarf disintegrates under the effects of thermonuclear fusion of its carbon and oxygen.
+
+The precise manner in which it self-destructs depends on its own mass and that of its companion, but also on the nature of the latter and the distance between them. The detailed mechanism of the explosion remains somewhat of a mystery. This is because there seems to be some diversity within the SN Ia class of events. As things are going at present, a new division will soon be necessary (see Appendix 2).
+
+For the time being, we shall rejoice in the fact that SN Ia explosions seem to have been largely understood, at least in outline, as suggested by the following three arguments: (cid:1) no neutron stars appear amongst the remains of past SN Ia events; (cid:1) there is a 白矮星行为的某种均匀性是最终推算的基础，因为它们彼此非常相似；并且与观测到的光谱吻合得很好。
+
+除了这三个事实，核天体物理学家们还特别指出，一旦超过极大光度，Ia型超新星的光度衰减速率与放射性钴-56（镍-56的子体，其原子核是我们所知的贵族血统）的衰变相符。这是与引力坍缩超新星的共同之处。Ia型超新星的光变曲线通过一个假说得到解释：当其中一颗白矮星爆炸时，会生成约半个太阳质量的镍-56。
+
+这种合成过程通过碳和氧的完全焚化进行。湍流核燃烧发生在物质处于量子简并态的高密度条件下。在这种密度下，白矮星缺乏灵活性也就不足为奇了。构成它们的物质表现不像完美气体，会调整自身结构以适应任何微小的变故。僵化已然发生。一旦核反应开始，白矮星注定要被火刑焚烧。焚化几乎瞬间完成，整个星体化为一片放射性镍烟。
+
+因此，对这颗“贪婪”白矮星的核焚烧合成了相当数量的镍-56（0.5–0.6 M⊙），其余留的放射性物质使其发出炫目的光辉，如同某种奢华的恒星安魂曲。这种放射性同位素是Ia型超新星卓越光度的来源，不仅在光学波段（这已被观测到），也在伽马射线波段（目前仅为预测）。
+
+欧洲卫星INTEGRAL（图7.8）将很快准备好，在其运行期间，捕捉任何具有“好品味”、在4500万光年范围内爆炸的此类天体。
+
+编码掩模管道式反符合结构上准直环被动辐射器下准直环锗探测器侧向屏蔽下锥形结构主动辐射器下屏蔽低温恒温器图7.8。INTEGRAL伽马射线望远镜。伽马射线通过编码掩模探测，该掩模也允许计算机重建入射方向（Paul 1998）。该仪器基于紧凑的六边形几何结构设计。编码掩模与探测器之间的距离被选择以获得良好的空间分辨率和视场。主要特征包括：（1）由19个超高纯度锗晶体构成的探测平面，（2）由锗酸铋制成的主动屏蔽层，旨在避免宇宙射线质子引起的不必要探测，以及（3）编码掩模。探测器由主动低温系统冷却。使用锗探测器可实现高精度能量测量。作为一种半导体材料，当伽马射线通过光电效应或康普顿效应释放电子或使其运动时，锗会成为真正的导体。INTEGRAL光谱仪具有以下特性：能量范围20 keV至8 MeV，能量分辨率在1 MeV时为2 keV，点源角度测量精度2°，视场16°，窄线灵敏度在1 MeV时为3×10−6 photon cm−2 s−1，计时精度100 µs，探测器面积500 cm²。
+
+然而，并非所有恒星对都会遭遇如此灾难性的结局。证明来自新星的存在。新星同样源于白矮星与一颗健康恒星之间的激烈“爱情”。区别在于，它们的爱燃烧得更为温和，每次只抛射出其外层的一小部分（大约10−4 M⊙）。然而，这些抛射物像满载货物的帆船一样富含放射性同位素，如铍-7和钠-22。希望有一天，它们的特征能被伟大的INTEGRAL天文台探测到。
+
+元素丰度相对于太阳的比率与质子数的依赖关系 W70 Cr Ni Fe 100 Ti Ca Mn Si S Ar Co Zn 10−1 Mg V 10−2 P Cu CI 10−3 Al Sc 10 20 30 40 50 60 70 图7.9。Ia型超新星事件中的元素产生。（引自Nomoto等人，1997年。）
+
+颂扬超新星超新星是天文学中最美丽的天体之一，无论它们属于哪一类。此外，它们也是星系演化真正的驱动力。无论以其能量（10^51 erg），还是新合成的物质（Ia型超新星产生2 M⊙的氧，II型超新星产生0.6 M⊙的铁），都不可小觑。这两种类型的超新星产生的元素比例不同，发生频率也不同（每五次引力坍缩超新星对应一次热核超新星）。所有这些都反映在氧和铁的星系演化中（见附录5）。有趣的是，如果超新星爆炸前的铁没有在中子星中被转变，而是以某种方式散播到太空中，其产量将与氧相当，两种元素将具有可比的丰度。其后果将是相当显著的。
+
+引力坍缩超新星是碳到钙之间一系列元素的有效生产者，其中氧最为丰富（见附录4）。与此同时，它们的热核“兄弟”在铁及邻近元素方面则慷慨得多（图7.9）。看起来，太阳系的丰度至少可以定性地用一种配比恰当的混合来解释。
+
+A tail of ingredients from the two sources. Apart from the fact that they represent the most productive explosions in the sky since the Big Bang, they can also be used as a waymark across space. The depths of the cosmos are lit up by light from SNIa events. At its high point, just one such event shines like a billion suns, on a par with a small galaxy. By virtue of their extraordinary brightness, they can be seen billions of light-years away. By their brightness and similarity, they have become a precious tool for astronomy. Indeed, it is hoped that they will allow us to measure the Hubble parameter, which quantifies the rate of expansion of the Universe, both in the present and in the past. It will then be possible to estimate the amount of quintessence needed in a good recipe for the Universe (see Appendix 1). Observational data gathered so far would suggest that quintessence dominates at the current epoch, but that this was not always the case. If it had been, the sky would be quite empty of galaxies.
+
+Ferrous destiny This is very fine and beautiful, but when are we going to explain why hydrogen rather than iron heads the list of universal abundances? We have already whispered the answer, but rather discreetly. Having determined how iron is produced, the time has come to deal with this question.
+
+According to the law of the jungle, whereby the strongest prevail, the element whose nucleus contains 26 protons and 30 neutrons stands out in principle as the lord of all nuclear creation. However, this rudimentary microscopic Darwinism is belied by at least two arguments.
+
+The first is a historical fact of prime importance, namely, the low percentage of residual gas in the Milky Way. It is true that iron comes from the stars, and that these seem to advocate its claim to the throne, but star formation itself is on the decline through lack of gas. For this reason, the iron content of the Galaxy levelled off several billion years ago, having reached what appears to be its maximum (see Appendix 5).
+
+An even deeper reason explains why iron does not reign over the other elements in the Galaxy, despite its remarkable toughness. The very high temperatures required to build up complex isotopes can only occur in the deepest stellar confines, from which matter has great difficulty in extracting itself. The fact that elements are created somewhere does not mean that we will find them in nature. They must also be able to escape from the stellar crucible. Relegated to the deepest quarters of massive stars, iron and its kin have great difficulty in tearing themselves away. Only an explosion can simultaneously create them and free them, and even then gravitational collapse supernovas confiscate the pre-explosion iron in their bowels for subsequent digestion. The incarceration of the most stable nuclei in stellar corpses (neutron stars or black holes) is one reason for their rarity. The king and his court are prisoners, locked up in the dungeons where they transmute into neutrons and who knows what else.
+
+However, the entombment of iron is only perpetrated by gravitational-collapse supernovas. Their thermonuclear counterparts are more liberal and, one might say, more final, for they leave behind no corpse, no bones, and no scrap iron. They owe this propensity for total destruction to the rigidity and fragility of the exploding body, the white dwarf, a porcelain ornament that is sure to break when it falls. But thermonuclear supernovas, though lavish providers of iron, are rare. Very special conditions must be fulfilled for these explosions to occur.
+
+For all these reasons, iron will always maintain a modest presence and we are saved from the terrifying vision of a completely metallic Universe. So, dear Aristotle, we no longer stand before the evidence like bats in daylight.
+
+Hypernovas and gamma bursts Gigantic blasts of very-high-energy photons are sometimes recorded by satellite-borne detectors. Such gamma bursts have long remained a mystery.
+
+Over recent years, theoretical understanding of these monstrous outbursts has made some progress, thanks mainly to a rich crop of results obtained by the BATSE experiment on board the Gamma-Ray Observatory and the Dutch–Italian satellite Beppo-SAX. The bursts themselves, and the pale afterglows that succeed them in other wavelength ranges, can be described as resulting from interactions between the parts of a highly relativistic jet or between the surrounding medium and such a jet. Current models of this kind are poetically referred to as the cosmic or relativistic fireball. There is still a great deal of debate over the origin of the jet. However, it is generally agreed that it involves the formation of a black hole with mass between two and five times the solar mass, a disk around it, and rapid accretion of disk material by the black hole. Different theorists have different ideas about how the black hole may have formed and how much matter accretes and for how long. Opinions also vary on how the disk energy is extracted and converted into a beam of relativistic particles.
+
+Hypernovas and gamma bursts are indeed the biggest explosions since the Big Bang, at least, the biggest to be observed by humankind. The energy involved exceeds conventional bounds by a wide margin. In gamma rays alone, some 10^53 to 10^54 erg are released, assuming emissions to be isotropic, that is, equally distributed in all directions. This is comparable with the energy carried off by neutrinos during the explosion of a massive star, like SN 1987A.
+
+The immensity of this figure suggests that emissions may not in fact be omnidirectional. The total energy output can be substantially reduced by assuming that gamma rays are channelled along a beam. This beam has to be remarkably narrow if the emitted energy is to remain within respectable limits. This raises the question as to what fabulous engine might produce and guide these lavish gusts of gamma photons.2
+
+Let us muse for a moment over some figures. The energy equivalent of the Sun’s mass, calculated using the well-known relation E = mc2, is around 2×1054erg. The core of a massive star (some 2M(cid:6)) contains twice this energy. The problem is thus to convert the mass energy of a body, or part of it, into gamma energy, extract it from the object during its collapse phase, and channel it into a narrow beam of gamma rays over a brief period of time. In other words, how could we translate from the physics of stars to the physics of beams?
+
+Apart from its intensity, what is striking is also the brevity of the phenomenon, earning it the name of cataclysm. The key seems to be the collapse of the iron core of a massive star, but this time, one that is rotating. Carried along by the dance, it spins around, and so does its core, at such a rate that the rotational energy can reach a considerable value. In fact the rotational energy may even be on a par with the gravitational energy. The faster the rotation, the easier it is to extract energy. To this end, we know of at least one mechanism, the Blandford–Znajek mechanism. Briefly, the principal suspect is a rapidly spinning black hole. When the rotation is abruptly slowed down, a prodigious quantity of energy is released. To a first approximation, a black hole swallows everything and gives back nothing at all, unless it is spinning. We thus appeal to rotation to resolve the enigma of the gamma-ray blasts. Something must slow down the rotation of a black hole with mass greater than the solar mass (a Kerr black hole), causing it to stop spinning (and thus become a Schwarzschild black hole). This must happen within a few hundred seconds. The energy must be extracted and emitted in the form of intense gamma radiation for one or two seconds, so that it can be registered as a gamma burst by satellites on permanent watch around the Earth.
+
+Speculation has been rife since a gamma burst was found to coincide with an extragalactic supernova with registration plate SN1998bw. It should be said that this supernova is one of the brightest ever detected, in both the optical and the radio regions. Indeed, its spectrum is somewhat enigmatic. Its general appearance corresponds to an abnormally high expansion rate. The fingerprint of hydrogen is not to be found on the scene, either as an emission line or an absorption line. The event is not therefore of type II.2
+
+Detailed analysis of observations leads to the following breakdown for SN1998bw: mass of exploded star 13.8 M(cid:6), mass of radioactive nickel ejected 0.7 M(cid:6), mass of ejected matter 10.9 M(cid:6), energy of explosion 3×1052erg, mass of compact remnant 2.9 M(cid:6), mass of precursor star 30–40M(cid:6). It would be tempting to call this event a hypernova, if the term had been officially accepted, and to associate a black hole with the surviving compact remnant.
+
+In this case, we must examine the effect of an asymmetrical explosion on the final result of the self-destruction of a very massive black hole, that is, the supernova remnant and black hole. Such asymmetrical supernovas may explain a fair number of gamma bursts, which have remained a deep mystery up to now. Beams and jets are more than ever in the news in astrophysics. Collapse and accretion are other keywords which no one dabbling in astrophysics can ignore today. To accrete means to attract and appropriate matter from an external source. Accretion always goes with gravitation, the attraction of matter by matter. In every couple, there is a winner and a loser. The winner is the one who, by superior force, appropriates the substance of the other. A high mass and small radius are qualifying features. So we have the burglar and the burgled. In this game, black holes are the champions, the most accomplished plunderers in the sky, but it is the desperate cry of their victims that gives them away. Matter sends out a distress signal before being absorbed forever, and this strident vociferation is best heard in the X-ray or even gamma-ray region.
+
+A wide range of phenomena is possible when a black hole absorbs matter very quickly from the disk around it after incomplete explosion of a rapidly rotating massive supernova. In the most extreme case, according to Stan Woosley (University of Santa Cruz), the shock wave resulting from the central explosion is unable to shatter the star (composed mainly of helium) and a black hole forms with an accretion disk around it. A high-intensity gamma burst then results. We may wonder what effect these gigantic explosions and accompanying radiation may have on the galactic environment of the hypernova. Such an energy release could only produce holes, hollow shells in the distribution of interstellar matter. After 1 million years, these cavities reach a radius of 150 to 500 light-years, according to calculation. The initial excesses are followed by a calmer expansion at speeds below 10kms−1.
+
+Hypernovas Neutrinos are usually evoked as detonators, triggering or driving the explosion of massive stars. The gravitational energy freed by core collapse of a massive star, some 10^53 erg, is mainly evacuated by neutrinos. These pour out in such inordinate amounts that if just 1% of their energy is communicated to matter in the envelope, the whole thing will be blasted out of existence.
+
+Over the past thirty years, this idea has beclouded research in the field. After examining certain events more closely, the explosion community has begun to wake from a long dogmatic slumber. Previously, the cosmic firework-makers loved to see round supernovas, as beautiful as fruit, whilst in reality it seems that they may be pierced by jets and beams, like balls of wool with knitting needles through them.
+
+The conceptually simplest way of forming a black hole at the heart of a massive star, thereby setting up the conditions of the hypernova model, is to begin by repudiating the traditional explosion model detonated by neutrinos. The iron core then collapses without remission in the space of one second. A black hole prospers, pulling down the rest of the stellar edifice. This may be a common occurrence for stars of 35 to 40 M☉. However, uncertainties remain concerning convection, mass loss and mixing due to rotation, not to mention the explosion mechanism itself.
+
+If the star loses its hydrogen envelope in the process, and if the jet produced by accretion maintains its energy and remains focussed longer than the time required to cross the star (five to ten seconds), a vigorous gamma burst is produced. Otherwise, the result is a weaker burst, less tightly collimated, or an asymmetrical supernova.
+
+However, according to Stan Woosley, there must be a whole range of masses in which a black hole is not immediately created, but only when a shock wave has blown the star apart. One would feel sure that the explosion had succeeded, and yet a certain fraction of the matter would fall back into the core, for it would have insufficient kinetic energy to resist the call of gravity from the central neutron star. The latter would be transformed into a black hole by the extra matter. This delayed delivery of a black hole may be much more common than the hasty birth described above.
+
+As an example, let us consider the case of a 25 M☉ black hole. Let us examine it from a young age so as not to lose anything of its life story. On the main sequence, it maintains a significant stellar wind and loses mass. At the end of its life, it graces the sky as a red supergiant. It has an iron core of 1.9 M☉, a helium shell of 8 M☉ and a downy envelope weighing in at 6.6 M☉. Its total mass at death is 14.6 M☉ and it measures 8×10^13 cm in radius. The star has enough specific angular momentum (∼10^17 cm^2 s^{-1}) at the equator to form an accretion disk around a black hole. With a disk and a black hole, all the ingredients are there for a great firework show.
+
+SN1998bw, which sounds something like the name of a Bach fugue, is not the only animal belonging to this area of the zoo. Another carries similar features in its spectrum, namely SN1997ef. (Note that, given the regularity with which supernovas are discovered and recorded these days, their registration plate now carries two extra letters.) This was discovered on 25 November 1997 in an obscure spiral galaxy UGC4107, situated some 170 million light-years from our own. Its spectrum is dominated by broad oxygen and iron lines. It harbours not a trace of hydrogen, suggesting that it is a gravitational-collapse supernova that has lost its envelope under the effects of a strong stellar wind prior to explosion.
+
+SN1997ef is a very unusual supernova, to judge by its light curve and spectrum. Hydrogen is striking by its absence. Oxygen and iron absorption lines are abnormally broad.
+
+The light curve and spectrum are well reproduced by numerically simulating the explosion of a bare oxygen and carbon core with mass 6 M☉. Since the width of the absorption lines is not thereby explained, models with higher mass and explosion energy have been explored. A convincing representation of the phenomenon has been obtained by pushing the core mass up to 10 M☉ and the explosion energy to 10^52 erg. The mass of the C+O core corresponds to a total stellar mass of 30–35 M☉ at birth. The final compact residue of 2.4 M☉ is greater than the maximum allowed mass of a neutron star and must therefore be a black hole. The kinetic energy of the explosion quite clearly places SN1997ef in the hypernova category.
+
+The same analysis has been applied to several supernovas. It is found that the mass of radioactive nickel ejected increases with the mass of the progenitor star, with one exception, namely SN1997D (see Fig. 7.10). This trend can be explained as follows. Stars starting out with a mass less than about 25 M☉, such as 1993J, 1994I and the celebrated SN1987A, would lead to a neutron star and produce a mass of 0.08±0.03 M☉ ^56Ni. It transpires that SN1987A adds to its originality by producing a compact remnant that is borderline between a neutron star and a black hole. Stars of mass greater than 25 M☉ would form a black hole without further complication. Whether they become type II (ordinary) supernovas or hypernovas depends on the rotational state of the core of the collapse victim. In the case of 1997D, because of the high gravitational potential, the explosion energy is so weak that most of the nickel -56 falls back onto the compact object forming at its centre. This matter adds to the mass of the imploded core causing total collapse and transformation of the neutron star into a black hole. The core of this supernova would not appear to have the angular momentum required to afford it hypernova status, for the progenitor star possessed a vast (hydrogen) envelope which somehow, by a kind of flywheel effect, slowed down the core rotation.
+
+All this remains pure speculation and, in science, it is important to be cautious. I have nevertheless chosen to discuss the case of these very-high-energy explosions because it does illustrate some of the trends in contemporary astrophysics. In particular, it exemplifies the spectacular entry on stage of the black hole, which I personally regard with a dark eye.
+
+One may wager, without risk of contradiction, that examples of this kind are going to accumulate. A third case of a hypernova (SN1997cy) has already been revealed. We will soon know the amount of iron (nickel) engendered by supernovas and hypernovas of all masses. This is of the utmost importance for those like Elisabeth Vangioni-Flam who seek to reconstitute the history of this element in the Galaxy and beyond.
+
+In the future, rapidly rotating carbon–oxygen cores will be most carefully examined by numerical astrophysicists, because the explosive energy of hypernovas may well be extracted from the resulting black hole, at least, if we are to believe Blandford and Znajek.
+
+History of gold
+
+The rise in temperature that follows in the wake of the shock wave triggers a series of nuclear reactions in the central regions of the star. It resuscitates nucleosynthesis of silicon and thereby produces iron that will not later be impounded, in contrast to the iron created in the core of the star before explosion. This iron is generated in the form of radioactive nickel-56 which gives itself away by the gamma rays it emits, as already discussed.
+
+Explosive nucleosynthesis adds a few last trinkets to the abundance table, in particular, gold, platinum and uranium, through an ultimate nuclear process relating to neutron physics.
+
+The key point in this respect is the large number of neutrons produced in the central region. Insofar as these nucleons carry no electric charge, they mix easily with the previously produced nuclear isotopes, including iron. They do not suffer the electrical barrier that so frustrates the fusion of nuclei, and ever more so as they occupy higher positions in the hierarchy. Neutron capture serves to enrich the range of nuclei that can be engendered by supernova activity.
+
+This form of nucleosynthesis, known as the r-process (or rapid process), is assumed to produce the more complex elements existing in nature, those lying well beyond iron, according to the following series of reactions: 56Fe + n → 57Fe + γ, 57Fe + n → 58Fe + γ, 58Fe + n → 59Fe + γ, ...
+
+78Fe + n → 79Fe + γ.
+
+These reactions generate nuclei that are extremely rich in neutrons, in fact, much too rich to be stable. In this situation, radioactive β− decays, a manifestation of the weak interaction, intervene to readjust the numbers N and Z, transforming excess neutrons into protons via the elementary reaction neutron → proton + electron + antineutrino.
+
+This results in a gradual transition towards higher atomic numbers Z. The sequence of neutron captures followed by β decay produces heavier and heavier elements. It is the only known mechanism for producing gold, platinum, thorium and uranium. The r-process is thus considered to close the cycle of nucleosynthesis.
+
+In this way, the stars make gold. If some alchemist surfaced today from the distant past and asks you for the secret behind the manufacture of precious metals, why not give him the recipe! For good results, an iron nucleus must absorb about a hundred neutrons. Destroy any supernumerary iron (heat or photodisintegrate), add a generous dose of neutrons, and there you are!
+
+Unfortunately, it is easier said than done. You need a cauldron, crucible, transmuting heat, ash, combustion, fire and light carried to an absolute extreme of violence. Celestial alchemy is an explosive business.
+
+Bear the formula in mind, however. The ingredients are metals and neutrons. Neutrons! Here lies the whole difficulty of the matter, for free neutrons are unstable. How can they be liberated and made to react before they perish? What is needed is a source of neutrons, a neutron-rich nucleus that will let one of its neutrons slip out from the folds of its robe. Neutron sources so far identified are few and far between. Indeed, we have only carbon-13 and neon-22. These are the only ones capable of supplying neutrons to nuclear reactions. And we are still worlds away from working out a detailed scenario for the explosive production of gold.
+
+History of lead
+
+Just to reiterate what we have said, neutron capture is the only valid channel towards the extreme complexity of gold (Z = 79). Reactions involving charged particles are energetically unfavourable and moreover inhibited by insurmountable electrical barriers. Because of the strong electrical repulsion between heavy nuclei (which thus contain many protons), the classic thermonuclear fusion reactions are ineffe Active, and we are forced to accept the idea that nuclear species beyond iron are produced by a process other than thermonuclear fusion. This process is neutron capture.
+
+We have seen that, globally speaking, nuclei above iron can be divided into two groups: those resulting from the s process and those originating in the r process. A third mechanism called the p process only affects a minority of nuclear isotopes, producing a few rare species rich in protons.
+
+The term ‘s process’ is an abbreviation for ‘slow neutron capture process’. Here, capture is slow relative to the characteristic time for internal transformation of the neutron into a proton ( radioactive β− decay). Between two neutron captures, there is ample time for β decay to occur. The r process represents quite the opposite situation. Neutron capture is not interrupted by β decay.
+
+As a nuclear reaction, the s process is relatively well understood, but the problem lies in identifying an astrophysical site for it and determining the relevant physical parameters, such as neutron flux, mean time separating two neutron captures, and temperature. It has been shown that the most propitious temperatures are those of helium fusion. Added to the fact that the surfaces of certain red giants are rich in s isotopes, such as radioactive technetium and barium, this observation confirms the idea that the s process may be related to helium fusion regions in stars.
+
+More precisely, the stars in question do not belong to the main sequence, but rather to the asymptotic giant branch (or AGB, to use the astronomer’s term, already mentioned several times in the above). These are red giants that began life with masses between three and eight times the mass of the Sun and which manage to produce genuine neutron bursts in an almost feverish manner. For this reason they constitute ideal sites for (slow) neutron capture by pre-existing iron. During these fitful episodes, stirred up by mighty blasts of heat referred to as thermal convulsions, neutrons are produced by the reaction helium + carbon-13 → oxygen-16 + neutron.
+
+Neutrons needed to develop the s process are essentially produced at temperatures of the order of 100 to 150 million K.
+
+In fact, red giant nucleosynthesis is supposed to explain s elements with atomic mass greater than 100, that is, the heaviest among them. Lead and bismuth mark the end of the fabrication process for complex nuclei in giants. This is because further ingurgitation of neutrons by these elements results in unstable isotopes which transform back into lead and bismuth.
+
+The neutron bursts take place in helium burning shells surrounding the inert carbon–oxygen core. The neutrons released here are grafted onto iron and its kin.
+
+Massive stars, or rather their cores, in which helium is burning, are also candidates for producing s isotopes, but with masses less than 100 now. Neutrons are released via the reaction helium + neon-22 → magnesium-25 + neutron.
+
+In the competing rapid process, or r process, neutron fluxes are considerably greater. The classic r process is assumed to occur at extremely high neutron densities, in the range of 10^20 or 10^30 neutrons per cubic centimetre, and temperatures in the vicinity of 1 billion K. Given the intensity of irradiation, the number of neutrons absorbed, let us say by iron, reaches spectacular levels. The nuclear species formed in this way is very unstable, being far too rich in neutrons to remain a viable nucleus. It stabilises itself by transforming a large number of neutrons into protons one after the other, as we saw previously. Hence, when neutron irradiation ceases, the exotic and extravagant nuclei undergo a chain of β decays to re-enter the valley of stability, that is, the region of stable nuclei which traces out a parabola in the (N, Z) plane, by successive transformation of neutrons into protons.
+
+The r process can form a bridge between lead and the actinides above the nuclear instability zone. It is thus responsible for the production of long-lived actinides such as thorium-232, uranium-235, uranium-238 and plutonium-244 which are used to estimate the age of the Earth and the Galaxy.
+
+In order to determine the maximum atomic mass produced in the r process, we must find the point when induced (destructive) fission enters into competition with (constructive) neutron capture on the path followed by the process across the (N, Z) map of the isotopes. This question requires calculation of the fission barrier far from the region of known nuclei, which is no simple matter. The possibility of producing mythical, superheavy, transuranium nuclei (around Z = 114 and N = 184) has not yet been demonstrated.
+
+Up to now, the search for an astrophysical site that could sustain the r process has not brought much success, but it is certainly not for want of imagination. Mergers between two neutron stars or a neutron star and a black hole have even appeared on the list. Notwithstanding, the favourite potential site remains the supernova. However, despite a long inquiry into the matter, we are still unable to put forward a detailed mechanism to show how it would operate. Calculations with the r process in explosive conditions are notoriously difficult, but they are being pursued with courage and determination.
+
+In fact, the quest to find an astrophysical site for the r process is in full swing. It is being helped along by the rapid accumulation of observational data concerning surface abundances in ageing stars gravitating in the galactic halo. Such analyses aim to correlate observed observed abundances of typical r-process isotopes with stellar metallicities. It has thereby been discovered that the slow process comes later than the rapid process.
+
+Sharing the stellar treasure
+
+The nuclear treasures accumulated by stars are now complete and we may draw up an inventory. But treasure is only treasure if it can be shared. What would be the point of the stars’ unflagging labours if their fruits could not be redistributed? Nature has resolved the distribution problem by explosion or wind ejection. The stars throw everything they can overboard before they go down. In the sky, winds, blasts and deflagrations are entirely beneficial.
+
+The explosion of a supernova is a very happy event. It results in the spherical propulsion of matter into the interstellar medium, matter that has been simmering over millions of years, spiced up in the final moments by a little explosion and radioactivity. In the medium that lies between the stars, temperatures and densities are much lower than in stellar objects themselves. The supernova matter is diluted and cools down. Nuclei in the expelled material capture electrons to form various atoms and molecules. The cycle cloud→star→cloud continues to make its way until the word ‘cloud’ can no longer find substance.
+
+To begin with, the gravitational force condenses matter to form a new generation of astronomical bodies of all sizes, from massive stars with an explosive vocation, through stable and long-lasting solar-type stars to planets, meteorites and cosmic dust. Each star then follows its predestined track, not without making its contribution to the cosmic hamper. In this way, successive star generations gradually enhance the galactic humus in heavy elements. Clouds serve the double purpose of receiving the ashes of defunct stars and providing construction material for new stars. So goes the Galaxy.
+
+But all this cannot happen without losses along the way. Stellar corpses and collapsed cores (white dwarfs, neutron stars and black holes) are permanently removed from the great flow of nuclearevolution. It is as though their substance has been confiscated, so that it can no longer take part in the ebb and flow of matter, entering the stars in one form and re-emerging in another. Almost all elements required for life are now present.
+
+At this point in the presentation, our picture of stellar evolution and the nucleosynthesis of naturally occurring chemical elements is almost complete. Many refinements would be required to give a fuller view. In fact, many pieces of the jigsaw are still missing or inadequately understood, in particular with regard to the r process. Despite all this, we have tried to convince the reader that the nucleosynthesis model constitutes a fundamental opus of the human intellect. It is not therefore to the planets that we should associate the elements: iron with Mars, lead with Saturn, mercury with Mercury. It is indeed the stars that have nurtured them. Some stars make carbon, others gold. Thermonuclear combustion modifies the composition of the hottest regions within stars. Each star is responsible for the confection and distribution of a particular batch of atoms, apart from hydrogen and a large part of the helium in the Universe which were synthesised in the Big Bang, and the lightweight trio lithium, beryllium and boron.
+
+Explosive events like the Big Bang and supernovas are the professionals in the nucleosynthesis game. They are the great dispensers and generous donators of atomic nuclei in the Universe. The quantity and simplicity of nuclear species created by the Big Bang – hydrogen and helium – can only be balanced by the quality, diversity and refinement of species produced in supernovas, including 90 atomic types from carbon to uranium.
+
+Stellar winds and planetary nebulas also play an important role in the chemical economy of our Galaxy, as they probably do in all the others. In particular, they enhance levels of nitrogen, carbon and heavy elements beyond iron (by the s process). For the main part, newly made elements are produced and launched into circulation by the last gasp of light stars (generating planetary nebulas), stellar winds and supernova explosions.
+
+In the last analysis, the diversity of atoms reduces to a well-ordered numerical sequence. Furthermore, this order is significant and the final picture, summing up the origin of the elements, will be quite indispensable to anyone who sincerely seeks out the truth about matter. Such is the genuine and communicable fruit of our inquiry, to be shared by all. We have identified the creation, not in a metaphorical way, but literally, through the constitutional algebra of the Big Bang, cosmic radiation and stars. If it is true to say that ‘–our fortune or misfortune–depend on one thing, namely the quality of the subject to which we bind ourselves in love’ (Spinoza), then we star-lovers have nothing to fear as we gaze upon the sky. In the institutes of astrophysics, a new generation has been brought up to understand it.
+
+Ancient stars in the galactic halo
+
+Glossary
+
+damped Lyman alpha (DLA) systems thick intergalactic clouds absorbing quasar light
+
+Clues to the chemical evolution of the Galaxy
+
+The evolution of the composition of matter can be traced back through the various ages of the Galaxy by systematically examining surface abundances over a very large population of stars by means of spectroscopic analysis (Table 8.1). One is particularly interested in elements observed in the spectra of ancient suns in the galactic halo. These little stars, the oldest we know of, are still shining valiantly today, boasting their exceptional longevity (Fig. 8.1).
+
+Let us now describe the The method used. The most accessible elements are those possessing clear lines in the optical spectra of these fossilised objects. In contrast, certain elements like neon and argon are not determined in these stars, whether they be dwarfs or giants. In their normal state, the noble gases produce no optical emission.
+
+Families that lend themselves best to this evolutionary analysis are: * the light nuclei Li, Be and B; * the α nuclei, i.e. multiples of the helium nucleus, such as Mg, Si, S and Ca; * nuclei around the iron peak, viz. Sc, Cr, Mn, Fe, Co, Ni, Cu and Zn; * heavy s and r isotopes like Sr, Y, Ba and Eu.
+
+Among these, iron is relatively easy to measure and serves as a reference, as a metallicity index, and thus as an indicator of the degree of evolution. Indeed, it is common practice in astronomy to treat the terms iron content (Fe/H) and metallicity (Z) as synonymous. Solar metallicity is denoted Z☉.
+
+Table 8.1. Lifetimes of stars with different masses and metallicities; Z denotes metallicity here and Ms is in units of solar mass.
+
+M   Z = 0.0004   Z = 0.004   Z = 0.008   Z = 0.02   Z = 0.05
+
+## 0.6   4.28×10^10   5.35×10^10   6.47×10^10   7.92×10^10   7.18×10^10
+
+## 0.7   2.37×10^10   2.95×10^10   3.54×10^10   4.45×10^10   4.00×10^10
+
+## 0.8   1.41×10^10   1.73×10^10   2.09×10^10   2.61×10^10   2.33×10^10
+
+## 0.9   8.97×10^9    1.09×10^10   1.30×10^10   1.59×10^10   1.42×10^10
+
+## 1.0   6.03×10^9    7.13×10^9    8.46×10^9    1.03×10^10   8.88×10^9
+
+## 1.1   4.23×10^9    4.93×10^9    5.72×10^9    6.89×10^9    5.95×10^9
+
+## 1.2   3.08×10^9    3.52×10^9    4.12×10^9    4.73×10^9    4.39×10^9
+
+## 1.3   2.34×10^9    2.64×10^9    2.92×10^9    3.59×10^9    3.37×10^9
+
+## 1.4   1.92×10^9    2.39×10^9    2.36×10^9    2.87×10^9    3.10×10^9
+
+## 1.5   1.66×10^9    1.95×10^9    2.18×10^9    2.64×10^9    2.51×10^9
+
+## 1.6   1.39×10^9    1.63×10^9    1.82×10^9    2.18×10^9    2.06×10^9
+
+## 1.7   1.18×10^9    1.28×10^9    1.58×10^9    1.84×10^9    1.76×10^9
+
+## 1.8   1.11×10^9    1.25×10^9    1.41×10^9    1.59×10^9    1.51×10^9
+
+## 1.9   9.66×10^8    1.23×10^9    1.25×10^9    1.38×10^9    1.34×10^9
+
+## 2.0   8.33×10^8    1.08×10^9    1.23×10^9    1.21×10^9    1.24×10^9
+
+## 2.5   4.64×10^8    5.98×10^8    6.86×10^8    7.64×10^8    6.58×10^8
+
+3     3.03×10^8    3.67×10^8    4.12×10^8    4.56×10^8    3.81×10^8 4     1.61×10^8    1.82×10^8    1.93×10^8    2.03×10^8    1.64×10^8 5     1.01×10^8    1.11×10^8    1.15×10^8    1.15×10^8    8.91×10^7 6     7.15×10^7    7.62×10^7    7.71×10^7    7.45×10^7    5.67×10^7 7     5.33×10^7    5.61×10^7    5.59×10^7    5.31×10^7    3.97×10^7 9     3.42×10^7    3.51×10^7    3.44×10^7    3.17×10^7    2.33×10^7 12    2.13×10^7    2.14×10^7    2.10×10^7    1.89×10^7    1.39×10^7 15    1.54×10^7    1.52×10^7    1.49×10^7    1.33×10^7    9.95×10^6 20    1.06×10^7    1.05×10^7    1.01×10^7    9.15×10^6    6.99×10^6 30    6.90×10^6    6.85×10^6    6.65×10^6    6.13×10^6    5.15×10^6 40    5.45×10^6    5.44×10^6    5.30×10^6    5.12×10^6    4.34×10^6 60    4.20×10^6    4.19×10^6    4.15×10^6    4.12×10^6    3.62×10^6 100   3.32×10^6    3.38×10^6    3.44×10^6    3.39×10^6    3.11×10^6 120   3.11×10^6    3.23×10^6    3.32×10^6    3.23×10^6    3.11×10^6
+
+Source: Courtesy of André Maeder and colleagues in Geneva.
+
+Fig. 8.1. Life expectancy of stars with solar metallicity. A star’s lifetime depends principally on its mass at birth and varies little with initial metallicity. (From Riosi 2000.)
+
+Stellar compositions are traditionally discussed in terms of abundances relative to iron, X/Fe (where X is the relevant element), as a function of the ratio of iron to hydrogen, Fe/H, this being the most convenient arrangement for observational purposes.
+
+Stars with masses similar to the Sun are chosen in different populations of different ages, such as the thin or thick part of the disk, the halo or a globular cluster. Care is taken to ensure that their surfaces are not contaminated by internal nuclear processes, so that their compositions accurately reflect their date and place of birth. Red giants are therefore avoided. These stars are subject to significant internal motions that carry the products of nucleosynthesis up to the surface. There are notable differences between the metallicities of the various subsystems making up the Galaxy, that is, the bulge, disk and halo.
+
+The clearest indication of galactic evolution is the increase in iron content of the stars from one generation to the next. The youngest, those that formed in an older Galaxy, are richer in iron than their seniors, which formed when the Galaxy was younger. Hence, the iron deficiency of a star with respect to the Sun is all the more marked as it belongs to an older generation.
+
+Everything suggests that the Fe/H ratio can be taken as a kind of chronometer, or at least as an index of evolution. It defines the chemical history of the Galaxy, and cannot decrease. The accumulation of iron in the interstellar medium is such that the abundance of this element increases monotonically, although in a way that is far from linear. The Fe/H ratio can be calibrated as a function of time by jointly determining the iron content and age of a great many stars selected from distinct generations. This then constitutes the basis of the age– Variations in abundances observed at very low metallicities probably reflect the imperfectly homogeneous chemical composition of the gaseous medium produced by explosion of a small number of distinct and isolated supernovas, and subsequent sporadic contamination of the neighbouring interstellar medium. Stars of different masses would have exploded here and there, but they would not have supplied the same products. Their substance, poorly mixed into the interstellar medium, would have turned up locally in stars of the next generation, and these stars would thus carry the distinctive characteristics of the first exploding objects.
+
+Explosions, or more precisely, the shock waves they induce, sweep through the interstellar medium and produce a cavity. The swept-up matter, rich in hydrogen, then accumulates to form a dense shell with ever-increasing radius. Inside the shell lies the hot, enriched matter ejected by the supernova, whilst outside is the ambient interstellar medium. We thus have a hot bubble surrounded by cold, dense gas. This is the structure of a supernova remnant. Mixing and interpenetration take place at the outer boundary. Tongues of hot matter penetrate the cold medium without, whilst the cold shell evaporates and dilutes gases within. When the shell reaches a diameter of 100 parsec and the mass of swept-up interstellar medium is around 50000 M⊙, its speed has dropped to that of neighbouring clouds. It then breaks up and merges into the background. At the end of the day, the whole of the fresh delivery from the star will have been absorbed.
+
+The changing abundance ratios observed at low metallicities (in the young Galaxy) are compared with the contribution from supernovas of different masses in order to determine which have enhanced the chemical content of the youthful Galaxy, and at what stage in its development. Measured abundances can then be used to adjust nucleosynthesis calculations, leading to more realistic supernova models. The genetic heritage of the most ancient stars in the galactic halo thus reveals their relationship with the first generation of supernovas (Fig. 8.2).
+
+Organisation began to impose itself in the ensuing phases. Collective effects gradually wiped out the fluctuations of the early days, as the Galaxy changed almost imperceptibly from a set of individuals to a society. In other words, supernovas proliferated and their remnants started to overlap, until the interstellar medium began to take on a homogeneous composition. At this point, relative proportions of complex elements would have reflected the average contribution of a whole generation of stars. New stars forming in this well-blended medium would have had almost uniform composition.
+
+Empirical correlations can be established between certain elements, in particular, those produced in the same categories of stars. These correlations can be brought out graphically by plotting the abundance of a certain element, say X, relative to another, say Y. When the data are plotted with X/H on one axis and Y/H on the other, using logarithmic scales for both, the slope of the curve generally lies between 0 and 2. A zero slope indicates a non-stellar origin. The best example is provided by lithium in halo stars, compared with iron (Fig. 8.3). This independence from metallicity indicates a primordial origin, that is, in the Big Bang. A slope equal to 1 indicates that SNII events are responsible for both the elements in question. This is the case for the α elements magnesium, silicon and calcium, but also for iron and beryllium. A single type of object produces the various nuclear species in invariable amounts. A slope other than 1, or a change in slope, indicates the intervention of some other type of object.
+
+If we restrict ourselves to the halo evolution, which we assume to be dominated by SNII events, given the very short time-scale involved, a statistical-type study of general trends leads to the following conclusions, which are most enlightening for supernova physics: 1. For several elements, differences come out from one star to another at the lowest metallicities (iron content). Not all stars with the same iron content, apart from a small number of exceptions, have the same abundance distribution, as already mentioned.
+
+2. Lithium, on the other hand, displays almost no scatter and its abundance up to 0.1 Z⊙ is independent of the iron abundance.
+
+## 3. Beryllium and boron evolve in the same way
+
+Fig. 8.2. Iron content as a function of the age of stars in the neighbourhood of the Solar System (age–metallicity relation). Age determinations are a delicate matter and somewhat uncertain. This explains the wide error bars and scatter of the data. Type Ia supernovas must be included to reproduce the observed iron evolution.
+
+Fig. 8.3. Lithium, beryllium and iron. The symbol [Fe/H] denotes the logarithm of the ratio of Fe/H for the star and Fe/H for the Sun. The evolution of lithium and beryllium in the halo [Fe/H] < -1 is a classic example. The lithium content remains independent of the iron content in halo stars. This is known as the Spite plateau, named after the two French astronomers Monique and François Spite. It indicates a primordial origin (i.e. in the Big Bang). An upturn occurs just when the disk stars begin to take over. Beryllium is an archetypal example of elements created by spallation. Its abundance increases monotonically by accumulation as time goes by.
+
+Away as iron, showing that SNII events are responsible for these three elements.
+
+4. Relative to iron, the α elements 24Mg, 28Si, 32S, 36Ar and 40Ca are uniformly more abundant than in the Solar System, in agreement with nucleosynthesis calculations (Fig. 8.4). We deduce that the galactic halo is a good place to study nucleosynthesis due to gravitational-collapse supernovas, for the contents of stars in the halo would appear to have been composed by these massive stars with their consequently short lifetimes. It was long thought that oxygen evolved in a similar way, but recent data have sown the seed of doubt over its behaviour at low metallicities. According to some research workers, it would seem that oxygen behaves in a different way to its α siblings and that the ratio O/Fe, rather than remaining constant, actually grows at low metallicities. However, this trend has not been unanimously confirmed.
+
+5. Titanium behaves like the α elements, whereas one would expect it to resemble a ferrous metal.
+
+6. Discrimination grows between odd and even at low metallicities, at least for the light metals, such as sodium and aluminium. The even–odd imbalance is much less significant for the ferrous metals. Thus, chromium and manganese manifest a comparable underabundance for metallicities below 0.003 Z(cid:6). In contrast, cobalt, which is odd like manganese, is overabundant in the same metallicity range.
+
+7. The heavy elements show varying trends but, on the whole, strontium follows iron, whilst barium is underabundant below 0.01 Z(cid:6). It is observed that, in every case, marked differences occur between stars with the same iron content.
+
+8. The abundance distributions of certain stars investigated in detail conform to that of the r-process.
+
+Fig. 8.4. Evolution of magnesium, silicon, calcium and titanium. The elements Mg, Si and Ca are known globally as α elements. They occur in excess relative to iron in halo stars. It is surprising to find Ti on the list, given that it belongs to the iron group. (From Arnould & Takahashi 1999.)
+
+Armed with these suggestive prolegomena, we may now turn to the key problem of chemical (isotopic) evolution in galaxies, starting with our own.
+
+The stars are the main driving force for nuclear evolution. However, they are not all equally productive. Let us therefore distinguish between three categories of object, depending on their masses: small, intermediate and large. The first, less massive than the Sun, lead to a finished product which is just what we started with. They are more or less sterile, evolving so lazily that, after 10 billion years, they have not yet delivered up a single nucleus. Along with compact stellar corpses, these are a genuine dead weight to galactic progress. It is as though their contents had been locked up forever in a bank safe.
+
+The second group, with masses between one and eight times the solar mass, experience an agitated evolution, tacking back and forth across the HR diagram, so that it is difficult to keep track of them. At the end of their evolution, they move into a planetary nebula phase, eventually leaving a white dwarf for posterity.
+
+However, the work awards go, without possibility of dissension, to stars in the third group. With masses between 8 and 100 times the solar mass, these are the stars that will one day explode. Their self-sacrifice earns them special attention and this is indeed what we have been attempting throughout, with all due respect.
+
+Apart from their productivity, another important feature is the lifetime of these stars as a function of their mass, since we are talking about the gradual metal enhancement of the Galaxy. These lifetimes should be compared with the age of the Galaxy, of the order of 10 billion years. In fact, if these stars are eventually to make a donation to the general well-being of future generations, it will often happen at the end of their own existence. Low-mass stars shine economically and only open their box of treasures at the end of a correspondingly long life. In contrast, heady and extravagant, high-mass stars exhaust themselves in maintaining their brilliance and scatter their vast opus in a dazzling explosion. As far as Type Ia supernovas are concerned, their offering is much delayed by the fact that one of the two protagonists must first transform itself into a white dwarf and that the other must then administer the lethal dose of stellar material, all of which takes precious time.
+
+By good fortune, the effects of metallicity on stellar lifetimes are rather limited, being only of the order of a few percent. In a first analysis, it is enough to apply the mass–lifetime relationship calculated for stars with solar metallicity. To sum up, high-mass stars are the main suppliers of complex isotopes. All elements from carbon to calcium are synthesised inside them by the relatively gentle and slow process of hydrostatic combustion, whilst iron and its kin, together with the r-process isotopes, are generated in the final explosion (SNII event). Exploding white dwarfs (SNIa events) add a decidedly ferrous touch to the result. Most of the carbon, nitrogen and minor isotopes of oxygen originate in intermediate-mass stars (2–8 M(cid:6)), as do the s-process isotopes.
+
+Having reviewed the courageous stellar workforce, assessing each for profitability and picking out the massive stars for their exemplary attitude, we now believe ou themselves capable of setting up a genuine stellar sociology. The aim is to extend the theme of nuclear evolution from stars as individuals to the Galaxy as a society.
+
+Picking up from the Big Bang, the story of nucleosynthesis is mainly tied up with the physics of stellar evolution and its nucleosynthesis, and by environmental factors, such as the existence of cold, dense clouds, propitious for star formation. There is no hope of understanding such processes by theory alone. The best way to comprehend the history of the chemical elements in our Galaxy, one after the other, is to look for fossils. These can be found in low-mass stars with very long lifetimes, comparable with the age of the Galaxy itself. In their outer envelopes we expect to find preserved their composition at birth. Born from the debris of the first massive stars, they are still shining in the halo and their light carries the genetic characteristics of their precursors. These stars are invaluable for the chemical genealogist, for they are relics from the ancient history of lithium, carbon, oxygen, iron, yttrium, europium, and so many others.
+
+The study of galactic evolution thus comprises two aspects. One is of an observational nature, wherein abundances are assessed in stars of various generations, by means of spectral analysis. The other is purely theoretical, involving numerical simulation of the chemical evolution of the interstellar medium in which stars are born.
+
+The first step requires highly accurate and careful observation, but also finely tuned models based on atomic physics, to extract the relative abundances of elements from stellar spectra. Even the rarest of the elements are thus revealed. The second step requires an overall view of the cycle of matter in the Galaxy, whereby intermingling clouds and stars manage their flock of atoms, identifying the factors which determine this organisation. The complexity of the problem is such that we may only describe the main lines. The authors of this great portrayal of the origin and evolution of the elements must clearly recognise the limitations of the exercise. This assumes a certain realism on their part. The problem is to harmonise an idealised model with data that are often incomplete, inaccurate and even ambiguous, in such a way as to write the universal saga of the elements, assumed to repeat itself in every galaxy. The cosmic scriptwriters propose various versions of the same tale, hoping that each will be more realistic than the others. But the conceptual framework is the same. One might say that the profusion of grapeshot makes up for a certain inaccuracy in the aim.
+
+Results Arriving at the solar abundances
+
+The first criterion for success of a theory of nucleosynthesis and galactic evolution is obviously to explain the measured abundance distribution in our own galactic neighbourhood. In other words, we compare with the abundance table discussed at the beginning of the book. It is gratifying to observe that, for the most abundant nuclei between hydrogen and zinc, this comparison gives good results.
+
+SNII events alone explain the observed solar abundance distribution between oxygen and chromium. This can be taken as a major theoretical achievement. Complementary sources of hydrogen, helium, lithium, beryllium, boron, carbon and nitrogen are required, and these have been identified. They are the Big Bang, cosmic rays and intermediate-mass stars. Around iron and a little beyond, we must invoke a contribution from type Ia supernovas (Fig. 8.5). These must be included to reproduce the evolution of iron abundances, a fact which suggests that about half the iron in the Sun comes from this type of object and the other half from SNII events.
+
+Abundances of α elements relative to iron
+
+The α/iron abundance ratios fix time-scales for processes involved in the compositional evolution of the Galaxy. For example, SNIa events resulting from the force-feeding of white dwarfs are big iron producers. It turns out that, even when pushed beyond the limit, they have longer lifetimes than SNII precursor stars, which are the main sources of oxygen, silicon, sulphur and calcium. The lapse of time separating hasty SNIa events from the first SNIIs (at least 100 million years) explains the high value of the O/Fe ratio observed in halo stars. The change in slope of the O/Fe evolution curve marks the arrival of the very first SNIa events on the stage.
+
+Even–odd effects
+
+Even nuclei, and in particular the class of α nuclei (oxygen, magnesium, silicon, calcium), are the basic products of nucleosynthesis in high-mass stars. They are abundantly present in the ashes of SNII events, where the α/iron ratio is about three times the solar value. The amounts of even elements ejected by explosion of a high-mass star are, to the first approximation, independent of the star’s initial metallicity.
+
+The same cannot be said for the odd elements nitrogen, fluorine, sodium, aluminium, phosphorus, chlorine, potassium, vanadium, manganese and cobalt. The quantities produced depend sig 显著影响初始组成，因为低金属丰度的恒星比高金属丰度的恒星更可能产生更少的奇数元素。这种趋势的根本原因在于，恒星出生时可用的大部分金属（CNO）被转化为14N，然后通过链式反应生成22Ne：CNO→14N，14N+α→18F+γ，18F→18O+e++ν（弱相互作用），18O+α→22Ne+γ。因此，恒星中的n/p比随初始CNO含量成比例增加。这得益于弱相互作用，当质子过多时，它系统地将质子转化为中子，重置N和Z之间的平衡以利于核稳定性。因此，弱相互作用构成了一种内部调节器，通过不断将偏离的原子核带回稳定谷而促进平衡。
+
+应注意，在爆发性核合成中产生的奇数元素对金属丰度的依赖性小于通过慢（流体静力）核合成形成的元素，因为n/p比在晚期阶段通过各种弱相互作用被稳定修改。换句话说，恒星深处受爆发性核合成影响区域的n/p比不再反映从星际介质继承的初始比值。至少，计算结果表明如此。然而，由于核反应在演化晚期的大质量恒星中交织方式复杂，所有这些现象的原因仍相对模糊。
+
+事实上，一旦核心氧燃烧开始，弱相互作用变得更加有效。在大质量恒星核心中，n/p比在电子俘获效应下被修改：p+e−→n+ν。中子化已经开始。核混合物中的n/p比是影响核合成的因素之一。中子丰富的混合物有利于构建富含中子的元素（见附录3）。
+
+锰是一种在晕星中代表性不足的奇数元素。然而，上述解释似乎不适用，因为钪（Z=21）和钒（Z=23）没有遵循相同趋势，钴（Z=27）也是如此。从锰的异常行为推测，它是由SNIa事件产生的，而我们观察到的是与α元素描述的现象相反的镜像现象。
+
+**重元素**
+
+出乎意料的是，在少量古老恒星中测量的r-过程元素比例与太阳显示出惊人的相似性。因此，r-过程的特征很早就出现，表明在星系演化最初阶段就存在快速高效的核合成过程。我们得出结论，自星系起源以来，负责生产钡以上r型同位素的过程以相同方式进行。因此，该过程是独特的。毫无风险地建议它与SNII事件相关。因此，我们可以定义中子照射条件和相关热力学参数，而不必建立详细机制。
+
+最初提出的吸引人的场景是高熵中微子风，但很快被证伪。无法回避的事实是，今天我们仍然无法提出一个具体的r-过程位置，以与测量丰度完全一致。也可以设想可能不止一个r-过程，而是两个在大质量恒星中运行，但在不同质量范围内。在这方面，当前天体物理学的状况因此不稳定，甚至是爆发性的！
+
+s-过程开始缓慢，因为它与渐近巨星分支恒星有关。这些恒星的最大质量为8 M☉，意味着至少2000万年的寿命。因此，观察到古老晕星中具有清晰的r-过程特征并不奇怪（图8.6）。
+
+Patrick François和Monique与François Spite在极低金属丰度恒星中检测到钍，为直接测定最古老恒星年龄以及星系年龄开辟了道路。一些最古老晕星的年龄估计为156亿年，误差范围为20亿年。这与通过遥远Ia型超新星测定的最古老球状星团年龄149±15亿年以及宇宙年龄142±17亿年一致（Arnould & Takahashi 1999）。
+
+总结一系列测量结果，晕中重元素的丰度以显著的r-过程成分和在极低金属丰度下丰度比的显著变化为特征。典型的r-过程丰度与这些古老恒星中丰度的广泛分散相结合，为恒星考古学提供了独特的信息。
+
+stellar halos provide evidence in favour of type II supernovas. The gradual reduction in scatter at higher metallicities attests to an ever-greater homogeneity of the interstellar gas as the number of supernovas increases.
+
+On the whole, the predictions of nucleosynthesis are thus borne out by observation, an undeniable success for the theory.
+
+1. The evolution of the α elements is well understood (except for the latest oxygen measurements in halo stars, which are still uncertain), assuming that iron is produced by type Ia supernovas in the galactic disk as well as by type II supernovas.
+
+The first SN II events only enrich the halo, given their precocity. Their signature is a high α/Fe ratio. These are followed by the disk phase, where the SN Ia come on the scene. The distinctive feature in this case is a very low α/Fe ratio. Adding the two produces a gradual reduction in the ratio.
+
+Thermonuclear supernovas (SN Ia) are latecomers, arriving when all star formation has ended in the galactic halo and the disk takes over.
+
+2. The light metals sodium, magnesium and aluminium are adjacent on the periodic table and have a common origin. They are found in profusion in the ashes from gentle, non-explosive combustion of carbon and neon. Production of sodium and aluminium grows as the Galaxy evolves.
+
+3. Heavy nucleus abundances in ancient stars are determined by rapid neutron capture, very probably associated with type II supernovas.
+
+Some grey areas remain, along with certain thorny problems. These are observational, as in the case of oxygen abundance measurements in halo stars, but also theoretical, concerning convection, or the cutting of the Gordian knot between neutron star and ejecta. They have deleterious effects when calculating the amount of iron produced by supernovas of various masses. Fortunately, this inability to calculate the mass of ejected iron, that is, to make the Gordian cut, is balanced by the fact that we can measure this quantity directly by analysing supernova light curves. In order to explain the strange Cr/Fe, Mn/Fe and Co/Fe ratios in the poorest halo stars (with iron contents between 10 000 and 300 times lower than the Sun), it has been suggested that the position of the cut depends on the mass of the progenitor star. Data indicating a manganese and chromium deficiency and a cobalt excess relative to iron in ancient stars can be explained by shifting the boundary between falling and ejected matter towards the interior of the star. It seems that this explanation agrees with the amount of nickel-56 ejected, as determined from the light curves of individual supernovas. This rather delicate empirical fact calls for a detailed physical explanation, but its discovery should help in perfecting explosion models.
+
+However, this is not the end of the story. Calculations carried out in a spherically symmetric context must now be extended to include clearly or subtly anisotropic effects, in order to model jets, rotation and the like. Three-dimensional numerical simulation is required. Astrophysicists should profit from considerable progress made in hydrodynamics with the development of extremely powerful lasers in France and the United States, but that is another story.
+
+These are therefore the main lines of research into galactic evolution. However, stellar archaeology is still in its early stages. In future years it will obtain a significant boost from the VLT and its high-quality spectrographic observations, to become eventually a major branch of astronomy.
+
+One cannot overemphasise the importance of accurate abundance measurements and estimates of the errors involved in them. If suitable data are unavailable, or if their quality cannot be properly assessed, it is quite impossible to draw astrophysical conclusions. In this respect, systematic observation campaigns are preferable, collecting large and uniform samples of good quality.
+
+One might seek to achieve the aims on the following list: *   to carry out a detailed study of the evolution of carbon and also nitrogen, which up to now has defied all attempts at understanding; *   to establish a reliable relationship between oxygen and iron at low metallicities in order to determine the production mechanism for light elements in the halo; *   to make a careful study of the intermediate metals sodium, magnesium and aluminium in order to test the theoretically predicted even–odd effect; *   to carry out a precise study of the iron peak, examining chromium, manganese and cobalt abundances in the low metallicity regime, so as to elucidate their origins and refine supernova models, thereby clarifying the position of the Gordian cut; *   to make joint measurements of europium and barium as a function of metallicity, as well as a whole range of heavy elements, in order to map out the gradual rise of the s process in the galactic halo.
+
+The detailed study of binary star systems with mass transfer leading to an explosive situation should be carried out in parallel, as should studies of the explosion itself. Here again, the megajoule laser will be a great boon to research.
+
+**Lithium, beryllium, boron and the controversy over oxygen and the origin of the light elements**
+
+As the halo stars tell us, oxygen was overabundant with respect to carbon and iron in the adolescent Galaxy. This has been well established for a number of stars.
+
+years now. However, debate has rekindled over the amplitude of this oxygen excess and its variations as a function of metallicity.
+
+A large increase in the O/Fe ratio in stars at low metallicity was reported by Israelian et al. in 1998 and by Boesgaard et al. in 1999, contradicting earlier data which suggested an approximately constant O/Fe ratio. Now oxygen is particularly relevant to the astrophysics of cosmic rays. This is because spallation products under collision include the light nuclei lithium, beryllium and boron.
+
+Galactic cosmic rays are essentially made up of fast-moving protons (and helium nuclei). We may therefore assume that protons fragment a small fraction of the oxygen nuclei floating in the interstellar medium, reducing them to lithium, beryllium and boron. We will call this the pO mechanism. We may also imagine that oxygen nuclei ejected directly and accelerated by supernovas could shatter upon impact with the many hydrogen nuclei in the interstellar medium, to produce once again the precious lithium, beryllium and boron nuclei. We call this the Op mechanism. Since these two mechanisms are both feasible, we need to determine their relative contributions at each stage in the development of the Galaxy.
+
+It is known that the oxygen abundance in the interstellar medium increases all the time: this nucleus is produced by type II supernovas which, one after the other, also contribute their iron production to the Galaxy (Fig. 8.7). The pO mechanism is thus likely to grow in importance as the Galaxy evolves. In other words, clues to the Op mechanism should be sought in the early phases of galactic evolution, that is, in halo stars. The fact remains that the two mechanisms induce different evolution in beryllium and boron as a function of oxygen.
+
+The Op mechanism leads to proportionality between oxygen and beryllium abundances, for example, because these two elements arise from the same source, namely, type II supernovas, oxygen directly and beryllium indirectly (via collisional disintegration of oxygen into beryllium). A constant Be/O ratio, independent of O/H, would be the hallmark of the Op mechanism.
+
+Proportionality between Be/H and the square of O/H would correspond to a pure pO process. Any intermediate situation would indicate a mixture of the two processes. The main step to take here is to establish an accurate and calibrated Be–O diagram. However, for practical reasons, actual measurements concern Fe rather than O in the relevant stars. The conversion of Fe to O is therefore the key problem.
+
+If Fe and O are proportional, as was thought until very recently, we conclude that the Op process dominates in the halo. If on the other hand there is an excess of oxygen relative to iron which becomes more marked at low metallicities, the pO process is amplified and favoured.
+
+The oxygen abundance in the interstellar medium and its evolution in the early Galaxy depend on the adopted relationship between oxygen and iron, and with it the quantity of heavy elements produced when oxygen is shattered by galactic cosmic rays. Observers still disagree on this key issue. It has become urgent to find some common ground because our explanation of the origin of the light elements in the early Galaxy depends upon their verdict.
+
+For the moment, the situation remains confused but it should soon be clarified by precise measurements of oxygen and iron in stars with very low metallicities, the kind of measurements now within reach of the VLT.
+
+Depending on whether it is the new or the old preference that wins out, that is, depending on the magnitude of the oxygen excess with respect to iron, light-element production will be imputed to the good old galactic cosmic rays, which are nothing other than accelerated interstellar matter, or else to a distinct component of these rays emanating directly from type II supernovas. The latter are grouped together in superbubbles which they hollow out in the interstellar medium. One supernova injects fresh nucleosynthesis products, including oxygen, whilst the following accelerates a certain fraction of the available oxygen nuclei up to high energies via the shock wave it generates. From this point on, these nuclei are likely to shatter on the first collision amidst the throng of hydrogen and helium nuclei that populates the interstellar medium.
+
+The gas and dust of the interstellar medium
+
+It is very useful to complement the compositional analysis of stars by a like analysis of the interstellar medium. This can be done by making use of absorption lines which the latter removes from the UV spectrum.
+
+Spectrum of hot, bright stars (Fig. 8.8). Measured abundances only concern gases lying between the source star and the observer. Matter contained in dust grains escapes detection.
+
+Comparing interstellar and solar abundances, it is found that there is a significant lack of elements with an affinity for the solid state (refractory elements), such as iron and nickel. Condensation into the solid state and the concomitant impoverishment of the gas affect different elements to varying degrees. For example, oxygen and zinc, like the rare gases, are practically immune to this effect. The fact that zinc conserves its gaseous state provides an invaluable metallicity indicator when studying remote extragalactic clouds, which are of the same nature as interstellar clouds. The key point here is that depletion in the gaseous phase affects different elements to varying degrees depending on how volatile or refractory they happen to be.
+
+Cosmological clouds
+
+Needless to say, nuclear astrophysics does not limit itself to the chemical evolution of the Milky Way, but seeks to bestow a cosmic dimension upon its quest for the origin and evolution of the elements. Ever beclouded by the earliest times, the time of the genesis, the astrophysical spirit infiltrates the turbulent youth of the galaxies, going back to the stormy days of their early childhood.
+
+But as we move back in time, the mists gather. Lacking stars, astrophysicists must satisfy their curiosity with clouds alone.
+
+The extremely luminous objects known as quasars are used here as beacons. Their light is intercepted by huge numbers of atoms distributed in clouds and astronomers can repeat their interstellar performance on a cosmic scale. The absorbing clouds are now intergalactic rather than interstellar, but the technique is the same. Absorption lines are picked out and the composition of the absorbing medium is determined by analysing their position and depth. The speed(s) of the cloud(s) and their distance(s) are deduced from the spectral shifts of their lines, according to the well known cosmological procedure.
+
+Analysis is carried out on certain types of clouds, called damped Lyman alpha systems (or DLA systems). These clouds are essentially neutral, with high column densities, of the order of 10^20 atoms per square centimetre.
+
+The interest of this method is to make accurate abundance determinations at distances (epochs) that would be inaccessible to conventional stellar and galactic astronomy. The only problem is that the absorbing systems belong to galaxies of unknown type, because the underlying structures cannot be made out. Indeed, this is attested by the disparate values obtained for abundances at a given redshift.
+
+Along the line of sight towards a quasar lie huge quantities of absorbing material, with varied composition and structure. Measured abundances concern only the gaseous component of this material. For this reason, abundances are distorted by dust, which subtracts atoms in varying amounts depending on their affinity for the solid state.
+
+However, zinc escapes incarceration in the dusts of our own Galaxy, and there is every reason to think that it will do the same in absorbing clouds along the very much longer line of sight to quasars. At least, this is the hypothesis that is usually made. On the other hand, iron is heavily afflicted by the precipitation effect. It cannot therefore be used to trace back the evolution of the galaxies and has to admit the superiority of zinc in this respect. This transfer of power is all the more eagerly accepted in that the Zn/Fe ratio is constant down to very low metallicities in halo stars of our own Galaxy.
+
+This observation nevertheless contradicts the relevant models, which suggest that the amount of iron produced by supernovas depends sensitively on metallicity. This in turn indicates that the nucleosynthesis of zinc is far from being well understood. But once again, the facts take precedence.
+
+Zinc has thus been promoted to the rank of prime evolutionary indicator for galaxies or protogalaxies associated with DLA absorbers. With its help, we aim to measure the chemical evolution of the Universe, because it leaves its signature on the spectra of the most distant objects and because it is predisposed to the gaseous state (Fig. 8.9).
+
+The evolution of metallicity as a function of redshift, and hence as a function of time, provided that we have selected our cosmological model, teaches us mainly about the evolving rate of SNII explosions, for it is in these that zinc originates. It thereby informs us of the rate at which massive stars were formi Cosmological clouds and consequently the rate at which all stars were forming, if we can assume an invariable and universal mass distribution (see Appendix 5). The evolution of abundance ratios X/Zn as a function of redshift gives us an idea of the relative rates of SN Ia and SN II events and how they evolve. Relative abundances from DLA absorbers can be used to trace back the evolution of the galaxies (or galactic haloes) that contain them over considerable spans of distance and time. One would like to compare cosmic evolution (Zn) to galactic evolution (Fe) over the same period of time. One would also like to observe in DLA systems the same overabundance of α elements noted in galactic halo stars. This would strengthen the idea that all galaxies are significantly impregnated with SN II events.
+
+It is easy to understand the lively interest in these clouds. However, for the time being, results have not lived up to expectations. It is surprising to note that zinc in DLA systems hardly evolves at all over a range of redshifts from 4 to 0.5, whereas star formation, deduced from the changing colour of the galaxies as a function of z, would indicate the opposite effect. This raises a doubt over the representative nature of DLA systems, and even suggests that there may be some selection effect in the observations. As Patrick Boissé and co-workers have demonstrated, DLA systems may contain large quantities of dust which would obscure their gaseous content and make them difficult to detect.
+
+Data show a considerable statistical scatter, much greater than the error bars attached to individual measurements. This suggests that a wide variety of galaxies of every morphological type (elliptical, spiral and irregular) is involved here, and that lines of sight may intercept a number of incongruous objects. In other words, DLA absorbers may constitute a whole zoo of different systems. Indeed, the solution to the problem may lie in a type of analysis inspired by zoology, namely, to improve the statistics of the sample, identify categories on the basis of common properties and subdivide populations. Maybe then more intelligible characteristics will be drawn out. Once again our thoughts turn to the VLT.
+
+Conclusion Modern cosmology is a physical and mathematical tale, telling of the creation of the Universe from nothing, or almost nothing, and describing its composition, structure and evolution. All the subtlety of this story lies in the word ‘almost’. A perfectly rational discourse on the origin of the Universe, taken in the absolute sense, would nevertheless appear to be impossible because in the beginning the terms ‘time’, ‘space’ and ‘energy’ are undefined. Zero time is an instant in time that does not yet exist. The quest for the origin, or rather some mirage of the origin, remains the principal driving force in cosmology. However, in order to escape from the self-contradictions of the initiating event and conceptual catastrophes it triggers, one might assign a less ambitious aim to astronomy and its related sciences. For example, one might begin simply by trying to give meaning to the words ‘Universe’, ‘matter’, ‘light’, ‘Big Bang’, ‘star’, and now ‘quintessence’. Spelling out this cosmic semantics, we arrive at the following (provisional) definitions.
+
+The Universe is what extends, proving itself through an expansive motion, which seems to accelerate without respite and without hope of return, and through its evolution, an irreversible advance towards more complex atomic structures. Its components are matter and quintessence. Matter is what has weight, gravitating and curving space. In this sense, light is matter in a neutral material form. Quintessence is a latent state of nature, being invisible and impalpable. Modern physics attributes to it an energy content and a repulsive gravitational effect.
+
+Light and matter are subject to mutual transformation. The Big Bang is the event which transformed light into matter. Stars are places where matter is transformed into light. These transformations are only partial. Heat is reconstituted in each star. Condensing and heating up the matter within them, stars are the antithesis of the Big Bang, making up for the nuclear shortcomings of the initial event, due to an over-lively dilution, by a slow concentration. They manufacture carbon and the higher elements. In the general economy of the Universe, they thereby play the role of atom suppliers and life providers, for the heavy elements, combined with primordial hydrogen, link themselves up into molecules in the cool shade of huge interstellar clouds. A tiny fraction of atomic matter goes to make human beings. Indeed, the human species carries little weight before the mighty Galaxy: the ratio of their masses is of the order of 10−31. Could it be this butterfly lightness that sends humankind rushing towards the flames of these beginnings?
+
+The geometric history of the Universe (its expansion) imposes a series of metamorphoses on matter and radiation, but not on the quintessence, which remains essentially constant. It escapes dispersion and ends up dominating over other energy forms. How is life possible in a Universe under constant threat of dilution and cooling by expansion and the quintessence that feeds it? For this, we must thank gravity. Although the mean density and temperature of the Universe can only decrease as time goes by, under the effect of the expansion of space, the local attraction of matter by matter has accomplished its constructive work of isolatin giving birth and prosperity to stars in the gaseous swirl of the galaxies. From a thermal standpoint, cosmic history can be summed up as a generalised cooling trend induced by the dilatation of space. However, here and there, in certain regions, stars concentrate and bear matter to high temperatures, as balls of incandescent material floating in a cold ocean.
+
+In this respect the Milky Way is like a nature reserve, housing a complete flora of stars, from whose petals the good seed has flown. The flesh of future humanities is there, in the debris of exploded stars. In the beginning, the Galaxy was gas without stars. In the end, it will be stars without gas. It is gently fading as gas supplies dwindle. As it does so, the element with mass number 56, iron, the hard-hearted master promised such a fine future by its noble constitution, will never surpass the ancient helium. The most perfect is not the one that reigns, at least, once we go past number 1, hydrogen.
+
+When generation after generation of stars had gone by, a modest body separated out from its parent cloud at the Galaxy’s edge and called a retinue of planets from the disk around it. On one of these, life emerged, then consciousness. Today, thinking matter is looking back upon and trying to understand its inert past, so stellar and nebulous. One day, the Sun will die, huge and red, victim of its own excesses, and all the atoms of the dead, and of the stones and flowers, will return to it. The atoms of Earth will be restored to the sky.
+
+The existence of atoms is now fully recognised. We have been able to determine their cosmic sources, the culmination of an admirable theoretical and experimental effort by atomic and nuclear physicists. But it is in its moment of triumph that the atom slips from our grasp and takes its last bow. Suddenly, the sky has been undone of its atoms and nuclei. For this is the age that cries out the cosmic insignificance of the atom, just as it was enthroned. Today, a great many cosmological studies suggest that about two-thirds of the Universe exists in the form of a negative pressure component, the quintessence, exerting a repulsive form of gravitation, whilst the other third is composed of non-atomic dark matter. In the future, statistical studies of high redshift gravitational lenses, combined with a better understanding of the cosmic background radiation and the large-scale distribution of matter, should make it possible to determine the physical characteristics of the invisible energy hidden throughout space.
+
+As the concept of the Universe has extended, astronomy has experienced a series of Copernican revolutions. In the beginning, the Universe was just the Solar System, as propounded by Aristotle and Ptolemy. It was then identified with the Galaxy, and finally, with the collection of all galaxies. Several millennia of astronomy have taken us to the following understanding: the Earth is not at the centre of the Solar System; the Sun is not at the centre of the Galaxy; the Galaxy is not at the centre of the Universe; the star is the mother of the atom; atomic matter is a mere froth upon the main matter of the Universe.
+
+The Universe has no centre. There is no privileged place to mark it out. Has the bell tolled for an anthropocentric worldview? This is not my own view (Cassé 1999). Space is lost, but time has been reinstated.
+
+We belong to the great age when matter speaks. Humankind has invented science to heal cosmic amnesia.
+
+The conspiracy between Earth and sky is much more closely engineered than the astrologers ever imagined. Their geometrical link has been replaced by a genealogical one. The star is the mother of the atom. The sky that held our destiny is no longer. We are the orphans of the sky, for we have lost our zodiac. But we have found the Universe.
+
+There, where order seemed to reign in the mechanical silence of death, a life-giving exuberance has sprung. The path that leads from the multitude of anonymous and abstract particles engendered by the Big Bang to the infinite variety of forms and states, to the moving intimacy of the things we know and love, this path has to go through the star, whilst the star must come from the cloud, the cloud from light, and light from the primordial void. This is the physical chain of the genesis, a genealogy of matter.
+
+Such was once the good fortune of the atom. There were secret bonds and nuclear wedlock, and behold! The whole history of time is thrown open for all to see. Lucretius sings once more and supernovas burst out laughing in the face of the Universe.
+
+Invisible matter and energy
+
+Glossary
+
+baryonic dark matter: dark matter made up of baryons that are not luminous enough to be observed Big Bang: initiating event in cosmology boson: particle with integral spin critical density: dividing line between an open and a closed universe dark matter: unseen and possibly invisible matter fermion: particle with half-integral spin gravitational lens: dense and massive object capable of deflecting light from more remote celestial objects, thereby multiplying and intensifying their images neutralino: hypothetical particle predicted by so-called supersymmetric particle theories non-baryonic dark matter: dark matter made up of neutrinos or neutralinos quintessence: substrate exerting a gravitational repulsion rotation curve: radial variation in the orbital speed of stars and gases around the centre of a spiral galaxy supersymmetry: an extension of elementary 粒子理论允许与常见玻色子和费米子相对应的存在。不可见物质是否存在？两个论点支持宇宙中存在某种不可见物质的观点。第一个是动力学论点，始于对引力作用下运动的观测。第二个与大爆炸核合成有关，即核宇宙学，它结合了宇宙学和核物理学。动力学证明首先观测到的是，如果我们依据光所告诉我们的，星系（以及任何星系）中的大部分物质集中在星系核球中，即恒星分布中心一个显著、变红的膨胀区域。因此，如果我们假设发光物体的质量分布代表了星系中总质量的分布，那么每个螺旋星系的行为都应该像一个巨大的太阳系，恒星和云团扮演行星的角色，而星系核球扮演太阳的角色。图A1.1显示了星系NGC 3198的轨道速度随到中心距离的变化关系。只有假设存在一个由暗物质构成的巨大晕，才能解释曲线的平坦部分。点对应观测数据。曲线显示了使用适当模型计算出的盘和晕的贡献。根据牛顿定律，绕某个中心点运行的物体的圆周速度应随着到该点距离的增加而减小。然而，在像我们银河系这样的盘状星系中，观测到，超出中心一定距离后，组成恒星和气体的圆周速度大致独立于轨道半径。银河系外围区域的恒星绕共同中心旋转的速度太快，如果没有某种不可见物质的存在，就无法维持引力定律的约束。设r为轨道半径，m为测试物体的质量，M(r)为半径r内星系部分的质量。描述引力和离心力之间平衡的方程为：GmM/r² = mv²/r，其中M被处理为r的函数。我们可以通过在上述方程中令v(r)为常数来解释上述现象。由此可得M必须与r成正比。这意味着质量并非局限于星系核球，而是以均匀的方式分布在一个远远超出星系盘发光区域的球体中。因此，一个巨大的不可见物质晕必然包裹着银河系和大多数其他螺旋星系。因此假设，星系外围的（旋转）加速是由于一个巨大的不可见物质晕的存在。在我们的银河系中，暗物质的量必须是可见物质的十倍，总计约1000亿个太阳质量。我们可以推断所有螺旋星系都是如此，即它们拥有的晕的质量大约是其可见盘的十倍。在一瞬间的黑暗幻想中，我们可能会想象银河系的晕中布满了阴郁、巨大而致密的物体，黑星和墨色的云团。这正是激发天文学家好奇心的东西。有些人甚至已经构想出一个巨大的天体墓地，恒星残骸和夭折的恒星逐渐积累。然而，根据最新估计，我们星系暗晕中能用重子物质（低光度恒星和无光、致密、大质量天体）解释的部分不能超过20%。这些估计基于此类物体对来自麦哲伦云星光的影响。得出的结论是，我们星系的晕，以及可能同类型的其他螺旋星系的晕，并非主要由普通原子物质构成。从星系转向更大尺度结构，天文学家使用X射线灵敏望远镜探测到星系团中的热雾。德国卫星ROSAT的最新观测表明，这些气体的质量实际上超过了星系团中所有星系的质量总和。此外，气体的分布可用于推断星系团的总质量。除以体积，即可估计出密度。研究发现，星系团密度约为临界密度的20%。这些基于简单几何假设的计算，考虑到星系团结构和内部动力学的复杂性，可能低估了星系团的质量。总结动力学论点，望远镜揭示了宇宙在各个尺度上的结构和运动。行星、恒星、星系和星系团像中国套娃一样彼此嵌套。但这时暗物质的需求突然出现。如果没有它，我们星系边缘的恒星会飞走，星系团中的星系群会像鸟儿一样四散飞逃。宇宙学密度临界密度临界密度传统上定义为在最简单的模型（即没有宇宙学常数或精质）中区分封闭（有限）宇宙和开放（无限）宇宙的密度。它对应于总能量为零的宇宙，其中膨胀引起的动能正好被引力势能平衡。临界密度的值为10⁻²⁹ g/cm³，与一块铁相比微不足道！标准宇宙学模型预测了我们的宇宙有三种可能的未来：1. 如果引力引起的恢复力不足以阻止膨胀，宇宙将持续无限期膨胀。
+
+The density of matter is too small to brake and reverse the general expanding motion. The Universe is said to be open.
+
+2. A global contraction following the current expansion phase, ending in a gigantic collapse if the density of matter is great enough to overcome the general expansion. The Universe is said to be closed.
+
+3. An expansion which slows down forever if the density of matter is just right to exactly balance the general expanding motion. This density is the critical density, of the order of one proton per 10 cubic metres.
+
+Luminous matter density Systematic analysis of the light from galaxies in a given volume measuring several million light-years in size allows us to specify the present luminosity of the Universe per unit volume. Given the mean colour of the observed sample, a certain mass can be attributed to it by comparison with known stellar populations. For example, a population of solar-type stars emits 2 erg g⁻¹ every second, since the luminosity of the Sun is 4×10³³ erg s⁻¹ and its mass is 2×10³³ g. From the light collected, we may deduce the light emitted and this in turn allows us to estimate the quantity of radiating matter.
+
+Invisible lenses Although there can be no doubt about the existence of dark matter, its nature remains to be determined. On the scale of spiral galaxies, the existence of dark matter is inferred by measuring the variation in speed of gas and stars with distance from the galactic centres. On a larger scale, one of the most powerful methods for revealing dark matter is gravitational optics. This seeks out accumulations of matter acting as lenses.
+
+Whole teams of astronomers devote their time to detecting weak lensing or microlensing, that is, the weak focussing effects of massive objects on light. These objects thus serve as gravitational lenses, producing slight distortions in the images of more remote galaxies. It seems that this technique may provide a better window on the invisible matter that astronomers and astrophysicists now consider to be the major component of the Universe (apart perhaps from dark energy). This dark matter is now taken in its immense cosmic dimension.
+
+A French team led by Yannick Mellier and Bernard Fort at the Paris Institute for Astrophysics has used the CFHT (Canada–France–Hawaii Telescope) to identify the colossal superstructure of dark matter along which the galaxies are strung out. The details of this unseeable architecture, its inflections, its reticulations and its fluctuations, conceal invaluable information about the early childhood of the Universe and the growth of its invisible skeleton.
+
+In order to reveal the hidden weave of the cosmos, astronomers have been studying the light emanating from galaxies several billion light-years away. They show up as pale features on the sky. Gravitational effects due to dark matter interposed between them deform their image, slightly flattening their elliptical shape. Neighbouring ellipses point in the same direction, thereby designating the cause of their deformation.
+
+However, these gravitational effects are very slight indeed, and astronomers must eliminate any interference due to imperfections in instrumental optics or atmospheric turbulence.
+
+These measurements are able to breach the otherwise taciturn behaviour of dark matter. Although it refuses to shine, it cannot disguise its gravitational discourse. Astronomers welcome this news with open arms, optimistic that they may succeed in mapping out its contours and determining its weight. In fact, for gravitational astronomy, as for particle physics, to see is to illuminate and analyse the deflection of the illuminating beam, for it is this deflection which teaches us about the intimate nature of the screen or target.
+
+In coming years, gravitational optics will undoubtedly become an effective method for drawing up a large-scale survey of dark matter in the Universe.
+
+Quantitatively speaking, the density of nuclear matter in the Universe is estimated to be between 2% and 5% of the critical density as defined above. The density of visible matter, or more precisely, luminous matter, barely reaches 0.5%. What has happened to the difference? It lies in baryonic dark matter. Let us begin by sweeping our own doorstep, so to speak. The problem of nucleonic dark matter is the main motivation for research into gravitational microlensing in the halo of our own Galaxy, as we shall now discuss.
+
+Note that the baryonic density of 2% to 5% is of the same order of magnitude as the galactic density indicated by rotation curves (viz. 5%). It is thus perfectly reasonable to suggest that a large part of galactic matter is located in compact massive objects (CMOs) assumed to swarm around the bright galactic disk. Will these compact massive objects remain forever hidden?
+
+The renowned Polish astronomer Paczynski had the brilliant idea of using gravitational optics to track them down. The plan was to search for gravitational deflection of light from stars in the Magellanic Clouds, nearby galaxies within the gravitational sphere of influence of our own Galaxy.
+
+The invisible deflector plays the role of the optician’s glass lens. This is why the term ‘lens’ was borrowed and combined with the qualifier ‘gravitational’ to explain the mechanism, that is, to explain exactly what it is that deflects light in this case. The phenomenon involves three protagonists: the observer O, the source S, and the lens L.
+
+lensing body and the source stars. Provided that the lensing body is located at less than one thousandth of a second of arc (0.001 arcsec) from the line of sight of the source star, light rays will be able to reach O by two different paths (Fig. A1.2). Two images are thus superposed, making the source appear brighter than it really is. It is possible to measure this fleeting amplification, which requires close alignment of the three protagonists.
+
+Gravitational (micro)lensing is now recognised as a way of revealing otherwise hidden matter. It is universally used to estimate the distribution and quantity of dark matter on a variety of distance scales. The study of dark matter in the halo of our own Galaxy is not the least significant amongst these.
+
+Compact and dark objects in the galactic halo are expected to produce temporal variations in the apparent brightness of stars located behind them in the Magellanic Clouds. This occurs due to the focusing of light rays and the relative motions of the observer, lensing body and source. The changing intensity of (unresolved) images caused by the relative motion of the source, lens and observer can be measured. The duration of amplification is a measure of the mass of the lensing body.
+
+If the dark matter in the galactic halo is made of objects with approximately the same mass as the Sun, i.e. Jupiter-sized planets, brown and white dwarfs, neutron stars and black holes, then the passage of such an object across the line of sight to a background star will result in a transient change in its brightness. Relativists will tell you that this fleeting amplification in the apparent brightness of a star when it is almost occulted by a compact massive object is due to a distortion of space–time itself. It is therefore independent of the wavelength of the light, that is, achromatic (not modified by colour changes), and symmetric in its temporal variation. This means that it can be distinguished from the myriad other light fluctuations due to real luminosity changes in certain types of star.
+
+The brightnesses of millions of stars in the Magellanic Clouds have been subjected to close scrutiny. The challenge here is that positive events are extremely improbable. At any given time, only one in every 10 million stars of the Magellanic Clouds is likely to show signs of gravitational amplification.
+
+After eight years spent scouring these two small galaxies, the rewards are slight. Not even a dozen favourable cases have been retained and some of these are contested. This suggests that compact massive objects cannot solve the problem of dark nuclear matter in our Galaxy, or indeed in any galaxy. Can anything be concluded from the few positive sightings? What is the characteristic mass of these objects, given that amplifications last longer for more massive lensing bodies?
+
+To everyone’s surprise, no event lasting less than two weeks has ever been observed. The mean mass inferred is half the solar mass, which rules out brown and red dwarfs but favours white dwarfs. However, too many of these remnants from intermediate-mass stars (1–8 M☉ at birth) would contradict the traditional tenets of astrophysics. Indeed, it would imply a frenzied spate of nucleosynthesis during the formation of the galactic halo. The nature of the compact massive objects thus remains a mystery.
+
+Finally, is it possible to determine the mass fraction of the halo that can be put down to nuclear matter, that is, to matter made up of quarks, since that was our original aim? Arguing from the above observations, this fraction could not exceed 20%, according to the latest estimates by American astrophysicists. This estimate does not disagree with the most cautious reckonings in France.
+
+Consequently, we are forced to admit that compact massive objects are not the main component of the dark halo of our Galaxy, or any of its kind. This in turn implies that the Sun and stars are lost amongst a halo of darkness, in the middle of a haze of neutralinos, hypothetical particles predicted by so-called supersymmetric particle theories.
+
+Nuclear proof
+
+In recent times, several cosmological models have flourished, including one of great renown, known as the Big Bang theory. This is a simple theory with considerable predictive power. The Big Bang is the exceptionally hot and dense state considered to initiate cosmology as we know it today. It explains why stars are invariably made of hydrogen and helium, with only a trace of any heavier elements. Indeed the latter are virtually non-existent in the oldest stars and represent between 2% and 3% of the mass of the youngest stars. The helium content of stars is around 25% by mass and results from a chain of phenomena which took place during the first few minutes of the Universe’s long story.
+
+This chain of events involved the so-called weak interaction, a puny and slow force compared with the strong and electromagnetic interactions. The weak interaction governs the conversion of protons into neutrons and vice versa, with creation of a neutrino (antineutrino). It thus determines the lifetime of free neutrons, which naturally decay into protons. In fact, neutrons have a life expectancy of around 10 minutes. However, before they disappear, they may have the opportunity to combine with protons, one which they readily accept. In that case, nuclear physics makes its appearance in the Universe.
+
+At this stage, a remark seems appropriate. If the neutron had precisely the same mass as the proton, it would be stable. We may conclude that the quantity of helium produced during the Big Bang is determined by at least two main facts:
+
+• the inherent instability of the neutron, whose numbers decrease by a factor of two every 10 minutes or so;
+
+the relative lethargy of the weak interaction, which also explains the long life of the Sun.
+
+The early Universe can be reasonably described as a dilute gas of particles and radiation in thermal equilibrium, uniquely characterised by its instantaneous density and temperature. The expansion of space causes further dilution and cooling of this gas. The founding phase takes up only a second and yet during this time, the stable components of the material Universe have already emerged, that is, protons, neutrons, electrons and photons. So too have the four distinct forces that will govern them thereafter.
+
+After just one minute, a rush of nuclear reactions takes place, leaving light nuclei amongst its ashes. These include deuterium, helium-3, helium-4 and lithium-7. The amounts of each of the light elements formed during the Big Bang depend crucially on the nuclear density of the Universe, i.e. on the mean number of protons and neutrons per cubic centimetre. This is because light nuclei are created by nuclear reactions, in which dark matter can play no possible role.
+
+By comparing calculated values with the actual content of these various elements in the oldest astronomical objects, we deduce that the density of nuclear matter cannot exceed 5% of the critical density. Now it so happens that the best cosmological theory to date, the theory of cosmological inflation, predicts that the Universe has exactly the critical density. This conclusion is supported by recent observations of remote supernovas and the relic background radiation.
+
+No light is older than the cosmic background, which dates from the time when the Universe first became transparent to light. Tiny variations in temperature have been detected by the COBE satellite and now also by two balloon-borne experiments in the stratosphere, MAXIMA (Millimeter Anisotropy Experiment Imaging Array) and BOOMERANG (Balloon Observations of Millimeter Extragalactic Radiation and Geophysics). Such variations indicate a very slight granularity in the youthful Universe. Cold patches correspond to regions with slightly higher density than the rest. Indeed, such patches shift light towards the red by gravitational effects, making them appear slightly colder. The corresponding regions serve as seeds where future galaxies can condense out. Warmer patches for their part are destined to become immense voids.
+
+The angular diameter of the observed patches is about 1°. Their (real) linear diameter can be estimated as ct, where c is the speed of light and t = 300 000 years is the time when the Universe became transparent. An angular diameter of 1° measured 14 billion years later means that the light rays remained parallel over the whole path and hence that the Universe is globally Euclidean.
+
+It is therefore a Euclidean universe which lies at the meeting point between data from remote supernova studies and observations of the cosmic background radiation. Such a universe contains just enough matter and energy to keep the geometry Euclidean. In fact the Euclidean cosmology fits our Universe like a glove.
+
+Nuclear cosmology: primordial nucleosynthesis
+
+The theoretical edifice of the Big Bang theory rests upon three observations:
+
+the uniform distribution of matter on large scales and the isotropic expansion that preserves it;
+
+the existence of the almost uniform and exactly thermal background known as the cosmic microwave background;
+
+the abundances relative to hydrogen of the light elements deuterium, helium-3, helium-4 and lithium-7.
+
+The recession of the galaxies attests to the general idea that the Universe is expanding. The cosmological background provides indisputable evidence of a hot, dense beginning. Finally, the existence of the lighter atoms in the measured proportions is witness to very early nuclear synthesis.
+
+Primordial nucleosynthesis really puts the Big Bang cosmology to the test. One might call it a baptism of fire. From these brief but brilliant and fertile beginnings arose a series of light nuclei that are today found everywhere in nature: above all hydrogen, followed by helium, which between them amount to 98% of the total mass of atomic matter in the Universe.
+
+The basic parameters of this problem are the lifetime of the neutron (887 seconds) and the number of neutrino species (three), both given by modern microphysics. At the time which interests us here, i.e. t = 1 s, the energy density of electromagnetic radiation was greater than that of matter. This is therefore referred to as the radiation era.
+
+As the weak interaction is the slowest of all, it was the first to find itself unable to keep up with the rapid expansion of the Universe. The neutrinos it produces, which serve as an indicator of the weak interaction, were the first to experience decoupling, the particle equivalent of social exclusion. By the first second, expansion-cooled neutrinos ceased to interact with other matter in the form of protons and neutrons. This left the latter free to organise themselves into nuclei. Indeed, fertile reactions soon got underway between protons and neutrons. However, the instability of species with atomic masses between 5 and 8 quickly put paid to this first attempt at nuclear architecture. The two species of nucleon, protons and neutrons, were distributed over a narrow range of nuclei from hydrogen to lithium-7, but in a quite unequal way.
+
+Invisible matter and energy
+
+The crucial species in primordial nucleosynthesis of the light elements is helium. There are two reasons:
+
+it has an extremely stable nucleus and many nuclear reactions lead to it, short-circuiting neighbouring nuclei;
+
+it has exceptio naturally unstable progeny (nuclei with masses between 5 and 8), so that the production line breaks down at mass 7.
+
+It is only much later that the stars pick up the task of nuclear complexification, favouring triple mergers of the type 4He→12C, something which the Big Bang was quite incapable of putting into practice due to the rapid dilution effect occurring at the time.
+
+A proton and a neutron together make a nucleus of deuterium, an unavoidable step in the chain of nuclear reactions. At the beginning, this fragile nucleus would have been bathed in an ocean of high-energy photons. These photons would immediately have dissociated it, before it could find another proton with which to join up and form less fragile species made up of three nucleons, like tritium 3H and helium-3. However, the temperature was falling. At some point, when the temperature had fallen to 1 billion K, deuterium nuclei would suddenly be able to resist the much less aggressive photons circulating at these temperatures. Constructive relations could then be established with other particles in the primordial soup. Having thus escaped from the tyranny of the photons, it would have given itself over to the nuclear construction project, burning almost completely away to produce helium-3, helium-4 and a dash of lithium-7.
+
+For a given neutron, the probability of taking part in a nuclear combination is proportional to the proton density. High densities favour marriage, whilst low densities lead inescapably to death.
+
+It is easy to see why the results of primordial nucleosynthesis, and in particular the final abundance of deuterium, should be so sensitive to the nucleonic density of the Universe. For this reason, deuterium, made up of one proton and one neutron, can be considered as an excellent cosmic densitometer. The disparate abundances for their part are related to specific nuclear properties of the isotopes under consideration.
+
+Quantitative predictions of the theory concerning naturally occurring proportions of nuclei with masses 1, 2, 3, 4 and 7 can then be compared with the actual proportions measured in the oldest and most distant astronomical objects (stars and gas clouds) (Fig. A1.3). Agreement between prediction and observation is found by fitting the only free parameter of the theory, that is, the nucleonic density of the Universe today (which is easily related to its counterpart at the time of the Big Bang). In fact, agreement is obtained if and only if the value obtained here is between 1 and 3×10−31 g cm−3. This is indeed an astonishingly accurate value when we consider that it refers to an event occurring some 15 billion years ago! It thus transpires that the baryons contribute at most 5% of the critical density.
+
+A single parameter, the nucleonic density, is thus sufficient to explain the proportions of the light elements in the Universe, from helium at 10% of the number of hydrogen atoms to lithium at one ten-thousandth. However, the number of neutrino species must be at most three in order to avoid an overproduction of helium-4. Since each neutrino belongs to a single particle family, the number of particle families in the Universe must also be exactly three. (The first family contains the up and down quarks, denoted u and d, the electron and the electron neutrino. The second contains the strange and charmed quarks, denoted s and c, the muon and the muon neutrino. The third contains the bottom and top quarks, denoted b and t, the tauon and the tauon neutrino. The material world as we know it is made up exclusively of the first particle family.)
+
+Fig. A1.3. Comparison between observed abundances and abundances predicted by the theory of primordial nucleosynthesis. The horizontal axis shows the ratio η between the number of baryons and the number of photons. The vertical axis shows the mass fraction of helium and the numerical ratios D/H, 3He/H and 7Li/H. Observational data are represented by boxes with height equal to the error bar. In the case of helium and lithium, there are two boxes, indicating the divergence between different observers. Deuterium holds the key to the mystery, but it is difficult to measure. The region of agreement is shown as a shaded vertical ribbon (after Burles & Tytler 1997). A higher level of deuterium would lead to a lower baryonic density, of the order of 2%. This would agree better with the lithium data, which have been remarkably finely established. This idea is supported by E. Vangioni-Flam and shared by myself. (From Tytler 1997.)
+
+Dark matter
+
+A whole series of conclusions follow from comparison between the density of nuclear matter and other densities determined by theory (T) or observation (O). These can be summarised in the following way: - the critical density (T), i.e. that density which is just sufficient to slow down the expansion of the Universe and bring it to a halt after an infinite time, at least if the cosmological constant is zero; - the density of luminous matter (O); - the density of gravitating matter (O+T) as determined by studying the dynamics of clusters of galaxies; - the cosmic density (O+T), i.e. the total matter and energy density of the Universe in all existing forms, equal to the critical density if we are to believe the cosmological inflation model which currently holds sway, and data relating to distant supernovas and the cosmic microwave background.
+
+An inventory of the Universe Critical density = 10−29 g cm−3 density of luminous matter / critical density Ω = 0.005% 密度 of gravitating matter / critical density = 10–30% 密度 of nuclear matter / critical density = 2–5% 宇宙的总密度 / critical density = 1.
+
+请注意，核物质的密度大于发光物质的密度，但小于引力活跃物质的密度。同时还要注意，它远小于临界密度。因此，我们可以推断出暗核物质和暗（甚至是不可见）非核物质的存在。
+
+让我们更详细地考察这种情况。很明显，星系团中的物质密度显著高于从原初核合成推导出的核物质密度（临界密度的2–5%）。如果假设这些结构代表了整个宇宙，那么为了弥补这一差距，我们不得不诉诸于大爆炸遗留下来的奇特基本粒子云。宇宙的命运便掌握在性质未知但并非不可知的非核物质（例如，中性伴子）手中。
+
+此外，如果我们假设物质和能量的总密度等于临界密度——基于与宇宙暴胀理论相关的理论和美学原因（Cassé 1993）——我们将被迫得出存在另一种形式的物质的结论。换言之，除了前面提到的、最多只贡献了临界密度30%的暗物质之外，还存在另一种与前者同样“透明”的物质形式，它大约构成了宇宙的70%。这一结论似乎得到了遥远超新星观测的证实，这些观测表明宇宙的膨胀实际上正在加速，而这与一直预期的减速膨胀相反。这种加速归因于某种物质（能量）基底的特性，它产生了一种排斥性的引力效应。然而，相关观测还太新，不能被视为确凿的证据。让我们将这种新形式的物质称为五重奏，以向古代哲学家致敬。在我们等待进一步证实的同时，只需注意到：所有发光的都是物质，但并非所有物质都发光，并且存在某种反引力物质。
+
+宇宙可以按如下方式划分： 宇宙 = 五重奏 + 物质， 物质 = 非核物质 + 核物质， 核物质 = 暗核物质 + 发光核物质。
+
+每行等式右侧的第一项是主导形式。各项之间的大致比例如下： Q/M = 2.3， NNM/NM = 10 到 30， DNM/LNM = 5。
+
+五重奏的摘要暴胀理论试图将大爆炸理论尽可能推回至零时刻。其主要假设是在第一秒的几分之一内存在一个超快速膨胀时期。这种空间膨胀由负压引发。随着压力符号的改变，世界被彻底颠覆！
+
+这一暴胀过程导致了宇宙在其历史伊始的指数级膨胀，旨在解释宇宙的欧几里得性质以及宇宙背景辐射的显著均匀性（Cassé 1993; Reeves 1996）。该理论假设在宇宙初始存在一个具有负压的基底。它完成其爆炸性使命后便消失，让位于光和物质。
+
+根据假设存在某种具有排斥性引力（反引力）物质形式的理论，宇宙除了拥有产生减速效应的、具有吸引力引力的物质（发光物质和暗物质）外，还拥有一个“加速器”（一种反引力物质）。五重奏将是这种原始排斥性物质的残留物，并且会保留其属性。
+
+直到最近，人们还认为宇宙的历史仅仅是膨胀与引力相对抗的过程。的确，引力对这种膨胀产生减速效应，扮演着恢复力的角色。与此形成鲜明对比的是，五重奏的作用是将空间在大尺度上赋予一种排斥属性，从而加速膨胀。其结果是，今天测得的膨胀速率将大于过去的速率。宇宙的年龄因此会增加。
+
+这些说法有任何切实的证据吗？有些人会给出肯定的回答。其中包括劳伦斯伯克利实验室的索尔·珀尔马特，他领导着超新星宇宙学项目，以及布莱恩·施密特，他是斯特罗姆洛山和赛丁泉天文台（澳大利亚）的成员，并且是高红移超新星搜索团队的导师。他们共同关注的是有史以来观测到的最遥远的Ia型超新星。
+
+正如我们已经看到的，Ia型超新星发生在包含一颗白矮星的紧密双星系统中。后者从其更庞大的伴星上撕扯物质，使自身不断膨胀，直到超过某个临界质量。随后，整个恒星在巨大的核爆燃中被摧毁。Ia型事件的主要特征是高光度和特性上的极端规律性。因此，它们被用作“标准烛光”，标记出宇宙的浩瀚空间。
+
+爆炸机制仍然有些神秘，如前所述，但其前身恒星的性质似乎已得到明确确定。罪魁祸首是贪婪的白矮星，它们吞噬了伴星的一部分后，质量超过了1.4个太阳质量的临界值——超过此值白矮星便无法存续。高密度下的碳聚变随即呈现出爆炸性的转折。
+
+Nuclear energy released, some 2×10^51 erg, easily exceeds the 10^50 erg gravitational binding energy of the white dwarf, which promptly evaporates in the explosion. The neutrino flux emitted in such events is quite insignificant.
+
+The deceased departs in light, with no flower, nor crown, nor neutrinos, nor neutron star. And what a light it is! A single Type Ia supernova shines for a few days as brightly as a billion suns, in other words, as brightly as a small galaxy. Nuclear incineration of carbon and oxygen produces a considerable mass of nickel-56 which transmutes into iron-56, releasing gamma rays at a precise energy, i.e. nuclear gamma lines. This radioactivity is the energy supply of the supernova.
+
+These small, sturdy, carbon-and-oxygen-bearing white dwarfs deliver a clear message by their explosion. They can be picked out from the crowd by their extreme luminosity, and their highly specific spectra and light curves. The huge potential of Type Ia supernova events has been known for some time, but it was only during the 1990s that supernova research itself exploded upon the world.
+
+Following one of the biggest inquiries ever held in modern astronomy, it transpires that their apparent luminosity is slightly less than would be found if space were Euclidean and expansion were merely slowed down by the gravitational effects of matter. In fact, the expansion is more vivacious than was previously thought. This means that distances to remote objects are slightly distended, so that the supernovas appear less luminous than expected.
+
+This investigation, involving the most up-to-date instruments such as the Hubble Space Telescope, led to the following conclusion: the data disagrees strongly with the hypothesis that the Universe is flat and contains no quintessence, thus ruling out one of the most favoured cosmological models.
+
+Accepting this result amounts to saying that the expansion of the Universe has been speeding up for several billion years. This may seem surprising, since all matter, including dark matter, always works to slow down such a movement. It would thus seem that the Universe has begun another inflationary phase! If this were the case, the history of the Universe could be divided into four reigns, with transfer of power between the first quintessence, radiation, matter, and finally, the second quintessence. Expansion would be alternatively gentle and violent and the era of the second quintessence irreversible. This conclusion destroys any hope of eternal return on the cosmic scene. However, it only applies if we can assume that past supernovas were exactly like today’s, that is, those observed in nearby galactic suburbs. This assumption has raised some suspicion amongst specialists in stellar evolution.
+
+On the other hand, we must somehow close the Universe, or more precisely, find some way of giving it the critical density, since this is what inflation demands. Indeed, it is required not only by inflationary theory, but also by close scrutiny of the leopard-skin pattern that constitutes the microwave background, radiative relic from the Big Bang. We may thus conclude that, even if the American and Australian results are contested, they do bring out a basic truth, although maybe purely by chance. More and more scientists now assume that the quintessence accelerates expansion of the Universe and accounts for 70% of the world’s balance sheet.
+
+The question will certainly be decided in 2007 when the PLANCK satellite is launched. This showpiece of French and European astrophysics is destined to carry out an extremely refined inventory of the Universe, determining the contribution from nuclear matter, dark matter and quintessence. It will do this by studying once again the cloak of light cast over the Big Bang, the cosmological background radiation, but this time peering within its very finest folds (Lachièze-Rey & Gunzik 1995; Silk 1997).
+
+The contents of the Universe as estimated by dynamical or nuclear criteria are not sufficient to reach the critical density, as required by inflation. And no more need be said about the worthiness of the inflationary theory. The quantity of luminous matter assembled within the galaxies is less than the total quantity of nuclear matter as deduced from cosmological arguments. Where is the difference between luminous and universal matter? In the invisible, of course. But this is the worst of all invisibilities. For it is not due to the limitations of the retina, but rather to the mute inarticulacy of certain substrates which resolutely refuse to shine. The great majority of matter and energy is dark, atonal with respect to the registers of light.
+
+The insufficient density of ordinary matter (i.e. yours, mine and the matter in stars) implies that there must be matter which is not nuclear, literally extraordinary matter which is not made up of atoms. The sky thus distances itself from the purely atomic and nuclear paradigm. So speaks the dark side of space.
+
+Supernovas and cosmology
+
+Glossary
+
+Hubble redshift–magnitude diagram: an important cosmological tool expressing the rate of expansion of the Universe in the past.
+
+light curve: changing luminosity of a celestial object as a function of time.
+
+magnitude: measure of the brightness of celestial bodies. A difference in luminosity by a factor of 100 corresponds to a difference of five magnitudes. The magnitude decreases as the brightness of the object increases. The apparent magnitude of an object characterises its brightness as seen from Earth. Its absolute (intrinsic) magnitude is the magnitude it would have if it were placed at a standard distance of 10 parsecs from Earth. The absolute magnitude allows for an objective comparison of the luminosity of different stars and galaxies.
+
+Properties of supernovas At first glance, the spectral properties, absolute magnitudes (intrinsic luminosities) and shapes of the light curves of the majority of type Ia supernovas (SNIa) are remarkably similar. Only a few rather subtle photometric and spectrometric differences can be discerned from one object to another.
+
+Hydrogen shines by its absence and the optical spectra of SNIa events feature spectral lines of neutral and once ionised elements (Ca+, Mg+, S+ and O+) at the minimum of the light curve. This indicates that the outer layers are composed of intermediate mass elements. SNIa events reach their maximum luminosity after about 20 days. This luminous peak is followed by a sharp drop amounting to three magnitudes per month. Later the light curve falls exponentially at the rate of one magnitude per month.
+
+The exploding stars discussed here are of a much more modest character than gravitational collapse supernovas, which arise when the core of a gigantic star gives way. However, they eject matter at very high speeds, up to 10000 km s−1, and release a comparable amount of energy, some 1051 erg. They are genuine nuclear bombs, unlike the gravitational-collapse supernovas (SNII), which draw their energy from gravity. (Supernovas are classified under the headings SNIa, SNIb, SNIc and SNII. Those carrying the letters b and c should actually be grouped together with SNII in the gravitational-collapse category. The only point they have in common with SNIa is the absence of hydrogen features in the spectrum. However, this absence is explained by the fact that their envelope has evaporated or been torn off by a close companion.)
+
+The most striking feature of the SNIa events is thus that they all look remarkably alike, a characteristic not shared by other supernova categories. Their spectral evolution repeats itself from one such event to the next. Apart from a few black sheep, SNIa light curves show an impressive uniformity. The scatter in absolute magnitude values is about 0.2 magnitudes over the whole sample so far observed, well below the magnitude variation shown by supernovas of other types. This is why SNIa events are considered to be a good standard candle which may be used to calibrate absolute luminosities on a cosmological scale.
+
+The important datum for cosmology is precisely the luminosity at the peak of the light curve. It is crucial to be able to establish this maximum value in order to use the SNIa event as a distance indicator. Correctly calibrated and reproducible light curves from type Ia supernovas have become a major tool for determining the local expansion rate and geometrical structure of the Universe (Fig. A2.1). A great deal of effort has been put into producing adequate models of these events over the past few years.
+
+Through a well-established tradition, relatively close SNIa events (z < 0.1) have been used to measure the current local value of the Hubble parameter. Supernova-based cosmology has seen a recent upturn in activity. The local expansion rate is something like 60 km s−1 per megaparsec, which corresponds to 18 km s−1 per million light-years. Systematic research using wide-field images taken at intervals of three to four weeks have allowed two independent groups, the Supernova Cosmology Project and the High-z Supernova Search Team, to identify more than 50 SNIa events at intermediate redshifts. The Hubble redshift–magnitude diagram has been extended out to z=1.
+
+Today, a certain level of diversity has been discovered in SNIa events. Before they can be used as cosmological distance standards, it must be checked that their maximal luminosity has an appropriate value. Otherwise ad hoc corrections must be brought to bear to homogenise the values. To this end, any systematic difference from the norm is sought out and deviants excluded. Here again, theory is called in to distinguish pathological behaviour from a perfectly normal scatter about the average.
+
+Many connections have been found between the luminosity peak, the shape of the light curve, evolution in the colour, spectral appearance, and membership of a galaxy of given morphology. However, after the first 150 days, uniformity takes over and all these objects fade in the same way and with the same spectrum.
+
+Roughly speaking, SNIa events can differ in their explosive power. It is observed that supernovas with the least violent explosion are less bright and redder in colour. Furthermore, they fade more quickly and eject matter more slowly than the violent explosions. The relationship between the width of the light curve (its duration) about the maximum and the peak brightness is the most significant of these correlations. It has been used to calibrate the peak brightness of a range of different SNIa events and to substantially reduce the scatter in absolute brightness.
+
+This correction plays a key role in any cosmological application. Without it, SNIa events could not be used as distance indicators. However, its purely empirical nature remains unsatisfactory to demanding theoretical minds. We would like to be able to explain physically why some explosions are weaker than others, and what effect this has on the appearance of the object. This involves building detailed models.
+
+models of these explosions and the way radiation is transferred through the expanding envelope, similar to those made to describe atomic bombs or spheres struck by laser beams, which implode before exploding.
+
+Observed empirical correlations, such as the one relating the width of the light curve to its peak brightness, are thus used to bring the images of these supernovas into line, making them all look alike. An archetypal or standard type Ia supernova is thereby defined. But this systematic correction, however shrewd and useful it may be, will never totally satisfy the astrophysicist, always seeking out a finer understanding of these phenomena.
+
+For theoreticians, such developments provide an opportunity to refine and test their more subtle inventions and to explain apparent correlations. I am quite sure they will seize this particular opportunity, given the extravagant amount of data already accumulated, to choose amongst a crowd of competing models the one which best accounts for reality.
+
+Let us now turn our attention to the relationship between stellar physics (extended to supernovas) and observational cosmology. Edwin Hubble is remembered for the discovery that the Universe is expanding. Less well known is the redshift–magnitude plot that carries his name. Magnitude is a measure of the apparent brightness of celestial objects, and redshift is a measure of their recession speed and hence their distance.
+
+The redshift–magnitude or z–m diagram (Fig. A2.2) has become a standard tool in cosmology because it can be used to determine past variations in the expansion rate, through what is usually called the deceleration parameter. Any acceleration or slowdown of the expansion can thus be brought to light.
+
+The analysis is based upon 42 SNIa events with redshifts between 0.18 and 0.83, combined with 18 nearby SNIa events with z < 0.1. These were discovered in the context of a systematic investigation, the Calan/Tololo Supernova Study. The distances of those supernovas with the highest redshift are on average 10–15% greater than would be obtained in the case of a low-density universe (Ω = 0.2) with no quintessence.
+
+The cosmological parameters Ω and Ω_Λ can be determined from the Hubble diagram, provided that we have some well-calibrated cosmological standard candle that can be observed across a wide range of redshifts. This is precisely the approach adopted by Riess et al. (1998) and Perlmutter et al. (1999) when they used the type Ia supernovas. Pilar Ruiz-Lapuente at the University of Barcelona and Renald Pain at the University of Paris both made contributions to this exemplary cosmological programme.
+
+A distance measured known as the luminosity distance is relevant here. In a spatially flat space–time, it is given by the formula
+
+d_L(z) = c ∫_0^z (1+z')² / √(Ω(1+z')³ + Ω_Λ) dz'.
+
+The distance, and hence the apparent magnitude, is sensitive to both Ω and Ω_Λ. At small z, the expression reduces to the well-known Hubble law. However, at large z, the deviation from Hubble’s law grows ever larger. This is why distant SNIa events are so significant in choosing between cosmological models.
+
+The two American groups arrive at the values Ω ≈ 0.3 and Ω_Λ ≈ 0.7. Once our initial excitement has died down, it is important to note that this result is far from conclusive. The reason is that the measured effect is extremely small, being of the order of 0.25 magnitudes, and can be attributed to other causes: - the Hubble parameter H₀ may have a high level locally; - supernovas evolve, like any other object in the Universe, and despite systematic corrections, this effect may have been only partially eliminated; - light from supernovas may be focussed or defocussed by gravitational lenses.
+
+These are only the most obvious sources of distortion.
+
+For most astronomers, the solution to these cosmological problems resides in a combination of various methods. The luminosity–redshift test must be combined with independent techniques, such as anisotropies in the cosmic background radiation and statistical study of gravitational lenses.
+
+Only when all the data converge upon a common answer will we be able to say that the problem of the cosmological parameters has been resolved. And although we have now started off along this road, some patience is still required. Here again, theory will be brought to bear, not only on the normal or average individuals, but also on the deviants. For whatever distinguishes appearances has a deep foundation. We cannot be satisfied with empirical or phenomenological relationships when reducing light curves to a common model. This means that the theoretical modelling of binary systems ending their existence in a cataclysmic explosion remains one of the central aims of astrophysics.
+
+**Appendix 3** **Explosions**
+
+**Glossary**
+
+**neutron excess** the difference N−Z between the number of neutrons and the number of protons in a nucleus
+
+**Nuclear statistical equilibrium** The most tightly bound nuclei, i.e. the most stable and robust, in the iron peak are not symmetric arrangements bringing together equal numbers of protons and neutrons (N = Z). Rather, they possess a neutron excess (N − Z) between en2and4.Closeto iron,themoststablenucleus56Fehasanumberofneutronswhichexceedsthenumber ofprotonsby4units(N −Z =4).
+
+The isotopic and elemental abundance table shows that, in the Solar System, iron ismoreabundantthanitsneighbours.Analysisofstellarspectraconfirmsthisresult, givingitauniversalcharacter.
+
+Theoretically,nuclearstrengthisenhancedbyinternaltransmutationsofprotonsinto neutrons,underthemandateoftheweakinteraction,eitherbypositronemission(p→ n+e+ +ν)orbyelectroncapture(p+e−→n+ν).However,theweakinteraction ismuchslowerthanthestronginteraction.Thequestionremainsastowhetheritwill happen inside the star, or outside, once the matter has been expelled, i.e. after the explosion.Thisisnotjustanacademicquestion.Theanswerwegivewilldetermine whetherornotwecancorroborateexplosivenucleosynthesisbyobservation.
+
+Anyattempttounderstandtheconditionsinwhichironanditskinwerecreated,and identifytheastrophysicalsiteoftheirbirth,mustfocusontheideaofnuclearstatistical equilibrium. The situation is the exact nuclear analogy of the ionisation equilibrium occurringinhotgases.
+
+Theabundanceofeachelementisfixedbyitsbindingenergy,whichcharacterises itsstrengthasanentity,andthetemperatureanddensityoffreeneutronsandprotons attackingthenucleus(Fig.A3.1).If,asisusuallythecase,nuclearequilibriumisreached beforeasignificantnumberofradioactivedecayshavehadthetimetooccur,anauxiliary constraintcanbeimposed:thetotalnumberdensityofprotonsandneutrons,bothfree andbound,mustpreservethemeann/pratio.
+
+Asmallgrowthinthen/pratiohasaconsiderableeffectonthecompositionoftheiron peak.Forvaluesveryclosetounity,themostabundantlyproducedisotopeintheabsence Explosions 217 )VeM( noelcun rep ygrene gnidniB 8.7 Z/N = 1 56Ni 8.6 8.5 20 25 30 35 Number of protons, Z
+
+## 0.86 < Z/N < 0.88
+
+56Fe 60Ni 20 25 30 35 Number of neutrons, N )VeM( noelcun rep ygrene gnidniB 8.9 8.8 8.7 8.6 Fig.A3.1. Bindingenergypernucleoninsymmetricnuclei(Z = N)andasym- metricnuclei(0.86< Z/N <0.88).56Niisthemosttightlyboundnucleuswith anequalnumberofprotonsandneutrons,whilst56Feisthestrongestnucleuswith Z/N =0.87.Nuclearstatisticalequilibriumfavours56Feiftheratioofneutrons toprotonsis0.87inthemixtureundergoingnucleosynthesis.Infactnatureseems tohavechosentobuildirongroupnucleiinacruciblewithZ =N.
+
+ofradioactiveβdecayisnickel-56.Amongstthesymmetricisotopes(Z = N),thisis theonewiththegreatestbindingenergypernucleon.Thepredominanceofiron-56in natureleadstotheconclusionthatthesynthesisingprocesshappenssoquicklythatthe mainnucleusproducedisnickel-56,whichthendecaystoiron.Thisprocesshasmany consequences.Indeed,itexplainssupernovalightcurves.
+
+We know today that nuclear statistical equilibrium in a neutron-poor environment (p/n=1.01),dominatedbynickel-56ratherthaniron-56,givesagoodoverallexpla- nationoftheabundancetableintheneighbourhoodoftheironpeak.Thisisanatural consequenceofhigh-temperaturecombustion.Thecorrespondingcombustiontimesare 218 Appendix3 so short that the sluggish weak interaction just does not have the time to influence matters. In fact the n/p ratio in the core of the star, resulting from the whole of its nuclear history, is not modified. Explosive combustion clips the wings of the weak interaction.
+
+Scienceofheat Thecriticalfactorwhichthusdeterminesthenatureoftheemergingironpeakisthe combustiontime.Onlyahydrodynamicmodelcanprovideuswithafullappreciationof fusiontimes,describingthesuddenandbrutaltemperatureincreaseastheshockwave passesthrough,andtheequallysuddencoolingthatfollowsit.
+
+The first attempt to calculate nucleosynthesis during the passage of a shock wave throughthesilicon-richregion,carriedoutbyTruran,ArnettandCameronin1967,has beenlargelyconfirmed.Themostabundantlysynthesisednucleiintheseconditionsturn outtobenickel-56andtheunstableαnucleibeyondcalcium(titanium-44,chromium-48, iron-52 and zinc-60). This is perhaps the most beautiful result in the whole theory ofnucleosynthesis,foritshowsthatiron,usedinrailwaysandhaemoglobin,theking ofnuclearcreation,onemightsay,isnotactuallyproducedasiron,butintheformof radioactivenickel.
+
+Italsoshowsjusthowsensitivearetheresultsofexplosivenucleosynthesistothen/p ratio.Anumericalexperimentshouldconvinceusofthis:
+
+## 1. Takeapuresampleofsilicon-28(N = Z)atadensityof2000000gcm−3,heatit
+
+to3billionkandletnuclearevolutionhaveitswayuntilallthesiliconhas disappeared.Weobserveagradualgrowthofiron-56,leadingtoitsfinal domination.
+
+## 2. Nowdothesamebutswitchingofftheweakinteraction.Thistimeweobtainavery
+
+differentbehaviour,becausethedominantspeciesisnickel-56.Thegasretainsits egalitariannature,i.e.Z = N.
+
+## 3. Finally,consideratemperatureof4billionkratherthan3billion,andadensityof
+
+20000000gcm−3,butleavetheweakinteractionswitchedon.Wefindthat nickel-56onceagainpredominatesoverotherironpeaknuclei,andthisvery rapidlyindeed.
+
+Thecompositionoftheashesfromthenuclearfuel(inthiscase,silicon,characterised byn/p = 1)isadirectconsequenceofthedegreeofneutronenrichmentallowedby βdecayinthetimeavailablefornucleosynthesis,whichisitselffixedbyastrophysical conditions.
+
+Afullappr Appreciation of the combustion time requires: - a model providing the configuration of the star just before it explodes; - a hydrodynamic model able to follow the temperature, density and composition of the matter during the explosion; - knowledge of nuclear and weak interaction rates for all nuclear species taking part in the silicon transmutation process under the effects of intense heat and in the context of nuclear statistical equilibrium.
+
+In a virtual sense, we observe the behaviour of nuclei in the nuclear mixture as others would observe the behaviour of cells in an incubator.
+
+It is a straightforward matter to understand the physical constraint imposed by the combustion time of silicon. Ashes from silicon will be all the richer in neutrons as the weak interaction is given the time to carry out its work via positron emission and electron capture, changing protons into neutrons and hence enriching the environment with neutrons.
+
+At very high temperatures, above 3 or 4 billion K, silicon is consumed so quickly that positron emission and electron capture reactions which might modify the n/p ratio are largely short-circuited. The weak interaction does not have time to convert any appreciable fraction of protons into neutrons during the brief period of thermonuclear combustion. It follows that, starting with matter that is initially dominated by nuclei containing equal numbers of neutrons and protons, such as oxygen-16 and silicon-28, the final products must conserve Z = N, unless they move away from nuclear stability beyond calcium-40, the last stable α element.
+
+The dominant nuclear species resulting from processes at temperatures between 4 and 6 billion K include titanium-44, chromium-48, iron-52 and 53, nickel-56 and 57 and zinc-58, 60, 61 and 62. Isotopic abundances resulting from radioactive β+ decay of these nuclei are compatible with terrestrial and meteoritic measurements relating to calcium-44, titanium-48, chromium-52 and 53, iron-56 and 57, and nickel-58, 60, 61 and 62.
+
+The proportions with respect to iron of vanadium-51, manganese-55 and cobalt-59, formed as manganese-51, cobalt-55 and copper-59, respectively, also agree with abundances observed in the Solar System. The overall coherence of this behaviour suggests that appropriate conditions for synthesis of iron peak elements should be sought in supernovas.
+
+Furthermore, the fact that iron is synthesised in the form of a nickel isotope has important implications from an observational standpoint. Indeed, it provides a check on the foundations of the whole theory of explosive nucleosynthesis. These implications are twofold, as we have seen. They concern supernova light curves and gamma emission from these objects.
+
+Stellar nucleosynthesis
+
+Glossary yield: quantity of various isotopes synthesised and ejected by a star of given mass and metallicity; the nuclear donation of each star.
+
+Nuclear evolution
+
+In the twentieth and twenty-first centuries, humankind has turned its attention not only to the energy of matter and attempts to master it, but also to the origin and evolution of the elements that make it up.
+
+Nuclear evolution precedes and determines the evolution of life, and is itself preceded by the evolution of elementary particles. Such is the great scheme of material things. The idea of universal unity can only be strengthened by this knowledge. In this physical genesis, the star plays a crucial intermediate role between the Big Bang and life, and for this reason we owe it our closest attention.
+
+The birth certificate of any member of the stellar society carries one of the three following comments: - alone or accompanied; - mass; - metallicity.
+
+Masses range between 0.1 and 100 M⊙ and metallicities from one-thousandth of the solar value up to the latter. Metallicity is a question of generation. It may be taken as our leitmotif that the most ancient of stars are also the poorest in metals.
+
+This therefore defines the stellar condition. Binary stars behave differently to single stars, as is clear from the case of the type Ia supernovas. In order to simplify, let us leave them aside for the moment and consider the case of the only child. For isolated stars, knowledge of the two other attributes, mass and metallicity, suffice to characterise its nuclear opus, that is, the amounts of the various elements that it will eventually release into space, as well as its lifespan.
+
+Stars do not all work at the same rate, and nor do they produce the same nuclear species. Depending on its mass, and to a lesser extent its metallicity at birth, each star delivers its specific batch of atoms to the surrounding region of space, thus making its
+
+Table A4.1. Yields of different stars with masses between 13 and 70 M⊙ Isotope | 13 M⊙ | 15 M⊙ | 18 M⊙ | 20 M⊙ | 25 M⊙ | 40 M⊙ | 70 M⊙ --- | --- | --- | --- | --- | --- | --- | --- 16O | 1.51×10⁻¹ | 3.55×10⁻¹ | 7.92×10⁻¹ | 1.48 | 2.99 | 9.11 | 2.14×10¹ 18O | 9.44×10⁻⁹ | 1.35×10⁻² | 8.67×10⁻³ | 8.68×10⁻³ | 6.69×10⁻³ | 1.79×10⁻⁶ | 3.80×10⁻³ 20Ne | 2.25×10⁻² | 2.08×10⁻² | 1.61×10⁻¹ | 2.29×10⁻¹ | 5.94×10⁻¹ | 6.58×10⁻¹ | 2.00 21Ne | 2.08×10⁻⁴ | 3.93×10⁻⁵ | 2.19×10⁻³ | 3.03×10⁻⁴ | 3.22×10⁻³ | 2.36×10⁻³ | 1.14×10⁻² 22Ne | 1.01×10⁻⁴ | 1.25×10⁻² | 2.74×10⁻² | 2.93×10⁻² | 3.39×10⁻² | 5.66×10⁻² | 5.23×10⁻² 23Na | 7.27×10⁻⁴ | 1.53×10⁻⁴ | 7.25×10⁻³ | 1.15×10⁻³ | 1.81×10⁻² | 2.37×10⁻² | 6.98×10⁻² 24Mg | 9.23×10⁻³ | 3.16×10⁻² | 3.62×10⁻² | 1.47×10⁻¹ | 1.59×10⁻¹ | 3.54×10⁻¹ | 7.87×10⁻¹ 25Mg | 1.38×10⁻³ | 2.55×10⁻³ | 7.54×10⁻³ | 1.85×10⁻² | 3.92×10⁻² | 4.81×10⁻² | 1.01×10⁻¹ 26Mg | 8.96×10⁻⁴ | 2.03×10⁻³ | 5.94×10⁻³ | 1.74×10⁻² | 3.17×10⁻² | ×10⁻² 1.07×10⁻¹ 2.91×10⁻¹ 27Al 1.04×10⁻³ 4.01×10⁻³ 5.44×10⁻³ 1.55×10⁻² 1.95×10⁻² 8.05×10⁻² 1.44×10⁻¹ 28Si 6.68×10⁻² 7.16×10⁻² 8.69×10⁻² 8.50×10⁻² 1.03×10⁻¹ 4.29×10⁻¹ 7.55×10⁻¹ 29Si 7.99×10⁻⁴ 3.25×10⁻³ 1.76×10⁻³ 9.80×10⁻³ 6.97×10⁻³ 5.43×10⁻² 1.08×10⁻¹ 30Si 1.87×10⁻³ 4.04×10⁻³ 3.33×10⁻³ 7.19×10⁻³ 6.81×10⁻³ 4.32×10⁻² 1.00×10⁻¹ 31P 2.95×10⁻⁴ 6.55×10⁻⁴ 4.11×10⁻⁴ 1.05×10⁻³ 9.02×10⁻⁴ 5.99×10⁻³ 2.57×10⁻² 32S 1.46×10⁻² 3.01×10⁻² 3.76×10⁻² 2.29×10⁻² 3.84×10⁻² 1.77×10⁻¹ 2.05×10⁻¹ 33S 1.19×10⁻⁴ 9.60×10⁻⁵ 1.48×10⁻⁴ 8.84×10⁻⁵ 2.20×10⁻⁴ 7.49×10⁻⁴ 1.02×10⁻³ 34S 1.83×10⁻³ 1.49×10⁻³ 1.89×10⁻³ 1.26×10⁻³ 2.77×10⁻³ 1.14×10⁻² 1.98×10⁻² 35Cl 3.70×10⁻⁵ 3.45×10⁻⁵ 8.95×10⁻⁵ 6.05×10⁻⁵ 6.72×10⁻⁵ 4.75×10⁻⁴ 1.76×10⁻³ 37Cl 6.73×10⁻⁶ 9.60×10⁻⁶ 1.04×10⁻⁵ 4.96×10⁻⁶ 1.32×10⁻⁵ 1.17×10⁻⁴ 1.01×10⁻⁴ 36Ar 2.36×10⁻³ 5.63×10⁻³ 6.13×10⁻³ 3.78×10⁻³ 6.71×10⁻³ 3.11×10⁻² 2.92×10⁻² 38Ar 4.85×10⁻⁴ 6.49×10⁻⁴ 6.29×10⁻⁴ 3.25×10⁻⁴ 7.24×10⁻⁴ 9.14×10⁻³ 6.16×10⁻³ 39K 1.95×10⁻⁵ 3.31×10⁻⁵ 3.66×10⁻⁵ 3.24×10⁻⁵ 3.47×10⁻⁵ 3.83×10⁻⁴ 3.84×10⁻⁴ 41K 1.42×10⁻⁶ 2.37×10⁻⁶ 2.23×10⁻⁶ 1.28×10⁻⁶ 2.79×10⁻⁶ 3.43×10⁻⁵ 2.84×10⁻⁵ 40Ca 2.53×10⁻³ 5.29×10⁻³ 5.11×10⁻³ 3.25×10⁻³ 6.15×10⁻³ 2.56×10⁻² 2.14×10⁻² 44Ca 1.22×10⁻⁴ 7.49×10⁻⁵ 1.43×10⁻⁵ 9.15×10⁻⁵ 2.11×10⁻⁵ 2.00×10⁻⁵ 2.97×10⁻⁴ 46Ti 2.56×10⁻⁶ 6.26×10⁻⁶ 6.72×10⁻⁶ 6.81×10⁻⁶ 6.84×10⁻⁶ 3.56×10⁻⁵ 1.44×10⁻⁵ 47Ti 5.13×10⁻⁶ 3.75×10⁻⁶ 3.11×10⁻⁷ 1.73×10⁻⁶ 9.11×10⁻⁷ 9.74×10⁻⁷ 6.26×10⁻⁷ 48Ti 1.68×10⁻⁴ 1.58×10⁻⁴ 8.59×10⁻⁵ 1.85×10⁻⁴ 8.98×10⁻⁵ 1.58×10⁻⁴ 1.42×10⁻⁴ 49Ti 3.45×10⁻⁶ 6.10×10⁻⁶ 7.54×10⁻⁶ 4.89×10⁻⁶ 6.01×10⁻⁶ 2.17×10⁻⁵ 6.97×10⁻⁶ 50Ti 3.56×10⁻¹⁰ 1.21×10⁻⁹ 1.17×10⁻¹⁰ 1.12×10⁻¹⁰ 5.90×10⁻¹⁰ 2.00×10⁻¹⁰ 2.56×10⁻¹⁰ 50Cr 2.30×10⁻⁵ 5.15×10⁻⁵ 7.49×10⁻⁵ 3.54×10⁻⁵ 5.01×10⁻⁵ 1.49×10⁻⁴ 1.01×10⁻⁴ 52Cr 1.15×10⁻³ 1.36×10⁻³ 1.44×10⁻³ 8.64×10⁻⁴ 1.31×10⁻³ 2.77×10⁻³ 6.86×10⁻⁴ 53Cr 9.34×10⁻⁵ 1.35×10⁻⁴ 1.50×10⁻⁴ 7.12×10⁻⁵ 1.39×10⁻⁴ 3.56×10⁻⁴ 1.00×10⁻⁴ 54Cr 3.35×10⁻⁸ 4.09×10⁻⁸ 2.53×10⁻⁸ 6.26×10⁻⁹ 2.41×10⁻⁸ 2.81×10⁻⁸ 7.61×10⁻⁸ 55Mn 3.65×10⁻⁴ 4.74×10⁻⁴ 5.48×10⁻⁴ 2.27×10⁻⁴ 5.02×10⁻⁴ 8.41×10⁻⁴ 3.64×10⁻⁴ 54Fe 2.10×10⁻³ 4.49×10⁻³ 6.04×10⁻³ 2.52×10⁻³ 4.81×10⁻³ 9.17×10⁻³ 5.81×10⁻³ 56Fe 1.50×10⁻¹ 1.44×10⁻¹ 7.57×10⁻² 7.32×10⁻² 5.24×10⁻² 7.50×10⁻² 7.50×10⁻² 57Fe 4.86×10⁻³ 4.90×10⁻³ 2.17×10⁻³ 3.07×10⁻³ 1.16×10⁻³ 2.29×10⁻³ 3.83×10⁻³ 59Co 1.39×10⁻⁴ 1.22×10⁻⁴ 4.82×10⁻⁵ 1.31×10⁻⁴ 2.19×10⁻⁵ 2.51×10⁻⁵ 1.59×10⁻⁴ 58Ni 5.82×10⁻³ 7.50×10⁻³ 3.08×10⁻³ 3.71×10⁻³ 1.33×10⁻³ 3.31×10⁻³ 9.25×10⁻³ 60Ni 3.72×10⁻³ 3.36×10⁻³ 8.71×10⁻⁴ 2.18×10⁻³ 6.67×10⁻⁴ 3.88×10⁻⁴ 1.77×10⁻³ 62Ni 1.05×10⁻³ 9.50×10⁻⁴ 2.52×10⁻⁴ 7.26×10⁻⁴ 1.70×10⁻⁴ 1.11×10⁻⁴ 1.28×10⁻³ Source: Nomotoetal.(1997).
+
+contributiontothegeneralchemicalenrichmentofthetowhichsocietyitbelongs.Eachstarthusmakesadonationaccordingtoitsbirthmassandmetallicity.
+
+Theyieldsofthedifferentstarsareinscribedonaregisterpainstakinglybuiltupbyacourageousgenerationofnuclearastrophysicists,includingStanWo that the ratios O/Fe, Mg/Fe, Si/Fe, Ca/Fe and Ti/Fe in the ejected matter are roughly three times greater than their solar counterparts. These excesses of α nuclei are observed in ancient stars of the galactic halo, suggesting that the explosion of massive stars (type II supernovas) may have produced them (see Chapter 8).
+
+Values for the yields are affected by combined uncertainties in the basic physics of nuclear reactions and convection effects, during both pre-supernova evolution and the explosion itself. Nuclear contributions from stars depend primarily on the following: (1) the nuclear reaction rates adopted and their temperature variations; (2) the way convection is treated, along with the various mixing processes at work within the stars; (3) the detailed treatment of the explosion and in particular the dividing line between the collapsing core and the ejected envelope, in the case of gravitational-collapse supernovas.
+
+We have to deal with two distinct sets of problems concerning (a) nuclear reaction rates, and (b) the mathematical treatment of convection. However, their effects are combined in the result. As an example, combined nuclear and convective uncertainties affect the size of the carbon + oxygen core resulting from helium fusion as well as the ratio of carbon to oxygen within it. From there, they influence the ratio of the ashes of these elements and the mass of the iron core, which is a determining factor in the explosion.
+
+The three problems, nuclear, convective and Gordian, are quite different in character and in gravity. Nuclear data are gradually being refined, thanks to a huge scientific effort, even though the crucially important reaction ⁴He + ¹²C → ¹⁶O + γ remains a thorn in the side of nucleosynthesis, given the great difficulty involved in measuring it.
+
+The dividing line between core and envelope determines the amount of nickel-56 ejected. At the end of the day, this is what fixes the brightness of the supernova. We therefore have a handle on this parameter and for the time being may content ourselves by fitting it in such a way as to account for observations of supernova light curves.
+
+But of the three problems, the most formidable is undoubtedly convection. Adequate treatment of the various mixing processes is the most important problem in the theory of stellar evolution. This is all the more upsetting in that the relevant theory appears to have reached a standstill. So, stellar stirrers, we hope to hear from you soon!
+
+The yield table thus serves as a basis for modelling the chemical evolution of our Galaxy, or any other galaxy. Three distinct components must be specified: the yields of massive stars (8–100 M☉), which become type II supernovas, those of intermediate-mass stars (1–8 M☉), which blossom into planetary nebulas, and finally, those of overfed white dwarfs, which give birth to type Ia supernovas.
+
+**Appendix 5** **Galactic evolution**
+
+**Glossary** *   initial mass function: mass distribution of stars at birth
+
+**Chemical evolution of galaxies**
+
+The keyword in modern theory is ‘evolution’. The impressive consistency of the astrophysical view of the heavens has established the idea of an evolution of nuclear species which has the same significance for astrophysics as the evolution of living species for biology. It is itself preceded by an evolution of particle or corpuscular species, which would have been very short, lasting less than 1 second. This process was of a quite crucial nature in determining the components available to build up atoms, that is, those stable particles, protons and neutrons, that serve as the building-blocks, and the forces that bind them together.
+
+Once the elementary particles are produced, nuclear evolution precedes and determines all others, including geological and biological evolution, and its main agent is the stars. There are four main arguments to support the idea of a stellar genealogy for atomic matter. These can be described as the poverty of the ancients, the evolutionary trail, the great galactic cycle, and stellar alchemy. They are not independent of one another. Quite the contrary, they are very deeply related through the dialectic between big and small, astronomical and nuclear.
+
+Note that I do not say ‘infinitely small’, for there are things smaller than atomic nuclei, namely elementary particles. There are also things larger than the astronomical scale of stars and galaxies that concerns us here.
+
+*The poverty of the ancients*
+
+Over the last half century, an astronomical fact of the greatest significance has been established with certainty: the chemical composition of the stars in our Galaxy and other galaxies undergoes variations and furthermore the age and heavy-element content, or metallicity, are inversely proportional. This strongly suggests that the Big Bang cannot be the origin of all the elements.
+
+This conclusion eliminates Gamow’s proposal according to which the temperature and pressure at the very beginning of the Universe would have been sufficient to produce elements beyond lithium. The hard reality of observations thus put paid to one of the most beautiful theories, attributing a common origin to all the elements.
+
+The proportion of heavy elements varies by a factor of a thousand and more between stars of different ages and also depends on the level of development of the stellar society in question. As a general rule, in the kingdom of stars, the most ancient stars are also the least well provided for in metals. Hence, the galaxies grow richer as wave after wave of stellar workers come and go. The most recent generations of stars are richer than the ones that went before, and as a result of their labours.
+
+generation results in the production of a whole range of nuclei and sees to their distribution through space via stellar winds, envelope ejection or explosion, thus making them available for further use.
+
+The evolutionary trail
+
+The trail followed by each star is inked onto the parchment of the HR diagram according to its mass and, to a lesser extent, its metallicity at birth. Each position on a particular evolutionary trail corresponds to a specific cycle of thermonuclear fusion. Every star follows a different path and at a different rate.
+
+The configuration of the HR diagram is explained in terms of series of nuclear-fusion cycles. For example, the main sequence corresponds to hydrogen fusion, red giants to core helium burning, the asymptotic giant branch to shell hydrogen and helium burning. The reddening of stars with age is a sign that they have exhausted their stock of hydrogen in the core. Gravitational contraction of the helium core is accompanied by shell hydrogen burning around the central region, whilst the temperature in the centre continues to rise. The star thus begins to ascend the giant branch. This was understood through the work of Chandrasekhar, Sandage and Schwarzschild between 1942 and 1952.
+
+Ageing stars thus turn red, except for the most massive amongst them, which go purple or even ultraviolet. At the same time they move away from the main sequence. Their central temperature increases, as does their pressure, until further nuclear reactions are triggered which are capable of building up carbon from helium. This happens right through the long climb up the giant branch. Stars shine because they transmute the elements. The construction of nuclear species in massive stars reaches its apotheosis in the explosion of supernovas.
+
+The great galactic cycle
+
+The great cycle of inspiration and expiration of matter, passing through condensation, nucleosynthesis, ejection and back to condensation, serves as a bellows to fire today's studies of galactic evolution. We owe this understanding to Fred Hoyle, present at every stage in the edification of our astro-nuclear doctrine.
+
+This scheme merely illustrates the idea that the world is evolving everywhere, in every galaxy, and that the driving force behind cosmic evolution lies in the stars, born of gas clouds. This isolationist and private view (one might almost say maternal), contrasting with the global (or paternal) view of an expanding universe, singularises each star society in some sense, treating it as a unit well separated from others of its kind, evolving through its own initiative and at the rhythm of its reproduction.
+
+The recycling of matter incinerated and transformed by stars and the gradual enrichment of matter into heavy elements as it passes from one stellar crucible to the next is the great scheme which forms the basis for the nuclear evolution of galaxies.
+
+Stellar alchemy
+
+A detailed demonstration of the fact that nucleosynthesis can occur inside stars across the whole range of atomic masses underpins everything that has been said so far. Stellar nucleosynthesis gained a great deal of credibility when it was shown that the Big Bang would never be able to circumvent the absence of a stable nucleus with mass 5.
+
+The first major developments are attributed to Opik as early as 1938 and independently to Salpeter in 1952 and then Hoyle. Salpeter and Hoyle showed that a triple α reaction would be capable of generating carbon inside stars. The leap across the chasm separating helium from carbon profoundly changed the field of nucleosynthesis, opening the way to nuclear complexity. Indeed, starting from carbon, the trail leads right up to uranium.
+
+The demonstration that stars are capable of such nuclear fertility is based upon a combination of knowledge from what appear to be widely separated areas of physics. One of these concerns the internal structure of stars, telling us the temperature and pressure at different depths. The other concerns the probabilities at different energies of all the possible reactions between various nuclei, and between those nuclei and protons or neutrons. In the latter case, the acquisition of the relevant data was greatly accelerated by the Second World War. The beauty of nuclear astrophysics rests upon the success of this marriage and the complementarity of the two disciplines it brings together. The nuclear butterfly has returned to its stellar chrysalis.
+
+The chemical diversity of the world as reflected in Mendeleyev's periodic table and the elemental abundance table finally has its explanation. Today we have reached the stage where we can study the chemical evolution of the galaxies with a view to writing the story of each element in its own astrophysical context. Let us not forget the name of Beatrice Tinsley, who initiated this vision, but died too soon to witness its achievement.
+
+This confluence between two great streams of thought, the physics of the nucleus and the physics of stars, founds the notion of cosmic evolution which is as important for astronomy and cosmology as the evolution of the species for biology.
+
+Is it perhaps because revolution has failed on Earth that humankind has set out to find evolution in the sky? Since that moment of revelation, we have been proclaiming that we are stardust, which is only partly true, because hydrogen is the ash of the Big Bang. Anyway, the cosmos is evolving. We are living in the golden age of evolutionary astrophysics.
+
+A mental image of the evolution of the Galaxy
+
+The logical foundation of the model is as follows: apart from the lightest elements, the history of the other elements in the Galaxy is dominated by nucleosynthesis in many generations of stars. Each one has a different history to all the others, at least, on face of things. However, species with a common origin, for example, those produced abundantly by such and such a type of star, are likely to evolve in parallel. The picture we should imagine, or rather model, is thus relatively simple. It is based upon the following irreversible transformation rules, which define the direction of evolution:
+
+gas → star, simple nuclei → complex nuclei, gas without stars → stars without gas.
+
+The model assumes that evolution takes place in a closed system, with successive generations of stars being born into the interstellar medium. At each generation, a fraction of the gas is transformed into metals and returned to the interstellar medium. Gases imprisoned in stars of low mass and compact residues play no further role in galactic evolution. In this model, metallicity is bound to increase as time goes by. And so the arrow of galactic time is defined. Evolution will continue until no further gas is available to form new stars.
+
+Apart from the lifetime of stars as a function of their initial mass, the galactic evolution kit contains the following three items: *   the production of heavy elements by stars of various masses, referred to as the nuclear yield; *   the mass distribution of stars or initial mass function; *   the star formation rate.
+
+Amongst these three ingredients, only the first can yet be calculated from first principles, using the model of stellar evolution forged over the last few decades.
+
+Yield and lifetime are individual properties, varying from star to star. The transition from individual to society involves knowledge of two demographic parameters, if we may put it that way. One concerns the distribution of stellar masses at birth within a single generation, the other the rate at which stars form, whatever their mass, at different periods in the life of the Galaxy.
+
+The second parameter, the initial mass function, serves to weight the contributions of stars with different masses in proportion to their number within a single generation. The initial mass function has been established empirically and appears to remain fairly stable in time. The number of stars of mass M is inversely proportional to the cube of M, to a first approximation, provided we exclude the slightest of them (M < M_☉). Looking at the mass distribution at birth, once established, we notice immediately how rare the massive stars are. For every star born at 10 M_☉, there are a thousand births of solar-mass stars.
+
+Assuming that the initial mass function is invariable, we may calculate the average production of the various star generations, born with the same metallicity, and estimate their contribution to the evolution of the galaxy (see Appendix 4). The abundances produced by a whole population are not as discontinuous and irregular as those shown in the table of individual yields (Table A4.1). This is because the latter are averaged over the mass distribution.
+
+The third parameter in chemical evolution models of the galaxy, the star formation rate, serves to define the rate at which evolution proceeds. Unfortunately, there is a great deal of uncertainty in its estimation. There is no theory of star formation worthy of the name. In decline as time goes by, the star formation rate is often assumed to be proportional to the gaseous fraction of the Galaxy, which is itself in permanent decline, or to some power of it, but less than 2.
+
+This parameter is nevertheless constrained by the relationship between the age and iron content of stars, the observed rate of supernova events (of the order of three per century), which is related to the current star formation rate, and the present gaseous fraction. After 10 billion years of evolution, the region of the Galaxy accessible to us, that is, the solar neighbourhood, still retains about 10% gas.
+
+It is assumed that the region to which calculations apply is not influenced by any external matter supply and also that it suffers no loss of substance. In other words, it is assumed to operate in an autarkic manner, as in a closed box. Despite such grossly simplifying hypotheses, it is satisfying to watch the whole of galactic evolution unfurl before us in the form of such simple diagrams, provided of course that we are happy to abide by these strident directives. The model can be complicated at will by allowing the parameters to vary in time (or with metallicity, taken as the measure of time).
+
+The whole art in the study of galactic evolution is to put forward a model that relates to available data, taking their volume and accuracy into account. Consequently, the evolutionary model must itself be conceived in an evolutionary way.
+
+At the present level of our understanding, the simplest model seems good enough to explain the main trends deduced from systematic observations of stars belonging to different populations, provided that we exclude the period when the Galaxy itself was forming, which remains rather obscure. However, this picture will not be adequate in the future. More sophisticated numerical simulations are under investigation. These include hydrodynamic aspects of the chemical evolution of the Galaxy, which may be turbulent and violent, as well as its luminous or photometric counterpart. The results can then be related to spiral galaxies like our own.
+
+However, let us return to the simple and robust model provided by the closed box idea and see how it works. Technically, physical quantities are calculated in a step-by-step manner. As an example, let us consider the quantity of gas present in a vast region of our Galaxy centred on the Sun. We shall also be concerned with its composition. At the first step in the waltz, the Galaxy is made entirely of gas.
+
+of gas and quite devoid of any complex nuclei. It has the composition attributed to it by the Big Bang. At the nth time step, of thickness dt, we examine the accounts to determine what has been gained and what has been lost in the interstellar medium over the period dt. The newly appearing nuclei were made inside stars that formed during previous time steps. The part removed from the gaseous medium is the part transformed into stars during the time step under consideration. We then move on to the next step and the process continues. One small step follows another and, starting from the most rudimentary matter, we finally arrive at our own magnificent Solar System and the present time.
+
+On the profit side of the account, we carry over all nuclei ejected by stars at the end of their lives. This includes all those stars born in earlier epochs and entering the throes of death precisely at the time t in question. The exact amounts of nuclei depend of course on the mass of the dying star. Thus a star of mass M which dies at time t was born x years before, where x is the mass-dependent lifetime. For example, the nuclear donation, that is to say, the nuclear return on investment, from a star weighing in at 20 solar masses is made 10 million years after its birth, when it explodes. The return from a type Ia supernova occurs much later, at least 100 million years after the formation of a stellar couple with explosive vocation in which one of the members will eventually become a white dwarf. Even more extreme is the delivery date for stars with similar mass to the Sun. Those which formed at the beginning of the Galaxy are only just opening up today to spread their substance and give birth to those beautiful phenomena we know as planetary nebulas.
+
+Concerning gas losses, we must subtract gas transformed into stars and the matter imprisoned in stellar corpses. The latter occur in three forms: white dwarfs, neutron stars and black holes. We must also include matter going into planets and aborted stars (brown dwarfs), forever frozen and permanently withdrawn from the (nuclear) chemical evolution of the Galaxy.
+
+On the profits side of the account, we must record the gas rejected by each dying star, be its supernova or planetary nebula, and reinjected into the great galactic cycle. The calculation is in principle quite straightforward, but the parameters are uncertain, as we mentioned earlier. For this reason, the theory of galactic evolution should not be viewed as a mature theory, but rather as a realistic scenario. Running the history of the Milky Way up to the present epoch, we can follow through the behaviour of gas, stars and metals, which are dialectically related. From this great material adventure, the following trends are singled out: - growth and stabilisation of metallicity; - decline in the star formation rate; - reduction in the number of supernovas.
+
+Considered as a natural object, the Galaxy is wearing out, for nothing is eternal. The golden age of nucleosynthesis is coming to a close. In our own region of the Milky Way, the stellar baby boom is a thing of the past. The great river of stellar births is drying up, because the amount of gas remaining is only a modest fraction of the total, maybe some 10%. The same is true for every other region of the Galaxy, which has exhausted its clouds, trading them for stars. An exception may perhaps be found in a gaseous ring located at a radius of about 13000 light-years from the galactic centre, where many star births are still celebrated.
+
+The low rate of supernovas is also witness to a considerable slowing down in star formation activity, for want of fuel. Those few supernovas still happening will barely modify the current composition of the interstellar medium. The chemical evolution of the galactic disk is therefore coming to an end. It will result in a general stabilisation of abundances at levels similar to those in the Sun. The Sun is mortal! The Galaxy is mortal! This is a poignant moment in the story of our Galaxy, when it burns its last fires. It is fading, but we shall fade long before it.
+
+1572 Brahe Supernova 1610 Galileo Refracting telescope 1731 Messier Catalogue of nebulas 1916 Einstein Relativistic universe, static solution 1917 de Sitter Relativistic universe without matter 1922 Friedmann Relativistic universe, dynamic solution 1924 Hubble Discovery of Cepheids in Andromeda 1933 Hubble, Humason Recession of the galaxies (v = Hd)
+
+1933 Lemaître Notion of the beginning of the Universe 1939 Bethe Hydrogen fusion in stars 1948 Gamow Prediction of cosmological background radiation 1948 Gamow, Bethe, Alpher Primordial nucleosynthesis 1957 Burbidge, Burbidge, Fowler, Hoyle, Cameron Stellar nucleosynthesis 1965 Penzias, Wilson Discovery of cosmological background radiation 1999 Perlmutter, Riess, Smith Acceleration of the expansion of the Universe
+
+Universal constants Speed of light in vacuum c = 2.99792458×10^10 cm s^−1 Gravitational constant G = 6.67259×10^−8 cm^3 g^−1 s^−2 Planck constant h = 6.62620×10^−27 erg s Electron, proton, neutron Electron charge e = 4.803242×10^−10 esu e = 1.60217733×10^−19 coulomb Electron mass m = 9.1093897×10^−28 g Electron mass energy m c^2 = 0.5109906 MeV m c^2 = 8.1871×10^−7 erg Classical electron radius r = 2.81794092×10^−13 cm Compton wavelength of the electron λ = 2.42631058×10^−10 cm Proton mass m = 1.6726231×10^−24 g Neutron mass m = 1.6749286×10^−24 g Physicochemical constants Avogadro’s constant N = 6.022137×10^23 mol^−1 Boltzmann’s constant k = 1.380658×10^−16 erg K^−1 Astronomical constants Light-year 1 ly = 9.46530×10^17 cm Parsec 1 pc = 3.085678×10^18 cm 1 pc = 3.261 ly 太阳质量 M☉ = 1.9891×10³³ g 太阳半径 R☉ = 6.9599×10¹⁰ cm 太阳光度 L☉ = 3.8268×10³³ erg s⁻¹ 太阳有效温度 Teff = 5780 K
+
+## 附录 8 网站
+
+大量关于地球和太空大型天文台的信息可通过万维网获取。
+
+ALMA www.eso.org/projects/alma ESA www.esa.int ESO www.eso.org FUSE fuse.pha.jhu.edu/ INTEGRAL sci.esa.int/home/integral/index.cfm Kueyen–UVES www.eso.nce.ut2sv MAP（微波各向异性探测器）map.gsfc.nasa.gov NASA www.nasa.gov NGST ecf.hq.eso.org/ngst/ngst.html SNAP（超新星/加速探测器）snap.lbl.gov VLT eso.org XMM sci.esa.int/xmm/
+
+参考文献
+
+Alle`gre C. (1996) Delapierrea` l’e´toile, 2nd edn. (Fayard, Paris).
+
+Anders E. & Grevesse N. (1989) ‘Abundances of the elements: meteoritic and solar.’ Geochim. Cosmochim. Acta 53, 197.
+
+Arnett D. (1996) Supernovae and Nucleosynthesis (Princeton University Press, Princeton).
+
+Arnould M. & Takahashi K. (1999) ‘Nuclear astrophysics.’ Rep. Prog. Phys. 62, 393.
+
+Audouze J. (1998) ‘L’Univers’. Que sais-je? (Presses Universitaires de France, Paris).
+
+Audouze J. & Cazenave M. (2000) L’Homme dans ses univers (Albin Michel, Paris).
+
+Audouze J. & Israe¨l G. (eds.) (1983) The Cambridge Atlas of Astronomy (Cambridge University Press, Cambridge).
+
+Audouze J. & Vauclair S. (1998) ‘L’Astrophysique nucle´aire.’ Que sais-je? (Presses Universitaires de France, Paris).
+
+Audouze J., Casse´ M. & Carrie`re J.C. (1998) Conversations sur l’invisible (Plon, Paris).
+
+Audouze J., Musset P. & Paty M. (1990) ‘Les Particules et l’univers.’ Nouvelle Encyclope´die Diderot (Presses Universitaires de France, Paris).
+
+Bahcall J.N. (1989) Neutrino Astrophysics (Cambridge University Press, Cambridge).
+
+Bahcall J.N. (2002) Solar Models: An Historical Overview. CERN Document Server astro-ph/0209080.
+
+Barrow J. (1991) Theories of Everything (Oxford University Press, Oxford).
+
+Brahic A. (1999) Enfants du soleil (Odile Jacob, Paris).
+
+Brown G., Kamionkowski M. & Turner M. (2000) ‘David Schramm’s Universe.’ Phys. Rep. 6, 333.
+
+Burbidge M., Burbidge G., Fowler W. & Hoyle F. (1957) Rev. Modern Phys. 29, 647.
+
+Burles S.M. & Tytler D. (1997) ‘Closing in on the primordial abundance of deuterium.’ CERN Document Server astro-ph/9712265.
+
+Cameron A.G.W. (1957) Atomic Energy of Canada, Ldt, CRL-41.
+
+Casse´ M. (1987) Nostalgie de la lumie`re (Belfond, Paris).
+
+Casse´ M. (1993) Du vide et de la cre´ation (Odile Jacob, Paris).
+
+Casse´ M. (1998) Nucle´osynthe`se et abondance dans l’univers (Ce´padue`s, Paris).
+
+Casse´ M. (1999) The´ories du ciel (Payot, Paris).
+
+Cazenave M. (1999) Dictionnaire de l’ignorance (Albin Michel, Paris).
+
+Clayton D.D. (1983) Principles of Stellar Evolution and Nucleosynthesis (University of Chicago Press, Chicago).
+
+Cribier M., Spiro M. & Vignaud D. (1995) La Lumie`re des neutrinos (Le Seuil, Paris).
+
+Crozon M. (1999) L’Univers des particules (Le Seuil, Paris).
+
+Daniel J.Y. (1999) Sciences de la terre et de l’univers (Vuibert, Paris).
+
+Davies P.C.W. (1989) The New Physics (Cambridge University Press, Cambridge).
+
+Doom C. (1986) La Vie des e´toiles (Le Rocher, Paris).
+
+Friedmann A. & Lemaˆıtre G. (1997) Essais de cosmologie, preceded by L’Invention du Big Bang by J.P. Luminet (Le Seuil, Paris).
+
+Kaler J.B. (1997) Stars and their Spectra (Cambridge University Press, Cambridge).
+
+Klein E. & Lachie`ze-Rey M. (1996) La Queˆte de l’unite´ (Albin Michel, Paris).
+
+Kolb E. & Turner M.S. (1990) The Early Universe (Addison-Wesley, New York).
+
+Krauss L. (1989) The Fifth Essence: The Search for Dark Matter in the Universe (Basic Books, New York).
+
+Lachie`ze-Rey M. (1987) Connaissance du cosmos (Albin Michel, Paris).
+
+Lachie`ze-Rey M. & Gunzik E. (1995) Le Fond diffus cosmologique (Masson, Paris).
+
+Lattimer J. & Burrows A. (1988) ‘Neutrinos from Supernova 1987A.’ Sky and Telescope, October 1988.
+
+Lehoucq R. & Casse´ M. (1990) In Supernovae, Les Houches 1990 (North Holland, Amsterdam).
+
+Le´na P., Lebrun F. & Mignard M. (1998) Observational Astrophysics (Springer-Verlag, Berlin).
+
+Longair M.S. (1997) High Energy Astrophysics, vol. 1, Particles and their Detection, vol. 2, Stars, the Galaxy and the Interstellar Medium (Cambridge University Press, Cambridge).
+
+Luminet J.P. (1992) Black Holes (Cambridge University Press, Cambridge).
+
+Luminet J.P. (1996) Les Poe`tes et l’univers (Le Cherche Midi Editeur, Paris).
+
+Mochkovitch R. (1994) ‘An introduction to the physics of type II supernova explosions’, in Matter under Extreme Conditions (Springer-Verlag, Berlin).
+
+Narlikar J. (1988) The Primordial Universe (Oxford University Press, Oxford).
+
+Nomoto K. et al. (1997) ‘Nucleosynthesis in type Ia supernovae.’ CERN Document Server astro-ph/9706025.
+
+Nomoto K. et al. (2001) ‘Gamma-ray signatures of supernovae and hypernovae.’ CERN Document Server astro-ph/0110079.
+
+Nottale L. (1994) L’Univers et la lumie`re (Flammarion, Paris).
+
+Ostlie D.A. & Carrol B.W. (1996) Modern Stellar Astrophysics (Addison-Wesley, New York).
+
+Pagel B.E.J. (1997) Nucleosynthesis and Chemical Evolution of Galaxies (Cambridge University Press, Cambridge).
+
+Pasachoff J.M. (1977) Contemporary Astronomy (W.B. Saunders, Philadelphia).
+
+Paul J. (1998) L’Homme qui courait derrie`re son e´toile (Odile Jacob, Paris).
+
+Peebles P.J. (1993) Principles of Physical Cosmology (Princeton University Press, Princeton).
+
+Perlmutter S. et al. (1999) Phys. Rev. Lett. 83, 670.
+
+Phillips A.C. (1994) The Physics of Stars (John Wiley, New York).
+
+Prantzos N. & Montmerle T. (1998) ‘Naissance, vie et mort des e´toiles.’ Que sais-je? (Presses Universitaires de France, Paris).
+
+Prantzos N., Vangioni-Flam E. & Cassé M. (1993) Origin and Evolution of the Elements (Cambridge University Press, Cambridge).
+
+Ramaty R., Vangioni-Flam E., Cassé M. & Olive K. (1997) ‘Lithium, beryllium, boron, cosmic rays and related X and gamma rays.’ Astronomical Society of the Pacific Conference Series 171.
+
+Reeves H. (1991) Hour of our Delight: Cosmic Evolution, Order and Complexity (W.H. Freeman, New York).
+
+Reeves H. (1994) Atoms of Silence (General Publishing, Toronto).
+
+Reeves H. (1996) Last News from the Cosmos (General Publishing, Toronto).
+
+Ricard M. & Thuan T.X. (2000) L’Infini dans la paume de la main (Fayard, Paris).
+
+Riess A.G. et al. (1998) ‘Light curves for 22 type Ia supernovae.’ CERN Document Server astro-ph/9810291.
+
+Riordan E.M. & Schramm D.N. (1992) The Shadows of Creation: Dark Matter and the Structure of the Universe (W.H. Freeman, New York).
+
+Rolfs C.E. & Rodney W.S. (1998) Cauldrons in the Cosmos: Nuclear Astrophysics (University of Chicago Press, Chicago).
+
+Schatzman E. (1986) Les Enfants d’Uranie (Le Seuil, Paris).
+
+Schatzman E. & Praderie F. (1990) Les Étoiles (Interédition, Paris).
+
+Schönfelder V. (ed.) (2001) The Universe in Gamma Rays (Springer-Verlag, Berlin).
+
+Sexl R. & Sexl H. (1979) White Dwarfs – Black Holes: An Introduction to Relativistic Astrophysics (Academic Press, New York).
+
+Shu F.H. (1982) The Physical Universe (University Science Books, New York).
+
+Silk J. (1994) A Short History of the Universe (Scientific American Library, New York).
+
+Silk J. (1997) The Big Bang, 2nd edn. (W.H. Freeman, New York).
+
+Slezak E. & Thévenin F. (1998) Nucléosynthèse et abondance dans l’univers (Cépaduès, Paris).
+
+Sneden C. (2001) ‘Neutron-capture element abundances and cosmochronometry.’ CERN Document Server astro-ph/0106366.
+
+Thielemann F.K. et al. (2001) ‘Element synthesis in stars.’ CERN Document server astro-ph/0101476.
+
+Thuan T.X. (1988) La Mélodie secrète (Fayard, Paris).
+
+Thuan T.X. (1998) Le Destin de l’univers (Gallimard Découverte, Paris).
+
+Tubiana R. & Dautray R. (1996) ‘La Radioactivité et ses applications.’ Que sais-je? (Presses Universitaires de France, Paris).
+
+Tytler D. (1997) ‘Cosmology with the Very Large Telescope Interferometer using a space-based astrometric reference frame.’ CERN Document Server astro-ph/9701197.
+
+Valentin L. (1982) Physique subatomique: noyaux et particules, vols. 1 and 2 (Hermann, Paris).
+
+Vangioni-Flam E. & Cassé M. (1998) In La Recherche, Special Issue no. 1, April 1998.
+
+Vangioni-Flam E. & Cassé M. (1999) Petite Étoile (Odile Jacob, Paris).
+
+Vauclair S. (1996) La Symphonie des étoiles (Albin Michel, Paris).
+
+Verdet J.P. (1993) Astronomie et astrophysique (Larousse, Paris).
+
+Vidal-Madjar A. (2000) Il pleut des planètes (Hachette, Paris).
+
+Weinberg S. (1993) The First Three Minutes (Basic Books, New York).
+
+Woosley S. & Weaver T. (1989) ‘The great supernova of 1987.’ Scientific American, August 1989.
+
+Index
+
+absolute magnitude, 211 astronomical unit, 123 absorption line, 17, 26, 27, 43, 189 astroparticle physics, 77, 86 abundance, 51, 53, 103 asymptotic giant branch, 23, 51, 102, 167, 222, 225 alpha elements, 181 atom, 18, 26–29, 64 in halo stars, 183 atomic primordial, 206 bomb, 61 solar, 180 matter, 13 table, 57, 63, 216 Avogadro’s constant, 231 accretion, 123, 154, 159, 161 Aztecs, 150 disk, 161, 163 active galactic nucleus, 30, 120 Baade, W., 5 active optics, 44 Balmer lines, 5 adaptive optics, 45 barium, 66, 182 age–metallicity relation, 175 baryon, 1, 51 alchemy, 9, 165 BATSE, 159 nuclear, 63 Beppo-SAX, 159 stellar, 226 beryllium, 3, 31, 66, 70, 94, 96, 117, 139, 176, 186 ALMA, 8, 47, 108, 232 β decay, 82, 101, 165, 166, 217 alpha elements, 176, 184 Bethe, H., 89, 230 abundance, 181 B2FH, 60, 62, 96 evolution, 177 Big Bang, 1, 2, 22, 30, 49, 60, 65, 96, 130, alpha particle, 77 140, 169, 175, 197, 202, 226 Alpher, R.A., 230 observational basis, 204 aluminium, 56, 73, 74, 177 binary stars, 42, 154 origin, 184 binding energy, 67, 114 ancient stars, 225 of nuclei, 217 Anti-Matter Spectrometer, 111 biological evolution, 137 antigravity, 208 bismuth, 62, 167 antimatter, 111 black hole, 153, 159, 161, 202 apocalypse, 128 massive, 162 apparent magnitude, 214 rotating, 160 Aristotle, 3, 14, 63 supermassive, 108 astration, 51 blackbody, 17, 24, 84 rate, 57 radiation, 18, 21 astrochemistry, 113 blueshift, 34 astrology, 9 Bok globule, 105, 113 cosmic ray, 1, 3, 94, 117–120, 186 cosmogony, 107 cosmological constant, 1, 7, 214 cosmology, 107 Crab nebula, 5, 116 critical density, 197, 199 Cygnus loop, 116 Dalton, J., 52 damped Lyman alpha system, 189 dark matter, 11–15, 197, 206–210 baryonic, 197 in clusters, 199 californium, 62 halo, 198 Cameron, A., 62, 230 in Milky Way, 198 Canada–France–Hawaii Telescope, 41, 57, 200 non-baryonic, 197 carbon, 3, 24, 62, 72, 83, 97, 98, 154, 226 darkness, 31 burning, 51, 70, 99, 145 de Sitter, W., 230 dioxide, 127 deceleration parameter, 213 excited state, 98 degenerate fluid, 1, 6, 98, 129–131 monoxide, 112 Democritus, 51, 63 origin, 135–143 deuterium, 47, 135, 205, 206 carbonaceous chondrite, 55 abundance, 54 CCD, 17, 44 DNA, 53, 138 Cepheid variable, 17, 35, 230 Doppler effect, 105, 116 Cerenkov radiation, 77, 88 dust grains, 189 Chadwick, J., 52 Chandra, 8, 47 E=mc², 89 Chandrasekhar mass, 154 Earth climate, 127 Chandrasekhar, S., 225 EGRET, 120 chemical evolution, 1 71,178,179,224 Einstein, A., 89,230 chondrule, 51,71 electrical force, 28 chromium, 177 electromagnetic radiation, 25 closed universe, 197,199 cloud repulsion, 65,68,97,166 intergalactic, 56,188 electron, 28,51,64,98,116,120,130,231 interstellar, 56,106,109,124,168,229 electronvolt, 22 molecular, 106 elliptical galaxy, 110 cluster of galaxies, 37 emission line, 17,26,27,43,114 dark matter, 199 energy levels, 29,141,144 CNO cycle, 82 eternal return, 6 cobalt, 152,155,177,182 European Southern Observatory, 44,45,232 COBE, 49,203 European Space Agency, 46–48,232 collision, 69 even–odd imbalance, 65,102,177 compact massive object, 201,202 expansion of the Universe, 34,36,204,209,230 COMPTEL, 74 explosion, 94,146,216–219 Compton effect, 17 mechanism, 74,148 convection, 223 eye, human, 19,20,31–33 Copernican revolution, 195 core collapse, 94,101,153,162 fermion, 197 cosmic background radiation, 1,22,42,49,203,230 FIRST, 8,46,108 fission, 68,168 High-z Supernova Search Team, 208,212 fluorescence, 114 H II region, 114 fluorine, 66 HIPPARCOS, 35 Fowler, W., 6,60,69,230 Homestake, 88 Fraunhofer, J., 26 Hoyle, F., 6,58,60,89,98,141,225,230 frequency, 17,20 Hubble, E., 35,213,230 Friedmann, A., 230 Hubble diagram, 211,213 FUSE, 8,47,232 Hubble Space Telescope, 35,43,46 fusion, 68 Humason, M., 230 thermonuclear, 83,96 hydrogen, 2,60,97,112,115 abundance, 55 galactic evolution, 173,222,224–229 halo, 54,105,171,176 galaxy, 105 elliptical, 110 Galileo, 4,48,230 GALLEX, 88 gamma astronomy, 30,47,48,73,120–121 burst, 30,159,160,162 ray, 1,6,28,152,156 Gamma-Ray Observatory, 43,48,74,121,159 Gamow, G., 61,230 globular cluster, 35,54,110,183 Goethe, J.W., 22 gold, 58,64–66,97,164–166 Gordian cut, 184,185,223 gravitational collapse, 108,123,161 contraction, 125 lensing, 197,200,201 wave, 41 gravity, 12,83,147,198 braking effect, 208 greenhouse effect, 127 core, 146,148,162 heavy elements, 182,225 nucleus, 66 Heisenberg uncertainty principle, 123 origin, 144–164,181,184 helioseismology, 77,78 ISO, 46,75 helium, 2,60,62,64,81,83,97,138 isotope, 51 abundance, 54,55 ash, 82 KAMIOKANDE, 88 burning, 23,51,70,98,133,139 Keck telescopes, 41,46,57 core, 133,225 Kellogg Laboratory, 61,143 flash, 123,131 Kepler, J., 4 primordial, 203,205 Kirchoff, G.R., 26 shell, 167 Kueyen–UVES, 46,232 Hertzsprung–Russell (HR) diagram, 23,24,42,54,131,225 Large Magellanic Cloud, 6,109 Hesiod, xi lead, 62,66,166–168 Higgs field, 7 Lemaître, G., 230 lepton, 105 decoupling, 204 life, 59,136,220 detection, 87,149 lifetime of stars, 173 detonation, 162 light curve, 123,184,211 families, 204 of SN 1987A, 151 neutron, 28,62,87,166 of supernova, 212 capture, 96,97,101,165,166 light elements, 186 excess, 216 primordial, 203 lifetime, 203 lithium, 3,31,55,64,66,70,94,96,117,139,176,186 mass, 231 abundance, 54 star, 1,5,42,101,116,147,153,202 luminosity, 23–25,211 neutron-to-proton ratio, 181,216 distance, 214 neutronisation, 123,145,147,182 solar, 78 New Generation Space Telescope, 46,57,108 luminous matter density, 200 Newton, Isaac, 4,25 Magellanic Clouds, 6,109,202 nickel, 6,63,66,101,152,155 magnesium, 63,99,100,167 nitrogen, 66 origin, 184 Nomoto, K., 221 main sequence, 77,81,225 non-thermal radiation, 17,19,30 manganese, 177,182 nova, 5,98,156 MAP (Microwave Anisotropy Probe), 232 nuclear Mars, 169 binding energy, 67 massive star, 99,149,162,167,178,222 core, 86 rotating, 160 evolution, 220,224 Matta, 92 physics, 65 MAXIMA, 203 reaction network, 71 Mendeleyev, D., 52,64 reaction rate, 69 Mercury, 169 reactor, 83 Messier, C., 230 stability, 66,67,135,182 metallicity, 51,53,57,171–178,220,225,228 statistical equilibrium, 77,100,216 nucleon, 1 meteorite, 55,71 nucleonic density, 205 microlensing, 201–202 nucleosynthesis, 1,96 microquasar, 105 explosive, 101,148,150,164,176,181 Milky Way, 36,53,105,109 primordial, 204 age, 110 stellar, 223,230 dark matter, 198 nucleus, 28 mass, 110 r process, 66,101–104 rotation, 106 s process, 66,101–104 modelling, 90,223,228 stable, 167 molecular astronomy, 136 unstable, 96 molecules in space, 136 onion structure, 100,144,146 open universe, 6,197,199 Op mechanism, 186 NASA, 46,47,232 Opik, E., 226 nebula, 114 Orion, 106,113 neon, 98,99,167 o e, 98 Penzias, A.A., 230 red supergiant, 162 periodic table, 52, 64 reddening, 23 Perlmutter, S., 7, 208, 230 redshift, 18, 34 philosopher's stone, 64 resonance, 123, 142 photodisintegration, 77, 101, 145 Riess, A., 7, 230 photodissociation, 105 ROSAT, 199 photon, 51 rotation curve, 110, 197 photosphere, 51, 55, 84 NGC 3198, 198 pion, 120 Rutherford, E., 52 PLANCK satellite, 210 Planck's constant, 17, 20 s-process, 52, 70, 97, 166, 222 planetary nebula, 114–116, 123, 169 nucleus, 66, 101–104 plasma, 77, 79 SAGE, 88 platinum, 66, 165 Salpeter, E., 61, 141, 226 plutonium, 167 Sandage, A., 225 p-O mechanism, 186 Sanduleak, 25, 150 presolar grain, 73, 75 Saturn, 169 primordial nucleosynthesis, 204 scalar field, 1 protogalaxy, 108 scandium, 182 proton, 28, 51, 87 Schwarzschild, M., 61, 225 in cosmic rays, 186 sensitivity, 44 high energy, 120 Seyfert galaxy, 120 mass, 231 Shapley, H., 35 proton–proton chain, 81, 82 shock wave, 75, 101, 118–119, 147, 164, 174, 218 protosolar cloud, 51, 55, 125 silicon, 100 pulsar, 11, 17, 30, 116 small star, 178 burning, 51, 70, 71, 100, 145, 218 SNAP, 232 quantum physics, 28, 52, 98, 130 SNIa event, see supernova, thermonuclear, 157 quasar, 18, 57, 120, 189 SNII event, see supernova, gravitational collapse, 175 quintessence, 1, 4, 6, 197, 207–210 sodium, 99, 156, 177 r-process, 51, 62, 70, 97, 165, 177, 182 radiation astrophysical site, 168 origin, 184 nucleus, 66, 101–104 blackbody, 18, 21 solar electromagnetic, 25 flare, 31 non-thermal, 17, 19, 30 neutrino flux, 3, 86–89 synchrotron, 18, 30, 116, 120 spectrum, 20 radioactive Solar Neutrino Observatory, 89 aluminium-26, 74 Solar System, 55, 59 astronomy, 73, 150 spallation, 52, 70, 96, 176, 186 cobalt-57, 152 spark chamber, 105 isotope, 152 spatial resolution, 44 spectral type Ia (SNIa), 6, 98, 175, 180, 181, 208, 211 line broadening, 34 type II (SNII), 24, 153 resolution, 44 Supernova Cosmology Project, 208, 212 type, 25 supersymmetry, 197, 202 spectro-imaging, 43 synchrotron radiation, 18, 30, 116, 120 spectroscopy, 26, 27, 34, 136 spectrum, 25, 43 TT Tauri star, 125 speed of light, 32 telescope, 39–50 standard candle, 5, 209, 212 temperature, 21, 24, 28 star formation, 51, 109, 113 thermal pressure, 32, 83, 131, 133 rate, 57, 227 thermal pulse, 102, 123 stellar Thielemann, K.F., 221 evolution, 131 Thomson, G.P., 52 lifetime, 173 Thomson, J.J., 52 model, 90 thorium, 62, 167, 183 nucleosynthesis, 223, 230 tin, 97 nursery, 106 Tinsley, B., 226 wind, 56, 115, 125, 169 titanium, 73, 74, 152, 177 Sun, 54, 77–91 transmutation, 64, 225 age, 55 triple-α process, 98, 139, 143, 226 birth, 124–125 uranium, 3, 62, 66, 165, 167, 226 core temperature, 68 UV death, 129 astronomy, 40, 42, 47 density, 68, 79 radiation, 115 distance, 83 UVES (UltraViolet Echelle Spectrograph), 45 effective temperature, 231 expansion, 131–134 valley of stability, 67 internal structure, 85 vanadium, 182 life, 125–126 Very Large Telescope, 8, 41, 44, 45, 57, 185, 232 luminosity, 78, 231 visible astronomy, 42 mass, 231 radius, 78, 231 as red giant, 132 stability, 126, 134 surface temperature, 78 as white dwarf, 129, 134 sunlight, 32 SUPER KAMIOKANDE, 88 white dwarf, 42, 98, 114, 129, 134, 153, 202 superluminal velocity, 105, 121 Wilson, R.W., 230 supernova, 1, 4, 5, 56, 66, 71, 94, 101, 157–158, 168, 174 Wolf–Rayet star, 1, 56, 72, 119 1987A, 3, 6, 25, 62, 150, 163 Woosley, S., 221 1997ef, 163 X-ray, 6 1998bw, 160, 163 astronomy, 42, 47, 117 cocktail, 180 line, 108 gravitational collapse, 123, 153, 157, 175, 180, 184 XEUS, 108 XMM (X-ray Multi-Mirror), 8, 43, 47, 232 remnant, 30, 43, 75, 116–117, 161 remote, 208 yield, 220, 221, 227 as standard candle, 5 thermonuclear, 123, 153–156, 184 zinc, 190 type I (SNI), 153 Zwicky, F., 5

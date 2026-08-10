@@ -1,0 +1,3778 @@
+# David Tong Lectures on Topics in Quantum Mechanicstopicsinqm
+
+> 来源文件：pre_David_Tong_Lectures_on_Topics_in_Quantum_Mechanicstopicsinqm.txt
+> 字符数（约）：427544
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Topics in Quantum Mechanics University of Cambridge Part II Mathematical Tripos David Tong Department of Applied Mathematics and Theoretical Physics, Centre for Mathematical Sciences, Wilberforce Road, Cambridge, CB3 OBA, UK http://www.damtp.cam.ac.uk/user/tong/topicsinqm.html d.tong@damtp.cam.ac.uk
+
+Recommended Books and Resources There are many good books on quantum mechanics. Here’s a selection that I like: • Griffiths, Introduction to Quantum Mechanics An excellent way to ease yourself into quantum mechanics, with uniformly clear explanations. For this course, it covers both approximation methods and scattering.
+
+• Shankar, Principles of Quantum Mechanics • James Binney and David Skinner, The Physics of Quantum Mechanics • Weinberg, Lectures on Quantum Mechanics These are all good books, giving plenty of detail and covering more advanced topics. Shankar is expansive, Binney and Skinner clear and concise. Weinberg likes his own notation more than you will like his notation, but it’s worth persevering.
+
+• John Preskill, Course on Quantum Computation Preskill’s online lecture course has become the default resource for topics on quantum foundations.
+
+A number of lecture notes are available on the web. Links can be found on the course webpage: http://www.damtp.cam.ac.uk/user/tong/topicsinqm.html
+
+Contents
+
+## 0. Introduction
+
+## 1. Discrete Symmetries
+
+## 1.1 Parity
+
+1.1.1 Parity as a Quantum Number 1.1.2 Intrinsic Parity
+
+## 1.2 Time Reversal Invariance
+
+1.2.1 Time Reversal is an Anti-Unitary Operator 1.2.2 An Example: Spinless Particles 1.2.3 Another Example: Spin 1.2.4 Kramers Degeneracy
+
+## 2. Approximation Methods
+
+## 2.1 The Variational Method
+
+2.1.1 An Upper Bound on the Ground State 2.1.2 An Example: The Helium Atom 2.1.3 Do Bound States Exist?
+
+2.1.4 An Upper Bound on Excited States
+
+## 2.2 WKB
+
+2.2.1 The Semi-Classical Expansion 2.2.2 A Linear Potential and the Airy Function 2.2.3 Bound State Spectrum 2.2.4 Bohr-Sommerfeld Quantisation 2.2.5 Tunnelling out of a Trap
+
+## 2.3 Changing Hamiltonians, Fast and Slow
+
+2.3.1 The Sudden Approximation 2.3.2 An Example: Quantum Quench of a Harmonic Oscillator 2.3.3 The Adiabatic Approximation 2.3.4 Berry Phase 2.3.5 An Example: A Spin in a Magnetic Field 2.3.6 The Born-Oppenheimer Approximation 2.3.7 An Example: Molecules
+
+## 3. Atoms
+
+## 3.1 Hydrogen
+
+3.1.1 A Review of the Hydrogen Atom 3.1.2 Relativistic Motion 3.1.3 Spin-Orbit Coupling and Thomas Precession 3.1.4 Zitterbewegung and the Darwin Term 3.1.5 Finally, Fine-Structure 3.1.6 Hyperfine Structure 3.1.7 Atoms in an Expanding Universe
+
+## 3.2 Atomic Structure
+
+3.2.1 A Closer Look at the Periodic Table 3.2.2 Helium and the Exchange Energy 3.2.3 An Instability of (Very) Large Nuclei
+
+## 3.3 Self-Consistent Field Method
+
+3.3.1 The Hartree Method 3.3.2 The Slater Determinant 3.3.3 The Hartree-Fock Method
+
+## 4. Atoms in Electromagnetic Fields
+
+## 4.1 The Stark Effect
+
+4.1.1 The Linear Stark Effect 4.1.2 The Quadratic Stark Effect 4.1.3 A Little Nazi-Physics History
+
+## 4.2 The Zeeman Effect
+
+4.2.1 Strong(ish) Magnetic Fields 4.2.2 Weak Magnetic Fields 4.2.3 The Discovery of Spin
+
+## 4.3 Shine a Light
+
+4.3.1 Rabi Oscillations 4.3.2 Spontaneous Emission 4.3.3 Selection Rules
+
+## 4.4 Photons
+
+4.4.1 The Hilbert Space of Photons 4.4.2 Coherent States 4.4.3 The Jaynes-Cummings Model
+
+## 5. Quantum Foundations
+
+## 5.1 Entanglement
+
+5.1.1 The Einstein, Podolsky, Rosen “Paradox” 5.1.2 Bell’s Inequality 5.1.3 CHSH Inequality 5.1.4 Entanglement Between Three Particles 5.1.5 The Kochen-Specker Theorem
+
+## 5.2 Entanglement is a Resource
+
+5.2.1 The CHSH Game 5.2.2 Dense Coding 5.2.3 Quantum Teleportation 5.2.4 Quantum Key Distribution
+
+## 5.3 Density Matrices
+
+5.3.1 The Bloch Sphere 5.3.2 Entanglement Revisited 5.3.3 Entropy
+
+## 5.4 Measurement
+
+5.4.1 Projective Measurements 5.4.2 Generalised Measurements 5.4.3 The Fate of the State
+
+## 5.5 Open Systems
+
+5.5.1 Quantum Maps 5.5.2 Decoherence 5.5.3 The Lindblad Equation
+
+## 6. Scattering Theory
+
+## 6.1 Scattering in One Dimension
+
+6.1.1 Reflection and Transmission Amplitudes 6.1.2 Introducing the S-Matrix 6.1.3 A Parity Basis for Scattering 6.1.4 Bound States 6.1.5 Resonances
+
+## 6.2 Scattering in Three Dimensions
+
+6.2.1 The Cross-Section 6.2.2 The Scattering Amplitude 6.2.3 Partial Waves 6.2.4 The Optical Theorem 6.2.5 An Example: A Hard Sphere and Spherical Bessel Functions 6.2.6 Bound States 6.2.7 Resonances
+
+## 6.3 The Lippmann-Schwinger Equation
+
+6.3.1 The Born Approximation 6.3.2 The Yukawa Potential and the Coulomb Potential 6.3.3 The Born Expansion
+
+## 6.4 Rutherford Scattering
+
+6.4.1 The Scattering Amplitude
+
+## 6.5 Scattering Off a Lattice
+
+6.5.1 The Bragg Condition 6.5.2 The Structure Factor 6.5.3 The Debye-Waller Factor
+
+Acknowledgements The Cambridge mathematics tripos includes a course called “Applications of Quantum Mechanics”. It is something of a hybrid, containing some topics from these notes (the Variational Principle, and Scattering Theory), together with an introduction to Solid State Physics. I have chosen to split these into two, more traditionally-titled sets of notes, with Lectures on Solid State Physics carved off separately.
+
+If you’re a Cambridge student, the relevant chapters making up the lectures on Applications of Quantum Mechanics can be found here.
+
+## 0. Introduction
+
+“The true meaning of quantum mechanics can be found in the answers it gives about the world we inhabit.” Me, in a previous set of lecture notes.
+
+Our previous courses on quantum mechanics were largely focussed on understanding the mathematical formalism of the subject. The purpose of this course is to put this understanding to use.
+
+The applications of quantum mechanics are many and varied, and vast swathes of modern physics fall under this rubric. Many of these applications naturally fall into different lectures, such as Solid State Physics or Statistical Physics or, if we include relativity into the mix, Particle Physics and Quantum Field Theory. In these lectures we cover a number of topics that didn’t have such a natural home. This means that we’re left with something of a mishmash of topics.
+
+The first two chapters describe tools that are useful in the study of many different quantum system: they cover the role of discrete symmetries in quantum mechanics, and the use of approximation methods to solve quantum systems. Subsequent chapters are more focussed on specific quantum systems.
+
+We devote a significant amount of time to atomic physics. Current research in atomic physics is largely devoted to exquisitely precise manipulation of cold atoms, bending them to our will. Here, our focus is more old-fashioned and we look only at the foundations of the subject, including the detailed spectrum of the hydrogen atom, and a few tentative steps towards understanding the structure of many-electron atoms. We also describe the various responses of atoms to electromagnetic prodding.
+
+We devote one chapter of these notes to revisiting some of the foundational aspects of quantum mechanics, starting with the important role played by entanglement as a way to distinguish between a quantum and classical world. We will provide a more general view of the basic ideas of states and measurements, as well as an introduction to the quantum mechanics of open systems.
+
+The final topic is scattering theory. In the past century, physicists have developed a foolproof and powerful method to understand everything and anything: you take the object that you’re interested in and you throw something at it. This technique was pioneered by Rutherford who used it to understand the structure of the atom. It was used by Franklin, Crick and Watson to understand the structure of DNA. And, more recently, it was used at the LHC to demonstrate the existence of the Higgs boson. In fact, throwing stuff at other stuff is the single most important experimental method known to science. It underlies much of what we know about condensed matter physics and all of what we know about high-energy physics.
+
+In many ways, these lectures are where theoretical physics starts to fracture into separate sub-disciplines. Yet areas of physics which study systems separated by orders of magnitude — from the big bang, to stars, to materials, to information, to atoms and beyond — all rest on a common language and background. These lectures build this shared base of knowledge.
+
+## 1. Discrete Symmetries
+
+In this section, we discuss the implementation of discrete symmetries in quantum mechanics. Our symmetries of choice are parity, a spatial reflection, and time reversal.
+
+## 1.1 Parity
+
+A cartoon picture of parity is to take a state and turn it into its image as seen in a mirror. This is best viewed as an action on space itself. In three spatial dimensions, we usually take parity to act as P : x → −x (1.1)
+
+More generally, in d spatial dimensions the parity operator is a linear map on the d spatial coordinates such that P ∈ O(d) and det P = −1. This means, in particular, that the definition (1.1) is good whenever d is odd, but not good when d is even where it coincides with a rotation. A definition which works in all dimensions is simply P : x1 → −x1 and P : xi → xi for all i ≠ 1, which differs from (1.1) by a spatial rotation.
+
+Here we will restrict attention to d = 1 and d = 3, where the definition (1.1) is the standard one. We can use this to tell us how the classical state of a particle changes. Recall that, classically, the state of a particle is defined by a point (x,p) in phase space. Since p = mx˙, parity must act as P : (x,p) → (−x,−p) (1.2)
+
+Here our interest lies in quant um mechanics so we want to introduce a parity operator which acts on the Hilbert space. We call this operator π. It is natural to define π by its action on the position basis, π|x⟩ = |−x⟩ (1.3)
+
+This means that, when acting on wavefunctions, π : ψ(x) → ψ(−x)
+
+Note that, in contrast to continuous symmetries, there is no one-parameter family of transformations. You don’t get to act by a little bit of parity: you either do it or you don’t. Recall that for continuous symmetries, the action on the Hilbert space is implemented by a unitary operator U while its infinitesimal form U ≈ 1+iϵT (with ϵ small) yields the Hermitian operator T called the “generator”. In contrast, the parity operator π is both unitary and Hermitian. This follows from π†π = 1 and π² = 1 ⇒ π = π† = π⁻¹ (1.4)
+
+Given the action of parity on the classical state (1.2), we should now derive how it acts on any other states, for example the momentum basis |p⟩. It’s not difficult to check that (1.3) implies π|p⟩ = |−p⟩ as we might expect from our classical intuition. This essentially follows because p = −iℏ∂/∂x in the position representation. Alternatively, you can see it from the form of the plane waves.
+
+The Action of Parity on Operators We can also define the parity operator by its action on the operators. From our discussion above, we have πxπ† = −x and πpπ† = −p Using this, together with (1.4), we can deduce the action of parity on the angular momentum operator L = x×p, πLπ† = +L (1.5)
+
+We can also ask how parity acts on the spin operator S. Because this is another form of angular momentum, we take πSπ† = +S (1.6)
+
+This ensures that the total angular momentum J = L+S also transforms as πJπ† = +J. In general, an object V which transforms under both rotations and parity in the same way as x, so that πVπ† = −V, is called a vector. (You may have heard this name before!) In contrast, an object like angular momentum which rotates like x but transforms under parity as πVπ† = +V is called a pseudo-vector. Similarly, an object K which is invariant under both rotations and parity, so that πKπ† = K is called a scalar. However, if it is invariant under rotations but odd under parity, so πKπ† = −K, is called a pseudo-scalar. An example of a pseudo-scalar in quantum mechanics is p·S.
+
+Although we’ve introduced these ideas in the context of quantum mechanics, they really descend from classical mechanics. There too, x and p are examples of vectors: they flip sign in a mirror. Meanwhile, L = x×p is a pseudo-vector: it remains pointing in the same direction in a mirror. In electromagnetism, the electric field E is a vector, while the magnetic field B is a pseudo-vector, P : E → −E , P : B → +B
+
+1.1.1 Parity as a Quantum Number The fact that the parity operator is Hermitian means that it is, technically, an observable. More pertinently, we can find eigenstates of the parity operator π|ψ⟩ = η |ψ⟩ where η is called the parity of the state |ψ⟩. Using the fact that π² = 1, we have π²|ψ⟩ = η²|ψ⟩ = |ψ⟩ ⇒ η = ±1 So the parity of a state can only take two values. States with η = +1 are called parity even; those with η = −1 parity odd.
+
+The parity eigenstates are particularly useful when parity commutes with the Hamiltonian, πHπ† = H ⇔ [π,H] = 0 In this case, the energy eigenstates can be assigned definite parity. This follows immediately when the energy level is non-degenerate. But even when the energy level is degenerate, general theorems of linear algebra ensure that we can always pick a basis within the eigenspace which have definite parity.
+
+An Example: The Harmonic Oscillator As a simple example, let’s consider the one-dimensional harmonic oscillator. The Hamiltonian is H = p²/2m + mω²x²/2 The simplest way to build the Hilbert space is to introduce raising and lowering operators a ~ (x+ip/mω) and a† ~ (x−ip/mω) (up to a normalisation constant). The ground state |0⟩ obeys a|0⟩ = 0 while higher states are built by |n⟩ ~ (a†)ⁿ|0⟩ (again, ignoring a normalisation constant).
+
+The Hamiltonian is invariant under parity: [π,H] = 0, which means that all energy eigenstates must have a definite parity. Since the creation operator a† is linear in x and p, we have πa†π = −a† This means that the parity of the state |n+1⟩ is π|n+1⟩ = πa†|n⟩ = −a†π|n⟩ ⇒ η_{n+1} = −η_n We learn that the excited states alternate in their parity. To see their absolute value, we need only determine the parity of the ground state. This is ψ₀(x) = ⟨x|0⟩ ~ exp(−mωx²/2ℏ)
+
+Since the ground state doesn’t change under reflection we have η₀ = +1 and, in general, η_n = (−1)ⁿ.
+
+Another Example: Three-Dimensional Potentials In three dimensions, the Hamiltonian takes the form H = −ℏ²∇²/2m + V(x) (1.7)
+
+This is invariant under parity whenever we have a central force, with the potential depending only on the distance from the origin: V(x) = V(r). In this case, the energy eigenstates are labelled by the triplet of quantum numbers n,l,m that are familiar from the hydrogen en atom, and the wavefunctions take the form ψ_{n,l,m}(x) = R_{n,l}(r)Y_{l,m}(θ,ϕ) (1.8)
+
+How do these transform under parity? First note that parity only acts on the spherical harmonics Y_{l,m}(θ,ϕ). In spherical polar coordinates, parity acts as
+
+P : (r,θ,ϕ) → (r,π −θ,ϕ+π)
+
+The action of parity of the wavefunctions therefore depends on how the spherical harmonics transform under this change of coordinates. Up to a normalisation, the spherical harmonics are given by
+
+Y_{l,m} ∼ e^{imϕ}P_l^m(cosθ)
+
+where P_l^m(x) are the associated Legendre polynomials. As we will now argue, the transformation under parity is
+
+P : Y_{l,m}(θ,ϕ) → Y_{l,m}(π −θ,ϕ+π) = (−1)^l Y_{l,m}(θ,ϕ) (1.9)
+
+This means that the wavefunction transforms as
+
+P : ψ_{n,l,m}(x) → ψ_{n,l,m}(−x) = (−1)^l ψ_{n,l,m}(x)
+
+Equivalently, written in terms of the state |n,l,m⟩, where ψ_{n,l,m}(x) = ⟨x|n,l,m⟩, we have
+
+π|n,l,m⟩ = (−1)^l |n,l,m⟩ (1.10)
+
+It remains to prove the parity of the spherical harmonic (1.9). There's a trick here. We start by considering the case l = m where the spherical harmonics are particularly simple. Up to a normalisation factor, they take the form
+
+Y_{l,l}(θ,ϕ) ∼ e^{ilϕ}sin^lθ
+
+So in this particular case, we have
+
+P : Y_{l,l}(θ,ϕ) → Y_{l,l}(π −θ,ϕ+π) = e^{ilϕ}e^{ilπ}sin^l(π −θ) = (−1)^l Y_{l,l}(θ,ϕ)
+
+confirming (1.9). To complete the result, we show that the parity of a state cannot depend on the quantum number m. This follows from the transformation of angular momentum (1.5) which can also be written as [π,L] = 0. But recall that we can change the quantum number m by acting with the raising and lowering operators L_± = L_x ± iL_y. So, for example,
+
+π|n,l,l−1⟩ = πL_−|n,l,l⟩ = L_−π|n,l,l⟩ = (−1)^l L_−|n,l,l⟩ = (−1)^l |n,l,l−1⟩
+
+Repeating this argument shows that (1.10) holds for all m.
+
+Parity and Spin
+
+We can also ask how parity acts on the spin states, |s,m_s⟩ of a particle. We know from (1.6) that the operator S is a pseudo-vector, and so obeys [π,S] = 0. The same argument that we used above for angular momentum L can be re-run here to tell us that the parity of the state cannot depend on the quantum number m_s. It can, however, depend on the spin s,
+
+π|s,m_s⟩ = η_s |s,m_s⟩
+
+What determines the value of η_s? Well, in the context of quantum mechanics nothing determines η_s! In most situations we are dealing with a bunch of particles all of the same spin (e.g. electrons, all of which have s = 1/2). Whether we choose η_s = +1 or η_s = −1 has no ultimate bearing on the physics. Given that it is arbitrary, we usually pick η_s = +1.
+
+There is, however, a caveat to this story. Within the framework of quantum field theory it does make sense to assign different parity transformations to different particles. This is equivalent to deciding whether η_s = 1 or η_s = −1 for each particle. We will discuss this in Section 1.1.2.
+
+What is Parity Good For?
+
+We've learned that if we have a Hamiltonian that obeys [π,H] = 0, then we can assign each energy eigenstate a sign, ±1, corresponding to whether it is even or odd under parity. But, beyond gaining a rough understanding of what wavefunction in one-dimension look like, we haven't yet said why this is a useful thing to do. Here we advertise some later results that will hinge on this:
+
+• There are situations where one starts with a Hamiltonian that is invariant under parity and adds a parity-breaking perturbation. The most common situation is to take an electron with Hamiltonian (1.7) and turn on a constant electric field E, so the new Hamiltonian reads
+
+H = −(ℏ²/2m)∇² + V(r) − ex·E
+
+This no longer preserves parity. For small electric fields, we can solve this using perturbation theory. However, this is greatly simplified by the fact that the original eigenstates have a parity quantum number. Indeed, in nearly all situations first-order perturbation theory can be shown to vanish completely. We will describe this in some detail in Section 4.1 where we look at a hydrogen atom in an electric field and the resulting Stark effect.
+
+• In atomic physics, electrons sitting in higher states will often drop down to lower states, emitting a photon as they go. This is the subject of spectroscopy. It was one of the driving forces behind the original development of quantum mechanics and will be described in some detail in Section 4.3. But it turns out that an electron in one level can't drop down to any of the lower levels: there are selection rules which say that only certain transitions are allowed. These selection rules follow from the "conservation of parity". The final state must have the same parity as the initial state.
+
+• It is often useful to organise degenerate energy levels into a basis of parity eigenstates. If nothing else, it tends to make calculations much more straightforward. We will see an example of this in Section 6.1.3 where we discuss scattering in one dimension.
+
+1.1.2 Intrinsic Parity
+
+There is a sense in which every kind particle can be assigned a parity ±1. This is called intrinsic parity. To understand this, we really need to move beyond the framework of non-relativistic quantum mechanics and into the framework of quantum field theory. The key idea of quantum field theory is that the particles are ripples of an underlying field, tied into little bundles of energy by quantum mechanics. Whereas in quantum mechanics, the number of particles is fixed, in quantum field theory the Hilbert space (sometimes called a Fock space) contains states with different particle numbers. This allows us to describe various phenomena where we smash two particles together and many emerge.
+
+In quantum field theory, every particle is described by some particular state in the Hilbert space. And, just as we assigned a parity eigenvalue to each state above, it makes sense to assign a parity eigenvalue to each kind of particle.
+
+To determine the total parity of a configuration of particles in their centre-of-momentum frame, we multiply the intrinsic parities together with the angular momentum parity. For example, if two particles A and B have intrinsic parity η_A and η_B and relative angular momentum L, then the total parity is η = η_A η_B (-1)^L.
+
+To give some examples: by convention, the most familiar spin-1 particles all have even parity: electron: η = +1; proton: η = +1; neutron: η = +1.
+
+Each of these has an anti-particle. (The anti-electron is called the positron; the others have the more mundane names anti-proton and anti-neutron). Anti-particles always have opposite quantum numbers to particles and parity is no exception: they all have η = -1.
+
+All other particles are also assigned an intrinsic parity. As long as the underlying Hamiltonian is invariant under parity, all processes must conserve parity. This is a useful handle to understand what processes are allowed. It is especially useful when discussing the strong interactions where the elementary quarks can bind into a bewildering number of other particles – protons and neutrons, but also pions and kaons and etas and rho mesons and omegas and sigmas and deltas. As you can see, the names are not particularly imaginative. There are hundreds of these particles. Collectively they go by the name hadrons.
+
+Often the intrinsic parity of a given hadron can be determined experimentally by observing a decay process. Knowing that parity is conserved uniquely fixes the parity of the particle of interest. Other decay processes must then be consistent with this.
+
+An Example: π−d → nn
+
+The simplest of the hadrons are a set of particles called pions. We now know that each contains a quark-anti-quark pair. Apart from the proton and neutron, these are the longest lived of the hadrons.
+
+The pions come in three types: neutral, charge +1 and charge −1 (in units where the electron has charge −1). They are labelled π0, π+ and π− respectively. The π− is observed experimentally to decay when it scatters off a deuteron, d, which is a stable bound state of a proton and neutron. (We showed the existence of such a bound state in Section 2.1.3 as an application of the variational method.) After scattering off a deuteron, the end product is two neutrons. We write this process rather like a chemical reaction π−d → nn.
+
+From this, we can determine the intrinsic parity of the pion. First, we need some facts. The pion has spin s_π = 0 and the deuteron has spin s_d = 1; the constituent proton and neutron have no orbital angular momentum so the total angular momentum of the deuteron is also J = 1. Finally, the pion scatters off the deuteron in the s-wave, meaning that the combined π−d system that we start with has vanishing orbital angular momentum. From all of this, we know that the total angular momentum of the initial state is J = 1.
+
+Since angular momentum is conserved, the final nn state must also have J = 1. Each individual neutron has spin s_n = 1/2. But there are two possibilities to get J = 1:
+
+• The spins could be anti-aligned, so that S = 0. Now the orbital angular momentum must be L = 1.
+
+• The spins could be aligned, so that the total spin is S = 1. In this case the orbital angular momentum of the neutrons could be L = 0 or L = 1 or L = 2. Recall that the total angular momentum J = L+S ranges from |L−S| to L+S and so for each of L = 0,1 and 2 it contains the possibility of a J = 1 state.
+
+How do we distinguish between these? It turns out that only one of these possibilities is consistent with the fermionic nature of the neutrons. Because the end state contains two identical fermions, the overall wavefunction must be anti-symmetric under exchange.
+
+Let’s first consider the case where the neutron spins are anti-aligned, so that their total spin is S = 0. The spin wavefunction is |S = 0⟩ = (|↑⟩|↓⟩−|↓⟩|↑⟩)/√2, which is anti-symmetric. This means that the spatial wavefunction must be symmetric. But this requires that the total angular momentum is even: L = 0,2,.... We see that this is inconsistent with the conservation of angular momentum. We can therefore rule out the spin S = 0 scenario.
+
+(An aside: the statement that wavefunctions are symmetric under interchange of particles only if L is even follows from the transformation of the spherical harmonics under parity (1.9). Now the polar coordinates (r,θ,ϕ) parameterise the relative separation between particles. Interchange of particles is then implemented by (r,θ,ϕ) → (r,π −θ,ϕ+π).)
+
+Let’s now move onto the second option where the total spin of neutrons is S = 1. Here the spin wavefunctions are symmetric, with the three choices depending on the quantum number m = −1,0,+1, |↑⟩|↓⟩+|↓⟩|↑⟩ |S = 1,1⟩ = |↑⟩|↑⟩ , |S = 1,0⟩ = √ , |S = 1,−1⟩ = |↓⟩|↓⟩ Once again, the total wavefunction must be anti-symmetric, which means that the spatial part must be anti-symmetric. This, in turn, requires that the orbital angular momentum of the two neutrons is odd: L = 1,3,.... Looking at the options consistent with angular momentum conservation, we see that only the L = 1 state is allowed. Having figured out the angular momentum, we’re now in a position to discuss parity. The parity of each neutron is η_n = +1. The parity of the proton is also η_p = +1 and since these two particles have no angular momentum in their deuteron bound state, we have η_d = η_n η_p = +1. Conservation of parity then tells us η_π η_d = (η_d)^2(-1)^L ⇒ η_π = -1
+
+Parity and the Fundamental Forces Above, I said that parity is conserved if the underlying Hamiltonian is invariant under parity. So one can ask: are the fundamental laws of physics, at least as we currently know them, invariant under parity? The answer is: some of them are. But not all. In our current understanding of the laws of physics, there are five different ways in which particles can interact: through gravity, electromagnetism, the weak nuclear force, the strong nuclear force and, finally, through the Higgs field. The first four of these are usually referred to as “fundamental forces”, while the Higgs field is kept separate. For what it’s worth, the Higgs has more in common with three of the forces than gravity does and one could make an argument that it too should be considered a “force”.
+
+Of these five interactions, four appear to be invariant under parity. The misfit is the weak interaction. This is not invariant under parity, which means that any process which occurs through the weak interaction — such as beta decay — need not conserve parity. Violation of parity in experiments was first observed by Chien-Shiung Wu in 1956.
+
+To the best of our knowledge, the Hamiltonians describing the other four interactions are invariant under parity. In many processes – including the pion decay described above – the strong force is at play and the weak force plays no role. In these cases, parity is conserved.
+
+## 1.2 Time Reversal Invariance
+
+Time reversal holds a rather special position in quantum mechanics. As we will see, it is not like other symmetries. The idea of time reversal is simple: take a movie of the system in motion and play it backwards. If the system is invariant under the symmetry of time reversal, then the dynamics you see on the screen as the movie runs backwards should also describe a possible evolution of the system. Mathematically, this means that we should replace t → -t in our equations and find another solution.
+
+Classical Mechanics Let’s first look at what this means in the context of classical mechanics. As our first example, consider the Newtonian equation of motion for a particle of mass m moving in a potential V, mẍ = -∇V(x)
+
+Such a system is invariant under time reversal: if x(t) is a solution, then so too is x(-t).
+
+As a second example, consider the same system but with the addition of a friction term. The equation of motion is now mẍ = -∇V(x) - γẋ This system is no longer time invariant. Physically, this should be clear: if you watch a movie of some guy sliding along in his socks until he comes to rest, it’s pretty obvious if it’s running forward in time or backwards in time. Mathematically, if x(t) is a solution, then x(-t) fails to be a solution because the equation of motion includes a term that is first order in the time derivative.
+
+At a deeper level, the first example above arises from a Hamiltonian while the second example, involving friction, does not. One might wonder if all Hamiltonian systems are time reversal invariant. This is not the case. As our final example, consider a particle of charge q moving in a magnetic field. The equation of motion is mẍ = qẋ × B   (1.11)
+
+Once again, the equation of motion includes a term that is first order in time derivatives, which means that the time reversed motion is not a solution. This time it occurs because particles always move with a fixed handedness in the presence of a magnetic field: they either move clockwise or anti-clockwise in the plane perpendicular to B.
+
+Although the system described by (1.11) is not invariant under time reversal, if you’re shown a movie of the solution running backwards in time, then it won’t necessarily be obvious that this is unphysical. This is because the trajectory x(-t) does solve (1.11) if we also replace the magnetic field B with -B. For this reas on, we sometimes say that the background magnetic field flips sign under time reversal. (Alternatively, we could choose to keep B unchanged, but flip the sign of the charge: q → −q. The standard convention, however, is to keep charges unchanged under time reversal.) We can gather together how various quantities transform under time reversal, which we’ll denote as T. Obviously T : t → −t. Meanwhile, the standard dynamical variables, which include position x and momentum p = mx˙, transform as T : x(t) → x(−t) , T : p(t) → −p(−t) (1.12)
+
+Finally, as we’ve seen, it can also useful to think about time reversal as acting on background fields. The electric field E and magnetic field B transform as T : E → E , T : B → −B
+
+These simple considerations will be useful as we turn to quantum mechanics.
+
+**Quantum Mechanics**
+
+We’ll now try to implement these same ideas in quantum mechanics. As we will see, there is something of a subtlety. This is first apparent if we look at the time-dependent Schrödinger equation,
+
+iℏ ∂ψ/∂t = Hψ (1.13)
+
+We’ll assume that the Hamiltonian H is invariant under time reversal. (For example, H = p²/2m + V(x).) One might naively think that the wavefunction should evolve in a manner compatible with time reversal. However, the Schrödinger equation is first order in time derivatives and this tells us something which seems to go against this intuition: if ψ(t) is a solution then ψ(−t) is not, in general, another solution.
+
+To emphasise this, note that the Schrödinger equation is not very different from the heat equation, ∂ψ/∂t = κ∇²ψ. This equation clearly isn’t time reversal invariant, a fact which underlies the entire subject of thermodynamics. The Schrödinger equation (1.13) only differs by a factor of i. How does that save us? Well, it ensures that if ψ(t) is a solution, then ψ⋆(−t) is also a solution. This, then, is the action of time reversal on the wavefunction, T : ψ(t) → ψ⋆(−t) (1.14)
+
+The need to include the complex conjugation is what distinguishes time reversal from other symmetries that we have met.
+
+How do we fit this into our general scheme to describe the action of symmetries on operators and states? We’re looking for an operator Θ such that the time reversal maps any state |ψ⟩ to T : |ψ⟩ → Θ|ψ⟩
+
+Let’s think about what properties we want from the action of Θ. Classically, the action of time reversal on the state of a system leaves the positions unchanged, but flips the sign of all the momenta, as we saw in (1.12). Roughly speaking, we want Θ to do the same thing to the quantum state. How can we achieve this?
+
+Let’s first recall how we run a state forwards in time. The solution to (1.13) tells us that a state |ψ(0)⟩ evolves into a state |ψ(t)⟩ by the usual unitary evolution |ψ(t)⟩ = e^(−iHt/ℏ)|ψ(0)⟩
+
+Suppose now that we instead take the time reversed state Θ|ψ(0)⟩ and evolve this forward in time. If the Hamiltonian itself is time reversal invariant, the resulting state should be the time reversal of taking |ψ(0)⟩ and evolving it backwards in time. (Or, said another way, it should be the time reversal of |ψ(t)⟩, which is the same thing as Θ|ψ(−t)⟩.) While that’s a mouthful in words, it’s simple to write in equations: we want Θ to satisfy Θ e^(+iHt/ℏ)|ψ(0)⟩ = e^(−iHt/ℏ) Θ|ψ(0)⟩
+
+Expanding this out for infinitesimal time t, we get the requirement Θ iH = −iHΘ (1.15)
+
+Our job is to find a Θ obeying this property.
+
+At this point there’s a right way and a wrong way to proceed. I’ll first describe the wrong way because it’s the most tempting path to take. It’s natural to manipulate (1.15) by cancelling the factor of i on both sides to leave us with ΘH + HΘ = 0 ? (1.16)
+
+Although natural, this is wrong! It’s simple to see why. Suppose that we have an eigenstate |ψ⟩ obeying H|ψ⟩ = E|ψ⟩. Then (1.16) tells us that HΘ|ψ⟩ = −ΘH|ψ⟩ = −E Θ|ψ⟩. So every state of energy E must be accompanied by a time-reversed state of energy −E. But that’s clearly nonsense. We know it’s not true of the harmonic oscillator.
+
+So what did we do wrong? Well, the incorrect step was seemingly the most innocuous one: we are not allowed to cancel the factors of i on either side of (1.15). To see why, we need to step back and look at a little linear algebra.
+
+**1.2.1 Time Reversal is an Anti-Unitary Operator**
+
+Usually in quantum mechanics we deal with linear operators acting on the Hilbert space. The linearity means that the action of an operator A on superpositions of states is A(α|ψ₁⟩ + β|ψ₂⟩) = αA|ψ₁⟩ + βA|ψ₂⟩
+
+with α,β ∈ ℂ. In contrast, an anti-linear operator B obeys the modified condition B(α|ψ₁⟩ + β|ψ₂⟩) = α⋆B|ψ₁⟩ + β⋆B|ψ₂⟩ (1.17)
+
+This complex conjugation is reminiscent of the transformation of the wavefunction (1.14) under time reversal. Indeed, we will soon see how they are related.
+
+The strange action (1.17) means that an anti-linear operator B doesn’t even commute with a constant α ∈ ℂ (which, here, we view as a particular simple operator which multiplies each state by α). Instead, when B是反线性的，我们有 Bα = α⋆B 但这正是我们需要用来解决上面发现问题的方法。如果我们取Θ为一个反线性算符，那么当我们将左边式子(1.15)中的因子i拉过Θ时，它会被复共轭。这个额外的负号意味着我们找到的是(1.18)而不是(1.16)： [Θ,H] = 0 (1.18)
+
+这看起来更熟悉了。确实，我们之前看到这通常意味着系统中存在一个守恒量。然而，情况并非如此：守恒量只出现在线性算符与H对易的情况下。尽管如此，我们将会看到(1.18)对于时间反演还有一些其他有趣的含义。
+
+我们上面看到，如果时间反演由一个反线性算符Θ来实施，我们就规避了一个问题。还有另一个更直接的方式来看到这必须是这种情况。这通过考虑它在算符x和p上的作用而产生。类比于经典作用(1.12)，我们要求 ΘxΘ−1 = x , ΘpΘ−1 = −p (1.19)
+
+然而，量子力学有一个进一步的要求：这些算符之间的对易关系在时间反演下应该保持不变。特别是，我们必须有 [x ,p ] = iℏδ ⇒ Θ[x ,p ]Θ−1 = Θ(iℏδ )Θ−1 i j ij i j ij 我们看到，如果Θ是一个线性算符，变换(1.19)与对易关系不一致。但它是反线性算符的事实拯救了我们：右边式子中算符之间夹着的因子i被复共轭了，方程变为 Θ[x ,p ]Θ−1 = −iℏδ ，这与(1.19)愉快地一致。
+
+i j ij
+
+线性代数与反线性算符时间反演由一个反线性算符Θ描述。这意味着我们将不得不花一点时间理解这些特殊算符的性质。我们知道Θ作用于希尔伯特空间H如(1.17)。但它如何作用于对偶希尔伯特空间（由左矢bra构成）？回想一下，根据定义，每个左矢⟨ϕ|都应被视为一个从H到C的线性映射。对于一个线性算符A，这足以告诉我们如何理解A作用于对偶希尔伯特空间。对偶态⟨ϕ|A定义为 (⟨ϕ|A)|ψ⟩ = ⟨ϕ|(A|ψ⟩) (1.20)
+
+这个定义的结果是，我们可以直接去掉括号，谈论⟨ϕ|A|ψ⟩，因为无论我们将其解释为A从右边作用还是从左边作用，结果都无关紧要。
+
+相比之下，如果我们处理的是一个反线性算符B，事情就更繁琐了。我们希望定义⟨ϕ|B。问题在于，我们希望⟨ϕ|B属于对偶希尔伯特空间，这意味着即使B是反线性算符，它也必须是一个线性算符。但如果我们只是重复定义(1.20)，那么很容易验证⟨ϕ|B从B那里继承了反线性的行为，因此不属于对偶希尔伯特空间。为了解决这个问题，我们修改了⟨ϕ|B的定义，对于反线性算符为： (⟨ϕ|B)|ψ⟩ = [⟨ϕ|(B|ψ⟩)]⋆ (1.21)
+
+这特别意味着，对于反线性算符，我们永远不应该写⟨ϕ|B|ψ⟩，因为根据B是作用在右边的右矢ket上还是左边的左矢bra上，我们会得到不同的答案。诚然，这很繁琐。最终，狄拉克的bra-ket记号不太适合反线性算符。
+
+我们的下一个任务是定义伴随算符。回想一下，对于线性算符A，伴随A†由要求⟨ϕ|A†|ψ⟩ = ⟨ψ|A|ϕ⟩⋆定义。对于反线性算符B，我们该怎么做？正确的定义现在是： ⟨ϕ|(B†|ψ⟩) = [(⟨ψ|B)|ϕ⟩]⋆ = ⟨ψ|(B|ϕ⟩) (1.22)
+
+这确保了B†也是反线性的。最后，我们说一个反线性算符B是反幺正的，如果它也服从： B†B = BB† = 1
+
+反幺正算符守恒概率我们已经看到时间反演应该是反线性的。它也必须是反幺正的。这将确保时间反演下概率守恒。为了看到这一点，考虑态 |ϕ′⟩ = Θ|ϕ⟩ 和 |ψ′⟩ = Θ|ψ⟩。然后，使用我们上面的定义，我们有 ⟨ϕ′|ψ′⟩ = (⟨ϕ|Θ†)(Θ|ψ⟩) = [⟨ϕ|(Θ†Θ|ψ⟩)]⋆ = ⟨ϕ|ψ⟩⋆ 我们看到振幅的相位在时间反演下改变了，但概率，即 |⟨ϕ|ψ⟩|²，保持不变。
+
+1.2.2 一个例子：无自旋粒子到目前为止，我们只描述了时间反演算符Θ所需的性质。现在让我们看一些具体的例子。我们从一个单粒子开始，由哈密顿量 H = p²/2m + V(x)
+
+描述。要描述任何算符，只需定义它作用在状态基上的方式。时间反演算符也不例外，对于当前的例子，选择位置本征态 |x⟩ 作为基是合理的。因为Θ是反线性算符，重要的是我们为每个 |x⟩ 固定一个相位选择。（确切的选择无关紧要；只要我们做出一个选择即可。）然后我们定义时间反演算符为 Θ|x⟩ = |x⟩ (1.23)
+
+如果Θ是一个线性算符，这个定义将意味着它必须等于恒等算符。但相反，Θ是反线性的，并且它作用在与我们选择的相位相差一个相位的状态上的行为…… space of basis |x⟩ is non-trivial Θ|x⟩ = |x⟩ In this case, the adjoint operator is simple Θ† = Θ. Indeed, it’s simple to see that Θ² = 1, as is required by unitarity.
+
+Let’s see what we can derive from this. First, we can expand a general state |ψ⟩ as |ψ⟩ = d³x |x⟩⟨x|ψ⟩ = d³x ψ(x)|x⟩ where ψ(x) = ⟨x|ψ⟩ is the wavefunction in position variables. Time reversal acts as Θ|ψ⟩ = d³x Θ ψ(x) |x⟩ = d³x ψ⋆(x) Θ|x⟩ = d³x ψ⋆(x)|x⟩ We learn that time reversal acts on the wavefunction as complex conjugation: T : ψ(x) → ψ⋆(x). But this is exactly what we first saw in (1.14) from looking at the Schrödinger equation. We can also specialise to momentum eigenstates |p⟩. These can be written as |p⟩ = d³x e^{ip·x} |x⟩ Acting with time reversal, this becomes Θ|p⟩ = d³x Θ e^{ip·x} |x⟩ = d³x e^{-ip·x} |x⟩ = |-p⟩ which confirms our intuition that acting with time reversal on a state should leave positions invariant, but flip the momenta.
+
+Importantly, invariance under time reversal doesn’t lead to any degeneracy of the spectrum in this system. Instead, it’s not hard to show that one can always pick the phase of an energy eigenstate such that it is also an eigenstate of Θ. Ultimately, this is because of the relation Θ² = 1. (This statement will become clearer in the next section where we’ll see a system that does exhibit a degeneracy.)
+
+We can tell this same story in terms of operators. These can be expanded in terms of eigenstates, so we have x̂ = d³x x |x⟩⟨x| ⇒ Θ x̂ Θ = d³x x Θ|x⟩⟨x|Θ = x̂ and p̂ = d³p p |p⟩⟨p| ⇒ Θ p̂ Θ = d³p p Θ|p⟩⟨p|Θ = -p̂ where, in each case, we’ve reverted to putting a hat on the operator to avoid confusion. We see that this reproduces our expectation (1.19).
+
+Before we proceed, it will be useful to discuss one last property that arises when V(x) = V(|x|) is a central potential. In this case, the orbital angular momentum L = x×p is also conserved. From (1.19), we know that L should be odd under time reversal, meaning Θ L Θ⁻¹ = -L (1.24)
+
+We can also see how it acts on states. For a central potential, the energy eigenstates can be written in polar coordinates as ψ_{nlm}(x) = R_{nl}(r) Y_{lm}(θ,ϕ)
+
+The radial wavefunction R_{nl}(r) can always be taken to be real. Meanwhile, the spherical harmonics take the form Y_{lm}(θ,ϕ) = e^{imϕ} P_l^m(cosθ) with P_l^m an associated Legendre polynomial. From their definition, we find that these obey ψ_{nlm}⋆(x) = (-1)^m ψ_{nl,-m}(x) (1.25)
+
+Clearly this is consistent with Θ² = 1.
+
+1.2.3 Another Example: Spin Here we describe a second example that is both more subtle and more interesting: it is a particle carrying spin-1. To highlight the physics, we can forget about the position degrees of freedom and focus solely on the spin.
+
+Spin provides another contribution to angular momentum. This means that the spin operator S should be odd under time reversal, just like the orbital angular momentum (1.24)
+
+Θ S Θ⁻¹ = -S (1.26)
+
+For a spin-½ particle, we have S = (ℏ/2) σ with σ the vector of Pauli matrices. The Hilbert space is just two-dimensional and we take the usual basis of eigenvectors of S_z, chosen with a specific phase |+⟩ = [1, 0]ᵀ and |-⟩ = [0, 1]ᵀ so that S_z |±⟩ = ±(½) |±⟩. Our goal is to understand how the operator Θ acts on these states. We will simply state the correct form and then check that it does indeed reproduce (1.26). The action of time reversal is Θ|+⟩ = i|-⟩ , Θ|-⟩ = -i|+⟩ (1.27)
+
+Let’s look at some properties of this. First, consider the action of Θ², Θ²|+⟩ = Θ(i|-⟩) = -i Θ|-⟩ = -|+⟩ Θ²|-⟩ = Θ(-i|+⟩) = i Θ|+⟩ = -|-⟩ We see that Θ² = -1 (1.28)
+
+This is in contrast to the action of time reversal for a particle without spin (1.23). We will see shortly the consequences of Θ² = -1.
+
+Since there’s a lot of i’s floating around, let’s go slowly and use this as an opportunity to flesh out other properties of Θ. From (1.21), the action of Θ on the bras is ⟨+|Θ = i⟨-| , ⟨-|Θ = -i⟨+| Meanwhile, from (1.22), the adjoint operator Θ† is defined as Θ†|+⟩ = -i|-⟩ , Θ†|-⟩ = i|+⟩ We see that Θ† = -Θ which, given (1.28), ensures that Θ is anti-unitary.
+
+Now we can look at the action of Θ on the various spin operators. Expanding each in our chosen basis, and using the results above, we find S_x = |+⟩⟨-| + |-⟩⟨+| ⇒ Θ S_x Θ† = -S_x S_z = |+⟩⟨+| - |-⟩⟨-| ⇒ Θ S_z Θ† = -S_z S_y = -i |+⟩⟨-| + i |-⟩⟨+| ⇒ Θ S_y Θ† = -S_y as required.
+
+Time Reversal for General Spin We can generalise this discussion to a general particle carrying general spin s. (The formulae below also work for any angular momentum). The Hilbert space now has dimension 2s+1, and is spanned by the eigenstates of S_z S_z |m⟩ = mℏ |m⟩ m = -s,...,s We again require that the spin operators transform as (1.26) under time reversal. We can rewrite this requirement as Θ S = - S Θ. When applied to the eigenstates of S_z, this tells us S_z Θ|m⟩ = - Θ S_z |m⟩ = - mℏ Θ|m⟩ which is the statement that Θ|m⟩ is an eigenstate of S_z with eigenvalue -mℏ. But the eigenstates o f S are non-degenerate, so we must have Θ|m⟩ = α |−m⟩ for some choice of phase α which, as the notation shows, can depend on m.
+
+There’s a clever trick for figuring out how α depends on m. Consider the raising and lowering spin operators S± = Sx ± iSy. The action of time reversal is ΘS± Θ† = Θ(Sx ± iSy)Θ† = −Sx ± iSy = −S∓ (1.29)
+
+Now consider the action of S+ on Θ|m⟩, S+ Θ|m⟩ = α S+ |−m⟩ = α ℏ (s+m)(s−m+1)|−m+1⟩ Alternatively, we can use (1.29) to write S+ Θ|m⟩ = −ΘS− |m⟩ = −ℏ (s+m)(s−m+1)Θ|m−1⟩ = −α_{m-1} ℏ (s+m)(s−m+1)|−m+1⟩ We learn that α_m = −α_{m-1} The simplest choice is α = (−1)^m. Because m can be either integer or half-integer, we will write this as Θ|m⟩ = i^{2m}|−m⟩ This agrees with our earlier results, (1.25) for orbital angular momentum and (1.27)
+
+for spin-1. For now, the most important lesson to take from this is Θ^2 = 1  integer spin Θ^2 = −1  half-integer spin This result is quite deep. Ultimately it is associated to the fact that spin-half particles transform in the double cover of the rotation group, so that states pick up a minus sign when rotated by 2π. As we now show, it has consequences.
+
+1.2.4 Kramers Degeneracy It is not surprising that acting with time reversal twice brings us back to the same state. It is, however, surprising that sometimes we can return with a minus sign. As we have seen, this doesn’t happen for spinless particles, nor for particles with integer spin: in both of these situations we have Θ^2 = 1. However, when dealing with particles with half-integer spin, we instead have Θ^2 = −1.
+
+Time reversal with Θ^2 = 1 does not automatically lead to any further degeneracy of the spectrum. (We will, however, see a special case when we discuss the Stark effect in Section 4.1 where a degeneracy does arise.) In contrast, when Θ^2 = −1, there is always a degeneracy.
+
+To see this degeneracy, we argue by contradiction. Suppose that the spectrum is non-degenerate, so that there is a state such that Θ|ψ⟩ = α|ψ⟩ for some phase α. Then acting twice, we have Θ^2|ψ⟩ = α* Θ|ψ⟩ = |α|^2 |ψ⟩ = |ψ⟩ This means that a non-degenerate spectrum can only arise when Θ^2 = +1.
+
+In contrast, whenever we have a time-reversal system with Θ^2 = −1, all energy eigenstates must come in degenerate pairs. This is known as Kramers degeneracy.
+
+For the simple spin 1 system that we described in Section 1.2.3, the degeneracy is trivial: it is simply the statement that |+⟩ and |−⟩ have the same energy whenever the Hamiltonian is invariant under time reversal. If we want to split the energy levels, we need to add a term to the Hamiltonian like H = B·S which breaks time reversal.
+
+(Indeed, this ties in nicely with our classical discussion where we saw that the magnetic field breaks time reversal, changing as B → −B.)
+
+In more complicated systems, Kramers degeneracy can be a very powerful statement.
+
+For example, we know that electrons carry spin 1/2. The degeneracy ensures that in any time reversal invariant system which involves an odd number of electrons, all energy levels are doubly degenerate. This simple statement plays an important role in the subject of topological insulators in condensed matter physics.
+
+## 2. Approximation Methods
+
+Physicists have a dirty secret: we’re not very good at solving equations. More precisely, humans aren’t very good at solving equations. We know this because we have computers and they’re much better at solving things than we are.
+
+We usually do a good job of hiding this secret when teaching physics. In quantum physics we start with examples like the harmonic oscillator or the hydrogen atom and then proudly demonstrate how clever we all are by solving the Schrödinger equation exactly. But there are very very few examples where we can write down the solution in closed form. For the vast majority of problems, the answer is something complicated that isn’t captured by some simple mathematical formula. For these problems we need to develop different tools.
+
+You already met one of these tools in an earlier course: it’s called perturbation theory and it’s useful whenever the problem we want to solve is, in some sense, close to one that we’ve already solved. This works for a surprisingly large number of problems.
+
+Indeed, one of the arts of theoretical physics is making everything look like a coupled harmonic oscillator so that you can use perturbation theory. But there are also many problems for which perturbation theory fails dismally and we need to find another approach. In general, there’s no panacea, no universal solution to all problems in quantum mechanics. Instead, the best we can hope for is to build a collection of tools.
+
+Then, whenever we’re faced with a new problem we can root around in our toolbox, hoping to find a method that works. The purpose of this chapter is to stock up your toolbox.
+
+## 2.1 The Variational Method
+
+The variational method provides a simple way to place an upper bound on the ground state energy of any quantum system and is particularly useful when t trying to demonstrate that bound states exist. In some cases, it can also be used to estimate higher energy levels too.
+
+2.1.1 An Upper Bound on the Ground State
+
+We start with a quantum system with Hamiltonian H. We will assume that H has a discrete spectrum
+
+H|n⟩ = E_n |n⟩  n = 0,1,...
+
+with the energy eigenvalues ordered such that E_n ≤ E_{n+1}. The simplest application of the variational method places an upper bound on the value of the ground state energy E_0.
+
+Theorem: Consider an arbitrary state |ψ⟩. The expected value of the energy obeys the inequality ⟨E⟩ = ⟨ψ|H|ψ⟩ ≥ E_0
+
+Proof: The proposed claim is, hopefully, intuitive and the proof is straightforward. We expand |ψ⟩ = Σ_n a_n |n⟩ with Σ_n |a_n|^2 = 1 to ensure that ⟨ψ|ψ⟩ = 1. Then ⟨E⟩ = Σ_{m,n} a*_m a_n ⟨m|H|n⟩ = Σ_{m,n} a*_m a_n E_n δ_{mn} = Σ_n |a_n|^2 E_n = E_0 |a_0|^2 + Σ_{n>0} |a_n|^2 (E_n - E_0) + E_0 ≥ E_0
+
+In the case of a non-degenerate ground state, we have equality only if a_0 = 1 which implies a_n = 0 for all n ≠ 0. □
+
+Now consider a family of states, |ψ(α)⟩, depending on some number of parameters α. If we like, we can relax our assumption that the states are normalised and define E(α) = ⟨ψ(α)|H|ψ(α)⟩ / ⟨ψ(α)|ψ(α)⟩
+
+This is sometimes called the Rayleigh-Ritz quotient. We still have E(α) ≥ E_0 for all α
+
+The most stringent bound on the ground state energy comes from the minimum value of E(α) over the range of α. This, of course, obeys ∂E/∂α_i |_{α=α*} = 0
+
+giving us the upper bound E_0 ≤ E(α*). This is the essence of the variational method.
+
+The variational method does not tell us how far above the ground state E(α*) lies. It would be much better if we could also get a lower bound for E_0 so that we can say for sure that ground state energy sits within a particular range. However, for particles moving in a general potential V(x), the only lower bound that is known is E_0 > min V(x). Since we're often interested in potentials like V(x) ∼ −1/r, which have no lower bound this is not particularly useful.
+
+Despite these limitations, when used cleverly by choosing a set of states |ψ(α)⟩ which are likely to be fairly close to the ground state, the variational method can give remarkably accurate results.
+
+An Example: A Quartic Potential
+
+Consider a particle moving in one-dimension in a quartic potential. The Hamiltonian, written in units where everything is set to one, is H = −d^2/dx^2 + x^4
+
+Unlike the harmonic oscillator, this problem does not have simple solution. Nonetheless, it is easy to solve numerically where one finds E_0 ≈ 1.06
+
+Let's see how close we get with the variational method. We need to cook up a trial wavefunction which we think might look something like the true ground state. The potential is shown on the right and, on general grounds, the ground state wavefunction should have support where the potential is smallest; an example is shown in orange. All we need to do is write down a function which has vaguely this shape. We will take ψ(x;α) = (α/π)^{1/4} e^{−αx^2/2}
+
+where the factor in front ensures that this wavefunction is normalised. You can check that this isn't an eigenstate of the Hamiltonian. But it does have the expected crude features of the ground state: e.g. it goes up in the middle and has no nodes. (Indeed, it's actually the ground state of the harmonic oscillator). The expected energy is E(α) = ∫dx (α/π)^{1/2} (α−α^2x^2 +x^4)e^{−αx^2} = α/2 + 3/(4α^2)
+
+The minimum value occurs at α^3 = 3, giving E(α*) ≈ 1.08
+
+We see that our guess does pretty well, getting within 2% of the true value. You can try other trial wavefunctions which have the same basic shape and see how they do.
+
+How Accurate is the Variational Method?
+
+Formally, we can see why a clever application of the variational method will give a good estimate of the ground state energy. Suppose that the trial wavefunction which minimizes the energy differs from the true ground state by |ψ(α*)⟩ = 1/√(1+ϵ^2) (|0⟩+ϵ|ϕ⟩)
+
+where |ϕ⟩ is a normalised state, orthogonal to the ground state, ⟨0|ϕ⟩ = 0, and ϵ is assumed to be small. Then our guess at the energy is E(α*) = [⟨0|H|0⟩+ϵ(⟨0|H|ϕ⟩+⟨ϕ|H|0⟩)+ϵ^2⟨ϕ|H|ϕ⟩] / (1+ϵ^2)
+
+Importantly the terms linear in ϵ vanish. This is because ⟨ϕ|H|0⟩ = E_0 ⟨ϕ|0⟩ = 0. We can then expand the remaining terms as E(α*) = E_0 + ϵ^2(⟨ϕ|H|ϕ⟩−E_0) + O(ϵ^4)
+
+This means that if the difference from the true ground state is O(ϵ), then the difference from the ground state energy is O(ϵ^2). This is the reason that the variational method often does quite well.
+
+Nonetheless, one flaw with the variational method is that unless someone tells us the true answer, we have no way of telling how good our approximation is. Or, in the language above, we have no way of estimating the size of ϵ. Despite this, we will see below that there are some useful things we can do with it.
+
+2.1.2 An Example: The Helium Atom
+
+One important application of quantum mechanics is to 解释原子的结构。在这里，我们将探讨两种简单的方法来理解一个具有两个电子的原子。该原子是氦。对于两个电子，每个电荷为-e，绕核电荷为Ze运动的哈密顿量为： H = p1^2/2m - Ze^2/(4πϵ0 r1) + p2^2/2m - Ze^2/(4πϵ0 r2) + e^2/(4πϵ0 |x1-x2|)  (2.1)
+
+对于氦，Z = 2，但出于稍后会明了的原因，我们将保持Z为任意值，并在计算结束时才设为Z = 2。
+
+如果忽略最后一项，那么这个哈密顿量很容易求解：它简单地由两个独立的氢原子副本组成。本征态将是： Ψ(x1, x2) = ψ_{n1,l1,m1}(x1) ψ_{n2,l2,m2}(x2)
+
+其中 ψ_{n,l,m}(r) 是氢原子通常的能量本征态。我们应记住电子是费米子，因此不能将它们置于同一状态。然而，电子还具有我们上面忽略了的自旋自由度。这意味着两个电子可以具有相同的空间波函数，只要一个是自旋向上而另一个是自旋向下。
+
+忽略电子间的相互作用项给出的能量为： E = -Z^2 Ry (1/n1^2 + 1/n2^2)  (2.2)
+
+其中 Ry 是里德伯常数，由下式给出： Ry = me^4/(32π^2 ϵ0^2 ℏ^2) ≈ 13.6 eV 设 Z = 2 且 n1 = n2 = 1，这个非常幼稚的方法表明氦的基态能量为 E = -8Ry ≈ -109 eV。氦的真实基态能量为： E ≈ -79.0 eV  (2.3)
+
+我们的任务是找到一种方法来考虑(2.1)中电子间最后的相互作用项，从而更接近真实结果(2.3)。这里我们尝试两种替代方法。
+
+微扰论我们的第一种方法是将两个电子间的库仑能量视为对原始问题的微扰。在继续之前，有一个问题我们应该在微扰论中经常问：确保附加项小于原始项的小的无量纲参数是什么？
+
+对我们而言，我们需要一个理由来说明为什么哈密顿量(2.1)中的最后一项可能小于其他两个势能项。所有项都源于库仑力，因此都带有 e^2/(4πϵ0) 因子。但与原子核的相互作用还带有一个Z因子。这在电子-电子相互作用中是缺失的。因此，这就是我们的希望所在：微扰展开将是1/Z的展开。当然，最终我们将设1/Z = 1/2，这并不是一个特别小的数字。这可能会让我们担心微扰论对这个问题不会非常准确。
+
+我们现在将每个电子置于通常的氢原子基态 ψ_{1,0,0}(x) 中，该波函数适应于一般的Z： ψ_{1,0,0}(x) = (Z^3/(πa0^3))^{1/2} e^{-Zr/a0}  (2.4)
+
+其中 a0 是玻尔半径，定义为： a0 = 4πϵ0 ℏ^2/(me^2) ≈ 5×10^{-11} m 到主导阶，基态能量的移动由一阶微扰论的标准结果给出： ∆E = ∫ d^3x1 ∫ d^3x2 e^2/(4πϵ0 |x1-x2|) |ψ_{1,0,0}(x1)|^2 |ψ_{1,0,0}(x2)|^2 我们需要计算这个积分。技巧是选择合适的坐标系。我们将对两个粒子都使用球极坐标。然而，我们将选择第二个粒子的z轴沿由第一个粒子设定的x方向。这种选择的优点在于，两个粒子之间的角度θ_2恰好与第二个粒子的极角θ一致。特别是，两个粒子之间的距离可以写为： |x1-x2| = √((x1-x2)^2) = √(r1^2 + r2^2 - 2r1 r2 cosθ2)
+
+在这些坐标中，对第一个粒子的角度变量以及对第二个粒子的ϕ进行积分很简单。能量的移动变为： ∆E = (8π^2 e^2)/(4πϵ0) (Z^3/(πa0^3))^2 ∫_0^∞ dr1 r1^2 e^{-2Zr1/a0} ∫_0^∞ dr2 r2^2 e^{-2Zr2/a0} ∫_{-1}^{+1} d(cosθ2) 1/√(r1^2 + r2^2 - 2r1 r2 cosθ2)
+
+= (2π e^2)/(ϵ0) (Z^3/(πa0^3))^2 ∫_0^∞ dr1 r1^2 e^{-2Zr1/a0} ∫_0^∞ dr2 r2^2 e^{-2Zr2/a0} [ √((r1-r2)^2) - √((r1+r2)^2) ]/(r error is 1/Z = 1/2, it’s much better than we might have anticipated.
+
+The Variational Method We’ll now try again, this time using the variational method. For our trial wavefunction we pick Ψ(x₁, x₂) = ψ(x₁)ψ(x₂) where ψ(x; α) = √(α³/(πa₀³)) e^{-αr/a₀} (2.5)
+
+This is almost the same as the hydrogen ground state (2.4) that we worked with above. The only difference is that we’ve replaced the atomic number Z with a general parameter α that we will allow to vary. We can tell immediately that this approach must do at least as well at estimating the ground state energy because setting α = Z reproduces the results of first order perturbation theory.
+
+The expectation of the energy using our trial wavefunction is E(α) = ∫ d³x₁ ∫ d³x₂ ψ*(x₁)ψ*(x₂) H ψ(x₁)ψ(x₂)
+
+with H the differential operator given in (2.1). Now we have to evaluate all terms in the Hamiltonian afresh. However, there is a trick we can use. We know that (2.5) is the ground state of the Hamiltonian H_α = p²/(2m) - αe²/(4πε₀r)
+
+where we’ve replaced Z by α in the second term. With this observation, we write the helium Hamiltonian (2.1) as H = H_α(p₁, r₁) + H_α(p₂, r₂) + e²/(4πε₀) [(α-Z)/r₁ + (α-Z)/r₂ + 1/|x₁ - x₂|]
+
+Written in this way, the expected energy becomes E(α) = -2α²Ry + 2(α-Z) ∫ |ψ(x)|² (e²/(4πε₀r)) d³x + ∫ |ψ(x₁)|²|ψ(x₂)|² (e²/(4πε₀|x₁ - x₂|)) d³x₁ d³x₂ Here, the first term comes from the fact that our trial wavefunction is the ground state of H_α with ground state energy given by (2.2). We still need to compute the integrals in the second and third term. But both of these are straightforward. The first is ∫ |ψ(x)|²/r d³x = (α³/(πa₀³)) ∫ e^{-2αr/a₀} (4πr²/r) dr = α/a₀ Meanwhile, the final integral is the same as we computed in our perturbative calculation. It is ∫ |ψ(x₁)|²|ψ(x₂)|²/|x₁ - x₂| d³x₁ d³x₂ = 5α/(8a₀)
+
+Putting this together, we have E(α) = [-2α² + 4(α-Z)α + 5α²/8] Ry This is minimized for α = Z - 5/16. The minimum value of the energy is then E(α*) = -2 (Z - 5/16)² Ry ≈ -77.5 eV (2.6)
+
+We see that this is somewhat closer to the true value of E ≈ -79.0 eV.
+
+There’s one last bit of physics hidden in this calculation. The optimum trial wavefunction that we ended up using was that of an electron orbiting a nucleus with charge (Z − 5/16)e, rather than charge Ze. This has a nice interpretation: the charge of the nucleus is screened by the presence of the other electron.
+
+2.1.3 Do Bound States Exist?
+
+There is one kind of question where variational methods can give a definitive answer. This is the question of the existence of bound states.
+
+Consider a particle moving in a localised potential V(x), such that V(x) → 0 as x → ∞. A bound state is an energy eigenstate with E < 0. For some potentials, there exist an infinite number of bound states; the Coulomb potential V = 1/r in three dimensions is a familiar example. For other potentials there will be only a finite number. And for some potentials there will be none. How can we tell what properties a given potential has?
+
+Clearly the variational method can be used to prove the existence of a bound state. All we need to do is exhibit a trial wavefunction which has E < 0. This then ensures that the true ground state also has E < 0.
+
+An Example: The Hydrogen Anion A hydrogen anion H⁻ consists of a single proton, with two electrons in its orbit. But does a bound state of two electrons and a proton exist?
+
+The Hamiltonian for H⁻ is the same as that for helium, (2.1), but now with Z = 1. This means that we can import all the calculations of the previous section. In particular, our variational method gives a minimum energy (2.6) which is negative when we set Z = 1. This tells us that a bound state of two electrons and a proton does indeed exist.
+
+An Example: The Yukawa Potential The Yukawa potential in three dimensions takes the form V(r) = -A e^{-λr}/r (2.7)
+
+For A > 0, this is an attractive potential. Note that if we set λ = 0, this coincides with the Coulomb force. However, for λ ≠ 0 the Yukawa force drops off much more quickly.
+
+The Yukawa potential arises in a number of different places in physics. Here are two examples: • In a metal, electric charge is screened. This was described in Section 7.7 of the lecture notes on Electromagnetism. This causes the Coulomb potential to be replaced by the Yukawa potential.
+
+• The strong nuclear force between a proton and a neutron is complicated. However, at suitably large distances it is well approximated by the Yukawa potential, with r the relative separation of the proton and neutron. Indeed, this is the context in which Yukawa first suggested his potential. Thus the question of whether (2.7) admits a bound state is the question of whether a proton and neutron can bind together.
+
+A spoiler: the hydrogen atom has stable isotope known as deuterium. Its nucleus, known as the deuteron, consists of a proton and neutron. Thus, experiment tells us that a bound state must exist.
+
+存在。我们希望从理论上理解这一点，以确保实验结果无误！哈密顿量为 $$ H = -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r})
+
+$$ 在氘核的背景下，$r$ 是质子与中子之间的距离，因此 $m$ 实际上应解释为约化质量 $m = m_p m_n / (m_p + m_n) \approx m_p / 2$。我们将使用一个熟悉的试探波函数， $$ \psi(\mathbf{x}; \alpha) = \left(\frac{\alpha^3}{\pi}\right)^{1/2} e^{-\alpha r} $$ 这是氢原子的基态。前面的因子确保波函数归一化：$\int d^3x |\psi|^2 = 1$。简短的计算表明，期望能量为 $$ E(\alpha) = -\frac{\hbar^2 \alpha^2}{2m} + \frac{4A\alpha^3}{(\lambda + 2\alpha)^2} $$ 容易验证，只要 $\lambda < \frac{A m}{\hbar^2}$，就存在一个 $\alpha$ 值使得 $E(\alpha) < 0$。这保证了当参数处于此范围内时，汤川势存在束缚态。然而，我们无法反推：这个方法不能告诉我们当 $\lambda > A m / \hbar^2$ 时是否存在束缚态。
+
+结果表明，当 $\lambda$ 足够大时，束缚态确实不复存在。上述简单的变分方法在定性物理上是正确的，但在估算边界时表现不佳。数值结果告诉我们，只要 $\lambda \lesssim 2.4 A m / \hbar^2$，就应存在一个束缚态。
+
+束缚态与维里定理这些思想与维里定理之间存在联系。让我们先回顾一下维里定理在此背景下的内容。假设一个粒子在 $d$ 维空间中运动，势能为 $$ V(\mathbf{x}) = A r^n \tag{2.8} $$ 这意味着势能具有标度性质 $V(\lambda \mathbf{x}) = \lambda^n V(\mathbf{x})$。我们假设存在一个归一化的基态，其波函数为 $\psi_0(\mathbf{x})$。
+
+基态能量为 $$ E = \int d^d x \left[ \frac{\hbar^2}{2m} |\nabla \psi_0(\mathbf{x})|^2 + V(\mathbf{x}) |\psi_0(\mathbf{x})|^2 \right] \equiv \langle T \rangle_0 + \langle V \rangle_0 $$ 现在考虑试探波函数 $\psi(\mathbf{x}) = \alpha^{d/2} \psi_0(\alpha \mathbf{x})$，其中前因子确保 $\psi(\mathbf{x})$ 继续保持归一化。根据势能的标度性质 (2.8)，可以简单证明 $$ E(\alpha) = \alpha^2 \langle T \rangle_0 + \alpha^{-n} \langle V \rangle_0 $$ $E(\alpha)$ 的最小值位于 $$ \frac{dE}{d\alpha} = 2\alpha \langle T \rangle_0 - n \alpha^{-n+1} \langle V \rangle_0 = 0 $$ 但这个最小值必须位于 $\alpha = 1$，因为根据构造，这对应于真正的基态。我们了解到，对于齐次势 (2.8)，有 $$ 2\langle T \rangle_0 = n \langle V \rangle_0 \tag{2.9} $$ 这就是维里定理。
+
+现在将其应用于我们的束缚态问题。以下是一些例子： • $V \sim -1/r$：这是库仑势。维里定理告诉我们 $E = \langle T \rangle_0 + \langle V \rangle_0 = -\langle T \rangle_0 < 0$。换句话说，我们证明了已知事实：库仑势存在束缚态。
+
+这里有一个微妙之处。在我们维里定理的论证中，我们并未声称势 (2.8) 中的 $A < 0$。我们上面的结论似乎对 $A > 0$ 也成立，但这显然是错误的：排斥势 $V \sim +1/r$ 没有束缚态。我们遗漏了什么？嗯，我们在论证一开始就假设基态 $\psi_0$ 是可归一化的。对于像 $V \sim 1/r$ 这样的排斥势，情况并非如此：所有态都是渐近的平面波 $e^{i\mathbf{k} \cdot \mathbf{x}}$。维里定理不适用于这类排斥势。
+
+• $V \sim -1/r^3$：现在维里定理告诉我们 $E = \frac{1}{3} \langle T \rangle_0 > 0$。这实际上是一个矛盾！在像 $V \sim 1/r^3$ 这样的势中，任何 $E > 0$ 的态都是不可归一化的，因为它会混合渐近平面波。可以确定，这种势没有局域化的态。
+
+这个结果可能令人惊讶。任何 $n \le -3$ 的势 $V \sim -r^n$ 在原点处急剧下降，你可能认为这使得它能有效地在那里捕获粒子。问题在于它过于有效。粒子的动能不足以将其保持在某个有限距离，粒子会向原点坠落。此类势没有束缚态。
+
+一维空间中的束缚态有一个精确而美妙的结果适用于在一维空间运动的粒子。
+
+考虑一个粒子在势 $V(x)$ 中运动，使得当 $|x| > L$ 时 $V(x) = 0$。然而，当 $|x| < L$ 时，势可以是任何形式：它可以为正或负，剧烈振荡或非常平缓。
+
+定理：只要 $\int dx V(x) < 0$，就存在束缚态。换句话说，只要势是“总体吸引”的，就存在束缚态。
+
+证明：我们使用高斯变分拟设 $$ \psi(x; \alpha) = \left(\frac{\alpha}{\pi}\right)^{1/4} e^{-\alpha x^2/2} $$ 那么我们得到 $$ E(\alpha) = \frac{\hbar^2 \alpha}{4m} + \sqrt{\frac{\alpha}{\pi}} \int_{-\infty}^{\infty} dx V(x) e^{-\alpha x^2} $$ 其中 $\hbar^2 \alpha / 4m$ 项来自动能。技巧是考察函数 $$ \frac{E(\alpha)}{\sqrt{\alpha}} = \frac{\hbar^2}{4m} \sqrt{\alpha} + \frac{1}{\sqrt{\pi}} \int_{-\infty}^{\infty} dx V(x) e^{-\alpha x^2} $$ 这是 $\alpha$ 的连续函数。在极限 $\alpha \to 0$ 时，我们有 $$ \frac{E(\alpha)}{\sqrt{\alpha}} \to \frac{1}{\sqrt{\pi}} \int_{-\infty}^{\infty} dx V(x)
+
+$$ 如果 $\int dx V(x) < 0$，则 $\lim_{\alpha \to 0} E(\alpha)/\sqrt{\alpha} < 0$，并且根据连续性，必定存在某个小的 $\alpha > 0$ 使得 $E(\alpha) < 0$。这确保了束缚态的存在。□ 同样，这个命题的逆命题并不成立。存在一些 $\int dx V(x) > 0$ 的势，它们也确实允许束缚态存在。
+
+你可能想知道我们能否将这个结果推广到更高维度。事实证明，存在一个在二维情况下存在类似的表述。然而，在三维或更高维度则不存在这样的陈述。此时，若势能足够浅，可能不存在束缚态。
+
+2.1.4 激发态能量的上界迄今为止，我们只关注了基态能量的近似计算。我们能否使用变分法为激发态能量给出一个上界？
+
+这更为棘手。如果我们精确知道基态 \(|0\rangle\)，则可以取得进展。此时，我们可以构造一个与基态正交的试探波函数 \(|\psi(\alpha)\rangle\)： \[ \langle\psi(\alpha)|0\rangle = 0 \quad \text{对所有 } \alpha \tag{2.10} \]
+
+然后，我们可以直接重复第 2.1.1 节的论证。\(E(\alpha) = \langle\psi(\alpha)|H|\psi(\alpha)\rangle\) 的最小值为第一激发态能量 \(E\) 提供了一个上界。
+
+原则上，我们可以重复此论证。使用与 \(|0\rangle\) 和 \(|1\rangle\) 都正交的试探波函数，将为第二激发态能量 \(E\) 提供一个上界。
+
+在实践中，这种方法用途不大。通常，如果我们使用变分法，正是因为我们没有基态的精确表达式，这使得构造满足式(2.10)的试探波函数变得困难。如果我们只有基态的近似解，那么它在为激发态提供上界方面完全无用。
+
+然而，有一种情况我们可以取得进展：即我们的哈密顿量具有某种对称性，或等价地，存在其他守恒量。如果我们知道基态在此对称性下的量子数，那么我们可以通过构造具有不同量子数的试探波函数来保证式(2.10)成立。
+
+**示例：宇称与四次势** 作为一个简单的例子，我们回到第2.1.1节的四次势。其哈密顿量为 \[ H = -\frac{d^2}{dx^2} + x^4 \]
+
+该哈密顿量在宇称变换 \(x \to -x\) 下不变。真正的基态在宇称下必须是偶函数。因此，我们可以为第一激发态构造一类在宇称下为奇函数的试探波函数。一个明显的选择是 \[ \psi(x;\alpha) = x e^{-\alpha x^2/2} \left(\frac{4\alpha^3}{\pi}\right)^{1/4} \]
+
+通过一些代数运算，可以发现使用此波函数得到的最小能量为 \[ E(\alpha) \approx 3.85 \]
+
+真实值为 \(E \approx 3.80\)。
+
+## 2.2 WKB近似
+
+WKB近似是求解一维薛定谔方程的一种方法。该近似在势能变化相对于粒子的德布罗意波长 \(\lambda = 2\pi\hbar/p\) 变化缓慢的情况下有效。其基本思想是，波函数近似于自由粒子的波函数，但其振幅和相位会变化以补偿势能的变化。
+
+该方法以物理学家温策尔、克拉默斯和布里渊的名字命名。有时也称为WKBJ近似，其中加入了哈罗德·杰弗里斯的名字，以承认他在其他三人之前发现了这一方法。该方法的主要应用在于估算束缚态能量和计算隧穿几率。
+
+2.2.1 半经典展开在深入探讨量子问题之前，我们先建立一些经典直觉。假设一维势能 \(V(x)\) 具有下图左侧所示的形式。一个能量为 \(E\) 的经典粒子将前后振荡，其动量为 \[ p(x) \equiv \hbar k(x) \equiv \sqrt{2m(E - V(x))} \tag{2.11} \]
+
+显然，粒子只存在于 \(E \geq V(x)\) 的区域。在 \(E = V(x)\) 的点，它会掉头往回运动。
+
+现在考虑一个量子粒子。假设势能变化缓慢。这意味着，如果我们放大图形的某个部分，势能将近似为常数。我们可以想象，在这部分势能中，我们可以用平面波 \(\psi(x) \sim e^{ip(x)x}\) 来近似波函数。然而，波函数也扩展到经典粒子所能到达的区域之外。在这里，\(E < V(x)\)，因此，从表面上看，式(2.11)告诉我们 \(p(x)\) 变为纯虚数。这意味着试探解 \(\psi(x) \sim e^{ip(x)x}\) 将导致波函数呈指数衰减（至少如果我们正确选择负号的话）。但这正是我们预期波函数在此区域的行为。
+
+这些思想构成了WKB近似的基础。我们的目标现在是将它们置于一个更系统的框架之上。为此，考虑一维定态薛定谔方程： \[ -\frac{\hbar^2}{2m} \frac{d^2\psi}{dx^2} + V(x)\psi = E\psi \]
+
+将其改写为如下形式将很有用： \[ \frac{d^2\psi}{dx^2} + \frac{2m}{\hbar^2} (E - V(x))\psi = 0 \]
+
+受上述讨论的启发，我们将寻找如下形式的解： \[ \psi(x) = e^{iW(x)/\hbar} \]
+
+将这个试探解代入薛定谔方程，得到关于 \(W\) 的微分方程： \[ \frac{d^2W}{dx^2} + \frac{1}{\hbar} \left( \frac{dW}{dx} \right)^2 + 2m(E - V(x)) = 0 \]
+
+（注：此处方程后续内容原文截断）
+
+(2.12)式的WKB解： $$ \frac{\hbar^2}{2m} \frac{d^2W}{dx^2} + \left( \frac{dW}{dx} \right)^2 + p(x)^2 = 0 \qquad (2.12) $$ 其中经典动量 $p(x)$ 在(2.11)式中定义。
+
+平面波解出现在 $W(x) = \hbar kx$ 时，此时(2.12)中的二阶导数为零。这里我们寻找二阶导数较小的解，即 $$ \left| \frac{\hbar}{2m} \frac{d^2W}{dx^2} \right| \ll \left| \left( \frac{dW}{dx} \right)^2 \right| \qquad (2.13) $$ 我们称之为半经典极限。
+
+粗略地说，(2.13)可以视为 $\hbar \to 0$ 极限。实际上，数学上可以尝试用 $\hbar$ 的幂级数来求解(2.12)。作为物理学家，这应该让我们有点不安，因为 $\hbar$ 具有量纲，不能直接说是“小”。但我们会先求解问题，然后更好地理解解的有效范围。为此，我们将 $p(x)$ 视为背景势，取为 $\mathcal{O}(\hbar^0)$。我们将解展开为： $$ W(x) = W_0(x) + \hbar W_1(x) + \hbar^2 W_2(x) + \dots $$ 将这个试探解代入(2.12)得到： $$ \left[ -W_0'(x)^2 + p(x)^2 \right] + \hbar \left[ i W_0''(x) - 2 W_0'(x) W_1'(x) \right] + \mathcal{O}(\hbar^2) = 0 $$ 我们现在可以逐级求解这些方程。第一个是直接的： $$ W_0'(x) = \pm p(x) \quad \Rightarrow \quad W_0(x) = \pm \int^x dx' \, p(x') $$ 这实际上在经典力学中也会出现：它是哈密顿-雅可比函数。更多细节可以参考《经典动力学》讲义的4.7和4.8节。
+
+在 $\mathcal{O}(\hbar)$ 阶，我们有： $$ i W_0''(x) - 2 W_0'(x) W_1'(x) = 0 \quad \Rightarrow \quad W_1'(x) = \frac{i W_0''(x)}{2 W_0'(x)} = \frac{i}{2} \frac{p'(x)}{p(x)} $$ 积分得到： $$ W_1(x) = \frac{i}{2} \log p(x) + c $$ 其中 $c$ 是某个常数。将这些组合起来，我们得到波函数的WKB近似： $$ \psi(x) \approx \frac{A}{\sqrt{p(x)}} \exp\left( \pm \frac{i}{\hbar} \int^x dx' \, p(x') \right) \qquad (2.14) $$ 在 $x$ 处找到粒子的概率当然是 $|\psi(x)|^2 \sim 1/p(x)$。这很直观：在某个区域找到粒子的概率应该与粒子在那里停留的时间成正比，而停留时间又与其动量成反比。
+
+**WKB的有效性** 在继续之前，让我们试着更好地理解WKB近似的有效条件。到主导阶，我们的要求(2.13)可以写作： $$ \hbar \left| \frac{dp}{dx} \right| \ll |p(x)|^2 \quad \Rightarrow \quad \frac{1}{2\pi} \frac{d\lambda}{dx} \ll 1 $$ 其中 $\lambda = 2\pi\hbar/p$ 是德布罗意波长。这表示粒子的德布罗意波长在其一个波长的距离内不应发生显著变化。
+
+或者，我们可以将其表述为势能的一个条件。利用(2.11)，我们有： $$ \lambda(x) \left| \frac{dV}{dx} \right| \ll \frac{4\pi}{2m} \times |p(x)|^2 $$ 这大致意味着势能在一个德布罗意波长内的变化应远小于动能（其中 $4\pi$ 因子给出了数量级上的宽松余量）。
+
+**匹配条件的必要性** 让我们考虑一个缓慢变化的势能。我们想要求解能量为 $E$ 的薛定谔方程。
+
+WKB近似在 $E \gg V(x)$ 的区域提供了解，对应地，$p(x)$ 为实数。这是在势阱中部的情况，波函数振荡。WKB近似也在 $E \ll V(x)$ 时提供解，此时 $p(x)$ 为虚数。这是在最左侧和最右侧的情况，波函数呈现指数衰减或增长： $$ \psi(x) \approx \frac{A}{(2m(V(x)-E))^{1/4}} \exp\left( \pm \frac{1}{\hbar} \int^x dx' \, \sqrt{2m(V(x')-E)} \right) $$ $\pm$ 的选择通常由归一化要求确定。
+
+但在 $E \approx V(x)$ 附近区域会发生什么？这里WKB近似失效，并且拟解(2.14)会发散，因为 $p(x) = 0$。怎么办？
+
+$p(x_0) = 0$ 的点 $x_0$ 是经典转折点。使WKB近似有效的关键是匹配。这意味着我们在WKB有效的区域使用它。但在任何转折点附近，我们会找到一个不同的解。然后我们将这个解与我们的WKB解进行匹配。
+
+那么，在 $x_0$ 附近我们想求解的薛定谔方程是什么？我们展开势能，只保留线性项： $$ V(x) \approx E + C(x - x_0) + \dots $$ 薛定谔方程变为： $$ -\frac{\hbar^2}{2m} \frac{d^2\psi}{dx^2} + C(x - x_0)\psi = 0 \qquad (2.15) $$ 我们将精确求解这个薛定谔方程，然后将这个解与左右两侧的WKB波函数(2.14)进行匹配。
+
+**2.2.2 线性势与艾里函数** 线性势下的薛定谔方程问题本身就很有趣。例如，这描述了一个处于恒定引力场中的粒子，其中 $x$ 是距离地球表面的高度。（在这种情况下，我们会通过要求 $\psi(0)=0$ 来在 $x=0$ 处放置一堵硬墙，对应地球表面。）另一个例子涉及夸克偶素，即一个重夸克和一个反夸克的束缚态。由于QCD的禁闭，它们经历一个线性增长的势能...
+
+对于线性势 \(V(x) = Cx\)，其中 \(C\) 为常数，薛定谔方程为
+
+\[ -\frac{\hbar^2}{2m} \frac{d^2\psi}{dx^2} + Cx\psi = E\psi \tag{2.16} \]
+
+在继续之前，最好重新标度变量以吸收所有浮动的因子。定义无量纲位置
+
+\[ u = \left( \frac{2mC}{\hbar^2} \right)^{1/3} (x - E/C) \tag{2.17} \]
+
+则薛定谔方程 (2.16) 变为
+
+\[ -\frac{d^2\psi}{du^2} - u\psi = 0 \tag{2.18} \]
+
+这就是著名的艾里方程。其解为艾里函数 \(\psi(u) = \text{Ai}(u)\)，它由以下这个看起来有些奇怪的积分定义：
+
+\[ \text{Ai}(u) = \frac{1}{\pi} \int_0^\infty \cos\left( \frac{t^3}{3} + ut \right) dt \]
+
+为了验证这一点，注意
+
+\[ \left( -\frac{d^2}{du^2} - u \right) \text{Ai}(u) = -\frac{1}{\pi} \int_0^\infty (t^2 + u) \cos\left( \frac{t^3}{3} + ut \right) dt \\ = -\frac{1}{\pi} \int_0^\infty \frac{d}{dt} \left[ \sin\left( \frac{t^3}{3} + ut \right) \right] dt \]
+
+积分下限显然为零。上限更为棘手。启发式地看，由于当 \(t \to \infty\) 时 \(\sin t^3\) 振荡得越来越快，它会消失。更严格的论证需要更仔细的处理。
+
+艾里函数如图所示（图略）。它有一个很好的性质：在 \(u < 0\) 时振荡，但在 \(u > 0\) 时指数衰减。事实上，可以证明其渐近行为由下式给出：
+
+\[ \text{Ai}(u) \sim \frac{1}{2\sqrt{\pi} u^{1/4}} \exp\left( -\frac{2}{3} u^{3/2} \right), \quad u \gg 0 \tag{2.19} \]
+
+和
+
+\[ \text{Ai}(u) \sim \frac{1}{\sqrt{\pi} (-u)^{1/4}} \cos\left( \frac{2}{3} (-u)^{3/2} - \frac{\pi}{4} \right), \quad u \ll 0 \tag{2.20} \]
+
+这种行为正是我们物理上所预期的。追溯我们上面的定义，区域 \(u < 0\) 对应于 \(E > V(x)\)，波函数振荡。同时，\(u > 0\) 对应于 \(E < V(x)\)，波函数迅速衰减。
+
+艾里方程 (2.18) 是一个二阶微分方程，因此必须有一个第二个解。这被称为 \(\text{Bi}(u)\)。它有一个性质，即当 \(x \to \infty\) 时发散，因此不符合我们问题中良好波函数的要求。
+
+**旁注：夸克偶素**
+
+取一个夸克和一个反夸克并将它们分开。夸克产生一个场，该场与强核力相关，有时被称为色电场。就像在麦克斯韦理论中一样，该场在两个夸克之间产生一个力。经典上，两个夸克之间的力缩放如 \(V \sim 1/r\)，就像库仑力一样。然而，色电场的量子涨落极大地改变了这种行为，色电场形成一个准直的通量管连接夸克。该效应的数值模拟如图所示（图略）。结果是，两个夸克之间的势从 \(V \sim 1/r\) 的形式变为
+
+\[ V = Cr \tag{2.21} \]
+
+这意味着，与其他力形成鲜明对比的是，分离夸克变得越来越难。这种行为被称为禁闭。系数 \(C\) 被称为弦张力。
+
+我们在此不解释为什么势取线性形式 (2.21)。（事实上，你在任何地方都找不到简单的解释！它与关于杨-米尔斯理论的克雷千禧年大奖难题密切相关。讲义的很大一部分致力于直观理解禁闭是如何产生的。）相反，我们将只看当两个夸克经历线性势时产生的态谱。这些态被称为夸克偶素。薛定谔方程为
+
+\[ -\frac{\hbar^2}{2m} \left( \frac{1}{r^2} \frac{d}{dr} \left( r^2 \frac{d\psi}{dr} \right) - \frac{l(l+1)}{r^2} \psi(r) \right) + Cr\psi(r) = E\psi(r)
+
+\]
+
+关于该谱如何依赖于角动量 \(l\) 有一个有趣的故事，但现在我们只看 \(l=0\) 部分。定义 \(\chi = r\psi\) 以及无量纲坐标 \(u = (2mC/\hbar^2)^{1/3}(r - E/C)\)，如 (2.17)，我们看到这再次简化为艾里方程，解由 \(\chi(u) = \text{Ai}(u)\) 给出。
+
+到目前为止，允许的能量 \(E\) 尚未量子化。这来自于要求 \(\chi(r = 0) = 0\)。换句话说，
+
+\[ \text{Ai}\left( -\left( \frac{2m}{\hbar^2 C^2} \right)^{1/3} E \right) = 0 \]
+
+艾里函数 \(\text{Ai}(y)\) 的零点可以数值计算。前几个零点出现在 \(y = -y_n\)，其中
+
+\[ y_n = 2.34, 4.09, 5.52, 6.79, 7.94, 9.02, \dots \]
+
+前几个能级为 \(E_n = (\hbar^2 C^2 / 2m)^{1/3} y_n\)。
+
+**应用：匹配 WKB 解**
+
+对我们而言，引入艾里函数的主要目的是将其应用于 WKB 近似。艾里函数在转折点 \(x_t\) 附近求解薛定谔方程 (2.15)，将其与 (2.16) 比较，我们看到应设 \(x_t = E/C\)。渐近行为 (2.19) 和 (2.20) 正是我们需要与 WKB 解 (2.14) 匹配的。
+
+让我们看看这是如何工作的。首先考虑 \(u \ll 0\)，对应于 \(x \ll x_t\)。此处 \(E > V(x)\)，我们有振荡解。我们希望用原始变量重写这个解。在此区域，\(V(x) \approx E + C(x - x_t)\)，因此我们可以合理地替换
+
+\[ |u| = \left( \frac{2mC}{\hbar^2} \right)^{1/3} (x_t - x)
+
+\]
+
+这导致...
+
+（文本在此处截断）
+
+E - V(x))
+
+\hbar^2 0 \hbar^2 C^2 where we've used our definition of p(x) given in (2.11). In these variables, the asymptotic form of the Airy function (2.20) is given by \[ Ai(x) \sim \left( \frac{ (2mC\hbar)^{1/3} }{ \pi \sqrt{ 2m(E - V(x)) } } \right)^{1/2} \cos \left( \frac{1}{\hbar} \int_{x_0}^{x} dx' \sqrt{ 2m(E - V(x')) } + \frac{\pi}{4} \right)
+
+\]
+
+This takes the same oscillatory form as the WKB solution (2.14). The two solutions can be patched together simply by picking an appropriate normalisation factor and phase for the WKB solution.
+
+Similarly, in the region u ≫ 0, the exponentially decaying form of the Airy function (2.19) can be written as \[ Ai(x) \sim \left( \frac{ (2mC\hbar)^{1/3} }{ 2\pi \sqrt{ 2m(V(x) - E) } } \right)^{1/2} \exp \left( - \frac{1}{\hbar} \int_{x_0}^{x} dx' \sqrt{ 2m((V(x') - E) } \right)
+
+\]
+
+This too has the same form as the exponentially decaying WKB solution (2.14). This, then, is how we piece together solutions. In regions where E > V(x), the WKB approximation gives oscillating solutions. In regimes where E < V(x), it gives exponentially decaying solutions. The Airy function interpolates between these two regimes. The following examples describes this method in practice.
+
+2.2.3 Bound State Spectrum As an example of this matching, let's return to the potential shown on the right. Our goal is to compute the spectrum of bound states. We first split the potential into three regions where the WKB approximation can be trusted: Region 1: x ≪ a Region 2: a ≪ x ≪ b Region 3: x ≫ b We'll start in the left-most Region 1. Here the WKB approximation tells us that the solution dies exponentially as \[ \psi_1 (x) \approx \frac{A}{(2m(V(x) - E))^{1/4}} \exp \left( - \frac{1}{2} \int_{x}^{a} dx' \sqrt{ 2m(V(x') - E) } \]
+
+As we approach x = a, the potential takes the linear form V(x) ≈ E + V'(a)(x - a) and this coincides with the asymptotic form (2.19) of the Airy function Ai(-u). We then follow this Airy function through to Region 2 where the asymptotic form (2.22) tells us that we have \[ \psi_2 (x) \approx \frac{2A}{(2m(V(x) - E))^{1/4}} \cos \left( \frac{1}{\hbar} \int_{a}^{x} dx' \sqrt{ 2m(E - V(x')) } - \frac{\pi}{4} \right)
+
+\]
+
+Note the minus sign in the phase shift -π/4. This arises because we're working with Ai(-u). The Airy function takes this form close to x = a where V(x) is linear. But, as we saw above, we can now extend this solution throughout Region 2 where it coincides with the WKB approximation.
+
+We now repeat this procedure to match Regions 2 and 3. When x ≫ b, the WKB approximation tells us that the wavefunction is \[ \psi_3 (x) \approx \frac{A'}{(2m(V(x) - E))^{1/4}} \exp \left( - \frac{1}{2} \int_{b}^{x} dx' \sqrt{ 2m(V(x') - E) } \]
+
+Matching to the Airy function across the turning point x = b, we have \[ \psi_2 (x) \approx \frac{2A'}{(2m(V(x) - E))^{1/4}} \cos \left( \frac{1}{\hbar} \int_{x}^{b} dx' \sqrt{ 2m(E - V(x')) } + \frac{\pi}{4} \right)
+
+\]
+
+We're left with two expressions (2.24) and (2.25) for the wavefunction in Region 2. Clearly these must agree. Equating the two tells us that |A| = |A'|, but they may differ by a sign, since this can be compensated by the cos function. Insisting that the two cos functions agree, up to sign, gives us the condition \[ \frac{1}{\hbar} \int_{a}^{x} dx' \sqrt{ 2m(E - V(x')) } - \frac{\pi}{4} = \pm \left( \frac{1}{\hbar} \int_{x}^{b} dx' \sqrt{ 2m(E - V(x')) } + \frac{\pi}{4} \right) + n\pi \]
+
+for some integer n. Rearranging gives \[ \int_{a}^{b} dx' \sqrt{ 2m(E - V(x')) } = \left( n+ \frac{1}{2} \right) \hbar\pi \]
+
+To complete this expression, we should recall what we mean by a and b. For a given energy E, these are the extreme values of the classical trajectory where p(x) = 0. In other words, we can write a = x_min and b = x_max. If we write our final expression in terms of the momentum p(x), it takes the simple form \[ \int_{x_{\text{min}}}^{x_{\text{max}}} dx' p(x') = \left( n+ \frac{1}{2} \right) \hbar\pi \]
+
+An Example: The Harmonic Oscillator To illustrate this, let's look at an example that we all known and love: the harmonic oscillator with V(x) = \frac{1}{2} m \omega^2 x^2. The quantisation condition (2.26) becomes \[ \int_{x_{\text{min}}}^{x_{\text{max}}} dx \sqrt{ 2m\left(E - \frac{1}{2} m \omega^2 x^2 \right) } = \frac{2\pi E}{m\omega} = \left( n+ \frac{1}{2} \right) \hbar\pi \Rightarrow E = \left( n+ \frac{1}{2} \right) \hbar\omega \]
+
+This, of course, is the exact spectrum of the harmonic oscillator. I should confess that this is something of a fluke. In general, we will not get the exact answer. For most potentials, the accuracy of the answer improves as n increases. This is because the high n are high energy states. These have large momentum and, hence, small de Broglie wavelength, which is where the WKB approximation works best.
+
+2.2.4 Bohr-Sommerfeld Quantisation The WKB approximation underlies an important piece of history from the pre-Schrödinger era of quantum mechanics. We can rewrite the quantisation condition (2.27) as \[ \oint dx p(x) = \left( n+ \frac{1}{2} \right) 2\pi\hbar \]
+
+where \oint means that we take a closed path in phase space which, in this one-dimensional example, is from x_min to x_max and back again. This gives the extra factor of 2 on the right-hand side. You may recognise the left-hand-side as the adiabatic invariant from the Classical Dynamics lectures. This is a sensible object to quantise as it doesn't change if we slowly vary the parameters of the system.
+
+In the old days of quantum mechanics, Bohr and Sommerfeld introduced an ad-hoc method of quantisation. They suggested that one should impose the condition ∫dx p(x) = 2πnℏ with n an integer. They didn’t include the factor of 1/2. They made this guess because it turns out to correctly describe the spectrum of the hydrogen atom. This too is something of a fluke! But it was an important fluke that laid the groundwork for the full development of quantum mechanics. The WKB approximation provides an a-posteriori justification of the Bohr-Sommerfeld quantisation rule, laced with some irony: they guessed the wrong approximate quantisation rule which, for the system they were interested in, just happened to give the correct answer!
+
+More generally, “Bohr-Sommerfeld quantisation” means packaging up a d-dimensional phase space of the system into small parcels of volume (2πℏ)^d and assigning a quantum state to each. It is, at best, a crude approximation to the correct quantisation treatment.
+
+2.2.5 Tunnelling out of a Trap For our final application of the WKB approximation, we look at the problem of tunnelling out of a trap. This kind of problem was first introduced by Gamow as a model for alpha decay.
+
+Consider the potential shown in the figure, with functional form V(x) = −V , x < R +α/x , x > R We’ll think of this as a one-dimensional problem; it is not difficult to generalise to three dimensions. Here R is to be thought of as the size of the nucleus, V models the nuclear binding energy while, outside the nucleus, the particle feels a Coulomb repulsion. If we take the particle to have charge q (for an alpha particle, this is q = 2e) and the nucleus that remains to have charge Ze, we should have α = Zqe / (4πϵ)
+
+Any state with E < 0 is bound and cannot leave the trap. (These are shown in green in the figure.) But those with 0 < E < α/R are bound only classically; quantum mechanics allows them to tunnel through the barrier and escape to infinity. We would like to calculate the rate at which this happens.
+
+In the region x < R, the wavefunction has the form ψ_inside(x) = Ae^{ikx} with E = ℏ²k²/(2m)
+
+After tunnelling, the particle emerges at distance x = x_⋆ defined by E = α/x_⋆. For x > x_⋆, the wavefunction again oscillates, with a form given by the WKB approximation (2.14). However, the amplitude of this wavefunction differs from the value A. The ratio of these two amplitudes determines the tunnelling rate.
+
+To compute this, we patch the two wavefunctions together using the exponentially decaying WKB solution in the region R < x < x_⋆. This gives ψ(x_⋆) = ψ(R)e^{-S/ℏ} where the exponent is given by the integral S = ∫_{x_⋆}^{R} dx' √(2m(α/x' - E))   (2.29)
+
+This integral is particularly simple to compute in the limit R → 0 where it is given by S = π√(2mα²/E) = 2πα/(ℏv)
+
+where, in the second equality, we’ve set the energy of the particle equal to its classical kinetic energy: E = ½mv².
+
+The transmission probability T is then given by T = |ψ(x_⋆)|² / |ψ(R)|² = e^{-2S/ℏ}   (2.30)
+
+This already contains some interesting information. In particular, recalling the definition of α in (2.28), we see that the larger the charge of the nucleus, the less likely the decay.
+
+Usually we discuss the decay of atomic nuclei in terms of lifetimes. We can compute this by adding some simple (semi)-classical ideas to the above analysis. Inside the trap, the particle is bouncing backwards and forwards with velocity v = √(2(E+V)/m)
+
+This means that the particle hits the barrier with frequency ν = v/(2R). The decay rate is then Γ = νe^{-2S/ℏ} and the lifetime is τ = (2R / v) e^{2S/ℏ} We didn’t really treat the dependence on R correctly above. We set R = 0 when evaluating the exponent in (2.29), but retained it in the pre-factor. A better treatment does not change the qualitative results.
+
+One Last Thing...
+
+It is not difficult to extend this to a general potential V(x) as shown in the figure. In all cases, the transmission probability has an exponential fall-off of the form T ~ e^{-2S/ℏ} where S is given by S = ∫_{x₀}^{x₁} dx' √(2m(V(x)-E))   (2.31)
+
+where the positions x₀ and x₁ are the classical turning points where V(x) = E, so that the integral is performed only over the forbidden region of the potential.
+
+There is a lovely interpretation of this result that has its heart in the path integral formulation of quantum mechanics. Consider a classical system with the potential −V(x) rather than +V(x). In other words, we turn the potential upside down. The action for such a system is S[x(t)] = ∫_{t₀}^{t₁} dt (½mẋ² + V(x))
+
+In this auxiliary system, there is a classical solution, x_cl(t) which bounces between the two turning points, so x_cl(t₀) = x₀ and x_cl(t₁) = x₁. It turns out that the exponent (2.31) is precisely the value of the action evaluated on this solution S = S[x_cl(t)]
+
+This result essentially follows from the discussion of Hamilton-Jacobi theory in the Classical Dynamics lecture notes.
+
+## 2.3 Changing Hamiltonians, Fast and Slow
+
+You learned in the previous course how to set-up perturbation theory when the Hamiltonian H(t) changes with time. There are, however, two extreme situations where life is somewhat easier. This is when the changes to the Hamiltonian are either very fast, or very slow.
+
+2.3.1 The Sudden Approximation
+
+We start with the fast case. We consider the situation where the system starts with some Hamiltonian H_i, but then very quickly changes to another Hamiltonian H_f. This occurs over a small timescale τ.
+
+Of course “very quickly” is relative. We require that the time τ is much smaller than any characteristic time scale of the original system. These time scales are set by the energy splitting, so we must have τ ≪ ℏ/∆E. If these conditions are obeyed, the physics is very intuitive. The system originally sits in some state |ψ⟩. But the change happens so quickly that the state does not have a chance to respond. After time τ, the system still sits in the same state |ψ⟩. The only difference is that the time dynamics is now governed by H_f rather than H_i.
+
+An Example: Tritium
+
+Tritium, 3H, is an isotope of hydrogen whose nucleus contains a single proton and two neutrons. It is unstable with a half-life of around 12 years. It suffers beta decay to helium, emitting an electron and anti-neutrino in the process: 3H → 3He+ + e− + ν̄. The electron is emitted with a fairly wide range of energies, whose mean is E ∼ 5.6 keV. Since the mass of the electron is mc^2 ≈ 511 keV, the electron departs with a speed given by E = 1/2 mv^2 (we could use the relativistic formula E = mγc^2 but it doesn’t affect the answer too much). This is v ≈ 0.15c. The time taken to leave the atom is then τ ≈ a_0/v ≈ 10^(−19) s where a_0 ≈ 5×10^(−11) m is the Bohr radius.
+
+We’ll initially take the electron in the tritium atom to sit in its ground state. The first excited state has energy difference ∆E = 3/4 E_0 ≈ 10 eV, corresponding to a time scale ℏ/∆E ≈ 6.5 × 10^(−17) s. We therefore find τ ≪ ℏ/∆E by almost two orders of magnitude. This justifies our use of the sudden approximation.
+
+The electron ground state of the tritium atom is the same as that of hydrogen, namely ψ_0 = e^(−Zr/a_0) / √(π a_0^3) with Z = 1. After the beta decay, the electron remains in this same state, but this is no longer an energy eigenstate. Indeed, the ground state of helium takes the same functional form, but with Z = 2. The probability that the electron sits in the ground state of helium is given by the overlap:
+
+P = |∫ d^3x ψ_0^⋆(x; Z=1) ψ_0(x; Z=2)|^2 = (8/3)^3 / 36 ≈ 0.7
+
+We see that 70% of the time the electron remains in the ground state. The rest of the time it sits in some excited state, and subsequently decays down to the ground state.
+
+2.3.2 An Example: Quantum Quench of a Harmonic Oscillator
+
+There are a number of experimental situations where one deliberately makes a rapid change to the Hamiltonian. This forces the system away from equilibrium, with the goal of opening a window on interesting dynamics. In this situation, the process of the sudden change of the Hamiltonian is called a quantum quench.
+
+As usual, the harmonic oscillator provides a particularly simple example. Suppose that we start with the Hamiltonian:
+
+H_1 = p^2/(2m) + 1/2 ω_1^2 x^2 = ℏω_1 (a_1^† a_1 + 1/2)
+
+where a_1 = √(mω_1/(2ℏ)) x + i √(1/(2mω_1ℏ)) p.
+
+Then, on a time scale τ ≪ ℏ/ω_1, we change the frequency of the oscillator so that the Hamiltonian becomes:
+
+H_2 = p^2/(2m) + 1/2 ω_2^2 x^2 = ℏω_2 (a_2^† a_2 + 1/2).
+
+Clearly the wavefunctions for energy eigenstates are closely related since the change in frequency can be compensated by rescaling x. However, here we would like to answer different questions: if we originally sit in the ground state of H_1, which state of H_2 do we end up in?
+
+A little bit of algebra shows that we can write the new annihilation operator as:
+
+a_2 = √(mω_2/(2ℏ)) x + i √(1/(2mω_2ℏ)) p = (√(ω_1/ω_2) + √(ω_2/ω_1))/2 * a_1 + (√(ω_2/ω_1) - √(ω_1/ω_2))/2 * a_1^†.
+
+Let’s denote the ground state of H_1 by |∅⟩. It obeys a_1|∅⟩ = 0. In terms of our new creation and annihilation operators, this state satisfies (ω_1 + ω_2) a_2|∅⟩ = (ω_1 - ω_2) a_2^†|∅⟩. Expanded in terms of the eigenstates |n⟩, n = 0,1,... of H_2, we find that it involves the whole slew of parity-even excited states:
+
+|∅⟩ = Σ_{n=0}^∞ α_{2n} |2n⟩ with α_{2n} = α_0 √((2n+1)/(2n+2)) * ((ω_1 - ω_2)/(ω_1 + ω_2))^n.
+
+We can also address more detailed questions about the dynamics. Suppose that the quench takes place at time t = 0. Working in the Heisenberg picture, we know that for the initial state:
+
+⟨∅|x^2(0)|∅⟩ = ℏ/(2mω_1) and ⟨∅|p^2(0)|∅⟩ = ℏ m ω_1/2.
+
+The position operator now evolves, governed by the new Hamiltonian H_2:
+
+x(t) = x(0) cos(ω_2 t) + p(0)/(m ω_2) sin(ω_2 t).
+
+With a little bit of algebra we find that, for t_2 > t_1, the positions are correlated as:
+
+⟨∅|x(t_2) x(t_1)|∅⟩ = e^{-i ω_2 (t_2 - t_1)} * [ (ℏ/(2 m ω_2)) * ( ((ω_1^2 - ω_2^2) cos(ω_2 (t_2 + t_1)) + (ω_1 - ω_2)^2 cos(ω_2 (t_2 - t_1)) ) / (2 ω_1 ω_2) ) ].
+
+The first term is the evolution of a ground state in the new potential.
+
+an energy eigenstate; this is what we would get if no quench took place. The other terms are due to the quench. The surprise is the existence of the term that depends on (t₁ + t₂). This is not time translationally invariant, even though both times are measured after t = 0. This means that the state carries a memory of the traumatic event that happened during the quench.
+
+2.3.3 The Adiabatic Approximation
+
+We now turn to the opposite limit, when the Hamiltonian changes very slowly. Here “slow” is again relative to the energy splitting ℏ/∆E, as we will see below.
+
+Consider a Hamiltonian H(λ) which depends on some number of parameters λᵢ. For simplicity, we will assume that H has a discrete spectrum. We write these states as H|n(λ)⟩ = Eₙ(λ)|n(λ)⟩ (2.32)
+
+Let’s place ourselves in one of these energy eigenstates. Now vary the parameters λᵢ. The adiabatic theorem states that if λᵢ are changed suitably slowly, then the system will cling to the energy eigenstate |n(λ(t))⟩ that we started off in.
+
+To see this, we want to solve the time-dependent Schrödinger equation iℏ ∂|ψ(t)⟩/∂t = H|ψ(t)⟩
+
+We expand the solution in a basis of instantaneous energy eigenstates, |ψ(t)⟩ = Σₘ aₘ(t) eⁱᶿᵐ⁽ᵗ⁾ |m(λ(t))⟩ (2.33)
+
+Here aₘ(t) are coefficients that we wish to determine, while ξₘ(t) is the usual energy-dependent phase factor ξₘ(t) = -(1/ℏ) ∫₀ᵗ Eₘ(t′) dt′
+
+To proceed, we substitute our ansatz (2.33) into the Schrödinger equation to find Σₘ [ȧₘ eⁱᶿᵐ |m(λ)⟩ + aₘ eⁱᶿᵐ (∂/∂λᵢ |m(λ)⟩) λ̇ᵢ] = 0
+
+where we’ve cancelled the two terms which depend on Eₘ. Taking the inner product with ⟨n(λ)| gives ȧₙ = -Σₘ aₘ eⁱ⁽ᶿᵐ⁻ᶿⁿ⁾ ⟨n(λ)| (∂/∂λᵢ |m(λ)⟩) λ̇ᵢ = -i aₙ Σᵢ Aₙᵢ(λ) λ̇ᵢ - Σₘ≠ₙ aₘ eⁱ⁽ᶿᵐ⁻ᶿⁿ⁾ ⟨n(λ)| (∂/∂λᵢ |m(λ)⟩) λ̇ᵢ (2.34)
+
+In the second line, we’ve singled out the m = n term and defined Aₙᵢ(λ) = -i⟨n| (∂/∂λᵢ) |n⟩ (2.35)
+
+This is called the Berry connection. It plays a very important role in many aspects of theoretical physics, and we’ll see some examples in Section 2.3.4.
+
+First, we need to deal with the second term in (2.34). We will argue that this is small. To see this, we return to our original definition (2.32) and differentiate with respect to λ, (∂H/∂λᵢ) |m⟩ + H (∂|m⟩/∂λᵢ) = (∂Eₘ/∂λᵢ) |m⟩ + Eₘ (∂|m⟩/∂λᵢ)
+
+Now take the inner product with ⟨n| where n ≠ m to find (Eₘ - Eₙ) ⟨n| (∂|m⟩/∂λᵢ) = ⟨n| (∂H/∂λᵢ) |m⟩
+
+This means that the second term in (2.34) is proportional to ⟨n| (∂|m⟩/∂λᵢ) λ̇ᵢ = ⟨n| (∂H/∂λᵢ) |m⟩ λ̇ᵢ / (Eₘ - Eₙ) (2.36)
+
+The adiabatic theorem holds when the change of parameters λ̇ᵢ is much smaller than the splitting of energy levels Eₘ - Eₙ. In this limit, we can ignore this term. From (2.34), we’re then left with ȧₙ = -i aₙ Σᵢ Aₙᵢ λ̇ᵢ
+
+This is easily solved to give aₙ = Cₙ exp[ -i ∫₀ᵗ Aₙᵢ(λ(t′)) λ̇ᵢ dt′ ] (2.37)
+
+where Cₙ are constants.
+
+This is the adiabatic theorem. If we start at time t = 0 with aₘ = δₘₙ, so the system is in a definite energy eigenstate |n⟩, then the system remains in the state |n(λ)⟩ as we vary λ. This is true as long as ℏλ̇ᵢ ≪ ∆E, so that we can drop the term (2.36).
+
+In particular, this means that when we vary the parameters λ, we should be careful to avoid level crossing, where another state becomes degenerate with the |n(λ)⟩ that we’re sitting in. In this case, we will have Eₘ = Eₙ for some |m⟩ and all bets are off: when the states separate again, there’s no simple way to tell which linear combinations of the state we now sit in.
+
+However, level crossings are rare in quantum mechanics. In general, you have to tune three parameters to specific values in order to get two states to have the same energy. This follows by thinking about a general Hermitian 2×2 matrix which can be viewed as the Hamiltonian for the two states of interest. The general Hermitian 2×2 matrix depends on 4 parameters, but its eigenvalues only coincide if it is proportional to the identity matrix. This means that three of those parameters have to be set to zero.
+
+2.3.4 Berry Phase
+
+There is a surprise hiding in the details of the adiabatic theorem. As we vary the parameters λ, the phase of the state |n(λ)⟩ changes but there are two contributions, rather than one. The first is the usual “e⁻ⁱᴱᵗ⁄ℏ” phase that we expect for an energy eigenstate; this is shown explicitly in our original ansatz (2.33). But there is also a second contribution to the phase, shown in (2.37).
+
+To highlight the distinction between these two contributions, suppose that we vary the parameters λ but, finally we put them back to their starting values. This means that we trace out a closed path C in the space of parameters. The second contribution (2.37) can now be written as eⁱᵞ = exp[ -i ∮_C Aₙᵢ(λ) dλᵢ ] (2.38)
+
+In contrast to the energy-dependent phase, this does not depend on the time taken to make the journey in parameter space. Instead, it depends only on the path we take through parameter space.
+
+Although the extra contribution (2.38) was correctly included in many calculations over the decades, its general status was only appreciated by Michael Berry in 1984. It is known as the Berry phase. It plays an important role in many of the more subtle applications that are related to topology, such as the quantum Hall effect and topological insulators. There is some very pretty geometry underlying the Berry phase. We can start to get a feel for this by looking a little more closely at the Berry connection (2.35). This is an example of a kind of object that you’ve seen before: it is like the gauge potential in electromagnetism! Let’s explore this analogy a little further. In the relativistic form of electromagnetism, we have a gauge potential Aµ (x) where µ = 0,1,2,3 and x are coordinates over Minkowski spacetime. There is a redundancy in the description of the gauge potential: all physics remains invariant under the gauge transformation Aµ → A′µ = Aµ + ∂µω (2.39) for any function ω(x). In our course on Electromagnetism, we were learned that if we want to extract the physical information contained in Aµ, we should compute the field strength Fµν = ∂µAν − ∂νAµ. This contains the electric and magnetic fields. It is invariant under gauge transformations. Now let’s compare this to the Berry connection A_i(λ). Of course, this no longer depends on the coordinates of Minkowski space; instead it depends on the parameters λi. The number of these parameters is arbitrary; let’s suppose that we have d of them. This means that i = 1,...,d. In the language of differential geometry A_i(λ) is said to be a one-form over the space of parameters, while Aµ(x) is said to be a one-form over Minkowski space. There is also a redundancy in the information contained in the Berry connection A_i(λ). This follows from the arbitrary choice we made in fixing the phase of the reference states |n(λ)⟩. We could just as happily have chosen a different set of reference states which differ by a phase. Moreover, we could pick a different phase for every choice of parameters λ, |n′(λ)⟩ = eiω(λ)|n(λ)⟩ for any function ω(λ). If we compute the Berry connection arising from this new choice, we have A′i = −i⟨n′| ∂/∂λi |n′⟩ = A_i + ∂iω (2.40) This takes the same form as the gauge transformation (2.39). Following the analogy with electromagnetism, we might expect that the physical information in the Berry connection can be found in the gauge invariant field strength which, mathematically, is known as the curvature of the connection, Fij(λ) = ∂iAj − ∂jAi. It’s certainly true that Fij contains some physical information about our quantum system, but it’s not the only gauge invariant quantity of interest. In the present context, the most natural thing to compute is the Berry phase (2.38). Importantly, this too is independent of the arbitrariness arising from the gauge transformation (2.40). This is because ∮ ∂iω dλi = 0. Indeed, we’ve already seen this same expression in the context of electromagnetism: it is the Aharonov-Bohm phase that we also met in the lectures on Solid State Physics. In fact, it’s possible to write the Berry phase in terms of the field strength using the higher-dimensional version of Stokes’ theorem eiγ = exp(−i ∮_C A_i(λ)dλi) = exp(−i ∫∫_S Fij dSij) (2.41) where S is a two-dimensional surface in the parameter space bounded by the path C.
+
+2.3.5 An Example: A Spin in a Magnetic Field The standard example of the Berry phase is very simple. It is a spin, with a Hilbert space consisting of just two states. The spin is placed in a magnetic field B. We met the Hamiltonian in this system when we discussed particles in a magnetic field in the lectures on Solid State Physics: it is H = −B·σ + B where σ are the triplet of Pauli vectors. We’ve set the magnetic moment of the particle to unity for convenience, and we’ve also added the constant offset B = |B| to this Hamiltonian to ensure that the ground state always has vanishing energy. This is so that the phase e−iEt/ℏ will vanish for the ground state and we can focus on the Berry phase that we care about. The Hamiltonian has two eigenvalues: 0 and +2B. We denote the ground state as |↓⟩ and the excited state as |↑⟩, H|↓⟩ = 0 and H|↑⟩ = 2B|↑⟩. Note that these two states are non-degenerate as long as B ̸= 0. We are going to treat the magnetic field as the parameters, so that λi ≡ Bi in this example. Be warned: this means that things are about to get confusing because we’ll be talking about Berry connections A_i and curvatures Fij over the space of magnetic fields. (As opposed to electromagnetism where we talk about magnetic fields over actual space). The specific form of |↑⟩ and |↓⟩ will depend on the orientation of B. To provide more explicit forms for these states, we write the magnetic field B in spherical polar coordinates B = (B sinθ cosϕ, B sinθ sinϕ, B cosθ)^T with θ ∈ [0,π] and ϕ ∈ [0,2π). The Hamiltonian then reads H = −B ( (cosθ−1) e^{-iϕ}sinθ; e^{iϕ}sinθ (−cosθ−1) ). In these coordinates, two normalise The eigenstates are given by \[ |\downarrow\rangle = \begin{pmatrix} e^{-i\phi}\sin\theta/2 \\ -\cos\theta/2 \end{pmatrix} \quad \text{and} \quad |\uparrow\rangle = \begin{pmatrix} e^{-i\phi}\cos\theta/2 \\ \sin\theta/2 \end{pmatrix} \]
+
+These states play the role of our \(|n(\lambda)\rangle\) that we had in our general derivation. Note, however, that they are not well defined for all values of B. When we have \(\theta = \pi\), the angular coordinate \(\phi\) is not well defined. This means that \(|\downarrow\rangle\) and \(|\uparrow\rangle\) don't have well defined phases. This kind of behaviour is typical of systems with non-trivial Berry phase.
+
+We can easily compute the Berry phase arising from these states (staying away from \(\theta = \pi\) to be on the safe side). We have \[ A_\theta = -i\langle\downarrow|\partial_\theta|\downarrow\rangle = 0 \quad \text{and} \quad A_\phi = -i\langle\downarrow|\partial_\phi|\downarrow\rangle = -\sin^2\frac{\theta}{2} \]
+
+The resulting Berry curvature in polar coordinates is \[ F_{\theta\phi} = -\frac{\partial A_\phi}{\partial \theta} = -\frac{1}{2}\sin\theta \]
+
+This is simpler if we translate it back to cartesian coordinates where the rotational symmetry is more manifest. It becomes \[ F_{ij}(\mathbf{B}) = -\epsilon_{ijk}\frac{B_k}{2|\mathbf{B}|^3} \]
+
+But this is interesting. It is a magnetic monopole. Except now it's not a magnetic monopole of electromagnetism. Instead it is, rather confusingly, a magnetic monopole in the space of magnetic fields.
+
+Note that the magnetic monopole sits at the point \(\mathbf{B} = 0\) where the two energy levels coincide. Here, the field strength is singular. This is the point where we can no longer trust the Berry phase computation. Nonetheless, it is the presence of this level crossing and the resulting singularity which is dominating the physics of the Berry phase.
+
+The magnetic monopole has charge \(g = -1/2\), meaning that the integral of the Berry curvature over any two-sphere \(S^2\) which surrounds the origin is \[ \int_{S^2} F_{ij} dS^{ij} = 4\pi g = -2\pi \qquad (2.42)
+
+\]
+
+Using this, we can easily compute the Berry phase for any path \(C\) that we choose to take in the space of magnetic fields \(\mathbf{B}\). We only insist that the path \(C\) avoids the origin. Suppose that the surface \(S\), bounded by \(C\), makes a solid angle \(\Omega\). Then, using the form (2.41) of the Berry phase, we have \[ e^{i\gamma} = \exp\left(-i\int_{S} F_{ij} dS^{ij}\right) = e^{i\Omega} \qquad (2.43)
+
+\]
+
+Note, however, that there is an ambiguity in this computation. We could choose to form \(S\) as shown in the left hand figure. But we could equally well choose the surface \(S'\) to go around the back of the sphere, as shown in the right-hand figure. In this case, the solid angle formed by \(S'\) is \(\Omega' = 4\pi - \Omega\). Computing the Berry phase using \(S'\) gives \[ e^{i\gamma'} = \exp\left(-i\int_{S'} F_{ij} dS^{ij}\right) = e^{-i(4\pi - \Omega)} = e^{i\Omega} = e^{i\gamma} \qquad (2.44)
+
+\]
+
+where the difference in sign in the second equality comes because the surface now has opposite orientation. So, happily, the two computations agree. Note, however, that this agreement requires that the charge of the monopole in (2.42) is \(2g \in \mathbb{Z}\).
+
+The discussion above is a repeat of Dirac's argument for the quantisation of magnetic charge; this can also be found in the lectures on Solid State Physics and the lectures on Gauge Theory (where you'll even find the same figures!). Dirac's quantisation argument extends to a general Berry curvature \(F_{ij}\) with an arbitrary number of parameters: the integral of the curvature over any closed surface must be quantised in units of \(2\pi\), \[ \int F_{ij} dS^{ij} = 2\pi C \qquad (2.45)
+
+\]
+
+The integer \(C \in \mathbb{Z}\) is called the Chern number.
+
+You can read more about extensions of the Berry phase and its applications in the lectures on the Quantum Hall Effect.
+
+2.3.6 The Born-Oppenheimer Approximation "I couldn't find any mistake - did you really do this alone?"
+
+Oppenheimer to his research supervisor Max Born
+
+The Born-Oppenheimer approximation is an approach to solving quantum mechanical problems in which there is a hierarchy of scales. The standard example is a bunch of nuclei, each with position \(\mathbf{R}_\alpha\), mass \(M_\alpha\) and charge \(Z_\alpha e\), interacting with a bunch of electrons, each with position \(\mathbf{r}_i\), mass \(m\) and charge \(-e\). The Hamiltonian is \[ H = \sum_{\alpha} \frac{\hbar^2}{2M_\alpha} \nabla_\alpha^2 + \sum_{i} \frac{\hbar^2}{2m} \nabla_i^2 + \sum_{i,j} \frac{e^2}{4\pi\epsilon_0 |\mathbf{r}_i - \mathbf{r}_j|} + \sum_{\alpha,\beta} \frac{Z_\alpha Z_\beta e^2}{|\mathbf{R}_\alpha - \mathbf{R}_\beta|} - \sum_{\alpha,i} \frac{Z_\alpha e^2}{|\mathbf{r}_i - \mathbf{R}_\alpha|} \]
+
+This simple Hamiltonian is believed to describe much of what we see around us in the world, so much so that some condensed matter physicists will refer to this, only half-jokingly, as the "theory of everything". Of course, the information about any complex system is deeply hidden within this equation, and the art of physics is finding approximation schemes, or emergent organising principles, to extract this information.
+
+The hierarchy of scales in the Hamiltonian above arises because of the mass difference between the nuclei and the electrons. Recall that the proton-to-electron mass ratio is \(m_p/m_e \approx 1836\). This means that the nuclei are cumbersome and slow, while the electrons are nimble and quick. Relatedly, the nuclei wavefunctions are much more localised than the electron wavefunctions. This motivates us to first fix the positions of the nuclei and look at the electron Hamiltonian, and only later solve for the nuclei dynamics. This is the essence of the Born-Oppenheimer approximation.
+
+To this end, we write H = H + H nucl el where H_nucl = -∑_α (ℏ²/(2M_α))∇_α² + ∑_{α,β} (Z_α Z_β e²)/(4πε₀|R_α - R_β|)
+
+and H_el = -∑_i (ℏ²/(2m))∇_i² + ∑_{i,j} e²/(4πε₀|r_i - r_j|) - ∑_{i,α} (Z_α e²)/(4πε₀|r_i - R_α|)
+
+We then solve for the eigenstates of H_el, where the nuclei positions R are viewed as parameters which, as in the adiabatic approximation, will subsequently vary slowly.
+
+The only difference with our previous discussion is that the time evolution of R is determined by the dynamics of the system, rather than under the control of some experimenter.
+
+For fixed R, the instantaneous electron wavefunctions are H_el ϕ_n(r;R) = ε_n(R) ϕ_n(r;R)
+
+In what follows, we will assume that the energy levels are non-degenerate. (There is an interesting generalisation if there is a degeneracy which we will not discuss in these lectures.) We then make the ansatz for the wavefunction of the full system Ψ(r,R) = ∑_n Φ_n(R) ϕ_n(r;R)
+
+We'd like to write down an effective Hamiltonian which governs the nuclei wavefunctions Φ_n(R). This is straightforward. The wavefunction Ψ obeys (H_nucl + H_el) Ψ = E Ψ Switching to bra-ket notation for the electron eigenstates, we can write this as ∑_m ⟨ϕ_m| H_nucl |Φ_n ϕ_n⟩ + ε_n(R) Φ_m = E Φ_m (2.46)
+
+Now H_nucl contains the kinetic term ∇_R², and this acts both on the nuclei wavefunction Φ_n, but also on the electron wavefunction ϕ_n(r;R) where the nuclei positions sit as parameters. We have ⟨ϕ_m| ∇_R² |Φ_n ϕ_n⟩ = δ_{mn} ∇_R² + ⟨ϕ_m|∇_R|ϕ_n⟩ ∇_R + ⟨ϕ_n|∇_R|ϕ_m⟩ ∇_R + ⟨ϕ_m|∇_R|ϕ_n⟩ ⟨ϕ_k|∇_R|ϕ_n⟩ Φ_k We now argue that, as in Section 2.3.3, the off-diagonal terms are small. The same analysis as in (2.36) shows that they can be written as ∑_{k≠n} |⟨ϕ_n|(∇_R H_el)|ϕ_k⟩|² / (ε_n - ε_k)² In the spirit of the adiabatic approximation, these can be neglected as long as the motion of the nuclei is smaller than the splitting of the electron energy levels. In this limit, we get a simple effective Hamiltonian for the nuclei (2.46). The Hamiltonian depends on the state |ϕ_n⟩ that the electrons sit in, and is given by H_eff_n = -∑_α (ℏ²/(2M_α)) (∇_α - i A_{n,α})² + ∑_{α,β} (Z_α Z_β e²)/(4πε₀|R_α - R_β|) + ε_n(R)
+
+We see that the electron energy level ε_n(R) acts as an effective potential for the nuclei. Perhaps more surprisingly, the Berry connection A_{n,α} = -i ⟨ϕ_n|∇_{R_α}|ϕ_n⟩ also makes an appearance, now acting as an effective magnetic field in which the nuclei R moves.
+
+The idea of the Born-Oppenheimer approximation is that we can first solve for the fast-moving degrees of freedom, to find an effective action for the slow-moving degrees of freedom. We sometimes say that we have "integrated out" the electron degrees of freedom, language which really comes from the path integral formulation of quantum mechanics. This is a very powerful idea, and one which becomes increasingly important as we progress in theoretical physics. Indeed, this simple idea underpins the Wilsonian renormalisation group which we will meet in later courses.
+
+2.3.7 An Example: Molecules The Born-Oppenheimer approximation plays a key role in chemistry (and, therefore, in life in general). This is because it provides quantitative insight into the formation of covalent bonds, in which it is energetically preferable for nuclei to stick together because the gain in energy from sharing an electron beats their mutual Coulomb repulsion.
+
+The simplest example is the formation of the hydrogen molecule H₂, consisting of two protons and a single electron. If we fix the proton separation to R, then the resulting Hamiltonian for the electrons is H_el = - (ℏ²/(2m)) ∇² - e²/(4πε₀ r) + e²/(4πε₀ |r-R|)
+
+To proceed, we will combine the Born-Oppenheimer approximation with the variational method that we met in Section 2.1. Our ultimate goal is simply to show that a bound state exists. For this, the effective potential energy is much more important than the Berry connection. We will consider two possible ansatze for the electron ground state ϕ_±(r) = A_± (ψ_0(r) ± ψ_0(r-R))
+
+where ψ_0 = e^{-r/a₀} / √(π a₀³)
+
+is the ground state wavefunction of hydrogen, which has energy E₀ = -e²/(8πε₀ a₀).
+
+Although ψ_0 is normalised, the full wavefunction ϕ_± is not. The normalisation condition gives A_±² = [1 ± ∫ d³r ψ_0(r) ψ_0(r-R)]⁻¹ / 2 This is the first of several, rather tedious integrals that we have in store. They can all be done using the kind of techniques that we introduced in Section 2.1.2 when discussing helium. Here I'll simply state the answers. It turns out that u(R) = ∫ d³r ψ_0(r) ψ_0(r-R) = 1 + (R/a₀) + (R²/(3a₀²)) e^{-R/a₀} Moreover ，我们还需要 $$ v(\mathbf{R}) = \int d^3r \, \psi_0(\mathbf{r}) \psi_0(\mathbf{r}-\mathbf{R}) \frac{1}{r} = \frac{1}{a_0} \left(1 + e^{-R/a_0}\right) $$ $$ w(\mathbf{R}) = \int d^3r \, |\psi_0(\mathbf{r})|^2 \frac{1}{|\mathbf{r}-\mathbf{R}|} = \frac{1}{R} \left(1 - e^{-2R/a_0}\right) $$
+
+The expected energy in the state $\Psi(\mathbf{r})$ can be calculated to be $$ \epsilon_\pm(\mathbf{R}) = \langle \phi_\pm | H | \phi_\pm \rangle = E_0 - 2A^2 \left[ w(\mathbf{R}) \pm v(\mathbf{R}) \right] $$
+
+This means that the nuclei experience an effective potential energy given by $$ V_{\text{eff}}(\mathbf{R}) = \frac{e^2}{4\pi\epsilon_0 R} + \epsilon_\pm(\mathbf{R}) = -\frac{e^2}{4\pi\epsilon_0 R} \frac{1 \pm w(\mathbf{R}) \pm v(\mathbf{R})}{1 \pm u(\mathbf{R})} + E_0 $$
+
+This makes sense: as $R \to \infty$, we get $V_{\text{eff}} \to E_0$, which is the energy of a hydrogen atom.
+
+Above, we have sketched the effective potential $V_{\text{eff}} - E_0$ for the two wavefunctions $\phi_{0\pm}$. We see that the state $\phi_{0+}$ gives rise to a minimum below zero. This is indicating the existence of a molecular bound state. In contrast, there is no such bound state for $\phi_{0-}$. This difference is primarily due to the fact that $\phi_{0+}$ varies more slowly and so costs less kinetic energy.
+
+## 3. Atoms
+
+The periodic table is one of the most iconic images in science. All elements are classified in groups, ranging from metals on the left that go bang when you drop them in water through to gases on the right that don’t do very much at all.
+
+However, the periodic table contains plenty of hints that it is not the last word in science. There are patterns and order that run through it, all hinting at some deeper underlying structure. That structure, we now know, is quantum mechanics.
+
+The most important pattern is also the most obvious: the elements are ordered, labelled by an integer, $Z$. This is the atomic number which counts the number of protons in the nucleus. The atomic number is the first time that the integers genuinely play a role in physics. They arise, like most other integers in physics, as the spectrum of a particular Schrödinger equation. This equation is rather complicated and we won’t describe it in this course but, for what it’s worth, it involves a Hamiltonian which describes the interactions of quarks and is known as the theory of quantum chromodynamics.
+
+While the atomic number is related to the quantum mechanics of quarks, all the other features of the periodic table arise from the quantum mechanics of the electrons.
+
+The purpose of this section is to explain some of the crudest features of the table from first principles. We will answer questions like: what determines the number of elements in each row? Why are there gaps at the top, and two rows at the bottom that we can’t fit in elsewhere? What’s special about the sequence of atomic numbers $2,10,18,26,54,86,\ldots$ that label the inert gases?
+
+We will also look at more quantitative properties of atoms, in particular their energy levels, and the ionization energy needed to remove a single electron. In principle, all of chemistry follows from solving the Schrödinger equation for some number of electrons. However, solving the Schrödinger equation for many particles is hard and there is a long path between “in principle” and “in practice”. In this section, we take the first steps down this path.
+
+## 3.1 Hydrogen
+
+We’re going to start by looking at a very simple system that consists of a nucleus with just a single electron. This, of course, is hydrogen.
+
+Now I know what you’re thinking: you already solved the hydrogen atom in your first course on quantum mechanics. But you didn’t quite do it properly. There are a number of subtleties that were missed in that first attempt. Here we’re going to explore these subtleties.
+
+3.1.1 A Review of the Hydrogen Atom
+
+We usually treat the hydrogen atom by considering an electron of charge $-e$ orbiting a proton of charge $+e$. With a view to subsequent applications, we will generalise this slightly: we consider a nucleus of charge $Ze$, still orbited by a single electron of charge $-e$. This means that we are also describing ions such as $\text{He}^+$ (for $Z = 2$) or $\text{Li}^{2+}$ (for $Z = 3$). The Hamiltonian is $$ H = -\frac{\hbar^2}{2m} \nabla^2 - \frac{Ze^2}{4\pi\epsilon_0 r} \tag{3.1} $$ The mass $m$ is usually taken to be the electron mass $m_e$ but since this is a two-body problem it’s more correct to think of it as the reduced mass. (See, for example, Section 5.1.5 of the lectures on Dynamics and Relativity.) This means that $m = m_e M/(m_e + M) \approx m_e - m_e^2/M$ where $M$ is the mass of the nucleus. The resulting $m$ is very close to the electron mass. For example, for hydrogen where the nucleus is a single proton, $M = m_p \approx 1836 m_e$.
+
+The Schrödinger equation is the eigenvalue problem $$ H\psi = E\psi $$ This is the problem that you solved in your first course. The solutions are $$ \psi_{n,l,m}(\mathbf{r}) = R_{n,l}(r) Y_{l,m}(\theta,\phi) \tag{3.2} $$ where $R_{n,l}(r)$ are the (generalised) Laguerre polynomials and $Y_{l,m}(\theta,\phi)$ are spherical harmonics, with energy eigenvalues. The states are labelled by three quantum numbers, $n$, $l$ and $m$, which take integer values in the range $$ n = 1,2,3,\ldots, \quad l = 0,1,\ldots,n-1, \quad m = -l,\ldots,+l $$ (Don’t confuse the quantum number $m$ with the mass $m$! Both will appear in formulae below, but it should be obvious which is which.) Importantly, the energy eigenvalue only depends on the first of these quantum numbers.
+
+E = −(Z²e²)/(4πϵ₀) * (1/(2ℏ²n²))   n ∈ Z where, just in case you weren’t sure, it’s the mass m that appears in this formula. This is sometimes written as E = −(Z²Ry)/n² where Ry ≈ 13.6 eV is known as the Rydberg energy; it is the binding energy of the ground state of hydrogen. Alternatively, it is useful to write the energy levels as E = −((Zα)²mc²)/(2n²)   where α = e²/(4πϵ₀ℏc) (3.3)
+
+This may appear slightly odd as we’ve introduced factors of the speed of light c which subsequently cancel those in α. Writing it this way means that we can immediately see how the binding energies compare to the rest mass energy mc² of the electron. The quantity α is dimensionless and takes the value α ≈ 1/137. It is called the fine structure constant, a name that arises because it was first introduced in the calculations of the “fine structure” of hydrogen that we will see below. The fine structure constant should be thought of as the way to characterise the strength of the electromagnetic force.
+
+Some Definitions This energy spectrum can be seen experimentally as spectral lines. These are due to excited electrons dropping from one state n to a lower state n′ < n, emitting a photon of fixed frequency ℏω = E_n − E_{n′}. When the electron drops down to the ground state with n′ = 1, the resulting lines are called the Lyman series. When the electron drops to higher states n′ > 1, the sequences are referred to as Balmer, Paschen and so on.
+
+Instead of using the angular momentum quantum number l to label the state, they are sometimes referred to as letters. l = 0,1,2,3 are called s, p, d and f respectively. The names are old fashioned and come from the observed quality of spectral lines; they stand for sharp, principal, diffuse and fundamental, but they remain standard when describing atomic structure.
+
+Degeneracy The fact that the energy depends only on n and not on the angular momentum quantum numbers l and m means that each energy eigenvalue is degenerate. For fixed l, there are 2l +1 states labelled by m. Which means that for a fixed n, the total number of states is Degeneracy = Σ_{l=0}^{n-1} (2l+1) = n² Moreover, each electron also carries a spin degree of freedom. Measured along a given axis, this spin can either be up (which means m_s = 1/2) or down (m_s = −1/2). Including this spin, the total degeneracy of states with energy E is Degeneracy = 2n² The main reason for revisiting the quantum mechanics of hydrogen is to understand what becomes of this degeneracy. Before we proceed, it’s worth first thinking about where this degeneracy comes from. Usually in quantum mechanics, any degeneracy is related to a conservation law which, in turn, are related to symmetries. The hydrogen atom is no exception.
+
+The most subtle degeneracy to explain is the fact that the energy does not depend on l. This follows from the fact that the Hamiltonian (3.1) has a rather special conserved symmetry known as the Runge-Lenz vector. (We’ve met this in earlier courses in classical and quantum mechanics.) This follows, ultimately, from a hidden SO(4) symmetry in the formulation of the hydrogen atom. We therefore expect that any deviation from (3.1) will lift the degeneracy in l.
+
+Meanwhile, the degeneracy in m follows simply from rotational invariance and the corresponding conservation of angular momentum L. We don’t, therefore, expect this to be lifted unless something breaks the underlying rotational symmetry of the problem.
+
+Finally, the overall factor of 2 comes, of course, from the spin S. The degeneracy must, therefore, follow from the conservation of spin. Yet there is no such conservation law; spin is just another form of angular momentum. The only thing that is really conserved is the total angular momentum J = L+S. We would therefore expect any addition to the Hamiltonian (3.1) which recognises that only J is conserved to lift this spin degeneracy.
+
+We’ll now see in detail how this plays out. As we’ll show, there are a number of different effects which split these energy levels. These effects collectively go by the name of fine structure and hyperfine structure.
+
+3.1.2 Relativistic Motion The “fine structure” corrections to the hydrogen spectrum all arise from relativistic corrections. There are three different relativistic effects that we need to take into account: we will treat the first here, and the others in Sections 3.1.3 and 3.1.4.
+
+You can run into difficulties if you naively try to incorporate special relativity into quantum mechanics. To do things properly, you need to work in the framework of Quantum Field Theory and the Dirac equation, both of which are beyond the scope of this course. However, we’re only going to be interested in situations where the relativistic effects can be thought of as small corrections to our original result. In this situation, it’s usually safe to stick with single-particle quantum mechanics and use perturbation theory. That’s the approach that we’ll take here. Nonetheless, a number of the results that we’ll derive bel can only be rigorously justified by working with the Dirac equation.
+
+The first, and most straightforward, relativistic shift of the energy levels comes simply from the fact that the effective velocity of electrons in an atom is a substantial fraction of the speed of light. Recall that the energy of a relativistic particle is
+
+E = √(p²c² + m²c⁴) ≈ mc² + p²/(2m) − p⁴/(8m³c²) + ...
+
+The constant term mc² can be neglected and the next term is the usual non-relativistic kinetic energy which feeds into the Hamiltonian (3.1). Here we’ll treat the third term as a perturbation of our hydrogen Hamiltonian
+
+∆H = − p⁴/(8m³c²) (3.4)
+
+At first glance, it looks as if we’re going to be dealing with degenerate perturbation theory. However, this particular perturbation is blind to both angular momentum quantum numbers l and m, as well as the spin m_s. This follows straightforwardly from the fact that [∆H, L²] = [∆H, L_z] = 0. If we denote the states (3.2) as |nlm⟩, then it’s simple to show that
+
+⟨nlm|∆H|nl′m′⟩ = 0 unless l = l′ and m = m′
+
+This means that the energy shifts are
+
+(∆E)₁_{n,l} = ⟨∆H⟩_{n,l}
+
+where we’re introduced the notation ⟨∆H⟩_{n,l} = ⟨nlm|∆H|nlm⟩ and we’ve used the fact that the perturbation preserves SO(3) rotational invariance to anticipate that the change of energy won’t depend on the quantum number m. We want to compute this overlap. In fact, it’s simplest to massage it a little bit by writing
+
+∆H = − [H − V(r)]²/(2mc²)
+
+where V(r) = Ze²/(4πε₀r). This gives us the expression
+
+(∆E)₁_{n,l} = − [E²_n − 2E_n⟨V(r)⟩_{n,l} + ⟨V(r)²⟩_{n,l}]/(2mc²) (3.5)
+
+and our new goal is to compute the expectation values ⟨1/r⟩_{n,l} and ⟨1/r²⟩_{n,l} for the hydrogen atom wavefunctions.
+
+The first of these follows from the virial theorem (see Section 2.1.3) which tells us that the relative contribution from the kinetic energy and potential energy is 2⟨T⟩ = −⟨V⟩, so that ⟨E⟩ = ⟨T⟩ + ⟨V⟩ = ½⟨V⟩. Then,
+
+⟨1/r⟩_{n,l} = − (Z/(a₀ℏc)) ⟨V⟩_{n,l} = − (2E_n)/(Zαℏc) = 1/(a₀n²) (3.6)
+
+where a₀ = ℏ/(αmc) is the Bohr radius, the length scale characteristic of the hydrogen atom.
+
+Next up is ⟨1/r²⟩_{n,l}. Here there’s a cunning trick. For any quantum system, if we took the Hamiltonian H and perturbed it to H + λ/r², then the leading order correction to the energy levels would be ⟨λ/r²⟩. But, for the hydrogen atom, such a perturbation can be absorbed into the angular momentum terms,
+
+ℏ²l(l+1)/(2mr²) + λ/r² = ℏ²l′(l′+1)/(2mr²)
+
+But this is again of the form of the hydrogen atom Hamiltonian and we can solve it exactly. The only difference is that l′ is no longer an integer but some function l′(λ). The exact energy levels of the Hamiltonian with l′ follow from our first course on quantum mechanics: they are
+
+E(l′) = −mc²(Zα)²/[2(k + l′ + 1)²]
+
+Usually we would define the integer n = k + l + 1 to get the usual spectrum E_n given in (3.3). Here, instead, we Taylor expand E(λ) around λ = 0 to get
+
+E(l′) = E_n + (Zα)²mc² [dl′/dλ]_{λ=0} λ + ...
+
+= E_n + (Z²λ)/(a₀²n³(2l+1)) + ...
+
+From this we can read off the expectation value that we wanted: it is the leading correction to our exact result,
+
+⟨1/r²⟩_{n,l} = Z²/(a₀²n³(2l+1)) (3.7)
+
+The two expectation values (3.6) and (3.7) are what we need to compute the shift of the energy levels (3.5). We have
+
+(∆E)₁_{n,l} = − (Zα)⁴mc² [n/(l+1/2) − ¾] / (2n⁴) (3.8)
+
+As anticipated above, the relativistic effect removes the degeneracy in the quantum number l.
+
+Notice that the size of the correction is of order (Zα)⁴. This is smaller than the original energy (3.3) by a factor of (Zα)². Although we may not have realised it, (Zα)² is the dimensionless ratio which we’re relying on to be small so that perturbation theory is valid. (Or, for higher states, (Zα/n)²).
+
+It’s worth asking why we ended up with a perturbation to the energy which is smaller by a factor of (Zα)². Because this was a relativistic correction, we expect it to be of order v²/c² where v is the characteristic velocity of the electron. We can understand this by invoking the virial theorem which, in general, states that the expectation value of the kinetic energy ⟨T⟩ is related to the expectation value of the potential energy V ∼ rⁿ by 2⟨T⟩ = n⟨V⟩. For the hydrogen atom, this means that ⟨T⟩ = ½m⟨v²⟩ = −½⟨V⟩. Since, from the ground state energy (3.3), we know that E = ⟨T⟩ + ⟨V⟩ = mc²(Zα)²/2, we have ⟨v²⟩ = (Zα)²c² which confirms that (Zα)² is indeed the small parameter in the problem.
+
+3.1.3 Spin-Orbit Coupling and Thomas Precession
+
+The second shift of the energy levels comes from an interaction between the electron spin S and its angular momentum L. This is known as the spin-orbit coupling.
+
+The first fact we will need is that spin endows the electron with a magnetic dipole moment given by
+
+μ = −g S/(2m) (3.9)
+
+The coefficient of proportionality is called the gyromagnetic ratio or, sometimes, just the g-factor. To leading order g = 2 for the electron. This fact follows from the Dirac equation for the electron. We won’t derive this here and, for now, you will I have to take this fact on face value. A more precise analysis using quantum field theory shows that g receives small corrections. The current best known value is g = 2.00231930436182..., but we’ll stick with g = 2 in our analysis below.
+
+The second fact that we need is that the energy of a magnetic moment m in a magnetic field B is given by E = −B·m This is something we derived in Section 3 of the lectures on Electromagnetism.
+
+The final fact is the Lorentz transformation of the electric field: an electron moving with velocity v in an electric field E will experience a magnetic field B = v×E/c² This was derived in Section 5 of the lectures on Electromagnetism.
+
+We now apply this to the electron in orbit around the nucleus. The electron experiences a radial electric field given by E = −∇ϕ(r) with ϕ(r) = Ze/4πϵr. Putting everything together, the resulting magnetic field interacts with the spin, giving rise to a correction to the energy of the electron ∆E = − (eγ/mc²) (v×∇ϕ)·S = − (e/(mc)²) (p×ˆr)·S = (e/(mc)²) L·S (1/r) ∂ϕ/∂r where p = mγv is the momentum and L = r×p is the angular momentum. This is the promised spin-orbit coupling, in a form which we can promote to an operator. Thus the spin-orbit correction to the Hamiltonian is ∆H_SO = (e/(mc)²) (1/r) ∂ϕ/∂r L·S (3.10)
+
+Except....
+
+Thomas Precession It turns out that the interaction (3.10) is actually incorrect by a factor of 1/2. This is because of a subtle, relativistic effect known as Thomas precession.
+
+Thomas precession arises because the electron orbiting the nucleus is in a non-inertial frame. As we will now explain, this means that even if the electron experienced no magnetic field, its spin would still precess around the orbit.
+
+The basic physics follows from the structure of the Lorentz group. (See Section 7 of the lectures on Dynamics and Relativity.) Consider a Lorentz boost Λ(v) in the x-direction, followed by a Lorentz boost Λ′(v′) in the y-direction. Some simple matrix multiplication will convince you that the resulting Lorentz transformation cannot be written solely as a boost. Instead, it is a boost together with a rotation, Λ′(v′)Λ(v) = R(θ)Λ′′(v′′)
+
+where Λ′′(v′′) is an appropriate boost while R(θ) is a rotation in the x − y plane. This rotation is known as the Wigner rotation (or sometimes the Thomas rotation). Although we will not need this fact below, you can check that cosθ = (γ+γ′)/(γγ′+1) with γ and γ′ the usual relativistic factors.
+
+Now we’re going to apply this to a classical electron in orbit around the nucleus. At a fixed moment in time, it is moving with some velocity v relative to the nucleus. At some moment of time later, v+δv. The net effect of these two boosts is, as above, a boost together with a rotation.
+
+If the electron were a point particle, the Wigner rotation would have no effect. However, the electron is not a point particle: it carries a spin degree of freedom S and this is rotated by the Wigner/Thomas effect. The cumulative effect of these rotations is that the spin precesses as the electron orbits the nucleus. We would like to calculate how much.
+
+The correct way to compute the precession is to integrate up the consecutive, infinitesimal Lorentz transformations as the electron orbits the nucleus. Here, instead, we present a quick and dirty derivation. We approximate the circular orbit of the electron by an N-sided polygon. Clearly in the lab frame, at the end of each segment the electron shifts its velocity by an angle θ = 2π/N. However, in the electron’s frame there is a Lorentz contraction along the direction parallel to the electron’s motion. This means that the electron thinks it rotates by the larger angle tanθ′ = x/(γy) which, for N large, is θ′ ≈ 2πγ/N. The upshot is that, by the time the electron has completed a full orbit, it thinks that it has rotated by an excess angle of ∆θ = 2π(γ −1) ≈ 2πv²/2c² where we have expanded the relativistic factor γ = (1−v²/c²)−1/2 ≈ 1+v²/2c².
+
+This is all we need to determine the precession rate, ω. If the particle traverses the orbit with speed v and period T, then ω = ∆θ/T ≈ (2πv²/2c²)/T = av/2c² where, in the final step, we’ve replaced the period T with the acceleration a = v²/R = 2πv/T.
+
+Our derivation above tells us the angular precession. But what does this mean for a vector like S? A little thought shows that the component of S that lies perpendicular to the plane of the orbit remains unchanged, while the component that lies within the plane precesses with frequency ω. In other words, ∂S/∂t = ω × S with ω = v×a/(T 2c²) (3.11)
+
+This is Thomas precession. The effect is purely kinematic, due to the fact that the electron is not in an inertial frame. It can be thought of as a relativistic analog of the Coriolis force.
+
+Finally, note that in several places above, we needed the assumption that v/c is small. Correspondingly, our final result (3.11) is only the leading order answer. The correct answer turns out to be ω = (γ²/(γ+1)) v×a/(2c²)
+
+However, (3.11) will suffice for our purposes.
+
+Thomas Precession and the Spin-Orbit Coupling
+
+Let’s now see how the existence of Thomas precession affects the spin orbit coupling. Again, we’ll start with some basics. Classically, the energy E = −(e/m)B · S means that a spin will experience a torque when placed in a magnetic field. This, in turn, will cause it to precess
+
+∂S = B×S ∂t
+
+However, we’ve seen that Thomas precession (3.11) gives a further contribution to this. So the correct equation should be
+
+∂S = B×S+ω ×S ∂t
+
+The energy functional which gives rise to this is
+
+E = B·S+ω ·S
+
+Working to leading order in v/c, we massage the second term as
+
+ω ·S = (v×∇ϕ)·S = − L·S T 2mc2 2(mc)2 r ∂r
+
+where we’ve used Newton’s second law to write ma = e∇ϕ. We see that comes with the opposite sign and half the magnitude of the original contribution (3.10) to the energy. Adding the two together gives the final result for the correction to the Hamiltonian due to the spin-orbit coupling
+
+∆H = L·S (3.12)
+
+SO 2(mc)2 r ∂r
+
+with ϕ(r) the electrostatic potential which, for us, is ϕ = Ze/4πϵ r.
+
+Computing the Spin-Orbit Energy Shift
+
+Before our perturbation, the electron states were labelled by |nlm⟩, together with the spin ±1/2. The spin-orbit coupling will split the spin and angular momentum l degeneracy of the spectrum. To anticipate this, we should label these states by the total angular momentum
+
+J = L+S
+
+which takes quantum numbers j = l ± 1/2 with l = 0,1,.... (When l = 0, we only have j = 1/2.) Each state can therefore be labelled by |n,j,m ;l⟩ where |m | ≤ j and the additional label l is there to remind us where these states came from.
+
+We want to compute the eigenvalue of L·S acting on these states. The simplest way to do this is to consider J2 = L2 +S2 +2L·S, which tells us that
+
+L·S|n,j,m ;l⟩ = [j(j +1)−l(l+1)− 3/4]ℏ2 |n,j,m ;l⟩ j j
+
+= ℏ2/2 × { −(l+1)|n,j,m ;l⟩ j = l− 1/2 (l ≠ 0)
+
+j 2 l|n,j,m ;l⟩ j = l+ 1/2 j 2
+
+As in Section 3.1.2, when computing degenerate perturbation theory with |n,j,m ;l⟩, the off-diagonal matrix elements vanish. We are left with the shift of the energy eigenvalues given by
+
+(∆E ) = ⟨∆H ⟩ 2 n,j;l SO n,j;l
+
+where ⟨∆H ⟩ = ⟨n,j,m ;l|∆H |n,j,m ;l⟩.
+
+SO n,j;l j SO j
+
+With ∆H given in (3.10), and ϕ(r) = Ze/4πϵ r, the shift of energy levels are
+
+## SO
+
+(∆E ) = − (Ze2ℏ2 / (4.4πϵ 0 (mc)2)) × { −(l+1) ⟨1/r⟩ n,j;l , j = l − 1/2 (with l ≠ 0)
+
+2 n,j;l l ⟨1/r⟩ n,j;l , j = l + 1/2
+
+where, as in (3.13), the upper entry in {·} corresponds to j = l − 1/2 (with l ≠ 0) and the lower entry corresponds to j = l + 1/2. Note that when l = 0, we have ∆E = 0 because there is no angular momentum for the spin to couple to.
+
+In the previous section, we needed to compute ⟨1/r⟩ and ⟨1/r2⟩. We see that now we need to compute ⟨1/r3⟩. Once again, there is a cute trick. This time, we introduce a new “radial momentum” observable
+
+p˜ = −iℏ (∂/∂r + 1/r)
+
+It’s simple to check that the radial part of the Hamiltonian can be written as
+
+H = − ℏ2/2m × (1/r2 ∂/∂r (r2 ∂/∂r)) + ℏ2l(l+1)/2mr2 − Ze2/4πϵ r
+
+= p˜2/2m + ℏ2l(l+1)/2mr2 − Ze2/4πϵ r
+
+A quick computation shows that
+
+[p˜,H] = −iℏ [ ℏ2l(l+1)/mr3 + Ze2/4πϵ r2 ]
+
+Clearly this commutator doesn’t vanish. However, when evaluated on an energy eigenstate, we must have ⟨[p˜,H]⟩ = 0. From our expression above, this tells us that
+
+⟨1/r3⟩ n,j;l = [1 / (l(l+1))] ⟨(l(l+1)/a l(l+1)(l+1)n3)⟩ n,j;l (l ≠ 0)
+
+where we’ve used our earlier result (3.7) and, as before, a = ℏ/αmc is the Bohr radius. Putting this together, and re-writing the resulting expression in terms of j rather than l, we find that the shift of energy levels due to spin-orbit coupling is
+
+(∆E ) = (Zα)4mc2 / 4 × [1 / (j(j + 1/2)(j + 1)n3)] × (j + 1/2 − 1)
+
+2 n,j;l
+
+This is the same order of magnitude as the first fine-structure shift (3.8) which, rewritten in terms of j = l± 1/2, becomes
+
+(∆E ) = (Zα)4mc2 / 2 × [1 / (1/j + 1/4n − 1/(n3))]
+
+1 n,l
+
+Combining these results, we get an expression which happily looks the same regardless of the minus sign in j = l± 1/2. It is
+
+(∆E ) +(∆E ) = (Zα)4mc2 / 2 × (3/4n2 − 1/(2j +1)n3) (3.14)
+
+1 n,l 2 n,j;l
+
+where we should remember that for l = 0, (∆E ) = 0 and we only get the (∆E ) term.
+
+2 n,j;l 1 n,l
+
+3.1.4 Zitterbewegung and the Darwin Term
+
+There is one final contribution to the fine structure of the hydrogen atom. This one is somewhat more subtle than the others and a correct derivation really requires us to use the Dirac equation. Here we give a rather hand-waving explanation. One of the main lessons from combining quantum mechanics with special relativity is that particles are not point-like. A particle of mass m has a size given by the Compton wavelength, λ = ℏ/mc. For the electron, λ ≈ 3×10−11 cm. Roughly speaking, if you look at a distance smaller than this you will see a swarm of particle and anti-particles and the single particle that you started with becomes blurred by this surrounding crowd.
+
+量子场论为处理这个问题提供了框架。然而，在量子力学框架内，这是我们必须手动引入的东西。在此语境中，它有时被称为Zitterbewegung，或“颤抖运动”。假设一个粒子在势V(r)中运动。那么，如果粒子位于位置r，它将感受到在某个以r为中心、展宽距离~λ的区域内的平均势。为了包含这一点，我们将势进行泰勒展开： V(r) = V(r₀) + ⟨Δr⟩·∂V/∂r + (1/2)⟨Δr_i Δr_j⟩ ∂²V/(∂r_i ∂r_j) + ...
+
+由旋转对称性，⟨Δr⟩ = 0。同时，我们取⟨Δr_i Δr_j⟩ = (1/2) δ_ij。
+
+我没有办法证明这个期望值右边这个因子1/2的来源。你需要借助狄拉克方程来理解这一点。这给哈密顿量带来了额外的贡献，称为达尔文项： ΔH_Darwin = (ℏ²/8m²c²) ∇²V    (3.15)
+
+对于库仑势，这变为： ΔH_Darwin = (Zαℏ³/8m²c) 4πδ³(r)
+
+然而，所有角量子数l > 0的波函数在原点处为零，因此不受达尔文项影响。只有那些l = 0的态，其能量修正为： (ΔE)_{n,l} = ⟨ΔH_Darwin⟩_{n,l} = (Zαℏ³π/2m²c) |ψ_{nlm}(r=0)|² 归一化的波函数形式为ψ_{nlm}(r) = R_{nl}(r)Y_{lm}(θ,ϕ)。对于l = 0，我们有Y₀₀ = 1/√(4π)，径向波函数形式为： R_{n,l=0}(r) = (1/na₀)^{3/2} 2/(n!)^{3/2} √[(n-1)!/(2n)^n] e^{-r/(na₀)} L_{n-1}^{1}(2r/(na₀))
+
+现在我们需要挖掘一些拉盖尔多项式的性质。我们需要知道L_n^1(x) = dL_n(x)/dx，并且L_n(x) ≈ n! - n! n x + O(x²)，所以L_n^1(0) = n! n。
+
+原点处的波函数变为： |ψ_{n,l=0}(0)|² = Z³/(a₀³πn³)    (3.16)
+
+由此我们得到： (ΔE)_{n,l} = δ_{l,0} (Zα)⁴mc²/(2n³)    (3.17)
+
+自旋-轨道-达尔文项的合并我们推导自旋-轨道项(3.12)（包括托马斯进动）和达尔文项(3.15)的过程有些繁琐，并且有时略显粗略。事实上，有一种简单的方法可以将这两个表达式合并起来，最终与狄拉克方程很好地吻合。我们声称精细结构的合并表达式可以写为： ΔH = ΔH_SO + ΔH_Darwin = - [σ·p, [σ·p, V(r)]] / (8m²c²)    (3.18)
+
+这里σ = (σ₁, σ₂, σ₃)是三个泡利矩阵，与自旋算符的关系为S = (ℏ/2)σ。请注意，除了通常的动能项外，项(3.18)是我们能写下的唯一其他在动量上为二次型且仅涉及自旋矩阵S和势的项。因子1/(m²c²)由量纲确定，但整体系数1/8并非如此：你需要进行上述的某一个计算来确定它。
+
+现在让我们证明(3.18)确实如声称的那样重现了合并的自旋-轨道和达尔文耦合。展开后，我们有： [σ·p, [σ·p, V]] = p²V - Vp² - 2σ·p V σ·p = -ℏ²∇²V - 4(∇V × p)·S 其中，在过渡到第二行时，我们使用了σ_i σ_j = δ_ij + i ε_ijk σ_k，以及通常的算符表达式p = -iℏ∇和S = (ℏ/2)σ。我们认出第一项就是达尔文贡献(3.15)（相差一个整体常数）。对于第二项，我们需要用到V(r)是一个中心势，∇V = (dV/dr) r̂这一事实。一点代数运算表明，这恰好与自旋-轨道项(3.12)一致，其中L = r×p，并且势能V与静电势ϕ的关系为V = eϕ。我们再次强调，我们需要之前的一个论证来固定(3.18)中整体系数-1/8，但这种形式固定了自旋-轨道项与达尔文项之间的相对系数。
+
+3.1.5 最终的精细结构这是一段漫长的旅程。我们的精细结构计算揭示了三个贡献，前两个由(3.14)给出，第三个由(3.17)给出。回顾(3.14)中的自旋-轨道耦合在l = 0时贡献为零。相当有趣的是，达尔文项仅在l = 0时给出贡献，这恰好与l = 0, j = 1/2时自旋-轨道耦合的正式答案一致。由此得出的结论是，我们之前找到的答案(3.14)实际上对所有l都成立。换句话说，将所有贡献加在一起，(ΔE) = (ΔE)₁ + (ΔE)₂ + (ΔE)₃，我们得到了氢原子精细结构的最终结果： (ΔE)_{n,j} = -(Zα)⁴mc²/(2) [1/(4n³) - 1/(2j+1)]    (3.19)
+
+我们了解到能量劈裂只依赖于j。这并非必然。没有对称性要求j = |l ± 1|的状态具有相同的能量。我们称之为偶然简并。同时，每个状态的能量与其余角动量量子数m ≤ l无关。这并非偶然：它由旋转不变性保证。
+
+为了描述氢原子的状态，我们使用符号n#，其中#替换为表示轨道角动量l的字母。基态是1s_{1/2}。这是双重简并的，因为没有角动量，所以自旋态没有被自旋-轨道耦合劈裂。第一激发态是2s（两个自旋…… which is degenerate with 2p (three angular momentum states). Similarly, as we go up the spectrum we find that the 3p and 3d states are degenerate and so on.
+
+The Result from the Dirac Equation
+
+Our fine structure calculations have all treated relativistic effects perturbatively in v²/c². As we explained in Section 3.1.2, for the hydrogen atom this is equivalent to an expansion in 1/(Zα)². In fact, for this problem there is an exact answer. The derivation of this requires the Dirac equation and is beyond the scope of this course; instead we simply state the answer. The energy levels of the relativistic hydrogen atom are given by
+
+E_{n,j} = mc² [1 + (Zα)² / (n - j - 1/2 + √((j + 1/2)² - (Zα)²)) ]^{-1/2}   (3.19)
+
+Expanding in 1/(Zα) gives
+
+E_{n,j} = mc² [1 - (Zα)² / (2n²) + (Zα)⁴ / (2n³) * (1/(2j + 1) - 3/(4n)) + ...]
+
+The first term is, of course, the rest mass of the electron. The second term is the usual hydrogen binding energy, while the final term is the fine structure corrections that we’ve laboriously computed above.
+
+The Lamb Shift
+
+It turns out that the “exact” result (3.19) is not exact at all! In 1947, Willis Lamb reported the experimental discovery of a splitting between the 2s and 2p states.
+
+1/2 1/2 For this, he won the 1955 Nobel prize. The effect is now referred to as the Lamb shift.
+
+The Lamb shift cannot be understood using the kind of single-particle quantum mechanics that we’re discussing in this course. It is caused by quantum fluctuations of the electromagnetic field and needs the full machinery of quantum field theory, specifically quantum electrodynamics, or QED for short. Historically the experimental discovery of the Lamb shift was one of the prime motivations that led people to develop the framework of quantum field theory.
+
+3.1.6 Hyperfine Structure
+
+Both the fine structure corrections and the QED corrections treat the nucleus of the atom as a point-like object. This means that, although the corrections are complicated, the problem always has rotational symmetry.
+
+In reality, however, the nucleus has structure. This structure affects the atomic energy levels, giving rise to what is called hyperfine structure. There are a number of different effects that fall under this heading.
+
+The most important effects come from the magnetic dipole moment of the nucleus. Each constituent neutron and proton is a fermion, which means that they have an internal intrinsic spin 1/2. This is described by the quantum operator I. This, in turn, gives the nucleus a magnetic dipole moment
+
+μ_N = g_N * (Ze / (2M)) * I
+
+This takes the same form as (3.9) for the electron magnetic moment. Here M is the mass of the nucleus while g is the nucleus gyromagnetic factor.
+
+The Dirac equation predicts that every fundamental fermion has g = 2 (plus some small corrections). However, neither the proton nor the neutron are fundamental particles. At a cartoon level, we say that each is made of three smaller particles called quarks. The reality is much more complicated! Each proton and neutron is made of many hundreds of quarks and anti-quarks, constantly popping in an out of existence, bound together by a swarm of further particles called gluons. It is, in short, a mess. The cartoon picture of each proton and neutron containing three quarks arises because, at any given time, each contains three more quarks than anti-quarks.
+
+The fact that the protons and neutrons are not fundamental first reveals itself in their anomalously large gyromagnetic factors. These are
+
+g_proton ≈ 5.56 and g_neutron ≈ −3.83
+
+The minus sign for the neutron means that a neutron spin precesses in the opposite direction to a proton spin. Moreover, the spins point in opposite directions in their ground state.
+
+Now we can describe the ways in which the nuclear structure affects the energy levels of the atom:
+
+• Both the electron and the nucleus carry a magnetic moment. But we know from our first course on Electromagnetism that there is an interaction between nearby magnetic moments. This will lead to a coupling of the form I · S between the nucleus and electron spins.
+
+• The orbital motion of the electron also creates a further magnetic field, parallel to L. This subsequently interacts with the magnetic moment of the nucleus, resulting in a coupling of the form I·L.
+
+• The nucleus may have an electric quadrupole moment. This means that the electron no longer experiences a rotationally invariant potential.
+
+For most purposes, the effects due to the nuclear magnetic moment are much larger than those due to its electric quadrupole moment. Here we restrict attention to s-wave states of the electron, so that we only have to worry about the first effect above.
+
+To proceed, we first need a result from classical electromagnetism. A magnetic moment m placed at the origin will set up a magnetic field
+
+B = (2μ₀ / 3) * m δ³(0) + (μ₀ / (4πr³)) * (3(m · r̂)r̂ − m)   (3.20)
+
+The second term is the long-distance magnetic field and was derived in Section 3 of the Electro 磁性讲座。第一项是电流回路内部的磁场，在回路尺寸收缩至零而保持磁偶极矩固定的极限情况下。（这实际上可从电磁学课程的问题表中某题得出。）
+
+电子自旋通过超精细哈密顿量与该核磁场相互作用： ΔH = -m·B = S·B
+
+对于s波，(3.20)中第二项的贡献为零，我们只需计算第一项。将磁矩用自旋表示，并利用(3.16)给出的s波波函数在原点的表达式，超精细哈密顿量变为 ΔH = 2μ₀ g_N Ze² |ψ_{n,l=0}(0)|² S·I / (6Mm)
+
+= (Zα)⁴ m c² S·I / (3M n³) * (1/ℏ²)   (3.21)
+
+其中第二行利用了我们之前(3.16)给出的波函数在原点的值 |ψ_{n,l=0}(0)|² = Z³/(a₀³ π n³)，以及常用定义 a₀ = ℏ/(α m c) 和 α = e²/(4π ε₀ ℏ c)。
+
+我们可以看到，超精细分裂(3.21)与精细结构具有相同的参数形式，不同之处在于它被质量比 m/M 进一步抑制。对于 Z=1 的氢原子，应取 M = m_p（质子质量），且 m/m_p ≈ 1/1836。因此我们预期此分裂比精细结构分裂小三个数量级。
+
+我们可以用与第3.1.3节处理自旋轨道耦合相同的方式，计算算符 S·I 的本征值。定义总自旋为 F = S + I。对于电子和质子自旋均为1/2的氢原子，我们有 S·I = (1/2)(F² - S² - I²) / ℏ² = (1/2)[F(F+1) - 3/2 - 3/2] = { -3/4, 当 F=0; 1/4, 当 F=1 }   (3.22)
+
+这导致了电子自旋向上与向下状态之间的能级分裂，或等价地，原子总自旋 F=0 与 F=1 之间的分裂。
+
+**21厘米谱线** 超精细结构最重要的应用是氢原子1s₁/₂基态的分裂。从(3.22)可见，F=0 的自旋单态能量低于 F=1 的自旋三重态。能量差为 ΔE_{1s₁/₂} = 4α⁴ m² c² / (3M) ≈ 9.39×10⁻²⁵ J
+
+这很小，但并非极小。宇宙微波背景辐射的温度为 T ≈ 2.7 K，对应能量 E = k_B T ≈ 3.7×10⁻²³ J > ΔE_{1s₁/₂}。这意味着即使分布在远离恒星和星系的太空中的氢原子，其 F=1 态也会被宇宙的背景热浴激发。
+
+当电子从 F=1 态跃迁至 F=0 态时，会发射一个能量为 ΔE_{1s₁/₂} 的光子。其频率约1400 MHz，波长约21厘米。这一点很重要：该波长远大于漂浮在太空中的尘埃颗粒尺寸，因此不会像可见光那样被尘埃阻挡。这意味着氢的21厘米发射线可以无阻碍地穿过尘埃，这使其在天文学和宇宙学中具有极高的价值。
+
+例如，正是这条氢谱线让我们发现我们的家园——银河系——是一个旋涡星系。在这种情况下，旋臂中氢气的速度可以通过21厘米谱线的多普勒红移来探测。类似地，21厘米谱线使我们能够描绘出其他星系周围的氢分布。它表明位于星系外围的氢旋转速度过快，仅靠可见物质的引力无法将其束缚。这是暗物质存在的关键证据之一。右侧展示了一个来自KAT7望远镜（平方千米阵列的前身）的例子，绿色轮廓线表示通过21厘米谱线测量的氢，其分布远远超出了可见星系的范围。
+
+展望未来，人们期待21厘米谱线能让我们观测到宇宙学的“黑暗时代”——即大爆炸火球冷却后到第一批恒星出现之前的数亿年间。
+
+**铯** 铯的原子序数为55。其原子核自旋 I=7/2。与外层电子自旋的混合导致基态超精细分裂为两个状态，一个 F=3，另一个 F=4。它们之间的跃迁频率现被用作时间的定义。一秒被定义为铯-133超精细跃迁频率的9192631770个周期。
+
+**3.1.7 膨胀宇宙中的原子** 在理解了原子谱的一些微妙细节之后，现在让我们花点时间做点既傻又有趣的事情…… 宇宙正在膨胀。我们知道这一点，因为星系随时间推移而相互远离。但这种空间膨胀对原子有什么影响？氢原子中的电子是否在缓慢却不可避免地被拉离质子？答案，正如我们将看到的，是否定的。但其中涉及一些有趣（尽管完全无法观测到的）物理学。
+
+首先，我们需要一种描述宇宙膨胀的方法。最终，这应该是一个用广义相对论描述的效应。但事实证明…… is a simple, Newtonian analog that can be used when the expansion is driven by a cosmological constant Λ which, happily, is the case in our current universe. In this case, the potential for an electron orbiting a nucleus gets an extra term, V(r) = −Zαℏc/r − mΛr²/6 (3.23)
+
+The cosmological constant acts like an inverted harmonic oscillator. It means that, for suitable large distances, particles get pushed apart from each other, which is the expected effect of an expanding universe. Note that the additional term is proportional to m, the mass of the electron. This is a reflection of the equivalence principle, which says that gravitational forces are proportional to the mass of the particle. A derivation of the Newtonian form of the cosmological constant (3.23) can be found in the lectures on Cosmology.
+
+The form of this potential is shown in the figure although, as we will soon see, this is not particularly to scale. Notably, there is a turning point. We’ll be careless with overall constants and just focus on order of magnitudes. The turning point then sits at r⋆³ ∼ ℏ c² / (Zα mc Λ)
+
+Besides the dimensionless constant Zα, there are two different length scales in this expression. The first is the Compton wavelength of the electron, ℏ/mc ≈ 10⁻¹² m.
+
+The second is the length scale associated to the expansion of the universe, c²/Λ ≈ (10²⁷ m)².
+
+The turning point in the potential occurs at an appropriate mean of these two scales, which turns out to be r⋆ ≈ 10¹⁴ m. This is about r⋆ ≈ 0.01 lightyears. It is rather large, at least as far as atoms are concerned.
+
+Without doing any further calculations, we can see the effect of the expansion of the universe. Needless to say, for atoms that spread to any distance r ≪ r⋆, the expansion of the universe doesn’t play any role. That’s deeply unsurprising. And, of course, holds for all actual atoms. But if we take the calculation above seriously, then electron orbits that extend to r ∼ r⋆ would be unstable to being ripped apart from by the expansion of spacetime!
+
+What does this mean for the hydrogen atom? The Bohr radius is a ≈ 5×10⁻¹¹ m and the wavefunction for the nth excited state can be shown to be peaked around a distance ∼ n²a. All of which suggests that the first n ≈ 10¹² excited states still exist, but after that the electron’s life gets more perilous. (See, I told you that this section would be slightly silly.)
+
+However, there is another concern. An electron bound state in the potential (3.23) is always susceptible to tunnelling through the barrier. This would be a quantum tunnelling effect on cosmological scales and result in the instability of matter. Should we be worried?
+
+This is the kind of “tunnelling out of a trap” calculation that we did in Section 2.2.5. Following the steps that we took there, we can get an estimate for the lifetime of hydrogen of the form τ ∼ τ e^{2S/ℏ}. Here τ is the appropriate atomic time scale. As we saw earlier in this section, the electron in the ground state has average speed ⟨v⟩ = cα. It sits at a Bohr radius a = ℏ/mcα, from which we can extract a time scale τ ∼ ℏ / mc²α² ∼ 2×10⁻¹⁷ s. Roughly speaking, this is the time taken for the electron to make a single orbit (ignoring factors of 2π.) That leaves us with the exponential factor that comes from tunnelling.
+
+Recall that the all-important factor of S is the action S = ∫_{x₀}^{x₁} dr′ √(2m(V(x′)−E)). The potential is given in (3.23). Here we should take E = ½ mc²α², the ground state energy of hydrogen. The limits of the integral are taken between x ≈ ℏ/mcα and x ≈ c²α²/Λ which is where the integrand vanishes (and I’m being sloppy about various factors at this stage). This integral is entirely dominated by the upper limit and, again ignoring various factors, is given by S ≈ mc²α² / √Λ. This is the ratio of an atomic scale by a cosmological scale. It’s going to be large. Indeed, you can check that S/ℏ ≈ 10³⁸. We learn that the expected lifetime of a hydrogen atom, before it is unceremoniously torn apart by the expansion of the universe, is roughly τ ∼ e^{10³⁸} τ. This isn’t something that should keep you awake at night. Indeed, numbers like e^{10³⁸} are so ridiculously large that it doesn’t matter what units you measure them in: it’s more or less the same timescale whether you measure it in Planck units, seconds, or Hubble times.
+
+## 3.2 Atomic Structure
+
+In this section, we finally move away from hydrogen and discuss atoms further up the periodic table. The Hamiltonian for N electrons orbiting a nucleus with atomic number Z is H = −ℏ²/2m ∑_{i=1}^{N} ∇ᵢ² − ∑_{i=1}^{N} (Ze²/4πϵ₀)(1/rᵢ) + ∑_{i<j} (e²/8πϵ₀)(1/|rᵢ−rⱼ|) (3.24)
+
+For a neutral atom, we take N = Z. However, in what follows it will be useful to keep N and Z independent. For example, this will allows us to describe ions.
+
+We can, of course, add to this Hamiltonian relativistic fine structure and hyperfine structure interactions of the kind we described in the previous section. We won’t do this. As we will see, the Hamiltonian (3.24) will conta in more than enough to keep us busy. Our goal is to find its energy eigenstates. Further, because electrons are fermions, we should restrict ourselves to wavefunctions which are anti-symmetric under the exchange of any two electrons.
+
+It is a simple matter to write down the Schrödinger equation describing a general atom. It is another thing to solve it! No exact solutions of (3.24) are known for N ≥ 2. Instead, we will look at a number of different approximation schemes to try to understand some aspects of atomic structure. We start in this section by making the drastic assumption that the electrons don't exert a force on each other. This is not particularly realistic, but it means that we can neglect the final interaction term in (3.24). In this case, the Hamiltonian reduces to N copies of
+
+H = - (ℏ²/2m) ∇² - (Ze²/4πϵ r)
+
+This, of course, is the Hamiltonian for the hydrogen atom, albeit with the proton charge +e replaced by Ze. And, as reviewed in Section 3.1.1, we know everything about the solutions with this Hamiltonian.
+
+3.2.1 A Closer Look at the Periodic Table
+
+Ignoring the interaction between electrons gives us an eminently solvable problem. The only novelty comes from the Pauli exclusion principle which insists that not two electrons can sit in the same state. The ground state of a multi-electron atom consists of filing the first Z available single-particle states of the hydrogen atom.
+
+However, as we've seen above, there is a large degeneracy of energy levels in the hydrogen atom. This means that, for general Z, the rule above does not specify a unique ground state for the atom. Nonetheless, when Z hits certain magic numbers, there will be a unique ground state. This occurs when there are exactly the right number of electrons to fill energy levels. Those magic numbers are:
+
+n l Degeneracy N 1 0 2 2 2 0,1 2×(1+3) = 8 2+8 = 10 3 0,1,2 2×(1+3+5) = 18 2+8+18 = 28 4 0,1,2,3 2×(1+3+5+7) = 32 2+8+18+32 = 60
+
+This simple minded approach suggests that at the magic numbers Z = 2,10,28,60,... the atoms will have a full shell of electrons. If we were to add one more electron it would have to sit in a higher energy level, so would be less tightly bound. We might, then, want to predict from our simple minded non-interacting model that atoms with these special values of Z will be the most chemically stable.
+
+A look at the periodic table shows that our prediction is not very impressive! We learn in school that the most chemically stable elements are the inert Noble gases on the far right. We can quantify this by looking at the ionization energies of atoms as a function of Z, as shown on the right which shows that the most stable elements have Z = 2,10,18,36,54,86 and 118. We see that our non-interacting model gets the first two numbers right, but after that it all goes pear shaped. In particular, we predicted that Z = 28 would be special but this corresponds to nickel which sits slap in the middle of the transition metals! Meanwhile, we missed argon, a stable Noble gas with Z = 18. Of course, there's no secret about what we did wrong. Our task is to find a way to include the interactions between electrons to explain why the Noble gases are stable.
+
+Before we return to the Schrödinger equation, we will build some intuition by looking more closely at the arrangement of electrons that arise in the periodic table. First some notation. We describe the configuration of electrons by listing the hydrogen orbitals that are filled, using the notation n#p where # is the letter (s, p, d, f, etc.) denoting the l quantum number and p is the number of electrons in these states.
+
+The electrons which have the same value of n are said to sit in the same shell. Electrons that have the same value of n and l are said to sit in the same sub-shell. Each sub-shell contains 2(l+1) different states. Electrons which sit in fully filled shells (or sometimes sub-shells) are said to be part of the core electrons. Those which sit in partially filled shells are said to form the valence electrons. The valence electrons lie farthest from the nucleus of the atom and are primarily responsible for its chemical properties.
+
+There are only two elements with all electrons lying in the n = 1 shell. These are hydrogen and helium
+
+## Z 1
+
+Element H He Electrons 1s1 1s2
+
+Next, the elements with electrons in the first two shells. These are
+
+## Z 3 4 5 6 7 8 9
+
+Li Be B C N O F Ne [He]+ 2s1 2s2 2s22p1 2s22p2 2s22p3 2s22p4 2s22p5 2s22p6
+
+where the notation in the bottom line means that each element has the filled n = 1 shell of helium, together with the extra electrons listed. We see that the atoms seem to be following a reasonable pattern but, already here, there is a question to answer that does not follow from our non-interacting picture: why do the electrons prefer to first fill up the 2s states, followed by the 2p states?
+
+The next set of atoms in the periodic table have electrons in the third shell. They are
+
+## Z 11 12 13 14 15 16 17
+
+Na Mg Al Si P S Cl Ar [Ne]+ 3s1 3s2 3s23p1 3s23p2 3s23p3 3s23p4 3s23p5 3s23p6 3s23p6 where now the electrons fill the 2s22p6 states of neon, together with those listed on the bottom line. Again, we see that the 3s level fills up before the 3p, something which we will later need to explain. But now we see that it’s sufficient to fill the 3p states to give a chemically inert element. This suggests that there is a big energy gap between between 3p and 3d, again something that is not true in the absence of interactions.
+
+In the next row of elements, we see another surprise. We have Z 19 20 21 22 ... 30 31 ... 36 K Ca Sc Ti ... Zn Ga ... Kr [Ar]+ 4s1 4s2 3d14s2 3d24s2 ... 3d104s2 3d104s24p1 ... 3d104s24p6 We see that we fill the 4s states before the 3d states. This is now in direct contradiction to the non-interacting model, which says that 4s states should have greater energy that 3d states.
+
+There is a simple rule that chemists employ to explain the observed structure. It is called the aufbau principle and was first suggested by Bohr. It says that you should write all possible n, l energy levels in a table as shown to the right. The order in which the energy levels are filled is set by the arrows: first 1s, followed by 2s, 2p, 3s, and then 3p, 4s, 3d, 4p and so on. This explains the observed filling above. Our task in these lectures is to explain where the aufbau principle comes from, together with a number of further rules that chemists invoke to explain the elements.
+
+Figure 19: Aufbau
+
+The aufbau principle also explains why the periodic table needs those two extra lines, drifting afloat at the bottom: after we fill 6s (Cs and Ba) we move to 4f which has 14 states. These are elements Z = 58 to Z = 71. However, rather annoyingly, the first element in those bottom two lines in La with Z = 57 and this, it turns out, is an exception to the aufbau principle, with electron configuration [Xe]5d16s2!
+
+In fact, the “aufbau principle” is more an “aufbau rule of thumb”. As we go to higher values of Z there are an increasing number of anomalies. Some of these are hidden in the ... in the last table above. Vanadium with Z = 23 has electron configuration [Ar]3d34s2, but it is followed by chromium with Z = 24 which has [Ar]3d54s1. We see that the 4s state became depopulated, with an extra electron sitting in 3d. By the time we get to manganese at Z = 26, we’re back to [Ar]3d54s2, but the anomaly occurs again for copper with Z = 29 which has [Ar]3d104s1. Chemistry, it turns out, is a little bit messy. Who knew?
+
+Even scandium, with Z = 21, hides a failure of the aufbau principle. At first glance, it would seem to be a poster child for aufbau, with its configuration [Ar]3d14s2. But if we strip off an electron to get the ion Sc+, we have [Ar]3d14s1. Stripping off a further electron, Sc++ has [Ar]3d1. Neither of these follow aufbau. These anomalies only get worse as we get to higher Z. There are about 20 neutral atoms which have anomalous fillings and many more ions.
+
+We will not be able to explain all these anomalies here. Indeed, even to derive the aufbau principle we will have to resort to numerical results at some stage. We will, however, see that multi-electron atoms are complicated! In fact, it is rather surprising that they can be accurately described using 1-particle states at all. At the very least you should be convinced that there need not be a simple rule that governs all of chemistry.
+
+3.2.2 Helium and the Exchange Energy We’re going to start by looking at the simplest example of a multi-electron atom: helium. This will start to give some physical intuition for the aufbau principle. It will also help reveal the role that the spin of the electron plays in the energy of states.
+
+The Ground State of Helium We’ve already discussed the ground state of Helium in Section 2.1.2 as an example of the variational method. Let’s first recap the main results of that analysis.
+
+In the ground state, both electrons sit in the 1s state, so that their spatial wavefunction takes the form Ψ(r₁,r₂) = ψ₁,₀,₀(r₁)ψ₁,₀,₀(r₂) with ψ₁,₀,₀(r) = √(Z³/πa₀³) e^(-Zr/a₀) (3.25)
+
+Here a₀ = 4πϵ₀ℏ²/me² is the Bohr radius. For helium, we should pick Z = 2.
+
+Since the spatial wavefunction is symmetric under exchange of the particles, we rely on the spin degrees of freedom to provide the necessary anti-symmetry of the full wavefunction. The spins must therefore sit in the singlet state |0,0⟩ = (|↑⟩|↓⟩−|↓⟩|↑⟩)/√2 (3.26)
+
+Computing the shift of energy is a simple application of first order perturbation theory. The interaction Hamiltonian is H_int = e²/(4πϵ₀|r₁−r₂|) (3.27)
+
+and, correspondingly, the shift of the ground state energy is given by ∆E = ∫∫ (e²/4πϵ₀|r₁−r₂|) |ψ₁,₀,₀(r₁)|² |ψ₁,₀,₀(r₂)|² d³r₁ d³r₂ We showed how to compute this integral in Section 2.1.2 and found ∆E = 5ZRy.
+
+This then gives a total ground state energy of E ≈ −74.8 eV which, given the lack of control of perturbation theory, is surprisingly close to the true value E ≈ −79 eV.
+
+We also learned in Section 2.1.2 that we can do better using a variational ansatz. Although we will not employ this technique below, there is a physics lesson that it's useful to highlight. In the variational method, we again work with the form of the wavefunction (3.25), but this time allow the atomic number Z of the nucleus to be our variational parameter. We found that we can achieve a lower ground state energy, E ≈ −77.5 eV — one which is closer to the true value — if instead of setting Z = 2 in the wavefunction, we take Z = 2 − 16/25.
+
+There is some physical intuition behind this result. Each electron sees the charge Z = 2 of the nucleus reduced somewhat by the presence of the other electron. This is called screening and it is the basic phenomenon which, ultimately, underlies much of the physics of atomic structure.
+
+Excited States of Helium Let's now extend our discussion to the first excited state of helium. From our non-interacting model, there are two possibilities which, as far as non-interacting electrons are concerned, are degenerate. These are 1s¹2s¹ and 1s¹2p¹. We would like to understand which of these has lowest energy.
+
+In fact, there is a further splitting of each of these states due to the spin-degrees of freedom. To understand this splitting, we need to recall the following: • The Hamiltonian is blind to the spin degrees of freedom. This means that the wavefunction takes the form of a tensor product of a spatial state with a spin state.
+
+• Electrons are fermions. This means that the overall wavefunction must be anti-symmetric under exchange of the two particles.
+
+There are two ways to achieve the anti-symmetry: we either make the spatial wavefunction symmetric and the spin wavefunction anti-symmetric, or vice versa. The two possibilities for the spatial wavefunction are Ψab±(r₁, r₂) = (1/√2)(ψa(r₁)ψb(r₂) ± ψa(r₂)ψb(r₁)), where we're using the notation a, b to denote the triplet of quantum numbers (n, l, m). For the first excited states, we should take a = (1,0,0). Then b = (2,0,0) for the 1s¹2s¹ state and b = (2,1,m) for the triplet of 1s¹2p¹ states, with m = −1, 0, 1.
+
+The symmetric wavefunctions Ψab,+ must be combined with the anti-symmetric spin-singlet (3.26) which we write as |ab; s = 0⟩ = Ψab,+ (r₁, r₂) ⊗ |0,0⟩ (3.28) where |0,0⟩ is the spin singlet state defined in (3.26). Note that we shouldn't confuse the s = 0 spin with the label "s" used to denote the l = 0 atomic orbital. They are different! Also, I've been a bit lax about my notation for wavefunctions: the expression above should really read |ab; s = 0⟩ = |Ψab,+⟩ ⊗ |0,0⟩ where the fermionic two-particle state |Ψab,+⟩ has overlap Ψab,+ (r₁, r₂) = ⟨r₁, r₂ | Ψab,+⟩ with the position basis of two-particle states |r₁, r₂⟩. This, more precise, notation turns out to be somewhat more cumbersome for our needs.
+
+Similarly, the anti-symmetric wavefunction must be paired with the symmetric spin states. There is a triplet of such states, |s = 1; ms⟩: |1,1⟩ = |↑⟩|↑⟩, |1,0⟩ = (|↑⟩|↓⟩ + |↓⟩|↑⟩)/√2, |1,−1⟩ = |↓⟩|↓⟩ (3.29). The total wavefunctions are again anti-symmetric, |ab; s = 1⟩ = Ψab,−(r₁, r₂) ⊗ |1, ms⟩ m = −1,0,1 (3.30). For both Ψab,+ and Ψab,− we take a to be the 1s state and b to be either the 2s or 2p state.
+
+The upshot of this analysis is that there are 4 possible 1s¹2s¹ states: a spin-singlet and a spin-triplet. There are 12 possible 1s¹2p¹ states: 3 spin-singlets and 9 spin-triplets, the extra factor of 3 coming from the orbital angular momentum m = −1,0,1. Notice how fast the number of states grows, even for the simplest multi-electron atom! For the first excited state, we already have 16 options. This fast growth in the dimension of the Hilbert space is one of the characteristics of quantum mechanics.
+
+Fortunately, we don't have to do degenerate perturbation theory with 16 × 16 dimensional matrices! The matrix elements of the interaction Hamiltonian (3.27) are already diagonal in the basis |ab; s⟩ that we've described above already. This follows on symmetry grounds. The interaction Hamiltonian preserves rotational invariance, so the total orbital angular momentum must remain a good quantum number. Further, it doesn't mix spin states and ⟨0,0|1,ms⟩ = 0. This means that the states (3.28) and (3.30) are guaranteed to be energy eigenstates, at least to first order in perturbation theory.
+
+In summary, we are looking for four energy levels, corresponding to the states |1s¹2s¹; s⟩ and |1s¹2p¹; s⟩ where s = 0 or 1. The question we would like to ask is: what is the ordering of these states?
+
+We can make some progress with this question without doing any calculations. The interaction Hamiltonian (3.27) is a repulsive potential between the electrons. Clearly the states with lowest energy will be those where the electrons try to stay apart from each other. But the anti-symmetric wavefunction Ψab,− has the property that it vanishes when r₁ = r₂ and the electrons sit on top of each other. This strongly suggests that Ψab,− will have lower energy than Ψab,+.
+
+Correspondingly, the spin-triplet versions of a state will have lower energy than the spin-singlets.
+
+We can see this mathematically. The energy splitting is $$ \Delta E_{ab\pm} = \int d^3r_1 d^3r_2 \frac{|\Psi_{ab\pm}(r_1, r_2)|^2}{4\pi\epsilon_0|r_1 - r_2|} = J_{ab} \pm K_{ab} $$ where $J_{ab}$ is given by $$ J_{ab} = \int d^3r_1 d^3r_2 \frac{|\psi_a(r_1)\psi_b(r_2)|^2 + |\psi_a(r_2)\psi_b(r_1)|^2}{4\pi\epsilon_0|r_1 - r_2|} = \int d^3r_1 d^3r_2 \frac{|\psi_a(r_1)\psi_b(r_2)|^2}{4\pi\epsilon_0|r_1 - r_2|} \quad (3.31) $$ where the second line follows because the integrand is symmetric under exchange $r_1 \leftrightarrow r_2$. Meanwhile, we have $$ K_{ab} = \int d^3r_1 d^3r_2 \frac{\psi_a^\star(r_1)\psi_b^\star(r_2)\psi_a(r_2)\psi_b(r_1) + \psi_a^\star(r_2)\psi_b^\star(r_1)\psi_a(r_1)\psi_b(r_2)}{4\pi\epsilon_0|r_1 - r_2|} = \int d^3r_1 d^3r_2 \frac{\psi_a^\star(r_1)\psi_b^\star(r_2)\psi_a(r_2)\psi_b(r_1)}{4\pi\epsilon_0|r_1 - r_2|} \quad (3.32) $$
+
+The contribution $J_{ab}$ is called the direct integral; $K_{ab}$ is called the exchange integral or, sometimes, the exchange energy. Note that it involves an integral over the position of the particle $r_1$, weighted with both possible states $\psi_a(r_1)$ and $\psi_b(r_1)$ that the electron can sit in.
+
+Both $J_{ab}$ and $K_{ab}$ are positive definite. This is not obvious for $K_{ab}$, but is intuitively true because the integral is dominated by the region $r_1 \approx r_2$ where the numerator is approximately $|\psi_a(r)|^2|\psi_b(r)|^2$. Since the shift in energy is $\Delta E_{ab\pm} = J_{ab} \pm K_{ab}$, we see that, as expected, the spin-triplet states with spatial anti-symmetry have lower energy.
+
+We’ve learned that each of the spin-triplet states is lower than its spin-singlet counterpart. But what of the ordering of $1s12s^1$ vs $1s12p^1$? For this, we have to do the integrals $J_{ab}$ and $K_{ab}$. One finds that the pair of 2s energy levels have lower energy than the pair of 2p energy levels. This, of course, is the beginning of the aufbau principle: the 2s levels fill up before the 2p levels. The resulting energy levels are shown in the diagram.
+
+Taken literally, our calculation suggests that the 2s state has lower energy because it does a better job at avoiding the original 1s electron. This is misleading: it’s more an artefact of our (not particularly good) perturbative approach to the problem, rather than a way to good description of the underlying physics. One could do a better job by introducing variational wavefunctions, similar to those we looked at for the ground state. This approach would highlight the reason why states of higher l have higher energy. This reason is screening.
+
+As we’ve seen, excited states of helium sit in both spin-singlets and spin-triplets. Parity means that transitions between these two states can only occur through the emission of two photons which makes these transitions much rarer. The lifetime of the 1s2s state turns out to be around 2.2 hours. This is very long on atomic timescales; indeed, it is the longest lived of all excited states of neutral atoms. It is said to be meta-stable. Before these transitions were observed, it was thought that there were two different kinds of helium atoms: those corresponding to spin-singlet states and those corresponding to spin-triplets. Historically the spin-singlet states were referred to as parahelium, the spin-triplet states as orthohelium.
+
+The punchline from the story above is that spatially anti-symmetric wavefunctions are preferred since these come with a negative exchange energy. The fermionic nature of electrons means that these wavefunctions sit in a spin-triplet states. This fact plays an important role in many contexts beyond atomic physics. For example, the spins in solids often have a tendency to align, a phenomenon known as ferromagnetism. This too can be traced to the exchange integral for the Coulomb repulsion between atoms preferring the spins to sit in a triplet state. This results in the kind of $\mathbf{S}_1 \cdot \mathbf{S}_2$ spin-spin interaction that we met in the Statistical Physics course when discussing the Ising model.
+
+3.2.3 An Instability of (Very) Large Nuclei
+
+The periodic table doesn’t go on for ever. The heaviest, stable element is Bismuth-209 with Z = 83. There are heavier elements with long lifetimes, such as Uranium-238 with Z = 92 which has a half-life of around 4.5 billion years. But as you continue to go up in atomic number, the half-lifes become much shorter. The heaviest elements with Z = 117 and Z = 118 have to be created artificially and have a half-life measured in milliseconds.
+
+This instability arises because the repulsive Coulomb force between protons defeats the attractive, but short-ranged, interaction of the strong nuclear force. The full details are complicated and clearly need an understanding of the strong nuclear force. However, there is another instability of heavy, charged nuclei that involves only electromagnetism and is very easy to see. This follows simply from the binding energy (3.3) of an electron with the nucleus, $$ E_1 = -\frac{(Z\alpha)^2 mc^2}{2} \quad \text{where} \quad \alpha = \frac{e^2}{4\pi\epsilon_0 \hbar c} \approx \frac{1}{137} $$ If this binding energy is sufficiently large, then it’s energetically preferable to produce an electron-positron pair out of the vacuum. Of course, this costs a significant amount of energy: it’s E = 2mc², where the factor of two is there because both the electron pair and positron must be created. But the electron can then be captured by the nucleus, saving E of energy. (Admittedly, we are assuming that the nucleus has been stripped of orbiting electrons here so the lowest slot is not already taken.) The end result would be that the nucleus spits out a positron, collecting a tightly-bound electron. This whole process is energetically preferable if E + E_pair < 0 ⇒ Z > The factor of 2 means that this particular instability only kicks in when Z ≈ 280 which means that it’s not the mechanism that destabilises the heavy elements in the periodic table.
+
+## 3.3 Self-Consistent Field Method
+
+As we’ve seen from our attempts to understand helium, a naive application of perturbation theory is not particularly effective. Not only does it become complicated as the number of possible states grows, but it also fails to capture the key physics of screening. In this section, we will develop a variational approach to multi-electron atoms where, as we will see, the concept of screening sits centre stage. The idea is to attempt to reduce our multi-particle problem to a single-particle problem. But we don’t do this merely by ignoring the effects of the other particles; instead we will alter our Hamiltonian in a way that takes these other particles into account. This method is rather similar to the mean field theory approach that we met in Statistical Physics; in both cases, one averages over many particles to find an effective theory for a single particle.
+
+3.3.1 The Hartree Method We start by considering a variational ansatz for the multi-particle wavefunction. For now, we will forget that the electrons are fermions. This means that we won’t impose the requirement that the wavefunction is anti-symmetric under the exchange of particles, nor will we include the spin degrees of freedom. Obviously, this is missing something important but it will allow us to highlight the underlying physics. We will fix this oversight in Section 3.3.3 when we discuss the Hartree-Fock method.
+
+We pretend that the electrons are independent and take as our ansatz the product wavefunction Ψ(r₁,...,r_N) = ψ_a1(r₁) ψ_a2(r₂)...ψ_aN(r_N)  (3.33)
+
+Here the labels a denote various quantum numbers of the one-particle states. We will ultimately see that the states ψ_a(r) are eigenstates of a rotationally invariant Hamiltonian, albeit one which is different from the hydrogen Hamiltonian. This means that we can label each state by the usual quantum numbers a = (n, l, m).
+
+Although we haven’t imposed anti-symmetry of the wavefunction, we do get to choose these quantum numbers for the states. This means that we can, for example, use this ansatz to look at the 3-particle states that lie in the shell 1s²2s¹ as an approximation for the ground state of lithium.
+
+We will view (3.33) as a very general variational ansatz, where we get to pick anything we like for each ψ_a(r). We should compare this to the kind of variational ansatz (3.25) where we allowed only a single parameter Z to vary. For the Hartree ansatz, we have an infinite number of variational parameters.
+
+The multi-electron Hamiltonian is H = Σ_i=1^N ( - ℏ²/(2m) ∇_i² - Ze²/(4πϵ₀ r_i) + Σ_{i<j} e²/(4πϵ₀ |r_i - r_j|) )
+
+Evaluated on our ansatz (3.33), the average energy is ⟨E⟩ = Σ_i=1^N ∫ d³r ψ_ai*(r) ( - ℏ²/(2m) ∇² - Ze²/(4πϵ₀ r) ) ψ_ai(r) + e²/(4πϵ₀) Σ_{i<j} ∫∫ d³r d³r' ψ_ai*(r) ψ_aj*(r') ψ_ai(r) ψ_aj(r')  (3.34)
+
+The last term is an example of the kind of “direct integral” (3.31) that we met when discussing helium.
+
+To find the best approximation to the ground state within the product ansatz (3.33), we minimize ⟨E⟩ over all possible states. However, there’s a catch: the states ψ_ai(r) must remain normalised. This is easily achieved by introducing Lagrange multipliers. To this end, consider the functional F[Ψ] = ⟨E⟩ − Σ_i ϵ_i ( ∫ d³r |ψ_ai(r)|² − 1 )
+
+with ϵ_i the N Lagrange multipliers imposing the normalisation condition.
+
+Because the wavefunction is complex, we can vary its real and imaginary parts independently. Since we have N independent wavefunctions, this gives rise to 2N real conditions. It’s not too hard to convince yourself that this is formally equivalent to treating ψ(r) and ψ*(r) as independent and varying each of them, leaving the other fixed. Minimizing F[Ψ] then requires us to solve δF[Ψ]/δψ_ai*(r) = 0 and δF[Ψ]/δψ_ai(r) = 0.
+
+The first of these is N complex conditions, while the second is simply the conjugate of the first. These N complex conditions are called the Hartree equations, [ - ℏ²/(2m) ∇² - Ze²/(4πϵ₀ r) + e²/(4πϵ₀) Σ_{j≠i} ∫ d³r' |ψ_aj(r')|²/|r - r'| ] ψ_ai(r) = ϵ_i ψ_ai(r)  (3.35)
+
+These equations look tantalisingly similar to the Schrödinger equation. The only difference — and it is a big difference — is that the effective potential for ψ_i(r) depends on the wavefunctions for all the other electrons, through the contribution U_ai(r) = (e^2 / 4πϵ_0) * Σ_{j≠i} ∫ d^3r′ |ψ_aj(r′)|² / |r−r′|  (3.36)
+
+Physically this is clear: the potential U_ai(r) is the electrostatic repulsion due to all the other electrons. Note that each electron experiences a different effective Hamiltonian, with a different U_ai(r). The catch is that each of the ψ_aj(r) that appears in the potential U_ai(r) is also determined by one of the Hartree equations.
+
+The Hartree equations (3.35) are not easy to solve. They are N coupled non-linear integro-differential equations. We see that there’s a certain circularity needed to get to the solution: the potentials U_ai(r) determine the wavefunctions but are also determined by the wavefunctions. In this sense, the ultimate solution for U_ai(r) is said to be “self-consistent”.
+
+The usual techniques that we use for the Schrödinger equation do not work for the Hartree equations. Instead, we usually proceed iteratively. We start by guessing a form for the potentials U_ai(r) which we think is physically realistic. Often this involves making the further approximation that U_ai(r) is spherically symmetric, so we replace U_ai(r) → U_ai(r) = ∫ (dΩ / 4π) U_ai(r). Then, with this potential in hand, we solve the Schrödinger equations [−(ℏ^2 / 2m) ∇^2 − (Ze^2 / 4πϵ_0 r) + U_ai(r)] ψ_ai(r) = ϵ_i ψ_ai(r)  (3.37)
+
+This can be done numerically. We then substitute the resulting wavefunctions back into the definition of the potential (3.36) and then play the whole game again. If we chose a good starting point, this whole process will begin to converge.
+
+Suppose that we’ve done all of this. What is the answer for the ground state energy of the atom? From (3.35), the Lagrange multipliers ϵ look like the energies of individual particles. We can write ϵ_i = ∫ d^3r ψ†_ai(r) [−(ℏ^2 / 2m) ∇^2 − (Ze^2 / 4πϵ_0 r) + e^2/(4πϵ_0) Σ_{j≠i} ∫ d^3r′ |ψ_aj(r′)|² / |r−r′|] ψ_ai(r)
+
+Summing these gives an expression that is almost the same as the expected energy ⟨E⟩ = Σ_i Σ_j Σ_{i<j}, except that the sum Σ_j is twice the sum Σ_{i<j}. Then, evaluated on the solutions to the Hartree equations, the energy given by ⟨E⟩ = Σ_i ϵ_i − e^2/(4πϵ_0) Σ_{j≠i} ∫ d^3r d^3r′ |ψ_aj(r′)|² |ψ_ai(r)|² / |r−r′| By the usual variational arguments, this gives an upper bound for the ground state energy.
+
+An Example: Potassium We won’t describe in detail the numerical solutions to the Hartree equations (nor to the more sophisticated Hartree-Fock equations that we will meet shortly). We can, however, use this approach to offer some hand-waving intuition for one of the more surprising features of the aufbau principle: why does the 4s state fill up before the 3d state?
+
+This question first arises in potassium, an alkali metal with electron configuration 1s²2s²2p⁶3s²3p⁶4s¹. Why is the last electron in 4s rather than 3d as the non-interacting picture of electrons would suggest?
+
+In the Hartree approach, we see that the electron experiences an effective potential with Schrödinger equation (3.37). The key piece of physics that determines U(r) is, once again, screening. When the electron is far away, the nuclear charge Ze is expected to be almost entirely screened by the other Z − 1 electrons. In contrast, when the electron is close to the nucleus, we expect that it feels the full force of the Ze charge. On these grounds, the total effective potential should be −(Ze^2 / 4πϵ_0 r) + U(r) = −(Z(r)e^2 / 4πϵ_0 r)
+
+where Z(r) is some function which interpolates between Z(r) → Z as r → 0 and Z(r) → 1 as r → ∞.
+
+We should now solve the Schrödinger equation with this potential. All quantum states are labelled by the usual triplet (n,l,m), but as the potential is no longer simply 1/r the energy levels will depend on both n and l. The basic physics is the same as we described for the excited states of helium. The l = 0 s-wave states extend to the origin which causes their energy to be lower. In contrast, the higher l states experience an angular momentum barrier which keeps them away from the origin and raises their energy. This explains why 3s fills up before 3p. But this same screening effect also lowers the 4s states below that of 3d.
+
+3.3.2 The Slater Determinant The Hartree ansatz (3.33) is not anti-symmetric under the exchange of particles. As such, it is not a physical wavefunction in the Hilbert space of fermions. We would like to remedy this.
+
+Our task is a simple one: given a collection of 1-particle states, how do we construct a multi-particle wavefunction for fermions that are anti-symmetric under the exchange of any pair of particles? This general question arises in many contexts beyond the spectrum of atoms.
+
+We will use the notation |ψ_i(j)⟩ to mean the particle j occupies the one-particle state |ψ_i⟩. Then we can build a suitably anti-symmetrised N-particle wavefunction by using the Slater determinant, |ψ_1(1)⟩ |ψ_1(2)⟩ ... |ψ_1(N)⟩ 1 (cid:12)
+
+|Ψ⟩ = √ |ψ_2(1)⟩ |ψ_2(2)⟩ ... |ψ_2(N)⟩ N! . . . ... ...
+
+|ψ_N(1)⟩ |ψ_N(2)⟩ ... |ψ_N(N)⟩ Expanding out the determinant gives N! terms that come with plus and minus signs. The overall factor of 1/√N! ensures that the resulting state is normalised. The plus and minus signs provide the anti-symmetry that we need for fermions. In fact, we can see this quickly without expanding out: swapping the first and second particle is tantamount to swapping the first and second rows of the matrix. But we know that this changes the determinant by a minus sign. In particular, if two particles sit in the same state then the rows of the matrix become linearly dependent and the determinant vanishes. In this way, the Slater determinant enforces the Pauli exclusion principle. One can build the Slater determinant for any states |ψ⟩ which span an N-dimensional Hilbert space. It will be convenient to choose the states |ψ⟩ to form an orthogonal basis.
+
+An Example: Helium For helium, we take the set of one-particle states to be the hydrogen wavefunctions for Z = 2, so |ψ_{(n,l,m)}⟩ = ψ_s(r)⊗|m_s⟩ where the spin quantum number m_s = ±1 is usually replaced by the notation |1⟩ = |↑⟩ and |−1⟩ = |↓⟩.
+
+For the ground state we place both particles in the 1s state with different spins. The corresponding Slater determinant is 1 (ψ_{1s}(r_1)⊗|↑⟩ ψ_{1s}(r_2)⊗|↑⟩)
+
+√ (                                       ) = ψ_{1s}(r_1)ψ_{1s}(r_2)⊗|0,0⟩ 2 (ψ_{1s}(r_1)⊗|↓⟩ ψ_{1s}(r_2)⊗|↓⟩)
+
+where |0,0⟩ is the spin-singlet state (3.26). This is the ground state of helium that we used previously.
+
+When particles sit in different hydrogenic states, there are more possibilities for the Slater determinant. For example, for the 1s1 2s1 excited state, there are four Slater determinants. Two of these sit in spin eigenstates 1 (ψ_{1s}(r_1)⊗|↑⟩ ψ_{1s}(r_2)⊗|↑⟩)
+
+√ (                                       ) = Ψ_-(r_1,r_2)⊗|1,1⟩ 2 (ψ_{2s}(r_1)⊗|↑⟩ ψ_{2s}(r_2)⊗|↑⟩)
+
+1 (ψ_{1s}(r_1)⊗|↓⟩ ψ_{1s}(r_2)⊗|↓⟩)
+
+√ (                                       ) = Ψ_-(r_1,r_2)⊗|1,−1⟩ 2 (ψ_{2s}(r_1)⊗|↓⟩ ψ_{2s}(r_2)⊗|↓⟩)
+
+where Ψ_±(r_1,r_2) = √(1/2) (ψ_{1s}(r_1)ψ_{2s}(r_2) ± ψ_{1s}(r_2)ψ_{2s}(r_1)) and |1,m⟩ are the spin-triplet states (3.29). Meanwhile, the other Slater determinants are 1 (ψ_{1s}(r_1)⊗|↑⟩ ψ_{1s}(r_2)⊗|↑⟩) 1 √ (                                       ) = √ (Ψ_+(r_1,r_2)⊗|0,0⟩ + Ψ_-(r_1,r_2)⊗|1,0⟩)
+
+2 (ψ_{2s}(r_1)⊗|↓⟩ ψ_{2s}(r_2)⊗|↓⟩) 2 1 (ψ_{1s}(r_1)⊗|↓⟩ ψ_{1s}(r_2)⊗|↓⟩) 1 √ (                                       ) = √ (Ψ_+(r_1,r_2)⊗|0,0⟩ − Ψ_-(r_1,r_2)⊗|1,0⟩)
+
+2 (ψ_{2s}(r_1)⊗|↑⟩ ψ_{2s}(r_2)⊗|↑⟩) 2 We see that the Slater determinants do not necessarily give spin eigenstates. This is one of the short-comings of the Slater determinant. In general, one can show that the state |Ψ⟩ can always be guaranteed to be an eigenstate of angular momentum L_z and spin S_z. But it is not always an eigenstate of L^2 and S^2.
+
+3.3.3 The Hartree-Fock Method The Hartree-Fock method is a repeat of the Hartree method, but now with the fully anti-symmetrised wavefunction |Ψ⟩ = √ (1/N!) |ψ_{a1}(1)⟩ |ψ_{a1}(2)⟩ ... |ψ_{a1}(N)⟩ |ψ_{a2}(1)⟩ |ψ_{a2}(2)⟩ ... |ψ_{a2}(N)⟩ (3.38)
+
+. . . ... ...
+
+|ψ_{aN}(1)⟩ |ψ_{aN}(2)⟩ ... |ψ_{aN}(N)⟩ Further, we will take the quantum numbers a to include both the (n,l,m) information about the orbital angular momentum state, as well as the spin degrees of freedom of the electron. (Had we included spin in the original Hartree ansatz, it simply would have dropped out of the final answer; but now that we have anti-symmetry the spin wavefunctions are correlated with the spatial wavefunctions.)
+
+Repeating the Hartree story, we find that the average energy in the state |Ψ⟩ contains one extra term ⟨E⟩ = Σ_i ∫ d^3r ψ*_{ai}(r) (−(ℏ^2/2m)∇^2 − (Ze^2/4πϵ_0 r)) ψ_{ai}(r)
+
++ (e^2/4πϵ_0) Σ_{i<j} ∫ d^3r d^3r′ ψ*_{ai}(r)ψ*_{aj}(r′)ψ_{ai}(r)ψ_{aj}(r′)
+
+/ |r−r′| − (e^2/4πϵ_0) Σ_{i<j} ∫ d^3r d^3r′ ψ*_{ai}(r)ψ*_{aj}(r′)ψ_{ai}(r′)ψ_{aj}(r)δ_{ms_i,ms_j} / |r−r′| The last term is an exchange integral of the kind we met when discussing the helium atom (3.32). The delta function ensures that it only contributes if the a_i and a_j spin states coincide. While the direct integral clearly captures the electrostatic repulsion between electrons, it is somewhat harder to drape comforting classical words around the exchange term. It is a purely quantum effect arising from the Pauli exclusion principle. Nonetheless, we can extract some physics from it, in particular from the fact that the delta function means that the exchange term lowers the energy only when spins are aligned. This means that, all else being equal, the spins will wish to align. This is the first of three Hund’s rules. (The other two describe the preferential order to fill degenerate states with quantum numbers L and J = L + S; we won’t discuss these second two rules in these lectures.)
+
+In practice, this does nothing for a filled shell. In this case, half the electrons have spin up and the other half spin down. However, when we start to fill a shell, the exchange term means that it’s preferable for all the spins to point in the same direction. This suggests that half-filled shells should be particularly stable and the next electron to go in after half-filling should have a noticeably larger energy and so the atom will, correspondingly, have a smaller ionization energy.
+
+We can see evidence for this by looking again at the ionization data. The ionization energy does not increase monotonically between Li and Ne: there are two glitches. The first of these is the jump from beryllium (2s2) to boron (2s22p1) where we jump to another shell. The other is the jump from nitrogen (1s22s22p3) to oxygen (1s22s22p4). Nitrogen has a half-filled 2p sub-shell, where all three electrons have spin up to benefit from the exchange energy. But for oxygen one electron is spin down, and the benefit from the exchange energy is less. This means that the next electron costs higher energy and, correspondingly, the ionization energy is smaller. The same behaviour is seen to disrupt the linear growth between Na and Ar. The two glitches occur between manganese ([Ne]3s2) and aluminium ([Ne]3s23p1) where we jump to the next shell, and between phosphorus ([Ne]3s23p3) to sulphur ([Ne]3s23p3) where we cross the half-filled sub-shell.
+
+The exchange energy also lies behind one of the exceptions to the aufbau principle. Recall that chromium has electron configuration [Ar]3d54s1 as opposed to the aufbau-predicted [Ar]3d44s2. The former configuration has lower energy because it allows all spins to point up and so benefits more from the exchange term.
+
+Minimising the energy ⟨E⟩ gives us N coupled equations [ (−ℏ²/2m) ∇² − (Ze²/4πϵ₀r) + U(r) ] ψₐᵢ(r) − ∫ d³r' Uₑₓ(r,r') ψₐᵢ(r') = ϵᵢ ψₐᵢ(r)
+
+where U(r) is given by U(r) = (e²/4πϵ₀) Σⱼ₌₁ᴺ ∫ d³r' |ψₐⱼ(r')|² / |r−r'|
+
+This differs from the Hartree expression (3.36) because we sum over all states j rather than j ≠ i. This is a simplification because it means that all electrons feel the same potential. However, it is also puzzling because it would appear to suggest that we need to include a “self-interaction” between the electrons. But this i = j term is an artefact of the way we’ve written things: it cancels the corresponding term in the exchange integral, which is given by Uₑₓ(r,r') = (e²/4πϵ₀) Σⱼ₌₁ᴺ ∫ d³r' ψₐⱼ*(r') ψₐⱼ(r) δₘₛᵢ,ₘₛⱼ / |r−r'|
+
+This is sometimes referred to as a non-local potential. This term does depend on the state aᵢ, but only through the spin dependence. This means that each electron experiences one of two different exchange potentials, Uₑₓ↑ or Uₑₓ↓.
+
+The set of equations (3.39) are known as the Hartree-Fock equations. It should come as no surprise to learn that they are no easier to solve than the Hartree equations. Indeed, the presence of the exchange term makes even numerical solutions considerably harder to come by. Nonetheless, this scheme has some success in reproducing the properties of atoms observed in the periodic table, in particular the aufbau principle.
+
+**Limitations of Hartree-Fock**
+
+We finish with a warning. Throughout this section, we’ve used the language of one-particle states to describe atoms. Indeed, the basic idea that we’ve focussed on is that atoms are made by filling successive shells of states. This is something that is often taught in high school and, over time, becomes so familiar that we don’t question it. The Hartree-Fock method panders to this idea because it looks for states within the anti-symmetrised product ansatz (3.38). However, the vast majority of states in the Hilbert space are not of the product form and, for complicated atoms, it’s quite possible, indeed likely, that the true ground state is a superposition of such states. In this case the very language of filing shells become inappropriate since there’s no way to say that any electron sits in a given state.
+
+**4. Atoms in Electromagnetic Fields**
+
+Our goal in this chapter is to understand how atoms interact with electromagnetic fields.
+
+There will be several stages to our understanding. We start by looking at atoms in constant, background electromagnetic fields. Because these fields break various symmetries of the problem, we expect to see a splitting in the degeneracies of states. The splitting of the atom The spectrum due to an electric field is called the Stark effect. The splitting due to a magnetic field is called the Zeeman effect. We deal with each in turn.
+
+We then move on to look at what happens when we shine light on atoms. Here the physics is more dramatic: the atom can absorb a photon, causing the electron to jump from one state to a higher one. Alternatively the electron can decay to lower state, emitting a photon as it falls. We will begin with a classical treatment of the light but, ultimately, we will need to treat both light and atoms in a quantum framework.
+
+## 4.1 The Stark Effect
+
+"Schrodinger applied perturbation theory to the Stark effect. It was my task to present his perturbation theory to the seminar, which sounded perfectly straightforward, and I have used perturbation theory ever since. Whether it is applicable or not."
+
+Hans Bethe
+
+Consider the hydrogen atom, where the electron also experiences a constant, background electric field. We'll take the electric field to lie in the z direction, E = Ezˆ. The Hamiltonian is
+
+H = - (ℏ^2)/(2m) ∇^2 - e^2/(4πϵ r) + eEz (4.1)
+
+The total potential energy, V(z) = eEz - e^2/(4πϵ r) is sketched in the diagram. The first thing to note is that the potential is unbounded below as z → -∞. This means that all electron bound states, with wavefunctions localised near the origin, are now unstable. Any electron can tunnel through the barrier to the left, and then be accelerated by the electric field to z → -∞. However, we know from our WKB analysis in Section 2.2.5 that the probability rate for tunnelling is exponentially suppressed by the height of the barrier (see, for example, (2.30)). This means that the lowest lying energy levels will have an extremely long lifetime.
+
+If you want some numbers, the strength of a typical electric field is around E ∼ 10 eV cm^{-1}. We know that the ground state of hydrogen is E_0 ∼ -13.6 eV and the Bohr radius is a_0 ∼ 5 × 10^{-9} cm, which suggests that the typical electric field inside the atom is around E_atom ∼ 10^9 eV cm^{-1}, which is eight orders of magnitude greater than the applied electric field. On general grounds, we expect that the tunnelling probability is suppressed by a factor of e^{-10^8}. At this point it doesn't really matter what our units are, this is going to be a very small number. The states which are well bound are stable for a very long time. Only those states very close to threshold are in danger of being destabilised by the electric field. For this reason, we'll proceed by ignoring the instability.
+
+4.1.1 The Linear Stark Effect We're going to work in perturbation theory. Before we look at the hydrogen atom, here's a general comment about what happens when you perturb by electric fields. Suppose that we have a non-degenerate energy eigenstate |ψ⟩. Then adding a background, constant electric field will shift the energy levels by
+
+∆E = ⟨ψ|eE·x|ψ⟩ = -P·E (4.2)
+
+where we have introduced the electric dipole
+
+P = -e⟨ψ|x|ψ⟩ = -e ∫ d^3x x|ψ(x)|^2 (4.3)
+
+The shift in energies is first order in the electric field and is known as the linear Stark effect.
+
+For the hydrogen atom, there is an extra complication: the states |n,l,m⟩ are degenerate. The energy levels
+
+E_n = -Ry/n^2
+
+with Ry ≈ -13.6 eV have degeneracy n^2 (ignoring spin). This means that we will have to work with degenerate perturbation theory. For the electric field E = Ezˆ, we must compute the matrix elements
+
+⟨n,l',m'|z|n,l,m⟩
+
+With a large degeneracy of n^2, this looks like it becomes increasingly complicated as we go up in energy levels. Fortunately, there is a drastic simplification.
+
+The first simplification follows from using the parity operator π. Recall from Section 1.1 that the states of the hydrogen atom transform as (1.10)
+
+π|n,l,m⟩ = (-1)^l|n,l,m⟩
+
+from which we have
+
+⟨n,l',m'|z|n,l,m⟩ = (-1)^{l+l'}⟨n,l',m'|πzπ|n,l,m⟩ = (-1)^{l+l'+1}⟨n,l',m'|z|n,l,m⟩
+
+This means that the matrix element is non-vanishing only if l+l' is odd. From this, we immediately learn that the unique ground state |n=1,0,0⟩ does not change its energy at leading order.
+
+We can also use the fact that the perturbation commutes with L_z. This means that
+
+mℏ⟨n,l',m'|z|n,l,m⟩ = ⟨n,l',m'|zL_z|n,l,m⟩ = ⟨n,l',m'|L_z z|n,l,m⟩ = m'ℏ⟨n,l',m'|z|n,l,m⟩
+
+So the perturbation is non-vanishing only if m = m'. (In Section 4.3.3, we'll see that electric fields in the x or y direction have non-vanishing matrix elements only if m' = m±1.)
+
+This is enough to determine the corrections to the n = 2 states. The |2,1,±1⟩ states remain unaffected at leading order. Meanwhile, the |2,0,0⟩ state mixes with the |2,1,0⟩ state. The integrals over the hydrogen wavefunctions are straightforward to evaluate and yield
+
+U = ⟨2,0,0|z|2,1,0⟩ = -3eEa
+
+The first corrections to the energy are then given by the eigenvalues of the matrix
+
+( 0  1 )
+
+( 3eEa  0 )
+
+We learn that, to first order in perturbation theory, the n = 2 energy eigenstates and eigenvalues are given by
+
+|2,1,±1⟩ with E = (E_{n=2}) (4.4)
+
+and
+
+|2,±⟩ = 1/√2 (|2,0,0⟩ ± |2,1,0⟩) with E = (E_{n=2}) ± 3eEa (4.5)
+
+n=2
+
+From our general discussion above, we learn that the eigenstates |2,±⟩ can be thought of as having a permanent electric dipole moment (4.3). For higher energy levels n ≥ 3, we need to look at the different l quantum numbers more carefully. In Section 4.3.3, we will show that ⟨n,l′,m′|z|n,l,m⟩ is non-vanishing only if l′ = l±1.
+
+4.1.2 The Quadratic Stark Effect
+
+We saw above that the vast majority of states do not receive corrections at first order in perturbation theory. This is because these states do not have a permanent dipole moment P, a fact which showed up above as the vanishing of matrix elements due to parity. However, at second order in perturbation theory all states will receive corrections. As we now see, this can be understood as the formation of an induced dipole moment.
+
+Here we focus on the ground state |1,0,0⟩. A standard application of second order perturbation theory tells us that the shift of the ground state energy level is ∆E = e²E² ∑_{n=2}^∞ ∑_{l,m} |⟨1,0,0|z|n,l,m⟩|² / (E₁ - Eₙ)  (4.6)
+
+In fact, strictly speaking, we should also include an integral over the continuum states, as well as the bound states above. However, it turns out that these are negligible. Moreover, the summand above turns out to scale as 1/n³ for large n, so only the first few n contribute significantly.
+
+The exact result is not so important for our purposes. More interesting is the parametric dependence which follows from (4.6)
+
+∆E = −4πϵ₀ CE²a₀³ where C is a number of order 1 that you get from doing the sum. For what it’s worth, C = 9.
+
+The polarisation is given by P = −∇_E E (4.7)
+
+where ∇ means “differentiate with respect to the components of the electric field” and the thing we’re differentiating, which is a non-bold E, is the energy. Note that for states with a permanent dipole, this definition agrees with the energy (4.2) which is linear in the electric field. However, for states with an induced dipole, the energy is typically proportional to E·E, and the definition (4.7) means that it can be written as ∆E = − P·E.
+
+From our expression above, we see that the ground state of hydrogen has an induced polarisation of this kind, given by P = 2C × 4πϵ₀ a₀³E  (4.8)
+
+We’ve actually seen the result (4.8) before: in the lectures on Electromagnetism we discussed Maxwell’s equations in matter and started with a simple classical model of the polarisation of an atom that gave the expression (4.8) with 2C = 1 (see the start of Section 7.1 of those lectures.). The quantum calculation above, with 2C = 9, is the right way to do things.
+
+Degeneracies in the Presence of an Electric Field
+
+As we’ve seen above, only degenerate states |n,l′,m′⟩ and |n,l,m⟩ with l = l′ and m = m′ are affected at leading order in perturbation theory. All states are affected at second order. When the dust settles, what does the spectrum look like?
+
+On general grounds, we expect that the large degeneracy of the hydrogen atom is lifted. The addition of an electric field breaks both the hidden SO(4) symmetry of the hydrogen atom — which was responsible for the degeneracy in l — and the rotational symmetry which was responsible for the degeneracy in m. We therefore expect these degeneracies to be lifted and, indeed, this is what we find. We retain the spin degeneracy, mₛ = ±1, since the electric field is blind to the spin.
+
+There is, however, one further small degeneracy that remains. This follows from the existence of two surviving symmetries of the Hamiltonian (4.1). The first is rotations in the (x,y)-plane, perpendicular to the electric field. This ensures that [H,L_z] = 0 and energy eigenstates can be labeled by the quantum number m. We’ll call these states |a;m⟩, where a is a label, not associated to a symmetry, which specifies the state. We have L_z|a,m⟩ = mℏ|a;m⟩.
+
+The second symmetry is time-reversal invariance discussed in Section 1.2. The anti-unitary operator Θ acts on angular momentum as (1.24), ΘLΘ⁻¹ = −L. This means that Θ|a;m⟩ = |a;−m⟩. Because [Θ,H] = 0, the states |a;m⟩ and |a;−m⟩ must have the same energy. This means that most states are two-fold degenerate. The exception is the m = 0 states. These can be loners.
+
+4.1.3 A Little Nazi-Physics History
+
+The Stark effect was discovered by Johannes Stark in 1913. For this he was awarded the 1922 Nobel prize. Stark was a deeply unpleasant man. He was an early adopter of the Nazi agenda and a leading light in the Deutsche Physik movement of the early 1930s whose primary goal was to discredit the Jüdische Physik of Einstein’s relativity. Stark’s motivation was to win approval from the party and become the Führer of German physics. Stark’s plans backfired when he tangled with Heisenberg who had the temerity to explain that, regardless of its origin, relativity was still correct. In retaliation, Stark branded Heisenberg a “white Jew” and had him investigated by the SS. Things came to a head when – and I’m not making this up – Heisenberg’s mum called Himmler’s mum and asked the N azi party to leave her poor boy alone. Apparently the Nazi’s realised that they were better off with Heisenberg’s genius than Stark’s bitterness, and House Stark fell from grace.
+
+## 4.2 The Zeeman Effect
+
+The last entry in Michael Faraday’s laboratory notebooks describe an experiment in which he subjected a flame to a strong magnetic field in the hope of finding a shift in the spectral lines. He found nothing. Some decades later, in 1896, Pieter Zeeman repeated the experiment, but this time with success. The splitting of atomic energy levels due to a background magnetic field is now called the Zeeman effect.
+
+The addition of a magnetic field results in two extra terms in the Hamiltonian. The first arises because the electron is charged and so, as explained in the lectures on Solid State Physics, the kinetic terms in the Hamiltonian become H = (p+eA)2 − (4.9)
+
+2m 4πϵ r where A is the vector potential and the magnetic field is given by B = ∇ × A. We take the magnetic field to lie in the z-direction: B = Bzˆ and work in symmetric gauge A = (−y,x,0).
+
+We can now expand out the square in (4.9). The cross terms are p · A = A · p = B(xp −yp )/2. Note that, even when viewed as quantum operators, there is no ordering y x ambiguity. Moreover, we recognise the combination in brackets as the component of the angular momentum in the z-direction: L = xp − yp . We can then write the z y x Hamiltonian as H = p2 +eB·L+ e2B2(x2 +y2) − (4.10)
+
+2m 4 4πϵ r
+
+Note that the B · L term takes the characteristic form of the energy of a magnetic dipole moment µ in a magnetic field. Here µ = − L L 2m is the dipole moment that arises from the orbital angular momentum of the electron.
+
+The second term that arises from a magnetic field is the coupling to the spin. We already saw this in Section 3.1.3 ∆H = g B·S 2m where the g-factor is very close to g ≈ 2. Combining the two terms linear in B gives the so-called Zeeman Hamiltonian H = B·(L+2S) (4.11)
+
+2m
+
+Note that it’s not quite the total angular momentum J = L + S that couples to the magnetic field. There is an extra factor of g = 2 for the spin. This means that the appropriate dipole moment is µ = − (L+2S) (4.12)
+
+total 2m
+
+The terms linear in B given in (4.11) are sometimes called the paramagnetic terms; these are responsible for the phenomenon of Pauli paramagnetism that we met in the Statistical Physics lectures. The term in (4.10) that is quadratic in B is sometimes called the diamagnetic tem; it is related to Landau diamagnetism that we saw in Statistical Physics.
+
+Figure 23: Splittingofthe2sand2penergylevelsinamagneticfield. Thequantumnumbers |m ,m ⟩ are shown.
+
+l s
+
+In what follows, we will work with magnetic fields that are small enough so that we can neglect the diamagnetic B2 term. In terms of dimensionless quantities, we require that eBa2/ℏ ≪ 1 where a , the Bohr radius, is the characteristic size of the atom. In 0 0 practical terms, this means B ≲ 10 T or so.
+
+4.2.1 Strong(ish) Magnetic Fields
+
+We work with the Zeeman Hamiltonian (4.11). It turns out that for the kinds of magnetic fields we typically create in a lab — say B ≲ 5 T or so — the shift in energy levels from H is smaller than the fine-structure shift of energy levels that we discussed in Section 3.1. Nonetheless, to gain some intuition for the effect of the Zeeman Hamiltonian, we will first ignore the fine-structure of the hydrogen atom. We’ll then include the fine structure and do a more realistic calculation.
+
+We want to solve the Hamiltonian H = H +H = p2 − + B·(L+2S) (4.13)
+
+0 Z 2m 4πϵ r 2m
+
+We start from the standard states of the hydrogen atom, |n,l,m ,m ⟩ where now we l s include both orbital angular momentum and spin quantum numbers. The energy of these states from H is E = −Ry/n2 and each level has degeneracy 2n2. 0 0
+
+Happily, each of the states |n,l,m ,m ⟩ remains an eigenstate of the full Hamiltonian l s H. The total energy is therefore E = E +E , where the Zeeman contribution depends 0 Z only on the m and m quantum numbers l s eℏ (E ) = ⟨n,l,m ,m |H |n,l,m ,m ⟩ = (m +2m )B (4.14)
+
+Z m ,ms l s Z l s 2m l s
+
+This gives our desired splitting. The two 1s states are no longer degenerate. For the n = 2 states, the splitting is shown in the figure. The 2s states split into two energy levels, while the six 2p states split into five. Note that the m = 0 states from 2p are degenerate with the 2s states.
+
+As we mentioned above, the energy spectrum (4.14) holds only when we can neglect both the fine-structure of the hydrogen atom and the quadratic B2 terms. This restricts us to a window of relatively large magnetic fields 5 T ≲ B ≲ 10 T. The result (4.14) is sometimes called the Paschen-Back effect to distinguish it from the weak field Zeeman effect that we will study below.
+
+The states |n,l,m ,m ⟩ are eigenstates of the full Hamiltonian (4.13). This means that l s we could now consider perturbing these by the fine-structure cor rections we met in Section 3.1 to find additional splitting. 4.2.2 Weak Magnetic Fields When the magnetic fields are small, we have to face up to the fact that the fine-structure corrections of Section 3.1 are larger than the Zeeman splitting. In this case, the correct way to proceed is to start with the fine structure Hamiltonian and then perturb by H. Because of the spin-orbit coupling, the eigenstates of the fine structure Hamiltonian are not labelled by |n,l,m_l,m_s⟩. Instead, as we saw in Section 3.1.3, the eigenstates are |n,j,m_j;l⟩ where j = l ± 1/2 is the total angular momentum, and the final label l is not a quantum number, but is there to remind us whether the state arose from j = l + 1/2 or j = l − 1/2.
+
+The upshot of our calculations in Sections 3.1.2 - 3.1.4 is that the energies depend only on n and j and, to leading order, are given by E_{n,j} = (Zα)^2 mc^2 [ -1/(2n^2) + (3/4n - 1/(2j+1)) (Zα)^2 / (2n^3) ].
+
+We now perturb by the Zeeman Hamiltonian H given in (4.11) to find, at leading order, the shifts of the energy levels given by ΔE_j = ⟨n,j,m_j;l| L_z + 2S_z |n,j,m_j;l⟩ eB/(2m). (4.15) You might think that we need to work with degenerate perturbation theory here. Indeed, the existence of degenerate states with energy E_{n,j} means that we should allow for the possibility of different quantum numbers m'_j and l' on the state ⟨n,j,m'_j;l'|. However, since both [L^2,H_Z] = 0 and [J_z,H_Z] = 0, the matrix elements vanish unless l = l' and m_j = m'_j. Fortunately, we again find ourselves in a situation where, despite a large degeneracy, we naturally work in the diagonal basis.
+
+As we will now see, evaluating (4.15) gives a different result from (4.14). Before proceeding, it’s worth pausing to ask why we get different results. When the magnetic field is weak, the physics is dominated by the spin-orbit coupling L · S that we met in Section 3.1.3. This locks the orbital angular momentum and spin, so that only the total angular momentum J = L + S sees the magnetic field. Mathematically, this means that we use the states |n,j,m_j;l⟩ to compute the energy shifts in (4.15). In contrast, when the magnetic field is strong, the orbital angular momentum and spin both couple to the magnetic field. In a (semi-)classical picture, each would precess independently around the B axis. Mathematically, this means that we use the states |n,l,m_l,m_s⟩ to compute the energy shifts in (4.14).
+
+Let’s now compute (4.15). It’s a little trickier because we want the z-components of L and S while the states are specified only by the quantum numbers of J. We’ll need some algebraic gymnastics. First note the identity iℏ(S×L) = (L·S)S − S(L·S) (4.16) which follows from the commutators [S_i,S_j] = iℏϵ_{ijk} S_k and [L_i,S_j] = 0. Further, since 2L·S = J^2 − L^2 − S^2, we have [L·S,J] = 0, which means that we can take the cross product of (4.16) to find iℏ(S×L)×J = (L·S)S×J − S×J(L·S). But, by standard vector identities, we also have (S×L)×J = L(S·J) − S(L·J) = J(S·J) − S(J^2) where, in the second line, we have simply used L = J − S. Putting these two together gives the identity (L·S)S×J − S×J(L·S) = iℏ( J(S·J) − S(J^2) ). (4.17) Finally, we again use the fact that 2L·S = J^2 − L^2 − S^2 to tell us that L·S is diagonal in the basis |n,j,m_j;l⟩. This means that the expectation value of the left-hand side of (4.17) vanishes in the states |n,j,m_j;l⟩. Obviously the same must be true of the right-hand side. This gives us the expression ⟨n,j,m_j;l| S(J^2) |n,j,m_j;l⟩ = ⟨n,j,m_j;l| J(S·J) |n,j,m_j;l⟩.
+
+Using 2(S·J) = J^2 + S^2 − L^2, we then find that ⟨n,j,m_j;l| S |n,j,m_j;l⟩ = [ j(j+1) + s(s+1) − l(l+1) ] / [ 2j(j+1) ] ⟨n,j,m_j;l| J |n,j,m_j;l⟩. This is the result we need. Using L = J − S, the shift in energy levels (4.15) can be written as ΔE_j = ⟨n,j,m_j;l| J_z + S_z |n,j,m_j;l⟩ eB/(2m) = m_j ℏ + ⟨n,j,m_j;l| S_z |n,j,m_j;l⟩ eℏB/(2m) = m_j g_J eℏB/(2m). (4.18) where g_J is known as the Landé g-factor, and is the ratio of angular momentum quantum numbers given by g_J = 1 + [ j(j+1) + s(s+1) − l(l+1) ] / [ 2j(j+1) ]. It is a number which lies between 1 and 2.
+
+We see that our final answer (4.18) for the Zeeman splitting is rather simple. Indeed, it’s the answer we would expect for a magnetic dipole of the form, µ_J = g_J (e/2m) J. (4.19) We see here the effect of the spin-orbit interaction. As explained above, it locks the spin and angular momentum together into the total angular momentum J. This changes the dipole moment from (4.12) to this result.
+
+The splitting of atomic energy levels allows us to see magnetic fields from afar. For example, we know the strength of magnetic fields in sunspots through the Zeeman splitting of the spectral lines of iron. As the magnetic field is increased, the Zeeman interaction becomes increasingly competitive with the spin orbit coupling, and we must interpolate between (4.19) and the Paschen-Back effect (4.12). With no hierarchy of scales, life is more complicated and we must treat both H and the fine-structure Hamiltonian separately. In practice, it is difficult to reach magnet electromagnetic fields which dominate the spin-orbit interaction.
+
+However, the discussion above also holds for the hyperfine interaction, whose energy splitting is comparable with magnetic fields that we can achieve in the lab. In this case, the total angular momentum is F = J + I with I the spin of the nucleus. Including the hyperfine interaction between the electron and nuclear spins, it is not hard to show that the magnetic moment of the atom becomes µ = F g F F 2m where g F = g J [F(F + 1) + j(j + 1) − I(I + 1)] / [2F(F + 1)]
+
+4.2.3 The Discovery of Spin The suggestion that the electron carries an intrinsic angular momentum – which we now call spin – was first made by the Dutch physicists Samuel Goudsmit and George Uhlenbeck in 1925. At the time, both were students of Ehrenfest.
+
+With hindsight, there was plenty of evidence pointing to the existence of spin. As we’ve seen in these lectures, the electron spin affects the atomic energy levels and resulting spectral lines in two different ways: • Spin-Orbit Coupling: This is particularly prominent in sodium, where the existence of electron spin gives rise to a splitting of the 3p states. The transition of these states back to the 3s ground state results in the familiar yellow colour emitted by sodium street lights, and was long known to consist of two distinct lines rather than one.
+
+• Zeeman Effect: The magnetic field couples to both the orbital angular momentum and to the electron spin. If the angular momentum is quantised as l ∈ Z, we would expect to see a splitting into (2l + 1) states, which is always an odd number. However, it was known that there are atoms – such as hydrogen – where the splitting results in an even number of states. Historically this was referred to as the anomalous Zeeman effect, reflecting the fact that no one could make sense of it. We now know that it arises because the electron spin is quantised as a half-integer.
+
+On the more theoretical level, in early 1925 Pauli proposed his famous exclusion principle for the first time. He employed this to explain the structure of the periodic table, but it only worked if the electrons had four quantum numbers rather than three — what we now call n, l, m and m s.
+
+Despite these many hints, the proposal of Goudsmit and Uhlenbeck was not greeted with unanimous enthusiasm. Pauli was particularly dismissive. Lorentz, mired in a classical worldview, argued that if the electron was spinning like the Earth then its surface would have to be travelling faster than light. Indeed, a few months previously Kronig had privately considered the possibility of an electron spin, but had been talked out of it by these great minds.
+
+One key reason for the skepticism lay in the initial difficulty of reconciling the spin-orbit and Zeeman effects: if you get the Zeeman splitting right, then the fine-structure splitting is off by a factor of 2. Here is what Goudsmit had to say: “The next day, I received a letter from Heisenberg and he refers to our “mutige Note” (courageous note). I did not even know we needed courage to publish that. I wasn’t courageous at all.... He says: “What have you done with the factor 2?” Which factor? Not the slightest notion.
+
+Of course, we ought to have made a quantitative calculation of the size of the splittings...We did not do that because we imagined it would be very difficult...We didn’t know how to do it, and therefore we had not done it. Luckily we did not know, because if we had done it, then we would have run into an error by a factor of 2.”
+
+This was only resolved a year later when Thomas discovered the relativistic effect that we now call Thomas precession. As we saw in Section 3.1.3, this changes the magnitude of the spin-orbit coupling by the necessary factor of 2. It was only with this addition to the theory that everything fitted and the spin of the electron became generally accepted.
+
+The intrinsic spin of the electron is one of the most important discoveries in atomic and particle physics. It was ultimately explained by Dirac as a consequence of special relativity. For this Dirac was awarded the Nobel prize. For Goudsmit and Uhlenbeck, there was no such luck. Instead, in 1927, they were awarded their PhDs.
+
+## 4.3 Shine a Light
+
+In this section we look at what happens if you take an atom and shine a light on it. We’ll continue to treat the electromagnetic field as classical. Ultimately we’ll see that this approach has shortcomings and in later sections we’ll consider both the atom and the light to be quantum.
+
+A monochromatic light wave is described by oscillating electric and magnetic fields, E = E 0 e^(i(k·x−ωt)) and B = (k̂ × E 0) e^(i(k·x−ωt))
+
+with ω² = c²k². The wavelength of the light is λ = 2π/k = 2πc/ω. We will require that: • The wavelength is much larger than the size of the atom: λ ≫ a. This means that the electron does not experience a spatial gradient in the electric and magnetic fields; only a temporal change.
+
+• The wave length is tuned to be close to the energy transition between two atom states. For simplicity, we will focus on the ground state and first excited state. We then require ω₀ ≈ ω where ℏω₀ = (E₂ − E₁). This condition will allow us to restrict our attention to just these two states, ignoring the others.
+
+Note that the second condition is compatible with the first. A typical energy level of hydrogen corresponds to a wavelength λ ≈ 2πa₀/α, so the factor of α ≈ 1/137 gives us a leeway of couple of orders of magnitude.
+
+Shining a light means that we perturb the atom by both an electric and magnetic field. We know from Sections 4.1 and 4.2 that the typical energy shift in the linear Stark effect is ΔE ∼ eEa ∼ eEℏ/mcα, while the typical energy shift in the Zeeman effect is ΔE ∼ eBℏ/2m ∼ eEℏ/2mc. We see that the effects of the electric field are larger by a factor of 1/α. For this reason, we neglect the oscillating magnetic field in our discussion and focus only on the electric field.
+
+Because λ ≫ a₀, we can treat the electric field a time-dependent, but spatially uniform. We describe such a field by a potential ϕ = E·x, with A = 0. This means that the full Hamiltonian is H = H₀ + ΔH(t), where the time-dependent perturbation is given by ΔH(t) = eE · x cos(ωt)
+
+Our goal is to find the eigenstates of the time-dependent Hamiltonian. This is a straightforward exercise.
+
+4.3.1 Rabi Oscillations
+
+By construction, we will only consider two states, |ψ₁⟩ and |ψ₂⟩, obeying H₀ |ψᵢ⟩ = Eᵢ |ψᵢ⟩
+
+Within the space spanned by these two states, the most general ansatz is |Ψ(t)⟩ = c₁(t)e^{−iE₁t/ℏ} |ψ₁⟩ + c₂(t)e^{−iE₂t/ℏ} |ψ₂⟩
+
+with |c₁|² + |c₂|² = 1. We substitute this into the time-dependent Schrödinger equation, iℏ ∂|Ψ⟩/∂t = (H₀ + ΔH(t))|Ψ⟩
+
+to get iℏ ċ₁ e^{−iE₁t/ℏ} |ψ₁⟩ + iℏ ċ₂ e^{−iE₂t/ℏ} |ψ₂⟩ = c₁ e^{−iE₁t/ℏ} ΔH|ψ₁⟩ + c₂ e^{−iE₂t/ℏ} ΔH|ψ₂⟩
+
+Now we take the overlap with ⟨ψ₁| and ⟨ψ₂| to find two, coupled differential equations iℏ ċ₁ = c₁ ⟨ψ₁|ΔH|ψ₁⟩ + c₂ ⟨ψ₁|ΔH|ψ₂⟩ e^{−iω₀t} iℏ ċ₂ = c₁ ⟨ψ₂|ΔH|ψ₁⟩ e^{iω₀t} + c₂ ⟨ψ₂|ΔH|ψ₂⟩
+
+where ℏω₀ = E₂ − E₁
+
+Our next task is to compute the matrix elements ⟨ψᵢ|ΔH|ψⱼ⟩. The diagonal matrix elements are particularly simple ⟨ψᵢ|ΔH|ψᵢ⟩ = eE · ⟨ψᵢ|x|ψᵢ⟩ cos(ωt) = 0
+
+These vanish because each |ψᵢ⟩ is a parity eigenstate and these are sandwiched between the parity-odd operator x. This is the same argument that we used in Section 4.1 to show that the linear Stark effect vanishes for nearly all states.
+
+The off-diagonal matrix elements are non-vanishing as long as |ψ₁⟩ has opposite parity to |ψ₂⟩. We define the Rabi frequency Ω as ℏΩ = eE · ⟨ψ₁|x|ψ₂⟩   (4.20)
+
+Note in particular that the Rabi frequency is proportional to the amplitude of the electric field. We’re left having to solve the coupled differential equations iċ₁ = Ω cos(ωt) e^{−iω₀t} c₂ iċ₂ = Ω cos(ωt) e^{+iω₀t} c₁
+
+In fact, there is one further simplification that we make. We write these as iċ₁ = (e^{i(ω−ω₀)t} + e^{i(ω+ω₀)t}) c₂ iċ₂ = (e^{−i(ω−ω₀)t} + e^{i(ω+ω₀)t}) c₁   (4.21)
+
+The right-hand side of each of these equations has two oscillatory terms. Recall, however, that we required our frequency of light to be close to the atomic energy splitting ω₀. This means, in particular, that |ω − ω₀| ≪ ω + ω₀
+
+So the second terms in (4.21) oscillate much faster than the first. We are interested only in the behaviour on long time scales – comparable to |ω−ω₀|⁻¹ — over which the fast oscillations simply average out. For this reason, we neglect the terms proportional to e^{i(ω+ω₀)t}. This is known as the rotating wave approximation, even though it’s not obvious that it has anything to do with rotating waves! (For what it’s worth, the name comes from nuclear magnetic resonance where a similar approximation means that you keep the wave which rotates in the same way as a spin and throw away the wave which rotates in the opposite direction.)
+
+Invoking the rotating wave approximation, our equations simplify to iċ₁ = (Ω/2) e^{iδt} c₂ and iċ₂ = (Ω/2) e^{−iδt} c₁   (4.22)
+
+where δ = ω − ω₀ tells us how much the frequency of light ω differs from the natural frequency of the atomic energy levels ω₀.
+
+Resonance
+
+We start by considering the case δ = 0, so that energy of light coincides with that of the level splitting. In this case the equations (4.22) are particularly simple: they are equivalent to the familiar second order differential equation ċ̈₁ = −(Ω²/4) c₁ ⇒ c₁ = cos(Ωt/2) and c₂ = −i sin(Ωt/2)
+
+where we picked initial conditions so that we sit in the ground state |Ψ⟩ = |ψ₁⟩ at time t = 0.
+
+We see that something lovely happens. The atom oscillates between the ground state and the first excited state with frequency Ω. This phenomena is known as Rabi oscillations or, sometimes, Rabi flopping.
+
+The probability that the atom sits in the excited state at time t is given by P(t) = |c₂|² = sin²(Ωt/2). This means that if we start with the atom in the ground state and shine a pulse of resonant light for a time 如果 T = π/Ω，那么原子肯定会处于第一激发态。这被称为一个 π 脉冲。或者，我们可以施加一个“π 脉冲”，即照射共振光一段时间 T = π/(2Ω)。这会将原子置于叠加态 |Ψ⟩ = (|ψ1⟩ - i|ψ2⟩)/√2。这使我们能够从实验上制备态的叠加。
+
+**失谐**
+
+当入射光与共振失谐，即 δ ≠ 0 时，一阶方程 (4.22) 可以组合成关于 c1 的二阶微分方程： d²c₁/dt² - iδ dc₁/dt + (Ω²/4) c₁ = 0 ⇒ (d/dt - iδ/2 + i√(Ω²+δ²)/2)(d/dt - iδ/2 - i√(Ω²+δ²)/2) c₁ = 0
+
+其解为： c₁(t) = e^{iδt/2} [A cos( (√(Ω²+δ²)/2) t ) + B sin( (√(Ω²+δ²)/2) t )]
+
+我们再次要求在 t = 0 时所有粒子都处于基态 |ψ1⟩。这固定了 A = 1，但这次 B 不为 0。相反，我们使用方程 (4.22) 中的第一个来确定 c₂，并要求 c₂(t=0) = 0。这给出解： c₁ = e^{iδt/2} [cos( (√(Ω²+δ²)/2) t ) - (iδ/√(Ω²+δ²)) sin( (√(Ω²+δ²)/2) t )]
+
+c₂ = -i e^{-iδt/2} (Ω/√(Ω²+δ²)) sin( (√(Ω²+δ²)/2) t )
+
+我们现在看到，振荡发生在广义拉比频率 √(Ω²+δ²) 处。这意味着当我们远离共振失谐时，振荡速率增加。此时处于激发态的概率为： P₂(t) = |c₂(t)|² = (Ω²/(Ω²+δ²)) sin²( (√(Ω²+δ²)/2) t ) (4.23)
+
+我们看到，对于 δ ≠ 0，这个概率永远不会达到一：我们不再能确定已经激发了原子。然而，拉比频率 Ω 与电场振幅成正比 (4.20)。这意味着随着我们增加电场的强度，激发概率会增加。相反，对于非常弱的电场，我们有 δ ≫ Ω，概率永远不会超过 Ω²/δ²： P₂(t) ≈ (Ω²/δ²) sin²(δt/2) (4.24)
+
+**电偶极子与磁偶极子**
+
+我们上面的讨论描述了由振荡电场驱动的态之间的跃迁。这称为电偶极跃迁。
+
+然而，也存在振荡磁场主导物理的情况。例如，这发生在精细结构和超精细结构跃迁中，两者都涉及自旋自由度的翻转。这些跃迁的理论与我们上面描述的相同，拉比频率由 ℏΩ = B·⟨ψ1|μ|ψ2⟩ 给出，其中 μ 是原子磁矩。这样的跃迁称为磁偶极跃迁。
+
+上面描述的振荡行为首先在超精细跃迁中被观察到。为此，伊西多·拉比获得了1944年诺贝尔奖。
+
+**4.3.2 自发辐射**
+
+将一个原子置于激发态，把它放在真空中，然后不去管它。会发生什么？如果使用描述电子绕原子核运动的通常量子力学哈密顿量来建模，我们会得到一个简单的预测：什么都不会发生。任何被置于能量本征态的量子系统都会保持在那里，只有其相位以 e^{-iEt/ℏ} 振荡。
+
+然而在现实世界中，确实会发生某些事情。处于激发态的原子会衰变，跃迁到更低的态并在此过程中发射一个光子。这称为自发辐射。这不是一个确定性的过程。我们无法预测一个给定的原子何时会衰变。我们只能说，平均而言，一个给定的激发态有一个寿命 τ。我们想知道如何计算这个寿命。
+
+如何在量子力学中描述自发辐射？这是困难的，因为我们需要一个粒子数发生变化的框架：衰变之前，我们只有原子；衰变之后，我们同时有原子和光子。为了正确建模，我们需要理解如何以与量子力学一致的方式处理电磁场。这是量子场论的主题。我们将在第4.4节中开始对此进行初步探索。
+
+然而，事实证明，有一个巧妙的统计力学论证（最初归功于爱因斯坦），允许我们计算激发态的寿命 τ，而无需使用完整的量子场论框架。我们现在描述这个论证。
+
+**速率方程**
+
+考虑大量的原子。我们开始时有 N₁ 个处于基态，N₂ 个处于激发态。这些激发态原子中的每一个都会以我们称为 A₂₁ 的速率自发地衰变到基态。我们用速率方程来建模： dN₂/dt = -A₂₁ N₂ (4.25)
+
+该解告诉我们，激发态原子的布居数以特征指数行为衰减，寿命 τ 定义为： N₂(t) = N₂(0) e^{-t/τ}，其中 τ = 1/A₂₁ (4.26)
+
+我们的最终目标是计算 A₂₁。为此，我们将采取一个不寻常的步骤使情况变得更复杂：我们选择用光来照射原子。
+
+The atoms absorb light and are promoted to excited states. This happens at a rate which is proportional to the intensity of light, ρ(ω). Furthermore, as we saw above, the dominant effect comes from the light which is resonant with the energy difference of the atomic states, ω = ω₀ ≡ (E₂ - E₁)/ℏ.
+
+We call the total rate for the ground state to be excited to the excited state ρ(ω₀)B₁₂. (There is a slight subtlety here: the rate actually gets contributions from all frequencies, but these are absorbed into the definition of B₁₂. We’ll see this in more detail below.)
+
+The second process is a little counter-intuitive: the excited states can receive extra encouragement to decay to the ground state from the incident light. This process, known as stimulated emission. It too is proportional to the intensity of light. We denote the rate as ρ(ω₀)B₂₁. If you’re suspicious about this effect, you can always view B₂₁ as an extra parameter which could plausibly vanish. However, we’ll see that one outcome of the argument is that B₂₁ ≠ 0: the phenomenon of stimulated emission is necessary on consistency grounds.
+
+The net effect of bathing the atoms in light is that the rate equation (4.25) becomes dN₂/dt = ρ(ω₀)(B₁₂N₁ - B₂₁N₂) - A₂₁N₂ There is a similar equation for the population of ground state atoms dN₁/dt = -ρ(ω₀)(B₁₂N₁ - B₂₁N₂) + A₂₁N₂ The coefficients A₂₁, B₁₂ and B₂₁ are called the Einstein A and B coefficients.
+
+In equilibrium, the populations are unchanging. In this case, the density of light of frequency ω must be given by ρ(ω₀) = (A₂₁N₂) / (B₁₂N₁ - B₂₁N₂) (4.27)
+
+Throwing in Some Thermodynamics At this point, we look at the problem from the more microscopic perspective of statistical mechanics. (See the lecture notes on Statistical Physics for the necessary background.) Before we proceed, we need to specify more information about the atom. We denote the degeneracy of the ground states, with energy E₁, as g₁ and the degeneracy of excited states, with energy E₂, as g₂.
+
+We now assume that the whole atom/light mix sits in thermal equilibrium at a temperature T. Then the Boltzmann distribution tells us that the relative population of atomic states is given by N₂/g₂ / (N₁/g₁) = e^(-E₂/k_B T) / e^(-E₁/k_B T) = e^(-ℏω₀/k_B T)
+
+Furthermore, the energy density of light is given by the Planck distribution, ρ(ω) = (ℏω³) / (π²c³) * 1/(e^(ℏω/k_B T) - 1) (4.28)
+
+Combining these formulae with our previous result (4.27), we find the result ρ(ω₀) = (ℏω₀³) / (π²c³) * 1/(e^(ℏω₀/k_B T) - 1) = (A₂₁N₂) / (B₁₂N₁ - B₂₁N₂)
+
+= (A₂₁(g₂/g₁)e^(ℏω₀/k_B T)) / (B₁₂ - B₂₁e^(ℏω₀/k_B T))
+
+We want this equation to hold for any temperature T. This is a strong requirement.
+
+First, it relates the absorption and stimulated emission coefficients g₁B₁₂ = g₂B₂₁ (4.29)
+
+We see that, as promised, it is a thermodynamic requirement that stimulated emission occurs if absorption can occur. More surprisingly, we also get a relationship between the rates for stimulated emission and spontaneous emission A₂₁ = (ℏω₀³ / π²c³) * B₂₁ (4.30)
+
+This is a remarkable result. All information about the temperature of the background light bath has dropped out. Instead, we are left with a relationship that only depends on the inherent properties of the atom itself. Furthermore, the probability for an atom to decay in vacuum is related to the probability for it to decay when bombarded by light.
+
+Computing the Einstein Coefficients If we know one of the three Einstein coefficients, then the relations (4.29) and (4.30) immediately give us the other two. But we have already computed the probability for an atom to be excited in Section 4.3.1 in the context of Rabi oscillations.
+
+We still need to do a little work to translate between the two results. In the limit of weak electromagnetic fields, the probability to excite the ground state by shining light of frequency ω was given in (4.24)
+
+P(t) = (Ω²/2) * sin²((ω - ω₀)t/2) / (ω - ω₀)² If we take the electric field to be E = (0,0,E), then the (square of the) Rabi frequency given by (4.20)
+
+Ω² = (e²E² / ℏ²) * |⟨ψ₁|z|ψ₂⟩|² In thermal equilibrium we have photons of all frequencies ω, whose energy distribution is governed by the blackbody formula (4.28). This means that we have electric fields E of all frequencies. Recall that the energy density ρ(ω) stored in an electric field is ε₀E²/2. Integrating over frequencies, the probability to sit in the excited state is P(t) = (2e² / ε₀ℏ²) * |⟨ψ₁|z|ψ₂⟩|² * ∫₀^∞ ρ(ω) * [sin²((ω - ω₀)t/2) / (ω - ω₀)²] dω This integral is dominated by the region near ω = ω₀. We therefore replace ρ(ω) by ρ(ω₀) and bring it outside the integral, P(t) ≈ (2e² / ε₀ℏ²) * ρ(ω₀) * |⟨ψ₁|z|ψ₂⟩|² * ∫₀^∞ [sin²((ω - ω₀)t/2) / (ω - ω₀)²] dω Note that this step ensures that the rate is indeed proportional to ρ(ω₀), which was an assumption in deriving our rate equations above. Finally, to do the integral we write x = (ω - ω₀)t/2 and extend the range from -∞ to ∞, P(t) ≈ (2e²t / ε₀ℏ²) * ρ(ω₀) * |⟨ψ₁|z|ψ₂⟩|² * ∫_{-∞}^{+∞} (sin²x / x²) dx = (e²πt / ε₀ℏ²) * ρ(ω₀) * |⟨ψ₁|z|ψ₂⟩|² ψ ⟩|2 \frac{ε}{2πℏ^2} ⟨ψ_0|z|ψ_1⟩|2
+
+The fact that the probability grows linearly with t is an artefact of the approximation above. The answer is correct only for small t. The real lesson to take from this is that the rate P(t) is given by
+
+Rate of Absorption = Ṗ(t) = ρ(ω) \frac{ε}{2πℏ^2} |⟨ψ_0|z|ψ_1⟩|2
+
+from which we get the Einstein coefficient
+
+B_{12} = \frac{ε}{2πℏ^2} |⟨ψ_0|z|ψ_1⟩|2
+
+Finally, since the light is bombarding the atom from all directions, this is often written using rotationally invariant matrix elements,
+
+B_{12} = \frac{ε}{3πℏ^2} |⟨ψ_0|x|ψ_1⟩|2  (4.31)
+
+Using the Einstein relations (4.29) and (4.30), we see that the smaller the matrix element, the longer lived the particle.
+
+4.3.3 Selection Rules What happens if the matrix element (4.31) vanishes? In this case the excited state does not decay when subjected to oscillating electric fields: it is stable against electric dipole transitions. The fact that some transitions are forbidden is referred to as selection rules. This doesn’t mean that these excited atomic states are fully stable because there can still be other decay channels as we explain below.
+
+We have already seen situations where ⟨ψ_1|x|ψ_2⟩ vanishes when discussing the Stark effect. Because x is parity odd, the two states must differ in parity. However, there are more stringent selection rules than those that follow from parity alone. Here we recapitulate and extend these results.
+
+First, an obvious point. The operator x knows nothing about the spin of the states, so |ψ_1⟩ and |ψ_2⟩ must have the same spin. We write this as the requirement
+
+∆s = ∆m = 0
+
+More powerful selection rules come from looking at the other angular momentum quantum numbers. Neglecting spin, the atomic states |ψ⟩ are labelled by |n,l,m⟩. Using [L_z, z] = 0, we have
+
+⟨n',l',m'|[L_z, z]|n,l,m⟩ = ℏ(m' - m)⟨n',l',m'|z|n,l,m⟩ = 0
+
+This tells us that electric fields which oscillate in the z-direction can only effect a transition if m = m', or
+
+∆m = 0 for light polarised in the z direction
+
+However, we also have [L_z, x ± iy] = ±ℏ(x ± iy) which tells us
+
+⟨n',l',m'|[L_z, x ± iy]|n,l,m⟩ = ℏ(m' - m)⟨n',l',m'|x ± iy|n,l,m⟩ = ±ℏ⟨n',l',m'|x ± iy|n,l,m⟩
+
+This tells us that electric fields oscillating perpendicular to the z-direction can only effect a transition when m' - m = ±1, or
+
+∆m = ±1 for light polarised transverse to the z direction
+
+To determine the allowed transitions between l quantum numbers, we use the identity [L^2, [L^2, x]] = 2ℏ^2(xL^2 + L^2x), which gives us
+
+⟨n',l',m'|[L^2, [L^2, x]]|n,l,m⟩ = ℏ^2(l'(l' + 1) - l(l + 1))^2 ⟨n',l',m'|x|n,l,m⟩ = 2ℏ^2(l'(l' + 1) + l(l + 1))⟨n',l',m'|x|n,l,m⟩
+
+Rearranging and factorising, we have
+
+(l + l')(l + l' + 2)((l - l')^2 - 1)⟨n',l',m'|x|n,l,m⟩ = 0
+
+Since l, l' > 0, we learn that this matrix element is non-vanishing only if l - l' = ±1, or
+
+∆l = ±1
+
+We’ve derived each of these selection rules by pulling a commutation relation identity out of thin air and then seeing that it happens to give the right answer. This feels a little like a trick. A much more systematic approach is to invoke the Wigner-Eckart theorem, which tells us what matrix elements are non-vanishing based on the representation theory of the rotation group.
+
+An example of an electric dipole transition consistent with these selection rules is the 2p → 1s decay of hydrogen. It is a simple matter to compute this using the formulae above: one finds a lifetime τ ≈ 10^{-9} seconds. In contrast, the 2s → 1s transition is forbidden by the selection rule ∆l = ±1. The decay does eventually happen, but has to find another route. (It turns out that it primarily emits two photons rather than one). Correspondingly, the lifetime is much longer, τ ≈ 10^{-1} seconds.
+
+There’s a cute piece of physics here related to the Stark effect. Recall from Section 4.1 that a constant background electric field causes the 2s state of hydrogen to mix with the 2p state. (See equation (4.5).) But, when combined with the phenomena of spontaneous emission, this state immediately becomes more unstable. This means that we can create a gas of hydrogen atoms in the 2s state, comfortable in the knowledge that they will last a relatively long time (around a tenth of a second). But when subjected to a constant electric field, they will immediately decay to the ground state, releasing a burst of light.
+
+Magnetic Dipole Transitions The selection rules described above hold for electric dipole transitions. However, if the matrix elements vanish it does not mean that the excited state of the atom is absolutely stable. To paraphrase Jeff Goldblum, Nature will find a way. There are other channels through which the atom can decay. Indeed, we already briefly described the magnetic dipole transition, in which the relevant matrix element is ⟨ψ_1|µ|ψ_2⟩.
+
+Here the selection rules are different. In particular, µ is related to the angular momentum operator and is parity even. This means that, in contrast to the electric dipole transition, the matrix element above is non-vanishing only if |ψ_1⟩ and |ψ_2⟩ have the same parity. For example, transitions between levels split by fine structure.
+
+The hyperfine structure transitions have the same parity and so occur through magnetic dipole effects. The lifetime of any excited state is determined by the largest matrix element. Sometimes, even the largest matrix element can be very small in which case the atomic state is long lived. An extreme example occurs for the hyperfine structure of hydrogen, which gives rise to the 21 cm line: its lifetime is around 10 million years.
+
+## 4.4 Photons
+
+The relationships (4.29) and (4.30) have allowed us to determine the rate of spontaneous emission of a photon. But it’s clear the argument relied on the magic of thermodynamics. To go beyond this description, we need a way to incorporate both the quantum state of the atom and the quantum state of the electromagnetic field. This is the framework of Quantum Field Theory. We will see how to quantise the electromagnetic field in next year’s Quantum Field Theory lectures. Here we offer a baby version.
+
+4.4.1 The Hilbert Space of Photons The quantum state of the electromagnetic field is described by how many photons it contains. Each photon is a particle of light. Its properties are described by two quantum numbers. The first is the momentum, which is given by p = ℏk. Here k is the wavevector and its magnitude, k = |k|, is the wavenumber; it is related to the wavelength by λ = 2π/k and to the frequency by ω(k) = kc. The energy of a photon is given by the famous formula E = ℏω (4.32)
+
+Note that, when combined with the definition of momentum, this is simply the relativistic dispersion relation for a massless particle: E = pc.
+
+The second property of the photon is its polarisation. This is described by a vector which is orthogonal to k. For each k, we define a two-dimensional basis of polarisation vectors eλ, with λ = 1,2, obeying eλ ·k = 0 To specify the state of the electromagnetic field, we need to say how many photons it contains, together with the information k and eλ for each photon. The states are therefore labelled by a list of non-negative integers, |{n }⟩ kλ where n ∈ Z tells us how many photons we have with momentum k and polarisation kλ λ.
+
+We start with the state with no photons. This is the vacuum state and is denoted as |0⟩. The key to quantum field theory is to view the particles – in this case, the photons – as excitations of the underlying field, in much the same way that the states of the harmonic oscillator arise from exciting the vacuum. For each type of photon, we introduce annihilation and creation operators, a and a† . These obey the familiar commutation relations of the harmonic oscillator, kλ kλ [a ,a† ] = δ δ kλ kλ′ k,k′ λ,λ′ The annihilation operators have the property that a |0⟩ = 0. The quantum state of a single photon with momentum k and polarisation λ is described by a† |0⟩. The general state of the quantum field is given by kλ kλ |{n }⟩ = (a† )^n_kλ |0⟩ = √(n_kλ!) |0⟩ (4.33)
+
+kλ kλ n !
+
+kλ k,λ This is the same kind of set-up that we saw in the lectures on Solid State Physics when discussing the quantisation of phonons.
+
+So far we have only described the Hilbert space of the electromagnetic field. It consists of an infinite number of harmonic oscillators, one for each k and λ. Note that already here we’re dealing with something unfamiliar from the quantum mechanics perspective. Usually in quantum mechanics we fix the number of particles and then look at the Hilbert space. But here our Hilbert space contains states with different numbers of photons. Such Hilbert spaces are sometimes referred to as Fock spaces.
+
+The final step is to determine the Hamiltonian that governs the evolution of these states. This too is lifted from the harmonic oscillator: it is H = Σ_k,λ ℏω(k) a† a + 1/2 kλ kλ Acting on our states (4.33) we have H|{n }⟩ = E|{n }⟩ with E = Σ_k,λ n_kλ ℏω(k)
+
+kλ kλ which agrees with the formula (4.32), now generalised to a large number of photons.
+
+Above, we have simply stated the Hilbert space and Hamiltonian for the electromagnetic field. Of course, ultimately we should derive these results starting from the Maxwell equations. This will be done in the Quantum Field Theory course.
+
+4.4.2 Coherent States Recall from our earlier lectures on the harmonic oscillator that there is a special state which most closely mimics a classical state. This is the coherent state. In the present context a coherent state is parameterised by α ∈ C and consists of a sum of photons, each with the same wavevector and polarisation. We write a ≡ a . The coherent state can then be expressed as kλ |α⟩ = e^(αa†−α⋆a)|0⟩ = e^(−|α|2/2)e^(αa†)|0⟩ where the equality follows from some standard manipulations of creation and annihilation operators. States of this kind are the closest that a quantum state gets to a classical plane wave. In particular, the classical expectation values of the electric and magnetic fields can be shown to oscillate back and forth with frequency ω = kc. The coherent states are eigenstates of the annihilation operator.
+
+meaning that they are unchanged by the removal of a photon. The parameter α determines the mean number of photons in the state, ⟨n⟩ = ⟨α|a†a|α⟩ = |α|². Coherent states play a particularly important role in quantum optics. In this context, they are sometimes referred to as Glauber states. (Roy Glauber was awarded the 2005 Nobel prize for his work on optical coherence.)
+
+Making a Coherent State The light emitted by a laser is described by a coherent state. I’m not going to try to explain how a laser works here. (It’s to do with stimulated emission of a bunch of atoms.) But there is a simple model which explains how coherent states naturally arise: it is the driven harmonic oscillator, H = ℏω(a†a + 1/2) + ℏ(f*(t)a + f(t)a†)
+
+Here f(t) is a forcing function which excites the harmonic oscillator. In the context of electrodynamics, we think of a† as creating photons of frequency ω (and some unspecified polarisation). We will now show that the forcing term creates photons.
+
+We solve the Hamiltonian in the interaction picture, taking H₀ = ℏω(a†a + 1/2). Recall that states in the interaction picture are related to those in the Schrödinger picture by |ψ⟩ᵢ = e^{iH₀t/ℏ}|ψ⟩ₛ. The interaction picture for the interaction Hamiltonian is H_I = ℏ e^{iH₀t/ℏ} (f*(t)a + f(t)a†) e^{-iH₀t/ℏ} = ℏ(e^{-iωt}f*(t)a + e^{iωt}f(t)a†)
+
+The states then evolve as |ψ(t)⟩ᵢ = U_I(t)|ψ(0)⟩ᵢ, where the unitary operator U_I obeys iℏ ∂U_I/∂t = H_I U_I.
+
+You can check that the solution is given by U_I(t) = exp(α(t)a† - α*(t)a + iφ(t))
+
+where α(t) = -i ∫₀ᵗ dt' f(t') e^{iωt'} and φ(t) = (1/2) ∫₀ᵗ dt' Im(α̇*α). (To check this, you’ll need to use some commutation relations, in particular [e^{αa†}, a] e^{-αa†} = -α.)
+
+Now suppose that we drive the oscillator at its natural frequency, so that f(t) = f₀ e^{-iωt}. In this case, α(t) = -i f₀ t and the states in the interaction picture are given by |ψ(t)⟩ᵢ = e^{-if₀(a†+a)t}|0⟩ = e^{-(f₀t)²/2} e^{-if₀a†t}|0⟩ This is the coherent state |α⟩. Equivalently, if we transform back to the Schrödinger picture, we have the coherent state |ψ(t)⟩ₛ = e^{-iH₀t/ℏ}|ψ(t)⟩ᵢ = e^{-(f₀t)²/2} e^{-if₀ e^{-iωt} a† t}|0⟩
+
+The upshot of this discussion is that adding a forcing term to the harmonic oscillator drives the ground state to a coherent state. While this doesn’t explain the importance of coherent states in, say, laser physics, hopefully it at least provides some motivation.
+
+4.4.3 The Jaynes-Cummings Model Now that we have a description of the quantised electromagnetic field, we would like to understand how it interacts with atoms. Here we construct a simple, toy model that captures the physics.
+
+The first simplification is that we consider the atom to have just two states. This is essentially the same approximation that we made in Section 4.3 when discussing Rabi oscillations. Here we change notation slightly: we call the ground state of the system |↓⟩ and the excited state of the system |↑⟩. (These names are adopted from the notation for spin, but that’s not the meaning here. For example, |↓⟩ may describe the 1s state of hydrogen, and |↑⟩ the 2p state.)
+
+As in our discussion of Rabi oscillations, we take the energy splitting between the two states to be ℏω. This means that, in the absence of any coupling to the electromagnetic field, our two-state “atom” is simply described by the Hamiltonian H_atom = (1/2) [ℏω, 0; 0, -ℏω] (4.34)
+
+This atom will interact with photons of frequency ω. We will only include photons with this frequency and no others. In reality, this is achieved by placing the atom in a box which can only accommodate photons of wavelength λ = 2πc/ω. For this reason, the restriction to a single frequency of photon is usually referred to as cavity quantum electrodynamics.
+
+We will ignore the polarisation of the photon. Following our discussion above, we introduce the creation operator a†. The Hilbert space of photons is then spanned by the states |n⟩ = (a†)ⁿ/√(n!) |0⟩, with Hamiltonian H_photon = ℏω(a†a + 1/2) (4.35)
+
+We often omit the zero-point energy ℏω/2 since it only contributes a constant.
+
+Combining the two, the Hilbert space is H = H_atom ⊗ H_photon and is spanned by the states |n;↑⟩ and |n;↓⟩, with n ≥ 0. The Hamiltonian includes both (4.34) and (4.35), but also has an interaction term. We want this interaction term to have the property that if the excited state |↑⟩ decays to the ground state |↓⟩ then it emits a photon. Similarly, the ground state |↓⟩ may absorb a photon to become excited to |↑⟩. This physics is captured by the following Hamiltonian H_JC = [ℏω/2, ℏga; ℏga†, -ℏω/2] + ℏωa†a This is the Jaynes-Cummings model. The constant g characterises the coupling between the atom and the photons.
+
+As we’ll see, the Jaynes-Cummings model captures many of the features that we’ve seen already, including Rabi oscillations and spontaneous emission. However, you shouldn’t think of the photons in this model as little wavepackets which, when emitted, disappear.
+
+pear off into the cosmos, never to be seen again. Instead, the photons are momentum eigenstates, spread throughout the cavity in which the atom sits. When emitted, they hang around. This will be important to understand the physics.
+
+We now look at the dynamics of the Jaynes-Cummings model. The state |0,↓⟩ describes an atom in the ground state with no photons around. This state is an eigenstate of H with energy H |0,↓⟩ = −1ϵ|0,↓⟩.
+
+## JC JC
+
+However, the state |0,↑⟩, describing an excited atom in the vacuum is not an eigenstate. It can evolve into |1,↓⟩, describing an atom in the ground state with one photon. More generally, the Hilbert space splits into sectors with the |n−1,↑⟩ state mixing with the |n,↓⟩ state. Restricted to these two states, the Hamiltonian is a 2×2 matrix given by
+
+H = (n− 1/2) ω1 + (ω −ω)σ3 + g √n σ1 2          0 where σi are the Pauli matrices. The two eigenstates are
+
+|n⟩₊ = sinθ|n−1,↑⟩−cosθ|n,↓⟩ |n⟩₋ = cosθ|n−1,↑⟩+sinθ|n,↓⟩
+
+where
+
+tan(2θ) = g √n / δ , δ = ω −ω          (4.36)
+
+δ is the same detuning parameter we used before. When δ = 0, we are on resonance, with the energy of the photon coinciding with the energy splitting of the atom. In general, the two energy eigenvalues are
+
+E = (n+1/2) ℏω ± ℏ √(g²n + δ²)
+
+Let’s now extract some physics from these solutions.
+
+Rabi Oscillations Revisited
+
+Consider an atom in the ground state, surrounded by a fixed number of photons n. The initial state is |Ψ(t = 0)⟩ = |n,↓⟩ = sinθ|n⟩₋ − cosθ|n⟩₊. The state subsequently evolves as
+
+|Ψ(t)⟩ = [ e^(−iE₋t/ℏ) sinθ|n⟩₋ − e^(−iE₊t/ℏ) cosθ|n⟩₊ ]
+
+From this, we can extract the probability of sitting in the excited state
+
+P(t) = sin²( (t/2) √(g²n + δ²) ) × (g²n / (g²n + δ²))
+
+This agrees with our earlier result (4.23) which was derived for an atom sitting in a classical electric field. Note that the Rabi frequency (4.20) should be equated with Ω = g √n. This makes sense: the coupling g is capturing the matrix element, while the number of photons n is proportional to the energy stored in the electromagnetic field, so n is proportional to the amplitude of the electric field.
+
+Death and Resurrection
+
+The Jaynes-Cummings model captures also new physics, not seen when we treat the electromagnetic field classically. This is simplest to see if we tune the photons to resonance, setting δ = 0. With this choice, (4.36) tells us that cosθ = sinθ = 1/√2.
+
+We again place the atom in its ground state, but this time we do not surround it with a fixed number of photons. Instead, we place the electromagnetic field in a coherent state
+
+|Ψ⟩ = e^(−|α|²/2) e^(α a†)|0,↓⟩ = e^(−|α|²/2) Σ (αⁿ / √n!) |n,↓⟩
+
+We will take the average number of photons in this state to be macroscopically large. This means |α| ≫ 1. Now the evolution is given by
+
+|Ψ(t)⟩ = e^(−(|α|²−iωt)/2) Σ [ (α e^(−iωt))ⁿ / √n! ] [ cos(g √n t/2) |n,↓⟩ + i sin(g √n t/2) |n−1,↑⟩ ]
+
+The probability to find the atom in its excited state is
+
+P(t) = e^(−|α|²) Σ (|α|²ⁿ / n!) sin²(g √n t/2)
+
+Now there are many oscillatory contributions to the probability, each with a different frequency. We would expect these to wash each other out, so that there are no coherent oscillations in the probability. Indeed, we will now see, this is what happens. But there is also a surprise in store.
+
+To analyse the sum over different frequencies, we first rewrite the probability as
+
+P(t) = e^(−|α|²) Σ (|α|²ⁿ / n!) × (1/2 − (1/2) cos(g √n t)) = 1/2 − (1/2) e^(−|α|²) Σ (|α|²ⁿ / n!) cos(g √n t)
+
+where, in the second equality, we have used the Taylor expansion of the exponential.
+
+The sum is sharply peaked at the value n ≈ |α|². To see this, we use Stirling’s formula to write
+
+|α|²ⁿ / n! ≈ (1/√(2πn)) e^(n log|α|² − n log n + n)
+
+The exponent f(n) = n log|α|² − n log n + n has a maximum at f′(n) = log|α|² − log n = 0, or n = |α|². We then use f″(n) = −1/n. Taylor expanding around the maximum, we have
+
+|α|²ⁿ / n! ≈ (1/√(2π|α|²)) e^(−m²/(2|α|²))
+
+where m = n − |α|². With |α|² sufficiently large, the sum over m effectively ranges from −∞ to +∞. We have
+
+P(t) ≈ 1/2 − (1/2) ∫ (1/√(2π|α|²)) e^(−m²/(2|α|²)) cos(g t √(|α|² + m)/2) dm
+
+Let’s now try to build some intuition for this sum. First note that for very short time periods, there will be the familiar Rabi oscillations. A single cycle occurs with period g T |α| = 2π, or
+
+T_Rabi ≈ 2π / (g |α|)
+
+These oscillations occur at a Rabi frequency determined by the average number of photons ⟨n⟩ = |α|². In the first figure, we’ve plotted the function (4.37) for |α| = 20 and times gt ≤ 2. We clearly see the Rabi oscillations at these time scales.
+
+There are other features that occur on longer time scales. The exponential suppression means that only the terms up to |m| ≈ |α| will contribute in a significant way. If, over the range of these terms, we get a change of phase by 2π then we expect destructive interference among the different oscillations. This occurs when
+
+√gT( |α|² +1−|α|) ≈ 2π, or
+
+T ≈ T_collapse ≈ 4π / √g|α|
+
+This tells us that after approximately |α| Rabi oscillations, the probability asymptotes to P↑ = 1/2. This is the expected behaviour if the atom is subjected to lots of different frequencies. This collapse is clearly seen in the first right-hand figure, which plots the function (4.37) for |α| = 20 and time scales up to gt ≤ 10. Indeed, the left-hand plot of the next diptych extends the timescale to gt ≈ 50, where we clearly see that the probability settles to P↑ = 1/2.
+
+However, there is a surprise in store! At much longer timescales, each term in the sum picks up the same phase from the cos factor: i.e. cos(gT√(|α|²+1)) = cos(gT√|α|²), or gT( √(|α|²+1)−|α|) = 2π. This occurs when
+
+T ≈ T_revival ≈ 4π|α| / g
+
+On these time scales, the terms in the sum once again add coherently and we can find the particle in the excited state with an enhanced probability. This is called quantum revival and is clearly seen in the second right-hand plot. Note that the probability in the revival never reaches one, nor dips to zero.
+
+Revival is a novel effect that arises from the quantisation of the electromagnetic field; it has no classical analog. Note that this effect does not occur because of any coherence between the individual photon states. Rather, it occurs because of the discreteness of the electromagnetic field.
+
+Finally, we can ask what the probability looks like on extremely long time scales t ≫ T_revival. On the right, we continue our plots to gt = 5000. We see a number of collapses and revivals, until the system becomes noisy and fluctuating at large times.
+
+## 5. Quantum Foundations
+
+What is the essence of quantum mechanics? What makes the quantum world truly different from the classical one? Is it the discrete spectrum of energy levels? Or the inherent lack of determinism?
+
+The purpose of this chapter is to go back to basics in an attempt to answer this question. For the most part, we will not be interested in the dynamics of quantum systems (although Section 5.5 is an exception). Instead, we will look at the framework of quantum mechanics in an attempt to get a better understanding of what we mean by a “state”, and what we mean by a “measurement”.
+
+## 5.1 Entanglement
+
+“I would not call that one but rather the characteristic trace of quantum mechanics, the one that enforces its entire departure from classical lines of thought” Erwin Schrödinger on entanglement
+
+The differences between the classical and quantum worlds are highlighted most emphatically when we look at a property called entanglement. This section and, indeed, much of this chapter will be focussed on building the tools necessary to understand the surprising features of entangled quantum states.
+
+Entanglement is a property of two or more quantum systems. Here we consider two systems, with associated Hilbert spaces H₁ and H₂ respectively. The Hilbert space of the combined system is then H₁ ⊗ H₂. A state of this combined system is said to be entangled if it cannot be written in the form
+
+|Ψ⟩ = |ψ₁⟩⊗|ψ₂⟩ (5.1)
+
+For example, suppose we have two particles, each of which can have one of two states. This is called a qubit. We take a basis of this Hilbert space to be the spin in the z-direction, with eigenstates spin up |↑⟩ or spin down |↓⟩. Then the state
+
+|Ψ⟩ = |↑⟩⊗|↓⟩
+
+is not entangled. In contrast, the state
+
+|Ψ⟩ = (1/√2)(|↑⟩⊗|↓⟩−|↓⟩⊗|↑⟩)
+
+is entangled. In fact, this is the most famous of all entangled states and is usually known as an EPR pair, after Einstein, Podolsky and Rosen. Note that this state is a sum over states of the form (5.1) and cannot be written in a simpler form; this is what makes it entangled. In what follows, we’ll simplify our notation and drop the ⊗ symbol, so the EPR pair is written as
+
+|EPR⟩ = (1/√2)(|↑⟩|↓⟩−|↓⟩|↑⟩) (5.2)
+
+To illustrate the concept of entanglement, we could just as easily have chosen the states
+
+|Ψ⟩ = (1/√2)(|↑⟩|↓⟩ + |↓⟩|↑⟩) or |Ψ⟩ = (1/√2)(|↑⟩|↑⟩ + |↓⟩|↓⟩).
+
+Both of these are also entangled. However, just because a state is written as a sum of terms of the form (5.1) does not necessarily mean that it’s entangled. Consider, for example,
+
+|Ψ⟩ = (1/√2)(|↑⟩|↓⟩+|↓⟩|↓⟩)
+
+This can also be written as |Ψ⟩ = |→⟩|↓⟩ where |→⟩ = (1/√2)(|↑⟩+|↓⟩) and so this state is not entangled. We’ll provide a way to check whether or not a state is entangled in Section 5.3.3.
+
+5.1.1 The Einstein, Podolsky, Rosen “Paradox” In 1935, Einstein, Podolsky and Rosen tried to use the property of entanglement to argue that quantum mechanics is incomplete. Ultimately, this attempt failed, revealing instead the jarring differences between quantum mechanics and our classical worldview. Here is the EPR argument. We prepare two particles in the state (5.2) and subsequently separate these particles by a large distance. There is a tradition in this field, imported from the world of cryptography, to refer to experimenters as Alice and Bob and it would be churlish of me to deny you this joy. So Alice and Bob sit in distant locations, each carrying one of the spins of the EPR pair. Let’s say Alice chooses to measure her spin in the z-direction. There are two options: she either finds spin up |↑⟩ or spin down |↓⟩ and, according to the rules of quantum mechanics, each of these happens with probability 50%. Similarly, Bob can measure the spin of the second particle and also finds spin up or spin down, again with probability 50%. However, the measurements of Alice and Bob are not uncorrelated. If Alice measures the first particle to have spin up, then the EPR pair (5.2) collapses to |↑⟩|↓⟩, which means that Bob must measure the spin of the second particle to have spin down. It would appear, regardless of how far apart they are, the measurement of Alice determines the measurement of Bob: whatever Alice sees, Bob always sees the opposite. Viewed in the usual framework of quantum mechanics, these correlations arise because of a “collapse of the wavefunction” which happens instantaneously. Now, for any theoretical physicist — and for Einstein in particular — the word “instantaneous” should ring alarm bells. It appears to be in conflict with special relativity and, although we have not yet made any attempt to reconcile quantum mechanics with special relativity, it would be worrying if they are incompatible on such a fundamental level. The first thing to say is that there is no direct conflict with locality, in the sense that there is no way to use these correlations to transmit information faster than light. Alice and Bob cannot use their entangled pair to send signals to each other: if Bob measures spin down then he has no way of knowing whether this happened because he collapsed the wavefunction, or if it happened because Alice has already made a measurement and found spin up. Nonetheless, the correlations that arise appear to be non-local and this might lead to a sense of unease. There is, of course, a much more mundane explanation for the kinds of correlations that arise from EPR pairs. Suppose that I take off my shoes and give one each to Alice and Bob, but only after I’ve sealed them in boxes. I send them off to distant parts of the Universe where they open the boxes to discover which of my shoes they’ve been carrying across the cosmos. If Alice is lucky, she finds that she has my left shoe. (It is a little advertised fact that Alice has only one leg.) Bob, of course, must then have my right shoe. But there is nothing miraculous or non-local in all of this. The parity of the shoe was determined from the beginning; any uncertainty Alice and Bob had over which shoe they were carrying was due only to their ignorance, and my skill at hiding shoes in boxes. This brings us to the argument of EPR. The instantaneous collapse of the wavefunction in quantum mechanics is silly and apparently non-local. It would be much more sensible if the correlations in the spins could be explained in the same way as the correlations in shoes. But if this is so, then quantum mechanics must be incomplete because the state (5.2) doesn’t provide a full explanation of the state of the system. Instead, the outcome of any measurement should be determined by some property of the spins that is not encoded in the quantum state (5.2), some extra piece of information that was there from the beginning and says what the result of any measurement will give. This hypothetical extra piece of information is usually referred to as a hidden variable. It was advocated by Einstein and friends as a way of restoring some common sense to the world of quantum mechanics, one that fits more naturally with our ideas of locality. There’s no reason that we should have access to these hidden variables. They could be lying beyond our reach, an inaccessible deterministic world which we can never see. In this picture, our ignorance of these hidden variables is where the probability of quantum mechanics comes from, and the uncertainties of quantum mechanics are then no different from the uncertainties that arise in the weather or in the casino. They are due, entirely, to lack of knowledge. This wonderfully comforting vision of the Universe is sometimes called local realism. It is, as we will now show, hopelessly naive. 5.1.2 Bell’s Inequality The hypothetical hidden variables that determine the measurements of spin must be somewhat more subtle than those that determine the measurement of my shoes. This is because there’s nothing to stop Alice and Bob measuring the spin in directions other than the z-axis. Suppose, for example, that both choos To measure the spin in the x-direction. The eigenstates for a single spin are |→⟩ = √ (|↑⟩+|↓⟩), |←⟩ = √ (|↑⟩−|↓⟩)
+
+2 2 with eigenvalues +ℏ/2 and −ℏ/2 respectively. We can write the EPR pair (5.2) as |EPR⟩ = √ (|↑⟩|↓⟩−|↓⟩|↑⟩) = √ (|←⟩|→⟩−|→⟩|←⟩)
+
+2 2 So we again find correlations if the spins are measured along the x-axis: whenever Alice finds spin +ℏ/2, then Bob finds spin −ℏ/2 and vice-versa. Any hidden variable has to account for this too. Indeed, the hypothetical hidden variables have to account for the measurement of the spin along any choice of axis. This will prove to be their downfall.
+
+A Review of Spin Before we proceed, let’s first review a few facts about how we measure the spin along different axes. An operator that measures spin along the direction a = (sinθ,0,cosθ)
+
+is σ ·a = cosθ sinθ sinθ −cosθ Below we’ll denote this matrix as σ ·a = σ . It has eigenvectors θ θ |θ ⟩ = cos |↑⟩+sin |↓⟩ and |θ ⟩ = −sin |↑⟩+cos |↓⟩ + − 2 2 2 2 From this, we learn that if we prepare a state in, say, |↓⟩, then the probability P(θ )
+
+of measuring either spin + or spin − along the vector a is θ θ P(θ ) = sin2 and P(θ ) = cos2 + − 2 2 From the form of the eigenstates |θ ⟩, we see that the EPR pair can be written as |EPR⟩ = √ (|θ ⟩|θ ⟩−|θ ⟩|θ ⟩) (5.3)
+
++ − − + for any θ. This means that, as long as Alice and Bob both choose to measure the spin along the same direction a, then their results will always be perfectly anti-correlated: when one measures spin + the other is guaranteed to measure spin −. This is a special property of the EPR pair that is not shared by other entangled states. It follows from some group theory: under addition of angular momentum 1 ⊗ 1 = 0⊕1, and the EPR 2 2 state is the rotationally invariant singlet.
+
+What’s Wrong with Hidden Variables Suppose now that Alice measures the spin along the z-axis, and Bob measures the spin along the a axis. If Alice measures spin |↑⟩, then we know that Bob has spin |↓⟩, so whether he measures spin + or − is determined by the probabilities above. We’ll write this as P(σA,σB) where σA denotes the spin measured by Alice and σB the spin z θ measured by Bob. The four possibilities are P(σA = +,σB = +) = sin2 (θ/2), P(σA = +,σB = −) = cos2 (θ/2)
+
+z θ z θ P(σA = −,σB = +) = cos2 (θ/2), P(σA = −,σB = −) = sin2 (θ/2) (5.4)
+
+z θ z θ Note, in particular, that if θ = 0 so that Alice and Bob measure the spin along the same axis, then we revert to our previous perfect anti-correlation.
+
+It is not difficult to account for these results in a hidden variables theory. Each of the particles carries with them two labels s and s which have values +1 or −1 and z θ determine the result of a spin measurement along the z-axis and a axis respectively.
+
+The perfect anti-correlation means that the value of each spin for Bob’s particle must be the opposite of Alice’s. We write sB = −sA and sB = −sA. We then only need to z z θ θ talk about the probability distribution p(sA,sA) for the spins of Alice’s particles. To z θ reproduce the predictions (5.4), we must take these to be P(sA = +,sA = −) = sin2 (θ/2), P(sA = +,sA = +) = cos2 (θ/2)
+
+z θ z θ P(sA = −,sA = −) = cos2 (θ/2), P(sA = −,sA = +) = sin2 (θ/2) (5.5)
+
+z θ z θ Mathematically this is straightforward: the probability distributions are, after all, es- sentially the same as those in (5.4). But physically we’ve done something a little slippery. We’ve said that whenever Bob measures his spin σ to be, say, +1 then this determines the spin of Alice’s particle to be s = −1 even though Alice didn’t measure the spin in the direction a. In this way, we’ve managed to assign labels to Alice’s particle corresponding to spin in two different directions. But this is against the spirit of quantum mechanics because these operators for spins in different directions don’t commute. Indeed, we will now see that the spirit of quantum mechanics will come back and bite us.
+
+The trouble comes when we throw a third possible measurement into the mix. Sup- pose that Alice and Bob are given a choice. Each can measure the spin along the z-axis, along the a = (sinθ,0,cosθ) axis or along the b = (sinϕ,0,cosϕ) axis. Now each par- ticle must be assigned a hidden variable that determines the choice of each of these measurements. So Alice’s particle comes with sA, sA and sA, each of which can take z θ ϕ value ±1. The probabilities of the different choices are governed by some distribution p(sA,sA,sA). We will now show that no such distribution exists that can reproduce the z θ ϕ results of measurements of the EPR pair.
+
+Let’s assume that such a distribution does exist. This implies certain relations be- tween the probability distributions P(sA,sA). For example, by summing over the vari- i j ables which weren’t measured, we find P(sA = +,sA = −) = p(++−)+p(−+−)
+
+θ ϕ ≤ [p(++−)+p(+++)]+[p(−+−)+p(−−−)]
+
+= P(sA = +,sA = +) + P(sA = −,sA = −)
+
+z θ z ϕ But we know what each of these distributions P(sA,sA) must be: they are given by (5.5).
+
+This then gives the Bell inequality
+
+sin²(θ−ϕ)/2 ≤ cos²θ/2 + cos²ϕ/2
+
+where the left-hand side follows from the rotational invariance of the EPR state.
+
+There’s a problem with the Bell inequality: it’s simply not true for all values of θ and ϕ! Suppose, for example, that we take θ = 3π/2 and ϕ = 3π/4. Then sin²(3π/4) – cos²(3π/8) = √2/2 – 1/2. Meanwhile, cos²(3π/4) = 1/2. Obviously 1/2 < √2/2. These values violate the Bell inequality.
+
+The Bell inequality was derived under the assumption that there was some hidden variable underlying quantum mechanics. Its violation tells us that this is simply not possible. Of course, physics is an experimental science and we can ask whether or not the Bell inequalities are violated in Nature. They are. The experiment was first done in the early 1980s by Aspect and has been repeated many times since, with different groups trying to finesse the experiments in order to close off increasingly preposterous loopholes that philosophers claim to have discovered in the argument.
+
+The original EPR argument was an attempt to show that locality, together with common sense, imply that there should be hidden variables underlying quantum mechanics. Nature, however, disagrees. Indeed, the Bell inequalities turn the EPR argument completely on its head. If you want to keep locality, then you’re obliged to give up common sense which, here, means a view of the world in which particles carry the properties that are measured. In contrast, if you want to keep common sense, you will have to give up locality. Such a loophole arises because the derivation of Bell’s inequality assumed that a measurement on one particle does not affect the probability distribution of the other. Given that the two particles can be separated by arbitrarily large distances, any such effect must be superluminal and, hence, non-local. Therefore, the best one can say is that Bell’s argument forbids local hidden variable theories.
+
+Most physicists cherish locality over common sense. In particular, all of our most successful laws of physics are written in the language of Quantum Field Theory, which is the framework that combines quantum mechanics with local dynamics. With locality sitting firmly at the heart of physics, it is very difficult to see role for any kind of hidden variables.
+
+It is sometimes said that the correlations inherent in EPR-type pairs are non-local. I don’t think this is a particularly helpful way to characterise these correlations because, as we have seen, there is no way to use them to signal faster than light. Nonetheless, it is true that the correlations that arise in quantum mechanics cannot arise in any local classical model of reality. But the key lesson to take from this is not that our Universe is non-local; it is instead that our Universe is non-classical.
+
+**5.1.3 CHSH Inequality**
+
+The essence of Bell’s inequality can be distilled to a simpler form, due to Clauser, Horne, Shimony and Holt.
+
+We stick with the general framework where both Alice and Bob are each sent a two-state quantum system. Alice can choose to measure one of two quantum observables, A₁ or A₂. Similarly, Bob can choose to measure B₁ or B₂. Each of these observables has two possible eigenvalues, a_i = ±1 and b_i = ±1.
+
+We require that [A_i, B_j] = 0 for i,j = 1,2. This is the statement that Alice and Bob can happily perform their measurements without interfering with the other. In particular, this is where the assumption of locality comes in: if Alice and Bob are spacelike separated then this must hold. In contrast, we will make no such assumption about [A₁, A₂] or [B₁, B₂].
+
+We’re going to look at the expectation value of the observable C = (A₁ + A₂)B₁ + (A₁ – A₂)B₂. We do this first in a hidden variable theory, and next in the quantum theory. We’ll see that a hidden variable theory places a stricter range on the allowed values of the expectation value ⟨C⟩. To see this, we make the seemingly innocuous assumption that the system possesses well-defined values for a_i and b_i. In this case, we write C_h.v. = (a₁ + a₂)b₁ + (a₁ – a₂)b₂. But since a_i = ±1, then there are two possibilities:
+
+- a₁ + a₂ = 0 ⇒ a₁ – a₂ = ±2 - a₁ – a₂ = 0 ⇒ a₁ + a₂ = ±2
+
+In either case, C_h.v. = ±2b_i for some b_i. Since b_i can only take values ±1, we have |⟨b_i⟩| ≤ 1, and so –2 ≤ ⟨C_h.v.⟩ ≤ 2. This is the CHSH inequality. It is entirely analogous to the Bell inequality.
+
+What about in quantum theory? Now we don’t admit to a₁ and a₂ having simultaneous meaning, so we’re not allowed to write the above. Instead, we have to manipulate C = (A₁ + A₂)B₁ + (A₁ – A₂)B₂ as an operator equation. Because the eigenvalues are ±1, we must have A₁² = A₂² = B₁² = B₂² = 1, the identity operator. After a little algebra, we find
+
+C² = 41 – A₁A₂[B₁, B₂] + A₂A₁[B₂, B₁] – A₁A₂B₁B₂ – A₂A₁B₂B₁ = 41 – [A₁, A₂][B₁, B₂]
+
+Now |⟨[A₁, A₂]⟩| ≤ |⟨A₁A₂⟩| + |⟨A₂A₁⟩| ≤ 2, since each operator has eigen...
+
+nvalue ±1. 1 2 1 2 2 1 From this we learn that in the quantum theory, ⟨C2⟩ ≤ 8. Since ⟨C2⟩ ≥ ⟨C⟩2, we find that the range of values in quantum mechanics to be −2√2 ≤ ⟨C⟩ ≤ 2√2. This is referred to as the Cirel’son bound. Clearly the range of values allowed by quantum mechanics exceeds that allowed by hidden variables theories (5.10).
+
+It remains for us to exhibit states and operators which violate the CHSH bound. For this, we can return to our spin model. From (5.4), we know that ⟨EPR|σzA ⊗σzB|EPR⟩ = sin²(θ/2) − cos²(θ/2) = −cosθ. This means that if we take the four operators A1, B1, A2 and B2 to be spin operators, aligned in the (x,y) at successive angles of 45◦ (i.e. A1 has θ = 0, B1 has θ = π/4, A2 has θ = π/2 and B2 has θ = 3π/4) then ⟨A1B1⟩ = ⟨A1B2⟩ = ⟨A2B1⟩ = −1/√2 and ⟨A2B2⟩ = +1/√2, and we see that ⟨C⟩ = −2√2, saturating the Cirel’son bound.
+
+5.1.4 Entanglement Between Three Particles If we consider the case of three particles rather than two, then there is even sharper contradiction between the predictions of quantum mechanics and those of hidden variables theories. As before, we’ll take each particle to carry one of two states, with a basis given by spins |↑⟩ and |↓⟩, measured in the z-direction.
+
+Consider the entangled three-particle state |GHZ⟩ = √( (|↑⟩|↑⟩|↑⟩−|↓⟩|↓⟩|↓⟩) ), named after Greenberger, Horne and Zeilinger. These three particles are sent to our three intrepid scientists, each waiting patiently in far-flung corners of the galaxy. Each of these scientists makes one of two measurements: they either measure the spin in the x-direction, or they measure the spin in the y-direction. Obviously, each experiment gives them the result +1 or −1.
+
+The state |GHZ⟩ will result in correlations between the different measurements. Suppose, for example, that two of the scientists measure σx and the other measures σy. For any given spin, we have σx|↑⟩ = |↓⟩ and σx|↓⟩ = |↑⟩, and σy|↑⟩ = i|↓⟩ and σy|↓⟩ = −i|↑⟩. It is then simple to check that σxA ⊗ σyB ⊗ σyC |GHZ⟩ = σyA ⊗ σxB ⊗ σyC |GHZ⟩ = σyA ⊗ σyB ⊗ σxC |GHZ⟩ = +|GHZ⟩. In other words, the product of the scientist’s three measurements always equals +1.
+
+It’s tempting to follow the hidden variables paradigm and assign a spin sx and sy to each of these three particles. Let’s suppose we do so. Then the result above means that sAxsByCsCy = sAysBxCsCy = sAysByCsCx = +1 (5.11). But from this knowledge we can make a simple prediction. If we multiply all of these results together, we get (sAysByCsCy)² sAxsBxCsCx = +1 ⇒ sAxsBxCsCx = +1 (5.12), where the implication follows from the fact that the spin variables can only take values ±1. The hidden variables tell us that whenever the correlations (5.11) hold, the correlation (5.12) must also hold.
+
+Let’s now look at what quantum mechanics tells us. Rather happily, |GHZ⟩ happens to be an eigenstate of σxA ⊗ σxB ⊗ σxC. But we have σxA ⊗ σxB ⊗ σxC |GHZ⟩ = −|GHZ⟩. In other words, the product of these three measurements must give −1. This is in stark contradiction to the hidden variables result (5.12). Once again we see that local hidden variables are incapable of reproducing the results of quantum mechanics.
+
+If Only We Hadn’t Made Counterfactual Arguments...
+
+In both the Bell and GHZ arguments, the mistake in assigning hidden variables can be traced to our use of counterfactuals. This is the idea that we can say what would have happened had we made different choices.
+
+Suppose, for example, that Alice chooses to measure σxA to be +1 in an EPR state. Then Bob can be absolutely certain that he will find σxB to be −1 should he choose to measure it. But even that certainty doesn’t give him the right to assign sBx = −1 unless he actually goes ahead and measures it. This is because he may want to measure spin along some other axis, σBy, and assuming that both properties exist will lead us to the wrong conclusion as we’ve seen above. The punchline is that you don’t get to make counterfactual arguments based on what would have happened: only arguments based on what actually did happen.
+
+5.1.5 The Kochen-Specker Theorem The Kochen-Specker theorem provides yet another way to restrict putative hidden-variables theories. Here is the statement: Consider a set of N Hermitian operators A acting on H. Typically some of these operators will commute with each other, while others will not. Any subset of operators which mutually commute will be called compatible.
+
+In an attempt to build a hidden variables theory, all observables A are assigned a value a ∈ R. We will require that whenever A, B and C ∈ {A} are compatible then the following properties should hold: If C = A+B then c = a+b; If C = AB then c = ab. These seem like sensible requirements. Indeed, in quantum mechanics we know that if [A,B] = 0 then the expectation values obey the relations above and, moreover, there are states where we can assign definite values to A, B and therefore to A+B and to AB. We will not impose any such re requirements if [A,B] ≠ 0.
+
+As innocuous as these requirements may seem, the Kochen-Specker theorem states that in Hilbert spaces H with dimension dim(H) ≥ 3, there are sets of operators {A} for which it is not possible to assign values a with these properties. Note that this isn’t a statement about a specific state in the Hilbert space; it’s a stronger statement that there is no consistent values that can possibly be assigned to operators.
+
+The issue is that a given operator, say A, can be compatible with many different operators. So, for example, it may appear in the compatible set (A,B,C) and also in (A,D,E) and should take the same value a in both. Meanwhile, B may appear in a different compatible set and so on. The proofs of the Kochen-Specker theorem involve exhibiting a bunch of operators which cannot be consistently assigned values.
+
+The original proof of the Kochen-Specker theorem is notoriously fiddly, involving a set of N = 117 different projection operators in a dim(H) = 3 dimensional Hilbert space. Simpler versions of the proof with dim(H) = 3 now exist, although we won’t present them here.
+
+There is, however, a particularly straightforward proof that involves N = 18 operators in a dim(H) = 4 dimensional Hilbert space. We start by considering the following 18 vectors ψ ∈ C^4, ψ1 = (0,0,0,1), ψ2 = (0,0,1,0), ψ3 = (1,1,0,0), ψ4 = (1,−1,0,0)
+
+ψ5 = (0,1,0,0), ψ6 = (1,0,1,0), ψ7 = (1,0,−1,0), ψ8 = (1,−1,1,−1)
+
+ψ9 = (1,−1,−1,1), ψ10 = (0,0,1,1), ψ11 = (1,1,1,1), ψ12 = (0,1,0,−1)
+
+ψ13 = (1,0,0,1), ψ14 = (1,0,0,−1), ψ15 = (0,1,−1,0), ψ16 = (1,1,−1,1)
+
+ψ17 = (1,1,1,−1), ψ18 = (−1,1,1,1)
+
+From each of these, we can build a projection operator P_i = |ψ_i⟩⟨ψ_i| / ⟨ψ_i|ψ_i⟩
+
+Since the projector operators can only take eigenvalues 0 or 1, we want to assign a value p_i = 0 or p_i = 1 to each projection operator P_i.
+
+Of course, most of these projection operators do not commute with each other. However, there are subsets of four such operators which mutually commute and sum to give the identity operator. For example, P_1 + P_2 + P_3 + P_4 = I In this case, the requirements of the Kochen-Specker theorem tell us that one of these operators must have value p = 1 and the other three must have value p = 0.
+
+Now comes the twist. We can, in fact, construct nine such subsets of four operators. These are listed in the columns of the following table:
+
+## P1 P1 P8 P8 P2 P9 P16 P16 P17
+
+## P2 P5 P9 P11 P5 P11 P17 P18 P18
+
+## P3 P6 P3 P7 P13 P14 P4 P6 P13
+
+## P4 P7 P10 P12 P14 P15 P10 P12 P15
+
+This table has the nice property that each P_i appears in exactly two different columns.
+
+Now the task is clear: assign values p_i = 0,1 to each P_i such that each column has a single p_i = 1 and three p_i = 0. It is best to sit down and try to do this. And then try again. By the time you’ve tried for the third time, it should be increasingly clear that no consistent assignment of values p_i is possible. And the reason is clear: because each projection operator appears twice, if you assign p_i = 1 to any projection operator, you will always end up with an even number of values p_i = 1 in the table. But the goal is only achieved if you assign one to each of the nine rows so we want an odd number. Clearly it’s not possible. This is the Kochen-Specker theorem.
+
+## 5.2 Entanglement is a Resource
+
+In the previous section, we used entangled states to reveal how quantum mechanics differs from our older, classical framework. In this section, we will view entanglement somewhat differently. It is a precious commodity that allows us to achieve things that classical physicists cannot.
+
+5.2.1 The CHSH Game To illustrate the advantage that entanglement brings, we start by describing a game. It’s not a particularly fun game. It’s designed purely as a point of principle to show that entanglement can be useful.
+
+The game is one of cooperation between two players – Alice and Bob of course – who cannot communicate with each other, but can prepare a strategy beforehand. Alice and Bob are both given an envelope. Inside each envelope is either a red card or a blue card. This means that there are four possibilities for their cards: red/red, red/blue, blue/red or blue/blue.
+
+After seeing their card, Alice and Bob have to decide whether to say “turtles” or to say “cucumber”. This is, I think you will agree, a silly game. The rules are as follows: • Alice and Bob win if both cards are red and they said different words.
+
+• Alice and Bob win if at least one card was blue and they said the same word.
+
+• Otherwise, they lose.
+
+What’s their best strategy? First suppose that Alice and Bob are classical losers and have no help from quantum mechanics. It’s not hard to convince yourself that their best strategy is just to say “cucumber” every time, regardless of the colour of their card. They only lose if both cards turn out to be red. Otherwise they win.
+
+They win. This means that they win 75% of the time.
+
+Suppose, however, that Alice and Bob have spent many decades developing coherent qubits. This pioneering technology resulted in them being kidnapped by a rival government who then, for reasons hard to fathom, subjected them to this stupid game. Can their discoveries help them get out of a bind? Thankfully, the answer is yes. Although, arguably, not so much that it’s worth all the trouble.
+
+To do better, Alice and Bob must share a number of EPR pairs, one for each time that the game is played. Here is their gameplan. Whenever Alice’s card is blue, she measures A₁; whenever it is red she measures A₂. Whenever these measurements give +1 she says “turtles”; whenever it is −1 she says “cucumber”. Bob does something similar: B₁ when blue, B₂ when red; “turtles” when +1, “cucumber” when −1.
+
+Suppose that both cards are blue. Then they win if A₁ and B₁ give the same result and lose otherwise. In other words, they win if the measurement gives A₁B₁ = +1 and lose when A₁B₁ = −1. This means P(win)−P(lose) = ⟨A₁B₁⟩
+
+In contrast, if both cards are red then they lose if A₂ and B₂ give the same measurement and win otherwise, so that P(win)−P(lose) = −⟨A₂B₂⟩
+
+Since each combination of cards arises with probability p = 1, the total probability is P(win)−P(lose) = ⟨A₁B₁ + A₁B₂ + A₂B₁ − A₂B₂⟩
+
+But we’ve seen this before: it’s precisely the combination of operators (5.8) that arose in the CHSH proof of the Bell inequality. We can immediately import our answer from there to learn that P(win)−P(lose) ≤ √2
+
+We saw previously that we can find operators which saturate this inequality. Since P(win)+P(lose) = 1, there’s a choice of measurements Aᵢ and Bᵢ — essentially spin measurements which differ by 45° — which ensures a win rate of P(win) = (√2 + 1)/2 ≈ 0.854
+
+This beats our best classical strategy of 75%.
+
+Having the ability to win at this particular game is unlikely to change the world. Obviously the game was cooked up by starting from the CHSH inequality and working backwards in an attempt to translate Bell’s inequality into something approximating a game. But it does reveal an important point: the correlations in entangled states can be used to do things that wouldn’t otherwise be possible. If we can harness this ability to perform tasks that we actually care about, then we might genuinely be able to change the world. This is the subject of quantum information. Here we give a couple of simple examples that move in this direction.
+
+5.2.2 Dense Coding
+
+For our first application, Alice wants to send Bob some classical information, which means she wants to tell him “yes” or “no” to a series of questions. This is encoded in a classical bit as values 0 and 1.
+
+However, Alice is fancy. She has qubits at her disposal and can send these to Bob. We’d like to know if she can use this quantum technology to aid in sending her classical information.
+
+First note that Alice doesn’t lose anything by sending qubits rather than classical bits. (Apart, of course, from the hundreds of millions of dollars in R&D that it took to get them in the first place.) She could always encode the classical value 0 as |↑⟩ and 1 as |↓⟩ and, provided Bob is told in advance to measure σ_z, the qubit contains the same information as a classical bit. But this does seem like a waste of resources.
+
+Is it possible to do better and transmit more than one classical bit in a single qubit? The answer is no: a single qubit carries the same amount of information as a classical bit. However, this changes if Alice’s qubit is actually part of an entangled pair that she shares with Bob. In this case, she can encode two classical bits of information in a single qubit. This is known as dense coding.
+
+To achieve this feat, Alice first performs an operation on her spin. We’ll introduce some new notation for this state that will become useful in the following section: we call the EPR pair |EPR⟩ = |χ−⟩ = (1/√2)(|↑⟩|↓⟩ − |↓⟩|↑⟩)
+
+Alice then has four options: • She does nothing. Obviously, the entangled pair remains in the state |χ−⟩.
+
+• Alice acts with σ_x. This changes the state to −|ϕ−⟩ where |ϕ−⟩ = (1/√2)(|↑⟩|↑⟩ − |↓⟩|↓⟩)
+
+• Alice acts with σ_y. This changes the state to −i|ϕ+⟩ where |ϕ+⟩ = (1/√2)(|↑⟩|↑⟩ + |↓⟩|↓⟩)
+
+• Alice acts with σ_z. This changes the state to |χ+⟩.
+
+|χ+⟩ = (1/√2)(|↑⟩|↓⟩ + |↓⟩|↑⟩)
+
+The upshot of this procedure is that the entangled pair sits in one of four different states |ϕ±⟩ = (1/√2)(|↑⟩|↑⟩ ± |↓⟩|↓⟩)  or  |χ±⟩ = (1/√2)(|↑⟩|↓⟩ ± |↓⟩|↑⟩)  (5.13)
+
+Alice now sends her qubit to Bob, so Bob has access to the whole entangled state. Since the four different states are orthogonal, it must be possible to distinguish them by performing some measurements. Indeed, the measurements Bob needs to make are σ_x ⊗ σ_x and σ_z ⊗ σ_z.
+
+These two operators commute. This means that, while we don’t get to know the values of both s_x and s_z of, say, the first spin, it does make sense to talk about the products of the spins of the two qubits.
+
+bits in both directions. It’s simple to check that the four possible states above are eigenstates of these two operators σ_x ⊗ σ_x |ϕ±⟩ = ±|ϕ±⟩ and σ_x ⊗ σ_x |χ±⟩ = ±|χ±⟩ (5.14)
+
+σ_z ⊗ σ_z |ϕ±⟩ = +|ϕ±⟩ and σ_z ⊗ σ_z |χ±⟩ = −|χ±⟩ So, for example, if Bob measures σ_x ⊗ σ_x = +1 and σ_z ⊗ σ_z = −1, then he knows that he’s in possession of state |χ+⟩. Bob then knows which of the four operations Alice performed. In this way she has communicated two classical bits of information through the exchange of a single qubit.
+
+Admittedly, two qubits were needed for this to fly: one which was exchanged and one which was in Bob’s possession all along. In fact, in Section 5.3.2, we’ll show that entanglement between spins can only be created if the two spins were brought together at some point in the past. So, from this point of view, Alice actually exchanged two qubits with Bob, the first long ago when they shared the EPR pair, and the second when the message was sent. Nonetheless, there’s still something surprising about dense coding. The original EPR pair contained no hint of the message that Alice wanted to send; indeed, it could have been created long before she knew what that message was. Nor was there any information in the single qubit that Alice sent to Bob. Anyone intercepting it along the way would be no wiser. It’s only when this qubit is brought together with Bob’s that the information becomes accessible.
+
+5.2.3 Quantum Teleportation Our next application has a sexy sounding name: quantum teleportation. To put it in context, we first need a result that tells us what we cannot do in quantum mechanics.
+
+The No Cloning Theorem The no cloning theorem says that it is impossible to copy a state in quantum mechanics. Here’s the game. Someone gives you a state |ψ⟩, but doesn’t tell you what that state is. Now, you can determine some property of the state but any measurement that you make will alter the state. This means that you can’t then go back and ask different questions about the initial state.
+
+Our inability to know everything about a state is one of the key tenets of quantum mechanics. But there’s an obvious way around it. Suppose that we could just copy the initial state many times. Then we could ask different questions on each of the replicas and, in this way, build up a fuller picture of the original state. The no cloning theorem forbids this.
+
+To prove the theorem, we really only need to set up the question. We start with a state |ψ⟩ ∈ H. Suppose that we prepare a separate system in a blank state |0⟩ ∈ H. To create a copy of the initial state, we would like to evolve the system so that |In(ψ)⟩ = |ψ⟩⊗|0⟩ −→ |Out(ψ)⟩ = |ψ⟩⊗|ψ⟩ But this can’t happen through any Hamiltonian evolution because it is not a unitary operation. To see this, consider two different states |ψ₁⟩ and |ψ₂⟩. We have ⟨In(ψ₁)|In(ψ₂)⟩ = ⟨ψ₁|ψ₂⟩ while ⟨Out(ψ₁)|Out(ψ₂)⟩ = ⟨ψ₁|ψ₂⟩² We might try to wriggle out of this conclusion by allowing for some other stuff in the Hilbert space which can change in any way it likes. This means that we now have three Hilbert spaces and are looking an evolution of the form |ψ⟩⊗|0⟩⊗|α(0)⟩ −→ |ψ⟩⊗|ψ⟩⊗|α(ψ)⟩ By linearity, if such an evolution exists it must map (|ϕ⟩+|ψ⟩)⊗|0⟩⊗|α(0)⟩ −→ |ϕ⟩⊗|ϕ⟩⊗|α(ϕ)⟩+|ψ⟩⊗|ψ⟩⊗|α(ψ)⟩ (5.15)
+
+But this isn’t what we wanted! The map is supposed to take (|ϕ⟩+|ψ⟩)⊗|0⟩⊗|α(0)⟩ −→ (|ϕ⟩+|ψ⟩)⊗(|ϕ⟩+|ψ⟩)⊗|α(ψ +ϕ)⟩ = (|ϕ⟩|ϕ⟩+|ψ⟩|ϕ⟩+|ϕ⟩|ψ⟩+|ψ⟩|ψ⟩)⊗|α(ψ +ϕ)⟩ where, in the last line, we dropped the ⊗ between the first two Hilbert spaces. The state that we get (5.15) is not the state that we want. This concludes our proof of the no cloning theorem.
+
+Back to Teleportation With the no cloning theorem as background, we can now turn to the idea of quantum teleportation. Alice is given a qubit in state |ψ⟩. The challenge is to communicate this state to Bob.
+
+There are two limitations. First, Alice doesn’t get to simply put the qubit in the mail. That’s no longer the game. Instead, she must describe the qubit to Bob using classical information: i.e. bits, not qubits. Note that we’re now playing by different rules from the previous section. In “dense coding” we wanted to send classical information using qubits. Here we want to send quantum information using classical bits.
+
+Now this sounds like teleportation must be impossible. As we’ve seen, Alice has no way of figuring out what state |ψ⟩ she has. If she doesn’t know the state, how on earth is she going to communicate it to Bob? Well, magically, there is way. For this to work, Alice and Bob must also share an EPR pair. We will see that they can sacrifice the entanglement in this EPR pair to allow Bob to reproduce the state |ψ⟩.
+
+First, Alice. She has two qubits: the one we want to transfer, |ψ⟩, together with the her half of the pair |EPR⟩. She makes the following measurements: σ_x ⊗ σ_x and σ_z ⊗ σ_z where, in each case, the first operator acts on |ψ⟩ and the second on her half of |EPR⟩. As we saw in the previous section, these are commuting operators, each with eigenvalues ±1. This means that there are four different outcomes to Alice’s experiment and the state will be projected onto the eigenstates |ϕ±⟩ or |χ±⟩ defined in (5.13). The different possible outcomes of the measurement were given in (5.14).
+
+Let’s see what becomes of the full state after Alice’s measurements. We write the unknown qubit |ψ⟩ as |ψ⟩ = α|↑⟩+β|↓⟩ (5.16)
+
+with |α|2 +|β|2 = 1. Then the full state of three qubits – two owned by Alice and one by Bob – is 1/√2 (|ψ⟩⊗|EPR⟩ = α|↑⟩|↑⟩|↓⟩−α|↑⟩|↓⟩|↑⟩+β|↓⟩|↑⟩|↓⟩−β|↓⟩|↓⟩|↑⟩)
+
+= 1/√2 (α(|ϕ+⟩+|ϕ−⟩)|↓⟩−α(|χ+⟩+|χ−⟩)|↑⟩+β(|χ+⟩−|χ−⟩)|↓⟩−β(|ϕ+⟩−|ϕ−⟩)|↑⟩)
+
+= 1/√2 (|ϕ+⟩(−β|↑⟩+α|↓⟩)+|ϕ−⟩(β|↑⟩+α|↓⟩)+|χ+⟩(−α|↑⟩+β|↓⟩)−|χ−⟩(α|↑⟩+β|↓⟩))
+
+When Alice makes her measurement, the wavefunction collapses onto one of the four eigenstates |ϕ±⟩ or |χ±⟩. But we see that Bob’s state – the final one in the wavefunction above – has taken the form of a linear superposition of |↑⟩ and |↓⟩, with the same coefficients α and β that characterised the initial state |ψ⟩ in (5.16). Now, in most of these cases, Bob’s state isn’t exactly the same as |ψ⟩, but that’s easily fixed if Bob acts with a unitary operator. All Alice has to do is tell Bob which of the four states she measured and this will be sufficient for Bob to know how he has to act. Let’s look at each in turn.
+
+• If Alice measures |ϕ+⟩ then Bob should operate on his qubit with σx to get σx (−β|↑⟩+α|↓⟩) = iβ|↓⟩+iα|↑⟩ = i|ψ⟩ which, up to a known phase, is Alice’s initial state.
+
+• If Alice measures |ϕ−⟩ then Bob should operate on his qubit with σz, σz (β|↑⟩+α|↓⟩) = β|↓⟩+α|↑⟩ = |ψ⟩ • If Alice measures |χ+⟩ then Bob should operate on his qubit with σx, σx (β|↑⟩+α|↓⟩) = β|↓⟩+α|↑⟩ = |ψ⟩ • If Alice measures |χ−⟩, Bob can put his feet up and do nothing. He already has −|ψ⟩ sitting in front of him.
+
+We see that if Alice sends Bob two bits of information – enough to specify which of the four states she measured – then Bob can ensure that he gets state |ψ⟩. Note that this transfer occurred with neither Alice nor Bob knowing what the state |ψ⟩ actually is. But Bob can be sure that he has it.
+
+5.2.4 Quantum Key Distribution
+
+If you want to share a secret, it’s best to have a code. Here is an example of an unbreakable code. Alice and Bob want to send a message consisting of n classical bits, a string of 0’s and 1’s. To do so securely, they must share, in advance, a private key. This is a string of classical bits that is the same length as the message. Alice simply adds the key to the message bitwise (0+0 = 1+1 = 0 and 0+1 = 1+0 = 1) before sending it to Bob who, upon receiving it, subtracts the key to reveal the message. Any third party eavesdropper – traditionally called Eve – who intercepts the transmission is none the wiser.
+
+The weakness of this approach is that, to be totally secure, Alice and Bob should use a different key for each message that they want to send. If they fail to do this then Eve can use some knowledge about the underlying message (e.g. it’s actually written in German and contains information about U-boat movements in the Atlantic) to detect correlations in the transmissions and, ultimately, crack the code. This means that Alice and Bob must have a large supply of private keys and be sure that Eve does not have access to them. This is where quantum mechanics can be useful.
+
+## BB84
+
+BB84 is a quantum protocol for generating a secure private key. It’s named after its inventors, Bennett and Brassard, who suggested this approach in 1984.
+
+The idea is remarkably simple. Alice takes a series of qubits. For each, she chooses to measure the spin either in the z-direction, or in the x-direction. This leaves her with a qubit in one of four possible states: |↑⟩, |↓⟩, |→⟩ or |←⟩. Alice then sends this qubit to Bob. He has no idea which measurement Alice made, so he makes a random decision to measure the spin in either the z-direction or the x-direction. About half the time he will make the same measurement as Alice, the other half he will make a different measurement.
+
+Having performed these experiments, Alice and Bob then announce publicly which spin measurements they made. Whenever they measured the spin in different directions, they simply discard their results. Whenever they measured the spin in the same direction, the measurements must agree. This becomes their private key.
+
+The whole purpose of generating a private key is that it must be private. For example, the keys for the enigma machine — as shown in the picture — were sent out monthly. If you were lucky enough to capture this book, you could break the codes for the next month. How can Alice and Bob be certain that their key hasn’t been intercepted by Eve?
+
+This is where the laws of quantum physics come to the rescue. First, the no-cloning theorem ensures that Eve has no way of copying the qubit if she intercepts it. Nor does she have any way of determining its state. Even if she knows the game that Alice and Bob are playing, the be st that she can do is to measure the spin in either the z-direction or the x-direction, before sending it on to Bob. Half the time, she will make the same measurement as Alice and leave the state unchanged. But the other half, she will change the state and so change the possible results that Bob finds in his measurements. To guard against this possibility, Alice and Bob can simply choose to publicly announce a subset of the results of their correlated measurements.
+
+If they don’t perfectly agree, then they know that someone has tampered with the transmission.
+
+– 160 – The BB84 protocol doesn’t make any use of quantum entanglement. There is, how- ever, aminorvariationwhereentanglementplaysarole. Inthisscenario, Aliceprepares a succession of entangled pairs in, say, the state |ϕ+⟩ = √ (|↑⟩|↑⟩+|↓⟩|↓⟩)
+
+She then sends the second spin to Bob. When the two of them both have their spins, they can follow the BB84 rules to generate the key. The slight advantage of this approach is that Alice doesn’t have to record her measurements before sending them to Bob. This protects her from the possibility that someone breaks into her lab and takes sneaky photographs of her measurement results. Of course, one might wonder if the extra resources involved in generating coherent entangled states might not be put to better use in, for example, buying a decent safe.
+
+The moral behind quantum key distribution is clear: quantum information is more secure than classical information because no one, whether friend or enemy, can be sure what quantum state they’ve been given.
+
+## 5.3 Density Matrices
+
+In Section 5.1, we’ve made a big deal out the fact that quantum correlations cannot be captured by classical probability distributions. In the classical world, uncertainty is due to ignorance: the more you know, the better your predictions. In the quantum world, the uncertainty is inherent and can’t be eliminated by gaining more knowledge.
+
+There are situations in the quantum world where we have to deal with both kinds of uncertainties. There are at least two contexts in which this arises. One possibility is ignorance: we simply don’t know for sure what quantum state our system lies in.
+
+Another possibility is that we have many quantum states — an ensemble — and they don’t all lie in the same state, but rather in a mixture of different states. In either context, we use the same mathematical formalism.
+
+Suppose that we don’t know which of the states |ψ ⟩ describes our system. These states need not be orthogonal – just different. To parameterise our ignorance, we assign classical probabilities p to each of these states. The expectation value of any operator A is given by (cid:88)
+
+⟨A⟩ = p ⟨ψ |A|ψ ⟩ (5.17)
+
+i i i This expression includes both classical uncertainty (in the p ) and quantum uncertainty (in the ⟨ψ |A|ψ ⟩).
+
+i i – 161 – Such a state is described by an operator known as the density matrix.
+
+(cid:88)
+
+ρ = p |ψ ⟩⟨ψ | (5.18)
+
+i i i Clearly, this is a sum of projections onto the spaces spanned by |ψ ⟩, weighted with the probabilities p . The expectation value (5.17) of any operator can now be written simply as ⟨A⟩ = Tr(ρA)
+
+where the trace is over all states in the Hilbert space.
+
+Pure States vs Mixed States Previously, we thought that the state of a quantum system is described by a normalised vector in the Hilbert space. The density matrix is a generalisation of this idea to incorporate classical probabilities. If we’re back in the previous situation, where we know for sure that the system is described by a specific state |ψ⟩, then the density matrix is simply the projection operator ρ = |ψ⟩⟨ψ| In this case, we say that we have a pure state. If the density matrix cannot be written in this form then we say that we have a mixed state. Note that a pure state has the property that ρ2 = ρ Regardless of whether a state is pure or mixed, the density matrix encodes all our information about the state and allows us to compute the expected outcome of any measurement. Note that the density matrix does not contain information about the phases of the states |ψ ⟩ since these have no bearing on any physical measurement.
+
+Properties of the Density Matrix The density matrix (5.18) has the following properties • It is self-adjoint: ρ = ρ† • It has unit trace: Trρ = 1. This property is equivalent to the normalisation of a (cid:80)
+
+probability distribution, so that p = 1.
+
+i i – 162 – • It is positive: ⟨ϕ|ρ|ϕ⟩ ≥ 0 for all |ϕ⟩ ∈ H. This property, which strictly speaking should be called “non-negative”, is equivalent to the requirement that p ≥ 0. As shorthand, we sometimes write the positivity requirement simply as ρ ≥ 0.
+
+Furthermore, any operator ρ which satisfies these three properties can be viewed as a density matrix for a quantum system. To see this, we can look at the eigenvectors of ρ, given by ρ|ϕ ⟩ = p |ϕ ⟩ n n n where, here, p is simply the corresponding eigenvalue. Because ρ = ρ†, we know that (cid:80)
+
+p ∈ R. The second two properties above then tell us that p = 1 an d p ≥ 0.
+
+n n n n This is all we need to interpret p as a probability distribution. We can then write ρ as ρ = p |ϕ ⟩⟨ϕ | (5.19)
+
+n n n This way of writing the density matrix is a special case of (5.18). It’s special because the |ϕ ⟩ are eigenvectors of a Hermitian matrix and, hence, orthogonal. In contrast, the vector |ψ ⟩ in (5.18) are not necessarily orthonormal. However, although the expression (5.19) is special, there’s nothing special about ρ itself: any density matrix can be written in this form. We’ll come back to this idea below when we discuss specific examples.
+
+An Example: Statistical Mechanics There are many places in physics where it pays to think of probability distributions over ensembles of states. One prominent example is what happens for systems at finite temperature T. This is the subject of Statistical Mechanics.
+
+Recall that the Boltzmann distribution tells us that the probability p that we sit in an energy eigenstate |n⟩ is given by e−βEn 1 (cid:88)
+
+p = where β = and Z = e−βEn Z k T where k is the Boltzmann constant. It is straightforward to construct a density matrix corresponding to this ensemble. It is given by e−βH ρ = (5.20)
+
+where H is the Hamiltonian. Similarly, the partition function is given by Z = Tre−βH It is then straightforward to reformulate much of statistical mechanics in this language. For example, the average energy of a system is ⟨E⟩ = Tr(ρH).
+
+In these lectures, we won’t necessarily be interested in the kind of macroscopic systems that arise in statistical physics. Instead, we’ll build some rather different intuition for the meaning of the density matrix.
+
+Time Evolution Recall that in the Schrödinger picture, any state evolves as |ψ(t)⟩ = U(t)|ψ(0)⟩ with U(t) = e−iHt/ℏ From this we learn that the density matrix evolves as ρ(t) = U(t)ρ(0)U†(t)
+
+Differentiating with respect to t gives us a differential equation governing time evolution, ∂ρ i = − [H,ρ] (5.21)
+
+∂t ℏ This is the Liouville equation. Or, more accurately, it is the quantum version of the Liouville equation which we met in the Classical Dynamics lectures where it governs the evolution of probability distributions on phase space.
+
+Note that any density operator which depends only on the Hamiltonian H is independent of time. The Boltzmann distribution (5.20) is the prime example.
+
+5.3.1 The Bloch Sphere As an example, let’s return to our favourite two-state system. If we measure spin along the z-axis, then the two eigenstates are |↑⟩ and |↓⟩.
+
+Suppose that we know for sure that we’re in state |↑⟩. Then, obviously, ρ = |↑⟩⟨↑| If however, there’s probability p = 1 that we’re in state |↑⟩ and, correspondingly, probability 1−p = 1 that we’re in state |↓⟩, then 1 1 1 ρ = |↑⟩⟨↑|+ |↓⟩⟨↓| = 1 (5.22)
+
+2 2 2 This is the state of maximum ignorance, something we will quantify below in Section 5.3.3. In particular, the average value for the spin along any axis always vanishes: ⟨σ⟩ = Tr(ρσ) = 0.
+
+Let’s now consider other spin states. Consider the spin measured along the x-axis. Suppose that there’s probability p = 1 that we’re in state |→⟩ and probability 1−p = 1 that we’re in state |←⟩, then 2 2 1 1 ρ = |→⟩⟨→|+|←⟩⟨←| = 1 (5.23)
+
+2 2 Once again, we find a state of maximum ignorance. This highlights an important fact: given a density matrix ρ, there is no unique way to decompose in the form (5.18).
+
+As a final example, there is nothing to stop us taking an ensemble of non-orthogonal states. So we could be in state |↑⟩ with probability p = 1 and in state |→⟩ with probability p = 1. The resulting density matrix is 2 2 ρ = |↑⟩⟨↑|+ |→⟩⟨→| 2 2 1 1 = |↑⟩⟨↑|+ (|↑⟩+|↓⟩)(⟨↑|+⟨↓|)
+
+2 4 1 1 1 1 = 1+ |↑⟩⟨↑|+ |↑⟩⟨↓|+ |↓⟩⟨↑| 4 2 4 4 We haven’t written this density matrix in the form (5.19), although it’s not difficult to do so. Nonetheless, it’s simple to check that it obeys the three conditions above. We find ⟨σ1⟩ = ⟨σ3⟩ = 1/2 and ⟨σ2⟩ = 0.
+
+Let’s now look at the most general density matrix for a two-state system. The most general Hermitian 2×2 matrix can be expanded in terms of 1 and the Pauli matrices σi. Since Tr1 = 2 and Trσi = 0, the requirement that Trρ = 1 means that we can write ρ = (1+a·σ) (5.24)
+
+for some 3-vector a. All that’s left is to require that this matrix has positive eigenvalues. The sum of the two eigenvalues is given by Trρ = 1, so at least one of them must be positive. The product of the eigenvalues is given by detρ. It’s simple to compute detρ = (1−a·a)
+
+The two eigenvalues are both non-negative if detρ ≥ 0. We learn that (5.24) defines a density matrix for a two-state system if |a| ≤ 1 This is the interior of a 3-sphere which should be called the Bloch Ball. Unfortunately the names are a little mixed-up and this interior is sometimes referred to as the Bloch Sphere. The interior of the ball, with |a| < 1, describes mixed states. The surface of the ball with |a| = 1 — which should really be called the Bloch Sphere — describes pure states.
+
+For both mixed and pure states, the direction a is referred to as the Bloch vector.
+
+o as the polarisation of the spin. For a ̸= 0, there will be a preference for the measurements of spin in the direction a·σ. In contrast, when a = 0, the state is said to be unpolarised. We met two examples of this above.
+
+The Ambiguity of Preparation There are typically many different interpretations of a density matrix. We’ve seen an example above, where two different probability distributions over states (5.22) and (5.23) both give rise to the same density matrix. It’s sometimes said that these density matrices are prepared differently, but describe the same state.
+
+More generally, suppose that the system is described by density matrix ρ with some probability λ and density matrix ρ with some probability (1 − λ). The expectation value of any operator is determined by the density matrix ρ(λ) = λρ +(1−λ)ρ 1 2 Indeed, nearly all density operators can be expressed as the sum of other density operators in an infinite number of different ways.
+
+There is an exception to this. If the density matrix ρ actually describes a pure state then it cannot be expressed as the sum of two other states.
+
+5.3.2 Entanglement Revisited The density matrix has a close connection to the ideas of entanglement that we met in earlier sections. Suppose that our Hilbert space decomposes into two subspaces, H = H ⊗H A B This is sometimes referred to as a bipartite decomposition of the Hilbert space. It really means that H and H describe two different physical systems. In what follows, it will A B be useful to think of these systems as far separated, so that they don’t interact with each other. Nonetheless, as we’ve seen in Section 5.1, quantum states can be entangled between these two systems, giving rise to correlations between measurements.
+
+– 166 – Let’s consider things from Alice’s perspective. She only has access to the system described by H . This means that she gets to perform measurements associated to operators of the form O = A⊗1 Ifthestateofthefullsystemisdescribedbythedensitymatrixρ , thenmeasurements AB Alice makes will have expectation value (cid:16) (cid:17)
+
+⟨A⟩ = Tr Tr (A⊗1)ρ ≡ Tr (Aρ )
+
+## HA HB AB HA A
+
+where we’ve defined ρ = Tr ρ
+
+## A HB AB
+
+Thisiscalledthereduced density matrix. Itisrelatedtothefulldensitymatrixbytaking the partial trace over the Hilbert space H . We see that, from Alice’s perspective, the part of the system that she has access to is described by the density matrix ρ .
+
+Suppose that the full system ρ lies in a pure state. This means that it takes the AB form (cid:88)
+
+|Ψ⟩ = α |ϕ ⟩⊗|ϕ ⟩ (5.25)
+
+ij i j i,j where we’ve introduced a basis |ϕ ⟩ for H and |ϕ ⟩ for H . (These two Hilbert spaces i A j B need not have the same dimension.). Note that, in general, this is an example of an entangled state.
+
+The density matrix for the full system is (cid:88)
+
+ρ = |Ψ⟩⟨Ψ| = α α⋆ |ϕ ⟩⊗|ϕ ˜ ⟩⟨ϕ |⊗⟨ϕ ˜ | AB ij kl i j k l i,j,k,l Taking the partial trace then gives the reduced density matrix (cid:88) (cid:88)
+
+ρ = β |ϕ ⟩⟨ϕ | with β = α α⋆ A ik i k ik ij kj ik j But this is the density matrix for a mixed state. This means that even if the full system is in a pure state, as far Alice is concerned it effectively lies in a mixed state. This illustrates how the probabilities p can arise from our lack of knowledge of other parts of the system. However, the presence of entanglement in the original state means that even ignorance about physics in far flung places forces us to deal with a mixed state.
+
+– 167 – In fact, this approach allows us define entanglement between two subsystems, some- thing that we avoided doing in the previous sections. The state |Ψ⟩ is said to be entangled only if the reduced density matrix ρ = Tr |Ψ⟩⟨Ψ| describes a mixed state.
+
+## A HB
+
+Otherwise |Ψ⟩ is said to be separable. We will quantify the amount of entanglement in a system in Section 5.3.3 using the concept of entropy.
+
+EPR Pairs Revisisted Let’s return to our favourite example of entanglement between two qubits. The EPR state is |EPR⟩ = √ (|↑↓⟩−|↓↑⟩)
+
+where, in an attempt to stop us going boggle-eyed in later equations, we’re using notation such that |↑⟩|↑⟩ ≡ |↑↑⟩. The associated density matrix is 1(cid:16) (cid:17)
+
+ρ = |↑↓⟩⟨↑↓|+|↓↑⟩⟨↓↑|−|↑↓⟩⟨↓↑|−|↓↑⟩⟨↑↓| (5.26)
+
+EPR We now take the trace over Bob’s spin to get the reduced density matrix for Alice, 1(cid:16) (cid:17) 1 ρ = Tr ρ = |↑⟩⟨↑|+|↓⟩⟨↓| = 1 (5.27)
+
+## A HB EPR
+
+2 2 Everything that Alice can measure on her own is captured in ρ , which is the state of maximum ignorance. We see that although the total density matrix knows about the correlations, there’s no way that Alice can know about this on her own.
+
+To illustrate this, suppose that Bob performs a measurement on his spin. This projects the EPR pair into state |↑↓⟩ with probability p = 1 and into state |↓↑⟩ with probability p = 1. Bob, of course, knows which of these states the system has collapsed to. However, ifwedon’tknowtheoutcomeofthismeasurementthenweshoulddescribe the system in terms of the mixed state 1 1 ρ = |↑↓⟩⟨↑↓|+ |↓↑⟩⟨↓↑| mixed 2 2 This differs from the EPR density matrix (5.26). However, if we take the trace over Bob’s degrees of freedom then we find that Alice’s reduced density matrix ρ is once again given by (5.27). This is the statement that nothing changes for Alice when Bob performs a measurement. We can also repeat this exercise when Bob performs a measurement in a different spin direction. Once again, we find that ρ is given by (5.27). All of this is telling us something that we already knew: we cannot use the non-localcorrelationsinherentinquantumstatestotransmitinformationinanon-local fashion.
+
+– 168 – Schmidt Decomposition Consider a pure state |Ψ⟩ in H = H ⊗ H . Given a set of basis |ϕ ⟩ and |ϕ ⟩, we A B i j can always decompose the state in the form (5.25). Moreover, it turns out that there is a preferred choice of basis states. The resulting expression is known as the Schmidt decomposition.
+
+First, let’s define a canonical basis for H . As we’ve seen above, we can take the partial trace over H to derive the reduced density matrix ρ . We’ll choose |ϕ ⟩ to be B A i the eigenvectors of ρ , as in (5.19). We can then write (cid:88)
+
+ρ = p |ϕ ⟩⟨ϕ | (5.28)
+
+A i i i Our next task is to construct a suitable basis for H . We could, of course, choose the basis of ρ and, in fact, ultimately this is what we’ll end up doing. But in order to illustrate a rather nice property of this decomposition, we’ll get there in a slightly roundabout way. Given a decomposition of the form (5.25), we define the vectors (cid:88)
+
+|χ ⟩ = α |ϕ ⟩ ∈ H i ij j B Note that nothing guarantees that the vectors |χ ⟩ are normalised, and nothing guar- antees that they are orthogonal. For now, their only purpose is to allow us to write the state (5.25) as (cid:88)
+
+|Ψ⟩ = |ϕ ⟩⊗|χ ⟩ i i Now let’s compute ρ from this state. We have (cid:88) (cid:88)
+
+ρ = Tr |ϕ ⟩⊗|χ ⟩⟨ϕ |⊗⟨χ | = ⟨χ |χ ⟩ |ϕ ⟩⟨ϕ | A HB i i j j i j i j i,j i,j But we know that this reduced density matrix takes the form (5.28). This means that the overlap of the |χ ⟩ vectors must be ⟨χ |χ ⟩ = p δ i j i ij We learn that these vectors aren’t normalised but, perhaps surprisingly, they are or- thogonal. It’s then straightforward to define a basis of vectors by |χ˜ ⟩ = √ |χ ⟩ i i – 169 – Onlythosevectorswithp ̸= 0actuallyappearsowedon’thavetoworryaboutdividing by zero here. The upshot of this is that we can write any pure bipartite state in the canonical decomposition (cid:88)√ |Ψ⟩ = p |ϕ ⟩⊗|χ˜ ⟩ (5.29)
+
+i i i This is the Schmidt decomposition. Note that there is a nice symmetry between the reduced density matrices ρ and ρ . They are, respectively, A B (cid:88) (cid:88)
+
+ρ = p |ϕ ⟩⟨ϕ | , ρ = p |χ˜ ⟩⟨χ˜ | A i i i B i i i i i We see that the basis |χ˜ ⟩ are the eigenvectors of ρ , even though this wasn’t how we i B initially constructed them. Further, the probabilities p are eigenvalues of both ρ and i A ρ . In particular if, say, dimH > dimH then there must be some states in H that
+
+## B B A A
+
+do not appear in the Schmidt decomposition (5.29).
+
+If the probabilities p are distinct then the Schmidt decomposition is unique. In contrast, if ρ has degenerate eigenvalues then there is some ambiguity in the Schmidt decomposition, as we get to decide which of the degenerate eigenvectors in H pairs with their counterpart in H .
+
+The Schmidt rank R is the number of non-zero eigenvalues p in the decomposition (5.29). If R = 1 then the state takes the form |Ψ⟩ = |ϕ⟩⊗|χ˜⟩ and is separable. If R > 1, the state is entangled.
+
+Finally, let’s go back to Alice and Bob. Each gets to act on their subsystem by transforming the state they have to any other. This means that, between them, they get to act with unitary operators on H = H ⊗H of the form A B U = U ⊗U A B However, the state |Ψ⟩ and the state U|Ψ⟩ have the same Schmidt rank. This is important. It tells us that we cannot change the amount of entanglement by local operators which act only on part of the Hilbert space. To create entanglement, we need to act with operators which rotate H into H . In other words, there has to be A B some interaction between the two parts of the subsystem. Entanglement can only be created by bringing the two subsystems together.
+
+– 170 – Purification There is a simple corollary to our discussion above. For any density matrix ρ describ- ing a state in a Hilbert space H , one can always find a pure state |Ψ⟩ in a larger Hilbert space H = H ⊗H such that ρ = Tr |Ψ⟩⟨Ψ|. This process is referred to as
+
+## A B HB
+
+purification of the state.
+
+Everythingthatweneedtoshowthisisinour derivationabove. Wewritethedensity matrix in the orthonormal basis (5.28). We then introduce the enlarged Hilbert space H whose dimension is that same as the number of non-zero p in (5.28). The Schmidt B i decomposition (5.29) then provides an example of a purification of ρ.
+
+5.3.3 Entropy Given a classical probability distribution {p }, the entropy is defined by (cid:88)
+
+S = − p logp (5.30)
+
+i i where log is the natural logarithm. In information theory, this is called the Shannon entropy. In physics, this quantity is usually multiplied by the Boltzmann constant k and is called the Gibbs entropy. It plays an important role in the lectures on Statistical Physics. The entropy is a measure of the uncertainty encoded in the probability distribution. For example, if there’s no uncertainty because, say p = 1 while all other p_i = 0, then we have S = 0. In contrast, if there are N possibilities the entropy is maximised when we have no idea which is most likely, meaning that p = 1/N for each. In this case S = logN. For a quantum state described by a density matrix ρ, we defined the entropy to be S(ρ) = −Trρlogρ (5.31) This is the von Neumann entropy (because entropy really needs more names attached to it). If we’re dealing with a reduced density matrix, that came from taking a partial trace of a pure state of a larger system, then S is referred to as the entanglement entropy. In all cases, we’re simply going to call it the entropy. When the density matrix is expanded in an orthonormal basis, ρ = ∑_i p_i |ϕ_i⟩⟨ϕ_i| then the definition (5.31) coincides with the earlier definition (5.30). A pure state has p_i = 1 for some |ϕ_i⟩, and so has vanishing entropy. But S ≠ 0 for any mixed state. The entropy has a number of properties, some of which are easier to prove than others. First the properties that are straightforward to show: • Positivity: S(ρ) ≥ 0. • Minimum: S(ρ) = 0 if and only if ρ is a pure state. • Maximum: If the probabilities are non-vanishing on an N dimensional Hilbert space H, then the entropy takes its maximum value S = logN when ρ = 1/N on H. • Concavity: If ∑_i λ_i = 1, then S(∑_i λ_i ρ_i) ≥ ∑_i λ_i S(ρ_i) This tells us that if we are more ignorant about the make-up of our state, then the entropy increases. The entropy obeys a number of further properties. Two which are particularly important are: • Subadditivity: If H = H_A ⊗ H_B then S(ρ_AB) ≤ S(ρ_A) + S(ρ_B) (5.32) with equality only if the two systems are uncorrelated, so that ρ_AB = ρ_A ⊗ ρ_B. Subadditivity tells us that the entropy of the whole is less than the sum of its parts. This result fairly straightforward to prove, although we won’t do so here. • Strong Subadditivity: If H = H_A ⊗ H_B ⊗ H_C then S(ρ_ABC) + S(ρ_B) ≤ S(ρ_AB) + S(ρ_BC) This result is famously tricky to prove. It’s perhaps best thought of by thinking of AB and BC as two systems which overlap on B. Then strong subadditivity says that the total entropy of the two parts is not less than the total entropy together with the entropy of their overlap.
+
+5.4 Measurement The act of measurement is one of the more mysterious aspects of quantum mechanics. It is here that we appear to abandon unitary evolution in favour of the abrupt collapse of the wavefunction, and it is here that we must embrace the indeterministic nature of the quantum world. In this section, we’ll take a closer look at what we mean by measurement.
+
+5.4.1 Projective Measurements We start by recalling what we learned in previous courses. An observable in quantum mechanics is a Hermitian operator O. We can decompose this in a spectral representation, meaning we write O = ∑_m λ_m P_m (5.33) where λ_m are the eigenvalues of O and P_m are the projectors onto the corresponding eigenspaces. The projection operators obey P_m = P_m†. The eigenspaces are necessarily orthogonal, meaning P_m P_n = P_m δ_mn (5.34) Moreover, the eigenvectors span the entire Hilbert space, so we also have ∑_m P_m = 1 (5.35) Given a state |ψ⟩, the result of a measurement in quantum mechanics is dictated by two further axioms. The first says that a measurement of the operator O returns the result λ_m with probability p(m) = ⟨ψ|P_m|ψ⟩ (5.36) This is the Born rule. The second axiom states that, after the measurement, the system no longer sits in the state |ψ⟩. Instead, the act of measurement has disturbed the state, leaving it in the new state |ψ⟩ → P_m|ψ⟩ / √(p(m)) (5.37) where the √(p(m)) in the denominator is there to ensure that the resulting state is correctly normalised. The non-unitary evolution captured by (5.37) is the infamous collapse of the wavefunction. There are a couple of simple generalisations of the above formalism. First, suppose that we start with a mixed state, described by a density matrix ρ. Then the Born rule (5.36) and collapse (5.37) are replaced by p(m) = Tr(ρ P_m) and ρ → P_m ρ P_m / p(m) (5.38) Note, in particular, that the resulting density matrix still has unit trace, as it must to describe a state. As an alternative scenario, suppose that we don’t know the outcome of the measurement. In this case, the collapse of the wavefunction turns an initial state |ψ⟩ into a mixed state, described by the density matrix |ψ⟩ → ∑_m p(m) P_m|ψ⟩⟨ψ|P_m / p(m) = ∑_m P_m|ψ⟩⟨ψ|P_m (5.39) If we don’t gain any knowledge after our quantum system interacts with the measuring apparatus, this is the correct description of the resulting state. We can rephrase t His discussion without making reference to the original operator O. We say that a measurement consists of presenting a quantum state with a complete set of orthogonal projectors {P}. These obey (5.34) and (5.35). We ask the system “Which of these are you described by?” and the system responds by picking one. This is referred to as a projective measurement.
+
+In this way of stating things, the projection operators take centre stage. The answer to a projective measurement is sufficient to tell us the value of any physical observable O whose spectral decomposition (5.33) is in terms of the projection operators {P} which we measured. In this way, the answer to a projective measurement can only furnish us with information about commuting observables, since these have spectral representations in terms of the same set of projection operators.
+
+Gleason’s Theorem Where does the Born rule come from? Usually in quantum mechanics, it is simply proffered as a postulate, one that agrees with experiment. Nonetheless, it is the rule that underlies the non-deterministic nature of quantum mechanics and given this is such a departure from classical mechanics, it seems worth exploring in more detail.
+
+There have been many attempts to derive the Born rule from something simpler, none of them very convincing. But there is a mathematical theorem which gives some comfort. This is Gleason’s theorem, which we state here without proof. The theorem says that for any Hilbert space H of dimension dimH ≥ 3, the only consistent way of assigning probabilities p(m) to all projection operators P acting on H is through the map p(m) = Tr(ρP)
+
+for some self-adjoint, positive operator ρ with unit trace. Gleason’s theorem doesn’t tell us why we’re obliged to introduce probabilities associated to projection operators. But it does tell us that if we want to go down that path then the only possible way to proceed is to introduce a density matrix ρ and invoke the Born rule.
+
+5.4.2 Generalised Measurements There are circumstances where it is useful to go beyond the framework of projective measurements. Obviously, we’re not going to violate any tenets of quantum mechanics, and we won’t be able to determine the values of observables that don’t commute. Nonetheless, focussing only on projection operators can be too restrictive.
+
+A generalised measurement consists of presenting a quantum state with a complete set of Hermitian, positive operators {E_m} and asking: “Which of these are you described by?”. As before, the system will respond by picking one.
+
+We will require that the operators E satisfy the following three properties: • Hermitian: E_m = E_m† • Complete: ∑_m E_m = 1 • Positive: ⟨ψ|E_m|ψ⟩ ≥ 0 for all states |ψ⟩.
+
+These are all true for projection operators {P} and the projective measurements described above are a special case. But the requirements here are weaker. In particular, in contrast to projective measurements, the number of E_m in the set can be larger than the dimension of the Hilbert space. A set of operators {E_m} obeying these three conditions is called a positive operator-valued measure, or POVM for short.
+
+Given a quantum state |ψ⟩, we will define the probability of finding the answer E_m to our generalised measurement to be p(m) = ⟨ψ|E_m|ψ⟩ Alternatively, if we are given a density matrix ρ, the probability of finding the answer E_m is p(m) = Tr(ρE_m) (5.40)
+
+At the moment we will take the above rules as a definition, a generalisation of the usual Born rule. Note, however, that the completeness and positivity requirements above ensure that p(m) define a good probability distribution. Shortly we will see how this follows from the more familiar projective measurements.
+
+An Example: State Determination Before we place generalised measurements in a more familiar setting, let’s first see how they may be useful. Suppose that someone hands you a qubit and tells you that it’s either |↑⟩ or it’s |→⟩ = (|↑⟩+|↓⟩)/√2. How can you find out which state you’ve been given?
+
+The standard rules of quantum mechanics ensure that there’s no way to distinguish two non-orthogonal states with absolute certainty. Nonetheless, we can see how well we can do. Let’s start with projective measurements. We can consider the set P_1 = |↑⟩⟨↑| , P_2 = |↓⟩⟨↓| If the result of the measurement is P_1 then we can’t say anything. If, however, the result of the measurement is P_2 then we must have been handed the state |→⟩ because the other state obeys P_2|↑⟩ = 0 and so has vanishing probability of giving the answer P_2. This means that if we’re handed a succession of states |↑⟩ and |→⟩, each with equal probability, then we can use projective measurements to correctly identify which one we have 25% of the time.
+
+Generalised measurements allow us to do better. Consider now the set of operators E_1 = λ|1⟩⟨1| and E_2 = λ|−⟩⟨−| and E_3 = 1−E_1−E_2 (5.41)
+
+with λ ∈ (0,1). Clearly these operators are Hermitian and complete. But for what values of λ are they positive?
+
+The only operator o The concern is E₃. A quick calculation shows that ⟨ψ|E₃|ψ⟩ > 0 provided that λ ≤ 2/3.
+
+Now let's see how well this generalised measurement does in differentiating between the state |0⟩ and the state |+⟩. If we're given state |0⟩, then this measurement returns E₂ with probability p(E₂) = λ/2, and E₃ the other times. Meanwhile, if we're given the state |+⟩, this measurement returns E₁ with probability p(E₁) = λ/2 and E₃ the other times. This means that if the result of the measurement is E₂, then we must have been handed the state |+⟩, while if the result of the measurement is E₁ then we must have been handed the state |0⟩. Finally, if the result is E₃ then we've got no way of knowing which state we were given. The upshot is that if we're handed a succession of states |0⟩ and |+⟩, each with equal probability, then we can use generalised measurements to correctly identify which one we have with probability λ/2. And for 1/2 < λ ≤ 2/3 this does better than the projective measurement above.
+
+Generalised Measurements are Projective Measurements in Disguise The generalised measurements are not quite as novel as they first appear. They can always be realised as projective measurements in disguise, where the disguise in question involves some hidden, larger Hilbert space.
+
+Let's first consider our POVM (5.41). Suppose that when we were handed the states |↑⟩ and |→⟩, they were actually the first in a pair of qubits, whose full states were given by |Ψ₁⟩ = |↑⟩⊗|↑⟩ and |Ψ₂⟩ = |→⟩⊗|↓⟩ (5.42)
+
+Now these states are orthogonal to each other and, therefore, distinguishable.
+
+We will suppose that the density matrix in the full Hilbert space is separable, meaning ρ = ρ₁ ⊗ ρ₂. Someone – say, Alice – who has access to both spins can perform projective measurements in the full four-dimensional Hilbert space, with the resulting probabilities p(m) = Tr_{H₁} Tr_{H₂} (ρ P_m)
+
+What about Bob, who has access only to the first spin? Written in terms of operators acting on the first qubit, we have p(m) = Tr_{H₁} (ρ₁ E_m) where E_m = Tr_{H₂} (ρ₂ P_m) (5.43)
+
+Here the operators E_m form a POVM on H₁, the Hilbert space of the first qubit. Both positivity and completeness follow from the properties of the density matrix ρ₂ and the projection operators P_m. For example, completeness comes from ∑_m E_m = ∑_m Tr_{H₂} (ρ₂ P_m) = Tr_{H₂} (ρ₂ ∑_m P_m) = Tr_{H₂} (ρ₂ ⋅ 1_{H₂}) = 1
+
+We learn that the formalism of generalised measurements allows Bob to reproduce any information that pertains only to the first spin. This is sensible because the original density matrix ρ = ρ₁ ⊗ ρ₂ was separable, which means that there will be no hidden correlations between the two spins that Alice has access to, but Bob does not.
+
+There are different ways to arrive at the particular POVM (5.41). For example, we could consider the situation where we have maximal ignorance about the second spin, so ρ₂ = 1_{H₂}/2. Then we can then consider the projectors P₁ = |Ψ₁⟩⟨Ψ₁| , P₂ = |Ψ₂⟩⟨Ψ₂| , P₃ = 1 - P₁ - P₂ In this case, the POVM defined by (5.43) coincides with (5.41).
+
+It should be clear that the construction leading to the POVM (5.43) holds more generally than our two-state system. A projective measurement in any Hilbert space H₁ ⊗ H₂ reduces to a POVM when taken on separable density matrices. In fact that converse is also true: any POVM can be realised by projection operators acting on a larger Hilbert space. This follows from a fairly simple result in linear algebra known as Naimark's dilatation theorem (sometimes transliterated from the Russian as Neumark's theorem.)
+
+5.4.3 The Fate of the State The projective measurements that we met in Section 5.4.1 have two ingredients. The first is the probability that a given result occurs; the second is the fate of the state after the measurement ρ → ρ' = P_m ρ P_m / p(m)
+
+where p(m) = Tr(ρP_m) (5.44)
+
+For our generalised measurements, we have explained how the probabilities are replaced by p(m) = Tr(ρE_m). But what happens to the state after the measurement?
+
+We could try to take inspiration from thinking about generalised measurements in terms of projection operators in an enlarged Hilbert space. We know that ρ_total = ρ₁ ⊗ ρ₂ → ρ_total' = P_m ρ_total P_m / p(m)
+
+Tr_{H₂} (ρ_total') = Tr_{H₂} (P_m (ρ₁ ⊗ ρ₂) P_m) / p(m)
+
+But there's no simple way of writing this in terms of the elements of the POVM E_m = Tr_{H₂} (ρ₂ P_m). And this is for good reason: the POVM does not include enough information to tell us the fate of the state.
+
+Instead, we have to define a "square-root" of E_m. This is an operator M_m such that M_m† M_m = E_m (5.45)
+
+The M_m need not be Hermitian. Furthermore, these operators are not uniquely determined by (5.45): any unitary transformation M_m → U M_m still obeys (5.45). The completeness of the POVM means that they obey ∑_m M_m† M_m = 1
+
+The choice of M_m is the extra information we need to specify the state after a generalised measurement. If we perform a generalised measurement and find the answer E_m, then the state becomes ρ → ρ' = M_m ρ M_m† / p(m) (5.46)
+
+This new density matrix is Hermitian and and has unit trace, as it must. A full generalised measurement – one in which both the probabilities and the end state are known – is specified by the set of operators {M_m}, such that E_m = M_m†M_m form a POVM. The generalised measurement reduces to the projective measurement of Section 5.4.1 only when M_m are orthogonal projection operators. Finally, note that if we make a measurement, but don’t know the result, then the resulting density matrix is not given by (5.46), but instead by ρ → Σ_m M_m ρ M_m† (5.47)
+
+This generalises our result (5.39) for projective measurements.
+
+Repeated Measurements The special class of projective measurements enjoys some nice properties that are not shared by their generalised counterparts. Perhaps the most prominent is what happens upon repeated measurements. For projective measurements, if we get a result P the first time round, then any subsequent measurement is guaranteed to give the same result. This result is familiar from our earlier courses on quantum mechanics: if you measure the spin of a particle to be up then, as long as the particle is left alone, its spin will continue to be up next time round.
+
+This property doesn’t hold for generalised measurements. Returning to our POVM (5.41), a measurement of E_1 in the first round does not preclude a measurement of E_2 or E_3 the next time round.
+
+An Example: Detecting a Photon The idea of generalised measurement is useful even when our POVM consists of projection operators. A standard example is the detection of a photon. Before the measurement takes place, either the photon exists |1⟩ or it doesn’t |0⟩. A projective measurement (5.44) would tell us that if we detect a photon, then it’s there to detect again on our next measurement. But that’s not what happens. Typically when we detect a photon, the photon doesn’t live to tell the tale. Instead, it is destroyed in the process. This means that whether a photon is seen or not, the end result is always the same: no photon |0⟩. In terms of our new generalised measurements, this can be simply described by the operators M_1 = |0⟩⟨0| and M_2 = |0⟩⟨1| which corresponds to the POVM E_1 = M_1†M_1 = |0⟩⟨0| and E_2 = M_2†M_2 = |1⟩⟨1| In this case, the POVM consists of projection operators. But the collapse of the wavefunction (5.46) differs from the usual projective measurement. Regardless of the outcome of the initial experiment, if you now try to repeat it the photon will not be there.
+
+## 5.5 Open Systems
+
+In this section we will again consider situations where the full Hilbert space decomposes into two parts: H = H_S ⊗ H_E. However, we will no longer think of these subspaces as the far-separated homes of Alice and Bob. Instead, H_S will denote the system that we want to study, and H_E will denote the surrounding environment. Here the environment is typically a vast Hilbert space which we have no way of understanding completely. In this sense, it plays a similar role to the thermal baths that we introduce in statistical physics. When performing an experiment on a quantum system, much of the challenge is trying to shield it from the environment. However, in many cases this is not possible and there will be coupling between H_S and H_E. We then say that H_S is an open system. The purpose of this section is to understand how such open quantum systems behave.
+
+5.5.1 Quantum Maps We will assume that the combined system+environment is described by a pure state |Ψ⟩. We’ve seen in Section 5.3.2 that, after tracing over H_E, the system we care about is typically described by a reduced density matrix ρ_S = Tr_E (|Ψ⟩⟨Ψ|)
+
+We would like to understand how this density matrix evolves. The state |Ψ⟩ evolves by a unitary operator U(t) acting on the full Hilbert space H. The story that we are about to tell only works if, at time t = 0, the two systems lie in a separable state, |Ψ_0⟩ = |ψ⟩⊗|χ⟩ (5.48)
+
+This means that the original density matrix ρ_0 = |ψ⟩⟨ψ| describes a pure state on H_S. We now look at how this density matrix evolves. We have ρ(t) = Tr_E (U(t)|Ψ_0⟩⟨Ψ_0|U†(t)) = Σ_m ⟨m|U(t)|Ψ_0⟩⟨Ψ_0|U†(t)|m⟩ with |m⟩ a complete basis for H_E. This encourages us to define a set of operators on H_S, given by M_m(t) = ⟨m|U(t)|χ⟩ = Tr_E (U(t)|χ⟩⟨m|) (5.49)
+
+The unitarity of U(t) translates into a completeness condition on the operators M_m(t), Σ_m M_m†(t)M_m(t) = Σ_m ⟨χ|U†(t)|m⟩⟨m|U(t)|χ⟩ = 1 We see that the original density matrix on H_S evolves as ρ(t) = Σ_m M_m(t) ρ_0 M_m†(t) (5.50)
+
+In general, this will describe the evolution from a pure state to a mixed state. This evolution is not, in general, reversible. A quick comment: this evolution takes the same general form as the measurement process (5.47), at least if we don’t gain any knowledge about the result of the measurement. This is not coincidence. A measuring apparatus is a macroscopic system that becomes entangled with the quantum state. In this sense, it plays a similar role to the environment in the discus In contrast, if we read off the result of a measurement, then the resulting state is described by (5.46); this does not take the form (5.50).
+
+Kraus Representation Theorem Above, we have derived the evolution (5.50) in a rather simple example. However, it turns out that this form has more general applicability. Consider a density operator $\mathcal{H}$ which evolves by the map $\rho \mapsto \mathcal{L}[\rho]$ Such a map is sometimes called a superoperator (because it maps operators to operators, rather than states to states). We will require some special properties of our map, most of which are inherited from the properties of the density matrices listed in Section 5.3 • Linearity: $\mathcal{L}[a\rho_1 + b\rho_2] = a\mathcal{L}[\rho_1] + b\mathcal{L}[\rho_2]$.
+
+• Hermiticity Preserving: $\rho = \rho^\dagger \Rightarrow \mathcal{L}[\rho] = \mathcal{L}[\rho]^\dagger$.
+
+• Trace Preserving: $\mathrm{Tr}\mathcal{L}[\rho] = \mathrm{Tr}\rho$.
+
+• Complete Positivity. This one requires some explanation. It is natural to insist that the map is positive, so that $\mathcal{L}[\rho] \geq 0$ whenever $\rho \geq 0$. However, this is not sufficient. Instead, we require the stronger statement that the map $\mathcal{L} \otimes \mathbf{1}$ is positive on any extension of the Hilbert space $\mathcal{H}$ to $\mathcal{H} \otimes \mathcal{H}_E$. This is the statement of complete positivity. It ensures that the map $\mathcal{L} \otimes \mathbf{1}$ will take a valid density matrix on the composite system to another density matrix.
+
+A superoperator obeying these conditions is called a trace preserving, completely positive (TPCP) map, with the first two conditions taken for granted. In the quantum information community, this map is referred to as a quantum channel.
+
+The Kraus representation theorem (which we do not prove here) states that any quantum map, obeying the four conditions above, can be written as $\mathcal{L}[\rho] = \sum_m M_m \rho M_m^\dagger \quad \text{with} \quad \sum_m M_m^\dagger M_m = \mathbf{1} \qquad (5.51)$ In this framework, the $M_m$ are called Kraus operators. They are not unique. The number of Kraus operators in the quantum map does not exceed $\dim(\mathcal{H})^2$.
+
+You might wonder why the collapse of the wavefunction (5.46) fails to take the Kraus form (5.51). It is because the map is not linear: the probability $p(m)$ which normalises the resulting density matrix itself depends on $\rho$ through (5.40).
+
+5.5.2 Decoherence In this section, we explore some simple examples of quantum maps. We’ll use these toy models to highlight some important and general features that emerge when quantum systems interact with an environment.
+
+Phase-Damping We will take the quantum system $\mathcal{H}$ to be our trusty qubit. Meanwhile, we will model the environment $\mathcal{H}_E$ by a three-state system, spanned by $|0\rangle$, $|1\rangle$ and $|2\rangle$. Consider the following unitary evolution $U|\uparrow\rangle \otimes |0\rangle = |\uparrow\rangle \otimes (\sqrt{1-p} |0\rangle + \sqrt{p} |1\rangle)$ $U|\downarrow\rangle \otimes |0\rangle = |\downarrow\rangle \otimes (\sqrt{1-p} |0\rangle + \sqrt{p} |2\rangle) \qquad (5.52)$ This means that our qubit interacts with the environment with probability $p$, changing the initial state $|0\rangle$ into either $|1\rangle$ or $|2\rangle$ depending on the state of the qubit. Note, however, that the state of the qubit is unchanged by this interaction. So this model describes a system in which the energies needed to change the qubit are substantially larger than those needed to change the environment.
+
+If you want a specific picture in mind, you could think of the qubit as a simplified model for a heavy dust particle which, in this case, can only sit in one of two positions $|\uparrow\rangle$ or $|\downarrow\rangle$. The environment could be a background bath of photons which scatter off this dust particle with probability $p$.
+
+The Kraus operators for this quantum map are easily calculated. Using (5.49), they are given by $M_0 = \langle 0|U|0\rangle = \sqrt{1-p} \mathbf{1}$ $M_1 = \langle 1|U|0\rangle = \sqrt{p} |\uparrow\rangle\langle\uparrow|$ $M_2 = \langle 2|U|0\rangle = \sqrt{p} |\downarrow\rangle\langle\downarrow| \qquad (5.53)$ which can be checked to obey the required completeness condition $\sum_m M_m^\dagger M_m = \mathbf{1}$.
+
+The state of the qubit, described by a density matrix $\rho$, then evolves as $\rho \mapsto \mathcal{L}[\rho] = \sum_m M_m^\dagger \rho M_m = (1-p)\rho + p |\uparrow\rangle\langle\uparrow|\rho|\uparrow\rangle\langle\uparrow| + p |\downarrow\rangle\langle\downarrow|\rho|\downarrow\rangle\langle\downarrow|$ $= (1-p)\rho + p \sigma_3 \rho \sigma_3$
+
+We can see the essence of this quantum map if we write the density matrix in terms of components $\begin{pmatrix} \rho_{00} & \rho_{01} \\ \rho_{10} & \rho_{11} \end{pmatrix} \mapsto \begin{pmatrix} \rho_{00} & (1-p)\rho_{01} \\ (1-p)\rho_{10} & \rho_{11} \end{pmatrix}$ We learn that the off-diagonal components are suppressed by the evolution. It is these off-diagonal elements which encode possible superpositions of $|\uparrow\rangle$ and $|\downarrow\rangle$. The interactions with the environment — or, more precisely, the resulting entanglement with the environment — means that these off-diagonal elements are reduced under time evolution. This process is known as decoherence; it is the evolution of a pure state into a mixed state through interactions with the environment.
+
+We can get a better sense of this if we look at successive maps. This is a little subtle because it’s not obvious when we can apply successive Kraus operators (5.53). We will discuss this in more detail in Section 5.5.3, but for now we simply look at what happens.
+
+We define the probability of scattering per unit time to be $\Gamma$. Then, in time $\delta t$, we have $p = \Gamma \delta t \ll 1$. After a total time $t = N \delta t$, the off-diagonal terms in the density matrix are suppressed by $(1-p)^N = (1-\Gamma t/N)^N \approx e^{-\Gamma t} \qquad (5.54)$ Suppose that we initially prepare our qubit in a state $|\psi\rangle = \alpha |\uparrow\rangle + \beta |\downarrow\rangle$ |α|² + |β|² = 1
+
+Then after time t, the density matrix becomes
+
+$$ \rho(t) = \begin{pmatrix} |\alpha|^2 & \alpha\beta^* e^{-\Gamma t} \\ \alpha^*\beta e^{-\Gamma t} & |\beta|^2 \end{pmatrix} $$
+
+We see that these off-diagonal components decay exponentially quickly, with the system ultimately settling down into a mixed state. The choice of preferred basis |↑⟩, |↓⟩ can be traced to the form of the original interaction (5.52).
+
+To flesh this out a little, let’s return to our interpretation of this model in terms of a heavy dust particle which can sit in one of two positions, |↑⟩ = |x₊⟩ or |↓⟩ = |x₋⟩. We may, of course, choose to place this particle in a superposition |ψ⟩ = α|x₊⟩ + β|x₋⟩ and hope to measure this superposition in some way. This, of course, is what happens in the double-slit experiment. However, decoherence makes this difficult. Indeed, if the particle takes time t ≫ Γ⁻¹ to traverse the double slit experiment then all the hint of the superposition will be washed out. Furthermore, Γ⁻¹ is typically a very short timescale; it is the rate at which a single photon scatters off the particle. This can be much much shorter than the rate at which the classical properties of the particle – say its energy – are affected by the photons.
+
+There is one final important lesson to take away from this model. It explains why the decoherence occurs in the position basis |x₊⟩, |x₋⟩ rather than say, (|x₊⟩ ± |x₋⟩)/√2. This is because the interactions (5.52) are local. The locality of interactions is one of the key features of all physical laws; indeed, it underlies the idea of quantum field theory. Combined with decoherence, this explains why we only see our favourite pets in the state |alive⟩ or |dead⟩. Interactions with the environment mean that it is overwhelmingly unlikely to observe Schrödinger’s cat in the state |Ψ⟩ = (|alive⟩ ± |dead⟩)/√2.
+
+**Amplitude Damping**
+
+Our second example will not give us further insight into decoherence, but instead provides a simple model for the decay of an excited atom. (A more detailed look at the dynamics underlying this can be found in Section 4.4.3.) Consider a two-state atomic system. If the atom is in the ground state |↑⟩ then nothing happens, but if the atom is in the excited state |↓⟩ then it decays with probability p emitting a photon in the process, so that the environment changes from |0⟩ to |1⟩. This is captured by the unitary evolution:
+
+$$ U|↑⟩ \otimes |0⟩ = |↑⟩ \otimes |0⟩ $$ $$ U|↓⟩ \otimes |0⟩ = \sqrt{1-p} |↓⟩ \otimes |0⟩ + \sqrt{p} |↑⟩ \otimes |1⟩ $$
+
+The resulting Kraus operators are:
+
+$$ M_0 = \langle 0|U|0 \rangle = |↑⟩\langle↑| + \sqrt{1-p} |↓⟩\langle↓| $$ $$ M_1 = \langle 1|U|0 \rangle = \sqrt{p} |↑⟩\langle↓| $$
+
+This time the quantum map is given by:
+
+$$ \rho = \begin{pmatrix} \rho_{00} & \rho_{01} \\ \rho_{10} & \rho_{11} \end{pmatrix} \mapsto \begin{pmatrix} \rho_{00} + p\rho_{11} & \sqrt{1-p}\,\rho_{01} \\ \sqrt{1-p}\,\rho_{10} & (1-p)\rho_{11} \end{pmatrix} $$
+
+If, as previously, we can think about performing this map successive times, with the probability for decay p related to the lifetime Γ⁻¹ of the excited state through (5.54), then we find the time-dependent density matrix given by:
+
+$$ \rho(t) = \begin{pmatrix} \rho_{00} + (1 - e^{-\Gamma t})\rho_{11} & e^{-\Gamma t/2}\rho_{01} \\ e^{-\Gamma t/2}\rho_{10} & e^{-\Gamma t}\rho_{11} \end{pmatrix} $$
+
+Interestingly, as t → ∞, the system ends up in the pure state |↑⟩, regardless of whatever superposition or mixed state it started in. On the one hand this is not surprising: it is simply the statement that if we wait long enough the atom will surely have decayed. Nonetheless, it does provide a simple example in which quantum maps can take a mixed state to a pure state.
+
+**5.5.3 The Lindblad Equation**
+
+Usually in physics, the most powerful way to describe the evolution of a system is through a differential equation. For a closed quantum system in a pure state, the relevant equation is the Schrödinger equation. For a closed quantum system in a mixed state, it is the Liouville equation (5.21):
+
+$$ \hbar \frac{\partial \rho}{\partial t} = -i[H, \rho]
+
+$$
+
+where the density matrix ρ is an operator on H_S. Here we would like to derive the analogous equation for an open quantum system, where H_S is also coupled to an environment H_E.
+
+It is not at all clear that such an equation will exist. Knowledge of the density matrix ρ on H_S at some time will not, in general, be sufficient to tell you how the density matrix will behave in the future. The problem is not just that the environment can affect our system — that, after all is what we’re trying to model. The problem is more one of memory.
+
+As time progresses, the system changes the environment. Our concern is that these changes accumulate, so that the environment starts to affect the system in different ways. In this sense, the environment can act as a memory, where the state of the system in the future depends not only on the present state, but on its entire history. These kind of situations are complicated.
+
+We’ve already seen a hint of this in our earlier work. Recall that when we first looked at quantum maps, we assumed that the initial state (5.48) was separable, with no correlations between H_S and H_E. Had we included these correlations, we would not have found such a simple, linear quantum map. Yet, such correlations inevitably build with time, meaning that we should be careful about performing successive quantum maps. This is a manifestation of the memory of the environment.
+
+anifestation of the memory of the environment. To make progress, we will restrict ourselves to situations where this memory does not last. We will consider the environment to be vast, similar to the heat reservoirs that we use in statistical mechanics. We assume that correlations between the system and the environment are lost over a certain time scale. We will denote this time scale by τ, and seek an equation which dictates the dynamics of ρ on timescales t ≫ τ.
+
+Our starting point is the quantum map (5.50), ρ(t+δt) = M(t+δt)ρ(t)M†(t+δt) (5.55)
+
+We will take δt to be small, as if we were dealing with usual calculus of infinitesimals. But we should bear in mind that really we want δt ≫ τ. For this equation to hold, we must have one Kraus operator — say M0 — to take the form M0 = 1 + O(δt). The remaining operators should be Mm ∼ O(√δt) for m = 1,2,.... We write M0 = 1 + (K − iH)δt/ℏ , Mm = Lm √(δt)/ℏ where both H and K are chosen to be Hermitian matrices. These Kraus operators must obey the completeness relation (5.51), Σ_m M†m Mm = 1 ⇒ 2K + Σ_{m=1} L†m Lm = O(δt²)
+
+We therefore write K = − (1/2) Σ_{m=1} L†m Lm Plugging these expressions into the quantum map (5.55), and keeping only terms of order δt, we get our final result ℏ ∂ρ/∂t = −i[H,ρ] + Σ_m [Lm ρL†m − (1/2)L†m Lm ρ − (1/2)ρL†m Lm]
+
+This is the Lindblad equation. It should be thought of as a quantum version of the Fokker-Planck equation that is described in the lectures in Kinetic Theory. We see that the evolution is governed not just by the Hamiltonian H, but also by further Lindblad operators Lm which capture the interaction with the environment. The presence of the final two terms ensures that d(Trρ)/dt = 0, as it should for a density matrix.
+
+The Increase of Entropy Something particularly nice happens when the Lindblad operators are Hermitian, so Lm = L†m. In this case, the entropy increases. The von Neumann entropy is defined as S(ρ) = −Trρ log ρ (5.31)
+
+Its change in time is given by dS/dt = −Tr (1+logρ) ∂ρ/∂t = −Tr logρ ∂ρ/∂t Inserting the Lindblad equation, we see that the first term vanishes, courtesy of the fact that [ρ,logρ] = 0. We’re left with ℏ dS/dt = − Σ_m Tr[(Lm ρL†m − L†m Lm ρ) logρ]
+
+To proceed, we decompose the density matrix ρ in terms of its eigenvectors ρ = Σ_i p_i |ϕ_i⟩⟨ϕ_i| and take the trace by summing over the complete basis |ϕ_i⟩. We have ℏ dS/dt = − Σ_m Σ_i ⟨ϕ_i|(Lm ρL†m − L†m Lm ρ)|ϕ_i⟩ log p_i = − Σ_m Σ_{i,j} ⟨ϕ_i|Lm|ϕ_j⟩⟨ϕ_j|L†m|ϕ_i⟩(p_j − p_i) log p_i = − (1/2) Σ_m Σ_{i,j} |⟨ϕ_i|Lm|ϕ_j⟩|² (p_j − p_i)(log p_i − log p_j)
+
+where, in going to the final line, we took advantage of the anti-symmetric properties of the middle line under the exchange of i and j. However, the expression (x−y)(logx−logy) is positive for all values of x and y. (This same fact was needed in the proof of the H-theorem which is the classical analog of the result we’re deriving here.) We learn that ℏ dS/dt ≥ 0
+
+## 6. Scattering Theory
+
+The basic idea behind scattering theory is simple: there’s an object that you want to understand. So you throw something at it. By analysing how that something bounces off, you can glean information about the object itself. A very familiar example of scattering theory is called “looking at things”. In this section we’re going to explore what happens when you look at things by throwing a quantum particle at an object.
+
+## 6.1 Scattering in One Dimension
+
+We start by considering a quantum particle moving along a line. The maths here will be simple, but the physics is sufficiently interesting to exhibit many of the key ideas. The object that we want to understand is some potential V(x). Importantly, the potential is localised to some region of space which means that V(x) → 0 as x → ±∞. An example is shown to the right. We will need the potential to fall off suitably fast in what follows although, for now, we won’t be careful about what this means. A quantum particle moving along the line is governed by the Schrödinger equation, −(ℏ²/2m) d²ψ/dx² + V(x)ψ = Eψ (6.1)
+
+Solutions to this equation are energy eigenstates. They evolve in time as ψ(x,t) = e^{−iEt/ℏ}ψ(x). For any potential, there are essentially two different kinds of states that we’re interested in.
+
+• Bound States are states that are localised in some region of space. The wavefunctions are normalisable and have profiles that drop off exponentially far from the potential ψ(x) ∼ e^{−λ|x|} as |x| → ∞ Because the potential vanishes in the asymptotic region, the Schrödinger equation (6.1) relates the asymptotic fall-off to the energy of the state, E = −ℏ²λ²/2m (6.2)
+
+In particular, bound states have E < 0. Indeed, it is this property which ensures that the particle is trapped within the potential and cannot escape to infinity.
+
+Bound states are rather special. In the absence of a potential, a solution which cays exponentially to the left will grow exponentially to the far right. But, for the state to be normalisable, the potential has to turn this behaviour around, so the wavefunction decreases at both x → −∞ and x → +∞. This will only happen for specific values of λ. Ultimately, this is why the spectrum of bound states is discrete, like in the hydrogen atom. It’s where the name "quantum" comes from.
+
+• Scattering States are not localised in space and, relatedly, the wavefunctions are not normalisable. Instead, asymptotically, far from the potential, scattering states take the form of plane waves. In one dimension, there are two possibilities: Right moving: ψ ∼ eikx Left moving: ψ ∼ e−ikx where k > 0. To see why these are left or right moving, we need to put the time dependence back in. The wavefunctions then take the form e±ikx−iEt/ℏ. The peaks and troughs of the wave move to the right with the plus sign, and to the left with the minus sign. Solving the Schrödinger equation in the asymptotic region with V = 0 gives the energy E = ℏ²k² / 2m Scattering states have E > 0. Note that, in contrast, to bound states, nothing special has to happen to find scattering solutions. We expect to find solutions for any choice of k.
+
+This simple classification of solutions already tells us something interesting. Suppose, for example, that the potential looks something like the one shown in the figure.
+
+You might think that we could find a localised solution that is trapped between the two peaks, with E > 0. But this can’t happen because if the wavefunction is to be normalisable, it must have E < 0. The physical reason, of course, is quantum tunnelling which allows the would-be bound state to escape to infinity. We will learn more about this situation in Section 6.1.5.
+
+6.1.1 Reflection and Transmission Amplitudes Suppose that we stand a long way from the potential and throw particles in. What comes out? This is answered by solving the Schrödinger equation for the scattering states. Because we have a second order differential equation, we expect that there are two independent solutions for each value of k. We can think of these solutions physically as what you get if you throw the particle in from the left or in from the right. Let’s deal with each in turn.
+
+Scattering from the Left We throw the particle in from the left. When it hits the potential, one of two things can happen: it can bounce back, or it can pass straight through. Of course, this being quantum mechanics, it can quite happily do both at the same time. Mathematically, this means that we are looking for a solution which asymptotically takes the form ψ(x) ∼ ( eikx +re−ikx   x → −∞ teikx     x → +∞ )
+
+We’ve labelled this state ψ because the ingoing wave is right-moving. This can be seen in the first term eikx which represents the particle we’re throwing in from x → −∞. The second term re−ikx represents the particle that is reflected back to x → −∞ after hitting the potential. The coefficient r ∈ C is called the reflection amplitude. Finally, the term teikx at x → +∞ represents the particle passing through the potential. The coefficient t ∈ C is called the transmission amplitude. (Note: in this formula t is a complex number that we have to determine; it is not time!) There is no term e−ikx at x → +∞ because we’re not throwing in any particles from that direction. Mathematically, we have chosen the solution in which this term vanishes.
+
+Before we proceed, it’s worth flagging up a conceptual point. Scattering is clearly a dynamical process: the particle goes in, and then comes out again. Yet there’s no explicit time dependence in our ansatz (6.3); instead, we have a solution formed of plane waves, spread throughout all of space. It’s best to think of these plane waves as describing a beam of particles, with the ansatz (6.3) giving us the steady-state solution in the presence of the potential.
+
+The probability for reflection R and transmission T are given by the usual quantum mechanics rule: R = |r|² and T = |t|² In general, both R and T will be functions of the wavenumber k. This is what we would like to calculate for a given potential and we will see an example shortly. But, before we do this, there are some observations that we can make using general statements about quantum mechanics.
+
+Given a solution ψ(x) to the Schrödinger equation, we can construct a conserved probability current J(x) = -iℏ/(2m) ( ψ* dψ/dx - ψ dψ*/dx )
+
+which obeys dJ/dx = 0. This means that J(x) is constant. (Mathematically, this is the statement that the Wronskian is constant for the two solutions to the Schrödinger equation). For our scattering solution ψ, with asymptotic form (6.3), the probability current as x → −∞ is given by J(x) = ℏk/(2m) [ (e^{-ikx} + r* e^{ikx})(e^{ikx} - r e^{-ikx}) + (e^{ikx} + r e^{-ikx})(e^{-ikx} - r* e^{ikx}) ]
+
+= ℏk/(2m) ( 1 - |r|² ) as x → −∞ Meanwhile, as x → +∞, we have J(x) = ℏk/(2m) |t|² as x → +∞ Equating the two gives 1−|r|2 = |t|2 ⇒ R+T = 1 (6.4)
+
+This should make us happy as it means that probabilities do what probabilities are supposed to do. The particle can only get reflected or transmitted and the sum of the probabilities to do these things equals one.
+
+Scattering from the Right
+
+This time, we throw the particle in from the We will start by writing the above solutions in slightly different notation. We have two ingoing asymptotic wavefunctions, one from the left and one from the right: Ingoing: right-moving: \( I_R(x) = e^{ikx} \quad x \to -\infty \)
+
+left-moving: \( I_L(x) = e^{-ikx} \quad x \to +\infty \)
+
+Similarly, there are two outgoing asymptotic wavefunctions, Outgoing: right-moving: \( O_R(x) = e^{ikx} \quad x \to +\infty \)
+
+left-moving: \( O_L(x) = e^{-ikx} \quad x \to -\infty \)
+
+The two asymptotic solutions (6.3) and (6.5) can then be written as \[ \begin{pmatrix} \psi_R \\ \psi_L \end{pmatrix} = S \begin{pmatrix} I_R + O_R \\ I_L + O_L \end{pmatrix} \]
+
+where \[ S = \begin{pmatrix} t & r \\ r' & t' \end{pmatrix} \]
+
+This is the S-matrix. As we've seen, for any given problem the entries of the matrix are rather complicated functions of \( k \).
+
+The S-matrix has many nice properties, some of which we will describe in these lectures. One of the simplest and most important is that \( S \) is unitary. To see this note that \[ SS^\dagger = \begin{pmatrix} |t|^2 + |r|^2 & tr'^\star + rt'^\star \\ t^\star r' + t'r^\star & |t'|^2 + |r'|^2 \end{pmatrix} \]
+
+Unitarity then follows from the conservation of probability. The off-diagonal elements vanish by virtue of the relations \( t' = t \) and \( r' = -r^\star t/t^\star \) that we found in (6.6). Meanwhile, the diagonal elements are equal to one by (6.4) and so \( SS^\dagger = 1 \). The equivalence between conservation of probability and unitarity of the S-matrix is important, and will generalise to higher dimensions. Indeed, in quantum mechanics the word “unitarity” is often used synonymously with “conservation of probability”.
+
+One further property follows from the fact that the wavefunctions \( \psi_R(x) \) and \( \psi_L(x) \) do not change under complex conjugation if we simultaneously flip \( k \to -k \). In other words \( \psi(x;k) = \psi^\star(x;-k) \). This means that the S-matrix obeys \[ S^\star(k) = S(-k)
+
+\]
+
+There are a number of other, more hidden properties of the S-matrix that we will uncover below.
+
+### 6.1.3 A Parity Basis for Scattering
+
+As we've seen above, for symmetric potentials, with \( V(x) = V(-x) \), scattering from the left and right is the same. Let's first make this statement more formal.
+
+We introduce the parity operator \( P \) which acts on functions \( f(x) \) as \[ P : f(x) \to f(-x)
+
+\]
+
+For symmetric potentials, we have \( [P,H] = 0 \) which means that eigenstates of the Hamiltonian can be chosen so that they are also eigenstates of \( P \). The parity operator is Hermitian, \( P^\dagger = P \), so its eigenvalues \( \lambda \) are real. But we also have \( P^2 f(x) = f(x) \), which means that the eigenvalues must obey \( \lambda^2 = 1 \). Clearly there are only two possibilities: \( \lambda = +1 \) and \( \lambda = -1 \). This means that eigenstates of the Hamiltonian can be chosen to be either even functions (\( \lambda = +1 \)) or odd functions (\( \lambda = -1 \)).
+
+Above we worked with scattering eigenstates \( \psi_R \) and \( \psi_L \). These are neither odd nor even. Instead, for a symmetric potential, they are related by \( \psi_L(x) = \psi_R(-x) \). This is the reason that symmetric potentials have \( r = r' \). If we want to work with the parity eigenstates, we take \[ \begin{aligned} \psi_+(x) &= \psi_R(x) + \psi_L(x) = \psi_R(x) + \psi_R(-x) \\ \psi_-(x) &= -\psi_R(x) + \psi_L(x) = -\psi_R(x) + \psi_R(-x)
+
+\end{aligned} \]
+
+which obey \( P\psi_\pm(x) = \pm \psi_\pm(x) \).
+
+Often, working with parity eigenstates makes the algebra a little easier. This is particularly true if our problem has a parity-invariant potential, \( V(x) = V(-x) \).
+
+#### The Pothole Example Revisited
+
+Let's see how the use of parity eigenstates can make our calculations simpler. We'll redo the scattering calculation in the pothole, but now we'll take the asymptotic states to be \( \psi_+ \) and \( \psi_- \). Physically, you can think of this experiment as throwing in particles from both the left and right at the same time, with appropriate choices of signs.
+
+We start with the even parity wavefunction \( \psi_+ \). We want to patch this onto a solution in the middle, but this too must have even parity. This means that the solution in the pothole takes the form \[ \psi(x) = A(e^{iqx} + e^{-iqx}) \quad x \in [-a/2, a/2]
+
+\]
+
+which now has only one unknown coefficient, \( A \). As previously, \( q^2 = k^2 + 2mV/\hbar^2 \). We still need to make sure that both the wavefunction and its derivative are continuous at \( x = \pm a/2 \). But, because we're working with even functions, we only need to look at one of these points. At \( x = a/2 \) we get \[ \begin{aligned} e^{-ika/2} + (r+t)e^{ika/2} &= A(e^{iqa/2} + e^{-iqa/2}) \\ -i e^{-ika/2} + i(r+t)e^{ika/2} &= iq A(e^{iqa/2} - e^{-iqa/2})
+
+\end{aligned} \]
+
+Notice that only the combination \( (r + t) \) appears. We have two equations with two unknowns. If we divide the two equations and rearrange, we get \[ r + t = -e^{-ika} \frac{q\tan(qa/2) - ik}{q\tan(qa/2) + ik} \quad (6.11)
+
+\]
+
+which is all a lot easier than the messy manipulations we had to do when working with \( \psi_L \) and \( \psi_R \). Of course, we've only got an expression for \( (r + t) \). But we can play the same game for the odd parity eigenstates to get a corresponding expression for \( (r - t) \).
+
+Now, the solution in the pothole takes the form \[ \psi(x) = B(e^{iqx} - e^{-iqx}) \quad x \in [-a/2, a/2]
+
+\]
+
+Requiring continuity of the wavefunction and its derivative at \( x = a/2 \) we get \[ \begin{aligned} e^{-ika/2} + (r-t)e^{ika/2} &= B(e^{iqa/2} - e^{-iqa/2}) \\ -i e^{-ika/2} + i(r-t)e^{ika/2} &= iq B(e^{iqa/2} + e^{-iqa/2})
+
+\end{aligned} \]
+
+Once again, dividing we find \[ r - t = e^{-ika} \frac{q + ik\tan(qa/2)}{q - ik\tan(qa/2)} \quad (6.12)
+
+\]
+
+pressions (6.11) and (6.12) are the same as those for r and t that we derived previously. But a little bit of algebra should convince you that they agree.
+
+[Ahelpinghand: thislittlebitofalgebraisextremelyfiddlyifyoudon’tgoaboutitin the right way! Here’s a reasonably streamlined approach. First define the denominator of (6.8) as D(k) = (q² + k²)sin(qa) + 2iqkcos(qa). Using the double-angle formula from trigonometry, we can write this as D(k) = 2cos²(qa/2)(qtan(qa/2) + ik)(q − iktan(qa/2)). We can then add the two expressions in (6.8), and use the double-angle formula again, to get r+t = 2e−ikacos²(qa/2)(qtan(qa/2)−ik)(iktan(qa/2)−q)/D(k). This coincides with our formula (6.11). Similar games give us the formula (6.12).]
+
+The S-Matrix in the Parity Basis
+
+We can also think about the S-matrix using our new basis of states. The asymptotic ingoing modes are even and odd functions, given at |x| → ∞ by parity-even: I+(x) = e−ik|x| Ingoing parity-odd: I−(x) = sign(x)e−ik|x| The two asymptotic outgoing modes are parity-even: O+(x) = e+ik|x| Outgoing parity-odd: O−(x) = −sign(x)e+ik|x| These are related to our earlier modes by a simple change of basis, I+   R+   1  1     O+   R+   1  1 = M  ,  = M  ,  with M = I−   L−  −1  1     O−   L−  −1  1 We can define an S-matrix with respect to this parity basis. In analogy with (6.9), we write asymptotic solutions as ψ+ = I+ + SP O+ ψ− = I− − where we use the notation SP to denote the S-matrix with respect to the parity basis. We write S++  S+− SP = S−+  S−− This is related to our earlier S-matrix by a change of basis. We have t+(r+r′)/2  (r−r′)/2 SP = MSM−1 = (r′ −r)/2  t−(r+r′)/2 As you may expect, this basis is particularly useful if the underlying potential is symmetric, so V(x) = V(−x). In this case we have r = r′ and the S-matrix becomes diagonal. The diagonal components are simply S++ = t+r  and  S−− = t−r In fact, because Sp is unitary, each of these components must be a phase. This follows because r and t are not independent. First, they obey |r|² + |t|² = 1. Moreover, when r′ = r, the relation (6.6) becomes rt⋆ + r⋆t = 0 ⇒ Re(rt⋆) = 0 This is enough to ensure that both S++ and S−− are indeed phases. We write them as S++ = e2iδ+(k)  and  S−− = e2iδ−(k)
+
+We learn that for scattering off a symmetric potential, all the information is encoded in two momentum-dependent phase shifts, δ±(k) which tell us how the phases of the outgoing waves O± are changed with respect to the ingoing waves I±.
+
+6.1.4 Bound States
+
+So far we’ve focussed only on the scattering states of the problem. We now look at the bound states, which have energy E < 0 and are localised near inside the potential. Here, something rather magical happens. It turns out that the information about these bound states can be extracted from the S-matrix, which we constructed purely from knowledge of the scattering states.
+
+To find the bound states, we need to do something clever. We take our scattering solutions, which depend on momentum k ∈ R, and extend them to the complex momentum plane. This means that we analytically continue out solutions so that they depend on k ∈ C.
+
+First note that the solutions with k ∈ C still obey our original Schrödinger equation (6.1) since, at no point in any of our derivation did we assume that k ∈ R. The only difficulty comes when we look at how the wavefunctions behave asymptotically. In particular, any putative solution will, in general, diverge exponentially as x → +∞ or x → −∞, rendering the wavefunction non-normalisable. However, as we will now show, there are certain solutions that survive.
+
+For simplicity, let’s assume that we have a symmetric potential V(x) = V(−x). As we’ve seen above, this means that there’s no mixing between the parity-even and parity-odd wavefunctions. We start by looking at the parity-even states. The general solution takes the form ψ+(x) = I+(x)+S++O+(x) =  e+ikx + S++e−ikx   x → −∞ e−ikx + S++e+ikx   x → +∞ Suppose that we make k pure imaginary and write k = iλ with λ > 0. Then we get ψ+(x) =  e−λx + S++e+λx   x → −∞   (6.14)
+
+e+λx + S++e−λx   x → +∞ Both terms proportional to S++ decay asymptotically, but the other terms diverge. This is bad. However, there’s a get-out. For any fixed k (whether real or complex), S++ is simply a number. That means that we’re quite at liberty to divide by it. Indeed, the wavefunction above isn’t normalised anyway, so dividing by a constant isn’t going to change anything. We get ψ+(x) =  S++−1 e−λx + e+λx   x → −∞   (6.15)
+
+S++−1 e+λx + e−λx   x → +∞ Now we can see the loop-hole. The wavefunction above is normalisable whenever we can find a λ > 0 such that S++(k) → ∞ as k → iλ This, then, is the magic of the S-matrix. Poles in the complex momentum plane that lie on the positive imaginary axis correspond to bound states.
+
+Imaginary axis (i.e. k = iλ with λ > 0) correspond to bound states. This information also tells us the energy of the bound state since, as we saw in (6.2), it is given by
+
+E = − ℏ²λ² / 2m
+
+We could also have set k = −iλ, with λ > 0. In this case, it is the terms proportional to S in (6.14) which diverge and the wavefunction is normalisable only if S(k = −iλ) = 0. However, since S is a phase, this is guaranteed to be true whenever S(k = iλ) has a pole, and simply gives us back the solution above.
+
+Finally, note that exactly the same arguments hold for parity-odd wavefunctions. There is a bound state whenever S(k) has a pole at k = iλ with λ > 0.
+
+An Example: Stuck in the Pothole
+
+We can illustrate this with our favourite example of the square well, of depth −V and width a. We already computed the S-matrix in (6.11) and (6.12). We have,
+
+S(k) = r + t = −e⁻ⁱᵏᵃ * [q tan(qa/2) − ik] / [q tan(qa/2) + ik]
+
+where q² = 2mV/ℏ² + k². Setting k = iλ, we see that this has a pole when
+
+λ = q tan(qa/2) with λ² + q² = 2mV/ℏ²
+
+These are the usual equations that you have to solve when finding parity-even bound states in a square well. The form of the solutions is simplest to see if we plot these equations, as shown in the left-hand of Figure 33. There is always at least one bound state, with more appearing as the well gets deeper.
+
+Similarly, if we look at the parity-odd wavefunctions, we have
+
+S(k) = t − r = e⁻ⁱᵏᵃ * [q + ik tan(qa/2)] / [q − ik tan(qa/2)]
+
+which has a pole at k = iλ when
+
+q = −λ tan(qa/2) with λ² + q² = 2mV/ℏ²
+
+This too reproduces the equations that we found in earlier courses in quantum mechanics when searching for bound states in a square well. Now there is no guarantee that a bound state exists; this only happens if the potential is deep enough.
+
+6.1.5 Resonances
+
+We might wonder if there’s any other information hidden in the analytic structure of the S-matrix. In this section, we will see that there is, although its interpretation is a little more subtle.
+
+First, the physics. Let’s think back again to the example shown on the right. On the one hand, we know that there can be no bound states in such a trap because they will have E > 0. Any particle that we place in the trap will ultimately tunnel out. On the other hand, if the walls of the trap are very large then we might expect that the particle stays there for a long time before it eventually escapes. In this situation, we talk of a resonance. These are also referred to as unstable or metastable states. Our goal is to show how such resonances are encoded in the S-matrix.
+
+Now, the maths. We’ll restrict attention to parity-even functions. Suppose that the S-matrix S has a pole that lies on the complex momentum plane at position k = k₀ − iγ. We’d like to interpret this pole. First note that the energy is also imaginary
+
+E = ℏ²k² / 2m ≡ E₀ − iΓ/2 (6.17)
+
+with E₀ = ℏ²(k₀² − γ²)/2m and Γ = 2ℏ²γk₀/m. An imaginary energy may sound strange, but it has a very natural interpretation. Recall that the time dependence of the wavefunction is given by e⁻ⁱᴱᵗ/ℏ = e⁻ⁱᴱ⁰ᵗ/ℏ e⁻ᴚᵗ/²ℏ (6.18)
+
+This is the first clue that we need. We see that, for γ > 0, the overall form of the wavefunction decays exponentially with time. This is the characteristic behaviour of unstable states. A wavefunction that is initially supported inside the trap will be very small there at time much larger than τ = 1/Γ. Here τ is called the half-life of the state, while Γ is usually referred to as the width of the state. (We’ll see why in Section 6.2).
+
+Where does the particle go? Including the time dependence (6.18), the same argument that led us to (6.15) now tells us that when S → ∞, the solution takes the asymptotic form
+
+ψ(x,t) = { e⁻ⁱᴱ⁰ᵗ/ℏ e⁻ⁱᵏ⁰ˣ e⁻ᵞˣ e⁻ᴚᵗ/²ℏ for x → −∞ { e⁻ⁱᴱ⁰ᵗ/ℏ e⁺ⁱᵏ⁰ˣ e⁺ᵞˣ e⁻ᴚᵗ/²ℏ for x → +∞  (6.19)
+
+The first two exponential factors oscillate. But the final factor varies as e±ᵞ(∓ᵥᵗ) where v = Γ / (2ℏγ) = ℏk₀ / m.
+
+This has the interpretation of a particle moving with momentum ℏk₀. This, of course, is the particle which has escaped the trap.
+
+Note that for fixed time t, these wavefunctions are not normalisable: they diverge at both x → ±∞. This shouldn’t concern us, because, although our wavefunctions are eigenstates of the Hamiltonian, they are not interpreted as stationary states. Indeed, it had to be the case. An unstable state has complex energy, but standard theorems in linear algebra tell us that a Hermitian operator like the Hamiltonian must have real eigenvalues. We have managed to evade this theorem only because these wavefunctions are non-normalisable and so do not, strictly speaking, live in the Hilbert space.
+
+There’s a lesson buried in all of this. If we were to take the standard axioms of quantum mechanics, we would simply throw away wavefunctions of the form (6.19) on the grounds that they do not lie in the Hilbert space and so are unphysical. But this would be a mistake: the wavefunctions do contain interesting physics, albeit of a slightly different variety than we are used to. Sometimes it’s worth pushing our physical theories beyond our comfort zone to see what is lurking there.
+
+The upshot of this discussion is that poles of the S-matrix in the lower-half complex plane correspond to resonances. It is often useful to write S as a function of energy rather than momentum. (They are related by (6.17)). Since S is a phase, close to a resonance it necessarily takes the form \[ S_{++} = \frac{E - E_0 - i\Gamma/2}{E - E_0 + i\Gamma/2} \]
+
+The fact that the S-matrix is a phase means that any pole in the complex energy plane necessarily comes with a zero at the conjugate point.
+
+An Example: A Pair of Delta-Functions
+
+A pair of delta functions provide a simple and tractable example to illustrate the idea of resonances. The potential is given by \[ V(x) = U \left[ \delta(x - 1) + \delta(x + 1) \right]
+
+\]
+
+Recall that the effect of the delta-functions is simply to change the boundary conditions at \( x = \pm 1 \) when solving the Schrödinger equation. All wavefunctions should be continuous at \( x = \pm 1 \), but their derivatives are discontinuous. For example, at \( x = +1 \), solutions obey \[ \lim_{\epsilon \to 0} \left[ \psi'(1 + \epsilon) - \psi'(1 - \epsilon) \right] = U_0 \psi(1) \quad \text{with} \quad U_0 = \frac{2mU}{\hbar^2} \]
+
+Working in the parity basis makes life simpler, not least because you only need to consider the matching at one of the delta-functions, with the other then guaranteed. The computation of the S-matrix is a problem on the exercise sheet. You will find \[ S_{++} = e^{-2ik} \frac{(2k - iU_0)e^{ik} - iU_0 e^{-ik}}{(2k + iU_0)e^{-ik} + iU_0 e^{ik}} \]
+
+Note that the denominator is the complex conjugate of the numerator, ensuring that \( S_{++} \) is a phase, as expected. The poles of this S-matrix are given by solutions to the equation \[ e^{2ik} = -1 - \frac{2ik}{U_0} \qquad (6.20)
+
+\]
+
+To understand the physics behind this, let’s first look at the situation where \( U_0 \to \infty \), so that the weight of the delta-functions gets infinitely large. Then the poles sit at \[ e^{2ik} = -1 \quad \Rightarrow \quad k = k_0 = n + \frac{\pi}{2} \]
+
+These correspond to bound states trapped between the two delta-functions. For example, the \( n = 0 \) state is shown in the figure. Note that they’re rather unusual because the poles sit on the real k-axis, rather than the imaginary k-axis. Correspondingly, these bound states have \( E > 0 \). This strange behaviour is only allowed because we have an infinitely large potential which forbids particles on one side of the barrier to cross to the other.
+
+As a side remark, we note that this same impenetrable behaviour is seen in scattering. When \( U_0 \to \infty \), the S-matrix becomes \( S_{++} \to -e^{2ik} \). This tells us that a particle coming from outside is completely reflected off the infinitely large barrier. The minus sign is the standard phase change after reflection. The factor of \( e^{2ik} \) is because the waves are forbidden from travelling through the region between the delta functions, which has width \( x = 2 \). As a result, the phase is shifted by \( e^{ikx} \) from what it would be if the barriers were removed.
+
+Let’s now look at what happens when \( U_0 \) is large, but finite? We’ll focus on the lowest energy bound state with \( n = 0 \). We can expand (6.20) in \( 1/U_0 \). (This too is left as a problem on the exercise sheet.) We find \[ k = \alpha - i\gamma \]
+
+with \[ \alpha \approx \frac{\pi}{2} - \frac{1}{2U_0} + \mathcal{O}\left(\frac{1}{U_0^2}\right) \quad \text{and} \quad \gamma \approx \frac{\pi^2}{4U_0^2} + \mathcal{O}\left(\frac{1}{U_0^3}\right)
+
+\]
+
+Note, in particular, that \( \gamma > 0 \), so the pole moves off the real axis and into the lower half-plane. This pole now has all the properties that we described at the beginning of this section. It describes a state, trapped between the two delta-functions, which decays with half-life \[ \tau = \frac{\hbar}{\Gamma} = \frac{4mU_0^2}{\hbar\pi^3} \left( 1 + \mathcal{O}\left(\frac{1}{U_0}\right) \right)
+
+\]
+
+This is the resonance.
+
+## 6.2 Scattering in Three Dimensions
+
+Our real interest in scattering is for particles moving in three spatial dimensions, with Hamiltonian \[ H = \frac{p^2}{2m} + V(r)
+
+\]
+
+Recall that there are two distinct interpretations for such a Hamiltonian - We could think of this as the motion of a single particle, moving in a fixed background potential \( V(r) \). This would be appropriate, for example, in Rutherford’s famous experiment where we fire an alpha particle at a gold nucleus.
+
+- Alternatively, We could think of this as the relative motion of two particles, separated by distance \( r \), interacting through the force \( F = -\nabla V(r) \). We could take \( V(r) \) to be the Coulomb force, to describe the scattering of electrons, or the Yukawa force to describe the scattering of neutrons.
+
+In this section, we will use language appropriate to the first interpretation, but everything we say holds equally well in the second. Throughout this section, we will work with rotationally invariant (i.e. central) potentials, so that \( V(r) = V(|r|) \).
+
+6.2.1 The Cross-Section
+
+Our first goal is to decide what we want to calculate. The simple reflection and transmission coefficients of t The one-dimensional problem are no longer appropriate. We need to replace them by something a little more complicated. We start by thinking of the classical situation.
+
+Classical Scattering
+
+Suppose that we throw in a single particle with kinetic energy E. Its initial trajectory is characterised by the impact parameter b, defined as the closest the particle would get to the scattering centre at r = 0 if there were no potential. The particle emerges with scattering angle θ, which is the angle between the asymptotic incoming and outgoing trajectories, as shown in the figure. By solving the classical equations of motion, we can compute θ(b;E) or, equivalently, b(θ;E).
+
+Now consider a uniform beam of particles, each with kinetic energy E. We want to understand what becomes of this beam. Consider the cross-sectional area, denoted dσ in Figure 37. We write this as dσ = b dϕ db The particles within dσ will evolve to lie in a cone of solid angle dΩ, given by dΩ = sinθ dϕ dθ where, for central potentials, the infinitesimal angles dϕ are the same in both these formulae. The differential cross-section is defined to be dσ/dΩ = | b / sinθ | | db/dθ | The left-hand side should really be |dσ/dΩ|, but we’ll usually drop the modulus. The differential cross-section is a function of incoming momentum k, together with the outgoing angle θ.
+
+More colloquially, the differential cross-section can be thought of as dσ/dΩ = (Number of particles scattered into dΩ per unit time) / (Number of incident particles per area dσ per unit time)
+
+We write this in terms of flux, defined to be the number of particles per unit area per unit time. In this language, the differential cross-section is dσ/dΩ = Scattered flux / Incident flux
+
+We can also define the total cross-section σ = ∫ (dσ/dΩ) dΩ Both the differential cross-section and the total cross-section have units of area. The usual unit used in particle physics, nuclear physics and atomic physics is the barn, with 1 barn = 10−28 m2. The total cross-section is a crude characterisation of the scattering power of the potential. Roughly speaking, it can be thought of as the total area of the incoming beam that is scattered. The differential cross-section contains more detailed information.
+
+An Example: The Hard Sphere
+
+Suppose that our particle bounces off a hard sphere, described by the potential V(r) = ∞ for r ≤ R. By staring at the geometry shown in the figure, you can convince yourself that b = R sin α and θ = π−2α. So in this case b = R sin(π/2 - θ/2) = R cos(θ/2)
+
+If b > R, clearly there is no scattering. The differential cross-section is dσ/dΩ = R² cos(θ/2) sin(θ/2) / (2 sinθ) = R² / 4 Rather unusually, in this case dσ/dΩ is independent of both θ and E. The total cross-section is σ = ∫₀²π dϕ ∫₋₁⁺¹ (dσ/dΩ) d(cosθ) = πR² (6.21)
+
+which, happily, coincides with the geometrical cross-section of the sphere. This result reinforces the interpretation of the total cross-section that we mentioned above; it is the area of the beam that is scattered. In general, the area of the beam that is scattered will depend on the energy E of the incoming particles.
+
+Another Example: Rutherford Scattering
+
+Rutherford scattering is the name given to scattering off a repulsive Coulomb potential of the form V(r) = A/r, with A > 0 where, for two particles of charge q₁ and q₂, we have A = q₁q₂/4πϵ₀. We studied Rutherford scattering in the lectures on Dynamics and Relativity. We found 2bE = A cot(θ/2)
+
+This gives the differential cross-section, dσ/dΩ = | b / sinθ | | db/dθ | = (A / (4E))² csc⁴(θ/2) (6.22)
+
+This scattering amplitude played an important role in the history of physics. Rutherford, together with Geiger and Marsden, fired alpha particles (a helium nucleus) at gold foil. They discovered that the alpha particles could be deflected by a large angle, with the cross-section given by (6.22). Rutherford realised that this meant the positive charge of the atom was concentrated in a tiny, nucleus.
+
+There is, however, a puzzle here. Rutherford did his experiment long before the discovery of quantum mechanics. While his data agreed with the classical result (6.22), there is no reason to believe that this classical result carries over to a full quantum treatment. We’ll see how this pans out later in this section.
+
+There’s a surprise when we try to calculate the total cross-section σ. We find that it’s infinite! This is because the Coulomb force is long range. The potential decays to V(r) → 0 as r → ∞, but it drops off very slowly. This will mean that we will have to be careful when applying our formalism to the Coulomb force.
+
+6.2.2 The Scattering Amplitude
+
+The language of cross-sections is also very natural when we look at scattering from a quantum perspective.
+
+quantum mechanics. As in Section 6.1, we set up the scattering problem as a solution to the time-independent Schrödinger equation, which now reads \[ \left(-\frac{\hbar^2}{2m}\nabla^2 + V(\mathbf{r})\right) \psi(\mathbf{r}) = E\psi(\mathbf{r}) \tag{6.23} \]
+
+We will send in a plane wave with energy $E$ which we choose to propagate along the $z$-direction. This is just \[ \psi_{\text{incident}}(\mathbf{r}) = e^{ikz} \]
+
+where $E = \hbar^2 k^2/2m$. However, after scattering off the potential, the wave doesn’t only bounce back in the $z$ direction. Instead, it spreads out spherically, albeit with a phase and amplitude which can vary around the sphere. It’s hard to take photographs of quantum wavefunctions, but the water waves shown on the right give a good analogy for what’s going on. Asymptotically, as $r \to \infty$, this scattered wave takes the form \[ \psi_{\text{scattered}}(\mathbf{r}) = f(\theta, \phi) \frac{e^{ikr}}{r} \tag{6.24} \]
+
+The $1/r$ fall-off follows from solving the free Schrödinger equation; we’ll see this explicitly below. However, there is a simple intuition for this behaviour which follows from thinking of $|\psi|^2$ as a probability, spreading over a sphere which grows as $r^2$ as $r \to \infty$. The $1/r$ fall-off ensures that this probability is conserved. Our final ansatz for the asymptotic wavefunction is then \[ \psi(\mathbf{r}) = \psi_{\text{incident}}(\mathbf{r}) + \psi_{\text{scattered}}(\mathbf{r}) \tag{6.25} \]
+
+The function $f(\theta, \phi)$ is called the scattering amplitude. For the central potentials considered here it is independent of $\phi$, so $f = f(\theta)$. It is the 3d generalisation of the reflection and transmission coefficients that we met in the previous section. Our goal is to calculate it.
+
+The scattering amplitude is very closely related to the differential cross-section. To see this, we can look at the probability current \[ \mathbf{J} = -\frac{i\hbar}{2m} \left( \psi^\star \nabla \psi - (\nabla \psi^\star) \psi \right)
+
+\]
+
+which obeys $\nabla \cdot \mathbf{J} = 0$. For the incident wave, we have \[ \mathbf{J}_{\text{incident}} = \frac{\hbar k}{m} \hat{\mathbf{z}} \]
+
+This is interpreted as a beam of particles with velocity $v = \hbar k/m$ travelling in the $z$-direction. Meanwhile, for the scattered wave we use the fact that \[ \nabla \psi_{\text{scattered}} = \hat{\mathbf{r}} \left( \frac{ik}{r} - \frac{1}{r^2} \right) f(\theta) e^{ikr} + \text{O}\left(\frac{1}{r^2}\right)
+
+\]
+
+to find \[ \mathbf{J}_{\text{scattered}} = \frac{\hbar k}{m} \frac{|f(\theta)|^2}{r^2} \hat{\mathbf{r}} + \text{O}\left(\frac{1}{r^3}\right)
+
+\]
+
+This means that, as $r \to \infty$, the flux of outgoing particles crossing an area $dA$ subtended by the solid angle $d\Omega$ is \[ \mathbf{J}_{\text{scattered}} \cdot \hat{\mathbf{r}} dA = \frac{\hbar k}{m} |f(\theta)|^2 d\Omega \]
+
+The differential cross-section is defined to be the ratio of the scattered flux through $d\Omega$, divided by the incident flux. In other words, it is \[ \frac{d\sigma}{d\Omega} = \frac{\hbar k |f(\theta)|^2 / m}{\hbar k / m} = |f(\theta)|^2 \]
+
+This is rather nice. It means that if we can compute the scattering amplitude $f(\theta)$, it immediately tells us the differential cross-section. The total cross-section is defined, as before, as \[ \sigma = \int d\Omega \, |f(\theta)|^2 \]
+
+### 6.2.3 Partial Waves
+
+To make progress, we need to start to look in more detail at the solutions to the Schrödinger equation (6.23). Because we’ve decided to work with rotationally invariant potentials, it makes sense to label our wavefunctions by their angular momentum, $l$. Let’s quickly review what this looks like.
+
+A general wavefunction $\psi(r, \theta, \phi)$ can be expanded in terms of spherical harmonics. In this section, however, we only need to deal with wavefunctions of the form $\psi(r, \theta)$, which are independent of $\phi$. Such functions have an expansion in terms of partial waves \[ \psi(r, \theta) = \sum_{l=0}^\infty R_l(r) P_l(\cos\theta)
+
+\]
+
+Here the $P_l(\cos\theta)$ are Legendre polynomials. They appear by virtue of being eigenstates of the angular momentum operator $L^2$, \[ L^2 P_l(\cos\theta) = \hbar^2 l(l+1) P_l(\cos\theta)
+
+\]
+
+In more concrete terms, this is the statement that the Legendre polynomials $P_l(w)$ obey the differential equation \[ \frac{d}{dw}\left((1-w^2)\frac{dP_l}{dw}\right) + l(l+1)P_l(w) = 0 \]
+
+Meanwhile, the original Schrödinger equation (6.23) becomes an ordinary differential equation for the radial functions $R_l$, \[ \left( \frac{d^2}{dr^2} + \frac{2}{r} \frac{d}{dr} - \frac{l(l+1)}{r^2} - U(r) + k^2 \right) R_l(r) = 0 \tag{6.26} \]
+
+where we’ve used the expression for the energy, $E = \hbar^2 k^2/2m$, and rescaled the potential $U(r) = \frac{2m}{\hbar^2} V(r)$.
+
+#### Spherical Waves when $U(r) = 0$
+
+We will assume that our potential drops off sufficiently quickly so that asymptotically our waves obey (6.26) with $U(r) = 0$. (We will be more precise about how fast $U(r)$ must fall off later.) We can write the equation obeyed by $R_l$ as \[ \left( \frac{d^2}{dr^2} - \frac{l(l+1)}{r^2} + k^2 \right) (r R_l(r)) = 0 \tag{6.27} \]
+
+There are two $s$-wave solutions with $l = 0$, given by \[ R_0(r) = \frac{e^{\pm ikr}}{r} \tag{6.28} \]
+
+These are ingoing (minus sign) and outgoing (plus sign) spherical waves. The solutions for $l \neq 0$ are more commonly known as spherical Bessel functions and are described below.
+
+#### Plane Waves when $U(r) = 0$
+
+Of course, when $U = 0$, the plane wave \[ \psi_{\text{incident}}(\mathbf{r}) = e^{ikz} = e^{ikr\cos\theta} \]
+
+is also a solution to the Schrödinger equation. Although it feels rather unnatural, it must be possible to expand these solutions in terms of the spherical waves. To do this, it is convenient to briefly introduce the coordinate $\rho = kr$. We write the plane wave solution as \[ \psi_{\text{incident}}(\rho, \theta) = e^{i\rho\cos\theta} = \sum_{l=0}^\infty (2l+1) i^l u_l(\rho) P_l(\cos\theta) \tag{6.29} \]
+
+where the factor of $(2l+1)$ is for convenience and the functions $u_l(\rho)$ are what we want to find.
+
+To determine. The Legendre polynomials have a nice orthogonality property, \[ \int_{-1}^{+1} dw \, P_l(w) P_m(w) = \frac{\delta_{lm}}{2l+1} \]
+
+We can use this to write \[ u_l(\rho) = \frac{1}{2} \int_{-1}^{+1} dw \, e^{i \rho w} P_l(w)
+
+\]
+
+Our interest is only in the behaviour of the plane wave as \(\rho \to \infty\). To extract this, we start by integrating by parts \[ u_l(\rho) = \frac{1}{2 i \rho} \left[ e^{i \rho w} P_l(w) \right]_{-1}^{+1} - \frac{1}{2 i \rho} \int_{-1}^{+1} dw \, e^{i \rho w} \frac{dP_l}{dw} \]
+
+The Legendre polynomials obey \(P_l(1) = 1\) and \(P_l(-1) = (-1)^l\). We then find \[ u_l(\rho) = \frac{1}{2 i \rho} \left[ e^{i \rho} - (-1)^l e^{-i \rho} + O\left(\frac{1}{\rho^2}\right) \right]
+
+\]
+
+where a further integration by parts will convince you that the remaining terms do indeed drop off as \(1/\rho^2\). This is the result we need. As \(r \to \infty\), the incident plane wave can be written as \[ \psi_{\text{incident}} = \sum_{l=0}^{\infty} \frac{2l+1}{2ik} \left[ \frac{e^{ikr}}{r} - (-1)^l \frac{e^{-ikr}}{r} \right] P_l(\cos\theta)
+
+\]
+
+We learn that the ingoing plane wave decomposes into an outgoing spherical wave (the first term) together with an ingoing spherical wave (the second term).
+
+Phase Shifts
+
+It’s been quite a long build up, but we now know what we want to calculate, and how to do it! To recapitulate, we’d like to calculate the scattering amplitude \(f(\theta)\) by finding solutions of the asymptotic form \[ \psi(\mathbf{r}) = e^{ikz} + f(\theta) \frac{e^{ikr}}{r} \quad \text{as} \quad r \to \infty \]
+
+We still have a couple more definitions to make. First, we expand the scattering amplitude in partial waves as \[ f(\theta) = \sum_{l=0}^{\infty} (2l+1) f_l P_l(\cos\theta)
+
+\]
+
+The normalisation coefficients of \(1/k\) and \((2l+1)\) mean that the coefficients \(f_l\) sit nicely with the expansion of the plane wave in terms of spherical waves. We can then write the asymptotic form of the wavefunction as a sum of ingoing and outgoing waves \[ \psi(r) \sim \sum_{l=0}^{\infty} \frac{2l+1}{2ik} \left[ (-1)^{l+1} \frac{e^{-ikr}}{r} + (1+2ik f_l) \frac{e^{ikr}}{r} \right] P_l(\cos\theta)
+
+\]
+
+where the first term is ingoing, and the second term is outgoing. For a given potential \(V(r)\), we would like to compute the coefficients \(f_l\), which, in general, are functions of \(k\). Note that the problem has decomposed into decoupled angular momentum sectors, labelled by \(l = 0,1,....\) This is because we’re working with a rotationally symmetric potential, which scatters an incoming wave, but does not change its angular momentum. Moreover, for each \(l\), our ansatz consists of an ingoing wave, together with an outgoing wave. This is entirely analogous to our 1d solutions when we first introduced the S-matrix. We identify the coefficients of the outgoing terms as the elements of the S-matrix. For rotationally invariant potentials, the 3d S-matrix \(\mathbf{S}\) is diagonal in the angular momentum basis, with elements given by \[ S_l = 1+2ik f_l \quad \text{with} \quad l = 0,1,2,...
+
+\]
+
+Now unitarity of the S-matrix — which is equivalent to conservation of particle number — requires that these diagonal elements are a pure phase. We write \[ S_l = e^{2i\delta_l} \quad \Rightarrow \quad f_l = \frac{(e^{2i\delta_l}-1)}{2ik} = \frac{e^{i\delta_l}\sin\delta_l}{k} \]
+
+where \(\delta_l\) are the phase shifts. Comparing back to the expansion, we see that the phase shifts and scattering amplitude are related by \[ f(\theta) = \frac{1}{2ik} \sum_{l=0}^{\infty} (2l+1) \left(e^{2i\delta_l}-1\right) P_l(\cos\theta)
+
+\]
+
+The picture that we have is entirely analogous to the 1d situation. A wave comes in, and a wave goes out. Conservation of probability ensures that the amplitudes of these waves are the same. All information about scattering is encoded in the phase shifts \(\delta_l(k)\) between the ingoing and outgoing waves.
+
+6.2.4 The Optical Theorem
+
+The differential cross-section is \(d\sigma/d\Omega = |f(\theta)|^2\). Using the partial wave decomposition, we have \[ \frac{d\sigma}{d\Omega} = \frac{1}{k^2} \sum_{l,l'} (2l+1)(2l'+1) f_l f_{l'}^* P_l(\cos\theta) P_{l'}(\cos\theta)
+
+\]
+
+In computing the total cross-section \(\sigma_T\), we can use the orthogonality of Legendre polynomials to write \[ \sigma_T = \int d\Omega \, \frac{d\sigma}{d\Omega} = 2\pi \int_{-1}^{+1} d(\cos\theta) \, \frac{d\sigma}{d\Omega} = \frac{4\pi}{k^2} \sum_l (2l+1)|f_l|^2 = \frac{4\pi}{k^2} \sum_l (2l+1)\sin^2\delta_l \]
+
+We can compare this to our expansion for \(f(0)\). Using the fact that \(P_l(1) = 1\), we have \[ f(0) = \sum_l \frac{2l+1}{k} e^{i\delta_l}\sin\delta_l \]
+
+This tells us that the total cross-section is given by \[ \sigma_T = \frac{4\pi}{k} \, \text{Im}f(0)
+
+\]
+
+This is known as the optical theorem. Here’s some words that will hopefully build some intuition for the optical theorem. The potential causes scattering from the forward direction (\(\theta = 0\)) to other directions. Because total probability is conserved, clearly the amount of particles going in the forward direction must decrease. However, this decrease in the forward direction must be equal to the total increase in other directions – and this is what the total cross-section \(\sigma_T\) measures. Finally, the amount of decrease in forward scattering is due to interference between the incoming wave and outgoing waves, and so is proportional to \(f(0)\).
+
+Unitarity Bounds
+
+If we think of the total cross-section as built from the cross-sections for each partial wave then, from the expression for \(\sigma_T\), we have \[ \sigma_T = \sum_{l=0}^{\infty} \sigma_l \quad \text{with} \quad \sigma_l = \frac{4\pi}{k^2} (2l+1)\sin^2\delta_l \]
+
+Clearly each contribution is bounded as \(\sigma_l \le 4\pi(2l+1)/k^2\), with the maximum arising when the phase shift is given by \(\delta_l = \pm\pi/2\). This is called the unitarity bound. There’s a straightforward, semi-classical way to understand this.
+
+unitarity bounds. If we send in a particle with momentum ℏk and impact parameter b, then it has angular momentum L = ℏkb. This angular momentum is quantised. Roughly speaking, we might expect that the particle has angular momentum ℏl, with l ∈ Z, when the impact parameter lies in the window
+
+l/k ≤ b ≤ (l+1)/k (6.38)
+
+If the particle gets scattered with 100% probability when it lies in this ring, then the cross-section is equal to the area of the ring. This is
+
+(l+1)²π/k² − l²π/k² = (2l+1)π/k²
+
+This is almost the unitarity bound (6.37). It differs by a factor 4. As we will now see, that same factor of 4 difference often arises between simple classical arguments and a full quantum treatment of scattering processes.
+
+6.2.5 An Example: A Hard Sphere and Spherical Bessel Functions
+
+After all this formalism, let’s finally do an example. Our scattering region will be a hard sphere of radius a, with potential
+
+V(r) = ∞ for r < a, and 0 for r > a.
+
+Since the wavefunction vanishes inside the sphere and is continuous, this potential is equivalent to imposing the boundary condition ψ(a) = 0.
+
+For r > a, the wavefunction can be decomposed in partial waves
+
+ψ(r,θ) = Σ_l R_l(r) P_l(cosθ)
+
+where the radial wavefunction obeys the free Schrödinger equation
+
+−[ d²/dρ² + 1/ρ² (l(l+1) − 1) ] (ρ R_l(ρ)) = 0 (6.39)
+
+where we’re again using the coordinate ρ = kr. Solutions R_l(ρ) to this equation are known as spherical Bessel functions and are denoted j_l(ρ) and n_l(ρ). They are important enough that we take some time to describe their properties.
+
+An Aside: Spherical Bessel Functions
+
+The solutions to (6.39) are given by spherical Bessel functions, R_l(ρ) = j_l(ρ) and R_l(ρ) = n_l(ρ), and can be written as⁶
+
+j_l(ρ) = (−ρ)^l (1/ρ d/dρ)^l (sinρ/ρ) and n_l(ρ) = −(−ρ)^l (1/ρ d/dρ)^l (cosρ/ρ)
+
+Note that j_0(ρ) = sinρ/ρ and n_0(ρ) = −cosρ/ρ, so the solutions (6.28) for free spherical waves can be written as R_0(ρ) = n_0(ρ) ± i n_0(ρ).
+
+⁶ Proofs of this statement, together with the asymptotic expansions given below, can be found in the handout http://www.damtp.cam.ac.uk/user/tong/aqm/bessel.pdf.
+
+In what follows, it will be useful to have the asymptotic form of j_l and n_l. They are given by
+
+j_l(ρ) → sin(ρ − ½lπ)/ρ and n_l(ρ) → − cos(ρ − ½lπ)/ρ as ρ → ∞ (6.40)
+
+We see that at large r, the spherical Bessel functions look more or less the same for all l, differing only by a phase. In particular, the combinations j_l ± i n_l look essentially the same as the l = 0 spherical waves that we met in (6.28). However, the spherical Bessel functions differ as we come in towards the origin. In particular, close to ρ = 0 we have
+
+j_l(ρ) → ρ^l / (2l+1)!! and n_l(ρ) → −(2l−1)!! ρ−(l+1) as ρ → 0 (6.41)
+
+where (2l+1)!! = 1·3·5····(2l+1) is the product of all odd numbers up to 2l+1. Note that j_l(ρ) is regular near the origin, while n_l diverges.
+
+Before we proceed, it’s worth seeing how we write the plane wave e^{ikz} in terms of spherical Bessel functions. We wrote the partial wave expansion (6.29) in terms of functions u_l(ρ), whose asymptotic expansion was given in (6.32). This can be rewritten as
+
+u_l(ρ) → i^l sin(ρ − ½lπ)/ρ as ρ → ∞
+
+which tells us that we can identify the functions u_l(ρ) as
+
+u_l(ρ) = i^l j_l(ρ)
+
+Back to the Hard Sphere
+
+Returning to our hard sphere, the general solution for r ≥ a can be written in the form,
+
+R_l(r) = A_l [cosα_l j_l(ρ) − sinα_l n_l(ρ)] (6.42)
+
+where, as before, ρ = kr. Here A_l and α_l are two integration constants which we will fix by the boundary condition. Because the Schrödinger equation is linear, nothing fixes the overall coefficient A_l. In contrast, the integration constant α_l will be fixed by the boundary conditions at r = a. Moreover, this integration constant turns out to be precisely the phase shift δ_l that we want to compute. To see this, we use the asymptotic form of the spherical Bessel functions (6.40) to find
+
+R_l(r) ∼ A_l/ρ [cosα_l sin(ρ − ½lπ) + sinα_l cos(ρ − ½lπ)] = A_l/ρ sin(ρ − ½lπ + α_l)
+
+We can compare this to the expected asymptotic form (6.35) of the wavefunction
+
+R_l(r) ∼ (−1)^{l+1}/ρ [e^{−iρ} + e^{2iδ_l} e^{iρ}] = − e^{−i(ρ+δ_l−πl/2)}/ρ + e^{i(ρ+δ_l−πl/2)}/ρ
+
+to see that, as a function of ρ = kr, the two expressions agree provided
+
+α_l = δ_l
+
+In other words, if we can figure out the integration constant α_l then we’ve found our sought-after phase shift.
+
+The boundary condition imposed by the hard sphere is simply R_l(a) = 0. This tells us that
+
+j_l(ka) cosδ_l = sinδ_l n_l(ka) ⇒ tanδ_l = j_l(ka) / n_l(ka)
+
+This is the final result for this system. Now let’s try to extract some physics from it.
+
+First note that for the l = 0 s-wave, the phase shift is given exactly by
+
+δ_0 = −ka
+
+For small momenta, ka ≪ 1, we can extract the behaviour of the higher l phase shifts from the ρ → 0 behaviour of the spherical Bessel functions (6.41). We have
+
+δ_l ≈ − (ka)^{2l+1} / [ (2l+1)!! (2l−1)!! ]
+
+We see that for low momentum the phase shifts decrease as powers of the momentum.
+
+s l increases. This is to be expected: the higher l modes have to penetrate the repulsive angular momentum ∼ ℏl(l+1)/r². Classically, this would prohibit the low-momentum modes from reaching the sphere. Quantum mechanically, only the exponential tails of these modes reach r = a which is why their scattering is suppressed.
+
+For low momentum ka ≪ 1, we now have all the information we need to compute the total cross-section. The sum (6.36) is dominated by the l = 0 s-wave, and given by σ = 4πa²(1+O(ka)⁴)
+
+This is a factor of 4 bigger than the classical, geometric result (6.21).
+
+It's also possible to extract analytic results for the phase shifts at high momentum ka ≫ 1. For this we need further properties of the spherical Bessel functions. Here we simply state the results. The phase shifts δ vary between 0 and 2π for l ≲ ka. However, when l > ka, the phase shifts quickly drop to zero. The intuition behind this follows from the semi-classical analysis (6.38) which tells us that for l ≫ ka, the impact parameter is b ≫ a. This makes it unsurprising that no scattering takes place in this regime. It turns out that as ka → ∞, the total cross-section becomes σ → 2πa².
+
+The Scattering Length The low-momentum behaviour δ ∼ (ka)²ˡ⁺¹ that we saw is common to all scattering potentials. It means that low-energy scattering is always dominated by the s-wave whose phase shift scales as δ₀ˢ ∼ −ka +O(k³) (6.43)
+
+The coefficient a is called the scattering length. As we have seen, for the hard sphere a = a, the radius of the sphere. At low energies, the total cross-section is always given by σ ≈ σ₀ˢ ∼ 4πa² The scattering length is a useful way to characterise the low-energy behaviour of a potential. As we will see in examples below, a can be positive or negative and can, at times, diverge.
+
+6.2.6 Bound States In this section we describe the effects of bound states on scattering. Such states only occur for attractive potentials, so we again take a sphere of radius a, but this time with potential V(r) = { −V   r < a 0    r > a } (6.44)
+
+It will be useful to define the following notation U(r) = 2mV(r)/ℏ²   and   γ² = 2mV₀/ℏ² (6.45)
+
+We'll start by focussing on the l = 0 s-wave. Outside the sphere, the wavefunction satisfies the usual free Schrödinger equation (6.27)
+
+(d²/dr² + k²)(rψ) = 0   r > a with general solution ψ(r) = A sin(kr+δ)/r   r > a (6.46)
+
+The same argument that we made when discussing the hard sphere shows that the integration constant δ is the phase shift that we want to calculate. We do so by matching the solution to the wavefunction inside the sphere, which satisfies (d²/dr² + k² + γ²)(rψ) = 0   r < a The requirement that the wavefunction is regular at the origin r = 0 picks the solution inside the sphere to be ψ(r) = B sin(√(k²+γ²) r)/r   r < a (6.47)
+
+The solutions (6.46) and (6.47) must be patched at r = a by requiring that both ψ(a) and ψ′(a) are continuous. We get the answer quickest if we combine these two and insist that ψ′/ψ is continuous at r = a, since this condition does not depend on the uninteresting integration constants A and B. A quick calculation shows that it is satisfied when tan(ka+δ) / ka = tan(√(k²+γ²)a) / √(k²+γ²)a (6.48)
+
+For very high momentum scattering, k² ≫ γ², we have δ → 0. This is to be expected: the energy of the particle is so large that it doesn't much care for the small, puny potential and there is no scattering.
+
+Bound States and the Scattering Length Things are more interesting at low energies, k² ≪ γ² and ka ≪ 1. We have tan(ka+δ) / ka ≈ tan(γa) / γa   ⇒   (tan(ka)+tan(δ)) / (1−tan(ka)tan(δ)) ≈ k / γ Rearranging, we get tanδ = ka( tan(γa)/(γa) − 1 ) + O(k³) (6.49)
+
+If the phase shift δ is small, then we can write tanδ ≈ δ and, from (6.43), read off the scattering length aₛ = a − tan(γa)/γ (6.50)
+
+Note that, for this approximation to hold, we need ka ≪ 1, but the scattering length aₛ exhibits somewhat surprising behaviour. For small γ, the scattering length is negative. This can be thought of as due to the attractive nature of the potential, which pulls the particle into the scattering region rather than repelling it. However, as γ is increased, the scattering length diverges to −∞, before reappearing at +∞. It continues this pattern, oscillating between +∞ and −∞. Our task is to understand why this striking behaviour is happening.
+
+Before we proceed, note that all the calculations above also hold for repulsive potentials with V < 0. In this case γ, defined in (6.45) is pure imaginary and the scattering length (6.50) becomes aₛ = a − tanh(|γ|a)/|γ|   (V < 0)
+
+Now the scattering length is always positive. It increases monotonically from a = 0 when γ = 0, corresponding to no scattering, through to a = a when |γ| → ∞, which is our previous result for the hard-sphere. We see that whatever is causing the strange oscillations in (6.50) does not occur for the repulsive potential.
+
+The key to the 散射长度的发散行为源于理论中的束缚态。构造 l=0 的束缚态很简单。我们求解形式如下的薛定谔方程：
+
+rψ(r) = { A sin(√(γ² - λ²) r),  r < a { B e^(-λr),           r > a
+
+这两个解具有相同的能量 E = -ℏ²λ²/2m。在 r=a 处匹配对数导数得到：
+
+tan(√(γ² - λ²) a) = - √(γ² - λ²) / λ  (6.51)
+
+这个解的结构与我们在 6.1.4 节看到的类似。实际上，如果我们令 q² = γ² - λ²，那么这些方程与描述一维奇宇称态的方程 (6.16) 形式相同。特别是，这意味着如果势阱太浅，则不存在束缚态。随着 γ 增大，势阱变深，束缚态开始出现。它们首次出现的条件是 λ=0 且 tan(γa)=∞，即：
+
+γ = γₙ = (n + 1/2) π / a，其中 n = 0, 1, ...
+
+这恰好与散射长度 (6.50) 发散的值相吻合。当 γ 略小于 γₙ 时，束缚态尚未出现，散射长度是很大的负值。当 γ 略大于 γₙ 时，新束缚态已经存在且结合很弱，散射长度是很大的正值。而当 γ = γₙ 时，存在一个能量 E=0 的束缚态。这样的束缚态被称为“在阈值处”。
+
+能量略高于 E=0 的入射波与能量略低于 E=0 的束缚态——或近乎束缚态——强烈混合。这正是散射截面发散的原因。具体来说，当存在一个恰好在阈值的束缚态时，tan δ → ∞，因此相移为 δ₀ = (n+1/2)π。（注意，在此处，我们不能再写 δ₀ ≈ -k a_s，因为该式仅在 k a_s ≪ 1 时成立，而 a_s 此时正在发散。）s波散射截面达到了幺正性界限 (6.37)：σ₀ = 4π / k²。
+
+为理解束缚态的形成如何导致散射长度发散，我们可以考察有限 k 下 S矩阵的解析结构。由 (6.48) 我们知道相移由下式给出：
+
+tan(ka + δ₀) = tan(k√(k² + γ²) a) / √(k² + γ²) ≡ f(k)
+
+整理后，我们得到 S 矩阵的 s 波分量：
+
+S₀(k) = e^(2iδ₀) = e^(-2ika) * (1 + i f(k)) / (1 - i f(k))
+
+S 矩阵在 f(k) = -i 处有一个极点，即当 k 满足：
+
+tan(√(k² + γ²) a) = √(k² + γ²) / (ik)  (6.52)
+
+这个方程对于实数 k 没有解。然而，它在正虚数 k 轴上有解。令 k = iλ，方程 (6.52) 就与束缚态的条件 (6.51) 一致。
+
+在极点附近，S 矩阵的形式为：
+
+S₀(k) = e^(2iδ₀) = (iλ + k) / (iλ - k)
+
+当束缚态趋近阈值时，λ 很小，这个形式在 k=0 附近的有效区域内成立。对于 k ≪ λ，我们可以将 k/λ 展开，得到 δ₀ ≈ -k/λ，这告诉我们确实应该期望看到一个发散的散射长度 a_s = 1/λ。
+
+图 40：中子在 U-235 上散射的截面。
+
+当中子在低能下被大原子核散射时，它们非常接近于形成一个阈值束缚态。图中显示了中子在铀-235上散射的总截面[7]。你可以看到截面的巨大增强。这部分是由于束缚态的存在，但同时也被大量共振态的存在所复杂化，我们将在下一节讨论其影响。
+
+6.2.7 共振我们在 6.1.5 节已经遇到过共振的概念。它们是不稳定的束缚态，表现为 S 矩阵在下半复平面的极点。这里我们看看这些共振如何影响三维散射。
+
+构造展现共振的例子并不难。事实上，具有束缚态的吸引球形势阱 (6.44) 也展现共振。这些共振不出现在 s 波，而只出现在更高的 l，其中有效势包含一个有效的、排斥的角动量势垒。代数运算在概念上不比我们上面所做的更难，但实际上会迅速变成一堆球贝塞尔函数。
+
+或者，我们可以考虑一个稍简单的例子，即 V(r) = V₀ δ(r - a) 形式的 δ 函数笼。这是我们在 6.1.5 节所看例子的显然的三维推广，并且具有 s 波共振。
+
+与其纠结于这些细节，我们这里专注于所有这些例子共同的特点。在每种情况下，S 矩阵都有一个极点。从能量 E = ℏ²k²/2m 的角度来看，这些极点出现在：
+
+E = E₀ - iΓ/2  (6.53)
+
+这与我们在一维例子中看到的 (6.17) 结果相同。在极点附近，S 矩阵——根据幺正性，它只是一个相位——必须取形式：
+
+S(E) = e^(2iδ(E)) = e^(2iθ(E)) * (E - E₀ - iΓ/2) / (E - E₀ + iΓ/2)
+
+这里 e^(2iθ(E)) 是 th e so-called continuum contribution; it is due to the usual, run-of-the-mill phase shift that arises from scattering off the potential. Here our interest is in the contributions that come specifically from the resonance, so we’ll set θ = 0. From (6.53), we have
+
+(E −E₀)² −Γ²/4   Γ² cos 2δ = 0  ⇒  sin²δ = ─────────────────  =  ────────────── (E −E₀)² +Γ²/4   4(E −E₀)² +Γ²
+
+From this we can read off the contribution to the total cross-section using (6.36). If the pole occurs for a partial wave with angular momentum l, we have
+
+4π   Γ² σ ≈ (2l+1) ────────── T k² 4(E −E₀)² +Γ²
+
+This distribution is plotted in the figure, with E = 4 and Γ² = 2 and 15. (Remember that there is an extra factor of E sitting in the k² in the formula above). It is called the Breit-Wigner distribution, or sometimes the Lorentzian distribution (although, strictly speaking, neither of these has the extra factor of 1/k²). It exhibits a clear peak at E = E₀, whose width is given by Γ/2. Comparing to our discussion in Section 6.1.5, we see that the lifetime of the resonance can be read off from the width of the peak: the narrower the peak, the longer lived the resonance.
+
+The Breit-Wigner distribution is something of an iconic image in particle physics because this is the way that we discover new particles. To explain this fully would require us to move to the framework of quantum field theory, but we can get a sense for what’s going on from what we’ve seen above. The key fact is that most particles in Nature are not stable. The exceptions are the electron, the proton, neutrinos and photons. All other decay with some lifetime τ. When we collide known particles — typically electrons or protons — we can create new particles which, since they are unstable, show up as resonances. The energy E corresponds to the mass of the new particle through E = mc², while the lifetime is seen in the width, τ = 1/Γ.
+
+Two examples are shown in the figures. The left-hand figure shows the cross-section, now measured in pico-barns = 10⁻⁴⁰ m², for high-energy electron-positron scattering. We see a large resonance peak which sits at a centre of mass energy E ≈ 91 GeV with width Γ ≈ 2.5 GeV. Since we’re measuring the width in unit of energy, we need a factor of ℏ to convert to the lifetime
+
+τ = ℏ / Γ
+
+Using ℏ ≈ 6.6×10⁻¹⁶ eV·s, we find the lifetime of the Z-boson to be τ ≈ 3×10⁻²⁵ s. The right-hand figure shows the 2012 data from the discovery of the Higgs boson, with mass E ≈ 125 GeV. I should confess that the experiment doesn’t have the resolution to show the Breit-Wigner shape in this case. The best that can be extracted from this plot is a bound on the width of Γ < 17 MeV or so, while the true width is predicted by theory to be Γ ∼ 4 MeV.
+
+## 6.3 The Lippmann-Schwinger Equation
+
+So far, we’ve developed the machinery necessary to compute cross-sections, but our examples have been rather artificial. The interactions between particles do not look like spherical potential wells or shells of delta-functions. Instead, they are smooth potentials V(r), such as the Coulomb or Yukawa potentials. We would like to understand scattering in these more realistic settings.
+
+In principle, this is straightforward: you simply need to solve the relevant Schrödinger equation, impose regularity at the origin, and then read off the appropriate phase shifts asymptotically. In practice, the solution to the Schrödinger equation is rarely known analytically. (A counterexample to this is the Coulomb potential which will be discussed in Section 6.4.) In this section, we present a different approach to scattering that makes use of Green’s functions. This provides a platform to develop a perturbative approach to understanding scattering for potentials that we actually care about. Moreover, these Green’s functions methods also have applications in other areas of physics.
+
+Our starting point is the Schrödinger equation
+
+[ - (ℏ² / 2m) ∇² + V(r) ] ψ(r) = E ψ(r)  (6.54)
+
+We’ll briefly use a more formal description of this equation, in order to write the Lippmann-Schwinger equation in its most general form. We’ll then revert back to the form (6.54) which, for the purposes of these lectures, is all we really care about. With this in mind, we write the Schrödinger equation as
+
+(H₀ + V) |ψ⟩ = E |ψ⟩
+
+The idea here is that we’ve split the Hamiltonian up into a piece that is simple to solve – in this case H₀ = -ℏ²∇²/2m – and a more complicated piece, V. Trivially re-arranging this equation gives
+
+(E − H₀) |ψ⟩ = V |ψ⟩  (6.55)
+
+We can then formally re-arrange this equation once more to become
+
+|ψ⟩ = |ϕ⟩ + (E − H₀)⁻¹ V |ψ⟩  (6.56)
+
+Here |ϕ⟩ is a zero mode which obeys H₀ |ϕ⟩ = E |ϕ⟩. If (6.56) is multiplied by (E − H₀) then the state |ϕ⟩ is annihilated and we get back to (6.55). However, the inverse quantum operator (E − H₀)⁻¹ is somewhat subtle and, as we will see below, there is very often an ambiguity in its definition. This ambiguity is resolved by writing this inverse operator as (E − H₀ + iϵ)⁻¹, and subsequently taking...
+
+Taking the limit ϵ → 0+. We then write |ψ⟩ = |ϕ⟩+ V|ψ⟩ (6.57)
+
+E −H +iϵ
+
+This is the Lippmann-Schwinger equation. It is not really a solution to the Schrödinger equation(6.54)since|ψ⟩appearsonbothsides. ItismorearewritingoftheSchrödinger equation, but one which gives us a new way to move forward.
+
+The Green’s Function Let’s now write down the Lippmann-Schwinger equation for our Schrödinger equation (6.54). We want the inverse operator (E − H )−1. But this is precisely what we call the Green’s function G . It obeys E + ∇2 G (E;r,r′) = δ(r−r′)
+
+2m The formulae will be somewhat simpler if we scale out the factor ℏ2/2m. We write E = ℏ2k2/2m so that 2m (∇2 +k2) G (k;r,r′) = δ(r−r′) (6.58)
+
+ℏ2 0 We can solve for this Green’s function using the Fourier transform. First, we note that translational invariance ensures that G (k;r,r′) = G (k;r − r′). Then we define the Fourier transform 0 0 G ˜ (k;q) = ∫ d3x e−iq·xG (k;x) ⇒ G (k;x) = ∫ d3q/(2π)3 eiq·xG ˜ (k;q)
+
+0 0 0 0 Plugging this into our formula (6.58), we have 2m (−q2 +k2)G ˜ (k;q) = 1 ⇒ G ˜ (k;q) = ℏ2/(q2 −k2)
+
+ℏ2 0 0 So it’s simple to get the Green’s function in momentum space. Now we must invert it. We have G (k;x) = − 2m/ℏ2 ∫ d3q/(2π)3 eiq·x/(q2 −k2)
+
+Here we run into the ambiguity that we promised above. When we do the integral over q, we run into a singularity whenever q2 = k2. To define the integral, when we integrate over q = |q|, we should define a contour in the complex q plane which skips around the pole. We do this through the so-called “iϵ prescription” which, as the name suggests, replaces the integral with G+(k;x) = − 2m/ℏ2 ∫ d3q/(2π)3 eiq·x/(q2 −k2 −iϵ)
+
+Where we subsequently take ϵ → 0+. This shifts the pole slightly off the real q axis.
+
+The simplest way to do this integral is to go to polar coordinates for the q variable. We have G+(k;x) = − 2m/ℏ2 (2π)3 ∫_0^{2π} dϕ ∫_{-1}^{+1} d(cosθ) ∫_0^{∞} dq q^2 e^{iqx cosθ}/(q^2 −k^2 −iϵ)
+
+= − 2m/ℏ2 (2π)2 ∫_0^{∞} dq (q/ix) (e^{iqx} − e^{−iqx})/(q^2 −k^2 −iϵ)
+
+= − 2m/ℏ2 (2π)2 (1/ix) ∫_{-∞}^{∞} dq q e^{iqx}/[(q −k −iϵ)(q +k +iϵ)]
+
+where we’re allowed to factorise the denominator in this way, with k > 0, only because we’re ultimately taking ϵ → 0+. We can now complete the derivation by contour integral. Since x > 0, we can complete the contour in the upper half-plane, picking up the residue from the pole at q = k+iϵ. This gives our final answer, G+(k;r−r′) = − 2m/ℏ2 e^{+ik|r−r′|}/(4π|r−r′|) (6.59)
+
+Note that had we chosen to add +iϵ rather than −iϵ to the denominator, we would find the alternative Green’s function G−(k;x) ∼ e^{−ikx}/(4πx). We will justify the choice of G+ below.
+
+Our Lippmann-Schwinger Equation To finally write down the Lippmann-Schwinger equation, we need to determine the state |ϕ⟩ which is annihilated by E − H . But, for us, this is simply the plane wave solution ϕ(r) = e^{ik·r} We can now write the formal Lippmann-Schwinger equation (6.57) in more concrete form. It becomes ψ(k;r) = e^{ik·r} − 2m/ℏ2 ∫ d3r′ V(r′) e^{+ik|r−r′|}/(4π|r−r′|) ψ(k;r′) (6.60)
+
+It is simple to check that acting on this equation with the operator (∇2 +k2) indeed brings us back to the original Schrödinger equation (6.54). The Lippmann-Schwinger equation is an integral equation, a reformulation of the more familiar Schrödinger differential equation. It is not solution to the Schrödinger equation because we still have to figure out what ψ is. We’ll offer a strategy for doing this in Section 6.3.1.
+
+The equation (6.60) has a very natural interpretation. The first term is simply the ingoing wave with momentum ℏk. The second term is the scattered wave. Note that the factor e^{ik|r−r′|} tells us that this wave is moving outwards from the point r′. Had we instead chosen the Green’s function G−, we would have found a wave moving inwards from infinity of the form e^{−ik|r−r′|}. This is unphysical. This is the reason that we pick the −iϵ prescription rather than +iϵ.
+
+To make contact with our earlier discussion of scattering, we look at the asymptotic form of this outgoing wave at r → ∞. For this to work, we’ll assume that V(r′) has support only in some finite region. We can then take the limit r ≫ r′ and expand |r−r′| = √(r^2 −2r·r′ +r′^2) ≈ r − (r·r′)/r With V(r′) localised within some region, it makes sense to perform this expansion inside the integral. In this approximation the Green’s function (6.59) can be written as G+(k;r−r′) ≈ − 2m/ℏ2 e^{ikr}/(4πr) e^{−ik̂r·r′} and the Lippmann-Schwinger equation then becomes ψ(k;r) ∼ e^{ik·r} − 2m/ℏ2 [∫ d3r′ e^{−ik̂r·r′} V(r′) ψ(k;r′)] e^{ikr}/(4πr)
+
+Although we derived this by assuming that V(r) has compact support, we can actually be a little more relaxed about this. The same result holds if we require that V(r′) → 0 suitably quickly as r′ → ∞. Any potential which falls off exponentially, or as a power-law V(r) ∼ 1/r^n with n ≥ 2, can be treated in this way. Note, however, that this excludes the Coulomb potential. We will deal with this separately in Section 6.4.
+
+If we set the ingoing wave to be along the z-axis, \( \mathbf{k} = k\hat{z} \), then this takes the asymptotic form (6.25) that we discussed previously \[ \psi(\mathbf{r}) \sim e^{ikz} + f(\theta, \phi) \frac{e^{ikr}}{r} \tag{6.61} \]
+
+The upshot of this analysis is that we identify the scattering amplitude as \[ f(\theta, \phi) = -\frac{2m}{\hbar^2} \frac{1}{4\pi} \int d^3r' \, e^{-ik\hat{\mathbf{r}}\cdot\mathbf{r}'} V(\mathbf{r}') \psi(\mathbf{k}; \mathbf{r}')
+
+\]
+
+where \( \theta \) and \( \phi \) are the usual polar angles such that \( \hat{\mathbf{r}} = (\sin\theta\cos\phi, \sin\theta\sin\phi, \cos\theta) \).
+
+This gives a simple way to compute the scattering amplitude, but only if we already know the form of the wavefunction \( \psi(\mathbf{r}') \) in the scattering region where \( V(\mathbf{r}') \neq 0 \). Our next task is to figure out how to compute \( \psi(\mathbf{r}') \).
+
+An Equation for Bound States Above we’ve focused on scattering states with energy \( E = \hbar^2k^2/2m > 0 \). However, it is not difficult to repeat everything for bound states with energy \( E = -\hbar^2\lambda^2/2m \). Indeed, in this case there is no ambiguity in the definition of the Green’s function. We find that bound states must obey the integral equation \[ \psi(\mathbf{r}) = \frac{2m}{\hbar^2} \frac{1}{4\pi} \int d^3r' \, \frac{e^{-\lambda|\mathbf{r}-\mathbf{r}'|}}{|\mathbf{r}-\mathbf{r}'|} V(\mathbf{r}') \psi(\mathbf{r}')
+
+\]
+
+We won’t attempt to solve this equation; instead our interest will focus on the Lippmann-Schwinger equation for scattering states (6.60).
+
+6.3.1 The Born Approximation In this section we describe a perturbative solution to the Lippmann-Schwinger equation, \[ \psi(\mathbf{k}; \mathbf{r}) = e^{i\mathbf{k}\cdot\mathbf{r}} + \int d^3r' \, G^+(\mathbf{k}; \mathbf{r}-\mathbf{r}') V(\mathbf{r}') \psi(\mathbf{k}; \mathbf{r}') \tag{6.62} \]
+
+This solution is known as the Born series.
+
+We write \( \psi \) as a series expansion \[ \psi(\mathbf{r}) = \sum_{n=0}^{\infty} \phi_n(\mathbf{r}) \tag{6.63} \]
+
+where we take the leading term to be the plane wave \[ \phi_0(\mathbf{r}) = e^{i\mathbf{k}\cdot\mathbf{r}} \]
+
+This series solves (6.62) if the \( \phi_n \) obey the recursion relation \[ \phi_{n+1}(\mathbf{r}) = \int d^3r' \, G^+(\mathbf{k}; \mathbf{r}-\mathbf{r}') V(\mathbf{r}') \phi_n(\mathbf{r}')
+
+\]
+
+We will not be very precise here about the convergence properties of this series. Roughly speaking, things will work nicely if the potential \( V \) is small, so each successive term is smaller than those preceding it.
+
+The Born approximation consists of taking just the leading order term \( \phi_0 \) in this expansion. (Strictly speaking this is the first Born approximation; the \( n \)th Born approximation consists of truncating the series at the \( n \)th term.) This is \[ \psi(\mathbf{r}) = e^{i\mathbf{k}\cdot\mathbf{r}} - \frac{2m}{\hbar^2} \frac{1}{4\pi} \left[ \int d^3r' \, e^{i\mathbf{q}\cdot\mathbf{r}'} V(\mathbf{r}') \right] \frac{e^{ikr}}{r} \tag{6.64} \]
+
+where \[ \mathbf{q} = \mathbf{k} - k\hat{\mathbf{r}} \]
+
+can be thought of as the momentum transferred from the incoming wave to the outgoing wave. With this in mind, it’s traditional to define the momentum of the outgoing wave to be \[ \mathbf{k}' = k\hat{\mathbf{r}} \]
+
+so that \( \mathbf{q} = \mathbf{k} - \mathbf{k}' \). Comparing the Born approximation (6.64) to the asymptotic form (6.61), we see that the scattering amplitude is simply the Fourier transform of the potential, \[ f(\theta, \phi) \approx f_0(\theta, \phi) = -\frac{2m}{\hbar^2} \frac{1}{4\pi} \left[ \int d^3r' \, e^{i\mathbf{q}\cdot\mathbf{r}'} V(\mathbf{r}') \right] \equiv -\frac{m}{2\pi\hbar^2} \tilde{V}(\mathbf{q})
+
+\]
+
+Note that the scattering amplitude is a function of \( \theta \) and \( \phi \), \( k \), but these variables are somewhat hidden in the notation of the right-hand side. They’re sitting in the definition of \( \mathbf{q} \), with \( \mathbf{k} \cdot \mathbf{k}' = k^2\cos\theta \), and the variable \( \phi \) determining the relative orientation as shown in the figure. As we’ve seen before, for a central potential \( V(\mathbf{r}) = V(r) \), the resulting scattering amplitude will be independent of \( \phi \). Because the angular variables are somewhat disguised, the scattering amplitude is sometimes written as \( f(\mathbf{k}, \mathbf{k}') \) instead of \( f(\theta, \phi) \). Indeed, we’ll adopt this notation in Section 6.5.
+
+Finally, the cross-section in the Born approximation is simply \[ \frac{d\sigma}{d\Omega} \approx |f_0|^2 = \left( \frac{m}{2\pi\hbar^2} \right)^2 |\tilde{V}(\mathbf{q})|^2 \tag{6.65} \]
+
+There’s some physics in this simple formula. Suppose that your potential has some short-distance structure on scales \( \sim L \). Then the Fourier transform \( \tilde{V}(q) \) is only sensitive to this when the momentum transfer is of order \( q \sim 1/L \). This is a manifestation of the uncertainty principle: if you want to probe short distance physics, you need high momentum transfer.
+
+6.3.2 The Yukawa Potential and the Coulomb Potential At long distances, the strong nuclear force between, say, a proton and a neutron is well modelled by the Yukawa potential \[ V(r) = \frac{Ae^{-\mu r}}{r} \]
+
+where \( 1/\mu \) is said to be the range of the force. We can compute the Fourier transform using the same kind of contour methods that we used in the previous section. We have \[ \tilde{V}(q) = \frac{4\pi A}{q^2 + \mu^2} \]
+
+Writing this in terms of the scattering angle \( \theta \), we recall that \( q = |\mathbf{k} - \mathbf{k}'| \) with \( \mathbf{k}' = k\hat{\mathbf{r}} \), so that \[ q^2 = 2k^2 - 2\mathbf{k}\cdot\mathbf{k}' = 2k^2(1 - \cos\theta) = 4k^2 \sin^2(\theta/2)
+
+\]
+
+If we translate from momentum \( k \) to energy \( E = \hbar^2k^2/2m \), then from (6.65), we have the leading order contribution to the cross-section for the Yukawa potential given by \[ \frac{d\sigma}{d\Omega} = \left( \frac{2Am}{\hbar^2} \right)^2 \frac{1}{(q^2 + \mu^2)^2} \tag{6.66} \]
+
+2µ² + 8mE sin²(θ/2)
+
+This is shown in the left-hand figure (for values A = m = ℏµ = 1 and E = 1/4).
+
+An Attempt at Rutherford Scattering It’s tempting to look at what happens when µ → 0, so that the Yukawa force becomes the Coulomb force. For example, for electron-electron or proton-proton scattering, the strength of the Coulomb force is A = e²/4πϵ. In this case, the cross-section (6.66) becomes, dσ/dΩ = (1/(4E sin⁴(θ/2)))² (6.67)
+
+This is shown in the right-hand figure (with the same values). Note that there is an enhancement of the cross-section at all scattering angles, but a divergence at forward scattering.
+
+Rather remarkably, the quantum result (6.67) agrees with the classical cross-section that we found in (6.22)! This is a surprise and is special to the Coulomb potential. Rutherford was certainly a great scientist but, like many other great scientists before him, he had his fair share of luck.
+
+In fact, Rutherford’s luck ran deeper than you might think. It turns out that the Born approximation is valid for the Yukawa potential in certain regimes, but is never valid for the Coulomb potential! The difficulty stems from the long range nature of the Coulomb force which means that the plane wave solutions ϕ ∼ eⁱᵏ·ʳ are never really good approximations to the asymptotic states. We will describe the correct treatment of the Coulomb potential in Section 6.4 where we will see that, although our approximation wasn’t valid, the result (6.67) is correct after all.
+
+6.3.3 The Born Expansion One can continue the Born expansion to higher orders. In compressed notation, the solution (6.63) takes the form ψ = ϕ + G⁺Vϕ + G⁺VG⁺Vϕ + G⁺VG⁺VG⁺Vϕ + ...
+
+This has a natural interpretation. The first term describes the incident plane wave which doesn’t scatter at all. The second term describes the wave scattering once off the potential, before propagating by G⁺ to the asymptotic regime. The third term describes the wave scattering off the potential, propagating some distance by G⁺ and then scattering for a second time before leaving the region with the potential. In general, the term with n copies of V should be thought of as the wave scattering n times from the potential region.
+
+There’s a useful diagrammatic way to write the resulting scattering amplitude. It is given by f(k, k′) = (k′−k)⁻¹ + (k′−q)(q−k)⁻¹ + ...
+
+Each diagram is shorthand for an integral. Every black dot describes an insertion p = Ũ(p), while each line describes an insertion of (q²−k²−iϵ)⁻¹. Meanwhile, for each internal line we include the integral (1/4π) ∫ d³q/(2π)³. Although we’re dealing with wave scattering, it’s tempting to think of the lines as describing the trajectory of a particle. Indeed, this diagrammatic picture is a precursor to Feynman diagrams that occur in quantum field theory, where there’s a much closer connection to the underlying particles.
+
+## 6.4 Rutherford Scattering
+
+“How can a fellow sit down at a table and calculate something that would take me – me – six months to measure in a laboratory?” Ernest Rutherford
+
+Historically, some of the most important scattering problems in particle physics involved the Coulomb potential. This is the problem of Rutherford scattering. Yet, as we mentioned above, none of the techniques that we’ve mentioned so far are valid for the Coulomb potential. This is mitigated somewhat by the fact that we get the right answer whether we work classically (6.22) or using the Born approximation (6.67). Nonetheless, this is a little unsatisfactory. After all, how do we know that this is the right answer!
+
+Here we show how to do Rutherford scattering properly. We want to solve the Schrödinger equation (−ℏ²/2m ∇² + A/r) ψ(r) = Eψ(r)
+
+where A > 0 for repulsive interactions and A < 0 for attractive interactions. It will prove useful to rewrite this as (∇² + k² − 2γk/r) ψ(r) = 0 (6.68)
+
+where, as usual, E = ℏ²k²/2m while γ = mA/ℏ²k is a dimensional parameter which characterises the strength of the Coulomb force.
+
+The Asymptotic Form of the Wavefunction Let’s start by understanding what the wavefunctions look like asymptotically. Repeating the analysis of Section 6.2.3, the radial wavefunction Rₗ(r) satisfies (d²/dr² + (2/r) d/dr + k² − l(l+1)/r² − 2γk/r) Rₗ(r) = 0 Already here we can see what the issue is. At large distances, r → ∞, the Coulomb force is more important than the angular momentum barrier. We saw in previous sections that when γ = 0, the asymptotic form of the wavefunction is given by Rₗ(r) = e±ikr/r regardless of the value of l. However, when γ ≠ 0 we have to revisit this conclusion. With the previous solution in mind, we will look for solutions which asymptotically take the form Rₗ(r) ∼ e±ikr+g(r)/r for some function g(r). Inserting this ansatz, we find that g(r) must satisfy d²g/dr² ± 2ik (dg/dr) + (dg/dr)² = 2γk/r But, for now, we care only about the a asymptotic expression where the left-hand side is dominated by the last term. We then have
+
+dg/dγ ≈ i as r → ∞
+
+which is solved, up to some constant, by g = -iγ log(kr). Clearly this diverges as r → ∞ and so should be included in the asymptotic form. We learn that asymptotically the radial wavefunctions take the form
+
+R(r) ∼ e^±i(kr - γ log(kr))
+
+This extra logarithm in the phase of the wavefunction means that the whole framework we described previously needs adjusting.
+
+Note that this same analysis tells us that our previous formalism for scattering works fine for any potential V(r) ∼ 1/r^n with n ≥ 2. It is just the long-range Coulomb potential that needs special treatment.
+
+6.4.1 The Scattering Amplitude
+
+To compute the amplitude for Rutherford scattering, we don’t need any new conceptual ideas. But we do need to invoke some technical results about special functions. This is because the solution to the Schrödinger equation (6.68) can be written as
+
+ψ(r) = e^(ik·r) e^(-πγ/2) Γ(1+iγ) F₁(-iγ; 1; i(kr - k·r))
+
+where F₁(a;b;w) is the confluent hypergeometric function, defined by the series expansion
+
+F₁(a;b;w) = 1 + (a/b)w + [a(a+1)/(b(b+1) 2!)] w^2 + [a(a+1)(a+2)/(b(b+1)(b+2) 3!)] w^3 + ...
+
+We won’t prove that this is a solution to the Schrödinger equation. Moreover, the only fact we’ll need about the hypergeometric function is its expansion for large |w|. For our solution, this is an expansion in 1/(kr - k·r) and so is valid at large distance, but not along the direction of the incident beam k. If we take k = kzẑ, we have
+
+ψ(r) ∼ [γ Γ(1+iγ) / (k(r-z) Γ(1-iγ))] e^(ikz + iγ log(k(r-z))) - e^(ikr - iγ log(k(r-z))) + ...
+
+where the +... are corrections to both terms which are suppressed by 1/k(r-z). This is now very similar to our usual asymptotic form (6.61), but with the corrected phases. The first term describes the ingoing wave, the second term the scattered outgoing wave. We can therefore write
+
+ψ(r) ∼ e^(ikz + iγ log(k(r-z))) + f(θ) [e^(ikr - iγ log(k(r-z))) / r]
+
+where the scattering amplitude is given by
+
+f(θ) = -γ / (k Γ(1-iγ)) * Γ(1+iγ)/(r-z) = -γ / (2k Γ(1-iγ) sin^2(θ/2))  (6.69)
+
+We learn that the cross-section is
+
+dσ/dΩ = |f(θ)|^2 = (mA / (2ℏ^2 k^2))^2 * 1/sin^4(θ/2)
+
+This is the same result as we saw using the invalid Born approximation (6.67) and the same result that we saw from a classical analysis (6.22). This shouldn’t give you the wrong idea. In most situations if you use the wrong method you will get the wrong answer! The Coulomb potential is an exception.
+
+Recovering the Hydrogen Atom
+
+There’s a rather nice exercise we can do with the scattering amplitude (6.69). When γ < 0, the Coulomb potential is attractive and has bound states. Moreover, these bound states are simply those of the hydrogen atom that we met in our first course on quantum mechanics. From our earlier analysis, we should be able to recover this from the poles in the scattering amplitude.
+
+These arise from the gamma function Γ(z) which has no zeros, but has poles at z = 0, -1, -2, ... . The scattering amplitude therefore has poles when
+
+1+iγ = -(n-1)  ⇒  k = -i (mA / (ℏ^2 n))  with n = 1,2,3,...
+
+For an attractive potential with A < 0, these poles lie along the positive imaginary k-axis, as they should. We see that they correspond to bound states with energy
+
+E_n = ℏ^2 k^2 / (2m) = - mA^2 / (2ℏ^2 n^2)
+
+This, of course, is the familiar spectrum of the hydrogen atom.
+
+## 6.5 Scattering Off a Lattice
+
+Finally, we come to an important question: how do we know that solids are made of lattices? The answer, of course, is scattering. Firing a beam of particles — whether neutrons, electrons or photons in the X-ray spectrum — at the solid reveals a characteristic diffraction pattern. Our goal here is to understand this within the general context of scattering theory.
+
+Our starting point is the standard asymptotic expression describing a wave scattering off a central potential, localised around the origin,
+
+ψ(r) ∼ e^(ik·r) + f(k; k̂') e^(ikr) / r  (6.70)
+
+Here we’re using the notation, introduced in earlier sections, of the scattered momentum k' = k̂r. The idea here is that if you sit far away in the direction r̂, you will effectively see a wave with momentum k'. We therefore write f(k,k') to mean the same thing as f(k;θ,φ).
+
+Suppose now that the wave scatters off a potential which is localised at some other position, r = R. Then the equation (6.70) becomes
+
+ψ(r) ∼ e^(ik·(r-R)) + f(k,k') e^(ik|r-R|) / |r-R|
+
+For r → ∞, we can expand
+
+|r-R| = √(r² + R² - 2r·R) ≈ r√(1 - 2r·R/r²) ≈ r - r̂·R
+
+We then have
+
+ψ(r) ∼ e^(-ik·R) [e^(ik·r) + f(k,k') e^(-i(k' - k)·R) e^(ikr) / r]  (6.71)
+
+The overall factor is unimportant, since our interest lies in the phase shift between the incident wave and the scattered wave. We see that we get an effective scattering amplitude
+
+f_eff(k; r̂) = f(k,k') e^(iq·R)
+
+where we have defined the transferred momentum
+
+q = k - k'
+
+Now let’s turn to a lattice of points Λ. Ignoring multiple scatterings, the amplitude is simply the sum of the amplitudes from each lattice point
+
+f_eff(k,k') = f(k,k') Σ_{R∈Λ} e^(iq·R)  (6.72)
+
+The sum Δ(q) = Σ e^(iq·R) has the nice property that it vanishes unless q lies in the reciprocal lattice Λ⋆. This is simple to see: since we have an infinite lattice it must be true that, for any vector R ∈ Λ, ∆(q) ≡ ∑_{R∈Λ} e^{iq·R} = ∑_{R∈Λ} e^{iq·(R−R0)} = e^{−iq·R0}∆(q)
+
+This means that either e^{−iq·R0} = 1 or ∆(q) = 0. The former result is equivalent to the statement that q ∈ Λ⋆. More generally, ∑_{R∈Λ} e^{iq·R} ≡ ∆(q) = V⋆ δ(q−Q) (6.73)
+
+where V⋆ is the volume of the unit cell of Λ⋆. We see that ∆(q) is very strongly (formally, infinitely) peaked on the reciprocal lattice. (We met this same sum when discussing lattices in Lectures on Solid State Physics.)
+
+The upshot of this discussion is a lovely result: there is scattering from a lattice if and only if k−k′ ∈ Λ⋆ (6.74)
+
+This is known as the Laue condition. If the scattered momentum does not satisfy this condition, then the interference between all the different scattering sites results in a vanishing wave. Only when the Laue condition is obeyed is this interference constructive.
+
+Figure 49: The Ewald sphere.
+
+Alternatively, the Laue condition can be viewed as momentum conservation, with the intuition that the lattice can only absorb momentum in Λ⋆.
+
+Solutions to the Laue condition are not generic. If you take a lattice with a fixed orientation and fire a beam with fixed k, chances are that there are no solutions to (6.74). To see this, consider the reciprocal lattice as shown in the left-hand panel of the figure. From the tip of k draw a sphere of radius k. This is sometimes known as the Ewald sphere and its surface gives the possible transferred momenta q = k − k′. There is scattering only if this surface passes through a point on the reciprocal lattice. To get scattering, we must therefore either find a way to vary the incoming momentum k, or find a way to vary the orientation of the lattice. But when this is achieved, the outgoing photons k′ = k̂r sit only at very specific positions. In this way, we get to literally take a photograph of the reciprocal lattice! The resulting diffraction pattern for salt (NaCl) which has a cubic lattice structure is shown in the right-hand panel. The four-fold symmetry of the reciprocal lattice is clearly visible.
+
+Figure 50: Salt.
+
+6.5.1 The Bragg Condition There is an equivalent phrasing of the Laue condition in real space. Suppose that the momentum vectors obey k−k′ = Q ∈ Λ⋆ Since Q is a lattice vector, so too is nQ for all n ∈ Z. Suppose that Q is minimal, so that nQ is not a lattice a vector for any n < 1. Defining the angle θ by k·k′ = k^2 cosθ, we can take the square of the equation above to get 2k^2(1−cosθ) = 4k^2 sin^2(θ/2) = Q^2 ⇒ 2ksin(θ/2) = Q Figure 51: A quasi-crystal.
+
+We can massage this further. The vector Q ∈ Λ⋆ defines a set of parallel planes in Λ. Known as Bragg planes, these are labelled by an integer n and defined by those a ∈ Λ which obey a·Q = 2πn. The distance between successive planes is d = 2π/|Q| Furthermore, the wavevector k corresponds to a wavelength λ = 2π/k. We learn that the Laue condition can be written as the requirement that λ = 2dsin(θ/2)
+
+Repeating this argument for vectors nQ with n ∈ Z, we get nλ = 2dsin(θ/2)
+
+This is the Bragg condition. It has a simple interpretation. For n = 1, we assume that the wave scatters off two consecutive planes of the lattice, as shown in the figure. The wave which hits the lower plane travels an extra distance of 2x = 2dsin(θ/2). The Bragg condition requires this extra distance to coincide with the wavelength of light. In other words, it is the statement that waves reflecting off consecutive planes interfere constructively.
+
+Figure 52: DNA, Photograph 51.
+
+Figure 53: The Bragg condition gives us licence to think about scattering of light off planes in the lattice, rather than individual lattice sites. Moreover, it tells us that the wavelength of light should be comparable to the atomic separation in the crystal. This means x-rays. The technique of x-ray crystallography was pioneered by Max von Laue, who won the 1914 Nobel prize. The Bragg law was developed by William Bragg, a fellow of Trinity and director of the Cavendish. He shared the 1915 Nobel prize in physics with his father, also William Bragg, for their development of crystallographic techniques. X-ray crystallography remains the most important technique to determine the structure of materials. Two examples of historical interest are shown in the figures. The picture on the left is something of an enigma since it has five-fold symmetry. Yet there are no Bravais lattices with this symmetry! The diffraction pictures is revealing a quasi-crystal, an ordered but non-periodic crystal. The image on the right was taken by Rosalind Franklin and is known as “photograph 51”. It provided a major, and somewhat controversial, hint to Crick and Watson in their discovery of the structure of DNA.
+
+6.5.2 The Structure Factor Many crystals are described by a repeating ground of atoms, which each group sits on a an underlying Bravais lattice Λ. The atoms in the group are displaced from the vertex of the Bravais lattice by a vector d. We saw several examples of this in the Lectures on Solid State Physics. In such a situation, the scattering amplitude (6.72) is replaced by f(k,k′) = ∆(q)S(q)
+
+where S(q) = f(k,k′)eiq·di lattice We have allowed for the possibility that each atom in the basis has a different scattering amplitude f(k,k′). The function S(q) is called the geometric structure factor.
+
+An Example: BCC Lattice As an example, consider the BCC lattice viewed as a simple cubic lattice of size a, with two basis vectors sitting at d1 = 0 and d2 = a(1,1,1). If we take the atoms on the points d1 and d2 to be identical, then the associated scattering amplitudes are also equal: f1 = f2 = f.
+
+We know that the scattering amplitude is non-vanishing only if the transferred momentum q lies on the reciprocal lattice, meaning q = (n1, n2, n3) 2π/a, ni ∈ ℤ This then gives the structure factor S(q) = f(eiq·d1 + eiq·d2)
+
+= f(1 + eiπ∑ni) = { 2f  for ni even, 0  for ni odd } We see that not all points in the reciprocal lattice Λ⋆ contribute. If we draw the reciprocal, simple cubic lattice and delete the odd points, as shown in the right-hand figure, we find ourselves left with a FCC lattice. (Admittedly, the perspective in the figure isn’t great.) But this is exactly what we expect since it is the reciprocal of the BCC lattice.
+
+Another Example: Diamond A diamond lattice consists of two, interlaced FCC lattices with basis vectors d1 = 0 and d2 = a(1,1,1). An FCC lattice has reciprocal lattice vectors b1 = (2π/a)(−1,1,1), b2 = (2π/a)(1,−1,1) and b3 = (2π/a)(1,1,−1). For q = ∑ ni bi, the structure factor is S(q) = f(1 + ei(π/2)∑ni) = { 2f  for ∑ni = 0 mod 4, f(1+i)  for ∑ni = 1 mod 4, 0  for ∑ni = 2 mod 4, f(1−i)  for ∑ni = 3 mod 4 }
+
+6.5.3 The Debye-Waller Factor So far, we’ve treated the lattice as a fixed, unmoving object. But this is not realistic: the underlying atoms can move. We would like to know what effect this has on the scattering off a lattice.
+
+Let’s return to our result (6.72) for the scattering amplitude off a Bravais lattice Λ, f(k,k′) = f(k,k′) eiq·Rn where f(k,k′) is the amplitude for scattering from each site, q = k−k′, and Rn ∈ Λ. Since the atoms can move, the position Rn are no longer fixed. We should replace Rn → Rn + un(t)
+
+where un describes the deviation of the lattice from equilibrium. In general, this deviation could arise from either thermal effects or quantum effects. In keeping with the theme of these lectures, we will restrict to the latter. But this is conceptually interesting: it means that the scattering amplitude includes the factor ∆̃(q) = eiq·Rneiq·un which is now a quantum operator. This is telling us something important. When a particle – whether photon or neutron – scatters off the lattice, it can now excite a phonon mode. The scattering amplitude is a quantum operator because it includes all possible end-states of the lattice.
+
+This opens up a whole slew of new physics. We could, for example, now start to compute inelastic scattering, in which the particle deposits some energy in the lattice. Here, however, we will content ourselves with elastic scattering, which means that the lattice sits in its ground state |0⟩ both before and after the scattering. For this, we need to compute ∆̃(q) = eiq·Rn⟨0|eiq·un(t)|0⟩ (6.75)
+
+To proceed, we need to import some results from our discussion of phonons in the Lectures on Solid State Physics. For simplicity, let’s consider a simple cubic lattice so that the matrix element above factorises into terms in the x, y and z direction. For each of these, we can use the formalism of one-dimensional lattice, in which we write the Fourier expansion of the displacement as un(t) = X0(t) + ∑_{l≠0} √(ℏ / (2mωlN)) a_l e−i(ωl t−k l na) + a†l ei(ωl t−k l na) (6.76)
+
+where ωl is the natural frequency at which the lth atom oscillates.
+
+The normalisation ℏ/(2mωlN) is for later convenience. Note the presence of ℏ: this reflects the fact that the advertised convenience only becomes apparent in the quantum theory. This means that we treat the displacement un as a quantum operator. Correspondingly, we must also treat X0, al and a†l as quantum operators. The normalisation factor ensures that the usual position-momentum commutation relations for un and u̇n translate into simple commutation relations for al and a†l, [al, a†l′] = δl,l′  and [al, al′] = [a†l, a†l′] = 0 These are the familiar creation and annihilation operators of the harmonic oscillator. The interpretation is that a†l creates a phonon of momentum k and frequency ωl(k). More details of t This can be found in the phonon section of the Lectures on Solid State Physics.
+
+Now we are in a position to compute (6.75). The matrix element ⟨0|eiq·un|0⟩ is independent of time and is also translationally invariant. This means that we can evaluate it at t = 0 and at the lattice site n = 0. For a one-dimensional lattice with N sites, the expansion (6.76) gives u = Σ_{k≠0} sqrt(ℏ/(2mNω(k))) (a(k)+a†(k)) ≡ A+A† The operators A and A† then obey [A,A†] = Σ_{k≠0} ℏ/(2mNω(k))
+
+Our goal now is to compute ⟨0|eiq(A+A†)|0⟩. For this we use the BCH formula, eiq(A+A†) = eiqA†eiqAe^{1q2[A†,A]} But the ground state of the lattice is defined to obey a |0⟩ = 0 for all l. This means that eiqA|0⟩ = |0⟩. We end up with the result ⟨0|eiq·u0|0⟩ = e^{−W(q)} where W(q) = Σ_k ℏq²/(4mNω(k))
+
+This is called the Debye-Waller factor. We see that the scattering amplitude becomes f (k,k′) = e^{−W(q)}f(k,k′)∆(q)
+
+Note that, perhaps surprisingly, the atomic vibrations do not broaden the Bragg peaks away from q ∈ Λ⋆. Instead, they only diminish their intensity.

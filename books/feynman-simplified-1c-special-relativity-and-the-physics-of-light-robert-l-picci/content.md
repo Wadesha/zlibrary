@@ -1,0 +1,2516 @@
+# Feynman Simplified 1C Special Relativity and the Physics of Light Robert L Piccioni Z Library
+
+> 来源文件：pre_Feynman_Simplified_1C_Special_Relativity_and_the_Physics_of_Light_Robert_L_Piccioni_Z_Library.txt
+> 字符数（约）：286137
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Feynman Simplified 1C: Special Relativity and the Physics of Light Everyone’s Guide to the Feynman Lectures on Physics by Robert L. Piccioni, Ph.D.
+
+Copyright © 2014 by Robert L. Piccioni Published by Real Science Publishing 3949 Freshwind Circle Westlake Village, CA 91361, USA Edited by Joan Piccioni Visit our web site www.guidetothecosmos.com Everyone’s Guide to the Feynman Lectures on Physics Feynman Simplified gives mere mortals access to the fabled Feynman Lectures on Physics.
+
+This Book Feynman Simplified: 1C covers about a quarter of Volume 1, the freshman course, of The Feynman Lectures on Physics. The topics we explore include: Einstein’s Theory of Special Relativity The Principle of Relativity What Motivated Special Relativity?
+
+The Lorentz Transformation Length Contraction & Time Dilation E=mc2 & Simultaneity Light Cones & Causality Paradoxes, Puzzles, & Philosophy The Physics of Light, including: Geometric Optics The Principle of Least Time Interference & Diffraction Feynman Sum Over Histories Refraction & Polarization Electromagnetic Radiation Light Scattering Relativistic Effects on Light To find out about other eBooks in the Feynman Simplified series, click HERE.
+
+I welcome your comments and suggestions. Please contact me through my WEBSITE.
+
+If you enjoy this eBook please do me the great favor of rating it on Amazon.com or BN.com.
+
+Table of Contents
+
+## Chapter 25: Development of Special Relativity
+
+## Chapter 26: Dynamics in Special Relativity
+
+## Chapter 27: Spacetime
+
+## Chapter 28: Relativity: Philosophy & Paradoxes
+
+## Chapter 29: Special Relativity Review
+
+## Chapter 30: Geometric Optics
+
+## Chapter 31: Wave Properties of Light
+
+## Chapter 32: Electromagnetic Radiation
+
+## Chapter 33: Diffraction
+
+## Chapter 34: The Refractive Index
+
+## Chapter 35: Radiation Damping & Scattering
+
+## Chapter 36: Polarization
+
+## Chapter 37: Relativistic Effects
+
+## Chapter 38: Physics of Light Review
+
+## Chapter 25: Development of Special Relativity
+
+In V1p15-1, Feynman says: “For over 200 years the equations of motion enunciated by Newton were believed to describe nature correctly, and the first time that an error in these laws was discovered, the way to correct it was also discovered. Both the error and its correction were discovered by Einstein in 1905.” Einstein’s Special Theory of Relativity is one of the most beautiful and profound theories in physics. It is also the theory that is most comprehensively and precisely confirmed by countless experiments.
+
+The two fundamental principles from which all of special relativity derives are: Absolute velocity has no physical significance. The speed of light is the same for all observers.
+
+The first statement is the principle of relativity that we discussed earlier, but described differently. The concept of relativity originated with Galileo and was incorporated into Newton’s laws. The second statement is a shocking departure from Newtonian physics, and is due entirely to Albert Einstein.
+
+The Principle of Relativity V1p15-1 A comprehensive statement of the principle of relativity is: The same laws of nature apply to all observers moving at constant velocity. Absolute velocities have no significance, only relative velocities are physical meaningful.
+
+Einstein’s general relativity removes the requirement for constant velocities, stating that nature’s laws apply universally. General relativity supersedes Newtonian gravity and correctly describes the laws of nature in accelerating reference frames. (Due to its complex mathematics, general relativity is beyond the scope of this course, but an entirely accessible introduction is available in General Relativity 1: Newton vs Einstein.)
+
+Let’s explore what the principle of relativity means with several examples.
+
+Galileo observed that objects fall the same way on a moving ship as they do on land. The modern version of this might be: if you spill your coffee while “dining” in an airplane, it falls straight down onto your lap even though the plane is flying at 1000 km/hr. At first, it’s not surprising that coffee falls straight down; everything does. But consider how this looks from outside the airplane: the coffee isn’t just falling down, it’s also moving forward at 1000 km/hr along with everything else in the plane, even though nothing is pushing it forward as it falls. That would have surprised Aristotle.
+
+Consider another example: imagine two laboratories, each with a scientist and all the equipment they might desire. Stop! That’s impossible; make that “a lot of equipment.” Seal the labs so the scientists cannot see anything or measure anything outside their own lab. Then put each lab in its own airplane, with one flying west at 500 km/hr and the other flying east at 1000 km/hr, as shown in Figure 25-1 below.
+
+Figure 25-1 Scientists Can’t Measure Their Velocities The principle of relativity states there is no test or measurement the scientists can perform to determine their planes’ velocities. Every tests they make gives exactly the same results in both planes, as long as they cannot detect anything outside their labs. They could find their planes' speeds with GPS, but detecting an external signal is cheating. Relativity says all observers see the same physical phenomena, the same laws of nature, regardless of their own velocities, as long as their velocities are constant.
+
+Absolute velocity is not detectable. But we can detect when an object's velocity changes or when two objects have different velocities. If one of the above airplanes suddenly stops (let's not ask why), we could measure the velocity change (deceleration) with a pendulum. The pendulum would not hang straight down, it would tilt toward the plane's nose, just as airline passengers have the sensation of being pulled toward the front of the plane when the pilot hits the brakes after landing. Velocity changes are relative and they are physically meaningful and measurable. So are velocity differences; if we observe an airplane from the ground, we can measure its speed relative to us.
+
+It's a very good thing that the laws of nature don't depend on our "true" or "absolute" velocity, because we don't really know what that is. You might think that while you are sitting in a chair reading this eBook your velocity is zero, but is it? As Earth spins on its axis once daily, it carries us eastward at up to 1600 km/hr (1000 mph). As Earth orbits the Sun, we're being carried along at 100,000 km/hr. As the Sun orbits the Milky Way galaxy, we are moving at 800,000 km/hr. And we're moving at 1,400,000 km/hr through the cosmic microwave background (CMB) radiation, the first light of our universe. (Learn more about the CMB in Our Universe 3: CMB, Inflation, & Dark Matter.) So, how fast are you really moving?
+
+An observer moving with constant velocity — constant speed and direction — is said to be in an inertial frame. Any change in speed or direction is a change of velocity, which implies acceleration. Newton's laws of motion and special relativity are only valid in inertial frames. In inertial frames, physics is simpler, and who doesn't want simpler physics?
+
+Special relativity is "special" in that it applies only to special circumstances: those without accelerations. General relativity applies generally: to any state of motion.
+
+What Inspired Special Relativity?
+
+This section contains material not included in the Feynman Lectures.
+
+As we discussed earlier, before 1905, everyone believed that the mass of a body was constant, the same whether it was moving or not. This was consistent with all experiments of the day, and was assumed in Newton's laws. Einstein's theory made the astonishing claim that mass increases at high speeds. For "normal" speeds, the mass increase predicted by Einstein is extremely small, far below the weighing precision of the day. At 30,000 miles per hour, a body's mass increases by only one part per billion. There was no observational evidence to motivate a theory of mass increase.
+
+Einstein's motivation for special relativity was to make relativity and electromagnetism compatible. Einstein's worries were more philosophical: Maxwell had two equations for one problem. Consider the magnet and the wire shown in Figure 25-2. If the wire moves up, through a stationary magnetic field, an electric current is induced in the wire, according to one of Maxwell's equations. But, if the magnet moves down and the wire is stationary, the moving magnetic field creates an electric field that induces a current in the wire, according to a different one of Maxwell's equations. Both equations calculated the same current, so no one cared that there were two equations. No one, that is except Einstein.
+
+Figure 25-2 Magnet And Wire To Einstein, these were not two different problems; there was only one problem: a wire and a magnet move relative to one another. Einstein accepted the principle of relativity: only relative velocities have physical significance. Hence, it must make no difference whether the wire moved up or the magnet moved down. Since nature does not distinguish between the two, Einstein said neither should physicists. Einstein thought having two different equations for one problem was ugly, and he was sure nature was not ugly.
+
+Others had noted that the equations of electromagnetism weren't consistent with relativity. Recall the Galilean transformation, discussed in V1p15-2 and our Chapter 9, that allows us to translate coordinates measured in a stationary reference frame with those measured in a moving reference frame. Assume the two frames are perfectly aligned at time t=0, and the velocity of the moving frame is u in the +x-direction. If an object's position has value x in the stationary frame and value X in a moving reference frame, these quantities are related by: X = x – ut Additionally, the measured speed of any object moving in the x-direction will be different in these two frames, as shown by taking the time derivative of the above coordinates: dX/dt = dx/dt – u Newton’s laws are equally valid in both the stationary and moving reference frames. Indeed they are valid in any frame compatible with the Galilean transformation. This is because Newton’s laws do not specify any absolute positions and velocities; they depend only on relative positions and velocities. For example, in F=GMm/r², r is the distance between M and m, not the absolute position of either. Additionally, the equation tells us how much the velocities of M and m will change, not what their absolute values will be; nor does it depend on what the absolute velocities were.
+
+We describe this by saying: Newton’s laws are invariant under any Galilean transformation, and are therefore consistent with the principle of relativity. This makes it impossible to determine which frame is “actually” moving by observing any phenomenon of mechanics — forces, work, kinetic energy, gravitational potential energy, and such.
+
+However, Maxwell’s equations, developed in the 1860s, are not invariant under Galilean transformations. These transformations change the form of Maxwell’s equations. Maxwell’s equations are valid only in the frame in which light’s medium, the luminiferous ether, is stationary. It appeared that physicists would be forced to choose between two seemingly wonderful pillars of physics: the principle of relativity and Maxwell’s equations. Most physicists believed someone would one day detect the luminiferous ether, forcing everyone to accept that relativity is not a universal principle.
+
+Most physicists believed light required a medium, the luminiferous ether, to travel through. For more than a century, it had been well established that light was a wave phenomenon. Light exhibits interference and diffraction behaviors that are definitive signatures of wave behavior, both of which we’ll explore later in this eBook. All other waves were clearly the organized motions of some medium: ocean waves are the motion of water molecules; and sound waves are the motion of air molecules. What was the medium of light? What moved as light passed by? No one knew. This undiscovered medium was named the luminiferous ether, or simply ether, and physicists launched major efforts to find it.
+
+It was quite clear that this ether must fill the entire universe, because we can see the light of extremely distant galaxies. This is different from sound; since we can’t hear the sounds of stars and galaxies, no one claims the universe is filled with air (it isn’t). Hence, light and ether posed a new and unique situation.
+
+It was also clear that if the universe is filled with ether, we must be moving through it. People once thought Earth was the center of all existence, with everything revolving around us. Now we know that even our own galaxy is but a small part of a much vaster universe.
+
+We also know Earth is moving relative to everything else in the cosmos; it would be absurd to claim that the Earth isn’t moving through the ether, that somehow the ether moves in lock-step with Earth. As we move through light’s medium we should see light having different speeds in different directions. Why?
+
+Consider the following analogy. If a rock is thrown into a pond, ripples spread across the water moving out at the same speed in all directions. If a rock is thrown into a river, a person on the bank sees the ripples moving faster going downriver and slower going upriver, because the current carries everything downriver. If Earth moves through the ether we would see a “river” of ether flowing past us, and we would see light’s speed being higher going downriver than upriver.
+
+But Maxwell’s equations of electromagnetism (discussed in Volume 2) say the speed of light is a fixed number and is the same in all directions. Hence, Maxwell’s equations would be correct only in the frame in which the ether is not moving, which is not Earth’s frame. We could then measure our absolute velocity, our velocity relative to the ether, contradicting the principle of relativity. Ether would make Maxwell’s equations and relativity incompatible.
+
+Physicists set out to see if light’s speed really did vary. High precision, meticulous experiments measured light’s speed in different directions. They all found the same speed in all directions, day or night, and regardless of Earth’s position orbiting the Sun.
+
+Experiments generally cannot prove two quantities are exactly equal; there will always be limitations to the precision of our instruments. The most that experiments can say is that two quantities are equal within a specified level of precision. If we measure two meter-sticks, we might be able to say they are the same length to 1mm. With better instruments, we might be able to say they are equal to 0.001 mm, but we can never say they are exactly the same length. While exactitude is impossible, experimental physicists can sometimes achieve amazing levels of precision.
+
+Albert Michelson (1852 – 1931) and Edward Morley (1838 – 1923) perfo Perform the most famous of these experiments in 1887. Michelson developed the first interferometer, whose descendants are still the gold standard of precise optical measurements.
+
+Michelson’s interferometer, illustrated below, had two orthogonal arms, each with a mirror at its far end. He sent light back and forth along each arm and very precisely measured the difference in travel time along the two paths.
+
+Figure 25-3 Michelson-Morley Interferometer
+
+Next, Michelson rotated the entire interferometer, keeping the arms perpendicular. To minimize vibrations, the interferometer was placed on a large marble table that floated on a pool of mercury; fortunately scientists have since learned to avoid such toxic setups. He also watched his interferometer as Earth orbited the Sun, changing our motion relative to the purported ether river flowing by, as sketched in Figure 25-4.
+
+Figure 25-4 Ether “River” Flowing By Earth
+
+If ether did exist, the light travel times would have changed as the direction of the light beams rotated through the ether. However, Michelson and Morley found no changes in travel times to a precision of 1/40th of what was expected from Earth’s orbital speed — pretty impressive. Does this prove ether doesn’t exist?
+
+After Michelson and Morley published their dramatic result in 1887, theorists George FitzGerald (in 1889) and Hendrik Lorentz (in 1892) suggested that material objects were compressed as they passed through the ether. This became known as the Lorentz-FitzGerald contraction, or simply Lorentz contraction. Specifically, objects were foreshortened in the direction of motion as follows:
+
+L = L √(1–v2/c2)
+
+Here L is the shortened length at velocity v, and L is the length at zero velocity. While this equation gave the needed adjustment that “explained” Michelson-Morley’s null result (no light speed change moving through ether), it was widely seen as contrived, having no meaningful rationale, and invented solely to plug a hole.
+
+In 1905, Einstein’s Special Theory of Relativity provided a cogent and comprehensive understanding of why lengths appear to be contracted.
+
+In 1907, Michelson became the first American to receive a Nobel Prize in Physics. Surprisingly, despite being acclaimed for proving Earth was not in a “river” of ether, Michelson continued to believe that ether really did exist. Long after Einstein’s rejection of ether became widely accepted, Michelson struggled to understand how his marvelous experiment had gone wrong. The truth is, the experiment wasn’t wrong; it has been repeated and confirmed many times, with ever-greater precision. The latest experiments find light’s speed is the same in all directions to a precision of 1 part in a billion, billion.
+
+If ether does exist, why can’t we detect it?
+
+Einstein Understands Light
+
+This section contains material not in the Feynman Lectures.
+
+Einstein believed that the principle of relativity and Maxwell’s theory of electromagnetism were both too elegant to be wrong. He realized that if both were valid, it must be our understanding of light that is wrong. He became convinced that there was no ether and no preferred reference frame in which ether is stationary. Ether simply had to go.
+
+Einstein radically changed our understanding of light by discovering:
+
+Light is both a particle and a wave.
+
+Light has no medium, unlike all other waves.
+
+Light always travels at the same speed (through empty space).
+
+Einstein proclaimed that light is both a particle and a wave, which led to the concept of particle-wave duality, the fundamental principle of quantum mechanics, which we will discuss later in this course. The particles of light are called photons.
+
+Einstein also said that, unlike all other waves, light needs no medium, such as the luminiferous ether, to travel through; it is an electromagnetic wave that travels through empty space. Light is composed of electric and magnetic fields that oscillate — no physical object moves as light passes — as we will discuss later.
+
+For other types of waves, such as sound waves, the wave speed is determined by the properties of its medium. All sounds, whether from a human voice or an aircraft, move through air at the same speed, “the speed of sound”, about 1234 km/hr (768 mph) at sea level. The reason all sound waves travel at the same speed is that sound waves are the motion of air molecules, not the motion of the source: the person or aircraft.
+
+The wave speed is also fixed relative to its medium; sound waves move at 1234 km/hr in the reference frame in which the air is stationary.
+
+In Figure 25-5 lightning is observed by a stationary Einstein and two jets flying 1000 km/hr, the higher jet flying toward and the lower jet flying away from the lightning.
+
+Figure 25-5 Lightning & Three Observers
+
+Einstein observes the lightning’s thunder pass him at 1234 km/hr, while the upper jet will observe the thunder pass it at 1234 + 1000 = 2234 km/hr, and the lower jet will observe it pass at 1234 – 1000 = 234 km/hr.
+
+Before 1905, physicists believed Believed that our three observers would perceive the light flash from the lightning pass by them at different speeds, just as the sound waves do. But, Einstein declared that light waves are uniquely different; they have no material medium. Equivalently, we can consider the medium of light to be the vacuum of empty space. Since vacuum is at rest in every reference frame, Einstein reasoned, the speed of light has the same value in all frames, unlike every other type of wave.
+
+Einstein and both jets in Figure 25-5 observe the lightning’s flash pass them at the same speed, c, despite their differing velocities. This is a remarkable and unique property of light.
+
+With his theory of special relativity, Einstein proclaimed that the laws of nature were universal, the same for all observers in uniform motion, while measurements of certain quantities were relative, different for different observers. By “uniform” we mean non-accelerating. In his later theory of general relativity, Einstein was able to delete the words “in uniform motion,” extending the universality of nature’s laws to all observers regardless of their motion.
+
+So far we’ve discussed the speed of light through empty space, a perfect vacuum. Light’s speed through glass, water, or even air, is apparently less than c. This is because photons are absorbed and reemitted by atoms in these materials. Photons travel between atoms at speed c, but absorption and reemission introduce delays and reduce their average effective speed. This is a bit like racecars, whose average speed for an entire race is reduced by pit stops. We thoroughly explore this in Chapter 34.
+
+For convenience and to reduce clutter, throughout the rest of this course we will use natural units in which the speed of light in empty space c equals 1, and we will stop endlessly repeating “in empty space.” When presenting final results, we’ll restore the c’s.
+
+In this chapter and the next three, we’ll explore the remarkable consequences of Einstein’s postulates about light’s constant velocity and lack of medium.
+
+The Lorentz Transformation
+
+If we assume that the speed of light is the same in all reference frames (equal to 1), we must replace the Galilean transformation; we must derive a new rule.
+
+Let’s define two reference frames, now adding time as the fourth dimension: a stationary frame (t,x,y,z) and another frame (T,X,Y,Z) moving with relative velocity u in the +x-direction. Assume both frames match perfectly at (0,0,0,0). At some later time, the frames appear as shown in Figure 25-6.
+
+Figure 25-6 Two Reference Frames with Relative Motion
+
+Since space is homogenous, the transformation must be linear in each coordinate; any terms like x2 would result in different transformations in different locations. We also know that if the x-transform equation is modified at relativistic velocities, so must the t-transform equation, since dx/dt, the speed of a photon, must equal 1 in all frames. The most general linear transformation rule for motion in the x-direction is:
+
+X = A(x + Bt)
+
+T = D(t + Cx)
+
+Y = y Z = z
+
+where A, B, C, and D are constants to be determined. I’ll explain at the end of this section why Y and Z must be unchanged when the frames’ relative velocity is entirely in the x-direction. For u<<1, our new rule must approach the Galilean rule with B=–u, A=D=1, and C=0.
+
+Now consider an object moving at the same velocity as frame (T,X,Y,Z): it must be stationary in that frame, meaning X=0 for all T. In the stationary frame, that object’s motion equation is x=ut. Hence:
+
+0 = X = A(ut +Bt)
+
+So B must equal –u, and the general rule for X must be:
+
+X = A(x – ut)
+
+In any frame, the speed of light must equal 1. Hence in all frames, dx/dt = dX/dT for photons moving in either the +x or –x directions.
+
+dx/dt = dX/dT dx dT = dX dt dx D(dt + Cdx) = A(dx – udt) dt (D–A) dx dt + DC dx2 + Au dt2 = 0
+
+Since dx = ± dt, depending on whether a photon is moving in +x or –x, we get two equations:
+
+dx=+dt: +(D–A) + (DC+Au) = 0 dx=–dt: –(D–A) + (DC+Au)
+
+X = γ(x – ut)
+
+T = γ(t – ux/c²)
+
+Y = y Z = z with γ = 1/√(1–u²/c²)
+
+By assuming the constancy of the speed of light, we derived a transformation rule that makes Maxwell’s equations consistent with the principle of relativity.
+
+Now why are Y and Z unchanged by a Lorentz transformation in the x-direction? Consider the two identical space shuttles shown in Figure 25-7. Assume the upper shuttle moving at very high speed, passes the lower shuttle that is flying very slowly. Also assume that each shuttle’s wing tip just barely touches the other’s tail fin.
+
+Figure 25-7 Space Shuttles Passing The Principle of Relativity states that only relative velocities have physical meaning. Each crew sees the other shuttle passing at the same relative velocity, and must therefore have the same perception of the other shuttle. Both crews can unambiguously compare one another’s wing lengths and tail heights. The symmetry required by relativity would be broken if one shuttle’s wing were longer or its tail shorter. Thus the wing lengths and tail heights must appear equal to both crews for any combination of shuttle velocities. This means the Lorentz transformation cannot modify dimensions perpendicular to the velocity.
+
+Adding Velocities V1p16-4 Let’s use the Lorentz equations to determine how velocities transform.
+
+First, choose a frame and coordinates in which an object moves in the +x direction with velocity u, and is at x=0 at t=0. Its equation of motion is: x=ut. Next, choose a frame that is moving in the –x direction with velocity v relative to the first frame. What is the object’s velocity, call it w, as measured in the second frame?
+
+Since the object is moving toward +x and the second frame is moving toward –x, the object appears to be moving faster in the second frame; for non-relativistic velocities, w=u+v. Let’s do the relativistic calculation of w=dX/dT by transforming to the moving frame using the Lorentz equations with velocity –v: X = γ(x+vt) = γ(ut+vt)
+
+T = γ(t+vx) = γ(t+vut)
+
+w = dX/dT = (u+v)/(1+uv)
+
+This is the relativistic equation for the addition of collinear velocities u and v. As with all equations of special relativity, this one reduces to the Newtonian equivalent for velocities << 1, the speed of light. Here are some examples of adding relativistic velocities u and v: Now, let’s try adding velocities that are not collinear. Let the object’s velocity in the first frame be u in the +y direction. Thus, the equation of motion is y=ut, x=z=0. In the second frame, again moving with velocity v in the –x direction: X = γ(0+vt)
+
+Y = ut Z = 0 T = γ(t+0)
+
+So: dX/dT = v dY/dT = u/γ Thus, in the second frame, the object’s velocity is u/γ in the Y direction and v in the X direction.
+
+Here are some useful relationships involving γ = 1/√(1–u²): γ–² = 1 – u² 1 = γ² – γ² u² 1 + γ² u² = γ² γ–² = 1 – u² –2γ–³ dγ = –2u du γ–³ dγ = u du For u <<1, we can approximate γ as follows: γ ≈ 1/√(1 – u²)
+
+γ ≈ 1 + u²/2 + 3u⁴/8 + … For u close to 1, the speed of light, we can approximate γ as: γ-² = (1–u)(1+u)
+
+γ–² ≈ 2(1–u)
+
+## Chapter 25 Review: Key Ideas
+
+1. Absolute velocity has no physical significance; only relative velocities are meaningful.
+
+2. The principle of relativity: the same laws of nature apply to all observers in non-accelerating motion, regardless of their velocities. Having a constant velocity and or being in an inertial frame are equivalent descriptions of non-accelerating motion.
+
+3. Michelson-Morley proved luminiferous ether, the supposed medium of light, does not exist.
+
+4. Einstein demonstrated that relativity and electromagnetic theory are compatible only if light has no medium and always moves at the same speed: c.
+
+5. Maxwell’s equations of electromagnetism change form under Galilean transformations, but are invariant under the Lorentz transformation, which for relative velocity u in the +x-direction is: X = γ(x–ut)
+
+T = γ(t–ux/c²)
+
+Y = y Z = z
+
+## 6. The relativistic factor γ = 1/√(1–u²); γ² = 1 + γ² u²
+
+## 7. The sum w of collinear relativistic velocities u and v is: w= (u+v)/(1+uv)
+
+## Chapter
+
+Dynamics in Special Relativity In this chapter, we explore how Einstein’s postulate that the speed of light is constant affects measurements of time, distance, and mass, and the dynamics of momentum and energy.
+
+Time Dilation V1p15-5 Let’s first examine how the constancy of the speed of light impacts time. I’ve often mentioned that Einstein said: “Time is what a clock measures.” It’s time to put that quote to work. We’ll do a thought experiment suggested by Einstein. Einstein loved thought experiments; they were the only experiments he ever did. By avoiding real experiments, he was never exposed to high voltage shocks, liquid nitrogen burns, or ionizing radiation — in other words, all the things that made me the man I am today.
+
+In thought experiments, we eliminate messy real-world issues such as friction, focus on key principles, and imagine what nature would do in a decisive situation.
+
+To discover the impact of relativity on time, we need to i Imagine a perfect clock, one with no moving mechanical parts that wear, age, or vary with temperature. The ideal clock, Einstein said, has two parallel mirrors and one photon bouncing endlessly between them. This being a thought experiment, the mirrors are perfectly parallel and 100% reflective. We count “tick” when the photon hits the lower mirror and “tock” when it hits the upper mirror. Now imagine two identical photon clocks, as illustrated in Figure 26-1, with the right clock in a jet flying to the right at 90% of the speed of light (v=0.9). The photons travel along the dotted lines, and by convention are labeled with the lower case Greek letter gamma. (One must learn to infer from context whether γ means photon, specific heat ratio, or the Lorentz transformation factor.)
+
+Figure 26-1 Stationary & Moving Photons Clocks
+
+Let’s start our clocks at t=0 with both photons bouncing off their upper mirrors. The left clock is stationary in our reference frame, and appears to be tick-tocking at the normal rate. But the photon in the moving clock must travel on a diagonal path to reach its lower mirror due to the jet’s incredible speed. Einstein said all photons are seen by all observers to have the same speed (c=1) in all circumstances. Thus the photon in the moving clock is going to take more time to bounce between its mirrors than the photon in the stationary clock.
+
+We can calculate how much slower the moving clock runs. Let L be the vertical distance between the mirrors and T be the photon transit time in the moving clock that we observe in our stationary frame. During time T, the lower mirror of the moving clock moves a distance vT. The photon’s diagonal path length is then √(L²+v²T²). That length equals elapsed time multiplied by speed = cT = T, since the photon’s speed is 1.
+
+Meanwhile, the photon transit time in our stationary clock is t=L. Comparing t and T: T² = L²+v²T² T² (1–v²) = L² T = L / √(1–v²)
+
+T = t / √(1–v²)
+
+T = t γ
+
+Since γ>1, then T>t. We in the stationary frame observe the photon transit time to be longer in the moving frame, T, than in ours, t. This means we observe the clock in the moving frame running slower by the relativistic factor γ. This is called time dilation. For v=0.9, time dilates by a factor of about 2.3.
+
+Should the jet’s crew get a better clock, one that keeps the right time? Einstein said that is impossible. If some other type of clock kept the right time, we could use photon clocks to tell us who is really moving and who is really stationary, in violation of the principle of relativity. Einstein said everything in the moving frame runs at exactly the same slower rate: the crews’ hearts beat slower, their brain waves wave slower, their fingernails grow slower, and the crew ages slower — all at the same rate.
+
+What this really means is that time itself runs slower in the moving frame, as we observe from the stationary frame.
+
+Relativistic effects are symmetric. We aren’t special just because we define ourselves as “stationary.” The principle of relativity says there are no special reference frames. The jet’s crew, looking back at our photon clock, would see our mirrors moving at v=0.9 to the left, our photon having the diagonal path, and our clock running 2.3 times slower than theirs.
+
+We say their clock runs slower than ours. They say ours runs slower than theirs. Who’s right? We both are! This may seem impossible, but it is really true, and it all boils down to how measurements are really made. Because the speed of light is the same in all inertial frames, and because its speed is not infinite, observers moving at different speeds will necessarily measure different values for such basic quantities as time. There really is no one right answer to “what time is it?”
+
+Time dilation plays a critical role in particle physics, where particle velocities are often near the speed of light. My own thesis experiment, for example, required a calibration from decays of the short-lived neutral kaon, whose lifetime is 0.09 nanoseconds. Even light travels only 2.7cm (1.1 inches) during that lifetime. Fortunately, at velocity 0.992, γ=8, and those kaons live long enough to travel 21.6cm, which is much more manageable.
+
+Time dilation also plays a key role in Earth’s cosmic ray flux. When cosmic rays hit our upper atmosphere, they create cascades of lower energy particles called air showers. Almost none of these particles would live long enough to reach Earth’s surface without time dilation. The most penetrating particles are muons, with a lifetime of 2.2 microseconds, corresponding to 0.66km at light speed, which is only about 5% of the thickness of the dense portion of our atmosphere. There are enough muons with γ>20 and lifetimes>44 microseconds, to account for about 15% of our total radiation exposure. Most of the other 85% comes from the food we eat and the ground we stand on.
+
+Length Contraction V1p15-7 Let’s re-examine the Michelson-Morley interferometer experiment, this time assuming that the speed of light is constant. Recall the setup: light travels down two orthogonal arms with mirrors at their far ends. The interferometer tells us the difference in travel time between the two arms. Let’s assume that when the interferometer is stationary, both arm lengths equal L, and the travel time difference is zero. We’ll define the horizontal arm length to be L when the device is moving, allowing for the possibility that this length changes.
+
+If we now move the entire apparatus in the +x-direction at speed v, what is the travel time along the vertical path? In Figure 26-2, the dotted lines indicate the interferometer’s position when light starts its round trip along the vertical path, and the solid lines show the interferometer’s position at the instant light returns to its starting corner.
+
+Due to the device’s motion, light must travel a diagonal path to reach the upper mirror and return to the starting corner, as seen in the stationary reference frame. If the total travel time is t, the interferometer moves a distance vt/2 while light goes up and the same distance while light goes back down. The length of each diagonal path equals √(L2+v2t2/4), which equals light’s travel time one way with c=1. For the round trip travel time t, we get:
+
+t = 2√(L2+v2t2/4)
+
+t2 = 4L2+v2t2 t2 (1–v2) = 4L2 t = 2L/√(1–v2)
+
+Now let’s examine the horizontal path. In Figure 26-3, the dotted lines indicate the interferometer’s position when light starts its round trip along the horizontal path, and the solid lines show the interferometer’s position at the instant light returns.
+
+While light is moving to the right, the mirror is moving away at speed v; the closing speed, the rate at which the separation between light and mirror is being reduced, is 1–v. Conversely, while light is moving back to the left, the starting corner is moving toward it at speed v; the closing speed is 1+v. Hence the total horizontal travel time along the arm of length L is:
+
+t = L/(1–v) + L/(1+v)
+
+t = L {(1+v) + (1–v)}/(1–v2)
+
+t = L { 2 }/(1–v2)
+
+Since Michelson found no change in travel time difference, regardless of the interferometer’s motion, we must conclude that the horizontal and vertical travel times are equal for all v, giving:
+
+2L / (1–v2) = 2L / √(1–v2)
+
+L = L √(1–v2)
+
+L = L / γ
+
+This is called length contraction: lengths of moving objects appear shorter to stationary observers.
+
+We now derive the most famous of all equations: E=mc2, using the conservation of momentum and the equation for adding relativistic velocities that we derived in Chapter 25. Newtonian momentum p equals mv, mass times velocity. Velocity is not modified by relativity, so relativity can modify momentum only by changing mass. The relativistic equation for momentum, p, therefore must have the form:
+
+p = v m(v)
+
+where m(v) is a function of velocity to be determined. For v=0, m(0) must equal the rest mass, which we denote m.
+
+Consider the images in Figure 26-4: two identical particles of rest mass m collide and bounce off one another. On the left side, the lower particle enters with velocity w directly up along the y-axis, and after the collision moves directly down the y-axis. In the drawing, we’ve separated its up and down paths from the y-axis for clarity. The upper particle enters from the right with speed v at glancing angle ø, and exits to the left with the same speed and angle. Before the collision, its vertical component of velocity is vsinø in the –y-direction, and afterwards switches to the +y-direction. Its horizontal component of velocity is vcosø in the –x-direction, both before and after the collision.
+
+On the right side, the same collision is observed in a frame moving to the left (the –x-direction) with velocity vcosø, the horizontal velocity of the upper particle in the left image. In this frame, the horizontal velocity of the upper particle in the right frame is identically zero.
+
+Note that the right and left images are symmetric — they are identical to one another with a 180-degree rotation, ensuring all the corresponding speeds and angles are equal.
+
+In the section on “Adding Velocities” in Chapter 25, we found the equation for a velocity entirely in the y-direction (here that velocity is w) that is transformed to a frame moving with relative velocity entirely in the x-direction (here that velocity is vcosø). For the vertical velocities of this collision the equation is:
+
+vsinø = w/γ
+
+Squaring both sides, leads to:
+
+v2 (1–cos2ø) = w2 (1–v2cos2ø)
+
+v2 cos2ø (–1+w2) = w2 – v2 v2 cos2ø = (v2 – w2) / (1– w2)
+
+From conservation of momentum, we know that the change in the lower particle’s y-momentum plus the change in the upper particle’s y-momentum must equal zero. From the left image, this means:
+
+2w m(w) = 2 vsinø m(v)
+
+w m(w) = (w/γ) m(v)
+
+m(w) = m(v) / γ m(w)2 = m(v)2 (1 – v2cos2ø)
+
+m(w)2 = m(v)2 [1 – (v2 – w2)/(1 – w2)]
+
+m(w)2 = m(v)2 [1–w2 –(v2 – w2)] /(1 – w2)
+
+w^2 = m(v)^2 [1 – v^2]/(1 – w^2)
+
+m(w)^2 (1– w^2) = m(v)^2 (1 – v^2)
+
+If we set w = 0, the left side of the last equation equals m^2. This means the right side must equal m^2 for every value of v. This in turn means the left must equal m^2 for every value of w.
+
+m(w)^2 (1– w^2) = m^2 m(w) = m/√(1–w^2/c^2) = mγ We now have the equation relating relativistic mass m(w) at velocity w to rest mass m.
+
+Einstein’s special relativity thus nullifies a previously long established principle: the conservation of mass. Before scientists understood nuclear reactions, they were only familiar with chemical reactions, which have much lower energies, and where atomic masses change by only parts per billion. Such tiny changes were far less than the weighing precision of the day. As far as 19th century chemists could tell, mass was conserved. But as science pushed into higher energy domains, many reactions were discovered that change mass dramatically.
+
+In V1p15-1, Feynman says: “For those who want to learn just enough about it to solve problems, [m = mγ] is all there is to the theory of relativity — it just changes Newton’s laws by introducing a correction factor to the mass.” I presume he meant this as a joke. Feynman always stressed that learning principles was far more important than remembering labels and answers to problems. In any case, there is far more to relativity than that one equation.
+
+E = mc^2
+
+We now re-examine the concept of force from a relativistic prospective. Newton’s force law is typically stated F=ma, where acceleration a is the time derivative of velocity, and mass m is assumed to be constant. We now know that mass is not constant. It is more effective to define force as the time derivative of momentum, relativistic mass times velocity: F=d(mv)/dt.
+
+This redefinition allows us to use equations such as F•ds = work, force times distance equals work energy. If we apply a constant force to an initially stationary object of rest mass m, the rate at which its energy increases is: dE/dt = F dx/dt = F v.
+
+Let’s evaluate this expression, using the equation γ–3 dγ = v dv, derived at the end of the previous chapter.
+
+dE/dt = v d(mv)/dt dE/dt = vm dv/dt + v^2 dm/dt dE/dt = mγ–3 dγ/dt + v^2 dm/dt dE/dt = (m/m)γ–3 d(mγ)/dt + v^2 dm/dt dE/dt = γ–2 dm/dt + v^2 dm/dt dE/dt = (1–v^2 + v^2) dm/dt dE/dt = dm/dt ∫dE = ∫dm E = m
+
+Multiplying that by c^2 yields Einstein’s famous equation. But without the c’s, Einstein’s message is more vivid: mass is energy.
+
+As we found in the last chapter, we can approximate γ by: 2γ^2 ≈ 1/(1–v), when v is nearly 1. The highest velocity charged particles ever produced by a particle accelerator were electrons from SLAC, the Stanford Linear Accelerator Center (which has been effectively shutdown). SLAC electrons had γ~40,000, corresponding to a velocity of 0.999,999,999,7 — nine 9’s and a 7. If one of those electrons raced a photon (in an evacuated tube) from San Francisco to New York, the electron would trail the photon by only the thickness of one sheet of paper. Protons in the LHC in Geneva have γ~4300; their velocities are seven 9’s and a 7, two 9’s less than SLAC. But since protons are much more massive than electrons, the LHC’s beam energy is 200 times higher than SLAC’s.
+
+For modest speeds, we can rewrite E = mc^2 using the series expansion presented at the end of the last chapter.
+
+E = mc^2 + m v^2/2 + 3m v^4/8c^2 + … The first term on the right hand side is the rest mass energy, while the second term corresponds to kinetic energy in Newtonian mechanics. The higher order terms are the relativistic corrections.
+
+We now derive an important relationship between E, p, and rest mass m, which is valid at any velocity v.
+
+m^2 + p^2 = m^2 + m^2 γ^2 v^2 m^2 + p^2 = m^2 γ^2 m^2 + p^2 = E^2 m^2c^4 + p^2c^2 = E^2
+
+Relativity & Photons
+
+How do the equations of special relativity relate to entities that move at the speed of light? At light speed, γ=infinity. In physics infinity is generally a problem. Let’s find the equation for velocity in terms of energy and rest mass m: E = mγ m/E = 1/γ = √(1–v^2)
+
+m^2/E^2 = 1–v^2 v^2 = 1 – m^2/E^2 v = √{1 – m^2/E^2}
+
+Now, approximate v for m << E: v ≈ 1 – m^2/(2E^2)
+
+In the limit that m goes to zero and E remains constant, the velocity v goes smoothly to 1, the speed of light. Now compute γ for m<<E: γ–2 = 1 – v^2 γ–2 = 1 – [1–m^2/(2E^2)]^2 γ–2 = 1 – [1–m^2/(E^2)]
+
+γ–2 = m^2/E^2 γ = E/m γm = m(E/m)
+
+We knew this result already, but the math shows that the right hand side of this equation has a well-behaved limit as m goes to zero. Therefore, although m goes to zero and γ goes to infinity, mγ is well behaved at v=1.
+
+Note that if m=0 and v<1, γ is finite and E=mγ=0. Since nothing with zero energy can exist, any real massless particle must move at the speed of light. This is the situation for photons.
+
+From E^2 = c^2p^2 + c^4m^2, we have for photons: E = pc.
+
+Since photons can never be at rest, we cannot transform to their “rest” frame, which we can do for any massive object. When Einstein was 16, he tried to Imagine how a light beam would appear if one could travel alongside it at light speed. A decade later, his theory of special relativity made clear why this is impossible. Yet, if we allow our imaginations to run free, what happens in a photon’s rest frame? The answer is nothing can “happen.” At the speed of light, time stands still; γ is infinity and all time intervals are dilated to zero: T/γ = 0.
+
+Time doesn’t exist for photons, and neither does distance. A photon created during the Big Bang that traveled for nearly 14 billion years to reach our eye, “sees” its entire existence as a single instant — simultaneously created and absorbed in our retina, and with all the cosmos compressed to a point of zero size.
+
+## Chapter 26 Review: Key Ideas
+
+In what follows, m₀ is an object’s rest mass, and u is the relative velocity in the +x-direction between our stationary frame with coordinates (t,x,y,z) and a moving frame with coordinates (T,X,Y,Z), and γ=1/√(1–u²).
+
+1.  Time Dilation: we observe time running slower in a moving frame; events of fixed duration, such as an average carbon-14 lifetime, seem to last longer in the moving frame, according to: T = tγ.
+
+2.  Length Contraction: we observe lengths contracted in a moving frame: L = L₀/γ.
+
+3.  Relativistic Mass: we observe objects being more massive in a moving frame: m = m₀γ.
+
+4.  For an object moving at any velocity: E² = c²p² + c⁴m₀², and E = m₀c² = mγc².
+
+## Chapter
+
+Spacetime
+
+Hermann Minkowski, Einstein’s college math professor, was unimpressed with young Albert, calling him a “lazy dog.” He may have reconsidered after the publication of special relativity. Minkowski realized Einstein’s theory changed our understanding of the geometry of our universe.
+
+The three dimensions of space can no longer be considered distinct from time; space and time must be viewed as a combined four-dimensional entity that Minkowski named spacetime. In four-dimensional spacetime, points are called events. Specifying an event requires four quantities, such as latitude, longitude, altitude, and time.
+
+Time measurements and three-dimensional distance measurements are relative (different for different observers).
+
+4-Vectors V1p17-5
+
+In relativistic 4-D spacetime, 4-vectors are effective mathematical tools. One example is the position 4-vector (t,x,y,z). A 4-vector is a normal 3-vector defined in 3-D space plus a fourth component, which is most commonly called component number 0. The 3-vector parts are called components 1, 2, and 3. In a properly constructed 4-vector, component 0 ensures the 4-vector is Lorentz covariant, meaning that it transforms from one reference frame to another in accordance with the Lorentz transformation.
+
+Let’s meet some other important covariant 4-vectors.
+
+For any two events A and B in 4-D spacetime, we can define a separation 4-vector (dt, dx, dy, dz), where dt = t_B – t_A, and similarly for x, y, and z. This is also called the displacement 4-vector. Adding the B–A displacement 4-vector to the A position 4-vector produces the B position 4-vector: (B–A)+A=B.
+
+The momentum 4-vector (E,pₓ,pᵧ,p_z), is the union of energy and the x, y, and z momenta.
+
+Since (t,x,y,z) is a covariant 4-vector, (qt,qx,qy,qz) is also covariant, where q is any constant. This is because ordinary numbers have the same values in all reference frames. Note that (γ,γvₓ,γvᵧ,γv_z) is the covariant velocity 4-vector but (1,vₓ,vᵧ,v_z) is not covariant, because γ is not the same in all frames.
+
+(E,x,y,z) and (t,pₓ,pᵧ,p_z) are not Lorentz covariant 4-vectors since they do not transform properly.
+
+The dot product of two 4-vectors is similar to the dot product of two 3-vectors, except for a critical minus sign that is the signature of relativity. For example, the dot product of the position and momentum 4-vectors equals: (E,pₓ,pᵧ,p_z) • (t,x,y,z) = –tE + xpₓ + ypᵧ + zp_z
+
+The minus sign in the product of the 0 components is what distinguishes relativity from Newtonian physics and ensures the constancy of the speed of light.
+
+The dot product of any two covariant 4-vectors is invariant, the same number in every reference frame. In particular, the dot product of any covariant 4-vector with itself is invariant. Thus the dot product of the momentum 4-vector with itself equals: (E,pₓ,pᵧ,p_z) • (E,pₓ,pᵧ,p_z) = –E² + p² = –m₀²
+
+It equals minus the rest mass squared in every reference frame. One way to tell if a 4-vector is covariant is to calculate its dot product with itself and check whether the result has the same value in all reference frames, as does rest mass. For example, the following is not invariant: (t,pₓ,pᵧ,p_z) • (t,pₓ,pᵧ,p_z) = –t² + p²
+
+We introduce now the Einstein conventions for writing 4-vectors and their dot products. The position 4-vector is written x^µ, with index µ=0,1,2,3,4 for components t,x,y,z, respectively. The 4-D dot product of the position and momentum 4-vectors is: x^µ p_µ = –tE + xpₓ + ypᵧ + zp_z
+
+The repeated index µ instructs us to sum over all four values of µ.
+
+The dot product of any two covariant 4-vectors is invariant...
+
+separation 4-vector with itself is called ds², the invariant interval: ds² = ημν Δxμ Δxν = –dt² +dx² +dy² +dz² Although each of the four components of separation varies from frame to frame, ds² as defined above remains constant. Because of the leading minus sign, ds² may be positive, zero, or negative. Perhaps that’s why it’s called the interval rather than the distance between events.
+
+In any reference frame, the interval between two events along the path of a photon is always zero. Let’s see why. Define the spatial distance between events A and B as dr = √(dx²+dy²+dz²). The time dt required for a photon to move a distance dr equals dr/c = dr, as c=1. Thus the interval, ds² = –dt² + dr² is identically zero.
+
+With so much changing from one frame to another, it is important to focus on what is the same in all reference frames — those things that are invariant. In relativity, the interval between any two events in 4-D spacetime is the most important invariant.
+
+Intimately related to the invariant interval ds² is proper time, dτ, given by dτ² = –ds². For events A and B, whose separation 4-vector is (dt,dx,dy,dz): dτ² = +dt² –dx² –dy² –dz² dτ² = +dt² (1 –dx²/dt² –dy²/dt² –dz²/dt²)
+
+dτ² = +dt² (1 –v²)
+
+dτ = dt / γ Proper time dτ is how much time passes on a clock that moves from A to B.
+
+Rotations & Boosts In both three and four dimensions, the components of vectors change when transformed from one reference frame or coordinate system to another. Yet, as Feynman stresses in V1p17-5, an essential aspect of these vectors remains unchanged. While their orientations change in such transformations, their lengths do not. Let’s examine this more closely. Shown in Figure 27-1 are two 2-D coordinate systems, rotated relative to one another, but each with the same vector AB. Clearly the vector will have different component values in the xy system compared with the vu system.
+
+Figure 27-1 Two Coordinate Systems with Relative Rotation The vu axes are rotated in the positive sense (counterclockwise) by angle ø. The equations for transforming xy coordinates to vu coordinates are: v = +x cosø + y sinø u = –x sinø + y cosø Note there is one minus sign in the above equations. The differentials are: dv = + dx cosø + dy sinø du = –dx sinø + dy cosø If the AB vector’s components are (dx, dy) in the xy system and (dv, du) in the vu system, then the length of the vector in vu is: ds² = dv² + du² ds² = dx² cos²ø + 2dx dy cosø sinø + dy² sin²ø + dx² sin²ø – 2dx dy sinø cosø + dy² cos²ø ds² = dx² + dy² The vector’s length is the same in both coordinate systems for any rotation angle ø. We can clearly extend this analysis to three dimensions, but I will spare you the messy math.
+
+Let’s now compare rotational transformations to the Lorentz transformation. Consider a stationary xt frame and a XT frame moving in the +x-direction with velocity w and γ=1/√(1–w²). The equations for transforming xt coordinates to XT coordinates, often called a boost, are: X = γx – γwt T = γt – γwx Note the two minus signs above. The number of minus signs is the key distinction between boosts, which have two, and rotations, which have one.
+
+In 4-D spacetime, the square of the length of vector AB is ds² = –dt² + dx², its invariant interval. Unlike in 3-D, in 4-D spacetime the square of the length can be negative. Let’s calculate ds² in the XT frame: ds² = –dT² + dX² ds² = –γ² (dt² – 2w dt dx + w² dx²)
+
++ γ² (dx² – 2w dx dt + w² dt²)
+
+ds² = –γ² (dt² + w² dx²) + γ² (dx² + w² dt²)
+
+ds² = –γ² dt² (1 – w² ) + γ² dx² (1 – w²)
+
+ds² = –dt² + dx² The AB vector’s invariant length is the same in both frames, as advertized.
+
+Representations of the xt and XT frames are shown in Figure 27-2, whose appearance is, pardon the expression, graphically different from the rotation of Figure 27-1.
+
+Figure 27-2 Two Coordinate Systems with Relative Boost In a rotation of angle ø, both axes turn in the same direction by the same angle ø. In a boost by velocity w, both time and space axes turn inward to the 45-degree x=t line; the axes rotate by the same angle ø, but in opposite directions. For boosts, tanhø=w, where tanh is the hyperbolic tangent.
+
+The Lorentz transformation for the energy-momentum 4-vector (E,px,py,pz), for velocity w in the +x-direction, produces a new 4-vector (E*,px*,py*,pz*), where: E* = γE – γ w px px* = γ px – γ w E
+
+Simultaneity V1p15-7 Simultaneity is an important aspect of our everyday experience. We expect that concert musicians will play their parts at the same time. Football players must move together when the ball is snapped. And, we expect clocks to read the same time. Yet special relativity tells us universal simultaneity is impossible; observers in different states of motion will never agree on which events are simultaneous.
+
+Imagine two clocks in our stationary reference frame, which are separated by distance 2D and synchronized by a light source that is exactly half way between them, as shown in Figure 27-3. Each second, the light flashes, and the clocks increment their displays when the flash arrives. Each clock detects light at the same time, delayed by D/c, light’s travel time from the original flash. In the stationary frame, the clocks advance absolutely simultaneously.
+
+Figure 27-3 Synchronized Clocks Viewed in Moving Frame
+
+How does all this appear to the crew of a spaceship on a parallel course traveling at speed v? Consider the arrival light times at each clock after the source flashes at time T = 0. The crew sees the left clock moving left at speed v, away from the oncoming light flash. The closing velocity, the rate at which distance D is being reduced, equals 1–v, and light will arrive at the left clock at time L = D/(1–v). Conversely, the crew sees the right clock moving left at speed v, toward the oncoming light flash. The closing velocity equals 1+v, and light will arrive at the right clock at time R = D/(1+v). The two clocks will not increment simultaneously, as seen in the spaceship’s frame: the right clock will increment earlier by: L–R = D{ (1+v) – (1–v) }/(1–v2)
+
+L–R = 2 v D /(1–v2)
+
+This time difference is positive because right occurs before left. No observer, moving at any nonzero speed relative to the clocks, will see these clocks increment simultaneously. Note that if D = 0, the clocks would increment simultaneously in all reference frames, but that’s possible only if the two clocks are really just one clock. With full generality, special relativity states that observers moving at different speeds will not agree on which separated events are simultaneous.
+
+We can see this graphically by imagining 4-D spacetime as salami, as shown in Figure 27-4. In our reference frame, the upper half of the image, each thin slice perpendicular to the long axis is a slice of constant time. Time progresses, from slice to slice, moving toward the right. For us, all events on each slice are simultaneous. For us, the two dots occur at different times.
+
+Figure 27-4 Slicing Spacetime Like Salami
+
+But, as shown in the lower half of the image, the slices of constant time for moving observers seem askew to us. In the moving frame, the two dots occur at the same time, and other events that we consider simultaneous seem to them to occur at different times. Only when two events occur at the same time and place will all observers agree they are simultaneous. But that is a trivial case, in which only one physically distinct event really exists. Observers in relative motion see one another’s time and space mix together.
+
+We must increase the list of observables that will be measured differently by observers in different states of motion. We can add simultaneity to the length of a meter-stick, the amount of time in a day, and the mass of 1kg.
+
+Space-like & Time-like Intervals
+
+We learned above that in any reference frame, the interval between two events along the path of a photon is always zero, because photons move a distance dr during a time dt, with dt=dr. For any object with velocity less than light speed, v<1, the intervals along its path are all less than zero, because dr=vdt<dt. If anything could move faster than light (nothing can), the intervals along its path would all be greater than zero, because dr=vdt>dt.
+
+Two events with interval greater than zero are said to be space-like separated (their space separation dr exceeds dt, their time separation). If A and B are space-like separated, there will be a reference frame in which A and B occur at the same time but at different locations.
+
+Two events with interval less than zero are time-like separated (dt>dr). If A and B are time-like separated, a rocket could travel between them at a constant velocity, v<1. In the rocket’s frame, A and B occur at the same spatial coordinates but at different times.
+
+Since ds2 is invariant, events that are time-like separated in one frame are time-like separated in all frames. Similarly, events that are space-like separated in one frame are space-like separated in all frames. Finally, events with interval zero in one frame have interval zero in all frames.
+
+Causality & Light Cones
+
+The principle of causality requires that causes precede their effects. Relativity ensures causality. Two space-like separated events cannot have a causal relationship; even light cannot travel fast enough to span their spatial separation within their time difference, because in some frame they occur at the same time at different locations.
+
+However, two time-like separated events can have a proper causal relationship. This is because whichever event occurs first in one frame, will occur first in all frames. Let’s see why. Pick any reference frame, call the earlier event A and the latter event B, and let dt = time of event A – time of event B. By definition dt<0. Since the Lorentz transformation is continuous (its values vary smoothly with no discontinuities), the intermediate value theorem of calculus states that dt cannot go from less than zero to greater than zero without passing through zero. Thus if we could transform to any frame in which dt>0, there must be an intermediate transformation to a frame in which dt=0. But, if dt=0 in some frame, ds² would not be negative, as required for time-like separated events. Hence there can be no frame in which dt>0 (in which B precedes A).
+
+Next, consider the set of all events, the locus, that are time-like separated from x=y=z=t=0, which we call event O for origin. In Figure 27-5, these events lie within the two shaded cones (z is not shown). Events that occurred before O are said to be in the past light cone of O. Any event in O’s past light cone could influence O. For example, if a supernova occurred anywhere within O’s past light cone, its light would reach O. Events in the future light cone of O could be influenced by O — if a supernova occurred at O, its light would reach every event in O’s future light cone.
+
+Figure 27-5 Past & Future Light Cones
+
+All events outside the shaded past and future light cones of O are causally disconnected from O — they can neither affect O, nor can O affect them.
+
+## Chapter 27 Review: Key Ideas
+
+1. “Space of itself, and time of itself will sink into mere shadows, and only a kind of union between them [spacetime] shall survive.” — Hermann Minkowski, the unimpressed college math professor of Albert Einstein.
+
+2. In 4-D spacetime, four quantities specify an event: (t,x,y,z). Four-vectors are normal 3-vectors in 3-D space with a fourth component that makes the 4-vector Lorentz compliant, transforming according to the Lorentz transformation. Important 4-vectors are: Position: r = (t,x,y,z)
+
+Separation: dr = (dt,dx,dy,dz)
+
+Velocity v = (γ, γvₓ, γvᵧ, γv_z)
+
+v_µ v^µ = –1 Momentum: p = (E, pₓ, pᵧ, p_z)
+
+p_µ p^µ = –m₀²
+
+3. The dot product of two 4-vectors is a number that is invariant, having the same value in all frames.
+
+4. The invariant interval between two spacetime events is ds²=–dt²+dx²+dy²+dz². The clock time along a path between two spacetime events is proper time dτ: dτ² = –ds².
+
+5. The interval between two events falls into one of three categories; its category is the same in all reference frames: a) Time-like for ds² < 0 b) Space-like for ds² > 0 c) Photon-like for ds² = 0
+
+## 6. Objects moving at v<1 have time-like intervals everywhere along their paths
+
+7. Objects with zero mass, and only those, must move at v=1, along paths whose intervals all equal zero.
+
+8. Events that are space-like separated, ds²>0, cannot be causally related — neither can affect the other. Moving along a space-like path requires v>1, which is impossible.
+
+9. For any two time-like separated events, one will precede the other in all frames. The earlier event can affect the later event, but the later event cannot affect the earlier. The earlier event is in the past light cone of the later event, which is in the future light cone of the earlier event.
+
+10. Observers moving at different speeds will not agree on which separated events are simultaneous. Two separated events cannot be simultaneous in both a stationary and a moving frame.
+
+## Chapter 28 Relativity: Philosophy & Paradoxes
+
+Philosophy & Special Relativity
+
+At cocktail parties and such, non-physicists sometimes declare; “Einstein said everything is relative.”
+
+Actually, Einstein said no such thing. His message was something quite different. The laws of nature, he proclaimed, are universal, the same for all observers — there’s nothing relative about that — it is the measurements of certain quantities that are definable only relative to an observer’s state of motion.
+
+It’s easy to say: “How the world appears depends on whose looking.” But that statement is unquantifiable and trivial compared to Einstein’s Special Theory of Relativity. Einstein’s theory addresses nearly all natural phenomena and makes many, absolutely precise statements that are rigorously testable. And remarkably, there isn’t a single adjustable parameter in either special or general relativity. If any of Einstein’s predictions were definitively proven errant by even one part in a trillion, his theories would be completely and utterly wrong. In fact, the opposite has occurred. Despite being the most extensively and precisely tested theory of science, none of special relativity’s predictions has ever been convincingly disproved. Occasionally, some have claimed disproof, but invariably, upon closer examination, it was they who were proven wrong. A recent example was the announcement of faster than light neutrinos, which the authors later retracted blaming faulty equipment.
+
+In V1p16-2, Feynman says there are three philosophical lessons that physicists should learn from the development and validation of special relativity. Firstly, even our most cherished and extensively verified theories may later be proven inadequate in the face of more and better observations. Secondly, when presented with strange new ideas — such as time running slower on foreshortened airplanes — whether or not we like these ideas is irrelevant. All that matters is whether or not the strange ideas agree with experiment.
+
+Thirdly, we can learn much from the symmetry of natural laws by examining what transformations leave the form of each law unchanged.
+
+Philosophers & Special Relativity
+
+Feynman found most philosophers remarkably unimpressive. He particularly disdained "cocktail party philosophers" (and even "a surprisingly large number of [professional] philosophers") who say: "That all is relative is a consequence of Einstein, and it has a profound impact on our ideas." It’s naïve and trivial to say that how the world appears depends on whose looking. In V1p16-1, Feynman said this was as silly as saying a person looks different depending on whether you look at him from the front or from the back.
+
+Feynman added that some philosophers thought it obvious that velocities cannot be measured except relative to some external reference. They asked: Why did it take physicists so long to figure out something so simple? Why didn’t they just ask us wiser men?
+
+Of course, nature is more subtle. Uniform motion, with no acceleration, can be measured only relative to something else. However, accelerations are easily detected without need for external reference. A uniform rotation, for example, is intrinsically detectable — we can measure Earth’s rotation rate with a Foucault pendulum, even inside a sealed building. A good philosopher might respond that perhaps uniform rotation is detectable because Earth is rotating relative to the stars; perhaps some influence from stars creates centrifugal forces. If so, one might wonder why stars care if we rotate but don’t care if we move straight ahead at constant speed.
+
+In any case, scientific truth cannot be decided by parsing English words, or those of any other human language. Words are too imprecise. For example, what does the word "mean" mean? My dictionary lists 24 possible "mean"-ings. Thankfully, scientists are spared that futility by focusing on what is measurable and computable. Whether or not a motion should be detectable without external reference is irrelevant. All that matters is what is observable and testable. We can only determine through experiment which quantities are absolute and which relative; that is a task for which philosophers are particularly unsuited.
+
+The Fun & Value Of Paradoxes
+
+There are no true paradoxes in special relativity, general relativity, or quantum mechanics. After a century of exhaustive examination and testing, we are very confident that all these theories are mathematically self-consistent and are consistent with all confirmed measurements. This doesn’t mean that physicists accept them without question. Quite the contrary. These theories are rigorously retested every day, in every conceivable way.
+
+Nothing we know about the world of our existence has been more completely and precisely confirmed than special relativity and quantum mechanics. The constancy of the speed of light has been validated to 18 decimal digits, one part in a billion, billion. The validity of the Lorentz transformation has been validated to better than 22 decimal digits, 50 parts in a trillion, trillion. Quantum mechanics has been validated to 12 decimal digits, one part in a million, million. General relativity is much more difficult to test, and is validated to about one part per thousand. The limits just quoted are not where the theories fail — there are no confirmed failures — these are simply the limitations of our best instruments. Whenever new technology permits, physicists will perform more stringent tests. Theories are accepted only to the extent that observations confirm them.
+
+Special relativity, general relativity, and quantum mechanics are our best descriptions of nature. Mankind has had 100 years to digest them, yet these theories are sometimes shockingly counterintuitive. Some of the most startling results have become enshrined as purported paradoxes. The best paradoxes feature seemingly simple situations in which these theories’ predictions are bizarre but correct. While seemingly simple, these puzzles can be quite challenging. Many cleverly conceal one or more of these common errors:
+
+Mistake #1: forgetting that some physical quantities are relative Mistake #2: applying special relativity to non-inertial frames Mistake #3: assuming simultaneity, where none exists
+
+Paradoxes are engaging and intriguing puzzles that serve valuable purposes. They help us better grasp where our human intuitions and incomplete understandings fail. They can also serve as conversation-starters at social events. Some have even attempted to use paradoxes to impress the opposite gender, although I can’t recommend that.
+
+The Twin Paradox
+
+The twin paradox is the most famous puzzle of special relativity.
+
+Two twins, Al and Bert, claim to understand Einstein’s theories. While Al stays home, Bert rockets off to the Delta Quadrant and returns to Earth. At Bert’s Welcome Home party, Al announces that Bert is now younger than Al. Al says Bert aged more slowly during his high-speed voyage due to time dilation.
+
+Bert responds that velocity is relative; he didn’t perceive himself moving, but rather he saw Earth and Al speeding away and then speeding back. Bert says Al is now the younger twin. Each twin claims the other was moving, was subject to time dilation, and is therefore younger. They both can’t be younger. So which twin is right, Al or Bert? Continue reading when you want to check your answer.
+
+Figure 28-1 Twins After Bert’s Odyssey
+
+If Bert had rocketed on forever, never turning back, both twins would be right, each in their own reference frame. Time is relative; it passes at different rates in frames moving at different velocities. There is no conflict if Al and Bert remain in different inertial reference frames. (Recall that inertial frames move at constant velocities, with no accelerations. We assume Earth’s motions are negligible and will treat it as an inertial frame.) Only if Al and Bert share the same frame can they legitimately compare how much each has aged. But to share a common reference frame, at least one of the twins must change their velocity. In this case, Bert’s rocket decelerated at the Delta Quadrant, turned, accelerated toward Earth, and finally decelerated again to land here. He must have changed velocity at least three times. Thus Bert was not in the same inertial frame throughout.
+
+Bert’s mistake is trying to apply special relativity in a non-inertial frame. The equations of special relativity are valid only if one doesn’t change reference frames and the frame’s velocity doesn’t change. By the way, the same restrictions apply to Newtonian mechanics. Therefore Al, the Earth-bound twin, is older and wiser.
+
+World Lines & Proper Time
+
+Let’s analyze the twin paradox by introducing another important part of the relativity toolbox: world lines. In Figure 28-2, the vertical axis is time T, and horizontal axis is position X, as measured in Earth’s inertial frame. Al’s path through spacetime, his world line, is simple: his position is constant and he ages normally (increasing at the normal rate in Earth’s frame).
+
+Figure 28-2 World Lines of Al & Bert
+
+Bert’s world line (the bowed one) shows him accelerating away from Earth, coasting at a very high speed, decelerating to a momentary stop, accelerating back toward Earth, coasting again at a very high speed, and finally decelerating to land home. The accelerating portions of Bert’s world line are curved, and the coasting portions are straight. The slope of the straight portions of Bert’s world line tells us that his coasting speed is very high. The speed of light corresponds here to a slope of dX/dT = ±1, a line at ±45-degrees; zero velocity corresponds to a vertical line, like Al’s. Bert’s coasting line segments are close to 45-degrees, the speed of light.
+
+Now let’s compute how each twin ages. With Bert’s velocity entirely in the x-direction, the equation for his proper time is: dτ2 = +dt2 – dx2 dτ2 = dt2 (1–dx2/dt2)
+
+dτ2 = dt2 (1–v2)
+
+dτ = dt / γ
+
+Since proper time τ is invariant, calculating τ in any inertial frame gives us its value in all inertial frames. We next compute the amount of proper time τ that elapses between coordinate time t=A and coordinate time t=B: τ = ∫dτ from A to B.
+
+For Al: τ = ∫dt = B – A For Bert: τ = ∫dt/γ < B – A
+
+Since γ is always ≥ 1, less proper time has elapsed for Bert than for Al. Now we are all older but wiser.
+
+The Starships & String Paradox
+
+Two Federation starships, at rest alongside a space dock, are tied together with a string, represented by the solid line at the bottom of Figure 28-3. Both starships face the same direction, and are separated by a distance L; L is also the length of the string.
+
+Figure 28-3 Starships at Space Dock
+
+At time t = 0, GO signals (dotted lines) from the space dock arrive at the antennas on the tail fins of each starship. Both ships immediately blast off with constant acceleration, and both stop accelerating when their velocities relative to the space dock equal v, a velocity close to the speed of light. Our question is: What happens to the string?
+
+As we discovered in Chapter 25, lengths contract along the direction of motion by the relativistic factor γ, hence, in the space dock frame, the string length equals L/γ. But does the separation of the starships also contract, and if so, does it contract by the same factor? Some say Yes, others No. Even Ph.D. physicists have gotten this wrong. What do you think? Ready for the answer?
+
+Let the direction of motion be +x, let the starships’ starting positions at t=0 be x=0 for the left starship and x=L for the right starship, and define the left starship’s position to be x(t) at time t, all in the space dock frame. As both starships start from rest at the same time with the same acceleration, the right starship must travel the same distance as the left starship, hence its position is x(t)+L. The starships’ separation does not change. As the starships accelerate, the length-contracting string eventually breaks.
+
+A side note for space travel enthusiasts.
+
+If a starship accelerates at a constant 1g, the acceleration of gravity at Earth’s surface, x(τ)=cosh(τ)–1, where τ is the starship’s proper time, which is related to Earth time t by: t=sinh(τ).
+
+Some may protest this conclusion, saying that in the starships’ reference frame neither the starship separation nor the string contract, so the string won’t break. And, if the string doesn’t break in one frame, it can’t break in any another frame.
+
+Hence the paradox.
+
+This protest contains two mistakes: it falsely assumes universal simultaneity, and is based on a non-inertial frame. Let’s address simultaneity first. As discussed in Chapter 27, two spacetime events that occur simultaneously in one inertial frame but at different positions will not be simultaneous in other frames. There can be no universal agreement on which events are simultaneous. Let’s see why.
+
+It’s all about the timing of the GO signals. Assume the space dock is equally distant from each starship and the GO signals travel at the speed of light. In the space dock frame, the GO signals arrive at each starship at the same time, as we assumed above.
+
+However, let’s view this from a reference frame moving in the +x-direction with constant velocity v. In this frame, and before the starships accelerate, both starships and space dock are moving in the –x-direction with velocity v, as shown in Figure 28-4.
+
+Figure 28-4 Starships Awaiting GO Signal In Moving Frame
+
+In this frame, a GO signal moves toward the left starship at v=1 in the –x direction. The left starship moves in the same direction with velocity v, away from the oncoming GO signal, hence the closing velocity is 1–v. Also, a GO signal moves toward the right starship at v=1 in the +x direction. The right starship moves in the opposite direction with velocity v, toward the oncoming GO signal, hence the closing velocity is 1+v. In this frame, each GO signal must travel the length-contracted distance L/2γ, hence the times required for the GO signals to reach the starships are:
+
+L = GO Time to left starship = (L/2γ) / (1–v)
+
+R = GO Time to right starship = (L/2γ) / (1+v)
+
+L – R = (L/2γ) [ (1+v) – (1–v) ]/(1–v)(1+v)
+
+L – R = (L/2γ) [2v] γ2 L – R = Lvγ
+
+The GO signal reaches the starship on the right before reaching the one on the left. The starship on the right accelerates first and moves away from the other starship. In this frame, the starships’ separation is greater than L and the string breaks, just as it did in the space dock frame.
+
+Some may wonder why the separation between moving starships doesn’t contract, as seen in the space dock frame. It does, but in a strange way. In the moving frame, the separation is greater than L. As seen in the space dock frame, the separation is contracted to length L.
+
+Now, let’s discuss choosing proper inertial frames. The rest frames of the accelerating starships are not inertial. We were careful above to choose a frame moving at constant velocity v that the starships will attain at a single instant of time. We could choose any velocity and come to the same conclusion. Therefore the conclusion is valid for all moments in time.
+
+The Javelin & Tube Paradox
+
+This paradox has many guises, including: the pole and the window, the ladder and the barn, the train and the tunnel, and the Ferrari and the parking spot. They all entail something of length L trying to fit inside an aperture of length L, when relativity is involved.
+
+Al and Bert are ready to debate another paradox. Are you? The twins decide to test relativistic length contraction by throwing a javelin of length L through a tube of the same length. They set up high-speed cameras at both ends of the tube, as sketched in Figure 28-5. A trigger mechanism, labeled D, detects the javelin tip reaching the tube’s midpoint, and signals the cameras after an appropriate delay. The delay is adjusted to fire the cameras just as the javelin tip exits the tube, as seen in the stationary frame.
+
+Figure 28-5 Javelin Entering Tube
+
+Al claims the moving javelin’s length contracts to L/γ and that it is completely contained within the tube when the cameras shoot, so the photos will show the javelin being shorter than the tube.
+
+Bert takes the javelin’s point of view. He claims the moving tube will contract to L/γ and that the javelin’s tail will not have entered the tube when its tip reaches the exit. Bert says the photos will show the javelin being longer than the tube.
+
+Who’s right? What do you think?
+
+Ready for the answer?
+
+Al’s description of events in the tube’s reference frame is completely correct.
+
+Bert’s mistake is wrongly assuming simultaneity in both frames: the cameras cannot shoot at the same time in both the tube’s frame and the javelin’s frame. Assuming the signals from D move at light speed, and that the cameras shoot simultaneously in the tube frame, we can use the result from the starships and string paradox. There, in the moving frame, the right starship received the GO signal before the left starship, with a time difference of Lvγ.
+
+dt = Lvγ. Here, in the javelin’s frame, the right camera is triggered earlier than the left with time difference dt. In the javelin’s frame, it is longer than the tube by dL = L–L/γ = L(γ–1)/γ. If the cameras shot at the same time, the tail end of the javelin, a length dL, would not yet have entered the tube. But, the left camera actually shoots late, with a delay of dt. During this delay, the javelin advances an additional distance dx=vdt. Recalling that γ²v²=γ²–1, let’s compare dx to dL.
+
+dx = vdt = Lγv² dx = L (γ²–1) /γ dx = L {(γ–1)/γ} (γ+1)
+
+Since: dL = L {(γ–1)/γ} dx = dL (γ+1)
+
+Hence dx > dL. The conclusion is: in the javelin’s frame, its tail enters the tube before the left camera shoots; the photos (shot at different times) will show both ends of the javelin inside the tube, hence it appears shorter than the tube. This is the same conclusion reached in the tube frame.
+
+## Chapter 28 Review: Key Ideas
+
+1. Einstein didn’t say: “Everything is Relative.” He said the laws of nature are universal, the same for all observers, but measurements of certain quantities are definable only relative to an observer’s state of motion.
+
+2. Even our best theories may be proven inadequate in the face of more and better observations.
+
+3. Whether or not we like strange new ideas is irrelevant. All that matters is whether or not they agree with experiment.
+
+4. We can learn much from the symmetry of natural laws and the transformations that leave their form unchanged.
+
+5. There are no true paradoxes in special relativity. But you may enjoy debunking purported paradoxes by identifying common mistakes, including: (a) Forgetting that some physical quantities are relative.
+
+(b) Applying special relativity to non-inertial frames.
+
+(c) Assuming simultaneity, where none exists.
+
+## Chapter
+
+Special Relativity Review The principle of relativity, first suggested by Galileo, states that the same laws of nature apply to all observers moving at constant velocities, regardless of those velocities. Absolute velocity has no physical significance; only relative velocities are meaningful.
+
+Before Einstein, physicists believed that light was a wave traveling through a medium, as does every other wave; they called this medium the luminiferous ether. That belief put Maxwell’s equations of electrodynamics in conflict with the principle of relativity. Despite determined efforts, no one could detect the elusive ether. In 1887, the Michelson-Morley experiment proved that Earth was not moving through light’s medium. Unless Earth was unique in the universe, ether could not exist.
+
+Einstein showed relativity and Maxwell’s equations are compatible only if light has no medium and always moves at the same speed: c.
+
+Einstein said the laws of nature are universal, the same for all observers, but measurements of certain quantities are definable only relative to an observer’s state of motion.
+
+The Lorentz transformation to a reference frame (T,X,Y,Z) moving in the +x-direction with velocity u relative to a “stationary” frame (t,x,y,z) is: X = γ(x–ut)
+
+T = γ(t–ux/c²)
+
+Y = y Z = z Above, the relativistic factor γ=1/√(1–u²/c²).
+
+Observers in the two frames will measure different values for time, length, mass, and other quantities that depend on these, such as energy and momentum. Those of us in a stationary frame see that time is dilated in the moving frame; their clocks run slower by the factor γ, which means that events of fixed duration, such as an average carbon-14 lifetime, seem to last longer in the moving frame according to: t=γt₀. We see their lengths contract by the factor γ, according to: L=L₀/γ. And we see their masses increase by the factor γ, according to: m=γm₀.
+
+Relativity is symmetric: all the effects that we see in a moving frame, their observers see in ours.
+
+The sum w of collinear relativistic velocities u and v is: w = (u+v)/(1+uv/c²).
+
+For an object moving at any velocity: E² = c²p² + m₀²c⁴, and E = m₀c² = γm₀c², where m₀ is the object’s rest mass, its mass in the frame in which it is stationary.
+
+Space and time are not distinct unrelated quantities, as Newton believed; they are two aspects of one united 4-dimensional entity: spacetime. In 4-D spacetime, four quantities specify an event: (t,x,y,z).
+
+Four-vectors are normal 3-vectors in 3-D with a fourth component that makes the 4-vector Lorentz compliant, transforming according to the Lorentz transformation. Important 4-vectors are: Position: r = (t,x,y,z)
+
+Separation: dr = (dt, dx, dy, dz)
+
+Velocity v = (γ,γvₓ,γvᵧ,γv_z), v_µ v^µ = –1 Momentum: p = (E,pₓ,pᵧ,p_z), p_µ p^µ = –m₀² The dot product of two 4-vectors is a number that is invariant, having the same value in all frames.
+
+The invariant interval between two spacetime events is ds² = –dt²+dx²+dy²+dz².
+
+The clock time along a path between two spacetime events is proper time dτ: dτ² = –ds².
+
+The interval between two events falls into one of three categories; its category is the same in all reference frames: Time-like for ds² < 0 Space-like for ds² > 0 Photon-like for ds² = 0 Objects moving at v<1 have time-like intervals everywhere along their paths. Objects with zero mass, and only those, must move at v=1, along paths whose intervals all equal zero. Events that are space-like separated, ds2>0, cannot be causally related — neither can affect the other. Moving along a space-like path requires v>1, which is impossible.
+
+Relativity ensures causality. For any two time-like separated events, one will precede the other in all frames. The earlier event can affect the later event, but the later event cannot affect the earlier. The earlier event is in the past light cone of the later event, which is in the future light cone of the earlier event.
+
+Observers moving at different speeds will not agree on which separated events are simultaneous. Two separated events cannot be simultaneous in both a stationary and a moving frame.
+
+Feynman urges us to realize that even our best theories may be proven inadequate in the face of more and better observations. Whether or not we like strange new ideas is irrelevant. All that matters is whether or not they agree with experiment. We can learn much from the symmetry of natural laws and the transformations that leave their form unchanged.
+
+There are no true paradoxes in special relativity. But you may enjoy debunking purported paradoxes by identifying common mistakes, including: forgetting that some physical quantities are relative; applying special relativity to non-inertial frames; and assuming simultaneity where none exists.
+
+The following six phenomena of special relativity distinguish it from Newtonian physics. All six are mathematically equivalent, meaning that if we assume any one, we can derive all the others with no additional assumptions. Einstein assumed the first phenomenon, which has the strongest physical motivation, and from that he proved the other five.
+
+## 1. Light’s speed c is constant
+
+## 2. Length contraction: L = L / γ
+
+## 3. Time Dilation: t = γ t
+
+## 4. Mass increase: m = γ
+
+## 5. Add of collinear velocities: (u+v)/(1+uv)
+
+## 6. Lorentz transformation
+
+Illustrative Examples In this section we examine how to use the Lorentz transformation to solve some simple problems. In relativity, even simple problems can be tricky.
+
+Define a stationary reference frame with coordinates (t,x,y,z), and a frame moving with velocity v in the +x-direction with coordinates (T,X,Y,Z). Let the coordinates have the same origin, so that t=x=y=z=0 is the same event as T=X=Y=Z=0. This is illustrated in Figure 29-1, where the x-axes are slightly displaced only for clarity.
+
+Figure 29-1 Events Viewed in Two Frames In the stationary frame, events a, b, and d have coordinates: a = (0,0,0,0)
+
+b = (t,0,0,0)
+
+d = (0,L,0,0)
+
+We transform these into moving frame coordinates using the Lorentz equations: X = γ(x–vt)
+
+T = γ(t–vx/c2)
+
+A = (0,0,0,0)
+
+B = (γt, –γvt,0,0)
+
+D = (–γvL/c2,γL,0,0)
+
+In the moving frame, the length of AD = D –A = γL, which is longer than L, the corresponding length ad in the stationary frame. What happened to length contraction? Note, in the stationary frame, a and d are simultaneous, but A and D have different time coordinates in the moving frame. It makes no sense to calculate the length of a moving ruler by measuring its ends at two different times. Since the time component of event D is negative, let’s wait a time interval dT=γvL/c2 and measure where the right end of the ruler is then, at the same T value as event A (T=0). During dt, the ruler moves: dX = –vdT = –γv2L/c2 This results in a new event, call it F, with coordinates: F = (0, γL–γv2L/c2 ,0,0) = (0,L/γ,0,0)
+
+(Recall γ(1-v2/c2) = 1/γ)
+
+When the both of ruler’s ends are measured at the same time, in the moving frame, its length AF is indeed shorter than length af, as we would expect.
+
+In the moving frame, the time interval between events A and B = γt, which is longer than t, the corresponding time interval in the stationary frame. Note, in the stationary frame, a and b have the same x-coordinate, but A and B have different x-coordinates in the moving frame. Here let’s try a different approach: define an event g, with coordinates: g = (t,vt,0,0)
+
+In the moving frame, the corresponding event G has coordinates: G = (γt–v2γt/c2, γvt–γvt, 0,0) = (t/γ,0,0,0)
+
+When both two times are measured at the same location, in the moving frame, time interval AG is shorter by the factor γ than the corresponding time interval ag in the stationary frame.
+
+When in doubt, the safest approach is using Lorentz transformations to properly compared events in different reference frames.
+
+## Chapter
+
+Geometric Optics We now begin a journey of many chapters exploring light, one of the most unique and important phenomena in nature. Nothing else is quite like light. Light is our primary means of observing everything in the world around us. We can’t understand what we’re seeing, if we don’t understand what “seeing” means. New discoveries about the nature of light led to the two greatest advances of 20th cent Quantum physics: relativity and quantum mechanics. Feynman, Schwinger, and Tomonaga received the 1965 Nobel Prize for developing quantum electrodynamics (QED), a comprehensive theory of light and its interaction with matter. Like general relativity, the comprehensive theory of gravity, QED is mathematically very challenging and is beyond the scope of an introductory physics course. (A thorough exploration of general relativity is available beginning with General Relativity 1: Newton vs Einstein.)
+
+Here we seek simpler models of light that are effective in limited circumstances. Feynman mentions three such models that are effective in different energy ranges. For very high-energy light, light’s wave properties are less important, allowing us to treat light as individual photons, as particle physicists do. Classical (pre-quantum) electromagnetic theory is effective for low-energy light, such as radio waves, which have very long wavelengths. Geometric optics is effective for moderate-energy light, such as visible light, with wavelengths that are microscopic but much larger than individual atoms. Again, each non-QED approach is an approximation that is valid in some circumstances, but not generally.
+
+Just for fun, Feynman briefly mentions some old, long-abandoned, notions of how we see with light. One such concept claimed something comes out of our eyes, “feels” around, and tells us what’s out there.
+
+Newton believed light was composed of particles. Almost all his contemporaries rejected Newton’s “corpuscular” theory because light beams easily pass through one another without effect. They thought particles of light would surely bounce off one another. QED explains why photons can indeed pass through one another without interacting — it’s a quantum thing.
+
+The modern model of vision is: Luminous sources emit light rays that travel in straight lines. Some light rays are reflected after striking the surface of various objects. Some of that reflected light happens to enter our eyes. Our eyes detect the frequency (color) and direction of incident light. From those inputs, our brain constructs a mental image of our surroundings.
+
+Geometric Optics
+
+Our journey through light begins with geometric optics, the simplest and oldest scientific model of light. Historically, geometric optics played an important role in the advancement of science over millennia. Geometric optics remains enormously useful for a broad range of scientific and engineering purposes. As the name implies, geometric optics is primarily about geometry, with little or no consideration of the wave characteristics or particle characteristics of light. Indeed, in optics, we don’t address what light is, but rather what it does in everyday situations.
+
+Reflection & Refraction
+
+When light strikes the surface of an object it may be reflected, refracted, or some combination thereof, depending on the properties of the object. Start with the simplest case: reflection. An ideal mirror reflects 100% of the light hitting its surface. Figure 30-1 shows light hitting a flat mirror at angle ø from the normal, the perpendicular to the surface, which is the x-direction in this case.
+
+Figure 30-1 Reflection from Mirror
+
+As was discovered long ago, the angle of the reflected light equals the angle of the incident light. From a modern perspective, this is easy to understand: since light has energy (E), it must also have momentum (p). Einstein showed (see Chapter 26) that for light p=E/c. Since the mirror is flat and perpendicular to the x-axis, it can transfer momentum only in the x-direction. This means light’s horizontal momentum is unchanged by reflection. Assuming the mirror does not move when light strikes it, energy conservation requires light’s total energy be the same before and after reflection. Therefore, light’s x-momentum must have the same magnitude, but opposite sign, before and after reflection. Hence the incident and reflected angles are equal.
+
+Now let’s discuss refraction and see what happens when light moves from air into a transparent material, such as water. As Figure 30-2 shows, light bends at the surface, its angle changes from ø to θ.
+
+Figure 30-2 Refraction of Light Entering Water
+
+In V1p26-2, Feynman says the ancient Greeks tried but failed to derive a relationship between angles ø and θ, despite actually making measurements, a radical departure from their typically philosophical norm. In 140 AD, Ptolemy of Alexandria (famous for his heliocentric epicycle model of the Solar System) recorded a list of bending angles for light entering water. Feynman believes Ptolemy measured a few angles and fit the remainder to a parabola, which is the wrong function. (If you’re going to “dry lab” data, use the right equation). Claudius Ptolemy was a Roman citizen, living in Roman Egypt, and had two distinctly Roman names — perhaps he experimented because he wasn’t entirely Greek.
+
+Fifteen centuries later, Willebrord Snell determined the true mathematical relationship, assuming Material has a characteristic refractive index n: Snell’s Law: sinφ = n sinθ This was explained by saying that the speed of light in a transparent medium is c/n. With n>1, this means light moves through transparent media slower than c, its speed in vacuum. I’ll have more to say about that later. For water at 20ºC, n=1.333.
+
+Feynman stresses the progression of science illustrated by this example. First we observe a phenomenon, then we make measurements, then we develop a formula that fits the measurements, and finally we discover a deeper understanding of Why. As Feynman says: “The real glory of science is that we can find a way of thinking such that the law is evident.” Note that in refraction, light always bends toward the more refractive medium. A useful analogy is a marching band parading into a shallow stream. The band enters at the upper right and marches into the water, the dark area at the bottom.
+
+Since water reduces the band’s speed, their ranks get tighter. Also the column turns toward the stream, because in each rank, the musicians on our left reach the water and slow down before those on our right. This analogy is actually quite accurate.
+
+Fermat’s Principle of Least Time In 1650, Pierre de Fermat (1601 – 1665) proposed his principle of least time: in traveling from point A to point B, light takes the path with the least travel time. Clearly, this principle is consistent with light traveling in straight lines when nothing is in its path. Let’s see how this principle also explains reflection and refraction.
+
+In Figure 30-4, our mirror has shrunk to a thin line MM* for clarity. We want to find the least-time path for light to go from A, down to the mirror, and up to B. Note that the direct AB path is blocked.
+
+Since light is traveling in air throughout, its speed is constant, so in this case, least time means least distance. Let D be the point where light hits the mirror. Our task is to find which D yields the path of least total distance AD+DB. In V1p26-3, Feynman proposes a clever trick. Consider the point B* below the mirror surface; it is the same distance from the mirror as B, and on the normal line that intersects the mirror at point F. For every point D on the mirror’s surface, the distances DB and DB* are equal since DFB and DFB* are congruent right triangles.
+
+Therefore, finding the minimum AD+DB is equivalent to finding the minimum AD+DB*. Clearly, the latter is simply the straight line AB*. Let C be the point where that line intersects the mirror. As we proved above for every point on the mirror’s surface, CB=CB*, hence AC+CB=AC+CB*.
+
+The right triangles CFB and CFB* are congruent as they have three equal sides. Hence angles FCB and FCB* are equal. Also, angles FCB* and ACM* are equal as they are opposite angles of two intersecting straight lines. This means angles FCB and ACM* are equal, therefore the incident angle ACX equals the reflected angle XCB.
+
+Another note about mirrors: if an observer at point A cannot directly see point B (as in the figure), every ray of light they see from B looks exactly as if it came from B*. That’s why mirrors give the illusion of objects being behind the mirror. Children typically figure out the mysteries of mirrors by the age of 18 months.
+
+Now let’s examine refraction using our model that the speed of light is different in different materials — that light’s speed is c/n in a medium of refractive index n. Figure 30-5 shows a light beam starting in air at point A, striking the water’s surface at point D, and ending at point B. B and A are equidistant from the surface. Light’s speed in air is very close to c (for air n=1.0003), while its speed in water is 0.75c, as n=1.333.
+
+In our coordinates, A is at (x,0), D is at (0,w) and B is at (–x,y). Note from the figure that w=xtanφ and (y-w)=xtanθ. We want to find the value of w that provides the path of least time. Clearly, w must be between 0 and y. As w goes from 0 to y, the travel time in air, T_AIR, increases monotonically while the travel time in water, T_H2O, decreases monotonically. These times are: T_AIR = [x²+w²]^0.5 / c T_H2O = [x²+(y–w)²]^0.5 / (c/n)
+
+Take the derivative of T_AIR with respect to w, and then use w=xtanφ: dT_AIR /dw = 0.5 [x²+w²]^-0.5 (2w)/c dT_AIR /dw = [x²+x²tan²φ]^-0.5 (xtanφ)/c Recall the trig formulas: 1+tan²φ = (cos²φ/cos²φ + sin²φ/cos²φ)
+
+1+tan²φ = (1/cos²φ)
+
+dT_AIR /dw = [1/cos²φ]^-0.5 (tanφ)/c dT_AIR /dw = cosφ (tanφ)/c = (sinφ)/c Now do the same for T_H2O: dT_H2O /dw= 0.5 [x²+(y–w)²]^-0.5 (2)(y–w)(–1)n/c dT_H2O /dw= –[x²+x²tan²θ]^-0.5 (xtanθ) n/c dT_H2O /dw= –(sinθ) n/c The path of least time corresponds to the value of w at which the derivative of total time is zero.
+
+0 = dT_AIR /dw + dT_H2O /dw 0 = sinφ – (sinθ)n sinφ = n sinθ This proves Snell’s law. Note that for n=1, we get the equation for a straight-line path: φ=θ.
+
+To illustrate that refraction is due to ve velocity differences on opposite sides of a boundary, Feynman makes the following analogy. A young, strong dashing lad on a beach races to rescue a drowning damsel in deep water. The lad might race straight toward her, but since he can run faster than he can swim, our hero would be wiser to run farther across the sand before turning and diving into the water. (Feynman was never a slave to political correctness or similar social conventions. Also, remember that fifty years ago, Caltech was not co-ed. Feynman lectured to 180 adolescent, geeky males; he needed to pique their interest.)
+
+In V1p26-4, Feynman stresses a key point. Most physics equations involve nice smooth functions, such as cosines, polynomials, and exponentials. As mentioned earlier, at any extremum (any maximum or minimum), any smooth function f can be expressed as a polynomial with no linear term, such as: f(x) = a₀ + a₂x² + a₃x³ + … The linear term is absent because df/dx=0 at an extremum, which we defined here to be at x=0. For small x, x² is very small, which means f is slowly varying near the extremum. Now let f be the light travel time on path x. Because f is slowly varying, many other light paths near the path of least time have times only slightly higher than the least time. Said another way, more light paths have times close to the least time than to any other time — the near-minimum paths are the most common. We will learn later that this is why light takes the least time path.
+
+Applications of Least Time A direct consequence of the principle of least time is the principle of reciprocity: if light can travel from A to B, it can also travel from B to A. Travel time is the integral of distance divided by light’s speed in the medium: ∫(1/v)ds = ∫(n/c)ds. Since both distance and speed are the same in both directions, the times for paths AB and BA must be identical. If AB is a least time path, then so is BA.
+
+Consider next the parallel displacement of light by a glass block. Figure 30-6 shows the initially horizontal light beam bending downward when it enters the glass block (n=1.52 for crown glass), and bending back to horizontal as it exits the block. The corresponding angles are equal by symmetry. The net effect is to deflect the light beam downward.
+
+Now consider the deflection of sunlight at sunset and sunrise. Earth’s atmosphere varies dramatically with altitude, being dense at the surface and rarified at great heights. Its index of refraction varies correspondingly. As sunlight enters, it gradually bends downward, as shown in Figure 30-7. The light we see at the surface appears to come from location S*, instead of the Sun’s true location far off to the right. We see the Sun’s image about 0.59 degrees higher at sunset than it actually is. This angle is slightly more than the Sun’s angular diameter of 0.53 degrees.
+
+Refraction also causes mirages — the illusion of water where none actually exists – often seen over hot pavement or sand. The hot surface of pavement or sand heats the air above it. As the air expands, its density and index of refraction decrease. Figure 30-8 shows light from the sky bending upward toward denser air. Air turbulence and temperature variations create the illusion of shimmering water.
+
+Focal Length of Spherical Lens The most important application of geometrical optics is designing lenses, devices that bend light to achieve various goals. The most common goal is focusing light rays.
+
+Assume we have a light source S, and we wish to focus as much of its light as possible at point F. The principle of least time provides the basic strategy: equalize the travel time along each path. If all paths have the same time, all of them also have the least time, and light will travel from S to F along all paths. As shown in Figure 30-9, we want the path SRR*F to have the same travel time as path SF. This is achieved using a lens material with high index of refraction n. The lens must be thicker in the middle to provide the greatest delay to the path with the shortest distance, SF. The lens is thinner for rays with longer path lengths, such as SRR*F. With geometric optics we can calculate the optimum lens shape.
+
+We begin with the simplest lens: a single spherical surface. Assume a light source S in air and a focal point F inside a large glass block with a spherical face, as illustrated in Figure 30-10. A spherical surface is an adequate lens for shallow-angle rays, those that deviate only modestly from the straight line SF. In V1p27-2, Feynman invites you to derive the ideal shape for all rays, a fourth-degree curve — only masochists need apply. I’ll stick to the spherical surface, centered at C with radius R. Our goal is to find the relationship between x, y, and R, and to evaluate this lens for rays with small values of h (the line BQ 在上图所示的情况下，我们假设 h << (x, y, R)。对于任意两个量 ε 和 W，若 ε << W²，我们可以反复使用一个有用的近似：
+
+√[W²+ε] = √(W²[1+ε/W²])
+
+√[W²+ε] ≈ W([1+ε/2W²])
+
+√[W²+ε] ≈ W+ε/2W
+
+这里我们忽略了 ε² 及更高阶的项。接下来，我们将忽略 h³ 及更高阶的项。现在，我们来计算距离 z, QF, SQ 和 SB：
+
+z = R – √(R²–h²)
+
+z = R – (R–h²/2R)
+
+z = +h²/2R
+
+QF = √(y²–h²)
+
+QF = y–h²/2y
+
+SQ = x+z
+
+SB = √[(x+z)²+h²]
+
+SB = √[x²+2xz+h²]
+
+SB = x+z+h²/2x
+
+运用最小时间原理，我们要求光沿路径 SBF 的传播时间等于沿中线路径 SQF 的时间。假设折射率分别为：玻璃的折射率为 n，较稀疏介质的折射率为 m。这将给出一个更普遍的结果；之后对于空气，我们可以令 m≈1。
+
+路径 SBF 的时间： T = SBm/c + yn/c cT = xm +(h²/2R)m +h²m/2x + yn cT = xm +yn +(1/R + 1/x)mh²/2
+
+路径 SQF 的时间： T = xm/c + zn/c + QFn/c cT = xm + n(h²/2R) + (y–h²/2y)n cT = xm +yn +(1/R + 1/y)nh²/2
+
+令 cT_SBF = cT_SQF；消去共同项： (1/R + 1/x)mh²/2 = (1/R + 1/y)nh²/2 m/R + m/x = n/R – n/y m/x + n/y = (n–m)/R 1/x + n/y = (n–1)/R （当 m=1 时）
+
+上述结果与 h 无关。这意味着来自 S 点的所有小角度光线都被球面聚焦于 F 点。
+
+在费曼物理学讲义第一卷第 27 章第二节中，费曼指出每个球面透镜都能聚焦来自任意距离光源的光。我们的方程给出了对于任意光源距离 x 和透镜参数 R、n，焦点 F 的深度。当光源 S 远离透镜时，焦点 F 向透镜表面移动。在 S 移动到无穷远（x=∞）的极限情况下，F 移动到一个称为内部焦距 f_INSIDE 的位置：
+
+0 + n/f_INSIDE = (n–m)/R f_INSIDE = nR/(n–m)
+
+类似地，根据可逆性原理，来自玻璃内部 F 点的光源发出的光线，会在玻璃外部聚焦于 S 点。如果玻璃块是无限深的，并且我们将光源放在图 30-10 右侧的无限远处，光线将聚焦在一个称为外部焦距 f_OUTSIDE 的位置：
+
+m/f_OUTSIDE + 0 = (n–m)/R f_OUTSIDE/m = R/(n–m)
+
+f_OUTSIDE/m = f_INSIDE/n
+
+这证明了任何透镜系统的一个重要普遍性质：焦距除以局部折射率，在透镜两侧是相同的。
+
+f_OUTSIDE/n = f_INSIDE/n
+
+我们现在用焦距将球面透镜方程改写成最常规的形式（对于空气，令 m=1）： 1/x + n/y = 1/f_OUTSIDE
+
+当光源距离透镜表面的距离小于焦距时，会出现一些奇特的效果。在上述方程中，如果 x < f_OUTSIDE，y 会变成负值。这意味着什么？在图 30-11 中，S 点非常靠近透镜，其光线经过折射球面并射出到右侧后并不汇聚。
+
+图 30-11 由发散光线造成的虚像
+
+发散的光线排除了在玻璃内部形成焦点的可能性。然而，对于玻璃内部的观察者来说，光线似乎是从 F 点而不是 S 点发出的。我们说在 F 点存在一个虚像。
+
+现在考虑平玻璃表面（或游泳池平水面）的情况。当 R=∞ 时，我们的方程变为： 1/x + n/y = (n–1)/R = 0 x = –y/n
+
+当光源 S 在玻璃内部（或水池中）时，外部观察者会感知到发散的光线，就好像它们来自图 30-12 中标记为 F 的虚光源。虚光源比实际光源更靠近水面。因此，如果一个人从水面上方看游泳池底部，它看起来会比实际深度浅——要注意！
+
+图 30-12 虚光源位于较浅深度
+
+**薄透镜的焦距** 现在我们考虑一个具有两个曲面的透镜，这是实际透镜的典型情况。回顾我们关于单个球面折射的方程： m/x + n/y = (n–m)/R
+
+保持一致的符号约定很重要，费曼在第一卷第 27 章第三节中定义如下： (1) x>0 表示光源 S 在透镜左侧。
+
+(2) y>0 表示像 F 在透镜右侧。
+
+(3) 半径 R>0 表示曲率中心在透镜表面右侧。
+
+图 30-13 显示了一个薄透镜，其厚度 T 远小于其他关键距离（x, y 和 R）。这允许我们忽略光线在两个透镜表面之间的位移。
+
+图 30-13 薄双面透镜的聚焦
+
+设透镜内的折射率为 n，透镜外的折射率为 m，并定义点 P 为透镜的上边缘。
+
+路径 SPF 的时间是其长度除以速度 c/m： SPF 时间 = [(x+h²/2x) + (y+h²/2y)] (m/c)
+
+SPF 时间 = [x + y + (1/x + 1/y)h²/2] (m/c)
+
+路径 SF 的时间是其在透镜外的长度除以速度 c/m，加上透镜厚度除以速度 c/n： SF 时间 = (x+y–T) (m/c) + T (n/c)
+
+SF 时间 = [x+y] (m/c) + T(n–m)/c
+
+令两个时间相等并消去共同的 x+y 项： [(1/x + 1/y)h²/2] (m/c) = T(n–m)/c (m/x + m/y)(h²/2) = T(n–m)
+
+我们可以用两个透镜表面的曲率半径来表示 T。对于每个表面，距离 b 在与直线SQF相交点及点Q之间的距离为h²/2R，如上所述。对于该透镜，两个曲率半径均为正值，且右表面的曲率比左表面更陡。这意味着右表面的曲率半径R小于左表面的曲率半径R：R < R。透镜厚度等于： T = h²/2R – h²/2R 将最后两个方程结合得到： (n/x + n/y)(h²/2) = (n–m)(h²/2)(1/R – 1/R)
+
+n/x + n/y = (n–m)(1/R – 1/R)
+
+当x趋近于无穷大时，y变为焦距f： 1/f = (n/m – 1)(1/R – 1/R)
+
+若y趋近于无穷大，我们得到相同的焦距f，因为在x和y处的局部折射率均为n。回顾一般规则：焦距与局部折射率的比值在透镜两侧相同。
+
+我们可以用f重写方程： 1/x + 1/y = 1/f 对最后一个方程关于x求导得： –1/x² – (1/y²) dy/dx = 0 dy/dx = –y²/x² 这证实了费曼的观点：随着x增加（向左移动），y减小（向左移动），反之亦然。他还指出在对称排列中x=y=2f。
+
+透镜放大率我们目前讨论了沿透镜对称轴的光源点和像点。我们知道相机镜头聚焦来自广阔场景各部分的光，而不仅仅是轴上光线。我们还知道望远镜对星系团等宽光源成像。现在让我们探索透镜如何对离轴光线成像。
+
+在V1p27-5中，费曼强调了两个要点： (1) 与透镜轴平行进入一侧的光线通过另一侧的焦点。
+
+(2) 通过一侧焦点的光线以平行于透镜轴的方向从另一侧射出。
+
+这两个陈述均源自1/x + 1/y = 1/f。明白原因吗？
+
+图30-14显示了一个沿QT放置的薄透镜，其对称轴上有两个焦点：一个在左侧距离f处，另一个在右侧相同距离f处。
+
+图30-14 薄透镜的放大率从S到Q的光线与透镜轴平行，根据规则(1)通过右侧焦点。另一条从S出发的光线通过左侧焦点并射到镜面上的T点。根据规则(2)，该光线以平行于轴的方向射出透镜。这两条光线相交于我们称为F的点。费曼指出所有来自S的光线都会聚焦于F，但未展示数学推导，因为其他光线“更难计算”。
+
+根据相似三角形，左侧有w/z=w*/f，右侧有w*/z*=w/f。整理这些式子得到透镜方程： w*/w = f/z = z*/f 比值w*/w即为透镜放大率。由这些方程我们也得到z和z*之间的关系。
+
+zz* = f² 透镜系统任何透镜系统都可以通过反复应用透镜方程来分析。每个透镜将来自光源S的光聚焦在像点F。F处的聚焦光成为下一个透镜的光源S。我们逐步通过每个透镜到达最终像点。
+
+在V1p27-6中，费曼强调了任何两端折射率相同的透镜系统的一个有趣特性。这类系统包括大多数显微镜和望远镜。每个这样的系统都有两个垂直于对称轴的主平面。这些系统的功能就如同所有位于主平面之间（包括它们之间的空间）的内容都可以被移除并替换为一个薄透镜。就好像光线在第一个主平面处消失，然后在第二个主平面处以相同的位置和轨迹重新出现，如图30-15所示。
+
+图30-15 透镜系统的主平面从任一侧进入的、在第一个主平面处平行于轴的光线通过另一侧的焦点。通过一侧焦点的光线以平行于透镜轴的方向从另一侧射出。复合系统的功能完全像一个薄透镜，前提是我们在测量距离时从主平面而非实际透镜位置开始。在大多数此类系统中，主平面位于两侧最外层透镜表面附近。如果我们知道焦距和主平面位置，就可以计算任何光线的路径，而无需了解黑箱内部的内容。
+
+透镜像差 V1p27-7 早些时候我们说过，对于小角度光线，球形表面是足够的透镜。理想的透镜会完美聚焦所有角度的光线。然而，理想的透镜具有更复杂的表面，生产成本要高得多。由于成本原因，大多数透镜是球形的，并且由于大角度光线的不完美聚焦而产生模糊图像。这称为球差。巧妙的复合透镜设计通过将一个透镜的像差与另一个的像差相消来改善成像质量。
+
+出于同样的原因，透镜系统在其视野中心的聚焦效果优于边缘。望远镜图像中心聚焦良好的恒星，如果望远镜稍微倾斜，就不会聚焦得那么好。
+
+oving the star to the edge of its image. This imperfection is called coma, or comatic aberration.
+
+Lenses also suffer chromatic aberration due to light of different frequency having different indices of refraction. This means when we use lenses to focus white light, which is composed of many frequencies, the blue and red rays focus at different points.
+
+Large telescopes avoid some of these aberrations by employing reflecting mirrors rather than refracting lenses.
+
+We will discuss some of these matters again after describing the wave properties of light.
+
+## Chapter 30 Review: Key Ideas
+
+1. Light is a unique natural phenomenon that reveals nearly everything we know about the world around us.
+
+2. Various sources emit light, which travels in straight lines until striking the surface of some object. Some of that light reflects off these surfaces and enters our eyes. Our visual system detects light’s frequency (color) and direction, from which our brain constructs a mental image of our surroundings.
+
+3. When light reflects from a surface, its incident angle equals its reflected angle. Both angles are measured from the normal, the line perpendicular to the surface.
+
+4. In a transparent medium, light waves appear to propagate at a slower speed c/n than light’s vacuum speed c; n is the medium’s refractive index.
+
+5. When moving from a medium of refractive index m to another of refractive index n, light refracts, its angle relative to the normal changes from ø to θ, in accordance with Snell’s law: m sinø = n sinθ, Light bends toward the more refractive medium.
+
+6. In traveling from point A to point B, Fermat’s principle of least time says light takes the path of least travel time.
+
+7. The principle of reciprocity says if light can travel from A to B, it can also travel from B to A.
+
+8. A spherical surface adequately focuses rays at shallow angles to the normal. For a surface of radius R, refractive index m outside and n inside the sphere, and a source S at a distance x from the surface, light rays from S are focused at image point F at a distance y from the surface. By reciprocity, light from a source at F will be focused at S. In the limit that F is infinitely far away, x becomes the outside focal length. These equations apply: m/x + n/y = (n–m)/R f = Rm/(n–m)
+
+## OUTSIDE
+
+m/x + n/y = m/f
+
+## OUTSIDE
+
+## 9. For a thin lens, with source S and image F outside the lens:
+
+1/x + 1/y = 1/f 10. The magnification of a thin lens equals f/z = z*/f, where f is the focal length, (z+f) is the source distance to the lens, and (z*+f) is the image distance to the lens.
+
+11. Any lens system with the same refractive index at opposite ends has two principal planes normal to its axis. Such systems act as if everything inside the two planes, including the space between them, can be removed and replaced by a single thin lens.
+
+## Chapter
+
+Wave Properties of Light Waves are motion. They move through space and change with time.
+
+Let’s review some basic wave terminology. As illustrated in Figure 31-1, waves oscillate in identically repeating cycles. The wavelength λ is the spatial extent of one complete cycle, the distance between consecutive crests or troughs. Amplitude A is how high the wave goes up above and goes down below its average.
+
+Figure 31-1 Wave Terminology If the above wave were moving to the left, its entire shape would move left in unison as if it were a solid object. If we focus on a specific point, such as point Q, we would see the wave height going up and down as time passes, oscillating between +A and –A. If the wave goes through 9 full cycles per second, its frequency f is 9 cycles/second, or 9 Hertz, which is abbreviated 9 Hz. The product of wavelength and frequency equals the wave’s velocity v: λf=v. Frequency can also be expressed in radians/second: the angular frequency ω=2πf.
+
+Einstein and de Broglie developed some key relationships for various properties of particle-waves.
+
+Let E be the energy and p be the momentum of a particle-wave. Let h be Planck’s constant and ħ=h/2π.
+
+For light: E=hf E=ħω E=pc c=λf λ=hc/E λ=h/p ω/c=2π/λ.
+
+What Is Light?
+
+Light is an electromagnetic phenomenon consisting of oscillating electric (E) and magnetic (B) fields, which give light its wave properties. Light is not a material object; it contains no matter, just fields.
+
+The E and B fields oscillate together, cresting and troughing simultaneously. The directions of E, B, and light’s velocity are all mutually perpendicular.
+
+Figure 31-2 attempts to portray this 3-dimensionality: the E field (solid line) goes up and down in the plane of the screen, the B field (dotted line) goes in and out of the screen, and light moves to the right across the screen.
+
+Figure 31-2 Oscillating E and B Fields of Light The E and B fields can oscillate at any frequency whatsoever. Physicists work with light frequencies from as low as a few Hz to more than a trillion, trillion Hz. Light’s energy increases with frequency; to my knowledge, 16 TeV is the highest photon energy ever observed. That equals the mass-energy of 1000 oxygen atoms, and exceeds the energy of the most powerful man-made particle accelerator, the LHC at CERN, near Geneva.
+
+Various portions of the light frequency/wavelength spectrum have names: While these names are commonly used, they have no natural significance. Light is a single phenomenon that comes in a continuous spectrum of all wavelengths and frequencies. No natural dividing line separates gamma rays from x-rays, or any of the other named types of light. As Feynman says in V1p26-1: “Nature did not present us with sharp edges.” Human eyes are sensitive to a certain range of frequencies we call “visible light.” Of course that light is vitally important to us. But other species can see light of different frequencies. Assigning different names to light of different frequencies is like having different names for a car moving at different speeds. Ferraris and Fiats truly are different, but two Ferraris aren’t different just because their speeds are different.
+
+In fact, a specific number of cycles/second isn’t an intrinsic property of light. Light’s frequency depends on the observer as well as the source. Betelgeuse, the star at the left shoulder of the Orion constellation, looks red to us on Earth, but it might look blue to the crew of a rocket speeding toward it.
+
+For these reasons, I use “light” to describe every part of the electromagnetic spectrum, regardless of frequency or wavelength.
+
+While specific frequencies aren’t intrinsic properties, light’s wave properties are essential characteristics of its nature, leading to the phenomena of interference and diffraction.
+
+Wave Interference We are so accustomed to adding particles and other bits of matter that we don’t often notice the process: three coins plus four coins equals seven coins — no physics required. But adding waves is not so simple, and this complexity leads to important microscopic effects unlike anything we experience in our macro-world.
+
+The most dramatic effect is interference, which arises when waves combine that have the same frequency and a fixed phase shift. Phase shift is how much one wave is shifted relative to another wave of the same frequency. If two waves crest and trough at the same time, their phase shift is zero. For the two waves shown in the upper portion of Figure 31-3, the phase shift is 1/4 wavelength. Since waves repeat exactly each cycle, a phase shift of 1.37 wavelengths is indistinguishable from a phase shift of 0.37λ; thus phase shifts are normally described as ranging from 0 to 1 λ, or equivalently from 0 to 2π radians.
+
+Figure 31-3 Wave Phase Shift & Adding Waves When two waves, A and B, combine with zero phase shift, they interfere constructively, producing a larger wave, as in the lower left side of this figure. Conversely, if one wave crests when the other troughs, their phase shift is 1/2 wavelength. When these combine, the waves interfere destructively, totally cancelling one another, as in the lower right side of this figure. Feynman notes that only physicists could have invented the seemingly nonsensical term “constructive interference.” Waves carry energy. Their intensity is how much energy they carry per unit area per second, and is proportional to the square of their wave amplitude. When two waves of equal amplitude A interfere constructively, the resulting wave has amplitude 2A and intensity 4A2 — four times the intensity of each original wave. Before rushing to the patent office, know that the same waves necessarily interfere destructively in other locations, where the intensity is zero. It all averages out to exactly conserve energy, as we shall discover.
+
+Phase shifts can correspond to any fraction of a wavelength, with their interference effects being somewhere in between totally constructive and totally destructive.
+
+Waves with the same frequency and a fixed phase shift are said to be coherent. Coherent waves often originate at the same source, but travel to a destination along different paths. If the path traveled by one wave is λ/2 longer than the path traveled by another, the waves’ relative phase shift is 1/2 wavelength. In this case, one wave always peaks when the other troughs, and their sum at that destination is always zero — complete destructive interference.
+
+Waves are incoherent if they have different frequencies or have varying phase shifts. Phase shifts vary if any of the waves’ path lengths continually change. Only coherent waves with a phase shift of 1/2 wavelength can totally cancel one another.
+
+Let’s explore wave interference by examining the famous two-slit experiment. A light source S illuminates an opaque barrier with two small slits, resulting in two light waves, as shown in Figure 31-4. The source is on the horizontal axis, with the slits equal distances above and below. This arrangement ensures the two light waves emerging from the slits are coherent with zero phase shift.
+
+Figure 31-4 Two-Slit Experiment With Light Source The two waves combine on F, a light-dete cting screen, such as film or a CCD array. The y coordinate measures displacement from the horizontal symmetry axis. On the figure’s right side are alternating black and white bands called an interference fringe pattern, representing the light intensity recorded by F. Why the fringes?
+
+By symmetry, the waves from the upper and lower slits travel the same distance to reach F at y=0. Therefore their relative phase shift remains zero, as it was at the two-slit barrier. The waves interfere constructively, resulting in high-intensity light at y=0, represented by the central white fringe. But, as y increases, the interference changes. The distance from the upper slit decreases and the distance from the lower slit increases, as shown by the arrows in the figure. At some y value, the difference in travel distance equals λ/2. There, the lower wave arrives one-half cycle after the upper wave, corresponding to a phase shift of λ/2, making the interference entirely destructive. The light intensity drops to zero, resulting in a black (unexposed) fringe. At about twice that value of y, the path length difference grows to λ and the lower wave arrives one full cycle after the upper wave. But a full cycle delay is equivalent to zero delay since waves repeat exactly every cycle. This means the phase shift is effectively zero, interference is constructive, and a white fringe is produced. This pattern continues up and down the vertical axis, resulting in alternating black and white fringes of nearly equal width.
+
+Interference fringes are a hallmark signature of wave behavior. If the wave angles relative to horizontal are small, such that sinθ≈θ, the smallest y value where interference is entirely destructive has a simple expression. For slit separation d, and barrier to F-plane distance L: y = ±λL/2d. The fringe pattern repeats at twice this y value.
+
+Interference & Principle of Least Time
+
+Wave interference explains why and how well the principle of least time works. Let’s employ our new wave concepts to better understand light reflection. Consider light from a source at A reflecting from a flat mirror MM* and arriving at B, as illustrated in Figure 31-5.
+
+Figure 31-5 Reflection From Flat Mirror
+
+Let y be the horizontal coordinate and define y=0 to be midway between A and B, which are at coordinates (x,–L) and (x,+L) respectively. The distance Z a light ray travels from A to the mirror at y and back to B is: Z = √[x²+(L+y)²] + √[x²+(L–y)²]. Defining d = √[x²+L²], and neglecting terms smaller than y², Z reduces to: Z = 2d + y² x² / d³. We see Z is minimum at y=0, where dZ/dy=0. We also see that Z is slowly varying near its minimum, increasing only as y². This means light rays hitting the mirror near y=0 all have nearly the same travel distance to B, and the phase shifts of all these rays relative to one another are nearly zero; they therefore interfere nearly completely constructively, resulting in high light intensity along y≈0 paths.
+
+Light rays hitting the mirror far from y=0 travel very different distances en route to B. When those differences are large compared to λ, the rays have large phase shifts that vary rapidly with y. These phase shifts will be uniformly distributed across the full range of 0 to 1 cycle, and interference effects will average to zero, resulting in very little light intensity along such paths.
+
+Constructive interference makes a dramatic difference. For x=L=1m, interference is constructive over a 1mm range of y for visible light. A 1mm wide light beam has constructive interference from trillions of atoms near y=0. The resulting intensity is more than a trillion, trillion times that of other paths. At a fundamental level, this is why the angle of reflection equals the angle of incidence. Light from A hits atoms across the entire surface of the mirror. These atoms re-emit light in all directions. But only those rays hitting near y=0 interfere constructively with one another en route to B, because only there are the phase shifts nearly equal. The slow variation of travel distance near the least time path results in the constructive interference of y≈0 rays, and establishes the dominant light path from A to B.
+
+Next, consider an elliptical mirror. Ellipses have two focal points. Their defining property is that every point P on the ellipse has the same total distance to the two foci, as shown in Figure 31-6.
+
+Figure 31-6 Elliptical Mirror with Foci A & B
+
+For a light source at focal point A, what does the principle of least time say about light’s path to focal point B? The shortest distance is clearly the straight line AB, avoiding the mirror entirely. Indeed, light rays close to the direct AB path do interfere constructively, establishing that as one active light path. But that’s not the dominant light path. Since light is a wave, we can imagine light spreading out in all directions from A. The vast majority of light rays hit the mirror (before arriving at B) and are re-emitted in all directions. The path from A to P a and back to B has the same length for every point P; that’s the definition of an ellipse. This means all APB light paths have zero phase shift relative to one another. They therefore interfere constructively, resulting in a very high intensity at B from reflected rays; a much higher intensity than that of the direct AB path. Two light paths are active, but the brightest path is not the one with the least time.
+
+A final example for reflection: a parabolic mirror, the universal choice for major telescopes. Light rays from cosmically remote celestial bodies, represented by the vertical lines in Figure 31-7, are parallel when they reach Earth. Rays emitted at the same time reach the upper dashed line simultaneously (except for annoying atmospheric effects).
+
+Figure 31-7 Light Focusing by Parabolic Mirror
+
+If not for the mirror, they would also reach the lower dashed line simultaneously. The mirror’s parabolic shape ensures each ray has the same path length from mirror to focus as from mirror to the lower dashed line. Such mirrors provide equal arrival times at their focus for all simultaneously emitted rays that are parallel to the mirror axis. The relative phase shifts of all such rays are zero, so they all interfere constructively, maximizing light intensity.
+
+Total Internal Reflection
+
+Feynman doesn’t discuss it in his book, but total internal reflection is worth exploring, both for the physics and for its impact on modern worldwide communications.
+
+Consider refraction from the inside out. Begin with a light beam inside a refractive medium such as glass. When this light beam encounters the surface between glass and air, it may refract into the air (dashed line) or reflect back into the glass (solid line), as shown in Figure 31-8. (As we’ll discuss in detail in Chapter 36, another possibility is part of the wave may refract while the remainder reflects.)
+
+Figure 31-8 Internal Reflection
+
+The angle of the refracted beam is governed by Snell’s law: n sinø = sinθ. But what if n sinø > 1? For glass with index of refraction n=1.52, the critical angle ø, defined by sinø = 1/n, is about 41 degrees. Since sinθ > 1 is impossible, zero light is refracted when its incident angle is greater than the critical angle.
+
+Above the critical angle ø, 100% of the light is reflected at the surface and remains within the glass. Said another way, for all angles β with cosβ > 1/n, light is completely contained within the glass. This is the physics enabling fiber optic communication. Commercial fibers optimize various performance factors with multiple concentric layers of different indices of refraction, but all rely on total internal reflection to minimize signal loss.
+
+Diffraction
+
+When a wave passes through an aperture, it diffracts. In Figure 31-9, a plane wave, one whose black troughs and white crests are straight lines, rises from the bottom of the figure and hits a barrier with a single large hole.
+
+Figure 31-9 Wave Diffraction Due To Aperture
+
+As the wave continues upward, wave interference produces a beautiful and complex distribution of wave energy. Note the strong central lobe and weaker side lobes, each separated by minima, radiating lines of zero intensity. No self-respecting particle would behave in such a complex manner; particles passing through a hole simply continue moving in straight lines.
+
+Let’s understand the reason for this complex pattern. The key physics is that we can consider each point along the aperture to be a new wave source: a new wave spreads out in all directions from each point. You can think of a large aperture as being the limiting case of many small slits. Recall the two-slit experiment; the intensity at the detector is determined by combining the waves coming from each slit with careful attention to how they interfere. If we had 17 slits, we would combine waves from each of the 17 slits, again noting their interference. One large aperture is the limiting case of a vast number of infinitesimal slits with infinitesimal separations.
+
+Figure 31-10 is a magnified view of the aperture. Consider the portion of each wave that moves at angle θ toward the left of the vertical axis, the axis of symmetry and the original wave direction.
+
+Figure 31-10 Magnified View of Diffraction Aperture
+
+In the θ direction, the wave from the right side of the aperture travels a longer path by the amount d than the wave from the left side; for aperture width W, d = W sinθ. Let y be the horizontal axis with y=0 at the middle of the aperture; y ranges from –W/2 to +W/2. The extra path length for a wave starting at y is y sinθ, corresponding to a phase shift of δ = 2πy(sinθ)/λ radians, where λ is the wavelength. Define ß = 2π(sinθ)/λ, so δ = ßy.
+
+Let’s calculate the sum of all waves arriving at some distant point in the θ direction. We need to normalize this sum by dividing it by ∫dy = W to keep the total wave energy constant. For the moment, we will ignore the time dependent oscillation, which is common to all these waves. The total amplitude at θ is the integral of The cosine of the varying phase from y = –W/2 to +W/2.
+
+A(θ) = ∫ cos(βy) dy / W A(θ) = sin(βy) / βW, from y = –W/2 to +W/2 A(θ) = {sin(βW/2) – sin(–βW/2)} / βW A(θ) = 2sin(βW/2) / βW A(θ) = (1/x) sin x where x = π(sin θ) W/λ
+
+Figure 31-9 shows that the central lobe carries the substantial majority of the total wave energy. The first minimum on each side of the central lobe occurs when the phase shift δ = ±π at y = ±W/2. Call the corresponding angle θ_MIN.
+
+x = π = π sin(θ_MIN) W/λ sin(θ_MIN) = λ/W, in 1-D
+
+Our derivation is for a one-dimensional aperture. For two-dimensional apertures, the analysis requires Bessel functions and results in: sin(θ_MIN) = 1.22 λ/W, in 2-D
+
+Diffraction is the ultimate limiting factor in telescopes and microscopes, for which W is the size of the optical element limiting light acceptance, typically the primary mirror or lens. Even the most perfect optical systems cannot avoid diffraction since it is an inevitable consequence of light’s wave nature. The generally accepted Rayleigh criterion states two point sources can be resolved (distinguished from one another) in an optical image if the diffraction maximum of one source coincides with the first diffraction minimum of the other, assuming sources of equal intensity. This corresponds exactly to the θ_MIN we calculated above.
+
+Figure 31-11 shows images of two sources whose separation is more than, equal to, and less than the Rayleigh limit.
+
+Figure 31-11 Diffraction from Two Sources vs Separation From Top to Bottom: Above, At, & Below Rayleigh Criterion
+
+While this is subjective, and advanced techniques enable resolving somewhat closer sources, the Rayleigh criterion is a useful guideline.
+
+Better resolution requires imaging light of a shorter wavelength λ, or increasing the aperture W, which is often very expensive.
+
+The intensity I(θ) of the diffracted light in Figure 31-9 is proportional to A(θ) squared: I(θ) ~ (1/x)² sin²(x)
+
+Expanding the sine in a power series yields for small θ: I(θ) ~ (1/x)² { x – x³/6 + …}² I(θ) ~ (1/x)² { x² – x⁴/3 + …} I(θ) ~ 1 – x²/3 + … where again x = π(sin θ)W/λ and θ_MIN = λ/W in 1-D. The entire diffraction pattern narrows as W increases, and widens as W decreases. As W goes to infinity, θ_MIN goes to zero, and the entire diffraction pattern narrows to a single line. If the aperture is infinitely wide, the barrier effectively does not exist. This confirms that light propagates in a straight line when unimpeded.
+
+Indeed this is why light travels in a straight line (in a constant refractive index).
+
+This brings us to a bizarre solution to a simple problem that dramatically advanced science.
+
+How does light “know” how to go in “a straight line” from A to B? Despite appearances, this isn’t at all simple; hold on tight!
+
+In V1p26-7, Feynman says: “With Snell’s theory we can ‘understand’ light. Light goes along, it sees a surface, it bends because it does something at the surface. The idea of causality, that it goes from one point to another, … is easy to understand. But the principle of least time is a completely different philosophical principle about how nature works. Instead of saying it is a causal thing, that when we do one thing, something else happens, … it says this: we set up the situation, and light decides which is the shortest time…and chooses that path. But what does it do, how does it find out? Does it smell the nearby paths, and check them against one another? The answer is yes, it does, in a way.”
+
+Our most fundamental understanding is: A source at point A emits light waves in all directions. As that light spreads through space, every point in space becomes a new source, re-emitting light in all directions. Eventually light waves spread to all possible destinations. The intensity of light at any destination B is determined by the interference of waves reaching B along every possible path from A. Along one or possibly more paths, interference of nearby paths is constructive; wave energy flows along these paths. Along other paths, interference averages to zero, little if any energy flows along these paths.
+
+The process just described is generally referred to as either the Feynman sum over histories or the Feynman path integral formulation. When Feynman first presented this concept in the 1940’s, most of the world’s physics elite didn’t understand him. It was just too bizarre. It wasn’t causal, in the accepted sense. It says quantum waves do many strange things in many different places simultaneously. Strange yes, but its predictions match nature superbly.
+
+We don’t really know whether or not this is the way nature actually works. We also don’t really know whether or not neutrinos exist (they’re invisible), but assuming neutrinos do exist explains a lot of what we do see. One could replace the word “neutrino” in the last sentence with almost anything else and it would still be true. One might even argue that your fingers are an assumption your brain makes to make sense of its sensory inputs.
+
+Right answers vanquish doubt.
+
+The success of Feynman’s path integral formulation made it the backbone of all quantum field theories, of which quantum electrodynamics (QED) and the standard model of particle physics are the primary examples. It does take some getting used to. Let’s try an example. This process is illustrated in Figure 31-12, where each dot is a re-emission point and the circles indicate waves emitted from those points. In reality, light is re-emitted at every point. The solid-line circles and dark dots indicate one possible path that reaches B.
+
+The shortest path from A to B is a straight line. Waves traversing nearby paths have travel distances only slightly longer than the straight-line path. These waves arrive at B with relative phase shifts that are nearly zero, so they interfere nearly completely constructively, creating a high intensity path. Waves taking more circuitous routes have large, rapidly varying phase shifts. Indeed, since the wavelength of most light is microscopic, most path length differences are much larger than λ, and the phase shifts of such waves tend to be uniformly distributed across the full range of 0 to 1 cycle, eliminating interference effects. This distinction has dramatic consequences. If one million almost-same-time paths interfere constructively, the resulting intensity is one trillion times that of other paths. The net effect of this intricate microscopic ballet is: light moves in a straight line from A to B.
+
+How does Feynman’s sum over histories mesh with the principle of least time? Feynman says sum the waves, with their proper phases, over all possible paths. The path(s) with the most constructive interference will be the path(s) light travels.
+
+Consider a situation in which we can parameterize all paths with one variable. We can plot travel time along all paths as a function of that variable, which might look like Figure 31-13. At the indicated points A, B, and C, the slope of the curve is zero: travel time is at an extremum, a local maximum or minimum.
+
+Near A, B, and C, travel times and therefore phase shifts, are varying more slowly than anywhere else. These are the paths with the greatest constructive interference, and thus according to Feynman, the paths along which almost all light energy travels.
+
+Our understanding of light’s motion began with the principle of least distance, which works within a single medium, but fails to explain refraction. Our thinking evolved to the principle of least time, which can explain refraction, but not reflection within an ellipse. Feynman sums amount to a principle of extremal times, where interference is maximally constructive. To date, we know of no situation that is not explained by Feynman sum over histories.
+
+## Chapter 31 Review: Key Ideas
+
+1. Waves are motion. Waves oscillate in identically repeating cycles. The spatial extent of one complete cycle is the wavelength λ. The number of complete cycles/second is the wave’s frequency f. Amplitude A is how high the wave goes up above and goes down below its average.
+
+2. Light is an electromagnetic phenomenon consisting of oscillating electric and magnetic fields, giving light wave properties. The E and B fields crest and trough simultaneously. The directions of E, B, and light’s velocity are all mutually perpendicular. While different frequencies are assigned different names, the term “light” properly applies to the entire spectrum.
+
+3. Einstein and de Broglie developed key relationships. Let E be the energy and p be momentum of a wave. Let h be Planck’s constant and ħ=h/2π. For light: E=hf, E=ħω, E=pc, c=λf, λ=hc/E, λ=h/p, ω/c=2π/λ.
+
+4. When waves with the same frequency and a fixed phase shift combine, they interfere constructively if the phase shift is zero, and interfere destructively, totally cancelling one another, if the phase shift is λ/2. Interference is a hallmark signature of wave behavior.
+
+5. For reflection from a mirror, wave interference ensures the angle of reflection θ equals the incident angle ø. Incident light hits atoms across the entire surface of the mirror. These atoms re-emit light in all directions. Slow variation of travel distance near the path with θ=ø ensures constructive interference of nearby rays and establishes the dominant light path.
+
+6. When light of wavelength λ transits an aperture of width W, it diffracts, producing a strong central lobe and innumerable side lobes separated by zones of zero intensity. The intensity at angle θ, I(θ), and the angle of first minimum θ_MIN are: I(θ) ~ (1/x)² sin²(x) with x = π (sinθ) W/λ, sin(θ_MIN)=λ/W, for a 1-D aperture; sin(θ_MIN) = 1.22 λ/W, in 2-D.
+
+7. The Feynman sum over histories, also called the Feynman path integral formulation, states: A source at point A emits light waves in all directions. As that light spreads through space, every point becomes a new source, re-emitting light in all directions. Eventually light waves spread to all possible destinations.
+
+The intensity of light at any destination B is determined by the interference of waves reaching B along every possible path from A. Along one or possibly more paths, interference of nearby paths is constructive; wave energy flows along these paths. Along other paths, interference averages to zero, little if any energy flows along these paths.
+
+The paths where interference is constructive are those of extremal time, where nearby paths all have about the same travel time. The mathematical criterion is: d(travel time)/d(path)=0. This distinction has dramatic consequences. If one million almost-same-time paths interfere constructively, the resulting intensity is one trillion times that of other paths. As the science of light advanced over many centuries, Feynman’s path integral formulation superseded Fermat‘s principle of least time, which had superseded the principle of least distance.
+
+## Chapter
+
+Electromagnetic Radiation
+
+In V1p28-1, Feynman says: “The most dramatic moments in the development of physics are those in which great syntheses take place, where phenomena which previously had appeared to be different are suddenly discovered to be but different aspects of the same thing. The history of physics is the history of such syntheses, and the basis of the success of physical science is mainly that we are able to synthesize.”
+
+Feynman continues saying the most dramatic synthesis of the 19th century may have been Maxwell’s combining of the laws of electricity, magnetism, and light. All of Volume 2 of the Feynman Lectures (two-thirds of the second year of his course) is devoted to electricity and magnetism. In Volume 1, he presents only enough electromagnetism to understand light.
+
+Feynman begins with a quick summary of the topic’s historical highlights. The gradually revealed properties of electricity and magnetism showed these were complex forces that, like gravity, diminished with distance squared: the famous inverse-square law, 1/r2. Remote systems of charged bodies would, therefore, exert virtually no influence on one another. But, as Maxwell tried to unify the equations for these forces, he realized they were mutually inconsistent. Rectifying this inconsistency required the addition of a new term to his equations. This new term led to the amazing prediction of an electromagnetic effect that diminished only with the first power of distance: 1/r.
+
+For enormous distances, there is a vast difference between 1/r2 and 1/r. That difference enables radar, radio, television, and satellite communication — many of the technologies that provide us a quality of life unimaginable 150 years ago. Feynman says: “It seems like a miracle that someone talking in Europe can, with mere electrical influences, be heard thousands of miles away in Los Angeles.” How much more miraculous would Feynman consider someone in Pasadena listening to Voyager 1, 12 billion miles away, now outside our Solar System.
+
+“And thus the universe is knit together.” Feynman said. “The atomic motions of a distant star still have sufficient influence at this great distance to set the electrons in our eye in motion, and so we know about the stars. If this law did not exist, we would all be literally in the dark about the exterior world!”
+
+Feynman then continues the historical summary, enumerating the laws of physics as they were understood in the 19th century: Newton’s laws of mechanics, Newton’s law of gravity, the laws of thermodynamics, and finally the laws of electromagnetism. I shall not repeat all the equations of the last 31 chapters, but list only those for electromagnetism.
+
+Coulomb’s law for the force F on an electric charge q, moving with velocity v, due to the electric E and magnetic B fields at its location is: F = q(E + v×B). The electric and magnetic fields are both linear, meaning that we can calculate the fields due to each charged particle individually and then simply add them to obtain the total fields. The electric and magnetic fields at spacetime coordinates O=(0,0,0,0) due to a single charge q at the apparent location r is: E = –q/(4πε){r/r3 +(r/c)d(r/r3)/dt +d2(r/r)/dt2/c2}, B = –r×E/rc. No worries: we defer most of this to Volume 2.
+
+Here r2 = r•r, and r/r is a convenient notation for a vector in the r-direction with length 1. By “apparent location” we mean the location of the charge observed at O, accounting for delays due to the finite speed of light.
+
+Let me describe the significance of each piece of this complex equation. After the initial constant, the first term containing r/r3 leads to the 1/r2 electrostatic force. Feynman describes the next term “very crudely”, saying the d(r/r3)/dt term “corrects”, in part, for the light-speed delay; it is the rate of change of the first term multiplied by the time delay, r/c. Finally, the third term, with d2(r/r)/dt2, enables electromagnetic radiation.
+
+Radiation V1p28-4
+
+The radiation piece of our complex equation is: E = –q/(4πεc2) {d2(r/r)/dt2}. This says, when an electric charge accelerates, it c Creates an electric field that diminishes as 1/r. The acceleration generally has components along all three axes of space. We can make this a bit simpler, because we only need to account for the acceleration perpendicular to our line-of-sight. For specificity, let z be the axis along the line-of-sight, and let x and y be the transverse axes. Let’s see why we are only concerned with xy-acceleration.
+
+Figure 32-1 shows a unit vector, one whose tip is always on a sphere of radius 1, which has rotated from the dashed line to the more 电场的能量密度与电场幅度的平方成正比。该能量与1/r²成正比。1/r²的依赖关系对于能量守恒至关重要。考虑旅行者1号飞船。当它离开太阳系时，它用一个23瓦的无线电发射器向地球发送信号。这意味着旅行者1号每秒辐射23焦耳的能量。假设没有障碍物阻挡传输，每秒23焦耳的能量会穿过以旅行者1号为中心、半径为1公里的球面。同样，当它最终到达太阳时，每秒23焦耳的能量也会穿过以旅行者1号为中心、半径为190亿公里的球面。由于球面的表面积与r²成正比，并且通过每个球面的总能量必须相等，因此能量密度必须随1/r²减小，正如我们刚刚证明的那样。
+
+偶极辐射器
+
+考虑图32-4所示的偶极辐射器。一个发生器在以下两种状态间快速交替：(1) 从导线A拉出电子并将其推到导线B上，(2) 反向操作。
+
+当发生器从A拉出电子时，A和B中的电子都向下加速，如虚线箭头所示。当发生器将电子推到A上时，A和B中的电子都向上加速。最终结果是A和B表现得像一根单一的导线AB，电子在其中上下加速并发射电磁辐射。发生器以频率f和周期t=1/f振荡。
+
+在合适的电偶极辐射器中，导线长度必须远小于ct。对于30厘米（约1英尺）的导线长度，发生器频率应远低于1GHz。我们定义y轴为偶极加速电荷的轴。连接A和B到发生器的两根水平导线几乎完全抵消彼此的辐射，因为它们靠得很近且承载相反方向的电流。
+
+费曼演示了如何使用第二个偶极来测量偶极辐射器的电场。第二个偶极具有导线A*和B*，并用一个调谐的谐振接收器代替发生器。A*B*作为偶极天线而不是辐射器工作。就像我们在第13章讨论的电路一样，这个接收器感知由电场在A*B*中感应的电流，并优先放大选定的频率带。费曼的发生器施加了一个由音频频率范围内信号调制的无线电频率载波。这是线性叠加原理的一个简单例子，该原理使无线电和电视广播成为可能。其数学形式为：
+
+Rcos(Ωt) + Acos(ωt)
+
+其中Ω是载波无线电频率，可能是我深夜最爱的640 kHz，而ω在音频频段：20 Hz到20 kHz。接收器电路解调信号，将音频与载波分离，并放大音频，当接收器接收到辐射器的电场时产生响亮的嗡嗡声。
+
+让我们看看偶极辐射器和偶极接收器如何演示辐射方程。回顾关键原理：在远处观察到的辐射与辐射电荷的加速度（此处为a）在垂直于观察者视线平面上的投影成正比。如图32-5所示，电场随极角θ强烈变化，θ从垂直轴测量。电场在所有方位角φ上相同。显示了方位角磁场，但那是另一个主题。
+
+点1和点2处的箭头表示这些点处电场的方向和强度。费曼表明，接收器输出跟踪辐射器的电场，在 S1: a = –(4πεc²/qω²) A cos(ωt)
+
+S2: a = –(4πεc²/qω²) A cos(ωt+ø)
+
+Here ø is the phase shift between the dipole accelerations. For simplicity, we define time t so that the phase angle of S is zero. The radiation field at P from each dipole is: S1: E = (A/r) sinθ cos(ωt*)
+
+S2: E = (A/r) sinθ cos(ω[t*–dt]+ø)
+
+where t* is the retarded time t–r/c, and dt is the extra travel time of the wave from S2. As the figure shows, S2 is farther from P than S1 by the amount Dcosθ. That extra path length corresponds to an extra travel time of dt=(D/c)cosθ. The electric field at P at time t arises from actions that occur at S1 at time t* and at S2 at the earlier time t*–dt.
+
+We can rewrite the phase shift of S2 as Φ=–ωdt+ø. The E field from S2 is then: S2: E = (A/r) sinθ cos(ωt*+Φ)
+
+For ø=0 and θ=π/2, P is on the z-axis, equidistant from S1 and S2, their waves have zero phase shift (Φ=–ωdt+ø=0+0) and interfere constructively. Alternatively, if we pick ø=(ωD/c√2), the phase shift between waves becomes: Φ = –ωdt+ø = –ω(D/c)cosθ+(ωD/c√2)
+
+The phase shift Φ is zero at θ=π/4, and the waves interfere constructively along the 45-degree line. Thus, we can steer the direction of maximum radiation by adjusting ø.
+
+Mathematical Methods for Interference Define the sum of the electric fields from S1 and S2 to be E. The intensity of radiation at any remote location is E². For the two dipoles above: E = (A/r) sinθ {cos(ωt*) + cos(ωt*+Φ)}
+
+In V1p29-6, Feynman says there are three mathematical approaches to solving such interference problems. The first he calls the trigonometric method — just grind through the trig functions. Feynman recalls a useful trig equation: cosA + cosB = 2cos[(A+B)/2] cos[(A–B)/2]
+
+I don’t remember learning that in high school trig, but I’ll add it to my toolbox — I’ll at least remember that an equation does exist for cosA+cosB. Employing that, E becomes: E = (2A/r)sinθ cos[ωt*+Φ/2] cos[Φ/2]
+
+E has a phase shift half way between S1 and S2, and its amplitude is reduced by the cosine of that half phase shift. The intensity of radiation, averaged over a full oscillation cycle, is the time-average value of E².
+
+<E²> = 4(A/r)²sin²θ <cos²[ωt*+Φ/2]> cos²[Φ/2]
+
+Recall that the average value of cos² is 1/2, and that: 2cos²[Φ/2] = cos²[Φ/2] + 1 – sin²[Φ/2]
+
+2cos²[Φ/2] = cos[Φ/2+Φ/2] + 1 2cos²[Φ/2] = cos[Φ] + 1
+
+This makes the average intensity I from the two dipoles: I = (A/r)² sin²θ {1+cosΦ}
+
+where Φ=–ω(D/c)cosθ+ø, D is the dipole separation, and ø is the electron acceleration phase shift between the two dipoles. The average intensity from S1 alone is: S1: I = (A/r)² sin²θ <cos²[ωt*]> S1: I = (1/2) (A/r)² sin²θ
+
+S2 has the same average intensity. Hence the average intensity of the interfering sources varies between zero (Φ=π) and four times the intensity of one lone source. This is a general property of interference effects of two equal sources.
+
+Feynman’s second approach is a geometric method. Figure 32-7 shows the electric vector fields from sources S1 and S2 at time t=0, and adds these graphically to produce vector E.
+
+Figure 32-7 Adding Dipole Fields Graphically
+
+As time advances, all three vectors, S1, S2, and E, rotate counterclockwise in unison at frequency ω. By symmetry, the phase shift of E is half that of S2. From the equation for the diagonal of a rhombus: E² = (A/r)²sin²θ cos²[ωt*+Φ/2] {2+2cosΦ}
+
+Averaged over a full cycle, the intensity is just as above: I = (A/r)² sin²θ {1+cosΦ}
+
+Feynman calls the third approach the analytical method; it employs complex numbers. He and I agree this is the best of the three. Recall how effective complex numbers were in analyzing harmonic oscillators in Chapters 12 through 14. With complex numbers, the graphical representation is the same as Figure 32-7, except y becomes the imaginary axis. We write E and the electric fields from S1 and S2 as complex numbers.
+
+E = (A/r) sinθ {exp(iωt*) + exp(iωt*+iΦ)} E = (A/r) sinθ exp(iωt*) {1 + exp(iΦ)}
+
+The exp(iωt*) term is the oscillating factor. To get the amplitude of E, we calculate EE*, E times its complex conjugate, which is simply E with i replaced by –i.
+
+E² = EE* = (A/r)² sin²θ {1+eiΦ}{1+e–iΦ} = (A/r)² sin²θ {1+eiΦ+e–iΦ+1} = (A/r)² sin²θ {2+ cosΦ+isinΦ +cosΦ–isinΦ} E² = 2(A/r)² sin²θ {1+cosΦ}
+
+The full-cycle average radiation intensity equals E²/2, since on average half of E² is along the real axis and half along the imaginary axis. Hence, all three methods yield the same result, as logic demands: I = (A/r)² sin²θ {1+cosΦ}
+
+Multiple Dipole Interference Consider a line of J identical dipole radiators, called S1 through SJ, with adjacent dipoles separated by distance D, and with all accelerating their electrons vertically up and down. Figure 32-8 shows the dipoles as viewed from above, with each dot representing one dipole, and all their electrons moving in and out of the screen. North and east are indicated by N and E.
+
+Figure 32-8 Line of Dipole Radiators
+
+Note that we’ve rotated our viewing orientation by 90 degrees from the previous analyses. The polar angle Previously called θ is now fixed at π/2, since we assume P and the dipoles are all at the same elevation.
+
+Consider radiation reaching a remote location P, a distance r from the dipoles. From the figure, we see that the path to P from the dipole S is longer than the path from dipole S by an amount x = (J–1)Dcosα. As we derived for the case of two dipoles, this extra path length corresponds to a time delay of: (J–1)(D/c)cosα. Similarly any other dipole, say dipole K, the time delay dt = (K–1)(D/c)cosα.
+
+Let the acceleration of electrons at dipole K be: a_vert = –(4πε₀c²/qω₀²) A₀ cos(ω₀t+[K–1]φ). Here, t is the time at the dipole array. Note that the phase at the source shifts by +φ for each successively higher numbered dipole relative to its predecessor. The total phase shift at point P, of dipole K relative to dipole 1, is the sum of: (the source phase shift) minus (ωdt for the extra path length delay). Φ_K = (K–1)φ –ω(K–1)(D/c)cosα.
+
+We can rewrite Φ in terms of λ rather than ω. ωD/c = 2πDf/c = 2πD/λ. So, Φ_K = (K–1)(φ –2π[D/λ]cosα).
+
+The electric field at P due to dipole K is: E_K = (A/r) cos(ωt+Φ_K). Here, t' = t – r/c is the retarded time. (That gets rid of the asterisk on t).
+
+Finally, then, using complex numbers, we are ready to calculate the total radiation E at point P from all dipoles by summing the contributions of each dipole from K=1 to K=J: E = Σ_K { (A/r) exp[i(ωt+Φ_K)] } = (A/r) e^(iωt) Σ_K { exp[iΦ_K] }.
+
+If all Φ_K = 0, the sum becomes Σ_K {1} = J. This means all dipoles interfere constructively, and the maximum time-averaged radiation intensity increases with the square of the number of dipoles: I_MAX = EE*/2 = (A/r)² (J²/2).
+
+For convenience, define I₁ to be the radiation intensity at any angle α from a single source: I₁ = (A/r)²/2. The peak intensity from J sources is now: I_MAX = I₁ J².
+
+In Vol. II, Ch. 29, Feynman discusses some interesting cases in which all Φ_K = 0, for which: 0 = Φ_K = (K–1)(φ –2π[D/λ]cosα), all K. Thus, φ = 2π [D/λ] cosα.
+
+If this dipole array is near Pasadena, California, where does its peak radiation go? A simple case is φ=0 and α=±π/2 (cosα=0). Peak radiation intensity is emitted westward and eastward, perpendicular to the north-south line of dipoles. This is optimal for transmitting radio signals from Pasadena to Hawaii or Charlotte, North Carolina. Alternatively, for φ=2πD/λ, peak radiation is emitted at cosα=±1, which means α=0 and α=π. This is optimal for transmitting to Alberta, Canada and Easter Island. By selecting the right φ, this so-called phased array transmitter can aim its beam in any desired direction. This selection can be done electronically without needing to move any dipoles.
+
+Feynman says we can even arrange to transmit to Alberta while keeping Easter Island in the dark, if the dipoles are separated by quarter-wavelengths. For D=λ/4, Φ_K = (K–1)(φ –[π/2]cosα). For φ=π/2, all Φ_K = 0 for cosα=+1, which means maximum power is transmitted north towards Alberta. At the same time, all Φ_K = (K–1)π for cosα=–1, which means each dipole interferes destructively with its neighbor. For an even number of dipoles, no power is transmitted south towards Easter Island. Choosing φ=–π/2 reverses all that, transmitting to the moai but not to the Canucks.
+
+Feynman says peak intensity is radiated at intermediate angles, if D>λ. Let’s see why. If Φ_K = 2πn(K–1), for some integer n, the waves from all dipoles have phase shifts that are integer numbers of full cycles, which is equivalent to no phase shifts at all and which thus results in peak intensity. For φ=0: 2π n(K–1) = Φ_K = (K–1)(0 –2π[D/λ]cosα). So, n = –[D/λ]cosα, or cosα = –nλ/D. For D<λ, the last equation has no solutions other than n=0, which we already discussed. But for D>λ, additional solutions exist for n≠0. Feynman mentions the case of D=2λ. For n=–1, cosα = +0.5, and α=π/3. For n=+1, cosα = –0.5, and α=2π/3.
+
+We have examined the directions of peak radiation for various cases. Lesser amounts of radiation will also be emitted at other angles. Let’s go back to our multi-dipole equation and explore all the angles. E = (A/r) e^(iωt) Σ_K { exp[iΦ_K] }.
+
+Let’s define some variables to reduce the clutter: u = φ – 2π[D/λ]cosα, Φ_K = (K–1) u, z = exp{iu}. And now examine the sum in the above equation for E. Σ_K { exp[iΦ_K] } = Σ_K { z^(K–1) } = 1+z+z²+…+ z^(J–1). This is the difference of two infinite sums. = (1+z+z²+…) – z^J (1+z+z²+…) = 1/(1–z) – z^J/(1–z). So, Σ_K { exp[iΦ_K] } = (1–z^J)/(1–z).
+
+The above is valid for u≠0. Next we need this sum times its complex conjugate. Let’s do the numerator first. (1–z^J) (1–z^J)* = (1–e^(iJu)) (1–e^(–iJu)) = 1 + 1 – e^(iJu) – e^(–iJu) = 2 – cos(Ju) – i sin(Ju) – cos(Ju) + i sin(Ju) = 2 – 2cos(Ju). The denominator is the same as above with J=1: (1–z) (1–z)* = 2 – 2cos(u).
+
+The radiation intensity is: I = EE*/2. I = I₁ {1–cos(Ju)}/{1–cosu}. We can rewrite this using the trig relation (1-cosθ)=2sin²(θ/2). I = I₁ sin²(Ju/2)/sin²(u/2).
+
+Let’s try an example. For D=λ/2, φ=0, and angle α very close to 90 degrees: α=(π/2)+ε, for ε<<1, approximate Q = sin²(Ju/2)/sin²(u/2).
+
+to the lowest power of ε.
+
+u = 0 – 2π[1/2]cos(ε+π/2)
+
+u = π sinε sin(Ju/2) ≈ (Ju/2) – (Ju/2)3/6 sin(Ju/2) ≈ (Ju/2)[1–(Ju)2/24]
+
+sin2(Ju/2) ≈ (Ju/2)2[1–(Ju)2/12]
+
+Q ≈ (Ju/2)2[1–(Ju)2/12] / (u/2)2[1–u2/12]
+
+Q ≈ J2[1–(Ju)2/12] / [1–u2/12]
+
+Q ≈ J2[1–(Ju)2/12] × [1+u2/12]
+
+Q ≈ J2[1–(Ju)2/12 +u2/12]
+
+Q ≈ J2[1–(J2–1)u2/12]
+
+Q ≈ J2[1–(J2–1)(π2/12) sin2ε]
+
+Radiation intensity near its peak is: I = I J2 {1 – βsin2ε} where ε is the angle from the direction of peak intensity and β=(J2–1)π2/12. The radiation intensity is maximum at ε=0, with the value: I = I J2
+
+## MAX
+
+## Chapter 32 Review: Key Ideas
+
+1. The electric field E is a vector field, meaning at each spacetime event E(t,x,y,z) is a vector defining the electric field’s direction and magnitude. This is analogous to defining a wind field at each spacetime event describing the wind’s speed and direction.
+
+2. The electric field E from charge q has three components that depend respectively on the position, velocity, and acceleration of the charge. The position and velocity components decrease with distance as 1/r2, while the acceleration component, called the electromagnetic radiation field, has the remarkable property of decreasing only as 1/r. Radiation’s intensity, the energy it carries per unit area per second, is proportional to E2 and decreases as 1/r2.
+
+3. Due to projection effects, the component of E along the line of sight diminishes as 1/r2; only the components of E orthogonal to r contribute to distant radiation. For charge q at (x,y,z) = (0,0,0) oscillating along the y-axis according to Acosωt, the radiation field at an observer at r is perpendicular to r with magnitude: E = qω2/(4πεc2) (A/r) sinθ cos(ωt*)
+
+where θ is the angle of r relative to +y, and t*=t–r/c is the retarded time, delayed by the light travel time r/c from charge to observer.
+
+## 4. Electromagnetic radiation is light. It has wave properties, including:
+
+Frequency f, number of wave cycles/second Angular frequency ω, number of radians/sec Wavelength λ, distance/cycle Speed c = fλ = ωλ/2π 5. The E field at r from two dipole radiators at (0,+D/2,0) and (0,–D/2,0), accelerating charges sinusoidally along the y-axis with equal amplitude and frequency ω and with relative phase ø, is proportional to: E = (A/r) sinθ {cos(ωt) + cos(ωt+Φ)} where Φ = ø–ω(D/c)cosθ = ø–2π(D/λ)cosθ. The D-factors are due to the path length difference to r from each dipole. For ø=0 and θ=π/2, Φ=0 and the waves interfere constructively. Alternatively, for ø=(ωD/c√2), Φ is zero at θ=π/4, and the waves interfere constructively along the 45-degree line. Thus, we can steer the direction of maximum radiation by electronically adjusting ø.
+
+6. For an array of dipole radiators, K=1 to J, aligned north-south, each separated by distance D, with all charge accelerations vertical at the same frequency ω and the same amplitude A, the electric field E and radiation intensity I at a remote point P, at position r, are: E = (A/r) eiωt Σ { exp[i(K–1)u] } I = I sin2(Ju/2)/sin2(u/2)
+
+with I =(A/r)2/2, u=ø–2π[D/λ]cosα where, I is the intensity from one dipole, ø is an adjustable phase shift between successive dipoles, α the angle between due north and r, Σ sums over all dipoles K=1…J, and t=t–r/c is the retarded time. If u=0, the sum equals J, all dipole interfere constructively, and the radiation intensity I peaks. Averaged over a full cycle, I is proportional to the square of the number of dipoles; its maximum equals: I = EE*/2 = I J2
+
+## MAX
+
+7. The J-dipole array, a phased array transmitter, is electronically steerable by changing ø. For ø=0, peak intensity is emitted west and east. For ø=2πD/λ, the peak intensity goes north and south. For an even number of dipoles with separation D=λ/4, peak power goes north only (α=0) for ø=+π/2, and south only (α=π) for ø=–π/2. If D>λ, radiation is emitted at all intermediate angles α that are solutions to the following equation, for any positive or negative integer m: cosα = mλ/D For D<λ, the only solutions are for m=0.
+
+## Chapter
+
+Diffraction Diffraction and interference are really the same physics with two different names. In V1p30-1, Feynman says: “No one has ever been able to define the difference between interference and diffraction satisfactorily. It’s just a question of usage… when there are only a few sources…the result is usually called interference, but if there is a large number of them, it seems the word diffraction is more often used.” In both interference and diffraction, waves combine and interfere according to their relative phase shifts. Feynman begins the chapter on diffraction with a graphical derivation of the multiple dipole radiation intensity equation that we derived analytically in the last chapter. Consider an array of J dipoles oscillating vertically, positioned along a north-south line with spacing D, and with the charge acceleration of the Kth dipole being: a = –(4πεc2/qω2) Acos(ωt+Kø)
+
+Here, t is the time at the dipole array and ø is an adjustable phase shift between dipoles. For a remote poi at point P, at position r with angle α between due north and r, the sum of (the phase shift at the source) minus (the phase shift due to path length differences) is: Φ = (K–1) u with u = φ –2π [D/λ] cosα. The radiation field E at P is E = (A/r) eiωt Σ { exp[iΦ ] }.
+
+Figure 33-1 shows the sum graphically for 5 dipoles, with each one’s contribution represented by one arrow. Figure 33-1 Graph of Sum of Dipole Fields. The contribution from each dipole has the same amplitude A/r, but a different phase angle Φ. Thus the arrows in the figure have the same length, but each is rotated counterclockwise from its predecessor by the angle u. The circle centered at Q passes through each arrow’s tail and tip; its radius ρ is given by: A/2r = ρ sin(u/2).
+
+E, a vector in the complex plane, is the sum of all contributions, which we express as E = Eeiθ. The length of vector E is given by: E/2 = ρ sin(Ju/2). Combining the last two equations we get: E = {2 sin(Ju/2)} {(A/2r)/sin(u/2)} = (A/r) sin(Ju/2) / sin(u/2). I = E²/2, so I = I₁ sin²(Ju/2)/sin²(u/2). Here, I₁ is the intensity at any angle α from a single dipole: I₁ = (A/r)²/2.
+
+The graphical method and the analytical method yield the same result, as they must. In the last chapter, we found that at u=0, the intensity is at its absolute maximum, with the value: I_MAX = I₁ J².
+
+Feynman notes that the intensity is zero whenever sin(Ju/2)=0. The intensity also has small peaks, called side lobes. Calculating the exact positions of the side lobes is messy due to sine-squared terms in both numerator and denominator. But Feynman points out that, since sin(Ju/2) varies much more rapidly than sin(u/2), the intensity peaks are near the maxima of the numerator, where sin(Ju/2)=±1.
+
+I is zero at Ju = ±2π, ±4π, ±6π, … Minor peaks near Ju = ±3π, ±5π, … The minor peaks occur near u=±jπ/J, for j an odd integer > 1. The intensity at these minor peaks is: I_MINOR = I₁ [1]/sin²(jπ/2J). If J is very large, this is approximately: I_MINOR ≈ (A/r)² (1/2) (J²/j²) (4/π²) ≈ 0.40 I_MAX / j².
+
+The largest minor peaks have intensities of I_MAX /2² at Ju=±3π and I_MAX /6² at Ju=±5π. This shows that the radiation is strongly concentrated in the major peak. The minor peak intensities are independent of J, the number of dipoles. Adding more dipoles does not reduce the minor peaks, but narrows the angular spread of the entire pattern of radiation.
+
+The major peak is bounded by the first nulls on either side at u=±2π/J. If J is very large, the peak narrows and we can approximate sin(u/2) by u/2. The intensity equation for J>>1 can be written: I = 4 I₁ sin²(Ju/2)/u² = I_J² sin²(x)/(x)² with x=Ju/2. The ratio (sinθ)/θ, a common expression in signal theory, is called sinc(θ). It is plotted in Figure 33-2. (Sinc is not to be confused with sinh, the hyperbolic sine function.) Figure 33-2 Sinc²(θ) = (Sinθ)²/θ².
+
+According to math tables, integrating from u=–∞ to u=+∞: ∫ sin²(θ)/θ² dθ = π. ∫ sin²(Ju/2)/(Ju/2)² d(Ju/2) = π, so ∫ sin²(Ju/2)/u² du = 2π/J. From this, the integral of radiation intensity surrounding a major peak, including all minor peaks, is: ∫ I du = I₁ (2πJ).
+
+Feynman notes that while the radiation intensity peaks at u=0, it has the same peaks at u=2πm for any integer m. We plug that into the equation for u, and set φ=0 for simplicity: 2π m = –2π[D/λ]cosα, so cosα = –mλ/D. For λ>D, the magnitude of mλ/D is greater than 1 for any nonzero integer m. This results in only two complete radiation patterns (each with one major peak and many nulls and minor peaks) centered at α=±π/2, the directions perpendicular to the line of dipoles.
+
+For D>λ, the magnitude of mλ/D is less than 1 for at least three values of m (–1, 0, +1). This means the radiation pattern repeats in its entirety at least four times: twice when cosα=±λ/D, and twice when cosα=0. In this case, m is called the beam order. For nonzero φ and λ>D, radiation peaks at: 0 = u = φ–2π[D/λ]cosα, so cosα = (φ/2π) (λ/D). Adjusting φ steers the two radiation patterns in any desired anti-parallel directions: at angles α and α +π.
+
+Diffraction Gratings. A linear array of dipole radiators works well at radio and television frequencies. For much higher frequency light, diffraction gratings produce similar results. Feynman describes one type of diffraction grating, an array of tiny, parallel, equally spaced grooves on the surface of a glass plate. The grooves scatter light differently than the virgin glass. When illuminated by a light beam, each groove becomes a new light source, and the light waves from these sources interfere in precisely the same manner as those from a dipole array, but at a vastly different wavelength.
+
+As a side note, it’s amazing what people can achieve when sufficiently motivated. In 1899, Henry Grayson made a mechanical ruling machine to create diffraction gratings with 120,000 lines per inch (212 nanometers/groove); that groove spacing is about half the wavelength of blue light. Consider a narrow beam of light reflecting from a flat d iffraction grating, whose line spacing is D.
+
+Let the angles between the surface and the incident and the reflected beams be α* and β*, respectively, as shown in Figure 33-3, in which dots represent diffracting grooves running in and out of the screen.
+
+Figure 33-3 Scattering from Diffraction Grating The figure shows two rays hitting adjacent diffraction grooves. We assume the light source and the final observer are so far away that incident rays I and I are parallel, as are reflected rays R and R.
+
+1 2 1 2 In the figure, I has a longer path to reach the surface than I by the amount y=Dcosα*. Also, the 2 1 reflected ray R has a longer return path than R by the amount x=Dcosβ*. Angles α* and β* are 1 2 defined in the same manner we used for dipoles: relative to the line of radiators. With diffraction gratings, incident and diffracted angles are by convention measured relative to the normal to the surface, which are the complementary angles: α=π/2–α*, and β=π/2–β*. Using normal angles, y=Dsinα and x=Dsinβ.
+
+Rays R and R interfere constructively if their relative phase shift is zero, which requires: 1 2 Dsinβ = Dsinα or: β = α Thus the rays interfere constructively, producing peak intensity reflection, when incident and reflected angles are equal, confirming the result of Chapter 30.
+
+As discussed earlier, this provides a deeper understanding of reflection. Light doesn’t “know” at what angle it is “supposed” to reflect. Instead, atoms in the reflecting surface absorb the incident light, and re-emit light in all directions. Waves leaving the grating interfere constructively when the reflected angle equals the incident angle. The constructive interference defines light’s path.
+
+When individual atoms form a “diffraction grating”, their spacing D is much less than the wavelength of all light except extremely high-energy gamma rays. When D<<λ, interference is constructive only when the reflected angle equals the incident angle. But, for man-made diffraction gratings, D may be greater than λ, allowing constructive interference at multiple angles, as we have seen with dipole radiators. Constructive interference arises whenever the phase shift between rays from adjacent grooves is an integer number of wavelengths, which means: sinβ = sinα + mλ/D When this equation has solutions for nonzero integer values of m, additional peaks occur at angles other than the incident angle α. As the equation shows, for nonzero m, different wavelengths of light peak at different angles β. Thus a diffraction grating spreads a beam of white light, consisting of light of many wavelengths, out across a range of angles, with different colors at different angles. Like prisms, diffraction gratings produce rainbows, such as those in Figure 33-4. For those with B/W ereaders, like me, the colors are labeled above the image.
+
+## RYGBV W VBGYR
+
+Figure 33-4 Diffraction of Light Bulb Left-to-Right: Beam Order m = –1, 0, +1 As the figure shows, beam orders m=–1 and m=+1 create rainbows, but for m=0, the λ-dependent term is eliminated and all wavelengths of light are emitted at the same angle. On both sides of the center where β=α, red light is deflected more than blue light due to its longer wavelength. (A famous hotel on Waikiki beach is decorated with twin rainbows. But they erroneously put red on the same side of both rainbows. They should have read Feynman Simplified.)
+
+Feynman notes that some diffraction gratings are cleverly made with “sawtooth” grooves that reduce the number of major peaks, making the gratings more efficient.
+
+Diffraction Grating Resolving Power Diffraction gratings are used in spectrometers to separate light of different colors. Let’s determine the resolving power of a grating — how well it separates different wavelengths.
+
+We again use the Rayleigh criterion discussed in Chapter 31: two diffraction patterns are deemed resolved if the first minimum of one pattern aligns with the maximum of the other.
+
+For beam order m, maximum intensity occurs when the path length difference between adjacent grooves is mλ. For a grating with n grooves, the path length difference Δ between the first and last groove is: Δ = nmλ The first minimum occurs when Δ is one wavelength longer, so that the groove phase shifts cover the full range of one cycle. We want this minimum for wavelength λ* to be in the same direction as the maximum for wavelength λ. The same angle means the same Δ. The equation for λ* is: Δ = (nm+1)λ* Combining the Δ equations: nmλ = nmλ* + λ* nm(λ–λ*) = λ* (λ–λ*)/λ* = 1/nm Therefore, the smallest fractional wavelength difference we can resolve, per the Rayleigh criterion, is 1/nm. The above assumes the incident light is normal to the grating (α=0).
+
+Radio Telescopes In V1p30-6, Feynman describes two approaches to building large telescopes to study the cosmos at radio frequencies. The first is an array of equal-spaced dipole receivers, all connected to a central amplifier. The connections must ensure that signals from each dipole have the same t transit time to the amplifier. If a radio galaxy, a galaxy with strong emissions at radio frequencies, is directly overhead, its radiation will hit all dipoles simultaneously and interfere constructively. But when the galaxy’s direction deviates from vertical, dipoles at different locations are excited at different times and interfere destructively.
+
+Another approach to achieving the same result is employing a parabolic antenna. As described in Chapter 31, waves arriving parallel to the symmetry axis of a parabolic mirror arrive simultaneously at the focal point. Light doesn’t “know” at what angle it should reflect from the mirror’s surface. Instead atoms in the mirror’s surface absorb incident light and re-emit it in all directions, but only the equal-time paths interfere constructively.
+
+Feynman makes a key point that the optics of a radio telescope are identical to the optics of a radio transmitter. Since the speed of light is always c, equal-time light paths are equal-time in both directions. Indeed NASA uses the same antennas, the Deep Space Network at JPL, to transmit signals to and receive signals from spacecraft throughout the Solar System, and now beyond.
+
+Colored Films
+
+As we’ll discuss fully in Chapter 36, when light strikes the surface of a refractive medium, some light is reflected away from the medium and some light enters the medium. The same effects occur when light exits a refractive medium.
+
+An interesting phenomenon arises when the medium is very thin, such as photographic film or the surface of a bubble. As Figure 33-5 depicts, light reflected from the bottom surface of a thin film is refracted at the film’s top surface, and exits parallel to the original reflected light.
+
+Figure 33-5 Two Reflections by Thin Film
+
+Light from the two reflection paths interfere, either constructively or destructively depending on phase shifts. These phase shifts are affected by film thickness, refractive index, and light’s incident angle and wavelength. The interference may, therefore, be constructive for red light and destructive for blue light. This is why we see a variety of colors in the light reflected by thin films, and why their colors can change dramatically as angles and thicknesses vary.
+
+X-Ray Crystallography
+
+We’ve seen that the pattern of diffracted radiation depends on the spacing and shape of the diffracting sources, such as the grooves in a diffraction grating. In V1p30-8, Feynman says that from the patterns of diffracted radiation, we can “find out the shape of the grating scratches, whether the grating was made of wires, sawtooth notches, or whatever, without being able to see them.”
+
+Nowhere is this more valuable than when the diffracting sources are individual atoms. Physicists use diffraction patterns to study the atomic structure of crystals, solids with periodically repeating atomic arrangements. Probing atomic-level structure requires employing light with a wavelength comparable to the interatomic spacing: x-rays. The technique is therefore called x-ray crystallography.
+
+X-ray crystallography is the primary method of quantitatively determining the structure of molecules, even the most complex, such as proteins. In 1952, Rosalind Franklin obtained the x-ray crystallographic image of DNA shown in Figure 33-6. This image established the structure of DNA. DNA is a double helix, with alternating phosphates and deoxyribose sugars forming external strands that are linked internally by nucleotide base pairs, whose sequence encodes the recipe of life.
+
+Figure 33-6 Left: X-ray Crystallographic Image of DNA Right: Ball & Stick Model of 12 Base-Pair Segment of DNA
+
+Plane of Oscillating Charges
+
+Light shining on the surface of a lens excites surface electrons that then emit light. In preparation for our studies of the refractive index, we need to know the field due to a plane of oscillating charges.
+
+I must admit some unease with this section, V1p30-10. Feynman starts by setting the high goal of obtaining the “complete formula”, then proceeds to make disquieting approximations, and ends saying his result is in fact completely correct even where his approximations are clearly invalid. You be the judge.
+
+Consider a flat surface of oscillating charged particles in the xy-plane, with μ particles per unit area. Each particle has charge q, and the J-th particle has position equation (x,y,z) = (x_J + A cos ωt, y_J, 0), with x_J and y_J spread uniformly throughout the surface.
+
+Feynman derives the field at point P on the z-axis, a “very large distance away from the plane.” The acceleration of each charge is –ω²A cos ωt, which is the real part of –ω²Ae^{iωt}. The field at point P from one such charge is: (Q/r) exp{iω(t–r/c)} (z/r)
+
+with Q = ω²Aq/(2εc²)
+
+Here z is the distance between the plane and P, r is the distance between the selected charge and P. The now-familiar retarded time is (t–r/c), and (z/r) comes from projecting the acceleration normal to the line-of-sight at P.
+
+It’s worth mentioning that (t–r/c) is a phase shift. Through In working out this and other chapters, we have calculated phase shifts in order to properly combine waves. By force of habit, we might rush to do that here as well, adding a phase shift of –2πr/λ to each charge’s contribution. However –2πr/λ=–ωr/c, which is exactly the effect of retarded time. Adding –2πr/λ would be erroneous double-counting.
+
+The field at P is the integral of the contributions from each oscillating charge. The first step is easy: integrate the contributions from all charges whose distance from the z-axis lies between ρ and ρ+dρ, as illustrated in Figure 33-7.
+
+Figure 33-7 Plane of Oscillating Charges
+
+All charges in the indicated ring have the same r, the same projection factor, the same phase shift, and produce the same field at P. The integral around the ring is the field from one charge multiplied by the ring area times the number of charges per unit area µ: (Q/r)exp{iω(t–r/c)}(z/r) 2πρ dρ µ
+
+The second step is integrating the above expression over ρ, from ρ=0 to ρ=∞. First, we must eliminate one of the two interdependent radial quantities, r and ρ. We use: r² = ρ² + z², 2r dr = 2ρ dρ.
+
+Our integral, from r=z to r=∞, becomes: (2πQµ eiωt) ∫ exp{–iωr/c} (z/r) dr
+
+This integral yields a logarithm plus an ugly power series, and diverges to infinity as r goes to infinity. Feynman’s approach is to drop the (z/r) term, saying: “We shall suppose, however, that the point P is so far away…” that (z/r) is nearly 1. His modified integral is: ∫ exp{–iωr/c}dr = c/(–iω) exp{–iωr/c}
+
+Evaluating at the limits, r=z to r=∞: c/(–iω) [exp{–i∞ω/c}–exp{–iz/c}]
+
+As Feynman says, the integral yields the “mysterious quantity” exp{–i∞ω/c}.
+
+This ill-defined result compels us to face our failure to deal effectively with an infinite plane. From a mathematical viewpoint, if the plane extends to infinity, what sets the distance scale? How can we be a “very large distance away” from something whose only notion of distance is infinity? From a physics viewpoint, no real object extends to infinity. But, how can we “cut off” the plane sensibly? If the plane is restricted to ρ<L, for some large L, the “mysterious quantity” becomes exp{–iLω/c}, which may be less mysterious but still isn’t well-defined; its real part is any number between –1 and +1.
+
+Feynman says the solution is to gradually taper the charge density to zero at some large L. The tapering should be done over a distance dL, such that dL>>λ. That way, exp{–iωr/c} will average to zero over many complete cycles. Feynman conjures the spiral in Figure 33-8; while the “mysterious quantity” spins, the tapering charge density shrinks its amplitude, and the unwanted term spirals inward to its central value of zero.
+
+Figure 33-8 Exponentially Diminishing Spiral
+
+Feynman doesn’t say exactly how this tapering should be done. One approach is to start tapering at some large distance from the center of the plate, at ρ=L, and reduce the charge density linearly down to zero at ρ=L+dL. We would then integrate normally to L and add a second integral for the tapering zone from L to L+dL. The second integral might average to zero, but the first integral still yields the unwanted exp{–iLω/c} term. That isn’t good enough.
+
+A better alternative is multiplying the charge density by e–(r–z)/L. For L>>z, tapering would become appreciable for ρ values that contribute little to the total integral, due to rapidly varying phase shifts. The integral from r=z to r=∞, still dropping the projection factor (z/r), would be: ∫ exp{–iωr/c–r/L+z/L}dr = –1/(iω/c+1/L)exp{–iωr/c–r/L+z/L}, r=z to r=∞ = +1/(iω/c+1/L) exp{iωz/c}
+
+This is at least well defined, and if L>>c/ω, the 1/L term above is negligible. None of this addresses the missing (z/r) projection term. Oh well.
+
+Feynman says the end result, which matches our exponential tapering, is: ∫ = ω²Aqµ/(2εc²)exp{iωt} c/(–iω)(–e{–iωz/c}) = –qµ/(2εc) iωAexp{iω(t–z/c)}
+
+Field at P = –qµ/(2εc) v(t–z/c)
+
+Here, v(t–z/c) is the velocity of the radiating charges retarded by the distance between P and the plane, which is the only distance scale in this exercise. Feynman says this result is valid everywhere, even very close to the charge plane, where his approximations are clearly invalid. Not very satisfying.
+
+## Chapter 33 Review: Key Ideas
+
+1. Diffraction and interference are really the same physics with two different names. In both phenomena, waves combining along different paths interfere constructively or destructively as determined by their relative phase shifts.
+
+2. For a linear array of J emitting sources, perhaps a diffraction grating, with source spacing D, wavelength λ, and successive phase shift between sources ø, the radiation intensity at point P is: I = I sin²(Ju/2) / sin²(u/2) with u = ø –2π[D/λ] cosα. Here, I is the peak intensity of a single dipole, and α is the angle between the dipole array and the line-of-sight to P. When u=0, the intensity is at its absolute maximum, with the value: I_MAX = I J². I is zero at Ju = ±2π, ±4π, ±6π, … I has minor peaks near Ju = ±3π, ±5π, … Adjusting θ steers the radiation pattern in any desired direction. For D<λ, only two identical radiation patterns are emitted; they are in opposite directions. For D>λ, the entire radiation pattern is repeated, wherever cosα=mλ/D, for m a nonzero integer; m is called the beam order.
+
+3. Thin films often produce reflections from their upper and lower surfaces that interfere constructively or destructively depending on phase shifts, which vary with changing film thickness, refractive index, and light wavelength and angle. This gives such films dynamic, colorful appearances.
+
+4. The electric field at P generated by a plane of accelerating charges, each with charge q, and with μ charges per unit area, is: –qμ/(2εc) v(t–z/c)
+
+Here, v(t–z/c) is the charge velocity retarded by the distance between P and the plane.
+
+## Chapter
+
+The Index of Refraction
+
+In Chapter 30, we discussed refraction and said it was due to light moving at different speeds in different media. Each type of medium has a refractive index n, and the speed of light in that medium is c/n. Empty space has n=1, so light’s speed in vacuum is c. Except for extremely exotic circumstances, n is greater than 1 in all objects made of normal matter.
+
+In air, n=1.0003 and light’s speed is 0.9997c. In water, n=1.333 and light’s speed is 0.75c. The largest refractive index of any common substance is n=2.42 in diamond, in which light’s speed is 0.41c. This is why a girl’s best friend dazzles.
+
+In Chapter 30 (see Figure 30-3 in particular), we saw that as light passes through a boundary between media of different refractive indices, light bends toward the medium with the higher refractive index and lower light speed.
+
+All the above adequately explains most macroscopic refractive phenomena.
+
+But in truth, things are more complicated than that.
+
+In the microscopic world, electromagnetic fields and individual photons absolutely always travel at speed c — in vacuum, in air, in water, and even in diamond. However, macroscopically, if one measures how long it takes a light beam to move through water, its measured speed is 0.75c. This chapter explains how a light beam can move slower than the individual photons of which it is composed.
+
+Here is a brief summary of the detailed discussion to follow. In a material substance, light is absorbed and re-emitted by the atoms of that medium. Between emission and absorption, all photons move at speed c. However, the re-emission process introduces delays in the form of negative phase shifts. By analogy, the peak speed of an Indy 500 racecar can exceed 237 mph (380 km/hr), but the highest average speed for the entire race is 187 mph (300 km/hr). There’s a big difference between peak speed and average speed.
+
+In V1p31-3, Feynman says analyzing the origin of the refractive index is the most complex topic in his first-year course — not because the principles are opaque but due to the mathematical challenge of properly combining many different simultaneous phenomena.
+
+Let me explain his comment with another analogy. The principles of Newtonian gravity are simple. There are just two short equations: F=ma, and F=GMm/r2. After all we’ve been through since Chapter 8, those two equations must seem trivial. Yet in our Solar System, the Sun pulls on each planet, each planet pulls back on the Sun, each planet pulls on every other planet and pulls on all its moons, which pull… The complete problem, including all possible combinations of pulling is both mind-boggling and mathematically insoluble. If physicists had started with the complete problem, we would still not have a theory of gravity.
+
+You will recall we didn’t tackle the complete gravitational problem of our Solar System. We tackled the dominant phenomena, which best illustrated the key principles of physics that are most important to learn.
+
+Here again, we will address the dominant phenomena, and explore the most important principles. We leave the complete problem to Feynman Volume 2.
+
+The Refractive Index
+
+The key principles are: 1. The total electric field is the vector sum of the electric fields generated by every electric charge, everywhere.
+
+2. At time t and distance r far away from charge q, its electric field is dominated by the radiation component, which is proportional to three factors: q; 1/r; and q’s acceleration at retarded time t–r/c.
+
+3. Retarded time is based on c, the speed of light in vacuum, regardless of any media the field passes through.
+
+Why isn’t retarded time based on c/n, the speed of light in whatever medium it is traversing? As we shall see, this is because microscopically, electromagnetic fields and light always travel at speed c.
+
+We start with the simplest case: a flat, thin plate of refractive material, as shown in Figure 34-1. Light source S is far away on the left side of the plate, and far away on the right side is point P, where we wish to know the field.
+
+Figure 34-1 Field at P is Sum of Opposing Fields from Source and Plate
+
+Electromagnetic radiation (light) from source S accelerates electrons in the plate, which become new radiation sources. The field at P is the vector sum of E, the field from S, plus the field, E , from all S E the accelerating electrons in the plate. Mathematically: E at P = E at P + E at P S E where each E is appropriately time-retarded.
+
+As these equations demonstrate, the field at P is altered by the presence of the plate, and the plate is altered by source S. Without S, the plate would have no electrical influence on P. Without the plate, the field at P from S would be much simpler.
+
+There are additional complications, all of which Feynman defers to Volume 2. One such complication is that any particular electron in the plate, call it X, is affected by the fields produced by the motions of all other electrons in the plate, each of which depends on the field produced by electron X. One must, therefore, calculate the mutually self-consistent motions of all plate electrons. Another complication is that the motions of plate electrons also affect the source. Thankfully, we will now address only a simplified case: we will assume the accelerating electrons in the plate are so few that their effects on the source and on one another are negligible. This assumption is approximately valid if the plate is a low-density medium with refractive index just slightly greater than 1.
+
+With these simplifying conditions, we will calculate the total electric field at P and illuminate the origin of the refractive index.
+
+In V1p31-3, Feynman does this calculation in an unusual manner. He starts with the answer and works backwards about halfway. He then switches to the initial equations and works forward. The forward and backward results meet in the middle. Being less “creative”, I will start at the beginning, and move steadily forward to the final answer.
+
+We define these quantities: z = horizontal axis normal to the plate z = 0 at plate center dz = plate thickness N = number of plate charges per unit volume µ = number of plate charges per unit area q and m = charge and mass of one electron ω = angular frequency of source S Ω = natural frequency of plate electrons β = oscillating electrons’ damping coefficient E = electric field from source S E = electric field from all plate electrons If the source is far enough away from the plate, its electric field is approximately uniform throughout the plate. Choose the electric fields at S, the plate, and P to be entirely vertical, and define t such that the source field E is: E at Plate = E eiωt E at P = E eiω(t–z/c)
+
+In the absence of an external force, electrons in the plate are positioned around nuclei, occupying the states with the least total energy that quantum rules allow. The source’s oscillating electric field displaces the plate’s electrons from their equilibrium positions, making the electrons act like harmonic oscillators. As we discovered in Chapter 12, the simplest equation for a driven harmonic oscillator is: m d2x/dt2 + mΩ2x = F = qE eiωt We previously found the solution to this equation: x(t) = qE eiωt / {m(Ω2–ω2)} Each electron in the plate oscillates about a different position, but their velocities and accelerations are identical. In the last chapter, we derived the field produced by a plane of accelerating charges and found: Field at P = –qµ/(2εc) v(t–z/c)
+
+where v(t-z/c) is the charge velocity, time-retarded for distance z. In the current case, the charge velocities are: v(t) = iωqE eiωt / {m(Ω2–ω2)
+
+The number of charges per unit area equals the number of charges per unit volume times the plate thickness: µ=N dz.
+
+Combining the last three equations, we get the field at P due to all plate electrons: E = –qN dz/(iωqE) eiω(t–z/c)/{2εmc(Ω2–ω2)} E 0 With all the terms in this equation, it is easy to lose track of its most important part: the leading minus sign. The plate field opposes the source field at P, which we recall is: E = E eiω(t–z/c)
+
+This phenomenon of opposition is an essential property of nature. It is a consequence of the principle of action-begets-reaction and of nature always seeking the lowest energy state. Opposing fields reduce the total field energy: (E–E )2 < (E+E )2. Recall, for example, Boltzmann’s equation of
+
+## S E S E
+
+statistical mechanics from Chapter 16: the population of states is proportional to exp{–energy/kT}.
+
+Mathematically, the opposition arises from the minus sign in the equation: acceleration = –ω2eiωt. Note this opposition does not depend on the polarity of the electron charge. On an anti-matter planet, the plate’s positively charged electrons accelerate in the direction opposite to our electrons, but the field they generate is identical, because their radiation field is proportional to qa, charge times acceleration, both of which flip polarity.
+
+Define: α = q2N/{2εm(Ω2–ω2)} The field at P is the sum of the source and plate fields: E = E + E S E E = E eiω(t–z/c) {1– iωαdz/c} For small dz, we use the approximation: 1–x=e–x.
+
+E = E exp{iω(t–z/c)} exp{–iωαdz/c} E = E exp{iω(t–[z+αdz]/c)} The plat It shifts the phase of the total field by the angle –ωαdz/c. A negative phase shift corresponds to delaying the wave — it takes an extra time dt=+αdz/c for the wave to achieve the phase it would have without the plate. This means the plate’s field changes the effective retarded time to point P. Without the plate, the source field is retarded by z/c. With the plate, the total field is retarded by [z+αdz]/c. The meaning of this becomes clear if we define n=1+α. The retarding factor is then: [z+αdz]/c = [z+(n–1)dz]/c [z+αdz]/c = [z–dz]/c + ndz/c [z+αdz]/c = [z–dz]/c + dz/(c/n)
+
+Eureka! The effect of adding the plate of thickness dz is equivalent to light moving at speed c for distance [z–dz] outside the plate, and moving at speed c/n for distance dz inside the plate.
+
+The key concept is: all electric fields propagate at speed c, but the plate shifts the phase, which is equivalent to delaying the wave. The apparently slower speed, c/n, is called the phase velocity. The index of refraction n, is given by: n = 1 + α = 1+ q^2N/{2εm(Ω^2–ω^2)}
+
+Dispersion The most interesting part of the equation for n is the factor (Ω^2–ω^2) in the denominator. In Vol. 1, page 31-6, Feynman notes that we have derived not only an equation “for the index of refraction but we have also learned how the index of refraction should vary with the frequency ω of the light. This is something we would never understand from the simple statement that ‘light travels slower in a transparent material.’” Calculating Ω for any given substance requires quantum mechanics. But we can describe general characteristics for various circumstances, which we divide into three categories: ω<<Ω; ω≈Ω; and ω>>Ω.
+
+ω<<Ω. For glass, air, and most common colorless gases, their electrons’ natural frequencies correspond to ultraviolet light. The frequency ω of visible light is much less, allowing us to rewrite the equation for n: n ≈ 1+ (1+ω^2/Ω^2)q^2N/{2εmΩ^2} for ω<<Ω Thus n is nearly constant, rising very slowly for larger ω. This is why blue light bends more than red light when passing through a prism. This effect is called dispersion; light is dispersed according to frequency by a prism. (Recall that diffraction gratings bend red more than blue; the equations for reflection and refraction are different.)
+
+ω≈Ω. When light’s frequency is comparable to a natural frequency of a material’s electrons, the denominator approaches zero. Indeed our equation says n=∞ when ω=Ω. Since we know that actual natural phenomena are almost never infinite, our equation must be missing something. Real oscillators have damping terms from friction and other factors; in this case those factors include electrons radiating light. From Chapter 13, we know how to address damping: the (Ω^2–ω^2) term becomes (Ω^2–ω^2+iβω), where β is the damping coefficient.
+
+The imaginary denominator results in n having both real and imaginary components, which we can write n = n_R + i n_I. This changes the total field equation to: E = E_0 exp{iω(t–z/c–[n_R –1+i n_I]dz/c)} E = E_0 exp{iω(t–z/c–[n_R –1]dz/c + i n_I dz/c)} E = E_0 exp{iω(t–z/c–[n_R –1]dz/c)} exp{–ω n_I dz/c} The first exponential is the same as before, with a modified refractive index. The last exponential has a negative real exponent that decreases the total E field at P. The exponent is proportional to both dz and n_I, which is called the absorption index. When dz × n_I is sufficiently large, the electric field at P will be virtually zero; this is the case for most common materials that are opaque to light.
+
+In many cases, including visible light passing through glass, n_I is quite small. However, n_I is sometimes the dominant term, particularly when ω≈Ω. An example of immense importance in astronomy is the absorption of certain frequencies of starlight, by gas both in the star’s outer layers and in Earth’s atmosphere.
+
+In more complex situations, there may be multiple natural frequencies of electron oscillation. The refractive index then equals 1 plus the sum of several α’s, one for each natural frequency Ω. We defer discussion of that complexity since it won’t illuminate any new physics until we study quantum mechanics.
+
+ω>>Ω. Another interesting effect occurs when light’s frequency is much higher than the electrons’ natural frequencies. One example is x-rays, light of very high frequency, passing through glass or carbon. Carbon is opaque to visible light but transparent to x-rays. Another example is light of any frequency passing through a gas of free electrons. In the upper atmosphere, ultraviolet light from the Sun ionizes air molecules, separating them into ions and free electrons. In the stratosphere’s extremely low density, free electrons can persist for long periods before being reunited with an ion. Free electrons do not have the restoring forces of harmonic oscillators, hence their Ω=0.
+
+In each of these cases, ω>>Ω, and the denominator of our equation is negative, which makes n<1. Does that mean light travels faster than c? Well, yes and no, but mostly no. We will thoroughly explore t 在《费曼简化版1D》中有相关讨论，但这里先简要介绍。不。在这种情况下，如同在所有情形中一样，没有任何物体的运动速度超过光速c，也没有任何信号的传输速度超过c。如果光源S突然开启，首批光子到达点P的速度不会超过光速c。是的，波的相位发生了超前；对于持续重复的波，波峰确实更早到达。但不同波峰之间没有物理上的区分——争论是第123个波峰提前到达还是第122个波峰延迟到达是没有意义的。仅仅识别出一个运动速度超过光速的数学点，并不足以推翻狭义相对论。考虑图34-2中描绘的例子，其中一个块以0.9c的速度撞上另一个块。图34-2 两个飞船的相对论性碰撞。随着碰撞压碎这些块，撞击点P以速度v=0.9c/tanθ向右移动，这个速度显然可以超过c。然而，P是一个数学上定义的点，而非物理实体；其速度不受狭义相对论的限制。能量流在V1p31-9中，费曼追踪了能量通过和进入折射板的流动。我们可以写出单位面积单位时间的能量流方程以及输入板的功率：入射能量 = 发射能量 + 功率。我们之前证明过，光所携带的能量与电场强度的平方成正比。定义比例系数为σ：强度 = σ E·E。上述方程变为：σE_S·E_S = σ(E_S+E_E)·(E_S+E_E) + 功率。σE_S·E_S = σE_S·E_S + 2σE_S·E_E + σE_E·E_E + 功率。我们也知道E_S和E_E共线，并且对于小的dz和n≈1，有E_S >> E_E。这意味着我们可以忽略与E_S·E_S相比的E_E·E_E。于是剩下：–2σE_S·E_E = 功率。作用在板内电子上的功率等于源电场施加在每个电子上的力F × 电子的速度v × 单位面积的电子数。注意由于F和v共线，点积就是它们的代数积，并带有适当的符号。由上可得：功率 = Fv = q E_e iωt v(t) Ndz。将其与用速度表示的E方程结合：–2σ E_e iωt E = q E_e iωt v(t) Ndz。–2σ {–qµ/(2εc)v(t)} = q v(t) Ndz。σ {Ndz/(εc)} = Ndz。σ = εc。这意味着电磁波的强度，即单位面积单位时间的能量，等于εcE·E。孔的衍射我们多次提出一个奇怪的说法：当光通过一个孔径时，它的衍射行为就好像光被孔径内空无一物空间中的每个点吸收并重新发射一样。现在我们来理解为什么这是成立的（除了一个负号）。如前所述，来自遥远光源S的光在穿过折射材料板时呈指数衰减。实数的负指数正比于板的厚度dz和吸收指数n。如果板足够厚，几乎没有任何光能穿透它。这意味着在远离板且与S相反一侧的点P处，总电场为零。这并不奇怪；大多数常见物体都是不透明的。但可能令人惊讶的是，为什么点P处的场恰好为零。本章的一个关键原则是，点P处的场是来自各处加速带电粒子的场的总和。即使板是完全不透明的，源S产生的电场也必须到达P。答案是：板产生的电场与S产生的电场在点P处完全抵消，对于板不透明的每个频率，都在每个点P处发生抵消。在图34-3的上半部分中，来自源S的辐射场E_S和来自不透明板的辐射场E_E在点P处完全相互抵消：E = –E_S。图34-3 P点的辐射场。上：源+板=零。下：源+板=–孔。在下半部分图像中，板的一部分被移除，形成了一个孔。我们定义E_H为被移除的那部分板原本产生的场。开孔将板的场从E_E减少到E_E – E_H。点P处的总场变为：E = E_S + (E_E – E_H) = –E_H。E_H的符号很少重要。如果我们的最终目标是光强度，并且除了通过孔径的光波外没有其他光波干涉，这个负号是无关紧要的。因此，关于带孔径的障碍物的衍射的正确陈述是：1. 没有辐射来自孔径本身。2. 障碍物中的每个原子都是一个辐射源。3. 障碍物之后的总场等于如果孔径是障碍物而非孔洞时它会辐射的场的相反数。4. 所有这一切假设孔径远大于光的波长。因此，我们可以计算场，就像孔在辐射而不是障碍物在辐射一样，并在必要时加上一个负号。图34-4阐释了这一概念。在每一幅图中，平面波从底部向上移动。白色表示波峰（最正的场），黑色表示波谷（最负的场）。
+
+st negative field), and grey denotes zero field.
+
+Figure 34-4 Diffraction of Upward-Moving Waves Left: Field From "Hole" Middle: Field From Barrier Minus Hole Right: Solid Barrier, Zero Field
+
+In the image on the right, everything above the solid black barrier is uniformly gray, indicating the electric field is zero everywhere; the barrier’s field cancels the incident wave. The left image shows the field due to a narrow array of emitters — the "hole." The center image shows the field due to an opaque black barrier with a narrow aperture — barrier minus hole. Above the barrier, the left and center images are exactly the same but with reversed polarity — their sum equals the right image, zero everywhere. To make the comparison more vivid, the left and center images each show half of the complete picture.
+
+Diffraction & Shadows
+
+With the last section in mind, we will now calculate shadowing by a partial barrier. Before addressing this topic in V1p30-8, Feynman cautions that it is mathematically complex even though all the same physical principles apply. He doesn’t solve the equations, and neither will we.
+
+When parallel rays of light are partially blocked by an opaque object, interesting diffraction patterns result. In Figure 34-5, x is the vertical axis, and light rays enter horizontally from the left. An opaque barrier extends downward from point B, which is at height x=0.
+
+Figure 34-5 Shadows Near Barrier
+
+Displaced horizontally from the barrier by distance s is a vertical screen, on which we wish to know the light intensity as a function of x.
+
+The radiation field on the screen at a point P is the sum of diffracted waves from every point above the barrier, of which the figure shows three: B, D, and G. Define the x coordinate of P to be p. Point D is also at x=p, so the path length DP equals s. Compare that to the path length to P from point G at x=p+h, assuming h<<s. The path length difference is: GP–DP = √(s2+h2) – s GP–DP ≈ s +h2/2s – s = h2/2s
+
+The general expression for path length as a function of x is: s+(x–p)2/2s, for x≈p. This results in a phase shift ø that varies with x according to: ø = 2π [(x–p)2/2s] /λ = π(x–p)2/(sλ)
+
+This is something new. This phase shift varies quadratically along the line of diffracting sources. What makes this situation mathematically complex is that s has a moderate value. In our earlier problems, P was very far away. As a result, rays to P from all emitters were parallel, resulting in linearly varying phase shifts. Additionally, we assumed 1/r was constant, since the path lengths varied only by multiples of the wavelength, which were <<r. Here, since the vertical extent of the screen is comparable to s, 1/r cannot be assumed constant.
+
+The radiation field E on the screen at point P is an integral from x=0 to x=∞: E ~ ∫ {s2+(x–p)2}–0.5 exp{iπ(x–p)2/(sλ)} dx
+
+This cannot be solved analytically, but a graphic representation describes its general behavior. Figure 34-6 depicts the sum of the contributions from every infinitesimal diffraction source of width dx, summed in the complex plane, from x=+∞ at the center of the upper spiral to x=0 at point B.
+
+Figure 34-6 Diffraction Sum From x=+∞ to G, D, and B
+
+Without the barrier, we would sum to x=–∞, which is the center of the lower spiral. The sums from x=+∞ to the points G, D, and B are indicated by the three arrows. We see that the central region, centered on the DP path, is where the length and phase angle vary most rapidly.
+
+From that spiral, one expects the amplitude of E as a function of screen position x to be similar to Figure 34-7. The darker straight lines show what the amplitude would be for zero-wavelength light (no diffractive interference).
+
+Figure 34-7 Shadow Profile
+
+With diffractive interference, the field amplitude profile is quite complex, oscillating where x is clearly out of the shadow of the barrier, and creeping into the shadow. Since the DP path is the center of the spiral pattern in Figure 34-6, the amplitude of E at point P is half the amplitude from x=+∞ to x=–∞, which means it has 1/4 the intensity of the incident light. Figure 30-9 in Feynman’s book indicates the intensity at P is ½, which is wrong and does not match his text.
+
+## Chapter 34 Review: Key Ideas
+
+1. The key principles of electromagnetic radiation (light) are: The total electric field is the vector sum of the electric fields generated by every electric charge, everywhere. At time t and distance r far away from charge q, its electric field is dominated by the radiation component, which is proportional to three factors: q; 1/r; and q’s acceleration at retarded time t–r/c. Retarded time is based on c, the speed of light in vacuum, regardless of any media the field passes through.
+
+2. Electromagnetic radiation incident on a plate accelerates its electrons, which become new radiation sources whose fields E oppose the incident field Eeiωt. At a remote point P: Plate’s field: E = –αdz (iωE) eiω(t–z/c) Total field = E exp{iω(t–[z+αdz]/c)} The many quantities used These are defined in the section titled “The Refractive Index.”
+
+3. All electromagnetic fields, including light, always propagate at speed c, but material bodies shift their phase, which is equivalent to delaying their waves. The apparent slower wave speed, the phase velocity, is c/n.
+
+4. The intensity of electromagnetic radiation, its energy per unit area per unit time, equals εcE·E.
+
+## 5. The correct statement of diffraction from a barrier with an aperture is:
+
+No emission comes from the aperture itself.
+
+Every atom in the barrier is an emitting source.
+
+The total field after the barrier equals minus what the aperture would radiate if it were a barrier instead of a hole.
+
+All this assumes the aperture is much larger than the wavelength of light.
+
+Thus, we can calculate fields as if the holes are radiating rather than the barriers, and add a minus sign if necessary.
+
+## Chapter
+
+Radiation Damping & Scattering
+
+In the last chapter, we derived the equation for the power (energy per unit time) carried by radiation per unit area perpendicular to the radiation’s direction of motion: Power = εc<E·E> where <> is the time average over a full cycle and E is the radiation’s electric field vector. In our prior analyses, a generator accelerated electric charges that produced radiation. The generator was the ultimate source of the energy carried away through radiation.
+
+As Feynman notes in V1p32-1, as an element in an electrical circuit, a radiating antenna is equivalent to a resistor, and presents radiation resistance. A conventional resistor dissipates energy in the form of heat. An antenna dissipates energy in the form of radiation. When current I flows through an antenna, the radiation field E is proportional to I, and the power carried away by radiation is proportional to E·E and thus to I². The proportionality constant between power and I² is defined to be R, the radiation resistance, yielding the customary electrical circuit equation: power equals I²R.
+
+In V1p32-2, Feynman describes in some detail the failed early attempts to understand how an individual oscillating charge can dissipate energy. That dissipation is somewhat mysterious, because the mechanical analog, a mass oscillating on a spring, does not dissipate energy absent friction. Before quantum mechanics, physicists argued that an electron was a tiny ball of a certain size r (we will calculate r shortly), with electric charge spread throughout. When an electron is stationary, the electric forces between its various parts sum to zero due to the principle that action-begets-reaction. We describe this by saying the electron’s self-forces are balanced. But for an electron moving with velocity v toward +x, the force on its –x side due to the charge on its +x side has a retarded time of 2r₀/(c–v), while the force on its +x side due to the –x side is retarded by 2r₀/(c+v). Since the retarding factors are different and v is continuously changing, the electron’s self-forces no longer balance. This effect results in energy dissipation, much like friction. However clever, this argument fails because electrons are not in fact tiny balls. A correct understanding requires quantum mechanics.
+
+Radiation Power
+
+The radiation field from an accelerating charge is proportional to the charge multiplied by the projection of its retarded acceleration divided by distance. We have been using harmonic oscillations, but here we will allow any acceleration as a function of time, requiring only that the charge’s velocity is non-relativistic. From Chapter 32 and the first equation of this chapter, the power carried by radiation is: <Power> = q²<a²>sin²θ / (16π²εr²c³)
+
+Here, a is the time-retarded acceleration of charge q, and θ is the angle between the line-of-sight and a. In V1p32-2, Feynman notes that the quantity 1/εc appears frequently and is called the impedance of vacuum. Its value is about 377 ohms. Vacuum impedance is associated with electromagnetic wave phenomena; you can’t measure it with a normal ohmmeter.
+
+To obtain the total emitted power, we integrate the above power equation over a spherical surface of radius r centered on the source. The first step is integrating over the azimuthal angle φ, as indicated in Figure 35-1. Since the same power is emitted at all φ, we need only calculate the area of each gray band from angle θ to θ+dθ.
+
+Figure 35-1 Integration Over A Sphere
+
+The circumference of the band is 2πr sinθ and its width is r dθ, making its area 2πr²(sinθ)dθ. The last step is integrating over θ from θ=0 to θ=π.
+
+<Total Power> = q²<a²>/(8πεc³) ∫ sin³θ dθ
+
+Let’s evaluate the θ integral from θ=0 to θ=π: ∫ sin³θ dθ = ∫ (1–cos²θ) sinθ dθ ∫ sin³θ dθ = ∫ sinθ dθ + ∫ cos²θ d(cosθ)
+
+∫ sin³θ dθ = –cosθ + cos³(θ)/3 ∫ sin³θ dθ = {–(–1) + (–1)/3} – {–(1) + (1)/3} ∫ sin³θ dθ = 4/3
+
+Putting that into the power equation yields: <Total Power> = q²<a²>/(6πεc³)
+
+Note that there is no r in this equation. The r² factor for the sphere’s surface area is cancelled by the 1/r² factor from E·E. The same amount 功率通过每个球面，无论其半径如何，这对于能量守恒是必不可少的。费曼提醒说，只有完整周期上的功率才是可以精确计算的，正如他在第二卷中解释的那样。
+
+在物理学的几个分支中，包括粒子物理学和固体物理学，我们通常使用基本电荷，其中 q 是单个电子或质子的电荷。我们经常使用以下缩写： e² = q²/(4πε₀)
+
+在 MKS 单位制中，e² 的值为 2.28×10⁻²⁸ kg m³ s⁻²。虽然这个缩写非常方便，但必须从上下文中推断 e² 是电子电荷的平方还是自然对数底（e=2.71828…）的平方。
+
+总功率方程可以写成： <总功率> = (2/3) e² <a²> / c³ 质子和电子相距 r 时的势能，在两种表示法中均为： U = qₚqₑ / (4πε₀r) = –e²/r
+
+辐射阻尼加速电荷会辐射能量。这些能量损失会阻尼带电振子的运动。如果没有持续的外部力，这些振荡会呈指数衰减。回顾第13章，阻尼振子的特征是品质因数 Q，它是共振峰高与宽度的比值。Q 等于振子的总能量 E 除以其每弧度的能量损失。
+
+Q = E / (–dE/dφ)
+
+Q = –E / {(dE/dt) (dt/dφ)} Q = –ωE / (dE/dt)
+
+dE/E = –(ω/Q) dt ln(E) = –(ω/Q) t + 常数 E = E₀ e^{–ωt/Q} 对于振子的位置，使用 x(t)=x₀cos(ωt)，其平均动能 <T> 为： <T> = m<v²>/2 <T> = m <[–x₀ωsin(ωt)]²>/2 <T> = m x₀²ω²/4 E = <动能 + 势能> = 2<T> E = m x₀²ω²/2 我们现在使用 dE/dt = 辐射功率，以及上一节的结果来计算 Q。
+
+Q = ω E / <总功率> Q = {m x₀²ω³/2} · {(3/2)c³/(e²<a²>)} Q = {3 m c³ x₀² ω³} / {4 e² <x₀²ω⁴cos²[ωt]>} Q = {3 m c³} / {4 e² ω (1/2)} Q = {3 m c³} / {2 e² (2πc/λ)} Q = 3 m c² λ / (4π e²)
+
+Q = (3/4π) λ (m c²/e²)
+
+Q = (3/4π) (λ / r₀)
+
+这里，r₀ = e²/(m c²) = 2.82×10⁻¹⁵ 米是经典电子半径。这个名称的由来是因为前量子原子理论假设电子是微小的球体，而这个半径最好地解释了诸如辐射电阻等现象。今天，没有严肃的物理学家相信电子具有这样的大小，或者电子像宏观球体的微小版本。
+
+在 V1p32-4 中，费曼计算了钠原子辐射这一特定情况下的 Q 值。低压钠灯是最高效的白炽灯之一，产生波长为 589.3 纳米的黄光，这接近人眼的峰值灵敏度。将该波长代入最后一个方程，我们发现发射的 Q = 5.0×10⁷。这意味着一个未受驱动的钠原子在振幅减小到原来的 1/e（0.368）之前，将振荡近 800 万次。由于此振荡对应的频率为 5.1×10¹⁴ Hz，这 800 万次循环耗时 16 纳秒。
+
+正如我们所说，Q 是共振峰高与宽度的比值。这表明原子谱线可以极其尖锐： Q = λ/Δλ Δλ = (589.3 nm) / 5.0×10⁷ = 1.18×10⁻¹⁴ m λ = 589.3 ± 0.000012 nm
+
+干涉与否在第31章，我们讨论了波何时干涉何时不干涉。我们说过，当叠加波具有相同频率和固定的相对相位差时，就会发生干涉。这里我们将更具体地说明导致干涉的条件。
+
+使用复数，让我们研究两个波 S₁ 和 S₂ 叠加时会发生什么。
+
+S₁ = A₁ exp{i(ω₁t + φ₁)} S₂ = A₂ exp{i(ω₂t + φ₂)} 相位差 φ₁ 和 φ₂ 是源的时间差和路径长度差的组合。
+
+合成波 S 的强度由下式给出： S = S₁ + S₂ I = S S* = [A₁exp{+i(ω₁t+φ₁)}+A₂exp{+i(ω₂t+φ₂)}]
+
+×[A₁exp{–i(ω₁t+φ₁)}+A₂exp{–i(ω₂t+φ₂)}]
+
+= A₁² + A₂² + A₁A₂ exp{+i(ω₁t+φ₁)–i(ω₂t+φ₂)} + A₁A₂ exp{–i(ω₁t+φ₁)+i(ω₂t+φ₂)} I = A₁² + A₂² + 2 A₁A₂ cos{t(ω₁–ω₂)+(φ₁–φ₂)} 干涉源于余弦项；如果该项不存在，两个源的强度将始终简单地等于它们各自强度之和。
+
+对于具有相同振幅（A₁=A₂=A）和频率（ω₁=ω₂）的波，它们的合成强度在 φ₁=φ₂ 时范围从 I = 4A²，到在 φ₁=φ₂+π 时 I = 零。这是波干涉的标志。
+
+正如我们已经发现的，在严格控制的条件下，干涉效应具有戏剧性的后果。一个例子是从相控阵天线系统将射频波束转向夏威夷或艾伯塔。另一个例子是来自其特征被控制到百万分之一英寸的光栅的衍射。
+
+但并非所有条件都足够精确和足够稳定，能产生可见光的干涉。当两个波穿过的路径相差数百万或数十亿个波长（对于可见光来说并不算不切实际）时，即使是微小的比例变化也能将它们的相对相位移动许多弧度，并完全改变它们的干涉。
+
+人眼的瞳孔直径在平均条件下约为 4 毫米，对应于约 10,000 个蓝光波长。
+
+A shift of viewing angle of a hundredth of one degree shifts phases by 10π radians. Our macroscopic world’s microscopic inconsistencies and instabilities generally randomize phase shifts so severely that interference effects are averaged to zero.
+
+In addition to varying phase shifts, frequency variations also limit interference in the macro-world. Consider the equation for the intensity of two combining waves that have the same amplitude (A1=A2=A) and slightly different frequencies (ω1=ω+δω):
+
+I = 2A² + 2A² cos{δωt+(ø1–ø2)}
+
+The (ø1–ø2) term is of little interest, since the δωt term rapidly cycles the cosine over all angles. For light frequencies in the range of 10¹⁵ Hz, a frequency difference of even one part per billion nullifies interference in a microsecond. It is technically impossible to synchronize two independent, conventional optical light sources well enough to maintain interference effects for macroscopic times. Feynman notes that many physics books say two independent optical sources never interfere. Indeed that includes a book by the eminent Nobel Laureate Paul Dirac. Feynman says that is not a statement of natural law, but rather a comment on the sensitivity of our instruments. In V1p32-5, he says: “Of course, in nature [interference] is always there, but we may not be able to detect it.” In a normal lamp, one atom radiates, then another, and then another. Each atom oscillates and radiates for only tens of nanoseconds, as we calculated earlier. Even if two atoms do radiate coherently at one instant, that coherence is lost in billionths of a second.
+
+Lasers are the exception to this general rule. Lasers are capable of outstanding frequency precision and stability, due to the quantum phenomena we discussed in Chapter 20. In 1963, Mandel and Magyar demonstrated interference between two independent ruby lasers, with δω~500kHz. This indicates a frequency match and stability of one part per billion.
+
+The final example of interference vanishing in macroscopic situations is when many independent sources emit waves. In calculating the intensity of the sum of all waves, two different types of terms arise, as shown below.
+
+I = ΣJ {AJeexp[+i(ωJt+øJ)]} × ΣK {AKeexp[–i(ωKt+øK)]} I = ΣJ {AJ²} + ΣJ≠K {2AJAKcos[t(ωJ–ωK)+(øJ–øK)]}
+
+One type is the square of each wave’s amplitude — its intensity. The sum of all these terms is simply the sum of all intensities, which is the normal result without wave interference. The remaining terms describe the interference of every pair of waves. These cross terms contain cosines of the waves’ frequency and phase differences. Some wave pairs might interfere consistently, with a fixed cosine value. But unless all emitters are correlated, the cosines of different pairs will be uniformly distributed between –1 and +1, and will sum to zero.
+
+Red Sunsets, White Clouds, Blue Sky
+
+As we have seen in the last few chapters, atoms radiate when excited by external electric fields. When atoms are in precise arrays, such as solid crystals, their fixed and definite positions result in fixed phase relationships and consistent interference of their emitted radiation. Since the spacing of such atoms is much less than the wavelength of all but the highest energy light, radiation is emitted in narrow beams in well-defined directions, with almost no radiation in other directions.
+
+But in gases, atoms are widely spaced, randomly positioned, and continuously moving. Here interference averages to zero and radiation is more broadly dispersed.
+
+An electron exposed to an external field E = E0eiωt oscillates with amplitude x(t) and acceleration a(t), given by:
+
+x(t) = q E0eiωt / {m(Ω²–ω²)} a(t) = –ω² q E0eiωt / {m(Ω²–ω²)}
+
+Here, q and m are the electron’s charge and mass, and Ω is its natural frequency. We have not included damping, which is quite small as we saw above. The total radiation emitted by a single electron in all directions is:
+
+<Total Power> = q²<a²>/(6πε0c³)
+
+= {q²/(6πε0c³)} (1/2)(ω²qE0)²/{m(Ω²–ω²)}² = {q²/(12πε0c³)} (ω²qE0)²/{m(Ω²–ω²)}² = (4πε0c/3) {r0²} (ω²E0)²/(Ω²–ω²)² = {ε0cE0²/2} {8π r0²/3} {ω²/(Ω²–ω²)}²
+
+where we used these two equations:
+
+r0 = e²/(mc²) = q²/(4πε0mc²)
+
+<real part{eiωt}²> = <cos²> = 1/2
+
+The equation for total power has three terms in {…}’s. The third term contains all the frequency dependence. The second term is a length squared, an area. The first term, {ε0cE0²/2}, is the incident power, the average value of the energy of the incident field per unit area per second. The second two terms tell us what fraction of that incident power is radiated by one electron that is accelerated by the incident field. Incident light excites an electron that scatters a fraction of that light. Physicists call that fraction the scattering cross section.
+
+As Feynman stresses in V1p32-7, scattering cross section is a concept physicists apply to any phenomenon that occurs in proportion to the intensity of an incident beam. We applied this concept to the collision of gas atoms.
+
+我们在第19章中讨论了分子，并用其计算了平均自由程和平均碰撞时间。
+
+让我们再回顾一下散射截面的概念。想象一束具有相同能量的粒子，沿+x方向运动。这束粒子可以是光的平面波，即一束光子。该束流遇到一个靶，该靶会散射束流中的一部分粒子，比例为f。如果束流覆盖的横截面积为A，则我们说靶的散射截面为σ=fA。这个概念基于一个假设：如果一个束流粒子打在以靶中心为中心、尺寸为σ的面积内的任何地方，它就会被散射；σ就是靶的等效尺寸。
+
+举个例子可能会有所帮助。如果一支飞镖击中一个气球，气球可能会破裂，也可能会被弹开，这取决于它被击中的方式和位置。如果气球破裂的概率是50%，我们会说它的散射截面是其实际面积的50%。气球的散射截面在很大程度上取决于飞镖的速度和镖尖形状。因此，散射截面是靶的尺寸和相互作用概率的结合。
+
+我们可以通过测量束流中被散射粒子的比例来轻松确定靶的散射截面。然而，我们并不假设散射截面能告诉我们事物的实际大小，尤其是在处理量子事物时。对于电子束和质子靶，质子在电磁相互作用中的散射截面与其在弱相互作用中的散射截面截然不同。
+
+考虑到这一切，单个电子对光（电磁辐射）的散射截面由前一个方程的最后两项给出： σ = {8π r₀²/3} {ω²/(Ω²–ω²)}²
+
+让我们看看这个方程的一些推论。
+
+当自然频率Ω非常低时（对于自由电子甚至为零），频率项简化为{ω⁴/ω⁴}=1，这意味着σ是常数。这个常数σ₀ = 8πr₀²/3，被称为汤姆逊散射截面，以纪念1897年发现电子的J.J.汤姆逊。其数值为6.65×10⁻²⁹ m²，或0.665靶恩。对于粒子物理学家来说，这已经很大了。
+
+相反，空气的自然频率位于紫外线区域。这意味着对于可见光，Ω>>ω，我们的方程变为： σ = σ₀ {ω⁴/Ω⁴} 这意味着散射截面与频率的四次方成正比。四次方总是令人印象深刻。由于蓝光的频率大约是红光的两倍，空气分子散射的蓝光强度是红光的2⁴=16倍。
+
+白天在户外，几乎所有光都来自太阳。当太阳靠近地平线时，几乎没有光从外太空直接照向我们。如果没有大气层，我们就不会看到阳光从我们头顶水平方向射来，除了太阳的方向，其他所有方向看起来都会是黑色的。但是有了大气层，水平的阳光被空气分子散射，其中散射的蓝光是红光的16倍。这就是为什么我们有美丽的蓝天。
+
+这也是日落是红色的原因。日落时，阳光穿过大气层的路程是正午时的12倍。增加的散射消除了来自太阳方向的蓝光，从而呈现出绚丽的红色日落。
+
+那云是怎么回事呢？
+
+云是在大气中的水蒸气凝结时形成的。为什么我们能在水蒸气凝结后看到它，而之前却看不到？
+
+答案是相干相长干涉。正如我们之前所说，气体中的分子间距很大，位置随机，并且在不断运动。它们辐射总和中的干涉项平均为零，其总强度只是它们各自强度的总和。对于N个气体分子，每个强度为I，总强度等于NI。但在固体或液体中，分子间距远小于可见光的波长。这意味着来自大量分子的散射光可以发生相干相长干涉，将总强度增加到N²I。因此，当水蒸气凝结成微小液滴时，光散射急剧增加，使云朵在天空中闪耀。云是白色的，因为它们是不透明的；它们散射所有波长的所有入射光。
+
+**第35章复习：核心思想**
+
+## 1. 一些有用的缩写和定义：
+
+e² = q²/(4πε) = 2.28×10⁻²⁸ kg m³ s⁻² r₀ = e²/(mc²) = 2.82×10⁻¹⁵ m r₀被称为经典电子半径，尽管我们现在知道电子并非固定半径的小球。
+
+2. 物理学家用靶的散射截面σ来描述相互作用概率，其假设是：入射粒子只有当打在以靶为中心、尺寸为σ的面积内的任何地方时才会被散射。对于单个电子对光的散射，汤姆逊散射截面为： σ₀ = 8π r₀²/3 = 6.65×10⁻²⁹ m²
+
+## 3. 一个被频率为ω、电场为E₀e^(iωt)的光激发的、具有自然频率Ω的单个电子，在一个完整周期内平均辐射的功率<P>为：
+
+<P> = {εcE₀²/2} σ₀ {ω²/(Ω²–ω²)}²
+
+## 4. 对于振荡电子，其品质因数Q（共振高度除以宽度）为：
+
+Q = 3mc²λ / (4πe²)
+
+Q = (3/4π) (λ/r₀)
+
+对于钠 mission at λ=589.3 nm, Q = 5.0×10+7. The oscillation amplitude of undriven sodium atoms decreases exponentially, with a time constant of 16 nsec, which corresponds to 8 million cycles.
+
+5. The natural frequency Ω of electrons in air molecules is much greater than the frequency ω of visible light, making the single electron scattering cross section σ proportional ω4: σ = σ {ω4/Ω4} The sky is blue because ω ~2ω , so 16 times more blue light than red light scatters in our
+
+## BLUE RED
+
+atmosphere. Sunlight passes through 12 times as much air at sunset than at noon, increasing scattering, eliminating blue light, and making sunsets red.
+
+Interference of light scattering is constructive from water molecules in tiny droplets, but averages to zero from water vapor. This makes clouds visible even though water vapor isn’t.
+
+Clouds are white because they are opaque and scatter all incident light of all wavelengths.
+
+## Chapter
+
+Polarization of Light The vector of a radiation field lies in a plane perpendicular to the line-of-sight to the source, as we have often noted. In previous chapters, as Feynman says in V1p33-1: “The particular direction in this plane has not concerned us. We now consider those phenomena whose central feature is the particular direction of oscillation of the electric field.” A light beam is polarized when the electric fields of all of its photons are oriented in a specific manner. All photons are polarized in one orientation or another. Unpolarized light beams are not composed of unpolarized photons, but of many photons whose polarizations are oriented in different directions. “Unpolarized” results from macroscopic averaging of vast numbers of polarized microscopic entities.
+
+Consider the scattering of sunlight, as discussed in the last chapter. In Figure 36-1, sunlight enters along the z-axis, containing photons whose electric fields point in all directions perpendicular to z.
+
+Figure 36-1 Polarization of Sunlight At point S, the incident light excites an electron, causing it to oscillate along the incident light’s electric field direction, which is perpendicular to z. Different solar photons will drive different electrons to oscillate in different directions within the xy-plane. The oscillating electrons radiate, with the electric field of each electron’s radiation pointed in some direction within the xy-plane.
+
+Some radiation from these excited electrons will reach point P, also in the xy-plane. Due to the projection effect, the x-component of radiation decreases as 1/r2 while the y-component decreases only as 1/r. If P is far from S, only the y-component of radiation from the excited electrons will reach P. Hence, the electric field at P is entirely vertical, making the light at P completely polarized.
+
+Scattering is one way of creating polarized light from an unpolarized source.
+
+The above is an example of the simplest type of polarization: linear polarization, where the electric field oscillates along a single line in the plane perpendicular to light’s velocity. For light of frequency ω moving along the z-axis, the x and y components of linearly polarized light oscillate together, cresting and troughing simultaneously. The electric field of linearly polarized light is described by an expression with one parameter, θ, which determines the polarization’s orientation: E = A (cosθ cos[ωt], sinθ cos[ωt], 0)
+
+This can be rewritten as the linear superposition of x and y polarizations: E = Acosθ (cos[ωt], 0, 0) + Asinθ (0, cos[ωt], 0)
+
+Any linearly polarized light can be represented as a linear superposition of any two orthogonal linear polarizations, in this case x and y.
+
+Examples of linear polarization are shown in Figure 36-2; the electric fields oscillate back and forth along the arrows.
+
+Figure 36-2 Electric Field of Linearly Polarized Light The most general type of polarization is elliptical polarization, in which the x and y components oscillate at the same frequency, but possibly with a phase shift and with different amplitudes. The electric field of elliptically polarized light is described by an expression with two parameters, θ and ø: E = A (cosθ cos[ωt+ø], sinθ cos[ωt–ø], 0)
+
+Examples of elliptical polarization are shown in Figure 36-3; the electric fields trace the perimeter of an ellipse, moving around the ellipse in the directions indicated by the arrows.
+
+Figure 36-3 Electric Field of Elliptically Polarized Light In Figure 36-3, light’s velocity is toward you, up out of the screen. If you point your right thumb in that direction, your fingers will curl counterclockwise in the direction of the arrow in the right-most image. That direction of rotation is defined to be “right-handed”, consistent with the right-hand rule for vector cross products. In V1p33-2, Feynman cautions that some optics books use the opposite convention — guess those authors had their thumbs in a different place.
+
+A special subclass of elliptical polarization is circular polarization, so-named because the electric fields trace circle s, ellipses with zero eccentricity. The right-most image of Figure 36-3 shows right-hand circular ("RHC") polarization, while the left-most image shows left-hand circular ("LHC") polarization. RHC and LHC are the two most important types of elliptical polarization. Any polarization can be represented as a linear sum of RHC and LHC polarizations. By shifting time bases (replace t with t–π/4ω for RHC, and replace t with t+π/4ω for LHC), we can rewrite RHC and LHC as: E_RHC = (cos[ωt], +sin[ωt], 0)/√2 E_LHC = (cos[ωt], –sin[ωt], 0)/√2 Some useful combinations of these are: {E_RHC + E_LHC}/√2 = (cos[ωt], 0, 0) = x polar.
+
+{E_RHC – E_LHC}/√2 = (0, sin[ωt], 0) = y polar.
+
+Birefringence Some materials are birefringent; they have different indices of refraction for light of different polarizations. Many birefringent materials are composed of oblong molecules, all aligned with their long axes parallel to one another. In this case, the "oblong" direction is called the optic axis. Electrons can move more easily parallel to the optic axis than laterally. This leads to one index of refraction for light with an electric field direction parallel to the optic axis, and a different index of refraction for light whose electric field is perpendicular to the optic axis. Birefringent materials have two distinct indices of refraction. In all directions perpendicular to the optic axis, electrons move with the same ease and the refractive index is the same. Some recent papers suggest the possibility of exotic trirefringent materials that have three distinct indices of refraction in three different directions, but this is not yet fully established. Birefringence is well known and fully established. Calcite (CaCO3) crystals are the premier example. To a lesser degree, birefringence is observed in sapphire, ruby, tourmaline, quartz, and even ice. Birefringence leads to interesting optical effects. Consider light moving in the +z-direction incident on a birefringent plate in the xy-plane, with optical axis in the +y-direction, and with thickness dz. Light, which is linearly polarized along the y-axis, moves electrons along the optic axis, encountering one index of refraction, call it n_Y. Light, which is linearly polarized along the x-axis, moves electrons perpendicular to the optic axis, encountering a different index of refraction, call it n_X. Light, which is linearly polarized at +45 degrees in the xy-plane can be considered to have x and y polarizations in equal parts. The component polarized in the y-direction traverses the plate at speed c/n_Y, while the x component traverses at speed c/n_X. This means the relative phase ø of the x and y polarizations changes as light moves through the plate. If ø is initially zero, after distance dz, ø becomes: ø = (dz/c)(n_X – n_Y). Light's electric fields before (E_B) and after (E_A) the plate are: E_B = (cos[ωt], cos[ωt], 0)/√2, E_A = (cos[ωt], cos[ωt–ø], 0)/√2. If ø=π/2, the initially linearly polarized light becomes right-hand circularly polarized. Since π/2 is 1/4 of a full cycle, a birefringent plate of this thickness is called a quarter-wave plate. If ø=π, light emerges from the plate linearly polarized at –45 degrees, perpendicular to its initial orientation. Note that polarization rotation only occurs for light with both x and y polarization components. Light that is 100% polarized along the y-axis, traverses the plate at speed c/n_Y with no rotation of its polarization. Light that is 100% polarized along the x-axis, traverses the plate at speed c/n_X with no rotation.
+
+Polaroid Filters A particularly interesting example of birefringence is a Polaroid filter made from long slender crystals that are aligned parallel to one another. Electrons move very easily along the length of the crystals, the optic axis, but are severely constrained laterally. Electrons accelerated along the optic axis radiate fields that oppose, and eventually eliminate, that component of the incident field. Parallel to the optic axis, the index of refraction is imaginary, making the filter opaque to light linearly polarized in that direction. Perpendicular to the optic axis, the index of refraction is nearly 1. For a thin Polaroid sheet, the optic axis lies within the plane, with only one direction perpendicular to it: the pass direction. Modern polarizers are so effective that they pass 98.5% of light polarized in the pass direction and only ten-millionths (10–5) of the orthogonally polarized light. Polaroid filters are very effective in both polarizing light and in measuring the orientation of linearly polarized light. In Figure 36-4, light from source S is unpolarized. Solid-line arrows indicate the pass directions of two Polaroid filters and a test disk. The dotted arrows indicate light's polarization. Figure 36-4 Polaroids A & B with Test Disk. Light from S contains photons whose polarizations point in all directions within the xy-plane. Polaroid A removes the x-component of polarization. After passing through A, light is c ompletely linearly polarized in the y-direction. We can confirm this by removing the test disk and rotating Polaroid B. With B’s pass direction in the x-direction, as shown in the figure, no light will pass through B, but when rotated 90 degrees, light will pass freely through B.
+
+We now remove Polaroid B and insert the test disk. By rotating the test disk and monitoring light transmission versus angle of rotation, we can discover whether the disk is birefringent. If it is, we can determine the axis of its greatest absorption. If the test disk is also a Polaroid, no light will pass through when its pass direction is in the x-direction.
+
+Let’s restore Polaroid B and remove the test disk. No light passes both filters A and B when their pass directions are orthogonal, as in the figure. Now insert a test disk that is also a Polaroid. As Feynman demonstrates in V1p33-5, a truly remarkable outcome occurs if we rotate the disk to the 45- degree orientation shown in Figure 36-4: light passes through all three Polaroids.
+
+How is that possible? Filters only remove light; they don’t create light. How can three filters pass more light than two?
+
+This is how. Light exiting filter A is completely polarized in the y-direction, which we represent as: E = (0, E , 0)
+
+As we discovered above, any linearly polarized light can be represented as a linear superposition of two orthogonal polarizations. In this case, we chose orthogonal directions +45 degrees (x=y) and –45 degrees (x=–y). Our choice matches the orientation of the test disk at +45 degrees. The general equation for converting x,y polarizations to +,– 45-degree polarizations is: E = (E ± E)/√2 ± x y In +,– representation the electric field of light exiting A is: E = +E /√2 + A E = –E /√2 – A The test disk eliminates E and passes only the E component, leaving: – + E = (+E , 0, 0)/√2 ± A We next represent the electric field exiting the disk in orthogonal x-y directions. The general conversion equation from +,– to x,y is: E = (E +E)/√2 x + – E = (E –E)/√2 y + – In x,y representation, the electric field exiting the disk is: E = (+E , +E , 0)/2 A A Only the x-component passes the B filter, making the final field: E = (+E , 0, 0)/2 Hence, light passing through the three filters of Figure 36-4 has half its incident amplitude and one- quarter its incident intensity.
+
+Isn’t that beautiful?
+
+This phenomenon is the basis of LCDs (Liquid Crystal Displays), which are ubiquitous in our high- tech society.
+
+Cellophane, Kerr Cells & LCDs Some common substances have colorful birefringent effects. In fact our trash is full of it. Cellophane is birefringent. As it happens, the thickness of much of the cellophane that wraps commercial products is about half the wavelength of visible light. In V1p33-4, Feynman points out that one can change the effective thickness of a sheet of refractive material by tilting it relative to the incident light. That changes the color of light whose wavelength is exactly twice the sheet thickness. With the double Polaroid setup in Figure 36-4, a cellophane test disk changes color as it tilts.
+
+Kerr cells and common LCDs both operate on the same principles, but with different chemistries.
+
+Both contain liquids that become birefringent when exposed to an electric field. This technology is actually nothing new; John Kerr discovered it in 1875.
+
+LCDs employ two orthogonal Polaroid filters sandwiching a liquid that becomes birefringent when exposed to an electric field. When the field is off, the liquid has normal optics and no light passes through the two orthogonal Polaroids. With the field on, the liquid rotates light polarization, allowing light transmission.
+
+Optical Activity In V1p33-6, Feynman says helical molecules can display a “most remarkable effect of polarization”: they can rotate light’s polarization vector, as sketched in Figure 36-5. Here linearly polarized light from source S illuminates a helical molecule aligned parallel to the y-axis, the direction of polarization.
+
+Figure 36-5 Helical Molecule Rotates Polarization Light’s electric field drives electrons up and down the molecule. Due to its helical structure, to move vertically, electrons must also spiral around the molecule, moving back and forth in the x-direction.
+
+The key to this effect is the molecule’s asymmetrical shape; it is a right-handed screw, while its mirror image would be a left-handed screw. For the molecule in Figure 36-5, when the electric field drives electrons up, electrons on the left side all move toward +x, while those on the right move toward –x. At a point P far to the right, the radiation from these x-motions don’t completely cancel due to retarded time differences.
+
+Define the horizontal position of the molecule’s left side to be z, and its right side to be z+dz. The retarded time difference at point P then equals dz/c. Define a (z,t) to be the x-component of acceleration at horizontal position z at time t, and assume the x-acceleration on the molecule’s right side is opposite that of the left side. Define t* to be the time the field arrives at P from the molecule's left side at z. With all that, the x-component of the radiation field at P is proportional to: E(t*) at P ~ a_x(z,t) + a_x(z+dz,t+dz/c)
+
+E(t*) at P ~ a_x(z,t) – a_x(z,t+dz/c)
+
+E(t*) at P ~ -(dz/c) d[a_x(z,t)]/dt At the same time, the electrons' vertical motion radiates a vertical electric field that opposes, and somewhat reduces, the incident field at point P. The total field at P has an x-component that the incident light lacked, and a reduced y-component. The molecule, therefore, rotates light's polarization vector.
+
+Feynman notes this effect exists for any orientation of the molecule relative to the incident light. In any orientation, its asymmetrical shape radiates light polarized perpendicular to an incident beam. He says corn syrup is a common substance with optical activity.
+
+Polarization by Reflection
+
+One might wonder why people buy polarized sunglasses when sunlight isn't polarized. The answer requires some reflection.
+
+We previously discussed reflection and refraction as if these were mutually exclusive; as if light does one or the other. Separate discussions made these phenomena easier to understand. But actually, both phenomena can occur whenever light hits a refractive medium, which almost all material substances are.
+
+Consider sunlight incident on a flat surface. The plane containing the incident beam and the normal to the surface is called the plane of incidence; in Figure 36-6, this is the plane of your screen. The dots indicate polarization perpendicular to the screen and the dotted arrows indicate polarization within the screen.
+
+Figure 36-6 Light Reflection at Brewster’s Angle
+
+Sunlight is unpolarized, meaning the polarization vector of each photon is a linear superposition of two orthogonal polarizations: (1) out-of-screen (the dot), and (2) perpendicular to the incident direction and within the screen (the dotted arrow).
+
+As sunlight enters the medium, it bends to angle ø in accordance with Snell’s law: n sinø=sinθ, where n is the medium's index of refraction. Electrons are accelerated along the two polarization directions of the refracted beam shown in Figure 36-6: out-of-screen (the dot) and along the dotted arrow. Each electron emits radiation whose electric field is parallel to the electron's acceleration and perpendicular to the radiation's direction of motion.
+
+Consider the special case of β=π/2, when the refracted beam's dotted arrow is parallel to the reflected beam. Electrons accelerating along the dotted arrow cannot contribute to the reflected beam when β=π/2. The polarization of the reflected beam is then entirely perpendicular the screen.
+
+From Figure 36-6, when β=π/2, we see: ø = π/2–θ sinø = cosθ n sinø = n sinθ AIR tanθ = n/n_AIR
+
+The angle θ at which the reflected beam is completely polarized is called Brewster’s angle. We made the above equation more general by including the index of refraction for the incident medium, air in our example.
+
+Due to this effect, light reflected from horizontal surfaces, including roads and car hoods, is predominately horizontally polarized. By absorbing horizontal polarization, polarized sunglasses reduce glare more than they reduce ambient light.
+
+Intensity of Reflected Light
+
+In the last section, we examined reflection at Brewster’s angle. We will now calculate the intensity of reflected light for any incident angle.
+
+Figure 36-7 shows two views of linearly polarized light from source S striking the surface of a medium of refractive index n, resulting in both reflected and refracted beams. On the left, the polarization is perpendicular to the screen and indicated by dots. On the right, the polarization is within the screen and indicated by dotted arrows.
+
+Figure 36-7 Two Views of Reflection and Refraction Left: (a) Polarization normal to screen (dots)
+
+Right: (b) Polarization within screen (dotted arrows)
+
+To simplify some lengthy equations, we set the electric field amplitude of incident light equal to 1; its intensity is then also 1. We define the amplitude of refracted light to be α and the amplitude of reflected light to be β, for the left side of Figure 36-7, where polarization is perpendicular to the screen. We also define the amplitude of refracted light to be A and the amplitude of reflected light to be B, for the right side of Figure 36-7, where polarization is within the screen. All these amplitudes may be complex numbers.
+
+For both views, Snell’s law requires: n sinø = sinθ.
+
+Before we get to the math, I want to explain the key principle at work here. If none of the electric charges in the glass moved, the only electric fields would be from the incident light. The incident light would continue unaltered into the glass along the dashed line in both parts of Figure 36-7. However, we know that electrons in the glass are accelerated and become new radiation sources. That action causes the light to bend to angle ø within the glass, forming the refracted l light beam. Electrons along the refracted beam radiate, creating: 1. a reflected light beam; and 2. a beam that cancels the incident beam in the glass (the dashed line). Another key point is that the actions on each side of Figure 36-7 are independent. Light polarized normal to the screen accelerates charges normal to the screen, and those charges radiate fields that are normal to the screen. Similarly, fields within the screen act and create new fields only within the screen. This enables us to break the problem down into two more manageable halves.
+
+We start with the left side, where all light waves are polarized normal to the screen. The refracted beam has amplitude α, and radiation by electrons along the refracted beam creates the reflected beam, which has amplitude β. Since all polarizations on the left side are parallel, this means β is proportional to α.
+
+On the right side, where all light waves are polarized within the screen, the refracted beam has amplitude A. Its electrons’ radiation creates the reflected beam, which has amplitude B. But only the component of A perpendicular to the reflected beam can contribute, because the reflected beam’s electric field must be orthogonal to that beam’s direction. This means B is proportional to Acos(π–θ–ø) = –Acos(θ+ø). The minus sign is irrelevant at this point as we are discussing proportionality not equality.
+
+Combining the proportionalities from each side, we get: β / α = B / Acos(θ+ø)
+
+Next, we consider the electron radiation that cancels the incident wave. The cancelling wave must have amplitude –1 to nullify the incident wave’s amplitude +1. On the left, this means kα=–1 for some constant k. On the right, only the component of A perpendicular to the dashed line can contribute, for the same reasons as above. This means kAcos(θ–ø)=–1. Combining these two results, we get: α = Acos(θ–ø)
+
+Dividing the last two major equations yields: B / β = cos(θ+ø) / cos(θ–ø)
+
+Note that if θ+ø=π/2, θ is Brewster’s angle, where B=0. As Feynman says in V1p33-8, our above equation passes that test, “so our results so far are at least not obviously wrong.” It’s always useful to check equations for validity in special, simple cases.
+
+We have the B/β ratio, but we want the value of each separately. Feynman says: “Now we perform a miracle!” Solving an equation isn’t quite like curing cancer or negotiating world peace, but an occasional dramatic flourish keeps tired students awake toward the end of a long physics lecture. Feynman’s “miracle” is using energy conservation, not exactly late-breaking news. Light attenuation in glass is extremely low, on the order of 2% per km — one could clearly view the bottom of the Marianas Trench with an 11km long fiber optic cable and a lamp.
+
+Energy conservation requires: 1 = αα* +ββ* and 1= AA* + BB*, which we can rewrite: AA* / αα* = {1–BB*} / {1–ββ*}
+
+Using our above equations α=Acos(θ–ø) and B/β =cos(θ+ø)/cos(θ–ø) we get: {1–ββ*}=cos2(θ–ø){1–ββ*cos2(θ+ø)/cos2(θ–ø)}. This simplifies to: 1 – ββ* = cos2(θ–ø) – ββ*cos2(θ+ø). Then: sin2(θ–ø) = ββ* – ββ*cos2(θ+ø). Finally: ββ* = sin2(θ–ø) / sin2(θ+ø).
+
+Feynman states but does not demonstrate that β is real and equal to: β = –sin(θ–ø) / sin(θ+ø). He says this results from analyzing two beams of light, from inside and outside the glass, incident on the same point on the surface, and also by analyzing reflections from both sides of a very, very thin glass plate.
+
+Accepting that conclusion, we have for B: B = –tan(θ–ø) / tan(θ+ø). The expressions for β and B are called the Fresnel reflection formulas.
+
+For light incident normal to the surface, taking the limit as θ goes to zero, we get for the reflection amplitudes and intensities: β ≈ B ≈ –(θ–ø) / (θ+ø). Then: β ≈ B ≈ –(θ–nθ) / (θ+nθ). Which gives: β ≈ B ≈ (n–1) / (n+1). And: β2 ≈ B2 ≈ (n–1)2 / (n+1)2.
+
+For water with n=1.333, the reflected intensity is 1/49, or about 2% of the incident intensity. For glass with n=1.52, the reflected intensity is about 4% of the incident intensity. Both are relatively modest. Yet in many applications, a 4% reflection from each glass surface degrades performance or is unsightly. For example, reflections reduce contrast in astronomical telescopes by creating stray light. Cleverly designed, anti-reflective thin films can reduce reflection to 1% for single layer coatings and to 0.1% for multilayer coatings.
+
+Anomalous Refraction
+
+In v1P33-9, Feynman says the first polarization effect ever discovered was anomalous refraction in crystals of Icelandic spar, now called calcite. He adds: “As is often the case, the phenomena that are discovered first are the hardest, ultimately, to explain.”
+
+Icelandic spar is transparent and birefringent. It has the “amusing” property of producing two images of anything seen through the crystal, as in Figure 36-8. Some say Vikings navigated on cloudy days using Icelandic spar to reveal the direction of the Sun.
+
+Figure 36-8 Calcite Crystal on Graph Paper
+
+Anomalous refraction occurs when the optic axis of a birefringent medium is not parallel to its surface. In this case, light’s ap phase velocity in the medium depends on the orientation of its linear polarization relative to the optic axis. Light rays with polarization orthogonal to the optic axis are called ordinary rays; their phase velocity is c/n_O. Rays with polarization parallel to the optic axis are called extraordinary rays; their phase velocity is c/n_E. In birefringent materials, the index of refraction difference n_E - n_O varies from +0.287 for rutile to –0.172 for calcite.
+
+On both sides of Figure 36-9, the optic axis is within the plane of the screen, as indicated by the lower arrow labeled “O”. Figure 36-9 Anomalous Refraction of Two Polarizations
+
+On the left side, incident light is polarized normal to the screen, as indicated by dots, and is perpendicular to the optic axis. At normal incidence, the light passes straight through the medium at speed c/n_O; this is the ordinary ray. Light waves radiated by electrons in the medium with this polarization expand circularly in the usual manner.
+
+On the right side, incident light is polarized vertically within the screen, as indicated by the dotted arrows. This polarization has two components, one parallel and one perpendicular to the optic axis. The perpendicular component has speed c/n_O, while the parallel component has speed c/n_E. This figure assumes c/n_E > c/n_O. The parallel component travels faster, causing the light beam to deflect downward; this is the extraordinary ray. Its trajectory is not governed by Snell’s law and is thus called anomalous. Due to the different speeds in orthogonal directions, light waves radiated by the medium’s electrons with this polarization expand in ellipses whose major axes are parallel to the optic axis.
+
+After traversing a medium with anomalous refraction, the two orthogonal orientations of linearly polarized light emerge parallel but displaced.
+
+## Chapter 36 Review: Key Ideas
+
+1. A light beam is polarized when the electric fields of all its photons are oriented in a specific manner. All photons are polarized in one orientation or another. Unpolarized light beams are not composed of unpolarized photons, but of many photons whose polarizations are oriented in different directions.
+
+2. Light is linearly polarized when its electric field E oscillates along a single line. Assuming light moves along the z-axis, all linearly polarized light can be represented by: E = A (cosθ cos[ωt], sinθ cos[ωt], 0)
+
+The most general polarization is elliptical, in which x and y components oscillate at the same frequency but possibly with a phase shift and different amplitudes. The representation is: E = A (cosθ cos[ωt+ø], sinθ cos[ωt–ø], 0)
+
+A special case of elliptical polarization is circular polarization, which can be either right-handed (RHC) for θ=ø=π/4, or left-handed (LHC) for θ=–ø=π/4.
+
+3. Any polarization can be expressed as a linear superposition of RHC and LHC. Any linear polarization can be expressed as a linear superposition of polarizations along any two orthogonal axes.
+
+4. A birefringent material has different indices of refraction for different polarization directions. A light beam polarized parallel to the optic axis is called an extraordinary ray and encounters index n_E. A light beam polarized normal to the optic axis is called an ordinary ray and encounters index n_O. A common birefringent is a Polaroid filter composed of long slender, parallel crystals. Electrons move easily along the length of the crystals, the optic axis, but are severely constrained laterally. The filter is opaque to light linearly polarized parallel to the optic axis, while being nearly transparent for the orthogonal polarization.
+
+5. Optically active media, composed of asymmetric molecules, rotate light’s polarization vector.
+
+6. Light reflected from a surface at Brewster’s angle is completely polarized normal to the plane of incidence, the plane containing the incident beam and the surface normal. Brewster’s angle θ is given by: tanθ = n_MEDIUM / n_AIR Sunlight reflected from horizontal surfaces is predominately horizontally polarized. By absorbing light with horizontal polarization, polarized sunglasses reduce glare more than ambient light.
+
+7. Light incident on a surface accelerates the medium’s electrons. Electrons along the path of the refracted beam radiate, creating a reflected beam and a beam that cancels the incident beam within the medium. The reflected beam’s amplitude depends on polarization.
+
+Relative to the incident beam amplitude, define the reflection amplitudes: β for polarization normal to the plane of incidence; and B for polarization within that plane. For incident angle θ and refracted angle ø, Fresnel’s reflection formulas are: β = –sin(θ–ø) / sin(θ+ø)
+
+B = –tan(θ–ø) / tan(θ+ø)
+
+8. Anomalous refraction is another consequence of birefringence. After traversing a medium whose optic axis is not parallel to its surface, the two orthogonal orientations of linearly polarized light emerge parallel but displaced. For normal incidence, the ordinary ray, polarized normal to the o optical axis, travels straight through at speed c/n_o, while the extraordinary ray, polarized parallel to the optic axis, is displaced contrary to Snell’s law, and has speed c/n_e.
+
+## Chapter
+
+Light & Relativistic Effects
+
+This chapter completes our investigation of light, for now. Since light plays a unique and pervasive role in nature, future discussions of many other topics — electromagnetism, quantum mechanics, wave theory, and others — will bring us back to light. Up to now, we have focused on light sources that were stationary or slowly moving within a limited space. This chapter extends our reach to sources moving on a grand scale, including those speeding through the cosmos at relativistic velocities. We return to where this eBook began: special relativity. Henceforth, we will consider any arbitrary source velocity. But we will still require that the source be far from the observer — many wavelengths of the radiated light — to avoid dealing with the electric field’s 1/r² terms.
+
+We begin by reexamining the equation for the electric field vector E of electromagnetic radiation: E = –q/(4πεc²) d²(r/r)/dt². E is the field measured by an observer at time t, arising from the motion of a charge q that the observer sees at position r. The magnitude of vector r is r, and r/r is a vector of unit length parallel to r. Recall the need for retarded time. The source that the observer sees at r now, at time t, is where the source was at time τ = t–r/c.
+
+In V1p34-1, Feynman stresses that the determining feature of the electric field is the second derivative (the acceleration) of r/r. Electromagnetic radiation is light, which is composed of an electric field E and a magnetic field B oscillating together with zero phase shift. The two fields and light’s velocity are all mutually perpendicular. The equation for light’s magnetic field is: B = –(r/r) × E/c. Note here that r is the vector from the observer to the source. Light moves in the –r direction. If we define u as the unit vector in light’s direction of motion: B = +u × E/c.
+
+Let’s briefly review material from Chapter 32. Define the z-axis to be the direction of r at time t=0. Let R be the separation distance at t=0, and let x and y be the directions perpendicular to z. Place the origin of the coordinate system, x=y=z=0, at the apparent location of the source at t=0. The variables x, y, z, r, and r are functions of time, and R is constant. Note that all these variables are what the observer sees: his measured coordinates at his measured time. We are also interested in variables measured relative to the source. Call these X, Y, Z, and τ. The only connection we know so far is τ=t–r/c.
+
+We can then write: r = (x, y, R+z), r² = R² +2Rz +z² +x² + y², r ≈ R +z. In the last line we neglected x² and y² compared with R² and 2Rz. Note in our coordinate system, the distance to the observer, and thus the retarding factor, increases as z increases. This means the observer lies far away in the –z-direction.
+
+Now examine d(x/r)/dt: d(x/r)/dt = (dx/dt)/r – x(dr/dt)/r². For an observer far away, the last term above is negligible. We are then left with (at time t): E_x = –q/(4πεc²R) d²x/dt², E_y = –q/(4πεc²R) d²y/dt², E_z = 0.
+
+To find the source variables, we equate the coordinates the observer sees at time t with the coordinates at the source at time τ: x(t) = X(τ), y(t) = Y(τ), z(t) = Z(τ), t = τ + r/c ≈ τ + R/c + z/c.
+
+Relating Source and Observer Coordinates
+
+In V1p34-2, Feynman provides a remarkable graphic solution to the above equations. In the equation for t, the constant R/c term is of little import; it merely adjusts what we call t=0. The z term is much more interesting.
+
+Let’s take a simple example, a charge rotating in the xz-plane, governed by: X(τ) = A cos[ωτ], Z(τ) = A sin[ωτ]. Figure 37-1 compares the motion in the source frame on the left, with X(τ) versus ct on the right. Be sure to note that the left image plots X versus Z, while the right image plots X versus time. Figure 37-1 “Sweeping” the Motion of Rotating Charge. Left: In Source Frame. Right: In Observer Frame.
+
+In the left image, the X,Z coordinates of the charge are plotted at equally spaced time intervals; the points are numbered in time sequence 1 through 12. As Feynman says, the right image is a true, correctly time-retarded, representation of what the observer sees. Here, point 1 is at the earliest time, because that’s what the observer sees first. Point 12 is seen at a much later time. Recall that the observer is far away in the –z-direction. This means point 1 is more time retarded than point 7. The second derivative of the right-hand curve is directly proportional to the electric field at the observer. Clearly the sharp spike at maximum X creates the greatest electric field. The sharp spike comes when the charge swings toward the observer, at points 3, 4, and 5.
+
+This is quite unlike the situations we explored in preceding chapters, where the motion was non-relativistic. Here, with velocities comparable to c, dz/c can be large enough to substantially change the time retarding factor. This is the direct cause of the spike. The retarding factor shrinks rapidly near points 3, 4, and 5, bringing these points closer together in the right-hand image. The same retarding factor balloons near points 9, 10, 11, spreading these points apart.
+
+Feynman describes this procedure as mathematically sweeping the motion away at light speed. The curve on the right is called a hypocycloid.
+
+Accelerating Particles Physicists accelerate elementary particles with synchrotrons, “atom smashers” in the vernacular. The first synchrotrons sat on tabletops, and were built almost from petty cash. Today’s most powerful synchrotron, the Large Hadronic Collider (LHC) at CERN, has a circumference of 27 km and cost over $10 billion. All synchrotrons operate on the same basic principles. Magnetic fields keep charged particles in circular orbits, while synchronized radio-frequency electric fields boost their energy. The force applied by the magnetic fields is: dp/dt = F = q v × B. We equate force with the rate of change of momentum because this is valid even at relativistic velocities. The cross product ensures F is perpendicular to both v and B. Forces perpendicular to a particle’s velocity change the particle’s direction but not its speed or kinetic energy.
+
+In a uniform magnetic field, charged particles rotate around the axis of the magnetic field. Define +z to be the magnetic field direction and +x to be the direction of a particle’s present velocity. In an infinitesimal time dt, the magnetic force adds an infinitesimal amount of y-momentum, turning the particle by angle dθ. dp/dt = qvB. dp/p = sin(dθ) ≈ dθ. (dp/dt)/p = qvB/p ≈ dθ/dt. During dt, a particle in a circular orbit of radius R moves through an arc of length Rdθ. This distance also equals vdt, its velocity multiplied by dt. Combining these equations we get: vdt = Rdθ. v/R = dθ/dt. v/R = qvB/p. p = qBR. With this equation physicists determine the momentum and charge of each charged particle in elementary particle interactions. Figure 37-2 is a famous bubble chamber image: the first observation of the Ω– predicted by Murray Gell-Mann and Yuval Ne’eman. This discovery in 1964 confirmed the existence of quarks, the basis of the Standard Model of particle physics.
+
+Figure 37-2 Discovery of Omega-Minus The bubble chamber’s uniform magnetic field bends positive particles counterclockwise and negative particles clockwise. Only charged particles nucleate bubbles in liquid hydrogen; neutral particles are therefore invisible in bubble chambers (and in almost all other particle detectors).
+
+In the figure, a high-energy beam of kaons enters from the left. One of these kaons hits a proton in the liquid hydrogen at point 1 (beyond the tip of the arrow). Those two particles are transformed into an Ω–, a positive kaon and a neutral kaon. The neutral kaon decays at point 2 into two pions, one positive and one negative. The Ω– decays at point 3 into a negative kaon and a neutral Λ0, which decays at point 4 to a proton and a negative pion. The negative kaon from point 3 decays at point 5 to two pions, one negative and one neutral.
+
+The best way to analyze such “events” is to start with the known initial particles and the final decay products; the latter are inherently the least massive and most easily identified. After identifying the upper “V” formed by two pions, and determining their momenta from their curvature, we can calculate the mass and energy of the particle that decayed at point 2. Its mass identifies it as a kaon, and since it left no track between points 1 and 2, it must be a neutral kaon. By similar logic, we build up the sequence of interactions and determine the mass of the particle leaving the track between points 1 and 3. That mass, 1672 MeV, confirmed it was a previously unknown type of particle. Analysis also showed the particle is composed of 3 strange quarks. “Strange” is a quantum property that was originally mystifying, hence the name, but is now well-understood and seems no stranger than the rest of the quantum world.
+
+For more on relativistic elementary particle kinematics see Special Relativity 3: Particles, Paradoxes & Puzzles.
+
+Let’s return to the equation p = qBR. For a proton with +1 elementary charge, B measured in tesla, R in meters, and p in GeV/c, we have: p = 0.3 BR. The LHC is designed to ultimately reach 7000 GeV per beam. Holding such high-energy protons in orbits of radius R=4300m requires a uniform magnetic field of: B = 5.4 tesla = 54,000 gauss. Since bending magnets don’t cover the entire ring, LHC’s magnets produce up to 8.4 tesla. By comparison Earth’s magnetic field is about 1/2 gauss, or 50 microtesla.
+
+Synchrotron Radiation We now turn to synchrotron radiation, the radiation produced by high-energy particles accelerated by magnetic fields. Such radiation is polarized in the direction of acceleration, which is perpendicular to the magnetic field. Synchrotron radiation from a particle accelerator is pulsed, with one great spike each time the beam swings around. In V1p34-5, Feynman describes the result of exposing a diffraction grating to a tiny amount of such radiation. If the grating is struck normal to its surface, electrons in all diffraction grooves are simultaneously accelerated up and down once by each beam spike. The radiation emitted by each groove is similarly spiked. At a point P off to one side, as shown in Figure 37-3, the grooves’ radiation spikes arrive at slightly different times, due to their slightly different path lengths.
+
+Figure 37-3 Synchrotron Radiation Spikes from Diffraction Grating
+
+Point P thus receives a series of spikes, shown on the lower right of Figure 37-3. The spike spacing depends on P’s location. The sum of these spikes oscillates somewhat like a sine wave, yielding light of a definite color.
+
+Cosmic sources also emit synchrotron radiation when high-energy electrons spiral in strong magnetic fields. In 1956 Geoffrey Burbidge observed the first astronomical synchrotron radiation in a jet emanating from a supermassive black hole at the center of galaxy M87. M87 is in the upper left, and the jet reaches beyond the center of Figure 37-4.
+
+Figure 37-4 Jet From Center of Galaxy M87
+
+Pulsars also emit synchrotron radiation. Pulsars are rapidly spinning neutron stars with immense magnetic fields, some many billions of times stronger than Earth’s field. Electrons ejected at very high velocities spin around the field lines, emitting synchrotron radiation.
+
+A prime example is the Crab Nebula, shown in Figure 37-5. Synchrotron radiation comes from the central glowing ball inside the fibrous exterior. Pulsars are created when a dying star explodes in a supernova that releases as much energy in a few seconds as our Sun will in 10 billion years. (For more about pulsars, supernovae, and black holes see Black Holes, Supernovae & More.)
+
+Figure 37-5 Crab Nebula
+
+Bremsstrahlung
+
+In v1p34-6, Feynman discusses a related phenomenon: bremsstrahlung. Here again, high energy particles emit radiation when strongly accelerated. On the left side of Figure 37-6, a high-energy electron passes close to an atomic nucleus at point B. The nucleus’ electric field accelerates the electron downward toward D, causing it to emit bremsstrahlung radiation toward C, along its original direction of motion.
+
+Figure 37-6 Bremsstrahlung by Electron Passing Nucleus
+
+As with the rotating charge in Figure 37-1, we can translate source coordinates into observer coordinates, producing the curve on the right side of Figure 37-6. The observed field is the second derivative of this curve, which is dominated by the kink at B.
+
+Wave Number
+
+In V1p29-2, Feynman introduces a new quantity: wave number k, defined as the rate of change of phase angle with distance. Since he doesn’t use wave number for 8 lectures, I have deferred the topic to this chapter.
+
+If we observe a wave at a fixed time, it oscillates across space. Wave number k measures how rapidly the wave oscillates as we move through space (the phase angle change in radians per unit distance).
+
+Just as ω converts time into radians, k converts distance into radians.
+
+Thus kλ = 2π, the number of radians in one wavelength. For light waves, we also have: k = ω/c. This allows us to write the wave equation:
+
+Wave height (t,x) = A cos(ωt–kx+ø)
+
+The wave height at (t,x) equals the wave height at (t+b/ω, x+b/k), for any t, x, and b, because:
+
+ω(t+b/ω) – k(x+b/k) = ωt +b –kx –b = ωt–kx
+
+This means that for each increment of time dt=b/ω, every part of the wave moves toward +x by a distance dx=b/k, confirming:
+
+dx/dt = (b/k)/(b/ω) = ω/k = c, light’s speed
+
+The Wave 4-Vector: ω,k
+
+The most interesting part of the wave equation is ωt–kx. It has the property that the wave is unaffected by any change of t and x so long as ωt–kx is unchanged. Said another way: the wave is invariant if and only if ωt–kx is invariant.
+
+We explored the importance of invariant quantities in the chapters on special relativity. We recall that (ct,x,y,z) is the position 4-vector, (E/c, p_x, p_y, p_z) is the momentum 4-vector, and that the dot product of any two covariant 4-vectors is itself invariant.
+
+As ωt–kx has an invariant property and t,x is part of a covariant 4-vector, this suggests ω,k maybe part of a covariant 4-vector as well. How can we expand ω,k into 4 quantities? Answer: in the same way that t,x expands into 4 quantities in all the dimensions of spacetime.
+
+Wave number k is the phase angle change in radians per unit distance. We have so far considered only distance along the x-axis, but clearly that should be generalized to all spatial dimensions. We can define k_x, k_y, k_z to equal the phase change per unit distance along the x, y, and z axes respectively. We then have an expression for the total phase angle change for 3-dimensional motion:
+
+k•r = (k_x, k_y, k_z) • (dx, dy, dz)
+
+k•r = dx k_x + dy k_y + dz k_z
+
+Wave number vector k is parallel to the wave’s direction of motion, as shown in Figure 37-7, where the thin diagona l lines represent wave crests. Moving from the tail to the tip of vector r changes the phase angle by k•r.
+
+Figure 37-7 Wave Number Vector k
+
+Recall that k, the magnitude of wave number vector k, equals 2π/λ = ω/c. Hence: k_μ k^μ = –(ω/c)^2 = 0, is invariant in all frames.
+
+We define the wave number 4-vector k_μ = (ω/c, k_x, k_y, k_z). This allows us to rewrite the wave equation in a simpler, more general form: Wave height ψ(x) = A cos(x•k + φ).
+
+The wave number 4-vector has an interesting property: k_μ k^μ = –(ω/c)^2 + k•k = 0.
+
+Resist the 3-D urge to assume that k_μ k^μ = 0 means k_μ = 0; k_μ is never zero, even though its square is, thanks to the charms of 4-D spacetime.
+
+The next section confirms that k_μ is covariant, which means x•k, the product of two covariant 4-vectors is invariant.
+
+Doppler Effect
+
+The most famous relativistic effect on light is the Doppler effect. This arises whenever the distance between source and observer changes rapidly.
+
+A stationary atom oscillating at its natural frequency Ω, emits light with the same frequency Ω. Now imagine that atom moving toward us at velocity v. Due to relativistic time dilation (Chapter 26), we see everything in the moving frame running slower, including clocks and atomic oscillations. We therefore say the frequency of the emitted light at the source is the lower frequency ω* = Ω√(1–β^2), with β = v/c.
+
+But now another factor enters the picture. As these light waves expand outward toward us, they are compressed. Think of it this way: at some time t_1, a wave crest passes us, then another at t_2. If the waves were emitted at the same location, t_2 - t_1 would equal 2π/ω*, which is one full period of oscillation. However, since the source is moving toward us, the second crest is emitted at a point closer to us than the emission point of the first crest. How much closer? By 2πv/ω*, the source velocity multiplied by one oscillation period. That closer distance means the second wave crest arrives earlier by 2πβ/ω*, the distance change divided by c. We observe a time period between crests of (1–β)2π/ω* instead of 2π/ω*. This means the frequency ω that we observe is higher than ω*.
+
+ω = ω* / (1–β)
+
+ω = Ω√(1–β^2) / (1–β)
+
+ω = Ω √{ (1–β)(1+β) / (1–β)^2 } ω = Ω √{ (1+β) / (1–β) }
+
+For a source moving towards us, the Doppler effect increases light’s frequency (ω > Ω for β > 0). This is called blueshift, since light is shifted toward blue, the higher frequency end of the visible spectrum.
+
+For a source moving away from us, the Doppler effect decreases light’s frequency (ω < Ω for β < 0). This is called redshift, since light is shifted toward red, the lower frequency end of the visible spectrum.
+
+Cosmological redshift is not due to the Doppler effect. The universe’s expanding space stretches the wavelength of all light waves. Light in all directions from every light source is redshifted, with shifting increasing almost linearly with distance from the source. (For more on cosmological expansion and redshift see Our Universe 2: Redshift, Expansion, & Dark Energy.)
+
+Almost all remote cosmic bodies are moving away from Earth, due to the expansion of space; we see their light redshifted.
+
+In V1p34-7, Feynman demonstrates the relationship between ω and ω* using the graphical method introduced above: sweeping the motion away at light speed. As Figure 37-8 shows, when the source moves toward us, z decreases, and the retarded time factor decreases. This compresses the wave crest spacing from cτ to c(1–β)τ. As the same number of wave crests occur in less time, we see a higher frequency: ω = ω*/(1–β), just as above.
+
+Figure 37-8 Doppler Effect by “Sweeping”
+
+Next, imagine the reverse scenario: the same source is now stationary and an observer moves toward it at velocity v. Let’s analyze this scenario in the source’s stationary frame.
+
+In the source frame, wave crests are emitted at a fixed location at frequency Ω, corresponding to a period of 2π/Ω. Time dilation says the moving observer’s clock slows by a factor of √(1–β^2). This means the observer measures the period to be (2π/Ω)√(1–β^2). This shorter time is equivalent to a higher frequency: ω* = Ω/√(1–β^2).
+
+If the observer detected wave crests at a fixed location, he would measure the time between crests to be λ*/c, where λ* = 2πc/ω*. But since the observer is moving toward the source, the time he sees is λ*/(c+v). The apparent wave period is reduced by the factor 1/(1+β), which means the apparent frequency is increased by the factor (1+β).
+
+The frequency ω that the observer sees is: ω = (1+β) ω* ω = (1+β) Ω / √(1–β^2)
+
+ω = Ω √{ (1+β)^2 / (1–β)(1+β) } ω = Ω √{ (1+β) / (1–β) }
+
+This matches what we derived above. The observer sees the same blue-shifted frequency in both scenarios: whether the source moves toward him, or he moves toward the source. This equality is demanded by the principle of relativity: the laws of nature depend only on relative velocities; absolute velocity has no physical significance. It doesn’t matter who is moving; all that matters is that source and observer are moving relative to one another.
+
+Feynman then analyzes this problem using a third approach: the Lorentz transformation. Recall from Chapter 25, the equations for transforming the coordinates (t,x,y,z) of a stationary frame to the coordinates (T,X,Y,Z) of a frame moving in the +x-direction with velocity v: X = γ(x – vt)
+
+T = γ(t – vx/c2)
+
+Y = y Z = z With γ = 1/√(1–v2/c2)
+
+The reverse transform, from (T,X,Y,Z) to (t,x,y,z) is: x = γ(X + vT)
+
+t = γ(T + vX/c2)
+
+Consider a wave moving along the x-axis with the following wave equation, in the stationary frame: Wave height (t,x) = A sin(ωt–kx)
+
+In the moving frame, the equation for this wave has the form: Wave height (T,X) = A sin(ΩT–KX)
+
+Let’s find the relationship between ω,k and Ω,K. In the stationary frame, the wave height is zero when ωt–kx=nπ, for any integer n. All observers must agree on zero wave height — zero is invariant. This means: nπ = ωt–kx = ΩT–KX nπ = ωt–kx = Ωγ(t–vx/c2) – Kγ(x–vt)
+
+nπ = ωt–kx = γ(Ω+Kv)t – γ(K+Ωv/c2)x The solution to the above equation is: ω = γ(Ω + Kv)
+
+k = γ(K + Ωv/c2)
+
+This is precisely the form of the reverse Lorentz transformation, which shows that ω,k transforms covariantly. Generalizing to all dimensions, kµ = (ω/c,kx,ky,kz) is a covariant 4-vector.
+
+Aberration Aberration of starlight was observed in the 17th century, even though it is a small effect for Earth-based observers, never amounting to more than 20 arcseconds (6 millidegrees or 0.1 milliradians). Since Earth orbits the Sun, we observe each star’s position in the heavens move slightly over the course of our year.
+
+A familiar analogy is being out in the rain with an umbrella. When rain falls vertically, a stationary person holds their umbrella directly overhead. But for someone walking briskly, the rain appears to be more horizontal and they must tilt the umbrella forward to keep their face dry.
+
+Stellar aberration is illustrated in Figure 37-9, where Earth orbits the Sun while light from a distant star comes down vertically.
+
+Figure 37-9 Stellar Aberration from Earth’s Motion In the Sun’s frame, the starlight is vertical. But in Earth’s frame, the starlight is tilted. Six months later, when Earth is headed in the opposite direction, the tilt is also in the opposite direction. This proves the aberration is not in our stars.
+
+Let v be Earth’s horizontal velocity, which is about 1.0×10–4c, or 67,000 mph, or 107,000 km/hr. In an infinitesimal time dt, Earth moves horizontally vdt, while starlight moves downward cdt. In the Sun’s frame, the ratio of those two terms equals the tangent of the tilt angle Θ: tanΘ = (vdt) / (cdt) = v/c = β However, in Earth’s moving reference frame, relativistic length contraction changes the apparent horizontal motion by the factor γ=√(1–v2/c2). Do we multiply or divide by γ? The last section of Chapter 29 explains in detail why the horizontal motion appears longer in Earth’s moving frame. (We’re measuring vdt with length-contracted rulers.)
+
+For starlight incident normal to Earth’s orbit, the tilt angle θ in Earth’s frame is: tanθ = β / √(1–β2)
+
+(1–β2) tan2θ = β2 tan2θ = β2 (1+tan2θ) = β2 (1/cos2θ)
+
+sinθ = β ≈ 0.1 milliradian Momentum of Light In V1p34-10, Feynman concludes this exploration of light by focusing on its magnetic field B, which we have so far ignored because it is smaller than light’s electric field E by a factor of c. Recall two equations: B = k × E/c F = qv × B Light incident on matter accelerates electrons in the direction of its electric field, thus v is parallel and proportional to E: let v = σqE, where q is the electron charge and σ is a constant with a lot of π’s and ε’s. The force F due to light’s magnetic field is: F = q (σqE) × (k × E/c)
+
+How do we deal with this? The parentheses are crucial. Even though A×B=–B×A, do not do: E×k×E = –k×E×E = 0. What we need is Lagrange’s formula: a×(b×c) = b(a•c) – c(a•b)
+
+(If the equation were obvious, it wouldn’t be named after a famous mathematician. Without Lagrange, you could set k in the z-direction, E in the x-direction, and find that k × E is in the y-direction and E × k is in the z-direction.) With Lagrange: F = σq2/c E × (k × E)
+
+F = σq2/c {k(E•E ) – E (E•k)} F = σq2/c {E2 k – 0} The key point here is that this small force is parallel to light’s direction of motion and is independent of the polarity of the accelerating charge. This small force pushes whatever light hits, creating radiation pressure. Let’s calculate how much. The fields and charges oscillate harmonically, so we need time averages. From above: <F> = <vqE>/c Note that qE is the electric force on charge q, which multiplied by velocity v equals power = dW/dt. W is the work done by the incident light. With p being light’s momentum, and F=dp/dt, we have: <dp/dt> = <dW/dt>/c <p> = <W>/c This is a general rule that we learned in special relativity: light’s momentum equals its energy divided by c.
+
+This is why an atom recoils when it emits a photon. This is also why future spacecraft could be propelled with solar sails, pushed 光压下的动量与能量关系由于 k=ω/c，光的能量 E 与动量矢量 p 可表示为： E = ħω p = ħk 能量与动量构成四维矢量 p_µ，因此 ω 与 k 也需如此处理： p_µ = (E/c, p_x, p_y, p_z) = ħ k_µ = ħ (ω/c, k_x, k_y, k_z)
+
+## 第37章复习：核心概念
+
+1. 当辐射源以相对论速度运动时，需要采用不同的分析方法。费曼的方法是以光速“扫除”运动——绘制横向运动 X(t) 相对于 ct=cτ+z(t) 的图像，其中 τ 是源的时间坐标，t 是观察者的时间坐标，z(t) 是时间 t 时的分离距离。该方法正确地处理了源运动的时间延迟。曲线的二阶导数与观察者处的电场成正比。
+
+2. 物理学家使用同步加速器加速基本粒子。磁场使粒子保持轨道运动，同时同步的射频场提升其能量。在均匀磁场 B 中，电荷为 q、动量为 p 的粒子，其轨道半径 R 满足： p = qBR 利用此方程，物理学家可确定基本粒子相互作用中每个带电粒子的动量和电荷。
+
+## 3. 同步加速器也会强烈辐射，从而提供高能、短脉冲的光束。
+
+## 4. 波数 k 表示波的相位角每单位距离的变化（以弧度计）。一些有用的公式为：
+
+kλ = 2π 对于光，k = ω/c 波幅 (t,x) = A cos(ωt–kx+φ)
+
+在三维空间中，波数矢量 k = (k_x, k_y, k_z) 与波的传播方向平行。对于光，k•E = k•B = 0。
+
+在四维时空中，波数四维矢量 k_µ = (ω/c, k_x, k_y, k_z)。此时波动方程为： 波幅 (x_µ) = A cos(x_µ k_µ + φ)
+
+k_µ k_µ = k•k – (ω/c)² = 0，在所有参考系中均为不变量。
+
+## 5. 当光源发射频率为 Ω 的光，并以速度 β=v/c 向观察者运动时，根据多普勒方程，其光的频率蓝移到更高频率 ω：
+
+ω = Ω √{ (1+β) / (1–β) } 对于远离观察者的光源，同一方程在 β<0 时成立。此时光发生红移，频率降低。
+
+宇宙学红移并非源于光源的运动，而是来自空间的膨胀；光从每个光源向各个方向传播时均发生红移，且红移量与光源距离几乎成正比增加。
+
+6. 由于地球绕太阳的运动速度 v，大多数星光的入射角发生倾斜。这称为恒星像差。对于正入射地球轨道的星光，其倾斜角 θ（在地球参考系中）由下式给出：sinθ ≈ θ = β = v/c。
+
+## 第38章
+
+光物理学回顾光是一种独特的自然现象，它揭示了我们对世界认知的几乎所有方面。一些重要常数为： ε = 8.854×10⁻¹² 库仑²/牛顿·米² 1/4πε = 8.99×10⁹ 牛顿·米²/库仑² e = –1.602×10⁻¹⁹ 库仑，电子电荷 e² = q²/(4πε) = 2.28×10⁻²⁸ 千克·米³·秒⁻² h = 6.626×10⁻³⁴ 千克·米²/秒，普朗克常数 ħ = h/2π = 1.0546×10⁻³⁴ 千克·米²/秒 ħc = 197.5 MeV-费米 r = e²/(mc²) = 2.82×10⁻¹⁵ 米，经典电子半径
+
+波的性质波是运动。它们以完全重复的周期进行振荡。我们用以下术语描述波： A，振幅，波高于和低于其平均位置的高度 f，频率，每秒的波周期数 ω，角频率，相位角变化率，单位为弧度/秒 λ，波长，每个周期传播的距离 v = fλ = ωλ/2π，波速 k，波数，每单位距离的相位角变化（弧度）：kλ=2π 正如 ω 将时间转换为弧度，k 将距离转换为弧度。对于沿 +x 方向传播、振幅为 A、相位移为 φ 的波，其波动方程为： 波幅 (t,x) = A cos(ωt–kx+φ)
+
+在三维空间中，波数矢量 k = (k_x, k_y, k_z) 与波的传播方向平行。
+
+光的本质光由振荡的电场 E 和磁场 B 构成，它们同时达到波峰和波谷。这些场赋予光波的特性。E、B 和光速的方向两两垂直。虽然不同频率被赋予不同名称，但术语“光”严格适用于整个谱段。
+
+所有电磁场，包括光，始终以速度 c 传播，但物质体会改变其相位，这等效于延迟其波。看似较慢的波速（相位速度）为 c/n，其中 n 是介质的折射率。
+
+对于能量为 E、动量为 p 的光： E = hf = ħω = pc c = λf = ωλ/2π = ω/k = λE/h k•E = k•B = 0。
+
+在四维时空中，波数四维矢量与波动方程为： k_µ = (ω/c, k_x, k_y, k_z)
+
+波幅 (x_µ) = A cos(x_µ k_µ + φ)
+
+k_µ k_µ = k•k – (ω/c)² = 0，为不变量。
+
+光学反射。当光照射到反射面时，其反射角等于入射角，两个角均相对于表面的法线（垂直于表面的线）测量。
+
+折射。当光从折射率为 n₁ 的介质进入折射率为 n₂ 的另一介质时，其传播方向改变，满足斯涅尔定律：n₁ sinθ₁ = n₂ sinθ₂，其中 θ₁ 和 θ₂ 分别是相对于法线的入射角和折射角。
+
+ctive index n, light refracts, its angle relative to the normal changes from θ to ø, in accordance with Snell's law: m sinθ = n sinø. Light bends toward the more refractive medium.
+
+Spherical Lens. For a spherical surface of radius R, refractive index m outside and n inside the sphere, and a source S at distance x outside the surface, light rays from S are focused at image point F at distance y inside the surface. By the principle of reciprocity, light from a source at F will be focused at S. In the limit that F is infinitely far away, x becomes the outside focal length. These equations apply: m/x + n/y = (n–m)/R, f = Rm/(n–m), m/x + n/y = m/f.
+
+Thin Lens. For a thin lens, with source S and image F outside the lens: 1/x + 1/y = 1/f. The magnification of a thin lens equals f/z = z*/f, where f is the focal length, (z+f) is the source distance to the lens, and (z*+f) is the image distance to the lens.
+
+Any lens system with the same refractive index at opposite ends has two principal planes normal to its axis. Such systems act as if everything inside the two planes, including the space between them, can be removed and replaced by a single thin lens.
+
+Interference & Diffraction
+
+When waves with the same frequency and a fixed phase shift combine, they interfere constructively if the phase shift is zero, and interfere destructively, totally cancelling one another, if the phase shift is λ/2 or π radians. Interference is a hallmark signature of wave behavior. Diffraction and interference are really the same physics with two different names. In both phenomena, waves combining along different paths interfere constructively or destructively as determined by their relative phase shifts.
+
+For reflection from a mirror, wave interference ensures the angle of reflection θ equals the incident angle ø. Incident light hits atoms across the entire surface of the mirror. These atoms radiate light in all directions. Slow variation of travel distance near the path with θ=ø ensures constructive interference of nearby rays and establishes the dominant light path.
+
+When light of wavelength λ transits an aperture of width W, it diffracts, producing a strong central lobe and innumerable side lobes separated by zones of zero intensity. The intensity at angle θ, I(θ), and the angle of first minimum θ_MIN are: I(θ) ~ (1/x)² sin²(x), with x = π(sinθ)W/λ; sin(θ_MIN) = λ/W, for a 1-dimensional aperture.
+
+The correct statement of diffraction from a barrier with an aperture is: No emission comes from the aperture itself. Every atom in the barrier is an emitting source. The total field after the barrier equals minus what the aperture would radiate if it were a barrier instead of a hole. All this assumes the aperture is much larger than the wavelength of light. Thus, we can calculate fields as if the holes are radiating rather than the barriers, and add a minus sign if necessary.
+
+The Feynman sum over histories, also called the Feynman path integral formulation, states: A source at point A emits light waves in all directions. As that light spreads through space, every point becomes a new source, re-emitting light in all directions. Eventually light waves spread to all possible destinations. The intensity of light at any destination B is determined by the interference of waves reaching B along every possible path from A. Along one or possibly more paths, interference of nearby paths is constructive; wave energy flows along these paths. Along other paths, interference averages to zero, little if any energy flows along these paths.
+
+The paths where interference is constructive are those of extremal time, where nearby paths all have about the same travel time. The mathematical criterion is: d(travel time)/d(path)=0. This distinction has dramatic consequences. If one million almost-same-time paths interfere constructively, the resulting intensity is one trillion times that of other paths. As the science of light advanced over many centuries, Feynman's path integral formulation superseded Fermat's principle of least time, which had superseded the principle of least distance.
+
+Electromagnetic Radiation
+
+The electric field E is a vector field; at each spacetime event E(t,x,y,z) is a vector defining the field's direction and magnitude.
+
+The electric field E from charge q has three components that depend respectively on the position, velocity, and acceleration of q. The position and velocity components decrease with distance as 1/r², while the acceleration component, called the electromagnetic radiation field, decreases only as 1/r. The intensity of electromagnetic radiation, its energy per unit area per unit time, equals εcE•E, which decreases with distance as 1/r².
+
+The key principles of electromagnetic radiation (light) are: 1. The total electric field is the vector sum of the electric fields generated by every electric charge, everywhere. 2. At time t and distance r far away from charge q, its electric field is dominated by the radiation component, which The radiation field is proportional to three factors: q, 1/r, and q's acceleration at retarded time t–r/c.
+
+Retarded time is based on c, the speed of light in vacuum, regardless of any media the field passes through.
+
+Due to projection effects, only the components of E orthogonal to r contribute to distant radiation, where r is the vector from observer to source. For charge q at (x,y,z) = (0,0,0) oscillating along the y-axis according to Acos(ωt), the radiation field at the observer is perpendicular to r with magnitude: E = qω²/(4πεc²) (A/r) sinα cos(ωt*)
+
+where α is the angle of r relative to +y, and t*=t–r/c is the retarded time, delayed by light's travel time r/c from charge to observer.
+
+Phased-Array Dipole Radiators For an array of dipole radiators, K=1 to J, aligned north-south, each separated by distance D, with all charge accelerations vertical at frequency ω with amplitude A, the radiation field E and intensity I at a remote point P, at position r, are: E = (A/r) eiωt Σ { exp[i(K–1)u] } I = I₀ sin²(Ju/2)/sin²(u/2)
+
+for I₀ =(A/r)²/2, u=φ–2π[D/λ]cosα Here, I₀ is the intensity from one dipole, φ is an adjustable phase shift between successive dipoles, α the angle between due north and r, Σ sums over all dipoles K=1…J, and t is the retarded time. If u=0, the above sum equals J, all dipole interfere constructively, and the radiation intensity I peaks.
+
+Averaged over a full cycle, I is proportional to the square of the number of dipoles; its maximum equals: I_MAX = EE*/2 = I₀ J² I is zero at Ju = ±2π, ±4π, ±6π, … I has minor peaks near Ju = ±3π, ±5π, … The radiation pattern is electronically steerable by changing φ. For φ=0, peak intensity is emitted west and east; it shifts to north and south for φ=2πD/λ. For an even number of dipoles with separation D=λ/4, peak power goes north only (α=0) for φ=+π/2, and south only (α=π) for φ=–π/2.
+
+For D<λ, only two identical radiation patterns are emitted; they are in opposite directions.
+
+For D>λ, the entire radiation pattern is repeated, wherever cosα=mλ/D, for m a nonzero integer; m is called the beam order.
+
+Refractive Index Electromagnetic radiation incident on a plate accelerates its electrons, which become new radiation sources whose field E opposes the incident field Eeiωt. At a remote point P: Plate's field: E = –α dz (iωE) eiω(t–z/c)
+
+Total field = E exp{iω(t–[z+αdz]/c)} The refractive index is: n=1+α with α=q²N/{2εm(Ω²–ω²+iβω)} For large enough plate thickness and damping coefficient β, the incident radiation is completely absorbed. This occurs when the plate radiates a field that completely cancels the incident field on the side of the plate opposite the source.
+
+The many quantities used here are defined in Chapter 34 in the section titled "The Refractive Index."
+
+Light Scattering 1. Physicists describe interaction probabilities in terms of a target's cross section σ, presuming that an incident particle scatters if and only if it hits anywhere within area σ centered on the target.
+
+For light scattering by a single electron, the Thomson scattering cross section is: σ_T = 8π r_e²/3 = 6.65×10⁻²⁹ m² = 0.665 barns 2. The power averaged over a full cycle <P> radiated by a single electron, with natural frequency Ω, and excited by light with electric field Eeiωt, is: <P> = {εcE₀²/2} σ_T {ω²/(Ω²–ω²)}² 3. The natural frequency Ω of electrons in air molecules is much greater than the frequency ω of visible light, making the single electron scattering cross section σ proportional to ω⁴: σ = σ_T {ω⁴/Ω⁴} 4. The Q factor, resonance height divided by width, for an oscillating electron in sodium is: Q = (3/4π) (λ/r_e) ≈ 5×10⁺⁷
+
+Light Polarization 1. A light beam is polarized when the electric fields of all of its photons are oriented in a specific manner. All photons are polarized in one orientation or another.
+
+Unpolarized light beams are not composed of unpolarized photons, but of many photons whose polarizations are oriented in different directions.
+
+2. The most general polarization is elliptical; for such light moving toward +z, the electric field E is: E = A (cosθ cos[ωt+φ], sinθ cos[ωt–φ], 0)
+
+The x and y components oscillate at the same frequency but possibly with a phase shift and with different amplitudes.
+
+Linear polarization is the special case of φ=0, with E oscillating along a single line.
+
+Circular polarization is the special case of θ=π/4 and φ=±π/4, which is either right-handed (RHC) for φ=+π/4, or left-handed (LHC) for φ=–π/4.
+
+3. Any polarization can be expressed as a linear superposition of RHC and LHC. Any linear polarization can be expressed as a linear superposition of polarizations along any two orthogonal axes.
+
+4. A birefringent material has different indices of refraction for different polarization directions.
+
+A light beam polarized parallel to the optic axis is called an extraordinary ray and encounters index n_e.
+
+A light beam polarized normal to the optic axis is called an ordinary ray and encounters index n_o.
+
+Birefringents, including Polaroids, are often composed of long slender crystals.
+
+Parallel crystals.
+
+Electrons move easily along the length of the crystals, the optic axis, but are severely constrained laterally.
+
+5. Light incident on a surface accelerates the medium’s electrons. Electrons along the path of the refracted beam radiate, creating a reflected beam and a beam that cancels the incident beam within the medium. The reflected beam’s amplitude depends on polarization.
+
+Relative to the incident beam amplitude, define the reflection amplitudes: β for polarization normal to the plane of incidence; and B for polarization within that plane. For incident angle θ and refracted angle ø, Fresnel’s reflection formulas are: β = –sin(θ–ø) / sin(θ+ø)
+
+B = –tan(θ–ø) / tan(θ+ø)
+
+6. Light reflected from a surface at Brewster’s angle is completely polarized normal to the plane of incidence. This is a special case of Fresnel’s formulas with θ+ø=π/2. Brewster’s angle θ is given by: tanθ = n / n MEDIUM AIR
+
+7. Sunlight reflected from horizontal surfaces is predominately horizontally polarized. By absorbing light with horizontal polarization, polarized sunglasses reduce glare more than ambient light.
+
+Relativistic Effects 1. When radiating sources move at relativistic velocities, a different analytical technique is needed. Feynman’s method is sweeping the motion away at light speed — graphing the transverse motion, X(τ), versus ct=cτ+z(t), where τ is the time coordinate at the source, t is the time coordinate at the observer, and z(t) is the separation at time t. This method correctly time-retards source motion; the second derivative of this curve is proportional to the electric field at the observer.
+
+2. Physicists use synchrotrons to accelerate elementary particles. Magnetic fields keep particles orbiting while synchronized RF fields boost their energy.
+
+In a uniform magnetic field B, a particle of charge q and momentum p, turns in a circle of radius R, according to: p = qBR
+
+3. When a source emitting light of frequency Ω moves toward an observer at velocity β=v/c, the frequency of its light is blueshifted to a higher frequency ω, according Doppler’s equation: ω = Ω √{ (1+β) / (1–β) } For a source moving away from an observer the same equation applies with β<0. This light is redshifted to a lower frequency.
+
+4. Cosmological redshift arises not from the motion of sources but from the expansion of space; light is redshifted in all directions from every light source, and redshift increases almost linearly with distance from the source.
+
+5. Due to Earth’s velocity v around the Sun, the incident angle of most starlight is tilted. This is called stellar aberration.
+
+For starlight incident normal to Earth’s orbit, the tilt angle θ in Earth’s frame is given by: sinθ ≈ θ = β = v/c.
+
+Meet The Author Congratulations and thank you for reading my book. I know your time is valuable, and I sincerely hope you enjoyed this experience.
+
+I’d like to tell you something about myself and share some stories.
+
+First, the obligatory bio (as if 3 “tweets”-worth can define anyone): I have a B.S. in physics from Caltech, a Ph.D. in high-energy particle physics from Stanford University, and was on the faculty of Harvard University. Now “retired,” I teach at the Osher Institutes at UCLA and CSUCI, where students honored me as “Teacher of the Year.” In between, I ran eight high-tech companies and hold patents in medical, semiconductor, and energy technologies.
+
+My goal is to help more people appreciate and enjoy science. We all know one doesn’t have to be a world-class musician to appreciate great music — all of us can do that. I believe the same is true for science — everyone can enjoy the exciting discoveries and intriguing mysteries of our universe.
+
+I’ve given 400+ presentations to general audiences of all ages and backgrounds, and have written 3 printed books and 29 eBooks. My books have won national and international competitions, and are among the highest rated physics books on Amazon.com. I’m delighted that two of these recently became the 2nd and 3rd best sellers in their fields.
+
+Richard Feynman was a friend and colleague of my father, Oreste Piccioni, so I knew him well before entering Caltech. On several occasions, Feynman drove from Pasadena to San Diego to sail on our small boat and have dinner at our home. Feynman, my father, my brother and I once went to the movies to see “Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb.” It was particularly poignant watching this movie next to one of the Manhattan Project’s key physicists.
+
+At Caltech I was privileged to learn physics directly from this greatest scientist of our age. I absorbed all I could. His style and enthusiasm were as important as the facts and equations. Top professors typically teach only upper-level graduate classes. But Feynman realized traditional introductory physics didn’t well prepare students for modern physics. He thought even beginners should be exposed to relativity, quantum mechanics, and particles physics. So he created a whole new curriculum.
+
+在1961-62和1962-63学年，他亲自教授大学一年级和二年级的物理课程。
+
+最好的学生在丰富而激动人心的前沿科学中茁壮成长，但许多其他学生却没有。尽管加州理工学院可能是世界上最具选拔性的科学学校，但大约一半精英且渴望学习的学生在费曼的课堂上感到吃力。甚至一位同学——几十年后获得了诺贝尔物理学奖——也曾在这门课上挣扎。费曼曾告诉我，学生有时会给他“白眼”——他补充道：“我觉得他没理解角动量。”
+
+一些实际因素使得这门课非常艰难：费曼的书当时尚未写成；课堂笔记晚了好几周才出来；传统的助教（助教和高年级学生）并不像费曼那样理解物理学。
+
+但最大的问题是，如此多具有挑战性的内容过得如此之快。像大多数精英科学家一样，费曼的教学使命是启发那一两个可能成为下一代杰出物理学家的学生。他在前言中说，他惊讶并高兴地看到，班级中有10%的学生表现非常好。
+
+我的目标是触及另外90%的学生。
+
+原来有那么多人在这门课上遇到如此大的困难，这真是一件憾事——因为有那么多精彩的科学值得享受。我希望能改变这一点，并将费曼的天才带给更广泛的受众。
+
+请告诉我如何才能让《费曼简化版》变得更好——通过我的网站联系我。
+
+当你访问时，请查看我的其他书籍并注册我的通讯。
+
+纸质书籍，每本都获得亚马逊读者的最高评价： 《每个人的原子、爱因斯坦与宇宙指南》
+
+《生命可能仅仅是一场意外吗？》
+
+《没有爱因斯坦的世界》
+
+《每个人的指南系列短电子书》
+
+《爱因斯坦：他的奋斗与最终成功，以及狭义相对性：3卷，从A到Z》
+
+《广义相对性：4卷，从介绍到微分拓扑》
+
+《量子力学：5卷，从介绍到纠缠》
+
+《希格斯、玻色子与费米子……粒子物理导论》
+
+《宇宙学》
+
+《我们的宇宙：5卷，太阳底下的一切》
+
+《我们在宇宙中的位置：一个温和的概述》
+
+《黑洞、超新星等》
+
+《我们是星尘》
+
+《寻找地球2.0》
+
+《更聪明的能源》
+
+《永恒的原子》
+
+《科学与信仰》
+
+目录
+
+## 第25章 狭义相对论的发展
+
+## 第26章 狭义相对论中的动力学
+
+## 第27章 时空
+
+## 第28章 相对性：哲学与悖论
+
+## 第29章 狭义相对论复习
+
+## 第30章 几何光学
+
+## 第31章 光的波动性质
+
+## 第32章 电磁辐射
+
+## 第33章 衍射
+
+## 第34章 折射率
+
+## 第35章 辐射阻尼与散射
+
+## 第36章 光的偏振
+
+## 第37章 光与相对论效应
+
+## 第38章 光物理学复习

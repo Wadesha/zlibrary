@@ -1,0 +1,2116 @@
+# Feynman Simplified 1B Harmonic Oscillators Thermodynamics Robert L Piccioni Z Library
+
+> 来源文件：pre_Feynman_Simplified_1B_Harmonic_Oscillators_Thermodynamics_Robert_L_Piccioni_Z_Library.txt
+> 字符数（约）：229149
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Feynman Simplified 1B: Harmonic Oscillators, & Thermodynamics
+
+Everyone’s Guide to the Feynman Lectures on Physics
+
+by Robert L. Piccioni, Ph.D.
+
+Second Edition
+
+Copyright © 2016 by Robert L. Piccioni
+
+Published by Real Science Publishing 3949 Freshwind Circle Westlake Village, CA 91361, USA
+
+Edited by Joan Piccioni
+
+Visit our web site www.guidetothecosmos.com
+
+Everyone’s Guide to the Feynman Lectures on Physics
+
+Feynman Simplified gives mere mortals access to the fabled Feynman Lectures on Physics. Caltech Professor and Nobel Laureate Richard Feynman was the greatest scientist since Einstein. I had the amazing opportunity to learn physics directly from the world’s best physicist. He had an uncanny ability to unravel the most complex mysteries, reveal underlying principles, and profoundly understand nature. No one ever presented introductory physics with greater insight than did Richard Feynman. He taught us more than physics — he taught us how to think like a physicist.
+
+But, the Feynman Lectures are like “sipping from a fire hose.” His mantra seemed to be: No Einstein Left Behind. He sought to inspire “the more advanced and excited student”, and ensure “even the most intelligent student was unable to completely encompass everything.”
+
+My goal is to reach as many eager students as possible and bring Feynman’s genius to a wider audience. For those who have struggled with the Big Red Books, and for those who were reluctant to take the plunge, Feynman Simplified is for you.
+
+Physics is one of the greatest adventures of the human mind — everyone can enjoy exploring nature. To further Simplify this adventure, I have written an eBook explaining all the math needed to master Feynman physics. Click here for more information about Feynman Simplified 4A: Math for Physicists.
+
+Additionally, an index for the Feynman Simplified series is in progress, with the latest edition available for free here.
+
+This Book
+
+Feynman Simplified: 1B covers about a quarter of Volume 1, the freshman course, of The Feynman Lectures on Physics. The topics we explore include:
+
+Harmonic Oscillators, Resonances, and Transients Kinetic Theory of Gases Statistical Mechanics Thermodynamics
+
+Feynman Simplified makes Feynman’s lectures easier to understand without watering down his brilliant insights. I have added reviews of key ideas at the end of each chapter and at the end of each major section.
+
+Feynman Simplified is self-contained; you need not go back and forth between this book and his. But, for those who wish to read both, I provide extensive cross-references: V1p12-9 denotes his Volume 1, chapter 12, page 9. If, for example, you have trouble with Feynman’s description of reversible machines in Volume 1 page 4-2, simply search Feynman Simplified for V1p4-2. Some material is presented in a different sequence — the best way to divide topics for one-hour lectures is not necessarily the best way to present them in a book.
+
+Many major discoveries have been made in the last 50 years; Feynman Simplified augments and modifies his lectures as necessary to provide the best explanations of the latest developments. Links to additional information on many topics are included.
+
+To find out about other eBooks in the Feynman Simplified series, click HERE.
+
+I welcome your comments and suggestions. Please contact me through my WEBSITE.
+
+If you enjoy this eBook please do me the great favor of rating it on Amazon.com or BN.com.
+
+Table of Contents
+
+## Chapter 12: Harmonic Oscillators
+
+## Chapter 13: Resonances
+
+## Chapter 14: Transients & Linear Systems Review
+
+## Chapter 15: Kinetic Theory of Gases
+
+## Chapter 16: Statistical Mechanics
+
+## Chapter 17: Brownian Motion
+
+## Chapter 18: Kinetic Theory At Equilibrium
+
+## Chapter 19: Kinetic Theory Near Equilibrium
+
+## Chapter 20: “Newton, We Have A Problem!”
+
+## Chapter 21: Thermodynamic Laws
+
+## Chapter 22: Thermodynamic Applications
+
+## Chapter 23: Irreversibility & Entropy
+
+## Chapter 24: Thermodynamics Review
+
+## Chapter
+
+Harmonic Oscillators
+
+In V1p21-1 Feynman says:
+
+“In the study of physics…a strange thing occurs again and again: the equations which appear in different fields of physics, and even in other sciences, are often almost exactly the same, so that many phenomena have analogs in these different fields. So the study of a phenomenon in one field may permit an extension of our knowledge in another field.”
+
+“The harmonic oscillator, which we are about to study, has close analogs in many other fields; although we start with a mechanical example of a weight on a spring…we are really studying a certain differential equation. This equation appears again and again in physics and other sciences…[including] charge flowing back and forth in an electrical circuit; the vibrations of a tuning fork which is generating sound waves; the analogous vibrations of the electrons in an atom, which generate light waves;…a thermostat trying to adjust a temperature;…the growth of a colony of bacteria…; foxes eatin g rabbits eating grass, and so on.” The equations governing all these phenomena are called linear differential equations with constant coefficients. The words “linear” and “constant” make these the simplest of all differential equations — a good place to start. The form of equations of this type is: f(t) = a0 x + a1 dx/dt + … + an dnx/dtn where t is the independent variable, x is the dependent variable, all ai are constant, and n is the order of this linear differential equation. This is called a differential equation because it contains derivatives.
+
+The Harmonic Oscillator The simplest mechanical example of behavior governed by a linear differential equation is a mass on a spring, illustrated in Figure 12-1. Here m is the mass, x is the vertical height, and x = 0 is the equilibrium height, the height at which that mass can rest motionless on this spring.
+
+Figure 12-1 Mass on a Spring We will assume the spring is ideal, perfectly elastic, and obeys Hooke’s law, which means the force F exerted by the spring is given by: F = – k x Here, k is the spring constant and x is the displacement from the equilibrium position. The minus sign signifies that the force opposes the displacement: if the mass moves to +x, the spring’s force is directed toward –x, and vice versa. The differential equation is then: F = ma = –kx d2x/dt2 = –(k/m) x From Chapter 6, we recall two related functions, sine and cosine, whose second derivatives are proportional to minus themselves. Specifically, d2 (sinωt) /dt2 = –ω2 sinωt d2 (cosωt) /dt2 = –ω2 cosωt Indeed, the sine and cosine functions are identical except for a phase shift: sin(ø) = cos(ø–π/2). Either function fits our need; using sine will require less writing if the mass is at x=0 at t=0, while using cosine will require less writing if the velocity of the mass is zero at t=0.
+
+Let’s pick the cosine, and start with a mass that is stationary at displacement x=A, and is released at t=0.
+
+x = A cosωt d2x/dt2 = –ω2 x ω2 = k/m Note that A could have any value and satisfy the same equation. This is what we mean by a linear differential equation. The series of terms in our original differential equation had derivatives of various orders, but each was proportional to x0 or x1, not x2 or √x or any other power. So if we multiply x by any constant A, Ax will satisfy all the same linear differential equations as does x. This is not true for the independent variable t: if we divide t by 2, dx/dt will double and d2x/dt2 will quadruple — t/2 will not satisfy all the same equations as does t.
+
+Due to the cosine term, x oscillates up and down. The mass will start at x=A, drop through x=0, all the way down to x=–A, stop there for an instant, rise again, pass through x=0, and return to a momentary pause at x=A.
+
+That cycle will repeat indefinitely. A is called the amplitude of the oscillation. The period of the oscillation is how much time is required for the mass to complete one full cycle; that time is t = 2π/ω = 2π√(m/k), since the cosine function repeats every 2π radians. For a given m and k, the period of oscillation never changes; hence the name harmonic.
+
+Note that the mass oscillates with the same period regardless of the amplitude of oscillation. If we compress the spring twice as much, the force doubles, the acceleration doubles, the distance traveled in one second doubles, which exactly balances the fact that the mass has twice as far to travel to complete its cycle.
+
+The factors that determine the oscillation period are m and k. A greater mass is harder to move; it slows the motion and lengthens the period. Quadrupling the mass doubles the period, due to the square root. Conversely, a stronger spring has a larger k, exerting a greater force and reducing the period. Quadrupling k halves the period.
+
+There is one more “knob” to play with: a phase shift. We saw earlier that subtracting π/2 from the argument of the cosine function transforms it into the sine function. We can add or subtract any constant angle ø. The equation: x = A cos(ωt+ø)
+
+allows us to describe any starting position and velocity, what we call initial conditions. This equation can be expanded according to the usual rules of trigonometry: x = (Acosø) cosωt – (Asinø) sinωt Depending on application and personal preference, one can write this equation in any of the following equivalent ways: x = C cosωt + B sinωt x = A cos(ωt+ø)
+
+x = A cos(ω [t–t0] )
+
+In the first equation above √(C2+B2) = A the amplitude of oscillation. In all three, ω is called the angular frequency of oscillation, which is measured in radians per second. If j complete oscillations occur per second, ω equals 2π j.
+
+Any specific linear differential equation can be solved by many different equations. We noted earlier that their linearity ensures that Ax solves any equation that is solved by x. We also noted that sine functions solve the mass-on-spring equation when the starting height is zero, while cosines solve the equation when the starting velocity is zero.
+
+Velocity is zero.
+
+The three forms of the solution listed above are each able to describe any mass moving on any ideal spring, with any starting position and velocity. What we need to do next, therefore, is to learn how to connect these initial conditions to the adjustable constants in our three solutions.
+
+Let’s take the first solution as an example and take its time derivative: x(t) = C cosωt + B sinωt v(t) = –Cω sinωt + Bω cosωt These two equations provide the position and velocity at any time t. The spring determines the acceleration at any time t: a(t) = –k x(t) / m Let’s assume we know x(0) and v(0), the initial conditions at time t=0. We can then calculate C and B.
+
+C = x(0)
+
+B = v(0) / ω Similarly, for the second solution: x(t) = A cos(ωt+ø): v(t) = –Aω sin(ωt+ø)
+
+if x(0) equals 0: ø = π/2 A = –v(0) / ω if x(0) is not 0: tanø = –v(0) / [ω x(0)]
+
+A = x(0) / cosø For the third solution: x(t) = A cos(ω[t–t])
+
+v(t) = –Aω sin(ω[t–t])
+
+if x(0) equals 0: t = π / 2ω A = v(0) / ω if x(0) is not 0: tan(ωt) = v(0) / ω x(0)
+
+A = x(0) / cos(ωt)
+
+Next, let’s examine the kinetic and potential energy of this system, using our second solution as an example. The potential energy U is how much energy is stored in the compressed (or stretched) spring, with displacement +x (or –x). Recall that F = –grad(U), which for one-dimensional motion reduces to: F = –dU/dx U = –∫ F dx U = –∫ (–kx) dx U = + k x2/2 = (k A2 /2) cos2(ωt+ø)
+
+The potential energy oscillates as the spring displacement oscillates, as expected. Now calculate the kinetic energy T, using the fact that ω2=k/m.
+
+T = m v2 / 2 T = (m A2 ω2 /2) sin2(ωt+ø)
+
+T = (k A2 /2) sin2(ωt+ø)
+
+The kinetic energy also oscillates as the velocity of the mass oscillates. The total energy is: T+U = (kA2/2) {sin2(ωt+ø) + cos2(ωt+ø)} T+U = k A2 /2 = m A2 ω2 /2 The two expressions in the last line are equivalent; we show both for sake of completeness. Since neither equation contains time, the total energy T+U is constant, as required by energy conservation.
+
+Forced Oscillations V1p21-5 The above description of harmonic oscillation assumes no external forces affect the motion. Let’s now examine the impact of an external force F(t). The differential equation becomes: ext F = m d2x/dt2 = –kx + F (t)
+
+ext To make any progress with this equation, we need to know more about F(t). Specifically, we need ext its time dependence. As we shall discover, knowing a system’s response to a sinusoidal force is sufficient to solve any problem. Let’s therefore assume: F(t) = f cos(ßt)
+
+Here, f is a constant and ß is a constant angular frequency that may differ from ω.
+
+Even with a complete knowledge of F(t), there is no guaranteed method to solve an arbitrary differential equation. There is nothing wrong with trying a possible solution to see if it works. If you guess wrong, you will soon discover that your guess does not solve the differential equation, and then you can try something else. Clever guessing is both a science and an art; experience and perseverance also help. As Feynman says in V1p24-3: “Being physicists, we do not have to worry about the method as much as we do about what the solution is.” Feynman suggests a solution in which the mass oscillates at the frequency of the external force according to: x = D cosßt Let’s plug Feynman’s “guess” into the differential equation and see if it works.
+
+m (–Dß2 cosßt) = –k(D cosßt) + f cosßt m (–Dß2) = –kD + f D (k–mß2) = f D = f / (k–mß2) = f / [m (ω2–ß2)]
+
+Feynman’s “guess” solves this differential equation for this specific value of D, which we show in two equivalent forms. The second seems more revealing. Recall that ω is the angular frequency of oscillation of that mass on that spring (that ratio of k/m) in the absence of any external force; ω is called the natural frequency of the mass-spring system. By contrast, ß is the angular frequency of the external driving force, also called the applied frequency, which can have any value.
+
+Let's consider some limiting cases of the applied frequency ß. We can rewrite D as: D = f / [m ω2 (1–ß2/ω2)]
+
+For ß much less than ω (ß<<ω), D is approximately f/[mω2]. This means the mass oscillates at the applied frequency, moving in the same direction as the driving force, with an amplitude that varies very slowly with the applied frequency.
+
+For ß>>ω, D is approximately –f/[mß2]. A negative D means the mass oscillates in the opposite direction of the driving force. Amplitude D drops rapidly as ß increases.
+
+The most interesting situation is when ß and ω are nearly equal. Our solution shows that D grows very rapidly as ß nears ω. Feynman suggests the real-world example of pushing a child on a swing: if you push at the right pace, the child will gleefully reach great heights.
+
+Our solution actually shows that D is infinity at ß=ω, which is impossible. No real mass on a real spring can oscillate with infinite amplitude — the spring will break first. This result highlights the limited validity of our assumptions of zero friction, ideal Hook.
+
+e’s law behavior, and perfect elasticity.
+
+Infinity is almost always a wrong answer in physics; nothing in our observable universe is infinite. (Well, Einstein might disagree. He said only two things were infinite, the universe and human stupidity, but added that he was not completely sure about the universe.)
+
+Algebra & Complex Numbers V1p22-7
+
+Many natural phenomena are best understood using complex numbers, numbers that involve i, the square root of –1. Feynman devotes an entire lecture to elementary algebra, including the calculation of powers and logarithms, and the manipulation of complex numbers. As our purpose is not to teach mathematics, but rather to utilize its discoveries to better understand physics, I will very briefly summarize the key results.
+
+Feynman lists these basic operations of algebra, each one matched with its inverse operation.
+
+Feynman marvelously describes the progression of mankind’s concept of numbers. First, we counted on our fingers and discovered the natural numbers: 1, 2, 3…. Subtraction (and credit card spending) expanded our minds to encompass zero and the negative integers. Division led to the need for fractions and rational numbers, such as 1/9th. Roots required irrational numbers, such as √2, and ultimately imaginary numbers, such as √(–1). We define real numbers as those not containing an imaginary component, whereas pure imaginary numbers include any real multiple of i=√(–1).
+
+Complex numbers have the form: x+iy, where x and y are both real numbers. The complex conjugate of any complex number expression is obtained simply by reversing the sign of i. Thus: a–ib = (a+ib)* = complex conjugate of a+ib
+
+Remarkably, complex numbers are the end of the long line of successive generalizations. Every possible algebraic equation can be solved with complex numbers; there is no next step, number-wise.
+
+Some useful equations involving complex number are: (a+ib) + (x+iy) = (a+x) +i(b+y)
+
+(a+ib)(x+iy) = ax –by + i(ay+bx)
+
+(a+ib)(a+ib) = a2 –b2 + i2ab (a+ib)(a–ib) = (a+ib)(a+ib)* = a2 + b2
+
+Perhaps the most important complex number equation is Euler’s identity: eiy = cos y + i sin y
+
+Let’s confirm this by recalling from Chapter 11 the infinite series expression for ex, and setting x = iy.
+
+ex = Σ xn /n!
+
+ex = 1 + x + x2/2! + x3/3! + x4/4! +… eiy = Σ (iy)n /n!
+
+eiy = 1 + iy + i2y2/2! + i3y3/3! + i4y4/4! + … eiy = 1 + iy – y2/2! – iy3/3! + y4/4! … eiy = 1 – y2/2! + y4/4! … + i { y – y3/3! + y5/5! …}
+
+Now compare that with the infinite series for sin y and cos y: cos y = 1 – y2/2! + y4/4! – … sin y = y – y3/3! + y5/5! – …
+
+The infinite series for the sum cos y + i sin y equals the infinite series for eiy. We can now rewrite the sine and cosine series as: i sin y = Σ (iy)n /n! sum over all odd n cos y = Σ (iy)n /n! sum over all even n
+
+Lastly, we show one of the most beautiful equations of mathematics: eiπ + 1 = 0
+
+Mathematicians have a joke: How many mathematicians does it take to change a light bulb? Answer: –eiπ. Clearly, their humor is no better than ours.
+
+Let’s examine the graphical representation of eiθ, as illustrated in Figure 12-2. The horizontal axis represents all real numbers, while the vertical axis represents all pure imaginary numbers.
+
+Figure 12-2 Complex Number Plane
+
+The vector in the above figure is reiθ, which we rewrite: reiθ = r cos θ + i r sin θ reiθ = x + iy
+
+The last step employs the normal trigonometric relations: x=rcos θ and y=rsin θ. By representing complex numbers as vectors in the complex plane, we separate the vector’s length r and angle θ. This complex exponential representation is remarkably effective in analyzing harmonic oscillators, waves, and other periodic functions, as we will see next.
+
+Harmonic & Circular Motion
+
+Let’s recall the equation we derived at the start of this chapter for the harmonic oscillation of a mass on a spring: x(t) = A cos(ωt+φ)
+
+Now rewrite that equation using complex exponentials. I will often write exp{i(ωt+φ)} instead of ei(ωt+φ) to facilitate reading.
+
+x = real part of {A exp(iωt+iφ)} x = real part of {A exp(iφ) exp(iωt)}
+
+The above quantity Aexp(iωt+iφ) is a vector in the complex number plane, and x is its horizontal component, which is the real part of (x+iy).
+
+Comparing the vector Aexp(iωt+iφ) to the vector reiθ in Figure 12-2, we can equate the vectors’ lengths, r=A, and their angles, θ=ωt+φ. Thus, as time progresses, we can think of the vector Aexp(iωt+iφ) rotating in the complex plane. The vector’s tail end stays at the origin, x=y=0, while its tip traces a circle of radius A. The time for one complete circle, the time for the vector’s angle to go through 2π radians (360 degrees), equals 2π/ω. Lastly, we have exp(iφ), which sets the value of angle θ at time t=0. Perhaps this helps explain why φ is called a phase shift.
+
+It is important to note that the exponent (x in ex) must be a dimensional-less quantity, a number or an angle; x cannot have dimensions of time, distance, energy, etc. In the above example, ω has units of radians/time; hence ωt is an angle, as are φ and θ.
+
+Forced Oscillations Using Complex Numbers With our new complex number techniques, let's reanalyze the forced harmonic oscillator: a mass on a spring subject to an external driving force: F = f cosβt Recall that the natural frequency of oscillation of the unforced mass is ω = √(k/m). Our linear differential equation is: m d²x/dt² = –kx + F We now allow both F and x to be vectors in the complex plane. At the end, we will take the real part of x as our solution. With F now written fe^(iβt), try a solution for x of the form x = De^(iβt).
+
+m (–β²) (De^(iβt)) = –k(De^(iβt)) + fe^(iβt)
+
+m (–Dβ²) = –kD + f –Dβ² = –ω²D + f/m D (ω²–β²) = f D = f / [m (ω²–β²)]
+
+Since all these quantities are real numbers, our real solution is: x(t) = D cosβt When we deal with more complicated problems, we will see that using the complex plane representation and being able to differentiate exponentials is much easier than dealing with trig functions.
+
+## Chapter 12 Review: Key Ideas
+
+1. Many natural phenomena are governed by linear differential equations of the form: f(t) = a₀x + a₁dx/dt + … + aₙdⁿx/dtⁿ where all a are constants.
+
+## 2. A mass m on a spring that obeys Hooke's law:
+
+F = –kx is a harmonic oscillator with natural frequency: ω = √(k/m)
+
+whose displacement x is a periodic function: x(t) = A cos(ωt + φ)
+
+with amplitude A and phase shift φ.
+
+## 3. If a mass on a spring is also subject to an external driving force:
+
+F = f cos(βt)
+
+its displacement x is given by: x(t) = D cos(βt)
+
+with D = f / [m (ω²–β²)].
+
+## 4. Euler's identity is
+
+e^(iy) = cosy + i siny Here i = √(–1)
+
+5. A complex number (x+iy) can be written as a vector in the complex number plane: r e^(iθ) with x = rcosθ and y = rsinθ.
+
+Here x is called the real part and y the imaginary part of the complex number.
+
+## Chapter
+
+Resonances In V1p23-2 Feynman stresses that solving linear differential equations in the complex number plane works well, because the equations are linear. One can get into trouble trying this with nonlinear equations. For example, consider the differential equation: d²x/dt² + x² = F This equation is nonlinear due to the x² term. Now try the complex plane technique: replace the displacement x with (x+iy) and the driving force with (F+iG), and take the real part of the result as our solution.
+
+d²(x+iy)/dt² + (x+iy)² = (F+iG)
+
+d²x/dt² + id²y/dt² + x² – y² + i2xy = F+iG The real part of this equation is: d²x/dt² + x² – y² = F This is wrong — it is not the equation we started with. The erroneous y² term comes in because the differential equation is nonlinear. Fortunately, there are a great many linear phenomena in nature.
+
+Forced Oscillator with Damping V1p23-3 Let's go back to the forced oscillator, but now with an added twist: a damping factor, such as friction. There are many types of friction with many different functional forms, as we discussed in Chapter 9. For this example, assume the force of friction is proportional to velocity v, as it would be for an object moving slowly through a viscous fluid such as oil. To make our equations a bit simpler, we will define the frictional force as: F_fric = –µm v Here, µ is the coefficient of friction per unit mass. Our linear differential equation then becomes: m d²x/dt² = –kx + F_ext – µm dx/dt If we tried to solve this with trig functions instead of complex numbers, we would get the following: –mDβ²cosβt = –kDcosβt + fcosβt + µmDsinβt –mDβ² = –kD + f + µmDtanβt This is quite a burden to solve. The complex plane technique is much easier. As before let: Complex displacement x = D exp{iβt} Complex driving force F_ext = f exp{iβt} Natural frequency ω = √(k/m)
+
+The differential equation is then: m(–β²)x + kx + µm(iβ)x = F_ext –β²D + ω²D + iµβD = f/m D = (f/m) / [ω² – β² + iµβ]
+
+Now we see something new: D is a complex number. We can rewrite D in the form of a vector in the complex plane: D = r exp{–iθ} x(t) = real part of [D exp{iβt}]
+
+x(t) = real part of [r exp{–iθ} exp{iβt}]
+
+x(t) = r cos(βt–θ)
+
+Recall that: F_ext = real part of [f exp{iβt}] = f cos(βt)
+
+The angle of the driving force is βt, while the angle of the displacement is βt–θ. For positive values of θ, this means the angle of the displacement is always less than the angle of the driving force. Hence for θ>0, the displacement lags the driving force.
+
+Let's calculate r and θ: D = r exp{–iθ} = (f/m) / [ω² – β² + iµβ]
+
+r² = D D* r² = (f/m)² / [(ω²–β²+iµβ) (ω²–β²–iµβ)]
+
+r² = (f/m)² / [(ω²–β²)² + (µβ)²]
+
+exp{+iθ} /r = 1/D = (m/f) [ω² – β² + iµβ]
+
+cosθ + isinθ = (mr/f) [ω² – β² + iµβ]
+
+sinθ = µβ mr / f All the factors on the right side of the last equation are positive, so θ is always greater than zero. By the definition we have chosen, this means the displacement x always lags behind the drive force F.
+
+Those looking carefully at equation (23.12) in V1p23-4, and similar presentations in other sources, may be confused. Some define θ with the opposite polarity, so that θ<0 is a lag. But the real problem in those other sources is that they compute tanθ, which is both positive and negative over the range of integration.
+
+rest from ß<ω through ß>ω. Their claim that this proves θ is always a lag is erroneous. It is better to show sinθ>0 throughout the range, as we have done here.
+
+The most interesting situation is when ß is nearly equal to ω. Here we can rewrite the equation for r2 using: ω2 – ß2 = (ω+ß)(ω–ß) is nearly 2ß(ω–ß) r2 = (f/m)2 / [4ß2(ω–ß)2 + (µß)2] r2 = (f/2ßm)2 / [(ω–ß)2 + (µ/2)2] r2 has the form A/(z2 + B) near z = 0 at ω = ß, r = (f/2ßm) / (µ/2) = f / (µmß)
+
+Figure 13-1 shows plots by SpringerImages.com of r and θ over a range of ß/ω, with r plotted on a relative scale. The nice peak in r is called a resonance. As the last equation shows, the peak height is limited only by friction (or other damping factors).
+
+Figure 13-1 r and θ vs. ß/ω
+
+The peak to width ratio is often characterized by the quantity Q = ω/µ. A large Q means a tall narrow peak. If you push a child on a swing, the biggest thrills for the tides in our atmosphere. In any selected direction, the Moon’s gravitational force has a component in that direction that varies sinusoidally with a frequency of one full cycle every 12.42 hours. (See Chapter 8 for a description of tides.) Physicists studying masses on springs can easily try different masses, different springs, and different driving frequencies, generating lots of data to analyze. The atmosphere does not provide the same opportunity to “turn the knobs and see what happens.” We have only one definite data point: the response at a driving frequency of once per 12.42 hours. Being a bit more clever, in 1960, geophysicists Walter Munk and Gordon MacDonald measured the atmosphere’s oscillation amplitude and phase (how much the air tide lags behind the direction of the Moon), and estimated its natural frequency and damping factor. That is enough, as we have seen, to calculate the entire resonance curve. But in V1p23-7, Feynman points out that if this were the end of the story, it would amount to “…very poor science. From two numbers we obtain two numbers, and from those two numbers we draw a beautiful curve, which of course goes through the very points that determined the curve!” Many curves, with many different theoretical interpretations, could match two numbers. We need more confirmation before believing that our curve is meaningful. Lo and behold, nature provided another data point. There was a scientific benefit to the catastrophic explosion of Krakatoa volcano in 1883, which gave the atmosphere one terrific jolt. The explosion made the atmosphere’s “bell ring”, enabling scientists to measure its natural frequency. It turned out to be 10.5 hours. That is quite close to Munk and MacDonald’s estimate of 10 hours and 20 minutes, which is shown in Figure 13-3. Figure 13-3 Resonance of Earth’s Atmosphere
+
+The next example involves the transition between two energy levels in an atomic nucleus. When a nucleus drops from a higher energy level, an excited state, to a lower one, the ground state, it must conserve energy in some manner. In some cases, the nucleus emits a gamma ray, the highest energy form of light. In whatever direction the gamma ray is emitted, the nucleus must recoil to conserve momentum, and move in the opposite direction. This nuclear recoil consumes some of the transition energy, reducing the energy carried off by the gamma ray. Such gamma rays therefore do not have sufficient energy to drive the reverse process, in which another identical nucleus absorbs the gamma ray and transitions from its ground state to its excited state. In 1958, Rudolf Mossbauer discovered that, in a solid crystal at low temperatures, atoms recoil not individually but as a group, which reduces the recoil energy to almost zero. Let see why. A gamma ray of energy E has momentum E/c, its energy divided by the speed of light. The recoiling atom or atoms of total mass M must have equal but opposite momentum: p=–E/c. Since E is always much less than the mass energy of the atoms, we can employ non-relativistic equations. Atomic momentum p = M v = E / c v = E / Mc Recoil energy = Mv2/2 = E2 / (2Mc2) Plugging in the numbers for iron-57 decay: E = 14,400 eV and Mc2 for one iron atom is 57 billion eV (eV means electron-volt, the energy an electron gains across a potential of one volt). For one iron atom, the recoil energy equals 0.0018 eV, about 1 part in 8 million of the gamma ray energy. Small as that seems, that energy loss is 100,000 times too much to trigger the reverse process. At reduced temperatures, Mossbauer was able to achieve the collective recoil of 200,000 atoms. That increased the effective M by a factor of 200,000 and reduced the recoil energy to only 10 nano eV, or 1 part in 1.4 trillion. Using two cold iron crystals and moving them toward one another at a velocity of 0.02 cm/sec (0.008 inches/sec), Mossbauer increased the apparent energy of the gamma rays just enough to compensate for recoil losses and drive the reverse process in the receiving crystal. (If you want to learn more about how motion changes a photon’s apparent energy, read Our Universe 2: Redshift, Expansion & Dark Energy). A plot of gamma ray absorption versus relative crystal speed is shown in Figure 13-4. Each tick mark on the horizontal scale corresponds to 0.1 cm/sec. The Q factor of this resonance is over one trillion. Using the extreme precision of the Mossbauer effect, in 1959, Robert Pound and Glen Rebka were able to confirm Albert Einstein’s prediction of gravitational redshift. Mossbauer received the 1961 Nobel Prize for his remarkable experiments. Figure 13-4 Mossbauer Effect
+
+Resonances of a different type are prevalent in high-energy particle physics experiments. Here the resonance width is not determined by any type of frictional effect, but rather by the Heisenberg Uncertainty Principle, which we will explore later in this course. For now, suffice it to say that if a particle exists for an exceedingly short time interval Δt, its mass must be uncertain. To be specific, the full width of its mass resonance peak Δm is given by: Δm = h / (2π dt) Here, h is Planck’s constant. The numbers are: Δm × Δt = 6.58×10–16 eV-sec.
+
+Figure 13-5 plots the production rate of hadrons (particles that are composed of quarks) in electron-positron collisions. Note that this is a logarithmic plot: the production rate is about 300 times greater at the peak than at the local minimum at 60 GeV (60 billion eV).
+
+Figure 13-5 Z Boson Resonance
+
+A short-lived Z boson can be produced if the effective mass energy of the colliding electron and antielectron pair matches the Z mass. About 27% of Z's decay into hadrons, so producing Z’s dramatically increases the number of hadrons produced in the collisions.
+
+If nature were not uncertain, Z’s would be produced only if the collision energy exactly matched the Z mass of 91.2 GeV, which would be almost impossible to achieve. Thanks to Heisenberg, a resonance occurs when the collision energy is near the Z mass. The width of the mass peak is 2.5 GeV, corresponding to the Z lifetime of 2.6×10–25 sec. Z resonance production is analogous to pushing a swing or ringing a bell, hitting the resonance greatly enhances the response.
+
+Many students taking Feynman’s course are distressed by the myriad of topics he often covers in a single lecture. What other freshman physics course examines Z boson production, the Mossbauer effect, and the oscillation of Earth’s atmosphere? What other course covers these all at once? No one says Feynman’s course is easy. But, nowhere else will you learn so much. No other professor illuminates so profoundly nature’s intimate interactions. If I can help you master Feynman’s Lectures on Physics, you will have the confidence to attack nature’s deepest mysteries, in a way that no other students can.
+
+Energy of a Forced Oscillator
+
+The kinetic energy of an oscillator is proportional to its velocity squared, in the usual way. But, as Feynman says in V1p24-1, we must do the squaring carefully. In the complex plane: v = vx + ivy v • v = v v* = vx2 + vy2 This equation provides the amplitude of the complex velocity v. But this is not what we need to calculate kinetic energy. For that we need the square of the real part of v, namely vx2. Over one complete cycle, v rotates 360 degrees, so vx2 and vy2 have the same average value. Thus, the average value of vx2, written <vx2>, equals vv*/2.
+
+This relationship is true for any complex vector: its length squared equals twice the square of its real part, when averaged over a full cycle.
+
+Now, let’s calculate the energy of our driven, damped, harmonic oscillator. We will do this by calculating the power P expended by the driving force F, which equals F•v. Since the motion is entirely in one-dimension P = F•v = Fv.
+
+F = m d2x/dt2 + kx + µm dx/dt
+
+P = F v = F dx/dt
+
+P = m d2x/dt2 (dx/dt) + kx(dx/dt) + µm(dx/dt)2
+
+P = (1/2) d {m(dx/dt)2 + kx2} /dt + µm(dx/dt)2
+
+That last step is a bit tricky. It employs these two identities: d{(dx/dt)2 }/dt = 2 (dx/dt) (d2x/dt2) d{x2}/dt = 2 x dx/dt
+
+Now, m (dx/dt)2 /2 = kinetic energy T And, kx2 /2 = potential energy U
+
+We can confirm that kx2/2 is indeed the potential energy stored in the spring: Recall: –dU/dx = F = –kx U = ∫ kx dx = kx2 /2
+
+With all that, our power equation becomes: P = (1/2) d{T+U}/dt + µm (dx/dt)2
+
+Feynman notes that T+U is the stored energy in the oscillating mass-spring system, and says, since the oscillation repeats exactly cycle after cycle, T+U is constant over full cycles, even though T+U does vary within each cycle. This means the power expended by the driving force, averaged over full cycles, is consumed by the frictional element:
+
+<P> = <µm (dx/dt)2> <P> = µm <(–Dβ sinβt)2 > <P> = µm D2β2 <(sinβt)2 > <P> = µm D2β2 /2
+
+Above, we used the fact that over one or more full cycles, the average value of sin2θ equals the average value of cos2θ, and since their sum equals 1, each average must equal 1/2.
+
+If we were dealing with an electrical harmonic oscillator, we would simply replace: x with q dx/dt with I µm with R
+
+The result is: <P> = R < I2 > = R I_max 2 /2
+
+Here, power is expended in heating the resistance R, which is sometimes called Joule heating, in recognition of the contributions of James Prescott Joule (1818-1889) to the study of heat and its relation to mechanical work.
+
+Getting back to the stored energy, we can calculate its average value <E>: x(t) = D cosβt v(t) = –Dβ sinβt T = m (Dβ)2 sin2βt /2 <T> = m (Dβ)2 /4 U = m ω2 D2 cos2βt /2 <U> = m ω2D2 /4 <E> = <T> + <U> <E> = m D2 (ω2 + β2) /4
+
+When a system is initially stationary and a driving force commences at time t, the force must expend energy to build up the oscillation to the point that its average energy equals <E>. Thereafter, the power expended by the force is entirely consumed by the frictional elements.
+
+Earlier we characterized the quality of an oscillator using Q=ω/µ, the ratio of the resonance’s peak height to peak width. Q is the quality factor at the peak.
+
+ak, at ß=ω, when the driving force frequency equals the system’s natural frequency.
+
+One can also define a quality factor Q(ß) for situations in which ß is not equal to ω. Define Q(ß) as (the average energy in the oscillator) divided by (the average work per radian expended by the driving force). The average work per radian equals (the average power expended) multiplied by (1/ ß), the time to oscillate through one radian. The equations are: Q(ß) = <E> / (<P> /ß)
+
+Q(ß) = ß <E> / <P> Q(ß) = ß {mD2 (ω2+ß2) /4} / (µm D2ß2 /2)
+
+Q(ß) = (ω2+ß2) / (2µß)
+
+Q(ß=ω) = ω / µ The last equation matches what we had before for ß=ω.
+
+Parallel & Serial Circuits In his discussion of electrical systems, Feynman adds a side note regarding parallel versus serial circuit elements, which is not directly related to harmonic oscillators. Back in Figure 13-2, three circuit elements are connected in series: an inductor, a resistor, and a capacitor. The linear differential equation for this system is: L d2q/dt2 + R dq/dt + q/C = V(t)
+
+Here the same amount of charge q flows through each element. In the complex plane, the applied voltage V(t), charge q(t), and current I(t) are given by: V(t) = v exp{ißt} q(t) = D exp{ißt} I(t) = dq/dt = iß q Putting these into our equation yields: L(iß)2 q +R(iß) q + q / C = V L(iß) I +R I + I / (ißC) = V We can write this in a new form, with Z being the impedance (a complex number) of the jth circuit element and Z being the total impedance of the entire group of circuit elements.
+
+I Z + I Z + I Z = V = I Z 1 2 3 The three key points of serial circuits are: (1) The same current flows through each element sequentially.
+
+(2) The voltage drop across the elements may be very different.
+
+(3) The total voltage drop is the sum of the voltage drops across each element.
+
+Two circuit elements connect in series are shown on the left side of Figure 13-6.
+
+Figure 13-6 Serial & Parallel Impedances By contrast, the circuit elements on the right side of Figure 13-6 are connected in parallel. The three key points of parallel circuits are: (1) Different currents may flow through each element.
+
+(2) The voltage drop across each element is the same.
+
+(3) The total current flow is the sum of the currents flowing through each element.
+
+Let’s now calculate the total impedance Z of two parallel elements whose individual impedances are Z and Z: 1 2 I Z = I Z = V = I Z 1 1 2 2 I = I + I 1 2 V/Z = I = V/Z + V/Z 1 2 1/Z = 1/Z + 1/Z 1 2 We see that impedances are summed quite differently in serial and parallel circuits.
+
+Here is a comparison of properties of mechanical and electrical systems:
+
+## Chapter 13 Review: Key Ideas
+
+1. A complete analysis of harmonic oscillators — including driving forces, damping forces, and transients — is presented in the Review section of Chapter 14.
+
+2. Earth’s atmosphere is a driven oscillator, with a natural frequency of one cycle per 10.5 hours, driven by our Moon’s tidal gravitational forces at one cycle per 12.42 hours.
+
+3. The Mossbauer effect can have a Q value over one trillion in a crystal at very low temperatures, due to the collective recoil of 200,000 atoms.
+
+4. The potential energy, kinetic energy, and total energy, averaged over a full cycle, of a driven, damped oscillator remain constant at: <T> = m D2 ß2 /4 <U> = m D2 ω2 /4 <E> = m D2 (ω2+ß2) /4 Once the motion becomes periodic, the power expended by the driving force, averaged over a full cycle, is: <P> = µ m D2 ß2 /2 This power is absorbed by the damping element.
+
+Below are some common electrical circuit elements.
+
+Here q is charge, I is current, V is voltage drop across element, C is capacitance, R is resistance, L is inductance, and Z(ß) is complex impedance at frequency ß.
+
+When two impedances Z and Z are combined, they have total impedance Z given by: 1 2 Z = Z + Z if connected in series 1 2 1/Z = 1/Z + 1/Z if connected in parallel 1 2
+
+## Chapter
+
+Transients & Linear Systems Review Transients The systems discussed so far display repetitive periodic motion, responding to driving forces that continue forever. What happens when the music stops?
+
+Let’s analyze two scenarios that are mathematically very similar: (1) the sudden cessation of a periodic force that had driven the system for a great many cycles; and (2) a sudden impact, a force that acts for only an instant.
+
+In the first scenario, once the driving force stops, the energy dissipated by friction must now come from the oscillator’s stored energy. Frictional losses continuously diminish the oscillation, which fades away like the ringing of a bell no longer being struck.
+
+Let’s assume that the driving force stops at time t=0, at which time the system has displacement x(0)
+
+and velocity v(0). Whatever came before is now irrelevant. The only elements of history that can impact the future are x(0) and v(0).
+
+As Feynman points out in V1p24-3, for a high Q system, the energy lost per cycle is a small fraction of the stored energy, so the ringing diminishes very slowly. If a fixed percentage of the stored energy is l 每个周期，振荡幅度呈指数衰减。
+
+这是指数函数的一个绝佳特性。对于指数函数f，其指数为常数b乘以时间，我们可以展示这一点： f(t) = exp{bt} = ebt df/dt = b ebt = b f b = (df/dt) / f 由此可见，b作为函数f的瞬时变化率，在任何时刻都保持不变。
+
+指数函数的第二个绝佳特性是，它们能够表征增长、衰减以及振荡。
+
+它们的第三个绝佳特性是，指数函数是最容易进行微分和积分的函数。还有什么能比这更好呢？
+
+所有这些优势促使我们尝试如下形式的解： x(t) = D exp{izt} 这里，z是一个待定常数。将x(t)代入微分方程得： 0 = m d2x/dt2 + kx + µm dx/dt 0 = m Deizt(iz)2 + kDeizt + µmDeizt(iz)
+
+0 = –z2 + ω2 + iµz z = iµ/2 ± √(–µ2/4 + ω2)
+
+假设 ω>µ/2，则平方根为实数，记为σ。z的两个可能解为： σ2 = ω2 – µ2/4 z = iµ/2 ± σ 这两个解都是有效的。事实上，通解是这两个解的任意线性组合。
+
+在复平面上任取两个常数 Aeia 和 Beib，得到： x(t) = A exp{ia} exp{it(iµ/2 + σ)} + B exp{ib} exp{it(iµ/2 – σ)} = exp{–tµ/2} Θ 其中 Θ = A exp{i(a+σt)} + B exp{i(b–σt)} 由于第一个指数具有负实指数，位移x的总体幅度随时间呈指数衰减。这正是我们所预期的，类似于我们熟悉的钟声渐息现象。Θ中的两个指数具有虚指数，意味着它们是正弦和余弦函数的组合；Θ是x(t)的振荡部分。
+
+让我们评估振荡表达式 Θ： Θ = A cos(a+σt) + iA sin(a+σt) + B cos(b–σt) + iB sin(b–σt)
+
+为使Θ为实数，虚部必须相互抵消。这意味着 b = –a 且 B = A，即 Aeia 和 Beib 互为复共轭。（如果你喜欢数学谜题，可以证明虚部抵消条件可由两个数学等价的解满足。）由此得到： Θ = 2A cos(a+σt)
+
+x(t) = 2A exp{–tµ/2} cos(a+σt)
+
+x的幅度在 t=0 时为2A，相位角为a。借助这两个“旋钮”，我们可以匹配任何初始位置和速度条件。这种情况称为欠阻尼，原因很快会明了。
+
+图14-1显示了x(t)的图像。
+
+图14-1 衰减谐振子回忆 σ2 = ω2 – µ2/4。这意味着对于较小的摩擦损耗（µ<<ω），系统以略低于其固有频率ω的频率振荡，并且振荡衰减非常缓慢。
+
+相反，随着µ/2增大并趋近ω，振荡频率降低，幅度衰减更快。
+
+**临界阻尼** 回到我们之前假设具有实根的二次方程。相关方程为： x(t) = D exp{izt} z = iµ/2 ± √(–µ2/4 + ω2)
+
+现在，如果 µ/2 大于或等于 ω 呢？定义 Ω 使得： Ω2/4 = µ2/4 – ω2 注意，即使 ω=0，Ω 也永远不会超过 µ。
+
+z = iµ/2 ± √(–Ω2/4) = iµ/2 ± iΩ/2 x(t) = D exp{–t (µ±Ω) /2} x(t) = A exp{–t(µ+Ω)/2} + B exp{–t(µ–Ω)/2} 实常数A和B允许我们匹配x(0)和v(0)的初始条件。
+
+注意，由于Ω永远不会超过µ，两个指数永远不大于零。这避免了驱动力停止后振荡幅度无限增大的荒谬结果。还需注意，所有指数都是实数——没有振荡因子；衰减是纯指数的。
+
+如果Ω=0，振荡器称为临界阻尼。两个指数变得相同，并以可能的最快速率衰减：exp{–tµ/2}。
+
+如果Ω>0，振荡器称为过阻尼。第一项 A exp{–t(µ+Ω)/2} 比第二项 B exp{–t(µ–Ω)/2} 衰减得更快。很快A项变得可忽略，只剩下B项。顾名思义，过阻尼振荡器比临界阻尼的衰减更慢。
+
+让我们考虑图14-2所示的电路示例。除了普通电阻R、电容C和电感L外，该电路还包含一个电压为V的电池、一个开关S和一个可变电阻VR。
+
+图14-2 用于研究暂态的电路当开关S在时间t=0瞬间闭合时，电池向电路施加电压，该电路是一个固有频率 ω=1/√(LC)、阻尼系数为 (R+VR)/L 的阻尼振荡器。调整VR的电阻值（箭头象征一个旋钮）会改变阻尼。通过精心选择元件，该电路可以覆盖从欠阻尼到临界阻尼再到过阻尼的全部范围。
+
+图14-3展示了三种阻尼类别：U表示欠阻尼；O表示过阻尼；C表示临界阻尼，即最快的衰减。
+
+图14-3 三种阻尼程度
+
+**线性系统理论** Feynman explains the theoretical foundation for analyzing linear systems, those systems governed by linear differential equations. He says studying linear systems is extremely valuable because: (1) we can actually solve these equations, and (2) many fundamental laws of physics are linear, or at least approximately linear. The equation we solved in the last two chapters for several different situations is: m d2x/dt2 + µm dx/dt + mω2 x = F(t). This is an example of the general class of linear differential equations with constant coefficients of the form: a dnx/dtn + … + a1 dx/dt + a0 x = f(t). If j is the largest index for which aj is nonzero, we say the equation is jth order. In physics, we generally deal with second order differential equations, because forces are linked to accelerations, which are the second order derivatives of position. For any order, we can define an operator that encompasses in one symbol all the derivative operations that are the guts of our equation. After searching for a symbol we have not used recently and that connects somehow to “linear”, I have chosen Λ, the upper case Greek lambda (“L”). We define: Λ(x) = a dnx/dtn + … + a1 dx/dt + a0 x. So, Λ provides the physics and we can plug in whatever function x we wish. The most important feature of linear systems is linear superposition: the ability to combine solutions by simple addition. Any linear system specified by Λ, with two solutions x and y, and any two constants a and b, has another solution ax+by, as shown below: Λ(ax+by) = a Λ(x) + b Λ(y). Furthermore, if this system has a solution u when it is unforced, then Λ(u)=0. If there is also a solution x when an external driving force is applied, then: Λ(ax+bu) = a Λ(x) + b Λ(u). Λ(ax+bu) = a Λ(x) + b×0. Λ(ax+bu) = a Λ(x). Hence, we can simply add any transient solution u to any forced solution x. We saw that transient solutions are necessary to describe situations in which a driving force ceases. Transient solutions are also required to describe what happens when a driving force begins. An initially stationary system does not instantaneously transition from zero motion (x(t)=v(t)=0) to its ultimate periodic driven motion (x(t)=Acos[ßt+ø]). At the start, the motion is a combination of the ultimate motion and transient motions, with the latter dying out exponentially. Thus we can linearly add all types of solutions to solve a wide range of problems. Amazingly, this is true even when the driving force F is not a simple harmonic function of time — something other than our favorite cosßt. Fourier & Green. We have learned how to solve linear differential equations for forces that are sinusoidal or exponential. We will show here that we can expand that range to include any force that we are likely to encounter in physics. The following material is advanced. We are not going to explain it thoroughly here, and you are not expected to master it after reading just this section. We will study this in detail in Feynman Simplified 1D, Chapter 45. But, we (mostly Feynman) want you to get a sense of the power of the techniques that you have already learned. Jean Baptiste Joseph Fourier (1768 – 1830) proved that any function can be expressed as the sum of a series (perhaps an infinite series), of exponentials with complex exponents. I will let you learn the details and proof of this theorem in a math class. For our purposes, for any integrable function s(t), the Fourier transform S(f) and its inverse are: S(f) = ∫ s(t) exp{–i2πft} dt. s(t) = ∫ S(f) exp{+i2πft} df. Both of the above integrals range from –∞ to +∞. Note that s(t) is a function of time, whereas S(f) is a function of frequency. Roughly speaking, S(f) is the amount of frequency f in the sum of complex exponentials that equals s(t). The second equation shows the inverse Fourier transform that brings us back to s(t). For example, consider the Fourier transform of: s(t) = sint+cos(3t). S(f) = ∫ s(t) exp{–i2πft} dt. S(f) is nonzero at only two values of f, because only two sinusoidal functions need be summed to equal s(t). Since we know how to solve linear differential equations for sinusoidal forces, we know how to solve them for any series, even an infinite series, of sinusoids. Thus, with considerable effort, we can solve them for any function. A special case is particularly useful. The Dirac delta function δ(x) equals zero for all x except x=0, but is, loosely speaking, infinite at x=0. To be more precise, for any function f: ∫ δ(x) f(x) dx = f(0). Again the above integral ranges from –∞ to +∞. The Dirac delta function effectively picks out the single value of f at x=0. The Dirac delta function can represent an instantaneous force: a sudden impact that transfers energy and momentum but whose duration is infinitesimal. This is an idealization that is never fully realized in practice, but is very useful mathematically and conceptually. The Fourier transform of the Dirac delta function is simple: S(f) = ∫ δ(t) exp{–i2πft} dt. S(f) = e–0. S(f)
+
+This means the Fourier transform of the Dirac delta function requires all frequencies equally. Since we can solve linear differential equations for sinusoids, we can solve them for an instantaneous impulsive force, as represented by the Dirac delta function.
+
+We can now take that another leap forward. As sketched, any function F(t) can be broken down into a series of thin rectangles, each having width Δt. The rectangle at time t has height F(t).
+
+In the limit that Δt goes to zero, the rectangles become a series of instantaneous impulsive forces, which we now know we can solve. This approach is called the Green’s function method, named after George Green (1793 – 1841).
+
+Number of Independent Solutions In the first section of this chapter, we solved the problem of transients — what happens when a driving force stops or starts. We had this differential equation and found this solution: 0 = m d2x/dt2 + kx + μm dx/dt x(t) = D exp{izt} 0 = –z2 + ω2 + iμz z = iμ/2 ± √(–μ2/4 + ω2)
+
+We noted before that there are two solutions. To be more precise, there are two independent solutions to the equation for z, and therefore for x.
+
+What do we mean by independent?
+
+We know that for linear equations, if x is a solution then so is bx, for any constant b. That give us an infinite number of other solutions, but those are not "independent". All these are the same "dress" in a variety of sizes.
+
+Two or more solutions are said to be independent if none is a linear combination of the others. In less technical words, each independent solution has a unique character beyond any blend of the characters of other solutions. Each is a truly different "dress".
+
+So how many independent solutions should we look for? Are there always two, or sometimes more or less?
+
+Feynman says each second-order differential equation has only two independent solutions.
+
+Let’s see why that is true by examining the general form of an nth order linear differential equation, with a driving force F and displacement x.
+
+F(t) = f exp{ibt} x(t) = D exp{ibt} an dnx/dtn + … + a1 dx/dt + a0 x = F(t)
+
+an (ib)n x + … + a1 (ib) x + a0 x – F(t) = 0 By defining dn = an D (i)n, we can rewrite this as: dn bn + … + d1 b + (d0–f) = 0 The statement that the differential equation is nth order means that aj=0 for all j>n, and an is nonzero. Hence dn is nonzero.
+
+The last equation is therefore an nth order polynomial in b, which means it can be factored, restated as the product of n terms in the form: 0 = (b–z1) (b–z2) … (b– zn)
+
+This polynomial has exactly n roots in the complex plane, z1 through zn: the polynomial is zero when b equals any of these z values.
+
+Some of the roots may be identical, in which case they do not provide independent solutions. Hence, an nth order linear differential equation can have up to n independent solutions.
+
+Concluding Remarks Alas, not all equations in physics are linear. A simple example of a nonlinear differential equation is the motion of a pendulum. A ball of mass m swings on a line of length r.
+
+Let g be the acceleration of gravity, and x be the instantaneous direction of motion (dx=rdφ). The force is directed so as to reduce the magnitude of φ. The differential equation is: m d2x/dt2 = –gm sinφ d2φ/dt2 = –(g/r) sinφ Since sinφ is nonlinear, so is the differential equation. While there are advanced and complicated techniques for solving such equations, it is often possible (and much easier) to solve them approximately.
+
+If the arc of the pendulum’s swing is much less than its length (φ<<1 radian), we can approximate sinφ by φ. Recall the power series expansion of sinx: sinx = x – x3/3! + x5/5! – … This approximation results in a much simpler, linear equation: d2φ/dt2 = –(g/r) φ By now, you can solve that in your sleep.
+
+Lastly, linear systems and resonances play a major role in television and radio transmission and reception. How can hundreds of different broadcasts get from the stations to your receiver without interfering with one another?
+
+Whether you have an antenna, satellite dish, or cable, an electrical signal enters your home with all these broadcasts added on top of one another.
+
+The total information content of all broadcasts combined is much less than the maximum amount of transmittable information. (Sometimes it seems nothing informative is being transmitted.) Thus it is possible to restrict the electrical signals from the nth broadcast to a narrow range of frequencies, only those between fn–Δf and fn+Δf. These signals are simply added together according to the principle of linear superposition, and broadcast in aggregate.
+
+At the receivers, a resonant circuit can be tuned to respond strongly to any selected frequency range centered on fn, while rejecting signals in other frequency ranges. That way I can tune in JEOPARDY! and avoid interference from Swamp People.
+
+Linear Systems Review Linear systems are particularly important because they are relatively easy to solve, and because many natural phenomena are governed by linear differential equations of the form: f(t) = a_0 x + a_1 dx/dt + … + a_n d^n x/dt^n where all a are constants. Other phenomena may be approximated as linear, in some cases.
+
+An essential feature of linear systems is linear superposition: if x and y are solutions of a linear equation, and A and B are any constants, then Ax+By is also a solution of that equation.
+
+Complex numbers simplify the analysis of many problems in physics. The complex number z=x+iy can be considered to be a vector in the complex number plane represented by: r e^(iθ) = r exp{iθ} = r cosθ + i r sinθ x = r cosθ is the real part of z y = r sinθ is the imaginary part of z
+
+A mechanical example of a linear system is a mass m on a spring. If the spring is governed by Hooke’s law, F=–kx, this system is a harmonic oscillator with natural frequency ω=√(k/m). This becomes more interesting when the system is subject to an external driving force F_ext and a damping force F_fric. The differential equation governing this system, and our representation of the system parameters are: m d^2x/dt^2 = – kx + F_ext – µm dx/dt F_ext = f cos(ßt)
+
+F_fric = –µm dx/dt x(t) = real part of { r cos(ßt –θ) } Here, x(t) is the oscillator displacement, r is the oscillation amplitude, and θ is the angle by which x lags the driving force.
+
+Our analysis shows: r^2 = (f/m)^2 / [(ω^2–ß^2)^2 + (µß)^2]
+
+sinθ = m r µ ß / f at ß=ω, r = f / µmß, and θ = π/2 Peak height/width ratio Q = ω / µ
+
+If there is no frictional damping, µ=0 and these equations reduce to: x(t) = (f/m) cos(ßt) / (ω^2 – ß^2)
+
+If µ is nonzero and the driving force F_ext stops at t=0, one of three transient behaviors results.
+
+Underdamped if σ^2 = ω^2 – µ^2/4 > 0: x = A exp{–tµ/2} cos(a+σt)
+
+This behavior declines most gradually.
+
+Critically damped if µ/2=ω: x = A exp{–tµ/2} This behavior declines most rapidly.
+
+Overdamped if Ω^2 = µ^2 – 4ω^2 > 0: x = A exp{–t(µ+Ω)/2} + B exp{–t(µ–Ω)/2}
+
+The total stored energy, potential plus kinetic, averaged over a full cycle of a driven, damped oscillator is constant, as given by: <E> = m D^2 (ω^2+ß^2) /4 The power expended by the driving force is absorbed by the damping element. Averaged over a full cycle, its value is: <P> = µ m D^2 ß^2 /2
+
+Earth’s atmosphere is a driven oscillator, with a natural frequency of one cycle per 10.5 hours, driven by our Moon’s tidal gravitational forces at one cycle per 12.42 hours.
+
+The Mossbauer effect has a Q value over one trillion, due the collective recoil of 200,000 atoms.
+
+From the solutions to problems with sinusoidal driving forces, we can find solutions to problems with impulsive forces and therefore any forces, because of linear superposition.
+
+An nth order linear differential equation has n roots, each of which provides a solution. But if some roots are equal, they will not provide independent solutions.
+
+Electrical systems behave analogously to mechanical systems. The table below compares their properties.
+
+Below are some common electrical circuit elements.
+
+Where q is charge, I is current, V is voltage drop across element, C is capacitance, R is resistance, L is inductance, and Z(ß) is the complex impedance at frequency ß.
+
+When two impedances Z_1 and Z_2 are combined, they have total impedance Z given by: Z = Z_1 + Z_2 if connected in series and 1/Z = 1/Z_1 + 1/Z_2 if connected in parallel
+
+## Chapter
+
+Kinetic Theory of Gases We now embark on a journey of many chapters to understand the properties of macroscopic matter, based on Newton’s laws of mechanics and the atomic theory, the model that everything is made of atoms.
+
+Kinetic theory is the description of matter, based on behaviors of colliding atoms. As Feynman states in V1p40-1: “We assert that the gross properties of matter should be explainable in terms of the motion of its parts.” The branches of physics involved in this study are called thermodynamic and statistical mechanics.
+
+Ideally we would begin this study with a complete understanding of atoms, which requires a complete understanding of the laws of nature that govern atoms, namely quantum mechanics. Ideally, yes. But no one can teach everything all at once, and no one can learn everything all at once.
+
+Our approach will be primarily to follow the historical development of this subject, while occasionally highlighting the errors of the then-current, but now-discarded models — errors whose resolutions sometimes led to dramatic scientific advances. With this approach, you will come to understand not only the subject but also how science progresses through halting steps and ever better approximations. Recall that our goal is the least inadequate description of truth.
+
+Scientists began developing thermodynamics nearly four centuries ago, well before the atomic theory was firmly established. Its approximate understandings became effective, and helped propel the Industrial Revolution by replacing the manual labor of humans and domestica treat animals with inexhaustible machines.
+
+In V1p39-2, Feynman begins by presenting an interesting example of the success of partial knowledge: the rule of simple integral proportions in the chemistry of gases. When different gases react chemically, it is observed that the amounts of each reacting gas are always small integer multiples of one another. This observation ultimately led Amedeo Avogadro (1776 – 1856) to conclude that, at a fixed temperature and pressure, equal volumes of gas contain equal numbers of molecules.
+
+Let’s see how much we can understand about gases from Newton’s laws of mechanics and the atomic model. Since we cannot keep track of the individual positions and velocities of trillions of trillions atoms, we must find ways to relate macroscopic properties to the average properties of immense numbers of atoms. As you will see, “average” will become ubiquitous in our discussion.
+
+Gas Pressure Pressure is one macroscopic property of gases. Gases exert pressure because they are comprised of atoms in continuous motion. In V1p39-2, Feynman says that if our ears were a few times more sensitive, a constant cacophony would overwhelm us. That constant racket would come from individual air molecules banging against our eardrums.
+
+Let me provide the actual numbers: each second, at standard temperature and pressure, every exposed surface suffers 8×10^23 air molecule impacts per square centimeter, which is about the area of two human eardrums. That is nearly a trillion, trillion drumbeats per second. Fortunately, our ears are not sensitive enough to notice.
+
+To analyze gas pressure quantitatively, consider the gas cylinder in Figure 15-1. Let’s call the gas volume V, the area of the piston’s face A, the horizontal cylinder length L, and the coordinate that measures the piston’s horizontal position x. With these definitions, V=AL.
+
+Figure 15-1 Piston in Cylinder Filled with Gas
+
+We will assume there is nothing outside the cylinder — no gas molecules to impact the piston from the outside. If so, a force F is required to hold the piston stationary, because gas molecules inside the cylinder bang against the piston and exert some force.
+
+The same amount of force is exerted uniformly across the piston’s face, so we define pressure P to be the force per unit area. For a piston face of area A, the pressure is: P = F / A
+
+If we push the piston inward an infinitesimal distance dx, the work done compressing the gas is: dW = F dx = P A dx = – P dV Here, x increases to the right, and an increasing x reduces gas volume V.
+
+Let’s now calculate the force F exerted by the gas on the piston, recalling that force is the time derivative of momentum p: F = dp/dt We first calculate the momentum transferred to the piston by the impact of a single gas molecule, and then multiply by the number of such hits in a time interval dt.
+
+We shall assume each impact is perfectly elastic, meaning that the gas molecule has the same total energy after the collision that it had before the collision. (In V1p39-3, Feynman points out that if the collisions were not elastic, the gas would lose energy, transferring it to the piston, which would heat up, eventually heating the gas, until some equilibrium is achieved. Let’s just assume we are already at equilibrium.)
+
+If the piston’s face were a perfect plane, it would exert forces only in the x-direction, and only change the x-component of the velocities of impacting gas molecules. Even a real-world piston can only change the x-components, on average, due to symmetry.
+
+Hence, in an elastic collision, with an immovable wall in the yz-plane, v after the collision equals – v before the collision.
+
+The momentum change dp for one collision of a molecule of mass m is: dp = 2 m v_x
+
+Next, we need the number of such collisions during a time interval dt. During dt, each molecule moves a distance dx in the x-direction equal to (v_x)dt. On average, half will be moving toward +x and half toward –x. Thus, within dt, each molecule moving toward –x that starts within a distance dx= (v_x)dt of the piston will hit the piston.
+
+Assuming the gas is uniformly distributed, the fraction of gas molecules within dx is the ratio of dx to the total horizontal distance L.
+
+For N total gas molecules, the number j that will hit the piston in time dt is then: j = (1/2) N dx / L = (1/2) N v_x dt / L The 1/2 is due to half the molecules moving toward –x. Recall that L=V/A. The total momentum dp transferred to the piston during time interval dt is then: dp = (2 m v_x) (1/2) (N A / V) v_x dt
+
+F = dp/dt = (N A / V) m <v_x^2> P = F / A = (N / V) m <v_x^2>
+
+Since each molecule has a different velocity, what we really need for the total pressure is the average value of v_x^2, which is what <v_x^2> stands for in the last equation.
+
+Let’s take this a step further. In bouncing throughout the cylinder, gas molecules, on average, have the same velocities in each of the three coordinate directions: x, y, and z. Thus: <v_x^2> = <v_y^2> = <v_z^2> <v^2> = (1/3) (<v_x^2> + <v_y^2> + <v_z^2>)
+
+⟨v²⟩ = (1/3) ⟨v²⟩ So, P = (1/3) (N / V) m ⟨v²⟩ PV = (2/3) N ⟨mv²/2⟩ Note that ⟨mv²/2⟩ is the average kinetic energy of the gas molecules. Molecules with multiple atoms have internal motions, such as vibration and rotation, each with associated energies. We will discuss those later. For now let's restrict ourselves to monatomic molecules, for which we need only consider their kinetic energy mv²/2.
+
+Since the average kinetic energy multiplied by the total number of molecules equals the gas’ total kinetic energy Ŧ, we have: PV = (2/3) Ŧ, with Ŧ = total kinetic energy I use the symbol Ŧ for kinetic energy because thermodynamics conventionally uses T for temperature. In V1p39-6, Feynman acknowledges the confusion to innocent students caused by the multiple meaning of many physics symbols. We use p for pressure and momentum, v for volume and velocity, and t can be temperature, kinetic energy, time, or torque. His only advice: “One must keep one’s wits about one!” Where possible, I will use slightly different symbols, such as Ŧ and T.
+
+Thermodynamics deals with all sorts of gases, most are more complicated than simple monatomic gases. For greater generality, physicists have adopted this notation: PV = (γ–1) Ŧ Sorry that we are using γ here, which means something else in special relativity, but that is the standard convention. For a simple monatomic gas, such as helium at room temperature, γ=5/3. This γ is called the specific heat ratio or the adiabatic index.
+
+If we compress a gas, work is expended pushing against the gas pressure. If that work is entirely converted into increasing the gas’ kinetic energy (rather than heating the walls, for example), we call that adiabatic compression.
+
+In this case, the work done, which we learned was dW = –PdV, increases kinetic energy Ŧ: –P dV = dŦ for an adiabatic process –P dV = d(PV) / (γ–1)
+
+–P dV (γ–1) = (V dP + P dV)
+
+–P dV γ = V dP –γ dV / V = dP / P Recall that: ∫ dx / x = ln(x). This yields: –γ ln(V) = ln(P) + C V–γ = P eC P V+γ = some constant Indefinite integrals always produce an arbitrary constant, because the derivative of any constant is zero.
+
+Thus for a monatomic gas, compressed adiabatically (without heat losses), the pressure multiplied by the 5/3rds power of the volume is a constant.
+
+Squeezing Light V1p39-6 Inside a very hot star, photons can be trapped by the charged particle plasma and act like a hot gas confined inside a box.
+
+We get the same equations as in the last section, except we need the proper expressions for a photon’s momentum and energy: p rather than mv, and E=pc rather than mv²/2.
+
+dp = (2p) (1/2) (NA / V) v dt P = dp/dt / A = (N / V) ⟨p v⟩ Again: p v = (1/3) p•v = (1/3) pc P = (N / V) E / 3 Thus for photons, γ–1 = 1/3 and γ = 4/3, so: PV4/3 = some constant We have calculated the pressure of light in a star — look what you have learned to do!
+
+Temperature & Kinetic Energy V1p39-6 We now wish to establish the connection between the kinetic energy of a gas and its temperature. We said before that when a gas is compressed its temperature rises. The work energy expended in pushing against the gas pressure is converted into heat energy, raising the gas temperature.
+
+We also know that if we put ice cubes in hot tea, we will eventually get diluted tepid tea. Heat energy flows from hot objects to cold objects until both bodies have the same temperature. Despite our intuitions, and despite the feeling of diving into cold water, there is no “negative heat” that flows from cold to hot.
+
+To understand thermodynamics, the science of heat, we need a quantitative understanding of temperature. What does “hot” mean exactly?
+
+The only mechanical energy that a monatomic gas, a loose collection of individual atoms, can have is kinetic energy. (Atoms do have mass energy, but that cannot change at temperatures below millions of degrees. They also have gravitational potential energy, but we assume here that our gas volumes are small enough that any height changes result in negligible changes in gravitational potential energy.) Hence heat energy can only be the kinetic energy of the motion of individual atoms.
+
+Temperature is how we measure the average kinetic energy of motion at the atomic level.
+
+At temperature T, the kinetic energy in each degree of freedom equals kT/2, at equilibrium.
+
+Let’s address each part of that statement. T is measured on the Kelvin temperature scale, which is like the centigrade scale, except its zero is shifted. Absolute zero temperature is defined to be zero Kelvin, or 0 K (we do not say “degrees Kelvin”), and a change of 1 K equals a change of 1ºC. Water normally melts at 273.15 K and boils at 373.15 K. Since kinetic energy is never negative, T can never be negative on the Kelvin scale.
+
+The k in kT/2 is Boltzmann’s constant, which has a value of 1.38×10–23 joules per Kelvin.
+
+Finally, each independent motion is one degree of freedom. For example, we have learned that x, y, and z are independent directions of space that permi Independent motions. At temperature T, the average kinetic energy associated with motion in the x-direction is: ⟨mv²⟩/2 = kT/2. In three dimensions, there are three degrees of freedom; hence the average kinetic energy of 3-D motion is: ⟨mv²⟩/2 = (3/2) kT. Polyatomic molecules have additional degrees of freedom: they can rotate about various axes, and their atoms can vibrate back and forth along a bond axis.
+
+The concept that each degree of freedom has the same energy, on average at equilibrium, is called the principle of equipartition.
+
+The following lengthy analysis connects temperature and average atomic kinetic energy in a monatomic gas. Feynman does not claim that all the derivations in the remainder of this section are mathematically rigorous. I think some are, some are not, but all are instructive. You decide. You can always skip on to the section titled: Ideal Gas Law.
+
+We begin by demonstrating the equality of the kinetic energies of two different gases in equilibrium. For simplicity, both gases will be monatomic, meaning the “molecules” are really just individual atoms.
+
+When two atoms collide at modest temperatures, their collision is perfectly elastic, because individual atoms cannot readily absorb energy internally. As we said earlier, their energies are entirely kinetic. The nearest macroscopic analog is a collision between two absolutely rigid balls; if the balls cannot deform, there cannot be any dissipative losses.
+
+In V1p39-8, Feynman reasons that, regardless of the initial conditions, atomic collisions will eventually lead to an equilibrium in which atoms of both types have the same average kinetic energy. We will demonstrate this using the concept of the center of mass (CM) of two or more objects. While we have used the term before, we now require a precise definition. The momentum of the CM of N objects is the vector sum of the momenta of each object. The CM frame is the reference frame in which the CM momentum is zero — the frame in which the center of mass is stationary.
+
+When viewed in the center of mass of the collision of two atoms, the direction of the atoms’ recoil is randomly and uniformly distributed over all possible directions, and has no correlation to the atoms’ initial directions of motion. Over time, the collisions will randomize the directions of the atoms’ motion.
+
+All that goes by very quickly. The next section explains this more thoroughly for those wishing a better understanding. You can skip onward, but you will miss some good physics.
+
+Collision Kinematics in CM
+
+In our analyses, we will treat atoms as if they were Newtonian, tiny rigid billiard balls. Figure 15-2 shows a collision between two different atoms as viewed in their CM frame. The diagonal solid line is the axis of symmetry, which passes through the centers of both atoms and their point of contact. The symmetry axis is rotated from the incoming direction by the angle ø.
+
+Figure 15-2 Collision in Center of Mass
+
+Call the masses of the two atoms m₁ and m₂. The atoms’ velocities are defined to be u₁ and u₂ before the collision and v₁ and v₂ afterward.
+
+We will shortly show that the magnitude of each atom’s velocity, its speed, is the same before and after the collision. With that, we see the v’s are at the same angles to the axis of symmetry as are the u’s. Thus the scattering angle of each atom is: θ=π–2ø.
+
+Energy and momentum conservation require v₁=u₁ and v₂=u₂, as we now prove.
+
+m₁v₁ + m₂v₂ = p = 0 in CM v₁ = – v₂ m₂ / m₁
+
+m₁v₁²/2 + m₂v₂²/2 = E m₁(–v₂ m₂ / m₁)² + m₂v₂² = 2E v₂² m₂²/m₁ + m₂v₂² = 2E v₂² m₂ (1+m₂/m₁) = 2E v₂² = 2E / {m₂ (1+m₂/m₁)}
+
+v₁² = v₂² (–m₂/m₁)² = 2E /{m₁ (1+m₂/m₁) }
+
+Repeating the above derivation for the u’s produces exactly the same equations: u₂² = 2E / {m₂(1+m₂/m₁)} u₁² = u₂² (–m₂/m₁)² = 2E /{m₁(1+m₂/m₁) }
+
+These equations show that u₂=v₂ and u₁=v₁, and that the magnitudes of all these velocities are completely determined by the initial values of energy and mass.
+
+Now let’s consider the scattering angle. The left side of Figure 15-3 shows the effective cross-section of an oncoming atom, call it atom #1, as viewed by the other colliding atom, atom #2. If the atoms’ radii are r₁ and r₂, they will collide if their centers pass within r=r₁+r₂. We describe this by saying a collision occurs if atom #2’s center hits a circle of radius r centered on atom #1; πr² is the effective cross-section.
+
+Figure 15-3 Collision Cross Section
+
+Any point within the circle on the left side of the figure is equally likely to be the collision point. Consider the shaded portion of that circle, an annular ring, all of which lies in a narrow range of angles, ø±dø, relative to the velocity of atom #1, the horizontal axis. As we see, ø runs from 0 to π/2. This is the same angle ø as in Figure 15-2.
+
+On the right side of Figure 15-3, the surface area A of the sphere within the shaded region is the ring’s circumference times its arc length rdø.
+
+A = 2π(r sinφ)(r dφ)
+
+A = 2π r² sinφ dφ = –2π r² dcosφ 上述最后一步演示了一个重要结果：球面上一个环形区域的面积与dcosφ成正比。不要被负号困扰；对于dφ>0，dcosφ<0，而面积A是正的。
+
+A在左侧平面截面上的投影为Acosφ。现在定义Prob(θ)为碰撞导致散射角θ的概率。
+
+如图15-2所示，φ与总散射角θ的关系为：θ=π–2φ。这意味着θ的范围是0到π，是φ范围的两倍，并且角度微分之间的关系为dθ=–2dφ。
+
+碰撞发生在阴影区域内的概率是其投影面积除以完整的截面积，即： Prob(θ) dφ = 2π r² cosφ sinφ dφ / π r² Prob(θ) dφ = sin(2φ) dφ Prob(θ) dθ/(–2) = sin(π–θ) dθ/(–2)
+
+Prob(θ) dθ = sinθ dθ = –dcosθ 与之前一样，dcosθ与球面上角度θ和θ+dθ之间环形区域的表面积A成正比。
+
+这个方程表明，碰撞后原子穿过围绕碰撞点的球面上区域A的概率与A成正比，并且与散射角无关。这意味着球体表面的每平方微米被击中的概率都相同，并且每个散射角都是等可能的。
+
+这证实了先前的主张：原子在其质心系中的反冲方向与其原始方向无关——碰撞使原子运动的方向随机化。
+
+动能相等性接下来我们证明所有类型的原子都具有相同的平均动能。
+
+对于两个碰撞的原子，碰撞前速度分别为v₁和v₂，其质心速度v_CM为： v_CM (m₁ + m₂) = m₁ v₁ + m₂ v₂ 当达到平衡时，原子将沿所有方向以相等的概率运动。费曼指出，这意味着v_CM与原子的相对速度v₁–v₂不相关。因此，平均而言： 0 = < (v₁–v₂) • v_CM > 0 = < (v₁–v₂) • (m₁v₁ + m₂v₂) / (m₁+m₂) > 0 = < m₁v₁² – m₂v₂² + (v₁•v₂)(–m₁+m₂) > 在V1p39-9中，费曼论证说，在平衡状态下，碰撞原子的平均方向是不相关的，因此<v₁•v₂>=0。于是上述方程简化为： <m₁v₁²> = <m₂v₂²> 这意味着原子的平均动能相等。
+
+我并不完全信服。原子只有在相互接近时才会碰撞。在质心系中，定义x轴沿其接近线。这种情况下，两个原子的y和z速度均为零，它们的x速度符号相反。因此，在质心系中的每次原子碰撞中，v₁•v₂是负的。由于点积是不变量，在所有参考系和坐标系中<v₁•v₂>都是负的。在脚注中，费曼说他的陈述是正确的，但他的证明并不严谨，并补充道：“我们尚未找到这个结果的简单证明。” 一个更好的论证是考虑每一对原子（每种类型一个），无论它们当前是否涉及碰撞。我们仍然可以计算它们的v_CM和相对速度v₁–v₂，在平衡状态下它们仍然不相关。但现在，v₁和v₂本身也是不相关的，因此<v₁•v₂>=0，这证明两种类型原子的平均动能确实相等。
+
+让我补充一点评论，说明为什么如果v₁和v₂不相关，则<v₁•v₂>=0。如果我们随机选取两个分子，称为1和2，它们的速度点积几乎永远不会为零。它们必须恰好垂直才能有点积为零，而这永远不会发生。然而，我们在热力学和统计力学中关注的是数万亿个分子的整体平均。当我们对如此庞大的集合进行平均时，正负点积的数量会相等，因此可以确定所有配对的总和确实是无穷小的。
+
+由此我们有： < m₁v₁²/2 > = < m₂v₂²/2 > 根据我们的温度定义，这表明“平衡”意味着两种气体具有相同的温度，这正是我们所期望的。
+
+两种气体和一个活塞我们现在考虑一个系统，其中包含相同的两种单原子气体，但这次气体类型是分开的。
+
+图15-4显示了一个气缸，中间有一个可以自由左右移动的活塞。一种气体在活塞左侧，另一种气体在活塞右侧。
+
+图15-4 两种气体由活塞分隔假设左侧原子质量为m₁，右侧原子质量为m₂。
+
+如果活塞右侧的压力高于左侧，活塞将向左移动，从而升高左侧压力并降低右侧压力。最终，活塞将稳定在两侧压力相等的位置。
+
+在该平衡位置，设左侧原子的平均速度为v₁，右侧为v₂。
+
+我们还定义原子密度（N/V = 原子数除 divided by volume) to be $n_1$ on the left and $n_2$ on the right. Then from our prior gas pressure equation, we have: $P_{LEFT} = P_{RIGHT} = \frac{1}{3} \left( \frac{N}{V} \right) m \langle v^2 \rangle$ $\frac{1}{3} n_1 m \langle v_1^2 \rangle = \frac{1}{3} n_2 m \langle v_2^2 \rangle$ $n_1 \langle m v_1^2 / 2 \rangle = n_2 \langle m v_2^2 / 2 \rangle$ The quantities in $\langle \rangle$’s are the average kinetic energies of the two types of atoms. In addition to equalizing pressures, there is another condition that the gases must achieve to reach thermal equilibrium: the average kinetic energies of the separated gas types must become equal. Earlier we prove their energies are equal if the gases are in the same volume.
+
+In V1p39-9, Feynman provides three arguments for the equality of average kinetic energies of the separated gases. In his first argument, Feynman opens a hole in the piston that only the smaller right-side atoms can penetrate. The smaller atoms will switch sides at some rate and exchange energy with atoms on each side. Eventually, after enough border crossings, all atoms will have the same average kinetic energy. In his second argument, Feynman replaces the hole with a dumbbell with a universal joint in the middle and one large ball on each side, which penetrates the piston. As atoms strike the balls, the dumbbell transfers energy across the barrier, and equilibrium is eventually achieved. Both of these arguments require changing the setup, which seems to defeat the purpose of studying separated gases.
+
+His third argument is better. Feynman points out that, microscopically, even at equilibrium, the piston is not absolutely stationary, but rather continually jiggles as it is struck by one atom after another. If we treat the piston as one giant molecule, our earlier proof states that it must reach equilibrium with the gas to its left. If $x$ is its only allowed direction of motion, the piston’s $m v^2$ must equal the left-side gas’ $m v^2$. Similarly, it must be in equilibrium with the gas to its right. This can only be true if the left and right gases are also in equilibrium — having the same average kinetic energy. This last argument rests upon the idealization that the piston is an absolutely rigid body that can be treated as a single entity. More realistically, the piston is a collection of atoms that must eventually come into equilibrium with themselves and with the gas molecules bombarding them from both the left and right sides. At equilibrium, all these atoms must have the same average kinetic energies.
+
+Finally… After all that, we have demonstrated that at equilibrium: (1) $n_1 \langle m v_1^2 / 2 \rangle = n_2 \langle m v_2^2 / 2 \rangle$ (2) $\langle m v_1^2 / 2 \rangle = \langle m v_2^2 / 2 \rangle$ Hence, $n_1 = n_2$ — equal volumes of gas contain equal numbers of molecules (although we have only proved it for monatomic molecules, so far). We see that equilibrium is the state that a complex system eventually attains in which all of its parts have the same temperature and kinetic energy, on average.
+
+**Polyatomic Molecules** Let's now extend these derivations to polyatomic molecules. Consider a diatomic molecule comprised of atom A and atom B, and define their masses to be $m_A$ and $m_B$, with $M = m_A + m_B$. In V1p39-11, Feynman says that when a polyatomic molecule hits another molecule, “the only thing that counts is how fast [it is] moving.” During the collision, Feynman says the molecule’s interatomic bonds play no significant role. In calculating collision kinematics, we may therefore disregard the molecule’s internal motions: how the atoms are vibrating and rotating about the molecule’s center of mass. This is a simplifying assumption that is approximately true on average at modest temperatures.
+
+Let’s compute the diatomic molecule’s kinetic energy. We begin with the equation for its center of mass velocity: $v_{CM} = (m_A v_A + m_B v_B) / M$ $M^2 v_{CM}^2 = m_A^2 v_A^2 + m_B^2 v_B^2 + 2 m_A m_B (v_A \cdot v_B)$ $M^2 v_{CM}^2 = 3kT m_A + 3kT m_B + 2 m_A m_B (v_A \cdot v_B)$ $M^2 v_{CM}^2 = 3kT M + 2 m_A m_B (v_A \cdot v_B)$ $M v_{CM}^2 / 2 = 3kT/2 + (v_A \cdot v_B) (m_A m_B / M)$ We need to calculate $v_A \cdot v_B$. Using the same logic as before, the relative velocity between the two atoms in the molecule, $(v_A - v_B)$, is uncorrelated with the velocity of the molecule’s center of mass at equilibrium.
+
+$0 = \langle (v_A - v_B) \cdot v_{CM} \rangle$ $0 = \langle (v_A - v_B) \cdot (m_A v_A + m_B v_B)/M \rangle$ $0 = \langle m_A v_A^2 + (m_B - m_A)(v_A \cdot v_B) - m_B v_B^2 \rangle$ $0 = 3kT - 3kT + (m_B - m_A) \langle v_A \cdot v_B \rangle$ $0 = \langle v_A \cdot v_B \rangle$, if $m_B$ not equal to $m_A$
+
+This is an interesting result. I am surprised that the velocities of two bound atoms are not correlated — after all, they move together, bounce together off the piston, cylinder walls, and other molecules. But, they also move opposite to one another as they vibrate and rotate. Let’s divide their velocities into two components, $v_{COM}$ and $v_{OPP}$, their common and opposite motions respectively. Then: $0 = \langle v_A \cdot v_B \rangle = \langle (v_{COM} + v_{OPP}) \cdot (v_{COM} - v_{OPP}) \rangle$ $0 = v_{COM}^2 - v_{COM} \cdot v_{OPP} + v_{OPP} \cdot v_{COM} - v_{OPP}^2$ $v_{OPP}^2 = v_{COM}^2$ That says the atoms move as much in opposition as they move together, which I did not expect. Our derivation of $\langle v_A \cdot v_B \rangle = 0$ does not directly apply to H₂, N₂, O₂ or other homonuclear diatomic molecules where $m_A = m_B$.
+
+for homonuclear molecules with mA = mB. However, if we set mA = mB + dm, ⟨vA •vB⟩ equals zero for every nonzero dm, so the limit as dm goes to zero of ⟨vA •vB⟩ is indeed zero. Unless nature is discontinuous at dm=0, our result should apply to homonuclear molecules as well. Note however that sometimes nature is discontinuous: certain quantum behaviors arise only when two objects are exactly identical.
+
+Plugging ⟨vA •vB⟩ = 0 into our equation for the molecule’s kinetic energy yields: MCMv^2/2 = 3kT/2
+
+Hence the diatomic molecule, treated as a single entity, has the same average kinetic energy at equilibrium as does a monatomic molecule. But, if we treat the two bound atoms as separate entities, their total average kinetic energy would be 3kT, twice as much. That’s OK. A diatomic molecule’s total energy actually is 3kT, with half being the kinetic energy of the motion of the molecule as a whole, and the other half being the internal motions of its component atoms vibrating and rotating. Clearly we can extend this result to any polyatomic molecule.
+
+If a molecule has n atoms with masses mj and velocities vj, j = 1...n, the key equation above becomes: MCMv^2 = Σ {mjvj^2} + Σ { mjmk (vj•vk) } for all j≠k MCMv^2 = Σ {3kTmj} = 3kT M MCMv^2/2 = 3kT/2
+
+Note that the right hand sum in the first equation is over all non-equal values of j and k. Therefore, at equilibrium, the average kinetic energy of n-atom molecules are distributed as: kinetic energy of CM: 3 kT/2 internal motion energy: 3(n–1) kT/2 total kinetic energy: 3n kT/2
+
+Ideal Gas Law (V1p39-10)
+
+At the start of this chapter we showed: PV = (2/3) N ⟨mv^2/2⟩
+
+We can replace ⟨mv^2/2⟩ with 3/2 kT, yielding: PV = NkT
+
+This means that, at equal temperatures and pressures, equal volumes of gas contain the same number of molecules. We derived that just from Newton’s laws and the assumption that everything is made of atoms.
+
+For historical reasons, chemists prefer to measure quantities in moles, rather than the number of atoms or molecules. One mole is the number of atoms in 12 grams of carbon-12, which is Avogadro’s number N = 6.022×10^23. Chemists also define R = kN = 8.314 joules per mole-Kelvin. In those terms, the more common form of the equation is: PV = nRT
+
+Here n is the number of moles of gas. This is called the Ideal Gas law, the law for gases comprised of point-particles that interact only mechanically, without any chemical or nuclear reactions.
+
+## Chapter 15 Review: Key Ideas
+
+1. Equilibrium is the state that a complex system eventually attains in which all of its parts have the same temperature and kinetic energy, on average. All of the following statements assume equilibrium conditions.
+
+2. A gas containing N molecules in a volume V, exerts an omnidirectional pressure P, a force per unit area, given by: P = (2/3) (N / V) ⟨ mv^2/2 ⟩ Here ⟨ ⟩ denotes the average value per molecule.
+
+3. At equal temperature and pressure, equal volumes of different gases contain equal numbers of molecules.
+
+## 4. The principle of equipartition states that at temperature T:
+
+⟨ mv^2/2 ⟩ = kT/2 per degree of freedom Here, Boltzmann’s constant k = 1.38×10^–23 joules per Kelvin, temperature is measured in Kelvin (0K = absolute zero temperature; water normally melts at 273.15K and boils at 373.15K), and each independent motion constitutes one degree of freedom. For 3-D motion ⟨mv^2/2⟩ = 3kT/2.
+
+5. A gas molecule containing n atoms has, on average, a total kinetic energy of 3nkT/2, of which 3kT/2 is the kinetic energy of the motion of entire molecule’s center of mass, and 3(n–1)kT/2 is the kinetic energy of its internal motions: vibrations and rotations about its CM.
+
+6. In diatomic molecules, atoms move in opposite directions as much as in the same direction.
+
+7. Ideal gases are comprised of point-particles that interact only mechanically, without any chemical or nuclear reactions. The Ideal Gas Law is: PV = nRT = NkT Here, N is the number of molecules, n is the number of moles of gas, 1 mole = 6.022×10^23 molecules, and R = 8.314 joules per mole-Kelvin.
+
+8. Any change in pressure and/or volume in which no energy is dissipated (total work plus kinetic energy is constant), is called adiabatic. During adiabatic changes: PV^(γ –1) = Ŧ PV^γ is constant Here Ŧ is the total kinetic energy of the gas, and γ=5/3 for monatomic gases and γ=4/3 for light inside a star.
+
+## Chapter
+
+Statistical Mechanics We will continue discussing equilibrium conditions, that subset of phenomena that complex systems eventually attain when the average temperature and kinetic energy of all its parts have equalized. The laws of mechanics that apply specifically to equilibrium conditions are called statistical mechanics, the subject of this chapter.
+
+We have learned that, on average, the kinetic energy associated with each degree of freedom is: ⟨ m v^2 /2 ⟩ = kT /2
+
+Here, we will explore how much variation exists. For example, does every atom have exactly that energy? If not, how many have twice that ene Energy? We want to understand how molecules are distributed in space and in velocity. We will later discover that the velocity distribution is always the same, because collision kinematics is independent of external forces. But, let’s first examine spatial distributions. Consider the distribution of molecules in an artificial atmosphere that has the same force of gravity and temperature throughout. (This is not Earth’s atmosphere, which is colder at high elevations, and extremely hot at extremely high elevations.)
+
+Figure 16-1 illustrates a column of air of varying pressure, with a device suggested by Feynman to equalize temperatures. Figure 16-1 Pressure & Temperature Equalizer
+
+In Feynman’s scheme, large rigid balls are confined to a vertical tube. Balls at each end of the tube are exposed to air molecules that bounce against them. The balls also bounce against one another. Thus at equilibrium, all the balls and air molecules must reach the same temperature. (If you want to warm the upper atmosphere or cool your home, all you need is an insulated 20km-long tube.)
+
+Also as the figure indicates, air pressure changes with height. The pressure is P at height h and is P–dP at height h+dh, with both dP and dh being positive. We will consider the limit in which dh and dP become infinitesimal. The pressure difference dP supports the weight of the air between h and h+dh. Let’s see how that works. The pressure at any height is: P = (N / V) kT. Define µ(h) to be the molecular number density (number N divided by volume V) at height h. The pressure difference is then: dP = P(h) – P(h+dh) = [µ(h) – µ(h+dh)] kT = – [dµ/dh] dh kT.
+
+Now, what is the weight of the air between h and h+dh? Let m be the mass of one molecule. The number of molecules per unit area between h and h+dh equals µ(dh), the density multiplied by dh. The gravitational force per unit area pulling down on those molecules is: F / A = – g m µ dh. At equilibrium, the differential pressure dP pushing up must exactly balance the gravitational force pushing down: dP = – F / A. Therefore: –[dµ/dh] dh kT = –mg µ dh. This simplifies to: dµ/µ = – (mg / kT) dh.
+
+Now take the indefinite integral of both sides. ln(µ) = – (mg / kT) h + C. Thus, µ = µ₀ exp{– mgh / kT }. Above, µ₀ = eᶜ is an arbitrary constant from the indefinite integral, which we choose to equal the molecular number density at sea level, defined to be h=0. Since g and k are constants, the variable factors affecting the density distribution are mass, height, and temperature. As elevation increases at a fixed temperature, the density of molecules decreases exponentially, with heavier molecules decreasing faster than lighter ones.
+
+The lightest polyatomic gas is H₂, which is quite rare in our atmosphere, only about 1 part per million. Its low mass results in a very slow rate of density decline with increasing elevation. Its rarity is due in part to the extreme altitudes that hydrogen molecules can reach. From there, hydrogen easily drifts off into space. Argon-40 is the third most common gas in Earth’s atmosphere, at almost 1% abundance. At 20 times the mass of H₂ and 1.4 times the mass of N₂, Argon abundance drops rapidly with altitude.
+
+**Boltzmann’s Law**
+
+Let's examine again the exponent of the density distribution: –mgh/kT. Since we assumed g was constant, this exponent is equivalent to: – U / kT. Here, U=mgh is the gravitational potential energy of one molecule of mass m. This is in fact a general rule, more general than the equation we derived above. Let’s show this by redoing our derivation with more general assumptions.
+
+Let U(h) be the potential energy of one molecule at height h. The potential U could come from any conservative force, including the electrostatic force between charged bodies. In Chapter 10, we noted that Feynman said all fundamental forces are conservative. From U, we can calculate the force per unit area F/A. The force f per molecule is: f = –grad(U) = – dU/dh. And the number of molecules per unit area between h and h+dh is µ(dh) as before. If dU/dh is positive, F is negative and points downward. Thus: F / A = (–dU/dh) µ dh = – µ dU.
+
+From above, we can use the following general equations that are independent of the type of force: dP = – F / A and dP = dµ kT (since dP = [µ – (µ + dµ)]kT = – dµ kT, where dµ is the change in density). Combining the equations yields: dP = dµ kT = – F / A = – (– µ dU) = µ dU. Therefore: dµ kT = µ dU. Rearranging: dµ/µ = – dU / kT. Integrating: ln(µ) = – U/kT + C. So, µ = µ₀ exp{–U/kT}, which is Boltzmann’s law.
+
+**Solid, Liquid, or Gas**
+
+We can now tackle a more complex potential: the electrostatic potential between two molecules. Figure 16-2 illustrates the potential energy U(r) of two molecules as a function of their separation r. Figure 16-2 Molecular Potential Energy vs. Distance
+
+As we discussed in Chapter 9, atoms and molecules attract one another at moderate separations and repel one another at very small separations. Each type of molecular pairing has an optimal separation, labeled r in the figure, where the potential energy reaches a minimum. If we know U(r), we can use Boltzmann’s law to determine the distribution of separations among a large group of molecules.
+
+对于一对分子，记为j和k，其相互作用势能U(r_{jk})取决于它们的间距r_{jk}。对于由N个分子组成的系统，总势能U_N是所有分子对势能之和： U_N = Σ_{j<k} U(r_{jk})
+
+注意，我们必须对每一对j和k只求和一次；不应同时计入j=2, k=7和j=7, k=2。这是因为这对分子共享一个势能值。我们通过限制求和为j<k来实现这一点。
+
+每个U(r_{jk})都相当复杂，完全是量子力学描述的，但即使不了解这些复杂性，我们也可以描述一些一般特征。
+
+分子间距的最大概率密度将出现在最佳间距r_0处，此处U最为负值，这由玻尔兹曼定律决定： μ = μ_0 exp{–U/kT} 在r_0处的浓度程度取决于温度。如果kT远大于U（kT>>U），指数将接近零，在中等间距下指数项接近1。在高温下，没有特定的间距被强烈偏好，分子可以广泛分散。这就是物质的气态。
+
+对于kT<<U，指数项很大且为负，使得任何偏离最佳r_0的分子间距变得极其不可能。此时，分子几乎冻结在原位，其间距仅微小变化。这就是物质的固态。
+
+介于这两个极端之间的是物质的液态，此时大多数分子在大多数时间接近最佳间距，但存在一些偏差。
+
+当液体温度下降时，分子会聚集形成固体。当液体温度上升时，分子会更分散，并最终通过蒸发完全分离。
+
+虽然概述很简单，但细节决定成败：U(r_{jk})相当复杂。
+
+分子速度分布在本章开始，我们设定了寻找气体分子的空间和速度分布的目标。在讨论了空间分布之后，我们现在转向速度分布。
+
+考虑之前讨论的理想气体分子大气。由于我们假设该大气是等温的，即各处温度相同，因此分子的平均动能必须在每个高度都相同。
+
+在第15章中，我们证明了处于平衡状态的气体分子在每个自由度上具有相同的能量。对于等温气体，这意味着与沿x、y和z方向运动相关的动能是独立的，并且各处相同。因此，沿垂直轴（称为z）的速度分布在每个高度也必须相同。
+
+让我们暂停一下，讨论关于分布的旁注。在处理任何连续分布时，例如空气分子的垂直速度，要描述该分布，就需要确定每个无穷小速度范围内的分子数量，例如速度在v和v+dv之间的分子数。正如费曼在V1p40-5中所说，没有一个分子具有“恰好等于1.7962899173”米/秒的速度，但会有一些分子的速度在1.796和1.797之间。通过使用“恰好”一词，费曼意指在该长数字的最后一个“3”后面有无限多个零。这一点至关重要，因为仅匹配10位数字是很容易的。即使是中等体积的气体也包含万亿万亿个分子，其中某个分子的速度可能匹配24位数字的任何组合。
+
+定义f(v)dv为垂直速度在v和v+dv之间的分子比例。由于我们上面说速度分布在每个高度都相同，这意味着f(v)与高度无关：df/dz=0。我们知道高度分布，所以我们只需要一个将此与速度分布联系起来的关系。在V1p40-4中，费曼提出了一个巧妙的方法。
+
+暂时忽略分子碰撞。
+
+让我们专注于向上运动的分子（沿+z方向）。即使以1000公里/小时向上运动的分子也无法在一小时内达到1000公里的高度，因为地球引力会将它们向下拉。
+
+正如我们在第6章中发现的，所有这些分子都将遵循以下形式的抛物线路径： z(t) = h_0 + v_0 t – g t^2/2 其中，h_0和v_0是t=0时的高度和速度。
+
+一些通过z = h向上运动的分子将继续向上并穿过z = h+dh，但另一些则达不到，如图16-3所示。
+
+图16-3 受重力影响的空气分子运动对于一个在z = h处的分子要到达z = h+dh，其在z=h处的垂直速度v(h)必须至少为+u，其中： m u^2/2 = mg dh 向上的速度+u对应于分子将其势能增加到更高高度所需的最小动能。
+
+虽然所有向下运动的分子都可以无限期地继续向下运动，但由于重力，向上运动的分子具有有限的射程。这与我们之前推导数密度方程时发现的结果一致： n = n_0 exp{– mgh / kT} 该方程表明，在更高海拔处分子更少。
+
+evations. Note that µ does not depend on velocity.
+
+Since the height and velocity distributions are independent, we can write an equation for the fraction of molecules with any combination of velocity and height.
+
+Define: N(h,u) = µ(h) f(u)
+
+This equation says: N(h,u), the number of molecules at height h with vertical velocity u, equals µ(h), the number of molecules at height h, multiplied by f(u), the fraction of molecules with vertical velocity u.
+
+The number of molecules at z=h+dh with v=0 is: µ(h+dh) f(0)
+
+The number of molecules at z=h with v=u is: µ(h) f(u)
+
+From the analysis of the motion in Figure 16-3, those two numbers must be equal. Thus: µ(h+dh) f(0) = µ(h) f(u)
+
+f(u) / f(0) = µ(h+dh) / µ(h)
+
+f(u) / f(0) = exp{–mg(h+dh)/kT} / exp{–mgh/kT} f(u) / f(0) = exp{ –mg dh / kT} Using m u2/2 = mg dh yields: f(u) / f(0) = exp{– mu2 / 2kT} This equation says the number of molecules with v=u declines exponentially, with an exponent equal to –mu2/2kT. Since the right side of the last equation contains no height factor, the ratio is independent of height, consistent with the equality of average kinetic energy and velocity distributions at all heights.
+
+We eliminated consideration of collisions in this section to make the discussion simpler. But, let’s now restore collisions to our model; after all, we would not have pressure without them.
+
+We spoke of molecules moving along parabolic paths without interference. Clearly, real gases are not that simple. Yet, Feynman argues that our analysis holds even with collisions.
+
+Firstly, if dh is very small, much less than the molecules’ mean free path, the mean distance between collisions, very few molecules will suffer collisions while moving from z=h to z=h+dh. In the limit that dh goes to zero, none will suffer collisions.
+
+Secondly, in thermodynamics and statistical mechanics, we are not focused on what happens to a particular molecule, but rather what happens to an immense collection of molecules. Some fraction of molecules will have vertical velocity +u at z=h, and that same fraction will reach z=h+dh. Due to collisions, it may not be exactly the same molecules that traverse that entire path; some will be knocked off that path but others will be knocked onto that path. Collisions cannot change the velocity distribution because that is determined by the global temperature.
+
+Back to our velocity distribution: f(u) / f(0) = exp{– mu2 / 2kT} The value f(0) is in effect a normalization constant. For f(u) to be a true fraction, the sum of f(u) over the entire range of u, –∞ to +∞, must equals 1. That delightful integral is calculated at the end of this chapter. The result is: f(u) du = exp{–mu2/2kT} du √(m/2πkT)
+
+We now have the velocity distribution in the z-direction. Since motion in each dimension is independent, generalizing to 3-dimensions is straightforward: we just multiply three f(u)’s together, one for each axis.
+
+f(v) = (m/2πkT)3/2 exp{– [v2+v 2+v2] m/2kT} x y z f(v) = (m/2πkT)3/2 exp{– [v2] m / 2kT} In V1p40-6, Feynman points out that if this equation is restated in terms of momentum p and kinetic energy Ŧ it would then be valid relativistically as well.
+
+f(p) dp = (m/2πkT)3/2 exp{ –Ŧ / kT} dp It is remarkable that both distributions, position and momentum, have the same form: exp{– (energy) / kT} For the position distribution, we use the energy associated with position, potential energy; and for motion distribution, we use the energy associated with motion, kinetic energy.
+
+Normalizing the Velocity Distribution I promised to show you how to normalize velocity distribution: f(v) = f(0) exp{– mu2 / 2kT} by setting its integral from –∞ to +∞ equal to 1.
+
+To shorten the equations let: ß = m/2kT w = u √ß, so dw = du √ß We want to find f(0) from the equation: 1 = ∫ f(u) du = f(0) ∫ exp(–w2) dw / √ß One could look up this integral, or use the polar coordinate trick that we used before.
+
+{∫ exp(–w2)dw}2 = {∫exp(–x2)dx} {∫exp(–y2)dy} {∫ exp(–w2)dw}2 = ∫∫ exp(–x2–y2) dx dy Switching to polar coordinates: {∫ exp(–w2)dw}2 = ∫∫ exp(–r2) r dr dθ {∫ exp(–w2)dw}2 = 2π(–1/2) {exp(–r2)|∞} {∫ exp(–w2)dw}2 = –π {0 – 1} ∫ exp(–w2) dw = √π Putting this into our earlier equation yields: 1 = f(0) ∫ exp(–w2) dw / √ß 1 = f(0) √π / √ß f(0) = √(m/2πkT)
+
+## Chapter 16 Review: Key Ideas
+
+1. For an ideal gas in equilibrium, the position distribution and velocity distribution are completely independent. All of the following comments assume an ideal gas in equilibrium.
+
+2. The number density distribution µ(h) and velocity distribution f(v) for an isothermal atmosphere are: µ(h) = µ(0) exp{– mgh / kT} f(v) = f(0) exp{– mv2 / 2kT} Here, h is height, g is the acceleration of gravity, and m is the molecular mass.
+
+3. The equations for µ and f can be generalized. For any conservative force, we can replace mgh with potential energy U(x), yielding: µ(x) = µ(0) exp{–U(x)/kT} The form of the position distribution and the velocity distribution are the same: both are proportional to: exp{– Energy / kT}
+
+## Chapter
+
+Brownian Moti on In 1827, while using a microscope to observe pollen grains floating in a liquid, botanist Robert Brown noticed something peculiar: the grains were continually and erratically moving with no apparent cause.
+
+In V1p41-1, Feynman adds that Brown went to considerable effort to demonstrate that these tiny, mobile specks were not living organisms simply swimming in the liquid. He found a piece of quartz with water trapped inside. Looking inside the transparent quartz, he observed particles jittering in water that had been trapped for millions of years.
+
+This so called Brownian motion was eventually shown by Einstein to result from the random bombardment of the pollen grains by the liquid molecules with varying velocities and directions. An everyday analogy is a large beach ball erratically bouncing around a sports stadium. From across the stadium, we can see the ball’s chaotic motion, but not the individual, enthusiastic fans hitting it.
+
+From the previous two chapters, we know that, at equilibrium, each pollen grain’s average kinetic energy of linear motion (excluding the energy of internal vibration and rotation) is 3kT/2, equal to the average kinetic energy of the molecules of the liquid.
+
+Let’s do the math for a 1 micrometer-diameter pollen grain with the density of water at 300K (about room temperature): m = 5.2×10–13 g = 1g/cm3 × 4π/3 × 10–12cm3/8 kT = 300 × 1.38×10–23 joules (kg m2/s2)
+
+v2 = 3kT/2m = (1.2×10–20 / 1.0×10–15) m2/s2 v = 3.4 mm/s Since Brown could see a 1-micrometer pollen grain, he would certainly observe it moving 3400 of its diameters per second — provided it kept moving in a straight line for one second.
+
+The problem is that the pollen grains are hit so many times each second that they never seem to get very far. Exactly how far is a problem that Einstein solved, and which we will thoroughly examine later in this chapter.
+
+Before deriving equations for Brownian motion, let’s examine some other related macroscopic manifestations of chaotic atomic-level thermal motion. Rather than being rare, they in fact are everywhere.
+
+Figure 17-1 shows a galvanometer, a high-precision device for measuring angles of rotation. Here a laser beam enters from the bottom, reflects off a mirror hanging on a quartz fiber, and shines onto a scale at the right.
+
+Figure 17-1 Galvanometer Mirror Reflecting Laser Any slight rotation of the mirror is magnified by the laser’s lever arm, substantially changing the scale reading. The mirror is a harmonic oscillator similar to those we studied in Chapter 12.
+
+Here again we detect Brownian motion. Even in the absence of visible external forces, the mirror is not stationary. Collisions with air molecules ensure the mirror is at ambient temperature. For the degree of freedom of rotation about the quartz fiber, the mirror’s average kinetic energy and average potential energy both equal kT/2.
+
+We can calculate the angular range of the mirror’s oscillations from the equation for its potential energy. We note that for rotation angle θ, each part of the mirror deflects by an amount x=rθ, where r is that part’s distance from the axis of rotation.
+
+Let ω be the mirror’s natural frequency of oscillation. Although θ is the same for all parts of the mirror, x is not. So we need to calculate the average over time of the sum of the kinetic energies of each part. We assume each small part has mass m.
+
+kT/2 = < Σ {m ω2 x2 /2} > kT = ω2 < Σ {m r2 θ2} > kT = ω2 < θ2 Σ {m r2} > kT = ω2 <θ2> Σ {m r2} <θ2> = kT / (ω2 Σ {m r2})
+
+Above, we take ω2 outside the sum and time average because it is a constant. The angle θ must be time averaged, but it is the same for all mirror parts and can be taken out of the summation. In Feynman Simplified 1D, Chapter 40, we will identify Σ{m r2} as an object’s moment of inertia I, and explain its significance. The moment of inertia is a fixed characteristic of each object that can be taken out of the time average.
+
+In V1p41-2, Feynman raises the interesting question: how exactly does Brownian motion, the random thermal jittering of atoms, shake the mirror? How does the mirror get its kicks?
+
+The only elements of this setup are: air molecules, quartz fiber, the mirror itself, and the laser beam.
+
+We could find out experimentally by cooling each one separately, reducing the kT of that element, and then measuring the contribution of each element. But Feynman says the damping element is always the source of the Brownian motion jitters, as we will discuss further later. Here, the damping element is the quartz fiber.
+
+The next example of Brownian motion is Johnson noise in electrical circuits.
+
+Figure 17-2 shows a resonant circuit composed of a resistor R, capacitor C, and inductor L. The natural frequency of this harmonic oscillator is ω = 1/√(LC).
+
+Figure 17-2 Resonant Electrical Circuit If we strive to make the finest possible resonant circuit, one exquisitely sensitive to frequency ω, we must minimize R, since the resonance quality factor is Q = ωL/R, as we found in Chapter 13. In any real-world circuit, there will be some resistance, represented here by R, even though we would not deliberately put any in.
+
+How does Brownian motion affect our circuit?
+
+From Chapter 13, we know that the electrical equivalent of kinetic energy in our circuit is LI²/2, where I is current. Equating the thermal energy to the average kinetic energy, we can calculate the mean square noise voltage <V²>, using complex numbers for V and I.
+
+V = iωLI <V²> = ω²L²<I²> LI²/2 = kT/2 <V²> = (ω²L²)kT/L <V²> = ω²LkT Again, Feynman says the noise comes from the damping element: the resistance, represented in the figure by a single resistor R. Electrons in all material parts of any real circuit come into thermal equilibrium with their environment, just as all other matter does. Electrons jitter due to their thermal energy, creating tiny electric fields that erratically drive our resonant circuit, and making electrical noise with the mean square voltage <V²>.
+
+Random Walk & Brownian Motion We now return to Robert Brown’s jittering pollen grains, and ask how far, on average, a grain travels in time t.
+
+We estimated above that a pollen grain’s instantaneous velocity is 3.4mm/sec. Feynman notes in V1p41-8 that each molecule suffers 100 trillion collisions per second, in water at room temperature. The jerking motions we see must result from the rarest, highest energy impacts. We can imagine that a pollen grain moves along for a short time, is suddenly and randomly redirected by a forceful impact, and starts moving again, but now in a new direction.
+
+This situation is the same as the famous drunken sailor problem of mathematics. After far too many drinks, a sailor is thrown out of a bar at an ungodly hour, and tries to walk back to his ship. After each step, he falls, staggers to his feet, and starts again, but now in a random direction. The question is how far from the bar will he be, on average, after N steps?
+
+We assume the sailor is moving in only two dimensions, which we can analyze with polar coordinates.
+
+Let r be the distance from the bar and θ be the compass heading from the bar. In the complex number plane, let the jth step equal r_j exp(iθ_j). The total distance traveled after N steps R exp(iθ) is the vector sum of all those steps. Let’s calculate R, recalling that the magnitude of a complex number z equals √(zz*).
+
+R exp(iθ) = Σ_j {r_j exp(iθ_j)} R² = [Σ_j {r_j exp(iθ_j)}] × [Σ_k {r_k exp(–iθ_k)}]
+
+R² = Σ_{j=k} {r_j r_k} + Σ_{j≠k} {r_j r_k exp(iθ_j–iθ_k)} R² = Σ_j {r_j²} + Σ_{j≠k} {r_j r_k exp(iθ_j–iθ_k)} R² = Σ_j {r_j²} In the third line above, the left sum is over all j and k with k=j, and the right sum is over all j and k with k not equal to j.
+
+In the last step, we assumed the directions of the sailor's steps are uncorrelated, so that θ_j–θ_k is uniformly distributed over the range 0 to 2π. That makes the average value of exp(iθ_j–iθ_k) = 0. If r equals the mean step length, then: R² = N r² R = r√N The sailor’s mean square distance is proportional to N, his number of steps. If the sailor’s stride is 1 meter, he will be 10 meters from the bar after 100 steps, on average. By comparison, a sober person would have traveled 100 meters.
+
+Let’s get back to a pollen grain in liquid, and consider only its motion in the z-direction.
+
+The liquid presents a drag force, which can be quite complex. But at slow speeds, the drag force is often proportional to speed: F = –μ dz/dt The drag coefficient μ can be measured for the conditions of interest. The equation of motion (ma=F) of the pollen grain is therefore: m d²z/dt² = –μ dz/dt Since we expect a random walk result, like the drunken sailor problem, the quantity we are looking for is the rate of change of z²: d(z²)/dt = 2z dz/dt To evaluate this, multiply the equation of motion by z, and take its time average: < m z d²z/dt² > = < –μ z dz/dt > m < z d²z/dt² > = –μ < d(z²)/dt >/2 Next, we make the substitution: < z d²z/dt² > = < d[ (z dz/dt) ]/dt – (dz/dt)² > < z d²z/dt² > = d[< z v >]/dt – < v² > The middle term equals zero because the direction of velocity v is random and uncorrelated with position z, which means <zv>=0. Plugging that in yields: –m < v² > = –μ < d(z²)/dt >/2 < d(z²)/dt >/2 = m < v² >/μ = kT/μ < d(z²)/dt > = 2kT/μ < z² > = 2kTt/μ Since all three directions of space are equivalent, the mean squared distance is three times the mean squared z-distance, or: < R² > = 6kTt/μ This diffusion equation, developed by Einstein, was of great significance in the advancement of science. Its confirmation led to the universal acceptance of the atomic theory. This equation allowed, for the first time, measurements of the mass of atoms and hence the number of atoms per gram of various materials. This set the atomic scale and defined the values of Boltzmann’s constant k, Avogadro number, and the mole.
+
+## Chapter 17 Review: Key Ideas
+
+1. The thermal energies of atoms and subatomic particles drive their chaotic motion, leading to macroscopic consequences, includ In experiments with small moving objects, significant fluctuations arise from: Brownian motion; electrical circuit noise; and vibrations in sensitive instruments. Identifying and understanding these effects enabled the first ever measurements of the mass and density of atoms.
+
+## 2. At 300K (about room temperature):
+
+kT = 4.14×10⁻²¹ joules 1 joule = 1 kg m²/s² 3. In a random walk of N steps of length r in uncorrelated directions, the average distance R that a molecule reaches is: R = r √N 4. The mean square distance from its origin that a particle in chaotic motion reaches in time t is: < R² > = 6 kT t / µ Here, µ is the medium’s drag coefficient (F=–µ dz/dt).
+
+## Chapter
+
+Kinetic Theory at Equilibrium
+
+We will now explore the ramifications of our previous results concerning the spatial distribution of particles at equilibrium.
+
+In Chapter 16, we found that the probability of particles being at location x, where their potential energy is U(x), is proportional to: exp[ –U(x) / kT]
+
+Kinetic theory can reveal the general characteristics of many complex phenomena, although a detailed understanding often requires substantial additional knowledge. As such, kinetic theory can be a good starting point, particularly when dealing with mysterious new phenomena.
+
+In this chapter we will discuss: the evaporation of a liquid, the emission of electrons from a metal, and chemical reaction rates — quite a broad range of topics.
+
+Liquid Evaporation
+
+Imagine a sealed box at equilibrium partially filled with molecules in the liquid phase and partially filled with a vapor of the same type of molecules in the gas phase. Let n_V be the density of molecules in the vapor, and n_L be the density of molecules in the liquid. We wish to know the ratio of n_V to n_L for various conditions.
+
+From prior discussions, we know that the force between atoms is complicated. Figure 16-2 shows the potential energy U(r) of a pair of atoms in a molecule as a function of their separation r. The potential is very modest for large separations, and grows more negative (the attraction increases) as the atoms get closer. There is an optimal separation r₀ at which the potential energy is most negative.
+
+The binding energy of two objects is defined as the amount of work energy required to completely separate them. In this case, the binding energy of a pair of atoms equals minus their potential energy.
+
+In the liquid phase, molecules are close to r₀ and their binding energy, E_L, is close to the maximum possible value: –U(r₀).
+
+By comparison, the binding energy of molecules in the vapor, E_V, is very much smaller, since their separations are much larger.
+
+Let W be the work energy required to move a molecule from the liquid to the vapor phase; W equals the difference in binding energies of the two phases, which is very nearly equal to the binding energy of the liquid.
+
+In this case, Boltzmann’s law of population ratios, derived in Chapter 16, becomes: n_V / n_L = exp{–(E_L – E_V) / kT} = exp{–W / kT} In this chapter, we will explore several phenomena that are characterized by equations of this form, focusing on situations in which W>>kT. In those situations, the exponential dominates all else, allowing us to neglect complex details, thereby making the physics simpler.
+
+To demonstrate this, consider the following equation: Q = A exp{Z} dQ = dA exp{Z} + A dZ exp{Z} dQ/Q = dA/A + dZ Now, let Z=21 and compare the effects of a 1% change in A versus a 1% change in Z: for dA/A= 0.01, dQ/Q = 0.01 for dZ/Z = 0.01, dZ = 0.21, dQ/Q = 0.21 A change in Z is 21× more impactful than the same percentage change in A. It is much more important to properly understand Z than A. Or said another way, if we can correctly analyze Z, we will understand the dominant part of the process, even if our knowledge of A is sketchy.
+
+Let’s see how this works in a real situation with: n_V / n_L = exp{–W/kT} Imagine we start with W=21kT, which means: for W = 21 kT, n_V / n_L = 7.6 × 10⁻¹⁰ Now raise the temperature of the liquid by 10%, dropping W/kT to 18.9. The exponential becomes 8.2 times larger, so we might promptly claim the vapor density becomes 8.2 times larger. That would be approximately correct. We have ignored the possibility that the liquid might expand somewhat, lowering n_L, or that the vapor might expand, lowering n_V. Those effects are unlikely to be more than 10% changes, because they are proportional changes, unlike the exponential effect of changing W/kT.
+
+If we were designing a large-scale chemical factory, it would be very important to calculate all this very precisely. But since our interest is in understanding the fundamental laws of nature, we want to focus on key principles. In our case, small changes in n_V and n_L are not particularly interesting.
+
+The Boltzmann equation we used above is quite general. Let’s re-examine the liquid/vapor density ratio to see if it conforms to the general equation.
+
+Vapor molecules continually bombard the surface of the liquid. As they do, some will bounce back and remain in the gas phase and some will embed themselves into the liquid.
+
+The liquid. Let’s say the fraction of vapor molecules that hit the surface and condense into the liquid is C. At the same time, liquid molecules are colliding with one another and exchanging energy. Occasionally, one molecule attains enough kinetic energy to exit the liquid and enter the gas phase. To evaporate, a molecule’s kinetic energy must be at least W, and also it must be near the surface and moving upward. The exact conditions to exit the surface are complex; we will not deal with those here. Let’s just say that, of all the molecules that have kinetic energy at least W and hit quantum mechanics changes the coefficients, and indeed no one, to Feynman’s knowledge, has derived a completely satisfactory expression for the coefficients, due to many detailed complexities. For example, W might change with temperature, but this effect is nearly impossible to separate from uncertainties in the coefficients.
+
+We next apply the same ideas to another situation: atoms being ionized due to thermal motion. Imagine we fill a sealed box with a neutral gas — each atom has equal numbers of protons and electrons. We then heat the gas to a high temperature, increasing the molecules’ kinetic energies, and the frequency and vigor of their collisions.
+
+At a high enough temperature, electrons are occasionally knocked out of their atomic orbits and move independently within the box, forming an “electron gas.” The atoms that lose electrons are called ions.
+
+When the box and its contents have reached equilibrium, let n be the density of neutral atoms (number/volume), n_i be the density of ions, and n_e be the density of free electrons. Also we know n_i = n_e, because the creation of a free electron also creates an ion. (For simplicity, let's assume the number of atoms that have lost multiple electrons is negligible.)
+
+In this situation, what are the relationships between the densities of electrons, ions, and neutral atoms?
+
+The energy required to remove an electron from an atom is called the ionization energy. We’ll call it W for our gas. The rate at which neutral atoms ionize R is: R = n_0 C_i exp{–W/kT} Here the exponential is present because only those atoms with available energy W can ionize. The factor C_i describes details of the atoms and electrons, including their effective sizes, which do not concern us at the moment.
+
+The rate R of the reverse process, in which free electrons and ions combine to produce neutral atoms, has no exponential energy factor because no energy is required.
+
+R = n_i n_e C_N Again we have a C factor that describes volume factors. At equilibrium the ionization and neutralization rates must be equal, thus: n_i n_e C_N = n_0 C_i exp{–W/kT} n_i n_e / n_0 = (C_i/C_N) exp{–W/kT} This is the Saha equation.
+
+The factors in ( )'s that we are ignoring cannot be calculated properly with classical physics, since atoms and electrons are inherently quantum mechanical.
+
+One interesting aspect of the Saha equation is its volume dependence. The n’s are all number densities (N/V).
+
+What happens if we increase the gas volume by a factor of 100, while keeping the temperature constant?
+
+At first it seems each n becomes 100× smaller. But that would make the left side of the equation 100× smaller, while the right side remains constant. Since that is impossible, the answer lies elsewhere: the ionization fraction must also change.
+
+Define: N = total number of all atoms V = volume occupied by all atoms n = number density of all atoms = N /V f = n_i/n, fraction of ionized atoms Recalling that n_i=n_e, the Saha equation then becomes: (fn)^2 / (1–f)n = (C_i/C_N) exp{–W/kT} f^2 / (1–f) = (1/n) (C_i/C_N) exp{–W/kT} f^2 / (1–f) = (V/N) (C_i/C_N) exp{–W/kT}
+
+The left side of the last equation can become arbitrarily large for f close to 1. As gases become more dilute, V/N increases, and so does the ionization fraction f.
+
+Feynman says this helps explain why the tenuous gas of interstellar space is strongly ionized, even though its frigid temperature makes kT<<W. Collisions of gas, however infrequent in interstellar space, establish thermal equilibrium. On very rare occasions, collisions with other atoms and with ultraviolet photons, give some atoms enough energy to ionize. The ionization rate is extremely small, but not zero. The liberated electrons may roam the vast emptiness of space for very long times before finding an ion to recombine with, forming a neutral atom.
+
+Now we turn our attention to a chemical reaction: two reactants X and Y combining to form the compound XY. For each such reaction, there is a reverse reaction: XY dissociating into X and Y. This is very much the same problem as electrons and ions combining to form neutral atoms, which can also separate to form ions and free electrons. Let’s consider the reaction from the viewpoint of molecular collisions.
+
+Chemical reactions have an added twist: even if X and Y can form compound XY, they often need encouragement in the form of extra energy. If X and Y collide with a small relative velocity, they may just bounce off one another. Many chemical processes require high impact energy to activate the reaction. The required amount of extra energy depends on the details of X, Y, and XY. We will denote this activation energy A*.
+
+Figure 18-1 schematically illustrates the key points. The compound XY (bottom left) has a lower energy than the sum of the separated components X, Y (middle right). When X and Y come together forming XY, the reaction releases energy W. But X and Y can join only if their initial kinetic energy exceeds A*.
+
+图 18-1 反应物 X 与 Y 的能量与间距关系一个宏观的类比是：需要翻过一座山才能到达下方的山谷；W 是山谷相对于远方平原的深度，而 A* 是周围山丘的高度。
+
+我们可以用 n_X、n_Y 和 n_XY 分别表示 X、Y 和 XY 的密度来写反应速率。XY 的形成和解离速率是： 形成速率：n_X n_Y C_F exp{– A* / kT} 解离速率：n_XY C_D exp{– (A*+W) / kT} XY 解离所需的能量不仅包括其结合能 W，还包括活化能 A*。进入山谷需要翻越的山丘，离开山谷时也必须翻越。
+
+这些速率还包括了因子 C_F 和 C_D，它们考虑了分子尺寸和其他我们在此不关心的复杂细节。
+
+在平衡状态下，形成和解离的速率必须相等： n_X n_Y C_F exp{–A*/kT} = n_XY C_D exp{–(A*+W)/kT} 即 n_X n_Y / n_XY = (C_D / C_F) exp{–W/kT} 这意味着结合能 W 决定了 X、Y 和 XY 在平衡时的相对浓度，但其他因素，即活化能 A*，控制着反应速率。
+
+费曼指出，与恒定的 W 不同，A* 强烈依赖于许多环境因素。例如，如果 X 和 Y 能吸附在表面上，A* 可能会大大降低。不同类型的表面对 A* 的影响也不同。通常还存在特定的化学试剂，即催化剂，它们的存在通过大大降低 A* 来促进 XY 的形成。维持我们生命的大多数生化反应都依赖于这种称为酶的催化剂。
+
+费曼最后补充了一点关于化学反应的说明。由于 X 和 Y 必须强烈碰撞才能激活 XY 的形成，它们在碰撞中不能同时守恒能量和动量。同样，XY 解离成 X 和 Y 时也不能同时守恒能量和动量。
+
+自然界中实际发生的是，必须有第三个物体 Z 参与。X、Y 和 Z 发生碰撞，形成 XY，而 Z 带走了一些多余的能量：A*+W。类似地，XY 与 Z 发生高能碰撞，XY 解离，X、Y 和 Z 飞散开。
+
+这个额外的物体 Z 可以是几乎任何分子或任何表面。我们实际上应该在上面的反应速率中包含 n_Z，但由于它出现在每个方程中，最终的方程中会消去。
+
+## 第 18 章 复习：关键概念
+
+## 1. 许多处于热力学平衡的复杂系统都包含如下形式的方程：
+
+Q = A exp{–W/kT} 如果 W >> kT，指数项将主导整个方程。正确理解 W 能揭示许多关于系统动力学的特性，即使我们对 A 的理解有限。在下文中，A 代表一个过于复杂而无法计算的量。尽管如此，在以下每种情况下，我们都能成功地描述重要现象。
+
+## 2. 对于具有结合能 W 的液体/气体混合物，其分子数的平衡比为：
+
+气体/液体 = A exp{–W/kT}
+
+## 3. 对于电离分子和中性分子的气体混合物，电离能为 W，离子密度 n_I、自由电子密度 n_e 和中性原子密度 n_0 由萨哈方程给出：
+
+n_I n_e / n_0 = A exp{–W/kT}
+
+## 4. 对于化学反应 X+Y -> XY，结合能为 W，其平衡密度由下式控制：
+
+n_X n_Y / n_XY = A exp{–W/kT}
+
+## 5. 化学反应通常有一个活化能 A*，正反应和逆反应都必须克服它；这些反应速率正比于：
+
+X+Y -> XY：n_X n_Y exp{– A* / kT} XY -> X+Y：n_XY exp{– (A*+W) / kT}
+
+## 第 19 章
+
+平衡态附近的动力学理论我们已经发展了许多重要的方程来描述物质达到平衡后的状态。
+
+现在，我们将考虑接近平衡的情况——条件几乎均匀但并非完全均匀。这些情况包括一种物质在另一种物质中的扩散、电池中的电流、沉降、离心分离、分子扩散和热传导。
+
+在讨论不同物质如何彼此扩散之前，我们必须更多地了解平衡态下气体中的碰撞。
+
+平衡态下的碰撞（V1p43-1）
+
+气体中的每个分子都会经历与其他气体分子无尽的碰撞序列。令 J 为每个分子在时间 T 内平均发生的碰撞次数。在平衡态下，全局性质永不改变；在相同的温度和压力下，以及相同类型和数量的分子下，每秒钟的碰撞次数必须相同。因此，J 必须与 T 成正比。因此，其关系必须是这种形式： J = T / τ 这里，量 τ 是平均碰撞时间，即两次碰撞之间的平均时间。如果平均每秒每个分子被击中十亿次，那么 τ 就是 1 纳秒。
+
+当然，分子并不是完全同步于某个主时钟、恰好每纳秒碰撞一次。但即使是完全随机的事件，也有其平均发生率。由于分子没有时钟来记录时间，其概率…… ability of a collision must be the same at every instant of time. That probability is such that each molecule has an average time between collisions of τ, and the probability that any particular molecule M has a collision during any infinitesimal time interval dt is:
+
+Prob(M is hit during dt) = dt / τ
+
+Now define N(t) to be the number of molecules that have not had a collision between some starting time 0 and time t. Clearly N(t) decreases over time.
+
+The number of collisions in time dt suffered by a group of molecules equals their total number N(t) multiplied by dt/τ, the probability of an individual molecule colliding in dt. For dt so small that no molecule has two or more collisions, the number of collisions in dt equals the decrease in N(t) during time dt. Said another way: during dt, the number of molecules that have never collided decreases by the number that do collide.
+
+Number collisions in dt = N(t) dt / τ Change in un-collided in dt = N(t) – N(t+dt)
+
+N(t) – N(t+dt) = N(t) dt / τ –dt dN(t)/dt = N(t) dt / τ dN(t) / N(t) = – dt / τ
+
+Integrating over time, we get: ln{ N(t) } = – t / τ + C N(t) = exp{C} exp{–t / τ} = N exp{–t / τ}
+
+Hence, N(t), the number of un-collided gas molecules at time t, declines exponentially — yet another exponential relationship in nature. Here, C is the arbitrary integration constant that arises from every indefinite integral. We choose: exp{C} = N = N(0)
+
+N(0) is the number of un-collided gas molecules at time 0.
+
+The probability of any particular molecule M not being hit by time t is N(t) / N, or: Prob(M is not hit by time t) = exp{–t / τ}
+
+The exponential relationship ensures that the starting time t=0 is irrelevant. Whenever one starts, an exponential decay has exactly the same properties. Indeed, with an exponential, the average time to the next collision is the same regardless of how long it has been since the last collision. Molecules cannot record their Work. Consider a container filled with a gas of neutral molecules with a small admixture of ions, molecules with a nonzero net electric charge. Assume the gas is initially in equilibrium.
+
+At some moment, we switch on an electric field that pulls the ions to the right. If the ions were in a vacuum, they would simply accelerate to the right and strike the container wall. But in the midst of countless gas molecules, the ions suffer innumerable collisions along the way that limit their motion. Each ion starts accelerating to the right, but quickly collides with another molecule. That collision substantially changes the ion’s momentum, after which the ion starts accelerating again. This sequence might repeat trillions of times, until the ion finally reaches the container wall. The ion must inevitably reach the wall, but its journey is arduous.
+
+The situation described above, ions drifting through a neutral gas, is one example of a large class of important phenomena: “special particles” moving through less interesting “background particles”. Here, the ions are “special” and the neutral molecules are “background”. Special particles could be distinguished from background particles for almost any reason: different colors, different masses, different temperatures, different chemistries, different electric charges, and so forth.
+
+Using “special” and “background”, we will now explore this entire class of phenomena. While a complete analysis would have to address many complex details, kinetic theory provides an excellent general description of special particles moving through background particles.
+
+First, consider a gas of background particles at equilibrium, with a small admixture of special particles that are acted upon by a force F. (In the specific example above, the special particles are ions and the force is electric.) The motion of the special particles is a combination of: (1) the random walk of any gas particle; and (2) a gradual drift in response to F. While a special particle is drifting due to force F, it is not in equilibrium.
+
+Let’s assume the special particles have mean free path λ and mean collision time τ. Take the simplest case first: assume the velocities of the special particles are completely randomized by each collision. This might be realistic if the special particles are much less massive than the background particles. Since the starting velocity after each collision is random, those velocities will sum to zero after a great many collisions.
+
+What about the motion driven by F? If we randomly select one special particle at any given instant, it will have been accelerating for time τ since its last collision, with an acceleration of F/m, where m is the special particle's mass. The velocity of an average special particle at any arbitrary time equals the average drift velocity: v_DRIFT = F τ / m Feynman defines the special particles’ mobility μ so that: µ = τ / m v_DRIFT = µ F Feynman points out that one can quite easily get tangled in a Gordian Knot of confusing words. Another argument that sounds reasonable, and that appears in some textbooks, wrongly calculates that v_DRIFT = (1/2)Fτ/m. That argument goes: τ is the time since the last collision; the velocity started at 0 and increased to Fτ/m, so its average value during τ is half its final value. That argument is wrong: what we calculated above was the velocity of an average particle at an average time; no more averaging is appropriate.
+
+Recall that our derivation of v_DRIFT assumed each special particle started anew after each collision, moving in an initially random direction. While this could be true in some cases, it is not true generally. For example, special particles would hardly be affected by collisions with much less massive background particles; in the limit of zero-mass background particles, special particles would accelerate unimpeded all the way across the container.
+
+In general, collisions will deflect special particles to some degree. We can deal with this complication by imagining that any initial velocity is fully randomized after N collisions. Feynman states this is equivalent to replacing τ with Nτ, which then becomes the mean “forgetting time” rather than the mean collision time.
+
+Let’s go back to the specific example of an electric force acting on ions drifting through a gas of neutral molecules, as shown in Figure 19-2. Let the container have length b in the direction of the field, and cross sectional area A, making its volume bA.
+
+Figure 19-2 Ions (Open Circles) Drifting Through Gas of Neutral Molecules Assume the left and right ends of the container are electrical conductors with a potential difference of V volts, which means the electric field across the gas is: E=V/b. A charge q moving across the container will gain energy equal to: energy gain: q E b = q V The force exerted by field E on an ion with charge q equals qE, and the drift velocity is: v_DRIFT = µ F = µ q E = µ q V / b An electric current 电流是单位时间内通过某一点的电荷量。在很小的时间间隔 dt 内，所有位于收集电极附近距离为 (v·dt) 范围内的离子都将到达电极。
+
+漂移电流如果离子密度为 n，则在时间 dt 内该电极收集到的离子数为： i_DRIFT = n v dt A 其中 q 为单个离子的电荷量，电流 I 可表示为： I = q n v A I = q² n μ V A / b 由于电流与电压的关系遵循欧姆定律 V=IR，电离气体的有效电阻为： R = b / (q² n μ A)
+
+分子扩散现在考虑一种分子穿过另一种不同气体的扩散。假设初始状态为背景粒子处于平衡态。在时刻 0，我们在某一位置引入少量特殊气体粒子。这些特殊粒子通过扩散过程逐渐扩散到整个容器中。
+
+扩散是由气体粒子（包括特殊粒子和背景粒子）的随机碰撞驱动的。混合也可以由对流引起，即物质的整体输运：当大河注入海洋时，对流会将淡水输送到远海，之后才开始明显的混合。为简化问题，我们假设气体中不存在对流。
+
+我们希望了解特殊粒子穿过背景粒子的扩散速率。只有当特殊粒子密度在不同位置存在差异时，才会出现净流动。若等待系统达到平衡，特殊粒子密度将处处相等，净流动为零。
+
+考虑如图 19-3 所示的气体分子盒子。图中 x 轴为水平方向，在 x=0 处放置一个面积为 A 的垂直灰色平面。
+
+图 19-3 气体分子盒子定义特殊粒子密度为 n(x,y,z)。
+
+在无穷小时间 dt 内，沿 –x 方向通过 x=0 的特殊粒子净数量为： #沿–x方向在dt内通过的数量 = A D dt (dn/dx)
+
+其中 D 为待确定的扩散系数。
+
+以下为此方程提供简要解释。在时间 dt 内通过 x=0 的特殊粒子数量显然与 dt 和 A 成线性关系。D 是一个常数，包含了气体粒子的所有复杂特性。唯一能影响流动速率的其他因素是密度梯度 dn/dx。
+
+假设在 x=0 附近 dn/dx 为正，如图所示。这意味着在 x=0 附近，+x 侧的密度高于 –x 侧。+x 侧有更多随机运动的粒子可能跨越 x=0 向 –x 侧移动，而 –x 侧则较少向 +x 侧移动。因此，向 –x 侧的净流动应与 dn/dx 成正比。
+
+实际上，我们可以通过引入另一个元素来简化问题。（有时少即是多。）添加一个仅作用于特殊粒子的力 F。根据前述，特殊粒子的漂移速度为： v_DRIFT = μ F 设 F 沿 +x 方向，使特殊粒子向右跨越 x=0。在时间 dt 内跨越 x=0 的特殊粒子数为： #沿+x方向在dt内通过的数量 = n v_DRIFT dt = n μ F A dt 力 F 使特殊粒子向右侧集中，而扩散则使右侧过剩的粒子向左扩散。
+
+费曼指出应调整 F 使得特殊粒子净流动为零。但实际上，在任意 F 值下，系统最终都会达到无净流动的平衡态。较大的 F 会导致平衡时产生更大的密度梯度，但任何非零的 F 均能满足我们的目的。在平衡态下，跨越 x=0 的特殊粒子数在两个方向上相等，即： A D dt dn/dx = n μ F A dt dn/dx = n μ F / D 由于系统处于平衡状态，我们可以应用统计力学的玻尔兹曼方程：密度与 exp{–U/kT} 成正比，其中势能 U=–Fx。
+
+n(x,y,z) = n_0 exp{+Fx / kT} 对 x 求导： dn/dx = n_0 (F / kT) exp{+Fx / kT} 利用玻尔兹曼定律：n = n_0 exp{+Fx/kT}，可得： dn/dx = n F / kT 最后，将前面推导出的 dn/dx 表达式代入： n μ F / D = n F / kT μ / D = 1 / kT D = μ k T 因此，迁移率系数 μ 与扩散系数 D 密切相关。爱因斯坦是第一个建立这些扩散关系的人。
+
+热传导为结束本章，我们考虑气体在接近平衡态时的热传导。
+
+考虑一个初始处于平衡态的气体容器。某一时刻，我们开始加热容器顶部表面。选择顶部表面是为了避免处理上升暖气体的对流流动。这样我们就再次限于扩散问题。
+
+设 z 轴向上，Q 为通过水平面积 A 的热能量，κ 定义为热传导率： dQ/dt = – A κ dT/dz 根据上述相同逻辑，在时间 dt 内向下通过 A 的特殊粒子（热分子）数量为： #粒子向下通过A的数量 dQ = n A v dt Each such particle will carry incremental heat energy equal to the difference in average kinetic energy above and below A. The average kinetic energy equals paration that is shown in Figure 20-1. For oxygen at normal temperatures, the binding energy (–U) at the optimal separation r is much greater than kT. This means the interatomic separation in O molecules deviates 0 2 only slightly from r .
+
+Figure 20-1 Atomic Potential vs. Separation Near its minimum, the O potential is approximately parabolic. This nearly parabolic shape is true quite generally, as is easily shown.
+
+If a function f(x) has a minimum, we can define the x-axis so that x=0 at that minimum. We can then write f(x) and its derivative df/dx as the power series: f(x) = f + f x + f x2 + f x3 + … 0 1 2 3 df/dx = 0 + f + 2 f x + 3 f x2 + … 1 2 3 Since df/dx=0 at x=0, f must be zero, and the function f reduces to: f(x) = f + f x2 + … 0 2 For small x, the higher order terms are negligible and f(x) is approximately quadratic, like a parabola.
+
+The same logic applies to any function near its maximum.
+
+Let’s define: x = (separation between oxygen atoms) – r The potential energy U and interatomic force F then have the form of a harmonic oscillator: U = U(r ) + k x2 /2 F = – dU/dx = – k x O vibrates like a harmonic oscillator comprised of two tiny balls linked by a spring.
+
+Diatomic molecules also have rotational degrees of freedom as illustrated in Figure 20-2, which shows two rotational axes, both perpendicular to the interatomic bond axis.
+
+Figure 20-2 Internal Energy Modes of Diatomic Molecule For quantum mechanical reasons, a third rotational motion, spinning around the bond axis (the spring)
+
+is not normally an available degree of freedom; those rotation states have enormous energy barriers because nearly all the atom’s mass exists in an extremely small nucleus.
+
+In Chapter 12, we discovered that, on average, half of a one-dimensional harmonic oscillator’s total energy is kinetic and half is potential, which effectively counts as two degrees of freedom.
+
+All together then, a diatomic molecule can have up to 7 degrees of freedom: 3 for linear motion of its center of mass (CM); 2 for rotation about the axes shown above; and 2 for harmonic vibration along the bond (“spring”) axis.
+
+Above, we derived an equation for the specific heat ratio corresponding to D degrees of freedom.
+
+Let’s evaluate that for D=7.
+
+γ = 1 + 2 / D = (D+2) / D For D = 7: γ = 9 / 7 = 1.2857 The classically predicted value of γ is the same at all temperatures.
+
+But here we find a major discrepancy. Measured γ values of diatomic gases vary with temperature and often differ substantially from the prediction of 1.2857, as shown below:
+
+## 1.597 H at 92K
+
+## 1.410 H at 293K
+
+## 1.387 H at 673K
+
+## 1.318 H at 2273K
+
+## 1.450 O at 92K
+
+## 1.400 O at 293K
+
+## 1.394 O at 673K
+
+Our theory is wrong. It predicts no temperature variation, and cannot explain any of the measured values. Hydrogen, oxygen, and all other diatomic gases deviate from the predicted γ, particularly at low temperatures.
+
+In fact, its inability to explain the observed specific heat ratios was the first identified, major failure of classical physics, which Maxwell discovered in 1859.
+
+I believe no human beings are more skilled with mathematical duct tape than are theoretical physicists — if there is any way to plug a hole in a bad theory, they will find it.
+
+Adding more degrees of freedom seems easy, something any creative theorist could do. But that would only make the problem worse, because the predicted γ gets smaller as the number of degrees of freedom increases.
+
+Is it possible that diatomic molecules have fewer degrees of freedom than the number we can readily identify?
+
+Yes, actually that is possible, thanks to quantum mechanics. (When you need something weird, try quantum mechanics).
+
+James Jeans (1877 – 1946) suggested that certain degrees of freedom might be “frozen out” at low temperatures, where the predictions of classical physics are most in error.
+
+In the 20th century, quantum mechanics provided the answer: in bound systems, energy is quantized — only a few specific energy levels are permitted; in increasing order we can call these E, E, E, … 0 1 2 Quantization makes a critical difference. Classical physics says atoms can vibrate or rotate at any speed: rapidly if the temperature is high, and slowly if it is low. Quantum mechanics says atoms cannot vibrate or rotate extremely slowly; there are minimum energies for these motions. If the available energy is below those minimums, atoms cannot leave their ground states with energy E. If the energy available for rotation is less than E, the molecule cannot leave E and that degree of 1 0 freedom effectively does not exist.
+
+Quantum mechanics also provides an equation for how many atoms will be in E versus E versus E 0 1 2 …, call those population numbers n, n, n, … For the lowest two levels, that population equation is: 0 1 2 n = n exp{ –(E–E) / kT} 1 0 1 0 Thus at low temperatures, if the energy level difference for one type of motion (E–E) is large 1 0 compared with kT, the exponent will be large and negative. This means very few molecules will be in the E state, and even fewer in higher energy states. Almost all molecules will be in the lowest energy level, E, the ground state. Effectively, the degree of freedom for this type of motion is “frozen out”, unavailable due to the large energy barrier. This reduces the effective number of degrees of freedom and increases γ.
+
+Classical physics errs because it does not correctly describe the fundamental nature of atoms. The correct description came only in the 20th century with quantum mechanics.
+
+Newton’s laws are relatively few and their statements are relatively simple. Yet, they revealed a tremendous wealth of understanding of the natural world. Unfortunately, their limitations became progressively more apparent as scientific knowledge advanced.
+
+Energy levels are different in each type of molecule, and calculating them is often quite difficult. In general, vibration has a higher energy barrier than rotation.
+
+Figure 20-3 is a theoretical curve showing how γ can change with increasing temperatures. At very low temperatures, kT is much less than the energy barriers of both rotation and vibration, leaving only 3 degrees of freedom.
+
+Figure 20-3 Higher Temperature Opens Rotation and then Vibration
+
+At somewhat higher kT, the probability of rotation motion gradually increases, adding two more degrees of freedom. Finally at high kT, vibration becomes gradually possible, raising the number of degrees of freedom to 7.
+
+Note that the transitions in Figure 20-3 are smooth, as the exponential gradually allows ever more molecules to enter higher energy states, the effective number of degrees of freedom smoothly increases from 3 to 5 to 7. In the quantum realm, the effective number of degrees of freedom need not be an integer.
+
+Figure 20-4 illustrates the increase in available degrees of freedom with increasing temperatures for various diatomic gases.
+
+Figure 20-4 Deg. of Freedom for Various Gases and Temperatures
+
+Classical physics cannot explain any of the complexities of these curves.
+
+Black Body Radiation
+
+We now take on a more challenging problem: black body radiation, something that classical physics utterly fails to explain. This failure, more than anything else, drove the development of quantum mechanics.
+
+Black body radiation is the light emitted by charged particles due to their thermal energy. Since we have not yet addressed electromagnetic theory in detail, I will explain the physics without deriving or mathematically justifying each statement. A comprehensive presentation of electromagnetism begins in Feynman Simplified 2A.
+
+Any charged object that accelerates must radiate energy in the form of light. This is the origin of the light we see from lightening bolts, arc welders, spark plugs, and the Sun. In all these, electrons radiate light when accelerated. Electrons and protons in circular particle accelerators also radiate light, which in this case is called bremsstrahlung, German for “breaking rays.”
+
+Electrons are particularly strong emitters of radiation. The force exerted on a charged particle is proportional to the field strength and to the particle’s charge. The acceleration due to that force is: a=F/m (in Newtonian physics). Due to their much smaller masses, electrons accelerate 1836 times more than protons do in the same electromagnetic fields.
+
+In any material body, the thermal energy of loosely bound electrons causes them to move erratically and emit radiation. A red-hot burner cools off by radiating light, much of which is invisible to the human eye but is keenly felt on a nearby finger.
+
+A red-hot burner in open space is not in thermal equilibrium; it cools off through radiation. But a hot body in a sealed box will eventually reach equilibrium with the box and all its contents. If the inside surface of the box is mirrored, the radiation emitted by the hot body is reflected and eventually reabsorbed by the emitter. At equilibrium, the hot body emits and reabsorbs the same amount of heat energy every second.
+
+Feynman treats the jittering electrons as classical harmonic oscillators and calculates the light intensity I(ω)dω, the energy in an infinitesimal frequency band from ω to ω+dω, as: I(ω) dω = (ω/πc)2 kT dω. This is the Rayleigh–Jeans law of classical physics for black body radiation.
+
+Physicists use “black” to denote an object that reflects zero light. Most objects reflect some of the light striking their surface. Red objects preferentially reflect light with wavelengths we choose to call “red”, those between 750 and 620 nanometers. Just for fun, the wavelength ranges in nanometers of various colors are: 750-620: red; 620-590: orange; 590-570: yellow; 570-495: green; 495-450: blue; 450-380: violet.
+
+Black body radiation is not reflected light, but rather light that the body emits itself due to its heat energy. All bodies of any color emit black body radiation, but those that also reflect light are harder to analyze.
+
+Feynman stresses the simplicity of the Rayleigh–Jeans equation: it applies to all black bodies of any kind.
+
+Nothing in the equation depends on the atomic composition of what is radiating, how it radiates, or the electron’s mass or charge. Once equilibrium is reached, all that matters is the body’s temperature.
+
+It is a simple law, but it is completely and utterly wrong. At ever-higher frequencies, I(ω), the amount of radiated energy at ω, increases without limit. It goes to infinity as ω goes to infinity. This means if you strike a match, light a candle, or turn on a grill, you will release an infinite amount of energy and cremate the entire universe. The absurdity of this prediction of classical physics is called the “Ultraviolet Catastrophe”, with “ultraviolet” referring to its failure at high frequencies. Try as they might, physicists could not plug this hole with all the duct tape in Europe.
+
+Figure 20-5 compares the classical prediction with that of quantum mechanics, which correctly matches nature.
+
+Figure 20-5 Black Body Radiation Intensity vs. Frequency
+
+The Quantum Oscillator
+
+As the above figure shows, the classical prediction is approximately correct at low frequencies. You will recall that the classical theory of specific heats errs most at low temperatures, where kT is much less than the energy of atoms’ high frequency internal degrees of freedom. The “fix” for the classical theory seems linked to harmonic oscillations “freezing out” at frequencies corresponding to energies much above kT. Here, for black body radiation, classical physics again fails at high frequencies. Not surprisingly, physicists considered the possibility that electrons’ harmonic oscillation frequencies might also “freeze out” at energies much above kT.
+
+Experimentalists had carefully measured black body spectra at many different temperatures. Max Planck (1858 – 1947) managed to fit these measurements with an elegant function. He later developed a justification for this function, based on what Feynman calls “a very peculiar assumption.” The assumption was that harmonic oscillators can change their energy only in steps of ħω, where ħ (“h-bar”) is given by:
+
+h = 6.626×10–34 m² kg/s ħ = h/2π = 1.0546×10–34 m² kg/s
+
+Here, h is called Planck’s constant. Planck’s peculiar statement means oscillators cannot have any energy whatsoever, they can only have certain specific energies — their energy is quantized. This was the start of quantum mechanics, and the end of the reign of classical mechanics.
+
+Let’s see how Planck’s peculiar idea fixes black body radiation. We will not derive this here, but quantum mechanics shows that the allowed energy states of a harmonic oscillator are:
+
+E = (J+1/2) ħω, for J = 0, 1, 2, …
+
+Quantum mechanics also shows that the probability of an oscillator being in state J is proportional to: exp{ –E / kT}.
+
+The lowest energy ħω/2 is called the zero-point energy, the irreducible minimum energy that nature allows any oscillator to have. This minimum is due to the Heisenberg uncertainty principle. If an oscillator had zero energy, it would be stationary and its position and momentum would be absolutely determined, both with zero uncertainty, which would violate the uncertainty principle.
+
+Since particles radiate energy when they change energy states, and those changes are all integral multiples ħω, we can ignore zero-point energy in this discussion. The zero-point energy is omnipresent and does not represent a degree of freedom.
+
+Any substantial material body has trillions of harmonic oscillators, normally occupying various energy states. Let’s calculate their average energy, when they are at equilibrium with the atoms around them and with their black body radiation.
+
+Here is the calculation, with N_J being the number of oscillators in state J, and E_J being the energy of state J:
+
+N = Σ {N_J} E = Σ {E_J N_J}
+
+We will shorten the equations by defining: z = exp{–ħω / kT}.
+
+Also, recall that: Σ {z^J} = 1 / (1–z), for |z| < 1.
+
+Employing Planck’s equations for E_J and N_J, we have:
+
+N_J = N_0 z^J N = Σ {N_J} = N_0 Σ {z^J} N = N_0 / (1–z)
+
+E_J = J ħω E = Σ {E_J N_J} = N_0 ħω Σ {J z^J}
+
+This last sum is a bit tricky. It is listed in math books, but we can figure it out ourselves.
+
+Σ {J z^J} = 0 + z + 2z² + 3z³ + 4z⁴ + … = z (1 + z + z² + z³ + …)
+
++ z² (1 + z + z² + z³ + …)
+
++ z³ (1 + z + z² + z³ + …)
+
++ z⁴ (1 + z + z² + z³ + …)
+
+On each row above, the infinite series equals 1/(1–z). That leaves the infinite sum of rows:
+
+Σ {J z^J} = z (1 + z + z² + z³ + …) / (1–z)
+
+Σ {J z^J} = z / (1–z)²
+
+Thus: <E> = E / N <E> = N_0 ħω z (1–z)–² / [N_0 (1–z)–¹]
+
+<E> = ħω z / (1–z)
+
+<E> = ħω / (1/z – 1)
+
+<E> = ħω / (exp{+ħω / kT} – 1)
+
+The classical Rayleigh-Jeans equation, shown again below, assumes the average harmonic oscillator energy is kT. Quantum mechanics replaces that average energy with <E>.
+
+R-J: I(ω) = (ω/πc)² kT QM: I(ω) = ħω³ / [π²c² (exp{+ħω/kT} – 1)]
+
+Even though I(ω) has ω³ in the numerator, the denominator increases exponentially with ω, and exponentials trump polynomials. Hence at high frequencies, I(ω) approaches zero, limiting the energy emission, saving the universe from infinite energy.
+
+The universe from cremation, and saving physicists from the Ultraviolet Catastrophe.
+
+Theoretical predictions for black body radiation versus wavelength are compared in Figure 20-6. From left to right, are quantum curves for 5000K, 4000K, and 3000K, and the R-J curve for 5000K.
+
+Figure 20-6 Black Body Radiation Right: Classical Theory for 5000K Left: QM for 5000K, 4000K, and 3000K For light, wavelength = the speed of light c / frequency in Hertz. Hence, the horizontal axes of Figures 20-5 and 20-6 are reciprocals.
+
+The quantum curves very accurately match experimental measurements, and are quite different from the classical theory.
+
+Integrating Black Body Spectrum Planck’s spectrum I(ω)dω is the energy flow per unit area per unit time in the frequency range ω to ω+dω. To find the total energy ε flowing from a hot body per unit area per unit time, we integrate the Planck spectrum from ω=0 to ω=∞, using the substitution: x = ħω / kT ω = x kT / ħ I(ω) = ħω³ / [π²c² (exp{+ħω/kT} – 1)]
+
+I(x) = k³T³/(ħ²π²c²) x³ / (exp{x} – 1)
+
+ε = ∫ I(ω) dω = ∫ I(x) dx kT/ħ ε = (k⁴T⁴ / (ħ³ π² c²) ∫ x³ dx / (exp{x}–1)
+
+Feynman says the above integral equals π⁴/15. We prove this in the last section of Feynman Simplified 1D, Chapter 45.
+
+ε = [k⁴ T⁴ / (ħ³ π² c²)] π⁴/15 ε = k⁴ π² T⁴ / (15 ħ³ c²)
+
+By convention, we define σ: σ = k⁴ π² / (60 ħ³ c²)
+
+ε = 4 σ T⁴ This is remarkable: the radiation from a hot body is proportional to the fourth power of temperature. This even applies to the energy radiated by a star, or by the Earth. This relationship determines how much energy Earth receives from the Sun, what Earth’s temperature must be to radiate its heat, and which exoplanets might have liquid water.
+
+Dividing ε by 4 gives us the energy flowing out of a small hole in a hot box: σT⁴ per unit area per unit time. In V1p45-9, Feynman explains that we must divide by 2 twice. Once because only half the photons near the hole are moving outward, while the other half move inward. And again due to the photons’ incident angles; the projected size of a unit area averaged over all incident angles is 1/2.
+
+Einstein’s Laws of Radiation Planck’s concept is that atomic harmonic oscillators are quantized — their energies are restricted to a specific set of equally spaced levels E, where: E = (J+1/2) ħω, for J=0, 1, 2, … When their energies change from one allowed level to another, those changes must be integer multiples of ħω.
+
+This is a radical departure from classical physics, which allows oscillators, and all other motions, to have any kinetic energy and to change their energy by any amount whatsoever. In Planck’s view quantization applied to the oscillators themselves — to matter itself.
+
+In 1905, Einstein solved the mystery of the photoelectric effect by postulating that light was both a particle and a wave, a suggestion that was then nothing short of heresy. All physicists previously believed that waves and particles were two entirely distinct and incompatible phenomena.
+
+Einstein declared that light is comprised of individual particles, now called photons, consisting only of oscillating electric and magnetic fields. The energy of each photon is ħω, with ω being the oscillation frequency of its electric and magnetic fields.
+
+To Einstein, Planck’s concept made perfect sense. (In fact, it made even more sense to Einstein than it did to Planck.)
+
+Electron oscillators change their energy by emitting or absorbing light. Photons, like all other particles, come only in integer numbers; there is no such thing as 1.5 electrons or π photons. Hence, the energy that these oscillators can emit or absorb must be an integral multiple of ħω. That multiple is almost always 1.
+
+In 1916, Einstein went further and developed his laws of radiation.
+
+Consider an electron in an atom transitioning between two energy levels. Call the levels J and K, and let their energies be E_J and E_K, with E_K > E_J. Einstein said that if a photon, whose energy equals E_K – E_J, interacts with an atom in level J, that atom may absorb the photon and transition to level K. This process, Einstein said, proceeds at a rate that is proportional to the intensity of light (number of photons) and also proportional to some quantity B_JK that depends on the properties of atomic levels J and K.
+
+Einstein next sought to determine the rate of the opposite process: an electron in level K emits a photon of energy E_K – E_J, and drops to level J. Einstein argued that this opposite process results from two contributions.
+
+Firstly, even if isolated, the atom might emit a photon at a rate we will call A_KJ. This unforced process is called spontaneous emission, and is analogous to classical oscillators that cool by emitting black body radiation.
+
+The second process Einstein proposed was purely quantum mechanical. Prompted by the work of Satyendra Nath Bose, Einstein said the atom’s emission rate would be enhanced if other photons with exactly the same energy were present. This new process is called stimulated emission; its rate is p proportional to the light intensity and also proportional to a quantity B that depends on the properties of levels K and J.
+
+All that amounts to three processes: absorption, spontaneous emission, and stimulated emission. The rate of spontaneous emission is independent of light intensity, while the rates of the other two processes increase in proportion to the intensity of light of the right frequency.
+
+Define N_J and N_K to be the number of atoms in levels J and K, and let ω = (E_K – E_J)/ħ. The rate at which atoms absorb light and transition from J to K is: Rate J to K: N_J * B_JK * I(ω)
+
+While the rate at which atoms emit light and transition from K to J is: Rate K to J: N_K * [A_KJ + B_KJ * I(ω)]
+
+At equilibrium the two rates must be equal, and the populations of the two energy states must be in the usual Boltzmann ratio: N_J * B_JK * I(ω) = N_K * [A_KJ + B_KJ * I(ω)]
+
+N_K = N_J * exp{–(E_K – E_J)/kT} = N_J * exp{–ħω/kT} Combining these yields: N_J * B_JK * I(ω) = N_J * exp{–ħω/kT} * [A_KJ + B_KJ * I(ω)]
+
+B_JK * I(ω) * exp{+ħω/kT} = A_KJ + B_KJ * I(ω)
+
+B_JK * I(ω) * exp{+ħω/kT} – B_KJ * I(ω) = A_KJ I(ω) = A_KJ / [B_JK * exp{+ħω/kT} – B_KJ]
+
+Comparing this to Planck’s equation, I(ω) = ħω³ / {π²c² [exp(+ħω/kT) – 1]} Einstein determined the following relationships between absorption and emission parameters: B_JK = B_KJ A_KJ / B_KJ = ħω³ / (π² c²)
+
+This means the stimulated emission rate equals the absorption rate. Calculating A_KJ and B_KJ directly only became possible with the subsequent development of quantum electrodynamics.
+
+Einstein’s radiation laws are the basis for lasers. Typically, lasers take advantage of favorable relationships among three atomic energy levels, as illustrated in Figure 20-7.
+
+Figure 20-7: Electron Energy Levels in a Laser The sequence begins with an electron in an atom’s lowest energy state, the ground state. The electron absorbs a photon that enters from the right, elevating it to the highest energy level, the excited state. Typically, electrons in atoms very rapidly drop to the lowest unoccupied state. But, some transitions are slower than others due to angular momentum and related constraints. If a transition is particularly difficult, taking as long as millionths to thousandths of a second, the higher state is called metastable.
+
+In the above schematic, an electron drops rapidly from the excited state to the metastable state by emitting a photon, and then takes much longer to drop from there back down to the ground state. Lasers utilize transparent materials composed of identical atoms with the same energy levels. An intense flash of ordinary light drives large numbers of electrons in the material up to their excited states. A significant population of electrons persists in the metastable state for a useful time after the flash. The process, called pumping, produces a population inversion, a departure from the equilibrium condition.
+
+Over time, electrons in the metastable state randomly drop to their ground state and emit photons of exactly the same energy: ħω = (energy of metastable state) – (energy of ground state). Those photons stimulate other electrons to drop from their metastable states in other identical atoms.
+
+As more electrons drop and emit photons, the stimulative effect grows ever stronger. Soon, the number of photons grows exponentially, producing an intense beam of coherent photons, all in a common state of energy, direction, and spin: a laser beam.
+
+Figure 20-8: Electrons Drop, Emitting Laser Light
+
+## Chapter 20 Review: Key Ideas
+
+1. Newton’s laws are relatively few and their statements are relatively simple. Yet, they reveal a tremendous wealth of understanding of the natural world. Unfortunately, their limitations became progressively more apparent. Classical physics errs because it does not correctly describe the fundamental nature of atoms. The correct description came only in the 20th century with quantum mechanics.
+
+2. The specific heat ratio γ equals 1+2/D for D degrees of freedom. Classical physics predicts that diatomic molecules have D=7, which disagrees substantially with reality. Quantum theory explains why, at low temperatures, some degrees of freedom are “frozen out” due to quantization of atomic energy levels.
+
+3. An object is deemed “black” if it reflects none of the light that hits its surface. Objects that preferentially reflect light with wavelengths between 620 and 750 nanometers are called “red.” Black body radiation is the light emitted by any object due to its temperature.
+
+4. Classical physics has a definite prediction for the spectrum of black body radiation, the Rayleigh-Jeans law: I(ω) = (ω/πc)² kT, which completely fails to match nature and is utterly absurd. This failure is called the Ultraviolet Catastrophe.
+
+5. Planck launched quantum mechanics with an empirical solution to the black body problem: harmonic oscillators are quantized; their energies can change only in increments of ħω, where: h = 6.626×10⁻³⁴ m² kg/s ħ = h/2π = 1.0546×10⁻³⁴ m² kg/s Here, h is Planck’s constant. The allowed energy levels are therefore E_n = nħω, for integer n ≥ 0. This quantization successfully predicts the observed spectrum.
+
+The energies are: E = (J+1/2) ħω, for J = 0, 1, 2, … The probability of being in state J is proportional to exp(–E/kT).
+
+E = ħω/2 is the zero-point energy, the minimum energy nature allows any oscillator to have, due to the Heisenberg uncertainty principle.
+
+Planck’s black body spectrum is: I(ω) = ħω3 / [π2c2 (exp{+ħω/kT}–1)]
+
+6. Einstein discovered that the interaction of radiation with atoms entails three processes: absorption, spontaneous emission, and stimulated emission. The rate of spontaneous emission is independent of light intensity. Absorption and stimulated emission occur when light’s energy ħω exactly equals the energy difference between two available electron orbits, in which case the rates of these two processes are equal and proportional to the light intensity at frequency ω.
+
+## 7. Einstein's laws of radiation are the basis for lasers
+
+## Chapter
+
+Laws of Thermodynamics
+
+In the last several chapters, we have used kinetic theory at the atomic level to understand the macroscopic properties of matter in many different circumstances.
+
+For example, we discovered that gases exert pressure because their molecules are constantly in motion, bombarding one another and any confining surfaces. We found that heating a gas increases the velocities of its molecules, increasing the frequency and impact of their collisions. We also found that compressing a gas requires work energy, which converts into heat energy that raises the gas’ temperature and pressure.
+
+We derived equations for the relationships between pressure, volume, and temperature from atomic kinetic theory.
+
+But as Feynman says in V1p44-1, “instinctively one might guess that [pressure, volume, and temperature] are related in some necessary fashion which is independent of the details of the atomic-level collisions.” Finding those macroscopic relationships is our next objective.
+
+Feynman begins by discussing an interesting property of rubber: it heats when it is stretched, and cools when tension is released. Feynman says “our instincts might suggest that if we heat a rubber band it might pull: the fact that pulling a band heats it might imply that heating a band should cause it to contract.” This is indeed true; a heated rubber band does forcefully contract. It can even lift weights.
+
+Why rubber acts in this manner is quite complicated. Feynman says rubber is “molecular spaghetti”, an enormous tangle of long-chain molecules with cross-links between the chains.
+
+Stretching a rubber band, forces the chains to line up along the direction of tension. The molecules’ random thermal motions cause the chains to bang into one another side-to-side. These side impacts act to bend and twist the chains, having the effect of shortening them. The higher the rubber’s temperature, the greater this contracting effect. When tension is eventually released, the chains become pliable; impacting molecules lose energy (like a ball thrown against a pillow) and become colder.
+
+At this point, Feynman demonstrated a rubber-band machine: a bicycle wheel whose spokes are rubber bands and whose axle is supported, keeping the wheel entirely above the floor and able to turn freely. High-power heat lamps warm the bands on the wheel’s left side, causing those bands to contract and move the wheel’s center of mass to the right of the axle. The right side then drops, turning the wheel, moving the previously hot bands away from the lamps, and moving cooler bands toward the lamps. The sequence continues, with the wheel slowly rotating as long as the lamps are on.
+
+Feynman notes that the efficiency of this machine is quite low; 400 watts of electrical power produces a turning force barely able to lift a fly.
+
+While the atomic model lends insight into the properties of rubber, actually calculating these effects from the properties of the atoms themselves is extraordinarily challenging.
+
+But even without understanding the atomic-level machinery, it is possible to develop definite relationships for rubber, gases, and other macroscopic materials — with thermodynamics.
+
+Heat Engines
+
+The science of thermodynamics began with the efforts of Sadi Carnot (1796 – 1832) to build the most efficient heat engine. Feynman notes this is one of the few cases, to his knowledge, that engineering has advanced fundamental physical theory.
+
+The basic concept of a steam engine is: a burning fuel produces heat that boils water, creating steam that expands and pushes a piston that does mechanical work. The piston might turn a train’s wheels, lift river water to irrigate a field, turn a generator to produce electricity, or any number of other beneficial applications.
+
+Note however one key point: what we described above is not a complete cycle. To discover the whole story, we must consider the steam after it pushes the piston. We could vent it to the atmosphere, but that would be wasteful, losing both the water and its residual heat. It is better to run the steam through a condenser that cools it back into liquid water for reuse.
+
+Only By considering a full cycle can we comprehensively evaluate alternative designs, fluids, and fuels, to optimize performance. The results of thermodynamic studies are encapsulated into four laws, which for historical reasons are called the zeroth, first, second, and third laws. The zeroth law says that if systems A and B are each in thermodynamic equilibrium with system C, then A and B are in thermodynamic equilibrium with one another. This precludes system A from being in thermodynamic equilibrium with other systems at different temperatures. From everything that we have already learned about statistical mechanics, the zeroth law seems so obvious that Feynman does not even mention it, but I include it here for pedantic completeness. The first law is simply the conservation of energy in thermodynamic terms. The first law precludes systems that produce more energy than they consume, which are called perpetual motion machines of the first kind. If one adds heat Q to a system or exerts work W on that system, the system’s energy Ŧ (sometimes called its internal energy) increases by the sum of Q and W. In equation form: ΔŦ = Q + W. The other two laws require more extensive discussion.
+
+Second Law
+
+We know that if we do work against friction, such as dragging a heavy load, the work energy we expend is converted into heat. What about the reverse process: can we convert heat energy into work? A machine that would do that is called a perpetual motion machine of the second kind. The second law of thermodynamics says no such machine is possible in any closed system at one constant temperature. Conservation of energy does not preclude the conversion of heat into work energy, but the second law of thermodynamics does. Direct heat conversion would be extremely attractive. Imagine extracting heat from the oceans, mitigating the effects of global warming, while producing free energy. Heat conversion is possible only by utilizing temperature differences, which as we will see, defeats the whole purpose of many grand schemes. Heat conversion is not possible in any complete cycle that returns exactly to its starting conditions. Equivalently, one can state the second law as: heat cannot flow from a cold body to a hot one, unless driven by an energy source. Any device capable of moving heat energy from beer to coffee, cooling the beer while warming the coffee, must be plugged into an electric outlet. We will expand on the many implications of the second law in this chapter and others following. In any practical macroscopic system, the implications of the second law are even less encouraging, as we shall see.
+
+Reversible Heat Engines
+
+We discussed reversible lifting machines in Chapter 4. Now let’s consider reversible heat engines. By “heat engine” we mean any device that produces work energy by transferring heat between two or more thermal reservoirs. We will idealize the thermal reservoirs as having infinite heat capacity — their temperatures do not change regardless of how much heat is added to or taken from them. To produce work energy, the reservoirs must be at two different temperatures, T1 and T2, or else the second law of thermodynamics would be violated. Let T1>T2, let W be the work produced, and let Q1 and Q2 be the amounts of heat energy extracted from reservoir 1 and transferred to reservoir 2, respectively. If the internal energy of the heat engine does not change, energy conservation requires: W = Q1 – Q2. In analyzing lifting machines, we defined a “reversible” machine as a device that: (1) operates between two or more states; (2) operates equally well in forward or reverse, going from state B to state A as easily as going from A to B; and (3) operates without energy losses to friction or any other non-conservative force. Clearly, reversible machines are an idealization. For a heat engine to be reversible, there is yet one more utopian requirement: we can never allow two bodies with different temperatures to come in contact. As the second law states, heat flows from hot to cold, but never from cold to hot. If bodies with different temperatures come in contact, heat will flow irreversibly. In the case of reversible lifting machines, we imagine applying infinitesimal forces to move them either forward or backwards. Here also, we will imagine transferring heat with infinitesimal temperature differences that we can safely neglect in our analyses — another idealization. Let’s discover what we can learn with all these simplifying assumptions.
+
+Figure 21-1 shows a sequence of four steps in the operation of a reversible heat engine. The two thermal reservoirs are labeled T1 and T2, and a gas container with a piston shuttles between them.
+
+Figure 21-1 Step 1: Isothermal Expansion
+
+In Step 1, the gas is expanded isothermally at temperature T1, with heat Q1 transferring from the reservoir to the gas. We know that gases cool when expanded, so the key to ensuring reversibility is expanding the gas slowly enough that it its temperature never deviates appreciably from T. If it did, a hot body would be in contact with a colder body, making the operation irreversible.
+
+Step 2: Adiabatic Expansion In Step 2, with the container between thermal reservoirs, the gas expands adiabatically and cools to temperature T. No heat flows since the container is not in contact with the reservoirs.
+
+Step 3: Isothermal Compression When the gas cools to T, its container is placed on thermal reservoir 2, where, in Step 3, it is compressed isothermally, with heat Q transferring from the gas to the reservoir.
+
+Step 4: Adiabatic Compression In Step 4, with the container between reservoirs, the gas is compressed adiabatically until it reaches temperature T. It can then be placed back on reservoir 1 without temperature change or heat transfer, returning the reversible system back to its exact starting condition.
+
+Figure 21-2 is a graph of gas pressure versus volume through the sequence of four steps, with the shaded area being the work done. We are not requiring the gas to be an ideal gas, but if it were, the governing rules would be: PV is constant for isothermal steps 1 and 3 PVγ is constant for adiabatic steps 2 and 4
+
+Figure 21-2 Carnot Cycle Since the specific heat ratio γ is always > 1, pressure falls more rapidly with increasing volume during adiabatic expansion (Step 2: B to C) than isothermal expansion (Step 1: A to B). Conversely, pressure rises more rapidly during adiabatic compression (Step 4: D to A) than isothermal compression (Step 3: C to D). To maintain a constant temperature, the gas must absorb heat Q during Step 1, and must release heat Q during Step 3.
+
+Our 4-Step program brings the system back to its starting conditions. The cycle is reversible if the internal energy of the engine is unchanged. (One possible internal energy change is the piston becoming hotter.) If reversible, we could just as easily run the engine backwards, from A to D to C to B to A.
+
+It is easy to calculate the work done during one complete cycle. The work done by the gas is: W = ∫ P dV. This is the area under the curve in each Step.
+
+During expansion Steps 1 and 2, dV>0 and W is positive, meaning the gas does work on the piston. During compression Steps 3 and 4, dV<0 and W is negative, meaning the piston does work in the gas. The net work done by the gas, transferred through the piston to an external load, equals the area under the curves of Steps 1 and 2 minus the area under the curves of Steps 3 and 4. This net work is the shaded area between all the curves in Figure 21-2.
+
+Now, as in Chapter 4, we show that no heat engine can outperform a reversible heat engine, and that all reversible heat engines, regardless of their design, perform equally well. We measure performance by the efficiency ratio W/Q, the work produced divided by the heat extracted from the hotter reservoir.
+
+Again we use the logic of reductio ad absurdum: assume the opposite and prove that leads to an absurd conclusion.
+
+If heat engine X outperforms a reversible heat engine R, then for a complete cycle that extracts heat Q from a high temperature reservoir, the work X produces, WX, is greater than WR, the work R produces.
+
+Let’s run X through one complete cycle and run R through the same cycle but in reverse order. The total work produced is then W=WX –WR. (Because R is reversible, the work produced running R backwards is minus the work done running it forwards.) R running backwards delivers the same heat Q to the hotter reservoir that X extracted, hence no net heat was extracted from that reservoir. This means energy W was extracted from the colder reservoir at a single constant temperature. That violates the second law and is thus impossible. Hence no heat engine X of any design can outperform a reversible heat engine.
+
+Finally, if Y and R are both reversible heat engines, no engine can be better than Y and none can be better than R. Both conditions can be true only if they have the same performance.
+
+Efficiency of Reversible Heat Engine We now derive the equation for the efficiency (performance) of a reversible heat engine. We will show this first using the specific example of an ideal gas, for which we know the PV equations: Isothermal: PV = NkT Adiabatic: PVγ = constant
+
+Define the gas volumes at the start of each of the above four Steps to be VA, VB, VC, and VD, referring to the indicated points in Figure 21-2.
+
+In Step 1, heat Q is extracted from the hotter reservoir, while the gas volume grows isothermally from VA to VB. Hence, Q1, the work done by the gas in Step 1, is: W1 = Q1 = ∫ P dV = ∫ NkT dV / V W1 = Q1 = NkT ln(VB / VA)
+
+Similarly, in Step 3, the work done by the gas (now negative) is: –W3 = Q2 = NkT ln(VC / VD)
+
+In the adiabatic Steps 2 (B to C) and 4 (D to A): PVγ = constant (PV) V(γ–1) = constant (NkT) V(γ–1) = constant TV (γ–1) = TV (γ–1)
+
+1 B 2 C TV (γ–1) = TV (γ–1)
+
+2 D 1 A
+
+Multiplying the last two equations...
+
+ons yields: TV(γ–1) = TV(γ–1)
+
+## B            A
+
+TV(γ–1) = TV(γ–1)
+
+## D            C
+
+V V = V V
+
+## B D   A C
+
+V / V = V / V
+
+## B   A   C   D
+
+Plugging that into the equations for Q and Q: 1          2 Q / (NkT) = ln(V / V ) = Q / (NkT)
+
+1                B   A        2 Q / T = Q / T 1   1   2   2
+
+The net work done by a reversible heat engine during one complete cycle is: W = Q – Q 1   2 W = Q – Q T / T 1   2   1 W / Q = (T – T) / T 1     1   2     1
+
+The left side of the above equation is the performance efficiency we discussed earlier. We see that the efficiency of the best possible heat engine, a reversible one, equals the temperature difference between the two heat reservoirs divided by the temperature of the hotter one. We derived this for reversible heat engines using an ideal gas. But, since we also proved that all reversible heat engines have the same efficiency, this result applies to all reversible engines of any design whatsoever. This result also confirms the statement of the second law that no work can be produced from heat at a single constant temperature. Releasing work energy requires transferring heat energy from a hotter body to a colder one. By comparison, non-reversible heat engines have lower efficiency, producing less work from the same heat energy.
+
+In V1p44-8, Feynman presents a more general approach to deriving the same equation that assumes nothing about the gas or the engine design. We start by examining the array of three reversible heat engines (shown as white boxes) illustrated in Figure 21-3. These heat engines operate among three heat reservoirs (shown in gray) with T1 > T2 > T3.
+
+Figure 21-3 Heat Engines with T1>T2>T3
+
+Engine 1 extracts heat Q from reservoir 1 and delivers heat Q to reservoir 3, while producing work: 1                              3 W = Q – Q 13  1   3
+
+Engine 2, running backwards, extracts heat Q from reservoir 3 and delivers heat Q to reservoir 2, while producing negative work: 3                2 W = Q – Q < 0 32    3   2
+
+Finally, engine 3 extracts heat Q from reservoir 1 and delivers heat Q to reservoir 2, while producing work: 1                  2 W = Q – Q 12  1   2
+
+We see that the combined effect of engines 1 and 2 is to extract heat Q from reservoir 1 and deliver heat Q to reservoir 2, while producing work: 1                  2 W + W = (Q – Q) + (Q – Q)
+
+13    32     1   3       3   2 W + W = Q – Q = W 13    32   1   2   12
+
+The combination of engines 1 and 2 performs exactly as does engine 3. Feynman says this three-engine array demonstrates that we can establish relationships among different reversible heat engines operating between different temperatures. In particular, we can relate the operation of any reversible heat engine to the operation of one operating between any temperature T and some standard temperature, say 1K, one degree above absolute zero. For example, if reversible heat engine 1 extracts heat Q1 at temperature T1 and reversible engine 2 extracts Q2 at T2, and if both deliver heat Q3 at 1K, then there must be a reversible engine 3 that could extract heat Q1 at T1 and deliver Q2 at T2. This means we can characterize all reversible heat engines if we can determine how much heat Q a reversible heat engine must extract at temperature T in order to deliver heat Q1K at 1K. Since we have shown that all reversible heat engines have equal efficiency, this means that for all such engines operating between temperatures T and 1K: W = Q (T – 1K) / T (Q – Q1K) = Q (T – 1K) / T –Q1K = –Q 1K / T Q1K = T (Q / 1K)
+
+Thus Q1K is linearly proportional to T. Define the proportionality constant to be S, yielding: Q1K = S T
+
+For any two reversible heat engines extracting heat from reservoirs at different temperatures and delivering heat to a reservoir at 1K: Q1 / T1 = S = Q2 / T2
+
+S is called entropy and has the units of joules/degree. As the equation shows, there is no change in entropy in a complete cycle of any reversible heat engine. In V1p44-9, Feynman says this equation provides the best measure of temperature. When defined by this equation, T is called the absolute thermodynamic temperature, which Feynman adopts exclusively in all that follows. In the next chapter, we will discover that this new definition of temperature is equivalent to our previous definition in terms of the average kinetic energy of the molecules of an ideal monatomic gas: <mv2/2> = 3kT/2.
+
+Entropy V1p44-10 Entropy is one of the most complex concepts in physics. Entropy is related to disorder: hot gases have high entropy because their molecules have high kinetic energies and thus large chaotic random thermal motion. We will discuss different aspects of entropy as we proceed through this course. In this section, we discuss its technical definition. Feynman highlights the importance of certain global properties that characterize any substance. Global properties depend in part on intrinsic factors, atomic-level structure and composition, that are unchanged in processes of interest in thermodynamics. Global properties also depend on the substance’s current condition, principally its volume and temperature. Pressure is one such global property of a sub 一个由体积和温度决定的状态量： P = NkT/V，对于理想气体内动能是另一个由体积和温度决定的整体属性： τ = (γ–1)nVkT 回顾分子密度 n = N/V。
+
+我们现在将发现，熵 S 是另一个依赖于体积和温度的整体属性。
+
+考虑一个系统从状态 A 以可逆方式经历一系列温度和体积变化到达状态 B，如图 21-4 所示。图中圆圈代表温度库，方块代表可逆热机。
+
+图 21-4 系统从 A 到 B 的过程图中每个热机底部都连接到一个 1K 温度库。
+
+从任意 A 到任意 B 的任何路径都可以通过使用大量温度库和可逆热机可逆地实现。某种绝热或等温膨胀或压缩的组合将匹配曲线上每一点的斜率。
+
+根据路径上每一点所需的组合过程，系统向该点的热库传递热量 dQ；dQ 可以是正的或负的。然后热量 dQ 从该热库被提取出来，并通过一个产生或消耗功的可逆热机传递到 1K 热库，具体取决于 dQ 的符号。通过这种方案，上层热库没有净热量获得或损失；所有净热流都在系统和底部的 1K 热库之间进行。
+
+在路径 AB 的每一步中，传递到 1K 热库的熵为 dS = dQ/T，其中 T 是系统的温度。在无限多个无穷小步骤的极限情况下，传递到 1K 热库的总熵变为： S 的变化 = ∫ dQ / T 其中积分沿系统从 A 到 B 的路径进行。
+
+我们现在要问：这个积分是依赖于路径，还是只依赖于端点 A 和 B？
+
+当然，A 和 B 之间还有其他可逆路径（无限多个）；所有可逆路径的积分都相同吗？费曼说：是的。
+
+原因如下。考虑两条都从 A 到 B 的可逆路径 X 和 Y。设沿 X 的积分为 S_X，沿 Y 的积分为 S_Y。如果我们沿路径 X 从 A 到 B，然后沿路径 Y 从 B 到 A 反向走，我们就完成了一个闭合回路：X–Y 使系统在一个完整的可逆循环中回到其初始状态。围绕这个闭合回路的积分是 S_X – S_Y。
+
+由于系统和所有上层热库（图 21-4 中的圆圈）都回到了它们的初始状态，所有这些都没有净热流。这只剩下底部的 1K 热库。但热力学第二定律禁止从单一热库提取热能并将其转化为功。我们可以这样写： 沿 X–Y 路径的 ΔQ₁ₖ 不 > 0 因此，可逆闭合回路 X–Y 不能从 1K 热库中提取热量。同样的逻辑要求，沿相反方向遍历的相同回路 Y–X 也不能从 1K 热库中提取热量。这意味着： 沿 Y–X 路径的 ΔQ₁ₖ 不 > 0 由于当路径方向反转时 ΔQ₁ₖ 必须改变符号，这两个约束只留下一种可能性： ΔQ₁ₖ = 0 在 X–Y 和 Y–X 路径中，1K 热库都没有净热流。
+
+对于在恒定温度 1K 下的零净热流，我们围绕闭合回路 X–Y 的积分为： S_X – S_Y = ∫ dQ / 1K = ΔQ₁ₖ / 1K = 0 对于任何可逆路径 X 和 Y，S_X = S_Y 因此，积分必须只依赖于端点 A 和 B，而不依赖于它们之间所走的路径。
+
+因此我们可以写成： S 的变化 = ∫ dQ/T = S(B) – S(A)
+
+早些时候，我们计算了与等温（因而是可逆）体积变化相关的热量 Q： Q = NkT ln(V_B / V_A)
+
+对于这样的变化： S(B) – S(A) = Q / T = Nk ln(V_B / V_A)
+
+费曼在 V1p44-11 中指出，物理学家长期以来认为只有熵差在物理上有意义，绝对熵没有意义。然而，瓦尔特·能斯特（1864–1941）表明，任何系统在绝对零度（0K）时的熵达到最小值，一个容易确定的常数，对于最简单的物质，这个常数为零。
+
+能斯特定理也称为热力学第三定律。
+
+由于可逆绝热膨胀不涉及热量传递，熵不能改变，而 T 和 V 满足： T V^(γ–1) = 常数这意味着： ln(T) + (γ–1) ln(V) = 另一个常数这建立了熵的函数方程： S(V,T) = Nk { ln(V) – (γ–1)⁻¹ ln(T) } + C 常数 C 仅取决于物质的原子级特性，这些特性可以通过量子力学测量或计算，但我们在此不进行计算。
+
+在所有可逆完整循环中，总熵保持不变——考虑到系统及其所有相关的热库。在所有不可逆循环中，熵增加，尽管总能量保持不变，因为它总是如此。
+
+作为不可逆变化的一个例子，让我们考虑消耗功来推动物体克服摩擦力。功 W 被转化为热能 Q。如果物体的温度是 T，那么...
+
+change in the object's entropy is: ΔS = Q / T = W / T A second example of irreversible change is heat conduction between two bodies with different temperatures: T_HI and T_LO. An amount of heat Q flows from the hot body to the cold one. The hot body's entropy decreases by Q/T_HI while the cold body's entropy increases by Q/T_LO. The net total entropy change is: ΔS = + Q / T_LO – Q / T_HI ΔS = Q (T_HI – T_LO) / (T_HI T_LO) > 0 Reversibility is an idealization that assists our understanding. But, no macroscopic, real-world process is truly reversible; all real systems have some friction and temperature differences. Every macroscopic natural process results in some increase in entropy, some conversion of work energy into heat energy that can never again be reconverted into useful work energy.
+
+## Chapter 21 Review: Key Ideas
+
+1. The First law of thermodynamics is the conservation of energy: the heat energy Q added to a system plus the work energy W done on the system equals the increase in the system's internal energy U: Q + W = ΔU
+
+## 2. The Second law of thermodynamics states:
+
+(a) no process can have the sole net effect of converting heat into work; (b) a reversible heat engine can take heat Q₁ at temperature T₁, deliver heat Q₂ at T₂, and produce work W according to: W = Q₁ – Q₂ = Q₁ (T₁–T₂)/T₁; (c) no heat engine can outperform a reversible heat engine; (d) total entropy is unchanged in a reversible process; (e) total entropy increases in any irreversible process; (f) all macroscopic real-world processes are irreversible.
+
+3. The Third law of thermodynamics is: at absolute zero temperature, entropy reaches a minimum, a constant value that depends only on the atomic-level properties of the substance. When heat Q is added to a system at temperature T, its entropy increases by Q/T.
+
+## 4. Absolute thermodynamic temperature T is defined by:
+
+T = Q / ΔS 5. The Zeroth law of thermodynamics is: if two systems A and B are each in equilibrium with system C, then A and B are in equilibrium with one another.
+
+## Chapter
+
+Applications of Thermodynamics In V1p45-1, Feynman says thermodynamics can be confusing because: “there are so many different ways of describing the same thing.” One can say pressure is a function of temperature and volume. But, one can equally well say volume is a function of temperature and pressure. Adding internal energy and entropy multiplies the number of confusing combinations.
+
+Feynman chooses temperature and volume as the independent variables, using these as the inputs to equations for the other quantities, the dependent variables. Since this is somewhat unconventional, a restatement of major equations in the format familiar to chemists is at the end of this chapter.
+
+Partial Derivatives We need to introduce another mathematical concept from calculus: the partial derivative. No worries, it is actually simpler than the common derivative that we have been using since Chapter 6. Partial derivatives are important when there are two or more independent variables, as there are in thermodynamics.
+
+Consider the common (or normal) derivative of a function f with respect to time.
+
+f(x,y) = x² + xy df/dt = 2x dx/dt + y dx/dt + x dy/dt We need all these terms because, in general, both x and y vary. But sometimes we want to consider changes in f when y is constant and only x changes. Then we need the partial derivative with respect to x: ∂f/∂x = 2x + y When x is constant and y changes, take the partial derivative with respect to y: ∂f/∂y = x When there are more than two independent variables, ∂f/∂x means take the derivative of f with respect to x while holding all other variables constant — ∂f/∂x really is simpler than df/dx.
+
+What I just presented is the most common notation for partial derivatives used by mathematicians and physicists. Feynman adds a bit extra to help beginners remember the variable that is being held constant; he writes: (∂f/∂x)ᵧ for the partial derivative of f with respect to x, with y held constant. Since that little redundancy may be helpful, I will follow his lead for the rest of our study of thermodynamics. By then, you will probably find this redundancy annoying.
+
+Let's write out in full detail the change in f as both x and y change by the infinitesimal amounts dx and dy: df = f(x+dx,y+dy) – f(x,y)
+
+df = f(x+dx,y+dy) –f(x,y+dy) +f(x,y+dy) –f(x,y)
+
+df = dx (∂f/∂x)ᵧ + dy (∂f/∂y)ₓ
+
+Basic Equations of Thermodynamics Let's apply this to the thermodynamic internal kinetic energy U that is a function of volume V and temperature T: dU = dV (∂U/∂V)ₜ + dT (∂U/∂T)ᵥ The last partial derivative above is the called the specific heat at constant volume, and denoted C_V: C_V = (∂U/∂T)ᵥ In the last chapter, we extensively discussed how internal energy U changes with changes in heat Q and work W. At constant pressure, this is expressed: dU = dQ + dW = dQ – P dV Feynman cautions that while one might compare these three equations and identify pressure P with (∂U/∂V)ₜ, this would be incorrect. The reason is That the last equation assumes constant pressure while the first does not. One must be very careful to note what is allowed to change and what is not.
+
+In the last chapter, we discussed the 4-step Carnot cycle of a reversible heat engine. In a graph of pressure vs. volume, we found that the area enclosed by the four curves equals the work done by the gas during one complete cycle.
+
+Recall that curves AB and CD (Steps 1 and 3) are isothermal, governed by: PV = constant. Curves BC and DA (Steps 2 and 4) are adiabatic, governed by: PVγ = constant.
+
+Now consider the same 4-Step cycle, but with infinitesimal changes in pressure, volume, heat, and temperature. All curves become straight lines in the limit that their lengths become infinitesimally short, as illustrated in Figure 22-1.
+
+Figure 22-1 Infinitesimal Carnot Cycle
+
+In the infinitesimal limit, the four curves become two pairs of nearly parallel lines forming a parallelogram. The area of the parallelogram equals the area of the dotted rectangle, which equals dP×dV. This area is the work done by the gas. Let’s compare the slopes of the parallelogram’s sides by calculating their values of dP/dV.
+
+The slopes of the BC and DA lines are both given by the adiabatic rule: PVγ = constant P γ Vγ–1 dV + Vγ dP = 0 P γ dV + V dP = 0 dP/dV = – γ P / V
+
+The slopes of the AB and CD lines are both given by the isothermal rule, which is the same rule but with γ=1: dP/dV = – P / V
+
+From the last chapter, we know that the work W done by the gas is: W = Q (T–T) / T 1 2 1
+
+In the infinitesimal limit, this becomes: W = dQ (dT / T)
+
+Equating this with the area of the above parallelogram, we get: dP dV = dQ dT / T
+
+Note that dP is the height of the dotted rectangle; it is the pressure change at constant volume during the adiabatic step in which the temperature changes by dT.
+
+dP = dT (∂P/∂T)
+
+Therefore, we can replace dP and solve for dQ: dV dT (∂P/∂T) = dQ dT / T dV T (∂P/∂T) = dQ
+
+We can now put this expression for dQ into the equation for dŦ.
+
+(*) dŦ = dQ – P dV dŦ = dV T (∂P/∂T) – P dV (*) (∂Ŧ/∂V) = T (∂P/∂T) – P T V
+
+Feynman says the two (*)’d equations are: “the basic equations of thermodynamics from which all others can be deduced.” Don’t worry. I will not make you deduce them; all the equations are listed in the review sections.
+
+Applications
+
+From our study of kinetic theory, we know that increasing the temperature of a gas increases its pressure, due to its molecules’ increased rate and intensity of bombardment on the enclosure walls. And for the same underlying reasons, a gas cools when expanded without heat flow. We sought to find macroscopic equations that describe these phenomena without referencing the gas’ atomic-level properties. The (*)’d equations provide that description.
+
+Let’s see how these equations apply to something quite different from a gas: the rubber bands we discussed at the start of the last chapter. When a rubber band is stretched it gets warmer and attempts to contract. A heated rubber band will also forcefully contract.
+
+We can analyze it as follows: when heat dQ is added, the rubber band’s internal energy increases and work is done. The work W done by a rubber band of length L is: W = – F dL
+
+This corresponds to the gas equation: W = P dV
+
+If we replace P with –F, and replace V with L, we can apply the gas equations to the rubber band problem. This yields: dŦ = dQ + F dL dQ = –T (∂F/∂T) dL
+
+Here, (∂F/∂T) is the additional force required to maintain a constant rubber band length if its temperature increases slightly. Knowing that quantity, the last equation relates the energy change dQ associated with a change in length at any specific temperature.
+
+We can also describe a battery with voltage V and current I=dq. The work done by a reversible battery, such as an ideal storage battery, is: W = V dq
+
+Substituting V for P and q for V, we get: dŦ/dq = T (∂V/∂T) – V
+
+This equation tells us that the internal energy of the battery decreases due to the work it does on the external electrical circuit but increases due to its internal heating. The internal heating is determined by the rate at which the battery’s voltage increases with temperature for a constant charge. When current flows through a battery, chemical reactions occur. Feynman suggests a “nifty” way of measuring the reaction energy: measure the rate of voltage change with temperature when no current flows.
+
+Equivalence of Temperature Definitions
+
+Feynman next shows that our two definitions of temperature are equivalent.
+
+Consider an ideal gas for which the internal energy Ŧ depends on temperature T, not on volume V. This means (∂Ŧ/∂V) =0, since Ŧ does not change at constant T. Our basic equation simplifies to: T (∂P/∂T) – P = (∂Ŧ/∂V)
+
+V T T (∂P/∂T) – P = 0
+
+Now, let’s hold V constant and write ) at the end of each equation to remind us of that. At constant V, the partial derivatives can be replaced by common derivatives.
+
+T dP/dT = P )
+
+dP/P = dT/T )
+
+ln(P) = ln(T) + C )
+
+(Eqn 1): P = T C )
+
+Above, C is an arbitrary integration con that defines the meaning of “one degree.” Since N, k, and V are all constants in this case, the last equation is consistent with our familiar ideal gas law: (Eqn 2): P = T (Nk / V). Feynman notes that the T in (Eqn 1) comes from our generalized thermodynamic equations based on the absolute thermodynamic temperature scale defined by Q=ST, whereas the T in (Eqn 2) is based on the temperature definition of kinetic theory: <mv²/2> = 3kT/2. We have just shown that these two definitions are equivalent for an ideal gas. Since we can use the temperature of an ideal gas to measure the temperature of anything with which it is in equilibrium, the equivalence of the two temperature definitions extends to all substances.
+
+Clausius-Clapeyron Equation
+
+Consider a volatile liquid/vapor mixture held at constant temperature T inside a container with a piston that adjusts its volume. Let’s select a substance other than water whose characteristics are wonderfully atypical, as discussed in Chapter 1. If the mixture is sufficiently compressed, all of the vapor will condense into liquid. If the mixture is sufficiently expanded, all the liquid will evaporate into vapor. In between these extremes, varying amounts of vapor and liquid will coexist.
+
+Figure 22-2 graphs the substance’s pressure P vs. volume V for two isothermal conditions: the solid curve is for temperature T; and the dashed curve is for the infinitesimally lower temperature T–dT. The vertical dotted lines indicate: V_L, the greatest volume at which the system is entirely liquid; and V_G, the least volume at which the system is entirely gaseous. The gray parallelogram represents a Carnot cycle that we will define shortly.
+
+Let’s begin on the left, where volume V is very small. The very steep slopes of both curves reflect the limited compressibility of liquids. As we slowly increase V at constant temperature T, the system moves along the upper, solid curve. At V=V_L, molecules in the liquid begin evaporating into the gas phase. For a large range of V, the liquid and vapor phases are in equilibrium at a constant pressure, the vapor pressure of this substance at temperature T. At this P and T, molecules evaporate into the gas and condense back into the liquid at the same rate, regardless of gas volume. When V has increased to V_G, all the liquid has evaporated. The system is then entirely in the gas phase, governed by the usual isothermal rule: PV=constant.
+
+If we repeat that process at the infinitesimally lower temperature T–dT, the system moves along the lower, dashed curve, and goes through the same sequence of phase changes. In each case, the pressure at each phase transition will be slightly lower at the lower temperature. This is because atoms have less kinetic energy at lower temperatures.
+
+We now define a reversible Carnot cycle operating between T and T–dT and between the volume limits V_L on the left and V_G on the right, where the system transitions to all liquid and all gas, respectively. This cycle closely tracks the perimeter of the shaded parallelogram in the figure; the cycle deviates slightly from the parallelogram at each end, but that error is small and becomes negligible in the limit that dT goes to zero.
+
+From our earlier studies, we know that the work W done by the liquid/vapor mixture is related to the heat Q transferred from T to T–dT, according to: W = Q (T – [T–dT]) / T = Q dT / T. We also know that the work W equals the area of the parallelogram, which is: W = width × height. W = (V_G – V_L) × (∂P /∂T)_VAP dT. Here, the height is the change in vapor pressure due to the change in temperature dT. Combining these two equations for W yields: Q dT / T = (V_G – V_L) (∂P /∂T)_VAP dT, so Q / [T (V_G – V_L)] = ∂P /∂T.
+
+This equation, deduced by Carnot but named after Rudolf Clausius and Benoit Clapeyron, relates Q, the heat required to evaporate a liquid, to the temperature dependence of its vapor pressure. Usually, when a liquid evaporates its volume becomes vastly larger. This means V_G >> V_L and (V_G – V_L) is nearly equal to NkT/P, which reduces our equation to: Q / [T (NkT/P)] = ∂P/∂T, so dP / P = (Q / Nk) dT / T², which integrates to ln(P) = (Q / Nk) (–1/T) + C, or P = exp{C} exp{–Q / NkT}. Here, C is an integration constant. This also assumes Q is not a function of temperature, which Feynman says is a poor assumption.
+
+We can compare this equation to the prediction of kinetic theory, while recalling that kinetic theory gives only approximate results, due our incomplete atomic-level knowledge of vaporization and condensation. Kinetic theory says the population of the gas phase is proportional to: exp{ –(U_G – U_L) / NkT}. Since Q is the heat energy required to convert the entire system from liquid to gas phase, it nicely matches (U_G – U_L), the total internal energy of the system in the gas phase U_G minus that in the liquid phase U_L. Feynman emphasizes the advantages and disadvantages...
+
+advantages of thermodynamics versus kinetic theory, as highlighted by these equations. Firstly, he says the thermodynamic equation is exact while the kinetic equation is approximate. Secondly, the thermodynamic equation does not depend on the precise mechanism of evaporation or condensation. Conversely, in those situations in which we can precisely understand the atomic-level phenomena, kinetic theory yields a precise result with all the correct constants, whereas the thermodynamic equation is a differential equation resulting in arbitrary integration constants.
+
+In V1p45-7, Feynman says: "When [detailed] knowledge is weak, and the situation is complicated, thermodynamic relations are really the most powerful. When the situation is very simple and a theoretical analysis can be made, then it is better to try to get more information from [kinetic theory]."
+
+Black Body Radiation In Chapter 15, we derived the equation for the pressure of light: PV = E/3, where E is the total energy of all photons. Now, let’s combine that with what we have learned in this chapter, and find what more we can say about black body radiation inside a hot box. Use the equation for (∂U/∂V) with total kinetic energy U = E = 3PV.
+
+(∂U/∂V) = T (∂P/∂T) – P T V 3P = T (∂P/∂T) – P 4P = T (∂P/∂T)
+
+Since our box has a constant volume, we can replace the partial derivatives with normal derivatives.
+
+4P = T (dP/dT)
+
+dP/P = 4 dT/T ln(P) = 4 ln(T)
+
+P = C T⁴ for some constant C This is consistent with the result we obtained in Chapter 20, and illustrates again the pros and cons of thermodynamics versus kinetic theory. Thermodynamics obtains the above result with much less effort but is unable to calculate the integration constant C. Kinetic theory obtains the exact equation, including the constant, but at much greater effort.
+
+Equations in Chemical Notation Chemists and others prefer to use pressure P and temperature T as the two independent thermodynamic variables. For solids and liquids, volume is harder to control than pressure. We can easily change independent variables by noting that: d(PV) = P dV + V dP Now combine this identity with the internal energy equation.
+
+d(U) = dQ – P dV d(U+PV) = (dQ–P dV) + P dV+ V dP d(U+PV) = dQ + V dP d(H) = dQ + V dP Here, enthalpy H = U + PV. To convert from Feynman’s equations, in which T and V are the independent variables, to chemists’ equations, in which T and P are the independent variables, make these substitutions: U goes to H P goes to –V V goes to P In chemists’ formulation, the two basic equations of thermodynamics are: dH = dQ + V dP (∂H/∂P) = –T (∂V/∂T) + V T P
+
+## Chapter 22 Review: Key Ideas
+
+1. Partial derivatives are useful when dealing with multiple independent variables; ∂f/∂x is the change in f when only x changes. For example: f = x² + xy ∂f/∂x = 2x+y ∂f/∂y = x Feynman adds an extra ( ) to denote that y does not change in (∂f/∂x) .
+
+y y Partial derivatives are related to normal derivatives by: df = dx (∂f/dx) + dy (∂f/∂y)
+
+y x 2. The basic equations of thermodynamics, from which Feynman says all else is easily derived, are: dU = dQ – P dV (∂U/∂V) = T (∂P/∂T) – P T V 3. The above equations can be adapted to many applications. For a rubber band of length L: work = – F dL Substituting –F for P, and L for V, yields the basic equations for rubber bands: dU = dQ + F dL dQ = –T (∂F/∂T) dL For a battery with voltage V and current I=dq, substitute V for P and q for V: dU/dq = T (∂V/∂T) – V 4. The Clausius-Clapeyron equation relates the heat Q required to evaporate a liquid to the volume of its gas and liquid phases, V_G and V_L, and to the temperature dependence of its vapor pressure: Q / [T (V_G –V_L)] = ∂P /∂T VAP 5. Feynman emphasizes the advantages and disadvantages of thermodynamics versus kinetic theory: when detailed knowledge is weak, thermodynamics is more powerful, and when detailed knowledge is complete, kinetic theory is best.
+
+## Chapter
+
+Irreversibility & Entropy In this chapter we delve deeper into the complexities of irreversibility and entropy. We begin with the famous Ratchet & Pawl thought experiment, conceived by Feynman, which demonstrates the futility of attempting to defeat the second law of thermodynamics. From our prior analyses of Carnot cycles and reversibility, we discovered two firm constraints imposed by the laws of thermodynamics. The first is that even the best possible heat engines are limited in their ability to extract work energy by moving heat from hot objects to cold ones. The second is that work energy cannot be extracted from heat in a complete cycle at a single constant temperature.
+
+In V1p46-1, Feynman explains how these constraints arise from fundamental principles.
+
+Ratchet & Pawl Machine Figure 23-1 presents views from the left side, front, and right side of a ratchet and pawl machine. This device is designed to attempt to extract work energy from heat alone, contrary to the second law. Figure 23-1 Ratchet & Pawl Machine It contains two gas volumes at temperatures T_H and T_C, wit an axle running between them. In volume 1, gas molecules bombard vanes attached to the axle. In volume 2, a ratchet and pawl permit the axle to rotate in only the clockwise direction, which winds a rope, thereby lifting a weight. We define ø to be the axle rotation angle that corresponds to one gear tooth: for a ratchet with n teeth, ø=2π/n. When a vane is hit with sufficient force in the clockwise sense, the axle turns and the ratchet lifts the pawl. After the axle rotates angle ø, a spring pulls the pawl back into the locked position. When a vane is hit in the counterclockwise sense, the pawl prevents the axle from turning.
+
+The kinetic energies of hot gas molecules in volume 1 exert torques on the axle, with equal frequency in both clockwise and counterclockwise directions. But due to the ratchet and pawl, the axle turns only clockwise.
+
+This device seems capable of converting heat energy into work energy: hot gas in volume 1 turns the axle and lifts a weight. The gas temperature in volume 2 seems irrelevant, and we can choose T2=T1. Everything is then at a single temperature, and the device appears to violate the second law of thermodynamics.
+
+But closer examination reveals hidden complexities in this seemingly simple device, particularly regarding the pawl.
+
+To prevent counterclockwise rotation, the pawl must be forcefully returned to the locking position. Our design uses a spring for that purpose, but gravity or any other return mechanism would result in the same ultimate conclusion.
+
+If the return process were completely elastic, the pawl would continually bounce up and down, defeating its purpose. Hence the pawl’s return must be inelastic, which creates a critical problem.
+
+When the axle rotates clockwise, work energy is required to lift the pawl and stretch its spring. Since the pawl's return is inelastic, that work energy is lost each time the pawl snaps back. This lost work energy is converted into heat energy, warming the pawl, the ratchet, and the gas in volume 2. Eventually the pawl’s temperature rises so much that its random thermal motion occasionally lifts it out of the locking position, allowing the axle to rotate backwards and lower the weight.
+
+Quantitatively, let ε be the energy required to lift the pawl out of the locked position and stretch its spring. Boltzmann’s law says the probability of gas molecules in volume 1 transferring energy ε to a vane and rotating the axle equals exp{–ε/kT1}, while the probability that the pawl has enough thermal energy ε to spontaneously unlock itself equals exp{–ε/kT2}.
+
+Hence, when T2=T1, the ratchet turns clockwise as often as it turns counterclockwise, on average, and no net progress is made lifting the weight. Despite the clever design, our machine does no useful work.
+
+The second law holds.
+
+Ratchet & Pawl Engine
+
+In V1p46-2, Feynman takes us up a notch. Let's start the ratchet and pawl machine with T2<T1, making the pawl colder than the gas striking the vanes.
+
+The vanes will attain the energy ε required for clockwise rotation much more often than the pawl attains energy ε allowing counterclockwise rotation. The machine will therefore spin clockwise, raising the weight, as designed.
+
+Our question is: how much weight can it lift and at what speed?
+
+Let the torque exerted by the weight be τ. Rotating clockwise an angle ø, corresponding to one gear tooth, requires energy τø to lift the weight plus energy ε to lift the pawl. That total energy, ε+τø, must equal Q1, the heat energy extracted from the gas in volume 1 at temperature T1. The probability of attaining that energy is exp{–Q1/kT1}. After rotating by angle ø, the pawl snaps back to the locked position, and energy ε is converted into heat, warming the pawl, ratchet, and gas in volume 2. We write this: Clockwise rotation: +ø W = τ ø, lifts weight ε + W = Q1, taken from volume 1 at T1 Prob(+ø) = exp{–Q1 / kT1} ε = Q2 warms pawl, ratchet, and gas in volume 2
+
+What about counterclockwise rotation?
+
+This occurs if the pawl attains a thermal energy of ε, which has probability exp{–ε/kT2}. The energy released by this rotation equals ε+τø, as both the pawl and weight drop. But this time, perhaps surprisingly, the energy goes into volume 1. Let’s see why.
+
+As shown in the magnified image in Figure 23-2, as the spring pulls the pawl downward and presses it against the gear tooth, the ratchet acts as an inclined plane. This forces the ratchet to rotate backwards, counterclockwise.
+
+Figure 23-2 Pawl Rotating Ratchet Counterclockwise
+
+At the same time, the weight’s torque is turning the axle counterclockwise, forcefully sweeping the vanes through the gas in volume 1, increasing the kinetic energy of those molecules. All the energy released, ε+τø, is converted into heat energy in volume 1. We write this: Counterclockwise rotation: –ø W = τ ø, released by weight ε = Q2, taken from volume 2 at T2 Prob(–ø) = exp{–ε / kT2} ε + τ ø = Q1, warms gas in volume 1
+
+For a weight whose torque τ makes the two rotat When the transition probabilities are equal, we have: (ε + W) / T₁ = ε / T₂ yielding both of the following: T₂ / T₁ = Q₂ / Q₁ (T₁ – T₂) / T₁ = W / Q₁ The latter is the equation for a reversible heat engine, which matches our implicit assumption that our device operates without friction or other such losses.
+
+Now consider what happens if T₂ > T₁. Surprisingly, this makes the machine run backwards. The hot pawl oscillates vigorously. If it lands at the edge of a gear tooth, nothing happens. But if it lands on the long smooth side of a gear tooth, it pushes the ratchet backwards, transferring heat energy from the hotter volume 2 to the colder volume 1. The machine, so cleverly conceived to run forward and lift the weight, will instead vigorously do exactly the opposite.
+
+Next, let’s operate our machine at non-equilibrium conditions, where the probabilities of clockwise and counterclockwise rotation are not equal, and where thermodynamics does not apply. Here, Feynman assumes T₁ = T₂ = T. While he does not say so, this requires energy from an external source, making the machine no longer a closed system. The clockwise angular velocity ω = dθ/dt is proportional to the difference in rotation probabilities.
+
+ω ~ exp{–(ε+τθ) / kT} – exp{–ε / kT} ω ~ exp{–ε / kT} [exp{–τθ / kT} – 1]
+
+Figure 23-3 plots ω as a function of torque τ. Here, a clockwise rotation lifts the weight, which means a positive torque from the weight pulling down seeks to drive the machine backwards, counterclockwise. A negative torque, as would result from winding the weight's rope around the axle in the opposite direction, seeks to drive the machine forward, clockwise.
+
+We see that positive torques result in moderate backwards (counterclockwise) rotation, contrary to the machine’s intended objective. This sharply contrasts with the exponential effect of large negative torques, driving the machine forward (clockwise) at very high speed.
+
+A rectifier is an electrical analogy of the above machine, with an electric field taking the role of the weight and electric current taking the role of angular velocity. Like the ratchet and pawl machine, an electrical rectifier responds very asymmetrically to its driver, a weight for the former and a voltage for the latter.
+
+**Maxwell’s Demon** In 1867, Maxwell suggested a hypothetical demon with the same objective as Feynman’s ratchet and pawl. An initially homogeneous gas is divided by a wall into a left half and a right half. Maxwell’s demon guards a trap door in the wall separating the two gas volumes. The demon opens his door to high-energy molecules moving left and low-energy molecules moving right. After some time, the left side has a higher average energy and temperature than the right side. As this continues, heat flows from cold to hot, in violation of the second law.
+
+A less magical version of Maxwell’s suggestion is a hinged door, closed by a spring, which opens only when struck by a high-energy particle moving left. The resolution of this apparent paradox is that the energy needed to open the door diminishes the energy of the leftward-moving particle that struck it. While that particle does move into the left gas volume, its post-collision energy is only average. Additionally, such collisions warm the door, making it open erratically, and mixing the gases.
+
+**Reversibility of Nature’s Laws** We found above that, without a driving torque and without temperature differences, our ratchet and pawl machine will not rotate preferentially in either direction.
+
+In V1p46-4, Feynman suggests there is a deeper principle of physics at work: time reversal symmetry. Time reversal symmetry basically means that what can happen, can also un-happen. This basic principle of nature applies to almost all phenomena. One exception: I know of no way to un-fail a physics exam. Let’s pursue other alternatives.
+
+Recall Newton’s famous equation: F=ma. Since acceleration is the second time derivative of position, it is unchanged if we reverse the polarity of time: replacing t by –t.
+
+a = d²x/dt² = d²x/d(–t)² If the right side of F=ma is unchanged by reversing time, so too must the left side. And indeed, in mechanics, the fundamental forces are all functions of objects’ positions: the variable t is absent.
+
+Even in the most complex situations, an object’s position can be written as a polynomial with time as the independent variable. (Taylor’s theorem says any smooth function can be so represented.) Picking the x-axis as an example, the Taylor series for x(t) is an infinite sum over n: x(t) = Σ tⁿ dⁿx(0)/dtⁿ / n!
+
+Here dⁿx(0)/dtⁿ is the nth-order time derivative of x evaluated at x=0, and n! is n factorial = 1×2×…×n. The n=0 term is simply x(0), since by definition: t⁰ = d⁰/dt⁰ = 0! = 1. This sum defines how x changes over time, going perhaps from point A to point B.
+
+We now define X(–t) by replacing t with –t in this equation: X(–t) = Σ (–t)ⁿ dⁿx(0)/dtⁿ / n!
+
+The minus sign s all cancel, yielding: X(–t) = x(t), for all t and any function x(t)
+
+The function X(–t) defines how x changes in reversed time, going from B to A. But since X(–t) and x(t) are identical, any situation that has x(t) as a solution must also have X(–t) as another solution.
+
+Clearly, what we just proved for x(t) for one object applies equally to all coordinate values of all objects.
+
+The above discussion focused on mechanics; electromagnetism is somewhat more complex, but the same conclusion results. The Lorentz force contains the term v×B; reversing time reverses velocity since v=dx/dt, but it also reverses B because magnetic fields arise from moving charges and their motion reverses when time reverses. The net result is the force itself is unchanged.
+
+In V1p46-7, Feynman explains at length why we do not need to worry here about retarded and advanced electromagnetic fields. All this is far removed from thermodynamics, and is best left to its thorough discussion in Feynman Simplified 2B.
+
+After Feynman gave his lectures, James Cronin and Val Fitch discovered a small effect in the weak interaction that does violate time reversal symmetry. In fact, that was the subject of my Ph.D. thesis.
+
+(To learn more about that, read Higgs & Bosons & Fermions....) While this is profoundly important in cosmology, it is far removed from our current discussions.
+
+Thus, if the basic laws of nature allow an object to evolve from A to B, they also allow that object to evolve from B to A. These laws do not distinguish between time running forward and time running backward. This is truly remarkable and completely contrary to everything we see in everyday life.
+
+Irreversibility Are all natural phenomena reversible? Certainly not.
+
+As Feynman says in V1p46-5: “Just try to unscramble an egg! Run a [movie] backwards, and it takes only a few minutes for everybody to start laughing. The most natural characteristic of all phenomena is their obvious irreversibility.” This is particularly puzzling to physicists because all natural laws are time-symmetric (with the very limited exception in weak interactions mentioned earlier). If one imagined filming atomic level interactions and playing that film backwards, the time-reversed interactions are entirely consistent with all known laws of physics — in fact, the probabilities of all time-reversed reactions are exactly the same as the corresponding normal-time reactions. At the microscopic level, everything is reversible.
+
+How then does irreversibility appear everywhere macroscopically?
+
+Irreversibility is one example of emergent phenomena, phenomena that do not exist at the subatomic level, but arise in large systems due to their increased scale. Size does matter. Life is another prime example.
+
+Entropy and irreversibility are intimately connected. As we discovered earlier, the second law says that entropy never decreases, that it is unchanged in reversible processes, and that it increases in all irreversible processes.
+
+The second law forbids heat from flowing from cold to hot. The ratchet and pawl machine demonstrates how basic mechanics prevents this, even in an idealized system. Let’s now explore this limitation in greater depth at the atomic level.
+
+Recall from Chapter 21, that when a gas expands at constant temperature, heat dQ=PdV must be added to the gas and its entropy increase dS is: dS = ∫ dQ / T = ∫ P dV / T dS = ∫ (N kT / V) dV/T = Nk ∫ dV / V dS = Nk [ ln(V ) – ln(V ) ]
+
+## AFTER BEFORE
+
+dS = Nk ln(V / V )
+
+## AFTER BEFORE
+
+For example, if we double a gas’ volume at constant temperature, entropy increases by: dS = Nk ln(2)
+
+Next, Feynman describes a box with a partition in its middle, with neon atoms on the left and argon atoms on the right, and with equal pressures and temperatures throughout. Both neon and argon are monatomic, ideal, noble gases.
+
+If we remove the partition, each gas has the opportunity to double its volume. Neon and argon atoms will intermingle, collide, and thoroughly mix, until eventually they achieve equilibrium with concentrations equalized throughout the box. As above, the entropy changes are: dS = + N k ln(2)
+
+Ne Ne dS = + N k ln(2)
+
+Ar Ar dS = + N k ln(2)
+
+Total Total As Feynman stresses, the expansion of neon and argon atoms to fill the entire box is an excellent example of an irreversible process that is entirely composed of a vast number of completely reversible processes — the motions and collisions of individual atoms.
+
+If we filmed this mixing on the atomic scale and played the film backwards, every time-reversed movement and every time-reversed collision would be completely consistent with all natural laws, but the sum of all the legitimate time-reversed events would violate the second law.
+
+Why? We know intuitively that a box of mixed atoms never spontaneously separates into neon atoms on the left and argon atoms on the right, but exactly why does that never happen?
+
+The essential point is that the mixed box is less orderly and more probable than the partitioned box of separated atoms. The second law prescribes increasing disorder. This is a matter of probabilities. At the moment that the partition is removed, the gases are bound to mix for virtually any combination of velocities and positions of all N atoms. That is in stark contrast to the reverse process. Once fully mixed, only an extremely small set of velocities and positions of all N atoms will result in all neon atoms moving to the left side of the box while all argon atoms move to the right side.
+
+“Un-mixing” is not absolutely forbidden by nature’s laws, but it is so extraordinarily improbable that it will probably never happen, even once in the entire age and expanse of our observable universe.
+
+Order & Entropy Order and disorder are not defined in terms of human esthetics. Instead, these terms are defined using combinatorial mathematics.
+
+In a gas of neon and argon atoms, swapping any two neon atoms makes no discernible difference. Indeed, in any large system, a vast number, call it Ω, of microscopically distinct arrangements are macroscopically indistinguishable: each such arrangement leads to the same global temperature, pressure, and state of equilibrium.
+
+A disorderly system has more macroscopically indistinguishable arrangements, and thus a higher value of Ω, than an orderly one.
+
+Generally, each individual microscopic arrangement is equally probable. In that case, the entropy S of this large system is: S = k ln(Ω)
+
+For a neon/argon gas, imagine starting with an empty box and placing atoms inside one at a time. If both gases are allowed to be anywhere within the box, there are twice as many choices for placing each atom than if neon must be on the left and argon must be on the right. In the mixed case, we have twice as many choices N times, for a total of 2N times as many choices, as in the segregated case. Hence: S – S = k ln(Ω ) – k ln(Ω )
+
+## MIX SEG MIX SEG
+
+S – S = k ln(Ω / Ω )
+
+## MIX SEG MIX SEG
+
+S – S = k ln(2N)
+
+## MIX SEG
+
+S – S = Nk ln(2)
+
+## MIX SEG
+
+A scrambled egg has much less order than an intact egg. The intact egg has an elaborate structure, with different materials with different characteristics and capabilities precisely distributed. Scrambling destroys that delicate structure, turning order into disorder, and increasing the egg’s entropy.
+
+The fundamental laws of nature do not prohibit eggs from being unscrambled. But the number of microscopic atomic arrangements that unscramble an egg is infinitesimal compared to the number of microscopic atomic arrangements that leave it scrambled.
+
+Therefore, the second law is a statement of probability, distinguishing it from other physical laws, such as the conservation of electric charge. Physicists firmly believe natural processes absolutely never change the total electric charge in any closed system. Whereas we believe natural processes are extraordinarily unlikely to reduce entropy in any macroscopic closed system.
+
+Since increasing disorder is nature’s way, Feynman concludes this lecture pondering why our world is not completely disordered. He wonders whether the degree of order in our patch at this time is entirely accidental.
+
+Indeed, if one examined every small portion of the neon/argon box, some portions would have more than their share of neon. In 10,000 atoms, Gaussian statistics tells us to expect 5000±50 neon atoms. (For n events from a binomial distribution with individual probability p, the expectation value equals np and one standard deviation equals √[np(1–p)]). This means 68.27% of 10,000-atom-boxes will have between 4950 and 5050 neon atoms; and 99.994% will have between 4800 and 5200 neon atoms. But it also means that one sample in a billion will have more than 5300 neon atoms and less than 4700 argon atoms, making this sample significantly more orderly than average.
+
+If our patch is a one in a billion, what does this say about other patches — what about the rest of the universe?
+
+Feynman says if ours is merely accidental luck, then other patches are far more likely to be closer to the average, less ordered, than ours. Yet when astronomers explore the vastness of the cosmos, they find the same atomic elements, the same chemical compounds, and similar stars and galaxies to our own. It seems our patch may be typical.
+
+It seems more likely, Feynman concludes, that: (1) our entire observable universe began in a very highly ordered state; (2) disorder continually increased, sometimes extremely rapidly; but (3) a significant level of order yet remains. He says:
+
+“So that is the way toward the future. That is the origin of all irreversibility, that is what makes the processes of growth and decay, that makes us remember the past and not the future, remember the things which are closer to that moment in the history of the universe when the order was higher than now, and why we are not able to remember things where the disorder is higher than now, which we call the future. So, as we commented in an earlier chapter, the entire universe is in a glass of wine, if we look at it closely.” y enough.” “Another delight of our subject of physics is that even simple and idealized things, like the ratchet and pawl, work only because they are part of the universe.” Incidentally, in my experience, Feynman never consumed alcohol. He said he liked the way his brain worked in its natural state.
+
+## Chapter 23 Review: Key Ideas
+
+1. Feynman’s ratchet and pawl thought experiment, and Maxwell’s demon, demonstrate the impossibility of extracting work energy from heat, without temperature differentials.
+
+2. The fundamental laws of nature are time-symmetric, applying equally if time runs forward or backward. Irreversibility is an emergent phenomenon, absent on the atomic scale, but dominating macroscopic scales. The same fundamental laws govern systems large and small, but size affects probabilities.
+
+3. Entropy S measures the disorder a macroscopic system. Every large system has a number Ω of distinct arrangements of its microscopic constituents, each equally probable but all macroscopically indistinguishable. For such a system: S = k ln(Ω).
+
+## Chapter
+
+Review of Chapters 15 – 23
+
+We have explored three related fields of physics that deal with the macroscopic properties of matter. Kinetic Theory is the analysis of the macroscopic physical behaviors of large collections of small particles, typically gases composed of molecules. Statistical Mechanics examines the behaviors of vast collections of particles due to the laws of mechanics, typically Newtonian mechanics. Thermodynamics is the study of the properties of macroscopic matter in equilibrium. Equilibrium is the state that complex systems eventually attain in which all of their parts have the same temperature, kinetic energy, and positional distributions, on average. The macroscopic properties of a large system stop changing once it reaches equilibrium.
+
+Feynman emphasizes the advantages and disadvantages of thermodynamics versus kinetic theory: when detailed knowledge is weak, thermodynamics is more powerful, and when detailed knowledge is complete, kinetic theory is best.
+
+Ideal Gases at Equilibrium
+
+1. A gas containing N molecules in a volume V, exerts an omnidirectional pressure P, a force per unit area, given by: P = (2/3) (N/V) <mv²/2>. Here < > denotes the average value per molecule.
+
+2. The principle of equipartition states that at equilibrium, at temperature T: <mv²/2> = kT/2 per degree of freedom. Here, Boltzmann’s constant k = 1.38×10⁻²³ joules per Kelvin, temperature is measured in Kelvin (0K = absolute zero temperature), and each independent motion constitutes one degree of freedom. For 3-D motion <mv²/2> = 3/2 kT.
+
+3. Ideal gases are comprised of point-particles that interact only mechanically, without any chemical or nuclear reactions. The Ideal Gas law is: P V = n R T = N kT. Here n is the number of moles of gas, 1 mole = 6.022×10²³ molecules, and R = 8.314 joules per mole-Kelvin.
+
+4. At equal temperature and pressure, equal volumes of different gases contain equal numbers of molecules.
+
+5. Any change in pressure and/or volume in which total gas energy (work energy plus kinetic energy) is constant, is called adiabatic. During adiabatic changes: P Vᵞ = constant. Here γ is the specific heat ratio, which equals 5/3 for monatomic gases and 4/3 for light inside a star. (Note: The original text mentions "P Vγ is constant" and defines Ŧ as total kinetic energy, but the standard form is P Vᵞ = constant).
+
+6. The position distribution µ(x) and velocity distribution f(v) are independent. For an energy potential U(x), Boltzmann’s law says: µ(x) = µ(0) exp{ –U(x) / kT} and f(v) = f(0) exp{ –mv² / 2kT}.
+
+Brownian Motion
+
+The thermal energies of atoms and molecules drive their chaotic motion with macroscopic consequences, including: Brownian motion; electrical circuit noise; and vibrations in sensitive instruments. In a random walk of N steps of length r in uncorrelated directions, the average distance R that a molecule reaches is: R = r √N. The mean square distance from its origin that a particle in chaotic motion reaches in time t is: < R² > = 6 kT t / µ. Here µ is the medium’s drag coefficient.
+
+Systems with Large Energy Barriers
+
+At equilibrium, thermodynamic systems with two states, whose energy separation is W, have a population ratio of A exp{ –W / kT}. Here, A may be too difficult to calculate. But if W>>kT, the exponential dominates the equation, making A less important. For a liquid/gas mixture, with liquid binding energy W, the equilibrium ratio is: Gas / Liquid = A exp{ –W / kT}. For a mixture of ionized and neutral gas molecules, with ionization potential W, the equilibrium densities of ions n_i, free electrons n_e, and neutral atoms n_0, are given by the Saha equation: n_i n_e / n_0 = A exp{ –W / kT}. For the chemical reaction X+Y → XY, with XY binding energy W, the equilibrium densities are: n_X n_Y / n_XY = A exp{ –W / kT}. Chemical reactions often have an activation energy A* that must be overcome for both the reaction and the reverse reaction to proceed; these reaction rates are proportional to: X+Y → XY: n_X n_Y exp{ –A* / kT}. XY → X+Y: n_XY exp{ –A* / kT}.
+
+Systems Near Equilibrium
+
+1. We parameterize “particle” collisions with the mean time between collisions τ, the mean free path λ, and the collision cross section σ. Here, “particles” includes molecules, atoms, and subatomic particles. Two particles of radii r and R collide if their centers come within (r+R); their collision cross section is: σ = π(r+R)². For particle density n, λ=1/(nσ). For any specific particle, the probabilities of not colliding are: Prob(no hit during time t) = exp{–t/τ}; Prob(no hit in distance x) = exp{–x/λ}.
+
+2. Molecular Drift. If a force F acts on S particles but not on B particles that are at equilibrium, the S particles drift with average velocity: v = F τ / m = µ F, where µ is the S particles’ mobility.
+
+3. Ionic Conductivity. A gas containing ions has electrical resistance R and transports an electric current I when exposed to an electric field E, according to: I = q² nµ E A; R = b / (q² n µA). Here, A is the cross sectional area, q is the ion charge, n is the ion density, and b is the length of the gas container along the direction of E.
+
+4. Molecular Diffusion. If a small number of S particles with density n are placed at one location in a gas of B particles that are at equilibrium, the number of S particles crossing a surface of area A in the yz-plane per unit time is: –A D dn/dx, where D is the diffusion coefficient. Einstein showed D = µ kT. If a force F in the +x-direction acts only on S particles, at equilibrium: dn/dx = n µ F / D = n F / kT.
+
+5. Thermal Conductivity. In the absence of convection, a gas conducts heat along the z-axis according to: dQ/dt = –κA dT/dz; κ = k <v> / [σ(γ–1)]. Here, A is the area through which heat flows.
+
+Laws of Thermodynamics
+
+1. The First law of thermodynamics is the conservation of energy: the heat energy Q added to a system plus the work energy W done on the system equals the increase in the system’s internal energy U: Q + W = ΔU.
+
+2. The Second law states: (a) no process can have the sole net effect of converting heat into work; (b) a reversible heat engine can take heat Q₁ at temperature T₁, deliver heat Q₂ at T₂, and produce work W according to: W = Q₁–Q₂ = Q₁ (T₁–T₂)/T₁; (c) no heat engine can outperform a reversible heat engine; (d) total entropy is unchanged in a reversible process; (e) total entropy increases in an irreversible process; (f) all macroscopic real-world processes are irreversible.
+
+3. The Third law is: at absolute zero temperature, entropy reaches a minimum, a constant value that depends only on the atomic-level properties of the substance. When heat Q is added to a system at temperature T, its entropy increases by Q/T.
+
+4. Entropy S measures the disorder a macroscopic system. A system with Ω distinct arrangements of its microscopic constituents, each equally probable but all macroscopically indistinguishable, has entropy S = k ln(Ω).
+
+5. The Zeroth law is: if systems A and B are each in thermodynamic equilibrium with system C, then A and B are in thermodynamic equilibrium with one another, and are therefore at the same temperature.
+
+## 6. Absolute thermodynamic temperature T=Q/S
+
+7. The fundamental laws of nature are time-symmetric, the same for t and –t. Irreversibility is an emergent phenomenon, absent on the atomic scale, but dominating macroscopic scales. The same fundamental laws govern systems large and small, but size affects probabilities.
+
+8. The basic equations of thermodynamics are: dU = dQ – P dV; (∂U/∂V)_T = T (∂P/∂T)_V – P. Here ∂P/∂T is a partial derivative, the derivative of P with respect to T, while all other variables (particularly V) are held constant.
+
+Limits of Classical Physics
+
+1. Newton’s laws are relatively few and their statements are relatively simple. Yet, they reveal a tremendous wealth of understanding of the natural world. But they do not correctly describe the fundamental nature of atoms. The correct description requires quantum mechanics.
+
+2. The specific heat ratio γ = 1+2/D for D degrees of freedom. Classical physics predicts diatomic molecules have D=7, contrary to observation. Quantum theory shows that at low temperatures some degrees of freedom are “frozen out” due to quantization of atomic energy levels.
+
+3. Black body radiation is the light emitted by any object due to its temperature. Classical physics predicts this radiation has the Rayleigh-Jeans spectrum: I(ω) = (ω/πc)² kT, which is utterly wrong. Planck launched quantum mechanics by assuming atomic radiation is quantized in increments of ħω, which yields the correct black body spectrum: I(ω) = ħω³ / [π²c² (exp{+ħω/kT}–1)]. h = 6.626×10⁻³⁴ m² kg/s; ħ = h/2π = 1.0546×10⁻³⁴ m² kg/s. Here, h is Planck’s constant. The allowed quantized oscillator energies are: E = (J+1/2) ħω, for J = 0, 1, 2, … The probability of being in state J is proportional to exp(–E/kT). E = ħω/2 is the zero-point energy, the minimum energy nature allows any oscillator to have.
+
+## 4. Einstein discovered that the interaction of radiation with atoms entails
+
+three processes: absorption, spontaneous emission, and stimulated emission. The rate of spontaneous emission is independent of light intensity. Absorption and stimulated emission occur when light’s energy ħω exactly equals the energy difference between two available electron orbits, in which case the rates of these two processes are equal and proportional to the light intensity at frequency ω. Einstein's laws of radiation are the basis for lasers.
+
+Meet The Author Congratulations and thank you for reading my book. I know your time is valuable, and I sincerely hope you enjoyed this experience.
+
+I’d like to tell you something about myself and share some stories.
+
+First, the obligatory bio (as if 3 “tweets”-worth can define anyone): I have a B.S. in physics from Caltech, a Ph.D. in high-energy particle physics from Stanford University, and was on the faculty of Harvard University. Now “retired,” I teach at the Osher Institutes at UCLA and CSUCI, where students honored me as “Teacher of the Year.” In between, I ran eight high-tech companies and hold patents in medical, semiconductor, and energy technologies.
+
+My goal is to help more people appreciate and enjoy science. We all know one does not have to be a world-class musician to appreciate great music — all of us can do that. I believe the same is true for science — everyone can enjoy the exciting discoveries and intriguing mysteries of our universe.
+
+I’ve given 400+ presentations to general audiences of all ages and backgrounds, and have written 3 printed books and 39 eBooks. My books have won national and international competitions, and are among the highest rated physics books on Amazon.com. I’m delighted that three of these recently became the 1st, 2nd and 3rd sellers in their fields.
+
+Richard Feynman was a friend and colleague of my father, Oreste Piccioni, so I knew him well before entering Caltech. On several occasions, Feynman drove from Pasadena to San Diego to sail on our small boat and have dinner at our home. Feynman, my father, my brother and I once went to the movies to see “Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb.” It was particularly poignant watching this movie next to one of the Manhattan Project’s key physicists.
+
+At Caltech I was privileged to learn physics directly from this greatest scientist of our age. I absorbed all I could. His style and enthusiasm were as important as the facts and equations. Top professors typically teach only upper-level graduate classes. But Feynman realized traditional introductory physics did not well prepare students for modern physics. He thought even beginners should be exposed to relativity, quantum mechanics, and particles physics. So he created a whole new curriculum and personally taught freshman and sophomore physics in the academic years 1961-62 and 1962-63.
+
+The best students thrived on a cornucopia of exciting frontier science, but many others did not. Although Caltech may be the world’s most selective science school, about half its elite and eager students drowned in Feynman’s class. Even a classmate, who decades later received the Nobel Prize in Physics, struggled in this class. Feynman once told me that students sometimes gave him the “stink eye” — he added: “Me thinks he didn’t understand angular momentum.” Some mundane factors made the class very tough: Feynman’s book wasn’t written yet; class notes came out many weeks late; and traditional helpers (teaching assistants and upper classmen) didn’t understand physics the way Feynman taught it.
+
+But the biggest problem was that so much challenging material flew by so quickly. Like most elite scientists, Feynman’s teaching mission was to inspire the one or two students who might become leading physicists of the next generation. He said in his preface that he was surprised and delighted that 10% of the class did very well.
+
+My goal is to reach the other 90%.
+
+It’s a great shame that so many had so much difficulty with the original course — there is so much great science to enjoy. I hope to help change that and bring Feynman’s genius to a wider audience.
+
+Please let me know how I can make Feynman Simplified even better — contact me through my WEBSITE.
+
+While you’re there, check out my other books and sign-up for my newsletters.
+
+Printed Books, each top-rated by Amazon readers: Everyone's Guide to Atoms, Einstein, and the Universe Can Life Be Merely An Accident?
+
+A World Without Einstein Everyone's Guide to the Feynman Lectures eBook Series Feyman Simplified: 1A: Basics of Physics & Newton's Laws 1B: Harmonic Oscillators & Thermodynamics 1C: Special Relativity & the Physics of Light 1D: Sound, Waves, Angular Momentum, Symmetry & Vision 2A: Maxwell's Equations & Electrostatics 2B: Magnetism & Electrodynamics 2C: Relativistic Electrodynamics & Fields in Dense Matter 2D: Magnetism: Matter, Elasticity, Fluids & Curved Spacetime 3A: Quantum Mechanics Part One 3B: Quantum Mechanics Part Two 3C: Quantum Mechanics Part Three 4A: Math for Physicist Everyone's Guide Series of Short eBooks Einstein: His Struggles, and Ultimate Success, plus Special Relativity: 3 Volumes, A to Z General Relativity: 4 Volumes, from Introduction to Differential Topology Quantum Mechanics: 5 Volumes, from Introduction to Entanglement Higgs, Bosons, & Fermions… Introduction to Particle Physics Cosmology Our Universe: 5 Volumes, everything beyond the Sun Our Place in the Universe: a gentle overview Black Holes, Supernovae & More We are Stardust Searching for Earth 2.0 Smarter Energy Timeless Atoms Science & Faith
+
+Table of Contents
+
+## Chapter 12 Harmonic Oscillators
+
+## Chapter 13 Resonances
+
+## Chapter 14 Transients & Linear Systems Review
+
+## Chapter 15 Kinetic Theory of Gases
+
+## Chapter 16 Statistical Mechanics
+
+## Chapter 17 Brownian Motion
+
+## Chapter 18 Kinetic Theory at Equilibrium
+
+## Chapter 19 Kinetic Theory Near Equilibrium
+
+## Chapter 20 “Newton, We Have a Problem!”
+
+## Chapter 21 Laws of Thermodynamics
+
+## Chapter 22 Applications of Thermodynamics
+
+## Chapter 23 Irreversibility & Entropy
+
+## Chapter 24 Review of Chapters 15 –

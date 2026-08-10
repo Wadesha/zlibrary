@@ -1,0 +1,2002 @@
+# Feynman Simplified 2D Magnetic Matter Elasticity Fluids Curved Spacetime Robert L Piccioni Z Library
+
+> 来源文件：pre_Feynman_Simplified_2D_Magnetic_Matter_Elasticity_Fluids_Curved_Spacetime_Robert_L_Piccioni_Z_Library.txt
+> 字符数（约）：247820
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Feynman Simplified 2D: Magnetic Matter, Elasticity, Fluids, & Curved Spacetime Everyone's Guide to the Feynman Lectures on Physics by Robert L. Piccioni, Ph.D.
+
+Copyright © 2015 by Robert L. Piccioni Published by Real Science Publishing 3949 Freshwind Circle Westlake Village, CA 91361, USA Edited by Joan Piccioni
+
+Everyone's Guide to the Feynman Lectures on Physics Feynman Simplified gives mere mortals access to the fabled Feynman Lectures on Physics.
+
+This Book Feynman Simplified: 2D covers the final quarter of Volume 2 of The Feynman Lectures on Physics. The topics we explore include: Principle of Least Action Tensors in 3-D and 4-D Spacetime Magnetic Materials Diamagnetism & Paramagnetism Ferromagnetism Elasticity & Elastic Matter Viscosity & Liquid Flow Gravity and Curved Spacetime
+
+Table of Contents
+
+## Chapter 36: Principle of Least Action
+
+## Chapter 37: Tensors
+
+## Chapter 38: Magnetic Matter
+
+## Chapter 39: Paramagnetism & Resonance
+
+## Chapter 40: Theories of Ferromagnetism
+
+## Chapter 41: Practical Ferromagnetism
+
+## Chapter 42: Elasticity
+
+## Chapter 43: Elastic Materials
+
+## Chapter 44: Non-Viscous Fluid Flow
+
+## Chapter 45: Viscous Fluid Flow
+
+## Chapter 46: Curved Spacetime
+
+## Chapter
+
+Principle of Least Action This is a special lecture on a general principle that applies to all of physics, not just electromagnetism.
+
+Feynman is famous for his profound understanding of the Principle of Least Action. The Feynman Lectures state this lecture: “is intended to be for ‘entertainment’.” That is code for: “this won’t be on the exam.” But, that does not mean this is unimportant.
+
+In fact, the Principle of Least Action is one of the most important principles of physics — a principle every serious physicist should understand.
+
+Feynman says: “When I was in high school, my physics teacher—whose name was Mr. Bader—called me down one day after physics class and said, ‘You look bored; I want to tell you something interesting.’ Then he told me something which I found absolutely fascinating, and have, since then, always found fascinating. Every time the subject comes up, I work on it. In fact, when I began to prepare this lecture I found myself making more analyses on the thing. Instead of worrying about the lecture, I got involved in a new problem. The subject is this—the principle of least action.
+
+“Mr. Bader told me the following: Suppose you have a particle (in a gravitational field, for instance) which starts somewhere and moves to some other point by free motion—you throw it, and it goes up and comes down. It goes from the original place to the final place in a certain amount of time. Now, you try a different motion. Suppose that to get from here to there, it went [along a very different path] but got there in just the same amount of time. Then he said this: If you calculate the kinetic energy at every moment on the path, take away the potential energy, and integrate it over the time during the whole path, you’ll find that the number you’ll get is bigger than that for the actual motion.
+
+“In other words, the laws of Newton could be stated not in the form F = ma but in the form: the average kinetic energy less the average potential energy is as little as possible for the path of an object going from one point to another.”
+
+We define an object’s action S to be its kinetic energy minus potential energy. In a gravitational field, this is: S = mv2/2 – mgx Here, g is the acceleration of gravity, m is the object’s mass, v is its velocity, and x is its height above any convenient base elevation, such as sea level.
+
+If the potential energy represents all active forces, the principle of least action says: Objects follow the path of least action.
+
+Let’s consider Mr. Bader’s simple example: a ball thrown upward in a uniform gravitational field. The total action from time t=A to time t=B is: S = ∫ B { mv2/2 – mgx } dt
+
+## AB A
+
+Figure 36-1 shows two possible paths, with x plotted vertically and time t plotted horizontally.
+
+Figure 36-1 Two Possible Paths The actual path taken by a real ball is a parabola, shown as the solid curve in Figure 36-1. An alternative that we might imagine is shown as the dashed curve. Both curves start at the same x and t, and both end at the same x and t. We see that the alternative path is more “interesting”, with more structure and sharper turns.
+
+We might imagine many alternatives to nature’s actual path, but as Feynman says: “The miracle is that the true path is the one for which [S ] is least.”
+
+Let’s make the problem even simpler. Let’s suppose no forces act on the ball, and therefore there is no potential energy term in our integral. The action then reduces to: S = ∫ B { mv2/2 } dt
+
+## AB A
+
+Now, we know what the average velocity <v> must be: total distance traveled Δx divided by total travel time Δt. We then write: Δx = ∫ B v dt = ∫ B (dx/dt) dt = ∫ B dx
+
+## A A A
+
+Δt = ∫ B dt <v> = Δx / Δt
+
+Feynman uses the following argument to show that the action integral is minimized if v is always equal to <v>: “As an example, say your job is to start from home and get to school in a given length of time with the car. You can do it several ways: You can accelerate like mad at the beginning and slow down with the brakes near the end, or you can go at a uniform speed, or you can go backwards for a while and then go forward, and so on. The thing is that the average speed has got to be, of course, the total distance that you have gone over the time. But if you do anything but go at a uniform speed, then sometimes you are going too fast and sometimes you are going too slow. Now the mean square of something that deviates around an average, as you know, is always greater than the square of the mean; so the kinetic energy integral would always be higher if you wobbled your velocity than if you went at a uniform velocity.”
+
+Personally, I am more comfortable with mathematical proofs than with verbal arguments and analogies. Analogies are almost never perfect, and arguments are often won by the loudest and most forceful, whether or not they are right. Despite some glaring errors in his theories, no one successfully argued against Aristotle for 2000 years.
+
+So, let’s do the math, starting with this little trick: (v – <v>)2 = v2 – 2v<v> + <v>2 v2 = (v – <v>)2 + 2v<v> – <v>2 S = (m/2) ∫ B v2 dt
+
+## AB A
+
+2S /m = ∫ B {(v–<v>)2 + 2v<v> – <v>2} dt
+
+## AB A
+
+The last term is easy: – <v>2 ∫ B dt = – <v>2 Δt The middle term is almost as easy: 2<v> ∫ B v dt = 2<v> ∫ B (dx/dt) dt A A 2<v> ∫ B v dt = 2<v> Δx = 2<v> (<v> Δt)
+
+Therefore the action becomes: 2S /m = <v>2 Δt (+2–1) + ∫ B {(v–<v>)2 dt
+
+## AB A
+
+Everything has been reduced to constants except the action S and the last integral. To minimize the action, we must minimize this integral. Since the integrand is a perfect square, it is always greater than or equal to zero. The minimum clearly occurs when v=<v> always, just as Feynman argued.
+
+If I were as smart as Feynman, and if I already knew the right answer, I would also be satisfied with arguments and analogies.
+
+Hence, for a ball subject to no forces whatsoever, the motion of least action is traveling at a constant velocity from “here to there”, as shown in Figure 36-2.
+
+Figure 36-2 Path Without Forces
+
+Now, let’s make the problem more realistic by adding a conservative force with potential U(x). (Recall that all fundamental forces are conservative and that only conservative forces have meaningful potentials.) The action equation is: S = ∫ B { mv2/2 – U(x) } dt
+
+## AB A
+
+To minimize S , we would like to reduce the integrand’s positive term (kinetic energy) and maximize its negative term (potential energy U). Figure 36-3 shows the object’s true path represented by the solid curve, and an alternative path represented by the dashed curve.
+
+Figure 36-3 Dashed Path With High Potential Let’s assume U(x) increases with increasing x, as does the gravitational potential. The alternative path offers the lure of a higher average U than the true path. The problem, however, is that rapidly increasing x to rapidly increase U(x) requires a large initial velocity v, and therefore a large kinetic energy mv2/2 that increases the action S .
+
+Finding the minimum action is a puzzle whose solution optimally balances competing effects. Increasing U too much or too rapidly increases the kinetic energy thus increasing the action. But, increasing U too little or too slowly fails to reduce the action.
+
+Feynman says: “That is all my teacher told me, because he was a very good teacher and knew when to stop talking. But I don’t know when to stop talking. So instead of leaving it as an interesting remark, I am going to horrify and disgust you with the complexities of life by proving that it is so. The kind of mathematical problem we will have is very difficult and [is of] a new kind.
+
+“You [might say:] ‘Oh, that’s just the ordinary calculus of maxima and minima. You calculate the action and just differentiate to find the minimum.’ “But watch out. Ordinarily we just have a function of some variable, and we have to find the value of that variable where the function is least or most. For instance, we have a rod which has been heated in the middle and the heat is spread around. For each point on the rod we have a temperature, and we must find the point at which that temperature is largest. But now for each path in space we have a number—quite a different thing—and we have to find the path in space for which the number is the minimum. That is a completely different branch of mathematics. It is not the ordinary calculus. In fact, it is called the calculus of variations.” Feynman says there are many similar variational problems in physics and mathematics. For example, we normally define a circle as the locus of points whose distance from a chosen center is r. An alternative definition is: a circle is the curve of length L that encloses the largest area. From that definition, one can construct a circle whose radius is L/2π. Feynman suggests you might amuse yourself by trying to find a circle fulfilling the second definition using integral or differential calculus.
+
+Functions Near Extrema Before delving into the calculus of variations, let’s first examine carefully the behavior of an arbitrary function f near an extremum, either a minimum or a maximum. Recall that we can express any function as a Taylor series. Let’s assume our function f has a minimum, and define the x-axis so that this minimum occurs at x=0. For some set of constants a, the Taylor series is: f(x) = a₀ + a₁x + a₂x² + a₃x³ + … We now show that a₁ must be zero. At any extremum, the first derivative of f is zero. This means: at x=0: df/dx = 0 = a₁ + 2a₂x + 3a₃x² + … Hence a₁ = 0, and the Taylor series reduces to: f(x) = a₀ + a₂x² + a₃x³ + … For small values of |x|, x² is much smaller yet. Hence, any function changes very slowly near its extrema. The more elegant description is: Near any function’s extrema, the function changes only in second order.
+
+“Second order” means the change in f(x) is proportional to the change in x to the second or higher power. We write this: f(x) = a₀ + O(x²)
+
+O(x²) denotes any combination of unspecified terms that are proportional to second and higher powers of a small quantity x.
+
+This fact will help us find the path of least action.
+
+Variational Calculus Here is how variational calculus works.
+
+Imagine two paths that start at the same x and t, and end at the same x and t, as shown in Figure 36-4. The true path (what we seek) is represented by the solid curve, and an alternative path is represented by the dashed curve.
+
+Figure 36-4 Path Difference: True vs. Alternate We define x(t) and w(t) such that: true path: x(t)
+
+alternate: x(t) + w(t)
+
+Thus w(t) is the difference between the true path and the alternate path. The length of each vertical line in Figure 36-4 represents the value of w(t) at selected times. In our analysis we will consider alternate paths that deviate only slightly from the true path, much less than shown in the above image. This means w(t) will be small compared with x(t) at all t.
+
+The action along the true path is: S_trueAB = ∫_A^B { (dx/dt)² m/2 – U(x) } dt The action along the alternative path is: S_altAB = ∫_A^B { (d[x+w]/dt)² m/2 – U(x+w) } dt Since the true path has the least action, S_altAB must be greater than or equal to S_trueAB. We define the variation in S, δS, to be: δS = S_altAB – S_trueAB >= 0 δS = ∫_A^B { [(d[x+w]/dt)² – (dx/dt)²] (m/2) – U(x+w) + U(x) } dt We will simplify this piece by piece, beginning with the U terms. For small w, we use the Taylor series: U(x+w) = U(x) + (dU/dx) w + (d²U/dx²) w²/2+ … U(x+w) = U(x) + (dU/dx) w + O(w²)
+
+– U(x+w) + U(x) = – (dU/dx) w + O(w²)
+
+Now, let’s turn to the term in [ ]’s, which is much more interesting.
+
+[(d[x+w]/dt)² – (dx/dt)²] = (dx/dt + dw/dt)² – (dx/dt)² = 2(dx/dt)(dw/dt) + (dw/dt)² Since w(t) is small, the term on the right is much smaller than the term on the left. We can lump that into the other O(w²) terms. We then have: δS = ∫_A^B { [m (dx/dt)(dw/dt)] – (dU/dx) w } dt + O(w²)
+
+Let’s ignore the clutter for a moment and consider the Big Picture. The integrand has the form: P dw/dt – Q w If it were Pw – Qw, we would immediately have a relationship between P and Q. So, the way forward is to turn Pdw/dt into an Rw. But how?
+
+The first key step in this problem is employing integration by parts. Recall the procedure: for any two functions u and v: d(uv)/dt = u dv/dt + v du/dt ∫_A^B [d(uv)/dt]dt = ∫_A^B u[dv/dt]dt + ∫_A^B v[du/dt]dt uv |_A^B = ∫_A^B u dv + ∫_A^B v du ∫_A^B u dv = uv |_A^B – ∫_A^B v du In the present case, set v = w and u = dx/dt. Integration by parts yields: ∫_A^B (dx/dt) (dw/dt) dt = (dx/dt) w |_A^B – ∫_A^B w {d(dx/dt)/dt} dt Now comes the second key step. The alternative path and the true path must both start at the same x and t, and both end at the same x and t. We vary the path between the endpoints, but not at the endpoints. This means: w(A) = w(B) = 0 Dropping O(w²), the equation for the variation of the action is becoming more manageable.
+
+δS = ∫_A^B { [–m (d²x/dt²) w – (dU/dx) w } dt δS = – ∫_A^B { m (d²x/dt²) + (dU/dx) } w dt As we described earlier, any function changes very slowly near its extrema. In our case, the function is S. When the alternative path is the same as the true path, when w=0 everywhere, the variation δS equals zero. When the alternative path is close to the true path, δS will be very close to zero, with δS deviating from zero only in second order.
+
+Our problem boils down to finding the x(t) for which δS=0 for any small path deviation w(t).
+
+The third key step is realizing that, along the true path, the term in { }’s is zero everywhere. Why? Consider a function w(t) that is non-zero only over a very small range of t, say between t* and t*+Δt. If Δt is small enough, we can assume w(t) is constant over the time interval Δt. This reduces the integrand to a constant, making the integral trivial.
+
+δS = – { m [d²x(t*)/dt²] + [dU(t*)/dx] } w(t*) Δt On the true path δS = 0, which means: 0 = { m [d²x(t*)/dt²] + [dU(t*)/dx] } This relationship must hold for every value of t*.
+
+In fact, this is a general result: the principle of least action is local, not merely global. It applies not just to the complete time interval A to B, but rather it applies separately to every infinitesimal time interval. Just as momentum is conserved at every instant, motion is governed by least action at every instant.
+
+We finally have our solution: for all t: m d²x(t)/dt² = – dU(t)/dx since in one dimension, F = – dU/dx. We obtain the familiar Newtonian equation of motion: m a = F Variational calculus proves that, for a conservative force, every body moves according to Newton’s second law: F = ma.
+
+Should we quibble about the need to be “conservative”? Newton’s law applies to any force, even to a “non-conservative” force like friction. The principal of least action, however, applies only to conservative forces, because only for those can we define a corresponding potential energy.
+
+But “non-conservative” forces are only non-conservative when we fail to account for all the action. Friction heats atoms increasing their kinetic and potential energy. Energy is not lost, it is still conserved, but the accounting becomes more complex. At a fundamental level, all forces are conservative.
+
+In V2p19-5, Feynman provides sage advice on this variational method: “It turns out that the whole trick of the calculus of variations consists of writing down the variation of S and then integrating by parts so that the derivatives of [w] disappear. It is always the same in every problem in which derivatives appear. … [Next] comes something which always happens—the integrated part disappears [(dx/dt)w|_A^B in this case]. (In fact, if the integrated part does not disappear, you restate the principle, adding conditions to make sure it does!)”
+
+Least Action Or Most Action Recall our studies of optics in Feynman Simplified 1C, Chapters 30 and 31. We first understood that the propagation of light is governed by the principle of least time: light takes the path that requires the least time, even in the presence of materials with different apparent light speeds. But, later we understood that the propagation of light is governed by wave interference: light takes the path in which waves interfere constructively by arriving in phase after taking the nearly same travel time along nearby paths.
+
+The key point is that the dominant paths are those with nearby paths that have nearly the same travel times. Those are the paths that interfere constructively. The dominant paths are most often those with the least travel time, but they can also be those with the greatest travel time. Either way, they are always paths of extremal travel time: the change in travel time along slightly different paths is almost zero.
+
+Here we have the same physics and the same math. Objects move along paths of extremal action, because nearby paths have nearly the same action. These paths are most often those of least action, but they can also be paths of greatest action. Either way, the variation of action along nearby paths is almost zero.
+
+While the key is extremal action, physicists nonetheless almost invariably called this the principle of least action.
+
+Action in 3-D In V1p19-6, Feynman says the generalization to three dimensions is straightforward. The kinetic energy becomes: {(dx/dt)² + (dy/dt)² + (dz/dt)²} m/2 = v•v m/2 The potential energy becomes: U(x,y,z). And the variation becomes a vector field w(x,y,z).
+
+While we can no longer conveniently graph the action in its complete 4-dimensionality, the solution is obtained using the same methodology. One can consider first path variations only in the x-direction, then turn to variations in y, and finally variations in z. One obtains three equations, and combining these yields Newton’s second law in its complete vector form: F = ma.
+
+Multi-Body Action The variation method can be generalized for action amongst many bodies, say N interacting particles. We then have N kinetic energy terms of the form: v•v m/2. We also have N(N–1)/2 terms for U_jk, the potential energy between particle j and particle k. The variation is 3N-dimensional, and we obtain 3N equations that reduce to Newton’s laws in 3-D for N particles.
+
+Generalized Action The variational method can be generalized to encompass a very wide class of problems. It is even used in the tensor calculus of differential topology for calculations in general relativity. In V2p19-7, Feynman says that in general, the action does not have the form: kinetic energy minus potential energy. In V2p19-8, he says The question of what the action should be for any particular case must be determined by some kind of trial and error. It is just the same problem as determining what are the laws of motion in the first place. You just have to fiddle around with the equations that you know and see if you can get them into the form of the principle of least action. In general, action S is defined by: S = ∫[A,B] L dt Here, the integral is from time = A to time = B, and the integrand L is the Lagrangian, named after Joseph Louis Lagrange (1736-1813). For a single particle in an electromagnetic field, Feynman says the action is: S = – ∫[A,B] mγ dt + ∫[A,B] q {v•A(r) – φ(r)} dt Here, r is the position vector from the origin to (x,y,z), v=dr/dt, γ is the usual relativistic factor 1/√(1–v²/c²), q is the particle’s charge and m is its mass, φ is the scalar potential, and A is the vector potential. After extensive variational calculations that Feynman does not present, describing them as “much more difficult”, he says one obtains this equation: d(mγv)/dt = q { E(r) + v×B(r) } This is the Lorentz force in relativistic notation.
+
+In V2p19-8, Feynman says: “There is quite a difference in the characteristic of a law which says a certain integral from one place to another is a minimum—which tells something about the whole path—[compared with Newton’s] law which says that as you go along, there is a force that makes it accelerate. The second way tells how you inch your way along the path, and the [first] is a grand statement about the whole path. … I would like to explain why [these two seemingly very different types of laws are in fact the same].” The reason these different laws are interconnected is because of something we discussed above. For a path to achieve the least action over a large path, it must also achieve the least action over every infinitesimal segment of that path. This must be true because we can adjust the path in any small interval Δt without making any changes to the path elsewhere. If a path does not have the least action in Δt, we can adjust the path in Δt and achieve a lower total action for the entire path. Only if a path has the least action in every segment is further adjustment unproductive. Thus, least action, the overall path law, is really also a differential law — a law based on derivatives — that determines the proper path on a point-by-point basis, which is just what Newton’s laws do.
+
+In V2p19-9, Feynman says: “In the case of light we also discussed the question: How does the particle find the right path? From the differential point of view, it is easy to understand. Every moment it gets an acceleration and knows only what to do at that instant. But all your instincts on cause and effect go haywire when you say that the particle decides to take the path that is going to give the minimum action. Does it ‘smell’ the neighboring paths to find out whether or not they have more action? … “Is the same thing true in mechanics? Is it true that the particle doesn’t just ‘take the right path’ but that it looks at all the other possible trajectories? … The miracle of it all is, of course, that it does just that. That’s what the laws of quantum mechanics say. So our principle of least action is incompletely stated. It isn’t that a particle takes the path of least action but that it smells all the paths in the neighborhood and chooses the one that has the least action by a method analogous to the one by which light chose the shortest time.” I added the bolding above to highlight Feynman’s most important statement. The reason that particles behave like light is because both have wave properties, according to the quantum mechanical principle of particle-wave duality. Both light and electrons propagate along paths in which their waves interfere constructively by arriving in phase after taking the nearly same travel time along nearby paths.
+
+Least Action in Electrostatics In V2p19-10, Feynman says: “I want now to show that we can describe electrostatics, not by giving a differential equation for the field, but by saying that a certain integral is a maximum or a minimum.” We first consider the problem of calculating the electrostatic potential φ(r) from a charge density ρ(r) that is known at all r = (x,y,z). From Chapter 28, we know that the energy U* of an electric field is: U* = (ε₀/2) ∫ E•E dV = (ε₀/2) ∫ (∇φ)² dV Here, the integral is over all 3-D space. The potential energy of a charge distribution ρ(r) in an electrostatic potential φ(r) is: U = ∫ ρ(r) φ(r) dV Feynman says the equation for action S in this situation is: S = (ε₀/2) ∫ (∇φ)² dV – ∫ ρ(r) φ(r) dV We define the true potential to be φ(r) and an alternate potential to be φ(r)+w(r). Our goal is to find φ using the variational method. The variation of action S is: δS = (ε₀/2) ∫ (∇[φ+w])² dV – ∫ ρ [φ+w] dV – (ε₀/2) ∫ (∇φ)² dV + ∫ ρ φ dV Let’s evaluate the above integrands, discarding terms that are second and higher order in w.
+
+(∇[φ+w])² = ∇[φ+w] • ∇[φ+w]
+
+(∇[φ+w])² = ∇φ•∇φ + 2 ∇φ•∇w + O(w²)
+
+ρ [φ+w] = ρ φ + ρ w δS = ∫ (ε₀ ∇φ•∇w – ρ w) dV Restating the dot product in component notation yields: ∇φ•∇w = (∂φ/∂x)(∂w/∂x)
+
++ (∂φ/∂y)(∂w/∂y) + (∂φ/∂z)(∂w/∂z)
+
+Now we must integrate each term by parts to replace the derivatives of w.
+
+∫_{–∞}^{+∞} (∂φ/∂x)(∂w/∂x) dx = (∂φ/∂x)w |_{–∞}^{+∞} – ∫_{–∞}^{+∞} (∂²φ/∂x²)w dx As before, we require that w=0 at the integration limits. Before the limits were A and B. Here they are –∞ and +∞. But the idea is the same: the variation must be zero at some limits. Performing the same replacement for y and z reduces the variation to: δS = ∫ {–ε₀ ∇²φ – ρ} w dV As before, at the true φ, δS must be zero for any variation w, which requires the expression in { }’s to be zero everywhere. We have therefore proven this key equation of electrostatics: ∇²φ = – ρ / ε₀
+
+In V2p19-11, Feynman repeats the last portion of this derivation in vector notation, without resorting to component math as we did above. Recall that the vector equation for δS is: δS = ∫ (ε₀ ∇φ•∇w – ρ w) dV Note that: ∇•(w ∇φ) = (∇w)•(∇φ) + w ∇•∇(φ)
+
+(∇w)•(∇φ) = ∇•(w ∇φ) – w ∇²φ In integrating over all space, the first term on the right becomes zero, as we now show using Stokes’ theorem.
+
+∫_{–∞}^{+∞} ∇•(w ∇φ) dV = ∫_{–∞}^{+∞} (w ∇φ)•n dA Here, the right integral is over the surface enclosing volume V, and n is the normal to that surface. Since the surface is at infinity, w must be zero everywhere on that surface. The integral for δS is then: δS = ∫ (– ε₀ ∇²φ – ρ) w dV This is the same result we obtained using components. However, Feynman says the vector approach is more powerful and allows us to solve a broader range of problems. At the start of this section, we assumed a charge distribution ρ(r) that is known at all r. Now imagine that we want to calculate the potential φ(r) from some array of charged conductors. We cannot vary the potential within the conductors; those must be constant. But, we can vary the potential throughout the empty space outside these conductors. This means w=0 within and on the surfaces of all conductors. Since w must still be zero at infinity, this ensures the continued validity of: ∫_{–∞}^{+∞} ∇•(w ∇φ) dV = ∫_{–∞}^{+∞} (w ∇φ)•n dA = 0 Here, the volume integral is over all empty space (excluding the conductors), and the surface integral is over all boundary surfaces of empty space. These surfaces include the surfaces of all conductors and the surface at infinity; w=0 on all these surfaces. The δS equation remains: δS = ∫ {–ε₀ ∇²φ – ρ} w dV with the integral over all empty space. This ensures the validity in empty space of: ∇²φ = – ρ / ε₀ Since charge densities and electric fields must be zero inside any perfect conductor, this equation applies there as well. That leaves only the surfaces of each conductor, where charge densities and electric fields may not be zero. For a situation in which charge density is zero everywhere outside conductors (no free charges), S reduces to the following integral over empty space: S = (ε₀/2) ∫ (∇φ)² dV S is now the energy of the electric field. The true potential φ produces an electric field with the least energy.
+
+Let’s apply the least action method to a simple example: the long cylindrical capacitor, shown in cross-section in Figure 36-5. Figure 36-5 Cylindrical Capacitor The inner conductor has voltage +V, and the outer conductor is set at zero volts. The gap between conductors extends from radius A to radius B. We define r to be the radial coordinate, and as before φ(r) is the true potential and φ(r)+w(r) is an alternative potential in the space between the conductors. The limit conditions are: w(r=A) and w(r=B) are zero. Since the energy stored by a capacitor equals: C V² / 2 and we have specified V, the value of S for any trial potential φ(r)+w(r) can be used to calculate a corresponding capacitance C(S), according to: C(S) = 2S / V² The true potential φ(r) yields the least energy S and the least capacitance C(S). From our mastery of Chapter 12, we know that the true capacitance is: C_true = 2πε₀ / ln(B/A)
+
+and that the true electric field is proportional to 1/r. In V2p19-12, Feynman asks us to pretend not to remember this answer (that may be easier for some than others), or imagine that we are facing a more complex geometry that has no analytical solution. He wants to show us how to get an approximate answer by trial and error. To phrase that more professionally: how to get an approximate answer with progressively more educated guesses. A surprising large portion of these Lectures is devoted to solving challenging arithmetic problems by hand. Feynman was amazingly proficient with numbers. He taught me how to accurately estimate cube roots and other fractional powers in my head without paper or calculator. With the ubiquity of computers today, this appears old-fashioned. It seems younger people no longer take pride in being able to multiply and divide; they can simply use their pocket calculators or iPhones, and get much faster and more precise answers. But back in ye goo In the old days, in 1962, no one owned a computer or even a pocket calculator. Arithmetic was a survival skill. In fact, when I bought my first HP calculator in 1970, it cost $500 ($3000 in current dollars). I still use it every day.
+
+While it is interesting to see Feynman work, physicists today immediately turn to computers when facing such problems. If you skip to the end of this chapter, you will miss some "entertainment" but no important physics.
+
+In any case, Feynman's first trial potential corresponds to a constant electric field between the conductors. The potential must then vary linearly with r, as given by: ø(r) = V (1 – [r–A]/[B–A] )
+
+Note that ø(r=A) = V and ø(r=B) = 0, matching the boundary conditions.
+
+The energy per unit length (the direction perpendicular to the screen in Figure 36-5) is: S/L = (ε/2) ∫ from A to B (dø/dr)^2 2πr dr S/L = ε ∫ from A to B (–V/[B–A])^2 πr dr S/L = V^2 π ε / [B–A]^2 ∫ from A to B r dr S/L = V^2 π ε / [B–A]^2 (r^2/2) | from A to B S/L = (V^2 π ε / 2[B–A]^2) (B^2–A^2)
+
+S/L = (V^2 π ε / 2) (B+A)/(B–A)
+
+We now equate this with the capacitor's stored energy per unit length: CV^2/2.
+
+CV^2/2 = (V^2 π ε / 2) (B+A)/(B–A)
+
+C = π ε (B+A) / (B–A)
+
+(trial #1)
+
+That turns out to be not bad for small values of B/A, much worse for large B/A, and certainly not correct.
+
+In V2p19-13, Feynman says: "The next step is to try a better approximation to the unknown true ø. For example, we might try a constant plus an exponential ø, etc. But how do you know when you have a better approximation unless you know the true ø? Answer: You calculate C; the lowest C is the value nearest the truth."
+
+Unfortunately, that advice falls far short of providing step-by-step instructions.
+
+Next, Feynman tries a quadratic potential. I will spare you the arithmetic; his result is: C = 2π ε (B^2 + 4AB + A^2) / 3(B^2 – A^2)
+
+(trial #2)
+
+Feynman provides tables of C_true, C_trial1, and C_trial2. Some of his numbers, at least in my first edition of the Lectures, are a bit off. Here are the correct values:
+
+Here, the numbers in the third column are the fractional capacitance differences between trial #1 and the true values. The fourth column is the same for trial #2, with "ppm" meaning parts per million. The second trial is clearly superior to the first, but is still substantially off for very large values of B/A.
+
+Feynman concludes saying: "I have given these examples, first, to show the theoretical value of the principles of minimum action and minimum principles in general and, second, to show their practical utility… you can guess an approximate field with some unknown parameters and adjust them to get a minimum. You will get excellent numerical results for otherwise intractable problems."
+
+**Chapter 36 Review: Key Ideas**
+
+*   Near the extrema, maxima or minima, of any function f(x), f changes only in second order, meaning Δf is proportional to Δx to the second or higher power. We write this: f(x) = a + O(Δx^2)
+
+*   An object's action S from time A to time B, in a gravitational field, is: S = ∫ from A to B { mv^2/2 – mgx } dt Here, m is the object's mass, v is its velocity, g is the acceleration of gravity, and x is the object's height.
+
+The principle of least action says objects follow the path of extremal action, provided all forms of kinetic and potential energy are included. At a fundamental level, all forces are conservative.
+
+*   Integration by parts solves many complex problems. It has this form: ∫ u dv = u v – ∫ v du Variational calculus is necessary to find the path that minimizes action S. For a path variation w(t), we use integration by parts to convert terms proportional to dw/dt into terms proportional to w. If done properly, the integrated part always vanishes because w=0 at the integration limits.
+
+*   Extremal action is the key requirement of this variational method. Nature chooses the paths of extremal action, because nearby paths have nearly the same action. These paths are most often those of least action, but they can also be paths of greatest action.
+
+*   In general, action S is defined by: S = ∫ from A to B L dt Here, the integrand L is the Lagrangian. For a single particle in an electromagnetic field, Feynman says the action is: S = – ∫ from A to B mγ dt + ∫ from A to B q {v·A(r) – ø(r) } dt
+
+**Chapter 37** **Tensors**
+
+Feynman's Volume 2 of the Lectures, Chapter 31 is titled "Tensors", but it only briefly addresses the mathematics of tensors, and almost all the analysis is done in component form. This is like giving a lecture on "Vectors" and writing every equation in components.
+
+This is unfortunate because tensors are both beautiful and powerful. I provide here a more comprehensive introduction to tensors, for both 3-D classical physics and for 4-D curved spacetime. We will then explore Feynman's lecture.
+
+**What is a Tensor?**
+
+Tensors are a generalization of vectors. Tensor calculus is a beautiful branch of mathematics that empowers us to elegantly and effectively describe many complex, multi-dimensional phenomena. Tensors are essential in general relativity, where 4-D spacetime curves, twists, and stretches differently at every point, at every instant, and in every direction. Tensors are also employed in 3-D analyses of mechanics and wave propagation in anisotropic materials, those whose properties are different in different directions.
+
+The most important thing to know about tensors is that any tensor equation that is valid in one coordinate system is automatically valid without any modifications in all coordinate systems, regardless of their rotation or motion relative to the original coordinate system. That generality is one reason that the mathematics of general relativity is so challenging, but it is also one of the most powerful tools in solving problems. If we can identify a coordinate system in which we can solve a complex problem with a tensor equation, we have immediately solved the problem in all coordinate systems. General relativity is the only major branch of physics in which tensor equations are universally employed.
+
+Tensors are arrays of components that transform properly between coordinate systems. In 3-D, they transform according to Euclidian coordinate rotations. In 4-D spacetime, they also transform according to the Lorentz transformation. Tensors can have one component or millions of components, with each being a different function of all coordinates.
+
+Let's consider some quantities that are not tensors. Temperature is a simple quantity that changes with time and location, making it a function of the four coordinates of spacetime. Its values are different in different coordinate systems, but the values do not change according to the rotation matrices or the Lorentz transformation. Hence, temperature is not a tensor. Similarly, energy by itself is not a tensor. But, the proper combination of energy and momentum — (E/c, p_x, p_y, p_z) — is a tensor because its components do transform properly.
+
+Tensors are characterized by their rank and by the dimensionality of the space in which they are defined. In physics, the most common spaces are Euclidian 3-D, and 4-D curved spacetime. The most common tensors have rank 0, 1, 2, or 4. The largest meaningful tensor I know has rank 10 and has 1,048,576 components; I will not share this tensor with you in this course.
+
+The simplest tensors are scalars; these are rank 0 tensors. These include π, 7, 0, and your age, all numbers that have the same values in all coordinate systems. We are also very familiar with rank 1 tensors: vectors. Every proper 3-vector is a 3-D rank 1 tensor, and every proper 4-vector is a 4-D rank 1 tensor.
+
+In Chapter 27, we encountered the 4-D rank 2 Faraday tensor that is shown below. When a tensor is shown as an array of components, its components are enclosed in square brackets [ ], as above. As we discussed in Chapter 27, the Faraday tensor has the special property of being antisymmetric. This means F_μσ = –F_σμ for all combinations of indices μ and σ. As a result, all the diagonal components are zero, and components on opposite sides of the diagonal are the same, but with the opposite sign. With 4 zero components and 6 redundant components, the Faraday tensor has only 16–4–6 = 6 independent components. These are the 3 components of E and the 3 components of B.
+
+Tensors of rank 2 and greater can have interesting symmetry properties. Some tensors are symmetric, meaning that G_μσ = +G_σμ for all combinations of μ and σ. A rank 2, symmetric tensor has 6+4 = 10 independent components, and 6 others that are redundant.
+
+The sums and differences of tensors with the same rank and indices are also tensors. The product of two tensors is a tensor, but the quotient of two tensors is not generally a tensor.
+
+**Tensor Indices**
+
+Since tensors can have so many components, we use indices to avoid writing them all out individually. Above, we used two indices to identify the components of a rank 2 tensor, as we did in Chapter 27. Let's now discuss tensor indices in general.
+
+A rank N tensor has N indices that all range over the same set of allowed values. A rank 2 tensor, for example, must have the same number of rows and columns, unlike a matrix that may have a different number of rows and columns. A rank N tensor has 4^N components in 4-D, and 3^N components in 3-D.
+
+In 3-D and flat (non-curved) 4-D spaces, tensor indices are written as subscripts. For example, consider two alternative notations for the components of the rank 1, position tensor: r_1 = r_x = x r_2 = r_y = y r_3 = r_z = z r_0 = r_t = ct r = (ct, x, y, z)
+
+Here, σ = 0, 1, 2, 3, or if you prefer, σ = t, x, y, z.
+
+These equations demonstrate a critical difference between the free index σ, which can have any value in the allowed range, and the fixed indices 0, 1, 2, 3, x, y, z, and t. The latter refer to specific components, whereas the former refers to any component corresponding to any possible value of σ.
+
+Free indices are just labels. The specific letters we choose have no significance mathematically or physically: x_σ and x_μ mean exactly the same thing, as do A_μ and A_β. The significance of free indices lies in the relationships they establish. For e Example: A = B means that every component of B equals the component of A on the opposite side of the diagonal. Just like a vector equation, this tensor equation would mean exactly the same thing for any letters we might substitute for µ and σ.
+
+Tensor Algebra A common tensor equation is: L = 0 This establishes the same equation for all values of the free index µ. In this case, it means each component of L equals zero. Every tensor equation is valid for all values of every unmatched free index. By “unmatched”, we mean a free index that appears only once in a single product term. Hence: A = 1 means every component of tensor A equals 1.
+
+We said above that the product of two tensors is itself a tensor. For example, if A and B are two position 4-vectors (rank 1 tensors), their product A B is a rank 2 tensor (AB)μσ. The product of a rank N tensor with a rank M tensor is always a tensor of rank N+M.
+
+When a free index appears twice in one term, the Einstein summation convention directs us to sum over all values of the repeated index. This is similar to a vector dot product, and is called a tensor contraction (contraction in the sense that the number of indices and the tensor’s rank are reduced). For example: A B = A B + A B + A B + A B Here µ appears twice in the product term AB, which directs us to sum over all values of µ. All quantities on the right side are components, hence their sum is a scalar with no free indices. The tensor contraction of a rank N tensor with a rank M tensor has rank N+M–2.
+
+In a proper tensor equation, each non-zero term must have the same set of unmatched free indices. For example: valid for all σ: A x + C = B invalid: A x + C = B because σ and β are not in every term.
+
+The unit tensor [1] is as important in tensor calculus as 1 is in arithmetic. The components of the unit tensor are 1 when all indices are the same, and 0 whenever any two indices are different. In the rank 2, 4-D, unit tensor shown below, all diagonal components are 1 and all off-diagonal components are 0.
+
+The symbol δμσ is often used in math and physics. It is called the Kronecker delta, and is defined by: δ = 1 if μ=σ and zero otherwise.
+
+The tensor contraction δμµ equals: δ = δ + δ + δ + δ = 4
+
+Like matrices, all non-singular tensors have inverses: A–1 is the inverse of Aμσ. The contraction of a tensor with its inverse always equals the unit tensor. This is as close to tensor division as tensor calculus gets.
+
+A–1 A = A A–1 = [1] = δ
+
+We define tensors as arrays of components that transform properly. In 3-D, that means they transform according to the rules of Euclidean rotations. Let’s review the procedure for rotating a coordinate system. We start with a point Q defined in a coordinate system S with Q at (x,y,z). We then rotate this system about its z-axis by angle θ, resulting in a new coordinate system S* with the same z-axis but new x- and y-axes. In S*, the coordinates of Q are (x*,y*,z*). The equations for transforming Q’s coordinates are: x* = + x cosθ + y sinθ y* = – x sinθ + y cosθ z* = z
+
+Note that we are rotating coordinate axes, keeping Q stationary. If we instead keep the axes stationary and rotate Q, the equations would be the same as above except with θ replaced by –θ.
+
+We can write this rotation transformation as a tensor Z(θ), whose components are shown below: Note that Z–1(θ), the inverse of Z(θ), is simply Z(–θ), which is the transpose of Z: Z –1 = Z
+
+In tensor notation, the above component rotation equations become: Q* = Z Q Again the sum over k is implied. Without indices this is: Q* = Z Q
+
+The requirement that a tensor transform properly under any rotation R can be written: rank 1: A* = R A , sum over k rank 2: A* = R R A , sum over nm rank 3: A* = R R R A , sum nmσ
+
+In each line, A* is the transformed tensor of the original tensor A. For rank 1, we sum over all three values of k. For rank 2, we sum over all 3×3=9 values of n and m. For rank 3, we sum over all 3×3×3=27 combinations of all possible values of n, m, and σ.
+
+Note that for rank 2, the above transform can also be written: A* = R R A = R R–1 A A* = RA R–1
+
+Note that since tensor operations are fully defined by paired free indices, the order of product terms is irrelevant, unlike matrix multiplication.
+
+We can form tensors by combining any proper polar vectors (but not axial vectors). For example, if A and B are proper polar 3-vectors, then: C = AB is a proper rank 2, 3-D tensor.
+
+Let’s show that C transforms properly for any rotation R by transforming each vector.
+
+(A*) (B* ) = (R A) (R B)
+
+(A*) (B* ) = R R A B (A*) (B* ) = R R C = C*
+
+Hence, C transforms properly and is therefore a tensor. The same logic applies to tensors of any rank. For example: F Λ R is a proper rank 6 tensor, although it has no physical meaning as far as I know.
+
+To understand the Feynman Lectures, that is as much as you need to know about tensors.
+
+Those who wish a glimpse of general relativistic tensor calculus can enjoy the next section (there’s no exam), while others can skip to the section on the polarization tensor.
+
+Tensor Calculus in Curved Spacetime In 4-D curved spacetime, the dot product cannot be simply the sum of the products of corresponding components. This is because, coordinate axes may change directions and rulers may change lengths, and all that can happen differently at every location and instant in time.
+
+We therefore need a metric to reveal the geometry at each event (ct,x,y,z) in spacetime. That metric specifies the invariant interval, the “true distance”, between any two nearby events. It turns out that knowing the interval between all nearby events completely determines the geometry everywhere.
+
+In curved space, the dot product of two 4-vectors A and B is: Aμ Bμ = gμσ Aμ Bσ = + g At Bt + g At Bx + g At By + g At Bz +g Ax Bt +g Ax Bx +g Ax By +g Ax Bz +g Ay Bt +g Ay Bx +g Ay By +g Ay Bz +g Az Bt + g Az Bx +g Az By +g Az Bz
+
+If ds is the separation 4-vector between two nearby events, the invariant interval ds2 between those points is: ds = (cdt, dx, dy, dz)
+
+ds2 = dsμ dsμ = gμσ dsμ dsσ
+
+Here, ds2 is an invariant scalar — it measures the separation between nearby events and has the same value in any coordinate system. In Feynman’s sign convention, ds2 equals c2dτ2 where τ is proper time, the time measured by an ideal clock moving between these nearby events.
+
+Note that some indices are subscripted while others are superscripted. The former are called covariant indices, while the latter are called contravariant indices. Since superscripts look exactly like exponents, we try to avoid using exponents in tensor calculus whenever confusion might arise: x2 always means the second component of xµ, while (x)2 means x*x. Because the square of coordinate differentials occur so frequently, an exception to this rule is dx2 which means (dx)2.
+
+In 4-D curved spacetime, we only sum repeated free indices if one is covariant and the other is contravariant. The difference between the two is demonstrated by the covariant and contravariant position 4-vectors in Feynman’s sign convention.
+
+xα = (ct, –x, –y, –z) is contravariant xμ = (ct, x, y, z) is covariant
+
+The metric in flat spacetime, in Feynman’s sign convention, is: The metric in polar coordinates, near a black hole in Feynman’s sign convention, is: Here, the gθθ and gϕϕ components are the normal polar coordinate factors, which are unaffected by gravity. Gravity dilates time and stretches space through the factor Ω=1–2GM/c2r, where G is Newton’s gravitational constant, M is the black hole’s mass, and r is the distance from its center. Note that odd things happens when Ω = 0 at r = 2GM/c2, the location of the black hole’s event horizon. One interesting effect is that the event horizon is timeless — the passage of time has no effect whatsoever on the event horizon, because gtt is zero at that radius.
+
+Note that, in the most common modern notation, the metric gμσ has a minus sign on the time component and plus signs on the three spatial components, which is opposite to Feynman’s convention.
+
+The Lorentz transformation tensor is: Here, β = v/c and γ = 1/√(1–β2).
+
+Some typical index operations are:
+
+## 1. Lowering an Index: xμ = gμσ xσ
+
+## 2. Raising an Index: xμ = gμσ xσ
+
+## 3. Lorentz Transform: Xσ = Λσβ xβ
+
+Like other square matrices, the metric tensor for most geometries can be diagonalized, meaning all non-diagonal components can be made zero with suitable transformations. The invariant interval is then reduced to 4 terms, and the inverse metric is simply gαα = 1/gαα.
+
+Diagonalizing the metric tensor can mix the coordinates in surprising ways. For example, the time coordinate t and radial distance coordinate r might be replaced by the coordinates u=ct+r and v=ct–r, leaving nothing that represents pure time. But since the tensor calculus of general relativity works in any coordinate system, such mixing is mathematically valid and can simplify our calculations even when it defies our intuition.
+
+When one becomes comfortable with tensor notation, it is possible to drop the indices altogether, as we do in vector algebra. We can then write equation #3 as: X = Λx
+
+The ultimate equation of general relativity, and Einstein’s greatest contribution to mankind, are his field equations, which are written: G = 8π T Here, G represents the geometry of spacetime, and T represents all forms of energy, including mass and momentum. G is now called the Einstein tensor, and T is called the mass-energy-stress tensor. Both are symmetric, rank 2 tensors. We say equations, the plural, because G = 8πT represents 16 component equations: 4 describe the conservation of energy and momentum; 6 relate energy density to spacetime curvature; and the remaining 6 are redundant.
+
+约翰·阿奇博尔德·惠勒曾说，G = 8πT 的含义是：“时空的几何告诉物质和能量如何运动，而物质和能量告诉空间如何弯曲。” 布莱恩·格林将爱因斯坦场方程描述为宇宙芭蕾的编排，这是一场双方相互引领的双人舞。
+
+希望这份广义相对论的简短介绍能让你感到有趣。若想了解这一最深刻科学理论的透彻而易懂的解释，请参见《广义相对论 1：牛顿 vs 爱因斯坦》。
+
+极化张量在《V2p31-1》中，费曼提到晶体通常是各向异性的，如第31章所述，这意味着其性质在不同方向上不同。
+
+例如，考虑一个由长而细的分子组成的晶体。平行于分子长轴方向的外部电场可以使电子移动相当远的距离。相反，在垂直于该轴的方向上，电子的迁移率较低，在相同场强下移动的距离要短得多。
+
+从宏观上看，我们观察到此类晶体的极化率是各向异性的。这导致极化矢量 P 与施加的外部电场 E 不共线。我们来理解为什么会发生这种情况，考虑一个晶体，其主轴沿正交坐标轴 x、y 和 z。我们将假设沿每个坐标轴，P 与 E 共线且成线性正比，根据： P_j = β_j E_j，其中 j = x, y, z 图 37-1 在二维（x 和 y）中说明了这一点。电场 E_x 诱导共线的极化 P_x，而电场 E_y 诱导共线的极化 P_y。
+
+图 37-1 各向异性极化假设晶体在 y 方向具有更高的极化率，我们显示 P_y 大于 P_x，即使 E_x 和 E_y 具有相同的强度。当我们对 E 和 P 进行矢量相加时，我们发现 P 与 E 不共线。
+
+显然，如果 E_x 和 E_y 不具有相同的强度，或者晶体轴未与我们的坐标轴对齐，我们将获得不同的结果。通常，x 方向的外部电场可能诱导一个在所有三个轴上具有非零分量的极化 P。对于 y 和 z 方向的电场，会发生类似的效果。
+
+这种更大的复杂性最好通过定义极化张量 Π 来管理，使得： P_x = Π_xx E_x + Π_xy E_y + Π_xz E_z P_y = Π_yx E_x + Π_yy E_y + Π_yz E_z P_z = Π_zx E_x + Π_zy E_y + Π_zz E_z 在张量表示法中，这是： P_j = Π_jk E_k 这里对 k 的求和是隐含的。不带指标时，这变为： P = Π E 晶体的介电性质完全由二阶张量 Π 的分量描述，其中第一个索引表示由外部场沿第二个索引所指轴诱导的极化方向。
+
+在《V2p31-3》中，费曼讨论了如果我们的坐标系旋转会发生什么。一如既往，我们意识到自然界如何定义坐标系是无关紧要的：无论我们如何选择描述它，物理结果都是相同的。因此方程： P = Π E 在任何坐标系中都有效（这就是为什么我们使用矢量和张量），但 P、Π 和 E 的分量随坐标系的变化而变化。
+
+费曼没有向我们展示如何计算新分量，但用张量可以轻松完成。将极化方程乘以旋转张量 R 得到： R P = R Π E 我们可以在任何地方插入 R^{-1} R，因为张量乘以其逆等于 [1]，即单位张量。
+
+R P = R Π (R^{-1} R) E 重新组合得到： R P = (R Π R^{-1}) (R E)
+
+R P 和 R E 是新坐标系中的 P 和 E（一阶张量，即3维矢量），而 (R Π R^{-1}) 是新坐标系中的二阶极化张量 Π。张量乘积产生了我们需要的一切。
+
+这是美妙的数学——一个棘手的问题，被优雅地解决了。
+
+在《V2p31-6》中，费曼建议“通过证明[单位张量]在任何坐标系中具有相同形式来娱乐自己。”由于我给了你旋转张量并展示了如何应用它，这应该很容易。你可以在本章末尾检查你的答案。
+
+能量椭球为了熟练掌握张量，费曼建议我们考虑使晶体极化所需的能量。晶体外部的场能是 εE²/2，但晶体极化本身内部储存的能量是多少？
+
+在电场 E 中将电荷 q 移动一个无穷小距离 dx 所需的能量 du 是： du = q E·dx 对于单位体积内的 N 个此类电荷，单位体积所需的能量是： du = qN E·dx 现在注意，qN dx 是偶极矩的变化 dP。因此， du = dP·E 在三维矢量表示法中，这是： 能量密度 = dP·E 在张量表示法中，这是： 能量密度 = d{ (Π E)_j E_j } 注意 Π 不变化；张量 Π 是由描述晶体性质的常数组成的。
+
+现在定义 e 为 E 方向的单位向量，并令 E 为 E 的大小；因此 E = eE，且： du = (Π e)_j e_j E dE 从初始场强零积分到最终场 E，我们得到： u = (Π e)_j e_j E²/2 u = E_j Π_jk E_k / 2 这里我们对 j 和 k 求和。不带指标时，方程为： u = E Π E / 2 能量密度 u 是一个标量。
+
+在《V2p31-4》中，费曼说，对于任何实际晶体，极化张量 Π 是对称的，即对于所有 j 和 k，Π_jk = Π_kj。因此，张量 Π 有 6 个独立分量和 3 个冗余分量。他补充说，这意味着可以通过测量不同场组合下的 u 来确定张量分量。例如： 仅对于 E_x：2u = Π_xx E_x² 仅对于 E_y：2u = Π_yy E_y² 对于 E_x 和 E_y：2u = Π_xx E_x² + 2Π_xy E_x E_y + Π_yy E_y² 前两个条件允许我们确定 Π_xx 和 Π_yy。知道了这些，最后一个条件提供了 Π_xy。我们可以类似地确定 Π_zz、Π_xz 和 Π_zy，即 Π 的其他三个独立分量。
+
+费曼指出，最后一个方程是 E_x 和 E_y 的二次方程。图 37-2 显示了对于给定的极化张量 Π，提供相同能量密度 u 的 (E_x, E_y) 对的轨迹。这个轨迹形成一个椭圆。
+
+图 37-2 二维中的能量椭圆在《V2p31-5》中，费曼说：“能量椭圆是‘可视化’极化张量的一种好方法。” 在三维中，能量密度是 E_x、E_y 和 E_z 的二次函数。具有相同能量密度 u 的点 (E_x, E_y, E_z) 的轨迹是一个椭球，如图 37-3 所示。
+
+图 37-3 三维中的能量椭球所有椭球都有三个正交的主轴。图 37-3 中的坐标系已与这些方向对齐。在此图中，y 是第一主轴，因为那是最大直径的方向，即 2b。最短直径是 2a，沿 x 方向的主轴。最后一个主轴在 z 方向，垂直于其他两个；沿此轴直径为 2c。
+
+主轴的巨大优势，就像转动惯量一样（参见《费曼简化版 1D》第 41 章），是沿每个主轴的行为特别简单。通过将我们的坐标系与晶体的主轴对齐，我们发现： 2u = Π_xx E_x² + Π_yy E_y² + Π_zz E_z² 有了这些轴，Π 的唯一非零分量是上述三个：其他六个为零。这意味着，将我们的坐标轴旋转以与晶体的主轴对齐，将极化张量 Π 对角化，并将极化方程简化为： P_x = Π_xx E_x P_y = Π_yy E_y P_z = Π_zz E_z 极化系数仍然不同，但现在沿这些轴中的任何一个方向的场仅诱导沿该轴的极化。费曼强调，晶体的三个主轴可能不是晶胞的轴。后者不一定相互正交。
+
+如果三个极化系数相等，则晶体在极化方面是各向同性的。
+
+在《V2p3-6》中，费曼说： “现在极化率的椭球必须共享晶体的内部几何对称性。例如，三斜晶体具有低对称性——[其]极化率椭球将具有不相等的轴，并且其方向通常不会与晶体轴对齐。另一方面，单斜晶体具有这样的性质：如果晶体绕一个轴旋转 180º，其性质不变。因此极化张量在这样的旋转后必须相同。……只有当椭球的一个轴与晶体的对称轴方向相同时，这种情况才可能发生。…… “然而，对于正交晶体，椭球的轴必须与晶体轴对应，因为绕三个轴中的任何一个旋转 180º 会重复相同的晶格。如果我们转向四方晶体，椭圆必须具有相同的对称性，因此它必须有两个相等的直径。最后，对于立方晶体，椭球的三个直径必须相等；它变成一个球体，晶体的极化率在所有方向上都是相同的。” 与极化各向异性相关，晶体也可能具有各向异性的电导率。在更简单的材料中，电导率 σ 是恒定的且各向同性的。然后，电流 j 和施加的外部场 E 由下式给出： j = σ E 然而，如果晶体的电导率取决于电流的方向，则 σ 必须由张量表示，上述方程变为： j = σ E j_µ = σ_µβ E_β 这里我们对 β 求和，对于每个 µ 值。
+
+惯性张量在《费曼简化版 1D》第 40 和 41 章中，我们探讨了旋转刚体的转动惯量。正如晶体具有极化主轴一样，固体物体具有惯性主轴。如果物体绕主轴旋转，角动量 L、角速度 ω 和转动惯量 I 之间的关系是： L = I ω 这里 L 和 ω 都是 3 维矢量（更确切地说是轴矢量而不是极矢量）。通常，物体具有不同的转动惯量 about each principal axis, as does the rectangular cuboid (“block”) shown in Figure 37-4.
+
+Figure 37-4 Non-Principal Axis Rotation Here, the three principal axes are perpendicular to the block’s faces and are indicated by arrows. Due to the differing side lengths, the moments of inertia along the principal axes are all different. As shown, the block rotates about the vertical axis with angular velocity ω, and has angular momentum L that is not collinear with ω. This is because the vertical axis is not a principal axis and the three moments of inertia are different.
+
+This more complex relationship between L and ω is best represented by a tensor equation: L_j = I_{jk} ω_k. Again, we sum over all values of k for each value of j. I_{jk} is the rank 2, inertia tensor.
+
+In V2p31-7, Feynman writes out all the components.
+
+L_x = I_{xx} ω_x + I_{xy} ω_y + I_{xz} ω_z L_y = I_{yx} ω_x + I_{yy} ω_y + I_{yz} ω_z L_z = I_{zx} ω_x + I_{zy} ω_y + I_{zz} ω_z You be the judge of whether the tensor equation or the component equations provide greater insight.
+
+If we define our coordinate system along the object’s principal axes, the inertia tensor will be diagonal, and the above equation reduces to: L = (I_{xx} ω_x, I_{yy} ω_y, I_{zz} ω_z).
+
+With the same logic that we used to analyze polarization, we can derive the components of the inertia tensor by calculating an object’s rotational kinetic energy. Let the object contain N particles, and let the nth particle be at position r_n = (r_{nx}, r_{ny}, r_{nz}) and have mass m_n. To simplify the math, we choose a coordinate system centered at the object’s center of mass (CM), and assume the axis of rotation passes through the CM, which is stationary. Mimicking the equations for polarization energy, the object’s total rotational kinetic energy can be written in two ways: Σ m_n v_n^2 /2 = K.E. = Σ I_{jk} ω_j ω_k /2 Here v_n = |v_n| = |dr_n / dt|, and the sums are over: n = 1 to N; and j & k = x, y, and z.
+
+To solve for the object’s moment of inertia I_{jk}, we must separate the sum of m_n v_n^2 into two parts: one that depends on angular velocity ω; and another that depends on the structure of the object itself, its sum of m_n r_n^2.
+
+Since the motion is entirely rotational: v_n = ω × r_n.
+
+The velocity is perpendicular to both ω and r_n, and is proportional to the magnitude of ω and to the component of r_n orthogonal to ω. The kinetic energy is then: K.E. = Σ m_n (ω × r_n) • (ω × r_n) /2 Let’s work on the squared cross product, using θ as the angle between ω and r_n.
+
+|ω × r_n|^2 = ω^2 r_n^2 sin^2θ = ω^2 r_n^2 – ω^2 r_n^2 cos^2θ = ω^2 r_n^2 – (ω • r_n)^2 We rewrite this in terms of components: = r_n^2 (Σ ω_j^2) – (Σ ω_j r_{nj}) (Σ ω_k r_{nk})
+
+Next, we can combine the two sums in the right term, because they have different indices: 3 j-terms multiplied by 3 k-terms are the same as 9 jk-terms. We also make the ω-terms in the left sum match those of the right half with a little trick: ω^2 = Σ δ_{jk} ω_j ω_k.
+
+= r_n^2 (Σ δ_{jk} ω_j ω_k) – Σ (ω_j r_{nj} ω_k r_{nk})
+
+|ω × r_n|^2 = Σ (r_n^2 δ_{jk} – r_{nj} r_{nk}) ω_j ω_k Finally, we substitute this expression into the kinetic energy equation, and compare both versions to identify I_{jk}.
+
+2 K.E. = Σ I_{jk} ω_j ω_k = Σ m_n Σ (r_n^2 δ_{jk} – r_{nj} r_{nk}) ω_j ω_k I_{jk} = Σ m_n (r_n^2 δ_{jk} – r_{nj} r_{nk})
+
+Feynman provides a different derivation with all components written out explicitly that we will examine next. If you wish, you can skip this second proof and proceed to the next section.
+
+K.E. = Σ m_n (ω × r_n) • (ω × r_n) /2 Feynman evaluates this for a single r with components (x, y, z).
+
+(ω × r)•(ω × r) = (ω × r)_x^2 +(ω × r)_y^2 +(ω × r)_z^2 = (ω_z–ω_y)^2 + (ω_x–ω_z)^2 + (ω_y–ω_x)^2 = ω_z^2 y^2 – 2ω_y ω_z y z + ω_y^2 z^2 + ω_x^2 z^2 – 2ω_z ω_x z x + ω_z^2 x^2 + ω_y^2 x^2 – 2ω_x ω_y x y + ω_x^2 y^2 Regrouping the squared terms, gives us: = ω_x^2 (y^2 + z^2) – 2ω_y ω_z y z + ω_y^2 (x^2 + z^2) – 2ω_z ω_x z x + ω_z^2 (x^2 + y^2) – 2ω_x ω_y x y Using the equation r^2 = x^2 + y^2 + z^2, yields: = ω_x^2 (r^2 – x^2) – 2ω_y ω_z y z + ω_y^2 (r^2 – y^2) – 2ω_z ω_x z x + ω_z^2 (r^2 – z^2) – 2ω_x ω_y x y (ω × r)•(ω × r) = Σ (r^2 δ_{jk} – r_j r_k) ω_j ω_k The three j = k terms in the last equation give us the left half of the prior three lines, while the six other terms with j not equal to k give us the right half. Note that the sum in the last equation gives us both –ω_y ω_z and –ω_z ω_y, which combine to equal the right half of the first of the three prior lines.
+
+From this point, Feynman’s derivation proceeds as I presented above.
+
+Cross Product as a Tensor In V2p31-8, Feynman says we have been using tensors unknowingly since we studied the cross product in Feynman Simplified 1A, Chapter 6. For example, the equation for torque from Feynman Simplified 1D, Chapter 39, is: τ = r × F.
+
+One can write this as: τ_{jk} = r_j F_k – r_k F_j.
+
+Here, we see that τ_{jk} is formed by two pairs of proper polar 3-vectors. As we discussed in the Tensor Algebra section, each product term on the right side is a proper rank 2 tensor, and so therefore is their difference.
+
+Clearly, τ_{jk} is antisymmetric: τ_{jk} = –τ_{kj}. In 3-D, this means τ has only three independent non-zero components. Feynman says it is “almost by accident” that these three components form a proper axial 3-vector. He says “accident” because this is true only in 3-D. In 4-D, for example, antisymmetric tensors have 6 non-zero components, which clearly cannot make a 4-vector.
+
+The same logic applies to any vector cross product; each can be written as a rank 2, antisymmetric tensor.
+
+Stress Tensor In V2p31-9, Feynman explores a tensor describing a very different phenomenon: stress. External forces acting on solid elastic matter distort the solid, and create internal stresses and strains. Atoms in the solid are displaced from their equilibrium positions (strain), and exert forces (stress) upon one another. We examined this phenomenon briefly in our discussion of a deflected drumhead in Chapter 12.
+
+Let’s delve more deeply into such phenomena using a distorted block of Jello as our example. Inside a block of Jello, intermolecular forces hold the material together. At equilibrium, across any plane surface, the forces acting on one side of the surface must balance the forces acting on the other side of that surface; the opposing forces must be equal in magnitude and opposite in direction.
+
+Over any small area Δa, these opposing forces, call them ΔF and –ΔF, must be proportional to Δa. Let’s see why.
+
+Select a vertical flat surface in the x=0 plane. The x-axis is normal to the surface, and y and z are the coordinates within the surface. Figure 37-5 illustrates the coordinate system, area Δa (shown in gray), and the components of force ΔF = (ΔF_x, ΔF_y, ΔF_z) = (α, β, γ).
+
+Figure 37-5 Forces on Δa = ΔyΔz Since any physically meaningful function can be represented by a Taylor series, we can write the force ΔF as: ΔF = a_0 + a_1 (Δa) + a_2 (Δa)^2 + O{(Δa)^3}. Since ΔF is zero if Δa is zero, a_0 must be zero, and in the limit that Δa is infinitesimal, terms proportional to the second and higher powers of Δa are negligible. Thus, ΔF is proportional to Δa, which is equal to Δy × Δz.
+
+In a static liquid, force ΔF is always normal to the surface; we call this pressure. But, Feynman says, in solids or flowing viscous liquids, there may also be non-zero forces parallel to the surface; these are called shear forces.
+
+Thus, there are three potential force components acting on the surface ΔyΔz. Similarly, there are three force components acting on ΔzΔx and ΔxΔy surfaces. All this is best addressed by defining the tensor S_{jk} for the stress per unit area: S_{jk} = ΔF_{j} / Δa_k, where, Δa_x has area Δy Δz & is orthogonal to x Δa_y has area Δz Δx & is orthogonal to y Δa_z has area Δx Δy & is orthogonal to z In V2p31-10, Feynman says the next step is to show that S_{jk} is indeed a tensor, and that it completely describes the solid’s internal forces.
+
+To address completeness, let’s consider a small volume V within the solid. If the solid is in equilibrium, volume V will be stationary, and the vector sum of all forces acting on its surfaces must be zero.
+
+In the limit that V goes to zero, any forces that originate outside the solid are negligible compared with the solid’s internal forces. This is because macroscopic forces (electromagnetism and gravity) are proportional to volume for a homogeneous solid. The volume of V is proportional to its small dimensions cubed, while its surface area is proportional to its dimensions squared. We can therefore pick a size at which the internal forces dominate. Without outside forces, the sum of the internal forces over all surfaces of V must be zero.
+
+The volume we select is the triangular pyramid shown in gray in Figure 37-6. Three of the pyramid’s edges meet orthogonally at the origin, and have lengths: Δx, Δy, and Δz.
+
+Figure 37-6 Triangular Pyramid Here, vectors A and B are along two edges of the slanted surface, and vector N = (N_x, N_y, N_z) is normal to that surface.
+
+Let’s first calculate N and the area of the slanted surface. Both are defined by the cross product: A × B = N = n (area of AB-parallelogram). As we discussed in Feynman Simplified 1A, Chapter 6, the graphic significance of the cross product N=A×B is that the magnitude of N equals the area of a parallelogram whose sides are A and B, |N| = |A×B|, and the direction of N is normal to that parallelogram. In this case, A × B = (Δx, 0, –Δz) × (0, Δy, –Δz)
+
+N = (Δy Δz, Δx Δz, Δx Δy)
+
+|N| = √(Δy^2Δz^2 + Δx^2Δz^2 + Δx^2Δy^2)
+
+The area of the slanted surface is one-half of |N|, the area of the parallelogram formed by A×B.
+
+Next, let’s calculate the x-component of force on each of the four surfaces of the triangular pyramid, with each surface’s unit normal defined to point outward. We assume that the dimensions are small enough that the force across each surface is constant. The equation for force is: ΔF_j = S_{jk} Δa_k. Note that force F and area a are vectors. On the bottom surface (y=0), the unit normal points toward –y, hence Δa_y is negative, and this surface contributes: bottom: (–1) S_{xy} Δx Δz /2. On the left surface...
+
+(x=0)，单位法线指向 –x，因此 Δa 为负，该面的贡献为： left: (–1) S Δy Δz / 2
+
+在背面 (z=0)，单位法线指向 –z，因此 Δa 为负，该面的贡献为： back: (–1) S Δx Δy / 2 xz
+
+在斜面上，力贡献 F 等于 N（单位面积上的力的 x 分量）乘以其面积。
+
+F = N A / 2 x |AB|
+
+令 x 方向的合力为零，得到： 0 = F – S ΔxΔz/2 – S ΔyΔz/2 – S ΔxΔy/2 xy xx xz
+
+N A = S ΔxΔz – S ΔyΔz – S ΔxΔy x |AB| xy xx xz
+
+回顾： N = (Δy Δz, Δx Δz, Δx Δy)
+
+我们定义一个单位向量 n = (n, n, n)，它与 N 平行。
+
+x y z n = Δy Δz / A x |AB| n = Δx Δz / A y |AB| n = Δx Δy / A z |AB|
+
+我们之前的方程变为： N = S n + S n + S n x xx x xy y xz z
+
+我们可以将其推广到任意力分量： N = S n j jk k
+
+上述方程表明，应力张量 S 确实完全描述了固体在任意取向表面上的内部应力。此外，由于 N 和 n 都是真正的 3 维向量，S 必须是一个真正的 3 维、2 阶张量。
+
+xk （如果你觉得费曼在 V2p31-11 中的方程 (31.24) 令人困惑，你并不孤单——我也一样。费曼使用的是一种他发明而其他人很少使用的特殊符号。他方程右边的符号 S 是 2 阶张量的 jk 分量，而他左边的符号 S 是 3 维力向量 S 的第 j 个分量。）
+
+jk 费曼证明了应力张量是对称的：S = S。图 37-7 显示了 xy 平面上一个小方形区域上的应力。
+
+jk kj
+
+图 37-7 方形上的应力
+
+在平衡时，方形不能转动，因此所有力矩之和必须为零。对于边长 D，总力矩为： 0 = 2 S D/2 – 2 S D/2 yx xy
+
+因此，S = S，同样适用于其他混合索引组合。所以应力张量是对称的。
+
+xy yx
+
+任何应力张量都可以对角化，这等同于说每个应力张量都有三个无剪切的主轴。在由主轴定义的坐标系中，所有力都垂直作用于任何表面（就像压强一样）。
+
+应力张量也可以描述压电效应，即晶体在应力作用下产生电场 E 的现象，根据： E = Θ S j jkn kn
+
+这里，我们对 k 和 n 求和，Θ 是压电张量。
+
+jkn
+
+最后要说明的是，费曼指出，非均匀固体的应力可能随位置而变化。因此应力张量在不同点具有不同的分量。就像温度是标量场，风速是矢量场一样，变形固体中的应力是一个张量场。
+
+应变与弹性
+
+回顾《费曼简化版 1A》第 7 章中关于弹簧的胡克定律： F = k x
+
+这里，F 是将弹簧从其平衡长度位移距离 x 所需的力，k 是弹簧强度常数。位移弹簧中储存的弹性势能 U 由下式给出： U = F x / 2 = k x² / 2
+
+胡克定律适用于简单材料在一维情况下的小位移。
+
+更复杂的固体，具有更复杂的变形，最好使用应变张量 T 和弹性张量 Γ 来处理。在一般情况下，我们有： T = Γ S U = T S / 2 = Γ S S / 2
+
+带索引的形式为： T = Σ Γ S jk nm jknm nm U = Σ Γ S S / 2 jknm jknm jk nm
+
+如你所见，Γ 有四个指标，使其成为 4 阶张量，有 3⁴ = 81 个分量。幸运的是，存在许多重复分量，将独立分量的数量减少到一个仍然可观的数字 21（一般情况下）。在高度对称的晶体中，这个数量会显著减少。例如，在立方晶体中，Γ 只有 3 个独立分量。
+
+在各向同性固体中，Γ 只有 2 个独立分量。费曼解释了原因。完全对称且各向同性的唯一张量是 δjk，或其某种构造。可以用 δjk 以两种方式构建一个 4 阶张量： δjk δnm δjn km + δjm nk
+
+因此，Γ 必须是这些的线性组合： Γ = α (δjk δnm) + β (δjn km + δjm nk)
+
+对于某些常数 α 和 β。
+
+场动量张量
+
+接下来，我们将视野扩展到四维时空。
+
+上述应力张量 Sjk 实际上是一个 4×4、2 阶、4 维应力张量的 3×3 空间部分。
+
+我们之前将 Sjk 定义为作用在垂直于 k 方向的表面上、沿 j 方向的单位面积上的力分量。由于力是动量的时间导数，我们可以将力描述为动量流动的速率。这意味着 Sjk 是穿过垂直于 k 方向的单位面积的 j 方向动量流动的速率。简言之：Sjk 是 k 方向上的 j 动量通量。这里，j 和 k 可以是 x、y 或 z 中的任何一个。
+
+那么时间分量呢，比如 Stt 或 Stx？
+
+回顾 4-动量 p 的时间分量是 E/c。我们这里不作证明，但应力张量的时间分量为： Stx = Sxt = x 方向的能量通量 Sty = Syt = y 方向的能量通量 Stz = Szt = z 方向的能量通量 Stt = 能量密度
+
+这个 4 维张量被称为应力-能量张量，或应力-能量-质量-动量张量，或其各种变体。通常将其记为 Tμσ。这个张量出现在爱因斯坦最重要的广义相对论方程中： Gμσ = 8π Tμσ
+
+仅为了娱乐，我们提供另外两个著名张量的方程。
+
+对于自由粒子气体（无作用力），密度为 ρ，压强为 P，气体 4-速度为 u： Tμσ = (ρ+P) uμ uσ – gμσ P
+
+对于真空中的电磁场： Tμσ = (ε₀/2) {Fμβ Fσβ – gμσ Fαβ Fαβ/4}
+
+克罗内克δ的普适性
+
+费曼挑战我们证明克罗内克 δμσ 在每个坐标系中都具有相同的形式 [1]。
+
+在本章开始时，我们学习了如何使用旋转张量 R 及其逆 R–1 将张量从一个坐标系变换到另一个坐标系。对于任何 2 阶张量 A，变换后的张量 A* 由下式给出： A* = R A R–1
+
+在 4 维弯曲时空中，这对于旋转仍然有效。对于 boost（洛伦兹变换），只需将上述 R 替换为洛伦兹张量 Λ。
+
+将任何张量 X 乘以单位张量 δ 会得到 X，如下所示： Y = δ X Yαβ = Σμ δαμ Xμβ Yαβ = Xαβ
+
+这里，我们对每个 α 和 β 的组合对 μ 求和。在该求和中，当 α=μ 时 δαμ 等于 1，否则等于零。
+
+现在，将变换方程中的 A 替换为 δμσ，得到： δ*μσ = R (δμσ R–1) = R R–1 = δμσ 对于任意 R 证毕
+
+## 第 37 章回顾：关键思想
+
+• 张量是矢量的推广。张量微积分是数学的一个美丽分支，它使我们能够优雅而有效地描述许多复杂的多维现象。任何在任何坐标系中都有效的张量方程，在所有坐标系中都无需修改即可有效。
+
+• 张量由其阶数和所在空间的维数 D 表征。一个 N 阶张量有 N 个索引，所有这些索引都在同一组允许值范围内取值，并且有 D^N 个分量。
+
+• 固定索引（例如 1 或 x）指定特定分量或行或列等。
+
+• 自由索引可以取任何允许值，例如 0,1,2, 3 或 t, x, y, z。
+
+• 一个未匹配的自由索引在单个乘积项中只出现一次。
+
+• 每个张量方程对于每个未匹配自由索引的所有值都有效。在张量方程中，每个非零项必须具有相同的未匹配索引集。
+
+• 当一个自由索引在一项中出现两次时，爱因斯坦求和约定指示我们对重复索引的所有值求和。这是一个张量缩并。例如： Aμ μ = A₀₀ + A₁₁ + A₂₂ + A₃₃ • 右边的所有量都是分量，因此它们的和是一个没有索引的标量。N 阶张量与 M 阶张量的张量缩并的阶数为 N+M–2。
+
+• 克罗内克 δμσ 定义为：δμσ = 1 若 μ=σ，否则为零。
+
+• 所有非奇异张量都有逆：A⁻¹μσ 是 Aμσ 的逆。张量与其逆的缩并总是等于单位张量： A⁻¹σμ Aμβ = Aσμ A⁻¹μβ = [1]σβ = δσβ • 晶体的极化率张量 Πjk 将其极化矢量 Pj 与外部电场 Ek 联系起来： Pj = Πjk Ek • 固体的转动惯量张量 Iμβ 将其角动量矢量 Lμ 与角速度矢量 ωβ 联系起来： Lμ = Iμβ ωβ Ijk = Σn mn (rn² δjk – rjnk rknk)
+
+这里求和遍历固体中的所有粒子，mn 是第 n 个粒子的质量，rn 是其位置。
+
+• 任何矢量叉积都可以表示为一个 2 阶反对称张量。例如，力矩 τ 的矢量形式为： τ = r × F 其张量形式为：τjk = rj Fk – rk Fj
+
+## 第 38 章
+
+磁性物质在宏观材料物体中存在几种不同类型的磁性。
+
+最引人注目的是铁磁性，这是第 40 章的主题，它仅发生在少数几种选定材料中，主要是铁、镍和钴。
+
+普通材料的磁效应要弱得多——比铁磁性弱一百万倍。让我们从这些开始。
+
+在静电学中，我们了解到所有电介质物质都会被外部电场 E 吸引。材料体内的正电荷沿 E 方向移动，而负电荷则沿相反方向移动。这会产生一个电偶极子，其在电场较高的区域能量较低。由此产生的力将所有类型的物质拉向电场较高的区域。
+
+磁性更为复杂——磁场吸引某些材料而排斥另一些材料。这两种情况很容易用图 38-1 所示的装置来区分。
+
+图 38-1 锥形磁极这里，一个小黑色样品悬挂在磁铁南北极之间的细线上。带有箭头的磁力线显示 B 场在锥形南极尖端附近最强。
+
+在此装置中，铁磁性材料被强烈吸引到南极尖端附近的强磁场区域。但是，普通的、非铁磁性的材料…… Materials are either weakly attracted or weakly repelled by the south pole. In V2p34-1, Feynman says materials that: “…are repelled in this way are called diamagnetic. Bismuth is one of the strongest diamagnetic materials, but even with it, the effect is still quite weak. Diamagnetism is always very weak.” Conversely, materials that are weakly attracted to the tapered pole are called paramagnetic. Aluminum is a paramagnetic material. Feynman says he will provide some insights into these phenomena using classical (non-quantum) electromagnetism, but that a true understanding requires quantum mechanics. That these are quantum phenomena should not be surprising. Magnetism in matter is primarily due to atoms, and the development of quantum theory was driven by the desire to understand atoms for which classical physics fails utterly.
+
+In V2p34-2, Feynman says: “Such magnetic effects are a completely quantum-mechanical phenomenon. It is, however, possible to make some phoney classical arguments and to get some idea of what is going on. We might put it this way: …there are situations, such as in a plasma or a region of space with many free electrons, where the electrons do obey the laws of classical mechanics [and] some of the theorems from materials are forced away from regions of strong fields. This is why a diamagnetic substance swings away from the tapered south pole in Figure 38-1. The r² factor in the prior equation refers to the radius of an electron’s circular orbit, assuming that orbit is two-dimensional. While plausible in classical physics, in quantum mechanics orbits are three-dimensional. To be closer to quantum theory, we should express this in terms of the average square 3-D distance from the atom’s center.
+
+In 2-D, r² = x² + y² In 3-D, ⟨r²⟩ = x² + y² + z²
+
+Assuming symmetric orbits, we should replace r² with (2/3) ⟨r²⟩. Making this substitution changes the induced moment equation to: Δµ = – q² ⟨r²⟩ B / 6m
+
+As mentioned earlier, the diamagnetic effect exists in all materials, but is generally dominated by other magnetic effects in materials with intrinsic magnetic moments.
+
+**Larmor’s Theorem**
+
+The intrinsic spin of elementary particles is a purely quantum phenomenon that has no corresponding classical equivalent. In classical physics, therefore, all atomic angular momentum is due to electrons’ orbital motion. This means the Lande g-factor is always 1, and all electrons precess at the same angular velocity ω = qB/2m. This is not the case in quantum mechanics.
+
+In classical physics, Larmor’s theorem applies: the atomic motion of electrons in an external B field is their no-field motion plus an additional rotation about B at frequency ω = qB/2m. However long and complex are the atomic motions of electrons absent an external field, adding a field merely adds a simple constant-frequency rotation.
+
+In V2p34-7, Feynman proves this theorem to the extent of the validity of classical physics. Begin with an electron in some complex orbit around a nucleus, but without an external B field. At any time t, let the electron be at position r and be subject to force F(r).
+
+Now add field B. This changes the total force on the electron to: F*(r) = F(r) + q v×B
+
+Now, Feynman’s trick is to consider this electron in a rotating coordinate system, one turning about the B-direction with angular velocity ω. As we discuss in Feynman Simplified 1A, Chapter 9, a rotating coordinate system is not an inertial frame.
+
+For classical mechanics to yield correct results in a rotating coordinate system, we must add centrifugal and Coriolis pseudo forces to the normal real forces. These pseudo forces produce an apparent tangential force Ft and an apparent radial force Fr given by: Ft = 2mωvr Fr = mω²r – 2mωvt
+
+Here vr is the electron’s radial velocity, which is the same in both stationary and rotating frames, while vt is its tangential velocity relative to the rotating frame. For small angular velocities (ωr << vt), we can neglect the squared term in the prior equation. Both pseudo forces can then be written: Fpseudo = 2m ω×v
+
+Adding this to the total real force yields: F*(r) = F(r) + q v×B + 2m ω×v F*(r) = F(r) + v× {qB – 2m ω}
+
+Evidently, if the rotating coordinate system has angular velocity ω = qB/2m, the total force with B in the rotating frame is identical to the force without B in the stationary frame. Hence, whatever happens in the stationary frame without B, also happens with B in a rotating frame. The motions are identical, except for the added rotation.
+
+**Where Classical Physics Fails**
+
+In V2p34-8, Feynman says: “Now we would like to demonstrate that according to classical mechanics there can be no diamagnetism and no paramagnetism at all. It sounds crazy—first, we have proved that there are paramagnetism, diamagnetism, precessing orbits, and so on, and now we are going to prove that it is all wrong. Yes!—We are going to prove that if you follow the classical mechanics far enough, there are no such magnetic effects—they all cancel out. If you start a classical argument … and don’t go far enough, you can get any answer you want. But the only legitimate and correct proof shows that there is no magnetic effect whatever.
+
+“It is a consequence of classical mechanics that if you have any kind of system—a gas with electrons, protons, and whatever—kept in a box so that the whole thing can’t turn, there will be no magnetic effect. It is possible to have a magnetic effect if you have an isolated system, like a star …, which can start rotating when you put on the magnetic field. But if you have a piece of material that is held in place so that it can’t start spinning, then there will be no magnetic effects. What we mean by holding down the spin is summarized this way: At a given temperature we suppose that there is only one state of thermal equilibrium. The theorem then says that if you turn on a magnetic field and wait for the system to get into thermal equilibrium, there will be no paramagnetism or diamagnetism—there will be no induced magnetic moment. Proof: According to statistical mechanics, the probability that a system will have any given state of motion is proportional to exp{–U/kT}, where U is the energy of that motion. Now what is the energy of motion? For a particle moving in a constant magnetic field, the energy is the ordinary potential energy plus mv²/2, with nothing additional for the magnetic field. [rate of work = F•v = q(E•v + {v×B}•v) = qE•v, hence the state’s energy does not depend on B] … Since the probability of any motion depends only on the energy—that is, on the velocity and position—it is the same whether or not there is a magnetic field. For thermal equilibrium, therefore, the magnetic field has no effect. If the … box has no average circulating current (which it will not have if it is in equilibrium with the stationary walls), there is no average magnetic moment. … Hence, if the temperature is kept constant and thermal equilibrium is re-established after the field is turned on, there can be no magnetic moment induced by the field—according to classical mechanics.”
+
+I bolded a few words above to highlight what I consider the essential part of this long quote. Feynman may well be right, but I don’t find his proof compelling. It is true that at equilibrium gas molecules cannot have any macroscopic circulation, but Feynman doesn’t convince me that this precludes a net circulation of electrons in atoms. He doesn’t convince me that a gas in an external field cannot have energy contributions from induced and intrinsic dipole moments. If such dipoles align favorably to the field and reduce U, this new state becomes more probable than the no-field equilibrium state.
+
+The issue is not very important. We know classical physics is inadequate to describe atoms. And no experiment can be performed to determine whether or not paramagnetism would exist in the absence of quantum mechanics.
+
+Rather than continuing to beat the “classical physics is wrong” drum, let’s instead learn enough quantum mechanics to understand what magnetism is really about.
+
+**Angular Momentum in Quantum Mechanics**
+
+The macroscopic notions of angular momentum and spin that work so well with billiard balls do not properly describe nature at the atomic scale. There are no words in any human language to adequately describe that realm, because people have never had any direct experience there.
+
+After many decades of angst and rancorous debates, physicists have generally agreed on an approach that is reasonably effective. Whenever possible, we define quantum mechanical words in terms of what is observable, and also in terms of what familiar quantities quantum phenomena begin to resemble as they scale up toward macroscopic dimensions.
+
+For example, if the energy of a system in an external magnetic field is proportional to field strength, quantum mechanics defines the coefficient of proportionality to be the system’s magnetic moment times –1. In the limit of large systems, this matches the magnetic energy equation U=–µB.
+
+We will now describe quantum angular momentum, which corresponds to macroscopic angular momentum in the limit of large systems, but which has many peculiar features at the subatomic scale. The first and most important peculiar feature is that quantum angular momentum is quantized. If a macroscopic object has total angular momentum J, its component along the z-axis can have any real value between –J and +J. Conversely, the z-component of the angular momentum of a quantum system can only have one of a limited set of 2j+1 values. These specific, equally spaced values are:
+
+Jz = m ħ, where m = –j, –j+1, …, j–1, j
+
+Here, ħ = h/2π, where h is Planck’s constant, the number that sets the scale of quantum phenomena. Such a quantum system is said to have angular momentum j. Note that the difference between consecutive allowed Jz values is always ħ, corresponding to Δm=1.
+
+The above discussion focuses on the z-axis, but in fact the same applies to any direction: in whatever direction one measures the system’s angular momentum, it will be quantized as described above. For orbital angular momentum, j must be an integer. For intrinsic particle spins, j is an integer for bosons, and a half-integer for fermions. All elementary fermions, plus protons and neutrons, have spin 1/2. All known bosons have spin 1, except the Higgs boson whose spin 0 gives it a special role in nature.
+
+In some classical physics equations, we find the expression J². In an isotropic environment, there is no preferred direction, and one would expect the angular momenta of a population of atoms to have the same average square value in every direction — for example: ⟨J²⟩. In three dimensions: J² = Jx² + Jy² + Jz²
+
+J² is constant, but the components of J may vary. We find J² from the sum of the average squares of the momenta along each axis.
+
+J² = ⟨Jx²⟩ + ⟨Jy²⟩ + ⟨Jz²⟩ = 3 ⟨Jz²⟩
+
+If all Jz values are equally probable, ⟨Jz²⟩ equals the sum of the squares of all Jz values divided by the number of such values. This is: ⟨Jz²⟩ = (Σ m² ħ²) / (2j+1)
+
+To evaluate Σ m², we employ some interesting equations for the sum of squares that are proven in the last section of this chapter.
+
+integers 1 to n: 1 + 2² + 3² + … + n² = S S = n(n+1)(2n+1)/6
+
+even integers: 2² + 4² + 6² + … + n² = E E = n(n+1)(n+2)/6
+
+odd integers: 1² + 3² + 5² + … + n² = O O = n(n+1)(n+2)/3 Sum of odd squares: 1² + 3² + 5² + … + n² = O O = n(n+1)(n+2)/6
+
+For a half-integer j, the sum of all j² is twice the sum of the squares of all j > 0.
+
+(2j+1) <J²> = 2ħ² {(1/2)² + (3/2)² + … + j²} (2j+1) <J²> = (ħ²/2) {1² + 3² + … + (2j)²} (2j+1) <J²> = (ħ²/2) { (2j)(2j+1)(2j+2)/6 } <J²> = j(j+1) ħ² / 3
+
+For an integer j, the sum of all j² is also twice the sum of the squares of all j > 0, since j = 0 does not contribute.
+
+(2j+1) <J²> = 2ħ² {1² + 2² + 3² + … + j²} (2j+1) <J²> = 2ħ² { j(j+1)(2j+1)/6 } <J²> = j(j+1) ħ² / 3
+
+For both integer and half-integer j, we obtain: J² = 3 <J²> = j(j+1) ħ²
+
+In V2p34-11, Feynman says: “Although we would think classically that the largest possible value of the z-component of J is just the magnitude of J—namely, √(J•J)—quantum mechanically the maximum of J_z is ħj, which is always a little less than ħ√[j(j+1)]. The angular momentum is never ‘completely along [any] direction’.” To be quantitative, for spin 1/2, √[j(j+1)] = 0.86603, substantially more than 0.5.
+
+Magnetic Energy of Atoms The magnetic energy of an atom is also quantized in quantum mechanics. Recall that we wrote an atom’s magnetic moment using the Lande g-factor as: µ = – g (q/2m_p) J In a magnetic field, the atom has potential energy U given by: U = – µ•B Aligning the z-axis parallel to B, these equations combine to yield: U = + g (q/2m_p) J_z B Since J_z is quantized, U becomes: U = + g µ_B B j where µ_B = q ħ / 2m_p is the Bohr magneton.
+
+This equation shows that the magnetic energy is proportional to both the strength of the B field and to the z-component of quantum number j. We say a magnetic field splits an atom’s energy into 2j+1 different energy levels, as shown in Figure 38-4 for a j=3/2 atom.
+
+Figure 38-4 Energy Splitting for J=3ħ/2 Figure 38-5 shows the energy splitting for a j=1/2 atom (or a lone electron).
+
+Figure 38-5 Energy Splitting for J=ħ/2 The following chapters will explore magnetic matter employing the quantum rules we learned here.
+
+Sums of Integers Squared Consider first the sum of the squares of all integers up to n: S_n = 1 + 2² + 3² + … + n² = Σ j² For a few values of n, S is: S_1 = 1 + 2² = 5 S_2 = 1 + 2² + 3² = 14 = 2•7 Both of these sums contain the factor 2n+1. Let’s factor that out, multiply by 3 to avoid fractions, and examine what remains for various n: n=1: 3S/(2n+1) = 1 n=2: 3S/(2n+1) = 3 n=3: 3S/(2n+1) = 6 = 2•3 n=4: 3S/(2n+1) = 10 = 2•5 This series is simply the sum of the integers from 1 to n, which equals n(n+1)/2. We therefore have: 3S/(2n+1) = n(n+1)/2 S = n(n+1)(2n+1)/6 That works for n up to 4. To prove it for all n, we use the principle of mathematical induction: given an equation that is valid for some n, if we prove it is valid for n+1, then it must be valid for all n.
+
+S_{n+1} = (n+1)(n+2)(2n+3)/6 S_{n+1} = (n+1){ 2n² + 7n + 6 }/6 S_{n+1} = (n+1){ (2n²+n) + 6(n+1) }/6 S_{n+1} = (n+1){ n(2n+1) }/6 + (n+1)(n+1)
+
+S_{n+1} = S_n + (n+1)² Thus the equation is valid for n+1 if it is valid for n. Since it is valid for n=1 through 4, the equation is valid by induction for all n. (since it is valid for n=4, it is valid for n=5, which makes it valid for n=6…)
+
+QED
+
+Next consider the sum of the squares of even integers: E = 2² + 4² + 6² + … + n² E = 4{ 1² + 2² + 3² + … + (n/2)² } E = 4 S_{n/2} E = 4 (n/2)(1+n/2)(n+1)/6 E = n(n+1)(n+2)/6 QED
+
+Next consider the sum of the squares of odd integers: O = 1² + 3² + 5² + … + n² = {1² + 2² + 3² + 4² + 5² + … + n²} – {2² + 4² + 6² + … + (n–1)²} O = S_n – E_{n-1} 6O = n(n+1)(2n+1) – (n–1)(n)(n+1)
+
+6O = n(n+1){ (2n+1) – (n–1) } O = n(n+1)(n+2)/6 QED Perhaps surprisingly, O_n = E_n — the sum of odd squares and the sum of even squares have the same equation, but of course with a different value of n.
+
+## Chapter 38 Review: Key Ideas
+
+• Diamagnetism: In all matter, an external B field induces weak currents that oppose B, causing all materials to be very weakly repelled by magnetic fields. In many substances, the magnetic moments of individual atoms balance exactly, resulting in zero net moment. In such cases, diamagnetism is the only effect, and these materials are weakly repelled by magnetic fields.
+
+• Paramagnetism: In other substances, atoms have permanent magnetic moments, due to unbalanced spins or orbital motion. These atomic moments tend to align parallel to an external field B, causing these materials to be weakly attracted to B. Paramagnetism, when present, generally dominates the ever-present diamagnetism. The latter is not temperature-sensitive but the former is. Thermal energy drives interatomic collisions that disrupt the paramagnetic alignment of atomic magnetic moments. Paramagnetism is therefore stronger at lower temperatures.
+
+• The Lande g-factor relates an object’s angular momentum J to its magnetic moment µ, according to: µ = g (q/2m) J Here, q is the charge and m is the mass of the object. For orbital angular momentum g=1. For four prominent particles: muon: µ_µ = – g (q/2m_p) J, g = 2.002,331,8414 (±12)
+
+electron: µ_e = – g (q/2m_p) J, g = 2.002,319,304,361,17 (±15)
+
+proton: µ_p = + g (q/2m_p) J, g = +5.585,694,702 (±17)
+
+neutron: µ_n = + g (q/2m_p) J, g = –3.826,085,45 (±90)
+
+• Magnetic moments precess in an external field B, turning about the B-direction at angular velocity ω (frequency f=ω/2π), where: ω = – g q B / 2m for electrons: f = (1.4 MHz/gauss) g B for nucleons: f = (760 Hz/gauss) g B • Larmor’s theorem: in classical physics, the atomic motion of electrons in an external B field is their no-field motion plus an additional rotation about B at frequency ω = qB/2m.
+
+• In quantum mechanics, the z-component of angular momentum of an object with angular momentum j can only have one of 2j+1 specific, equally spaced values, such as: –jħ, –(j–1)ħ, –(j–2)ħ … +(j–2)ħ, +(j–1)ħ, +jħ Here, ħ = h/2π, where h is Planck Electron Image Zoom A critical aspect of this brilliant experiment, done by Akira Tomonaga, is that the electron flux is so small that only one electron at a time passes from source to detector. Thus we must accept the startling conclusion that each electron passes through both slits simultaneously, creating two electron-waves that interfere with one another, contributing to the fringe pattern while striking only a single point on the detector.
+
+Only particle-wave duality has “rationalized” this behavior.
+
+To paraphrase Niels Bohr, if that “hasn’t profoundly shocked you, you haven’t understood it yet.” As with light, particles with shorter wavelengths have higher energies.
+
+Quantization is a direct consequence of particles having wavelengths, as we will now show.
+
+Feynman Simplified 1D, Chapter 44, explores waves in confined spaces, including the motion of a violin string. In brief, a string of length L that is fixed at both ends can only oscillate with waves of specific wavelengths. Its wavelength λ is quantized: λ must equal 2L/n, for some integer n, as illustrated in Figure 39-3.
+
+Figure 39-3 Waves Modes: 3 Valid, 1 Not Each allowed value of n is called a mode. Here, the upper three modes are valid, with n=1, n=3, and n=7. The lowest mode, with n=1.5, is invalid because the string’s right end is moving, contrary to the stipulation that it must be stationary.
+
+Note that quantization is most important when the size of the confining space L and wavelength λ are comparable. Let’s consider some numerical examples, recalling that the mode number n=2L/λ.
+
+If λ=2L, n=1, and the next higher mode, n=2, corresponds to a 100% jump in frequency (f=1/λ). But, if λ=2L/1000, n=1000, and the next higher mode, n=1001, is only a 0.1% jump in frequency. At the human scale, an electron’s λ=2L/10^7, n=10^7, and the jump to the next mode is imperceptible. This is why we almost never notice quantum effects. (Lasers are an exception.)
+
+By similar logic, an electron in an atom must have a wavelength that “fits” within that confining space. To “fit”, the electron must have a quantized energy and a quantized angular momentum.
+
+This is not a comprehensive explanation. That will come in Feynman Simplified 3A. But, I hope it provides you some insight into how these quantum rules arise, and shows how far this course will take you.
+
+Quantized Magnetic States Back to Feynman in V2p35-2.
+
+From the prior chapter, we know that atomic scale systems, including atoms and elementary particles, can possess angular momentum J and magnetic moment µ. Quantum mechanics requires that J is quantized in any chosen direction. Taking the z-axis as an example, J_z must equal j_z ħ, where j_z is either an integer or half-integer. Depending on charge polarity and the Landé g-factor, µ is either parallel or antiparallel to J, as given by: µ = g (q/2m) j_z ħ The quantity (gq/2m) is an intrinsic property of each type of atom or particle.
+
+The magnetic potential energy U of µ in a magnetic field B is: U = – µ•B For a magnetic field entirely in the +z-direction: U = – (gq/2m) j_z ħ B Absent a magnetic field, the system has the same energy for all allowed values of j_z. With a magnetic field, the energy levels of states with different j are split, as shown in Figures 38-4 and 38-5. Two states that have an angular momentum difference of Δj have their energy levels split by: ΔU = – (gq/2m) ħB Δj Consecutive energy levels are all separated by the same amount, which we define as: ħω = ħ |g q| B / 2m ω = |g q| B / 2m Here, ω is the frequency of a photon that is emitted or absorbed when the system transitions from one energy level to an adjacent level. This is the same frequency at which the system precesses in field B.
+
+Stern-Gerlach Experiment The 1922 experiment of Stern and Gerlach proved that atomic angular momentum is quantized.
+
+The experimental setup starts with an oven hot enough to evaporate silver. Individual silver atoms in the vapor escape through a small hole in the oven wall, forming a beam of atoms labeled A in Figure 39-4. A small aperture selects those few atoms whose velocities are nearly horizontal. Those atoms pass through a magnet whose south pole is sharply tapered.
+
+Figure 39-4 Stern-Gerlach Beam Splitter As we discussed in the prior chapter, tapering intensifies the B field at the south pole tip, as shown in a side view in the left portion of the image. After exiting the magnet, silver atoms deposit themselves on a glass plate P, as shown in a front view in the right portion of the image.
+
+While in the magnetic field, silver atoms acquire a magnetic potential energy U due to their magnetic moment µ. U is given by: U = – µ B cosθ Here, B points upward, from north pole to south pole, and θ is the angle between the magnetic moment µ and field B. Since B varies with vertical distance, the z-direction, a vertical force is exerted on each silver atom, according to: F = –∂U/∂z = + µ cosθ ∂B/∂z Classically, the magnetic moments of silver atoms will point in all directions with equal probability, and the vertical force spans a continuous range. As a result, the silver atoms should form a vertical line on the glass plate.
+
+But to nearly everyone’s great surprise, the experimental results were radically different — quantized rather than continuous. Silver atoms formed two small, separated dots on the plate; one dot from atoms deflected upward, and the second dot from atoms deflected downward. All atoms were deflected by the same angle, with half going up and half going down.
+
+No silver atoms landed between the two dots. This means every silver atom had a quantized magnetic moment, either +X or –X. Otto Stern received the 1943 Nobel Prize for this discovery. (Walter Gerlach did not share the Prize due to his suspected participation in the Nazi war effort.)
+
+From the known distances and field gradient, measuring the dot separation determines the magnetic moment of silver. Unfortunately, that separation is quite small, limiting the measurement precision.
+
+The Rabi Method Isidor Isaac Rabi found a means of improving upon the Stern-Gerlach experiment. Starting in 1937, Rabi measured the magnetic moments of several types of atoms with superb precision, up to one part per 1000. In V2p35-4, Feynman calls this: “fantastic precision”. For this achievement, Rabi received the 1944 Nobel Prize.
+
+In the Rabi method, atoms from an oven pass through a collimating aperture, as before. After passing through three magnets, atoms with zero net deflection traverse a final aperture and are counted by detector D, as shown in Figure 39-5.
+
+Figure 39-5 Rabi Measurement of µ The first and third magnets, M1 and M3, have tapered south poles, just like Stern-Gerlach magnets, except that M3 is inverted relative to M1. With magnet M2 turned off, atoms that are deflected upward by M1 are deflected downward by M3, and vice versa. Note that magnet M2 blocks off-axis atoms with a central aperture that may be difficult to see in the figure.
+
+Rabi’s key improvement is the operation of M2, which produces a strong B field pointing upward plus a much weaker horizontal B field oscillating at an adjustable frequency Ω. The purpose of M2 is to change the z-component of the beam atoms’ magnetic moments, thus preventing them from reaching detector D.
+
+Because the fields in magnets M1 and M3 are equal but opposite, the deflections of a beam atom through those magnets are also equal but opposite if its µ_z is unchanged. But if µ_z flips polarity in M2, its deflection in M1 and M3 will be in the same direction and the atom will be unlikely to pass through the final aperture and be counted by detector D.
+
+Let’s see how M2 can flip µ_z by examining an atom with two spin states: j_z = +ħ/2 and j_z = –ħ/2. Each state has magnetic potential energy: U = – µ_z B = – (gq/2m) j_z B The difference in potential energy between the two spin states is: ΔU = (gq/2m)B { (+ħ/2) – (–ħ/2) } ΔU = (gq/2m) B ħ To transition from one state to the other, the atom must either absorb or emit a photon of that energy. This can occur only if the photon’s energy is: ħω = ΔU = (gq/2m) B ħ An electromagnetic field, oscillating at frequency ω, can provide photons of energy ħω that could be absorbed by an atom or that could stimulate an atom to emit its own photon of that energy. The latter is called stimulated emission, a process predicted by Einstein that is discussed in Feynman Simplified 1B, Chapter 20.
+
+This ω is also the frequency at which µ precesses in field B, as we discussed in the prior chapter. From a classical viewpoint, a horizontal magnetic field, such as B shown in Figure 39-6, exerts a torque µ×B that has a component in the z-direction.
+
+Figure 39-6 Precessing µ & Horizontal Field For a spin 1/2 atom with j_z = +ħ/2, a torque with a positive z-component cannot increase j_z since it is already at its maximum. But a torque with a negative z-component can flip j_z, changing it to –ħ/2. Similarly, for a spin 1/2 atom with j_z = –ħ/2, a torque with a positive z-component can flip j_z, changing it to +ħ/2, whereas a negative z-component torque has no effect.
+
+The probability of flipping j_z is small, but if the field reverses direction at the same frequency that the atom precesses, this torque has much more time to effect a flip. Conversely, if the field oscillation frequency Ω is appreciably different than the precession frequency ω, the probability of a spin flip is extremely remote.
+
+Figure 39-7 shows a possible counting rate at detector D as a function of the frequency of the horizontal field Ω. The effect illustrated here is a resonance, just like those discussed in Feynman Simplified 1B, Chapter 13.
+
+Figure 39-7 Counting Rate vs. Field Frequency Almost no atomic spins flip in M2 when the field oscillation frequency Ω is very different from ω, the frequency corresponding to the energy level split. In this case, nearly all atoms have the same µ_z from start to finish; they incur zero net deflection, and reach detector D. Only when Ω is close to ω do many spins flip.
+
+flip in M2. Those atoms are doubly deflected by M1 and M3, and are unlikely to reach D. We see this as a drop in counting rate when Ω is close to ω. By finding the Ω with the minimum counting rate, Rabi measured (gq/2m) and determined g to a precision of up to one part in a 1000.
+
+Paramagnetism of Matter
+
+Now that we know how to measure magnetic moments, we next examine paramagnetic matter: solid materials with permanent magnetic moments.
+
+In V2p35-6, Feynman explains that most materials are not paramagnetic. In atoms with an even numbers of electrons, pairs of electrons typically have equal but opposite spins and orbital angular momenta that cancel one another. As a result, the atom has zero net magnetic moment. Atoms with an odd number of electrons usually combine in solid matter with other atoms, sharing their valence electrons. Electron pairs again cancel one another’s spin and angular momentum, resulting in zero net magnetic moment.
+
+With these typical atoms, solid matter has no magnetic moment, and therefore exhibits only diamagnetism not paramagnetism. But, some atoms with an odd number of electrons have an unpaired electron in an inner shell. To understand the significance of that, we must briefly examine the atomic orbits of electrons.
+
+In Feynman Simplified 3C, Chapter 30, we employ quantum mechanics to calculate electron atomic orbits, and derive the structure of the Periodic Table of Elements. We discover there that because electrons have wavelengths, their allowed orbits are severely restricted.
+
+Allowed electron orbits are divided into shells denoted by a principal quantum number n that determines the orbit’s average distance from the nucleus. Classically, one can think of an electron in shell n=4 as orbiting “outside” an electron in shell n=3. A very imprecise analogy is Mars orbiting outside Earth. In the quantum realm, of course, nothing is really that simple: the orbits are “fuzzy” with lots of overlap.
+
+The value of n also determines how many electrons each shell can accommodate: shell n has a maximum capacity of 2n² electrons. The electrons of hydrogen and helium are in shell n=1, while the electrons of uranium are in shells n=1 through n=7.
+
+Shells are further divided into subshells, each with a different orbital angular momentum jħ. Shell number n has n subshells. The labels, angular momenta, and maximum capacities of four subshells are: s: j=0, capacity 2 p: j=1, capacity 6 d: j=2, capacity 10 f: j=3, capacity 14
+
+As is true throughout nature, the lowest energy states are the most favorable. Let’s see how electrons occupy the allowed orbits just described. Imagine an isolated nucleus with Z protons to which we add one electron at a time. The most recent electron enters the lowest energy orbit that has a vacancy. This is somewhat like a hotel without an elevator that is filling up with clients who hate stairs.
+
+An orbit’s energy (the number of stairs to a certain hotel room) depends primarily on its shell number; the energy increases with increasing n. But orbital energy also increases with increasing j. As a result, orbital energies do not follow a simple sequence of n and j values.
+
+For example, the 4s orbit has a lower energy than some 3d orbits. In this case, unpaired electrons in 3d can be “inside” and shielded by “outer” electrons in 4s. Those “inner” unpaired electrons give the atom a permanent, non-zero angular momentum and a permanent magnetic moment. Such atoms are paramagnetic.
+
+Let’s now consider a large collection of atoms, each with a permanent magnetic moment µ. These atoms could be in the gas, liquid, or solid phase. Absent an external magnetic field to define a preferred direction, the magnetic moments point in random directions and average to zero for macroscopic numbers of atoms.
+
+But when an external field is applied, atoms with magnetic moments acquire magnetic potential energy given by: U = – µ•B = – µ B cosθ
+
+From Boltzmann’s law of statistical mechanics (see Feynman Simplified 1B, Chapter 16), we know that the fraction of atoms with angle θ is proportional to: N(θ) ~ exp{–U/kT} = exp{+µBcosθ/kT}
+
+Here, k is Boltzmann’s constant and T is absolute temperature (T on the Kelvin scale). Atoms with µ parallel to B (θ=0) have the lowest energy, and will be more common than atoms aligned antiparallel to B (θ=π). The atomic moments are no longer balanced, resulting in a non-zero magnetic moment. We define M to be the magnetization per unit volume of these atoms, according to: M = N <µ> Here, N is the number of atoms per unit volume, and <µ> is their average moment, which is no longer zero.
+
+All this is logically equivalent to our discussion of dielectrics in an external electric field (see Chapter 11). Following the same procedures used there, we find: M = N µ² B / 3kT This holds for small B fields (µB/kT << 1). We see that M is parallel to B. The quantity Nµ²/3kT is called the material’s magnetic susceptibility. The phenomenon of paramagnetism is logically identical to the phenomenon of dielectric polarizability.
+
+Except for the explanation of electron orbits, our discussion of paramagnetism was entirely classical. Now let’s see examine the quantum mechanical explanation of paramagnetism.
+
+The major difference in the quantum realm is that atomic angular momenta and magnetic moments are quantized. Let’s take the simplest case: atoms with spin 1/2. We set our z-axis parallel to B. The two spin states and their magnetic potential energies are: j_z = +ħ/2; U = – (gq/2m) B (+ħ/2)
+
+j_z = –ħ/2; U = – (gq/2m) B (–ħ/2)
+
+To reduce clutter, we define µ₀ = (gqħ/4m), where q is the proton charge, which is positive. Assuming that the atom’s magnetic moment is due to an unpaired electron, µ is antiparallel to j. We then have: j_z = +ħ/2; µ_z = –µ₀; U = + µ₀ B j_z = –ħ/2; µ_z = +µ₀; U = – µ₀ B
+
+We next calculate the number of spin up and spin down atoms per unit volume using Boltzmann’s law: N(U) ~ exp{–U/kT)
+
+j_z = +ħ/2; µ_z = –µ₀; N₊ = N₀ exp{ – µ₀ B / kT} j_z = –ħ/2; µ_z = +µ₀; N₋ = N₀ exp{ + µ₀ B / kT}
+
+Let N = N₊ + N₋ be the total number of atoms per unit volume.
+
+N = N₀ exp{–µ₀B/kT} + N₀ exp{+µ₀B/kT} N₀ = N / [exp{–µ₀B/kT} + exp{+µ₀B/kT}]
+
+N₀ = N 2/cosh(µ₀B/kT)
+
+Here, we introduce the hyperbolic cosine, hyperbolic sine, and hyperbolic tangent, which are defined by: cosh(x) = [exp{+x} + exp{–x}] / 2 sinh(x) = [exp{+x} – exp{–x}] / 2 tanh(x) = sinh(x) / cosh(x)
+
+The (average magnetic moment × N) equals (–µ₀ × the number of spin up atoms) plus (+µ₀ × the number of spin down atoms). Recall that, for electrons, spin and µ are antiparallel. The equation is: N <µ> = –µ₀ N₊ + µ₀ N₋ N <µ> = µ₀ N₀ [–exp{–µ₀B/kT} + exp{+µ₀B/kT}]
+
+N <µ> = µ₀ N₀ 2 sinh(µ₀B/kT)/2 <µ> = µ₀ sinh(µ₀B/kT) / cosh(µ₀B/kT)
+
+M = N <µ> = N µ₀ tanh(µ₀B/kT)
+
+M is parallel to B.
+
+Figure 39-8 is a plot of M vs. B for very large values of B. We see that M saturates for µ₀B/kT >> 1, approaching the asymptotic limit of Nµ₀. At that limit, all atomic moments are parallel to B, and M is as large as possible. This situation generally occurs only at extremely low temperature.
+
+Figure 39-8 Magnetization vs. B
+
+More commonly, µ₀B/kT << 1. In a field of 10,000 gauss at room temperature, as Feynman notes in V2p35-9, µ₀B/kT is only about 0.02. This allows us to approximate tanh(x) by x, and obtain: M = N µ₀ (µ₀B/kT)
+
+QM: M = N µ₀² B /kT
+
+This quantum mechanical equation shows that M is parallel to and proportional to B, and that paramagnetism diminishes rapidly as temperature rises much above absolute zero.
+
+In order to compare the quantum and classical equations for M, we must first put the µ’s on the same basis. The classical equation for M, derived above, is: CL: M = N µ² B / 3kT The µ-factor above corresponds to: µ² = (gq/2m)² J•J In the quantum realm, we expect J•J to be replaced by j(j+1)ħ². Making this substitution yields: µ² = (gq/2m)² j(j+1) ħ² µ² = (gqħ/2m)² (1/2)(3/2) = 3 (gqħ/4m)² µ² = 3 µ₀²
+
+Recalling that µ₀ = (gqħ/4m), we find: µ² = 3 µ₀²
+
+Substituting this into the classical equation for M makes the classical equation CL match the quantum equation QM.
+
+QM & CL: M = N µ₀² B / kT
+
+Feynman says this equation is easily generalized to an atomic spin j, yielding: M = N g² µ₀² j(j+1) B / 3kT Here again, µ₀ = qħ/2m is the Bohr magneton.
+
+Magnetic Cooling
+
+A stunning application of paramagnetism is adiabatic cooling from demagnetization. This is one way to reach extremely low temperatures. We begin by using liquid helium to cool a paramagnetic salt placed in a strong magnetic field. In V2p35-10 Feynman suggests using a salt of praseodymium-ammonium-nitrate. (Surely that’s in your salt shaker at home.) When the temperature of the salt drops to 1 or 2 degrees above absolute zero (1K or 2K), µ₀B/kT will be between 2 and 3. This means nearly all the salt atoms’ magnetic moments are aligned parallel to B. Call that state spin up.
+
+We next thermally isolate the salt, so that the liquid helium cannot keep it as “warm” as 2K. We then slowly decrease the external magnetic field. As you will recall from Feynman Simplified 1B, Chapter 15, slowly changing conditions without allowing heat flow is called an adiabatic process.
+
+As B slowly drops, more and more atoms will flip to spin down — at B=0, half the atoms are spin down. As B decreases, each time an atom flips to spin down, it enters a higher energy state, which requires that it absorb energy ΔU = µ₀B. That energy must come from the salt itself, since it is isolated. As the salt loses energy, its atomic thermal motions decrease and its temperature drops.
+
+Feynman says: “It is possible in this way to go from a temperature of a few degrees absolute down to a temperature of a few thousandths of a degree. Would you like to make something even colder than that?”
+
+Protons and neutrons also have spin, nuclear orbital angular momentum, and magnetic moments. Since µ=gq/2m, nucleon moments are about 2000 times smaller than electron moments. Nonetheless, nucleon moments can still have important effects.
+
+For µB/kT = 2 at 2K for an electron, a proton in the same situation will have µB/kT = 0.001. But at 0.002K, that proton’s µB/kT would be 1.
+
+So, the strategy is: (1) cool a salt to 0.002K by electron adiabatic demagnetization; (2) use the cold salt to cool another material that has nuclear paramagnetism and is placed in a strong magnetic field; (3) isolate the second material; and (4) slowly reduce its magnetic field.
+
+As before, as nuclear spins flip, energy is extracted from the material, dropping its temperature.
+
+Feynman says: “Finally, when we remove the magnetic field from this material, its temperature will go down to within a millionth of a degree [above] absolute zero—if we have done everything very carefully.”
+
+Nuclear Magnetic Resonance
+
+Nuclear magnetic resonance (NMR) has become a valuable analysis technique in physics, chemistry, biology, and engineering. And since the 1980s, NMR has also been employed in medical diagnostic imaging, under the marketing name MRI (magnetic resonance imaging) — marketers know that many people fear anything “nuclear”.
+
+Figure 39-9 shows a sample medical study.
+
+Figure 39-9 MRI Head Scan
+
+Nuclei such as H-1, C-13, F-19, and P-31 contain an unpaired spin 1/2 nucleon. Such nuclei have non-zero nuclear angular momentum and magnetic moments, just as do atoms with unpaired electrons. Since nucleon magnetic moments are 2000 times smaller than electron moments, NMR requires much more sophisticated equipment. For example, NMR and MRI use magnetic fields of up to 20 tesla (200,000 gauss).
+
+A sample to be studied is placed in a very strong B field. For exactly the same reasons we discussed for electron magnetic moments, the energy levels of spin 1/2 nuclei split in this field, with one spin state becoming slightly more populated than the other, due to Boltzmann’s law.
+
+Exposing the sample to an oscillating electric field with frequency Ω will flip some nuclear spins provided Ω is close to ω, the resonant frequency of the nuclear magnetic moments. Those flips are detectable, providing the technique’s raw data.
+
+One key advantage of NMR and MRI is their sensitivity to molecular structure. Electrons partially shield nuclei, shifting the nuclear resonance frequency ω. Since electron orbits are different in different molecules, the degree of shift provides insight into molecular composition. Additionally, the proximity of other nuclei can also shift ω. By measuring and understanding these shifts, scientists can determine the molecules in which the resonating nuclei reside, and how they are positioned.
+
+A complete sample analysis requires collecting data at many values of frequency Ω, ideally over an entire spectrum. Some modern systems accomplish this by exposing the sample to a short electromagnetic pulse, rather than an oscillating field. As discussed in Feynman Simplified 1D, Chapters 45 and 46, a short pulse is a linear superposition of wavelengths that peak at the pulse width. This approach simultaneously collects data for a range of frequencies. A subsequent Fourier transform analysis converts the raw data into an absorption versus frequency function.
+
+## Chapter 39 Review: Key Ideas
+
+• Particle-wave duality says every entity in nature has both particle and wave properties, at all times. This is the principle from which all quantum theory derives.
+
+• The Stern-Gerlach experiment proves that atomic angular momentum is quantized.
+
+• Quantum structure of atomic electron orbits: Electrons in atoms must have wavelengths that “fit” within a confining space. This means atomic electrons must have quantized wavelengths, energies, and angular momenta. Allowed electron orbits are divided into shells denoted by a principal quantum number n that determines the orbit’s average distance from the nucleus. The capacity of shell number n is 2n² electrons. Shells are further divided into subshells, each with a different orbital angular momentum.
+
+• To transition between orbits, an electron must either absorb or emit a photon of energy ħω = ΔU, where ΔU is the energy difference between the two orbits. For a transition between consecutive spin states: ΔU = (gq/2m) B ħ. Here, the electron’s Lande factor is g, its charge is q, and its mass is m. B is the field component in the spin direction.
+
+• The magnetic potential energy U of a magnetic moment µ in a field B is: U = – µ•B = – µ B cosθ. From Boltzmann’s law, the fraction of moments with angle θ is proportional to: N(θ) ~ exp{–U/kT} = exp{+µBcosθ/kT}. Here, k is Boltzmann’s constant and T is absolute temperature (T on the Kelvin scale). The magnetization M per unit volume of atoms with average moment <µ> is: M = N <µ>. Here, N is the number of atoms per unit volume. Following the same analysis used for the polarizability of dielectrics, we find: M = B Nµ²/3kT. Here Nµ²/3kT is called the material’s magnetic susceptibility.
+
+• Paramagnetic cooling: The magnetic moments of cold paramagnetic atoms in a strong B field can be almost entirely aligned parallel to B. As B slowly drops, atoms will flip spin, transitioning to a higher energy state, absorbing energy, and decreasing the atoms’ temperature. Paramagnetic electron cooling has achieved temperatures as low as 0.002K.
+
+• Nucleon magnetic moments are 2000 times smaller than electron moments, but can still have important effects. Paramagnetic nuclear cooling has achieved temperatures as low as one millionth of a degree above absolute zero. Nuclear magnetic resonance (NMR) is a valuable analysis technique in science and in medical diagnostic imaging, under the name MRI (magnetic resonance imaging).
+
+## Chapter 40 Theories of Ferromagnetism
+
+Ferromagnetism is the Mother of all Magnetism.
+
+In V36-1, Feynman says: “In paramagnetic and diamagnetic materials the induced magnetic moments are usually so weak that we don’t have to worry about the additional fields produced by the magnetic moments. For ferromagnetic materials, however, the magnetic moments induced by applied magnetic fields are quite enormous …. In fact, the induced moments are so strong that they are often the dominant effect in producing the observed fields. So one of the things we will have to worry about is the mathematical theory of large induced magnetic moments. That is, of course, just a technical question. The real problem is, why are the magnetic moments so strong—how does it all work? We will come to that question in a little while.”
+
+Personally, I find chapters V2p36 and V2p37 somewhat confusing and unsatisfying. Feynman strangely alternates between the theoretical and the applied. He presents lengthy attempts to explain ferromagnetism with classical physics that he later admits are all abject failures. He also pursues in extreme detail myriad ferromagnetic applications. Without a comprehensive theory (in 1962), Feynman seemingly searches for complications to fill time and blackboards.
+
+For me, the goal of an undergraduate physics course, and the profound insight that an outstanding scientist can best provide, is learning the fundamental principles of physics, and the most effective techniques to illuminate nature’s mysteries.
+
+Most problems that scientists and engineers face in the real world are fraught with many complex details. There will be ample time for those later in your careers. But, to get to that point, you must thoroughly understand the fundamentals, and the best way to do that is by focusing on big ideas, not on messy details.
+
+I will present what physicists now believe is the true explanation of ferromagnetism, based on quantum mechanics and the Pauli exclusion principle.
+
+Additionally, I will explain, in the simplest possible terms, Feynman’s discussions of why classical physics fails to describe ferromagnetism. I will also present important aspects of practical applications, such as transformers and electromagnets. But, I will gloss over complicating details that I believe only serve to confuse the innocent.
+
+You may enjoy witnessing valiant but incorrect attempts to describe nature’s mysteries. Frankly, that is what most research scientists do day in and day out. But you need not struggle with the details of classical derivations that ultimately fail.
+
+Magnetic Analogy to Polarization
+
+In this section, Feynman shows that ferromagnetism cannot be explained by analogy to electrostatics. In Chapter 11, we solved the problem of electric fields inducing large dipole moments in a dielectric. Feynman repeats that analysis here. None of this is new. He then explains why this approach cannot be applied to magnetism. Those who wish to skip the repetition of the dielectric problem can page forward to the line marked END.SKIP.
+
+Recall that the dielectric polarization vector field P and the polarization charge density ρ_pol are related by: ρ_pol = – Ď•P. The total charge density ρ is the sum of ρ_pol and ρ_other, the density of all non-polarization charges. Maxwell’s first equation in dielectric matter becomes: Ď• (ε₀ E + P) = ρ_other.
+
+In V36-1, Feynman says: “Pulling E and P together [as above], of course, is useful only if we know some relation between them. We have seen that the theory which relates the induced electric dipole moment to the field was a relatively complicated business and can really only be applied to certain simple situations, and even then as an approximation. … To find the induced dipole moment of an atom inside a dielectric, [we] made the approximation—which is not too bad in many cases—that the field on the atom is the same as it would be at the center of the small hole which would be left if we took out the atom (keeping the dipole moments of all the neighboring atoms the same). You will also remember that the electric field in a hole in a polarized dielectric depends on the shape of the hole.”
+
+The upper half of Figure 40-1 shows that, by the principle of linear superposition, the fields in a dielectric with no hole = the fields in a dielectric with round hole + the fields in a round dielectric ball.
+
+Figure 40-1 Dielectrics with Holes & Slots
+
+In V2 p36-2, Feynman repeats the derivation of the fields within horizontal and vertical slots, neither of which are relevant to our current task. Nonetheless, we briefly examine them again.
+
+The lower half of Figure 40-1 shows a dielectric material with field E and an induced polarization P. All vertical fields are positive if they point upward. We have cut out a vertical slot on the left and a horizontal slot on the right.
+
+For the vertical slot, we define a closed curve Γ that spans the slot’s left edge, and is infinitesimally narrow. Since the curl of E is zero absent a changing B field, this means E_slot, the electric field inside the vertical slot, is related to E, the field in the bulk material, by: 0 = E - E_slot. Thus, E_slot = E.
+
+For the horizontal slot, polarization charges accumulate on its upper and lower surfaces. We define a closed surface S that spans the slot’s upper face, and use Gauss’ law to find the electric field E_Hslot in the slot. Let A be the horizontal surface area of S. Gauss’ law then says: ρ_pol A = – P A ε₀ ∇·E = ρ = ρ_pol + ρ_other = – P/A ε₀ E_Hslot A – ε₀ E A = – P/A E_Hslot = E + P/ε₀
+
+Note that P=0 in the slot, because there are no polarization charges in that empty space. Also note that ρ_other = 0 everywhere, because the only charges we are considering are the dielectric’s.
+
+So, we have different results for horizontal slots and vertical slots. But what we need instead is the field within a spherical surface inside a dielectric.
+
+As the upper half of Figure 40-1 suggests, we can obtain the field within a spherical hole by calculating the field inside an isolated ball with a uniform polarization. A ball with uniform P has its positive and negative charges displaced by the same distance everywhere. Such a ball is equivalent to two displaced balls of opposite polarity.
+
+From Chapter 5, the field inside a uniformly charged ball with charge density ρ that is centered at (0,0,0) is: E(r) = ρ r / 3ε₀
+
+Let’s define z to be vertical direction, and place two uniformly charged balls of opposite polarity along the z-axis at z=+d/2 and z=–d/2. The fields are then: upper ball: E(r) = +ρ (r – e_z d/2) / 3ε₀ lower ball: E(r) = –ρ (r + e_z d/2) / 3ε₀
+
+Here, e_z is the unit vector in the +z-direction. The components of E for the sum of both balls are: 3ε₀ E_x = +ρx – ρx = 0 3ε₀ E_y = +ρy – ρy = 0 3ε₀ E_z = +ρ (z–d/2) – ρ(z+d/2) = –ρd E_z = – P / 3ε₀ E_z = – ρ_pol / 3ε₀ = – P / 3ε₀
+
+Here, we used the definition ρ_pol = ρd, and the prior equation P = ρ_pol/ε₀.
+
+The field E in a hole-free dielectric equals the sum of (E_z the field in a dielectric with a round hole) plus (E from above, the field in a round ball).
+
+E = E_z + E_hole = E – P/3ε₀ E_hole = E + P / 3ε₀
+
+In V2p36-2, Feynman says: “One simple, short-cut way of [describing ferromagnetism] is to say M, the magnetic moment per unit volume, is just like P, the electric dipole moment per unit volume, and that ∇·M = – ρ_mag” But that implies some type of magnetic charge, so-called magnetic monopoles, which contradict Maxwell’s third equation and extensive experimental evidence. If we nonetheless pursued this on the basis of a mathematical formal ∇·(H + M/ε₀c²) = 0 ∇×H = 0
+
+Recall that H = B – M/ε₀c². Now recall, from the start of this chapter, the solution for the electric field inside a spherical hole in a dielectric: E_hole = E₀ + P / 3ε₀
+
+Here, E₀ and P are the fields within the bulk (hole-less) dielectric matter. Making the above substitutions yields the solution for the magnetic field inside a spherical hole in magnetized matter.
+
+H_hole = H₀ + M / 3ε₀c²
+
+Since H = B – M/ε₀c² and M is zero inside the hole, we have: (B_hole – 0) = (B₀ – M/ε₀c²) + M/3ε₀c² B_hole = B₀ – 2M/3ε₀c²
+
+Here, B₀, H₀, and M are the fields within the bulk magnetic matter. We see that the equation for B differs substantially from the corresponding equations for H and E. In V2p36-13, Feynman says that if you are uncomfortable with this “same equations, same solutions” approach, you can derive the prior results from Maxwell’s original equations. He leaves that as an exercise for the reader. Feynman rewrites the prior equation as: B_hole = H₀ + λ M/ε₀c²
+
+Our spherical-hole calculation shows that λ=1/3. But Feynman says we will want to change that, so he leaves λ as an adjustable parameter.
+
+**Magnetization of Matter**
+
+As we will later discover, in ferromagnetic materials, a modest external magnetic field can cause an enormous magnetization. In V2p36-11, Feynman says the magnetization of matter comes from magnetic moments of unpaired electrons in inner atomic orbits. We discussed these inner shell electrons in Chapter 39. We will consider here the example of nickel, because only one of its electrons has a magnetic moment. Nickel is therefore simpler than iron, which has two electrons with magnetic moments. In the presence of an external field B, each unpaired electron’s magnetic moment µ tends to align parallel to B. But atomic collisions, driven by thermal energy, tend to disrupt that alignment. As in the case of paramagnetism, the net magnetization of the bulk material at equilibrium is: M = N_atom µ tanh( µB / kT )
+
+Here, N_atom is the number of magnetic moments per unit volume, and B is the magnetic field that each atom experiences from the combination of the external field and the fields from surrounding atoms. This is the field that we endeavored to calculate above using the spherical-hole approach. Incorporating that result with the adjustable parameter λ, yields: M = N_atom µ tanh( µ [H₀ + λM/ε₀c²] / kT )
+
+In V2p36-13, Feynman says this equation cannot be solved analytically, so he presents a clever graphic solution. Consider this generalized equation: β = M / M_sat = tanh(x)
+
+Here, M_sat = N_atom µ is the saturated (maximum) value that M can attain, and x is the independent variable, which in our case is: x = µ [H₀ + λM/ε₀c²] / kT
+
+Feynman rewrites this as: x = C + β / D β = (x – C) D
+
+with C = µH₀ / kT and D = ε₀c² kT / (µ λ M_sat) = ε₀c² kT / (µ² N_atom λ)
+
+In this form, β(x) is a straight line: β is zero at x=C and increases linearly with slope D from that intercept. Figure 40-5 plots β versus x for a fixed value of H₀. Here, the curve represents β=tanh(x), and the line labeled b represents β=(x–C)D. Figure 40-5 Tanh(x) vs. β(x). For any set of H₀, T, µ, λ, and N_atom, the resulting M is determined by where the line and the curve intersect, which is circled in Figure 40-5.
+
+Now, let’s consider solutions for various values of H₀. At H₀=0, C=0, which means the straight lines for various values of T, µ, λ, and N_atom all start at the origin (x=β=0). Figure 40-6 compares the tanh(x) curve and three straight lines corresponding to three temperatures. Figure 40-6 Lines for H₀=0 and 3 Temperatures. The slope of each line is proportional to absolute temperature, as given by: D = T (ε₀c² k / µ² N_atom λ)
+
+At high temperature, the line b and the curve intersect only at zero. In this case, M can only be zero. At low temperature, the line b and the curve intersect at β=0 and at β close to 1. The high-β solution is stable, but the β=0 solution is unstable for small changes in H₀. This means magnetization M is stable only near its maximum value of N_atom µ. In V2p36-13, Feynman says: “According to these ideas, then, a magnetic material should magnetize itself spontaneously at sufficiently low temperatures. In short, when the thermal motions are small enough, the coupling between the atomic magnets causes them all to line up parallel to each other—we have a permanently magnetized material”
+
+This spontaneous magnetization is hallmark behavior of ferromagnetic matter that a comprehensive theory must be able to explain. If we start at a high temperature, where Figure 40-6 shows the only solution is M=0, and slowly reduce the temperature, we eventually reach the Curie temperature T_C at which the straight line is tangent to the curve. This is the line labeled b in the figure. The Curie temperature is given by: D = 1 = T_C (ε₀c² k / µ² N_atom λ)
+
+T_C = λ µ² N_atom / ε₀c² k
+
+With this definition, we can rewrite prior equations more simply: x = C + β T / T_C β = (x – C) T / T_C
+
+with C = µH₀ / kT
+
+Now, let’s increase H₀ slightly and examine how these solutions vary with H₀. As H₀ increases so does C, the β=0 intercept. However, slope D is unchanged. This means the straight lines in Figure 40-6 slide to the right. This has little impact on the low temperature solution since the curve is nearly flat at that intersection. But the high temperature solution does change rapidly. If H₀ is not too large, we can approximate tanh(x) by x, reducing our equation to: β = tanh(x) = x = C + β T / T_C β (1 – T / T_C) = C β = (µH₀ / kT) / (1 – T / T_C)
+
+M / N_atom µ = µH₀ / k(T – T_C)
+
+For paramagnetism, we derived: M / N_atom µ = µB / kT
+
+(Note that µ here equals the variable µ in Chapter 39 for electrons with g=2.) In V2p36-14, Feynman says: “One difference now is that we have the magnetization in terms of H₀ [rather than B], which includes some of the effects of the interaction of the atomic magnets, but the main difference is that the magnetization is inversely proportional to the difference between T and T_C, instead of to the absolute temperature T, alone. Neglecting the interactions between neighboring atoms corresponds to taking λ=0, which [makes] T_C=0. Then the results are just what we had in [Chapter 39]”
+
+Feynman then compares experimental data to his calculations with λ equal to 1/3, the value we derived in the spherical-hole model. For nickel, the number of magnetic moments per unit volume N_atom is 9.1×10²⁸ m⁻³. The calculated and actual T_C values are: theory: T_C = 0.24K actual: T_C = 631K
+
+The theory is wrong by a factor of 2600. This isn’t the worst embarrassment that theorists have ever faced, but it is as Feynman says “a dismal failure” for the classical theory of ferromagnetism. Going back to the definition of λ: B_atom = H₀ + λ M/ε₀c² B_atom = (B₀ – M/ε₀c²) + λ M/ε₀c² B_atom = B₀ + (λ–1) M/ε₀c²
+
+Our model says λ=1/3 and therefore (λ–1)=–2/3. This means our model says the material’s magnetization M substantially reduces the field experienced by individual atoms. But actual measurements show that λ is about 900 for nickel, and even more for some other materials. This means the material’s magnetization M enormously increases the field experienced by individual atoms. The theory does not even correctly predict ferromagnetism’s polarity. In V2p36-15, Feynman says: “We must conclude, then, that ferromagnetism has to do with some nonmagnetic interaction between the spinning electrons in neighboring atoms. This interaction must generate a strong tendency for all of the nearby spins to line up in one direction. We will see later that it has to do with quantum mechanics and the Pauli exclusion principle.”
+
+**Quantum Ferromagnetism**
+
+Let’s briefly review where we stand in our quest to understand ferromagnetism. Due to its quantum spin, each electron has a magnetic moment µ that along any axis, say the z-axis, is given by: µ_z = – j_z g (qħ/2m)
+
+Here, j_z is the z-component of the electron’s spin, q is the proton charge that is positive, and g is the Lande factor that very nearly equals 2 for an electron’s spin. The expression in parentheses is the Bohr magneton. Since electrons have spin 1/2, quantum mechanics says that µ_z can only be either up or down along any axis. In most cases, electrons in atoms pair off with their spins antiparallel in order to reduce their mutual potential energy. However, in some cases, atoms have unpaired electrons in inner orbits whose magnetic moments may or may not be cancelled by electron moments of neighboring atoms. In most materials, electron moments do cancel, but in ferromagnetic matter these moments may not cancel—they may instead align parallel to one another. This seems strange because classically we expect parallel moments to have higher potential energy than antiparallel moments. Atoms with parallel moments should be able to reduce their energy, and achieve a more stable state if one moment flips. What we must explain is why this does not happen in ferromagnetic matter. In V2p37-1, Feynman says: “There is a principle in quantum mechanics—called the exclusion principle—that two electrons cannot occupy exactly the same state, that they cannot be in exactly the same condition as to location and spin orientation. …This has the effect that a pair of parallel-spin electrons near to each other have much more energy than a pair of opposite-spin electrons; the net effect is as though there were a force trying to turn the spin over. Sometimes this spin-turning force is called the exchange force, but that only makes it more mysterious—it is not a very good term. It is just because of the exclusion principle that electrons have a tendency to make their spins opposite. In fact, that is the explanation of the lack of magnetism in almost all substances! The spins of the free electrons on the outside of the atoms have tremendous tendency to balance in opposite directions. The problem is to explain why for materials like iron it is just the reverse of what we should expect. “The most recent calculations of the energy between the two electron spins in iron—assuming that the interaction is a direct one between the two electrons in neighbouring ferromagnetic atoms—still give the wrong sign… “It is believed that the up-spin of one of the electrons in the inside shell, which is making the magnetism, tends to make the conduction electrons which fly around the outside have the opposite spin. … Since [the conduction electrons] move around, they can carry their prejudice for being upside down over to the next atom [making] the next “magnetic” electron opposite to it. …This is the mechanism that the people who have calculated such things now believe is responsible for ferromagnetism. But we must emphasize that to this day nobody can calculate the magnitude of λ simply by knowing that the material is number 26 in the periodic table.” The modern understanding is different.
+
+The Pauli exclusion principle says two electrons can never have exactly the same quantum state: the same combination of position, spin orientation, and momentum orientation. In an atom or a molecule, this means two electrons will never have the same orbit and spin. If two electrons occupy the same orbit, their spins must be antiparallel. All fermions behave in this anti-social manner, as we explore in detail in Feynman Simplified 3A, Chapter 4.
+
+The impact of the exclusion principle is particularly compelling in some of the transition metals, elements 21 through 30, scandium through zinc. Here, unpaired electrons in the inner 3d orbits substantially affect electrons in neighboring atoms. If electrons in adjacent atoms have parallel spins, they must have widely separated orbits, due to the exclusion principle. As a result, their electrostatic repulsion is reduced, which reduces the total system’s energy.
+
+While adjacent magnetic dipoles do reduce their total energy by being antiparallel, that tendency is overwhelmed by the much more powerful electrostatic force. In iron, for example, the electric effect is about 1000 times stronger than the magnetic effect.
+
+The net result is that, in ferromagnetic materials below the Curie temperature, unpaired electron spins have a strong tendency to align parallel to one another, leading to enormous magnetization.
+
+Detailed calculations are still challenging, due to the large number of particles involved. Feynman may still be right that “we don’t thoroughly understand” ferromagnetism, but I hazard to say the theory is in far better shape now than it was 50 years ago.
+
+## Chapter 40 Review: Key Ideas
+
+• Classical physics attempts to understand ferromagnetism by analogy to dielectric polarization. We separate the total current j into three parts: j = j_mag + j_pol + j_other Here, j_mag is the current produced by atomic-level electron spins and orbital momenta. Also, j_pol is the current associated with changing polarization charge densities, and j_other is the sum of all other currents.
+
+The magnetization density M and j_mag are related by: j_mag = ∇×M Since the “same equations have the same solutions”, magnetic equations have the same solutions as electrostatic equations, provided we make these substitutions: replace E with H replace P with M/c² where H = B – M/εc² In a static situation, far from free charges, j_other and ρ_other are both zero. The static ferromagnetic equations are then: ∇•(H+M/εc²) = 0 ∇×H = 0 While the mathematics is correct, the underlying assumptions of classical physics are not. This is demonstrated by classical calculations having the wrong polarity and the wrong magnitude by factors of several thousand.
+
+• A semi-classical approach expresses M in terms of a parameter λ that must be derived using quantum mechanics.
+
+β = M / M_sat = tanh(x)
+
+T_C = λ µ²N / εc²k = λ µ M_sat / εc²k x = µH / kT + λµM / (εc² kT)
+
+x = µH / kT + M T_C / (M_sat T_C)
+
+Here, M_sat = Nµ is the saturated (maximum) value that M can attain, and T_C is the material’s Curie temperature. When T<T_C, a ferromagnetic material spontaneously magnetizes even without an external field.
+
+• In Quantum Mechanics, the Pauli exclusion principle says two electrons in an atom or a molecule can never have the same orbit and spin — if two electrons occupy the same orbit, their spins must be antiparallel. In some transition metals, unpaired electrons in the inner 3d orbits substantially affect electrons in neighboring atoms. If electrons in adjacent atoms have parallel spins, they must have widely separated orbits. As a result, their electrostatic repulsion is reduced, which reduces total energy.
+
+The electrostatic effect in iron is 1000 times stronger than the magnetic effect. The net result is that, in ferromagnetic materials below the Curie temperature, unpaired electron spins have a strong tendency to align parallel to one another, leading to enormous magnetization.
+
+## Chapter
+
+Practical Ferromagnetism In this chapter, we explore practical characteristics and applications of ferromagnetism.
+
+Maxwell’s magnetic equations in matter can be written: ∇•B = 0 B = H + M /εc² c² ∇×H = j_other /ε₀ + ∂(E + P/ε₀)/∂t Let’s now consider a slowly changing situation, where the rate of change of ε₀E+P is negligible compared with j_other. This reduces the last equation to: ∇×H = j_other /ε₀c² These equations tell the essential story of ferromagnetism. Field H is proportional to the conduction current j_other. The remarkable property of ferromagnetism is that M is parallel to B and much larger than H. This means B can be enormously larger than it would be in normal matter.
+
+Magnetization Hysteresis Curve Figure 41-1 shows a light gray iron torus, with copper wire wrapped around it. (Copper is not ferromagnetic.)
+
+Figure 41-1 Toroidal Inductor A current J passes through the wire, going into the screen on the inner side of the torus and coming out of the screen on its outer side. The current creates a magnetic field B that circulates clockwise and is (ideally) entirely contained within the torus. What we have here is essentially a solenoid in the shape of a donut.
+
+We define a closed curve Γ, shown in Figure 41-1 as a dotted circle entirely within the torus. Let C be the circumference of Γ, and let S be the surface enclosed by Γ. From Stokes’ theorem we have: ∫_Γ H•ds = (1/ε₀c²) ∫_S J•da The left side is the integral along curve Γ of the tangential component of H. On the right side is the integral of the normal component of J over surface S. Evaluating the integrals yields: H C = (1/ε₀c²) J N H = (1/ε₀c²) J N / C Here, N is the number of times the coiled wire passes through S.
+
+We now seek a way to relate B and H, which is equivalent to saying we need an equation for M. Unfortunately, there is no simple relationship between these fields. Figure 41-2 shows how B and H are related for soft iron. Note the dramatic scale difference: at H = 4 gauss, B = 15,000 gauss.
+
+Figure 41-2 Hysteresis Loop, B & H in Gauss Properly prepared soft iron has no initial intrinsic magnetization. Soft iron that has never been exposed to an external magnetic field has no fields (H=B=0), as plotted at the center of the graph.
+
+As soft iron is exposed to an increasing H for the first time, the field B within the soft iron increases extremely rapidly along the curve labeled “1” in Figure 41-2. B reaches saturation, 15,000 gauss in this case, when H is only 4 gauss. Thereafter, any larger H does not increase B.
+
+If H is then reduced to zero, B decreases along the curve labeled “2”. B drops modestly, and remains at 10,000 gauss, even at H=0. This means the soft iron has acquired an intrinsic magnetization. Once exposed to even a modest external magnetic field, soft iron will maintain a strong field until substantial efforts are made to demagnetize it.
+
+If H then becomes negative, B decreases, still along curve “2”, until B saturates at –15,000 gauss for H=–4 gauss. If H is then brought back to zero, and subsequently becomes positive, B follows curve “3”, becomes less negative at first, and then ultimately becomes positive again.
+
+This behavior is called a hysteresis loop.
+
+Soft iron can be demagnetized by annealing at high temperatures, or by exposure to an oscillating magnetic field of slowly diminishing magnitude. In the latter case, the hysteresis loop shrinks with each oscillation, until eventually the material is demagnetized.
+
+With hysteresis behavior, there is no simple function B(H): at any specific value of H, B can have multiple values, depending on the material’s field exposure history.
+
+Iron-Core Inductance Ferromagnetism is the enabling phenomenon for the most important applications of magnetism, including transformers and electric motors. As Feynman says, in V2p36-8: “One reason is that with iron we can control where the magnetic fields go, and also get much larger fields for a given electric current. For example, the typical ‘toroidal’ inductance is made very much like the object shown in [Figure 41-1]. For a given inductance, it can be much smaller in volume and use much less copper than an equivalent ‘air-core’ inductance. For a given inductance, we get a much smaller resistance in the winding, so the inductance is more nearly ‘ideal’—particularly for low frequencies. …Physically, what happens is that a small current in the coil, which would ordinarily produce a small magnetic field, causes the little ‘slave’ magnets in the iron to line up and produce a tremendously greater ‘magnetic’ current than the external current in the winding. It is as if we had a lot more current going through the coil than we really have. When we reverse the current, all the little magnets flip over—all those internal currents reverse—and we get a much higher induced emf than we would get without the iron.” To demonstrate this performance, let’s calculate the field energy and inductance of the torus in Figure 41-1.
+
+For an oscillating applied voltage V(t), JV is the energy delivered by the power source, which equals the change in field energy U. Voltage V also equals the total emf in the coiled wire. If A is the torus’ cross-sectional area, the flux change through one winding is A•∂B/∂t. The total coil emf equals the flux change in one winding multiplied by N, the number of windings. This is: V = N A ∂B/∂t Combining this with the power equation gives us: power = dU/dt = JV = J N A ∂B/∂t Employing the equation for J from the last section yields: dU/dt = (εc2 H C / N) N A ∂B/∂t dU/dt = εc2 C A H ∂B/∂t The integral of this over time equals the field energy U.
+
+U = εc2 C A ∫ H dB Note that C×A, the torus’ circumference multiplied by its cross-section, equals its volume; the volume in which the H and B fields are fully contained. Therefore, we can rewrite the prior equation in terms of u, the field energy per unit volume.
+
+u = U / CA = εc2 ∫ H dB In V2p36-8, Feynman makes the interesting point that, over a complete cycle of the driving voltage V, the energy delivered to the torus is non-zero.
+
+In a circuit with an oscillating voltage source and an ideal inductor, the total energy delivered is zero: the source delivers energy as the inductor’s B field builds, and all that energy is returned to the source as B returns to zero.
+
+But, in a system with hysteresis, some electrical energy is converted into heat. Why? To make the answer as clear as possible, I have rearranged the H vs. B graph. Figure 41-2 plots B horizontally with B increasing toward the left. The vertical axis is H* that I define as H+ΔH, with ΔH chosen so that H* is positive everywhere. The hysteresis loop has been rotated counterclockwise by 90-degrees.
+
+Figure 41-3 Hysteresis Loop Flipped Let’s imagine what happens as V(t) goes through one full cycle, starting at its most positive value. During the first half-cycle, B starts at its positive saturated value in the figure’s upper left, B is driven along the lower curve, and ends at its negative saturated value in the lower right. During the second half-cycle, B is driven along the upper curve from saturation in the lower right to saturation in the upper left.
+
+In the first half cycle, the integral of H*dB from maximum B to minimum B equals minus the dotted area under the lower curve; it is minus because dB is negative and H* is always positive. In the second half cycle, H*dB is always positive, and the integral of H*dB from minimum B to maximum B equals the area under the upper curve, which equals the sum of (the dotted area) + (the dashed area between the curves).
+
+Let’s now calculate the sum of the two integrals, which will yield W, the total work done by the power source in one full cycle.
+
+∫ Bmin H*dB + ∫ Bmax H*dB Bmax Bmin = (–dotted area) + (+total area)
+
+= (dashed area)
+
+Also: ∫ Bmin H*dB + ∫ Bmax H*dB Bmax Bmin = ∫ Bmin (H+ΔH)dB + ∫ Bmax (H+ΔH)dB Bmax Bmin = ∫ Bmin HdB + ∫ Bmax HdB Bmax Bmin + ΔH { ∫ Bmin dB + ∫ Bmax dB } Bmax Bmin = ∫ Bmin HdB + ∫ Bmax HdB Bmax Bmin + ΔH { (Bmin–Bmax) + (Bmax–Bmin) } = ∫ Bmin HdB + ∫ Bmax HdB ~ W Bmax Bmin W ~ (dashed area)
+
+If the forward and reverse paths followed the same curve, the half-cycle integrals would be equal in magnitude and opposite in polarity, and their sum would be zero. But, since the paths differ, the integrals do not cancel completely. Their sum equals the dashed area inside the hysteresis loop, which is proportional to the total work energy expended by the power source during one full cycle.
+
+The energy expended by the source during each full cycle is dissipated within the torus, heating that material.
+
+One can minimize the electrical energy lost due to hysteresis by reducing the area within the hysteresis loop. Different ferromagnetic materials have different loop widths, so a judicious choice of materials is important. Also, loop area is reduced by decreasing the maximum B amplitude, and in particular, by avoiding saturation.
+
+This is shown in Figure 41-4, where we see one large and one small hysteresis loop that both correspond to the same ferromagnetic material.
+
+Figure 41-4 Two Hysteresis Loops Because the smaller loop has a restricted maximum field, it encloses much less area than the larger loop.
+
+For the smaller loop, we make the crude approximation that B is linearly proportional to H, according to: B = η H Here, η is called the magnetic permeability of the material. (Normally, µ is the symbol for magnetic permeability, but we are already using µ for magnetic moment.) For ordinary iron, η is several thousand, but for some special alloys, such as supermalloy, η can be one million.
+
+The linear approximation makes our equations much simpler.
+
+u = εc2 η ∫ H dH = εc2 η H2 /2 0 0 Employing the normal equation for the magnetic field energy of an inductor with inductance L yields: U = L J2 /2 L J2 /2 = C A εc2 η H2 /2 L = C A εc2 η (H/J)2 Recalling that H = (1/εc2) J N / C, we get: L = A η N2 / εc2 C The best audio amplifiers, Feynman says, use inductors that avoid undesirable harmonics by closely approximating a linear B-H relationship.
+
+Transformers Transformers are ubiquitous in electrical devices and in the generation and transmission of electrical power. They can change the voltage of an oscillating source. Two different coils are wound onto the same inductor, such as the torus we have been discussing. A source with frequency ω drives one coil, causing a changing magnetic flux in the inductor. This causes an emf in the second coil that also oscillates at frequency ω. The ratio of coil voltages, V₁/V₂, equals the ratio of the number of windings in the coils, N₁/N₂, while the ratio of coil currents, J₁/J₂, equals the inverse of the windings ratio, according to: V₁ / V₂ = N₁ / N₂ = J₂ / J₁ V₁ J₁ = V₂ J₂ The last equation shows that the power in both coils is the same, as required by energy conservation.
+
+Electromagnets Let’s now consider the operation of an electromagnet. A coil is wound around a portion of a ferromagnetic material in the form of a “C”, as shown in Figure 41-5. We assume the open gap between the magnet poles is small compared with the pole widths. A power source drives a current J through the coil, creating a counterclockwise circulating magnetic field in the inductor and in the gap, as represented by the dashed lines.
+
+Figure 41-5 Electromagnet We define an imaginary surface S completely enclosing a small portion of the surface of one pole, and an imaginary closed curve Γ encircling the magnet’s hollow center.
+
+Since ∇•B = 0 always, the B field entering the right side of S must equal the B field exiting the left side of S. Hence, B has the same magnitude in the gap as it does in the magnet’s body.
+
+Also, Stokes’ theorem tells us: ∫ H•ds = (1/εc2) ∫ J•da Γ 0 A Here, A is the area enclosed by Γ. As before, the right hand side equals JN, the current J in the coil multiplied by N, the number of coil windings. We now define C to be the length of Γ contained within the magnet, C_G to be the length of Γ across the gap, H_M to be H within the magnet, and H_G to be H within the gap. The prior equation becomes: H_M C_M + H_G C_G = JN / εc2 Since the magnetization field M must be zero in the gap, we also know that B=H_G in the gap. Making that substitution yields: H_M C_M + B C_G = JN / εc2 We still have two unknowns and only one equation. In V2p36-10, Feynman says we could solve this equation analytically if we assume a linear B-H relationship. In that case, H_M C_M + η H_M C_G = JN / εc2 H_M = (JN / εc2) / (C_M + η C_G)
+
+But, in the general case, B and H are not linearly proportional. Feynman says we can solve that case graphically, by rearranging our previous equation as follows: B = JN / (εc2 C_G) – H_M C_M / C_G We then plot this straight line for any desired value of current J, as in Figure 41-6. For a given J, the straight line crosses the horizontal axis, where B=0, at H_M=JN/(εc2C_M).
+
+Figure 41-6 Lines vs. Hysteresis Loop The diagonal line through the origin corresponds to J=0, and the diagonal line to its right corresponds to some positive value of J. Each line-loop crossing is a solution for the corresponding value of J. As we can readily see, there are multiple solutions for each J, with the actual solution determined by the material’s field exposure history.
+
+Spontaneous Magnetization As we said in the prior chapter, below their Curie temperatures, ferromagnetic materials become spontaneously magnetized, even without an external field. Recall these equations: H = B – λM / εc2 β = M / M_sat = tanh(x)
+
+T_C = λ µ0²N / εc2k = λ µ0 M_sat / εc2k x = µH / kT + β T_C / T These are classical equations that feature the quantum mechanical parameter λ. In the prior chapter, we showed that, contrary to classical physics, λ can be +3000 in ferromagnetic matter.
+
+Here, x = – µ•B is the energy of magnetic moment µ in a field B, where we define µ being “up” if it is parallel to B. Recall that:: tanh(x) = {ex – e–x} / {ex + e–x} is the average µ alignment parallel to B. It equals the average number of µ-up-electrons minus the average number of µ-down-electrons, divided by their sum. Averages are determined using Boltzmann’s law.
+
+With no external field, H = 0, and the prior equations become: B = λM / εc2 x = β T_C / T β = M / M_sat = tanh( β T_C / T)
+
+Figure 41-7 shows a graph of measured values of β versus T/T_C for the ferromagnetic material magnetite.
+
+Figure 41-7 Image by Univ. Calif. San Diego Thermodynamic Properties In V2p37-3, Feynman calculates the energy U for all magnetic moments in a magnetized body.
+
+The potential energy of one electron’s moment in the field of a second electron’s moment is –µB. That is the same potential energy of the second electron’s moment in the field of the first electron. As with all other forms of potential energy, we must count the energy of each pair once, not twice.
+
+U is then the product of (N, the number of magnetic moments) × (µ tanh(x), the average moment parallel to B) × (the field H+λM/2εc2). In the last term, we divided the electron-produced field M by 2 to avoid double-counting electron potential energy. The result is: U = – N [µ tanh(x)] [H + λM / 2εc2]
+
+For H = 0, this reduces to: U = – N [µ (M/M_sat)] [λM / 2εc2]
+
+U = – λM² / 2εc2 We see that U is proportional to –M². For magnetite, we show a schematic representation of U in the upper image of Figure 41-8.
+
+The curves in this figure suggest the correct temperature dependence, but they do not represent a comprehensive theory or actual measurements. Figure 41-8 Energy & Specific Heat The middle image shows the material’s specific heat C , the derivative of U with respect to T. In V2p37-5, Feynman notes that we can determine the magnetic properties of any material by measuring its specific heat. The lower image in Figure 41-8 is a more realistic representation of C . This curve peaks higher and drops more gradually than the prior curve, because it accounts for ferromagnetic materials containing a multiplicity of tiny domains. The domains have varying spin orientations, and they do not all respond identically to temperature and external fields, as we shall discuss shortly.
+
+Spin & Angular Momentum Spin is a particularly quantum property of subatomic particles. As we thoroughly explore in Feynman Simplified 3A, starting in Chapter 4, spin is a form of angular momentum. This is demonstrated by the experiment illustrated in Figure 41-9 that shows a cylinder hanging magnets require materials that can reverse magnetization with minimal energy. This is achieved with well-annealed materials with minimal impurities, which allow domain walls to move easily. Such materials have small coercive forces. A prime example is the family of permalloys comprised of 70% to 80% nickel with the balance being iron. Permalloys are so “soft” that bending them induces crystal dislocations that might ruin their performance. The residual magnetic field Br and coercive force Hc of several important ferromagnetic materials are listed below. Here, the values of Br and Hc are in gauss.
+
+At the end of this lecture, Feynman concludes his presentation of electromagnetism, saying: “We now close our study of electricity and magnetism. In the first chapter, we spoke of the great strides that have been made since the early Greek observation of the strange behaviors of amber and of lodestone. Yet in all our long and involved discussion we have never explained why it is that when we rub a piece of amber we get a charge on it, nor have we explained why a lodestone is magnetized! You may say, “Oh, we just didn’t get the right sign.” No, it is worse than that. Even if we did get the right sign, we would still have the question: Why is the piece of lodestone in the ground magnetized? There is the earth’s magnetic field, of course, but where does the earth’s field come from? Nobody really knows—there have only been some good guesses. So you see, this physics of ours is a lot of fakery—we start out with the phenomena of lodestone and amber, and we end up not understanding either of them very well. But we have learned a tremendous amount of very exciting and very practical information in the process!”
+
+**Review of Magnetism & Matter (Chapters 38 through 41)**
+
+**Key Ideas** • Throughout this review section, we define: q: proton electric charge N: # of magnetic moments per unit volume B: magnetic field P: polarization field in matter M: magnetization field of matter H = B – M/εc² k: Boltzmann’s constant T: Absolute temperature µB = q ħ / 2m is the Bohr magneton Also, for any particle, atom, or molecule: q: electric charge m: mass µ: magnetic moment J: classical angular momentum j: angular momentum quantum number
+
+• Diamagnetism: In all matter, an external B field induces weak currents that oppose B, causing all materials to be very weakly repelled by magnetic fields. In many substances, atomic magnetic moments cancel one another and diamagnetism is the only magnetic effect.
+
+Paramagnetism: In other substances, unbalanced atomic moments align parallel to an external field B, causing these materials to be weakly attracted to B. Paramagnetism, when present, generally dominates the ever-present diamagnetism, particularly at lower temperatures.
+
+• Since classical physics utterly fails to explain magnetism in matter, some basic principles of Quantum Mechanics are essential to understand magnetic matter.
+
+Particle-wave duality is the principle from which all quantum theory derives. It says every entity in nature has both particle and wave properties.
+
+The Pauli exclusion principle says two electrons in an atom or a molecule can never have the same orbit and spin. In some transition metals, unpaired electrons whose spins are parallel to those in neighboring atoms must have widely separated orbits. This reduces their electrostatic repulsion, making this the lowest energy state. As a result, in ferromagnetic materials below the Curie temperature, unpaired electron spins tend to align parallel, leading to enormous magnetization.
+
+An object’s component of angular momentum along any axis can only have one of 2j+1 values in quantum mechanics: –jħ, –(j–1)ħ, –(j–2)ħ … +(j–2)ħ, +(j–1)ħ, +jħ Here, j is the object’s angular momentum quantum number, ħ = h/2π, and h is Planck’s constant, the number that sets the scale of quantum phenomena. For orbital angular momentum, j must be an integer. For intrinsic particle spins, j=1/2 for electrons, protons and neutrons. Total classical angular momentum J and total quantum angular momentum jħ are related by: J² = j(j+1) ħ² Electrons in atoms must have quantized wavelengths, energies, and angular momenta in order to “fit” within a confining space. Electron orbits are divided into shells denoted by a principal quantum number n that determines the orbit’s average distance from the nucleus. Shells are further divided into subshells, each with a different orbital angular momentum.
+
+To transition between orbits, an electron must either absorb or emit a photon of energy ħω = ΔU, where ΔU is the energy difference between the two orbits. For a transition between consecutive spin states: ΔU = (gq/2m) B ħ Here, B is the field component in the spin direction, and g is the Lande factor that relates an object’s angular momentum J to its magnetic moment µ, according to: µ = g (q/2m) J For orbital angular momentum g=1. For electron spin, g is very slightly more than 2.
+
+• The magnetization M per unit volume of atoms with average moment <µ> is: M = N <µ> = Nµ² B / (3kT)
+
+Here Nµ² / (3kT) is called the material’s magnetic susceptibility.
+
+• Paramagnetic cooling: has reached temperatures as low as 0.002K using electron magnetic moments, and temperatures as low as one millionth of a degree above absolute zero using nuclear magnetic moments.
+
+• With these substitutions: replace: E with H; and P with M/c² The non-quantum magnetic equations can be recast in a form equivalent to the equations of electrostatics. But, the underlying assumptions of classical physics are wrong as demonstrated by classical calculations having the wrong polarity and the wrong magnitude by factors of several thousand.
+
+• A semi-classical approach expresses M in terms of a parameter λ that must be derived using quantum mechanics.
+
+β = M / Msat = tanh(x)
+
+TC = λ µ²N / εc²k = λ µB Msat / εc²k x = µH / kT + λµM / (εc² kT)
+
+x = µH / kT + M TC / (M Tsat)
+
+Here, Msat = Nµ is the saturated (maximum) value that M can attain, and TC is the material’s Curie temperature. When T<TC, a ferromagnetic material spontaneously magnetizes even without an external field.
+
+• For ferromagnetic matter, Maxwell’s equations can be written: ∇·B = 0 H = B – M /εc² c² ∇×H = jother /ε0 + ∂(E + P/ε0)/∂t Here, jother is the sum of all currents outside the magnetic matter.
+
+A hysteresis loop, shown in Figure 41-14, characterizes the relationship between B and H.
+
+**Figure 41-14 Hysteresis Loop** A never-before-magnetized piece of soft iron starts at B=H=0. Increasing H drives B up curve “1” to saturation, where all atomic magnetic moments are aligned parallel to the external field. Decreasing H then drives B along curve “2”. Br is the residual magnetic field value of B when H reaches zero. As H becomes more negative, B continues along curve “2” to the opposite saturation limit. As H subsequently increases, B increases along curve “3”, eventually becoming zero at H=Hc, the coercive force.
+
+The large Br and Hc of Alnico V make it excellent for permanent magnets. Conversely, the small Hc of permalloys make them excellent for transformers and electromagnets that require materials that can reverse magnetization with minimal energy.
+
+If a ferromagnetic material is driven around its hysteresis loop by an oscillating external field, electrical energy is converted into heat. The amount of “lost” electrical energy is proportional to the area within the hysteresis loop.
+
+• A transformer has two separate coils wound onto the same inductor. An oscillating source of frequency ω drives one coil, causing a changing magnetic flux in the inductor. This causes an oscillating emf in the second coil at the same frequency. The ratios of coil voltages V, currents J, and number of windings N are related by: V1 / V2 = N1 / N2 = J2 / J1 V1 J1 = V2 J2 The last equation shows that the power in both coils is the same, as required by energy conservation.
+
+• Metals typically have a polycrystalline structure, comprised of irregular single-crystal grains, whose dimensions can be dozens to thousands of microns. The crystal axes within different grains are generally oriented in different directions.
+
+Ferromagnetic metals also generally have multiple domains within each grain, in which almost all unpaired electron spins are parallel. In different domains the spins are oriented in different directions.
+
+When a metal is exposed to an external magnetic field, domains become oriented parallel to that field.
+
+**Chapter 42: Elasticity** In V2p38-1, Feynman says: “The subject of elasticity deals with the behavior of those substances which have the property of recovering their size and shape when the forces producing deformations are removed. We find this elastic property to some extent in all solid bodies. …[Due to time constraints] we will not discuss plasticity or the limitations of the elastic laws. … Also, we will not be able to discuss the internal mechanisms of elasticity—so our treatment will not have the completeness we have tried to achieve in the earlier chapters. Our aim is mainly to give you an acquaintance with some of the ways of dealing with such practical problems as the bending of beams. “When you push on a piece of material, it ‘gives’—the material is deformed. If the force is small enough, the relative displacements of the various points in the material are proportional to the force—we say the behavior is elastic. We will discuss only the elastic behavior.” Consider a rectangular block of matter shown in Figure 42-1. The lower image shows the block with no forces acting upon it, while the upper image shows the block being stretched by two equal but opposite forces F uniformly applied across the entire surface of each end.
+
+**Figure 42-1 Stretching a Block** As the figure shows, the un-deformed block has height H, width W, and length L. When subject to forces F, the deformed block’s dimensions become: (H, W, L) –> (H+ΔH, W+ΔW, L+ΔL)
+
+As we shall soon see, ΔL is positive and ΔH and ΔW are negative.
+
+Throughout our discussions of elasticity… Elasticity, we will assume all deformations change dimensions by only small fractions of their values; thus, ΔL<<L, ΔH<<H, and ΔW<<W.
+
+For small deformations, many materials deform according to Hooke’s law: F = constant × ΔL / L It makes sense that the length change ΔL is proportional to L. If we double L, each portion of the block is still subject to the same stretching force F. At the atomic level, force F results in some amount of stretching of atomic bonds. Doubling L means twice as many atomic bonds are stretched by the same amount, which means ΔL doubles.
+
+It also makes sense that stretching a block with a larger cross-section requires more force. Doubling both H and W quadruples the number of atoms resisting force F. To achieve the same displacement per atomic bond, F must quadruple as well. Thus, F must be proportional to the block’s cross-sectional area A=HW.
+
+We therefore write the first general principle of elasticity, the force-deformation equation: F / A = Y ΔL / L Here, F/A, the force per unit area is called stress; ΔL/L, the fractional deformation, is called strain; and Y is Young’s modulus. By factoring out the block’s dimensions, the quantity Y describes intrinsic characteristics of the material itself.
+
+Now let’s discuss ΔH and ΔW. When the block stretches in length, it contracts in height and width. This lateral contraction is described by the second general principle of elasticity: ΔH / H = ΔW / W = – σ ΔL / L Here, σ is Poisson’s ratio. The block contracts in the two lateral dimensions by the same percentage, and does so in proportion to the percentage change in length. It is found that σ is always positive and less than 1/2. In V2p38-2, Feynman says the lateral contraction rules are “reasonable…but it is not quite clear that it must be so.” In other words, these rules are empirical, and not proven from a fundamental theory of matter.
+
+The two quantities Y and σ completely characterize the elastic behavior of homogeneous, isotropic matter. In crystalline matter, Y and σ generally vary with the orientation of strain relative to the crystal axes. That greater complexity can only be described with a larger number of constants. To begin with, let’s consider only homogeneous, isotropic matter.
+
+The third and final general principle of elasticity is linear superposition. Since the length and lateral deformation equations are linear, it follows that the principle of linear superposition applies to elastic deformations for small changes. The deformations from two sets of forces must equal the sums of the deformations from each set of forces separately.
+
+Let’s now examine the consequences of these three principles in several common situations.
+
+Uniform Strain Let’s consider a block of matter subject to a uniform hydrostatic pressure, as it would be if it were 100m below the ocean’s surface. Figure 42-2 shows three images of the same block, with pressure P acting on all of its sides, exerting the same force per unit area everywhere.
+
+Figure 42-2 Compression in 3D We can solve this problem with linear superposition: imagine the uniform pressure is comprised of three separate forces, each pushing inward on two opposite faces.
+
+#1) For the left-right forces in the upper image, the deformation equations are: F / A = P = – Y ΔL / L ΔL / L = – P / Y ΔH / H = ΔW / W = – σ ΔL / L 1 1 1 #2) For the vertical forces in the middle image, the equations are: ΔH / H = – P / Y ΔL / L = ΔW / W = – σ ΔH / H 2 2 2 #3) For the in-out forces in the lower image, the equations are: ΔW / W = – P / Y ΔL / L = ΔH / H = – σ ΔW / W 3 3 3 By linear superposition, we sum the three ΔL/L’s from the three force directions, yielding: ΔL / L = ΔL / L + ΔL / L + ΔL / L 1 2 3 ΔL / L = – P/Y – σ (–P/Y) – σ (–P/Y)
+
+ΔL / L = – (P/Y) (1 – 2σ)
+
+Similarly, ΔH / H = ΔW / W = – (P/Y) (1 – 2σ)
+
+The volume V is of course: V = L W H For small changes, V changes just like a derivative: ΔV = L W ΔH + L H ΔW + W H ΔL Dividing by V, we obtain this useful equation: ΔV/V = ΔH/H + ΔW/W + ΔL/L Inserting the fractional changes that are all equal, we get: ΔV/V = – 3 (P/Y) (1 – 2σ)
+
+This is normally written: P = – K ΔV/V with K = Y / 3(1 – 2σ)
+
+Here, P is the volume stress, ΔV/V is the volume strain, and K is the bulk modulus.
+
+We see here why σ must be less than 1/2. If σ were greater, K would be negative and the block would expand under pressure, thus creating energy in violation of energy conservation.
+
+Next, let’s change the scenario slightly. We reverse the forces on the left and right faces, so that these now stretch the block, and we eliminate the in-out forces. The vertical forces remain compressive. We will also make the block cubic, so that L=H=W, as shown in Figure 42-3.
+
+Figure 42-3 Stretch L, Squeeze H We proceed as above.
+
+#1) For the left-right forces in the upper image, the deformation equations become: F / A = P = + Y ΔL / L ΔL / L = + P / Y ΔH / H = ΔW / W = – σ ΔL / L 1 1 1 #2) For the vertical forces in the middle image, the equations remain: ΔH / H = – P / Y ΔL / L = ΔW / W = – σ ΔH / H 2 2 2 #3) As there are no in-out forces in the lower image, the equations reduce to: ΔL / L = ΔH / H = ΔW / W = 0 3 3 3 We again sum the ΔL/L’s from the three force directions, yielding: ΔL / L = + P/Y – σ (–P/Y) – 0 ΔL / L = + (P/Y) (1 + σ)
+
+ΔH / H = – σ (+P/Y) – (P/Y) – 0 ΔH / H = – (P/Y) (1 + σ)
+
+ΔW / W = – σ (+P/Y) – σ (–P/Y) = 0 We see that the cube stretches in length and compresses in height by the same amount, while its width remains constant.
+
+Shear Forces A shear force is a force that acts parallel to an object’s surfaces, causing a twisting deformation. If two equal shear forces F act in opposite directions on two opposite faces, each of area A, the shear force is said to be F, and the action is called pure shear. This is shown in the left image of Figure 42-4. Note that the forces are applied to rigid blocks (light gray) glued to the faces of the object under consideration (dark gray cube), ensuring that each force acts uniformly across an entire face.
+
+Figure 42-4 Shear Forces The middle image of Figure 42-4 shows a force F acting on one face and no force acting on the opposite face. Here, we consider the action as having two parts: a shear force F/2; plus a linear force F acting on the object’s center mass, as shown in the right image of Figure 42-4.
+
+Let’s now take a cube, shown in dark gray in Figure 42-5, and subject it to four equal shear forces G. No forces act on the two cube faces not shown.
+
+Figure 42-5 Shear Forces & 45º Projections In the lower image, the G forces are projected onto axes set at 45º. The upper G and left G forces each contribute G/√2 to the upper-left diagonal force Q, making that Q equal to G√2. Similarly for the other three Q’s.
+
+The upper-left and lower-right Q forces compress the cube along the dotted diagonal line labeled “x”, with those forces spread over an area of A√2, where A is the area of one cube face. Similarly, the upper-right and lower-left Q forces stretch the cube along the dotted diagonal line labeled “y”, with those forces spread over an area of A√2. The force-spreading blocks for these two forces are not shown in the figure.
+
+The tensile and compressive forces are orthogonal and equal in magnitude, just like the forces in Figure 42-3. Employing the results of the prior analysis, with forces Q=G√2 acting over area A√2, we obtain the fractional length increase for the tensile y-direction: Δy/y = { +(1+σ)/Y } (force/area)
+
+Δy/y = { +(1+σ)/Y } ( G√2 / A√2 )
+
+Δy/y = { +(1+σ)/Y } G / A We define shear stress g as the force per unit area on one face, which is G/A. In terms of g, we have: Δy/y = { +(1+σ)/Y } g For the compressive x-direction, we have: Δx/x = { –(1+σ)/Y } g We can also express this in terms of the angle θ by which the cube twists, as shown in Figure 42-6.
+
+With no shear forces, the diagonal has length x=H√2. When shear forces act on the upper and lower faces of the cube, x decreases by Δx, and the upper corners move by distance δ.
+
+Figure 42-6 Twist Angle θ From the figure, we see that tan(θ) = δ/H. For small angles, we can approximate tan(θ) by θ. Also, since the original diagonal is at 45º, δ = –Δx√2. This means: θ = δ/H = –Δx√2 / (x/√2) = – 2 Δx / x θ = 2 {(1+σ)/Y } g or, g = µ θ, with µ = Y / {2(1+σ)} Here, µ is called the shear modulus or the coefficient of rigidity. This equation has the form: shear stress = constant × shear strain. Since energy conservation prohibits a block releasing energy by spontaneously moving against a shear force, µ must be positive, and hence σ must be greater than –1. Energy conservation therefore requires –1.0<σ<+0.5, but Feynman says σ is actually always greater than zero.
+
+Next, we consider a rectangular block subject to tensile forces on each face. In the left-right direction shown in the upper image of Figure 42-7, force per unit area P stretches the block; this is our independent variable.
+
+Figure 42-7 Stretching L with ΔH=ΔW=0 Let’s assume that forces P_H and P_W, which are shown in the middle and lower images, are just sufficient to prevent contraction of H and W, respectively. We allow only the block’s length L to expand.
+
+Y ΔL / L = P_L – σ P_H – σ P_W Y ΔH /H = P_H – σ P_L – σ P_W Y ΔW/W = P_W – σ P_L – σ P_H Setting ΔH=ΔW=0, the last two equations become: 0 = P_H – σ P_L – σ P_W 0 = P_W – σ P_L – σ P_H Subtracting the second from the first yields: 0 = (1+σ) P_H – (1+σ) P_W => P_H = P_W P_H = P_W = P_L σ / (1–σ)
+
+Inserting this into the equation for ΔL yields: Y ΔL / L = P_L – 2σ [P_L σ / (1–σ)]
+
+Y ΔL / L = P_L β with β = {1 – 2σ² / (1–σ) } Before we go further, we want to show that: for 0 < σ < 1/2: 0 < β < 1 The denominator (1–σ) is positive for all σ<1/2. Therefore, β has the form 1–kσ², with k>0, which is monotonically decreasing. In this range, β can therefore be zero at only one value of σ. β=1 at σ=0, and β decreases monotonically, reaching β=0 at σ=1/2.
+
+We can also rearrange the β equation to be: β = (1+σ) (1–2σ) / (1–σ)
+
+P_L = (ΔL/L) Y / β For 0<σ<1/2, 1/β is always greater than 1.
+
+Hence, more force is required to stretch the block if the sides are held stationary than if they are free to contract. If lateral motion is precluded, pressure P is proportional to the change in volume. With ΔH=ΔW=0, ΔV = HW ΔL.
+
+**Torsion** Twisting is an interesting form of shear that physicists call torsion. Consider a solid rod of length L and radius a that is twisted about its symmetry axis by shear forces, as illustrated in Figure 42-8. Let φ be the twist angle, the angle by which one end of the rod is rotated relative to the other end.
+
+**Figure 42-8 A Twisted Rod** The figure shows a square patch of the rod’s surface enclosed by solid lines. When the rod is twisted, the patch is deformed into the parallelogram enclosed by dashed lines. The parallelogram is offset from the square for clarity only; both are actually centered at the same location.
+
+To analyze this twisted rod, we will separate it into a series of hollow concentric cylinders, find the behavior of individual hollow cylinders, and sum those to find the behavior of the solid rod.
+
+The left image of Figure 42-9 is a magnified view of one hollow cylinder of radius r and thickness dr. This image provides the relationship between the twist angle φ, which is in the plane of the rod’s end surface, and the angle θ, which is on the cylinder’s outside surface. From the end surface, we see that the bolded distance x equals rφ. While on the outside surface, we see that x=Ltan(θ), where L is the rod’s total length. For θ<<1, tan(θ) can be approximated by θ. Hence: r φ = θ L
+
+**Figure 42-9 Magnified View of Rod** The right image of Figure 42-9 shows an infinitesimal patch of the hollow cylinder’s wall that is deformed by twisting. Shear forces dF twist the originally square patch of size dH by dW into a parallelogram. The area over which forces dF act is the area of the right face: dH×dr.
+
+Shear stress τ is the force per unit area, which is: τ = dF / (dH dr)
+
+In terms of the shear modulus µ and twist angle θ, τ is: τ = µ θ τ = µ r φ / L
+
+The incremental torque exerted by dF at radius r about the symmetry axis is: dτ = r dF = τ r dH dr dτ = (µrφ/L) r dH dr dτ = (µr2φ/L) dH dr
+
+We can now integrate this incremental torque over the cylinder’s entire circumference. Since nothing varies with azimuthal angle, the integral around the cylinder is particularly simple: ∫dH = 2πr.
+
+dτ(r) = (µr2φ/L) 2πr dr dτ(r) = (2π µr3φ/L) dr
+
+This is the torque from an infinitesimal hollow cylinder of radius r and thickness dr. All that remains is integrating this from r=0 to r=a, the solid rod’s radius.
+
+τ = (2π µφ/L) ∫a r3 dr τ = (2π µφ/L) a4 / 4 τ = (πa4/2L) µφ
+
+We see that the torque is proportional to the twist angle φ, and remarkably, to the fourth power of the rod’s radius. Doubling the rod’s radius increases its stiffness 16-fold.
+
+**Torsion Waves** Having solved the problem of a static twist, we can now be more dynamic and explore torsion waves, twist deformations that propagate through solid objects.
+
+Figure 42-10 shows a solid rod whose left end was twisted for an instant and then released. The twist propagates along the rod moving to the right. Define the z-axis to be parallel to the rod’s symmetry axis. The wavy line indicates how the twist varies along the rod’s length.
+
+**Figure 42-10 Torsion Wave: A Flowing Twist** In this dynamic situation, torque is a function of z and time t. The angle θ that characterizes the surface distortion across an infinitesimal distance dz is: θ = r ∂φ/∂z Here we use the partial derivative, because φ is also a function of time. We can employ the results of the prior section by replacing φ/L by ∂φ/∂z. Thus the torque at z is: τ(z) = (µπa4/2) ∂φ/∂z
+
+Taking the partial derivative with respect to z of this equation yields: ∂τ(z)/∂z = (µπa4/2) ∂2φ/∂z2
+
+Now, imagine cutting the rod perpendicular to its symmetry axis into small slices, each of thickness Δz. Each small slice, extending from z to z+Δz, is twisted by the difference in torque across Δz, which for small Δz is given by the derivative: Δτ(z) = τ(z+Δz) – τ(z) = Δz ∂τ(z)/∂z Δτ(z) = Δz (µπa4/2) ∂2φ/∂z2
+
+This differential torque provides angular acceleration to this small cross-section, according to: Δτ(z) = ΔÎ ∂2φ/∂t2 Here, ΔÎ is the moment of inertia of the slice. From Feynman Simplified 1D, Chapter 40, the moment of inertia of a solid cylinder of mass m and radius a about its symmetry axis is mr2/2. Hence: ΔÎ = (πa2 Δz ρ) a2/2 ΔÎ = πa4 Δz ρ /2
+
+Here, ρ is the rod’s mass density, its mass per unit volume, and πa2Δz is the slice’s volume.
+
+Combining the two equations for Δτ(z), we have: Δz (µπa4/2) ∂2φ/∂z2 = Δz (πa4 ρ/2) ∂2φ/∂t2 ∂2φ/∂z2 – (ρ/µ) ∂2φ/∂t2 = 0
+
+This is the equation for a wave moving toward +z with velocity: C = √(µ/ρ)
+
+**shear** The wave velocity is higher if the rod’s mass density ρ is lower, or if the rod is stiffer (higher stress modulus µ). Note that the wave velocity does not depend on the rod’s radius.
+
+In V2p38-8, Feynman says torsion shear waves are rotational deformations, but shear waves can also be linear in a direction perpendicular to the wave velocity. The latter are called transverse shear waves. He says torsion waves, transverse waves, and all combinations thereof propagate at the same velocity.
+
+We can appreciate why all such waves must have the same velocity. In Feynman Simplified 1C, Chapter 36, we explored the principles of light polarization that apply here as well. Any rotational motion in the xy-plane can be expressed as the linear superposition of x-oscillations and y-oscillations. Hence, all torsion shear waves are mathematically equivalent to sums of transverse shear waves.
+
+**Compression Waves** Elastic materials also support waves of a different type: compression waves, also called longitudinal waves. These are waves in which matter alternately compresses and expands along the wave’s direction of motion, just like the sound waves we examine in Feynman Simplified 1D, Chapter 42.
+
+Let’s consider a large solid body whose lateral dimensions are much larger than the wavelength of sound in that material. When a sound wave passes through such a body, matter compresses and expands in the direction of wave propagation, but it cannot expand or compress laterally if the body’s lateral extent is much larger than the wavelength.
+
+In Feynman Simplified 1D, Chapter 42, we find that the speed of sound c is given by: c = √( ∂P/∂ρ )
+
+Here, ∂P/∂ρ is the partial derivative of pressure with respect to density. From our analysis above of constrained deformation (no lateral motion), we found that: β = (1+σ) (1–2σ) / (1–σ)
+
+P = (ΔL/L) Y / β
+
+Without lateral motion, ΔL/L = ΔV/V = Δρ/ρ, where we are taking absolute values, and V is volume and ρ is mass density.
+
+The above equation can be written: P = (Δρ/ρ) Y / β This equation says the pressure change ΔP=P equals the fractional density change (ΔL/L) multiplied by (Y/β). This means the longitudinal wave velocity C is: **long** C = √(ΔP/Δρ) = √(Y/ρβ)
+
+**long** Recall that µ = Y / {2(1+σ)} Since we know that 0<σ<0.5, β is always less than 1, and: µ < Y < Y/β This means longitudinal waves are always faster than transverse waves in a large body. In V2p38-8, Feynman says: “One of the most precise ways of measuring the elastic constants of a substance is by measuring the density of the material and the speeds of the two kinds of waves. From this information one can get both Y and σ. It is, incidentally, by measuring the difference in the arrival times of the two kinds of waves from an earthquake that a seismologist can estimate—even from the signals at only one station—the distance to the quake.”
+
+**Beam Bending** Load-bearing is critical in the design of buildings, bridges, rocket ships, and almost every other major mechanical engineering project. Let’s examine the deformation of a stressed beam.
+
+Exactly why beams have the strength to support their loads is somewhat surprising. Feynman touches on this briefly, after deriving equations that quantify beam rigidity. I will give you a sneak preview. Beams resist bending, not because their internal atomic bonds resist bending, but rather because those bonds resist stretching and compression. As discussed in Feynman Simplified 1A, Chapter 9, interatomic bonds, like tiny springs, exert forces proportional to any displacements from their natural separations; these forces seek to reduce such displacements to zero.
+
+The upper image of Figure 42-11 shows a single layer of atoms in a horizontal sheet that has been bent downward. The springs suffer virtually no displacement, and hence they exert almost no force opposing this bending. Thin sheets of even the strongest materials are easily bent.
+
+**Figure 42-11 Why Beams Resist Bending** The lower image of Figure 42-11 shows three layers of atoms that are bound to one another in three dimensions. When this assembly is bent, springs in the upper layer are stretched, while springs in the lower layer are compressed. These displacements and the resulting resistive forces are substantial, and they increasing rapidly with increasing beam thickness.
+
+The upper image of Figure 42-12 shows a beam of length D that is bent into a circular arc of radius R. The material is stretched along the upper side of the beam and compressed along the lower side. In between, there is a neutral surface indicated by the dotted line that suffers no deformation.
+
+**Figure 42-12 Beam Bending** The lower image of this figure is a magnified view of the small central beam segment indicated in the upper image. Here, y is the distance above the neutral surface, and L is the un-deformed length of this segment. Forces F stretch the beam for y>0 and compress it for y<0. Indeed, force F is linearly proportional to y, which means the fractional deformation ΔL/L is also linearly proportional to y. We write this: ΔL / L = y / R
+
+For any horizontal strip of constant y, the force per unit area is given by: F / A = Y ΔL / L = Y y / R
+
+Now let’s calculate the force required to bend this beam with radius of curvature R. The torque on the right side of the beam segment in Figure 42-12 equals the integral of the force per unit area (F/A) multiplied by the lever arm y, integrated over the beam cross-section. That torque is called the bending moment M.
+
+M = ∫ (F/A) y dA M = (Y/R) ∫ y2 dA Let I = ∫ y2 dA then M = Y I / R Here, we define I to be the beam’s cross-sectional area A multiplied by the average value of y2 over A, which is related to the moment of inertia of this segment. To be precise, I per unit area equals the moment of inertia per unit mass.
+
+The bending moment multiplied by the radius of curvature, MR, equals Y I, the stiffness of the beam. Stiffness can be increased by increasing I. As Feynman says in V2p38-10: “In other words, if you want the stiffest possible beam with a given amount of, say, aluminum, you want to put as much of it as possible as far as you can from the neutral surface, to make a large moment of inertia. You can’t carry this to an extreme, however, because then the thing will not curve as we have supposed—it will buckle or twist and become weaker again. But now you see why structural beams are made in the form of an I or an H”
+
+Let’s apply the beam equation to a cantilevered beam of length L supporting a weight W at its right end, as shown in Figure 42-13. At its left end, the beam is embedded in a wall. Let x be the horizontal axis, and z be the vertical axis, with +z pointing downward. At the wall, the beam’s position is x=z=0, and its slope is entirely horizontal, meaning dz/dx=0 at x=0.
+
+Figure 42-13 Beam Supporting Weight W
+
+Feynman says: “as you know from your mathematics courses, the curvature 1/R of any function z(x) is given by: 1/R = d2z/dx2 / ([dz/dx]2+1)3/2” For those who do not recall this from your math classes, I provide a derivation of this equation at the end of this chapter.
+
+We will assume L is much greater than the beam’s height and width, and also that the beam’s slope is always modest: [dz/dx]2 << 1.
+
+Let’s calculate the bending moment M and vertical position of the gray portion of the bold black beam at distance x from the wall. For small slopes, 1/R reduces to: 1/R = d2z/dx2
+
+We will also assume the beam’s weight is negligible compared with the load W. The bending moment at x must balance the torque at x exerted by the load. This means: M x = W (L–x)
+
+From our prior equation, we have: M = Y I / R = Y I d2z/dx2
+
+Combining the prior two equations yields: d2z/dx2 = (W / Y I) (L–x)
+
+Integrating with respect to x gives us: ∫ [d(dz/dx)/dx] dx = (W / Y I) ∫ (L–x) dx dz/dx = (W / Y I) (Lx – x2/2 + C)
+
+Since dz/dx=0 at x=0, C must be 0. Integrating again yields: ∫ [dz/dx] dx = (W / Y I) ∫ (Lx – x2/2) dx z(x) = (W / Y I) (Lx2/2 – x3/6 + D)
+
+Since z=0 at x=0, D must be 0. Hence: z(x) = (W / Y I) (Lx2/2 – x3/6)
+
+z(L) = (W / Y I) (L3/3)
+
+Feynman notes that this derivation makes the implicit assumption that the beam’s cross-section does not change when loaded. In V2p38-10, he says: “When the thickness of the beam is small compared to the radius of curvature, the cross section changes very little and our result is O.K. In general, however, this effect cannot be neglected, as you can easily demonstrate for yourselves by bending a soft-rubber eraser in your fingers. If the cross section was originally rectangular, you will find that when it is bent it bulges at the bottom. This happens because when we compress the bottom, the material expands sideways—as described by Poisson’s ratio. Rubber is easy to bend or stretch, but it is somewhat like a liquid in that it’s hard to change the volume—as shows up nicely when you bend the eraser. For an incompressible material, Poisson’s ratio would be exactly 1/2—for rubber it is nearly that.”
+
+Beam Buckling
+
+Buckling is a failure mode in which a beam abruptly changes shape when overloaded. An example is an overloaded column whose center bends to one side, allowing its height to reduce dramatically. A buckled beam does not necessarily break, but it can no longer support its intended load.
+
+Consider the beam in Figure 42-14 that was intended to be straight, but has buckled due to two equal but opposite horizontal forces F. Let the horizontal distance from the left beam end be x, the vertical displacement be y(x), and the distance between ends of the buckled beam be L.
+
+Figure 42-14 Buckled Beam
+
+At any distance x, the torque exerted on the beam is force F multiplied by lever arm y. This must be balanced by the bending moment. We therefore have: F y = M = Y I / R
+
+For a modest slope, 1/R = – d2y/dx2, where we added the minus sign since here d2y/dx2 is in the direction opposite to y. This yields: F y = – Y I d2y/dx2 d2y/dx2 = – (F/YI) y
+
+This is the equation of a sinusoid. Hence, for small deformations, y is given by an equation of the form: y(x) = C sin(xπ/L)
+
+This equation ensures that y=0 at both x=0 and x=L. The second derivative of y is: d2y/dx2 = – C (π/L)2 sin(xπ/L)
+
+Hence: – C (π/L)2 sin(xπ/L) = – (F/YI) C sin(xπ/L)
+
+(π/L)2 = (F/YI)
+
+F = Y I (π/L)2
+
+We see that for small deflections, F is independent of y. This value of F is called the Euler force.
+
+Feynman provides this physical interpretation: for any applied force less than the Euler force, the beam does not bend at all, y(x)=0 for all x. But, for any force even slightly larger than the Euler force, the beam suddenly bends by a large amount — it buckles. If the columns of a multistory building are loaded beyond their Euler force, the building collapses.
+
+In V2p38-11, Feynman adds: “Another place where the buckling force is most important is in space rockets. On one hand, the rocket must be able to hold its own weight on the launching pad and endure the stresses during acceleration; on the other hand, it is important to keep the weight of the structure to a minimum, [because lifting something into space costs more than its weight in gold].”
+
+Feynman next explains how this analysis changes for larger deflections. Recall the exact equation for 1/R: 1/R = d2y/dx2 / ([dy/dx]2+1)3/2
+
+For large deflections, we can not neglect [dy/dx]2 in the denominator. Unfortunately, this means we can no longer solve this equation analytically. Feynman takes an interesting approach: instead of describing the curve in terms of x and y, we use the variables S and θ that are shown in Figure 42-15. For any point P, S is the distance along the curve from its left end to P, and θ is the angle of the tangent to the curve at P. Angle θ is also the angle between the radial line to P and the vertical symmetry axis.
+
+Figure 42-15 Define Curve with S and θ
+
+At any point P, for an infinitesimal angle change dθ, the infinitesimal change in S is given by: dS = R dθ
+
+This means: dθ/dS = 1/R = – (F/YI) y
+
+Taking the derivative with respect to S yields: d2θ/dS2 = – (F/YI) dy/dS
+
+Now examine the right triangle at the left of Figure 42-15 whose vertical side is y and whose horizontal side is d. Call the length of its hypotenuse H. We see that y=Hsinθ. For an infinitesimal angle change dθ, dS is nearly the change in H. To first order, we can approximate dy by (dS)sinθ. Our equation then becomes: d2θ/dS2 = – (F/YI) sinθ
+
+In the limit that [dy/dx]2 is very small, sinθ goes to θ, confirming our equation for small deflections. But for large deflections, this equation can only be solved by numerical integration. In V2p38-12, Feynman notes that, with different constants, this is also the equation for a pendulum swinging with a large amplitude.
+
+The solutions to such equations are called curves of Elastica. Images of some of these bizarre curves prepared by Case Western Reserve are shown in Figure 42-16. Before you have nightmares, be assured none of these beam shapes will be on your next exam.
+
+Figure 42-16 Curves of Elastica
+
+Derivation of 1/R
+
+At any point (X,Y) along any “well-behaved” function f(x), we can approximate f(x) with a Taylor series as: f(X+Δx) = f(X) + Δx df/dx + Δx2 d2f/dx2 /2 +…
+
+Every circle is characterized by three parameters: its radius R, and the x and y coordinates of its center. With three variable parameters, we can match a circle to f(X), df(X)/ds, and d2f(X)/ds2. The radius R of the circle equals the radius of curvature of function f(x) at X in the limit that Δx goes to zero. We then have: x2 + y2 = R2 y = ± √(R2 – x2)
+
+dy/dx = ± (R2– Superposition of forces. Figure 43-2 shows point P at location r in an originally unstressed block (dotted lines) moving to point P* at location r* when the block (bold curved lines) is stressed. This complex motion is a non-homogeneous strain.
+
+We define the 3-D strain vector u(r) = r* – r, which is the displacement of the point originally at r. In general, u varies with location. This complexity is most conveniently described with a tensor e_jk (We examined tensors in Chapter 37). The strain motion in the +x-direction may vary with x-position, which is characterized by the xx-component of tensor e, according to: e_xx = ∂u_x/dx Similarly, e_yy = ∂u_y/dy e_zz = ∂u_z/dz Clearly, x-motion might also vary in the y- and/or z-directions, as it does with shear stress. Figure 43-3 shows an unstressed square block (dotted lines) that is deformed into a parallelogram (solid lines) under shear stress. Point P is displaced to point P*, and as before, u is the displacement vector.
+
+In this case, for small displacements, a possible definition for the mixed components of e are: u_x = ø y u_y = ø x e_xy = ∂u_x/dy = ø e_yx = ∂u_y/dx = ø But, as Feynman says in V39-2, we need to reconsider this in order to distinguish shear stress from rotation. Figure 43-4 shows an original square (dotted lines) that is rotated by angle ø, resulting in the square shown in solid lines.
+
+Here, there is no stress and no strain, the displacement components are given by the rules of rotations: u_x = + ø y u_y = – ø x We are already familiar with rotations. In particular, the distances between every pair of atoms in a rotated solid remain unchanged. Here, we wish to explore more complex changes. We therefore define the stress tensor e so that it is unaffected by rotations of the entire body. We achieve this with: e_xy = e_yx = (∂u_x/dy + ∂u_y/dx) /2 For rotations, e_xy = e_yx = 0, and for shear strain, e_xy = e_yx = angle ø.
+
+The most general deformation is then described by: e_xx = ∂u_x/dx e_yy = ∂u_y/dy e_zz = ∂u_z/dz e_xy = e_yx = (∂u_x/dy + ∂u_y/dx) /2 e_yz = e_zy = (∂u_y/dz + ∂u_z/dy) /2 e_zx = e_xz = (∂u_z/dx + ∂u_x/dz) /2 or more conveniently as: e_jk = (∂u_j/dk + ∂u_k/dj) /2 For all combinations of j, k = x, y, z.
+
+The strain tensor is a rank 2, symmetric (e_jk =e_kj) tensor in three dimensions. Therefore, at most 6 of its 9 components are independent.
+
+For homogeneous strain, all components of the strain tensor e are constant. If we define x=y=z=0 at some point that has zero displacement, we can write: u_j = e_jk r_k Recall that in tensor equations, we sum over repeated indices (k, in this case). This tensor equation can be restated for component-lovers as: u_x = e_xx x + e_xy y + e_xz z u_y = e_yx x + e_yy y + e_yz z u_z = e_zx x + e_zy y + e_zz z For non-homogeneous strains, Feynman says: “any piece of the Jello may also get somewhat twisted —there will be a local rotation.” For small deformations, we can write: u_j = (e_jk – ω_jk) Δk with ω_jk = (∂u_k/dj – ∂u_j/dk) /2 Here, ω_jk describes the local rotation, and Δk is a small displacement in the k-direction. For the rest of this chapter, Feynman says, we will discuss only homogeneous strains with no rotation.
+
+The Elasticity Tensor We will now relate the strain tensor e to the internal forces in the body of an object under stress. We will assume only modest stresses and strains, so our results will not be adequate to describe the brain of a physics student.
+
+We will assume that Hooke’s law is valid within each small portion of the body, so that stress and strain are linearly proportional to one another.
+
+The jk-component of stress tensor S_jk is defined (see Chapter 37) to be the j-component of force upon a unit area perpendicular to the k-axis. We found that S_jk is also a rank 2, symmetric tensor.
+
+Hooke’s law asserts that stress tensor component S_jk is linearly proportional to strain tensor component e_nm for each combination of j, k, n, and m. That requires 9×9= 81 coefficients of proportionality that comprise a rank 4 tensor, which we call the elasticity tensor C. We write this: S_jk = C_jknm e_nm summing over n and m This tensor equation is valid for each combination of j and k.
+
+In homogeneous matter, all 81 coefficients are constant. Fortunately, only a few of these 81 components are independent.
+
+Since S_jk and e_jk are each unchanged by an exchange of indices, C must also be unchanged by the exchange of either the first index pair or the second index pair. Hence: C_jknm = C_kjnm = C_jkmn = C_kjmn However, C may change upon the exchange of other indices, such as k and n.
+
+If we knew the components of C, and if we knew the components of strain tensor e, we could calculate the stress tensor S. Or if we knew C and S, we could calculate e. The problem is quite complicated because the stress at each point in a solid body depends on the strains at all other points in that body.
+
+In V239-4, Feynman says the easiest approach is to consider the potential energy stored in the atomic displacements within the body. In a simple 1-D case, F = –kx, and the stored energy equals the work done against force F, which is: W = – ∫ F•dx = ∫ k x dx = k x2 /2 Similarly, the infinitesimal energy dW stored in each infinitesimal volume dV within the deformed solid body is: dW = C_jknm e_jk e_nm /2 Here we sum over all four indices. The total stored energy is dW integrated over the body’s entire volume V, which is: W = ∫ C_jknm e_jk e_nm dV /2 For a stressed body in equilibrium, W has its minimum value. If atoms could reduce W by moving, they would, contradicting the claim that the body is in equilibrium. The best approach to calculating the minimum-energy state employs variational calculus, as we discussed in Chapter 36. But since that requires detailed knowledge of C, Feynman elects not to pursue this further.
+
+Instead, let’s examine general properties of the elasticity tensor, beginning with how many of its 81 components are independent. Since both S_jk and e_jk are rank 2 symmetric tensors, each has at most 6 independent components and at least 3 redundant components. This means no more than 36 of the 81 components of C can be independent. Typically, the actual number of independent components is even less.
+
+Let’s take a simple case with a high degree of symmetry: a solid with a cubic crystalline structure. Since the crystal is identical to its mirror image, its stored energy W cannot change if the crystal is reflected in a mirror. A reflection in the xz-plane inverts the sign of y. We can write the reflection symmetry requirement as: C_xxxy = C_xxxy(–y)
+
+But recall that: e_xy = (∂u_x/dy + ∂u_y/dx) /2 Changing y to –y changes both the sign of ∂u_x/dy and the sign of y-displacement u_y. This means reflection multiplies e_xy by –1. If W cannot change, we must require: C_xxxy e_xx e_xy = C_xxxy(–y) e_xx e_xy(–y)
+
+C_xxxy e_xy = C_xxxy(–y) (–e_xy)
+
+C_xxxy = – C_xxxy(–y)
+
+But, above we found: C_xxxy = + C_xxxy(–y)
+
+Summing these two equations yields C_xxxy = 0 The same logic applies to any component with an odd number of the same index. For example, C_zyyy must be zero for two reasons: it has an odd number of z’s and an odd number of y’s. Remarkably, this eliminates 60 of the 81 components, leaving the following 21: C_xxxx, C_yyyy, C_zzzz C_xxyy, C_xxzz, C_yyxx, C_yyzz, C_zzxx, C_zzyy C_xyxy, C_xzxz, C_yxyx, C_yzyz, C_zxzx, C_zyzy C_xyyx, C_xzzx, C_yxxy, C_yzzy, C_zxxz, C_zyyz Also, since such a crystal is the same in every direction, energy W cannot change if we swap any pair of coordinate axes. Thus the 3 terms on the first line are all equal, as are the 6 terms on the second line. Finally, all 12 terms on the lower two lines are equal. This means, for a cubic crystal, only three of its 81 total components are independent.
+
+We therefore have for dW: dW = C_jknm e_jk e_nm /2 dW = C_xxxx {e_xx2 + e_yy2 + e_zz2}/2 + C_xxyy {e_xx e_yy + e_xx e_zz + e_yy e_zz} + C_xyxy {e_xy2 + e_xz2 + e_yz2}*2 In isotropic matter, there is an even greater degree of symmetry: W cannot change for any orientation of coordinate axes. This means the relationship between stress S and strain e must involve only scalar quantities. Feynman says the most general scalar relationship is a linear superposition of the form: S_jk = (scalar #1) e_jk + (scalar #2) δ_jk Here, δ_jk is the unit tensor, the tensor equivalent of 1. One interesting scalar quantity is: Σ e_kk = {e_xx + e_yy + e_zz} = ∂u_x/∂x + ∂u_y/∂y + ∂u_z/∂z = ∇•r Since ∇ is a vector operator and r is a vector, Σ e_kk = ∇•r is indeed an invariant scalar.
+
+Hence, in isotropic matter, the most general form of S that is linearly proportional to e is: S_jk = 2µ e_jk + λ Σ e_nn δ_jk Feynman writes the first term “2µ” so that the µ here is the same as the shear modulus µ defined in the prior chapter. The constants µ and λ are the Lamé elastic constants.
+
+Recall the definition equation of C: S_jk = C_jknm e_nm Let’s now calculate S_xy for isotropic matter using each of the two prior equations: S_xy = 2µ e_xy + (0)
+
+S_xy = C_xyxy e_xy + C_xyyx e_yx Since e_xy = e_yx and C_xyxy = C_xyyx, this proves that: C_xyxy = µ Now calculate S_xx from each equation: S_xx = 2µ e_xx + λ {e_xx + e_yy + e_zz} (1)
+
+S_xx = C_xxxx e_xx + C_xxyy e_yy + C_xxzz e_zz Comparing terms with the same e indices reveals: e_xx: C_xxxx = 2µ + λ e_yy: C_xxyy = λ e_zz: C_xxzz = λ and from above: C_xyxy = µ In isotropic matter, we therefore find this additional relationship between the three types of C components: C_xxxx = C_xxyy + 2 C_xyxy This relationship reduces the number of independent C components from three in cubic crystals to two in isotropic matter.
+
+We can now express the three types of C components in terms of Young’s modulus Y and Poisson’s ratio σ. To employ the equations in the prior chapter, we orient the x-axis along length L, and the y-axis along height H.
+
+For a shear force per unit area S_xy: (ΔL/L) Y /(1+σ) = S_xy = C_xyxy e_xy + C_xyyx e_yx Recall that e_xy = e_yx and C_xyxy = C_yxyx. Also, for shear: ΔL/L = ∂u/∂y = e_xy. This means: C_xyxy = Y /2(1+σ). For a tensile force along L, with H and W held stationary and ΔL/L = ∂u/∂x = e_xx, we have: (ΔL/L) Y (1–σ)/(1+σ)(1–2σ) = S_xx = C_xxxx e_xx and (ΔL/L) Y σ/(1+σ)(1–2σ) = S_yy = C_yyxx e_xx. These two equations reduce to: C_xxxx = Y (1–σ)/(1+σ)(1–2σ) and C_xxyy = Y σ/(1+σ)(1–2σ).
+
+Motion in Elastic Objects
+
+We have so far focused on the equilibrium state of stressed matter. Let’s now explore the dynamics of non-equilibrium conditions. Consider a small region R deep within a solid body. Let region R have volume V and be enclosed by surface A. Various forces may act on this region. Feynman separates all possible forces into two categories: F_ext, the sum of all force originating outside the solid body; and F_int, the sum of all forces originating within the solid itself. The internal forces arise from atomic-scale interactions of matter within the solid. These forces act upon R through its surface A. External forces, such as gravity, extend over much larger scales, and act upon R across its entire volume V. If R is small enough, the external forces can be considered uniform throughout V.
+
+We can write: F_total = F_ext + F_int. ∫ ρ(r) d²r/dt² dV = ∫ f_ext dV + F_int. Here, f_ext is the external force per unit volume. Also, we equated the total force acting on R with the integral throughout V of (mass) × (acceleration), with ρ(r) being the mass density at location r.
+
+If the internal forces exactly balanced the external forces, the total force would be zero and there would be no overall acceleration. Region R would then be in equilibrium. We wish to explore the more interesting non-equilibrium case.
+
+For convenience, we define: F_int = ∫ f_int(r) dV. For the prior equation to be valid for every volume V, it must be true that: f_int(r) = ρ(r) d²r/dt² – f_ext.
+
+Feynman next relates F_int to the stress forces within the solid. Recall the definition of the stress tensor: S_jk is the j-component of force on a unit area normal to the k-direction. We can write this in terms of the infinitesimal force df_j acting upon an infinitesimal area da whose normal is n: df_j = S_jk n_k da. This tensor equation, which holds for all j, implies the sum over k. For component-ophiles this is: df_j = {S_jx n_x + S_jy n_y + S_jz n_z} da. Integrating over the entire surface A yields the total stress force, which is the total internal force acting upon volume V. This is written: ∫_A S_jk n_k da = ∫_V df_j dV.
+
+Thus we have a familiar relationship: a surface integral equated to a volume integral. By Gauss’ law, the surface integral of S•n equals the divergence ∇•S integrated throughout the volume enclosed by that surface. Hence: ∫_V ∂(S_jk)/∂k dV = ∫_V df_j dV. For this to be true for any volume V, it must be true at every point. This provides the equation relating the internal force per unit volume with the stress tensor: df_j = ∂(S_jk)/∂k.
+
+In V2p39-7, Feynman says: “The theory of the motions inside a solid works this way. If we start out knowing the initial displacements—given by, say, u—we can work out the strains e_jk. From the strains we can get the stresses from [the tensor equation S=Ce]. From the stresses we can get the force density f [from the last equation]. Knowing f, we can get [the acceleration] of the material, which tells us how the displacements will be changing. Putting everything together, we get the horrible equation of motion for an elastic solid. We will just write down the results that come out for an isotropic material.”
+
+With these two equations: e_jk = (∂u_j/∂k + ∂u_k/∂j) /2 and S_jk = 2µ e_jk + λ Σ_n e_nn δ_jk, we write: f = (λ+µ) ∇(∇•u) + µ ∇²u. Feynman says one could have foreseen that the force-displacement equation must have this form. Didn’t you foresee this? I did (in my dreams). The force must be a vector that is proportional to the second derivative of displacement, as in F=ma. The only second derivatives of vectors that result in vectors are: ∇(∇•u); ∇²u; and ∇×∇×u. But the last one reduces to a sum of the first two, so it does not expand the space of solutions. This means the prior equation is the most general possible form, and it again demonstrates that isotropic matter is completely characterized by only two elastic parameters.
+
+Without external forces, such as gravity, the equation of internal motion of an isotropic elastic solid is: f = ρ ∂²u/∂t² = (λ+µ) ∇(∇•u) + µ ∇²u. ρ ∂²u/∂t² – µ ∇²u = (λ+µ) ∇(∇•u). The last equation is the normal wave equation with the addition of the extra term on the right. We can describe the solutions to this modified wave equation by separating vector field u into two terms: one that has zero divergence u_zd; and another that has zero curl u_zc. We write this: u = u_zd + u_zc, with ∇•u_zd = 0 and ∇×u_zc = 0.
+
+Putting this into the motion equation yields: ρ ∂²(u_zd + u_zc)/∂t² – µ∇²(u_zd + u_zc) = (λ+µ) ∇(∇•u_zc). We next take the divergence of both sides, thereby eliminating u_zd from the time derivative. ρ ∇•∂²(u_zc)/∂t² – µ∇•∇²(u_zd + u_zc) = (λ+µ) ∇²(∇•u_zc). Operators ∇• and ∇² commute, because they are comprised entirely of partial derivatives and all partial derivatives commute (∂²/∂x∂t=(∂²/∂t∂x). This eliminates u_zd from the middle term. ρ ∇•∂²(u_zc)/∂t² – (λ+2µ) ∇²(∇•u_zc) = 0. ∇•{ ρ ∂²u_zc/∂t² – (λ+2µ) ∇²u_zc } = 0.
+
+Since u_zc has zero curl, the expression in { }’s has both zero divergence and zero curl. A solution that satisfies these requirements is: ρ ∂²u_zc/∂t² – (λ+2µ) ∇²u_zc = 0. The result is u_zc satisfies a wave equation with wave velocity C_zc = √(λ+2µ)/ρ. These are compression waves, with the same velocity C_long that we calculated in the prior chapter.
+
+Returning to the motion equation: ρ ∂²(u_zd + u_zc)/∂t² – µ∇²(u_zd + u_zc) = (λ+µ) ∇(∇•u_zc). We now take the curl of both sides, thereby eliminating u_zc. ρ ∇×∂²(u_zd)/∂t² – µ∇×∇²(u_zd) = 0. This leads to: ρ ∂²u_zd/∂t² – µ∇²u_zd = 0. Thus, u_zd satisfies a wave equation with wave velocity C_zd = √(µ/ρ). These are shear waves, with the same velocity C_shear that we calculated in the prior chapter.
+
+In V2p39-8, Feynman says: “If we wished to know the static stresses in an isotropic material, we could, in principle, find them by solving [the motion equation] with f equal to zero…. This is somewhat more difficult to do than the corresponding problems in electromagnetism. It is more difficult, first, because the equations are a little more difficult to handle, and second, because the shape of the elastic bodies we are likely to be interested in are usually much more complicated. In electromagnetism, we are often interested in solving Maxwell’s equations around relatively simple geometric shapes such as cylinders, spheres, and so on, since these are convenient shapes for electrical devices. In elasticity, the objects we would like to analyze may have quite complicated shapes—like a crane hook, or an automobile crankshaft, or the rotor of a gas turbine. Such problems can sometimes be worked out approximately by numerical methods, using the minimum energy principle we mentioned earlier. Another way is to use a model of the object and measure the internal strains experimentally, using polarized light.”
+
+When stressed, transparent plastics can become birefringent (see Feynman Simplified 1C, Chapter 36). A stressed plastic model made in a shape of interest can be placed between two crossed Polaroid filters. Complex wave interference patterns reveal strains within the model part, as shown in Figure 43-5. This technique facilitates design improvements that reduce failure risk.
+
+Figure 43-5 Stressed Plastic by Univ. Florida
+
+Material Failure Modes
+
+We have so far restricted ourselves to ideal elasticity, a perfectly linear Hooke’s law relationship between applied stress and resultant strain. Real materials are not perfectly elastic, nor perfectly linear, particularly for large deformations. The actual behavior of aluminum is shown in Figure 43-6, with applied stress plotted on the vertical axis, and resultant strain plotted on the horizontal axis.
+
+Figure 43-6 Al: Stress vs. Strain by Maksim
+
+The numbers in the plot denote: (1) maximum stress capacity; (2) stress resulting in permanent deformation; (3) linearity limit; (4) fracture limit; and (5) offset strain. We see here nearly perfect linearity up to the stress labeled (3), and eventual material fracture at point (4).
+
+Failure modes and failure rates are highly dependent on material type, imperfections, and type of applied stress. Material failure is a prime concern in almost all engineering projects. Its complexities are beyond the scope of this course, but because such failures are so important, we will examine a few cases.
+
+Figure 43-7 shows a fracture within a glass plate.
+
+Figure 43-7 Glass Fracture by Chris Thomas
+
+Figure 43-8 shows a fracture resulting from excess shear stress — twisting. Recall that shear stress compresses a solid along one axis and stretches it along an orthogonal axis, with those axes at ±45º to the applied shear.
+
+Figure 43-8 Shear Fracture by Bradley Grillo
+
+Note the fracture edges at 45º relative to the symmetry axis, the axis of twist.
+
+All the above are examples of the ultimate failure of Hooke’s law. But in V2p39-10, Feynman explains why Hooke’s law works as well as it does. Consider the case of shear stress, such as a rod being twisted about its axis. Per Hooke’s law, the twisting shear force (torque) is proportional to the twist angle φ. Expanding the torque τ in a Taylor series about φ=0 gives us: τ(φ) = τ(0) + φ ∂τ/∂φ + (φ²/2) ∂²τ/∂φ² + (φ³/6) ∂³τ/∂φ³ + (φ⁴/24) ∂⁴τ/∂φ⁴ + …. The torque at φ=0 is zero. Also, Feynman says, most materials are sufficiently symmetric that τ(–φ) = –τ(φ). This means the torque required to twist the material to ø3/6) ∂3τ/∂ø3 + O(ø5)
+
+Thus the linear term easily dominates the material response until ø becomes comparable to 1 radian (57º) or even more.
+
+Feynman notes that this logic goes only so far. Derivatives of even-order need not be zero for compression or tension. Also, we have no explanation for why materials typically break soon after the higher-order terms become important.
+
+Calculating Elastic Constants To conclude this lecture, Feynman says he “would like to show how one could try to calculate the elastic constants of a material” from fundamental atomic properties. This is a noble thought, but an unrealized goal. He merely derives some relationships for the simplest structures, and does not actually calculate the values of any elastic constants.
+
+No new principles of physics are presented here; this is merely a methodical accounting of algebraic terms. I will explain Feynman’s strategy and review his conclusions, while deferring the messy details to a final section that you may choose to skip.
+
+Feynman considers only the simplest solid: idealized table salt, a cubic crystal comprised of sodium and chlorine ions, alternating in three dimensions. He makes the approximation that each Na ion is a single-point positive charge, each Cl ion is a single-point negative charge, and that the spacing between all adjacent ions is d.
+
+Feynman models the force between crystal atoms as spring-like according to Hooke’s law. This means the stored energy shared by two atoms displaced by s from the equilibrium distance is proportional to s². He defines these proportionality constants for the stored energy between adjacent ions of these types: Na-Cl: U = s² k₁ Na-Na: U = s² k₂ Cl-Cl: U = s² k₂ He says Cl-Cl and Na-Na could have different constants, but he will assume they are equal.
+
+Feynman defines a coordinate system with x=y=z=0 at a randomly chosen atom; he names that atom #1, and defines its displacement to be zero. Feynman considers only the case of a modest homogeneous strain in the xy-plane. Recalling that e_jk = ∂u_j/∂k, an atom at (x,y) has displacement u given by: u_x = e_xx x + e_xy y u_y = e_yx x + e_yy y Feynman calculates the displacement of each spring tied to atom #1, and then sums the energy stored in those displaced springs. That energy involves myriad terms, each of the form: (stuff) e_jk e_nm with j, k, n, and m each being either x or y. Feynman then matches the energy terms with our prior equation for the energy per unit volume: dW = C_jknm e_jk e_nm /2 The conclusion is: C_xxxx = (k₁ + 2k₂) / d C_xyxy = k₂ / d C_xxyy = k₂ / d The main result is that C_xyxy = C_xxyy. Feynman then presents the following measured values of these elastic constants, from Introduction to Solid State Physics by Charles Kittel, a best-seller in 1956. These data are measured in units of trillions of dynes per cm².
+
+The salts NaCl, KCl, NaBr, and KI match Feynman’s prediction that C_xyxy = C_xxyy. But, the salt AgCl is inexplicably far off.
+
+Computational Details Here are the messy details from the prior section that you may choose to skip.
+
+The stored energy in each spring is proportional to the square of its displacement s, so the first step is deriving those displacements.
+
+Within the z=0 plane, there are four atoms whose equilibrium distance from atom #1 is d; for those s²=u², with u being either u_x or u_y. There are also four corner atoms whose equilibrium distance from atom #1 is d√2. Those atoms are at locations (αd,βd), where α=±1 and β=±1. For these, the stressed distances are: (s+d√2)² = (u_x+αd)² + (u_y+βd)² s² +2d² +2sd√2 = u_x² +α²d² +2αu_x d + u_y² +β²d² +2βu_y d Since α² = β² = +1, this reduces to: s² +2sd√2 = u_x² +2αu_x d + u_y² +2βu_y d For small displacements, we can drop the squared terms and approximate this by: s = (αu_x +βu_y) /√2 s² = (αu_x +βu_y)² /2 s² = d²(α²e_xx +αβe_xy +βαe_yx +β²e_yy)² /2 s² = (e_xx +αβe_xy +βαe_yx +e_yy)² d²/2 For these four atoms, with α=±1 and β=±1, there are only two distinct possibilities: αβ=+1, and αβ=–1.
+
+The stored energy W for the “springs” tied to atom #1 is: W = (d²/2) { k₁ (2e_xx² + 2e_yy²)
+
++ (k₂/2) (+e_xx +e_xy +e_yx +e_yy)² + (k₂/2) (+e_xx –e_xy +e_yx –e_yy)² + (k₂/2) (–e_xx +e_xy –e_yx +e_yy)² + (k₂/2) (–e_xx –e_xy –e_yx –e_yy)² } + (k₂/2) (4e_xx² + 4e_yy²) } Here, the first line has the contributions from the four atoms at (±d,0,0) and (0,±d,0). The middle four lines have the contributions from the atoms at (+d,+d,0), (+d,–d,0), (–d,+d,0), and (–d,–d,0) respectively. The last line has the contributions from the eight atoms at (±d,0,±d) and (0,±d,±d) in both the plane above and plane below atom #1. The two atoms at (0,0,±d) make no contribution since there is no strain in the z-direction.
+
+We have accounted for 4+4+8+2 = 18 neighbors of atom #1. Feynman chooses not to include the 8 atoms at (±d,±d,±d) that are at a distance d√3 from atom #1 (one has to stop somewhere). A 3×3×3 cube contains 27 atoms, of which 1 is atom #1. We accounted for 18, and decided to ignore 8, so no atoms were inadvertently missed.
+
+Our prior equation for the stored energy per unit volume is: dW = C_jknm e_jk e_nm /2 The volume occupied by any one atom in this crystal is d³, so the number of atoms in a volume V is V/d³, and the number in a unit volume is 1/d³. The number of springs is half that, 1/2d³, as each spring is shared by two atoms. Hence, the total energy stored per unit volume is: dW = W / 2d³ and C_jknm e_jk e_nm = W / d³ We finally match terms with the same e_jk e_nm factors, to obtain the elasticity tensor components.
+
+The e_xx² term and e_yy² terms both have coefficient d²(k₁+2k₂), which means: C_xxxx = C_yyyy = d²(k₁+2k₂) / d³ = (k₁+2k₂) / d The e_xx e_yy term has coefficient d²(2k₂), which means: (C_xxyy + C_yyxx) = d²(2k₂) / d³ C_xxyy = C_yyxx = k₂ / d The e_xy e_yx term also has coefficient d²(2k₂), which means: (C_xyyx + C_yxxy) = d²(2k₂) / d³ C_xyyx = C_yxxy = k₂ / d The e_xy² and e_yx² terms both have coefficient d²(k₂), which means: C_xyyx = C_yxyx = d²(k₂) / d³ = k₂ / d The remaining 8 e_jk e_nm terms each have either (3x’s and 1y) or (1x and 3y’s). These all have zero coefficients, which means: C_xxxy = C_yyyx = … = 0 QED Elastic Matter Review: Key Ideas Chapters 42 & 43 • Deformations of solid objects do not dissipate energy if the solid is entirely elastic. All the energy expended in deforming the object is stored in the form of atomic displacements, all of which is returned in the form of mechanical energy when the object returns to its original state. Elastic deformations are idealizations, like frictionless motion.
+
+Hooke’s law describes small deformations in homogenous, isotropic elastic material: F / A = Y ΔL / L Here, the force per unit area F/A is the stress, the fractional length change ΔL/L is the strain, and Young’s modulus Y describes intrinsic characteristics of the material. Length changes in the direction parallel to the force.
+
+Poisson’s ratio σ describes a material object’s contraction in height and width, both by the same fraction, as its length stretches: ΔH / H = ΔW / W = – σ ΔL / L Observations show that σ is always between 0 and 1/2.
+
+If the object’s width and height are held stationary while its length is subject to a tensile force per unit area P, the results are: P = (ΔL/L) Y / β with β = (1+σ) (1–2σ) / (1–σ)
+
+Since 0<β<1 for 0<σ<1/2, more force is required to stretch an object if its sides are held stationary than if they are free to contract.
+
+For an object subject to pressure P on all sides: ΔL/L = ΔH / H = ΔW / W = –(P/Y)(1–2σ)
+
+P = – K ΔV/V with K = Y / 3(1 – 2σ)
+
+Here, P is the volume stress, ΔV/V is the volume strain, and K is the bulk modulus.
+
+• Shear forces act parallel to an object’s surfaces, causing twisting deformations. Shear stress g, the force per unit area on one face, causes shear strain, according to: Δx/x = { +(1+σ)/Y } g This strain is compressive in one direction and tensile in the orthogonal direction. The angle θ by which a cube twists under shear stress is: g = µ θ, with µ = Y / {2(1+σ)} Here, µ is called the shear modulus or the coefficient of rigidity.
+
+• A solid rod of radius a and length L, subject to a twisting torque τ about its symmetry axis, has an end-to-end rotation angle ø given by: τ = (πa⁴/2L) µ ø • The velocity of shear waves, torsion or transverse, is: C_shear = √(µ/ρ), with µ = Y / {2(1+σ)} The velocity of compression (longitudinal) waves is: C_long = √(ΔP/Δρ) = √(Y/ρβ)
+
+for 0<σ<0.5, β <1, and µ < Y < Y/β.
+
+Hence, longitudinal waves are always faster than transverse waves in large objects.
+
+• The bending moment M of a beam with radius of curvature R is given by: M R = Y Î = the beam’s “stiffness” where Î = ∫ y² dA A cantilevered beam of length L, supporting a weight W at its end, has a vertical drop z at L of: z(L) = (W/YÎ) (L³/3)
+
+A buckled beam of length L, with deflection y at distance x from one end, is described by these equations for small deflections: d²y/dx² = – (F/YÎ) y y(x) = C sin(xπ/L), for some constant C with F = Y Î (π/L)² being the Euler force The beam does not bend for any force less than F, but suddenly buckles under any greater force.
+
+For large deflections, the differential equations can only be solved numerically. The solutions are called curves of Elastica.
+
+• The strain tensor e is defined in terms of the derivative of displacement vector field u as: e_jk = (∂u_j/∂k + ∂u_k/∂j) /2 For all combinations of j, k = x, y, z. This is a rank 2, symmetric tensor in three dimensions, and therefore at most 6 of its 9 components are independent.
+
+• The elasticity tensor C is defined by: S_jk = C_jknm e_nm summing over n and m C is a rank 4 tensor in three dimensions, with 3⁴ = 81 components.
+
+• The stored energy W in a stressed body of volume V is: W = ∫_V C_jknm e_jk e_nm dV /2 At equilibrium, W is at its minimum value.
+
+• C has only 3 independent components in a cubic crystal, due to reflection symmetry. We can choose these three to be: C_xxxx, C_xxyy, and C_xyxy. In isotropic matter, only two com components are independent, and the most general form of S that is linearly proportional to e is: S = 2µ e + λ Σ e δ jk jk n nn jk The constants µ and λ are the Lamé elastic constants. With µ and λ, the equations for the C-components in isotropic matter are: C = 2µ + λ C = λ xxzz C = µ xyxy C = 2 C + C xxxx xyxy xxzz In terms of Young’s modulus Y and Poisson’s ratio σ: C = Y /2(1+σ)
+
+xyxy C = Y (1–σ)/(1+σ)(1–2σ)
+
+C = Y σ/(1+σ)(1–2σ)
+
+xxyy • For a solid not in equilibrium, f, the sum of all internal forces per unit volume, is: f = (λ+µ) ∇(∇•u) + µ ∇²u We can separate u into the sum of two parts: u_zc which has zero divergence; and u_zd which has zero curl. Each of these satisfies a wave equation: ρ ∂²u_zc /∂t² – (λ+2µ) ∇²u_zc = 0 u_zc corresponds to compression waves with velocity C = √((λ+2µ)/ρ).
+
+ρ ∂²u_zd /∂t² – µ ∇²u_zd = 0 u_zd corresponds to shear waves with velocity C = √(µ/ρ).
+
+## Chapter
+
+Non-Viscous Fluid Flow The study of fluid flow encompasses both the flow of gases and liquids.
+
+Feynman says: "The subject of the flow of fluids, and particularly of water, fascinates everybody. We can all remember, as children, playing in the bathtub or in mud puddles with the strange stuff. As we get older, we watch streams, waterfalls, and whirlpools, and we are fascinated by this substance which seems almost alive relative to solids. The behavior of fluids is in many ways very unexpected and interesting—it is the subject of this chapter and the next.
+
+"The main property that distinguishes a fluid from a solid is that a fluid cannot maintain a shear stress for any length of time. If a shear is applied to a fluid, it will move under the shear. Thicker liquids like honey move less easily than fluids like air or water. The measure of the ease with which a fluid yields is its viscosity. In this chapter we will consider only situations in which the viscous effects can be ignored. The effects of viscosity will be taken up in the next chapter."
+
+While most liquids have some viscosity, gases do not. Hence, what we learn about non-viscous flow is a true description for gases, and an approximation for liquids that is adequate in some cases but not in others.
+
+We start with the simplest case: non-viscous, static fluids.
+
+Hydrostatics Shear forces in any fluid, viscous or not, result in fluid motion. Thus no net shear force can exist in a static fluid. At any point Q, the forces that the fluid’s atoms and molecules exert on one another must be the same in all directions. Those interactions create pressure, a force per unit area that is normal to any surface we might define. (Any force component parallel to a surface would be a shear force.)
+
+While pressure has a constant magnitude within each infinitesimal volume, it generally varies with position on a macroscopic scale. The simplest example is pressure within a fluid subject to gravity, such as the pressure beneath an ocean’s surface.
+
+Figure 44-1 shows a static, dark gray fluid whose pressure P varies with height z. On the two dotted lines, the pressure is P(0) at z=0 and P(h) at z=h. We assume a uniform gravitational force acting on all the fluid below its indicated surface.
+
+Figure 44-1 Pressure Vs. Height At equilibrium, when the fluid is static, the pressure difference P(0)–P(h) must exactly balance the downward force of gravity on the fluid between z=0 and z=h. Consider a vertical column of fluid of height h and cross-sectional area A. Let ρ be the fluid’s mass density, and g be the acceleration of gravity. The force of gravity on this fluid column is: F_g = – mg = – (ρAh) g The minus sign indicates that the force is downward.
+
+The upward force on this column due to the pressure difference is: F_p = + {P(0)–P(h)} A The sum of these two forces must be zero if the fluid is static. This means: F_g + F_p = 0 = – gρAh + {P(0)–P(h)}A P(0) – P(h) = gρh P(h) + gρh = P(0) = some constant For gravity, our result is that the expression on the left side of this equation is constant throughout the fluid. Let’s now generalize this result for any external force. Consider an external force acting on an infinitesimal cube of fluid shown in Figure 44-2 with dimensions Δx, Δy, and Δz.
+
+Figure 44-2 Pressure on Cube Sides If the external force acts only in the x-direction, the fluid’s pressure will vary only in that direction. (If the pressure varied with y, the fluid would not be static; it would move in the y-direction.) The pressure difference P_L – P_R exerts a net force F_p in the +x-direction (to the right) on the cube that is given by: F_p = (P_L – P_R) Δy Δz For infinitesimal Δx, the pressure difference is given by the derivative: P_R – P_L = Δx ∂P/dx Inserting this into the prior equation yields: F_p = – Δx Δy Δz ∂P/dx This pressure force must exactly balance the external force: the forces must have zero sum.
+
+Let’s now assume the external force is conservative. Recall that all fundamental forces are conservative. Such forces have zero curl and are related to the gradient of a potential energy U according to: F_ext = – ∇U Hence: 0 = – ∇U – Δx Δy Δz ∂P/dx If the external force is proportional to mass, we can write U=mφ, and the prior equation becomes: 0 = {m / Δx Δy Δz} ∇φ + ∂P/dx 0 = {ρ} ∇φ + ∂P/dx Evidently, the same logic must apply if the force is in the y- or z-direction. This means we can replace ∂p/dx with ∇p, yielding: 0 = ρ ∇φ + ∇P For a conservative external force that is proportional to mass, we have: ρ φ + P = constant This is the generalization of the gravitational equation we derived earlier.
+
+Fluid Equation of Motion We next move beyond static fluids to fluids in motion. In general, flowing fluid has a different velocity at different locations. It can also have different pressures, densities, and temperatures at different locations. And if the fluid has a net electric charge, or contains free charges, its charge and current densities, and its electric and magnetic fields, may also vary from place to place.
+
+Clearly, fluid flow can be quite complex. Feynman says: "There are interesting phenomena when currents and magnetism play a dominant part in determining the behavior of the fluid; the subject is called magnetohydrodynamics, and great attention is being paid to it at the present time. However, we are not going to consider these more complicated situations because there are already interesting phenomena at a lower level of complexity, and even the more elementary level will be complicated enough."
+
+Hence, we restrict ourselves to simpler situations, at least for now. Firstly, we shall assume that the fluid is everywhere electrically neutral and there are no electromagnetic effects. To derive the general solution for the flow of an uncharged fluid, we need its equation of state: an equation relating its pressure and density.
+
+We shall further simplify our current discussion by assuming the fluid has constant mass density — that it is incompressible — and that any temperature changes are uniquely determined by pressure changes alone.
+
+Density changes do occur in sound waves and shock waves propagating through fluids. However, for fluid velocities much less than the speed of sound, the fluid has time to equilibrate and density changes are negligible.
+
+A key principle of fluid flow is the local conservation of matter, expressed in the continuity equation as: ∇•(ρv) = – ∂ρ/∂t This equation says the amount of matter flowing outward through the boundary of any volume V equals the decrease in the amount of matter within V. We saw equivalent equations for the local conservation of both energy and electric charge. By assuming constant mass density, the continuity equation becomes: ∇•(v) = 0 Newton’s second equation of motion relates force F, mass, and acceleration a. For an infinitesimal volume dV with mass density ρ, this is: F = ρ dV a f = F / dV = ρ a In the last line, Feynman defines f to be the force per unit volume. He then separates f into three categories that originate from: fluid pressure; external conservative forces; and fluid shear forces. He writes this: f = ρ a = – ∇P – ρ∇φ + f_visc In this chapter, we assume zero viscosity, so the fluid shear forces f_visc are zero.
+
+What about acceleration a? One might naturally equate a with dv/dt. However, we must be a bit more careful here.
+
+We can describe a moving ball by saying: F=ma, and a=dv/dt. Here, a and v are the acceleration and velocity of the ball, an object whose coordinates are continually changing. But for a fluid, we want to describe the fluid’s velocity and acceleration vector fields in terms of fixed coordinates. This means we want to know the velocity and acceleration at each stationary point Q, not the velocity and acceleration of a particular fluid atom that is moving.
+
+Let’s go back to the definition of acceleration: a = limit as dt goes to zero of {[v* – v]/dt} This describes an object, a drop of fluid in this case, with: velocity v at (x,y,z,t)
+
+velocity v* at (x+dx, y+dy, z+dz, t+dt)
+
+The coordinates of v* are where the fluid drop is at time t+dt. For infinitesimal changes, we can evaluate v* – v as: dx = dt (dx/dt) = dt v_x v*(x+dx) = v*(x) + dx ∂v*/∂x v*(x+dx) = v*(x) + dt v_x ∂v*/∂x Similarly for y and z. We thus have: v*(x+dx, y+dy, z+dz, t+dt) –v(x,y,z,t)
+
+= dt {v_x(∂v/∂x) +v_y(∂v/∂y) +v_z(∂v/∂z) +∂v/∂t} = dt { (v•∇)v + ∂v/∂t } a = (v•∇)v + ∂v/∂t In this form, both a and v are specified at fixed coordinates (x,y,z,t).
+
+Inserting this acceleration into the force per unit volume equation yields: ρ a = – ∇P – ρ∇φ (v•∇)v + ∂v/∂t = – ∇P/ρ – ∇φ Recall an identity from vector algebra: (v•∇)v = (∇×v)×v + ∇(v•v)/2 With this, the prior equation becomes: (∇×v)×v + ∇(v•v)/2 + ∂v/∂t = – ∇P/ρ – ∇φ In hydrodynamics, Ω = ∇×v is called the fluid’s vorticity. If Ω is zero everywhere, the fluid is said to be irrotational. Recall that the circulation of a vector field v is defined by a path integral around a closed loop Γ as: circulation of v = ∫ v•ds
+
+Ω is the circulation of v around a unit area perpendicular to Ω. In V2p40-5, Feynman says if you place a tiny but not infinitesimal object in a fluid, it will spin with angular velocity Ω/2, where Ω is the fluid’s circulation averaged over the object’s surface. A rotating fluid exerts a torque on any object within it, except that no torque can be exerted on an object of zero size.
+
+We can remove pressure P from the prior velocity equation by taking the curl of both sides. Since the curl of any gradient or divergence is zero, this leaves: Ď×(Ω×v) + 0 + ∂Ω/∂t = 0 + 0
+
+Feynman says this equation with Ď•v=0 completely describes the flow of any zero-viscosity, incompressible fluid. He says just as we can calculate magnetic field B from current j with Ď×B=j/εc2, we can calculate v from Ω using Ď×v=Ω.
+
+Note that if Ω is zero everywhere at any time t, the prior equation shows that ∂Ω/∂t will also be zero everywhere. This means Ω can never become non-zero anywhere: the fluid flow will always be irrotational. The velocity equations then become identical to the equations of electrostatics and magnetostatics in empty space: Ď•v = 0 Ď×v = 0
+
+Bernoulli’s Theorem
+
+We next consider steady fluid flow, which means the fluid’s velocity at every point is constant: v(x,y,z) is not a function of time. The velocity may change from place to place, but fluid flows through each tiny volume dV in exactly the same way at all times.
+
+While v is completely static, the atoms of the fluid are not. Their positions and velocities may be continually changing. At each instant in time, an atom’s velocity is determined by the field v at its current position.
+
+Figure 44-3, adapted from an image by John Matthews of CSU Fullerton, shows an example of steady fluid flow around the end of a rectangular wall. Similar to the field lines of magnetostatics, the figure shows streamlines, lines that are everywhere tangent to the vector field v.
+
+Figure 44-3 Steady Flow Around Wall
+
+In V2p40-6, Feynman says: “For steady flow, [streamlines] are evidently the actual paths of fluid particles. (In unsteady flow the streamline pattern changes in time, and the streamline pattern at any instant does not represent the path of a fluid particle.)”
+
+We now take the dot product of v with the velocity equation derived above.
+
+v•{(Ď×v)×v +Ď(v•v)/2 +∂v/∂t +Ď•P/µ +Ďø} = 0
+
+The first term is zero since (anything)×v is always orthogonal to v. Also, for steady flow, ∂v/∂t is zero. This leaves: v•Ď { ψ } = 0 with ψ = v•v/2 + P/µ + ø
+
+The quantity v•Ď equals the magnitude of v multiplied by the derivative with respect to the direction of fluid flow. This is more evident if we imagine orienting our coordinate axis at a selected point Q so that v is entirely in the z-direction. Then v•Ď = v∂/∂z at Q. This is a valuable insight: to take the derivative along any direction u, use u•Ď. This works even if u is a vector field with different values at every position.
+
+For steady flow, fluid particles move only along streamlines parallel to v. This means the quantity ψ has zero derivative along each streamline. This gives us: ψ = v•v/2 + P/µ + ø = constant
+
+ψ is constant along each streamline, but it may have different values along different streamlines. This is Bernoulli’s theorem, named for Swiss mathematician and physicist Daniel Bernoulli (1700-1782).
+
+For irrotational steady flow, the velocity equation before taking the dot product with v is: Ď ψ = Ď { v•v/2 + P/µ + ø } = 0
+
+A quantity that has zero derivative in every direction, and is unchanged over time, must have a constant value everywhere and always. Hence, for irrotational steady flow, ψ is the same along every streamline.
+
+In V2p40-6, Feynman says: “The theorem of Bernoulli is in fact nothing more than a statement of the conservation of energy. A conservation theorem such as this gives us a lot of information about a flow without our actually having to solve the detailed equations. Bernoulli’s theorem is so important and so simple that we would like to show you how it can be derived in a way that is different from the formal calculations we have just used. Imagine a bundle of adjacent streamlines which form a stream tube as [Figure 44-4].”
+
+Figure 44-4 Tube of Streamlines
+
+Since the stream tube walls are streamlines, the lines along which fluid flows, fluid flows into and out off the tube’s ends, but none flows through the tube’s sides.
+
+Now consider how a certain small amount of fluid flows through a stream tube. At time t, that fluid fills a certain volume of the tube that is shown in light gray in Figure 44-5. We define its cross-sectional area, velocity, density, pressure, and energy at time t to be A, v, ρ, P, and U, respectively.
+
+Figure 44-5 Fluid In Tube at Time t & t*
+
+A short time later, at time t*, this fluid has moved through the tube, occupying the dark gray region in Figure 44-5. At t* the fluid’s cross-sectional area, velocity, density, pressure, and energy are A*, v*, ρ*, P*, and U*, respectively. U and U* are the sums of all forms of the fluid’s energy per unit mass other than kinetic energy, which is separately included in the v•v term. The U’s include potential energy and any internal energy such as heat and chemical energy.
+
+We define Δt = t* – t, and choose Δt small enough that the fluid’s characteristics change only modestly during Δt.
+
+The mass of fluid ΔM that flows from the light gray region into the dark gray region during Δt is: ΔM = A vΔt ρ
+
+This must also equal the mass of fluid that flows out of the dark gray region during Δt, which is: ΔM = A* v*Δt ρ*
+
+Hence: A v ρ = A* v* ρ*
+
+If fluid density is constant, fluid velocity is inversely proportional to the stream tube’s cross-sectional area: v ~ 1/A.
+
+Let’s now calculate the work done by the fluid’s pressure in pushing the fluid through the stream tube. The work ΔW done during Δt on fluid entering the light gray region is: ΔW = force × distance = P A × v Δt
+
+ΔW is positive because the fluid must be pushed against pressure P. The work ΔW* done during Δt on the fluid leaving the dark gray region is negative because the motion is parallel to pressure P*. The equation is: ΔW* = – P* A* v* Δt
+
+The net work done ΔW + ΔW* must equal the change in the fluid’s total energy. We write this: ΔW + ΔW* = ΔM{ (v*2/2 + U*) – (v2/2 + U) } (Δt/ΔM) {PAv – P*A*v*} = (v*2/2 + U*) – (v2/2 + U)
+
+Since ΔM = Avρ Δt = A*v*ρ* Δt, this reduces to: P/ρ – P*/ρ* = (v*2/2 + U*) – (v2/2 + U)
+
+P/ρ + v2/2 + U = P*/ρ* + v*2/2 + U*
+
+We have thus proven that the expression on the left side of the last equation is constant for any stream tube.
+
+Feynman introduced U and U* to illustrate how changes in internal energy would affect our result. But for simplicity, let’s assume heat, chemical, and all other forms of internal energy are constant. Then the only forms of energy that can change are kinetic and potential. In this case U becomes ø and U* becomes ø*, which brings us back to Bernoulli’s equation.
+
+Apparently, Feynman feels the stream-tube derivation of Bernoulli’s theorem is more physically intuitive than the “formal calculation” that he presented earlier. You be the judge. Either way, it always helps to see results from different prospectives.
+
+Fun With Bernoulli
+
+Let’s now apply Bernoulli’s theorem to some amusing real-world phenomena.
+
+Our first example is wine flowing out of a tiny tasting spigot at the bottom of an enormous fermentation tank, as shown in Figure 44-6. Unfortunately, I can only provide gray wine.
+
+Figure 44-6 Flow Through Spigot
+
+We assume the spigot flow is so modest that the height of the wine in the tank, and hence the pressure at the spigot, are constant. We define h to be the height of the wine’s upper surface above the spigot. Also, let P_air be the air pressure that acts on both the wine’s top surface and on the jet of wine shooting out of the spigot.
+
+Along any streamline flowing down from the wine’s surface and out through the spigot, Bernoulli’s theorem says: P/ρ + v2/2 + ø = a constant
+
+We assume the wine is initially stationary at its top surface, and that its density is the same everywhere. Equating this expression for the wine at the top (left side of equation) with the wine shooting out of the spigot (right side) yields: P_air + ρ(0)2/2 + ρgh = P_air + ρv_spig2 /2 + ρg×(0)
+
+v_spig = √(2gh)
+
+As Feynman points out in V2p40-8, this is the same velocity that a drop of wine would have if it fell a distance h, which is what we must expect due to conservation of energy. What is more interesting is that the amount of wine flowing out of the spigot is not equal to this velocity multiplied by the cross-sectional area of the spigot’s aperture.
+
+The reason for this apparent anomaly is that wine molecules exit the spigot heading in many different directions; their velocities are not all perfectly horizontal. In fact, the molecules, on average, are converging toward the center of the stream. Since some of their velocity is vertical, their average horizontal velocity is, at least initially, less than √(2gh).
+
+Feynman says collisions amongst the molecules in the jet reduce the vertical velocities, the jet narrows, and after some distance, essentially all its velocity is horizontal and equal to √(2gh). For a simple hole cut in the tank wall, Feynman says the jet eventually contracts to 62% of the hole’s cross-sectional area. The jet’s contracted cross-sectional area divided by its initial area is called the efflux coefficient, which varies with aperture geometry. He adds that for a reentrant spigot, as shown in Figure 44-7, the efflux coefficient equals exactly 1/2.
+
+Figure 44-7 Flow Through Reentrant Spigot
+
+To simplify this description, I have ignored gravity acting on the jet. Once the jet leaves the spigot, gravity bends the jet downward; its central trajectory is actually a parabola, rather than the straight horizontal motion I described above.
+
+Another important consequence of Bernoulli’s theorem is the Venturi effect, named 对于意大利物理学家乔瓦尼·巴蒂斯塔·文丘里（1746-1822）提出的文丘里效应，如图 44-8 所示。流体从左向右流过三根主要水平管道，其中中间管道被收缩。图 44-8 文丘里效应
+
+该装置还包括三根垂直毛细管，用于测量各主要水平管道中的流体压力。每个毛细管中的流体高度为 (P - P_air)/ρg，其中 P 是主管道压力，P_air 是空气压力。
+
+我们看到，收缩主管道中的压力远小于较大管道中的压力。让我们定义 v 和 v* 分别为左侧和中间主管道中的流体速度。伯努利定理指出：
+
+P/ρ + v²/2 = P*/ρ + v*²/2 P* = P + (ρ/2) (v² – v*²)
+
+如前所述，对于恒定流体密度，流体速度与流体流过的横截面积成反比。由于中间管道的面积小得多，v* 比 v 大得多，这使得 P* 小于 P。
+
+与本章的理想化假设一致，右侧主管道中的压力应等于左侧主管道中的压力。然而，在现实世界中，摩擦和粘度使得下游右管中的压力略低于上游左管中的压力。
+
+在 V2p40-9 中，费曼描述了如图 44-9 所示的装置：向上喷射水龙头的射流。图 44-9 向上喷射的流动
+
+理想情况下，射流的轨迹峰值应达到水箱中流体上表面的高度。费曼说，实际实验显示射流峰值较低，大概是由于本章忽略的摩擦和粘度效应。
+
+伯努利/文丘里效应的最后一个例子是任何人都可以在任何地方做的实验。手持两张纸，使它们的面彼此平行且相邻，并调整这一对纸，以便你能从它们之间看过去。现在，尝试通过向它们之间吹气将它们推开。由于纸张之间的空间被收缩，你的呼吸在纸张之间比外部流动得更快。这降低了纸张之间的气压，将它们拉到一起——与人们可能预期的相反。
+
+圆周流动正如本章前面发现的，不可压缩无旋流体满足与真空中静电学或静磁学相同的方程： ∇·v = 0 ∇×v = 0 因此，这种流体的矢量场 v 具有与等效问题中 E 和 B 相同的解。
+
+在 V2p40-9 中，费曼提醒我们注意《费曼简化版 2A》第 12 章中的分析，该章讨论了放置在均匀外场中的具有偶极矩的圆球产生的电场（见图 12-7）。那种情况并非完全是真空中的静电学：偶极子提供了电荷。然而，在球外的所有地方，空间是空的，电场满足上述方程。
+
+在那里，我们做了一个类比，将其与不可压缩无旋流体绕圆球的流动进行比较。在电学情况下，偶极矩被调整以精确抵消球内的外部场。这在流体情况下对应于球内没有流动。
+
+图 44-10 显示了绕球流动的两种解，流线指示了流动方向。上图是我们在第 12 章中得到的解。（回想一下那条奇怪的中间流线，在垂直于屏幕的维度上绕过球的上方和下方。）下图是一个新的备选解，具有以球为中心但排除在球内部的圆周流动。图 44-10 绕球流动：两种解
+
+显然，这些解非常不同。由于控制方程是线性的，这些解的任何线性组合也是一个解。通常，远离球的边界条件将决定任何特定情况下的实际解。
+
+下图显然具有非零旋度，这与费曼列出的方程相反。由于电学类比与“真空”方程并非完全一致，我们不应该对流体流动解也不是完全一致感到惊讶。v 的旋度在不包括球的每个回路上为零，但在包含球的回路上不为零。
+
+费曼说，每个包含球的回路必须具有相同的旋度。他是对的，但让我们看看为什么这是真的。
+
+让我们首先考虑一个紧紧包裹在球周边的回路。该回路具有非零旋度，我们将其定义为 C。现在考虑任何也包含球的更大回路。我们将其围成的面积分成两部分：球，和所有其他地方。我们知道绕球的积分等于 C。我们也知道所有其他地方的积分必须为零，因为流体在球外是无旋的。因此，每个包含球的回路的总积分等于 C。
+
+以球为中心、半径为 r 的任何圆形回路的旋度是： ∫ (∇×v)·da = ∫ v·ds = 2πr v(r) = C
+
+因此，绕中心物体旋转的无旋流体的速度处处是切向的，大小为： v(r) = C / 2πr
+
+这引出了我们接下来的现象，我确信你经常看到：水流入排水管，如图 44-11 所示。图 44-11 水流入排水管
+
+我们将看到，“流入排水管”可以是无旋的（对于不可压缩、无粘性的流体）。在 V2p40-10 中，费曼计算了水表面的垂直高度作为半径的函数。定义一个柱坐标系，+z 向上，β 是方位角，r 是到中心的径向距离。
+
+我们上面发现，绕中心物体旋转的无旋流体具有与 1/r 成正比的切向速度 v_β。下一步是找到径向速度 v_r 的表达式。你回想一下 v 的散度为零，但你可能不记得散度在柱坐标中是什么。幸运的是，我刚刚查了一下。
+
+∇·v = (1/r) ∂(r v_r)/∂r + (1/r) ∂v_β/∂β + ∂v_z/∂z
+
+由于切向速度在任何圆上的每一点都是相同的，∂v_β/∂β 项为零。费曼没有提到这一点，但他假设我们可以忽略 v_z，因为水在水平面上传播的距离远大于其在垂直方向下落的距离。这使我们得到： 0 = ∇·v = (1/r) ∂(r v_r)/∂r ∂(r v_r)/∂r = 0 r v_r = 一个常数 v_r = (一个常数) / r
+
+因此 v_β 和 v_r 都与 1/r 成正比。由于我们忽略了 v_z，这意味着 v_z 与 1/r 成正比？不，等等，费曼说水沿阿基米德螺线流动；在我们的坐标系中，这些是 r=a+bβ，其中 a 和 b 是常数。
+
+由于所有水面都暴露在相同的大气压 P 下，伯努利定理指出： gz + v²/2 = 常数 z + k/r² = z_∞
+
+这里我们使用了 v² 与 1/r² 成正比的事实，并将所有常数合并到 k 中。我们还将 z_∞ 定义为远离排水管（r 趋向无穷大）处水的高度，我们最终的结果是： z = z_∞ – k/r²
+
+涡线我们现在转向具有旋转的流体流动，具有涡量 Ω 的流体。具有涡量的不可压缩、无粘性流体的方程为： (1) ∇·v = 0 (2) Ω = ∇ × v (3) ∂Ω/∂t + ∇×(Ω×v) = 0
+
+在 V2p40-10 中，费曼根据德国物理学家赫尔曼·冯·亥姆霍兹（1821-1894）提供了这三个方程的物理解释。费曼说： “首先，想象一下我们在流体中画涡线而不是流线。所谓涡线，是指方向为 Ω 的场线，并且在任何区域中的密度与 Ω 的大小成正比。由 [2] 可知 Ω 的散度始终为零（记住……旋度的散度始终为零）。所以涡线就像 B 的线——它们永远不会开始或停止，并且倾向于形成闭合回路。现在亥姆霍兹用以下陈述描述了 [3]：涡线随流体一起移动。这意味着，如果你要在一些涡线上标记流体粒子——例如，用墨水给它们着色——那么随着流体移动并携带这些粒子移动，它们将始终标记涡线的新位置。无论液体的原子如何移动，涡线都随它们一起移动。”
+
+费曼说，亥姆霍兹的描述暗示了一种解决问题的方法。这是：(a) 在某个初始时间 t 已知 v(t) 到处，我们可以计算 Ω(t)；(b) 我们然后可以计算 Ω(t+Δt)，因为我们知道涡线以速度 v(t) 随流体移动；(c) 从 Ω(t+Δt) 出发，我们使用方程 (1) 和 (2) 来计算 v(t+Δt)；(d) 我们可以重复这个过程来计算所有未来时刻的 v 和 Ω。
+
+费曼说，方程 (3) 及其亥姆霍兹描述最好被理解为角动量守恒的结果。
+
+让我们想象一个圆柱形流体体积，其轴平行于流体的涡线，如图 44-12 上图所示。记住，图像中的箭头不是对应于流体速度场的流线，而是对应于旋转流体角动量方向的涡线。图 44-12 平行于 Ω 的流体圆柱
+
+在上图中，在某个初始时间 t，流体圆柱的质量为 M，长度为 L，前表面面积为 A，并且其平均涡度（横跨 A）为 Ω。在稍后的某个时间 t*，相同的流体分子集合可能位于一个新的位置。费曼说，在一般情况下，流体仍将具有圆柱形状，尽管其尺寸和方向可能已经改变。时间 t* 的流体圆柱在下图中表示，质量为 M*，长度为 L*，前表面面积为 A*，平均涡度为 Ω*。
+
+由于我们只考虑不可压缩流体，相同的流体分子集合在两幅图中必须占据相同的体积并具有相同的质量，因此： L A = L* A* M = M*
+
+圆柱在时间 t 的总涡度为： ∫ (∇×v)·da = A Ω 这是旋度 ∇×v 在圆柱横截面积 A 上的积分。
+
+流体的角动量等于其转动惯量 Î 乘以角速度 ω，即 L = Î ω。
+
+The angular velocity ω is proportional to the curl of v, which means ω is proportional to Ω. For a cylinder rotating about its symmetry axis, I = MR².
+
+The angular momentum of this collection of fluid must be conserved. This is because in a non-viscous fluid there are no shear forces; all forces are normal to each fluid surface, and therefore cannot exert a torque. Angular momentum conservation requires: (MR²) Ω = (M*R²) Ω* Recalling that M = M*: R² Ω = R*² Ω* where R and R* are the fluid’s radii at times t and t*. Since the cylinders’ areas are proportional to their radii squared, the last equation can be written: A Ω = A* Ω* We recognize AΩ as the total vorticity of the fluid at time t, and we see that this quantity has been conserved at the later time t*. Hence the vorticity moves with the fluid, as Helmholtz said.
+
+A beautiful example of vorticity is the smoke ring shown in Figure 44-13.
+
+Here, two streamlines, indicating the fluid flow, are shown as solid arrows, and one vortex line is shown as a dotted arrow. Fluid flows around the small diameter of the torus, while vorticity circles the large diameter of the torus.
+
+In V2p40-12, Feynman ends this lecture highlighting the limitations of our zero-viscosity analyses, saying: “We have already noted that [equation (3)] says that, if Ω is initially zero, it will always be zero. This result is a great failure of [neglecting viscosity], because it means that once Ω is zero it is always zero—it is impossible to produce any vorticity under any circumstance. Yet, … we all know that we can start some vorticity in a lake with a paddle."
+
+I find this statement rather strange: paddling clearly changes the problem in a way that makes equation (3) inappropriate rather than incorrect. Feynman continues: “Another [failure of neglecting viscosity] is the supposition we make regarding the flow at the boundary between it and the surface of a solid. When we discussed the flow past [a ball] for example—we permitted the fluid to slide along the surface of the solid. In our theory, the velocity at a solid surface could have any value depending on how it got started, and we did not consider any ‘friction’ between the fluid and the solid. It is an experimental fact, however, that the velocity of a real fluid always goes to zero at the surface of a solid object. … We will tell you about the more correct theories in the next chapter.” The review of both chapters on Fluid Flow is at the end of Chapter 45.
+
+## Chapter
+
+Viscous Fluid Flow In V2p40-3, Feynman says that, by neglecting viscosity in the prior chapter, we are: “…making an approximation which describes some ideal stuff rather than real water. John von Neumann was well aware of the tremendous difference between what happens when you don’t have the viscous terms and when you do, and he was also aware that, during most of the development of hydrodynamics until about 1900, almost the main interest was in solving beautiful mathematical problems with this approximation which had almost nothing to do with real fluids. He characterized the theorist who made such analyses as a man who studied ‘dry water.’ Such analyses leave out an essential property of the fluid.” In V2p41-1, Feynman says: “Now we would like to discuss the phenomena of [real] fluids, including the effects of viscosity. … We will describe qualitatively the actual behavior of the fluids under various different circumstances so that you will get some feel for the subject. Although you will see some complicated equations and hear about some complicated things, it is not our purpose that you should learn all these things. This is, in a sense, a ‘cultural’ chapter which will give you some idea of the way the world is. There is only one item which is worth learning, and that is the simple definition of viscosity which we will come to in a moment. The rest is only for your entertainment.” The last sentence is his biggest caveat of Feynman’s Lectures. Not only does this translate to “none of this will be on the exam”, but it also acknowledges that this material is inappropriate in a lower division college course, even at Caltech.
+
+This lecture does contain several very interesting and accessible topics that I will explain. I will abbreviate the less interesting complexities.
+
+In the last chapter, we derived this equation of fluid motion: (∇·v)∇ + ∂v/∂t = – ∇P/ρ – ∇ϕ + f visc /ρ There, we immediately dropped the last term that represents viscosity; here we will keep all terms.
+
+In V2p41-1, Feynman says: “We begin with an important experimental fact … in all circumstances where it has been experimentally checked, the velocity of a fluid is exactly zero at the surface of a solid. You have noticed, no doubt, that the blade of a fan will collect a thin layer of dust… Why isn’t the dust blown off by the air? In spite of the fact that the fan blade is moving at high speed through the air, the speed of the air relative to the fan blade goes to zero right at the surface.” In V2p41-2, Feynman says: “We originally characterized a liquid by the fact that if you put a shearing stress on it—no matter how small—it would give way. It flows. In static situations, there are no shear stresses. But before equilibrium is reached—as long as you still push on it—there can be shear forces. Viscosity describes these shear forces which exist in a moving fluid.” Consider the shear stress on a fluid between two plates, each of area A, as shown in Figure 45-1. The upper plate moves to the right at velocity v, while the lower plate is stationary.
+
+For velocities much less than the speed of sound, the shear force F is found to be proportional to v, according to: F / A = η v / d Here, η is the first coefficient of viscosity. More complex geometries can be analyzed by considering an infinitesimal block of fluid far from all boundaries. Figure 45-2 shows the block enclosed by dashed lines. Both its upper and lower sides have area ΔA, and both are oriented parallel to streamlines.
+
+What it is important here is the difference in shear stress that arises from the difference in velocity of the block’s upper and lower surfaces. These surfaces are separated by distance Δy = y*–y. The differential stress is Δf = f*–f, and the differential velocity is Δv = v*–v. These are related by: Δf / ΔA = η Δv / Δy As we did for elastic materials in Chapter 43, we find that fluid displacement is proportional to a stress tensor S, as given by: S_xy = η (∂v_y/∂x + ∂v_x/∂y)
+
+Figure 45-3 shows an experimental setup to analyze viscosity. Here a fluid fills the space between two concentric pipes. The inner pipe rotates at frequency ω_a and the outer pipe rotates at ω_b. The fluid lies between radii r=a and r=b. The pipes have length L in the z-direction, which is perpendicular to the screen.
+
+We wish to find the fluid motion as a function of radius r. Since this setup is cylindrically symmetric, no physical quantity can be a function of azimuthal angle. If the pipes’ length L is much greater than the radius b, physical quantities cannot change significantly in the z-direction. This means quantities, such as forces and velocities, must be circumferential and vary only with radius. Let the fluid’s angular frequency be ω(r), a function we will now determine.
+
+Each molecule of fluid moves according to equations of the form: x(t) = r cos(ωt)
+
+y(t) = r sin(ωt)
+
+v_x = ∂x/dt = – ω r sin(ωt) = – ω y v_y = ∂y/dt = + ω r cos(ωt) = + ω x The stress tensor S is: S_xy = η (∂v_y/∂x + ∂v_x/∂y)
+
+S_xy = η (x ∂ω/∂x – y ∂ω/∂y)
+
+Since stress forces must be circumferential and vary only with radius, it is sufficient to calculate S(r) anywhere along the circle of radius r. Feynman chooses to calculate S(r) along the x-axis (y=0).
+
+at y=0: r = x, and S_xy = η (r ∂ω/∂r – 0)
+
+Now consider a cylindrical shell of fluid with length L, radius r, and thickness dr. Let’s calculate the torque acting circumferentially on this shell. Recall that the stress tensor is symmetric (S_yx = S_xy), and that S_yx is the y-component of force acting on a unit area that is perpendicular to the x-direction.
+
+The lever arm of the S_yx force is x, which equals r for y=0. The torque per unit area is therefore r S_yx.
+
+By symmetry the same torque acts everywhere on the cylinder’s surface. The total torque acting on the cylindrical shell is r S_yx multiplied by the shell’s surface area. This is: τ = r S_yx (2πrL) = 2π η r³ L ∂ω/∂r Here is the key point. The torque τ(r) on the fluid in the cylindrical shell at radius r is exerted by fluid in adjacent shells (nothing else is in contact). By Newton’s law of action and reaction, the shell at radius r exerts opposing torques on the shells at radius r–dr and r+dr. At equilibrium, all shells rotate at constant angular velocities; hence the torques between shells must sum to zero. This means τ must be the same for all radii, which requires: 2π η r³ L ∂ω/∂r = a constant ∂ω/∂r = C / r³ ω(r) = – C / 2r² + D Here, C and D are constants determined by the boundary conditions: ω(a)=ω_a and ω(b)=ω_b. The results are: C = 2 a² b² (ω_b – ω_a) / (b² – a²)
+
+D = (b² ω_b – a² ω_a) / (b² – a²)
+
+τ = 2π η L C From torque measurements, we can determine η using this equation. Some actual values of specific viscosity η/ρ are: 1.787×10⁻⁶ m²/sec for water at 0ºC 1.002×10⁻⁶ m²/sec for water at 20ºC 0.282×10⁻⁶ m²/sec for water at 100ºC 17.89×10⁻⁶ m²/sec for air at 15ºC at sea level Viscous Flow In V2p41-4, Feynman says: “We now go to a general theory of viscous flow—at least in the most general form known to man. … [For] a compressible fluid there is another term in the stress [equation]… The general expression is:” S_jk = η (∂v_j/∂x_k + ∂v_k/∂x_j) + η* δ_jk ∇·v The last term describes the effects of internal forces due to compression and expansion, and contains η*, the second coefficient of viscosity.
+
+Feynman says the viscous force per unit volume, f visc, equals the

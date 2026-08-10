@@ -1,0 +1,3242 @@
+# introduction to quantum mechanics david j darrell annas archive libgenrs nf 2695391
+
+> 来源文件：pre_introduction_to_quantum_mechanics_david_j_darrell_annas_archive_libgenrs_nf_2695391.txt
+> 字符数（约）：261778
+> 语言：mix
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Introduction to Quantum Mechanics Third edition Changes and additions to the new edition of this classic textbook include: • A new chapter on Symmetries and Conservation Laws • New problems and examples • Improved explanations • More numerical problems to be worked on a computer • New applications to solid state physics • Consolidated treatment of time-dependent potentials
+
+David J. Griffiths received his BA (1964) and PhD (1970) from Harvard University. He taught at Hampshire College, Mount Holyoke College, and Trinity College before joining the faculty at Reed College in 1978. In 2001–2002 he was visiting Professor of Physics at the Five Colleges (UMass, Amherst, Mount Holyoke, Smith, and Hampshire), and in the spring of 2007 he taught Electrodynamics at Stanford. Although his PhD was in elementary particle theory, most of his research is in electrodynamics and quantum mechanics. He is the author of over fifty articles and four books: Introduction to Electrodynamics (4th edition, Cambridge University Press, 2013), Introduction to Elementary Particles (2nd edition, Wiley-VCH, 2008), Introduction to Quantum Mechanics (2nd edition, Cambridge, 2005), and Revolutions in Twentieth-Century Physics (Cambridge, 2013).
+
+Darrell F. Schroeter is a condensed matter theorist. He received his BA (1995) from Reed College and his PhD (2002) from Stanford University where he was a National Science Foundation Graduate Research Fellow. Before joining the Reed College faculty in 2007, Schroeter taught at both Swarthmore College and Occidental College. His record of successful theoretical research with undergraduate students was recognized in 2011 when he was named as a KITP-Anacapa scholar.
+
+INTRODUCTION TO Quantum Mechanics Third edition DAVID J. GRIFFITHS and DARRELL F. SCHROETER Reed College, Oregon
+
+Preface
+
+Unlike Newton’s mechanics, or Maxwell’s electrodynamics, or Einstein’s relativity, quantum theory was not created—or even definitively packaged—by one individual, and it retains to this day some of the scars of its exhilarating but traumatic youth. There is no general consensus as to what its fundamental principles are, how it should be taught, or what it really “means.” Every competent physicist can “do” quantum mechanics, but the stories we tell ourselves about what we are doing are as various as the tales of Scheherazade, and almost as implausible. Niels Bohr said, “If you are not confused by quantum physics then you haven’t really understood it”; Richard Feynman remarked, “I think I can safely say that nobody understands quantum mechanics.”
+
+The purpose of this book is to teach you how to do quantum mechanics. Apart from some essential background in Chapter 1, the deeper quasi-philosophical questions are saved for the end. We do not believe one can intelligently discuss what quantum mechanics means until one has a firm sense of what quantum mechanics does. But if you absolutely cannot wait, by all means read the Afterword immediately after finishing Chapter 1.
+
+Not only is quantum theory conceptually rich, it is also technically difficult, and exact solutions to all but the most artificial textbook examples are few and far between. It is therefore essential to develop special techniques for attacking more realistic problems. Accordingly, this book is divided into two parts;1 Part I covers the basic theory, and Part II assembles an arsenal of approximation schemes, with illustrative applications. Although it is important to keep the two parts logically separate, it is not necessary to study the material in the order presented here. Some instructors, for example, may wish to treat time-independent perturbation theory right after Chapter 2.
+
+This book is intended for a one-semester or one-year course at the junior or senior level. A one-semester course will have to concentrate mainly on Part I; a full-year course should have room for supplementary material beyond Part II. The reader must be familiar with the rudiments of linear algebra (as summarized in the Appendix), complex numbers, and calculus up through partial derivatives; some acquaintance with Fourier analysis and the Dirac delta function would help. Elementary classical mechanics is essential, of course, and a little electrodynamics would be useful in places. As always, the more physics and math you know the easier it will be, and the more you will get out of your study. But quantum mechanics is not something that flows smoothly and naturally from earlier theories. On the contrary, it represents an abrupt and revolutionary departure from classical ideas, calling forth a wholly new and radically counterintuitive way of thinking about the world. That, indeed, is what makes it such a fascinating subject.
+
+At first glance, this book may strike you as forbiddingly mathematical. We encounter Legendre, Hermite, and Laguerre polynomials, spherical harmonics, Bessel, Neumann, and Hankel functions, Airy functions, and even the Riemann zeta function—not to mention Fourier transforms, Hilbert spaces, hermitian operators, and Clebsch–Gordan coefficients. Is all this baggage really necessary? Perhaps not, but physics is like carpentry: Using the right tool makes the job easier, not more difficult, and teaching quantum mechanics without the appropriate mathematical equipment is like having a tooth extracted with a pair of pliers—it’s possible, but painful. (On the other hand, it can be tedious and diverting if the instructor feels obliged to give elaborate lessons on the proper use of each tool. Our instinct is to hand the students shovels and tell them to start digging. They may develop blisters at first, but we still think this is the most efficient and exciting way to learn.) At any rate, we can assure you that there is no deep mathematics in this book, and if you run into something unfamiliar, and you don’t find our explanation adequate, by all means ask someone about it, or look it up. There are many good books on mathematical methods—we particularly recommend Mary Boas, Mathematical Methods in the Physical Sciences, 3rd edn, Wiley, New York (2006), or George Arfken and Hans-Jurgen Weber, Mathematical Methods for Physicists, 7th edn, Academic Press, Orlando (2013). But whatever you do, don’t let the mathematics—which, for us, is only a tool—obscure the physics.
+
+Several readers have noted that there are fewer worked examples in this book than is customary, and that some important material is relegated to the problems. This is no accident. We don’t believe you can learn quantum mechanics without doing many exercises for yourself. Instructors should of course go over as many problems in class as time allows, but students should be warned that this is not a subject about which anyone has natural intuitions—you’re developing a whole new set of muscles here, and there is simply no substitute for calisthenics. Mark Semon suggested that we offer a “Michelin Guide” to the problems, with varying numbers of stars to indicate the level of difficulty and importance. This seemed like a good idea (though, like the quality of a restaurant, the significance of a problem is partly a matter of taste); we have adopted the following rating scheme:
+
+an essential problem that every reader should study; a somewhat more difficult or peripheral problem; an unusually challenging problem, that may take over an hour.
+
+(No stars at all means fast food: OK if you’re hungry, but not very nourishing.) Most of the one-star problems appear at the end of the relevant section; most of the three-star problems are at the end of the chapter. If a computer is required, we put a mouse in the margin. A solution manual is available (to instructors only) from the publisher.
+
+In preparing this third edition we have tried to retain as much as possible the spirit of the first and second. Although there are now two authors, we still use the singular (“I”) in addressing the reader—it feels more intimate, and after all only one of us can speak at a time (“we” in the text means you, the reader, and I, the author, working together). Schroeter brings the fresh perspective of a solid state theorist, and he is largely responsible for the new chapter on symmetries. We have added a number of problems, clarified many explanations, and revised the Afterword. But we were determined not to allow the book to grow fat, and for that reason we have eliminated the chapter on the adiabatic approximation (significant insights from that chapter have been incorporated into Chapter 11), and removed material from Chapter 5 on statistical mechanics (which properly belongs in a book on thermal physics). It goes without saying that instructors are welcome to cover such other topics as they see fit, but we want the textbook itself to represent the essential core of the subject.
+
+We have benefitted from the comments and advice of many colleagues, who read the original manuscript, pointed out weaknesses (or errors) in the first two editions, suggested improvements in the presentation, and supplied interesting problems. We especially thank P. K. Aravind (Worcester Polytech), Greg Benesh (Baylor), James Bernhard (Puget Sound), Burt Brody (Bard), Ash Carter (Drew), Edward Chang (Massachusetts), Peter Collings (Swarthmore), Richard Crandall (Reed), Jeff Dunham (Middlebury), Greg Elliott (Puget Sound), John Essick (Reed), Gregg Franklin (Carnegie Mellon), Joel Franklin (Reed), Henry Greenside (Duke), Paul Haines (Dartmouth), J. R. Huddle (Navy), Larry Hunter (Amherst), David Kaplan (Washington), Don Koks (Adelaide), Peter Leung (Portland State), Tony Liss (Illinois), Jeffry Mallow (Chicago Loyola), James McTavish (Liverpool), James Nearing (Miami), Dick Palas, Johnny Powell (Reed), Krishna Rajagopal (MIT), Brian Raue (Florida International), Robert Reynolds (Reed), Keith Riles (Michigan), Klaus Schmidt-Rohr (Brandeis), Kenny Scott (London), Dan Schroeder (Weber State), Mark Semon (Bates), Herschel Snodgrass (Lewis and Clark), John Taylor (Colorado), Stavros Theodorakis (Cyprus), A. S. Tremsin (Berkeley), Dan Velleman (Amherst), Nicholas Wheeler (Reed), Scott Willenbrock (Illinois), William Wootters (Williams), and Jens Zorn (Michigan).
+
+gan).
+
+This structure was inspired by David Park’s classic text Introduction to the Quantum Theory, 3rd edn, McGraw-Hill, New York (1992).
+
+## Part I
+
+Theory
+
+## THE WAVE FUNCTION
+
+## 1.1 THE SCHRÖDINGER EQUATION
+
+Imagine a particle of mass m, constrained to move along the x axis, subject to some specified force F(x,t) (Figure 1.1). The program of classical mechanics is to determine the position of the particle at any given time: x(t). Once we know that, we can figure out the velocity (v = dx/dt), the momentum (p = mv), the kinetic energy T = (1/2)mv², or any other dynamical variable of interest. And how do we go about determining x(t)? We apply Newton’s second law: F = ma. (For conservative systems—the only kind we shall consider, and, fortunately, the only kind that occur at the microscopic level—the force can be expressed as the derivative of a potential energy function,1 F = −∂V/∂x, and Newton’s law reads md²x/dt² = −∂V/∂x.) This, together with appropriate initial conditions (typically the position and velocity at t = 0), determines x(t).
+
+Quantum mechanics approaches this same problem quite differently. In this case what we’re looking for is the particle’s wave function, Ψ(x,t), and we get it by solving the Schrödinger equation:
+
+iℏ ∂Ψ/∂t = −(ℏ²/2m) ∂²Ψ/∂x² + VΨ. (1.1)
+
+Here i is the square root of −1, and ℏ is Planck’s constant—or rather, his original constant (h) divided by 2π:
+
+ℏ = h/2π = 1.054573 × 10⁻³⁴ J·s. (1.2)
+
+The Schrödinger equation plays a role logically analogous to Newton’s second law: Given suitable initial conditions (typically, Ψ(x,0)), the Schrödinger equation determines Ψ(x,t) for all future time, just as, in classical mechanics, Newton’s law determines x(t) for all future time.2
+
+1 Magnetic forces are an exception, but let’s not worry about them just yet. By the way, we shall assume throughout this book that the motion is nonrelativistic (v ≪ c).
+
+2 For a delightful first-hand account of the origins of the Schrödinger equation see the article by Felix Bloch in Physics Today, December 1976.
+
+## 1.2 THE STATISTICAL INTERPRETATION
+
+But what exactly is this “wave function,” and what does it do for you once you’ve got it? After all, a particle, by its nature, is localized at a point, whereas the wave function (as its name suggests) is spread out in space (it’s a function of x, for any given t). How can such an object represent the state of a particle? The answer is provided by Born’s statistical interpretation, which says that |Ψ(x,t)|² gives the probability of finding the particle at point x, at time t—or, more precisely,3
+
+∫ₐᵇ |Ψ(x,t)|² dx = probability of finding the particle between a and b, at time t. (1.3)
+
+Probability is the area under the graph of |Ψ|². For the wave function in Figure 1.2, you would be quite likely to find the particle in the vicinity of A, and unlikely to find it near B.
+
+在点A附近，|(cid:4)|2较大，而不太可能在点B附近找到它。
+
+统计解释为量子力学引入了一种不确定性，因为即使你了解理论关于该粒子的所有信息（即其波函数），你仍然无法确定地预测测量其位置的简单实验结果——量子力学所能提供的只是关于可能结果的统计信息。这种不确定性令物理学家和哲学家深感困扰，人们很自然地会想，这究竟是自然的事实，还是理论的缺陷。
+
+假设我测量了粒子的位置，发现它在C点。4 问题：在我测量之前，粒子在哪里？这个问题有三种可能的答案，它们代表了关于量子不确定性的主要思想流派： 1. 现实主义者立场：粒子就在C点。这看起来当然合理，也是爱因斯坦所倡导的回答。然而要注意的是，如果这是真的，那么量子力学就是一个不完备的理论，因为粒子实际上就在C点，而量子力学却无法告诉我们。对现实主义者来说，不确定性不是自然的事实，而是我们无知的反映。正如德斯帕尼亚所说：“粒子的位置从未不确定，只是对实验者而言是未知的。”5 显然，(cid:4)并不是全部——还需要一些额外的信息（称为隐变量）来提供对粒子的完备描述。
+
+2. 正统立场：粒子并不真的在任何地方。是测量行为迫使它“做出选择”（尽管它如何以及为何选择C点，我们不敢问）。约尔丹最尖锐地说：“测量不仅干扰了被测对象，而且产生了它……我们迫使[粒子]占据一个确定的位置。”6 这种观点（所谓的哥本哈根解释）与玻尔及其追随者相关。在物理学家中，它一直是最广泛接受的立场。然而，如果它是正确的，那么测量行为本身就有些非常奇特——近一个世纪的争论几乎未能阐明这一点。
+
+3. 不可知论立场：拒绝回答。这并非像听起来那么愚蠢——毕竟，当唯一知道你是否正确的方法恰恰是进行一次测量，而那时得到的结果已不再是“测量之前”，那么对测量前粒子状态做断言有什么意义呢？担心那些本质上无法检验的事情是形而上学的（在这个词的贬义上）。泡利说过：“对于某件你无法知道任何事情是否存在的问题，与其苦思冥想，不如想想古代关于一根针尖上能坐多少天使的问题。”7 几十年来，这是大多数物理学家的“退守”立场：他们会试图向你推销正统答案，但如果你很坚持，他们会退却到不可知的回应，并终止对话。
+
+直到最近，这三种立场（现实主义、正统和不可知论）都各有其支持者。但1964年，约翰·贝尔震惊了物理学界，他证明粒子在测量前是否具有精确（尽管未知）的位置，在可观测上是有区别的。贝尔的发现实际上排除了不可知论作为一种可行的选项，并使得1或2哪个是正确选择成为一个实验问题。我将在本书结尾回到这个故事，届时你将更能理解贝尔的论证；现在，只需说实验已经决定性地证实了正统解释：8 粒子在测量前根本不具有精确的位置，就像池塘上的涟漪一样；是测量过程坚持要一个特定的数值，从而在某种意义上创造了具体的结果，其限制仅由波函数所施加的统计权重决定。
+
+如果我在第一次测量后立即进行第二次测量，会怎样？我还会得到C，还是每次测量都会产生一个全新的数字？在这个问题上，大家一致同意：对同一个粒子的重复测量必须返回相同的值。事实上，如果不能通过立即重复测量来确认，那就很难证明粒子第一次真的被发现在C点。正统解释如何解释第二次测量必然得到C值的事实？一定是第一次测量彻底改变了波函数，使其现在在C点附近急剧达到峰值（图1.3）。我们说波函数在测量时坍缩到C点的一个尖峰（它很快又会按照薛定谔方程扩散，因此第二次测量必须快速进行）。于是，存在两种完全不同的物理过程：“普通”过程，其中波函数在薛定谔方程下从容地演化；以及“测量”过程，其中(cid:4)突然且不连续地坍缩。9 当然，如果你关掉一个缝，或者设法探测每个电子穿过哪个缝，干涉图案就会消失；出射粒子的波函数现在完全不同了（在第一种情况下是因为薛定谔方程的边界条件改变了，在第二种情况下是因为测量导致波函数坍缩）。但当两个缝都打开且电子在飞行过程中没有被干扰时，每个电子都与自身发生干涉；它并不是穿过这个缝或那个缝，而是同时穿过两个缝，就像水波撞上有两个开口的防波堤时与自身干涉一样。一旦你接受了粒子服从波动方程的观念，这就没有什么神秘的了。真正令人惊讶的是这个图案的逐点累积。在任何经典的波动理论中，图案都会平滑而连续地发展，只是随着时间的推移强度增加。量子过程更像修拉的点彩画：图画是由所有单独点的累积贡献构成的。12
+
+## 1.3 概率
+
+1.3.1 离散变量由于统计解释，概率在量子力学中扮演着核心角色，所以我现在要离题简要讨论一下概率理论。这主要是引入一些符号和术语的问题，我将结合一个简单的例子来说明。
+
+想象一个房间里有十四个人，他们的年龄如下： 一人14岁， aged 15, three people aged 16, two people aged 22, two people aged 24, five people aged 25.
+
+If we let N(j) represent the number of people of age j, then N(14) = 1, N(15) = 1, N(16) = 3, N(22) = 2, N(24) = 2, N(25) = 5, while N(17), for instance, is zero. The total number of people in the room is N = ∑_{j=0}^{∞} N(j). (1.4)
+
+(In the example, of course, N = 14.) Figure 1.5 is a histogram of the data. The following are some questions one might ask about this distribution.
+
+Question 1: If you selected one individual at random from this group, what is the probability that this person’s age would be 15?
+
+Answer: One chance in 14, since there are 14 possible choices, all equally likely, of whom only one has that particular age. If P(j) is the probability of getting age j, then P(14) = 1/14, P(15) = 1/14, P(16) = 3/14, and so on. In general, P(j) = N(j)/N. (1.5)
+
+Notice that the probability of getting either 14 or 15 is the sum of the individual probabilities (in this case, 1/7). In particular, the sum of all the probabilities is 1—the person you select must have some age: ∑_{j=0}^{∞} P(j) = 1. (1.6)
+
+Question 2: What is the most probable age?
+
+Answer: 25, obviously; five people share this age, whereas at most three have any other age. The most probable j is the j for which P(j) is a maximum.
+
+Question 3: What is the median age?
+
+Answer: 23, for 7 people are younger than 23, and 7 are older. (The median is that value of j such that the probability of getting a larger result is the same as the probability of getting a smaller result.)
+
+Question 4: What is the average (or mean) age?
+
+Answer: [1(14) + 1(15) + 3(16) + 2(22) + 2(24) + 5(25)] / 14 = 294/14 = 21.
+
+In general, the average value of j (which we shall write thus: ⟨j⟩) is ⟨j⟩ = (∑_{j=0}^{∞} j N(j)) / N = ∑_{j=0}^{∞} j P(j). (1.7)
+
+Notice that there need not be anyone with the average age or the median age—in this example nobody happens to be 21 or 23. In quantum mechanics the average is usually the quantity of interest; in that context it has come to be called the expectation value. It’s a misleading term, since it suggests that this is the outcome you would be most likely to get if you made a single measurement (that would be the most probable value, not the average value)—but I’m afraid we’re stuck with it.
+
+Question 5: What is the average of the squares of the ages?
+
+Answer: You could get 14² = 196, with probability 1/14, or 15² = 225, with probability 1/14, or 16² = 256, with probability 3/14, and so on. The average, then, is ⟨j²⟩ = ∑_{j=0}^{∞} j² P(j). (1.8)
+
+In general, the average value of some function of j is given by ⟨f(j)⟩ = ∑_{j=0}^{∞} f(j) P(j). (1.9)
+
+(Equations 1.6, 1.7, and 1.8 are, if you like, special cases of this formula.) Beware: The average of the squares, ⟨j²⟩, is not equal, in general, to the square of the average, ⟨j⟩². For instance, if the room contains just two babies, aged 1 and 3, then ⟨j²⟩ = 5, but ⟨j⟩² = 4.
+
+Now, there is a conspicuous difference between the two histograms in Figure 1.6, even though they have the same median, the same average, the same most probable value, and the same number of elements: The first is sharply peaked about the average value, whereas the second is broad and flat. (The first might represent the age profile for students in a big-city classroom, the second, perhaps, a rural one-room schoolhouse.) We need a numerical measure of the amount of “spread” in a distribution, with respect to the average. The most obvious way to do this would be to find out how far each individual is from the average, δj = j − ⟨j⟩, (1.10)
+
+and compute the average of δj. Trouble is, of course, that you get zero: ⟨δj⟩ = ∑ (j − ⟨j⟩) P(j) = ∑ j P(j) − ⟨j⟩ ∑ P(j) = ⟨j⟩ − ⟨j⟩ = 0.
+
+(Note that ⟨j⟩ is constant—it does not change as you go from one member of the sample to another—so it can be taken outside the summation.) To avoid this irritating problem you might decide to average the absolute value of δj. But absolute values are nasty to work with; instead, we get around the sign problem by squaring before averaging: σ² ≡ ⟨(δj)²⟩. (1.11)
+
+This quantity is known as the variance of the distribution; σ itself (the square root of the average of the square of the deviation from the average—gulp!) is called the standard deviation. The latter is the customary measure of the spread about ⟨j⟩.
+
+There is a useful little theorem on variances: σ² = ⟨(δj)²⟩ = ∑ (j − ⟨j⟩)² P(j)
+
+= ∑ [j² − 2j⟨j⟩ + ⟨j⟩²] P(j)
+
+= ∑ j² P(j) − 2⟨j⟩ ∑ j P(j) + ⟨j⟩² ∑ P(j)
+
+= ⟨j²⟩ − 2⟨j⟩⟨j⟩ + ⟨j⟩² = ⟨j²⟩ − ⟨j⟩².
+
+Taking the square root, the standard deviation itself can be written as σ = √[⟨j²⟩ − ⟨j⟩²]. (1.12)
+
+In practice, this is a much faster way to get σ than by direct application of Equation 1.11: simply calculate ⟨j²⟩ and ⟨j⟩², subtract, and take the square root. Incidentally, I warned you a moment ago that ⟨j²⟩ is not, in general, equal to ⟨j⟩². Since σ² is plainly non-negative (from its definition 1.11), Equation 1.12 implies that ⟨j²⟩ ≥ ⟨j⟩², (1.13)
+
+and the two are equal only when σ = 0, which is to say, for distributions with no spread at all (every member having the same value).
+
+1.3.2 Continuous Variables So far, I have assumed that we are dealing with a discrete variable—that is, one that can take on only certain isolated values (in the example, j had to be an integer, since I gave ages only in years). But it is simple enough to generalize to continuous distributions. If I select a random person off the street, the probability that her age is precisely 16 years, 4 hours, 27 minutes, and 3.333... seconds is zero. The only sensible thing to speak about is the probability that her age lies in some interval—say, between 16 and 17. If the interval is sufficiently short, this probability is proportional to the length of the interval. For example, the chance that her age is between 16 and 16 plus two days is presumably twice the probability that it is between 16 and 16 plus one day. (Unless, I suppose, there was some extraordinary baby boom 16 years ago, on exactly that day—in which case we have simply chosen an interval too long for the rule to apply. If the baby boom lasted six hours, we’ll take intervals of a second or less, to be on the safe side. Technically, we’re talking about infinitesimal intervals.) Thus probability that an individual (chosen at random) lies between x and (x + dx) = ρ(x) dx. (1.14)
+
+The proportionality factor, ρ(x), is often loosely called “the probability of getting x,” but this is sloppy language; a better term is probability density. The probability that x lies between a and b (a finite interval) is given by the integral of ρ(x): P_{ab} = ∫_a^b ρ(x) dx, (1.15)
+
+and the rules we deduced for discrete distributions translate in the obvious way: ∫_{-∞}^{+∞} ρ(x) dx = 1, (1.16)
+
+⟨x⟩ = ∫_{-∞}^{+∞} x ρ(x) dx, (1.17)
+
+⟨f(x)⟩ = ∫_{-∞}^{+∞} f(x) ρ(x) dx, (1.18)
+
+σ² ≡ ⟨(δx)²⟩ = ⟨x²⟩ − ⟨x⟩². (1.19)
+
+Example 1.2 Suppose someone drops a rock off a cliff of height h. As it falls, I snap a million photographs, at random intervals. On each picture I measure the distance the rock has fallen. Question: What is the average of all these distances? That is to say, what is the time average of the distance traveled?
+
+Solution: The rock starts out at rest, and picks up speed as it falls; it spends more time near the top, so the average distance will surely be less than h/2. Ignoring air resistance, the distance x at time t is x(t) = (1/2) g t².
+
+The velocity is dx/dt = g t, and the total flight time is T = √(2h/g). The probability that a particular photograph was taken between t and t + dt is dt/T, so the probability that it shows a distance in the corresponding range x to x + dx is (dt)/T = (dx)/(g t) = (1/√(2h)) (1/√x) dx.
+
+Thus the probability density (Equation 1.14) is ρ(x) = 1/√(2h x), (0 ≤ x ≤ h)
+
+(outside this range, of course, the probability density is zero).
+
+We can check this result, using Equation 1.16: ∫_0^h 1/√(2h x) dx = (1/√(2h)) [2x^{1/2}]_0^h = 1.
+
+The average distance (Equation 1.17) is ⟨x⟩ = ∫_0^h x [1/√(2h x)] dx = (1/√(2h)) [ (2/3) x^{3/2} ]_0^h = (2/3) h, which is somewhat less than h/2, as anticipated.
+
+Figure 1.7 shows the graph of ρ(x). Notice that a probability density can be infinite, though probability itself (the integral of ρ) must of course be finite (indeed, less than or equal to 1).
+
+∗ Problem 1.1 For the distribution of ages in the example in Section 1.3.1: (a) Compute ⟨j²⟩ and ⟨j⟩².
+
+(b) Determine δj for each j, and use Equation 1.11 to compute the standard deviation.
+
+(c) Use your results in (a) and (b) to check Equation 1.12.
+
+Problem 1.2 (a) Find the standard deviation of the distribution in Example 1.2.
+
+(b) What is the probability that a photograph, selected at random, would show a distance x more than one standard deviation away from the average?
+
+∗ Problem 1.3 Consider the gaussian distribution ρ(x) = A e^{−λ(x−a)²}, where A, a, and λ are positive real constants. (The necessary integrals are inside the back cover.)
+
+(a) Use Equation 1.16 to determine A.
+
+(b) Find ⟨x⟩, ⟨x²⟩, and σ.
+
+(c) Sketch the graph of ρ(x).
+
+## 1.4 NORMALIZATION
+
+We return now to the statistical interpretation of the wave function (Equation 1.3), which says...
+
+that |ψ(x,t)|² is the probability density for finding the particle at point x, at time t. It follows (Equation 1.16) that the integral of |ψ|² over all x must be 1 (the particle’s got to be somewhere): ∫_{-∞}^{+∞} |ψ(x,t)|² dx = 1. (1.20)
+
+Without this, the statistical interpretation would be nonsense.
+
+However, this requirement should disturb you: After all, the wave function is supposed to be determined by the Schrödinger equation—we can’t go imposing an extraneous condition on ψ without checking that the two are consistent. Well, a glance at Equation 1.1 reveals that if ψ(x,t) is a solution, so too is Aψ(x,t), where A is any (complex) constant. What we must do, then, is pick this undetermined multiplicative factor so as to ensure that Equation 1.20 is satisfied. This process is called normalizing the wave function. For some solutions to the Schrödinger equation the integral is infinite; in that case no multiplicative factor is going to make it 1. The same goes for the trivial solution ψ = 0. Such non-normalizable solutions cannot represent particles, and must be rejected. Physically realizable states correspond to the square-integrable solutions to Schrödinger’s equation.14 But wait a minute! Suppose I have normalized the wave function at time t = 0. How do I know that it will stay normalized, as time goes on, and ψ evolves? (You can’t keep renormalizing the wave function, for then A becomes a function of t, and you no longer have a solution to the Schrödinger equation.) Fortunately, the Schrödinger equation has the remarkable property that it automatically preserves the normalization of the wave function—without this crucial feature the Schrödinger equation would be incompatible with the statistical interpretation, and the whole theory would crumble.
+
+This is important, so we’d better pause for a careful proof. To begin with, d/dt ∫_{-∞}^{+∞} |ψ(x,t)|² dx = ∫_{-∞}^{+∞} ∂/∂t |ψ(x,t)|² dx. (1.21)
+
+14 Evidently ψ(x,t) must go to zero faster than 1/|x|, as |x| → ∞. Incidentally, normalization only fixes the modulus of A; the phase remains undetermined. However, as we shall see, the latter carries no physical significance anyway.
+
+(Notice that the integral is a function only of t, so I use a total derivative (d/dt) on the left, but the integrand is a function of x as well as t, so it’s a partial derivative (∂/∂t) on the right.) By the product rule, ∂/∂t |ψ|² = ∂/∂t (ψ*ψ) = ψ* ∂ψ/∂t + ψ ∂ψ*/∂t. (1.22)
+
+Now the Schrödinger equation says that ∂ψ/∂t = (iℏ/2m) ∂²ψ/∂x² − (i/ℏ) Vψ, (1.23)
+
+and hence also (taking the complex conjugate of Equation 1.23)
+
+∂ψ*/∂t = −(iℏ/2m) ∂²ψ*/∂x² + (i/ℏ) Vψ*, (1.24)
+
+so ∂/∂t |ψ|² = ψ* [ (iℏ/2m) ∂²ψ/∂x² − (i/ℏ) Vψ ] + ψ [ −(iℏ/2m) ∂²ψ*/∂x² + (i/ℏ) Vψ* ]
+
+= (iℏ/2m) ( ψ* ∂²ψ/∂x² − ψ ∂²ψ*/∂x² ) = (iℏ/2m) ∂/∂x ( ψ* ∂ψ/∂x − ψ ∂ψ*/∂x ). (1.25)
+
+The integral in Equation 1.21 can now be evaluated explicitly: d/dt ∫_{-∞}^{+∞} |ψ(x,t)|² dx = (iℏ/2m) [ ψ* ∂ψ/∂x − ψ ∂ψ*/∂x ]_{-∞}^{+∞}. (1.26)
+
+But ψ(x,t) must go to zero as x goes to (±) infinity—otherwise the wave function would not be normalizable.15 It follows that d/dt ∫_{-∞}^{+∞} |ψ(x,t)|² dx = 0, (1.27)
+
+and hence that the integral is constant (independent of time); if ψ is normalized at t = 0, it stays normalized for all future time. QED
+
+Problem 1.4: At time t = 0 a particle is represented by the wave function ψ(x,0) = ⎨ A(x/a), 0 ≤ x ≤ a, ⎪ A(b−x)/(b−a), a ≤ x ≤ b, ⎪ 0, otherwise, where A, a, and b are (positive) constants.
+
+(a) Normalize ψ (that is, find A, in terms of a and b).
+
+(b) Sketch ψ(x,0), as a function of x.
+
+(c) Where is the particle most likely to be found, at t = 0?
+
+(d) What is the probability of finding the particle to the left of a? Check your result in the limiting cases b = a and b = 2a.
+
+(e) What is the expectation value of x?
+
+15 A competent mathematician can supply you with pathological counterexamples, but they do not arise in physics; for us the wave function and all its derivatives go to zero at infinity.
+
+* Problem 1.5: Consider the wave function ψ(x,t) = A e^{−λ|x|} e^{−iωt}, where A, λ, and ω are positive real constants. (We’ll see in Chapter 2 for what potential (V) this wave function satisfies the Schrödinger equation.)
+
+(a) Normalize ψ.
+
+(b) Determine the expectation values of x and x².
+
+(c) Find the standard deviation of x. Sketch the graph of |ψ|², as a function of x, and mark the points (⟨x⟩ + σ) and (⟨x⟩ − σ), to illustrate the sense in which σ represents the “spread” in x. What is the probability that the particle would be found outside this range?
+
+## 1.5 MOMENTUM
+
+For a particle in state ψ, the expectation value of x is ⟨x⟩ = ∫_{-∞}^{+∞} x |ψ(x,t)|² dx. (1.28)
+
+What exactly does this mean? It emphatically does not mean that if you measure the position of one particle over and over again, x|ψ|² dx is the average of the results you’ll get. On the contrary: The first measurement (whose outcome is indeterminate) will collapse the wave function to a spike at the value actually obtained, and the subsequent measurements (if they’re performed quickly) will simply repeat that same result. Rather, ⟨x⟩ is the average of measurements performed on particles all in the state ψ, which means that either you must find some way of returning the particle to its original state after each measurement, or else you have to prepare a whole ensemble of particles, each in the same state ψ, and measure the positions of all of them: ⟨x⟩ is the average of these results. I like to picture a row of bottles on a shelf, each containing a particle in the state ψ (relative to the center of the bottle). A graduate student with a ruler is assigned to each bottle, and at a signal they all measure the positions of their respective particles. We then construct a histogram of the results, which should match |ψ|², and compute the average, which should agree with ⟨x⟩. (Of course, since we’re only using a finite sample, we can’t expect perfect agreement, but the more bottles we use, the closer we ought to come.) In short, the expectation value is the average of measurements on an ensemble of identically-prepared systems, not the average of repeated measurements on one and the same system.
+
+Now, as time goes on, ⟨x⟩ will change (because of the time dependence of ψ), and we might be interested in knowing how fast it moves. Referring to Equations 1.25 and 1.28, we see that16 d⟨x⟩/dt = ∫ x ∂/∂t |ψ|² dx = ∫ x (iℏ/2m) ( ∂/∂x ( ψ* ∂ψ/∂x − ψ ∂ψ*/∂x ) ) dx. (1.29)
+
+16 To keep things from getting too cluttered, I’ll suppress the limits of integration (±∞).
+
+This expression can be simplified using integration-by-parts:17 d⟨x⟩/dt = −(iℏ/2m) ∫ ( ψ* ∂ψ/∂x − ψ ∂ψ*/∂x ) dx. (1.30)
+
+(I used the fact that ∂x/∂x = 1, and threw away the boundary term, on the ground that ψ goes to zero at (±) infinity.) Performing another integration-by-parts, on the second term, we conclude: d⟨x⟩/dt = −(iℏ/m) ∫ ψ* ∂ψ/∂x dx. (1.31)
+
+What are we to make of this result? Note that we’re talking about the “velocity” of the expectation value of x, which is not the same thing as the velocity of the particle. Nothing we have seen so far would enable us to calculate the velocity of a particle. It’s not even clear what velocity means in quantum mechanics: If the particle doesn’t have a determinate position (prior to measurement), neither does it have a well-defined velocity. All we could reasonably ask for is the probability of getting a particular value. We’ll see in Chapter 3 how to construct the probability density for velocity, given ψ; for the moment it will suffice to postulate that the expectation value of the velocity is equal to the time derivative of the expectation value of position: ⟨v⟩ = d⟨x⟩/dt. (1.32)
+
+Equation 1.31 tells us, then, how to calculate ⟨v⟩ directly from ψ.
+
+Actually, it is customary to work with momentum (p = mv), rather than velocity: ⟨p⟩ = m d⟨x⟩/dt = −iℏ ∫ ψ* ∂ψ/∂x dx. (1.33)
+
+Let me write the expressions for ⟨x⟩ and ⟨p⟩ in a more suggestive way: ⟨x⟩ = ∫ ψ* [x] ψ dx, (1.34)
+
+⟨p⟩ = ∫ ψ* [−iℏ (∂/∂x)] ψ dx. (1.35)
+
+We say that the operator18 x “represents” position, and the operator −iℏ (∂/∂x) “represents” momentum; to calculate expectation values we “sandwich” the appropriate operator between ψ* and ψ, and integrate.
+
+17 The product rule says that d(fg)/dx = f dg/dx + g df/dx, from which it follows that ∫_a^b f dg/dx dx = [f g]_a^b − ∫_a^b g df/dx dx.
+
+Under the integral sign, then, you can peel a derivative off one factor in a product, and slap it onto the other one—it’ll cost you a minus sign, and you’ll pick up a boundary term.
+
+18 An “operator” is an instruction to do something to the function that follows; it takes in one function, and spits out some other function. The position operator tells you to multiply by x; the momentum operator tells you to differentiate with respect to x (and multiply the result by −iℏ).
+
+That’s cute, but what about other quantities? The fact is, all classical dynamical variables can be expressed in terms of position and momentum. Kinetic energy, for example, is T = (1/2) mv² = p²/(2m), and angular momentum is L = r × mv = r × p (the latter, of course, does not occur for motion in one dimension). To calculate the expectation value of any such quantity, Q(x,p), we simply replace every p by −iℏ (∂/∂x), insert the resulting operator between ψ* and ψ, and integrate: ⟨Q(x,p)⟩ = ∫ ψ* Q(x, −iℏ ∂/∂x) ψ dx. (1.36)
+
+For example, the expectation value of the kinetic energy is ⟨T⟩ = −(ℏ²/2m) ∫ ψ* ∂²ψ/∂x² dx. (1.37)
+
+Equation 1.36 is a recipe for computing the expectation value of any dynamical quantity, for a particle in state ψ; it subsumes Equations 1.34 and 1.35 as special cases. I have tried to make Equation 1.36 seem plausible, given Born’s statistical interpretation, but in truth this represents such a radically new way of doing business (as compared with classical mechanics) that it would be premature to simply postulate it here. I’ll show you in Chapter 3 how this prescription emerges naturally from the statistical interpretation of the wave function, in the context of an elementary but illuminating example.
+
+That it's a good idea to get some practice using it before we come back (in Chapter 3) and put it on a firmer theoretical foundation. In the meantime, if you prefer to think of it as an axiom, that's fine with me.
+
+Problem 1.6 Why can't you do integration-by-parts directly on the middle expression in Equation 1.29—pull the time derivative over onto x, note that ∂x/∂t = 0, and conclude that d⟨x⟩/dt = 0?
+
+* Problem 1.7 Calculate d⟨p⟩/dt. Answer: d⟨p⟩/dt = -⟨∂V/∂x⟩. (1.38)
+
+This is an instance of Ehrenfest’s theorem, which asserts that expectation values obey the classical laws.¹⁹
+
+Problem 1.8 Suppose you add a constant V to the potential energy (by "constant" I mean independent of x as well as t). In classical mechanics this doesn't change anything, but what about quantum mechanics? Show that the wave function picks up a time-dependent phase factor: exp(−iVt/ℏ). What effect does this have on the expectation value of a dynamical variable?
+
+¹⁹ Some authors limit the term to the pair of equations ⟨p⟩ = m d⟨x⟩/dt and ⟨−∂V/∂x⟩ = d⟨p⟩/dt.
+
+## 1.6 THE UNCERTAINTY PRINCIPLE
+
+Imagine that you're holding one end of a very long rope, and you generate a wave by shaking it up and down rhythmically (Figure 1.8). If someone asked you "Precisely where is that wave?" you'd probably think he was a little bit nutty: The wave isn't precisely anywhere—it's spread out over 50 feet or so. On the other hand, if he asked you what its wavelength is, you could give him a reasonable answer: it looks like about 6 feet. By contrast, if you gave the rope a sudden jerk (Figure 1.9), you'd get a relatively narrow bump traveling down the line. This time the first question (Where precisely is the wave?) is a sensible one, and the second (What is its wavelength?) seems nutty—it isn't even vaguely periodic, so how can you assign a wavelength to it? Of course, you can draw intermediate cases, in which the wave is fairly well localized and the wavelength is fairly well defined, but there is an inescapable trade-off here: the more precise a wave's position is, the less precise is its wavelength, and vice versa.²⁰ A theorem in Fourier analysis makes all this rigorous, but for the moment I am only concerned with the qualitative argument.
+
+This applies, of course, to any wave phenomenon, and hence in particular to the quantum mechanical wave function. But the wavelength of Ψ is related to the momentum of the particle by the de Broglie formula:²¹ p = h/λ = 2πℏ/λ. (1.39)
+
+Thus a spread in wavelength corresponds to a spread in momentum, and our general observation now says that the more precisely determined a particle's position is, the less precisely is its momentum. Quantitatively, σ_x σ_p ≥ ℏ/2, (1.40)
+
+where σ_x is the standard deviation in x, and σ_p is the standard deviation in p. This is Heisenberg’s famous uncertainty principle. (We’ll prove it in Chapter 3, but I wanted to mention it right away, so you can test it out on the examples in Chapter 2.)
+
+Please understand what the uncertainty principle means: Like position measurements, momentum measurements yield precise answers—the "spread" here refers to the fact that measurements made on identically prepared systems do not yield identical results. You can, if you want, construct a state such that position measurements will be very close together (by making Ψ a localized "spike"), but you will pay a price: Momentum measurements on this state will be widely scattered. Or you can prepare a state with a definite momentum (by making Ψ a long sinusoidal wave), but in that case position measurements will be widely scattered. And, of course, if you're in a really bad mood you can create a state for which neither position nor momentum is well defined: Equation 1.40 is an inequality, and there's no limit on how big σ_x and σ_p can be—just make Ψ some long wiggly line with lots of bumps and potholes and no periodic structure.
+
+* Problem 1.9 A particle of mass m has the wave function Ψ(x,t) = A exp(−a[m x²/ℏ + it]), where A and a are positive real constants.
+
+(a) Find A.
+
+(b) For what potential energy function, V(x), is this a solution to the Schrödinger equation?
+
+(c) Calculate the expectation values of x, x², p, and p².
+
+(d) Find σ_x and σ_p. Is their product consistent with the uncertainty principle?
+
+Problem 1.10 Consider the first 25 digits in the decimal expansion of π (3, 1, 4, 1, 5, 9, ...).
+
+(a) If you selected one number at random, from this set, what are the probabilities of getting each of the 10 digits?
+
+(b) What is the most probable digit? What is the median digit? What is the average value?
+
+(c) Find the standard deviation for this distribution.
+
+Problem 1.11 [This problem generalizes Example 1.2.] Imagine a particle of mass m and energy E in a potential well V(x), sliding frictionlessly back and forth between the classical turning points (a and b in Figure 1.10). Classically, the probability of finding the particle in the range dx (if, for example, you took a snapshot at a random time t) is equal to the fraction of the time T it takes to get from a to b that it spends in the interval dx: ρ(x)dx = dt/T = (dt/dx)dx/T = [1/v(x)T] dx, (1.41)
+
+where v(x) is the speed, and T = ∫_a^b dt = ∫_a^b (1/v(x)) dx. (1.42)
+
+Thus ρ(x) = 1/[v(x)T]. (1.43)
+
+This is perhaps the closest classical analog²² to |Ψ|².
+
+(a) Use conservation of energy to express v(x) in terms of E and V(x).
+
+(b) As an example, find ρ(x) for the simple harmonic oscillator, V(x) = kx²/2. Plot ρ(x), and check that it is correctly normalized.
+
+(c) For the classical harmonic oscillator in part (b), find ⟨x⟩, ⟨x²⟩, and σ_x.
+
+** Problem 1.12 What if we were interested in the distribution of momenta (p = mv), for the classical harmonic oscillator (Problem 1.11(b))?
+
+(a) Find the classical probability distribution ρ(p) (note that p ranges from −√(2mE) to +√(2mE)).
+
+(b) Calculate ⟨p⟩, ⟨p²⟩, and σ_p.
+
+(c) What’s the classical uncertainty product, σ_x σ_p, for this system? Notice that this product can be as small as you like, classically, simply by sending E → 0. But in quantum mechanics, as we shall see in Chapter 2, the energy of a simple harmonic oscillator cannot be less than ℏω/2, where ω = √(k/m) is the classical frequency. In that case what can you say about the product σ_x σ_p?
+
+Problem 1.13 Check your results in Problem 1.11(b) with the following “numerical experiment.” The position of the oscillator at time t is x(t) = A cos(ωt). (1.44)
+
+You might as well take ω = 1 (that sets the scale for time) and A = 1 (that sets the scale for length). Make a plot of x at 10,000 random times, and compare it with ρ(x). Hint: In Mathematica, first define x[t_] := Cos[t]
+
+then construct a table of positions: snapshots = Table[x[2 π RandomReal[]], {j, 10000}]
+
+and finally, make a histogram of the data: Histogram[snapshots, 100, "PDF", PlotRange -> {0, 2}]
+
+Meanwhile, make a plot of the density function, ρ(x), and, using Show, superimpose the two.
+
+Problem 1.14 Let P_ab(t) be the probability of finding the particle in the range (a < x < b), at time t.
+
+(a) Show that dP_ab/dt = J(a,t) − J(b,t), where J(x,t) ≡ (iℏ/2m)(Ψ* ∂Ψ/∂x − Ψ ∂Ψ*/∂x).
+
+What are the units of J(x,t)? Comment: J is called the probability current, because it tells you the rate at which probability is “flowing” past the point x. If P_ab(t) is increasing, then more probability is flowing into the region at one end than flows out at the other.
+
+(b) Find the probability current for the wave function in Problem 1.9. (This is not a very pithy example, I’m afraid; we’ll encounter more substantial ones in due course.)
+
+Problem 1.15 Show that d/dt ∫_{-∞}^{∞} Ψ₁* Ψ₂ dx = 0 for any two (normalizable) solutions to the Schrödinger equation (with the same V(x)), Ψ₁ and Ψ₂.
+
+Problem 1.16 A particle is represented (at time t = 0) by the wave function Ψ(x,0) = { A √(a² − x²), −a ≤ x ≤ +a, { 0, otherwise.
+
+(a) Determine the normalization constant A.
+
+(b) What is the expectation value of x?
+
+(c) What is the expectation value of p? (Note that you cannot get it from ⟨p⟩ = m d⟨x⟩/dt. Why not?)
+
+(d) Find the expectation value of x².
+
+(e) Find the expectation value of p².
+
+(f) Find the uncertainty in x (σ_x).
+
+(g) Find the uncertainty in p (σ_p).
+
+(h) Check that your results are consistent with the uncertainty principle.
+
+** Problem 1.17 Suppose you wanted to describe an unstable particle, that spontaneously disintegrates with a “lifetime” τ. In that case the total probability of finding the particle somewhere should not be constant, but should decrease at (say) an exponential rate: P(t) ≡ ∫_{-∞}^{∞} |Ψ(x,t)|² dx = e^{−t/τ}.
+
+A crude way of achieving this result is as follows. In Equation 1.24 we tacitly assumed that V (the potential energy) is real. That is certainly reasonable, but it leads to the “conservation of probability” enshrined in Equation 1.27. What if we assign to V an imaginary part: V = V_true − iΓ, where V_true is the true potential energy and Γ is a positive real constant?
+
+(a) Show that (in place of Equation 1.27) we now get dP/dt = −(2Γ/ℏ) P.
+
+(b) Solve for P(t), and find the lifetime of the particle in terms of Γ.
+
+Problem 1.18 Very roughly speaking, quantum mechanics is relevant when the de de Broglie wavelength of the particle in question (h/p) is greater than the characteristic size of the system (d). In thermal equilibrium at (Kelvin) temperature T, the average kinetic energy of a particle is
+
+p² / 2m = (3/2) k T
+
+(where k is Boltzmann's constant), so the typical de Broglie wavelength is
+
+λ = h / √(3mkT). (1.45)
+
+The purpose of this problem is to determine which systems will have to be treated quantum mechanically, and which can safely be described classically.
+
+(a) Solids. The lattice spacing in a typical solid is around d = 0.3 nm. Find the temperature below which the unbound electrons in a solid are quantum mechanical. Below what temperature are the nuclei in a solid quantum mechanical? (Use silicon as an example.) In a solid the inner electrons are attached to a particular nucleus, and for them the relevant size would be the radius of the atom. But the outer-most electrons are not attached, and for them the relevant distance is the lattice spacing. This problem pertains to the outer electrons.
+
+Moral: The free electrons in a solid are always quantum mechanical; the nuclei are generally not quantum mechanical. The same goes for liquids (for which the interatomic spacing is roughly the same), with the exception of helium below 4K.
+
+(b) Gases. For what temperatures are the atoms in an ideal gas at pressure P quantum mechanical? Hint: Use the ideal gas law (PV = NkT) to deduce the interatomic spacing.
+
+Answer: T < (1/k) [h²/3m]^(3/5) P^(2/5). Obviously (for the gas to show quantum behavior) we want m to be as small as possible, and P as large as possible. Put in the numbers for helium at atmospheric pressure. Is hydrogen in outer space (where the interatomic spacing is about 1 cm and the temperature is 3K) quantum mechanical? (Assume it’s monatomic hydrogen, not H₂.)
+
+TIME-INDEPENDENT SCHRÖDINGER EQUATION
+
+## 2.1 STATIONARY STATES
+
+In Chapter 1 we talked a lot about the wave function, and how you use it to calculate various quantities of interest. The time has come to stop procrastinating, and confront what is, logically, the prior question: How do you get Ψ(x,t) in the first place? We need to solve the Schrödinger equation,
+
+iℏ ∂Ψ/∂t = - (ℏ²/2m) ∂²Ψ/∂x² + VΨ, (2.1)
+
+for a specified potential V(x,t). In this chapter (and most of this book) I shall assume that V is independent of t. In that case the Schrödinger equation can be solved by the method of separation of variables (the physicist’s first line of attack on any partial differential equation): We look for solutions that are products,
+
+Ψ(x,t) = ψ(x)ϕ(t), (2.2)
+
+where ψ (lower-case) is a function of x alone, and ϕ is a function of t alone. On its face, this is an absurd restriction, and we cannot hope to obtain more than a tiny subset of all solutions in this way. But hang on, because the solutions we do get turn out to be of great interest. Moreover (as is typically the case with separation of variables) we will be able at the end to patch together the separable solutions in such a way as to construct the most general solution.
+
+For separable solutions we have
+
+∂Ψ/∂t = ψ dϕ/dt, ∂²Ψ/∂x² = (d²ψ/dx²) ϕ
+
+(ordinary derivatives, now), and the Schrödinger equation reads
+
+iℏ ψ dϕ/dt = - (ℏ²/2m) (d²ψ/dx²) ϕ + V ψ ϕ.
+
+Or, dividing through by ψϕ:
+
+iℏ (1/ϕ) dϕ/dt = - (ℏ²/2m) (1/ψ) d²ψ/dx² + V. (2.3)
+
+Now, the left side is a function of t alone, and the right side is a function of x alone. The only way this can possibly be true is if both sides are in fact constant—otherwise, by varying t, I could change the left side without touching the right side, and the two would no longer be equal. (That’s a subtle but crucial argument, so if it’s new to you, be sure to pause and think it through.) For reasons that will appear in a moment, we shall call the separation constant E. Then
+
+iℏ (1/ϕ) dϕ/dt = E,
+
+or
+
+dϕ/dt = - (iE/ℏ) ϕ, (2.4)
+
+and
+
+- (ℏ²/2m) (1/ψ) d²ψ/dx² + V = E,
+
+or
+
+- (ℏ²/2m) d²ψ/dx² + Vψ = Eψ. (2.5)
+
+Separation of variables has turned a partial differential equation into two ordinary differential equations (Equations 2.4 and 2.5). The first of these is easy to solve (just multiply through by dt and integrate); the general solution is C exp(-iEt/ℏ), but we might as well absorb the constant C into ψ (since the quantity of interest is the product ψϕ). Then ϕ(t) = e^{-iEt/ℏ}. (2.6)
+
+The second (Equation 2.5) is called the time-independent Schrödinger equation; we can go no further with it until the potential V(x) is specified.
+
+The rest of this chapter will be devoted to solving the time-independent Schrödinger equation, for a variety of simple potentials. But before I get to that you have every right to ask: What’s so great about separable solutions? After all, most solutions to the (time dependent) Schrödinger equation do not take the form ψ(x)ϕ(t). I offer three answers—two of them physical, and one mathematical:
+
+1. They are stationary states. Although the wave function itself, Ψ(x,t) = ψ(x) e^{-iEt/ℏ}, (2.7)
+
+does (obviously) depend on t, the probability density, |Ψ(x,t)|² = Ψ* Ψ = ψ* e^{+iEt/ℏ} ψ e^{-iEt/ℏ} = |ψ(x)|², (2.8)
+
+does not—the time-dependence cancels out. The same thing happens in calculating the expectation value of any dynamical variable; Equation 1.36 reduces to <Q(x,p)> = ∫ ψ* Q(x, -iℏ d/dx) ψ dx. (2.9)
+
+Every expectation value is constant in time; we might as well drop the factor ϕ(t) altogether, and simply use ψ in place of Ψ. (Indeed, it is common to refer to ψ as “the wave function,” but this is sloppy language that can be dangerous, and it is important to remember that the true wave function always carries that time-dependent wiggle factor.) In particular, <x> is constant, and hence (Equation 1.33) <p> = 0. Nothing ever happens in a stationary state.
+
+2. They are states of definite total energy. In classical mechanics, the total energy (kinetic plus potential) is called the Hamiltonian:
+
+H(x,p) = p²/2m + V(x). (2.10)
+
+The corresponding Hamiltonian operator, obtained by the canonical substitution p → -iℏ (∂/∂x), is therefore Ĥ = - (ℏ²/2m) ∂²/∂x² + V(x). (2.11)
+
+Thus the time-independent Schrödinger equation (Equation 2.5) can be written Ĥψ = Eψ, (2.12)
+
+and the expectation value of the total energy is <H> = ∫ ψ* Ĥψ dx = E ∫ |ψ|² dx = E ∫ |Ψ|² dx = E. (2.13)
+
+(Notice that the normalization of Ψ entails the normalization of ψ.) Moreover, Ĥ²ψ = Ĥ (Ĥψ) = Ĥ (Eψ) = E (Ĥψ) = E²ψ,
+
+and hence <H²> = ∫ ψ* Ĥ²ψ dx = E² ∫ |ψ|² dx = E².
+
+So the variance of H is σ² = <H²> - <H>² = E² - E² = 0. (2.14)
+
+But remember, if σ = 0, then every member of the sample must share the same value (the distribution has zero spread). Conclusion: A separable solution has the property that every measurement of the total energy is certain to return the value E. (That’s why I chose that letter for the separation constant.)
+
+3. The general solution is a linear combination of separable solutions. As we’re about to discover, the time-independent Schrödinger equation (Equation 2.5) yields an infinite collection of solutions (ψ₁(x), ψ₂(x), ψ₃(x), ..., which we write as {ψₙ(x)}), each with its associated separation constant (E₁, E₂, E₃, ... = {Eₙ}); thus there is a different wave function for each allowed energy:
+
+Ψ₁(x,t) = ψ₁(x) e^{-iE₁t/ℏ}, Ψ₂(x,t) = ψ₂(x) e^{-iE₂t/ℏ}, ....
+
+Now (as you can easily check for yourself) the (time-dependent) Schrödinger equation (Equation 2.1) has the property that any linear combination of solutions is itself a solution. Once we have found the separable solutions, then, we can immediately construct a much more general solution, of the form Ψ(x,t) = Σ cₙ ψₙ(x) e^{-iEₙt/ℏ}. (2.15)
+
+It so happens that every solution to the (time-dependent) Schrödinger equation can be written in this form—it is simply a matter of finding the right constants (c₁, c₂, ...) so as to fit the initial conditions for the problem at hand. You’ll see in the following sections how all this works out in practice, and in Chapter 3 we’ll put it into more elegant language, but the main point is this: Once you’ve solved the time-independent Schrödinger equation, you’re essentially done; getting from there to the general solution of the time-dependent Schrödinger equation is, in principle, simple and straightforward.
+
+A lot has happened in the past four pages, so let me recapitulate, from a somewhat different perspective. Here’s the generic problem: You’re given a (time-independent) potential V(x), and the starting wave function Ψ(x,0); your job is to find the wave function, Ψ(x,t), for any subsequent time t. To do this you must solve the (time-dependent) Schrödinger equation (Equation 2.1). The strategy is first to solve the time-independent Schrödinger equation (Equation 2.5); this yields, in general, an infinite set of solutions, {ψₙ(x)}, each with its own associated energy, {Eₙ}. To fit Ψ(x,0) you write down the general linear combination of these solutions:
+
+Ψ(x,0) = Σ cₙ ψₙ(x); (2.16)
+
+the miracle is that you can always match the specified initial state by appropriate choice of the constants {cₙ}. To construct Ψ(x,t) you simply tack onto each term its characteristic time dependence (its “wiggle factor”), exp(-iEₙt/ℏ): Ψ(x,t) = Σ cₙ ψₙ(x) e^{-iEₙt/ℏ} = Σ cₙ Ψₙ(x,t). (2.17)
+
+The separable solutions themselves, Ψₙ(x,t) = ψₙ(x) e^{-iEₙt/ℏ}, (2.18)
+
+are stationary states, in the sense that all probabilities and expectation values are dependent of time, but this property is emphatically not shared by the general solution (Equation 2.17): the energies are different for different stationary states, and the exponentials do not cancel when you construct |ψ|².
+
+Example 2.1 Suppose a particle starts out in a linear combination of just two stationary states: ψ(x, 0) = c₁ψ₁(x) + c₂ψ₂(x).
+
+(To keep things simple I’ll assume that the constants cₙ and the states ψₙ(x) are real.) What is the wave function ψ(x, t) at subsequent times? Find the probability density, and describe its motion.
+
+Solution: The first part is easy: ψ(x, t) = c₁ψ₁(x) e^{-iE₁t/ℏ} + c₂ψ₂(x) e^{-iE₂t/ℏ}, where E₁ and E₂ are the energies associated with ψ₁ and ψ₂. It follows that |ψ(x, t)|² = [c₁ψ₁ e^{iE₁t/ℏ} + c₂ψ₂ e^{iE₂t/ℏ}] [c₁ψ₁ e^{-iE₁t/ℏ} + c₂ψ₂ e^{-iE₂t/ℏ}]
+
+= c₁²ψ₁² + c₂²ψ₂² + 2c₁c₂ψ₁ψ₂ cos[(E₂ - E₁)t/ℏ].
+
+The probability density oscillates sinusoidally, at an angular frequency ω = (E₂ - E₁)/ℏ; this is certainly not a stationary state. But notice that it took a linear combination of stationary states (with different energies) to produce motion.⁹
+
+⁷ In principle, any normalized function ψ(x, 0) is fair game—it need not even be continuous. How you might actually get a particle into that state is a different question, and one (curiously) we seldom have occasion to ask.
+
+⁸ If this is your first encounter with the method of separation of variables, you may be disappointed that the solution takes the form of an infinite series. Occasionally it is possible to sum the series, or to solve the time-dependent Schrödinger equation without recourse to separation of variables—see, for instance, Problems 2.49, 2.50, and 2.51. But such cases are extremely rare.
+
+⁹ This is nicely illustrated in an applet by Paul Falstad, at www.falstad.com/qm1d/.
+
+You may be wondering what the coefficients {cₙ} represent physically. I’ll tell you the answer, though the explanation will have to await Chapter 3: |cₙ|² is the probability that a measurement of the energy would return the value Eₙ. (2.19)
+
+A competent measurement will always yield one of the “allowed” values (hence the name), and |cₙ|² is the probability of getting the particular value Eₙ.¹⁰ Of course, the sum of these probabilities should be 1: ∑_{n=1}^{∞} |cₙ|² = 1, (2.20)
+
+and the expectation value of the energy must be ⟨H⟩ = ∑_{n=1}^{∞} |cₙ|² Eₙ. (2.21)
+
+We’ll soon see how this works out in some concrete examples. Notice, finally, that because the constants {cₙ} are independent of time, so too is the probability of getting a particular energy, and, a fortiori, the expectation value of H. These are manifestations of energy conservation in quantum mechanics.
+
+* Problem 2.1 Prove the following three theorems: (a) For normalizable solutions, the separation constant E must be real. Hint: Write E (in Equation 2.7) as E₀ + iγ (with E₀ and γ real), and show that if Equation 1.20 is to hold for all t, γ must be zero.
+
+(b) The time-independent wave function ψ(x) can always be taken to be real (unlike ψ(x, t), which is necessarily complex). This doesn’t mean that every solution to the time-independent Schrödinger equation is real; what it says is that if you’ve got one that is not, it can always be expressed as a linear combination of solutions (with the same energy) that are. So you might as well stick to ψs that are real. Hint: If ψ(x) satisfies Equation 2.5, for a given E, so too does its complex conjugate, and hence also the real linear combinations (ψ + ψ*) and i(ψ − ψ*).
+
+(c) If V(x) is an even function (that is, V(−x) = V(x)) then ψ(x) can always be taken to be either even or odd. Hint: If ψ(x) satisfies Equation 2.5, for a given E, so too does ψ(−x), and hence also the even and odd linear combinations ψ(x) ± ψ(−x).
+
+¹⁰ Some people will tell you that |cₙ|² is “the probability that the particle is in the nth stationary state,” but this is bad language: the particle is in the state ψ, not ψₙ, and anyhow, in the laboratory you don’t “find the particle to be in a particular state,” you measure some observable, and what you get is a number, not a wave function.
+
+* Problem 2.2 Show that E must exceed the minimum value of V(x), for every normalizable solution to the time-independent Schrödinger equation. What is the classical analog to this statement? Hint: Rewrite Equation 2.5 in the form d²ψ/dx² = (2m/ℏ²)[V(x) − E]ψ; if E < V_min, then ψ and its second derivative always have the same sign—argue that such a function cannot be normalized.
+
+## 2.2 THE INFINITE SQUARE WELL
+
+Suppose V(x) = { 0, for 0 ≤ x ≤ a, { ∞, otherwise (2.22)
+
+(Figure 2.1). A particle in this potential is completely free, except at the two ends (x = 0 and x = a), where an infinite force prevents it from escaping. A classical model would be a cart on a frictionless horizontal air track, with perfectly elastic bumpers—it just keeps bouncing back and forth forever. (This potential is artificial, of course, but I urge you to treat it with respect. Despite its simplicity—or rather, precisely because of its simplicity—it serves as a wonderfully accessible test case for all the fancy machinery that comes later. We’ll refer back to it frequently.)
+
+Outside the well, ψ(x) = 0 (the probability of finding the particle there is zero). Inside the well, where V = 0, the time-independent Schrödinger equation (Equation 2.5) reads − (ℏ²/2m) d²ψ/dx² = Eψ, (2.23)
+
+or d²ψ/dx² = −k²ψ, where k ≡ √(2mE)/ℏ. (2.24)
+
+(By writing it in this way, I have tacitly assumed that E ≥ 0; we know from Problem 2.2 that E < 0 won’t work.) Equation 2.24 is the classical simple harmonic oscillator equation; the general solution is ψ(x) = A sin(kx) + B cos(kx), (2.25)
+
+where A and B are arbitrary constants. Typically, these constants are fixed by the boundary conditions of the problem. What are the appropriate boundary conditions for ψ(x)? Ordinarily, both ψ and dψ/dx are continuous,¹¹ but where the potential goes to infinity only the first of these applies. (I’ll justify these boundary conditions, and account for the exception when V = ∞, in Section 2.5; for now I hope you will trust me.)
+
+Continuity of ψ(x) requires that ψ(0) = ψ(a) = 0, (2.26)
+
+so as to join onto the solution outside the well. What does this tell us about A and B? Well, ψ(0) = A sin(0) + B cos(0) = B, so B = 0, and hence ψ(x) = A sin(kx). (2.27)
+
+Then ψ(a) = A sin(ka), so either A = 0 (in which case we’re left with the trivial—non-normalizable—solution ψ(x) = 0), or else sin(ka) = 0, which means that ka = 0, ±π, ±2π, ±3π, .... (2.28)
+
+But k = 0 is no good (again, that would imply ψ(x) = 0), and the negative solutions give nothing new, since sin(−θ) = −sin(θ) and we can absorb the minus sign into A. So the distinct solutions are k_n = nπ/a, with n = 1, 2, 3, .... (2.29)
+
+Curiously, the boundary condition at x = a does not determine the constant A, but rather the constant k, and hence the possible values of E: E_n = (ℏ²k²)/(2m) = n²π²ℏ²/(2ma²). (2.30)
+
+In radical contrast to the classical case, a quantum particle in the infinite square well cannot have just any old energy—it has to be one of these special (“allowed”) values.¹² To find A, we normalize ψ:¹³ ∫_0^a |A|² sin²(kx) dx = |A|² a/2 = 1, so |A|² = 2/a.
+
+This only determines the magnitude of A, but it is simplest to pick the positive real root: A = √(2/a) (the phase of A carries no physical significance anyway). Inside the well, then, the solutions are ψ_n(x) = √(2/a) sin(nπx/a). (2.31)
+
+¹¹ That’s right: ψ(x) is a continuous function of x, even though ψ(x, t) need not be.
+
+¹² Notice that the quantization of energy emerges as a rather technical consequence of the boundary conditions on solutions to the time-independent Schrödinger equation.
+
+¹³ Actually, it’s ψ(x, t) that must be normalized, but in view of Equation 2.7 this entails the normalization of ψ(x).
+
+As promised, the time-independent Schrödinger equation has delivered an infinite set of solutions (one for each positive integer n). The first few of these are plotted in Figure 2.2. They look just like the standing waves on a string of length a; ψ₁, which carries the lowest energy, is called the ground state, the others, whose energies increase in proportion to n², are called excited states. As a collection, the functions ψ_n(x) have some interesting and important properties:
+
+1. They are alternately even and odd, with respect to the center of the well: ψ₁ is even, ψ₂ is odd, ψ₃ is even, and so on.¹⁴ 2. As you go up in energy, each successive state has one more node (zero-crossing): ψ₁ has none (the endpoints don’t count), ψ₂ has one, ψ₃ has two, and so on.
+
+## 3. They are mutually orthogonal, in the sense that¹⁵
+
+∫_0^a ψ_m(x)* ψ_n(x) dx = 0, (m ≠ n). (2.32)
+
+Proof: ∫_0^a ψ_m(x)* ψ_n(x) dx = (2/a) ∫_0^a sin(mπx/a) sin(nπx/a) dx = (1/a) ∫_0^a [cos((m-n)πx/a) - cos((m+n)πx/a)] dx = [ (1/(m-n)π) sin((m-n)πx/a) - (1/(m+n)π) sin((m+n)πx/a) ]_0^a = (1/π) [ sin((m-n)π)/(m-n) - sin((m+n)π)/(m+n) ] = 0.
+
+Note that this argument does not work if m = n. (Can you spot the point at which it fails?) In that case normalization tells us that the integral is 1. In fact, we can combine orthogonality and normalization into a single statement: ∫_0^a ψ_m(x)* ψ_n(x) dx = δ_mn, (2.33)
+
+where δ_mn (the so-called Kronecker delta) is defined by δ_mn = { 0, if m ≠ n, { 1, if m = n. (2.34)
+
+We say that the ψs are orthonormal.
+
+4. They are complete, in the sense that any other function, f(x), can be expressed as a linear combination of them: f(x) = ∑_{n=1}^{∞} c_n ψ_n(x) = ∑_{n=1}^{∞} c_n √(2/a) sin(nπx/a). (2.35)
+
+I’m not about to prove the completeness of the functions √(2/a) sin(nπx/a), but if you’ve studied advanced calculus you will recognize that Equation 2.35 is nothing but the Fourier series for f(x), and the fact that “any” function can be expanded in this way is sometimes called Dirichlet’s Theorem 16: The coefficients c can be evaluated—for a given f(x)—by a method I call Fourier’s trick, which beautifully exploits the orthonormality of {ψ}: Multiply both sides of Equation 2.35 by ψ(x)∗, and integrate.
+
+∫∞ ∑∞ ψ(x)∗ f(x) dx = ∑ cn ψ(x)∗ψn(x) dx = ∑ cn δmn = cm. (2.36)
+
+n=1 n=1
+
+(Notice how the Kronecker delta kills every term in the sum except the one for which n = m.) Thus the nth coefficient in the expansion of f(x) is17
+
+cn = ∫ ψn(x)∗ f(x) dx. (2.37)
+
+These four properties are extremely powerful, and they are not peculiar to the infinite square well. The first is true whenever the potential itself is a symmetric function; the second is universal, regardless of the shape of the potential.18 Orthogonality is also quite general—I’ll show you the proof in Chapter 3. Completeness holds for all the potentials you are likely to encounter, but the proofs tend to be nasty and laborious; I’m afraid most physicists simply assume completeness, and hope for the best.
+
+The stationary states (Equation 2.18) of the infinite square well are
+
+ψn(x,t) = √(2/a) sin(nπx/a) e^(−i(n^2π^2ℏ/2ma^2)t). (2.38)
+
+I claimed (Equation 2.17) that the most general solution to the (time-dependent) Schrödinger equation is a linear combination of stationary states:
+
+ψ(x,t) = ∑ cn ψn(x) e^(−i(n^2π^2ℏ/2ma^2)t). (2.39)
+
+n=1
+
+(If you doubt that this is a solution, by all means check it!) It remains only for me to demonstrate that I can fit any prescribed initial wave function, ψ(x,0) by appropriate choice of the coefficients cn:
+
+ψ(x,0) = ∑ cn ψn(x).
+
+n=1
+
+The completeness of the ψs (confirmed in this case by Dirichlet’s theorem) guarantees that I can always express ψ(x,0) in this way, and their orthonormality licenses the use of Fourier’s trick to determine the actual coefficients:
+
+cn = √(2/a) ∫0^a sin(nπx/a) ψ(x,0) dx. (2.40)
+
+That does it: Given the initial wave function, ψ(x,0), we first compute the expansion coefficients cn, using Equation 2.40, and then plug these into Equation 2.39 to obtain ψ(x,t). Armed with the wave function, we are in a position to compute any dynamical quantities of interest, using the procedures in Chapter 1. And this same ritual applies to any potential—the only things that change are the functional form of the ψs and the equation for the allowed energies.
+
+Example 2.2: A particle in the infinite square well has the initial wave function
+
+ψ(x,0) = Ax(a−x), (0 ≤ x ≤ a),
+
+for some constant A (see Figure 2.3). Outside the well, of course, ψ = 0. Find ψ(x,t).
+
+Solution: First we need to determine A, by normalizing ψ(x,0):
+
+1 = ∫0^a |ψ(x,0)|^2 dx = |A|^2 ∫0^a x^2(a−x)^2 dx = |A|^2 (a^5/30),
+
+so
+
+A = √(30/a^5).
+
+Then the nth coefficient is (Equation 2.40)
+
+cn = √(2/a) √(30/a^5) ∫0^a sin(nπx/a) x(a−x) dx
+
+= √(60/a^6) [ ∫0^a x sin(nπx/a) dx − ∫0^a x^2 sin(nπx/a) dx ]
+
+= √(60/a^6) [ (a/(nπ)) (a sin(nπ) − 0 cos(nπ) + a) − (a^2/(nπ)^2) (2x sin(nπx/a) − ((nπx/a)^2−2) cos(nπx/a)) |0^a ]
+
+= √(60/a^6) [ a^2/(nπ) (cos(nπ)−cos(nπ)+a^2/(nπ)^3 (cos(0)−cos(nπ)) ]
+
+= (4√15/(nπ)^3) [cos(0)−cos(nπ)]
+
+= { 0, n even; (8√15)/(nπ)^3, n odd. }
+
+Thus (Equation 2.39):
+
+ψ(x,t) = (√30/a) ∑ (1/(π n^3)) sin(nπx/a) e^(−in^2π^2ℏ t/2ma^2).
+
+n=1,3,5,...
+
+Example 2.3: Check that Equation 2.20 is satisfied, for the wave function in Example 2.2. If you measured the energy of a particle in this state, what is the most probable result? What is the expectation value of the energy?
+
+Solution: The starting wave function (Figure 2.3) closely resembles the ground state ψ1 (Figure 2.2). This suggests that |c1|^2 should dominate,19 and in fact
+
+|c1|^2 = (8√15)/π^3 = 0.998555....
+
+The rest of the coefficients make up the difference:20
+
+19 Loosely speaking, cn tells you the “amount of ψn that is contained in ψ.” 20 You can look up the series
+
+1/1^6 + 1/3^6 + 1/5^6 + ··· = π^6/960
+
+and
+
+1/1^4 + 1/3^4 + 1/5^4 + ··· = π^4/96
+
+in math tables, under “Sums of Reciprocal Powers” or “Riemann Zeta Function.”
+
+∑∞ |cn|^2 = (8√15)/π^3 ∑∞ 1/n^6 = 1.
+
+n=1 n=1,3,5,...
+
+The most likely outcome of an energy measurement is E1 = π^2ℏ^2/2ma^2—more than 99.8% of all measurements will yield this value. The expectation value of the energy (Equation 2.21) is
+
+⟨H⟩ = ∑∞ (8√15)/π^3 n^2π^2ℏ^2/(2ma^2 n^3) = ∑∞ 480ℏ^2/(π^4 ma^2 n^4) = 5ℏ^2/(ma^2).
+
+n=1,3,5,... n=1,3,5,...
+
+As one would expect, it is very close to E1 (5 in place of π^2/2 ≈ 4.935)—slightly larger, because of the admixture of excited states.
+
+Of course, it’s no accident that Equation 2.20 came out right in Example 2.3. Indeed, this follows from the normalization of ψ (the cs are independent of time, so I’m going to do the proof for t = 0; if this bothers you, you can easily generalize the argument to arbitrary t):
+
+1 = ∫ |ψ(x,0)|^2 dx = ∫ (∑ cm ψm(x)) (∑ cn ψn(x)) dx = ∑ ∑ cm∗ cn ∫ ψm(x)∗ψn(x) dx = ∑ ∑ cm∗ cn δmn = ∑ |cn|^2.
+
+(Again, the Kronecker delta picks out the term m = n in the summation over m.) Similarly, the expectation value of the energy (Equation 2.21) can be checked explicitly: The time-independent Schrödinger equation (Equation 2.12) says
+
+Ĥψn = En ψn, (2.41)
+
+so
+
+⟨H⟩ = ∫ ψ∗ Ĥ ψ dx = ∫ (∑ cm ψm) Ĥ (∑ cn ψn) dx = ∑ ∑ cm∗ cn En ∫ ψm∗ψn dx = ∑ |cn|^2 En.
+
+Problem 2.3: Show that there is no acceptable solution to the (time-independent) Schrödinger equation for the infinite square well with E = 0 or E < 0. (This is a special case of the general theorem in Problem 2.2, but this time do it by explicitly solving the Schrödinger equation, and showing that you cannot satisfy the boundary conditions.)
+
+*Problem 2.4: Calculate ⟨x⟩, ⟨x ime, there is no loss of generality in using t = 0.
+
+## 2.3 THE HARMONIC OSCILLATOR
+
+The paradigm for a classical harmonic oscillator is a mass m attached to a spring of force constant k. The motion is governed by Hooke’s law, F = -kx = m (d²x/dt²)
+
+(ignoring friction), and the solution is x(t) = A sin(ωt) + B cos(ωt), where ω ≡ √(k/m) (2.42)
+
+is the (angular) frequency of oscillation. The potential energy is V(x) = (1/2) kx²; (2.43)
+
+its graph is a parabola.
+
+Of course, there’s no such thing as a perfect harmonic oscillator—if you stretch it too far the spring is going to break, and typically Hooke’s law fails long before that point is reached. But practically any potential is approximately parabolic, in the neighborhood of a local minimum (Figure 2.4). Formally, if we expand V(x) in a Taylor series about the minimum: V(x) = V(x₀) + V’(x₀)(x - x₀) + (1/2) V’’(x₀)(x - x₀)² + ···, subtract V(x₀) (you can add a constant to V(x) with impunity, since that doesn’t change the force), recognize that V’(x₀) = 0 (since x₀ is a minimum), and drop the higher-order terms (which are negligible as long as (x - x₀) stays small), we get
+
+V(x) ≈ (1/2) V’’(x₀)(x - x₀)², which describes simple harmonic oscillation (about the point x₀), with an effective spring constant k = V’’(x₀). That’s why the simple harmonic oscillator is so important: Virtually any oscillatory motion is approximately simple harmonic, as long as the amplitude is small.²²
+
+The quantum problem is to solve the Schrödinger equation for the potential V(x) = (1/2) mω²x² (2.44)
+
+(it is customary to eliminate the spring constant in favor of the classical frequency, using Equation 2.42). As we have seen, it suffices to solve the time-independent Schrödinger equation: -[(ħ²)/(2m)] (d²ψ/dx²) + (1/2) mω²x²ψ = Eψ. (2.45)
+
+In the literature you will find two entirely different approaches to this problem. The first is a straightforward “brute force” solution to the differential equation, using the power series method; it has the virtue that the same strategy can be applied to many other potentials (in fact, we’ll use it in Chapter 4 to treat the hydrogen atom). The second is a diabolically clever algebraic technique, using so-called ladder operators. I’ll show you the algebraic method first, because it is quicker and simpler (and a lot more fun);²³ if you want to skip the power series method for now, that’s fine, but you should certainly plan to study it at some stage.
+
+2.3.1 Algebraic Method
+
+To begin with, let’s rewrite Equation 2.45 in a more suggestive form: [ p̂² + (mωx)² ] ψ = Eψ, (2.46)
+
+2m
+
+where p̂ ≡ -iħ d/dx is the momentum operator.²⁴ The basic idea is to factor the Hamiltonian, Ĥ = 1 [ p̂² + (mωx)² ]. (2.47)
+
+2m
+
+If these were numbers, it would be easy: u² + v² = (iu + v)(-iu + v).
+
+Here, however, it’s not quite so simple, because p̂ and x are operators, and operators do not, in general, commute (x p̂ is not the same as p̂ x, as we’ll see in a moment—though you might want to stop right now and think it through for yourself). Still, this does motivate us to examine the quantities â± ≡ (1/√(2mω)) (∓ip̂ + mωx) (2.48)
+
+(the factor in front is just there to make the final results look nicer).
+
+Well, what is the product â₋â₊?
+
+â₋â₊ = [ (ip̂ + mωx) / √(2mω) ] [ (-ip̂ + mωx) / √(2mω) ]
+
+= 1 [ p̂² + (mωx)² - i mω (x p̂ - p̂ x) ].
+
+2mω
+
+As anticipated, there’s an extra term, involving (x p̂ - p̂ x). We call this the commutator of x and p̂; it is a measure of how badly they fail to commute. In general, the commutator of operators Â and B̂ (written with square brackets) is [Â, B̂] ≡ Â B̂ - B̂ Â. (2.49)
+
+In this notation, â₋â₊ = 1 [ p̂² + (mωx)² - i mω [x, p̂] ]. (2.50)
+
+2mω 2mω
+
+We need to figure out the commutator of x and p̂. Warning: Operators are notoriously slippery to work with in the abstract, and you are bound to make mistakes unless you give them a “test function,” f(x), to act on. At the end you can throw away the test function, and you’ll be left with an equation involving the operators alone. In the present case we have: [x, p̂] f(x) = x (-iħ) (d/dx)(f) - (-iħ) (d/dx)(x f) = -iħ [ x (df/dx) - x (df/dx) - f ]
+
+= iħ f(x). (2.51)
+
+Dropping the test function, which has served its purpose, [x, p̂] = iħ. (2.52)
+
+This lovely and ubiquitous formula is known as the canonical commutation relation.²⁵
+
+With this, Equation 2.50 becomes â₋â₊ = 1 [ Ĥ + (1/2) ], (2.53)
+
+ħω 2 or Ĥ = ħω (â₋â₊ - 1/2). (2.54)
+
+Evidently the Hamiltonian does not factor perfectly—there’s that extra -1/2 on the right. Notice that the ordering of â₊ and â₋ is important here; the same argument, with â₊ on the left, yields â₊â₋ = 1 [ Ĥ - 1 ]. (2.55)
+
+ħω 2 In particular, [â₋, â₊] = 1. (2.56)
+
+Meanwhile, the Hamiltonian can equally well be written Ĥ = ħω (â₊â₋ + 1/2). (2.57)
+
+In terms of â±, then, the Schrödinger equation²⁶ for the harmonic oscillator takes the form ħω (â₊â₋ ± 1/2) ψ = Eψ (2.58)
+
+(in equations like this you read the upper signs all the way across, or else the lower signs).
+
+Now, here comes the crucial step: I claim that: If ψ satisfies the Schrödinger equation with energy E (that is: Ĥ ψ = E ψ), then â₊ ψ satisfies the Schrödinger equation with energy (E + ħω): Ĥ (â₊ ψ) = (E + ħω) (â₊ ψ).
+
+Proof: Ĥ (â₊ ψ) = ħω (â₊â₋ + 1/2) â₊ ψ = ħω (â₊â₋â₊ + (1/2) â₊) ψ = ħω â₊ (â₋â₊ + 1/2) ψ = â₊ ( ħω (â₊â₋ + 1/2) + ħω ) ψ = â₊ (Ĥ + ħω) ψ = â₊ (E + ħω) ψ = (E + ħω) (â₊ ψ). QED (I used Equation 2.56 to replace â₋â₊ by â₊â₋ + 1 in the second line. Notice that whereas the ordering of â₊ and â₋ does matter, the ordering of â± and any constants—such as ħ, ω, and E—does not; an operator commutes with any constant.)
+
+By the same token, â₋ ψ is a solution with energy (E - ħω): Ĥ (â₋ ψ) = ħω (â₋â₊ - 1/2) â₋ ψ = ħω â₋ (â₊â₋ - 1/2) ψ = â₋ ( ħω (â₋â₊ - 1/2) - ħω ) ψ = â₋ (Ĥ - ħω) ψ = â₋ (E - ħω) ψ = (E - ħω) (â₋ ψ).
+
+Here, then, is a wonderful machine for generating new solutions, with higher and lower energies—if we could just find one solution, to get started! We call â± ladder operators, because they allow us to climb up and down in energy; â₊ is the raising operator, and â₋ the lowering operator. The “ladder” of states is illustrated in Figure 2.5.
+
+But wait! What if I apply the lowering operator repeatedly? Eventually I’m going to reach a state with energy less than zero, which (according to the general theorem in Problem 2.3) does not exist! At some point the machine must fail. How can that happen? We know that â₋ ψ is a new solution to the Schrödinger equation, but there is no guarantee that it will be normalizable—it might be zero, or its square-integral might be infinite. In practice it is the former: There occurs a “lowest rung” (call it ψ₀) such that â₋ ψ₀ = 0. (2.59)
+
+We can use this to determine ψ₀(x): (1/√(2mω)) (ħ d/dx + mωx) ψ₀ = 0, or dψ₀/dx = -(mω/ħ) x ψ₀.
+
+This differential equation is easy to solve: dψ₀/ψ₀ = -(mω/ħ) x dx ⇒ ln ψ₀ = -(mω/(2ħ)) x² + constant, so ψ₀(x) = A e^(-mω x² / (2ħ)).
+
+We might as well normalize it right away: 1 = |A|² ∫_{-∞}^{∞} e^(-mω x² / ħ) dx = |A|² √(πħ / mω), so A² = √(mω / (πħ)), and hence ψ₀(x) = (mω / (πħ))^(1/4) e^(-mω x² / (2ħ)). (2.60)
+
+To determine the energy of this state we plug it into the Schrödinger equation (in the form of Equation 2.58), ħω (â₊â₋ + 1/2) ψ₀ = E₀ ψ₀, and exploit the fact that â₋ ψ₀ = 0: E₀ = (1/2) ħω. (2.61)
+
+With our foot now securely planted on the bottom rung (the ground state of the quantum oscillator), we simply apply the raising operator (repeatedly) to generate the excited states,²⁷ increasing the energy by ħω with each step: ψₙ(x) = Aₙ â₊ⁿ ψ₀(x), with Eₙ = (n + 1/2) ħω, (2.62)
+
+where Aₙ is the normalization constant. By applying the raising operator (repeatedly) to ψ₀, then, we can (in principle) construct all²⁸ the stationary states of the harmonic oscillator. Meanwhile, without ever doing that explicitly, we have determined the allowed energies!
+
+Example 2.4 Find the first excited state of the harmonic oscillator.
+
+Solution: Using Equation 2.62, ψ₁(x) = A₁ â₊ ψ₀ = √(2mω/ħ) (1/√(2mω)) (-iħ d/dx + mωx) (mω/(πħ))^(1/4) e^(-mω x² / (2ħ))
+
+= A₁ (mω/(πħ))^(1/4) √(2mω/ħ) x e^(-mω x² / (2ħ)). (2.63)
+
+²² Note that V’’(x₀) ≥ 0, since by assumption x₀ is a minimum. Only in the rare case V’’(x₀) = 0 is the oscillation not even approximately simple harmonic.
+
+²³ We’ll encounter some of the same strategies in the theory of angular momentum (Chapter 4), and the technique generalizes to a broad class of potentials in supersymmetric quantum mechanics (Problem 3.47; see also Richard W. Robinett, Quantum Mechanics (Oxford University Press, New York, 1997), Section 14.4).
+
+²⁴ Put a hat on x, too, if you like, but since x̂ = x we usually leave it off.
+
+²⁵ In a deep sense all of the mysteries of quantum mechanics can be traced to the fact that position and momentum do not commute. Indeed, some authors take the canonical commutation relation as an axiom of the theory, and use it to derive p̂ = -iħ d/dx.
+
+²⁶ I’m getting tired of writing “time-independent Schrödinger equation,” so when it’s clear from the context which one I mean, I’ll just call it the “Schrödinger equation.” ²⁷ In the case of the harmonic oscillator it is customary, for some reason, to depart from the usual practice, and number the states starting with n=0, instead of n=1. Of course, the lower limit on the sum in a formula such as Equation 2.17 should be altered accordingly.
+
+28 Note that we obtain all the (normalizable) solutions by this procedure. For if there were some other solution, we could generate from it a second ladder, by repeated application of the raising and lowering operators. But the bottom rung of this new ladder would have to satisfy Equation 2.59, and since that leads inexorably to Equation 2.60, the bottom rungs would be the same, and hence the two ladders would in fact be identical.
+
+We can normalize it "by hand": ∫_{-∞}^{∞} |ψ_1|^2 dx = |A_1|^2 √(m ω / π ℏ) ∫_{-∞}^{∞} x^2 e^{-m ω x^2 / ℏ} dx = |A_1|^2, so, as it happens, A = 1.
+
+I wouldn’t want to calculate ψ this way (applying the raising operator fifty times!), but never mind: In principle Equation 2.62 does the job—except for the normalization.
+
+You can even get the normalization algebraically, but it takes some fancy footwork, so watch closely. We know that â_± ψ_n is proportional to ψ_{n±1}, â_+ ψ_n = c_n ψ_{n+1},   â_- ψ_n = d_n ψ_{n-1}  (2.64)
+
+but what are the proportionality factors, c_n and d_n? First note that for "any"29 functions f(x) and g(x), ∫_{-∞}^{∞} f^* â_± g dx = ∫_{-∞}^{∞} (â_∓ f)^* g dx.  (2.65)
+
+In the language of linear algebra, â_∓ is the hermitian conjugate (or adjoint) of â_±.
+
+Proof: ∫_{-∞}^{∞} f^* â_± g dx = 1/√(2 m ω ℏ) ∫_{-∞}^{∞} f^* (∓ℏ d/dx + m ω x) g dx, and integration by parts takes ∫ f^* (dg/dx) dx to -∫ (df/dx)^* g dx (the boundary terms vanish, for the reason indicated in footnote 29), so ∫_{-∞}^{∞} f^* â_± g dx = 1/√(2 m ω ℏ) ∫_{-∞}^{∞} (±ℏ d/dx + m ω x) f^* g dx = ∫_{-∞}^{∞} (â_± f)^* g dx.  QED In particular, ∫_{-∞}^{∞} (â_± ψ_n)^* (â_± ψ_n) dx = ∫_{-∞}^{∞} (â_∓ â_± ψ_n)^* ψ_n dx.
+
+But (invoking Equations 2.58 and 2.62)
+
+â_+ â_- ψ_n = n ψ_n,   â_- â_+ ψ_n = (n+1) ψ_n,  (2.66)
+
+so ∫_{-∞}^{∞} |â_+ ψ_n|^2 dx = |c_n|^2 ∫_{-∞}^{∞} |ψ_{n+1}|^2 dx = (n+1) ∫_{-∞}^{∞} |ψ_n|^2 dx, ∫_{-∞}^{∞} |â_- ψ_n|^2 dx = |d_n|^2 ∫_{-∞}^{∞} |ψ_{n-1}|^2 dx = n ∫_{-∞}^{∞} |ψ_n|^2 dx.
+
+29 Of course, the integrals must exist, and this means that f(x) and g(x) must go to zero at ±∞.
+
+But since ψ_n and ψ_{n±1} are normalized, it follows that |c_n|^2 = n + 1 and |d_n|^2 = n, and hence30 â_+ ψ_n = √(n+1) ψ_{n+1},   â_- ψ_n = √n ψ_{n-1}.  (2.67)
+
+Thus ψ_1 = 1/√(â_+ ψ_0),   ψ_2 = 1/√(2) â_+ ψ_1 = 1/√(2) â_+ (1/√(â_+ ψ_0)) = 1/√(2·1) â_+^2 ψ_0, ψ_3 = 1/√(3) â_+ ψ_2 = 1/√(3·2·1) â_+^3 ψ_0, and so on. Clearly ψ_n = 1/√(n!) â_+^n ψ_0,  (2.68)
+
+which is to say that the normalization factor in Equation 2.62 is A = 1/√(n!) (in particular, A = 1, confirming our result in Example 2.4).
+
+As in the case of the infinite square well, the stationary states of the harmonic oscillator are orthogonal: ∫_{-∞}^{∞} ψ_m^* ψ_n dx = δ_{mn}.  (2.69)
+
+This can be proved using Equation 2.66, and Equation 2.65 twice—first moving â_+ and then moving â_-: ∫_{-∞}^{∞} ψ_m^* â_+ â_- ψ_n dx = n ∫_{-∞}^{∞} ψ_m^* ψ_n dx = ∫_{-∞}^{∞} (â_- ψ_m)^* (â_- ψ_n) dx = ∫_{-∞}^{∞} ψ_m^* â_- â_+ ψ_n dx = m ∫_{-∞}^{∞} ψ_m^* ψ_n dx.
+
+Unless m = n, then, ∫ ψ_m^* ψ_n dx must be zero. Orthonormality means that we can again use Fourier’s trick (Equation 2.37) to evaluate the coefficients c_n, when we expand Ψ(x,0) as a linear combination of stationary states (Equation 2.16). As always, |c_n|^2 is the probability that a measurement of the energy would yield the value E_n.
+
+30 Of course, we could multiply c_n and d_n by phase factors, amounting to a different definition of the ψ_n; but this choice keeps the wave functions real.
+
+Example 2.5 Find the expectation value of the potential energy in the nth stationary state of the harmonic oscillator.
+
+Solution: ⟨V⟩ = ⟨½ m ω^2 x^2⟩ = ½ m ω^2 ∫_{-∞}^{∞} ψ_n^* x^2 ψ_n dx.
+
+There’s a beautiful device for evaluating integrals of this kind (involving powers of x or p̂): Use the definition (Equation 2.48) to express x and p̂ in terms of the raising and lowering operators: x = √(ℏ/(2 m ω)) (â_+ + â_-);   p̂ = i √(m ω ℏ/2) (â_+ - â_-).  (2.70)
+
+In this example we are interested in x^2: x^2 = ℏ/(2 m ω) (â_+^2 + â_+ â_- + â_- â_+ + â_-^2).
+
+So ⟨V⟩ = ℏ ω/4 ∫_{-∞}^{∞} ψ_n^* (â_+^2 + â_+ â_- + â_- â_+ + â_-^2) ψ_n dx.
+
+But â_+^2 ψ_n is (apart from normalization) ψ_{n+2}, which is orthogonal to ψ_n, and the same goes for â_-^2 ψ_n, which is proportional to ψ_{n-2}. So those terms drop out, and we can use Equation 2.66 to evaluate the remaining two: ⟨V⟩ = ℏ ω/4 (n + n + 1) = ℏ ω (n + ½).
+
+As it happens, the expectation value of the potential energy is exactly half the total (the other half, of course, is kinetic). This is a peculiarity of the harmonic oscillator, as we’ll see later on (Problem 3.37).
+
+* Problem 2.10 (a) Construct ψ_2(x).
+
+(b) Sketch ψ_0, ψ_1, and ψ_2.
+
+(c) Check the orthogonality of ψ_0, ψ_1, and ψ_2, by explicit integration. Hint: If you exploit the even-ness and odd-ness of the functions, there is really only one integral left to do.
+
+* Problem 2.11 (a) Compute ⟨x⟩, ⟨p⟩, ⟨x^2⟩, and ⟨p^2⟩, for the states ψ_0 (Equation 2.60) and ψ_1 (Equation 2.63), by explicit integration. Comment: In this and other problems involving the harmonic oscillator it simplifies matters if you introduce the variable ξ ≡ √(m ω/ℏ) x and the constant α ≡ (m ω/π ℏ)^{1/4}.
+
+(b) Check the uncertainty principle for these states.
+
+(c) Compute ⟨T⟩ and ⟨V⟩ for these states. (No new integration allowed!) Is their sum what you would expect?
+
+* Problem 2.12 Find ⟨x⟩, ⟨p⟩, ⟨x^2⟩, ⟨p^2⟩, and ⟨T⟩, for the nth stationary state of the harmonic oscillator, using the method of Example 2.5. Check that the uncertainty principle is satisfied.
+
+Problem 2.13 A particle in the harmonic oscillator potential starts out in the state Ψ(x,0) = A[3 ψ_0(x) + 4 ψ_1(x)].
+
+(a) Find A.
+
+(b) Construct Ψ(x,t) and |Ψ(x,t)|^2. Don’t get too excited if |Ψ(x,t)|^2 oscillates at exactly the classical frequency; what would it have been had I specified ψ_0(x), instead of ψ_1(x)?31 (c) Find ⟨x⟩ and ⟨p⟩. Check that Ehrenfest’s theorem (Equation 1.38) holds, for this wave function.
+
+(d) If you measured the energy of this particle, what values might you get, and with what probabilities?
+
+2.3.2 Analytic Method We return now to the Schrödinger equation for the harmonic oscillator, -ℏ^2/(2m) d^2ψ/dx^2 + ½ m ω^2 x^2 ψ = E ψ,  (2.71)
+
+and solve it directly, by the power series method. Things look a little cleaner if we introduce the dimensionless variable ξ ≡ √(m ω/ℏ) x;  (2.72)
+
+in terms of ξ the Schrödinger equation reads d^2ψ/dξ^2 = (ξ^2 - K) ψ,  (2.73)
+
+where K is the energy, in units of (½) ℏ ω: K ≡ 2E/(ℏ ω).  (2.74)
+
+Our problem is to solve Equation 2.73, and in the process obtain the "allowed" values of K (and hence of E).
+
+To begin with, note that at very large ξ (which is to say, at very large x), ξ^2 completely dominates over the constant K, so in this regime d^2ψ/dξ^2 ≈ ξ^2 ψ,  (2.75)
+
+which has the approximate solution (check it!)
+
+ψ(ξ) ≈ A e^{-ξ^2/2} + B e^{+ξ^2/2}.  (2.76)
+
+The B term is clearly not normalizable (it blows up as |x| → ∞); the physically acceptable solutions, then, have the asymptotic form 31 However, ⟨x⟩ does oscillate at the classical frequency—see Problem 3.40.
+
+ψ(ξ) → ( ) e^{-ξ^2/2}, at large ξ.  (2.77)
+
+This suggests that we "peel off" the exponential part, ψ(ξ) = h(ξ) e^{-ξ^2/2},  (2.78)
+
+in hopes that what remains, h(ξ), has a simpler functional form than ψ(ξ) itself.32 Differentiating Equation 2.78, dψ/dξ = (dh/dξ - ξ h) e^{-ξ^2/2}, and d^2ψ/dξ^2 = [d^2h/dξ^2 - 2ξ dh/dξ + (ξ^2 - 1) h] e^{-ξ^2/2}, so the Schrödinger equation (Equation 2.73) becomes d^2h/dξ^2 - 2ξ dh/dξ + (K - 1) h = 0.  (2.79)
+
+I propose to look for solutions to Equation 2.79 in the form of a power series in ξ:33 h(ξ) = a_0 + a_1 ξ + a_2 ξ^2 + ··· = Σ_{j=0}^{∞} a_j ξ^j.  (2.80)
+
+Differentiating the series term by term, dh/dξ = a_1 + 2 a_2 ξ + 3 a_3 ξ^2 + ··· = Σ_{j=0}^{∞} j a_j ξ^{j-1}, and d^2h/dξ^2 = 2 a_2 + 2·3 a_3 ξ + 3·4 a_4 ξ^2 + ··· = Σ_{j=0}^{∞} (j+1)(j+2) a_{j+2} ξ^j.
+
+Putting these into Equation 2.80, we find Σ_{j=0}^{∞} [(j+1)(j+2) a_{j+2} - 2j a_j + (K - 1) a_j] ξ^j = 0.  (2.81)
+
+It follows (from the uniqueness of power series expansions34) that the coefficient of each power of ξ must vanish, (j+1)(j+2) a_{j+2} - 2j a_j + (K - 1) a_j = 0, and hence that a_{j+2} = (2j + 1 - K) / [(j+1)(j+2)] a_j.  (2.82)
+
+This recursion formula is entirely equivalent to the Schrödinger equation. Starting with a_0, it generates all the even-numbered coefficients: a_2 = (1 - K)/(1·2) a_0,   a_4 = (5 - K)/(3·4) a_2 = (5 - K)(1 - K)/(24) a_0, ..., and starting with a_1, it generates the odd coefficients: a_3 = (3 - K)/(2·3) a_1,   a_5 = (7 - K)/(4·5) a_3 = (7 - K)(3 - K)/(120) a_1, ....
+
+We write the complete solution as h(ξ) = h_{even}(ξ) + h_{odd}(ξ),  (2.83)
+
+where h_{even}(ξ) ≡ a_0 + a_2 ξ^2 + a_4 ξ^4 + ··· is an even function of ξ, built on a_0, and h_{odd}(ξ) ≡ a_1 ξ + a_3 ξ^3 + a_5 ξ^5 + ··· is an odd function, built on a_1. Thus Equation 2.82 determines h(ξ) in terms of two arbitrary constants (a_0 and a_1)—which is just what we would expect, for a second-order differential equation.
+
+However, not all the solutions so obtained are normalizable. For at very large j, 32 Note that although we invoked some approximations to motivate Equation 2.78, what follows is exact. The advice of stripping off the asymptotic behavior is the standard first step in the power series method for solving differential equations—see, for example, Boas (footnote 16), Chapter 12.
+
+33 According to Taylor’s theorem, any reasonably well-behaved function can be expressed as a power series, so Equation 2.80 ordinarily involves no loss of generality. For conditions on the applicability of the method, see Boas (footnote 16) or George B. Arfken and Hans-Jurgen Weber, Mathematical Methods for Physicists, 7th edn, Academic Press, Orlando (2013), Section 7.5.
+
+34 See, for example, Arfken and Weber (footnote 33), Section 1.2.
+
+the recursion formula becomes (approximately) a_{j+2} ≈ a_j, with the (approximate) solution a_j ≈ C / (j/2)!, for some constant C, and this yields (at large ξ, where the higher powers dominate)
+
+h(ξ) ≈ C ξ^j / (j/2)! ≈ C ξ^{2j} / j! ≈ C e^{ξ^2}.
+
+Now, if h goes like exp(ξ^2), then ψ (remember ψ?—that's what we're trying to calculate) goes like exp(ξ^2/2) (Equation 2.78), which is precisely the asymptotic behavior we didn't want.35
+
+There is only one way to wiggle out of this: For normalizable solutions the power series must terminate. There must occur some "highest" j (call it n), such that the recursion formula spits out a_{n+2} = 0 (this will truncate either the series h_{even} or the series h_{odd}; the other one must be zero from the start: a_1 = 0 if n is even, and a_0 = 0 if n is odd). For physically acceptable solutions, then, Equation 2.82 requires that
+
+K = 2n + 1,
+
+35 It's no surprise that the ill-behaved solutions are still contained in Equation 2.82; this recursion relation is equivalent to the Schrödinger equation, so it's got to include both the asymptotic forms we found in Equation 2.76.
+
+for some positive integer n, which is to say (referring to Equation 2.74) that the energy must be
+
+E = (n + 1/2)ℏω, for n = 0,1,2,.... (2.84)
+
+Thus we recover, by a completely different method, the fundamental quantization condition we found algebraically in Equation 2.62.
+
+It seems at first rather surprising that the quantization of energy should emerge from a technical detail in the power series solution to the Schrödinger equation, but let's look at it from a different perspective. Equation 2.71 has solutions, of course, for any value of E (in fact, it has two linearly independent solutions for every E). But almost all of these solutions blow up exponentially at large x, and hence are not normalizable. Imagine, for example, using an E that is slightly less than one of the allowed values (say, 0.49ℏω), and plotting the solution: Figure 2.6(a). Now try an E slightly larger (say, 0.51ℏω); the "tail" now blows up in the other direction (Figure 2.6(b)). As you tweak the parameter in tiny increments from 0.49 to 0.51, the graph "flips over" at precisely the value 0.5—only here does the solution escape the exponential asymptotic growth that renders it physically unacceptable.36
+
+Figure 2.6: Solutions to the Schrödinger equation for (a) E = 0.49ℏω, and (b) E = 0.51ℏω.
+
+36 It is possible to set this up on a computer, and discover the allowed energies "experimentally." You might call it the wag-the-dog method: When the tail wags, you know you've just passed over an allowed value. Computer scientists call it the shooting method (Nicholas Giordano, Computational Physics, Prentice Hall, Upper Saddle River, NJ (1997), Section 10.2). See Problems 2.55–2.57.
+
+For the allowed values of K, the recursion formula reads
+
+a_{j+2} = -2(n - j) / [(j + 1)(j + 2)] a_j. (2.85)
+
+If n = 0, there is only one term in the series (we must pick a_1 = 0 to kill h_{odd}, and j = 0 in Equation 2.85 yields a_2 = 0):
+
+h_0(ξ) = a_0,
+
+and hence
+
+ψ_0(ξ) = a_0 e^{-ξ^2/2}
+
+(which, apart from the normalization, reproduces Equation 2.60). For n = 1 we take a_0 = 0,37 and Equation 2.85 with j = 1 yields a_3 = 0, so
+
+h_1(ξ) = a_1 ξ,
+
+and hence
+
+ψ_1(ξ) = a_1 ξ e^{-ξ^2/2}
+
+(confirming Equation 2.63). For n = 2, j = 0 yields a_2 = -2a_0, and j = 2 gives a_4 = 0, so
+
+h_2(ξ) = a_0 (1 - 2ξ^2),
+
+and
+
+ψ_2(ξ) = a_0 (1 - 2ξ^2) e^{-ξ^2/2},
+
+and so on. (Compare Problem 2.10, where this last result was obtained by algebraic means).
+
+In general, h_n(ξ) will be a polynomial of degree n in ξ, involving even powers only, if n is an even integer, and odd powers only, if n is an odd integer. Apart from the overall factor (a_0 or a_1), they are the so-called Hermite polynomials, H_n(ξ).38 The first few of them are listed in Table 2.1. By tradition, the arbitrary multiplicative factor is chosen so that the coefficient of the highest power of ξ is 2^n. With this convention, the normalized39 stationary states for the harmonic oscillator are
+
+ψ_n(x) = [mω / (πℏ)]^{1/4} * [1 / sqrt(2^n n!)] * H_n(ξ) e^{-ξ^2/2}. (2.86)
+
+They are identical (of course) to the ones we obtained algebraically in Equation 2.68.
+
+37 Note that there is a completely different set of coefficients a_j for each value of n.
+
+38 The Hermite polynomials have been studied extensively in the mathematical literature, and there are many tools and tricks for working with them. A few of these are explored in Problem 2.16.
+
+39 I shall not work out the normalization constant here; if you are interested in knowing how it is done, see for example Leonard Schiff, Quantum Mechanics, 3rd edn, McGraw-Hill, New York (1968), Section 13.
+
+In Figure 2.7(a) I have plotted ψ_n(x) for the first few n's. The quantum oscillator is strikingly different from its classical counterpart—not only are the energies quantized, but the position distributions have some bizarre features. For instance, the probability of finding the particle outside the classically allowed range (that is, with x greater than the classical amplitude for the energy in question) is not zero (see Problem 2.14), and in all odd states the probability of finding the particle at the center is zero. Only at large n do we begin to see some resemblance to the classical case. In Figure 2.7(b) I have superimposed the classical position distribution (Problem 1.11) on the quantum one (for n = 60); if you smoothed out the bumps, the two would fit pretty well.
+
+Figure 2.7: (a) The first four stationary states of the harmonic oscillator. (b) Graph of |ψ_{60}|^2, with the classical distribution (dashed curve) superimposed.
+
+Problem 2.14 In the ground state of the harmonic oscillator, what is the probability (correct to three significant digits) of finding the particle outside the classically allowed region? Hint: Classically, the energy of an oscillator is E = (1/2)ka^2 = (1/2)mω^2 a^2, where a is the amplitude. So the "classically allowed region" for an oscillator of energy E extends from -sqrt(2E/mω^2) to +sqrt(2E/mω^2). Look in a math table under "Normal Distribution" or "Error Function" for the numerical value of the integral, or evaluate it by computer.
+
+Problem 2.15 Use the recursion formula (Equation 2.85) to work out H_5(ξ) and H_6(ξ). Invoke the convention that the coefficient of the highest power of ξ is 2^n to fix the overall constant.
+
+** Problem 2.16 In this problem we explore some of the more useful theorems (stated without proof) involving Hermite polynomials.
+
+(a) The Rodrigues formula says that
+
+H_n(ξ) = (-1)^n e^{ξ^2} * (d^n/dξ^n) e^{-ξ^2}. (2.87)
+
+Use it to derive H_3 and H_4.
+
+(b) The following recursion relation gives you H_{n+1} in terms of the two preceding Hermite polynomials:
+
+H_{n+1}(ξ) = 2ξ H_n(ξ) - 2n H_{n-1}(ξ). (2.88)
+
+Use it, together with your answer in (a), to obtain H_5 and H_6.
+
+(c) If you differentiate an nth-order polynomial, you get a polynomial of order (n-1). For the Hermite polynomials, in fact,
+
+dH_n/dξ = 2n H_{n-1}(ξ). (2.89)
+
+Check this, by differentiating H_5 and H_6.
+
+(d) H_n(ξ) is the nth z-derivative, at z = 0, of the generating function exp(-z^2 + 2zξ); or, to put it another way, it is the coefficient of z^n/n! in the Taylor series expansion for this function:
+
+e^{-z^2 + 2zξ} = Σ_{n=0}^∞ [H_n(ξ) / n!] z^n. (2.90)
+
+Use this to obtain H_1, H_2, and H_3.
+
+## 2.4 THE FREE PARTICLE
+
+We turn next to what should have been the simplest case of all: the free particle (V(x) = 0 everywhere). Classically this would just be motion at constant velocity, but in quantum mechanics the problem is surprisingly subtle. The time-independent Schrödinger equation reads
+
+- (ℏ^2 / 2m) d^2ψ/dx^2 = E ψ, (2.91)
+
+or
+
+d^2ψ/dx^2 = -k^2 ψ, where k ≡ sqrt(2mE) / ℏ. (2.92)
+
+So far, it's the same as inside the infinite square well (Equation 2.24), where the potential is also zero; this time, however, I prefer to write the general solution in exponential form (instead of sines and cosines), for reasons that will appear in due course:
+
+ψ(x) = A e^{ikx} + B e^{-ikx}. (2.93)
+
+Unlike the infinite square well, there are no boundary conditions to restrict the possible values of k (and hence of E); the free particle can carry any (positive) energy. Tacking on the standard time dependence, exp(-iEt/ℏ),
+
+Ψ(x,t) = A e^{i(kx - (ℏk^2/2m)t)} + B e^{-i(kx + (ℏk^2/2m)t)}. (2.94)
+
+Now, any function of x and t that depends on these variables in the special combination (x ± vt) (for some constant v) represents a wave of unchanging shape, traveling in the ∓x-direction at speed v: A fixed point on the waveform (for example, a maximum or a minimum) corresponds to a fixed value of the argument, and hence to x and t such that
+
+x ± vt = constant, or x = ∓vt + constant.
+
+Since every point on the waveform moves with the same velocity, its shape doesn't change as it propagates. Thus the first term in Equation 2.94 represents a wave traveling to the right, and the second represents a wave (of the same energy) going to the left. By the way, since they only differ by the sign in front of k, we might as well write
+
+Ψ(x,t) = A e^{i k (x - (ℏk/2m) t)}, (2.95)
+
+and let k run negative to cover the case of waves traveling to the left:
+
+k ≡ ± sqrt(2mE)/ℏ, with { k > 0 ⇒ traveling to the right, k < 0 ⇒ traveling to the left. (2.96)
+
+Evidently the "stationary states" of the free particle are propagating waves; their wavelength is λ = 2π/|k|, and, according to the de Broglie formula (Equation 1.39), they carry momentum p = ℏk. (2.97)
+
+The speed of these waves (the coefficient of t over the coefficient of x) is
+
+v_quantum = ℏ|k| / m = sqrt(2E/m) = sqrt(E/(2m)). (2.98)
+
+On the other hand, the classical speed of a free particle with energy E is given by E = (1/2)mv^2 (pure kinetic, since V = 0), so
+
+v_classical = sqrt(2E/m) = 2 v_quantum. (2.99)
+
+Apparently the quantum mechanical wave function travels at half the speed of the particle it is supposed to represent! We'll return to this paradox in a moment—there is an even more serious problem we need to confront first: This wave function is not normalizable:
+
+∫_{-∞}^{∞} |Ψ_k|^2 dx = |A|^2 ∫_{-∞}^{∞} dx = |A|^2 (∞). (2.100)
+
+In the case of the free particle, then, the separable solutions do not represent physically realizable states. A free particle cannot exist in a stationary state; or, to put it another way, there is no such thing as a free particle with a definite energy.
+
+But that doesn't mean the separable solutions are of no use to us. For they play a mathematical role that is entirely independent of their physical 解释：自由粒子含时薛定谔方程的通解仍然是分离变量解的线性组合（只是这次是对连续变量 k 的积分，而不是对离散指标 n 求和）：
+
+Ψ(x,t) = ∫ √(1/2π) φ(k) e^{i(kx - ħk²t/2m)} dk. (2.101)
+
+（因子 1/√(2π) 是为了方便而提出的；在方程 2.17 中扮演系数 c 角色的组合是 1/√(2π) φ(k) dk。）这个波函数可以被归一化（对于合适的 φ(k)）。但它必然携带一系列 k 值，因此也携带一系列能量和速度。我们称之为波包。⁴⁰
+
+在典型的量子问题中，我们已知 Ψ(x,0)，并被要求求出 Ψ(x,t)。对于自由粒子，解的形式如方程 2.101 所示；唯一的问题是如何确定 φ(k) 以匹配初始波函数：
+
+Ψ(x,0) = ∫ √(1/2π) φ(k) e^{ikx} dk. (2.102)
+
+这是傅里叶分析中的经典问题；答案由 Plancherel 定理给出（见问题 2.19）：
+
+f(x) = ∫ √(1/2π) F(k) e^{ikx} dk  ⇔  F(k) = ∫ √(1/2π) f(x) e^{-ikx} dx. (2.103)
+
+F(k) 称为 f(x) 的傅里叶变换；f(x) 是 F(k) 的逆傅里叶变换（唯一区别是指数中的符号）。⁴¹ 当然，对允许的函数有一些限制：积分必须存在。⁴² 对于我们的目的，这由 Ψ(x,0) 本身必须归一化的物理要求保证。因此，自由粒子的典型量子问题的解是方程 2.101，其中：
+
+φ(k) = ∫ √(1/2π) Ψ(x,0) e^{-ikx} dx. (2.104)
+
+例 2.6 一个自由粒子，初始时刻定位在范围 -a < x < a 内，在 t = 0 时释放： Ψ(x,0) = { A,  -a < x < a, { 0,  其他情况， 其中 A 和 a 是正实常数。求 Ψ(x,t)。
+
+解：首先我们需要归一化 Ψ(x,0)： 1 = ∫_{-∞}^{∞} |Ψ(x,0)|² dx = |A|² ∫_{-a}^{a} dx = 2a|A|² ⇒ A = 1/√(2a).
+
+接下来我们计算 φ(k)，使用方程 2.104： φ(k) = ∫ √(1/2π) [1/√(2a)] ∫_{-a}^{a} e^{-ikx} dx = 1/√(πa) ∫_{0}^{a} e^{-ikx} dx = 1/√(πa) [ e^{-ikx} / (-ik) ]_{-a}^{a} = 1/√(πa) [ (e^{-ika} - e^{ika}) / (-ik) ] = 1/√(πa) [ e^{ika} - e^{-ika} ] / (ik) = (2/√(πa)) [ sin(ka) / k ].
+
+最后，我们把它代回方程 2.101： Ψ(x,t) = ∫ √(1/π) [ sin(ka) / k ] e^{i(kx - ħk²t/2m)} dk. (2.105)
+
+不幸的是，这个积分无法用初等函数求解，尽管当然可以用数值方法计算（图 2.8）。事实上，Ψ(x,t) 的积分（方程 2.101）能够明确计算的例子少之又少；一个特别优美的例子见问题 2.21。）
+
+在图 2.9 中，我绘制了 Ψ(x,0) 和 φ(k)。注意，对于小的 a，Ψ(x,0) 在 x 方向上很窄，而 φ(k) 在 k 方向上很宽，反之对于大的 a。但 k 与动量有关，由方程 2.97 给出，所以这是不确定性原理的一种表现：位置可以被很好地定义（小的 a），或者动量（大的 a），但不能两者兼得。
+
+⁴⁰ 正弦波延伸至无穷远，它们是不可归一化的。但这些波的叠加导致了干涉，从而允许局域化和可归一化。
+
+⁴¹ 有些人定义傅里叶变换时不带因子 1/√(2π)。那么逆变换变为 f(x) = (1/2π) ∫ F(k) e^{ikx} dk，破坏了两个公式的对称性。
+
+⁴² f(x) 的必要且充分条件是 ∫_{-∞}^{∞} |f(x)|² dx 是有限的。（在这种情况下 ∫_{-∞}^{∞} |F(k)|² dk 也是有限的，实际上两个积分相等。有些人称之为 Plancherel 定理，而将方程 2.102 留作无名。）见 Arfken 和 Weber（脚注 33），第 20.4 节。
+
+我返回到前面注意到的悖论：分离变量解 Ψ(x,t) 以与其所代表的粒子“错误”的速度传播这一事实。严格来说，当我们发现 Ψ 不是一个物理上可实现的状态时，问题就消失了。不过，弄清楚粒子速度的信息是如何包含在波函数（方程 2.101）中仍然是有趣的。基本思想是：波包是正弦函数的叠加，其振幅由 φ 调制（图 2.10）；它由包含在“包络”内的“波纹”组成。与粒子速度对应的不是单个波纹的速度（所谓的相速度），而是包络的速度（群速度）——根据波的性质，它可以大于、小于或等于构成它的波纹的速度。对于弦上的波，群速度与相速度相同。对于水波，它是相速度的一半，正如你把石头扔进池塘时可能注意到的那样（如果你专注于一个特定的波纹，你会看到它从后面积聚，向前穿过整个群，并在前面逐渐消失，而整个群以一半的速度传播）。我需要证明的是，对于量子力学中自由粒子的波函数，群速度是相速度的两倍——正好与经典粒子速度匹配。
+
+那么，问题就是确定具有以下一般形式的波包的群速度：
+
+Ψ(x,t) = ∫ √(1/2π) φ(k) e^{i(kx - ωt)} dk. (2.106)
+
+在我们的情况下 ω = ħk²/2m，但我现在要说的适用于任何类型的波包，不管其色散关系（ω 作为 k 的函数的公式）如何。让我们假设 φ(k) 在某个特定值 k₀ 附近有尖锐的峰。（k 的宽分布并非非法，但这样的波包形状变化很快——不同的分量以不同的速度传播，因此“群”的整个概念，具有明确的速度，就失去了意义。）由于被积函数在 k₀ 附近以外可以忽略不计，我们不妨将 ω(k) 在该点进行泰勒展开，并只保留主要项：
+
+ω(k) ≈ ω₀ + ω₀'(k - k₀),
+
+其中 ω₀' 是 ω 在点 k₀ 处对 k 的导数。
+
+将变量从 k 改为 s ≡ k - k₀（以将积分中心放在 k₀），我们有：
+
+Ψ(x,t) ≈ ∫ √(1/2π) φ(k₀ + s) e^{i[(k₀ + s)x - (ω₀ + ω₀'s)t]} ds = √(1/2π) e^{i(k₀x - ω₀t)} ∫ φ(k₀ + s) e^{is(x - ω₀'t)} ds. (2.107)
+
+前面的项是正弦波（“波纹”），以速度 ω₀/k₀ 传播。它被积分（“包络”）调制，该积分是 x - ω₀'t 的函数，因此以速度 ω₀' 传播。因此相速度为：
+
+v_phase = ω/k, (2.108)
+
+而群速度为：
+
+v_group = dω/dk, (2.109)
+
+（两者都在 k = k₀ 处求值。）
+
+在我们的情况下，ω = ħk²/2m，所以 ω/k = ħk/2m，而 dω/dk = ħk/m，后者是前者的两倍。这证实了波包的群速度与经典粒子速度匹配：
+
+v_classical = v_group = 2v_phase. (2.110)
+
+* 问题 2.17 证明 Ae^{ikx} + Be^{-ikx} 和 [C cos kx + D sin kx] 是写同一个 x 的函数的等价方式，并用 A 和 B 确定常数 C 和 D，反之亦然。评论：在量子力学中，当 V = 0 时，指数表示行进波，在讨论自由粒子时最为方便，而正弦和余弦对应于驻波，后者在无限深方势阱的情况下自然出现。
+
+问题 2.18 找出自由粒子波函数方程 2.95 的概率流 J（问题 1.14）。概率流向哪个方向？
+
+** 问题 2.19 这个问题旨在引导你完成 Plancherel 定理的“证明”，从有限区间上普通傅里叶级数的理论开始，并允许该区间扩展到无穷大。
+
+(a) 狄利克雷定理说，区间 [−a, +a] 上的“任何”函数 f(x) 都可以展开为傅里叶级数： f(x) = Σ_{n=0}^{∞} [a_n sin(nπx/a) + b_n cos(nπx/a)]。
+
+证明这可以等价地写为： f(x) = Σ_{n=-∞}^{∞} c_n e^{inπx/a}。
+
+c_n 用 a_n 和 b_n 表示是什么？
+
+(b) 证明（通过对傅里叶技巧的适当修改）
+
+c_n = (1/2a) ∫_{-a}^{+a} f(x) e^{-inπx/a} dx。
+
+(c) 消去 n 和 c_n，用新变量 k = (nπ/a) 和 F(k) = √(2/πa) c_n 替换。证明 (a) 和 (b) 现在变为： f(x) = Σ_{n=-∞}^{∞} √(1/2π) F(k) e^{ikx} Δk； F(k) = √(1/2π) ∫_{-a}^{a} f(x) e^{-ikx} dx， 其中 Δk 是从一个 n 到下一个 n 的 k 的增量。
+
+(d) 取极限 a → ∞ 得到 Plancherel 定理。评论：鉴于它们完全不同的起源，两个公式——一个用 f(x) 表示 F(k)，另一个用 F(k) 表示 f(x)——在极限 a → ∞ 下具有如此相似的结构，这是令人惊讶（且愉快的）的。
+
+问题 2.20 一个自由粒子具有初始波函数 Ψ(x,0) = A e^{-a|x|}， 其中 A 和 a 是正实常数。
+
+(a) 归一化 Ψ(x,0)。
+
+(b) 求 φ(k)。
+
+(c) 以积分形式构造 Ψ(x,t)。
+
+(d) 讨论极限情况（a 非常大和 a 非常小）。
+
+* 问题 2.21 高斯波包。一个自由粒子具有初始波函数 Ψ(x,0) = A e^{-ax²}， 其中 A 和 a 是（实正）常数。
+
+(a) 归一化 Ψ(x,0)。
+
+(b) 求 Ψ(x,t)。提示：以下形式的积分 ∫_{-∞}^{∞} e^{-ax²+bx} dx 可以通过“配方法”处理：令 y ≡ √a (x + b/2a)，并注意 -ax²+bx = -y² + b²/4a。答案： Ψ(x,t) = √(a/π) (1/γ) e^{-ax²/γ²}, 其中 γ ≡ 1 + (2iħat/m). (2.111)
+
+(c) 求 |Ψ(x,t)|²。将你的答案用以下量表示： w ≡ a / √{1 + (2ħat/m)²}。
+
+绘制 |Ψ|²（作为 x 的函数）在 t=0 时的图，以及在某个非常大的 t 时的图。定性地说，随着时间推移，|Ψ|² 发生了什么变化？
+
+(d) 求 ⟨x⟩, ⟨p⟩, ⟨x²⟩, ⟨p²⟩, σ_x 和 σ_p。部分答案：⟨p²⟩ = aħ²，但可能需要一些代数运算才能化简为这个简单形式。
+
+(e) 不确定性原理成立吗？在什么时间 t 系统最接近不确定性极限？
+
+## 2.5 δ 函数势
+
+2.5.1 束缚态与散射态我们已经遇到了两种非常不同的解 into the time-independent Schrödinger equation: For the infinite square well and the harmonic oscillator they are normalizable, and labeled by a discrete index n; for the free particle they are non-normalizable, and labeled by a continuous variable k. The former represent physically realizable states in their own right, the latter do not; but in both cases the general solution to the time-dependent Schrödinger equation is a linear combination of stationary states—for the first type this combination takes the form of a sum (over n), whereas for the second it is an integral (over k). What is the physical significance of this distinction?
+
+In classical mechanics a one-dimensional time-independent potential can give rise to two rather different kinds of motion. If V(x) rises higher than the particle’s total energy (E) on either side (Figure 2.11(a)), then the particle is “stuck” in the potential well—it rocks back and forth between the turning points, but it cannot escape (unless, of course, you provide it with a source of extra energy, such as a motor, but we’re not talking about that). We call this a bound state. If, on the other hand, E exceeds V(x) on one side (or both), then the particle comes in from “infinity,” slows down or speeds up under the influence of the potential, and returns to infinity (Figure 2.11(b)). (It can’t get trapped in the potential unless there is some mechanism, such as friction, to dissipate energy, but again, we’re not talking about that.) We call this a scattering state. Some potentials admit only bound states (for instance, the harmonic oscillator); some allow only scattering states (a potential hill with no dips in it, for example); some permit both kinds, depending on the energy of the particle.
+
+The two kinds of solutions to the Schrödinger equation correspond precisely to bound and scattering states. The distinction is even cleaner in the quantum domain, because the phenomenon of tunneling (which we’ll come to shortly) allows the particle to “leak” through any finite potential barrier, so the only thing that matters is the potential at infinity (Figure 2.11(c)): E < V(−∞) and V(+∞) ⇒ bound state, (2.112)
+
+E > V(−∞) or V(+∞) ⇒ scattering state.
+
+In real life most potentials go to zero at infinity, in which case the criterion simplifies even further: E < 0 ⇒ bound state, (2.113)
+
+E > 0 ⇒ scattering state.
+
+Because the infinite square well and harmonic oscillator potentials go to infinity as x → ±∞, they admit bound states only; because the free particle potential is zero everywhere, it only allows scattering states.43 In this section (and the following one) we shall explore potentials that support both kinds of states.
+
+2.5.2 The Delta-Function Well The Dirac delta function is an infinitely high, infinitesimally narrow spike at the origin, whose area is 1 (Figure 2.12): δ(x) ≡ 0, if x ≠ 0 ; ∞, if x = 0 , with ∫_{-∞}^{∞} δ(x) dx = 1. (2.114)
+
+Technically, it isn’t a function at all, since it is not finite at x = 0 (mathematicians call it a generalized function, or distribution).44 Nevertheless, it is an extremely useful construct in theoretical physics. (For example, in electrodynamics the charge density of a point charge is a delta function.) Notice that δ(x − a) would be a spike of area 1 at the point a. If you multiply δ(x − a) by an ordinary function f(x), it’s the same as multiplying by f(a), f(x) δ(x − a) = f(a) δ(x − a), (2.115)
+
+because the product is zero anyway except at the point a. In particular, ∫_{-∞}^{∞} f(x) δ(x − a) dx = f(a) ∫_{-∞}^{∞} δ(x − a) dx = f(a). (2.116)
+
+That’s the most important property of the delta function: Under the integral sign it serves to “pick out” the value of f(x) at the point a. (Of course, the integral need not go from −∞ to +∞; all that matters is that the domain of integration include the point a, so a − ℓ to a + ℓ would do, for any ℓ > 0.)
+
+Let’s consider a potential of the form V(x) = −α δ(x), (2.117)
+
+where α is some positive constant.45 This is an artificial potential, to be sure (so was the infinite square well), but it’s delightfully simple to work with, and illuminates the basic theory with a minimum of analytical clutter. The Schrödinger equation for the delta-function well reads −(ħ²/2m) d²ψ/dx² − α δ(x) ψ = E ψ; (2.118)
+
+it yields both bound states (E < 0) and scattering states (E > 0).
+
+We’ll look first at the bound states. In the region x < 0, V(x) = 0, so d²ψ/dx² = −(2mE/ħ²) ψ = κ² ψ, (2.119)
+
+where κ ≡ √(−2mE)/ħ. (2.120)
+
+(E is negative, by assumption, so κ is real and positive.) The general solution to Equation 2.119 is ψ(x) = A e^{κx} + B e^{−κx}, (2.121)
+
+but the first term blows up as x → −∞, so we must choose A = 0: ψ(x) = B e^{κx}, (x < 0). (2.122)
+
+In the region x > 0, V(x) is again zero, and the general solution is of the form F exp(−κx) + G exp(κx); this time it’s the second term that blows up (as x → +∞), so ψ(x) = F e^{−κx}, (x > 0). (2.123)
+
+It remains only to stitch these two functions together, using the appropriate boundary conditions at x = 0. I quoted earlier the standard boundary conditions for ψ: 1. ψ is always continuous; 2. dψ/dx is continuous except at points where the potential is infinite. (2.124)
+
+In this case the first boundary condition tells us that F = B, so ψ(x) = { B e^{κx}, (x ≤ 0); (2.125)
+
+{ B e^{−κx}, (x ≥ 0); ψ(x) is plotted in Figure 2.13. The second boundary condition tells us nothing; this is (like the walls of the infinite square well) the exceptional case where V is infinite at the join, and it’s clear from the graph that this function has a kink at x = 0. Moreover, up to this point the delta function has not come into the story at all. It turns out that the delta function determines the discontinuity in the derivative of ψ, at x = 0. I’ll show you now how this works, and as a byproduct we’ll see why dψ/dx is ordinarily continuous.
+
+The idea is to integrate the Schrödinger equation, from −ℓ to +ℓ, and then take the limit as ℓ → 0: ∫_{-ℓ}^{+ℓ} [−(ħ²/2m) d²ψ/dx² + V(x)ψ(x)] dx = ∫_{-ℓ}^{+ℓ} E ψ(x) dx (2.126)
+
+The first integral is nothing but dψ/dx, evaluated at the two endpoints; the last integral is zero, in the limit ℓ → 0, since it’s the area of a sliver with vanishing width and finite height. Thus Δ(dψ/dx) ≡ lim_{ℓ→0} [∂ψ/∂x]_{+ℓ} − [∂ψ/∂x]_{−ℓ} = (2m/ħ²) lim_{ℓ→0} ∫_{-ℓ}^{+ℓ} V(x) ψ(x) dx. (2.127)
+
+Ordinarily, the limit on the right is again zero, and that’s why dψ/dx is ordinarily continuous. But when V(x) is infinite at the boundary, this argument fails. In particular, if V(x) = −α δ(x), Equation 2.116 yields Δ(dψ/dx) = −(2mα/ħ²) ψ(0). (2.128)
+
+For the case at hand (Equation 2.125), dψ/dx = −Bκ e^{−κx}, for (x > 0), so [dψ/dx]_{0+} = −Bκ, dψ/dx = +Bκ e^{+κx}, for (x < 0), so [dψ/dx]_{0-} = +Bκ, and hence Δ(dψ/dx) = −2Bκ. And ψ(0) = B. So Equation 2.128 says κ = mα/ħ², (2.129)
+
+and the allowed energy (Equation 2.120) is E = −ħ²κ²/(2m) = −mα²/(2ħ²). (2.130)
+
+Finally, we normalize ψ: ∫_{-∞}^{∞} |ψ(x)|² dx = 2 |B|² ∫_{0}^{∞} e^{−2κx} dx = |B|²/κ = 1, so (choosing the positive real root): B = √κ = √(mα)/ħ. (2.131)
+
+Evidently the delta function well, regardless of its “strength” α, has exactly one bound state: ψ(x) = (√(mα)/ħ) e^{−mα|x|/ħ²}; E = −mα²/(2ħ²). (2.132)
+
+What about scattering states, with E > 0? For x < 0 the Schrödinger equation reads d²ψ/dx² = −(2mE/ħ²) ψ = −k² ψ, where k ≡ √(2mE)/ħ (2.133)
+
+is real and positive. The general solution is ψ(x) = A e^{ikx} + B e^{−ikx}, (2.134)
+
+and this time we cannot rule out either term, since neither of them blows up. Similarly, for x > 0, ψ(x) = F e^{ikx} + G e^{−ikx}. (2.135)
+
+The continuity of ψ(x) at x = 0 requires that F + G = A + B. (2.136)
+
+The derivatives are dψ/dx = ik (F e^{ikx} − G e^{−ikx}), for (x > 0), so [dψ/dx]_{0+} = ik(F − G), dψ/dx = ik (A e^{ikx} − B e^{−ikx}), for (x < 0), so [dψ/dx]_{0-} = ik(A − B), and hence Δ(dψ/dx) = ik(F − G − A + B). Meanwhile, ψ(0) = (A + B), so the second boundary condition (Equation 2.128) says ik(F − G − A + B) = −(2mα/ħ²) (A + B), (2.137)
+
+or, more compactly, F − G = A(1 + 2iβ) − B(1 − 2iβ), where β ≡ mα/(ħ² k). (2.138)
+
+Having imposed both boundary conditions, we are left with two equations (Equations 2.136 and 2.138) in four unknowns (A, B, F, and G)—five, if you count k. Normalization won’t help—this isn’t a normalizable state. Perhaps we’d better pause, then, and examine the physical significance of these various constants. Recall that exp(ikx) gives rise (when coupled with the wiggle factor exp(−iEt/ħ)) to a wave function propagating to the right, and exp(−ikx) leads to a wave propagating to the left. It follows that A (in Equation 2.134) is the amplitude of a wave coming in from the left, B is the amplitude of a wave returning to the left; F (Equation 2.135) is the amplitude of a wave traveling off to the right, and G is the amplitude of a wave coming in from the right (see Figure 2.14). In a typical scattering experiment particles are fired in from one direction—let’s say, from the left. In that case the amplitude of the wave coming in from the right will be zero: G = 0 (for scattering from the left); (2.139)
+
+A is the amplitude of the incident wave, B is t The amplitude of the reflected wave, and F is the amplitude of the transmitted wave. Solving Equations 2.136 and 2.138 for B and F, we find
+
+B = iβ/(1−iβ) A, F = 1/(1−iβ) A. (2.140)
+
+(If you want to study scattering from the right, set A = 0; then G is the incident amplitude, F is the reflected amplitude, and B is the transmitted amplitude.)
+
+Now, the probability of finding the particle at a specified location is given by |ψ|2, so the relative46 probability that an incident particle will be reflected back is
+
+R ≡ |B|2/|A|2 = β2/(1+β2). (2.141)
+
+R is called the reflection coefficient. (If you have a beam of particles, it tells you the fraction of the incoming number that will bounce back.) Meanwhile, the probability that a particle will continue right on through is the transmission coefficient47
+
+T ≡ |F|2/|A|2 = 1/(1+β2). (2.142)
+
+Of course, the sum of these probabilities should be 1—and it is:
+
+R + T = 1. (2.143)
+
+46 This is not a normalizable wave function, so the absolute probability of finding the particle at a particular location is not well defined; nevertheless, the ratio of probabilities for the incident and reflected waves is meaningful. More on this in the next paragraph.
+
+47 Note that the particle’s velocity is the same on both sides of the well. Problem 2.34 treats the general case.
+
+Notice that R and T are functions of β, and hence (Equations 2.133 and 2.138) of E:
+
+R = 1/(1+2E/mα2), T = 1/(1+(mα2/2E)). (2.144)
+
+The higher the energy, the greater the probability of transmission (which makes sense).
+
+This is all very tidy, but there is a sticky matter of principle that we cannot altogether ignore: These scattering wave functions are not normalizable, so they don’t actually represent possible particle states. We know the resolution to this problem: form normalizable linear combinations of the stationary states, just as we did for the free particle—true physical particles are represented by the resulting wave packets. Though straightforward in principle, this is a messy business in practice, and at this point it is best to turn the problem over to a computer.48
+
+Meanwhile, since it is impossible to create a normalizable free-particle wave function without involving a range of energies, R and T should be interpreted as the approximate reflection and transmission probabilities for particles with energies in the vicinity of E.
+
+Incidentally, it might strike you as peculiar that we were able to analyze a quintessentially time-dependent problem (particle comes in, scatters off a potential, and flies off to infinity) using stationary states. After all, ψ (in Equations 2.134 and 2.135) is simply a complex, time-independent, sinusoidal function, extending (with constant amplitude) to infinity in both directions. And yet, by imposing appropriate boundary conditions on this function we were able to determine the probability that a particle (represented by a localized wave packet) would bounce off, or pass through, the potential. The mathematical miracle behind this is, I suppose, the fact that by taking linear combinations of states spread over all space, and with essentially trivial time dependence, we can construct wave functions that are concentrated about a (moving) point, with quite elaborate behavior in time (see Problem 2.42).
+
+As long as we’ve got the relevant equations on the table, let’s look briefly at the case of a delta-function barrier (Figure 2.15). Formally, all we have to do is change the sign of α. This kills the bound state, of course (Problem 2.2). On the other hand, the reflection and transmission coefficients, which depend only on α2, are unchanged. Strange to say, the particle is just as likely to pass through the barrier as to cross over the well! Classically, of course, a particle cannot make it over an infinitely high barrier, regardless of its energy. In fact, classical scattering problems are pretty dull: If E > Vmax, then T = 1 and R = 0—the particle certainly makes it over; if E < Vmax then T = 0 and R = 1—it rides up the hill until it runs out of steam, and then returns the same way it came. Quantum scattering problems are much richer: The particle has some nonzero probability of passing through the potential even if E < Vmax. We call this phenomenon tunneling; it is the mechanism that makes possible much of modern electronics—not to mention spectacular advances in microscopy. Conversely, even if E > Vmax there is a possibility that the particle will bounce back—though I wouldn’t advise driving off a cliff in the hope that quantum mechanics will save you (see Problem 2.35).
+
+V(x) = αδ(x)
+
+Figure 2.15: The delta-function barrier.
+
+48 There exist some powerful programs for analyzing the scattering of a wave packet from a one-dimensional potential; see, for instance, “Quantum Tunneling and Wave Packets,” at PhET Interactive Simulations, University of Colorado Boulder, https://phet.colorado.edu.
+
+* Problem 2.22 Evaluate the following integrals: (a) ∫_{-3}^{+1} (x3−3x2+2x−1) δ(x+2) dx.
+
+(b) ∫_{0}^{∞} [cos(3x)+2] δ(x−π) dx.
+
+(c) ∫_{-1}^{+1} exp(|x|+3) δ(x−2) dx.
+
+* Problem 2.23 Delta functions live under integral signs, and two expressions (D1(x) and D2(x)) involving delta functions are said to be equal if ∫_{-∞}^{+∞} f(x) D1(x) dx = ∫_{-∞}^{+∞} f(x) D2(x) dx, for every (ordinary) function f(x).
+
+(a) Show that δ(cx) = (1/|c|) δ(x), (2.145) where c is a real constant. (Be sure to check the case where c is negative.)
+
+(b) Let θ(x) be the step function: θ(x) ≡ 1, x > 0, 0, x < 0. (2.146)
+
+(In the rare case where it actually matters, we define θ(0) to be 1/2.) Show that dθ/dx = δ(x).
+
+** Problem 2.24 Check the uncertainty principle for the wave function in Equation 2.132. Hint: Calculating p2 can be tricky, because the derivative of ψ has a step discontinuity at x = 0. You may want to use the result in Problem 2.23(b). Partial answer: p2 = (mα/ℏ)2.
+
+Problem 2.25 Check that the bound state of the delta-function well (Equation 2.132) is orthogonal to the scattering states (Equations 2.134 and 2.135).
+
+* Problem 2.26 What is the Fourier transform of δ(x)? Using Plancherel’s theorem, show that δ(x) = (1/2π) ∫_{-∞}^{+∞} e^{ikx} dk. (2.147)
+
+Comment: This formula gives any respectable mathematician apoplexy. Although the integral is clearly infinite when x = 0, it doesn’t converge (to zero or anything else) when x ≠ 0, since the integrand oscillates forever. There are ways to patch it up (for instance, you can integrate from −L to +L, and interpret Equation 2.147 to mean the average value of the finite integral, as L → ∞). The source of the problem is that the delta function doesn’t meet the requirement (square-integrability) for Plancherel’s theorem (see footnote 42). In spite of this, Equation 2.147 can be extremely useful, if handled with care.
+
+** Problem 2.27 Consider the double delta-function potential V(x) = −α[δ(x + a) + δ(x − a)], where α and a are positive constants.
+
+(a) Sketch this potential.
+
+(b) How many bound states does it possess? Find the allowed energies, for α = ℏ2/ma and for α = ℏ2/4ma, and sketch the wave functions.
+
+(c) What are the bound state energies in the limiting cases (i) a → 0 and (ii) a → ∞ (holding α fixed)? Explain why your answers are reasonable, by comparison with the single delta-function well.
+
+** Problem 2.28 Find the transmission coefficient, for the potential in Problem 2.27.
+
+As a last example, consider the finite square well
+
+V(x) = −V0, −a ≤ x ≤ a, 0, |x| > a, (2.148)
+
+where V0 is a (positive) constant (Figure 2.16). Like the delta-function well, this potential admits both bound states (with E < 0) and scattering states (with E > 0). We’ll look first at the bound states.
+
+In the region x < −a the potential is zero, so the Schrödinger equation reads
+
+−(ℏ2/2m) d2ψ/d2x = Eψ, or d2ψ/dx2 = κ2ψ, where √(−2mE)
+
+κ ≡ ℏ (2.149)
+
+is real and positive. The general solution is ψ(x) = A exp(−κx) + B exp(κx), but the first term blows up (as x → −∞), so the physically admissible solution is
+
+ψ(x) = B e^{κx}, (x < −a). (2.150)
+
+In the region −a < x < a, V(x) = −V0, and the Schrödinger equation reads
+
+V(x)
+
+–a a –V0 Figure 2.16: The finite square well (Equation 2.148).
+
+−(ℏ2/2m) d2ψ/dx2 − V0ψ = Eψ, or d2ψ/dx2 = −l2ψ, where
+
+l ≡ √(2m(E+V0))/ℏ. (2.151)
+
+Although E is negative, for bound states, it must be greater than −V0, by the old theorem E > Vmin (Problem 2.2); so l is also real and positive. The general solution is49
+
+ψ(x) = C sin(lx) + D cos(lx), (−a < x < a), (2.152)
+
+where C and D are arbitrary constants. Finally, in the region x > a the potential is again zero; the general solution is ψ(x) = F exp(−κx) + G exp(κx), but the second term blows up (as x → ∞), so we are left with
+
+ψ(x) = F e^{−κx}, (x > a). (2.153)
+
+The next step is to impose boundary conditions: ψ and dψ/dx continuous at −a and +a. But we can save a little time by noting that this potential is an even function, so we can assume with no loss of generality that the solutions are either even or odd (Problem 2.1(c)). The advantage of this is that we need only impose the boundary conditions on one side (say, at +a); the other side is then automatic, since ψ(−x) = ±ψ(x). I’ll work out the even solutions; you get to do the odd ones in Problem 2.29. The cosine is even (and the sine is odd), so I’m looking for solutions of the form
+
+ψ(x) = F e^{−κx}, (x > a), = D cos(lx), (0 < x < a), (2.154)
+
+= ψ(−x), (x < 0).
+
+The continuity of ψ(x), at x = a, says
+
+F e^{−κa} = D cos(la), (2.155)
+
+and the continuity of dψ/dx says
+
+−κF e^{−κa} = −l D sin(la). (2.156)
+
+Dividing Equation 2.156 by Equation 2.155, we find that
+
+49 You can, if you like, write the general solution in exponential form (C′ e^{ilx} + D′ e^{−ilx}). This leads to the same final result, but since the potential is symmetric, we know the solutions will be either even or odd, and the sine/cosine notation allows us to exploit this right from the start.
+
+κ = l tan(la). (2.157)
+
+This is a formula for the allowed energies, since κ and l are both functions of E. To solve for E, we first adopt some nicer notation: Let
+
+z ≡ la, and z0 ≡ √(2mV0)/ℏ. (2.158)
+
+According to Equations 2.149 and 2.151, κ2 + l2 = 2mV0/ℏ2, so κa = √(z02 − z2), and Equation 2.157 reads
+
+tan z = √((z0/z)2 − 1). (2.159)
+
+This is a transcendental equation for z (and hence for E) as a function of z0 (which is a measure of the “size” of the well). It can be solved numerically, using a computer, or graphically, by plotting tan z and √((z0/z)2 − 1) on the same grid, and looking for points of intersection (see Figure 2.17). Two limiting cases are of special interest:
+
+## 1. Wide
+
+deep well. If z is very large (pushing the curve \((z_0/z)^2 - 1\) upward on the graph, and sliding the zero crossing, \(z\), to the right) the intersections occur just slightly below \(z = n\pi/2\), with \(n\) odd; it follows (Equations 2.158 and 2.151) that \[ E_n + V_0 \approx \frac{n^2 \pi^2 \hbar^2}{2m(2a)^2} \quad (n = 1, 3, 5, \dots). \tag{2.160} \]
+
+But \(E_n + V_0\) is the energy above the bottom of the well, and on the right side we have precisely the infinite square well energies, for a well of width \(2a\) (see Equation 2.30)—or rather, half of them, since this \(n\) is odd. (The other ones, of course, come from the odd wave functions, as you’ll discover in Problem 2.29.) So the finite square well goes over to the infinite square well, as \(V_0 \rightarrow \infty\); however, for any finite \(V_0\) there are only a finite number of bound states.
+
+2. Shallow, narrow well. As \(z\) decreases, there are fewer and fewer bound states, until finally, for \(z < \pi/2\), only one remains. It is interesting to note, however, that there is always one bound state, no matter how “weak” the well becomes.
+
+You’re welcome to normalize \(\psi\) (Equation 2.154), if you’re interested (Problem 2.30), but I’m going to move on now to the scattering states (\(E > 0\)). To the left, where \(V(x) = 0\), we have \[ \psi(x) = Ae^{ikx} + Be^{-ikx}, \quad \text{for } (x < -a), \tag{2.161} \]
+
+where (as usual)
+
+\[ k \equiv \frac{\sqrt{2mE}}{\hbar}. \tag{2.162} \]
+
+Inside the well, where \(V(x) = -V_0\), \[ \psi(x) = C \sin(lx) + D \cos(lx), \quad \text{for } (-a < x < a), \tag{2.163} \]
+
+where, as before, \[ l \equiv \frac{\sqrt{2m(E + V_0)}}{\hbar}. \tag{2.164} \]
+
+To the right, assuming there is no incoming wave in this region, we have \[ \psi(x) = Fe^{ikx}. \tag{2.165} \]
+
+Here \(A\) is the incident amplitude, \(B\) is the reflected amplitude, and \(F\) is the transmitted amplitude.\(^{50}\)
+
+There are four boundary conditions: Continuity of \(\psi(x)\) at \(-a\) says \[ Ae^{-ika} + Be^{ika} = -C \sin(la) + D \cos(la), \tag{2.166} \]
+
+continuity of \(d\psi/dx\) at \(-a\) gives \[ ik\left(Ae^{-ika} - Be^{ika}\right) = l\left[C \cos(la) + D \sin(la)\right] \tag{2.167} \]
+
+continuity of \(\psi(x)\) at \(+a\) yields \[ C \sin(la) + D \cos(la) = Fe^{ika}, \tag{2.168} \]
+
+and continuity of \(d\psi/dx\) at \(+a\) requires \[ l\left[C \cos(la) - D \sin(la)\right] = ikFe^{ika}. \tag{2.169} \]
+
+We can use two of these to eliminate \(C\) and \(D\), and solve the remaining two for \(B\) and \(F\) (see Problem 2.32): \[ B = i \left(\frac{l^2 - k^2}{2kl}\right) \sin(2la) F, \tag{2.170} \]
+
+\[ F = \frac{-2ikaA}{\cos(2la) - i \left(\frac{k^2 + l^2}{2kl}\right) \sin(2la)}. \tag{2.171} \]
+
+The transmission coefficient \(T = |F|^2/|A|^2\), expressed in terms of the original variables, is given by \[ T^{-1} = 1 + \frac{V_0^2}{4E(E + V_0)} \sin^2\left(\frac{2a}{\hbar} \sqrt{2m(E + V_0)}\right). \tag{2.172} \]
+
+Notice that \(T = 1\) (the well becomes “transparent”) whenever the sine is zero, which is to say, when \[ \frac{2a}{\hbar} \sqrt{2m(E_n + V_0)} = n\pi, \tag{2.173} \]
+
+where \(n\) is any integer. The energies for perfect transmission, then, are given by \[ E_n + V_0 = \frac{n^2 \pi^2 \hbar^2}{2m(2a)^2}, \tag{2.174} \]
+
+which happen to be precisely the allowed energies for the infinite square well. \(T\) is plotted in Figure 2.18, as a function of energy.\(^{51}\)
+
+--- \(^{50}\) We could look for even and odd functions, as we did in the case of bound states, but the scattering problem is inherently asymmetric, since the waves come in from one side only, and the exponential notation (representing traveling waves) is more natural in this context.
+
+**Problem 2.29** Analyze the odd bound state wave functions for the finite square well. Derive the transcendental equation for the allowed energies, and solve it graphically. Examine the two limiting cases. Is there always an odd bound state?
+
+**Problem 2.30** Normalize \(\psi(x)\) in Equation 2.154, to determine the constants \(D\) and \(F\).
+
+**Problem 2.31** The Dirac delta function can be thought of as the limiting case of a rectangle of area 1, as the height goes to infinity and the width goes to zero. Show that the delta-function well (Equation 2.117) is a “weak” potential (even though it is infinitely deep), in the sense that \(z \rightarrow 0\). Determine the bound state energy for the delta-function potential, by treating it as the limit of a finite square well. Check that your answer is consistent with Equation 2.132. Also show that Equation 2.172 reduces to Equation 2.144 in the appropriate limit.
+
+**Problem 2.32** Derive Equations 2.170 and 2.171. Hint: Use Equations 2.168 and 2.169 to solve for \(C\) and \(D\) in terms of \(F\): \[ C = \left(\frac{k}{l} \sin(la) + i \cos(la)\right) e^{ika}F; \quad D = \left(\cos(la) - i \frac{k}{l} \sin(la)\right) e^{ika}F.
+
+\]
+
+Plug these back into Equations 2.166 and 2.167. Obtain the transmission coefficient, and confirm Equation 2.172.
+
+--- \(^{51}\) This remarkable phenomenon was observed in the laboratory before the advent of quantum mechanics, in the form of the Ramsauer–Townsend effect. For an illuminating discussion see Richard W. Robinett, *Quantum Mechanics*, Oxford University Press, 1997, Section 12.4.1.
+
+**Problem 2.33** Determine the transmission coefficient for a rectangular barrier (same as Equation 2.148, only with \(V(x) = +V_0 > 0\) in the region \(-a < x < a\)). Treat separately the three cases \(E < V_0\), \(E = V_0\), and \(E > V_0\) (note that the wave function inside the barrier is different in the three cases). Partial answer: for \(E < V_0\),\(^{52}\)
+
+\[ T^{-1} = 1 + \frac{V_0^2}{4E(V_0 - E)} \sinh^2\left(\frac{2a}{\hbar} \sqrt{2m(V_0 - E)}\right).
+
+\]
+
+**Problem 2.34** Consider the “step” potential:\(^{53}\)
+
+\[ V(x) = \begin{cases} 0, & x \leq 0, \\ V_0, & x > 0.
+
+\end{cases} \]
+
+(a) Calculate the reflection coefficient, for the case \(E < V_0\), and comment on the answer.
+
+(b) Calculate the reflection coefficient for the case \(E > V_0\).
+
+(c) For a potential (such as this one) that does not go back to zero to the right of the barrier, the transmission coefficient is not simply \(|F|^2/|A|^2\) (with \(A\) the incident amplitude and \(F\) the transmitted amplitude), because the transmitted wave travels at a different speed. Show that \[ T = \frac{E - V_0}{E} \frac{|F|^2}{|A|^2}, \tag{2.175} \]
+
+for \(E > V_0\). Hint: You can figure it out using Equation 2.99, or—more elegantly, but less informatively—from the probability current (Problem 2.18). What is \(T\), for \(E < V_0\)?
+
+(d) For \(E > V_0\), calculate the transmission coefficient for the step potential, and check that \(T + R = 1\).
+
+**Problem 2.35** A particle of mass \(m\) and kinetic energy \(E > 0\) approaches an abrupt potential drop \(-V\) (Figure 2.19).\(^{54}\)
+
+(a) What is the probability that it will “reflect” back, if \(E = V/3\)? Hint: This is just like Problem 2.34, except that the step now goes down, instead of up.
+
+(b) I drew the figure so as to make you think of a car approaching a cliff, but obviously the probability of “bouncing back” from the edge of a cliff is far smaller than what you got in (a)—unless you’re Bugs Bunny. Explain why this potential does not correctly represent a cliff. Hint: In Figure 2.20 the potential energy of the car drops discontinuously to \(-V\), as it passes \(x = 0\); would this be true for a falling car?
+
+(c) When a free neutron enters a nucleus, it experiences a sudden drop in potential energy, from \(V = 0\) outside to around \(-12\) MeV (million electron volts) inside. Suppose a neutron, emitted with kinetic energy 4 MeV by a fission event, strikes such a nucleus. What is the probability it will be absorbed, thereby initiating another fission? Hint: You calculated the probability of reflection in part (a); use \(T = 1 - R\) to get the probability of transmission through the surface.
+
+--- \(^{52}\) This is a good example of tunneling—classically the particle would bounce back.
+
+\(^{53}\) For interesting commentary see C. O. Dib and O. Orellana, *Eur. J. Phys.* 38, 045403 (2017).
+
+\(^{54}\) For further discussion see P. L. Garrido, et al., *Am. J. Phys.* 79, 1218 (2011).
+
+**Problem 2.36** Solve the time-independent Schrödinger equation with appropriate boundary conditions for the “centered” infinite square well: \(V(x) = 0\) (for \(-a < x < +a\)), \(V(x) = \infty\) (otherwise). Check that your allowed energies are consistent with mine (Equation 2.30), and confirm that your \(\psi\)’s can be obtained from mine (Equation 2.31) by the substitution \(x \rightarrow (x + a)/2\) (and appropriate renormalization). Sketch your first three solutions, and compare Figure 2.2. Note that the width of the well is now \(2a\).
+
+**Problem 2.37** A particle in the infinite square well (Equation 2.22) has the initial wave function \[ \psi(x,0) = A \sin^3(\pi x/a) \quad (0 \leq x \leq a).
+
+\]
+
+Determine \(A\), find \(\psi(x,t)\), and calculate \(\langle x \rangle\), as a function of time. What is the expectation value of the energy? Hint: \(\sin^n\theta\) and \(\cos^n\theta\) can be reduced, by repeated application of the trigonometric sum formulas, to linear combinations of \(\sin(m\theta)\) and \(\cos(m\theta)\), with \(m = 0, 1, 2, \dots, n\).
+
+**Problem 2.38** (a) Show that the wave function of a particle in the infinite square well returns to its original form after a quantum revival time \(T = 4ma^2/\pi\hbar\). That is: \(\psi(x,T) = \psi(x,0)\) for any state (not just a stationary state).
+
+(b) What is the classical revival time, for a particle of energy \(E\) bouncing back and forth between the walls?
+
+(c) For what energy are the two revival times equal?\(^{55}\)
+
+--- \(^{55}\) The fact that the classical and quantum revival times bear no obvious relation to one another (and the quantum one doesn’t even depend on the energy) is a curious paradox; see D. F. Styer, *Am. J. Phys.* 69, 56 (2001).
+
+**Problem 2.39** In Problem 2.7(d) you got the expectation value of the energy by summing the series in Equation 2.21, but I warned you (in footnote 21) not to try it the “old fashioned way,” \(\langle H \rangle = \int \psi(x,0)^* \hat{H} \psi(x,0) \, dx\), because the discontinuous first derivative of \(\psi(x,0)\) renders the second derivative problematic. Actually, you could have done it using integration by parts, but the Dirac delta function affords a much cleaner way to handle such anomalies.
+
+(a) Calculate the first derivative of \(\psi(x,0)\) (in Problem 2.7), and express the answer in terms of the step function, \(\theta(x - a/2)\), defined in Equation 2.146.
+
+(b) Exploit the result of Problem 2.23(b) to write the second derivative of \(\psi(x,0)\) in terms of the delta function.
+
+(c) Evaluate the integral \(\int \psi(x,0)^* \hat{H} \psi(x,0) \, dx\), and check that you get the same answer as before.
+
+**Problem 2.40** A particle of mass \(m\) in the harmonic oscillator potential (Equation 2.44) starts out in the state \[ \psi(x,0) = A \left(1 - 2\sqrt{\frac{m\omega}{\hbar}} x\right) e^{-\frac{m\omega}{2\hbar} x^2}, \]
+
+for some constant \(A\).
+
+(a) Determine \(A\) and the coefficients \(c_n\) in the expansion of this state in terms of the stationary states of the harmonic oscillator.
+
+(b) In a measurement of the particle’s energy, what results could you get, and what are their probabilities? What is the expectation value of the energy?
+
+(c) At a later time \(T\) the wave function is \[ \psi(x,T) = B \left(1 + 2\sqrt{\frac{m\omega}{\hbar}} x\right) e^{-\frac{m\omega}{2\hbar} x^2}, \]
+
+for some constant \(B\). What is the smallest possible value of \(T\)?
+
+**Problem 2.41** Find the allowed energies of the half harmonic oscillator \[ V(x) = \begin{cases} (1/2)m\omega^2 x^2, & x > 0, \\ \infty, & x < 0.
+
+\end{cases} \]
+
+(This represents, for example, a spring that can be stretched, but not compressed.) Hint: This requires some careful thought, but very little actual calculation.
+
+2.42 In Problem 2.21 you analyzed the stationary gaussian free particle wave packet. Now solve the same problem for the traveling gaussian wave packet, starting with the initial wave function
+
+φ(x,0) = A e^{-αx^2} e^{iℓx},
+
+where ℓ is a (real) constant. [Suggestion: In going from φ(k) to φ(x,t), change variables to u ≡ k − ℓ before doing the integral.] Partial answer:
+
+φ(x,t) = \left( \frac{2α}{πγ} \right)^{1/4} e^{-α(x−(ℏℓ/m)t)^2/γ^2} e^{iℓ(x−(ℏℓ/2m)t)}
+
+where γ ≡ 1 + 2iαℏt/m, as before. Notice that φ(x,t) has the structure of a gaussian “envelope” modulating a traveling sinusoidal wave. What is the speed of the envelope? What is the speed of the traveling wave?
+
+** Problem 2.43 Solve the time-independent Schrödinger equation for a centered infinite square well with a delta-function barrier in the middle:
+
+V(x) = { αδ(x),  -a < x < +a, ∞,       |x| ≥ a.
+
+Treat the even and odd wave functions separately. Don’t bother to normalize them. Find the allowed energies (graphically, if necessary). How do they compare with the corresponding energies in the absence of the delta function? Explain why the odd solutions are not affected by the delta function. Comment on the limiting cases α → 0 and α → ∞.
+
+** Problem 2.44 If two (or more) distinct⁵⁶ solutions to the (time-independent) Schrödinger equation have the same energy E, these states are said to be degenerate. For example, the free particle states are doubly degenerate—one solution representing motion to the right, and the other motion to the left. But we have never encountered normalizable degenerate solutions, and this is no accident. Prove the following theorem: In one dimension⁵⁷ (−∞ < x < ∞) there are no degenerate bound states. [Hint: Suppose there are two solutions, ψ₁ and ψ₂, with the same energy E. Multiply the Schrödinger equation for ψ₁ by ψ₂, and the Schrödinger equation for ψ₂ by ψ₁, and subtract, to show that (ψ₂ dψ₁/dx − ψ₁ dψ₂/dx) is a constant. Use the fact that for normalizable solutions ψ → 0 at ±∞ to demonstrate that this constant is in fact zero. Conclude that ψ₂ is a multiple of ψ₁, and hence that the two solutions are not distinct.]
+
+** Problem 2.45 In this problem you will show that the number of nodes of the stationary states of a one-dimensional potential always increases with energy.⁵⁸ Consider two (real, normalized) solutions (ψₙ and ψₘ) to the time-independent Schrödinger equation (for a given potential V(x)), with energies Eₙ > Eₘ.
+
+(a) Show that
+
+\frac{d}{dx} \left( ψₘ \frac{dψₙ}{dx} − ψₙ \frac{dψₘ}{dx} \right) = \frac{2m}{ℏ^2} (Eₙ − Eₘ) ψₙ ψₘ.
+
+(b) Let x₁ and x₂ be two adjacent nodes of the function ψₘ(x). Show that
+
+ψₘ(x₂) ψₙ(x₂) − ψₘ(x₁) ψₙ(x₁) = \frac{2m}{ℏ^2} (Eₙ − Eₘ) \int_{x₁}^{x₂} ψₙ ψₘ \, dx.
+
+(c) If ψₙ(x) has no nodes between x₁ and x₂, then it must have the same sign everywhere in the interval. Show that (b) then leads to a contradiction. Therefore, between every pair of nodes of ψₘ(x), ψₙ(x) must have at least one node, and in particular the number of nodes increases with energy.
+
+** Problem 2.46 Imagine a bead of mass m that slides frictionlessly around a circular wire ring of circumference L. (This is just like a free particle, except that ψ(x + L) = ψ(x).) Find the stationary states (with appropriate normalization) and the corresponding allowed energies. Note that there are (with one exception) two independent solutions for each energy E—corresponding to clockwise and counter-clockwise circulation; call them ψₙ⁺(x) and ψₙ⁻(x). How do you account for this degeneracy, in view of the theorem in Problem 2.44 (why does the theorem fail, in this case)?
+
+** Problem 2.47 Attention: This is a strictly qualitative problem—no calculations allowed! Consider the “double square well” potential (Figure 2.20). Suppose the depth V₀ and the width a are fixed, and large enough so that several bound states occur.
+
+(a) Sketch the ground state wave function ψ₁ and the first excited state ψ₂, (i) for the case b = 0, (ii) for b ≈ a, and (iii) for b ≫ a.
+
+(b) Qualitatively, how do the corresponding energies (E₁ and E₂) vary, as b goes from 0 to ∞? Sketch E₁(b) and E₂(b) on the same graph.
+
+(c) The double well is a very primitive one-dimensional model for the potential experienced by an electron in a diatomic molecule (the two wells represent the attractive force of the nuclei). If the nuclei are free to move, they will adopt the configuration of minimum energy. In view of your conclusions in (b), does the electron tend to draw the nuclei together, or push them apart? (Of course, there is also the internuclear repulsion to consider, but that’s a separate problem.)
+
+** Problem 2.48 Consider a particle of mass m in the potential
+
+V(x) = { ∞,         x < 0, -32ℏ^2/ma^2,  0 ≤ x ≤ a, 0,          x > a.
+
+(a) How many bound states are there?
+
+(b) In the highest-energy bound state, what is the probability that the particle would be found outside the well (x > a)? Answer: 0.542, so even though it is “bound” by the well, it is more likely to be found outside than inside!
+
+** Problem 2.49 (a) Show that
+
+φ(x,t) = \left( \frac{mω}{πℏ} \right)^{1/4} exp \left\{ -\frac{mω}{2ℏ} \left[ x^2 + \frac{1+i e^{-2iωt}}{1-i e^{-2iωt}} \left( x^2 + \frac{2iℏ}{mω} x e^{-iωt} - \frac{ℏ}{mω} \right) \right] \right\}
+
+satisfies the time-dependent Schrödinger equation for the harmonic oscillator potential (Equation 2.44). Here x₀ is any real constant with the dimensions of length.⁵⁹ (b) Find |φ(x,t)|², and describe the motion of the wave packet.
+
+(c) Compute ⟨x⟩ and ⟨p⟩, and check that Ehrenfest’s theorem (Equation 1.38) is satisfied.
+
+** Problem 2.50 Consider the moving delta-function well:
+
+V(x,t) = -α δ(x - vt),
+
+where v is the (constant) velocity of the well.
+
+(a) Show that the time-dependent Schrödinger equation admits the exact solution⁶⁰
+
+φ(x,t) = \left( \frac{mα}{ℏ} \right) e^{-mα|x-vt|/ℏ^2} e^{-i (E + (1/2)mv^2)t/ℏ - mvx/ℏ},
+
+where E = -mα^2/2ℏ^2 is the bound-state energy of the stationary delta function. Hint: Plug it in and check it! Use the result of Problem 2.23(b).
+
+(b) Find the expectation value of the Hamiltonian in this state, and comment on the result.
+
+** Problem 2.51 Free fall. Show that
+
+φ(x,t) = φ₀(x + \frac{1}{2}gt^2, t) exp \left[ -\frac{i}{ℏ} \left( x + \frac{1}{6}gt^2 \right) mgt \right]   (2.176)
+
+satisfies the time-dependent Schrödinger equation for a particle in a uniform gravitational field,
+
+V(x) = mgx,   (2.177)
+
+where φ₀(x,t) is the free gaussian wave packet (Equation 2.111). Find ⟨x⟩ as a function of time, and comment on the result.⁶¹
+
+** Problem 2.52 Consider the potential
+
+V(x) = - \frac{ℏ^2 a^2}{2m} \text{sech}^2(ax),
+
+where a is a positive constant, and “sech” stands for the hyperbolic secant.
+
+(a) Graph this potential.
+
+(b) Check that this potential has the ground state
+
+ψ₀(x) = A \text{sech}(ax),
+
+and find its energy. Normalize ψ₀, and sketch its graph.
+
+(c) Show that the function
+
+ψ_k(x) = A e^{ikx} \frac{ik - a \tanh(ax)}{ik + a}
+
+(where k ≡ √(2mE)/ℏ, as usual) solves the Schrödinger equation for any (positive) energy E. Since tanh z → −1 as z → −∞,
+
+ψ_k(x) ≈ A e^{ikx},   for large negative x.
+
+This represents, then, a wave coming in from the left with no accompanying reflected wave (i.e. no term exp(−ikx)). What is the asymptotic form of ψ_k(x) at large positive x? What are R and T, for this potential? Comment: This is a famous example of a reflectionless potential—every incident particle, regardless of its energy, passes right through.⁶²
+
+** Problem 2.53 The Scattering Matrix. The theory of scattering generalizes in a pretty obvious way to arbitrary localized potentials (Figure 2.21). To the left (Region I), V(x) = 0, so
+
+ψ(x) = A e^{ikx} + B e^{-ikx},   where k ≡ \frac{\sqrt{2mE}}{ℏ}.   (2.178)
+
+To the right (Region III), V(x) is again zero, so
+
+ψ(x) = F e^{ikx} + G e^{-ikx}.   (2.179)
+
+In between (Region II), of course, I can’t tell you what ψ is until you specify the potential, but because the Schrödinger equation is a linear, second-order differential equation, the general solution has got to be of the form
+
+ψ(x) = C f(x) + D g(x),
+
+where f(x) and g(x) are two linearly independent particular solutions.⁶³ There will be four boundary conditions (two joining Regions I and II, and two joining Regions II and III). Two of these can be used to eliminate C and D, and the other two can be “solved” for B and F in terms of A and G:
+
+B = S₁₁ A + S₁₂ G, F = S₂₁ A + S₂₂ G.
+
+The four coefficients Sᵢⱼ, which depend on k (and hence on E), constitute a 2×2 matrix S, called the scattering matrix (or S-matrix, for short). The S-matrix tells you the outgoing amplitudes (B and F) in terms of the incoming amplitudes (A and G):
+
+\begin{pmatrix} B \\ F \end{pmatrix} = \begin{pmatrix} S_{11} & S_{12} \\ S_{21} & S_{22} \end{pmatrix} \begin{pmatrix} A \\ G \end{pmatrix}.   (2.180)
+
+In the typical case of scattering from the left, G = 0, so the reflection and transmission coefficients are
+
+R_l = \left| \frac{B}{A} \right|^2_{G=0} = |S_{11}|^2, \quad T_l = \left| \frac{F}{A} \right|^2_{G=0} = |S_{21}|^2.   (2.181)
+
+For scattering from the right, A = 0, and
+
+R_r = \left| \frac{F}{G} \right|^2_{A=0} = |S_{22}|^2, \quad T_r = \left| \frac{B}{G} \right|^2_{A=0} = |S_{12}|^2.   (2.182)
+
+(a) Construct the S-matrix for scattering from a delta-function well (Equation 2.117).
+
+(b) Construct the S-matrix for the finite square well.
+
+square well (Equation 2.148). Hint: This requires no new work, if you carefully exploit the symmetry of the problem.
+
+** Problem 2.54 The transfer matrix.64 The S-matrix (Problem 2.53) tells you the outgoing amplitudes (B and F) in terms of the incoming amplitudes (A and G)—Equation 2.180. For some purposes it is more convenient to work with the transfer matrix, M, which gives you the amplitudes to the right of the potential (F and G) in terms of those to the left (A and B):
+
+\[ \begin{pmatrix} F \\ G \end{pmatrix} = \begin{pmatrix} M_{11} & M_{12} \\ M_{21} & M_{22} \end{pmatrix} \begin{pmatrix} A \\ B \end{pmatrix}. \tag{2.183} \]
+
+63 See any book on differential equations—for example, John L. Van Iwaarden, *Ordinary Differential Equations with Numerical Techniques*, Harcourt Brace Jovanovich, San Diego, 1985, Chapter 3.
+
+64 For applications of this method see, for instance, D. J. Griffiths and C. A. Steinke, Am. J. Phys. 69, 137 (2001) or S. Das, Am. J. Phys. 83, 590 (2015).
+
+(a) Find the four elements of the M-matrix, in terms of the elements of the S-matrix, and vice versa. Express \(R_l\), \(T_l\), \(R_r\), and \(T_r\) (Equations 2.181 and 2.182) in terms of elements of the M-matrix.
+
+(b) Suppose you have a potential consisting of two isolated pieces (Figure 2.22). Show that the M-matrix for the combination is the product of the two M-matrices for each section separately:
+
+\[ M = M_2 M_1. \tag{2.184} \]
+
+(This obviously generalizes to any number of pieces, and accounts for the usefulness of the M-matrix.)
+
+(c) Construct the M-matrix for scattering from a single delta-function potential at point \(a\):
+
+\[ V(x) = -\alpha \delta(x - a).
+
+\]
+
+(d) By the method of part (b), find the M-matrix for scattering from the double-delta-function
+
+\[ V(x) = -\alpha[\delta(x + a) + \delta(x - a)].
+
+\]
+
+What is the transmission coefficient for this potential?
+
+** Problem 2.55 Find the ground state energy of the harmonic oscillator, to five significant digits, by the “wag-the-dog” method. That is, solve Equation 2.73 numerically, varying \(K\) until you get a wave function that goes to zero at large \(\xi\). In Mathematica, appropriate input code would be
+
+``` Plot[ Evaluate[ u[x] /. NDSolve[ {u''[x] - (x^2 - K) u[x] == 0, u[0] == 1, u'[0] == 0}, u[x], {x, 0, b} ]
+
+], {x, a, b}, PlotRange -> {c, d} ]
+
+```
+
+(Here (a,b) is the horizontal range of the graph, and (c,d) is the vertical range—start with a = 0, b = 10, c = −10, d = 10.) We know that the correct solution is \(K = 2n + 1\), so you might start with a “guess” of \(K = 0.9\). Notice what the “tail” of the wavefunction does. Now try \(K = 1.1\), and note that the tail flips over. Somewhere in between those values lies the correct solution. Zero in on it by bracketing \(K\) tighter and tighter. As you do so, you may want to adjust a, b, c, and d, to zero in on the cross-over point.
+
+Problem 2.56 Find the first three excited state energies (to five significant digits) for the harmonic oscillator, by wagging the dog (Problem 2.55). For the first (and third) excited state you will need to set u[0]==0, u'[0]==1.)
+
+Problem 2.57 Find the first four allowed energies (to five significant digits) for the infinite square well, by wagging the dog. Hint: Refer to Problem 2.55, making appropriate changes to the differential equation. This time the condition you are looking for is u(1)=0.
+
+Problem 2.58 In a monovalent metal, one electron per atom is free to roam throughout the object. What holds such a material together—why doesn’t it simply fall apart into a pile of individual atoms? Evidently the energy of the composite structure must be less than the energy of the isolated atoms. This problem offers a crude but illuminating explanation for the cohesiveness of metals.
+
+(a) Estimate the energy of \(N\) isolated atoms, by treating each one as an electron in the ground state of an infinite square well of width \(a\) (Figure 2.23(a)).
+
+(b) When these atoms come together to form a metal, we get \(N\) electrons in a much larger infinite square well of width \(Na\) (Figure 2.23(b)). Because of the Pauli exclusion principle (which we will discuss in Chapter 5) there can only be one electron (two, if you include spin, but let’s ignore that) in each allowed state. What is the lowest energy for this system (Figure 2.23(b))?
+
+(c) The difference of these two energies is the cohesive energy of the metal—the energy it would take to tear it apart into isolated atoms. Find the cohesive energy per atom, in the limit of large \(N\).
+
+(d) A typical atomic separation in a metal is a few Ångström (say, a ≈ 4 Å). What is the numerical value of the cohesive energy per atom, in this model? (Measured values are in the range of 2–4 eV.)
+
+** ** Problem 2.59 The “bouncing ball.”65 Suppose
+
+\[ V(x) = \begin{cases} mgx, & x > 0 \\ \infty, & x \leq 0. \end{cases} \tag{2.185} \]
+
+(a) Solve the (time-independent) Schrödinger equation for this potential. Hint: First convert it to dimensionless form:
+
+\[ -y''(z) + z y(z) = \varepsilon y(z) \tag{2.186} \]
+
+by letting \(z \equiv a x\) and \(y(z) \equiv \frac{1}{\sqrt{a}} \psi(x)\) (the \(a\) is just so \(y(z)\) is normalized with respect to \(z\) when \(\psi(x)\) is normalized with respect to \(x\)). What are the constants \(a\) and \(\varepsilon\)? Actually, we might as well set \(a \rightarrow 1\)—this amounts to a convenient choice for the unit of length. Find the general solution to this equation (in Mathematica `DSolve` will do the job). The result is (of course) a linear combination of two (probably unfamiliar) functions. Plot each of them, for \((-15 < z < 5)\). One of them clearly does not go to zero at large \(z\) (more precisely, it’s not normalizable), so discard it. The allowed values of \(\varepsilon\) (and hence of \(E\)) are determined by the condition \(\psi(0) = 0\). Find the ground state \(\varepsilon\) numerically (in Mathematica `FindRoot` will do it), and also the 10th, \(\varepsilon_{10}\). Obtain the corresponding normalization factors. Plot \(\psi_1(x)\) and \(\psi_{10}(x)\), for \(0 \leq z < 16\). Just as a check, confirm that \(\psi_1(x)\) and \(\psi_{10}(x)\) are orthogonal.
+
+(b) Find (numerically) the uncertainties \(\sigma_x\) and \(\sigma_p\) for these two states, and check that the uncertainty principle is obeyed.
+
+(c) The probability of finding the ball in the neighborhood \(dx\) of height \(x\) is (of course) \(\rho_Q(x) dx = |\psi(x)|^2 dx\). The nearest classical analog would be the fraction of time an elastically bouncing ball (with the same energy, \(E\)) spends in the neighborhood \(dx\) of height \(x\) (see Problem 1.11). Show that this is
+
+\[ \rho_C(x) dx = \frac{mg}{\sqrt{2E(E - mgx)}} dx, \tag{2.187} \]
+
+or, in our units (with \(a = 1\)),
+
+\[ \rho_C(x) = \frac{\sqrt{\varepsilon}}{\sqrt{2(\varepsilon - x)}}. \tag{2.188} \]
+
+Plot \(\rho_Q(x)\) and \(\rho_C(x)\) for the state \(\psi_{10}(x)\), on the range \(0 \leq x \leq 12.5\); superimpose the graphs (Show, in Mathematica), and comment on the result.
+
+65 This problem was suggested by Nicholas Wheeler.
+
+** ** Problem 2.60 The \(1/x^2\) potential. Suppose
+
+\[ V(x) = \begin{cases} -\alpha/x^2, & x > 0 \\ \infty, & x \leq 0, \end{cases} \tag{2.189} \]
+
+where \(\alpha\) is some positive constant with the appropriate dimensions. We’d like to find the bound states—solutions to the time-independent Schrödinger equation
+
+\[ -\frac{\hbar^2}{2m} \frac{d^2\psi}{dx^2} - \frac{\alpha}{x^2} \psi = E \psi \tag{2.190} \]
+
+with negative energy (\(E < 0\)).
+
+(a) Let’s first go for the ground state energy, \(E_0\). Prove, on dimensional grounds, that there is no possible formula for \(E_0\)—no way to construct (from the available constants \(m\), \(\hbar\), and \(\alpha\)) a quantity with the units of energy. That’s weird, but it gets worse....
+
+(b) For convenience, rewrite Equation 2.190 as
+
+\[ \frac{d^2\psi}{dx^2} + \frac{\beta}{x^2} \psi = \kappa^2 \psi, \quad \text{where } \beta \equiv \frac{2m\alpha}{\hbar^2} \text{ and } \kappa \equiv \frac{\sqrt{-2mE}}{\hbar}. \tag{2.191} \]
+
+Show that if \(\psi(x)\) satisfies this equation with energy \(E\), then so too does \(\psi(\lambda x)\), with energy \(E' = \lambda^2 E\), for any positive number \(\lambda\). [This is a catastrophe: if there exists any solution at all, then there’s a solution for every (negative) energy! Unlike the square well, the harmonic oscillator, and every other potential well we have encountered, there are no discrete allowed states—and no ground state. A system with no ground state—no lowest allowed energy—would be wildly unstable, cascading down to lower and lower levels, giving off an unlimited amount of energy as it falls. It might solve our energy problem, but we’d all be fried in the process.] Well, perhaps there simply aren’t any solutions at all....
+
+(c) (Use a computer for the remainder of this problem.) Show that
+
+\[ \psi_\kappa(x) = A x \, K_{ig}(\kappa x), \tag{2.192} \]
+
+satisfies Equation 2.191 (here \(K_{ig}\) is the modified Bessel function of order \(ig\), and \(g \equiv \sqrt{\beta - 1/4}\)). Plot this function, for \(g = 4\) (you might as well let \(\kappa = 1\) for the graph; this just sets the scale of length). Notice that it goes to 0 as \(x \rightarrow 0\) and as \(x \rightarrow \infty\). And it’s normalizable: determine \(A\).66 How about the old rule that the number of nodes counts the number of lower-energy states? This function has an infinite number of nodes, regardless of the energy (i.e. of \(\kappa\)). I guess that’s consistent, since for any \(E\) there are always an infinite number of states with even lower energy.
+
+(d) This potential confounds practically everything we have come to expect. The problem is that it blows up too violently as \(x \rightarrow 0\). If you move the “brick wall” over a hair,
+
+66 \(\psi_\kappa(x)\) is normalizable as long as \(g\) is real—which is to say, provided \(\beta > 1/4\). For more on this strange problem see A. M. Essin and D. J. Griffiths, Am. J. Phys. 74, 109 (2006), and references therein.
+
+\[ V(x) = \begin{cases} -\alpha/x^2, & x > \varepsilon > 0, \\ \infty, & x \leq \varepsilon, \end{cases} \tag{2.193} \]
+
+it’s suddenly perfectly normal. Plot the ground state wavefunction, for \(g = 4\) and \(\varepsilon = 1\) (you’ll first need to determine the appropriate value of \(\kappa\)), from \(x = 0\) to \(x = 6\). Notice that we have introduced a new parameter (\(\varepsilon\)), with the dimensions of length, so the argument in (a) is out the window. Show that the ground state energy takes the form
+
+\[ E_0 = -\frac{\hbar^2}{2m} \frac{1}{\varepsilon^2} f(\beta), \tag{2.194} \]
+
+for some function \(f\) of the dimensionless quantity \(\beta\).
+
+** ** Problem 2.61 One way to obtain the allowed energies of a potential well numerically is to turn the Schrödinger equation into a matrix equation, by discretizing the variable \(x\). Slice the relevant interval at evenly spaced points \(x_j\), with \(x_{j+1} - x_j \equiv \Delta x\), and let \(\psi_j \equiv \psi(x_j)\) (likewise \(V_j \equiv V(x_j)\)). Then
+
+\[ \frac{d\psi}{dx} \rightarrow \frac{\psi_{j+1} - \psi_j}{\Delta x}, \quad \frac{d^2\psi}{dx^2} \rightarrow \frac{\psi_{j+1} - 2\psi_j + \psi_{j-1}}{(\Delta x)^2}. \tag{2.195} \]
+
+(The approximation presumably improves as \(\Delta x\) decreases.) The discretized Schrödinger equation reads
+
+\[ -\frac{\hbar^2}{2m} \frac{\psi_{j+1} - 2\psi_j + \psi_{j-1}}{(\Delta x)^2} + V_j \psi_j = E \psi_j, \tag{2.196} \]
+
+or
+
+\[ -\lambda \psi_{j+1} + (2\lambda + V_j) \psi_j - \lambda \psi_{j-1} = E \psi_j, \quad \text{where } \lambda \equiv \frac{\hbar^2}{2m (\Delta x)^2}. \tag{2.197} \]
+
+In matrix form,
+
+\[ H \vec{\psi} = E \vec{\psi} \tag{2.198} \]
+
+where (letting \(v_j \equiv V_j / \lambda\))
+
+\[ H \equiv \lambda \begin{pmatrix} \ddots & & & & \\ & -1 & 2+v_{j-1} & -1 & 0 \\ & 0 & -1 & 2+v_j & -1 \\ & & 0 & -1 & 2+v_{j+1} & \ddots \end{pmatrix}, \tag{2.199} \]
+
+and
+
+\[ \vec{\psi} \equiv \begin{pmatrix} \vdots \\ \psi_{j-1} \\ \psi_j \\ \psi_{j+1} \\ \vdots \end{pmatrix}.
+
+\]
+
+(The boundary conditions are typically incorporated by setting \(\psi_0 = \psi_{N+1} = 0\) and truncating the matrix accordingly.) The eigenvalues of this (very large) matrix are, of course, only approximations to the true energies, but they approach the exact values as the matrix is allowed to grow. In Mathematica, the function `Eigenvectors` or `Eigenvalues` will do the job. But beware: this algorithm is not stable for very large matrices (it tends to lose precision). Nevertheless, for a reasonable number of points (say, 1000), it’s a quick and easy way to get rough eigenvalues for any potential you like. Use this method to find the ground state energy of the hydrogen atom (with the correct reduced mass), accurate to six significant digits. (For the hydrogen atom, you can take advantage of the \(1/r\) symmetry by letting \(R(r) \equiv r u(r)\), so the radial equation looks just like the one-dimensional Schrödinger equation, with an effective potential \(V_{\text{eff}} = -e^2/r + \hbar^2 l(l+1)/(2m r^2)\). Use the ground state of the nonrelativistic hydrogen atom, \(l=0\), so \(V_{\text{eff}} = -e^2/r\). Be careful about the boundary condition at the origin: \(u(0) = 0\), but \(R(0) = 0\) anyway, since the probability of finding the electron at a point is \(|R|^2 r^2 dr\).)
+
+j−1
+
+⎞
+
+⎟ (cid:4) ≡⎜ ⎜ ψ j ⎟ ⎟ (2.200)
+
+⎜ψ ⎟
+
+⎝ j+1⎠
+
+(what goes in the upper left and lower right corners of H depends on the boundary conditions, as we shall see). Evidently the allowed energies are the eigenvalues of the matrix H (or would be, in the limit δx → 0).67
+
+Apply this method to the infinite square well. Chop the interval (0 ≤ x ≤ a) into N +1 equal segments (so that δx = a/(N +1)), letting x0 ≡ 0 and xN+1 ≡ a. The boundary conditions fix ψ0 = ψN+1 = 0, leaving
+
+⎛ ⎞
+
+⎜ . ⎟
+
+(cid:4) ≡⎝ . . ⎠. (2.201)
+
+(a) Construct the N × N matrix H, for N = 1, N = 2, and N = 3. (Make sure you are correctly representing Equation 2.197 for the special cases j = 1 and j = N.)
+
+(b) Find the eigenvalues of H for these three cases “by hand,” and compare them with the exact allowed energies (Equation 2.30).
+
+(c) Using a computer (Mathematica’s Eigenvalues package will do it) find the five lowest eigenvalues numerically for N = 10 and N = 100, and compare the exact energies.
+
+(d) Plot (by hand) the eigenvectors for N = 1, 2, and 3, and (by computer, Eigenvectors) the first three eigenvectors for N = 10 and N = 100.
+
+∗∗ Problem 2.62 Suppose the bottom of the infinite square well is not flat (V(x) = 0), but rather
+
+πx (cid:2)2
+
+V(x)=500V0 sin , where V0 ≡ .
+
+a 2ma2
+
+Use the method of Problem 2.61 to find the three lowest allowed energies numerically, and plot the associated wave functions (use N = 100).
+
+Problem 2.63 The Boltzmann equation68
+
+1 1
+
+P(n)= e −βEn, Z ≡ e −βEn, β ≡ , (2.202)
+
+Z k T
+
+n B
+
+gives the probability of finding a system in the state n (with energy En), at temperature T (k B is Boltzmann’s constant). Note: The probability here refers to the random thermal distribution, and has nothing to do with quantum indeterminacy. Quantum mechanics will only enter this problem through quantization of the energies En.
+
+(a) Show that the thermal average of the system’s energy can be written as
+
+∂
+
+E ¯ = E P(n)=− ln(Z). (2.203)
+
+n ∂β
+
+67 For further discussion see Joel Franklin, Computational Methods for Physics (Cambridge University Press, Cambridge, UK, 2013), Section 10.4.2.
+
+68 See, for instance, Daniel V. Schroeder, An Introduction to Thermal Physics, Pearson, Boston (2000), Section 6.1.
+
+Further Problems on Chapter 2 89
+
+(b) For a quantum simple harmonic oscillator the index n is the familiar quantum number, and E = (n+1/2)ℏω. Show that in this case the partition function Z is
+
+−βℏω/2
+
+Z = . (2.204)
+
+1−e−βℏω
+
+You will need to sum a geometric series. Incidentally, for a classical simple harmonic oscillator it can be shown that Z classical = 2π/(ωβ).
+
+(c) Use your results from parts (a) and (b) to show that for the quantum oscillator
+
+ℏω 1+e −βℏω
+
+E ¯ = . (2.205)
+
+2 1−e−βℏω
+
+For a classical oscillator the same reasoning would give E ¯ classical = 1/β = k B T.
+
+(d) A crystal consisting of N atoms can be thought of as a collection of 3N oscillators (each atom is attached by springs to its 6 nearest neighbors, along the x, y, and z directions, but those springs are shared by the atoms at the two ends). The heat capacity of the crystal (per atom) will therefore be
+
+∂E ¯
+
+C = 3 . (2.206)
+
+∂T
+
+Show that (in this model)
+
+ℏ2 e ℏω /k B T (e ℏω /k B T )2
+
+C = 3k B (e ℏω /k B T −1 )2 , (2.207)
+
+where θ E ≡ ℏω/k B is the so-called Einstein temperature. The same reasoning using the classical expression for E ¯ yields C classical = 3k B, independent of temperature.
+
+(e) Sketch the graph of C/k B versus T/θ E. Your result should look something like the data for diamond in Figure 2.24, and nothing like the classical prediction.
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0 200 400 600 800 1000
+
+Temperature T (K)
+
+)1–K1–gJ(
+
+taeh
+
+cificepS
+
+Figure 2.24: Specific heat of diamond (for Problem 2.63). From Semiconductors on NSM (http://www.ioffe.rssi.ru/SVA/NSM/Semicond/).
+
+90 CHAPTER2 Time-Independent Schrödinger Equation
+
+Problem 2.64 Legendre’s differential equation reads
+
+d2f df
+
+1−x2 −2x +ℓ(ℓ+1) f =0, (2.208)
+
+dx2 dx
+
+where ℓ is some (non-negative) real number.
+
+(a) Assume a power series solution,
+
+∞
+
+f(x)= ∑ a n x n,
+
+n=0
+
+and obtain a recursion relation for the constants a n.
+
+(b) Argue that unless the series truncates (which can only happen if ℓ is an integer), the solution will diverge at x = 1.
+
+(c) When ℓ is an integer, the series for one of the two linearly independent solutions (either f even or f odd depending on whether ℓ is even or odd) will truncate, and those solutions are called Legendre polynomials P ℓ (x). Find P0 (x), P1 (x), P2 (x), and P3 (x) from the recursion relation. Leave your answer in terms of either a0 or a1.69
+
+69 By convention Legendre polynomials are normalized such that P ℓ (1) = 1. Note that the nonvanishing coefficients will take different values for different ℓ.
+
+## FORMALISM
+
+## 3.1 HILBERT SPACE
+
+In the previous two chapters we have stumbled on a number of interesting properties of simple quantum systems. Some of these are “accidental” features of specific potentials (the even spacing of energy levels for the harmonic oscillator, for example), but others seem to be more general, and it would be nice to prove them once and for all (the uncertainty principle, for instance, and the orthogonality of stationary states). The purpose of this chapter is to recast the theory in more powerful form, with that in mind. There is not much here that is genuinely new; the idea, rather, is to make coherent sense of what we have already discovered in particular cases.
+
+Quantum theory is based on two constructs: wave functions and operators. The state of a system is represented by its wave function, observables are represented by operators. Mathematically, wave functions satisfy the defining conditions for abstract vectors, and operators act on them as linear transformations. So the natural language of quantum mechanics is linear algebra.1
+
+But it is not, I suspect, a form of linear algebra with which you may be familiar. In an N-dimensional space it is simplest to represent a vector, |α⟩, by the N-tuple of its components, {a }, with respect to a specified orthonormal basis:
+
+⎛ ⎞
+
+⎜ ⎟
+
+⎜a 2⎟
+
+|α⟩→a=⎜ . ⎟; (3.1)
+
+⎝ . . ⎠
+
+the inner product, ⟨α|β⟩, of two vectors (generalizing the dot product in three dimensions) is a complex number,
+
+⟨α|β⟩=a 1 ∗ b1 +a 2 ∗ b2 +···+a N ∗ bN ; (3.2)
+
+linear transformations, T, are represented by matrices (with respect to the specified basis), which act on vectors (to produce new vectors) by the ordinary rules of matrix multiplication:
+
+⎛ ⎞⎛ ⎞
+
+t11 t12 ··· t1N a1
+
+|β⟩=T ˆ|α⟩→b=Ta= ⎜ ⎜ ⎜ t21 t22 ··· t2N ⎟ ⎟ ⎟ ⎜ ⎜ ⎜ a2 ⎟ ⎟ ⎟. (3.3)
+
+⎝ . . . . . . ⎠⎝ . . ⎠
+
+tN1 tN2 ··· tNN aN
+
+But the “vectors” we encounter in quantum mechanics are (for the most part) functions, and they live in infinite-dimensional spaces. For them the N-tuple/matrix notation is awkward, at best, and manipulations that are well behaved in the finite-dimensional case can be
+
+1 If you have never studied linear algebra, you should read the Appendix before continuing.
+
+92 CHAPTER3 Formalism
+
+problematic. (The underlying reason is that whereas the finite sum in Equation 3.2 always exists, an infinite sum—or an integral—may not converge, in which case the inner product does not exist, and any argument involving inner products is immediately suspect.) So even though most of the terminology and notation should be familiar, it pays to approach this subject with caution.
+
+The collection of all functions of x constitutes a vector space, but for our purposes it is much too large. To represent a possible physical state, the wave function ψ must be normalized:
+
+∫
+
+|ψ|2 dx =1.
+
+The set of all square-integrable functions, on a specified interval,2
+
+∫
+
+f(x) such that |f(x)|2 dx <∞, (3.4)
+
+constitutes a (much smaller) vector space (see Problem 3.1(a)). Mathematicians call it L2(a,b); physicists call it Hilbert space.3 In quantum mechanics, then:
+
+Wave functions live in Hilbert space. (3.5)
+
+We define the inner product of two functions, f(x) and g(x), as follows:
+
+∫
+
+⟨f|g⟩≡ f(x)∗ g(x)dx. (3.6)
+
+If f and g are both square-integrable (that is, if they are both in Hilbert space), their inner product is guaranteed to exist (the integral in Equation 3.6 converges to a finite number).4 This follows from the integral Schwarz inequality:5
+
+2 For us, the limits (a and b) will almost always be ±∞, but we might as well keep things more general for the moment.
+
+3 Technically, a Hilbert space is a complete inner product space, and the collection of square-integrable functions is only one example of a Hilbert space—indeed, every finite-dimensional vector space is trivially a Hilbert space. But since L2 is the arena of quantum mechanics, it’s what physicists generally mean when they say “Hilbert space.” By the way, the word complete here means that any Cauchy sequence of functions in Hilbert space converges to a function that is also in the space: it has no “holes” in it, just as the set of all real numbers has no holes (by contrast, the space of all polynomials, for example, like the set of all rational numbers, certainly does have holes in it). The completeness of a space has nothing to do with the completeness (same word, unfortunately) of a set of functions, which is the property that any other function can be expressed as a linear combination of them. For an accessible introduction to Hilbert spaces see Daniel T. Gillespie, A Quantum Mechanics Primer (International Textbook Company, London, 1970), Sections 2.3 and 2.4.
+
+4 In Chapter 2 we were obliged on occasion to work with functions that were not normalizable. Such functions lie outside Hilbert space, and we are going to have to handle them with special care. For the moment, I shall assume that all the functions we encounter are in Hilbert space.
+
+5 For a proof, see Frigyes Riesz and Bela Sz.-Nagy, Functional Analysis (Dover, Mineola, NY, 1990), Section 21. In a finite-dimensional vector space the Schwarz inequality, |⟨α|β⟩|2 ≤ ⟨α|α⟩⟨β|β⟩, is easy to prove (see Problem A.5). But that proof assumes the existence of the inner products, which is precisely what we are trying to establish here.
+
+## 3.1 HilbertSpace
+
+∫ b                 ∫ b ∫ b
+
+∫ a f(x)∗ g(x) dx  ∫ ≤ ∫ |f(x)|2 dx ∫ |g(x)|2 dx. (3.7)
+
+a               a
+
+You can check for yourself that definition (Equation 3.6) satisfies all the conditions for an inner product (Problem 3.1(b)). Notice in particular that
+
+⟨g|f⟩=⟨f|g⟩∗.
+
+(3.8)
+
+Moreover, the inner product of f(x) with itself,
+
+∫
+
+⟨f|f⟩= |f(x)|2dx, (3.9)
+
+is real and non-negative; it’s zero only when f(x) = 0.6
+
+A function is said to be normalized if its inner product with itself is 1; two functions are orthogonal if their inner product is 0; and a set of functions, {f }, is orthonormal if they are normalized and mutually orthogonal.
+
+normalized and mutually orthogonal:
+
+⟨f |f ⟩=δmn. (3.10)
+
+m n
+
+Finally, a set of functions is complete if any other function (in Hilbert space) can be expressed as a linear combination of them:
+
+f(x)=∞∑ cn fn(x). (3.11)
+
+n=1
+
+If the functions {fn(x)} are orthonormal, the coefficients are given by Fourier’s trick:
+
+cn=⟨fn|f⟩, (3.12)
+
+as you can check for yourself. I anticipated this terminology, of course, back in Chapter 2. (The stationary states of the infinite square well (Equation 2.31) constitute a complete orthonormal set on the interval (0,a); the stationary states for the harmonic oscillator (Equation 2.68 or 2.86) are a complete orthonormal set on the interval (−∞,∞).)
+
+Problem 3.1 (a) Show that the set of all square-integrable functions is a vector space (refer to Section A.1 for the definition). Hint: The main point is to show that the sum of two square-integrable functions is itself square-integrable. Use Equation 3.7. Is the set of all normalized functions a vector space?
+
+(b) Show that the integral in Equation 3.6 satisfies the conditions for an inner product (Section A.2).
+
+6 What about a function that is zero everywhere except at a few isolated points? The integral (Equation 3.9) would still vanish, even though the function itself does not. If this bothers you, you should have been a math major. In physics such pathological functions do not occur, but in any case, in Hilbert space two functions are considered equivalent if the integral of the absolute square of their difference vanishes. Technically, vectors in Hilbert space represent equivalence classes of functions.
+
+* Problem 3.2 (a) For what range of ν is the function f(x) = xν in Hilbert space, on the interval (0,1)? Assume ν is real, but not necessarily positive.
+
+(b) For the specific case ν = 1/2, is f(x) in this Hilbert space? What about xf(x)? How about (d/dx) f(x)?
+
+## 3.2 OBSERVABLES
+
+3.2.1 Hermitian Operators The expectation value of an observable Q(x,p) can be expressed very neatly in inner-product notation:7
+
+⟨Q⟩ = ∫ ψ* Q̂ ψ dx = ⟨ψ|Q̂|ψ⟩. (3.13)
+
+Now, the outcome of a measurement has got to be real, and so, a fortiori, is the average of many measurements:
+
+⟨Q⟩=⟨Q⟩*. (3.14)
+
+But the complex conjugate of an inner product reverses the order (Equation 3.8), so
+
+⟨ψ|Q̂|ψ⟩ = ⟨ψ|Q̂|ψ⟩*, (3.15)
+
+and this must hold true for any wavefunction ψ. Thus operators representing observables have the very special property that
+
+⟨f|Q̂|f⟩ = ⟨f|Q̂|f⟩* for all f(x). (3.16)
+
+We call such operators hermitian.8
+
+Actually, most books require an ostensibly stronger condition:
+
+⟨f|Q̂|g⟩ = ⟨g|Q̂|f⟩* for all f(x) and all g(x). (3.17)
+
+But it turns out, in spite of appearances, that this is perfectly equivalent to my definition (Equation 3.16), as you will prove in Problem 3.3. So use whichever you like. The essential point is that a hermitian operator can be applied either to the first member of an inner product or to
+
+7 Remember that Q̂ is the operator constructed from Q by the replacement p → −iℏ(d/dx). These operators are linear, in the sense that Q̂[af(x)+bg(x)] = aQ̂ f(x) + bQ̂ g(x), for any functions f and g and any complex numbers a and b. They constitute linear transformations (Section A.3) on the space of all functions. However, they sometimes carry a function inside Hilbert space into a function outside it (see Problem 3.2(b)), and in that case the domain of the operator (the set of functions on which it acts) may have to be restricted (see Problem 3.48).
+
+8 In a finite-dimensional vector space hermitian operators are represented by hermitian matrices; a hermitian matrix is equal to its transpose conjugate: T = T† = T̃*. If this is unfamiliar to you please see the Appendix.
+
+## 3.2 Observables
+
+the second, with the same result, and hermitian operators naturally arise in quantum mechanics because their expectation values are real:
+
+Observables are represented by hermitian operators. (3.18)
+
+Well, let’s check this. Is the momentum operator, for example, hermitian?
+
+⟨f|p̂|g⟩ = ∫∞−∞ f* (−iℏ) dg/dx dx = −iℏf* g |∞−∞ + ∫∞−∞ [ (−iℏ df/dx)* ] g dx = ⟨p̂ f|g⟩ . (3.19)
+
+I used integration by parts, of course, and threw away the boundary term for the usual reason: If f(x) and g(x) are square integrable, they must go to zero at ±∞.9 Notice how the complex conjugation of i compensates for the minus sign picked up from integration by parts—the operator d/dx (without the i) is not hermitian, and it does not represent a possible observable.
+
+The hermitian conjugate (or adjoint) of an operator Q̂ is the operator Q̂† such that
+
+⟨f|Q̂|g⟩ = ⟨Q̂†f|g⟩ for all f and g. (3.20)
+
+A hermitian operator, then, is equal to its hermitian conjugate: Q̂ = Q̂†.
+
+* Problem 3.3 Show that if ⟨h|Q̂|h⟩ = ⟨h|Q̂|h⟩* for all h (in Hilbert space), then ⟨f|Q̂|g⟩ = ⟨Q̂†f|g⟩ for all f and g (i.e. the two definitions of “hermitian”—Equations 3.16 and 3.17—are equivalent). Hint: First let h = f + g, and then let h = f + ig.
+
+Problem 3.4 (a) Show that the sum of two hermitian operators is hermitian.
+
+(b) Suppose Q̂ is hermitian, and α is a complex number. Under what condition (on α) is αQ̂ hermitian?
+
+(c) When is the product of two hermitian operators hermitian?
+
+(d) Show that the position operator x̂ and the Hamiltonian operator Ĥ = −(ℏ2/2m) d2/dx2 + V(x) are hermitian.
+
+* Problem 3.5 (a) Find the hermitian conjugates of x, i, and d/dx.
+
+(b) Show that (Q̂ R̂)† = R̂† Q̂† (note the reversed order), (Q̂ + R̂)† = Q̂† + R̂†, and (cQ̂)† = c* Q̂† for a complex number c.
+
+(c) Construct the hermitian conjugate of a+ (Equation 2.48).
+
+9 As I mentioned in Chapter 1, there exist pathological functions that are square-integrable but do not go to zero at infinity. However, such functions do not arise in physics, and if you are worried about it we will simply restrict the domain of our operators to exclude them. On finite intervals, though, you really do have to be more careful with the boundary terms, and an operator that is hermitian on (−∞,∞) may not be hermitian on (0,∞) or (−π,π). (If you’re wondering about the infinite square well, it’s safest to think of those wavefunctions as residing on the infinite line—they just happen to be zero outside (0,a).) See Problem 3.48.
+
+3.2.2 Determinate States Ordinarily, when you measure an observable Q on an ensemble of identically prepared systems, all in the same state ψ, you do not get the same result each time—this is the indeterminacy of quantum mechanics. Question: Would it be possible to prepare a state such that every measurement of Q is certain to return the same value (call it q)? This would be, if you like, a determinate state, for the observable Q. (Actually, we already know one example: Stationary states are determinate states of the Hamiltonian; a measurement of the energy, on a particle in the stationary state ψn, is certain to yield the corresponding “allowed” energy En.)
+
+Well, the standard deviation of Q, in a determinate state, would be zero, which is to say,
+
+σ2Q = ⟨(Q−⟨Q⟩)2⟩ = ⟨(Q̂ −q)2⟩ = ⟨(Q̂ −q)ψ|(Q̂ −q)ψ⟩ = 0. (3.21)
+
+(Of course, if every measurement gives q, their average is also q: ⟨Q⟩ = q. I used the fact that Q̂ (and hence also Q̂ −q) is a hermitian operator, to move one factor over to the first term in the inner product.) But the only vector whose inner product with itself vanishes is 0, so
+
+Q̂ψ = qψ. (3.22)
+
+This is the eigenvalue equation for the operator Q̂; ψ is an eigenfunction of Q̂, and q is the corresponding eigenvalue:
+
+Determinate states of Q are eigenfunctions of Q. (3.23)
+
+Measurement of Q on such a state is certain to yield the eigenvalue, q.10
+
+Note that the eigenvalue is a number (not an operator or a function). You can multiply any eigenfunction by a constant, and it is still an eigenfunction, with the same eigenvalue. Zero does not count as an eigenfunction (we exclude it by definition—otherwise every number would be an eigenvalue, since Q̂0 = q0 = 0 for any linear operator Q̂ and all q). But there’s nothing wrong with zero as an eigenvalue. The collection of all the eigenvalues of an operator is called its spectrum. Sometimes two (or more) linearly independent eigenfunctions share the same eigenvalue; in that case the spectrum is said to be degenerate. (You encountered this term already, for the case of energy eigenstates, if you worked Problems 2.44 or 2.46.)
+
+For example, determinate states of the total energy are eigenfunctions of the Hamiltonian:
+
+Ĥψ = Eψ, (3.24)
+
+which is precisely the time-independent Schrödinger equation. In this context we use the letter E for the eigenvalue, and the lower case ψ for the eigenfunction (tack on the wiggle factor exp[−iEt/ℏ] to make it Ψ, if you like; it’s still an eigenfunction of Ĥ).
+
+10 I’m talking about a competent measurement, of course—it’s always possible to make a mistake, and simply get the wrong answer, but that’s not the fault of quantum mechanics.
+
+Example 3.1 Consider the operator
+
+Q̂ ≡ i d/dφ, (3.25)
+
+where φ is the usual polar coordinate in two dimensions. (This operator might arise in a physical context if we were studying the bead-on-a-ring; see Problem 2.46.) Is Q̂ hermitian? Find its eigenfunctions and eigenvalues.
+
+Solution: Here we are working with functions f(φ) on the finite interval 0 ≤ φ ≤ 2π, with the property that
+
+f(φ+2π) = f(φ), (3.26)
+
+since φ and φ+2π describe the same physical point. Using integration by parts,
+
+⟨f|Q̂|g⟩ = ∫2π0 f* i dg/dφ dφ = i f* g |2π0 − ∫2π0 i df/dφ g dφ = ⟨Q̂ f|g⟩
+
+so Q̂ is hermitian (this time the boundary term disappears by virtue of Equation 3.26).
+
+The eigenvalue equation,
+
+i df/dφ = qf(φ), (3.27)
+
+has the general solution
+
+f(φ)= A e−iqφ. (3.28)
+
+Equation 3.26 restricts the possible values of the q:
+
+e−iq2π = 1 ⇒ q = 0, ±1, ±2,... . (3.29)
+
+The spectrum of this operator is the set of all integers, and it is nondegenerate.
+
+**Problem 3.6** Consider the operator \( \hat{Q} = d^2/d\phi^2 \), where (as in Example 3.1) \( \phi \) is the azimuthal angle in polar coordinates, and the functions are subject to Equation 3.26. Is \( \hat{Q} \) hermitian? Find its eigenfunctions and eigenvalues. What is the spectrum of \( \hat{Q} \)? Is the spectrum degenerate?
+
+**3.3 Eigenfunctions of a Hermitian Operator** Our attention is thus directed to the eigenfunctions of hermitian operators (physically: determinate states of observables). These fall into two categories: If the spectrum is discrete (i.e. the eigenvalues are separated from one another) then the eigenfunctions lie in Hilbert space and they constitute physically realizable states. If the spectrum is continuous (i.e. the eigenvalues fill out an entire range) then the eigenfunctions are not normalizable, and they do not represent possible wave functions (though linear combinations of them—involving necessarily a spread in eigenvalues—may be normalizable). Some operators have a discrete spectrum only (for example, the Hamiltonian for the harmonic oscillator), some have only a continuous spectrum (for example, the free-particle Hamiltonian), and some have both a discrete part and a continuous part (for example, the Hamiltonian for a finite square well). The discrete case is easier to handle, because the relevant inner products are guaranteed to exist—in fact, it is very similar to the finite-dimensional theory (the eigenvectors of a hermitian matrix). I’ll treat the discrete case first, and then the continuous one.
+
+**3.3.1 Discrete Spectra** Mathematically, the normalizable eigenfunctions of a hermitian operator have two important properties: **Theorem 1:** Their eigenvalues are real.
+
+**Proof:** Suppose \( \hat{Q}f = qf \), (i.e. \( f(x) \) is an eigenfunction of \( \hat{Q} \), with eigenvalue \( q \)), and \( \hat{Q} \) is hermitian. Then \[ \langle f | \hat{Q} f \rangle = \langle \hat{Q} f | f \rangle \]
+
+\[ q \langle f | f \rangle = q^* \langle f | f \rangle \]
+
+(\( q \) is a number, so it comes outside the integral, and because the first function in the inner product is complex conjugated (Equation 3.6), so too is the \( q \) on the right). But \( \langle f | f \rangle \) cannot be zero (\( f(x) = 0 \) is not a legal eigenfunction), so \( q = q^* \), and hence \( q \) is real. QED This is comforting: If you measure an observable on a particle in a determinate state, you will at least get a real number.
+
+**Theorem 2:** Eigenfunctions belonging to distinct eigenvalues are orthogonal.
+
+**Proof:** Suppose \( \hat{Q}f = qf \), and \( \hat{Q}g = q'g \), and \( \hat{Q} \) is hermitian. Then \( \langle f | \hat{Q} g \rangle = \langle \hat{Q} f | g \rangle \), so \[ q' \langle f | g \rangle = q^* \langle f | g \rangle \]
+
+(again, the inner products exist because the eigenfunctions are in Hilbert space). But \( q \) is real (from Theorem 1), so if \( q' \neq q \) it must be that \( \langle f | g \rangle = 0 \). QED That’s why the stationary states of the infinite square well, for example, or the harmonic oscillator, are orthogonal—they are eigenfunctions of the Hamiltonian with distinct eigenvalues. But this property is not peculiar to them, or even to the Hamiltonian—the same holds for determinate states of any observable.
+
+Unfortunately, Theorem 2 tells us nothing about degenerate states (\( q' = q \)). However, if two (or more) eigenfunctions share the same eigenvalue, any linear combination of them is itself an eigenfunction, with the same eigenvalue (Problem 3.7), and we can use the Gram–Schmidt orthogonalization procedure (Problem A.4) to construct orthogonal eigenfunctions within each degenerate subspace. It is almost never necessary to do this explicitly (thank God!), but it can always be done in principle. So even in the presence of degeneracy the eigenfunctions can be chosen to be orthonormal, and we shall always assume that this has been done. That licenses the use of Fourier’s trick, which depends on the orthonormality of the basis functions.
+
+In a finite-dimensional vector space the eigenvectors of a hermitian matrix have a third fundamental property: They span the space (every vector can be expressed as a linear combination of them). Unfortunately, the proof does not generalize to infinite-dimensional spaces. But the property itself is essential to the internal consistency of quantum mechanics so (following Dirac¹²) we will take it as an axiom (or, more precisely, as a restriction on the class of hermitian operators that can represent observables): **Axiom:** The eigenfunctions of an observable operator are complete: Any function (in Hilbert space) can be expressed as a linear combination of them.¹³
+
+**Problem 3.7** (a) Suppose that \( f(x) \) and \( g(x) \) are two eigenfunctions of an operator \( \hat{Q} \), with the same eigenvalue \( q \). Show that any linear combination of \( f \) and \( g \) is itself an eigenfunction of \( \hat{Q} \), with eigenvalue \( q \).
+
+(b) Check that \( f(x) = \exp(x) \) and \( g(x) = \exp(-x) \) are eigenfunctions of the operator \( d^2/dx^2 \), with the same eigenvalue. Construct two linear combinations of \( f \) and \( g \) that are orthogonal eigenfunctions on the interval \( (-1, 1) \).
+
+**Problem 3.8** (a) Check that the eigenvalues of the hermitian operator in Example 3.1 are real. Show that the eigenfunctions (for distinct eigenvalues) are orthogonal.
+
+(b) Do the same for the operator in Problem 3.6.
+
+**3.3.2 Continuous Spectra** If the spectrum of a hermitian operator is continuous, the eigenfunctions are not normalizable, and the proofs of Theorems 1 and 2 fail, because the inner products may not exist. Nevertheless, there is a sense in which the three essential properties (reality, orthogonality, and completeness) still hold. I think it’s best to approach this case through specific examples.
+
+**Example 3.2** Find the eigenfunctions and eigenvalues of the momentum operator (on the interval \( -\infty < x < \infty \)).
+
+**Solution:** Let \( f_p(x) \) be the eigenfunction and \( p \) the eigenvalue: \[ -i\hbar \frac{d}{dx} f_p(x) = p f_p(x). \quad (3.30) \]
+
+The general solution is \[ f_p(x) = A e^{ipx/\hbar}. \]
+
+This is not square-integrable for any (complex) value of \( p \)—the momentum operator has no eigenfunctions in Hilbert space.
+
+And yet, if we restrict ourselves to real eigenvalues, we do recover a kind of ersatz “orthonormality.” Referring to Problems 2.23(a) and 2.26, \[ \int_{-\infty}^{\infty} f_{p'}^*(x) f_p(x) dx = |A|^2 \int_{-\infty}^{\infty} e^{i(p-p')x/\hbar} dx = |A|^2 2\pi\hbar \delta(p-p'). \quad (3.31) \]
+
+If we pick \( A = 1/\sqrt{2\pi\hbar} \), so that \[ f_p(x) = \frac{1}{\sqrt{2\pi\hbar}} e^{ipx/\hbar}, \quad (3.32) \]
+
+then \[ \langle f_{p'} | f_p \rangle = \delta(p-p'), \quad (3.33) \]
+
+which is reminiscent of true orthonormality (Equation 3.10)—the indices are now continuous variables, and the Kronecker delta has become a Dirac delta, but otherwise it looks just the same. I’ll call Equation 3.33 Dirac orthonormality.
+
+Most important, the eigenfunctions (with real eigenvalues) are complete, with the sum (in Equation 3.11) replaced by an integral: Any (square-integrable) function \( f(x) \) can be written in the form \[ f(x) = \int_{-\infty}^{\infty} c(p) f_p(x) dp = \int_{-\infty}^{\infty} \frac{c(p)}{\sqrt{2\pi\hbar}} e^{ipx/\hbar} dp. \quad (3.34) \]
+
+The “coefficients” (now a function, \( c(p) \)) are obtained, as always, by Fourier’s trick: \[ \langle f_{p'} | f \rangle = \int_{-\infty}^{\infty} c(p) \langle f_{p'} | f_p \rangle dp = \int_{-\infty}^{\infty} c(p) \delta(p-p') dp = c(p'). \quad (3.35) \]
+
+Alternatively, you can get them from Plancherel’s theorem (Equation 2.103); indeed, the expansion (Equation 3.34) is nothing but a Fourier transform.
+
+The eigenfunctions of momentum (Equation 3.32) are sinusoidal, with wavelength \[ \lambda = \frac{2\pi\hbar}{p}. \quad (3.36) \]
+
+This is the old de Broglie formula (Equation 1.39), which I promised to justify at the appropriate time. It turns out to be a little more subtle than de Broglie imagined, because we now know that there is actually no such thing as a particle with determinate momentum. But we could make a normalizable wave packet with a narrow range of momenta, and it is to such an object that the de Broglie relation applies.
+
+What are we to make of Example 3.2? Although none of the eigenfunctions of \( \hat{p} \) lives in Hilbert space, a certain family of them (those with real eigenvalues) resides in the nearby “suburbs,” with a kind of quasi-normalizability. They do not represent possible physical states, but they are still very useful (as we have already seen, in our study of one-dimensional scattering).¹⁴
+
+**Example 3.3** Find the eigenfunctions and eigenvalues of the position operator.
+
+**Solution:** Let \( g_y(x) \) be the eigenfunction and \( y \) the eigenvalue: \[ \hat{x} g_y(x) = x g_y(x) = y g_y(x). \quad (3.37) \]
+
+Here \( y \) is a fixed number (for any given eigenfunction), but \( x \) is a continuous variable. What function of \( x \) has the property that multiplying it by \( x \) is the same as multiplying it by the constant \( y \)? Obviously it’s got to be zero, except at the one point \( x = y \); in fact, it is nothing but the Dirac delta function: \[ g_y(x) = A \delta(x-y). \]
+
+This time the eigenvalue has to be real; the eigenfunctions are not square integrable, but again they admit Dirac orthonormality: \[ \int_{-\infty}^{\infty} g_{y'}^*(x) g_y(x) dx = |A|^2 \int_{-\infty}^{\infty} \delta(x-y') \delta(x-y) dx = |A|^2 \delta(y-y'). \quad (3.38) \]
+
+If we pick \( A = 1 \), so \[ g_y(x) = \delta(x-y), \quad (3.39) \]
+
+then \[ \langle g_{y'} | g_y \rangle = \delta(y-y'). \quad (3.40) \]
+
+These eigenfunctions are also complete: \[ f(x) = \int_{-\infty}^{\infty} c(y) g_y(x) dy = \int_{-\infty}^{\infty} c(y) \delta(x-y) dy, \quad (3.41) \]
+
+with \[ c(y) = f(y) \quad (3.42) \]
+
+(trivial, in this case, but you can get it from Fourier’s trick if you insist).
+
+If the spectrum of a hermitian operator is continuous (so the eigenvalues are labeled by a continuous variable—\( p \) or \( y \), in the examples; \( z \), generically, in what follows), the eigenfunctions are not normalizable, they are not in Hilbert space and they do not represent possible physical states; nevertheless, the eigenfunctions with real eigenvalues are Dirac orthonormalizable and complete (with the sum replaced by an integral).
+
+--- ¹² P.A.M. Dirac, The Principles of Quantum Mechanics, Oxford University Press, New York (1958).
+
+¹³ In some specific cases completeness is provable (we know that the stationary states of the infinite square well, for example, are complete, because of Dirichlet’s theorem). It is a little awkward to call something an “axiom” that is provable in some cases, but I don’t know a better way to do it.
+
+¹⁴ What about the eigenfunctions with nonreal eigenvalues? These are not merely non-normalizable—they actually blow up at \( \pm\infty \). Functions in what I called the “suburbs” of Hilbert space (the entire metropolitan area is sometimes called a “rigged Hilbert space”; see, for example, Leslie Ballentine’s Quantum Mechanics: A Modern Development, World Scientific, 1998) are useful in part because they allow us to formalize Dirac’s notation for continuous spectra.
+
+the sum now an integral). Luckily, this is all we really require.
+
+World Scientific, 1998) have the property that although they have no (finite) inner product with themselves, they do admit inner products with all members of Hilbert space. This is not true for eigenfunctions of p̂ with nonreal eigenvalues. In particular, I showed that the momentum operator is hermitian for functions in Hilbert space, but the argument depended on dropping the boundary term (in Equation 3.19). That term is still zero if g is an eigenfunction of p̂ with a real eigenvalue (as long as f is in Hilbert space), but not if the eigenvalue has an imaginary part. In this sense any complex number is an eigenvalue of the operator p̂, but only real numbers are eigenvalues of the hermitian operator p̂ — the others lie outside the space over which p̂ is hermitian.
+
+Problem 3.9 (a) Cite a Hamiltonian from Chapter 2 (other than the harmonic oscillator) that has only a discrete spectrum.
+
+(b) Cite a Hamiltonian from Chapter 2 (other than the free particle) that has only a continuous spectrum.
+
+(c) Cite a Hamiltonian from Chapter 2 (other than the finite square well) that has both a discrete and a continuous part to its spectrum.
+
+Problem 3.10 Is the ground state of the infinite square well an eigenfunction of momentum? If so, what is its momentum? If not, why not? [For further discussion, see Problem 3.34.]
+
+## 3.4 GENERALIZED STATISTICAL INTERPRETATION
+
+In Chapter 1 I showed you how to calculate the probability that a particle would be found in a particular location, and how to determine the expectation value of any observable quantity. In Chapter 2 you learned how to find the possible outcomes of an energy measurement, and their probabilities. I am now in a position to state the generalized statistical interpretation, which subsumes all of this, and enables you to figure out the possible results of any measurement, and their probabilities. Together with the Schrödinger equation (which tells you how the wave function evolves in time) it is the foundation of quantum mechanics.
+
+Generalized statistical interpretation: If you measure an observable Q(x,p) on a particle in the state Ψ(x,t), you are certain to get one of the eigenvalues of the hermitian operator Q̂(x,−iħd/dx).15 If the spectrum of Q̂ is discrete, the probability of getting the particular eigenvalue qₙ associated with the (orthonormalized) eigenfunction fₙ(x) is |cₙ|², where cₙ = ⟨fₙ|Ψ⟩. (3.43)
+
+If the spectrum is continuous, with real eigenvalues q(z) and associated (Dirac-orthonormalized) eigenfunctions f_z(x), the probability of getting a result in the range dz is |c(z)|² dz where c(z) = ⟨f_z|Ψ⟩. (3.44)
+
+Upon measurement, the wavefunction “collapses” to the corresponding eigenstate.16 15 You may have noticed that there is an ambiguity in this prescription, if Q(x,p) involves the product xp. Because x̂ and p̂ do not commute (Equation 2.52)—whereas the classical variables x and p, of course, do—it is not clear whether we should write x̂p̂ or p̂x̂ (or perhaps some linear combination of the two). Luckily, such observables are very rare, but when they do occur some other consideration must be invoked to resolve the ambiguity.
+
+16 In the case of continuous spectra the collapse is to a narrow range about the measured value, depending on the precision of the measuring device.
+
+The statistical interpretation is radically different from anything we encounter in classical physics. A somewhat different perspective helps to make it plausible: The eigenfunctions of an observable operator are complete, so the wave function can be written as a linear combination of them: Ψ(x,t) = Σₙ cₙ(t) fₙ(x). (3.45)
+
+(For simplicity, I’ll assume that the spectrum is discrete; it’s easy to generalize this discussion to the continuous case.) Because the eigenfunctions are orthonormal, the coefficients are given by Fourier’s trick:17 cₙ(t) = ⟨fₙ|Ψ⟩ = ∫ fₙ(x)* Ψ(x,t) dx. (3.46)
+
+Qualitatively, cₙ tells you “how much fₙ is contained in Ψ,” and given that a measurement has to return one of the eigenvalues of Q, it seems reasonable that the probability of getting the particular eigenvalue qₙ would be determined by the “amount of fₙ” in Ψ. But because probabilities are determined by the absolute square of the wave function, the precise measure is actually |cₙ|². That’s the essential message of the generalized statistical interpretation.18 Of course, the total probability (summed over all possible outcomes) has got to be one: Σₙ |cₙ|² = 1, (3.47)
+
+and sure enough, this follows from the normalization of the wavefunction: 1 = ⟨Ψ|Ψ⟩ = ⟨Σₙ' cₙ' fₙ' | Σₙ'' cₙ'' fₙ''⟩ = Σₙ' Σₙ'' cₙ'* cₙ'' ⟨fₙ'|fₙ''⟩ = Σₙ' Σₙ'' cₙ'* cₙ'' δₙ'ₙ'' = Σₙ cₙ* cₙ = Σₙ |cₙ|². (3.48)
+
+Similarly, the expectation value of Q should be the sum over all possible outcomes of the eigenvalue times the probability of getting that eigenvalue: ⟨Q⟩ = Σₙ qₙ |cₙ|². (3.49)
+
+Indeed, ⟨Q⟩ = ⟨Ψ|Q̂|Ψ⟩ = ⟨Σₙ' cₙ' fₙ' | Q̂ Σₙ'' cₙ'' fₙ''⟩, (3.50)
+
+17 Notice that the time dependence—which is not at issue here—is carried by the coefficients; to make this explicit I write cₙ(t). In the special case of the Hamiltonian (Q̂ = Ĥ), when the potential energy is time independent, the coefficients are in fact constant, as we saw in Section 2.1.
+
+18 Again, I am scrupulously avoiding the all-too-common claim “|cₙ|² is the probability that the particle is in the state fₙ.” This is nonsense: The particle is in the state Ψ, period. Rather, |cₙ|² is the probability that a measurement of Q would yield the value qₙ. It is true that such a measurement will collapse the state to the eigenfunction fₙ, so one might correctly say “|cₙ|² is the probability that a particle which is now in the state Ψ will be in the state fₙ subsequent to a measurement of Q”... but that’s a quite different assertion.
+
+but Q̂ fₙ = qₙ fₙ, so ⟨Q⟩ = Σₙ' Σₙ'' cₙ'* cₙ'' qₙ'' ⟨fₙ'|fₙ''⟩ = Σₙ' Σₙ'' cₙ'* cₙ'' qₙ'' δₙ'ₙ'' = Σₙ qₙ |cₙ|². (3.51)
+
+So far, at least, everything looks consistent.
+
+Can we reproduce, in this language, the original statistical interpretation for position measurements? Sure—it’s overkill, but worth checking. A measurement of x on a particle in state Ψ must return one of the eigenvalues of the position operator. Well, in Example 3.3 we found that every (real) number y is an eigenvalue of x, and the corresponding (Dirac-orthonormalized) eigenfunction is g_y(x) = δ(x − y). Evidently c(y) = ⟨g_y|Ψ⟩ = ∫ δ(x − y) Ψ(x,t) dx = Ψ(y,t), (3.52)
+
+so the probability of getting a result in the range dy is |Ψ(y,t)|² dy, which is precisely the original statistical interpretation.
+
+What about momentum? In Example 3.2 we found the (Dirac-orthonormalized) eigenfunctions of the momentum operator, f_p(x) = (1/√(2πħ)) exp(ipx/ħ), so c(p) = ⟨f_p|Ψ⟩ = ∫ √(1/(2πħ)) e^{−ipx/ħ} Ψ(x,t) dx. (3.53)
+
+This is such an important quantity that we give it a special name and symbol: the momentum space wavefunction, Φ(p,t). It is essentially the Fourier transform of the (position space) wavefunction Ψ(x,t)—which, by Plancherel’s theorem, is its inverse Fourier transform: Φ(p,t) = ∫ √(1/(2πħ)) e^{−ipx/ħ} Ψ(x,t) dx; (3.54)
+
+Ψ(x,t) = ∫ √(1/(2πħ)) e^{ipx/ħ} Φ(p,t) dp. (3.55)
+
+According to the generalized statistical interpretation, the probability that a measurement of momentum would yield a result in the range dp is |Φ(p,t)|² dp. (3.56)
+
+Example 3.4 A particle of mass m is bound in the delta function well V(x) = −αδ(x). What is the probability that a measurement of its momentum would yield a value greater than p₀ = mα/ħ?
+
+Solution: The (position space) wavefunction is (Equation 2.132)
+
+Ψ(x,t) = √(mα/ħ²) e^{−mα|x|/ħ²} e^{−iEt/ħ} (where E = −mα²/2ħ²). The momentum space wavefunction is therefore Φ(p,t) = √(mα/ħ²) e^{−iEt/ħ} ∫_{−∞}^{∞} e^{−ipx/ħ} e^{−mα|x|/ħ²} dx = √(2/(πħ)) (mα)^{3/2} (1/(p² + p₀²)) e^{−iEt/ħ} (I looked up the integral). The probability, then, is ∫_{p₀}^{∞} |Φ(p,t)|² dp = ∫_{p₀}^{∞} (2/(πħ)) (mα)^3 (1/(p² + p₀²)²) dp = (1/π) (p₀ p/(p² + p₀²) + tan⁻¹(p/p₀)) |_{p₀}^{∞} = 1 − (1/π)(1/2 + π/4) = 1/4 − 1/(2π) = 0.0908 (again, I looked up the integral).
+
+Problem 3.11 Find the momentum-space wave function, Φ(p,t), for a particle in the ground state of the harmonic oscillator. What is the probability (to two significant digits) that a measurement of p on a particle in this state would yield a value outside the classical range (for the same energy)? Hint: Look in a math table under “Normal Distribution” or “Error Function” for the numerical part—or use Mathematica.
+
+Problem 3.12 Find Φ(p,t) for the free particle in terms of the function φ(k) introduced in Equation 2.101. Show that for the free particle |Φ(p,t)|² is independent of time.
+
+Comment: The time independence of |Φ(p,t)|² for the free particle is a manifestation of momentum conservation in this system.
+
+* Problem 3.13 Show that ⟨x⟩ = ∫ Φ* (iħ ∂/∂p) Φ dp. (3.57)
+
+Hint: Notice that x exp(ipx/ħ) = −iħ(∂/∂p) exp(ipx/ħ), and use Equation 2.147. In momentum space, then, the position operator is iħ∂/∂p. More generally, ⟨Q(x,p,t)⟩ = ∫ Ψ* Q̂(x,−iħ∂/∂x, t) Ψ dx, in position space; ⟨Q(x,p,t)⟩ = ∫ Φ* Q̂(iħ∂/∂p, p, t) Φ dp, in momentum space.
+
+(3.58)
+
+In principle you can do all calculations in momentum space just as well (though not always as easily) as in position space.
+
+## 3.5 THE UNCERTAINTY PRINCIPLE
+
+I stated the uncertainty principle (in the form σₓ σₚ ≥ ħ/2), back in Section 1.6, and you have checked it several times, in the problems. But we have never actually proved it. In this section I will prove a more general version of the uncertainty principle, and explore some of its ramifications. The argument is beautiful, but rather abstract, so watch closely.
+
+3.5.1 Proof of the Generalized Uncertainty Principle For any observable A, we have (Equation 3.21): 0 ≤ ⟨(A − ⟨A⟩)²⟩ = ⟨f|f⟩ where f = (A − ⟨A⟩)Ψ.
+
+σ² = ⟨Â - ⟨A⟩⟩(ψ)⟨Â - ⟨A⟩⟩ψ = ⟨f|f⟩ where f ≡ Â - ⟨A⟩ψ. Likewise, for any other observable, B, σ² = ⟨g|g⟩, where g ≡ B̂ - ⟨B⟩ψ.
+
+Therefore (invoking the Schwarz inequality, Equation 3.7), σ²_A σ²_B = ⟨f|f⟩⟨g|g⟩ ≥ |⟨f|g⟩|². (3.59)
+
+Now, for any complex number z, |z|² = [Re(z)]² + [Im(z)]² ≥ [Im(z)]² = (z - z*)/(2i)². (3.60)
+
+Therefore, letting z = ⟨f|g⟩, σ²_A σ²_B ≥ (⟨f|g⟩ - ⟨g|f⟩)/(2i)². (3.61)
+
+But (exploiting the hermiticity of Â - ⟨A⟩ in the first line)
+
+⟨f|g⟩ = ⟨ψ|Â - ⟨A⟩⟩(B̂ - ⟨B⟩)ψ = ⟨ψ|Â - ⟨A⟩⟩B̂ - ⟨B⟩ψ = ⟨ψ|ÂB̂ - ⟨A⟩B̂ - ⟨B⟩Â + ⟨A⟩⟨B⟩ψ = ⟨ψ|ÂB̂ψ - ⟨B⟩⟨Âψ⟩ - ⟨A⟩⟨B̂ψ⟩ + ⟨A⟩⟨B⟩⟨ψ|ψ⟩ = ⟨ÂB̂⟩ - ⟨B⟩⟨A⟩ - ⟨A⟩⟨B⟩ + ⟨A⟩⟨B⟩ = ⟨ÂB̂⟩ - ⟨A⟩⟨B⟩.
+
+(Remember, ⟨A⟩ and ⟨B⟩ are numbers, not operators, so you can write them in either order.)
+
+Similarly, ⟨g|f⟩ = ⟨B̂Â⟩ - ⟨A⟩⟨B⟩, so ⟨f|g⟩ - ⟨g|f⟩ = ⟨ÂB̂⟩ - ⟨B̂Â⟩ = ⟨[Â, B̂]⟩, where [Â, B̂] ≡ ÂB̂ - B̂Â is the commutator of the two operators (Equation 2.49). Conclusion: σ²_A σ²_B ≥ (1/2)⟨[Â, B̂]⟩². (3.62)
+
+This is the (generalized) uncertainty principle. (You might think the i makes it trivial—isn't the right side negative? No, for the commutator of two hermitian operators carries its own factor of i, and the two cancel out;¹⁹ the quantity in parentheses is real, and its square is positive.)
+
+¹⁹ More precisely, the commutator of two hermitian operators is itself anti-hermitian Q̂† = -Q̂, and its expectation value is imaginary (Problem 3.32).
+
+As an example, suppose the first observable is position Â = x̂, and the second is momentum B̂ = -iℏd/dx. We worked out their commutator back in Chapter 2 (Equation 2.52): [x̂, p̂] = iℏ.
+
+So σ²_x σ²_p ≥ (iℏ)/(2i)² = ℏ²/2, or, since standard deviations are by their nature positive, σ_x σ_p ≥ ℏ/2. (3.63)
+
+That's the original Heisenberg uncertainty principle, but we now see that it is just one application of a much more general theorem.
+
+There is, in fact, an "uncertainty principle" for every pair of observables whose operators do not commute—we call them incompatible observables. Incompatible observables do not have shared eigenfunctions—at least, they cannot have a complete set of common eigenfunctions (see Problem 3.16). By contrast, compatible (commuting) observables do admit complete sets of simultaneous eigenfunctions (that is: states that are determinate for both observables).²⁰ For example, in the hydrogen atom (as we shall see in Chapter 4) the Hamiltonian, the magnitude of the angular momentum, and the z component of angular momentum are mutually compatible observables, and we will construct simultaneous eigenfunctions of all three, labeled by their respective eigenvalues. But there is no eigenfunction of position that is also an eigenfunction of momentum; these operators are incompatible.
+
+Note that the uncertainty principle is not an extra assumption in quantum theory, but rather a consequence of the statistical interpretation. You might wonder how it is enforced in the laboratory—why can't you determine (say) both the position and the momentum of a particle?
+
+You can certainly measure the position of the particle, but the act of measurement collapses the wave function to a narrow spike, which necessarily carries a broad range of wavelengths (hence momenta) in its Fourier decomposition. If you now measure the momentum, the state will collapse to a long sinusoidal wave, with (now) a well-defined wavelength—but the parti- cle no longer has the position you got in the first measurement.²¹ The problem, then, is that the second measurement renders the outcome of the first measurement obsolete. Only if the wave function were simultaneously an eigenstate of both observables would it be possible to ²⁰ This corresponds to the fact that noncommuting matrices cannot be simultaneously diagonalized (that is, they cannot both be brought to diagonal form by the same similarity transformation), whereas commuting hermitian matrices can be simultaneously diagonalized. See Section A.5.
+
+²¹ Bohr and Heisenberg were at pains to track down the mechanism by which the measurement of x (for instance)
+
+destroys the previously existing value of p. The crux of the matter is that in order to determine the position of a particle you have to poke it with something—shine light on it, say. But these photons impart to the par- ticle a momentum you cannot control. You now know the position, but you no longer know the momentum.
+
+Bohr’s famous debates with Einstein include many delightful examples, showing in detail how experimen- tal constraints enforce the uncertainty principle. For an inspired account see Bohr’s article in Albert Einstein: Philosopher-Scientist, edited by Paul A. Schilpp, Open Court Publishing Co., Peru, IL (1970). In recent years the Bohr/Heisenberg explanation has been called into question; for a nice discussion see G. Brumfiel, Nature News https://doi.org/10.1038/nature.2012.11394.
+
+make the second measurement without disturbing the state of the particle (the second col- lapse wouldn’t change anything, in that case). But this is only possible, in general, if the two observables are compatible.
+
+* Problem 3.14 (a) Prove the following commutator identities: [Â + B̂, Ĉ] = [Â, Ĉ] + [B̂, Ĉ], (3.64)
+
+[ÂB̂, Ĉ] = Â[B̂, Ĉ] + [Â, Ĉ]B̂. (3.65)
+
+(b) Show that [xⁿ, p̂] = iℏnxⁿ⁻¹.
+
+(c) Show more generally that [f(x), p̂] = iℏ df/dx, (3.66)
+
+for any function f(x) that admits a Taylor series expansion.
+
+(d) Show that for the simple harmonic oscillator [Ĥ, â±] = ±iωâ±. (3.67)
+
+Hint: Use Equation 2.54.
+
+* Problem 3.15 Prove the famous “(your name) uncertainty principle,” relating the uncer- tainty in position (A = x) to the uncertainty in energy B = p²/2m + V: σ_x σ_H ≥ |⟨p⟩|/(2m).
+
+For stationary states this doesn’t tell you much—why not?
+
+Problem 3.16 Show that two noncommuting operators cannot have a complete set of common eigenfunctions. Hint: Show that if P̂ and Q̂ have a complete set of common eigenfunctions, then [P̂, Q̂]f = 0 for any function in Hilbert space.
+
+3.5.2 The Minimum-Uncertainty Wave Packet We have twice encountered wave functions that hit the position-momentum uncertainty limit σ_x σ_p = ℏ/2: the ground state of the harmonic oscillator (Problem 2.11) and the Gaussian wave packet for the free particle (Problem 2.21). This raises an interesting question: What is the most general minimum-uncertainty wave packet? Looking back at the proof of the uncertainty principle, we note that there were two points at which inequalities came into the argument: Equation 3.59 and Equation 3.60. Suppose we require that each of these be an equality, and see what this tells us about ψ.
+
+The Schwarz inequality becomes an equality when one function is a multiple of the other: g(x) = cf(x), for some complex number c (see Problem A.5). Meanwhile, in Equation 3.60 I threw away the real part of z; equality results if Re(z) = 0, which is to say, if Re⟨f|g⟩ = Re(c⟨f|f⟩) = 0. Now, ⟨f|f⟩ is certainly real, so this means the constant c must be pure imaginary—let’s call it ia. The necessary and sufficient condition for minimum uncertainty, then, is g(x) = iaf(x), where a is real. (3.68)
+
+For the position-momentum uncertainty principle this criterion becomes: -iℏ dψ/dx - ⟨p⟩ψ = ia(x - ⟨x⟩)ψ, (3.69)
+
+which is a differential equation for ψ as a function of x. Its general solution (see Problem 3.17) is ψ(x) = A e^{-a(x-⟨x⟩)²/(2ℏ)} e^{i⟨p⟩x/ℏ}. (3.70)
+
+Evidently the minimum-uncertainty wave packet is a gaussian—and, sure enough, the two examples we encountered earlier were gaussians.²² Problem 3.17 Solve Equation 3.69 for ψ(x). Note that ⟨x⟩ and ⟨p⟩ are constants (independent of x).
+
+3.5.3 The Energy-Time Uncertainty Principle The position-momentum uncertainty principle is often written in the form Δx Δp ≥ ℏ/2; (3.71)
+
+Δx (the “uncertainty” in x) is loose notation (and sloppy language) for the standard deviation of the results of repeated measurements on identically prepared systems.²³ Equation 3.71 is often paired with the energy-time uncertainty principle, Δt ΔE ≥ ℏ/2. (3.72)
+
+Indeed, in the context of special relativity the energy-time form might be thought of as a con- sequence of the position-momentum version, because x and t (or rather, ct) go together in the position-time four-vector, while p and E (or rather, E/c) go together in the energy-momentum four-vector. So in a relativistic theory Equation 3.72 would be a necessary concomitant to Equation 3.71. But we’re not doing relativistic quantum mechanics. The Schrödinger equation is explicitly nonrelativistic: It treats t and x on a very unequal footing (as a differential equa- tion it is first-order in t, but second-order in x), and Equation 3.72 is emphatically not implied by Equation 3.71. My purpose now is to derive the energy-time uncertainty principle, and in ²² Note that it is only the dependence of ψ on x that is at issue here—the “constants” A, a, ⟨x⟩, and ⟨p⟩ may all be functions of time, and for that matter ψ may evolve away from this form as time goes on.
+
+from the minimal form. All I’m asserting is that if, at some instant, the wavefunction is gaussian in x, then (at that instant) the uncertainty product is minimal. Many casual applications of the uncertainty principle are actually based (often inadvertently) on a completely different—and sometimes quite unjustified—measure of “uncertainty.” See J. Hilgevoord, Am. J. Phys. 70, 983 (2002).
+
+the course of that derivation to persuade you that it is really an altogether different beast, whose superficial resemblance to the position-momentum uncertainty principle is actually quite misleading.
+
+After all, position, momentum, and energy are all dynamical variables—measurable characteristics of the system, at any given time. But time itself is not a dynamical variable (not, at any rate, in a nonrelativistic theory): You don’t go out and measure the “time” of a particle, as you might its position or its energy. Time is the independent variable, of which the dynamical quantities are functions. In particular, the Δt in the energy-time uncertainty principle is not the standard deviation of a collection of time measurements; roughly speaking (I’ll make this more precise in a moment) it is the time it takes the system to change substantially.
+
+As a measure of how fast the system is changing, let us compute the time derivative of the expectation value of some observable, Q(x,p,t):
+
+⟨Q⟩ = ∫ ψ* Q̂ ψ dx = ∫ ψ* (Q̂ ψ) dx = ... [Equation continues]
+
+Now, the Schrödinger equation says
+
+iℏ ∂ψ/∂t = Ĥ ψ
+
+(where H = p²/2m + V is the Hamiltonian). So
+
+d⟨Q⟩/dt = (1/iℏ) ⟨[Ĥ, Q̂]⟩ + ⟨∂Q̂/∂t⟩.
+
+But Ĥ is hermitian, so ⟨Ĥ ψ|Q̂ ψ⟩ = ⟨ψ|Ĥ Q̂ ψ⟩, and hence
+
+d⟨Q⟩/dt = (i/ℏ) ⟨[Ĥ, Q̂]⟩ + ⟨∂Q̂/∂t⟩. (3.73)
+
+This is an interesting and useful result in its own right (see Problems 3.18 and 3.37). It has no name, though it surely deserves one; I’ll call it the generalized Ehrenfest theorem. In the typical case where the operator does not depend explicitly on time, it tells us that the rate of change of the expectation value is determined by the commutator of the operator with the Hamiltonian. In particular, if Q̂ commutes with Ĥ, then ⟨Q⟩ is constant, and in this sense Q is a conserved quantity.
+
+Now, suppose we pick A = H and B = Q in the generalized uncertainty principle (Equation 3.62), and assume that Q does not depend explicitly on t:
+
+σ²_H σ²_Q ≥ (1/2i) ⟨[Ĥ, Q̂]⟩|² = (ℏ²/4) |d⟨Q⟩/dt|².
+
+Or, more simply,
+
+σ_H σ_Q ≥ (ℏ/2) |d⟨Q⟩/dt|. (3.74)
+
+Let’s define ΔE ≡ σ_H, and
+
+Δt ≡ ΔQ / |d⟨Q⟩/dt|. (3.75)
+
+Then
+
+ΔE Δt ≥ ℏ/2, (3.76)
+
+and that’s the energy-time uncertainty principle. But notice what is meant by Δt, here: Since |d⟨Q⟩/dt| ≈ ΔQ / Δt,
+
+Δt represents the amount of time it takes the expectation value of Q to change by one standard deviation. In particular, Δt depends entirely on what observable (Q) you care to look at—the change might be rapid for one observable and slow for another. But if ΔE is small, then the rate of change of all observables must be very gradual; or, to put it the other way around, if any observable changes rapidly, the “uncertainty” in the energy must be large.
+
+Example 3.5
+
+In the extreme case of a stationary state, for which the energy is uniquely determined, all expectation values are constant in time (ΔE = 0 ⇒ Δt = ∞)—as in fact we noticed some time ago (see Equation 2.9). To make something happen you must take a linear combination of at least two stationary states—say:
+
+ψ(x,t) = a ψ₁(x) e^{-iE₁t/ℏ} + b ψ₂(x) e^{-iE₂t/ℏ}.
+
+If a, b, ψ₁, and ψ₂ are real,
+
+|ψ(x,t)|² = a²(ψ₁(x))² + b²(ψ₂(x))² + 2ab ψ₁(x) ψ₂(x) cos((E₂ - E₁)t/ℏ).
+
+The period of oscillation is τ = 2πℏ/(E₂ - E₁). Roughly speaking, ΔE = E₂ - E₁ and Δt = τ (for the exact calculation see Problem 3.20), so
+
+ΔE Δt = 2πℏ,
+
+which is indeed ≥ ℏ/2.
+
+Example 3.6
+
+Let Δt be the time it takes a free-particle wave packet to pass a particular point (Figure 3.1). Qualitatively (an exact version is explored in Problem 3.21), Δt = Δx / v = m Δx / p. But E = p²/2m, so ΔE = p Δp / m, and therefore,
+
+ΔE Δt = (p Δp / m) * (m Δx / p) = Δx Δp,
+
+which is ≥ ℏ/2 by the position-momentum uncertainty principle.
+
+[Figure 3.1: A free particle wave packet approaches the point A (Example 3.6).]
+
+Example 3.7
+
+The Δ particle lasts about 10⁻²³ s, before spontaneously disintegrating. If you make a histogram of all measurements of its mass, you get a kind of bell-shaped curve centered at 1232 MeV/c², with a width of about 120 MeV/c² (Figure 3.2). Why does the rest energy mc² sometimes come out higher than 1232, and sometimes lower? Is this experimental error? No, for if we take Δt to be the lifetime of the particle (certainly one measure of “how long it takes the system to change appreciably”),
+
+ΔE Δt = (120 MeV) * (10⁻²³ s) = 6 × 10⁻²² MeV-s,
+
+whereas ℏ/2 = 3 × 10⁻²² MeV-s. So the spread in m is about as small as the uncertainty principle allows—a particle with so short a lifetime just doesn’t have a very well-defined mass. [Figure 3.2: Measurements of the Δ mass (Example 3.7).]
+
+Notice the variety of specific meanings attaching to the term Δt in these examples: In Example 3.5 it’s a period of oscillation; in Example 3.6 it’s the time it takes a particle to pass a point; in Example 3.7 it’s the lifetime of an unstable particle. In every case, however, Δt is the time it takes for the system to undergo “substantial” change.
+
+It is often said that the uncertainty principle means energy is not strictly conserved in quantum mechanics—that you’re allowed to “borrow” energy ΔE, as long as you “pay it back” in a time Δt ≈ ℏ/(2ΔE); the greater the violation, the briefer the period over which it can occur. Now, there are many legitimate readings of the energy-time uncertainty principle, but this is not one of them. Nowhere does quantum mechanics license violation of energy conservation, and certainly no such authorization entered into the derivation of Equation 3.76. But the uncertainty principle is extraordinarily robust: It can be misused without leading to seriously incorrect results, and as a consequence physicists are in the habit of applying it rather carelessly.
+
+* Problem 3.18 Apply Equation 3.73 to the following special cases: (a) Q = 1; (b) Q = H; (c) Q = x; (d) Q = p. In each case, comment on the result, with particular reference to Equations 1.27, 1.33, 1.38, and conservation of energy (see remarks following Equation 2.21).
+
+Problem 3.19 Use Equation 3.73 (or Problem 3.18(c) and (d)) to show that: (a) For any (normalized) wave packet representing a free particle (V(x)=0), ⟨x⟩ moves at constant velocity (this is the quantum analog to Newton’s first law). Note: You showed this for a gaussian wave packet in Problem 2.42, but it is completely general.
+
+(b) For any (normalized) wave packet representing a particle in the harmonic oscillator potential V(x)= (1/2)mω²x², ⟨x⟩ oscillates at the classical frequency. Note: You showed this for a particular gaussian wave packet in Problem 2.49, but it is completely general.
+
+Problem 3.20 Test the energy-time uncertainty principle for the wave function in Problem 2.5 and the observable x, by calculating σ_H, σ_x, and d⟨x⟩/dt exactly.
+
+Problem 3.21 Test the energy-time uncertainty principle for the free particle wave packet in Problem 2.42 and the observable x, by calculating σ_H, σ_x, and d⟨x⟩/dt exactly.
+
+Problem 3.22 Show that the energy-time uncertainty principle reduces to the “your name” uncertainty principle (Problem 3.15), when the observable in question is x.
+
+## 3.6 VECTORS AND OPERATORS
+
+3.6.1 Bases in Hilbert Space
+
+Imagine an ordinary vector A in two dimensions (Fig. 3.3(a)). How would you describe this vector to someone? You might tell them “It’s about an inch long, and it points 20° clockwise from straight up, with respect to the page.” But that’s pretty awkward. A better way would be to introduce cartesian axes, x and y, and specify the components of A: A_x = î·A, A_y = ĵ·A (Fig. 3.3(b)). Of course, your sister might draw a different set of axes, x′ and y′, and she would report different components: A_{x′} = î′·A, A_{y′} = ĵ′·A (Fig. 3.3(c)) ... but it’s all the same vector—we’re simply expressing it with respect to two different bases {î, ĵ} and {î′, ĵ′}. The vector itself lives “out there in space,” independent of anybody’s (arbitrary) choice of coordinates.
+
+The same is true for the state of a system in quantum mechanics. It is represented by a vector, |S⟩...
+
+|S(t)⟩ lives “out there in Hilbert space,” but we can express it with respect to any number of different bases. The wave function ψ(x,t) is actually the x “component” in the expansion of |S(t)⟩ in the basis of position eigenfunctions: ψ(x,t) = ⟨x|S(t)⟩, (3.77)
+
+(the analog to ıˆ · A) with |x⟩ standing for the eigenfunction of x̂ with eigenvalue x. The momentum space wave function φ(p,t) is the p component in the expansion of |S(t)⟩ in the basis of momentum eigenfunctions: φ(p,t) = ⟨p|S(t)⟩ (3.78)
+
+(with |p⟩ standing for the eigenfunction of p̂ with eigenvalue p). Or we could expand |S(t)⟩ in the basis of energy eigenfunctions (supposing for simplicity that the spectrum is discrete): c_n(t) = ⟨n|S(t)⟩ (3.79)
+
+(with |n⟩ standing for the nth eigenfunction of Ĥ — Equation 3.46). But it’s all the same state; the functions ψ and φ, and the collection of coefficients {c_n}, contain exactly the same information—they are simply three different ways of identifying the same vector: |S(t)⟩ → ∫ ψ(y,t) δ(x − y) dy = ∫ φ(p,t) e^{ipx/ℏ}/√{2πℏ} dp = ∑_n c_n e^{-iE_nt/ℏ} ψ_n(x). (3.80)
+
+Operators (representing observables) are linear transformations on Hilbert space—they “transform” one vector into another: |β⟩ = Q̂ |α⟩. (3.81)
+
+Just as vectors are represented, with respect to an orthonormal basis {|e_n⟩}, by their components, |α⟩ = ∑_n a_n |e_n⟩, |β⟩ = ∑_n b_n |e_n⟩, a_n = ⟨e_n|α⟩, b_n = ⟨e_n|β⟩, (3.82)
+
+operators are represented (with respect to a particular basis) by their matrix elements ⟨e_m| Q̂ |e_n⟩ ≡ Q_{mn}. (3.83)
+
+In this notation Equation 3.81 says ∑_n b_n |e_n⟩ = ∑_n a_n Q̂ |e_n⟩, (3.84)
+
+or, taking the inner product with |e_m⟩, ∑_n b_n ⟨e_m|e_n⟩ = ∑_n a_n ⟨e_m| Q̂ |e_n⟩, (3.85)
+
+and hence (since ⟨e_m|e_n⟩ = δ_{mn})
+
+b_m = ∑_n Q_{mn} a_n. (3.86)
+
+Thus the matrix elements of Q̂ tell you how the components transform.
+
+Later on we will encounter systems that admit only a finite number N of linearly independent states. In that case |S(t)⟩ lives in an N-dimensional vector space; it can be represented as a column of (N) components (with respect to a given basis), and operators take the form of ordinary (N × N) matrices. These are the simplest quantum systems—none of the subtleties associated with infinite-dimensional vector spaces arise. Easiest of all is the two-state system, which we explore in the following example.
+
+Example 3.8 Imagine a system in which there are just two linearly independent states: |1⟩ = (1, 0)^T and |2⟩ = (0, 1)^T.
+
+The most general state is a normalized linear combination: |S⟩ = a|1⟩ + b|2⟩ = (a, b)^T, with |a|^2 + |b|^2 = 1.
+
+The Hamiltonian can be expressed as a (hermitian) matrix (Equation 3.83); suppose it has the specific form H = ( h g; g h ), where g and h are real constants. If the system starts out (at t = 0) in state |1⟩, what is its state at time t?
+
+Solution: The (time-dependent) Schrödinger equation says iℏ d/dt |S(t)⟩ = Ĥ|S(t)⟩. (3.87)
+
+As always, we begin by solving the time-independent Schrödinger equation: Ĥ|s⟩ = E|s⟩; (3.88)
+
+that is, we look for the eigenvectors and eigenvalues of H. The characteristic equation determines the eigenvalues: det( h−E g; g h−E ) = (h−E)^2 − g^2 = 0 ⇒ h−E = ∓g ⇒ E_± = h ± g.
+
+Evidently the allowed energies are (h + g) and (h − g). To determine the eigenvectors, we write ( h g; g h ) (α; β) = (h ± g) (α; β) ⇒ hα + gβ = (h ± g)α ⇒ β = ±α, so the normalized eigenvectors are |s_±⟩ = (1/√2) (1; ±1).
+
+Next we expand the initial state as a linear combination of eigenvectors of the Hamiltonian: |S(0)⟩ = (1; 0) = (1/√2) (|s_+⟩ + |s_−⟩).
+
+Finally, we tack on the standard time-dependence (the wiggle factor) exp(−iE_± t/ℏ): |S(t)⟩ = (1/√2) ( e^{-i(h+g)t/ℏ} |s_+⟩ + e^{-i(h−g)t/ℏ} |s_−⟩ )
+
+= (1/2) e^{-iht/ℏ} ( e^{-igt/ℏ} + e^{igt/ℏ} 1; e^{-igt/ℏ} − e^{igt/ℏ} −1 )
+
+= (1/2) e^{-iht/ℏ} ( e^{-igt/ℏ} + e^{igt/ℏ} e^{-igt/ℏ} − e^{igt/ℏ} ) = e^{-iht/ℏ} ( cos(gt/ℏ) −i sin(gt/ℏ) ).
+
+If you doubt this result, by all means check it: Does it satisfy the time-dependent Schrödinger equation (Equation 3.87)? Does it match the initial state when t = 0?
+
+Just as vectors look different when expressed in different bases, so too do operators (or, in the discrete case, the matrices that represent them). We have already encountered a particularly nice example: x̂ (the position operator) → x (in position space); iℏ∂/∂p (in momentum space); p̂ (the momentum operator) → −iℏ∂/∂x (in position space); p (in momentum space).
+
+(“Position space” is nothing but the position basis; “momentum space” is the momentum basis.) If someone asked you, “What is the operator, x̂, representing position, in quantum mechanics?” you would probably answer “Just x itself.” But an equally correct reply would be “iℏ∂/∂p,” and the best response would be “With respect to what basis?” I have often said “the state of a system is represented by its wave function, ψ(x,t),” and this is true, in the same sense that an ordinary vector in three dimensions is “represented by” the triplet of its components; but really, I should always add “in the position basis.” After all, the state of the system is a vector in Hilbert space, |S(t)⟩; it makes no reference to any particular basis. Its connection to ψ(x,t) is given by Equation 3.77: ψ(x,t) = ⟨x|S(t)⟩. Having said that, for the most part we do in fact work in position space, and no serious harm comes from referring to the wave function as “the state of the system.” 3.6.2 Dirac Notation Dirac proposed to chop the bracket notation for the inner product, ⟨α|β⟩, into two pieces, which he called bra, ⟨α|, and ket, |β⟩ (I don’t know what happened to the c). The latter is a vector, but what exactly is the former? It’s a linear function of vectors, in the sense that when it hits a vector (to its right) it yields a (complex) number—the inner product. (When an operator hits a vector, it delivers another vector; when a bra hits a vector, it delivers a number.) In a function space, the bra can be thought of as an instruction to integrate: ⟨f| = ∫ f^* [···] dx, with the ellipsis [···] waiting to be filled by whatever function the bra encounters in the ket to its right. In a finite-dimensional vector space, with the kets expressed as columns (of components with respect to some basis), |α⟩ → ( a1; a2; ...; an ), (3.89)
+
+the bras are rows: ⟨β| → ( b1^* b2^* ... bn^* ), (3.90)
+
+and ⟨β|α⟩ = b1^* a1 + b2^* a2 + ··· + bn^* an is the matrix product. The collection of all bras constitutes another vector space—the so-called dual space.
+
+The license to treat bras as separate entities in their own right allows for some powerful and pretty notation. For example, if |α⟩ is a normalized vector, the operator P̂ ≡ |α⟩⟨α| (3.91)
+
+picks out the portion of any other vector that “lies along” |α⟩: P̂|β⟩ = (⟨α|β⟩) |α⟩; we call it the projection operator onto the one-dimensional subspace spanned by |α⟩. If {|e_n⟩} is a discrete orthonormal basis, ⟨e_m|e_n⟩ = δ_{mn}, (3.92)
+
+then ∑_n |e_n⟩⟨e_n| = 1 (3.93)
+
+(the identity operator). For if we let this operator act on any vector |α⟩, we recover the expansion of |α⟩ in the {|e_n⟩} basis: ∑_n (⟨e_n|α⟩) |e_n⟩ = |α⟩. (3.94)
+
+Similarly, if {|e_z⟩} is a Dirac orthonormalized continuous basis, ⟨e_{z'}|e_z⟩ = δ(z' − z), (3.95)
+
+then ∫ |e_z⟩⟨e_z| dz = 1. (3.96)
+
+Equations 3.93 and 3.96 are the tidiest ways to express completeness.
+
+Technically, the guts of a ket or a bra (the ellipsis in |···⟩ or ⟨···|) is a name—the name of the vector in question: “α,” or “n,” or for that matter “Alice,” or “Bob.” It is endowed with no intrinsic mathematical attributes. Of course, it may be helpful to choose an evocative name—for instance, if you’re working in the space L2 of square-integrable functions, it is natural to name each vector after the function it represents: |f⟩. Then, for example, we can write the definition of a hermitian operator as we did in Equation 3.17: ⟨f| Q̂ f⟩ = ⟨ Q̂ f|f⟩.
+
+Strictly speaking, in Dirac notation this is a nonsense expression: f here 算子作用于向量，而非名称。左侧应正确写为 \( \langle 0| \hat{Q} normalized eigenstates φ1 and φ2, with eigenvalues b1 and b2. The eigenstates are related by ψ1 = (3φ1 + 4φ2)/5, ψ2 = (4φ1 - 3φ2)/5.
+
+(a) Observable A is measured, and the value a is obtained. What is the state of the system (immediately) after this measurement?
+
+(b) If B is now measured, what are the possible results, and what are their probabilities?
+
+(c) Right after the measurement of B, A is measured again. What is the probability of getting a? (Note that the answer would be quite different if I had told you the outcome of the B measurement.)
+
+∗∗∗ Problem 3.34 (a) Find the momentum-space wave function ψ(p,t) for the nth stationary state of the infinite square well.
+
+(b) Find the probability density |ψ(p,t)|^2. Graph this function, for n = 1, n = 2, n = 5, and n = 10. What are the most probable values of p, for large n? Is this what you would have expected?^40 Compare your answer to Problem 3.10.
+
+(c) Use ψ(p,t) to calculate the expectation value of p^2, in the nth state. Compare your answer to Problem 2.4.
+
+39 Legendre didn't know what the best convention would be; he picked the overall factor so that all his functions would go to 1 at x=1, and we're stuck with his unfortunate choice.
+
+40 See F. L. Markley, Am. J. Phys. 40, 1545 (1972).
+
+Problem 3.35 Consider the wave function ψ(x,0) = { √(1/(2nλ)) e^{i2πx/λ},   -nλ < x < nλ, { 0,                       otherwise, where n is some positive integer. This function is purely sinusoidal (with wavelength λ) on the interval -nλ < x < nλ, but it still carries a range of momenta, because the oscillations do not continue out to infinity. Find the momentum-space wave function ψ(p,0). Sketch the graphs of |ψ(x,0)|^2 and |ψ(p,0)|^2, and determine their widths, w_x and w_p (the distance between zeros on either side of the main peak). Note what happens to each width as n → ∞. Using w_x and w_p as estimates of Δx and Δp, check that the uncertainty principle is satisfied. Warning: If you try calculating σ_x, you're in for a rude surprise. Can you diagnose the problem?
+
+Problem 3.36 Suppose ψ(x,0) = A/(x^2 + a^2), (-∞ < x < ∞)
+
+for constants A and a.
+
+(a) Determine A, by normalizing ψ(x,0).
+
+(b) Find <x>, <x^2>, and σ_x (at time t = 0).
+
+(c) Find the momentum-space wave function ψ(p,0), and check that it is normalized.
+
+(d) Use ψ(p,0) to calculate <p>, <p^2>, and σ_p (at time t = 0).
+
+(e) Check the Heisenberg uncertainty principle for this state.
+
+∗ Problem 3.37 Virial theorem. Use Equation 3.73 to show that d/dt <xp> = 2<T> - x (dV/dx),   (3.112)
+
+where T is the kinetic energy (H = T + V). In a stationary state the left side is zero (why?) so 2<T> = <x (dV/dx)>.   (3.113)
+
+This is called the virial theorem. Use it to prove that <T> = <V> for stationary states of the harmonic oscillator, and check that this is consistent with the results you got in Problems 2.11 and 2.12.
+
+Problem 3.38 In an interesting version of the energy-time uncertainty principle^41 Δt = τ/π, where τ is the time it takes ψ(x,t) to evolve into a state orthogonal to ψ(x,0). Test this out, using a wave function that is a linear combination of two (orthonormal) stationary states of some (arbitrary) potential: ψ(x,0) = (1/√2) [ψ1(x) + ψ2(x)].
+
+41 See L. Vaidman, Am. J. Phys. 60, 182 (1992) for a proof.
+
+∗∗ Problem 3.39 Find the matrix elements <n|x|n'> and <n|p|n'> in the (orthonormal) basis of stationary states for the harmonic oscillator (Equation 2.68). You already calculated the "diagonal" elements n = n' in Problem 2.12; use the same technique for the general case. Construct the corresponding (infinite) matrices, X and P. Show that (1/2m)P^2 + (mω^2/2)X^2 = H is diagonal, in this basis. Are its diagonal elements what you would expect? Partial answer: <n|x|n'> = √(ℏ/(2mω)) [√n' δ_{n,n'-1} + √n δ_{n',n-1}].   (3.114)
+
+∗∗ Problem 3.40 The most general wave function of a particle in the simple harmonic oscillator potential is ψ(x,t) = Σ c_n ψ_n(x) e^{-iE_n t/ℏ}.
+
+Show that the expectation value of position is <x> = C cos(ωt - φ), where the real constants C and φ are given by C e^{-iφ} = √(2ℏ/(mω)) Σ_{n=0}^∞ √(n+1) c_{n+1}^* c_n.
+
+Thus the expectation value of position for a particle in the harmonic oscillator oscillates at the classical frequency ω (as you would expect from Ehrenfest's theorem; see Problem 3.19(b)). Hint: Use Equation 3.114. As an example, find C and φ for the wave function in Problem 2.40.
+
+Problem 3.41 A harmonic oscillator is in a state such that a measurement of the energy would yield either (1/2)ℏω or (3/2)ℏω, with equal probability. What is the largest possible value of <p> in such a state? If it assumes this maximal value at time t = 0, what is ψ(x,t)?
+
+∗∗∗ Problem 3.42 Coherent states of the harmonic oscillator. Among the stationary states of the harmonic oscillator (Equation 2.68) only n = 0 hits the uncertainty limit σ_x σ_p = ℏ/2; in general, σ_x σ_p = (2n+1)ℏ/2, as you found in Problem 2.12. But certain linear combinations (known as coherent states) also minimize the uncertainty product. They are (as it turns out) eigenfunctions of the lowering operator:^42 a_- |α> = α |α> (the eigenvalue α can be any complex number).
+
+42 There are no normalizable eigenfunctions of the raising operator.
+
+(a) Calculate <x>, <x^2>, <p>, <p^2> in the state |α>. Hint: Use the technique in Example 2.5, and remember that a_+ is the hermitian conjugate of a_-. Do not assume α is real.
+
+(b) Find σ_x and σ_p; show that σ_x σ_p = ℏ/2.
+
+(c) Like any other wave function, a coherent state can be expanded in terms of energy eigenstates: |α> = Σ c_n |n>.
+
+Show that the expansion coefficients are c_n = (α^n / √(n!)) c_0.
+
+(d) Determine c_0 by normalizing |α>. Answer: exp(-|α|^2/2).
+
+(e) Now put in the time dependence: |n> → e^{-iE_n t/ℏ} |n>, and show that |α(t)> remains an eigenstate of a_-, but the eigenvalue evolves in time: α(t) = e^{-iωt} α.
+
+So a coherent state stays coherent, and continues to minimize the uncertainty product.
+
+(f) Based on your answers to (a), (b), and (e), find <x> and σ_x as functions of time. It helps if you write the complex number α as α = √(mω/(2ℏ)) C e^{iφ} for real numbers C and φ. Comment: In a sense, coherent states behave quasi-classically.
+
+(g) Is the ground state (|n = 0>) itself a coherent state? If so, what is the eigenvalue?
+
+Problem 3.43 Extended uncertainty principle.^43 The generalized uncertainty principle (Equation 3.62) states that σ_A^2 σ_B^2 ≥ <C>^2 / 4, where Ĉ ≡ -i[Â, B̂].
+
+(a) Show that it can be strengthened to read σ_A^2 σ_B^2 ≥ (<C>^2 + <D>^2) / 4,   (3.115)
+
+where D̂ ≡ Â B̂ + B̂ Â - 2<Â><B̂>. Hint: Keep the Re(z) term in Equation 3.60.
+
+(b) Check Equation 3.115 for the case B = A (the standard uncertainty principle is trivial, in this case, since Ĉ = 0; unfortunately, the extended uncertainty principle doesn't help much either).
+
+43 For interesting commentary and references, see R. R. Puri, Phys. Rev. A 49, 2178 (1994).
+
+Problem 3.44 The Hamiltonian for a certain three-level system is represented by the matrix H = ( a   0   b )
+
+( 0   c   0 )
+
+( b   0   a ), where a, b, and c are real numbers.
+
+(a) If the system starts out in the state |S(0)> = ( 1 )
+
+( 0 )
+
+( 0 ), what is |S(t)>?
+
+(b) If the system starts out in the state |S(0)> = ( 0 )
+
+( 1 )
+
+( 0 ), what is |S(t)>?
+
+Problem 3.45 Find the position operator in the basis of simple harmonic oscillator energy states. That is, express < x̂ S(t) > in terms of c_n(t) = <n|S(t)>. Hint: Use Equation 3.114.
+
+Problem 3.46 The Hamiltonian for a certain three-level system is represented by the matrix H = ℏω ( 1   0   0 )
+
+( 0   2   0 )
+
+( 0   0   2 ).
+
+Two other observables, A and B, are represented by the matrices A = λ ( 0   1   0 ),   B = μ ( 2   0   0 )
+
+( 1   0   0 )         ( 0   0   1 )
+
+( 0   0   2 )         ( 0   1   0 )
+
+where ω, λ, and μ are positive real numbers.
+
+(a) Find the eigenvalues and (normalized) eigenvectors of H, A, and B.
+
+(b) Suppose the system starts out in the generic state |S(0)> = ( c1 )
+
+( c2 )
+
+( c3 ), with |c1|^2 + |c2|^2 + |c3|^2 = 1. Find the expectation values (at t = 0) of H, A, and B.
+
+(c) What is |S(t)>? If you measured the energy of this state (at time t), what values might you get, and what is the probability of each? Answer the same questions for observables A and for B.
+
+∗∗ Problem 3.47 Supersymmetry. Consider the two operators Â = i√(ℏ/(2m)) p̂ + W(x) and Â† = -i√(ℏ/(2m)) p̂ + W(x),   (3.116)
+
+for some function W(x). These may be multiplied in either order to construct two Hamiltonians: Ĥ₁ ≡ Â† Â = (p̂^2)/(2m) + V₁(x) and Ĥ₂ ≡ Â Â† = (p̂^2)/(2m) + V₂(x);   (3.117)
+
+V₁ and V₂ are called supersymmetric partner potentials. The energies and eigenstates of Ĥ₁ and Ĥ₂ are related in interesting ways.^44 (a) Find the potentials V₁(x) and V₂(x), in terms of the superpotential, W(x).
+
+(b) Show that if ψ_n^{(1)} is an eigenstate of Ĥ₁ with eigenvalue E_n^{(1)}, then Â ψ_n^{(1)} is an eigenstate of Ĥ₂ with the same eigenvalue. Similarly, show that if ψ_n^{(2)}(x) is an eigenstate of Ĥ₂ with eigenvalue E_n^{(2)}, then Â† ψ_n^{(2)} is an eigenstate of Ĥ₁ with the same eigenvalue. The two Hamiltonians therefore have essentially identical spectra.
+
+(c) One ordinarily chooses W(x) such that the ground state of Ĥ₁ satisfies Â ψ_0^{(1)}(x) = 0,   (3.118)
+
+and hence E_0^{(1)} = 0. Use this to find the superpotential W(x), in terms of the ground state wave function, ψ_0^{(1)}(x). (The fact that Â annihilates ψ_0^{(1)} means that Ĥ₂ actually has one less eigenstate than Ĥ₁, and is missing the eigenvalue E_0^{(1)}.)
+
+(d) Consider the Dirac delta function well, V₁(x) = (mα^2)/(2ℏ^2) - α δ(x),   (3.119)
+
+(the constant term, mα^2/(2ℏ^2), is included so that E_0^{(1)} = 0). It has a single bound state (Equation 2.132)
+
+ψ_0^{(1)}(x) = (√(mα)/ℏ) exp(-(mα/ℏ^2) |x|).   (3.120)
+
+Use the results of parts (a) and (c), and Problem 2.23(b), to determine the superpotential W(x) and the partner potential V₂(x). This partner potential is one that you will likely recognize, and while it has no bound states, the supersymmetry...
+
+between these two systems explains the fact that their reflection and transmission coefficients are identical (see the last paragraph of Section 2.5.2).
+
+Problem 3.48 An operator is defined not just by its action (what it does to the vector it is applied to) but its domain (the set of vectors on which it acts). In a finite-dimensional vector space the domain is the entire space, and we don’t need to worry about it. But for most operators in Hilbert space the domain is restricted. In particular, only functions such that \(\hat{Q} f(x)\) remains in Hilbert space are allowed in the domain of \(\hat{Q}\). (As you found in Problem 3.2, the derivative operator can knock a function out of \(L^2\).) A hermitian operator is one whose action is the same as that of its adjoint (Problem 3.5). But what is required to represent observables is actually something more: the domains of \(\hat{Q}\) and \(\hat{Q}^\dagger\) must also be identical. Such operators are called self-adjoint.
+
+(a) Consider the momentum operator, \(\hat{p} = -i\hbar \, d/dx\), on the finite interval \(0 \le x \le a\). With the infinite square well in mind, we might define its domain as the set of functions \(f(x)\) such that \(f(0) = f(a) = 0\) (it goes without saying that \(f(x)\) and \(\hat{p} f(x)\) are in \(L^2(0,a)\)). Show that \(\hat{p}\) is hermitian: \(\langle g | \hat{p} f \rangle = \langle \hat{p}^\dagger g | f \rangle\), with \(\hat{p}^\dagger = \hat{p}\). But is it self-adjoint? Hint: as long as \(f(0) = f(a) = 0\), there is no restriction on \(g(0)\) or \(g(a)\)—the domain of \(\hat{p}^\dagger\) is much larger than the domain of \(\hat{p}\).
+
+(b) Suppose we extend the domain of \(\hat{p}\) to include all functions of the form \(f(a) = \lambda f(0)\), for some fixed complex number \(\lambda\). What condition must we then impose on the domain of \(\hat{p}^\dagger\) in order that \(\hat{p}\) be hermitian? What value(s) of \(\lambda\) will render \(\hat{p}\) self-adjoint? Comment: Technically, then, there is no momentum operator on the finite interval—or rather, there are infinitely many, and no way to decide which of them is “correct.” (In Problem 3.34 we avoided the issue by working on the infinite interval.)
+
+(c) What about the semi-infinite interval, \(0 \le x < \infty\)? Is there a self-adjoint momentum operator in this case?
+
+Problem 3.49
+
+(a) Write down the time-dependent “Schrödinger equation” in momentum space, for a free particle, and solve it. Answer: \(\Phi(p,t) = e^{-ip^2 t/2m\hbar} \Phi(p,0)\).
+
+(b) Find \(\Phi(p,0)\) for the traveling Gaussian wave packet (Problem 2.42), and construct \(\Phi(p,t)\) for this case. Also construct \(|\Phi(p,t)|^2\), and note that it is independent of time.
+
+(c) Calculate \(\langle p \rangle\) and \(\langle p^2 \rangle\) by evaluating the appropriate integrals involving \(\Phi\), and compare your answers to Problem 2.42.
+
+(d) Show that \(\langle H \rangle = \langle p \rangle^2/2m + \langle H \rangle_0\) (where the subscript 0 denotes the stationary Gaussian), and comment on this result.
+
+45 Mathematicians call them “symmetric” operators.
+
+46 Because the distinction rarely intrudes, physicists tend to use the word “hermitian” indiscriminately; technically, we should always say “self-adjoint,” meaning \(\hat{Q} = \hat{Q}^\dagger\) both in action and in domain.
+
+47 The domain of \(\hat{Q}\) is something we stipulate; that determines the domain of \(\hat{Q}^\dagger\).
+
+48 J. von Neumann introduced machinery for generating self-adjoint extensions of hermitian operators—or in some cases proving that they cannot exist. For an accessible introduction see G. Bonneau, J. Faraut, and B. Valent, Am. J. Phys. 69, 322 (2001); for an interesting application see M. T. Ahari, G. Ortiz, and B. Seradjeh, Am. J. Phys. 84, 858 (2016).
+
+The generalization to three dimensions is straightforward. Schrödinger’s equation says
+
+\[ i\hbar \frac{\partial \Psi}{\partial t} = \hat{H} \Psi; \] (4.1)
+
+the Hamiltonian operator \(\hat{H}\) is obtained from the classical energy
+
+\[ \frac{1}{2} m v^2 + V = \frac{p_x^2 + p_y^2 + p_z^2}{2m} + V \]
+
+by the standard prescription (applied now to \(y\) and \(z\), as well as \(x\)):
+
+\[ p_x \to -i\hbar \frac{\partial}{\partial x}, \quad p_y \to -i\hbar \frac{\partial}{\partial y}, \quad p_z \to -i\hbar \frac{\partial}{\partial z}, \] (4.2)
+
+or
+
+\[ \mathbf{p} \to -i\hbar \nabla, \] (4.3)
+
+for short. Thus
+
+\[ i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m} \nabla^2 \Psi + V \Psi, \] (4.4)
+
+where
+
+\[ \nabla^2 \equiv \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}, \] (4.5)
+
+is the Laplacian, in cartesian coordinates.
+
+The potential energy \(V\) and the wave function \(\Psi\) are now functions of \(\mathbf{r} = (x,y,z)\) and \(t\). The probability of finding the particle in the infinitesimal volume \(d^3\mathbf{r} = dx \, dy \, dz\) is \(|\Psi(\mathbf{r},t)|^2 d^3\mathbf{r}\), and the normalization condition reads
+
+\[ \int |\Psi|^2 d^3\mathbf{r} = 1, \] (4.6)
+
+with the integral taken over all space. If \(V\) is independent of time, there will be a complete set of stationary states,
+
+\[ \Psi_n(\mathbf{r},t) = \psi_n(\mathbf{r}) e^{-i E_n t / \hbar}, \] (4.7)
+
+where the spatial wave function \(\psi_n\) satisfies the time-independent Schrödinger equation:
+
+\[ -\frac{\hbar^2}{2m} \nabla^2 \psi_n + V \psi_n = E_n \psi_n. \] (4.8)
+
+The general solution to the (time-dependent) Schrödinger equation is
+
+\[ \Psi(\mathbf{r},t) = \sum_n c_n \psi_n(\mathbf{r}) e^{-i E_n t / \hbar}, \] (4.9)
+
+with the constants \(c_n\) determined by the initial wave function, \(\Psi(\mathbf{r},0)\), in the usual way. (If the potential admits continuum states, then the sum in Equation 4.9 becomes an integral.)
+
+Problem 4.1
+
+(a) Work out all of the canonical commutation relations for components of the operators \(\mathbf{r}\) and \(\mathbf{p}\): \([x,y]\), \([x,p_x]\), \([x,p_y]\), \([p_x,p_y]\), and so on. Answer:
+
+\[ [\mathbf{r}_i, \mathbf{p}_j] = -[\mathbf{p}_j, \mathbf{r}_i] = i\hbar \delta_{ij}, \quad [\mathbf{r}_i, \mathbf{r}_j] = [\mathbf{p}_i, \mathbf{p}_j] = 0, \] (4.10)
+
+where the indices stand for \(x\), \(y\), or \(z\), and \(\mathbf{r}_x = x\), \(\mathbf{r}_y = y\), and \(\mathbf{r}_z = z\).
+
+(b) Confirm the three-dimensional version of Ehrenfest’s theorem,
+
+\[ \frac{d\langle \mathbf{r} \rangle}{dt} = \frac{\langle \mathbf{p} \rangle}{m}, \quad \text{and} \quad \frac{d\langle \mathbf{p} \rangle}{dt} = \langle -\nabla V \rangle. \] (4.11)
+
+(Each of these, of course, stands for three equations—one for each component.) Hint: First check that the “generalized” Ehrenfest theorem, Equation 3.73, is valid in three dimensions.
+
+(c) Formulate Heisenberg’s uncertainty principle in three dimensions. Answer:
+
+\[ \sigma_x \sigma_{p_x} \ge \hbar/2, \quad \sigma_y \sigma_{p_y} \ge \hbar/2, \quad \sigma_z \sigma_{p_z} \ge \hbar/2, \] (4.12)
+
+but there is no restriction on, say, \(\sigma_x \sigma_{p_y}\).
+
+Problem 4.2 Use separation of variables in cartesian coordinates to solve the infinite cubical well (or “particle in a box”):
+
+\[ V(x,y,z) = \begin{cases} 0, & x,y,z \text{ all between } 0 \text{ and } a; \\ \infty, & \text{otherwise}. \end{cases} \]
+
+(a) Find the stationary states, and the corresponding energies.
+
+(b) Call the distinct energies \(E_1, E_2, E_3, \dots\), in order of increasing energy. Find \(E_1, E_2, E_3, E_4, E_5\), and \(E_6\). Determine their degeneracies (that is, the number of different states that share the same energy). Comment: In one dimension degenerate bound states do not occur (see Problem 2.44), but in three dimensions they are very common.
+
+(c) What is the degeneracy of \(E_{14}\), and why is this case interesting?
+
+4.1.1 Spherical Coordinates Most of the applications we will encounter involve central potentials, for which \(V\) is a function only of the distance from the origin, \(V(\mathbf{r}) \to V(r)\). In that case it is natural to adopt spherical coordinates, \((r, \theta, \phi)\) (Figure 4.1). In spherical coordinates the Laplacian takes the form
+
+\[ \nabla^2 = \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial}{\partial r} \right) + \frac{1}{r^2 \sin\theta} \frac{\partial}{\partial \theta} \left( \sin\theta \frac{\partial}{\partial \theta} \right) + \frac{1}{r^2 \sin^2\theta} \frac{\partial^2}{\partial \phi^2}. \] (4.13)
+
+In spherical coordinates, then, the time-independent Schrödinger equation reads
+
+\[ -\frac{\hbar^2}{2m} \left[ \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial \psi}{\partial r} \right) + \frac{1}{r^2 \sin\theta} \frac{\partial}{\partial \theta} \left( \sin\theta \frac{\partial \psi}{\partial \theta} \right) + \frac{1}{r^2 \sin^2\theta} \frac{\partial^2 \psi}{\partial \phi^2} \right] + V \psi = E \psi. \] (4.14)
+
+We begin by looking for solutions that are separable into products (a function of \(r\) times a function of \(\theta\) and \(\phi\)):
+
+\[ \psi(r,\theta,\phi) = R(r) Y(\theta,\phi). \] (4.15)
+
+Putting this into Equation 4.14, we have
+
+\[ -\frac{\hbar^2}{2m} \left[ \frac{Y}{r^2} \frac{d}{dr} \left( r^2 \frac{dR}{dr} \right) + \frac{R}{r^2 \sin\theta} \frac{\partial}{\partial \theta} \left( \sin\theta \frac{\partial Y}{\partial \theta} \right) + \frac{R}{r^2 \sin^2\theta} \frac{\partial^2 Y}{\partial \phi^2} \right] + V R Y = E R Y. \]
+
+Dividing by \(Y R\) and multiplying by \(-2m r^2 / \hbar^2\):
+
+\[ \frac{1}{R} \frac{d}{dr} \left( r^2 \frac{dR}{dr} \right) - \frac{2m r^2}{\hbar^2} [V(r) - E] + \frac{1}{Y \sin\theta} \frac{\partial}{\partial \theta} \left( \sin\theta \frac{\partial Y}{\partial \theta} \right) + \frac{1}{Y \sin^2\theta} \frac{\partial^2 Y}{\partial \phi^2} = 0. \]
+
+The term in the first curly bracket depends only on \(r\), whereas the remainder depends only on \(\theta\) and \(\phi\); accordingly, each must be a constant. For reasons that will appear in due course, I will write this “separation constant” in the form \(\ell(\ell+1)\):
+
+\[ \frac{1}{R} \frac{d}{dr} \left( r^2 \frac{dR}{dr} \right) - \frac{2m r^2}{\hbar^2} [V(r) - E] = \ell(\ell+1); \] (4.16)
+
+\[ \frac{1}{Y \sin\theta} \frac{\partial}{\partial \theta} \left( \sin\theta \frac{\partial Y}{\partial \theta} \right) + \frac{1}{Y \sin^2\theta} \frac{\partial^2 Y}{\partial \phi^2} = -\ell(\ell+1). \] (4.17)
+
+Problem 4.3
+
+(a) Suppose \(\psi(r,\theta,\phi) = A e^{-r/a}\), for some constants \(A\) and \(a\). Find \(E\) and \(V(r)\), assuming \(V(r) \to 0\) as \(r \to \infty\).
+
+(b) Do the same for \(\psi(r,\theta,\phi) = A e^{-r^2/a^2}\), assuming \(V(0)=0\).
+
+4.1.2 The Angular Equation Equation 4.17 determines the dependence of \(\psi\) on \(\theta\) and \(\phi\); multiplying by \(Y \sin^2\theta\), it becomes:
+
+\[ \sin\theta \frac{\partial}{\partial \theta} \left( \sin\theta \frac{\partial Y}{\partial \theta} \right) + \frac{\partial^2 Y}{\partial \phi^2} = -\ell(\ell+1) \sin^2\theta Y. \] (4.18)
+
+You might recognize this equation—it occurs in the solution to Laplace’s equation in classical electrodynamics. As always, we solve it by separation of variables:
+
+\[ Y(\theta,\phi) = \Theta(\theta) \Phi(\phi). \] (4.19)
+
+Plugging this in, and dividing by \(\Theta \Phi\),
+
+\[ \left[ \frac{1}{\Theta \sin\theta} \frac{d}{d\theta} \left( \sin\theta \frac{d\Theta}{d\theta} \right) + \ell(\ell+1) \sin^2\theta \right] + \frac{1}{\Phi} \frac{d^2 \Phi}{d\phi^2} = 0. \]
+
+The first term is a function only of \(\theta\), and the second is a function only of \(\phi\), so each must be a constant. This time I’ll call the separation constant \(m^2\):
+
+\[ \frac{1}{\Theta \sin\theta} \frac{d}{d\theta} \left( \sin\theta \frac{d\Theta}{d\theta} \right) + \ell(\ell+1) \sin^2\theta = m^2; \] (4.20)
+
+\[ \frac{1}{\Phi} \frac{d^2 \Phi}{d\phi^2} = -m^2. \] (4.21)
+
+The \(\phi\) equation is easy:
+
+\[ \frac{d^2 \Phi}{d\phi^2} = -m^2 \Phi \quad \Rightarrow \quad \Phi(\phi) = e^{im\phi}. \] (4.22)
+
+49 Note that there is no loss of generality here—at this stage \(\ell\) could be any complex number. Later on we’ll discover that \(\ell\) must in fact be an integer, and it is in anticipation of that result that I express the separation constant in a way that looks peculiar now.
+
+50 Again, there is no loss of generality here, since at this stage \(m\) could be any complex number; in a moment, though, we will discover that \(m\) must in fact be an integer. Beware: The letter \(m\) is now doing double duty, as mass and as a separation constant. There is no graceful way to avoid this confusion, since both uses are standard. Some authors now switch to \(M\) or \(\mu\) for mass, but I hate to change notation in mid-stream, and I don’t think confusion will arise.
+
+along as you are aware of the problem.
+
+**4.1 The Schrödinger Equation**
+
+Actually, there are two solutions: exp(imφ) and exp(−imφ), but we’ll cover the latter by allowing m to run negative. There could also be a constant factor in front, but we might as well absorb that into ψ. Incidentally, in electrodynamics we would write the azimuthal function (φ) in terms of sines and cosines, instead of exponentials, because electric fields are real. But there is no such constraint on the wave function, and exponentials are a lot easier to work with.
+
+Now, when φ advances by 2π, we return to the same point in space (see Figure 4.1), so it is natural to require that
+
+ψ(φ + 2π) = ψ(φ). (4.23)
+
+In other words, exp[im(φ + 2π)] = exp(imφ), or exp(2πim) = 1. From this it follows that m must be an integer:
+
+m = 0, ±1, ±2, . . . (4.24)
+
+The θ equation,
+
+d/dθ [sinθ d/dθ] + [l(l+1) sin²θ − m²] Θ = 0, (4.25)
+
+may not be so familiar. The solution is
+
+Θ(θ) = A P_l^m(cosθ), (4.26)
+
+where P_l^m is the associated Legendre function, defined by⁵
+
+P_l^m(x) ≡ (−1)^m (1 − x²)^{m/2} d^m/dx^m P_l(x), (4.27)
+
+and P_l(x) is the l-th Legendre polynomial, defined by the Rodrigues formula:
+
+P_l(x) ≡ 1/(2^l l!) d^l/dx^l (x² − 1)^l. (4.28)
+
+For example,
+
+P₀(x) = 1, P₁(x) = 1/(2·1) d/dx (x² − 1) = x, P₂(x) = 1/(4·2) d²/dx² (x² − 1)² = 1/2 (3x² − 1),
+
+and so on. The first few Legendre polynomials are listed in Table 4.1. As the name suggests, P_l(x) is a polynomial (of degree l) in x, and is even or odd according to the parity of l. But P_l^m(x) is not, in general, a polynomial⁶—if m is odd it carries a factor of √(1 − x²).
+
+⁴ This is more slippery than it looks. After all, the probability density (|ψ|²) is single-valued regardless of m. In Section 4.3 we’ll obtain the condition on m by an entirely different—and more compelling—argument.
+
+⁵ Some books (including earlier editions of this one) do not include the factor (−1)^m in the definition of P_l^m. Equation 4.27 assumes that m ≥ 0; for negative values we define P_l^{−m}(x) = (−1)^m P_l^m(x).
+
+A few books (including earlier versions of this one) define P_l^{−m} = P_l^m. I am adopting now the more standard convention used by Mathematica.
+
+⁶ Nevertheless, some authors call them (confusingly) “associated Legendre polynomials.”
+
+**Table 4.1: The first few Legendre polynomials, P_l(x): (a) functional form, (b) graph.** (a)
+
+P₀ = 1 P₁ = x P₂ = 1/2 (3x² − 1)
+
+P₃ = 1/2 (5x³ − 3x)
+
+P₄ = 1/8 (35x⁴ − 30x² + 3)
+
+P₅ = 1/8 (63x⁵ − 70x³ + 15x)
+
+(b)
+
+[Graph of P_l(x) from x=-1 to x=1 for l=0,1,2,3]
+
+The associated Legendre functions, P_l^m(cosθ): (a)
+
+P₁⁰ = cosθ, P₂⁰ = 1/2(3 cos²θ – 1), P₃⁰ = 1/2(5 cos³θ – 3 cosθ)
+
+P₁¹ = –sinθ, P₂¹ = 3 sinθ cosθ, P₃¹ = –3/2 sinθ(5 cos²θ – 1)
+
+P₂² = 3 sin²θ, P₃² = 15 sin²θ cosθ P₃³ = –15 sin³θ (b)
+
+[Plots of r = |P_l^m(cosθ)| for several l,m values]
+
+Etc. (On the other hand, what we need is P_l^m(cosθ), and √(1 − cos²θ) = sinθ, so P_l^m(cosθ) is always a polynomial in cosθ, multiplied—if m is odd—by sinθ. Some associated Legendre functions of cosθ are listed in Table 4.2.)
+
+Notice that l must be a non-negative integer, for the Rodrigues formula to make any sense; moreover, if m > l, then Equation 4.27 says P_l^m = 0. For any given l, then, there are (2l + 1) possible values of m:
+
+l = 0, 1, 2, . . . ; m = −l, −l+1, ..., −1, 0, 1, ..., l−1, l. (4.29)
+
+But wait! Equation 4.25 is a second-order differential equation: It should have two linearly independent solutions, for any old values of l and m. Where are all the other solutions? Answer: They exist, of course, as mathematical solutions to the equation, but they are physically unacceptable, because they blow up at θ = 0 and/or θ = π (see Problem 4.5).
+
+Now, the volume element in spherical coordinates⁷ is
+
+d³r = r² sinθ dr dθ dφ = r² dr dΩ, where dΩ ≡ sinθ dθ dφ, (4.30)
+
+so the normalization condition (Equation 4.6) becomes
+
+∫ |ψ|² r² sinθ dr dθ dφ = ∫ |R|² r² dr ∫ |Y|² dΩ = 1.
+
+It is convenient to normalize R and Y separately:
+
+∫₀^∞ |R|² r² dr = 1 and ∫₀^π ∫₀^{2π} |Y|² sinθ dθ dφ = 1. (4.31)
+
+⁷ See, for instance, Boas (footnote 1), Chapter 5, Section 4.
+
+**Table 4.3: The first few spherical harmonics, Y_l^m(θ,φ).**
+
+The normalized angular wave functions⁸ are called spherical harmonics:
+
+Y_l^m(θ,φ) = √[ (2l+1)/(4π) * (l−m)!/(l+m)! ] e^{imφ} P_l^m(cosθ), (4.32)
+
+As we shall prove later on, they are automatically orthogonal:
+
+∫₀^π ∫₀^{2π} [Y_l^m(θ,φ)]* Y_{l'}^{m'}(θ,φ) sinθ dθ dφ = δ_{ll'} δ_{mm'}, (4.33)
+
+In Table 4.3 I have listed the first few spherical harmonics.
+
+* Problem 4.4 Use Equations 4.27, 4.28, and 4.32, to construct Y₂⁰ and Y₂¹. Check that they are normalized and orthogonal.
+
+⁸ The normalization factor is derived in Problem 4.63.
+
+**Problem 4.5** Show that
+
+Θ(θ) = A ln tan(θ/2)
+
+satisfies the θ equation (Equation 4.25), for l = m = 0. This is the unacceptable “second solution”—what’s wrong with it?
+
+**Problem 4.6** Using Equation 4.32 and footnote 5, show that
+
+Y_l^{−m} = (−1)^m (Y_l^m)*.
+
+* Problem 4.7 Using Equation 4.32, find Y₃³(θ,φ) and Y₃²(θ,φ). (You can take P₃² from Table 4.2, but you’ll have to work out P₃³ from Equations 4.27 and 4.28.) Check that they satisfy the angular equation (Equation 4.18), for the appropriate values of l and m.
+
+** Problem 4.8 Starting from the Rodrigues formula, derive the orthonormality condition for Legendre polynomials:
+
+∫_{-1}^{1} P_l(x) P_{l'}(x) dx = 2/(2l+1) δ_{ll'}. (4.34)
+
+Hint: Use integration by parts.
+
+### 4.1.3 The Radial Equation
+
+Notice that the angular part of the wave function, Y(θ,φ), is the same for all spherically symmetric potentials; the actual shape of the potential, V(r), affects only the radial part of the wave function, R(r), which is determined by Equation 4.16:
+
+d/dr [r² dR/dr] − [ (2mr²/ħ²) (V(r) − E) ] R = l(l+1) R. (4.35)
+
+This simplifies if we change variables: Let
+
+u(r) ≡ r R(r), (4.36)
+
+so that R = u/r, dR/dr = r (du/dr) − u/r², (d/dr) [r² (dR/dr)] = r d²u/dr², and hence
+
+− (ħ²/2m) d²u/dr² + [ V + ħ² l(l+1)/(2m r²) ] u = E u. (4.37)
+
+This is called the radial equation;⁹ it is identical in form to the one-dimensional Schrödinger equation (Equation 2.5), except that the effective potential,
+
+V_eff = V + ħ² l(l+1)/(2m r²), (4.38)
+
+contains an extra piece, the so-called centrifugal term, [ħ²/2m] [l(l+1)/r²]. It tends to throw the particle outward (away from the origin), just like the centrifugal (pseudo-)force in classical mechanics. Meanwhile, the normalization condition (Equation 4.31) becomes
+
+∫₀^∞ |u|² dr = 1. (4.39)
+
+That’s as far as we can go until a specific potential V(r) is provided.
+
+**Example 4.1** Consider the infinite spherical well,
+
+V(r) = { 0, r ≤ a; ∞, r > a. } (4.40)
+
+Find the wave functions and the allowed energies.
+
+Solution: Outside the well the wave function is zero; inside the well, the radial equation says
+
+d²u/dr² = [l(l+1)/r² − k²] u, (4.41)
+
+where k ≡ √(2mE)/ħ. (4.42)
+
+Our problem is to solve Equation 4.41, subject to the boundary condition u(a) = 0. The case l = 0 is easy:
+
+d²u/dr² = −k² u  ⇒  u(r) = A sin(kr) + B cos(kr).
+
+But remember, the actual radial wave function is R(r) = u(r)/r, and [cos(kr)]/r blows up as r → 0. So¹⁰ B = 0. The boundary condition then requires sin(ka) = 0, and hence ka = Nπ, for some integer N. The allowed energies are
+
+E_N = N²π²ħ²/(2m a²), (N = 1, 2, 3, . . .) (4.43)
+
+(same as for the one-dimensional infinite square well, Equation 2.30). Normalizing u(r) yields A = √(2/a):
+
+u_N(r) = √(2/a) sin(Nπr/a). (4.44)
+
+Notice that the radial wave function has N − 1 nodes (or, if you prefer, N “lobes”).
+
+The general solution to Equation 4.41 (for an arbitrary integer l) is not so familiar:
+
+u(r) = A r j_l(kr) + B r n_l(kr), (4.45)
+
+where j_l(x) is the spherical Bessel function of order l, and n_l(x) is the spherical Neumann function of order l. They are defined as follows:
+
+j_l(x) ≡ (−x)^l (1/x d/dx)^l (sin x / x); n_l(x) ≡ −(−x)^l (1/x d/dx)^l (cos x / x). (4.46)
+
+For example,
+
+j₀(x) = sin x / x; n₀(x) = −cos x / x, j₁(x) = (−x) (1/x d/dx)(sin x / x) = sin x / x² − cos x / x, j₂(x) = (−x)² (1/x d/dx)² (sin x / x) = (3/x³ − 1/x) sin x − (3/x²) cos x, and so on. The first few spherical Bessel and Neumann functions are listed in Table 4.4.
+
+For small x (where sin x = x − x³/3! + x⁵/5! − · · · and cos x = 1 − x²/2 + x⁴/4! − · · ·), j₀(x) ≈ 1; n₀(x) ≈ −1/x; j₁(x) ≈ x/3; j₂(x) ≈ x²/15; etc. Notice that Bessel functions are finite at the origin, but Neumann functions blow up at the origin. Accordingly, B = 0, and hence
+
+R(r) = A j_l(kr). (4.47)
+
+There remains the boundary condition, R(a) = 0. Evidently k must be chosen such that
+
+j_l(ka) = 0; (4.48)
+
+that is, (ka) is a zero of the l-th order spherical Bessel function. Now, the Bessel functi are oscillatory (see Figure 4.2); each one has an infinite number of zeros. But (unfortunately for us) they are not located at nice sensible points (such as multiples of π); they have to be computed numerically. 11 At any rate, the boundary condition requires that k = β_{Nℓ}, (4.49)
+
+where β_{Nℓ} is the Nth zero of the ℓth spherical Bessel function. The allowed energies, then, are given by E_{Nℓ} = \frac{ℏ^2}{2ma^2} β_{Nℓ}^2. (4.50)
+
+It is customary to introduce the principal quantum number, n, which simply orders the allowed energies, starting with 1 for the ground state (see Figure 4.3). The wave functions are 11 Milton Abramowitz and Irene A. Stegun, eds., Handbook of Mathematical Functions, Dover, New York (1965), Chapter 10, provides an extensive listing.
+
+ψ_{nℓm}(r, θ, φ) = A_{nℓ} j_ℓ(β_{Nℓ} r) Y_ℓ^m(θ, φ), (4.51)
+
+with the constant A_{nℓ} to be determined by normalization. As before, the wave function has N − 1 radial nodes. 12 12 We shall use this notation (N − 1 as a count of the number of radial nodes, n for the order of the energy) with all central potentials. Both n and N are by their nature integers (1, 2, 3, ...); n is determined by N and ℓ (conversely, N is determined by n and ℓ), but the actual relation can (as here) be complicated. In the special case of the Coulomb potential, as we shall see, there is a delightfully simple formula relating the two.
+
+Notice that the energy levels are (2ℓ + 1)-fold degenerate, since there are (2ℓ + 1) different values of m for each value of ℓ (see Equation 4.29). This is the degeneracy to be expected for a spherically symmetric potential, since m does not appear in the radial equation (which determines the energy). But in some cases (most famously the hydrogen atom) there is extra degeneracy, due to coincidences in the energy levels not attributable to spherical symmetry alone. The deeper reason for such “accidental” degeneracy is intriguing, as we shall see in Chapter 6.
+
+Problem 4.9 (a) From the definition (Equation 4.46), construct n_1(x) and n_2(x).
+
+(b) Expand the sines and cosines to obtain approximate formulas for n_1(x) and n_2(x), valid when x ≪ 1. Confirm that they blow up at the origin.
+
+Problem 4.10 (a) Check that Ar j_1(kr) satisfies the radial equation with V(r) = 0 and ℓ = 1.
+
+(b) Determine graphically the allowed energies for the infinite spherical well, when ℓ = 1. Show that for large N, E_{N1} ≈ \frac{ℏ^2 π^2}{2ma^2} (N + 1/2)^2. Hint: First show that j_1(x) = 0 ⇒ x = tan x. Plot x and tan x on the same graph, and locate the points of intersection.
+
+Problem 4.11 A particle of mass m is placed in a finite spherical well: V(r) = \begin{cases} -V_0, & r ≤ a; \\ 0, & r > a. \end{cases} Find the ground state, by solving the radial equation with ℓ = 0. Show that there is no bound state if V_0 a^2 < π^2 ℏ^2 / 8m.
+
+## 4.2 THE HYDROGEN ATOM
+
+The hydrogen atom consists of a heavy, essentially motionless proton (we may as well put it at the origin), of charge e, together with a much lighter electron (mass m_e, charge −e) that orbits around it, bound by the mutual attraction of opposite charges (see Figure 4.4). From Coulomb’s law, the potential energy of the electron 13 (in SI units) is V(r) = - \frac{e^2}{4πε_0 r}, (4.52)
+
+and the radial equation (Equation 4.37) says -\frac{ℏ^2}{2m_e} \frac{d^2 u}{dr^2} + \left[ -\frac{e^2}{4πε_0 r} + \frac{ℏ^2 ℓ(ℓ+1)}{2m_e r^2} \right] u = Eu. (4.53)
+
+(The effective potential—the term in square brackets—is shown in Figure 4.5.) Our problem is to solve this equation for u(r), and determine the allowed energies. The hydrogen atom is such an important case that I’m not going to hand you the solutions this time—we’ll work them out in detail, by the method we used in the analytical solution to the harmonic oscillator. (If any step in this process is unclear, you may want to refer back to Section 2.3.2 for a more complete explanation.) Incidentally, the Coulomb potential (Equation 4.52) admits continuum states (with E > 0), describing electron-proton scattering, as well as discrete bound states, representing the hydrogen atom, but we shall confine our attention to the latter. 14 13 This is what goes into the Schrödinger equation—not the electric potential (e/4πε_0 r).
+
+14 Note, however, that the bound states by themselves are not complete.
+
+Figure 4.5: The effective potential for hydrogen (Equation 4.53), if ℓ > 0.
+
+4.2.1 The Radial Wave Function Our first task is to tidy up the notation. Let κ ≡ \frac{\sqrt{-2m_e E}}{ℏ}. (4.54)
+
+(For bound states, E is negative, so κ is real.) Dividing Equation 4.53 by E, we have \frac{1}{κ^2} \frac{d^2 u}{dr^2} = \left[ 1 - \frac{m_e e^2}{2πε_0 ℏ^2 κ} \frac{1}{κr} + \frac{ℓ(ℓ+1)}{(κr)^2} \right] u.
+
+This suggests that we introduce ρ ≡ κr, and ρ_0 ≡ \frac{m_e e^2}{2πε_0 ℏ^2 κ}, (4.55)
+
+so that \frac{d^2 u}{dρ^2} = \left[ 1 - \frac{ρ_0}{ρ} + \frac{ℓ(ℓ+1)}{ρ^2} \right] u. (4.56)
+
+Next we examine the asymptotic form of the solutions. As ρ → ∞, the constant term in the brackets dominates, so (approximately)
+
+\frac{d^2 u}{dρ^2} = u.
+
+The general solution is u(ρ) = A e^{-ρ} + B e^{ρ}, (4.57)
+
+but e^{ρ} blows up (as ρ → ∞), so B = 0. Evidently, u(ρ) ∼ A e^{-ρ}, (4.58)
+
+for large ρ. On the other hand, as ρ → 0 the centrifugal term dominates; 15 approximately, then: \frac{d^2 u}{dρ^2} = \frac{ℓ(ℓ+1)}{ρ^2} u.
+
+The general solution (check it!) is u(ρ) = C ρ^{ℓ+1} + D ρ^{-ℓ}, 15 This argument does not apply when ℓ = 0 (although the conclusion, Equation 4.59, is in fact valid for that case too). But never mind: All I am trying to do is provide some motivation for a change of variables (Equation 4.60).
+
+but ρ^{-ℓ} blows up (as ρ → 0), so D = 0. Thus u(ρ) ∼ C ρ^{ℓ+1}, (4.59)
+
+for small ρ.
+
+The next step is to peel off the asymptotic behavior, introducing the new function v(ρ): u(ρ) = ρ^{ℓ+1} e^{-ρ} v(ρ), (4.60)
+
+in the hope that v(ρ) will turn out to be simpler than u(ρ). The first indications are not auspicious: \frac{du}{dρ} = ρ^{ℓ} e^{-ρ} \left[ (ℓ+1 - ρ)v + ρ \frac{dv}{dρ} \right], and \frac{d^2 u}{dρ^2} = ρ^{ℓ} e^{-ρ} \left\{ -2ℓ-2 + ρ + \frac{ℓ(ℓ+1)}{ρ} v + 2(ℓ+1 - ρ) \frac{dv}{dρ} + ρ \frac{d^2 v}{dρ^2} \right\}.
+
+In terms of v(ρ), then, the radial equation (Equation 4.56) reads ρ \frac{d^2 v}{dρ^2} + 2(ℓ+1 - ρ) \frac{dv}{dρ} + [ρ_0 - 2(ℓ+1)] v = 0. (4.61)
+
+Finally, we assume the solution, v(ρ), can be expressed as a power series in ρ: v(ρ) = \sum_{j=0}^{\infty} c_j ρ^j. (4.62)
+
+Our problem is to determine the coefficients (c_0, c_1, c_2, ...). Differentiating term by term: \frac{dv}{dρ} = \sum_{j=0}^{\infty} j c_j ρ^{j-1} = \sum_{j=0}^{\infty} (j+1) c_{j+1} ρ^j.
+
+(In the second summation I have renamed the “dummy index”: j → j + 1. If this troubles you, write out the first few terms explicitly, and check it. You may object that the sum should now begin at j = −1, but the factor (j + 1) kills that term anyway, so we might as well start at zero.) Differentiating again, \frac{d^2 v}{dρ^2} = \sum_{j=0}^{\infty} j(j+1) c_{j+1} ρ^{j-1}.
+
+Inserting these into Equation 4.61, \sum_{j=0}^{\infty} j(j+1) c_{j+1} ρ^j + 2(ℓ+1) \sum_{j=0}^{\infty} (j+1) c_{j+1} ρ^j - 2 \sum_{j=0}^{\infty} j c_j ρ^j + [ρ_0 - 2(ℓ+1)] \sum_{j=0}^{\infty} c_j ρ^j = 0.
+
+Equating the coefficients of like powers yields j(j+1) c_{j+1} + 2(ℓ+1)(j+1) c_{j+1} - 2j c_j + [ρ_0 - 2(ℓ+1)] c_j = 0, or: c_{j+1} = \frac{2(j + ℓ + 1) - ρ_0}{(j+1)(j + 2ℓ + 2)} c_j. (4.63)
+
+This recursion formula determines the coefficients, and hence the function v(ρ): We start with c_0 (this becomes an overall constant, to be fixed eventually by normalization), and Equation 4.63 gives us c_1; putting this back in, we obtain c_2, and so on. 16 16 You might wonder why I didn’t use the series method directly on u(ρ)—why factor out the asymptotic behavior before applying this procedure? Well, the reason for peeling off ρ^{ℓ+1} is largely aesthetic: Without this, the sequence would begin with a long string of zeros (the first nonzero coefficient being c_{ℓ+1}); by factoring out ρ^{ℓ+1} we obtain a series that starts out with ρ^0. The e^{-ρ} factor is more critical—if you don’t pull that out, you get a three-term recursion formula, involving c_{j+2}, c_{j+1} and c_j (try it!), and that is enormously more difficult to work with.
+
+Now let’s see what the coefficients look like for large j (this corresponds to large ρ, where the higher powers dominate). In this regime the recursion formula says 17 c_{j+1} ≈ \frac{2j}{j(j+1)} c_j = \frac{2}{j+1} c_j, so c_j ≈ \frac{2^j}{j!} c_0. (4.64)
+
+17 Why not drop the 1 in j + 1? After all, I’m ignoring 2(ℓ+1) − ρ_0 in the numerator, and 2ℓ + 2 in the denominator. In this approximation it would be fine to drop the 1 as well, but keeping it makes the argument a little cleaner. Try doing it without the 1, and you’ll see what I mean.
+
+Suppose for a moment that this were the exact result. Then v(ρ) = c_0 \sum_{j=0}^{\infty} \frac{2^j}{j!} ρ^j = c_0 e^{2ρ}, and hence u(ρ) = c_0 ρ^{ℓ+1} e^{ρ}, (4.65)
+
+which blows up at large ρ. The positive exponential is precisely the asymptotic behavior we didn’t want, in Equation 4.57. (It’s no accident that it reappears here; after all, it does represent the asymptotic form of some solutions to the radial equation—they just don’t happen to be the ones we’re interested in, because they aren’t normalizable.)
+
+There is only one escape from this dilemma: The series must terminate. There must occur some integer N such that c_{N-1} ≠ 0 but c_N = 0 (4.66)
+
+(beyond this all coefficients vanish automatically). 18 In that case Equation 4.63 says 2(N + ℓ) - ρ_0 = 0.
+
+Defining n ≡ N + ℓ, (4.67)
+
+18 This makes v(ρ) a polynomial of order (N − 1), with (therefore) N − 1 roots, and hence the radial wave function has N − 1 nodes.
+
+we have ρ_0 = 2n. (4.68)
+
+But ρ_0 determines E (Equations 4.54 and 4.55): E = -\frac{ℏ^2 κ^2}{2m_e} = -\frac{m_e e^4}{8π^2 ε_0^2 ℏ^2 ρ_0^2}, (4.69)
+
+so the allowed energies are E_n = -\left[ \frac{m_e e^2}{2ℏ^2} \right]^2 \frac{1}{n^2} = \frac{E_1}{n^2}, \quad n = 1, 2, 3, .... (4.70)
+
+This is the famous Bohr formula—by any measure the most important result in all of quantum mechanics. Bohr obtained it in 1913 by a serendipitous mixture of inapplicable classical physics and premature quantum theory (the Schrödinger equation did not come until 1926).
+
+Combining Equations 4.55 and 4.68, we find that κ = \frac{m_e e^2}{2πε_0 ℏ^2 n} = \frac{1}{a n},

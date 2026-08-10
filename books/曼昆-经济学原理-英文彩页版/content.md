@@ -1,0 +1,1955 @@
+# Principles of Economics (Mankiw, English Color Edition)
+
+> Source file: 曼昆《经济学原理》英文彩页版.txt
+> Approx characters: 231079
+> Language: en
+
+---
+
+IN THIS CHAPTER
+YOU WILL . . .
+Learn that economics is about the allocation of scarce resources
+Examine some of the tradeoffs that people face
+Learn the meaning of opportunity cost
+See how to use marginal reasoning when making decisions
+Discuss how incentives affect people’s behavior
+Consider why trade among people or nations can be good for everyone
+Discuss why markets are a good, but not perfect, way to allocate resources
+Learn what determines some trends in the overall economy
+
+### TEN PRINCIPLES OF ECONOMICS
+
+The word economy comes from the Greek word for “one who manages a household.” At first, this origin might seem peculiar. But, in fact, households and economies have much in common.
+
+A household faces many decisions. It must decide which members of the household do which tasks and what each member gets in return: Who cooks dinner? Who does the laundry? Who gets the extra dessert at dinner? Who gets to choose what TV show to watch? In short, the household must allocate its scarce resources among its various members, taking into account each member’s abilities, efforts, and desires.
+
+Like a household, a society faces many decisions. A society must decide what jobs will be done and who will do them. It needs some people to grow food, other people to make clothing, and still others to design computer software. Once society has allocated people (as well as land, buildings, and machines) to various jobs, it must also allocate the output of goods and services that they produce. It must decide who will eat caviar and who will eat potatoes. It must decide who will drive a Porsche and who will take the bus.
+
+The management of society’s resources is important because resources are scarce. Scarcity means that society has limited resources and therefore cannot produce all the goods and services people wish to have. Just as a household cannot give every member everything he or she wants, a society cannot give every individual the highest standard of living to which he or she might aspire.
+
+Economics is the study of how society manages its scarce resources. In most societies, resources are allocated not by a single central planner but through the combined actions of millions of households and firms. Economists therefore study how people make decisions: how much they work, what they buy, how much they save, and how they invest their savings. Economists also study how people interact with one another. For instance, they examine how the multitude of buyers and sellers of a good together determine the price at which the good is sold and the quantity that is sold. Finally, economists analyze forces and trends that affect the economy as a whole, including the growth in average income, the fraction of the population that cannot find work, and the rate at which prices are rising.
+
+Although the study of economics has many facets, the field is unified by several central ideas. In the rest of this chapter, we look at Ten Principles of Economics. These principles recur throughout this book and are introduced here to give you an overview of what economics is all about. You can think of this chapter as a “preview of coming attractions.”
+
+### HOW PEOPLE MAKE DECISIONS
+
+There is no mystery to what an “economy” is. Whether we are talking about the economy of Los Angeles, of the United States, or of the whole world, an economy is just a group of people interacting with one another as they go about their lives. Because the behavior of an economy reflects the behavior of the individuals who make up the economy, we start our study of economics with four principles of individual decision-making.
+
+### PRINCIPLE #1: PEOPLE FACE TRADEOFFS
+
+The first lesson about making decisions is summarized in the adage: “There is no such thing as a free lunch.” To get one thing that we like, we usually have to give up another thing that we like. Making decisions requires trading off one goal against another.
+
+Consider a student who must decide how to allocate her most valuable resource—her time. She can spend all of her time studying economics; she can spend all of her time studying psychology; or she can divide her time between the two fields. For every hour she studies one subject, she gives up an hour she could have used studying the other. And for every hour she spends studying, she gives up an hour that she could have spent napping, bike riding, watching TV, or working at her part-time job for some extra spending money.
+
+Or consider parents deciding how to spend their family income. They can buy food, clothing, or a family vacation. Or they can save some of the family income for retirement or the children’s college education. When they choose to spend an extra dollar on one of these goods, they have one less dollar to spend on some other good.
+
+When people are grouped into societies, they face different kinds of tradeoffs. The classic tradeoff is between “guns and butter.” The more we spend on national defense to protect our shores from foreign aggressors (guns), the less we can spend on consumer goods to raise our standard of living at home (butter). Also important in modern society is the tradeoff between a clean environment and a high level of income. Laws that require firms to reduce pollution raise the cost of producing goods and services. Because of the higher costs, these firms end up earning smaller profits, paying lower wages, charging higher prices, or some combination of these three. Thus, while pollution regulations give us the benefit of a cleaner environment and the improved health that comes with it, they have the cost of reducing the incomes of the firms’ owners, workers, and customers.
+
+Another tradeoff society faces is between efficiency and equity. Efficiency means that society is getting the most it can from its scarce resources. Equity means that the benefits of those resources are distributed fairly among society’s members. In other words, efficiency refers to the size of the economic pie, and equity refers to how the pie is divided. Often, when government policies are being designed, these two goals conflict.
+
+Consider, for instance, policies aimed at achieving a more equal distribution of economic well-being. Some of these policies, such as the welfare system or unemployment insurance, try to help those members of society who are most in need. Others, such as the individual income tax, ask the financially successful to contribute more than others to support the government. Although these policies have the benefit of achieving greater equity, they have a cost in terms of reduced efficiency. When the government redistributes income from the rich to the poor, it reduces the reward for working hard; as a result, people work less and produce fewer goods and services. In other words, when the government tries to cut the economic pie into more equal slices, the pie gets smaller.
+
+Recognizing that people face tradeoffs does not by itself tell us what decisions they will or should make. A student should not abandon the study of psychology just because doing so would increase the time available for the study of economics. Society should not stop protecting the environment just because environmental regulations reduce our material standard of living. The poor should not be ignored just because helping them distorts work incentives. Nonetheless, acknowledging life’s tradeoffs is important because people are likely to make good decisions only if they understand the options that they have available.
+
+### PRINCIPLE #2: THE COST OF SOMETHING IS WHAT YOU GIVE UP TO GET IT
+
+Because people face tradeoffs, making decisions requires comparing the costs and benefits of alternative courses of action. In many cases, however, the cost of some action is not as obvious as it might first appear.
+
+Consider, for example, the decision whether to go to college. The benefit is intellectual enrichment and a lifetime of better job opportunities. But what is the cost? To answer this question, you might be tempted to add up the money you spend on tuition, books, room, and board. Yet this total does not truly represent what you give up to spend a year in college.
+
+The first problem with this answer is that it includes some things that are not really costs of going to college. Even if you quit school, you would need a place to sleep and food to eat. Room and board are costs of going to college only to the extent that they are more expensive at college than elsewhere. Indeed, the cost of room and board at your school might be less than the rent and food expenses that you would pay living on your own. In this case, the savings on room and board are a benefit of going to college.
+
+The second problem with this calculation of costs is that it ignores the largest cost of going to college—your time. When you spend a year listening to lectures, reading textbooks, and writing papers, you cannot spend that time working at a job. For most students, the wages given up to attend school are the largest single cost of their education.
+
+The opportunity cost of an item is what you give up to get that item. When making any decision, such as whether to attend college, decision-makers should be aware of the opportunity costs that accompany each possible action. In fact, they usually are. College-age athletes who can earn millions if they drop out of school and play professional sports are well aware that their opportunity cost of college is very high. It is not surprising that they often decide that the benefit is not worth the cost.
+### PRINCIPLE #3: RATIONAL PEOPLE THINK AT THE MARGIN
+Decisions in life are rarely black and white but usually involve shades of gray. When it’s time for dinner, the decision you face is not between fasting or eating like a pig, but whether to take that extra spoonful of mashed potatoes. When exams roll around, your decision is not between blowing them off or studying 24 hours a day, but whether to spend an extra hour reviewing your notes instead of watching TV. Economists use the term marginal changes to describe small incremental adjustments to an existing plan of action. Keep in mind that “margin” means “edge,” so marginal changes are adjustments around the edges of what you are doing.
+In many situations, people make the best decisions by thinking at the margin. Suppose, for instance, that you asked a friend for advice about how many years to stay in school. If he were to compare for you the lifestyle of a person with a Ph.D. to that of a grade school dropout, you might complain that this comparison is not helpful for your decision. You have some education already and most likely are deciding whether to spend an extra year or two in school. To make this decision, you need to know the additional benefits that an extra year in school would offer (higher wages throughout life and the sheer joy of learning) and the additional costs that you would incur (tuition and the forgone wages while you’re in school). By comparing these marginal benefits and marginal costs, you can evaluate whether the extra year is worthwhile.
+As another example, consider an airline deciding how much to charge passengers who fly standby. Suppose that flying a 200-seat plane across the country costs the airline $100,000. In this case, the average cost of each seat is $100,000/200, which is $500. One might be tempted to conclude that the airline should never sell a ticket for less than $500. In fact, however, the airline can raise its profits by thinking at the margin. Imagine that a plane is about to take off with ten empty seats, and a standby passenger is waiting at the gate willing to pay $300 for a seat. Should the airline sell it to him? Of course it should. If the plane has empty seats, the cost of adding one more passenger is minuscule. Although the average cost of flying a passenger is $500, the marginal cost is merely the cost of the bag of peanuts and can of soda that the extra passenger will consume. As long as the standby passenger pays more than the marginal cost, selling him a ticket is profitable.
+As these examples show, individuals and firms can make better decisions by thinking at the margin. A rational decisionmaker takes an action if and only if the marginal benefit of the action exceeds the marginal cost.
+
+### PRINCIPLE #4: PEOPLE RESPOND TO INCENTIVES
+Because people make decisions by comparing costs and benefits, their behavior may change when the costs or benefits change. That is, people respond to incentives. When the price of an apple rises, for instance, people decide to eat more pears and fewer apples, because the cost of buying an apple is higher. At the same time, apple orchards decide to hire more workers and harvest more apples, because the benefit of selling an apple is also higher. As we will see, the effect of price on the behavior of buyers and sellers in a market—in this case, the market for apples—is crucial for understanding how the economy works.
+Public policymakers should never forget about incentives, for many policies change the costs or benefits that people face and, therefore, alter behavior. A tax on gasoline, for instance, encourages people to drive smaller, more fuel-efficient cars. It also encourages people to take public transportation rather than drive and to live closer to where they work. If the tax were large enough, people would start driving electric cars.
+When policymakers fail to consider how their policies affect incentives, they can end up with results that they did not intend. For example, consider public policy regarding auto safety. Today all cars have seat belts, but that was not true 40 years ago. In the late 1960s, Ralph Nader’s book Unsafe at Any Speed generated much public concern over auto safety. Congress responded with laws requiring car companies to make various safety features, including seat belts, standard equipment on all new cars.
+
+Basketball star Kobe Bryant understands opportunity cost and incentives. Despite good high school grades and SAT scores, he decided to skip college and go straight to the NBA, where he earned about $10 million over four years.
+
+How does a seat belt law affect auto safety? The direct effect is obvious. With seat belts in all cars, more people wear seat belts, and the probability of surviving a major auto accident rises. In this sense, seat belts save lives.
+But that’s not the end of the story. To fully understand the effects of this law, we must recognize that people change their behavior in response to the incentives they face. The relevant behavior here is the speed and care with which drivers operate their cars. Driving slowly and carefully is costly because it uses the driver’s time and energy. When deciding how safely to drive, rational people compare the marginal benefit from safer driving to the marginal cost. They drive more slowly and carefully when the benefit of increased safety is high. This explains why people drive more slowly and carefully when roads are icy than when roads are clear.
+Now consider how a seat belt law alters the cost–benefit calculation of a rational driver. Seat belts make accidents less costly for a driver because they reduce the probability of injury or death. Thus, a seat belt law reduces the benefits to slow and careful driving. People respond to seat belts as they would to an improvement in road conditions—by faster and less careful driving. The end result of a seat belt law, therefore, is a larger number of accidents.
+How does the law affect the number of deaths from driving? Drivers who wear their seat belts are more likely to survive any given accident, but they are also more likely to find themselves in an accident. The net effect is ambiguous. Moreover, the reduction in safe driving has an adverse impact on pedestrians (and on drivers who do not wear their seat belts). They are put in jeopardy by the law because they are more likely to find themselves in an accident but are not protected by a seat belt. Thus, a seat belt law tends to increase the number of pedestrian deaths.
+At first, this discussion of incentives and seat belts might seem like idle speculation. Yet, in a 1975 study, economist Sam Peltzman showed that the auto-safety laws have, in fact, had many of these effects. According to Peltzman’s evidence, these laws produce both fewer deaths per accident and more accidents. The net result is little change in the number of driver deaths and an increase in the number of pedestrian deaths.
+Peltzman’s analysis of auto safety is an example of the general principle that people respond to incentives. Many incentives that economists study are more straightforward than those of the auto-safety laws. No one is surprised that people drive smaller cars in Europe, where gasoline taxes are high, than in the United States, where gasoline taxes are low. Yet, as the seat belt example shows, policies can have effects that are not obvious in advance. When analyzing any policy, we must consider not only the direct effects but also the indirect effects that work through incentives. If the policy changes incentives, it will cause people to alter their behavior.
+
+QUICK QUIZ: List and briefly explain the four principles of individual decisionmaking.
+
+### HOW PEOPLE INTERACT
+The first four principles discussed how individuals make decisions. As we go about our lives, many of our decisions affect not only ourselves but other people as well. The next three principles concern how people interact with one another.
+
+### PRINCIPLE #5: TRADE CAN MAKE EVERYONE BETTER OFF
+You have probably heard on the news that the Japanese are our competitors in the world economy. In some ways, this is true, for American and Japanese firms do produce many of the same goods. Ford and Toyota compete for the same customers in the market for automobiles. Compaq and Toshiba compete for the same customers in the market for personal computers.
+Yet it is easy to be misled when thinking about competition among countries. Trade between the United States and Japan is not like a sports contest, where one side wins and the other side loses. In fact, the opposite is true: Trade between two countries can make each country better off.
+To see why, consider how trade affects your family. When a member of your family looks for a job, he or she competes against members of other families who are looking for jobs. Families also compete against one another when they go shopping, because each family wants to buy the best goods at the lowest prices. So, in a sense, each family in the economy is competing with all other families.
+Despite this competition, your family would not be better off isolating itself from all other families. If it did, your family would need to grow its own food, make its own clothes, and build its own home. Clearly, your family gains much from its ability to trade with others. Trade allows each person to specialize in the activities he or she does best, whether it is farming, sewing, or home building. By trading with others, people can buy a greater variety of goods and services at lower cost.
+Countries as well as families benefit from the ability to trade with one another. Trade allows countries to specialize in what they do best and to enjoy a greater variety of goods and services. The Japanese, as well as the French and the Egyptians and the Brazilians, are as much our partners in the world economy as they are our competitors.
+For $5 a week you can watch baseball without being nagged to cut the grass!
+
+### PRINCIPLE #6: MARKETS ARE USUALLY A GOOD WAY TO ORGANIZE ECONOMIC ACTIVITY
+
+The collapse of communism in the Soviet Union and Eastern Europe may be the most important change in the world during the past half century. Communist countries worked on the premise that central planners in the government were in the best position to guide economic activity. These planners decided what goods and services were produced, how much was produced, and who produced and consumed these goods and services. The theory behind central planning was that only the government could organize economic activity in a way that promoted economic well-being for the country as a whole.
+
+Today, most countries that once had centrally planned economies have abandoned this system and are trying to develop market economies. In a market economy, the decisions of a central planner are replaced by the decisions of millions of firms and households. Firms decide whom to hire and what to make. Households decide which firms to work for and what to buy with their incomes. These firms and households interact in the marketplace, where prices and self-interest guide their decisions.
+
+At first glance, the success of market economies is puzzling. After all, in a market economy, no one is looking out for the economic well-being of society as a whole. Free markets contain many buyers and sellers of numerous goods and services, and all of them are interested primarily in their own well-being. Yet, despite decentralized decisionmaking and self-interested decisionmakers, market economies have proven remarkably successful in organizing economic activity in a way that promotes overall economic well-being.
+
+In his 1776 book An Inquiry into the Nature and Causes of the Wealth of Nations, economist Adam Smith made the most famous observation in all of economics: Households and firms interacting in markets act as if they are guided by an “invisible hand” that leads them to desirable market outcomes. One of our goals in this book is to understand how this invisible hand works its magic. As you study economics, you will learn that prices are the instrument with which the invisible hand directs economic activity. Prices reflect both the value of a good to society and the cost to society of making the good. Because households and firms look at prices when deciding what to buy and sell, they unknowingly take into account the social benefits and costs of their actions. As a result, prices guide these individual decisionmakers to reach outcomes that, in many cases, maximize the welfare of society as a whole.
+
+There is an important corollary to the skill of the invisible hand in guiding economic activity: When the government prevents prices from adjusting naturally to supply and demand, it impedes the invisible hand’s ability to coordinate the millions of households and firms that make up the economy. This corollary explains why taxes adversely affect the allocation of resources: Taxes distort prices and thus the decisions of households and firms. It also explains the even greater harm caused by policies that directly control prices, such as rent control. And it explains the failure of communism. In communist countries, prices were not determined in the marketplace but were dictated by central planners. These planners lacked the information that gets reflected in prices when prices are free to respond to market forces. Central planners failed because they tried to run the economy with one hand tied behind their backs—the invisible hand of the marketplace.
+
+### PRINCIPLE #7: GOVERNMENTS CAN SOMETIMES IMPROVE MARKET OUTCOMES
+
+Although markets are usually a good way to organize economic activity, this rule has some important exceptions. There are two broad reasons for a government to intervene in the economy: to promote efficiency and to promote equity. That is, most policies aim either to enlarge the economic pie or to change how the pie is divided.
+
+The invisible hand usually leads markets to allocate resources efficiently. Nonetheless, for various reasons, the invisible hand sometimes does not work. Economists use the term market failure to refer to a situation in which the market on its own fails to allocate resources efficiently.
+
+One possible cause of market failure is an externality. An externality is the impact of one person’s actions on the well-being of a bystander. The classic example of an external cost is pollution. If a chemical factory does not bear the entire cost of the smoke it emits, it will likely emit too much. Here, the government can raise economic well-being through environmental regulation. The classic example of an external benefit is the creation of knowledge. When a scientist makes an important discovery, he produces a valuable resource that other people can use. In this case, the government can raise economic well-being by subsidizing basic research, as in fact it does.
+
+Another possible cause of market failure is market power. Market power refers to the ability of a single person (or small group of people) to unduly influence market prices. For example, suppose that everyone in town needs water but there is only one well. The owner of the well has market power—in this case a monopoly—over the sale of water. The well owner is not subject to the rigorous competition with which the invisible hand normally keeps self-interest in check. You will learn that, in this case, regulating the price that the monopolist charges can potentially enhance economic efficiency.
+
+The invisible hand is even less able to ensure that economic prosperity is distributed fairly. A market economy rewards people according to their ability to produce things that other people are willing to pay for. The world’s best basketball player earns more than the world’s best chess player simply because people are willing to pay more to watch basketball than chess. The invisible hand does not ensure that everyone has sufficient food, decent clothing, and adequate health care. A goal of many public policies, such as the income tax and the welfare system, is to achieve a more equitable distribution of economic well-being.
+
+To say that the government can improve on market outcomes at times does not mean that it always will. Public policy is made not by angels but by a political process that is far from perfect. Sometimes policies are designed simply to reward the politically powerful. Sometimes they are made by well-intentioned leaders who are not fully informed. One goal of the study of economics is to help you judge when a government policy is justifiable to promote efficiency or equity and when it is not.
+
+QUICK QUIZ: List and briefly explain the three principles concerning economic interactions.
+
+### HOW THE ECONOMY AS A WHOLE WORKS
+
+We started by discussing how individuals make decisions and then looked at how people interact with one another. All these decisions and interactions together make up “the economy.” The last three principles concern the workings of the economy as a whole.
+
+PRINCIPLE #8: A COUNTRY’S STANDARD OF LIVING DEPENDS ON ITS ABILITY TO PRODUCE GOODS AND SERVICES
+Produce Goods and Services
+
+The differences in living standards around the world are staggering. In 1997 the average American had an income of about $29,000. In the same year, the average Mexican earned $8,000, and the average Nigerian earned $900. Not surprisingly, this large variation in average income is reflected in various measures of the quality of life. Citizens of high-income countries have more TV sets, more cars, better nutrition, better health care, and longer life expectancy than citizens of low-income countries.
+
+Changes in living standards over time are also large. In the United States, incomes have historically grown about 2 percent per year (after adjusting for changes in the cost of living). At this rate, average income doubles every 35 years. Over the past century, average income has risen about eightfold.
+
+What explains these large differences in living standards among countries and over time? The answer is surprisingly simple. Almost all variation in living standards is attributable to differences in countries’ productivity—that is, the amount of goods and services produced from each hour of a worker’s time. In nations where workers can produce a large quantity of goods and services per unit of time, most people enjoy a high standard of living; in nations where workers are less productive, most people must endure a more meager existence. Similarly, the growth rate of a nation’s productivity determines the growth rate of its average income.
+
+The fundamental relationship between productivity and living standards is simple, but its implications are far-reaching. If productivity is the primary determinant of living standards, other explanations must be of secondary importance. For example, it might be tempting to credit labor unions or minimum-wage laws for the rise in living standards of American workers over the past century. Yet the real hero of American workers is their rising productivity. As another example, some commentators have claimed that increased competition from Japan and other countries explains the slow growth in U.S. incomes over the past 30 years. Yet the real villain is not competition from abroad but flagging productivity growth in the United States.
+
+The relationship between productivity and living standards also has profound implications for public policy. When thinking about how any policy will affect living standards, the key question is how it will affect our ability to produce goods and services. To boost living standards, policymakers need to raise productivity by ensuring that workers are well educated, have the tools needed to produce goods and services, and have access to the best available technology.
+
+In the 1980s and 1990s, for example, much debate in the United States centered on the government’s budget deficit—the excess of government spending over government revenue. As we will see, concern over the budget deficit was based largely on its adverse impact on productivity. When the government needs to finance a budget deficit, it does so by borrowing in financial markets, much as a student might borrow to finance a college education or a firm might borrow to finance a new factory. As the government borrows to finance its deficit, therefore, it reduces the quantity of funds available for other borrowers. The budget deficit thereby reduces investment both in human capital (the student’s education) and physical capital (the firm’s factory). Because lower investment today means lower productivity in the future, government budget deficits are generally thought to depress growth in living standards.
+
+### PRINCIPLE #9: PRICES RISE WHEN THE GOVERNMENT PRINTS TOO MUCH MONEY
+
+In Germany in January 1921, a daily newspaper cost 0.30 marks. Less than two years later, in November 1922, the same newspaper cost 70,000,000 marks. All other prices in the economy rose by similar amounts. This episode is one of history’s most spectacular examples of inflation, an increase in the overall level of prices in the economy.
+
+Although the United States has never experienced inflation even close to that in Germany in the 1920s, inflation has at times been an economic problem. During the 1970s, for instance, the overall level of prices more than doubled, and President Gerald Ford called inflation “public enemy number one.” By contrast, inflation in the 1990s was about 3 percent per year; at this rate it would take more than 20 years for prices to double. Because high inflation imposes various costs on society, keeping inflation at a low level is a goal of economic policymakers around the world.
+
+What causes inflation? In almost all cases of large or persistent inflation, the culprit turns out to be the same—growth in the quantity of money. When a government creates large quantities of the nation’s money, the value of the money falls. In Germany in the early 1920s, when prices were on average tripling every month, the quantity of money was also tripling every month. Although less dramatic, the economic history of the United States points to a similar conclusion: The high inflation of the 1970s was associated with rapid growth in the quantity of money, and the low inflation of the 1990s was associated with slow growth in the quantity of money.
+
+### PRINCIPLE #10: SOCIETY FACES A SHORT-RUN TRADEOFF BETWEEN INFLATION AND UNEMPLOYMENT
+
+If inflation is so easy to explain, why do policymakers sometimes have trouble ridding the economy of it? One reason is that reducing inflation is often thought to cause a temporary rise in unemployment. The curve that illustrates this tradeoff between inflation and unemployment is called the Phillips curve, after the economist who first examined this relationship.
+
+The Phillips curve remains a controversial topic among economists, but most economists today accept the idea that there is a short-run tradeoff between inflation and unemployment. This simply means that, over a period of a year or two, many economic policies push inflation and unemployment in opposite directions. Policymakers face this tradeoff regardless of whether inflation and unemployment both start out at high levels (as they were in the early 1980s), at low levels (as they were in the late 1990s), or someplace in between.
+
+Why do we face this short-run tradeoff? According to a common explanation, it arises because some prices are slow to adjust. Suppose, for example, that the government reduces the quantity of money in the economy. In the long run, the only result of this policy change will be a fall in the overall level of prices. Yet not all prices will adjust immediately. It may take several years before all firms issue new catalogs, all unions make wage concessions, and all restaurants print new menus. That is, prices are said to be sticky in the short run.
+
+Because prices are sticky, various types of government policy have short-run effects that differ from their long-run effects. When the government reduces the quantity of money, for instance, it reduces the amount that people spend. Lower spending, together with prices that are stuck too high, reduces the quantity of goods and services that firms sell. Lower sales, in turn, cause firms to lay off workers. Thus, the reduction in the quantity of money raises unemployment temporarily until prices have fully adjusted to the change.
+
+The tradeoff between inflation and unemployment is only temporary, but it can last for several years. The Phillips curve is, therefore, crucial for understanding many developments in the economy. In particular, policymakers can exploit this tradeoff using various policy instruments. By changing the amount that the government spends, the amount it taxes, and the amount of money it prints, policymakers can, in the short run, influence the combination of inflation and unemployment that the economy experiences. Because these instruments of monetary and fiscal policy are potentially so powerful, how policymakers should use these instruments to control the economy, if at all, is a subject of continuing debate.
+
+QUICK QUIZ: List and briefly explain the three principles that describe how the economy as a whole works.
+
+### CONCLUSION
+
+You now have a taste of what economics is all about. In the coming chapters we will develop many specific insights about people, markets, and economies. Mastering these insights will take some effort, but it is not an overwhelming task. The field of economics is based on a few basic ideas that can be applied in many different situations.
+
+Throughout this book we will refer back to the Ten Principles of Economics highlighted in this chapter and summarized in Table 1-1. Whenever we do so, a building-blocks icon will be displayed in the margin, as it is now. But even when that icon is absent, you should keep these building blocks in mind. Even the most sophisticated economic analysis is built using the ten principles introduced here.
+
+Table 1-1
+
+Ten Principles of Economics
+
+### HOW PEOPLE MAKE DECISIONS
+#1: People Face Tradeoffs
+#2: The Cost of Something Is What You Give Up to Get It
+#3: Rational People Think at the Margin
+#4: People Respond to Incentives
+
+### HOW PEOPLE INTERACT
+#5: Trade Can Make Everyone Better Off
+#6: Markets Are Usually a Good Way to Organize Economic Activity
+#7: Governments Can Sometimes Improve Market Outcomes
+
+### HOW THE ECONOMY AS A WHOLE WORKS
+#8: A Country’s Standard of Living Depends on Its Ability to Produce Goods and Services
+#9: Prices Rise When the Government Prints Too Much Money
+#10: Society Faces a Short-Run Tradeoff between Inflation and Unemployment
+## INTRODUCTION
+
+## Summary
+
+- The fundamental lessons about individual decisionmaking are that people face tradeoffs among alternative goals, that the cost of any action is measured in terms of forgone opportunities, that rational people make decisions by comparing marginal costs and marginal benefits, and that people change their behavior in response to the incentives they face.
+
+- The fundamental lessons about interactions among people are that trade can be mutually beneficial, that markets are usually a good way of coordinating trade among people, and that the government can potentially improve market outcomes if there is some market failure or if the market outcome is inequitable.
+
+- The fundamental lessons about the economy as a whole are that productivity is the ultimate source of living standards, that money growth is the ultimate source of inflation, and that society faces a short-run tradeoff between inflation and unemployment.
+
+## Key Concepts
+
+scarcity, p. 4; economics, p. 4; efficiency, p. 5; equity, p. 5; opportunity cost, p. 6; marginal changes, p. 6; market economy, p. 9; market failure, p. 11; externality, p. 11; market power, p. 11; productivity, p. 12; inflation, p. 13; Phillips curve, p. 14.
+
+## Questions for Review
+
+1. Give three examples of important tradeoffs that you face in your life.
+2. What is the opportunity cost of seeing a movie?
+3. Water is necessary for life. Is the marginal benefit of a glass of water large or small?
+4. Why should policymakers think about incentives?
+5. Why isn’t trade among countries like a game with some winners and some losers?
+6. What does the “invisible hand” of the marketplace do?
+7. Explain the two main causes of market failure and give an example of each.
+8. Why is productivity important?
+9. What is inflation, and what causes it?
+10. How are inflation and unemployment related in the short run?
+
+## Problems and Applications
+
+1. Describe some of the tradeoffs faced by the following:
+a. a family deciding whether to buy a new car
+b. a member of Congress deciding how much to spend on national parks
+c. a company president deciding whether to open a new factory
+d. a professor deciding how much to prepare for class
+2. You are trying to decide whether to take a vacation. Most of the costs of the vacation (airfare, hotel, forgone wages) are measured in dollars, but the benefits of the vacation are psychological. How can you compare the benefits to the costs?
+3. You were planning to spend Saturday working at your part-time job, but a friend asks you to go skiing. What is the true cost of going skiing? Now suppose that you had been planning to spend the day studying at the library. What is the cost of going skiing in this case? Explain.
+4. You win $100 in a basketball pool. You have a choice between spending the money now or putting it away for a year in a bank account that pays 5 percent interest. What is the opportunity cost of spending the $100 now?
+5. The company that you manage has invested $5 million in developing a new product, but the development is not quite finished. At a recent meeting, your salespeople report that the introduction of competing products has reduced the expected sales of your new product to $3 million. If it would cost $1 million to finish development and make the product, should you go ahead and do so? What is the most that you should pay to complete development?
+6. Three managers of the Magic Potion Company are discussing a possible increase in production. Each suggests a way to make this decision.
+HARRY: We should examine whether our company’s productivity—gallons of potion per worker—would rise or fall.
+RON: We should examine whether our average cost—cost per worker—would rise or fall.
+HERMIONE: We should examine whether the extra revenue from selling the additional potion would be greater or smaller than the extra costs.
+Who do you think is right? Why?
+7. The Social Security system provides income for people over age 65. If a recipient of Social Security decides to work and earn some income, the amount he or she receives in Social Security benefits is typically reduced.
+a. How does the provision of Social Security affect people’s incentive to save while working?
+b. How does the reduction in benefits associated with higher earnings affect people’s incentive to work past age 65?
+8. A recent bill reforming the government’s antipoverty programs limited many welfare recipients to only two years of benefits.
+a. How does this change affect the incentives for working?
+b. How might this change represent a tradeoff between equity and efficiency?
+9. Your roommate is a better cook than you are, but you can clean more quickly than your roommate can. If your roommate did all of the cooking and you did all of the cleaning, would your chores take you more or less time than if you divided each task evenly? Give a similar example of how specialization and trade can make two countries both better off.
+10. Suppose the United States adopted central planning for its economy, and you became the chief planner. Among the millions of decisions that you need to make for next year are how many compact discs to produce, what artists to record, and who should receive the discs.
+a. To make these decisions intelligently, what information would you need about the compact disc industry? What information would you need about each of the people in the United States?
+b. How would your decisions about CDs affect some of your other decisions, such as how many CD players to make or cassette tapes to produce? How might some of your other decisions about the economy change your views about CDs?
+11. Explain whether each of the following government activities is motivated by a concern about equity or a concern about efficiency. In the case of efficiency, discuss the type of market failure involved.
+a. regulating cable-TV prices
+b. providing some poor people with vouchers that can be used to buy food
+c. prohibiting smoking in public places
+d. breaking up Standard Oil (which once owned 90 percent of all oil refineries) into several smaller companies
+e. imposing higher personal income tax rates on people with higher incomes
+f. instituting laws against driving while intoxicated
+12. Discuss each of the following statements from the standpoints of equity and efficiency.
+a. “Everyone in society should be guaranteed the best health care possible.”
+b. “When workers are laid off, they should be able to collect unemployment benefits until they find a new job.”
+13. In what ways is your standard of living different from that of your parents or grandparents when they were your age? Why have these changes occurred?
+14. Suppose Americans decide to save more of their incomes. If banks lend this extra saving to businesses, which use the funds to build new factories, how might this lead to faster growth in productivity? Who do you suppose benefits from the higher productivity? Is society getting a free lunch?
+15. Suppose that when everyone wakes up tomorrow, they discover that the government has given them an additional amount of money equal to the amount they already had. Explain what effect this doubling of the money supply will likely have on the following:
+a. the total amount spent on goods and services
+b. the quantity of goods and services purchased if prices are sticky
+c. the prices of goods and services if prices can adjust
+16. Imagine that you are a policymaker trying to decide whether to reduce the rate of inflation. To make an intelligent decision, what would you need to know about inflation, unemployment, and the tradeoff between them?
+
+IN THIS CHAPTER, YOU WILL...
+See how economists apply the methods of science.
+Consider how assumptions and models can shed light on the world.
+Learn two simple models—the circular flow and the production possibilities frontier.
+Distinguish between microeconomics and macroeconomics.
+Learn the difference between positive and normative statements.
+Examine the role of economists in making policy.
+Consider why economists sometimes disagree with one another.
+
+## THINKING LIKE AN ECONOMIST
+
+Every field of study has its own language and its own way of thinking. Mathematicians talk about axioms, integrals, and vector spaces. Psychologists talk about ego, id, and cognitive dissonance. Lawyers talk about venue, torts, and promissory estoppel.
+
+Economics is no different. Supply, demand, elasticity, comparative advantage, consumer surplus, deadweight loss—these terms are part of the economist’s language. In the coming chapters, you will encounter many new terms and some familiar words that economists use in specialized ways. At first, this new language may seem needlessly arcane. But, as you will see, its value lies in its ability to provide you a new and useful way of thinking about the world in which you live.
+
+The single most important purpose of this book is to help you learn the economist’s way of thinking. Of course, just as you cannot become a mathematician, psychologist, or lawyer overnight, learning to think like an economist will take some time. Yet with a combination of theory, case studies, and examples of economics in the news, this book will give you ample opportunity to develop and practice this skill.
+
+Before delving into the substance and details of economics, it is helpful to have an overview of how economists approach the world. This chapter, therefore, discusses the field’s methodology. What is distinctive about how economists confront a question? What does it mean to think like an economist?
+
+## THE ECONOMIST AS SCIENTIST
+
+Economists try to address their subject with a scientist’s objectivity. They approach the study of the economy in much the same way as a physicist approaches the study of matter and a biologist approaches the study of life: They devise theories, collect data, and then analyze these data in an attempt to verify or refute their theories.
+
+To beginners, it can seem odd
+It is hard to claim that economics is a science. After all, economists do not work with test tubes or telescopes. The essence of science, however, is the scientific method—the dispassionate development and testing of theories about how the world works. This method of inquiry is as applicable to studying a nation’s economy as it is to studying the earth’s gravity or a species’ evolution. As Albert Einstein once put it, “The whole of science is nothing more than the refinement of everyday thinking.”
+
+Although Einstein’s comment is as true for social sciences such as economics as it is for natural sciences such as physics, most people are not accustomed to looking at society through the eyes of a scientist. Let’s therefore discuss some of the ways in which economists apply the logic of science to examine how an economy works.
+
+### THE SCIENTIFIC METHOD: OBSERVATION, THEORY, AND MORE OBSERVATION
+
+Isaac Newton, the famous seventeenth-century scientist and mathematician, allegedly became intrigued one day when he saw an apple fall from an apple tree. This observation motivated Newton to develop a theory of gravity that applies not only to an apple falling to the earth but to any two objects in the universe. Subsequent testing of Newton’s theory has shown that it works well in many circumstances (although, as Einstein would later emphasize, not in all circumstances). Because Newton’s theory has been so successful at explaining observation, it is still taught today in undergraduate physics courses around the world.
+
+This interplay between theory and observation also occurs in the field of economics. An economist might live in a country experiencing rapid increases in prices and be moved by this observation to develop a theory of inflation. The theory might assert that high inflation arises when the government prints too much money. (As you may recall, this was one of the Ten Principles of Economics in Chapter 1.) To test this theory, the economist could collect and analyze data on prices and money from many different countries. If growth in the quantity of money were not at all related to the rate at which prices are rising, the economist would start to doubt the validity of his theory of inflation. If money growth and inflation were strongly correlated in international data, as in fact they are, the economist would become more confident in his theory.
+
+Although economists use theory and observation like other scientists, they do face an obstacle that makes their task especially challenging: Experiments are often difficult in economics. Physicists studying gravity can drop many objects in their laboratories to generate data to test their theories. By contrast, economists studying inflation are not allowed to manipulate a nation’s monetary policy simply to generate useful data. Economists, like astronomers and evolutionary biologists, usually have to make do with whatever data the world happens to give them.
+
+To find a substitute for laboratory experiments, economists pay close attention to the natural experiments offered by history. When a war in the Middle East interrupts the flow of crude oil, for instance, oil prices skyrocket around the world. For consumers of oil and oil products, such an event depresses living standards. For economic policymakers, it poses a difficult choice about how best to respond. But for economic scientists, it provides an opportunity to study the effects of a key natural resource on the world’s economies, and this opportunity persists long after the wartime increase in oil prices is over. Throughout this book, therefore, we consider many historical episodes. These episodes are valuable to study because they give us insight into the economy of the past and, more important, because they allow us to illustrate and evaluate economic theories of the present.
+
+### THE ROLE OF ASSUMPTIONS
+
+If you ask a physicist how long it would take for a marble to fall from the top of a ten-story building, she will answer the question by assuming that the marble falls in a vacuum. Of course, this assumption is false. In fact, the building is surrounded by air, which exerts friction on the falling marble and slows it down. Yet the physicist will correctly point out that friction on the marble is so small that its effect is negligible. Assuming the marble falls in a vacuum greatly simplifies the problem without substantially affecting the answer.
+
+Economists make assumptions for the same reason: Assumptions can make the world easier to understand. To study the effects of international trade, for example, we may assume that the world consists of only two countries and that each country produces only two goods. Of course, the real world consists of dozens of countries, each of which produces thousands of different types of goods. But by assuming two countries and two goods, we can focus our thinking. Once we understand international trade in an imaginary world with two countries and two goods, we are in a better position to understand international trade in the more complex world in which we live.
+
+The art in scientific thinking—whether in physics, biology, or economics—is deciding which assumptions to make. Suppose, for instance, that we were dropping a beach ball rather than a marble from the top of the building. Our physicist would realize that the assumption of no friction is far less accurate in this case: Friction exerts a greater force on a beach ball than on a marble. The assumption that gravity works in a vacuum is reasonable for studying a falling marble but not for studying a falling beach ball.
+
+Similarly, economists use different assumptions to answer different questions. Suppose that we want to study what happens to the economy when the government changes the number of dollars in circulation. An important piece of this analysis, it turns out, is how prices respond. Many prices in the economy change infrequently; the newsstand prices of magazines, for instance, are changed only every few years. Knowing this fact may lead us to make different assumptions when studying the effects of the policy change over different time horizons. For studying the short-run effects of the policy
+The inner loop of the circular-flow diagram represents the flows of goods and services between households and firms. The households sell the use of their labor, land, and capital to the firms in the markets for the factors of production. The firms then use these factors to produce goods and services, which in turn are sold to households in the markets for goods and services. Hence, the factors of production flow from households to firms, and goods and services flow from firms to households.
+
+The outer loop of the circular-flow diagram represents the corresponding flow of dollars. The households spend money to buy goods and services from the firms. The firms use some of the revenue from these sales to pay for the factors of production, such as the wages of their workers. What’s left is the profit of the firm owners, who themselves are members of households. Hence, spending on goods and services flows from households to firms, and income in the form of wages, rent, and profit flows from firms to households.
+
+Let’s take a tour of the circular flow by following a dollar bill as it makes its way from person to person through the economy. Imagine that the dollar begins at a household, sitting in, say, your wallet. If you want to buy a cup of coffee, you take the dollar to one of the economy’s markets for goods and services, such as your local Starbucks coffee shop. There you spend it on your favorite drink. When the dollar moves into the Starbucks cash register, it becomes revenue for the firm. The dollar doesn’t stay at Starbucks for long, however, because the firm uses it to buy inputs in the markets for the factors of production. For instance, Starbucks might use the dollar to pay rent to its landlord for the space it occupies or to pay the wages of its workers. In either case, the dollar enters the income of some household and, once again, is back in someone’s wallet. At that point, the story of the economy’s circular flow starts once again.
+
+The circular-flow diagram in Figure 2-1 is one simple model of the economy. It dispenses with details that, for some purposes, are significant. A more complex and realistic circular-flow model would include, for instance, the roles of government and international trade. Yet these details are not crucial for a basic understanding of how the economy is organized. Because of its simplicity, this circular-flow diagram is useful to keep in mind when thinking about how the pieces of the economy fit together.
+
+### OUR SECOND MODEL: THE PRODUCTION POSSIBILITIES FRONTIER
+
+Most economic models, unlike the circular-flow diagram, are built using the tools of mathematics. Here we consider one of the simplest such models, called the production possibilities frontier, and see how this model illustrates some basic economic ideas.
+
+Although real economies produce thousands of goods and services, let’s imagine an economy that produces only two goods—cars and computers. Together the car industry and the computer industry use all of the economy’s factors of production. The production possibilities frontier is a graph that shows the various combinations of output—in this case, cars and computers—that the economy can possibly produce given the available factors of production and the available production technology that firms can use to turn these factors into output.
+
+Figure 2-2 is an example of a production possibilities frontier. In this economy, if all resources were used in the car industry, the economy would produce 1,000 cars and no computers. If all resources were used in the computer industry, the economy would produce 3,000 computers and no cars. The two end points of the production possibilities frontier represent these extreme possibilities. If the economy were to divide its resources between the two industries, it could produce 700 cars and 2,000 computers, shown in the figure by point A. By contrast, the outcome at point D is not possible because resources are scarce: The economy does not have enough of the factors of production to support that level of output. In other words, the economy can produce at any point on or inside the production possibilities frontier, but it cannot produce at points outside the frontier.
+
+An outcome is said to be efficient if the economy is getting all it can from the scarce resources it has available. Points on (rather than inside) the production possibilities frontier represent efficient levels of production. When the economy is producing at such a point, say point A, there is no way to produce more of one good without producing less of the other. Point B represents an inefficient outcome. For some reason, perhaps widespread unemployment, the economy is producing less than it could from the resources it has available: It is producing only 300 cars and 1,000 computers. If the source of the inefficiency were eliminated, the economy could move from point B to point A, increasing production of both cars (to 700) and computers (to 2,000).
+
+One of the Ten Principles of Economics discussed in Chapter 1 is that people face tradeoffs. The production possibilities frontier shows one tradeoff that society faces. Once we have reached the efficient points on the frontier, the only way of getting more of one good is to get less of the other. When the economy moves from point A to point C, for instance, society produces more computers but at the expense of producing fewer cars.
+
+Another of the Ten Principles of Economics is that the cost of something is what you give up to get it. This is called the opportunity cost. The production possibilities frontier shows the opportunity cost of one good as measured in terms of the other good. When society reallocates some of the factors of production from the car industry to the computer industry, moving the economy from point A to point C, it gives up 100 cars to get 200 additional computers. In other words, when the economy is at point A, the opportunity cost of 200 computers is 100 cars.
+
+Notice that the production possibilities frontier in Figure 2-2 is bowed outward. This means that the opportunity cost of cars in terms of computers depends on how much of each good the economy is producing. When the economy is using most of its resources to make cars, the production possibilities frontier is quite steep. Because even workers and machines best suited to making computers are being used to make cars, the economy gets a substantial increase in the number of computers for each car it gives up. By contrast, when the economy is using most of its resources to make computers, the production possibilities frontier is quite flat. In this case, the resources best suited to making computers are already in the computer industry, and each car the economy gives up yields only a small increase in the number of computers.
+
+The production possibilities frontier shows the tradeoff between the production of different goods at a given time, but the tradeoff can change over time. For example, if a technological advance in the computer industry raises the number of computers that a worker can produce per week, the economy can make more computers for any given number of cars. As a result, the production possibilities frontier shifts outward, as in Figure 2-3. Because of this economic growth, society might move production from point A to point E, enjoying more computers and more cars.
+
+The production possibilities frontier simplifies a complex economy to highlight and clarify some basic ideas. We have used it to illustrate some of the concepts mentioned briefly in Chapter 1: scarcity, efficiency, tradeoffs, opportunity cost, and economic growth. As you study economics, these ideas will recur in various forms. The production possibilities frontier offers one simple way of thinking about them.
+
+### MICROECONOMICS AND MACROECONOMICS
+OECONOMICS
+Many subjects are studied on various levels. Consider biology, for example. Molecular biologists study the chemical compounds that make up living things. Cellular biologists study cells, which are made up of many chemical compounds and, at the same time, are themselves the building blocks of living organisms. Evolutionary biologists study the many varieties of animals and plants and how species change gradually over the centuries.
+
+Economics is also studied on various levels. We can study the decisions of individual households and firms. Or we can study the interaction of households and firms in markets for specific goods and services. Or we can study the operation of the economy as a whole, which is just the sum of the activities of all these decision makers in all these markets.
+
+The field of economics is traditionally divided into two broad subfields. Microeconomics is the study of how households and firms make decisions and how they interact in specific markets. Macroeconomics is the study of economy-wide phenomena. A microeconomist might study the effects of rent control on housing in New York City, the impact of foreign competition on the U.S. auto industry, or the effects of compulsory school attendance on workers’ earnings. A macroeconomist might study the effects of borrowing by the federal government, the changes over time in the economy’s rate of unemployment, or alternative policies to raise growth in national living standards.
+
+Microeconomics and macroeconomics are closely intertwined. Because changes in the overall economy arise from the decisions of millions of individuals, it is impossible to understand macroeconomic developments without considering the associated microeconomic decisions. For example, a macroeconomist might study the effect of a cut in the federal income tax on the overall production of goods and services. To analyze this issue, he or she must consider how the tax cut affects the decisions of households about how much to spend on goods and services.
+
+Despite the inherent link between microeconomics and macroeconomics, the two fields are distinct. In economics, as in biology, it may seem natural to begin with the smallest unit and build up. Yet doing so is neither necessary nor always the best way to proceed. Evolutionary biology is, in a sense, built upon molecular biology, since species are made up of molecules. Yet molecular biology and evolutionary biology are separate fields, each with its own questions and its own methods. Similarly, because microeconomics and macroeconomics address different questions, they sometimes take quite different approaches and are often taught in separate courses.
+
+### THE ECONOMIST AS POLICY ADVISER
+Often economists are asked to explain the causes of economic events. Why, for example, is unemployment higher for teenagers than for older workers? Sometimes economists are asked to recommend policies to improve economic outcomes. What, for instance, should the government do to improve the economic well-being of teenagers? When economists are trying to explain the world, they are scientists. When they are trying to help improve it, they are policy advisers.
+
+### POSITIVE VERSUS NORMATIVE ANALYSIS
+To help clarify the two roles that economists play, we begin by examining the use of language. Because scientists and policy advisers have different goals, they use language in different ways.
+
+For example, suppose that two people are discussing minimum-wage laws. Here are two statements you might hear:
+POLLY: Minimum-wage laws cause unemployment.
+NORMA: The government should raise the minimum wage.
+
+Ignoring for now whether you agree with these statements, notice that Polly and Norma differ in what they are trying to do. Polly is speaking like a scientist: She is making a claim about how the world works. Norma is speaking like a policy adviser: She is making a claim about how she would like to change the world.
+
+In general, statements about the world are of two types. One type, such as Polly’s, is positive. Positive statements are descriptive. They make a claim about how the world is. A second type of statement, such as Norma’s, is normative. Normative statements are prescriptive. They make a claim about how the world ought to be.
+
+A key difference between positive and normative statements is how we judge their validity. We can, in principle, confirm or refute positive statements by examining evidence. An economist might evaluate Polly’s statement by analyzing data on changes in minimum wages and changes in unemployment over time. By contrast, evaluating normative statements involves values as well as facts. Norma’s statement cannot be judged using data alone. Deciding what is good or bad policy is not merely a matter of science. It also involves our views on ethics, religion, and political philosophy.
+
+Of course, positive and normative statements may be related. Our positive views about how the world works affect our normative views about what policies are desirable. Polly’s claim that the minimum wage causes unemployment, if true, might lead us to reject Norma’s conclusion that the government should raise the minimum wage. Yet our normative conclusions cannot come from positive analysis alone. Instead, they require both positive analysis and value judgments.
+
+As you study economics, keep in mind the distinction between positive and normative statements. Much of economics just tries to explain how the economy works. Yet often the goal of economics is to improve how the economy works. When you hear economists making normative statements, you know they have crossed the line from scientist to policy adviser.
+
+### ECONOMISTS IN WASHINGTON
+President Harry Truman once said that he wanted to find a one-armed economist. When he asked his economists for advice, they always answered, “On the one hand, . . . . On the other hand, . . . .”
+
+Truman was right in realizing that economists’ advice is not always straightforward. This tendency is rooted in one of the Ten Principles of Economics in Chapter 1: People face tradeoffs. Economists are aware that tradeoffs are involved in most policy decisions. A policy might increase efficiency at the cost of equity. It might help future generations but hurt current generations. An economist who says that all policy decisions are easy is an economist not to be trusted.
+
+Truman was also not alone among presidents in relying on the advice of economists. Since 1946, the president of the United States has received guidance from the Council of Economic Advisers, which consists of three members and a staff of several dozen economists. The council, whose offices are just a few steps from the White House, has no duty other than to advise the president and to write the annual Economic Report of the President.
+
+The president also receives input from economists in many administrative departments. Economists at the Department of Treasury help design tax policy. Economists at the Department of Labor analyze data on workers and those looking for work in order to help formulate labor-market policies. Economists at the Department of Justice help enforce the nation’s antitrust laws.
+
+Economists are also found outside the administrative branch of government. To obtain independent evaluations of policy proposals, Congress relies on the advice of the Congressional Budget Office, which is staffed by economists. The Federal Reserve, the quasi-governmental institution that sets the nation’s monetary policy, employs hundreds of economists to analyze economic developments in the United States and throughout the world.
+
+The influence of economists on policy goes beyond their role as advisers: Their research and writings often affect policy indirectly. Economist John Maynard Keynes offered this observation:
+The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood. Indeed, the world is ruled by little else. Practical men, who believe themselves to be quite exempt from intellectual influences, are usually the slaves of some defunct economist. Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back.
+
+Although these words were written in 1935, they remain true today. Indeed, the “academic scribbler” now influencing public policy is often Keynes himself.
+
+### WHY ECONOMISTS DISAGREE
+“If all economists were laid end to end, they would not reach a conclusion.” This quip from George Bernard Shaw is
+revealing. Economists as a group are often criticized for giving conflicting advice to policymakers. President Ronald Reagan once joked that if the game Trivial Pursuit were designed for economists, it would have 100 questions and 3,000 answers.
+
+Why do economists so often appear to give conflicting advice to policymakers? There are two basic reasons:
+1. Economists may disagree about the validity of alternative positive theories about how the world works.
+2. Economists may have different values and, therefore, different normative views about what policy should try to accomplish.
+
+Let’s discuss each of these reasons.
+
+### DIFFERENCES IN SCIENTIFIC JUDGMENTS
+Several centuries ago, astronomers debated whether the earth or the sun was at the center of the solar system. More recently, meteorologists have debated whether the earth is experiencing “global warming” and, if so, why. Science is a search for understanding about the world around us. It is not surprising that as the search continues, scientists can disagree about the direction in which truth lies.
+
+Economists often disagree for the same reason. Economics is a young science, and there is still much to be learned. Economists sometimes disagree because they have different hunches about the validity of alternative theories or about the size of important parameters.
+
+For example, economists disagree about whether the government should levy taxes based on a household’s income or its consumption (spending). Advocates of a switch from the current income tax to a consumption tax believe that the change would encourage households to save more, because income that is saved would not be taxed. Higher saving, in turn, would lead to more rapid growth in productivity and living standards. Advocates of the current income tax believe that household saving would not respond much to a change in the tax laws. These two groups of economists hold different normative views about the tax system because they have different positive views about the responsiveness of saving to tax incentives.
+
+### DIFFERENCES IN VALUES
+Suppose that Peter and Paul both take the same amount of water from the town well. To pay for maintaining the well, the town taxes its residents. Peter has income of $50,000 and is taxed $5,000, or 10 percent of his income. Paul has income of $10,000 and is taxed $2,000, or 20 percent of his income.
+
+Is this policy fair? If not, who pays too much and who pays too little? Does it matter whether Paul’s low income is due to a medical disability or to his decision to pursue a career in acting? Does it matter whether Peter’s high income is due to a large inheritance or to his willingness to work long hours at a dreary job?
+
+These are difficult questions on which people are likely to disagree. If the town hired two experts to study how the town should tax its residents to pay for the well, we would not be surprised if they offered conflicting advice.
+
+This simple example shows why economists sometimes disagree about public policy. As we learned earlier in our discussion of normative and positive analysis, policies cannot be judged on scientific grounds alone. Economists give conflicting advice sometimes because they have different values. Perfecting the science of economics will not tell us whether it is Peter or Paul who pays too much.
+
+### PERCEPTION VERSUS REALITY
+Because of differences in scientific judgments and differences in values, some disagreement among economists is inevitable. Yet one should not overstate the amount of disagreement. In many cases, economists do offer a united view.
+
+Table 2-2 contains ten propositions about economic policy. In a survey of economists in business, government, and academia, these propositions were endorsed by an overwhelming majority of respondents. Most of these propositions would fail to command a similar consensus among the general public.
+
+The first proposition in the table is about rent control. For reasons we will discuss in Chapter 6, almost all economists believe that rent control adversely affects the availability and quality of housing and is a very costly way of helping the most needy members of society. Nonetheless, many city governments choose to ignore the advice of economists and place ceilings on the rents that landlords may charge their tenants.
+
+The second proposition in the table concerns tariffs and import quotas. For reasons we will discuss in Chapter 3 and more fully in Chapter 9, almost all economists oppose such barriers to free trade. Nonetheless, over the years, the president and Congress have chosen to restrict the import of certain goods. In 1993 the North American Free Trade Agreement (NAFTA), which reduced barriers to trade among the United States, Canada, and Mexico, passed Congress, but only by a narrow margin, despite overwhelming support from economists. In this case, economists did offer united advice, but many members of Congress chose to ignore it.
+
+Why do policies such as rent control and import quotas persist if the experts are united in their opposition? The reason may be that economists have not yet convinced the general public that these policies are undesirable. One purpose of this book is to make you understand the economist’s view of these and other subjects and, perhaps, to persuade you that it is the right one.
+
+Table 2-2: Ten Propositions about Which Most Economists Agree
+### PROPOSITION (AND PERCENTAGE OF ECONOMISTS WHO AGREE)
+1. A ceiling on rents reduces the quantity and quality of housing available. (93%)
+2. Tariffs and import quotas usually reduce general economic welfare. (93%)
+3. Flexible and floating exchange rates offer an effective international monetary arrangement. (90%)
+4. Fiscal policy (e.g., tax cut and/or government expenditure increase) has a significant stimulative impact on a less than fully employed economy. (90%)
+5. If the federal budget is to be balanced, it should be done over the business cycle rather than yearly. (85%)
+6. Cash payments increase the welfare of recipients to a greater degree than do transfers-in-kind of equal cash value. (84%)
+7. A large federal budget deficit has an adverse effect on the economy. (83%)
+8. A minimum wage increases unemployment among young and unskilled workers. (79%)
+9. The government should restructure the welfare system along the lines of a “negative income tax.” (79%)
+10. Effluent taxes and marketable pollution permits represent a better approach to pollution control than imposition of pollution ceilings. (78%)
+SOURCE: Richard M. Alston, J. R. Kearl, and Michael B. Vaughn, “Is There Consensus among Economists in the 1990s?” American Economic Review (May 1992): 203–209.
+
+QUICK QUIZ: Why might economic advisers to the president disagree about a question of policy?
+
+### LET’S GET GOING
+The first two chapters of this book have introduced you to the ideas and methods of economics. We are now ready to get to work. In the next chapter we start learning in more detail the principles of economic behavior and economic policy.
+
+As you proceed through this book, you will be asked to draw on many of your intellectual skills. You might find it helpful to keep in mind some advice from the great economist John Maynard Keynes:
+The study of economics does not seem to require any specialized gifts of an unusually high order. Is it not . . . a very easy subject compared with the higher branches of philosophy or pure science? An easy subject, at which very few excel!
+
+The paradox finds its explanation, perhaps, in that the master-economist must possess a rare combination of gifts. He must be mathematician, historian, statesman, philosopher—in some degree. He must understand symbols and speak in words. He must contemplate the particular in terms of the general, and touch abstract and concrete in the same flight of thought. He must study the present in the light of the past for the purposes of the future. No part of man’s nature or his institutions must lie entirely outside his regard. He must be purposeful and disinterested in a simultaneous mood; as aloof and incorruptible as an artist, yet sometimes as near the earth as a politician.
+
+It is a tall order. But with practice, you will become more and more accustomed to thinking like an economist.
+
+Summary
+• Economists try to address their subject with a scientist’s objectivity. Like all scientists, they make appropriate assumptions and build simplified models in order to understand the world around them. Two simple economic models are the circular-flow diagram and the production possibilities frontier.
+• The field of economics is divided into two subfields: microeconomics and macroeconomics. Microeconomists study decisionmaking by households and firms and the interaction among households and firms in the marketplace. Macroeconomists study the forces and trends that affect the economy as a whole.
+• A positive statement is an assertion about how the world is. A normative statement is an assertion about how the world ought to be. When economists make normative statements, they are acting more as policy advisers than scientists.
+• Economists who advise policymakers offer conflicting advice either because of differences in scientific judgments or because of differences in values. At other times, economists are united in the advice they offer, but the policymakers may choose to ignore it.
+
+Key Concepts
+circular-flow diagram
+production possibilities frontier
+microeconomics
+macroeconomics
+positive statements
+normative statements
+
+Questions for Review
+1. How is economics like a science?
+2. Why do economists make assumptions?
+3. Should an economic model describe reality exactly?
+4. Draw and explain a production possibilities frontier for an economy that produces corn and computers. Show how the PPF illustrates scarcity, efficiency, trade-offs, opportunity cost, and economic growth.
+5. Define microeconomics and macroeconomics.
+6. What are the two subfields into which economics is divided? Explain what each subfield studies.
+7. What is the difference between a positive and a normative statement? Give an example of each.
+8. Who is regarded as the father of modern economics?
+9. What are two economic models that we use to illustrate basic economic problems?
+8. What is the Council of Economic Advisers?
+9. Why do economists sometimes offer conflicting advice to policymakers?
+
+Problems and Applications
+1. Describe some unusual language used in one of the other fields that you are studying. Why are these special terms useful?
+2. One common assumption in economics is that the products of different firms in the same industry are indistinguishable. For each of the following industries, discuss whether this is a reasonable assumption.
+a. steel
+b. novels
+c. wheat
+d. fast food
+3. Draw a circular-flow diagram. Identify the parts of the model that correspond to the flow of goods and services and the flow of dollars for each of the following activities.
+a. Sam pays a storekeeper $1 for a quart of milk.
+b. Sally earns $4.50 per hour working at a fast food restaurant.
+c. Serena spends $7 to see a movie.
+d. Stuart earns $10,000 from his 10 percent ownership of Acme Industrial.
+4. Imagine a society that produces military goods and consumer goods, which we’ll call “guns” and “butter.”
+a. Draw a production possibilities frontier for guns and butter. Explain why it most likely has a bowed-out shape.
+b. Show a point that is impossible for the economy to achieve. Show a point that is feasible but inefficient.
+c. Imagine that the society has two political parties, called the Hawks (who want a strong military) and the Doves (who want a smaller military). Show a point on your production possibilities frontier that the Hawks might choose and a point the Doves might choose.
+d. Imagine that an aggressive neighboring country reduces the size of its military. As a result, both the Hawks and the Doves reduce their desired production of guns by the same amount. Which party would get the bigger “peace dividend,” measured by the increase in butter production? Explain.
+5. The first principle of economics discussed in Chapter 1 is that people face tradeoffs. Use a production possibilities frontier to illustrate society’s tradeoff between a clean environment and high incomes. What do you suppose determines the shape and position of the frontier? Show what happens to the frontier if engineers develop an automobile engine with almost no emissions.
+6. Classify the following topics as relating to microeconomics or macroeconomics.
+a. a family’s decision about how much income to save
+b. the effect of government regulations on auto emissions
+c. the impact of higher national saving on economic growth
+d. a firm’s decision about how many workers to hire
+e. the relationship between the inflation rate and changes in the quantity of money
+7. Classify each of the following statements as positive or normative. Explain.
+a. Society faces a short-run tradeoff between inflation and unemployment.
+b. A reduction in the rate of growth of money will reduce the rate of inflation.
+c. The Federal Reserve should reduce the rate of growth of money.
+d. Society ought to require welfare recipients to look for jobs.
+e. Lower tax rates encourage more work and more saving.
+8. Classify each of the statements in Table 2-2 as positive, normative, or ambiguous. Explain.
+9. If you were president, would you be more interested in your economic advisers’ positive views or their normative views? Why?
+10. The Economic Report of the President contains statistical information about the economy as well as the Council of Economic Advisers’ analysis of current policy issues. Find a recent copy of this annual report at your library and read a chapter about an issue that interests you. Summarize the economic problem at hand and describe the council’s recommended policy.
+11. Who is the current chairman of the Federal Reserve? Who is the current chair of the Council of Economic Advisers? Who is the current secretary of the treasury?
+12. Look up one of the Web sites listed in Table 2-1. What recent economic trends or issues are addressed there?
+13. Would you expect economists to disagree less about public policy as time goes on? Why or why not? Can their differences be completely eliminated? Why or why not?
+
+### APPENDIX GRAPHING: A BRIEF REVIEW
+Many of the concepts that economists study can be expressed with numbers—the price of bananas, the quantity of bananas sold, the cost of growing bananas, and so on. Often these economic variables are related to one another. When the price of bananas rises, people buy fewer bananas. One way of expressing the relationships among variables is with graphs.
+Graphs serve two purposes. First,
+Students who study more do tend to get higher grades, but other factors also influence a student's grade. Previous preparation is an important factor, for instance, as are talent, attention from teachers, even eating a good breakfast. A scatterplot like Figure 2A-2 does not attempt to isolate the effect that study has on grades from the effects of other variables. Often, however, economists prefer looking at how one variable affects another holding everything else constant.
+
+To see how this is done, let's consider one of the most important graphs in economics—the demand curve. The demand curve traces out the effect of a good's price on the quantity of the good consumers want to buy. Before showing a demand curve, however, consider Table 2A-1, which shows how the number of novels that Emma buys depends on her income and on the price of novels. When novels are cheap, Emma buys them in large quantities. As they become more expensive, she borrows books from the library instead of buying them or chooses to go to the movies instead of reading. Similarly, at any given price, Emma buys more novels when she has a higher income. That is, when her income increases, she spends part of the additional income on novels and part on other goods.
+
+We now have three variables—the price of novels, income, and the number of novels purchased—which is more than we can represent in two dimensions.
+
+Table 2A-1
+NOVELS PURCHASED BY EMMA.
+### INCOME
+PRICE $20,000 $30,000 $40,000
+$10 2 novels 5 novels 8 novels
+$9 6 9 12
+$8 10 13 16
+$7 14 17 20
+$6 18 21 24
+$5 22 25 28
+
+To put the information from Table 2A-1 in graphical form, we need to hold one of the three variables constant and trace out the relationship between the other two. Because the demand curve represents the relationship between price and quantity demanded, we hold Emma's income constant and show how the number of novels she buys varies with the price of novels.
+
+Suppose that Emma's income is $30,000 per year. If we place the number of novels Emma purchases on the x-axis and the price of novels on the y-axis, we can graphically represent the middle column of Table 2A-1. When the points that represent these entries from the table—(5 novels, $10), (9 novels, $9), and so on—are connected, they form a line. This line, pictured in Figure 2A-3, is known as Emma's demand curve for novels; it tells us how many novels Emma purchases at any given price. The demand curve is downward sloping, indicating that a higher price reduces the quantity of novels demanded. Because the quantity of novels demanded and the price move in opposite directions, we say that the two variables are negatively related. (Conversely, when two variables move in the same direction, the curve relating them is upward sloping, and we say the variables are positively related.)
+
+Figure 2A-3
+DEMAND CURVE. The line D shows how Emma's purchases of novels depend on the price of novels when her income is held constant. Because the price and the quantity demanded are negatively related, the demand curve slopes downward.
+
+Price of Novels
+$11
+$10 (5, $10)
+$9 (9, $9)
+$8 (13, $8)
+$7 (17, $7)
+$6 (21, $6)
+$5 (25, $5)
+$4
+Demand, D
+0 5 10 15 20 25 30
+Quantity of Novels Purchased
+
+Now suppose that Emma's income rises to $40,000 per year. At any given price, Emma will purchase more novels than she did at her previous level of income. Just as earlier we drew Emma's demand curve for novels using the entries from the middle column of Table 2A-1, we now draw a new demand curve using the entries from the right-hand column of the table. This new demand curve (curve D₂) is pictured alongside the old one (curve D₁) in Figure 2A-4; the new curve is a similar line drawn farther to the right. We therefore say that Emma's demand curve for novels shifts to the right when her income increases. Likewise, if Emma's income were to fall to $20,000 per year, she would buy fewer novels at any given price and her demand curve would shift to the left (to curve D₃).
+
+In economics, it is important to distinguish between movements along a curve and shifts of a curve. As we can see from Figure 2A-3, if Emma earns $30,000 per year and novels cost $8 apiece, she will purchase 13 novels per year. If the price of novels falls to $7, Emma will increase her purchases of novels to 17 per year. The demand curve, however, stays fixed in the same place. Emma still buys the same number of novels at each price, but as the price falls she moves along her demand curve from left to right. By contrast, if the price of novels remains fixed at $8 but her income rises to $40,000, Emma increases her purchases of novels from 13 to 16 per year. Because Emma buys more novels at each price, her demand curve shifts out, as shown in Figure 2A-4.
+
+Figure 2A-4
+SHIFTING DEMAND CURVES. The location of Emma's demand curve for novels depends on how much income she earns. The more she earns, the more novels she will purchase at any given price, and the farther to the right her demand curve will lie.
+
+Price of Novels
+$11
+$10
+$9 (13, $8)
+$8 (16, $8) When income increases,
+(10, $8) the demand curve
+$7 shifts to the right.
+Curve D₁ represents Emma's
+$6 original demand curve when her
+$5 When income i n c o m e i s $ 3 0 , 0 0 0 p e r y e a r . I f h e r i n c o m e r i s e s t o $ 4 0 , 0 0 0 p e r y e a r , h e r d e m a n d c u r v e ( i n c o m e = $ 2 0 , 0 0 0 ) shifts to the left.
+$4 ( D i 2 n c o m e = $ 4 0 , 0 0 0 ) =
+$3 shifts to D₂. If her income falls to $20,000 per
+$2 year, her demand curve shifts
+$1 to D₃.
+0 5 10 13 15 16 20 25 30
+Quantity of Novels Purchased
+
+There is a simple way to tell when it is necessary to shift a curve. When a variable that is not named on either axis changes, the curve shifts. Income is on neither the x-axis nor the y-axis of the graph, so when Emma's income changes, her demand curve must shift. Any change that affects Emma's purchasing habits besides a change in the price of novels will result in a shift in her demand curve. If, for instance, the public library closes and Emma must buy all the books she wants to read, she will demand more novels at each price, and her demand curve will shift to the right. Or, if the price of movies falls and Emma spends more time at the movies and less time reading, she will demand fewer novels at each price, and her demand curve will shift to the left. By contrast, when a variable on an axis of the graph changes, the curve does not shift. We read the change as a movement along the curve.
+
+### SLOPE
+
+One question we might want to ask about Emma is how much her purchasing habits respond to price. Look at the demand curve pictured in Figure 2A-5. If this curve is very steep, Emma purchases nearly the same number of novels regardless of whether they are cheap or expensive. If this curve is much flatter, Emma purchases many fewer novels when the price rises. To answer questions about how much one variable responds to changes in another variable, we can use the concept of slope.
+
+The slope of a line is the ratio of the vertical distance covered to the horizontal distance covered as we move along the line. This definition is usually written out in mathematical symbols as follows:
+
+slope = Δy / Δx,
+
+where the Greek letter Δ (delta) stands for the change in a variable. In other words, the slope of a line is equal to the "rise" (change in y) divided by the "run" (change in x). The slope will be a small positive number for a fairly flat upward-sloping line, a large positive number for a steep upward-sloping line, and a negative number for a downward-sloping line. A horizontal line has a slope of zero because in this case the y-variable never changes; a vertical line is defined to have an infinite slope because the y-variable can take any value without the x-variable changing at all.
+
+What is the slope of Emma's demand curve for novels? First of all, because the curve slopes down, we know the slope will be negative. To calculate a numerical value for the slope, we must choose two points on the line. With Emma's income at $30,000, she will purchase 21 novels at a price of $6 or 13 novels at a price of $8. When we apply the slope formula, we are concerned with the change between these two points; in other words, we are concerned with the difference between them, which lets us know that we will have to subtract one set of values from the other, as follows:
+
+slope = Δy / Δx = (first y-coordinate – second y-coordinate) / (first x-coordinate – second x-coordinate) = (6 – 8) / (21 – 13) = –2 / 8 = –1/4.
+
+Figure 2A-5
+CALCULATING THE SLOPE OF A LINE. To calculate the slope of the demand curve, we can look at the changes in the x- and y-coordinates as we move from the point (21 novels, $6) to the point (13 novels, $8). The slope of the line is the ratio of the change in the y-coordinate (Δy = –2) to the change in the x-coordinate (Δx = 8), which equals –1/4.
+
+Price of Novels
+$11
+$10
+$9 (13, $8)
+$8
+$7 6 – 8 = –2
+(21, $6)
+$6 21 – 13 = 8
+$5
+$4 Demand, D
+0 5 10 13 15 20 21 25 30
+Quantity of Novels Purchased
+
+Figure 2A-5 shows graphically how this calculation works. Try computing the slope of Emma's demand curve using two different points. You should get exactly the same result, –1/4. One of the properties of a straight line is that it has the same slope everywhere. This is not true of other types of curves, which are steeper in some places than in others.
+
+The slope of Emma's demand curve tells us something about how responsive her purchases are to changes in the price.
+price. A small slope (a number close to zero) means that Emma’s demand curve is relatively flat; in this case, she adjusts the number of novels she buys substantially in response to a price change. A larger slope (a number farther from zero) means that Emma’s demand curve is relatively steep; in this case, she adjusts the number of novels she buys only slightly in response to a price change.
+
+### CAUSE AND EFFECT
+Economists often use graphs to advance an argument about how the economy works. In other words, they use graphs to argue about how one set of events causes another set of events. With a graph like the demand curve, there is no doubt about cause and effect. Because we are varying price and holding all other variables constant, we know that changes in the price of novels cause changes in the quantity Emma demands. Remember, however, that our demand curve came from a hypothetical example. When graphing data from the real world, it is often more difficult to establish how one variable affects another.
+The first problem is that it is difficult to hold everything else constant when measuring how one variable affects another. If we are not able to hold variables constant, we might decide that one variable on our graph is causing changes in the other variable when actually those changes are caused by a third omitted variable not pictured on the graph. Even if we have identified the correct two variables to look at, we might run into a second problem—reverse causality. In other words, we might decide that A causes B when in fact B causes A. The omitted-variable and reverse-causality traps require us to proceed with caution when using graphs to draw conclusions about causes and effects.
+Omitted Variables To see how omitting a variable can lead to a deceptive graph, let’s consider an example. Imagine that the government, spurred by public concern about the large number of deaths from cancer, commissions an exhaustive study from Big Brother Statistical Services, Inc. Big Brother examines many of the items found in people’s homes to see which of them are associated with the risk of cancer. Big Brother reports a strong relationship between two variables: the number of cigarette lighters that a household owns and the probability that someone in the household will develop cancer. Figure 2A-6 shows this relationship.
+What should we make of this result? Big Brother advises a quick policy response. It recommends that the government discourage the ownership of cigarette lighters by taxing their sale. It also recommends that the government require warning labels: “Big Brother has determined that this lighter is dangerous to your health.”
+In judging the validity of Big Brother’s analysis, one question is paramount: Has Big Brother held constant every relevant variable except the one under consideration? If the answer is no, the results are suspect. An easy explanation for Figure 2A-6 is that people who own more cigarette lighters are more likely to smoke cigarettes and that cigarettes, not lighters, cause cancer. If Figure 2A-6 does not hold constant the amount of smoking, it does not tell us the true effect of owning a cigarette lighter.
+This story illustrates an important principle: When you see a graph being used to support an argument about cause and effect, it is important to ask whether the movements of an omitted variable could explain the results you see.
+Reverse Causality Economists can also make mistakes about causality by misreading its direction. To see how this is possible, suppose the Association of American Anarchists commissions a study of crime in America and arrives at Figure 2A-7, which plots the number of violent crimes per thousand people in major cities against the number of police officers per thousand people. The anarchists note the curve’s upward slope and argue that because police increase rather than decrease the amount of urban violence, law enforcement should be abolished.
+If we could run a controlled experiment, we would avoid the danger of reverse causality. To run an experiment, we would set the number of police officers in different cities randomly and then examine the correlation between police and crime. Figure 2A-7, however, is not based on such an experiment. We simply observe that more dangerous cities have more police officers. The explanation for this may be that more dangerous cities hire more police. In other words, rather than police causing crime, crime may cause police. Nothing in the graph itself allows us to establish the direction of causality.
+It might seem that an easy way to determine the direction of causality is to examine which variable moves first. If we see crime increase and then the police force expand, we reach one conclusion. If we see the police force expand and then crime increase, we reach the other. Yet there is also a flaw with this approach: Often people change their behavior not in response to a change in their present conditions but in response to a change in their expectations of future conditions. A city that expects a major crime wave in the future, for instance, might well hire more police now. This problem is even easier to see in the case of babies and minivans. Couples often buy a minivan in anticipation of the birth of a child. The minivan comes before the baby, but we wouldn’t want to conclude that the sale of minivans causes the population to grow!
+There is no complete set of rules that says when it is appropriate to draw causal conclusions from graphs. Yet just keeping in mind that cigarette lighters don’t cause cancer (omitted variable) and minivans don’t cause larger families (reverse causality) will keep you from falling for many faulty economic arguments.
+
+IN THIS CHAPTER
+YOU WILL . . .
+Consider how everyone can benefit when people trade with one another
+Learn the meaning of absolute advantage and comparative advantage
+See how comparative advantage explains the gains from trade
+Consider your typical day. You wake up in the morning, and you pour yourself juice from oranges grown in Florida and coffee from beans grown in Brazil. Over breakfast, you watch a news program broadcast from New York on your television made in Japan. You get dressed in clothes made of cotton grown in Georgia and sewn in factories in Thailand. You drive to class in a car made of parts manufactured in more than a dozen countries around the world. Then you open up your economics textbook written by an author living in Massachusetts, published by a company located in Texas, and printed on paper made from trees grown in Oregon.
+Every day you rely on many people from around the world, most of whom you do not know, to provide you with the goods and services that you enjoy. Such interdependence is possible because people trade with one another. Those people who provide you with goods and services are not acting out of generosity or concern for your welfare. Nor is some government agency directing them to make what you want and to give it to you. Instead, people provide you and other consumers with the goods and services they produce because they get something in return.
+Apply the theory of comparative advantage to everyday life and national policy
+In subsequent chapters we will examine how our economy coordinates the activities of millions of people with varying tastes and abilities. As a starting point for this analysis, here we consider the reasons for economic interdependence. One of the Ten Principles of Economics highlighted in Chapter 1 is that trade can make everyone better off. This principle explains why people trade with their neighbors and why nations trade with other nations. In this chapter we examine this principle more closely. What exactly do people gain when they trade with one another? Why do people choose to become interdependent?
+### A PARABLE FOR THE MODERN ECONOMY
+To understand why people choose to depend on others for goods and services and how this choice improves their lives, let’s look at a simple economy. Imagine that there are two goods in the world—meat and potatoes. And there are two people in the world—a cattle rancher and a potato farmer—each of whom would like to eat both meat and potatoes.
+The gains from trade are most obvious if the rancher can produce only meat and the farmer can produce only potatoes. In one scenario, the rancher and the farmer could choose to have nothing to do with each other. But after several months of eating beef roasted, boiled, broiled, and grilled, the rancher might decide that self-sufficiency is not all it’s cracked up to be. The farmer, who has been eating potatoes mashed, fried, baked, and scalloped, would likely agree. It is easy to see that trade would allow them to enjoy greater variety: Each could then have a hamburger with french fries.
+Although this scene illustrates most simply how everyone can benefit from trade, the gains would be similar if the rancher and the farmer were each capable of producing the other good, but only at great cost. Suppose, for example, that the potato farmer is able to raise cattle and produce meat, but
+that he is not very good at it. Similarly, suppose that the cattle rancher is able to grow potatoes, but that her land is not very well suited for it. In this case, it is easy to see that the farmer and the rancher can each benefit by specializing in what he or she does best and then trading with the other.
+
+The gains from trade are less obvious, however, when one person is better at producing every good. For example, suppose that the rancher is better at raising cattle and better at growing potatoes than the farmer. In this case, should the rancher or farmer choose to remain self-sufficient? Or is there still reason for them to trade with each other? To answer this question, we need to look more closely at the factors that affect such a decision.
+
+### PRODUCTION POSSIBILITIES
+
+Suppose that the farmer and the rancher each work 40 hours a week and can devote this time to growing potatoes, raising cattle, or a combination of the two. Table 3-1 shows the amount of time each person requires to produce 1 pound of each good. The farmer can produce a pound of potatoes in 10 hours and a pound of meat in 20 hours. The rancher, who is more productive in both activities, can produce a pound of potatoes in 8 hours and a pound of meat in 1 hour.
+
+Table 3-1
+HOURS NEEDED TO MAKE 1 POUND OF:   AMOUNT PRODUCED IN 40 HOURS
+THE PRODUCTION OPPORTUNITIES OF THE
+MEAT   POTATOES                       FARMER AND THE RANCHER
+MEAT   POTATOES
+FARMER 20 hours/lb   10 hours/lb      2 lbs        4 lbs
+RANCHER 1 hour/lb    8 hours/lb       40 lbs       5 lbs
+
+Figure 3-1 illustrates the amounts of meat and potatoes that the farmer can produce. If the farmer devotes all 40 hours of his time to potatoes, he produces 4 pounds of potatoes and no meat. If he devotes all his time to meat, he produces 2 pounds of meat and no potatoes. If the farmer divides his time equally between the two activities, spending 20 hours on each, he produces 2 pounds of potatoes and 1 pound of meat. The figure shows these three possible outcomes and all others in between.
+
+This graph is the farmer’s production possibilities frontier. As we discussed in Chapter 2, a production possibilities frontier shows the various mixes of output that an economy can produce. It illustrates one of the Ten Principles of Economics in Chapter 1: People face tradeoffs. Here the farmer faces a tradeoff between producing meat and producing potatoes. You may recall that the production possibilities frontier in Chapter 2 was drawn bowed out; in this case, the tradeoff between the two goods depends on the amounts being produced. Here, however, the farmer’s technology for producing meat and potatoes (as summarized in Table 3-1) allows him to switch between one good and the other at a constant rate. In this case, the production possibilities frontier is a straight line.
+
+Panel (b) of Figure 3-1 shows the production possibilities frontier for the rancher. If the rancher devotes all 40 hours of her time to potatoes, she produces 5 pounds of potatoes and no meat. If she devotes all her time to meat, she produces 40 pounds of meat and no potatoes. If the rancher divides her time equally, spending 20 hours on each activity, she produces 2 1/2 pounds of potatoes and 20 pounds of meat. Once again, the production possibilities frontier shows all the possible outcomes.
+
+If the farmer and rancher choose to be self-sufficient, rather than trade with each other, then each consumes exactly what he or she produces. In this case, the production possibilities frontier is also the consumption possibilities frontier. That is, without trade, Figure 3-1 shows the possible combinations of meat and potatoes that the farmer and rancher can each consume.
+
+Although these production possibilities frontiers are useful in showing the tradeoffs that the farmer and rancher face, they do not tell us what the farmer and rancher will actually choose to do. To determine their choices, we need to know the tastes of the farmer and the rancher. Let’s suppose they choose the combinations identified by points A and B in Figure 3-1: The farmer produces and consumes 2 pounds of potatoes and 1 pound of meat, while the rancher produces and consumes 2 1/2 pounds of potatoes and 20 pounds of meat.
+
+### SPECIALIZATION AND TRADE
+
+After several years of eating combination B, the rancher gets an idea and goes to talk to the farmer:
+
+RANCHER: Farmer, my friend, have I got a deal for you! I know how to improve life for both of us. I think you should stop producing meat altogether and devote all your time to growing potatoes. According to my calculations, if you work 40 hours a week growing potatoes, you’ll produce 4 pounds of potatoes. If you give me 1 of those 4 pounds, I’ll give you 3 pounds of meat in return. In the end, you’ll get to eat 3 pounds of potatoes and 3 pounds of meat every week, instead of the 2 pounds of potatoes and 1 pound of meat you now get. If you go along with my plan, you’ll have more of both foods. [To illustrate her point, the rancher shows the farmer panel (a) of Figure 3-2.]
+
+FARMER: (sounding skeptical) That seems like a good deal for me. But I don’t understand why you are offering it. If the deal is so good for me, it can’t be good for you too.
+
+RANCHER: Oh, but it is! If I spend 24 hours a week raising cattle and 16 hours growing potatoes, I’ll produce 24 pounds of meat and 2 pounds of potatoes. After I give you 3 pounds of meat in exchange for 1 pound of potatoes, I’ll have 21 pounds of meat and 3 pounds of potatoes. In the end, I will also get more of both foods than I have now. [She points out panel (b) of Figure 3-2.]
+
+FARMER: I don’t know. . . . This sounds too good to be true.
+
+RANCHER: It’s really not as complicated as it seems at first. Here—I have summarized my proposal for you in a simple table. [The rancher hands the farmer a copy of Table 3-2.]
+
+FARMER: (after pausing to study the table) These calculations seem correct, but I am puzzled. How can this deal make us both better off?
+
+RANCHER: We can both benefit because trade allows each of us to specialize in doing what we do best. You will spend more time growing potatoes and less time raising cattle. I will spend more time raising cattle and less time growing potatoes. As a result of specialization and trade, each of us can consume both more meat and more potatoes without working any more hours.
+
+Table 3-2 THE GAINS FROM TRADE: A SUMMARY
+THE OUTCOME          THE OUTCOME      THE GAINS
+WITHOUT TRADE:       WITH TRADE:      FROM TRADE:
+WHAT THEY PRODUCE    WHAT THEY        WHAT THEY        THE INCREASE IN
+AND CONSUME          PRODUCE          TRADE CONSUME    CONSUMPTION
+FARMER              1 lb meat      }     0 lbs meat       Gets 3 lbs meat 3 lbs meat      } 2 lbs meat }
+point A              point A*         A*–A
+2 lbs potatoes       4 lbs potatoes   for 1 lb potatoes 3 lbs potatoes   1 lb potatoes
+RANCHER             20 lbs meat    }     24 lbs meat      Gives 3 lbs meat 21 lbs meat     } 1 lb meat }
+point B              point B*         B*–B
+2 1/2 lbs potatoes   2 lbs potatoes   for 1 lb potatoes 3 lbs potatoes   1/2 lb potatoes
+
+QUICK QUIZ: Draw an example of a production possibilities frontier for Robinson Crusoe, a shipwrecked sailor who spends his time gathering coconuts and catching fish. Does this frontier limit Crusoe’s consumption of coconuts and fish if he lives by himself? Does he face the same limits if he can trade with natives on the island?
+
+### THE PRINCIPLE OF COMPARATIVE ADVANTAGE
+
+The rancher’s explanation of the gains from trade, though correct, poses a puzzle: If the rancher is better at both raising cattle and growing potatoes, how can the farmer ever specialize in doing what he does best? The farmer doesn’t seem to do anything best. To solve this puzzle, we need to look at the principle of comparative advantage.
+
+As a first step in developing this principle, consider the following question: In our example, who can produce potatoes at lower cost—the farmer or the rancher? There are two possible answers, and in these two answers lie both the solution to our puzzle and the key to understanding the gains from trade.
+
+### ABSOLUTE ADVANTAGE
+
+One way to answer the question about the cost of producing potatoes is to compare the inputs required by the two producers. The rancher needs only 8 hours to produce a pound of potatoes, whereas the farmer needs 10 hours. Based on this information, one might conclude that the rancher has the lower cost of producing potatoes.
+
+Economists use the term absolute advantage when comparing the productivity of one person, firm, or nation to that of another. The producer that requires a smaller quantity of inputs to produce a good is said to have an absolute advantage in producing that good.
+在投入生产商品时，如果生产者生产某种商品所需的投入更少，则称其具有绝对优势。在我们的例子中，牧场主在生产土豆和肉类上都具有绝对优势，因为她生产一单位任何商品所需的时间都少于农民。
+
+机会成本与比较优势
+我们还可以从另一个角度看待生产土豆的成本。除了比较所需的投入，我们还可以比较机会成本。回顾第1章，机会成本是指为了得到某种东西而放弃的东西。在我们的例子中，我们假设农民和牧场主每周工作40小时。因此，生产土豆所花的时间，就是生产肉类可用时间减少的时间。当牧场主和农民改变他们生产两种商品的时间分配时，他们沿着生产可能性边界移动；从某种意义上说，他们是在用一种商品生产另一种商品。机会成本衡量的是他们每个人面临的权衡取舍。
+
+首先考虑牧场主的机会成本。生产1磅土豆需要她工作8小时。当牧场主花这8小时生产土豆时，她生产肉类的时间就少了8小时。由于牧场主只需要1小时就能生产1磅肉，8小时的工作量可以生产8磅肉。因此，牧场主生产1磅土豆的机会成本是8磅肉。
+
+现在考虑农民的机会成本。生产1磅土豆需要他10小时。由于他需要20小时来生产1磅肉，10小时可以生产1/2磅肉。因此，农民生产1磅土豆的机会成本是1/2磅肉。
+
+表3-3显示了两位生产者生产肉和土豆的机会成本。请注意，肉的机会成本是土豆机会成本的倒数。因为对牧场主来说，1磅土豆的机会成本是8磅肉，所以1磅肉的机会成本就是1/8磅土豆。同样，因为对农民来说，1磅土豆的机会成本是1/2磅肉，所以1磅肉的机会成本是2磅土豆。比较优势是指生产者根据其机会成本对生产某种商品进行的比较。
+
+经济学家用比较优势这个术语来描述两位生产者生产两种商品的机会成本。那个生产某种商品机会成本较低的生产者——也就是说，为了生产它需要放弃更少的其他商品——被称为在生产该商品上具有比较优势。在我们的例子中，农民生产土豆的机会成本低于牧场主（1/2磅肉对8磅肉）。牧场主生产肉的机会成本低于农民（1/8磅土豆对2磅土豆）。因此，农民在种植土豆上具有比较优势，而牧场主在生产肉上具有比较优势。
+
+请注意，同一个人不可能在两种商品上都具有比较优势。因为一种商品的机会成本是另一种商品机会成本的倒数，如果一个人生产一种商品的机会成本相对较高，那么他生产另一种商品的机会成本就必然相对较低。比较优势反映的是相对的机会成本。除非两个人的机会成本完全相同，否则一个人会在一种商品上具有比较优势，而另一个人会在另一种商品上具有比较优势。
+
+比较优势与贸易
+机会成本和比较优势的差异创造了贸易的收益。当每个人专门生产自己具有比较优势的商品时，经济中的总产出就会增加，而这种经济蛋糕的增大可以用来使每个人的状况都变得更好。换句话说，只要两个人拥有不同的机会成本，每个人都可以通过以低于自己机会成本的价格获得商品而从贸易中获益。
+
+从农民的角度来看这个拟议的交易。农民用1磅土豆换取3磅肉。换句话说，农民购买每磅肉的价格是1/3磅土豆。这个肉的价格低于他生产1磅肉的机会成本，即2磅土豆。因此，农民从交易中受益，因为他能以好价格买到肉。
+
+现在从牧场主的角度来看这笔交易。牧场主用3磅肉的价格购买1磅土豆。这个土豆的价格低于她生产1磅土豆的机会成本，即8磅肉。因此，牧场主受益，因为她能以好价格买到土豆。
+
+这些收益源于每个人都专注于自己机会成本较低的活动：农民花更多时间种植土豆，而牧场主花更多时间生产肉。结果，土豆的总产量和肉的总产量都增加了，农民和牧场主分享了这一增产带来的好处。这个关于农民和牧场主的故事的寓意现在应该很清楚了：贸易可以使社会中的每个人受益，因为它允许人们专门从事自己具有比较优势的活动。
+
+快速测验：鲁滨逊·克鲁索每小时可以采集10个椰子或捕获1条鱼。他的朋友星期五每小时可以采集30个椰子或捕获2条鱼。克鲁索捕获一条鱼的机会成本是多少？星期五的呢？谁在捕鱼方面具有绝对优势？谁在捕鱼方面具有比较优势？
+
+比较优势的应用
+比较优势原理解释了相互依赖和贸易收益。由于相互依赖在当今世界如此普遍，比较优势原理有许多应用。这里有两个例子，一个充满想象力，另一个具有极大的现实重要性。
+
+泰格·伍兹应该自己修剪草坪吗？
+泰格·伍兹花了很多时间在草地上行走。作为有史以来最有天赋的高尔夫球手之一，他能以大多数休闲高尔夫球手梦寐以求的方式开球和推杆进洞。很可能，他在其他活动上也很有天赋。例如，让我们想象一下，伍兹修剪草坪的速度比其他任何人都快。但仅仅因为他能快速修剪草坪，是否就意味着他应该自己修剪呢？
+
+要回答这个问题，我们可以使用机会成本和比较优势的概念。假设伍兹修剪草坪需要2小时。在这同样的2小时内，他可以为耐克拍摄一个电视广告并赚取10,000美元。相比之下，隔壁的男孩阿甘修剪伍兹的草坪需要4小时。在这同样的4小时内，他可以在麦当劳工作并赚取20美元。
+
+在这个例子中，伍兹修剪草坪的机会成本是10,000美元，而阿甘的机会成本是20美元。伍兹在修剪草坪上具有绝对优势，因为他完成这项工作所需的时间更少。然而，阿甘在修剪草坪上具有比较优势，因为他的机会成本更低。
+
+新闻中的比较优势
+谁在生产羊肉上具有比较优势？
+美国养羊业者长期以来一直依赖政府。超过半个世纪，直到国会在1995年颁布农业政策改革，美国养羊业者一直受到政府的支持。在20世纪50年代的自由市场改革中取消补贴，并且是一个自由贸易国家，计划在2006年前消除所有进口关税。
+与其效仿这个例子，美国养羊业协会
+国际协定，以及其他，提交了一份“规避”条款的请愿书，根据《1974年贸易法》，该条款允许进口竞争行业获得临时的“喘息空间”保护。根据规避条款，提出请愿的行业必须提交一份调整计划，以确保其采取措施在未来实现竞争力。关税保护通常是有限的，并计划逐步取消。
+
+美国国际贸易委员会（ITC）确定进口是否对国内产业造成“严重损害”，如果确实如此，则提出补救措施，总统有权全权决定采纳、修改或拒绝。二月份，ITC并未认定国内产业遭受了“严重损害”，而是采纳了较弱的裁定，即进口构成了“严重损害的实质威胁”。
+
+政府最初似乎考虑采取限制性较低的措施。澳大利亚和新西兰甚至向美国生产商提供了财政援助，政府推迟了任何宣布，并似乎正在努力达成妥协。但随着最终决定的惊人出炉，这些希望完全破灭了——政府向羊产业及其国会倡导者的要求屈服了。
+
+国会方面的主导力量来自农业委员会成员、蒙大拿州民主党参议员马克斯·鲍卡斯（Max Baucus），他的姐姐是羊生产商，曾出现在ITC面前要求提高关税。政府选择了：在现有关税之上，总统第一年对所有进口征收9%的关税（第二年和第三年分别降至6%和3%），并对去年水平以上的进口额外征收40%的关税（随后降至32%和24%）……美国羊业协会的主席高兴地宣布，此举将“给市场带来一些稳定”。每当生产商谈到给市场带来稳定时，你知道消费者正在被敲竹杠。
+
+羊的决定虽然在国内鲜有注意，但在国外受到了密切关注。这一决定削弱了政府的自由贸易言论，并损害了其让其他国家开放市场的努力。一些进口救济是预料之中的，但最终成型的保护主义措施如此之强，实属意外。这一极端决定激怒了澳大利亚和新西兰的农民，那里的官员发誓要将美国告到WTO争端解决小组……政府的时机再糟糕不过了。该决定是在亚太经合组织峰会重申其减少贸易壁垒承诺之后作出的，而在世界贸易组织于西雅图举行11月会议以启动新一轮多边贸易谈判的几个月前。美国在峰会上的一个主要目标是减少欧洲等地的农业保护。
+
+1947年，面对次年的选举，杜鲁门总统勇敢地抵制了特殊利益集团的压力，否决了一项对羊毛实施进口配额的法案，这将危及当年晚些时候开始的战后第一次多边贸易谈判。相比之下，克林顿先生虽然是跛脚鸭，却屈服于政治压力。如果美国，这个令世界羡慕的繁荣经济体，都无法抵制保护主义，它又怎能指望其他国家这样做？
+
+来源：《华尔街日报》，1999年7月12日，A28版。
+
+要理解国家如何从贸易中获益，假设存在两个国家——美国和日本，以及两种商品——食品和汽车。想象一下，两国生产汽车的效率相同：一个美国工人和一个日本工人都能每月生产1辆汽车。相比之下，由于美国拥有更多更好的土地，它在生产食品方面更具优势：一个美国工人每月可以生产2吨食品，而一个日本工人每月只能生产1吨食品。
+
+比较优势原则指出，每种商品都应由生产该商品机会成本较低的国家来生产。由于在美国生产一辆汽车的机会成本是2吨食品，而在日本仅为1吨食品，因此日本在生产汽车方面具有比较优势。日本应该生产超过其自身需要的汽车，并将部分出口到美国。同样，由于在日本生产一吨食品的机会成本是1辆汽车，而在美国仅为半辆汽车，因此美国在生产食品方面具有比较优势。美国应该生产超过其自身消费需要的食品，并将部分出口到日本。通过专业化和贸易，两个国家都能拥有更多的食品和更多的汽车。
+
+当然，现实中，国家间贸易所涉及的问题比这个例子所暗示的更为复杂，正如我们将在第9章看到的。其中最重要的问题是，每个国家都有许多利益不同的公民。国际贸易可能使某些个体境况变差，即使它使整个国家变得更好。当美国出口食品并进口汽车时，对美国农民的影响与对美国汽车工人的影响是不同的。然而，与一些政治家和政治评论员有时表达的观点相反，国际贸易不像战争——一些国家赢，另一些国家输。贸易允许所有国家实现更大的繁荣。
+
+快速测验：假设世界上最快的打字员碰巧受过脑外科训练。他应该自己打字还是雇个秘书？请解释。
+
+结论
+比较优势原则表明贸易可以使每个人都变得更好。你现在应该更充分地理解生活在一个相互依存的经济体中的好处。但既然看到了相互依存为何可取，你可能自然会问这是如何可能的。自由社会如何协调其经济中所有相关人员的多样化活动？是什么确保商品和服务从应该生产它们的人那里到达应该消费它们的人那里？
+
+在一个只有两个人的世界里，比如牧场主和农民，答案很简单：这两个人可以直接议价并在他们之间分配资源。在有数十亿人的真实世界里，答案就不那么明显了。我们将在下一章讨论这个问题，届时我们将看到自由社会通过市场供求力量来分配资源。
+
+总结
+- 每个人消费的商品和服务都是由我国乃至世界各地的许多其他人生产的。相互依存和贸易是可取的，因为它们允许每个人享受更多数量和种类的商品和服务。
+- 有两种方法来比较两个人生产一种商品的能力。能够使用较少投入生产该商品的人被认为在生产该商品方面具有绝对优势。生产该商品机会成本较低的人被认为具有比较优势。贸易的收益基于比较优势，而非绝对优势。
+- 贸易使每个人都变得更好，因为它允许人们专业化从事那些他们具有比较优势的活动。
+- 比较优势原则同样适用于国家和人。经济学家利用比较优势原则倡导国家间的自由贸易。
+
+关键概念
+绝对优势，第53页 机会成本，第53页 比较优势，第53页 进口，第57页 出口，第57页
+
+问题
+Review
+
+1. Explain how absolute advantage and comparative advantage differ.
+2. Give an example in which one person has an absolute advantage in doing something but another person has a comparative advantage.
+3. Is absolute advantage or comparative advantage more important for trade? Explain your reasoning, using the example in your answer to Question 2.
+4. Will a nation tend to export or import goods for which it has a comparative advantage? Explain.
+5. Why do economists oppose policies that restrict trade among nations?
+
+Problems and Applications
+
+1. Consider the farmer and the rancher from our example in this chapter. Explain why the farmer’s opportunity cost of producing 1 pound of meat is 2 pounds of potatoes. Explain why the rancher’s opportunity cost of producing 1 pound of meat is 1/8 pound of potatoes.
+2. Maria can read 20 pages of economics in an hour. She can also read 50 pages of sociology in an hour. She spends 5 hours per day studying.
+a. Draw Maria’s production possibilities frontier for reading economics and sociology.
+b. What is Maria’s opportunity cost of reading 100 pages of sociology?
+3. American and Japanese workers can each produce 4 cars a year. An American worker can produce 10 tons of grain a year, whereas a Japanese worker can produce 5 tons of grain a year. To keep things simple, assume that each country has 100 million workers.
+a. For this situation, construct a table analogous to Table 3-1.
+b. Graph the production possibilities frontier of the American and Japanese economies.
+c. For the United States, what is the opportunity cost of a car? Of grain? For Japan, what is the opportunity cost of a car? Of grain? Put this information in a table analogous to Table 3-3.
+d. Which country has an absolute advantage in producing cars? In producing grain?
+e. Which country has a comparative advantage in producing cars? In producing grain?
+f. Without trade, half of each country’s workers produce cars and half produce grain. What quantities of cars and grain does each country produce?
+g. Starting from a position without trade, give an example in which trade makes each country better off.
+4. Pat and Kris are roommates. They spend most of their time studying (of course), but they leave some time for their favorite activities: making pizza and brewing root beer. Pat takes 4 hours to brew a gallon of root beer and 2 hours to make a pizza. Kris takes 6 hours to brew a gallon of root beer and 4 hours to make a pizza.
+a. What is each roommate’s opportunity cost of making a pizza? Who has the absolute advantage in making pizza? Who has the comparative advantage in making pizza?
+b. If Pat and Kris trade foods with each other, who will trade away pizza in exchange for root beer?
+c. The price of pizza can be expressed in terms of gallons of root beer. What is the highest price at which pizza can be traded that would make both roommates better off? What is the lowest price? Explain.
+5. Suppose that there are 10 million workers in Canada, and that each of these workers can produce either 2 cars or 30 bushels of wheat in a year.
+a. What is the opportunity cost of producing a car in Canada? What is the opportunity cost of producing a bushel of wheat in Canada? Explain the relationship between the opportunity costs of the two goods.
+b. Draw Canada’s production possibilities frontier. If Canada chooses to consume 10 million cars, how much wheat can it consume without trade? Label this point on the production possibilities frontier.
+c. Now suppose that the United States offers to buy 10 million cars from Canada in exchange for 20 bushels of wheat per car. If Canada continues to consume 10 million cars, how much wheat does this deal allow Canada to consume? Label this point on your diagram. Should Canada accept the deal?
+6. Consider a professor who is writing a book. The professor can both write the chapters and gather the needed data faster than anyone else at his university. Still, he pays a student to collect data at the library. Is this sensible? Explain.
+7. England and Scotland both produce scones and sweaters. Suppose that an English worker can produce 50 scones per hour or 1 sweater per hour. Suppose that a Scottish worker can produce 40 scones per hour or 2 sweaters per hour.
+a. Which country has the absolute advantage in the production of each good? Which country has the comparative advantage?
+b. If England and Scotland decide to trade, which commodity will Scotland trade to England? Explain.
+c. If a Scottish worker could produce only 1 sweater per hour, would Scotland still gain from trade? Would England still gain from trade? Explain.
+8. Consider once again the farmer and rancher discussed in the chapter.
+a. Suppose that a technological advance makes the farmer better at producing meat, so that he now needs only 2 hours to produce 1 pound of meat. What is his opportunity cost of meat and potatoes now? Does this alter his comparative advantage?
+b. Is the deal that the rancher proposes—3 pounds of meat for 1 pound of potatoes—still good for the farmer? Explain.
+c. Propose another deal to which the farmer and rancher might agree now.
+9. The following table describes the production possibilities of two cities in the country of Baseballia:
+
+|                  | PAIRS OF RED SOCKS PER WORKER PER HOUR | PAIRS OF WHITE SOCKS PER WORKER PER HOUR |
+|------------------|-----------------------------------------|------------------------------------------|
+| BOSTON           | 3                                       | 3                                        |
+| CHICAGO          | 2                                       | 1                                        |
+
+a. Without trade, what is the price of white socks (in terms of red socks) in Boston? What is the price in Chicago?
+b. Which city has an absolute advantage in the production of each color sock? Which city has a comparative advantage in the production of each color sock?
+c. If the cities trade with each other, which color sock will each export?
+d. What is the range of prices at which trade can occur?
+10. Suppose that all goods can be produced with fewer worker hours in Germany than in France.
+a. In what sense is the cost of all goods lower in Germany than in France?
+b. In what sense is the cost of some goods lower in France?
+c. If Germany and France traded with each other, would both countries be better off as a result? Explain in the context of your answers to parts (a) and (b).
+11. Are the following statements true or false? Explain in each case.
+a. “Two countries can achieve gains from trade even if one of the countries has an absolute advantage in the production of all goods.”
+b. “Certain very talented people have a comparative advantage in everything they do.”
+c. “If a certain trade is good for one person, it can’t be good for the other one.”
+
+IN THIS CHAPTER YOU WILL . . .
+Learn the nature of a competitive market
+Examine what determines the demand for a good in a competitive market
+Examine what determines the supply of a good in a competitive market
+See how supply and demand together set the price of a good and the quantity sold
+Consider the key role of prices in allocating scarce resources in market economies
+
+### THE MARKET FORCES OF SUPPLY AND DEMAND
+
+When a cold snap hits Florida, the price of orange juice rises in supermarkets throughout the country. When the weather turns warm in New England every summer, the price of hotel rooms in the Caribbean plummets. When a war breaks out in the Middle East, the price of gasoline in the United States rises, and the price of a used Cadillac falls. What do these events have in common? They all show the workings of supply and demand.
+
+Supply and demand are the two words that economists use most often—and for good reason. Supply and demand are the forces that make market economies work. They determine the quantity of each good produced and the price at which it is sold. If you want to know how any event or policy will affect the economy, you must think first about how it will affect supply and demand.
+
+This chapter introduces the theory of supply and demand. It considers how buyers and sellers behave and how they interact with one another. It shows how supply and demand determine prices in a market economy and how prices, in turn, allocate the economy’s scarce resources.
+
+### MARKETS AND COMPETITION
+
+The terms supply and demand refer to the behavior of people as they interact with one another in markets. A market is a group of buyers and sellers of a particular good or service. The buyers as a group determine the demand for the product, and the sellers as a group determine the supply of the product. Before discussing how buyers and sellers behave, let’s first consider more fully what we mean by a “market” and the various types of markets we observe in the economy.
+
+### COMPETITIVE MARKETS
+
+Markets take many forms. Sometimes markets are highly organized, such as the markets for many agricultural commodities. In these markets, buyers and sellers meet at a specific time and place, where an auctioneer helps set prices and arrange sales.
+
+More often, markets are less organized. For example, consider the market for ice cream in a particular town. Buyers of ice cream do not meet together at any one time. The sellers of ice cream are in different locations and offer somewhat different products. There is no auctioneer calling out the price of ice cream. Each seller posts a price for an ice-cream cone, and each buyer decides how much ice cream to buy at each store.
+
+Even though it is not organized, the group of ice-cream buyers and ice-cream sellers forms a market. Each buyer knows that there are several sellers from which to choose, and each seller is aware that his product is similar to that offered by other sellers. The price of ice cream and the quantity of ice cream sold are not determined by any single buyer or seller. Rather, price and quantity are determined by all buyers and sellers as they interact in the marketplace.
+
+The market for ice cream, like most markets in the economy, is highly competitive. A competitive market is a market...
+et in which there are many buyers and many sellers so that each has a negligible impact on the market price. Each seller of ice cream has limited control over the price because other sellers are offering similar products. A seller has little reason to charge less than the going price, and if he or she charges more, buyers will make their purchases elsewhere. Similarly, no single buyer of ice cream can influence the price of ice cream because each buyer purchases only a small amount.
+
+In this chapter we examine how buyers and sellers interact in competitive markets. We see how the forces of supply and demand determine both the quantity of the good sold and its price.
+
+### COMPETITION: PERFECT AND OTHERWISE
+
+We assume in this chapter that markets are perfectly competitive. Perfectly competitive markets are defined by two primary characteristics: (1) the goods being offered for sale are all the same, and (2) the buyers and sellers are so numerous that no single buyer or seller can influence the market price. Because buyers and sellers in perfectly competitive markets must accept the price the market determines, they are said to be price takers.
+
+There are some markets in which the assumption of perfect competition applies perfectly. In the wheat market, for example, there are thousands of farmers who sell wheat and millions of consumers who use wheat and wheat products. Because no single buyer or seller can influence the price of wheat, each takes the price as given.
+
+Not all goods and services, however, are sold in perfectly competitive markets. Some markets have only one seller, and this seller sets the price. Such a seller is called a monopoly. Your local cable television company, for instance, may be a monopoly. Residents of your town probably have only one cable company from which to buy this service.
+
+Some markets fall between the extremes of perfect competition and monopoly. One such market, called an oligopoly, has a few sellers that do not always compete aggressively. Airline routes are an example. If a route between two cities is serviced by only two or three carriers, the carriers may avoid rigorous competition to keep prices high. Another type of market is monopolistically competitive; it contains many sellers, each offering a slightly different product. Because the products are not exactly the same, each seller has some ability to set the price for its own product. An example is the software industry. Many word processing programs compete with one another for users, but every program is different from every other and has its own price.
+
+Despite the diversity of market types we find in the world, we begin by studying perfect competition. Perfectly competitive markets are the easiest to analyze. Moreover, because some degree of competition is present in most markets, many of the lessons that we learn by studying supply and demand under perfect competition apply in more complicated markets as well.
+
+QUICK QUIZ: What is a market? What does it mean for a market to be competitive?
+
+### DEMAND
+
+We begin our study of markets by examining the behavior of buyers. Here we consider what determines the quantity demanded of any good, which is the amount of the good that buyers are willing and able to purchase. To focus our thinking, let’s keep in mind a particular good—ice cream.
+
+### WHAT DETERMINES THE QUANTITY AN INDIVIDUAL DEMANDS?
+
+Consider your own demand for ice cream. How do you decide how much ice cream to buy each month, and what factors affect your decision? Here are some of the answers you might give.
+
+Price If the price of ice cream rose to $20 per scoop, you would buy less ice cream. You might buy frozen yogurt instead. If the price of ice cream fell to $0.20 per scoop, you would buy more. Because the quantity demanded falls as the price rises and rises as the price falls, we say that the quantity demanded is negatively related to the price. This relationship between price and quantity demanded is true for most goods in the economy and, in fact, is so pervasive that economists call it the law of demand: Other things equal, when the price of a good rises, the quantity demanded of the good falls.
+
+Income What would happen to your demand for ice cream if you lost your job one summer? Most likely, it would fall. A lower income means that you have less to spend in total, so you would have to spend less on some—and probably most—goods. If the demand for a good falls when income falls, the good is called a normal good.
+
+Not all goods are normal goods. If the demand for a good rises when income falls, the good is called an inferior good. An example of an inferior good might be bus rides. As your income falls, you are less likely to buy a car or take a cab, and more likely to ride the bus.
+
+Prices of Related Goods Suppose that the price of frozen yogurt falls. The law of demand says that you will buy more frozen yogurt. At the same time, you will probably buy less ice cream. Because ice cream and frozen yogurt are both cold, sweet, creamy desserts, they satisfy similar desires. When a fall in the price of one good reduces the demand for another good, the two goods are called substitutes. Substitutes are often pairs of goods that are used in place of each other, such as hot dogs and hamburgers, sweaters and sweatshirts, and movie tickets and video rentals.
+
+Now suppose that the price of hot fudge falls. According to the law of demand, you will buy more hot fudge. Yet, in this case, you will buy more ice cream as well, because ice cream and hot fudge are often used together. When a fall in the price of one good raises the demand for another good, the two goods are called complements. Complements are often pairs of goods that are used together, such as gasoline and automobiles, computers and software, and skis and ski lift tickets.
+
+Tastes The most obvious determinant of your demand is your tastes. If you like ice cream, you buy more of it. Economists normally do not try to explain people’s tastes because tastes are based on historical and psychological forces that are beyond the realm of economics. Economists do, however, examine what happens when tastes change.
+
+Expectations Your expectations about the future may affect your demand for a good or service today. For example, if you expect to earn a higher income next month, you may be more willing to spend some of your current savings buying ice cream. As another example, if you expect the price of ice cream to fall tomorrow, you may be less willing to buy an ice-cream cone at today’s price.
+
+### THE DEMAND SCHEDULE AND THE DEMAND CURVE
+
+We have seen that many variables determine the quantity of ice cream a person demands. Imagine that we hold all these variables constant except one—the price. Let’s consider how the price affects the quantity of ice cream demanded.
+
+Table 4-1 shows how many ice-cream cones Catherine buys each month at different prices of ice cream. If ice cream is free, Catherine eats 12 cones. At $0.50 per cone, Catherine buys 10 cones. As the price rises further, she buys fewer and fewer cones. When the price reaches $3.00, Catherine doesn’t buy any ice cream at all.
+
+Table 4-1 is a demand schedule, a table that shows the relationship between the price of a good and the quantity demanded. (Economists use the term schedule because the table, with its parallel columns of numbers, resembles a train schedule.)
+
+Figure 4-1 graphs the numbers in Table 4-1. By convention, the price of ice cream is on the vertical axis, and the quantity of ice cream demanded is on the horizontal axis. The downward-sloping line relating price and quantity demanded is called the demand curve.
+
+Table 4-1
+CATHERINE’S DEMAND SCHEDULE. The demand schedule shows the quantity demanded at each price.
+PRICE OF ICE-CREAM CONE QUANTITY OF CONES DEMANDED
+$0.00 12
+0.50 10
+1.00 8
+1.50 6
+2.00 4
+2.50 2
+3.00 0
+
+Figure 4-1
+CATHERINE’S DEMAND CURVE. This demand curve, which graphs the demand schedule in Table 4-1, shows how the quantity demanded of the good changes as its price varies. Because a lower price increases the quantity demanded, the demand curve slopes downward.
+Price of Ice-Cream Cone
+$3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0 1 2 3 4 5 6 7 8 9 10 11 12 Quantity of Ice-Cream Cones
+
+### CETERIS PARIBUS
+
+Whenever you see a demand curve, remember that it is drawn holding many things constant. Catherine’s demand curve in Figure 4-1 shows what happens to the quantity of ice cream Catherine demands when only the price of ice cream varies. The curve is drawn assuming that Catherine’s income, tastes, expectations, and the prices of related products are not changing.
+
+Economists use the term ceteris paribus to signify that all the relevant variables, except those being studied at that moment, are held constant. The Latin phrase is translated as “other things equal.”
+“其他条件相同”这个短语字面意思是“other things being equal”。需求曲线向下倾斜是因为在其他条件不变的情况下，较低的价格意味着更大的需求量。
+
+尽管“其他条件不变”这个术语指的是一个假设某些变量保持不变的假设性情境，但在现实世界中，许多事物同时变化。因此，当我们使用供需工具来分析事件或政策时，记住哪些因素被控制不变，哪些没有，是很重要的。
+
+## 市场需求与个人需求
+到目前为止，我们谈论的是个人对产品的需求。为了分析市场如何运作，我们需要确定市场需求，即特定商品或服务的所有个人需求的总和。
+
+凯瑟琳的需求与尼古拉斯的需求：
+冰淇淋蛋筒价格 | 凯瑟琳的需求量 | 尼古拉斯的需求量
+--- | --- | ---
+$3.00 | 0 | 1
+$2.50 | 2 | 2
+$2.00 | 4 | 3
+$1.50 | 6 | 4
+$1.00 | 8 | 5
+$0.50 | 10 | 6
+$0.00 | 12 | 7
+
+表4-2显示了两个人的冰淇淋需求表：凯瑟琳和尼古拉斯。在任何价格下，凯瑟琳的需求表告诉我们她购买多少冰淇淋，尼古拉斯的需求表告诉我们他购买多少。市场需求是两个个人需求之和。
+
+由于市场需求源于个人需求，它取决于所有决定个人买方需求的因素。因此，市场需求取决于买方的收入、偏好、预期以及相关商品的价格。它还取决于买方的数量。（如果另一个冰淇淋消费者彼得加入凯瑟琳和尼古拉斯，市场上的需求量在每个价格下都会更高。）表4-2中的需求表显示了在决定需求量的所有其他变量保持不变的情况下，价格变化时需求量如何变化。
+
+图4-2显示了与这些需求表相对应的需求曲线。注意，我们通过水平相加个人需求曲线来得到市场需求曲线。也就是说，要找出任何价格下的总需求量，我们将在个人需求曲线的水平轴上找到的个人数量相加。由于我们感兴趣的是分析市场如何运作，我们将最常使用市场需求曲线。市场需求曲线显示了一种商品的总需求量如何随其价格变化而变化。
+
+## 需求曲线的移动
+假设美国医学协会突然宣布一项新发现：经常吃冰淇淋的人寿命更长、更健康。这一宣布如何影响冰淇淋市场？这项发现改变了人们的偏好，提高了对冰淇淋的需求。在任何给定价格下，买方现在想购买更大数量的冰淇淋，冰淇淋的需求曲线向右移动。
+
+当需求的任何决定因素（除了商品本身的价格）发生变化时，需求曲线就会移动。如图4-3所示，任何增加每个价格下需求量的变化都会使需求曲线向右移动。同样，任何减少每个价格下需求量的变化都会使需求曲线向左移动。
+
+表4-3列出了决定市场需求量的变量以及变量变化如何影响需求曲线。注意价格在这个表中的特殊作用。由于在绘制需求曲线时价格在纵轴上，价格变化不会使曲线移动，而是代表沿曲线的移动。相比之下，当收入、相关商品价格、偏好、预期或买方数量发生变化时，每个价格下的需求量发生变化；这表现为需求曲线的移动。
+
+图4-3描述了需求曲线的移动：任何提高买方在给定价格下希望购买的数量的改变，都会使需求曲线向右移动（需求增加）。任何降低买方在给定价格下希望购买的数量的改变，都会使需求曲线向左移动（需求减少）。
+
+表4-3影响需求量的变量：
+价格 | 代表沿需求曲线的移动
+收入 | 使需求曲线移动
+相关商品的价格 | 使需求曲线移动
+偏好 | 使需求曲线移动
+预期 | 使需求曲线移动
+买方数量 | 使需求曲线移动
+
+总而言之，需求曲线显示了当一种商品的价格变化时，其需求量如何变化，同时保持所有其他需求量的决定因素不变。当这些其他决定因素中的任何一个发生变化时，需求曲线就会移动。
+
+## 案例研究：减少吸烟需求量的两种方式
+公共政策制定者通常希望减少人们的吸烟量。政策可以尝试通过两种方式实现这一目标。
+
+一种减少吸烟的方法是移动香烟和其他烟草产品的需求曲线。公共服务公告、香烟包装上的强制性健康警告以及禁止在电视上播放香烟广告，都是旨在减少任何给定价格下香烟需求量的政策。如果成功，这些政策会使香烟的需求曲线向左移动，如图4-4的(a)部分所示。
+
+或者，政策制定者可以尝试提高香烟的价格。例如，如果政府对香烟制造商征税，香烟公司会将大部分税收通过更高的价格转嫁给消费者。更高的价格鼓励吸烟者减少吸烟量。在这种情况下，吸烟量的减少并不代表需求曲线的移动。相反，它代表沿同一条需求曲线移动到一个价格更高、数量更低的点，如图4-4的(b)部分所示。
+
+吸烟量对香烟价格变化的反应有多大？经济学家试图通过研究香烟税变化时发生的情况来回答这个问题。他们发现，价格上涨10%会导致需求量减少4%。青少年被发现对香烟价格特别敏感：价格上涨10%会导致青少年吸烟量下降12%。
+
+一个相关的问题是香烟价格如何影响非法药物（如大麻）的需求。香烟税的反对者通常认为烟草和大麻是替代品，因此高香烟价格会鼓励大麻使用。相比之下，许多药物滥用专家认为烟草是一种“入门毒品”，引导年轻人尝试其他有害物质。大多数数据研究支持这一观点：他们发现较低的香烟价格与较高的大麻使用率相关。换句话说，烟草和大麻似乎是互补品，而不是替代品。
+
+图4-4展示了需求曲线的移动与沿曲线移动的区别：(a) 需求曲线的移动：如果包装上的警告说服吸烟者减少吸烟，香烟的需求曲线向左移动。在(a)图中，需求曲线从D移动到D'。在每包2美元的价格下，需求量从每天20支下降到10支，表现为从点A移动到点B。(b) 沿需求曲线的移动：如果税收提高了香烟价格，需求曲线并不移动。相反，我们观察到需求曲线移动到不同的点。在(b)图中，当价格从2美元上涨到4美元时，需求量从每天20支下降到12支，表现为从点A移动到点C。
+
+**快速测验**：列出你对披萨需求量的决定因素。举例说明披萨的需求表，并画出隐含的需求曲线。举一个会使这条需求曲线移动的例子。披萨价格的变化会使这条需求曲线移动吗？
+
+## 供给
+现在我们转向市场的另一边，考察……
+ine the behavior of sellers.
+
+The quantity supplied of any good or service is the amount that sellers are willing and able to sell. Once again, to focus our thinking, let’s consider the market for ice cream and look at the factors that determine the quantity supplied.
+
+### WHAT DETERMINES THE QUANTITY AN INDIVIDUAL SUPPLIES?
+
+Imagine that you are running Student Sweets, a company that produces and sells ice cream. What determines the quantity of ice cream you are willing to produce and offer for sale? Here are some possible answers.
+
+Price The price of ice cream is one determinant of the quantity supplied. When the price of ice cream is high, selling ice cream is profitable, and so the quantity supplied is large. As a seller of ice cream, you work long hours, buy many ice-cream machines, and hire many workers. By contrast, when the price of ice cream is low, your business is less profitable, and so you will produce less ice cream. At an even lower price, you may choose to go out of business altogether, and your quantity supplied falls to zero.
+
+Because the quantity supplied rises as the price rises and falls as the price falls, we say that the quantity supplied is positively related to the price of the good. This relationship between price and quantity supplied is called the law of supply: Other things equal, when the price of a good rises, the quantity supplied of the good also rises.
+
+Input Prices To produce its output of ice cream, Student Sweets uses various inputs: cream, sugar, flavoring, ice-cream machines, the buildings in which the ice cream is made, and the labor of workers to mix the ingredients and operate the machines. When the price of one or more of these inputs rises, producing ice cream is less profitable, and your firm supplies less ice cream. If input prices rise substantially, you might shut down your firm and supply no ice cream at all. Thus, the supply of a good is negatively related to the price of the inputs used to make the good.
+
+Technology The technology for turning the inputs into ice cream is yet another determinant of supply. The invention of the mechanized ice-cream machine, for example, reduced the amount of labor necessary to make ice cream. By reducing firms’ costs, the advance in technology raised the supply of ice cream.
+
+Expectations The amount of ice cream you supply today may depend on your expectations of the future. For example, if you expect the price of ice cream to rise in the future, you will put some of your current production into storage and supply less to the market today.
+
+### THE SUPPLY SCHEDULE AND THE SUPPLY CURVE
+
+Consider how the quantity supplied varies with the price, holding input prices, technology, and expectations constant. Table 4-4 shows the quantity supplied by Ben, an ice-cream seller, at various prices of ice cream. At a price below $1.00, Ben does not supply any ice cream at all. As the price rises, he supplies a greater and greater quantity. This table is called the supply schedule.
+
+Figure 4-5 graphs the relationship between the quantity of ice cream supplied and the price. The curve relating price and quantity supplied is called the supply curve. The supply curve slopes upward because, ceteris paribus, a higher price means a greater quantity supplied.
+
+Table 4-4
+PRICE OF ICE-CREAM CONE  QUANTITY OF CONES SUPPLIED
+BEN’S SUPPLY SCHEDULE. The supply schedule shows the quantity supplied at each price.
+$0.00  0
+0.50  0
+1.00  1
+1.50  2
+2.00  3
+2.50  4
+3.00  5
+
+Figure 4-5
+Price of Ice-Cream Cone
+BEN’S SUPPLY CURVE. This supply curve, which graphs the supply schedule in Table 4-4, shows how the quantity supplied of the good changes as its price varies. Because a higher price increases the quantity supplied, the supply curve slopes upward.
+$3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0 1 2 3 4 5 6 7 8 9 10 11 12 Quantity of Ice-Cream Cones
+
+### MARKET SUPPLY VERSUS INDIVIDUAL SUPPLY
+
+Just as market demand is the sum of the demands of all buyers, market supply is the sum of the supplies of all sellers. Table 4-5 shows the supply schedules for two ice-cream producers—Ben and Jerry. At any price, Ben’s supply schedule tells us the quantity of ice cream Ben supplies, and Jerry’s supply schedule tells us the quantity of ice cream Jerry supplies. The market supply is the sum of the two individual supplies.
+
+Market supply depends on all those factors that influence the supply of individual sellers, such as the prices of inputs used to produce the good, the available technology, and expectations. In addition, the supply in a market depends on the number of sellers. (If Ben or Jerry were to retire from the ice-cream business, the supply in the market would fall.) The supply schedules in Table 4-5 show what happens to quantity supplied as the price varies while all the other variables that determine quantity supplied are held constant.
+
+Figure 4-6 shows the supply curves that correspond to the supply schedules in Table 4-5. As with demand curves, we sum the individual supply curves horizontally to obtain the market supply curve. That is, to find the total quantity supplied at any price, we add the individual quantities found on the horizontal axis of the individual supply curves. The market supply curve shows how the total quantity supplied varies as the price of the good varies.
+
+### SHIFTS IN THE SUPPLY CURVE
+
+Suppose that the price of sugar falls. How does this change affect the supply of ice cream? Because sugar is an input into producing ice cream, the fall in the price of sugar makes selling ice cream more profitable. This raises the supply of ice cream: At any given price, sellers are now willing to produce a larger quantity. Thus, the supply curve for ice cream shifts to the right.
+
+Whenever there is a change in any determinant of supply, other than the good’s price, the supply curve shifts. As Figure 4-7 shows, any change that raises quantity supplied at every price shifts the supply curve to the right. Similarly, any change that reduces the quantity supplied at every price shifts the supply curve to the left.
+
+Table 4-5
+PRICE OF ICE-CREAM CONE  BEN  JERRY  MARKET
+INDIVIDUAL AND MARKET SUPPLY SCHEDULES. The quantity supplied in a market is the sum of the quantities supplied by all the sellers.
+$0.00  0 + 0 = 0
+0.50  0  0  0
+1.00  1  0  1
+1.50  2  2  4
+2.00  3  4  7
+2.50  4  6  10
+3.00  5  8  13
+
+Figure 4-6
+Price of Ice-Cream Cone
+MARKET SUPPLY AS THE SUM OF INDIVIDUAL SUPPLIES. The market supply curve is found by adding horizontally the individual supply curves. At a price of $2, Ben supplies 3 ice-cream cones, and Jerry supplies 4 ice-cream cones. The quantity supplied in the market at this price is 7 cones.
+$3.00
+2.50
+2.00
+1.50
+1.00
+0.50
+0 1 2 3 4 5 6 7 8 9 10 11 12 Quantity of (3 + 4) Ice-Cream Cones
+Ben’s Supply | Jerry’s Supply
+Price of Ice-Cream Cone | Price of Ice-Cream Cone
+$3.00 | $3.00
+2.50 | 2.50
+2.00 | 2.00
+1.50 | 1.50
+1.00 | 1.00
+0.50 | 0.50
+0 1 2 3 4 5 6 7 8 9 10 11 12 Quantity of | 0 1 2 3 4 5 6 7 8 9 10 11 12 Quantity of
+Ice-Cream Cones | Ice-Cream Cones
+
+Figure 4-7
+Price of Ice-Cream Cone
+SHIFTS IN THE SUPPLY CURVE. Any change that raises the quantity that sellers wish to produce at a given price shifts the supply curve to the right. Any change that lowers the quantity that sellers wish to produce at a given price shifts the supply curve to the left.
+3
+Supply curve, S
+Supply curve, S (Decrease in supply)
+2
+Increase in supply
+0 Quantity of Ice-Cream Cones
+
+Table 4-6
+VARIABLES THAT AFFECT QUANTITY SUPPLIED | A CHANGE IN THIS VARIABLE...
+THE DETERMINANTS OF QUANTITY SUPPLIED. This table lists the variables that can influence the quantity supplied in a market. Notice the special role that price plays: A change in the price represents a movement along the supply curve, whereas a change in one of the other variables shifts the supply curve.
+Price | Represents a movement along the supply curve
+Input prices | Shifts the supply curve
+Technology | Shifts the supply curve
+Expectations | Shifts the supply curve
+Number of sellers | Shifts the supply curve
+
+Table 4-6 lists the variables that determine the quantity supplied in a market and how a change in the variable affects the supply curve. Once again, price plays a special role in the table. Because price is on the vertical axis when we graph a supply curve, a change in price does not shift the curve but represents a movement along it. By contrast, when there is a change in input prices, technology, expectations, or the number of sellers, the quantity supplied at each price changes; this is represented by a shift in the supply curve.
+
+In summary, the supply curve shows what happens to the quantity supplied of a good when its price varies, holding constant all other determinants of quantity supplied. When one of these other determinants changes, the supply curve shifts.
+
+QUICK QUIZ: List the determinants of the quantity of pizza supplied. Make up an example of a supply schedule for pizza, and graph the implied supply curve. Give an example of something that would shift this supply curve. Would a change in the price of pizza shift this supply curve?
+
+### SUPPLY AND DEMAND TOGETHER
+
+Having analyzed supply and demand separately, we now combine them to see how they determine the quantity of a good sold in a market and its price.
+
+equilibrium
+a situation in which supply and demand have been brought into balance
+### EQUILIBRIUM
+
+Balance
+
+Equilibrium price: The price that balances supply and demand.
+
+Equilibrium quantity: The quantity supplied and the quantity demanded when the price has adjusted to balance supply and demand.
+
+Figure 4-8 shows the market supply curve and market demand curve together. Notice that there is one point at which the supply and demand curves intersect; this point is called the market’s equilibrium. The price at which these two curves cross is called the equilibrium price, and the quantity is called the equilibrium quantity. Here the equilibrium price is $2.00 per cone, and the equilibrium quantity is 7 ice-cream cones.
+
+The dictionary defines the word equilibrium as a situation in which various forces are in balance—and this also describes a market’s equilibrium. At the equilibrium price, the quantity of the good that buyers are willing and able to buy exactly balances the quantity that sellers are willing and able to sell. The equilibrium price is sometimes called the market-clearing price because, at this price, everyone in the market has been satisfied: Buyers have bought all they want to buy, and sellers have sold all they want to sell.
+
+The actions of buyers and sellers naturally move markets toward the equilibrium of supply and demand. To see why, consider what happens when the market price is not equal to the equilibrium price.
+
+Suppose first that the market price is above the equilibrium price, as in panel (a) of Figure 4-9. At a price of $2.50 per cone, the quantity of the good supplied (10 cones) exceeds the quantity demanded (4 cones). There is a surplus of the good: Suppliers are unable to sell all they want at the going price. When there is a surplus in the ice-cream market, for instance, sellers of ice cream find their freezers increasingly full of ice cream they would like to sell but cannot. They respond to the surplus by cutting their prices. Prices continue to fall until the market reaches the equilibrium.
+
+Suppose now that the market price is below the equilibrium price, as in panel (b) of Figure 4-9. In this case, the price is $1.50 per cone, and the quantity of the good demanded exceeds the quantity supplied. There is a shortage of the good: Demanders are unable to buy all they want at the going price. When a shortage occurs in the ice-cream market, for instance, buyers have to wait in long lines for a chance to buy one of the few cones that are available. With too many buyers chasing too few goods, sellers can respond to the shortage by raising their prices without losing sales. As prices rise, the market once again moves toward the equilibrium.
+
+Thus, the activities of the many buyers and sellers automatically push the market price toward the equilibrium price. Once the market reaches its equilibrium, all buyers and sellers are satisfied, and there is no upward or downward pressure on the price. How quickly equilibrium is reached varies from market to market, depending on how quickly prices adjust. In most free markets, however, surpluses and shortages are only temporary because prices eventually move toward their equilibrium levels. Indeed, this phenomenon is so pervasive that it is sometimes called the law of supply and demand: The price of any good adjusts to bring the supply and demand for that good into balance.
+
+Law of supply and demand: The claim that the price of any good adjusts to bring the supply and demand for that good into balance.
+
+### THREE STEPS TO ANALYZING CHANGES IN EQUILIBRIUM
+
+So far we have seen how supply and demand together determine a market’s equilibrium, which in turn determines the price of the good and the amount of the good that buyers purchase and sellers produce. Of course, the equilibrium price and quantity depend on the position of the supply and demand curves. When some event shifts one of these curves, the equilibrium in the market changes. The analysis of such a change is called comparative statics because it involves comparing two static situations—an old and a new equilibrium.
+
+When analyzing how some event affects a market, we proceed in three steps.
+1. Decide whether the event shifts the supply curve, the demand curve, or perhaps both.
+2. Decide which direction the curve shifts.
+3. Use the supply-and-demand diagram to see how the shift changes the equilibrium.
+
+Table 4-7 summarizes these three steps. To see how this recipe is used, let’s consider various events that might affect the market for ice cream.
+
+Example: A Change in Demand
+Suppose that one summer the weather is very hot. How does this event affect the market for ice cream? To answer this question, let’s follow our three steps.
+1. The hot weather affects the demand curve by changing people’s taste for ice cream. That is, the weather changes the amount of ice cream that people want to buy at any given price. The supply curve is unchanged because the weather does not directly affect the firms that sell ice cream.
+2. Because hot weather makes people want to eat more ice cream, the demand curve shifts to the right. Figure 4-10 shows this increase in demand as the shift in the demand curve from D1 to D2. This shift indicates that the quantity of ice cream demanded is higher at every price.
+3. As Figure 4-10 shows, the increase in demand raises the equilibrium price from $2.00 to $2.50 and the equilibrium quantity from 7 to 10 cones. In other words, the hot weather increases the price of ice cream and the quantity of ice cream sold.
+
+Shifts in Curves versus Movements along Curves
+Notice that when hot weather drives up the price of ice cream, the quantity of ice cream that firms supply rises, even though the supply curve remains the same. In this case, economists say there has been an increase in “quantity supplied” but no change in “supply.”
+
+“Supply” refers to the position of the supply curve, whereas the “quantity supplied” refers to the amount suppliers wish to sell. In this example, supply does not change because the weather does not alter firms’ desire to sell at any given price. Instead, the hot weather alters consumers’ desire to buy at any given price and thereby shifts the demand curve. The increase in demand causes the equilibrium price to rise. When the price rises, the quantity supplied rises. This increase in quantity supplied is represented by the movement along the supply curve.
+
+To summarize, a shift in the supply curve is called a “change in supply,” and a shift in the demand curve is called a “change in demand.” A movement along a fixed supply curve is called a “change in the quantity supplied,” and a movement along a fixed demand curve is called a “change in the quantity demanded.”
+
+Example: A Change in Supply
+Suppose that, during another summer, an earthquake destroys several ice-cream factories. How does this event affect the market for ice cream? Once again, to answer this question, we follow our three steps.
+1. The earthquake affects the supply curve. By reducing the number of sellers, the earthquake changes the amount of ice cream that firms produce and sell at any given price. The demand curve is unchanged.
+hanged because the earthquake does not directly change the amount of ice cream households wish to buy.
+2. The supply curve shifts to the left because, at every price, the total amount that firms are willing and able to sell is reduced. Figure 4-11 illustrates this decrease in supply as a shift in the supply curve from S1 to S2.
+Figure 4-11
+### HOW A DECREASE IN SUPPLY AFFECTS THE EQUILIBRIUM.
+1. An earthquake reduces the supply of ice cream . . . A event that reduces quantity supplied at any given price shifts the supply curve to the left. The equilibrium price rises, and the equilibrium quantity falls. Here, an earthquake causes sellers to supply less ice cream. The supply curve shifts from S1 to S2, which causes the equilibrium price to rise from $2.00 to $2.50 and the equilibrium quantity to fall from 7 to 4 cones.
+2. . . . resulting in a higher price . . .
+3. As Figure 4-11 shows, the shift in the supply curve raises the equilibrium price from $2.00 to $2.50 and lowers the equilibrium quantity from 7 to 4 cones. As a result of the earthquake, the price of ice cream rises, and the quantity of ice cream sold falls.
+Example: A Change in Both Supply and Demand Now suppose that the hot weather and the earthquake occur at the same time. To analyze this combination of events, we again follow our three steps.
+1. We determine that both curves must shift. The hot weather affects the demand curve because it alters the amount of ice cream that households want to buy at any given price. At the same time, the earthquake alters the supply curve because it changes the amount of ice cream that firms want to sell at any given price.
+2. The curves shift in the same directions as they did in our previous analysis: The demand curve shifts to the right, and the supply curve shifts to the left. Figure 4-12 illustrates these shifts.
+3. As Figure 4-12 shows, there are two possible outcomes that might result, depending on the relative size of the demand and supply shifts. In both cases, the equilibrium price rises. In panel (a), where demand increases substantially while supply falls just a little, the equilibrium quantity also rises. By contrast, in panel (b), where supply falls substantially while demand rises just a little, the equilibrium quantity falls. Thus, these events certainly raise the price of ice cream, but their impact on the amount of ice cream sold is ambiguous.
+Figure 4-12
+(a) Price Rises, Quantity Rises
+A SHIFT IN BOTH SUPPLY AND DEMAND. Here we observe a simultaneous increase in demand and decrease in supply. Two outcomes are possible. In panel (a), the equilibrium price rises from P1 to P2, and the equilibrium quantity rises from Q1 to Q2. In panel (b), the equilibrium price again rises from P1 to P2, but the equilibrium quantity falls from Q1 to Q2.
+(b) Price Rises, Quantity Falls
+Summary We have just seen three examples of how to use supply and demand curves to analyze a change in equilibrium. Whenever an event shifts the supply curve, the demand curve, or perhaps both curves, you can use these tools to predict how the event will alter the amount sold in equilibrium and the price at which the good is sold. Table 4-8 shows the predicted outcome for any combination of shifts in the two curves. To make sure you understand how to use the tools of supply and demand, pick a few entries in this table and make sure you can explain to yourself why the table contains the prediction it does.
+Table 4-8
+### WHAT HAPPENS TO PRICE AND QUANTITY WHEN SUPPLY OR DEMAND SHIFTS?
+### NO CHANGE IN DEMAND:
+- No Change in Supply: Price same, Quantity same
+- Increase in Supply: Price down, Quantity up
+- Decrease in Supply: Price up, Quantity down
+Increase in Demand:
+- No Change in Supply: Price up, Quantity up
+- Increase in Supply: Price ambiguous, Quantity up
+- Decrease in Supply: Price up, Quantity ambiguous
+Decrease in Demand:
+- No Change in Supply: Price down, Quantity down
+- Increase in Supply: Price down, Quantity ambiguous
+- Decrease in Supply: Price ambiguous, Quantity down
+### IN THE NEWS
+Mother Nature Shifts the Supply Curve
+ACCORDING TO OUR ANALYSIS, A NATURAL disaster that reduces supply reduces the quantity sold and raises the price. Here’s a recent example.
+4-Day Cold Spell Slams California: Crops Devastated; Price of Citrus to Rise
+A brutal four-day freeze has destroyed more than a third of California’s annual citrus crop, inflicting upwards of a half-billion dollars in damage and raising the prospect of tripled orange prices in supermarkets by next week.
+Throughout the Golden State, cold, dry air from the Gulf of Alaska sent temperatures below freezing beginning Monday, with readings in the high teens and low 20’s in agriculturally rich Central Valley early today—the worst cold spell since a 10-day freeze in 1990. Farmers frantically ran wind and irrigation machines overnight to keep trees warm, but officials pronounced a near total loss in the valley, and said perhaps half of the state’s orange crop was lost as well. . . .
+In some California markets, wholesalers reported that the price of navel oranges had increased to 90 cents a pound on Wednesday from 35 cents on Tuesday.
+California grows about 80 percent of the nation’s oranges eaten as fruit, and 90 percent of lemons, and wholesalers said the retail prices of oranges could triple in the next few days. The price of lemons was certain to rise as well, but the price of orange juice should be less affected because most juice oranges are grown in Florida.
+SOURCE: The New York Times, December 25, 1998, p. A1.
+QUICK QUIZ: Analyze what happens to the market for pizza if the price of tomatoes rises. Analyze what happens to the market for pizza if the price of hamburgers falls.
+### CONCLUSION: HOW PRICES ALLOCATE RESOURCES
+This chapter has analyzed supply and demand in a single market. Although our discussion has centered around the market for ice cream, the lessons learned here apply in most other markets as well. Whenever you go to a store to buy something, you are contributing to the demand for that item. Whenever you look for a job, you are contributing to the supply of labor services. Because supply and demand are such pervasive economic phenomena, the model of supply and demand is a powerful tool for analysis. We will be using this model repeatedly in the following chapters.
+One of the Ten Principles of Economics discussed in Chapter 1 is that markets are usually a good way to organize economic activity. Although it is still too early to judge whether market outcomes are good or bad, in this chapter we have begun to see how markets work. In any economic system, scarce resources have to be allocated among competing uses. Market economies harness the forces of supply and demand to serve that end. Supply and demand together determine the prices of the economy’s many different goods and services; prices in turn are the signals that guide the allocation of resources.
+For example, consider the allocation of beachfront land. Because the amount of this land is limited, not everyone can enjoy the luxury of living by the beach. Who gets this resource? The answer is: whoever is willing and able to pay the price. The price of beachfront land adjusts until the quantity of land demanded exactly balances the quantity supplied. Thus, in market economies, prices are the mechanism for rationing scarce resources.
+Similarly, prices determine who produces each good and how much is produced. For instance, consider farming. Because we need food to survive, it is crucial that some people work on farms. What determines who is a farmer and who is not? In a free society, there is no government planning agency making this decision and ensuring an adequate supply of food. Instead, the allocation of workers to farms is based on the job decisions of millions of workers. This decentralized system works well because these decisions depend on prices. The prices of food and the wages of farmworkers (the price of their labor) adjust to ensure that enough people choose to be farmers.
+If a person had never seen a market economy in action, the whole idea might seem preposterous. Economies are large groups of people engaged in many interdependent activities. What prevents decentralized decisionmaking from degenerating into chaos? What coordinates the actions of the millions of people with their varying abilities and desires? What ensures that what needs to get done does in fact get done? The answer, in a word, is prices. If market economies are guided by an invisible hand, as Adam Smith famously suggested, then the price system is the baton that the invisible hand uses to conduct the economic orchestra.
+Summary
+- Economists use the model of supply and demand to analyze competitive markets. In a competitive market, there are many buyers and sellers, each of whom has little or no influence on the market price.
+- The demand curve shows how the quantity of a good demanded depends on the price. According to the law of demand, as the price of a good falls, the quantity demanded rises. Therefore, the demand curve slopes downward.
+- The supply curve shows how the quantity of a good supplied depends on the price. According to the law of supply, as the price of a good rises, the quantity supplied rises. Therefore, the supply curve slopes upward.
+- The intersection of the supply and demand curves determines the equilibrium price and equilibrium quantity. At the equilibrium price, the quantity demanded equals the quantity supplied.
+- The behavior of buyers and sellers naturally drives markets toward their equilibrium. When the market price is above the equilibrium price, there is a surplus of the good, which causes the market price to fall. When the market price is below the equilibrium price, there is a shortage, which causes the market price to rise.
+- Shifts in the supply or demand curve change the equilibrium price and equilibrium quantity. If both curves shift simultaneously, the effect on price or quantity can be ambiguous without knowing the exact magnitudes of the shifts.
+To analyze how any event influences a market, we use the supply-and-demand diagram to examine how the event affects the equilibrium price and quantity. To do this we follow three steps. First, we decide whether the event shifts the supply curve or the demand curve (or both). Second, we decide which direction the curve shifts. Third, we compare the new equilibrium with the old equilibrium. In market economies, prices are the signals that guide economic decisions and thereby allocate scarce resources. For every good in the economy, the price ensures that supply and demand are in balance. The equilibrium price then determines how much of the good buyers choose to purchase and how much sellers choose to produce.
+
+The intersection of the supply and demand curves determines the market equilibrium.
+
+In addition to price, other determinants of the quantity demanded include income, tastes, expectations, and the prices of substitutes and complements. If one of these other determinants changes, the demand curve shifts. The supply curve shows how the quantity of a good supplied depends on the price. According to the law of supply, as the price of a good rises, the quantity supplied rises. Therefore, the supply curve slopes upward. In addition to price, other determinants of the quantity supplied include input prices, technology, and expectations. If one of these other determinants changes, the supply curve shifts.
+
+Key Concepts
+market, p. 66
+competitive market, p. 66
+quantity demanded, p. 67
+law of demand, p. 68
+normal good, p. 68
+inferior good, p. 68
+substitutes, p. 68
+complements, p. 68
+demand schedule, p. 69
+demand curve, p. 70
+ceteris paribus, p. 70
+quantity supplied, p. 75
+law of supply, p. 75
+supply schedule, p. 76
+supply curve, p. 76
+equilibrium, p. 80
+equilibrium price, p. 80
+equilibrium quantity, p. 80
+surplus, p. 81
+shortage, p. 81
+law of supply and demand, p. 81
+
+Questions for Review
+1. What is a competitive market? Briefly describe the types of markets other than perfectly competitive markets.
+2. What determines the quantity of a good that buyers demand?
+3. What are the demand schedule and the demand curve, and how are they related? Why does the demand curve slope downward?
+4. Does a change in consumers’ tastes lead to a movement along the demand curve or a shift in the demand curve? Does a change in price lead to a movement along the demand curve or a shift in the demand curve?
+5. Popeye’s income declines and, as a result, he buys more spinach. Is spinach an inferior or a normal good? What happens to Popeye’s demand curve for spinach?
+6. What determines the quantity of a good that sellers supply?
+7. What are the supply schedule and the supply curve, and how are they related? Why does the supply curve slope upward?
+8. Does a change in producers’ technology lead to a movement along the supply curve or a shift in the supply curve? Does a change in price lead to a movement along the supply curve or a shift in the supply curve?
+9. Define the equilibrium of a market. Describe the forces that move a market toward its equilibrium.
+10. Beer and pizza are complements because they are often enjoyed together. When the price of beer rises, what happens to the supply, demand, quantity supplied, quantity demanded, and the price in the market for pizza?
+11. Describe the role of prices in market economies.
+
+Problems and Applications
+1. Explain each of the following statements using supply-and-demand diagrams.
+a. When a cold snap hits Florida, the price of orange juice rises in supermarkets throughout the country.
+b. When the weather turns warm in New England every summer, the prices of hotel rooms in Caribbean resorts plummet.
+c. When a war breaks out in the Middle East, the price of gasoline rises, while the price of a used Cadillac falls.
+2. “An increase in the demand for notebooks raises the quantity of notebooks demanded, but not the quantity supplied.” Is this statement true or false? Explain.
+3. Consider the market for minivans. For each of the events listed here, identify which of the determinants of demand or supply are affected. Also indicate whether demand or supply is increased or decreased. Then show the effect on the price and quantity of minivans.
+a. People decide to have more children.
+b. A strike by steelworkers raises steel prices.
+c. Engineers develop new automated machinery for the production of minivans.
+d. The price of station wagons rises.
+e. A stock-market crash lowers people’s wealth.
+4. During the 1990s, technological advance reduced the cost of computer chips. How do you think this affected the market for computers? For computer software? For typewriters?
+5. Using supply-and-demand diagrams, show the effect of the following events on the market for sweatshirts.
+a. A hurricane in South Carolina damages the cotton crop.
+b. The price of leather jackets falls.
+c. All colleges require morning calisthenics in appropriate attire.
+d. New knitting machines are invented.
+6. Suppose that in the year 2005 the number of births is temporarily high. How does this baby boom affect the price of baby-sitting services in 2010 and 2020? (Hint: 5-year-olds need baby-sitters, whereas 15-year-olds can be baby-sitters.)
+7. Ketchup is a complement (as well as a condiment) for hot dogs. If the price of hot dogs rises, what happens to the market for ketchup? For tomatoes? For tomato juice? For orange juice?
+8. The case study presented in the chapter discussed cigarette taxes as a way to reduce smoking. Now think about the markets for other tobacco products such as cigars and chewing tobacco.
+a. Are these goods substitutes or complements for cigarettes?
+b. Using a supply-and-demand diagram, show what happens in the markets for cigars and chewing tobacco if the tax on cigarettes is increased.
+c. If policymakers wanted to reduce total tobacco consumption, what policies could they combine with the cigarette tax?
+9. The market for pizza has the following demand and supply schedules:
+
+Price | Quantity Demanded | Quantity Supplied
+--- | --- | ---
+$4 | 135 | 26
+5 | 104 | 53
+6 | 81 | 81
+7 | 68 | 98
+8 | 53 | 110
+9 | 39 | 121
+
+Graph the demand and supply curves. What is the equilibrium price and quantity in this market? If the actual price in this market were above the equilibrium price, what would drive the market toward the equilibrium? If the actual price in this market were below the equilibrium price, what would drive the market toward the equilibrium?
+10. Because bagels and cream cheese are often eaten together, they are complements.
+a. We observe that both the equilibrium price of cream cheese and the equilibrium quantity of bagels have risen. What could be responsible for this pattern—a fall in the price of flour or a fall in the price of milk? Illustrate and explain your answer.
+b. Suppose instead that the equilibrium price of cream cheese has risen but the equilibrium quantity of bagels has fallen. What could be responsible for this pattern—a rise in the price of flour or a rise in the price of milk? Illustrate and explain your answer.
+11. Suppose that the price of basketball tickets at your college is determined by market forces. Currently, the demand and supply schedules are as follows:
+
+Price | Quantity Demanded | Quantity Supplied
+--- | --- | ---
+$4 | 10,000 | 8,000
+8 | 8,000 | 8,000
+12 | 6,000 | 8,000
+16 | 4,000 | 8,000
+20 | 2,000 | 8,000
+
+a. Draw the demand and supply curves. What is unusual about this supply curve? Why might this be true?
+b. What are the equilibrium price and quantity of tickets?
+c. Your college plans to increase total enrollment next year by 5,000 students. The additional students will have the following demand schedule:
+
+Price | Quantity Demanded
+--- | ---
+$4 | 4,000
+8 | 3,000
+12 | 2,000
+16 | 1,000
+20 | 0
+
+Now add the old demand schedule and the demand schedule for the new students to calculate the new demand schedule for the entire college. What will be the new equilibrium price and quantity?
+12. An article in The New York Times described a successful marketing campaign by the French champagne industry. The article noted that “many executives felt giddy about the stratospheric champagne prices. But they also feared that such sharp price increases would cause demand to decline, which would then cause prices to plunge.” What mistake are the executives making in their analysis of the situation? Illustrate your answer with a graph.
+market for wheat, the upward-sloping supply curve represents the behavior of sellers, and the downward-sloping demand curve represents the behavior of buyers. The price of the good adjusts to bring the quantity supplied and quantity demanded of the good into balance. To apply this basic analysis to understand the impact of the agronomists’ discovery, we must first develop one more tool: the concept of elasticity. Elasticity, a measure of how much buyers and sellers respond to changes in market conditions, allows us to analyze supply and demand with greater precision.
+
+### THE ELASTICITY OF DEMAND
+
+When we discussed the determinants of demand in Chapter 4, we noted that buyers usually demand more of a good when its price is lower, when their incomes are higher, when the prices of substitutes for the good are higher, or when the prices of complements of the good are lower. Our discussion of demand was qualitative, not quantitative. That is, we discussed the direction in which the quantity demanded moves, but not the size of the change. To measure how much demand responds to changes in its determinants, economists use the concept of elasticity.
+
+elasticity
+a measure of the responsiveness of quantity demanded or quantity supplied to one of its determinants
+
+### THE PRICE ELASTICITY OF DEMAND AND ITS DETERMINANTS
+
+The law of demand states that a fall in the price of a good raises the quantity demanded. The price elasticity of demand measures how much the quantity demanded responds to a change in price. Demand for a good is said to be elastic if the quantity demanded responds substantially to changes in the price. Demand is said to be inelastic if the quantity demanded responds only slightly to changes in the price.
+
+price elasticity of demand
+a measure of how much the quantity demanded of a good responds to a change in the price of that good, computed as the percentage change in quantity demanded divided by the percentage change in price.
+
+What determines whether the demand for a good is elastic or inelastic? Because the demand for any good depends on consumer preferences, the price elasticity of demand depends on the many economic, social, and psychological forces that shape individual desires. Based on experience, however, we can state some general rules about what determines the price elasticity of demand.
+
+Necessities versus Luxuries
+Necessities tend to have inelastic demands, whereas luxuries have elastic demands. When the price of a visit to the doctor rises, people will not dramatically alter the number of times they go to the doctor, although they might go somewhat less often. By contrast, when the price of sailboats rises, the quantity of sailboats demanded falls substantially. The reason is that most people view doctor visits as a necessity and sailboats as a luxury. Of course, whether a good is a necessity or a luxury depends not on the intrinsic properties of the good but on the preferences of the buyer. For an avid sailor with little concern over his health, sailboats might be a necessity with inelastic demand and doctor visits a luxury with elastic demand.
+
+Availability of Close Substitutes
+Goods with close substitutes tend to have more elastic demand because it is easier for consumers to switch from that good to others. For example, butter and margarine are easily substitutable. A small increase in the price of butter, assuming the price of margarine is held fixed, causes the quantity of butter sold to fall by a large amount. By contrast, because eggs are a food without a close substitute, the demand for eggs is probably less elastic than the demand for butter.
+
+Definition of the Market
+The elasticity of demand in any market depends on how we draw the boundaries of the market. Narrowly defined markets tend to have more elastic demand than broadly defined markets, because it is easier to find close substitutes for narrowly defined goods. For example, food, a broad category, has a fairly inelastic demand because there are no good substitutes for food. Ice cream, a more narrow category, has a more elastic demand because it is easy to substitute other desserts for ice cream. Vanilla ice cream, a very narrow category, has a very elastic demand because other flavors of ice cream are almost perfect substitutes for vanilla.
+
+Time Horizon
+Goods tend to have more elastic demand over longer time horizons. When the price of gasoline rises, the quantity of gasoline demanded falls only slightly in the first few months. Over time, however, people buy more fuel-efficient cars, switch to public transportation, and move closer to where they work. Within several years, the quantity of gasoline demanded falls substantially.
+
+### COMPUTING THE PRICE ELASTICITY OF DEMAND
+
+Now that we have discussed the price elasticity of demand in general terms, let’s be more precise about how it is measured. Economists compute the price elasticity of demand as the percentage change in the quantity demanded divided by the percentage change in the price. That is,
+
+Price elasticity of demand = Percentage change in quantity demanded / Percentage change in price
+
+For example, suppose that a 10-percent increase in the price of an ice-cream cone causes the amount of ice cream you buy to fall by 20 percent. We calculate your elasticity of demand as
+
+Price elasticity of demand = 20 percent / 10 percent = 2.
+
+In this example, the elasticity is 2, reflecting that the change in the quantity demanded is proportionately twice as large as the change in the price.
+
+Because the quantity demanded of a good is negatively related to its price, the percentage change in quantity will always have the opposite sign as the percentage change in price. In this example, the percentage change in price is a positive 10 percent (reflecting an increase), and the percentage change in quantity demanded is a negative 20 percent (reflecting a decrease). For this reason, price elasticities of demand are sometimes reported as negative numbers. In this book we follow the common practice of dropping the minus sign and reporting all price elasticities as positive numbers. (Mathematicians call this the absolute value.) With this convention, a larger price elasticity implies a greater responsiveness of quantity demanded to price.
+
+### THE MIDPOINT METHOD: A BETTER WAY TO CALCULATE PERCENTAGE CHANGES AND ELASTICITIES
+
+If you try calculating the price elasticity of demand between two points on a demand curve, you will quickly notice an annoying problem: The elasticity from point A to point B seems different from the elasticity from point B to point A. For example, consider these numbers:
+
+Point A: Price = $4 Quantity = 120
+Point B: Price = $6 Quantity = 80
+
+Going from point A to point B, the price rises by 50 percent, and the quantity falls by 33 percent, indicating that the price elasticity of demand is 33/50, or 0.66. By contrast, going from point B to point A, the price falls by 33 percent, and the quantity rises by 50 percent, indicating that the price elasticity of demand is 50/33, or 1.5.
+
+One way to avoid this problem is to use the midpoint method for calculating elasticities. Rather than computing a percentage change using the standard way (by dividing the change by the initial level), the midpoint method computes a percentage change by dividing the change by the midpoint of the initial and final levels. For instance, $5 is the midpoint of $4 and $6. Therefore, according to the midpoint method, a change from $4 to $6 is considered a 40 percent rise, because ($6 - $4)/$5 * 100 = 40. Similarly, a change from $6 to $4 is considered a 40 percent fall.
+
+Because the midpoint method gives the same answer regardless of the direction of change, it is often used when calculating the price elasticity of demand between two points. In our example, the midpoint between point A and point B is:
+
+Midpoint: Price = $5 Quantity = 100
+
+According to the midpoint method, when going from point A to point B, the price rises by 40 percent, and the quantity falls by 40 percent. Similarly, when going from point B to point A, the price falls by 40 percent, and the quantity rises by 40 percent. In both directions, the price elasticity of demand equals 1.
+
+We can express the midpoint method with the following formula for the price elasticity of demand between two points, denoted (Q1, P1) and (Q2, P2):
+
+Price elasticity of demand = (Q2 - Q1) / [(Q2 + Q1) / 2] / (P2 - P1) / [(P2 + P1) / 2]
+
+The numerator is the percentage change in quantity computed using the midpoint method, and the denominator is the percentage change in price computed using the midpoint method.
+
+Figure 5-1
+(a) Perfectly Inelastic Demand: Elasticity Equals 0
+Price
+$5
+1. A 22% increase in price . . .
+Demand
+0 100 Quantity
+2. . . . leaves the quantity demanded unchanged.
+
+(b) Inelastic Demand: Elasticity Is Less Than 1
+Price
+$5
+1. A 22% increase in price . . .
+Demand
+0 90 100 Quantity
+2. . . . leads to an 11% decrease in quantity demanded.
+
+(c) Unit Elastic Demand: Elasticity Equals 1
+Price
+$5
+1. A 22% increase in price . . .
+Demand
+0 80 100 Quantity
+2. . . . leads to a 22% decrease in quantity demanded.
+
+(d) Elastic Demand: Elasticity Is Greater Than 1
+Price
+$5
+1. A 22% increase in price . . .
+Demand
+0 50 100 Quantity
+2. . . . leads to a 67% decrease in quantity demanded.
+
+(e) Perfectly Elastic Demand: Elasticity Equals Infinity
+Price
+1. At any price above $4, quantity demanded is zero.
+$4 Demand
+2. At exactly $4, consumers will buy any quantity.
+0 Quantity
+3. At a price below $4, quantity demanded is infinite.
+
+THE PRICE ELASTICITY OF DEMAND. The price elasticity of demand determines whether the demand curve is steep or flat. Note that all percentage changes are calculated using the midpoint method.
+计算弹性时，你应当使用这个公式。
+然而，在本书中，我们很少需要进行这种计算。对我们而言，弹性所代表的含义——即需求量对价格的反应程度——比如何计算它更为重要。
+
+需求曲线的种类
+经济学家根据弹性来对需求曲线进行分类。当弹性大于1时，需求是富有弹性的，这意味着数量的变动比例大于价格的变动比例。当弹性小于1时，需求是缺乏弹性的，这意味着数量的变动比例小于价格的变动比例。如果弹性恰好等于1，即数量的变动比例与价格相同，则称该需求具有单位弹性。
+由于需求的价格弹性衡量了需求量对价格变动的反应程度，它与需求曲线的斜率密切相关。以下经验法则是一个有用的指南：通过给定点的需求曲线越平坦，需求的价格弹性就越大。通过给定点的需求曲线越陡峭，需求的价格弹性就越小。
+图5-1展示了五种情况。在弹性为零的极端情况下，需求是完全无弹性的，需求曲线是垂直的。在这种情况下，无论价格如何，需求量都保持不变。随着弹性增大，需求曲线变得越来越平坦。在另一个极端，需求是完全有弹性的。当需求的价格弹性趋近于无穷大时就会发生这种情况，需求曲线变为水平线，这反映出价格非常微小的变化会导致需求量的巨大变化。
+最后，如果你在区分“富有弹性”和“缺乏弹性”这两个术语时感到困惑，这里有一个记忆技巧：缺乏弹性的曲线，如图5-1中的面板(a)，看起来像字母I。富有弹性的曲线，如面板(e)，看起来像字母E。这不是什么深刻的见解，但或许在你下次考试时会有所帮助。
+
+总收益与需求的价格弹性
+在研究市场中的供给或需求变化时，我们经常想要研究的一个变量是总收益，即买家支付、卖家从商品销售中获得的金额。在任何市场中，总收益都是P×Q，即商品的价格乘以销售的数量。我们可以用图形来表示总收益，如图5-2所示。需求曲线下方矩形的高度是P，宽度是Q。这个矩形的面积，P × Q，等于这个市场的总收益。在图5-2中，P为$4，Q为100，总收益是$4 × 100，即$400。
+当沿着需求曲线移动时，总收益如何变化？这取决于需求的价格弹性。如果需求是缺乏弹性的，如图5-3所示，那么价格上涨会导致总收益增加。在这里，价格从$1上涨到$3，导致需求量仅从100下降到80，因此总收益从$100增加到$240。价格上涨导致P×Q增加，因为Q的下降比例小于P的上涨比例。
+如果需求是富有弹性的，我们会得到相反的结果：价格上涨会导致总收益减少。例如，在图5-4中，当价格从$4上涨到$5时，需求量从50下降到20，因此总收益从$200下降到$100。由于需求富有弹性，需求量的减少幅度如此之大，以至于超过了价格上涨的幅度。也就是说，价格上涨导致P×Q减少，因为Q的下降比例大于P的上涨比例。
+尽管这两个例子中的情况很极端，但它们说明了一个一般规律：
+- 当需求曲线缺乏弹性（价格弹性小于1）时，价格上涨会提高总收益，价格下降会减少总收益。
+- 当需求曲线富有弹性（价格弹性大于1）时，价格上涨会减少总收益，价格下降会提高总收益。
+- 在单位弹性需求的特殊情况下（价格弹性恰好等于1），价格变化不会影响总收益。
+
+线性需求曲线上的弹性与总收益
+虽然有些需求曲线的弹性在整个曲线上是相同的，但情况并非总是如此。弹性会变化的需求曲线的一个例子是如图5-5所示的直线。线性需求曲线具有恒定的斜率。回想一下，斜率定义为“上升量除以运行量”，在这里是价格变化（“上升”）与数量变化（“运行”）的比率。这条特定的需求曲线斜率是恒定的，因为价格每增加$1，都会导致需求量减少相同的2个单位。
+尽管线性需求曲线的斜率是恒定的，但其弹性却不是。原因是斜率是两个变量变化量的比率，而弹性是两个变量变化百分比的比率。你通过观察表5-1最容易理解这一点。该表展示了图5-5中线性需求曲线的需求表，并使用之前讨论过的中点法计算了需求的价格弹性。在价格低、数量高的点，需求曲线是缺乏弹性的。在价格高、数量低的点，需求曲线是富有弹性的。
+表5-1还给出了需求曲线上每个点的总收益。这些数字说明了总收益与弹性之间的关系。例如，当价格为$1时，需求缺乏弹性，价格上涨到$2会提高总收益。当价格为$5时，需求富有弹性，价格上涨到$6会减少总收益。在$3和$4之间，需求恰好是单位弹性，这两个价格下的总收益相同。
+
+案例研究：博物馆门票定价
+你是一所大型艺术博物馆的馆长。你的财务主管告诉你博物馆资金短缺，并建议你考虑改变门票价格以增加总收益。你该怎么做？是提高门票价格，还是降低价格？
+这取决于需求的弹性。如果参观博物馆的需求缺乏弹性，那么提高门票价格会增加总收益。但如果需求富有弹性，那么提高价格会导致游客数量大幅减少，从而使总收益下降。在这种情况下，你应该降低价格。游客数量会大幅增加，从而使总收益提高。
+要估算需求的价格弹性，你需要求助于你的统计学家。他们可能会利用历史数据来研究随着门票价格的变化，博物馆的参观人数每年如何变化。或者，他们可能会利用全国各大博物馆的参观数据，看看门票价格如何影响参观人数。在研究这两类数据时，统计学家都需要考虑影响参观人数的其他因素——天气、人口、藏品规模等——以分离出价格的最终影响。最终，这样的数据分析将提供需求的价格弹性的估计值，你可以用它来决定如何应对你的财务问题。
+
+其他需求弹性
+除了需求的价格弹性，经济学家还使用其他弹性来描述市场中买家的行为。需求的收入弹性是衡量一种商品的需求量对消费者收入变化反应程度的指标。
+change in consumers' income, The Income Elasticity of Demand Economists use the income elasticity of demand to measure how the quantity demanded changes as consumer income changes. The income elasticity is the percentage change in quantity demanded divided by the percentage change in income. That is,
+
+Percentage change in quantity demanded
+Income elasticity of demand = .
+Percentage change in income
+
+As we discussed in Chapter 4, most goods are normal goods: Higher income raises quantity demanded. Because quantity demanded and income move in the same direction, normal goods have positive income elasticities. A few goods, such as bus rides, are inferior goods: Higher income lowers the quantity demanded. Because quantity demanded and income move in opposite directions, inferior goods have negative income elasticities.
+
+Even among normal goods, income elasticities vary substantially in size. Necessities, such as food and clothing, tend to have small income elasticities because consumers, regardless of how low their incomes, choose to buy some of these goods. Luxuries, such as caviar and furs, tend to have large income elasticities because consumers feel that they can do without these goods altogether if their income is too low.
+
+The Cross-Price Elasticity of Demand Economists use the cross-price elasticity of demand to measure how the quantity demanded of one good changes as the price of another good changes. It is calculated as the percentage change in quantity demanded of good 1 divided by the percentage change in the price of good 2. That is,
+
+Percentage change in quantity demanded of good 1
+Cross-price elasticity of demand = .
+Percentage change in the price of good 2
+
+Whether the cross-price elasticity is a positive or negative number depends on whether the two goods are substitutes or complements. As we discussed in Chapter 4, substitutes are goods that are typically used in place of one another, such as hamburgers and hot dogs. An increase in hot dog prices induces people to grill hamburgers instead. Because the price of hot dogs and the quantity of hamburgers demanded move in the same direction, the cross-price elasticity is positive. Conversely, complements are goods that are typically used together, such as computers and software. In this case, the cross-price elasticity is negative, indicating that an increase in the price of computers reduces the quantity of software demanded.
+
+QUICK QUIZ: Define the price elasticity of demand. Explain the relationship between total revenue and the price elasticity of demand.
+
+### THE ELASTICITY OF SUPPLY
+When we discussed the determinants of supply in Chapter 4, we noted that sellers of a good increase the quantity supplied when the price of the good rises, when their input prices fall, or when their technology improves. To turn from qualitative to quantitative statements about supply, we once again use the concept of elasticity.
+
+### THE PRICE ELASTICITY OF SUPPLY AND ITS DETERMINANTS
+The law of supply states that higher prices raise the quantity supplied. The price elasticity of supply measures how much the quantity supplied responds to changes in the price. Supply of a good is said to be elastic if the quantity supplied responds substantially to changes in the price. Supply is said to be inelastic if the quantity supplied responds only slightly to changes in the price.
+
+The price elasticity of supply depends on the flexibility of sellers to change the amount of the good they produce. For example, beachfront land has an inelastic supply because it is almost impossible to produce more of it. By contrast, manufactured goods, such as books, cars, and televisions, have elastic supplies because the firms that produce them can run their factories longer in response to a higher price.
+
+In most markets, a key determinant of the price elasticity of supply is the time period being considered. Supply is usually more elastic in the long run than in the short run. Over short periods of time, firms cannot easily change the size of their factories to make more or less of a good. Thus, in the short run, the quantity supplied is not very responsive to the price. By contrast, over longer periods, firms can build new factories or close old ones. In addition, new firms can enter a market, and old firms can shut down. Thus, in the long run, the quantity supplied can respond substantially to the price.
+
+### COMPUTING THE PRICE ELASTICITY OF SUPPLY
+Now that we have some idea about what the price elasticity of supply is, let’s be more precise. Economists compute the price elasticity of supply as the percentage change in the quantity supplied divided by the percentage change in the price. That is,
+
+Percentage change in quantity supplied
+Price elasticity of supply = .
+Percentage change in price
+
+For example, suppose that an increase in the price of milk from $2.85 to $3.15 a gallon raises the amount that dairy farmers produce from 9,000 to 11,000 gallons per month. Using the midpoint method, we calculate the percentage change in price as
+Percentage change in price = (3.15 - 2.85)/3.00 * 100 = 10 percent.
+Similarly, we calculate the percentage change in quantity supplied as
+Percentage change in quantity supplied = (11,000 - 9,000)/10,000 * 100 = 20 percent.
+In this case, the price elasticity of supply is
+20 percent
+Price elasticity of supply = = 2.0.
+10 percent
+In this example, the elasticity of 2 reflects the fact that the quantity supplied moves proportionately twice as much as the price.
+
+### THE VARIETY OF SUPPLY CURVES
+Because the price elasticity of supply measures the responsiveness of quantity supplied to the price, it is reflected in the appearance of the supply curve. Figure 5 shows five cases. In the extreme case of a zero elasticity, shown in panel (a), supply is perfectly inelastic and the supply curve is vertical. In this case, the quantity supplied is the same regardless of the price. As the price rises from P1 to P2, the quantity supplied remains the same. At the other extreme is a perfectly elastic supply, illustrated in panel (e). This is a tiny increase in the price causes an extremely large increase in the quantity supplied. The supply curve for such a good is horizontal.
+
+Panel (b) shows the case of inelastic supply. In this case, the elasticity is less than 1. A 10 percent rise in the price causes only a 5 percent increase in the quantity supplied. The supply curve is steeper than in the case of unit elasticity. Panel (d) shows the case of elastic supply. Here, the elasticity is greater than 1. A 10 percent rise in the price causes a 20 percent increase in the quantity supplied. The supply curve is flatter than in the case of unit elasticity.
+
+What determines the elasticity of supply? The key determinant is the flexibility of sellers to change the amount of the good they produce. For example, beachfront land has an inelastic supply because it is almost impossible to produce more of it. By contrast, manufactured goods, such as books, cars, and televisions, have elastic supplies because the firms that produce them can run their factories longer in response to a higher price. In most markets, a key determinant of the price elasticity of supply is the time period being considered. Supply is usually more elastic in the long run than in the short run. Over short periods of time, firms cannot easily change the size of their factories to make more or less of a good. Thus, in the short run, the quantity supplied is not very responsive to the price. By contrast, over longer periods, firms can build new factories or close old ones. In addition, new firms can enter a market, and old firms can shut down. Thus, in the long run, the quantity supplied can respond substantially to the price.
+
+IN THE NEWS: On the Road with Elasticity
+Washington-Dulles International Airport are trying to discern the magic point. The group originally projected that it could charge nearly $2 for the 14-mile one-way trip, while attracting 34,000 trips on an average day from overcrowded public roads such as nearby Route 7. But after spending $350 million to build their much heralded “Greenway,” they discovered to their dismay that only about a third that number of commuters were willing to pay that much to shave 20 minutes off their daily commute. It was only when the company, in desperation, lowered the toll to $1 that it came even close to attracting the expected traffic flows.
+Although the Greenway still is losing money, it is clearly better off at this point on the demand curve than it was when it first opened. Average daily revenue today is $22,000, compared with $14,875 when the “special introductory” price was $1.75. And with traffic still light even at rush hour, it is possible that the owners may lower tolls even further in search of higher revenue. After all, when the price was lowered by 45 percent last spring, it generated a 200 percent increase in volume three months later. If the same ratio applies again, lowering the toll another 25 percent would drive the daily volume up to 38,000 trips, and daily revenue up to nearly $29,000. The problem, of course, is that the same ratio usually does not apply at every price point, which is why this pricing business is so tricky. Clifford Winston of the Brookings Institution and John Calfee of the American Enterprise Institute have considered the toll road’s dilemma. Last year, the economists conducted an elaborate market test with 1,170 people across the country who were each presented with a series of options in which they were, in effect, asked to make a personal tradeoff between less commuting time and higher tolls. In the end, they concluded that the people who placed the highest value on reducing their commuting time already had done so by finding public transportation, living closer to their work, or selecting jobs that allowed them to commute at off-peak hours. Conversely, those who commuted significant distances had a higher tolerance for traffic congestion and were willing to pay only 20 percent of their hourly pay to save an hour of their time. Overall, the Winston/Calfee findings help explain why the Greenway’s original toll and volume projections were too high: By their reckoning, only commuters who earned at least $30 an hour (about $60,000 a year) would be willing to pay $2 to save 20 minutes.
+供给曲线。图5-6展示了五种情况。在弹性为零的极端情况下，供给完全无弹性，供给曲线是垂直的。此时，无论价格如何变化，供给量都相同。随着弹性上升，供给曲线变得更平坦，表明供给量对价格变化的反应更大。在另一个极端，供给完全有弹性。这发生在供给价格弹性趋近无穷大时，供给曲线变为水平线，意味着价格的微小变化会导致供给量的巨大变化。
+
+(a) 完全无弹性供给：弹性等于0
+价格 供给
+$5
+4
+1. 价格……
+0 100 数量
+2. ……导致供给量不变。
+
+(b) 缺乏弹性供给：弹性小于1
+价格 供给
+$5
+4
+1. 价格上涨22%……
+0 100 110 数量
+2. ……导致供给量增加10%。
+
+(c) 单位弹性供给：弹性等于1
+价格 供给
+$5
+1. 价格上涨22%……
+0 100 125 数量
+2. ……导致供给量增加22%。
+
+(d) 富有弹性供给：弹性大于1
+价格 供给
+$5
+4
+1. 价格上涨22%……
+0 100 200 数量
+2. ……导致供给量增加67%。
+
+(e) 完全有弹性供给：弹性等于无穷大
+价格 供给
+1. 在任何高于$4的价格下，供给量无限。
+$4
+2. 恰好在$4的价格时，生产者愿意供给任何数量。
+0 数量
+3. 在低于$4的价格下，供给量为零。
+
+图5-6 供给的价格弹性。供给的价格弹性决定了供给曲线是陡峭还是平坦。注意，所有百分比变化都是使用中点法计算的。
+
+在某些市场中，供给弹性不是恒定的，而是沿着供给曲线变化。图5-7展示了一个典型行业案例，其中企业的生产能力有限。在供给量较低的水平，供给弹性很高，表明企业对价格变化反应强烈。在这个区域，企业拥有未充分利用的生产能力，例如闲置的厂房和设备。价格的小幅上涨使得企业开始使用这些闲置产能变得有利可图。随着供给量增加，企业开始接近产能极限。一旦产能被完全使用，进一步增产就需要建设新工厂。为了诱导企业承担这笔额外开支，价格必须大幅上涨，因此供给变得缺乏弹性。
+
+图5-7提供了这个现象的数值示例。当价格从$3上涨到$4（根据中点法计算，上涨29%）时，供给量从100增加到200（增加67%）。由于供给量的变动比例大于价格，供给曲线弹性大于1。相比之下，当价格从$12上涨到$15（上涨22%）时，供给量从500增加到525（增加5%）。在这种情况下，供给量的变动比例小于价格，因此弹性小于1。
+
+快速测验：定义供给的价格弹性。解释为什么供给的价格弹性在长期和短期可能不同。
+
+供给、需求与弹性的三个应用
+农业的好消息对农民来说会是坏消息吗？为什么石油输出国组织（OPEC）未能保持高油价？缉毒会增加还是减少毒品相关的犯罪？起初，这些问题似乎没什么共同点。然而，所有三个问题都关于市场，而所有市场都受供求力量的支配。在这里，我们运用供应、需求和弹性这些多功能工具来回答这些看似复杂的问题。
+
+农业的好消息对农民来说会是坏消息吗？
+现在让我们回到本章开头提出的问题：当大学农学家发现一种比现有品种产量更高的小麦新杂交品种时，小麦农民和小麦市场会发生什么？回顾第4章，我们分三步回答此类问题。首先，我们分析是供给曲线还是需求曲线发生了移动。其次，我们考虑曲线移动的方向。第三，我们使用供求图来观察市场均衡如何变化。
+
+在这个案例中，新杂交品种的发现影响了供给曲线。因为杂交品种提高了每英亩土地可生产的小麦数量，农民现在愿意在任何给定价格下供给更多小麦。换句话说，供给曲线向右移动。需求曲线保持不变，因为消费者在任何给定价格下购买小麦产品的意愿不受新杂交品种引入的影响。图5-8展示了这种变化的一个例子。当供给曲线从S₁移动到S₂时，小麦销售量从100增加到110，小麦价格从$3下降到$2。
+
+但是，这一发现是否使农民的境况好转？为了初步回答这个问题，考虑一下农民获得的总收入会发生什么变化。农民的总收入是P×Q，即小麦的价格乘以销售量。这一发现以两种相互冲突的方式影响农民。杂交品种使农民能够生产更多小麦（Q增加），但现在每蒲式耳小麦的售价更低了（P下降）。总收入是增加还是减少取决于需求弹性。实际上，像小麦这样的基本食品通常需求缺乏弹性，因为这些物品相对便宜且几乎没有好的替代品。当需求缺乏弹性时，如图5-8所示，价格下降会导致总收入减少。你可以从图中看出：小麦价格大幅下降，而小麦销售量仅略有增加。总收入从$300下降到$220。因此，新杂交品种的发现降低了农民销售农作物所获得的总收入。
+
+如果农民因为这一新杂交品种的发现而境况变差，为什么他们还要采用它？这个问题的答案触及了竞争市场运作的核心。因为每个农民只是小麦市场的一小部分，他或她将小麦价格视为既定。对于任何给定的小麦价格，使用新杂交品种来生产和销售更多小麦都是更好的选择。然而，当所有农民都这样做时，小麦的供给增加，价格下降，农民的境况变差。虽然这个例子起初可能看起来只是假设性的，但它确实有助于解释过去一个世纪美国经济的一个重大变化。两百年前，大多数美国人生活在农场上。由于农业知识非常原始，我们中的大多数人不得不成为农民才能生产足够的食物。然而，随着时间的推移，农业技术的进步提高了每个农民可以生产的食物数量。这种食物供给的增加，加上食物需求缺乏弹性，导致农业收入下降，进而鼓励人们离开农业。
+
+一些数字显示了这一历史性变化的规模。就在1950年，美国还有1000万人在农场工作，占劳动力的17%。到1998年，只有不到300万人在农场工作，仅占劳动力的2%。这一变化与农业生产力的巨大进步同时发生：尽管农民数量减少了70%，但美国农场在1998年生产的农作物和牲畜产量是1950年的两倍多。
+
+这种对农产品市场的分析也有助于解释一个看似矛盾的公共政策：某些农业计划试图通过诱导农民不要在全部土地上种植作物来帮助农民。为什么这些计划要这样做？它们的目的是减少农产品的供给，从而提高价格。由于对其产品的需求缺乏弹性，如果农民作为一个整体向市场提供更少的农作物，他们将获得更高的总收入。没有哪个农民会单独选择让自己的土地休耕，因为每个人都接受市场价格。但如果所有农民都这样做，那么……
+
+图5-8 小麦市场的供给增加。当农业技术进步将小麦供给从S₁增加到S₂时，小麦价格下降。由于小麦需求缺乏弹性，销售量从100增加到110的幅度按比例小于价格从$3下降到$2的幅度。因此，农民的总收入从$300（$3×100）下降到$220（$2×110）。
+1. 当需求缺乏弹性时，供给增加……
+S₁ S₂
+2. ……导致价格大幅下降……
+$3
+3. ……以及销售量按比例较小的增加。因此，收入从$300下降到$220。
+0 100 110 小麦数量
+, each of them can be better off.
+## PART TWO SUPPLY AND DEMAND I: HOW MARKETS WORK
+When analyzing the effects of farm technology or farm policy, it is important
+to keep in mind that what is good for farmers is not necessarily good for society as
+a whole. Improvement in farm technology can be bad for farmers who become in-
+creasingly unnecessary, but it is surely good for consumers who pay less for food.
+Similarly, a policy aimed at reducing the supply of farm products may raise the in-
+comes of farmers, but it does so at the expense of consumers.
+### WHY DID OPEC FAIL TO KEEP THE PRICE OF OIL HIGH?
+Many of the most disruptive events for the world’s economies over the past sev-
+eral decades have originated in the world market for oil. In the 1970s members of
+the Organization of Petroleum Exporting Countries (OPEC) decided to raise the
+world price of oil in order to increase their incomes. These countries accomplished
+this goal by jointly reducing the amount of oil they supplied. From 1973 to 1974,
+the price of oil (adjusted for overall inflation) rose more than 50 percent. Then, a
+few years later, OPEC did the same thing again. The price of oil rose 14 percent in
+1979, followed by 34 percent in 1980, and another 34 percent in 1981.
+Yet OPEC found it difficult to maintain a high price. From 1982 to 1985, the
+price of oil steadily declined at about 10 percent per year. Dissatisfaction and dis-
+array soon prevailed among the OPEC countries. In 1986 cooperation among
+OPEC members completely broke down, and the price of oil plunged 45 percent.
+In 1990 the price of oil (adjusted for overall inflation) was back to where it began
+in 1970, and it has stayed at that low level throughout most of the 1990s.
+This episode shows how supply and demand can behave differently in the
+short run and in the long run. In the short run, both the supply and demand for oil
+are relatively inelastic. Supply is inelastic because the quantity of known oil re-
+serves and the capacity for oil extraction cannot be changed quickly. Demand is in-
+elastic because buying habits do not respond immediately to changes in price.
+Many drivers with old gas-guzzling cars, for instance, will just pay the higher
+## CHAPTER 5 ELASTICITY AND ITS APPLICATION
+(a) The Oil Market in the Short Run (b) The Oil Market in the Long Run
+Price of Oil Price of Oil
+1. In the short run, when supply 1. In the long run,
+and demand are inelastic, when supply and
+a shift in supply . . . demand are elastic,
+S a shift in supply . . .
+1 S
+2 2. . . . leads
+2. . . . leads
+to a small P 2
+to a large
+increase increase P 1
+in price. P 1 in price.
+Demand
+Demand
+0 Quantity of Oil 0 Quantity of Oil
+AREDUCTION IN SUPPLY IN THE WORLD MARKET FOR OIL. When the supply of oil falls, Figure 5-9
+the response depends on the time horizon. In the short run, supply and demand are
+relatively inelastic, as in panel (a). Thus, when the supply curve shifts from S to S , the
+1 2
+price rises substantially. By contrast, in the long run, supply and demand are relatively
+elastic, as in panel (b). In this case, the same size shift in the supply curve (S to S) causes
+1 2
+a smaller increase in the price.
+price. Thus, as panel (a) of Figure 5-9 shows, the short-run supply and demand
+curves are steep. When the supply of oil shifts from S to S , the price increase from
+1 2
+P to P is large.
+1 2
+The situation is very different in the long run. Over long periods of time, pro-
+ducers of oil outside of OPEC respond to high prices by increasing oil exploration
+and by building new extraction capacity. Consumers respond with greater conser-
+vation, for instance by replacing old inefficient cars with newer efficient ones.
+Thus, as panel (b) of Figure 5-9 shows, the long-run supply and demand curves are
+more elastic. In the long run, the shift in the supply curve from S to S causes a
+1 2
+much smaller increase in the price.
+This analysis shows why OPEC succeeded in maintaining a high price of oil
+only in the short run. When OPEC countries agreed to reduce their production of
+oil, they shifted the supply curve to the left. Even though each OPEC member sold
+less oil, the price rose by so much in the short run that OPEC incomes rose. By con-
+trast, in the long run when supply and demand are more elastic, the same reduc-
+tion in supply, measured by the horizontal shift in the supply curve, caused a
+smaller increase in the price. Thus, OPEC’s coordinated reduction in supply
+proved less profitable in the long run.
+OPEC still exists today, and it has from time to time succeeded at reducing
+supply and raising prices. But the price of oil (adjusted for overall inflation) has
+## PART TWO SUPPLY AND DEMAND I: HOW MARKETS WORK
+never returned to the peak reached in 1981. The cartel now seems to understand
+that raising prices is easier in the short run than in the long run.
+### DOES DRUG INTERDICTION INCREASE
+### OR DECREASE DRUG-RELATED CRIME?
+Apersistent problem facing our society is the use of illegal drugs, such as heroin,
+cocaine, and crack. Drug use has several adverse effects. One is that drug depen-
+dency can ruin the lives of drug users and their families. Another is that drug
+addicts often turn to robbery and other violent crimes to obtain the money needed
+to support their habit. To discourage the use of illegal drugs, the U.S. govern-
+ment devotes billions of dollars each year to reduce the flow of drugs into the
+country. Let’s use the tools of supply and demand to examine this policy of drug
+interdiction.
+Suppose the government increases the number of federal agents devoted to
+the war on drugs. What happens in the market for illegal drugs? As is usual, we
+answer this question in three steps. First, we consider whether the supply curve or
+demand curve shifts. Second, we consider the direction of the shift. Third, we see
+how the shift affects the equilibrium price and quantity.
+Although the purpose of drug interdiction is to reduce drug use, its direct im-
+pact is on the sellers of drugs rather than the buyers. When the government stops
+some drugs from entering the country and arrests more smugglers, it raises the
+cost of selling drugs and, therefore, reduces the quantity of drugs supplied at any
+given price. The demand for drugs—the amount buyers want at any given price—
+is not changed. As panel (a) of Figure 5-10 shows, interdiction shifts the supply
+curve to the left from S to S and leaves the demand curve the same. The equilib-
+1 2
+rium price of drugs rises from P to P , and the equilibrium quantity falls from Q
+1 2 1
+to Q . The fall in the equilibrium quantity shows that drug interdiction does re-
+duce drug use.
+But what about the amount of drug-related crime? To answer this question,
+consider the total amount that drug users pay for the drugs they buy. Because few
+drug addicts are likely to break their destructive habits in response to a higher
+price, it is likely that the demand for drugs is inelastic, as it is drawn in the figure.
+If demand is inelastic, then an increase in price raises total revenue in the drug
+market. That is, because drug interdiction raises the price of drugs proportionately
+more than it reduces drug use, it raises the total amount of money that drug users
+pay for drugs. Addicts who already had to steal to support their habits would
+have an even greater need for quick cash. Thus, drug interdiction could increase
+drug-related crime.
+Because of this adverse effect of drug interdiction, some analysts argue for al-
+ternative approaches to the drug problem. Rather than trying to reduce the supply
+of drugs, policymakers might try to reduce the demand by pursuing a policy of
+drug education. Successful drug education has the effects shown in panel (b) of
+Figure 5-10. The demand curve shifts to the left from D to D . As a result, the equi-
+1 2
+librium quantity falls from Q to Q , and the equilibrium price falls from P to P .
+1 2 1 2
+Total revenue, which is price times quantity, also falls. Thus, in contrast to drug in-
+terdiction, drug education can reduce both drug use and drug-related crime.
+Advocates of drug interdiction might argue that the effects of this policy are
+different in the long run than in the short run, because the elasticity of demand
+may depend on the time horizon. The demand for drugs is probably inelastic over
+## CHAPTER 5 ELASTICITY AND ITS APPLICATION
+(a) Drug Interdiction (b) Drug Education
+Price of Price of
+Drugs 1. Drug interdiction reduces Drugs 1. Drug education reduces
+the supply of drugs . . . the demand for drugs . . .
+S 2 Supply
+P 2 P 1
+P P
+1 2
+2. . . . which 2. . . . which
+raises the reduces the
+price . . . price . . .
+Demand D 1
+0 Q Q Quantity of Drugs 0 Q Q Quantity of Drugs
+2 1 2 1
+3. . . . and reduces 3. . . . and reduces
+the quantity sold. the quantity sold.
+POLICIES TO REDUCE THE USE OF ILLEGALDRUGS. Drug interdiction reduces the supply Figure 5-10
+of drugs from S to S , as in panel (a). If the demand for drugs is inelastic, then the total
+1 2
+amount paid by drug users rises, even as the amount of drug use falls. By contrast, drug
+education reduces the demand for drugs from D to D, as in panel (b). Because both price
+1 2
+and quantity fall, the amount paid by drug users falls.
+short periods of time because higher prices do not substantially affect drug use by
+established addicts. But demand may be more elastic over longer periods of time
+because higher prices would discourage experimentation with drugs among the
+young and, over time, lead to fewer drug addicts. In this case, drug interdic-
+tionwould increase drug-related crime in the short run while decreasing it in the
+long run.
+QUICK QUIZ: How might a drought that destroys half of all farm crops be
+good for farmers? If such a drought is good for farmers, why don’t farmers
+destroy their own crops in the absence of a drought?
+### CONCLUSION
+According to an old quip, even a parrot can become an economist simply by learn-
+ing to say “supply and demand.” These last two chapters should have convinced
+you that there is much truth in this
+The tools of supply and demand allow you to analyze many of the most important events and policies that shape the economy. You are now well on your way to becoming an economist (or, at least, a well-educated parrot).
+
+Summary
+The price elasticity of demand measures how much the quantity demanded responds to changes in the price. Demand tends to be more elastic if the good is a luxury good rather than a necessity, if close substitutes are available, if the market is narrowly defined, or if buyers have substantial time to react to a price change.
+The price elasticity of demand is calculated as the percentage change in quantity demanded divided by the percentage change in price. If the elasticity is less than 1, so that quantity demanded moves proportionately less than the price, demand is said to be inelastic. If the elasticity is greater than 1, so that quantity demanded moves proportionately more than the price, demand is said to be elastic.
+Total revenue, the total amount paid for a good, equals the price of the good times the quantity sold. For inelastic demand curves, total revenue rises as price rises. For elastic demand curves, total revenue falls as price rises.
+The income elasticity of demand measures how much the quantity demanded responds to changes in consumers’ income. The cross-price elasticity of demand measures how much the quantity demanded of one good responds to the price of another good.
+The price elasticity of supply measures how much the quantity supplied responds to changes in the price. This elasticity often depends on the time horizon under consideration. In most markets, supply is more elastic in the long run than in the short run.
+The price elasticity of supply is calculated as the percentage change in quantity supplied divided by the percentage change in price. If the elasticity is less than 1, so that quantity supplied moves proportionately less than the price, supply is said to be inelastic. If the elasticity is greater than 1, so that quantity supplied moves proportionately more than the price, supply is said to be elastic.
+The tools of supply and demand can be applied in many different kinds of markets. This chapter uses them to analyze the market for wheat, the market for oil, and the market for illegal drugs.
+
+Key Concepts
+elasticity, p. 94
+price elasticity of demand, p. 94
+total revenue, p. 98
+income elasticity of demand, p. 102
+cross-price elasticity of demand, p. 104
+price elasticity of supply, p. 104
+
+Questions for Review
+1. Define the price elasticity of demand and the income elasticity of demand.
+2. List and explain some of the determinants of the price elasticity of demand.
+3. If the elasticity is greater than 1, is demand elastic or inelastic? If the elasticity equals 0, is demand perfectly elastic or perfectly inelastic?
+4. On a supply-and-demand diagram, show equilibrium price, equilibrium quantity, and the total revenue received by producers.
+5. If demand is elastic, how will an increase in price change total revenue? Explain.
+6. What do we call a good whose income elasticity is less than 0?
+7. How is the price elasticity of supply calculated? Explain what this measures.
+8. What is the price elasticity of supply of Picasso paintings?
+9. Is the price elasticity of supply usually larger in the short run or in the long run? Why?
+10. In the 1970s, OPEC caused a dramatic increase in the price of oil. What prevented it from maintaining this high price through the 1980s?
+
+Problems and Applications
+1. For each of the following pairs of goods, which good would you expect to have more elastic demand and why?
+a. required textbooks or mystery novels
+b. Beethoven recordings or classical music recordings in general
+c. heating oil during the next six months or heating oil during the next five years
+d. root beer or water
+2. Suppose that business travelers and vacationers have the following demand for airline tickets from New York to Boston:
+PRICE QUANTITY DEMANDED (BUSINESS TRAVELERS) QUANTITY DEMANDED (VACATIONERS)
+$150 2,100 1,000
+200 2,000 800
+250 1,900 600
+300 1,800 400
+a. As the price of tickets rises from $200 to $250, what is the price elasticity of demand for (i) business travelers and (ii) vacationers? (Use the midpoint method in your calculations.)
+b. Why might vacationers have a different elasticity than business travelers?
+3. Suppose that your demand schedule for compact discs is as follows:
+PRICE QUANTITY DEMANDED (INCOME $10,000) QUANTITY DEMANDED (INCOME $12,000)
+$8 40 50
+10 32 45
+12 24 30
+14 16 20
+16 8 12
+a. Use the midpoint method to calculate your price elasticity of demand as the price of compact discs increases from $8 to $10 if (i) your income is $10,000, and (ii) your income is $12,000.
+b. Calculate your income elasticity of demand as your income increases from $10,000 to $12,000 if (i) the price is $12, and (ii) the price is $16.
+4. Emily has decided always to spend one-third of her income on clothing.
+a. What is her income elasticity of clothing demand?
+b. What is her price elasticity of clothing demand?
+c. If Emily’s tastes change and she decides to spend only one-fourth of her income on clothing, how does her demand curve change? What are her income elasticity and price elasticity now?
+5. The New York Times reported (Feb. 17, 1996, p. 25) that subway ridership declined after a fare increase: “There were nearly four million fewer riders in December 1995, the first full month after the price of a token increased 25 cents to $1.50, than in the previous December, a 4.3 percent decline.”
+a. Use these data to estimate the price elasticity of demand for subway rides.
+b. According to your estimate, what happens to the Transit Authority’s revenue when the fare rises?
+c. Why might your estimate of the elasticity be unreliable?
+6. Two drivers—Tom and Jerry—each drive up to a gas station. Before looking at the price, each places an order. Tom says, “I’d like 10 gallons of gas.” Jerry says, “I’d like $10 worth of gas.” What is each driver’s price elasticity of demand?
+7. Economists have observed that spending on restaurant meals declines more during economic downturns than does spending on food to be eaten at home. How might the concept of elasticity help to explain this phenomenon?
+8. Consider public policy aimed at smoking.
+a. Studies indicate that the price elasticity of demand for cigarettes is about 0.4. If a pack of cigarettes currently costs $2 and the government wants to reduce smoking by 20 percent, by how much should it increase the price?
+b. If the government permanently increases the price of cigarettes, will the policy have a larger effect on smoking one year from now or five years from now?
+c. Studies also find that teenagers have a higher price elasticity than do adults. Why might this be true?
+9. Would you expect the price elasticity of demand to be larger in the market for all ice cream or the market for vanilla ice cream? Would you expect the price elasticity of supply to be larger in the market for all ice cream or the market for vanilla ice cream? Be sure to explain your answers.
+10. Pharmaceutical drugs have an inelastic demand, and computers have an elastic demand. Suppose that technological advance doubles the supply of both products (that is, the quantity supplied at each price is twice what it was).
+a. What happens to the equilibrium price and quantity in each market?
+b. Which product experiences a larger change in price?
+c. Which product experiences a larger change in quantity?
+d. What happens to total consumer spending on each product?
+11. Beachfront resorts have an inelastic supply, and automobiles have an elastic supply. Suppose that a rise in population doubles the demand for both products (that is, the quantity demanded at each price is twice what it was).
+a. What happens to the equilibrium price and quantity in each market?
+b. Which product experiences a larger change in price?
+c. Which product experiences a larger change in quantity?
+d. What happens to total consumer spending on each product?
+12. Several years ago, flooding along the Missouri and Mississippi rivers destroyed thousands of acres of wheat.
+a. Farmers whose crops were destroyed by the floods were much worse off, but farmers whose crops were not destroyed benefited from the floods. Why?
+b. What information would you need about the market for wheat in order to assess whether farmers as a group were hurt or helped by the floods?
+13. Explain why the following might be true: A drought around the world raises the total revenue that farmers receive from the sale of grain, but a drought only in Kansas reduces the total revenue that Kansas farmers receive.
+14. Because better weather makes farmland more productive, farmland in regions with good weather conditions is more expensive than farmland in regions with bad weather conditions. Over time, however, as advances in technology have made all farmland more productive, the price of farmland (adjusted for overall inflation) has fallen. Use the concept of elasticity to explain why productivity and farmland prices are positively related across space but negatively related over time.
+how supply and demand determine the price of a good and the equivalent quantity of the good sold. We have also seen how various events shift supply and demand and thereby change the equilibrium price and quantity.
+
+This chapter offers our first look at policy. Here we analyze various types of government policy using only the tools of supply and demand. As you will see, the analysis yields some surprising insights. Policies often have effects that their architects did not intend or anticipate.
+
+We begin by considering policies that directly control prices. For example, rent-control laws dictate a maximum rent that landlords may charge tenants. Minimum-wage laws dictate the lowest wage that firms may pay workers. Price controls are usually enacted when policymakers believe that the market price of a good or service is unfair to buyers or sellers. Yet, as we will see, these policies can generate inequities of their own.
+
+After our discussion of price controls, we next consider the impact of taxes. Policymakers use taxes both to influence market outcomes and to raise revenue for public purposes. Although the prevalence of taxes in our economy is obvious, their effects are not. For example, when the government levies a tax on the amount that firms pay their workers, do the firms or the workers bear the burden of the tax? The answer is not at all clear—until we apply the powerful tools of supply and demand.
+
+### CONTROLS ON PRICES
+
+To see how price controls affect market outcomes, let’s look once again at the market for ice cream. As we saw in Chapter 4, if ice cream is sold in a competitive market free of government regulation, the price of ice cream adjusts to balance supply and demand: At the equilibrium price, the quantity of ice cream that buyers want to buy exactly equals the quantity that sellers want to sell. To be concrete, suppose the equilibrium price is $3 per cone.
+
+Not everyone may be happy with the outcome of this free-market process. Let’s say the American Association of Ice Cream Eaters complains that the $3 price is too high for everyone to enjoy a cone a day (their recommended diet). Meanwhile, the National Organization of Ice Cream Makers complains that the $3 price—the result of “cutthroat competition”—is depressing the incomes of its members. Each of these groups lobbies the government to pass laws that alter the market outcome by directly controlling prices.
+
+Of course, because buyers of any good always want a lower price while sellers want a higher price, the interests of the two groups conflict. If the Ice Cream Eaters are successful in their lobbying, the government imposes a legal maximum on the price at which ice cream can be sold. Because the price is not allowed to rise above this level, the legislated maximum is called a price ceiling. By contrast, if the Ice Cream Makers are successful, the government imposes a legal minimum on the price. Because the price cannot fall below this level, the legislated minimum is called a price floor. Let us consider the effects of these policies in turn.
+
+### HOW PRICE CEILINGS AFFECT MARKET OUTCOMES
+
+When the government, moved by the complaints of the Ice Cream Eaters, imposes a price ceiling on the market for ice cream, two outcomes are possible. In panel (a) of Figure 6-1, the government imposes a price ceiling of $4 per cone. In this case, because the price that balances supply and demand ($3) is below the ceiling, the price ceiling is not binding. Market forces naturally move the economy to the equilibrium, and the price ceiling has no effect.
+
+Panel (b) of Figure 6-1 shows the other, more interesting, possibility. In this case, the government imposes a price ceiling of $2 per cone. Because the equilibrium price of $3 is above the price ceiling, the ceiling is a binding constraint on the market. The forces of supply and demand tend to move the price toward the equilibrium price, but when the market price hits the ceiling, it can rise no further. Thus, the market price equals the price ceiling. At this price, the quantity of ice cream demanded (125 cones in the figure) exceeds the quantity supplied (75 cones). There is a shortage of ice cream, so some people who want to buy ice cream at the going price are unable to.
+
+When a shortage of ice cream develops because of this price ceiling, some mechanism for rationing ice cream will naturally develop. The mechanism could be long lines: Buyers who are willing to arrive early and wait in line get a cone, while those unwilling to wait do not. Alternatively, sellers could ration ice cream according to their own personal biases, selling it only to friends, relatives, or members of their own racial or ethnic group. Notice that even though the price ceiling was motivated by a desire to help buyers of ice cream, not all buyers benefit from the policy. Some buyers do get to pay a lower price, although they may have to wait in line to do so, but other buyers cannot get any ice cream at all.
+
+This example in the market for ice cream shows a general result: When the government imposes a binding price ceiling on a competitive market, a shortage of the good arises, and sellers must ration the scarce goods among the large number of potential buyers. The rationing mechanisms that develop under price ceilings are rarely desirable. Long lines are inefficient, because they waste buyers’ time. Discrimination according to seller bias is both inefficient (because the good does not go to the buyer who values it most highly) and potentially unfair. By contrast, the rationing mechanism in a free, competitive market is both efficient and impersonal. When the market for ice cream reaches its equilibrium, anyone who wants to pay the market price can get a cone. Free markets ration goods with prices.
+
+### CASE STUDY: LINES AT THE GAS PUMP
+
+As we discussed in the preceding chapter, in 1973 the Organization of Petroleum Exporting Countries (OPEC) raised the price of crude oil in world oil markets. Because crude oil is the major input used to make gasoline, the higher oil prices reduced the supply of gasoline. Long lines at gas stations became commonplace, and motorists often had to wait for hours to buy only a few gallons of gas.
+
+What was responsible for the long gas lines? Most people blame OPEC. Surely, if OPEC had not raised the price of crude oil, the shortage of gasoline would not have occurred. Yet economists blame government regulations that limited the price oil companies could charge for gasoline.
+
+Figure 6-2 shows what happened. As shown in panel (a), before OPEC raised the price of crude oil, the equilibrium price of gasoline P1 was below the price ceiling. The price regulation, therefore, had no effect. When the price of crude oil rose, however, the situation changed. The increase in the price of crude oil shifted the supply curve to the left from S1 to S2. In an unregulated market, the price would have risen from P1 to P2. The price ceiling, however, prevents this from happening. At the binding price ceiling, consumers are willing to buy QD, but producers of gasoline are willing to sell only QS. The difference between quantity demanded and quantity supplied, QD – QS, measures the gasoline shortage.
+
+IN THE NEWS: Does a Drought Need to Cause a Water Shortage?
+
+Regulators are responding to shortages—in this case of water—with controls and regulations rather than allowing the market to work. Cities are restricting water usage; some have even gone so far as to prohibit restaurants from serving water except if the customer asks for a glass. But although many more people wanted to sell their water than wanted to buy. Data from every corner of the world show that when cities raise the price of water by 10 percent, water use goes down by as much as 12 percent. When the price of agricultural water goes up
+DURING THE SUMMER OF 1999, THE EAST coast of the United States experienced unusually little rain and a shortage of water. The following article suggests a way that the shortage could have been averted.
+
+Trickle-Down Economics
+BY TERRY L. ANDERSON AND CLAY J. LANDRY
+
+Water shortages are being blamed on the drought in the East, but that's giving Mother Nature a bum rap. Certainly the drought is the immediate cause, but the real culprit is regulations that don't allow markets and prices to equalize demand and supply.
+
+The similarity between water and gasoline is instructive. The energy crisis of the 1970s, too, was blamed on nature's niggardly supply of oil, but in fact it was the actions of the Organization of Petroleum Exporting Countries, combined with price controls, that was the main cause of the shortages.
+
+Cities initially saw declines in water use, but some are starting to report increases in consumption. This has prompted some police departments to collect lists of residents suspected of wasting water. There's a better answer than sending out the cops. Market forces could ensure plentiful water availability even in drought years. Contrary to popular belief, the supply of water is no more fixed than the supply of oil. Like all resources, water supplies change in response to economic growth and to the price.
+
+In developing countries, despite population growth, the percentage of people with access to safe drinking water has increased to 74 percent in 1994 from 44 percent in 1980. Rising incomes have given those countries the wherewithal to supply potable water. By making water a commodity and unleashing market forces, policymakers can ensure plentiful water supplies for all.
+
+Supplies also increase when current users have an incentive to conserve their surplus in the marketplace. California's drought-emergency water bank illustrates this. The bank allows farmers to lease water from other users during dry spells. In 1991, the first year the bank was tried, when the price was $125 per acre-foot (326,000 gallons), supply exceeded demand by two to one. That is, usage goes down by 20 percent.
+
+Unfortunately, Eastern water users do not pay realistic prices for water. According to the American Water Works Association, only 2 percent of municipal water suppliers adjust prices seasonally.
+
+Even more egregious, Eastern water laws bar people from buying and selling water. Just as tradable pollution permits established under the Clean Air Act have encouraged polluters to find efficient ways to reduce emissions, tradable water rights can encourage conservation and increase supplies. It is mainly a matter of following the lead of Western water courts that have quantified water rights and Western legislatures that have allowed trades.
+
+New policies won't make droughts disappear, but they will ease the pain they impose by priming the invisible pump of water markets.
+
+SOURCE: The Wall Street Journal, August 23, 1999, p.A14.
+
+oil raised the cost of producing gasoline, and this reduced the supply of gasoline. As panel (b) shows, the supply curve shifted to the left from S1 to S2. In an unregulated market, this shift in supply would have raised the equilibrium price of gasoline from P1 to P2, and no shortage would have resulted. Instead, the price ceiling prevented the price from rising to the equilibrium level. At the price ceiling, producers were willing to sell Q1, and consumers were willing to buy Q2. Thus, the shift in supply caused a severe shortage at the regulated price.
+
+Eventually, the laws regulating the price of gasoline were repealed. Lawmakers came to understand that they were partly responsible for the many hours Americans lost waiting in line to buy gasoline. Today, when the price of crude oil changes, the price of gasoline can adjust to bring supply and demand into equilibrium.
+
+### CASE STUDY RENT CONTROL IN THE SHORT RUN AND LONG RUN
+
+One common example of a price ceiling is rent control. In some cities, the local government places a ceiling on rents that landlords may charge their tenants. The goal of this policy is to help the poor by making housing more affordable. Economists often criticize rent control, arguing that it is a highly inefficient way to help the poor raise their standard of living. One economist called rent control "the best way to destroy a city, other than bombing."
+
+The adverse effects of rent control are less apparent to the general population because these effects occur over many years. In the short run, landlords have a fixed number of apartments to rent, and they cannot adjust this number quickly as market conditions change. Moreover, the number of people searching for housing in a city may not be highly responsive to rents in the short run because people take time to adjust their housing arrangements. Therefore, the short-run supply and demand for housing are relatively inelastic.
+
+Panel (a) of Figure 6-3 shows the short-run effects of rent control on the housing market. As with any price ceiling, rent control causes a shortage. Yet because supply and demand are inelastic in the short run, the initial shortage caused by rent control is small. The primary effect in the short run is to reduce rents.
+
+The long-run story is very different because the buyers and sellers of rental housing respond more to market conditions as time passes. On the supply side, landlords respond to low rents by not building new apartments and by failing to maintain existing ones. On the demand side, low rents encourage people to find their own apartments (rather than living with their parents or sharing apartments with roommates) and induce more people to move into a city. Therefore, both supply and demand are more elastic in the long run.
+
+Panel (b) of Figure 6-3 illustrates the housing market in the long run. When rent control depresses rents below the equilibrium level, the quantity of apartments supplied falls substantially, and the quantity of apartments demanded rises substantially. The result is a large shortage of housing.
+
+In cities with rent control, landlords use various mechanisms to ration housing. Some landlords keep long waiting lists. Others give a preference to tenants without children. Still others discriminate on the basis of race. Sometimes, apartments are allocated to those willing to offer under-the-table payments to building superintendents. In essence, these bribes bring the total price of an apartment (including the bribe) closer to the equilibrium price.
+
+To understand fully the effects of rent control, we have to remember one of the Ten Principles of Economics from Chapter 1: People respond to incentives. In free markets, landlords try to keep their buildings clean and safe because desirable apartments command higher prices. By contrast, when rent control creates shortages and waiting lists, landlords lose their incentive to be responsive to tenants' concerns. Why should a landlord spend his money to maintain and improve his property when people are waiting to get in as it is? In the end, tenants get lower rents, but they also get lower-quality housing.
+
+Policymakers often react to the effects of rent control by imposing additional regulations. For example, there are laws that make racial discrimination in housing illegal and require landlords to provide minimally adequate living conditions. These laws, however, are difficult and costly to enforce. By contrast, when rent control is eliminated and a market for housing is regulated by the forces of competition, such laws are less necessary. In a free market, the price of housing adjusts to eliminate the shortages that give rise to undesirable landlord behavior.
+
+### HOW PRICE FLOORS AFFECT MARKET OUTCOMES
+
+To examine the effects of another kind of government price control, let's return to the market for ice cream. Imagine now that the government is persuaded by the pleas of the National Organization of Ice Cream Makers. In this case, the government might institute a price floor. Price floors, like price ceilings, are an attempt by the government to maintain prices at other than equilibrium levels. Whereas a price ceiling places a legal maximum on prices, a price floor places a legal minimum.
+
+### IN THE NEWS
+Rent Control in New York City
+
+Tales are legion of wealthy movie stars, doctors, and stock brokers paying a pittance for palatial dwellings in the more fashionable neighborhoods of Manhattan.
+
+Some of these tales were knocked RENTCONTROLREMAINSATOPICOFHEATED lation—live in apartments covered by regulations that severely limit how much a landlord can raise the rent and under what conditions a tenant or even a tenant's relatives can be evicted.
+
+"In many poor neighborhoods, the landlord can't even get rents as high as the regulations allow."
+
+Few economists and policy analysts, even liberal ones, support rent control—not so much because it lets the rich people pay far less than they can afford, but because it distorts the marketplace for everyone.
+
+Frank Roconi, director of the Citi

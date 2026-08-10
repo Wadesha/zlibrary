@@ -1,0 +1,10 @@
+{
+  "slug": "qt04",
+  "title": "qt04",
+  "language": "en",
+  "pipeline": "native",
+  "source_file": "[MD]qt04.md",
+  "source_pdf": "qt04.pdf",
+  "chars": 21322,
+  "has_fixed": false
+}

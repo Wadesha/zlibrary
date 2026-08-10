@@ -1,0 +1,10 @@
+{
+  "slug": "animals-around-the-world-dk-publishing",
+  "title": "Animals Around the World (DK Publishing)",
+  "language": "en",
+  "pipeline": "ocr_md",
+  "source_file": "[OCR]Animals Around the World (DK Publishing) (Z-Library).md",
+  "source_pdf": null,
+  "chars": 18003,
+  "has_fixed": false
+}

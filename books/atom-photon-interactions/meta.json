@@ -1,0 +1,10 @@
+{
+  "slug": "atom-photon-interactions",
+  "title": "Atom-Photon Interactions",
+  "language": "en",
+  "pipeline": "ocr_md",
+  "source_file": "[OCR]Atom-Photon Interactions_fixed.md",
+  "source_pdf": null,
+  "chars": 597445,
+  "has_fixed": true
+}

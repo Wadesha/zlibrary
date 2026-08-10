@@ -1,0 +1,12493 @@
+## FROM THE EDITORS OF FALL 2015
+
+280+ Pieces of Essential Equipment BE PREPARED FOR ANYTHING
+
+## FIRST AID KITS
+
+## SIGNALING DEVICES
+
+## BUG-OUT BAGS
+
+## MUST-HAVE NEW TECH
+
+GEAR GUIDE FALL 2015 • U.
+
+### FROM THE EDITORS OF ASG • DISPLAY UNTIL
+
+## 10/27/2015
+
+## SOLAR CHARGERS 56
+
+## GPS SYSTEMS
+
+## LED FLASHLIGHTS
+
+## 0 71486 01319 8
+
+Engaged Media, Inc.
+
+## CONTENTS
+
+## 20 LIGHT
+
+## NAVIGATION
+
+## 8 Lanterns
+
+## 12 Flashlights
+
+## 21 GPS
+
+## 16 Solar Power
+
+## 26 Compasses
+
+## 30 Signaling
+
+## Chargers
+
+## Devices
+
+## 4 ASGGEAR GUIDE 2015
+
+## ASG GEAR GUIDE
+
+## 34 WEAPONS
+
+## 35 Knives
+
+## 40 Firearms
+
+## 44 Slingshots
+
+## 48 MEDICAL
+
+## 49 Ointments
+
+## 54 First Aid Kits
+
+## 58 SURVIVAL GEAR
+
+## 59 Pocket Survival Kits
+
+## 63 Car Survival Kits 67
+
+## 67 Bug-Out Bags
+
+## 72 Emergency Kits
+
+## 78 FIRE
+
+## 79 Fire Starters
+
+## 83 Tinder
+
+## 88 FOOD
+
+## 89 Fishing Gear 119
+
+## 94 Compact Stoves
+
+## 98 TOOLS
+
+## 99 Multi-Tools
+
+## 109 104 Trekking Poles
+
+## 108 APPAREL AND
+
+## ACCESSORIES
+
+## 109 Paracord Gear
+
+## 114 Cooling Apparel
+
+## 118 SHELTER
+
+## 119 Tents
+
+## 124 Sleeping Bags
+
+## COLUMNS
+
+## 6 EDITORIAL 130 END PAGE
+
+## ASGGEAR GUIDE 2015 5
+
+### EDITORIAL FROM THE EDITORS OF FALL 2015
+
+## The Survivor’s Advantage
+
+The average person subconsciously perceives their entire world based on their immediate horizon — a small circle surrounding their house
+
+## office
+
+## the local grocery store
+
+### perhaps — all of the places they know
+
+## remember
+
+and often visit.
+
+When they leave the relative comfort of this zone
+
+their world actually becomes smaller.
+
+Their sphere of comfort shrinks because of our natural fear of the unknown.
+
+We draw ourselves in and keep our possessions closer
+
+more guarded.
+
+New places and new people are unfamiliar and not to be trusted
+
+a rental car on a desolate road or a hotel room in a strange new city.
+
+A person in tune with his environment and well aware of his surroundings and the potential dangers therein has a survivor’s advantage.
+
+He understands the pitfalls of the unknown
+
+he’s mentally prepared for a variety of unsavory situations
+
+and he possesses the skills and gear to lessen the chance of a precarious encounter
+
+### be it with a bear in the forest
+
+## an intruder in his kitchen
+
+## a mugger on the streets
+
+or a tornado bearing down on his town.
+
+Danger from any angle is factored into his activities
+
+and when his sphere of comfort is pierced
+
+## by accident or by force
+
+he is ready.
+
+Being ready for whatever life throws at you is part mental and part physical.
+
+There are many that can survive on their wits alone
+
+## but for the rest of us
+
+there is a certain level of comfort we experience when we are equipped with the right gear.
+
+Starting a fire with a bundle of tinder or dressing a wound with an actual bandage provides a much appreciated safety net against the freefall of a natural (or man-made) disaster.
+
+That concept is the impetus for this special edition of American Survival Guide.
+
+It represents the culmination of a dozen professional survival writers and a well-thought-out collection of gear that covers a wide variety of categories
+
+## from light
+
+fire, and food to navigation
+
+## shelter
+
+and weapons.
+
+We scoured the industry to provide you with a sampling of new gear from the best companies — the right gear will give you the confidence to persevere in unfamiliar and potentially hostile environments.
+
+Good luck out there!
+
+## 6 ASGGEAR GUIDE 2015
+
+## EDITORIAL
+
+Director of Content: Jason Mulroney
+
+Editor-in-Chief: Doug Jeffrey
+
+Editor: Ryan Lee Price
+
+Managing Editor: Margaret Kavanagh
+
+Senior Creative Director: Eric Knagg
+
+Art Director: Tracy Powell
+
+## CONTRIBUTORS
+
+## Bob Campbell
+
+## Jim Cobb
+
+## Sean Cooper
+
+Michael D'Angona, Kevin Estella, Joe Gurrola, Hannah Spangenberg, Joshua Swanagon
+
+## ADVERTISING
+
+Gabe Frimmel - Ad Sales Director(714) 200-1930
+
+GFrimmel@engagedmediainc.
+
+Casey Clifford -Senior Account Executive
+
+## (714) 200-1982
+
+Mark Pack - Senior Account Executive (714) 200-1939
+
+Gennifer Merriday - Ad Traffic Coordinator
+
+## DIRECT MARKETING GROUP
+
+John Bartulin (866) 866-5146 ext.
+
+2746
+
+## OPERATIONS
+
+Gus Alonzo: Newsstand Sales Manager
+
+Celia Merriday: Newsstand Analyst
+
+## Shailesh Khandelwal
+
+### Senior Logistics & Facilities Manager
+
+EDITORIAL, PRODUCTION & SALES OFFICE
+
+### 22840 Savi Ranch Parkway, #200
+
+Yorba Linda, CA 92887
+
+Ph: (800) 332-3330
+
+Fax: (800) 249-7761
+
+www.
+
+facebook.
+
+## com/eembybeckett
+
+American Survival Guide © 2015 by Engaged Media
+
+Inc.
+
+All rights reserved.
+
+Reproduction of any material from this issue
+
+in whole or in part is strictly prohibited.
+
+## CUSTOMER SERVICE
+
+VSI, INC.
+
+## 935 S. Kent
+
+Liberty, MO 64068
+
+## SINGLE COPY SALES
+
+## (800) 764-6278
+
+### (239) 653-0225 Foreign Inquiries
+
+subscriptions@engagedmediainc.
+
+customerservice@engagedmediainc.
+
+## BACK ISSUES
+
+www.
+
+engagedmediamags.
+
+BOOKS, MERCHANDISE, REPRINTS
+
+## (800) 764-6278
+
+## NEW PRODUCTS OR TO CONTRIBUTE
+
+## A STORY OR PHOTO
+
+djeffrey@engagedmediainc.
+
+ENGAGED MEDIA, INC.
+
+Nick Singh: Executive Director
+
+Vikas Malhotra: Vice President
+
+Jason Mulroney:
+
+Group Editorial Director & Business Unit Director
+
+This magazine is purchased by the buyer with the
+
+understanding that information presented is from
+
+various sources from which there can be no warranty or
+
+responsibility by Engaged Media, inc.
+
+as to the legality,
+
+completeness or technical accuracy.
+
+## LIGHT
+
+## ASG GEAR GUIDE
+
+## What’s In This Section
+
+LANTERNS: 8
+
+FLASHLIGHTS: 12
+
+SOLAR CHARGERS: 16
+
+Light is life.
+
+Getting stranded in darkness adds further anxiety to your situation — accomplishing tasks in the pitch black of a strange night complicates everything
+
+## compounds the uncertainty
+
+and heightens the dangers of your circumstances.
+
+But with advances in modern technologies
+
+it’s easy to keep a wide variety of light sources
+
+from headlamps to camp lanterns in your various packs.
+
+## ASGGEAR GUIDE 2015 7
+
+### Lanterns Chase Away The Darkness
+
+POWERFUL LANTERNS THAT DO MORE THAN LIGHT UP
+
+## STORY BY SEAN COOPER
+
+Fear of the darkness may lead to desperate actions
+
+## hasty decisions
+
+and dangerous results.
+
+### Darkness tends to play on your fears
+
+as everything that goes bump in the night is a potential threat to your safety.
+
+Keeping a check on the perimeter is best done with light
+
+and lanterns are an effective tool in maintaining a safe environment when the sun goes down.
+
+Plus, many double as a radio
+
+## SOS signal
+
+or extra power source for charging your portable electronics.
+
+### KAITO SOLAR/DYNAMO LED LANTERN
+
+MSRP: $24.
+
+KAITOUSA.
+
+## SPECIFICATIONS
+
+## • Light last up to 8 hours
+
+## • Radio plays up to 10 hours
+
+## • 8 LED lights
+
+• Dimensions: 8¼ x 4¼ x 4¼ inches
+
+• Weight: 10.
+
+## 3 ounces
+
+• Batteries: 3.
+
+## 7V Li-ion battery
+
+## • 500 mAh
+
+Despite that it is one of the smallest on the market (a diminutive eight inches)
+
+it provides many features.
+
+The lithium-ion battery can be charged from the solar panels on the dome
+
+## via a USB port
+
+## three AA batteries
+
+or by hand cranking the dynamo.
+
+It has an AM/FM/NOAA weather radio with an antennae.
+
+### The radio’s speaker provides a crisp
+
+clean sound.
+
+The eight LED lights can be adjusted with the toggle button from high to low to off.
+
+The hand crank for the dynamo is on the back giving the user a steady place to hold the lantern while cranking.
+
+A full charge will provide eight hours of light or 10 hours of radio power
+
+or it can charge a USB-enabled device.
+
+## ZIPPO RUGGED LANTERN
+
+MSRP: $89.
+
+ZIPPOOUTDOOR.
+
+## SPECIFICATIONS
+
+## • 220-Lumen output
+
+## • IPX7 waterproof rating
+
+• Rubber corners & stainless steel tubes
+
+•3 power kevels: low, medium & high
+
+## • 120v AC charger
+
+• Dimensions: 12 x 5.
+
+## 8 x 5.
+
+## 8 inches
+
+• Weight: 5.
+
+## 5 pounds
+
+This Zippo Rugged Lantern can withstand a 5-foot drop and stay out all night in the rain.
+
+It can even be submerged up to fix feet in water
+
+though it completely floats.
+
+## According to Zippo
+
+this lantern features the brightest light of any LED lantern on the market.
+
+You can even make the lithium-ion battery last longer by adjusting the brightness from 100 to 50 to 10 percent.
+
+## At the lowest setting
+
+the power lasts for 40 solid hours.
+
+## In case of an emergency
+
+the Rugged Lantern has an emergency S-O-S setting too.
+
+A single button activates the light settings.
+
+## 8 ASGGEAR GUIDE 2015
+
+## ASG GEAR GUIDE LIGHT
+
+## BEAMS MB480 LANTERN
+
+MSRP: $39.
+
+MRBEAMS.
+
+## SPECIFICATIONS
+
+## • Three bright LEDS
+
+## • 260 Lumens
+
+## • 20 Lumens “nightlight” mode
+
+## • USB port
+
+• Dimensions: 7.
+
+## 25 x 3 x 3 inches
+
+## Durable
+
+### weather resistant and waterproof
+
+this is a rugged compact lantern made for the outdoors.
+
+## Providing 260 Lumens of light
+
+the rechargeable batteries last 30 hours.
+
+The lantern features a “nightlight” mode
+
+operating at a mere 20 Lumens for those that need a little bit of light at night.
+
+The USB port can charge a multitude of devices.
+
+## According to the manufacturer
+
+the lantern can charge three iPhones (for example) and still have 15 hours of power leftover.
+
+## GOAL ZERO LIGHTHOUSE 250
+
+MSRP: $79.
+
+GOALZERO.
+
+## SPECIFICATIONS
+
+• Weight: 1.
+
+## 1 lbs.
+
+• Dimensions: 4.
+
+## 5 x 5 x 6.
+
+## 6 inches
+
+• Battery cell type: Li-NMC
+
+• Cell capacity: 16.
+
+## 3 Watts
+
+• LED (output): 250 Lumens
+
+This lantern has the best of several different worlds when it comes to rechargeable power.
+
+It offers three ways to recharge the batteries
+
+via USB plugged into any computer or USB outlet (cable included)
+
+via the solar panel mounting on the lantern’s top
+
+or via the hand crank.
+
+### Use the energy to power the light
+
+operate a flashing red beacon light that rings the hood or to even charge a smartphone or tablet.
+
+## The light is dual directional
+
+meaning you can light up on half or both sides.
+
+A full charge from the sun or a USB takes about seven hours
+
+while a turn on the crank for a minute or two will give about 20 minutes of light.
+
+## When fully charged however
+
+the batteries will last for 48 hours if the light is on low.
+
+## ASGGEAR GUIDE 2015 9
+
+## Lanterns
+
+## AYL STARLIGHT
+
+Whether you’re camping or barbecuing in the evening in your backyard
+
+the AYL StarLight provides plenty of light to get the job done.
+
+The device’s hook makes it convenient and easy to display no matter where you are.
+
+MSRP: $22.
+
+AMAZON.
+
+## SPECIFICATIONS
+
+## • 300 lumen output
+
+• Over 100,000 hours of use
+
+### • Lasts up to six days straight
+
+## • Lightweight and shockproof
+
+## • Three lighting modes
+
+• Dimensions: 4 x 4 x 7.
+
+## 2 inches
+
+## UST 30-DAY LANTERN
+
+MSRP: $3
+
+NORTHWEST USTBRANDS.
+
+## TERRITORY
+
+## XVENTURE SPECIFICATIONS
+
+## • Lasts 30 days at 29 lumens
+
+MSRP: $24.
+
+### 99 • Lasts 32 hours at 300 lumens
+
+SEARS.
+
+### COM • 4-Mode electronic switch
+
+## • SOS flashing
+
+SPECIFICATIONS • Water and impact resistant
+
+• Rechargeable batteries • Removable globe
+
+• AC/DC adaptor plug included • Built in recessed hook on
+
+• 12-Volt car plug included lantern base
+
+## • 1 million candle power
+
+• 7-watt fluorescent lantern The UST 30-Day Lantern is a lantern that more than lives up to its name.
+
+This lantern can last for up to 30 days on its low setting at 29 lumens and an impressive 32 hours at 300 lumens.
+
+• Halogen bulb The Xventure is a three-in-one lantern
+
+it can be used as a million-candle-power spotlight
+
+## a 7-watt fluorescent lantern
+
+or a blinking caution light.
+
+It is rechargeable but will also run off of AC/DC power and the 12-volt plug in your car (adaptors included).
+
+## The body is made of aluminum
+
+while the handle is from rugged olefin.
+
+## ASG GEAR GUIDE LIGHT
+
+## GOAL ZERO LIGHTHOUSE
+
+## USB POWER HUB
+
+MSRP: $42.
+
+GOALZERO.
+
+## SPECIFICATIONS
+
+• Provides 6 hours of use with a 4-hour charge
+
+## • Built-in hanger
+
+• USB outlet port for charging portable devices
+
+### • Charge with any Nomad 7m solar panel
+
+## power pack
+
+## or the included hand crank
+
+## At 14 inches and two pounds
+
+this con- structed with rugged materials.
+
+The handle is stout and connected via metal bolts with a large plastic grip and an retractable metal hanging hook.
+
+## The hood is thick and sturdy
+
+supported by four metal rods that protect the globe and internal light housing.
+
+## The base is robust
+
+giving the impression that this lantern can take a tumble and come out just fine.
+
+### The controls are straightforward
+
+A single button controls the a high and low light setting and the red emergency flasher that rings the hood.
+
+### It can be charged from several sources
+
+a 12-volt car charger and AC wall adapter (both included)
+
+### a solar panel array (not included)
+
+## via a USB port
+
+and by cranking the dynamo on the dome.
+
+## Fully charged
+
+the lantern has a 10-hour runtime for the light or a 24-hour runtime for the red emergency flashers.
+
+There is a port for the lantern to act as a USB charging station for your smartphone or tablet.
+
+### XTREME BRIGHT PRO COLEMAN QUAD
+
+### SERIES ELITE LANTERN LED LANTERN
+
+## WITH REMOTE
+
+MSRP: $79.
+
+COLEMAN.
+
+MSRP: $25.
+
+XTREMEBRIGHTLIGHTS.
+
+## SPECIFICATIONS
+
+• Four individual light panels snap SPECIFICATIONS
+
+## onto a single lantern
+
+## • 24 Ultra bright LED bulbs
+
+## • Lights recharge on the base
+
+• Ideal for camping, fishing, and hiking
+
+## • 75 hours of light
+
+### • Use from 20 feet away with Infrared
+
+## • Uses 8 D-cell batteries
+
+## remote
+
+## • 190 extra-bright lumens
+
+### • Hanging hook for easy display
+
+• Dimensions: 7.
+
+## 7 x 7.
+
+## 8 x 12.
+
+## 9 inches
+
+### • Multiple brightness settings
+
+### • Bulbs never need to be replaced
+
+### With the Coleman Quad LED Lantern
+
+you get four powerful lights The Xtreme Bright Pro Series Elite for the price of one.
+
+Featuring an im- Lantern is a durable outdoor lantern pressive 190 ultra-bright lumens
+
+this you can count on.
+
+24 ultra-bright LEDs lantern lasts for up to 75 hours.
+
+In an means you’ll have brightness for the emergency situation
+
+remove one of hours to come.
+
+Operate from the the lights from the base to use as convenience of your lawn chair with its your own personal flashlight.
+
+handy remote control.
+
+## Flashlights
+
+## Shedding Light
+
+## on Survival
+
+## FEATURING AS MUCH AS 1
+
+## 000 LUMENS
+
+## THESE LIGHT
+
+SOURCES CAN HELP KEEP YOU SAFE IN AN EMERGENCY
+
+## STORY BY JIM COBB
+
+## COAST HP550
+
+portable light source can be MSRP: $99.
+
+COASTPORTLAND.
+
+### absolutely critical in a survival
+
+situation.
+
+## SPECIFICATIONS
+
+A good quality flashlight helps keep you • Length
+
+## 5 inches
+
+• Width: 2.
+
+## 2 inches
+
+safe from hazards and assists rescuers in • Weight
+
+## 3 lbs
+
+finding you.
+
+There is a strong psychological • Lumen ratings
+
+High 1,075
+
+component at work here, as well.
+
+## We hu-
+
+## Low 55
+
+mans sometimes get a little skittish when • Batteries
+
+## AA (9)
+
+it’s dark.
+
+### The ability to light up the night
+
+## In addition to a blinding 1
+
+### 075 lu- helps us feel better about our situation.
+
+## Not mens output
+
+the HP550 has a slid- to mention that a good flashlight helps us ing focus
+
+allowing you to smoothly spot the boogeyman (hopefully) before he transition from spot to flood.
+
+It will finds us.
+
+### shine a distance of over 360 yards
+
+allowing you to see what’s coming from quite a distance.
+
+### The HP550 takes 9 AA batteries
+
+## which is con- siderable
+
+but it makes good use of all that power!
+
+## FENIX E25 (XP-E2)
+
+MSRP: $40.
+
+FENIXLIGHT.
+
+Able to throw a 260 lumens SPECIFICATIONS burst of light almost two football
+
+• Length: 5.
+
+### 75 inches fields away, the E25 has more
+
+## • Width
+
+### 1 inch than enough light for just about
+
+• Weight: 2.
+
+### 5 oz (without batteries) any survival task.
+
+## The butt end is
+
+## • Lumen ratings
+
+flat, allowing you to stand it up
+
+High 130 on a flat surface and illuminate a
+
+Mid 55 room.
+
+## Another big plus is the
+
+### Low 8 commonly available AA batteries
+
+Burst 260 it uses.
+
+• Batteries: AA (2)
+
+## ASG GEAR GUIDE LIGHT
+
+## OLIGHT M2X-UT
+
+## OLIGHT M18 MAVERICK
+
+## JAVELOT
+
+MSRP: $60.
+
+MSRP: $110.
+
+OLIGHTWORLD.
+
+OLIGHTWORLD.
+
+## SPECIFICATIONS
+
+## SPECIFICATIONS
+
+• Length: 5 inches
+
+• Length: 6.
+
+## 4 inches
+
+• Width: 0.
+
+## 9 inches
+
+• Width: 2.
+
+## 5 inches
+
+• Weight: 2.
+
+## 2 oz
+
+• Weight: 7.
+
+## 7 oz (without batteries)
+
+• Lumen ratings:
+
+• Lumen ratings:
+
+## High 500
+
+High 1,020
+
+## Mid 100
+
+## Mid 250
+
+## Low 5
+
+## Low 20
+
+## Strobe 500
+
+• Batteries: CR123A (2)
+
+• Batteries: CR123A (2)
+
+The Javelot is an extremely pow- The M18 Maverick might be small in erful
+
+yet easily carried flashlight.
+
+size, but it packs a lot of power.
+
+A full How powerful?
+
+## It will throw 1
+
+020 500 lumens will certainly light up the lumens about a half mile away!
+
+## You night
+
+while the strobe is guaranteed to can also ratchet the brightness get attention or distract and dazzle an down to a measly 250 lumens if all attacker.
+
+The on/off switch is at the tail you want to do is light up your and a side switch allows you to toggle campsite.
+
+through the settings.
+
+## OLIGHT M2X-UT
+
+JAVELOT The PX2 Fury has been called a pocket-sized searchlight and that’s MSRP
+
+$155.
+
+## 00 no exaggeration.
+
+The flashlight easily SUREFIRE.
+
+### COM fits in the palm of your hand
+
+yet throws a sunburst bright 600 lumens SPECIFICATIONS on command.
+
+The lower setting is 15 • Length: 5.
+
+## 4 inches lumens
+
+### which is great for close-up • Width
+
+37 inches work or just finding your way through • Weight
+
+## 7 oz a dark room.
+
+### With just one button at • Lumen ratings
+
+the tail controlling on/off and cycling High 600 through high and low
+
+the PX2 Fury Low 15 is simple to operate
+
+## even while • Batteries
+
+123A (2) wearing heavy gloves.
+
+## Flashlights
+
+## FOURSEVENS PREON P2
+
+MSRP: $50.
+
+FOURSEVENS.
+
+## SPECIFICATIONS
+
+• Length: 5.
+
+## 05 inches
+
+• Width: 0.
+
+## 6 inches
+
+• Weight: 0.
+
+## 8 oz (without batteries)
+
+• Lumen ratings:
+
+## High 192
+
+## Mid 26
+
+Low 2.
+
+• Batteries: AAA (2)
+
+The versatility of this flashlight cannot be overestimated.
+
+The Preon P2 not only has three levels of illumination but four other modes as well
+
+## strobe
+
+, and two signal beacons.
+
+These various out- puts are all accessed via the single tail switch.
+
+All of this and it will still fit in your pocket rather nicely.
+
+## SUREFIRE Y300 ULTRA
+
+MSRP: $295.
+
+SUREFIRE.
+
+## SPECIFICATIONS
+
+• Length: 3.
+
+## 6 inches
+
+• Width: 1.
+
+## 125 inches
+
+• Weight: 5.
+
+## 5 oz
+
+• Lumen ratings:
+
+## High 500
+
+## Low 15
+
+• Batteries: 123A (2)
+
+Having your light roll away from you after setting it down will never be an issue with the Y300 Ultra.
+
+The powerful magnetic base keeps it in place wher-
+
+## STREAMLIGHT
+
+ever you need it.
+
+## Even without the base
+
+stay connected while in the field or to take along your smart phone
+
+## magazines
+
+and survival manuals without adding 200 pounds to your pack.
+
+## However
+
+you have to take the good with the bad.
+
+You only have a certain amount of time before power runs out and you’re no longer able to access those gadgets.
+
+With many of the chargers available today you can bring enough power to keep your technology up and running for the duration of your trip.
+
+With the addition of solar panels many of those portable chargers can be refreshed during the day while you work around camp.
+
+### BUSHNELL’S POWERSYNC SOLARWRAP 400
+
+MSRP: $213.
+
+BUSHNELL.
+
+## SPECIFICATIONS
+
+• Weight: 10.
+
+## 1 ounces
+
+• Size: 9.
+
+## 125 x 2.
+
+## 4 inches
+
+• Deployed Length: 29.
+
+## 25 inches
+
+• Charge From Wall: 4 hours
+
+• Charge From Solar: 3.
+
+## 5 hours
+
+• USB Outlets: 1
+
+• Power Output: 5 volts, 1 amp
+
+• Battery Type: Li Ion
+
+The PowerSync Solarwrap 400 by Bushnell is a lightweight
+
+durable solar charger with a very small footprint in a backpack.
+
+With one USB output the PowerSync allows for direct-to-device charging before switching over to charge the internal battery.
+
+## ASG GEAR GUIDE LIGHT
+
+SOLAR JOOS ORANGE PORTABLE SOLAR CHARGER
+
+MSRP: $149.
+
+SOLARJOOS.
+
+## SPECIFICATIONS
+
+## • Power Source
+
+### Solar Voltaic Cell or a USB Connection
+
+## • Battery
+
+### Lithium-ion polymer technology
+
+• Capacity: 20Wh – 5,400 mAh
+
+• Nominal Voltage: 3.
+
+• Cycle Durability: 1000 Cycles
+
+• User Replaceable Battery: Yes
+
+• Output Connector: Female micro USB
+
+• Dimensions: 8.
+
+## 58 x 5.
+
+## 7 x 0.
+
+## 79 inches
+
+• Weight: Approximately 24 ounces
+
+### At roughly the size of a tablet
+
+the JOOS Orange Solar Charger offers reliable solar power in a portable package.
+
+The JOOS Orange allows you to direct charge your devices or charge the internal battery for later use to provide increased talk time in less time.
+
+## EASYACC SOLAR POWER BANK
+
+MSRP: $49.
+
+EASYACC.
+
+## SPECIFICATIONS
+
+• Capacity: 15000mAh x 3.
+
+## • Battery type
+
+### Li-polymer rechargeable battery cell
+
+• Input Micro USB: DC 5V 2A (max)
+
+• Input Solar Panel: DC 5V 0.
+
+## 2A (max)
+
+• Output Port 1: DC 5V 2.
+
+• Output Port 2: DC 5V 1A
+
+• Size: 5.
+
+## 63 x 3.
+
+## 03 x 0.
+
+## 91 inches
+
+• Weight: 12.
+
+## 45 oz
+
+At around the same size as a portable battery backup
+
+## the EasyAcc boasts a 15
+
+000mAh battery with enough juice to charge most smartphones 5 - 10 times and an iPad mini 2 times.
+
+With its small size it is easy to stow and go and can be charged from a wall outlet for faster charging but has built in solar panels for charging in an emergency.
+
+Its dual USB ports allow you to charge two devices simultaneously.
+
+## SOLIO CLASSIC2
+
+MSRP: $100.
+
+SOLIO.
+
+## SPECIFICATIONS
+
+• Charge-In: Micro-USB
+
+• Charge-Out: USB
+
+• Max Wattage: 5 Watts
+
+• Discharge Rate: Fixed 5V, 1,000mA
+
+• Charge Rate: 5-5.
+
+## 5V 450mAh
+
+Via USB: 6 hours 15 min
+
+Via Solar: 8-10 hours
+
+• Battery.
+
+7V/3,200mAh Li-Poly - User replaceable at end of life (average 3 years)
+
+• Weight: 10.
+
+## 1 ounces
+
+• Dimensions: 5.
+
+## 8 x 2.
+
+## 8 x 1.
+
+## 4 inches
+
+Not much larger than the average mobile phone the Solio Classic2 is a great mix of size and charging power.
+
+The enlarged solar panels and windmill pattern allow the 3
+
+200 mAh battery in the Classic2 to fully charge via the sun in 8 - 10 hours.
+
+CHOETECH FOLDABLE 19W DUAL-PORT SOLAR PANEL CHARGER
+
+MSRP: $150.
+
+CHOETECH.
+
+## SPECIFICATIONS
+
+## • Solar Panel
+
+### High-efficiency solar cell 19W
+
+• USB max output: 5V/3A
+
+## • Output Interface
+
+USB female socket with auto detect technology
+
+• Opened Dimensions: 20.
+
+## 9 x 10.
+
+## 2 inches
+
+• Closed Dimensions: 10.
+
+## 2 x 6.
+
+## 3 x 0.
+
+## 7 inch
+
+• Weight: 16.
+
+## 9 ounces
+
+The CHOETECH is a great option for travelers who are looking for a solar panel that will directly charge their devices without the weight of a battery.
+
+The CHOETCH is meant to be a direct-to-device charger only (with auto detect technology so that it can determine the fastest charge time for your device) and folds flat to fit in a pack or car easily.
+
+### POWERTRAVELLER POWERMONKEY EXTREME 12V
+
+MSRP: $188.
+
+POWERTRAVELLER.
+
+## SPECIFICATIONS
+
+• Milliamps Hour (mAh): 9000
+
+• Battery Type: Lithium Polymer
+
+• Voltage: USB 5V and 12V DC
+
+• Input: 5V 850mAh max.
+
+## • Output
+
+## USB port
+
+## 5V 1A and 12V DC port 800mAh
+
+solar panel output 3 watts (with addition of gorilla-pad from DC output will be 5V 2A)
+
+• Battery Chemical: Lithium Polymer
+
+• Energy: 33.
+
+## 3 WH
+
+## • Static power waste <50 µA
+
+• Total weight: 456g
+
+## Portable
+
+## durable and high capacity
+
+these are some of the things that make the Powermonkey a great fit in any pack
+
+car or bugout bag.
+
+## With its 9
+
+000mAh battery the Powermonkey is capable of charging smartphones up to four times and an iPad up to two times.
+
+### CREATIVE EDGE™ SOLAR-5 SOLAR PANEL
+
+MSRP: $35.
+
+CREDGEPRO.
+
+## SPECIFICATIONS
+
+• Li-polymer battery: 5000mAh
+
+• Input: DC 5V/1A
+
+• Output: DC 5V/2x1A
+
+• Dimensions: 5.
+
+## 6 x 3 x 0.
+
+## 5 inches
+
+• Net weight: 5.
+
+## 3 ounces
+
+## • Operation Temperature
+
+## 0-45°C / 32-113°F
+
+• Solar Panel:5.
+
+5V/1.
+
+## 2W (200mA)
+
+• AC charging time: about 6-7 hours
+
+## • Dual USB Output
+
+• Provides: 2 to 3 Smartphone charges
+
+Roughly the same size as most smartphones
+
+### the Solar-5 Solar Panel is more of a 5
+
+000mAh charger with dual charging ports and solar panels built in for emergency charging.
+
+Its small size combined with its great price and rugged durability make it a great option for power on the go.
+
+## GOAL ZERO SHERPA 50 SOLAR KIT
+
+MSRP: $399.
+
+GOALZERO.
+
+## SHERPA 50 SPECIFICATIONS
+
+### • Charging via Wall Charger (30W)
+
+## 3 hours
+
+### • Charging via Car Charger (30W)
+
+## 3 hours
+
+### • Charging via Nomad 13 Solar Panel
+
+## 8-16 Hours
+
+• Cell Type: Li-NMC
+
+• Peak Capacity: 58Wh (11V, 5200mAh)
+
+• USB port (output): 5V, up to 1.
+
+5A (7.
+
+5W max), regulated
+
+## • 6mm port (output
+
+6mm, green
+
+## hexagon)
+
+12V, up to 8A (100W max)
+
+## regulated
+
+• Laptop port (output, 7.
+
+4mm, orange
+
+## square)
+
+19V, up to 5A (100W max)
+
+## regulated
+
+## • Sidecar port (chain
+
+9mm): 9-13V
+
+## up to 10A (100W max)
+
+## • AC inverter US (output
+
+## sold separately)
+
+110V, up to 0.
+
+### 7 (75W max), 60Hz, modified sine wave
+
+• AC inverter Int.
+
+## (output
+
+## sold separately)
+
+220V, up to 0.
+
+35A (75W max), 50Hz, modified sine wave
+
+## • Charging port (input
+
+8mm, blue circle)
+
+## 14-25V
+
+## up to 2A (30W max)
+
+• Weight: 1.
+
+## 2 pounds
+
+• Dimensions: 4.
+
+## 5 x 1.
+
+## 5 x 5.
+
+## 25 inches
+
+## NOMAD 13 PANEL SPECIFICATIONS
+
+• Weight: 1.
+
+## 6 pounds
+
+• Dimensions (folded): 10.
+
+## 5 x 9 x 1 inches
+
+• Dimensions (unfolded): 9 x 1.
+
+## 5 x 17 inches
+
+• Dimensions (folded): 9 x 1.
+
+## 5 x 6.
+
+## 5 inches
+
+## • USB Port
+
+5V, up to 1A (5W max)
+
+## regulated
+
+• Solar Port (blue, 8mm): 15V, up to 0.
+
+3A (5W max), regulated
+
+• Mini Solar Port (2.
+
+5mm): 6.
+
+5V, up to 1.
+
+## 1A (7W max)
+
+## • Solar Port (blue
+
+8mm): 14-22V
+
+up to 0.
+
+## 9A (13W max)
+
+• Mini Solar Port (2.
+
+5mm): 6.
+
+5V, up to 1.
+
+## 1A (7W max)
+
+## With its optional 12V outlet
+
+the Sherpa 50 is a great option for those traveling with a laptop
+
+## portable DVD player
+
+camera battery charger or other device requiring a 12V outlet
+
+while still providing a USB option for smartphone and other smaller chargeable devices.
+
+The Sherpa 50 Solar Kit comes complete with the Nomad 13 solar panel
+
+which can direct charge most USB and 12V devices as well as charging the Sherpa 50 recharger.
+
+### GOAL ZERO GUIDE 10 PLUS SOLAR KIT
+
+MSRP: $119.
+
+GOALZERO.
+
+## GUIDE 10 SPECIFICATIONS
+
+### • Charging via Any USB Power Source
+
+## 6-10 hours
+
+### • Charging via Nomad 7 Solar Panel
+
+## 3-6 Hours
+
+• Cell Type: NiMH
+
+• Weight (with batteries): 0.
+
+## 4 pounds
+
+• Dimensions: 2.
+
+## 5 x 4 x 0.
+
+## 75 inches
+
+## • USB port (output)
+
+5V, up to 1A (5W max)
+
+## regulated
+
+• USB-mini port (input): 5V, up to 0.
+
+8A (4W max), regulated
+
+• Mini solar port (input): 6.
+
+5V, up to 1.
+
+## NOMAD 7 PANEL SPECIFICATIONS
+
+• Weight: 0.
+
+## 8 pounds
+
+The Guide 10 Plus Solar Kit combines the Nomad 7 solar panels (which have direct to device charging capabilities for many USB and 12v devices) and the Guide 10 battery charger with a capacity of four AA or AAA NiMH batteries.
+
+The Guide 10 allows you to plug a USB device directly into it to receive a charge
+
+or remove the AA or AAA batteries to operate a battery operated device.
+
+## ASG GEAR GUIDE
+
+## NAVIGATION
+
+K nowing where you’re going is only possible if know where you are.
+
+## As recently as 75 years ago
+
+that information was much more difficult to obtain
+
+## but today
+
+there are 24 satellites and billions of dollars of technology floating in orbit around the earth to help you pinpoint your exact location anywhere on the planet.
+
+Whether you’re following a compass or programming your GPS
+
+getting lost in a strange forest might be the least of your worries.
+
+## Global Positioning Devices
+
+Where in the World?
+
+THESE SMALL HAND-HELD DEVICES KEEP YOU ON TRACK
+
+## GARMIN OREGON 600T
+
+## STORY BY JOE GURROLA
+
+MSRP: $479.
+
+GARMIN.
+
+## SPECIFICATIONS
+
+## • Activity tracking
+
+## • Wireless capability
+
+• Dual battery (charge the unit or use AA batteries)
+
+## • 3-inch color touchscreen
+
+• Store up to 4 million Geocache locations
+
+• 100,000 preloaded maps
+
+## • Flashlight
+
+S urviving in the wilderness is no small feat.
+
+Finding your way is more important than ever during an emergency.
+
+A handheld GPS lets you know where you are and can give you directions on how to get back on the map if you’re lost.
+
+Take advantage of technology.
+
+The Garmin Oregon 600t is a beast.
+
+This handheld is GPS and GLONASS-satellite equipped with a preloaded topographic map of the entire US.
+
+The Oregon has a touchscreen and can take photos with its 5MP cam-
+
+era.
+
+Equipped with Garmin’s Basecamp software
+
+this GPS will allow you to plan and adjust your excursions.
+
+## GARMIN GPSMAP 64ST
+
+Garmin’s GPSMAP 64st is a rugged handheld that allows you to connect with your surroundings and stay connected with those you love.
+
+Sporting a 2.
+
+6-inch color screen that can be read in sunlight as well as in the dark
+
+the GPSMAP 64st will help you find your way any time of the day or night.
+
+MSRP: $349.
+
+GARMIN.
+
+## SPECIFICATIONS
+
+## • Quad-Helix antenna
+
+## • Preloaded geocaches
+
+## • Satellite imaging
+
+## • Dual battery
+
+## • Live tracking
+
+• Notifications from your iPhone 4S or newer
+
+## Global Positioning Devices
+
+## BUSHNELL BACKTRACK
+
+### Simple to use navigation device
+
+the BackTrack is as easy to use as pushing a button and following an arrow.
+
+## Mark your location
+
+## push the button
+
+### and when you are ready to return
+
+merely push the return button and follow the arrows.
+
+### It provides distance and directions
+
+and can be used as a compass.
+
+MSRP: $79.
+
+BUSHNELL.
+
+## SPECIFICATIONS
+
+### • Utilizes latest GPS Sirf LII receiver
+
+### • Stores and locates 3 locations
+
+### • Provides distance and direction
+
+• Dimensions: 3.
+
+## 54 x 2.
+
+## 95 x 0.
+
+## 75 inches
+
+## • Weather resistant
+
+## MAGELLAN EXPLORIST 350H
+
+## A hunter’s ally
+
+the 350H allows you to select hunting waypoints so you can plan your next expedition far in advance.
+
+## Alaska-tested
+
+## the camouflaged
+
+waterproof 350H will follow you anywhere.
+
+MSRP: $12.
+
+OUTDOORHANDS.
+
+## SPECIFICATIONS
+
+## • Preloaded hunting maps
+
+## • Waterproof
+
+## • Operates on 2AAA batteries
+
+• Weight: 1.
+
+## 6 ounces
+
+## • Hunting border alerts
+
+## GARMIN DAKOTA 20
+
+## The Dakota is compact
+
+## smooth
+
+and simple.
+
+Its 2.
+
+6-inch color touchscreen provides the feel of a smartphone
+
+but don’t be fooled by its colorful display.
+
+The Dakota is waterproof and dust resistant
+
+ready to guide you on a journey.
+
+MSRP: $279.
+
+GARMIN.
+
+## SPECIFICATIONS
+
+## • Waterproof
+
+• View and organize your maps with Basecamp software
+
+## • External battery power
+
+## • Touchscreen
+
+• Load up to 2,000 Geocache locations
+
+## • Expandable storage
+
+## GARMIN ETREX 30X
+
+The eTrex 30x is the newest incarnation of the popular eTrex series from Garmin.
+
+The 30x is durable — both waterproof and dust-resistant.
+
+## With its expanded memory
+
+## internal memory
+
+and SD slot for personalized maps and features
+
+the 30x is a powerful machine in a compact package.
+
+MSRP: $299.
+
+GARMIN.
+
+## SPECIFICATIONS
+
+## • Worldwide base map
+
+## • Sunlight-readable display
+
+## • 25-hour battery life
+
+## • Waterproof
+
+## • Geocaching-friendly
+
+## • SD Card slot
+
+## GARMIN EPIX
+
+The Epix is a wristwatch GPS/GLONASS that features 8GB of additional storage that allows you to import 24
+
+## 000 regional maps.
+
+## Epix is touchscreen
+
+and also functions as a full-feature fitness training watch.
+
+MSRP: $549.
+
+GARMIN.
+
+## SPECIFICATIONS
+
+### • High resolution color touchscreen
+
+• TOPO 100,000 maps
+
+## • GPS/GLONASS
+
+## • Wristwatch
+
+## • Fitness tracking
+
+• Displays smart notifications from Bluetooth devices
+
+## Global Positioning Devices
+
+## GARMIN MONTERRA
+
+Garmin’s Monterra is a powerhouse.
+
+This GPS runs Google’s Android operating system
+
+### comes equipped with an 8MP camera
+
+and has an FM radio receiver to keep you entertained on your excursions.
+
+The Monterra has it all.
+
+MSRP: $549.
+
+GARMIN.
+
+## SPECIFICATIONS
+
+## • WiFi enabled
+
+• Preloaded TOPO U.
+
+100,000 maps
+
+## • Flash/Torch
+
+## • Paperless Geocaching
+
+### • Share with other Garmin units
+
+### • Turn-by-turn road maps optional
+
+## MAGELLAN EXPLORIST 710
+
+This handheld works on and off the grid.
+
+Equipped with road maps as well as topographic maps of the globe
+
+the eXplorist is practical as a multi-use GPS.
+
+MSRP: $499.
+
+MAGELLANGPS.
+
+## SPECIFICATIONS
+
+## • Waterproof
+
+• 3.
+
+## 2 MP camera
+
+## • Touchscreen
+
+## • Navigates on and off road
+
+## • 16-hour battery life
+
+## • Paperless Geocaching
+
+## GARMIN ETREX 10
+
+A perfect tool for the tenderfoot and seasoned survivalist both
+
+the eTrex 10 is an economical and highly functional GPS unit.
+
+### Sporting a 25-hour battery life
+
+## Worldwide basemap
+
+## and Geocaching capabilities
+
+this little guy can more than get the job done.
+
+MSRP: $109.
+
+GARMIN.
+
+## SPECIFICATIONS
+
+## • GPS/GLONASS equipped
+
+## • External battery powered
+
+## • Paperless Geocaching
+
+## • Waterproof and rugged
+
+## • Basecamp software
+
+## • Monochrome display
+
+## Compasses
+
+## Get Dialed In
+
+## WITH A COMPASS
+
+YOU’RE ALWAYS HEADED IN THE RIGHT DIRECTION
+
+## STORY BY JOHN JACKSON
+
+Mountain passes and arroyos clogged with twisted foliage are confusing when you’re lost.
+
+The sun might peek into a canyon for only a brief moment before disappearing behind the rim again.
+
+Subtle turns of the trail mask your direction.
+
+Being lost can induce a panic that will sap your energy and your ability to reason and make smart decisions.
+
+There are many myths and methods associated with the cardinal directions.
+
+## Moss on trees
+
+## flights of birds at dusk
+
+the direction squirrels sit while they’re eating.
+
+Which ones are true and which are wives’ tales?
+
+Do you remember?
+
+If only you had a compass.
+
+BRUNTON O.
+
+The O.
+
+## 60M is quick and easy to use
+
+with a one-hand flip-up alignment mirror and easy-to-turn orientation dial.
+
+It has a large magnifying glass for reading small details on maps and a measurement scale in inches on one side and mm on the other.
+
+MSRP: $49.
+
+BRUNTON.
+
+## SPECIFICATIONS
+
+• Dimensions: 3 x 4.
+
+## 7 x 0.
+
+## 8 inches
+
+• Weight: 2.
+
+## 5 oz
+
+## FEATURES
+
+### Tool-free declination adjustment
+
+## on-the-map Meridian lines
+
+## 2-degree resolution
+
+## extra long straight edge
+
+reversible slide scale.
+
+BRUNTON O.
+
+## 70M MIRRORED COMPASS
+
+The next generation of its Eclipse 8099 line
+
+the O.
+
+### 70 featuring the three clinometers system
+
+combined clear base plate for mapping and mirror for sighting
+
+and a level bubble for more precise measurements.
+
+MSRP: $100.
+
+BRUNTON.
+
+## SPECIFICATIONS
+
+• Dimensions: 4.
+
+## 1 x 2.
+
+## 5 x 1 inches
+
+• Weight: 3.
+
+## 6 oz
+
+## FEATURES
+
+## Declination adjustment
+
+## on the map meridian lines
+
+## a magnified read-out
+
+a rubberized protective case for quick sighting
+
+field reference cards for map reading.
+
+## BRUNTON TRUARC 5
+
+The TruArc 5 baseplate model has additional map grid lines for quick orientation and a magnifier for easy reading.
+
+The TruArc Global Needle system means you don’t have to buy a new compass when you make that trek to South America or Australia
+
+and tool-less declination adjustment makes for easy orienteering.
+
+MSRP: $19.
+
+BRUNTON.
+
+## SPECIFICATIONS
+
+• Dimensions: 2.
+
+## 9 x 4.
+
+## 2 x 0.
+
+## 6 inches
+
+• Weight: 1.
+
+## 8 oz
+
+## FEATURES
+
+## TruArc’s Global Needle
+
+## two-degree resolution
+
+## map magnifier
+
+inch/mm scales.
+
+## SILVA RANGER CLQ
+
+The Silva Ranger CLQ features a large mirror for accuracy when sighting on distant landmarks
+
+### and the three scales provide quick
+
+easy plotting with any topographic map.
+
+Romer scales can be used to create grid references for use with ordinance maps.
+
+The three silicone feet provide a non-slip grip.
+
+The geared declination sets easily from the bottom of the compass with the included tool.
+
+MSRP: $53.
+
+SILVACOMPASS.
+
+## SPECIFICATIONS
+
+• Dimensions: 4 x 2.
+
+## 5 inches
+
+• Weight: 2.
+
+## 4 oz
+
+## FEATURES
+
+## Quadrant dial
+
+## two-degree graduations
+
+## sighting mirror
+
+### 1/20-inch and millimeter rules
+
+1:24,000 map scale
+
+1:25,000 and 1
+
+50,000 Romer scales
+
+## map magnifier
+
+## luminous points for night use
+
+and silicone feet.
+
+## SILVA LENSATIC 360
+
+The rugged Silva Lensatic 360 is a traditional military-inspired design used in the world’s armed forces for its precisely accurate bearings.
+
+A liquid-filled compass with two-degree increments
+
+### top notch cover with sighting slit
+
+and a magnifying lens in the sighting arm for easy dial reading at a distance.
+
+MSRP: $22.
+
+SILVACOMPASS.
+
+## SPECIFICATIONS
+
+• Dimensions: 3.
+
+## 125 x 2.
+
+## 125 inches
+
+• Weight: 3.
+
+## 0 oz
+
+## FEATURES
+
+## 0-360° scale
+
+## two-degree graduations
+
+## 0-64 mil scale
+
+### sighting arm with magnifying lens
+
+## sighting notch on lid
+
+### luminous markings every 45 degrees
+
+powder-coated aluminum housing.
+
+## BRUNTON TRUARC 3
+
+This is a no-frills scouting compass.
+
+## Simple to use and small
+
+the TruArc 3 baseplate compass is equipped with the TruArc Global Needle system
+
+### with metric and standard scales
+
+and a tool-less declination compensation.
+
+MSRP: $12.
+
+BRUNTON.
+
+## SPECIFICATIONS
+
+• Dimensions: 2.
+
+## 5 x 3.
+
+## 5 x 0.
+
+## 5 inches
+
+• Weight: 1.
+
+## 1 oz
+
+## FEATURES
+
+## TruArc Global Needle
+
+## two-degree resolution
+
+and inch/mm scales.
+
+## BRUNTON TRUARC 10
+
+Designed for outdoor wilderness racing where critical navigation data is needed on the go
+
+the TruArc 10 baseplate compass features quick reference cardinal points
+
+a high-visibility needle for low-light performance
+
+and a double-gage ergonomic base plate for extra durability.
+
+MSRP: $39.
+
+BRUNTON.
+
+## SPECIFICATIONS
+
+• Dimension: 5.
+
+## 2 x 2.
+
+## 8 x 0.
+
+## 5 inches
+
+• Weight: 1.
+
+## 7 oz
+
+## FEATURES
+
+## TruArc Global Needle
+
+## ever-North magnet
+
+## a clinometer to 90 degrees
+
+### reversible slide scale (inches and mm)
+
+## GPS confidence circles
+
+## Roamer scales
+
+## magnified readout
+
+and 1 degree of resolution.
+
+## BRUNTON TRUARC 20
+
+Featuring the TruArc Global needle system that will not lose polarity and resists magnetic interference.
+
+## Triple clinometer system
+
+### tool-less declination adjustment
+
+and the protective cover and foot are just a few of the innovative features in this updated version of a trusted classic.
+
+MSRP: $59.
+
+BRUNTON.
+
+## SPECIFICATIONS
+
+• Dimensions: 4.
+
+## 1 x 2.
+
+## 5 x 1 inches
+
+• Weight: 3.
+
+## 6 oz
+
+## FEATURES
+
+## TruArc’s global needle
+
+## two-degree resolution
+
+## map magnifier
+
+## inch/mm scales
+
+## declination adjustment
+
+## on the map meridian lines
+
+## a magnified read-out
+
+a rubberized protective case for quick sighting
+
+and field reference cards for map reading.
+
+## SUN TRIPLEBINER COMPASS
+
+## SPECIFICATIONS
+
+• Dimensions: 3.
+
+## 2 x 1.
+
+## 5 x 0.
+
+## 7 inches
+
+• Weight: 1.
+
+## 1 oz
+
+## FEATURES
+
+## Lightweight
+
+anodized aluminum construction.
+
+## THERMOMETER BINER
+
+MSRP: $19.
+
+CAMPINGSURVIVAL.
+
+## arabiner
+
+## liquid filled compass
+
+## batteries included
+
+and bright LED light.
+
+This small and lightweight gear is actually three tools in one
+
+## compass
+
+## LED light
+
+and thermometer.
+
+The anodized aluminum carabiner clips snugly most anywhere.
+
+The compass is liquid filled and reads the basic cardinal directions.
+
+The thermometer reads in both Celsius (from -30 to 50 degrees) and Fahrenheit (from -20 to 120 degrees).
+
+## SILVA GUIDE 426
+
+## SPECIFICATIONS
+
+## GRAPHITE
+
+• Dimensions: 2.
+
+## 25 x 2.
+
+## 75 inches
+
+• Weight: 0.
+
+## 9 oz
+
+MSRP: $23.
+
+SILVACOMPASS.
+
+## FEATURES
+
+## Two-degree graduations
+
+### full-size sighting mirror with V-sight
+
+## inch/mm scales
+
+## declination scale
+
+and lanyard.
+
+The Silva Guide 426 is a compact mirror-sighting compass that's great for many outdoor activities.
+
+The lightweight polypropylene baseplate floats
+
+which is a great feature for any adventure near the water.
+
+The compact size makes it an easy carry.
+
+## Signaling Devices
+
+## SOS
+
+FROM LOW-TECH (REFLECTIVE DEVICES) TO HIGH (GPS)
+
+SIGNALING DEVICES THAT CAN SAVE YOUR LIFE
+
+## STORY BY SEAN COOPER
+
+## SPOT PERSONAL TRACKER
+
+Is help coming?
+
+Will it find you in time?
+
+### It’s bad enough to be in distress
+
+but it’s even worse if the help you need can’t locate you.
+
+That’s why no emergency kit is complete without a signaling device.
+
+Signaling devices magnify your visibility and help lead search and rescue services to your location.
+
+They can include anything from personal location beacons and mirrors to signal tarps
+
+## blankets
+
+or even whistles.
+
+Make sure one or two is in your BOB.
+
+The SPOT Satellite Messenger prides itself as the first satellite messenger in the world to figure out your location and relay it to friends
+
+family and most importantly emergency service personnel.
+
+It sends your exact GPS coordinates to emergency response centers to send help on its way.
+
+MSRP: $94.
+
+FINDMESPOT.
+
+## SPECIFICATIONS
+
+## • GPS tracking
+
+• SpotChecking feature lets friends and family know your location
+
+• SpotCasting lets friends and family follow you in real time
+
+• Sends GPS coordinates and distress message to Emergency Response Center
+
+### • Satellite technology works worldwide
+
+• Dimensions: 2.
+
+## 6 x 6.
+
+## 1 x 8.
+
+## 1 inches
+
+## ACR 2884 AQUALINK VIEW PLB
+
+PLB stands for Personal Locator Beacon.
+
+The AquaLink View is compact enough to fit in your pocket
+
+yet powerful enough to send a 406 MHz signal and 121.
+
+5 MHz homing capability signal to notify search and rescue authorities when you’re in distress.
+
+It sends a unique signal that tells rescuers not only where you are
+
+but who you are.
+
+It's reliable signaling technology that has saved more than 28,000 lives since 1982.
+
+## And get this
+
+### If you use it and send in your story
+
+they’ll replace it — free of charge!
+
+MSRP: $543.
+
+ACRARTEX.
+
+## SPECIFICATIONS
+
+## • Built-in 66 channel GPS
+
+## • 30 hour non-HazMat battery
+
+## • Super-bright LED strobe
+
+• Display to monitor operation and test functions
+
+## • Five year warranty
+
+• Powerful 406 MHz signal and 121.
+
+## 5 MHz homing capability
+
+• Dimensions: 5.
+
+## 8 x 2.
+
+## 3 x 1.
+
+## 4 inches
+
+### PREMIUM EMERGENCY THERMAL HEAT BLANKET
+
+Not only does this blanket help keep you warm during emergencies
+
+it also doubles as a reflective device to signal for help.
+
+The silvery surface reflects light to capture attention.
+
+Opens to a full 84 x 53 inches — large enough for an adult or child — but packed
+
+it’s small enough to keep several in your emergency kit.
+
+This budget-minded emergency thermal blanket is compact and lightweight.
+
+MSRP: STARTING AT $3.
+
+AMAZON.
+
+## SPECIFICATIONS
+
+### • Doubles as a signaling device
+
+### • Perfect for emergency situations
+
+## • In distress
+
+also doubles as a reflective surface to signal help
+
+• Dimensions: 84 x 53 inches
+
+## BRIARTEK CERBERUS
+
+Cerberus is a three-part global communication system that allows you to exchange messages wherever you are in the world.
+
+It conveniently connects to your Android or iOS device using the power of Bluetooth technology.
+
+You can record your location at intervals as short as 5 minutes and initiate a distress mode to indicate that you need help.
+
+You can even set up location-specific warnings to help you avoid emergencies before they happen.
+
+MSRP: $499.
+
+BRIARTEK.
+
+## SPECIFICATIONS
+
+• Send and receive messages anywhere worldwide
+
+• CerberLink connects to your iOS or Android device via Bluetooth
+
+• Receive warnings when you are off the grid
+
+• Alerting technology to help avoid emergencies
+
+## • Lightweight
+
+• Dimensions: 4.
+
+## 74 x 2.
+
+## 64 x 1.
+
+## 27 inches
+
+### LIFE+GEAR LED EMERGENCY FLARES
+
+These emergency light sticks use LED technology to draw attention to your predicament.
+
+With a 200 hour rechargeable Nickel Metal battery
+
+you’ll have plenty of hours of brightness for help to arrive.
+
+## They’re reusable
+
+## water resistant
+
+and even float.
+
+Each is equipped with a magnetic base so it stands up on a car hood
+
+trunk or on its own magnetic stand.
+
+MSRP: $10.
+
+LIFEGEAR.
+
+## SPECIFICATIONS
+
+• 10,000-Hour LED Technology
+
+### • 3 button cell batteries included
+
+## • Magnetic base
+
+## • Easy to use
+
+## • Chemical free
+
+• Dimensions: 1.
+
+## 5 x 1.
+
+## 5 x 7.
+
+## 5 inches
+
+## BASE CAMP RADIO
+
+The name says it all.
+
+The Base Camp Radio is the ideal portable communication center for your campsite or anywhere you need to stay connected to incoming important information.
+
+It features a 22 channel GMRS 2-way radio
+
+complete with AM/FM and NOAA weather accessibility.
+
+This unit acts as an alarm clock with a bright LCD backlit display
+
+## a three-LED flashlight
+
+an all-hazard alert receiver and is completely water-resistant to keep everything working under harsh conditions.
+
+Use the hand crank or four AA batteries to keep this radio operating at its fullest potential and when it's near other Midland radios, this unit can continuously charge them too.
+
+## A USB port
+
+### external handset/microphone jacks
+
+## AC/DC adapters
+
+microphone and rechargeable battery come complete with this multi-purpose survival communications center.
+
+MSRP: $89.
+
+MIDLANDUSA.
+
+## SPECIFICATIONS
+
+## • Keypad lock
+
+### • USB connector (to charge devices)
+
+## • 5 power Sources
+
+## AA batteries
+
+## rechargeable battery pack
+
+## dynamo crank
+
+## AC adapter
+
+## or DC adapter
+
+• Dimensions: 7.
+
+## 25 x 6.
+
+## 38 x 2.
+
+## 75 inches
+
+• 3,144 channel options
+
+### FALCON SAFETY SUPER SOUND HORN
+
+When you need to signal for help across land or water
+
+an audio signal may be the way to go — especially if help is not coming from above.
+
+The sound horn can also function as a safety device if you’re out on your own and need to scare away an attacker or predator.
+
+A simple touch of your thumb makes a sound that can be heard up to half a mile away on land and a mile over water.
+
+MSRP: $13.
+
+SHOPFALCON.
+
+## SPECIFICATIONS
+
+## • 100% ozone safe
+
+## • Non-flammable
+
+## • Compact
+
+## • Stainless steel
+
+## non-corrosive diaphragm
+
+• Dimensions: 1.
+
+## 5 x 5.
+
+## 8 x 7 inches
+
+• Weighs 1.
+
+## 5 pounds
+
+UST B.
+
+## BASE ALL-WEATHER TARP
+
+This is a multipurpose 8 x 6-foot tarp that does more than provide shelter.
+
+### It can be used as a ground cloth
+
+tarp or thermal blanket.
+
+Plus, one side of the tarp is aluminized and reflective for signaling while the other is high-visibility orange.
+
+Use the side that best fits your needs to attract attention.
+
+## Includes tarp
+
+guy lines and steel stakes.
+
+MSRP: $29.
+
+USTBRANDS.
+
+## SPECIFICATIONS
+
+## • Lightweight and compact
+
+### • Protects against the elements
+
+• One side is aluminized for thermal insulation and reflectivity for signaling
+
+• Dimensions: 8.
+
+## 5 x 4 x 4 inches packed
+
+## • Weighs 15 ounces
+
+### STARFLASH FLOATING SIGNAL MIRROR
+
+signal mirror is designed for the rugged outdoors.
+
+### Weighing just over a half ounce
+
+it can effortlessly hang on a lanyard around your neck for quick access.
+
+The targeting star is made from a retro-reflective fabric that makes targeting easy
+
+and the rounded edges means no sharp corners to snag your clothes or pack pockets.
+
+Comes with a lifetime warranty.
+
+### Made from 100% Lexan polycarbonate
+
+## this compact
+
+2 x 3-inch designed to increase sound levels over distance
+
+cut through background noise caused by extreme weather
+
+## rushing water
+
+and other noises.
+
+MSRP: $11.
+
+USTBRANDS.
+
+## SPECIFICATIONS
+
+• Dimensions: 3 x 2 x 0.
+
+## 2 inches
+
+• Weight: 0.
+
+## 7 ounces
+
+• Material: Lexan polycarbonate
+
+## NITECORE TITANIUM WHISTLE
+
+The body of this whistle is made from a solid block of titanium alloy
+
+so there are no moving parts and nothing to lose or get damaged.
+
+### It is designed to be used in hot
+
+cold, wet
+
+## and freezing environments
+
+## it is easy to blow
+
+providing a much louder sound with less effort.
+
+MSRP: $52.
+
+NITECORELIGHTS.
+
+## SPECIFICATIONS
+
+### • Made from polished TC4 titanium alloy
+
+• Length: 2.
+
+## 04 inches
+
+• Weight: 0.
+
+## 44 ounces
+
+• Maximum Output: 120 decibels
+
+## WEAPONS
+
+## What’s In This Section
+
+KNIVES AND ‘HAWKS: 35
+
+FIREARMS: 40
+
+SLINGSHOTS: 44
+
+DANGER lurks everywhere.
+
+## In a post-emergency world
+
+people will be unprepared and will become desperate to save themselves and their families.
+
+Desperate people tend to sink to desperate measures to obtain what they need or want.
+
+Don’t be a victim.
+
+Having a handgun or a slingshot handy not only provides protection and a sense of comfort
+
+but it also gives you a very valuable hunting tool when your pantries go bare.
+
+## Knives
+
+## Sharp Sidearm
+
+FIXED-BLADE KNIVES AND ‘HAWKS FOR SELF-DEFENSE AND SURVIVAL
+
+## STORY BY BOB CAMPBELL
+
+### No matter how important the situation
+
+people sometimes make poor decisions when it comes to choosing a knife.
+
+They either purchase a knife that is too small or too large or do not understand the mission.
+
+A folder is good to have for day-to-day use but a folding knife will never stand up to the rigors of camp life
+
+let alone a true emergency.
+
+## A knife makes a poor crowbar
+
+## but some
+
+## such as the Anza
+
+## are very toug
+
+## STEEL WILL DRUID
+
+MSRP: STARTING AT $69.
+
+STEELWILLKNIVES.
+
+## SPECIFICATIONS
+
+• Blade Length: 4.
+
+## 53 inches
+
+• Total Length: 9.
+
+## 25 inches
+
+• Weight: 5.
+
+## 3 ounces
+
+• Handle Material: Synthetic
+
+• Blade Finish: Satin
+
+Blade Steel: 9Cr18MoV
+
+digging out roots or making a hasty shelter.
+
+The RC: 58-59
+
+camp knife and the skinning knife are important.
+
+survival knife is best used in a worst-case scenario.
+
+## As with most things
+
+### a single knife may not take care
+
+## of every need
+
+you might need more than one.
+
+### The Steel Will Druid offers excel-
+
+lent fit and finish.
+
+## The blade is sharp
+
+### but the utility of the knife goes be-
+
+yond that.
+
+## The Druid features a well-
+
+### designed handle that offers good
+
+## purchase when cutting or even
+
+chopping Adhesion is excellent.
+
+Shock and rebound are low.
+
+### Druid is supplied with a workmanlike
+
+sheath as well.
+
+## This is a good knife
+
+### for many chores and offers a good
+
+value.
+
+## A mini druid also offers good
+
+service for light weight.
+
+## ANZA KNIVES
+
+MSRP: $70 AND UP
+
+ANZAKNIVES.
+
+COM This Anza knife is made from a knife.
+
+## I often comment that knives
+
+file.
+
+The hard tool steel of the file make poor crowbars.
+
+This is true,
+
+SPECIFICATIONS is ground into a sharp edge and but the Anza is a file.
+
+## The work is
+
+• Blade Length: 7.
+
+### 75 inches appropriate handles are fitted.
+
+well done; the carbon steel blade
+
+## • Total Length
+
+12 inches Anza offers certain standard has held its edge with a minimum
+
+## • Weight
+
+8 ounces models but in a real sense these of sharpening
+
+## and the Anza has
+
+## • Handle Material
+
+Wood are one-at-a-time custom knives.
+
+## done the roughest duty for me
+
+## • Blade Steel
+
+## Tool steel Yet
+
+## the price is modest
+
+about without complaint.
+
+• RC: 58-59 100 for a great camp
+
+### STEEL WILL STEEL WILL CHIEFTAIN
+
+## KNIVES ADEPT 1010
+
+MSRP: $199.
+
+MSRP: $299.
+
+## 99 STEELWILLKNIVES.
+
+STEELWILLKNIVES.
+
+## SPECIFICATIONS
+
+SPECIFICATIONS • Blade Length: 7.
+
+## 48 inches
+
+• Blade Length: 5.
+
+## 91 inches • Full Length: 13.
+
+## 11 inches
+
+• Full Length: 11.
+
+### 34 inches • Blade Thickness: 0.
+
+## 24 inches
+
+• Blade Thickness: 0.
+
+## 2 inches • Blade Finish
+
+## Black Traction Coating
+
+## • Blade Finish
+
+## PVD • Handle Material
+
+## Micarta
+
+## • Handle Material
+
+## G10 • Blade Steel
+
+1095
+
+• Blade Steel: N690Co • RC: 58-60
+
+• RC: 58-60 • Sheath: Nylon
+
+• Sheath: Kydex
+
+### The Chieftain name appropriately
+
+The Adept 1010 embodies the func- matches this knife’s appearance.
+
+## The thick-
+
+tionality and practicality sought after by ness
+
+### strength and its full tang construction
+
+military personnel of a cutting-edge prod- make it ideal for the toughest jobs.
+
+## This
+
+uct with a tactical design that can be knife has a classic clip-point blade that
+
+used on and off the battlefield.
+
+The blade measures almost 7.
+
+## 5 inches long and is
+
+is made from world-renowned N690Co constructed of 1095 steel that will endure
+
+steel that is coated with a PVD finish pro- through constant user abuse.
+
+## The Chieftain
+
+viding wear and corrosion resistance.
+
+An undergoes an extensive heat treatment
+
+all-black appearance of the Adept 1010 process
+
+### and then a black traction coating
+
+gives it a distinct tactical personality that is applied for additional protection.
+
+## Slightly
+
+demands attention and respect.
+
+### The G10 extending from the handle
+
+## a rounded tang
+
+handle is 3D machine milled for excellent forms a multi-purpose hammer/glass-
+
+ergonomics and functionality while breaker
+
+making the knife a multi-task tool.
+
+adding a touch of dynamic originality.
+
+The A Micarta handle complements the blade
+
+tang extends through the bottom of the adding appeal and functionality.
+
+## The handle
+
+Adept 1010 to form a window break and is offered in two colors
+
+## Green (1620) and
+
+also incorporates an eyelet to attach a Orange (1610)
+
+## both provide generous
+
+lanyard.
+
+The knife extracts out of the grip capabilities in all weather conditions
+
+durable Kydex sheath in a smooth man- even while wearing gloves.
+
+## The Chieftain
+
+### ner and securely attaches to packs
+
+belts securely stores in a nylon sheath that is
+
+and other key positions.
+
+### simple to clean and adapts to packs or
+
+belts.
+
+### The Chieftain will appeal to those
+
+### looking for a dependable knife that can
+
+handle abusive use.
+
+## COLD STEEL
+
+## The Tomahawk is perhaps
+
+## VIETNAM
+
+## the best example of a profes-
+
+### TOMAHAWK sional Army adopting an abo-
+
+riginal weapon.
+
+## The original
+
+MSRP: $61.
+
+## Vietnam Tomahawk is a leg-
+
+COLDSTEEL.
+
+endary implement.
+
+## The Viet-
+
+## nam Tomahawk has not been
+
+## SPECIFICATIONS
+
+## allowed to die and today sev-
+
+• Hawk Length: 8.
+
+## 5 inches
+
+### eral configurations are offered
+
+• Full Length: 13.
+
+## 5 inches
+
+by Cold Steel.
+
+## These big
+
+• Primary Edge: 2.
+
+## 75 inches
+
+### hawks are affordable but offer
+
+• Handle Material:
+
+## excellent steel and a strong
+
+## American Hickory
+
+wooden handle.
+
+## Balance is ex-
+
+• Blade Steel: Drop Forged
+
+cellent.
+
+## These hawks are excel-
+
+## 1055 Carbon
+
+### lent for use in making a hasty
+
+• Weight: 19.
+
+## 7 ounces
+
+shelter, digging roots, or
+
+• Sheath: Leather Sheath
+
+throwing.
+
+## COLUMBIA RIVER
+
+mission-ready, lightweight fixed blade
+
+## KNIFE AND TOOL
+
+tactical knife has you covered.
+
+## Good
+
+THUNDER STRIKE grip.
+
+No slip.
+
+## Able to cut through likely
+
+threats — that is the Thunder Strike.
+
+MSRP $49.
+
+### features a black corrosion-resistant
+
+CRKT.
+
+### modified drop point blade that is big
+
+enough to do most any cutting job,
+
+## SPECIFICATIONS
+
+### but small enough to be easily con-
+
+• Blade Length: 2.
+
+## 83 inches
+
+cealed.
+
+## Friction grooves on the spine
+
+• Full Length: 7.
+
+## 440 inches
+
+### provide a sure grip when you’re doing
+
+• Blade Thickness: 0.
+
+## 140 inches
+
+detail work or need it for protection.
+
+• Blade Finish: Black
+
+### The Thunder Strike™ also saves your
+
+• Handle Material: Cord-wrapped
+
+bacon in survival situations.
+
+## A para-
+
+## stainless steel
+
+### cord wrapped handle is ideal out in
+
+• Weight: 3.
+
+## 6 ounces
+
+### the field for any emergency lashing
+
+• Blade Steel: 8Cr13MoV
+
+### and tying duties or if you need to
+
+• RC: 56-58
+
+fashion a tourniquet in a pinch.
+
+• Sheath: Glass-reinforced nylon
+
+### MOLLE-compatible sheath puts it
+
+easily at the ready or you can wear it Sometimes survival means dealing
+
+around your neck.
+
+You’ll find it comes with the elements.
+
+The wild isn’t evil,
+
+with a quick release on the lanyard to but it can be deadly.
+
+## When enemies
+
+prevent you from getting wrapped up are breathing down your neck this
+
+## STEEL WILL
+
+## DRUID 240
+
+MSRP: $99.
+
+STEELWILLKNIVES.
+
+## SPECIFICATIONS
+
+• Blade Length: 4.
+
+## 92 inches
+
+• Full Length: 10.
+
+## 43 inches
+
+• Blade Thickness: 0.
+
+## 20 inches
+
+• Blade Finish: Satin
+
+• Handle Material: Thermoplastic
+
+## Elastomer (TPE)
+
+• Blade Steel: 9Cr18Mov
+
+• RC: 58-59
+
+• Sheath: Handmade Italian
+
+## Leather
+
+## The Druid 240 is the newest
+
+member of the Druid Series, de-
+
+### signed for daily usage with com-
+
+mon outdoor tasks.
+
+## Built from tried
+
+and tested 9Cr18Mov steel, the
+
+### Druid 240 is a premium tool that
+
+retains its edge, is lightweight, and
+
+ready for any challenge.
+
+## With an
+
+overall length just under 10.
+
+inches, this knife provides users
+
+### with the ability to operate with pre-
+
+cision.
+
+## Ultimately designed as a
+
+premium skinning tool, the Druid
+
+## 240 functions in constricted
+
+### spaces and hunters will appreciate
+
+### the TPE handle which allows for a
+
+firm grip, even when saturated
+
+with natural elements.
+
+## A leather
+
+### sheath protects the blade during
+
+travel, is simple to maintain and of-
+
+### fers minimum sound disturbance
+
+while in travel.
+
+## THE BAD BLOOD NANO
+
+MSRP: $59.
+
+HALLMARKCUTLERY.
+
+## SPECIFICATIONS
+
+• Blade Length: 3-7/8 inches
+
+• Full Length: 8-3/4 inches
+
+• Handle Material: Lightly Textured G10
+
+• Weight: 7.
+
+## 6 ounces
+
+• Blade Material: 8Cr14 Stainless
+
+Steel, Saber Ground
+
+• Sheath: Kydex
+
+This knife, designed by custom
+
+maker Sean Kendrick, is a tactical
+
+knife.
+
+### Tactical and survival are not quite
+
+the same, but you certainly need a
+
+### good tactical knife when the all around
+
+problem of survival is addressed.
+
+blade is stout, the edge good, and the
+
+### blade is presented at the correct cut-
+
+### ting angle due to the handle’s geome-
+
+try.
+
+### At just under $60 average price
+
+this is a good investment in survival.
+
+## COLUMBIA
+
+behind the CRKT Saker.
+
+## RIVER KNIFE
+
+## This fixed-blade survival
+
+### AND TOOL knife is the go-to blade for
+
+## SAKER those who rely only on
+
+## their tool and skills to
+
+MSRP: $125.
+
+## keep them alive in the out-
+
+CRKT.
+
+COM doors.
+
+## Bushcrafters
+
+## everywhere will appreci-
+
+SPECIFICATIONS ate this knife’s ability to
+
+• Blade Length: help them build a fire,
+
+### 4.53 inches construct a shelter, hunt
+
+• Full Length: and forage.
+
+## Featuring a
+
+### 9.19 inches true scandi grind, the
+
+• Blade Thickness: blade is crafted from
+
+### 0.140 inches 1075 carbon steel and
+
+• Blade Finish: has a voracious appetite
+
+Brushed Silver for wood.
+
+## But what makes
+
+## • Handle Material
+
+## it unique is that the overall
+
+## Walnut design combines good
+
+• Weight: 5.
+
+### 3 ounces blade geometry and bal-
+
+## • Blade Steel
+
+## 1075 ance with ergonomics.
+
+Carbon Steel that end, the knife fea-
+
+• RC: 50-55 tures a walnut handle that
+
+• Sheath: Leather keeps your hand from
+
+COLUMBIA RIVER KNIFE slipping as it’s cutting in
+
+AND TOOL MAH-CHETE A true Bushcraft knife whatever conditions
+
+isn’t easy to come by.
+
+## Mother Nature throws
+
+MSRP: $99.
+
+### 99 Abe Elias is a respected your way.
+
+CRKT.
+
+## COM designer and the man
+
+## SPECIFICATIONS
+
+• Blade Length: 12 inches
+
+• Full Length: 17.
+
+## 440 inches
+
+• Blade Thickness: 0.
+
+## 180 inches
+
+• Blade Finish: Hammer Finish and Satin
+
+• Handle Material: Walnut
+
+• Weight: 1 lb 3.
+
+## 2 ounces
+
+• Blade Steel: 1075 Carbon Steel
+
+• RC: 50-55
+
+• Sheath: Reinforced Nylon
+
+## w/Polypropylene Liner
+
+### Liong Mah has good ideas and lets
+
+form follow function.
+
+## Mah wanted a ma-
+
+chete that he could take anywhere and fit
+
+in his backpack.
+
+Yet he still needed it to This pattern has been made by
+
+be large enough to break trail.
+
+## So he cre- one contractor
+
+## Windlass Steel-
+
+ated one with a distinctive upswept over- crafts
+
+since 1943.
+
+## Hand forged
+
+all shape that maximizes cutting from high carbon steel
+
+## each
+
+performance.
+
+A hand-ground carbon comes with regulation sheath.
+
+steel blade with a hammer-forged finish is must for outdoor activities that
+
+crafted to stay sharp when you need it require chopping and cutting.
+
+most.
+
+A comfortable walnut handle with This kukri has a 13-1/2-inch
+
+lanyard holes allows for a forward carry that long blade that is double
+
+## ATLANTA
+
+## CUTLERY
+
+## ASSAM
+
+## RIFLES
+
+## KUKRI
+
+MSRP: $39.
+
+ATLANTACUTLERY.
+
+## SPECIFICATIONS
+
+• Blade length: 13.
+
+## 5 inches
+
+'s secure.
+
+## The end result
+
+You're able to conserve energy when you need it most for survival.
+
+The sheath features a drop down option so you can strap it to your leg.
+
+There's also extra paracord attached to the sheath for survival emergencies.
+
+If you're searching for a machete that likes picking on grasses more than three times its size, the Mahchete has your back in survival situations.
+
+• Full Length: 18 inches fullered.
+
+It also features the traditional religious notch symbolic of the trident (three-pronged spear) of Shiva.
+
+### At a little over 1/4 inch thick
+
+this is a very powerful chopping blade.
+
+## The polished
+
+native hardwood handle is reinforced by a brass bolster and a brass pommel.
+
+• Weight: 1lb 4 ounces
+
+• Blade steel: High carbon steel
+
+• Sheath: Military specification
+
+If you have ever used a Kukri to clear vegetation or make a trail
+
+you know that the light chopper is a highly valued knife.
+
+You know that a big part of being ready is having your head in the game.
+
+But you also know that another important part is having the right gear.
+
+So you want to buy American.
+
+But that kind of quality usually comes at a steep price.
+
+Not any more.
+
+Now you can own a made-in-the-USA Kershaw at a price just about anyone can afford.
+
+Check out the new Link 1776 models and get a lot of ready for a little price.
+
+MSRP $59.
+
+## 1776T
+
+MSRP $59.
+
+## 1776GRYBW
+
+MSRP $69.
+
+## 1776TGRYBW
+
+MSRP $69.
+
+What are YOU carrying?
+
+kershawknives.
+
+## Tactical Firearms
+
+## Load Up
+
+## SELECT THE RIGHT FIREARM
+
+## SO YOU ARE NEVER
+
+### “OUT-GUNNED” BY PREDATOR OR PREY
+
+## STORY BY BOB CAMPBELL
+
+When it comes to choosing a survival gun for the long haul
+
+### concepts like personal defense
+
+## defense
+
+and even defense against wild animals is important.
+
+You need to have the most knowledge you can in order to make a good choice.
+
+There is a considerable argument in favor of choosing the single type that best fits your lifestyle and spend the lion’s share on that firearm.
+
+### If your needs involve day-to-day carry
+
+then a handgun is important.
+
+If you are primarily concerned with home defense
+
+then a shotgun may be most appropriate.
+
+If the ranch covers a few acres and predators of both two and four legs are a concern
+
+then a good AR15 makes a lot of sense.
+
+## Whatever the case may be
+
+## when the situation calls
+
+you’ll want to be prepared with the right firearm to handle it.
+
+The Colt 1911 Government Model was adopted by the US Army in 1911.
+
+The modern Colt 1911 Combat Elite is a far improved version with modern material and CNC machine fitting.
+
+Just the same — a cavalryman familiar with the 1911 could handle the new handgun well.
+
+The Colt Combat Elite chambers the proven .
+
+## 45 ACP cartridge.
+
+The pistol features forward cocking serrations
+
+## Novak Lo Mount sights
+
+a custom grade beavertail grip safety and Colt quality.
+
+## COLT COMBAT ELITE
+
+MSRP: $1,053.
+
+COLT.
+
+## SPECIFICATIONS
+
+• Caliber.
+
+## 45 ACP
+
+• Overall Length: 8.
+
+## 25 inches
+
+• Barrel Length: 5 inches
+
+• Weapon Height: 5.
+
+## 25 inches
+
+• Weight (empty): 38 ounces
+
+• Magazine Capacity: 8 rounds
+
+What more can be said about a handgun that has accompanied our troops to every battle and hot spot in the world for over 30 years?
+
+The Beretta 92A1 is the proven Model 92 with an accessory light rail molded into the frame.
+
+This is a soft shooting 9mm handgun even with NATO specification ammunition.
+
+If you prefer an absolutely drop safe combination safety and decock lever
+
+the Beretta has it.
+
+From our oldest gunmaker in continuous service to the world’s armies and a great battle pistol.
+
+## BERETTA 92A1 9MM
+
+MSRP: $667.
+
+BERETTA.
+
+## SPECIFICATIONS
+
+• Caliber: 9mm Luger
+
+• Overall Length: 8.
+
+## 5 inches
+
+• Barrel Length: 4.
+
+## 9 inches
+
+• Height: 5.
+
+## 4 inches
+
+• Weight (empty): 34 ounces
+
+• Magazine Capacity: 15 rounds
+
+The Springfield Range Officer is a blend of cost-saving measures and excellent fit.
+
+The barrel and barrel bushing are well fitting
+
+resulting in excellent accuracy.
+
+The author’s personal Range Officer will send five Black Hills Ammunition into a two-inch group on demand at 25 yards.
+
+The highest level of precision is evident in the fit of the barrel
+
+## however
+
+the slide and frame are finished in an inexpensive matte finish.
+
+The result is one of the better bargains in the handgun industry.
+
+## SPRINGFIELD RANGE OFFICER
+
+MSRP: $767
+
+SPRINGFIELD-ARMORY.
+
+## SPECIFICATIONS
+
+• Caliber.
+
+## 45 ACP
+
+• Overall Length: 8.
+
+## 25 inches
+
+• Weapon Height: 5.
+
+## 25 inches
+
+• Weight (empty): 38 ounces
+
+• Barrel Length: 5 inches
+
+• Magazine Capacity: 8 rounds
+
+The SIG C 3 is an outstanding all around carry.
+
+Yet, the pistol gives up little to full size Government Model size pistols.
+
+The C3 mates a 4-inch barrel with a short grip handle that results in one of the best balanced 1911 pistols in the world.
+
+The SIG is often very accurate and reliability is SIG — world class.
+
+### This pistol has proven accurate
+
+## reliable
+
+and durable in many field tests.
+
+The balance of power and weight are ideal for most uses.
+
+## SIG C 3
+
+MSRP: $939.
+
+SIGSAUER.
+
+## SPECIFICATIONS
+
+• Caliber.
+
+## 45 ACP
+
+Overall Length: 7.
+
+## 7 inches
+
+Weapon Height: 4.
+
+## 8 inches
+
+Weight (empty): 30 ounces
+
+Barrel Length: 4 inches
+
+Magazine Capacity: 7 rounds
+
+## ROCK RIVER ARMS LAR X SERIES
+
+MSRP: $1,600
+
+ROCKRIVERARMS.
+
+## SPECIFICATIONS
+
+• Caliber: 6.
+
+## 8 Remington
+
+• Overall Length: 27.
+
+1-36
+
+• Weapon Height: 7.
+
+## 8 inches
+
+• Weight (empty): 7.
+
+## 9 pounds
+
+## • Barrel Length
+
+## 18 inches fluted stainless
+
+• Magazine Capacity: 20/30 rounds
+
+We would be remiss not to include at least one rifle chambered for the modern
+
+effective and powerful 6.
+
+## 8 cartridge.
+
+Rock River Arms has earned an excellent reputation for credible performance
+
+## accuracy
+
+and durability in the field.
+
+The RRA rifle comes with a one MOA accuracy guarantee.
+
+## All in all
+
+a credible choice with plenty of power.
+
+Sometimes you have to have a .
+
+308.
+
+The Ruger SR 762 has many of the same features of the SR556.
+
+## The SR 762 is heavier
+
+## however
+
+and beefed up in all particulars to offer a reliable and accurate AR type rifle for hunting medium to large game.
+
+The Ruger is ideal for those that wish to own a rifle that may be counted on not just in most situations but in the worst case scenario.
+
+## RUGER SR 762
+
+MSRP: $2,195
+
+RUGER.
+
+## SPECIFICATIONS
+
+• Caliber.
+
+## 308 Winchester/7.
+
+## 62 NATO
+
+• Overall Length: 34.
+
+## 75-38 inches
+
+• Weapon Height: 8.
+
+• Weight (empty): 8.
+
+## 6 pounds
+
+• Barrel Length: 16.
+
+## 12 inches
+
+• Magazine Capacity: 20 rounds
+
+This is as close to the military M4 carbine as we are able to purchase.
+
+The Colt features a monolithic receiver and handguard.
+
+The safety is ambidextrous.
+
+This rifle is from the first with the AR 15
+
+Colt.
+
+The sights are designed to give an advantage in combat while the modern rail allows mounting optics.
+
+The rifle’s stock may be adjusted from to fit any shooter.
+
+The monolithic receiver and rail are good design features.
+
+This is a pulse pounding exciting rifle and one that will deliver excellent all around performance.
+
+## COLT M4A1 CARBINE
+
+MSRP: N/A
+
+COLT.
+
+## SPECIFICATIONS
+
+• Caliber.
+
+## 223 Remington/5.
+
+## 56mm NATO
+
+• Overall Length: 29.
+
+## 8-33 inches
+
+• Weapon Height: 7.
+
+## 8 inches
+
+• Weight (empty): 6.
+
+## 11 pounds
+
+• Barrel Length: 16 inches.
+
+• Magazine Capacity: 20/30 rounds
+
+Ruger has leapt into the AR 15 market in a big way.
+
+The SR 556 is the first production-grade piston-driven AR 15 I am aware of.
+
+### The piston system has advantages and
+
+## while they may be debated
+
+the market exists and Ruger supplies a good rifle.
+
+The SR 556 is Ruger reliable.
+
+The rifle will accept any of a host of AR 15 magazines.
+
+## RUGER SR 556
+
+MSRP: $1,995
+
+RUGER.
+
+## SPECIFICATIONS
+
+• Caliber.
+
+## 223 Remington/5.
+
+## 56mm NATO
+
+• Overall Length: 32.
+
+## 75-36 inches
+
+• Weapon Height: 7.
+
+## 75 inches
+
+• Weight (empty): 7.
+
+## 9 pounds
+
+• Barrel Length: 16.
+
+## 1 inches
+
+• Magazine Capacity: 20/30 rounds
+
+The rifles specifications seem ordinary enough.
+
+But the details are very interesting — even innovative.
+
+The rifle accepts AR 15 magazines.
+
+The stock is a side folder.
+
+The rifle is fully ambidextrous.
+
+It does not simply cater to left handed shooters
+
+every control and even ejection is tailored for fully ambidextrous use.
+
+### No matter which is the forward hand
+
+the rifle may be fired around corners from any tactical position with either hand.
+
+## BERETTA ARX 100
+
+MSRP: $1,950
+
+BERETTA.
+
+## SPECIFICATIONS
+
+• Caliber.
+
+## 223 Remington/5.
+
+## 56mm NATO
+
+• Overall Length: 3.
+
+## 18 to 35.
+
+## 75 inches
+
+• Weapon Height: 8.
+
+## 5 inches
+
+• Weight (empty): 6.
+
+## 8 pounds
+
+• Barrel Length: 16 inches.
+
+• Magazine Capacity: 20/30 rounds
+
+## Slingshots
+
+## Silent and Deadly
+
+TACTICAL SLINGSHOTS FOR EXTREME SURVIVAL SITUATIONS
+
+## STORY BY MICHAEL D’ANGONA
+
+There are plenty of times in a survival situation where you need to be silent.
+
+Any slight noise will give you away.
+
+## For sneaking up on a prey
+
+preparing any other weapon would making too much noise and would scare away your dinner.
+
+### Slingshots have a single moving part
+
+### making them very quiet to operate
+
+not to mention easy.
+
+### They can shoot a variety of projectiles
+
+### including pebbles found nearby
+
+making them one of the only weapons that can be deadly even after you run out of conventional ammunition.
+
+Gone are the days of a forked stick and a rubber band.
+
+Today’s slingshots are high-tech pieces of equipment made from the latest technologies
+
+## sights (scope and laser)
+
+## wrist braces
+
+## LED flashlights
+
+## auto-loaders
+
+## ergonomically designed grips
+
+## and built from steel
+
+## aluminum
+
+and even carbon fiber.
+
+## KAVIA ELITE SLINGSHOT
+
+MSRP: $15.
+
+AFTERMATHAIRSOFT.
+
+## SPECIFICATIONS
+
+## • Adjustable sight
+
+## • Adjustable wrist brace
+
+## • Leather carrying pouch
+
+## • High quality thrust bands
+
+## • Integrated magazine handle
+
+• Fuel: 3/8 BBs – 30 count
+
+The Kavia Elite exhibits exceptional features making it the top model of the Kavia Series.
+
+Perfect for hunting or personal protection
+
+the Kavia Elite sports an adjustable sight
+
+### BONE COLLECTOR SPORT SLINGSHOT
+
+MSRP: $8.
+
+AFTERMATHAIRSOFT.
+
+### SPECIFICATIONS to give you the maximum
+
+• Built-in BB storage chance of a needed hit.
+
+• Highly durable The included wrist brace
+
+### • Easy-to-use ensures a steady hand and
+
+• Hand fitted grip allows for the most accurate shots.
+
+• Economical rate shots.
+
+## This impressive
+
+• Leather pouch included slingshot also has an integrated magazine within its
+
+handle which ejects BBs smoothly and efficiently for
+
+quick reloads.
+
+Simplicity and ease of operation characterize this powerful slingshot.
+
+Its high quality tubular thrust bands send BBs flying at high velocity
+
+enough to stun an urban would-be attacker or disable small game while out in the wild.
+
+The fitted hand grip also doubles as a BB storage center so you will always have ammunition whenever and wherever you need it.
+
+Comes complete with leather pouch.
+
+## ASG GEAR GUIDE WEAPONS
+
+## GLOVESHOT SLINGSHOT
+
+MSRP: $189.
+
+95, MONTIGEAR.
+
+## SPECIFICATIONS
+
+## • 550 Paracord wrapping
+
+## • Stainless steel fittings
+
+• 8.
+
+## 4 ounces
+
+• 5.
+
+## 75 x 5.
+
+## 25 x 4.
+
+## 5 inches
+
+• Handle length: 3.
+
+## 5 inches
+
+Is 150 feet per second fast enough for you?
+
+The Gloveshot slingshot can not only deliver that insane velocity
+
+but with surprisingly excellent accuracy.
+
+This slingshot is stabilized using the back of your hand allows for more power and pinpoint targeting with minimal effort.
+
+It features a lightweight water jet aluminum frame and 28-inch draw tapered bands.
+
+The handle is wrapped in 550 paracord which can be unraveled
+
+## if needed
+
+for a myriad of survival uses out in the field.
+
+This extreme slingshot fires ammo from 3/8 to 1/2 inch in diameter with great ease.
+
+The Gloveshot easily adjusts for both right and left hand shooters and comes with six paracord color options.
+
+Easy tool-free thumbscrews can be added if desired.
+
+This slingshot takes fast shooting to the next level!
+
+## POWERLINE F16
+
+## SLINGSHOT
+
+MSRP: $7.
+
+DAISY.
+
+## SPECIFICATIONS
+
+## • Molded handle
+
+## • Easy-to-use
+
+## • Strong and durable
+
+## • Surgical-grade tubing
+
+## • Solid steel frame
+
+## • Extra wide forks
+
+## SURVIVAL SLINGSHOT
+
+## ULTIMATE WITH A
+
+## LASER SIGHT
+
+MSRP: $199.
+
+SURVIVALSLINGSHOT.
+
+## SPECIFICATIONS
+
+## • Laser-mounted sight
+
+## • Tactical light
+
+### • Two survival supply containers
+
+## • Integrated compass
+
+## • Included fishing gear
+
+## • 25-pound pull bands
+
+Step up a major notch with this Ultimate Survival Slingshot.
+
+## Equipped with a laser sight
+
+this slingshot will always find its mark whether using steel shot ammo or arrows.
+
+Its tactical light will help shine the way under the night sky while the two containers in the handle will keep you supplied with some basic survival items.
+
+## Included are fish hooks
+
+## weights
+
+pins and swivels.
+
+Add matches and you’re good to go.
+
+This is a serious tool for serious situations.
+
+A must-have for every survivalist or outdoorsman.
+
+## ASG GEAR GUIDE WEAPONS
+
+## HUNTER
+
+## SLINGBOW
+
+## PACKAGE
+
+MSRP: $209.
+
+BASLINGBOWS.
+
+## SPECIFICATIONS
+
+## • Shoots arrows
+
+## • Use for hunting or fishing
+
+## • Custom selections
+
+### • Fully adjustable draw weights
+
+### • Averages 175 to 190 feet per second
+
+## • Optional reel available
+
+## This slingshot is a beast
+
+plain and simple!
+
+The Hunter Slingbow uses the design and style of a slingshot
+
+but fires full sized arrows instead of steel or glass shots.
+
+This “monster” is your perfect companion to take on your hunting or fishing trip
+
+because it can accomplish both tasks with equal ease.
+
+The arrows fly at a mind-staggering average of 175 to 190 feet per second
+
+easily dropping small game with great accuracy or landing a whopper of a fish for dinner with its optional bottle reel attachment.
+
+Custom create your perfect survival tool by choosing bracket side
+
+bowfishing additions and whisker design.
+
+And don’t forget the Hunter Slingbow makes a formidable weapon for long range personal self-defense.
+
+## Adaptability
+
+simplicity and hard core durability describe this made in the U.
+
+slingshot.
+
+The Maxim Flipkung is composed of 1/4-inch anodized 6061 T6 aircraft aluminum
+
+## which makes it tough as nails
+
+yet lightweight and compact enough to store just about anywhere.
+
+It’s wrapped generously in over nine feet of 550 paracord
+
+useful for multiple survival applications.
+
+### The forks allow for fixed tubes
+
+## looped tubes
+
+### flatbands and even chain-linked
+
+basic rubber bands if the need may arise.
+
+## Incredibly durable
+
+this slingshot will hold up for years to come under repeated extensive use!
+
+## MAXIM FLIPKUNG
+
+## SURVIVAL
+
+## SLINGSHOT
+
+MSRP: $55.
+
+SIMPLE-SHOT.
+
+## SPECIFICATIONS
+
+• Fork tip width: 3-7/8 inches
+
+• Fork gap width: 1-7/8 inches
+
+• Overall height: 5-5/8 inches
+
+• Overall width: 3-5/8 inches
+
+• Thickness: 1/4 inches
+
+## • Choose wrapped or unwrapped
+
+## THE TORQUE
+
+## SLINGSHOT
+
+MSRP: $29.
+
+SIMPLE-SHOT.
+
+## SPECIFICATIONS
+
+## • Polycarbonate material
+
+• Fork tips: 1-1/8 inches
+
+• Fork Gap:1-9/16 inches
+
+• Overall width: 3-7/8 inches
+
+• Overall height: 5-5/8 inches
+
+## • Choose black or green
+
+This slingshot definitely exhibits more than meets the eye.
+
+Don’t be fooled by its minimalistic appearance.
+
+The Torque slingshot is constructed of almost indestructible polycarbonate ensuring year after year of high quality use.
+
+Its extra wide fork tips allow the ability to accommodate powerful flat bands or single strand tubes and changing between the two is a breeze thanks to its convenient quick change slots.
+
+## Compact
+
+### lightweight and easily concealed
+
+this slingshot makes the perfect defensive weapon for your supply bag
+
+vehicle’s glove compartment or your own back pocket.
+
+## HUNTING
+
+## SLINGSHOT
+
+MSRP: $49.
+
+HELLASLINGSHOTS.
+
+## SPECIFICATIONS
+
+## • Vintage design
+
+## • Hand crafted
+
+### • Varnished for added durability
+
+## • Natural rosewood
+
+## • Leather projectile pouch
+
+• Dimensions (approx.
+
+): 7 x 4 inches
+
+Take a step back in time with this retro-style slingshot.
+
+## The look
+
+feel and construction will remind you of the slingshot you had hanging out of your back pocket as a kid.
+
+But now, like you, it’s all grown up.
+
+The black latex tubing and leather projectile pouch combine to give you power and accuracy with every shot.
+
+Its simplistic design masks it true performance as a powerful aid while hunting or during self-defense applications.
+
+### Made from reclaimed rosewood and coated
+
+## minimizes scarring
+
+by decreasing inflammation.
+
+## Ointments
+
+## MALIBU ALOE
+
+## VERA GEL SPRAY
+
+MSRP: $13.
+
+MALIBUSUN.
+
+## SPECIFICATIONS
+
+## • 360-degree application
+
+## • Non-greasy
+
+## • Soothing formula
+
+### Trekking under the hot sun all day
+
+### can leave your skin burned and sting-
+
+ing; definitely not an enjoyable way to
+
+take in the outdoors.
+
+## Enjoy quick and
+
+### soothing relief with Malibu’s Aloe Vera
+
+After Sun Spray Gel.
+
+### This gel is formulated to be non-
+
+### greasy after each application and has
+
+### added moisturizers to keep your skin
+
+### from drying out and peeling after a
+
+burn.
+
+### A few quick sprays and you will
+
+### experience cooling and soothing of
+
+### your skin enabling you to continue your
+
+day, rather than being distracted by the
+
+irritation of a sunburn.
+
+## Its easy-to-apply
+
+### spray can was designed to coat evenly
+
+### using a 360-degree application
+
+process, so every inch of your
+
+scorched skin will find relief.
+
+### NATRAPEL 8-HOUR AFTER STING JELLYFISH
+
+## INSECT REPELLENT STING RELIEF
+
+## WIPES
+
+MSRP: $4.
+
+MSRP: $5.
+
+## 99 ADVENTUREMEDICALKITS.
+
+ADVENTUREMEDICALKITS.
+
+## SPECIFICATIONS
+
+### SPECIFICATIONS • Instant relief
+
+• DEET-free formula • Baking soda formula
+
+• Full 8-hour protection • Reduces swelling
+
+## • Easy-to-apply wipes
+
+### Ocean-based survival has unique
+
+Insect bites can ruin most outdoor dangers not found in any other environ-
+
+activities.
+
+Hours upon hours can be ment on the planet.
+
+## Once such danger
+
+spent swatting or waving off insects is jellyfish stings.
+
+## Like thousands of tiny
+
+looking for a meal on your exposed needles piercing your skin
+
+## a jellyfish
+
+skin.
+
+sting can cause unbearable burning,
+
+The Natrapel DEET-free insect re- swelling
+
+## and itching of the affected
+
+pellent wipes provide a full eight hours area.
+
+### After Sting Jellyfish Sting Relief
+
+of protection against nature’s biting can stop the painful sensations upon
+
+pests.
+
+### It uses a 20% Picaridin formula
+
+### contact and allow you to get on with
+
+which has been clinically proven to more important tasks at hand.
+
+## Unlike
+
+show equal or better performance than benzocaine sting relieving products
+
+DEET.
+
+What’s better is that Natrapel is that wear off in only a matter of min-
+
+completely safe on all your valuable utes
+
+### After Sting uses a baking soda
+
+### gear and will not melt jackets
+
+fishing formula that eliminates the sting and ir-
+
+line or other synthetic materials.
+
+Each ritating itch for good.
+
+### box contains 12 individually wrapped
+
+wipes, which allows you to control the
+
+### amount and the location of repellent to
+
+apply.
+
+## ASG GEAR GUIDE MEDICAL
+
+## TRAVEL LITE HIS
+
+## CARRY-ON WIPE COMBO
+
+MSRP: $19.
+
+WIPES123.
+
+## SPECIFICATIONS
+
+• No spills, no leaks
+
+## • Biodegradable
+
+## • Men-specific products
+
+Easy-to-carry pouches containing easy-to-use
+
+essential wipes for men?
+
+## Contained within the con-
+
+## venient
+
+portable carry bag are all the necessary
+
+outdoor and personal products for men in simple
+
+one-time-use disposable wipes.
+
+## Use the DEET-free
+
+insect repellent to keep mosquitoes and biting flies
+
+away.
+
+Apply the antibacterial wipes to any cuts or
+
+## scrapes to prevent infection
+
+## which can become
+
+much worse if left untreated and medical help is far
+
+away.
+
+## Biodegradable and compostable
+
+## Travel Lite
+
+wipes will not harm the environment upon disposal.
+
+## CHOPSAVER GOLD
+
+MSRP: $13.
+
+CHOPSAVER.
+
+## SPECIFICATIONS
+
+## • 100% all-natural
+
+## • Two FDA approved sunscreens
+
+## • Herbal formula
+
+### This soothing lip balm contains only
+
+all-natural ingredients, including
+
+proven healing herbs, like arnica, cal-
+
+endula, comfrey, and white willow.
+
+### These provide much needed natural
+
+oils and moisturizers for delicate skin.
+
+Soothing emollients, such as shea
+
+butter, mango butter, avocado oil,
+
+apricot oil, aloe and vitamin E also are
+
+infused in this balm.
+
+## The Chopsaver
+
+### Gold formula also includes two FDA
+
+### approved sunscreens to protect your
+
+lips from the intense sunshine.
+
+## OUTDOOR HANDS
+
+## SKIN THERAPY CREAM
+
+MSRP: $10.
+
+OUTDOORHANDS.
+
+## SPECIFICATIONS
+
+## • Relieves cracked skin
+
+## • No greasy residue
+
+## • Easily absorbed into skin
+
+### Developed by a clinical pharmacist
+
+## Outdoor
+
+Hands Intense Skin Therapy Cream is your an-
+
+## swer to cracked
+
+## rough skin caused by expo-
+
+sure to nature’s full fury.
+
+## Extreme weather con-
+
+ditions when under outdoor survival situations
+
+can “beat up” your hands to the point of harm-
+
+ful cracking and peeling of the skin.
+
+## This heal-
+
+ing cream can ease the pain while repairing the
+
+irritating rough skin.
+
+## It contains an effective
+
+blend of organic oils and botanical extracts
+
+that correct the damage while moisturizing at
+
+the same time.
+
+### Because it contains no mineral
+
+## oils or petroleum ingredients
+
+## the cream is ab-
+
+sorbed quickly and without any greasy residue.
+
+## Ointments
+
+## ASG GEAR GUIDE MEDICAL
+
+## OUTDOOR HANDS
+
+## POISON IVY SCRUB
+
+MSRP: $12.
+
+OUTDOORHANDS.
+
+## SPECIFICATIONS
+
+## • Instant relief
+
+## • Gentle exfoliating formula
+
+## • Limits potential outbreaks
+
+### A relaxing time outdoors can be quickly
+
+cut short when you are exposed to poison
+
+ivy or poison oak.
+
+The unbearable itching,
+
+pain, and swelling can turn your outdoor time
+
+into a living nightmare.
+
+## Avoid this by using
+
+Outdoor Hands’ poison ivy scrub.
+
+## This exfoli-
+
+### ating cleanser was designed to remove
+
+## urushiol
+
+### the source of allergic reactions
+
+## found in poison ivy
+
+oak, and poison sumac.
+
+Use immediately after outdoor activities to
+
+limit a potential outbreak.
+
+## Perfect for use by
+
+anyone performing any other outdoor activity
+
+in which you may be exposed to any itch-
+
+causing plants.
+
+## BIOUD CLOTHING
+
+## AND GEAR INSECT
+
+## REPELLENT
+
+MSRP: $8.
+
+HOMS.
+
+## SPECIFICATIONS
+
+## • Apply to clothing
+
+## • DEET-free
+
+## • Easy application pump spray
+
+### Spraying insect repellent on your skin
+
+when outdoors is great.
+
+## But what about
+
+your clothing and supplies?
+
+## Flying biting
+
+### insects and ground-dwelling ticks can
+
+### easily crawl or land onto your gear and
+
+travel with you until they can find an un-
+
+protected area of skin.
+
+## Using BioUD
+
+clothing and gear repellent can solve that
+
+very problem.
+
+Using a powerful, yet safe
+
+DEET-free formula, this repellent sends
+
+### mosquitoes and ticks away before they
+
+have a chance to take a bite of your skin.
+
+### A few pumps is all it takes to apply an
+
+even coat of protection that will last for
+
+### hours depending upon which type of in-
+
+sect you encounter.
+
+Avoid an irritating,
+
+## itching bite and worse yet
+
+## a possible in-
+
+### sect-transmitted disease that can take
+
+### you down and out for a few days or even
+
+several weeks.
+
+## LOGIC PRODUCT GROUP
+
+## INSECTLOGIC BUG REPEL
+
+## GEL
+
+MSRP: $20.
+
+LOGICPRODUCTGROUP.
+
+## SPECIFICATIONS
+
+## • 100% plant-based oils
+
+## • DEET-free
+
+## • Non-staining
+
+Looking for insect repellent?
+
+## This natu-
+
+ral insect repellent is formulated using
+
+### 100% plant-based oils and botanicals
+
+which repel pesky biting pests, while
+
+moisturizing and soothing your skin.
+
+## This
+
+### gel is effective against all the common
+
+## bugs of the world
+
+## including fleas
+
+ticks,
+
+mosquitoes, and biting black flies.
+
+## Easy to
+
+apply, DEET-free, and non-staining for-
+
+mula makes this insect repel gel perfect
+
+for those that want to take a more natural
+
+approach to direct skin application repel-
+
+lents.
+
+### Its citrus scent replaces the harsh
+
+### chemical smell like some other products
+
+have and its easy to use large mouth jar
+
+allows for easy and complete application.
+
+## First Aid Kits
+
+## First Line of
+
+## Survival
+
+## FIRST AID KITS FOR THE
+
+## HOME AND FIELD
+
+## STORY BY JOSHUA SWANAGON
+
+## BASE CAMP FIRST
+
+## AID KIT
+
+MSRP: $39.
+
+LIFELINEFIRSTAID.
+
+## Over 170 first-aid items
+
+make up this extensive kit.
+
+## Ideal for campsites or multi-
+
+person group areas, you will
+
+## have everything you need to
+
+### treat a wide variety of injuries
+
+## that may occur in the great
+
+outdoors.
+
+### Contained within its durable and highly
+
+visible bag are dozens of useful medical supplies
+
+(band aids, antiseptic wipes, antibiotic
+
+## ointment
+
+gauze, bandages of all sizes
+
+## and cooling burn
+
+gel.
+
+## Antiseptic wipes
+
+## and ointments will keep
+
+your injuries bacteria free and its included pain-
+
+relieving tablets will ease the discomfort.
+
+## The in-
+
+cluded first-aid booklet gives you tips and
+
+instructions to patch up your mishaps and allows
+
+you to get back into the action fast.
+
+## No outdoor
+
+trip should be without this necessary supply.
+
+## CONTENTS
+
+## • First aid booklet
+
+## • Stainless steel scissors
+
+## • Tweezers
+
+## • Vinyl gloves
+
+## • Safety pins
+
+## • Cotton-tipped applicator
+
+## • Bandages
+
+## • Instant cold pack
+
+### • Alcohol and iodine prep pads
+
+## • Sting relief pads
+
+## • Antiseptic towelettes
+
+## • OTC pain and medical creams
+
+## • OTC medications
+
+## • Assorted bandages
+
+### • Assorted gauze pads and dressings
+
+## • Adhesive tape roll
+
+## • Reusable zipper-lock bags
+
+## ELITE FIRST AID
+
+## M-17 MEDIC BAG
+
+MSRP: $198.
+
+ELITE1STAID.
+
+The fold out, G.
+
+## -style pack
+
+### stows neatly but opens to reveal
+
+### separate compartments for easy
+
+### categorizing of first aid and trauma
+
+items.
+
+## This kit is durable and com-
+
+plete, ready for basic first aid and
+
+serious injuries in the field.
+
+## CONTENTS • Tourniquet
+
+### • General first aid items • Gloves
+
+### • Eye wash/eye pads • Antiseptic wipes
+
+### • Suture kits • Antibiotic ointments
+
+## • Scalpel kit • Burn supplies
+
+### • Bandages/gauze • Ammonia inhalants
+
+## EMERGENCY ESSENTIALS
+
+## MEDICS FIRST AID KIT
+
+MSRP: $111.
+
+BEPREPARED.
+
+### This 175-item kit includes many items
+
+### unique to those used by paramedics and
+
+Emergency Medical Technicians.
+
+## With its
+
+fold-out design the Medics First Aid Kit is
+
+categorized for easy location of what you
+
+need most, when you need it most.
+
+## CONTENTS
+
+## • General first aid items
+
+## • Eye pads
+
+## • Bandages/gauze
+
+## • Gloves
+
+## • Antiseptic wipes
+
+## • Antibioti
+
+## c ointments
+
+## • EMT Shears
+
+### • Liquid crystal forehead thermometer
+
+## • Ammonia inhalants
+
+### • Wilderness and travel medical book
+
+## THE EMT RESCUE
+
+## 25 (TRAUMA KIT)
+
+MSRP: $209.
+
+EMERGENCYKITS.
+
+## Designed to care for up to
+
+### 25 people during an emergency situation
+
+the EMT Rescue 25 Trauma Kit comes complete in a high-visibility duffel bag with an eight-pocket rollout sleeve for easy access to what you need most at a moment’s notice.
+
+CONTENTS DELUXE PET • 65 piece in a durable carrying case
+
+• General first aid items FIRST AID KIT • Treats
+
+## • Eye wash/eye pads Cuts
+
+• Bandages/gauze MSRP: $59.
+
+## 99 Abrasions
+
+• Gloves FIRSTVOICE.
+
+## US Insect bites
+
+### • Antiseptic wipes Traumatic bleeding
+
+• Antibiotic ointments Often overlooked in the first • 15 gram packet of blood
+
+• Burn supplies aid kit realm is first aid for our clotting granules
+
+• SAM/Universal splint pets.
+
+First Voice provides the • Pet first aid guide
+
+• Stethoscope Deluxe Pet First Aid Kit de-
+
+• Emergency oral airway kit signed to help keep the family
+
+• Emergency Blanket pet healthy and happy during
+
+• Biohazard pick-up and sanitizing kit an emergency situation or
+
+• CPR mask every day incidents they may encounter.
+
+## First Aid Kits
+
+## MAYDAY INDUSTRIES
+
+## II – KIT
+
+MSRP: $144.
+
+MAYDAYORDERS.
+
+Standing for “Simple Triage And Rapid Treatment” the S.
+
+II Kit lives up to its name.
+
+Packed in a complete foldout design the S.
+
+II Kit includes many of the items necessary to fulfill triage needs in an emergency situation.
+
+## CONTENTS
+
+## • General first aid items
+
+## • Eye pads
+
+## • Bandages/gauze
+
+## • Gloves
+
+## • Antiseptic wipes
+
+## • Antibiotic ointments
+
+## • Ammonia inhalants
+
+## • 27-page first aid book
+
+## • Blood stopper kits
+
+## • Wire splint
+
+## • Stethoscope
+
+## • Thermometer
+
+## • Pain relief
+
+## • Solar blankets
+
+## GALLS ELITE FIRST AID
+
+## TACTICAL TRAUMA KIT 3
+
+MSRP: $203.
+
+GALLS.
+
+The Elite First Aid Tactical Trauma Kit 3 comes in a day/assault pack and is perfect for the medic of a small group.
+
+Designed to care for immediate triage or first aid while in the field
+
+this pack takes most severe injuries into account.
+
+## CONTENTS
+
+## • General first aid items
+
+## • Eye wash/eye pads
+
+## • Suture kits
+
+## • Scalpel kit
+
+## • Bandages/gauze
+
+## • Tourniquet
+
+## • Gloves
+
+## • Antiseptic wipes
+
+## • Antibiotic ointments
+
+## • Burn supplies
+
+## • Ammonia inhalants
+
+## • EFA First Aid Book
+
+## • Blood stopper kits
+
+## • SAM/Universal splint
+
+## • Cervical collar
+
+## • Stethoscope
+
+## ASG GEAR GUIDE MEDICAL
+
+## FIRST AID
+
+## COMPREHENSIVE KIT
+
+MSRP: $200
+
+ADVENTUREMEDICALKITS.
+
+This “Jack of all Trades” kit’s features contents useful for nearly every medical emergency or injury that you may face in any environment.
+
+With over 210 items ranging in use from essential
+
+## basic first aid applications
+
+## to wound management
+
+## to burn care
+
+this kit covers the entire spectrum of injury treatments.
+
+It contains items necessary to tackle excessive bleeding
+
+## fractures and sprains
+
+dental issues and those seldom touched on medical issues
+
+## such as CPR
+
+## insulin shock
+
+## dehydration
+
+allergies and much more!
+
+A 217-page essential guide to wilderness and travel medicine is included for reference when out in the field.
+
+All items are packed in an easy to use tri-fold pouch with quick-view clear compartments.
+
+Recommended for just about everywhere including churches
+
+## businesses
+
+## camping expeditions
+
+## group events
+
+## weekend getaways
+
+bug-out locations and more!
+
+## EXPLORER
+
+## FIRST-AID KIT
+
+MSRP: $54.
+
+UNCLEFLINTS.
+
+Carefully selected products and dedicated personal assembly differentiates this kit from many others.
+
+Included are over 75 pieces and 35 unique pieces chosen to be included in your all-inclusive go-to first aid pack.
+
+The military-style MOLLE trauma carrying pouch is constructed of heavy-duty material
+
+yet is compact enough to fit or store just about anywhere.
+
+Inside you will find all the necessities of basic first aid
+
+useful in any temporary emergency situation.
+
+These include bandages of all sizes and uses
+
+## tweezers
+
+## scissors
+
+## antibiotic ointments
+
+## burn gels
+
+## anti-itch cream packets
+
+gauze, a splinter-out tool
+
+finger splints and more.
+
+## Convenient extras
+
+not always packed in many kits include safety pins
+
+## razor blades
+
+## poison ivy cleanser
+
+and orthodontic wax.
+
+A basic first-aid instruction sheet aids in the application of techniques for those with no medical experience.
+
+## CONTENTS
+
+## • Instant cold pack
+
+• CPR face shield mask with one-way valve
+
+## • Emergency survival blanket
+
+## • Gauze rolls and packs
+
+## • Sterile eye pad
+
+## • Plastic eye wash cup
+
+## • Roll adhesive/surgical tape
+
+## • Compress bandage
+
+## • Trauma abdominal pad
+
+## • Feminine hygiene pad
+
+• Antiseptic benzalkonium (BZK) wipe pads
+
+## • Alcohol prep wipe pads
+
+## • Splinter-Out
+
+## • Finger splint
+
+• Stainless steel lister bandage scissors
+
+## • Splinter tweezers
+
+## • EMT shears / scissors
+
+• MiniScraper single edge razor blade/holder
+
+## • Safety pins
+
+### • Nitrile (non-latex) exam gloves
+
+### • Wet Ones hand wipe towelettes
+
+• Instruction sheet of basic first aid tips
+
+## • Assorted bandages
+
+## elastic and adhesive
+
+## • Packet orthodontic wax
+
+### • Antibiotic first aid cream packets
+
+## • Topical burn gel packets
+
+## • Ammonia inhalants
+
+### • Insect bite sting relief pads
+
+### • Calagel anti-itch cream packets
+
+### • Ivy-X poison ivy cleanser towelette
+
+### • Pure honey condiment packets
+
+## • Pencil
+
+## SURVIVAL GEAR
+
+## What’s In This Section
+
+POCKET SURVIVAL KITS: 59
+
+CAR SURVIVAL KITS: 63
+
+BUG-OUT BAGS: 67
+
+EMERGENCY KITS: 72
+
+oing it alone with just the clothes on your back and the information you’ve gleaned over the course of your life is fine for some.
+
+## But for the rest of us
+
+having the proper tools and gear to actually make it through the emergency is in our best interest.
+
+## Pocket Survival Kits
+
+## Plan B
+
+POCKET-SIZED SURVIVAL KITS ARE SUPPLEMENTS TO YOUR PRIMARY GEAR
+
+## STORY BY JIM COBB
+
+ear gets lost, damaged, stolen.
+
+## A sinking boat
+
+## a helicopter crash
+
+or a bad rappelling gaffe can cause your gear to be scattered across a wide area
+
+### leaving you vulnerable to the elements
+
+## Mother Nature
+
+and those that would want to take advantage of your situation.
+
+Protect yourself by keeping your gear close.
+
+And there’s nowhere closer than your pocket.
+
+### Pocket-sized survival kits are useful
+
+provided you understand their limitations.
+
+They aren’t typically meant to keep you alive for weeks on end.
+
+## Rather
+
+they are backups to your primary gear.
+
+Toss one of these small kits in your pocket or strap it onto your belt before leaving camp for a quick scouting trip
+
+just in case.
+
+## SURVIVAL RESOURCES
+
+## POCKET TIN SURVIVAL KIT
+
+MSRP: $36.
+
+SURVIVALRESOURCES.
+
+The Pocket Tin Survival Kit is the same size as a tin of mints and manages to carry just about everything you’ll need for survival.
+
+As packed as it is with gear for lighting a fire
+
+## building a shelter
+
+## catching food
+
+## finding help
+
+## and navigating your way home
+
+there is still room in the tin to add a few of your own items.
+
+## SPECIFICATIONS
+
+• Dimensions: 3-3/4 x 2-3/8 x 7/8 inches
+
+• Weight: 3.
+
+## 5 ounces
+
+## CONTENTS
+
+## • Spark-Lite fire starter
+
+## • Tinder-Quick tabs (6)
+
+## • Signal mirror
+
+## • Whistle
+
+## • Paracord (10 feet)
+
+## • Fishing kit
+
+## • Fishing line (50 feet)
+
+## • Snare wire (6 feet)
+
+## • Razor knife
+
+## • Pocket saw
+
+## • Fresnel lens
+
+## • Duct tape
+
+## • Needle
+
+## • Paper
+
+## • Pencil
+
+## • Compass
+
+## SURVIVAL RESOURCES
+
+## SURVIVAL KIT
+
+## POUCH
+
+MSRP: $139.
+
+SURVIVALRESOURCES.
+
+The Survival Kit Pouch was designed by well-known survival instructor John D.
+
+McCann to be non-expiring and yet to include supplies to meet most of your needs in a survival scenario.
+
+Nothing in the pouch will spoil or otherwise go bad before you need it.
+
+The kit contents include several unique items
+
+such as a head net to combat flying bugs and waterproof mini notebook.
+
+The kit contains all you’ll need for collecting food
+
+### setting up an expedient shelter
+
+and signaling for help.
+
+The pouch is completely sealed until you need to open it.
+
+It even floats!
+
+## SPECS
+
+• Dimensions: 7 x 6 x 2-1/4 inches
+
+• Weight: 1 pound 6 ounces
+
+## CONTENTS
+
+## • Mini-Match fire starter
+
+## • Spark-Lite fire starter
+
+## • Tinder-Quick tabs (8)
+
+## • Signal mirror
+
+## • Whistle
+
+## • Compass
+
+## • Emergency blanket
+
+## • Poncho
+
+## • Emergency sunglasses
+
+## • Head net
+
+## • Bandana
+
+## • Paracord (25 feet)
+
+## • Fishing kit
+
+## • Snare wire (25 feet)
+
+## • Knife
+
+## • Pocket saw
+
+## • Wire saw
+
+## • Survival guide
+
+## • Fresnel lens
+
+## • Duct tape
+
+## • Mini notebook
+
+## • Pencil
+
+## • Aluminum foil
+
+## • Sewing kit
+
+## • Safety pins (7)
+
+## Pocket Survival Kits
+
+## ADVENTURE
+
+## MEDICAL KITS
+
+## POCKET SURVIVAL
+
+## PAK PLUS
+
+MSRP: $80.
+
+## SPECIFICATIONS
+
+ADVENTUREMEDICALKITS.
+
+• Dimensions: 5 x 5 x 4.
+
+## 5 inches
+
+• Weight: 6.
+
+## 2 ounces
+
+## CONTENTS
+
+## • Duct tape (26 inches)
+
+## • Sewing needle
+
+## • Thread
+
+## • Signal mirror
+
+## • Spark-Lite fire starter
+
+## • Tinder-Quick tabs (4)
+
+## • Water purification tablets
+
+## • Nylon cord (10 feet)
+
+## • LED micro-light
+
+## • RSK Mk5 knife
+
+## • Split shot sinkers (2)
+
+## • Water bag (1L)
+
+## • Compass
+
+## • Whistle
+
+## • Emergency blanket
+
+## • Pocket saw
+
+## • Fresnel lens
+
+## • Mini notebook
+
+## • Pencil
+
+## • Aluminum foil
+
+## • Sewing kit
+
+## • Safety pins (7)
+
+## • Waterproof matches
+
+## • Bandages and dressings
+
+## • Eye pads
+
+## • Gloves and hand wipes
+
+## • Trauma pads
+
+## • Pain gels and ointments
+
+## • Wound closure strips
+
+## • CPR face shield
+
+### • Dental filling mixture/pain relief
+
+### • Splinter remover/tick remover forceps
+
+## • Digital thermometer
+
+## • Patient assessment forms
+
+## • Basic OTC medications
+
+## • After bite wipes
+
+## • Waterproof bags
+
+## • Plastic vials
+
+## • Duct tape
+
+## • Splints
+
+## • EMT Shears
+
+## • Pencil
+
+## • Safety pins
+
+## • Scalpel
+
+## • Antiseptic wipes
+
+## • Iodine
+
+## • Scrub brush
+
+## • Syringes
+
+## • Tape
+
+## • Skin Tac Adhesive Wipes
+
+## • Antibiotic Ointment
+
+## INCLUDED MANUALS
+
+• Instructions, Easy Care CPR
+
+• Instructions, Easy Care Wound
+
+• Instructions, Easy Care Medications
+
+## • Instructions
+
+## Easy Care Fracture & Sprain
+
+• Instructions, Easy Care Bleeding
+
+• Comp.
+
+### Guide to Wilderness & Travel Medicine
+
+## ECHO-SIGMA
+
+## COMPACT
+
+## SURVIVAL KIT
+
+MSRP: $49.
+
+ECHO-SIGMA.
+
+The Compact Survival Kit will keep you warm and dry
+
+## SPECIFICATIONS
+
+• Dimensions: 7 x 4 x 3 inches
+
+• Weight: 1 pound
+
+## CONTENTS
+
+## • Compass
+
+## • Whistle
+
+## • Emergency blanket
+
+## • Pocket saw
+
+## • Fresnel lens
+
+## • Mini notebook
+
+## • Pencil
+
+## • Aluminum foil
+
+## • Sewing kit
+
+## • Safety pins (7)
+
+## • Waterproof matches
+
+## • Bandages and dressings
+
+## • Eye pads
+
+## • Gloves and hand wipes
+
+## • Trauma pads
+
+## • Pain gels and ointments
+
+## • Wound closure strips
+
+## • CPR face shield
+
+### • Dental filling mixture/pain relief
+
+### • Splinter remover/tick remover forceps
+
+## • Digital thermometer
+
+## • Patient assessment forms
+
+## • Basic OTC medications
+
+## • After bite wipes
+
+## • Waterproof bags
+
+## • Plastic vials
+
+## • Duct tape
+
+## • Splints
+
+## • EMT Shears
+
+## • Pencil
+
+## • Safety pins
+
+## • Scalpel
+
+## • Antiseptic wipes
+
+## • Iodine
+
+## • Scrub brush
+
+## • Syringes
+
+## • Tape
+
+## • Skin Tac Adhesive Wipes
+
+## • Antibiotic Ointment
+
+## INCLUDED MANUALS
+
+• Instructions, Easy Care CPR
+
+• Instructions, Easy Care Wound
+
+• Instructions, Easy Care Medications
+
+## • Instructions
+
+## Easy Care Fracture & Sprain
+
+• Instructions, Easy Care Bleeding
+
+• Comp.
+
+### Guide to Wilderness & Travel Medicine
+
+## Designed by Doug Ritter
+
+the Pocket Survival Pak Plus manages to fit a ton of gear into a very small package.
+
+The kit includes a water pouch as well as water purification tablets
+
+## a small knife
+
+e, and even an LED • Aluminum foil • Waterproof paper as you figure out your next • Butane lighter
+
+micro-light.
+
+The pouch has • Compass • Whistle move.
+
+As with all of the kits • Magnesium fire starter
+
+welded seams so it will stand up • Fish hooks (4) • Safety pins (4) sold by Echo-Sigma
+
+### it ar- • Duct tape (50 inches)
+
+to some abuse.
+
+• Fresnel lens • Pencil rives fully assembled and • Water purification tablets
+
+ready to go.
+
+### The zippered • Glow sticks (2)
+
+pouch is durable and well- • Live Sport fire starter
+
+made, fitting nicely into the • Waterproof matches
+
+cargo pocket of your pants • Ball point pens (2)
+
+or shorts.
+
+## • Pad of paper
+
+## RED ROCK
+
+## SPECIFICATIONS • Earplugs
+
+OUTDOOR GEAR • Dimensions: 4.
+
+## 8 x 4 x
+
+SURVIVAL KIT 1.
+
+## 5 inches
+
+• Weight: 8 ounces
+
+MSRP: $26.
+
+REDROCKOUTDOORGEAR.
+
+## COM CONTENTS
+
+## • Signal mirror
+
+### Not much bigger than a • Carabiner
+
+tin of mints, this survival kit • Pencil
+
+will easily find a home in a • Waterproof paper
+
+pocket.
+
+## The durable plastic • Matches
+
+container keeps all of your • Flint striker
+
+survival essentials protected • Tea light candle
+
+### and ready to use when • Whistle
+
+needed.
+
+### From the built-in • Pocket knife
+
+signal mirror to the pocket • Fishing kit
+
+knife, this kit is designed to • Safety pins (2)
+
+get you home again.
+
+## • Nylon twine (40 feet)
+
+## • Snare wire (6 feet)
+
+## • Cotton balls (2)
+
+## • Duct tape (1 meter)
+
+## • Wire saw
+
+## • Compass
+
+## • Resealable plastic bag
+
+## ASG GEAR GUIDE SURVIVAL
+
+## ESEE ADVANCED KIT
+
+MSRP: $395.
+
+ESEEKNIVES.
+
+ESEE’s Advanced Kit is a bit larger than
+
+would comfortably fit into a pocket but it still
+
+manages to pack an absolute ton of useful
+
+gear into a small package.
+
+Using this kit, you
+
+could not only acquire food and water but
+
+### cobble together a pretty decent shelter
+
+## sig-
+
+## nal for help
+
+### and keep track of the days and
+
+nights with the included notepad.
+
+### SPECIFICATIONS • ESEE-4P knife
+
+## • Dimensions
+
+## • Water purification tablets
+
+### 7 x 12 x 8 inches • Victorinox Hiker knife
+
+• Weight: 5 pounds • Mess tin w/ handle
+
+## • Compass
+
+## CONTENTS • Keyring
+
+• Snare wire • Water bags (4 each 1-quart)
+
+### • Fishing kit • Survival blanket (2)
+
+### • Tinder Quik tabs • Waterproof matches
+
+### • Whistle • Emergency signal mirror
+
+## • Pocket saw • Fire gel (2)
+
+## • Duct tape • Fire steel
+
+### • Fresnel lens • Prusik rope (28 feet)
+
+### • Survey tape • Carabiner (load rated)
+
+### • Paracord (30 feet) • Headlamp
+
+## • Pencil • AAA batteries
+
+• Ranger bands • Kevlar trip line (100 feet)
+
+### • APALS lights (2) • Sewing needles (2)
+
+## • H Bandage • Trash bag (2)
+
+• Navigation cards • Tarp/bag (60 inches x
+
+## • Survival cards 60 inches)
+
+## • Rite in the Rain notepad
+
+## SPECIFICATIONS
+
+• Dimensions: 7 x 6 x 4 inches
+
+• Weight: 2 pounds
+
+## GUARDIAN MINI
+
+## SURVIVAL KIT
+
+## CONTENTS
+
+## • Food bar
+
+MSRP: $20.
+
+## • Water pouch
+
+WARRIORSSURVIVAL.
+
+## • Glow stick
+
+## • 5-in-1 survival whistle
+
+### The Mini Survival Kit is an ex-
+
+## • Waterproof matches
+
+cellent option for the office, the
+
+## • Flashlight
+
+car, or in the pocket on a quick
+
+## • Emergency poncho
+
+hike.
+
+## It has enough food and
+
+## • Emergency blanket
+
+### water for a day as well as gear
+
+## • Body warmer
+
+### to keep you warm and dry while
+
+## • 16 function knife
+
+you sit tight until help arrives.
+
+## • Sewing kit
+
+## ASG GEAR GUIDE SURVIVAL
+
+## GERBER BEAR GRYLLS
+
+## SPECIFICATIONS • Sewing kit
+
+## ULTIMATE KIT • Dimensions
+
+## 4-1/2 x 5 inches • Flashlight
+
+MSRP: $60.
+
+## 00 • Weight: 4.
+
+## 2 ounces • Signal mirror
+
+GERBERGEAR.
+
+## COM • Fire starter
+
+## CONTENTS • Fire tinder
+
+## • Gerber multi-tool • Cordage
+
+## Finding food
+
+## starting a fire
+
+## signaling for
+
+## • Wire saw • Fishing kit
+
+help, all of these survival tasks and more can
+
+## • Emergency blanket • Whistle
+
+be accomplished with the Bear Grylls Ulti-
+
+• Waterproof matches • Rescue instructions
+
+mate Kit.
+
+### The nylon bag is small enough to fit
+
+### • Snare wire • Survival manual
+
+## almost anywhere
+
+## allowing you to keep sur-
+
+## • Waxed thread
+
+vival essentials where you need them most.
+
+## TOPS KNIVES
+
+## SPECIFICATIONS
+
+RUK-16 • Dimensions:
+
+## 5.5 x 3 x 1.25 inches
+
+MSRP: $70.
+
+• Weight: 6 ounces
+
+TOPSKNIVES.
+
+## CONTENTS
+
+### The RUK (Rural • Latitude N 43 knife
+
+Urban Kit) is, as the • Survival saw
+
+name would imply, just • Steel snap link
+
+### as welcome on the trail • Sail needle
+
+as it is on city streets.
+
+## • Can opener
+
+## The kit is centered • Compass
+
+### around the Latitude N • Fresnel lens
+
+### 43 knife, an excellent • Ferrocerium rod
+
+### small fixed blade de- • Whistle
+
+### signed for real world • Signal mirror
+
+use.
+
+## All of the kit con- • ID card
+
+tents fit into a nicely de- • Fishing hooks
+
+signed black suede • Fishing line (25 feet)
+
+pouch that can be worn • Paracord (3 feet)
+
+## on the belt or hung from
+
+a cord around the neck.
+
+## Car Emergency Kits
+
+## Four-Wheel
+
+## Preparedness
+
+## KEEPING SAFE ON THE OPEN ROAD
+
+## STORY BY BOB CAMPBELL
+
+## M SOL TWO-PERSON
+
+### ost of the time when traveling
+
+## EMERGENCY BIVVY
+
+we are in our vehicle.
+
+## A simple
+
+MSRP: $19.
+
+## commute to work could prove
+
+REI.
+
+to be a disastrous event if something were to
+
+## This is something that
+
+happen.
+
+Earthquakes, floods, or severe
+
+## should always be kept in the
+
+weather can all crop up without a moment’s car or truck
+
+## especially if you
+
+### travel where there is inclement
+
+## notice
+
+so a good car kit can be a lifesaver.
+
+weather.
+
+## Whether struck by
+
+Consider purchasing a kit that can not only heat or cold
+
+## a broken axle
+
+take good care of you with simple solutions the car won’t start
+
+## you may
+
+## need protection from the ele-
+
+(like food and gloves) but that also provides
+
+ments.
+
+At just $20, this is one
+
+help for your car.
+
+It should contain useful item you cannot be without.
+
+## things like jumper cables
+
+## a road reflector
+
+## tire
+
+## SPECIFICATIONS
+
+gauge, and wearable gear to keep you visible • Weight
+
+## 0 ounces
+
+• Dimensions: 84 x 60 inches
+
+and safe at night.
+
+### The kit should be compact • Color
+
+## Orange
+
+enough to fit under your seat or stowed out of • Zip-up closure
+
+the way in your trunk.
+
+## WISE ULTIMATE AUTO KIT
+
+MSRP: $89.
+
+WISEFOODSTORAGE.
+
+When preparing for a road trip or simply
+
+choosing a bag to keep in your vehicle in
+
+## case of emergency
+
+## there are several things
+
+to consider.
+
+You need a mix of food, water,
+
+## first aid
+
+and products to provide warmth.
+
+Among your best bets is the Wise Ultimate
+
+Auto Kit.
+
+## CONTENTS
+
+### • Multi Pocket Deluxe Auto Bag
+
+• Reflector Stripe and Folding Floor Mat
+
+## • Premium Jumper Cables
+
+## • 13-foot Tow Rope
+
+### • Hand Crank Flashlight (rechargeable)
+
+## • 5-in-1 Survival Whistle
+
+## • 37-Piece First Aid Kit
+
+## • Mylar Emergency Blanket
+
+## • Duct Tape
+
+## • Food
+
+## Granola (4 Servings)
+
+## Freeze Dried Bananas
+
+## (8 Servings)
+
+## Hi-Cal Energy Bar
+
+## 4 Water Pouches
+
+## 25 oz.
+
+## each)
+
+## Car Emergency Kits
+
+## ADVENTURE
+
+## MEDICAL KITS
+
+## INCLUDES COMPONENTS
+
+MSRP: $99.
+
+## IN THE FOLLOWING
+
+BROWNELLS.
+
+## CATEGORIES
+
+### • Field Trauma Kit (detachable)
+
+Whether you're bow hunting, hiking,
+
+## • Fracture/Sprain
+
+camping, or fishing, you never know
+
+## • Instruction Manual
+
+when an accident might happen.
+
+## • Medication
+
+### Sportsman Medical Kits are like having
+
+## • Wound/Burn/Blister Care
+
+### Different models are designed for dif-
+
+## TREATS THE FOLLOWING
+
+ferent needs, with equipment, medi-
+
+## INJURIES AND ILLNESSES
+
+cine, and bandages to cover
+
+## • Penetrating Wounds
+
+### everything from fractured bones to
+
+## • CPR
+
+cuts and scrapes, and from burns to
+
+## • Fractures
+
+bug bites.
+
+## • Diarrheal Illness
+
+## • Advanced Wound Cleaning
+
+The Grizzly Series First Aid Kit: The
+
+## • Blister/Burn
+
+### Grizzly is the premier medical kit for
+
+## • Serious Bleeding
+
+### hunting and fishing outfitters and
+
+## • Sprain/Strain
+
+### guides who understand that the great-
+
+## • Muscle Aches/Pain
+
+est trophies are the farthest afield.
+
+With a detachable field trauma kit,
+
+QuikClot® dressing, and the trusted
+
+SWAT-Tourniquet™, this kit has every-
+
+thing you need.
+
+## Enough supplies for
+
+## 14 people for 14 days.
+
+## SPECIFICATIONS
+
+• Dimensions: 11 x 8 x 3 inches
+
+• Weight: 2 lbs 2 oz
+
+## CONTENTS
+
+## • 3600-Calorie Food Bar
+
+## EMERGENCY • Hard Candy (3)
+
+## ESSENTIAL • Aqua Blox (6)
+
+### ROADWISE KIT • Hand and Body Warmer (3)
+
+## • Emergency Poncho
+
+MSRP: $37.
+
+## 49 • Emergency Sleeping Bag
+
+BEPREPARED.
+
+## COM • Strike-Anywhere Matches
+
+## • 5-in-1 Survival Whistle
+
+Keeping an emergency kit in your • Lightstick
+
+automobile gives you confidence • LED Headlamp & Batteries
+
+when the unexpected occurs.
+
+## The • Toilet Paper
+
+items in this emergency kit were • 20 First-Aid Items
+
+specifically selected for storage in • Medium Backpack
+
+your automobile so they aren’t af- • Multi-function Tool
+
+fected by normal temperature • Emergency Tape
+
+ranges.
+
+## This portable emergency kit
+
+### can also serve double duty if you
+
+## evacuate your home during an
+
+emergency, providing you with addi-
+
+### tional on-the-go basics during a cri-
+
+sis situation.
+
+Includes first aid items,
+
+water, sanitation items, light,
+
+warmth, food, and other items.
+
+## ASG GEAR GUIDE SURVIVAL
+
+## AAA WARRIOR ROAD
+
+## EMERGENCY KIT
+
+MSRP: $74.
+
+SAFETYKITSPLUS.
+
+### The Road Warrior AAA Car Emergency Kit
+
+comes with a heavy-duty booster cable and
+
+hand-charged 9 LED Flashlight.
+
+## The included
+
+### AAA Accident Forms & Guidelines provide
+
+basic instruction for many roadside problems.
+
+This premium kit also includes a reflective tri-
+
+### angle which folds for easy storage
+
+## a 250-psi
+
+air compressor w/gauge, standard and
+
+## Phillips screwdrivers
+
+## a stainless steel multi-
+
+## functional tool
+
+## 45 first aid supplies
+
+more.
+
+### All of this comes in a durable AAA
+
+double-sided carry bag.
+
+## CONTENTS • Batteries (3)
+
+• AAA Double-Sided Bag • Pair Cotton Gloves
+
+## • First Aid Guide w/Dimples
+
+### • Sting Relief Pad • Emergency Poncho
+
+• Antiseptic Towelettes (6) • Stainless Steel Multi-Tool
+
+• 3/8” X 1-1/2” Bandage (15) • Emergency Whistle
+
+• 3/4” X 3” Bandage (20) • Roll Duct Tape
+
+• 2” X 2” Sterile Gauze Pad • Phillips Screwdriver
+
+• 1/2” Adhesive Tape Roll • Flat Head Screwdriver
+
+• Accident Forms & Guidelines • 3-Piece Fleece Set w/Cap
+
+• AAA Membership Brochure Gloves And Scarf
+
+### • Booster Cables • Shop Cloth (2)
+
+• Emergency Warning Triangle • Bungee Cord (2)
+
+• Air Compressor w/Gauge • Cable Ties (10)
+
+## • Digital Tire Gauge
+
+## • 9 LED Aluminum Flashlight
+
+## ESG ESSENTIAL
+
+## ULTIMATE CAR KIT
+
+MSRP: $224.
+
+BROWNELLS.
+
+## CONTENTS
+
+The ESG Essentials Kits contain the gear The Car Kit helps you administer first • Adventu
+
+re Medical 1.
+
+## 0 First Aid Kit
+
+and supplies you need should you get stuck aid
+
+charge up personal electronics and • Streamlight Microstream Light
+
+or stranded or if circumstances force to you stay clean.
+
+It even gives you an emer- • Gerber Pocket Survival Tool
+
+to leave one area and temporarily go some- gency light and the tools to accomplish • United Spirit 24-hr Hygiene Kit
+
+where else.
+
+The kits easily stow in your vehi- survival tasks.
+
+## • Collapsible Shovel
+
+cle, and come with their own bags with • UST Volt
+
+hook-and-loop ESG patches for instant iden- • Red Rock Small Paramedic Bag
+
+tification in an emergency.
+
+## • ESG Patch
+
+## ESG ESSENTIALS CAR KIT
+
+## SUMMER UPGRADE
+
+MSRP: $21.
+
+BROWNELLS.
+
+If you are travelling in arid climates like a hot
+
+## desert or a dry frozen land
+
+## you probably
+
+need this summer upgrade that is compati-
+
+ble to any of the kits that Brownells offers.
+
+## CONTENTS
+
+• Lip Balm, Balmshop brand
+
+### • Adventue Medical Kit Natrapel
+
+• Condor out doors mesh.
+
+## Shemagh
+
+## • Lifestraw
+
+## ESG ESSENTIALS TRAVEL KIT
+
+MSRP: $214.
+
+BROWNELLS.
+
+Sometimes buying all you need at once is less expensive
+
+in the long run — this kit is a great choice.
+
+## The ESG Es-
+
+### sentials Travel Kit has the lightweight
+
+## compact gear you
+
+need to make it through any emergency that might occur
+
+while you’re traveling.
+
+### Packaged in an easy-to-carry or-
+
+ganizer bag with a hook-and-loop ESG patch for instant
+
+## identification
+
+the Travel Kit keeps personal devices pow-
+
+## ered up
+
+## lights your way
+
+## and gives you access to safe
+
+drinking water anywhere in the world.
+
+## Everything in the
+
+## Travel Kit is TSA approved
+
+## making it simple to pack with
+
+you on a journey.
+
+## CONTENTS
+
+• Goal Zero Guide 10 Plus Solar Recharging Kit
+
+### • Goal Zero Rechargeable AAA batteries
+
+### • Renovo Trio 3-Stage Water Filter
+
+• Fenix Lighting LD22 Tactical Flashlight
+
+## • Stansport Compass
+
+## • Organizer Bag
+
+## • ESG Patch
+
+## ESG ESSENTIALS
+
+## HYGIENE KIT
+
+MSRP: $29.
+
+BROWNELLS.
+
+Too often we ignore the essential but simple
+
+gear, but hygiene is nearly as important a sur-
+
+vival skill as finding food and water.
+
+Infection,
+
+## disease
+
+dirt, and germs are just a big a killer as
+
+what can befall you in nature.
+
+## This kit supplies a
+
+real need for those in distress.
+
+## CONTENTS
+
+### • United Spirit OK 72-Hour Kit
+
+• Adventure Medical Kits Adventure bath wipe
+
+### • Travel Size UST travel towel
+
+## • 2-Pack Organizer Bag
+
+### • ESG Essentials Hygiene Kit Patch
+
+## REI’S EMERGENCY GO BAG
+
+## CONTENTS
+
+## • High calorie food bars
+
+MSRP: $99.
+
+## • Drinking water packets
+
+REI.
+
+## • Respirator mask
+
+## • First aid kit
+
+## SPECIFICATIONS
+
+## • Light sticks
+
+• Dimensions: 14 x 8 x 7.
+
+## 5 inches
+
+## • Gloves
+
+• Weight: 10 pounds, 2 oz
+
+## • Tube tent
+
+## • Poncho
+
+### The REI Emergency Go Bag is a handy
+
+## • Whistle
+
+collection of gear and supplies that will get
+
+## • Rescue blanket
+
+you through the first day or two after a crisis
+
+## • Sanitation supplies
+
+hits.
+
+It is small enough to be easily carried by
+
+## children if need be
+
+## unlike many of the other
+
+more hefty bug-out bags on the market.
+
+tube tent and rescue blanket will keep you
+
+reasonably warm and dry as you make your
+
+way to your final bug out location.
+
+## READY TO GO WITH ALL THE
+
+## GEAR ON YOUR BACK
+
+## STORY BY JIM COBB
+
+he bug-out bag is a mainstay of disaster
+
+planning.
+
+Often, assembling a BOB is one
+
+of the first steps one takes on the journey to
+
+being better prepared.
+
+## It can be confusing and frus-
+
+## trating
+
+## though
+
+### to try and figure out what you need in
+
+your BOB.
+
+Fortunately, several companies have
+
+stepped up and have done much of the work for you.
+
+While a configured and fully packed BOB isn’t cheap
+
+it can be a great way to get you started.
+
+## Just remem-
+
+ber, no matter how great the BOB might be
+
+## you still
+
+need to customize it to meet your own specific needs.
+
+### EMERGENCY ESSENTIALS’ PERSONAL
+
+### 72 HOUR EMERGENCY KIT WITH MRES
+
+MSRP: $84.
+
+## 95 Unlike many other commer-
+
+BEPREPARED.
+
+COM cially available bug-out bags, the
+
+## Emergency Essentials Personal
+
+SPECIFICATIONS 72 Hour Emergency Kit contains
+
+• Dimensions: enough packaged food to
+
+## 17 x 12.
+
+## 5 x 6.
+
+### 5 inches comfortably last the average
+
+## • Weight
+
+### 15 lbs adult for at least three full days.
+
+## CONTENTS • Tube tent
+
+## • Meals Ready to Eat • Poncho
+
+### (MRE) entrees (9) • Emergency blanket
+
+### • Meals Ready to Eat • Hygiene kit
+
+### (MRE) side dishes (9) • First aid kit
+
+### • MRE heater (9) • 100 hour candle
+
+## • Hard candy (3) • Glow stick
+
+## • Water packets (9) • Whistle
+
+### • Hand and body • Waterproof matches
+
+## warmer (3)
+
+## EMERGENCY ZONE’S
+
+## URBAN SURVIVAL
+
+## BUG-OUT BAG
+
+MSRP: $139.
+
+EMERGENCYZONE.
+
+## SPECIFICATIONS
+
+• Dimensions: 18 x 13 x 7 inches
+
+• Weight: 13.
+
+## 55 lbs.
+
+### The Urban Survival Bug-Out Bag by
+
+### Emergency Zone is designed to sustain
+
+### two people for 72 hours or one person
+
+for twice as long.
+
+## The pack is black and
+
+non-descript, allowing you to blend in
+
+and not call attention to yourself.
+
+## At well
+
+under 15 pounds, the kit is easily man-
+
+### ageable and even includes playing cards
+
+### to keep you occupied when you’re taking
+
+## a break
+
+## CONTENTS • Glow sticks (2)
+
+### • Water packets (12) • Whistle
+
+## • 1L water pouch • Rope
+
+### • Water purification powder • Duct tape
+
+## • Ration bars (2) • Gloves
+
+## • Tube tent • Multi-tool
+
+## • Poncho (2) • Playing cards
+
+### • Hand warmers (2) • Can opener
+
+### • Sleeping bag (2) • Emergency
+
+• First aid kit radio/flashlight/charger
+
+### • N95 masks (2) • Survival manual
+
+## • Hygiene kit
+
+## EMERGENCY
+
+## ESSENTIALS’
+
+## TREKKER II
+
+## TWO-PERSON
+
+## EMERGENCY KIT
+
+MSRP: $99.
+
+BEPREPARED.
+
+## SPECIFICATIONS
+
+• Dimensions:
+
+Large bag – 17 x 12.
+
+## 5 x 6.
+
+## 5 inches
+
+Medium bag – 15.
+
+## 5 x 11.
+
+## 5 x 5 inches
+
+• Weight: 18.
+
+## 7 pounds for both
+
+### bags and all supplies included
+
+### The Trekker II comes with both a
+
+### large daypack and a medium size
+
+pack, spreading the supplies be-
+
+### CONTENTS • Tube tent • 100 hour candle
+
+tween two people.
+
+As you’d expect,
+
+• Food bars (2) • Strike-anywhere matches • Hygiene kit
+
+### those supplies are sufficient to pro-
+
+• Hard candy (12) • Fire starter • First aid kit
+
+vide for both people for a few days.
+
+• Aqua Blox (12) • Whistle with lanyard • N95 mask (2)
+
+### You could store them together or split
+
+• Hand and body warmer (6) • 5-in-1 survival whistle • Emergency tape
+
+them up, keeping one at work and
+
+• Ponchos (2) • Glow stick • AM/FM radio with batteries
+
+one at home.
+
+• Emergency sleeping bags (2) • LED headlamp • Multi-tool
+
+LANSKY’S T.
+
+## APOCALYPSE SURVIVAL KIT
+
+## CONTENTS
+
+MSRP: $199.
+
+99, LANSKY.
+
+COM T.
+
+stands for Tactical Apocalypse Survival Kit.
+
+## While there • Multi-use axe
+
+are tongue-in-cheek references to the zombie apocalypse
+
+## this kit • Multi-tool
+
+is solid and ready for real work.
+
+Unlike most other bug out bags, • Knife
+
+this one comes with all you’ll need to keep your blades sharp
+
+## • Blademedic sharpener
+
+which stands to reason given that Lansky is one of the premier • Puck dual grit sharpener
+
+makers of knife maintenance equipment.
+
+## • LifeStraw water filter
+
+## • Tactical flashlight
+
+SPECIFICATIONS • Firesteel/compass combination tool
+
+## • Dimensions
+
+### 18 x 10 x 6 inches • Paracord bracelet
+
+• Weight: 8 lbs • Survival guide
+
+Prepare.
+
+Survive.
+
+## SELF RELIANCE
+
+## OUTFITTERS’ BASIC
+
+## SURVIVAL PACK
+
+MSRP: $295.
+
+00, SELFRELIANCEOUTFITTERS.
+
+## SPECIFICATIONS
+
+• Dimensions: 17 x 10 x 9 inches
+
+• Weight: 5 lbs.
+
+### The Basic Survival Pack was designed by
+
+well-known survival instructor Dave Canter-
+
+bury.
+
+### The contents closely follow his “10 Cs”
+
+of survival.
+
+### While the kit will require the user
+
+to have training and experience in wilderness
+
+## survival
+
+### those who possess those skillsets
+
+will be set up nicely.
+
+### Tactical Apocalypse Survival Kit
+
+The all-in-one solution for any disaster scenario.
+
+### CONTENTS • Princeton Tec Headlamp
+
+### • Ferrocerium rod • Sail needle
+
+• Mini Inferno fire starters • Suunto compass
+
+• Mora Bushcraft Black knife • Gorilla tape (35 yards)
+
+• Pathfinder 32 oz bottle • All weather blanket
+
+### and cup set • 55 gallon drum liners (2)
+
+• Stainless steel bottle stove • Dry bag (30L)
+
+• Roll of #36 bankline • Tent stakes (4)
+
+## • Cotton bandanas (3)
+
+## ECHO-SIGMA’S
+
+## CONTENTS
+
+### GET HOME BAG • Gerber Dime Multi-tool
+
+## • Fenix LED flashlight
+
+MSRP: $249.
+
+• Hydration system (2.
+
+## 5 liter)
+
+ECHO-SIGMA.
+
+## • Food ration bars (6)
+
+• Drinking water (2.
+
+## 5 liters)
+
+## • Paper napkins
+
+## SPECIFICATIONS
+
+## • Compass
+
+• Dimensions: 16 x 12 x 8 inches
+
+## • Whistle
+
+• Weight: 17 pounds
+
+## • Emergency blanket
+
+## • Butane lighter
+
+While smaller than its cousin, the Echo-
+
+## • Waterproof matches (40)
+
+Sigma Bug Out Bag, the Get Home Bag
+
+## • LiveFire Sport fire starter
+
+is still packed with everything you’ll need
+
+## • Duct tape (50 inches)
+
+to get home if a crisis hits while you’re at
+
+## • Glow sticks (2)
+
+work or otherwise on the road.
+
+## It is de-
+
+## • Ball point pens (2)
+
+### signed to meet your basic needs for a
+
+## • Pad of paper
+
+couple of days as you trek back home.
+
+## • Earplugs
+
+## less than 20 pounds
+
+## it is easily carried by
+
+## • First aid kit
+
+almost anyone.
+
+As packed as it is, there is
+
+## • Tube tent
+
+### still plenty of room for customization
+
+too.
+
+## • Poncho
+
+## • Sleeping bag cocoon
+
+## • Paracord (50 feet)
+
+## • Zip ties (10)
+
+## • Signal mirror
+
+## • Duracell AA batteries (6)
+
+## • Leather work gloves
+
+## • N95 masks (2)
+
+## • Goggles
+
+## REI’S EMERGENCY KIT
+
+## • Hand warmers (2)
+
+MSRP: $165.
+
+REI.
+
+## SPECIFICATIONS
+
+• Dimensions: 14.
+
+## 5 x 10 x 7 inches
+
+• Weight: 14 pounds, 10 oz
+
+REI’s Emergency Kit contains enough sup-
+
+plies to sustain one to two people for up to 3
+
+days.
+
+It is heavy due to the water packets but
+
+not cumbersome.
+
+## The bright yellow pack will
+
+## be easy to spot in the closet
+
+## allowing you to f
+
+ind it quickly when it is time to hit the road.
+
+## CONTENTS
+
+## • Food packages (2)
+
+## • Water packets (20)
+
+## • Crank flashlight/radio
+
+## • Multi-tool
+
+## • Tube tent
+
+## • Ponchos (2)
+
+## • Emergency blankets (2)
+
+## • Hand warmers (4)
+
+## • Dust masks (2)
+
+## • Work gloves
+
+• Collapsible water jug (2.
+
+## 5 gallon)
+
+## • Whistle
+
+## • Glow sticks (4)
+
+## • Emergency candles (2)
+
+## • First aid kit
+
+## • Digital thermometer
+
+## • Nylon rope (50 feet)
+
+## • Waterproof tape
+
+## • Hand wipes (6)
+
+## MAKE READY WITH THE EXPERTS
+
+Now instead of you going to the instructor
+
+the instructor comes to you!
+
+### Regardless of your experience level
+
+Panteao has training courses from over 30 instructors on DVD and HD Online Video that fit your needs.
+
+## Natural disasters
+
+## terrorist hazards
+
+## blackouts
+
+and localized emergencies.
+
+Bad things happen.
+
+It’s a fact of life.
+
+Now be prepared.
+
+PANTEAO PRODUCTIONS, LLC
+
+PANTEAO.
+
+## STREAMING
+
+## Emergency Kits
+
+## Hunkering Down
+
+## GEAR FOR SHELTERING IN PLACE
+
+## BY JIM COBB
+
+## In most emergencies
+
+sheltering in place is the way to go.
+
+### Leaving home should be a last resort
+
+not a primary plan.
+
+## That being the case
+
+it is important to have a stash of emergency supplies on hand.
+
+## In closets
+
+## under beds
+
+and in basements are ideal locations for these kits.
+
+Be sure to add your own tweaks to the gear sets
+
+too, such as favorite long-lasting foods
+
+## entertainment items
+
+and perhaps a blanket or two.
+
+BROWNELLS ESG ESSENTIALS EMERGENCY HOME KIT
+
+MSRP: $299.
+
+BROWNELLS.
+
+## CONTENTS
+
+• Mountain House 72-Hour Emergency Meal Kit
+
+## • Sawyer All-In-One Filter
+
+## • Candles
+
+## • First aid kit
+
+## • Lantern
+
+## • Pocket stove
+
+## • Crank radio
+
+## • Solar panel
+
+## • Batteries (AA and AAA)
+
+## • Headlamp
+
+The ESG Essentials Emergency Home Kit will keep you fed and hydrated for a few days while you monitor the news for updates on the situation.
+
+The included pocket stove will be very welcome on the third day without power and thus without coffee.
+
+All of the supplies fit into the included black tote
+
+which can be easily stored at the back of a closet.
+
+READY AMERICA 5-PERSON SHELTER-IN-PLACE/LOCKDOWN BUCKET
+
+MSRP: $89.
+
+READYAMERICA.
+
+## CONTENTS
+
+## • Food bars (5)
+
+## • Water packets (30)
+
+## • Glow sticks (5)
+
+## • Survival blankets (5)
+
+## • Whistles (5)
+
+## • Nitrile gloves (5 pair)
+
+## • Dust masks (5)
+
+## • Biohazard bags (5)
+
+## • Moist towelettes (15)
+
+## • Toothbrushes (5)
+
+## • Toothpaste packets (5)
+
+## • Mouthwash packets (5)
+
+## • Tissue packs (5)
+
+## • First aid kit
+
+• Dynamo-powered radio/flashlight/charger
+
+This kit is designed to meet the basic needs of up to five people for three full days.
+
+The inclusion of toothbrushes and mouthwash will certainly be appreciated by family members who may find themselves living in close quarters for the duration.
+
+The nitrile gloves will be a big help should a medical crisis arise
+
+as will the biohazard bags.
+
+## ASG GEAR GUIDE SURVIVAL
+
+EMERGENCY ESSENTIALS EMERGENCY KIT BUCKET
+
+## 2 PERSON
+
+MSRP: $74.
+
+BEPREPARED.
+
+Contained in the handy bucket is enough food to feed two people for three days
+
+along with ponchos and sleeping bags for each person.
+
+The candle and glow sticks will help light up the night while conserving your batteries and the first aid supplies will take care of the inevitable bumps and bruises.
+
+## CONTENTS
+
+• Collapsible water container (2.
+
+## 5 gallon)
+
+## • Food bars (2)
+
+## • Hard candy (6)
+
+## • Hand and body warmer (6)
+
+## • Emergency poncho
+
+## • Emergency sleeping bag
+
+## • Tube tent
+
+## • Waterproof matches
+
+## • Glow stick (2)
+
+## • Emergency candle
+
+## • Whistle (2)
+
+## • Pocket radio
+
+## • AAA batteries (2)
+
+## • First aid kit
+
+## • Multi-tool
+
+### ECHO-SIGMA EMERGENCY ROLL AWAY FOR TWO
+
+## CONTENTS
+
+MSRP: $1,199.
+
+ECHO-SIGMA.
+
+## • Tent (3 person)
+
+## • Rolling Load Out Bag XL
+
+## • Backpacks (2)
+
+## • Hydration systems (2)
+
+• Complete Meals Ready to Eat (MREs) (3)
+
+## • Food bars (9)
+
+## • Water (5 liters)
+
+## • Compact survival kits (2)
+
+## • First aid kits (2)
+
+## • Hygiene kit
+
+## • Camp trowel
+
+## • Sleeping bags (2)
+
+## • SOG Power Pliers Multi-Tool
+
+## • Fenix flashlight
+
+## • Fenix headlamp
+
+## • Weather radio
+
+## • Water bottles (2)
+
+## • Stainless steel bottle cup
+
+## • Paracord (100 feet)
+
+## • Zip ties (10)
+
+## • Emergency ponchos (2)
+
+### • Thermal sleeping bag cocoons (2)
+
+## • AA batteries (18)
+
+### • Leather work gloves (2 pair)
+
+## • Hand warmers (2)
+
+## • N95 masks (4)
+
+## • Goggles (2)
+
+## • Waste bags (2)
+
+## • Sewing kit
+
+While it might be designed for relatively easy transport due to the rollaway pack
+
+this kit would be perfect for a couple of people living off the grid for a few days.
+
+It has everything you’ll need and then some
+
+## from food and water to tents
+
+## sleeping bags
+
+and protective gear in case you run into a true hazardous situation.
+
+## Emergency Kits
+
+### GUARDIAN HURRICANE DISASTER KIT
+
+MSRP: $124.
+
+SURVIVALFROG.
+
+## Despite the name
+
+the Hurricane Disaster Kit will serve you well in any number of crisis scenarios
+
+from power outages to blizzards.
+
+### Every piece of this kit is useful
+
+even the bucket itself which doubles as an improvised toilet should the need arise.
+
+## CONTENTS
+
+## • Water pouches (6)
+
+## • Food bar
+
+## • Water purification tablets
+
+## • Water purification bottle
+
+• Dynamo emergency LED lantern with radio
+
+• Waterproof dynamo and solar powered flashlight
+
+## • Emergency candle
+
+## • Glow stick
+
+## • 5-in-1 survival whistle
+
+## • Waterproof matches
+
+## • Bright orange help flag
+
+### • Emergency survival sleeping bags (2)
+
+## • Emergency ponchos (2)
+
+## • 16 function knife
+
+## • Leather palm work gloves
+
+## • N95 masks (2)
+
+## • Paracord (50 feet)
+
+## • Goggles
+
+## • Tarp
+
+## • Quake hold putty
+
+## • Duct tape (10 yards)
+
+## • Hatchet
+
+## • Pack of nails
+
+## • First aid kit
+
+## • Hygiene kit
+
+• Deck of playing cards for entertainment
+
+vides you with some of the most basic human needs
+
+Food, Fire
+
+Shelter and Rescue.
+
+Measures 6"L x 5"W x 2"H.
+
+COMPLETE UNIVERSAL SURGICAL KIT ITEM #10-7688
+
+LENSATIC COMPASS ITEM #02-1405 This is the current U.
+
+Issue with induction damped needle swing and magnifying lens in the sighting bracket for easy dial readings.
+
+The O.
+
+hinged aluminum case has a straight edge calibrated in centimeters.
+
+This compass has degree and millimeter scales and operates in -49ºF to 158ºF temperatures.
+
+Neck lanyard and O.
+
+nylon LC-1 compass/1st aid pouch with ALICE clip included.
+
+Phosphorescent markings (requires external light to become luminous)
+
+VISIT OUR STORE: 435 W.
+
+Alondra Blvd. Gardena, CA 90248
+
+## THINGS TO KNOW
+
+## FIRE
+
+## ASG GEAR GUIDE
+
+What's without fire, you're stuck in the dark with limited amenities.
+
+## In This Section
+
+## Fire creates light
+
+## safety
+
+## and comfort from the cold
+
+### it gives you the ability to cook food
+
+## wash yourself
+
+and protect yourself from predators.
+
+## FIRE STARTERS
+
+79 And while it may seem like an easy thing to start a fire on a sunny
+
+## dry day
+
+rubbing two damp sticks together in the middle of a high-stress survival situation isn’t the way to go.
+
+## Instead
+
+prepare yourself with fire-starting essentials
+
+and you’ll literally have fire at your fingertips at a moment’s notice.
+
+FIRE TINDER: 83
+
+## 78 ASG GEAR GUIDE 2015
+
+## Fire Starters
+
+## Fire
+
+## Guaranteed
+
+## REGARDLESS OF THE CONDITIONS
+
+### THESE TOOLS WILL SPARK A FLAME
+
+## STORY BY MICHAEL D’ANGONA
+
+ire is a force of nature.
+
+Harness its energy and you can stay warm
+
+## cook raw meat
+
+## purify water
+
+and create light to see throughout the night.
+
+Fail to develop a flame and you’ll find yourself cold
+
+## hungry
+
+### exposed to the surrounding wildlife
+
+and essentially blind when the sun sets and blackness of night follows.
+
+The old adage is to have at least five ways to create fire under survival conditions.
+
+### With the variety of tools on the market
+
+that won’t be a problem.
+
+## Your choices are numerous
+
+so be prepared today and you’ll survive the darkness until tomorrow.
+
+POCKET PAL X2 SHARPENER AND SURVIVAL TOOL
+
+MSRP: $14.
+
+SMITHSPRODUCTS.
+
+## SPECIFICATIONS
+
+### • Tapered diamond rod for sharpening
+
+### • Produces thousands of strikes
+
+## • Carbide blades
+
+## • Works when wet
+
+## • Includes emergency whistle
+
+## • Stainless steel striker
+
+## • Easy-to-use
+
+An incredible fire starter and a whole lot more!
+
+The X2 Survival Tool offers a compact fire starter that creates twice the spark of regular fire creating tools.
+
+Its compact and lightweight design allows you to keep this item in your pocket
+
+your bug-out bag or even your car’s glove compartment without sacrificing space for other goods.
+
+In addition to the valuable fire starter
+
+### this tool features two knife sharpeners
+
+## a compass
+
+## an LED light
+
+and a high-pitched survival whistle in case you get lost and need help during your outdoor excursion.
+
+### SWEDISH FIRESTEEL SPECIFICATIONS
+
+## • Fire starter
+
+## • Compass
+
+## • Signal whistle
+
+## • LED light
+
+### • Produces thousands of strikes
+
+• Generates 5,400° F spark
+
+## • Stainless steel striker
+
+## • Easy-to-use
+
+MSRP: $16.
+
+LIGHTMYFIREUSA.
+
+Swedish design and ingenuity were combined to create this reliable fire steel
+
+perfect for lighting just about any type of tinder.
+
+Use the included striker to create an incredibly hot spark.
+
+Don’t worry about wet or elevated conditions because this firestarter works equally well in both.
+
+## Highly useful
+
+this unit will produce up to 3000 sparks for the Scout model and an astonishing 12
+
+## 000 sparks for the Army model
+
+far more than you will hopefully ever need when out in the wild.
+
+An integrated signal whistle in the striker’s handle aids in your recovery if lost outdoors.
+
+The ideal striker for just about everyone!
+
+## ASG GEAR GUIDE 2015 79
+
+## Fire Starters
+
+EDGESPORT ULTIMATE SURVIVAL KIT AND MULTI-TOOL
+
+This Ultimate Kit really does stand up to its name.
+
+## Perfect for outdoorsman
+
+## hunters
+
+### survivalist and the “average guy
+
+” this kit features dozens of key features needed for any emergency situation.
+
+From fishing gear to first aid to signaling devices
+
+everything you need is here.
+
+One of the most important tools is the fire starter — sparks easily and catches to most types of tinder.
+
+MSRP: $49.
+
+SMITHSPRODUCTS.
+
+## SPECIFICATIONS
+
+## • Fire starter
+
+## • Tinder included
+
+### • 30 additional tools/supplies
+
+## • Lightweight and durable
+
+## • Weather resistant container
+
+## • Easy-to-use
+
+## • Compact design
+
+## • Includes safety whistle
+
+## A fire starter
+
+### tinder and food attachment fork
+
+all in one easy-to use kit.
+
+Start by shaving tinder from the 80% resin tinder stick.
+
+Then strike the firesteel and instantly you should have the start of a great campfire.
+
+## When dinner time comes
+
+use the included Grandpa’s Firefork to hold everything from hot dogs to marshmallows over the fire for a tasty and filling treat.
+
+In a survival situation?
+
+This kit works just as well during emergency times
+
+too.
+
+### Start your fire for warmth and light
+
+then attach freshly caught game or fish on the Firefork and your hunger will be appeased in no time.
+
+Perfect for the survivalist or the occasional camper!
+
+## STRIKEFORCE FIRE STARTER
+
+Stocking your bug-out bag?
+
+Don’t forget to include this all-weather high performance striker.
+
+Producing heat three times hotter than matches
+
+### your fire will be created quickly
+
+even under wet or windy outdoor conditions.
+
+Its storage compartment holds your tinder so you are always ready to go when fire is needed.
+
+The included lanyard and bright orange coloring ensures this key survival item is always nearby.
+
+Produces up to 4,000 strikes.
+
+MSRP: $24.
+
+USTBRANDS.
+
+## SPECIFICATIONS
+
+## • Operates in harsh weather
+
+## • Ignites a variety of tinder
+
+### • Storage compartment for tinder
+
+## • Secondary lanyard hole
+
+## • Small and lightweight
+
+### • Protected from unintended sparks
+
+### • Available in safety orange or black
+
+## 80 ASG GEAR GUIDE 2015
+
+## ASG GEAR GUIDE FIRE
+
+## STORMPROOF MATCH KIT
+
+Don’t overlook what has worked for centuries.
+
+## Matches are inexpensive
+
+storable nearly everywhere and are extremely easy to use.
+
+These particular matches also function under wet and windy conditions and even after being submerged in water.
+
+Matches should be at the top of your list when building a survival supply kit.
+
+Their extra long sticks allow longer burning time to ensure your fire will catch and supply you with needed warmth
+
+light and protection.
+
+### Use them to light your camp stove
+
+## lanterns
+
+grill or anything requiring a quick flame.
+
+The Match Kit’s exterior striking surface is replaceable and provides easy lighting even under difficult conditions.
+
+Available in green, yellow and orange.
+
+MSRP: $7.
+
+INDUSTRIALREV.
+
+## SPECIFICATIONS
+
+## • Windproof & waterproof
+
+## • 15-second burn time
+
+## • Easy to light and re-light
+
+## • Extra long design
+
+## • Perfect for campfires
+
+## lanterns
+
+## camp stoves
+
+## • Compact design
+
+## BUSHCRAFT NECKLACE
+
+Now you will never forget your fire-making device.
+
+The Bushcraft Necklace provides you with the ability to create fire using the basic
+
+uncomplicated method of flint and steel.
+
+What’s unusual about this product is that this tool is stored and carried around your neck.
+
+Put it on and forget about it.
+
+## When the time comes
+
+## just take it off your neck
+
+strike the flint and your fire comes to life.
+
+Perfect for just about anyone who ventures outdoors.
+
+Equip everyone in your family or outdoor group with one and you’ll never be caught in a bind.
+
+MSRP: $14.
+
+WAZOOSURVIVALGEAR.
+
+## SPECIFICATIONS
+
+## • Authentic cowhide cord
+
+## • Wearable “flint & steel”
+
+## • Attractive design
+
+## • Custom ceramic scraper
+
+## • Reusable
+
+• Handcrafted in the U.
+
+## BLASTMATCH FIRE STARTER
+
+Rain can put a damper on your fire starting plans and renders most fire creating devices useless
+
+but not this one.
+
+It generates three times the heat of an ordinary survival match so your tinder gets lit fast every time.
+
+### You can use it with just one hand
+
+and even direct the sparks exactly where you want them to go.
+
+Last up to 4,000 strikes.
+
+The safety cover locks in place so there’s no worry about sparks when you don’t want them.
+
+MSRP: $24.
+
+USTBRANDS.
+
+## SPECIFICATIONS
+
+• Easy, one-hand operation.
+
+### • Ignites a wide range of tinder
+
+## • Targets sparks where needed
+
+### • Operates in harsh weather conditions
+
+## • Rotating bar for even wear
+
+## • Small and lightweight
+
+### • Protected from unintended sparks
+
+• Available in safety orange or black.
+
+## ASG GEAR GUIDE FIRE
+
+## MAGNESIUM FIRE STARTER
+
+### Burning at a temperature of over 5
+
+## 400° F
+
+the magnesium fire starter offers you a reliable and convenient method to create a fire while under survival conditions.
+
+The magnesium block in its solid state is not affected by water or temperature so you can carry it during even the harshest weather conditions.
+
+### When it’s time to create a flame
+
+just scratch the block to create a small pile of shavings on top of your tinder.
+
+Use the included strike to ignite the shaving and instantly you’ll have your much-needed fire.
+
+The included chain secures the block to your key ring
+
+belt loop or bug-out bag carrying straps.
+
+MSRP: $5.
+
+COGHLANS.
+
+## SPECIFICATIONS
+
+## • Weatherproof
+
+## • Safe to carry anywhere
+
+## • Simple-to-use
+
+• Burns at over 5,400° F
+
+## • Creates hundreds of fires
+
+## • Included keychain
+
+## SWEDISH FIRE KNIFE
+
+## Split your kindling
+
+shred your tinder and light your fire … all with the same piece of equipment!
+
+MSRP: $29.
+
+EARTHEASY.
+
+## Made in Sweden
+
+this tool utilizes an extra sharp survival knife with a built in firesteel located in its handle.
+
+All it takes is a few strokes across the steel to ignite your tinder and create fire.
+
+The 3.
+
+75-inch stainless steel knife is essential for your survival or camping needs and
+
+## SPECIFICATIONS
+
+## • 12C27 Stainless steel
+
+## • Thermoplastic handle
+
+## • Polypropylene sheath
+
+## • Works well when wet
+
+## • Five color choices
+
+• Weight: 3.
+
+### ounces comes with its signature
+
+Scandinavian grind.
+
+### Perfect for lighting gas stoves
+
+emergency cooking fires and signal fires.
+
+## FRESNEL LENS FIRE STARTER
+
+Utilize this solar fire-starting device as a back up to your primary fire creating gear.
+
+## The Fresnel lens
+
+### also known as a credit card magnifier
+
+creates a focused beam of sunlight directly at your awaiting tinder.
+
+On a bright and sunny day and with a little bit of practice you will create fire easily in the great outdoors.
+
+### These simple devices are compact
+
+## inexpensive
+
+store practically anywhere and are a great addition to the recommended “five ways to create fire” while under survival conditions.
+
+Each lens comes with its own included lens shield with helpful “wilderness” quotes on the case.
+
+MSRP: $1.
+
+BESTGLIDE.
+
+## SPECIFICATIONS
+
+• Size: 2 x 3.
+
+## 25 inches (lens)
+
+• Size: 3.
+
+## 63 x 2.
+
+## 38 case (case)
+
+• Thickness: 0.
+
+## 4 mm
+
+• Weight: 5.
+
+## 5 grams
+
+• Material: optical PVC
+
+• Magnification: 4x
+
+## Tinder
+
+## ASG GEAR GUIDE FIRE
+
+## Sparks To Flames
+
+## MUST-HAVE TINDER KITS
+
+## STORY BY MICHAEL D’ANGONA
+
+## WETFIRE
+
+## B TINDER – 12 PACK
+
+uilding a fire involves more than tossing a match onto a log.
+
+MSRP: $9.
+
+USTBRANDS.
+
+Fire is the product of tinder (starter fuel) and a spark that turns into SPECIFICATIONS
+
+## • Extinguishes instantly
+
+flame.
+
+To many, tinder is a small bunch of
+
+## • Individually packed
+
+twigs, dried grasses
+
+### or leaves in a bundle • Easy to Store
+
+## • Burns longer when wet
+
+with a lot of surface area mixed with pock-
+
+## • 5-year shelf life
+
+ets of air.
+
+Although gathered tinder may be • Weight (per cube)
+
+## 16 ounces
+
+## available
+
+### you can definitely rely on a tinder
+
+Nature doesn’t always present you with perfect
+
+kit.
+
+## They last forever
+
+## light immediately
+
+## conditions
+
+especially when trying to light a fire.
+
+are small enough to carry anywhere.
+
+When WetFire Tinder can help change that.
+
+## These small
+
+cubes provide a safe and efficient means to get your
+
+you need a fire at night to dry your clothes
+
+fire started when out in wet or windy environments.
+
+### in the middle of a sodden forest
+
+you’ll be They amazingly burn longer when wet or moist and re-
+
+quire only a small amount of tinder to accomplish your
+
+glad you had at least one of these tinder
+
+fire starting goal.
+
+### A “must-have” for any survival or
+
+kits in your backpack.
+
+emergency kit.
+
+## THE CASCADES –
+
+## ZOMBIE TINDER KIT
+
+MSRP: $13.
+
+ZOMBIETINDER.
+
+## SPECIFICATIONS
+
+## • Never expires
+
+## • Handmade
+
+## • Unaffected by altitude
+
+## • Long burn time
+
+## • Non-toxic
+
+• Burns at over 1,600 degrees
+
+This kit offers everything needed to light a fire
+
+quickly under both wet and dry conditions.
+
+cluded in its reusable and reflective tin are eight
+
+pieces of “Zombie” tinder — equally a full two
+
+hours of total burn time.
+
+## Three pieces function
+
+under wet conditions and the other five are per-
+
+fect when the sun is shining high above.
+
+## This tin-
+
+### der is amazingly 100% waterproof
+
+## which in itself
+
+makes this item one of your most valuable pieces
+
+of fire-starting equipment in your pack.
+
+## Add the
+
+optional Para-Rod Fire Steel to make a great fire-
+
+starting combination.
+
+## Tinder
+
+## BEAR GRYLLS
+
+This handy tool creates much needed tin-
+
+## TINDERBOX
+
+## der from nearby trees
+
+## fallen branches or
+
+MSRP: $33.
+
+### 00 even scrap wood found scattered across the
+
+GERBERGEAR.
+
+COM landscape.
+
+### Just scrape the wood using its
+
+grater-like steel cutting surface and fire-pro-
+
+SPECIFICATIONS ducing tinder will be created within seconds.
+
+The tinderbox works well with wet wood too
+
+## • C304 stainless cutter
+
+by scraping off the moist top layer and ex-
+
+## • Included signal mirror
+
+## posing the dry
+
+tinder material underneath.
+
+## • Pocket survival guide
+
+## Once shaved
+
+### drop your pile of tinder on your
+
+## • Dry tinder capturing box
+
+### future fire site and light with a match
+
+## lighter
+
+## • Polypropylene cutter cover
+
+or virtually any fire-starting device.
+
+## The Bear
+
+## • Fire-producing essentials
+
+### Grylls Tinderbox comes equipped with a
+
+## magnifying glass
+
+## as an alternate fire-creating
+
+## device
+
+### as well as a signal mirror to help aid
+
+you when lost.
+
+## The handy plastic cover pro-
+
+vides protection when stored in your pocket
+
+or survival bag.
+
+## FIRE LITE AND
+
+## TINDER QUICK TINDER DUST
+
+MSRP: 4.
+
+SURVIVEOUTDOORSLONGER.
+
+COM EARTHEASY.
+
+## SPECIFICATIONS SPECIFICATIONS
+
+### • Waterproof tinder • Lights when wet
+
+• Lights with a single spark • 100% natural
+
+## • Compact design • Non-toxic
+
+## environmentally friendly
+
+## • Produces over 5
+
+### 000 sparks • Made from Montezuma Pine
+
+• One hand operation • Environmentally friendly
+
+• Burns up to 3 minutes • Weight: 1.
+
+## 0 ounce
+
+This combination of sparker and tinder Convenience is the name of the
+
+will get your fire started quickly even game with this tinder.
+
+## Just take a
+
+under the most extreme weather condi- pinch of shavings and add a spark
+
+tions.
+
+The striker features a single-hand from your firesteel to produce instant
+
+operation that allows you to easily aim fire!
+
+## Made from the stumps of fat-
+
+the sparks directly on the included tinder wood pines
+
+## these shaving contain
+
+that burns for an incredible three min- 80% resin content
+
+## which is the se-
+
+utes.
+
+This waterproof tinder lights with a cret behind its long burning time.
+
+single spark.
+
+No more fumbling trying to produces an extremely hot flame
+
+## cru-
+
+## create a steady flame
+
+this combo allows cial to having kindling catch quickly to
+
+you plenty of time.
+
+The valuable duo is help build your fire.
+
+## The savings are
+
+perfect for anyone on the go.
+
+## You can’t non-toxic
+
+## environmentally friendly
+
+afford not to include these items in your and contain no chemical of any kind
+
+supply bag or back pocket.
+
+You never just nature’s natural fire starting ma-
+
+know what you miss until you don’t have terials!
+
+## Comes stored in a handy
+
+it and fire should never be on that list.
+
+plastic holding container.
+
+## EMERGENCY
+
+## TINDER KIT
+
+MSRP: $4.
+
+REI.
+
+## SPECIFICATIONS
+
+## • Bug-out bag essential
+
+## • Lights when wet
+
+## • 5-7 minute burn time
+
+## • Odorless
+
+## • Non-toxic
+
+• Weight: 2 ounces
+
+### This emergency fire starting kit
+
+### utilizes tinder and a simple water-
+
+## proof striker to produce much
+
+### needed fire without the need for
+
+matches, lighters or other fire-creat-
+
+ing devices.
+
+### Each of the included BADDEST BEE FIRE
+
+eight pieces of tinder burns for FUSES (THREE
+
+nearly seven minutes; plenty of time
+
+## 8-PACKS)
+
+### to add fuel and build yourself a roar-
+
+ing blaze.
+
+All these essentials are MSRP: $15.
+
+packed in a flip-top container that POCKETBELLOWS.
+
+### fits perfectly in any sized emergency
+
+kit or even your pants pocket.
+
+## Fire SPECIFICATIONS
+
+## can be a lifesaver
+
+don’t be left out • Low ignition temperature
+
+in the wild without it.
+
+## • 3- to 5-inch flame
+
+## • Compact carrying case
+
+• Length: 1.
+
+## 75 inches
+
+### • 100 percent Organic materials
+
+• Made in U.
+
+### These little babies are named the
+
+## “baddest” fire fuses …
+
+these little nuggets are or offensive odors
+
+burn completely a must-have for everyone.
+
+## every time and when wet
+
+will light without difficulty.
+
+You can’t afford to be without these valuable survival or everyday use items.
+
+Packs easily within your survival bag or your overnight camping pack.
+
+## FOOD
+
+## What’s In This Section
+
+FISHING TACKLE: 89
+
+COMPACT STOVES: 94
+
+ehydration and starvation are killers.
+
+Your survival situation is compounded substantially if you don’t have the ability to find food and water
+
+or if you didn’t bring with you enough of either.
+
+You won’t last more than a few days without water and not much more than a couple of weeks without food.
+
+## In the wilderness
+
+you may be surrounded by food sources and not even know it
+
+most every animal is edible and a vast variety of wild plants are consumable.
+
+It is your job to find them.
+
+## Fishing Gear
+
+EFFECTIVE FISHING GEAR FOR SURVIVAL SITUATIONS
+
+## STORY BY MICHAEL D’ANGONA
+
+ish can be your go-to food source when there’s little else available.
+
+Lakes, streams
+
+## and ponds
+
+## more often than not
+
+### are stocked with an abundance of fish
+
+ready to be cooked over an open campfire.
+
+But first they must be caught.
+
+That’s the tricky part.
+
+## With no equipment
+
+## you’ll have a difficult
+
+if not nearly impossible time obtaining your dinner
+
+so always remember to include in your survival packs the necessary tools to secure an abundant catch.
+
+These fishing items range from a simple spool of line
+
+## a few hooks and a lure or two
+
+to more elaborate set-ups that may include a bowfishing kit
+
+or a complete mini-sized rod and reel perfect for any unexpected survival situation.
+
+## Keep in mind
+
+all survival fishing gear must be easy for you to use
+
+compact enough to fit into your pack or even secured on your body
+
+and should contain a variety of items needed to fish whenever the need may arise.
+
+No unnecessary searching around your camp for makeshift parts should be required.
+
+With some patience and the correct equipment
+
+### your fish dinner will be caught
+
+cooked and ready to satisfy your nagging hunger.
+
+## PACKER ROD
+
+MSRP: $69.
+
+EMMROD.
+
+## Compact
+
+yet powerful enough to tackle the fight of the hooked fish
+
+this rod is a perfect survival fishing item for any bug-out kit.
+
+Its handle is constructed of cast aluminum while its rod is pure stainless steel
+
+ensuring years of heavy-duty worry-free use.
+
+It features a patented quick disconnect for hassle-free breakdown
+
+allowing the unit to be stored easily in your backpack
+
+under your car seat or tucked away with your boating supplies.
+
+Choose from eight colors and five coil preferences.
+
+Eating fish can add much needed calories and protein while under emergency situations
+
+give your chances of catching them a boost with this amazing fishing rod.
+
+## (Reel not included
+
+but available as an add-on.
+
+## BEAR GRYLLS ULTIMATE KIT
+
+MSRP: $59.
+
+GERBERGEAR.
+
+A survival kit and fishing kit — all in one compact unit.
+
+The Bear Grylls kit is perfect to cover most of the basics of survival and is especially useful when you want to add fish to your outdoor dinner menu.
+
+Contained within a waterproof pouch are needed fishing essentials including hooks
+
+## sinkers
+
+### a multi-tool with wire cutters
+
+an all-purpose knife and a pre-wound spool of nylon line.
+
+Quality of goods is top priority with Gerber Gear and these items will hold up to years of outdoor punishment.
+
+They’re guaranteed to do the job when needed.
+
+## SURVIVAL FISHING KIT II
+
+MSRP: $23.
+
+UNCLEFLINTS.
+
+A fishing kit is an absolute necessity when planning for any survival situation.
+
+This kit combines quality items with a sleek
+
+compact and easily storable container.
+
+Over 63 high-quality pieces are contained within its steel hinged-lid box (which doubles as a signal reflector in a pinch)
+
+including both a 20 and 40 lb.
+
+## test lines
+
+## numerous jigs
+
+lures, swivels
+
+and variety of different sized hooks.
+
+## Sinkers
+
+## bobbers
+
+## leaders and even safety pins
+
+razor blades and aluminum foil complete this diverse assembly of goods.
+
+An included instruction sheet explains the basics of fishing knot tying.
+
+This is the perfect kit for temporary survival situations when the presence of nearby fish could make a tasty and filling dinner.
+
+Assembled entirely in the U.
+
+### KINGFISHER BOWFISHING RECURVE BOW KIT
+
+MSRP: $156.
+
+99, 3RIVERSARCHERY.
+
+Not all fishing requires a rod and reel.
+
+### If you have a knack for archery
+
+then this kit is for you.
+
+The Bowfishing Recurve Bow kit includes everything you need to “capture” your dinner when out in the wild.
+
+### The kit includes a multi-use bow
+
+### available in weights of 40-pound
+
+### 45-pound and 50-pound @ 28-inch draw
+
+a front mounting reel with 50 yards of 80-pound test line
+
+and a 31-inch solid fiberglass bowfishing arrow with point.
+
+A Snap Shot rest rounds out this complete set.
+
+Available in an all-season camo finish.
+
+Perfect for beginners or seasoned pros!
+
+## BEGINNERS BOWFISHING KIT
+
+MSRP: $43.
+
+99, 3RIVERSARCHERY.
+
+Brand new to bowfishing?
+
+Start with this kit to get all the basics down before you head out on the water.
+
+This beginner’s kit includes a 5-inch tape-on bowfishing reel with line clip
+
+## fishing line
+
+## an AMS safety slide
+
+a solid fiberglass arrow installed with a Mayham™ fish point and finally an instructional DVD to take you through all the ins and outs of this unique activity.
+
+## When lost in the wild
+
+hunger comes quickly and fish can make a great meal — if you can catch them.
+
+This kit gives you the upper hand and before you know it you’ll have plenty of fish to eat to keep your energy up and replenish those needed lost calories!
+
+Fits both right- and left-handed bows.
+
+Instructions included.
+
+### THE T-SHIRTS OF REAL AMERICAN HEROES
+
+## ONLY $24 A MONTH
+
+HeroTshirtClub.
+
+## SURVIVAL FISHING KIT
+
+MSRP: $27.
+
+99, ROTHCO.
+
+All the basics are included in this compact fishing kit that literally fits in your back pocket.
+
+You will have instant access to 20 feet of 10-pound fishing line
+
+hooks, leads
+
+## jig hooks
+
+## plastic bobbers
+
+## safety pins
+
+and tin sinkers.
+
+Just find a long pole or discarded soda or beer can to wrap your line around and you’re off fishing.
+
+This basic kit allows you the chance to catch fish when near a pond or lake in the wilderness.
+
+A hard-shell metal tin holds all your items securely and away from elements.
+
+Supply one kit for every member of your group to ensure everyone has a fighting chance to fish
+
+eat and ultimately survive.
+
+### Enable Your Ideas with a PCNC Mill
+
+Discerning gun and knife enthusiasts know there’s only one choice in CNC for affordable precision
+
+the Tormach PCNC 1100.
+
+Take aim at your most demanding machining needs - engraving
+
+## milling
+
+## threading
+
+## reaming
+
+and boring.
+
+## Big or small
+
+Tormach hits the bullseye to deliver for you.
+
+## Tormach PCNC 1100 Series 3
+
+### Shown here with starting at $8480
+
+## optional stand
+
+## LCD monitor
+
+## machine (plus shipping) arms
+
+and accessories.
+
+Cantilever GoPro camera Picatinny Mount made by Strikemark
+
+manufactured on a PCNC 1100.
+
+Follow knifemaker John Grimsmo as he makes his own knives with a PCNC 1100 on his web series
+
+## Knifemaking Tuesdays
+
+at www.
+
+tormach.
+
+com/kmt.
+
+www.
+
+tormach.
+
+## com/asg
+
+## SURVIVAL FISHING KIT
+
+MSRP: $11.
+
+VIGILANT-TRAILS.
+
+No fishing pole?
+
+No problem.
+
+The Vigilant Trails fishing kit has everything you need to catch a wide range of fish species while you’re under survival conditions.
+
+This kit is chock full of all your fishing necessities including a pre-wound spool of 150-foot clear 8-pound test
+
+## a lock-back knife
+
+## artificial worms
+
+lures, floats
+
+## leaders
+
+and a variety of different sized hooks.
+
+It fits easily in your BOB, your E.
+
+## (every-day-carry)
+
+and even your glove compartment or back pants pocket.
+
+An included fishing guide helps you identify different species and allow you to use the best techniques available to make a catch.
+
+## Fishing basics
+
+## including tying knots
+
+## making fish traps
+
+## de-scaling
+
+rigging and various baiting methods are detailed for the “average Joe” not familiar with fundamentals of fishing.
+
+## YO-YO FISHING REEL
+
+MSRP: $5.
+
+NOTIFBUTWHENSURVIVALSTORE.
+
+## Economical and easy to use
+
+this Yo-Yo Reel catches fish automatically so you can tend to other survival mat-
+
+## ADVENTURE BRACELET
+
+MSRP: $89.
+
+00, WAZOOSURVIVALGEAR.
+
+Paracord bracelets are abundant from many sources
+
+but none like this!
+
+This Adventure Bracelet is essentially a survival toolbox on your wrist.
+
+## It’s loaded with essent
+
+### essential survival gear including
+
+## a compass
+
+## fire steel
+
+## whistle
+
+## a reflector
+
+surgical tubing and a reliable signal mirror.
+
+Important fishing gear is also a key component to this wrist full of gadgets that can help you gain necessary sustenance and much needed calories by assisting in catching your dinner when out in the wild.
+
+Hooks, fishing line and included weights can help do the job
+
+just add your own bait!
+
+Clip the bracelet around your wrist and you’ll never have to worry about forgetting your fishing kit again.
+
+Black, goldenrod or olive drab colors available.
+
+## Fits small
+
+medium and large wrist sizes.
+
+Just attach the reel to an overhanging tree while you set up camp and before you know it
+
+dinner will be caught.
+
+The unit is constructed of stainless steel not carbon steel that will corrode and wound with 60-pound test rot-resistant nylon line
+
+strong enough to land even the biggest fish.
+
+It features an extremely sensitive trigger that offers quick and fast reaction times and adjusts to various line tensions.
+
+Buy and set several units to increase your odds of a fish dinner during any outdoor excursion or survival situation.
+
+## Stoves
+
+## Keep Your Cool
+
+## STARTING AT $20
+
+MINI STOVES ALLOW YOU TO PREPARE MEALS ANY PLACE
+
+## ANYTIME
+
+## STORY BY HANNAH SPANGENBERG
+
+A hot meal during a critical situation can be just what you need to revitalize and power through to survive.
+
+These mini-stoves help you do just that with multiple fuel types
+
+## weights
+
+and capacities.
+
+## Starting just under $20
+
+these little stoves could save your life with their essential heat
+
+and they’re all light enough to toss into any pack
+
+so there’s no reason to leave them behind on any excursion.
+
+## JETBOIL FLASH COOKING SYSTEM
+
+MSRP: $99.
+
+JETBOIL.
+
+## SPECIFICATIONS
+
+• 1 liter FluxRing cooking cup with cozy
+
+### • Adjustable stainless steel burner
+
+### • Color-changing heat indicator
+
+Jetboil’s Flash Cooking System lights with the click of a button and in just around two minutes provides two cups of boiling water for your favorite hot drink or freeze dried meal.
+
+The cooking cup clips onto the burner to prevent accidental spills and the fuel canister tripod ensures that it won’t tip over unexpectedly.
+
+The insulating cozy features a color-changing heat indicator that lets you know when it’s hot.
+
+## JETBOIL JOULE COOKING SYSTEM
+
+MSRP: $199.
+
+JETBOIL.
+
+## SPECIFICATIONS
+
+• 2.
+
+## 5 L insulated cooking vessel
+
+### • Consistent heat down to 10°F/-12°C
+
+• High 10,000 BTU output
+
+The Jetboil Joule is the complete package when it comes to cooking off-grid.
+
+Even in almost freezing weather conditions
+
+it maintains consistent heat output with its proprietary regulator technology.
+
+## The 10
+
+000 BTU burner allows for rapid boil time but also has excellent simmer control for cooking.
+
+Its FluxRing cup surrounded by an insulated cozy allows you to boil up to 2.
+
+## 5 liters of water.
+
+Useable in any type of weather.
+
+Award winning.
+
+## ASG GEAR GUIDE FOOD
+
+### MSR POCKETROCKET COOKING SYSTEM
+
+MSRP: $39.
+
+MSRGEAR.
+
+## SPECIFICATIONS
+
+• Weight: 3 ounces
+
+• Boil time: 3.
+
+## 5 minutes
+
+## • Tri-sectional Wind Clip
+
+### • Includes hard-shell carry case
+
+The MSR PocketRocket makes cooking on the trail easy
+
+even in rough weather conditions.
+
+Precision flame control goes from torch to simmer as the Wind Clip windshield boosts efficiency — remember
+
+weather conditions are not always ideal.
+
+It serves as a perfect emergency source in the home or away from it.
+
+## Weighing just 3 ounces
+
+it’s hardly noticeable when trekking with your pack and it boils a liter of water in less than three and a half minutes.
+
+## MSR WINDBURNER
+
+MSRP: $129.
+
+MSRGEAR.
+
+## SPECIFICATIONS
+
+## • 1 L
+
+• Boil time: 2.
+
+## 5 minutes
+
+• Weight: 15.
+
+## 25 ounces
+
+The MSR WindBurner is an all-in-one integrated system that is perfect for cooking in the backcountry.
+
+Its components include a secure-locking pot
+
+## mug with cozy
+
+## and cooking system
+
+which fits perfectly inside itself to save room inside your pack.
+
+Despite harsh outside conditions like wind
+
+this stove features an enclosed design with an internal pressure regulator to help your stove burn consistently.
+
+This stove boils one liter of water in any and all conditions to help keep you nourished throughout your outdoor experience.
+
+## BIOLITE CAMPSTOVE
+
+MSRP: $129.
+
+BIOLITESTOVE.
+
+## SPECIFICATIONS
+
+• Weight: 2.
+
+## 06 lbs.
+
+• Boil time: 4.
+
+## 5 minutes (1 liter water)
+
+## • Creates electricity
+
+## USB compatible charging port
+
+In need of some off-grid cooking?
+
+BioLite’s wood-burning CampStove is up for the job.
+
+It creates a smokeless campfire that can cook meals and boil water in minutes.
+
+This stove also creates 2 watts of electricity to charge smartphones
+
+## headlamps and more
+
+which can be essential in life-or-death situations.
+
+An internal fan forces air back into the burn chamber
+
+which allows for a more efficient and cleaner burn.
+
+This top of the line product is essential for any survival situation.
+
+## MSR WINDBURNER
+
+MSRP: $69.
+
+SOLOSTOVE.
+
+## SPECIFICATIONS
+
+• Weight: 9 ounces
+
+## • 304 stainless steel
+
+• Boil time: 8-10 minutes.
+
+### The Solo Stove is not only wood-burning
+
+## it’s compact
+
+## lightweight
+
+durable and environmentally friendly.
+
+## Use sticks
+
+twigs, pinecones and other biomass to fuel this essential stove.
+
+Its ability to use wood as renewable fuel eliminates the need for carrying around a fuel canister in your pack.
+
+Not only are you getting a great meal in the outdoors
+
+you’re also reducing your carbon footprint.
+
+Also available in a larger size (Titan) for $89.
+
+## CLASSIC TRAIL
+
+MSRP: $19.
+
+PRIMUSCAMPING.
+
+## SPECIFICATIONS
+
+## • Manual ignition
+
+• Weight: 8 ounces
+
+## • Nylon storage bag
+
+The Primus Classic Trail stove is one of the most affordable.
+
+It is durable and classic at a great value.
+
+## At 8 ounces
+
+### it’s hardly noticeable in a pack
+
+which is great when trekking through hazardous terrain.
+
+The Classic Trail boils water in only three minutes.
+
+Its crosswise pot support acts as a built-in windscreen
+
+making cooking fast and reliable even in undesirable conditions.
+
+You can’t beat the quality and price of this essential mini-stove to keep you prepared for any survival situation.
+
+## VARGO HEXAGON WOOD STOVE
+
+MSRP: STARTING FROM $59.
+
+VARGOOUTDOORS.
+
+## SPECIFICATIONS
+
+• Available in: 4.
+
+## 1 ounces Ultralight Titanium
+
+• Available in: 7.
+
+## 4 ounces Stainless Steel
+
+## • Hinged fuel/damper door
+
+## • Nylon carrying case
+
+Never worry about carrying fuel in your pack again.
+
+This wood-burning stove folds completely flat
+
+taking up minimal room in your bug-out bag.
+
+Its extremely quick set up process allows you to be cooking in no time once your fire is started.
+
+The Hexagon Wood Stove is available in both stainless steel and ultralight titanium.
+
+Though fire building can be a longer process
+
+wood is a source of renewable fuel that is available almost everywhere.
+
+## OPTIMUS VEGA
+
+Want a stove that will work seamlessly during all four seasons?
+
+The Optimus Vega does just that with its four-season mode
+
+which is perfect for cold temperatures and when fast boil time is needed.
+
+It allows two cooking methods in one stove
+
+also offering its efficiency mode — perfect for precision cooking!
+
+It is known for its extreme stability as it has the lowest profile of all other stoves on the market.
+
+It features a windscreen for cooking in harsh conditions.
+
+Award winning.
+
+MSRP: 94.
+
+OPTIMUSSTOVES.
+
+## SPECIFICATIONS
+
+## • Boil time
+
+as little as 3 min/L in 4 Season Mode and 4.
+
+5 min/L in efficiency mode depending on climate etc.
+
+## • Windscreen and storage bag
+
+• Weight: 6.
+
+## 28 ounces
+
+### SNOWPEAK GIGAPOWER STOVE - AUTO
+
+MSRP: $49.
+
+SNOWPEAK.
+
+## SPECIFICATIONS
+
+• Boil Time: 4 min.
+
+## 48 sec.
+
+• Burn Time: 85 min.
+
+## on high (250 gram fuel)
+
+• Weight: 3.
+
+## 75 ounces
+
+## Compact
+
+## powerful and reliable
+
+this stove is great for any outdoor cooking needs.
+
+In the turn of a knob and the click of button
+
+you’ll be enjoying your favorite freeze-dried meal in minutes.
+
+## Composed of stainless steel
+
+## aluminum and brass
+
+this stove is durable and boils a liter of water in less than five minutes.
+
+Don’t be caught without this extremely light
+
+portable stove in the middle of a disaster.
+
+Also available in Manual model without igniter ($39.
+
+95).
+
+## SOTO MICRO REGULATOR STOVE
+
+MSRP: 69.
+
+SOTOOUTDOORS.
+
+## SPECIFICATIONS
+
+• Weight: 2.
+
+## 6 ounces
+
+## • Stealth igniter
+
+## • Includes case
+
+Trying to survive in sub-freezing temperatures?
+
+Not a problem.
+
+## Even in cold weather
+
+the Soto Micro Regulator Stove will maintain consistent output to heat your meal.
+
+Inside is a proprietary stealth igniter for simplicity and improved ignition.
+
+The large concave burner head contains multiple fire holes and distributes the flame evenly
+
+making it ideal for cooking.
+
+This compact stove weighs only 2.
+
+## 6 ounces
+
+## is easy to operate
+
+and is shock resistant making it an ideal option for cooking in undesirable conditions.
+
+## TOOLS
+
+## What’s In This Section
+
+MULTI-TOOLS: 99
+
+TREKKING POLES: 104
+
+our survival could depend on a simple knife blade or can opener.
+
+## Bare hands are wonderful
+
+but many jobs are outside of the abilities of our digits alone.
+
+Keeping a variety of tools in your emergency packs is essential to survival.
+
+The trick is figuring out which tools to take.
+
+Their usefulness should offset the added bulk and weight.
+
+## Multi-Tools
+
+SWITCHPLIER 2.
+
+With the flick of a button out springs the pliers and handle.
+
+## Made from 420 steel
+
+the silver and black tool contains 12 functions.
+
+MSRP: $64.
+
+SOGKNIVES.
+
+## Perfect SPECIFICATIONS
+
+## • Three-sided file
+
+## • Bolt grip channel
+
+## • Can opener
+
+## • Medium flat screwdriver
+
+## • Needle-nose pliers
+
+IN AN EMERGENCY, THE
+
+## • Ruler
+
+## HANDY MULTI-TOOL IS • Awl
+
+## • Bottle opener
+
+## MUST-HAVE GEAR
+
+## • Hard wire cutter
+
+### • Mutli-angle needle-nose pliers
+
+## STORY BY SIMON MEYERS
+
+## • Philips screwdriver
+
+## • Small flat screwdriver
+
+### The ubiquitous multi-tool comes
+
+## in hundreds of configurations
+
+## • Blasting cap crimper
+
+## POWERASSIST
+
+## EOD
+
+and has quickly replaced the • Bottle ope
+
+## • Full serrated blade
+
+Swiss Army-style pocket knife in utility MSRP
+
+$126.
+
+## • Hard wire cutter
+
+SOGKNIVES.
+
+and function.
+
+## • Needle-nose pliers
+
+## • Ruler
+
+The modern multi-tool was first developed by Tim Leatherman in 1984
+
+and dozens of companies around the world soon followed suit.
+
+Tools with 30 or more different functions are available
+
+and some have branched off to become specialized for a certain type of weapon or for bicycles
+
+et al.
+
+Most survival kits sold these days include a multi-tool
+
+which goes to show if you don’t have one handy in an emergency or for everyday carry
+
+you’re missing out on this very versatile piece of gear.
+
+Whether you need it to fix a rifle in the field
+
+a mechanical issue on a bicycle or something that will stave off the marauding hoards in a SHTF situation
+
+it may just be the perfect tool.
+
+## POWERLOCK S60
+
+MSRP: $114.
+
+SOGKNIVES.
+
+## SPECIFICATIONS
+
+## • Half-serrated blade
+
+## • Three-sided file
+
+## • Blasting cap crimper
+
+## • Bottle opener
+
+## • Hard wire cutter
+
+## • Medium flat screwdriver
+
+## • Philips screwdriver
+
+## • Scissors
+
+## • Wire crimper
+
+## • 1/4 Drive
+
+## • Awl
+
+## • Bolt grip channel
+
+## • Can opener
+
+## • Large flat screwdriver
+
+## • Needle-nose pliers
+
+## • Ruler
+
+## • Small flat screwdriver
+
+## • Wood saw
+
+## With a total of 18 tools
+
+the Powerlock has stainless steel covers that protect the tools while being stored.
+
+The tool weighs 9.
+
+### 6 ounces and is 7 inches long.
+
+## VOODOO TACTICAL MULTI-TOOL
+
+MSRP: $10.
+
+VOODOOTACTICAL.
+
+## SPECIFICATIONS
+
+## • Knife blade
+
+## • Phillips screwdriver
+
+## • Serrated blade
+
+## • Bottle opener
+
+## • Two-sided file
+
+## • Flat screwdriver
+
+## • Can opener
+
+## • Chisel
+
+## • Wood saw
+
+Voodoo’s easy-to-grip and inexpensive multi-tool has 420 stainless steel tools that mount inside the stylish anodized aluminum handles.
+
+It measures only four inches when closed.
+
+## ASG GEAR GUIDE TOOLS
+
+## AR15 TOOL
+
+MSRP: $4.
+
+EARTHEASY.
+
+## SPECIFICATIONS
+
+### • Combination needle-nose pliers
+
+## • Carbide cutter
+
+## • G10 grip plates
+
+## • Carbide glass-breaker
+
+## MP1
+
+### • Carrier scraper • Philips screwdriver
+
+• 10 function bolt/firing MSRP: $4.
+
+## 95 • Flat screwdriver
+
+pin/cam pin scraper EARTHEASY.
+
+• Cotter pin puller The tool’s molded composite G-10 grip is slip-proof
+
+and it comes with a molded sheath.
+
+The tool is 8 ounces and 4.
+
+## 38 inches long (closed).
+
+The pliers are 6450 carbon steel and the knives are 420 stainless steel.
+
+### • Bolt override tool SPECIFICATIONS
+
+### • A1 & A2 front site adjuster • Pliers
+
+• Interchangeable pin punch • Bottle opener
+
+### • Interchangeable • Full serrated blade
+
+## hooked pick • Pry bar
+
+• 8-32 male and female • Large flat screwdriver
+
+### thread receivers • Smooth knife
+
+• 3.
+
+25-inch 440c serrated • Wire strippers/cutter
+
+## Tanto knife
+
+### • 12 high quality bits with bit driver
+
+## • Tap hammer
+
+## SURGE
+
+## • Serrated knife
+
+## • Metal file
+
+## • Saw
+
+MSRP: $4.
+
+## • Spring-action scissors
+
+EARTHEASY.
+
+## • Awl w/thread loop
+
+## • Ruler
+
+## • Can opener
+
+## SPECIFICATIONS
+
+## • Needle-nose pliers
+
+## • Bottle opener
+
+## • Wood/metal file
+
+## • Wire cutters
+
+## • Diamond-coated file
+
+## • Hard-wire cutters
+
+## • Blade exchanger
+
+## • Large bit driver
+
+## • Large screwdriver
+
+## • Wire stripper
+
+## • Small screwdriver
+
+## • Knife
+
+### One of Leatherman’s largest tools
+
+it features the largest tools in the line.
+
+It weighs 12.
+
+## 5 ounces but is only 4.
+
+## 5 inches (closed)
+
+comes either stainless steel or black (shown).
+
+## ASG GEAR GUIDE TOOLS
+
+## GUPPIE
+
+MSRP: $39.
+
+CRKT.
+
+## SPECIFICATIONS
+
+• L.
+
+## flashlight
+
+## • Carabiner
+
+## • Flat screwdriver (2)
+
+## • Phillips screwdriver (2)
+
+## • Knife blade
+
+## • Adjusting wrench
+
+This pint-sized tool comes with a host of features that makes it a great addition to your pack or even as a keychain (also has a pocket clip).
+
+Only 3.
+
+### 5 inches long when closed, it weighs 4.
+
+## 1 ounces.
+
+## JUICE XE6 ZILLA-TOOL
+
+## • Bottle opener
+
+MSRP: 49.
+
+LEATHERMAN.
+
+COM • Wood/metal file CRKT.
+
+## • Diamond-coated file
+
+SPECIFICATIONS • Phillips screwdriver SPECIFICATIONS
+
+• Needle-nose pliers • Medium/large screwdriver • Pliers
+
+• Regular pliers • Small screwdriver • Wire cutter
+
+• Hard-wire cutters • Extra-small screwdriver • Flat screwdriver
+
+### • Wire cutters • Phillips screwdriver
+
+### • Knife It comes in two colors
+
+## • Knife blade
+
+moss and granite (shown),
+
+## • Serrated knife
+
+• Saw with an optional sheath and At 6.
+
+## 5 inches and 7.
+
+## 4 ounces, it
+
+• Spring-action scissors engraving.
+
+The XE6 is 6.
+
+### 9 is a large tool, but the included
+
+• Awl ounces, only 3.
+
+### 25 inches sheath makes it easy to carry.
+
+## Made
+
+• Can opener long (closed) and has 18 from black glass-filled nylon it is
+
+tools.
+
+sparse on tools but high on quality.
+
+## Trekking Poles
+
+Trek carefully.
+
+TREKKING POLES INCREASE STABILITY AND REDUCE THE LIKELIHOOD OF INJURIES
+
+## STORY BY SEAN COOPER
+
+Nothing is worse than a twisted ankle when you’ve still got 10 miles to go to reach safety or rescue.
+
+Painfully hobbling over rocks and roots is no way to travel.
+
+### Since prevention is the best medicine
+
+it is a good idea to keep a set of trekking poles with you.
+
+Not only do they provide immense stability over rough terrain
+
+but they decrease the impact on your knees and feet.
+
+### HEALTHPRO MBC-M3710Q BRAZOS FREE
+
+### ALUMINUM PROFESSIONAL FORM HICKORY
+
+## TREKKING POLE WALKING STICK
+
+MSRP: 34.
+
+HEALTHPROINNOVATIONS.
+
+COM BRAZOS-WALKING-STICKS.
+
+The HealthPro MBC-M3710Q trekking Whether you’re hiking on the
+
+poles are made from duralumin 7075 alu- toughest of terrain or taking a
+
+minum.
+
+Poles are adjustable from 24 to 54 short walk to the nearest water
+
+inches in length.
+
+### It also has a durable tung- source
+
+## you can’t go wrong with
+
+sten carbide tip hidden under the rubber this natural wood walking stick.
+
+foot.
+
+EVA foam hand grips have an er- It combines a rugged
+
+## rustic
+
+## gonomic
+
+contoured shape and are easy to look with above average
+
+hold.
+
+## strength to deliver a walking
+
+stick you can depend on.
+
+## SPECIFICATIONS
+
+• Three section duralumin 7075 SPECIFICATIONS
+
+### aluminum pole • Ideal for hiking on
+
+### • Sure EVA foam grips difficult terrain
+
+### • Wrist strap • Made from hickory
+
+## a strong
+
+### • Quick locking mechanism durable wood
+
+• Trekking baskets for easy • The leather strap at the top
+
+### on-off application to secure grip
+
+• Carbide tip • Made in the USA by master
+
+### • Compass in handle woodworkers
+
+• Removable rubber boot tip • Handcrafted
+
+• Weight: 8.
+
+### 4 ounces • Comes in four sizes
+
+## BLACK DIAMOND PRO SHOCK
+
+## TREKKING POLES
+
+MSRP: $129.
+
+BLACKDIAMONDEQUIPMENT.
+
+The Trail Pro Shock Trekking Poles from Black Diamond have Dual Flick-Lock Pro pole locking mechanism
+
+which means you can effortlessly adjust the length to improve the pole’s strength.
+
+The non-slip foam grip extension makes losing your grip a thing of the past.
+
+## PACEMAKER
+
+## EXPEDITION POLES
+
+MSRP: $47.
+
+PACEMAKERSTIX.
+
+## Whether you’re 5 foot 2
+
+## or 6 foot 4
+
+the PaceMaker Expedition Trekking Poles work for people of different shapes and sizes.
+
+The poles telescope from 27 to 54 inches with the patented flip-lock technology.
+
+## They’re made of durable
+
+lightweight 7075 “aircraft grade” aluminum
+
+weighing only 10.
+
+## 5 ounces each.
+
+## JOURNEY AS POLES
+
+MSRP: $45.
+
+PACEMAKERSTIX.
+
+## These lightweight
+
+telescoping low-profile poles have a special anti-shock feature built in that will come in handy over hard or rough terrain.
+
+That means less wear and tear on your body
+
+and better chances of making your journey safe and fast.
+
+Only 9.
+
+## 5 ounces.
+
+## Extra rubber feet
+
+snow baskets and trail baskets are available to order.
+
+## SPECIFICATIONS
+
+## • Dual-density grip
+
+### • 360-degree padded webbing strap
+
+### • Non-slip foam grip extension
+
+## • Control Shock technology
+
+## • Double FlickLock Pro
+
+### • Interchangeable carbide Tech Tips
+
+### and low-profile trekking baskets
+
+• Dimensions: 27 x 3 x 2 inches
+
+## SPECIFICATIONS
+
+## • Lightweight
+
+### • Made of aircraft grade 7075 aluminum
+
+• Telescoping sections secured with failsafe internal locking mechanisms
+
+### • Enhanced comfort wrist straps
+
+## • Tungsten tips
+
+• Vulcanized “extended life” rubber feet
+
+## • Anti-shock
+
+## SPECIFICATIONS
+
+## • Lightweight
+
+### • Made of aircraft grade 7075 aluminum
+
+### • Fail-safe flip-lock locking mechanism
+
+## • Telescoping
+
+### • 1-year warranty against defect
+
+## BLACK DIAMOND BLACK DIAMOND
+
+## ALPINE CARBON ULTRA DISTANCE
+
+## CORK TREKKING TREKKING POLE
+
+## POLES
+
+MSRP: $159.
+
+MSRP: $159.
+
+## 95 BLACKDIAMONDEQUIPMENT.
+
+BLACKDIAMONDEQUIPMENT.
+
+This versatile trekking pole is ultra-portable with its Z-pole folding design
+
+and ultra-light.
+
+It’s made of lightweight 100% carbon fiber.
+
+Steep terrain will no longer be a problem with the non-slip extension for quick choke.
+
+The extremely lightweight poles will make the most sense for those that need to account for every ounce of survival supplies.
+
+## A sturdy
+
+reliable pole with a cork and carbon makeup ensures that you aren’t carting around unnecessary weight.
+
+The pole’s locking mechanism and natural cork grip allow for an easy grip and a sure footing.
+
+## SPECIFICATIONS
+
+## • Synthetic
+
+## • Lightweight pole
+
+## • Natural cork grip
+
+### • FlickLock Pro adjustable security
+
+### • 100 percent carbon fiber construction
+
+• Dimensions: 27 x 3 x 2 inches
+
+## SPECIFICATIONS
+
+### • Ideal for hiking on difficult terrain
+
+## • Made from hickory
+
+## a strong
+
+## durable wood
+
+• The leather strap at the top to secure grip
+
+### • Made in the USA by master woodworkers
+
+## • Handcrafted
+
+## • Comes in four sizes
+
+BLACK DIAMOND TRAIL ERGO CORK TREKKING POLES
+
+MSRP: $ 119.
+
+BLACKDIAMONDEQUIPMENT.
+
+The Trail Ergo Cork Trekking Poles are all-season poles that work particularly well in warmer weather.
+
+## The natural
+
+cork grips wick away sweat so there’s less chance of chaffing or slip.
+
+Grips are also set at a 15-degree corrective angle for optimal grip position.
+
+The poles come with a number of nice-to-have features
+
+such as non-slip foam grip extension and double flick locks.
+
+## SPECIFICATIONS
+
+### • Natural cork grip wicks away sweat
+
+• 15-degree corrective angle for optimal grip position
+
+• Non-slip foam grip extension and 360-degree padded webbing strap
+
+## • Double FlickLocks
+
+### • Interchangeable carbide Tech Tips
+
+low-profile Trekking Baskets and Powder Baskets
+
+• Dimensions: 28 x 3 x 2 inches
+
+BLACK DIAMOND WOMEN'S DISTANCE FLZ TREKKING POLE
+
+MSRP: $ 129.
+
+BLACKDIAMONDEQUIPMENT.
+
+The Black Diamond Women's Distance FL Trekking Pole is specifically made for a woman.
+
+It features a highly durable trekking pole constructed of aluminum.
+
+It comes with a lightweight EVA foam grip
+
+so you’ll never drop the pole when it matters most.
+
+## SPECIFICATIONS
+
+## • Designed for backpacking
+
+### hiking offering on-the-fly adjustment
+
+## • Made of durable aluminum
+
+• 3-section Z-Pole folding design with speed cone deployment
+
+## • Lightweight EVA foam grip
+
+## • Interchangeable
+
+## non-marking rubber Tech Tips
+
+• Dimensions: 15 x 4 x 2 inches
+
+### CALIFORNIA CUSTOM KNIFE SHOW 2015
+
+Order your copy today!
+
+Tables are available.
+
+Show times: 10am to 4pm daily
+
+Admission: 25 pp. Day Parking: FREE
+
+## Since 1981
+
+this annual show features some of the best knife makers in the world!
+
+Makers craft:
+
+## • Handmade folding
+
+fixed blades and art knives!
+
+• High end tactical folding knives for everyday use!
+
+## • Combat knives for military
+
+## law enforcement
+
+as well as camping and backpacking!
+
+## • One of a kind
+
+handmade kitchen knives for the ultimate chef
+
+both at home and professionals!
+
+### “If you like knives or hand work
+
+you will enjoy this show!
+
+Knife makers are timeless and today’s makers have the best steels and alloys available!
+
+Damascus blades and their decorative patterns are very popular - imagination is the only limitation!
+
+At each show the artisans challenge each other and come up with new interesting designs and materials!
+
+In addition to individual makers the California Custom Knife Show features some of the finest small production companies in the industry
+
+## such as
+
+## Chris Reeve Knives
+
+## ProTech
+
+Strider and Medford Knives!
+
+## These companies do custom
+
+handmade level work at a price between custom and production!
+
+Main Ballroom of the Embassy Suites “Anaheim-South”
+
+## 11767 Harbor Blvd.
+
+## Garden Grove
+
+CA 92840 | 714.
+
+383.
+
+6754
+
+Call us at Embassy Suites rates - King Suite 154
+
+## + tax
+
+1-800-764-6278
+
+www.
+
+engagedmediamags.
+
+www.
+
+PlazaCutlery.
+
+## APPAREL & ACCESSORIES
+
+## What’s In This Section
+
+PARACORD TOOLS: 109
+
+HATS AND SCARVES: 114
+
+Clothing isn’t just to keep us modest.
+
+## It protects us from the sun
+
+cold, rain
+
+## plants
+
+dirt, and insects.
+
+It provides a wearable shelter that not only makes life more comfortable but also keep us safe.
+
+## Without it
+
+life in a survival situation would be much more difficult and unpleasant.
+
+Paracord: Great Lengths of Security
+
+TOUGH PARACORD TOOLS FOR UNEXPECTED DISASTERS
+
+## STORY BY HANNAH SPANGENBERG
+
+Keeping paracord (short for parachute cord) in your bug-out bag or close by is essential for any survivalist.
+
+Who knows what kind of disaster will strike when you least expect it?
+
+You might need to build a shelter or make a tourniquet with the cordage you have on hand.
+
+## Paracord comes in many forms
+
+### from plain hanks and on spools
+
+## to pre-made gear
+
+like bracelets containing essential tools
+
+and handle-wrapped knives.
+
+## However you carry it
+
+be sure to bring plenty with you to use whole
+
+or teased apart so you can take advantage of the individual strands.
+
+### GEAR AID 7-STRAND 550 PARACORD
+
+MSRP: $6
+
+MCNETT.
+
+## SPECIFICATIONS
+
+## • 15 feet type III paracord
+
+## • 550 pound strength
+
+### • 7 interior 100% nylon strands
+
+• Made in the U.
+
+The 7-Strand 550 Paracord by Gear Aid is the weather-withstanding cordage you’ve been searching for.
+
+It’s 15 feet of pure strength with braided strands of 100% nylon
+
+high-strength synthetic fibers that deliver a minimum of 550 pounds breaking strength.
+
+### If you ever find yourself in a pinch
+
+### use this cord to tie down shelters
+
+attach gear to packs or any other imagined use in case of survival.
+
+## PMI 3 MM UTILITY CORD
+
+MSRP: $5.
+
+PMIROPE.
+
+Everyone needs great standard cordage for their bug-out bag.
+
+Pigeon Mountain Industries offers their 3mm Utility Cord in a 15-meter spool allowing meters and meters of use when you need it the most.
+
+## Need to tie down your shelter
+
+hang dry storm-soaked clothes or secure your items in a severe wind-storm?
+
+This utility cord has you covered.
+
+## SPECIFICATIONS
+
+• 3.
+
+## 4 ounces
+
+## • 15 meters
+
+## • Polyester sheath/nylon core
+
+## • 5 colors
+
+GERBER GEAR BEAR GRYLLS PARACORD FIXED BLADE
+
+MSRP: $43
+
+GERBERGEAR.
+
+This Paracord Fixed Blade comes from a line of products that combines Gerber’s craftsmanship and Bear Gryll’s expert survival knowledge
+
+making it a practically perfect product for any disaster.
+
+The 7.
+
+75-inch long knife is wrapped in nearly 4 feet of paracord and weighs less than 6 ounces!
+
+## Until needed
+
+the paracord serves as a comfortable grip
+
+### but when the need to survive strikes
+
+its readily available to use as an emergency splint or to repair a blown snowshoe binding in harsh conditions.
+
+## SPECIFICATIONS
+
+• 7.
+
+## 75 inches long
+
+## • 4 feet of paracord
+
+• 5.
+
+## 75 ounces
+
+### THE PARACORD STORE 550 PARACORD
+
+MSRP: $24.
+
+PARACORDSTORE.
+
+This commercial 550 paracord is manufactured in the U.
+
+by government contractors just like military issue cord.
+
+It has a 7-strand nylon core.
+
+The outer sheath is braided from 32 nylon strands and is rated for 200 lbs.
+
+### The inner strands add 50 pounds each
+
+resulting in a total minimum breaking strength of 550 pounds.
+
+### Stranded and in need of a tourniquet
+
+net, or rope for shelter?
+
+This cord will do it all.
+
+## SPECIFICATIONS
+
+## • 7 strand nylon core
+
+## • 550 pound test
+
+## • 300 feet
+
+## CRKT BOTTLE OPENER PARACORD
+
+MSRP: $12.
+
+CRKT.
+
+Imagine unpacking your campsite on a backpacking trip and opening an ice-cold beer with your Bottle Opener Paracord by CRKT.
+
+### You trek away from your campsite
+
+and then disaster strikes.
+
+## Luckily
+
+this bottle opener features about 6 feet of paracord allowing you to secure your shelter.
+
+## Weighing less than an ounce
+
+this bottle opener is perfect to have on hand for more than just your frosty beverage needs.
+
+## SPECIFICATIONS
+
+## • 6 feet of paracord
+
+## • Carabiner
+
+• Weight: 0.
+
+## 8 ounces
+
+## • Available in black or tan
+
+### SURFCITY M-550 PRO SURVIVAL GRENADE
+
+MSRP: $79.
+
+PARACORD.
+
+Surf City Paracord’s M-550 Pro Survival Grenade is the cream of the crop for your survival paracord needs.
+
+Featuring 26 different survival kit components
+
+this accessory will cover any survival situation in which you may find yourself.
+
+Keep in your home for emergency purposes
+
+or hang from your backpack when trekking off-grid.
+
+From building a fire to catching fish when stranded in tough terrain
+
+this paracord grenade will not only help you survive
+
+but thrive.
+
+## Includes
+
+## LED light
+
+## mini pocket knife
+
+## signal mirror
+
+## fire starting rod and striker
+
+## fishing kit
+
+## bobby pins
+
+## handcuff key
+
+## butterfly sutures
+
+## can opener
+
+matches and much more.
+
+## SPECIFICATIONS
+
+## • 550 pound test
+
+### • 26 survival components included
+
+## • 50 feet of 550 paracord
+
+## UST PARA SURVIVAL LIGHT
+
+MSRP: $29.
+
+USTBRANDS.
+
+Both flashlights and paracord are essential for any bug-out bag.
+
+## For the ultimate prepper
+
+why not a two-in-one?
+
+Ultimate Survival Technologies offers the Para Survival Light that shines a bright 320 lumens and is wrapped in 7 feet of heavy-duty cord.
+
+Its tough anodized aircraft-grade aluminum is both water and impact resistant
+
+making it the perfect beacon to carry with you
+
+even in harsh conditions.
+
+This is an essential item for any emergency survival situation you might encounter.
+
+## SPECIFICATIONS
+
+## • 320 lumens of light
+
+## • Whistle and bottle opener
+
+• Weight: 5.
+
+## 6 ounces
+
+## UST PARA 325 50-FOOT HANK
+
+MSRP: $4.
+
+USTBRANDS.
+
+UST’s affordable 50 feet of paracord is an excellent choice.
+
+Use this 325 pound test cord to tease out core threads for emergency fishing line
+
+## sewing thread
+
+and more.
+
+It comes with a convenient carabiner for easy carry — hook it around your belt loop for easy access or attach to your bug-out bag to be prepared for a survival emergency.
+
+## SPECIFICATIONS
+
+## • 325 pound test
+
+## • Carabiner
+
+## • 100% nylon
+
+• Available in black, camo and orange
+
+SURFCITY ULTIMATE PARACORD SURVIVAL BRACELET
+
+MSRP: $43.
+
+PARACORD.
+
+Need a compact survival kit to keep close by at all times?
+
+Look no further.
+
+The Ultimate Paracord Survival Bracelet features 30 feet fishing line and fishing hooks
+
+## 2x split shot weights
+
+### military grade wire to make a snare
+
+## a compass
+
+fire starting rod and stainless steel charm
+
+and whistle (built into the buckle) all wrapped into 12-16 feet of 550 paracord.
+
+### It also features safety orange 550 cord
+
+protecting its wearer from accidents in the backcountry.
+
+Never go unequipped with this multipurpose bracelet.
+
+## SPECIFICATIONS
+
+## • 550 pound test cord
+
+## • 12-16 feet of paracord
+
+## • Multiple color options
+
+## • Made to order
+
+BISONDESIGNS FLINT AND STEEL SURVIVAL BRACELET
+
+MSRP: $28.
+
+BISONDESIGNS.
+
+## In most survival situations
+
+fire is essential.
+
+With Bison Design’s Flint and Steel Survival Bracelet
+
+never find yourself unprepared for an overnight stay in undesired conditions.
+
+The toggle is a 1-inch flint fire starter and a Sharp Eye Knife is buried inside 15 to 17 feet of 550 paracord.
+
+Stranded for the night?
+
+Unravel this paracord bracelet to string up a shelter and light a fire.
+
+## SPECIFICATIONS
+
+## • Adjustable
+
+## • 15-17 feet of cordage
+
+## • 550 pound test
+
+## RATTLERSTRAP STEALTH BELT
+
+MSRP: 109
+
+## RATTLERSTR
+
+## SPECIFICATIONS
+
+## • 80-130 feet of cordage
+
+## • 550 pound test
+
+## • Titanium buckle
+
+### With Rattler Strap’s Stealth Belt
+
+you will never consider yourself unprepared in an emergency situation again.
+
+With 80-130 feet (dependent on belt size) of cord
+
+the wearer has the ability to make tourniquets
+
+## build shelters
+
+## tie lines
+
+## rappel
+
+or make snares.
+
+The possibilities are practically endless
+
+making it perfect for any dire situation.
+
+This belt is custom made to order with 7 inner strand 550-pound cord.
+
+The titanium buckle is non-magnetic so it can pass through TSA metal detectors undetected.
+
+## Cooling Apparel
+
+## Keep Your
+
+## Cool
+
+## PROTECTIVE GEAR TO
+
+## FIGHT THE HARSH HEAT
+
+## STORY BY SEAN COOPER
+
+### Getting prepared encompasses many areas
+
+one of which is battling the heat.
+
+Staying cool during the summertime or in harsh
+
+## arid climates can be tough
+
+but it doesn’t have to be.
+
+There is a variety of apparel to keep you cool during the hottest season
+
+especially if you are bugging out.
+
+## DRY COOLING VEST
+
+MSRP: $166.
+
+## SPECIFICATIONS
+
+### • Up to 3 days of cooling ability
+
+### • Easy-to-use watertight filling cap
+
+• Lightweight, durable and washable
+
+## • V-neck with zip closure
+
+• Mesh side panels provide additional ventilation and stretch
+
+• Reservoir anti-microbial that inhibits mold growth
+
+## THE ELIXIR BANDANA
+
+## ICE SCARF NECK WRAP
+
+MSRP: $39.
+
+## SPECIFICATIONS
+
+## • Easy to use
+
+### • Simple to clean with ordinary shampoo
+
+## • 4 pack for extra savings
+
+• Colors: black, blue, red, orange
+
+An easy way to stay cool in a harsh environment
+
+these scarves are perfect for any outdoor travel or work.
+
+They serve a dual purpose as a first aid application for bee stings
+
+migraines and sprains.
+
+### The cooling vest is formfitting
+
+## lightweight
+
+and easy to fill/refill vest that will cool you via evaporation
+
+increasing stamina while reducing heat stress and fatigue.
+
+No refrigeration or additional gels or chemicals are required.
+
+Simply fill the vest with 20 ounces of water (from any source) and the vest will begin to leach the water back into the air while keeping itself perfectly dry.
+
+### Made from nylon and polyester fleece
+
+the vest cools the upper torso where a lot of heat accumulates.
+
+## ASG GEAR GUIDE APPAREL
+
+## FROGG TOGGS CD102
+
+## CHILLY DANA COOLING BANDANA
+
+MSRP: $9.
+
+## SPECIFICATIONS
+
+## • Absorbs sweat
+
+## • Wraps around your neck
+
+## • Double-sided embossing
+
+## • Easy to put on
+
+The Chilly Dana is an all-purpose bandana guaranteed to keep you cool.
+
+It’s perfect for summer heat or desert conditions.
+
+It can even be turned into a stylish doo-rag
+
+neck wrap or worn under a helmet.
+
+Available in red or high-visibility green.
+
+### COLUMBIA BORA BORA BOONEY II SUN HATS
+
+MSRP: $30.
+
+## SPECIFICATIONS
+
+## • Nylon
+
+### • Adjustable draw cord with toggle
+
+## • Available in Fossil or Sage
+
+Looking to keep the sun’s harmful rays away from your face?
+
+This is your hat of choice.
+
+It features UPF 50 to block out 98 percent of harmful UVA and UVB rays.
+
+The high-performance Omni-Wick sweatband and mesh venting keeps you cool and dry.
+
+One size fits all.
+
+MILITARY CAMOUFLAGE BOONIE SNAP-BRIM HAT
+
+MSRP: $16.
+
+## SPECIFICATIONS
+
+## • 3-inch brim
+
+• Material : 60% cotton, 40% polyester
+
+### • 4 grommet eyelets with mesh screen
+
+## • Chinstrap with cord lock
+
+It’s hard to find a better hat at this price.
+
+You’ll blend right in with this bucket-style camouflage hat.
+
+This outdoorsman sunhat comes with a 3-inch neck flap for added protection and venting for cooling.
+
+You can even snap one side or both depending on where the sun is shining.
+
+Firm fabric keeps its shape.
+
+## Cooling Apparel
+
+MOUNTAIN HARDWEAR WOMEN'S CHILLER WIDE BRIM HAT
+
+MSRP: $40.
+
+## SPECIFICATIONS
+
+## • Material
+
+## Summit Stretch Plainweave
+
+nylon, elastane
+
+• Cool.
+
+## Q ZERO technology
+
+## • UPF 50 sun protection
+
+## • Adjustable chin draw cord
+
+## • Dark
+
+### glare reducing color under the brim
+
+## • Available in Dark Raspberry
+
+## Grey Ice
+
+## Airstream
+
+## Khaki
+
+This hat keeps your head cool and protects you from the sun’s harmful rays.
+
+Built for both the Sahara and the Himalaya with unparalleled sun protection.
+
+Cool.
+
+Q™ ZERO lining at the forehead continually regulates temperature.
+
+Foam brim keeps hat from sinking in water and maintains its shape.
+
+COLUMBIA WOMEN'S SUN GODDESS II BOONEY HAT
+
+MSRP: $30.
+
+## SPECIFICATIONS
+
+## • Ripstop fabric
+
+### • Adjustable draw cord with toggle
+
+## • UPF 40 sun protection
+
+## • Omni-Wick sweatband
+
+## • Available in White
+
+## Fossil
+
+## Candy Mint or Red Hibiscus
+
+This lightweight woman’s hat offers the utmost in breathability.
+
+The wide brim provides all-around sun protection when it matters most — three inches in the front
+
+extending to four in the back for 360-degree protection.
+
+One size fits all.
+
+SEIRUS INNOVATIONS QUICK SHADE FLOPPY HAT
+
+MSRP: $34.
+
+## SPECIFICATIONS
+
+### • Quick drying lightweight nylon
+
+### • Wide brim for more UV protection
+
+## • Snap up side brims
+
+## • Compact
+
+### • Packable design maintains shape
+
+The Quick Shade is multi-purpose apparel that can be worn as a hat
+
+## neck shade
+
+or face mask.
+
+It boasts an impressive UPF 50 rating.
+
+### Available in tan or white with tan
+
+white or camo neck shields.
+
+COLUMBIA MEN’S SCHOONER BANK CACHALOT III HAT
+
+MSRP: $28.
+
+## SPECIFICATIONS
+
+## • Nylon poplin
+
+### • Adjustable draw cord with toggle
+
+## • Available in Fossil or Sage
+
+## Made from quick-dry poplin
+
+Columbia Men's Schooner Bank Cachalot III Hat offers the utmost in durability and sun protection.
+
+It features UPF 50 sun protection to protect your face from UV rays.
+
+It includes adjustable draw cord and toggle.
+
+One size fits all.
+
+MOUNTAIN HARDWEAR MEN’S CHILLER SHORT SLEEVE SHIRT
+
+MSRP: $85.
+
+## SPECIFICATIONS
+
+• Made of Cool.
+
+## Q ZERO Flex Stretch fabric
+
+## polyester
+
+## elastane
+
+### • Flip-up sun protection collar
+
+## • Zippered chest pocket
+
+Finally, some body wear.
+
+This men’s shirt is made of polyester and elastane to provide relief from the sun.
+
+The shirt’s patented Cool.
+
+Q ZERO provides an immediate and ongoing cooling sensation as sweat is wicked away from your body.
+
+## Wrinkle-resistant
+
+quick-drying and durable fabric.
+
+The seams are even rotated to eliminate chafing while you move.
+
+## INTRODUCING THE
+
+## LAR-300 X-SERIES BLACKOUT
+
+Combining the versatility and power of the .
+
+300 Blackout cartridge with RRA performance-tuned engineering
+
+the LAR-300 X-Series Blackout is built to excel.
+
+EXCLUSIVE:
+
+## RRA Beast Muzzle Brake
+
+LAR-300 BLACKOUT QUICK SPECS:
+
+CALIBER.
+
+## 300 AAC BLACKOUT
+
+WEIGHT: 7.
+
+## 9 POUNDS LENGTH: 36.
+
+VISIT: WWW.
+
+ROCKRIVERARMS.
+
+COM PERFORMANCE TUNED.
+
+## SHELTER
+
+## What’s
+
+## In This
+
+## Section
+
+TENTS: 119
+
+SLEEPING BAGS: 124
+
+It’s not just a place to sleep.
+
+It’s more than a home away from home — it’s a sanctuary
+
+a place you can crawl into at the end of the day and
+
+## for a little while
+
+maybe escape the fear and dangers of your plight.
+
+## Shelters
+
+tents, lean-tos
+
+or a piece of tarp stretched between two trees can provide a wealth of comfort
+
+not just for your body away from the elements
+
+but also for your peace of mind.
+
+## Tents
+
+## Gimme Shelter
+
+## KIFARU MEGATARP
+
+MSRP: $396.
+
+## SPECIFICATIONS
+
+### • Coyote Brown silnylon construction
+
+## • Sewn in door
+
+• Multiple guy line attachments for added room
+
+## • Optional titanium stove
+
+## • 60 mph+ wind resistance
+
+## • 2 pounds 13 ounces shelter
+
+## pole and pegs combined weight
+
+Kifaru gear is the choice for top hunters and military personnel.
+
+## For extended stays outdoors
+
+## especially in wet weather
+
+a heated shelter is a must to dry out clothing and gear.
+
+Known for innovative designs utilizing ultralight fabrics and materials
+
+Kifaru shelters paired with their collapsible stoves are meant for serious use in the backcountry and field.
+
+The Kifaru MegaTarp is the perfect shelter for two people wanting a refuge from the cold.
+
+## With the optional oval stove
+
+temperatures can get to t-shirt-comfortable inside with storms outside.
+
+Cold, rain
+
+snow, frost
+
+dew, even wind
+
+sleet, hail can all be life-threatening doses of Mother Nature.
+
+## Unprotected
+
+your chances of survival goes down considerably.
+
+You need shelter.
+
+You need a quality tent you can rely on.
+
+Buying a tent is much like buying a home.
+
+### Essentially the same questions come up
+
+### how much living space is needed
+
+## what materials is it made of
+
+location will be a factor that will change depending on where the tent is used.
+
+All these considerations make tent selection a difficult task
+
+and with so many different personal tastes
+
+companies have to produce a wide selection of styles to meet everyone’s interests and needs.
+
+## In the following section
+
+we’ve presented some great options that will help you stave off the dangerous elements.
+
+EUREKA TCOP (TENT, COMBAT ONE PERSON)
+
+MSRP: $333.
+
+## SPECIFICATIONS
+
+## • Camouflage fabric
+
+## • Blackout interior
+
+## • Dual vestibules
+
+• Materials meet or exceed government standards
+
+• 2 large drop down doors with mesh windows
+
+## • 6 pounds 6 ounces
+
+Eureka is a well-known tent company with a long-standing history of family-friendly tent designs.
+
+Eureka also produces a number of tents with NSN numbers such as this individual free-standing tent called the TCOP.
+
+Standing only 33 inches tall and 36 inches wide
+
+the TCOP has a very small signature in the woods for discrete camping.
+
+The digital camo finish also helps this solo tent blend into the background where other bright tents stand out.
+
+Equipped with two vestibules for gear storage and blackout fabric to prevent light from bleeding out at night
+
+the TCOP makes for the perfect bug out shelter for the individual.
+
+### NEMO LOSI LS 3 PERSON BACKPACKING TENT
+
+MSRP: $489.
+
+## SPECIFICATIONS
+
+## • 15d sil/PU nylon
+
+## • Light/headlamp pockets
+
+## fill-up stuff sack with
+
+## organizing pockets
+
+### • 49 square feet of living space
+
+### • 24 square feet of vestibule space
+
+### • Locking Jake’s Feet corner tent
+
+## pole anchors
+
+## At only 4 pounds 14 ounces
+
+the Losi LS is super light.
+
+The configuration of the poles creates more space to move about inside the tent.
+
+## Speaking of poles
+
+the ridge poles terminate above the ground creating vertical sidewalls that will eliminate any cramped feelings inside.
+
+The Losi LS sports light pockets inside that diffuse the light from a headlamp or small flashlight and the bottom of the tent features a waterproof bathtub basin to keep you dry in the heaviest of rains.
+
+## From top to bottom
+
+this tent is loaded with fantastic features.
+
+## ASG GEAR GUIDE SHELTER
+
+Poles contribute to good portion of the overall weight of a tent.
+
+The designers over at MSR took poles out of the equation when they designed the Flylite.
+
+Meant to be used with trekking poles commonly carried instead (cut branches could be substituted as well)
+
+the Flylite offers a shelter for up to two people and weighs in at a scant 1 pound 9 ounces.
+
+The Flylite has a large single door providing privacy and insect protection and a vent in the rear to help with condensation.
+
+This minimalist shelter is the lightest MSR has ever created and is perfect for ultralight backpackers.
+
+## MSR FLYLITE
+
+MSRP: $349.
+
+95, CASCADEDESIGNS.
+
+## COM/MSR
+
+## SPECIFICATIONS
+
+## • Mesh side vents
+
+### • Compatible with trekking poles
+
+## • Large main door
+
+• Reinforced patches for corners and peak
+
+### • Large awning with side wings
+
+### • Lightest tent ever made by MSR
+
+## UST BRANDS
+
+TUBE TARP 1.
+
+MSRP: $39.
+
+USTBRANDS.
+
+## SPECIFICATIONS
+
+### • Easy setup with a cord ridgeline
+
+• Comes complete with cordage and tent stakes
+
+• Reflective interior to maximize warmth
+
+• Can be unzipped and used as a flat tarp
+
+## • Durable cloth tie points
+
+### • Inexpensive disaster kit necessity
+
+UST Brands Tube Tarp 1.
+
+### 0 is the perfect choice for an emergency shelter.
+
+More of an emergency shelter than a regular use item
+
+Tube Tarps are still popular for bug-out training and minimalist camps.
+
+The Tube design has been improved with an aluminized interior for reflective ability
+
+attached webbing tie downs as well as a full-length zipper allowing it to be completely unzipped and used as a tarp.
+
+Measuring 39 x 84 x 35 inches set up and weighing 1 pound 12 ounces
+
+the tube tarp provides excellent size-to-weight ratio for an emergency shelter.
+
+## Includes guy lines
+
+steel stakes and stuff sack.
+
+## ASG GEAR GUIDE SHELTER
+
+## REI HALF DOME 2
+
+MSRP: $199.
+
+REI.
+
+## SPECIFICATIONS
+
+## • 4 adjustable ceiling vents
+
+## • Modular design/components
+
+## • Color-coded setup
+
+### • Pockets and interior hang loops
+
+### • 40 Denier Nylon tent body/fly
+
+## • 88 inches x 52 inches
+
+REI’s Half Dome has been a popular backpacking option for years.
+
+Dual doors and vestibules along with plenty of ventilation make this a great tent for the summertime camper.
+
+The Half Dome is also incredibly versatile allowing the user to leave the tent body at home and pack the floor and fly instead for a lighter shelter option.
+
+The Half Dome is available in a half dozen different colors.
+
+Internal organizing pockets and gear loops help keep essential gear conveniently at hand.
+
+Should a larger tent with these features be desired
+
+REI also makes the Half Dome 2 plus with a slightly larger floor plan.
+
+## HILLEBERG JANNU
+
+MSRP: $925
+
+HILLEBERG.
+
+## SPECIFICATIONS
+
+### • Proprietary Kerlon 1200 fabric
+
+## • Adjustable roof vent
+
+### • 4 integrated storage pockets
+
+### • Multiple guy lines for stability
+
+• Single door entrance with large vestibule
+
+### • Used on expeditions worldwide
+
+### When it comes to mountaineering tents
+
+## one name reigns supreme
+
+Hilleberg.
+
+A true 4-season tent capable of withstanding heavy snow loads thanks to double-wall construction and high sidewalls
+
+## the Jannu is a two-person
+
+self-supported dome tent that only weighs 6 pounds 1 ounce.
+
+The Jannu offers 36 square feet of living space and ample ventilation for fairer weather conditions.
+
+The Jannu can be set up in the strongest of winds with clips instead of pole sleeves and the sil nylon construction will stand up to days of extended use.
+
+For the outdoorsman who prefers canvas over nylon and has a penchant for the traditional camp
+
+David Ellis Canvas Products offers traditional Baker style tents for use with an open fire.
+
+Measuring 9 by 9 feet with an 8-foot high center and 3-foot-high rear wall
+
+the Baker tent has a lot of room to live in and can be set up with poles cut from the land.
+
+Optional flooring and mosquito netting can be sewn in upon request.
+
+This tent is made to order and can be customized to the user’s needs.
+
+### DAVID ELLIS CANVAS PRODUCTS BAKER TENT
+
+MSRP: $249.
+
+LLBEAN.
+
+## SPECIFICATIONS
+
+### • Preshrunk army duck cotton canvas
+
+## • Will accept wood stove pipe
+
+## • Zippered mesh door
+
+## • Large modular awning
+
+## JANTZ
+
+knifemaking.
+
+## Pattern 42 Blades
+
+### Pattern 41 Blades Overall Length
+
+## 6 5/8”
+
+## Blade Length
+
+## Pattern 45 Blades
+
+Overall Length: 7 5/8”, Blade Length:
+
+## 2 5/8”
+
+Width: 7/8”
+
+## Thickness
+
+## 1/8” Pattern 44 Blades
+
+Overall Length: 7 3/16”, Blade Length:
+
+CAT.
+
+## # STEEL FINISH PRICE
+
+3”, Width
+
+1”, Thickness
+
+## 1/8” Overall Length
+
+6 1/2", Blade Length: 3 1/4”, Width: 1 1/16”, Thickness: 1/8”
+
+J4298 1095 Satin 24.
+
+## 95 2 1/2", Width: 1 1/8"
+
+## Thickness
+
+## 1/8"
+
+CAT.
+
+# STEEL FINISH PRICE J429K 1095 Black Teflon 24.
+
+## 95 CAT.
+
+## # STEEL FINISH PRICE
+
+J4198 1095 Satin 24.
+
+## 95 J4227 D2 Steel Peened 32.
+
+## 95 CAT.
+
+# STEEL FINISH PRICE J4598 1095 Satin 24.
+
+J419K 1095 Black Teflon 24.
+
+## 95 J4228 D2 Steel Satin 32.
+
+## 95 J4498 1095 Satin 24.
+
+### 95 J459K 1095 Black Teflon 24.
+
+J4127 D2 Steel Peened 32.
+
+## 95 J4207 440C Peened 32.
+
+### 95 J449K 1095 Black Teflon 24.
+
+## 95 J4527 D2 Steel Peened 32.
+
+J4128 D2 Steel Satin 32.
+
+## 95 J4208 440C Satin 32.
+
+## 95 J4427 D2 Steel Peened 29.
+
+## 95 J4528 D2 Steel Satin 32.
+
+J4137 CPMS 30V Peened 42.
+
+## 95 J4257 CPM154 Peened 39.
+
+## 95 J4428 D2 Steel Satin 29.
+
+## 95 J4507 440C Peened 32.
+
+J4138 CPMS 30V Satin 42.
+
+## 95 J4258 CPM154 Satin 39.
+
+## 95 J4407 440C Peened 29.
+
+## 95 J4508 440C Satin 32.
+
+J4189 Damascus Random 79.
+
+## 95 J4289 Damascus Random 69.
+
+## 95 J4408 440C Satin 29.
+
+## 95 J4589 Damascus Random 79.
+
+CAT.
+
+# SHEATH PRICE CAT.
+
+# SHEATH PRICE CAT.
+
+## # SHEATH PRICE
+
+KT410 Kydex 12.
+
+## 95 CAT.
+
+# SHEATH PRICE KT440 Kydex 12.
+
+## 95 KT450 Kydex 12.
+
+KT455 Kydex Belt Clip 9.
+
+## 95 KT420 Kydex 12.
+
+## 95 KT455 Kydex Belt Clip 9.
+
+## 95 KT455 Kydex Belt Clip 9.
+
+USA MADE PARACORD $6.
+
+## 99/100 ft - 40 colors
+
+Pattern 31 Blades Handles for Pattern 31 Rivets/Pattern 31
+
+Torx Screw for use with the G10 textured handles.
+
+Corby rivets for use with Dymondwood handles for flush surface.
+
+Contoured and textured handles for Pattern 31.
+
+Cut slightly oversized for proper fitting.
+
+More handle options are offered online.
+
+## Handles Smooth No Texture
+
+## Overall length 7 5/8”
+
+## Blade Length 3”
+
+Blade Width CAT.
+
+# COLOR MATERIAL PRICE CAT.
+
+## # TYPE ALLOY PRICE
+
+### 1 1/8”, Blade Thickness 5/32”.
+
+Bolster holes 1/8”, D3149 B.
+
+/Cocobolo Dymondwood 16.
+
+## 95 B451 Torx Brass 3.
+
+Handle Holes 1/4”, Thong Hole 1/4”.
+
+Cryo Tempered.
+
+G3119 Black G10 18.
+
+### 95 Bolsters /Pattern 31 A461 Torx Stainless 4.
+
+G3129 Red G10 18.
+
+### 95 260 brass and 410 stainless
+
+with B660 Corby Brass 3.
+
+CAT.
+
+# STEEL FINISH HRC PRICE Handles Basket Weave Texture matching pins.
+
+3/16" for G10 A624 Corby Stainless 3.
+
+J3128 D2 Satin 59-61 31.
+
+## 95 CAT.
+
+# COLOR MATERIAL PRICE contoured handles and 1/4" for CAT.
+
+## # THICK ALLOY PRICE
+
+J3148 154CM Satin 58-59 35.
+
+## 95 M3131 Red Micarta 16.
+
+## 95 Dymondwood handles.
+
+K311 3/16" Brass 6.
+
+J3198 1095 Satin 57-58 24.
+
+## 95 G3111 Black G10 21.
+
+## 95 K316 3/16" Stainless 6.
+
+J319K 1095 Black 57-58 24.
+
+## 95 G3131 Orange G10 21.
+
+## 95 K313 1/4" Brass 6.
+
+J3189 Damascus Etched 58-60 99.
+
+## 95 G3151 Olive Drab G10 21.
+
+## 95 K314 1/4" Stainless 6.
+
+Pattern 36 Blades Handles for Pattern 36
+
+## Pins/Pattern 36
+
+Handle pins available in brass and stainless steel.
+
+## (Set of 6)
+
+Contoured and textured handles for Pattern 36.
+
+Cut slightly oversized for proper fitting.
+
+More handles options are offered online.
+
+## Overall length 7 5/8”
+
+## Blade Length 3”
+
+Blade Width CAT.
+
+# COLOR MATERIAL PRICE CAT.
+
+## # SIZE ALLOY PRICE
+
+1”, Blade Thickness 1/8”.
+
+Bolster holes 1/8”, Handle D3653 B.
+
+/Rosewood Dymondwood 16.
+
+## 95 B826 1/8” Brass 1.
+
+Holes 1/8”, Thong Hole 1/4”.
+
+Flat ground.
+
+E3601 Birdseye Maple Wood 24.
+
+## 95 A846 1/8” Stainless 1.
+
+## Bolsters are oversized
+
+for proper E3672 Desert Ironwood Wood 39.
+
+## 95 CAT.
+
+### # THICK ALLOY PRICE Bolsters/Pattern 36
+
+CAT.
+
+# STEEL FINISH HRC PRICE fitting and include two matching K363 3/16" Brass 6.
+
+J3628 D2 Satin 59-61 31.
+
+## 95 pins.
+
+Dry fit bolsters and polish Handles Basket Weave Texture K364 3/16" Stainless 6.
+
+J3638 CPMS30V Satin 59-61 41.
+
+### 95 front edges before peening it to the CAT.
+
+## # COLOR MATERIAL PRICE
+
+J3608 440C Satin 57-58 31.
+
+## 95 blade.
+
+G3610 Black G10 21.
+
+J3698 1095 Satin 57-58 24.
+
+## 95 G3630 Orange G10 21.
+
+J369K 1095 Black 57-58 24.
+
+## 95 G3650 Olive Drab G10 21.
+
+J3689 Damascus Etched 58-60 74.
+
+## 95 G3660 Blue/Black G10 21.
+
+## Gift Certificates
+
+Knife Projects and other knifemaking supplies online.
+
+Download our digital catalog online or request our full color catalog for only $5.
+
+## 00 postage.
+
+JANTZ * KNIFEMAKING.
+
+## COM * 800-351-8900
+
+## Sleeping Bags
+
+## Rest Assured
+
+## STARTING AT $28
+
+THESE SLEEPING BAGS PROVIDE WARMTH AND COMFORT
+
+## STORY BY SEAN COOPER
+
+Disasters have no schedule.
+
+Whether you have to bug out in the middle of an East Coast winter or a Southern California summer
+
+you need a comfortable bed.
+
+The sleeping bags in this section will provide that.
+
+## Starting at $28
+
+you won’t break the bank to get that comfort.
+
+Rest assured.
+
+### SNUGPAK JUNGLE COLEMAN BIG GAME BIG
+
+## BLANKET AND TALL SLEEPING BAG
+
+MSRP: 109.
+
+SNUGPAK.
+
+COM COLEMAN.
+
+## SPECIFICATIONS SPECIFICATIONS
+
+• Temperature rating 45° F • 100% Cotton
+
+## inside and out
+
+• Travel soft insulation • For temperatures 0° F to 5° F
+
+• Compresses down to • Fits heights up to 6 ft.
+
+## 5 in.
+
+### 6 x 6 inches • Full-cover construction keeps
+
+### • Lightweight everything in place
+
+## • Comes w
+
+ith compression sack • Thermolock System eliminates heat loss through the zipper
+
+• Dimensions: 2 x 64 x 76 inches
+
+• Dimensions: 14 x 20.
+
+## 33 x 13.
+
+## 75 inches
+
+### The Jungle Blanket is a lightweight
+
+less bulky choice for those who are fans of blankets and poncho liners.
+
+Made with windproof and water resistant material
+
+it’s also treated with Antibacterial and anti-microbial agents.
+
+Coleman is a name you can trust.
+
+This large-size sleeping bag is tough and comfortable
+
+keeping you warm even at 0° F.
+
+The canvas outside and cotton inside makes you feel like you’re at home
+
+even in the middle of tough surroundings.
+
+The extra-large size means it will fit just about anyone — a wise choice for limited space packing.
+
+## GRIZZLY 2-PERSON SLEEPING BAG
+
+MSRP: STARTING AT $119.
+
+BLACKPINESPORTS.
+
+## SPECIFICATIONS
+
+### • Available in 3 temperature ratings
+
+## • Available in ripstop fabric
+
+• Two-layer offset construction for superior warmth
+
+## • Microfiber insulation
+
+## • Oversized draft tubes
+
+## • Heavy-duty double zippers
+
+## • Dimensions
+
+### 90 inches long x 65 inches wide
+
+### When hunkering down with a companion
+
+this sleeping bag makes the most of shared body heat and comfort.
+
+Zippers run along both sides for maximum convenience and an attached hood keeps in warmth and keeps out critters.
+
+Double layers of microfiber filler keep you warm but not too hot.
+
+Available in 3-different temperature ratings and in ripstop fabric type as well.
+
+COLEMAN BIG BASIN EXTREME WEATHER SLEEPING BAG
+
+MSRP: $89.
+
+COLEMAN.
+
+## SPECIFICATIONS
+
+## • 100% polyester
+
+• For heights up to 6 ft.
+
+## 6 in.
+
+• Diamond ripstop polyester cover and polyester liner
+
+## • Wide bottom
+
+### • Semi-sculpted hood helps lock in heat
+
+• Dimensions: 10.
+
+## 25 x 10.
+
+## 25 x 15 inches
+
+This extreme cold-fighter keeps warmth in with its semi-sculpted hood and the special quilting keeps the filling from shifting.
+
+The draft tube blocks heat loss through the zipper and fleece adds extra warmth near the feet.
+
+It even opens up near the bottom in the event the weather warms.
+
+US MILITARY MODULAR SLEEP SYSTEM COMPONENT SLEEPING BAG
+
+MSRP: $76.
+
+TENNIERINDUSTRIES.
+
+## SPECIFICATIONS
+
+• Sewn insulation does not migrate in the bag.
+
+it he sleeping bag for you.
+
+## It’s light and compact
+
+perfect for easy transportation.
+
+• Anatomically designed foot box contains twice the insulation as the bag.
+
+• Sewn-in, quilted chest collar
+
+COLEMAN TRINIDAD WARM-WEATHER SLEEPING BAG
+
+MSRP: $28.
+
+COLEMAN.
+
+## SPECIFICATIONS
+
+## • Made of 100% polyester
+
+### • For temperatures 40° F to 60° F
+
+### • For heights up to 5 feet 11 inches
+
+## • Machine washable
+
+• Fiberlock construction prevents insulation from shifting
+
+• Dimensions: 9 x 9 x 17 inches
+
+### BROWNING CAMPING McKINLEY SLEEPING BAG
+
+MSRP: $159.
+
+BROWNINGCAMPING.
+
+## SPECIFICATIONS
+
+• Oversized hooded rectangle sleeping bag
+
+• 2-layer construction to get rid of cold spots
+
+### • Insulated chest and zipper baffle
+
+## • Nylon ripstop exterior
+
+## • Microfiber liner
+
+• Dimensions: 32 x 13.
+
+## 5 x 13.
+
+## 5 inches
+
+If you’re looking to stay “warm as toast
+
+” look no further than the Browning Camping McKinley sleeping bag.
+
+This heavy duty oversized sleeping bag provides 2-layer of warmth to eliminate those pesky cold spots.
+
+The bag’s contoured hood keeps the warmth from escaping on those cooler summer nights.
+
+The Coleman Trinidad Warm-Weather Sleeping Bag is a sleeping bag that more than lives up to its name.
+
+Sleep in comfort even when it’s 40° F outside.
+
+This sleeping bag is ideal for tall women and averaged size men
+
+it’s perfect for those up to 5 feet 11 inches in height.
+
+## TETON SPORTS XXL
+
+MSRP: $69.
+
+TETONSPORTS.
+
+## SPECIFICATIONS
+
+## • 100% Polyester
+
+• Soft flannel liner for extra warmth and comfort
+
+### • Two-sided zipper guards prevent snags
+
+## • Integrated
+
+## adjustable mummy-style hood
+
+• Shoulder baffle and a full length zipper draft tube keep warmth in and cold out
+
+• Dimensions: 13 x 13 x 19 inches
+
+## This ultra-light
+
+ultra-large sleeping bag provides plenty of room and plenty of warmth for its weight.
+
+The soft flannel lining provides extra warmth and comfort — important in harsh conditions — and the mummy-style hood keeps out cold and light so you can get the rest you need to fight the elements.
+
+### TETON SPORTS FAHRENHEIT MAMMOTH
+
+MSRP: STARTING AT $161.
+
+TETONSPORTS.
+
+## SPECIFICATIONS
+
+### • 100% luxurious cotton flannel lining
+
+## • Durability and comfortable
+
+• SuperLoft Elite 4-channel hollow fiber insulation
+
+• Holds as many as 2 adults and 1 child or 4 young children
+
+## • Shoulder and zipper baffles
+
+## • Adjustable mummy style hood
+
+• Dimensions: 94 x 62 inches
+
+This oversized queen size cotton flannel-lined sleeping bag holds up to two adults and one child.
+
+Mummy style hood keeps heat from escaping.
+
+Dual layer offset seams distribute fill evenly and eliminate chilly spots.
+
+The 100% luxurious cotton flannel lining adds durability and comfort.
+
+### LEDGE SPORTS SCORPION SLEEPING BAG
+
+MSRP: $68.
+
+LEDGESPORTS.
+
+## SPECIFICATIONS
+
+### • Dobby Diamond 250T Ripstop Shell
+
+## • Softech II 210T Liner
+
+## • Hibernate Extreme
+
+## Micro Denier
+
+### Continuous Filament Fiber Fill
+
+## • External Pocket
+
+• Drawstring Hood Closure with Barrel Locks
+
+• Dimensions: 6.
+
+## 2 x 12.
+
+## 5 x 6.
+
+## 6 inches
+
+Ledge Sports Scorpion Sleeping Bag is made of comfortable and durable material.
+
+It can dish out all the punishment you can take and be around for years to come.
+
+It’s compact and light as a feather.
+
+## AD INDEX
+
+## 99/100FT
+
+Genuine 550 lb.
+
+## Type III
+
+1/8" diameter nylon Paracord with a seven strand core.
+
+## 46 colors available.
+
+## ADVERTISER PAGES
+
+## AirForce Airguns 121
+
+## Camillus & Western Cutlery 15
+
+## European American Armoury 93
+
+## Food 4 Patriots 131
+
+Guncrafter Industries, LLC 103
+
+Hero T-Shirt Club/Fructhman Marketing 91
+
+Jantz Supply 123, 129
+
+## Kershaw Knives 39
+
+## Lansky Sharpeners 69
+
+## LifeStraw 113
+
+Major Surplus & Survival 2, 76-77
+
+## Micro 100 Tool Corporation 3
+
+## Panteao Productions 71
+
+### Plaza Cutlery Custom Knife Shop 107
+
+## Rock River Arms 117
+
+### Tactical Night Vision Company 53
+
+## TOPS Knives 132
+
+## Tormach LLC 91
+
+## US Carbuertion 127
+
+## Walther Arms 25
+
+## Yankee Hill Machine Co 33
+
+## PC101 White
+
+## PC102 Black
+
+## PC103 Olive Drab
+
+## PC104 Coyote Brown
+
+## PC106 Charcoal
+
+## PC108 Burgundy
+
+## PC116 Colonial Blue
+
+## PC118 Neon Orange
+
+## PC123 Solar Orange
+
+## PC127 Desert Camo
+
+## PC128 Foliage Camo
+
+PC140 G.
+
+## Camo
+
+## PC139 Galaxy
+
+## Side Release Buckles
+
+Durable plastic side release buckles used to complete paracord bracelets.
+
+Available in 3/8” and 5/8” sizes.
+
+PC993 3/8” (PKG OF 10) Assorted 6.
+
+PC995 5/8” (PKG OF 10) Assorted 6.
+
+## JANTZ
+
+1-800-351-8900
+
+knifemaking.
+
+“The rewards of the wild and the rewards of the survivor go to those who can dig deep
+
+and, ultimately
+
+to the guy who can stay alive.
+
+## --Bear Grylls
+
+“Gun Control?
+
+You Won’t Believe Their Plans For Food…”
+
+BAD NEWS.
+
+THIS IS FRANK’S NEW LINE OF SURVIVAL FOOD
+
+There are some people out there who think folks like you and me are a bit “odd”.
+
+Food4Patriots is an incredible value.
+
+This high quality survival food is without that the other guys use to pad their survival meals.
+
+They are made and a fraction of the price that other brands charge.
+
+They think having a stockpile ready for a disaster is something they can put off for “someday” or “never”.
+
+But those people are just hiding their heads in the sand.
+
+They are dead wrong -- and you are dead right.
+
+grade sturdy stuff and can stand up to the crazy things that happen in a crisis.
+
+This food has a shelf life of up to 25 years
+
+so you have complete the situation is way too serious not to do (ci
+
+d:68)
+
+### you can store them anywhere in your
+
+stockpile the wrong foods, you could be
+
+setting your family up to starve.
+
+It sounds extremely covert too.
+
+Protect your family in a crisis with 25-year
+
+harsh, but the truth is too many people with shelf life survival food from getfood46.
+
+good intentions are making critical mistakes You can make these meals in less
+
+with their food stockpiles.
+
+than 20 minutes; just add boiling water,
+
+this because this is the #1 item to hoard
+
+## MISTAKES LIKE…
+
+think they taste as good or better today.
+
+Buying MREs (meals ready to eat) with EVER had.
+
+choices, including breakfast, lunch and
+
+### a 5 year shelf life (depending on where
+
+## you buy them
+
+they could be nearly same boat as the brainwashed masses who
+
+same thing day-in and day-out.
+
+## expired)…
+
+## and your family asks
+
+## “What are we going to
+
+## Frank has come up with some
+
+Getting gross survival foods that taste impressive FREE bonuses that are
+
+powerless.
+
+### terrible and are so high in salt
+
+MSG ONLY available to folks who purchase
+
+### and preservatives you could clog your
+
+arteries and get yourself sick… served basis.
+
+## For example
+
+my 3-month But what if you decide right now to secure
+
+## kit came with 5
+
+400+ heirloom survival your food stockpile instead?
+
+## Just imagine
+
+seeds, 4 hard copy books
+
+## an 11-in-1 (cid
+
+## )
+
+survival food kits.
+
+LOG-ON NOW TO GETFOOD46.
+
+facebook.
+
+## com/TOPSknivesofficial

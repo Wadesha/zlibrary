@@ -1,0 +1,3682 @@
+# Statistical Mechanics A Set Of Lectures Advanced Books Classics Richard P Feynman Z Library
+
+> 来源文件：pre_Statistical_Mechanics_A_Set_Of_Lectures_Advanced_Books_Classics_Richard_P_Feynman_Z_Library.txt
+> 字符数（约）：249232
+> 语言：mix
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Frontiers in Physics DAVID PINES, Editor Volumes in Preparation: E. R. Caianiello COMBINATORICS AND RENORMALIZATION IN QUANTUM FIELD THEORY R. P. Feynman STATISTICAL MECHANICS PHOTON-HADRON INTERACTIONS E. Pake and Estle A SET OF LECTURES ON THE PHYSICAL PRINCIPLES OF ELECTRON PARAMAGNETIC RESONANCE. Second Edition, completely revised, reset, and enlarged R. P. FEYNMAN California Institute of Technology Notes taken by R. Kikuchi and H. A. Feiveson, Hughes Aircraft Corporation Edited by Jacob Shaham, University of Illinois, Urbana THE BENJAMIN/CUMMINGS PUBLISHING COMPANY, INC.
+
+ADVANCED BOOK PROGRAM Reading, Massachusetts London · Amsterdam · Don Mills, Ontario · Sydney · Tokyo
+
+CONTENTS
+
+Editor's Foreword xi Statistical Mechanics: Set of Lectures xiii
+
+## Chapter 1 Introduction to Statistical Mechanics
+
+## 1.1 The Partition Function
+
+## Chapter 2 Density Matrices
+
+## 2.1 Introduction to Density Matrices
+
+## 2.2 Additional Properties of the Density Matrix
+
+## 2.3 Density Matrix in Statistical Mechanics
+
+## 2.4 Density Matrix for a One-Dimensional Free Particle
+
+## 2.5 Linear Harmonic Oscillator
+
+## 2.6 Anharmonic Oscillator
+
+## 2.7 Wigner's Function
+
+## 2.8 Symmetrized Density Matrix for N Particles
+
+## 2.9 Density Submatrix
+
+## 2.10 Perturbation Expansion of the Density Matrix
+
+## 2.11 Proof that F :S Fo + (H - Ho)>o
+
+## Chapter 3 Path Integrals
+
+## 3.1 Path Integral Formulation of the Density Matrix
+
+## 3.2 Calculation of Path Integrals
+
+## 3.3 Path Integrals by Perturbation Expansion
+
+## 3.4 Variational Principle for the Path Integral
+
+## 3.5 An Application of the Variation Theorem
+
+## Chapter 4 Classical System of N Particles
+
+## 4.1 Introduction
+
+## 4.2 The Second Virial Coefficient
+
+## 4.3 Mayer Cluster Expansion
+
+## 4.4 Radial Distribution Function
+
+## 4.5 Thermodynamic Functions
+
+## 4.6 The Born-Green Equation for n2
+
+## 4.7 One-Dimensional Gas
+
+## 4.8 One-Dimensional Gas with Potential of the Form e-1xl
+
+## 4.9 Brief Discussion of Condensation
+
+## Chapter 5 Order-Disorder Theory
+
+## 5.1 Introduction
+
+## 5.2 Order-Disorder in One-Dimension
+
+## 5.3 Approximate Methods for Two Dimensions
+
+## 5.4 The Onsager Problem
+
+## 5.5 Miscellaneous Comments
+
+## Chapter 6 Creation and Annihilation Operators
+
+## 6.1 A Simple Mathematical Problem
+
+## 6.2 The Linear Harmonic Oscillator
+
+## 6.3 An Anharmonic Oscillator
+
+## 6.4 Systems of Harmonic Oscillators
+
+## 6.5 Phonons
+
+## 6.6 Field Quantization
+
+## 6.7 Systems of Indistinguishable Particles
+
+## 6.8 The Hamiltonian and Other Operators
+
+## 6.9 Ground State for a Fermion System
+
+## 6.10 Hamiltonian for a Phonon-Electron System
+
+## 6.11 Photon-Electron Interactions
+
+## 6.12 Feynman Diagrams
+
+## Chapter 7 Spin Waves
+
+## 7.1 Spin-Spin Interactions
+
+## 7.2 The Pauli Spin Algebra
+
+## 7.3 Spin Wave in a Lattice
+
+## 7.4 Semiclassical Interpretation of Spin Wave
+
+## 7.5 Two Spin Waves
+
+## 7.6 Two Spin Waves (Rigorous Treatment)
+
+## 7.7 Scattering of Two Spin Waves
+
+## 7.8 Non-Orthogonality
+
+## 7.9 Operator Method
+
+## 7.10 Scattering of Spin Waves-Oscillator Analog
+
+## Chapter 8 Polaron Problem
+
+## 8.1 Introduction
+
+## 8.2 Perturbation Treatment of the Polaron Problem
+
+## 8.3 Formulation for the Variational Treatment
+
+## 8.4 The Variational Treatment
+
+## 8.5 Effective Mass
+
+## Chapter 9 Electron Gas in a Metal
+
+## 9.1 Introduction: The State Function
+
+## 9.2 Sound Waves
+
+## 9.3 Calculation of P(R)
+
+## 9.4 Correlation Energy
+
+## 9.5 Plasma Oscillation
+
+## 9.6 Random Phase Approximation
+
+## 9.7 Variational Approach
+
+## 9.8 Correlation Energy and Feynman Diagrams
+
+## 9.9 Higher-Order Perturbation
+
+## Chapter 10 Superconductivity
+
+## 10.1 Experimental Results and Early Theory
+
+## 10.2 Setting Up the Hamiltonian
+
+## 10.3 A Helpful Theorem
+
+## 10.4 Ground State of a Superconductor
+
+## 10.5 Ground State of a Superconductor (continued)
+
+## 10.6 Excitations
+
+## 10.7 Finite Temperatures
+
+## 10.8 Real Test of Existence of Pair States and Energy Gap
+
+## 10.9 Superconductor with Current
+
+## 10.10 Current Versus Field
+
+## 10.11 Current at a Finite Temperature
+
+## 10.12 Another Point of View
+
+## Chapter 11 Superfluidity
+
+## 11.1 Introduction: Nature of Transition
+
+## 11.2 Superfluidity—An Early Approach
+
+## 11.3 Intuitive Derivation of Wave Functions: Ground State
+
+## 11.4 Phonons and Rotons
+
+## 11.5 Rotons
+
+## 11.6 Critical Velocity
+
+## 11.7 Irrotational Superfluid Flow
+
+## 11.8 Rotation of the Superfluid
+
+## 11.9 A Reasoning Leading to Vortex Lines
+
+## 11.10 The Transition in Liquid Helium
+
+EDITOR'S FOREWORD
+
+The problem of communicating in a coherent fashion the recent developments in the most exciting and active fields of physics seems particularly pressing today. The enormous growth in the number of physicists has tended to make the familiar channels of communication considerably less effective. It has become increasingly difficult for experts in a given field to keep up with the current literature; the novice can only be confused. What is needed is both a consistent account of a field and the presentation of a definite "point of view" concerning it. Formal monographs cannot meet such a need in a rapidly developing field, and, perhaps more important, the review article seems to have fallen into disfavor. Indeed, it would seem that the people most actively engaged in developing a given field are the people least likely to write at length about it.
+
+FRONTIERS IN PHYSICS has been conceived in an effort to improve the situation in several ways. First, to take advantage of the fact that the leading physicists today frequently give a series of lectures, a graduate seminar, or a graduate course in their special fields of interest. Such lectures serve to summarize the present status of a rapidly developing field and may well constitute the only coherent account available at the time. Often, notes on lectures exist (prepared by the lecturer himself, by graduate students, or by postdoctoral fellows) and have been distributed in mimeographed form on a limited basis. One of the principal purposes of the FRONTIERS IN PHYSICS Series is to make such notes available to a wider audience of physicists.
+
+It should be emphasized that lecture notes are necessarily rough and informal, both in style and content, and those in the series will prove no exception. This is as it should be. The point of the series is to offer new, rapid, more informal, and it is hoped, more effective ways for physicists to teach one another. The point is lost if only elegant notes qualify.
+
+A second way to improve communication in very active fields of physics is by the publication of collections of reprints of recent articles. Such collections are themselves useful to people working in the field. The value of the reprints would, however, seem much enhanced if the collection would be accompanied by an introduction of moderate length, which would serve to tie the collection together and, necessarily, constitute a brief survey of the present status of the field. Again, it is appropriate that such an introduction be informal, in keeping with the active character of the field.
+
+A third possibility for the series might be called an informal monograph, to connote the fact that it represents an intermediate step between lecture notes and formal monographs. It would offer the author an opportunity to present his views of a field that has developed to the point at which a summation might prove extraordinarily fruitful, but for which a formal monograph might not be feasible or desirable.
+
+Fourth, there are the contemporary classics—papers or lectures which constitute a particularly valuable approach to the teaching and learning of physics today. Here one thinks of fields that lie at the heart of much of present-day research, but whose essentials are by now well understood, such as quantum electrodynamics or magnetic resonance. In such fields some of the best pedagogical material is not readily available, either because it consists of papers long out of print or lectures that have never been published.
+
+The above words, written in August, 1961, seem equally applicable today (which may tell us something about developments in communication in physics during the past decade). Richard Feynman contributed two lecture note volumes ("Quantum Electrodynamics" and "The Theory of Fundamental Processes") to the first group of books published in this series, and, with the publication of the present volume and the forthcoming publication of "Photon-Hadron Interactions," it gives me special pleasure to welcome him back as a major contributor to FRONTIERS IN PHYSICS.
+
+## ACKNOWLEDGMENTS
+
+This volume is based on a series of lectures sponsored by Hughes Research Laboratories in 1961. The notes for the majority of lectures were taken by R. Kikuchi and H. A. Feiveson.
+
+Others who took notes for one or more of the lectures were F. L. Vernon, Jr., W. R. Graham, Jr., R. W. Hellwarth, D. P. Devor, J. R. Christman, R. N. Byrne, and J. L. Emmett.
+
+The notes were edited by Dr. Jacob Shaham who also prepared the Index.
+
+《统计力学：一系列讲座》一书将引起所有关注统计力学教学与学习的人的兴趣。除了对统计物理的基本概念进行优雅的介绍外，讲义还描述了费曼教授在该领域做出的许多原创而深刻的贡献（从极化子理论到液氦理论）。
+
+大卫·派恩斯伊利诺伊州厄巴纳 1972年6月
+
+## 第1章
+
+统计力学导论
+
+## 1.1 配分函数
+
+统计力学的关键原理如下： 如果一个处于平衡的系统可以处于N个状态之一，那么该系统具有能量Eₙ的概率为(1/Q)e^{-E_n/kT}，其中k是玻尔兹曼常数，T是温度。Q称为配分函数。
+
+如果我们将|i⟩视为能量为Eᵢ的状态，A是物理可观测量的量子力学算符，则该可观测量的期望值为： ⟨A⟩ = Σᵢ ⟨i|A|i⟩ e^{-Eᵢ/kT} / Q 这一基本定律是统计力学的顶峰，整个学科要么是将此原理应用于各种情况而从该顶峰滑下，要么是攀登至基本定律被推导、热平衡概念和温度T被阐明的地方。我们将开始这段攀登。
+
+如果一个系统与给定“温度”下的热库耦合非常弱，如果耦合是无限的或未精确知悉，如果耦合已持续很长时间，并且所有“快”的过程已经发生而所有“慢”的过程尚未发生，则该系统被称为处于热平衡。
+
+例如，放置在热库中的封闭气体最终会侵蚀其外壳；但这种侵蚀是一个相对缓慢的过程，并且在壳体被明显侵蚀之前的某个时间，气体将处于热平衡。
+
+考虑系统的两个具有相同能量的不同状态，E_r = E_s。那么系统处于状态r和状态s的概率是相等的。因为如果系统处于状态r，任何极其微小的扰动都会导致系统进入一个本质上具有相同能量的不同状态，例如s。
+
+记住E_r ≫ E₀。如果对于考虑范围内的E，确实有(d/dE) ln Ω(E) ≈ β 几乎为常数，那么我们可以说： P(E_r)/P(E_{r'}) = e^{-β(E_r - E_{r'})} 因此 P(E_r) ∝ e^{-βE_r} 归一化要求 P(Eᵢ) = (1/Q)，其中 Q = Σᵢ e^{-βEᵢ}。
+
+刚刚证明基本定律是相当合理的。但对于怀疑β(E)恒定性的人，让我们考虑一些例子： 首先，假设热库由N个独立的简谐振子组成。热库的能量为 H = Σᵢ (Pᵢ²/(2m) + mωᵢ²Xᵢ²/2)
+
+其中N非常大，并且我们忽略零点能。能量小于F的状态有多少个？如果N=2，我们得到图1.2所示的情况。对于N=2，状态数与三角形的面积成正比。
+
+因为两个具有相同能量的状态是等概率的，所以一个状态具有能量E的概率仅是能量的函数；P = P(E)。
+
+现在考虑一个系统S，与一个大热库H处于平衡（见图1.1）。因为经验表明，平衡系统的行与热库的性质无关，所以可以假设热库极大且其总能量E很大。此外，热库可能的能级可以假设是准连续的。
+
+设热库的能级记为Hᵢ。这些能级准连续分布。设S的能级记为Eⱼ。则对于所有i,j，有Hᵢ ≫ Eⱼ。加上热库的系统可以被视为一个新的系统T，它也处于热平衡。
+
+T具有确定的能量，但该能量并非精确固定（热库与外界接触），因此我们可以假设能量可能在范围E₀ ± δ内。如果δ足够小，我们可以假设热库的能级在范围Hᵢ ± δ内是等可能的。设Ω(Hᵣ)是热库H中围绕能量Hᵣ每单位能量范围的状态数。
+
+系统S处于能量为Eᵣ的状态的概率P(Eᵣ)，与S具有该能量的方式数成正比。换句话说，它与Ω(E₀ - Eᵣ)成正比，即允许T在范围E₀ ± δ内具有能量的H的状态数。然后 P(Eᵣ)/P(E_{r'}) = Ω(E₀ - Eᵣ)/Ω(E₀ - E_{r'}) ≈ e^{lnΩ(E₀ - Eᵣ) - lnΩ(E₀ - E_{r'})} ≈ e^{β(E_{r'} - Eᵣ)} = e^{-β(Eᵣ - E_{r'})} 即P(Eᵣ) = C e^{-βEᵣ} (C为常数)。
+
+这里的基本假设是，控制概率的系统在所考虑的区域内具有准连续谱，并且没有特征能量。对于这样的系统，如果ε₁和ε₂是两个能量值，那么由于能量仅定义到一个附加常数，我们应该有 f(ε₁) = f(ε₁ + ε)
+
+其中f(ε)是概率。定义f(ε₂ + ε)，我们得到 f(ε₂) = g(ε₂ - ε₁)
+
+g(ε₁)g(ε₂ - ε₁) = g(0)g(ε₁ - ε₂ + ε)
+
+其唯一解为g(ε) = g(0)e^{-βε} (β为常数)。
+
+因此，g(ε) = g(0)e^{-βε}。
+
+图1.1 系统S和热库H中的能级。
+
+图1.2 两个独立简谐振子能量小于F的状态。
+
+对于大的N， 1 = 能量每振子 = W/2 F ≈ (N/2) [ nx², ny², nz², + nX² + ... + nZ² ] ？其中W为能量每振子。
+
+或者，我们可以回到方程 P(Eᵣ)/P(E_{r'}) = Ω(E₀ - Eᵣ)/Ω(E₀ - E_{r'})
+
+并直接代入N。我们得到 Ω(E₀ - Eᵣ) ∝ (E₀ - Eᵣ)^{N-1} Ω(E₀ - E_{r'}) ∝ (E₀ - E_{r'})^{N-1} 因此 P(Eᵣ)/P(E_{r'}) ≈ [ (E₀ - Eᵣ)/(E₀ - E_{r'}) ]^{N-1} → e^{-(Eᵣ - E_{r'})/W} 当 N → ∞。
+
+通过我们之前的方法，我们得到相同的β值。
+
+作为第二个例子，考虑热库由盒中N个粒子组成的情况。
+
+H = P₁²/(2m) + P₁₂²/(2m) + P₂²/(2m) + P₂₂²/(2m) + ... + PN²/(2m) + PN₂²/(2m)
+
+假设周期性边界条件， Pₓ = (2πℏ/L) × (整数)
+
+其中L是盒子的边长。然后 H = (π²ℏ²/(2mL²)) [ nx², ny², + nz², + nX² + ... + nZ² ]
+
+如果有两个粒子，我们将利用图1.3计算β。
+
+能量小于F的状态数大致等于半径为F(Lm/πℏ)的圆的面积。对于N个粒子，我们必须使用3N维的超球面，并且能量小于F的状态数与 (F)^{3N} 成正比。因此β大致是常数，等于1/(tW)，其中W为能量每粒子。
+
+考虑两个独立的系统SA和SB，能级为Aᵢ和Bⱼ。系统SA具有能量Aᵢ的概率为 P_A(A_i) = (1/Z_A) e^{-βA_i} 现在将SA和SB松散地接触放置，并考虑组合系统S_T = SA + SB，组合能量T_k = Aᵢ + Bⱼ。
+
+P_T(T_k) = P_T e^{-β(A_i + B_j)} = P_T e^{-βA_i} e^{-βB_j} 系统S_T处于使得系统SA具有能量Aᵢ的状态的概率为 P(T_k)中SA具有Aᵢ的概率 = Σⱼ P_T e^{-βA_i} e^{-βB_j} = (Σⱼ e^{-βB_j}) P_T e^{-βA_i} = (Z_B P_T) e^{-βA_i} = P_A(A_i)
+
+类似地，对于SB。
+
+我们看到，如果两个系统松散地接触并处于平衡，它们具有相同的β。温度具有类似的性质，在常规定义中，β = 1/kT，其中k是玻尔兹曼常数。
+
+从统计力学的基本原理出发，一旦知道β，所有的热力学性质都可以找到。我们定义F，亥姆霍兹自由能，使得 F = -kT ln Q = -kT ln (Σₙ e^{-Eₙ/kT})    (1.1)
+
+S熵，定义为 -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从方程(1.2)可以看出， ∂F/∂β = -k ∂/∂β [ β ln (Σₙ e^{-βEₙ}) ] = -k [ ln Q + β (Σₙ Eₙ e^{-βEₙ})/Q ] = -U    (1.4)
+
+因为ln Q = -βF，所以U = F - T (∂F/∂T)？等等。等等，U = F + TS。
+
+我们定义F为亥姆霍兹自由能，使得 ∂F/∂β = -U    (1.4)
+
+但 ∂F/∂β = -k [ ln Q + β (Σₙ Eₙ e^{-βEₙ})/Q ] = -U 所以U = kT² (∂ ln Q/∂T) = -T² (∂ (F/T)/∂T) = F - T (∂F/∂T) = ∂(βF)/∂β    (1.8)
+
+因为S = -∂F/∂T，所以U = F + TS。
+
+压力P定义为 P = - (∂F/∂V)_T    (1.6)
+
+平均能量U = Σₙ Pₙ Eₙ    (1.7)
+
+熵S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从基本原理出发，一旦β已知，所有的热力学性质都可以找到。我们定义F，亥姆霍兹自由能，使得 F = -kT ln Q    (1.1)
+
+S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从方程(1.2)可以看出， ∂F/∂β = -U    (1.4)
+
+但 ∂F/∂β = -k [ ln Q + β (Σₙ Eₙ e^{-βEₙ})/Q ] = -U 所以U = kT² (∂ ln Q/∂T) = -T² (∂ (F/T)/∂T) = F - T (∂F/∂T) = ∂(βF)/∂β    (1.8)
+
+因为S = -∂F/∂T，所以U = F + TS。
+
+压力P定义为 P = - (∂F/∂V)_T    (1.6)
+
+平均能量U = Σₙ Pₙ Eₙ    (1.7)
+
+熵S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从基本原理出发，一旦β已知，所有的热力学性质都可以找到。我们定义F，亥姆霍兹自由能，使得 F = -kT ln Q    (1.1)
+
+S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从方程(1.2)可以看出， ∂F/∂β = -U    (1.4)
+
+但 ∂F/∂β = -k [ ln Q + β (Σₙ Eₙ e^{-βEₙ})/Q ] = -U 所以U = kT² (∂ ln Q/∂T) = -T² (∂ (F/T)/∂T) = F - T (∂F/∂T) = ∂(βF)/∂β    (1.8)
+
+因为S = -∂F/∂T，所以U = F + TS。
+
+压力P定义为 P = - (∂F/∂V)_T    (1.6)
+
+平均能量U = Σₙ Pₙ Eₙ    (1.7)
+
+熵S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从基本原理出发，一旦β已知，所有的热力学性质都可以找到。我们定义F，亥姆霍兹自由能，使得 F = -kT ln Q    (1.1)
+
+S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从方程(1.2)可以看出， ∂F/∂β = -U    (1.4)
+
+但 ∂F/∂β = -k [ ln Q + β (Σₙ Eₙ e^{-βEₙ})/Q ] = -U 所以U = kT² (∂ ln Q/∂T) = -T² (∂ (F/T)/∂T) = F - T (∂F/∂T) = ∂(βF)/∂β    (1.8)
+
+因为S = -∂F/∂T，所以U = F + TS。
+
+压力P定义为 P = - (∂F/∂V)_T    (1.6)
+
+平均能量U = Σₙ Pₙ Eₙ    (1.7)
+
+熵S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从基本原理出发，一旦β已知，所有的热力学性质都可以找到。我们定义F，亥姆霍兹自由能，使得 F = -kT ln Q    (1.1)
+
+S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从方程(1.2)可以看出， ∂F/∂β = -U    (1.4)
+
+但 ∂F/∂β = -k [ ln Q + β (Σₙ Eₙ e^{-βEₙ})/Q ] = -U 所以U = kT² (∂ ln Q/∂T) = -T² (∂ (F/T)/∂T) = F - T (∂F/∂T) = ∂(βF)/∂β    (1.8)
+
+因为S = -∂F/∂T，所以U = F + TS。
+
+压力P定义为 P = - (∂F/∂V)_T    (1.6)
+
+平均能量U = Σₙ Pₙ Eₙ    (1.7)
+
+熵S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从基本原理出发，一旦β已知，所有的热力学性质都可以找到。我们定义F，亥姆霍兹自由能，使得 F = -kT ln Q    (1.1)
+
+S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从方程(1.2)可以看出， ∂F/∂β = -U    (1.4)
+
+但 ∂F/∂β = -k [ ln Q + β (Σₙ Eₙ e^{-βEₙ})/Q ] = -U 所以U = kT² (∂ ln Q/∂T) = -T² (∂ (F/T)/∂T) = F - T (∂F/∂T) = ∂(βF)/∂β    (1.8)
+
+因为S = -∂F/∂T，所以U = F + TS。
+
+压力P定义为 P = - (∂F/∂V)_T    (1.6)
+
+平均能量U = Σₙ Pₙ Eₙ    (1.7)
+
+熵S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从基本原理出发，一旦β已知，所有的热力学性质都可以找到。我们定义F，亥姆霍兹自由能，使得 F = -kT ln Q    (1.1)
+
+S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从方程(1.2)可以看出， ∂F/∂β = -U    (1.4)
+
+但 ∂F/∂β = -k [ ln Q + β (Σₙ Eₙ e^{-βEₙ})/Q ] = -U 所以U = kT² (∂ ln Q/∂T) = -T² (∂ (F/T)/∂T) = F - T (∂F/∂T) = ∂(βF)/∂β    (1.8)
+
+因为S = -∂F/∂T，所以U = F + TS。
+
+压力P定义为 P = - (∂F/∂V)_T    (1.6)
+
+平均能量U = Σₙ Pₙ Eₙ    (1.7)
+
+熵S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从基本原理出发，一旦β已知，所有的热力学性质都可以找到。我们定义F，亥姆霍兹自由能，使得 F = -kT ln Q    (1.1)
+
+S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从方程(1.2)可以看出， ∂F/∂β = -U    (1.4)
+
+但 ∂F/∂β = -k [ ln Q + β (Σₙ Eₙ e^{-βEₙ})/Q ] = -U 所以U = kT² (∂ ln Q/∂T) = -T² (∂ (F/T)/∂T) = F - T (∂F/∂T) = ∂(βF)/∂β    (1.8)
+
+因为S = -∂F/∂T，所以U = F + TS。
+
+压力P定义为 P = - (∂F/∂V)_T    (1.6)
+
+平均能量U = Σₙ Pₙ Eₙ    (1.7)
+
+熵S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从基本原理出发，一旦β已知，所有的热力学性质都可以找到。我们定义F，亥姆霍兹自由能，使得 F = -kT ln Q    (1.1)
+
+S = -k Σₙ Pₙ ln Pₙ    (1.3)
+
+其中Pₙ = e^{-Eₙ/kT}/Q。
+
+从方程(1.2)可以看出， ∂F/∂β = -U    (1.4)
+
+但 ∂F/∂β = -k [ ln Q + β (Σₙ Eₙ e^{-βEₙ})/Q ] = -U 所以U = kT² (∂ ln Q/∂T) = -T² (∂ (F/T)/∂T) = F - T (∂F/∂T) = ∂(βF)/∂β    (1.8)
+
+因为S = -∂F/∂T，所以U = F + TS。
+
+压力P定义为 P = - (∂F/∂V)_T    (1.6)
+
+平均能量U = Σₙ Pₙ Eₙ    (1.7)
+
+熵S = -k Σₙ Pₙ ln P (P), av v V' - V = v V' - V + = + v' .... v' ....
+
+when h e e h n i c g e h , - s P in b ce o d th y e . U T ' h s i s d e a c ls r o ea fi se ts , P in I t o < o P u r < in P tu 2 i , t i a v n e d p e e n r e c r e g p y ti fl o o n w o s f f t r e o m m p t e h r e a t l u o r w e - . P body to w H h ' ere It H ) (V is ') t . h e eigenvector of H' corresponding to Ii), the ith eigenvector of H.
+
+Linear harmonic oscillators 1.2
+
+say H th ' a t = < H i'l H + ' (H Ii' ' ) - H <i ) l ; H so I i w ) e + c a < n il a H pp ' l y - fir H st - I o i) r d f e o r r p e H rt ' u r - ba H tio n t O h . e o T ry h e to n s B ig ut n e o a f c h (I n t e rm m i - n t I h n e P s n u ) m . S is o n d e S g / a d t t i v > e, O fo . r the sign of Pn - Pm is opposite to the
+
+oEi (iIH' - Hli) ' oH ' Before we start to make calculations, note that if we have a system that is a
+
+- oV - _ y Ii ' .. m .. y V ' - V -_ ( l l oV I l ) . L co i m en b e in rg a i t e io s n o f o t f h s e e v su er b a l s s i t n e d m ep s, e nden L t s e u - b P s E y n st ems, with Etot L al = e E - n P = E L n; i En;
+
+Our two definitions are equivalent.
+
+F -kT In Q -kT In -kT In
+
+Because H may be a function of the shape of the system, as well as its volume, = = n = r., ra fi fo it i o n y o f p a ss ex, ig th r e d e is p e o r - c e t a e t - c E a i ( n a. ) /bek , c lu p u is t e an g ed. In = -kT In n ( L e-PEn; )
+
+= -kT � [ In L e-"1P,E"2n, , .. .
+
+= � Fi• ( F orce) a. = Q- 1 � 1-1i ( - O o E ex i ) The free energy of the t wh " o i le system is the sum ' of th "i e free energie I s of its non‑interacting parts.
+
+and we can write oEi oH (il Ii). 1.2 LINEAR HARMONIC OSCILLATORS oex oex
+
+Consider a system of harmonic oscillators in thermal equilibrium. The partition A third definition of pressure is function Q, free energy F, and average energy of the system of oscillators can be
+
+oU found as follows: The oscillators do not interact with each other, but only with P -(V, S).
+
+= - oV the heat bath. Since each oscillator is independent, one can find Fi of the ith That this definition is equivalent to the other two may be verified without diffi‑ oscillator and then L Fi culty from the equation U F + TS. F M1 = = i=
+
+The equation S -(oF/oT)v holds only at equilibrium, where F is defined. (M oscillae‑ toEr�s/)k.T Away from equilibrium, S always increases with time. To see this, note that time‑dependent perturbation theory gives Qi = L n (LlO)
+
+dPm dt = n (IVmnl2Pn - IVmnI2Pm), L e-A;w;(n+ 1/2)/kTf rom quantum mechanics (n 0, 1,2, ... ) (Ll1)
+
+Qi where IV nml2 is the probability per unit time of transition from state n to state = n m, and IVnml2 IVmnl2. Then = L L ( ) (Ll2)
+
+d d S t -k i d d P t i + In Pi d d P t i = -k i d d P t i In Pi> - e-Aw;/kT liw· since L L F i = - kT In Qi = --f + kT In (1 ) (Ll3)
+
+dPi � Pi dP O.
+
+Then i dt = dt i = dt = Ui = ave L ra ge e e n - e E r � g / y kT o f a single oscillator in thermal equilibrium d d S t mn = � Qi n En i Iiw.e-Aw;=/kT _ 0(1 0 / _ T) F T i (Ll4)
+
+= - liw 2 ' · + 1 - ' e -�w;/kT = li - w 2 ' · + -- e�w �-C- ;/ li k w T � i - -1 (1.15)
+
+Introduction to statistical mechanics 1.3 Blackbody radiation
+
+F = Fi = L [IiWi + kT In (1 - e‑firodkT ) ] (1.16) Because of the periodic boundary condition, �i i 2
+
+-a = nx = an m. teger.
+
+U = � '-'i Ui = � '-'i
+
+[Ii
+
+W .' + efi ro , )
+
+Ii
+
+kT
+
+W'.
+
+1 •
+
+Ax It is customary to define an average n;, ni, according to Ui =( n, + t)IiWi', and similarly Thus ckz 1 '?!s. _ = efirodkT
+
+Returning to the example on p. 3 we see that for very high temperature (and U) we indeed have W:::::; Ui :::::; kT = 1/13,
+
+which is independent of U.
+
+Note that the contribution to F of the ith oscillator is negligible if IiWi kT » (except for the Iiw;/2 term). At low temperatures the high‑frequency modes are "frozen out" and do not contribute to the specific heat.
+
+1.3
+
+## BLACKBODY RADIATION
+
+In dealing with blackbody radiation, our point of view will be as follows: In a cavity (blackbody), there are a great number of modes of oscillation. The number of modes per unit volume per frequency bandwidth is given by classical considerations. Each mode, however, behaves as an independent quantum harmonic oscillator, except that the Iiw/2 term is neglected. That is, En = nliw.
+
+We want to get rid of the hw/2 because it leads to infinite energy when there are an infinite number of modes. A Hamiltonian that eliminates the hw/2 is 1 p2 2 2 IiWi Hi ="2 ( i + Wi qi ) - 2'
+
+With the above assumptions, we can obtain an expression for the energy per unit volume per unit frequency.
+
+First we will find the number of modes per unit volume per frequency (or wave number).
+
+Assume a gigantic box of dimensions and The demand is made that a, b, c.
+
+the waves be periodic at the walls of the box.
+
+= number of waves/cm in x‑direction !Ax = number of waves in box (x‑direction).
+
+�Ax - n y , = n z• 2n 2n d k x = d n x , b d k y = d n y , c d k z = d n z 2n 2n 2n d 3 n = d n x d n y d n z = a b c ( d2 3n k)
+
+( a b c )
+
+d k x d ( 2 kn y d 3 ) · k z
+
+For each k, there are two possible polarizations. Thus, the number of modes per unit volume with wave number between k and k + dk is
+
+2 d3n d3k �‑ = 2 - .
+
+(2n)3 (abc)
+
+la r g Ne ot wa W t t h =e cm w h ev re er c is h e t h eo vd ee lo c s c it y a n fe lig r e hp t .
+
+la c Ae ls o d b , t h y a en n u in mte bg e r o r a l.
+
+f m o d e s is s o
+
+[-IiW(k)]) 2 d3k = fff kbT In (1 - exp . (1.17)
+
+V kbT (2n)3
+
+(Remember that the hw/2 term has been omitted.)
+
+From symmetry, f [-IiW(k)]) 4nk 2 dk = 2 kbT In (1 - exp .
+
+!.V kbT (2n?
+
+= 2 f h W ( k ) e x p [ - li w ( k ) / k b T J 4 n k 2 d k (1.18)
+
+V 1 - exp [-liw(k)/kbTJ (2n)3 .
+
+Let =Ii w/kbT = Iikc/kbT. Then (1.19)
+
+Introduction to statistical mechanics Vibrations in a solid 12 1.4 13
+
+The preceding results can be summarized and put in a more familiar form by 2. Find the normal modes of the system. There are as many normal modes as replacing nw with hv. there are degrees of freedom; namely, 3(AN), where (AN) is the number of The number of modes/unit volume between k and k + dk is atoms in the crystal. The modes behave as independent quantum oscillators.
+
+4nk2 dk k2 dk 8nv2 dv 3. Given the modes, calculate F, the free energy.
+
+2 .
+
+(2n)3 n2 c3 4. From F, calculate Cv and any other thermodynamic quantities of interest.
+
+Once F is found, we can quickly calculate U, the total energy of the system.
+
+since k =2 nv/c. The average energy of an oscillator offrequency v is hv/ehY/kT l.
+
+Thus, the energy per unit volume between v and v + dv is _ In the following derivation, we will calculate Cv directly from U without always writing down F first.
+
+dU 8nv2 hv dv U dv = . (1.20)
+
+Y V = c3 ehY/kT 1 Method of Labeling Consider a crystal with A atoms per unit cell. For convenience, assume that the
+
+This is the Planck Radiation Law, and is the same as Eq. (1.18).
+
+unit cell is a rectangular solid of dimensions a, b, c, along three mutually per‑ pendicular axes, Let the origin be at the "center" of a cell. This cell can f Uy dv uT4 x, y, z.
+
+= be denoted by the triplet (0, 0,0 ). The cell to its right along the x‑axis is denoted by (1, 0,0 ), and so on. Thus, any cell can be denoted by a vector N = nxa + is the Stefan Boltzmann Law.
+
+nyb nzc where a =a i,b =b j,c = If there are A atoms/cell, 3A additional For T very large (kT hv), + ck.
+
+» coordinates must be given to locate each atom. Let denote one of these 3A IX 8nv2 hv dv 8nv2 coordinates.
+
+U d v = kT dv. (1.21)
+
+Y c3 1 + (hv/kT) 1 = c3 Call the displacement from equilibrium of the coordinate in the Nth cell
+
+_ Zrz,N' (We either consider m =m ass equal to 1 or absorb it in Z)
+
+This is the Rayleigh‑Jeans Law. Zrz,N+M is the displacement of an atom in a cell close to N; if, for example,
+
+Let F* =F /Vand U* U/V. there are two atoms A l' A per cell, the displacement of A in the direction is
+
+= 2 1 x denoted by Z l ,N, that of A (in same cell) by Z4,N' and that of Al in an adjacent
+
+v a u* =4 uT3 cell by Zl,N+1' =( 1,0, 2 0 ) or (0,1 ,0), or (0,0,1 ).
+
+c = 1 aT is the heat capacity of a gas of photons in equilibrium with the container. Normal Modes If an oscillator (or mode) is excited to the Nth level, that is, if E =n N, T =( 1/2) L Z;,N =( 1/2) L Z;,N (1.22)
+
+one says that there are N photons with energy nwi. Since photons are define as particles ",N"
+
+and directions the degree of excitation of a mode, one cannot consider a permutation of photons u a s t s, o t nd it s t ng u i te b l c t io is point is the basis of V = YeO) + ,N (� aZ",N z =o Z",N (1.23)
+
+## 1.4 VIBRATIONS IN SOLID
+
+We want to find the specific heat of a solid. However, en route to the specific
+
+heats, we will derive important results that will prove useful in many other cases; Assume that the electrons in the crystal always have time to adjust them‑ chief among these results is the calculation of the normal modes of a crystal. selves to the configuration with lowest energy, even when the crystal is vibrating.
+
+The program will be as follows: In this configuration, there is no net force on the nuclei when the Z" N are
+
+1. Consider the solid to be a crystal lattice of atoms, each atom behaving as an (�) =0 harmonic oscillator. These oscillators are, of course, coupled. OZ",N z=o
+
+14 Introduction to statistical mechanics Vibrations in a solid 1.4
+
+Wa The additive constant, YeO), will not affect our answers, so we might as well Let the ath mode have frequency so that drop it. Let (OZa'NO;�'N+M)Z=O C = �, a number that depends on the relative positionas of the cells of the two atoms, and not on their absolute positions. Note that C = C� .
+
+� p Neglecting higher orders, take (1.24)
+
+For low temperatures it is not too unreasonable to neglect higher orders, because the separation between atoms is of the order of 1 A and at room temperature the vibrations have amplitude of the order of 0.1 A. But we should not be too surprised if experiment shows our idealization to be false. In matters such as the one under consideration, the general approach is to make The idealizations and then try to find corrections to our assumptions that will give better results.
+
+In order to motivate the procedure that we will use for finding the vibrations of a solid, let us consider the classical problem of vibrations of coupled oscillators. Let the Hamiltonian be H = Σ p_i^2 / 2M_i + Σ C_ij q_i q_j / 2, where the q_i are the coordinates of the amount of displacement from equilibrium, p_i is the momentum, and C_ij = C_ji are constants. To eliminate the constants let μ_ij = C_ij / √(M_i M_j).
+
+Then we get (1.25)
+
+The equations of motion are q̇_i = p_i / M_i, ṗ_i = - Σ C_ij q_j.
+
+We now break the motion of the system into modes, each of which has its own frequency. The total motion of the system is a sum of the motions of the modes.
+
+For the motion of the a-th mode, with amplitude a_α, q_i = Σ a_i(α) a_α, where a_α is independent of time. Then a_α satisfies Σ C_ij a_j(α) = ω_α^2 a_i(α).
+
+The classical problem of vibrations of coupled oscillators has just been reduced to the problem of finding the eigenvalues and eigenvectors of the real symmetric matrix ||C_ij||. In order to get the ω_α^2 we must solve the equation det ||C_ij - ω^2 δ_ij|| = 0.
+
+Then the eigenvectors a_i(α) can be found. It is possible to choose the a_i(α) so that Σ_i a_i(α) a_i(β) = δ_αβ.
+
+The general solution for q_i is q_i = Σ a_i(α) Q_α, where Q_α = A_α e^{i ω_α t} + B_α e^{-i ω_α t}. If we take Q_α = C_α e^{-i ω_α t}, we get q_i = Σ C_α a_i(α) e^{-i ω_α t}. From this it follows that p_i = M_i q̇_i = Σ (-i ω_α M_i C_α a_i(α) e^{-i ω_α t}) = Σ P_α a_i(α), where P_α = -i ω_α M C_α.
+
+Making the change of variables, Q_α = Σ a_i(α) q_i / M_i, we get P_α = Σ a_i(α) p_i, and the Hamiltonian becomes H = Σ (P_α^2 / 2 + ω_α^2 Q_α^2 / 2).
+
+This has the expected solutions Q_α = C_α e^{-i ω_α t}.
+
+Now suppose we wish to solve the quantum-mechanical problem of coupled oscillators. Again we have H = Σ p_i^2 / 2M_i + Σ C_ij q_i q_j / 2, where this time [p_i, q_j] = -i ħ δ_ij.
+
+Making the same change of variables as before, we get Q_α = Σ a_i(α) q_i / √M_i, P_α = Σ a_i(α) √M_i p_i.
+
+Then the general motion can be described by Q_α = √(ħ / 2 ω_α) (a_α e^{-i ω_α t} + a_α^† e^{i ω_α t}), where a_α and a_α^† are arbitrary constants, and N is the total number of unit cells.
+
+It follows immediately that the eigenvalues of our original Hamiltonian are E = Σ_{α} (n_α + 1/2) ħ ω_α.
+
+The solution of a quantum-mechanical system of coupled oscillators is trivial once we have solved the equation det ||C_ij - ω^2 δ_ij|| = det ||M_i M_j μ_ij - ω^2 δ_ij|| = 0.
+
+The factor 1/√(M_i M_j) is inserted to make things look nicer later, but it is not strictly necessary.
+
+Let Y_αβ(K) describe the motion of a particular mode. It follows that Q_r(K) = Σ_{N} Z_{r,N} e^{-i K·N}, where Z_{r,N} is the displacement from equilibrium of atom N in cell N in the r-th mode.
+
+The Hamiltonian for the system is H = Σ_{K,r} [ P_r(K)^* P_r(K) / 2 + ω_r(K)^2 Q_r(K)^* Q_r(K) / 2 ].
+
+In a given mode, if one cell of the crystal is vibrating in a certain manner, it is reasonable to expect all cells to vibrate in the same way, but with different phases. Thus, Z_{r,N} = e^{i K·N} Q_r(K), where e^{i K·N} expresses the relative phase between cells. The factor √(N) follows because we consider Q_r(K) and its complex conjugate to be independent variables, we must write H = Σ_{K,r} ħ ω_r(K) (a_{K,r}^† a_{K,r} + 1/2).
+
+(1.31)
+
+(Note that ω_r(K) = ω_r(-K). See end of p. 18). We now want to find F, so we must sum over all possible modes.
+
+For one mode, F = kT ln[1 - e^{-ħω/kT}].
+
+Then F = kT Σ_{K,r} ln[1 - e^{-ħω_r(K)/kT}].
+
+We now demonstrate that the specific heat of a crystal determined by our present method agrees with experiment; that is, at high T, C_V = 3R. At low T, C_V → 0 as T^3.
+
+To see this, it is easier to look at U rather than at F. First we note that there is a maximum frequency, ω_M. Two adjacent atoms can be no more than 180° out of phase, and thus the minimum wavelength must be of the order of twice the atomic spacing (call it 2a). Thus K_max ≈ 2π/2a = π/a, and ω_M = v K_M.
+
+First, we consider the high-temperature limit. For kT » ħω_M, all modes are excited to approximately the same energy; that is, if there are N atoms, U = Σ_{K,r} ħω_r(K) / (e^{ħω_r(K)/kT} - 1) ≈ Σ_{K,r} kT, U = 3NkT = U_0 + 3RT, (1.33)
+
+if N is Avogadro's number. C_V = 3R for large T. Note that we might as well neglect the zero-point energy, U_0. This is the approximation.
+
+For very small values of T (kT « ħω_M), the behavior of C_V can also be approximately determined.
+
+Ignoring the zero-point energy, we see that the contribution to U of the high-frequency modes is very small, because ħω / (e^{ħω/kT} - 1) ≈ ħω e^{-ħω/kT} when ħω » kT. We also know that when K is zero, there are three zero-frequency modes arising from translation of the entire crystal. For small K, there should be three very low-frequency modes. To see how those modes vary with K, consider Y_αβ(K) for low K. Since e^{i K·M} ≈ 1 + i K·M - (K·M)^2 / 2 + ..., Y_αβ(K) = Σ_{M} U_{α,M} U_{β,M} e^{i K·M}.
+
+Also, for real K, Y_αβ(K) = Y_βα(-K), so f(ω^2, K) = f(ω^2, -K).
+
+The factor 3 before the integral is there because for each K there are three modes with low ω.
+
+U = ∫_0^{ω_M} (ħω / (e^{ħω/kT} - 1)) (3V ω^2 dω / (2π^2 v^3)), (1.34)
+
+where V is the volume and v is the sound velocity. K_max can be found by setting the total number of modes equal to 3(AN), where (AN) is the number of atoms in the crystal.
+
+Also, 3(AN) = ∫_0^{K_max} 3 (d^3K / (2π)^3) V = ∫_0^{K_max} (3V / (2π)^3) 4π K^2 dK = (V / 2π^2) K_max^3.
+
+Thus K_max = (6π^2 ρ)^{1/3}, where ρ is the number of atoms per unit volume.
+
+Let x = ħω / kT, W = kT / ħ, and Θ = ħω_M / k.
+
+(1.35)
+
+Here Θ is the Debye temperature.
+
+C_V = 9R (T/Θ)^3 ∫_0^{Θ/T} x^4 e^x / (e^x - 1)^2 dx.
+
+(1.36)
+
+As T → 0, C_V → (12π^4/5) R (T/Θ)^3.
+
+So C_V is proportional to T^3 at low temperatures.
+
+The T^3 dependence of the specific heat at low T can be made more plausible as follows: We assume that for ħω > kT, the contribution to the energy of the ω_i mode is negligible and for ħω < kT, the contribution is kT.
+
+The number of modes with wave number less than K is f(K) = (4π K^2 / (2π)^3) V = V K^3 / (6π^2).
+
+At low T, K ≈ ω/v. Therefore the number of modes with frequency less than ω_c is V ω_c^3 / (6π^2 v^3). But ħω_c = kT or ω_c = kT/ħ and U = (V k^4 T^4) / (2π^2 ħ^3 v^3).
+
+(1.37)
+
+For example, C_V = (12π^2 V k^4 T^3) / (5 ħ^3 v^3).
+
+(1.37')
+
+And thus C_V is proportional to T^3. The numerical factor is, of course, not correct.
+
+If the mode with frequency ω_i is excited to the nth level, E_i = ħω_i(n + 1/2), we say that there are n phonons of frequency ω_i and energy ħω_i in the crystal.
+
+Figure 1.4 shows the general form of the specific heat of a solid as a function of temperature.
+
+Example: Assume the unit cell to be a cubic lattice with one atom per cell (Fig. 1.5). Each atom behaves as an harmonic oscillator, with spring constants k_A (nearest neighbors), and k_B (next-nearest neighbors). This case is fairly simple, and we can simplify the notation: a_1 = a, a_2 = b, a_3 = c.
+
+Fig. 1.5 Cubic lattice with one atom per cell.
+
+## KM KA M KM KB M
+
+for N a nearest neighbor to N, for N + a next-nearest neighbor.
+
+Suppose the temperature is absolute zero. Then the crystal must be in its vibrational ground state before emission of a photon. We will find an expression for the In summing over N and a to get the total potential energy we must divide The probability that the crystal is in its ground state after emission. By two, for we count each spring twice. If we use complex coordinates, however, we multiply V by two to get the correct equations of motion. Let R be the position of the excited atom, and let P be the momentum of the emitted photon. We will assume, without proof, that the amplitude for the crystal being in a given final state is \( I_{\text{final}} | A_{R \leftarrow \text{initial}} \rangle \). Furthermore, we will consider only the vibrational states of the crystal, and will neglect any effect due to the fact that the nucleus changes state. Let the M-th atom be the one that emits the photon; let \( R_{0,M} \) be its mean position, and let \( Z_M \) be its displacement from that position. \( R = R_{0,M} + Z_M \). We can take the origin of our coordinate system at the mean position of the excited atom. Then \( R_{0,M} = 0 \). A single one-dimensional harmonic oscillator in the ground state is described by the wave function \( \psi_0(Q) = \left(\frac{\alpha}{\pi\hbar}\right)^{1/4} e^{-\alpha Q^2 / 2\hbar} \), where Q is the position measured in units such that the mass can be set equal to unity. The wave function of a crystal in its ground state is a product of the wave functions for each mode of vibration: \( \psi_{\text{crystal}}(Q_1, Q_2, \dots, Q_N) = \prod_{K,r} \psi_0[Q_{K,r}] \). We wish to calculate: \( C \int \psi_{\text{crystal}}^* e^{iPZ_M/\hbar} \psi_{\text{crystal}} \, dQ \), where is the probability that the crystal will remain in its ground state and C is a constant independent of P. As P → 0, this must tend to unity. So, if we can get a formula for this without the correct constant in front of it, the constant can be determined easily. We will ignore such factors as "A" and "C". We take as the displacement of the nucleus that emits the photon: \( Z_M = \sum_{K,r} Q_{K,r} \). For simplicity, assume the momentum of the photon is in the direction z. Then we wish to compute \( \prod_{K,r} \left( \int \psi_0[Q_{K,r}]^* e^{iP Q_{K,r}/\hbar} \psi_0[Q_{K,r}] \, dQ_{K,r} \right) \). Using the expression for the Gaussian integral, we get \( \exp\left[ -\frac{P^2}{2\hbar} \sum_{K,r} \frac{1}{2\alpha} \right] \). From the definition of \( \alpha \), we can show that \( \sum_{K,r} \frac{1}{2\alpha} = \langle Z_M^2 \rangle_0 \). So we can write \( F = \exp\left[ -\frac{P^2}{2\hbar^2} \langle Z_M^2 \rangle_0 \right] \). The value of F can also be found for nonzero temperature. If \( \{n_K\} \) is the set of numbers describing the state of the crystal, we must compute \( \sum_{\{n\}} e^{-E_{\{n\}}/kT} \left| \int \psi_{\{n\}}^* e^{iPZ_M/\hbar} \psi_{\text{ground}} \, dQ \right|^2 / \sum_{\{n\}} e^{-E_{\{n\}}/kT} \). After carrying out the calculation, we find \( F \propto \left[ 1 - \frac{P^2}{2\hbar^2} \sum_{K,r} |\lambda_{K,r}|^2 \coth\left(\frac{\hbar \omega_{K,r}}{2kT}\right) \right] \). As before, we get for our answer \( F = \exp\left[ -\frac{P^2}{2\hbar^2} \langle Z_M^2 \rangle_T \right] \).
+
+**1.6 The Mossbauer Effect**
+
+If a free, excited nucleus goes to its ground state by emission of a photon, the energy of the photon will be less than the excitation energy because the nucleus recoils. But if the excited nucleus is in a crystal, there is a finite probability that it will emit a photon with the full excitation energy. In other words, there is a finite probability that the energy of the emitted photon will be unchanged by absorption of a photon. This effect, called the Mossbauer effect, can be discussed in terms of modes of oscillation of a crystal. For example, notice that the quantity F calculated above is the probability that the crystal remains in its ground state after emitting a photon. This is precisely the zero-phonon emission probability. Thus, the Mossbauer effect is directly related to the recoilless fraction.
+
+**1.7 Quantum Statistics for a Many-Particle System**
+
+Consider a system of N identical particles, and assume that there is no interaction among them. Any two configurations of the system that differ only by an interchange of two or more identical particles are regarded as one and the same state. Thus the state of the system is determined by giving the number of particles \( n_\alpha \) with energy \( \epsilon_\alpha \).
+
+Our problem is to calculate the partition function Q with the condition \( \sum_\alpha n_\alpha = N \). The values admitted for \( n_\alpha \) may be: (a) \( n_\alpha = 0, 1, 2, 3, 4, \dots \) — Bose-Einstein case (b) \( n_\alpha = 0, 1 \) — Fermi-Dirac case
+
+Bose-Einstein statistics must be used for particles with integral spin (for example, He⁴) and Fermi-Dirac statistics for particles with half-integral spin (such as electrons). For Bose particles, any number of particles may occupy a given state. For Fermi particles, however, there can only be one particle at most in each state (Pauli exclusion principle).
+
+A state of the system is described by the set of numbers \( n_\alpha \), which can take on any set of values allowed both by the statistics and by the condition \( \sum_\alpha n_\alpha = N \).
+
+(1.42)
+
+If there were no restriction on the number of particles, we could write
+
+\[ Q(\mu) = \sum_{\{n_\alpha\}} \exp\left[ -\beta \sum_\alpha n_\alpha (\epsilon_\alpha - \mu) \right] \]
+
+(1.43)
+
+and we would have
+
+\[ Q(\mu) = \prod_\alpha \left( \sum_{n_\alpha} e^{-\beta n_\alpha (\epsilon_\alpha - \mu)} \right) \]
+
+(1.44)
+
+The summation can be made without restriction. We will now show how μ is determined by N and how thermodynamic quantities depend on Q(μ) or
+
+\[ g = -\frac{1}{\beta} \ln Q(\mu) \]
+
+Unfortunately, Eq. (1.43) is incorrect, because we have an auxiliary condition that \( \sum_\alpha n_\alpha = N = \) constant. With this auxiliary condition, the problem of finding Q becomes much more difficult. It is possible, however, to get around the restriction by considering the system of particles to be a box connected to a large reservoir of particles (Fig. 1.6), and by assuming that it is possible for particles to pass to and from the reservoir.
+
+But
+
+We further assume that the statistical mechanics of the total system acts as if it took energy μ to remove a particle from the box to the reservoir. μ can be adjusted by, say, a voltage regulator. In the case of electrons in a metal, for example, μ is the work function of the metal. In general, increasing μ will increase the expected number, \( \langle N \rangle \), of particles in the box. If we can find \( \langle N \rangle \) as a function of μ, we can in principle select μ so that any desired number of particles are in the box.
+
+For a given μ, the energy levels of a particle in the box become \( \epsilon_\alpha - \mu \) rather than \( \epsilon_\alpha \).
+
+By the key principle of statistical mechanics (as applied to the box), the probability of the gas having energy \( E = \sum_\alpha n_\alpha \epsilon_\alpha \) (for a given μ) is proportional to \( e^{-\beta E} \).
+
+But
+
+\[ Q(\mu) = \sum_{\{n_\alpha\}} \exp\left[ -\beta \sum_\alpha n_\alpha (\epsilon_\alpha - \mu) \right] \]
+
+(1.45)
+
+\[ \langle N \rangle = \frac{1}{Q(\mu)} \sum_{\{n_\alpha\}} N \exp\left[ -\beta \sum_\alpha n_\alpha (\epsilon_\alpha - \mu) \right] \]
+
+(1.46)
+
+\[ \langle N \rangle = -\frac{1}{\beta Q(\mu)} \frac{\partial Q}{\partial \mu} = -\frac{\partial}{\partial \mu} \left( \frac{1}{\beta} \ln Q(\mu) \right) = -\frac{\partial g}{\partial \mu} \]
+
+(1.47)
+
+This equation gives \( \langle N \rangle \) as a function of μ. Inverting gives μ as a function of \( \langle N \rangle \).
+
+For the purpose of computing the probability of a state, we assumed that the system acts as if it had energy \( E = \sum_\alpha n_\alpha \epsilon_\alpha - \mu N \). But the μ was inserted only in order to provide for the weighting factor that accounts for different probabilities of different numbers of particles in the system. For such purposes, as computing the pressure, we do not consider μ to be part of the energy of the system.
+
+\[ U = \frac{1}{Q(\mu)} \sum_{\{n_\alpha\}} \left( \sum_\alpha n_\alpha \epsilon_\alpha \right) \exp\left[ -\beta \sum_\alpha n_\alpha (\epsilon_\alpha - \mu) \right] = -\frac{\partial}{\partial \beta} \ln Q(\mu) + \mu \langle N \rangle \]
+
+(1.48)
+
+Pressure = \( -\frac{\partial}{\partial V} \left( \frac{1}{\beta} \ln Q(\mu) \right) \).
+
+μ can be treated as a variable or as a function of V and \( \langle N \rangle \). If we treat it as an independent variable, so that \( g = g(V, \mu) \), we get
+
+\[ P = -\left( \frac{\partial g}{\partial V} \right)_{\mu} \]
+
+If we treat μ (and g) as functions of V and \( \langle N \rangle \), that is, with \( g = g[V, \mu(V, \langle N \rangle)] \), then
+
+\[ -\left( \frac{\partial g}{\partial V} \right)_{\langle N \rangle} = P + \frac{\partial g}{\partial \langle N \rangle} \frac{\partial \langle N \rangle}{\partial V} \]
+
+is easily shown. Also, \( -\frac{\partial g}{\partial \langle N \rangle} = \mu \).
+
+If \( F = F(V, \langle N \rangle) = g(V, \mu(V, \langle N \rangle)) + \langle N \rangle \mu(V, \langle N \rangle) \), then \( P = -\frac{\partial F}{\partial V} \) and \( \mu = \frac{\partial F}{\partial \langle N \rangle} \).
+
+Entropy = \( S = -\frac{\partial g}{\partial T} \) (at constant V, μ).
+
+In summary:
+
+\[ Q(\mu) = \sum_{\{n_\alpha\}} \exp\left\{ -\beta \left[ \sum_\alpha n_\alpha (\epsilon_\alpha - \mu) \right] \right\} \]
+
+(1.49)
+
+\[ g = -\frac{1}{\beta} \ln Q(\mu) \]
+
+(1.50)
+
+\[ \langle N \rangle = -\frac{\partial g}{\partial \mu} \]
+
+(1.51)
+
+\[ P = -\frac{\partial g}{\partial V} \]
+
+(1.52)
+
+\[ U = -\frac{\partial}{\partial \beta} \ln Q(\mu) + \mu \langle N \rangle \]
+
+(1.53)
+
+\[ S = -\frac{\partial g}{\partial T} \]
+
+(1.54)
+
+Soon we will be able to find g for an ideal Bose gas, and then for an ideal Fermi gas. But first we must evaluate some integrals.
+
+**1.8 Evaluation of Integrals**
+
+We will soon be dealing with integrals of the form
+
+\[ \int_0^\infty e^{-ax^2} \, dx \quad \text{and} \quad \int_0^\infty x^2 e^{-ax^2} \, dx \]
+
+Let us pause for a second to calculate these.
+
+eval e ate t h e s e in t e g r a ls : [ ∫ ∞ 0 e -x' dx] = ∫ ∞ 0 e -x' dx ∫ ∞ 0 e^{-y} dy ∫ ∞ 0 a x^2 dx - 1 ∫ ∞ 0 y^2 dy ] ∫ e^{x - e^{y}} - ...
+
+J a Ja ∫ ∫ ∞ ∞ X 3 e^{-x} = ∞ ∫ a d ( ∫ 2 d e^{-da} = ∫ J a d d f (function)
+
+∫ ∞ a^2 x dx / - ! a^3 t io n )
+
+-- J ∫ ( y f d -da ∞ - e^{x^2} x x e^{-x} = -d a^2 (1.55)
+
+(1.56)
+
+(1.57)
+
+(1.58)
+
+(1.59)
+
+(1.60)
+
+and so forth.
+
+1.9 The ideal Bose-Einstein gas where we have used ∫^∞_0 x^2 e^{-ax^2} dx = (√π / (4a√a)).
+
+From Eq. (1.58). Letting From Eq. (1.45) we have e^{-βE} = L exp {- β[n₁(ε₁ - μ) + n₂(ε₂ - μ) + ... ]} we obtain finally ( mkT / 2πħ^2 )^{3/2} * (4/√π)
+
+For a Bose-Einstein gas, n_i = 0, 1, 2, ...
+
+p = s * (mkT / 2πħ^2)^{3/2} * g_{5/2}(α). (1.68)
+
+n_i = Σ n_i e^{-βn_i(ε_i - μ)} = 1 / (e^{β(ε_i - μ)} - 1) (Bose-Einstein). (1.62)
+
+Thus, given p, we can find α = e^{βμ} by solving the equation (3/2)α g_{3/2}(α) = p / (mkT / 2πħ^2)^{3/2} For the total energy of the system we have Consider a particle contained in a box but otherwise free. The number of modes in the box with momentum in the three-dimensional region d³p is s(d³k / (2π)³) V, where V is volume and s is the number of possible spin states (e.g., s = 3 for spin 1 when the rest mass does not vanish; 2 for spin 1 when the rest mass vanishes, as for photons). The energy is ε = p² / 2m = ħ²k² / 2m.
+
+Here we have approximated the discrete modes by a continuum (which is a very good approximation for very high modes, but not so good for the low-lying ones). In this case p/λ is very small, but still large compared to the level spacing so that the sum for the grand partition function can be replaced by an integration: g = - ln(1 - e^{-βε}) = s V ∫ d³p / (2πħ)³ * ln(1 - e^{-β(ε - μ)}). (1.65)
+
+Then <N> = - ∂Ω / ∂β = s V ∫ d³p / (2πħ)³ * 1 / (e^{β(ε - μ)} - 1). (1.66)
+
+and U/V ≈ (3/2)kT p. This condition therefore represents the classical limit.
+
+Now let us look at the other limit. As T becomes lower and lower, with p fixed, g_{3/2}(α) becomes larger and α approaches 1. For α > 1, g_{5/2}(α) diverges.
+
+To compute g_{5/2}(α), set α = e^{βμ} and x² = βp² / 2m. Then p² = 2mx² / β d³p = (2m/β)^{3/2} * 4π x² dx. Thus, g_{5/2}(α) = 1 + 2^{-5/2} + 3^{-5/2} + ... = 1.341.
+
+The temperature at which α = 1 is called the critical temperature for Bose-Einstein condensation.
+
+<N> / V = s (mkTc / 2πħ^2)^{3/2} * 2.612. (1.70)
+
+Tc = (2πħ² / mk) * ( <N> / (2.612 s V) )^{2/3}. (1.71)
+
+The question arises: Why does our analysis break down at Tc? The answer is that for such low temperatures (T < Te), we cannot replace the sum, Eq. (1.64), by the integral, Eq. (1.65).
+
+Looking back at Ω and <N> before we approximated all summations by integrals, we recall that Ω = - ln(1 - e^{β(ε - μ)}) = - Σ ln(1 - e^{β(ε - μ)}); <N> = - ∂Ω / ∂β = Σ 1 / (e^{β(ε - μ)} - 1).
+
+For small α, e^{βμ} is large; the terms with the lowest ε_i do not contribute much to the sum, and we can replace the sum with an integral. When e^{βμ} is small, we cannot replace the sum with an integral because the first few discrete terms in the sum are important. Now <N> = Σ <n_i> = Σ 1 / (e^{β(ε - μ)} - 1) = α / (1 - α) + ... .
+
+Because <N> is positive, (ε_i - μ) must be greater than zero. For <N> to be larger than its value at T = Tc, (ε_i - μ) must be positive, but very small, in order that the low-energy terms in <N> be nonnegligible. Assuming no accidental degeneracy in the lowest level (that is, assuming ε₀ < ε₁) we can conclude that, for sufficiently low temperature, <n₁> = 1 / (e^{β(ε₁ - μ)} - 1) << 1 / (e^{β(ε₀ - μ)} - 1) = <n₀>.
+
+Without any loss of generality, we may take ε₀ as the zero of the energy. Then <n₀> = 1 / (e^{-βμ} - 1) ≈ e^{βμ} = α. For large <n₀>, μ ≈ -kT / <n₀>.
+
+For low temperatures, μ is very close to zero, so for the energy states above ε₀, we can neglect μ. The sum for <N> - <n₀> can be approximated by an integral: N_exc = <N - n₀> = Σ' 1 / (e^{βp²/2m} - 1) ≈ s V ∫ d³p / (2πħ)³ * 1 / (e^{βp²/2m} - 1)
+
+= s V / (2πħ)³ * (mkT / 2πħ^2)^{3/2} * Γ(3/2) ζ(3/2)
+
+= (mkT / 2πħ^2)^{3/2} s V ζ(3/2) = <N> (T/Tc)^{3/2}.
+
+We see, then, that our definition of the critical temperature is such that when T < Te, there must be a nonnegligible fraction of the particles in the ground state: <n₀> / <N> = 1 - N_exc / <N> = 1 - (T/Tc)^{3/2}.
+
+Bose-Einstein condensation →-------------· Liquid helium (lambda point)
+
+Fig. 1.7 Bose-Einstein gas around Tc compared with liquid helium around the lambda point.
+
+For T < Te the total energy is U = Σ ε_i <n_i> = ∫ p²/2m * s V d³p / (2πħ)³ * 1 / (e^{βp²/2m} - 1) + <n₀> * 0 = s V / (2πħ)³ * (2m/β)^{5/2} * (1/2) ∫ x^4 dx / (e^x - 1)
+
+= s V (mkT / 2πħ^2)^{3/2} * kT * (2/√π) ∫_0^∞ x^4 / (e^x - 1) dx = <N> kT * (T/Tc)^{3/2} * (0.5134) * 2 / 2.612 = 0.5134 <N> kT (T/Tc)^{3/2}.
+
+Then Cv = ∂U/∂T ∝ T^{3/2} at sufficiently low temperature.
+
+T < Te, we have Cv ∝ T^{3/2}. For T > Te, Cv is smaller and approaches the classical limit 3/2 <N> k for high T. The specific heat of a Bose gas is similar to the behavior of liquid helium near the lambda point (the lambda point is a few degrees K). See Fig. 1.7. For a given T, the particles are certainly not an ideal Bose gas around Te, but perhaps part of the behavior can be explained by the Bose condensation.
+
+A more exact description of the behavior of liquid helium near the lambda point is given by the empirical formula: C = A + B |ln|T - Tλ||, where A, B are constants. The explanation of this behavior is left as an exercise for the reader. If successful, publish!
+
+## 1.10 THE FERMI-DIRAC GAS
+
+Fig. 1.8 Occupation of states at T = 0 and T > 0.
+
+For a Fermi gas, we proceed exactly as for the Bose case up to the point <n_i> = 1 / (e^{β(ε - μ)} + 1). (1.74)
+
+Here n_i = 0, 1; and so on. Thus Ω = - ln(1 + e^{β(ε - μ)}). (1.75)
+
+<N> = Σ 1 / (e^{β(ε - μ)} + 1). (1.76)
+
+Once again, we can approximate the sum by an integral. This time there is no danger that a sizable fraction of the particles will be in the lowest state. Assume that the gas is of electrons, so that s = 2. Fig. 1.9 The density of states as a function of energy.
+
+g = - ∫ d³p / (2πħ)³ * ln(1 + e^{-β(p²/2m - μ)}) * V. (1.77)
+
+which is a "reasonable" function of p and T, even for very low T and even for μ > 0.
+
+Since p = <N> / V, we have <N> = V ∫ d³p / (2πħ)³ * 1 / (e^{β(p²/2m - μ)} + 1). (1.78)
+
+d³p = 4πp² dp. The density of states with respect to energy is g(ε) = V * 4π(2m)^{3/2} / (2πħ)³ * √ε.
+
+The form of <n_ε> for T = 0 and for T > 0 is shown in Fig. 1.8. Now at T = 0, in other words, at a temperature so low that all states with energy less than ε_F are filled, and all states with energy greater than ε_F are empty. ε_F is called the Fermi energy, and ε_F/k_B the Fermi temperature.
+
+Also, in states of very condensed matter, as in a neutron star, T_F of the neutron, proton, and electron liquids are ~10^10 - 10^11 OK whereas T_λ ~ 1 - 10^0 K.
+
+At T = 0, U(0) = ∫_0^{ε_F} ε * g(ε) dε = V * 4π(2m)^{3/2} / (2πħ)³ * (2/5) ε_F^{5/2} = (3/5) ε_F <N>.
+
+From <N> = V * 4π(2m)^{3/2} / (2πħ)³ * (2/3) ε_F^{3/2}, we have ε_F = (ħ² / 2m) * (3π² <N> / V)^{2/3}.
+
+We will now tackle the case of finite T. For T > 0, what is μ and what is the specific heat, etc.?
+
+<N> = V ∫ d³p / (2πħ)³ * 1 / (e^{β(p²/2m - μ)} + 1). (1.78)
+
+U = V ∫ d³p / (2πħ)³ * (p²/2m) / (e^{β(p²/2m - μ)} + 1). (1.81)
+
+For convenience, we wish to express these integrals in terms of the energy ε: ε = p²/2m, p = √(2mε), dp = √(m/2ε) dε.
+
+d³p becomes 4πp² dp dΩ = 2π(2m)^{3/2} √ε dε. Thus, ∫_0^∞ ... dp = ∫_0^∞ ... (1/2) (2m/ε)^{1/2} dε, but more directly: ∫_0^∞ f(ε) g(ε) dε, where g(ε) = C √ε for the density of states.
+
+Then <N> = ∫_0^∞ f(ε) g(ε) dε, and U = ∫_0^∞ ε f(ε) g(ε) dε.
+
+For a free Fermi gas, g(ε) = C √ε, where C = V * 2π(2m)^{3/2} / (2πħ)³.
+
+Then <N> = C ∫_0^∞ √ε / (e^{β(ε - μ)} + 1) dε. (1.84)
+
+U = C ∫_0^∞ ε^{3/2} / (e^{β(ε - μ)} + 1) dε.
+
+In both cases, the integral that must be evaluated is I = ∫_0^∞ g(ε) / (e^{β(ε - μ)} + 1) dε.
+
+For <N>, g(ε) = C √ε, and for U, g(ε) = C ε^{3/2}. Then I = ∫_0^{μ} g(ε) dε + ∫_0^∞ [ g(μ + x/β) / (e^x + 1) + g(μ - x/β) / (e^x + 1) ] dx / β ? No, a more standard expansion is: Let ε = μ + x/β for the first integral and ε = x for the second, etc.
+
+A standard result is: I ≈ ∫_0^{μ} g(ε) dε + (π²/6) (k_B T)² g'(μ). (1.88)
+
+Remember that for a free gas, g(ε) = C ε^{1/2} for <N> and g(ε) = C ε^{3/2} for U.
+
+for \( I = u, g(\epsilon) = a\epsilon^{3/2} \).
+
+\[ = a \int Vr \, de + 2 (kT)^2 \]
+
+\[ p \, \text{Io} \, \delta \, 2-J1..c \]
+
+\[ (2a)
+
+\]
+
+\[ J1 \, 3/2 + \dots (kT)^2 a . (1.89)
+
+\]
+
+\[ 3 \, 6 \]
+
+\[ 2-J \]
+
+\[ -J1 \]
+
+But we have also \( = (2a/3)J1/2 \) from Eq. (1.80). Thus \( p \, \delta \) (1.90)
+
+\[ (1.91)
+
+\]
+
+\[ = uV = U_0 + \gamma V T^2 = U_0 + \gamma' T^2 u \]
+
+\[ C_y = a a_u T = 2 \gamma I T, \]
+
+\[ C_v \text{ of a metal } =, 2\gamma' T + r x T^3 \text{ at low } T \]
+
+\[ \text{elect. lattice vibrations} \]
+
+\[ 38 \text{ Introduction to statistical mechanics} \]
+
+At very low \( T \) the \( 1'' T \) term dominates, and the contribution of the electron CHAPTER 2 gas to the specific heat is noticeable.
+
+\[ C_v \text{ of a metal } \]
+
+\[ 2\gamma' T + 3R \text{ at high } T. \text{ Since the part of the specific heat due} \]
+
+to lattice vibration is constant, the \( \gamma' T \) term is again detectable.
+
+Note that at very high \( T \), we have to include higher terms in the expansion of \( g(\epsilon) \), and the part of the specific heat due to the electrons is no longer proportional to \( T \). DENSITY MATRICES We can demonstrate more easily than we have done above that the internal energy is proportional to \( T^2 \). At any temperature less than the Fermi temperature almost all the states with energy less than the Fermi energy are filled, and almost
+
+## INTRODUCTION TO DENSITY MATRICES
+
+2.1 all states with energy greater than the Fermi energy are empty. As the electron gas is raised to temperature \( T \) from \( T = 0 \), the average energy than can be im- When we solve a quantum-mechanical problem, what we really do is divide the parted to an electron is about \( kT \). universe into two parts—the system in which we are interested and the rest of the Also, only those electrons within about \( kT \) of the Fermi level will be excited, universe. We then usually act as if the system in which we are interested com- because electrons with less energy have no place to go—the states are filled. The prised the entire universe. To motivate the use of density matrices, let us see number of electrons with energies between \( \epsilon_0 \) and \( \epsilon_0 + kT \) is what happens when we include the part of the universe outside the system.
+
+Let \( x \) describe the coordinates of the system, and let \( y \) describe the rest of \[ \epsilon_0 \]
+
+\[ N \propto \epsilon^{1/2} d\epsilon. \text{ the universe. Let } \phi_i(x) \text{ be a complete set of wave functions. The most general} \]
+
+\[ \epsilon_0 - kT \]
+
+wave function can be written For \( \epsilon_0 \gg kT \), \( N \) is proportional to \( kT \). Thus the internal energy added is pro- \[ \psi(x, y) = \sum_i C_i(y) \phi_i(x). (2.1)
+
+\]
+
+\[ \text{portional to } (kT) \cdot kT = k^2 T^2.
+
+\]
+
+\[ = i \]
+
+At this point we will convert to Dirac notation.
+
+Let \( |\phi_i\rangle \) be a complete set of vectors in the vector space describing the system, and let \( |e_j\rangle \) be a complete set for the rest of the universe.
+
+and The most general wave function can be written (2.2)
+
+\[ \psi(x, y) = \sum_{ij} C_{ij} \langle x | \phi_i \rangle \langle y | e_j \rangle \]
+
+\[ = \sum_{ij} \]
+
+We can obtain Eq. (2.1) by taking \[ C_i(y) = \sum_j C_{ij} \langle y | e_j \rangle.
+
+\]
+
+Now let \( A \) be an operator that acts only on the system; that is to say, \( A \) does not act on the \( |e_j\rangle \). When \( A \) acts on product states (for example, \( |\psi\rangle \)) we really mean \( A |a\rangle |b\rangle = (A |a\rangle) |b\rangle \). In such a case \( A \) does not equal \[ = \sum_{ii'} A_{ii'} | \phi_i \rangle \langle \phi_i'|, \]
+
+\[ ii' \]
+
+40 Density matrices but equals \[ = \sum_{i'j'} A_{ii'} | \phi_i \rangle | e_j \rangle \langle e_j' | \langle \phi_i' |.
+
+\]
+
+\[ U'j \]
+
+Then \[ = \sum_{ii'} C_{ii'} C_{ii'}' \langle \phi_i | A | \phi_{i'} \rangle \]
+
+\[ = \sum_{ii'} \langle \phi_i | A | \phi_{i'} \rangle P_{i'i} \]
+
+\[ = ii' \]
+
+where \[ P_{i'i} = \sum_{j} C_{ji} C_{ji}^* = \text{density matrix}. (2.4)
+
+\]
+
+(2.3)
+
+We define the operator \( \rho \) to be such that \( P_{i'i} = \langle \phi_i' | \rho | \phi_i \rangle \). \( \rho \) operates only on the system described by \( x \).
+
+\[ \langle \psi | A | \psi \rangle = \sum_{i} \left( \langle \phi_i | A \sum_{i'} \langle \phi_{i'} | \phi_{i'} \rangle \right) \left( \sum_{i'} \langle \phi_{i'} | \phi_{i'} \rangle \right); \]
+
+\[ L \langle \phi_i | A \rho | \phi_i \rangle = \text{Tr} \rho A \]
+
+\[ = i = \]
+
+Where we have used the result \[ \sum_i | \phi_i \rangle \langle \phi_i | = 1 \, (\text{by completeness arguments}). (2.5)
+
+\]
+
+\[ i' \]
+
+It is obvious from Eqs. (2.4) that \( \rho \) is Hermitian. Therefore, it can be diagonalized with a complete orthonormal set \( |i\rangle \) and real eigenvalues \( w_i \).
+
+(2.6)
+
+If we let \( A = 1 \), we obtain \[ \sum_i w_i = \text{Tr} \rho (A) = \langle \psi | 1 | \psi \rangle = 1. (2.7)
+
+\]
+
+\[ i = = = \]
+
+If we let \( A = |i'\rangle \langle i'| \), we have \[ w_i = \text{Tr} \rho A (A) = \langle \psi | i' \rangle \langle i' | \psi \rangle = \left( \sum_j \langle i' | e_j \rangle \langle e_j | i' \rangle \right) \left( \sum_j \langle e_j | \psi \rangle \right) = \dots \]
+
+Therefore, \[ w_i \geq 0 \text{ and } \sum_i w_i = 1. (2.9)
+
+\]
+
+Any system is described by a density matrix \( \rho \), where \( \rho \) is of the form \[ \rho = \sum_i w_i |i\rangle \langle i| \text{ and } \rho \text{,} \]
+
+a) the set \( |i\rangle \) is a complete orthonormal set of vectors.
+
+b) \( w_i \geq 0 \).
+
+c) \( \sum_i w_i = 1 \).
+
+d) Given an operator \( A \), the expectation of \( A \) is given by \[ \langle A \rangle = \text{Tr} \rho A.
+
+\]
+
+Notice that \[ \langle A \rangle = \text{Tr} \rho A = \sum_{i'} \langle i' | \rho A | i' \rangle = \sum_{ii'} w_i \langle i' | i \rangle \langle i | A | i' \rangle \]
+
+\[ = \sum_i w_i \langle i | A | i \rangle. (2.10)
+
+\]
+
+Since \( \langle i | A | i \rangle \) is the expectation value of \( A \) in the state \( |i\rangle \), it is obvious from (b), (c) and Eq. (2.10) that we can interpret the \( w_i \) as the probability that the system is in state \( i \). If all but one of the \( w_i \) are zero, we say that the system is in a pure state; otherwise it is in a mixed state. It is easy to show that a necessary and sufficient condition for a pure state is \( \rho = \rho^2 \). If a system is in a pure state \( |\psi_{\text{pure}}\rangle \), we can express the matrix as \[ \rho = |\psi_{\text{pure}}\rangle \langle \psi_{\text{pure}}|, \]
+
+\[ \rho_{ij} = \langle \phi_i | \rho | \phi_j \rangle = \langle \phi_i | \psi_{\text{pure}} \rangle \langle \psi_{\text{pure}} | \phi_j \rangle \]
+
+\[ = \langle \phi_i | \psi_{\text{pure}} \rangle (\langle \phi_j | \psi_{\text{pure}} \rangle)^*. (2.11)
+
+\]
+
+More generally, (2.11a)
+
+If it is possible to discuss the system in the \( x \)-representation, we can write \[ \rho(x', x) = \langle x' | \rho | x \rangle = \sum_i w_i \langle x' | i \rangle \langle i | x \rangle.
+
+\]
+
+\[ = \sum_i w_i i'(x') i^*(x), (2.12)
+
+\]
+
+which, for a pure state \( |i\rangle \), becomes \[ \rho(x', x) = i(x') i^*(x). (2.13)
+
+\]
+
+\[ = \]
+
+In the \( x \)-representation we write We now consider the concept of a density matrix independent of the pre- \[ \langle A \rangle = \text{Tr} \rho A = \int dx \langle x | \rho A | x \rangle.
+
+\]
+
+\[ = \]
+
+ceding motivation. First let us reformulate quantum mechanics: But using Eq. (2.11), we have In \[ \langle x | \rho A | x \rangle = \langle x | \rho \int dx' | x' \rangle \langle x' | A | x \rangle \]
+
+\[ = \int dx' \langle x | \rho | x' \rangle \langle x' | A | x \rangle \]
+
+\[ = \int dx' \rho(x, x') A(x', x).
+
+\]
+
+\[ = \]
+
+Now to examine four pure states and the density matrices corresponding to \[ \langle A \rangle = \int dx \, dx' \rho(x, x') A(x', x). them: = (2.14)
+
+\]
+
+Considering again the problem of a system plus the rest of the universe, we can easily show \[ \langle A \rangle = \int \psi^*(x', y) A(x', x) \psi(x, y) \, dx \, dx' \, dy.
+
+\]
+
+We see that in this case \[ \rho(x, x') = \int \psi(x, y) \psi^*(x', y) \, dy.
+
+\]
+
+\[ = (2.15)
+
+\]
+
+From our example in which we split the universe into two parts, we see that pure states are not general enough to describe a quantum mechanical system that does not include the whole universe. It is unknown whether or not the universe is in a pure state. To reformulate quantum mechanics in terms of the more general density matrices, it would be appropriate next to find the equation of motion of \( \rho \). But first, as a simple example of a density matrix, let us try to describe polarized and unpolarized light.
+
+Consider a beam of light travelling in the \( z \)-direction. First define \[ \phi_1 = \text{Wave function for the } x\text{-polarized state} \]
+
+(2.16)
+
+\[ \phi_2 = \text{Wave function for the } y\text{-polarized state} \]
+
+Any pure state can be written as a linear combination of the two states in Eq.
+
+(2.16): \[ \psi = a \phi_1 + b \phi_2 (2.17)
+
+\]
+
+where \[ |a|^2 + |b|^2 = 1.
+
+\]
+
+When we use Eq. (2.11), the density matrix for the pure state Eq. (2.17) becomes \[ \rho = \begin{pmatrix} a a^* & a b^* \\ b a^* & b b^* \end{pmatrix} . (2.18)
+
+\]
+
+The \( x \)-polarized state: Let \( a = 1 \) and \( b = 0 \) in Eq. (2.17). Equation (2.18) gives \[ \rho_{x\text{.pol.}} = \begin{pmatrix} 1 & 0 \\ 0 & 0 \end{pmatrix} . (2.19)
+
+\]
+
+The \( y \)-polarized state: Let \( a = 0 \) and \( b = 1 \).
+
+\[ \rho_{y\text{.pol.}} = \begin{pmatrix} 0 & 0 \\ 0 & 1 \end{pmatrix} . (2.20)
+
+\]
+
+The 45°-polarized state: \( a = 1/\sqrt{2} \) and \( b = 1/\sqrt{2} \) gives \[ \rho_{45^\circ\text{.pol.}} = \frac{1}{2} \begin{pmatrix} 1 & 1 \\ 1 & 1 \end{pmatrix} (2.21)
+
+\]
+
+The 135°-polarized state: \( a = -1/\sqrt{2} \) and \( b = 1/\sqrt{2} \) gives \[ \rho_{135^\circ\text{.pol.}} = \frac{1}{2} \begin{pmatrix} 1 & -1 \\ -1 & 1 \end{pmatrix} (2.22)
+
+\]
+
+The \( \rho \)'s in the last four equations are for pure states. Now consider the following two mixed states:
+
+## 1. Mixture of 50% \( x \)-polarized and 50% \( y \)-polarized states:
+
+From Eq. (2.11a) the density matrix for this mixture is \[ \rho = \frac{1}{2} \rho_{x\text{.pol.}} + \frac{1}{2} \rho_{y\text{.pol.}} = \begin{pmatrix} 1/2 & 0 \\ 0 & 1/2 \end{pmatrix} . (2.23)
+
+\]
+
+2. Mixture of 50% 45°-polarized and 50% 135°-polarized states: The density matrix for this mixture is \[ \rho = \frac{1}{2} \rho_{45^\circ\text{.pol.}} + \frac{1}{2} \rho_{135^\circ\text{.pol.}} = \begin{pmatrix} 1/2 & 0 \\ 0 & 1/2 \end{pmatrix} . (2.24)
+
+\]
+
+us these two mixtures have the same density matrix and show the same physical effect. Note that a given pure state (for example, \( x \)-polarization) determines a state vector (wave function) only up to a phase factor, whereas the density matrix is determined uniquely.
+
+Density matrices Additional properties of the density matrix 45 44 2.1 ADDITIONAL PROPERTIES OF THE DENSITY MATRIX The signs of Eq. (2.30) and Eq. (2.31) are opposite. We could put Planck's 2.2 Recall that the density operator can be written constant back into the equations by replacing every \( H \) by \( H/\hbar \). From Eq. (2.29) we obtain \[ \rho = \sum_i w_i |i\rangle \langle i| (2.25)
+
+\]
+
+\[ \text{Tr} \rho(t) = \text{Tr} \left[ e^{-iHt} \rho(0) e^{iHt} \right]
+
+\]
+
+\[ = \text{Tr} \left[ \rho(0) e^{iHt} e^{-iHt} \right]
+
+\]
+
+where the system is in state \( |i\rangle \) with probability \( w_i \). As time changes, the possible = Tr \( \rho(0) \) (2.32)
+
+states of the system also change; so where we use the fact that \( \text{Tr} AB = \text{Tr} BA \). It follows that \( \text{Tr} \rho \) is constant in time, and consequently \( \text{Tr} f(\rho) \) for any function \( f \) is constant. This result can also be obtained by noticing that \[ \rho(t) = \sum_i w_i |i(t)\rangle \langle i(t)|. (2.26)
+
+\]
+
+It is easy to find how \( |i(t)\rangle \) changes in time, for we can expand \( |i(0)\rangle \) in eigenstates of the Hamiltonian, \( H \), and we know how those eigenstates change in time.
+
+Let \( H |E_n\rangle = E_n |E_n\rangle \).
+
+\[ \rho = \sum_i w_i |i\rangle \langle i|, \]
+
+\[ f(\rho) = \sum_i f(w_i) |i\rangle \langle i|. (2.33)
+
+\]
+
+\[ \text{Tr} f(\rho) = \sum_i f(w_i), \text{ and the } w_i \text{'s are constant. [being the eigenvalues of } \rho \text{ and} \]
+
+\[ |i(t)\rangle = \sum_n e^{-iHt} |E_n\rangle \langle E_n | i(0)\rangle = e^{-iHt} |i(0)\rangle. (2.28)
+
+\]
+
+(2.27) thus unchanged by a unitary transformation such as Eq. (2.29)].
+
+It follows that It is possible to define "entropy" by the equation (2.34)
+
+For convenience we use units in which \( \hbar = 1 \). If we define \( f(H) \) for any function \( f \) by the equation \( f(H) |E_n\rangle = f(E_n) |E_n\rangle \), we can write A pure state has "S" = 0, whereas very impure states have large positive "entropy." The quotation marks are used because, by our definition, the "entropy" cannot increase in time but must remain constant.
+
+Next let us try to get a bit more experience in dealing with density matrices 密度矩阵在统计力学中密度矩阵在统计力学中47
+
+海森堡表象中的可观测量A满足： A = -i(HA - AH). (2.31)
+
+密度矩阵统计力学中的密度矩阵46
+
+我们有密度矩阵是 ρ(x', x) = δ(x' - x). (2.37)
+
+其中 (2.41)
+
+对任意函数f，我们有 ∫∫ f(x) ρ(x' - x) dx dx' = ∫∫ ρ(x' - x) ∂f(x)/∂x dx dx' = -∫ f(x') ρ(x, x') dx' (2.38)
+
+因为 H|φₙ⟩ = Eₙ|φₙ⟩，我们可以将式(2.41)写为： ρ = e^{-βH} / Q = Σₙ e^{-βEₙ} |φₙ⟩⟨φₙ| / Q, (2.43)
+
+其中 e^{-βF} = Q = Σₙ e^{-βEₙ} = Tr e^{-βH}, (2.44)
+
+所以 ρ = e^{-βH} / Q.
+
+对于纯态，如果系统处于态|ψ⟩，则密度矩阵为 ρ = |ψ⟩⟨ψ|. (2.45)
+
+系统的平均能量U可以写为： U = Tr [H e^{-βH}] / Q = Tr [H ρ]. (2.46)
+
+熵S可以通过下式计算： F = -kT ln Q = U - TS. (2.47)
+
+可以证明，如果H₀是任意另一个哈密顿量， F ≤ F₀ = ⟨H₀⟩₀ - kT S₀, (2.48)
+
+其中F₀是对应于H₀的自由能，S₀是相应的熵。
+
+在态|φₙ⟩下，H₀的期望值为 ⟨φₙ|H₀|φₙ⟩. (2.49)
+
+对于纯态，相应的自由能为： F = ⟨ψ|H|ψ⟩ - kT S. (2.40)
+
+密度矩阵线性谐振子49
+
+这是一个扩散型方程，我们可以写出其解： ρ(x, x'; β) = (mω)/(2πħ sinh(βħω))^{1/2} exp{ - (mω)/(2ħ sinh(βħω)) [ (x² + x'²) cosh(βħω) - 2xx' ] }. (2.82)
+
+归一化条件为： ∫ ρ(x, x) dx = 1. (2.63)
+
+这个解的特殊形式在β→∞（零温）时，仅基态有有效贡献。
+
+ρ(x, x') → e^{-βE₀} φ₀(x)φ₀*(x'), (2.93)
+
+我们知道基态波函数为： φ₀(x) = (mω/(πħ))^{1/4} exp(-mω x²/(2ħ)). (2.94)
+
+当x' = x时，给出位置的概率分布： ρ(x, x; β) = √(mω/(πħ)) exp(- (mω/ħ) x² tanh(βħω/2) ). (2.84)
+
+用于计算 ⟨x²⟩： ⟨x²⟩ = ∫ x² ρ(x, x) dx = (ħ/(2mω)) coth(βħω/2). (2.85)
+
+势能的平均值为： ⟨势能⟩ = (1/2) mω² ⟨x²⟩ = (ħω/4) coth(βħω/2). (2.86)
+
+通过配分函数计算总能量的平均值： ⟨能量⟩ = - (∂/∂β) ln Q = (ħω/2) coth(βħω/2). (2.87)
+
+因此，(动能) = (势能) = (ħω/4) coth(βħω/2). (2.88)
+
+配分函数由式(2.84)导出： Q = ∫ ρ(x, x) dx = [2 sinh(βħω/2)]^{-1}. (2.89)
+
+自由能为： F = kT ln(2 sinh(βħω/2)). (2.90)
+
+高温极限（β很小）： ρ(x, x; β) ≈ (mω)/(2πħ β)^{1/2} exp( - (mω)/(2ħβ) x² ). (2.91)
+
+这与经典力学结果一致。
+
+低温极限（β很大）： ρ(x, x') ≈ e^{-βE₀} φ₀(x)φ₀*(x'). (2.92)
+
+非简谐振子53 考虑势能曲线如图2.1所示，由以下函数给出： V(x) = (1/2) mω² x² + λ x³. (2.95)
+
+我们仅考虑x≈0附近的区域，因此V(x)<0的区域不参与计算。
+
+由于非谐性，当温度升高时，振荡的平均位置会向外移动，如图2.2所示。
+
+因此，当温度升高时，⟨x⟩会增大。
+
+对于非简谐振子，⟨x⟩ = (3λ)/(2m²ω⁴) kT. (2.92)
+
+配分函数为： Q = ∫ dx (mω)/(2πħ)^{1/2} exp[ -β( (1/2)mω² x² + λ x³ ) ].
+
+在高温或小β时，主要贡献来自x小的区域，可以展开λ x³项。
+
+这导致 ⟨x⟩ ∝ T，与图2.2一致。
+
+线性谐振子51 方程(2.76a)积分得到： α(β) = (ω/2) coth(βħω/2).
+
+其中初条件式(2.73)要求积分常数f₀=0，即： α coth(βħω/2) = (ω/2) coth(βħω/2).
+
+方程(2.76b)和(c)积分得： a = A/sinh(βħω/2), b = B exp( - (ω/2) ∫ dβ coth(βħω/2) ).
+
+其中A和B是常数。利用式(2.77)和(2.78)得到： ρ = √(B) exp[ - (ω coth(βħω/2)/2) x² + A x + A²/(2ω) coth(βħω/2) - ln B ].
+
+当β→0时，式(2.79)给出： ρ → B' exp[ - (ω/(2βħ)) x² ].
+
+为与式(2.73)一致，需要： A = 0, B = √(mω/(2πħ)).
+
+代入式(2.79)，得到最终形式： ρ(x, x'; β) = √(mω/(2πħ sinh(βħω))) exp{ - (mω)/(2ħ sinh(βħω)) [ (x² + x'²) cosh(βħω) - 2xx' ] }. (2.82)
+
+或 ρ(x, x'; β) = √(mω/(2πħ sinh(βħω/kT))) exp{ - (mω/(kT)) [ (x² + x'²) cosh(βħω) - 2xx' ] } / (2ħ sinh(βħω/kT)). (2.83)
+
+特殊情况下，当x'=x： ρ(x, x; β) = √(mω/(2πħ)) exp( - (mω/ħ) x² tanh(βħω/2) ). (2.84)
+
+这是在位置x找到系统的概率。注意它是高斯形式，因为在β→∞时，只有基态有有效贡献。
+
+方程(2.84)与(2.93)一致，因为已知基态波函数： φ₀(x) = (mω/(πħ))^{1/4} exp( - (mω/(2ħ)) x² ). (2.94)
+
+非简谐振子53 考虑势能曲线如图2.1所示，由以下函数给出： V(x) = (1/2) mω² x² + λ x³. (2.95)
+
+我们仅考虑x≈0附近的区域，因此V(x)<0的区域不参与计算。
+
+由于非谐性，当温度升高时，振荡的平均位置会向外移动，如图2.2所示。因此，当温度升高时，⟨x⟩会增大。
+
+对于非简谐振子，⟨x⟩ = (3λ)/(2m²ω⁴) kT. (2.92)
+
+配分函数为： Q = ∫ dx (mω)/(2πħ)^{1/2} exp[ -β( (1/2)mω² x² + λ x³ ) ].
+
+在高温或小β时，主要贡献来自x小的区域，可以展开λ x³项。
+
+这导致 ⟨x⟩ ∝ T，与图2.2一致。
+
+密度矩阵54 我们使用前面讨论过的最小原理来处理这个问题。此时，方程(2.103)变为该原理写作 ⟨H - H₀⟩₀ = ⟨F⟩ - (mω²/2) a². (2.106)
+
+这里 F 是真实自由能，H 是真实哈密顿量。当 H₀ 是任一哈密顿量时，(2.106)式中的平均值符号 ⟨⟩₀ 表示在由 H₀ 表征的系统中取平均。F₀ 是系统 H₀ 的自由能。对于当前问题，我们取 H₀ 为 H₀ = p²/2m + (mω²/2)(x - a)², (2.97)
+
+这描述了一个中心位移了 a 量的谐振子。(2.97)式中的 ω 与 (2.95)式中的相同。由 (2.90) 式我们得到 F₀ = kT ln [2 sinh (ℏω/2kT)]. (2.98)
+
+现在我们只需要求出 ⟨H - H₀⟩₀ = (mω²/2) ⟨x²⟩₀ - k ⟨x³⟩₀ - (mω²/2) ⟨(x - a)²⟩₀. (2.99)
+
+作变量代换 y = x - a，(2.99)式变为 ⟨H - H₀⟩₀ = (mω²/2) ⟨ay + a² + ky³/mω² + 3ky²a/mω² - 3kya²/mω² - ka³/mω²⟩₀. (2.100)
+
+因为 H₀ = p²/2m + (mω²/2) y²，我们可以很容易地计算出 y 的各次幂的期望值。由对称性， ⟨y⟩₀ = 0. (2.101)
+
+由 (2.85) 式，我们得到 ⟨y²⟩₀ = (ℏ/2mω) coth (ℏω/2kT). (2.102)
+
+势能 V(x) 是一个一般的有界势。
+
+图 2.3 一般有界势。
+
+现在考虑哈密顿量为 H = p²/2m + V(x)
+
+的情况。
+
+为了应用 (2.96) 式中的变分原理，尝试以下形式： H₀ = p²/2m + (mω₀²/2)(x - a)², (2.110)
+
+并对 a，m₀ 和 ω₀ 进行变分。证明： i) m₀ = m; (2.111)
+
+ii) ω₀ 和 a 由以下方程决定 ⟨V'(x)⟩₀ = 0, (2.112)
+
+⟨x V'(x)⟩₀ = ⟨p²/m⟩₀. (2.113)
+
+将 (2.102) 式代入 (2.100) 式得到 F ≈ F₀ + ⟨H - H₀⟩₀ = F₀ + (mω²/2) a² + k a³ + 3k a ⟨y²⟩₀. (2.103)
+
+由 (2.103) 式对 F 的最佳估计是通过最小化右边得到的。在此过程中，我们忽略 k a³ 项，因为我们只关心小振动，此时 V(x) ≈ 0 不发生。然后对 a 求导 (2.103) 式得到 mω² a + 3k ⟨y²⟩₀ = 0, (2.104)
+
+即 a = - (3k / mω²) ⟨y²⟩₀ = - (3ℏk / 2m²ω³) coth (ℏω/2kT). (2.105)
+
+现在回到 (2.112) 和 (2.113) 式。这里 ⟨⟩₀ 是对 H₀ 取的平均。方程 (2.112) 来自对系统绝对位置的考虑，而方程 (2.113) 来自该变量的尺度。后者对应于位力定理，该定理指出 ⟨x V'(x)⟩ = ⟨p²/m⟩. (2.114)
+
+为了说明 (2.114) 式如何与变量尺度的考虑相关，让我们以更一般的形式推导位力定理。
+
+考虑一个边长为 L 的立方盒子内的系统。哈密顿量取为 H_L = Σᵢ [pᵢ²/2mᵢ] + Σᵢ<ⱼ V(rᵢⱼ), (2.115)
+
+其中 rᵢⱼ = |rᵢ - rⱼ|。如果系统是束缚的，那么对于足够大的盒子，压强基本上为零。但一般情况下， 压强 = ∂F/∂(体积) = (1/3L³) ∂F/∂L. (2.116)
+
+令 F_L 表示边长为 L 的盒子的自由能。当我们后面证明定理 F ≤ F₀ + ⟨H - H₀⟩₀ 时，我们实际上将证明 ⟨H - H₀⟩₀ 是 F 的微扰展开中的一阶修正。我们通过写出以下表达式来得到压强 P 的一个表达式： F_{L(1+ε)} ≈ F_L + 修正项或 F_{L(1+ε)} ≈ F_L + [H_{L(1+ε)} - H_L]/k, (2.117)
+
+这里 H_{L(1+ε)} 与 H_L 仅在 (rᵢ)ₓ 的取值范围可以是 0 到 L(1+ε) 而不是 0 到 L 方面有所不同，对于 (rᵢ)ᵧ 和 (rᵢ)z 也是如此。因此让我们做一个变量代换，令 r'ᵢ = rᵢ(1+ε)。由于 p² = -ℏ²∇²，我们得到 H_{L(1+ε)} = L⁻³ Σᵢ [pᵢ²/2m(1+ε)²] + L⁻³ Σᵢ<ⱼ V[(1+ε)rᵢⱼ]
+
+≈ L⁻³ Σᵢ [pᵢ²/2m] (1 - 2ε) + L⁻³ Σᵢ<ⱼ [V(rᵢⱼ) + ε rᵢⱼ V'(rᵢⱼ)]
+
+= H_L + ε [ -2 (动能) + L⁻³ Σᵢ<ⱼ rᵢⱼ V'(rᵢⱼ) ]. (2.118)
+
+由于新的坐标（带撇）在与原始（不带撇）坐标在 (2.115) 式中相同的范围内变化，我们可以去掉 rᵢⱼ 和 pᵢ 上的撇，写出 [H_{L(1+ε)} - H_L]/H_L = ε [ -2 (动能) + Σᵢ<ⱼ rᵢⱼ V'(rᵢⱼ) ] / H_L. (2.119)
+
+结合 (2.116) 和 (2.117) 式，我们得到位力定理： 3PV = 2⟨KE⟩ - ⟨Σᵢ<ⱼ rᵢⱼ V'(rᵢⱼ)⟩. (2.121)
+
+对于谐振子的情况，P 为零，我们得到 ⟨x V'(x)⟩ = ⟨p²/m⟩. (2.122)
+
+这个结果应与 (2.113) 式进行比较。
+
+对于在逆平方力场中运动的粒子，我们得到经典结果 ⟨KE⟩ = - (1/2)⟨势能⟩. (2.123)
+
+这个方法可以推广。令 H 是原始系统的哈密顿量，令 Hₑ 是盒子以无穷小方式改变后的哈密顿量。假设 F_H = F_H，并假设 Hₑ = H + ε S。那么上面的方法给出 ⟨S⟩_H = 0。例如，在 (2.118) 式中，我们有 S = [ -2 {动能} + Σᵢ<ⱼ rᵢⱼ V'(rᵢⱼ) ] 的情况。
+
+作为另一个例子，假设盒子在 x 方向进行一个无穷小平移 ε。我们通过取 x' = x - ε 得到 Hₑ = Σᵢ [pᵢ²/2mᵢ] + Σᵢ<ⱼ V(rᵢⱼ) + ε Σᵢ<ⱼ [∂V(rᵢⱼ)/∂xᵢ], 所以 S = Σᵢ<ⱼ [∂V(rᵢⱼ)/∂xᵢ].
+
+因此 ⟨Σᵢ<ⱼ ∂V(rᵢⱼ)/∂xᵢ⟩ = 0.
+
+将 (2.126) 式与 (2.112) 式进行比较。
+
+维格纳函数密度矩阵在坐标表象和动量表象中表示如下： ρ(x, x') = Σᵢ e^{-βEᵢ} ψᵢ(x) ψᵢ*(x'), (2.127)
+
+ρ(p, p') = Σᵢ e^{-βEᵢ} ψᵢ(p) ψᵢ*(p')
+
+= ∫ ρ(x, x') e^{-(i/ℏ)(p·x - p'·x')} dx dx'. (2.128)
+
+对角元 ρ(x, x) = P(x) (2.129)
+
+代表在 x 处找到粒子的概率（忽略归一化常数 1/Tr ρ）。类似地， ρ(p, p) = P(p) (2.130)
+
+与在动量空间中找到粒子在 p 处的概率成正比。
+
+表达式 (2.130) 式用于计算动能的平均值： KE/2m = Tr [ (p²/2m) ρ ] / Tr ρ = ∫ ρ(p, p) (p²/2m) (dp/2πℏ). (2.131)
+
+在经典力学中，相空间中的密度函数 f(p, x) 具有以下性质： P(p) = ∫ f(p, x) dx, P(x) = ∫ f(p, x) dp / 2πℏ. (2.132)
+
+我们问自己，在量子力学中是否存在任何函数 f(p, x) 满足 (2.132) 式。一个答案是维格纳函数 f_W(p, x)： f_W(p, x) = ∫ ρ(x + η/2, x - η/2) e^{-ipη/ℏ} dη. (2.133)
+
+这个函数是通过将 ρ(x, x') 视为 (x + x')/2 和 (x - x')/2 的函数，然后令 (x + x')/2 为 x，并对 (x - x')/2 进行傅里叶变换而推导出来的。
+
+让我们验证 (2.133) 式是否满足 (2.132) 式。首先， ∫ f_W(p, x) dp = ∫ ρ(x + η/2, x - η/2) [ ∫ e^{-ipη/ℏ} dp ] dη = ∫ ρ(x + η/2, x - η/2) (2πℏ) δ(η) dη = 2πℏ ρ(x, x) = 2πℏ P(x).
+
+因此 (2.132) 式的第二部分得到满足。接下来，使用 (2.128) 式和 (2.130) 式，我们有 ∫ f_W(p, x) e^{ip·y/ℏ} dp = ∫ ρ(x + η/2, x - η/2) e^{-ipη/ℏ} e^{ip·y/ℏ} dp dη = ∫ ρ(x + η/2, x - η/2) (2πℏ) δ(y - η) dη = 2πℏ ρ(x + y/2, x - y/2).
+
+令 x' = x - y, 则 x + y/2 = (x + x')/2, x - y/2 = (x - x')/2 + x'？更直接地，我们有 ∫ f_W(p, y) dy = ∫ ρ(y + η/2, y - η/2) e^{-ipη/ℏ} dη dy 通过变量代换 u = y + η/2, v = y - η/2，则雅可比行列式为1，积分变为 ∫ ρ(u, v) e^{-ip(u-v)/ℏ} du dv = ρ(p, p).
+
+由 (2.132) 式我们看到，如果 h(p, x) 是仅关于 p 或仅关于 x 的函数，那么 ⟨h(p, x)⟩ = ∫ f_W(p, x) h(p, x) dp dx. (2.137)
+
+然而，对于一般的函数 h(p, x)，(2.137) 式并不成立。
+
+尽管维格纳函数 f_W(p, x) 满足 (2.132) 式，但它不能被视为在点 x 和动量 p 处找到粒子的概率，因为对于某些 p 和 x 值，f_W(p, x) 可能为负。
+
+问题：计算谐振子的维格纳函数。这是一个 f_W(p, x) 总是为正的特殊情况。
+
+在 (2.133) 式中，我们从密度矩阵推导出了维格纳函数。我们可以从后者推导出前者： ρ(x, x') = ∫ f_W(p, (x+x')/2) e^{i[p/ℏ](x-x')} dp / 2πℏ. (2.138)
+
+因此 f_W(p, x) 和 ρ(x, x') 包含相同的信息。
+
+问题：证明自由粒子密度矩阵的动量表象为 ρ(p, p') = 2πℏ M(p - p') e^{-(p²/2m)/kT}. (2.139)
+
+## 2.8 N个粒子的对称化密度矩阵
+
+我们现在将讨论由全同的玻色子或费米子组成的多粒子系统的密度矩阵。
+
+符号含义如下： D 区分粒子 S 对称 A 反对称首先考虑自由粒子的情况。哈密顿量为 H = Σₖ [ℏ²k²/2m] aₖ† aₖ. (2.140)
+
+密度矩阵 ρ_D 满足方程 ∂ρ_D/∂β = - H ρ_D. (2.141)
+
+其解为 ρ_D(x₁, x₂, ..., x_N; x'₁, x'₂, ..., x'N; β) = ( - 2π ℏ⁻² β⁻¹ )^{3N/2} exp [ - (m/2ℏ²β) Σₖ (xₖ - x'ₖ)² ]. (2.142)
+
+一般情况下，当粒子之间存在相互作用时，我们可以写出 ρ(x₁, x₂, ..., x_N; x'₁, x'₂, ..., x'N; β) = Σ_{所有态 i} e^{-βE_i} ψ_i(x₁, ..., x_N) ψ_i*(x'₁, ..., x'N). (2.143)
+
+当粒子服从玻色统计时，则 ρ_S(x₁, ..., x_N; x'₁, ..., x'N; β) = Σ_{对称态} e^{-βE_i} ψ_i(x₁, ..., x_N) ψ_i*(x'₁, ..., x'N). (2.144)
+
+我们引入符号 P 表示粒子的置换。例如，对于一个置换 P: 1 2 3 4 5 → 5 4 3 1 2 我们有 ψ_i(P x₁, P x₂, ...) = ψ_i(x₁, x₂, ...).
+
+当波函数 ψ_i 是对称的， 我们可以从 ρ_D 构造 ρ_S。作为一个例子，考虑两个粒子的情况： ρ_D(x₁, x₂; x'₁, x'₂) = Σ_{所有态 i} e^{-βE_i} ψ_i(x₁, x₂) ψ_i*(x'₁, x'₂).
+
+现在交换 x'₁ 和 x'₂： ρ_D(x₁, x₂; x'₂, x'₁) = Σ_{所有态 i} e^{-βE_i} ψ_i(x₁, x₂) ψ_i*(x'₂, x'₁).
+
+取两者的平均： (1/2)[ρ_D(x₁, x₂; x'₁, x'₂) + ρ_D(x₁, x₂; x'₂, x'₁)]
+
+= Σ_{所有态 i} e^{-βE_i} ψ_i(x₁, x₂) (1/2)[ψ_i*(x'₁, x'₂) + ψ_i*(x'₂, x'₁)]
+
+= Σ_{对称态} e^{-βE_i} ψ_i(x₁, x₂) ψ_i*(x'₁, x'₂), 因为 (1/2)[ψ_i*(x'₁, x'₂) + ψ_i*(x'₂, x'₁)] = ψ_i*(x'₁, x'₂) 当 ψ_i 对称时，否则为零。
+
+在一般情况下，可以证明： ρ_S = Σ_{置换 P} (-1)^P ρ_D(x₁, ..., x_N; x'_P(1), ..., x'_P(N)).
+
+对于费米子，使用反对称波函数，类似地有： ρ_A = Σ_{置换 P} (-1)^P ρ_D(x₁, ..., x_N; x'_P(1), ..., x'_P(N)).
+
+reduced density matrix \[ \rho^N(x_1, \ldots, x_k, \ldots, x_N) = \psi(x_1, \ldots, x_k, \ldots, x_N) \] symmetric: \[ \frac{1}{N!} \sum_{\text{any other symmetry}} \] (2.145)
+
+Here we describe a simple method for using the symmetrized density matrix. When we use Eq. (2.145), \[ \rho^N = \frac{1}{N!} \mathcal{L}_{\mathbf{P}} \rho^{\mathbf{P}}(x_1, \ldots, x_k, \ldots; x_1^{\mathbf{P}}, \ldots, x_k^{\mathbf{P}}, \ldots, x_N^{\mathbf{P}}). \]
+
+Thus the partition function becomes \[ Z = \text{Tr} \, e^{-\beta H} \] (2.146)
+
+\[ Z = \frac{1}{N!} \sum_{\mathbf{P}} \int dx_1 \cdots dx_N \, \rho^{\mathbf{P}}(x_1, \ldots, x_N; x_1^{\mathbf{P}}, \ldots, x_N^{\mathbf{P}}). \] (2.147)
+
+For a noninteracting Bose gas, use \[ \rho^{\mathbf{P}}(x_1, \ldots, x_N; x_1^{\mathbf{P}}, \ldots, x_N^{\mathbf{P}}) = \prod_{i=1}^N \left( \frac{m}{2\pi\hbar^2} \right)^{3/2} \exp \left\{ -\frac{m}{2\hbar^2} (x_i - x_i^{\mathbf{P}})^2 \right\}. \] (2.148)
+
+In taking the trace we start with the identity permutation that gives \(V^N\) from the integral and next go to a pairwise interchange of particles, three-particle cyclic permutation, and so on. The combinatorial factors must be taken into account.
+
+Solution: Any permutation can be broken into cycles. For example, \[ \mathbf{P} = \begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 \\ 5 & 3 & 2 & 4 & 6 & 1 \end{pmatrix} = (1 \ 5 \ 6)(2 \ 3)(4). \]
+
+Suppose a permutation contains \(C_v\) cycles of length \(v\), where \(\sum v C_v = N\). For \(v > 1\), let \[ I_v = \left( \frac{m}{2\pi\hbar^2} \right)^{3v/2} \int dx_1 \cdots dx_v \, \exp \left\{ -\frac{m}{2\hbar^2} \left[ (x_1 - x_2)^2 + (x_2 - x_3)^2 + \cdots + (x_{v-1} - x_v)^2 + (x_v - x_1)^2 \right] \right\} = V \left( \frac{m}{2\pi\hbar^2} \right)^{3/2}. \] (2.149)
+
+Then Eq. (2.148) can be written as \[ e^{-\beta F} = \sum_{\{C_v\}} \frac{N!}{\prod_v v^{C_v} C_v!} \prod_v (I_v)^{C_v}. \] (2.150)
+
+It is not difficult to show that \[ \int dy \, \exp[-a(x-y)^2] \exp[-b(y-z)^2] = \left( \frac{\pi}{a+b} \right)^{3/2} \exp \left[ -\frac{ab}{a+b} (x-z)^2 \right]. \] (2.151)
+
+Using Eq. (2.151) we obtain \[ I_v = V \left( \frac{m v}{2\pi\hbar^2} \right)^{3/2}. \] (2.152)
+
+We must now count the number of permutations that have \(C_v\) cycles of length \(v\).
+
+As a preliminary to the determination of \(M(C_1, \ldots, C_q)\), consider the case of \(N=6\), \(C_1=3\), \(C_2=1\), \(C_3=C_4=C_5=C_6=0\). An example is the permutation \(\mathbf{P} = (5)(3)(2)(461)\). Notice that the sequence \(Q = 5, 3, 2, 4, 6, 1\) corresponds to \(\mathbf{P}\). In other words, from the sequence \(Q\), we can uniquely construct the permutation \(\mathbf{P}\) with \(C_1=3, C_2=1\). But from \(Q' = 2, 5, 3, 4, 6, 1\), or from \(Q'' = 5, 3, 2, 1, 4, 6\), we can also construct in the same way the same \(\mathbf{P}\). In fact, it can be easily seen that there are \(3!\) times \(3 = 18\) different sequences that can be used in the way described above to construct the permutation \(\mathbf{P} = (5)(3)(2)(461)\).
+
+Generalizing to any set of \(C_v\)'s, we see that there are two ways we can get a new \(Q\) that leads to the same \(\mathbf{P}\): a) we can interchange cycles of the same length, b) we can make cyclic permutations within a given cycle.
+
+There are \(\prod_v C_v!\) ways of interchanging cycles of the same length, and \(\prod_v v^{C_v}\) cyclic permutations within cycles. Thus for each \(\mathbf{P}\) there are \(\prod_v C_v! \prod_v v^{C_v}\) different \(Q\)'s that lead to the same \(\mathbf{P}\). Because there are \(N!\) possible \(Q\)'s, \[ M(C_1, \ldots, C_q) = \frac{N!}{\prod_v v^{C_v} C_v!}. \] (2.153)
+
+It follows that \[ e^{-\beta F} = \sum_{\{C_v\}} \prod_v \frac{(h_v a_v)^{C_v}}{C_v!}, \] (2.154)
+
+where \(\sum v C_v = N\).
+
+## 2.9 Density Submatrix
+
+Instead of trying to do the sum in Eq. (2.154), we will find the free energy of the grand canonical ensemble (that is, we will let \(N\) vary). Notice that we are not now specializing to the case of statistical mechanics. To compute the expectation value of \(p_i^2/2m\), we proceed as follows: \[ \langle \frac{p_i^2}{2m} \rangle = \text{Tr} \, \mathcal{L}_P \, \frac{p_i^2}{2m} \rho^N. \] (2.155)
+
+As usual, let \(a = e^{\beta\mu}\). Then, \[ -\beta F_{\text{GC}} = \sum_{N=0}^\infty a^N Z_N = \sum_{N=0}^\infty \sum_{\{C_v\}} \prod_v \frac{(h_v a)^{C_v}}{C_v!} = \prod_v \sum_{C_v=0}^\infty \frac{(h_v a)^{C_v}}{C_v!} = \exp \left( \sum_v h_v a^v \right). \]
+
+\[ \beta F_{\text{GC}} = - \sum_v \frac{h_v a^v}{V}. \] (2.156)
+
+This result is identical to the one we obtained in a much simpler way earlier.
+
+When the density of the gas is not large, only the identity permutation is important for high temperatures or for the limit of \(n \rightarrow 0\), since we have such factors as \(e^{-[m k T / (2 \hbar^2)](x-x')^2}\). This means that the quantum effect appears only for low temperatures.
+
+For the antisymmetric case, \[ \rho^{\mathbf{P}}(x_1, \ldots, x_N; x_1^{\mathbf{P}}, \ldots, x_N^{\mathbf{P}}) = (-1)^p \prod_{i=1}^N \left( \frac{m}{2\pi\hbar^2} \right)^{3/2} \exp \left\{ -\frac{m}{2\hbar^2} (x_i - x_i^{\mathbf{P}})^2 \right\}, \] (2.157)
+
+where \(p\) is the parity of the permutation: \[ (-1)^p = \begin{cases} +1 & \text{for even permutation} \\ -1 & \text{for odd permutation.} \end{cases} \]
+
+Problem: Modify the argument leading to Eq. (2.156) so as to obtain the corresponding result for a noninteracting Fermi gas.
+
+## 2.9 Density Submatrix
+
+For \(N\) particles, the density matrix can be written as \[ \rho^N(x_1, \ldots, x_N; x_1', \ldots, x_N'). \]
+
+We define the \(k\)-particle density submatrix as \[ \rho^{(k)}(x_1, \ldots, x_k; x_1', \ldots, x_k') = \frac{N!}{(N-k)!} \int dx_{k+1} \cdots dx_N \, \rho^N(x_1, \ldots, x_k, x_{k+1}, \ldots, x_N; x_1', \ldots, x_k', x_{k+1}, \ldots, x_N). \] (2.158)
+
+The single-particle density submatrix is \[ \rho^{(1)}(x, x') = N \int dx_2 \cdots dx_N \, \rho^N(x, x_2, \ldots, x_N; x', x_2, \ldots, x_N). \] (2.159)
+
+Using this matrix we can calculate, for example, \[ \langle \frac{p_i^2}{2m} \rangle = \frac{1}{2m} \int dx \left. -\hbar^2 \nabla_x^2 \rho^{(1)}(x, x') \right|_{x'=x} = \frac{N}{2m} \text{Tr} [-\hbar^2 \nabla^2 \rho^{(1)}]. \] (2.160)
+
+Similarly, \[ \langle V(x_k) \rangle = \int dx \, V(x) \rho^{(1)}(x, x) = N \text{Tr} [V \rho^{(1)}]. \] (2.161)
+
+The two-particle density submatrix is defined as \[ \rho^{(2)}(x, y; x', y') = N(N-1) \int dx_3 \cdots dx_N \, \rho^N(x, y, x_3, \ldots, x_N; x', y', x_3, \ldots, x_N). \] (2.162)
+
+Particle distribution functions are defined as the diagonal elements of the density submatrices. The single-particle distribution function is \[ n^{(1)}(x) = \rho^{(1)}(x; x). \] (2.163)
+
+The two-particle distribution function is \[ n^{(2)}(x, y) = \rho^{(2)}(x, y; x, y). \] (2.164)
+
+In a uniform substance, such as a gas or a liquid, \(n^{(1)}(x)\) is independent of \(x\), and \(n^{(2)}(x, y)\) depends only on the difference \((x - y)\).
+
+## 2.10 Perturbation Expansion of the Density Matrix
+
+Recall that the density matrix in statistical mechanics satisfies \[ \frac{\partial \rho}{\partial \beta} = -H \rho. \] (2.165)
+
+There are very few Hamiltonians for which we can solve Eq. (2.165) exactly, but it may be that \(H\) is close to one such Hamiltonian, \[ H = H_0 + H_I. \] (2.166)
+
+We would like to use \(\rho_0 = e^{-\beta H_0}\) to obtain an approximation to \(\rho\), which we expect to be close to \(\rho_0\). Because \(\rho\) is close to \(e^{-\beta H_0}\), we expect \(e^{\beta H_0} \rho\) to vary slowly with \(\beta\).
+
+\[ \frac{\partial}{\partial \beta} (e^{\beta H_0} \rho) = H_0 e^{\beta H_0} \rho + e^{\beta H_0} \frac{\partial \rho}{\partial \beta} = H_0 e^{\beta H_0} \rho - e^{\beta H_0} H \rho = - e^{\beta H_0} H_I \rho. \]
+
+Integrating Eq. (2.169) from zero to \(\beta\) and remembering that if \(\beta=0\), \(\rho=I\), we find \[ e^{\beta H_0} \rho(\beta) - I = - \int_0^\beta d\beta' \, e^{\beta' H_0} H_I \rho(\beta'). \]
+
+Therefore, \[ \rho(\beta) = \rho_0(\beta) - \int_0^\beta d\beta' \, \rho_0(\beta - \beta') H_I \rho(\beta'). \] (2.167)
+
+The last term in Eq. (2.167) is small if \(H_I\) is small, and it is a correction term to the approximate equation \(\rho \approx \rho_0\). If the correction term is small, we can use an approximation \(\rho(\beta') \approx \rho_0(\beta')\) to obtain a much more accurate approximation to \(\rho(\beta)\). For example, if we make the approximation \(\rho(\beta') \approx \rho_0(\beta')\), we have \[ \rho(\beta) \approx \rho_0(\beta) - \int_0^\beta d\beta' \, \rho_0(\beta - \beta') H_I \rho_0(\beta'). \] (2.168)
+
+Continuing in this manner we get \[ \rho(\beta) = \rho_0(\beta) + \int d\beta' J[\rho_0(\beta - \beta') H_I \rho_0(\beta')] + \]
+
+\[ \int d\beta' \int d\beta'' J[\rho_0(\beta - \beta') H_I \rho_0(\beta' - \beta'') H_I \rho_0(\beta'')] + \]
+
+\[ \int d\beta' \int d\beta'' \int d\beta''' [\cdots] + \cdots \] (2.169)
+
+We can easily rewrite Eq. (2.169) in coordinate representation. For example, \[ \rho(x, x'; \beta) = \langle x | \rho(\beta) | x' \rangle = \]
+
+\[ \rho_0(x, x'; \beta) - \int d\beta' \langle x | \rho_0(\beta - \beta') | x'' \rangle \langle x'' | H_I | x''' \rangle \langle x''' | \rho_0(\beta') | x' \rangle d\beta' dx'' dx''' + \cdots, \]
+
+where we use \(\int |x''\rangle \langle x''| dx'' = 1\). If then \(H_I = V(x)\), and Eq. (2.170) becomes \[ \rho(x, x'; \beta) = \rho_0(x, x'; \beta) - \int_0^\beta d\beta' \int dx'' \, \rho_0(x, x''; \beta - \beta') V(x'') \rho_0(x'', x'; \beta') + \cdots. \] (2.170)
+
+## 2.11 Proof that \(F \leq F_0 + \langle H - H_0 \rangle_0\)
+
+In this section we are in a position to prove the inequality \[ F \leq F_0 + \langle H - H_0 \rangle_0, \]
+
+where \(F\) is the true free energy, \(F_0\) is the free energy of the unperturbed system, and \(\langle \cdots \rangle_0\) denotes an average with respect to the unperturbed density matrix. Since \(F\) is determined by the equation \(-\beta F = \text{Tr} e^{-\beta H}\), the most obvious approach is to find an approximation to \(e^{-\beta(H_0+V)}\) by using the perturbation expansion of \(e^{-\beta(H_0+V)}\). We write \[ e^{-\beta(H_0+V)} = e^{-\beta H_0} T \exp \left[ -\int_0^\beta V_H(u) du \right], \] (2.171)
+
+where \(V_H(u) = e^{u H_0} V e^{-u H_0}\). Taking the trace of Eq. (2.171) we obtain \[ e^{-\beta F} = \text{Tr} e^{-\beta(H_0+V)} = e^{-\beta F_0} - \int_0^\beta du \, \text{Tr} [e^{-(\beta-u)H_0} V e^{-u ⟨ψ|J|ψ⟩ = ⟨J⟩ ⟨J⟩ = ⟨J⟩
+
+(2.188)。
+
+将该不等式应用于Eq.，我们得到 1 e^{-βE_m} - e^{-βE_n} 2 F₂ - 2e^{-βF} Σ_{m≠n} |⟨m|V|n⟩|² (E_n - E_m)⁻¹ ≥ 0。 (2.189)
+
+现在，令 H(λ) = H₀ + λV， F(λ) = H(λ)。令 F(0) = F₀ 为由自由哈密顿量 H₀ 计算的自由能。那么 F(λ) = F₀ + λF₁ + λ²F₂ + O(λ³)。
+
+根据前面的微扰分析， F₁ = 0。
+
+如果我们能证明 F''(λ) ≤ 0 对于所有 λ ∈ [0, 1]， (2.190)
+
+那么 F(λ) 将是凹向下的（见图2.5），因此它位于连接 F(0) = F₀ 和 F(1) = F 的直线 F₀ + λF₁ = F₀ 的下方。由此我们可以得出结论： F ≤ F₀ + ⟨V⟩₀， 或者 F ≤ ⟨H⟩₀， 这就是需要证明的。
+
+为了证明Eq. (2.190)，我们对每个 λ 应用微扰分析到 F(λ)；即，我们写 F(λ + y) = F₀(λ) + yF₁(λ) + y²F₂(λ) + O(y³)， (2.187)
+
+其中 F₀(λ) = F(λ)，yF₁(λ) 和 y²F₂(λ) 如Eq. (2.188) 到 (2.189) 所示，其中 H 被 H(λ) 替换，V 被 yV 替换。
+
+Eq. (2.189) 的结果于是 F''(λ) = (d²/dy²) F(λ + y)|_{y=0} = 2F₂(λ) ≤ 0。
+
+(2.190) (2.191)。
+
+这证明了Eq. (2.190)，从而完成了Eq. (2.193) 的证明。
+
+将相同的定理应用于 F₀，我们得到 F₀ ≤ F + ⟨-V⟩。
+
+(2.191) (2.192)， 结合Eq. (2.191) 和 (2.192)，我们看到 F₀ + ⟨V⟩₀ ≤ F ≤ F₀ + ⟨V⟩₀。 (2.193)
+
+F ≈ F₂: 更精确的近似是通过包含 F ≈ F₀ + ⟨V⟩₀ + ½ β [⟨V²⟩₀ - ⟨V⟩₀² + ∫₀^∞ dτ ⟨V(τ)V⟩₀] 。 (2.194)
+
+\ 0 0 (2.191)
+
+图2.5 当 F''(λ) ≤ 0 时的情况。
+
+## 3.1 密度矩阵的路径积分表述
+
+## 第3章
+
+路径积分
+
+## 3.1 密度矩阵的路径积分表述
+
+前面已经证明，密度矩阵满足方程 -ħ ∂ρ/∂τ = Hρ， (3.1)
+
+其中 H 是哈密顿量， 并且具有形式解 ρ[x(u)] = lim_{n→∞} ∫∫ ... ∫ p(x_n, x_{n-1}; Δτ) p(x_{n-1}, x_{n-2}; Δτ) ... p(x_1, x₀; Δτ) dx₁ dx₂ ... dx_{n-1}。 (3.6)
+
+(3.2)
+
+其中要注意的是，τ 已被重新定义为 β = 1/(kT)，具有能量⁻¹的量纲。此外，“时间”τ 可以被分成长度为 Δτ 的若干段，因此 ρ 可以增量地展开如下： ρ(τ) = e^{-Hτ/ħ} e^{-HΔτ/ħ} ... e^{-HΔτ/ħ} = Π p(x, x'; Δτ)， (3.3)
+
+虽然Eq. (3.5) 中考虑了所有可能的路径，但对于像密度矩阵 p(x, x'; Δτ) 这样的物理量，主要贡献来自于那些 Δτ 很小，使得 p(x, x'; Δτ) 不会太小的路径。
+
+在坐标表象中，密度矩阵的解表示为 ρ(x, x'; τ) = ∫∫ ... ∫ p(x, x_{n-1}; Δτ) p(x_{n-1}, x_{n-2}; Δτ) ... p(x_1, x₀; Δτ) dx₁ ... dx_{n-1}， (3.4)
+
+其中 p(x, x'; Δτ) = (m/(2πħΔτ))^{1/2} exp[-(m/(2ħΔτ))(x - x')²] 是自由粒子的密度矩阵。项 p(x, x'; Δτ) 在 x 接近 x' 时较大，而在距离较远时呈指数衰减，因为exp项。因此，对于像式(3.4)中那样对中间变量的积分，主要贡献来自于路径的邻近区域，其中 x ≈ x'。通过 p(x, x'; Δτ) 的连续乘积来定义一条“路径”{x}。粒子从 x 开始并结束于 x' 的总振幅由对所有可能路径的求和给出，即对所有中间位置的值进行积分。当时间增量趋近于零时，中间变量的积分数量变为无限，Eq. (3.4) 可以象征性地写为 ρ(x, x'; τ) = ∫ 𝒟[x(u)] exp{ -i/ħ ∫₀^τ L du }， (3.5)
+
+其中 L 是拉格朗日量。
+
+我们想要尽可能简化 ρ 的原因是，当然，其在高温下的渐近行为很容易找到（见下文）。自由粒子：哈密顿量为 H = p²/(2m)。 (3.7)
+
+根据之前的结果，我们知道 ρ(x, x'; τ) = √(m/(2πħτ)) exp[-(m/(2ħτ))(x - x')²]。 (3.8)
+
+对于低 τ，因为 ρ 是一个非常局部的的高斯函数，积分中的大部分贡献发生在 x ≈ x' 附近，可以证明此时 x'' ≈ x'，x₀ ≈ x。
+
+因此，对于小的 τ，我们可以将Eq. (3.14) 写为 √(2πħτ/m) ρ(x, x'; τ) ≈ ∫ dτ' ∫ dx'' ρ₀(x, x''; τ - τ') ρ₀(x'', x'; τ')
+
+≈ ∫ dτ' ρ_free(x, x'; τ)。 (3.15)
+
+因此，对于一个自由粒子， ρ(x, x'; τ) = √(m/(2πħτ)) exp[-(m/(2ħτ))(x - x')²]。 (3.10)
+
+现在，如果 x 和 x' 很接近，并且在积分范围内 V(x₀) 近似为常数，那么Eq. (3.15) 就趋近于Eq. (3.13)： √(2πħτ/m) ρ(x, x'; τ) ≈ ∫ dτ' ∫ dx'' ρ₀(x, x''; τ - τ') V(x'') ρ₀(x'', x'; τ') dτ'。
+
+在假设 V(x) 和 τ 都很小的前提下。
+
+当然，随着 τ 增大，我们关于 𝒟[x(u)] 的结论变得不那么准确了，可能会认为更倾向于写入路径的动能项 exp{ -∫₀^τ (m/2)(dx/du)² du } 来代替 V(x)。但对于我们的目的，Eq. (3.13) 已经足够。所以 ρ(x, x'; τ) ≈ ρ_free(τ) [ 1 - V(x) τ/ħ ] ≈ ρ_free(τ) e^{-V(x) τ/ħ}。 (3.16)
+
+因此 ρ(x, x'; τ) ≈ √(m/(2πħτ)) exp[ -(m/(2ħτ))(x - x')² - V(x)τ/ħ ]。 (3.17)
+
+为了得到 ρ(x, x'; τ)，只需要将修正 e^{-V(x) τ/ħ} 应用于自由粒子从 x 到 x' 的“路径”的每个元素。因此，当 τ → 0， √(2πħτ/m) ρ(x, x'; τ) → exp[ -V(x) τ/ħ ]。 (3.13)
+
+这个结果证明如下：
+
+使用微扰理论，我们有 ρ(x, x'; τ) = ∫ 𝒟[x(u)] exp{ -1/ħ ∫₀^τ [ m/2 (dx/du)² + V(x(u)) ] du }， (3.18)
+
+其中 x(0) = x'，x(τ) = x。
+
+因此 ρ(x, x'; τ) = exp[ -∫₀^τ V(x(u)) du/ħ ] ∫ 𝒟[x(u)] exp{ -1/ħ ∫₀^τ m/2 (dx/du)² du }。
+
+自由能由以下公式导出： e^{-βF} = ∫ ρ(x, x; τ) dx (3.18a)
+
+= ∫ 𝒟[x(u)] exp{ -∫₀^τ [ m/2 (dx/du)² + V(x(u)) ] du }。
+
+在经典极限下，温度很高，τ 很小。我们想要经典配分函数，并希望看到它如何与量子力学配分函数相关。根据Eq. (3.18)
+
+ρ(x, x; τ) = ∫ 𝒟[x(u)] exp{ -∫₀^τ [ m/2 (dx/du)² + V(x(u)) ] du }。
+
+(3.19)
+
+如果假设最重要的路径是那些 V(x(u)) ≈ V(x) 的路径，Eq. (3.19) 可以近似为 √(2πħτ/m) ρ(x, x; τ) ≈ exp[ -V(x) τ/ħ ] ∫ 𝒟[x(u)] exp[ -1/ħ ∫₀^τ m/2 (dx/du)² du ]
+
+(3.20)
+
+其中积分是在 x(0) = x(τ) = x 的条件下进行的。
+
+路径 {x(u)} 在推导出的式(3.21) 中就是直接路径 x(u) = x。但是，从式(3.21) 的推导可以很容易地看出经典极限下的误差方向。我们假设最重要的路径满足 x(u) ≈ x，而实际上最重要的路径是那些使 ∫₀^τ [ m/2 (dx/du)² + V(x(u)) ] du 最小的路径，这发生在 x(u) 经过那些倾向于使 V(x(u)) 低于 V(x) 的路径时。因此，ρ_classical(x, x; τ) < ρ(x, x; τ)。
+
+经典配分函数是 e^{-βF_cl} = ∫ ρ_cl(x, x; τ) dx = ∫ √(m/(2πħτ)) e^{-βV(x)} dx。
+
+(3.22)
+
+(3.23)
+
+根据Eq. (3.22) 我们得到 F_cl ≤ F。
+
+(3.24)
+
+为了找到Eq. (3.21) 成为路径积分的良好近似的条件，注意那些满足 ∫₀^τ (m/2) (dx/du)² du » 1 的路径对路径积分的贡献不大。利用柯西-施瓦茨不等式，我们发现 ( ∫₀^τ (dx/du)² du )^{1/2} ≥ (1/τ) |∫₀^τ (dx/du) du| = (1/τ) |x(τ) - x(0)| = |x - x'|/τ。
+
+因此， ∫₀^τ (m/2) (dx/du)² du ≥ m|x - x'|²/(2τ)。
+
+对于像 |x - x'| = √(ħτ/m) 这样的偏移，我们有对于 0 < τ < τ₀： (3.25)
+
+路径积分的主要贡献来自于那些满足 ∫₀^τ (m/2) (dx/du)² du ≤ 1 的路径，即 |x - x'| ≲ √(ħτ/m)。对于这些偏移，势项 V(x(u)) 在积分路径上的平均值大致为 V(x)，因此近似 ρ(x, x'; τ) ≈ ρ_free(x, x'; τ) e^{-V(x) τ/ħ} 是良好的。
+
+the straight line path x(u). Then
+
+mkT/d 1 . (3.26)
+
+∫ exp [ - ∫ m ẋ² du ] dx(u) = (3.29)
+
+and
+
+For the hydrogen atom at 10K Eq. (3.26) yields d ≈ 9 Å. For oxygen at 10K I , f d t h ::; e 2 p . o 5 t A en ; t i f a o l r v o a x r y ie g s e n s o a t s l lOo owl o y K t , h d a t ::; i t 0 i . s 2 5 a p A p . r oxim ::; a tely unchanged even f(x2, X1' U) = ∫ exp [ - ∫ LU (ẋ(u) + ẏ(u)) dU ] 9Cy(u). (3.30)
+
+when the path varies by more than d, then Eq. (3.21) is good. Thus, for heavy Now particles at normal temperatures, systems may be treated by classical statistical mechanics. However, the classical approximation does not apply to liquid
+
+dx(u)
+
+X2 - Xl velocity (3.31)
+
+helium, nor does it apply to electrons in a metal, nor even to solids if the tem­ du = - .U- .. � = = perature is too low. so that
+
+A few things should be noticed about this formulation of statistical mechanics:
+
+LU [X + y]² du We have discussed only the case of one coordinate. However, the extension ∫Cx(u)
+
+lim dXll) dx1 2 ) . ..d X1 N ) dx�l)· . . dX� N ) . . .d X� N ). (3.27)
+
+9C to 1 x . N (u ) d b eg ec re o e m s e o s f freedom is obvious; if x ( l ! , x( 2 l, . .. , X( N ) are the coordinates, = LU (v² + 2vy + y²) du = v²U + 2v[y(U) - y(0)] + ∫ y² du.
+
+But y( U) y(0) 0. Therefore 2. If"u" is replaced by "iu" in Eq. (3.1), we have Schrodinger's equation. In a = = similar manner to that of statistical mechanics, quantum mechanics can be formulated in terms of path integrals. For mathematicians, statistical mechanics (3.33)
+
+is easier to deal with because the exponentials in the path integrals are exponen­ tials of real quantities. Thus we have split the path integral into a factor dependent upon the endpoints We have not dealt with relativity (in which particles appear and disappear) and U, and a path integral dependent only upon Writing a3n.d spin (which is a discrete, rather than a continuous, variable) in the path­ U.
+
+integral formulation. If such effects exist, we can only get approximations. ∫ exp [ -∫ y² du 9Cy F(U), Actually, spin can be put into the formalism, but our interpretation of E0x(u) as y(0)=y(U)= a set of paths differing by an infinitesimal amount no longer holds. We get 0 3.2 CALCULATION OF PATH INTEGRALS P(X 2 ' Xl, U) = F(U) exp [ -m(x2 - XI)²/2hU]. (3.34)
+
+We will discuss two techniques for the calculation of path integrals: We can obtain an equation for F(U ) by using Integrals whose exponents are quadratic in and x will be calculated exactly.
+
+2 1. . Perturbation expansions. X p(x, y; Ut + u 2 ) = f dx' p(x, x'; u 2 )p(x', y; ul). (3.35)
+
+Path integrals
+
+The reader should derive that equation for F(u) and show that its most general continuous solution is
+
+F ( U )
+
+= .
+
+m / 2n ħU e " u , (3.36)
+
+where is an arbitrary number. Physically, the value of is immaterial, because 0( 0( a change in the zero of the potential does not change the physics; it does, however, change the value of As a matter of fact, since the expectation value 0(.
+
+of any quantity, A, is given by
+
+= Tr A < A) p , (3.37) Tr F(U) need not be found at all. cancels out in the division. We know that is It 0( zero, however, from other methods of calculating see Eq. (3.8»).
+
+p (
+
+Now consider the path integral for the harmonic oscillator:
+
+! ( X 2 X , l ' U ) = ∫ exp { - ∫ io U [ m ẋ² + m ω² X² ] dU } dx .
+
+Let us expand each path about the path that makes the largest contribution to P. For this path, ioU G(u) du = ioU [m ẋ² + m ω² X² ] du = minimum, x(0) = Xl' x(U) = X .
+
+where 2 Thus, our integrand must satisfy the Euler equation,
+
+∫ oG(u) ∂G = - maix = _ 0 or mx o. (3.38)
+
+ou ∂x ∂x For any path, we write X = x + y y(0) = y( U) = so 0, 0 and the integral over u becomes 2 ioU [∫ (x + y)² + 1'1;1 (x + y)²] du = r u 11'1 [ X² + 2 x y + y ² + ω² X² + ω² 2 x y + ω² y ² ]
+
+Calculation of path integrals floW du ∫ (x ²) + 2x )
+
+ru 2 ω² du ru ω y du = ∫ + X + ∫ (2xy 2 2 2
+
+xy ∫ 2 du 2YX∫ ou 2xy du = - y( �use y(0) 0 and U) 0, we have = = ∫" satisfies the Euler equation. Thus, by expanding about the classical path, x have eliminated the integrand linear in the deviation. Thus we may write .;we 1 f(X 2 , Xl; U) exp [ -∫ u (m ẋ² + m ω² x²)du ] F(U), = -∫ "2 2 F(U) ∫ exp [ -∫ ioU (; y² + m ω² y²) dU ] dy(u), Xl X with 0 and U) 0, is a factor independent of the endpoints and .
+
+y(0) = y( = 2 expansion about the classical path allows us to separate the path integral . Thus a factor dependent upon U and the endpoints, and another path integral into Xl X2 ndent upon U alone. Thus the important dependence on and can be dePe nd by simply solving the minimizing differential equations (Eq. 3.38) subject W,u Xl = X the end conditions x(0) and x(U) 2 and calculating the integral to = ∫ ioU (; x + m ω² X²) du fact even this integral can be simplified. We have In ∫ ioU - m X. 2 du = -m xx· IU - -m ∫ ioU xx.. du 2 2 2 0 0 Therefore ∫ ru m (x = m xxlU + u mx x = m xxIU .* 2 ω²X²) du ∫ ω² ) du 2 + 2 0 J 2 (-x + 2 As a new problem, suppose we have two interacting systems, one of which is X .f. J harmonic oscillator. Let describe the position of the oscillator and that of other system. A possible Hamiltonian is q
+
+mx² mw² M·² k_ __ _ H = - + - -- X 2 + --.!L + V ( q ) - y x q .
+
+2 2 2
+
+, You can compare your result with Eq. (2.83).
+
+The partition function is
+
+∫ [ 1 I U ( m ẋ² m ω i x² Q = exp -- + -- - yq(u)x(u)) du J -Ii 0 2 2 [ U (Mi/ )
+
+exp -Ii1 I - - + V(q) du J ∫ dx ∫ dq.
+
+We cannot, in general, evaluate this path integral, but we can integrate out the x variable. To do so we must find F[q(u)] = ∫ exp [ -∫ t U (m mw x² - yqx du J ∫ dx.
+
+This integral can be evaluated by the same method as that used for a har­ monic oscillator. More generally, we can evaluate ∫ [ 1 I U ( m x² m ω² x² ) ] Fl[j; x, x'] = exp + + ij(u)x(u) du ∫ dx .
+
+>Ii 0 -2- >:(0)=>: 2 >:(U)=>:' The result is
+
+( 3 3. 9 )
+
+Calculation of path integrals Eventually one will arrive at the result:
+
+(t[/] = exp [- 1 I ∫ r u cosh ω(/ . u - u'l - tU) f(u)f(u') du dU'J .
+
+4_mw_h 0 Jo sinh twu (3.43)
+
+we define outside the interval 0 u U by letting be periodic with pe If riod U, we may write
+
+[ u (t[j] exp 1 ∫∫ r e-w1u-u'lj(u)f(u') du dU'J. (3.43a)
+
+= _4_mw_ h -00 Jo
+
+An alternative way of finding Fl(f; x, x) is to Fourier analyze/(u) and x(u):
+
+x(u) = ao + ∑ ( a n cos -- 2nnu + bn sm . -- 2nnu) , P P I(u) fo + ∑ 00 ( fn cos -- 2nnu + gn sm . - 2nnu) .
+
+[(x2 + X,²) cosh ωU 2xx' + 2A(xeωU - x') + 2B(x'eωu - x)
+
+x - + (A2 + B2)eωU - 2AB], (3.40), where
+
+. U A = -' I e-ωUf(u) du, 2mω 0 . U B ' I e-ω (U-u) f(u) du. (3.41 )
+
+= 2-mω
+
+Now let
+
+(t[J] = / exp [-∫ f U f(u)x(u) dUJ)
+
+\ 0 harm.osc.
+
+J FlU; x, x) dx - (3.42)
+
+JFl(O; x,x) dx
+
+n = 1
+
+The path integral can then be written as
+
+Fl[j] = ff f ... f dao dal . .. dbl db 2 .. ·
+
+exp [ ∫ t U (m ẋ² + m ω² x² + ij(U)X(U» )J du, x -
+
+and can easily be evaluated.
+
+The equation
+
+1 cos n(} cosh - 1(}l)a � 2a2 + ∑ n2 a2 = 2 !!.- a si ( n n h + na useful. (f] as found by the above method has an unknown multiplicative constant is a consequence of the Jacobian for the change of variables implicit in as dbi db2 but Eq. (3.43) can be found unambiguously by the above method.
+
+For a free particle, we can find FI either by letting 0 or by direct (.0 --+ calculation. The result is
+
+∫ exp [ -∫ f: [!mx(u)² + if(u)x(u)] dU ] dx(u)
+
+= J 2 π m b [ f : f e u ) d U ] e x p { ( f uI f u u ( )
+
+fl' u J ( u f )
+
+u ( )' d u 3 ( 4.
+
+We will make use of this last result later.
+
+3.3
+
+## PATH INTEGRALS BY PERTURBATION EXPANSION
+
+PO(X , Xl' Suppose that we have found the density matrix element U) for some Yo, P(X ' Xl' system of potential and we wish to know U) for another system with Vo V', V' Yo' potential where Then « + 2 P(X2 ' Xl' U) = ∫ exp {-∫ f: [ m; + Vo(X) + V'(X)
+
+dU ∫dx = ∫ [ e x p { - ∫ f: [ m ; + V o ( X ) ] d U } exp {-∫ f: V'(x) dU }] ∫dx Expanding the second exponential, we have
+
+f: [ + Vo(X) dU ∫ exp {-∫ m ; ] } = o P -e x p
+
+-�
+
+lJ
+
+f V :
+
+f : x [' e x
+
+[ U ) u
+
+d ]
+
+- � 2 + + u 2[ ( o X
+
+�m J: ( 2
+
+U d
+
+d ] ) u ( x [ ' ) ( U o d X ]
+
+] ) u ( x [ ' u Y
+
+' }
+
+u d ∫
+
+. .
+
+. ]
+
+∫
+
+. .
+
+v -------------------
+
+X2
+
+Fig. 3.3 Integrand of first-order term In order to calculate the path integral, we first integrate over all paths for which 'x(u) Xl' = (with x(0) = x(U) = x2) and then integrate over y y.
+
+P(X2, Xl U) = Po ∫ ∫ fU f Po(X2, y, U u)V(y)po(Y, Xl' u) dy du + . . .
+
+! - all - i 0 y Pictorially, the integrand may be represented as shown in Fig. 3.3.
+
+i Po, We can think of the zeroth-order term, as being the contribution to the i density matrix that results from the particle going from Xl to X 2 in "time" U i without being affected by the potential. Then the first-order term, which has its cintegrand represented in the Fig. 3.3, may be thought of as the contribution : resulting from the particle being essentially free, but being "scattered" once at some "time" and some position Similarly, the second-order term can be y.
+
+considered as the contribution from two "scatterings", and can be written as fU du f " dv ∫∫ dy ∫∫ dz +� n 0 0 -00 Po(-x00 2 , u)V(z)po(z, y, u - v)V(y)po(Y, Xl' v) U X Z, - Pictorially, this integrand may be represented as shown in Fig. 3.4. .
+
+Notice that we have not found any new results. We have already derived this perturbation expansion without the use of path integrals.
+
+p(Xz, Xl' Problem: Find to what order the nth-order integral expansion of U)
+
+solves : ::z = Po - ∫ ∫: du ∫∫ exp {-∫ f: [ m ẋ² + Vo(X) ] dU' } - :: = -2 + [VoCx) + V'(x)]p, knowing that V'[x(u)] tU + Vo(X) dU' + . . .
+
+x exp { -∫ [mt ] }
+
+Path integrals
+
+Fig. 3.4 Integrand of second-order term.
+
+## 3.4 VARIATIONAL PRINCIPLE FOR THE PATH INTEGRAL
+
+For the free energy we know the relation
+
+F ≈ Fo (H - Ho>0, (3.45a)
+
+or
+
+(3.45b)
+
+Ho.
+
+This is written in terms of the Hamiltonians Hand We as We ourselves if we can write a corresponding minimum relation using the path integral. In the path-integral form, the partition function is written as $$e^{-\beta F} = \Pi e^{-S[x(u)]} \mathcal{D}x(u) \quad (3.4.6)$$ with $x(U)=x(0)$. Here $S$ does not include a surface term. Now suppose that $S_0$ is a trial action, and let us use the inequality $$e^{-\beta F} = \Pi e^{-(S-S_0)} e^{-S_0} \mathcal{D}x \geq e^{-\beta F_0} \quad (3.4.7)$$ where $$e^{-\beta F_0} = \Pi e^{-S_0} \mathcal{D}x. \quad (3.4.8)$$ The factor $e^{-(S-S_0)}$ of Eq. (3.47) has the form of an average of $\exp$ with $e^{-S_0}$ as the weight for a certain path. We may write Eq. (3.47) as $$e^{-\beta F} \geq \langle e^{-(S-S_0)} \rangle_{S_0} e^{-\beta F_0}. \quad (3.4.9)$$ Now we use the inequality (3.50): $$\langle e^{-f} \rangle \geq e^{-\langle f \rangle}. \quad (3.50)$$ The geometrical interpretation of this relation is as shown in Fig. 3.5. In Fig. 3.1, $\langle e^{-f} \rangle$ is always above the curve $e^{-\langle f \rangle}$. Note that Eq. (3.50) does not depend on how the $f$'s are distributed. When we apply Eq. (3.50) to Eq. (3.49) we can write $$e^{-\beta F} \geq e^{-\langle S-S_0 \rangle_{S_0}} e^{-\beta F_0}, \quad (3.51)$$ where $$e^{-\beta \Phi} = e^{-\langle S-S_0 \rangle_{S_0}} e^{-\beta F_0}. \quad (3.52)$$ Usually Eq. (3.52) is simpler to calculate than the first factor in Eq. (3.47). We thus have a theorem: $$F \leq F_0 + \frac{1}{\beta} \langle S - S_0 \rangle_{S_0}. \quad (3.53)$$ Exercise: When $S = \int [ \frac{1}{2} m \dot{x}^2(u) - V(x(u)) ] du$, $S_0 = \int [ \frac{1}{2} m \dot{x}^2(u) - V_0(x(u)) ] du$, show that $$-\frac{1}{\beta} \ln \langle e^{-(S-S_0)} \rangle_{S_0} \leq - \langle V - V_0 \rangle_{S_0}. \quad (3.55)$$ Thus Eq. (3.53) contains Eq. (3.45) as a special case. Hint: from Eq. (3.54), $$S - S_0 = \int (V - V_0) du. \quad (3.56)$$ The numerator of the right-hand side of Eq. (3.52) becomes an integral over paths the integrand of which is independent of $u$, $u$.
+
+## 3.5 AN APPLICATION OF THE VARIATION THEOREM Finally in this chapter let us explore an application of our variation theorem, Eq. (3.53). In a one-dimensional, one-particle case, we have $$e^{-\beta F_0} = \int dx e^{-\beta V_0(x)} \Pi_{\text{all closed paths}} \exp \left[ -\frac{1}{\hbar} \int \frac{1}{2} m \dot{x}^2(u) du \right] \mathcal{D}x(u). \quad (3.57)$$ with fixed average $x = \frac{1}{U} \int_0^U x(u) du$, where $x(U)=x(0)$. Now let $y(u) = x(u) - \frac{x(u)}{U} \int_0^U u du$. Since $x(U)=x(0)$, we obtain $y(U)=0$. The partition function may be written as $$e^{-\beta F} = \int dx \exp \left\{ -\beta \int V(x(u)) du \right\} \Pi_{\text{all closed paths}} \exp \left[ -\frac{1}{\hbar} \int \frac{1}{2} m \dot{x}^2(u) du \right] \mathcal{D}x(u) \delta(x(0)-x(U)) dx(0). \quad (3.59)$$ Here, we first fix $x(0)$ and $x(U)=x(0)$, and then do the path integral over all paths; then we vary $x(0)$. The reasons for integrating over the paths chosen can be made clearer by drawing diagrams; the reader should do this if he needs to. In the classical limit of high temperature, or small $\hbar$, $U$ is small, so that the path does not deviate much from the initial point. Thus the first approximation in Eq. (3.59) is to replace $x(u)$ by the initial value to obtain $$e^{-\beta F} \simeq \int dx e^{-\beta V(x)} p_{\text{free}}(0, 0, U) \simeq \frac{J}{2\pi m \hbar U} \int e^{-\beta V(y)} dy. \quad (3.60)$$ This is the well-known classical result. How can we improve on this approximation to take the quantum effect into account? First we observe that, because $x(0)$ and $x(U)$ are equal, it appears more natural to use an average $$\bar{x} = \frac{1}{U} \int_0^U x(u) du \quad (3.61)$$ instead of $x(0)$. So we write $S = m \int_0^U \dot{x}^2(u) du + \beta \int_0^U V(x(u)) du$.
+
+A common choice for the trial potential is a constant. The simplest choice is to take $w(x)$ to be a constant $w$. We thus have the following trial action: $$S_0 = \int [ \frac{1}{2} m \dot{x}^2(u) + w(x(u)) ] du. \quad (3.62)$$ Now we use the variational principle. The path integral with this $S_0$ is Gaussian and can be evaluated: $$e^{-\beta F_0} = \int dx e^{-\beta w(x)} \left( \frac{m}{2\pi \hbar U} \right)^{1/2}. \quad (3.63)$$ It should be noted here that in the classical case Eq. (3.60), $w(y)$ is replaced by $V(y)$. Next, we calculate $\langle S - S_0 \rangle_0$. Using Eqs. (3.57) and (3.62) we see by definition, $$\langle S - S_0 \rangle_0 = \frac{\Pi e^{-\int [ \frac{1}{2} m \dot{x}^2/2 du] - \beta w(x)] } \Pi \exp [ \int w(x) du ]}{\Pi e^{-\int [ \frac{1}{2} m \dot{x}^2/2 du] - \beta w(x)] } \Pi \exp [ \int w(x) du ]}.$$ The numerator of the right-hand side of Eq. (3.52) becomes an integral over paths the integrand of which is independent of $u$, $u$. We are integrating over paths like those in Fig. 3.6a. By making the change of variables $v = u - u'$, $u'' = u - v$, there is no restriction on $y$ because $y = x - x(0)$, and we integrate over $x$. The first term in the numerator of Eq. (3.64) becomes $$\int dx' V(x') \Pi_{x(0)=x(V)=x'} \exp \left[ -\int \frac{1}{2} m \dot{x}^2(V) dV \right] \exp \left[ -\beta w(x) \right] \mathcal{D}x.$$ Thus Eq. (3.64) may be written as $$\langle S - S_0 \rangle_0 = \langle V(x(0)) \rangle - \langle w(x) \rangle. \quad (3.66)$$ To transform further we use the following result (proved previously): $$\Pi_{x(0)=x(U)} \exp \left[ -\int \frac{1}{2} m \dot{x}^2(u) du \right] \exp \left[ -\int f(u)x(u) du \right] \mathcal{D}x(u) = J \exp \left[ \frac{1}{2m} \int \int f(u) G(u-u') f(u') du du' \right], \quad (3.67)$$ where $G(u-u')$ is the Green's function. In Eq. (3.65) we first do the path integral keeping $x$ fixed; then $$\int V(x(0)) \Pi \exp \left[ -\int \frac{1}{2} m \dot{x}^2(u) du \right] \exp \left[ -\beta w(x) \right] \mathcal{D}x = \int K(y) \exp \left[ -\beta w(y) \right] dy,$$ where $$K(y) = \int V(x(0)) \Pi \exp \left[ -\int \frac{1}{2} m \dot{x}^2(u) du \right] \delta(x-y) \mathcal{D}x(u). \quad (3.69)$$ For this we use the Fourier transform: $$V(x) = \int \tilde{V}(q) e^{iqx} dq. \quad (3.71)$$ Using Eqs. (3.70), (3.71) and also in the path-integral part, Eq. (3.67), to write Eq. (3.69) as $$K(y) = \int \tilde{V}(q) dq \int dk \Pi \exp \left[ iqx(0) \right] \exp \left[ ik(x-y) \right] \exp \left[ -\int \frac{1}{2} m \dot{x}^2(u) du \right] \mathcal{D}x. \quad (3.72)$$ We can bring the factor $\exp[ik(x-y)]$ into the exponential by using the Fourier transform of a delta function, and we are ignoring constant factors: $$K(y) = \int \tilde{V}(q) dq \int dk e^{-iky} \delta(q+k) \exp \left[ -\frac{\hbar^2}{2m} (k^2 + kq + \frac{1}{3}q^2) \right]. \quad (3.73)$$ Using the inverse Fourier transform, we find that Eq. (3.79) becomes $$K(y) = \int dz V(z) \exp \left[ -\frac{m}{2\hbar^2 U} (y-z)^2 \right]. \quad (3.80)$$ When the correct factors are taken into account, the final form is $$K(y) = \frac{J}{\sqrt{2\pi m k_B T}} \int dz V(z) \exp \left[ -\frac{m (y-z)^2}{2 k_B T} \right]. \quad (3.81)$$ It should be noticed that $K(y)$ is averaged over a Gaussian. The root mean square of the Gaussian spread is $$\sigma = \sqrt{\frac{\hbar^2}{m k_B T}}.$$ This spread is about 1 Å for a helium atom at room temperatures and is a very narrow spread. At the limit of infinite temperature, the Gaussian becomes a delta function, and $K(y) \rightarrow V(y)$. Summarizing the results obtained so far, we have $$\langle S - S_0 \rangle_{S_0} = \int du \int du' f(u) G(u-u') f(u') = 2 \int_0^U du \int_0^u du' f(u-u') f(u') = 2 \int_0^U du \left[ \frac{1}{2} u^2 k^2 + u q \right] f(u) = -k^2 \frac{U}{3} + q U. \quad (3.83c)$$ Now we ask what is the best choice of $w(y)$? Changing $w(y) \rightarrow w(y) + \eta(y)$ where $\eta(y)$ is small, we see from Eqs. (3.83b) and (c)
+
+$$e^{-\beta F_0} \rightarrow e^{-\beta F_0} - \beta \int e^{-\beta w} \eta dy,$$ $$\langle S - S_0 \rangle_0 \rightarrow \langle S - S_0 \rangle_0 + \int e^{-\beta w} (K - w) \eta dy + \beta \int e^{-\beta w} \eta^2 dy.$$ Thus $$\frac{\delta}{\delta \eta} \left( F_0 + \frac{1}{\beta} \langle S - S_0 \rangle_0 \right) = 0$$ leads to $$w(y) = K(y). \quad (3.87)$$ This is the best choice of $w(y)$. In this case Eq. (3.83c) yields $$\langle S - S_0 \rangle_0 = 0, \quad (3.88)$$ so that, from Eq. (3.83a), $$F = F_{\text{Cl}, K} \quad (3.89)$$ where $$F_{\text{Cl}, K} = -k_B T \ln \int e^{-\beta K(y)} dy \quad (3.90)$$ compare Eq. (3.60). $K(y)$ is defined in Eq. (3.81). $F_{\text{Cl}, K}$ is a better approximation than the ordinary classical form $F_{\text{Cl}}$ in Eq. (3.60). When we write $$K(y) = \frac{\hbar \omega}{2} \coth \frac{\beta \hbar \omega}{2},$$ and $f = \frac{\beta \hbar \omega}{2}$. Eq. (3.94) becomes $$\ln F_{\text{true}} = \ln F_{\text{Cl}, K} + \frac{1}{2} \ln \left( \frac{2 \sinh f}{f} \right), \quad (3.95a)$$ $$\ln F_{\text{Cl}, K} = \frac{1}{2} \ln (2f) + \ln F_{\text{Cl}}, \quad (3.95b)$$ $$\ln F_{\text{Cl}} = \ln (2f). \quad (3.95c)$$ Table 3.1 is a numerical comparison of $F_{\text{true}}$, $F_{\text{Cl}, K}$ and $F_{\text{Cl}}$. This table shows the remarkable improvement $F_{\text{Cl}, K}$ has over $F_{\text{Cl}}$. Remember that $f = \frac{\hbar \omega}{2 k_B T}$.
+
+Example: To find out how good $F_{\text{Cl}, K}$ is, let us consider the The harmonic oscillator responds to the temperature ℏω/kB where the quantum effect is large. In this case the potential is (3.91). From Eq. (3.81), K(y) = ∫ δ(y - ℏ/mω f Z) exp[-β mω²/2 (y - Z)²] dz = mω²/2 (y² + ℏ²/(m²ω²)). Table 3.1.
+
+(3.92)
+
+Gel 0 0.6931 0.6931
+
+Path integrals, series expansion, etc. (3.90) V(y) in T; but it fails when V(y) has a large derivative, e.g., hard-sphere potential. The classical partition function of N interacting particles is written as (4.1), where Z_N = ∫ exp[-βV(R₁, R₂, ..., R_N)] d³R₁ d³R₂ ... d³R_N. (4.2)
+
+These equations can be derived from the quantum-mechanical results previously obtained. From Chapter 2, Section 8, we have for Bose statistics e^{-βF_s} = N^{-1} ∫ P_D(X₁, ..., X_N; PX₁, ..., PX_N) dX₁ ... dX_N. For Fermi-Dirac statistics, e^{-βF_A} = N! ∫ (-1)^P P_D(X₁, ..., X_N; PX₁, ..., PX_N) dX₁ ... dX_N. In either case, only the identity permutation is important at sufficiently high temperatures, as factors like e^{-βħ²/(2m)(X-PX)²} kill the other terms. Thus, e^{-βF} = N! ∫ P_D(X₁, ..., X_N; X₁, ..., X_N) dX₁ ... dX_N. We have estimated this integral for N=1 using path integrals (see Chapter 3, Eq. (3.60)). Generalizing to N particles in three dimensions, we arrive at Eqs. (4.1) and (4.2).
+
+When a gas particle is a polyatomic molecule, the internal motion and the motion of the center of gravity can be separated; the specific heat is then a sum of two contributions. In Eq. (4.2), R_i is the center of gravity of the i-th particle; the partition function for internal motion is not included here. The latter can be calculated using information from the level energies of the internal motion obtained from the harmonic approximation for the intermolecular motion, and the motion of the center of gravity with each other. In the following discussion, the intermolecular motion of a gas is regarded as a quantum system of gas particles, and the classical system is hard to separate from the classical motion of the center of gravity.
+
+The free energy is written from Eq. (4.1) as F = -kT ln Z_N = -kT [3N ln(2πmkT/h²)/2 + ln Z_N], (4.3) where the 'e' in the last term is the base of natural logarithms. This appears because we used the Stirling formula: N! ≈ (N/e)^N. From Eq. (4.3), the internal energy U is U = -∂(F/T)/∂(1/T) = kT² ∂ ln Z_N/∂T, (4.4) and R = Nk. The equation of state is found to be PV = - (∂Z_N/∂V) kT Z_N^{-1} from Eq. (1.6). (4.5, 4.6)
+
+Example: For an ideal gas, V(R₁, ..., R_N) = 0; therefore Z_N = V^N. (4.7) Eq. (4.7) becomes PV = RT. (4.8)
+
+When we assume the potential energy can be written as a sum of pair potentials V(R₁, ..., R_N) = Σ_{pair} V(r_{ij}), (4.9) Eq. (4.2) can be written Z_N = ∫ exp[-β Σ_{pair} V(r_{ij})] d³R₁ d³R₂ ... d³R_N. (4.10) Note that this expression contains all the information about the phase transitions of the system. In principle, the nature of the phase transitions can be discussed by examining the behavior of the integral in Eq. (4.10) purely mathematically, without physical knowledge.
+
+Equation (4.10) suggests that when the number of particles N is finite there is no discontinuity in physical qualities. Only when N → ∞ do we expect discontinuities.
+
+The assumption of a central force potential V(r_{ij}) in Eq. (4.9) is not exactly justified. The necessity of a noncentral force is illustrated by the following observation: In the solid state, assuming only nearest-neighbor interaction, the face-centered cubic and hexagonal close-packed structures are indistinguishable. When second nearest neighbors are taken into account, the central-force assumption leads to hexagonal close packing having lower energy, whereas face-centered cubic is actually more stable for solid argon.
+
+The free energy F of Eq. (4.3) is not necessarily a function of V/N only. If we take an unrealistic potential like in Fig. 4.1, the energy of the system is roughly of the form CN², where C is a constant and N is the number of particles forming a cluster of volume V₀. Thus, we can think of two extreme forms of Z_N: Z_N^{(1)} ~ V^N, Z_N^{(2)} ~ e^{-βCN²}. (4.11) When the temperature is low and N is large, the contribution of Z_N^{(1)} can be larger than Z_N^{(2)}; then F is not a function of V/N only.
+
+## 4.2 The Second Virial Coefficient When the gas is not dense, the equation of state data is summarized as PV/RT = 1 + B/V + C/V² + ..., (4.12) where B is the second virial coefficient, and C the third virial coefficient. We derive an expression for B assuming a pairwise potential as in Section 4.1.
+
+Consider a system of N + 1 particles. Eq. (4.10) becomes Z_{N+1} = ∫ exp[-β Σ_{i<j}^{N+1} V(r_{ij})] d³X d³R₁ ... d³R_N. (4.13) When we integrate over X first with all R_j fixed, if the gas is not dense, the volume where V(X - R_i) ≠ 0 is small. We may approximate exp[-β Σ_j V(X - R_j)] ≈ exp[-β Σ_j V(R_i - R_j)] for X near R_i. (4.14) This leads to the ideal-gas equation. To obtain a better estimate, we write Eq. (4.13) as Z_{N+1} = ∫ exp[-β Σ_i V(X - R_i)] exp[-β Σ_{i<j} V(R_i - R_j)] d³X d³R / Z_N = ∫ exp[-β Σ_{i<j} V(r_{ij})] [exp[-β Σ_i V(X - R_i)] ] d³X d³R / Z_N. (4.15) The ratio part is a weighted average. We evaluate this average by neglecting three-body and higher-order collisions. When X is close to R_i, this pair is assumed to be far from any other R_j, equivalent to replacing the weight factor by unity (see Fig. 4.2). Configurations like Fig. 4.2(b) (three-body collisions) are neglected.
+
+Thus, neglecting three-body and higher-order collisions, we approximate Eq. (4.15) as Z_{N+1} ≈ (1/Z_N) ∫ exp[-β Σ_{i<j} V(r_{ij})] [ ∫ exp[-β Σ_i V(X - R_i)] d³X ] d³R / Z_N = (V - α) Z_N / Z_N = (V - α) Z_N, (4.16b) where we used ∫ exp[-βV(X - R_i)] d³R = V - ∫ [1 - exp[-βV(X - R_i)]] d³R = V - α, (4.17) and α = ∫ [1 - exp[-βV(r)]] 4πr² dr. (4.18)
+
+Using Eqs. (4.17) and (4.18), Eq. (4.16b) becomes Z_{N+1} = (V - α) Z_N. (4.19) This is a recurrence relation for Z_N. Solving it: Z_N = V (V - α)^{N-1} Z_1 = V^N (1 - α/V)^{N-1}. (4.20) Multiplying all terms: Z_N = V^N (1 - Nα/V + ... ). (4.21) When N is very large, it can be approximated as Z_N ≈ V^N e^{-Nα/V}. (4.22) Taking the logarithm: ln Z_N = N ln V - Nα/V + ... . From Eq. (4.3), the free energy contributes F = -kT (N ln(2πmkT/h²)/2 + N ln V - Nα/V). (4.23) The equation of state is PV = NkT [1 + (N/V) (α/V) ]? Actually, from ∂F/∂V = -P, we get P = NkT [1/V + (∂/∂V)(-Nα/V) ] = NkT/V [1 + (N/V) (α/V) ]? Wait, let's compute properly: F = const - kT N ln V + kT N α/V, so P = -∂F/∂V = NkT/V - kT N (-α/V²) = NkT/V [1 + α/V]. (4.24) Comparing with Eq. (4.12), we obtain the second virial coefficient B = α = -1/2 ∫ [1 - exp(-βV(r))] 4πr² dr. (4.25)
+
+This is exact in the sense that three-body and higher-order collisions neglected affect only higher virial coefficients.
+
+When the temperature is high, we may approximate exp(-βV(r)) ≈ 1 - βV(r), then α ≈ (β/2) ∫ V(r) 4πr² dr, and B ≈ - (1/2) ∫ βV(r) 4πr² dr = -β/2 ∫ V(r) 4πr² dr. (4.27) In abbreviated form: B = - (1/2) ∫ f(r) 4πr² dr, where f(r) = e^{-βV(r)} - 1.
+
+Example: For a potential as shown in Fig. 4.3, Eq. (4.27) gives B(T) = - (1/2) ∫_{0}^{∞} [e^{-βV(r)} - 1] 4πr² dr. For a hard-sphere potential V(r) = ∞ for r < σ, V(r) = 0 for r > σ, we get B = (1/2) (4πσ³/3) = b, where b is the excluded volume. For the square-well potential: V(r) = ∞ for r < σ, = -ε for σ < r < λσ, = 0 for r > λσ, we get B = b [1 - (λ³ - 1)(e^{βε} - 1)]. (4.28)
+
+Comparing with the Van der Waals equation PV = RT/(V - b) - a/V, (4.29) which expands as PV/RT = 1/V + (b - a/RT)/V² + ..., (4.30) we identify B = b - a/(RT). (4.31) If we set a and b from Van der Waals, Eq. (4.31) matches Eq. (4.30) up to the second virial coefficient. If the Van der Waals equation is valid, its second virial coefficient is B_w = b - a/(RT). (4.33) A special feature is that B_w becomes negative for low temperatures because a is positive. Experimental data for helium are shown in Fig. 4.3.
+
+## 4.4 Experimental data for helium gas
+
+From Eqs. (4.33) or (4.30). It must be remembered that Eq. (4.30) is based on the hard-core assumption of Fig. 4.3. In actuality, the potential V(r) in Eq. (4.18), which is accurate, is slightly soft inside r = b, so that for high temperatures, when particles are hitting each other hard, they can come slightly closer than b. Thus there is a decrease in the "hard-core" radius, and hence a decrease in B.
+
+When we use the Slater potential V(r) = e^-cr - C2/r^6, (4.34)
+
+or the Lennard-Jones potential V(r) = A'/r^12 - B'/r^6, (4.35)
+
+in Eq. (4.18) we can calculate α. Incidentally, in Eqs. (4.34) and (4.35), the r^-6 term comes from the Van der Waals attraction.
+
+Table 4.1 lists the numerical results for helium gas (in units of cc/mol).
+
+Table 4.1 T (K) | B_Calc (CL.) | B_Obs | B_Calc (Q.M.)
+
+--- | --- | --- | --- 350 | 10.80 | 11.60 | 10.82 250 | 11.34 | 11.95 | 11.16 100 | 10.75 | 10.95 | 35 | 4.80 | 4.44 | 20 | -6.95 | -4.00 | -5.14 15 | -20.0 | -14.0 | -15.1
+
+The Slater potential is used. *J. G. Kirkwood, Phys. Rev. 37, 832 (1931). †J. G. Kirkwood, Phys. Zs. 33, 39 (1932).
+
+The quantum-exchange effect on the second virial coefficient was neglected in this section. This effect becomes important only for temperatures below about 10K.
+
+The general references on the subject of the second virial coefficient are: J. de Boer, Report on Progress in Physics, Vol. 2, p. 305 (1948-1949). Mayer-Mayer, Statistical Mechanics (John Wiley & Sons, Inc. New York, 1940).
+
+Problem: For a mixture of two gases with atomic fractions X1 and X2, such that X1 + X2 = 1, show that the second virial coefficient is B = X1^2 B11 + 2 X1 X2 B12 + X2^2 B22.
+
+The equation of state can be written, as in Eq. (4.12), as PV / RT = 1 + B/V + C/V^2 + ... (4.38)
+
+This is the virial expansion; as before, B is the second virial coefficient, C the third, and so on.
+
+From Eqs. (4.37), (4.39), and (4.40), Z_N = ∫ exp[-β Σ V(r_ij)] d^N R. (4.39)
+
+W_N(R_1, R_2, ..., R_N) = exp[-β Σ V(r_ij)]. (4.40)
+
+If there is one particle, then W_1(R_1) = U_1(R_1) = 1. (4.41)
+
+For two particles, W_2(R_1, R_2) = 1 + f(r_12), (4.42)
+
+where f(r) = e^-βV(r) - 1.
+
+Similarly, for three particles, W_3(R_1, R_2, R_3) = 1 + f(r_12) + f(r_13) + f(r_23) + f(r_12)f(r_23) + f(r_13)f(r_23) + f(r_12)f(r_13) + f(r_12)f(r_13)f(r_23). (4.45)
+
+W_3(R_1, R_2, R_3) can be written as a product of its disconnected parts. A cluster of N points is represented by a sum of all possible graphs in which those points are connected. For example, U_3(R_1, R_2, R_3) is the sum of all three connected graphs.
+
+The U_N can also be expressed in terms of the W's. From Eq. (4.41), U_1(R_1) = W_1(R_1). From Eq. (4.42), U_2(R_1, R_2) = W_2(R_1, R_2) - W_1(R_1)W_1(R_2). (4.49)
+
+From Eqs. (4.45) and (4.49), U_3(R_1, R_2, R_3) = W_3(R_1, R_2, R_3) - Σ W_2(R_1, R_2)W_1(R_3) + 2 W_1(R_1)W_1(R_2)W_1(R_3), (4.50)
+
+where the sum is over the three pairs.
+
+In general, U_n(R') = W_n(R') - Σ W_2(R_i, R_j)W_{n-2}(R_k, ...) + ... + (-1)^{n-1} (n-1)! W_1(R_1)...W_1(R_n), (4.51)
+
+where the sum is over all ways of splitting the n particles into two groups.
+
+Thus, from Eq. (4.40), all the W_N are known. From Eq. (4.51), U(R') in terms of the W_i is given; thus the U_n(R') can be found.
+
+In any particular partition of the N particles, there will be m_l clusters of size l; and of course Σ l*m_l = N.
+
+For example, a three-particle gas can be partitioned into: 1. 1 cluster of 3, m_3 = 1, m_2 = m_1 = 0.
+
+2. 3 clusters of 1, m_1 = 3, m_2 = m_3 = 0.
+
+3. 1 cluster of 2 and 1 cluster of 1 (this can happen 3 ways), m_1 = m_2 = 1, m_3 = 0.
+
+From the above discussion, with Eqs. (4.45) and (4.46), X_N = Σ(m_l) Π (V b_l)^{m_l} / m_l!, (4.53)
+
+where the sum is over all possible partitions of N, that is, all divisions of particles into groups.
+
+Now construct the expression b_l = (1 / l! V) ∫ U_l(R_1, ..., R_l) dR_1 ... dR_l. (4.55)
+
+And βP = (∂ ln X_N / ∂V)_{N,T}. (4.57)
+
+Using Eqs. (4.51), (4.53), and (4.55), we find ln(X_N / N!) = -N ln V + N ln(2πħ^2 / mkT)^{3/2} + Σ_{l=1}^∞ (a_l / V^{l-1}), (4.58)
+
+where a_l = (1/l!) Σ_{all partitions of l} (-1)^{k-1} (k-1)! b_{l_1}^{m_1} ... b_{l_k}^{m_k}, with k being the number of groups in the partition.
+
+This is known as Mayer's cluster expansion.
+
+It is important to note that (for large volume), b_l is independent of volume. Therefore the equation for βP can be written as βP = ρ + Σ_{l=2}^∞ a_l ρ^l, (4.59)
+
+where ρ = N/V is the number density.
+
+This gives the equation of state PV / NkT = 1 + Σ_{l=2}^∞ B_l(T) ρ^{l-1}, (4.60)
+
+where B_l(T) are the virial coefficients.
+
+When the density becomes large, the Mayer cluster expansion is of little use. This is because at very high density (liquid), the most important term in the expansion becomes the Nth term. That is, almost all particles are correlated.
+
+Radial Distribution Function
+
+Consider a system of N particles interacting with pair-wise forces. The partition function Z_N is Z_N = (1 / N!) ∫ exp[-βV(R_1, ..., R_N)] d^3R_1 ... d^3R_N. (4.63)
+
+The probability density for particle 1 being at R_1, particle 2 at R_2, etc., is P(R_1, R_2, ..., R_N) = (1 / Z_N!) exp[-βV(R_1, ..., R_N)]. (4.64)
+
+The probability that a given particle, say particle 1, is at R_1 and the rest of the particles are anywhere is P(R_1) = (1 / Z_N) ∫ exp[-βV(R_1, ..., R_N)] d^3R_2 d^3R_3 ... d^3R_N. (4.65)
+
+Because there are N identical particles, the probability density for one of these particles being at R is n_1(R) = N P(R) = (N / Z_N) ∫ exp[-βV(R_1, ..., R_N)] d^3R_2 d^3R_3 ... d^3R_N. (4.66)
+
+For a homogeneous system, n_1(R) = N/V = ρ, the average number density.
+
+The pair distribution function n_2(R_1, R_2) is defined such that n_2(R_1, R_2) d^3R_1 d^3R_2 is the probability of finding a particle in volume d^3R_1 around R_1 and another in d^3R_2 around R_2. It is given by n_2(R_1, R_2) = (N(N-1) / Z_N) ∫ exp[-βV(R_1, ..., R_N)] d^3R_3 ... d^3R_N. (4.67)
+
+For a homogeneous and isotropic system, n_2(R_1, R_2) depends only on r = |R_1 - R_2| and can be written as n_2(r) = ρ^2 g(r), (4.68)
+
+where g(r) is the radial distribution function. It gives the probability, relative to an ideal gas, of finding a particle at distance r from a given particle.
+
+For an ideal gas (non-interacting), V=0, so exp(-βV)=1, and g(r) = 1.
+
+For an interacting system, at large r, particles are uncorrelated, so g(r) → 1. At small r, g(r) is small due to repulsion.
+
+The pressure can be related to the pair distribution function via the virial equation of state: P = ρ kT - (ρ^2 / 6) ∫_0^∞ r (dV/dr) g(r) 4π r^2 dr. (4.69)
+
+The internal energy per particle is also related to g(r): U/N = (3/2) kT + (1/2) ρ ∫_0^∞ V(r) g(r) 4π r^2 dr. (4.70)
+
+In the limit of low density, ρ → 0, one can show that g(r) = e^-βV(r). Substituting this into the virial equation recovers the second virial coefficient expression.
+
+For a system in equilibrium with an external potential U_ext(R), the density is not uniform. The generalized Ornstein-Zernike equation relates the total correlation function h(R,R') = g(R,R') - 1 to the direct correlation function c(R,R'), but this is beyond the current scope.
+
+Every particle becomes a member of a very large cluster—and in a liquid all the particles are in an N-fold cluster.
+
+\[ n_1 = \frac{1}{Z_N} \int \dots \int e^{-\beta \sum_{i<j} V_{ij}} d^3R_1 \dots d^3R_N \]
+
+is the one-particle density, or distribution function.
+
+The two-particle distribution function \( n_2(R_1, R_2) \) is defined as \[ n_2(R_1, R_2) = \frac{N(N-1)}{Z_N} \int \dots \int e^{-\beta \sum_{i<j} V_{ij}} d^3R_3 \dots d^3R_N \]
+
+For a liquid or a gas, \( n_2(R_1, R_2) \) is a function of the distance between the two particles.
+
+\[ n_2(R_1, R_2) = n_2(r_{12}) \]
+
+The general shape of \( n_2(r) \) is as shown in Fig. 4.5. When \( r \to \infty \), \( n_2(r) \) approaches \( n_1^2 \) where \( n_1 \) is the one-particle density; this is because when the distance becomes large, the existence of one atom does not influence the distribution of the other atom.
+
+The radial distribution function \( n_2(r) \) is related to x-ray or neutron diffraction as shown in Fig. 4.6. The x-ray is coming in along the direction \( \mathbf{k}_{in} \) and is scattered by atoms. The scattered x-ray is observed at \( P \) somewhere far from the liquid. The amplitude observed at \( P \) is the sum of amplitudes scattered by each atom, the latter being of the form \[ a(\theta) \frac{e^{i\mathbf{k}_{out}\cdot \mathbf{R}_j}}{R_{jp}} \]
+
+Here \( R \) is the distance from the scattering atom and \( a(\theta) \) indicates the possible angular dependence of scattering, which is not important here. Taking into account the phase of the incoming wave, \[ \text{Amplitude} = a(\theta) \sum_j \left( e^{i\mathbf{k}_{in}\cdot \mathbf{R}_j} \frac{e^{i\mathbf{k}_{out}\cdot \mathbf{R}_j}}{R_{jp}} \right), \]
+
+\( P \) is the point of observation. Then, approximately, \[ \text{Amplitude} = a(\theta) \frac{e^{i\mathbf{k}_{out}\cdot \mathbf{R}_{cp}}}{R_{cp}} G, \]
+
+with \[ G = \sum_j e^{i\mathbf{q}\cdot \mathbf{R}_j}, \]
+
+where \( \mathbf{q} = \mathbf{k}_{in} - \mathbf{k}_{out} \). The intensity of the x rays is \[ \text{Intensity} = |\text{Amplitude}|^2 = |a(\theta)|^2 \frac{1}{R_{cp}^2} |G|^2. \]
+
+To compute the intensity, we need to know the expectation value of \( |G|^2 \). Now \[ |G|^2 = \sum_{i,j} e^{i\mathbf{q}\cdot (\mathbf{R}_i - \mathbf{R}_j)}. \]
+
+For a liquid, neglecting the \( i = j \) terms in the double sum, we have \[ \langle |G|^2 \rangle = \frac{N(N-1)}{Z_N} \int \dots \int e^{i\mathbf{q}\cdot (\mathbf{R}_1 - \mathbf{R}_2)} \left[ e^{-\beta \sum_{i<j} V_{ij}} \right] d^3N \mathbf{R}, \]
+
+because the term in brackets, \( [\dots] \), is the probability for the configuration \( R_1, R_2, \dots, R_N \). Now, using Eq. (4.65), we write \[ \langle |G|^2 \rangle = \int e^{i\mathbf{q}\cdot (\mathbf{R}_1 - \mathbf{R}_2)} n_2(\mathbf{R}_1, \mathbf{R}_2) d^3\mathbf{R}_1 d^3\mathbf{R}_2. \]
+
+When \( n_2(R_1, R_2) \) depends on \( |\mathbf{R}_1 - \mathbf{R}_2| \) only, \( V \) = the volume of the liquid, and \( q = |\mathbf{q}| \), we may write \[ \langle |G|^2 \rangle = N n_1 V + N(N-1) \int n_2(r) e^{i\mathbf{q}\cdot \mathbf{r}} d^3\mathbf{r}. \]
+
+In Section 4.5 we pointed out that one can find all thermodynamic functions given \( n_2(r) \). In Section 4.1 of this chapter we showed how we could find (in principle) \( e^{-\beta F} \) given the potential between pairs of particles, and from \( F \) we can also get all thermodynamic functions. But to get \( e^{-\beta F} \) we must integrate over something like \( 10^{23} \) variables. Computers cannot do such an integration; so we have got to find some way of getting the answer approximately. The Mayer cluster expansion was one way, and it was satisfactory for a gas. So far, for a liquid, we have replaced \( F \) by \( n_2(r) \), which requires six fewer than the \( 10^{23} \) integrations for \( F \). Clearly, we still have quite a way to go. One approach toward approximately evaluating our monster integral is by means of the Born–Green equation.
+
+The internal energy is \[ U = -\frac{\partial}{\partial \beta} \ln Z_N = \frac{3}{2} N k_B T - \frac{1}{2} \int V(r) n_2(r) 4\pi r^2 dr. \]
+
+The first term of Eq. (4.73) is the kinetic energy, and the second term is the potential energy. The latter comes from the pair potential \( V(r) \), and the factor \( 1/2 \) appears because each pair is counted twice.
+
+The pressure is expressed as follows: \[ pV = N k_B T - \frac{1}{6} \int \mathbf{r} \cdot \nabla V(\mathbf{r}) n_1(\mathbf{r}) d^3\mathbf{r} \]
+
+or \[ pV = N k_B T - \frac{1}{6} \int r V'(r) n_2(r) 4\pi r^2 dr. \]
+
+These are classical formulae, which do not hold for liquid helium. Equation (4.74b) is derived as follows. From Eq. (2.121)
+
+\[ 3pV = 2 \langle KE \rangle - \left\langle \sum_{i<j} r_{ij} V'(r_{ij}) \right\rangle. \]
+
+As in Eq. (4.73), \( \langle KE \rangle = (3/2) N k_B T \). The second term of Eq. (4.75) can be written \[ \langle \dots \rangle = \frac{1}{Z_N} \int \dots \int \sum_{i<j} r_{ij} V'(r_{ij}) e^{-\beta \sum_{i<k} V_{ik}} d^3N \mathbf{R}. \]
+
+When the force is homogeneous of degree \( (n + 1) \), \[ r V'(r) = n V(r). \]
+
+can use these in Eqs. (4.73) and (4.74b) to see that \[ 3pV + nU = (3 + n) N k_B T. \]
+
+This relation is called the virial theorem.
+
+Problem: Show that at low densities \[ n_2(r) \approx 1 - e^{-\beta V(r)}. \]
+
+Using this result in Eq. (4.74), derive the virial coefficients in the virial expansion.
+
+The Born–Green equation for \( n_2 \): Section 4.5 we pointed out that one can find all thermodynamic functions given \( n_2(r) \). In Section 4.1 of this chapter we showed how we could find (in principle) \( e^{-\beta F} \) given the potential between pairs of particles, and from \( F \) we can also get all thermodynamic functions. But to get \( e^{-\beta F} \) we must integrate over something like \( 10^{23} \) variables. Computers cannot do such an integration; so we have got to find some way of getting the answer approximately. The Mayer cluster expansion was one way, and it was satisfactory for a gas. So far, for a liquid, we have replaced \( F \) by \( n_2(r) \), which requires six fewer than the \( 10^{23} \) integrations for \( F \). Clearly, we still have quite a way to go. One approach toward approximately evaluating our monster integral is by means of the Born–Green equation.
+
+\( n_2(\mathbf{R}_1, \mathbf{R}_2) \), defined in Eq. (4.65) can be transformed as follows: \[ n_2(\mathbf{R}_1, \mathbf{R}_2) = \frac{N(N-1)}{Z_N} \int \dots \int e^{-\beta [\sum_{i<j} V_{ij}]} d^3\mathbf{R}_3 \dots d^3\mathbf{R}_N. \]
+
+Differentiate the above equation to obtain \[ \nabla_1 n_2(\mathbf{R}_1, \mathbf{R}_2) = -\beta \frac{N(N-1)}{Z_N} \int \dots \int \left[ \nabla_1 V_{12} + \sum_{j \neq 1,2} \nabla_1 V_{1j} \right] e^{-\beta \sum V_{ij}} d^3\mathbf{R}_3 \dots d^3\mathbf{R}_N. \]
+
+When we define \[ n_3(\mathbf{R}_1, \mathbf{R}_2, \mathbf{R}_3) = \frac{N(N-1)(N-2)}{Z_N} \int \dots \int e^{-\beta \sum_{i<j} V_{ij}} d^3\mathbf{R}_4 \dots d^3\mathbf{R}_N, \]
+
+we can write Eq. (4.77) as \[ \nabla_1 n_2(\mathbf{R}_1, \mathbf{R}_2) = -\beta \nabla_1 V(\mathbf{R}_{12}) n_2(\mathbf{R}_1, \mathbf{R}_2) -\beta \int \nabla_1 V(\mathbf{R}_{13}) n_3(\mathbf{R}_1, \mathbf{R}_2, \mathbf{R}_3) d^3\mathbf{R}_3. \]
+
+This is the Born–Green equation.
+
+The special feature of this equation is that both \( n_2(\mathbf{R}_1, \mathbf{R}_2) \) and \( n_3(\mathbf{R}_1, \mathbf{R}_2, \mathbf{R}_3) \) are involved. When we go further and write the equation for \( n_3 \) we need \( n_4 \). The equation for \( n_4 \) includes \( n_5 \), and so on. Thus, we have a hierarchy of equations. This kind of hierarchy appears in other branches of physics—for example, in meson field theory—but no general, accurate way of treating the set of equations has been established. When we make a guess for \( n_3 \), say, and cut off the hierarchy there and calculate back \( n_2 \), we might get a good estimate of \( n_2 \); but that an error in the guess of \( n_3 \) becomes unimportant as we approach \( n_2 \) has not been proved.
+
+An ingenious way of closing the hierarchy is due to Kirkwood. When \( \mathbf{R}_3 \) is very far from \( \mathbf{R}_1 \) and \( \mathbf{R}_2 \), \[ n_3(\mathbf{R}_1, \mathbf{R}_2, \mathbf{R}_3) \to n_2(\mathbf{R}_1, \mathbf{R}_2) n_1^2. \]
+
+Considerations such as this lead Kirkwood to the approximation \[ n_3(\mathbf{R}_1, \mathbf{R}_2, \mathbf{R}_3) \approx \frac{n_2(\mathbf{R}_1, \mathbf{R}_2) n_2(\mathbf{R}_2, \mathbf{R}_3) n_2(\mathbf{R}_3, \mathbf{R}_1)}{n_1^3}, \]
+
+which is called the Kirkwood approximation, or the superposition approximation. When we use Eq. (4.80) in Eq. (4.79) we can solve for \( n_2 \).
+
+Our attempts to evaluate the integrals involved in the thermodynamics of liquids and gases have not met with complete success. The Kirkwood approximation might not be bad, but we do not know exactly how to generalize it, or whether a generalization would give better results. What we want is a method that would give progressively more accurate results as we increased the computational labor. No such method is available today.
+
+We are faced with a problem that is too hard for us. We may be able to gain some insight by picking a soluble problem that has some of the features of the insoluble one. For example, consider gas particles constrained to move on a line (Fig. 4.7). First we assume only nearest-neighbor interaction. The partition function is \[ Z_N(L) = \int_0^L \int_{x_1}^L \dots \int_{x_{N-1}}^L e^{-\beta [V(x_1-x_2) + V(x_2-x_3) + \dots]} dx_1 dx_2 \dots dx_N, \]
+
+The length \( L \) is fixed.
+
+We would be making a good start toward solving our problem if we could get a recursion relation with \( Z_{N+1} \) expressed in terms of \( Z_N \). Since we cannot even do this, we will modify the problem in such a way that the macroscopic properties of the system are not changed but a recursion relation for the partition function can be found. We put one extra atom before \( x_1 \) and fix its position to be at \( y \) (see Fig. 4.8). The resulting partition function we call \( P_N(y, L) \).
+
+\[ P_N(y, L) = \int_y^L \int_{x_1}^L \dots \int_{x_{N-1}}^L e^{-\beta [V(y-x_1) + V(x_1-x_2) + \dots]} dx_1 dx_2 \dots dx_N. \]
+
+In Eq. (4.82) \( y \) is fixed. Now, consider the case shown in Fig. 4.9. From Eq. (4.82) we can write \[ P_{N+1}(z, L) = \int_z^L \int_y^L \int_{x_1}^L \dots e^{-\beta [V(z-y) + V(y-x_1) + \dots]} dy dx_1 \dots dx_N \]
+
+with \( z < y < x_1 < \dots < L \). In the integral, \( z \) is fixed, but \( y \) varies. From Eq. (4.83)
+
+\[ P_{N+1}(z, L) = \int_z^L e^{-\beta V(z-y)} \left[ \int_y^L \int_{x_1}^L \dots e^{-\beta [V(y-x_1) + V(x_1-x_2) + \dots]} dx_1 \dots dx_N \right] dy = \int_z^L e^{-\beta V(z-y)} P_N(y, L) dy. \]
+
+Because the "volume" of the system is \( L - y \), we can now write Eq. (4.85a) as \[ e^{\beta p (L - y)} P_N(y, L) = \text{something independent of } y. \]
+
+Partition function. Multiply Eq. (4.84) by e^{(N+1)μ} and sum over to obtain (4.86) which leads to In our case, Z_N/N! P_N(y, L) (the factor comes from the fact that we have in the integral for P_N restricted the range to y < x_1 < ... < x_N < L instead of allowing each particle to be anywhere in [0, L]). We can absorb the factor (m/2πn^2β)^{N/2} in the e^{βμN} by adjusting. Then or e^{-βL} e^{βμN} P_N(y, L). (4.85a) e^{-βμ} ∫ e^{-βV(x)} dx. (4.87) As in Section 1.11, for a combination of several independent subsystems. The integral is insensitive to the upper limit, so we have replaced that limit with each with the same μ, is the sum of the for each subsystem. In Section 1.6 we see. This is the desired result from which we now can find all the thermodynamic quantities. For example defined F where is the expected number of particles in the system. Clearly, for a combination of independent subsystems is also a sum of the <N> ∂/∂β for each system. f's = - ∂/∂β = ∂/∂β Vol = Vol ∂/∂β = L ∂/∂β If there is a sufficiently large number of particles, we can consider the line be a combination of line segments that interact with each other very little. to Equation (4.87) can be written as With such considerations, it is easy to see that F is a function only of the density ρ [/μ, p(μ, ρ)]. Later we will see that the equation is equivalent to the equation It is hard to from 0 df/dβ = /1 , β it follows that e^{-βμ} ∫ e^{-βV(x)} dx = β, β)]. So e^{-βμ} ∫ e^{-βV(x)} dx _ ∫ e^{-βμ} x e^{-βV(x)} dx. Problem: When the nearest- and next-nearest-neighbor interactions are included, derive the chemical potential. (Hold two atoms fixed near the left end Suppose, as before, we modify the problem slightly by placing an extra of the line and now we derive the result for the problem of particles fixed. the atom at x_1 is equal to zero. For this system the partition function for this system is Let X = Σ e^{-x_i}. Later we will IN(a, L) = exp { - β [a(e^{-x_1} + e^{-x_2} + ... + e^{-x_N}) + Σ_{i>j} e^{(x_i - x_j)} ]} dx_1 ... dx_N. (4.88) O<y< x_1 < ... <L j>i Then exp ( -βa e^{-x_0}) IN(a, L) e^{βμN}. We will now discuss the problem of a one-dimensional gas, all particles of which interact repulsively with all others with a potential V(x) e^{-|x|}. When there is attraction and no repulsion, the preferred configuration occurs when the particles all sit on top of one another. The potential V is proportional to the number of pairs, N(N - 1)/2. The more pairs there are, the lower the potential can get, and ultimately all particles collapse to a point. This result does not tell us much, so we assume a repulsive force. Assume N particles are distributed in a line of length (Fig. 4.10). We wish L to evaluate O<y< x_0< ... <L ∫ x exp { - β [(a + e^{-x_0})(e^{-x_1} + ... + e^{-x_N}) + Σ_{i>j} e^{(x_i - x_j)} ]} dx_0 ... dx_N j>i = exp (-βa e^{-x_0}) IN(a + e^{-x_0}, L - y) dx_0. (4.89) a p where IN(a) is the partition function for a system with one particle fixed at the origin. Then from Eq. (4.88) we have + Σ_{i>j} e^{(x_i - x_j)} ]} dx_1 ... dx_N e^{-βL} IN(a, L) e^{βμN}. ... = N j>i (4.87) which is Eq. (4.90). From Eq. (4.90) we can obtain all the thermodynamic properties, and we can But the subsystems with the atoms fixed: the effect of the first atom, the one located at is due to the rest of the atoms in the gas, and x_1, know that the effect of the other atoms can be described with a potential involving one we extra parameter. Thus the first atom moves in a potential exp [ -β Σ_{i>j} e^{-(x_i - x_j)} ] dx_1 ... dX_N e^{-x_1}, where e^{x_1} - 1, where e = Σ_{i>1} e^{-x_i}. Instead of specifying the position of one of the atoms as an extra parameter in the problem, we will specify e, which determines the potential felt by the atom at x_1. We now calculate G_N(e), which is the partition integral: with the range of integration subject to the restrictions that and 0 < x_1 < ... < x_N < L. Mathematically, L e^{-x_i} e^{i< L O< x_1 < ... < x_N < L exp [ -β Σ_{i>j} e^{-(x_i - x_j)} ] , (e - e^{-x_1}) dx_1 ... dx_N. For general numbers, the solution is complex, but it is very difficult to find. (4.91) Note that G_N(e) = 0 if e 0, and (4.94) e^{-βF_N} = ( 1/N! ) ∫ G_N(e) de. 2πn^2 β 0 L and pressure. p = To get a recursion relation we will hold x_1 constant until the rest of the integrations are done. Equation (4.91) can be rewritten G_N'(e) = ∫ exp [ -β Σ' e^{-(x_i - x_j)} - β Σ_{i>j} e^{-(x_r - x_i)} ] g(e) where L' L (I : be (e ) is und e ) be = 0 e f r x < 0. To put it Eqs. (4.95) in terms of differential equations, is not a g(e) = ∫ d x exp (x) exp [ -β(ee^{x} - l) ] G_{N-1}(ee^{x} - 1). (4.93) because of the action of the b-function, Σ e^{-x_i} in the exponent of the integrand can be replaced by e - e^{-x_1}. To make the argument clearer substitute 1 x; x_i - x_1. Thus g(e) = ∫ d x e^{x} e^{-βp x} h(ee^{x} - 1) f00 g'(e) = ∫ d x e^{2x} e^{-βp x} h'(ee^{x} - 1) (4.92b) Integrate by parts: If g'(e) = -β e h(ee^{x} - 1) e^{x} e^{-βp x} - ∫ h(ee^{x} - 1)(1 - βp) e^{x} e^{-βp x} dx and substitute f00 g(e) (βp - 1) = e - β e h(e - 1) f00 g(e) (βp - 1) = e - β e e^{-β(c - l)} g(e - 1). (4.96) Equation (4.96) appears at first glance to be a differential equation, but is not, because g(e) and g(e - 1) enter into it. However, it may be that the only restriction necessary is that the function ψ(q) or o/(w) remain finite everywhere. We can now, in principle, get a functional relationship between r_x and p. For another form, substitute g(e) e^{-βc2/2} f(e) g'(e) = -β e e^{-βc2/2} f(e) + e^{-βc2/2} f'(e). Then Eq. (4.96) becomes ef'(e) - β e^{2} f(e) - r_x (βp - l) f(e) - r_x e^{β/2} f(e - 1). We can use the Laplace transformation o/(q) too e^{-q c} f(e) de to obtain an equation in o/(q). Thus: too - ∫ foo e^{-q c} e f'(e) de - e^{-q c} f'(e) de dq 0 = - d [q o/(q)] dq and Therefore d! dq [q o/(q)] + β d! dq^2 o/(q) + r_x (βp - l) o/(q) r_x e^{β/2} e^{-q} o/(q). Substituting we eliminate the first derivative term: -IN// (q) [ - d! - r_x e^{β/2} e^{-q} + r_x (βp - 1) + 1-] ψ. (4.97) BRIEF DISCUSSION OF CONDENSATION For a one-dimensional gas such as the one we have just considered with repulsive forces there is no condensation. Let us consider instead the case where there are both repulsion and attraction, such as the one depicted by the potential of Fig. 4.11. At T 0° all atoms are adjacent to each other in positions corresponding to V_min in Fig. 4.11: As the temperature is increased there is a continuous transition from the "solid" to an aggregate of groups of atoms: The energy required for breaking up one group of atoms into two groups is roughly the energy required to break two atoms apart and we call it θ. The probability of such a break is e^{-θ/kT}, and when the temperature is raised it happens more or less uniformly. In three dimensions one might have a group of N atoms and Fig. 4.11 A potential with attraction and repulsion. The energy required to cut across a group is N^{2/3} A, where A is roughly the value of the energy required for taking one atom away from the group. Thus, the probability for splitting up the group is e^{-N^{2/3} θ/kT}. The larger N is, the higher T is required to be for a finite probability of breaking up a large group of atoms. Thus, in the one-dimensional case, a finite energy is required for breaking up a group of atoms, a finite Finite number of groups exist, and the fraction of atoms (essentially infinite in number) in the condensed state (that is, in the largest group) is zero. In the three-dimensional case, because of the probability factor \( e^{-\sum / kT} \), a finite fraction of the total gas can exist in the condensed state at a finite temperature.
+
+For solids the difference is more subtle. In one dimension, as the temperature is raised, let the mean square error in the position of one atom relative to the ones on each side of it be \(\delta^2\). Then, over a group of \(N\) atoms, the mean square error in positions of the first and last atoms is \(N\delta^2\) from the perfect lattice. The error "propagates" (in a sense), and when temperature is increased, the solid expands monotonically. There is only one path along which information can be transmitted. In three dimensions, the position of an atom in one place influences that of a distant atom much more strongly than in one dimension-there are many paths connecting the two along which forces are being transmitted. Thus to melt a solid \(T\) must become high enough that the thermal energy can overcome these "multipath" forces.
+
+## ORDER-DISORDER THEORY
+
+## INTRODUCTION
+
+We will now consider a new class of statistical-mechanical problems, problems that do not involve motions of atoms but instead involve their positions in the perfect lattice. More precisely, we will consider alloys made up of two types of atoms. For instance, in the cubic lattice shown in Fig. 5.1, there will be some preferred arrangement for the manner in which the lattice sites are occupied by type A and type B atoms. Let us take the case of zero temperature. Essentially, two types of lattice arrangements are possible, one of which is depicted in the figure, and they can be understood from a physical point of view as follows. Let \(V_{AB}\) be the interaction potential between unlike atoms and \(V_{AA}\), \(V_{BB}\) the potential between the like atoms. If \(V_{AB} > (V_{AA} + V_{BB})/2\), then A atoms prefer to be near A atoms and likewise for the B atoms. The solid would tend to exist in two distinct parts-one of A atoms only, and one of B atoms only. If \(V_{AB} < (V_{AA} + V_{BB})/2\), the A and B atoms would tend to alternate in position throughout the solid. If the solid is heated, then gradually A and B atoms will exchange positions in a random way until, at the Curie temperature, the order "melts"; at still higher temperatures, disorder sets in. It is of interest to compute the partition function for such a system:
+
+\[ \sum_{\text{arrangements of atoms}} \exp \left( -\beta \sum_{(i,j)\text{ bonds}} V_{ij} \right).
+
+\]
+
+But when we sum quantities over all possible arrangements of atoms, the restriction that \(N_A - N_B\) be constant may cause difficulties. To relax this restriction, we put in the usual "chemical potential." In other words, we change the problem (but not the results of the solution of the problem) by saying that \(N_A - N_B\) can vary. Associated with variation of \(N_A - N_B\) is a proportionate amount of chemical potential, which has the effect of making a certain ratio \(N_A/N_B\) the most probable. In such a case, we cannot ignore bonds between atoms.
+
+Define: \[ \mu_i = \begin{cases} +1 & \text{for A atom} \\ -1 & \text{for B atom} \end{cases} \]
+
+\(N_A, N_B\) = number of A, B atoms, respectively.
+
+Thus, \[ \mu_i \mu_j = \begin{cases} +1 & \text{if AA pair} \\ +1 & \text{if BB pair} \\ -1 & \text{if AB pair} \end{cases} \]
+
+and \(\mu_i + \mu_j = 2(N_A - N_B)\).
+
+Considering nearest-neighbor interactions only and the total \(N_A + N_B\) as constant, we will write the interaction energy in the form \[ V_{ij} = a \mu_i \mu_j + b(\mu_i + \mu_j) + c.
+
+\]
+
+Then, \[ V_{AA} = a + b + c, \\ V_{BB} = a - b + c, \\ V_{AB} = -a + c, \]
+
+and \((V_{AA} + V_{BB})/2 = a + c = V_{AB} + 2a\).
+
+Thus, the exponential in the partition-function equation above is \[ \exp \left( -\beta \sum_{i,j} a \mu_i \mu_j \right) \exp \left( -\beta \sum_{i,j} b(\mu_i + \mu_j) \right) \exp (-\beta c).
+
+\]
+
+The last two exponentials are constants and do not contribute to the calculation at all. The middle exponential, \( \sum_{i,j} b(\mu_i + \mu_j) \), is a sum of terms of the type \(b(\mu_i + \mu_j)\). In summing over all possible arrangements, each atom contributes a sum equal to the number of bonds it makes, that is, the number of nearest neighbors it has. For a two-dimensional square lattice, each atom has four nearest neighbors, so \(\sum_{i,j} (\mu_i + 2\mu_j) = 2(N_A - N_B)\).
+
+In general, if \(N_A\) and \(N_B\) are kept constant, we can ignore \(\sum (\mu_i + \mu_j)/2\) because it does not depend on the arrangement of the atoms. The problem then is to calculate for the partition function the quantity \[ \sum_{\text{arrangements}} \exp \left( -\beta a \sum_{i,j} \mu_i \mu_j \right) = \sum_{\text{arrangements}} \exp \left( -\beta \sum_{i,j} \mu_i \mu_j \right).
+
+\]
+
+Our problem reduces to the calculation of \[ \sum \exp \left( -\beta \sum_{\text{bonds}} \mu_i \mu_j \right), \]
+
+where, in summing over possible arrangements, we still take \(N_A + N_B = N\) fixed but no longer fix \(N_A\) and \(N_B\) separately. If \(J = 0\), we are obviously solving the problem of \((N_A)(N_B)\). For practice, we will evaluate the above sum for the one-dimensional case. Then we will consider an approximate method that works for two and three dimensions, and finally we will find the sum exactly for two dimensions. The exact solution for three dimensions has not yet been found.
+
+It should be noted that the above model can be taken as a model of ferromagnetism. We interpret \(\mu_i = +1\) as spin up and \(\mu_i = -1\) as spin down, where the atoms are taken to have half-integer spin. A better model for ferromagnetism is to take the Hamiltonian \(H = -J \sum_{i,j} \mathbf{S}_i \cdot \mathbf{S}_j\), where \(\mathbf{S}_i\) is the spin operator for the \(i\)th atom. This model is not equivalent to the model with \(\mu_i\mu_j\) terms. For example, a two-atom system has \[ \mathbf{S}_1 \cdot \mathbf{S}_2 = \frac{1}{2} [(\mathbf{S}_1 + \mathbf{S}_2)^2 - \mathbf{S}_1^2 - \mathbf{S}_2^2], \]
+
+which has the value \(-3/4\) for a singlet state and \(1/4\) for a triplet state. Two atoms of spin \(\frac{1}{2}\) can combine to give a system with total spin 1 in three ways, but there is only one way in which they can combine to give spin 0. On the other hand, \(\mu_1\mu_2\) takes on its two possible values with equal a priori probability.
+
+Although the two models are different, the qualitative results might be similar. For the rest of this chapter we will discuss the model in which the energy has terms \(\mu_i\mu_j\). This is the Ising model.
+
+## ORDER-DISORDER IN ONE-DIMENSION
+
+5.2
+
+For practice, let us evaluate \[ e^{J\beta} = \sum_{\mu_i = \pm 1} \exp \left( -\beta J \sum_i \mu_i \mu_{i+1} - \beta H \sum_i \mu_i \right).
+
+\]
+
+Then an easy way of doing the problem is to define a new variable: \[ \delta_i = \begin{cases} 1 & \text{if } \mu_i = \mu_{i+1} \\ -1 & \text{if } \mu_i = -\mu_{i+1} \end{cases} \]
+
+Then \[ \sum_{i=1}^N \mu_i \mu_{i+1} = N - 2\sum_{i=1}^N \delta_i \]
+
+and \[ \mu_{i+1} = \mu_i \delta_i.
+
+\]
+
+Let \[ X_{N+1}(\mu_{N+2}) = e^{J\beta} X_N(\mu_{N+2}), \]
+
+where \[ X_N(\mu) = \sum_{\mu_1, ..., \mu_N} \exp \left( \beta J \sum_{i=1}^{N-1} \mu_i \mu_{i+1} + \beta H \sum_{i=1}^N \mu_i \right).
+
+\]
+
+Then \[ X_{N+1}(\mu_{N+2}) = \sum_{\mu_{N+1}} \exp \left( \beta J \mu_{N+1} \mu_{N+2} + \beta H \mu_{N+1} \right) X_N(\mu_{N+1}).
+
+\]
+
+The free energy for a large number of atoms should be proportional to the number of atoms; therefore \[ \frac{1}{N} \ln F = -f, \]
+
+where \(f\) is independent of \(N\) for large \(N\). The free energy is then \(F = -N f\). The recursion relation then becomes two simultaneous linear equations \[ \begin{aligned} X_{N+1}(+) &= [e^{\beta J + \beta H} X_N(+)] + [e^{-\beta J + \beta H} X_N(-)], \\ X_{N+1}(-) &= [e^{\beta J - \beta H} X_N(+)] + [e^{-\beta J - \beta H} X_N(-)], \end{aligned} \]
+
+where \(\mu = \pm 1\).
+
+If we think of \((X_N(+1), X_N(-1))\) as an eigenvector and \(e^{\beta f}\) as an eigenvalue of the above equation, then it is easy to see what to do next. To find \(e^{\beta f}\) it is necessary to solve \[ \text{det} \begin{pmatrix} e^{\beta J + \beta H} - e^{\beta f} & e^{-\beta J + \beta H} \\ e^{\beta J - \beta H} & e^{-\beta J - \beta H} - e^{\beta f} \end{pmatrix} = 0.
+
+\]
+
+The result is \[ e^{2\beta f} = e^{2\beta J} \cosh(2\beta H) + [e^{4\beta J} \sinh^2(2\beta H) + e^{-4\beta J}]^{1/2}.
+
+\]
+
+There are two solutions here; which one do we want? If we look back at the case of \(J = 0\), it is obvious that \(e^{\beta f} = 2 \cosh(\beta H) = e^{\beta H} + e^{-\beta H}\), so the general result is \[ e^{\beta f} = e^{\beta J} \cosh(\beta H) + [e^{2\beta J} \sinh^2(\beta H) + e^{-2\beta J}]^{1/2}.
+
+\]
+
+Problem: Try to get the free energy as a function of the ratio between the number of A's and the number of B's.
+
+## 5.3 APPROXIMATE METHODS FOR TWO DIMENSIONS
+
+You may have noticed that in Section 5.2, none of the equations were considered important enough to number. This is because we were not especially interested in the answers, but instead wanted to examine some possible ways of looking at problems. Perhaps you will be able to improve upon and use some of the methods described here, or maybe you will find these methods useful for solving a completely different problem. In this section we will nibble at the edges of another problem: that of order-disorder for a two-dimensional square lattice. For simplicity, let us take \(J = 0\).
+
+One approach is to find a recursion relation. To do this, find the partition function for the case where all the \(\mu\)'s in the last column are fixed. Suppose there are \(M\) columns of \(N\) particles each, and let \(X_M(\mu_1, \mu_2, \dots, \mu_N)\) be the partition function. As in the one-dimensional case, the free energy is proportional to the number of atoms. It follows that \[ e^{\beta f} X_M(\mu_1, \dots, \mu_N) = X_{M+1}(\mu_1, \dots, \mu_N) \\ \sum_{\sigma_1, \dots, \sigma_N} \exp \left\{ -\beta H[\mu_1\sigma_1 + \mu_2\sigma_2 + \dots + \mu_N\sigma_N] \right\} \\ \times \exp \left\{ -\beta H[\sigma_1\sigma_2 + \dots + \sigma_{N-1}\sigma_N] \right\} X_M(\sigma_1, \dots, \sigma_N).
+
+\]
+
+(5.1)
+
+The analogous equation in Section 5.2 required for its solution the diagonalization of a two-by-two matrix. The above equation requires the diagonalization of a \(2^N\) by \(2^N\) matrix.
+
+Given the matrix equation \(M A = \lambda A\) with \(M\) hermitian, a well-known way for finding the solution with the minimum or maximum \(\lambda\) is to try to find the extremum of \(A^* \cdot M A / A^* \cdot A\). This method might be applicable to Eq. (5.1). Let \[ X_N(\mu_1, \dots, \mu_N) = \exp \left\{ -\frac{1}{2} \beta H[\mu_1\mu_2 + \dots + \mu_{N-1}\mu_N] \right\} Z(\mu_1, \dots, \mu_N).
+
+\]
+
+Then Eq. (5.1) becomes \[ \sum_{\sigma_1, \dots, \sigma_N} \exp \left\{ -\frac{1}{2} \beta H[\mu_1\mu_2 + \dots + \mu_{N-1}\mu_N] \right\} \\ \times \exp \left\{ -\frac{1}{2} \beta H[\sigma_1\sigma_2 + \dots + \sigma_{N-1}\sigma_N] \right\} \\ \times \exp \left\{ \beta H[\mu_1\sigma_1 + \dots + \mu_N\sigma_N] \right\} Z(\sigma_1, \dots, \sigma_N).
+
+\]
+
+We made this substitution to make the kernel more symmetric.
+
+Substitution in order to get an eigenvalue equation with a symmetric real matrix, that is, a hermitian matrix. Then, to solve this equation, we must find the extremum of Λ where Λ = Σ_Z(β1, ..., βN)Z*(β1, ..., βN) exp {-tH[β1β2 + ... + βN-1βN]} / Σ |Z(β1, ..., βN)|^2.
+
+Of course, it is not likely that you will be able to get an exact extremum of Λ. But it should be possible to get an approximate one by cleverly choosing an appropriate function Z(β1, ..., βN). To be more systematic, one might choose a class of functions Zλ(β1, ..., βN) and maximize Λ with respect to λ. λ should be equal to the maximum possible value of Λ.
+
+Problem: Find as large a value of Λ as you can. In evaluating certain sums, try setting βN = β1 and BN = B1; it might simplify matters if the two-dimensional lattice were wrapped around a cylinder.
+
+We have been considering interactions such that when the temperature is absolute zero, atoms of type A and of type B alternate in the lattice. For the case of two or three dimensions, if the temperature is low enough, the crystal has long-range order. If we know what type of atoms are found at each lattice point in one region of the crystal, we know what type of atoms are likely to be found fairly far off. Note that in one dimension one wrong atom at a lattice point reverses the expected order of atoms on the other side of the defect. Thus, in two or more dimensions, we can speak of α sites and β sites, where α sites are those lattice points at which an A is more likely to be found. In one dimension we cannot do this. For the case of two dimensions, Bethe used the concept of α and β sites to describe order-disorder phenomena approximately.
+
+Bethe, H. "Statistical Theory of Superlattices," Proc. Roy. Soc., 150, 552 (1935).
+
+Following Bethe, we will work with only a few atoms of the lattice and will describe the effect of the rest of the atoms by one parameter. We will look at only those atoms pictured within the dotted line (region I) of Fig. 5.2. The relative probability of a given distribution of atoms in the entire crystal is exp(-H) (we are assuming that there are just as many A atoms as B atoms). If we consider only the five atoms in region I we have to allow for the fact that the four outer β sites are affected by region II. We do this approximately by saying that the relative probability of a given distribution of the five atoms is exp(-H'), where H' is the number of β sites in region I that have the wrong type of atom on them. The sum is only over the four bonds in region I. α can be thought of as a priori probability that a site in region I has an A atom. β is a priori probability that a site in region I has a B atom.
+
+By "a priori probability" I mean the probability that would be assumed before the thermodynamic effects of the interaction are taken into account. That is, even if there were no interactions between the atoms of region I, the interaction of the four external atoms of region I with region II would still tend to cause the β sites to be occupied by B atoms. Notice that nβ is not the total number of β sites in region I that have the wrong atom. If the site in the center has a B atom we do not multiply the relative probability by another β because region II does not interact directly with that atom. Note also that the atoms inside region I can affect each other by way of region II, so nβ is only an approximate way of describing the effect of region II.
+
+For a given value of nβ we can compute the relative probability w that the β site is occupied by an A atom. We can also compute the relative probability r that the α site is occupied by a B atom. We can also compute the relative probability of a wrong atom occupying a given site if the relative probabilities are required.
+
+The equation for w will allow us to fix w.
+
+w = [e^{-H} + s e^{H}] [e^{-H} + s e^{H}]^3.
+
+w = [e^{-H} + e^{H}]^4 for nβ = 0 (relative probability that the site in region I is occupied by a B atom, and there are nβ sites occupied by A atoms). Simplifying our equation for w, we get w = 1.
+
+There are (4)! / (n! (4-n)!) ways in which nβ sites may be occupied by A atoms. It is easy to see that if w satisfies Eq. (5.5), so does 1/w. This fact holds because nowhere in the derivation of the equation is it assumed that the atoms of A and B are distinguishable, rather than P.
+
+Then solving for s in terms of w, we find two solutions: either s = 0 or s = w^2 e^{-H(4-2nβ)}. (5.6)
+
+or else s = 1 and H is arbitrary (the latter solution is most easily seen from Eq. (5.5)).
+
+w is a relative, not an actual, probability. The actual probability that the β site has a B atom is w multiplied by the appropriate normalization factor. The minimum value of s is 0, so if H is too small (high temperature) we must take s = 1. From the definition of s, s = 1 corresponds to no difference between A and B, which is expected at high temperature.
+
+Let r be the relative probability that the α site has an A atom. The equation for r is the same as that for w, r = [e^{-H} + s e^{H}] [e^{-H} + s e^{H}]^3. Consequently the same equation (5.5) holds for r.
+
+The normalization factor is 1/(w + r); so the actual probability that the site has a B atom is w/(w + r) and the actual probability that the site has an A atom is r/(w + r). As an example of a thermodynamic calculation using the above model for order-disorder, let us calculate the energy.
+
+The expected number of A atoms in region I is (rt. P is the relative probability that the α site has an A atom, and (P - nβ) is the number of sites that have the wrong atom) E = (number of bonds) [p(-pH) + (1-p)(+pH)] = -NH(1-2p) (5.7)
+
+where N is the number of atoms.
+
+w = [e^{-H(4-2nβ)} + e^{H(4-2nβ)}] / [nβ + 1] [s e^{H}(e^{-H} + s e^{H})^3]
+
+w' = [s^nβ (e^{-H(4-2nβ)} + e^{H(4-2nβ)})] / [nβ + 1] = e^{H} [ (e^{-H} + s e^{H})^3 + s e^{-H}(e^{H} + s e^{-H})^3 ]. (5.4)
+
+Equating w and w' from Eqs. (5.2) and (5.4), we find (e^{-H} + e^{H})^4 = e^{H}(e^{-H} + e^{H})^3 + e^{-H}(e^{H} + e^{-H})^3.
+
+The probability that a given β site of region I is occupied by an A atom given that the α site has a B atom is w'. Except for the normalizing factor 1/(w + r), this is given by Eq. (5.4). The probability that a given bond between an α and a β site is an A-B bond is therefore p = [1 + s e^{H}(e^{-H} + s e^{H})^3 / ( (e^{-H} + s e^{H})^4 ) ] / (w + r) = 1/(w + r). (5.8)
+
+HI is a constant independent of temperature. Using Eqs. (5.7) and (5.8) we get C_v = aE/aT. We get the entropy from the equation S(T) - S(0) = ∫ (C_v/T) dT. (5.9)
+
+At T = ∞ we can compute the entropy exactly from its definition. Recall that S = -k Σ Pn ln Pn, where Pn is the probability of state n. There are 2^N states of our N-atom system, and each has equal probability at infinite temperature. So S = -k (2^N) (1/2^N ln(1/2^N)) = Nk ln 2. (5.10)
+
+Our approximate calculation, using Eq. (5.9) gives S = Nk(0.697) instead of Nk(0.693).
+
+## 5.4 THE ONSAGER PROBLEM
+
+Consider a two-dimensional square lattice of N atoms. Each atom is designated by +1 or -1. That is, the ith atom carries a number βi, which is +1 or -1. The energy of interaction of nearest neighbors is +Hβiβj in units of kT. A state of the system is denoted by giving the βi for each atom. The problem is to calculate the free energy of the system.
+
+The partition function Q = Σ e^{-βE} Q = Σ e^{- Σ* H βiβj} all states where Σ* and ∏* mean the sum and product on pairs of points i and j that are adjacent on the lattice. It is easy to see that if the sign of H is changed, Q remains the same. For con venience we will write and take H positive.
+
+Q = ∑ Π e^{H Σ S_i S_j} all states
+
+Since S_i S_j = ±1, e^H + e^{-H}   e^H - e^{-H} ------------- ± ----------- S_i S_j 2               2 (5.11)
+
+The Onsager problem
+
+Obviously true. So e^{H S_i S_j} = cosh H + S_i S_j sinh H = cosh H (1 + S_i S_j tanh H), (5.12)
+
+where T = tanh H. (Note that T does not represent temperature in this section.)
+
+From Eqs. (5.11) and (5.12) we find Q = ∑ Π [cosh H (1 + S_i S_j T)]. (5.13)
+
+all states
+
+Remembering that for an N atom lattice there are 2N bonds, we have Q = cosh^{2N} H ∑ Π (1 + S_i S_j T) = 2^{2N} Q' cosh^{2N} H. (5.14)
+
+all states
+
+We must now find the modified partition function Q' = ∑ Π (1 + S_i S_j T). (5.15)
+
+all states
+
+Expanding the product we use the notation Σ_l to indicate a sum over all possible sets of l different bonds. Then Q' = Σ_l T^l Σ_{<i,j,...>} S_i S_j ...
+
+all states = 1 + T Σ_{<i,j>} S_i S_j + T^2 Σ_{<i,j>,<k,l>} S_i S_j S_k S_l + ... . (5.16)
+
+Note that in each term, the S's occur in pairs corresponding to nearest neighbors, and no such pair occurs twice in the same product.
+
+Associate with each pair S_i S_j a bond connecting the i-th and j-th atoms (i and j are nearest neighbors). With each term or product of 2l S's, we associate a graph or set of l bonds. Because no pair S_i S_j appears twice in a given term, no bond appears twice in a given graph. For example, Fig. 5.3 gives the graph associated with the term (S1 S2)(S3 S4)(S5 S6)(S1 S5)(S2 S6)(S3 S7)(S4 S8)(S7 S8)(S9 S11)(S10 S14)...
+
+[Fig. 5.3 A graph or set of bonds.]
+
+The Onsager problem
+
+Order-disorder theory
+
+For Q', each term in Eq. (5.16) corresponding to a non-closed graph contributes zero. Each term in Eq. (5.16)
+
+corresponding to a closed graph has each S_i occurring to an even power (0, 2, or 4), and therefore equals simply T^l, where l is the number of bonds. Summing over all such terms gives a factor 2^{2N}, which is cancelled by the 2^{2N} on the left side of Eq. (5.16).
+
+Each closed graph of length l thus contributes a term T^l to Q'; so Q' = Σ_l g_l T^l, (5.18)
+
+where g_l is the number of closed graphs of length l that can be drawn on the lattice. Notice that g_l = 0 unless l is even, so the sign of T (and therefore the sign of H) is immaterial, as we expected.
+
+Method of Finding Transition Point
+
+We now digress for a moment to show a method (due to Kramers and Wannier) by which the transition point of the Onsager problem can be found. This method is not powerful enough to yield an analytic expression for the partition function.
+
+Consider a closed graph on the lattice. Label the midpoints of the lattice squares η_i = +1 if inside the graph and -1 if outside. (See Fig. 5.6.)
+
+Σ η_i = 0 and Σ η_i η_j = 2L, (5.17)
+
+where the second sum is over all nearest-neighbor pairs of midpoints.
+
+Consider a bond (---) between midpoints of unlike η values. Each of these bonds corresponds to a bond of the closed graph (because each --- bond cuts a --- bond).
+
+[Fig. 5.4 Example of a closed graph.]
+
+[Fig. 5.5 Example of an "Unclosed" Graph.]
+
+[Fig. 5.6 Midpoints of lattice squares labelled + inside the closed graph and - outside it.]
+
+Order-disorder theory
+
+The Onsager problem
+
+If S_i = S_j then S_i S_j = +1, and there is a contribution e^{+H}. If S_i = -S_j, then the contribution is e^{-H}. Call h(l) the number of ways that, starting from the atom (origin), we can proceed in l steps (l bonds) through the lattice and return to the origin without using the same bond twice. In h(l) we do not count separately the two or more different paths we can use to form the same polygon.
+
+Now, if in a given state there are L unlike bonds and 2N - L like bonds, its contribution to Q(H) is e^{H(2N-2L)} = e^{2NH} e^{-2LH}.
+
+so that: Q(H) = e^{2NH} Σ_L m(L) e^{-2LH} where m(L) is the number of ways by which L unlike pairs can be arranged on the lattice.
+
+But from the preceding argument, m(L) = g(L), where g(L) is defined by Eq. (5.18).
+
+We have Q' = Σ_L g(L) T^L but we need an expression for Q' that we can hope to evaluate. We will work up to such an expression by finding an approximation to Q', which we will then correct by means of a trick.
+
+Let us now define h by e^{-2h} = T = tanh H. Then: Q(h) = tanh^{-2N} H Σ g(l) T^l and we get the identity Q(H) = 2^N cosh^{2N} H tanh^N H Q(h).
+
+Q(H) = 2^N cosh^{2N} H tanh^N H Q(h).
+
+Continuation of Onsager Problem
+
+For carrying out the calculation we shall need the sum over all different polygons of the crystal. Our h(l) polygons for atom A in Fig. 5.7, say, will be counted again in the h(l) polygons of other atoms, say B in Fig. 5.7. Each polygon will occur l times. Therefore, the number of polygons per atom is h(l)/l. Let
+
+q_l = h(l)/l. (5.20)
+
+[Fig. 5.7 polygon formed by proceeding through the lattice back to the starting point, without using the same bond twice. h(l) for this polygon has length l.]
+
+A term from a closed diagram can be thought of as a product of terms made up of graphs formed by polygons. The contribution to Q' from no polygons is simply 1. The contribution from graphs consisting of one polygon is Nq_l, for the number of graphs consisting of one polygon of length l is Nh(l)/l. The contribution from graphs consisting of two polygons of lengths l and l' is (1/2) (Nq_l)(Nq_{l'}), but we must be careful about polygons that share vertices.
+
+Now, when H is large, h is small; if Q(H) has a singular point, so does Q(h). That is, if there is a transition at H_c, there is also a transition at h_c. We assume that there is only one transition or Curie point, so H_c corresponds to h_c.
+
+This can be solved to give H_c = (1/2) log(1 + √2).
+
+You might hope that we could use the identity Q(x) = 2^N cosh^{2N} x tanh^N x Q[ln tanh x]
+
+to find Q(x) for many values of x given Q(x) for one value of x. Just plug in x on the left side of Eq. (5.19) and get Q evaluated at another value, x' = ln tanh x.
+
+We can then get Q evaluated at x'' = ln tanh x'.
+
+Unfortunately, x'' ≠ x, so this method is not useful.
+
+If we continue to ignore such errors, we get Q' = 1 + Nq + (1/2!)(Nq)^2 + (1/3!)(Nq)^3 + ... = e^{Nq}. (5.21)
+
+We cannot ignore such errors. In the first-order term in Q, we obtained the forbidden graph of Fig. 5.8b.
+
+[Fig. 5.8a]
+
+[Fig. 5.8b]
+
+[Fig. 5.8c]
+
+[Fig. 5.8d]
+
+In both second and third order. In second order, there are two terms that form a diagram of type 5.8c, and both have a negative sign: that is, there are two ways of writing 5.8c as a product of 5.8a and a 5.8b type term. In third order, one of the two second-order terms is canceled by the positive product of three type (a) terms. To cancel the other second order term of type (c), we must insert (c) with a positive sign into h(l).
+
+In Eq. (5.21), we counted polygon 5.8d twice; therefore when we get a rule for what terms belong in our corrected h(l) and what their signs should be, we will have to have an excuse for not counting (d) in the corrected h(l).
+
+Now, let us look at where we stand. In evaluating h(l) we expected trouble because of the restriction to certain allowed polygons. In correcting h(l) we found that there must be other polygons with not necessarily positive contribution, and some of the allowed polygons should not be counted. The natural thing to do is assign each polygon an appropriate weight, and not ignore any polygon in the sum. Recall that formerly we did not count separately the two or more different paths we can follow when starting from an atom and forming a polygon. Now we will count all the different paths, but we will choose the weight of each path so that our corrected "q" will lead to the right value of Q' when we use Eq. (5.21).
+
+Topological Theorem
+
+Give a weight e^{iπ/4} for a left turn and for a right turn, and keep track of the left and right turns as a closed path (returning to origin) is traversed in the lattice. The topological argument of Kac and Ward is that the complex amplitude or weight for each path is the product of amplitudes for each lattice point passed: T if one continues forward; Ta if one turns counterclockwise: a e^{iπ/4}; Ta^{-1} if one turns clockwise: a^{-1} e^{-iπ/4}; o if one turns 180°.
+
+In our rule for determining the amplitude for each lattice point passed, we have neglected to say how to deal with the first step, whose amplitude depends on the last step. In what following, we will calculate the amplitude to start at the origin and arrive back at the origin from below, that is, moving upward. Thus, we will choose as our rule for the amplitude of the first step: T if one starts upward; Ta if one starts to the left; Ta^{-1} if one starts to the right; o if one starts downward.
+
+More generally, we will use the above rule for the first step and work with amplitudes for starting at the origin and arriving at any lattice point (x, y). We shall have to describe the amplitude by giving four components: U(x, y), the amplitude to arrive at (x, y) moving upward; D(x, y), the amplitude to arrive moving downward; R(x, y), the amplitude to arrive from the right; and L(x, y), the amplitude to arrive from the left. This, as mentioned before, is because the amplitude to make the next step depends on the arrival direction, and we shall have to keep track of it.
+
+Roughly, what we will do is calculate the amplitudes for arriving at (x, y) from various directions in exactly n steps, and then sum over n. Let U_n(x, y) be the amplitude to arrive at (x, y) in exactly n steps with the last step upward, and similarly for D_n, R_n, and L_n. We assume that in the zeroth step we arrive at the origin moving upward. Thus U_0(0, 0) = 1, and D_0, R_0, L_0 are zero for any point. In other words, the amplitude to arrive at the origin moving upward in zero steps is 1 and zero for any other point or any other direction of arrival. With these amplitudes for the zeroth step, we can get the amplitudes for any number of steps by recursion.
+
+We can write for the amplitude to arrive upward at (x, y) in n+1 steps in terms of amplitudes to arrive in n steps: U_{n+1}(x, y) = T U_n(x, y-1) + T a^{-1} R_n(x, y) + T a L_n(x, y).
+
+If we came to (x, y-1) going up, we have an additional amplitude factor T.
+
+If we came to (x, y-1) from the left, we need to turn counterclockwise and get a factor T a.
+
+If we came to (x, y-1) from the right, we need to turn clockwise and get a factor T a^{-1}.
+
+Similar expressions for R_{n+1}(x, y), L_{n+1}(x, y), and D_{n+1}(x, y) are easily written.
+
+Then we see that our assumption for the amplitude of the zeroth step will give, for the first step, the correct amplitudes (such as T if one starts upward). When we sum over all n, the amplitude to arrive at the origin moving upward is V(0, 0) = Σ_{n=0}^∞ U_n(0, 0).
+
+This sum includes the zeroth step, so it starts and ends at the origin.
+
+To simplify the summation over n, we define the transform of V_n(x, y): Ṽ(ξ, η) = Σ_{x=-∞}^{∞} Σ_{y=-∞}^{∞} V_n(x, y) e^{-iξx} e^{-iηy}.
+
+Then V_n(x, y) = ∫_{-π}^{π} ∫_{-π}^{π} e^{iξx} e^{iηy} Ṽ_n(ξ, η) (dξ/(2π)) (dη/(2π)).
+
+Over a lattice we could have values of ξ and η that satisfy e^{iξL} = 1 and e^{iηL'} = 1 for some integers L, L', but we will take the limit of an infinite lattice.
+
+For the vector amplitude Ṽ_n(ξ, η) = (U_n, D_n, L_n, R_n), we can write the matrix equation Ṽ_{n+1}(ξ, η) = M(ξ, η) Ṽ_n(ξ, η), where M(ξ, η) is the matrix M(ξ, η) = \[ \begin{pmatrix} 0 & 0 & T a e^{-iη} & T a^{-1} e^{-iη} \\ T a e^{iη} & 0 & T a^{-1} e^{iη} & 0 \\ T a^{-1} e^{-iξ} & T a e^{-iξ} & 0 & T e^{-iξ} \\ T a e^{iξ} & T a^{-1} e^{iξ} & T e^{iξ} & 0 \end{pmatrix} \]
+
+Ṽ_0(ξ, η) = (1, 0, 0, 0).
+
+Ṽ_1(ξ, η) = M(ξ, η) Ṽ_0(ξ, η) = M(ξ, η) (1,0,0,0)^T.
+
+Ṽ_n(ξ, η) = (M(ξ, η))^n Ṽ_0(ξ, η).
+
+Then the transform of the amplitude to arrive in any number of steps is Σ_{n=0}^∞ Ṽ_n(ξ, η) = (I - M(ξ, η))^{-1} Ṽ_0(ξ, η).
+
+The amplitude to arrive at the origin moving upward is V(0, 0) = ∫_{-π}^{π} ∫_{-π}^{π} [ (I - M(ξ, η))^{-1} ]_{11} (dξ/(2π)) (dη/(2π)).
+
+But [ (I - M)^{-1} ]_{11} can be computed using the formula for the inverse of a matrix. Alternatively, we note that the sum we want is the trace of the operator (I - M)^{-1} when projected onto the upward component at the origin. However, a more direct way is to compute the generating function.
+
+The total amplitude including all starting and ending directions is given by V_{total} = Σ_{n=0}^∞ Tr[ (M(ξ, η))^n ] evaluated appropriately. Actually, the amplitude to return to the origin (summed over all directions) is Σ_{n=0}^∞ Σ_{x,y} δ_{x,0} δ_{y,0} Tr[ something ]. We have: V_{return}(0,0) = Σ_{n=0}^∞ Tr[ (M(ξ, η))^n ] at ξ=η=0? Not exactly.
+
+Let's define the total amplitude for returning to the origin as F = Σ_{n=0}^∞ (amplitude to return to origin in n steps, summed over last direction). Then F = ∫_{-π}^{π} ∫_{-π}^{π} Σ_{n=0}^∞ Tr[ (M(ξ, η))^n ] (dξ/(2π)) (dη/(2π)).
+
+Because Tr[ M^n ] = Σ_{i} (M^n)_{ii}, which sums over all diagonal elements corresponding to all directions at a point, but we need only the return to origin. Actually, the trace in the spatial basis gives the sum over all points of the amplitude to return to that point. So for the origin specifically, we need to extract the (0,0) component in position space, which corresponds to integrating over ξ, η without extra phases. So indeed, F = ∫_{-π}^{π} ∫_{-π}^{π} Σ_{n=0}^∞ Tr[ (M(ξ, η))^n ] (dξ/(2π)) (dη/(2π))
+
+= ∫_{-π}^{π} ∫_{-π}^{π} Tr[ (I - M(ξ, η))^{-1} ] (dξ/(2π)) (dη/(2π)).
+
+But we want only the amplitude to return to the origin with the last step upward? Actually, in the Onsager problem, the partition function involves the sum over all closed paths with a specific weight that depends on the turns. The derivation by Kac and Ward leads to an expression involving the determinant of a matrix. The final result for the partition function is Q = (2 cosh 2H)^N (cosh 2H)^N Q', where Q' is given by ln Q' = \frac{1}{2} ∫_{-π}^{π} \frac{dξ}{2π} ∫_{-π}^{π} \frac{dη}{2π} ln[ (T^2 + 1)^2 - 2T(1 - T^2)(cos ξ + cos η) ], with T = tanh H.
+
+In the above, we sometimes assumed that the lattice was finite (with N points) and we sometimes assumed it was infinite (when we neglected the boundary for example). Because N was assumed to be very large, it is plausible to suppose that our inconsistency made little difference. However, let us modify the above work to make it consistent.
+
+Assume the lattice has the topology of a torus. If we pass through L points in one direction (or L' points in the perpendicular direction) we finish back where we started. Formerly, to compute the amplitude to arrive back at the origin moving upward, we took the sum Σ_{n=0}^∞ U_n(0,0). Now, we must take the sum Σ_{p=-∞}^{∞} Σ_{q=-∞}^{∞} U_{pL, qL'}(0,0), but continuing as before, we get in place of Eq. (S.29), βF/N = -ln 2 - \frac{1}{2} ∫_{-π}^{π} \frac{dξ}{2π} ∫_{-π}^{π} \frac{dη}{2π} Σ_{p,q} e^{ipLξ} e^{iqL'η} ln[ cosh^2 2H - sinh 2H (cos ξ + cos η) ].
+
+But Σ_{p} e^{ipLξ} is a periodic delta function that picks out ξ = 2π m / L, so the integral becomes a sum over discrete ξ, η. As L and L' tend to infinity, Eq. (S.30) approaches Eq. (S.29).
+
+A few comments about the form of Eq. (S.29) are in order. If we use the expression βF = -ln Σ_{states} e^{-βE}, we can verify that Eq. (S.29) is correct for high temperatures (H → 0) and low temperatures (H → ∞). Another check of Eq. (S.29) is by way of Eq. (S.19). If we consider Q as a function of y = sinh 2H instead of as a function of H, Eq. (S.19) can be written in an especially simple form.
+
+ially simple form. Because sinh 2H 2 cosh H 2 = sinh H 2 cosh H tanh H, Q(y) = 2N cosh 2N H tanhN HQ G) = sinhN 2HQ G) = yNQ G) · (S.19a)
+
+Equation (S.29) can be written - f3 N F = -In 2 - i In y - -2 1 f2l[ f2rr - d (2- n'2 d ) ll In [ y + - y 1 - (cos + cos IJ) ] • 0 0 (S.29a)
+
+from which it can be seen that Eq. (S.19a) holds.
+
+Kac made the conjecture that the solution for the three-dimensional Onsager problem (cubic lattice), is of the same form as Eq. (S.29) except that cos � cos is replaced by cos � + cos + cos ( and d� dlJ/(2n) 2 by d� dlJ + '1 '1 d(/(2n)3 . However, this conjecture is false.
+
+Instead let us conjecture that the specific linkage of the Ising lattice will not greatly affect the character of the transition point in the specific heat curve. Also, an approximation starting from the transition point should prove very valuable. If a magnetic field is added to the Onsager problem, the problem of evaluating the partition function can again be converted to a path problem. which has not been solved. The problem here is to keep track of the area encircled as well as the length of the path.
+
+We have done a lot of work just to evaluate the expression Q L exp (-H L BiBj ). = E;= ± 1 bonds One reason for going to all this trouble is that maybe you will be able to generalize the methods used, or apply them somewhere else. For example, we considered a statistical-mechanical problem for which we eventually had to evaluate a Sum over all paths leaving and returning to the origin, with an amplitude depending on the preceding step. This is essentially a Markovian walk, with each step depending only on the one previous step. A Markovian-walk problem, however. can be handled when each step depends on a specific finite number of preceding steps. In a way analogous to the method used above, Qn can be found for the case where the amplitude of a step depends on the steps preceding it. The question is: Can one find an interesting problem whose partition function is Qn?
+
+## 6.1 A SIMPLE MATHEMATICAL PROBLEM
+
+In this chapter we shall describe an operator formalism that has widespread applications in quantum mechanics, notably in dealing with harmonic oscillators and in describing many-particle systems.
+
+We begin by formulating and solving the following simple problem: Suppose an operator a satisfies (6.1) The problem is to find the eigenvalues of the Hermitian operator a+a , and to relate the eigenvectors. (Note: a+ denotes the Hermitian conjugate of a, and [A, B] is, of course, the commutator AB - BA.)
+
+We first note that, if |α⟩ is a normalized eigenvector with a+a |α⟩ = α|α⟩, (6.2) then α = ⟨α|a+a|α⟩ = ||a|α⟩||² ≥ 0. (6.3) That is, the eigenvalues are all real and nonnegative. Using the identity [AB, C] = A[B, C] + [A, C]B, we observe that [a+a, a] = [a+, a]a = -a, (6.4)
+
+[a+a, a+] = + a+[a, a+] = a+; (6.5)
+
+or, equivalently, (a+ a)a = a(a+ a - I), (6.4')
+
+(a+ a)a+ = a+(a+a I). (6.5') = +
+
+From Eq. (6.4') we have, for an eigenvector |α⟩, (a+ a)a|α⟩ = a(a+ a - I)|α⟩ = a(α - 1)|α⟩ = (α - 1)a|α⟩. (6.6) Therefore a|α⟩ is an eigenvector with eigenvalue α - 1, unless a|α⟩ = 0. Similarly a+ |α⟩ is an eigenvector with eigenvalue α + 1, unless a+ |α⟩ = 0. The norm of a|α⟩ is found from ||a|α⟩||² = ⟨α|a+a|α⟩ = α⟨α|α⟩ = α, or in general ||a|n⟩||² = n. (6.7) Similarly, ||a+ |n⟩||² = n + 1. (6.8) (Note that we could have included arbitrary phase factors in the definition of |n⟩; our convention here is to make them unity.) With this definition, the |n⟩ are orthonormal* and satisfy a+ |n⟩ = √(n + 1) |n + 1⟩ (6.13)
+
+a|n⟩ = √n |n - 1⟩ (6.14)
+
+a+a|n⟩ = n|n⟩. (6.15)
+
+Now, suppose that a†ⁿ|α⟩ ≠ 0 for all n. Then by repeated application of a, Eq. (6.6), a†ⁿ|α⟩ is an eigenvector of a+a with eigenvalue α - n. This contradicts Eq. (6.3), because α - n < 0 for sufficiently large n. Therefore we must have a†ⁿ|α⟩ = 0 but a†ⁿ⁻¹|α⟩ ≠ 0 (6.9) for some nonnegative integer n.
+
+Let |α - n⟩ = a†ⁿ|α⟩ / ||a†ⁿ|α⟩||, so that |α - n⟩ is a normalized eigenvector with eigenvalue α - n. Then from Eqs. (6.7) and (6.9), √(α - n) ||a|α - n⟩|| = 0, and therefore α = n. This shows that the eigenvalues of a+a must be nonnegative integers, and that there is a "ground state" |0⟩ such that a|0⟩ = 0. (6.10)
+
+By repeatedly applying a+ to the ground state we see that (a+)"|0⟩ has the eigenvalue n and, because of Eq. (6.8), it is never zero. Thus the eigenvalues of a+a are 0, 1, 2, 3, . . . .
+
+If |n⟩ is a normalized eigenvector with eigenvalue n, then, from Eq. (6.8), |n - 1⟩ = (1/√n)a|n⟩ is a normalized eigenvector with eigenvalue n - 1. Also a+|n⟩ = √(n + 1)|n + 1⟩. (6.12) So applying a+ to |n - 1⟩ gives us back |n⟩ (within a factor), rather than some other state with eigenvalue n.
+
+We may then construct the eigenstates of a + a as follows: First we find state |0⟩ such that so that (0|a(a+n|0⟩) (0|aⁿ⁻¹(a+)ᵐ|0⟩) = + = n ( O al n - 1 ( a + m) - 1 IO ) (6.13') a|0⟩ = o. (6.11 ) (|0⟩ may be unique; if not, we find other operators commuting with a and - a+ and classify the |0⟩'s according to their eigenvalues.) Then we define n(n - 1)" '(/1 1)(0|an-m|0⟩) = - m + and the orthonormality follows. Equations (6.11) through (6.15) form the answer to the problem posed at the beginning of this section.
+
+In subsequent applications a+a will be interpreted as the observable representing the number of particles of a certain kind, in which case a+ and a are called "creation" and "annihilation" (destruction) operators, or "emission" and "absorption" operators. Equations (6.13) and (6.14) may be alternatively expressed in terms of matrix elements: ⟨m|a+|n⟩ = √(n + 1) δ_{m,n+1}', ⟨m|a|n⟩ = √n δ_{m,n-1}' For, by (6.12) we have a+|n⟩ - 1⟩ = (1/√n)a+a|n⟩ = √n|n⟩. From Eq. (6.1) we easily obtain (6.14')
+
+## 6.2 THE LINEAR HARMONIC OSCILLATOR
+
+Our first application of the results of Section 6.1 will be to the one-dimensional harmonic oscillator, which has a Hamiltonian of the form H = - 1 p 2 + _· mw ·· 2 x 2 , (6.16) 2m 2 where x and p are the position and momentum operators for the particle and satisfy [x, p] = in. (6.17)
+
+Our task is to find the eigenvalues and eigenstates of H. Note that J(mw/n)x and (l/Jmwn)p are dimensionless. Let us define (6.18) a = √(mw/2n)x + i√(1/(2mwn))p . a+ = √(mw/2n)x - i√(1/(2mwn))p . Because x and p are Hermitian it follows that a+ = √(mw/2n)x - i √(1/(2mwn))p . (6.19) From Eq. (6.17) we obtain 6.20 ( )
+
+Expressing x and p in terms of a and a+, we have x = √(n/2mw) (a + a+ ), (6.21) w 2 p = √(mwn/2) ' (a - a+) . (6.22)
+
+We get, for the Hamiltonian, nw H = (a+a + aa+) = hw(a+a + t). (6.23) 2 Thus, the eigenstates of H are those of a+a . Now we can apply the results of Section 6.1, obtaining the eigenstates |0⟩, |1⟩, |2⟩, . . . that satisfy H|n⟩ = (n + t)nw|n⟩. (6.24) The energy levels are thus En = (n + t)hw.
+
+The eigenstates themselves are given by Eqs. (6.11) and (6.12). We can easily obtain the wave functions <Pn(x) = <x|n⟩ as follows: from Eqs. (6.18) and (6.11), a|0⟩ = 0 = J 2n (x + � m i w p) |0⟩). (6.25)
+
+Applying <x| and noticing that <x|p|<φ) = -in(d<x|<φ)/dx), we get 0 = J (x + mw n d ) <x|0⟩ (6.26) �2n �mw -dx (where x is now a number, rather than an operator.) Equation (6.26) is merely Eq. (6.11) in coordinate representation, in which it takes the form of a differential equation. Solving it, we get <x|0 ) = Ae-(mw/2 I1)x2 , where A is a c o n s t a n t . N o r m a liz a t io n r e q u ir e s t h a t so 1 = ( 0 |10 ) = f � oc; < O |x ) < x |O ) d x = /A 2/ f e-(mw/�)x2 dx � oo nn = /A/2 J , mw . mw 1/4 A = e'B (�) . nh The phase 8 of A is arbitrary, and we set it equal to zero. Then So <x|0) = ( :: ) 1/4 e-(mw/2 h)x2• (6.27)
+
+st ate We ew he a p e v t h ly u s a + f oa uc nc do t r d h e in at v e E fq u n (c 1 t io . 1 2 n) f o r t h e g r o u n d s t a t e . F o r t h e o t h e r (6.28) Since mea ) J i p = 21i <xl (x mea _ _ mea ( J Ii d 21i x - -mea -dx ) <xl, = - we have (mea) n/2 �)n x|n⟩ = .I n ! 21i (x �mea dx <x|0⟩) 1 ( m e a) 1 /4 ( m e a) n /2 ( x � � ) n e - (m ro /2 h )x 2 • 211 mea dx (6.29) .J n ! nli The matrix elements of observables between harmonic oscillator states can be found without having to express the states in coordinate representation and integrating over x. We simply express the observable in terms of the raising and lowering operators. An example of this procedure is given in the following section.*
+
+## 6.3 AN ANHARMONIC OSCILLATOR
+
+Suppose a system has the Hamiltonian p2 mea2 AX4. H = - 2m + - 2 - x2 + (6.30) liea) Assume that A is small enough that we can use first-order perturbation theory, treating h4 as a pertur ( b << a tion of the Hamiltonian (Eq. (6.16)). Then the perturbed energy levels are (6.31) where (6.32) From Eq. (6.21) we have ( 1i )2 � n A _ 2m _ ea <nl(a + a+)4|n⟩). (6.33) Problem.' Prove that * [x> = ( --; mw ;rz ) 1/ 4 exp ( 2n mw x2 ) exp [( -:2 1) ( a+ - x J 2 - m rz w - ) 2 ] [0), w a h g e e r n e e / ra (a ti + ng ) i f s u i n n c te ti r o p n r e f t o e r d ( a x s [ L n) a . n C ( a H + i ) n n t , : w P h r e o n ve / e fi x r ) s t = t h L a n t a [a n x,f n . (aF+r)o]m = t hfis'( afo+r)m.]u la, find Ep x n a p e r h p o r m.e. gs af � a a, n d ga ivt eh s u s e o n 6 1ly t ee rr mm ss , b u g iv t , t in g h aa n ko s t o n z e t h r o e r e x ap is in e c t ga a t io nn d lo v a a wlu ee r in a g e those with two a s and two a+'s: < n |( a + a + ) 4 |n ) = < n !( ) [n ) n(n - 1) + n2 + n(n + 1) = + n ( n + 1 ) + ( n + 1 ) 2 + ( n + 1 ) ( n + 2 ) 6n2 + 6n + 3, = w h e r e w e h a v e u s e d E q s . ( 6 . 1 3 ) ( 3 ) . n d ( 6 _ _ 1 4 2 n r e p e a t d ly . T 1 ) e r e f o r e 2mea.4 S Y S p o s e r E Q T E r a i s t e F H A R h a s t h a r e c a n M O N I C O e H a m ilt o o n ic a l c o o S C I n ia n r d in t e m o m e n t a : (6.34) [Qi' QJ = [P, q] = 0; (6.35)
+
+and V_{ij} = V_{ji}.
+
+To simplify the presentation a little let us make a change of scale, defining q_i' = m_i^{1/2} q_i and V_{ij}' = (m_i m_j)^{-1/2} V_{ij}.
+
+Then q_i' and p_i' are also canonical: [q_i', p_j'] = i δ_{ij}, and in terms of them the Hamiltonian is H = 1/2 Σ_i (p_i')^2 + 1/2 Σ_{i,j} V_{ij}' q_i' q_j'. (6.36)
+
+We now need to express H' in terms of dimensional oscillator operators. The first step is to go to normal coordinates q_i, with respect to which the potential is in diagonal form, and the second is expressing the coordinates and momenta in terms of raising and lowering operators.
+
+Let the coordinates q_i and q_j' be related by q_i' = Σ_j C_{ij} q_j, (6.40)
+
+or in matrix form, q' = C q. The transformation matrix C must be chosen such that the potential is symmetric, the transformation (6.40) is orthogonal, and q'^T V' q = q^T C^T V' C q = q^T D q, (6.41)
+
+where D is a diagonal matrix with positive elements D_{ij} = ω_i^2 δ_{ij}.
+
+The inverse transformation of Eq. (6.40) is then q_i = Σ_j C_{ji}^{-1} q_j'. (6.42)
+
+We further assume that the eigenvalues of V' are all positive, that is, that the matrix V' is positive definite (this ensures that q=0 is a point of stable equilibrium). Denoting these eigenvalues by ω_i^2 (ω_i > 0), we have Σ_{i,j} C_{ki} C_{lj} V_{ij}' = ω_k^2 δ_{kl}, and thus q'^T V' q = Σ_k ω_k^2 q_k^2. (6.43)
+
+Finally, we define p_i' in such a way as to preserve the canonical commutation relations: p_i' = Σ_j (C^{-1})_{ji} p_j', (6.44)
+
+[q_i', p_j'] = i δ_{ij}. (6.45)
+
+The result of our efforts is that H = 1/2 Σ_k (p_k^2 + ω_k^2 q_k^2), (6.46)
+
+which is the sum of energies of independent harmonic oscillators for each mode: a_k = (ω_k/2ħ)^{1/2} q_k + i (2ħ ω_k)^{-1/2} p_k, (6.47)
+
+a_k^† = (ω_k/2ħ)^{1/2} q_k - i (2ħ ω_k)^{-1/2} p_k, (6.48)
+
+q_k = (ħ/2ω_k)^{1/2} (a_k + a_k^†), (6.49)
+
+p_k = -i (ħ ω_k/2)^{1/2} (a_k - a_k^†). (6.50)
+
+Then, [a_k, a_l] = [a_k^†, a_l^†] = 0, (6.51)
+
+[a_k, a_l^†] = δ_{kl}. (6.52)
+
+H = Σ_k ħ ω_k (a_k^† a_k + 1/2). (6.53)
+
+The eigenstates of H are described by giving, for each k, the eigenvalue n_k of a_k^† a_k. Thus, |n_1 n_2 n_3 ...⟩ = Π_k [ (a_k^†)^{n_k} / (n_k!^{1/2}) ] |0 0 0 ...⟩, (6.55)
+
+where the ground state |0 0 0 ...⟩ is defined by a_k |0 0 0 ...⟩ = 0 for all k. (6.56)
+
+Note that the energy of the ground state is Σ_k (1/2) ħ ω_k. For a system with infinitely many degrees of freedom (which we will consider shortly), this quantity will generally be infinite. Because the zero point of energy is a matter of definition (only the difference between levels being of physical importance), it is convenient to redefine the Hamiltonian of such a system so that the ground-state energy is zero. Thus, if we let H = Σ_k ħ ω_k (a_k^† a_k + 1/2 - 1/2), (6.57)
+
+with a corresponding (but more complicated) expression in terms of the original coordinates q_i, then H = Σ_k ħ ω_k a_k^† a_k, (6.58)
+
+and H |n_1 n_2 n_3 ...⟩ = Σ_k n_k ħ ω_k |n_1 n_2 n_3 ...⟩. (6.59)
+
+## 6.5 PHONONS
+
+The states of the system considered in the preceding section can be given a simple interpretation in terms of "noninteracting phonons". Assume that the Hamiltonian is given by Eqs. (6.57) and (6.58), so that the energy of the ground state is zero. The states of the system in which there are N phonons are the states |n_1 n_2 n_3 ...⟩ such that Σ n_k = N. We say that there are n_k phonons of type k. The numbers n_k are called "occupation numbers". Note that the energy of this state is Σ n_k ħ ω_k, that is, the sum of the energies of the individual phonons, and the total energy is the sum of the energies of the phonons. In other words, the phonons are non-interacting. The states of the system of harmonic oscillators are of the form (a_1^†)^{n_1} (a_2^†)^{n_2} ... |0⟩.
+
+Since a_k^† |n_1 ... n_k ... n_n⟩ = (n_k + 1)^{1/2} |n_1 ... n_k + 1 ... n_n⟩, (6.60)
+
+a_k |n_1 ... n_k ... n_n⟩ = n_k^{1/2} |n_1 ... n_k - 1 ... n_n⟩, (6.61)
+
+we may call a_k^† and a_k creation and annihilation operators for phonons of type k. The operator for the number of phonons of type k is a_k^† a_k, and the operator for the total number of phonons is N = Σ_k a_k^† a_k. (6.62)
+
+Let the vacuum state be denoted by |0⟩, and let |k⟩ = a_k^† |0⟩ = |0, ..., 0, 1, 0, ...⟩, (6.63)
+
+where the 1 is in the k-th place. Then ⟨k|k'⟩ = ⟨0|a_k a_k'^†|0⟩ = δ_{kk'}.
+
+In general, ⟨n_1 n_2 ...|n_1' n_2' ...⟩ = δ_{n_1 n_1'} δ_{n_2 n_2'} ... . (6.64)
+
+The state |n_1, n_2, ...⟩ can be written as |n_1, n_2, ...⟩ = Π_k [ (a_k^†)^{n_k} / (n_k!^{1/2}) ] |0⟩. (6.65)
+
+Defining |k⟩ = a_k^† |0⟩, the state with n_1 of the k_1's, n_2 of the k_2's, and so on, is |n_1, n_2, ...⟩ = [ (n_1! n_2! ...)^{-1/2} ] (a_{k_1}^†)^{n_1} (a_{k_2}^†)^{n_2} ... |0⟩, (6.66)
+
+so that it is normalized to 1.
+
+When we deal with only a few phonons at a time, it is usually more convenient to use the notation |k_1, ..., k_n⟩ rather than the occupation-number description |n_1 n_2 ...⟩, especially when k can take on a continuum of values. The effects of creation and destruction operators on |k_1, ..., k_n⟩ are a_k^† |k_1, ..., k_n⟩ = |k, k_1, ..., k_n⟩, (6.67)
+
+a_k |k_1, ..., k_n⟩ = Σ_{j=1}^n δ_{k k_j} |k_1, ..., k_{j-1}, k_{j+1}, ..., k_n⟩. (6.68)
+
+Equation (6.68) comes from Eq. (6.65) and the relation a_k a_l^† = a_l^† a_k + δ_{kl}.
+
+Note that phonons act like Bose particles (insofar as we can call them particles*), since an arbitrary number of them may be in any given state (i.e., |k_1, ..., k_n⟩ exists for any number of k's). Their Bose nature is also reflected in the symmetry of the states (e.g., |k_1, k_2⟩ = |k_2, k_1⟩). In Section 6.7 we shall show how the ordinary rules for quantum-mechanically describing systems of many Bose particles lead to a set of states and operators with the same form as those obtained here, so that the interpretation of the oscillator as a system of many Bose particles is correct.
+
+We conclude this section by considering the qualitative effect of an anharmonic perturbation on the oscillator system. Suppose the perturbation has terms of the form r_{ijk} q_i q_j q_k and r_{ijkl} q_i q_j q_k q_l, with r_{ijk} etc. symmetric in the indices. In terms of creation and annihilation operators, the cubic terms are of the form a_k^† a_l^† a_m^†, a_k^† a_l^† a_m, ... , a_k a_l a_m, which always changes the number of phonons (e.g., the first term creates three new phonons). Thus, if we start with a definite number of phonons and let the Hamiltonian drive the system forward in time, we will soon start finding different numbers of particles. The quartic terms similarly change the number of particles, except for terms like a_k^† a_l^† a_m a_n which conserve the number of particles but act as a mutual interaction between them; that is, the particles are no longer independent. The description of mutual interaction will be considered in more detail later.
+
+Exercise: Verify that the number-of-phonons operator N, defined by Eq. (6.62), commutes with a product of creation and destruction operators if and only if the number of a_k^+'s equals the number of a_k's in the product.
+
+## 6.6 FIELD QUANTIZATION
+
+A notable example of a system with infinitely many degrees of freedom is a field. Examples are the amplitude of sound waves, drumhead vibrations, light, and so on. Consider a real scalar* field φ(x) whose motion† is described by the Lagrangian‡ L(φ, φ̇) = ∫ d^3x [ (1/2) φ̇(x)^2 - (1/2) ∫ d^3x' K(x - x') φ(x) φ(x') ], (6.69)
+
+where K(x - x') = K(x' - x). The classical equations of motion, found by varying φ(x), are δL / δφ(x) - ∂_t (δL / δφ̇(x)) = 0, which gives φ̈(x) + ∫ d^3x' K(x - x') φ(x') = 0. (6.70)
+
+The following procedure can be generalized for a multicomponent field by putting indices on everything.
+
+Classically φ(x) depends on t, but (as with q_i in Section 7.4) we will not show it explicitly. Besides, in the Schrödinger picture, the operator φ(x) is time-independent. We assume that the system is invariant under translations, so that K is only a function of x - x'. K can be thought of as a matrix, so that ∫ d^3x' K(x - x') φ(x') is just Σ_j K_{ij} φ_j for a discrete system. The system of harmonic oscillators discussed before can be thought of as a field if we let each x correspond to a separate oscillator.
+
+As an example, suppose that K(x - x') = -c^2 ∇^2 δ(x - x'). (6.71)
+
+Then Eq. (6.69) becomes, after a few integrations by parts, L = ∫ d^3x [ (1/2) φ̇(x)^2 - (c^2/2) (∇φ(x))^2 ], (6.72)
+
+and Eq. (6.70) becomes ∇^2 φ(x) - (1/c^2) φ̈(x) = 0, (6.73)
+
+which is the usual wave equation.
+
+coordinate of the system for each x, the conjugate of δD(x) φ(x). (6.74)
+
+δφ(x)
+
+The Hamiltonian is then H = ∫d³x D(x)π(x) - L = ∫d³x D(x)π(x) + ∫d³x ∫d³x' K(x - x')φ(x)φ(x'). (6.75)
+
+To quantize the system we let φ(x) and π(x) be Hermitian operators satisfying [φ(x), φ(x')] = [π(x), π(x')] = 0, (6.76)
+
+[φ(x), π(x')] = iδ³(x - x'), (6.77)
+
+and we assume that the Hamiltonian is given by (6.75), and that the ground-state energy is zero.
+
+Next we define the annihilation and creation operators. Because the system is translationally invariant, we expect that it might help to express the fields in "momentum" representation. Therefore we define φ(k) = ∫d³x φ(x) e^{-ik·x} (6.78)
+
+π(k) = ∫d³x π(x) e^{-ik·x}. (6.79)
+
+The inverse transformation is* φ(x) = ∫ [d³k/(2π)³] φ(k) e^{ik·x} (6.80)
+
+with a similar expression for π(x). Since φ(x) and π(x) are Hermitian, we have φ⁺(k) = φ(-k); π⁺(k) = π(-k). (6.81)
+
+From Eqs. (6.76) and (6.77) we obtain [φ(k), φ(k')] = [π(k), π(k')] = 0, (6.82)
+
+[φ(k), π(k')] = i(2π)³δ³(k - k'). (6.83)
+
+Now let ω²(k) = ∫d³x K(x) e^{-ik·x}. (6.84)
+
+From K(x) = K(-x) = K*(x) it follows that ω²(k) = ω²(k)* = ω²(-k). (6.85)
+
+Rewriting the Hamiltonian of Eq. (6.75), we get H = 1/2 ∫ [d³k/(2π)³] [π(-k)π(k) + ω²(k) φ(-k)φ(k)] (6.86)
+
+= 1/2 ∫ [d³k/(2π)³] [π⁺(k)π(k) + ω²(k) φ⁺(k)φ(k)].
+
+We assume that ω²(k) > 0, so that the Hamiltonian is positive definite. We next introduce the operators a(k) = 1/√2 [φ(k) √ω(k) + i π(k) / √ω(k)] , (6.87)
+
+a⁺(k) = 1/√2 [φ(-k) √ω(k) - i π(-k) / √ω(k)] , (6.88)
+
+φ(k) = 1/√2 [a(k) + a⁺(-k)] / √ω(k) , (6.89)
+
+π(k) = -i √ω(k) [a(k) - a⁺(-k)] / √2 . (6.90)
+
+The commutation relations are, from Eqs. (6.82) and (6.83), [a(k), a(k')] = [a⁺(k), a⁺(k')] = 0, (6.91)
+
+[a(k), a⁺(k')] = (2π)³δ³(k - k'). (6.92)
+
+We write H in terms of a and a⁺, making the change of variable k → -k where necessary, to obtain H = ∫ [d³k/(2π)³] ω(k) a⁺(k)a(k) (6.93)
+
+plus a correction term to make the vacuum energy zero. The corrected Hamiltonian is evidently H = ∫ [d³k/(2π)³] ω(k) a⁺(k)a(k).
+
+Note that the correction term is the infinite quantity -1/2 ∫ [d³k/(2π)³] ω(k)δ³(0).
+
+Finally, we express the original field variables in terms of the creation and annihilation operators, using Eqs. (6.80), (6.89), and (6.90): φ(x) = ∫ [d³k/(2π)³] 1/√[2ω(k)] [a(k) e^{ik·x} + a⁺(k) e^{-ik·x}] (6.94)
+
+π(x) = ∫ [d³k/(2π)³] -i √[ω(k)/2] [a(k) e^{ik·x} - a⁺(k) e^{-ik·x}]. (6.95)
+
+Equations (6.91) through (6.95) are the important results of the quantization procedure. The commutation relation of Eq. (6.92) may appear strange, in that [a(k), a⁺(k)] is infinite (instead of unity), so that the analysis of Section 6.6 does not apply directly to a(k). Suppose, however, that we use a less singular representation. Choose a complete orthonormal set of functions ψ_a(k), where a is a discrete index: ∫ [d³k/(2π)³] ψ_a*(k) ψ_b(k) = δ_{ab}, (6.96)
+
+ψ_a(k) ψ_a*(k') = (2π)³δ³(k - k') (6.97)
+
+and define A(a) = ∫ [d³k/(2π)³] ψ_a*(k) a(k).
+
+Then [A(a), A⁺(b)] = δ_{ab}.
+
+Thus we can apply previous results and construct number states N, |a, a, ...⟩, etc. But these states may not be eigenstates of H. The states |k⟩ = a⁺(k)|0⟩, and so forth, though unnormalizable, are eigenstates of H. What kind of states do these unnormalizable states represent? The state |k⟩ is a phonon of energy ω(k), and we may also say that it has momentum ℏk. To discover the reason for this, consider the operator P = ∫ [d³k/(2π)³] ℏk a⁺(k)a(k), (6.100)
+
+which satisfies [P, a(k)] = -ℏk a(k) (6.101)
+
+so that P|k₁, k₂, ...⟩ = (ℏk₁ + ℏk₂ + ...) |k₁, k₂, ...⟩. (6.102)
+
+Now, from Eqs. (6.94) and (6.101) we obtain [P, φ(x)] = iℏ ∂/∂x φ(x). (6.103)
+
+One can then show that the number operator e^{iP·a} φ(x) e^{-iP·a} = φ(x + a). (6.104)
+
+In the preceding sections we considered the quantum states of an oscillator system as being states of various numbers of a "particle" called a phonon. We identified certain states as one-phonon states, and others as states containing more than one phonon.
+
+In this section we shall follow a different line of reasoning. We will start with a space of states describing a single particle, either Bose or Fermi, and construct the multiparticle states according to standard methods. For the Bose case we will arrive at a system of states and operators that is mathematically the same as that found previously for a system of oscillators, thereby showing that the creation and annihilation operator formalism for phonons is identical to that for identical Bose particles. In the same way, we shall also develop a formalism for dealing with Fermi particles, for which the states do not resemble those of a harmonic-oscillator system.
+
+We will treat the Bose and Fermi cases simultaneously, distinguishing them by ξ = { +1 if the particles are Bose ξ = { -1 if the particles are Fermi. (6.105)
+
+We will use the symbol ξ_P (which is a permutation) to denote ξ for the permutation P.
+
+Consider first the case of distinguishable particles. If |ψ₁⟩, |ψ₂⟩, ..., |ψₙ⟩ are one-particle states, then |ψ₁⟩ |ψ₂⟩ ... |ψₙ⟩ (6.106)
+
+describes the n-particle state with the i-th particle in state |ψᵢ⟩. If |ψᵢ⟩ = |a⟩ for all i, then we write |a, a, ..., a⟩ = |a⟩^⊗ⁿ.
+
+The inner product is ⟨ψ₁' ψ₂' ... ψₙ' | ψ₁ ψ₂ ... ψₙ⟩ = ⟨ψ₁'|ψ₁⟩ ⟨ψ₂'|ψ₂⟩ ... ⟨ψₙ'|ψₙ⟩, (6.107)
+
+which defines the inner product for distinguishable particles.
+
+Next, let us consider indistinguishable particles. We assume that the particles obey Bose or Fermi statistics, which means that we must symmetrize or anti-symmetrize, respectively, the states obtained in Eq. (6.106). We therefore define |ψ₁, ψ₂, ..., ψₙ⟩ = (1/√(n!)) Σ_P ξ_P P(|ψ₁⟩ |ψ₂⟩ ... |ψₙ⟩), (6.108)
+
+where P runs through all permutations of n objects. It will often be convenient to write |ψ₁⟩ |ψ₂⟩ ... |ψₙ⟩ for the tensor product. The space of n-particle states is that spanned by all "products" of the form of Eq. (6.108). Note that |ψ₁, ψ₂, ..., ψₙ⟩ is totally symmetric in the Bose case and totally antisymmetric in the Fermi case, as it should be.
+
+For the particle |ψ⟩ of Eq. (6.106), we have, using Eq. (6.107), ⟨φ₁' φ₂' ... φₙ' | φ₁ φ₂ ... φₙ⟩ = det(⟨φᵢ'|φⱼ⟩), (6.109)
+
+where the determinant is over i, j = 1, ..., n.
+
+The state in which the i-th particle is localized at the point xᵢ is |x₁⟩ |x₂⟩ ... |xₙ⟩. As each xᵢ runs over all space, the resulting states form a complete orthonormal set for the n-particle space (ignoring spin and other variables): ⟨x₁' x₂' ... xₙ' | x₁ x₂ ... xₙ⟩ = δ³(x₁ - x₁') δ³(x₂ - x₂') ... δ³(xₙ - xₙ'), (6.110)
+
+∫ d³x₁ ... d³xₙ |x₁ ... xₙ⟩ ⟨x₁ ... xₙ| = 1. (6.111)
+
+Using this basis we can express the n-particle states in coordinate representation: Ψ(x₁, x₂, ..., xₙ) = ⟨x₁ x₂ ... xₙ | ψ₁ ψ₂ ... ψₙ⟩ = (1/√(n!)) Σ_P ξ_P ∏ᵢ Ψᵢ(x_{P(i)}), (6.112)
+
+where Ψᵢ(x) = ⟨x|ψᵢ⟩.
+
+For the Bose case, if all ψᵢ = ψ, then Ψ(x₁, ..., xₙ) = (1/√(n!)) ∏ᵢ Ψ(xᵢ). For the Fermi case, it is the Slater determinant.
+
+Where we have permuted the factors by P.
+
+Comparing this result with the well-known formula for vectors in 3-space, d'·(x·h)'(c x d) = ha·c ha'·d.
+
+(6.117)
+
+which is the desired result.
+
+We have constructed, for each n, a Hilbert space that describes a system of n particles; thus we have an infinite sequence of spaces. In many processes the number of particles is not constant: particles can be created and destroyed. To describe such processes we need a Hilbert space that contains states of varying numbers of particles. To get such a space we simply combine all the n-particle spaces into one big space that we may call the multiparticle space. A general state in the multiparticle space is of the form Ψ = Σ_n Ψ^(n), where Ψ^(n) is an n-particle state.
+
+Now let {|α₁⟩, |α₂⟩, ...} be a complete orthonormal set of states: we define states of different numbers of particles to be orthogonal to each other, so that if |Φ⟩ is another multiparticle state and is expressed in the manner of Eq. (6.117), then ⟨Φ|Ψ⟩ = Σ_n ⟨Φ^(n)|Ψ^(n)⟩.
+
+If {|α⟩} is a complete orthonormal set of one-particle states, we may take |α₁, ..., αₙ⟩ for bosons, |α₁, ..., αₙ⟩ (α₁ < ... < αₙ) for fermions, where nₐ is the number of times that α occurs in the sequence α₁, ..., αₙ (for Fermi particles, nₐ = 0 or 1).
+
+For either case the completeness relation can be written in the following convenient form: 1 = Σ_{n=0}^∞ 1/(n!) ∫ dα₁ ... dαₙ |α₁, ..., αₙ⟩⟨α₁, ..., αₙ|. (6.116)
+
+Here the range of each αᵢ is unrestricted, duplication of states being taken care of by the 1/n! and the normalization. In the Fermi case, the terms with degenerate αᵢ are, of course, zero. The 1 on the right-hand side of Eq. (6.116) means the unit operator on the space of (properly symmetrized) n-particle states.
+
+Equation (6.116) can be verified by applying the left side to a state |β₁, ..., βₘ⟩ and using Eqs. (6.113) and (6.114).
+
+The case n = 0 may require some explanation. The zero-particle states are tensors of rank zero, that is, scalars (complex numbers). They form a one-dimensional space, all of whose elements are proportional to the number 1. The "state" 1 will be denoted by |vac⟩ (or sometimes by |0⟩) and called the "vacuum state." The zero-particle states are thus spanned by the state |vac⟩. From Eq. (6.116) we also have the completeness relation 1 = |vac⟩⟨vac| + Σ_{n=1}^∞ 1/(n!) ∫ dα₁ ... dαₙ |α₁, ..., αₙ⟩⟨α₁, ..., αₙ|. (6.120)
+
+In this equation "1" means the unit operator on the whole multiparticle space.
+
+As an example, suppose we describe the states in coordinate representation. The (unnormalizable) state |x₁, ..., xₙ⟩ describes the situation in which there is one particle each at points x₁, ..., xₙ. Then Eqs. (6.119) and (6.120) become ⟨x₁, ..., xₙ|β₁, ..., βₘ⟩ = δₙₘ δ(x₁ - β₁) ... δ(xₙ - βₙ), (6.121)
+
+and δ(x₁ - x₁') ... δ(xₙ - xₙ') = ... (6.122)
+
+We may expand an arbitrary multiparticle state |Ψ⟩ as follows, using Eq. (6.122): |Ψ⟩ = Σ_{n=0}^∞ ∫ d³x₁ ... d³xₙ |x₁, ..., xₙ⟩ ψ^(n)(x₁, ..., xₙ), (6.123)
+
+where ψ^(n)(x₁, ..., xₙ) = ⟨x₁, ..., xₙ|Ψ⟩. (6.124)
+
+Here ψ^(n)(x₁, ..., xₙ) is (if |Ψ⟩ is normalized) the amplitude for the state |Ψ⟩ to have n particles, one at each xᵢ. Note that ψ^(n)(x₁, ..., xₙ) is symmetric or antisymmetric according to the statistics. Note also that if |Ψ⟩ is an n-particle state and is of the form |Ψ⟩ = A [Ψ₁ ... Ψₙ] = (1/√n!) Σ_{k=1}^{n!} (±1)^P P[Ψ₁(x₁) ... Ψₙ(xₙ)], (6.125)
+
+where each |Ψᵢ⟩ is a one-particle state, then ψ^(n)(x₁, ..., xₙ) = (1/√n!) det|Ψⱼ(xᵢ)|. Equation (6.125) follows from Eqs. (6.124) and (6.113). In the Fermi case the determinant is called the "Slater determinant."
+
+Thus the destruction operator removes the states |Ψᵢ⟩, one at a time, leaving a sum of (n - 1)-particle states. In the Bose case (ε = 1) the terms all have a + sign, whereas in the Fermi case (ε = -1) they alternate in sign.
+
+We are now ready to define creation and destruction operators. These operators are fundamental for two reasons; first, we constructed the multiparticle states so that we could describe changing numbers of particles, and we need some operators that can effect this change, and second, other operators, such as the total energy, will turn out to be simply expressible in terms of the creation and destruction operators.
+
+Let |φ⟩ be any one-particle state. We define a⁺(φ) to be that linear operator which satisfies a⁺(φ)|Ψ₁, ..., Ψₙ⟩ = √(n+1) |φ, Ψ₁, ..., Ψₙ⟩, (6.126)
+
+for any n-particle state |Ψ₁, ..., Ψₙ⟩. For n = 0 this is understood to mean a⁺(φ)|vac⟩ = |φ⟩. The operator a⁺(φ) is the creation operator for the state |φ⟩. A creation operator clearly converts an n-particle state into an (n + 1)-particle state. It is easily seen that a destruction operator turns an n-particle state into an (n - 1)-particle state and annihilates the vacuum state. To find the effect of a(φ) on an n-particle state |Ψ₁, ..., Ψₙ⟩ we multiply on the left by an arbitrary (n - 1)-particle state ⟨χ₁, ..., χₙ₋₁| and use Eq. (6.126): ⟨χ₁, ..., χₙ₋₁|a(φ)|Ψ₁, ..., Ψₙ⟩ = ⟨a⁺(χ₁, ..., χₙ₋₁)χ₁, ..., χₙ₋₁|Ψ₁, ..., Ψₙ⟩ = (1/√n) [⟨φ|Ψ₁⟩⟨χ₂, ..., χₙ₋₁|Ψ₂, ..., Ψₙ⟩ - ⟨φ|Ψ₂⟩⟨χ₁, χ₃, ..., χₙ₋₁|Ψ₁, Ψ₃, ..., Ψₙ⟩ + ...]. (6.127)
+
+Hence, a(φ)|Ψ₁, ..., Ψₙ⟩ = (1/√n) Σ_{k=1}^{n} (±1)^{k-1} ⟨φ|Ψₖ⟩ |Ψ₁, ..., (no Ψₖ), ..., Ψₙ⟩. (6.128)
+
+Now we consider the commutation relations between creation and destruction operators. Using Eq. (6.126) and (6.128), we find a⁺(φ₁)a⁺(φ₂)|Ψ₁, ..., Ψₙ⟩ = √(n+1) a⁺(φ₁)|φ₂, Ψ₁, ..., Ψₙ⟩ = √(n+1)√(n+2) |φ₁, φ₂, Ψ₁, ..., Ψₙ⟩.
+
+Since a⁺(φ₂)a⁺(φ₁) gives the same result (the order of |φ₁⟩ and |φ₂⟩ doesn't matter in the symmetrized/antisymmetrized product), we have [a⁺(φ₁), a⁺(φ₂)]_{\mp} = a⁺(φ₁)a⁺(φ₂) ∓ a⁺(φ₂)a⁺(φ₁) = 0, (6.129)
+
+where the upper sign is for Bose particles and the lower for Fermi particles.
+
+Similarly, we can compute [a(φ₁), a(φ₂)]_{\mp} = 0. (6.130)
+
+Finally, we compute the commutator of a creation and a destruction operator. First, a(φ₁)a⁺(φ₂)|Ψ₁, ..., Ψₙ⟩ = a(φ₁)√(n+1)|φ₂, Ψ₁, ..., Ψₙ⟩ = √(n+1) [ ⟨φ₁|φ₂⟩ |Ψ₁, ..., Ψₙ⟩ + Σ_{k=1}^{n} (±1)^{k} ⟨φ₁|Ψₖ⟩ |φ₂, Ψ₁, ..., (no Ψₖ), ..., Ψₙ⟩ ].
+
+Next, a⁺(φ₂)a(φ₁)|Ψ₁, ..., Ψₙ⟩ = a⁺(φ₂) (1/√n) Σ_{k=1}^{n} (±1)^{k-1} ⟨φ₁|Ψₖ⟩ |Ψ₁, ..., (no Ψₖ), ..., Ψₙ⟩ = (1/√n) Σ_{k=1}^{n} (±1)^{k-1} ⟨φ₁|Ψₖ⟩ √n |φ₂, Ψ₁, ..., (no Ψₖ), ..., Ψₙ⟩ = Σ_{k=1}^{n} (±1)^{k-1} ⟨φ₁|Ψₖ⟩ |φ₂, Ψ₁, ..., (no Ψₖ), ..., Ψₙ⟩.
+
+Multiplying Eq. (6.130) by √(n+1) and subtracting it from Eq. (6.129) we see that a(φ₁)a⁺(φ₂) - (±1) a⁺(φ₂)a(φ₁) = ⟨φ₁|φ₂⟩. (6.131)
+
+Thus we have the fundamental (anti)commutation relations: [a(φ₁), a(φ₂)]_{\mp} = 0, (6.132)
+
+[a⁺(φ₁), a⁺(φ₂)]_{\mp} = 0, (6.133)
+
+[a(φ₁), a⁺(φ₂)]_{\mp} = ⟨φ₁|φ₂⟩. (6.134)
+
+The relations we have derived are usually stated in terms of an orthonormal basis, and we shall now do that. Let {|α⟩} = {|1⟩, |2⟩, ...} be a complete orthonormal set of one-particle states. It is usual to let aₐ = a(α). Then, since ⟨αᵢ|αⱼ⟩ = δᵢⱼ, we have [aᵢ, aⱼ†]_{\mp} = δᵢⱼ. We consider the Bose and Fermi cases separately.
+
+Bose Case Let |n₁, n₂, ...⟩ = |1, 1, ... (n₁ times), 2, 2, ... (n₂ times), ...⟩, (6.135)
+
+where nᵢ is the number of times i appears in the ket on the right. Then the states |n₁, n₂, ...⟩ (each nᵢ = 0, 1, 2, 3, ...) form an orthonormal basis for the whole multiparticle space. From Eqs. (6.133), (6.126), and (6.127) we find aₐ⁺|... nₐ ...⟩ = √(nₐ + 1) |... nₐ + 1 ...⟩, (6.136)
+
+aₐ|... nₐ ...⟩ = √nₐ |... nₐ - 1 ...⟩. (6.137)
+
+The commutation relations are aₐaᵦ⁺ - aᵦ⁺aₐ = δₐᵦ, (6.138)
+
+aₐaᵦ - aᵦaₐ = 0, (6.139)
+
+aₐ⁺aᵦ⁺ - aᵦ⁺aₐ⁺ = 0. (6.140)
+
+Equations (6.136), (6.137), and (6.138) are identical to Eqs. (6.60), (6.61), and (6.51) for raising and lowering operators for a system of harmonic oscillators. The operator for the number of particles in the state |α⟩ is nₐ = aₐ⁺aₐ.
+
+Fermi Case Using the notation |α₁, α₂, ...⟩, we have aₐ⁺|α₁, ..., αₙ⟩ = |α, α₁, ..., αₙ⟩ if α ≠ α₁, ..., αₙ, = 0 if α = αᵢ for some i, (6.141)
+
+aₐ|α₁, ..., αₙ⟩ = Σ_{i=1}^{n} (-1)^{i-1} δₐαᵢ |α₁, ..., αᵢ₋₁, αᵢ₊₁, ..., αₙ⟩. (6.142)
+
+We could also use the occupation-number notation |n₁, n₂, ...⟩, where each nᵢ = 0 or 1. If nₐ = 0, then aₐ⁺ changes it to 1, whereas aₐ annihilates the state. If nₐ = 1, then aₐ⁺ changes it to 0, whereas aₐ annihilates the state. There is a strict limit: no more than one particle can be in any given state. Note that a(φ)² = a⁺(φ)² = 0 for any one-particle state |φ⟩. This statement follows from Eqs. (6.129) and (6.130) (with φ₁ = φ₂ = φ), and is also equivalent to the fact that two fermions can not be in the same state, that is, |φ, φ⟩ = 0.
+
+One could also derive Eqs. (6.141) and (6.142) directly from the anticommutation relations aₐaᵦ⁺ + aᵦ⁺aₐ = δₐᵦ, (6.143)
+
+aₐaᵦ + aᵦaₐ = 0, (6.144)
+
+aₐ⁺aᵦ⁺ + aᵦ⁺aₐ⁺ = 0, (6.145)
+
+as was done in previous sections for the a's of the harmonic-oscillator system. But for the Fermi case there does not appear to be any a priori reason for postulating Eq. (6.143). (Remember, for oscillators the corresponding commutation rules followed from the canonical quantization procedure.) One may rather consider Eq. (6.143) as derived from the antisymmetrization postulate for fermions.
+
+Let us return to the general case where Eqs. (6.126) through (6.132) apply. One advantage of deriving them in such a general form is that we are not tied to a particular basis of states. Suppose we use a basis of momentum eigenstates, |p⟩. Because ⟨p|p'⟩ = (2π)³δ³(p - p') we have [a(p), a†(p')]₊ = (2π)³δ³(p - p'), [a(p), a(p')]₊ = [a†(p), a†(p')]₊ = 0. (6.140)
+
+From the vacuum state we can construct the other states by a†(p₁) ... a†(pₙ) |vac⟩. (6.141)
+
+If we use a basis of position eigenstates |x⟩, then since ⟨x|x'⟩ = δ³(x - x') we have [a(x), a†(x')]₊ = δ³(x - x'), (6.142)
+
+|x₁, ..., xₙ⟩ = a†(x₁) ... a†(xₙ)|vac⟩. (6.143)
+
+If we use a basis of hydrogen-atom energy eigenstates |nlm⟩, then [a(nlm), a†(n'l'm')]₊ = δ_nn' δ_ll' δ_mm', and so on.
+
+How do the creation and destruction operators change when we make a change of basis? This question is easily answered by noting that if |x⟩ = α|ψ⟩ + β|φ⟩, (6.144)
+
+then a†(x) = αa†(ψ) + βa†(φ), a(x) = α*a(ψ) + β*a(φ), (6.145)
+
+This means that creation operators "transform" like kets, whereas destruction operators "transform" like bras (because ⟨x| = α*⟨ψ| + β*⟨φ|). Equations (6.145) are readily generalized to infinite series and integrals. For example, if we change from position to momentum representation, so that |p⟩ = ∫ d³x |x⟩⟨x|p⟩ = ∫ d³x |x⟩ e^(ip·x), (6.146)
+
+then, similarly, a†(p) = ∫ d³x a†(x) e^(ip·x), a†(x) = (2π)⁻³ ∫ d³p a†(p) e^(-ip·x). (6.147)
+
+To relate the destruction operators a(p) and a(x), simply take the Hermitian adjoint of Eq. (6.147). One proceeds in a similar way for any other change of basis.
+
+Now consider the number operator N. As we saw in Section 6.5, it is given by N = ∫ d³p a†(p) a(p). (6.157)
+
+Next, consider the momentum operator. Because P = ∫ d³x |x⟩ (−i∇) ⟨x|, (6.158)
+
+we have for the total momentum P = ∫ d³p p a†(p) a(p) / (2π)³ = ∫ d³x a†(x) (−i∇) a(x). (6.159)
+
+Finally, suppose the Hamiltonian for a single particle is H⁽¹⁾ = p²/2m + V(x), (6.160)
+
+where p is the position operator. In coordinate representation, ⟨x|H⁽¹⁾|x'⟩ = [−(1/2m)∇²δ³(x - x') + V(x)δ³(x - x')] (6.161)
+
+so that H = ∫ d³x ∫ d³x' [−(1/2m)∇²δ³(x - x') + V(x)δ³(x - x')] a†(x) a(x')
+
+= ∫ d³x a†(x) [−(1/2m)∇² + V(x)] a(x). (6.162)
+
+In momentum representation, ⟨p|H⁽¹⁾|p'⟩ = (p²/2m) (2π)³δ³(p - p') + ∫ d³x e^(-ip·x) V(x) e^(ip'·x) / (2π)³ = (p²/2m) (2π)³δ³(p - p') + V(p - p'), (6.163)
+
+where V(q) = ∫ d³x V(x) e^(-iq·x). (6.164)
+
+Therefore H = ∫ [d³p / (2π)³] ∫ [d³p' / (2π)³] [ (p²/2m) (2π)³δ³(p - p') + V(p - p') ] a†(p) a(p')
+
+= ∫ [d³p / (2π)³] (p²/2m) a†(p) a(p) + ∫ [d³p / (2π)³] ∫ [d³p' / (2π)³] V(p - p') a†(p) a(p'). (6.165)
+
+The term V(p - p') a†(p) a(p') annihilates a particle of momentum p' and recreates it with momentum p, the amplitude for this process being V(p - p').
+
+All of these expressions for H can be derived from each other using the formulas relating a†(x) and a†(p), and so on, described at the end of Section 6.7. But it is often simplest to obtain such expressions directly from the single-particle Hamiltonians, as we have done here.
+
+The density of particles (that is, number per unit volume) at the point x is given by the operator ρ(x) = a†(x) a(x) (6.168)
+
+(which corresponds to the one-particle operator |x⟩⟨x|). Thus the number-of-particles operator in Eq. (6.157) may be written as N = ∫ d³x ρ(x), and the potential-energy term in Eq. (6.162) as V = ∫ d³x V(x) ρ(x).
+
+This last equation represents the integral of the potential energy weighted by the density.
+
+So far we have described a system of independent particles, each particle being (possibly) acted on by an external potential but no two particles influencing each other. Suppose, however, that there is an additional potential V⁽²⁾(x_i, x_j) between any two particles at x_i and x_j (giving rise to a "two-body" force). We assume that V⁽²⁾(x_i, x_j) = V⁽²⁾(x_j, x_i). On two-particle states the operator is then V = ½ ∫ d³x ∫ d³y |x, y⟩ V⁽²⁾(x, y) ⟨x, y|. (6.169)
+
+as can be verified by applying it to a two-particle state |x₁, x₂⟩. We now want an operator V on the whole multiparticle space such that V |x₁, ..., xₙ⟩ = Σ_{i<j} V⁽²⁾(x_i, x_j) |x₁, ..., xₙ⟩. (6.170)
+
+Looking at Eq. (6.169) and noticing that a†(x) a†(y) creates the state |x, y⟩, whereas a(y) a(x) destroys the same state, we might guess that V = ½ ∫ d³x ∫ d³y a†(x) a†(y) V⁽²⁾(x, y) a(y) a(x). (6.171)
+
+This is in fact correct, as can be verified by applying V to |x₁, ..., xₙ⟩. Using Eq. (6.127) twice, we have a†(x) a†(y) a(y) a(x) |x₁, ..., xₙ⟩ = Σ_{i≠j} Σ_{k≠l} ... |x₁, ..., xₙ⟩, where the sum involves terms with i, j, k, l indices. Multiplying by ½ V⁽²⁾(x, y) and integrating over x and y, we find that V as given by Eq. (6.171) indeed satisfies Eq. (6.170).
+
+However, V' is not quite the same as V. To see the difference we write ρ(x) ρ(y) = a†(x) a(x) a†(y) a(y) = a†(x) a†(y) a(y) a(x) + δ³(x - y) a†(x) a(x).
+
+So ½ ∫ d³x ∫ d³y V⁽²⁾(x, y) ρ(x) ρ(y) = V + ½ ∫ d³x V⁽²⁾(x, x) ρ(x).
+
+The term V' contains an extra term, which may be interpreted as a "self-energy". It contributes even when there is only one particle present. The true mutual interaction V is zero unless there are two or more particles. We want only the mutual interaction, because any self-energy (if it exists in nature) can be included in the Hamiltonian of Eq. (6.162). Besides, for many potentials (for example, the Coulomb potential), V' is infinite and is not what we would consider to be the true energy.
+
+If we express V in momentum representation, using Eqs. (6.171) and (6.147), and assume V⁽²⁾(x, y) = V(x - y) = V(y - x), (6.174)
+
+we arrive at V = ½ ∫ [d³q / (2π)³] ∫ [d³p / (2π)³] ∫ [d³p' / (2π)³] V(q) a†(p + q) a†(p' - q) a(p) a(p'). (6.175)
+
+This is represented in Fig. 6.1.
+
+Ground state for a Fermion system
+
+For a system of non-interacting Fermions, the creation and annihilation operators satisfy the anti-commutation relations (as discussed in Section 6.6): {a(r), a†(r')}₊ = δ³(r - r'), {a(r), a(r')}₊ = {a†(r), a†(r')}₊ = 0.
+
+Then, ignoring mutual interactions, we have for the multiparticle Hamiltonian: H = ∫ [d³p / (2π)³] (p²/2m) a†(p) a(p). (6.177)
+
+Every state may be built up from the vacuum state by applying creation operators: |ψ⟩ = a†(α₁) a†(α₂) ... a†(αₙ) |vac⟩. (6.178)
+
+(Both sides vanish unless the αᵢ are all distinct.)
+
+It is often inconvenient to refer everything to the vacuum state, as in Eq. (6.178). In practice we may be considering states that differ from some "ground" state only by the presence or absence of a few particles. Suppose there are G particles present. Assume that the energy levels are ordered such that E₁ ≤ E₂ ≤ E₃ ≤ ...
+
+Then the state of lowest energy is |gnd⟩ = |1, ..., G⟩ = a†(1) ... a†(G) |vac⟩, (6.179)
+
+which we call the "ground state".
+
+All the ground state; its energy is $$ E_{\text{gnd}} = \sum_{\alpha \le G} \epsilon_{\alpha}.
+
+$$ Any other $N$-particle state will have some of the levels $1, \ldots, G$ unoccupied and so have higher levels occupied. It is convenient to use $| \text{gnd} \rangle$ as a reference and to describe the removal of a particle from $1, \ldots, G$ as the creation of a "hole." Particles in the levels $G+1, G+2, \ldots$ are still called "particles." If a state $\Psi$ is described by specifying the momenta $\{ p_{\alpha} \}$ of all the particles ($\alpha > G$) and the momenta $\{ p_{\beta} \}$ of all the holes ($\beta \le G$), we may write $$ \Psi = \prod_{\alpha > G} a_{\alpha}^{\dagger} \prod_{\beta \le G} b_{\beta}^{\dagger} | \text{gnd} \rangle. \tag{6.183} $$ The concept of holes may be formulated mathematically as follows: Define $$ b_{\beta} = a_{\beta}, \quad b_{\beta}^{\dagger} = a_{\beta}^{\dagger} \quad (\beta \le G). \tag{6.181} $$ Then the operators $a_{\alpha}^{\dagger} (\alpha > G)$ and $b_{\beta}^{\dagger} (\beta \le G)$ behave like creation operators.
+
+$$ \begin{aligned} \{ a_{\alpha}, a_{\alpha'}^{\dagger} \}_{+} &= \delta_{\alpha \alpha'}, \\ \{ b_{\beta}, b_{\beta'}^{\dagger} \}_{+} &= \delta_{\beta \beta'}, \\ \{ a_{\alpha}, b_{\beta}^{\dagger} \}_{+} &= 0.
+
+\end{aligned} \tag{6.182} $$ Thus the operators $a_{\alpha}^{\dagger} (\alpha > G)$ and $b_{\beta}^{\dagger} (\beta \le G)$ behave like creation operators.
+
+We can now express the states in the form $$ \Psi = \prod_{\alpha > G} a_{\alpha}^{\dagger} \prod_{\beta \le G} b_{\beta}^{\dagger} | \text{gnd} \rangle. \tag{6.183} $$ The Hamiltonian of Eq. (6.177) may be written in the form $$ \begin{aligned} H &= \sum_{\alpha > G} \epsilon_{\alpha} a_{\alpha}^{\dagger} a_{\alpha} + \sum_{\beta \le G} \epsilon_{\beta} b_{\beta}^{\dagger} b_{\beta} \\ &= \sum_{\alpha > G} \epsilon_{\alpha} a_{\alpha}^{\dagger} a_{\alpha} + \sum_{\beta \le G} (-\epsilon_{\beta}) b_{\beta} b_{\beta}^{\dagger} + \sum_{\beta \le G} \epsilon_{\beta} \\ &= \sum_{\alpha > G} \epsilon_{\alpha} a_{\alpha}^{\dagger} a_{\alpha} + \sum_{\beta \le G} (-\epsilon_{\beta}) b_{\beta} b_{\beta}^{\dagger} + E_{\text{gnd}}, \end{aligned} \tag{6.185} $$ so that the energy of a hole in state $\beta$ is $-\epsilon_{\beta}$. In other words, it takes an energy $-\epsilon_{\beta}$ to create the hole. The number-of-particles operator is $$ \begin{aligned} N &= \sum_{\alpha > G} a_{\alpha}^{\dagger} a_{\alpha} + \sum_{\beta \le G} (-b_{\beta}^{\dagger} b_{\beta} + 1) \\ &= \sum_{\alpha > G} a_{\alpha}^{\dagger} a_{\alpha} + \sum_{\beta \le G} b_{\beta} b_{\beta}^{\dagger}, \end{aligned} \tag{6.186} $$ and thus a hole counts as $-1$. The number of particles and holes outside the ground state, that is, the number in Eq. (6.183), is given by the operator $$ N' = \sum_{\alpha > G} a_{\alpha}^{\dagger} a_{\alpha} + \sum_{\beta \le G} b_{\beta}^{\dagger} b_{\beta}, \tag{6.187} $$ which counts a hole as $+1$ and the ground state as nothing.
+
+Suppose now that a perturbation is applied to the system in the form of an external potential $U$. The Hamiltonian for a system of independent electrons in the lattice is, from Section 6.8, $$ H_{\text{el}} = \int d^3x \, \psi^{\dagger}(x) \left[ -\frac{1}{2} \nabla^2 + V_1(x) \right] \psi(x). \tag{6.192} $$ Now, suppose we have solved this part of the problem and know the one-particle eigenstates $|\alpha\rangle$ and eigenvalues $\epsilon_{\alpha}$. Denoting $\langle x | \alpha \rangle$ by $\phi_{\alpha}(x)$ we have $$ \left[ -\frac{1}{2} \nabla^2 + V_1(x) \right] \phi_{\alpha}(x) = \epsilon_{\alpha} \phi_{\alpha}(x). \tag{6.193} $$ Then we can express the electron Hamiltonian as $$ H_{\text{el}} = \sum_{\alpha} \epsilon_{\alpha} a_{\alpha}^{\dagger} a_{\alpha}. \tag{6.194} $$ Because $$ \psi(x) = \sum_{\alpha} |\alpha\rangle \langle \alpha | x \rangle = \sum_{\alpha} \phi_{\alpha}(x) a_{\alpha}, $$ we have $$ \psi(x) = \sum_{\alpha} a_{\alpha} \phi_{\alpha}(x), \tag{6.195} $$ and similarly $$ \psi^{\dagger}(x) = \sum_{\alpha} a_{\alpha}^{\dagger} \phi_{\alpha}^{*}(x). \tag{6.196} $$ To obtain relations between the destruction operators, simply take the Hermitian adjoints of Eqs. (6.195) and (6.196).
+
+If, as in Section 6.9, we refer all states to a ground state (called the "electron sea"), which is normally filled, then in the notation of that section, $N$ is given by Eq. (6.186). In what follows we shall ignore the ground-state energy, so that the electron Hamiltonian becomes $$ H_{\text{el}} = \sum_{\alpha > G} \epsilon_{\alpha} a_{\alpha}^{\dagger} a_{\alpha} + \sum_{\beta \le G} (-\epsilon_{\beta}) b_{\beta}^{\dagger} b_{\beta}. \tag{6.198} $$ Note that, in terms of electron and hole operators, Eq. (6.195) and its adjoint become $$ \psi(x) = \sum_{\alpha > G} a_{\alpha} \phi_{\alpha}(x) + \sum_{\beta \le G} b_{\beta}^{\dagger} \phi_{\beta}(x), \tag{6.199} $$ and similarly for $\psi^{\dagger}(x)$.
+
+Consider next the lattice vibrations. For each $\mathbf{N}$ let $\mathbf{Z}_{\mathbf{N}}$ be the displacement of the corresponding nucleus from its equilibrium position $\mathbf{N}$. The $\mathbf{Z}_{\mathbf{N}}$ form a set of coordinates for a system of harmonic oscillators. The procedure for finding the normal modes and quantizing this system is similar to the field quantization of Section 6.6, except that Fourier transforms are replaced by Fourier series, with the "momentum" $\mathbf{k}$ of the phonons running over a limited region. The normal coordinates $q_{\mathbf{k},\alpha}$ are related to the $\mathbf{Z}_{\mathbf{N}}$ by equations of the following form (assuming for simplicity that $\alpha$ runs from 1 to 3 as in the case of one atom per unit cell of the crystal): $$ q_{\mathbf{k},\alpha} = \frac{1}{\sqrt{N}} \sum_{\mathbf{N}} e^{-i\mathbf{k} \cdot \mathbf{N}} \mathbf{e}_{\mathbf{k},\alpha}^{*} \cdot \mathbf{Z}_{\mathbf{N}}. \tag{6.200} $$ Here the region of integration is $\mathcal{K} = \{ \mathbf{k} \mid \mathbf{k} \cdot \mathbf{a}_i = 0, 1, 2, 3 \}$; $V$ is the volume of the unit cell; $\mathbf{N}$ runs over all lattice sites (recall that the $\mathbf{a}_i$ describe the periodicity of the lattice), and $\mathbf{e}_{\mathbf{k},\alpha}$ ($\alpha = 1, 2, 3$) form an orthonormal basis of 3-space for each $\mathbf{k}$ (in that $\mathbf{e}_{\mathbf{k},\alpha}^{*} \cdot \mathbf{e}_{\mathbf{k},\alpha'} = \delta_{\alpha\alpha'}$), chosen so that the mode $(\mathbf{k}, \alpha)$ is a normal mode. You should check the consistency of Eqs. (6.200) as an exercise. It is convenient to use the relation $$ \frac{1}{V} \int_{\mathcal{K}} d^3k \, e^{i\mathbf{k} \cdot (\mathbf{N} - \mathbf{N}')} = \delta_{\mathbf{N},\mathbf{N}'}, \tag{6.201} $$ and the easiest way to verify it is to make a change of variables $\mathbf{k} = k_i' \mathbf{a}_i'$. $\mathbf{N}$ can be written as $\mathbf{N} = n_i \mathbf{a}_i$, where $n_i$ are integers, so that $\mathbf{k} \cdot (\mathbf{N} - \mathbf{N}') = \sum_i k_i' a_i' \cdot (n_j - n_j') \mathbf{a}_j$ and the Jacobian of the transformation is $$ \left| \frac{\partial \mathbf{k}'}{\partial \mathbf{k}} \right| = 1 = \left| \frac{\partial \mathbf{k}}{\partial \mathbf{k}'} \right|.
+
+$$ Equations (6.200) are essentially a special case of Eqs. (1.28) and (1.29). The change of notation is $$ \begin{aligned} & \mathbf{e}_{\mathbf{k},\alpha} \leftrightarrow \mathbf{e}_{\alpha}(\mathbf{k}), \\ & Z_{\mathbf{N},\alpha} \leftrightarrow \phi_{\alpha}(\mathbf{x}), \end{aligned} $$ and $$ q_{\mathbf{k},\alpha} \leftrightarrow q(\mathbf{k}).
+
+$$ The normalization conventions used in Eq. (6.200) are convenient because, in the limit that the space lattice becomes a continuum (i.e., $a_i \to 0$), $\mathbf{k}$ becomes all $\mathbf{k}$ and $\mathbf{k} \cdot \mathbf{N}$ becomes $\mathbf{k} \cdot \mathbf{x}$. Thus we have obtained the normalization of Section 6.6 for a field $\phi(\mathbf{x})$, where $$ Z_{\mathbf{N},\alpha} \to \sqrt{\frac{M}{V}} \phi_{\alpha}(\mathbf{x}), $$ and $M$ is the mass of the vibrating atom, and $\omega(\mathbf{k}, \alpha)$ is the frequency of the corresponding mode. Following the procedure of Section 6.6 we have an expression for $\mathbf{Z}_{\mathbf{N}}$ in terms of creation and destruction operators: $$ \mathbf{Z}_{\mathbf{N}} = \int_{\mathcal{K}} \frac{d^3k}{(2\pi)^3} \sqrt{\frac{\hbar}{2M\omega(\mathbf{k}, \alpha)}} \sum_{\alpha} \left[ A(\mathbf{k}, \alpha) e^{i\mathbf{k} \cdot \mathbf{N}} \mathbf{e}_{\mathbf{k},\alpha} + A^{\dagger}(\mathbf{k}, \alpha) e^{-i\mathbf{k} \cdot \mathbf{N}} \mathbf{e}_{\mathbf{k},\alpha}^{*} \right], \tag{6.202} $$ where $$ [ A(\mathbf{k}, \alpha), A^{\dagger}(\mathbf{k}', \alpha') ] = (2\pi)^3 \delta(\mathbf{k} - \mathbf{k}') \delta_{\alpha\alpha'}. \tag{6.203} $$ $M$ is the mass of the vibrating atom, and $\omega(\mathbf{k}, \alpha)$ is the frequency of the corresponding mode. The Hamiltonian for the oscillator system (apart from a constant term) is $$ H_{\text{osc}} = \int_{\mathcal{K}} \frac{d^3k}{(2\pi)^3} \sum_{\alpha} \hbar \omega(\mathbf{k}, \alpha) A^{\dagger}(\mathbf{k}, \alpha) A(\mathbf{k}, \alpha). \tag{6.204} $$ (We have used $A$ for the phonon operators to avoid confusion with the electron creation and destruction operators.)
+
+Having written down Hamiltonians for the electrons and the phonons (lattice-vibration states), we now turn to the interaction between them. The potential energy of an electron in an undisturbed lattice was given by Eq. (6.191). If the nucleus at $\mathbf{N}$ is displaced by an amount $\mathbf{Z}_{\mathbf{N}}$, then the potential energy changes to $$ V_1(\mathbf{x}) \to V_1(\mathbf{x}) + \Delta V_1(\mathbf{x}) = \sum_{\mathbf{N}} V_0(\mathbf{x} - \mathbf{N} - \mathbf{Z}_{\mathbf{N}}), \tag{6.205} $$ where we have assumed that each atom in the crystal acts like a rigid body when it is displaced, so that the potential $V_0$ arising from it is simply displaced by $\mathbf{Z}_{\mathbf{N}}$. (In practice, not all the electron shells around the nucleus move by the same amount, so that the potential changes its shape as well as being displaced; however, we shall ignore this fact.) The potential $V_1(\mathbf{x})$ was already included in $H_{\text{el}}$. Writing $$ \Delta V_1(\mathbf{x}) = \sum_{\mathbf{N}} \mathbf{Z}_{\mathbf{N}} \cdot \nabla V_0(\mathbf{x} - \mathbf{N}), $$ we have for the interaction energy (that is, the extra energy of the system due to displacement of the lattice): $$ \Delta V_1(\mathbf{x}) = \sum_{\mathbf{N}} \mathbf{Z}_{\mathbf{N}} \cdot \nabla V_0(\mathbf{x} - \mathbf{N}). \tag{6.206} $$ The interaction Hamiltonian for the many-electron system is $$ H_{\text{int}} = \int d^3x \, \Delta V_1(\mathbf{x}) \psi^{\dagger}(\mathbf{x}) \psi(\mathbf{x}).
+
+$$ it creates) has the dimensions of (length)^3/2, as do the corresponding operators for other particles in momentum representation.
+
+where
+
+V_aP = ∫d^3x ψ†(x) V ψ_p(x)
+
+= - Z_N ∫d^3x ψ†(x) V V_0(x - N) ψ_p(x).
+
+(6.207)
+
+(6.208)
+
+The operator A on phonon states, because Z_N is an operator.
+
+(6.209)
+
+where
+
+h_aP(k_a) = ∫d^3x C_aP(k_a) V, ψ†(x) ψ_p(x)
+
+(6.210)
+
+(6.211)
+
+The total Hamiltonian of the system is
+
+H = H_el + H_oes + H_int.
+
+(6.212)
+
+Note: The states of our system are of the form
+
+|electrons and phonons⟩,
+
+or, if we use the hole notation,
+
+|n electrons, m holes, and p phonons⟩.
+
+The effect of a creation operator A†(k, α) on such a state may be defined as
+
+A†(k, α)|electrons, holes, ...⟩ = |k, α, electrons, holes, ...⟩,
+
+which is in turn defined to be
+
+|electrons, holes, k, α, ...⟩.
+
+The result of this definition is that all phonon operators commute with all electron (and hole) operators. (In general, it is conventional to say that the particles to anticommute; then everything is consistent if we decide to call the particles different states of the same particle, as with the proton and neutron.)
+
+If we write Eq. (6.211) in terms of electron and hole operators, we get an expression four times as long, involving terms of the form
+
+A†a†a, A†a†b†, A†ba, A†bb†,
+
+These terms represent the transition of an electron or hole from one state to another, or the creation or annihilation of an electron-hole pair. In each process a phonon is emitted or absorbed.
+
+The foregoing derivation assumed that there is only one atom per unit cell of the crystal. However, the results are similar if there are more atoms (say A) per unit cell, the only difference in the final result being that there are more phonon modes for a given k (α running from 1 to 3A). As a simplification it may turn out that some of the modes do not "couple" to the electrons, that is, they do not influence the potential felt by the electrons; these modes are to be omitted (Chapter 8), where there is only one longitudinal optical mode. Such contributions are for the polarization, H + mi A(x) (the charge of the electron being -e) in the single-particle
+
+## 6.11 PHOTON-ELECTRON INTERACTIONS
+
+Suppose we shine light on the crystal of Section 6.10. What is the Hamiltonian that refers now? To H we must add a term H_γ for the free electromagnetic field (to phonons) and a term H_ey for the interaction between electrons and phonons.
+
+For the free electromagnetic field, the classical Lagrangian density is
+
+L = ½(ε_0E^2 - c^2B^2) = ½ε_0[(-∇A)^2 + 2ε_0A + ½ε_0(∂A/∂t)^2 - A^2]
+
+= ε_0[∂A/∂t]^2 - (∇ × A)^2]
+
+(6.213)
+
+We assume also that the scalar potential is zero. We are using "rationalized units," with ε_0 = 1; thus e^2/4πε_0cℏ ≈ 1/137 and ∇ · E = ρ, ∇ × B = (1/c^2)(j + ∂E/∂t), ℏ →.
+
+The equation of motion resulting from the Lagrangian is
+
+A = c^2[∇^2A - ∇(∇ · A)] - Ä = c^2[∇^2 - (1/c^2)∂^2/∂t^2]A.
+
+(6.215)
+
+Carrying out the quantization procedure of Section 6.6, we find w(k) = ℏ|k|c, and
+
+A(x) = ∫d^3x A(x)|x⟩⟨x|,
+
+(6.216)
+
+A†(k, α).
+
+The Hamiltonian is
+
+H = ∑_r ∫d^3k ℏck C†(k, r)C(k, r)
+
+(6.218)
+
+γ = -(2πn)^{-3} ∑_r=1
+
+To find the photon-electron interaction we replace the operator P by
+
+P(x) = (P|x⟩⟨x|) - (P|x⟩⟨x|) = -iℏ[∂/∂x|x⟩⟨x| - |x⟩⟨x|∂/∂x]
+
+(6.220)
+
+Note that j(x) is the charge -e multiplied by the probability current-density operator. The expectation value in any one-electron state |ψ⟩ is
+
+⟨ψ|j(x)|ψ⟩ = -iℏ[ψ(x)∇ψ*(x) - ψ*(x)∇ψ(x)].
+
+2m
+
+By inspection of Eq. (6.220) we have, for the interaction between photons and systems of arbitrary numbers of electrons, and
+
+H_ey = ∫d^3x A(x) · j(x) = ∫d^3x A†(x)a(x),
+
+(6.222)
+
+where
+
+j(x) = -iℏ[Va†(x)a(x) - a†(x)Va(x)]
+
+(6.223)
+
+is the electromagnetic current-density operator.
+
+In Eq. (6.222), A(x) is itself an operator for each x, given by Eq. (6.216).
+
+If we use Eq. (6.216) in Eq. (6.222), and also express a†(x) in terms of a, using Eq. (6.195), we get terms involving
+
+C†(k, r)a†a, C(k, r)a†a, C(k, r)C(k', r')a†a, C(k, r)C†(k', r')a†a,
+
+and so forth, which have interpretations similar to those of the phonon-electron interaction.
+
+The electromagnetic current defined in Eq. (6.223) may be expressed in momentum representation as follows:
+
+j(x) = -e∫d^3p' ∫d^3p (p' + p)/(2m) a†(p')a(p)e^{-i(p'-p)·x/ℏ}
+
+(6.224)
+
+This expression will be useful in Section 6.12.
+
+## 6.12 FEYNMAN DIAGRAMS
+
+A diagram that represents a Hamiltonian or interaction can be quite complicated, but there is a simple way to keep track of what is going on. Each term in the Hamiltonian can be represented by a diagram; the overall process is represented by a collection of diagrams. The rules for constructing diagrams and calculating amplitudes from them are called Feynman rules.
+
+Each term. (The diagrams assume their full power in the relativistic case, with which we are not concerned here.) To show how the method works we will consider the Hamiltonian for a single, otherwise free, electron interacting with the electromagnetic field:
+
+H = H_0 + H_int
+
+(6.225)
+
+and
+
+H_int = ∫d^3x j(x) · A(x) + ∫d^3x (e^2/2m) A^2
+
+(6.226)
+
+Here we denote the photon-creation operator by A†(k, r) instead of by C†(k, r):
+
+A(x) = ∫(2πℏ)^{-3} ∫(1/√(2ε_0ck)) ε_{k,r}[A(k, r)e^{ik·x} + A†(k, r)e^{-ik·x}]
+
+(6.227)
+
+and j(x) is given by Eqs. (6.223) and (6.224). In this section, we
+
+The states under consideration are of the form
+
+|one electron and n photons⟩.
+
+(6.228)
+
+According to standard quantum-mechanical techniques, the transition amplitude M_fi for a transition from an initial state |i⟩ to a final state |f⟩ can be expressed in terms of the Hamiltonian (to second order) as follows:
+
+M_fi = (f|H_int|i) + ∑_n (f|H_int|n⟩⟨n|H_int|i)/(E_i - E_n) + O(H^3)
+
+(6.229)
+
+Cross sections and transition rates are proportional to the absolute square of the amplitude:
+
+|M_fi|^2
+
+(6.230)
+
+In practice, the states |i⟩ and |f⟩ are usually states of the form given in Eq. (6.228), that is, states of particles of definite momentum. It is therefore convenient to express H_int in terms of the A(k, r), substituting Eq. (6.227) in Eq. (6.226), and to use Eq. (6.224) for j(x).
+
+where
+
+H_1 = ∫d^3p' ∫d^3p ∫d^3k (p' + p)/(2m) (1/√(2ε_0ck)) ε_{k,r}
+
+[(2πℏ)^3δ^3(p' - p - k)a†(p')a(p)A(k, r)
+
++ (2πℏ)^3δ^3(p' + k - p)a†(p')a(p)A†(k, r)],
+
+(6.231)
+
+and
+
+H_2 = ∫d^3p' ∫d^3p ∫d^3k' ∫d^3k (e^2)/(2m) (1/√(2ε_0ck'))(1/√(2ε_0ck)) ε_{k',r'} · ε_{k,r}
+
+[(2πℏ)^3δ^3(p' - p - k' - k)a†(p')a(p)A(k', r')A(k, r)
+
++ (2πℏ)^3δ^3(p' + k' - p - k)a†(p')a(p)A†(k', r')A(k, r)
+
++ (2πℏ)^3δ^3(p' + k - p - k')a†(p')a(p)A(k', r')A†(k, r)
+
++ (2πℏ)^3δ^3(p' + k' + k - p)a†(p')a(p)A†(k', r')A†(k, r)].
+
+(6.232)
+
+Note that the total momentum is conserved.
+
+Each of the terms in Eqs. (6.231) and (6.232) is represented by a diagram in which a straight line denotes an electron and a wavy line a photon. For H_1 the diagrams are given in Fig. 6.2a and 6.2b, and the amplitude for each is
+
+(e/m) ε_{k,r} · √(2ℏck)
+
+Note that parts b and c of Fig. 6.3 represent essentially the same process. In fact, after the integrations are performed, the second and third terms of Eq. (6.232) are equal; so in any process involving such terms we need only calculate for the case shown in Fig. 6.3b, say, and multiply by 2.
+
+For H_2 the diagrams are those shown in Fig. 6.3a through 6.3d, and the amplitude for each is
+
+(e^2/2m) (1/√(2ε_0ck'))(1/√(2ε_0ck)) ε_{k',r'} · ε_{k,r}
+
+Now suppose we have a definite amplitude to calculate, for example, that for Compton scattering. The whole process is denoted by Fig. 6.4. To find the equations (6.233) and (6.234)
+
+The total amplitude for Compton scattering is
+
+M = M(a) + M(b) + M(c) + O(e^4)
+
+(6.236)
+
+In fact, if the initial electron is at rest (i.e., p_1 = 0), then M(a) and M(b) both vanish.
+
+The results we have derived are satisfactory for low photon energies (ℏω_k << m_e c^2). For high energies we would have to use a relativistic theory and also take into account the spin of the electron.
+
+Fig. 6.5 Feynman diagrams with the same ingoing and outgoing lines as Fig. 6.4. To compute the amplitude we draw all diagrams having the same ingoing and outgoing lines as that of Fig. 6.4, using those of Figs. 6.2 and 6.3. Thus we get the three cases shown in Fig. 6.5a, b, and c. Parts 6.5a and b correspond to the second-order term of Eq. (6.229), in which the intermediate state \(|n\rangle\) consists of one electron and \(H = H_1 \Theta(\varepsilon)\). (The fact that the photon lines cross in Fig. 6.5b is of no significance.) Using Eqs. (6.229) and (6.231) and removing the factor \((2\pi)^3 c \delta^3(p_z k_l - p_l - k_l)\), we get for these contributions to the amplitude \[ M(a) = \left( \frac{e k_l}{c (p_l + k_l)^2} \right) \left( \frac{e k_l}{c (p_l + k_l)^2} \right) \frac{\varepsilon_{k_l} \cdot r}{2m} \frac{\varepsilon_{k_l} \cdot r}{2m} \]
+
+(6.233)
+
+and \[ M(b) = \left( \frac{e k_l}{c (p_l - k_l)^2} \right) \left( \frac{e k_l}{c (p_l - k_l)^2} \right) \frac{\varepsilon_{k_l} \cdot r}{2m} \frac{\varepsilon_{k_l} \cdot r}{2m} \]
+
+(6.234)
+
+We may associate the two factors in the numerator with each vertex, and the denominator with the "propagation" of the intermediate electron.
+
+Figure 6.5c corresponds to the first-order terms of Eq. (6.229) in which only \(H_l\) can contribute. Remembering the factor of 2 due to the two ways in which this process occurs in Eq. (6.232), we get \[ M(c) = 2 \left( \frac{e}{c} \right)^2 \dots \]
+
+(6.235)
+
+## CHAPTER
+
+## SPIN WAVES
+
+## 7.1 SPIN-SPIN INTERACTIONS
+
+In this section we will consider interactions that give rise to a coupling between the spins of two objects of the form \[ H = A \cdot S_1 S_2 \]
+
+(7.1)
+
+In later sections we will find out what happens when such a coupling appears in a lattice full of spins.
+
+An interaction of the form of Eq. (7.1) can be due, first of all, to the magnetic interaction between two magnetic dipoles. The interaction between two magnetic dipoles \(\mu_1\) and \(\mu_2\) with separation \(r\) is \[ H = \left[ \mu_1 \cdot \mu_2 - 3 (\mu_1 \cdot \hat{r}) (\mu_2 \cdot \hat{r}) \right] \frac{1}{8\pi^3} \mu_1 \cdot \mu_2 \delta^3(r) = H' + H'' \]
+
+(7.2)
+
+where \(H'\) is the term in brackets. (The term \(H'' \delta^3(r)\) arises from a corresponding term in the magnetic field of a dipole, which appears when one evaluates \(\nabla \times (\mu \times r) / r^3\).)
+
+Suppose the two particles are orbiting around each other (as in an atom) and we consider the matrix element of \(H\) between the two states of orbital angular momentum \(|l\rangle\) and \(|l'\rangle\). As a function of the direction \(\hat{r}\), the operator \(H'\) is a combination of spherical harmonics of order 2; therefore the matrix element is zero unless \(|l - 2| \le l' \le |l + 2|\). In particular, the first-order splitting of the S-state (\(l = l' = 0\)) is zero. (This argument is just another way of saying that S states are spherically symmetric and \(H'\) averaged over all directions is zero). However, \(H''\) contributes only for S states, because only those have nonzero wave functions at \(r = 0\) (a state with angular momentum \(l\) varies as \(r^l\) near the origin). Thus, for S states we have an interaction proportional to \(\mu_1 \cdot \mu_2\), which is proportional to \(S_1 \cdot S_2\) because \[ \mu = g \frac{e}{2m} S \]
+
+(7.3)
+
+for a particle with mass \(m\), charge \(qi\), and g-factor \(gi\) (where Eq. (7.3) in fact defines \(g\)).
+
+In addition to direct magnetic interactions, there is also an indirect effect. As a first example, consider the hydrogen molecule; assume the nuclei to be fixed and identify them by their positions \(R_1\) and \(R_2\). The two electrons may be in some energy eigenfunctions for a single electron with energies \(E_a\) and \(E_b\). We can write a two-electron wave function as \(\psi = \psi_a(x_1) \psi_b(x_2)\), which has energy \(E_a + E_b\), neglecting mutual interactions between the electrons. The state \(\psi_{ba}(x_1, x_2) = \psi_b(x_1) \psi_a(x_2)\) has the same energy.
+
+If we add a mutual interaction which is spin-independent between the electrons, \(V(x_1, x_2) = V(x_2, x_1)\), then the two-electron eigenfunctions become the symmetric and antisymmetric combinations \[ \psi_S = \frac{1}{\sqrt{2}} (\psi_{ab} + \psi_{ba}), \]
+
+\[ \psi_A = \frac{1}{\sqrt{2}} (\psi_{ab} - \psi_{ba}), \]
+
+(7.5)
+
+with their respective energies \[ E_S = E_a + E_b + I - J, \]
+
+\[ E_A = E_a + E_b + I + J. \]
+
+(7.6)
+
+Here \[ I = \int \psi_a^*(x_1) \psi_b^*(x_2) V \psi_a(x_1) \psi_b(x_2) d^3x_1 d^3x_2, \]
+
+and \[ J = -\int \psi_a^*(x_1) \psi_b^*(x_2) V \psi_b(x_1) \psi_a(x_2) d^3x_1 d^3x_2. \]
+
+(7.7)
+
+As implied by the notation, \(\psi_S\) is symmetric and \(\psi_A\) is antisymmetric under exchange of \(x_1\) and \(x_2\).
+
+We have not yet reckoned with the electron spins or the exclusion principle. We must multiply our spatial wave functions by spinors that describe the possible spins of the electrons, and the total wave function must be antisymmetric under the simultaneous exchanges of coordinates and spins. Now for two spin-1/2 particles, the symmetric spin states have total spin 1 and the antisymmetric states have spin 0 (see Section 7.2). The total wave functions are then of the form \[ \psi_{S} = \psi_S \chi^{(1)}, \]
+
+\[ \psi_{A} = \psi_A \chi^{(0)}, \]
+
+(7.8)
+
+where \(\chi^{(S)}\) is any two-electron spin state with total spin \(S\). (Note that \(S\) and \(A\) still refer only to the spatial symmetry). In other words, the energy eigenstates are also eigenstates of the total electron spin. We can then write the energy in terms of the spin as follows: If \(S\) is the total spin, \(S \cdot S\) has eigenvalue \(S(S + 1) = 0\) and \(2\). The energy of a state with total spin \(S\) can be written in the form \[ E = E_a + E_b + I + \frac{J}{2} - J \mathbf{S} \cdot \mathbf{S}, \]
+
+(7.9)
+
+because it equals \(E_S\) when \(S = 0\) and \(E_A\) when \(S = 1\). Therefore we can write the mutual-interaction Hamiltonian for the system in the form \[ H = H_{\text{space}} - J \mathbf{S}_1 \cdot \mathbf{S}_2, \]
+
+(7.10)
+
+Now, \(H_{\text{space}}\) is the energy without spin interactions. Therefore \[ H = E_a + E_b + I + \frac{J}{2} - J \mathbf{S}_1 \cdot \mathbf{S}_2. \]
+
+(7.11)
+
+In other words, the splitting of the energy levels is described by \[ \Delta H = -2J \mathbf{S}_1 \cdot \mathbf{S}_2, \]
+
+(7.12)
+
+which is of the form of Eq. (7.1). We have thus taken a spin-independent interaction (e.g., a Coulomb potential) between the electrons and made it look like a spin-spin interaction. Note that the splitting is proportional to the "exchange integral" \(J\) defined in Eq. (7.7), which depends on how much the wave functions \(\psi_a(x)\) and \(\psi_b(x)\) overlap. Note also that the derivation of Eq. (7.12) depends crucially on the fact that electrons have spin 1/2; for higher spins we would get a polynomial in \(\mathbf{S}_1 \cdot \mathbf{S}_2\) if we went through a similar procedure.
+
+The interaction of Eq. (7.13), due to the exchange integral, turns out to be very strong compared to the usual magnetic-dipole interactions.
+
+## 7.2 THE PAULI SPIN ALGEBRA
+
+It is convenient and conventional to use the Pauli spin matrices when dealing with a particle of spin 1/2: \[ \sigma_x = \begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix}, \quad \sigma_y = \begin{pmatrix} 0 & -i \\ i & 0 \end{pmatrix}, \quad \sigma_z = \begin{pmatrix} 1 & 0 \\ 0 & -1 \end{pmatrix}. \]
+
+(7.14)
+
+The spin is then \[ \mathbf{S} = \frac{1}{2} \sigma. \]
+
+(7.15)
+
+The algebra of the \(\sigma\)-matrices is as follows: \[ \sigma_i \sigma_j = \delta_{ij} + i \epsilon_{ijk} \sigma_k, \]
+
+(7.16)
+
+and cyclically in \(x, y, z\); \[ [\sigma_x, \sigma_y] = 2i \sigma_z, \quad \text{etc.} \]
+
+(7.17)
+
+Alternatively one may use the following elegant form of Eq. (7.16): \[ (\sigma \cdot \mathbf{a})(\sigma \cdot \mathbf{b}) = (\mathbf{a} \cdot \mathbf{b}) + i \sigma \cdot (\mathbf{a} \times \mathbf{b}), \]
+
+(7.18)
+
+where the \(a_i\) and \(b_i\) are numbers (or other operators, provided that they commute with \(\sigma\)).
+
+Consider next a system of two spin-1/2 particles (ignoring spatial and other degrees of freedom). As a basis of states we may take \[ |\uparrow \uparrow\rangle, \; |\uparrow \downarrow\rangle, \; |\downarrow \uparrow\rangle, \; |\downarrow \downarrow\rangle, \]
+
+(7.19)
+
+where, for example, \(|\uparrow \downarrow\rangle\) is the state in which the first particle has its spin up and the second has its spin down. We then define \(\sigma_1\) to act on the first spin and \(\sigma_2\) on the second. That is, for example, \[ \sigma_{1z} |\uparrow \uparrow\rangle = |\uparrow \uparrow\rangle, \]
+
+\[ \sigma_{2y} |\uparrow \downarrow\rangle = i |\uparrow \uparrow\rangle. \]
+
+(7.20)
+
+Note that \(\sigma_{1i} \sigma_{2j} = \sigma_{2j} \sigma_{1i}\), which is to say that operators pertaining to different particles commute.
+
+We have previously considered (and will consider further in the section to follow) the operator \(\mathbf{S}_1 \cdot \mathbf{S}_2 = \frac{1}{4} \sigma_1 \cdot \sigma_2\). By explicit calculation, we find \[ \sigma_1 \cdot \sigma_2 |\uparrow \uparrow\rangle = |\uparrow \uparrow\rangle, \]
+
+\[ \sigma_1 \cdot \sigma_2 |\uparrow \downarrow\rangle = 2|\downarrow \uparrow\rangle - |\uparrow \downarrow\rangle, \]
+
+\[ \sigma_1 \cdot \sigma_2 |\downarrow \uparrow\rangle = 2|\uparrow \downarrow\rangle - |\downarrow \uparrow\rangle, \]
+
+\[ \sigma_1 \cdot \sigma_2 |\downarrow \downarrow\rangle = |\downarrow \downarrow\rangle. \]
+
+(7.21)
+
+Writing \[ |\uparrow \uparrow\rangle = \frac{1}{\sqrt{2}} (|\uparrow \uparrow\rangle + |\downarrow \downarrow\rangle) + \frac{1}{\sqrt{2}} (|\uparrow \uparrow\rangle - |\downarrow \downarrow\rangle), \]
+
+and similarly for \(|\downarrow \downarrow\rangle\), we immediately come upon the useful relation \[ \sigma_1 \cdot \sigma_2 = 2 P_{12} - 1, \]
+
+(7.22)
+
+where \(P_{12}\) is the permutation operator which interchanges the two spins: \[ P_{12} |\uparrow \uparrow\rangle = |\uparrow \uparrow\rangle, \]
+
+\[ P_{12} |\uparrow \downarrow\rangle = |\downarrow \uparrow\rangle, \]
+
+\[ P_{12} |\downarrow \uparrow\rangle = |\uparrow \downarrow\rangle, \]
+
+\[ P_{12} |\downarrow \downarrow\rangle = |\downarrow \downarrow\rangle. \]
+
+(7.23)
+
+Therefore \[ P_{12} |\chi_S\rangle = |\chi_S\rangle, \]
+
+\[ P_{12} |\chi_A\rangle = -|\chi_A\rangle, \]
+
+(7.24)
+
+and its square is \(P_{12}^2 = 1\). Therefore \[ \sigma_1 \cdot \sigma_2 |\chi_S\rangle = |\chi_S\rangle, \]
+
+\[ \sigma_1 \cdot \sigma_2 |\chi_A\rangle = -3 |\chi_A\rangle. \]
+
+(7.25)
+
+Since \(|\chi_S\rangle\) are the spin-1 states (triplet) and \(|\chi_A\rangle\) is the spin-0 state (singlet), this is equivalent to saying that \[ \mathbf{S} \cdot \mathbf{S} |\chi_S\rangle = 2 |\chi_S\rangle, \quad \mathbf{S} \cdot \mathbf{S} |\chi_A\rangle = 0, \]
+
+(7.26)
+
+where \(\mathbf{S} = \mathbf{S}_1 + \mathbf{S}_2\) is the total spin operator.
+
+## 7.3 SPIN WAVE IN A LATTICE
+
+We consider a lattice of \(N\) atoms with spin \(S\) located at positions \(R_i\). The spin-wave Hamiltonian is \[ H = -\sum_{i,j} J_{ij} \mathbf{S}_i \cdot \mathbf{S}_j. \]
+
+(7.27)
+
+It is clear that the interaction depends only on the distance \(N - N' = M\), and if in addition it is assumed that only nearest-neighbor interactions are important, \[ H = -J \sum_{\langle i,j \rangle} \mathbf{S}_i \cdot \mathbf{S}_j. \]
+
+(7.28)
+
+Occasionally next-nearest-neighbor interactions are important. They may be included by allowing \(M\) to take a few values.
+
+even more important than the nearest-neighbor ones, but such a situation can be analyzed in the same way that we use here.
+
+We now return to Eq. (7.32) and consider the one-dimensional case. The extension to three dimensions will be immediate. We also are interested in the ferromagnetic case (A < 0), and we can neglect boundary effects by considering the system to be a closed loop. Let there be N lattice points, N + 1 = 1.
+
+Thus, E = -A Σ_{n=1}^{N} (σ_n · σ_{n+1} - 1)  (7.33)
+
+where A > 0. The minus sign in front of A is included to emphasize the fact that in the case of ferromagnets, A < 0. That is, the energy is most negative when the spins are parallel. The (rare) instances when A > 0 are due to a double-exchange effect. Recall that we used |α⟩ to represent spin up and |β⟩ spin down, and we defined the spin exchange operator P_{1,2} = ½(1 + σ_1 · σ_2), satisfying P_{1,2} |αα⟩ = |αα⟩, P_{1,2} |ββ⟩ = |ββ⟩, P_{1,2} |αβ⟩ = |βα⟩, P_{1,2} |βα⟩ = |αβ⟩.
+
+Then H = -A Σ_{n=1}^{N} (2P_{n,n+1} - 1)
+
+= NA - 2A Σ_{n=1}^{N} P_{n,n+1}.  (7.35)
+
+To solve Schrödinger's equation with the above Hamiltonian, we must find the eigenstates and eigenvalues of H. To do so, notice first that Eq. (7.34) implies that H operating on a state with a fixed number of β's gives a state with the same number of β's. Since all states can be represented as linear combinations of those with a fixed number of β's, we have a method of partially diagonalizing H.
+
+Rather than trying to completely diagonalize H, let us merely find eigenstates with low energy.
+
+One suspects that the lowest state (most negative energy) occurs when all the spins are parallel. For example, |αα...α⟩ is such a state. More generally when we say all spins are parallel what we really mean is that the total spin is as large in magnitude as possible, and it can be shown that the states that satisfy this condition are completely symmetric states. The completely symmetric states are invariant under P_{n,n+1}; so P_{n,n+1} can be replaced by 1 in computing the energy of those states. Thus, we expect that E_ground = ⟨completely symmetric spin state|H|completely symmetric state⟩ = NA - 2A Σ_{n=1}^{N} 1 = -NA is the lowest-energy state. That this is the lowest energy is obvious. The eigenvalues of P_{n,n+1} are ±1; thus the minimum conceivable energy can be no lower than -NA, which occurs when P_{n,n+1} has the expectation value +1. This is consistent with Fig. 7.1.
+
+Problem: If -A > 0, what is the lowest state and what is the lowest energy?
+
+Neglecting boundary conditions as we have done is tantamount to assuming that the N lattice points are arranged in a circle, or that the N + 1 point is the first point. In other words, H' = H + NA = -2A Σ_{n=1}^{N} (P_{n,n+1} - 1).  (7.36)
+
+This means that (2πn/N) must be an integer; thus θ = 2πk/N, k = 0, 1, 2, ..., N-1.
+
+One may suspect that the next-to-lowest states has all but one spin parallel. But which one? It is clear that |ψ_1⟩ = |αβαα...α⟩, |ψ_2⟩ = |ααβα...α⟩, ...
+
+(P in nth place)  (7.37)
+
+are equivalent and that none of them can be an eigenfunction. We look for a superposition of the |ψ_n⟩. Let |ψ⟩ = Σ_{n=1}^{N} a_n |ψ_n⟩.  (7.38)
+
+To solve the equation H'|ψ⟩ = E|ψ⟩, we have H'|ψ⟩ = H' Σ_{n=1}^{N} a_n |ψ_n⟩ = Σ_{n=1}^{N} a_n [ (P_{n,n+1} - 1) + (P_{n-1,n} - 1) ] |ψ_n⟩ = Σ_{n=1}^{N} a_n [ |ψ_{n+1}⟩ + |ψ_{n-1}⟩ - 2|ψ_n⟩ ].
+
+Because the |ψ_n⟩ are orthonormal, the coefficients of |ψ_n⟩ must be equal, giving E a_n = a_{n-1} + a_{n+1} - 2 a_n,  (7.39)
+
+or a_{n-1} + a_{n+1} - (2 + E/(2A)) a_n = 0.
+
+To solve this set of equations, let a_n = e^{iθn} and substitute into Eq. (7.38). We obtain the eigenvalues (energies): E = -2A(e^{iθ} - 2 + e^{-iθ}) = 4A(1 - cos θ) = 8A sin²(θ/2).  (7.40)
+
+This function is plotted in Fig. 7.1. There is, in other words, a band of energies, the minimum energy occurring at θ = 0. If θ = 0 we have a completely symmetric state, which we have already concluded has the lowest possible energy, E = 0. The other states with small θ correspond to a slight "excitation" from the ground state, with a phase difference θ, where θ is very small. Such a state is given by |ψ⟩ = Π_{n=1}^{N} (cos(θ/2) |α⟩_n + sin(θ/2) |β⟩_n).
+
+Because θ/2 is small, cos(θ/2) ≈ 1 and sin(θ/2) ≈ η/2 << 1 (η = θ). Then |ψ⟩ ≈ |α...α⟩ + (η/2) Σ_n |α...β_n...α⟩.
+
+Neglecting terms in η² or higher powers of η, we have E = 8A sin²(θ/2) ≈ 2A θ².
+
+For J = 0, we see that the spins are out of phase. This suggests the concept of a wave, and we now rewrite to make the nature of the wave somewhat clearer.
+
+The one-dimensional integer "vector" is na, where a is the lattice spacing. We can write an as a_n = e^{iθn} = e^{ik(an)}, which describes a plane wave of wave number k. Such waves are known as "spin waves." Thus, E = 4A(1 - cos ka),  (7.42)
+
+For small ka, which means long waves, cos ka ≈ 1 - k²a²/2, and E ≈ 2Aa²k² (long wavelength).  (7.43)
+
+The extension to three dimensions gives us no trouble: The lowest state again has all spins parallel. Subtracting out the ground energy, we obtain H' = - Σ_{N,M} A_M (σ_N · σ_{N+M} - 1)
+
+and, in a manner similar to that used in the one-dimensional case, E = - Σ_M A_M (e^{iK·M} - 1).
+
+For nearest-neighbor interactions (in a cubic crystal), E = 2A{(e^{iK_x a} + e^{-iK_x a}) + (e^{iK_y a} + e^{-iK_y a}) + (e^{iK_z a} + e^{-iK_z a}) - 6} = 4A{sin²(K_x a/2) + sin²(K_y a/2) + sin²(K_z a/2)}.  (7.44)
+
+For long waves E ≈ Aa²(K_x² + K_y² + K_z²) = Aa²K²,  (7.45)
+
+where K = |K|.
+
+To find the next band of energies, we must consider the case when all spins but two are parallel. But first we will digress to discuss the semiclassical interpretation of spin waves.
+
+**7.4 SEMICLASSICAL INTERPRETATION OF SPIN WAVES**
+
+The Hamiltonian is H = - Σ_{n} (P_{n,n+1} - 1) = -A Σ_n (σ_n · σ_{n+1} - 1).  (7.46)
+
+The Heisenberg equation of motion for the nth spin is dσ_n/dt = (i/ℏ)[H, σ_n].  (7.47)
+
+We transform this using the commutation relations: [σ_n^α, σ_{n+1}^β] = 0 for n ≠ n+1, so that [σ_n · σ_{n+1}, σ_n^x] = 2i(σ_n^y σ_{n+1}^z - σ_n^z σ_{n+1}^y).  (7.49)
+
+Using Eq. (7.49) in Eq. (7.47), we can write dσ_n^x/dt = -(2A/ℏ)(2σ_n^y - σ_{n+1}^y - σ_{n-1}^y), dσ_n^y/dt = -(2A/ℏ)(2σ_n^x - σ_{n+1}^x - σ_{n-1}^x).  (7.51)
+
+This is a classical equation of motion for the vector σ_n, provided σ_n is close to 1, in which case we can approximate. We expect the vector σ_n to rotate around the z-axis, and we also expect σ_n^x ≈ c sin(ωt - kna), σ_n^y ≈ c cos(ωt - kna),  (7.52)
+
+where a is the lattice constant. When we use Eq. (7.52) we see that ℏω = 4A(1 - cos ak).  (7.53)
+
+**7.5 TWO SPIN WAVES**
+
+When two spins at positions n1 and n2 (n2 > n1) are flipped down, we define the wave function: |ψ⟩ = Σ_{n1,n2} a_{n1,n2} |...β_{n1}...β_{n2}...⟩.  (7.54)
+
+The energy is E = ⟨ψ|H'|ψ⟩.  (7.55)
+
+When Eq. (7.54) is used in Eq. (7.55) and the coefficients of a_{n1,n2} are compared, we can distinguish two cases. When n2 ≠ n1 + 1, in other words when the two down spins at n1 and n2 are nonadjacent, we have 2ε a_{n1,n2} = (a_{n1,n2} - a_{n1-1,n2}) + (a_{n1,n2} - a_{n1+1,n2})
+
++ (a_{n1,n2} - a_{n1,n2-1}) + (a_{n1,n2} - a_{n1,n2+1}).  (7.57)
+
+On the other hand, when n2 = n1 + 1 the two down spins are next to each other and Eq. (7.57) does not hold. We then have 2ε a_{n,n+1} = (a_{n,n+1} - a_{n-1,n+1}) + (a_{n,n+1} - a_{n,n+2}).  (7.58)
+
+Before solving Eqs. (7.57) and (7.58) rigorously let us derive some approximate results. Because the case n2 = n1 + 1 is only one out of N (the number of lattice points), for most of the time Eq. (7.57) holds. Therefore, the first crude approximation should correspond to two noninteracting waves: a_{n1,n2} = e^{ik1 a n1} e^{ik2 a n2}.  (7.59)
+
+When we use Eq. (7.59) in Eq. (7.57), we see that ε(k1, k2) = (1 - cos k1 a) + (1 - cos k2 a)
+
+= ε(k1) + ε(k2),  (7.60)
+
+where 4A ε(k1) is the energy for one spin wave of wave number k1.
+
+At low temperatures, only the lowest energy modes are excited; thus for one spin wave, the energy might be, and for two spin waves, ε_total = ε(k1) + ε(k2).
+
+The energy is E(T) = Σ_k n_k ε(k).  (7.63)
+
+This energy depends on T to the 5/2 power: E(T) ∝ T^{5/2}.
+
+Therefore the specific heat is proportional to the 3/2 power of T: C ∝ T^{3/2}.
+
+This result for spin waves was derived by Bloch.
+
+Although the system is made up of ideal Bose particles, Bose-Einstein condensation does not occur because the number of particles is not fixed.
+
+Problem: When there is an external magnetic field...

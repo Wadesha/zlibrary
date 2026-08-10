@@ -1,0 +1,10 @@
+{
+  "slug": "process-log",
+  "title": "PROCESS_LOG",
+  "language": "en",
+  "pipeline": "translated",
+  "source_file": "PROCESS_LOG.md",
+  "source_pdf": null,
+  "chars": 9577,
+  "has_fixed": false
+}
