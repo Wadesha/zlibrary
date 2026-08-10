@@ -4544,7 +4544,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]数学与生活 (（日）远山启著；吕砚山，李诵雪，马杰等译) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 60729,
+      "chars": 59503,
       "has_fixed": true,
       "category": "数学",
       "author": ""
@@ -4568,7 +4568,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]滕县文史资料 第1辑 (中国人民政治协商会议滕县委员会文史资料委员会) (Z-Library).md",
       "source_pdf": null,
-      "chars": 18327,
+      "chars": 17602,
       "has_fixed": false,
       "category": "历史",
       "author": ""
@@ -4724,7 +4724,7 @@
       "pipeline": "ocr_md",
       "source_file": "巩义三庄园 (中国乡土建筑丛书) (毛葛) (Z-Library).md",
       "source_pdf": null,
-      "chars": 86691,
+      "chars": 86660,
       "has_fixed": false,
       "category": "地球与环境",
       "author": ""
@@ -4880,7 +4880,7 @@
       "pipeline": "ocr_md",
       "source_file": "笔尖下的中国-钢笔画速写表现技法 (墨河 著绘) (Z-Library).md",
       "source_pdf": null,
-      "chars": 16014,
+      "chars": 15958,
       "has_fixed": false,
       "category": "建筑",
       "author": ""
