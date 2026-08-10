@@ -1,10 +1,8 @@
-The request was rejected because it was considered high risk
-
 地方精英建立了一种有相当自治性的地方体制。在这个体制中，精英，特别是乡绅，享有相当的特权。而这些乡绅，有宗族作为后盾，掌握一定的族权，因此有权威执行家法。一个宗族总是有族产祠堂、族规、族学族训等，这些东西既可以凝聚族人也可以规范他们。其实，家法是有国法做支撑的，两者相互依赖，都支持父权专制。一个国，皇帝就是家长；一个族，族长就是家长；一个家，父亲就是家长。这些人对他们属下的成员，有着惩罚之权，甚至生杀大权。从雷明远杀女的例子看，这其实就是家法和帮规的实施，但看不到宗族的影子。这和川西平原宗族不发达有关清初移民入川整个宗族的迁徙是比较困难的因此造成宗族控制的削弱。雷明远杀女的悲剧发生6年以后才被进入这个袍哥家庭的燕京大学社会学系一位21岁的女大学生沈宝媛记录下来。她来到成都西北郊区的“望镇”
 
 和雷家建立了相互信任的关系记录了所了解的这个家庭的点点滴滴并于次年4月完成一篇2万多字的社会调查《一个农村社团家庭》作为她的毕业论文。这篇调查报告共46页，外加2页的摘要。论文用燕京大学专用稿纸每页576字中缝都有“燕京大学毕业论文”的字样从中缝折叠，其实一页就有点像古书装订的甲乙两页。正文共43页，共约2.
 
-4万字。最后3页是附录，1000多字，包括六个方面的内容：一，“袍哥”与“海底”之缘起；二，“袍哥”之定义与别名；三，袍哥令集举例；四，“袍哥”对内禁条“十条三要”须为“袍哥”所遵守者；五，“袍哥”隐语举例；六，“袍哥”书籍举例。最珍贵者，是她对这个袍哥家庭的描述和日常生活细节经济状况、所面临矛盾的记录以及这个袍哥及其家庭富有传奇性的故事。# 附录部分的资料目前虽不难找到但仍然有相当的价值因为袍哥并不是有着统一领导的组织机构而是分散的、各自为政的秘密社团虽然他们都把《海底》作为组织的“圣经”
+4万字。最后3页是附录，1000多字，包括六个方面的内容：一，“袍哥”与“海底”之缘起；二，“袍哥”之定义与别名；三，袍哥令集举例；四，“袍哥”对内禁条“十条三要”须为“袍哥”所遵守者；五，“袍哥”隐语举例；六，“袍哥”书籍举例。最珍贵者，是她对这个袍哥家庭的描述和日常生活细节经济状况、所面临矛盾的记录以及这个袍哥及其家庭富有传奇性的故事。附录部分的资料目前虽不难找到但仍然有相当的价值因为袍哥并不是有着统一领导的组织机构而是分散的、各自为政的秘密社团虽然他们都把《海底》作为组织的“圣经”
 
 但内部的规章仪式和语言千差万别。从这个附录中我们可以看到与“望镇”袍哥直接相关的内部文献。如果不是她，我们将永远不会知道这个悲惨的故事就像中国历史上千千万万被遗忘的悲剧一样。沈宝媛无比悲愤地写道河水“冲走了这一对人世间的怨男怨女这一对旧礼教所淹埋的可怜虫！”这个“旧礼教”，就是传统的伦理和宗法。现代汉语中，用“可怜虫”这个词带有蔑视的意思。但我理解，沈称这个悲剧的主角是“一对旧礼教所淹埋的可怜虫”
 
@@ -12,7 +10,11 @@ The request was rejected because it was considered high risk
 
 但袍哥“对于女人的贞操又看得那么严肃”
 
-所以，“在不问青红皂白的情形之下她遂被杀死了”。而且永远都没有人能为她主持正义。雷明远杀女，似乎是要巩固他在地方的声誉，不惜把女儿作为祭品。但实际上是事与愿违，从乡下迷信的观点来看，女儿的死，应该是给他带来了霉运。后来雷家的衰败，旁人或许会说，这就是雷明远的报应。重提这个悲剧，把它揭露给今天的读者，已经是这个故事发生的70多年以后了。我们要想知道，这个悲剧为什么会发生？发生的社会土壤是什么？那么，还是让我们回到历史的现场去发现事件发生的地域社会、文化和人群并进入秘密社会袍哥的内部考察这个组织的结构信仰和家庭生活吧！# 第二章川西的乡村川西平原是中国内地人口最稠密的地区之一。不过在19世纪和20世纪这个地区很少能够找到真正自古以来便居住在这里的土著居民多是清初移民的后代。明末清初四川连年战争社会混乱，从明正德四年（1509）爆发大规模民变起社会便一直处于动荡之中。特别是明末天启二年（1622）白莲教起义，更是战乱不止。明末农民起义首领张献忠五次入川并于1644年建立大西政权之后便是持续不断的大规模战争有大西军余部抗清有残余明军抗清有三藩之乱（1673—1681）等。直至康熙二十年（1681）平定三藩之乱，才结束了半个多世纪的动荡局面。长时期的战争使上游人口丧失十分严重，以致达到清初“丁户稀若晨星”的局面。由于移民和生产的发展人口增长，地方社区开始恢复
+所以，“在不问青红皂白的情形之下她遂被杀死了”。而且永远都没有人能为她主持正义。雷明远杀女，似乎是要巩固他在地方的声誉，不惜把女儿作为祭品。但实际上是事与愿违，从乡下迷信的观点来看，女儿的死，应该是给他带来了霉运。后来雷家的衰败，旁人或许会说，这就是雷明远的报应。重提这个悲剧，把它揭露给今天的读者，已经是这个故事发生的70多年以后了。我们要想知道，这个悲剧为什么会发生？发生的社会土壤是什么？那么，还是让我们回到历史的现场去发现事件发生的地域社会、文化和人群并进入秘密社会袍哥的内部考察这个组织的结构信仰和家庭生活吧！
+
+# 第二章 川西的乡村
+
+川西平原是中国内地人口最稠密的地区之一。不过在19世纪和20世纪这个地区很少能够找到真正自古以来便居住在这里的土著居民多是清初移民的后代。明末清初四川连年战争社会混乱，从明正德四年（1509）爆发大规模民变起社会便一直处于动荡之中。特别是明末天启二年（1622）白莲教起义，更是战乱不止。明末农民起义首领张献忠五次入川并于1644年建立大西政权之后便是持续不断的大规模战争有大西军余部抗清有残余明军抗清有三藩之乱（1673—1681）等。直至康熙二十年（1681）平定三藩之乱，才结束了半个多世纪的动荡局面。长时期的战争使上游人口丧失十分严重，以致达到清初“丁户稀若晨星”的局面。由于移民和生产的发展人口增长，地方社区开始恢复
 
 “渐次招徕，人迹所至烟户递增，城镇田庐载筑载兴，鸡鸣狗吠声闻四野”。到雍正时，“蜀中元气既复，民数日增”。移入之民大多有创业精神能吃苦耐劳，大量移民定居并逐渐转化为土著构成川西社会的主体促进了川西社会经济的重建。众多移民入川致使土著被湮没在移民的茫茫大海中这在中国历史上亦属少见因而历史上有“湖广填四川”之说。其实，除两湖外，其他省的移民也为数不少。大量移民入川聚落而居，滋生繁衍，在异乡重组了他们自己的社会。四川的许多乡场，便是由移民所建，一些城镇也因移民而兴盛。客居在外，由于对本土怀有的感情以及生存竞争的需要移民们建立了自己的社会组织以维护自己的利益会馆就是其主要形式。移民普遍建有祠、庙、宫、殿之类的建筑，并供奉其尊崇的神祇或先贤。会馆是同籍人士社交活动的重要场所，起着联络感情、沟通信息的作用。成员聚会一般相当频繁，一年达几十甚至上百次，而且还有特定的全体宴会、庆祝日等。会馆的设立，起初主要目的是使远离家乡的移民能够互相帮助但后来在一些地区逐渐发展成对政治宗教、社会各方面都有相当影响的机构。各会馆首事或客长与地方官进行公务联系参与当地税捐征收保甲、消防、团防团练、重大债务清理济贫、积谷、赈济以及孤儿院养老院的管理从事慈善事业等。生活的流动性人口结构的复杂性同籍会馆的互助功能都加剧了人们与宗法关系的疏远在这种情况下社会组织的依靠远比宗族纽带更为重要。这为袍哥的发展，提供了非常便利的条件。川西平原在地理上是一个相对封闭的地区入川陆路一般取道川北的剑门入川剑门雄关成为四川的天然屏障所以李白才有“蜀道难难于上青天”的感慨写下了“一夫当关万夫莫开”这样的诗句。水路交通则依靠长江由于三峡天险行船困难，每年不知有多少木船和船夫被吞噬在波涛之中。这个地区盛产稻米米谷和土产沿长江顺流而下木船很难逆水回到上游许多船夫把船卖了徒步回川。正是交通的困难，使四川在历史上有着相当的独立性。有清一代，清政府一般任命总督兼管两个省但是只有京畿的直隶和四川的总督只负责一个省。这种独立性，也体现在那个著名的说法“天下未乱蜀先乱，天下已治蜀未治”中。辛亥革命后的四川历史，更是证明了这一点。从1916年护国战争开始滇、黔、川军便在四川进行了激烈的军事对抗
 
@@ -296,7 +298,11 @@ Hobsbawm）所指出的“被发明的传统”的一个过程。他们利用“
 
 货币地租占10%—20%；嘉道年间实物地租占60%—70%，货币地租占30%—40%。[27] 一般来讲，货币地租在经济作物区要多一些，而粮食作物区要少一些。[28] 在川西平原，水稻是最重要的农产品，故以稻谷为主要收租计算单位。应该说明的是沈宝媛上面提到的地里90%的收成归地主容易产生误导我们要注意这里所说的是“稻麦”
 
-而其他产品，特别是杂粮佃户留下的比例大得多。川西平原的纳租习惯以水稻为主，佃农所得不过是水田收获量的十分之一到十分之三如每亩产谷2石则纳租谷1石6斗即80%交租了。如果只看稻谷这个比例非常高但是小春和杂粮则全部归佃农包括蔬菜、小麦菜籽、红薯、玉米胡豆等。在华北平原，一年只能一熟而川西平原一年两熟加上土地肥沃灌溉条件好，收成有保障。所以尽管田租收取了稻谷的80%以上但是佃农仍可以靠小春作物杂粮和经营副业为生。因此，如果把小春杂粮等计算在内，佃农一般交给地主的地租为50%左右。[29] 五口之家的雷明远，佃田40亩，在当时可以衣食不愁，但也远谈不上富裕。佃农一般租地多少可以为生呢？这往往视经营能力而定；即取决于缴纳地租之后，是否还有足够剩余产品，维持再生产和最低生活水平。超过最高限量，则无力经营。当然，如果是我们前面提到的那种大佃户情况则不同，他们可以把地再转佃给其他小佃户耕种。如前所述，四川农民每人每年食与用各项开支至少需原粮730斤五口之家即需3650斤。按清前期亩产118斤算，自己要消耗约31亩的粮产。按收成的二分之一交租算，那么最少需佃60亩左右。随着生产力水平的提高，租地限量也发生了变化。清中期亩产达到151斤，最低佃田量为48亩；清末亩产达到215斤，那么最低佃田量为34亩。[30] 在一般情况下，佃农实际租地面积在最低限量之上。当然，地田有肥瘠租额有高低，气候有好坏技术有先进与落后此外还有经济作物与粮食作物之分等因此这个最低佃田量也应是上下浮动的。那些有能力经营最低限量以上土地的佃农至少能够得到自己的剩余劳动和剩余产品的一部分显然，这就为佃农的积累和经济发展提供了可能。民国时期，由于川西地区农业的过密性发展亩产已经没有多大的发展空间因此总体亩产量和清末相比没有大的增长。对雷明远来说，地里所产，必须精打细算，方能有所积蓄。但是他的袍哥身份使他无法节省开销。后面我们将看到他所面临的深刻危机。雷家的这种身份，也挑战了过去我们对农村阶级划分的认识。土改时期共产党对农村的阶级划分，包括地主、富农、中农、贫农、自由雇工。一般佃农都是划归贫农。但是，雷家应该算什么身份呢？农村阶级划分前三项，都是指土地占有者，这显然不适合于雷明远。他也不属于后两项，虽然他没有田产，但是却雇有长工和短工，俨然和地主富农一个档次。其实，他更像一个小农场经营者，他的收益是靠经营，而不是靠田产。[31] 如果他经营得当，则收益足够养家，甚至还可以资助一帮袍哥小兄弟。反之，则可能面临破产。后面我们将看到，雷明远最后也是由于经营不善，而面临破产的命运。第二部分地方秩序第六章精神的世界乡村人们的生活，总是和神灵联系在一起。家有灶神，乡有“社公”（又称“土地”），城有城隍。沿着“望镇”的河坝有一条曲折的小道两旁长着树，道边就树立着一尊佛像在受现代西方科学教育的沈宝媛看来
+而其他产品，特别是杂粮佃户留下的比例大得多。川西平原的纳租习惯以水稻为主，佃农所得不过是水田收获量的十分之一到十分之三如每亩产谷2石则纳租谷1石6斗即80%交租了。如果只看稻谷这个比例非常高但是小春和杂粮则全部归佃农包括蔬菜、小麦菜籽、红薯、玉米胡豆等。在华北平原，一年只能一熟而川西平原一年两熟加上土地肥沃灌溉条件好，收成有保障。所以尽管田租收取了稻谷的80%以上但是佃农仍可以靠小春作物杂粮和经营副业为生。因此，如果把小春杂粮等计算在内，佃农一般交给地主的地租为50%左右。[29] 五口之家的雷明远，佃田40亩，在当时可以衣食不愁，但也远谈不上富裕。佃农一般租地多少可以为生呢？这往往视经营能力而定；即取决于缴纳地租之后，是否还有足够剩余产品，维持再生产和最低生活水平。超过最高限量，则无力经营。当然，如果是我们前面提到的那种大佃户情况则不同，他们可以把地再转佃给其他小佃户耕种。如前所述，四川农民每人每年食与用各项开支至少需原粮730斤五口之家即需3650斤。按清前期亩产118斤算，自己要消耗约31亩的粮产。按收成的二分之一交租算，那么最少需佃60亩左右。随着生产力水平的提高，租地限量也发生了变化。清中期亩产达到151斤，最低佃田量为48亩；清末亩产达到215斤，那么最低佃田量为34亩。[30] 在一般情况下，佃农实际租地面积在最低限量之上。当然，地田有肥瘠租额有高低，气候有好坏技术有先进与落后此外还有经济作物与粮食作物之分等因此这个最低佃田量也应是上下浮动的。那些有能力经营最低限量以上土地的佃农至少能够得到自己的剩余劳动和剩余产品的一部分显然，这就为佃农的积累和经济发展提供了可能。民国时期，由于川西地区农业的过密性发展亩产已经没有多大的发展空间因此总体亩产量和清末相比没有大的增长。对雷明远来说，地里所产，必须精打细算，方能有所积蓄。但是他的袍哥身份使他无法节省开销。后面我们将看到他所面临的深刻危机。雷家的这种身份，也挑战了过去我们对农村阶级划分的认识。土改时期共产党对农村的阶级划分，包括地主、富农、中农、贫农、自由雇工。一般佃农都是划归贫农。但是，雷家应该算什么身份呢？农村阶级划分前三项，都是指土地占有者，这显然不适合于雷明远。他也不属于后两项，虽然他没有田产，但是却雇有长工和短工，俨然和地主富农一个档次。其实，他更像一个小农场经营者，他的收益是靠经营，而不是靠田产。[31] 如果他经营得当，则收益足够养家，甚至还可以资助一帮袍哥小兄弟。反之，则可能面临破产。后面我们将看到，雷明远最后也是由于经营不善，而面临破产的命运。第二部分地方秩序
+
+# 第六章 精神的世界
+
+乡村人们的生活，总是和神灵联系在一起。家有灶神，乡有“社公”（又称“土地”），城有城隍。沿着“望镇”的河坝有一条曲折的小道两旁长着树，道边就树立着一尊佛像在受现代西方科学教育的沈宝媛看来
 
 “这是一个迷信的代表物”
 
@@ -458,7 +464,7 @@ Vale）便注意到：“在众神中，门神为主，其为各阶级所供奉�
 
 她觉得这是“非常值得惋惜的”。虽然很难说这是对“望镇”袍哥的一个准确概括但是我充分理解为什么沈宝媛会做出这样严厉的批评
 
-# 第一章所讲述的悲惨故事充分表现了雷明远的保守固执、愚蠢和冷血相当程度上也印证了沈的观察。沈宝媛还进一步分析道
+第一章所讲述的悲惨故事充分表现了雷明远的保守固执、愚蠢和冷血相当程度上也印证了沈的观察。沈宝媛还进一步分析道
 
 “社会控制也根源于社会中之一般的社会行为规则与制度，这种一般人之行为标准对于个人行为也具有约束之力量”。她想要强调的是，袍哥受到规则和制度的严格约束。她提出，“这种结果又可依功能观点中的函数关系来解释”。可惜的是，虽然她意识到分析的方法但是在论文中并没有使用这种方法来分析这个问题。她还看到，在一个社区里同时“存在着许多不同的制度许多不同的力量”
 
@@ -551,8 +557,6 @@ Vale）便注意到：“在众神中，门神为主，其为各阶级所供奉�
 “差不多把他们成长中的生命力全部断送在这机械的劳动里了”（图11-1）。[8] 这里沈宝媛批评中国学徒制度的不公平的确有一定的道理我们可以发现很多老板或者师傅把学徒当成劳动力驱使的例子许多师傅并不正经传艺学徒只得偷偷地学所以才有了“偷师学艺”的说法。但是问题也不是这么简单，学徒制度的建立，给许多穷人家的孩子提供了一个机会。虽然这期间没有工资，但是店里提供食宿，解决了他们的生计问题。而且许多行业，需要相当的时间，才可能掌握必需的技巧。而且，对需要学徒的行业来说例如店员，跑堂木工、砖瓦工等手工业者如果要付工资的话老板宁可去招熟练的工人。正因为他们可以通过招学徒节约开支，才给那些真正想学艺的穷人，提供了一条出路。图11-1　一个照顾婴儿的农村小孩。照片由美国《生活》杂志摄影记者C.
 
 麦丹斯于1941年在龙泉驿拍摄。资料来源：格蒂研究所。沈宝媛的老师廖泰初在1941年发表过一篇讨论学徒的文章指出中国的学徒制度开始是以家传为特色农工商都是如此隋唐以后，由于店肆坊铺、行会增多学徒才脱离了家庭的圈子进入社会。学徒的训练期限从9个月到4年不等。到清以后，因为同业人数增加，收徒、合同、出师等都是根据行会规章处理。当时有人估计，中国学徒人数达到3000万，但是廖泰初估计应该是1000万—200
-
-The request was rejected because it was considered high risk
 
 内部有一套严密的帮规，违规可能受到惩罚。当然，沈宝媛的这项调查也有有利之处特别是地点离成都很近——不像她的老师林耀华
 
@@ -862,8 +866,6 @@ Tagler）教授指导9所大学的61个学生在河北、山东江苏、浙江�
 
 实质就是反抗征粮而并非“妄图一举摧毁我新诞生的人民政权”。叛乱在解放军的“军事围剿、政治瓦解下”，很快便平息了。[11] 在平息叛乱的过程中，新繁县政府共计镇压了600余人。最多的一次，是八乡一镇同一天召开公审公判大会，“处决了匪首恶霸分子”100余人。何载之后来到公安局“登记”“自首”，最后死于狱中。[12] 可以说袍哥在共产党到来后和前此其他时期一样只要自己的利益受到威胁就采取武装对抗的办法。但是共产党稳定地方的能力不是清政府和国民党政权所能同日而语的。当袍哥选择和新政权对抗的时候，他们的末
 
-The request was rejected because it was considered high risk
-
 有出入，但是证实了张澜的确参与了追悼会，会上的确发生了冲突。以张澜这样的背景和声望参加反对国民党一党专制的民主运动自然有相当的号召力当然也引起某些人的不满。《快活林》上这篇文章就是对他持批评态度的，认为他不应该以袍哥大爷的身份介入政治。但是，袍哥介入政治并不是一天两天的事情了这篇文章不满的是不像大多数其他袍哥站在政府和地方权威一边张澜却成为一个左翼分子。当然，共产党在取得政权以后对张澜的贡献给予了充分肯定他在新政权中任中央人民政府副主席。在1949年10月1日开国大典中那个站在毛泽东旁边的“大胡子”
 
 就是张澜（图18-2）。但是杜重石在1949年以后的经历却十分坎坷。杜曾是川军少将参议当过袍哥大爷支援过红军，参加过淞沪抗战到过延安，并在抗日军事政治大学学习两次受毛泽东接见是中共的“特别党员”。图18-2 1949年10月1日张澜和毛泽东等国家领导人在天安门城楼上。资料来源：网络照片。1948年杜重石在香港加入了中国国民党革命委员会接着被选为民革中央执行委员会委员。1949年12月杜随贺龙的第一野战军到成都任贺龙的政治代表利用在川康的社会关系协助接收起义部队为“解放大西南”做出了贡献。但1950年由民革中央执委降为一般的委员。性格倔强的杜重石决心走出政治圈到上海自行谋生与好友和同乡开办木材行
@@ -894,7 +896,7 @@ Maurer）在关于美国和加拿大的有关研究中所指出的
 
 本书主要考察了四川地区最有影响的社会组织的一个首领和他的家庭观察其政治、经济社会、文化的交错盘结和内在关系以帮助我们认识过去中国的社会文化、社区控制以及今天中国社会的许多问题。作为一个反清的政治组织在长期的生存和斗争过程中袍哥形成了一整套仪式语言和行为模式渗透到各种社会经济活动之中。这个组织既垄断了地方政治和经济资源也给许多平民提供了保护伞所以大量民众加入这个组织并创造了其独特的次文化这种次文化至今仍然潜伏在中国的社会之中（图18-3）。这个研究告诉我们要懂得中国的农村农民和农民问题必须了解过去他们在怎样一个政治生态下生活。透过雷氏家庭这个微观世界我们进入到川西乡村社会复杂的内部揭示了这个社会隐藏的秘密看到了一个内陆地区在民国时期的社会暴力和秩序一个占人口相当大比例的人群的思想文化和生活，以及他们对国家和地方政治对一般民众的深刻影响。这样一个暴力团伙一度是具有远大抱负的“革命”组织貌似建立了坚固的地方秩序但是无论它多么强大成员数量多么众多所掌握的资源多么丰富却可悲地走到了民众的对立面最终难逃覆灭的命运。图18-3今日崇义桥。日夜奔流不息的河水，带走了多少历史和故事，它们可能从我们的记忆中永远消失了。作者于2014年秋拍摄。# 注释
 
-# 第一章杀死亲生女
+# 第一章 杀死亲生女
 
 [1] 沈宝媛：《一个农村社团家庭》，第23页。[2] “望镇”是沈宝媛为了保护被调查者的隐私所杜撰的一个地名所以本书在使用这个地名时都加了引号。在第十四章，我将详细考察“望镇”的实际所在地。[3] 沈宝媛：《一个农村社团家庭》，第3页。[4] 沈宝媛：《一个农村社团家庭》，第23—24页。[5] 沈宝媛：《一个农村社团家庭》，第24页。[6] 孔飞力（Philip Kuhn）在《叫魂》中便讨论过灵魂与躯体的可分离性但他所讨论的“叫魂”和现在这个例子相反。进行叫魂活动，是为了让灵魂返回体内，使家人复生。# Soulstealers
 
@@ -920,23 +922,9 @@ and Justice in Urban China during the Republican Period
 
 ”in David Strand
 
-# Sherman Cochran
-
-# Wen-hsin Yeh
-
 eds.
 
-# Cities in Motion
-
-# Interior
-
 Coast, and Diaspora in Transnational China（Berkeley
-
-# Center for Chinese Studies
-
-# Institute of East Asian Studies
-
-# University of California
 
 2007），pp.182-215；Jennifer M.
 
@@ -950,31 +938,19 @@ Qing Dynasty Homicide Rulings in Republican Courts.
 
 Zhang, Steven Messner eds.，Crime and Social Control in a Changing China（Westport
 
-# Greenwood Publishing Group
-
-# Incorporated
-
 2001）。关于清代四川对通奸案的处理，见Mathew H.
-
-# Sommer
 
 Sex, Law
 
 and Society in Late Imperial China（Stanford
 
-# Stanford University Press
-
 2000）。关于清代和民国法律实践的比较研究，见Philip C.
 
 Huang, Code
 
-# Custom
-
 and Legal Practice in China
 
 The Qing and the Republic Compared（Stanford
-
-# Stanford University Press
 
 2001），不过本书的重点是民法而不是刑法。[11] 沈宝媛：《一个农村社团家庭》，第25页。[12] 关于新文化运动见Merle Goldman
 
@@ -986,23 +962,15 @@ Fung, The Intellectual Foundations of Chinese Modernity
 
 Cultural and Political Thought in the Republican Era（New York
 
-# Cambridge University Press
-
 2010）。伍启元：《中国新文化运动概观》，现代书局，1934年；陈少廷：《五四新文化运动的意义》，百杰出版社，1979年；耿云志、陈于武《开放的文化观念及其他纪念新文化运动九十周年》国家图书馆出版社
 
 2009年。关于新生活运动，见新生活运动促进总会编：《新生活运动》（无日期和出版地）。有关研究，见刘文楠《规训日常生活新生活运动与现代国家的治理》《南京大学学报》2013年第5期第89—102页；周蕾：《国民政府对女性的塑造和训练——以抗战前新生活运动为中心的考察（1934—1937）》《妇女研究论丛》2009年第3期第49—53页；左玉河：《论蒋介石发动的新生活运动》《史学月刊》1990年第4期第70—75页；关志钢：《论抗日战争时期的新生活运动》《抗日战争研究》1992年第3期第143—159页；乔兆红：《论抗战时期的新生活运动》《天府新论》2005年第5期第120—123页；# Jennifer Lee Oldstone-Moore
 
 The New Life Movement of Nationalist China
 
-# Confucianism
-
 State Authority and Moral Formation（University of Chicago
 
-# Divinity School
-
 2000）；Llyoyd E.
-
-# Eastman
 
 “Nationalist China during the Nanking Decade
 
@@ -1010,21 +978,13 @@ State Authority and Moral Formation（University of Chicago
 
 ”in John King Fairbank
 
-# Denis Crispin Twitchett
-
 Albert Feuerwerker eds.
 
-# Cambridge History of China
-
 vol.13
-
-# Republican China
 
 1912-1949
 
 2（Cambridge
-
-# Cambridge University Press
 
 1986），pp.116-167。[13] 秦牧《私刑·人市·血的赏玩》收入中国社会科学院文学研究所现代文学研究室编《中国现代文学创作选集》第七卷《中国现代散文选1918—1949》人民文学出版社
 
@@ -1040,25 +1000,17 @@ vol.13
 
 Chin and Maurice Freedman ed.，Family and Kinship in Chinese Society（Stanford
 
-# Stanford University Press
-
 1970）；Hugh D.
 
 Baker, Chinese Family and Kinship（New York
 
-# Columbia University Press
-
 1979）；# Maurice Freedman
-
-# The Study of Chinese Society
 
 Essays By Maurice Freedman.
 
 Selected and introduced by G.
 
 William Skinner（Stanford
-
-# Stanford University Press
 
 1979）。[17] 沈宝媛：《一个农村社团家庭》，1946年。[18] 沈宝媛：《一个农村社团家庭》，第26页。# 第二章川西的乡村
 
@@ -1068,15 +1020,15 @@ William Skinner（Stanford
 
 村基层市场社区理论》，《四川大学学报》2011年第3期，第12—21页。[18] G.
 
-# William Skinner
-
 “Marketing and Social Structure in Rural China.
 
 ”The Journal of Asian Studies（1964-1965）.
 
 1，pp.3-43；2，pp.195-228；3，pp.363-399.
 
-[19] 张凤翥纂修：乾隆《彭山县志》卷四，《土俗》。[20] 黄裳《茶馆》，彭国梁编《百人闲说：茶之趣》珠海出版社，2003年第299页。[21] 见王庆源《成都平原乡村茶馆》《风土什》1944年第1期（总第4期）第32页。# 第三章袍哥的网络
+[19] 张凤翥纂修：乾隆《彭山县志》卷四，《土俗》。[20] 黄裳《茶馆》，彭国梁编《百人闲说：茶之趣》珠海出版社，2003年第299页。[21] 见王庆源《成都平原乡村茶馆》《风土什》1944年第1期（总第4期）第32页。
+
+# 第三章 袍哥的网络
 
 [1] 关于中国哥老会的研究虽然在西方和中国都出版了若干著作但是研究中国秘密社会的专家王大为在一篇述评中指出关于中国秘密社会的研究主要集中在天地会起源民间宗教史等问题。见David Ownby
 
@@ -1090,19 +1042,11 @@ William Skinner（Stanford
 
 Secret Societies in the Nineteenth and Twentieth Centuries（Ann Arbor
 
-# University of Michigan Press
-
 1971）；Jean Chesneaux ed.，Popular Movements and Secret Societies in China 1840-1950（Stanford
-
-# Stanford University Press
 
 1972）；# Fei-Ling Davis
 
-# Primitive Revolutionaries of China
-
 A Study of Secret Societies in the Late Nineteenth Century（Honolulu
-
-# The University Press of Hawaii
 
 1977）；David Ownby and Mary Somers Heidhues eds.，“Secret Societies”Reconsidered
 
@@ -1114,11 +1058,7 @@ Brotherhoods and Secret Societies in Early and Mid-Qing China
 
 The Formation of a Tradition（Stanford
 
-# Stanford University Press
-
 1996）；Barend J.
-
-# Ter Haar
 
 Ritual and Mythology of the Chinese Triads
 
@@ -1126,17 +1066,11 @@ Creating an Identity（Leiden
 
 Brill，1998）；# Martin Booth
 
-# The Dragon Syndicates
-
 The Global Phenomenon of the Triads（New York
-
-# Carroll&Graf Publishers
 
 Inc.，1999）。关于四川哥老会或袍哥的研究中国大陆多是以一般的概述为主如胡汉生：《四川近代史事三考》重庆出版社，1988年；王纯五：《袍哥探秘》，巴蜀书社，1993年；秦和平：《对清季四川社会变迁与袍哥滋生的认识》《社会科学研究》2001年第2期第120—125页。我自己也发表过两篇专题研究的论文《吃讲茶：成都茶馆袍哥与地方政治空间》《史学月刊》2010年第2期第105—114页；《神秘的语言和沟通
 
 19世纪四川袍哥的隐语身份认同与政治文化》《史林》2010年第1期第89—97页。另外，日本人类学学者山本真对1940年代的四川袍哥也有研究见山本真：《1940年代四川省における地方民機関と秘密結社》收入石塚迅、中村元哉山本真编：《憲政と近現代中国国家、社会、個人》现代人文社，2010年第103—126页。英文学界也只有几篇专题文章即：Kristin
-
-# Stapleton
 
 “Urban Politics in an Age of‘Secret Societies’
 
@@ -1153,8 +1087,6 @@ Sworn Brotherhoods in Wartime Chongqing.
 ”American Historical Review 105.
 
 5（2000），pp.1641-1655。我自己也有两篇相关的英文论文
-
-# Di Wang
 
 “Mysterious Communication
 
@@ -1200,13 +1132,9 @@ Early Sociology and Anthropology in China Seen through Fieldwork on Sichuan’s 
 
 “Introduction
 
-# Inventing Traditions
-
 ”in Eric Hobsbawm
 
 Terence Ranger eds.，The Invention of Tradition（Cambridge
-
-# Cambridge University Press
 
 1983），pp.-2.
 
@@ -1256,19 +1184,9 @@ Keith Schoppa）曾统计1851—1874年间四川535个地方士绅（或称“�
 
 27000元大概可以购米1.
 
-# Di Wang
-
-# The Teahouse
-
-# Small Business
-
-# Everyday Culture
-
 and Public Politics in Chengdu
 
 1900-1950（Stanford
-
-# Stanford University Press
 
 2008），p.
 
@@ -1278,15 +1196,13 @@ and Public Politics in Chengdu
 
 The Peasant Economy and Social Change in North China（Stanford
 
-# Stanford University Press
+1985）。
 
-1985）。# 第六章精神的世界
+# 第六章 精神的世界
 
 [1] 沈宝媛：《一个农村社团家庭》，第23页。[2] 关于土地神信仰的研究见王永谦：《中国的土地神信仰》《中国民间文化——民间文学探幽》学林出版社，1994年第3期（总15期）第1—20页。[3] 沈宝媛：《一个农村社团家庭》，第29页。[4] 傅崇矩：《成都通览》上册，第546—561页。[5] 刘沅《蜀中新年竹枝词》林孔翼编：《成都竹枝词》四川人民出版社
 
 1986年，第126—127页；“Chentu Notes”
-
-# West China Missionary News
 
 1905，no.
 
@@ -1316,23 +1232,15 @@ Vale，“The Small Trader of Szchuan
 
 “Superscribing Symbols
 
-# The Myth of Guandi
-
 Chinese God of War.
 
 ”Journal of Asian Studies 47.
 
 4（1988），pp.778-95；# Prasenjit Duara
 
-# Culture
-
 Power, and the State
 
-# Rural North China
-
 1900-1942（Stanford
-
-# Stanford University Press
 
 1988）.
 
@@ -1354,8 +1262,6 @@ New York：The New Press，2000），pp.43-44.
 
 共22类，包括天文地理、时令、人物店铺、工匠、经纪医药、星相、娼优乞丐、盗贼、僧道身体、器用、舟具衣饰、饮馔、数目疾病、生死、人事等（傅崇矩《成都通览》下册第47、50—66页）。一般来讲，行话主要是便于从业者的生计，而隐语则在于保守秘密，但两者有诸多联系。[14] Charles D.
 
-# Kaplan
-
 Helmut Kämpe
 
 and José Antonio Flores Farfán
@@ -1366,15 +1272,11 @@ A Case Study of the Sociolinguistic Aspects of Drug Subcultures
 
 ”in Rodolfo Jacobson（ed.），Codeswitching as a Worldwide Phenomenon（New York
 
-# Peter Lang
-
 1990），pp.142-143.
 
 [15] William Stanton
 
 The Triad Society or Heaven and Earth Association（Shanghai
-
-# Kelly&Walsh
 
 Ltd.
 
@@ -1388,10 +1290,6 @@ Ltd.
 
 [17] 王大煜：《四川袍哥》，第148页。[18] Gustaaf Schlegel
 
-# Thian Ti Hwui
-
-# The Hung-League or Heaven-Earth-League
-
 A Secret Society with the Chinese in China and India（Batavia
 
 Lange&Co.，1866.
@@ -1402,19 +1300,11 @@ The Triad Society or Heaven and Earth Association
 
 pp.96-98；# Fei-Ling Davis
 
-# Primitive Revolutionaries of China
-
 A Study of Secret Societies in the Late Nineteenth Century（Honolulu
-
-# The University Press of Hawaii
 
 1977），pp.129-130；# Martin Booth
 
-# The Dragon Syndicates
-
 The Global Phenomenon of the Triads（New York
-
-# Carroll&Graf Publishers
 
 Inc.，1999），pp.122-128；刘师亮：《汉留全史》，第38页。“木阳城”也可以是“木杨城”。[19] 刘师亮：《汉留全史》，第5、36页；《现代汉语词典》，第469页；傅崇矩：《成都通览》下册，第48页。[20] 韵陶《四川哥老会的内容大纲》《时事周报》第4卷第15号（1933年）第4期第16页；傅崇矩：《成都通览》下册，第48—50页；秦和平：《对清季四川社会变迁与袍哥滋生的认识》《社会科学研究》2001年第2期第121页；周询：《芙蓉话旧录》，四川人民出版社，1987年，第17—18页。[21] Wolf Leslau
 
@@ -1444,8 +1334,6 @@ Cohen，“Lineage Organization in North China
 
 Yang, Religion in Chinese Society（Berkeley and Los Angles
 
-# University of California Press
-
 1961），p.
 
 [5] 此君：《成都的茶馆》，《华西晚报》1942年1月28—29日。[6] William T.
@@ -1457,8 +1345,6 @@ Rowe，“The Public Sphere in Modern China
 3（1990）pp.309-329 and“The Problem of‘Civil Society'in Late Imperial China，”Modern China 19.
 
 2（1993），pp.139-157；Mary B.
-
-# Rankin
 
 “The Origins of a Chinese Public Sphere
 
@@ -1492,8 +1378,6 @@ vol.8（1936）178.
 
 估计非正式袍哥成员不入流者可以称“十一哥”。[5] 周少稷，75岁，作者1997年6月22日在悦来茶馆的访谈记录；李劼人：《大波》，《李劼人选集》第2卷，第339页。[6] 沈宝媛：《一个农村社团家庭》，第18—19页。[7] 向启芬《鸡在川西民俗中的功用及形成初探》《西南民族大学学报》2003年第9期第65—69页。[8] 沈宝媛：《一个农村社团家庭》，第45页。[9] 沈宝媛：《一个农村社团家庭》，第45页。[10]《成都江湖海底》，成都刘双合刻版，1934年，第6页。感谢布朗大学包筠雅教授提供这份资料。[11] 沈宝媛：《一个农村社团家庭》，第20页。[12]《辛亥革命前十年间民变档案史料》下册，第792页。[13] 陈书龙：《四川袍哥与辛亥革命》，《辛亥革命回忆录》第3集，第176页。[14] 沈宝媛：《一个农村社团家庭》，第20—21页。[15] 李子峰的《海底》记录了许多这类“茶碗阵”（第210—236页）。斯坦通在19世纪考察中国秘密社会时对此也有较详细记录
 
-# William Stanton
-
 The Triad Society or Heaven and Earth Association。[16] 李子峰编：《海底》，第210页。[17] 李子峰编：《海底》，第210页。[18] Stanton
 
 The Triad Society or Heaven and Earth Association
@@ -1508,12 +1392,6 @@ The Triad Society or Heaven and Earth Association
 
 [1] Di Wang
 
-# Street Culture in Chengdu
-
-# Public Space
-
-# Urban Commoners
-
 and Local Politics in Chengdu
 
 1870-1930
@@ -1522,27 +1400,13 @@ chap.
 
 [2] 沈宝媛：《一个农村社团家庭》，第26页。关于中国传统社会中妇女的地位和处境见Maria Jaschok and Suzanne Miers ed.，Women and Chinese Patriarchy
 
-# Submission
-
 Servitude and Escape（HongKong
-
-# Hong Kong University Press
 
 1994）；# Kathryn Bernhardt
 
-# Women and Property in China
-
 960-1949（Stanford
 
-# Stanford University Press
-
 1999）。关于中国妇女近代的转型，见Christina K.
-
-# Gilmartin
-
-# Gail Hershatter
-
-# Lisa Rofel
 
 and Tyrene White eds.，Engendering China
 
@@ -1552,13 +1416,7 @@ and the State（Harvard University Press
 
 1994）；# Laurel Bossen
 
-# Chinese Women and Rural Development
-
-# Sixty Years of Change in Lu Village
-
 Yunnan（Lanham
-
-# Rowman&Littlefield Publishers
 
 关系之认识》《城市史研究》第19
 
@@ -1626,17 +1484,11 @@ XX（June 1947）pp.161-173。虽然沈宝媛没有提到具体论文题目，�
 
 2000年；李伟中：《知识分子“下乡”与近代中国乡村变革的困境——对20世纪30年代县政建设实验的解析》《南开学报》2009年第1期第115—125页；刘重来：《民国时期乡村建设运动述略》《重庆社会科学》2006年第5期（总第137期）第74—85页；鲁振祥：《三十年代乡村建设运动的初步考察》《政治学研究》1987年第4期第37—44页；赵旭东：《乡村成为问题与成为问题的中国乡村研究——围绕“晏阳初模式”的知识社会学反思》《中国社会科学》2008年第3期第110—117页；何建华：《晏阳初的平教运动及县政改革实验》《东南学术》2008年第1期第61—68页；# Charles Wishart Hayford
 
-# To the People
-
 James Yen and Village China（New York
-
-# Columbia University Press
 
 1990）；Martha McKee Keehn, ed.
 
 James Yen’s Thought on Mass Education and Rural Reconstruction
-
-# China and beyond
 
 Selected Papers from an International Conference Held in Shijiazhuang
 
@@ -1662,8 +1514,6 @@ Reflections on Liang Shuming’s Rural Reconstruction Theory and Its Practice
 
 ”in Tian Yu Cao
 
-# Xueping Zhong
-
 and Kebin Liao
 
 eds.
@@ -1673,10 +1523,6 @@ Culture and Social Transformations in Reform Era China（Leiden and Boston
 Brill，2010）pp.235-256；Stig Thøgersen
 
 “Revisiting a Dramatic Triangle
-
-# The State
-
-# Villagers
 
 and Social Activists in Chinese Rural Reconstruction Projects.
 
@@ -1692,11 +1538,7 @@ and Social Activists in Chinese Rural Reconstruction Projects.
 
 2，燕京大学地下党概况》，北京大学出版社，1993年，第100—101页。关于燕京大学及其学生运动，见J.
 
-# Leighton Stuart
-
 Fifty Years in China（New York
-
-# Random House
 
 1946）；Edwards, Dwight W.，Yenching University（New York
 
@@ -1722,17 +1564,11 @@ Yenching and St.John’s Compared.
 
 2，燕京大学地下党概况》，第100—101页。[12] 沈宝媛：《一个农村社团家庭》，第1页。[13] 沈宝媛：《一个农村社团家庭》，第1页。[14] 沈宝媛：《一个农村社团家庭》，第1页。[15] 张玮瑛、王百强等主编：《燕京大学史稿》，第1320页。[16] 林耀华：《社会人类学讲义》，第457—460页。[17] C.
 
-# Dittmer
-
 “An Estimate of the Standard of Living in China.
 
 ”Quarterly Journal of Economic 33（Nov.
 
 1918），pp.107-128；Sidney D.
-
-# Gamble and John Stewart Burgess
-
-# Peking
 
 a Social Survey
 
@@ -1742,15 +1578,11 @@ reprinted by Global Oriental
 
 Kulp, Country Life in South China（New York
 
-# Columbia University
-
 1925）.
 
 韩明谟：《中国社会学调查研究方法和方法论发展的三个里程碑》《北京大学学报》1997年第4期第5—15页。[18] C.
 
 Malone and J.
-
-# Tagler
 
 The Study of Chinese Rural Economy（Peking
 
@@ -1760,13 +1592,7 @@ China International Famine Relief Commission
 
 Chinese Farm Economy（Chicago
 
-# University of Chicago Press
-
 1930）；Land Utilization in China（Shanghai
-
-# University
-
-# The Community Study in China
 
 Professor Fei Xiaotong and Community Study
 
@@ -1774,23 +1600,13 @@ in Chie Nakane and Chien
 
 eds.
 
-# Home Bound
-
-# Studies in East Asian Society
-
 Papers Presented at the Symposium in Honor of the Eightieth Birthday of Professor Fei Xiaotong (Tokyo
-
-# Centre for East Asian Cultural Studies
 
 1992), pp.33-43.
 
 [26] 原书为英文即Fei Hsiao-tung
 
-# Peasant Life in China
-
 A Field Study of Country Life in the Yangzi Valley (New York
-
-# Oxford University Press
 
 1939)；韩明谟：《中国社会学调查研究方法和方法论发展的三个里程碑》《北京大学学报》1997年第4期第5—15页。[27]《东三省之移民与犯罪》《社会学界》第5卷
 
@@ -1801,8 +1617,6 @@ A Field Study of Country Life in the Yangzi Valley (New York
 1935年（三联书店
 
 2000年首次公开出版）；《从人类学的观点考察中国宗族乡村》，《社会学界》第9卷，1936年；# Yao-hua Lin
-
-# The Golden Wing
 
 A Sociological Study of Chinese Familism (London
 
@@ -1815,8 +1629,6 @@ Paul, Trench, Trubner, 1947；中译本有两种：《金翅》，台湾桂冠�
 1 (2003), pp.46-62；# Yaohua Lin
 
 “New China’s Ethnology
-
-# Research and Prospects
 
 ” in Gregory Eliyu Guldin
 
@@ -1846,11 +1658,7 @@ Anthropology and Modern Life (George Allen&Unwin Ltd
 
 Stocking Jr. A Franz Boas Reader
 
-# The Shaping of American Anthropology
-
 1883-1911 (Chicago
-
-# University of Chicago Press
 
 1974)。关于功能学派的主要著作，见A.
 
@@ -1858,25 +1666,15 @@ Radcliffe-Brown, The Andaman Islanders；Adam Kuper ed.
 
 The Social Anthropology of Radcliffe-Brown (London
 
-# Routledge
-
 2004)；# Bronislaw Malinowski
 
 Crime and Custom in Savage Society (London
-
-# Harcourt
-
-# Brace&Company
 
 Inc.
 
 1926)；Raymond Firth ed.
 
-# Man and Culture
-
 An Evaluation of the Work of Bronislaw Malinowski (London
-
-# Routledge&Kegan Paul Ltd
 
 1957)。[30] 沈宝媛：《一个农村社团家庭》，第6页。[31] 蔡家麒《试论民族学田野调查的理论与方法》云南省民族研究所编《民族研究文集——云南省民族研究所建所三十周年纪念》云南民族出版社
 
@@ -1944,15 +1742,9 @@ boardid=5&id=1715292，发布日期：2007年6月1日；使用该网页日期：
 
 [1] Natalie Davis
 
-# Fiction in the Archives
-
 Pardon Tales and Their Tellers in Sixteenth-Century France (Stanford
 
-# Stanford University Press
-
 1990)；# Philip Kuhn
-
-# Soulstealers
 
 The Chinese Sorcery Scare of 1768 (Cambridge
 
@@ -1972,8 +1764,6 @@ Steven F.
 
 Rendall (Berkeley and Los Angeles
 
-# University of California Press
-
 1984), p.
 
 [4] 李劼人《市民的自卫》收入李劼人：《好人家》中华书局，1947年第124—135页。《死水微澜》和《暴风雨前》收入《李劼人选集》第1卷。《大波》收入《李劼人选集》第2卷。关于李劼人小说的研究，见Kenny K.
@@ -1987,10 +1777,6 @@ et al.
 eds.
 
 Chinese Revolution and Chinese Literature (Newcastle upon Tyne
-
-# England
-
-# Cambridge Scholars Publishing
 
 2009), pp.197-224；丁帆、李兴阳《历史的微澜荡漾在现代转折点上——李劼人〈死水微澜〉论析》《天府新论》2007年第3期第136—140页；雷兵：《“改行的作家”
 
@@ -2022,7 +1808,7 @@ Chinese Revolution and Chinese Literature (Newcastle upon Tyne
 
 “不知哥哥到此来未曾收拾早安排未早接驾休见怪哥哥仁义赛过桃园外……”等客套语然后转问：“不知你哥哥水路来旱路来”，答
 
-“兄弟水路也来旱路也来”。问：“旱路有多少山，水路有多少滩”，答：“雾气腾腾不见山，大水茫茫不见滩”。问：“有何为证”，答：“有凭为证”。然后再说诗句，这些诗句全都核对正确以后，遂由舵把子留下安置，十天半载，决无怨言。每日茶饭招待，甚至连衣物等都由此码头制备。稍微犯了一点小法的可留住避风，案子犯大了也可以不收留拒绝的标记，就是送他一笔钱不收对方的礼用火纸燃一根烟把燃纸的半截撕掉对方吃完了烟以后只得迅速逃奔旁的码头去碰运气了。袍哥会社的中心思想主要为训练豪杰履行仁义，做豪杰就是以武力夺取自己的势力范围为地方排难解纷有时他们的势力超出地方的统治之上或在领导者后面起潜伏性质的指挥作用有些仅能在特殊的事件上发挥极大的效力。在望镇的袍哥社团首领实际上业已和地方上的统治阶级混为一流了地方行政藉着袍哥社团的控制力量才能迅速推动着。行仁义差不是他们教条上的宗旨仁义即是一种社会标准是一种基本的社会控制较富的救济穷的失业的可由社团代找职业有困难大家扶助有冤代伸，有仇同报为了江湖上的豪义可以整月整年的招待“跑滩的”或来耍的旁的会社的人共同过着有严密组织有控制能力的社团生活。社团中的阶层现象（Hierarchy）也应在此提及它执行严密的社会控制作用又系一种隐约的政治形态。舵把子是上层人物是领袖阶级，施发号令职掌一切，最下层的小兄弟是服从命令接受控制而推行的。中间的这几位哥子三哥、五哥、六哥八哥、九哥等接受上面的命令而传达下去他们可称为中间阶层（Intermediate Class）。每一层的人，都有他们应享的权利与应尽的义务。好像政治集团中的领袖与其臣属一般。社会各方面都与社团有不同的关联而整个望镇社会也受着这种隐密会社的操纵控制而有新改变会社的一切受着每个会员的互动关系的约束而会员本身也受着互相的反应而有不同的发展。由于社团中社会化作用而深入到望镇农村的广大人群里社团力量的广度性蔓延着而社团份子的特殊力量作用却相对的减轻了。社团中新的份子激增着无形中改变了一贯的神秘作用社团首脑的威风也大逊往昔在下二章我们要介绍雷大爷的威风时代与他的现在以作为对此观点的引伸。望镇社团现已渐脱离“仁义”与“豪勇”的标准往往牺牲人民大众的利益走向阶级自利的路甚至不惜为旧制度及封建残余的帮凶这是非常值得惋惜的。**第四章旧礼教的逞威**
+“兄弟水路也来旱路也来”。问：“旱路有多少山，水路有多少滩”，答：“雾气腾腾不见山，大水茫茫不见滩”。问：“有何为证”，答：“有凭为证”。然后再说诗句，这些诗句全都核对正确以后，遂由舵把子留下安置，十天半载，决无怨言。每日茶饭招待，甚至连衣物等都由此码头制备。稍微犯了一点小法的可留住避风，案子犯大了也可以不收留拒绝的标记，就是送他一笔钱不收对方的礼用火纸燃一根烟把燃纸的半截撕掉对方吃完了烟以后只得迅速逃奔旁的码头去碰运气了。袍哥会社的中心思想主要为训练豪杰履行仁义，做豪杰就是以武力夺取自己的势力范围为地方排难解纷有时他们的势力超出地方的统治之上或在领导者后面起潜伏性质的指挥作用有些仅能在特殊的事件上发挥极大的效力。在望镇的袍哥社团首领实际上业已和地方上的统治阶级混为一流了地方行政藉着袍哥社团的控制力量才能迅速推动着。行仁义差不是他们教条上的宗旨仁义即是一种社会标准是一种基本的社会控制较富的救济穷的失业的可由社团代找职业有困难大家扶助有冤代伸，有仇同报为了江湖上的豪义可以整月整年的招待“跑滩的”或来耍的旁的会社的人共同过着有严密组织有控制能力的社团生活。社团中的阶层现象（Hierarchy）也应在此提及它执行严密的社会控制作用又系一种隐约的政治形态。舵把子是上层人物是领袖阶级，施发号令职掌一切，最下层的小兄弟是服从命令接受控制而推行的。中间的这几位哥子三哥、五哥、六哥八哥、九哥等接受上面的命令而传达下去他们可称为中间阶层（Intermediate Class）。每一层的人，都有他们应享的权利与应尽的义务。好像政治集团中的领袖与其臣属一般。社会各方面都与社团有不同的关联而整个望镇社会也受着这种隐密会社的操纵控制而有新改变会社的一切受着每个会员的互动关系的约束而会员本身也受着互相的反应而有不同的发展。由于社团中社会化作用而深入到望镇农村的广大人群里社团力量的广度性蔓延着而社团份子的特殊力量作用却相对的减轻了。社团中新的份子激增着无形中改变了一贯的神秘作用社团首脑的威风也大逊往昔在下二章我们要介绍雷大爷的威风时代与他的现在以作为对此观点的引伸。望镇社团现已渐脱离“仁义”与“豪勇”的标准往往牺牲人民大众的利益走向阶级自利的路甚至不惜为旧制度及封建残余的帮凶这是非常值得惋惜的。## 第四章 旧礼教的逞威
 
 沿着河坝不远，就有一条曲折的小道直通至燕大的农村服务处及附近的一带农家。路旁杂色的树不规则的生长着，间或夹傍着几株高大的竹树。一个阿弥陀佛的神像在树前直立着这是一个迷信的代表物是专为死魂超度所用同时也是镇压邪气的祭祀品。一个哀艳的故事在村人的口中传述出来很多人经过了这儿都沉郁的低下了头去他们在思索着父亲杀死女儿的这一幕惨剧。即使是在现在，思想还不甚开通的乡人看来，那做父亲的心，也未免过于狠毒了。还是在六年以前当淑英只有八岁的时候大姊淑清（雷黄氏的女儿）却已是一位业已长成的少女了她没有机会接受更高的教育所以在念完了私塾以后就一直在作女红无事时则在家闲耍那时家里正请来了一个缝衣服的裁缝年纪很轻，在很多接近的机会里他们非常的要好起来。一阵流言传播了望镇的整个乡村，有人甚至还在传说着他们曾干过不名誉的事。这消息传到雷大爷的耳中他大嚷着要将这一对人活捉出来母亲知道了，便悄悄将女儿从后门放走他们暂时躲在城内小裁缝的父母家中父亲带着兵亲自将二人逼回来在家里就绑上了绳子用枪逼着走上了河傍雷大爷的眼气直了他的声音颤抖着女儿的脸也变为青白色那个年轻的裁缝也直哆嗦他们依然倔强的沉默未替自己作丝毫的辩护。这是一个行将押赴杀场的行列，父亲要对他亲生女儿开枪了。很多村人不敢出来看这一幅悲痛的场面。他们在屋中偷偷的哭泣着，私语着，默祷着。好心肠的人赶着出来拦阻这杀气腾天的父亲然而，他却怒吼了
 
@@ -2144,8 +1930,6 @@ Fei, Hsiao-tung.
 
 1939.
 
-# Peasant Life in China
-
 A Field Study of Country Life in the Yangzi Valley.
 
 New York: Oxford University Press.
@@ -2160,27 +1944,19 @@ Fei, Xiaotong.
 
 eds.
 
-# The Yao of South China
-
 Recent International Studies.
 
 Paris: Pangu, Editions de l'A.
 
 1992.
 
-# From the Soil
-
 The Foundations of Chinese Society.
-
-# Berkeley
 
 University of California Press.
 
 Firth, Raymond ed.
 
 1957.
-
-# Man and Culture
 
 An Evaluation of the Work of Bronislaw Malinowski.
 
@@ -2201,8 +1977,6 @@ Fong, Shiaw-Chian.
 Freedman, Maurice.
 
 1979.
-
-# The Study of Chinese Society
 
 Essays by Maurice Freedman.
 
@@ -2234,21 +2008,15 @@ First edition: New York: George H.
 
 Doran; reprinted by Leiden
 
-# Global Oriental
-
 2011.
 
 Gilmartin, Christina K.
 
 , Gail Hershatter
 
-# Lisa Rofel
-
 and Tyrene White eds.
 
 1994.
-
-# Engendering China
 
 Women, Culture
 
@@ -2259,8 +2027,6 @@ Cambridge, MA: Harvard University Press.
 Ginzburg, Carlo.
 
 1982.
-
-# The Cheese and the Worms
 
 The Cosmos of a Sixteenth-Century Miller.
 
@@ -2326,8 +2092,6 @@ Harrison, Henrietta.
 
 2005.
 
-# The Man Awakened from Dreams
-
 One Man's Life in a North China Village, 1857-1942.
 
 Stanford: Stanford University Press.
@@ -2335,8 +2099,6 @@ Stanford: Stanford University Press.
 Hayford, Charles Wishart.
 
 1990.
-
-# To the People
 
 James Yen and Village China.
 
@@ -2372,8 +2134,6 @@ Hobsbawm, E.
 
 1959.
 
-# Primitive Rebels
-
 Studies in Archaic Forms of Social Movement in the 19th and 20th Centuries.
 
 New York: Frederick A.
@@ -2393,8 +2153,6 @@ Hobsbawm, Eric.
 1983.
 
 “Introduction
-
-# Inventing Traditions
 
 ” 1-14 in Eric Hobsbawm
 
@@ -2426,10 +2184,6 @@ Jaschok, Maria and Suzanne Miers ed.
 
 1994.
 
-# Women and Chinese Patriarchy
-
-# Submission
-
 Servitude and Escape.
 
 Hong Kong: Hong Kong University Press.
@@ -2456,10 +2210,6 @@ Kapp, Robert A.
 
 1973.
 
-# Szechwan and the Chinese Republic
-
-# Provincial Militarism and Central Power
-
 1911-1938.
 
 New Haven: Yale University Press.
@@ -2470,15 +2220,11 @@ Keehn, Martha McKee, ed.
 
 James Yen's Thought on Mass Education and Rural Reconstruction: China and beyond: Selected Papers from an International Conference Held in Shijiazhuang, China, May 27-June 1, 1990.
 
-# New York
-
 International Institute of Rural Reconstruction.
 
 Kuhn, Philip.
 
 1990.
-
-# Soulstealers
 
 The Chinese Sorcery Scare of 1768.
 
@@ -2534,8 +2280,6 @@ Lin, Yaohua.
 
 1947.
 
-# The Golden Wing
-
 A Sociological Study of Chinese Familism.
 
 London: K.
@@ -2572,10 +2316,6 @@ Zhang, Steven Messner eds.
 
 Crime and Social Control in a Changing China.
 
-# Westport
-
-# Greenwood Publishing Group
-
 Incorporated.
 
 Lu, Xinyu.
@@ -2589,8 +2329,6 @@ the Nation-State and China's Modernity Problem: Reflections on Liang Shuming's R
 Zhu Ping and Adrian Thieret)
 
 235-56 in Tianyu Cao
-
-# Xueping Zhong
 
 and Kebin Liao
 
@@ -2609,8 +2347,6 @@ Tagler.
 1924.
 
 The Study of Chinese Rural Economy.
-
-# Peking
 
 China International Famine Relief Commission.
 
@@ -2652,23 +2388,11 @@ and Justice in Urban China during the Republican period
 
 ” 182-215 in David Strand
 
-# Sherman Cochran
-
 and Wen-hsin Yeh
 
 eds.
 
-# Cities in Motion
-
-# Interior
-
 Coast, and Diaspora in Transnational China.
-
-# Berkeley
-
-# Center for Chinese Studies
-
-# Institute of East Asian Studies
 
 University of California.
 
@@ -2694,10 +2418,6 @@ Ng, Kenny K.
 
 Chinese Revolution and Chinese Literature.
 
-# Newcastle
-
-# England
-
 Cambridge Scholars Publishing.
 
 Oldstone-Moore, Jennifer Lee.
@@ -2706,13 +2426,9 @@ Oldstone-Moore, Jennifer Lee.
 
 “The New Life Movement of Nationalist China
 
-# Confucianism
-
 State Authority and Moral Formation.
 
 ” Unpublished dissertation
-
-# Divinity School
 
 University of Chicago.
 
@@ -2762,10 +2478,6 @@ Professor Fei Xiaotong and Community Study
 
 eds.
 
-# Home Bound
-
-# Studies in East Asian Society
-
 Papers Presented at the Symposium in Honor of the Eightieth Birthday of Professor Fei Xiaotong.
 
 Tokyo: Centre for East Asian Cultural Studies.
@@ -2779,8 +2491,6 @@ Introduction to the Science of Sociology (with Ernest Burgess).
 Chicago: University of Chicago Press.
 
 1925.
-
-# The City
 
 Suggestions for the Study of Human Nature in the Urban Environment (with R.
 
@@ -2806,8 +2516,6 @@ Radcliffe-Brown, A.
 
 1922.
 
-# The Andaman Islanders
-
 A Study in Social Anthropology.
 
 Cambridge: The University Press.
@@ -2832,17 +2540,11 @@ Rowe, William T.
 
 1984.
 
-# Hankow
-
-# Commerce and Society in a Chinese City
-
 1796-1889.
 
 Stanford: Stanford University Press.
 
 2007.
-
-# Crimson Rain
 
 Seven Centuries of Violence in a Chinese County.
 
@@ -2851,10 +2553,6 @@ Stanford: Stanford University Press.
 Schlegel, Gustaaf.
 
 1866.
-
-# Thian Ti Hwui
-
-# The Hung-League or Heaven-Earth-League
 
 A Secret Society with the Chinese in China and India.
 
@@ -2882,15 +2580,11 @@ Scott, James C.
 
 1985.
 
-# Weapons of the Weak
-
 Everyday Forms of Peasant Resistance.
 
 New Haven: Yale University Press.
 
 1990.
-
-# Domination and the Arts of Resistance
 
 Hidden Transcripts.
 
@@ -2942,8 +2636,6 @@ eds.
 
 , Marxism and the Interpretation of Culture.
 
-# Urbana and Chicago
-
 University of Illinois Press.
 
 Stanton, William.
@@ -2967,8 +2659,6 @@ Stapleton, Kristin.
 ): 23-64.
 
 2016.
-
-# Fact in Fiction
 
 1920s China and Ba Jin's Family.
 
@@ -3002,10 +2692,6 @@ Thøgersen, Stig.
 
 “Revisiting a Dramatic Triangle
 
-# The State
-
-# Villagers
-
 and Social Activists in Chinese Rural Reconstruction Projects.
 
 ” Journal of Current Chinese Affairs 38.
@@ -3028,12 +2714,6 @@ Wang, Di.
 
 2003.
 
-# Street Culture in Chengdu
-
-# Public Space
-
-# Urban Commoners
-
 and Local Politics in Chengdu
 
 1870-1930.
@@ -3041,12 +2721,6 @@ and Local Politics in Chengdu
 Stanford: Stanford University Press.
 
 2008a.
-
-# The Teahouse
-
-# Small Business
-
-# Everyday Culture
 
 and Public Politics in Chengdu
 
@@ -3069,8 +2743,6 @@ special issue in honor of William T.
 Rowe): 77-103.
 
 Forthcoming.
-
-# The Teahouse Under Socialism
 
 The Decline And Renewal of Public Life in Chengdu
 
@@ -3104,8 +2776,6 @@ Yan, Yunxiang.
 
 1996.
 
-# The Flow of Gifts
-
 Reciprocity and Social Networks in a Chinese Village.
 
 Stanford: Stanford University Press.
@@ -3116,25 +2786,15 @@ Yang, C.
 
 Religion in Chinese Society.
 
-# Berkeley and Los Angeles
-
 University of California Press.
 
 Yen-ching ta hsüeh, Shê hui hsüeh hsi.
 
 1930.
 
-# Ching Ho
-
-# A Sociological Analysis
-
 The Report of a Preliminary Survey of the Town of Ching Ho
 
 Hopei, North China 1930.
-
-# Beijing
-
-# Department of Sociology & Social Work
 
 Yenching University.
 
@@ -3148,27 +2808,15 @@ Yenching University.
 
 [1] 即《街头文化成都公共空间下层民众与地方政治（1870—1930）》（Street Culture in Chengdu
 
-# Public Space
-
-# Urban Commoners
-
 and Local Politics
 
 1870-1930
 
-# Stanford University Press
-
 2003；中国人民大学出版社，2006年；商务印书馆，2013年）；《茶馆：成都的公共生活和微观世界（1900—1950）》（The Teahouse
-
-# Small Business
-
-# Everyday Culture
 
 and Public Politics in Chengdu
 
 1900-1950
-
-# Stanford University Press
 
 2008；社会科学文献出版社，2010年、2015年）。[2] 李文海主编的《民国时期社会调查丛编·婚姻家庭卷》（福建教育出版社
 
@@ -3180,15 +2828,9 @@ The Decline and Renewal of Public Life in Chengdu
 
 1950-2000
 
-# Ithaca
-
-# Cornell University Press
-
 2018；中文版即将由北京大学出版社出版）。[4] 这篇论文后来发表在《四川大学学报》2015年第3期上。[5] Robert Darnton
 
 The Great Cat Massacre and Other Episodes in French Cultural History (New York
-
-# Vintage Books
 
 1985); Natalie Zemon Davis
 
@@ -3204,23 +2846,15 @@ Rowe, Crimson Rain
 
 Seven Centuries of Violence in a Chinese County (Stanford
 
-# Stanford University Press
-
 2007); Henrietta Harrison
-
-# The Man Awakened from Dreams
 
 One Man’s Life in a North China Village
 
 1857-1942 (Stanford
 
-# Stanford University Press
-
 2005); Jonathan Spence
 
 Death of Woman Wang (New York
-
-# Viking Press
 
 1978).
 

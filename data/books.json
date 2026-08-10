@@ -4484,9 +4484,9 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]中国区域历史地理 (李孝聪) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 175093,
+      "chars": 168616,
       "has_fixed": true,
-      "category": "地球与环境",
+      "category": "社会科学",
       "author": ""
     },
     {
@@ -4940,7 +4940,7 @@
       "pipeline": "ocr_md",
       "source_file": "腹地的构建——华北内地的国家、社会和经济（1853—1937） (彭慕兰) (Z-Library).md",
       "source_pdf": null,
-      "chars": 255972,
+      "chars": 240676,
       "has_fixed": false,
       "category": "经济",
       "author": ""
@@ -4952,9 +4952,9 @@
       "pipeline": "ocr_md",
       "source_file": "袍哥：1940年代川西乡村的暴力与秩序（显微镜下透视袍哥江湖，再现民国秘密社会的传奇岁月。荣获《新周刊》年度图书、第四届单向街书店文学奖... (Z-Library).md",
       "source_pdf": null,
-      "chars": 141566,
+      "chars": 137175,
       "has_fixed": false,
-      "category": "社会科学",
+      "category": "历史",
       "author": ""
     },
     {
