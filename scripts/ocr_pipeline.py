@@ -46,7 +46,7 @@ os.environ['TESSDATA_PREFIX'] = r'C:\Users\wade\AppData\Local\tessdata'
 
 LLM_API_URL = 'https://token-plan-cn.xiaomimimo.com/v1/chat/completions'
 LLM_API_KEY = 'tp-c3m8y92r0nj7msaxho4lmxzw6i17ernmpqs8kkt0jn8cd1xs'
-LLM_MODEL   = 'mimo-v2.5'
+LLM_MODEL   = 'hy3'
 
 DPI = 300
 SAMPLE_PAGES = 16        # 扫描版判定时均匀采样的页数
