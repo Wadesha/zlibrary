@@ -1,4 +1,4 @@
-# Introduction to Mineralogy etc Z Library
+# Introduction to Mineralogy etc
 
 Introduction to Mineralogy
 

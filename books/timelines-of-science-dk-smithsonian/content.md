@@ -1,4 +1,4 @@
-# Timelines of Science DK Smithsonian Z Library
+# Timelines of Science DK Smithsonian
 
 s m i t h s o n i a n
 

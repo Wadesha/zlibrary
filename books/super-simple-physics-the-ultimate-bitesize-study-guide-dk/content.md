@@ -1,4 +1,4 @@
-# Super Simple Physics The Ultimate Bitesize Study Guide DK Z Library
+# Super Simple Physics The Ultimate Bitesize Study Guide DK
 
 Published in Great Britain by Dorling Kindersley Limited A catalog record for this book is available from the Library of Congress.
 

@@ -1,4 +1,4 @@
-# China Travel Guide Lonely Planet Z Library
+# China Travel Guide Lonely Planet
 
 China Travel Guide Lonely Planet #1 best-selling guide to China Lonely Planet China is your passport to the most relevant, up-to- date advice on what to see and skip, and what hidden discoveries await you. Try dumplings in Beijing, visit the Great Wall or cruise down the Yangzi River; all with your trusted travel companion. Get to the heart of China and begin your journey now!
 

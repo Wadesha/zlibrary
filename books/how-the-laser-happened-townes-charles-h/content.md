@@ -1,4 +1,4 @@
-# How the Laser Happened Townes Charles H Z Library
+# How the Laser Happened Townes Charles H
 
 HOW THE LASER HAPPENED
 

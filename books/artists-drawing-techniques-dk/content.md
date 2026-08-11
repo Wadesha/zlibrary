@@ -1,4 +1,4 @@
-# Artists Drawing Techniques DK Z Library
+# Artists Drawing Techniques DK
 
 DRAWING ARTIST’S TECHNIQUES
 

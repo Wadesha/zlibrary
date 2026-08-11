@@ -1,4 +1,4 @@
-# What s the Point of Math DK Z Library
+# What s the Point of Math DK
 
 WHAT ’ S T H E POINT OF MATH?
 

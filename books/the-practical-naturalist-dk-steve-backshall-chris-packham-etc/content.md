@@ -1,4 +1,4 @@
-# The Practical Naturalist DK Steve Backshall Chris Packham etc Z Library
+# The Practical Naturalist DK Steve Backshall Chris Packham etc
 
 -`XTWZM\PM_WVLMZ[WN\PMVI\]ZIT_WZTL -`XTWZM\PM_WVLMZ[WN\PMVI\]ZIT_WZTL
 

@@ -1,4 +1,4 @@
-# Chinese Landscapes The Village as Place Ronald G Knapp Z Library
+# Chinese Landscapes The Village as Place Ronald G Knapp
 
 Includes bibliographical references and index.
 

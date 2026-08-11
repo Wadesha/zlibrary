@@ -1,4 +1,4 @@
-# How to Be a Math Genius DK Mike Goldsmith Z Library
+# How to Be a Math Genius DK Mike Goldsmith
 
 MATH TRAIN your BRAIN to be a GENIUS
 

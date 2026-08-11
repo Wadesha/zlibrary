@@ -1,4 +1,4 @@
-# Foundations of earth science Lutgens Frederick K Tarbuck Edward J Tasa etc Z Library
+# Foundations of earth science Lutgens Frederick K Tarbuck Edward J Tasa etc
 
 Foundations of EARTH SCIENCE E i g h t h  e d i t i o n
 

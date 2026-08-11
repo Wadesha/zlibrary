@@ -1,4 +1,4 @@
-# STEPS to STEM a science curriculum supplement for upper elementary and middle school grades Isabelle Aaron D Zinn Gilbert A Z Library
+# STEPS to STEM a science curriculum supplement for upper elementary and middle school grades Isabelle Aaron D Zinn Gilbert A
 
 STEPS to STEM A Science Curriculum Supplement for Upper Elementary and Middle School Grades – Teacher’s Edition Aaron D. Isabelle and Gilbert A. Zinn A C.I.P. record for this book is available from the Library of Congress.
 

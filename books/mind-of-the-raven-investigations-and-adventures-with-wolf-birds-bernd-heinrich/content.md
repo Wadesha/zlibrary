@@ -1,4 +1,4 @@
-# Mind of the Raven Investigations and Adventures with Wolf Birds Bernd Heinrich Z Library
+# Mind of the Raven Investigations and Adventures with Wolf Birds Bernd Heinrich
 
 Mind of the Raven INVESTIGATIONS AND ADVENTURES WITH WOLF-BIRDS Bernd Heinrich
 

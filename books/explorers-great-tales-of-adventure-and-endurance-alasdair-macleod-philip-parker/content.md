@@ -1,4 +1,4 @@
-# Explorers Great Tales of Adventure and Endurance Alasdair Macleod Philip Parker Eugene Rae Z Library
+# Explorers Great Tales of Adventure and Endurance Alasdair Macleod Philip Parker Eugene Rae
 
 foreword by sir ranulph fiennes great tales of adventure and endurance S M I T H S O N I A N EXPL RERS
 

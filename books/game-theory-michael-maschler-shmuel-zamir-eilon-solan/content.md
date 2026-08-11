@@ -1,4 +1,4 @@
-# Game Theory Michael Maschler Shmuel Zamir Eilon Solan Z Library
+# Game Theory Michael Maschler Shmuel Zamir Eilon Solan
 
 Game Theory
 

@@ -1,4 +1,4 @@
-# Glencoe Science Animal Diversity Student Edition Glencoe McGraw Hill Z Library
+# Glencoe Science Animal Diversity Student Edition Glencoe McGraw Hill
 
 Bill Bachmann/Rainbow
 

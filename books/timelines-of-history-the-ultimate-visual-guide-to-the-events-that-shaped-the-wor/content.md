@@ -1,4 +1,4 @@
-# Timelines of History The Ultimate Visual Guide To The Events That Shaped The World DK Smithsonian Z Library
+# Timelines of History The Ultimate Visual Guide To The Events That Shaped The World DK Smithsonian
 
 s m i t h s o n i a n
 

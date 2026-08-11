@@ -1,4 +1,4 @@
-# DK Eyewitness Travel Guide New England DK Publishing Z Library
+# DK Eyewitness Travel Guide New England DK Publishing
 
 NEW ENGLAND EYEWITNESS TRAVEL
 

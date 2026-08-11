@@ -1,4 +1,4 @@
-# Fundamental Astronomy H Karttunen P Kr ger H Oja M Poutanen etc Z Library
+# Fundamental Astronomy H Karttunen P Kr ger H Oja M Poutanen etc
 
 Fundamental Astronomy H. Karttunen, P. Kröger, H. Oja, M. Poutanen, K.J. Donner (Eds.)
 

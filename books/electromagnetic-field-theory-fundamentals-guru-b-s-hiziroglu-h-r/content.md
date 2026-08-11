@@ -1,4 +1,4 @@
-# Electromagnetic Field Theory Fundamentals Guru B S Hiziroglu H R Z Library
+# Electromagnetic Field Theory Fundamentals Guru B S Hiziroglu H R
 
 Electromagnetic GuruandHizirogˇluhaveproducedanaccessibleanduser-friendlytext onelectromagneticsthatwillappealtobothstudentsandlecturersteach- Field Theory ingthiscourse.Thislivelybookincludesmanyworkedexamplesand Fundamentals problemsineverychapter,aswellaschaptersummariesandbackground revisionmaterialwhereappropriate.Thebookintroducesundergraduate studentstothebasicconceptsofelectrostaticandmagnetostaticfields, beforemovingontocoverMaxwell’sequations,propagation,transmis- sion,andradiation.Sectionsonthefiniteelementandfinitedifference method, and a detailed appendix on the Smith chart, are additional enhancements.
 

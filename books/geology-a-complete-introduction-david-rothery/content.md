@@ -1,4 +1,4 @@
-# Geology A Complete Introduction David Rothery Z Library
+# Geology A Complete Introduction David Rothery
 
 Geology A Complete Introduction
 

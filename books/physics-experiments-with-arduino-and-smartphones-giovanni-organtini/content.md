@@ -1,4 +1,4 @@
-# Physics Experiments with Arduino and Smartphones Giovanni Organtini Z Library
+# Physics Experiments with Arduino and Smartphones Giovanni Organtini
 
 Undergraduate Texts in Physics Giovanni Organtini Physics Experiments with Arduino and Smartphones
 

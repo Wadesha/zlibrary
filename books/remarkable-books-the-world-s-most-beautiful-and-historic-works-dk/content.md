@@ -1,4 +1,4 @@
-# Remarkable Books The World s Most Beautiful and Historic Works DK Z Library
+# Remarkable Books The World s Most Beautiful and Historic Works DK
 
 BOOKS REMARKABLE
 

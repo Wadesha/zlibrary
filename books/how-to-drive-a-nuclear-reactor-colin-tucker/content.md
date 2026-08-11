@@ -1,4 +1,4 @@
-# How to Drive a Nuclear Reactor Colin Tucker Z Library
+# How to Drive a Nuclear Reactor Colin Tucker
 
 How to Drive a Nuclear Reactor
 

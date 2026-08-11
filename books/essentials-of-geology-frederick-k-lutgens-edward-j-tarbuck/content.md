@@ -1,4 +1,4 @@
-# Essentials of geology Frederick K Lutgens Edward J Tarbuck Z Library
+# Essentials of geology Frederick K Lutgens Edward J Tarbuck
 
 This page intentionally left blank
 

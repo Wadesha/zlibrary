@@ -1,4 +1,4 @@
-# Physical science experiments Pamela Walker Elaine Wood Z Library
+# Physical science experiments Pamela Walker Elaine Wood
 
 Facts On File Science Experiments: Physical Science Experiments by Pamela Walker and Elaine Wood
 

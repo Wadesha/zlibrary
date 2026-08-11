@@ -1,4 +1,4 @@
-# Whats That Rock or Mineral DK Tom Jackson Z Library
+# Whats That Rock or Mineral DK Tom Jackson
 
 Tom Jackson rock or MINErAL?
 

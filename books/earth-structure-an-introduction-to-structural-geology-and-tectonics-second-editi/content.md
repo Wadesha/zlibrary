@@ -1,4 +1,4 @@
-# Earth Structure An Introduction to Structural Geology and Tectonics Second Edition Ben A van der Pluijm Stephen Marshak Z Library
+# Earth Structure An Introduction to Structural Geology and Tectonics Second Edition Ben A van der Pluijm Stephen Marshak
 
 E A R T H S T R U C T U R E A N  I N T R O D U C T I O N  T O S T R U C T U R A L  G E O L O G Y  A N D  T E C T O N I C S S E C O N D  E D I T I O N
 

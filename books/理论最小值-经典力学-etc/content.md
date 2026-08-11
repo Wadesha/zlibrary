@@ -1,4 +1,4 @@
-# 理论最小值 经典力学 etc Z Library
+# 理论最小值 经典力学 etc
 
 To our spouses those who have chosen to put up with us, and to the students of Professor Susskind's Continuing Education Courses 献给我们的另一半 她们选择与我们同甘共苦 同样献给 参加萨斯坎德教授继续教育课程的同学们
 

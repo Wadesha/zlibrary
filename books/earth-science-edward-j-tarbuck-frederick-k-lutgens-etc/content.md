@@ -1,4 +1,4 @@
-# Earth Science Edward J Tarbuck Frederick K Lutgens etc Z Library
+# Earth Science Edward J Tarbuck Frederick K Lutgens etc
 
 Earth Science
 

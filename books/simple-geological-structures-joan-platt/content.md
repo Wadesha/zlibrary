@@ -1,4 +1,4 @@
-# Simple Geological Structures Joan Platt Z Library
+# Simple Geological Structures Joan Platt
 
 Simple Geological Structures
 

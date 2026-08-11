@@ -1,4 +1,4 @@
-# Holt Physical Science California Edition Christie Ph D Borgford Mapi Ph D Cuevas etc Z Library
+# Holt Physical Science California Edition Christie Ph D Borgford Mapi Ph D Cuevas etc
 
 Contributing Authors Christie Borgford, Ph.D.
 

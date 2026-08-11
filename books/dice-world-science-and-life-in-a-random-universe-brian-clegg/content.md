@@ -1,4 +1,4 @@
-# Dice World Science and Life in a Random Universe Brian Clegg Z Library
+# Dice World Science and Life in a Random Universe Brian Clegg
 
 ## Chapter 0: Alea jacta est
 

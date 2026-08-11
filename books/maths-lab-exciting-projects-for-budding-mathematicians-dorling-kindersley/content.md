@@ -1,4 +1,4 @@
-# Maths Lab Exciting Projects for Budding Mathematicians Dorling Kindersley Z Library
+# Maths Lab Exciting Projects for Budding Mathematicians Dorling Kindersley
 
 A CIP catalogue record for this book is available from the British Library.
 

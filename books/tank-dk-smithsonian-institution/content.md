@@ -1,4 +1,4 @@
-# Tank DK Smithsonian Institution Z Library
+# Tank DK Smithsonian Institution
 
 TANK
 

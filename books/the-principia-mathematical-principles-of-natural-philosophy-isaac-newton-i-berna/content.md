@@ -1,4 +1,4 @@
-# The Principia Mathematical Principles of Natural Philosophy Isaac Newton I Bernard Cohen Anne Whitman etc Z Library
+# The Principia Mathematical Principles of Natural Philosophy Isaac Newton I Bernard Cohen Anne Whitman etc
 
 ISAAC NEWTON THE PRINCIPIA Mathematical Principles of Natural Philosophy A New Translation by I. Bernard Cohen and Anne Whitman assisted by Julia Budenz Preceded by A GUIDE TO NEWTON'S PRINCIPIA by I. Bernard Cohen U N I V E R S I T Y OF C A L I F O R N I A PRESS Berkeley Los Angeles London
 

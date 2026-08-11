@@ -1,4 +1,4 @@
-# Essentials of Geology Masteringgeology With Etext Access Card Frederick K Lutgens Edward J Tarbuck etc Z Library
+# Essentials of Geology Masteringgeology With Etext Access Card Frederick K Lutgens Edward J Tarbuck etc
 
 Boston   Columbus   Indianapolis   New York   San Francisco   Upper Saddle River Amsterdam   Cape Town   Dubai   London   Madrid   Milan   Munich   Paris   Montréal   Toronto Delhi   Mexico City   São Paulo   Sydney   Hong Kong   Seoul   Singapore   Taipei   Tokyo E s s e n t i a l s  o f g e o l o g y Frederick K. Lutgens Edward J. Tarbuck ILLUSTRATED BY Dennis Tasa 12e
 

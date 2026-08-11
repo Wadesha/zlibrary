@@ -1,4 +1,4 @@
-# 原子在我家中 ATOM IN THE FAMILY 美 费米夫人 Laura Fermi 著 何兆武 何芬奇译 Z Library
+# 原子在我家中 ATOM IN THE FAMILY 美 费米夫人 Laura Fermi 著 何兆武 何芬奇译
 
 原子在我家中 〔美〕费米夫人 著何芬奇 译
 

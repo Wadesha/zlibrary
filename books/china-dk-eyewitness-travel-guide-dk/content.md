@@ -1,4 +1,4 @@
-# China DK Eyewitness Travel Guide DK Z Library
+# China DK Eyewitness Travel Guide DK
 
 CHINA EYEWITNESS TRAVEL
 

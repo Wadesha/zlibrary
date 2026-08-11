@@ -1,4 +1,4 @@
-# Economics Today and Tomorrow Student Edition Glencoe McGraw Hill Z Library
+# Economics Today and Tomorrow Student Edition Glencoe McGraw Hill
 
 interactive student edition
 

@@ -1,4 +1,4 @@
-# Special Relativity and Classical Field Theory The Theoretical Minimum Leonard Susskind Art Friedman Z Library
+# Special Relativity and Classical Field Theory The Theoretical Minimum Leonard Susskind Art Friedman
 
 The publisher is not responsible for websites (or their content) that are not owned by the publisher.
 

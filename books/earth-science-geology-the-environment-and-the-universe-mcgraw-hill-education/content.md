@@ -1,4 +1,4 @@
-# Earth Science Geology the Environment and the Universe McGraw Hill Education Z Library
+# Earth Science Geology the Environment and the Universe McGraw Hill Education
 
 Go to the National Geographic Expedition on page 864 to learn more about topics that are con- nected to this unit.
 

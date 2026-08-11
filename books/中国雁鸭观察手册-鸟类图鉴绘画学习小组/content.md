@@ -1,4 +1,4 @@
-# 中国雁鸭观察手册 鸟类图鉴绘画学习小组 Z Library
+# 中国雁鸭观察手册 鸟类图鉴绘画学习小组
 
 中国雁鸭观察手册 Handbook to Anseri formes of Chi na 鸟类图鉴绘画学习小组 出品
 

@@ -1,4 +1,4 @@
-# Music The definitive visual history Smithsonian Institution Robert Ziegler Z Library
+# Music The definitive visual history Smithsonian Institution Robert Ziegler
 
 T H E  D E F I N I T I V E  V I S U A L  H I S T O RY MUSIC
 

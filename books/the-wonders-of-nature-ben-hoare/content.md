@@ -1,4 +1,4 @@
-# 自然的奇观（The Wonders of Nature）——本·霍尔（Ben Hoare），Z-Library
+# 自然的奇观（The Wonders of Nature）——本·霍尔（Ben Hoare），
 
 作者：本·霍尔（Ben Hoare）　插画：安吉拉·里扎（Angela Rizza）、丹尼尔·朗（Daniel Long）
 

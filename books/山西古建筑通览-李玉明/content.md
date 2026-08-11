@@ -1,4 +1,4 @@
-# 山西古建筑通览 李玉明 Z Library
+# 山西古建筑通览 李玉明
 
 山西省地名委員會•山西省古建築保護硏究所主編李玉明 副主編王寶庫柴澤俊山西古建築通覽 A PANORAMA OF ANCIENT CHINESE ARCHITECTURE IN SHANXI 山西人民出版社
 

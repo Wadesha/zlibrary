@@ -1,4 +1,4 @@
-# An Introduction to Game Theory Martin J Osborne Z Library
+# An Introduction to Game Theory Martin J Osborne
 
 Contents 1 Introduction 1
 

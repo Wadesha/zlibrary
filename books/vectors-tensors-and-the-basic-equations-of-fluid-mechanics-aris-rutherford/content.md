@@ -1,4 +1,4 @@
-# Vectors Tensors and the Basic Equations of Fluid Mechanics Aris Rutherford Z Library
+# Vectors Tensors and the Basic Equations of Fluid Mechanics Aris Rutherford
 
 Vectors, Tensors, and the Basic Equations of Fluid Mechanics Rutherford Aris Regents' Professor, University of Minnesota DOVER PUBLICATIONS, INC.
 

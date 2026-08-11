@@ -1,4 +1,4 @@
-# Calculus Graphical Numerical Algebraic Ross L Finney Franklin D Demana etc Z Library
+# Calculus Graphical Numerical Algebraic Ross L Finney Franklin D Demana etc
 
 Calculus Graphical, Numerical, Algebraic F i F t h  E d i t i o n AP® Edition
 

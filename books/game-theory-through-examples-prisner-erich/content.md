@@ -1,4 +1,4 @@
-# Game theory through examples Prisner Erich Z Library
+# Game theory through examples Prisner Erich
 
 Game Theory Through Examples Erich Prisner Franklin University Switzerland
 

@@ -1,4 +1,4 @@
-# Geological Field Techniques Angela L Coe Tom W Argles David A Rothery etc Z Library
+# Geological Field Techniques Angela L Coe Tom W Argles David A Rothery etc
 
 GEOLOGICAL FIELD TECHNIQUES
 

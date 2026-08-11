@@ -1,4 +1,4 @@
-# 万物运作原理：所有科学定律与现象图解演示 Adam Dant、Brian Clegg 著 Z Library
+# 万物运作原理：所有科学定律与现象图解演示 Adam Dant、Brian Clegg 著
 
 万物运作原理
 

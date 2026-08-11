@@ -1,4 +1,4 @@
-# Structural Geological Atlas Soumyajit Mukherjee Narayan Bose etc Z Library
+# Structural Geological Atlas Soumyajit Mukherjee Narayan Bose etc
 
 Soumyajit Mukherjee · Narayan Bose · Rajkumar Ghosh · Dripta Dutta · Achyuta Ayan Misra · Mohit Kumar · Swagato Dasgupta · Tuhin Biswas · Aditya Joshi · Manoj A. Limaye Structural Geological Atlas
 

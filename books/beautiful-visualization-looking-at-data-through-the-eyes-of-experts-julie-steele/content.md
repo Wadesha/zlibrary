@@ -1,4 +1,4 @@
-# Beautiful Visualization Looking at Data through the Eyes of Experts Julie Steele Noah Iliinsky Z Library
+# Beautiful Visualization Looking at Data through the Eyes of Experts Julie Steele Noah Iliinsky
 
 Beautiful Visualization
 

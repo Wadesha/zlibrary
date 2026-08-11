@@ -1,4 +1,4 @@
-# Selling DK Essential Managers Eric Baron Z Library
+# Selling DK Essential Managers Eric Baron
 
 ESSENTIAL MANAGERS Selling ERIC BARON
 

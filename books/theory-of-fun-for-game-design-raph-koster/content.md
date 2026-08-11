@@ -1,4 +1,4 @@
-# Theory of Fun for Game Design Raph Koster Z Library
+# Theory of Fun for Game Design Raph Koster
 
 A THEORY OF FUN for Game Design By Raph Koster
 

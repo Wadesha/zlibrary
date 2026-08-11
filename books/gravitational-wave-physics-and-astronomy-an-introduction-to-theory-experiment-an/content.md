@@ -1,4 +1,4 @@
-# Gravitational Wave Physics and Astronomy An Introduction to Theory Experiment and Data Analysis Jolien D E Creighton Warren G Anderson Z Library
+# Gravitational Wave Physics and Astronomy An Introduction to Theory Experiment and Data Analysis Jolien D E Creighton Warren G Anderson
 
 Jolien D. E. Creighton and Warren G. Anderson Gravitational-Wave Physics and Astronomy
 

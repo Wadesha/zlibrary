@@ -1,4 +1,4 @@
-# Illustrated Special Relativity Through Its Paradoxes Standard Edition A Fusion of Linear Algebra Graphics and Reality John de Pillis Jose Wudka Z Library
+# Illustrated Special Relativity Through Its Paradoxes Standard Edition A Fusion of Linear Algebra Graphics and Reality John de Pillis Jose Wudka
 
 Illustrated Special Relativity Through Its Paradoxes: A Fusion of Linear Algebra, Graphics, and Reality
 

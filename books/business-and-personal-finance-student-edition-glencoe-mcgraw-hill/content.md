@@ -1,4 +1,4 @@
-# Business and Personal Finance Student Edition Glencoe McGraw Hill Z Library
+# Business and Personal Finance Student Edition Glencoe McGraw Hill
 
 interactive student edition
 

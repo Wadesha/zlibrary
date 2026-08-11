@@ -1,4 +1,4 @@
-# illustrated Encyclopedia of the Universe Dorling Kindersley Z Library
+# illustrated Encyclopedia of the Universe Dorling Kindersley
 
 GENERAL EDITOR MARTIN REES “… SPECTACULARLY EXTENDS DK’S RUN OF PICTORIAL ENCYCLOPEDIAS INTO OUTER SPACE.” THE INDEPENDENT
 

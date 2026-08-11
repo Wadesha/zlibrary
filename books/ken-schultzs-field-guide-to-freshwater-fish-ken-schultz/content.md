@@ -1,4 +1,4 @@
-# Ken Schultzs Field Guide to Freshwater Fish Ken Schultz Z Library
+# Ken Schultzs Field Guide to Freshwater Fish Ken Schultz
 
 This guide is derived from the widely praised and award-winning volume Ken Schultz’s Fishing Encyclopedia. Weighing nearly 10 pounds and containing 1,916 pages of information in an 8.5- by 11-inch format, it is hardly a book that can be taken afield or casually perused. Among the many virtues of the encyclopedia is its detailed information about prey and predator species worldwide, which many people—including numerous lure designers, scientific researchers, and anglers—find very valuable and which is available nowhere else. To make it easier for people interested in the major North American fish species to reference this subject matter, that portion of the encyclopedia was excerpted into two compact and portable guides, Ken Schultz’s Field Guide to Freshwater Fish and Ken Schultz’s Field Guide to Saltwater Fish.
 

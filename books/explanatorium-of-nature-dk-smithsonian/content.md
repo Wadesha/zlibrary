@@ -1,4 +1,4 @@
-# Explanatorium of Nature DK Smithsonian Z Library
+# Explanatorium of Nature DK Smithsonian
 
 THE SMITHSONIAN Established in 1846, the Smithsonian—the world’s largest museum and research complex—includes 19 museums and galleries and the National Zoological Park. The total number of artifacts, works of art, and specimens in the Smithsonian’s collection is estimated at 154 million. The Smithsonian is a renowned research center, dedicated to public education, national service, and scholarship in the arts, sciences, and history.
 

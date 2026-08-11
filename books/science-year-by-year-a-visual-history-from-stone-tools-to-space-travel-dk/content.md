@@ -1,4 +1,4 @@
-# Science Year by Year A Visual History From Stone Tools to Space Travel DK Z Library
+# Science Year by Year A Visual History From Stone Tools to Space Travel DK
 
 Y E A R B Y  Y E A R Science
 

@@ -1,4 +1,4 @@
-# Design for how People Think John Whalen Z Library
+# Design for how People Think John Whalen
 
 Design for How People Think Using Brain Science to Build Better Products John Whalen, PhD Praise for Design for How People Think “This book takes John’s years of research and practice and turns them into an accessible, practical, and enjoyable read with a playful sense of humor. Regardless of the role you play on your team, the Six Minds framework and discovery techniques will help you unlock key insights about your customers and propel your product’s success.” HEATHER WINKLE, MANAGING VICE PRESIDENT OF DESIGN AT CAPITAL ONE “Design for How People Think reads just like a conversation with John—clear, engaging, and always quick to the point. This is a terrific book for people new to UX research or who work with UX and want to better understand its role in the product design process.
 

@@ -1,4 +1,4 @@
-# The Britannica Guide to the Brain Steven Rose Z Library
+# The Britannica Guide to the Brain Steven Rose
 
 (cid:1)(cid:2)(cid:3)(cid:4)(cid:3)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:10)(cid:14)(cid:11)(cid:2)(cid:2)(cid:10)(cid:3)(cid:11)(cid:15)(cid:16)(cid:2)(cid:3)(cid:17)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:4)(cid:7)(cid:6)(cid:8)(cid:2)(cid:9)(cid:8)(cid:6)(cid:10)(cid:6)(cid:8)(cid:6)(cid:9)(cid:11)(cid:6)(cid:4)(cid:9)(cid:7)(cid:6)(cid:7)(cid:12)(cid:11)(cid:4)(cid:13)
 

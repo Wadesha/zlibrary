@@ -1,4 +1,4 @@
-# A Brief History of Infinity The Quest to Think the Unthinkable Brian Clegg Z Library
+# A Brief History of Infinity The Quest to Think the Unthinkable Brian Clegg
 
 BRIAN CLEGG is the author of the highly acclaimed Light Years and The First Scientist (published by Constable, 2002). While working for British Airways he set up the Emerging Technologies Group, responsible for researching cutting-edge technologies. He currently runs his own creative consultancy business.
 

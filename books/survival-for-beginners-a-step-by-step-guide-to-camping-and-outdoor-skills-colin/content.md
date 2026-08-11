@@ -1,4 +1,4 @@
-# Survival For Beginners A Step By Step Guide To Camping And Outdoor Skills Colin Towell Z Library
+# Survival For Beginners A Step By Step Guide To Camping And Outdoor Skills Colin Towell
 
 SURVIVAL FOR BEGINNERS
 

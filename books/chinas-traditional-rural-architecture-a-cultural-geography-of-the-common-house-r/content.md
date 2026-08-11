@@ -1,4 +1,4 @@
-# Chinas Traditional Rural Architecture A Cultural Geography of the Common House Ronald G Knapp Z Library
+# Chinas Traditional Rural Architecture A Cultural Geography of the Common House Ronald G Knapp
 
 China s Traditional Rural Architecture
 

@@ -1,4 +1,4 @@
-# 科学小队 丽莎·伯克 罗伯特·温斯顿 Z Library
+# 科学小队 丽莎·伯克 罗伯特·温斯顿
 
 作者：丽莎·伯克（Lisa Burke）　顾问：罗伯特·温斯顿教授（Professor Robert Winston）　科学小队　科学小队
 

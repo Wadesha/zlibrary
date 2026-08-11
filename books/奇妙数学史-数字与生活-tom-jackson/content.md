@@ -1,4 +1,4 @@
-# 奇妙数学史 数字与生活 Tom Jackson Z Library
+# 奇妙数学史 数字与生活 Tom Jackson
 
 科学新悦读文丛 Numbers How Counting Changed the World 奇妙数学史　数字与生活 [英]汤姆·杰克逊（Tom Jackson）　著 张诚　梁超　译 人民邮电出版社 北京
 

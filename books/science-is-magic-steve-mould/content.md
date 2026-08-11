@@ -1,4 +1,4 @@
-# 科学就是魔法（Science Is Magic）史蒂夫·莫尔德（Steve Mould）Z Library
+# 科学就是魔法（Science Is Magic）史蒂夫·莫尔德（Steve Mould）
 
 史蒂夫·莫尔德（Steve Mould）　《科学就是魔法》（Science Is Magic）　著
 

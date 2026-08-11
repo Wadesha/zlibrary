@@ -1,4 +1,4 @@
-# Physical Science Eighth Edition Bill W Tillery Z Library
+# Physical Science Eighth Edition Bill W Tillery
 
 PHYSICALSCIENCE
 

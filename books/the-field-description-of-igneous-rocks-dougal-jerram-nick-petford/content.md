@@ -1,4 +1,4 @@
-# The Field Description of Igneous Rocks Dougal Jerram Nick Petford Z Library
+# The Field Description of Igneous Rocks Dougal Jerram Nick Petford
 
 Wiley-BlackwellisanimprintofJohnWiley&Sons,formedbythemergerofWiley’sglobalScientific, TechnicalandMedicalbusinesswithBlackwellPublishing.
 

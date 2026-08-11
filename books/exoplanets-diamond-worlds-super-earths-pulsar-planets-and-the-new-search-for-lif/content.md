@@ -1,4 +1,4 @@
-# Exoplanets Diamond Worlds Super Earths Pulsar Planets and the New Search for Life Beyond Our Solar System Michael E Summers James Trefil Z Library
+# Exoplanets Diamond Worlds Super Earths Pulsar Planets and the New Search for Life Beyond Our Solar System Michael E Summers James Trefil
 
 Published by Smithsonian Books.
 

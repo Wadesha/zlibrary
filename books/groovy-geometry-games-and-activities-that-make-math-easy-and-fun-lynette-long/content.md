@@ -1,4 +1,4 @@
-# Groovy Geometry Games and Activities That Make Math Easy and Fun Lynette Long Z Library
+# Groovy Geometry Games and Activities That Make Math Easy and Fun Lynette Long
 
 Magical Math ROOVY EO M E T R Y Games and Activities That Make Math Easy and Fun Lynette Long John Wiley & Sons, Inc.
 

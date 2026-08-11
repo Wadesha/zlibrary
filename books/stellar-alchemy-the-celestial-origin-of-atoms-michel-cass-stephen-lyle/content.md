@@ -1,4 +1,4 @@
-# Stellar alchemy the celestial origin of atoms Michel Cass Stephen Lyle Z Library
+# Stellar alchemy the celestial origin of atoms Michel Cass Stephen Lyle
 
 Stellar Alchemy The Celestial Origin of Atoms
 

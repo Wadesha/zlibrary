@@ -1,4 +1,4 @@
-# A Students Guide to Atomic Physics Mark Fox Z Library
+# A Students Guide to Atomic Physics Mark Fox
 
 A Student’s Guide to Atomic Physics This concise and accessible book provides a detailed introduction to the fundamental principles of atomic physics at an undergraduate level. Concepts are explained in an intuitive way, and the book assumes only a basic knowledge of quantum mechanics and electromagnetism. With a compact format specifically designed for students, the first part of the book covers the key principles of the subject, including quantum theory of the hydrogen atom, radiative transitions, the shell model of multi-electron atoms, spin–orbit coupling, and the effects of external fields. The second part provides an introduction to four key applications of atomic physics: lasers, cold atoms, solid-state spectroscopy, and astrophysics. This highly pedagogical text includes worked examples and end-of-chapter problems to allow students to test their knowledge, as well as numerous diagrams of key concepts, making it perfect for undergraduate students looking for a succinct primer on the concepts and applications of atomic physics.
 

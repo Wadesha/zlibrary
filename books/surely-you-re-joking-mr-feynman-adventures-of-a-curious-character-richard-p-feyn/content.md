@@ -1,4 +1,4 @@
-# Surely You re Joking Mr Feynman Adventures of a Curious Character Richard P Feynman Bill Gates Ralph Leighton Z Library
+# Surely You re Joking Mr Feynman Adventures of a Curious Character Richard P Feynman Bill Gates Ralph Leighton
 
 Contents Cover About the Book About the Author Title Page Preface Introduction by Albert R. Hibbs Vitals
 

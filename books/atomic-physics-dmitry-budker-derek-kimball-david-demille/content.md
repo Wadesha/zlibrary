@@ -1,4 +1,4 @@
-# Atomic Physics Dmitry Budker Derek Kimball David DeMille Z Library
+# Atomic Physics Dmitry Budker Derek Kimball David DeMille
 
 ATOMIC PHYSICS An Exploration through Problems and Solutions
 

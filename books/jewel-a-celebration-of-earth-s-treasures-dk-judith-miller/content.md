@@ -1,4 +1,4 @@
-# Jewel A Celebration of Earth s Treasures DK Judith Miller Z Library
+# Jewel A Celebration of Earth s Treasures DK Judith Miller
 
 JEWEL
 

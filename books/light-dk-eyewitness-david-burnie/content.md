@@ -1,4 +1,4 @@
-# 光 DK Eyewitness David Burnie Z Library
+# 光 DK Eyewitness David Burnie
 
 Eyewitness 光 ( )
 

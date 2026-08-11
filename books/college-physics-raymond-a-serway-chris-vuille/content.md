@@ -1,4 +1,4 @@
-# College Physics Raymond A Serway Chris Vuille Z Library
+# College Physics Raymond A Serway Chris Vuille
 
 Raymond A. Serway
 

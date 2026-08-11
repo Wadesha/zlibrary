@@ -1,4 +1,4 @@
-# Quantum Physics for Beginners Discover the Science of Quantum Mechanics and Learn the Basic Concepts from Interference to Golding Daniel Z Library
+# Quantum Physics for Beginners Discover the Science of Quantum Mechanics and Learn the Basic Concepts from Interference to Golding Daniel
 
 quantum physics for beginners
 

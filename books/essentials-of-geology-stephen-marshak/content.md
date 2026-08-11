@@ -1,4 +1,4 @@
-# Essentials of Geology Stephen Marshak Z Library
+# Essentials of Geology Stephen Marshak
 
 Publisher’s Notice Please note that this version of the ebook does not include access to any media or print supplements that are sold packaged with the printed book.
 

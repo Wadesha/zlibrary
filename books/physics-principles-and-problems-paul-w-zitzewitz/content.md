@@ -1,4 +1,4 @@
-# Physics Principles and Problems Paul W Zitzewitz Z Library
+# Physics Principles and Problems Paul W Zitzewitz
 
 interactive student edition
 

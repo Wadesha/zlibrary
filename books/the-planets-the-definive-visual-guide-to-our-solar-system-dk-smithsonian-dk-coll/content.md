@@ -1,4 +1,4 @@
-# The Planets The Definive Visual Guide to our Solar System DK SMITHSONIAN DK collective Z Library
+# The Planets The Definive Visual Guide to our Solar System DK SMITHSONIAN DK collective
 
 s m i t h s o n i a n
 

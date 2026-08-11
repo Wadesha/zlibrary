@@ -1,4 +1,4 @@
-# Explanatorium of History From the First Tools to the Climate Crisis DK Dorling Kindersley Z Library
+# Explanatorium of History From the First Tools to the Climate Crisis DK Dorling Kindersley
 
 A CIP catalogue record for this book is available from the British Library.
 

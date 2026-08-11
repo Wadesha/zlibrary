@@ -1,4 +1,4 @@
-# Theory and Experiment in Gravitational Physics Clifford M Will Z Library
+# Theory and Experiment in Gravitational Physics Clifford M Will
 
 Theory and Experiment in Gravitational Physics
 

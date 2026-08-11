@@ -1,4 +1,4 @@
-# Universe The Definitive Visual Guide New Edition Martin Rees Z Library
+# Universe The Definitive Visual Guide New Edition Martin Rees
 
 General Editor Martin Rees S M I T H S O N I A N UNIVERSE THE DEFINITIVE VISUAL GUIDE
 

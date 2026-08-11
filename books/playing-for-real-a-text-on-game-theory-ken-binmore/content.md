@@ -1,4 +1,4 @@
-# Playing for Real A Text on Game Theory Ken Binmore Z Library
+# Playing for Real A Text on Game Theory Ken Binmore
 
 Playing for Real
 

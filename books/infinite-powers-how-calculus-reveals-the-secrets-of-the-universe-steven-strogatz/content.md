@@ -1,4 +1,4 @@
-# Infinite Powers How Calculus Reveals the Secrets of the Universe Steven Strogatz Z Library
+# Infinite Powers How Calculus Reveals the Secrets of the Universe Steven Strogatz
 
 STEVEN STROGATZ How CALCULUS Reveals the Secrets of the Universe Without calculus, we wouldn’t have cell phones, TV, GPS, or ultrasound.
 

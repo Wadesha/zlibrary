@@ -1,4 +1,4 @@
-# 鸟瞰古文明 Jean Claude Golvin Z Library
+# 鸟瞰古文明 Jean Claude Golvin
 
 雹 "
 

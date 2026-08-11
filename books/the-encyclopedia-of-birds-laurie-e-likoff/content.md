@@ -1,4 +1,4 @@
-# The Encyclopedia of Birds Laurie E Likoff Z Library
+# The Encyclopedia of Birds Laurie E Likoff
 
 BIRDS BIRDS THE ENCYCLOPEDIA OF
 

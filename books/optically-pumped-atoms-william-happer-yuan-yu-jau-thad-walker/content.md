@@ -1,4 +1,4 @@
-# Optically Pumped Atoms William Happer Yuan Yu Jau Thad Walker Z Library
+# Optically Pumped Atoms William Happer Yuan Yu Jau Thad Walker
 
 Optically Pumped Atoms
 

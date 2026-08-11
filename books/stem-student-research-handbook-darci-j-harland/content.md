@@ -1,4 +1,4 @@
-# STEM Student Research Handbook Darci J Harland Z Library
+# STEM Student Research Handbook Darci J Harland
 
 Harland STUDENT RESEARCH HANDBOOK
 

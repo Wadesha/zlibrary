@@ -1,4 +1,4 @@
-# Janice VanCleaves Guide to the Best Science Fair Projects Janice VanCleave Z Library
+# Janice VanCleaves Guide to the Best Science Fair Projects Janice VanCleave
 
 Janice VanCleave's Guide to the Best Science Fair Projects Janice VanCleave
 

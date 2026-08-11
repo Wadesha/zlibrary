@@ -1,4 +1,4 @@
-# Weapon A Visual History of Arms and Armor Roger Ford R G Grant A Gilbert etc Z Library
+# Weapon A Visual History of Arms and Armor Roger Ford R G Grant A Gilbert etc
 
 weapon b a v i s u a l h i s t o r y o f a r m s a n d a r m o r
 

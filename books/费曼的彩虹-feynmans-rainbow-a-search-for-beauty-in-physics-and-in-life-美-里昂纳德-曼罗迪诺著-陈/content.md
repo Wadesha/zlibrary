@@ -1,4 +1,4 @@
-# 费曼的彩虹 Feynmans Rainbow A Search for Beauty in Physics and in Life 美 里昂纳德 曼罗迪诺著 陈雅云译 Z Library
+# 费曼的彩虹 Feynmans Rainbow A Search for Beauty in Physics and in Life 美 里昂纳德 曼罗迪诺著 陈雅云译
 
 费曼的彩虹：物理大师的最后24堂课 Feynman's Rainbow: A Search for Beauty in Physics and in Life 里昂纳德·曼罗迪诺 著 陈雅云 译
 

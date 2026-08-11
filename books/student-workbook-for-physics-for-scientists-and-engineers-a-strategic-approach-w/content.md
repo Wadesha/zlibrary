@@ -1,4 +1,4 @@
-# Student Workbook for Physics for Scientists and Engineers A Strategic Approach with Modern Physics Knight Randall D Z Library
+# Student Workbook for Physics for Scientists and Engineers A Strategic Approach with Modern Physics Knight Randall D
 
 All trademarks used herein are the property of their respective owners. The use of any trademark in this text does not vest in the author or publisher any trademark ownership rights in such trademarks, nor does the use of such trademarks imply any affi liation with or endorsement of this book by such owners.
 

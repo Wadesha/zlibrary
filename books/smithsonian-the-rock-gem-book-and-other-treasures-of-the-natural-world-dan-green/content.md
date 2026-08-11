@@ -1,4 +1,4 @@
-# 史密森尼岩石与宝石书及自然世界的其他珍宝 丹·格林 Z Library
+# 史密森尼岩石与宝石书及自然世界的其他珍宝 丹·格林
 
 前言 我们的岩石星球 岩石 火成岩 花岗岩 火山岩 玄武岩 狂暴的地球 变质岩 大理石 沉积岩 砂岩 彩虹山 来自外太空的岩石 陨石坑 岩石循环 岩石 矿物与宝石 天然矿物 金 银 钻石 铜 巨型矿场 硫化物 黄铁矿 矿石矿物 氧化物 冰 冰层之下 荧光矿物 矿物与宝石 DK印度 高级编辑 Bharti Bedi 项目美术编辑 Pooja Pipil 编辑 Deeksha Saikia 美术编辑 Tanvi Sahu、Vikas Chauhan、Alpana Aditya、Sonali Rawat 助理美术编辑 Priyanka Bansal 高级排版设计 Harish Aggarwal 排版设计 Jaypal Chauhan、Nityanand Kumar 图片研究员 Nishwan Rasool 封面设计 Surabhi Wadhwa 制作统筹编辑 Saloni Singh 预制作经理 Balwant Singh 制作经理 Pankaj Sharma 图片研究经理 Taiyaba Khatoon 管理编辑 Kingshuk Ghoshal 管理美术编辑 Govind Mittal
 

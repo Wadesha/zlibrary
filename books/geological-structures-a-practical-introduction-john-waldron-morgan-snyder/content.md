@@ -1,4 +1,4 @@
-# Geological Structures A Practical Introduction John Waldron Morgan Snyder Z Library
+# Geological Structures A Practical Introduction John Waldron Morgan Snyder
 
 Geological Structures: a Practical Introduction
 

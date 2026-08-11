@@ -1,4 +1,4 @@
-# Inventions A Visual Encyclopedia DK Smithsonian Z Library
+# Inventions A Visual Encyclopedia DK Smithsonian
 
 Inventions a visual encyclopedia
 

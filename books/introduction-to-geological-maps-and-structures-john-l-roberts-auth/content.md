@@ -1,4 +1,4 @@
-# Introduction to Geological Maps and Structures John L Roberts Auth Z Library
+# Introduction to Geological Maps and Structures John L Roberts Auth
 
 Other Related Pergamon Titles of Interest
 

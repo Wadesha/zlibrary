@@ -1,4 +1,4 @@
-# Living off The Grid A Guide on How to Live Off the Land and Become Self Sufficient Through Homesteading Dion Rosser Z Library
+# Living off The Grid A Guide on How to Live Off the Land and Become Self Sufficient Through Homesteading Dion Rosser
 
 Living off The Grid: A Guide on How to Live Off the Land and Become Self-Sufficient Through Homesteading
 

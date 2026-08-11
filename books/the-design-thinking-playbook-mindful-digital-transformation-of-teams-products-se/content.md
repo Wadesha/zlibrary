@@ -1,4 +1,4 @@
-# The Design Thinking Playbook Mindful Digital Transformation of Teams Products Services Businesses and Ecosystems Michael Lewrick Z Library
+# The Design Thinking Playbook Mindful Digital Transformation of Teams Products Services Businesses and Ecosystems Michael Lewrick
 
 Published by John Wiley & Sons, Inc., Hoboken, New Jersey.
 

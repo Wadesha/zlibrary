@@ -1,4 +1,4 @@
-# How to Be Good at Maths The Simplest Ever Visual Guide Carol Vorderman Z Library
+# How to Be Good at Maths The Simplest Ever Visual Guide Carol Vorderman
 
 maths at How to be good
 

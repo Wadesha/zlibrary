@@ -1,4 +1,4 @@
-# Great City Maps DK Z Library
+# Great City Maps DK
 
 s m i t h s o n i a n CITYMAPS GREAT A historical journey through maps, plans, and paintings
 

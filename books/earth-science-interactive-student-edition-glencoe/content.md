@@ -1,4 +1,4 @@
-# Earth Science Interactive Student Edition Glencoe Z Library
+# Earth Science Interactive Student Edition Glencoe
 
 interactive student edition
 

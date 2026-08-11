@@ -1,4 +1,4 @@
-# DK 科学实验室（DK Publishing，Z Library）
+# DK 科学实验室（DK Publishing，
 
 科学实验室
 

@@ -1,4 +1,4 @@
-# Quantum Mechanics The Theoretical Minimum Leonard Susskind Art Friedman Z Library
+# Quantum Mechanics The Theoretical Minimum Leonard Susskind Art Friedman
 
 QUANTUM MECHANICS The Theoretical Minimum LEONARD SUSSKIND and ART FRIEDMAN
 

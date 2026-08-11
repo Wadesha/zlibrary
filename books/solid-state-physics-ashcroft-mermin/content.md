@@ -1,4 +1,4 @@
-# Solid State Physics Ashcroft Mermin Z Library
+# Solid State Physics Ashcroft Mermin
 
 Solid State Physics
 

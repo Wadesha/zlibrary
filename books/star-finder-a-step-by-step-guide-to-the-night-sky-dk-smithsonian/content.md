@@ -1,4 +1,4 @@
-# 寻星者 夜空分步观星指南 DK Smithsonian Z Library
+# 寻星者 夜空分步观星指南 DK Smithsonian
 
 寻星者！
 

@@ -1,4 +1,4 @@
-# Experiments in modern physics Adrian C Melissinos Jim Napolitano Z Library
+# Experiments in modern physics Adrian C Melissinos Jim Napolitano
 
 EXPERIMENTS IN MODERN PHYSICS Second Edition Adrian C. Melissinos UNIVERSITY OF ROCJI.DSTER Jim Napolita,io ~@ ACADEMIC PRESS An imprint of Elsevier Science Amsterdam Boston. London Ne:wYork Oxford Paris SaoDiego San Frandsco Singapore Sydney . Tokyo Senior Publishing &liter Jeremy Hayhurst Senior Project Main1F Ju,i.oEspcros Editorial Cootdinator Noa Donaghy Product M.anaga- Anne O'Ma.ra Covcr Des.ig.n Dick HannlL~ CopyeditoT Cl'Ull'les LautktT Jt.
 

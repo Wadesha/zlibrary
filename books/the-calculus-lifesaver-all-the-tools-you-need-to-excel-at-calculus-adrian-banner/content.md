@@ -1,4 +1,4 @@
-# The Calculus Lifesaver All the Tools You Need to Excel at Calculus Adrian Banner Z Library
+# The Calculus Lifesaver All the Tools You Need to Excel at Calculus Adrian Banner
 
 The Calculus Lifesaver
 

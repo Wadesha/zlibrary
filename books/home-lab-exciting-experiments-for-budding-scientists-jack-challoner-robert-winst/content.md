@@ -1,4 +1,4 @@
-# 家庭实验室：给未来科学家的精彩实验（Home Lab: Exciting Experiments for Budding Scientists），作者 Jack Challoner、Robert Winston（Z-Library）
+# 家庭实验室：给未来科学家的精彩实验（Home Lab: Exciting Experiments for Budding Scientists），作者 Jack Challoner、Robert Winston
 
 给未来科学家的精彩实验 家庭实验室
 

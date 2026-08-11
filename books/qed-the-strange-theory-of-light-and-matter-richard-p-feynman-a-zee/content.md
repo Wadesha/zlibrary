@@ -1,4 +1,4 @@
-# QED The Strange Theory of Light and Matter Richard P Feynman A Zee Z Library
+# QED The Strange Theory of Light and Matter Richard P Feynman A Zee
 
 QED
 

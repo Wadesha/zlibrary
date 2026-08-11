@@ -1,4 +1,4 @@
-# Birds of East Asia Eastern China Taiwan Korea Japan Eastern Russia Brazil Mark Z Library
+# Birds of East Asia Eastern China Taiwan Korea Japan Eastern Russia Brazil Mark
 
 H e l m  F i e l d  G u i d e S Mark Brazil Eastern China • Taiwan • Korea Japan • Eastern Russia Birds of East Asia
 

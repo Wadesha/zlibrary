@@ -1,4 +1,4 @@
-# 心理学之书 DK Z Library
+# 心理学之书 DK
 
 Jonathan Metcalf 于英国由 Dorling Kindersley 有限公司出版，装帧设计由 Dorling Kindersley 有限公司负责。
 

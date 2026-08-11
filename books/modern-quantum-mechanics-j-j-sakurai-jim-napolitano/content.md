@@ -1,4 +1,4 @@
-# Modern Quantum Mechanics J J Sakurai Jim Napolitano Z Library
+# Modern Quantum Mechanics J J Sakurai Jim Napolitano
 
 Modern Quantum Mechanics
 

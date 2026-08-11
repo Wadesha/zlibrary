@@ -1,4 +1,4 @@
-# Micro Life Miracles of the Miniature World Revealed DK Z Library
+# Micro Life Miracles of the Miniature World Revealed DK
 
 MICRO LIFE MIRACLES OF THE MINIATURE WORLD REVEALED S M I T H S O N I A N
 

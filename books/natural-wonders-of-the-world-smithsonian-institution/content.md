@@ -1,4 +1,4 @@
-# Natural wonders of the world Smithsonian Institution Z Library
+# Natural wonders of the world Smithsonian Institution
 
 NATURAL O F  T H E  W O R L D WONDERS
 

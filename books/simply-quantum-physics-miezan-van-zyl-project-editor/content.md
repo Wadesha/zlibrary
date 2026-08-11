@@ -1,4 +1,4 @@
-# Simply Quantum Physics Miezan van Zyl Project Editor Z Library
+# Simply Quantum Physics Miezan van Zyl Project Editor
 
 QUANTUM PHYSICS S I M P L Y
 

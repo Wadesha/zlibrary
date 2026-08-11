@@ -1,4 +1,4 @@
-# The Cooks Herb Garden Jeff Cox Marie Pierre Moine Z Library
+# The Cooks Herb Garden Jeff Cox Marie Pierre Moine
 
 Published in Great Britain by Dorling Kindersley Limited.
 

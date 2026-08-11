@@ -1,4 +1,4 @@
-# The Lazy Universe An Introduction to the Principle of Least Action Jennifer Coopersmith Z Library
+# The Lazy Universe An Introduction to the Principle of Least Action Jennifer Coopersmith
 
 From the archives of the Dublin Institute for Advanced Studies
 

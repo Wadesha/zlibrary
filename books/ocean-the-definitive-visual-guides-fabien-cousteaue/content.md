@@ -1,4 +1,4 @@
-# Ocean The Definitive Visual Guides Fabien Cousteaue Z Library
+# Ocean The Definitive Visual Guides Fabien Cousteaue
 
 THE DEFINITIVE VISUAL GUIDE
 

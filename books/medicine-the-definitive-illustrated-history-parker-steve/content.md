@@ -1,4 +1,4 @@
-# Medicine The Definitive Illustrated History Parker Steve Z Library
+# Medicine The Definitive Illustrated History Parker Steve
 
 THE DEFINITIVE ILLUSTRATED HISTORY MEDICINE
 

@@ -1,4 +1,4 @@
-# Astronomy A Visual Guide DK Z Library
+# Astronomy A Visual Guide DK
 
 A VISUAL GUIDE Astronomy
 

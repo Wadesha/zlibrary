@@ -1,4 +1,4 @@
-# DK The Survival Handbook Colin Towell Z Library
+# DK The Survival Handbook Colin Towell
 
 COLIN TOWELL ESSENTIAL SKILLS FOR OUTDOOR ADVENTURE SURVIVAL THEHANDBOOK
 

@@ -1,4 +1,4 @@
-The Britannica Guide to Modern China Britannica Guide To eBook Britannica Z Library
+The Britannica Guide to Modern China Britannica Guide To eBook Britannica
 
 Introduction to the Study of Language
 

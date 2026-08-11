@@ -1,4 +1,4 @@
-# The Science of Animals Inside their Secret World D K Publishing Smithsonian Institution Z Library
+# The Science of Animals Inside their Secret World D K Publishing Smithsonian Institution
 
 The of S C I E N C E ANIMALS
 

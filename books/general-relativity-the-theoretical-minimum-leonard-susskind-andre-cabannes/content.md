@@ -1,4 +1,4 @@
-# General Relativity The Theoretical Minimum Leonard Susskind Andre Cabannes Z Library
+# General Relativity The Theoretical Minimum Leonard Susskind Andre Cabannes
 
 General Relativity The Theoretical Minimum What You Need to Know to Start Doing Physics Leonard Susskind & Andre Cabannes
 

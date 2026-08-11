@@ -1,4 +1,4 @@
-# Physics Laboratory Experiments Jerry D Wilson Cecilia A Hern ndez Hall Z Library
+# Physics Laboratory Experiments Jerry D Wilson Cecilia A Hern ndez Hall
 
 公制前缀 Multiple Name Abbreviation 1,000,000,000,000,000,000 1018 exa E 1,000,000,000,000,000 1015 peta P 1,000,000,000,000 1012 tera T 1,000,000,000 109 giga G 1,000,000 106 mega M 1,000 103 kilo k 100 102 hecto h 10 101 deka da 1 1 — —
 

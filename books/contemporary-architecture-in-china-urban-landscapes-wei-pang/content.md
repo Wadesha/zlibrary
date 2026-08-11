@@ -1,4 +1,4 @@
-Contemporary Architecture in China Urban Landscapes Wei Pang Z Library
+Contemporary Architecture in China Urban Landscapes Wei Pang
 
 辽宁科学技术出版社 Edited by PANG Wei Translated by Sophia Song and FANG Huiqian CONTEMPORARY ARCHITECTURE IN CHINA 城市景观 URBAN LANDSCAPES 建筑大系中国当代庞伟/编  宋丹丹 方慧倩/译
 

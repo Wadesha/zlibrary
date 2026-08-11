@@ -1,4 +1,4 @@
-# Study Guide for University Physics Hugh D Young Roger Freedman Laird Kramer Z Library
+# Study Guide for University Physics Hugh D Young Roger Freedman Laird Kramer
 
 .
 

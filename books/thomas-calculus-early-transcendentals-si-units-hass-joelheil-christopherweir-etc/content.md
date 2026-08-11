@@ -1,4 +1,4 @@
-# Thomas Calculus Early Transcendentals SI Units Hass JoelHeil ChristopherWeir etc Z Library
+# Thomas Calculus Early Transcendentals SI Units Hass JoelHeil ChristopherWeir etc
 
 GLOBAL EDITION THOMAS’ CALCULUS Early Transcendentals FIFTEENTH EDITION IN SI UNITS Hass • Heil • Bogacki • Weir
 

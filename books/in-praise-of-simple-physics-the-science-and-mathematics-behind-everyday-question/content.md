@@ -1,4 +1,4 @@
-# In Praise of Simple Physics The Science and Mathematics behind Everyday Questions Paul J Nahin Z Library
+# In Praise of Simple Physics The Science and Mathematics behind Everyday Questions Paul J Nahin
 
 In Praise of Simple Physics Paul J. Nahin
 

@@ -1,4 +1,4 @@
-# How to Be Good at Science Technology and Engineering DK Z Library
+# How to Be Good at Science Technology and Engineering DK
 
 S N Science, at How to Be Good Technology & Engineering
 

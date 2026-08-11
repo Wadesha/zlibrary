@@ -1,4 +1,4 @@
-# The Plant Observers Guidebook A Field Botany Manual for the Amateur Naturalist Charles Edmund Roth Z Library
+# The Plant Observers Guidebook A Field Botany Manual for the Amateur Naturalist Charles Edmund Roth
 
 This volume is dedicated to the provocative teaching of Leonard J. Bradley, Wendell C. Camp, and May Thielgaard Watt, with the sincere hope that it may stimulate others as they did me.
 

@@ -1,4 +1,4 @@
-# Data Visualization For Design Thinking Applied Mapping Winifred E Newman Z Library
+# Data Visualization For Design Thinking Applied Mapping Winifred E Newman
 
 Data Visualization for Design Thinking helps designers make better maps. Treating maps as applied research, you will be able to understand how to map sites, places, ideas, and projects, revealing the complex relationships between representation, thinking, technology, culture, and aesthetic practices. More than 100 examples illustrated with over 200 color images show you how to visualize data through mapping. Includes five in-depth case studies and numerous examples throughout.
 

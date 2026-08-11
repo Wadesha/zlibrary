@@ -1,4 +1,4 @@
-# Atoms in the Family My Life with Enrico Fermi Laura Fermi Z Library
+# Atoms in the Family My Life with Enrico Fermi Laura Fermi
 
 ATOMS IN THE FAMILY My Life with Enrico Fermi by LAURA FERMI The University of Chicago Press Chicago & London
 

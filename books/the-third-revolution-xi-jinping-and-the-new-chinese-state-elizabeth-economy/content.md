@@ -1,4 +1,4 @@
-# The Third Revolution XI Jinping and the New Chinese State Elizabeth Economy Z Library
+# The Third Revolution XI Jinping and the New Chinese State Elizabeth Economy
 
 The request was rejected because it was considered high risk The request was rejected because it was considered high risk The request was rejected because it was considered high risk The request was rejected because it was considered high risk The request was rejected because it was considered high risk The request was rejected because it was considered high risk The request was rejected because it was considered high risk The request was rejected because it was considered high risk to replace Chen Liangyu—who was at the center of a pension fund scandal involving hundreds of millions of dollars—was widely believed to be a testament to Xi’s incorruptibility.58 As general secretary, Xi’s selection of the highly respected and talented vice-premier Wang Qishan to lead the first five years of the campaign through the CCDI further underscored the importance of the campaign to Xi.59
 

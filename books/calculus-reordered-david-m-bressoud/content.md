@@ -1,4 +1,4 @@
-# Calculus Reordered David M Bressoud Z Library
+# Calculus Reordered David M Bressoud
 
 CALCULUS REORDERED
 

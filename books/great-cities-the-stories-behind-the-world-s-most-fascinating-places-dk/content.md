@@ -1,4 +1,4 @@
-# Great Cities The Stories Behind the World s most Fascinating Places DK Z Library
+# Great Cities The Stories Behind the World s most Fascinating Places DK
 
 G R E A T C I T I ES THE STORIES BEHIND THE WORLD’S MOST FASCINATING PLACES
 

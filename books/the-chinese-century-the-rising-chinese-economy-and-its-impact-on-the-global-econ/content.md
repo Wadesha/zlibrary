@@ -1,4 +1,4 @@
-# The Chinese Century The Rising Chinese Economy and Its Impact on the Global Economy the Balance of Power and Your Job Oded Shenkar Z Library
+# The Chinese Century The Rising Chinese Economy and Its Impact on the Global Economy the Balance of Power and Your Job Oded Shenkar
 
 The Chinese Century: The Rising Chinese Economy and Its Impact on the Global Economy, the Balance of Power, and Your Job Oded Shenkar
 

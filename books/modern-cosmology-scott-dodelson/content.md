@@ -1,4 +1,4 @@
-# Modern Cosmology Scott Dodelson Z Library
+# Modern Cosmology Scott Dodelson
 
 ## 1.1 The Expanding Universe
 

@@ -1,4 +1,4 @@
-# Physics principles with applications Douglas C Giancoli Z Library
+# Physics principles with applications Douglas C Giancoli
 
 S E V E N T H
 

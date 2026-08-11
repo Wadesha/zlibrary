@@ -1,4 +1,4 @@
-# Glencoe Science Astronomy Student Edition Glencoe McGraw Hill Z Library
+# Glencoe Science Astronomy Student Edition Glencoe McGraw Hill
 
 i-01-LBJ-861761 08/16/2004 1:43 PM Page i (tl)NASA/Science Photo Library/Photo Researchers, (tr)Billy & Sally Fletcher/Tom Stack & Assoc., (b)Photodisc i-01-LBJ-861761 08/16/2004 1:43 PM Page ii Astronomy This collection of images is of Jupiter,Io (one of its moons), Mars,and the Andromeda Galaxy.The Andromeda Galaxy is the most distant object visible to the human eye.At a distance of 2.2 mil- lion light years,it appears as a fuzzy patch of light in the night sky.
 

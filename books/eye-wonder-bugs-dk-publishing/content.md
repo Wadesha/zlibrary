@@ -1,4 +1,4 @@
-# 昆虫奇观：虫子（Eye Wonder: Bugs，DK 出版，Z-Library）
+# 昆虫奇观：虫子（Eye Wonder: Bugs，DK 出版，
 
 昆虫奇观（Eye Wonder）
 

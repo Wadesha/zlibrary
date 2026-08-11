@@ -1,4 +1,4 @@
-# Battles That Changed History DK Smithsonian Z Library
+# Battles That Changed History DK Smithsonian
 
 BATTLES HISTORY THAT  CHANGED
 

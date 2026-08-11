@@ -1,4 +1,4 @@
-# Fundamentals of Physics II Electromagnetism Optics and Quantum Mechanics R Shankar Z Library
+# Fundamentals of Physics II Electromagnetism Optics and Quantum Mechanics R Shankar
 
 Fundamentals of Physics II
 

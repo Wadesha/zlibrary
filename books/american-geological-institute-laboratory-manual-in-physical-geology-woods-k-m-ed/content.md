@@ -1,4 +1,4 @@
-# American Geological Institute Laboratory Manual in Physical Geology Woods K M Ed Z Library
+# American Geological Institute Laboratory Manual in Physical Geology Woods K M Ed
 
 NINTH EDITION
 

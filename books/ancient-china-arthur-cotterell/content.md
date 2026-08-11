@@ -1,4 +1,4 @@
-# Ancient China Arthur Cotterell Z Library
+# Ancient China Arthur Cotterell
 
 Eyewitness Eyewitness Ancient China Harness ornaments, 7th–6th century b.c.
 

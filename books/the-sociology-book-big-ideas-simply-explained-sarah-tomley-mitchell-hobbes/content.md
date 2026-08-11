@@ -1,4 +1,4 @@
-# 社会学之书·简明大观念（Big Ideas Simply Explained） Sarah Tomley Mitchell Hobbes Z Library
+# 社会学之书·简明大观念（Big Ideas Simply Explained） Sarah Tomley Mitchell Hobbes
 
 简明大观念 社会学之书 对自身地位的感知 婚姻契约即工作契约 地方视角 科学可用于建设更美好的世界 有些人犯罪是因为他们在回应某种社会情境 现代身份正在去中心化 性别是一种没有原件的模仿 技术如同艺术，是人类想象力的腾飞 放弃对总体性的希望吧，你这进入液态现代性世界的人 宗教是受压迫生灵的叹息 OBAL CITIES STRATEGIC SITES NEW TYPES OF PERATIONS 消费贵重物品是有闲绅士获取声望的手段
 

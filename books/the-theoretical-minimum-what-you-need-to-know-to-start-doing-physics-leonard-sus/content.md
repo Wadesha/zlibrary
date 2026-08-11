@@ -1,4 +1,4 @@
-# The Theoretical Minimum What You Need to Know to Start Doing Physics Leonard Susskind and George Hrabovsky Z Library
+# The Theoretical Minimum What You Need to Know to Start Doing Physics Leonard Susskind and George Hrabovsky
 
 Susskind and Hrabovsky The Theoretical Minimum Science $26.99 US / $30.00 CAN
 

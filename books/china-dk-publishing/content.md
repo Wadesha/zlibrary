@@ -1,4 +1,4 @@
-# China DK Publishing Z Library
+# China DK Publishing
 
 eyewitness travel guides China mountains RESTAURANTS Temples tours HOTELS Architecture festivals The Guides that show you what others only tell you Markets N A N  D A J I E Z H E N G E U  J I E
 

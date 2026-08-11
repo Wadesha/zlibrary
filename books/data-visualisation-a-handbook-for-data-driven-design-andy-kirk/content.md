@@ -1,4 +1,4 @@
-# Data Visualisation A Handbook for Data Driven Design Andy Kirk Z Library
+# Data Visualisation A Handbook for Data Driven Design Andy Kirk
 
 Data Visualisation
 

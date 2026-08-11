@@ -1,4 +1,4 @@
-# Transforming an Idea Into a Business with Design Thinking The Structured Approach from Silicon Valley for Entrepreneurs and Muhammad Mashhood Alam Z Library
+# Transforming an Idea Into a Business with Design Thinking The Structured Approach from Silicon Valley for Entrepreneurs and Muhammad Mashhood Alam
 
 International Standard Book Number-13: 978-1-138-57759-6 (Paperback)
 

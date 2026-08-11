@@ -1,4 +1,4 @@
-# Biology Dynamics of Life Alton Biggs Dinah Zike Peter Rillero Z Library
+# Biology Dynamics of Life Alton Biggs Dinah Zike Peter Rillero
 
 Microscopy links Self-check quizzes Vocabulary PuzzleMaker WebQuests Standardized test practice interactive student edition
 

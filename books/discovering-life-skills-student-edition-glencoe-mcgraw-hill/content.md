@@ -1,4 +1,4 @@
-# Discovering Life Skills Student Edition Glencoe McGraw Hill Z Library
+# Discovering Life Skills Student Edition Glencoe McGraw Hill
 
 interactive student edition
 

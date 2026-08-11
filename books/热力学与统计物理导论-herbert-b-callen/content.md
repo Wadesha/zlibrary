@@ -1,4 +1,4 @@
-# 热力学与统计物理导论 Herbert B Callen Z Library
+# 热力学与统计物理导论 Herbert B Callen
 
 仅限教学科研使用，使用与传播应严格遵守相关法律规定。
 

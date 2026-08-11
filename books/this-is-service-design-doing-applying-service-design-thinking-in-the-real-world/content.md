@@ -1,4 +1,4 @@
-# This Is Service Design Doing Applying Service Design Thinking in the Real World Stickdorn Marc Hormess Markus Edgar etc Z Library
+# This Is Service Design Doing Applying Service Design Thinking in the Real World Stickdorn Marc Hormess Markus Edgar etc
 
 Published by O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472.
 

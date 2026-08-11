@@ -1,4 +1,4 @@
-# Letters to a Young Scientist Edward O Wilson Z Library
+# Letters to a Young Scientist Edward O Wilson
 
 LETTERS to a YOUNG SCIENTIST
 

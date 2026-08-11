@@ -1,4 +1,4 @@
-# Principles of Quantum Mechanics R Shankar Z Library
+# Principles of Quantum Mechanics R Shankar
 
 Principles of Quantum Mechanics SECOND EDITION R. Shankar Yale University New Haven, Connecticut PLENUM PRESS NEW YORK AND LONDON
 

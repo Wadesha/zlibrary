@@ -1,4 +1,4 @@
-# The pleasure of finding things out the best short works of Richard P Feynman Robbins Jeffrey Feynman Richard Phillips Z Library
+# The pleasure of finding things out the best short works of Richard P Feynman Robbins Jeffrey Feynman Richard Phillips
 
 THE PLEASURE OF FINDING THINGS OUT
 

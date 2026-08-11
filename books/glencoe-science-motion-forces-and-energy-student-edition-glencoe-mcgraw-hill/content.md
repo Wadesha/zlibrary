@@ -1,4 +1,4 @@
-# Glencoe Science Motion Forces and Energy Student Edition Glencoe McGraw Hill Z Library
+# Glencoe Science Motion Forces and Energy Student Edition Glencoe McGraw Hill
 
 Gunter Marx Photography/CORBIS
 

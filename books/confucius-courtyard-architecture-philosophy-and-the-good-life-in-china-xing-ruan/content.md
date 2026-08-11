@@ -1,4 +1,4 @@
-# Confucius Courtyard Architecture Philosophy and the Good Life in China Xing Ruan Z Library
+# Confucius Courtyard Architecture Philosophy and the Good Life in China Xing Ruan
 
 Confucius’ Courtyard
 

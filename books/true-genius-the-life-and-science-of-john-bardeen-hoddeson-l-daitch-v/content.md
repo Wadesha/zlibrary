@@ -1,4 +1,4 @@
-# True genius The life and science of John Bardeen Hoddeson L Daitch V Z Library
+# True genius The life and science of John Bardeen Hoddeson L Daitch V
 
 Also by Lillian Hoddeson: Crystal Fire: The Invention of the Transistor and the Birth of the Information Age (with Michael Riordan)
 

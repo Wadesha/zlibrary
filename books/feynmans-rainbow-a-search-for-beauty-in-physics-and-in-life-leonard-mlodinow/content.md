@@ -1,4 +1,4 @@
-# Feynmans Rainbow A Search for Beauty in Physics and in Life Leonard Mlodinow Z Library
+# Feynmans Rainbow A Search for Beauty in Physics and in Life Leonard Mlodinow
 
 费曼的彩虹：在物理与生活中探寻美作者：伦纳德·蒙洛迪诺博士
 

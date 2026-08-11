@@ -1,4 +1,4 @@
-# Game Theory Understanding the Mathematics of Life Brian Clegg Z Library
+# Game Theory Understanding the Mathematics of Life Brian Clegg
 
 Hot Science is a series exploring the cutting edge of science and technology. With topics from big data to rewilding, dark matter to gene editing, these are books for popular science readers who like to go that little bit deeper …
 

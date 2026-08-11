@@ -1,4 +1,4 @@
-# 岩石与矿物 · DK 目击者（Z-Library）
+# 岩石与矿物 · DK 目击者
 
 （下列碎片为原书扉页与版权页所罗列的图版与内容主题：）九孔石结核（septarian nodule）、石榴石-绿泥石片岩（garnet-chlorite schist）、辰砂（cinnabar）、赤铁矿（hematite）、沙漠玫瑰状石膏（gypsum desert rose）、含三叶虫化石的温洛克石灰岩（Wenlock limestone with trilobite fossils）、花岗岩（granite）、蛋白石（opal）、已切磨的电气石（tourmaline）
 

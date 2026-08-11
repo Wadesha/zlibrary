@@ -1,4 +1,4 @@
-# Life in the Soil A Guide for Naturalists and Gardeners James B Nardi Z Library
+# Life in the Soil A Guide for Naturalists and Gardeners James B Nardi
 
 Life in the Soil Life in the Soil JAMES B. NARDI A Guide for Naturalists and Gardeners The University of Chicago Press chicago and london james b. nardi is a biologist at the University of Illinois at Urbana- Champaign and the Illinois Natural History Survey who gardens with the help of innumerable soil creatures.
 

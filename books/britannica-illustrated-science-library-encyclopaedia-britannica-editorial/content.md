@@ -1,4 +1,4 @@
-# Britannica Illustrated Science Library Encyclopaedia Britannica Editorial Z Library
+# Britannica Illustrated Science Library Encyclopaedia Britannica Editorial
 
 About the pagination of this eBook Due to the unique page numbering scheme of this book, the electronic pagination of the eBook does not match the pagination of the printed version. To navigate the text, please use the electronic Table of Contents that appears alongside the eBook or the Search function.
 

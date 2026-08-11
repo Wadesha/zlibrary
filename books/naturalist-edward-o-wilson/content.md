@@ -1,4 +1,4 @@
-# Naturalist Edward O Wilson Z Library
+# Naturalist Edward O Wilson
 
 ## PART I - DAYBREAK IN ALABAMA
 

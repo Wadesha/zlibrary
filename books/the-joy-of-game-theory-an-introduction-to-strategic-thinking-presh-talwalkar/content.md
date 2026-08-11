@@ -1,4 +1,4 @@
-# The Joy of Game Theory An Introduction to Strategic Thinking Presh Talwalkar Z Library
+# The Joy of Game Theory An Introduction to Strategic Thinking Presh Talwalkar
 
 About The Author Presh Talwalkar studied Economics and Mathematics at Stanford University. His site Mind Your Decisions has blog posts and original videos about math that have been viewed millions of times.
 

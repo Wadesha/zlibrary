@@ -1,4 +1,4 @@
-# Classical Mechanics Hiqmet Kamberaj Z Library
+# Classical Mechanics Hiqmet Kamberaj
 
 Hiqmet Kamberaj Classical Mechanics
 

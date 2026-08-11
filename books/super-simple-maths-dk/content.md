@@ -1,4 +1,4 @@
-# Super Simple Maths DK Z Library
+# Super Simple Maths DK
 
 A CIP catalogue record for this book is available from the British Library.
 

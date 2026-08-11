@@ -1,4 +1,4 @@
-# Survival Guide The Book All Survivalist and Preppers Need Fredrick M Woods Z Library
+# Survival Guide The Book All Survivalist and Preppers Need Fredrick M Woods
 
 Survival Guide: The Book All Survivalist and Preppers Need (3 in 1)
 

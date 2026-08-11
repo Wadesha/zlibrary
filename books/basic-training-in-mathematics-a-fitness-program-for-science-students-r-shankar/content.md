@@ -1,4 +1,4 @@
-# Basic Training in Mathematics A Fitness Program for Science Students R Shankar Z Library
+# Basic Training in Mathematics A Fitness Program for Science Students R Shankar
 
 Basic Training in Mathematics A Fitness Program for Science Students
 

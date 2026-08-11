@@ -1,4 +1,4 @@
-# Rock paper scissors game theory in everyday life Len Fisher Z Library
+# Rock paper scissors game theory in everyday life Len Fisher
 
 Praise for Rock, Paper, Scissors
 

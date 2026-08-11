@@ -1,4 +1,4 @@
-# The Graphic Design Reference Specification Book Everything Graphic Designers Need to Know Every Day Aaris Sherin Irina Lee Poppy Evans Z Library
+# The Graphic Design Reference Specification Book Everything Graphic Designers Need to Know Every Day Aaris Sherin Irina Lee Poppy Evans
 
 The Graphic Design Reference & Specification Book
 

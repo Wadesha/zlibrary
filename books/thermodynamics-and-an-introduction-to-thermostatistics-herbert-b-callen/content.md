@@ -1,4 +1,4 @@
-# Thermodynamics and an Introduction to Thermostatistics Herbert B Callen Z Library
+# Thermodynamics and an Introduction to Thermostatistics Herbert B Callen
 
 热力学与恒温统计学导论赫伯特·B·卡伦约翰·威利父子出版社纽约 奇切斯特 布里斯班 多伦多 新加坡
 

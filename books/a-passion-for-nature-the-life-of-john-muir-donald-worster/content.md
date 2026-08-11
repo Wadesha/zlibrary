@@ -1,4 +1,4 @@
-# A Passion for Nature The Life of John Muir Donald Worster Z Library
+# A Passion for Nature The Life of John Muir Donald Worster
 
 A Passion for Nature
 

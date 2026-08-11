@@ -1,4 +1,4 @@
-# Applied General Relativity Theory and Applications in Astronomy Celestial Mechanics and Metrology Michael H Soffel Wen Biao Han Z Library
+# Applied General Relativity Theory and Applications in Astronomy Celestial Mechanics and Metrology Michael H Soffel Wen Biao Han
 
 Astronomy and Astrophysics Library
 

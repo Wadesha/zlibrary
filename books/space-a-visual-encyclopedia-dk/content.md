@@ -1,4 +1,4 @@
-# Space A Visual Encyclopedia DK Z Library
+# Space A Visual Encyclopedia DK
 
 featuring the latest imagery from nasa SPACE a visual encyclopedia
 

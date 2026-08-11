@@ -1,4 +1,4 @@
-# The Stars The Definitive Visual Guide to the Cosmos DK Z Library
+# The Stars The Definitive Visual Guide to the Cosmos DK
 
 Foreword UNDERSTANDING THE COSMOS Out of the Darkness The Cosmos The Big Bang The Origin of the Universe Celestial Objects What is a Star?
 

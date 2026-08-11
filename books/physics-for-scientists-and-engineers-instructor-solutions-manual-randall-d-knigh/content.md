@@ -1,4 +1,4 @@
-# Physics for Scientists and Engineers Instructor Solutions Manual Randall D Knight Z Library
+# Physics for Scientists and Engineers Instructor Solutions Manual Randall D Knight
 
 WITH MODERN PHYSICS INSTRUCTOR SOLUTIONS MANUAL
 

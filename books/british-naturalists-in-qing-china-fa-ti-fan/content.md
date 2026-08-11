@@ -1,4 +1,4 @@
-# British Naturalists in Qing China Fa ti Fan Z Library
+# British Naturalists in Qing China Fa ti Fan
 
 p. cm.
 

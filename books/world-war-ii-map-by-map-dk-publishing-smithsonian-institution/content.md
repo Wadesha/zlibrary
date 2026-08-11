@@ -1,4 +1,4 @@
-# 二战地图全览 DK Publishing Smithsonian Institution Z Library
+# 二战地图全览 DK Publishing Smithsonian Institution
 
 F O R E W O R D  B Y PETER SNOW S M I T H S O N I A N WORLD WAR II M A P  BY  M A P
 
