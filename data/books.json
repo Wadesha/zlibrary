@@ -4496,7 +4496,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]中国古建筑文化之旅 山西、内蒙古 (张驭寰) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 19826,
+      "chars": 17936,
       "has_fixed": true,
       "category": "历史",
       "author": ""
@@ -4652,7 +4652,7 @@
       "pipeline": "ocr_md",
       "source_file": "中国乡村：19世纪的帝国控制【豆瓣9.3高分推荐！著名历史学家和政治学家萧公权先生学术代表作之一！考察了19世纪清王朝统治中国乡村的政治体系... (Z-Library).md",
       "source_pdf": null,
-      "chars": 172438,
+      "chars": 171545,
       "has_fixed": false,
       "category": "历史",
       "author": ""
@@ -4772,7 +4772,7 @@
       "pipeline": "ocr_md",
       "source_file": "文化、权力与国家1900——1942年的华北农村(杜赞奇(Z-Library).md",
       "source_pdf": null,
-      "chars": 107470,
+      "chars": 106393,
       "has_fixed": false,
       "category": "社会科学",
       "author": ""
@@ -4796,7 +4796,7 @@
       "pipeline": "ocr_md",
       "source_file": "普通地质学 (吴泰然, 何国琦) (Z-Library).md",
       "source_pdf": null,
-      "chars": 170180,
+      "chars": 165710,
       "has_fixed": false,
       "category": "地球与环境",
       "author": ""
