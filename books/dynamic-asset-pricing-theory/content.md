@@ -840,7 +840,6 @@ who drew on an insight of Bill Sharpe.
 
 xiii
 
---- Page 7 ---
 
 xiv Preface
 
@@ -1164,7 +1163,6 @@ ter has exercises and notes to the literature.
 
 in giving sources for results whenever possible and plead that any cases
 
---- Page 8 ---
 
 xvi Preface
 
@@ -1476,7 +1474,6 @@ comments from readers.
 
 # Darrell Duffie
 
---- Page 10 ---
 
 I
 
@@ -1548,7 +1545,6 @@ state-price vector is likewise given by a representative agent’s utility gradi
 
 ent at the economy’s aggregate consumption process.
 
---- Page 11 ---
 
 # Introduction to State Pricing
 
@@ -1658,7 +1654,6 @@ ruled out
 
 and this gives a characterization of security prices as follows.
 
---- Page 12 ---
 
 4 1. Introduction to State Pricing
 
@@ -2646,7 +2641,6 @@ then f[x
 
 Z(x)] = 0 and ||Z(x) − y₀|| < δ.
 
---- Page 17 ---
 
 14 1. Introduction to State Pricing
 
@@ -2958,7 +2952,6 @@ some scalar k > 0 and that (6) is solved by cⁱ = h x for some scalar h > 0 tha
 
 nonzero if and only if λᵢ is nonzero.
 
---- Page 18 ---
 
 16 1. Introduction to State Pricing
 
@@ -3264,7 +3257,6 @@ a revision of Arrow (1953)
 
 and appears as well in Dréze (1971).
 
---- Page 19 ---
 
 18 1. Introduction to State Pricing
 
@@ -3550,7 +3542,6 @@ Lobo, Fazel,
 
 Boyd (1999) address portfolio choice with fixed transactions costs.
 
---- Page 20 ---
 
 # The Basic Multiperiod Model
 
@@ -3658,7 +3649,6 @@ expectation.
 
 , X_T} such that
 
---- Page 21 ---
 
 22 2. The Basic Multiperiod Model
 
@@ -3906,7 +3896,6 @@ If γ is a state-price deflator, we have
 
 V_t = γ_t^{-1} E_t(∑_{j=t}^T γ_j δ_j^θ).
 
---- Page 22 ---
 
 24 2. The Basic Multiperiod Model
 
@@ -4868,7 +4857,6 @@ this is an option to sell B for 95 at any of times 0
 
 1, or 2.
 
---- Page 32 ---
 
 44 2. The Basic Multiperiod Model
 
@@ -5134,7 +5122,6 @@ Girotto and Ortu (1994
 
 equivalence in finite-dimensional multiperiod economies.
 
---- Page 33 ---
 
 46 2. The Basic Multiperiod Model
 
@@ -5522,7 +5509,6 @@ Hansen and Richard (1987)
 
 explore the state-price beta model in a much more general multiperiod setting.
 
---- Page 34 ---
 
 48 2. The Basic Multiperiod Model
 
@@ -5664,7 +5650,6 @@ the agent’s wealth process W° by W0 = 0 and
 
 Wt = Wt-1 + θt-1 · (Sqt - Sqt-1) + dt-1(Wt-1 + et-1 - ct-1).
 
---- Page 35 ---
 
 50 i
 
@@ -5912,7 +5897,6 @@ X1, X2
 
 …, Xt) = qij where it = Xt.
 
---- Page 36 ---
 
 52 3. The Dynamic Programming Approach
 
@@ -7448,7 +7432,6 @@ we have the following form of the law of large numbers for
 
 Markov chains.
 
---- Page 47 ---
 
 74 4. The Infinite-Horizon Setting
 
@@ -7702,7 +7685,6 @@ we let
 
 lim_{n→∞} x_n = sup_{n} inf_{m≥n} x_m.
 
---- Page 48 ---
 
 76 4. The Infinite-Horizon Setting
 
@@ -7920,7 +7902,6 @@ what one would find from a typical representative-agent model.
 
 Bewley (1982)
 
---- Page 50 ---
 
 80 4. The Infinite-Horizon Setting
 
@@ -8140,7 +8121,6 @@ and finite-
 
 difference solution of the associated PDE.
 
---- Page 51 ---
 
 # The Black-Scholes Model
 
@@ -8232,7 +8212,6 @@ ability space (Ω
 
 ℱ, P) can be constructed so that there exist standard
 
---- Page 52 ---
 
 84 5 The Black-Scholes Model
 
@@ -8520,7 +8499,6 @@ as shown by example in Chapter 6.
 
 lowing Proposition assists in determining whether the expectation or the
 
---- Page 53 ---
 
 86 5. The Black-Scholes Model
 
@@ -8738,7 +8716,6 @@ R^2 → R is twice continuously differentiable.
 
 Then the process Y, defined by
 
---- Page 54 ---
 
 88 5. The Black-Scholes Model
 
@@ -9522,7 +9499,6 @@ t}_T)]
 
 (26)
 
---- Page 57 ---
 
 94 5. The Black-Scholes Model
 
@@ -9772,7 +9748,6 @@ S_0 = x ∈ R^N
 
 (34)
 
---- Page 58 ---
 
 96 5. The Black-Scholes Model
 
@@ -10770,7 +10745,6 @@ so that U_t = (V_t - K)^+
 
 for expiration at time T with some
 
---- Page 68 ---
 
 116 6.
 
@@ -10934,7 +10908,6 @@ We say that markets are complete if the marketed space M(X) is actually equal to
 
 # Our objective now is to
 
---- Page 69 ---
 
 118 6.
 
@@ -12052,7 +12025,6 @@ Protter (1999)
 
 and Rady (1993).
 
---- Page 77 ---
 
 # Term-Structure Models
 
@@ -12148,7 +12120,6 @@ This chapter makes little direct use of the pricing theory developed
 
 in Chapter 6 beyond the basic idea of an equivalent martingale measure
 
---- Page 78 ---
 
 136 7. Term-Structure Models
 
@@ -13090,7 +13061,6 @@ A floor is defined symmetrically with a cap
 
 replacing with .
 
---- Page 83 ---
 
 146 7. Term-Structure Models
 
@@ -13218,7 +13188,6 @@ we have
 
 for all and
 
---- Page 84 ---
 
 148 7. Term-Structure Models
 
@@ -14244,7 +14213,6 @@ although the extent to which
 
 a model can be developed that fully nests both affine and quadratic Gaussian
 
---- Page 92 ---
 
 164 7. Term-Structure Models
 
@@ -15070,7 +15038,6 @@ F_t = E_Q [exp(- ∫_t^T r_s ds)W].
 
 we see that the forward-price process F is indeed an Itô process.
 
---- Page 95 ---
 
 170 8. Derivative Pricing
 
@@ -15220,7 +15187,6 @@ the process that generates daily or even more frequent payments to and from the 
 
 As with the expression "forward
 
---- Page 96 ---
 
 172 8. Derivative Pricing
 
@@ -15448,7 +15414,6 @@ instance
 
 if the futures contract delivers a security that pays no dividends
 
---- Page 97 ---
 
 174 8. Derivative Pricing
 
@@ -16050,7 +16015,6 @@ however
 
 be even more computationally intensive.
 
---- Page 101 ---
 
 182 8. Derivative Pricing
 
@@ -16188,7 +16152,6 @@ Let be the deflated exercise-value process
 
 defined by
 
---- Page 102 ---
 
 184 8. Derivative Pricing
 
@@ -17946,7 +17909,6 @@ forwards
 
 and options.
 
---- Page 111 ---
 
 # Portfolio and Consumption Choice
 
@@ -18386,7 +18348,6 @@ matching the Riesz representation of the utility gradient to
 
 we can
 
---- Page 122 ---
 
 224 9. Portfolio and Consumption Choice
 
@@ -18608,7 +18569,6 @@ man equation and first-order conditions.
 
 # Derive an explicit expression for the
 
---- Page 123 ---
 
 226 9. Portfolio and Consumption Choice
 
@@ -18828,7 +18788,6 @@ so that the problem may be effectively solved
 
 unconstrained.
 
---- Page 124 ---
 
 228 9. Portfolio and Consumption Choice
 
@@ -19678,7 +19637,6 @@ El Karoui and Huang (1997)
 
 # Kapoudjian
 
---- Page 127 ---
 
 234 9. Portfolio and Consumption Choice
 
@@ -20268,7 +20226,6 @@ tive u_c(·, t) on (0, ∞).
 
 (c, t) ∈ dom U (22)
 
---- Page 131 ---
 
 249 10. Equilibrium
 
@@ -20544,7 +20501,6 @@ and is zero otherwise.
 
 ) This is
 
---- Page 132 ---
 
 244 10, Equilibrium
 
@@ -21010,7 +20966,6 @@ see Mas-Colell
 
 Colell and He (1992b) provide a notion of "local" agent weights.
 
---- Page 140 ---
 
 260 11. Corporate Securities
 
@@ -21258,7 +21213,6 @@ value of the firm is not reduced too much by the switch.
 
 example of what is sometimes called “asset substitution.
 
---- Page 141 ---
 
 262 11. Corporate Securities
 
@@ -21536,7 +21490,6 @@ equityholders would receive nothing.
 
 covenants.
 
---- Page 142 ---
 
 264 11. Corporate Securities
 
@@ -21740,7 +21693,6 @@ Although not an obvious requirement for optimality
 
 the smooth-pasting condition
 
---- Page 143 ---
 
 266 11. Corporate Securities
 
@@ -21962,7 +21914,6 @@ W(A_0,c) = E_Q[ ∫_0^{τ(B_c)} e^{-r t} (δ_t − c) dt ]
 
 (21)
 
---- Page 144 ---
 
 268 11. Corporate Securities
 
@@ -22214,7 +22165,6 @@ senior bondholders are contractually entitled to
 
 cash flows resulting from liquidation up to the total face value of senior
 
---- Page 147 ---
 
 274 11. Corporate Securities
 
@@ -23002,7 +22952,6 @@ for deterministic coefficients a(t) and B(t) that are explicitly known or
 
 easily computed in practice.
 
---- Page 150 ---
 
 280 11. Corporate Securities
 
@@ -23226,7 +23175,6 @@ exogenously given fractional loss process
 
 as it allows for the application
 
---- Page 151 ---
 
 282 11. Corporate Securities
 
@@ -23462,7 +23410,6 @@ and payment at each integer date i ∈ {1
 
 , T} of
 
---- Page 153 ---
 
 286 11. Corporate Securities
 
@@ -23796,7 +23743,6 @@ Hint: Use the local martingale characterization of intensity.
 
 obtain the representation (41) of defaultable bond prices based on the
 
---- Page 154 ---
 
 288 11. Corporate Securities
 
@@ -24132,7 +24078,6 @@ some of the key results on counting processes that we use here.
 
 # Lemma H
 
---- Page 155 ---
 
 290 11. Corporate Securities
 
@@ -24368,7 +24313,6 @@ which in turn can be viewed as an option on the underlying assets of the firm.
 
 Galai and Schneller (1978) and Schwartz (1997) treat warrant valuation.
 
---- Page 156 ---
 
 # Numerical Methods
 
@@ -24440,7 +24384,6 @@ Suppose is a sequence of independent and identically distributed random variable
 
 each with expected
 
---- Page 157 ---
 
 294 12. Numerical Methods
 
@@ -24582,7 +24525,6 @@ respectively
 
 and
 
---- Page 158 ---
 
 296 12. Numerical Methods
 
@@ -24712,7 +24654,6 @@ Applying part (iii) of
 
 Condition A and some algebra completes the proof.
 
---- Page 161 ---
 
 302 12. Numerical Methods
 
@@ -24896,7 +24837,6 @@ the accuracy and stability of this and other finite-difference schemes to
 
 Sources cited in the Notes.
 
---- Page 162 ---
 
 # 12. Numerical Methods
 
@@ -25394,7 +25334,6 @@ an approach taken
 
 in papers cited in the Notes.
 
---- Page 168 ---
 
 316 12. Numerical Methods
 
@@ -25676,7 +25615,6 @@ and Zvan
 
 Vetzal (1998).
 
---- Page 169 ---
 
 318 12. Numerical Methods
 
@@ -26842,7 +26780,6 @@ more informally
 
 that “P(X = Y) = 1.
 
---- Page 175 ---
 
 330 Appendix C
 
@@ -27024,7 +26961,6 @@ If sₙ² → σ² > 0,
 
 then Zₙ converges in distribution to a normal random variable with mean zero and variance σ².
 
---- Page 176 ---
 
 332 Appendix C
 
@@ -27508,7 +27444,6 @@ for all and and all
 
 where is a strictly increasing function with such that for any
 
---- Page 181 ---
 
 342 Appendix E
 
@@ -27620,7 +27555,6 @@ where solves (E.
 
 By Itô’s Formula,
 
---- Page 182 ---
 
 344 Appendix E
 
@@ -27794,7 +27728,6 @@ the function defined by is in and solves the PDE
 
 where
 
---- Page 183 ---
 
 346 Appendix E
 
@@ -27932,7 +27865,6 @@ where U and
 
 V are right-continuous increasing adapted processes with left limits.
 
---- Page 184 ---
 
 348 Appendix F
 
@@ -28414,7 +28346,6 @@ c_t + sh_t)
 
 h_t) ds.
 
---- Page 186 ---
 
 352 Appendix G
 
@@ -28712,7 +28643,6 @@ Duffie and Epstein (1992a) on the question of monotonicity.
 
 extend this example to cases in which H is state and time dependent.
 
---- Page 187 ---
 
 354 Appendix G
 
@@ -28918,7 +28848,6 @@ need only the facts:
 
 z^n is analytic with (z^n)' = nz^{n-1}.
 
---- Page 188 ---
 
 356 Appendix H
 
@@ -29064,7 +28993,6 @@ The Case of Imperfect Information.
 
 University of Chicago.
 
---- Page 198 ---
 
 376 Bibliography
 
@@ -30328,7 +30256,6 @@ Institut für Mathematische Stochastik
 
 versity of Bonn.
 
---- Page 200 ---
 
 380 Bibliography
 
@@ -30962,7 +30889,6 @@ Black, F.
 
 3: 107-114.
 
---- Page 201 ---
 
 382 Bibliography
 
@@ -32828,7 +32754,6 @@ Chen, R.
 
 Chen, R.
 
---- Page 204 ---
 
 388 Bibliography
 
@@ -34366,7 +34291,6 @@ the Pricing of Related Path-Dependent Options.
 
 Statistics, London School of Economics.
 
---- Page 207 ---
 
 394 Bibliography
 
@@ -34850,7 +34774,6 @@ Duffie, D.
 
 ” Journal of Finance 51: 493-526.
 
---- Page 209 ---
 
 398 Bibliography
 
@@ -35532,7 +35455,6 @@ Dybvig, P.
 
 St. Louis.
 
---- Page 210 ---
 
 400 Bibliography
 
@@ -36692,7 +36614,6 @@ Touzi.
 
 Paris.
 
---- Page 212 ---
 
 404 Bibliography
 
@@ -37272,7 +37193,6 @@ Theory and Estimation.
 
 , Université de Montreal.
 
---- Page 213 ---
 
 406 Bibliography
 
@@ -37902,7 +37822,6 @@ Forward Contracts.
 
 ” Journal of Finance 51: 1499-1522.
 
---- Page 214 ---
 
 408 Bibliography
 
@@ -38488,7 +38407,6 @@ Heath, D.
 
 Carnegie Mellon University.
 
---- Page 215 ---
 
 410 Bibliography
 
@@ -39042,7 +38960,6 @@ Hogan, M.
 
 576-581.
 
---- Page 216 ---
 
 412 Bibliography
 
@@ -39416,7 +39333,6 @@ College of Commerce and Business Administration
 
 University of Illinois at Urbana-Champaign.
 
---- Page 218 ---
 
 416 Bibliography
 
@@ -40002,7 +39918,6 @@ Shreve, and G.
 
 702-730.
 
---- Page 219 ---
 
 418 BibliographyKaratzas, I.
 
@@ -40552,7 +40467,6 @@ Beltratti.
 
 Stanford University.
 
---- Page 220 ---
 
 490 Bibliography
 
@@ -40998,7 +40912,6 @@ Rebalancing Rules and Behavior.
 
 ” Working Paper, New York University.
 
---- Page 222 ---
 
 424 Bibliography
 
@@ -41554,7 +41467,6 @@ Mas-Colell, A.
 
 Harvard University.
 
---- Page 223 ---
 
 426 Bibliography
 
@@ -42156,7 +42068,6 @@ Caflisch.
 
 tional Physics 122: 218-230.
 
---- Page 224 ---
 
 428 Bibliography
 
@@ -43264,7 +43175,6 @@ Sircar.
 
 37-48.
 
---- Page 226 ---
 
 432 Bibliography
 
@@ -43850,7 +43760,6 @@ Stochastic Volatility Model.
 
 ” Mathematical Finance 7: 399-412.
 
---- Page 227 ---
 
 434 Bibliography
 
@@ -44394,7 +44303,6 @@ Schroder, M.
 
 Fakultät für Mathematik und Informatik der Universität Mannheim.
 
---- Page 228 ---
 
 436 Bibliography
 
@@ -44912,7 +44820,6 @@ Skiadas, C.
 
 ” Econometrica 65: 347-367.
 
---- Page 229 ---
 
 438 Bibliography
 
@@ -45368,7 +45275,6 @@ Differential Participation.
 
 Seoul.
 
---- Page 231 ---
 
 442 Bibliography
 
@@ -45426,7 +45332,6 @@ L(S), 87
 
 3 84, 94
 
---- Page 233 ---
 
 Aase, 232, 257
 
@@ -45588,7 +45493,6 @@ Bewley, 79, 255
 
 Bhar, 164
 
---- Page 234 ---
 
 Bick, 100, 133, 196, 197, 234, 257, 336
 
@@ -46102,7 +46006,6 @@ Whitelaw, 165
 
 Wiener, 100, 198
 
---- Page 238 ---
 
 Wiggins, 197
 
@@ -46324,7 +46227,6 @@ Bellman’s principle of optimality, 63
 
 Bermudan swaption, 146
 
---- Page 239 ---
 
 Bernoulli trials, 295
 
@@ -46748,7 +46650,6 @@ equity-premium puzzle, 79
 
 equivalent, 28, 108
 
---- Page 240 ---
 
 equivalent martingale measure
 
@@ -47158,7 +47059,6 @@ linearity of stochastic integrals, 123
 
 Lipschitz, 340
 
---- Page 241 ---
 
 local martingale, 212
 

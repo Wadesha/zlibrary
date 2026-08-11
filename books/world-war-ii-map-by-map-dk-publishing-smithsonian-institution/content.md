@@ -146,7 +146,7 @@ EUROPE IN DISPUTE    1919–1925 结束欧洲战事的各项条约试图解决�
 
 举行过公民投票的地区 有争议的地区
 
-## THE BREAKUP OF THE
+THE BREAKUP OF THE
 
 ## GERMAN EMPIRE    1918–1923 战争结束时，德皇威廉二世逃往荷兰，德国成为共和国。1919年的《凡尔赛和约》对德国施加了惩罚性的条款。土地被割让给丹麦、比利时、法国和波兰；其海外帝国被剥夺，武装力量被削减，舰队被没收。
 
@@ -164,145 +164,145 @@ Dodecanese Is.
 
 Corsica
 
-## EAST
+EAST
 
-## PRUSSIA
+PRUSSIA
 
-## B E S S A R A B I A
+B E S S A R A B I A
 
-## T R A N
+T R A N
 
-## S Y L V A N I
+S Y L V A N I
 
-## A
+A
 
-## UPPER
+UPPER
 
-## SILESIA
+SILESIA
 
 E A ST ER N TH RA C E
 
-## ESTONIA
+ESTONIA
 
-## LATVIA
+LATVIA
 
 LI T H U A N I A
 
-## NORTHERN
+NORTHERN
 
-## IRELAND
+IRELAND
 
-## ALSACE-
+ALSACE-
 
-## LORRAINE
+LORRAINE
 
-## SWITZERLAND
+SWITZERLAND
 
-## NETHERLANDS
+NETHERLANDS
 
-## RUHR
+RUHR
 
-## D E N M A R K
+D E N M A R K
 
-## B E L G I U M
+B E L G I U M
 
 P O L A N D
 
-## GREECE
+GREECE
 
-## ALBANIA
+ALBANIA
 
-## BULGARIA
+BULGARIA
 
-## RO M A N I A
+RO M A N I A
 
-## UNITED
+UNITED
 
-## KINGDOM
+KINGDOM
 
-## GERMANY
+GERMANY
 
-## AUSTRIA
+AUSTRIA
 
 C ZE CHO
 
-## SLOVA
+SLOVA
 
-## KIA
+KIA
 
-## ITALY
+ITALY
 
 S P A I N
 
-## F R A N C E
+F R A N C E
 
-## LUXEMBOURG
+LUXEMBOURG
 
-## IRISH
+IRISH
 
-## FREE
+FREE
 
-## STATE
+STATE
 
-## NORTHERN
+NORTHERN
 
-## EPIRUS
+EPIRUS
 
-## POLISH
+POLISH
 
-## CORRIDOR
+CORRIDOR
 
-## CROATIA
+CROATIA
 
-## MONTENEGRO
+MONTENEGRO
 
-## SERBIA
+SERBIA
 
-## BOSNIA-
+BOSNIA-
 
-## HERZEGOVINA
+HERZEGOVINA
 
-## WESTERN
+WESTERN
 
-## THRACE
+THRACE
 
 M A CE DO NIA R U T H E N I A S L O V A K I A
 
-## MEMEL
+MEMEL
 
-## TERRITORY
+TERRITORY
 
 AN D S LO VE NE S KIN GD OM O F S ER BS, C RO AT S,
 
-## DALMATIA
+DALMATIA
 
-## HUNGARY
+HUNGARY
 
-## CARINTHIA
+CARINTHIA
 
-## SLOVENIA
+SLOVENIA
 
-## BOHEMIA
+BOHEMIA
 
-## RHINELAND
+RHINELAND
 
-## SCHLESWIG-
+SCHLESWIG-
 
-## HOLSTEIN
+HOLSTEIN
 
-## W H I T E
+W H I T E
 
-## R U S S I A
+R U S S I A
 
-## U K R A I N E
+U K R A I N E
 
 N O R W A Y S W E D E N F I N L A N D Wilno Teschen Smyrna Danzig Petrograd Pskov Allenstein Brest-Litovsk Sopron Marienwerder Eupen Dublin
 
-## T H E L EG AC Y  O F WO R L D WA R  I
+T H E L EG AC Y  O F WO R L D WA R  I
 
 Austria-Hungary border, 1914
 
-## THE BREAKUP OF THE
+THE BREAKUP OF THE
 
 ## AUSTRO-HUNGARIAN EMPIRE    1918–1920 哈布斯堡帝国的崩溃催生了三个新的国家：奥地利、匈牙利和捷克斯洛伐克。
 
@@ -310,7 +310,7 @@ Austria-Hungary border, 1914
 
 签署《凡尔赛和约》
 
-## WRITING THE PEACE
+WRITING THE PEACE
 
 战胜国的政客与外交官于1919年在巴黎会面，与战败的同盟国阵营拟定一系列条约，每一项都以签署地——巴黎以西的宫殿、城堡和城镇——命名。主要条约于1919年6月在凡尔赛与德国签署，随后是1919年9月与奥地利在圣日耳曼昂莱、1919年11月与保加利亚在塞纳河畔讷伊、1920年6月与匈牙利在特里亚农，最后是1920年8月与土耳其签署的、最终流产的《塞夫尔条约》。
 
@@ -324,9 +324,9 @@ Austria-Hungary border, 1914
 
 1918年 俄罗斯签署《布列斯特-立托夫斯克条约》，放弃其对布列斯特-立托夫斯克一线以西土地的主张。
 
-## THE LEGACY
+THE LEGACY
 
-## OF WORLD WAR I
+OF WORLD WAR I
 
 1918年欧洲战事的结束，标志着四大帝国的崩溃。欧洲大陆的地图需要重新绘制，数百万人民的未来家园需要决定。随着新国家的出现和旧有冲突的缓慢解决，战争的遗产在许多年间继续在欧洲各地被感受到。
 
@@ -336,9 +336,9 @@ Austria-Hungary border, 1914
 
 尽管和平条约解决了一些问题，但战争的遗产在欧洲和亚洲造成了深远的社会、经济和政治后果，并在20年内成为一场新的世界大战的决定性成因之一。
 
-## TIMELINE
+TIMELINE
 
-## AFTER THE WAR
+AFTER THE WAR
 
 第一次世界大战后，许多欧洲国家的边界被重新划定，随着帝国的崩溃和新国家的诞生。这一新的安排往往充满暴力，并留下了它自身破坏性的遗产。
 
@@ -350,167 +350,167 @@ Lake Van A n a t o l i a
 
 Cyprus A R M E NI A T U R KI S H C a u c a s u s P E R S I A
 
-## T U R K E Y
+T U R K E Y
 
 R U S S I A B l a c k S e a
 
-## TURKISH
+TURKISH
 
-## KURDISTAN
+KURDISTAN
 
-## G E O R G I A
+G E O R G I A
 
-## A Z E R B A I J A N
+A Z E R B A I J A N
 
-## A R M E N I A
+A R M E N I A
 
 Ankara Rostov
 
 T H E S L I D E TO  WA R 1918 –1939
 
-## C A N A D A
+C A N A D A
 
-## G R E E N L A N D
+G R E E N L A N D
 
-## U S A
+U S A
 
-## MEXICO
+MEXICO
 
-## CUBA
+CUBA
 
-## ICELAND
+ICELAND
 
-## SOUTH-WEST
+SOUTH-WEST
 
-## AFRICA
+AFRICA
 
-## ALGERIA
+ALGERIA
 
-## LIBYA
+LIBYA
 
-## SYRIA
+SYRIA
 
-## IRAQ PERSIA
+IRAQ PERSIA
 
-## ANGLO-EGYPTIAN
+ANGLO-EGYPTIAN
 
-## SUDAN
+SUDAN
 
-## FRENCH WEST AFRICA
+FRENCH WEST AFRICA
 
-## BRITISH
+BRITISH
 
-## TOGO
+TOGO
 
-## NIGERIA
+NIGERIA
 
-## ANGOLA
+ANGOLA
 
-## MOZAMBIQUE
+MOZAMBIQUE
 
-## ETHIOPIA
+ETHIOPIA
 
-## KENYA
+KENYA
 
-## TANGANYIKA
+TANGANYIKA
 
-## EGYPT
+EGYPT
 
-## BECHUANALAND
+BECHUANALAND
 
-## PALESTINE
+PALESTINE
 
-## LIBERIA
+LIBERIA
 
-## B R A Z I L
+B R A Z I L
 
-## ARGENTINA
+ARGENTINA
 
-## BOLIVIA
+BOLIVIA
 
-## CHILE
+CHILE
 
-## PERU
+PERU
 
-## ECUADOR
+ECUADOR
 
-## COSTA RICA
+COSTA RICA
 
-## EL SALVADOR
+EL SALVADOR
 
-## GUATEMALA
+GUATEMALA
 
-## MOROCCO
+MOROCCO
 
-## TRANSJORDAN
+TRANSJORDAN
 
-## NICARAGUA
+NICARAGUA
 
-## PANAMA
+PANAMA
 
-## HONDURAS
+HONDURAS
 
-## URUGUAY
+URUGUAY
 
-## HAITI
+HAITI
 
-## DOMINICAN REPUBLIC
+DOMINICAN REPUBLIC
 
-## VENEZUELA
+VENEZUELA
 
-## COLOMBIA
+COLOMBIA
 
-## PARAGUAY
+PARAGUAY
 
-## RUANDA-
+RUANDA-
 
-## URUNDI
+URUNDI
 
-## BELGIAN
+BELGIAN
 
-## CONGO
+CONGO
 
-## FRENCH
+FRENCH
 
-## TOGO
+TOGO
 
-## BRITISH
+BRITISH
 
-## CAMEROONS
+CAMEROONS
 
-## SOUTH
+SOUTH
 
-## AFRICA
+AFRICA
 
-## NORTHERN
+NORTHERN
 
-## RHODESIA
+RHODESIA
 
-## RHODESIA
+RHODESIA
 
-## SOUTHERN
+SOUTHERN
 
-## RHODESIA
+RHODESIA
 
-## FRENCH
+FRENCH
 
-## CAMEROONS
+CAMEROONS
 
-## FRENCH
+FRENCH
 
-## EQUATORIAL AFRICA
+EQUATORIAL AFRICA
 
-## P A C I F I C
+P A C I F I C
 
-## O C E A N
+O C E A N
 
-## MADAGAS
+MADAGAS
 
-## CAR 1920–36 1924–37 1920–25 1920–38 1923–1937 1920–35 1920–39 1920–38 1920–36 1920–36 1920–26
+CAR 1920–36 1924–37 1920–25 1920–38 1923–1937 1920–35 1920–39 1920–38 1920–36 1920–36 1920–26
 
-## UGANDA
+UGANDA
 
-## NYASALAND
+NYASALAND
 
 MEMBERSHIP OF THE LEAGUE    1920–1939 国际联盟有42个创始成员国，到1934年其成员达到58个。美国、沙特阿拉伯、也门、蒙古、不丹和尼泊尔从未加入。
 
@@ -544,7 +544,7 @@ THE FAILURE OF THE LEAGUE    1930–1939 联盟解决了世界各地的一些争
 
 1923年 法国取得对前奥斯曼叙利亚（包括未来的黎巴嫩）的托管权。
 
-## FOUNDING OF THE LEAGUE
+FOUNDING OF THE LEAGUE
 
 联盟根据结束一战的1919年《凡尔赛和约》成立，于1920年1月10日在巴黎首次召开大会。
 
@@ -552,41 +552,41 @@ THE FAILURE OF THE LEAGUE    1930–1939 联盟解决了世界各地的一些争
 
 △ 给和平一个机会 这张支持瑞士1920年加入国际联盟的明信片，流露出一种乐观的情绪。
 
-## THE LEAGUE IN ACTION
+THE LEAGUE IN ACTION
 
 从1920年活跃直至1946年被联合国最终取代，联盟在第二次世界大战爆发时已基本上无关紧要。
 
-## TIMELINE
+TIMELINE
 
 创始成员国与各国 后续成员国及其加入日期 图例 成员国属地 托管领土 非成员国 撤回或被开除的国家及其属地 边界，1930年 见说明
 
-## T H E L E AG U E O F N AT I O N S
+T H E L E AG U E O F N AT I O N S
 
-## CHINA
+CHINA
 
-## INDIA
+INDIA
 
-## AUSTRALIA
+AUSTRALIA
 
-## SIAM
+SIAM
 
-## MONGOLIA
+MONGOLIA
 
-## FRENCH
+FRENCH
 
-## INDOCHINA
+INDOCHINA
 
-## TIBET
+TIBET
 
-## DUTCH EAST INDIES
+DUTCH EAST INDIES
 
-## PHILIPPINES
+PHILIPPINES
 
 J A P A N I N D I A N U S S R O C E A N – 1934–39 "国际联盟"这一名称由英国政治科学家、和平主义者戈兹沃西·洛斯·迪金森于1914年提出，他为其组织草拟了一份示意图。随着第一次世界大战的推进，最终获胜的协约国领袖们开始明确他们的战争目标，一致同意应当建立某种形式的国际组织以防止未来的战争。美国总统伍德罗·威尔逊在1918年1月使这一想法明确化，他在用于谈判结束战争的"十四点"中列入了"一个确保和平与正义的国际联盟"。联盟的成立公约由英国外交官罗伯特·塞西尔勋爵和南非政治家扬·史末资起草，并在1919年的巴黎和会上获得同意。为了实现世界和平，公约承诺联盟支持裁军，并声明其目标是通过集体安全防止战争，成员国将集体应对任何对世界和平的威胁。联盟还将在金融、贸易和交通领域拓展国际关系，并帮助促进卫生以及反对毒品、卖淫和奴隶制的斗争。然而，它的许多崇高抱负都被出于自身利益行事的成员国所挫败。
 
-## THE LEAGUE
+THE LEAGUE
 
-## OF NATIONS
+OF NATIONS
 
 在一战的可怕之后，一群国家构想出国际联盟的想法，这是世界上第一个以维护世界和平、避免另一场灾难性全球战争为主要使命的国际组织。
 
@@ -604,77 +604,77 @@ THE MANDATE SYSTEM    1919–1990 在德国和奥斯曼土耳其于一战中战�
 
 图例 创始成员国与各国 后续成员国及其加入日期 由国际联盟裁决的领土冲突 撤回或被开除的国家及其属地 边界，1930年
 
-## BELGIUM
+BELGIUM
 
-## CZECHOSLOVAKIA
+CZECHOSLOVAKIA
 
-## DENMARK
+DENMARK
 
-## EAST
+EAST
 
-## PRUSSIA
+PRUSSIA
 
-## GREECE
+GREECE
 
-## NETHERLANDS
+NETHERLANDS
 
-## UNITED
+UNITED
 
-## KINGDOM
+KINGDOM
 
-## POLAND
+POLAND
 
-## ROMANIA
+ROMANIA
 
-## N O R W AY
+N O R W AY
 
-## PORTUGAL
+PORTUGAL
 
-## S W E D E N
+S W E D E N
 
-## SWITZERLAND
+SWITZERLAND
 
-## I TA LY
+I TA LY
 
-## YUGOSLAVIA
+YUGOSLAVIA
 
-## FRANCE
+FRANCE
 
-## SPAIN
+SPAIN
 
-## ALBANIA
+ALBANIA
 
-## AUSTRIA
+AUSTRIA
 
-## BULGARIA
+BULGARIA
 
-## TURKEY
+TURKEY
 
-## ESTONIA
+ESTONIA
 
-## FINLAND
+FINLAND
 
-## GERMANY
+GERMANY
 
 1926–33
 
-## HUNGARY
+HUNGARY
 
 1922–39
 
-## IRELAND
+IRELAND
 
-## LUXEMBOURG
+LUXEMBOURG
 
-## LATVIA
+LATVIA
 
-## LITHUANIA
+LITHUANIA
 
 T H E S L I D E TO  WA R 1918 –1939
 
-## A T L A N T I C
+A T L A N T I C
 
-## O C E A N
+O C E A N
 
 M e d i t e r r a n e a n  S e a N o r t h S e a A r i a t i c S e a R h n e
 
@@ -682,43 +682,43 @@ E b e
 
 Sardinia Corsica
 
-## DENMARK
+DENMARK
 
-## NETHERLANDS
+NETHERLANDS
 
-## BELGIUM
+BELGIUM
 
-## LUXEMBOURG
+LUXEMBOURG
 
-## SAAR
+SAAR
 
-## I R E L A N D
+I R E L A N D
 
-## U N I T E D
+U N I T E D
 
-## K I N G D O M
+K I N G D O M
 
 N O R W A Y
 
-## A U S T R I A
+A U S T R I A
 
-## P O R
+P O R
 
-## T U G
+T U G
 
-## A L
+A L
 
-## G E R M A N Y
+G E R M A N Y
 
 I T A L Y
 
-## SWIT
+SWIT
 
-## ZERL
+ZERL
 
 AND S P A I N F R A N C E Paris Toledo London Milan Geneva Venice Genoa Frankfurt Montpellier Cambridge Toulouse Rome Avignon Naples Lisbon Lérida Le Havre Brussels Lille Bremen Hamburg Copenhagen Orléans Angers Bilbao Liverpool Manchester Dublin Belfast Edinburgh Oslo Madrid Barcelona Pamplona Tarazona Marseille Pisa Oxford Birmingham
 
-## ANDORRA
+ANDORRA
 
 89% 60% 61% 73% ▽ 向罗马进军 在意大利内战阴云密布之际，贝尼托·墨索里尼和他的法西斯黑衫军于1922年10月28—29日向罗马进军，导致墨索里尼被任命为总理。
 
@@ -752,15 +752,15 @@ POLAND AND THE BALTICS    1926–1939 夹在苏联这个新的共产主义国家
 
 1936—1939年一场残酷的内战导致弗朗哥将军领导下的原法西斯性质的民族派取得胜利。葡萄牙在一战中角色有限，战后带着软弱的共和政府走出战争，但到1932年它已接受了安东尼奥·德·萨拉查保守威权的意识形态，后者成为几乎拥有独裁权力的总理。
 
-## TIMELINE
+TIMELINE
 
-## DIVIDED EUROPE
+DIVIDED EUROPE
 
 两次世界大战之间的岁月，见证了民主在大多数欧洲国家的失败，法西斯主义和共产主义同时抬头。强有力、往往独裁的领袖控制了他们的国家。
 
 图例 法西斯政权 共产主义政权 其他独裁政权 右翼活动 1930年代的罢工与骚乱 到1932年超过20%的失业率 1929至1932年工业产值下降的百分比
 
-## E U RO P E O F T H E D I C TATO R S
+E U RO P E O F T H E D I C TATO R S
 
 B a t
 
@@ -768,35 +768,35 @@ S e a
 
 D an ub e
 
-## ALBANIA
+ALBANIA
 
-## EAST
+EAST
 
-## PRUSSIA
+PRUSSIA
 
-## L I T H U A N I A
+L I T H U A N I A
 
-## L A T V I A
+L A T V I A
 
-## E S T O N I A
+E S T O N I A
 
 B U L G A R I A
 
-## C Z E
+C Z E
 
-## C H O
+C H O
 
-## S L O
+S L O
 
-## V A K I A
+V A K I A
 
-## R O M A N I A
+R O M A N I A
 
-## P O L A N D
+P O L A N D
 
-## H U N G A R Y
+H U N G A R Y
 
-## G R E E C E
+G R E E C E
 
 T U R K EY B l a c k S e a U S S R Y U G O S L A V I A F I N L A N D S W E D E N Riga Wilno Tallinn Helsinki Krakow Warsaw Danzig free port Wagrowiec Stockholm Bucharest Soﬁa Tirana Belgrade Budapest Athens 63% 1918年战争结束以及随后各项和平条约签署之后，大多数欧洲国家——新成立的俄罗斯共产主义国家除外——都是民主国家。然而，这些民主政权一个接一个地让位于独裁统治。
 
@@ -804,13 +804,13 @@ T U R K EY B l a c k S e a U S S R Y U G O S L A V I A F I N L A N D S W E D E N
 
 这一转变因1929年后席卷欧洲的经济危机而加剧。上升的失业率和经济崩溃削弱了民主政府，并催生了右翼和法西斯团体。这些团体往往结构军事化、诉求民粹化，为其成员提供了在民主制度下无法获得的权力。到1939年，民主统治只存在于斯堪的纳维亚、英国和爱尔兰、法国、比荷卢国家和瑞士。欧洲其余部分都处于独裁统治之下。
 
-## EUROPE OF
+EUROPE OF
 
-## THE DICTATORS
+THE DICTATORS
 
 一战的战胜国曾是一个民主国家的联盟，但在随后的不确定年代里，许多欧洲国家经历了重大的政治动荡。经济问题只会加剧两次大战之间欧洲的不稳定。
 
-## THE GREAT DEPRESSION
+THE GREAT DEPRESSION
 
 1929年10月，纽约证券交易所的长期繁荣突然终结。
 
@@ -840,27 +840,27 @@ T U R K EY B l a c k S e a U S S R Y U G O S L A V I A F I N L A N D S W E D E N
 
 T H E S L I D E TO  WA R 1918 –1939 一战的战败使德国贫穷、怨恨，并在左右政治极端之间两极分化。许多德国人正在寻求强大、果断的领导，而主流政党未能提供。阿道夫·希特勒在1920年代初以极大的决心，作为国家社会主义德国工人党（NSDAP，即纳粹党）领袖脱颖而出。正如一位评论家所说，希特勒是"民族渴望的活化身"。希特勒的计划 希特勒的演说直接、咄咄逼人且毫不妥协，他的纲领也是如此。他承诺一场将恢复德国实力与尊严的民族革命。他的承诺包括结束大规模失业、废除《凡尔赛和约》、停止德国被迫支付的致残性战争赔款，以及重建武装力量。德国在倾听。在1932年联邦选举中，纳粹赢得了德国国会（议会）230个席位，成为该国最强大的政党。经过数月的幕后谈判，1933年1月，不情愿的兴登堡总统终于被说服任命希特勒为总理。3月，所谓的《授权法案》赋予希特勒紧急独裁权力。该法案的通过实际上标志着德国民主的终结。纳粹将他们的新政权称为第三帝国，或第三帝国，反映了他们的野心。
 
-## HITLER AND
+HITLER AND
 
-## NAZI GERMANY
+NAZI GERMANY
 
 尽管希特勒1923年未遂的政变（或叛乱）失败了，但到1930年纳粹党已成为德国不可忽视的一股力量。1929年华尔街股灾之后的经济萧条，对赢得全国支持起到了关键作用。
 
 △ 元首 阿道夫·希特勒身着制服，为镜头摆姿。元首（领袖）的画像，是每一个德国家庭的必备之物。
 
-## JOSEPH GOEBBELS
+JOSEPH GOEBBELS
 
 1897–1945 约瑟夫·戈培尔是一位杰出的演说家，是希特勒最亲密的同事之一。1926年，希特勒任命戈培尔为柏林的行政区长官（Gauleiter），
 
 并于1933年提拔他为宣传部长，掌控德国的广播、报刊和文化机构。他的宣传向公众推销了纳粹关于德国优越性和领土扩张的愿景。
 
-## H I T L E R  A N D N A Z I G E R M A N Y
+H I T L E R  A N D N A Z I G E R M A N Y
 
 检阅集会 纽伦堡集会于1933至1938年每年举行，由宣传部长约瑟夫·戈培尔策划，是纳粹年度的盛事。在这里，1936年的集会上，齐柏林体育场中集结的部队正专心聆听希特勒的主题演讲。
 
 T H E S L I D E TO  WA R 1918 –1939
 
-## JAPANESE INVASION OF MANCHURIA
+JAPANESE INVASION OF MANCHURIA
 
 针对一次（由日本军队自导自演的）挑衅行为，日本军队于1931年9月19日入侵满洲，夺取了关键城市沈阳。他们继续占领整个满洲，于1932年建立满洲国，以中国前幼帝溥仪为傀儡皇帝。
 
@@ -868,9 +868,9 @@ T H E S L I D E TO  WA R 1918 –1939
 
 1931年被日本入侵 日本的入侵
 
-## CHINA IN
+CHINA IN
 
-## TURMOIL
+TURMOIL
 
 两次世界大战之间的中国，是一个陷入内部冲突的国家：其分裂的各省由相互敌对的军阀统治，并受到日益壮大的共产主义叛乱的威胁，而其国土后来更遭到日本帝国主义军队的进攻。
 
@@ -880,11 +880,11 @@ T H E S L I D E TO  WA R 1918 –1939
 
 CHIANG KAI-SHEK 1887–1975 国民党领袖蒋介石出生于浙江省宁波市辖区的奉化。作为一个商人之子、新共和中国的支持者，他组建了共和军，并于1924年成为黄埔军校校长。他的人脉使他得以接管国民党（GMD）的领导权，并于1926年成为军队总司令。尽管在对军阀的战争中取得成功，蒋介石对中国的统治从未稳固，因为它受到共产主义叛乱者和日本入侵的威胁。1949年，他在内战中被毛泽东领导的中共打败，退守台湾。
 
-## DISUNITED CHINA
+DISUNITED CHINA
 
 共和中国最初由若干地方军阀统治，直到1937年才在国民党控制下统一。到那时，中国面临日本在北部和东部的武装入侵。
 
-## TIMELINE
+TIMELINE
 
 THE NATIONALIST REVIVAL    1919–1937 1919年5月北京的学生示威引发全国范围内的民族主义情绪浪潮，催生了1921年的中国共产党（CCP）和1924年复兴的中国国民党（GMD）。国民党与共产党合作，发起了一场针对军阀力量的统一运动，最终在蒋介石领导的1926—1928年北伐中达到高潮。成功后，共产党人被清洗出权力层。
 
@@ -892,7 +892,7 @@ THE NATIONALIST REVIVAL    1919–1937 1919年5月北京的学生示威引发全
 
 Q i n g h a i Luding Wuwei Juyan Lanzhou
 
-## C H I N A  I N  T U R M O I L
+C H I N A  I N  T U R M O I L
 
 THE LONG MARCH    1934–1935 在与蒋介石国民党的内战中，中国的共产主义军队被迫从 southeastern Jiangxi province 的根据地撤退。1934年10月，共产党领袖毛泽东率领约10万名男女及其家属，向西然后向北长征，穿越敌对的地形，到达陕西省北部山区的新的根据地；约8000人幸存，于1935年10月抵达。
 
@@ -934,7 +934,7 @@ Y a n g t z e
 
 Taiwan Hainan
 
-## G U A N G D O N G
+G U A N G D O N G
 
 J I A N G X I J E H O L S H A A N X I J A P A N P A C I F I C O C E A N E a s t
 
@@ -946,19 +946,19 @@ M A N C H U R I A C H I N A Xiapi Yufu Zunyi Nanning Julu Sanshui Xi’an Luolan
 
 T H E S L I D E TO  WA R 1918 –1939
 
-## A T L A
+A T L A
 
-## N T I C
+N T I C
 
 O C
 
-## E A N
+E A N
 
-## P O R
+P O R
 
-## T U G
+T U G
 
-## A L
+A L
 
 Lisbon Porto 在1930年代，西班牙高度两极分化，教会与国家、城市与农村、自由与保守价值观、富人与穷人之间存在重大分歧。政治光谱的一端是右翼的民族阵线（民族派），由长枪党（西班牙法西斯政党）、保王派和一些天主教徒支持。另一端是左翼的人民阵线（共和派），由共产党人、社会党人、自由派和无政府主义者组成。
 
@@ -968,9 +968,9 @@ Lisbon Porto 在1930年代，西班牙高度两极分化，教会与国家、城
 
 到1939年春，冲突结束，佛朗哥的政府被欧洲大部分国家所接受。
 
-## THE SPANISH
+THE SPANISH
 
-## CIVIL WAR
+CIVIL WAR
 
 作为第二次世界大战的前奏，西班牙内战（1936—1939）是民选政府支持者与新兴军事独裁之间的一场苦斗。其他几个国家也向双方提供了支持。
 
@@ -980,19 +980,19 @@ Lisbon Porto 在1930年代，西班牙高度两极分化，教会与国家、城
 
 1936年8月22日 葡萄牙允许德国船只停靠里斯本，并从那里将军需品运入民族派控制区。
 
-## THE WAR BEGINS    JULY
+THE WAR BEGINS    JULY
 
 1936年7月17日，驻西属摩洛哥的民族派军队发动政变，反对新当选的共和政府。佛朗哥于7月19日接管非洲军团——一支以摩洛哥为基地的职业士兵队伍。从7月27日起，佛朗哥的军队由德国和意大利军队从摩洛哥空运至西班牙，战斗很快蔓延到西班牙西南部。
 
 德国支持 意大利支持
 
-## INTERNATIONAL INTERVENTION
+INTERNATIONAL INTERVENTION
 
 尽管27个国家在1936年9月签署了不干涉公约，但这场战争的意识形态性质赋予了它国际维度。民族派得到了法西斯意大利和纳粹德国提供的士兵和装备的援助。共和派则得到俄罗斯共产主义政府、墨西哥政府，以及国际纵队的志愿者——来自世界各地前来对抗法西斯主义的左翼战士——的支持。
 
 苏联支持 弗朗西斯科·佛朗哥将军
 
-## SPAIN IN WORLD WAR II
+SPAIN IN WORLD WAR II
 
 ATROCITIES AGAINST CIVILIANS    1936–1939 双方在战争期间都对平民犯下了暴行。共和派针对任何被认为是右翼的人，包括教师、律师、市长和地主，并洗劫了许多教堂。
 
@@ -1000,19 +1000,19 @@ ATROCITIES AGAINST CIVILIANS    1936–1939 双方在战争期间都对平民犯
 
 共和派暴力 民族派暴力
 
-## T H E S PA N I S H  C I V I L  WA R
+T H E S PA N I S H  C I V I L  WA R
 
 M e d i t e r r a n e a n S e a
 
 S P A I N F R A N C E T a g u s D u e r o Ebr o Majorca Menorca Ibiza S P A N I S H M O R O C C O Oviedo León Gijón Santander Bilbao Guernica Burgos Valladolid Salamanca Jul 6–25, 1937 Brunete Cáceres Toledo Mérida Madrid Mar 8, 1937 Guadalajara Saragossa Teruel Albacete Belchite San Sebastián Tarragona Barcelona Castellón de la Plana Cartagena Almería Granada Lopera Seville Huelva Badajoz Cádiz Córdoba Tangier Apr 15, 1939 Vinaròs Palma Alicante Valencia
 
-## ANDORRA
+ANDORRA
 
 Feb 6–27, 1937 Jarama Jan 5–Feb 4, 1939 Valsequillo Feb 3–8, 1937 Málaga C A TA L O N I A
 
-## BASQ
+BASQ
 
-## UE C
+UE C
 
 OUN TRY Mar 27, 1939 民族派进入马德里。4月1日，佛朗哥宣布敌对行动结束。
 
@@ -1044,7 +1044,7 @@ OUN TRY Mar 27, 1939 民族派进入马德里。4月1日，佛朗哥宣布敌对
 
 1937年3月 佛朗哥将重心转向进攻西班牙北部的工业区，如巴斯克地区——一处共和派据点。
 
-## A NATION AT WAR
+A NATION AT WAR
 
 佛朗哥的民族派军队最初在西属摩洛哥和西班牙西南部取得领土，到1937年逐渐占领了北部以保守派农民为主的农业区。到1939年他们夺取了共和派的加泰罗尼亚，切断了巴塞罗那与马德里的联系，确保了胜利。
 
@@ -1058,7 +1058,7 @@ NATIONALISTS TRIUMPH    MAY 1937–APRIL 1939 1937年5月，内讧分裂了驻�
 
 民族派的胜利
 
-## TIMELINE
+TIMELINE
 
 图例
 
@@ -1072,9 +1072,9 @@ T H E S L I D E TO  WA R 1918 –1939 1937年7月爆发的战事，是日本长�
 
 它未能击败陕西一支主要的共产主义游击战，也无法击退两次大规模国民党和共产党的反攻，在汉口和桂南输掉两场主要战役。
 
-## THE SINO-
+THE SINO-
 
-## JAPANESE WAR
+JAPANESE WAR
 
 日本于1937年7月进攻中国，标志着一场八年战争的开始。战斗残酷；双方军事伤亡超过700万，1700万至2200万中国平民丧生。
 
@@ -1082,23 +1082,23 @@ T H E S L I D E TO  WA R 1918 –1939 1937年7月爆发的战事，是日本长�
 
 被杀。
 
-## T H E S I N O - J A PA N E S E WA R
+T H E S I N O - J A PA N E S E WA R
 
 日本帝国地图，约1939年 此图的红色区域显示日本1930年的帝国，包括朝鲜和台湾；右侧粉色区域显示1931—1933年的征服，包括满洲。粉色色调显示到1937年在中国取得的进展，橙色色调显示1938—1939年取得的进展。
 
 T H E S L I D E TO  WA R 1918 –1939 Gibraltar
 
-## S P A I N
+S P A I N
 
-## PORTUGAL
+PORTUGAL
 
 UN ITE D K IN GD OM M O R O C C O
 
-## FRENCH
+FRENCH
 
-## WEST
+WEST
 
-## AFRICA
+AFRICA
 
 "拯救意大利所欠缺的，不是纲领，而是人才与意志。" 贝尼托·墨索里尼，1920年于乌迪内发表的演讲 △ 希特勒在奥地利，1938年3月 在德奥合并之后，希特勒胜利地穿越奥地利前往维也纳，在英雄广场向20万狂喜的德奥人士发表讲话。
 
@@ -1110,11 +1110,11 @@ UN ITE D K IN GD OM M O R O C C O
 
 ## 1923年。1939年意大利军队兼并阿尔巴尼亚
 
-## ALLIED REARMAMENT
+ALLIED REARMAMENT
 
-## GERMANY AND
+GERMANY AND
 
-## ITALY EXPAND
+ITALY EXPAND
 
 一战后的岁月里，法西斯意大利和纳粹德国的政府都奉行扩张主义政策，旨在扩大领土并推翻1919年《凡尔赛和约》的条款。当时，它们几乎未遭到其他欧洲国家的反对。
 
@@ -1134,103 +1134,103 @@ UN ITE D K IN GD OM M O R O C C O
 
 英国喷火式战斗机生产线
 
-## G E R M A N Y  A N D I TA LY  E X PA N D
+G E R M A N Y  A N D I TA LY  E X PA N D
 
 Algiers Barcelona Rome Naples Taranto Athens Antalya Trieste Genoa Marseille Tunis Tripoli Benghazi Alexandria Port Said Suez Cairo Aswan Port Sudan Suakin Massawa Assab Aden Gondar Addis Ababa Dire Dawa Asmara Makale Al Jawf Zadar Fiume Hamburg Berlin Munich Danzig Prague Vienna Budapest Warsaw Teschen The Hague Memel Obbia Khartoum
 
-## TRIPOLITANIA
+TRIPOLITANIA
 
-## ALBANIA
+ALBANIA
 
 Malta Corsica Sardinia Balearic Islands Sicily
 
-## SWEDEN
+SWEDEN
 
-## CYRENAICA
+CYRENAICA
 
-## KUFRA
+KUFRA
 
-## S A U D I
+S A U D I
 
-## A R A B I A
+A R A B I A
 
 A d r i a t i c  S e a
 
-## SWITZERLAND
+SWITZERLAND
 
 Dodecanese Islands C r e t e C o r f u
 
-## GREECE
+GREECE
 
-## I T A L Y
+I T A L Y
 
-## YUGOSLAVIA
+YUGOSLAVIA
 
-## AUSTRIA
+AUSTRIA
 
-## ANGLO-EGYPTIAN
+ANGLO-EGYPTIAN
 
-## SUDAN
+SUDAN
 
-## A L G E R I A
+A L G E R I A
 
-## TUNISIA
+TUNISIA
 
-## AOUZOU STRIP
+AOUZOU STRIP
 
-## K E N Y A
+K E N Y A
 
-## E G Y P T
+E G Y P T
 
 Nile
 
-## BELGIUM
+BELGIUM
 
-## LUXEMBOURG
+LUXEMBOURG
 
 C y p r u s
 
-## HUNGARY
+HUNGARY
 
-## C Z E C H O S L O V A K I A
+C Z E C H O S L O V A K I A
 
 B a l t i c  S e a
 
-## EAST
+EAST
 
-## PRUSSIA
+PRUSSIA
 
-## DENMARK
+DENMARK
 
-## LATVIA
+LATVIA
 
-## ITALIAN SOMALILAND
+ITALIAN SOMALILAND
 
 N o r t h S e a
 
-## BRITISH
+BRITISH
 
-## SOMALILAND
+SOMALILAND
 
-## ETHIOPIA
+ETHIOPIA
 
-## FRENCH
+FRENCH
 
-## SOMALILAND
+SOMALILAND
 
-## ERITREA
+ERITREA
 
 R e d   S e a G E R M A N Y NE TH ER L A N D S F R A N C E U S S R T U R K E Y M e t e r r a n e a n   S e a L I B Y A I T A L I A N E A S T A F R I C A R O M A N I A P O L A N D I N D I A N O C E A N
 
-## HITLER FACES EAST
+HITLER FACES EAST
 
 1939年，阿道夫·希特勒将注意力转向东部波罗的海沿岸的前德国城市。梅梅尔港的未来在一战后一直悬而未决，但该城最终于1924年被立陶宛占领。1939年3月，希特勒迫使立陶宛将该港割让回德国。在其西面，由国际联盟管理的但泽自由市已于1933年选出了一个纳粹参议院。
 
 1939年9月1日，其纳粹领袖阿尔伯特·福斯特宣布该城与德国合并。
 
-## TIMELINE
+TIMELINE
 
-## EXPANSION IN EUROPE AND BEYOND
+EXPANSION IN EUROPE AND BEYOND
 
 1919年《凡尔赛和约》的无效和国际联盟的软弱（见第16—17页），使意大利和德国的法西斯独裁得以在海外扩张领土。意大利扩大了其在非洲和巴尔干的帝国，而德国则吸收了奥地利和捷克西部。
 
@@ -1238,7 +1238,7 @@ R e d   S e a G E R M A N Y NE TH ER L A N D S F R A N C E U S S R T U R K E Y M
 
 奥地利，1938年被德国取得
 
-## ANSCHLUSS   MARCH
+ANSCHLUSS   MARCH
 
 1918年哈布斯堡帝国崩溃后，奥地利大多数讲德语的人口都希望与德国共和国统一，但《凡尔赛和约》禁止与德国合并（Anschluss）。
 
@@ -1278,13 +1278,13 @@ R e d   S e a G E R M A N Y NE TH ER L A N D S F R A N C E U S S R T U R K E Y M
 
 T H E S L I D E TO  WA R 1918 –1939 犹太会堂起火 1938年11月9日，德国北部汉诺威的主要会堂被纳粹焚为平地。城中的犹太商店和住宅也遭洗劫，家具被拖到广场上烧毁。
 
-## K R I S TA L L N AC H T
+K R I S TA L L N AC H T
 
 在冯·拉特于11月9日死亡后的几个小时内，全德纳粹掀起了一场暴力狂潮，袭击会堂和犹太人的商铺与住宅。这一事件因散落街头的碎玻璃而被称为"水晶之夜"（Kristallnacht）。到一天后骚乱结束时，约100座会堂被毁，另有数百座被大火严重损坏。许多犹太墓地遭亵渎，至少7500家犹太人的商店被洗劫一空。
 
 起因与后果 希特勒是否曾下达发动这场骚乱的具体命令尚不确定。宣传部长戈培尔迅速声称，这场骚乱是针对一次懦弱袭击的民族愤怒的爆发。除了通过宣传煽动种族仇恨外，纳粹还通过在学校中讲授、并在1935年引入《纽伦堡法案》而制度化了反犹太主义，该法案剥夺了犹太人的德国公民身份。在冯·拉特死后，犹太人被罚款10亿帝国马克，并奉命修复骚乱造成的一切损坏。约3万名犹太男子被捕，其中大多数被送往集中营。
 
-## KRISTALLNACHT
+KRISTALLNACHT
 
 1938年11月，一名17岁的波兰犹太人赫舍尔·格林斯潘，刺杀了在德国驻巴黎大使馆工作的外交官恩斯特·冯·拉特。这触发了一场纳粹骚乱，给整个第三帝国的犹太人带来了灾难性后果。
 
@@ -1294,33 +1294,33 @@ T H E S L I D E TO  WA R 1918 –1939 犹太会堂起火 1938年11月9日，德�
 
 T H E S L I D E TO  WA R 1918 –1939 F R A N C E
 
-## A T L A N T I C
+A T L A N T I C
 
-## O C E A N
+O C E A N
 
 S P A I N P O R T U G A L
 
-## U N I T E D
+U N I T E D
 
-## K I N G D O M
+K I N G D O M
 
-## I R E L A N D
+I R E L A N D
 
 Madrid Glasgow Barcelona London Dublin Belfast Paris 对世界和平的威胁在1930年代加剧，因为德国和意大利在欧洲扩张其帝国属地，而在东方日本与中国陷入冲突（见第26—27页）。作为回应，欧洲两个主要民主国家——英国和法国——放弃了绥靖希特勒和墨索里尼的政策，转而采取威慑。1939年3月31日，它们向波兰保证，若该国遭攻击，西方列强将施以援手，并在意大利兼并阿尔巴尼亚后，将类似的保证扩展到罗马尼亚、希腊和土耳其。
 
 随着两个敌对权力集团的出现，几个欧洲国家抱团宣布中立，但这样的外交联盟，比起1939年8月宣布的欧洲两个意识形态宿敌——纳粹德国和共产苏联——达成互不侵犯条约，便微不足道了。其秘密条款重绘了中欧和东欧的地图，并将先前独立的国家纳入它们的两个势力范围。有了互不侵犯的保障，希特勒的德国便为成功入侵波兰扫清了道路。
 
-## COUNTDOWN
+COUNTDOWN
 
-## IN EUROPE
+IN EUROPE
 
 在战前一阵外交活动的狂热中，各国结成联盟、提供保证，而不愿作战者则宣布中立。这幅拼图的最后一块——纳粹-苏联互不侵犯条约——是本世纪最令人惊讶的外交 coup。
 
 "无论哪一方自称胜利者，战争中都没有赢家，所有人都是输家。" 内维尔·张伯伦，英国首相，1938年 JOSEPH STALIN 1879–1953 斯大林出生于格鲁吉亚哥里，本名约瑟夫·朱加什维利，曾在神学院受教育，却因持有革命观点被开除。曾两次被沙皇政府流放西伯利亚，自1912年起以"斯大林"即"钢铁之人"为人所知。他在1917年十月革命中协助列宁，成为布尔什维克政府中的民族事务人民委员。1922年他成为党的总书记，并利用此职建立自己的权力基础。到1920年代末，他已建立起一个一直持续到1953年他去世的独裁统治。
 
-## TIMELINE
+TIMELINE
 
-## A DIVIDED EUROPE
+A DIVIDED EUROPE
 
 纳粹德国的崛起及其与意大利的联盟，将欧洲分裂为两个阵营。一组国家试图保持中立，而苏联则与纳粹德国达成了令人惊讶的谅解。
 
@@ -1330,15 +1330,15 @@ Madrid Glasgow Barcelona London Dublin Belfast Paris 对世界和平的威胁在
 
 哥本哈根宣言签署国
 
-## COPENHAGEN DECLARATION
+COPENHAGEN DECLARATION
 
-## JULY
+JULY
 
 1938年7月，挪威、瑞典、丹麦、荷兰、比利时、芬兰以及爱沙尼亚、拉脱维亚和立陶宛三个波罗的海国家，在丹麦首都哥本哈根签署了一项宣言，声明它们将在任何即将到来的欧洲战争中保持中立。这些国家大多在一战中保持中立或尚未独立，希望避免被卷入未来的冲突。
 
 同盟国与获承诺援助的国家
 
-## THE END OF APPEASEMENT
+THE END OF APPEASEMENT
 
 在德国打破1938年9月的《慕尼黑协定》（见第28—29页）并占领捷克西部之后，英国和法国向波兰（1939年3月）、罗马尼亚和希腊（1939年4月）以及土耳其（1939年5月）提供保证，将保卫它们免受攻击。
 
@@ -1350,79 +1350,79 @@ Madrid Glasgow Barcelona London Dublin Belfast Paris 对世界和平的威胁在
 
 1938年11月 在共产党与极右翼紧张关系下，法国发生罢工。
 
-## CO U N T D OW N  I N  E U RO P E
+CO U N T D OW N  I N  E U RO P E
 
 N o r w e g i a n S e a N o r t h S e a G E R M A N Y
 
-## Y U G
+Y U G
 
-## O S L
+O S L
 
-## A V I
+A V I
 
-## A
+A
 
-## R O M
+R O M
 
-## A N I
+A N I
 
-## A
+A
 
-## T U R K E
+T U R K E
 
-## Y
+Y
 
-## P O L
+P O L
 
-## A N D
+A N D
 
 M e d i t e r r a n e a n  S e a B a l t i S e a U S S R
 
-## NETHERLANDS
+NETHERLANDS
 
-## F I N L A N D
+F I N L A N D
 
-## N O R W A Y
+N O R W A Y
 
-## S W E D E N
+S W E D E N
 
-## H U N G A R Y
+H U N G A R Y
 
-## A L B A N I A
+A L B A N I A
 
-## A U S T R I A
+A U S T R I A
 
-## BOHEMIA
+BOHEMIA
 
 & MORAVIA
 
-## G R E E C E
+G R E E C E
 
-## B U L G A R I A
+B U L G A R I A
 
-## S L O V A K I A
+S L O V A K I A
 
-## L I T H U A N I A
+L I T H U A N I A
 
-## L A T V I A
+L A T V I A
 
-## E S T O N I A
+E S T O N I A
 
-## I T A
+I T A
 
-## L Y
+L Y
 
-## SWITZERLAND
+SWITZERLAND
 
-## BELGIUM
+BELGIUM
 
-## D E N M A R K
+D E N M A R K
 
-## LUXEMBOURG
+LUXEMBOURG
 
-## EAST
+EAST
 
-## PRUSSIA
+PRUSSIA
 
 B E S S A R A B I A Stockholm Tallinn Riga Helsinki Leningrad Warsaw Krakow Bratislava Budapest Belgrade Soﬁa Athens Palermo Marseille Bucharest Vienna Nuremberg Amsterdam Munich Zurich Rome Berlin Memel Danzig Oslo Copenhagen Milan Wilno △ 希特勒与熊 在一幅批评苏德条约的漫画中，这幅1939年的法国讽刺漫画将希特勒和苏联——"熊"——描绘为在争夺欧洲地图。
 
@@ -1454,15 +1454,15 @@ B E S S A R A B I A Stockholm Tallinn Riga Helsinki Leningrad Warsaw Krakow Brat
 
 1939年8月 希特勒发出最后通牒，声称对但泽自由市拥有主权。
 
-## GERMANY
+GERMANY
 
-## TRIUMPHANT
+TRIUMPHANT
 
 1939–1941 随着轴心国军队席卷欧洲，并推进到苏联、巴尔干和非洲，同盟国发现自己正在所有战线为生存而战。
 
 G E R M A N Y  T R I U M P H A N T 1939 –19 41
 
-## WAR IN EUROPE
+WAR IN EUROPE
 
 第二次世界大战第一阶段的德国军队的胜利，使阿道夫·希特勒成为欧洲大陆的主宰。在温斯顿·丘吉尔的领导下，英国成功抵御了德国的空中猛攻，但除了仅仅生存下去之外，并无近期前景。
 
@@ -1480,7 +1480,7 @@ G E R M A N Y  T R I U M P H A N T 1939 –19 41
 
 △ 逃离的平民 1940年德军逼近法国首都时，一个巴黎家庭出发寻找安全的避难所。全城三分之二的人口惊慌逃往乡下。
 
-## HITLER TRIUMPHANT
+HITLER TRIUMPHANT
 
 纳粹德国在三次短暂的战役中征服了北欧大部：第一次是1939年9月对波兰，第二次是1940年4月开始的斯堪的纳维亚，第三次是1940年5—6月的西欧
 
@@ -1492,13 +1492,13 @@ G E R M A N Y  T R I U M P H A N T 1939 –19 41
 
 1939年9月3日 英国和法国对德宣战 9月 11月 1月 5月 3月
 
-## EUROPE
+EUROPE
 
 美国 1939年11月29日 触发苏芬战争 1939年10月6日 希特勒发表呼吁和平的演讲，遭英法拒绝 1940年4月7日 先发制人于盟军计划，德国入侵丹麦和挪威 1940年5月9日 德国在低地国家和法国的进攻开始
 
 1940年6月10日 意大利参战 1939年9月29日 德国和苏联同意瓜分波兰 1940年6月3日 盟军从敦刻尔克撤退完成 1940年5月10日 丘吉尔成为首相
 
-## WA R  I N  E U RO P E
+WA R  I N  E U RO P E
 
 几周后法国的投降，随之建立了维希法国政府——一个致力于与纳粹合作的政权。希特勒及其盟友控制了几乎整个欧洲大陆。
 
@@ -1514,7 +1514,7 @@ G E R M A N Y  T R I U M P H A N T 1939 –19 41
 
 G E R M A N Y  T R I U M P H A N T  1939 –19 41
 
-## POLAND UNDER ATTACK
+POLAND UNDER ATTACK
 
 波兰无力抵抗迅速将其瓜分的德国和苏联军队。
 
@@ -1526,7 +1526,7 @@ G E R M A N Y  T R I U M P H A N T  1939 –19 41
 
 1939年波兰边界 苏德分界线 总政府 被德国兼并 被苏联兼并
 
-## POLAND DIVIDED
+POLAND DIVIDED
 
 1939年9月28日—10月12日 德国和苏联外交部长约阿希姆·冯·里宾特洛甫和维亚切斯拉夫·莫洛托夫于9月28日会面，敲定对波兰的瓜分。
 
@@ -1552,37 +1552,37 @@ G E R M A N Y  T R I U M P H A N T  1939 –19 41
 
 9月9—19日 布祖拉河战役以波兰失败告终；17万人被俘。
 
-## GERMANY INVADES
+GERMANY INVADES
 
 1939年8月31日—9月15日 8月31日，希特勒命令德国军队入侵波兰。北方集团军群从东普鲁士扫入，意图切断维斯瓦河以西的波兰主力。南方集团军群向罗兹和克拉科夫推进，然后转向华沙。波兰军队被迅速击退，在库特诺的布祖拉河战役中有值得注意的反攻。
 
 德国北方集团军群的军队 德国南方集团军群的军队 波兰前线军队 1939年9月1日 德军推进 1939年9月1—14日 波兰撤退 波兰布祖拉河口袋 大德意志
 
-## E A S
+E A S
 
-## T  P
+T  P
 
 R U S S I A U S S R
 
-## G R E
+G R E
 
-## A T E
+A T E
 
-## R  G
+R  G
 
 E R M A N Y Gdynia Hel Danzig Königsberg Kaunas Wilno Bialystok Minsk Przemysl Krakow Gleiwitz Lodz Kutno Modlin Poznan Bydgoszcz Lublin Kock Sandomierz Wlodawa Radom Warsaw Lwow Brest-Litovsk 4th Army Frontier Guard Pomeranian Army Poznan Army Lodz Army Krakow Army Carpathian Army Modlin Army Narew Group 3rd Army 8th Army 10th Army 14th Army Ukrainian Front Belorussian Front
 
-## L I T H U A N I A
+L I T H U A N I A
 
 P O L A N D
 
-## S L O V A K I A
+S L O V A K I A
 
 C a r p a t h i a n  M o u n t a i n s B u g Vi st ula San N a r e w B a l t i c  S e a
 
-## P O L A N D  D E S T ROY E D
+P O L A N D  D E S T ROY E D
 
-## POLAND OCCUPIED
+POLAND OCCUPIED
 
 在德苏占领下，犹太人和波兰族人都遭受苦难，大规模处决、关入犹太区和驱逐造成了沉重代价。
 
@@ -1592,7 +1592,7 @@ C a r p a t h i a n  M o u n t a i n s B u g Vi st ula San N a r e w B a l t i c
 
 波兰人被驱逐，1939年10月—1941年6月 苏联领土
 
-## POLAND DESTROYED
+POLAND DESTROYED
 
 波兰在遭受200多年奴役后，于一战结束后作为独立国家出现。然而，1939年德国和苏联仅用了几周就粉碎了波兰的抵抗，瓜分了该国，并开始残酷对待其人民。
 
@@ -1610,7 +1610,7 @@ C a r p a t h i a n  M o u n t a i n s B u g Vi st ula San N a r e w B a l t i c
 
 坦嫩贝格行动首次大规模处决，1939年10月20日 德国领土
 
-## OPERATION TANNENBURG
+OPERATION TANNENBURG
 
 1939年9月—1940年1月 在一场持续的恐怖行动中，坦嫩贝格行动期间，德国人试图摧毁波兰的精英——从知识界和贵族到神父和教师——希望使波兰无力挑战德国。数以万计的波兰人被监禁或处决，往往成批地、公开地，由党卫队别动队实施。
 
@@ -1618,7 +1618,7 @@ THE POLISH GHETTOS    1939年9月—1941年6月 德占波兰的犹太人被隔�
 
 最大的犹太区
 
-## INVASION AND OPPRESSION
+INVASION AND OPPRESSION
 
 波兰在1939年8月31日至10月12日的数周内被摧毁。
 
@@ -1626,65 +1626,65 @@ THE POLISH GHETTOS    1939年9月—1941年6月 德占波兰的犹太人被隔�
 
 为劣等民族，在强加于他们的压迫制度下深受苦难。
 
-## JAN
+JAN
 
-## JUL
+JUL
 
-## JAN
+JAN
 
-## JUL
+JUL
 
-## JAN
+JAN
 
-## TIMELINE
+TIMELINE
 
-## JUL
+JUL
 
-## P O L A N D
+P O L A N D
 
 U S S R
 
-## SLOVAKIA
+SLOVAKIA
 
-## EAST
+EAST
 
-## PRUSSIA
+PRUSSIA
 
-## R O M A N I A
+R O M A N I A
 
 B a l t
 
 S e a
 
-## PROT
+PROT
 
-## ECT ORA
+ECT ORA
 
-## TE O
+TE O
 
-## F
+F
 
-## BOHE
+BOHE
 
-## MIA A
+MIA A
 
-## ND MOR AVI A H U N G A R Y
+ND MOR AVI A H U N G A R Y
 
-## LITHUANIA
+LITHUANIA
 
-## LATVIA
+LATVIA
 
 P o l i s h C o r r i d o r To Arkha ngelsk O blas t To S iber ia To Ka zakh stan Kalinin Katyn Kherson Kiev Minsk Kharkov Lodz Warsaw Śrem Kórnik Kostrzyn Mosina Radom Minsk Mazowiecki Lublin Krakow Bedzin Środa Wielkopolska Książ Wielkopolski 1939年10月—1941年7月 约100万波兰人被从德国区驱逐；该地区由德国人重新定居。
 
 G E R M A N Y  T R I U M P H A N T 1939 –19 41 紧急措施 一旦宣战，担心包括毒气在内的重大空袭，各国政府采取措施确保主要城市的民防能够实施。这里，1939年在巴黎，戴着防毒面具的消防队员进行演习。
 
-## T H E P H O N Y  WA R
+T H E P H O N Y  WA R
 
 这段时期西欧缺乏战斗，对双方都合适：德国人担心在对抗波兰时遭到盟军攻击，而法英需要时间建立自己的军队。在准备工作进行、战时紧急权力在国内实施的同时，军事行动非常有限。英国远征军（BEF）于1939年9月4日部署到法国，但只占据了防御阵地，9月7日法军对萨尔地区的德军进攻仅持续了五天。英国轰炸机飞越德国，但只是投下旨在动摇德国士气的宣传传单。
 
 希特勒于1939年10月6日向英国提出和平建议，但在英国拒绝后，他命令将军们准备入侵法国和比利时。最初的计划不令人满意，严冬意味着进攻被推迟了29次。相反，1940年4月德国入侵丹麦和挪威，结束了虚假战争。
 
-## THE PHONY
+THE PHONY
 
 ## WAR 尽管同盟国于1939年9月3日对德宣战，但直到1940年春陆地上的战斗很少。敌对行动的这一间歇被称为"虚假战争"。 △ 安全预防 在这幅英国政府宣传海报中，一名防空警戒员警告一名学童他应离开伦敦。总计，
 
@@ -1696,17 +1696,17 @@ G E R M A N Y  T R I U M P H A N T 1939 –19 41 紧急措施 一旦宣战，担
 
 G E R M A N Y  T R I U M P H A N T 1939 –19 41
 
-## THE ROUTE
+THE ROUTE
 
-## OF GRAF SPEE
+OF GRAF SPEE
 
 1939年8月，施佩伯爵号驶向南大西洋。以其28节的最高航速，她被设计得能甩开或压倒任何追赶者。
 
-## GRAF SPEE SETS SAIL
+GRAF SPEE SETS SAIL
 
 1939年8月21日—9月30日 施佩伯爵号于8月21日与补给舰阿尔特马克号离开德国，驶向南大西洋。然而，直到9月30日施佩伯爵号才声称她的第一个受害者——5500吨（5000公吨）的商船"克莱门特"号——在巴西近海。大西洋上八支盟军袭击舰猎杀组中的三支——G、H和K部队——受命在浩瀚的海洋中寻找施佩伯爵号。
 
-## ATLANTIC MISSION
+ATLANTIC MISSION
 
 1939年10月1日—12月13日 施佩伯爵号在一次穿越大西洋、进入印度洋再返回的航行中又击沉了八艘英国商船。尽管她需要修理，朗斯多夫仍选择再进行一次攻击——拦截他知道在拉普拉塔河（Rio de la Plata）地区的一支护航队。
 
@@ -1718,7 +1718,7 @@ G E R M A N Y  T R I U M P H A N T 1939 –19 41
 
 12月7日 "斯特伦舍"号被击沉 12月3日 "泰罗阿"号被击沉 10月22日 "特雷瓦尼恩"号被击沉 12月17日 施佩伯爵号自沉 9月30日 "克莱门特"号被击沉 10月17日 "猎人"号被击沉
 
-## BATTLE OF THE RIVER PLATE
+BATTLE OF THE RIVER PLATE
 
 1939年10月13—14日夜，一艘德国潜艇在斯卡帕湾——英国主要海军基地——的泊位上击沉了"皇家橡树"号。这一大胆攻击是对英国士气的打击，但仅仅两个月后，皇家海军就在战争的第一场主要海战中出人意料地取得了胜利。
 
@@ -1730,129 +1730,129 @@ G E R M A N Y  T R I U M P H A N T 1939 –19 41
 
 盟军商船"克莱门特"号被击沉 阿尔特马克号补给舰 被击沉的盟军商船 见说明 12月13日 拉普拉塔河海战 威廉港 加那利群岛 直布罗陀
 
-## IRELAND
+IRELAND
 
 S c a p a F l o w U S A C A N A D A
 
-## P A C
+P A C
 
-## I F I
+I F I
 
 C O C E A N
 
-## SPAIN
+SPAIN
 
-## EGYPT
+EGYPT
 
-## NIGERIA
+NIGERIA
 
-## FRANCE
+FRANCE
 
-## GREATER
+GREATER
 
-## GERMANY
+GERMANY
 
 UK
 
-## ITALY
+ITALY
 
-## LIBYA
+LIBYA
 
-## GREECE
+GREECE
 
-## ALGERIA
+ALGERIA
 
-## I N D I A
+I N D I A
 
 Freetown Takoradi Lagos Cape Town
 
-## SOUTH
+SOUTH
 
-## AFRICA
+AFRICA
 
 FR EN CH W ES T A F R I C A S A U D I
 
 A R A B I A
 
-## CUBA
+CUBA
 
 London B R A Z I L M E X I C O SW ED E N NO R W A Y L部队 M部队 F部队
 
-## M & N
+M & N
 
 K部队 H部队 G部队 New York Boston Halifax Kingston Port of Spain Rio de Janeiro Montevideo
 
-## BRITISH
+BRITISH
 
-## GUIANA
+GUIANA
 
-## GOLD
+GOLD
 
-## COAST
+COAST
 
-## PERU
+PERU
 
 Brest B O L I V I A
 
-## A T L A N T I C
+A T L A N T I C
 
-## O C E A N
+O C E A N
 
 I N D I A N O C E A N Medite r r a n e a n S e a
 
-## B AT T L E O F T H E R I V E R  P L AT E
+B AT T L E O F T H E R I V E R  P L AT E
 
 6:30 am 7:00 am 7:00 am 7:08 am 7:22 am 7:30 am 7:30 am 8:00 am 6:14 am 6:15 am 6:36 am 6:46 am 阿基里斯号开火 埃克塞特号中弹 埃克塞特号中弹 阿基里斯号和阿基里斯号开火 阿基里斯号开火 埃克塞特号开火 施佩伯爵号中弹 至
 
 福克兰群岛
 
-## S O U
+S O U
 
-## T H
+T H
 
-## A T L
+A T L
 
-## A N T I C
+A N T I C
 
-## O C E
+O C E
 
 ## A N To Mo ntevi deo 阿基里斯号 埃克塞特号 施佩伯爵号 阿基里斯号 阿贾克斯号
 
-## CONFRONTATION AT THE RIVER PLATE
+CONFRONTATION AT THE RIVER PLATE
 
 拉普拉塔河河口挤满了运载谷物和肉类的商船交通。哈伍德断定这是对付施佩伯爵号的最佳地点。
 
-## BATTLE STATIONS
+BATTLE STATIONS
 
 12月13日 凌晨5:30—6:00 12月13日凌晨早些时候，施佩伯爵号的瞭望员首先以为发现了一支护航队护卫，但很快辨认出是皇家海军重巡洋舰"埃克塞特"号，以及两艘轻武装的利安德级巡洋舰"阿贾克斯"号和"阿基里斯"号。朗斯多夫没有逃跑，而是命令船员进入战斗岗位，以最高速度接近敌人。
 
 阿贾克斯号侦察机
 
-## EXETER DAMAGED
+EXETER DAMAGED
 
 12月13日 6:00—6:30 英国舰队在6点刚过发现施佩伯爵号。哈伍德本人在几年前制定了关于与优势舰交战的英国战术：他适时将部队分为两路——埃克塞特号转向西北，阿贾克斯号和阿基里斯号转向东北——以分散这艘重武装军舰的火力。施佩伯爵号开火，将其11英寸火炮集中于埃克塞特号，到6:30该舰已被击中三次，失去一座炮塔和它的"海象"侦察机。
 
 施佩伯爵号、阿贾克斯号和阿基里斯号的联合航线 埃克塞特号 阿贾克斯号 阿基里斯号
 
-## GRAF SPEE SCUTTLED
+GRAF SPEE SCUTTLED
 
 12月13/14—19日 施佩伯爵号藏身于中立港口蒙得维的亚，被允许停留至12月17日以进行修理并卸载伤员。12月15日，一名德国军官以为他发现了英国船只逼近，朗斯多夫确信优势兵力正在守候。
 
 不愿失去施佩伯爵号，他将其驶入河口，约12月17日晚8点自沉。12月19日，朗斯多夫船长在旅馆房间内开枪自杀。
 
-## ATLANTIC HUNTING GROUNDS
+ATLANTIC HUNTING GROUNDS
 
 大西洋航运路线对英国的全球战争努力至关重要。德国针对这些航运的袭击行动需要补给船和好运，才能长期不被发现。
 
 图例 英国控制下 美国 盟军袭击舰猎杀组 主要航运区 主要航线 施佩伯爵号航线
 
-## AUG
+AUG
 
-## SEP OCT NOV DEC
+SEP OCT NOV DEC
 
-## JAN
+JAN
 
-## TIMELINE
+TIMELINE
 
 主要舰船损伤 阿尔特马克号补给船等待区 △ 海军上将施佩伯爵号自沉 1939年12月17日晚，设置在袖珍战列舰施佩伯爵号上的炸药被引爆，以使该舰自沉。超过2万名旁观者目睹了它的沉没。
 
@@ -1862,11 +1862,11 @@ I N D I A N O C E A N Medite r r a n e a n S e a
 
 12月13日上午11:05 埃克塞特号至少被击中七次，仍适航但已无火炮；哈伍德指示其驶往福克兰群岛。
 
-## GRAF SPEE WITHDRAWS
+GRAF SPEE WITHDRAWS
 
 12月13日 6:30—7:30 英军发射的鱼雷迫使施佩伯爵号布下烟幕并转向撤离。阿贾克斯号于6:37放出其侦察机。她和阿基里斯号正在缩小距离，猛烈开火，将施佩伯爵号的主炮从埃克塞特号引开。阿贾克斯号于7:25被击中，不得不转向东。施佩伯爵号被击中数十次，向西撤入拉普拉塔河河口。
 
-## TORPEDO FIRE
+TORPEDO FIRE
 
 埃克塞特号 阿贾克斯号和阿基里斯号的联合 阿贾克斯号 12月13日早6:18 施佩伯爵号向埃克塞特号开火。
 
@@ -1874,7 +1874,7 @@ I N D I A N O C E A N Medite r r a n e a n S e a
 
 G E R M A N Y  T R I U M P H A N T 1939 –19 41 R y b a c h y P e n i n s u l a Murmansk Polyarnyy Harstad Salmijärvi Nautsi Petsamo
 
-## N O R W AY
+N O R W AY
 
 V a r a n g e r F j o r Tana L a p l a n d 在1939年8月23日的莫洛托夫-里宾特洛甫条约中，苏联和德国秘密商定在彼此之间瓜分欧洲大部，预示着即将到来的"领土和政治重组"。根据该条约，波罗的海国家和芬兰落入苏联势力范围，不久苏联就要求芬兰割让他们共享边界上若干战略要地。芬兰拒绝，斯大林下令入侵，意图在芬兰建立一个顺从的政权。
 
@@ -1884,17 +1884,17 @@ V a r a n g e r F j o r Tana L a p l a n d 在1939年8月23日的莫洛托夫-�
 
 高度机动的芬兰滑雪巡逻队在苏军编队后方造成严重破坏。然而，到2月初，改组后的红军将其人力和装备优势转化为战场上的成功。敌对行动于1940年3月13日结束，芬兰将约百分之十的领土割让给苏联。
 
-## THE WINTER
+THE WINTER
 
-## WAR IN FINLAND
+WAR IN FINLAND
 
 1939年冬苏联对芬兰的入侵，遭到一支主要由预备役组成的、熟悉并训练有素适应严寒天气的芬兰军队的凶猛抵抗。芬兰人对数量占优的敌人造成的伤害，帮助他们谈判达成一项避免被完全征服的协议。
 
 从波罗的海国家吞并 从罗马尼亚吞并 图例
 
-## SOVIET ABSORPTION OF THE BALTIC
+SOVIET ABSORPTION OF THE BALTIC
 
-## AND BLACK SEA STATES
+AND BLACK SEA STATES
 
 冬季战争之后，苏联吞并了爱沙尼亚、拉脱维亚、立陶宛和罗马尼亚的部分地区——所有这些在莫洛托夫-里宾特洛甫条约中被承认为处于苏联势力范围内的地区。这些领土于1940年8月作为加盟共和国并入苏联，其中许多居民被视为"人民公敌"，被驱逐到西伯利亚或哈萨克斯坦。
 
@@ -1902,7 +1902,7 @@ V a r a n g e r F j o r Tana L a p l a n d 在1939年8月23日的莫洛托夫-�
 
 △ 芬兰滑雪战士 快速穿过森林，并为恶劣条件装备齐全，芬兰滑雪巡逻队对苏军执行了成功的任务。
 
-## SOVIET INVASION
+SOVIET INVASION
 
 苏联以约45万人的庞大军队入侵芬兰。
 
@@ -1910,15 +1910,15 @@ V a r a n g e r F j o r Tana L a p l a n d 在1939年8月23日的莫洛托夫-�
 
 图例 苏联空袭
 
-## NOV
+NOV
 
-## DEC
+DEC
 
-## JAN
+JAN
 
-## FEB MAR APR
+FEB MAR APR
 
-## TIMELINE
+TIMELINE
 
 北极地区的行动
 
@@ -1928,29 +1928,29 @@ V a r a n g e r F j o r Tana L a p l a n d 在1939年8月23日的莫洛托夫-�
 
 芬兰抵抗
 
-## U S S R
+U S S R
 
-## HUNGARY
+HUNGARY
 
-## ROMANIA
+ROMANIA
 
-## SLOVAKIA
+SLOVAKIA
 
-## BUKOVINA
+BUKOVINA
 
-## BESSARABIA
+BESSARABIA
 
-## LITHUANIA
+LITHUANIA
 
-## LATVIA
+LATVIA
 
-## ESTONIA
+ESTONIA
 
-## P O L A N D
+P O L A N D
 
 T H E W I N T E R  WA R  I N  F I N L A N D K o l a   P e n i n s u l a Leningrad Salla Pelkosenniemi Repola IIomantsi Ägläjärvi Kollaa Salmi Mainila Terijoki Petrozavodsk Kandalaksha Kondopoga Svetogorsk Belomorsk Savonlinna Kemijärvi Märkäjärvi Kokkola Helsinki Tolvajärvi Kuhmo Suomussalmi Raate Porvoo Viipuri Summa Kuopio Mikkeli Turku Vaasa Kemi Oulu Pori Reinforcem en ts
 
-## E S TO N I A
+E S TO N I A
 
 S W E D E N F I N L A N D U S S R G u l f o f F i n l a n d G u l f o f B o t h n i a K a r e l i a n  I s t h m u s W h i t e S e a Kemi Ounas Torne Kollaa River L a k e L a d o g a 1939年12月16—19日 苏军一个师的一部在佩尔科塞涅米战役中被击败，不得不撤退到萨拉。
 
@@ -1966,7 +1966,7 @@ S W E D E N F I N L A N D U S S R G u l f o f F i n l a n d G u l f o f B o t h 
 
 1939年11月30日 苏联空袭赫尔辛基，杀死近100人。
 
-## THE MOSCOW PEACE TREATY
+THE MOSCOW PEACE TREATY
 
 1940年3月3—13日 3月3日，苏军在维伊普里以西建立了一个桥头堡。莫斯科的一个芬兰代表团同意了苏联的条件，3月13日凌晨签署了和平条约。
 
@@ -1976,25 +1976,25 @@ S W E D E N F I N L A N D U S S R G u l f o f F i n l a n d G u l f o f B o t h 
 
 割让给苏联的领土 1940年3月的芬兰
 
-## A REINVIGORATED OFFENSIVE
+A REINVIGORATED OFFENSIVE
 
 1940年2月1—27日 得到第13集团军增援，并有了新的领导、战术和近距离空中支援，苏军在卡累利阿地峡恢复了大规模进攻。坚守了两个月的曼纳海姆防线终于被突破，到2月15日，位于米凯利的芬兰总司令部已下令从防线撤退，因为苏军蜂拥向前。
 
 苏联进攻
 
-## FINNISH VICTORIES
+FINNISH VICTORIES
 
 1939年12月7日—1940年1月7日 敌对行动开始一周后，苏联第9集团军攻占了苏奥穆斯萨尔米村，但其进展随后被芬兰的"莫蒂"战术遏制。到12月底，芬兰人重新夺回该村，并击溃了派来增援的一个苏军师。大量苏军装备被缴获，包括坦克、火炮和反坦克炮。芬兰人还在托尔瓦耶尔维战胜了苏军。
 
 芬兰胜利
 
-## THE KARELIAN ISTHMUS
+THE KARELIAN ISTHMUS
 
 1939年11月30日—12月24日 苏军主攻由第7集团军领衔，是向卡累利阿地峡——芬兰湾和拉多加湖之间的宽阔陆地——的突击。他们的目标是维伊普里，通往赫尔辛基路线上的中转站。然而，芬兰人守住了曼纳海姆防线，他们在萨尔米和伊洛曼齐之间的部队阻挡了苏军第8集团军试图从拉多加湖北面迂回地峡的企图。
 
 芬兰反击 苏联进攻 曼纳海姆防线
 
-## FINLAND BISECTED
+FINLAND BISECTED
 
 1939年11月30日—12月16日 位于白海以西的苏军第9集团军，试图通过芬兰中部进行钳形进攻。其目标是夺取波的尼亚湾上的铁路枢纽凯米和奥卢。北面的苏军师在萨拉附近陷入困境，而在南部战区，芬兰人在雷波拉和苏奥穆斯萨尔米进行了顽强抵抗。
 
@@ -2004,11 +2004,11 @@ S W E D E N F I N L A N D U S S R G u l f o f F i n l a n d G u l f o f B o t h 
 
 G E R M A N Y  T R I U M P H A N T 1939 –19 41 空军空袭 英国阵地 英法军队登陆
 
-## SOUTHERN NORWAY FALLS TO GERMANY
+SOUTHERN NORWAY FALLS TO GERMANY
 
 1940年4月9日—5月3日 英法军队在翁达尔斯内斯、莫尔德和纳姆索斯登陆，并与挪威人联系，在特隆赫姆发动反攻。然而，盟军发现自己遭到空军攻击；由于缺乏足够的防空，盟军从翁达尔斯内斯（4月30日—5月1日）和纳姆索斯（5月2—3日）撤退。到5月初，德国军队已从奥斯陆、卑尔根和特隆赫姆向内推进，并确保了挪威南部。
 
-## TWO NAVAL BATTLES AT NARVIK
+TWO NAVAL BATTLES AT NARVIK
 
 1940年4月10—13日 德国登陆后一天，皇家海军第2驱逐舰队五艘驱逐舰进入奥福特峡湾（纳尔维克所在的小湾），击沉两艘德国驱逐舰，并重创另外五艘。两艘英国船被击沉。英国战列舰"厌战"号和航母"愤怒"号后来带着九艘驱逐舰抵达，搜寻任何剩余德国船只。4月13日，八艘德国驱逐舰和一艘潜艇被击沉或自沉。
 
@@ -2038,19 +2038,19 @@ G E R M A N Y  T R I U M P H A N T 1939 –19 41 空军空袭 英国阵地 英�
 
 德国伞兵空降 德国推进 Lake Väner Örnsköldsvik Norrköping Vossevangen Lillehammer Kristiansand Flekkefjord Egersund Jøssingfjord Haugesund Östersund Trondheim Støren Linköping Stockholm Stavanger Sola Leikanger Sundsvall Tromsø Ålesund Svolvær Bollnäs Finnsnes Namsos Örebro Uppsala Harstad Rørvik Gävle Bergen Hamar Group 5 Group 3 Group 6 Group 2 Group 4 Narvik O f o t f j o r d Bodø Kiruna Molde Åndalsnes Larvik Oslo Rjukan Group 1 Steinkjer N o r w e g i a n S e a G u l f o f B o t h n a B a l t i c   S e a
 
-## E S T O N I A
+E S T O N I A
 
 S W E D E N N O R W A Y
 
-## T H E B AT T L E F O R  N O RWAY
+T H E B AT T L E F O R  N O RWAY
 
 Copenhagen Magdeburg Dortmund Karlskrona Flensburg Halmstadt Hamburg Ventspils Potsdam Rostock Malmö Odense Aalborg Bremen Esbjerg Lübeck Kalmar Emden Århus Leipzig Šiauliai Assen Berlin Riga Kiel Bornholm No r th S ea
 
-## DENMARK
+DENMARK
 
-## L A T V I A
+L A T V I A
 
-## L I T H U A N I A
+L I T H U A N I A
 
 G R E A T E R G E R M A N Y 1938年7月，挪威和其他八国宣布在任何可能的欧洲冲突中保持中立。德国则同意尊重挪威的完整，只要其中立不被任何其他强国侵犯。和平未能持久。
 
@@ -2064,7 +2064,7 @@ G R E A T E R G E R M A N Y 1938年7月，挪威和其他八国宣布在任何�
 
 盟军在南部挪威的行动仅三周后就放弃了，但战斗在北部继续，挪威和盟军最终重新夺回了纳尔维克。然而，1940年5月德国在法国和低地国家的入侵（见第48—49页）决定了撤退和撤离，因为剩余的盟军士兵在其他地方急需。
 
-## THE BATTLE FOR NORWAY
+THE BATTLE FOR NORWAY
 
 1940年3月1日，阿道夫·希特勒签署了"威悉河演习"行动的命令。这一大胆行动的主要目标是控制挪威——这一目标也需要占领丹麦。入侵推进了德国获得北海更大通道的目标，并为其战舰和潜艇提供了通往大西洋的门户。
 
@@ -2074,25 +2074,25 @@ G R E A T E R G E R M A N Y 1938年7月，挪威和其他八国宣布在任何�
 
 盟军最终于5月28日夺回纳尔维克，德军向瑞典边境进行了战斗撤退。然而，仅仅10天后，盟军士兵就被撤离，因为他们在其他地方被急需。
 
-## GERMAN SUCCESS IN NORWAY
+GERMAN SUCCESS IN NORWAY
 
 丹麦和挪威的迅速攻占是德国诸兵种联合作战的胜利。然而，尽管盟军的陆上撤退意味着德国确保了通往北部水域的空中和海上通道，盟军在海上的抵抗却重创了德国海军的水面舰队。
 
 图例 盟军进攻 盟军撤退 被击沉的盟军船只
 
-## APR
+APR
 
-## MAY JUN JUL
+MAY JUN JUL
 
-## TIMELINE
+TIMELINE
 
 被击沉的德国船只 德国的战役
 
-## THE ALTMARK INCIDENT
+THE ALTMARK INCIDENT
 
 4月11日 英国潜艇"矛鱼"号鱼雷击中并使其前往基尔的德国重巡洋舰"吕措"号失去行动能力。
 
-## THE FATE OF NORWAY
+THE FATE OF NORWAY
 
 1940年6月10日—此后 失去盟军支持，挪威于6月10日投降，并一直处于德国占领下直到1945年5月。
 
@@ -4082,43 +4082,43 @@ B a l t i c S e a G u l f   o f
 
 F i n l a n d B l a c k S e a Prut Bug V is tula P ri pet Lake Ladoga B u g D n e s t e r C r i m e a B E S S A R A B I A R O M A N I A
 
-## F I N L A N D
+F I N L A N D
 
-## B E L O R U S S I A
+B E L O R U S S I A
 
-## U K R A I N E
+U K R A I N E
 
-## EAST
+EAST
 
-## PRUSSIA
+PRUSSIA
 
-## GENERAL
+GENERAL
 
-## GOVERNMENT
+GOVERNMENT
 
-## L A T V I A
+L A T V I A
 
-## E S T O N I A
+E S T O N I A
 
-## H U N
+H U N
 
 G A R Y S L O V A K I A G R E A T E R G E R M A N Y
 
-## L I T
+L I T
 
 H U A N I A S W E D E N
 
-## BOHEMIA
+BOHEMIA
 
-## AND MORAVIA
+AND MORAVIA
 
 Army Group North North-West Front Army Group Center Army Group South Novgorod Leningrad Maladzyechna Khmelnytskyy Staraya Russa Novozybkov Kremenchuk Velikiye Luki Volkovysk Voznesensk Kirovograd Daugavpils Kryvyy Rih Chernobyl Zhytomyr Mykolayiv Mogilev Smolensk Vinnytsya Vitebsk Cherkassy Nelidovo Korosten Babruysk Bialystok Konotop Ventspils Kishinev Memel Kherson Warsaw Tarnopol Nikopol Helsinki Bryansk Brovary Vyazma Grodno Tilsit Odessa Poltava Nizhyn Kaunas Polotsk Roslavl Tallinn Orsha Narva Mazyr Rzhev Uman Minsk Pskov Rivne Kovel Sumy Tartu Lutsk Kirov Brest-Litovsk Luga Przemysl Kiev Riga Lida Iasi Lyck Axis advance on Leningrad and the Baltic Finnish offensive against the USSR Stalin Line Key targets for Germany
 
-## O P E R AT I O N  B A R B A R O S S A
+O P E R AT I O N  B A R B A R O S S A
 
-## OPERATION
+OPERATION
 
-## BARBAROSSA
+BARBAROSSA
 
 1941年6月，希特勒发动了入侵苏联领土的“巴巴罗萨行动”。德军及其轴心国盟友沿从波罗的海到黑海绵延1000英里（1600公里）的广阔战线推进，速度惊人，到10月初便围困了列宁格勒，并推进到距离莫斯科仅一步之遥的地方。
 
@@ -4154,7 +4154,7 @@ Advance from Romania Advance to Crimea and Donbass region Donbass region
 
 JUL AUG SEP
 
-## JUN
+JUN
 
 ## 苏联被横扫
 
@@ -4178,7 +4178,7 @@ NOV OCT Axis encirclement of Kiev Soviet counterattack, Jun 26–30 S e a o f A 
 
 ▷ 生活仍在继续 在慕尼黑的一条街上，小女孩们玩着娃娃，对堆在家门前的炮弹毫不在意。随着盟军轰炸次数和强度增加，数千名儿童被从德国城市撤出以确保安全。
 
-## G E R M A N Y A N D U S S R AT H O M E
+G E R M A N Y A N D U S S R AT H O M E
 
 共青团工人生产队 一名共青团（全联盟列宁主义青年共产主义联盟）工人生产队的女工长，在苏联军工厂监督步枪装配。苏联与德国的军火生产均在1944年达到顶峰。
 
@@ -4196,7 +4196,7 @@ NOV OCT Axis encirclement of Kiev Soviet counterattack, Jun 26–30 S e a o f A 
 
 ◁ 进攻城市 1941年底，国防军士兵观察德军对列宁格勒防线的攻势。
 
-## T H E S I EG E O F L E N I N G R A D
+T H E S I EG E O F L E N I N G R A D
 
 1941年绘制的列宁格勒地图 在这幅列宁格勒城及其西面港口的地图上，红色箭头显示了围困期间在芬兰湾巡逻、保卫列宁格勒的苏联舰艇。
 
@@ -4234,11 +4234,11 @@ German army groups Major battles
 
 ## 时间轴
 
-## SEP
+SEP
 
 OCT NOV DEC
 
-## JAN
+JAN
 
 10月15日 布良斯克口袋投降，但仅有5万苏军被俘；其余逃脱。
 
@@ -4262,7 +4262,7 @@ OCT NOV DEC
 
 T H E G E R M A N A DVA N C E O N M O S COW S e a o f A z o B a k S e a G u f o f P e r e k o p Dniester Bug Ye ya Do n C a u c a s u s C r e a U K R A I N E
 
-## B E S S A R A B I A
+B E S S A R A B I A
 
 Army Group South Sevastopol Voznesensk Simferopol Eupatoria Berdyansk Feodosiya Mykolayiv Mariupol Melitopol Taganrog Makeyevka Kishinev Kherson Odessa Kerch Rostov Kropotkin Azov Zaporozhye 在巴巴罗萨行动期间（见第90–91页），德国人认为莫斯科不如其他战略目标重要。对首都的攻势因进军乌克兰夺取资源而推迟——这是希特勒与其将领之间争论的焦点——直到1941年9月下旬才重新发动，而此时大雨已使道路变成泥潭。这一点，加上燃料短缺和未能补充受损坦克，减缓了德军的推进并削弱了士气。此外，尽管俘虏了数百万红军官兵，苏联似乎仍有数百万预备队。
 
@@ -4326,19 +4326,19 @@ German retreat Soviet counterattack Soviet troops surrounded
 
 △ 巴巴罗萨行动 在巴巴罗萨行动（对苏联的军事入侵）初期，一支德国装甲部队向前推进。德军的快速推进将数十万犹太人困在纳粹控制区。
 
-## M A S S AC R E S I N T H E E A S T
+M A S S AC R E S I N T H E E A S T
 
 屠杀后的搜寻 在克里米亚的刻赤，屠杀受害者的亲属寻找亲人的尸体。1941年秋冬季，特别行动队残酷地杀害了约7000名刻赤及其周边的犹太人。
 
 G E R M A N Y T R I U M P H A N T 1939 –19 41 P ri pet D n iepr Lake Ladoga Lake Onega D o n V o g a
 
-## B E L O R U S S I A
+B E L O R U S S I A
 
-## F I N
+F I N
 
 L A N D U K R A I N E Army Group North Leningrad Front Volkhov Front North-West Front Kalinin Front West Front Bryansk Front South-West Front South Front Army Group Center Vyshnniy Volochek Novgorod Leningrad Maladzyechna Staraya Russa Novozybkov Stary Oskol Alekseyevka Velikiye Luki Velizh Demidov Bogoroditsk Stalinogorsk Bila Tserkva Izyum Chernobyl Voronezh Mogilev Smolensk Vitebsk Cherkassy Nelidovo Demyansk Babruysk Belgorod Konotop Moscow Barysaw Bryansk Vyazma Kharkov Lokhvitsa Tikhvin Zaborie Poltava Ryazan Valuyki Roslavl Kaluga Mazyr Rzhev Yelets Minsk Kursk Sumy Tartu Kirov Orel Luga Kalinin Kiev Tula Stalingrad Klin
 
-## ESTONIA
+ESTONIA
 
 U S S R 苏联反攻 1942年1–2月 新一轮推进 1942年1月–2月 从1月7日起，苏军重启对德攻势，希望将其向西推回，并在春季到来前迫使其耗尽预备队。苏联最高统帅部计划实施钳形运动，合围维亚兹马、勒热夫和斯摩棱斯克。西北方面军和加里宁方面军的苏军坦克和滑雪营向南和西南推进，朝向大卢基和杰米多夫。西方面军从东面挤压勒热夫的德军突出部，但未能夺回维亚兹马。
 
@@ -4360,9 +4360,9 @@ KEY German army groups Soviet fronts (army groups)
 
 Territory held by Soviet army, Dec 5, 1941 Regained by Soviets by Jan 1, 1942 Regained by Soviets by April 30, 1942
 
-## DEC
+DEC
 
-## JAN
+JAN
 
 FEB MAR MAY
 
@@ -4380,11 +4380,11 @@ Soviet counterattacks, Dec 1941 German panzers retreat German forces in Rzhev-Vy
 
 1942年1月18日–4月1日 为合围勒热夫—维亚兹马突出部中的德军并切断其通信线，苏军伞兵自1月18日起空投到据守维亚兹马的德军后方。尽管得到该地区苏军游击队员以及加里宁方面军和西方面军部队的支援，苏军很快发现自己被合围，并陷入一场封锁突出部后方的苦战。
 
-## T H E R E L I E F O F M O S COW
+T H E R E L I E F O F M O S COW
 
 S e a o f A z o v B a k S e a Dniester Bug D ni epr D o n e t s C a u c a s u s
 
-## C R I M E A
+C R I M E A
 
 Crimean Front Azov Flotilla Black Sea Fleet Army Group South Novorossiysk Sevastopol Voznesensk Simferopol Eupatoria Kryvyy Rih Berdyansk Dzhankoy Feodosiya Mykolayiv Mariupol Melitopol Taganrog Donetsk Kishinev Kherson Nikopol Odessa Kerch Rostov 1941年9月下旬，希特勒曾打算在严酷的俄国冬季开始之前拿下莫斯科（见第96–97页）。尽管德军在通往首都途中的维亚兹马和布良斯克取得了成功，苏军的抵抗迫使德军停滞并在莫斯科周围掘壕过冬。德军指挥官以为红军已同他们自己一样元气大伤。然而，斯大林在西伯利亚留有预备队，他将其大部分调往前线以增援苏军。
 
@@ -4412,11 +4412,11 @@ Soviet naval forces Soviet counteroffensive in Crimea Soviet gains in Crimea
 
 美国加入欧洲和太平洋的战争，而在东方，苏军遏制了德军的推进。与此同时，纳粹加紧了对犹太人的迫害。
 
-## T H E W I D E N I N G WA R 19
+T H E W I D E N I N G WA R 19
 
-## JUL
+JUL
 
-## DEC
+DEC
 
 ## 通往战争的道路
 
@@ -4502,7 +4502,7 @@ A M E R I C A A N D J A PA N G O T O W A R
 
 1942年8月7日 美军在瓜达尔卡纳尔登陆。
 
-## T H E W I D E N I N G WA R 19
+T H E W I D E N I N G WA R 19
 
 1940年 日军在河内和海防驻军，并接管北部印度支那的空军基地和铁路编组场。
 
@@ -4542,51 +4542,51 @@ O C E A N A r a f u r a S e a C o r a l S e a S e a o f J a p a n ( E a s t S e 
 
 E a s t C h i n a S e a S e a o f O k h o t s k Bismarck Archipelago
 
-## P H I L
+P H I L
 
-## I P P I
+I P P I
 
-## N E S
+N E S
 
 Timor J a v a S u m a t r a B o r n e o Mariana Islands Yap Guam (to US)
 
 Truk Lagoon Celebes Saipan Palau Islands Taiwan H a n a n Car oli ne Isl an ds S A R A W A K
 
-## BRITISH
+BRITISH
 
-## NORTH
+NORTH
 
-## BORNEO
+BORNEO
 
 M O N G O L I A Shanghai Nanjing Beijing Harbin Fushun Rangoon Toungoo Manila Saigon Port Moresby Vladivostok (MANCHURIA)
 
-## M A N C H U K U O
+M A N C H U K U O
 
 Khabarovsk Nagasaki Pusan Taihoku Seoul Guangzhou Hanoi Haiphong Mandalay Palembang Chongqing Kunming Singapore Tokyo Kyoto Bangkok Kuala Lumpur Calcutta Delhi Lhasa Batavia D U T C H
 
 E A S T I N D I E S
 
-## BHUTAN
+BHUTAN
 
-## CEYLON
+CEYLON
 
 FR EN C H
 
 I ND OCH INA
 
-## NEPAL
+NEPAL
 
-## THAILAND
+THAILAND
 
-## K O R E A
+K O R E A
 
 M A L A Y A B U R M A Ne w G uin ea A F G H A N IS T A N I N D I A U S S R
 
-## A U S T R A L I A
+A U S T R A L I A
 
 J A P A N C H I N A I R A N T A N N U - T U V A
 
-## JAPANESE AMBITIONS
+JAPANESE AMBITIONS
 
 尽管幅员辽阔、帝国广大，日本获得重要原材料的途径却十分有限。驱动其经济所需的石油、煤炭、钢铁、铁和矿产全部依赖进口。日本1931年征服满洲（见第22–23页）提供了急需的煤炭，但对石油、锡和橡胶的需求仍未得到满足。日本在1930年代对东西伯利亚的入侵被苏联击败。此后，日本政府将目光投向东南亚资源丰富的欧洲殖民地。
 
@@ -4594,11 +4594,11 @@ J A P A N C H I N A I R A N T A N N U - T U V A
 
 日本还于1940年6月与独立的泰国结盟，并于1941年4–5月开始筹划战争。它通过1941年7月占领法属印度支那，为入侵东南亚做准备——这一行动招致西方列强对日本的经济封锁。面对迫在眉睫的石油短缺和潜在的经济崩溃，日本准备了一场更大的战争，规划其征服行动并防御大幅扩张的帝国。
 
-## THE ECONOMIC EMBARGO AGAINST JAPAN
+THE ECONOMIC EMBARGO AGAINST JAPAN
 
 “I fear we would become a third-class nation after two or three years if we just sat tight.” PRIME MINISTER HIDEKI TOJO, NOVEMBER 5, 1941 为遏制日本在中国和东南亚的军事扩张，美国、英国和荷属东印度限制并最终停止对日出售石油、铁矿石和钢铁。没有石油，日本军队会迅速陷入停顿。日本将这些禁运称为ABCD（美英中荷）包围圈。1941年4月，他们开始制定夺取资源丰富的马来亚和荷属东印度的计划。
 
-## JAPANESE AMBITIONS
+JAPANESE AMBITIONS
 
 入侵中国之后，日本向别处寻求扩张其帝国。到1941年，日本在东南亚——尤其是该地区的美国和欧洲殖民地——拥有重大帝国和经济野心，这一点已十分明显。
 
@@ -4608,11 +4608,11 @@ INDOCHINA SEPTEMBER 1940–JULY 1941 法国沦陷后，日本于1940年9月首�
 
 THE NEED FOR RESOURCES 1940–1941 到1940年，日本已获得中国东北和大部分东部沿海，但在内陆仍面临强烈抵抗。其战争经济仍急需来自荷属东印度的石油，以及来自英属马来亚的锡和橡胶。为预期中的军事推进，日本在其中太平洋的委任统治岛屿上建立了若干前进基地（见第16–17页）。
 
-## RAW MATERIALS IN SOUTHEAST ASIA
+RAW MATERIALS IN SOUTHEAST ASIA
 
 Japanese forward bases Coal Oil Iron Rubber Tin
 
-## JAPANESE EXPANSION
+JAPANESE EXPANSION
 
 到1941年12月，日本已控制中国北部和东部的大部，占领法属印度支那，并获得了泰国这个盟友。
 
@@ -4620,11 +4620,11 @@ Japanese forward bases Coal Oil Iron Rubber Tin
 
 KEY US Netherlands Britain and Commonwealth
 
-## COLONIAL POSSESSIONS IN
+COLONIAL POSSESSIONS IN
 
 France Portugal Under British and French administration Japanese Empire in 1920 Japanese Empire gains by 1940
 
-## GREATER EAST ASIA CO-PROSPERITY SPHERE
+GREATER EAST ASIA CO-PROSPERITY SPHERE
 
 JUNE 1940–1945 1940年6月29日，日本宣布其意图建立一个由日本领导、摆脱西方列强的、“亚洲民族自给自足的集团”。该计划起初旨在支持泛亚洲的自由理想，后来被日本民族主义者扭曲，以宣扬其对其他亚洲人的所谓优越地位。
 
@@ -4634,17 +4634,17 @@ Territories that became part of the Greater East Asia Co-Prosperity Sphere
 
 Dutch soldiers destroy oil reserves in Java Japanese bases established in Indochina P A C I F I C O C E A N Gilbert Islands Midway Atoll Kwajalein Atoll Marshall Islands Wake Island Fiji New Caledonia New Hebrides
 
-## T H E W I D E N I N G WA R 19
+T H E W I D E N I N G WA R 19
 
 准备战斗 1941年9月，广岛附近江田岛海军兵学校的学员接受训练。他们大概是海军特别陆战队的预备成员——即日本的海军陆战队。
 
-## J A PA N G O E S TO WA R
+J A PA N G O E S TO WA R
 
 面对可能扼杀其经济的贸易禁运，日本领导层得出结论：战争是摆在其面前的唯一选择。正如日本帝国海军军令部总长永野修身海军大将在1941年9月所宣称：“既然无论日本决定与美国开战还是屈从其要求，都不可避免地面临国家毁灭，那就必须不惜一切地选择战斗。”日本领导层还认为时间对其不利，动员备战拖延得越久，成功的前景就越小。
 
 日本的战争计划 日本领导层计划出击东南亚，以夺取美国控制的菲律宾、石油丰富的荷属东印度，以及英国的马来亚和新加坡殖民地。日本人认识到此举几乎肯定会招致美军的武装回应，因此决定采取先发制人的行动，策划于1941年12月7日突袭夏威夷珍珠港的美国太平洋舰队（见第110–111页）。日本的意图是，通过将中太平洋和西南太平洋变成不可攻破的军事堡垒，迫使美国陷入逐岛消耗战，其代价将摧毁美国人的战斗意志。然而，实际情况证明大不相同。
 
-## JAPAN GOES TO WAR
+JAPAN GOES TO WAR
 
 1941年7月，美国为报复日本占领法属印度支那而对日本实施制裁，英国和荷属东印度也随之效仿。
 
@@ -4660,13 +4660,13 @@ Dutch soldiers destroy oil reserves in Java Japanese bases established in Indoch
 
 △ 十四式南部手枪 该型号设计于1925年，二战期间由日本陆军军官使用。它发射8毫米子弹。
 
-## PEARL CITY
+PEARL CITY
 
 W a i p i o P e n i n s u l a M i d d l e L o c h Curtiss Helm Nevada
 
-## T H E W I D E N I N G WA R 19
+T H E W I D E N I N G WA R 19
 
-## ROUTE OF THE ATTACK
+ROUTE OF THE ATTACK
 
 日本突击编队由六艘航母组成，载有400多架飞机、14艘其他舰船和8艘油轮，于11月26日离开日本北部的千岛群岛，在夏威夷以北集结。它由来自日本本土港口的23艘潜艇提供支援。
 
@@ -4684,33 +4684,33 @@ THE FIRST WAVE 7:53–8:50 AM DECEMBER 7, 1941 日军第一波攻击由三组共
 
 双方最后的接触毫无结果，12月1日，日本天皇裕仁批准了“对美、英、荷开战”。日本战略家知道珍珠港的美国基地脆弱，并在年初就制定了打击计划。成功将阻止太平洋舰队干涉日本对荷属东印度和马来亚的征服，并为日本争取时间以在该地区增强实力。日本希望一次袭击能瓦解美国士气，迫使美国寻求妥协和平。当袭击到来时，美国人毫无准备，但效果却与日本的期望相反。美国公众团结起来，支持一场战斗到底的总体战。
 
-## PEARL HARBOR
+PEARL HARBOR
 
 美国总统富兰克林·D·罗斯福将1941年12月7日——日本袭击珍珠港的那一天——称为“国耻日”。当时，美国与日本的谈判仍在进行，且未宣战。这次袭击将战争从一场欧洲战事转变为一场世界范围的冲突。
 
 Honolulu Kaimuki Kahuku Point
 
-## P A C I F I C
+P A C I F I C
 
-## O C E A N
+O C E A N
 
 Koko Head Diamond Head Pearl Harbor
 
-## O A H U
+O A H U
 
 Waikane Laie Kahuku K o o l a u R a n g e Wahiawa Waianae Waimanalo W a i a n a e R a n g e Waipahu Pearl City Heeia ‘Ewa Hauula Scofeld Barracks Wheeler Field Barbers Point Hickam Field Haleiwa Kaneohe Bellows Field Waialua First-wave attack 7:53 am Second-wave attack 8:50 am Targeted barracks Targeted air bases Targeted naval base Key urban areas KEY
 
-## US NAVAL
+US NAVAL
 
-## AIR STATION
+AIR STATION
 
-## US NAVY YARD
+US NAVY YARD
 
 E a s t L o c h Signal tower ‘ A i e a B a y P E A R L H A R B O R F o r d I s l a n S o u t h e r n
 
 L o h Tangier Utah Raleigh Detroit Nevada California Arizona Oklahoma Maryland West Virginia Tennessee Pennsylvania Vestal Shaw Helena Oglala Dobbin Hull
 
-## P E A R L H A R B O R
+P E A R L H A R B O R
 
 THE AFTERMATH DECEMBER 7–11, 1941 美国海军损失了五艘战列舰和一艘港务拖船；另有13艘舰艇受损；188架美国飞机被摧毁，159架受损；2335名人员阵亡，1143人受伤。
 
@@ -4720,7 +4720,7 @@ THE AFTERMATH DECEMBER 7–11, 1941 美国海军损失了五艘战列舰和一�
 
 Second-wave attacks USS Pennsylvania damaged THE SECOND WAVE 8:50–9:30 AM DECEMBER 7, 1941 第二波由三组共171架飞机组成。“宾夕法尼亚号”受损，“内华达号”被迫搁浅，但这一次美军进行了有效得多的抵抗。由于日本舰队已进入美国岸基轰炸机的打击范围，第三波攻击被取消。日本人未能完成其目标，而美国海军从袭击中恢复的速度比对手所希望的更快。
 
-## DANGER FROM THE AIR
+DANGER FROM THE AIR
 
 日本突击编队于11月26日离开日本，在夏威夷以北集结。第一次攻击在12月7日上午7:53到来，第二波在8:50。美国次日对日宣战。
 
@@ -4736,17 +4736,17 @@ Second-wave attacks USS Pennsylvania damaged THE SECOND WAVE 8:50–9:30 AM DECE
 
 DEC 7, 1941
 
-## DEC
+DEC
 
 Destroyed or sunk ships Damaged ships 7:53 am The first group of 40 torpedo bombers attacks from the north.
 
 US ships at anchor or moored Ford Island naval and air station
 
-## DEC
+DEC
 
 ▷ Raider’s eye view 这张航拍照片显示了1941年12月7日上午、袭击开始前不久珍珠港的美国海军基地和舰船。
 
-## T H E W I D E N I N G WA R 19
+T H E W I D E N I N G WA R 19
 
 Japanese victory
 
@@ -4788,49 +4788,49 @@ I N D I A N O C E A N C o r a l S e a S e a o f O k h o t s k S o u t h C h i n 
 
 G u l f o f S i a m K u ri le I sl a nd s R y u k yu I sl an ds
 
-## PHILIPPINES
+PHILIPPINES
 
 Guam Iwo Jima Bonin Islands Luzon Hainan Saipan Borneo Ceram Celebes Mindanao Java Bali Timor Sumatra So lo mo n Is lan ds D U T C H E A S T I N D
 
-## I E S
+I E S
 
 Mariana Islands (MANCHURIA)
 
-## M A N C H U K U O
+M A N C H U K U O
 
 Bismarck Archipelago Car oli ne Is la nd s Calcutta Lhasa
 
-## BHUTAN
+BHUTAN
 
 Truk Lagoon Palau Islands Yap FR EN C H I ND OCH INA T H A I L A N D
 
-## BRUNEI
+BRUNEI
 
-## SARAWAK
+SARAWAK
 
 Taiwan Okinawa
 
-## BRITISH
+BRITISH
 
-## NORTH
+NORTH
 
-## BORNEO
+BORNEO
 
-## K O R E A
+K O R E A
 
-## BURMA
+BURMA
 
-## MAL AYA
+MAL AYA
 
-## M O N G O L I A
+M O N G O L I A
 
 NEW
 
-## GUINEA
+GUINEA
 
 U S S R C H I N A I N D I A A U S T R A L I A J A P A N A F G H A N IS T A N
 
-## NEPAL
+NEPAL
 
 T I B E T Vladivostok Osaka Hiroshima Nagasaki Hanoi Taipei Mandalay Balikpapan Amboina Kendari Tarakan Miri Davao Kota Belud Kuching Manado Hong Kong Macau Singapore Tokyo Bataan Shenyang Qingdao Seoul Shanghai Rangoon Bangkok Manila Saigon Cam Ranh Port Moresby Darwin Koepang Katherine Batavia Kuala Lumpur Kota Bharu Penang Medan Slim River Beijing
 
@@ -4842,17 +4842,17 @@ T I B E T Vladivostok Osaka Hiroshima Nagasaki Hanoi Taipei Mandalay Balikpapan 
 
 Japanese naval encounter Japanese paratroop drop Japanese advances in the East Indies
 
-## J A PA N E S E A DVA N C E S
+J A PA N E S E A DVA N C E S
 
 ## 日本的攻势
 
 珍珠港之后，日军发起了一系列计划周密的攻击，向东横扫太平洋，向南进入菲律宾以及英属和荷属东印度，向西进入缅甸。凭借突袭因素，他们横扫了面前的一切抵抗。
 
-## DEC
+DEC
 
 FEB
 
-## JAN
+JAN
 
 ## 时间轴
 
@@ -4900,7 +4900,7 @@ P A C I F I C O C E A N Marshall Islands Kwajalein Atoll G b er t Is la n s Midw
 
 France Portugal Under British and French administration Under Japanese control, Dec 7, 1941 Main Japanese military bases
 
-## T H E W I D E N I N G WA R 19
+T H E W I D E N I N G WA R 19
 
 美国于1941年12月参战（见第110–111页）后，罗斯福利用一系列《战争权力法》改组经济与工业以进行总体战。全美日常生活为之一变。肉类、糖、黄油、罐头食品、汽油、燃料油、服装及其他商品全都实行配给，平民种植“胜利菜园”自己生产食物。美国人被鼓励为战争工业收集废金属，军备生产飙升。为资助全球战争的开支，美国宣传敦促公众购买战争债券和胜利邮票。与此同时，反日情绪导致近12万日裔美国人被关押在西海岸的拘留营。
 
@@ -4916,11 +4916,11 @@ France Portugal Under British and French administration Under Japanese control, 
 
 约74000人在二战期间服役于美国陆军和海军。
 
-## A M E R I C A AT WA R
+A M E R I C A AT WA R
 
 替代男子 一名妇女正在装配B-25轰炸机发动机的整流罩。到1943年，航空工业约65%的工人是妇女。她们的努力帮助美国在战争期间生产了超过30万架飞机。
 
-## T H E W I D E N I N G WA R 19
+T H E W I D E N I N G WA R 19
 
 Mauban Morong Port Binanga Mabayo ▽ 荣誉勋章 这枚勋章授予美国将军乔纳森·梅休·温赖特四世，他是菲律宾的盟军指挥官，在科雷希多领导了最后的抵抗。
 

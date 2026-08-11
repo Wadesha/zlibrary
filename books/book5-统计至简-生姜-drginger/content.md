@@ -86,11 +86,11 @@ Seaborn库。此外，系列丛书封面设计致敬梵高《鸢尾花》要是�
 
 用来展示数学动画数据分析、机器学习算法。Streamlit是个开源的Python库能够方便快捷搭建部署交互型网页App。Streamlit非常简单易用、很受欢迎。Streamlit兼容目前主流的Python数据分析库比如NumPy
 
-# Pandas
+Pandas
 
-# Scikit-learn
+Scikit-learn
 
-# PyTorch
+PyTorch
 
 TensorFlow等等。Streamlit还支持Plotly、Bokeh、Altair等交互可视化库。本书中很多App设计都采用 Streamlit + Plotly方案。此外，本书专门配套教学视频手把手和大家一起做App。大家可以参考如下页面更多了解Streamlit
 
@@ -114,9 +114,9 @@ com 运行Jupyter无需IDE，只需要浏览器。Jupyter容易分块执行代�
 
 要么inline打印数据要么将数据写到csv或Excel文件中再打开。图像结果不具有交互性比如不能查看某个点的值或者旋转3D图形可以考虑安装 (jupyter-matplotlib)。注意，利用Altair或Plotly绘制的图像支持交互功能。对于自定义函数，目前没有快捷键直接跳转到其定义。但是，很多开发者针对这些问题都开发了插件，请大家留意。大家可以下载安装Anaconda
 
-# JupyterLab
+JupyterLab
 
-# Spyder
+Spyder
 
 PyCharm等常用工具都集成在Anaconda中。anaconda.
 
@@ -262,7 +262,7 @@ Pr(B) 也叫B事件边缘概率。类似地，如果Pr(A) > 0
 
 Pr ,PrPrABBAA= (8) 贝叶斯定理为
 
-# Pr Pr Pr Pr Pr
+Pr Pr Pr Pr Pr
 
 AB B BA A AB== (9) 假设A1
 
@@ -908,13 +908,13 @@ com 图4所示为利用seaborn.
 
 histplot 绘制的鸢尾花四个量化特征数据直方图，纵轴为频数。直方图的形状可以反映数据的分布情况，比如对称分布、左偏分布、右偏分布等。直方图可以通过调整箱子的数量和大小来改变分组的细度和粗细，以适应不同的数据特征。直方图也经常与其他统计图表一起使用比如箱线图、散点图概率密度估计曲线等以便更深入地理解数据的特征和结构。# Sepal length
 
-# X102468Sepal width
+X102468Sepal width
 
-# X202468403020100Count403020100Count
+X202468403020100Count403020100Count
 
-# Petal length
+Petal length
 
-# X302468Petal width
+X302468Petal width
 
 X402468403020100Count403020100Count(a)(b)
 
@@ -926,11 +926,11 @@ X402468403020100Count403020100Count(a)(b)
 
 0Probability densitySepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4(a)(b)
 
@@ -950,13 +950,13 @@ com 累积频数累积概率图6对比四个鸢尾花特征样本数据的累积
 
 0Cumulative probability0.
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4(a)(b)
 
@@ -964,11 +964,11 @@ X4(a)(b)
 
 累积频数图，累积概率图多边形图概率密度估计多边形图 (polygon) 将直方图矩形顶端中点连接得到如图7 (a) 所示线图。注意，多边形图的纵轴和直方图一样有很多选择图7 (a) 给出的纵轴为概率密度。# Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4024681.
 
@@ -1032,13 +1032,13 @@ Sepal length, X1Sepal width, X2(a)(b)
 
 二维数据直方图热图，二维KDE概率密度曲面等高线
 
-# Sepal length
+Sepal length
 
-# X1Sepal length
+X1Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Sepal width
+X2Sepal width
 
 X2(a)(b)
 
@@ -1054,19 +1054,19 @@ visualize.
 
 com 图12这幅图像有4 × 4个子图主对角线上的图像为鸢尾花单一特征数据直方图右上角六幅子图为成对数据散点图左下角六幅子图为概率密度曲面等高线图。# Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 图12.
 
@@ -1090,11 +1090,11 @@ Unlabeled 图13.
 
 根据有无标签分类数据图14所示为含有标签分类的直方图。不同类别的鸢尾花数据采用不同颜色的直方图。图14的纵轴可以是频数、概率、概率密度。此外，考虑到分类标签，概率、概率密度也可以对应条件概率。举个例子，如果图14的纵轴对应“条件”概率密度的话每幅子图中不同颜色的直方图面积均为1。条件概率中的“条件”听起来很迷惑，实际上大家在生活中经常用到。比如，高中二年3班男生的平均身高，“高中二年3班”和“男生”都是条件。不难理解，“条件”实际上就是限定讨论范围。Sepal length, X1Sepal width, X2
 
-# Petal length
+Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4SetosaVersicolorVirginica
+X4SetosaVersicolorVirginica
 
 图14.
 
@@ -1112,11 +1112,11 @@ com 02468SetosaVersicolorVirginicaSepal lengthSepal widthPetal widthPetal length
 
 鸢尾花山数据山脊图，特征分类
 
-# SetosaVersicolorVirginicaSepal length
+SetosaVersicolorVirginicaSepal length
 
-# X1Sepal length
+X1Sepal length
 
-# X1Sepal width
+X1Sepal width
 
 Sepal width, X2
 
@@ -1134,21 +1134,21 @@ visualize.
 
 com Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4VirginicaVersicolorSetosa
+X4VirginicaVersicolorSetosa
 
 图17.
 
@@ -1164,13 +1164,13 @@ visualize.
 
 com Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4SetosaVersicolorVirginica
+X4SetosaVersicolorVirginica
 
 012345678
 
@@ -1210,7 +1210,7 @@ x102468Sepal width
 
 x202468403020100Count403020100Count
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -1232,11 +1232,11 @@ x402468403020100Count403020100Count(a)(b)
 
 123 4TTSepal length
 
-# Sepal width
+Sepal width
 
-# Petal length
+Petal length
 
-# P e t a l w i d t h
+P e t a l w i d t h
 
 E 5.
 
@@ -1334,7 +1334,7 @@ x102468Sepal width
 
 x202468403020100Count403020100Count
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -1392,7 +1392,7 @@ x102468Sepal width
 
 x202468
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -1400,7 +1400,7 @@ x40246825% percentile50% percentile75% percentile25% percentile75% percentile
 
 25% percentile75% percentile25% percentile75% percentileCount
 
-# CountCount
+CountCount
 
 Count50% percentile50% percentile 图24.
 
@@ -1424,7 +1424,7 @@ x102468Sepal width
 
 x202468
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -1592,7 +1592,7 @@ x402468
 
 02468
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -1814,35 +1814,35 @@ cov ,XX XX XX XXXX XX XX XXXX XX XX XXXX XX XX XX=
 
 2 4,31111  =Ρ (21) 图37所示为协方差矩阵和相关性系数矩阵热图。本书第13章将专门讲解协方差矩阵。# Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4Covariance matrixCorrelation matrix0.
 
@@ -2004,7 +2004,7 @@ visualize.
 
 com 给定后代为男性 ♂，发病比例为100%。给定后代为女性 ♀，发病比例为0%，但是携带红绿色盲基因的比例为100%。反过来，给定后代发病这个条件，可以判定后代100%为男性 ♂。这就是本章后文要介绍的条件概率 (conditional probability)。条件概率的概念在概率论和统计学中非常重要它允许我们在一些已知信息的情况下对事件的发生概率进行更精确的估计和预测。例如，在医学诊断中医生可以根据病人的症状和体征计算出某种疾病在不同条件下的发病率从而帮助判断病人是否患有这种疾病。# Affected motherUnaffected father
 
-# XYXXUnaffected carrier daughter
+XYXXUnaffected carrier daughter
 
 50%Affected son50%UnaffectedAffected CarrierXYXX
 
@@ -2348,7 +2348,7 @@ com 表1.
 
 5抛三枚色子为了大家习惯“多元”思维我们再进一步将一次抛掷色子的数量提高至三枚。第一枚点数定义为X1，第二枚X2，第三枚X3。图15 (a) 所示为抛三枚色子点数的样本空间，这显然是个三维空间。比如，坐标点 (3, 3, 3) 代表三枚色子的点数都是3。图15 (a) 这个样本空间有216 (= 6 × 6 × 6) 个样本。假设这三个色子质量均匀获得每个点数为等概率则图15 (a) 中每个样本对应的概率为1/216。654321654321123456
 
-# X1X2X3
+X1X2X3
 
 654321654321123456
 
@@ -2482,7 +2482,7 @@ ABΩ (17) 和事件事件AB
 
 为A和B的和事件 (union of events A and B)。具体来说，当事件A和事件B至少有一个发生时，事件AB
 
-# PrAB
+PrAB
 
 代表事件A和B和事件概率 (probability of the union of events A and B或probability of A or B)。# PrAB
 
@@ -2654,7 +2654,7 @@ Marginal Marginal Joint JointConditional ConditionalPr Pr Pr Pr Pr Pr
 
 AB B BA A A B AB== =
 
-# BAAB
+BAAB
 
 ABΩBΩA
 
@@ -2746,7 +2746,7 @@ Pr 1 Pr 33BC B C== + =
 
 (33)
 
-# A CC
+A CC
 
 A(a)
 
@@ -2860,7 +2860,7 @@ A2, A3条件下事件B发生的情况反过来根据贝叶斯定理在给定事�
 
 任意事件Ai发生的概率为
 
-# Pr PrPr
+Pr PrPr
 
 PrPr PriiiiBA AABABBB== (39) 利用贝叶斯定理以为B条件，进一步展开 (36)
 
@@ -2892,7 +2892,7 @@ Marginal MarginalConditional ConditionalPr Pr Pr PrAB A BA B= =
 
 (42) 如果 (42) 给出的等式成立则称事件A和事件B独立 (events A and B are independent)。如果A和B独立联立 (28) 和 (42) 可以得到
 
-# Ma aJaoiirnMtrgin l a g n lPr Pr
+Ma aJaoiirnMtrgin l a g n lPr Pr
 
 Pr PrAB A B A B== 
 
@@ -3178,7 +3178,7 @@ com Y = X1 {1, 2, 3, 4, 5,
 
 6}
 
-# X1X2
+X1X2
 
 123456
 
@@ -3192,7 +3192,7 @@ com Y = X1 {1, 2, 3, 4, 5,
 
 25, 36 }
 
-# X1X2
+X1X2
 
 123456
 
@@ -3234,7 +3234,7 @@ X2 0102030400.
 
 0 } X1
 
-# X2123456123456
+X2123456123456
 
 0102030400.
 
@@ -3258,7 +3258,7 @@ X2 0102030400.
 
 5 } X1
 
-# X2123456123456
+X2123456123456
 
 0102030400.
 
@@ -3284,7 +3284,7 @@ com 12YX X= {1, 2, 3, 4, 5,
 
 25, 30, 36 } X1
 
-# X2123456123456
+X2123456123456
 
 8, 9, 104, 5, 6123 010203040y0.
 
@@ -3338,7 +3338,7 @@ com 12YX X= {1, 2, 3, 4, 5,
 
 2, 3, 4, 5 }
 
-# X1X2
+X1X2
 
 123456
 
@@ -3350,7 +3350,7 @@ com 12YX X= {1, 2, 3, 4, 5,
 
 5}
 
-# X1X2
+X1X2
 
 123456
 
@@ -3374,7 +3374,7 @@ com 21223.
 
 5, 8.
 
-# X1X2
+X1X2
 
 123456
 
@@ -3458,7 +3458,7 @@ WeightWeight11 1 1 1 1 115E2345666 6 6 6 63.
 
 100200300400500123456
 
-# TrialsTrialsResult
+TrialsTrialsResult
 
 Mean value 图8.
 
@@ -3618,9 +3618,9 @@ x2/63/64/65/61
 
 1111Pr 1 3
 
-# Pr 1 3
+Pr 1 3
 
-# Pr 1 3
+Pr 1 3
 
 Pr 1 33236XXXX= = = = (32) 对于连续随机变量就没有区间端点的麻烦了。本书第6章将展开讲解。Page 19 | Chapter 4离散随机变量 | Book 5《统计至简》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。com/Visualize-ML 本书配套微课视频均发布在B站——生姜DrGinger
 
@@ -3664,7 +3664,7 @@ visualize.
 
 com ,,
 
-# Joint Joint
+Joint Joint
 
 , 1, 0
 
@@ -3934,7 +3934,7 @@ cov ,nii i i i j i j i j i jii i j i j i jaX a X aa X X aa X X==+ =�
 
 aX aX a X a X aa X X++=+ (45) 看到 (45) 大家是否立刻想到我们在《矩阵力量》第5章介绍过的二次型 (quadratic form)。(45) 可以写成如下矩阵乘法运算
 
-# T11 1 2 1T11 2 221 2 2 2var cov
+T11 1 2 1T11 2 221 2 2 2var cov
 
 varcov
 
@@ -3954,7 +3954,7 @@ com 同理
 
 (44) 可以写成
 
-# T1111 12 12221 22 2T112cov
+T1111 12 12221 22 2T112cov
 
 cov , cov
 
@@ -4300,7 +4300,7 @@ visualize.
 
 com Joint
 
-# ConditionalMarginal
+ConditionalMarginal
 
 XYXYYpx ypx ypy=
 
@@ -4378,7 +4378,7 @@ visualize.
 
 com Joint
 
-# ConditionalMarginal
+ConditionalMarginal
 
 XYYXXpx ypy xpx=
 
@@ -4398,7 +4398,7 @@ XY XYXpx y py x p x=
 
 pX,Y(x = 6,y)NormalizeScaleMarginal
 
-# JointConditional
+JointConditional
 
 6, 6XY Xypx y p x== = ||6 1YXypy x==
 
@@ -4500,7 +4500,7 @@ Y(x,y) 前文已经介绍如果X和Y不独立如果pY(y) > 0
 
 条件概率pX|Y(x|y) 公式如下
 
-# Joint Joint
+Joint Joint
 
 ,,ConditionalMarginal
 
@@ -4514,7 +4514,7 @@ X和Y不独立条件概率 pX|Y(x|y) 不同于边缘概率 pX(x) 如果pX(x) > 0
 
 条件概率pY|X(y|x) 需要利用贝叶斯定理计算
 
-# Joint Joint
+Joint Joint
 
 ,,ConditionalMarginal
 
@@ -6488,17 +6488,17 @@ com 5.
 
 曲线描绘的是一元连续随机变量的PDF。# UniformBernoulliGeometric
 
-# Binomial
+Binomial
 
-# GaussianPoisson
+GaussianPoisson
 
-# Student's tLog normal
+Student's tLog normal
 
-# Chi-squaredExponentialGamma
+Chi-squaredExponentialGamma
 
-# BetaHypergeometric
+BetaHypergeometric
 
-# F-distributionLogistic
+F-distributionLogistic
 
 Page 4 | Chapter 5离散分布 | Book 5《统计至简》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及PDF文件下载：https://github.
 
@@ -7716,9 +7716,9 @@ com 边缘概率密度函数 fX(x) 如图11所示连续随机变量X的边缘概
 
 Y(x,y) 对y“偏积分”得到
 
-# Eliminate
+Eliminate
 
-# MarginalJoint
+MarginalJoint
 
 dyXX Yfx f x yy+−=
 
@@ -7736,9 +7736,9 @@ y = 1图11.
 
 Y(x,y) 对y“偏积分”得到边缘概率密度 fX(x) (23) 可以简写为
 
-# Eliminate
+Eliminate
 
-# MarginalJoint
+MarginalJoint
 
 dyXX Yyfx f x yy=
 
@@ -7790,17 +7790,17 @@ Y(x,y) xyzxyxfX(x) 图13.
 
 Y(x,y) 对x“偏积分”得到
 
-# Eliminate
+Eliminate
 
-# MarginalJoint
+MarginalJoint
 
 dxYX Yfy f x yx+−=
 
 (25) 上式相当消去了变量x。上式也可以简写为
 
-# Eliminate
+Eliminate
 
-# MarginalJoint
+MarginalJoint
 
 dxYX Yxfy f x yx=
 
@@ -8074,7 +8074,7 @@ X2(x1,x2) 曲面形状变化。本书第18章将专门讲解核密度估计方�
 
 454321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -8140,7 +8140,7 @@ x2) 代表一条曲线。将一系列类似曲线投影到竖直平面得到图2
 
 这些直线和整个水平轴围成的面积就是边缘概率fX1(x1 = c)。而计算面积的数学工具就是“偏积分”。123450.
 
-# Sepal width
+Sepal width
 
 x2Volume = 15432145678fX1
 
@@ -8178,7 +8178,7 @@ ml@gmail.
 
 com 456780.
 
-# Sepal length
+Sepal length
 
 x1fX1,X2(x1
 
@@ -8238,7 +8238,7 @@ com 54321456781.
 
 456780.
 
-# Sepal length
+Sepal length
 
 x1fX1(x1)
 
@@ -8274,7 +8274,7 @@ dXX Xxfx f x xx=
 
 123450.
 
-# Sepal width
+Sepal width
 
 x2fX2(x2) marginal PDFArea = 1fX2(x2) = 2.
 
@@ -8366,7 +8366,7 @@ x20.
 
 联合概率，假设X1和X2独立给定花萼长度花萼宽度的条件PDF fX2 | X1(x2 | x1) 如图32所示利用贝叶斯定理条件概率密度fX2 | X1(x2 | x1) 可以通过下式计算
 
-# Joint1
+Joint1
 
 2 1 22| 1 2 111ConditionalMarginal
 
@@ -8416,7 +8416,7 @@ marginal PDFArea = 1Area = fX1(x1 = 8.
 
 123450.
 
-# Sepal width
+Sepal width
 
 x25432145678fX2 | X1(x2 | x1 = c)
 
@@ -8460,7 +8460,7 @@ ml@gmail.
 
 com 给定花萼宽度花萼长度的条件概率密度函数fX1 | X2(x1 | x2) 如图35所示同样利用贝叶斯定理条件PDF fX1 | X2(x1 | x2) 可以通过下式计算
 
-# Joint1
+Joint1
 
 2 1 21| 2 1 222ConditionalMarginal
 
@@ -8520,7 +8520,7 @@ fX1 | X2(x1 | x2) 曲线投影到平面
 
 4567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -8552,15 +8552,15 @@ ml@gmail.
 
 com 4567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
 x2Setosa
 
-# C1Versicolor
+C1Versicolor
 
-# C2Virginica
+C2Virginica
 
 图38.
 
@@ -8758,7 +8758,7 @@ X2(Ck | x1
 
 x2) 可以根据下式计算得到
 
-# JointPosterior1
+JointPosterior1
 
 2, 1 2|1
 
@@ -9046,7 +9046,7 @@ com 7 Continuous Distributions
 
 连续分布分布相当于理想化假设我们仅仅是，川流不息河水里的，一个个涡漩。肉体灰飞烟灭，潮流浩浩荡荡。We are but whirlpools in a river of ever-flowing water.
 
-# We are not the stuff that abides
+We are not the stuff that abides
 
 but patterns that perpetuate themselves.
 
@@ -9250,7 +9250,7 @@ xxσµPDF, f(x)PDF, f(x)(a)(b)
 
 也叫二元正态分布它的概率密度函数解析式如下
 
-# Ellipse2211 11 2 2 2 21
+Ellipse2211 11 2 2 2 21
 
 2 1 2 1
 
@@ -9858,7 +9858,7 @@ Area = 1图2.
 
 Y的条件期望 E(Y|X = x) (conditional mean of Y given X = x) 定义为
 
-# ExpectationGivenConditionalJointJoint
+ExpectationGivenConditionalJointJoint
 
 ,Marginal MarginalE
 
@@ -10050,7 +10050,7 @@ Y的条件方差 var(Y|X = x) (conditional variance of Y given X = x) 定义为
 
 Expectation2ExpectationDeviationConditionalJoint2
 
-# Marginal2DeviationMarginalvar E
+Marginal2DeviationMarginalvar E
 
 E1EYXyXYyXXYX x y YX x p yxpx yyY X xpxyY X xpx== − = =− = =− = 
 
@@ -10148,7 +10148,7 @@ X的条件方差 E(X|Y = y) (conditional variance of X given Y = y) 定义为
 
 Expectation2ExpectationDeviationConditionalJoint2
 
-# MarginalDeviationMarginalvar E
+MarginalDeviationMarginalvar E
 
 E1EXYxXYxYYXY y x XY y p xypx yxX Y ypyxX Y ypy== − = =− = =− =
 
@@ -10714,7 +10714,7 @@ com 222222 2 211cm cm cm cmcm cm cm cm4.
 
 00var8|v a r4|
 
-# XXxXX XX xp x
+XXxXX XX xp x
 
 =+ +== + ++ ++ 
 
@@ -11444,7 +11444,7 @@ com 8.
 
 4连续随机变量：条件期望本节介绍如何计算连续随机变量的条件期望。条件期望E(Y|X = x) 如果X和Y均为连续随机变量如图22所示在给定X = x条件下条件期望 E(Y|X = x) 定义为
 
-# ExpectationGivenConditionalJointJoint
+ExpectationGivenConditionalJointJoint
 
 ,Marginal MarginalEd
 
@@ -11576,7 +11576,7 @@ X2上散点越集中条件均方差std(X2 | X1 = x1) 越小比如X1 = 7 cm；相
 
 5 cm。4567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -11658,7 +11658,7 @@ fX1 | X2(x1 | x2) 条件概率密度三维等高线和平面等高线
 
 4567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -12084,7 +12084,7 @@ x2轴围成的面积也都是1
 
 1211 122 2d1d1XxXxfxxfxx== (69)
 
-# Sepal length
+Sepal length
 
 x1fX1(x1)
 
@@ -12124,7 +12124,7 @@ PMF，概率分布函数全部统一为f。X1X2X1X2X1X2X1X2(a)(b)(c)(d) 图39.
 
 二元随机变量，混合
 
-# X1X2X3X1X2X3X1X2X3X1X2X3
+X1X2X3X1X2X3X1X2X3X1X2X3
 
 X1X2X3X1X2X3X1X2X3X1X2X3(a)(b)(c)(d)
 
@@ -12416,7 +12416,7 @@ ppf。4 2024x0.00.20.40.60.81.0FX(x) = p 4 2024
 
 0PPF 1XFpx−=
 
-# CDFp
+CDFp
 
 px
 
@@ -12748,7 +12748,7 @@ py绘制本节之前大部分图像。以鸢尾花数据为例前文提过，Z�
 
 Z1 4 2024Sepal width (σ2)
 
-# Z2 4 2024
+Z2 4 2024
 
 Petal length (σ3)
 
@@ -13100,7 +13100,7 @@ x102468Sepal width
 
 x202468
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -14420,7 +14420,7 @@ ml@gmail.
 
 com 4567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -14434,7 +14434,7 @@ x2d = 1d = 2d = 3d = 4µ2σ1
 
 马氏距离的椭圆，鸢尾花花萼长度、花萼宽度样本数据还有一个需要大家注意的矩形。如图27所示这个矩形和马氏距离为1椭圆同样相切但是它的长边平行于椭圆的长轴。请大家自行计算椭圆长轴倾斜角。4567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -14470,7 +14470,7 @@ ml@gmail.
 
 com 123450.
 
-# Sepal width
+Sepal width
 
 x25432145678fX1
 
@@ -14492,7 +14492,7 @@ x1 = 5.
 
 456780.
 
-# Sepal length
+Sepal length
 
 x1fX1,X2(x1
 
@@ -14542,7 +14542,7 @@ ml@gmail.
 
 0)456780.
 
-# Sepal length
+Sepal length
 
 x1fX1(x1)
 
@@ -14564,7 +14564,7 @@ dXX Xfx f x xx+−= (42) 如所示
 
 fX2(x2) 为一元高斯分布PDF。123450.
 
-# Sepal width
+Sepal width
 
 x2fX2(x2) marginal PDFArea = 1
 
@@ -14656,7 +14656,7 @@ fX1,X2(x1,x2), joint
 
 联合概率，假设X1和X2独立给定花萼长度花萼宽度的条件概率密度fX2 | X1(x2 | x1) 如图35所示利用贝叶斯定理条件概率密度fX2 | X1(x2 | x1) 可以通过下式计算
 
-# Joint1
+Joint1
 
 2 1 22| 1 2 111ConditionalMarginal
 
@@ -14692,7 +14692,7 @@ conditional1.
 
 123450.
 
-# Sepal width
+Sepal width
 
 x2fX2 | X1(x2 | x1 = c)
 
@@ -14738,7 +14738,7 @@ ml@gmail.
 
 com 给定花萼宽度花萼长度的条件概率密度函数fX1 | X2(x1 | x2) 如图38所示同样利用贝叶斯定理条件概率密度fX1 | X2(x1 | x2) 可以通过下式计算
 
-# Joint1
+Joint1
 
 2 1 21| 2 1 222ConditionalMarginal
 
@@ -14760,7 +14760,7 @@ conditionalArea = 11.
 
 456780.
 
-# Sepal length
+Sepal length
 
 x1fX1 | X2(x1 | x2 = c)
 
@@ -14790,7 +14790,7 @@ ml@gmail.
 
 4567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -15376,7 +15376,7 @@ X2) 服从二元高斯函数且X1和X2独立
 
 2 1 212 1 2Joint2211 2 2121Marginal
 
-# Margina
+Margina
 
 2l 11, exp2π211 11exp exp222π2 πXXXX
 
@@ -15808,7 +15808,7 @@ com 因为Y1已经中心化，所以上式中µY1 = 0。将 χΣ 的特征值分
 
 n × 1Y1Demeaned dataX E(X)x1x2n data pointsOriginal data
 
-# XX1X2
+XX1X2
 
 v1ProjectCentralize
 
@@ -15980,9 +15980,9 @@ X的条件PDF fX|Y(x|y) 相当于对 fX
 
 Y(x, y) 曲线用边缘PDF fY(y) 归一化
 
-# JointConditional
+JointConditional
 
-# Marginal
+Marginal
 
 XYXYYfx yfx yfy=
 
@@ -16006,7 +16006,7 @@ ml@gmail.
 
 com Area = fY(y)x
 
-# MarginalJoint
+MarginalJoint
 
 dYX Yxfy f x yx=
 
@@ -16570,7 +16570,7 @@ com 112 2 1 1 , 2 2 2222E0.
 
 819XX x ==−  (20) 类似地如图18所示不管x2怎么变这个条件标准差为定值。4567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -16644,19 +16644,19 @@ ml@gmail.
 
 com 以鸢尾花为例图26所示为鸢尾花数据的质心向量和协方差矩阵热图。我们用花萼长度、花萼宽度、花瓣长度为多元线性回归的多变量，用花瓣宽度为因变量。图26所示向量和协方差矩阵也据此分块。# Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# YSepal length
+YSepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 YΣ0.
 
@@ -16948,11 +16948,11 @@ E(X) 写成 [µ1
 
 图2 (a) 所示为鸢尾花四特征数据协方差矩阵Σ。上一章讲解多元高斯分布时，讲过其概率密度函数PDF解析式中用到协方差矩阵的逆。而协方差矩阵的逆矩阵有自己的名字——集中矩阵 (concentration matrix)。图2 (b) 所示为协方差矩阵的逆Σ−1。# Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X40.
 
@@ -16980,11 +16980,11 @@ X40.
 
 52ΣΣ 1Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X410.
 
@@ -17020,19 +17020,19 @@ X410.
 
 69Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4(a)(b)
 
@@ -17056,9 +17056,9 @@ ml@gmail.
 
 com 四种椭圆本书中常用椭圆代表协方差矩阵。χ若服从多元高斯分布，χ ~ (µ, Σ)。如图3所示，当协方差矩阵形态不同时，对应的椭圆有四种类型。# Identity matrix
 
-# Equal diagonal entries
+Equal diagonal entries
 
-# Unequal diagonal entries
+Unequal diagonal entries
 
 Non-diagonal matrixCovariance matrix1111Diagonal matrix
 
@@ -17094,21 +17094,21 @@ com 21
 
 000000000000DDD==Σ
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4图4.
 
@@ -17226,19 +17226,19 @@ ml@gmail.
 
 com 图7所示为鸢尾花数据相关性系数矩阵P。P的对角线元素均为1，对角线以外元素为成对相关性系数ρi,j。类似协方差矩阵，相关性系数矩阵P当然也可以分块。# Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4PSepal length
+X4PSepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X40.
 
@@ -17304,35 +17304,35 @@ versicolorC3
 
 virginicaSepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4图9.
 
@@ -17410,13 +17410,13 @@ com 0.
 
 Ec== −YX V X X V (27) 求数据矩阵Y的协方差矩阵
 
-# TTT12TT00000EE11EE01
+TTT12TT00000EE11EE01
 
 Dnnn−−==−−−−=−== =YXX V XX VYYΣXX XXVVVΣV Λ
 
 0(a)(b)
 
-# Y1Y2Y3Y4
+Y1Y2Y3Y4
 
 Page 15 | Chapter 13协方差矩阵 | Book 5《统计至简》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及PDF文件下载：https://github.
 
@@ -19944,21 +19944,21 @@ ID×D)的随机数矩阵Z
 
 ΣD×D) 的随机数。# Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X446823405100123Sepal length
+X446823405100123Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4468
+X4468
 
 0123图26. 四元高斯随机数 Bk5_Ch15_09.py产生图26结果。Page 21 | Chapter 15蒙特卡罗模拟 | Book 5《统计至简》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及PDF文件下载：https://github.
 
@@ -20794,7 +20794,7 @@ x102468Sepal width
 
 x202468403020100Count403020100Count
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -20834,13 +20834,13 @@ com 参数估计本书前文介绍一些常见的概率分布函数但是它们�
 
 图2 (d)) 这两个特征上样本数据的分布。多数情况，样本数据分布不够“正态”，仅仅使用均值µ和均方差σ描述数据不合适。0Probability density1.
 
-# Sepal length
+Sepal length
 
 x102468Sepal width
 
 x202468
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -20894,15 +20894,15 @@ com 核密度估计下面介绍本章的主角——核密度估计 (Kernel Dens
 
 KDE)。本书前文很多场合已经用过核密度估计比如第2、5章中都用高斯核密度估计过鸢尾花单一特征概率密度以及联合概率密度。核密度估计需要指定一个核函数来描述每一个数据点最常见的核函数时高斯核函数本章还会介绍并比较其他核函数。图3所示为通过高斯核函数核密度估计得到的平滑曲线下面我们聊一聊核密度估计原理。0Probability density1.
 
-# Sepal length
+Sepal length
 
-# X102468Sepal width
+X102468Sepal width
 
-# X202468
+X202468
 
-# Petal length
+Petal length
 
-# X302468Petal width
+X302468Petal width
 
 X4024680.
 
@@ -21048,13 +21048,13 @@ com 0.
 
 0Probability density1.
 
-# Sepal length
+Sepal length
 
 x102468Sepal width
 
 x202468
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -21072,13 +21072,13 @@ x4024680.
 
 0PDF/CDF1.
 
-# Sepal length
+Sepal length
 
 x102468Sepal width
 
 x202468
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -21152,7 +21152,7 @@ com 图10.
 
 0Probability density1.
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -21176,7 +21176,7 @@ x202468
 
 0Probability density1.
 
-# Petal length
+Petal length
 
 x302468Petal width
 
@@ -21598,7 +21598,7 @@ Y(5.
 
 Y(x,Ck) 可以通过似然概率 fX|Y(x|Ck) 和先验概率pY(Ck) 相乘得到
 
-# Likeli oPrioho dJoint
+Likeli oPrioho dJoint
 
 |r,XY k X Y k Y kfx C fx C p C=
 
@@ -21748,7 +21748,7 @@ Y(x,C1)
 
 6) 来描述。注意，后验概率实际上是概率，不是概率密度。因此，fY|X(Ck | x) 的取值范围为 [0, 1]。根据贝叶斯定理当fX(x) > 0时后验概率PDF fY|X(Ck | x) 可以根据下式计算得到
 
-# JointPosterior
+JointPosterior
 
 |Evidence
 
@@ -21796,7 +21796,7 @@ Y(x,C2)fX(x)fY|X(C3|x)fX
 
 Y(x,C3)fX(x)ProbabilityPDFPDF
 
-# ProbabilityPDFPDF
+ProbabilityPDFPDF
 
 图7.
 
@@ -22016,7 +22016,7 @@ Sepal length, x (cm)0.
 
 基于KDE 比较后验概率有了本节前文联合概率和证据因子我们可以获得后验概率密度曲线如图13。后验概率也叫成员值，后验概率更容易分类可视化。45678PosteriorfY|X(C1|x)
 
-# Sepal length
+Sepal length
 
 x (cm)fY|X(C2|x)fY|X(C3|x1)0.
 
@@ -22062,9 +22062,9 @@ ml@gmail.
 
 com Setosa
 
-# C1Versicolor
+C1Versicolor
 
-# C2Virginica
+C2Virginica
 
 45678Sepal length, x (cm)0.
 
@@ -22112,9 +22112,9 @@ Posterior1.
 
 fY|X2(C2|x2)fY|X2(C3|x2)Setosa
 
-# C1Versicolor
+C1Versicolor
 
-# C2Virginica
+C2Virginica
 
 BA
 
@@ -22126,11 +22126,11 @@ CD 图17.
 
 0PosteriorSetosa
 
-# C1Versicolor
+C1Versicolor
 
-# C2Virginica
+C2Virginica
 
-# C3 Membership varies
+C3 Membership varies
 
 图18.
 
@@ -22256,9 +22256,9 @@ ml@gmail.
 
 x1 (cm)BACDESetosa
 
-# C1Versicolor
+C1Versicolor
 
-# C2Virginica
+C2Virginica
 
 C3 fY|X1(C1|x1)fY|X1(C3|x1)fY|X1(C2|x1)
 
@@ -22284,9 +22284,9 @@ com 图25.
 
 x2 (cm)Setosa
 
-# C1Versicolor
+C1Versicolor
 
-# C2Virginica
+C2Virginica
 
 BA
 
@@ -22312,9 +22312,9 @@ ml@gmail.
 
 com Setosa
 
-# C1Versicolor
+C1Versicolor
 
-# C2Virginica
+C2Virginica
 
 45678Sepal length, x1 (cm)0.
 
@@ -22328,11 +22328,11 @@ com Setosa
 
 0PosteriorSetosa
 
-# C1Versicolor
+C1Versicolor
 
-# C2Virginica
+C2Virginica
 
-# C3 Membership varies
+C3 Membership varies
 
 图28.
 
@@ -22450,7 +22450,7 @@ x2|C1) “偏积分”的结果为条件边缘概率密度fX1|Y(x1|C1)或fX2|Y(x
 
 854321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -22482,7 +22482,7 @@ com fX1,X2|Y(x1,x2|C2), likelihood
 
 854321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -22510,7 +22510,7 @@ likelihood
 
 854321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -22634,7 +22634,7 @@ com fX1,X2,Y(x1,x2,C1), joint0.
 
 854321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -22662,7 +22662,7 @@ joint
 
 854321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -22690,7 +22690,7 @@ com fX1,X2,Y(x1,x2,C3), joint0.
 
 854321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -22780,7 +22780,7 @@ evidence
 
 454321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -22828,7 +22828,7 @@ X2(Ck | x1
 
 x2) 可以根据下式计算得到
 
-# JointPosterior1
+JointPosterior1
 
 2, 1 2|1
 
@@ -22864,7 +22864,7 @@ x2) 对应曲面和平面等高线。上一章提到，后验概率 (成员值) 
 
 854321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -22894,7 +22894,7 @@ com fY|X1,X2(C2|x1,x2), posterior0.
 
 854321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -22918,7 +22918,7 @@ x2), posterior
 
 854321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -22978,7 +22978,7 @@ X2(C3|x1
 
 x2), posterior
 
-# Sepal length
+Sepal length
 
 x1Sepal length
 
@@ -23000,7 +23000,7 @@ k = 1,2
 
 决策边界将平面划分成三个区域每个区域对应一类鸢尾花标签。《机器学习》一册将探讨更多分类算法。45678234
 
-# Sepal length
+Sepal length
 
 x1 (cm)Sepal width
 
@@ -23040,7 +23040,7 @@ X2(x1,x2) 并没有很好地描述鸢尾花数据分布。fX1,X2(x1,x2), indepen
 
 54321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -23126,7 +23126,7 @@ conditional independence0.
 
 254321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -23160,7 +23160,7 @@ conditional independence0.
 
 254321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -23210,7 +23210,7 @@ conditional independence0.
 
 254321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -23284,7 +23284,7 @@ conditional independence
 
 454321456784567812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -23816,7 +23816,7 @@ n = 2Number of rabbits
 
 s = 0
 
-# Number of trials
+Number of trials
 
 n = 3Number of rabbits
 
@@ -23830,7 +23830,7 @@ n = 5Number of rabbits
 
 s = 1
 
-# Number of trials
+Number of trials
 
 n = 10Number of rabbits
 
@@ -24222,7 +24222,7 @@ n = 2Number of rabbits
 
 s = 2
 
-# Number of trials
+Number of trials
 
 n = 3Number of rabbits
 
@@ -24236,7 +24236,7 @@ n = 5Number of rabbits
 
 s = 2
 
-# Number of trials
+Number of trials
 
 n = 10Number of rabbits
 
@@ -24300,7 +24300,7 @@ n = 2Number of rabbits
 
 s = 1
 
-# Number of trials
+Number of trials
 
 n = 3Number of rabbits
 
@@ -24314,7 +24314,7 @@ n = 5Number of rabbits
 
 s = 1
 
-# Number of trials
+Number of trials
 
 n = 10Number of rabbits
 
@@ -24360,7 +24360,7 @@ Prior, fϴ(θ) Prior
 
 fϴ(θ) Prior modePrior mode
 
-# Prior modePrior modePosterior
+Prior modePrior modePosterior
 
 fϴ|X(θ|x) Posterior
 
@@ -24598,7 +24598,7 @@ com 21 Dive into Bayesian Inference
 
 it is only to be understood.
 
-# Now is the time to understand more
+Now is the time to understand more
 
 so that we may fear less.
 
@@ -27280,7 +27280,7 @@ R-squared: 0.
 
 686Method
 
-# Least Squares F-statistic
+Least Squares F-statistic
 
 549.
 
@@ -27288,7 +27288,7 @@ R-squared: 0.
 
 55e-65Time
 
-# XXXXXXXXXXX Log-Likelihood
+XXXXXXXXXXX Log-Likelihood
 
 678.
 
@@ -27296,7 +27296,7 @@ R-squared: 0.
 
 Df Residuals: 250 BIC: -1345.
 
-# Df Model
+Df Model
 
 1 Covariance Type
 
@@ -27404,7 +27404,7 @@ Page 5 | Chapter 25主成分分析 | Book 5《统计至简》| 鸢尾花书从�
 
 n × Dx(1)First sample
 
-# First featureAll samples
+First featureAll samples
 
 图2.
 
@@ -27516,7 +27516,7 @@ z1相当于 [x1
 
 x2, …, xD] 的某种特殊线性组合。Page 12 | Chapter 25主成分分析 | Book 5《统计至简》| 鸢尾花书从加减乘除到机器学习
 
-# Projectx1x2x3
+Projectx1x2x3
 
 x4xD 1z3 = v1,3x1 + v2,3x2 + vD,3xD .
 
@@ -27532,7 +27532,7 @@ D 1x1 + v2
 
 D 1x2 + vD
 
-# D 1xD v1v1
+D 1xD v1v1
 
 1v2,1vD
 
@@ -27642,7 +27642,7 @@ v2]v1v2
 
 v1ProjectMaximum varianceRotate
 
-# Principalcomponentv1
+Principalcomponentv1
 
 图18.
 
@@ -27688,11 +27688,11 @@ x120 24 20426x2v1v2
 
 Page 19 | Chapter 25主成分分析 | Book 5《统计至简》| 鸢尾花书从加减乘除到机器学习
 
-# Y120 24 420 24
+Y120 24 420 24
 
 4Y2
 
-# Y120 24 420 24
+Y120 24 420 24
 
 4Y2v1v2
 
@@ -27796,7 +27796,7 @@ n × DD × 1Geometrizev
 
 principal componentX
 
-# Data centerProjected data
+Data centerProjected data
 
 zMaximize projected variance 图28.
 
@@ -27808,7 +27808,7 @@ Tvar=zvΣv (40) v为单位列向量即满足如下约束条件
 
 T1=vv (41) 有以上分析我们便可以构造主成分分析优化问题优化目标为数据在v方向上数据投影方差最大化
 
-# TTarg max subject to
+TTarg max subject to
 
 1 0−=vvΣvvv (42) 上式最大化优化问题等价于如下最小化优化问题
 
@@ -27848,7 +27848,7 @@ n × Dv1Tv2Tv3Tv4TD × D
 
 还原原始数据运算图32所示为z1还原X部分数据，对应运算如下：Page 27 | Chapter 25主成分分析 | Book 5《统计至简》| 鸢尾花书从加减乘除到机器学习 T11 1=Xz v (49) 展开上式得到
 
-# T11 111
+T11 111
 
 1 2 , 1
 

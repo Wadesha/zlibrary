@@ -212,9 +212,9 @@ App开发本书几乎每一章都至少有一个用 Strea mlit开发的App
 
 用来展示数学动画数据分析、机器学习算法。Streamlit 是个开源的 Python库能够方便快捷搭建部署交互型网页 App。Streamlit 非常简单易用、很受欢迎。Streamlit兼容目前主流的 Python数据分析库比如 NumPy
 
-# Pandas
+Pandas
 
-# Scikit-
+Scikit-
 
 learn、PyTorch、TensorFlow 等等。Streamlit还支持 Plotly
 
@@ -244,9 +244,9 @@ com 运行 Jupyter无需 IDE，只需要浏览器。Jupyter容易分块执行代
 
 或Excel文件中再打开。图像结果不具有交互性，比如不能查看某个点的值，或者旋转3D图形，可以考虑安装 (jupyter -matplotli b)。注意，利用 Altair或Plotly绘制的图像支持交互功能。定义函数，目前没有快捷键直接跳转到其定义。但是，很多开发者针对这些问题都开发了插件，请大家留意。大家可以下载安装 Anaconda
 
-# JupyterLab
+JupyterLab
 
-# Spyder
+Spyder
 
 PyCharm等常用工具都集成在 Anaconda
 
@@ -446,11 +446,11 @@ com 定量数据、定性数据数据一般可以分为定量数据 (quantitativ
 
 指的是描述事物的特征属性等文字或符号如姓名、颜色、国家、性别、五星评价等等。# DataQuantitative data
 
-# Discrete dataContinuous data
+Discrete dataContinuous data
 
-# Ordinal dataNominal data
+Ordinal dataNominal data
 
-# Qualitative data
+Qualitative data
 
 图2.
 
@@ -486,23 +486,23 @@ A、B、C、D和F。此外，区间数据 (interval data) 也可以看做时一�
 
 表格第3列为身高 (连续定量数据 )，第4列为成绩 (定序数据 )，第5列为血型 (定类数据 )。大家已经很熟悉的鸢尾花数据也是混合数据表格。如图5所示，表格的第一列为序号，之后四列为花萼长度、花萼宽度、花瓣长度、花瓣宽度四个特征的连续数据。最后一列为鸢尾花分类
 
-# Male
+Male
 
-# Male
+Male
 
-# FemaleFemale
+FemaleFemale
 
-# Male
+Male
 
-# FemaleMaryJames
+FemaleMaryJames
 
-# Shawn
+Shawn
 
-# Alice
+Alice
 
-# Bill
+Bill
 
-# JuliaGender Height
+JuliaGender Height
 
 168Name
 
@@ -524,7 +524,7 @@ BO
 
 A
 
-# ABlood
+ABlood
 
 图4.
 
@@ -544,15 +544,15 @@ com/51 3194466
 
 visualize.
 
-# IndexSepal length
+IndexSepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Species
+X4Species
 
 C
 
@@ -560,9 +560,9 @@ C
 
 C1
 
-# Versicolor
+Versicolor
 
-# C252
+C252
 
 149Virginica
 
@@ -628,29 +628,29 @@ com 在实际应用中，有标签数据和无标签数据往往同时存在。�
 
 但同时还存在大量未分类的文本数据 (无标签数据)，可以利用这些无标签数据进行半监督学习 (semi -supervised lear ning)。# X y
 
-# Input variables
+Input variables
 
 or featuresUnobservedUnsupervised learning
 
-# NaN
+NaN
 
-# UnlabeledX y
+UnlabeledX y
 
-# Input variables
+Input variables
 
 or featuresResponse
 
 variableSupervised learning
 
-# LabeledX y
+LabeledX y
 
-# Input variables
+Input variables
 
 or featuresMixedSemi -supervised learning
 
-# LabeledNaN
+LabeledNaN
 
-# Unlabeled
+Unlabeled
 
 图6.
 
@@ -662,9 +662,9 @@ AI) 是一套算法系统它通过模拟人类智慧感知环境，经过分析�
 
 Unsupervised learningSupervised learning
 
-# RegressionClassification
+RegressionClassification
 
-# Dimensionality reductionClustering
+Dimensionality reductionClustering
 
 图7.
 
@@ -756,31 +756,31 @@ com/51 3194466
 
 visualize.
 
-# Input dataBlack boxReal world
+Input dataBlack boxReal world
 
-# Original data
+Original data
 
-# Processed data
+Processed data
 
-# Training setCollect data
+Training setCollect data
 
-# Process data
+Process data
 
-# Validation set
+Validation set
 
-# Machine
+Machine
 
 learningLearning
 
-# Evaluation
+Evaluation
 
-# Trained modelYes
+Trained modelYes
 
 deployValidateFeature extraction
 
-# Feature selection
+Feature selection
 
-# MonitorPredictTest setModel selection
+MonitorPredictTest setModel selection
 
 Pass?
 
@@ -1064,11 +1064,11 @@ Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)
 
 Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)Species 0
 
-# Setosa 1
+Setosa 1
 
-# Versicolor 2
+Versicolor 2
 
-# Virginica
+Virginica
 
 图2.
 
@@ -1124,11 +1124,11 @@ Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)
 
 Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)Species 0
 
-# Setosa 1
+Setosa 1
 
-# Versicolor 2
+Versicolor 2
 
-# Virginica
+Virginica
 
 图4.
 
@@ -1278,7 +1278,7 @@ RangeIndex: 150 entries, 0 to 149
 
 Data columns (total 5 columns):
 
-# Column Non -Null Count Dtype
+Column Non -Null Count Dtype
 
 --- ------ -------------- -----
 
@@ -1326,23 +1326,23 @@ com 2.
 
 (imputat ion)。本章后续主要介绍连续数据的删除和插补方法。本书第6章将专门介绍时间序列数据的插补。# DeletionDeleting rows
 
-# Deleting columns
+Deleting columns
 
-# Pairwise deletion
+Pairwise deletion
 
 ImputationGeneralCategorical Logistic regression
 
-# Make NaN as new cl ass
+Make NaN as new cl ass
 
-# Multiple imputation
+Multiple imputation
 
 ContinuousMean, mode, or median
 
-# Multiple imputation
+Multiple imputation
 
-# Regression
+Regression
 
-# TimeseriesHandle missing data
+TimeseriesHandle missing data
 
 图11.
 
@@ -1384,11 +1384,11 @@ Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)
 
 Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)Species 0
 
-# Setosa 1
+Setosa 1
 
-# Versicolor 2
+Versicolor 2
 
-# Virginica
+Virginica
 
 Page 12 | Chapter 2缺失值 | Book 6《数据有道》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。com /Visualize-ML
 
@@ -1408,7 +1408,7 @@ com 图14.
 
 鸢尾花数据，删除含有至少一个缺失值所在的行一般情况每列数据代表一个特征，删除整列特征的情况也并不罕见。不管是删除缺失值所在的行或列，都会浪费大量有价值的信息。成对删除成对删除 (pairwise deletion) 是一种特别的删除方式进行多特征联立时成对删除只删除掉需要执行运算特征包含的缺失数据；以估算方差协方差矩阵为例，如图15所示，计算 X1和X3的相关性，只需要删除 X1和X3中缺失值对应的数据点。# X1X2X3X4 X1X3
 
-# Pairwise deletion
+Pairwise deletion
 
 图15.
 
@@ -1446,11 +1446,11 @@ Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)
 
 Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)Species 0
 
-# Setosa 1
+Setosa 1
 
-# Versicolor 2
+Versicolor 2
 
-# Virginica
+Virginica
 
 图16.
 
@@ -1480,11 +1480,11 @@ Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)
 
 Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)Species 0
 
-# Setosa 1
+Setosa 1
 
-# Versicolor 2
+Versicolor 2
 
-# Virginica
+Virginica
 
 图17.
 
@@ -1514,11 +1514,11 @@ Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)
 
 Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)Species 0
 
-# Setosa 1
+Setosa 1
 
-# Versicolor 2
+Versicolor 2
 
-# Virginica
+Virginica
 
 图18.
 
@@ -1670,23 +1670,23 @@ visualize.
 
 rug plot
 
-# Boxplot
+Boxplot
 
-# Kernel -based
+Kernel -based
 
-# Scatter plot
+Scatter plot
 
-# ParametricGaussian -based Univariate
+ParametricGaussian -based Univariate
 
-# Multivariate
+Multivariate
 
-# Regression -based
+Regression -based
 
-# Distance -based
+Distance -based
 
-# Density -based
+Density -based
 
-# Clustering -based
+Clustering -based
 
 Timeseries analysisHandle outliersQQ plot
 
@@ -1752,7 +1752,7 @@ Sepal width, X20 2 4 6 8
 
 Petal length, X30 2 4 6 8
 
-# Petal width
+Petal width
 
 X40 2 4 6 825% percentile50% percentile75% percentile
 
@@ -1766,9 +1766,9 @@ X40 2 4 6 825% percentile50% percentile75% percentile
 
 75% percentileCount
 
-# CountCount
+CountCount
 
-# Count
+Count
 
 图5.
 
@@ -1800,7 +1800,7 @@ com 概率密度估计 + rug图概率密度估计图像也可以用来观察异�
 
 Petal length, X3 Petal width, X4Density
 
-# DensityDensity
+DensityDensity
 
 Density1% percentile
 
@@ -1870,7 +1870,7 @@ com/51 3194466
 
 visualize.
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -1956,9 +1956,9 @@ Sepal length, X1Count
 
 花萼长度直方图和 QQ图
 
-# Count
+Count
 
-# Sepal width
+Sepal width
 
 X2Normal distributionEmperical distribution
 
@@ -1966,9 +1966,9 @@ X2Normal distributionEmperical distribution
 
 花萼宽度直方图和 QQ图
 
-# Count
+Count
 
-# Petal length
+Petal length
 
 X3 Normal distributionEmperical distribution
 
@@ -1990,9 +1990,9 @@ com/51 3194466
 
 visualize.
 
-# Count
+Count
 
-# Petal width
+Petal width
 
 X4 Normal distributionEmperical distribution
 
@@ -2154,7 +2154,7 @@ Z-score, Z3 4 2 0 2 4
 
 Z-score, Z4 4 2 0 2 4Count
 
-# CountCount
+CountCount
 
 Count±3, 99.
 
@@ -2228,9 +2228,9 @@ com 代码 Bk6_Ch03_01.
 
 py 绘制本章前文主要图片。概率密度估计检测离群值马氏距离实际上假设数据服从多元正态分布。当多特征数据分布情况较大偏离多元正态分布，马氏距离就会失效。这时我们可以用概率密度估计来检测离群值。如图21所示，KDE概率密度估计没有预设数据分布假设。有关 KDE概率密度估计，大家可以回顾《统计至简》第18章。# Sepal lengthSepal width
 
-# Sepal width
+Sepal width
 
-# Sepal length
+Sepal length
 
 图21.
 
@@ -2248,9 +2248,9 @@ com/51 3194466
 
 visualize.
 
-# Sepal lengthSepal width
+Sepal lengthSepal width
 
-# Sepal lengthSepal width
+Sepal lengthSepal width
 
 图22.
 
@@ -2372,33 +2372,33 @@ com 4.
 
 1数据转换本章介绍数据转换 (data transformation) 的常见方法。数据转换是数据预处理的重要一环，用来转换要分析的数据集，使其更方便后续建模，比如回归分析、分类、聚类、降维。注意，数据预处理时，一般先处理缺失值、离群值，然后再数据转换。数据转换的外延可以很广。函数 (比如指数函数、对数函数 )、中心化、标准化、概率密度估计、插值、回归分析主成分分析、时间序列分析平滑降噪等某种意义上都可以看做是数据比如，经过主成分分析处理过的数据可以成为其他算法的输入。图1总结本章要介绍的几种主要数据转换方法。下一章专门介绍插值。图1可以用作本章思维
 
-# Statistics -basedDemean
+Statistics -basedDemean
 
-# Standardization
+Standardization
 
-# Normalization
+Normalization
 
-# Power
+Power
 
 transformationBox-Cox
 
-# Yeo-Johnson
+Yeo-Johnson
 
-# ECDF
+ECDF
 
 transformation
 
-# Copula
+Copula
 
-# OthersKDE
+OthersKDE
 
-# Interpolation
+Interpolation
 
-# Regression
+Regression
 
-# PCA
+PCA
 
-# Timeseries analysisData transformation
+Timeseries analysisData transformation
 
 图1.
 
@@ -2462,11 +2462,11 @@ Sepal length Sepal width Petal length Petal width
 
 0Probability densitySepal length
 
-# Sepal width
+Sepal width
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
 图3.
 
@@ -2494,7 +2494,7 @@ Sepal length Sepal width Petal length Petal width02468
 
 鸢尾花原始数据，小提琴图
 
-# Setosa Versicolor Virginica
+Setosa Versicolor Virginica
 
 Sepal length Sepal width Petal length Petal width8
 
@@ -2530,11 +2530,11 @@ com 图6.
 
 4 2 0 2 4Sepal length
 
-# Sepal width
+Sepal width
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
 图7.
 
@@ -2546,7 +2546,7 @@ Sepal length Sepal width Petal length Petal width 10123
 
 小提琴图，去均值
 
-# Setosa Versicolor Virginica
+Setosa Versicolor Virginica
 
 Sepal length Sepal width Petal length Petal width0
 
@@ -2620,11 +2620,11 @@ com 图10.
 
 2 0 2 4Sepal length
 
-# Sepal width
+Sepal width
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
 图11.
 
@@ -2672,7 +2672,7 @@ Sepal length Sepal width Petal length Petal width1.
 
 小提琴图，归一化
 
-# Setosa Versicolor Virginica
+Setosa Versicolor Virginica
 
 Sepal length Sepal width Petal length Petal width
 
@@ -2762,9 +2762,9 @@ visuali ze.
 
 原始数据和转换数据的直方图
 
-# NormalOriginal data
+NormalOriginal data
 
-# NormalTransformed data
+NormalTransformed data
 
 图16.
 
@@ -2842,7 +2842,7 @@ preprocessi ng.
 
 QuantileTransformer 函数。图19所示为鸢尾花数据四个特征的ECDF图像。# PDF
 
-# ECDF 1
+ECDF 1
 
 图17.
 
@@ -2872,13 +2872,13 @@ com/51 3194466
 
 visuali ze.
 
-# Sepal length
+Sepal length
 
-# Sepal width
+Sepal width
 
-# Petal length
+Petal length
 
-# Petal widthEmpirical CDF
+Petal widthEmpirical CDF
 
 图19.
 
@@ -2914,7 +2914,7 @@ com/51 3194466
 
 visuali ze.
 
-# Sepal length
+Sepal length
 
 x1 Sepal width
 
@@ -3026,17 +3026,17 @@ com/51 3194466
 
 visuali ze.
 
-# Gaussian
+Gaussian
 
-# Student -t
+Student -t
 
-# Frank
+Frank
 
-# Clayton
+Clayton
 
-# GumbelElliptical
+GumbelElliptical
 
-# ArchimedeanCopula
+ArchimedeanCopula
 
 图23.
 
@@ -3168,15 +3168,15 @@ com 本章最后还要介绍二维插值 (bivariate interpolation)
 
 Backward/next
 
-# Nearest interpolation
+Nearest interpolation
 
-# PolynomialLinear interpolation
+PolynomialLinear interpolation
 
-# Quadratic interpolation
+Quadratic interpolation
 
-# Cubic interpolation
+Cubic interpolation
 
-# Lagrange polynomial
+Lagrange polynomial
 
 interpolation
 
@@ -3186,11 +3186,11 @@ MultivariateBivariate interpolationInterpolation
 
 插值的分类
 
-# Jan Feb Mar Apr Jan Feb Mar AprMissing
+Jan Feb Mar Apr Jan Feb Mar AprMissing
 
-# Missing
+Missing
 
-# Missing
+Missing
 
 图3.
 
@@ -3764,9 +3764,9 @@ com/51 3194466
 
 visualize.
 
-# KnownKnown
+KnownKnown
 
-# KnownKnownInterpolated
+KnownKnownInterpolated
 
 图14.
 
@@ -4248,19 +4248,19 @@ Date TSLA TSM COST NVDA FB AMZN AAPL NFLX GOOGL
 
 股票收盘股价数据图3利用线图可视化股票收盘股价走势。图3 (b) 右图初始股价归一化处理，这些曲线更容易比较不同股票的涨跌情况。0500100015002000250030003500Adjusted closing price
 
-# TSLA
+TSLA
 
-# TSM
+TSM
 
-# COSTNVDA
+COSTNVDA
 
 FB
 
-# AMZNAAPL
+AMZNAAPL
 
-# NFLX
+NFLX
 
-# GOOGL2020 Jan
+GOOGL2020 Jan
 
 2020 Mar
 
@@ -4314,15 +4314,15 @@ com 我们先介绍损益 (Profit and Loss
 
 PnL) 这个概念。损益 PnL是指某个交易或投资策略在一定时期内的总收益或总损失。它是通过将所有交易的盈利和亏损加总起来得出的。正的 PNL 表示盈利，负的 PNL 表示亏损。如图4所示只考虑某只股票收盘价 S在t时刻和 t – 1时刻 (工作日 ) 的变动，通过如下公式计算出 t时刻的日损益：1 PnLt t tSS−=− (1)
 
-# Date stampStock
+Date stampStock
 
 price
 
 t 3StSt 1St 2
 
-# St 3
+St 3
 
-# Intraday
+Intraday
 
 t 2 t 1 t
 
@@ -4420,25 +4420,25 @@ visualize.
 
 ml@gma il.
 
-# DeletionDeleting rows
+DeletionDeleting rows
 
-# Deleting columns
+Deleting columns
 
-# Pairwise deletion
+Pairwise deletion
 
 ImputationGeneralCategorical Logistic regression
 
-# Make NaN as new cl ass
+Make NaN as new cl ass
 
-# Multiple imputation
+Multiple imputation
 
 ContinuousMean, mode, or median
 
-# Multiple imputation
+Multiple imputation
 
-# Linear regression
+Linear regression
 
-# TimeseriesHandle missing data
+TimeseriesHandle missing data
 
 Data with trend, but
 
@@ -4446,13 +4446,13 @@ without seasonalityData without trend
 
 and seasonality
 
-# Data with trend and
+Data with trend and
 
 with seasonalityMean, mode, or median
 
-# Random sample imputation
+Random sample imputation
 
-# Linear regression
+Linear regression
 
 Seasonal adjustment +
 
@@ -4486,7 +4486,7 @@ visualize.
 
 ml@gma il.
 
-# Price level
+Price level
 
 Date?
 
@@ -4494,7 +4494,7 @@ Date?
 
 向后插值填充缺失值
 
-# Price level
+Price level
 
 Date?
 
@@ -4538,27 +4538,27 @@ com 观察图12的局部图中我们还发现不同年份中一年内失业率�
 
 4Unemployment rateJan
 
-# Feb
+Feb
 
-# Mar
+Mar
 
-# Apr
+Apr
 
-# May
+May
 
-# Jun
+Jun
 
-# Jul
+Jul
 
-# Aug
+Aug
 
-# Sep
+Sep
 
-# Oct
+Oct
 
-# Nov
+Nov
 
-# Dec
+Dec
 
 Page 11 | Chapter 6时间数据 | Book 6《数据有道》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及 PDF文件下载：https://git hub.
 
@@ -4610,13 +4610,13 @@ visualize.
 
 ml@gma il.
 
-# Unemployment rate14
+Unemployment rate14
 
 图15.
 
 年度失业率数据箱型图
 
-# Unemployment rate14
+Unemployment rate14
 
 Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
 
@@ -4654,15 +4654,15 @@ com ◄ 趋势项 (trend component ) T(t)
 
 表征时间序列中随机的不规则成分体现出一定的自相关性以及持续时间内无法预测的周期。该成分可以是噪声，但不一定是。往往认为随机项包含有与业务自身密切相关的信息。# Linear
 
-# Nonlinear
+Nonlinear
 
-# Short -term
+Short -term
 
 movementsCyclic
 
-# Seasonal
+Seasonal
 
-# Random or irregularComponents
+Random or irregularComponents
 
 of timeseriesLong -term
 
@@ -5034,15 +5034,15 @@ com 7.
 
 moving window ) 是一种重要的时间序列统计计算方法。移动窗口按照一定规律沿着历史数据移动每一个位置都产生一个统计量比如最大值、最小值平均值、加权平均值、标准差等等。移动窗口方法可以消除时间序列中的随机噪声，减少数据波动，更好地反映数据的趋势和周期性。随着移动窗口不断滚动，特定统计量不断产生；因此，通过移动窗口得到的数据是序列数据，也就是时间序列。移动窗口的宽度叫做回望窗口长度 (lookback window length)。# Historical data
 
-# Lookback window
+Lookback window
 
-# Rolling
+Rolling
 
 图1.
 
 移动窗口
 
-# Historical data
+Historical data
 
 图2.
 
@@ -5162,7 +5162,7 @@ t = k L + 1 t = k t = T t = 0
 
 回望窗口内数据序号
 
-# Price
+Price
 
 Mean, 50
 
@@ -5268,9 +5268,9 @@ L+−
 
 (3) 相当于对回望窗口内 (xi)2数据，施加完全相同的权重1/L；因此，这种波动率也被叫做移动平均波动率 (moving average volatility)。# Historical data
 
-# Lookback window
+Lookback window
 
-# RollingEqually weightedWeight
+RollingEqually weightedWeight
 
 图8.
 
@@ -5434,7 +5434,7 @@ ml@gma il.
 
 1 2 22
 
-# EWMA2
+EWMA2
 
 _10.
 
@@ -5632,11 +5632,11 @@ r  
 
 1 2 3 4 4 1n n n n n n r r r r       − − − − − = − + + + + (11)
 
-# Historical data
+Historical data
 
-# Lookback window
+Lookback window
 
-# RollingExponentially weightedWeight
+RollingExponentially weightedWeight
 
 图19.
 
@@ -5716,7 +5716,7 @@ visualize.
 
 ml@gma il.
 
-# Daily log return
+Daily log return
 
 # 0.10 0.050.000.050.10
 
@@ -5724,7 +5724,7 @@ ml@gma il.
 
 ±2σ EWMA波动率带宽，λ = 0.
 
-# Daily log return
+Daily log return
 
 # 0.10 0.050.000.050.10
 
@@ -5808,7 +5808,7 @@ rollin g.
 
 RollingOLS 计算移动 OLS线性回归系数。0Slope, b1Upper CI
 
-# Lower CI
+Lower CI
 
 图26.
 
@@ -5816,7 +5816,7 @@ RollingOLS 计算移动 OLS线性回归系数。0Slope, b1Upper CI
 
 # 0.01 0.000.010.02Intercept, b0
 
-# Lower CIUpper CI
+Lower CIUpper CI
 
 图27.
 
@@ -6156,11 +6156,11 @@ i
 
 iX t X t X t
 
-# X t t
+X t t
 
-# X t t t
+X t t t
 
-# X t t t t t
+X t t t t t
 
 t
 
@@ -6224,7 +6224,7 @@ t(n)0.
 
 02 0.
 
-# Probability density
+Probability density
 
 图7.
 
@@ -6466,7 +6466,7 @@ t(n)0.
 
 02 0.
 
-# Probability density80
+Probability density80
 
 20x
 
@@ -6558,7 +6558,7 @@ ml@gmail.
 
 0X1
 
-# X2 204060
+X2 204060
 
 0 50 100 150 200
 
@@ -6684,7 +6684,7 @@ t(n)0.
 
 02 0.
 
-# Probability density 2050
+Probability density 2050
 
 0100150200
 
@@ -6728,7 +6728,7 @@ visualize.
 
 ml@gmail.
 
-# Compute returns
+Compute returns
 
 图23.
 
@@ -6740,7 +6740,7 @@ S0为初始股价，经过一小段时间 Δt，股价变化 ΔS：0exp2S S t t�
 
 µ 收益率期望值，σ为收益率波动率，ε 随机数服从标准正态分布。图24总结整个蒙特卡洛模拟股价走势过程。历史数据用来校准模型。图25所示为 S&P 500指数在一段时间内的走势。图26所示为其日对数回报率。图27给出日对数回报率的分布情况，我们可以计算得到均值和方差，这些参数可以用来校准模型。图28所示为蒙特卡洛模拟结果。这种方法缺陷很明显，历史数据未必能够代表未来趋势。此外，由于假设回报率服从正态分布，没有考虑到 “厚尾”问题，也就是所谓的 “黑天鹅”问题。# Historical dataCalibrate parameters
 
-# Monte Carlo simulationProjection
+Monte Carlo simulationProjection
 
 S0
 
@@ -6784,7 +6784,7 @@ S&P 500日对数回报率
 
 # 00.05 0.00 0.05 0.10
 
-# Daily returnFrequency
+Daily returnFrequency
 
 100200300400
 
@@ -6816,7 +6816,7 @@ Simulation horizon (days)6000
 
 # 30000.0000 0.0005 0.0010
 
-# PDF
+PDF
 
 图28.
 
@@ -6844,7 +6844,7 @@ visualize.
 
 ml@gmail.
 
-# Tdiag
+Tdiag
 
 2tt
 
@@ -6862,7 +6862,7 @@ n × Dμ
 
 +Σ
 
-# Tdiag
+Tdiag
 
 2Σ
 
@@ -6898,7 +6898,7 @@ n × D × npathsD × Dμ
 
 +Σ
 
-# Tdiag
+Tdiag
 
 2Σ
 
@@ -6908,25 +6908,25 @@ n × D × npathsD × Dμ
 
 n × D × npathsD × D
 
-# Number of paths Number of paths
+Number of paths Number of paths
 
 图31.
 
 几何布朗过程离散式的矩阵运算过程，多路径图32所示为几只股票真实股价和归一化股价走势图。图33所示为日收益率的协方差矩阵、相关性系数矩阵。图34所示为协方差矩阵的 Cholesky分解。图35所示为一组相关性股价的模拟。种模拟方法的显著缺点是 Cholesky分解当协方差矩阵过大 Cholesky分解可能会不稳定。只有正定矩阵才能 Cholesky分解。大家如果感兴趣可以搜索 Benson-Zangar i蒙特卡洛模拟，这种方法避免 Cholesky分解，本书不展开讲解。# TSLA
 
-# TSM
+TSM
 
-# COST
+COST
 
-# NVDA
+NVDA
 
 FB
 
-# AMZN
+AMZN
 
-# AAPL
+AAPL
 
-# NFLX
+NFLX
 
 GOOGL3.
 
@@ -6954,75 +6954,75 @@ visualize.
 
 ml@gmail.
 
-# TSLA
+TSLA
 
-# TSM
+TSM
 
-# COST
+COST
 
-# NVDA
-
-FB
-
-# AMZN
-
-# AAPL
-
-# NFLX
-
-# GOOGL
-
-# TSLA
-
-# TSM
-
-# COST
-
-# NVDA
+NVDA
 
 FB
 
-# AMZN
+AMZN
 
-# AAPL
+AAPL
 
-# NFLX
+NFLX
 
-# GOOGL
+GOOGL
 
-# TSLA
+TSLA
 
-# TSM
+TSM
 
-# COST
+COST
 
-# NVDA
-
-FB
-
-# AMZN
-
-# AAPL
-
-# NFLX
-
-# GOOGLTSLA
-
-# TSM
-
-# COST
-
-# NVDA
+NVDA
 
 FB
 
-# AMZN
+AMZN
 
-# AAPL
+AAPL
 
-# NFLX
+NFLX
 
-# GOOGL
+GOOGL
+
+TSLA
+
+TSM
+
+COST
+
+NVDA
+
+FB
+
+AMZN
+
+AAPL
+
+NFLX
+
+GOOGLTSLA
+
+TSM
+
+COST
+
+NVDA
+
+FB
+
+AMZN
+
+AAPL
+
+NFLX
+
+GOOGL
 
 图33.
 
@@ -7034,23 +7034,23 @@ FB
 
 对协方差矩阵进行 Cholesky分解
 
-# TSLA
+TSLA
 
-# TSM
+TSM
 
-# COST
+COST
 
-# NVDA
+NVDA
 
 FB
 
-# AMZN
+AMZN
 
-# AAPL
+AAPL
 
-# NFLX
+NFLX
 
-# GOOGLSimulated price level
+GOOGLSimulated price level
 
 图35.
 
@@ -7194,9 +7194,9 @@ MSR，MSE
 
 F检测方差分析SST
 
-# SSE
+SSE
 
-# SSR
+SSR
 
 一元回归F检验统计量备择假设原假设临界值
 
@@ -7472,7 +7472,7 @@ Residual 250.
 
 ANOVA 表格
 
-# Source df SS MS F Significance
+Source df SS MS F Significance
 
 Page 7 | Chapter 9回归分析 | Book 6《数据有道》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及PDF文件下载：https://git hub.
 
@@ -7514,7 +7514,7 @@ S SR)，也称 ESS (explained sum of s quares)。平方和 SSR反映了回归模
 
 ,iixyi-th sample
 
-# Predicted
+Predicted
 
 ˆiiyy−
 
@@ -7730,11 +7730,11 @@ visual ize.
 
 ml@gma il.
 
-# DFT 252 1 251
+DFT 252 1 251
 
-# DFR 1 1
+DFR 1 1
 
-# DFE 1 252 2 250kD
+DFE 1 252 2 250kD
 
 kD
 
@@ -8002,9 +8002,9 @@ y−y1
 
 ˆ=−ε y y
 
-# SST
+SST
 
-# SSE
+SSE
 
 SSR(a) (b)
 
@@ -8030,7 +8030,7 @@ ml@gma il.
 
 Hyperplane spanned by column vectors of X ε = y ŷ y
 
-# HOrigin
+HOrigin
 
 θ
 
@@ -8122,7 +8122,7 @@ Xb= (23)
 
 2MSE1MST
 
-# SSE1SST 1
+SSE1SST 1
 
 1 SSE1SST
 
@@ -8178,11 +8178,11 @@ com 修正决定系数的作用在于当模型中自变量的数量增加时它�
 
 F检验的统计量为：# SSR
 
-# SSR MSR 1
+SSR MSR 1
 
-# SSE MSE SSE 1
+SSE MSE SSE 1
 
-# SSR
+SSR
 
 SSR 11,SSE SSE
 
@@ -8448,7 +8448,7 @@ com 表明参数 b1的t检验在 α = 0.
 
 同理，真实b0在以上区间的概率为1 – α。# Rejection region
 
-# Reject H0Rejection region
+Reject H0Rejection region
 
 Reject H01 α
 
@@ -8738,7 +8738,7 @@ ml@gma il.
 
 # 0.05 0.00 0.05 0.10
 
-# Residual25
+Residual25
 
 0Density
 
@@ -9008,7 +9008,7 @@ QR分解
 
 SVD分解多元回归三个平方和SST
 
-# SSESSR
+SSESSR
 
 t检验统计量备择假设原假设临界值条件概率视角
 
@@ -9066,7 +9066,7 @@ yy Xbε (3)
 
 D
 
-# D nD
+D nD
 
 n
 
@@ -9186,7 +9186,7 @@ bDb3b2b1x1
 
 x2
 
-# Centralize
+Centralize
 
 x3
 
@@ -9244,11 +9244,11 @@ Tf= − −b y Xb y Xb (9)
 
 f(b) 可以整理为：T
 
-# T T T
+T T T
 
-# T T T T T T
+T T T T T T
 
-# T T T T T
+T T T T T
 
 Quadratic termLinear term Constant2f= − −
 
@@ -9350,7 +9350,7 @@ visualize.
 
 ml@gma il.
 
-# Column perspectivex1
+Column perspectivex1
 
 x2
 
@@ -9386,7 +9386,7 @@ xD
 
 H
 
-# Centroid
+Centroid
 
 图7.
 
@@ -9492,7 +9492,7 @@ n n n    
 
 矩阵 X不存在多重共线性
 
-# Trank 1
+Trank 1
 
 det 0D=+
 
@@ -9622,7 +9622,7 @@ MCD, x2AAPL, x1(b) (c) (c)
 
 [y, x1, x2] 数据的协方差矩阵、相关性和夹角热图
 
-# OLS Regression Results
+OLS Regression Results
 
 ==============================================================================
 
@@ -9758,25 +9758,25 @@ py完成本节二元线性回归。# 10.5多元回归本节介绍一个多元回
 
 0SP500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USBF
+USBF
 
 GM
 
-# COST
+COST
 
-# JNJYUM
+JNJYUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 Page 14 | Chapter 10多元线性回归 | Book 6《数据有道》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及 PDF文件下载：https://git hub.
 
@@ -9802,27 +9802,27 @@ com 图14.
 
 500收益率相关性系数柱状图。利用余弦相似性，根据相关性系数矩阵，可以计算得到 [y, X] 标准差向量夹角，矩阵热图如图20所示。图21所示为多元OLS线性回归解。# X y SP500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
 JNJ 0.
 
@@ -9848,83 +9848,83 @@ visualize.
 
 ml@gma il.
 
-# SP500
+SP500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
-
-F
-
-GM
-
-# COST
-
-# JNJSP500
-
-# TSLA
-
-# WMT
-
-# MCD
-
-# USB
-
-# YUM
-
-# NFLX
-
-# JPM
-
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJ
+JNJSP500
+
+TSLA
+
+WMT
+
+MCD
+
+USB
+
+YUM
+
+NFLX
+
+JPM
+
+PFE
+
+F
+
+GM
+
+COST
+
+JNJ
 
 图16.
 
 [y, X] 数据协方差矩阵
 
-# SP500
+SP500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
 JNJDaily volatility (standard deviation)0.
 
@@ -10264,81 +10264,81 @@ ml@gma il.
 
 000SP500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
-
-F
-
-GM
-
-# COST
-
-# JNJSP500
-
-# TSLA
-
-# WMT
-
-# MCD
-
-# USB
-
-# YUM
-
-# NFLX
-
-# JPM
-
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJ
+JNJSP500
+
+TSLA
+
+WMT
+
+MCD
+
+USB
+
+YUM
+
+NFLX
+
+JPM
+
+PFE
+
+F
+
+GM
+
+COST
+
+JNJ
 
 图18.
 
 [y, X] 数据相关性系数矩阵热图
 
-# SP500
+SP500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
 JNJCorrelation coefficient with S&P 5001.
 
@@ -10364,53 +10364,53 @@ visualize.
 
 ml@gma il.
 
-# SP500
+SP500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
-
-F
-
-GM
-
-# COST
-
-# JNJSP500
-
-# TSLA
-
-# WMT
-
-# MCD
-
-# USB
-
-# YUM
-
-# NFLX
-
-# JPM
-
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
+
+JNJSP500
+
+TSLA
+
+WMT
+
+MCD
+
+USB
+
+YUM
+
+NFLX
+
+JPM
+
+PFE
+
+F
+
+GM
+
+COST
 
 JNJ0.
 
@@ -10748,7 +10748,7 @@ visualize.
 
 ml@gma il.
 
-# OLS Regression Results
+OLS Regression Results
 
 ==============================================================================
 
@@ -11002,7 +11002,7 @@ ml@gma il.
 
 Hyperplane spanned by column vectors of X ε = y ŷ y
 
-# HOrigin
+HOrigin
 
 θ
 
@@ -11030,7 +11030,7 @@ y1
 
 Hyperplane spanned by column vectors of X ε = y ŷ y
 
-# HOrigin
+HOrigin
 
 θ
 
@@ -11070,7 +11070,7 @@ y 中可以被均值解释的部分为
 
 y1。Hyperplane spanned by column vectors of X y
 
-# HOrigin
+HOrigin
 
 θ
 
@@ -11114,7 +11114,7 @@ visualize.
 
 ml@gma il.
 
-# T T T
+T T T
 
 00ˆ yy= − − −1ε 1 y 1 1 y 1
 
@@ -11446,57 +11446,57 @@ visualize.
 
 ml@gma il.
 
-# SP500SP500
+SP500SP500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
-
-F
-
-GM
-
-# COST
-
-# JNJ
-
-# TSLA
-
-# WMT
-
-# MCD
-
-# USB
-
-# YUM
-
-# NFLX
-
-# JPM
-
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJ
+JNJ
 
-# XXy
+TSLA
+
+WMT
+
+MCD
+
+USB
+
+YUM
+
+NFLX
+
+JPM
+
+PFE
+
+F
+
+GM
+
+COST
+
+JNJ
+
+XXy
 
 yΣXX ΣXyΣyX Σyy
 
@@ -11506,95 +11506,95 @@ yΣXX ΣXyΣyX Σyy
 
 ΣXX (ΣXX) 1TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
-
-F
-
-GM
-
-# COST
-
-# JNJTSLA
-
-# WMT
-
-# MCD
-
-# USB
-
-# YUM
-
-# NFLX
-
-# JPM
-
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJ
+JNJTSLA
 
-# TSLA
+WMT
 
-# WMT
+MCD
 
-# MCD
+USB
 
-# USB
+YUM
 
-# YUM
+NFLX
 
-# NFLX
+JPM
 
-# JPM
-
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJTSLA
+JNJ
 
-# WMT
+TSLA
 
-# MCD
+WMT
 
-# USB
+MCD
 
-# YUM
+USB
 
-# NFLX
+YUM
 
-# JPM
+NFLX
 
-# PFE
+JPM
+
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJ
+JNJTSLA
+
+WMT
+
+MCD
+
+USB
+
+YUM
+
+NFLX
+
+JPM
+
+PFE
+
+F
+
+GM
+
+COST
+
+JNJ
 
 图29.
 
@@ -11622,95 +11622,95 @@ com 如图31所示，b0为：0 1~EED b=− y X b (59)
 
 其中，E(X) 为行向量。(ΣXX) 1@ ΣXyTSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
-
-F
-
-GM
-
-# COST
-
-# JNJTSLA
-
-# WMT
-
-# MCD
-
-# USB
-
-# YUM
-
-# NFLX
-
-# JPM
-
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJTSLA
+JNJTSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJ
+JNJTSLA
+
+WMT
+
+MCD
+
+USB
+
+YUM
+
+NFLX
+
+JPM
+
+PFE
+
+F
+
+GM
+
+COST
+
+JNJ
 
 SP500=
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
 JNJb1~D
 
@@ -11720,49 +11720,49 @@ JNJb1~D
 
 = b0 E(y) E(X)TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
 JNJ@
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
 JNJb1~D
 
@@ -11812,7 +11812,7 @@ com 11 Regularized Regression
 
 正则化回归利用正则项，缩减挑选特征，构造简洁模型遇到数学难题，别犯愁；困扰我的难题比你的大得多。Do not worry t oo much about your difficulties in mathematics
 
-# I can assure you that mine are still
+I can assure you that mine are still
 
 greater.
 
@@ -12000,7 +12000,7 @@ ml@gmail.
 
 b1b2f(b1, b2)
 
-# L1 regularizerb1b2
+L1 regularizerb1b2
 
 b1b2
 
@@ -12034,7 +12034,7 @@ ml@gmail.
 
 f(b1, b2)
 
-# L1 regularizer
+L1 regularizer
 
 b1b2L2 regularizer
 
@@ -12082,7 +12082,7 @@ ml@gmail.
 
 b2) 仍然是一个椭圆抛物面最小值点为黄色 ×；黄色 × 为给定α条件下岭回归参数的优化解。容易发现，黄色 × 位于红色 × 和蓝色 × 之间；相对 OLS线性回归参数红色 ×，岭回归参数黄色 ×，更靠近原点。f(b1, b2)
 
-# L2 regularizerb2
+L2 regularizerb2
 
 b1b2
 
@@ -12136,7 +12136,7 @@ visualize.
 
 ml@gmail.
 
-# OLS Regression Results
+OLS Regression Results
 
 ==============================================================================
 
@@ -12390,25 +12390,25 @@ ml@gmail.
 
 00CoefficientsJPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJTSLA
+JNJTSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLXOLS
+NFLXOLS
 
 图8.
 
@@ -12466,7 +12466,7 @@ OLS对应的是旋转椭圆等高线和 (9) 正圆相切就是约束条件下优
 
 b1OLS solution
 
-# Ridge solution
+Ridge solution
 
 图10.
 
@@ -12524,9 +12524,9 @@ XTX的行列式等于或接近于0
 
 Lasso是least absolu te shr inkage and selection ope rator的缩写。套索的优化目标函数为：r
 
-# OLL1 regular
+OLL1 regular
 
-# Size1
+Size1
 
 2fn = − +b y Xb b
 
@@ -12556,7 +12556,7 @@ com 图13所示为给定α条件下
 
 位于原点。容易发现，黄色 × 位于红色 × 和蓝色 × 之间；相对 OLS线性回归参数红色 ×，岭回归参数黄色 ×，更靠近原点。f(b1, b2)
 
-# L1 regularizerb2
+L1 regularizerb2
 
 b1
 
@@ -12622,25 +12622,25 @@ ml@gmail.
 
 00CoefficientsJPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJTSLA
+JNJTSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
 10 410 310 510 610 7
 
@@ -12826,11 +12826,11 @@ com 11.
 
 6弹性网络回归弹性网络回归 (elastic net regression) 以不同比例同时引入 L1和L2正则项对应的目标函数
 
-# Elastic net regularize22
+Elastic net regularize22
 
 2 1 2
 
-# OLSr1 1
+OLSr1 1
 
 22fn− = − + + 
 
@@ -12842,9 +12842,9 @@ com 11.
 
 f(b1, b2)
 
-# L1 regularizerL2 regularizer
+L1 regularizerL2 regularizer
 
-# Elastic net r egularizer
+Elastic net r egularizer
 
 图22.
 
@@ -12916,25 +12916,25 @@ l inear _model.
 
 enet_path 可以专门绘制套索回归参数轨迹图。00CoefficientsJPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJTSLA
+JNJTSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
 10 410 310 510 610 7
 
@@ -12960,25 +12960,25 @@ com 图27.
 
 随着α增大，弹性网络回归参数变化图28比较套索回归和弹性网络回归参数随α变化；同样颜色的实线是套索回归参数，划线是弹性网络回归参数。容易发现，套索回归参数更快收缩到0。弹性网络回归是套索回归和岭回归的结合体，它继承了套索回归的稀疏性，可以用来筛选特征，缩减无关参数。但是，由于引入岭回归 L2正则项，弹性网络回归在淘汰特征的过程要慢于套索回归。00CoefficientsJPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJTSLA
+JNJTSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
 10 410 310 510 610 7
 
@@ -13144,7 +13144,7 @@ com 12.
 
 然后模型参数的后验分布 (prior)。上面这段文字对应如下这个公式：# Likelihood Prior
 
-# Posterior
+Posterior
 
 |
 
@@ -13156,7 +13156,7 @@ com 12.
 
 X
 
-# Xf x ffx
+Xf x ffx
 
 f x f
 
@@ -13236,9 +13236,9 @@ m l@gmail.
 
 xy
 
-# Actual
+Actual
 
-# ActualPredicted
+ActualPredicted
 
 xy
 
@@ -13250,21 +13250,21 @@ xy
 
 xyActual
 
-# ActualPredicted
+ActualPredicted
 
-# PredictedActual
+PredictedActual
 
 Actualθ0θ1
 
-# Posterior
+Posterior
 
-# Posterior
+Posterior
 
-# PosteriorActualActualMAP
+PosteriorActualActualMAP
 
-# ActualMAP
+ActualMAP
 
-# MAP
+MAP
 
 图1.
 
@@ -13314,7 +13314,7 @@ underflow)，是指计算机浮点数计算的结果小于可以表示的最小�
 
 ln |fyθ 得到：| 0 1 1 2 2 221
 
-# Constant
+Constant
 
 Constant11ln | ln2 2π
 
@@ -13496,7 +13496,7 @@ com 图6.
 
 参数θ0和θ1后验分布随机生数构成的分布
 
-# ActualPredicted
+ActualPredicted
 
 y = 1.
 
@@ -13794,7 +13794,7 @@ they hardly even try to interpret
 
 they mainly make models.
 
-# By a
+By a
 
 model is meant a mathematic al constru ct wh ich
 
@@ -14002,7 +14002,7 @@ p
 
 D
 
-# D D pvv
+D D pvv
 
 vv
 
@@ -14126,9 +14126,9 @@ x1 2 3 4 5 6
 
 xFitted
 
-# DataFitted
+DataFitted
 
-# Data
+Data
 
 图5.
 
@@ -14186,9 +14186,9 @@ y
 
 ln(x)Fitted
 
-# DataFitted
+DataFitted
 
-# Data
+Data
 
 图7.
 
@@ -14260,7 +14260,7 @@ com 图9所示为利用一元三次多项式回归模型来拟合样本数据。
 
 xyData
 
-# Fitted
+Fitted
 
 图9.
 
@@ -14312,7 +14312,7 @@ xf(b0 + b1x)
 
 逻辑回归数据关系逻辑回归虽然是个回归模型，但是常被用作分类模型，用于二分类。下一章将讲解逻辑回归。此外，我们还可以用分段函数来拟合数据。如图12所示，两段线性函数用来拟合样本数据，效果也是不错的。xyData
 
-# Fitted
+Fitted
 
 图12.
 
@@ -14430,7 +14430,7 @@ ml@gmail.
 
 但是，对于多项式回归次数越高，越容易产生过度拟合 (overfi tting) 问题。过拟合发生的原因是，使用过于复杂的模型，导致模型过于精确地描述训练数据。如图17所示，采用过高次数的多项式回归模型模型过于复杂过度捕捉训练数据中的细节信息甚至是噪音。但是，使用该模型预测其他样本数据时，会无法良好地预测未来观察结果。丛书后续还要深入探讨过拟合问
 
-# Data Fitted
+Data Fitted
 
 y
 
@@ -14626,7 +14626,7 @@ T
 
 0 1 21D
 
-# Dx x x
+Dx x x
 
 b b b b=
 
@@ -14860,7 +14860,7 @@ visualize.
 
 ml@gmail.
 
-# Sepal length
+Sepal length
 
 x14 5 6 7 8Setosa
 
@@ -14962,9 +14962,9 @@ Sepal length, x1Sepal width, x21.
 
 x2 (cm)Setosa
 
-# C1 Versicolor
+C1 Versicolor
 
-# C2 Virginica
+C2 Virginica
 
 4 5 6 7 8
 
@@ -15028,7 +15028,7 @@ since he who is ignorant of it cannot know the
 
 other sciences or things of this world.
 
-# And what is worst
+And what is worst
 
 those w ho are th us ign orant are unable to
 
@@ -15162,9 +15162,9 @@ PCA) 最初由卡尔·皮尔逊 (Karl Pearson) 在1901提主成分分析是数�
 
 H2
 
-# H3H4
+H3H4
 
-# H5H6
+H5H6
 
 图1.
 
@@ -15192,9 +15192,9 @@ H1
 
 H2
 
-# H3H4
+H3H4
 
-# H5H6
+H5H6
 
 图2.
 
@@ -15202,7 +15202,7 @@ H2
 
 构成的热图。数据矩阵 X有150个数据点，即150行；矩阵 X有4个特征，即4列。02468
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -15236,11 +15236,11 @@ ml@gmail.
 
 com 对原始数据进行统计分析。首先以行向量表达数据矩阵X质心：1 2 3 4 Sepal length
 
-# Sepal width
+Sepal width
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
 843 3.
 
@@ -15258,11 +15258,11 @@ x x x x=
 
 鸢尾花数据四个特征上均值然后，计算 X每一列均方差，以行向量表达：1 2 3 4 Sepal length
 
-# Sepal width
+Sepal width
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
 825 0.
 
@@ -15326,7 +15326,7 @@ visualize.
 
 ml@gmail.
 
-# Sepal length
+Sepal length
 
 x1 Sepal width
 
@@ -15346,7 +15346,7 @@ x3 Petal width
 
 鸢尾花数据成对特征分析图，不分类
 
-# Sepal length
+Sepal length
 
 x1 Sepal width
 
@@ -15386,13 +15386,13 @@ com 图7.
 
 鸢尾花数据成对特征分析图，分类计算数据矩阵 X协方差矩阵 Σ：1 3 4 21
 
-# Sepal length
+Sepal length
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
-# Sepal width
+Sepal width
 
 686 0.
 
@@ -15452,13 +15452,13 @@ x
 
 PCA的效果。计算数据矩阵X相关性系数矩阵 P：1 3 4 21
 
-# Sepal length
+Sepal length
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
-# Sepal width
+Sepal width
 
 000 0.
 
@@ -15642,19 +15642,19 @@ T2
 
 T
 
-# T T T T
+T T T T
 
 1 1 1 2 1 3 1 4
 
-# T T T T
+T T T T
 
 2 1 2 2 2 3 2 4
 
-# T T T T
+T T T T
 
 3 1 3 2 3 3 3 4
 
-# T T T T
+T T T T
 
 4 1 4 2 4 3 4 41 0 0 0
 
@@ -15796,9 +15796,9 @@ DD
 
 DD
 
-# D D D D D D
+D D D D D D
 
-# D D D D D Dv v v v
+D D D D D Dv v v v
 
 v v v v
 
@@ -15838,11 +15838,11 @@ v v v v−
 
 1, 1 2, 2 1, 1 ,.
 
-# D D D D
+D D D D
 
-# D D D D
+D D D D
 
-# D D D D D D D D Dv v v v
+D D D D D D D D Dv v v v
 
 v v v v
 
@@ -15924,7 +15924,7 @@ visualize.
 
 ml@gmail.
 
-# Project
+Project
 
 x1
 
@@ -15952,7 +15952,7 @@ vD,1.
 
 构造第一主成分 v1
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -16002,7 +16002,7 @@ visualize.
 
 ml@gmail.
 
-# Project
+Project
 
 x1
 
@@ -16030,7 +16030,7 @@ vD,2.
 
 构造第二主成分 v2
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -16080,7 +16080,7 @@ visualize.
 
 ml@gmail.
 
-# Project
+Project
 
 x1
 
@@ -16108,7 +16108,7 @@ vD,3v4,3v3,3v2,3v1,3
 
 构造第三主成分 v3
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -16192,11 +16192,11 @@ z z z z
 
 12 3Sepal length
 
-# Sepal width
+Sepal width
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
 PC1, PC2, PC3, 0.
 
@@ -16352,13 +16352,13 @@ visualize.
 
 ml@gmail.
 
-# PC1
+PC1
 
-# PC2
+PC2
 
-# PC3
+PC3
 
-# PC4
+PC4
 
 6 4 2 0 2 4 60.00.51.01.52.03.0PDF2.5
 
@@ -16494,7 +16494,7 @@ ml@gmail.
 
 02468
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -16510,7 +16510,7 @@ z1还原 X部分数据
 
 02468
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -16544,7 +16544,7 @@ ml@gmail.
 
 02468
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -16706,7 +16706,7 @@ visualize.
 
 ml@gmail.
 
-# Sepal width
+Sepal width
 
 x2Sepal length
 
@@ -16774,7 +16774,7 @@ features.
 
 PCA 绘制。Sepal width, x2
 
-# Sepal length
+Sepal length
 
 x1Petal length
 
@@ -16870,7 +16870,7 @@ ml@gmail.
 
 9776
 
-# Principal componentsPC2
+Principal componentsPC2
 
 z2 PC3
 
@@ -16880,7 +16880,7 @@ z4 PC1
 
 z14.
 
-# Variance
+Variance
 
 λCumulative variance explained (%)0.
 
@@ -16914,7 +16914,7 @@ ml@gmail.
 
 100101102103
 
-# Principal component1200
+Principal component1200
 
 0Singular value
 
@@ -16942,7 +16942,7 @@ ml@gmail.
 
 100101102103
 
-# Principal component500
+Principal component500
 
 0Eigen value
 
@@ -16952,7 +16952,7 @@ ml@gmail.
 
 100101102103
 
-# Principal component94
+Principal component94
 
 85Cumulative variance
 
@@ -16982,7 +16982,7 @@ visualize.
 
 ml@gmail.
 
-# X reproduced with 1 PC Error
+X reproduced with 1 PC Error
 
 0 1000 20000
 
@@ -16992,7 +16992,7 @@ ml@gmail.
 
 利用第1主元还原鸢尾花照片
 
-# X reproduced with 2 PCs Error
+X reproduced with 2 PCs Error
 
 0 1000 20000
 
@@ -17002,7 +17002,7 @@ ml@gmail.
 
 利用第1、2主元还原鸢尾花照片
 
-# X reproduced with 4 PCs Error
+X reproduced with 4 PCs Error
 
 0 1000 20000
 
@@ -17030,7 +17030,7 @@ visualize.
 
 ml@gmail.
 
-# X reproduced with 16 PCs Error
+X reproduced with 16 PCs Error
 
 0 1000 20000
 
@@ -17040,7 +17040,7 @@ ml@gmail.
 
 利用前16个主元还原鸢尾花照片
 
-# X reproduced with 64 PCs Error
+X reproduced with 64 PCs Error
 
 0 1000 20000
 
@@ -17152,7 +17152,7 @@ ml@gmail.
 
 格拉姆矩阵协方差矩阵相关性系数矩阵标准化数据矩阵中心化数据矩阵原始数据矩阵
 
-# EVD
+EVD
 
 Page 3 | Chapter 15主成分分析进阶 | Book 6《数据有道》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及 PDF文件下载：https://git hub.
 
@@ -17192,7 +17192,7 @@ Ec=−X X X 奇异值分解 Xc = UcScVcT
 
 协方差矩阵
 
-# TEE
+TEE
 
 1n−−
 
@@ -17446,11 +17446,11 @@ X3
 
 X4
 
-# X1 X2 X3 X4 PC1 PC2 PC3 PC4PC1
+X1 X2 X3 X4 PC1 PC2 PC3 PC4PC1
 
-# PC2
+PC2
 
-# PC3
+PC3
 
 PC40.
 
@@ -17500,7 +17500,7 @@ ml@gmail.
 
 # 0.0 1.0 2.0 3.0 4.00.6860.1903.1160.581
 
-# X1X2X3X4
+X1X2X3X4
 
 X1, 15.
 
@@ -17550,7 +17550,7 @@ PC2, 5.
 
 # 0.0 1.0 2.0 3.0 4.0(a) (b)
 
-# PC1PC2PC3PC4
+PC1PC2PC3PC4
 
 图5.
 
@@ -17600,7 +17600,7 @@ i
 
 Ratio of explained (%)
 
-# PC2 PC3 PC4 PC1
+PC2 PC3 PC4 PC1
 
 图6.
 
@@ -17688,15 +17688,15 @@ v isualize.
 
 ml@gmail.
 
-# PC1PC2
+PC1PC2
 
-# PC1
+PC1
 
-# PC1PC3
+PC1PC3
 
-# PC4PC3
+PC4PC3
 
-# PC2
+PC2
 
 PC2 PC3PC4 PC4xc_1xc_2xc_3xc_4
 
@@ -17736,7 +17736,7 @@ T
 
 _ _
 
-# T T T T
+T T T T
 
 _1 _1 _1 _ 2 _ 2 _ 2 _ _ _ _ _ _
 
@@ -17774,7 +17774,7 @@ s s s s
 
 = + + + = U
 
-# SVv
+SVv
 
 vX u u u
 
@@ -17872,7 +17872,7 @@ T
 
 _
 
-# T T T T
+T T T T
 
 _1 _1 _ 2 _ 2 _ _ _ _
 
@@ -17908,7 +17908,7 @@ vX X v v v
 
 v
 
-# X v v X v v X v v X v v
+X v v X v v X v v X v v
 
 (28)
 
@@ -17972,9 +17972,9 @@ v isualize.
 
 ml@gmail.
 
-# Setosa Versicolor Virginica
+Setosa Versicolor Virginica
 
-# Pooled covariance matrix
+Pooled covariance matrix
 
 X1 µ1 X2 µ2 X3 µ3 X2 µ2 X3 µ3 X4 µ4 0.
 
@@ -18018,7 +18018,7 @@ PC1 PC2 PC3PC2 PC3 PC4 2 cm 2 cm 0 cm 2 cm0 cm2 cm
 
 PC1 PC2 PC3PC2 PC3 PC4Setosa Versicolor Virginica
 
-# Pooled covariance matrix
+Pooled covariance matrix
 
 图14.
 
@@ -18080,13 +18080,13 @@ X3
 
 X4
 
-# X1 X2 X3 X4 PC1 PC2 PC3 PC4PC1
+X1 X2 X3 X4 PC1 PC2 PC3 PC4PC1
 
-# PC2
+PC2
 
-# PC3
+PC3
 
-# PC4
+PC4
 
 图16.
 
@@ -18116,7 +18116,7 @@ ml@gmail.
 
 com 而trace(G) 相当于数据整体相对于原点的分散度量。如图17所示，矩阵 X的第一列和第二列贡献最大。经过特征值分解之后如图18所示第一主成分解释了大部分数据分散情况达96.
 
-# X1X2X3X4
+X1X2X3X4
 
 0699.
 
@@ -18228,17 +18228,17 @@ v isualize.
 
 ml@gmail.
 
-# PC1PC2
+PC1PC2
 
-# PC1
+PC1
 
-# PC1PC3
+PC1PC3
 
-# PC4PC3
+PC4PC3
 
-# PC2
+PC2
 
-# PC2 PC3PC4 PC4x1x2
+PC2 PC3PC4 PC4x1x2
 
 x3x4
 
@@ -18290,7 +18290,7 @@ v isualize.
 
 ml@gmail.
 
-# E X
+E X
 
 ˆX =
 
@@ -18368,11 +18368,11 @@ X3
 
 X4
 
-# X1 X2 X3 X4 PC1 PC2 PC3 PC4PC1
+X1 X2 X3 X4 PC1 PC2 PC3 PC4PC1
 
-# PC2
+PC2
 
-# PC3
+PC3
 
 PC42.
 
@@ -18456,7 +18456,7 @@ Ratio of explained (%)2
 
 0PC variance3
 
-# PC2 PC3 PC4 PC1
+PC2 PC3 PC4 PC1
 
 图30.
 
@@ -18508,15 +18508,15 @@ YZ Z = VZ
 
 双标图图33所示为 VZ双标图，请大家比较本章三幅双标图。# PC1PC2
 
-# PC1
+PC1
 
-# PC1PC3
+PC1PC3
 
-# PC4PC3
+PC4PC3
 
-# PC2
+PC2
 
-# PC2 PC3PC4 PC4z1z2z3
+PC2 PC3PC4 PC4z1z2z3
 
 z4
 
@@ -18608,7 +18608,7 @@ v isualize.
 
 ml@gmail.
 
-# Z1 Z2 Z3Z2 Z3 Z4 2 2 0 202
+Z1 Z2 Z3Z2 Z3 Z4 2 2 0 202
 
 图35.
 
@@ -18828,15 +18828,15 @@ v2和v3 (根据特征值从小到大排列 )；v1、v2和v3两两正交。第一
 
 H，通过这层关系求解出正交回归系数。v1v2v3
 
-# HHy
+HHy
 
 x1x2
 
-# OrthogonalizePlane spanned by column
+OrthogonalizePlane spanned by column
 
 vectors of x1 and x2Output
 
-# Second principal component
+Second principal component
 
 First principal component Plane spanned by column
 
@@ -18874,7 +18874,7 @@ ml@gmail.
 
 x1x2Center of data
 
-# Plane spanned by column
+Plane spanned by column
 
 vectors of x1 and x2
 
@@ -18890,7 +18890,7 @@ v3
 
 H
 
-# Plane spanned by column
+Plane spanned by column
 
 vectors of v1 and v2ŷ
 
@@ -19060,9 +19060,9 @@ y1y (10)
 
 将 (9) 给出 b0解析式代入 (8) 获得仅含有b1的一元二次方程：11 10 b kb+ − = (11)
 
-# T T T T T T
+T T T T T T
 
-# T T T T T T
+T T T T T T
 
 var var
 
@@ -19206,7 +19206,7 @@ Model(linear_func) 创建线性模型；然后，采用 scipy.
 
 odr.
 
-# RealData
+RealData
 
 加载数据，再用 scipy.
 
@@ -19248,7 +19248,7 @@ Inverse Condition #: 0.
 
 Reason(s) for Halting:
 
-# Sum of squares conve rgence
+Sum of squares conve rgence
 
 一元正交回归的解析式为：# 1.4377 0.00157yx=+ (18)
 
@@ -19274,7 +19274,7 @@ com 下一节将介绍如下采用主成分分析来求解一元正交回归系�
 
 E(y))，回归直线方向和主元方向 v1平行，垂直于次元 v2方向。即，次元方向 v2和直线法向量 n平行。v2 // nSecond principal component
 
-# First principal component
+First principal component
 
 (E(x), E(y))v2
 
@@ -19388,7 +19388,7 @@ v2ŷ = b1xLine spanned by column
 
 vector of v1
 
-# Centralize Orthogonalize Derive
+Centralize Orthogonalize Derive
 
 v2 ŷ
 
@@ -19550,15 +19550,15 @@ ml@gmail.
 
 1 2 1 2
 
-# T T T T
+T T T T
 
 1 1 1 1 2 1
 
-# T T T T
+T T T T
 
 2 1 2 2 1 2 2 2
 
-# T T T T
+T T T T
 
 12=
 
@@ -19594,11 +19594,11 @@ n平行于Σ矩阵 PCA分解特征值最小特征向量，即：# T T T
 
 1 1 1 2 1
 
-# T T T
+T T T
 
 3 3 3 2 1 2 2 2 3
 
-# T T T
+T T T
 
 12
 
@@ -19612,13 +19612,13 @@ y x y x y y (35)
 
 整理得到：# T T T
 
-# T T T 1 1 1 2 1 1 1
+T T T 1 1 1 2 1 1 1
 
 1 1 3 1 1 2 2 1T T T
 
 2 1 2 2 2 2 3 2T T T
 
-# T T T 2 1 1 2 2 3 2 2
+T T T 2 1 1 2 2 3 2 2
 
 12 11bbbb
 
@@ -19744,15 +19744,15 @@ x1v1v2v3
 
 H
 
-# HPlane spanned by column
+HPlane spanned by column
 
 vectors of x1 and x2
 
-# Plane spanned by column
+Plane spanned by column
 
 vectors of v1 and v2OLS
 
-# TLS
+TLS
 
 图10.
 
@@ -19766,11 +19766,11 @@ v2
 
 v3ŷ = b 1x1 + b 2x2Principal components
 
-# Last componentPlane spanned by column
+Last componentPlane spanned by column
 
 vectors of v1 and v2
 
-# Centralize Orthogonalize Derive
+Centralize Orthogonalize Derive
 
 v3 ŷ
 
@@ -19846,13 +19846,13 @@ Inverse Condition #: 0.
 
 Reason(s) for Halting :
 
-# Sum of squares conve rgence
+Sum of squares conve rgence
 
 二元正交回归的平面解析式为：12 0.4079 0.4438 0.00061y x x= + − (46)
 
 图12所示为最小二乘法 OLS二元线性回归结果，对应的平面解析式如下：12 0.3977 0.4096 0.006y x x= + − (47)
 
-# OLS Regression Results
+OLS Regression Results
 
 ==============================================================================
 
@@ -19976,13 +19976,13 @@ ml@gmail.
 
 000.
 
-# AAPLMCD
+AAPLMCD
 
 S&P 5000.
 
 10OLS
 
-# TLS
+TLS
 
 图13.
 
@@ -20072,7 +20072,7 @@ DD
 
 =Λ
 
-# V v v v v
+V v v v v
 
 (52)
 
@@ -20080,7 +20080,7 @@ DD
 
 (D + 1) × ( D + 1)V
 
-# Eigenvalue descends b
+Eigenvalue descends b
 
 kCompute
 
@@ -20172,7 +20172,7 @@ v1v3ŷn // vq+1
 
 vD-1x1xD-1
 
-# OrthogonalizeD dimension al hyperplane
+OrthogonalizeD dimension al hyperplane
 
 spanned by column vectors
 
@@ -20224,9 +20224,9 @@ D
 
 D
 
-# DD D
+DD D
 
-# DDv b
+DDv b
 
 v b
 
@@ -20280,7 +20280,7 @@ D
 
 DD
 
-# DD Dv b
+DD Dv b
 
 v b
 
@@ -20366,7 +20366,7 @@ column vectors of v1, .
 
 , vD-1 and vD
 
-# Centralize Orthogonalize
+Centralize Orthogonalize
 
 x3
 
@@ -20378,29 +20378,29 @@ vD+1 ŷ
 
 多元正交回归运算数据关系图17所示直方图，比较多元 TLS回归和多元 OLS回归系数。const
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# COSTOLS
+COSTOLS
 
 TLS0.
 
@@ -20562,9 +20562,9 @@ yx3
 
 v1v2v3
 
-# Pv1v2v3
+Pv1v2v3
 
-# Project y to principal
+Project y to principal
 
 components
 
@@ -20600,55 +20600,55 @@ com 17.
 
 0SP500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USBF
+USBF
 
 GM
 
-# COST
+COST
 
-# JNJYUM
+JNJYUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 图2.
 
 股价走势，归一化数据
 
-# X y SP500
+X y SP500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
-# JNJ
+JNJ
 
 图3.
 
@@ -20688,25 +20688,25 @@ com 图4几个分图给出的是数据 X和y的KDE分布。# 0.1 0.0
 
 0DensityS&P 500
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCDUSB
+MCDUSB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
-# FGM
+FGM
 
-# COST
+COST
 
-# JNJ
+JNJ
 
 图4.
 
@@ -20716,7 +20716,7 @@ com 图4几个分图给出的是数据 X和y的KDE分布。# 0.1 0.0
 
 前四个主成分
 
-# PC1 PC2 PC3 PC4
+PC1 PC2 PC3 PC4
 
 TSLA -0.
 
@@ -20832,63 +20832,63 @@ v isualize.
 
 ml@gmail.
 
-# PC1
+PC1
 
-# PC2
+PC2
 
-# PC3
+PC3
 
-# PC4PC1
+PC4PC1
 
-# PC2
+PC2
 
-# PC3
+PC3
 
-# PC4PC1PC3PC2
+PC4PC1PC3PC2
 
-# PC4TSLA
+PC4TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
-
-F
-
-GM
-
-# COST
-
-# JNJTSLA
-
-# WMT
-
-# MCD
-
-# USB
-
-# YUM
-
-# NFLX
-
-# JPM
-
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
+
+JNJTSLA
+
+WMT
+
+MCD
+
+USB
+
+YUM
+
+NFLX
+
+JPM
+
+PFE
+
+F
+
+GM
+
+COST
 
 JNJ1.
 
@@ -20968,13 +20968,13 @@ ml@gmail.
 
 0Density
 
-# PC1
+PC1
 
-# PC2
+PC2
 
-# PC3
+PC3
 
-# PC4
+PC4
 
 图9.
 
@@ -21092,9 +21092,9 @@ com 这四个特征值对应图10热图对角线元素。如图11所示陡坡图
 
 0025
 
-# Variance
+Variance
 
-# Principal component1 2 3 4
+Principal component1 2 3 4
 
 图11.
 
@@ -21102,7 +21102,7 @@ com 这四个特征值对应图10热图对角线元素。如图11所示陡坡图
 
 n D n P D P n D   =+ X Z V E (5)
 
-# X E
+X E
 
 =
 
@@ -21138,9 +21138,9 @@ com 写成矩阵运算： ,1
 
 Z
 
-# P n P Z
+P n P Z
 
-# ZPb
+ZPb
 
 b
 
@@ -21226,7 +21226,7 @@ v isualize.
 
 ml@gmail.
 
-# OLS Regression Results
+OLS Regression Results
 
 ==============================================================================
 
@@ -21394,27 +21394,27 @@ v isualize.
 
 ml@gmail.
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
 JNJ0.
 
@@ -21496,7 +21496,7 @@ ml@gmail.
 
 D
 
-# D P Z
+D P Z
 
 z
 
@@ -21560,7 +21560,7 @@ vP+1.
 
 + b D-1xD-1 + b DxDŷ
 
-# High variance
+High variance
 
 principal components
 
@@ -21570,7 +21570,7 @@ principal components
 
 ŷ ε
 
-# Low variance
+Low variance
 
 componentsP dimension al hyperplane spanned by
 
@@ -21578,7 +21578,7 @@ column vectors of v1, .
 
 , vP-1 and vP
 
-# Centralize Orthogonalize
+Centralize Orthogonalize
 
 图18.
 
@@ -21606,33 +21606,33 @@ com 17.
 
 6改变主元数量对于主元回归当改变参与最小二乘法线性回归的主元数量时线性回归结果会有很大变本节将重点介绍主元数量对主元回归的影响。图19所示为主元数量从4增加到9时，累计已释方差和百分比变化情况。图20和图21展示两个视角观察参与主元回归主元数量对于系数的影响。5 6 7 8 9 4Variance explained (%)
 
-# Number of principal components
+Number of principal components
 
 图19.
 
 主元数量对累计已释方差和百分比
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
 JNJPC1~4 PC1~5 PC1~6 PC1~7 PC1~8 PC1~90.
 
@@ -21658,27 +21658,27 @@ v isualize.
 
 ml@gmail.
 
-# TSLA
+TSLA
 
-# WMT
+WMT
 
-# MCD
+MCD
 
-# USB
+USB
 
-# YUM
+YUM
 
-# NFLX
+NFLX
 
-# JPM
+JPM
 
-# PFE
+PFE
 
 F
 
 GM
 
-# COST
+COST
 
 JNJPC1~4
 
@@ -21752,9 +21752,9 @@ q × 1
 
 1 1
 
-# T00 00
+T00 00
 
-# T2 00 2
+T2 00 2
 
 T 0000cov ,
 
@@ -21824,7 +21824,7 @@ n × 1 n × q
 
 将自变量数据矩阵 X(0) 和因变量数据向量 y(0)投影到主元 z1方向上。第四步把自变量数据矩阵 X(0)投影到主元列向量 z1上，获得系数向量 v1。先以 X(0)第一列解释投影过
 
-# Line spanned by column vector of z1z1
+Line spanned by column vector of z1z1
 
 1 1,1 1ˆ v=xz
 
@@ -21862,7 +21862,7 @@ ml@gmail.
 
 1 1 1 1 1 1 1 1,1 1
 
-# T00 T
+T00 T
 
 1,1 TT
 
@@ -21888,7 +21888,7 @@ z z z z (23)
 
 类似，获得 X(0) 每列投影在主元列向量 z2系数这些系数一个列向量 v1。下式计算列向量
 
-# TT0 0 00
+TT0 0 00
 
 11 2,1 1
 
@@ -21964,7 +21964,7 @@ ml@gmail.
 
 1 1 1 1 1 1
 
-# T00 T
+T00 T
 
 1 TT
 
@@ -21980,7 +21980,7 @@ z z z z
 
 (28)
 
-# Line spanned by column vector of z1z1
+Line spanned by column vector of z1z1
 
 1,1 1ˆ v=yz
 
@@ -22040,7 +22040,7 @@ n × 1+
 
 n × 1 n × 1y(1)Original
 
-# Explained
+Explained
 
 Residualb1z1 b1×
 
@@ -22062,7 +22062,7 @@ Xy (31)
 
 重复第四步，把自变量数据残差矩阵 X(1) 投影于第二主元列向量 z2上获得系数向量 v2
 
-# TT1 1 11
+TT1 1 11
 
 22 2,2 2
 
@@ -22150,7 +22150,7 @@ n × qExplained Residual Original
 
 这即前两个主元 z1和z1还原数据矩阵 X(0)。随着主元数量不断增多，偏最小二乘回归更精确地还原原始数据 X(0)；即说，对数据 X(0)方差解释力度越强。重复第六步，把因变量数据列向量 y(1) 投影在主元列向量 z2上获得系数 b2
 
-# T11 T
+T11 T
 
 2 TT
 
@@ -22196,7 +22196,7 @@ n × 1+
 
 n × 1 n × 1y(2)Original
 
-# Explained
+Explained
 
 Residualb2z2 b2×
 
@@ -22440,9 +22440,9 @@ n × q n × qq × 1
 
 n × 1Maximize the correlation between U1 and V1U1V1
 
-# Standardize Project
+Standardize Project
 
-# Standardize Project
+Standardize Project
 
 图1.
 
@@ -22476,7 +22476,7 @@ pX
 
 X
 
-# S u u u u X u X u X
+S u u u u X u X u X
 
 X
 
@@ -22498,7 +22498,7 @@ qY
 
 Y
 
-# T v v v v Y v Y v Y
+T v v v v Y v Y v Y
 
 Y
 
@@ -22670,7 +22670,7 @@ pX
 
 X
 
-# S u u u u X u X u X
+S u u u u X u X u X
 
 X
 
@@ -22692,7 +22692,7 @@ qY
 
 Y
 
-# T v v v v Y v Y v Y
+T v v v v Y v Y v Y
 
 Y
 
@@ -22866,11 +22866,11 @@ YY YX XX XYΣ Σ Σ Σ 对应运算
 
 150 × 4 150 × 2 150 × 2Sepal length
 
-# Sepal width
+Sepal width
 
-# Petal length
+Petal length
 
-# Petal widthSepal Petal
+Petal widthSepal Petal
 
 图6.
 
@@ -22934,7 +22934,7 @@ CCA结果通过 CCA分析，我们得到的结果如图8 (a) 所示。大家可�
 
 2 1012
 
-# S1 S2 T1 T2S1
+S1 S2 T1 T2S1
 
 S2
 
@@ -22984,7 +22984,7 @@ S1 2.
 
 0Setosa
 
-# Versicolor
+Versicolor
 
 Virginica(a) (b)
 
@@ -22992,7 +22992,7 @@ Virginica(a) (b)
 
 S1和T1的散点图
 
-# S1 S2 T1 T2S1
+S1 S2 T1 T2S1
 
 S2
 
@@ -23070,13 +23070,13 @@ y1和y2按如下方式线性组合得到 t1
 
 33= = = − −t Y v y y x x (20)
 
-# X Y
+X Y
 
 150 × 4 150 × 2 150 × 2Sepal length
 
-# Sepal width
+Sepal width
 
-# Petal length
+Petal length
 
 Petal widthSepal Petal Standardized data
 

@@ -1,6 +1,6 @@
-# Technology and Inventions
+Technology and Inventions
 
-# Introduction
+Introduction
 
 How can you draw with light?
 
@@ -10,7 +10,7 @@ Where does medicine come from?
 
 Can eyes ever hear?
 
-# To help you on your journey
+To help you on your journey
 
 we’ve provided the following guideposts in Technology and Inventions
 
@@ -52,17 +52,17 @@ Have a great trip!
 
 Hot-air balloons fill the skies at the Albuquerque International Balloon Fiesta in New Mexico in 1989.
 
-# Table of Contents
+Table of Contents
 
 Introduction .
 
-# Transportation
+Transportation
 
 Before There Were Automobiles .
 
-# Electricity
+Electricity
 
-# Cables
+Cables
 
 Fuses, Wires
 
@@ -130,17 +130,17 @@ called “ornithopters.
 
 Then in 1799 a scientist named George Cayley wrote a book and drew pictures explaining how birds use their wings and the speed of the wind to fly.
 
-# About a hundred years later
+About a hundred years later
 
 two American brothers named Orville and Wilbur Wright read Cayley’s book.
 
-# Although they were bicycle makers
+Although they were bicycle makers
 
 they decided to build a flying machine.
 
 The Wright brothers’ machine
 
-# Flyer I
+Flyer I
 
 had the strong light wings of a glider
 
@@ -152,11 +152,11 @@ Then, from a list of places where strong winds blow
 
 they selected the Kill Devil Hills near Kitty Hawk
 
-# North Carolina
+North Carolina
 
 , as the site of their experiment.
 
-# In 1903 Orville
+In 1903 Orville
 
 lying flat on the lower wing of Flyer I
 
@@ -170,7 +170,7 @@ The next year the Wrights managed to fly their second “aeroplane
 
 nearly 3 miles over a period of 5 minutes and 4 seconds.
 
-# Soon Glenn Curtiss
+Soon Glenn Curtiss
 
 another bicycle maker
 
@@ -192,7 +192,7 @@ We don’t know exactly how the first human transportation over water happened.
 
 But it’s not hard to imagine how it might have come about.
 
-# Long ago
+Long ago
 
 people used anything that would float to move things across water—bundles of reeds
 
@@ -212,13 +212,13 @@ Whoever put the first sail on a boat made a wonderful discovery.
 
 Sailing was faster and easier than paddling because it caught the wind and made it do the work.
 
-# From each of these pairs
+From each of these pairs
 
 pick the type of boat that was developed first
 
 a) raft or sailboat b) submarine or canoe c) paddle wheel or rowboat
 
-# Eventually
+Eventually
 
 someone built a ship that used a sail and long paddles
 
@@ -228,7 +228,7 @@ called “oars.
 
 the sailors rowed with the oars.
 
-# In time
+In time
 
 sailors learned to turn
 
@@ -242,7 +242,7 @@ A steam engine powered these paddle wheels
 
 which were too heavy to turn by hand.
 
-# Steamboats cruised rivers
+Steamboats cruised rivers
 
 lakes, and oceans all over the world.
 
@@ -252,7 +252,7 @@ Most ships use oil to generate power.
 
 Some submarines run on nuclear power.
 
-# But on warm days
+But on warm days
 
 many people still enjoy traveling on water by paddling
 
@@ -264,7 +264,7 @@ Today’s ocean liners provide a popular way for people to get from one place to
 
 Lawes—Papilio/Corbis
 
-# S U B M A R I N E S
+S U B M A R I N E S
 
 Because they are meant to spend most of their time underwater
 
@@ -276,7 +276,7 @@ They also need strong hulls because the pressure of seawater at great depths is 
 
 And submarines need special engines that don’t use air when they are underwater.
 
-# Otherwise
+Otherwise
 
 they would quickly run out of air and shut down!
 
@@ -284,13 +284,13 @@ So most modern subs are powered by electric batteries when they’re submerged.
 
 Some are powered by nuclear energy.
 
-# Because a submarine is all closed up
+Because a submarine is all closed up
 
 it must have special instruments to act as its eyes and ears underwater.
 
 A periscope is a viewing device that can be raised up out of the water to let the submarine officers see what’s around them.
 
-# Another special system
+Another special system
 
 sonar, “hears” what’s under the water by sending out sound waves that bounce off everything in their path.
 
@@ -304,7 +304,7 @@ They can hide underwater and take enemy ships by surprise.
 
 Submarines have peaceful uses too.
 
-# Scientists use smaller submarines
+Scientists use smaller submarines
 
 called “submersibles
 
@@ -322,13 +322,13 @@ NUCLEAR ENERGY • RADIO • SHIPS
 
 DID YOU KNOW?
 
-# When a submarine runs above the water
+When a submarine runs above the water
 
 officers can stand on top of the conning tower.
 
 That’s the raised deck of the ship.
 
-# P A P E R
+P A P E R
 
 The sheets in your notebook are made of paper that came from a factory.
 
@@ -342,7 +342,7 @@ And the logs were cut from trees that grew in a forest.
 
 Pine trees are often used to make paper.
 
-# If you visit a traditional paper mill
+If you visit a traditional paper mill
 
 you will see people working at large noisy machines that peel bark off the logs and then cut the wood into smaller pieces.
 
@@ -370,11 +370,11 @@ paper towels
 
 and the pages of books that you read.
 
-# Because we use so much paper
+Because we use so much paper
 
 we must be careful how many trees are cut down to make it.
 
-# Fortunately
+Fortunately
 
 today a lot of used paper can be remade into new paper by recycling.
 
@@ -408,7 +408,7 @@ Inc.
 
 互联网 • 无线电 • 声光电话电信设备如打字机（TDD），是另一种工具，还有TDD（聋人通信设备）。© 2008 Encyclopædia Britannica, Inc.
 
-# LIGHT
+LIGHT
 
 Find and correct the error in the following sentence
 
@@ -416,7 +416,7 @@ A set of instructions that a computer uses to solve problems and do work is call
 
 The first computers were expensive room-sized machines that only business and government offices could afford.
 
-# Today most computers are smaller
+Today most computers are smaller
 
 and many people have one in their own home or school.
 
@@ -434,7 +434,7 @@ The sets of instructions for computers are called "programs" or "software.
 
 " A computer's brain is its microprocessor—a tiny electronic device that reads and carries out the program's instructions.
 
-# Because they are programmed in advance
+Because they are programmed in advance
 
 you can use computers to solve math problems
 
@@ -442,7 +442,7 @@ remember facts
 
 and play games.
 
-# Computers can also help you draw
+Computers can also help you draw
 
 write papers
 
@@ -458,7 +458,7 @@ The second kind of computer memory is storage for its programs and for the resul
 
 The most important storage space is on the computer's hard drive, or hard disk.
 
-# CD-ROMs
+CD-ROMs
 
 DVDs, and flash drives are removable storage devices.
 
@@ -472,11 +472,11 @@ Handheld computers weigh only a few ounces
 
 but they can handle more data more quickly than most of the first giant computers.
 
-# Answer
+Answer
 
 A set of instructions that a computer uses to solve problems and do work is called "program" or "software.
 
-# A Palm Pilot
+A Palm Pilot
 
 one of the tiny but powerful modern computers.
 
@@ -490,7 +490,7 @@ You can do things with your friends and family even when they are thousands of m
 
 The Internet makes this possible.
 
-# As the name suggests
+As the name suggests
 
 the Internet is like a large net whose every strand connects a different computer.
 
@@ -542,7 +542,7 @@ READ THESE ARTICLES…
 
 COMPUTERS • RADIO • TELEPHONE
 
-# LIGHT
+LIGHT
 
 You can't see electricity, but you know it's there when you watch an electric light go on
 
@@ -574,13 +574,13 @@ Electricity doesn’t pass through rubber or plastic.
 
 That’s why wires carrying electricity are usually coated with rubber or plastic.
 
-# This coating is important
+This coating is important
 
 because electricity will flow wherever it can.
 
 Loose, it can be very dangerous.
 
-# It can cause shocks
+It can cause shocks
 
 start fires
 
@@ -606,7 +606,7 @@ that thing will drop.
 
 Answer: plastic or rubber.
 
-# Wind power is clean
+Wind power is clean
 
 cheap, and endless
 
@@ -640,13 +640,13 @@ Later windmills used different materials and designs.
 
 Usually there are four sails shaped like large blades.
 
-# When the sails turn
+When the sails turn
 
 the axle they are attached to turns as well
 
 much as car wheels turn on their axles.
 
-# The axle causes various gears to turn
+The axle causes various gears to turn
 
 which then causes a large crankshaft to turn.
 
@@ -656,7 +656,7 @@ At its other end the crankshaft is attached to a generator
 
 a motor that can make and store electricity.
 
-# So when the wind blows
+So when the wind blows
 
 the generator runs
 
@@ -670,19 +670,19 @@ The first of these wind turbines appeared in the mid-1990s.
 
 Energy means power—the power to do work.
 
-# And thermal
+And thermal
 
 or heat
 
 energy can do a lot of work.
 
-# When heat is applied to water
+When heat is applied to water
 
 for instance
 
 it makes the water boil.
 
-# Boiling water then changes to vapor
+Boiling water then changes to vapor
 
 or steam
 
@@ -712,7 +712,7 @@ and wood—are burned
 
 they produce heat.
 
-# This heat can be used for warmth
+This heat can be used for warmth
 
 made to power a machine directly
 
@@ -724,7 +724,7 @@ ar engine burns gasoline (an oil product)
 
 for direct thermal power.
 
-# In some areas coal
+In some areas coal
 
 is burned to produce the electricity that
 
@@ -736,9 +736,9 @@ on solar oven by Tibetan monk.
 
 (Bottom)
 
-# Locomotive fireman shovels coal to burn
+Locomotive fireman shovels coal to burn
 
-# In a very few parts of the world
+In a very few parts of the world
 
 boiling water to produce steam power.
 
@@ -758,7 +758,7 @@ to heat and power homes and businesses in Reykjavik
 
 Iceland.
 
-# And though
+And though
 
 volcanoes are mostly too hot to tap directly
 
@@ -770,27 +770,27 @@ LEARN MORE!
 
 READ THESE ARTICLES…
 
-# AUTOMOBILES
+AUTOMOBILES
 
-# ELECTRICITY
+ELECTRICITY
 
-# OIL
+OIL
 
-# Keren
+Keren
 
 Su/Corbis
 
-# Paul
+Paul
 
 Souders/Corbis
 
-# Raymond
+Raymond
 
 Gehman/Corbis
 
 © 2008 Encyclopædia Britannica, Inc.
 
-# T H E R M A L P O W E R
+T H E R M A L P O W E R
 
 senigneniart ylrae eht evom ot desu saw ti taht gnorts os si
 
@@ -808,7 +808,7 @@ geysers—hot springs that send roaring columns of steam and
 
 boiling water high above the surface.
 
-# This geyser is the famous Old
+This geyser is the famous Old
 
 Faithful in Yellowstone National Park in Wyoming
 
@@ -836,7 +836,7 @@ g e G r n i r t n e io d e n c g e o r a f i i n n.
 
 © 2008 Encyclopædia Britannica, Inc.
 
-# W A T E R P O W E R
+W A T E R P O W E R
 
 e have only to hear the roar of a waterfall to guess at the
 
@@ -854,7 +854,7 @@ One excellent aspect of water power is that the water can be
 
 reused.
 
-# Unlike such fuels as coal and oil
+Unlike such fuels as coal and oil
 
 water does not get used up
 
@@ -888,7 +888,7 @@ waterfall does, can produce so
 
 much energy.
 
-# Since ancient times humans
+Since ancient times humans
 
 have used the energy of water
 
@@ -896,13 +896,13 @@ for grinding wheat and other
 
 grains.
 
-# They first devised the waterwheel
+They first devised the waterwheel
 
 a wheel with paddles around its
 
 rim.
 
-# As the photograph shows
+As the photograph shows
 
 the wheel was mounted on a frame over a
 
@@ -912,7 +912,7 @@ The flowing water striking the blades turned the wheel.
 
 Later, larger waterwheels were used to run machines in factories.
 
-# They
+They
 
 were not very reliable, however.
 
@@ -936,11 +936,11 @@ LEARN MORE!
 
 READ THESE ARTICLES…
 
-# ELECTRICITY
+ELECTRICITY
 
-# SHIPS
+SHIPS
 
-# THERMAL POWER
+THERMAL POWER
 
 noitullop ria
 
@@ -950,25 +950,25 @@ rewop laoc ro sag ekilnU
 
 rewsnA
 
-# Stream
+Stream
 
-# E y
+E y
 
 nerg
 
-# RCH L
+RCH L
 
-# A IG
+A IG
 
 EH
 
-# S T
+S T
 
-# Fill in the
+Fill in the
 
 blank:
 
-# Unlike gas or
+Unlike gas or
 
 coal power, water
 
@@ -980,7 +980,7 @@ cause air _______.
 
 © 2008 Encyclopædia Britannica, Inc.
 
-# Big E
+Big E
 
 from
 
@@ -1000,11 +1000,11 @@ tinier particles called “atoms.
 
 ” EH
 
-# S T
+S T
 
 The central part of an atom is called a “nucleus.
 
-# When the nucleus splits in two
+When the nucleus splits in two
 
 it produces enormous
 
@@ -1074,21 +1074,21 @@ effects that can be deadly.
 
 And the radiation can remain active for thousands of years wherever nuclear waste is thrown away.
 
-# Unfortunately
+Unfortunately
 
 no country has yet discovered a safe and reliable way to get rid of the waste.
 
-# Answer
+Answer
 
 Nuclear energy produces radioactive waste that stays deadly for thousands of years.
 
 No one has yet come up with a safe and reliable way to get rid of the waste.
 
-# From deep within the earth
+From deep within the earth
 
 petroleum comes to the surface.
 
-# Pipelines carry it to a refinery
+Pipelines carry it to a refinery
 
 where it is heated.
 
@@ -1100,7 +1100,7 @@ Other parts become machine oils and waxes.
 
 Kerosene and gasoline also separate as the oil is heated.
 
-# Finally
+Finally
 
 the lightest parts of the oil—cooking gas and other kinds of gases—are collected.
 
@@ -1138,7 +1138,7 @@ buses, and even lawnmowers release gases and particles that pollute the air too.
 
 Smoke from fires and barbeque grills pollutes the air.
 
-# Land pollution
+Land pollution
 
 water pollution
 
@@ -1158,11 +1158,11 @@ The picture you see here shows a cleanup crew at a polluted seashore after an oi
 
 Ships carrying petroleum sometimes have accidents that dump their oil into the ocean.
 
-# Dirty air
+Dirty air
 
 land, and water are dangerous.
 
-# Dirty air
+Dirty air
 
 or smog
 
@@ -1174,7 +1174,7 @@ Pollution can make water unsafe to drink or swim in.
 
 It also harms plants.
 
-# If land absorbs too much waste
+If land absorbs too much waste
 
 nothing will grow on it
 
@@ -1202,7 +1202,7 @@ And perhaps the future will find people using cleaner forms of energy
 
 such as wind power and solar energy.
 
-# Answer
+Answer
 
 litter = land
 
@@ -1216,7 +1216,7 @@ The shuttle in this weaver’s left hand flies back and forth
 
 carrying its thread.
 
-# A shuttle is part of a loom
+A shuttle is part of a loom
 
 a machine that makes cloth.
 
@@ -1240,7 +1240,7 @@ The threads for weaving cloth are made of fibers—thin
 
 wispy strands often tangled together.
 
-# Some fibers come from animals
+Some fibers come from animals
 
 some from plants
 
@@ -1252,7 +1252,7 @@ People learned to spin fibers into threads a very long time ago.
 
 The most commonly used animal fiber is wool.
 
-# Most wool is the hair of sheep
+Most wool is the hair of sheep
 
 but some comes from goats
 
@@ -1278,17 +1278,17 @@ And each silkworm makes only a small amount of silk.
 
 Today weaving by hand has become mostly a specialized craft.
 
-# As with much other manufacturing
+As with much other manufacturing
 
 modern cloth is usually produced by machines.
 
 What was probably the earliest use for calendars?
 
-# Answer
+Answer
 
 They were likely used to tell the right time to plant and harvest crops.
 
-# A calendar
+A calendar
 
 like a clock
 
@@ -1298,7 +1298,7 @@ The modern calendar has 12 months of 30 or 31 days each (February has 28
 
 sometimes 29).
 
-# The calendar year has 365 days
+The calendar year has 365 days
 
 which is about how long it takes the Earth to circle the Sun once.
 
@@ -1326,13 +1326,13 @@ These were often “lunar calendars
 
 The traditional Chinese calendar is a lunar calendar.
 
-# It has 354 days
+It has 354 days
 
 with months of either 29 or 30 days.
 
 Many calendars have religious origins.
 
-# In Central and South America
+In Central and South America
 
 the ancient Aztec and Mayan calendars marked ritual days and celebrations.
 
@@ -1378,7 +1378,7 @@ c) 一英寸
 
 © 2008 Encyclopædia Britannica, Inc.
 
-# MEASUREMENT
+MEASUREMENT
 
 最近的椅子有多远？你可以自己测量，看椅子有多少只鞋那么远。站起来，面对椅子。用你的右鞋记“一”。现在将左鞋的鞋跟抵住右鞋的鞋尖，记“二”。继续这样脚跟接脚尖、右左交替地迈步，每走一个鞋长就数一下，直到走到椅子前。几个世纪前，人们所做的和你现在一样。他们用身体部位来测量物体。一英寸大约是一个成年男子拇指的宽度。一英尺是他脚的长度。一码是从鼻尖到伸直手臂时拇指末端的距离。但由于每个人的拇指、脚和手臂尺寸不同，每个人的一英寸、一英尺和一码也不相同。最终在19世纪所有这些术语被标准化——即在英国每个人都同意为每一个术语设定一个具体的定义。它们成为英国度量衡体系——英制系统——的一部分。另一个体系称为“公制系统”，以厘米和米、克和千克、升来计量。所有这些度量都可以乘以或除以10。幸运的是，世界上大多数地区接受英制或公制系统作为标准计量体系。因此今天我们知，无论使用地点或测量者是谁，同一个计量结果都意味着相同的事物。了解更多！阅读这些文章…
 
@@ -1388,23 +1388,23 @@ c) 一英寸
 
 © 2008 Encyclopædia Britannica, Inc.
 
-# DRAWING WITH LIGHT
+DRAWING WITH LIGHT
 
 用光作画
 
 “摄影”一词源自两个古希腊词汇：photo意为“光”，graph意为“绘图”。摄影，即拍摄图像的过程，需要相机。相机的工作原理与我们的眼睛基本相同。光线从前方进入，将图像投射到后方。相机可以是任何一端带有小孔、内部黑暗不透光、允许光线进入的盒子。大多数相机装有玻璃透镜，帮助将光线聚焦到盒子的后部。在你的眼睛中，光线通过一个叫做“瞳孔”的开口进入。相机的开口是它的光圈。你的虹膜控制进入眼睛的光线量。相机的快门起到相同作用。在眼睛和大多数相机中，光线随后通过透镜。在你的眼睛里，图像在视网膜——眼睛后部的内衬上形成。在传统相机中，胶片接收并捕获图像。胶片是一种经过化学处理的特殊材料，使其对光线敏感。照射到胶片上的光线会改变胶片的化学成分。根据光线照射胶片每个部分的不同，会产生不同的明暗或颜色。胶片需要从相机中取出并进行冲洗，以完成照片的制作过程。曝光后的胶片会用化学药品处理，将图像固定在特殊的相纸上。数字相机不使用胶片。相反，它们将图像转换为记录在相机内磁盘上的数字。计算机对这些数字进行解码并显示图像。答案：1-d；2-c；3-a；© 2008 Encyclopædia Britannica, Inc.
 
-# PHOTOGRAPHY
+PHOTOGRAPHY
 
 了解更多！阅读这些文章…
 
 电影 • 印刷 • 视觉与听觉
 
-# Sitting in a darkened movie theater
+Sitting in a darkened movie theater
 
 caught up in the adventures of
 
-# Frodo Baggins or Batgirl
+Frodo Baggins or Batgirl
 
 you might find it difficult to believe that you’re
 
@@ -1438,7 +1438,7 @@ create the finished movie.
 
 True or false?
 
-# Movies are
+Movies are
 
 really just a
 
@@ -1452,7 +1452,7 @@ When the string of photos is flashed by quickly
 
 the pictures appear to move.
 
-# MOTION PICTURES
+MOTION PICTURES
 
 Filmmaking is a long and complicated process
 
@@ -1462,11 +1462,11 @@ The actors are the most visible,
 
 but there are many others as well.
 
-# The director has total
+The director has total
 
 control over how the story will be filmed.
 
-# A whole crew
+A whole crew
 
 of people help with costumes
 
@@ -1482,7 +1482,7 @@ and the actors’
 
 makeup and hairstyles.
 
-# After the film has been shot
+After the film has been shot
 
 there are different people to
 
@@ -1504,23 +1504,23 @@ LEARN MORE!
 
 READ THESE ARTICLES…
 
-# PHOTOGRAPHY
+PHOTOGRAPHY
 
-# TELEVISION
+TELEVISION
 
-# RADIO
+RADIO
 
-# Fill in the
+Fill in the
 
 blank:
 
-# Guglielmo Marconi
+Guglielmo Marconi
 
 seen here in 1922
 
 received the
 
-# After World
+After World
 
 1909 Nobel Prize for Physics for his development of a
 
@@ -1536,15 +1536,15 @@ instrument for
 
 _______________.
 
-# Answer
+Answer
 
-# After World War I
+After World War I
 
 radio grew from a two-way communication tool into a popular instrument for entertainment.
 
-# RADIO
+RADIO
 
-# Before there was television
+Before there was television
 
 people got much of their news and entertainment from the radio.
 
@@ -1574,7 +1574,7 @@ As more and more people began to listen to radio programs
 
 more popular entertainment programs were added.
 
-# These included comedies
+These included comedies
 
 dramas
 
@@ -1590,7 +1590,7 @@ Radio shows remained highly popular until the 1950s.
 
 That’s when television began to catch on.
 
-# And as it happens
+And as it happens
 
 television actually works in the same basic ways as radio does!
 
@@ -1598,7 +1598,7 @@ It uses special equipment to send and receive pictures and sound in the form of 
 
 Today radio technology is used in many ways.
 
-# Cordless telephones
+Cordless telephones
 
 cellular phones
 
@@ -1610,11 +1610,11 @@ LEARN MORE!
 
 READ THESE ARTICLES…
 
-# ELECTRICITY
+ELECTRICITY
 
-# TELEPHONES
+TELEPHONES
 
-# TELEVISION
+TELEVISION
 
 Thank You For Your Download.
 
@@ -1644,7 +1644,7 @@ In the beginning most people weren’t very interested in the new invention know
 
 ” People preferred radio programs.
 
-# Early TV was black and white
+Early TV was black and white
 
 the pictures were small and fuzzy
 
@@ -1662,7 +1662,7 @@ soap operas
 
 and dramas—were based on popular radio shows.
 
-# Gradually
+Gradually
 
 detective programs
 
@@ -1706,7 +1706,7 @@ clearer images and better sound.
 
 Earth-orbiting satellites have improved TV broadcasting.
 
-# In fact
+In fact
 
 the only things that haven’t changed much are the kinds of shows people watch and enjoy!
 
@@ -1726,7 +1726,7 @@ All the first television shows were live—that is
 
 you saw everything as it was happening.
 
-# And if people made mistakes
+And if people made mistakes
 
 you saw those too.
 
@@ -1744,7 +1744,7 @@ Two visitors watched a jaguar fall off its tree limb and lie quietly on the grou
 
 Their guide in this South American forest had brought the cat down with a blowgun dart tipped with curare.
 
-# Made from certain trees in the jungle
+Made from certain trees in the jungle
 
 curare paralyzes the muscles in the body.
 
@@ -1782,7 +1782,7 @@ animals
 
 and minerals.
 
-# The photograph
+The photograph
 
 for example
 
@@ -1794,7 +1794,7 @@ Pods of the opium poppy are used to make painkillers.
 
 Not so long ago a very important medicine was discovered in moldy bread.
 
-# This medicine
+This medicine
 
 penicillin
 
@@ -1816,11 +1816,11 @@ Find and correct the error in the following sentence
 
 Many medicines today still come from the bark of animals.
 
-# Answer
+Answer
 
 Many medicines today still come from the bark of trees.
 
-# TELESCOPES
+TELESCOPES
 
 The stars we see in the night sky look like little points
 
@@ -1902,7 +1902,7 @@ cable television television page 56
 
 cables electricity page 30
 
-# Imperial System
+Imperial System
 
 also called British Imperial System (measurement system) measurement page 49 LEARN MORE look under measurement
 
@@ -1926,7 +1926,7 @@ communications
 
 look under Braille
 
-# Internet and the World Wide Web
+Internet and the World Wide Web
 
 photography
 
@@ -1994,7 +1994,7 @@ gasoline (fuel) oil page 40
 
 geothermal energy thermal power page 34 geysers (hot springs) photograph page 35
 
-# Gregorian calendar calendars page 47
+Gregorian calendar calendars page 47
 
 handheld computers computers page 27
 
@@ -2118,7 +2118,7 @@ nucleus (atoms): nuclear energy page38
 
 oil, also called petroleum: page40
 
-# LEARNMORE look under automobiles
+LEARNMORE look under automobiles
 
 pollution
 
@@ -2130,7 +2130,7 @@ page27
 
 paper: page17
 
-# LEARNMORE look under printing
+LEARNMORE look under printing
 
 penicillin (drug): medicine page58
 
@@ -2156,7 +2156,7 @@ refineries (oil): Internet page28
 
 satellites (objects in space)
 
-# LEARNMORE look under nuclear energy
+LEARNMORE look under nuclear energy
 
 thermal power
 
@@ -2164,7 +2164,7 @@ wind power
 
 ships: page12
 
-# LEARNMORE look under submarines
+LEARNMORE look under submarines
 
 water power: page37
 
@@ -2206,7 +2206,7 @@ transportation: page6
 
 submarines (ships): page15
 
-# LEARNMORE look under nuclear energy
+LEARNMORE look under nuclear energy
 
 thermal power
 
@@ -2232,7 +2232,7 @@ photograph page55
 
 wires: electricity page30
 
-# World Wide Web
+World Wide Web
 
 also called WWW
 

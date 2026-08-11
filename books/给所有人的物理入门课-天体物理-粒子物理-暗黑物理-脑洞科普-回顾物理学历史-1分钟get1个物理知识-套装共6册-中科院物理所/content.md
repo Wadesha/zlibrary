@@ -162,13 +162,13 @@ Rolston）小组首次采用光电离激光冷却原子的方法得到了电子�
 
 “问答”专栏还有幸得到来自所外的问答志愿者的参与他们有中科院国家天文台的何川郭潇，中科院理论物理所的安宇森清华大学物理系的袁子等。感谢你们的支持！最后，我们在这里同样向广大的提问者致以诚挚的谢意！爱因斯坦曾经说过：“提出一个问题往往比解决问题更重要。因为解决问题也许仅是一个数学上或实验上的技能而已而提出新的问题却需要创造性的想象力而且标志着科学的真正进步。”事实上很多读者提出的问题正是曾经推动我们科学进步的重要问题也正是大家的提问给了我们这本书最强大的原动力感谢你们！同时我们期待更多的读者提出更多的问题，也期待更多的小伙伴加入我们的问答团队。版权信息薛定谔的猫 Schrodinger's Cat 作者：[美] 亚当·哈特-戴维斯 (Adam Hart-Davis) 译者：阳曦出品方：未读·探索家出版社：北京联合出版公司
 
-# London EC1R 0DP
+London EC1R 0DP
 
 United Kingdom Interior design and illus trations
 
-# Jason Anscomb
+Jason Anscomb
 
-# Rawshock design Photo credits
+Rawshock design Photo credits
 
 Shutterstock.
 
@@ -502,7 +502,7 @@ James Prescott 詹姆斯·普雷斯科特·焦耳 Keating
 
 Richard 理查德·基廷 Kelvin
 
-# William Thomson
+William Thomson
 
 Baron 威廉·汤姆森·开尔文男爵 Laplace
 
@@ -598,7 +598,7 @@ Wilhelm Conrad 威廉·康拉德·伦琴 Rubin
 
 Vera 薇拉·鲁宾 Rumford
 
-# Benjamin Thompson
+Benjamin Thompson
 
 Count 本杰明·汤普森·伦福德伯爵 Sakharov
 
@@ -994,7 +994,7 @@ dunkle energie。对于一位意大利研究者来说他研究的是“模糊的
 
 [美] 尼尔·德格拉斯·泰森格里高利·莫内译者阳曦出品方未读·探索家出版社天津科学技术出版社
 
-# Copyright 2019
+Copyright 2019
 
 2017 by Neil deGrasse Tyson First Edition published by W.
 
@@ -1004,7 +1004,7 @@ Simplified Chinese translation copyright 2021 by United Sky (Beijing) New Media 
 
 , Ltd.
 
-# ALL RIGHTS RESERVED
+ALL RIGHTS RESERVED
 
 图中的碟状星系下方有一颗正在爆炸的明亮恒星正是这样的星星帮助天文物理学家确定了一件事宇宙膨胀的速度超出我们的预期。目录推荐序1推荐序2推荐序3推荐序4自序为了观星而遛狗1　有史以来最伟大的故事宇宙大爆炸之初2　如何与外星人聊天通用的物理定律3　帮超人找到母星来自过去的光4　不要随便去旅行危险的星系际空间5　看不见的奇怪朋友神秘的暗物质6　是爱因斯坦错了吗？宇宙常数与暗能量7　小元素与大星球元素周期表里的宇宙8　完美主义者世界为什么是圆的9　假鼻子与望远镜捕捉不可见光10　拜访太阳系邻居行星彗星和卫星11　外星人眼中的地球生命存在的证据12　在小蓝点上眺望用宇宙视角看万物名词表索引图片来源返回总目录晴朗的夜空为你展示恒星星际尘埃和拥挤的银河系的壮观景象开阔你的眼界让你的头脑更加开放。推荐序1翻开这本书我有种熟悉的感觉因为我和这本书的作者尼尔·泰森一样也曾在天文馆为前来参观的朋友们讲述宇宙的故事。从古至今，人们对头上这片星空总有太多的“是什么”和“为什么”要问正是这种好奇心推动着科学不断发展。在过去二十年时间里我常常与喜欢天文的同学们在一起畅谈宇宙在一双双为天文而着迷的眼睛中我看到了当年的自己。正如这本书的书名提到的青少年们是忙碌的课堂和作业占据了他们生活的大部分时间但我希望同学们在忙碌之余不要忘了仰望星空学会用宇宙视角看待世界万物。在这本书中，作者用巧妙的比喻和生活中常见的例子向青少年们解释了宇宙大爆炸物理定律、暗物质与暗能量等概念也与大家一起猜想外星人的存在一起到未知区域探险。作者在书中介绍了许多关于宇宙的基础知识但并不枯燥难懂在解答疑惑的同时又提出许多新奇的问题让青少年对天体物理学怀有一颗探究之心。书中的精彩图片有些来自世界上最先进的望远镜与最优秀的科学家神秘动人的宇宙奇观让我们可以暂时忘记自己身在地球把思绪放飞到太空深处。培养兴趣与热爱激发好奇心，吸引更多有志的青年投身科学正是我从事天文科普工作的初心。相信同为天文馆馆长的尼尔·泰森也与我有着同样的心情。在浩瀚无垠的宇宙面前，我好像也变回了那个好奇心永不满足的少年。地球之外，时间和空间都更加广袤我相信这本书能够成为探索未知的一个起点期待青少年们能从此出发向更美好的未来前行。朱进北京天文馆前馆长推荐序2一百多年前梁启超先生在《少年中国说》一文中写道“少年强则国强”
 
@@ -1132,7 +1132,7 @@ stsci.
 
 edu/), R.
 
-# Gendler
+Gendler
 
 and the Subaru Telescope (NAOJ) NASA/JPL-Caltech R.
 
@@ -1142,7 +1142,7 @@ Nelson, F.
 
 Hasler/NASA/GSFC/NOAA/USGS NASA/JPL-Caltech NASA/C.
 
-# Reed NASA
+Reed NASA
 
 ESA, Hubble Heritage Team (STScI/AURA)
 
@@ -1186,11 +1186,11 @@ NASA/CXC/SAO/PSU/D
 
 Burrows et al.
 
-# Optical
+Optical
 
 NASA/STScI
 
-# Millimeter
+Millimeter
 
 NRAO/AUI/NSF NASA/JPL-Caltech/Space Science Institute hellorf.
 
@@ -1200,7 +1200,7 @@ NASA/CXC/Univ of Toronto/M.
 
 Durant et al.
 
-# Optical
+Optical
 
 DSS/Davide De Martin Jarek Tuszyński/CC-BY-SA-3.
 
@@ -1286,7 +1286,7 @@ com/article/2098394-the-tube-that-kic-of-particle-physics/。6．用阴极射线
 
 而最优秀的学生被称为“高级牧马人”。一些伟大的物理学家没能获得这个浪漫的称谓包括第二牧马人约瑟夫·汤姆森——电子的发现者以及电磁理论的创始人詹姆斯·克拉克·麦克斯韦。8．2011年大型强子对撞机遇到了UFO问题不过这个UFO指的是“不明坠落物”而不是通常所指的“不明飞行物”。电离气体在束流室中产生的电子云和被称为“不明坠落物”的微尘粒子打断了束流使大型强子对撞机难以持续运转。9．汤姆森因发现电子是粒子而获得诺贝尔奖他的儿子乔治因证明电子是波而获得诺贝尔奖。不过他们并不是唯一的父子获奖者另外还有5对父子获奖包括量子先驱尼尔斯·玻尔和他的儿子奥格。3条文化参考1．反物质在科幻作品中是一个流行的主题。例如，在《星际迷航》中，星际飞船进取号以反物质为燃料。2．更令人难以置信的是，反物质在电影《天使与魔鬼》中被用于推进情节。在影片中，光照派从大型强子对撞机偷取反物质来炸毁梵蒂冈。3．在电影《捉鬼敢死队》中，未经许可的粒子加速器为质子包提供能量。其发明者解释道，在使用这些设备时，让粒子束交叉是不明智的。相比之下，在大型强子对撞机上，那么做是必要的。10个供进一步阅读的网站和书籍1．要想阅读一份非常短的粒子物理学简介弗兰克·克洛斯撰写的《粒子物理学一个非常短的介绍》（Particle Physics
 
-# A Very Short Introduction
+A Very Short Introduction
 
 2004年）也许再合适不过了。2．2014年出版的《物理学七堂课》（Seven Brief Lessons on Physics）由卡洛·罗韦利撰写是一本“清晰而迷人”的小书先在意大利成为畅销书随后风靡世界各地——理由很充分。3．要想更深入地研究粒子物理学的奥秘大卫·格里菲思的《粒子物理导论》（Introduction to Elementary Particles
 
@@ -1298,11 +1298,11 @@ A Journey to Earth’s Extreme to Unlock the Secrets of the Universe）。7．�
 
 the Hidden Life of Paul Dirac
 
-# Quantum Genius
+Quantum Genius
 
 2009年）。8．想要了解更多艾米·诺特那无人喝彩的才华和你可能从未听说过的最伟大的物理学定理读一读戴夫·戈德堡的《后视镜中的宇宙隐藏的对称性如何塑造现实》（The Universe in the Rearview Mirror
 
-# How Hidden Symmetries Shape Reality
+How Hidden Symmetries Shape Reality
 
 2013年）。9．如果你更喜欢获得以巧妙折叠的形式呈现的信息那就去看看安东·拉德夫斯基和艾玛·桑德斯合著的《通往物质之心的旅程》（Voyage to the Heart of Matter
 

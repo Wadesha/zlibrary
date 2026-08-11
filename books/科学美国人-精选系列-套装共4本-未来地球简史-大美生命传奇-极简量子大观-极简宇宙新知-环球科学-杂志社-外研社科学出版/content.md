@@ -8,7 +8,7 @@ without the prior written permission of Foreign Language Teaching and Research P
 
 本书版权由外语教学与研究出版社独家所有。如未获得该社书面同意书中任何部分之文字及图片不得用任何方式抄袭节录、翻印或存储利用于任何数据库及检索系统等。Published by Foreign Language Teaching and Research Press No.9 Xisanhuan Beilu Beijing
 
-# China 100089 http
+China 100089 http
 
 fltrp.
 
@@ -352,11 +352,11 @@ IAC），成立了一个专门小组对上述问题展开调查。“这项审�
 
 “我们确实设法撤回到了臭氧的安全界限之内在保护地区生物多样性方面做出了卓越的努力减少了农业污染空气颗粒物和水需求量减缓了毁地造田的进程。这给了我们一些希望：只要我们选择去做，就能管理好人类对地球的影响。” 蒙特利尔议定书《蒙特利尔议定书》又称作《蒙特利尔公约》全名为《蒙特利尔破坏臭氧层物质管制议定书》（Montreal Protocol on Substances that Deplete the Ozone Layer）是联合国为了避免工业产品中的氟氯碳化物对地球臭氧层继续造成损害承续1985年保护臭氧层《维也纳公约》的大原则于1987年9月16日邀请所属26个会员国在加拿大蒙特利尔所签署的环境保护公约。该公约自1989年1月1日起生效。《蒙特利尔议定书》中对CFC-11
 
-# CFC-12
+CFC-12
 
-# CFC-113
+CFC-113
 
-# CFC-114
+CFC-114
 
 CFC-115等五项氟氯碳化物及三项哈龙的生产做了严格的管制规定并规定各国有共同努力保护臭氧层的义务凡是对臭氧层有不良影响的活动各国均应采取适当防治措施影响的层面涉及电子光学清洗剂冷气机、发泡剂喷雾剂、灭火器……此外议定书中亦决定成立多边信托基金援助发展中国家进行技术转移。热带雨林的第二次生命撰文｜杰西·格林斯潘（Jesse Greenspan）翻译｜李想只要获得喘息之机满目疮痍的雨林几乎能将其生物多样性恢复如初。致力于雨林保护的环境保护者通常将注意力放在日益减少的原始林地上即从未回响过嗡嗡电锯声的森林。但即便是已经伐无可伐的林地，似乎也应得到保护。大量证据显示只要环境适宜被过度砍伐的林地也能恢复其生物多样性且几乎能重新达到未曾损毁的亚马孙原始林的水平。这项评估再生林生态价值的最新研究发表于3月的《热带保护科学》杂志上。一个由生态学家和自愿者组成的国际性研究小组用一年半的时间标识了秘鲁马努生物保护区内所能找到的每一种鸟类两栖类、爬行类以及中到大型哺乳类动物这片约800公顷（1公顷为0.
 
@@ -564,7 +564,7 @@ without the prior written permission of Foreign Language Teaching and Research P
 
 本书版权由外语教学与研究出版社独家所有。如未获得该社书面同意书中任何部分之文字及图片不得用任何方式抄袭节录、翻印或存储利用于任何数据库及检索系统等。Published by Foreign Language Teaching and Research Press No.9 Xisanhuan Beilu Beijing
 
-# China 100089 http
+China 100089 http
 
 fltrp.
 
@@ -918,7 +918,7 @@ without the prior written permission of Foreign Language Teaching and Research P
 
 本书版权由外语教学与研究出版社独家所有。如未获得该社书面同意书中任何部分之文字及图片不得用任何方式抄袭节录、翻印或存储利用于任何数据库及检索系统等。Published by Foreign Language Teaching and Research Press No.9 Xisanhuan Beilu Beijing
 
-# China 100089 http
+China 100089 http
 
 //www.
 
@@ -1434,7 +1434,7 @@ without the prior written permission of Foreign Language Teaching and Research P
 
 本书版权由外语教学与研究出版社独家所有。如未获得该社书面同意书中任何部分之文字及图片不得用任何方式抄袭节录、翻印或存储利用于任何数据库及检索系统等。Published by Foreign Language Teaching and Research Press No.9 Xisanhuan Beilu Beijing
 
-# China 100089 http
+China 100089 http
 
 //www.
 

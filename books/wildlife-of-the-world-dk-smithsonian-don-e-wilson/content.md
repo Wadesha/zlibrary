@@ -6903,7 +6903,7 @@ EN濒危 爬行动物、鸟、哺乳动物 澳大利亚 ▷ 斑点警告 “水�
 
 ## 鼻
 
-## potoroo
+potoroo
 
 1月 2月 3月 4月 5月 6月 7月 8月 9月 10月 11月 12月 降雨 平均温度 图例 3¼ °C °F 毫米 2¼ 1½ ¾（库马，新南威尔士）
 
@@ -6911,7 +6911,7 @@ EN濒危 爬行动物、鸟、哺乳动物 澳大利亚 ▷ 斑点警告 “水�
 
 也包括塔斯马尼亚东岸。
 
-## regent
+regent
 
 ## 吸蜜
 
@@ -7337,27 +7337,27 @@ Scalloped hammerhead shark（Sphyrna lewini） 眼在锤形头侧 尖上尾叶 S
 
 BR
 
-## USHT
+USHT
 
-## AIL P
+AIL P
 
-## OSSU
+OSSU
 
 M
 
 NE
 
-## W ZE
+W ZE
 
-## ALAN
+ALAN
 
-## D PIG
+D PIG
 
 EON
 
 A
 
-## MBER
+MBER
 
 SNA IL
 
@@ -7391,7 +7391,7 @@ SNA IL
 
 K AUR
 
-## I CON
+I CON
 
 ES
 
@@ -7627,27 +7627,27 @@ F or te s
 
 地球潜水最深的哺乳动物，抹香鲸（sperm whale）可屏息达一小时或更久，下潜寻找其主要食物来源鱿鱼。其肺塌陷以应对深达近 2 英里（3,000 米）的 crushing（碾压性）水压。
 
-## SPER
+SPER
 
-## M WH
+M WH
 
 ALE
 
 南
 
-## GEOR
+GEOR
 
-## GIA P
+GIA P
 
-## INTA
+INTA
 
 IL
 
 C RAB
 
-## EATE
+EATE
 
-## R SE
+R SE
 
 AL
 
@@ -7675,7 +7675,7 @@ AL
 
 K
 
-## RILL
+RILL
 
 比 地 球 上 所 有 人 类 的 总 重
 
@@ -7797,25 +7797,25 @@ K
 
 ANT
 
-## ARCT
+ARCT
 
-## IC PE
+IC PE
 
 ARL WOR T
 
 S NOW
 
-## PETR
+PETR
 
 EL
 
 BLA
 
-## CKFI
+CKFI
 
-## N ICE
+N ICE
 
-## FISH
+FISH
 
 如 此 干 燥 被 划 为 寒 漠
 
@@ -7847,9 +7847,9 @@ BLA
 
 A NTA
 
-## RCTI
+RCTI
 
-## C MID
+C MID
 
 GE
 
@@ -12421,7 +12421,7 @@ Galapagos Islands 122–29 Pantanal 100–107 Central Great Plains 44–51 Centr
 
 464  |  INDEX crab-eating fox 395 crab-eating raccoon 398 crabeater seal 364–65, 396 crabs boxer 309 edible 454 guard 345 horseshoe 454 Sally Lightfoot 122 cranes black crowned 189 common 416 gray crowned 189 sandhill 416 sarus 263 crayfish, American red swamp 146, 184 Crematogaster ants 192 crested berrypecker 317 crested macaque, Celebes 391 crested oropendola 425 crested tinamou, elegant 410 Crex crex 416 crickets 452 Auckland tree weta 358 参见 grasshoppers crimson longwing 89 crimson topaz 421 Crocidura leucodon 394 crocodiles American 66 dwarf 435 Nile 190–91, 198 saltwater 191, 435 Crocodylus niloticus 190–91 Crocodylus porosus 191, 435 Crocuta crocuta 253, 401 Cromwell Current 124 crossbills common 143 parrot 143 Scottish 143 Crotalus cerastes 431 Crotalus scutulatus 64 crown-of-thorns starfish 344 crowned pigeon, southern 418 crowned sandgrouse 419 crows carrion 422 Clark’s nutcracker 34 yellow-billed chough 161 Cryptobranchus alleganiensis Cryptoprocta ferox 237 cuckoos common 419 greater roadrunner 63 Cuculus canorus 419 culpeo 109 Cuon alpinus 277 curlew, Eurasian 417 cuscus common 380 common spotted 315 cutthroat trout 35 cutworm moth, army 34 Cyanistes caeruleus 423 Cyclopes didactylus 86 Cyclura cornuta 433 Cygnus atratus 411 Cygnus olor 148–49 Cymbirhynchus macrorhynchos 299 Cynictis penicillata 400 Cynomys ludovicianus 48 cypress swamps 66–67 Cyprinus carpio 446 Czech Republic 164 D Daba Mountains 272 Dacelo leachii 323 Dalmatian pelican 414 Dama dama 440 damselflies 452 blue 359 Danaus plexippus 51 dances blue-footed booby 125 emperor scorpion 216, 217 European honey bee 171 great crested grebe 157 greater bird-of-paradise 319 roseate spoonbill 104 Verreaux’s sifaka 241 参见 展示行为 Danube, River 164 darter, African 70 Darwin, Charles 122, 300 Darwin’s frog 440 Darwin’s rhea 410 Dasypeltis scabra 429 dasyure, speckled 314–15 Dasyurus maculatus 341 Dasyurus viverrinus 380 Daubentonia madagascariensis 241 Daubenton’s bat 393 dawn redwood 272
 
-## DDT
+DDT
 
 De Brazza’s monkey 390 dead-leaf toad 84 Dean’s Blue Hole 23 Death Valley 60 deciduous forest 12, 164–65, 284–85 deciduous trees 133, 284 deer 145, 254 Alpine musk 440 barasingha 254 common fallow 440 marsh 440 moose 38–39 mule 440 northern pudu 85 pampas 114 red muntjac 258 sika 284 western red 141 western roe 153, 164 white-tailed 40, 153 防御 armadillo lizard 234–35 boxer crab 309 Cape cobra 234 Cape porcupine 231 common pangolin 215 Goliath birdeater 99 jewelled lizard 157 Macleay’s spectre 343 mandarinfish 305 meerkat 232, 233 monarch butterfly 51 Nile monitor 227 Portuguese man o’ war 352 striped skunk 54 thorny devil 332 tomato frog 243 yellow-legged frog 59 Delichon urbicum 423 Delphinapterus leucas 31 Delphinus delphis 407 deltas Camargue 146–47 Nile 176 Okavango 218–19 Dendroaspis polylepis 207 Dendrobates tinctorius 98 Dendrocygna eytoni 323 Dendrohyrax arboreus 382 Dendrolagus goodfellowi 317 Denise’s pygmy seahorse 350 dens coyote 49 Gila monster 64 grizzly bear 36 Iberian lynx 154 northern raccoon 69 polar bear 28, 29 Dermochelys coriacea 428 desert blond tarantula 65 desert death adder 328 desert horned lizard 433 desert tortoise 60 deserts 10 Australia 312 Gobi Desert 278–79 Great Sandy-Tanami Desert 328-33 Kalahari Desert 228–29 Mojave Desert 60–61 North America 22 desman, Russian 394 Desmana moschata 394 Desmarest’s hutia 387 Desmodus rotundus 115 灵巧性 69, 297 参见 tool users dhole 277 Dicerorhinus sumatrensis 403 Diceros bicornis 223 Didelphis virginiana 380 消化系统 American bison 47 giant panda 275 koala 339 sloths 79 Terai sacred langur 259 dingo 321, 322, 337 Diomedea exulans 366–67 Disney, Walt 153 Dispholidus typus 429 展示行为 Andean cock-of-the-rock 89 anhinga 70 Australian water dragon 342 booted racket-tail humming bird 88 common flying dragon 298 Fabian’s lizard 113 frilled lizard 324–25 gharial 265 golden eagle 162 golden pheasant 277 great bustard 283 great frigatebird 124 greater bird-of-paradise 319 greater sage-grouse 50 gray crowned crane 189 Indian peafowl 271 jabiru stork 103 king eider 137 ostrich 234 panther chameleon 242 red-legged seriema 120 roseate spoonbill 104 sarus crane 263 wandering albatross 367 western capercaillie 145 western gorilla 212, 213 参见 dances diver, red-throated 412 diving Atlantic puffin 139 dugong 304 emperor penguin 375 Eurasian otter 167 gray seal 135 imperial shag 369 king eider 137 marine iguana 129 narwhal 30 southern elephant seal 365 Doberai Peninsula 314, 315 Dolichotis patagonum 117 dolphins 187 Amazon river 407 common short-beaked 407 hourglass 372 Irrawaddy 302 killer whale 136–37, 372 pantropical spotted 407 pink river 91 spinner 303 tucuxi 91 domestication, American bison 47 donkeys, feral 328 dormouse, hazel 164, 384 Douglas fir 140 Douglas squirrel 53 dove, rock 418 Draco volans 298–99 dragonflies 19, 146, 452 emperor 452 Ethiopian highlander 178–79 Drakensburg Mountains 176 dreys, Eurasian red squirrel 142 Dromaius novaehollandiae 322 dromedary 281, 403 droughts Gobi Desert 278 Great Sandy-Tanami Desert 328 Kalahari Desert 228 Mojave Desert 60 dry desert 17, 60–61, 228–29, 248–49, 328–29 dry forest, Madagascan 236–37 Dryocopus martius 169 duck-billed platypus 334, 336–67 ducks 411 king eider 137 mandarin 290 plumed whistling-duck 323 dugong 302, 303, 304–05, 312, 382 Dugong dugon 304–5 duiker, bush 405 dung beetle 193 dunnart, fat-tailed 329 dusky grass wren 328 Dust Bowl, North America 44 dwarf chameleon 236–37 dwarf crocodile 435 dwarf hamster 278 dwarf minke whale 345 dyeing poison frog 98 Dyscophus antongilii 243 E eagle owl 58, 152, 164 eagle ray, common 445 eagles 188 bald 42–43, 52 booted 152 fish 43, 415 golden 162–63 harpy 76, 78, 86, 93, 415 Iberian imperial 152–53 Steller’s sea 43 wedge-tailed 322, 328, 415 white-tailed 43 eared seals 123
 

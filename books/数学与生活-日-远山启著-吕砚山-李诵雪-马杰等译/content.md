@@ -390,7 +390,7 @@ sooner a oe on re
 
 “Th 2”
 
-# AK EIB AY 1
+AK EIB AY 1
 
 2, 35 RE
 

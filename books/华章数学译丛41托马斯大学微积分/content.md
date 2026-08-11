@@ -4,7 +4,6 @@
 
 (cf)(x) = c f(x)
 
---- Page 31 ---
 
 # 1.2组合函数例1由公式
 
@@ -49,7 +48,6 @@ f∘g 的定义域由 g 的定义域中那些使 g(x) 位于 f 的定义域内�
 27把 f∘g 表示成一个机器图，而图1.
 
 28则把这个函数复合表示成箭头图。
---- Page 32 ---
 
 f∘g
 
@@ -304,7 +302,6 @@ h(x) = 4x + 8
 (e) y = 2√(x - 3)
 
 (f) y = √(x - 3)在习题29 ~48中，画出函数的图形。
---- Page 37 ---
 
 第1节
 
@@ -435,7 +432,6 @@ h(x) = 4x + 8
 (h) f * g^2.
 
 # 80. 一个函数能够既是奇函数又是偶函数吗？提出答案的理由，并且画出两种函数的图形。
---- Page 38 ---
 
 答案的理由，以及 (g) 和 (h) 两种函数的图形。（延续题1）一起画出函数 f(x) = x 和 g(x) = 1/x
 
@@ -523,7 +519,6 @@ CAST 规则 (见图1.
 
 44) 对于记忆基本三角函数何时取正值或者
 
---- Page 39 ---
 
 图1.
 
@@ -575,7 +570,6 @@ CAST 规则 (见图1.
 
 44) 对于记忆基本三角函数何时取正值或者
 
---- Page 40 ---
 
 负值是很有用的。例如，从图1.
 
@@ -587,7 +581,7 @@ cos(2π/3) = -1/2
 
 tan(2π/3) = -√3
 
-# S A
+S A
 
 sin 在全部象限取正值
 
@@ -717,7 +711,6 @@ cos x 和 tan x 之一的值.
 
 # 25. s = sec t.
 
---- Page 44 ---
 
 函数图27.
 
@@ -847,7 +840,6 @@ sin x ≈ x.
 
 这时图形同在弧度方式下得到的图形有什么不同?
 
---- Page 45 ---
 
 28 BI
 
@@ -977,7 +969,6 @@ P + (r)P = (1 + 0.
 
 055)^2 (P=100)
 
---- Page 46 ---
 
 Fe 取29
 
@@ -1119,7 +1110,6 @@ e 是 (1 + 一】当 < 趋于无穷大时逼近的值这个结果提供计算 e 
 
 y =yoe* 当 t >0时是一个指数增长复型当 * <0时是一个指数变况模型这里 )。代表常数 , 指
 
---- Page 48 ---
 《1 + x
 
 Un =41L + 1/xh
@@ -1198,7 +1188,6 @@ y=ye", r>O
 
 2 x 10 , 试预测866年后碳14 MARH ADK.
 
---- Page 49 ---
 
 32 Fit
 
@@ -1328,7 +1317,6 @@ e“ =A.
 
 它是指数函数 y =e 的反函
 
---- Page 50 ---
 
 a 取33
 
@@ -1394,7 +1382,6 @@ y“xr 和 y=sinx 代八们的定基 (- 吊心 ) 和 [0、“) 上的图形同�
 
 定义千 “ 的定义域是口而值域是不
 
---- Page 51 ---
 
 34符 ! 紫了的反页数记旨丿 “ 读作 * 反 “ 巾 “ 中的 “- 1“ 不是指数了 (z) 的含义不是 LYf(z)
 
@@ -1517,7 +1504,6 @@ x 必须怔样接近4方能使 y =2x - 1同7之差小于2单位解 “ 我们的
 保持 x) 在的容限内（见图2.
 
 17}, 这就导致我们给出下面极限的精确定丶。
---- Page 83 ---
 
 66蔡2重
 
@@ -1563,7 +1549,6 @@ n 一一 g
 
 1 -
 
---- Page 84 ---
 
 颖限与途综性67
 
@@ -1575,7 +1560,7 @@ moe [ - aie
 
 # 23.2 WF: 检验极限定义
 
-# PR ER ESR SE SCH A ER AAT ORR HB AB
+PR ER ESR SE SCH A ER AAT ORR HB AB
 
 (AEE E (FR AT AE SR ge
 
@@ -1627,7 +1612,6 @@ FEM IEM δ 也是如此极限定0<|x -1| <δ 保证义不要求 “ 最佳的 �
 
 只求一个适合的 δ 值。|f(x) -2| <ε( 2)
 
---- Page 85 ---
 
 68第2章例3 “ 评明 ,
 
@@ -1881,7 +1865,6 @@ lim sin(√x - 3)/(√x - 3)
 
 x→2 x→9
 
---- Page 129 ---
 
 第3章微分法概述第2章介绍了函数在一点的导数 .
 
@@ -2049,7 +2032,6 @@ f'(x)), 用光滑曲线把它们连接起来形成如图3.
 
 3.1.4在区间上的可微函数和单侧导数函数 y = f(x) 在一个 (有限或者无限) 开区间上是可微的是指它在区间的每一点有导数 .
 
---- Page 130 ---
 
 114第3章数在一个闭区间 [a
 
@@ -2143,7 +2125,6 @@ Bala) = Tp Me g(a) <1 i.
 
 图形应呈现为阶梯函数
 
---- Page 135 ---
 
 32. 经济增长 “ 附闸显示美网存1983 ~ 1988年期间问民牛库总值 (GNP) 受化的年平均百分数 y = 要出巾 / 山的图形 ( 在有定义的地方 }
 
@@ -2173,7 +2154,6 @@ Bala) = Tp Me g(a) <1 i.
 
 D: -3云 x 2
 
---- Page 136 ---
 
 ig
 
@@ -3049,7 +3029,6 @@ b]上的平均高度（或平均值）。当f是非负函数时，面积等于f�
 
 , 把从你的计算器、斯特林逼近和公式 (6) 得到的值作比较.
 
---- Page 457 ---
 
 第8章无穷序列与无穷级数概说人人都知道如何把两个数甚至几个数加在一起然而, 怎样把无穷多的数加在一起呢?
 
@@ -3129,7 +3108,6 @@ aₙ = √n, bₙ = (−1)ⁿ / n
 
 或者用罗列项的方式描述, 像
 
---- Page 458 ---
 
 有时也写成
 
@@ -3207,7 +3185,6 @@ a_n = (-1)^n / n
 
 并且称为序列的极限 (见图8.
 
---- Page 459 ---
 
 人物传记上述定义与2.
 
@@ -3295,7 +3272,6 @@ aₙ 最终达到并保持比任何固定的大数都大.
 
 那么就说序列 {aₙ} 发散到负无穷大并且记为
 
---- Page 460 ---
 
 序列可能发散而不是发散到无穷大或者负无穷大, 如例2见到的情况.
 
@@ -3369,7 +3345,6 @@ cla fo bdr (f(itdde < [ (17?
 
 ) de} 矩形面积之和小于图形
 
---- Page 477 ---
 
 460 Bee
 
@@ -3435,7 +3410,7 @@ EGR SRR FT no 成立 , 当 n +ee 时同样成立 .
 
 是有限的如果「/(x)dx 是无限的
 
-# AOR SRR Da
+AOR SRR Da
 
 是无限的图此 , 级数与积分闭时为有限的成者同时为无限的 .
 
@@ -3447,7 +3422,6 @@ EGR SRR FT no 成立 , 当 n +ee 时同样成立 .
 
 艺′一=一′'′一^丨′ 中中
 
---- Page 478 ---
 
 无笛座初与无穷级敷461
 
@@ -3533,7 +3507,6 @@ BA, RHR = S - s, 满足不等式〔+_f(翼)d缅s`R^ 厂/(义)d裘 (1)
 
 , 得到嬴”+「汶缄砒奚5逞麸+I页z池 (2)
 
---- Page 479 ---
 
 门为 a +R, =.
 
@@ -3607,7 +3580,7 @@ p> a
 
 2 aia j 2 inn
 
-# E 1 iad 1
+E 1 iad 1
 
 # 18. 一 | .9. 一一 .
 
@@ -3621,7 +3594,7 @@ p> a
 
 2m Dein)’ 23.
 
-# Byrn
+Byrn
 
 = 1 * e
 
@@ -3687,7 +3660,6 @@ PEE.
 
 iani 是收笺于0的正数项非增序列 ( 对任何 n
 
---- Page 480 ---
 
 无穷序列与无窍纵数
 
@@ -3721,7 +3693,7 @@ MFMAM 2, RA HU a, 闭2a/n: =2/n 具有相似的特性 , 囡为对于这根的 n
 
 a, MAF ASME TET eC
 
-# ARLLERII 6
+ARLLERII 6
 
 =1/n.
 
@@ -3787,7 +3759,6 @@ wee bo 十5
 
 AR HEAR PR BERG UO ES (3) BBS, Le, 发散 .
 
---- Page 483 ---
 
 _ 笑8肇例3级数宁坡孙收敛鸦 ?
 
@@ -3895,7 +3866,6 @@ At H sip 口收敛成者发散用一种 C4S( 计算机代数系统通过抒行�
 
 “= >» n’sin 史
 
---- Page 484 ---
 
 无劲序列与无翳绣数467
 
@@ -3949,7 +3919,7 @@ su3.
 
 L/a, 必定位于 p 的 s 范围内特别是、当 n 主 W 时
 
-# Gan
+Gan
 
 一一十一一就是说
 
@@ -3999,7 +3969,6 @@ De, 收敛由于 a,<r
 
 世收敛【b) 1 <p 乌吴、从森个下标奶起 ,
 
---- Page 485 ---
 
 468第8聿万水招用 ay < ay. < ey <0
 
@@ -4140,7 +4109,6 @@ a
 5 ft 处的手枪射出。子弹在3秒后到达何处？标枪标枪从投掷者手中在地面之上7 ft 以45° 角和80 ft/s 的速率掷出。标枪将达到多大高度？在水平倾斜角为的一座直边坡的小山脚下从一穴以初始速率和仰角出高尔夫球其中。证明，在山坡上度量的球着地点距离为并此证明，对于给定的初始速率可能达到的最大距离在处出现也就是说，出现在初始速度向量等分山坡和铅垂线之间的夹角的时候。标枪1988年东德运动员佩特拉·费尔科创造了掷标枪262 �决于他想用其中哪一个名称来表达上下文例如，在大多数地图中表示海拔（海平面之上的高度）为常数的曲线称为等值曲线（等高线）而不用层曲线这个名称（见图12.
 
 6）。
---- Page 636 ---
 
 620第12章
 
@@ -4183,7 +4151,6 @@ y,z) = c 的点集构成函数定义域中的曲面。定义 “ 在空间中三
 y,z) = c 的点 (x
 
 y,z) 的集合称为 f 的等值面（或等位面）。
---- Page 637 ---
 
 第12章621
 
@@ -4221,7 +4188,6 @@ y₀,z₀) 是 R 的边界点（见图12.
 
 y,z 全部为正实数）以及空间本身。空间中闭集合的例子包括直线平面，以及闭半空间 z ≥ 0。去除部分边界的立方体或者缺少一个面一条边或一个顶点的立方体它们既非开集合也非
 
---- Page 638 ---
 
 622第12章闭集合。超过三个自变量的函数也是很重要的。例如在空间中曲面上的温度可能不仅依赖于位置点 P(x,y
 
@@ -4253,7 +4219,6 @@ w = csg(1.
 
 10 “ 计算机绘制的典型的二元函数的图形和层曲线
 
---- Page 639 ---
 
 偏导数623
 
@@ -4301,7 +4266,6 @@ A
 
 心手乡二奂
 
---- Page 640 ---
 
 624第12章在习题19 - 28中用两种方式显示函数的值
 
@@ -4375,7 +4339,7 @@ lim [f(x,y)^(r/s)] = L^(r/s)
 
 (x,y)→(x0,y0)
 
-# We will not prove Theorem 1
+We will not prove Theorem 1
 
 but only discuss its correctness informally.
 
@@ -4467,7 +4431,7 @@ Solution We first note that when y = 0
 
 the function values along the line x = 0 are always 0.
 
-# Similarly
+Similarly
 
 when x = 0
 
@@ -4479,7 +4443,7 @@ y) → (0
 
 0), the limit must be 0.
 
-# To verify this conclusion
+To verify this conclusion
 
 we use the definition of the limit.
 
@@ -4505,7 +4469,7 @@ then
 
 |x^2 y^2 / (x^2 + y^2) - 0| ≤ x^2 + y^2 < δ^2 = (√ε)^2 = ε
 
-# Therefore
+Therefore
 
 lim (x^2 y^2) / (x^2 + y^2) = 0
 
@@ -4513,7 +4477,7 @@ lim (x^2 y^2) / (x^2 + y^2) = 0
 
 # 12.2.2 Continuity
 
-# Like single-variable functions
+Like single-variable functions
 
 continuity of multivariable functions is defined using limits.
 
@@ -4537,7 +4501,7 @@ If a function is continuous at every point in its domain
 
 then it is a continuous function.
 
-# Like the definition of limits
+Like the definition of limits
 
 the definition of continuity applies to boundary points as well as interior points of a domain.
 
@@ -4547,7 +4511,7 @@ y0) lies in the domain of f.
 
 A corollary of Theorem 1 is that algebraic combinations of continuous functions are continuous at each point where all functions involved are defined.
 
-# This means sums
+This means sums
 
 differences
 
@@ -4559,11 +4523,11 @@ quotients
 
 and powers of continuous functions are continuous where defined.
 
-# In particular
+In particular
 
 polynomials and rational functions of two variables are continuous at every point where they are defined.
 
-# Example 4 Prove that the function
+Example 4 Prove that the function
 
 f(x,y) = (xy) / (x^2 + y^2) if (x
 
@@ -4613,13 +4577,13 @@ lim f(x,y) = lim f(x,mx) = m / (1 + m^2)
 
 This limit changes as m changes.
 
-# Therefore
+Therefore
 
 as (x,y) approaches (0
 
 0), there is no single value we can call the limit of f.
 
-# Since the limit does not exist
+Since the limit does not exist
 
 the function is not continuous at (0
 
@@ -4627,7 +4591,7 @@ The graph of Example 4 shows that for each value of m
 
 the function takes constant values on the punctured line y = mx (x ≠ 0).
 
-# Therefore
+Therefore
 
 as (x,y) approaches (0
 
@@ -4635,7 +4599,7 @@ as (x,y) approaches (0
 
 f approaches the number m/(1+m^2).
 
-# This limit varies with m
+This limit varies with m
 
 so there is no unique limit value as (x
 
@@ -4651,7 +4615,7 @@ This result is similar to the single-variable case
 
 where left-hand and right-hand limits must be equal.
 
-# Therefore
+Therefore
 
 for single or multivariable functions
 
@@ -4715,7 +4679,7 @@ for m = 1 (the line y = x)
 
 the limit is 0.
 
-# Since the limit varies with the path
+Since the limit varies with the path
 
 by the Two-Path Test
 
@@ -4727,7 +4691,7 @@ Example 5 shows that a function can have the same limit along all straight lines
 
 It can be shown that Example 5's function has limit 0 along all parabolic paths y = kx^2 (k ≠ 0).
 
-# However
+However
 
 a function having the same limit along all straight lines approaching (x0
 
@@ -4735,7 +4699,7 @@ y0) does not guarantee the existence of a limit at (x0
 
 y0).
 
-# Continuity of Composite Functions
+Continuity of Composite Functions
 
 If f is continuous at (x0
 
@@ -4757,7 +4721,7 @@ x^2, cos(x^2), ln(1 + xy)
 
 are continuous at every point (x,y).
 
-# Like single-variable functions
+Like single-variable functions
 
 the general rule is that composite functions of continuous multivariable functions are continuous
 
@@ -4779,7 +4743,7 @@ and composite functions
 
 all extend to functions of three or more variables.
 
-# Functions like
+Functions like
 
 ln(x + y + z) and sin(xyz)
 
@@ -4813,7 +4777,7 @@ For functions of three or more variables
 
 there is a similar result.
 
-# For example
+For example
 
 a continuous function w = f(x
 
@@ -4857,7 +4821,7 @@ lim ((x^2 + y^2)/(x + y))
 
 (x,y)→(0,1) (x,y)→(0,0)
 
-# In Exercises 13-20
+In Exercises 13-20
 
 rewrite the fraction first
 
@@ -4903,7 +4867,7 @@ lim ((x^3 + y^3)/(x^2 + y^2))
 
 (x,y)→(0,0) (x,y)→(0,0)
 
-# In Exercises 27-30
+In Exercises 27-30
 
 at which points in the xy-plane is the function continuous?
 
@@ -4966,7 +4930,6 @@ f(x,y) = {
 (见图12.
 
 18)。
---- Page 653 ---
 
 例8考虑函数 f(x,y) 定义如下:
 
@@ -5018,7 +4981,6 @@ y) = 0
 
 22中的树形图）计算导数，求出
 
---- Page 663 ---
 
 dw/dx = ∂w/∂x + (∂w/∂y)(dy/dx) = 0（定理5取t=x s=y）= F_x + F_y * (dy/dx)
 
@@ -5112,7 +5074,6 @@ z = e^t
 
 t = 1.
 
---- Page 664 ---
 
 z = 4e^u ln v
 
@@ -5303,7 +5264,6 @@ z = sin^{-1}(x/y), x = e^t + ln u
 z = sin(xy), x = u + v, y = uv
 
 求 ∂^2 z/∂u ∂v 在 u = 0, v = π/2的值。
---- Page 665 ---
 
 # 39. 如果
 
@@ -5351,7 +5311,6 @@ w = x y / (x^2 + y^f的方向从P起的弦长我们通过计算在P的变化率d
 
 24）。沿这条直线在P的变化率
 
---- Page 667 ---
 
 函数651
 
@@ -5428,7 +5387,6 @@ D_v f|_(2
 0) = ∇f(2
 
 0)·u = (1)(3/5) + (2)(-4/5) = -5/5 = -1。用公式计算点积（其中θ是两个向量u和v之间的角），揭示方向导数的下述性质。
---- Page 668 ---
 
 函数652
 
@@ -5640,7 +5598,6 @@ A = ∬_R √(f_y²+f_z²+1) dydz (9)
 
 42显示曲面z=f(x,y)。设曲面在平面内区域之上的面积为习题49–54中，利用公式 (8)–(10) 求曲面的面积。# 49. 由平面截抛物面所切下的曲面。# 50. 由平面截抛物面的“鼻子”切下的曲面。# 51. 锥面在平面内的圆和椭圆之间的区域之上的部分。（提示：利用几何公式求区域面积。# 52. 第一卦限的平面从平面切割一角形，用一种方法计算面积，再用一个面积公式。# 53. 由平面和从曲面在第一卦限切割的曲面。# 54. 平面截由抛物线在平面内第一象限切割的区域之上的部分。# 55. 利用参数表示和公式 (5) 推导公式 (8) 中对的面积分公式。# 56. 令是由光滑曲线绕轴旋转得到的曲面，其中。(a) 证明：向量函数是的参数表示，其中是绕轴的旋转角（参见附图）。(b) 利用公式 (4) 证明：这个旋转曲面的面积由
 
---- Page 807 ---
 
 向量场中的积分
 
@@ -5655,7 +5612,6 @@ A = ∬_R √(f_y²+f_z²+1) dydz (9)
 1节）类似。如果是分片光滑的曲面在上连续，那么可以证明由公式 (1) 定义的面积分存在。求面积分的公式：(1) 对于用参数方式定义为的曲面以及在上定义的连续函数在上的面积分由平面上的二重积分给出
 
 (2) 对于用隐式方式以给出的曲面若是连续的可微函数如果位于它下方坐标平面内的闭有界投影区域之上连续函数在上的面积分由它在上的二重积分给出其中是与正交的单位向量，并且。公式 (1) 中的面积分在不同的应用领域有不同的含义。如果取常数值1，积分给出曲面的面积；如果是取曲面形状的壳体的质量密度，积分给出壳体的质量。
---- Page 808 ---
 
 792第14章例1求在抛物面上的积分。解利用公式 (2) 和14.
 
@@ -5699,9 +5655,8 @@ G'(y) = f_y(x + Δx, y)
 
 G(y₀ + Δy) - G(y₀) = G'(η) Δy
 
---- Page 865 ---
 
-# BM RA 849
+BM RA 849
 
 或者或者
 
@@ -5717,7 +5672,6 @@ G(y₀ + Δy) - G(y₀) = G'(η) Δy
 
 Δz = Δz₁ + Δz₂
 
---- Page 866 ---
 
 850 MA OR A
 
@@ -5729,7 +5683,6 @@ y₀, z₀) 处取值的 .
 
 式 (15) 的证明可以通过把 Δw 作为五个增量
 
---- Page 867 ---
 
 附录 B
 
@@ -5813,7 +5766,6 @@ a^4 - b^4 = (a - b)(a^3 + a^2b + ab^2 + b^3)
 
 配完全平方如果 a ≠ 0,
 
---- Page 868 ---
 
 852 ar
 
@@ -5857,7 +5809,6 @@ V = (1/3)Bh V = (1/3)πr^2h
 
 侧面积 = πrs = 侧面积
 
---- Page 869 ---
 
 附录 B 853
 
@@ -5993,11 +5944,10 @@ b < 0
 
 线性规划导论 (Vaserstein, 中、英)
 
---- Page 880 ---
 
 托马斯大学微积分本书主要是受赞赏的《Thomas' Calculus》(托马斯微积分)第十一版的精编版本。这个精编版本保持了原书作为大学数学微积分课程的目标与主题章节题材，使其更适合教学和学习。同时，本书继承和发扬了原作的优点坚持准确性和严谨性突出应用、建模和技能训练利用现代技术手段保持良好的可读性。本书特点：本书力图实现如下教学目标以最有效的方式帮助学生了解微积分的基本概念掌握其分析工具和理论基础获得实际应用能力为他们进一步学习数学科学研究和其他应用领域做好准备。内容组织：采用自上而下的发展方式引入基本思想和方法然后再把积分形式的连续和二元变量微积分结合起来。本书坚持严格的性标准对于重要的概念和内容给出形式化表述对于大部分定理和推论给出严格证明对于某些重要的定理给出明确的直观对于多数需要证明的定理和推论留作习题让学生证明只对少数超出本书范围的定理才留给高等微积分课程去证明。本书旨在帮助学生掌握具体方法和培养解决问题的能力提供了丰富多样的各类习题每一节有巩固主题的习题每一章有综合复习的问题练习题以及补充和提高习题。本书便于将课程与现代计算工具相结合：提供适合CAS（计算机代数系统）使用的题目。# University
 
-# Calculus
+Calculus
 
 www.
 

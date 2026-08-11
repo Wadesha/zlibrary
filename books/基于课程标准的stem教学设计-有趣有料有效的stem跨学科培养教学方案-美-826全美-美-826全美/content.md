@@ -20,7 +20,7 @@ Enthralling and Effective Lesson Plans for Grades 5-8
 
 中国版本图书馆CIP数据核字（2017）第280277号
 
-# STEM to Story
+STEM to Story
 
 Enthralling and Effective Lesson Plans for Grades 5-8
 
@@ -112,7 +112,7 @@ Science Education, 71, 91-103.
 
 Science vocabulary load of selected secondary science textbooks.
 
-# School Science and Mathematics
+School Science and Mathematics
 
 95(5), 231-235
 

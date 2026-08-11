@@ -1,32 +1,32 @@
 # 目录
 
-# Contents
+Contents
 
 总序英文版致谢费慰梅中文版序吴良镛译叙梁从诫前言中国建筑的结构体系起源曲面屋顶与斗栱两部文法书佛教传入以前和石窟中所见的木构架建筑之佐证间接资料中的佐证汉代的佐证石窟中的佐证木构建筑重要遗例豪劲时期（约公元850—1050年）醇和时期（约公元1000—1400年）羁直时期（约公元1400—1912年）佛塔古拙时期（约公元500—900年）繁丽时期（约公元1000—1300年）杂变时期（约公元1280—1912年）其他砖石建筑陵墓券顶建筑桥台牌楼梁思成传略费慰梅附录：英文版编辑方法
 
-# Acknowledgments
+Acknowledgments
 
-# Foreword
+Foreword
 
 Liang Ssu-ch'eng: A Profile      Editorial Method      Maps: Locations of Monuments Mentioned in Liang's Text
 
-# Preface
+Preface
 
-# The Chinese Structural System
+The Chinese Structural System
 
-# Origins
+Origins
 
-# Two Grammar Books
+Two Grammar Books
 
 Pre-Buddhist and Cave-Temple Evidence of Timber-Frame Architecture
 
-# Indirect Material Evidence
+Indirect Material Evidence
 
-# Han Evidence
+Han Evidence
 
-# Cave-Temple Evidence
+Cave-Temple Evidence
 
-# Monumental Timber-Frame Buildings
+Monumental Timber-Frame Buildings
 
 The Period of Vigor (ca.
 
@@ -40,7 +40,7 @@ The Period of Rigidity (ca.
 
 1400-1912)
 
-# Buddhist Pagodas
+Buddhist Pagodas
 
 The Period of Simplicity (ca.
 
@@ -54,15 +54,15 @@ The Period of Variety (ca.
 
 1280-1912)
 
-# Other Masonry Structures
+Other Masonry Structures
 
-# Tombs
+Tombs
 
-# Vaulted Buildings
+Vaulted Buildings
 
-# Bridges
+Bridges
 
-# Terraces
+Terraces
 
 P'ai-lou Gateways      Chinese Dynasties and Periods Cited in the Text 中国朝代和各时期与公元年代对照表      Glossary of Technical Terms 技术术语一览      Guide to Pronunciation 汉字拼音法指南      Selected Bibliography 部分参考书目梁思成（1901-1972）中国建筑史学家建筑师、城市规划师和教育家一生致力于保护中国古代建筑和文化遗产。曾任中央研究院院士、中国科学院哲学社会科学学部委员。A Pictorial History of Chinese Architecture
 
@@ -184,9 +184,9 @@ a 平面及详图 b 崖墓外景
 
 11 Han rock-cut tombs near Chiang-k'ou.
 
-# Peng-shan
+Peng-shan
 
-# Szechuan
+Szechuan
 
 a Plans and details b A tomb
 
@@ -212,9 +212,9 @@ These piers imitate contemporary simple wood construction.
 
 16 Han funerary clay house model
 
-# Nelson-Atkins Museum
+Nelson-Atkins Museum
 
-# Kansas City
+Kansas City
 
 Missouri.
 
@@ -232,7 +232,7 @@ The two corner towers flanking the gate are similar to the stone ch'üeh found i
 
 17 Detail of an interior doorway
 
-# Yun-kang Caves
+Yun-kang Caves
 
 near Ta-t'ung, Shansi, 450-500   我们可以从两方面来研究云冈石窟的建筑：（1）研究石窟本身，包括其内外建筑手法；（2）从窟壁浮雕所表现的建筑物上研究当时的木构和砖石建筑（图18）。浮雕中有许多殿堂和塔的刻像，这些建筑当时曾遍布于华北和华中的平原和山区。图18云冈石窟所表现之北魏建筑
 
@@ -260,7 +260,7 @@ near Ta-t'ung, Shansi, 450-500   我们可以从两方面来研究云冈石窟�
 
 701—704年）22 A temple hall of the T'ang dynasty, engraved relief from the Tayen T'a (wild Goose Pagoda)
 
-# Sian Shensi
+Sian Shensi
 
 701-704
 
@@ -276,7 +276,7 @@ Fo-kuang Ssu.
 
 Wu-t'ai Shan, Shansi, 857    图24a 全景右上方为大殿，左侧长屋顶为后来所建的文殊殿    24a General view.
 
-# The Main Hall is at upper right
+The Main Hall is at upper right
 
 the long roof at left is the later Wen-shu Tien
 
@@ -316,9 +316,9 @@ Liang at tripod in foreground.
 
 25 Kuan-yin Ke
 
-# Tu-le Ssu
+Tu-le Ssu
 
-# Chi Hsien
+Chi Hsien
 
 Hopei, 984
 
@@ -374,7 +374,7 @@ upper story
 
 26 Main Gate (Shan Men)
 
-# Tu-le Ssu
+Tu-le Ssu
 
 图26a 院内所见山门全貌
 
@@ -406,11 +406,11 @@ a characteristic that was modified in fifty years and later drastically changed
 
 27 Main Hall
 
-# Feng-kuo Ssu
+Feng-kuo Ssu
 
-# I Hsien
+I Hsien
 
-# Liaoning
+Liaoning
 
 1020
 
@@ -438,11 +438,11 @@ The plate above the lintel signals the beginning of a practice that became very 
 
 图28河北宝坻县广济寺三大士殿建于1025年［已毁］28 San-ta-shih Tien
 
-# Main Hall
+Main Hall
 
-# Kuang-chi Ssu
+Kuang-chi Ssu
 
-# Pao-ti
+Pao-ti
 
 Hopei, 1025 (Destroyed)
 
@@ -460,7 +460,7 @@ The ties and beams in the interior are assembled with tou-kung at their points o
 
 29 Library
 
-# Hua-yen Ssu
+Hua-yen Ssu
 
 Ta-t'ung, Shansi, 1038    图29a 正立面图    29a Front elevation      29b    图29b 西立面图    29b Elevation of interior Wall sutra cabinet      29c    图29c 壁藏圜桥细部    29c Detail of cabinetwork, arched bridge      29d    图29d 壁藏细部这是所见最早的斜向华栱实例    29d Detail of cabinetwork, showing diagonal hua-kung, one of the earliest appearances of this architectural form   薄伽教藏殿的斗栱与观音阁相似，但内部结构为天花所遮。沿殿内两侧及后墙为藏经的壁橱做工精致，极富建筑意味是当时室内装修（小木作）的一个实例。其价值不仅在这里，而且还在于它是《营造法式》中所谓壁藏的一个实例。同时也可作为研究辽代建筑的一座极好模型。殿内还有一批出色的佛像和菩萨像。配殿规模较小，为悬山顶。斗栱简单。值得注意的是，在栌斗中用了一根替木，作为华栱下面的一个附加的半栱。这种特别的做法只见于极少数辽代建筑，以后即不再见。华严寺建筑群的另一异常的特点是朝向。与主体建筑朝南的正统做法不同，这里的主要建筑都朝东。这是契丹人的古老习俗，他们早先崇拜太阳神，认为东是四方之首。善化寺是大部分保存了原来布局的一个建筑群（图30a，b）。从现存情况来看，原建筑群包括一条主轴线和两条横轴线上的七座殿。整群建筑原先四周有长廊围绕。但现在已毁，仅存基石。七座殿中只有两院一侧的一座阁被毁，其余六座仍是辽金时代原物。各殿之间的走廊及僧房已不存。30a
 
@@ -532,9 +532,9 @@ cross section
 
 31 Wooden Pagoda
 
-# Fo-kung Ssu
+Fo-kung Ssu
 
-# Ying Hsien Shansi
+Ying Hsien Shansi
 
 1056
 
@@ -578,7 +578,7 @@ the three upper stories and all the balconies use hua-kung only
 
 图33山西榆次附近永寿寺雨华宫建于1008年（已毁）33 Yu-hua Kung
 
-# Yung-shou Ssu
+Yung-shou Ssu
 
 near Yu-tz'u, Shansi, 1008 (Destroyed)    图33a 全景    33a General view      33b    图33b 外廊上部构架    33b Framing over porch      33c    图33c 永寿寺雨华宫半立面及半纵断面图    33c Elevation and longitudinal section      33d    图33d 永寿寺雨华宫平面及断面图    33d Plan and cross section   这座建筑既不宏伟，又已破败，因而乍看起来并不引人。但它那种令人愉快的美却逃不过内行的眼睛。斗栱极其简单，单抄单下昂，耍头作成昂嘴形，斜置，使之看上去像是双下昂。斗栱在比例上较大，略小于柱高的三分之一，因此补间铺作事实上就被取消了。内部梁架为彻上露明造包括昂尾在内的各个露明构件都如此简洁地结合在一起看得出是遵循着严密逻辑而得出的必然结果。正定的一组建筑河北正定县的隆兴寺保存了一批早期的宋代建筑物。寺的山门尽管保存得还不错却是18世纪（清乾隆时期）重修后的混合物一些按清式的小斗栱竟被生硬地塞进巨大的宋代斗栱原物之间显得不伦不类。寺的大殿名为摩尼殿（图34a，b），殿平面近正方形，重檐。四面各出抱厦，抱厦屋顶以山墙朝向正面［“出际”向前］。这种做法常可见于古代绘画，但实物却很难得。斗栱大而敦实，虽然每间只用补间铺作一朵，但有辽代惯用的斜栱。檐柱明显地向屋角渐次加高，给人以一种和缓感。34a
 
@@ -586,9 +586,9 @@ near Yu-tz'u, Shansi, 1008 (Destroyed)    图33a 全景    33a General view     
 
 34 Lung-hsing Ssu
 
-# Cheng-ting
+Cheng-ting
 
-# Hopei
+Hopei
 
 图34a 摩尼殿平面图
 
@@ -598,7 +598,7 @@ near Yu-tz'u, Shansi, 1008 (Destroyed)    图33a 全景    33a General view     
 
 图34b 摩尼殿建于宋初约1030年（？）（1978年该殿大修时多处发现墨迹题记证明系建于北宋皇祐四年即1052年）34b Mo-ni Tien
 
-# Main Hall
+Main Hall
 
 early Sung
 
@@ -670,7 +670,7 @@ the revolving sutra cabinet
 
 Chin-tz'u, near T'ai-yuan
 
-# Shansi
+Shansi
 
 early Sung
 
@@ -722,7 +722,7 @@ interior of porch
 
 39 Wen-shu Tien (Hall of Manjusri)
 
-# Fo-kuang Ssu
+Fo-kuang Ssu
 
 图39a 全景
 
@@ -756,13 +756,13 @@ Ching-t'u Ssu, Ying Hsien, Shansi, 1124    图41a 正面    41a Facade      41b 
 
 42 Front Hall
 
-# Shan-hua Ssu
+Shan-hua Ssu
 
 Ta-t'ung, Shansi, 1128-1143    图42a 全景    42a General view      42b    图42b 正面细部其中可见补间铺作中的斜栱    42b Detail of facade, showing diagonal kung in inter-mediate bracket sets      42c    图42c 纵断面图    42c Longitudinal section      42d    图42d 次间横断面图    42d Cross section      42e    图42e 平面及梁架平面图    42e Plan and roof framing      43a    图43善化寺山门建于1128—1143年    43 Shan-men, Main Gate, Shan-hua Ssu, 1128-1143    图43a 全景    43a General view      43b    图43b 平面及断面图    43b Plan and cross section   善化寺山门在同类建筑中可能是最为夸张的一个（图43）。这个五间的山门显然比某些小寺的正殿还要大。其斗栱较简单，未用斜栱。这里使用了当时北方已很少见的月梁。南宋王朝与金同时。目前所知，在南方这一时期的木构建筑唯一留存至今的是江苏苏州道教建筑玄妙观的三清殿〔2〕虽然它建于1179年［南宋淳熙六年］距《营造法式》刊出年代不过七十来年却已把当时那种豪劲风格丧失了许多。与和它同时甚至更晚的北方建筑比起来它显得过分雕琢特别值得注意的是斗栱与整座建筑的比例变小了。醇和时期的最后阶段在北方和南方都有相当一批建于醇和时期最后150年间的建筑实例留存了下来。在此期间，斗栱有了许多重要的变化。其一是假昂的普遍使用，其最早实例见于晋祠；另一是耍头，即柱头铺作上梁的外端（蚂蚱头）的增大（图37）。由于斗栱随着时代的演变而缩小，依旧制应相当于一材的耍头在结构上就显得过于脆弱了。因此，从比例上说，这时期的耍头就必须大于一材。而为了承受它，下面的华栱也得相应加宽。（到了《工程做法则例》出版的时代即1734年［清雍正十二年］柱头铺作上耍头的宽度已扩大到40分即四斗口，较之宋代的比例要大四倍。而最下一跳华栱的宽度也比旧制增大了一倍，即从10分增至20分，即二斗口。）河北正定县阳和楼（约1250年）［金末或元初］是醇和末期建筑的一个极好实例。这是一座七间的类似望楼的建筑建于一座很高的砖台上台下有两条发券门洞形若城门。楼台位于城内主要大道上，像是某种纪念性建筑物（图44）。其斗栱看去有如双下昂，实际上柱头铺作两跳昂都是假的，补间铺作的昂则一真一假。阑额中段形似隆起，两端刻作假月梁状，当然实际上它并不是弓形的。这种做法尚可见于少数其他元代建筑。44a
 
 图44河北正定阳和楼约建于1250年［已毁］44 Yang-ho Lou
 
-# Cheng-ting
+Cheng-ting
 
 Hopei, ca.
 
@@ -784,13 +784,13 @@ Hopei, ca.
 
 45 Te-ning Tien
 
-# Main Hall
+Main Hall
 
-# Pei-yueh Miao
+Pei-yueh Miao
 
 Ch'u-yang, Hopei, 1270    图45a 全景    45a General view      45b    图45b 下檐斗栱    45b Interior view of tou-kung supporting porch roof      45c    图45c 平面图    45c Plan      图46山西赵城洪洞广胜寺明应王殿［水神庙］约建于1320年    46 Ming-ying-Wang Tien (Temple of the Dragon King), Kuang-sheng Ssu, Chao-ch'eng
 
-# Shansi
+Shansi
 
 1320
 
@@ -806,7 +806,7 @@ Chao-ch'eng, Shansi, late Yuan or early Ming    图47a 山门    47a Main Gate  
 
 48 Main Hall
 
-# Yen-fu Ssu
+Yen-fu Ssu
 
 Hsuan-p'ing, Chekiang, 1324-1328    图48a 全景    48a General view      48b    图48b 梁架    48b Interior view of tou-kung   地处西南的云南省也有少数元代建筑遗例。值得注意的是这些边远省份的建筑虽然在整体比例上常常赶不上东部文化中心地区的演变但在模仿当时建筑手法的某些细部方面却相当敏锐。这些建筑在整体比例上属于12或13世纪的，在细部处理上却属于14世纪的。羁直时期（约公元1400—1912年）自15世纪初（明王朝）定都北京时起主要在宫廷建筑中出现了一种与宋元时代迥然不同的风格。这种转变来得很突然仿佛某种不可抗拒的力量突然改变了匠师们的头脑使他们产生了一种全然不同于过去的比例观。甚至在明朝的开国皇帝洪武年间（1368—1398年），建筑还保留着元代形制。这种醇和遗风的最后范例可以举出山西大同的城楼（1372年）［洪武五年］和鼓楼（可能也建于同年）以及四川省峨眉山飞来寺的飞来殿（1391年）［洪武二十四年］。在这个新都的建筑中，斗栱在比例上的突然变化是一望而知的（图32）。在宋代，斗栱一般是柱高的一半或三分之一，而到了明代，它们突然缩到了五分之一。在12世纪以前，补间铺作从不超过两朵，而现在却增至四或六朵，后来甚至是七八朵。这些补间铺作不仅不能再以巧妙的出跳分担出檐的荷载而且连它们本身也成了阑额［清称额枋］的负担。过去，阑额的功能是联系多于负重，现在却不得不加大尺寸以承受这额外的负担。普拍枋［清称平板枋］与下面的阑额已不再呈T字形而是与后者同宽有时甚至还要略窄因为它上面那缩小了的斗栱中的纤小栌斗［清称坐斗］并不需要垫一条过宽的板材。在斗栱本身的做法上，也有一些其他重大变化。由于大得不合比例的梁直接落到了柱头铺作上，那种带长尾的昂已经无用武之地了。而在那些从外观效果上需要昂的地方便一律用上了假昂。但是在补间铺作的内面，昂尾却被广泛用作为一种装饰性而非结构性的构件。昂尾上增加了许多华而不实的附加雕刻装饰。特别是所谓三福云在宋代本是偶尔用于偷心华栱中的一根简单的纵向翼状构件现在却发展为附在昂尾上的云朵。这种昂尾也不再是下端成喙状而斜置着的下昂的上端了。现在的昂嘴已是华栱的延伸部分，成为一种假昂。而昂尾则是一些平置构件如耍头或栱枋头（华栱上面的一根小枋）后面的延伸部分。当这种平置构件伸出一根往上翘的长尾时，它看起来有点像是曲棍球棍。它们已不再是支承檐檩的杠杆，反而成了一种累赘，要用外加的枋来支承。这时的斗栱，除了柱头铺作而外，已成了纯粹的装饰品。在支承屋顶的梁架中，已完全不用斗栱。尺寸比过去加大了的梁现已直接安放在柱顶或瓜柱上檩则直接由梁头来支撑不再借助于栱也不用叉手或托脚支撑；而脊檩的荷载完全由壮实的侏儒柱来承担。柱的分配非常规则，以致建筑的平面变成了一个棋盘形。在约1400年以后，极少有为了实用目的而抽减柱子以加大空间的做法。永乐皇帝的陵墓（明长陵）这种形式的建筑现存最早的实物是河北省（今属北京市）昌平县明十三陵内明成祖［永乐］的长陵稜恩殿建于1403—1424年间［永乐］。明代后继的诸帝后都葬在这一带，但长陵的规模最大，独据中央。稜恩殿（图49）为陵寝的主要建筑，九间重檐，下有三层白石台基。它几乎完全仿照永乐帝在皇宫中听政的奉天殿（见下文）而建。其斗栱在比例上极小，但昂尾却特长。补间铺作有八攒之多，都是纯装饰性的。在这一时期的最初阶段，这么小的斗栱和这么多的补间铺作都是少见的。然而，这座建筑的整个效果还是极其动人的。49a
 
@@ -818,37 +818,37 @@ Emperor Yung-lo's Tomb, the Ming Tombs, Ch'ang-p'ing, Hopei, 1403-1424    图49a
 
 50 Hsiang Tien
 
-# Sacrificial Hall
+Sacrificial Hall
 
 She-chi T'an, Forbidden City, Peking, 1421      图51北京皇城内太庙1545年重建    51 T'ai Miao
 
-# Imperial Ancestral Temple
+Imperial Ancestral Temple
 
-# Imperial Palace
+Imperial Palace
 
-# Forbidden City
+Forbidden City
 
 Peking.
 
-# Rebuilt 1545
+Rebuilt 1545
 
  故宫三大殿中的最后一座原名建极殿［后改称保和殿］是1615年［明万历四十三年］在一次火灾后重建的（图52）。1644年明朝覆灭时故宫遭焚
 
 1679年［清康熙十八年］故宫又一次失火三大殿的前面两座均被毁独建极殿幸免于难。此殿与清《工程做法则例》（1734年）［雍正十二年］时期的其他建筑无论在整体比例上还是在细节上都大体相同以致若非在藻井以上发现了每一构件上都有以墨笔标明的“建极殿”某处用料字样人们是很难确认它为清代以前遗构的。图52北京故宫保和殿建于1615年［原图注“后来曾重建”有误］52 Pao-ho Tien (formerly Chien-chi Tien)
 
-# Imperial Palace
+Imperial Palace
 
-# Peking
+Peking
 
 1615.
 
-# Later rebuilt
+Later rebuilt
 
  山东曲阜孔庙奎文阁（1504年）［明弘治十七年］高二层，是明代官式做法的一个引人注意的实例（图53）。但是，看来这种羁直的风格影响所及并没有超出北京以外多远。确切地说，并未超出按宫廷命令和官式制度兴建的那些建筑的范围以外。在清帝国的其他地区，匠师们要比宫廷建筑师自由得多。全国到处都可以见到那种多少仍承袭着旧传统的建筑物如四川梓潼县文昌宫内的天尊殿［建于明中叶］和四川蓬溪县鹫峰寺的建筑群（始建于1443年）［明正统八年］都是其中杰出的实例。53a
 
 图53山东曲阜孔庙奎文阁建于1504年［明弘治十七年］53 Library
 
-# Temple of Confucius
+Temple of Confucius
 
 Ch'ü-fu, Shantung, 1504    图53a 全景    53a General view      53b    图53b 平面及断面图    53b Plan and cross section     北京的清代建筑清代（1644—1912年）的建筑只是明代传统的延续。在1734年［雍正十二年］《工程做法则例》刊行之后，一切创新都被窒息了。在清朝268年的统治时期中所有的皇家建筑都千篇一律这一点是任何近代极权国家都难以做到的。在紫禁城宫内皇陵和北京附近的无数庙宇中的绝大多数建筑都同属这一风格（图54—57）。它们作为一些单个建筑物，特别是从结构的观点来看，并不值得称道。但从总体布局来说，它却举世无双。这是一个规模上硕大无朋的宏伟布局。从南到北，贯穿着一条长约两英里（三公里左右）的中轴线两边对称地分布着绵延不尽的大道庭院、桥、门柱廊、台、亭宫、殿等等，全都按照完全相同的严格根据《工程做法则例》的风格建造这种设计思想本身就是天子和强大帝国的最适当的表现。在这种情况下，由于严格的规则而产生的统一性成了一种长处而非短处。如果没有这些刻板的限制，皇宫如此庄严宏伟之象也就无从表现了。图54北京故宫西华门建于清代
 
@@ -856,7 +856,7 @@ Ch'ü-fu, Shantung, 1504    图53a 全景    53a General view      53b    图53b
 
 a gate of the Forbidden City
 
-# Peking
+Peking
 
 Ch'ing dynasty      55a    图55北京故宫角楼建于清代    55 Corner tower of the Forbidden City, Peking, Ch'ing dynasty
 
@@ -874,11 +874,11 @@ Ch'ing dynasty      55a    图55北京故宫角楼建于清代    55 Corner towe
 
 图56北京故宫文渊阁建于1776年［清乾隆四十一年］56 Wen-yuan Ke
 
-# Imperial Library
+Imperial Library
 
-# Forbidden City
+Forbidden City
 
-# Peking
+Peking
 
 1776
 
@@ -896,13 +896,13 @@ Ch'ing dynasty      55a    图55北京故宫角楼建于清代    55 Corner towe
 
 57 Imperial Palaces
 
-# Forbidden City
+Forbidden City
 
-# Peking
+Peking
 
 Ming and Ch'ing dynasties.
 
-# Site plan
+Site plan
 
  然而这个布局却有一个重大缺陷看来其设计者完全忽略了那些次要横轴线也许可以说是无力解决这个问题。甚至就在主轴线上各殿两侧布置建筑时，其纵横轴线之间的关系也往往不甚协调。故宫内的各建筑群几乎都有这个问题特别是中轴线两侧的各个庭院尽管在它本身的四面围墙之内是平衡得很好的——每一群都有一条与主轴线平行的南北轴线——但在横向上却与主轴线没有明确的关系。虽然强调主轴线是中国建筑布局的突出特征之一这可以从全国所有的庙宇和住宅平面中看出。但几乎难以置信的是设计者怎能如此重视一个方向上轴线的对称同时却全然无视另一方向上轴线的处理。太和殿是故宫中主要的听政殿也是整座皇城的中心是各殿中最宏伟的一座单幢建筑（图58）。它共有六行柱子每行十二根，广十一间进深五间，庑殿重檐顶是中国现存古代单幢建筑中最大的一座。殿内七十二根柱子排列单调而规整，虽无巧思，却也颇为壮观。大殿建在一个不高的白石阶基上下面则是三层带有栏杆的台阶上面饰有极其精美的雕刻。殿为1679年［康熙十八年］火灾后重建其建造年代不早于1697年［康熙三十六年］。58a
 
@@ -914,7 +914,7 @@ Ming and Ch'ing dynasties.
 
 Ch'ü-fu, Shantung, 1730    图60a 大成殿正面    60a Ta-ch'eng Tien
 
-# Main Hall
+Main Hall
 
 facade
 
@@ -970,7 +970,7 @@ plans and elevations
 
 near Tsinan
 
-# Shantung
+Shantung
 
 544
 
@@ -992,9 +992,9 @@ near Tsinan
 
 64d Tomb Pagoda of Ching-tsang
 
-# Hui-Shan Ssu
+Hui-Shan Ssu
 
-# Teng-feng
+Teng-feng
 
 Honan, 746
 
@@ -1010,7 +1010,7 @@ plan
 
 图64f 少林寺行钧禅师墓塔建于926年［后唐天成元年］64f Tomb Pagoda of Hsing-chun
 
-# Shao-lin Ssu
+Shao-lin Ssu
 
 926
 
@@ -1024,7 +1024,7 @@ plan
 
 65a Ta-yen T'a, plan      65b    图65b 陕西西安慈恩寺大雁塔建于701—704年    65b Ta-yen T'a (Wild Goose Pagoda)
 
-# Tzu-en Ssu
+Tzu-en Ssu
 
 Sian, Shensi
 
@@ -1036,7 +1036,7 @@ Sian, Shensi
 
 65c Hsiang-chi Ssu T'a, Sian, Shensi, 669      65d    图65d 西安兴教寺玄奘塔建于669年    65d Hsuan-tsang T'a
 
-# Hsing-chiao Ssu
+Hsing-chiao Ssu
 
 Sian, Shensi
 
@@ -1070,9 +1070,9 @@ Sian, Shensi
 
 66a Plan of Sung-yueh Ssu T'a      66b    图66b 河南登封嵩山嵩岳寺塔建于520年    66b Sung-yueh Ssu T'a
 
-# Teng-feng
+Teng-feng
 
-# Sung Shan
+Sung Shan
 
 Honan, 520
 
@@ -1084,7 +1084,7 @@ Honan, 520
 
 66c Yung-t'ai Ssu T'a
 
-# Teng-feng
+Teng-feng
 
 Honan, eighth century
 
@@ -1140,13 +1140,13 @@ Tali, site plan
 
 图66k 北京房山云居寺石塔图中可见四座唐代小石塔（建于711—727年）中之两座及主塔基座主塔系辽代所建［原图注中后一年代有误已根据图63注改正］66k Stone Pagodas of Yun-chu Ssu
 
-# Fang Shan
+Fang Shan
 
 Hopei, showing two of four small T'ang pagodas (711-722) and base of large central pagoda, a Liao substitution      66l    图66l 房山云居寺唐代小石塔细部    66l Detail of a small T'ang pagoda
 
-# Yun-chu Ssu
+Yun-chu Ssu
 
-# Fang Shan
+Fang Shan
 
  窣堵坡约在10世纪末出现了一种比前述任何类型都更具印度色彩的塔。塔身近半球形的印度窣堵坡式墓塔，在敦煌石窟壁画中随处可见。这一时期中的实例虽在新疆地区有不少但在中原一带却罕见唯山西五台山佛光寺内有一例。然而，后来窣堵坡终究还是在中国站住了脚。此点在下文中论及杂变时期时再谈。繁丽时期（约公元1000—1300年）繁丽时期大体开始于10世纪末结束于13世纪末即五代、两宋以及辽金时期。这个时期塔的特征是平面呈八角形并开始用砖石在塔内砌出横向和竖向的间隔形成回廊和固定的楼梯。这种间隔与过去的筒形结构相比，使塔的内观大异其趣。但这种构思也并非新创因为早在6世纪中期它就曾一度出现于神通寺的四门塔中（图64a）。现存最早的八角形塔是746年［唐天宝五年］所建净藏禅师墓塔（图64d
 
@@ -1158,13 +1158,13 @@ c）和易县的千佛塔（图67a）。67a
 
 67 Multi-storied Pagodas of the Timber-frame Subtype
 
-# North China
+North China
 
 图67a 河北易县千佛塔（已毁于抗日战争时期）67a Ch'ien-fo T'a
 
-# I Hsien
+I Hsien
 
-# Hopei
+Hopei
 
 67b
 
@@ -1172,9 +1172,9 @@ c）和易县的千佛塔（图67a）。67a
 
 67b Detail of North Pagoda
 
-# Yun-chu Ssu
+Yun-chu Ssu
 
-# Cho Hsien
+Cho Hsien
 
 67c
 
@@ -1206,17 +1206,17 @@ c）和易县的千佛塔（图67a）。67a
 
 68 Multi-storied Pagodas of the Timber-frame Subtype
 
-# South China
+South China
 
 图68a 浙江杭州灵隐寺双石塔建于960年
 
 68a Twin Pagodas
 
-# Ling-yin Ssu
+Ling-yin Ssu
 
-# Hangchow
+Hangchow
 
-# Chekiang
+Chekiang
 
 960
 
@@ -1226,7 +1226,7 @@ c）和易县的千佛塔（图67a）。67a
 
 68b Detail of one Twin Pagoda
 
-# Ling-yin Ssu
+Ling-yin Ssu
 
  南方型真正的塔的实例有江苏苏州［吴县］罗汉院的双塔（982年）［北宋太平兴国七年］（图68c—e）和虎丘塔（图68f一g）。与同期的北方型相比，它们在通体比例上显然较为纤细。这一特点由于塔顶有细长的金属刹，而塔下又没有高的须弥座而显得更为突出。从细部上看，这类塔的柱较短，但柱身卷杀微弱；斗栱较简单，第一跳偷心，又不用斜栱。在层数不多的叠涩檐内，用菱角牙子以象征椽头。因而出檐很浅，使塔在轮廓上迥然不同于北方型。68c
 
@@ -1234,11 +1234,11 @@ c）和易县的千佛塔（图67a）。67a
 
 68c Twin Pagodas
 
-# Lo-han Yuan
+Lo-han Yuan
 
-# Soochow
+Soochow
 
-# Kiang-su
+Kiang-su
 
 982, rendering
 
@@ -1248,7 +1248,7 @@ c）和易县的千佛塔（图67a）。67a
 
 68d Twin Pagodas
 
-# Lo-han Yuan
+Lo-han Yuan
 
 plans, section
 
@@ -1260,7 +1260,7 @@ and details
 
 68e Detail of one Twin Pagoda
 
-# Lo-han Yuan
+Lo-han Yuan
 
 68f
 
@@ -1268,9 +1268,9 @@ and details
 
 68f Tiger Hill Pagoda
 
-# Soochow
+Soochow
 
-# Kiangsu
+Kiangsu
 
 68g
 
@@ -1288,11 +1288,11 @@ and details
 
 69a P'i-chih T'a
 
-# Ling-yen Ssu
+Ling-yen Ssu
 
-# Ch'ang-ch'ing
+Ch'ang-ch'ing
 
-# Shantung
+Shantung
 
 late eleventh century
 
@@ -1302,7 +1302,7 @@ late eleventh century
 
 69b Liao-ti T'a, K'ai-yuan Ssu
 
-# Ting Hsien
+Ting Hsien
 
 Hopei, 1001
 
@@ -1316,7 +1316,7 @@ e），塔为多层转角处略微隐起倚柱通体敷以琉璃砖其色如铁�
 
 69d The "Iron-Pagoda"
 
-# Yu-kuo Ssu
+Yu-kuo Ssu
 
 K'aifeng, Honan, 1041      69e    图69e 祐国寺铁塔平面图    69e "Iron Pagoda", plan   其实，真正的铁塔在宋代也是有的。这种塔一般都很小，体形高瘦，这是其制作材料——铸铁所使然。这种微型塔与杭州石塔一样实际上是一种塔形经幢其遗例可见于湖北当阳玉泉寺和山东济宁。密檐塔唐亡之后，密檐塔仅见于辽金统治地区，也是今天华北地区最常见的一种塔型。由于模仿木构，此时的这类塔与其古拙时期的先型相比，已大为改观。除少数罕见的例外，它们为八角形平面，但结构上已是实心砌筑而无法登临了。塔的下面无例外地都有一个很高的须弥座，再下又常筑有一个低而广的台基。主层转角处有倚柱，墙上隐起阑额和假门窗。各层出檐常以逼真的砖砌斗栱支承，但用叠涩出檐的也很常见。有时两种做法并用，遇此则只限于最下一层檐用斗栱。这类塔最著名的一例是北京的天宁寺塔（图70a）。在其须弥座之上还有一层莲瓣形平座。塔上假门两侧有金刚像，假窗两侧则有菩萨像。塔建于11世纪，后世曾任意重修。70a（左）图70密檐塔
 
@@ -1326,7 +1326,7 @@ K'aifeng, Honan, 1041      69e    图69e 祐国寺铁塔平面图    69e "Iron P
 
 70a T'ien-ning Ssu T'a
 
-# Peking
+Peking
 
 eleventh century
 
@@ -1334,9 +1334,9 @@ eleventh century
 
 70b Tomb Pagoda of Chen-chi
 
-# Po-lin Ssu
+Po-lin Ssu
 
-# Chao Hsien
+Chao Hsien
 
 Hopei, 1228
 
@@ -1364,7 +1364,7 @@ plan and elevation
 
 71a Dhanari column
 
-# Fo-kuang Ssu
+Fo-kuang Ssu
 
 857
 
@@ -1374,7 +1374,7 @@ plan and elevation
 
 71b Dhanari column
 
-# Chao Hsien
+Chao Hsien
 
 Hopei, early Sung dynasty
 
@@ -1384,17 +1384,17 @@ Hopei, early Sung dynasty
 
 72 Period of Variety
 
-# Multi-storied Pagodas
+Multi-storied Pagodas
 
 图72a 山西太原永祚寺双塔建于1595年
 
 72a Twin Pagodas
 
-# Yung-chao Ssu
+Yung-chao Ssu
 
-# Taiyuan
+Taiyuan
 
-# Shansi
+Shansi
 
 1595
 
@@ -1404,7 +1404,7 @@ Hopei, early Sung dynasty
 
 72b Fei-hung T'a, Kuang-sheng Ssu, Chao-ch'eng
 
-# Shansi
+Shansi
 
 1515
 
@@ -1418,11 +1418,11 @@ Hopei, early Sung dynasty
 
 72d Square Pagoda
 
-# Ta-yun Ssu
+Ta-yun Ssu
 
-# Lin-fen
+Lin-fen
 
-# Shansi
+Shansi
 
 1651
 
@@ -1432,9 +1432,9 @@ Hopei, early Sung dynasty
 
 72e Feng-sheng Ssu T'a, Chin-tz'u
 
-# Taiyuan
+Taiyuan
 
-# Shansi
+Shansi
 
 72f
 
@@ -1446,9 +1446,9 @@ Hopei, early Sung dynasty
 
 图73c 河南安阳天宁寺塔（原文误为北京八里庄慈寿寺塔原图亦改换）73c Tz'u-shou Ssu T'a
 
-# Pa-li-chuang
+Pa-li-chuang
 
-# Peking
+Peking
 
 1578
 
@@ -1468,13 +1468,13 @@ Hsing-t'ai, Hopei, ca.
 
 73 Period of Variety
 
-# Multi-eaved Pagodas
+Multi-eaved Pagodas
 
 图73a 北京八里庄慈寿寺塔［原文误河南安阳天宁寺塔］73a T'ien ning Ssu T'a
 
-# Anyang
+Anyang
 
-# Honan
+Honan
 
  北京玉泉山塔建于18世纪是一座小型园林建筑。这是清代的一个有趣的创新可说是多层与密檐的结合型共三层，一、二层各有两重檐第三层则有三重檐看起来很别致。其平面虽是八角形，但并不等边，严格地说是削去四角的正方形。全塔以琉璃饰面，立面忠实地模仿了木构建筑。喇嘛塔如前所述，建于10世纪晚期的山西五台山佛光寺的半球形墓曾是喇嘛塔的先驱。其后，金代的一些墓塔也采用过这一形式；但直到元代，才正式成为雄伟建筑物的一种形制。此时，它又出现了一些新的形式，即在一个高台上筑一座瓶状建筑；台基一般为单层或双层须弥座平面呈亞字形台上有塔肚子和瓶颈状的“十三天”
 
@@ -1484,7 +1484,7 @@ Hsing-t'ai, Hopei, ca.
 
 74 Period of Variety
 
-# Lamaist Stupas
+Lamaist Stupas
 
 图74a 北京妙应寺白塔建于1271年
 
@@ -1504,7 +1504,7 @@ Wu-t'ai Shan, Shansi, 1577   山西代县善果寺塔也建于明代，但确实
 
 75 Period of Variety
 
-# Five-pagoda Clasters
+Five-pagoda Clasters
 
 图75a 北京大正觉寺即五塔寺塔建于1473年
 
@@ -1548,7 +1548,7 @@ Ch'ang-ping, Hopei, 1415, showing "radiant tower"(ming-lou) set on "square basti
 
 76d Tomb of Ch'ing emperor Chia-ch'ing
 
-# I Hsien
+I Hsien
 
 Hopei, 1820
 
@@ -1568,9 +1568,9 @@ site plan and elevation
 
 T'aiyuan, Shansi, 1597      77b    图77b 永祚寺砖殿平面图    77b Yung-chao Ssu, plan      77c    图77c 江苏苏州开元寺无梁殿    77c K'ai-yuan Ssu
 
-# Soochow
+Soochow
 
-# Kiangsi
+Kiangsi
 
 77d
 
@@ -1582,9 +1582,9 @@ T'aiyuan, Shansi, 1597      77b    图77b 永祚寺砖殿平面图    77b Yung-c
 
 77e Beamless hall
 
-# Western Hills
+Western Hills
 
-# Peking
+Peking
 
 eighteenth century
 
@@ -1614,7 +1614,7 @@ and section
 
 78c Yung-t'ung Ch'iao (Little Stone Bridge)
 
-# Chao Hsien
+Chao Hsien
 
 Hopei, late twelfth century
 
@@ -1628,7 +1628,7 @@ elevation
 
 78d Ch'ing rules for constructing a three-arched bridge      78e    图78e 北京卢沟桥建于18世纪    78e Lu-kou Ch'iao (Marco Polo Bridge)
 
-# Peking
+Peking
 
 eighteenth century
 
@@ -1638,9 +1638,9 @@ eighteenth century
 
 78f Thirteen-arched bridge
 
-# Chin-hua
+Chin-hua
 
-# Chekiang
+Chekiang
 
 1694
 
@@ -1666,9 +1666,9 @@ Sian, Shensi
 
 78i Bamboo suspension bridge
 
-# Kuan Hsien
+Kuan Hsien
 
-# Szechuan
+Szechuan
 
 1803
 
@@ -1712,7 +1712,7 @@ Kao-ch'eng Chen, near Teng-feng, Sung Shan, Honan, ca.
 
 at entrance to Ming Tombs
 
-# Ch'ang-p'ing
+Ch'ang-p'ing
 
 Hopei, 1540
 
@@ -1726,9 +1726,9 @@ Hopei, 1540
 
 80c Street p'ai-lou, Peking      80d    图80d 北京颐和园湖前牌楼    80d Lakefront p'ai-lou
 
-# Summer Palace
+Summer Palace
 
-# Peking
+Peking
 
 80e
 
@@ -1766,7 +1766,7 @@ and the Evolution of Its Types
 
 Many admirers of Liang Ssu-ch'eng and of Chinese architecture have joined in the efforts to get his long-lost book into the hands of the Western readers for whom he intended it.
 
-# Professor Wu Liang-yong
+Professor Wu Liang-yong
 
 head of the Department of Architecture at Tsing Hua University
 
@@ -1780,7 +1780,7 @@ long noted for the quality of its architectural books
 
 accepted Liang's book for publication, the project was well started.
 
-# However
+However
 
 the problems of editing such a complex volume across the Pacific loomed large.
 
@@ -1804,11 +1804,11 @@ supplied me with missing items
 
 and answered my constant questions.
 
-# Our airmail correspondence
+Our airmail correspondence
 
 she writing in Chinese
 
-# I in English
+I in English
 
 has been prompt and unceasing.
 
@@ -1822,7 +1822,7 @@ I spent time there on two occasions.
 
 The miraculous recovery of the lost materials opened many doors for me.
 
-# My old friends
+My old friends
 
 Liang's sister Liang Ssu-chuang, his son Liang Congjie and family, and his friend Chin Yueh-lin, were warmly welcoming and extremely helpful.
 
@@ -1830,13 +1830,13 @@ I had the pleasure of interviewing and later corresponding with three elderly ar
 
 Of the younger architectural historians who had participated in the 1930s field work of the Institute
 
-# I met Mo Tsung-chiang
+I met Mo Tsung-chiang
 
-# Chen Ming-da
+Chen Ming-da
 
-# Lo Che-wen
+Lo Che-wen
 
-# Wang Shih-hsiang
+Wang Shih-hsiang
 
 and Liu Hsu-chieh
 
@@ -1844,11 +1844,11 @@ son and follower of Liu Tun-tseng.
 
 All had spent the war years in the southwestern provinces of Yunnan and Szechuan where the Institute took refuge.
 
-# Some of the next younger generation
+Some of the next younger generation
 
 Liang's postwar students at Tsing Hua from the 1950s onward, have been particularly helpful during the final months of preparing the book for publication, especially Xi Shu-xiang, Yin Ye-ho, and Fu Xi-nian, as well as Fu's associate Sun Chen-fan in the China Building Technology Development Center in Peking.
 
-# The glossary owes much to all four
+The glossary owes much to all four
 
 Fu and colleagues sent some new photographs
 
@@ -1858,7 +1858,7 @@ and Xi made explanatory drawings for the editor's note and provided invaluable s
 
 An important influence on me was Else Glahn of Aarhus University
 
-# Denmark
+Denmark
 
 who is Europe's leading specialist in Chinese architecture.
 
@@ -1866,31 +1866,31 @@ Sharing my admiration for Liang's work, she cooperated with me in pursuing it an
 
  In America I have had generous help from the archivists of the University of Pennsylvania
 
-# Princeton
+Princeton
 
 Yale, and Harvard.
 
-# At Princeton
+At Princeton
 
-# Robert Thorp and Huang Yun-sheng
+Robert Thorp and Huang Yun-sheng
 
 a former student of Liang
 
 have lent guidance and moral support.
 
-# Friends at Yale have been unfailing
+Friends at Yale have been unfailing
 
-# Jonathan Spence
+Jonathan Spence
 
 Mary's Wright, Mary Gardner Neill, the architect King-lui Wu, and especially Helen Chillman to whom he directed me.
 
 She has charge of the unique collection of Chinese architecture slides made from Liang's prints for his 1947 lectures at Yale.
 
-# Harvard being my home base
+Harvard being my home base
 
 I have used the Harvard-Yenching Library and the Fogg Art Museum constantly.
 
-# Eugene Wu
+Eugene Wu
 
 director of the former
 
@@ -1900,7 +1900,7 @@ acting director of the latter
 
 deserve my special thanks.
 
-# William Coaldrake
+William Coaldrake
 
 historian of Japanese architecture
 
@@ -1912,7 +1912,7 @@ I think especially of Paul Sun and David Handlin
 
 who were advocates of the project from the first.
 
-# Robin Bledsoe edited my editing
+Robin Bledsoe edited my editing
 
 and my friend Joan Hill typed and retyped the manuscript.
 
@@ -1942,7 +1942,7 @@ Professor Liang originally planned it to be one part of a large book
 
 The History of Chinese Art.
 
-# The other part
+The other part
 
 for which he had already written an outline
 
@@ -1962,13 +1962,13 @@ and the development of various architectural elements by the comparative method.
 
 For the beginner it is a good introduction to the study of Chinese architectural history.
 
-# The specialist
+The specialist
 
 too, will draw inspiration from it.
 
 Liang never ceased searching for new understanding and is able to explain the profound in simple terms.
 
-# Above all
+Above all
 
 the beautiful drawings from the skilled hands of Professor Liang and Mo Tsung-chiang provide a delightful esthetic experience for the reader.
 
@@ -1984,7 +1984,7 @@ but he was also a respected and influential educator.
 
 He founded two architectural departments—one at Northeastern University
 
-# Liaoning Province
+Liaoning Province
 
 in 1928
 
@@ -1998,7 +1998,7 @@ From 1949 Liang participated in China's socialist reconstruction with heart and 
 
 He was appointed as one of the honored leaders in charge of designing the National Emblem of the People's Republic of China and, later, of the Monument of the People's Heroes.
 
-# In addition
+In addition
 
 he did much useful work in planning the city of Peking and promoting historical conservation throughout China.
 
@@ -2014,13 +2014,13 @@ After his death she helped us to find and recover the precious drawings that had
 
 Professor and Dean of the Architectural Department
 
-# Tsing Hua University
+Tsing Hua University
 
 Member of the Technical Science Division
 
-# Chinese Academy of Sciences
+Chinese Academy of Sciences
 
-# Peking
+Peking
 
  4
 
@@ -2048,7 +2048,7 @@ This upper-class vogue perhaps reached its height in England in 1763 with the er
 
 from simply providing shelter at one extreme to instilling religious piety or displaying imperial grandeur at the other.
 
-# Slighted
+Slighted
 
 for reasons still obscure
 
@@ -2084,7 +2084,7 @@ he grew up in Peking.
 
 There he received his initial preparation in the two educational spheres that would prove vital for his future achievements.
 
-# These were
+These were
 
 first, the traditional training
 
@@ -2096,7 +2096,7 @@ and, second
 
 a firm grounding in English language
 
-# Western sciences
+Western sciences
 
 and humanities at Tsing Hua College
 
@@ -2112,7 +2112,7 @@ who achieved the miracle of bridging the gap between East and West.
 
 It was suggested by the girl who was later to become his wife
 
-# Lin Whei-yin
+Lin Whei-yin
 
 daughter of Lin Ch'ang-min, a scholar-diplomat and well-known poet.
 
@@ -2144,7 +2144,7 @@ Liang's entry was delayed until the fall term of 1924 by a disastrous motorcycle
 
 It never healed properly and remained slightly shorter than his right.
 
-# As a young man
+As a young man
 
 Liang was strong and active despite this handicap
 
@@ -2180,7 +2180,7 @@ which set forth in unfamiliar terminology the techniques of Sung construction.
 
 It had essentially disappeared in succeeding centuries but a manuscript copy had recently been discovered and published.
 
-# Liang tackled the book at once but
+Liang tackled the book at once but
 
 he admitted later
 
@@ -2218,9 +2218,9 @@ when Liang was in his mid-twenties
 
 the first books seriously devoted to Chinese architecture appeared in the West.
 
-# A German
+A German
 
-# Ernst Boerschmann
+Ernst Boerschmann
 
 published two volumes of photographs of characteristic Chinese building types in 1923 and 1925.
 
@@ -2228,11 +2228,11 @@ Two treatises by the Swedish art historian Oswald Siren on the city walls
 
 gates, and palaces of Peking appeared in 1924 and 1926.
 
-# Much later
+Much later
 
 from hindsight
 
-# Liang commented
+Liang commented
 
 "Neither knew the grammar of Chinese architecture; they wrote uncomprehending descriptions of Chinese buildings.
 
@@ -2250,11 +2250,11 @@ Rushing by car from place to place to see in a limited time everything they had 
 
 they "covered" England
 
-# France
+France
 
 Spain, Italy
 
-# Switzerland
+Switzerland
 
 and Germany.
 
@@ -2288,7 +2288,7 @@ designing
 
 and supervising construction.
 
-# But in September 1931
+But in September 1931
 
 three years after Liang had joined the university faculty
 
@@ -2302,19 +2302,19 @@ exploding into armed conflict in 1937.
 
  This autumn of blighted hopes marked a decisive turn in Liang's career.
 
-# He had accepted in June a new position
+He had accepted in June a new position
 
 which led to his spending his most productive years as an architectural historian.
 
 The Society (later institute) for Research in Chinese Architecture had been established in Peking in 1929 by a wealthy retired official
 
-# Chu Ch'i-ch'ien
+Chu Ch'i-ch'ien
 
 as a consequence of his discovery of the Ying-tsao fa-shih.
 
 Its recovery and reprinting at his initiative had caused a sensation in scholarly circles.
 
-# Hoping to unlock its mysteries
+Hoping to unlock its mysteries
 
 he had assembled a small bookish staff but
 
@@ -2326,7 +2326,7 @@ Chu had for some months been urging Liang to join the Society to direct its rese
 
 There in the autumn of 1931 Liang resumed his earlier study of the Sung manual.
 
-# It seemed so promising
+It seemed so promising
 
 yet most of the technical terms still eluded him.
 
@@ -2376,19 +2376,19 @@ It was obvious that further comprehension of the grammar of Chinese architecture
 
  Liang's special interest in field investigations was recognized by the Society, which named him Director of Technical Studies, in 1931.
 
-# A coordinate position
+A coordinate position
 
-# Director of Documentary Studies
+Director of Documentary Studies
 
 was given the next year to a newcomer
 
-# Liu Tun-tseng
+Liu Tun-tseng
 
 a very able scholar a few years older than Liang who had received his architectural training in Japan.
 
 The two men worked harmoniously together as a mutually supportive team leading their younger colleagues through the following decade.
 
-# Inevitably
+Inevitably
 
 each did both documentary research and field studies because the two aspects to the work were fundamentally inseparable.
 
@@ -2416,7 +2416,7 @@ But the dates were not necessarily reliable
 
 and often buildings that sounded like treasures and inspired long side trips were discovered to have been drastically altered or demolished.
 
-# Nevertheless
+Nevertheless
 
 these guidebooks provided the means of surveying wide areas
 
@@ -2424,7 +2424,7 @@ eventually whole provinces
 
 without missing whatever important structures had survived.
 
-# Of course
+Of course
 
 certain individual discoveries resulted from pursuing rumors
 
@@ -2436,7 +2436,7 @@ In the 1930s the field of Chinese architectural history was truly open to the ex
 
  The same period put serious difficulties in the way of the investigators.
 
-# Travel
+Travel
 
 if begun by train
 
@@ -2470,7 +2470,7 @@ In certain areas of North China there was also the risk of attack by bandits who
 
  The Liangs traveled together whenever Lin Whei-yin could safely leave their two small children.
 
-# A younger colleague
+A younger colleague
 
 often Mo Tsung-chiang who had been trained by Liang
 
@@ -2486,7 +2486,7 @@ but there were rarely lines within a town itself.
 
 Thus much time was consumed in finding and negotiating with local officials
 
-# Buddhist dignitaries
+Buddhist dignitaries
 
 and others before an exciting discovery could be examined.
 
@@ -2498,7 +2498,7 @@ They used metric tapes to measure both large and small components of the structu
 
 as well as its immediate setting.
 
-# These measurements
+These measurements
 
 and notebook sketches
 
@@ -2530,15 +2530,15 @@ All this precious information was set down in notebooks and carried back to Peki
 
  Liang's first field trip made in 1932, resulted in one of his greatest discoveries.
 
-# It was the towering Buddhist structure
+It was the towering Buddhist structure
 
-# Tu-le Ssu
+Tu-le Ssu
 
 located sixty miles east of Peking
 
 which housed a clay figure fifty-five feet high.
 
-# Both the wood-frame building
+Both the wood-frame building
 
 erected in 984
 
@@ -2570,7 +2570,7 @@ As head of the Section of Technical Studies
 
 I was able to visit most of these places personally.
 
-# We are very far from our goal yet
+We are very far from our goal yet
 
 but we have found materials of great significance.
 
@@ -2578,17 +2578,17 @@ but we have found materials of great significance.
 
 the high point of their years of searching was the discovery in June 1937 of a Buddhist temple
 
-# Fo-kuang Ssu
+Fo-kuang Ssu
 
 built in 857 A.
 
-# This beautiful structure
+This beautiful structure
 
 located deep in the mountains of northern Shansi province
 
 had endured in good condition for over a thousand years and was recognized by Liang to be the oldest wooden building yet discovered in China and the first one of T'ang date.
 
-# His description of it on pages 43-44
+His description of it on pages 43-44
 
 though brief
 
@@ -2596,7 +2596,7 @@ betrays his special love for this "treasure of the first order.
 
 "  A remarkable aspect of the work of the Society in the 1930s was the speed and thoroughness with which the architectural discoveries were published in the Society's quarterly bulletin, Chung-kuo ying-taso hsueh-she hui-k'an.
 
-# The articles
+The articles
 
 in Chinese
 
@@ -2604,7 +2604,7 @@ described the buildings in detail and illustrated them with numerous photographs
 
 Tables of contents were listed in English.
 
-# Unfortunately
+Unfortunately
 
 copies of the seven volumes of the bulletin are rare today.
 
@@ -2612,7 +2612,7 @@ copies of the seven volumes of the bulletin are rare today.
 
 Szechuan.
 
-# He and his family
+He and his family
 
 with some members of the Society
 
@@ -2628,7 +2628,7 @@ Academia Sinica〔2〕with Liang in charge.
 
 Surveys of the architecture of Yunnan and Szechuan were undertaken.
 
-# But as the eight years of war
+But as the eight years of war
 
 isolation
 
@@ -2644,13 +2644,13 @@ Liang remained in Li-chuang with his family
 
 his faithful assistant
 
-# Mo Tsung-chiang
+Mo Tsung-chiang
 
 and a few others.
 
 Lin Whei-yin was confined to bed with tuberculosis.
 
-# It was in such circumstances that Liang
+It was in such circumstances that Liang
 
 in 1946
 
@@ -2678,17 +2678,17 @@ which has a bearing on this story.
 
 My husband and I were young newlywed students in Peking in the summer of 1932 when mutual Chinese friends introduced us to the Liangs.
 
-# They were several years older
+They were several years older
 
 but their student years in America were not very far in the past.
 
 Perhaps that prompted our immediate liking for each other.
 
-# They were neighbors as well as friends
+They were neighbors as well as friends
 
 and we all shared interests in Chinese art and history.
 
-# For whatever reasons
+For whatever reasons
 
 we became intimates in the next four years of our stay in Peking.
 
@@ -2712,7 +2712,7 @@ Our friendship continued by correspondence after our return to America
 
 and it deepened when we returned to China in government service during World War Ⅱ.
 
-# At that time we
+At that time we
 
 as well as they
 
@@ -2720,7 +2720,7 @@ were in the far west of China while the Japanese armies occupied Peking and the 
 
  A visit to the Liangs in Li-chuang was a revelation to us of the poverty and misery induced by the war.
 
-# Yet under these conditions Liang
+Yet under these conditions Liang
 
 who was nurse and cook as well as research director
 
@@ -2734,7 +2734,7 @@ elevations
 
 and sections—of the most important architectural monuments they had studied.
 
-# The drawings
+The drawings
 
 reproduced here
 
@@ -2754,7 +2754,7 @@ the superb drawings
 
 and the text of his Pictorial History in the expectation of finding a publisher.
 
-# He was kept busy with teaching at Yale
+He was kept busy with teaching at Yale
 
 lecturing and receiving an honorary degree at Princeton
 
@@ -2798,7 +2798,7 @@ In 1980 the lost package of illustrations was miraculously recovered.
 
 A British friend in London managed to trace for me the student's current whereabouts and turn up an address in Singapore.
 
-# There lay the package
+There lay the package
 
 untouched
 
@@ -2812,13 +2812,13 @@ Liang's Pictorial History of Chinese Architecture brings to Western scholars, st
 
  Wilma Fairbank
 
-# Cambridge
+Cambridge
 
 Mass.
 
 注释〔1〕疑为When Lin Ch'ang-min was sent to London on an assignment in 1920, he took his daught along for company.
 
-# She was barely sixteen
+She was barely sixteen
 
 …——译校注〔2〕疑为There the Society began to accept subsidy from the National Central Museum。——译校注
 
@@ -2826,11 +2826,11 @@ Mass.
 
  Editorial Method
 
-# As editor of this book
+As editor of this book
 
 I have observed certain self-imposed constraints necessitated by the strange history of the manuscript.
 
-# Fundamental
+Fundamental
 
 of course
 
@@ -2846,7 +2846,7 @@ notably his very brief comments on bridges
 
 tombs, and other constructions that follow his fuller treatment of timber-frame buildings and pagodas.
 
-# In the circumstances
+In the circumstances
 
 my responsibility was to be scrupulously faithful to his ideas
 
@@ -2862,15 +2862,15 @@ he settled on a pictorial history—not of all Chinese architecture as the title
 
 He intended to tell his story through selected photographs of historic structures from the Institute's files, interpreted by means of drawings showing their plans, elevations, and sections based on field measurements.
 
-# Instead of an accompanying text
+Instead of an accompanying text
 
 identifications and brief comments in Chinese and English were to be lettered on the drawings themselves.
 
  The drawings were completed as planned in 1943.
 
-# Liang took them from Li-chuang
+Liang took them from Li-chuang
 
-# Szechuan
+Szechuan
 
 downriver to Chungking where friends in the American Office of War Information photo lab recorded them for him on two reels of microfilm.
 
@@ -2886,7 +2886,7 @@ This precaution was to have interesting results.
 
 Liang admits "after the completion of the drawings it seemed that a few words of explanation might be necessary".
 
-# The text
+The text
 
 which sets forth his analyses and conclusions based on his years of unprecedented field studies
 
@@ -2896,7 +2896,7 @@ The brevity precludes consideration of many aspects of Chinese architecture that
 
 The headings by period reflect his evaluations at the time of writing.
 
-# That time was nearly forty years ago
+That time was nearly forty years ago
 
 but the book has long been needed
 
@@ -2924,7 +2924,7 @@ Liang at Penn learned the analogous English and French terms for Western archite
 
 to which he added his own hard-won knowledge of Chinese architectural history.
 
-# Similarly
+Similarly
 
 future generations of students in the West who will travel easily and often to China will need to know both its language and its hitherto neglected art of architecture.
 
@@ -2944,7 +2944,7 @@ romanizations
 
 or dynasty dates are intentionally left unaltered.
 
-# It is unfortunate that Liang
+It is unfortunate that Liang
 
 beset by personal problems
 
@@ -2980,7 +2980,7 @@ but the publication of this book must bring the practice to an end.
 
 Locations of Monuments Mentioned in Liang's Text    Certain recurrent geographical terms are easily learned.
 
-# Province names often include nan
+Province names often include nan
 
 south, pei
 
@@ -2996,7 +2996,7 @@ East-flowing rivers, ho (e.
 
 have provinces bordering on the north (Hopei) or south (Honan).
 
-# Mountains
+Mountains
 
 shan, may have provinces on their east (Shantung) or west (Shansi).
 
@@ -3012,7 +3012,7 @@ and the North China railway network are shown as they were in the 1930s at the h
 
 This volume is by no means an all-inclusive history of Chinese architecture.
 
-# It is an attempt to present
+It is an attempt to present
 
 by means of photographs and drawings of many typical specimens
 
@@ -3054,7 +3054,7 @@ with the coming of reinforced concrete and steel framing.
 
 Chinese architecture faces a grave situation.
 
-# Indeed
+Indeed
 
 there is a basic similarity between the ancient Chinese and the ultramodern.
 
@@ -3066,7 +3066,7 @@ Possibly.
 
 But it must not be the blind imitation of "periods".
 
-# Something new must come out of it
+Something new must come out of it
 
 or Chinese architecture will become extinct.
 
@@ -3074,7 +3074,7 @@ or Chinese architecture will become extinct.
 
 for certain early phases of Japanese architecture should properly be classified as Chinese exports.
 
-# However
+However
 
 this brief text can only touch upon the subject.
 
@@ -3090,11 +3090,11 @@ In all times and all places religion has provided the strongest impetus to archi
 
 Some of them have been published in the bulletin of the Institute.
 
-# Since its foundation in 1929
+Since its foundation in 1929
 
 under the inspiring guidance of Mr. Chu Ch'i-ch'ien
 
-# President
+President
 
 and Dr. Y.
 
@@ -3106,7 +3106,7 @@ the Institute has been engaged in systematically searching the country for archi
 
 studying them from both the archaeological and geographical points of view.
 
-# So far
+So far
 
 more than two hundred hsien (districts) in fifteen provinces have been covered.
 
@@ -3124,7 +3124,7 @@ many of my materials are not at hand.
 
 They were left in Peking when the Institute moved to the hinterland.
 
-# Meanwhile
+Meanwhile
 
 a number of the buildings presented here must have been lost forever as a result of the war.
 
@@ -3138,13 +3138,13 @@ formerly Director of the Documentary Section of the Institute
 
 and now Chairman of the Department of Architecture and Dean of the College of Engineering
 
-# National Central University
+National Central University
 
 or by myself.
 
 I am most grateful to Mr. Liu for his permission to use some of his materials in this volume.
 
-# I am indebted to my colleague
+I am indebted to my colleague
 
 Mr. Mo Tsung-chiang
 
@@ -3158,7 +3158,7 @@ for making most of the plates.
 
 Chairman of the Section of Archaeology of the Institute of History and Philology
 
-# Academia Sinica
+Academia Sinica
 
 and Mr. Shih Chang-ju
 
@@ -3174,7 +3174,7 @@ for his permission to use some of the materials excavated in the Han tombs at Ch
 
  To my friend and colleague
 
-# Wilma Fairbank
+Wilma Fairbank
 
 member of the Institute for Research in Chinese Architecture
 
@@ -3220,7 +3220,7 @@ neither this volume nor any of my work in the study of Chinese architecture woul
 
 Surviving in addition to myself are Mo Tsung-chiang at Tsing Hua University
 
-# Peking
+Peking
 
 and Shih Chang-ju at Academia Sinica
 
@@ -3228,11 +3228,11 @@ Taipei.
 
 ——Ed.
 
-# The Chinese Structural System
+The Chinese Structural System
 
 21
 
-# Origins
+Origins
 
 The architecture of China is as old as Chinese civilization.
 
@@ -3260,7 +3260,7 @@ and spiritual—is a phenomenon comparable only to the continuity of the civiliz
 
  Near Anyang
 
-# Honan Province
+Honan Province
 
 at the site of the palaces and necropolis of the Shang-Yin emperors (ca.
 
@@ -3272,7 +3272,7 @@ at the site of the palaces and necropolis of the Shang-Yin emperors (ca.
 
 are found the earliest known remains of buildings in China (fig.0).
 
-# These are large loess platforms
+These are large loess platforms
 
 upon which undressed boulders
 
@@ -3324,7 +3324,7 @@ until the invention of reinforced concrete and the steel framing systems of the 
 
 Editor's Note: The Curved Roof and Bracket Sets    Figures 1 and 2 present the basic characteristics of traditional Chinese architecture in a way that will be clear to a prepared mind.
 
-# However
+However
 
 since not every reader will have had the opportunity to see in situ or to study Chinese timber-frame buildings
 
@@ -3346,7 +3346,7 @@ For this reason the section drawings are much more important than the elevations
 
 "     25    The section drawings show us that the roof supports in Chinese timber-frame construction differ fundamentally from the conventional Western triangular roof trusses that dictate the rigidity of our straight pitched roofs.
 
-# The Chinese frame is instead
+The Chinese frame is instead
 
 markedly flexible (fig.).
 
@@ -3354,7 +3354,7 @@ The timber skeleton consists of posts and cross beams rising toward the ridge in
 
 The purlins—horizontal members that support the rafters—are positioned along the stepped shoulders of the skeleton.
 
-# The rafters are short
+The rafters are short
 
 stretching down only from purlin to purlin.
 
@@ -3366,7 +3366,7 @@ The concave curved roof allows the semicylindrical rooftiles to fit together snu
 
  The extent of eave projection is also remarkable.
 
-# For example
+For example
 
 the eaves of the T'ang temple Fo-kuang Ssu (857 A.
 
@@ -3424,15 +3424,15 @@ Liang explains more fully these and other complexities in the evolution of this 
 
 27
 
-# Two Grammar Books
+Two Grammar Books
 
-# As this system matured through the ages
+As this system matured through the ages
 
 a well-regulated set of rules governing design and execution emerged.
 
 To study the history of Chinese architecture without a knowledge of these rules is like studying the history of English literature before learning English grammar.
 
-# Therefore
+Therefore
 
 a brief examination of them is necessary.
 
@@ -3442,7 +3442,7 @@ the Ying-tsao fa-shih (Building Standards) of the Sung dynasty (960-1279) and th
 
 as we may call them.
 
-# Both government manuals
+Both government manuals
 
 they are of the greatest importance for the study of the technological aspects of Chinese architecture.
 
@@ -3528,13 +3528,13 @@ The essentials of these rules are explained visually in figures 2 and 7 and may 
 
   1.
 
-# Modules
+Modules
 
 (ts'ai and ch'i)
 
 The term ts'ai has a twofold meaning:  (a) A standard-sized timber used for the kung, or "arms" of a set of brackets (tou-kung) ; and all timbers of the same depth and width.
 
-# There are eight sizes
+There are eight sizes
 
 or grades
 
@@ -3564,7 +3564,7 @@ When two ts'ai are used one above another, it is customary to cushion them by fi
 
 A member measuring one ts'ai and one ch'i in depth is called a tsu-ts'ai, or "full ts'ai".
 
-# The measurements of
+The measurements of
 
 and the proportions between the different parts of a building of the Sung dynasty are always expressed in terms of the ts'ai, ch'i
 
@@ -3572,11 +3572,11 @@ and fen of the grade of ts'ai used.
 
   2.
 
-# Bracket Sets
+Bracket Sets
 
 (tou-kung)
 
-# A set of tou-kung
+A set of tou-kung
 
 or brackets
 
@@ -3590,7 +3590,7 @@ or on the architrave between two columns
 
 or on the corner column.
 
-# Accordingly
+Accordingly
 
 a set of tou-kung may be called a "column set".
 
@@ -3616,7 +3616,7 @@ or arms extending out from it to form cantilevers to both front and rear
 
 at right angles to the facade of the building.
 
-# Sometimes a slanting member
+Sometimes a slanting member
 
 at approximately a 30-degree angle to the ground
 
@@ -3662,7 +3662,7 @@ different combinations of the tou-kung can be assembled.
 
   3.
 
-# Beams
+Beams
 
  The size and shape of a beam varies according to its function and position.
 
@@ -3690,7 +3690,7 @@ a ratio of 3
 
   4.
 
-# Columns
+Columns
 
  Rules governing the length and the diameter of a column are rather loose.
 
@@ -3714,7 +3714,7 @@ These refinements help give an illusion of stability.
 
   5.
 
-# The Curved Roof
+The Curved Roof
 
 (chu-che)
 
@@ -3746,13 +3746,13 @@ Another straight line is then drawn from this newly plotted point to the cave pu
 
 and the next purlin below is "depressed" by one-twentieth of the chu-kao.
 
-# The process is repeated
+The process is repeated
 
 and each time the "depression" is reduced by half.
 
 The points thus obtained are joined by a series of straight lines and the roof line is plotted.
 
-# This process is called che-wu
+This process is called che-wu
 
 or "bending the roof".
 
@@ -3806,7 +3806,7 @@ mainly on the principle of contrasting warm and cool colors.
 
 We also learn that the shading of colors is obtained by the juxtaposition of colors related in the chromatic scale rather than by deepening a single color.
 
-# The principal colors used are blue
+The principal colors used are blue
 
 red, and green
 
@@ -3850,7 +3850,7 @@ which gives general rules and ratios for designing and computation.
 
 The next thirteen chapters specify the dimensions of each kind of tou-kung and the sequence of assembling them.
 
-# Seven chapters treat doors
+Seven chapters treat doors
 
 windows
 
@@ -3866,7 +3866,7 @@ The last twenty-four chapters are rules for the estimation of materials and labo
 
  The only drawings are twenty-seven cross sections of the twenty-seven building types described.
 
-# There are no instructions for details
+There are no instructions for details
 
 such as the shaping of the kung and ang
 
@@ -3876,7 +3876,7 @@ and the like
 
 which would have been permeated with the characteristics of the time.
 
-# This drawback
+This drawback
 
 however
 
@@ -3886,7 +3886,7 @@ is fortunately overcome by the existence of numerous examples of Ch'ing dynasty 
 
   1.
 
-# Reduction in the Depth of the
+Reduction in the Depth of the
 
 Ts'ai  As noted above, the depth of the ts'ai of the Sung style is 15 fen (with a width of ten fen) and the ch'i measures six fen, resulting in a tsu-ts' ai
 
@@ -3894,7 +3894,7 @@ or "full ts'ai"
 
 of 21 fen in depth.
 
-# However
+However
 
 the concept of ts'ai, ch'i
 
@@ -3974,11 +3974,11 @@ must necessarily be determined by multiples of 11 tou-k'ou.
 
   4.
 
-# All Facade Columns of Equal Height
+All Facade Columns of Equal Height
 
  The Sung practice of increasing the height of the columns toward the corners of the building was discontinued.
 
-# The columns
+The columns
 
 though slightly tapered
 
@@ -3986,7 +3986,7 @@ are straight with no entasis.
 
 Thus a Ch'ing building as a whole presents a more rigid appearance than a Sung structure.
 
-# The slight in ward incline
+The slight in ward incline
 
 however
 
@@ -3994,7 +3994,7 @@ is still the rule.
 
   5.
 
-# Increase in the Width of the Beams
+Increase in the Width of the Beams
 
 33
 
@@ -4004,21 +4004,21 @@ Beams of the Sung dynasty generally have a ratio of 3
 
 In the Ch'ing rules the ratio is changed to 5 : 4 or 6 : 5, betraying an obvious ignorance of mechanics and of the strength of materials.
 
-# Moreover
+Moreover
 
 the overall rule of making the beam "two inches [fen] wider than the diameter of the column" seems most arbitrary and irrational.
 
-# All beams are straight
+All beams are straight
 
 the "crescent-moon beam" has no place in official Ch'ing architecture.
 
   6.
 
-# Steeper Pitch of the Curved Roof
+Steeper Pitch of the Curved Roof
 
  What is called in the Sung dynasty chu-che ("raise-depress") is known in the Ch'ing dynasty as chu-chia, or "raising the frame".
 
-# The two methods
+The two methods
 
 though bringing about more or less similar results
 
@@ -4048,7 +4048,7 @@ but they show columniation
 
 not the internal division of spaces.
 
-# Unlike European buildings
+Unlike European buildings
 
 the Chinese building
 
@@ -4060,7 +4060,7 @@ Since it may be subdivided so easily by means of wooden partitions or screens be
 
 the problem of internal planning hardly exists.
 
-# Planning
+Planning
 
 instead
 
@@ -4092,7 +4092,7 @@ Pre-Buddhist and Cave-Temple Evidence of Timber-Frame Architecture
 
 37
 
-# Indirect Material Evidence
+Indirect Material Evidence
 
 The Shang-Yin remains near Anyang mentioned in the previous chapter are merely ruins (fig.0).
 
@@ -4110,7 +4110,7 @@ eaved roofs
 
 doors, and railings.
 
-# From a structural point of view
+From a structural point of view
 
 this building must have had a plan essentially the same as the remains at the Shang-Yin site.
 
@@ -4130,7 +4130,7 @@ It is highly doubtful that future archaeological excavations will be able to she
 
 39
 
-# Han Evidence
+Han Evidence
 
 The earliest remains of real architectural importance are to be found in the tombs of the Eastern Han dynasty (25-220 A.
 
@@ -4146,7 +4146,7 @@ mostly in Szechuan Province and a small number in Hunan Province
 
 called ch'ueh (fig.2), usually in pairs, flanking the entrance to the avenue leading to a palace, temple, or tomb; (3) small shrines in the form of houses (fig.3), usually placed in front of the tumulus of a tomb.
 
-# All these relics are of stone
+All these relics are of stone
 
 but the essentials of the tou-kung and the trabeated construction are so faithfully represented that a fairly clear idea of the wooden structures after which these monuments are modeled can be gathered from them.
 
@@ -4212,7 +4212,7 @@ The use of the tubular tile was evidently already as common as it is today.
 
 46
 
-# Cave-Temple Evidence
+Cave-Temple Evidence
 
 Buddhism reached China at approximately the beginning of the Christian era.
 
@@ -4220,7 +4220,7 @@ Though there are records of the erection of a Buddhist pagoda as early as the be
 
 , described as "a multi-storied tower surmounted by a pile of metal discs," we possess today no Buddhist monument before the middle of the fifth century.
 
-# However
+However
 
 from then on until the later fourteenth century
 
@@ -4298,13 +4298,13 @@ and (combining the two lu-tou into one) placing the lu-tou of the bracket set di
 
 the tou-kung is always the dominant architectural feature.
 
-# It is still simple
+It is still simple
 
 as in the Han dynasty
 
 but the S-curve of the kung has by now been straightened into a more plausible form.
 
-# An intermediate set
+An intermediate set
 
 in the form of an inverted letter V
 
@@ -4338,7 +4338,7 @@ The term ming-pan is borrowed from the japanese term designating the element in 
 
  Monumental Timber-Frame Buildings
 
-# Timber
+Timber
 
 which is the principal building material employed by the Chinese
 
@@ -4346,13 +4346,13 @@ is highly perishable
 
 subject to natural decay from the elements and from pests.
 
-# It is highly flammable and
+It is highly flammable and
 
 when used for a religious building
 
 is constantly exposed to the danger of fire from the incense and candles of the worshippers.
 
-# Moreover
+Moreover
 
 a land periodically razed by civil wars and religious struggles proved none too favorable for the conservation of timber structures.
 
@@ -4382,7 +4382,7 @@ there were at least three great persecutions of Buddhism from the fifth to the n
 
 The last of these outrages occurred in 845 and almost stripped the country of all Buddhist temples and monasteries.
 
-# These practices
+These practices
 
 and the highly perishable nature of the material
 
@@ -4510,7 +4510,7 @@ or from the reign of Emperor Ch'eng-tsu (Yung-lo) of the Ming dynasty, who usurp
 
 to the overthrow of the Ch'ing dynasty by the Republic.
 
-# It is identified by a general rigidity
+It is identified by a general rigidity
 
 a clumsiness of proportion resulting from the excessive size of all horizontal members
 
@@ -4542,7 +4542,7 @@ The Period of Vigor (ca.
 
 850-1050)
 
-# Indirect Material Evidence
+Indirect Material Evidence
 
 The Period of Vigor—only a few specimens of its final phase remain—must have had a brilliant past stretching considerably before the middle of the ninth century
 
@@ -4610,7 +4610,7 @@ The architecture depicted there is far simpler than that in the paintings
 
 undoubtedly due to the limitations imposed by the medium.
 
-# We can therefore infer
+We can therefore infer
 
 by comparing the sculptured and painted representations of this one theme
 
@@ -4620,7 +4620,7 @@ Ch'i, and Sui dynasties must have been a simplified version of a much more fully
 
  59
 
-# Fo-kuang Ssu
+Fo-kuang Ssu
 
 The oldest wooden structure known today is the Main Hall of Fo-kuang Ssu
 
@@ -4658,7 +4658,7 @@ In contrast to the severity of the exterior
 
 every surface of the beams is curved.
 
-# The sides are pulvinated
+The sides are pulvinated
 
 and the top and bottom are gently arched
 
@@ -4678,7 +4678,7 @@ Shantung Province (fig.3)
 
 and also in one of the Tun-huang paintings.
 
-# In actual specimens
+In actual specimens
 
 it is employed in the colonnade around the courtyard of Horyuji (seventh century)
 
@@ -4702,7 +4702,7 @@ life-sized portrait statues
 
 one of a woman
 
-# Ning Kung-yu
+Ning Kung-yu
 
 donor of the Hall
 
@@ -4750,7 +4750,7 @@ nevertheless they are rare examples of the architecture of the early Sung dynast
 
  64
 
-# Two Buildings of Tu-le Ssu
+Two Buildings of Tu-le Ssu
 
 Chronologically the next wooden structures are the magnificent Kuan-yin Ke
 
@@ -4760,11 +4760,11 @@ and the Main Gate
 
 both of Tu-le Ssu
 
-# Chi Hsien
+Chi Hsien
 
 Hopei Province.
 
-# They were built in 984
+They were built in 984
 
 when that part of the country was under the occupation of the Liao Tartars.
 
@@ -4780,7 +4780,7 @@ The two upper floors are built around the statue with a "well" in the middle
 
 forming galleries around the figure's hips and chest.
 
-# In terms of construction
+In terms of construction
 
 then, the Hall is built of three tiers of "superposed orders"
 
@@ -4788,7 +4788,7 @@ each complete with column and tou-kung.
 
 The proportions and details of the tou-kung show very little departure from that of the T'ang Main Hall in Fo-kuang Ssu.
 
-# But here
+But here
 
 in addition to the double-kung-double ang combination that is used on the upper story
 
@@ -4808,13 +4808,13 @@ The interior is a grand exhibition of tou-kung of various combinations and in va
 
 each arranged so as to do its share in supporting the entire structure.
 
-# A straight girder
+A straight girder
 
 which has taken the place of the "crescent-moon beam"
 
 supports the coffered ceiling of very small checkered squares.
 
-# For carrying the load of the ridge pole
+For carrying the load of the ridge pole
 
 a "king post" —here a chu-ju-chu or "dwarf post" —is introduced in addition to the pair of ch'a-shou forming a simple truss.
 
@@ -4832,7 +4832,7 @@ is that the interior or hypostyle columns are usually of the same height as the 
 
 The higher parts of the roof frame are supported by the stacking up of tou-kung.
 
-# The columns are seldom lengthened
+The columns are seldom lengthened
 
 as is the practice of later ages
 
@@ -4876,9 +4876,9 @@ and they are all found in the Liao domain in North China.
 
 The Liao timber structure that follows chronologically the Kuan-yin Ke and Main Gate of Tu-le Ssu is the Main Hall of Feng-kuo Ssu (fig.7)
 
-# I Hsien
+I Hsien
 
-# Liaoning Province
+Liaoning Province
 
 built in 1020.
 
@@ -4894,7 +4894,7 @@ The corner set is further elaborated by placing an auxiliary lu-tou on the corne
 
 , combining two intermediate set with the corner set.
 
-# This treatment
+This treatment
 
 known as the fu-chiao lu-tou
 
@@ -4906,19 +4906,19 @@ is quite common later but extremely rare in this early period (fig.0i).
 
 or Hall of the Three Bodhisattvas (1025)
 
-# Kuang-chi Ssu
+Kuang-chi Ssu
 
-# Pao-ti
+Pao-ti
 
-# Hopei Province
+Hopei Province
 
 is very severe in external appearance but extremely elegant in interior treatment (fig.8).
 
-# The bracketing is quite simple
+The bracketing is quite simple
 
 only horizontal hua-kung are used.
 
-# The interior is of the open-frame type
+The interior is of the open-frame type
 
 with no ceiling to conceal the structural freatures.
 
@@ -4928,7 +4928,7 @@ This treatment gives the architect a grand opportunity to display his ingenuity 
 
 Two Groups at Ta-t'ung    In the city of Ta-t'ung
 
-# Shansi Province
+Shansi Province
 
 there are two groups of buildings of great importance—the Hua-yen Ssu
 
@@ -5000,7 +5000,7 @@ who were originally sun worshippers and considered East the most noble of the fo
 
 30a, b).
 
-# As the existing buildings show
+As the existing buildings show
 
 the original party consisted of seven principal buildings on one main axis and two transverse axes.
 
@@ -5008,7 +5008,7 @@ The whole group was originally surrounded by a continuous veranda
 
 which is now discernible only by its foundations.
 
-# Of the seven buildings only one
+Of the seven buildings only one
 
 a flanking tower in the inner courtyard
 
@@ -5060,7 +5060,7 @@ The diagonal kung is again seen here.
 
  These two buildings are of the Liao dynasty.
 
-# Their exact date is unknown
+Their exact date is unknown
 
 but stylistically they may be placed in the middle of the eleventh century.
 
@@ -5068,11 +5068,11 @@ The Front Hall and the Main Gate of the Shan-hua Ssu belong to the next period a
 
  80
 
-# The Fo-kung Ssu Wooden Pagoda
+The Fo-kung Ssu Wooden Pagoda
 
-# The Wooden Pagoda of Fo-kung Ssu
+The Wooden Pagoda of Fo-kung Ssu
 
-# Ying Hsien
+Ying Hsien
 
 Shansi Province (fig.1)
 
@@ -5118,7 +5118,7 @@ The Period of Elegance (ca.
 
 1000-1400)
 
-# Early Sung Characteristics
+Early Sung Characteristics
 
 While the Liao Tartars were carrying on the rigorous traditions of the T'ang dynasty, the Sung architects were already introducing a style characterized by elegance and refinement.
 
@@ -5134,13 +5134,13 @@ finally
 
 not only assumes a shape exactly like that of the column set but even further complicates itself by the introduction of the diagonal kung.
 
-# This intermediate set
+This intermediate set
 
 because it supports no beams and does not rest on a column
 
 becomes a burden to the architrave.
 
-# In some cases
+In some cases
 
 and also according to the Ying-tsao fa-shih
 
@@ -5150,7 +5150,7 @@ When an ang is used in an intermediate set
 
 it further complicates the structural problem by the presence of its tail extending upward at an angle.
 
-# When used in a column set
+When used in a column set
 
 the tail is usually held in position by the weight of the beam
 
@@ -5158,7 +5158,7 @@ but here the tails are cleverly used as intermediate supports for the purlin abo
 
 The ang's disposition gives the architect a wonderful opportunity to display his ingenuity, resulting in various combinations of great interest.
 
-# However
+However
 
 the structural function is never forgotten
 
@@ -5202,11 +5202,11 @@ Their disposition is an art in which the architects of this period excelled.
 
  86
 
-# A Vanguard
+A Vanguard
 
-# Yu-hua Kung
+Yu-hua Kung
 
-# Yu-hua Kung
+Yu-hua Kung
 
 the small hall of Yung-shou Ssu
 
@@ -5216,7 +5216,7 @@ Because of its early date (1008) it could be listed among the structures of the 
 
 But here are seen the first signs of the mellowness that will soon characterize the architecture of the Sung and Yuan dynasties.
 
-# It is a specimen of the transition
+It is a specimen of the transition
 
 embodying the virtues of both periods.
 
@@ -5226,7 +5226,7 @@ But its delightful beauty can never escape the eyes of the connoisseur.
 
 The tou-kung are extremely simple—single hua-kung and single ang—with the shua-t'ou, or head of the beam, shaped like an ang and installed in a slanting position to give the effect of two beaks.
 
-# The set is proportionately large
+The set is proportionately large
 
 less than one-third the column height
 
@@ -5240,17 +5240,17 @@ are so neatly joined and fitted that they seem the outcome of an imperative logi
 
  89
 
-# A Group in Cheng-ting
+A Group in Cheng-ting
 
-# The Lung-hsing Ssu
+The Lung-hsing Ssu
 
-# Cheng-ting
+Cheng-ting
 
-# Hopei Province
+Hopei Province
 
 is a temple where a number of early Sung buildings is preserved.
 
-# The Shan-men
+The Shan-men
 
 or Main Gate
 
@@ -5266,7 +5266,7 @@ The general aspect is ludicrous.
 
 34a, b).
 
-# It is a double-eaved structure
+It is a double-eaved structure
 
 nearly square in plan.
 
@@ -5338,13 +5338,13 @@ in front of which is a Front Hall and a p'ai-lou, and still farther to the front
 
 The two halls and the bridge were built in the T'ien-sheng period (1023-1031).
 
-# Except for the decorative paintings
+Except for the decorative paintings
 
 these structures are well preserved and have been little spoiled by later restorations.
 
  A prominent characteristic of the tou-kung of the Lung-hsing Ssu and Chin-tz'u groups is the shape of the beak of the ang (fig.6).
 
-# In earlier buildings
+In earlier buildings
 
 the beak is a simple bevel
 
@@ -5402,7 +5402,7 @@ Its earliest appearance is in the Yu-hua Kung of Yu-tz'u, Shansi Province (1008)
 
 but it is comparatively rare in such early structures.
 
-# Even in the Ying-tsao fa-shih
+Even in the Ying-tsao fa-shih
 
 its use is limited to the p'ing-tso, or mezzanine story.
 
@@ -5412,7 +5412,7 @@ an architrave without a plate was now an exception.
 
  Another feature of the tou-kung that made its debut in the Chin-tz'u structures is the false ang.
 
-# Here the hua-kung
+Here the hua-kung
 
 a horizontal member
 
@@ -5426,11 +5426,11 @@ This treatment eventually became standard in the Ming and Ch'ing dynasties, and 
 
  98
 
-# A Unique Construction
+A Unique Construction
 
-# Wen-shu Tien
+Wen-shu Tien
 
-# The Wen-shu Tien
+The Wen-shu Tien
 
 or Hall of Manjusri
 
@@ -5442,7 +5442,7 @@ It is, however
 
 interesting as a unique example of interior framing.
 
-# Because of its peculiar columniation
+Because of its peculiar columniation
 
 only two hypostyle columns are used in the central bay at the rear
 
@@ -5454,7 +5454,7 @@ No timber of average size could span this length
 
 so a compound framework resembling a modern "queen-post" truss was introduced.
 
-# However
+However
 
 the construction
 
@@ -5468,7 +5468,7 @@ and an auxiliary support had to be installed in later years.
 
 Examples Contemporary with the Ying-tsao fa-shih
 
-# Of the existing Sung buildings
+Of the existing Sung buildings
 
 the one closest to the Ying-tsao fa-shih in date is a small hall
 
@@ -5476,7 +5476,7 @@ the Ch'u-tsu An of Shao-lin Ssu, in the Sung Mountains, Honan Province (fig.0).
 
 It is a square structure of three bays.
 
-# The stone columns are octagonal
+The stone columns are octagonal
 
 one bears the date 1125
 
@@ -5506,7 +5506,7 @@ In spite of the political and geographical distance
 
 the general proportion of this building adheres quite closely to the Sung rules.
 
-# Its ceiling
+Its ceiling
 
 treated with the t'ien-kung lou-ke, or "heavenly palaces" motif, as given in the Ying-tsao fa-shih, is a magnificent piece of cabinetworker's art.
 
@@ -5526,7 +5526,7 @@ have developed into formidable jumbles of intersecting kung and tou
 
 imposing themselves as a terrific load on the architrave.
 
-# The p'u-p'ai fang
+The p'u-p'ai fang
 
 the plate resting on the lintel
 
@@ -5542,7 +5542,7 @@ of Shan-hua Ssu is perhaps the most pretentious of its kind (fig.3).
 
 The five-bay structure is certainly larger than many a main hall of smaller temples.
 
-# Its tou-kung are simple
+Its tou-kung are simple
 
 and the diagonal kung does not appear.
 
@@ -5558,7 +5558,7 @@ the Main Hall
 
 San-ch'ing Tien, of the Taoist temple Hsuan-miao Kuan, Soochow, Kiangsu Province.
 
-# Although it was built in 1170
+Although it was built in 1170
 
 not even three-quarters of a century after the Ying-tsao fashih
 
@@ -5580,7 +5580,7 @@ which first appeared in the Chin-tz'u group.
 
 Another was the increasing size of the shua-t'ou, the "grasshopper-head" outer beam-end, on the column set (see fig.7).
 
-# As the tou-kung shrank through the ages
+As the tou-kung shrank through the ages
 
 the shua-t'ou, when cut to the ancient proportion of one ts'ai
 
@@ -5590,7 +5590,7 @@ so, proportionally
 
 it had to become larger than one is'ai.
 
-# In order to receive it
+In order to receive it
 
 the hua-kung underneath also had to become wider.
 
@@ -5606,13 +5606,13 @@ or two tou-k'ou.
 
 )
 
-# The Yang-ho Lou of Cheng-ting
+The Yang-ho Lou of Cheng-ting
 
 Hopei Province (ca.
 
 1250) is an excellent example of the last phase of the Period of Elegance.
 
-# It is a seven-bayed structure
+It is a seven-bayed structure
 
 a sort of belvedere on a high masonry terrace
 
@@ -5620,7 +5620,7 @@ which is penetrated by two vaulted tunnels like a city gate
 
 standing as a monumental feature over the main thoroughfare of the city (fig.4).
 
-# The tou-kung appear to be double ang
+The tou-kung appear to be double ang
 
 but in reality both tiers of ang on the column set are false
 
@@ -5660,7 +5660,7 @@ in some cases
 
 even beams are dispensed with.
 
-# Such construction is also
+Such construction is also
 
 found in a few other buildings in southern Shansi
 
@@ -5678,7 +5678,7 @@ Hsuan-p'ing, Chekiang Province (fig.8), is a rare specimen of a Yuan building in
 
 The open-framework structure is a masterpiece of intricate carpentry.
 
-# Though characteristically Yuan
+Though characteristically Yuan
 
 it has a suavity and lightness in prominent contrast to the heavier construction of the north.
 
@@ -5706,7 +5706,7 @@ principally in the official architecture of the court
 
 a style of marked departure from the tradition of the Sung and Yuan dynasties.
 
-# The change is very abrupt
+The change is very abrupt
 
 as if some overwhelming force had turned the minds of the builders toward an entirely new sense of proportion.
 
@@ -5724,7 +5724,7 @@ Measuring about one-half or one-third the height of the column in the Sung dynas
 
 they are in the Ming suddenly shrunken to one-fifth.
 
-# The number of intermediate set
+The number of intermediate set
 
 never exceeding two in the twelfth century
 
@@ -5736,7 +5736,7 @@ Instead of sharing the duty of lifting the overhanging eave
 
 which they can no longer do by means of nimble "jumps," they impose themselves as a load on the architrave.
 
-# The architrave
+The architrave
 
 which used to be more of a tie than a girder in the previous periods
 
@@ -5754,7 +5754,7 @@ for the small lu-tou of a shrunken set does not require a plate of excessive wid
 
 In the tou-kung itself other great changes have taken place.
 
-# The ang
+The ang
 
 with its long tail
 
@@ -5776,7 +5776,7 @@ which was originally a simple wing-shaped transverse member occasionally applied
 
 but is now elaborated into "a cloud cluster" and attached to the tail.
 
-# These tails
+These tails
 
 however
 
@@ -5798,7 +5798,7 @@ They are no longer the lever arms that hold up the purlin
 
 but a burden to be supported by an auxiliary lintel.
 
-# The tou-kung
+The tou-kung
 
 except in the column sets
 
@@ -5830,7 +5830,7 @@ built between 1403 and 1424
 
 at the Thirteen Ming Tombs
 
-# Ch'ang-p'ing
+Ch'ang-p'ing
 
 Hopei Province.
 
@@ -5860,7 +5860,7 @@ all of them purely ornamental.
 
 Both the small size of the tou-kung and the large number of intermediate sets are uncommon in structures of this early phase of the period.
 
-# The general effect of the building
+The general effect of the building
 
 however
 
@@ -5880,7 +5880,7 @@ it has remained little changed in general parti till the present day.
 
 Although the Huang-chi Tien (called Feng-t'ien Tien at the beginning of the Ming dynasty and replaced by the T'ai-ho Tien in the Ch'ing dynasty), the principal audience hall, was destroyed at the fall of the Ming dynasty, there are still a considerable number of Ming buildings in the Forbidden City.
 
-# Of these the Hsiang Tien
+Of these the Hsiang Tien
 
 or Sacrificial Hall
 
@@ -5912,7 +5912,7 @@ on each the Ming designation "Chienchi Tien" and the position of the member is w
 
 Ch'ü-fu, Shantung Province (fig.3), is an interesting example of a two-storied building in the official style of the Ming dynasty.
 
-# The influence of this rigid style
+The influence of this rigid style
 
 however
 
@@ -5926,7 +5926,7 @@ Elsewhere in the empire architects were given more freedom than in the service o
 
 Buildings clinging more or less to older traditions are found all over the country.
 
-# The T'ien-tsun Tien of Wen-ch'ang Kung
+The T'ien-tsun Tien of Wen-ch'ang Kung
 
 Chih-t'ung (middle Ming), and the group at Chiu-feng Ssu (1443 and later), Peng-hsi, Szechuan Province, are excellent examples.
 
@@ -5948,13 +5948,13 @@ of course
 
 the Imperial Palaces (fig.7).
 
-# As individual buildings
+As individual buildings
 
 especially from a structural point of view
 
 they are unremarkable.
 
-# But as a composition of the grand plan
+But as a composition of the grand plan
 
 there is nothing comparable to it in the world
 
@@ -5982,7 +5982,7 @@ in strict accordance with the Kung-ch'eng tso-fa tse-li, is a most appropriate e
 
 Here, the uniformity induced by the strict rules turns out to be more of a merit than a defect.
 
-# Without such rigid restrictions
+Without such rigid restrictions
 
 dignity and grandeur of such magnitude could never have been achieved.
 
@@ -6026,7 +6026,7 @@ double-eaved and hip-roofed
 
 it is the largest single premodern building in China.
 
-# The seventy-two columns
+The seventy-two columns
 
 arranged in monotonous regularity that shows any quality except ingenuity
 
@@ -6048,7 +6048,7 @@ As many as eight intermediate sets are used in one bay.
 
 From a distance the presence of tou-kung is hardly noticeable.
 
-# The walls
+The walls
 
 columns
 
@@ -6084,7 +6084,7 @@ and a pair of ling-chih
 
 a fungus symbolizing Taoist immortality.
 
-# So far
+So far
 
 the precaution seems to have worked.
 
@@ -6092,13 +6092,13 @@ the precaution seems to have worked.
 
 Another famous building of the Ch'ing dynasty is the Ch'i-nien Tien of the Temple of Heaven (fig.9).
 
-# The hall is circular in plan
+The hall is circular in plan
 
 with three decks of eaves
 
 the uppermost of which forms a conical roof.
 
-# The glazing of the tiles is blue
+The glazing of the tiles is blue
 
 the color symbolic of heaven.
 
@@ -6108,7 +6108,7 @@ The present structure was built in 1890 to replace the one burned down the year 
 
  A typical Buddhist temple of the Ming and Ch'ing dynasties is the Hu-kuo Ssu in Peking.
 
-# Founded in the Yuan dynasty
+Founded in the Yuan dynasty
 
 the temple was almost completely rebuilt in the Ch'ing period.
 
@@ -6116,7 +6116,7 @@ The buildings are grouped to allow circulation from one courtyard to another aro
 
 The drum tower and bell tower standing on the left and right of the forecourt are erected only in temples.
 
-# One hall in the rear of the compound
+One hall in the rear of the compound
 
 a Yuan structure that is now a complete ruin
 
@@ -6130,7 +6130,7 @@ they show no essential difference from other buildings.
 
  127
 
-# The Temple of Confucius
+The Temple of Confucius
 
 Ch'ü-fu, Shantung    A building almost contemporary with the Kung-ch'eng tso-fa tse-li but departing considerably from its rules is the Ta-ch'eng Tien, Main Hall of the Temple of Confucius (1730), Ch'ü-fu
 
@@ -6160,7 +6160,7 @@ Ming, and Ch'ing—are all present.
 
  130
 
-# Construction Methods in the South
+Construction Methods in the South
 
 Away from the influence of govemment regulations
 
@@ -6176,11 +6176,11 @@ In the milder south there is no necessity for the heavy masonry walls and thick 
 
 Walls of plastered laths and roofs with tiles laid directly on rafters without even sheathing are common.
 
-# Timbers are generally smaller
+Timbers are generally smaller
 
 and roofs often have high up-turned corners that are very playful in spirit.
 
-# When this tendency is carried to excess
+When this tendency is carried to excess
 
 it often results in faulty construction and frivolous ornamentation
 
@@ -6208,7 +6208,7 @@ Rural architecture built of local materials
 
 as in the mountain village near Wu-yi
 
-# Chekiang Province
+Chekiang Province
 
 is typical of southern China (fig.1).
 
@@ -6234,7 +6234,7 @@ and modest little cabins (fig.2).
 
  注释〔1〕# A smaller and simpler temple
 
-# Nan-chan Ssu
+Nan-chan Ssu
 
 built in 782
 
@@ -6256,7 +6256,7 @@ This is the orthodox shape…——译校注〔4〕疑为“is a structure datin
 
  Buddhist Pagodas
 
-# As an architectural monument
+As an architectural monument
 
 giving expression and accent to the landscape of China
 
@@ -6274,7 +6274,7 @@ the "pile of metal discs.
 
 " By combinations of the two components, the Chinese pagoda may be classified into four principal types: onestoried, multi-storied, multi-eaved, and stupa.
 
-# Whatever its size or type
+Whatever its size or type
 
 a t'a marks the burial site of a Buddhist relic or the tomb of a Buddhist monk.
 
@@ -6288,7 +6288,7 @@ It did not take long for the builders to recognize the advantages of brick and s
 
 and the masonry pagoda soon made its appearance and eventually outlasted its wooden prototypes.
 
-# With a single exception
+With a single exception
 
 the Wooden Pagoda of Ying Hsien (fig.1)
 
@@ -6328,7 +6328,7 @@ which includes the Wei
 
 Ch'i, Sui, and T'ang dynasties.
 
-# The most prominent characteristics
+The most prominent characteristics
 
 with a few rare exceptions
 
@@ -6346,7 +6346,7 @@ with the top closed and covered.
 
 Three of the four types of pagoda made their appearance in these centuries.
 
-# The stupa
+The stupa
 
 although an Indian prototype that might be expected in China in this early period
 
@@ -6358,7 +6358,7 @@ There are many examples of the other three types.
 
  One-storied Pagodas
 
-# Pagodas of the one-storied type
+Pagodas of the one-storied type
 
 with a single exception
 
@@ -6386,7 +6386,7 @@ is the Ssu-men T'a (544 A.
 
 But it is by no means typical because it is neither a tomb monument nor a hollow shell.
 
-# It is a single-storied
+It is a single-storied
 
 pavilionlike
 
@@ -6406,7 +6406,7 @@ which became the common characteristic of pagodas in the tenth century and there
 
 627-649) in Ling-yen Ssu
 
-# Ch'ang-ch'ing
+Ch'ang-ch'ing
 
 Shantung Province (fig.4b)
 
@@ -6414,7 +6414,7 @@ and the Tomb Pagoda of T'ung- kuang (771) in Shao-lin Ssu, in the Sung Mountains
 
  A unique specimen of great architectural importance is the Tomb Pagoda of Ching-tsang at Hui-shan Ssu
 
-# Teng-feng
+Teng-feng
 
 also in the Sung Mountains of Honan (figs.
 
@@ -6454,15 +6454,15 @@ Their introduction in this mid-eighth-century structure presages an important ch
 
  141
 
-# Multi-storied Pagodas
+Multi-storied Pagodas
 
-# The multi-storied pagoda
+The multi-storied pagoda
 
 the type most commonly represented in the Yun-kang Caves both in reliefs and in the round
 
 is the superposition of a number of one-storied pagodas.
 
-# As the structure rises
+As the structure rises
 
 each story diminishes slightly in both height and breadth.
 
@@ -6478,7 +6478,7 @@ the Ta-yen T'a (figs.
 
 Sian, Shensi Province.
 
-# The original structure
+The original structure
 
 consecrated by the great master Hsuan-tsang in the mid-seventh century
 
@@ -6514,7 +6514,7 @@ The Hsuan-tsang T'a in Hsing-chiao Ssu (681)〔3〕is a small structure of five 
 
 It may or may not be the tomb monument to the great master.
 
-# The ground-story treatment is astylar
+The ground-story treatment is astylar
 
 that is
 
@@ -6524,7 +6524,7 @@ while the four upper stories are treated with pilasters.
 
 It is similar to the Tomb Pagoda of Ching-tsang in the treatment of tou-kung in which a shua-t'ou projects from the lu-tou, but here the shua-t'ou is vertically cut.
 
-# This structure
+This structure
 
 which antedates the Ching-tsang T'a by nearly seventy years, is the earliest specimen showing such a treatment (fig.5d).
 
@@ -6546,7 +6546,7 @@ resting on a string of tou.
 
 This p'ing-tso is a shu-mi-tso, with "legs" that divide the shu-yao, or dado, into small compartments.
 
-# This treatment of the shu-mi-so
+This treatment of the shu-mi-so
 
 though a minor feature
 
@@ -6574,7 +6574,7 @@ The drawing has an energetic tension that also characterizes the draperies of th
 
  The exact date of this pagoda is not known.
 
-# But judging from the shu-mi-tso
+But judging from the shu-mi-tso
 
 the flame-shaped archivolt
 
@@ -6588,7 +6588,7 @@ it must have been built in the latter part of the sixth century.
 
  145
 
-# Multi-eaved Pagodas
+Multi-eaved Pagodas
 
 The multi-eaved type is characterized by a high principal story
 
@@ -6600,7 +6600,7 @@ or cornices
 
 above.
 
-# The eaves are usually odd in number
+The eaves are usually odd in number
 
 seldom fewer than five and rarely exceeding thirteen.
 
@@ -6612,7 +6612,7 @@ this type of pagoda is called "so-many-storied"
 
 which is misleading.
 
-# Sturcturally
+Sturcturally
 
 or architecturally
 
@@ -6628,15 +6628,15 @@ although anything but typical
 
 is the Pagoda of Sung-yueh Ssu
 
-# Teng-feng
+Teng-feng
 
 in the Sung Mountains
 
-# Honan Province
+Honan Province
 
 built in 520.
 
-# Indeed
+Indeed
 
 it is a unique structure with its fifteen courses of eaves and twelve-sided plan.
 
@@ -6676,7 +6676,7 @@ The Pagodas of Yung-t'ai Ssu and of Fa-wang Ssu, both early eighth century and b
 
 66e, f).
 
-# The eaves
+The eaves
 
 however
 
@@ -6696,7 +6696,7 @@ The Pagoda of Fo-t'u Ssu (820?
 
 850), both in Tali
 
-# Yunnan Province
+Yunnan Province
 
 are also multi-eaved (figs.
 
@@ -6704,7 +6704,7 @@ are also multi-eaved (figs.
 
  A number of stone pagodas of the T'ang dynasty belong to the multi-eaved type.
 
-# They are usually small structures
+They are usually small structures
 
 rarely more than twenty-five or thirty feet high.
 
@@ -6714,7 +6714,7 @@ The doorway on the principal story is usually carved as an arch with a flame-sha
 
 Typical examples are the four stone pagodas of Yun-chu Ssu (711-722)〔5〕, Fang-shan
 
-# Hopei Province
+Hopei Province
 
 which stand on the four corners of a large terrace as satellites to a large
 
@@ -6726,7 +6726,7 @@ This grouping of five pagodas on a common base will become quite usual in the Mi
 
  147
 
-# The Stupa
+The Stupa
 
 At about the end of the tenth century there appeared the stupa
 
@@ -6736,7 +6736,7 @@ Tombs, in the form of Indian stupas with nearly hemispherical bodies
 
 are frequently depicted in the mural paintings in the Tun-huang caves.
 
-# Actual specimens of this date
+Actual specimens of this date
 
 however
 
@@ -6766,7 +6766,7 @@ The pagoda of this period is characterized by an octagonal plan and by the intro
 
 These divisions are a wide departure from the old hollow shell and give an entirely changed aspect to the interior.
 
-# But the idea is not new
+But the idea is not new
 
 for it had already appeared once in the middle of the sixth century
 
@@ -6788,7 +6788,7 @@ The very fact that the word finds its way into almost every European dictionary 
 
  The external aspect of the pagoda of this period is characterized by the ever-more faithful imitation of timber construction.
 
-# Columns
+Columns
 
 architraves
 
@@ -6806,7 +6806,7 @@ Thus the multi-storied and multi-eaved pagodas of this period look quite differe
 
  One-storied Pagodas
 
-# The one-storied pagoda
+The one-storied pagoda
 
 which was very popular in the Period of Simplicity
 
@@ -6818,7 +6818,7 @@ The shrinelike pagoda is raised on a base of shu-mi-tso
 
 a treatment not found in the T'ang dynasty examples.
 
-# The entrance
+The entrance
 
 which opened into the cella in the previous period
 
@@ -6838,13 +6838,13 @@ As the one-storied pagoda gradually disappeared
 
 changes also took place in the taller structures.
 
-# The octagonal plan became the norm
+The octagonal plan became the norm
 
 the square plan the exception.
 
 The wooden floors and stairs that used to divide and connect the stories gave way to masonry floors and stairs.
 
-# The architects were timid at first
+The architects were timid at first
 
 the pagodas were built almost as solid masonry
 
@@ -6868,7 +6868,7 @@ and the Sung or southern style.
 
  The Liao timber-frame subtype may best be described as the rendition in brick of such structures as the Wooden Pagoda (1056) of Fo-kung Ssu
 
-# Ying Hsien
+Ying Hsien
 
 Shansi Province (fig.1)
 
@@ -6916,7 +6916,7 @@ it is probably of the late twelfth or early thirteenth century.
 
  An unusual structure in the northern timber-frame subtype is the Pei T'a, or North Pagoda (fig.7f), the central feature of the Yun-chu Ssu group, which stands amid the four earlier stone pagodas of T'ang date.
 
-# This pagoda is only two stories high
+This pagoda is only two stories high
 
 apparently an unfinished structure of the Ying Hsien Wooden Pagoda type.
 
@@ -6946,13 +6946,13 @@ and the third is the Pai T'a in the railroad yard at the Cha-k'ou Station.
 
 156
 
-# However
+However
 
 true pagodas typical of this southern style are exemplified in the Twin Pagodas of Lo-han Yuan (982)
 
-# Soochow
+Soochow
 
-# Kiangsu Province
+Kiangsu Province
 
 and the Tiger Hill Pagoda in the same city (figs.
 
@@ -6970,7 +6970,7 @@ and the absence of the high shu-mi-tso base.
 
 In detail the columns are shorter but of more delicate entasis.
 
-# The tou-kung are simpler
+The tou-kung are simpler
 
 due to the absence of the diagonal kung and to the "stolen heart" on the first "jump".
 
@@ -6980,7 +6980,7 @@ called ling-chiao ya-tzu
 
 in the narrow corbelled cornice.
 
-# Thus the eave overhang is very slight
+Thus the eave overhang is very slight
 
 giving the pagoda a silhouette entirely different from that of the northern structures.
 
@@ -7008,7 +7008,7 @@ and less commonly in other parts of China.
 
 These pagodas are characterized by the complete absence of columns or pilasters on the walls.
 
-# The tou-kung
+The tou-kung
 
 however
 
@@ -7028,21 +7028,21 @@ In most cases the architrave is shown above the wall to receive the tou-kung.
 
 Typical of this subtype with tou-kung treatment are the P'i-chih T'a of Ling-yen Ssu (fig.9a)
 
-# Ch'ang-ch'ing
+Ch'ang-ch'ing
 
-# Shantung Province
+Shantung Province
 
 and the Pagoda of Shen-kuo Ssu
 
-# Hsiu-wu
+Hsiu-wu
 
-# Honan Province
+Honan Province
 
 both of the late eleventh century.
 
 An excellent example of the corbelled eave kind is the Liao-ti T'a of K'ai-yuan Ssu (1001)
 
-# Ting Hsien
+Ting Hsien
 
 Hopei Province (fig.9b).
 
@@ -7070,7 +7070,7 @@ The structure is a multi-storied pagoda with a very slight indication of columns
 
 and is faced with terra-cotta tiles.
 
-# Glazed in brown
+Glazed in brown
 
 they produce an effect like that of oxidized iron
 
@@ -7084,7 +7084,7 @@ not uncommon in the Sung dynasty.
 
 They are usally small and very slender because of the nature of the material—cast iron.
 
-# Like the stone pagodas of Hangchow
+Like the stone pagodas of Hangchow
 
 these miniature pagodas are really Dhanari columns in the form of pagodas.
 
@@ -7092,17 +7092,17 @@ Examples are found in the Yu-ch'uan Ssu, Tang-yang, Hupei Province, and in Tsi-n
 
  158
 
-# Multi-eaved Pagodas
+Multi-eaved Pagodas
 
 After the fall of the T'ang dynasty the multi-eaved pagoda became almost exclusively an expression of the Liao and Chin Tartars.
 
 It is the type commonly seen in North China today.
 
-# Treated with timber forms
+Treated with timber forms
 
 it now presents an aspect quite different from its predecessors in the Period of Simplicity.
 
-# The octagonal plan
+The octagonal plan
 
 with a few rare exceptions
 
@@ -7128,7 +7128,7 @@ The successive tiers of eaves are usually supported by tou-kung
 
 accurately rendered in brick.
 
-# But the corbelled eave is also common
+But the corbelled eave is also common
 
 and sometimes both treatments are combined in one pagoda by limiting the tou-kung to the lowest eave only.
 
@@ -7136,7 +7136,7 @@ and sometimes both treatments are combined in one pagoda by limiting the tou-kun
 
 Above the shu-mi-tso a p'ing-tso of lotus petals further elevates the structure.
 
-# The doors are flanked by guardian kings
+The doors are flanked by guardian kings
 
 and the windows by standing Bodhisattvas.
 
@@ -7146,19 +7146,19 @@ The building is of the eleventh century but somewhat freely repaired in later pe
 
 The Ch'ing T'a of Lin-chi Ssu (1185)
 
-# Cheng-ting
+Cheng-ting
 
-# Hopei Province
+Hopei Province
 
 is a smaller structure of the same type.
 
-# The Tomb Pagoda of Chen-chi
+The Tomb Pagoda of Chen-chi
 
 Po-lin Ssu (1228)
 
-# Chao Hsien
+Chao Hsien
 
-# Hopei Province
+Hopei Province
 
 is a similar structure with a slight modification
 
@@ -7174,15 +7174,15 @@ such as the square plan.
 
 A good example is the Ta T'a, or Big Pagoda, of Feng-huang Shan, Ch'ao-yang
 
-# Liaoning Province
+Liaoning Province
 
 probably of the thirteenth century.
 
-# The pagoda of Pai-ma Ssu
+The pagoda of Pai-ma Ssu
 
 near Loyang
 
-# Honan Province
+Honan Province
 
 built in 1175 when that region was under the Chin Tartars
 
@@ -7202,7 +7202,7 @@ the Pai T'a of I-pin, Szechuan Province, ca.
 
 is absolutely T'ang in character if judged only by its appearance.
 
-# But the interior arrangement
+But the interior arrangement
 
 with a celia in the core
 
@@ -7236,15 +7236,15 @@ is a typical simple example (fig.1a).
 
 The column in Feng-ch'ung Ssu, Hsing-t'ang
 
-# Hopei Province
+Hopei Province
 
 probably of the twelfth century
 
 is characteristic of numerous ching-chuang of the Sung and Chin dynasties.
 
-# The ching-chuang of Chao Hsien
+The ching-chuang of Chao Hsien
 
-# Hopei Province
+Hopei Province
 
 highly elaborate in treatment and very graceful in proportions
 
@@ -7256,7 +7256,7 @@ probably the eleventh century.
 
 Another interesting specimen is the thirteenth-century Dhanari column of Ti-tsang An
 
-# Kunming
+Kunming
 
 Yunnan Province.
 
@@ -7310,7 +7310,7 @@ especially topographical peculiarities and orientation.
 
 A common expression of this belief is the wen-fang t'a, the tower that brings good luck to those taking literary examinations.
 
-# They are seen throughout southern China
+They are seen throughout southern China
 
 where they are usually erected on an elevated terrain to the south or southeast of many a walled town.
 
@@ -7330,7 +7330,7 @@ in some cases
 
 more tapering in a harsh straight line.
 
-# The eaves became mere rings
+The eaves became mere rings
 
 with a narrow overhang and very flimsy tou-kung (if used at all)
 
@@ -7338,19 +7338,19 @@ reflecting their diminished proportion in the wooden originals of the day.
 
 Examples of this type are numerous.
 
-# The Pagoda of Chingyang
+The Pagoda of Chingyang
 
-# Shensi Province
+Shensi Province
 
 an early-sixteenth-century structure
 
 is quite reminiscent of the Period of Elaboration.
 
-# The pagoda of Ling-yen Ssu
+The pagoda of Ling-yen Ssu
 
-# Fen-yang
+Fen-yang
 
-# Shansi Province
+Shansi Province
 
 built in 1549
 
@@ -7358,9 +7358,9 @@ is a most typical Ming pagoda.
 
 The Twin Pagodas of Yung-chao Ssu (fig.2a)
 
-# Taiyuan
+Taiyuan
 
-# Shansi Province
+Shansi Province
 
 built in 1595
 
@@ -7372,7 +7372,7 @@ which cast deeper shadows for a more accentuated appearance than is normally fou
 
 The Fei-hung T'a of Kuang-sheng Ssu, Chao-ch'eng
 
-# Shansi Province
+Shansi Province
 
 built in 1515
 
@@ -7400,9 +7400,9 @@ and equally distasteful in appearance
 
 is the square pagoda of Ta-yun Ssu
 
-# Lin-fen
+Lin-fen
 
-# Shansi Province
+Shansi Province
 
 built in 1651 (fig.2d).
 
@@ -7420,9 +7420,9 @@ This iconographic treatment is itself as unorthodox as the design of the pagoda 
 
  A few other multi-storied pagodas of the Ch'ing dynasty may be mentioned.
 
-# The Pagoda of Hsin-chiang
+The Pagoda of Hsin-chiang
 
-# Shansi Province
+Shansi Province
 
 is of the astylar subtype.
 
@@ -7432,11 +7432,11 @@ it is characterized by entasis which is carried too high
 
 resulting in a spikelike contour.
 
-# The Pagoda of Feng-sheng Ssu
+The Pagoda of Feng-sheng Ssu
 
 Chin-tz'u, near T'ai-yuan
 
-# Shansi Province
+Shansi Province
 
 is of the northern timber-frame subtype
 
@@ -7446,9 +7446,9 @@ The Pei T'a, or North Pagoda, of Chin-hua, Chekiang Province, is a representativ
 
  164
 
-# Multi-eaved Pagodas
+Multi-eaved Pagodas
 
-# With the fall of the Chin dynasty
+With the fall of the Chin dynasty
 
 construction of multi-eaved pagodas virtually ceased.
 
@@ -7456,7 +7456,7 @@ Besides the two pairs of Twin Pagodas in Peking
 
 which are rather small and were originally Yuan structures but almost completely rebuilt during the Ch'ing dynasty, the only "full-size" multi-eaved pagoda we know from the Yuan dynasty is the one at T'ien-ning Ssu
 
-# Anyang
+Anyang
 
 Honan Province (fig.3a)〔10〕# This structure as it now stands
 
@@ -7466,17 +7466,17 @@ is evidently unfinished
 
 like so many of the towers of Gothic cathedrals in France.
 
-# Like the tomb Pagoda of Chen-chi
+Like the tomb Pagoda of Chen-chi
 
-# Po-lin Ssu
+Po-lin Ssu
 
-# Chao Hsien
+Chao Hsien
 
 Hopei Province (fig.0b)
 
 there is a very low story under each tier of eaves.
 
-# Therefore
+Therefore
 
 it is not even multi-eaved in the strict sense
 
@@ -7490,7 +7490,7 @@ The pagoda is unusual in plan as well as in exterior appearance
 
 for it is not solid like similar structures of the Liao and Chin dynasties.
 
-# Except for the ground story
+Except for the ground story
 
 which has a stairway around the celia
 
@@ -7508,7 +7508,7 @@ Two excellent small examples are the Tomb Pagoda of Hung-tz'u Po-hua Ta-shih and
 
 The latter is hexagonal in plan and is surmounted by a hemispherical stupa (fig.3b).
 
-# In the southwestern province of Yunnan
+In the southwestern province of Yunnan
 
 where the influence of the cultural centers was slow to permeate
 
@@ -7520,7 +7520,7 @@ but usually in the T'ang style with a square plan and corbelled cornices.
 
 The only multi-eaved pagoda of the Ming dynasty is the Tz'u-shou Ssu Pagoda at Pa-li-chuang, Peking (fig.3c)〔11〕.
 
-# Built in 1578
+Built in 1578
 
 it was unquestionably inspired by the nearby T'ien-ning Ssu Pagoda (fig.0a), whose general proportion it follows closely.
 
@@ -7542,7 +7542,7 @@ erected as a garden feature in the Yu-ch'uan Shan (Jade Fountain Park) near Peki
 
 It may be considered a combination of the multi-storied and multi-eaved types.
 
-# Of its three stories
+Of its three stories
 
 the lower two are double-eaved
 
@@ -7550,7 +7550,7 @@ while the top story is triple-eaved
 
 presenting a not unpleasant effect.
 
-# The plan
+The plan
 
 though octagonal
 
@@ -7564,13 +7564,13 @@ and timber construction is very faithfully imitated on the facades.
 
  Lamaist Stupas
 
-# As we have seen
+As we have seen
 
 the Lamaist stupa was heralded in the hemispherical tomb in Fo-kuang Ssu in the latter part of the tenth century and was adopted in certain tomb features in the Chin dynasty
 
 but it did not formally appear as a monumental edifice until the Yuan dynasty.
 
-# Its appearance assumed a new form
+Its appearance assumed a new form
 
 a bottle-shaped super-structure on a high base.
 
@@ -7612,11 +7612,11 @@ whose exact date is uncertain
 
 is the Pagoda of Shan-kuo Ssu
 
-# Tai Hsien
+Tai Hsien
 
 Shansi Province.
 
-# The shu-mi-tso base
+The shu-mi-tso base
 
 with its simple
 
@@ -7644,13 +7644,13 @@ especially in the "neck".
 
 Two typical examples are the Pei T'a of Yung-an Ssu (1651) in the Pei Hai (North Lake) Park, Peking (fig.4c), and the stupa surmounting the archway at the entrance to the ruined site of Fa-hai Ssu (1660), near the Hunting Park, Ching-yi Yuan, in the Western Hills, Peking.
 
-# The two structures
+The two structures
 
 though differing greatly in size
 
 are almost identical in general proportion.
 
-# In both
+In both
 
 the high shu-mi-tso base is simplified to only one tier.
 
@@ -7678,13 +7678,13 @@ and is very slender in proportion to the "belly".
 
  A few monuments of the same type are found in the neighborhood of Shenyang (Mukden)
 
-# Liaoning Province
+Liaoning Province
 
 relics of the early Ch'ing dynasty.
 
 They are distinguished by their very large "bellies" and broad bases.
 
-# Various modifications of this type
+Various modifications of this type
 
 usually small and executed in bronze
 
@@ -7692,13 +7692,13 @@ are used as ornamental features in temple grounds.
 
 Those in front of the Main Hall of Hsien-ch'ing Ssu in the Wu-t'ai Mountains
 
-# Shansi Province
+Shansi Province
 
 are typical.
 
  168
 
-# Five-pagoda Clusters
+Five-pagoda Clusters
 
 The one important contribution of the Ming dynasty to the art of pagoda building is the definite formulation of the "chin-kang pao-tso t'a," or the "Vajra-based pagoda" the grouping of five pagodas on a common base.
 
@@ -7708,13 +7708,13 @@ In the middle of the T'ang dynasty (late eighth century), a more exuberant manif
 
 In the Chin dynasty the idea takes a curious form in the Flowery Pagoda of Cheng-ting (fig.7d).
 
-# However
+However
 
 it was not until the T'ien-chun period (1457-1464) of the Ming dynasty, with the erection of the Chin-kang Pao-tso T'a at Miao-chan Ssu
 
 near Kunming
 
-# Yunnan Province
+Yunnan Province
 
 that the type was definitely formed.
 
@@ -7760,7 +7760,7 @@ forming a "penthouse" that covers the upper entrance of the stairway.
 
 75b, c).
 
-# In this group
+In this group
 
 erected in 1747
 
@@ -7770,7 +7770,7 @@ Two additional bottle-shaped stupas are placed in front of the five square
 
 multi-eaved pagodas.
 
-# The pavilion in front
+The pavilion in front
 
 here standing between and behind the two stupas
 
@@ -7796,11 +7796,11 @@ The group is placed on a low base on a low platform and preceded by a p'ai-lou.
 
  注释〔1〕疑为“611”。——译校注〔2〕疑为“681”。——译校注〔3〕疑为“669”。——译校注〔4〕疑为“709”。——译校注〔5〕疑为“711-727”。——译校注〔6〕疑为“1157”。——译校注〔7〕疑为the Twin pagodas of Cho Hsien。——译校注〔8〕疑为the northeast section。——译校注〔9〕疑为“1049”。——译校注〔10〕疑为“fig.3c”。——译校注〔11〕疑为“fig.3a”。——译校注
 
-# Other Masonry Structures
+Other Masonry Structures
 
 173
 
-# Tombs
+Tombs
 
 The Chinese builder never cultivated a real knowledge of brick and stone as primary structural media for ordinary use.
 
@@ -7818,7 +7818,7 @@ or assigned to secondary functions
 
 such as curtain walls of the walls coming up to the window sills of timber-framed buildings.
 
-# Masonry structures
+Masonry structures
 
 therefore
 
@@ -7840,7 +7840,7 @@ The tombs of the Six Dynasties and the T'ang dynasty are of even less interest t
 
  The incidental discovery of a few twelfth-century tombs in the neighborhood of I-pin and Nan-hsi
 
-# Szechuan Province
+Szechuan Province
 
 has revealed the high degree of architectural treatment of tombs of the Southern Sung dynasty.
 
@@ -7902,7 +7902,7 @@ exactly like a surface structure
 
 though they were covered over with the ramped earth and lime-concrete that formed the tumulus.
 
-# In some cases
+In some cases
 
 however
 
@@ -7910,7 +7910,7 @@ they were not roofed
 
 usually by will of the deceased emperor who wished to set an example of frugality.
 
-# Drawings from the files
+Drawings from the files
 
 or rather from the wastepaper dumps
 
@@ -7920,9 +7920,9 @@ hereditary architects to the imperial household of the Ch'ing dynasty for severa
 
 176
 
-# Vaulted Buildings
+Vaulted Buildings
 
-# Except in the province of Shansi
+Except in the province of Shansi
 
 the use of masonry for aboveground structures is extremely rare.
 
@@ -7966,7 +7966,7 @@ and other elements.
 
 Similar structures are also found in the Hsien-ch'ing Ssu, in the Wu-t'ai Mountains
 
-# Shansi Province
+Shansi Province
 
 and at Soochow
 
@@ -8002,7 +8002,7 @@ It is difficult to understand why these very impressive and monumental buildings
 
 178
 
-# Bridges
+Bridges
 
 The earliest bridges in China were of wood
 
@@ -8026,7 +8026,7 @@ which is segmental.
 
 The bridge is 115 feet long between the points where the two ends now emerge from the banks of the river.
 
-# The clear span
+The clear span
 
 if excavated from the banks
 
@@ -8046,7 +8046,7 @@ as is evidenced by his narrowing the top of the bridge toward the crown to give 
 
 thus counteracting the eccentric tendency of the separate rings.
 
-# However
+However
 
 his foresight and ingenuity did not succeed against time and the elements.
 
@@ -8058,13 +8058,13 @@ and three on the east fell in the eighteenth century.
 
 A smaller bridge of similar design stands outside the west gate of the same city
 
-# Chao Hsien
+Chao Hsien
 
 known as the Little Stone Bridge (fig.8c).
 
 It was built by Pao Ch'ien-erh at the end of the twelfth century, undoubtedly a copy of the Great Stone Bridge but only about half its length.
 
-# The balustrades
+The balustrades
 
 dated 1507
 
@@ -8096,13 +8096,13 @@ known as the Lu-kou Ch'iao Incident, which led to the Sino-Japanese war (fig.8e)
 
 Arched bridges in southern China are generally lighter in construction than those of the official style.
 
-# The thirteen-arched bridge of Chin-hua
+The thirteen-arched bridge of Chin-hua
 
-# Chekiang Province
+Chekiang Province
 
 is a superb example (fig.8f).
 
-# Bridges of stone piers
+Bridges of stone piers
 
 spanned by timber girders and with covered roadways
 
@@ -8124,9 +8124,9 @@ Bridges of enormous stone slabs are not uncommon in the province of Fukien.
 
 The suspension bridge is widely used in Szechuan
 
-# Kweichow
+Kweichow
 
-# Yunnan
+Yunnan
 
 and Sikang (figs.
 
@@ -8134,7 +8134,7 @@ and Sikang (figs.
 
 184
 
-# Terraces
+Terraces
 
 The t'ai, or terrace, was commonly used for recreation as early as the Shang dynasty.
 
@@ -8156,7 +8156,7 @@ whose original appearance can in no way be reconstructed.
 
 The most illustrious is the Yuan-ch'iu of the Temple of Heaven (commonly known as the Altar of Heaven), Peking, where the emperor made his annual offerings to heaven at dawn on New Year's Day.
 
-# Established in 1420
+Established in 1420
 
 it was radically repaired in 1754.
 
@@ -8166,7 +8166,7 @@ diminishing in diameter
 
 each surrounded by balustrades and approached by steps from four sides (fig.9a).
 
-# Other altars in this vicinity
+Other altars in this vicinity
 
 such as those of the Temple of the Earth
 
@@ -8196,15 +8196,15 @@ having more than a passing resemblance to the gateways at the famous Sanchi stup
 
  The oldest existing p'ai-lou is perhaps the one in Lung-hsing Ssu, Cheng-ting, Hopei Province.
 
-# It is possibly of the Sung dynasty
+It is possibly of the Sung dynasty
 
 but the upper part is very much altered by later restorations.
 
-# Somewhat similar gateways
+Somewhat similar gateways
 
 called wu-t'ou men, are mentioned in the Ying-tsao fa-shih, and the term is seen often in T'ang dynasty literature.
 
-# However
+However
 
 the structure did not become very popular until the Ming dynasty.
 
@@ -8222,7 +8222,7 @@ A street p'ai-lou and one in front of the lake at the Summer Palace are quite ty
 
 80c, d).
 
-# Brick masonry arches
+Brick masonry arches
 
 embellished with the form of a p'ai-lou in glazed terra-cotta, are also a common sight in Peking (fig.0e).
 
@@ -8396,7 +8396,7 @@ the basic Sung unit for measuring a ts'ai (module).
 
 One ts'ai is 15 fen high and ten fen wide    feng-shui 风水  geomantic influences; literally, wind and water    fu-chiao lu-tou 附角栌斗  a grouping of lu-tou on the plate (p'u p'ai fang) to strengthen a corner.
 
-# Adjacent to the corner lu-tou
+Adjacent to the corner lu-tou
 
 an additional lu-tou is added in each of the two directions.
 
@@ -8418,7 +8418,7 @@ multi-storied pavilion
 
 kuan 观
 
-# Taoist temple
+Taoist temple
 
 kung 宫
 
@@ -8484,7 +8484,7 @@ exposed beam
 
 ming-pan 皿板
 
-# Han term
+Han term
 
 a square board beneath the lu-tou
 
@@ -8532,9 +8532,9 @@ shua-t'ou 耍头  head of the beam (protruding)    ssu 寺  Buddhist temple    s
 
 stupa
 
-# Indian term
+Indian term
 
-# Buddhist burial shrine
+Buddhist burial shrine
 
 t'a 塔  pagoda    t'ai 台
 
@@ -8610,7 +8610,7 @@ For this we must think of each word as having two parts
 
 initial and final.
 
-# For certain initial consonants
+For certain initial consonants
 
 the aspirate is a signal to breathe out naturally when sounding
 
@@ -8618,7 +8618,7 @@ for example
 
 p' and t'.
 
-# Without the aspirate
+Without the aspirate
 
 the signal is
 
@@ -8694,7 +8694,7 @@ in certain
 
 Selected Bibliography 部分参考书目
 
-# Chinese Sources
+Chinese Sources
 
 Shortened Names of Publishers in Peking
 
@@ -8704,7 +8704,7 @@ Chung-kuo chien-chu kung-yeh ch'u-pan-she中国建筑工业出版社（China Bui
 
 Ch'ing-hua ta-hsueh chien-chu hsi清华大学建筑系（Tsing Hua University, Department of Architecture）Wen-wu: Wen-wu ch'u-pan-she文物出版社（Cultural Relics Publishing House）YTHS: Chung-kuo ying-tsao hsueh-she中国营造学社（Society for Research in Chinese Architecture）# Publications
 
-# Bulletin
+Bulletin
 
 Society for Research in Chinese Architecture.
 
@@ -8760,7 +8760,7 @@ Peking: Chien-kung, 1962.
 
 Chien-chu li-lun chi li-shih yen-chiu-shih建筑工程部建筑科学研究院建筑理论及历史研究室（Architectural Theory and History Section
 
-# Institute of Architectural Science
+Institute of Architectural Science
 
 Ministry of Architectural Engineering）.
 
@@ -8796,7 +8796,7 @@ vol., nos.
 
  Liang Ssu-ch'eng梁思成．Chung-kuo i-shu shih: Chien-chu p'ien ch'a-t'u中国艺术史建筑篇插图（History of Chinese arts
 
-# Architecture volume
+Architecture volume
 
 illustrations）.
 
@@ -8868,7 +8868,7 @@ Peking: YTHS, 1935.
 
 Jen-min shou-tu ti shih-cheng chien-she人民首都的市政建设（City construction in the People's Capital）.
 
-# Peking
+Peking
 
 Chung-hua ch'uan-kuo k'e-hsueh chi-shu p'u-chi hsieh-hui中华全国科学技术普及协会，1952.
 
@@ -8896,7 +8896,7 @@ Peking: Ch'ing-hua (nei-pu)（内部），1952.
 
 Tsu-kuo ti chien-chu祖国的建筑（The Architecture of the Motherland）.
 
-# Peking
+Peking
 
 Chung-hua ch'uan-kuo k'e-hsueh chi-shu p'u-chi hsieh-hui中华全国科学技术普及协会，1954.
 
@@ -8906,7 +8906,7 @@ Chung-hua ch'uan-kuo k'e-hsueh chi-shu p'u-chi hsieh-hui中华全国科学技术
 
 Chung-kuo chien-chu shih中国建筑史（History of Chinese architecture）.
 
-# Shanghai
+Shanghai
 
 Shangwu yin-shu kuan商务印书馆
 
@@ -8926,7 +8926,7 @@ Unillustrated.
 
 Ku chien-chu lun-ts'ung古建筑论丛（Collected essays on ancient architecture）.
 
-# Hong Kong
+Hong Kong
 
 Shen-chou t'u-shu kung-ssu神州图书公司，1975.
 
@@ -9026,7 +9026,7 @@ written several centuries ago
 
 of construction methods in the Yangtze Valley.
 
-# Western-Language Sources
+Western-Language Sources
 
  Boerschmann
 
@@ -9038,19 +9038,19 @@ Berlin: Wasmuth, 1925.
 
    Boyd, Andrew.
 
-# Chinese Architecture and Town Planning
+Chinese Architecture and Town Planning
 
 1500 B.
 
 1911.
 
-# London
+London
 
-# Alec Tiranti
+Alec Tiranti
 
 1962; Chicago
 
-# University of Chicago Press
+University of Chicago Press
 
 1962.
 
@@ -9060,11 +9060,11 @@ comp.
 
 Ancient Chinese Architecture.
 
-# Peking
+Peking
 
-# China Building Industry Press
+China Building Industry Press
 
-# Hong Kong
+Hong Kong
 
 Joint Publishing Co.
 
@@ -9206,19 +9206,19 @@ Living Architecture: Chinese.
 
 Translated from French.
 
-# New York
+New York
 
-# Grosset and Dunlap
+Grosset and Dunlap
 
 1971; London
 
-# Macdonald
+Macdonald
 
 1972.
 
  Sickman
 
-# Laurence
+Laurence
 
 and Soper
 
@@ -9252,7 +9252,7 @@ Paris and Brussels: Van Oest, 1926.
 
    Thilo, Thomas.
 
-# Klassische chinesische Baukunst
+Klassische chinesische Baukunst
 
 Strukturprinzipien und soziale Function.
 

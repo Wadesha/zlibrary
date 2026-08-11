@@ -616,7 +616,6 @@ caused the needle of
 
 the meter to flicker.
 
---- Page 7 ---
 
 (10) MEET THE QUANTUM
 
@@ -868,7 +867,6 @@ destructive interference
 
 to produce no wave.
 
---- Page 8 ---
 
 (12)
 
@@ -1194,7 +1192,6 @@ radiation escapes
 
 from cavity
 
---- Page 9 ---
 
 (14) MEET THE
 
@@ -1476,7 +1473,6 @@ E, to each quantum that was
 
 related to its frequency, f.
 
---- Page 10 ---
 
 Er
 
@@ -1770,7 +1766,6 @@ light from the
 
 electric current in
 
---- Page 11 ---
 
 18 MEET THE
 
@@ -2088,7 +2083,6 @@ unambiguously
 
 identified.
 
---- Page 12 ---
 
 # Bohr model
 
@@ -2296,7 +2290,6 @@ atom, like a set of steps that gets steeper.
 
 # METHANE MOLECULE
 
---- Page 13 ---
 
 out of the
 
@@ -2386,7 +2379,6 @@ the wave nature
 
 of light.
 
---- Page 14 ---
 
 THE "CENTRAL MYSTERY" (25)
 
@@ -3006,7 +2998,6 @@ chemicals react
 
 with each other.
 
---- Page 20 ---
 
 (36) OUT of THE DARKNESS
 
@@ -3202,7 +3193,6 @@ other.
 
 interact with itself.
 
---- Page 21 ---
 
 # OUT OF
 
@@ -3424,7 +3414,6 @@ emitted
 
 sunlight
 
---- Page 22 ---
 
 (40) OUT of THE DARKNESS
 
@@ -3610,7 +3599,6 @@ still manages to surround the proton.
 
 There are no inner layers of electrons to conceal the proton when its lone electron is being shared with another nucleus in a conventional chemical bond.
 
---- Page 23 ---
 
 decay and half-life
 
@@ -3714,7 +3702,6 @@ possible.
 
 Niels Bohr (1922)
 
---- Page 24 ---
 
 (44) OUT OF THE DARKNESS
 
@@ -3866,7 +3853,6 @@ one of the intermediate vector bosons
 
 in 1983.
 
---- Page 28 ---
 
 the quantum computer
 
@@ -3914,7 +3900,6 @@ magnified 200 times.
 
 Quantum computers may soon make these seem as quaint as glowing electronic valves are today.
 
---- Page 29 ---
 
 principles into practice
 
@@ -3992,7 +3977,6 @@ Computer scientists are trying to get around these problems by using devices suc
 
 but even this kind of technology is limited compared to the power of quantum computing.
 
---- Page 30 ---
 
 56) THE QUANTUM COMPUTER
 
@@ -4078,7 +4062,6 @@ without anyone looking at it.
 
 The ball collapses into one of the two possible colors
 
---- Page 33 ---
 
 # QUANTUM COMPUTER
 
@@ -4228,7 +4211,6 @@ the other responds
 
 no matter how far apart it is.
 
---- Page 34 ---
 
 (64) THE QUANTUM COMPUTER
 
@@ -4386,7 +4368,6 @@ it is possible for an exact copy of a physical system to be made at a distance.
 
 unimaginable possibilities,
 
---- Page 35 ---
 
 (66) GLOSSARY
 
@@ -4684,7 +4665,6 @@ Theory of how quarks interact by the exchange of gluons.
 
 Name chosen by analogy with quantum electrodynamics.
 
---- Page 36 ---
 
 (8) Glossary Index (69)
 
@@ -4770,7 +4750,6 @@ Z particles 51, 67, 68
 
 Zweig, George 47
 
---- Page 38 ---
 
 FURTHER READING/ACKNOWLEDGMENTS
 

@@ -2154,7 +2154,7 @@ more than one-fourth of China's land suffers from desertification：Jia Xiaoxia.
 
 any benefits of willow planting would be short-lived：For background on Wushenqi （also written as Uxin Ju） and environmental issues in the Ordos：Jiang Hong. "Grassland Campaigns in China's Collective Era：Socialist Policies and Local Initiatives in Uxin Ju， a 'Pastoral Dazhai.'" China's Embedded Activism：Opportunities and Constraints of a Social Movement. London：Routledge， 2008. Pages 89-110. "Reading China's Environmental Crisis：'Mao's War Against Nature' Continues." China Scope （September/ October 2007）：pp. 3-16. "China's Great Green Wall Proves Hollow." The Epoch Times， July 30， 2009.
 
-## Part II
+Part II
 
 In 1924， Sun Yat-sen：For the history of Sun Yat-sen's correspondence with Henry Ford， and the Chinese switch to the right-hand side of the road， see Thomas J. Campanella：Ibid.
 
@@ -2184,7 +2184,7 @@ For background on Aurel Stein in China: Walker, Annabel. Aurel Stein: Pioneer of
 
 BOOK II: THE VILLAGE
 
-## Part I
+Part I
 
 For background on the book culture of imperial China: Rawski, Evelyn Sakakida. Education and Popular Literacy in Ch'ing China. Ann Arbor: The University of Michigan Press, 1979.
 
@@ -2196,7 +2196,7 @@ David Spindler has transcribed and studied the tablet above Sancha; these detail
 
 At the time of Wei Jia's illness, the Western media carried many reports of unsanitary donor practices in China, and people feared that the country was on the verge of a major epidemic. In 2001, a United Nations report estimated that over one million Chinese had been infected, and they warned of a possible figure of twenty million by 2010. The Chinese government, on the other hand, estimated that there were only 840,000 H.I.V. and AIDS cases in 2003. In the following years, it became clear that the epidemic was not as widespread as many believed. In 2006, the figures were actually reduced: the Chinese government, working with the World Health Organization and the United Nation's AIDS program, estimated that the total number of Chinese H.I.V. and AIDS cases was 650,000. For reference, see the articles below: Rosenthal, Elisabeth. "China Now Facing an AIDS Epidemic, A Top Aide Admits." The New York Times, August 24, 2001. Yardley, Jim. "New Estimate in China Finds Fewer AIDS Cases." The New York Times, January 26, 2006.
 
-## Part II
+Part II
 
 This and the other figures in this section come from "The Rural Land Question in China," an excellent introduction to rural issues. This paper also gives a concise history of rural land policies since the Revolution. It was prepared by a number of Chinese and American academics who worked in conjunction with the Rural Development Institute. For background, I also spoke with two of the authors of this report, Zhu Keliang and Ye Jianping. Zhu Keliang et al. "The Rural Land Question in China: Analysis and Recommendations Based on a Seventeen-Province Survey." New York University Journal of International Law and Politics 38, no. 4 (Summer 2006): pp. 761-839.
 
@@ -2220,7 +2220,7 @@ For background on the rise of Falun Gong, and the crackdown: Johnson, Ian. Wild 
 
 This was the figure generally reported by foreign newspapers during the period when the Wei family began to engage in business. Today, estimates are even higher; Amnesty International says that over two thousand believers have died in custody. For a more recent newspaper report: Jacobs, Andrew. "China Still Presses Crusade Against Falun Gong." The New York Times, April 27, 2009.
 
-## Part III
+Part III
 
 For background on this campaign, see Cheng Li: Ibid.
 
@@ -2234,7 +2234,7 @@ Trouble can start within the Party itself: For background on village elections, 
 
 BOOK III: THE FACTORY
 
-## Part I
+Part I
 
 Officials announced plans: Details about China's highway project, and Zhang Chunxian's comments about Condoleezza Rice, are from the government press conference I attended on January 13, 2005 (see previous reference).
 
@@ -2252,7 +2252,7 @@ Yang Xiaohong: He was the director of Lishui's Economy Trade Committee.
 
 Long-term exposure to DMF causes liver damage: Redlich, Carrie A., et al. "Liver Disease Associated with Occupational Exposure to the Solvent Dimethylformamide." Annals of Internal Medicine 108, issue 5 (May 1988): pp. 680-86. Also see the Office of Environmental Health Hazard Assessment's "Chronic Toxicity Summary: N, N-Dimethylformanide." December 2000.
 
-## Part II
+Part II
 
 Annual per capita GDP: This figure, and the statistics about Lishui infrastructure, are from Yang Xiaohong, director of Lishui's Economy Trade Committee.
 
@@ -2264,7 +2264,7 @@ Francis Cabot Lowell: For background on Lowell, see the introduction to: Eisler,
 
 Speeding ticket: Background on radar tickets in Zhejiang came from interviews with local police officers.
 
-## Part III
+Part III
 
 70 percent of Lishui's total consumption of electricity: This figure is from director Yang Xiaohong.
 
@@ -2274,7 +2274,7 @@ Number of Lishui households buying an automobile: Zhang Qiao. "Mei Qian Hu Jumin
 
 Ancient Weir Art Village: For background on the Dagangtou artists' commune, I referred to the local government proposal "Guyan Huaxiang Huibao Cailiao" [Report on the Ancient Weir Art Village], as well as: Lan Weirong. "Lishui Huaxiang Chuangzuo Jidi Zai Quan Sheng Shao Jian" [The Lishui Artists' Village Creates a Unique Base in the Province]. Chuzhou Wanbao [Chuzhou Evening News], November 29, 2006.
 
-## Part IV
+Part IV
 
 The Yintai real estate company: For background on the Yintai case: Zhang Daosheng. "Lishui Yintai Fanchan Feifa Jizi An Wancheng Jiezi 胡宅权申报审核 [Creditors' Rights Are Declared in the Yintai Real Estate Illegal Fund-Raising Case]. Xinhua, March 4, 2009.
 

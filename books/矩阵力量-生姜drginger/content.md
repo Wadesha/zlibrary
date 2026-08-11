@@ -3138,9 +3138,9 @@ AB BA 
 
 k k k k = = = = = = + = + AO O ABC
 
-## A BC
+A BC
 
-## AB C
+AB C
 
 AB A B A B AB A B C AB AC
 
@@ -3310,13 +3310,13 @@ Page 20  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 T T T T T T T T T T T T T T T T T T T k k k k = + = + = = = = A A A B A B A A AB B A ABC
 
-## C B A
+C B A
 
-## A A A
+A A A
 
 A A
 
-## A A A
+A A A
 
 (38)
 
@@ -3378,7 +3378,7 @@ Page 21  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 T T A A AB B A ABC
 
-## C B A
+C B A
 
 A A k k − − − − − − − − − − − = = = =
 
@@ -5278,9 +5278,9 @@ Page 39  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 − − − − =  =  =  = A AB A AC
 
-## A A B
+A A B
 
-## A A C
+A A C
 
 IB IC B C (107)
 
@@ -5322,15 +5322,15 @@ Page 40  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 T T T T T T T T T T T T − − − − − − − − − − − − − − = = = = = ABC
 
-## C B A
+C B A
 
 ABC
 
-## C B A
+C B A
 
 ABC
 
-## C B A
+C B A
 
 A B C A B C
 
@@ -6018,17 +6018,17 @@ Page 16  |  Chapter 6 分块矩阵  |  Book 4《矩阵力量》  |  鸢尾花书
 
 n × m C =
 
-## A1B1
+A1B1
 
-## A2B1
+A2B1
 
 k × r (n k) × r k × (m r)
 
 (n k) × (m r)
 
-## A1B2
+A1B2
 
-## A2B2
+A2B2
 
 B B1 B2 D × r D × (m r)
 
@@ -6046,11 +6046,11 @@ A 左右切，B 上下切左右分块的A 乘上下分块的B，乘积AB 结果�
 
 n × D D × m n × m A B
 
-## A1B1
+A1B1
 
 = @ A A
 
-## A2B2
+A2B2
 
 + n × m n × s n × (D s)
 
@@ -6180,7 +6180,7 @@ Page 19  |  Chapter 6 分块矩阵  |  Book 4《矩阵力量》  |  鸢尾花书
 
 A1 B1 @ A1 B1 @ 1,2 A A1,1 1,1 B B1,2 = = 1,1 B 1,2 A A1,1B1,1 2,1 B 1,2 A A1,1B1,2
 
-## A1B1
+A1B1
 
 图 25. 计算A1B1
 
@@ -6192,7 +6192,7 @@ A1 B1 @ A1 B1 @ 1,2 A A1,1 1,1 B B1,2 = = 1,1 B 1,2 A A1,1B1,1 2,1 B 1,2 A A1,1B
 
 A2 B2 @ A2 B2 @ 2,2 A A1,2 1,2 B B2,2 = = 1,2 B 2,2 A A1,2B2,1 2,2 B 2,2 A A1,2B2,2
 
-## A2B2
+A2B2
 
 图 26. 计算A2B2
 
@@ -6226,23 +6226,23 @@ Page 20  |  Chapter 6 分块矩阵  |  Book 4《矩阵力量》  |  鸢尾花书
 
 − − − − − − − − − − − − − −   − − −     =       − − + −     A
 
-## BD C
+BD C
 
 A
 
-## BD C
+BD C
 
 BD A B C D
 
-## D C A
+D C A
 
-## BD C
+BD C
 
 D
 
-## D C A
+D C A
 
-## BD C
+BD C
 
 BD
 
@@ -6256,7 +6256,7 @@ A D C B
 
 − − − = A
 
-## BD C
+BD C
 
 H
 
@@ -6364,7 +6364,7 @@ A B
 
 C =
 
-## A B C
+A B C
 
 图 29. A、B、C 的张量积A⊗B⊗C
 
@@ -7986,13 +7986,13 @@ AB BA 
 
 再次强调，如果用列向量x = [x1, x2]T 代表坐标点时，矩阵乘法RSx 代表先缩放 (S)、后旋转 (R)；而矩阵乘法SRx 代表先旋转 (R)、后缩放 (S)。
 
-## S   R
+S   R
 
 RSx
 
 图 20. 先缩放再旋转
 
-## R   S
+R   S
 
 SRx
 
@@ -9378,7 +9378,7 @@ T T − = b X X X y (84)
 
 T T ˆ − = y
 
-## X X X
+X X X
 
 X y (85)
 
@@ -9398,17 +9398,17 @@ X(XTX)−1XT是我们在本书第5 章提到的幂等矩阵 (idempotent matrix)�
 
 T T T T T T T T − − − − = = I
 
-## X X X
+X X X
 
 X
 
-## X X X
+X X X
 
-## X X X X
+X X X X
 
 X
 
-## X X X
+X X X
 
 X (86)
 
@@ -10688,9 +10688,9 @@ Page 35  |  Chapter 10 数据投影  |  Book 4《矩阵力量》  |  鸢尾花�
 
 T T T T T = = = = G Z Z XV XV V
 
-## X XV
+X XV
 
-## V GV
+V GV
 
 Λ (63)
 
@@ -11526,7 +11526,7 @@ D1/2也是个对角方阵，D1/2对角线上元素是D 的对角线元素的非�
 
 T = A
 
-## LB LB
+LB LB
 
 (6)
 
@@ -11538,7 +11538,7 @@ LB 相当于A 的平方根。
 
 T T = = A
 
-## R BBR
+R BBR
 
 BR BR (7)
 
@@ -12096,7 +12096,7 @@ D       =         S
 
 D D D D D D D D D D D D − −                 = =                C
 
-## S GS
+S GS
 
 (50)
 
@@ -12536,9 +12536,9 @@ Page 12  |  Chapter 13 特征值分解  |  Book 4《矩阵力量》  |  鸢尾�
 
 D    − − − −       = = =         A
 
-## VDV VDV
+VDV VDV
 
-## VD V
+VD V
 
 V V
 
@@ -12554,9 +12554,9 @@ V V
 
 n n n n n D    − − − −       = = =         A
 
-## VDV VDV
+VDV VDV
 
-## VD V
+VD V
 
 V V
 
@@ -12580,7 +12580,7 @@ Page 13  |  Chapter 13 特征值分解  |  Book 4《矩阵力量》  |  鸢尾�
 
 T =
 
-## V AV
+V AV
 
 Λ (28)
 
@@ -12606,7 +12606,7 @@ T j = v Av
 
 T T T T T T T T T T T T T T T T T T T D D D D D D D                =               Λ
 
-## V GV
+V GV
 
 v X Xv v X Xv v X Xv X Xv X Xv X Xv X Xv X Xv X Xv
 
@@ -13880,7 +13880,7 @@ LDL 分解也是“方阵 @ 对角方阵 @ 方阵转置”，对AAT进行LDL 分
 
 T T T T 2.125 0.882 0.882 0.471 −     = =     −        = =       AA LDL
 
-## LD D L
+LD D L
 
 LD LD
 
@@ -13992,7 +13992,7 @@ SVD 分解有四种主要形式，完全型是其中一种。在完全型SVD 分
 
 T Rotate Rotate Scale z z     = = =         Az
 
-## U S V
+U S V
 
 (2)
 
@@ -14118,7 +14118,7 @@ Page 8  |  Chapter 15 奇异值分解  |  Book 4《矩阵力量》  |  鸢尾花
 
 T T T = X
 
-## VS U
+VS U
 
 (12)
 
@@ -14182,9 +14182,9 @@ Page 10  |  Chapter 15 奇异值分解  |  Book 4《矩阵力量》  |  鸢尾�
 
 T T T T T T T T T = = = XX USV USV
 
-## US V V S U
+US V V S U
 
-## USS U
+USS U
 
 (16)
 
@@ -14226,7 +14226,7 @@ Page 11  |  Chapter 15 奇异值分解  |  Book 4《矩阵力量》  |  鸢尾�
 
 T = X
 
-## U SV
+U SV
 
 (20)
 
@@ -14274,9 +14274,9 @@ X n × D @ D × n XT = XTX D × D
 
 T T T T T T T T T = = = X X USV USV VS
 
-## U U SV
+U U SV
 
-## VS SV
+VS SV
 
 (22)
 
@@ -14820,7 +14820,7 @@ Z = @ X V z1 z2 z3 z4 x1 x2 x3 x4 v1 v2 v3 v4
 
     T D D D D s s s s s s       = = = =       Z
 
-## USV V
+USV V
 
 US u u u u u u
 
@@ -14856,7 +14856,7 @@ Z = @ U S z1 z2 z3 z4 u1 u2 u3 u4 s1 s2 s3 s4 O
 
 T T T T D s s s       =       = =  I US US Z
 
-## S U U S
+S U U S
 
 Z
 
@@ -17310,9 +17310,9 @@ T , ,   cos , ,   angle , arccos    =  = = =      
 
 T T T T T = = = = X Y X G G Y Y XV XV V
 
-## X XV
+X XV
 
-## V G V
+V G V
 
 (85)
 
@@ -17320,7 +17320,7 @@ T T T T T = = = = X Y X G G Y Y XV XV V
 
   T T T T T T T     = = =         X X Y X X X X v G v v G v G
 
-## V G V
+V G V
 
 G v G v v G v
 
@@ -17476,11 +17476,11 @@ T T T T 6654.24 + = + = = + = + y y y y y y x x (91)
 
 T T T tr tr tr tr tr   = = = =     Y X X X X I G
 
-## V G V
+V G V
 
 V G V
 
-## VV G
+VV G
 
 G
 
@@ -18958,7 +18958,7 @@ T T T − − − − −= S R S R
 
 T T − − − −=
 
-## RS R
+RS R
 
 (36)
 
@@ -18970,7 +18970,7 @@ Page 10  |  Chapter 20 再谈圆锥曲线  |  Book 4《矩阵力量》  |  鸢�
 
 T T a b − − −   = =     Q
 
-## RS R
+RS R
 
 R R (37)
 
@@ -20460,7 +20460,7 @@ Page 18  |  Chapter 21 曲面和正定性  |  Book 4《矩阵力量》  |  鸢�
 
 x1 x2 fx2(x1, x2) = 0 fx1(x1, x2) = 0 IV I II III V VI VII
 
-## VIII
+VIII
 
 IX
 
@@ -20480,7 +20480,7 @@ Page 19  |  Chapter 21 曲面和正定性  |  Book 4《矩阵力量》  |  鸢�
 
 x1 x2 IV I II III V VI VII
 
-## VIII
+VIII
 
 IX
 
@@ -21900,7 +21900,7 @@ Page 8  |  Chapter 23 数据空间  |  Book 4《矩阵力量》  |  鸢尾花书
 
 T T T T T = = X USV
 
-## VS U
+VS U
 
 (8)
 
@@ -23460,23 +23460,23 @@ Index Sepal length X1 Sepal width X2 Petal length X3 Petal width X4 Species C Se
 
 Date
 
-## TSLA
+TSLA
 
 TSM
 
-## COST
+COST
 
-## NVDA
+NVDA
 
 FB
 
-## AMZN
+AMZN
 
-## AAPL
+AAPL
 
-## NFLX
+NFLX
 
-## GOOGL
+GOOGL
 
 2-Jan-2020 86.05 58.26 281.10 239.51 209.78 1898.01 74.33 329.81 1368.68 3-Jan-2020 88.60 56.34 281.33 235.68 208.67 1874.97 73.61 325.90 1361.52 6-Jan-2020 90.31 55.69 281.41 236.67 212.60 1902.88 74.20 335.83 1397.81 7-Jan-2020 93.81 56.60 280.97 239.53 213.06 1906.86 73.85 330.75 1395.11 8-Jan-2020 98.43 57.01 284.19 239.98 215.22 1891.97 75.04 339.26 1405.04 9-Jan-2020 96.27 57.48 288.75 242.62 218.30 1901.05 76.63 335.66 1419.79 ...
 
@@ -24046,7 +24046,7 @@ QR 分解利用QR 分解结果求解b。把X = QR 代入 (34) 得到：
 
 T T T T T T T T T T − − − − −   = =     = = I I b QR QR QR y
 
-## R Q Q R
+R Q Q R
 
 R Q y R R R Q y R Q y
 
@@ -24076,7 +24076,7 @@ R Q y R R R Q y R Q y
 
 T T T T T T T T T T T T T T T T T T T T T T T T T T − − − − − −   = =     = = = I I b USV USV USV y SV
 
-## U U SV
+U U SV
 
 SV U y SV SV SV U y SV SV SV U y SV U y
 

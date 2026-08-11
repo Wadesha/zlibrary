@@ -9201,15 +9201,15 @@ A Affenpinscher KC, FCI, AKC  16, 219, 262 Afghan Hound KC, FCI, AKC  15, 125, 1
 
 见 St. Miguel Cattle Dog  90 B Barandlbracke FCI 见 Austrian Black and Tan Hound  148 Barbet KC, FCI  232, 267 吠叫问题  307, 311, 317 Basenji KC, FCI, AKC  16, 22, 23, 24 Basset Artésien Normand FCI  145 Basset Bleu de Gascogne KC,
 
-## FCI
+FCI
 
 Basset Fauve de Bretagne KC,
 
-## FCI
+FCI
 
 Basset Hound KC, FCI, AKC 16, 137, 144 Bavarian Mountain Hound KC  178 Bayrischer Gebirgsschweisshund FCI 见 Bavarian Mountain Hound  178 Beagle KC, FCI, AKC  137, 152–53 Beagle Harrier FCI  15, 150 Bearded Collie KC, FCI, AKC  16, 48 Beauceron KC, AKC  80 Bedlington Terrier KC, FCI,
 
-## AKC
+AKC
 
 犬床，类型与用法  296, 306 行为，培养良好  306–11
 
@@ -9459,7 +9459,7 @@ Basset Hound KC, FCI, AKC 16, 137, 144 Bavarian Mountain Hound KC  178 Bayrische
 
 见 King Charles Spaniel 17, 261, 273 英国玩具梗（English Toy Terrier） KC, FCI  17, 208, 210, 270 恩特布赫山犬（Entlebucher Mountain Dog） KC,
 
-## AKC
+AKC
 
 恩特布赫山犬（Entlebucher Sennenhund） FCI
 
@@ -9477,7 +9477,7 @@ Basset Hound KC, FCI, AKC 16, 137, 144 Bavarian Mountain Hound KC  178 Bayrische
 
 见 Transylvanian Hound  181 埃什特雷拉山犬（Estrela Mountain Dog） KC  44 欧亚犬（Eurasier） KC, FCI  16, 116 运动量与选犬  15–17 F 田野獚（Field Spaniel） KC, FCI, AKC  223 巴西菲拉犬（Fila Brasileiro） FCI  85 芬兰猎犬（Finnish Hound）  15, 156 芬兰拉普猎犬（Finnish Lapphund） KC, AKC  108 芬兰狐狸犬（Finnish Spitz） KC, AKC  16, 105 平毛寻回犬（Flat Coated Retriever） KC, FCI,
 
-## AKC
+AKC
 
 食物与喂养  298–99 作为奖励的食物  322, 323, 324, 325, 327 食物攻击，预防 309 牙齿与饮食  298 台湾犬（Formosan Mountain Dog）
 
@@ -9513,7 +9513,7 @@ Basset Hound KC, FCI, AKC 16, 137, 144 Bavarian Mountain Hound KC  178 Bayrische
 
 见 视觉猎犬 布鲁塞尔格里芬（Griffon d'Arrêt à Poil dur Korthals） FCI 见 Korthals Griffon  245 比利时格里芬（Griffon Belge） FCI 见 Griffon Bruxellois  17, 262 蓝色加斯科涅格里芬（Griffon Bleu de Gascogne） FCI 见 Blue Gascony Griffon  16, 166 布鲁塞尔格里芬（Griffon Bruxellois） KC  17, 262 布列塔尼黄格里芬（Griffon Fauve de Bretagne） KC,
 
-## FCI
+FCI
 
 尼韦奈格里芬（Griffon Nivernais） FCI  16, 142 格罗安达犬（Groenendael） KC  38 格陵兰犬（Grønlandshund） FCI
 
@@ -9737,7 +9737,7 @@ Basset Hound KC, FCI, AKC 16, 137, 144 Bavarian Mountain Hound KC  178 Bayrische
 
 见 Caucasian Shepherd Dog  71 荷兰毛狮犬（Keeshond） KC, FCI, AKC  16, 118 凯利蓝梗（Kerry Blue Terrier） KC, FCI,
 
-## AKC
+AKC
 
 查理王猎犬（King Charles Spaniel） KC, FCI 17, 261, 273 国王牧羊犬（King Shepherd）  36 纪州犬（Kishu） FCI  115 纪州犬（Kishu ken） 见 Kishu 115 克莱因明斯特兰德犬（Kleiner Munsterlander） FCI
 
@@ -9805,7 +9805,7 @@ Basset Hound KC, FCI, AKC 16, 137, 144 Bavarian Mountain Hound KC  178 Bayrische
 
 见 South Russian Shepherd Dog  55 P 蝴蝶犬（Papillon） KC, AKC  17, 122 帕森罗素梗（Parson Russell Terrier） KC, FCI,
 
-## AKC
+AKC
 
 帕特戴尔梗（Patterdale Terrier）  15, 212 潘廷根猎犬（Peintingen Hound）
 
@@ -9929,7 +9929,7 @@ Basset Hound KC, FCI, AKC 16, 137, 144 Bavarian Mountain Hound KC  178 Bayrische
 
 见 Giant Schnauzer  15, 41, 200 救助犬  18–19 寻回犬 见 枪猎犬 罗得西亚脊背犬（Rhodesian Ridgeback） KC, FCI,
 
-## AKC
+AKC
 
 罗马尼亚米奥里提克牧羊犬（Romanian Mioritic Shepherd Dog）
 
@@ -10119,7 +10119,7 @@ Basset Hound KC, FCI, AKC 16, 137, 144 Bavarian Mountain Hound KC  178 Bayrische
 
 见 Montenegrin Mountain Hound  182 塞尔维亚三色猎犬（Serbian Tricoloured Hound）  183 雪达犬 见 枪猎犬 沙皮犬（Shar Pei） KC, FCI  82 设得兰牧羊犬（Shetland Sheepdog） KC, FCI,
 
-## AKC
+AKC
 
 柴犬（Shiba Inu） FCI, AKC
 

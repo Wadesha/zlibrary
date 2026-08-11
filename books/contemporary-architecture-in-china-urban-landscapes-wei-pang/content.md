@@ -1,4 +1,4 @@
-# Contemporary Architecture in China Urban Landscapes Wei Pang Z Library
+Contemporary Architecture in China Urban Landscapes Wei Pang Z Library
 
 辽宁科学技术出版社 Edited by PANG Wei Translated by Sophia Song and FANG Huiqian CONTEMPORARY ARCHITECTURE IN CHINA 城市景观 URBAN LANDSCAPES 建筑大系中国当代庞伟/编  宋丹丹 方慧倩/译
 
@@ -368,7 +368,7 @@ N 放大区域:
 
 ## 13. 餐饮平台及桌椅
 
-## SHENYANG VANKE HIGH-RISE RESIDENCE
+SHENYANG VANKE HIGH-RISE RESIDENCE
 
 Shenyang, Liaoning Province WSP Architects This project is located near the university town in Hunnan District in Shenyang. Cornfield texture is still applied in the design to form the venation of idyllic scene. The axes formed by the roads in the city extend the city venation. These two venations interweave each other and integrate planning, architecture and design under the same theme. In the overall planning, the multiple space system are superposed based on the original texture, and the unit design is elaborately fused with the applied functions and the local culture elements. The high-rise towers enclosed to form the inside courtyard, and the dynamic north slab tower becomes the symbolic building of the community and the gate of the university town. At the same time, designers also rethought the differences between designed and practical constructions.
 
@@ -626,7 +626,7 @@ at entrance
 
 ## 11. 居游庭院：金主题
 
-## BRC REDDISHWOOD HILL
+BRC REDDISHWOOD HILL
 
 Chengdu, Sichuan Province SED Landscape Architects Ltd.
 
@@ -822,7 +822,7 @@ with the texture of nature
 
 ## 8. 中式的古典建筑与自然肌理融合为一体
 
-## SHENZHEN VANKE KING METROPOLIS
+SHENZHEN VANKE KING METROPOLIS
 
 Shenzhen, Guangdong Province SED Landscape Architects Ltd.
 
@@ -934,11 +934,11 @@ entrance plaza
 
 ## 6. Pavilion cross the pool
 
-## Section 1:
+Section 1:
 
 1.Drain Pipe
 
-## Section 2:
+Section 2:
 
 ## 1. Drain pipe
 
@@ -1002,7 +1002,7 @@ Section of Entrance Area:
 
 ## 8. 水池
 
-## FUSHUN VANKE PARADISO
+FUSHUN VANKE PARADISO
 
 Fushun, Liaoning Province SED Landscape Architects Ltd.
 
@@ -1262,7 +1262,7 @@ Design inspiration is derived from traditional Chinese styles, combined with Eur
 
 The floor plan of Dragon Bay offers more functional garden space for homeowners and each garden has its own unique appeal. Sunken gardens provide light and ventilation to the basement floors. The gardens are adorned in Chinese traditional elements, such as decorative windows, sculptures, and features. These details convey a concept of value, luxury and nobility.
 
-## DRAGON BAY VILLA
+DRAGON BAY VILLA
 
 Beijing ECOLAND Planning and Design Corp.
 
@@ -1424,7 +1424,7 @@ The project is located in Qinhuangdao City, a tourist city on the east coast of 
 
 Bird Eye View
 
-## QINHUANGDAO BOTANIC GARDEN
+QINHUANGDAO BOTANIC GARDEN
 
 Qinhuangdao, Hebei Province Turenscape (Beijing Turen Design Institute)
 
@@ -1778,7 +1778,7 @@ Site Plan:
 
 Photographer: Turenscape (Beijing Turen Design Institute)
 
-## SHANGHAI HOUTAN PARK
+SHANGHAI HOUTAN PARK
 
 Shanghai Turenscape (Beijing Turen Design Institute)
 
@@ -2952,7 +2952,7 @@ The solution is the Bridged Gardens, featured with Hilled Gardens, City Windows,
 
 The regional landscape is flat and was once rich in wetlands and salt marshes, but had been mostly destroyed by decades of urban development and infrastructure construction. Though it is difficult to grow trees in the saline-alkali soil, a thick layer of soil was needed in order to provide a stable base for trees, an approach widely used in the region. However, uniformly raising the soil level would have blocked the view to the waterfront lake edge from the city. The architect approached this problem by creating a series of city “windows” that “cut” into the raised level soil and gave form to a wave like skyline. At the valleys, the sunken gardens take place and at the crests the hilled gardens can be found.
 
-## TIANJIN BRIDGED GARDENS
+TIANJIN BRIDGED GARDENS
 
 Tianjin Turenscape (Beijing Turen Design Institute)
 
@@ -3128,9 +3128,9 @@ Located in Jining at the intersection of the new city and the old town, the tria
 
 Design Concept The designers of the project planned a business centre in the middle of the site with an open park facing the east. A public service facility belt links the surrounding properties with great appeal. The office centre is the core functional area of the project. The design fully embraces the terrain and subtly highlights its two landscape belts which stretch from west to
 
-## THE ECOLOGICAL TRIANGLE -
+THE ECOLOGICAL TRIANGLE -
 
-## CREATING A SUSTAINABLE PUBLIC PARK
+CREATING A SUSTAINABLE PUBLIC PARK
 
 Jining, Shandong Province Logon Architecture east riverbanks. The functional areas within the site are surrounded by a simple yet open landscape. Pedestrian walkways and water components neatly meander throughout the greenery, while the west-east directed canal forms generous lake surface and plaza space. North-south sidewalks and irregular roads define diversified plaza spaces which enable people to take in the view of the green space from different angles, also serving as a communication, recreation and resting spot.
 
@@ -3338,9 +3338,9 @@ The Mu Garden – the Chinese Garden for Expo 2010 Shanghai is located at the so
 
 This project includes nine “Mu garden” series with the “Mu” as the unit, illustrating the Chinese traditional garden’s main elements according to different themes, including architecture, laying stones, waters and mountains, plantations, etc. This design transforms the traditional closed
 
-## THE MU GARDEN -
+THE MU GARDEN -
 
-## THE CHINESE GARDEN FOR EXPO 2010 SHANGHAI
+THE CHINESE GARDEN FOR EXPO 2010 SHANGHAI
 
 Shanghai ECOLAND Planning and Design Corp.
 
@@ -4152,7 +4152,7 @@ The city Hangzhou is expanding from the traditional centre to the Qiantang River
 
 The design suggests an urban development axis with a park landscape which integrates key buildings with special functions. The axis terminates in a large urban plaza with the city hall, the city council, an opera as well as museums and a “city balcony” that extends over the river. The landscape design is influenced by a patchwork of rectangular open spaces and water features, which derives from the fragmented patterns of the fields and fish ponds, which existed in this area, and contrasting organically shaped lakes and islands.
 
-## CULTURE WAVE CITY IN HANGZHOU
+CULTURE WAVE CITY IN HANGZHOU
 
 Hangzhou, Zhejiang Province Rainer Schmidt Landschaftsarchitekten, Obermayer Planen + Beraten GmbH The high-rise development achieves a high urban density, which is structured by the open space and the boulevards. This structure is conducive to the different hierarchies within the buildings and creates first class addresses with a direct connection to the green spaces. Great attention is put on the massing and the creation of an interesting skyline.
 
@@ -4438,7 +4438,7 @@ at entrance
 
 Site Area: 180,000m2 Design/Completion Time: 2008/2009 Designer: R-land Conceptual Design: ZHANG Junhua, BAI Zhuhua, WANG Zhaoju, JIA Ying, YANG Yi, ZHANG Peng Extension Design: ZHANG Junhua, WANG Zhaoju, JIA Ying Construction Design: ZHANG Junhua, HU Haibo, JIA Ying, LI Jing, HE Yunlong Thematic Sculpture: WANG Zhong, ZHUO Fan / City Design College at China Central Academy of Fine Arts Lighting: CHANG Zhigang, MOU Hongyi / Architecture College at China Central Academy of Fine Arts, YANG Chunming / R-land Supervision: Ku’erle Construction Supervision Centre Photographer: ZHANG Junhua Client: Service Centre for Landscape Technology, Xinjiang Ku’erle Bureau of Parks and Woods
 
-## XINHUA GARDEN
+XINHUA GARDEN
 
 Ku’erle, Xinjiang Uygur Autonomous Region R-land 占地面积：180000平方米设计/建成时间：2008年/2009年景观设计：北京源树景观规划设计事务所方案设计：章俊华，白祖华，王朝举，贾莹，杨奕，张鹏扩充设计：章俊华，王朝举，贾莹施工设计：章俊华，胡海波，贾莹，李竞，何云龙主题雕塑：王中，卓凡 / 中央美术学院城市设计学院照明设计：常志刚，牟宏毅 / 中央美术学院建筑学院， 杨春明 / R-land北京源树景观规划设计事务所监理：库尔勒市建设监理中心摄影师：章俊华业主：新疆库尔勒市园林局园林绿化科技服务中心新华园新疆维吾尔自治区 库尔勒市北京源树景观规划设计事务所总平面图：
 
@@ -4848,7 +4848,7 @@ to storm system
 
 ## 16. 雕塑
 
-## POLY INTERNATIONAL PLAZA
+POLY INTERNATIONAL PLAZA
 
 Guangzhou, Guangdong Province SWA Group Site Area: 570,000m2 Completion Time: 2006 Designer: SWA Group Photographer: Tom Fox Awards: 2009 ASLA National Honor Award; 2009 ASLA Northern California Chapter Merit Award; 2008 Architectural Record/Business Week - Good Design is Good Business: Award of Excellence SWA provided landscape architectural services for this high-rise office complex with accompanying retail. The site plan forms a series of gardens and plazas beginning with the South Garden and Arrival Court, leading next to the Central Garden, and finally to the North Plaza and Garden.
 
@@ -4984,7 +4984,7 @@ SWA为这个高层办公综合体提供景观建筑设计服务。总平面图�
 
 ## 12. 中心花园的设计应用了典型中式花园的气息
 
-## SUZHOU BIOLOGICAL OFFICE PARK
+SUZHOU BIOLOGICAL OFFICE PARK
 
 Suzhou, Jiangsu Province WSP Architects Project Description Suzhou Biological Office Park is located in Suzhou Industrial Park, Jiangsu Province, which aims to create sustainable and ecological science and technology park.
 
@@ -5124,9 +5124,9 @@ Plantations The plantations are also the promotion of the “texture” and “l
 
 10,11. 行政中心内的景观
 
-## YANGZHOU INFORMATION SERVICE
+YANGZHOU INFORMATION SERVICE
 
-## INDUSTRIAL GARDENLANDSCAPE DESIGN
+INDUSTRIAL GARDENLANDSCAPE DESIGN
 
 Yangzhou, Jiangsu Province WANG Cheng / XWHO Design Information Service Industrial Garden possesses its own distinctive characteristics in contrast with the traditional industrial garden and office building.
 
@@ -5384,7 +5384,7 @@ The site without open space being one of city blocks, how it becomes inventive a
 
 The compression of the Shenzhen Technology Park project located at South Hill, Shenzhen, in the narrow and disorder space between old office blocks and both with new buildings. With complicated contours, abnormal field identification, messed up parking system, the site being very common city space in China. It is aimed to create practical, positive and charming urban public space.
 
-## TECHNOLOGY PARK LANDSCAPE DESIGN
+TECHNOLOGY PARK LANDSCAPE DESIGN
 
 Shenzhen, Guangdong Province Guangzhou Turen Landscape Planning CO., Ltd.
 
@@ -5586,7 +5586,7 @@ Through its unique combination of contemporary landscape design and traditional 
 
 The landscape design represents a contemporary interpretation of several Chinese garden traditions: scenery overlapping scenery, gardens within gardens, water flowing / water reflecting, plants and the changing seasons.
 
-## BEIJING FINANCE STREET
+BEIJING FINANCE STREET
 
 Beijing SWA Group Proposed Site Circulation Diagram: Major public traffic - Veh.
 
@@ -5864,7 +5864,7 @@ Issue & Agenda How to redefine quality for five-star resort hotel which is not m
 
 Site Situation The site is flat which is about 18 hectares in rectangle shape (12 hectares for the first phase) and as normal northern landscape in China. Cold winter wind comes from northwest direction and cool summer wind comes from southeast direction. Moreover climate and landscape situation is very different at 4 reasons - spring is comfortable, summer is hot which will reach to 32 degree at highest, autumn is cool, and winter is cold about minus 10 degree at lowest. So how to use these varied experience for resort is the one of main points for design.
 
-## MING-TANG HOT SPRING RESORT
+MING-TANG HOT SPRING RESORT
 
 Bazhou, Hebei Province C T Design + Associates, LPD Landscape Planning & Design Inc.
 
@@ -6204,7 +6204,7 @@ The 627-square-metres interior space contains repast space, kitchen and toilet. 
 
 Observing the exterior façade of the building from various angles, through the architectural interplay of composition of solid and void, one could sense
 
-## TIANMEN MOUNTAIN RIVERSIDE RESTAURANT
+TIANMEN MOUNTAIN RIVERSIDE RESTAURANT
 
 Guilin, Guangxi Province LIU Chongxiao / China Architecture Design & Research Group Master Plan Building Area: 627m2 Completion Time: 2011 Designer: LIU Chongxiao / China Architecture Design & Research Group Photographer: DENG Xixun, LIU Chongxiao, HE Rong, SONG Yan 总平面图建筑面积：627平方米建成时间：2011年景观设计：刘崇霄 / 中国建筑设计研究院摄影师：邓熙勋，刘崇霄，何蓉，宋彦广西省 桂林市刘崇霄 / 中国建筑设计研究院天门山“山之港”临江餐厅
 
@@ -6318,7 +6318,7 @@ platform 平面图：
 
 每当小雨淅淅沥沥的时候，静静的光线漫反射在温暖的由杉木构成的室内环境中，江景若隐若现地浮现在人们的眼前，使品茶或就餐者的心慢慢地安静下来。
 
-## ROLLER COASTER
+ROLLER COASTER
 
 Beijing Interval Architects Situated in a tranquil environment of one of the best vocational schools in Beijing, the project aims at providing an iconic image to the institution as well as redefining the use of an existing public space on the central square of the campus.
 
@@ -6406,11 +6406,11 @@ Column-Silver Lacquer
 
 Detail B 1:20 Detail Section
 
-## R
+R
 
-## R
+R
 
-## R
+R
 
 细节图A 1:20 细节图A 1:20：
 
@@ -6484,7 +6484,7 @@ Plans:
 
 ## 6. 树池
 
-## DASHAWAN BEACH FACILITY
+DASHAWAN BEACH FACILITY
 
 Liandao Island, Lianyungang, Jiangsu Province Scenic Architecture Office The site locates on the east seafront of Liandao Island of Lianyungang, an emerging harbor city booming in the middle section of the coastline of China. The beach hosts about 20,000 swimmers everyday in the peak time of summer.  We were commissioned to design new facilities for bath service, restaurant & bars, fitness, entertainment and accommodations to meet the needs of increasing crowd.
 
@@ -6614,7 +6614,7 @@ Plans (Above, Facing Above And Below):
 
 ## 7. 餐吧内景
 
-## INDEX
+INDEX
 
 PLACE Design Group www.placedesigngroup.com brisbane@placedesigngroup.com WSP Architects www.wsp.com.cn bjo@wsp.com.cn SED Landscape Architects Ltd.
 

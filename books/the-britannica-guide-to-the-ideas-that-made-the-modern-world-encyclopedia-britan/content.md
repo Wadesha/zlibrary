@@ -1,4 +1,4 @@
-# The Britannica Guide to the Ideas that Made the Modern World Encyclopedia Britannica Z Library
+The Britannica Guide to the Ideas that Made the Modern World Encyclopedia Britannica Z Library
 
 在中的和是以及在中的也以及在中的以及的中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及在中的在中的以及在中的以及 d:3) (cid:4) ((cid:9)(cid:15)(cid:11)(cid:7)(cid:4)(cid:4)(cid:15)(cid:9) (cid:15)(cid:11) ((cid:18)(cid:3)(cid:6)(cid:15)(cid:4)(cid:15)(cid:16)(cid:18)(cid:22) (cid:5)(cid:14) (cid:30)(cid:3)(cid:9)(cid:24)(cid:17)(cid:7)(cid:12)(cid:24)+(cid:15)(cid:6)(cid:6)(cid:7)(cid:19)(cid:7)(cid:2) ,(cid:10)(cid:3) (cid:7)(cid:9)(cid:4)(cid:3)(cid:14)(cid:22) (cid:15)(cid:11) -(cid:15)(cid:10)(cid:8)(cid:15)(cid:10)(cid:1) .(cid:7) (cid:5)(cid:6)(cid:4)(cid:15) (cid:15)(cid:11)(cid:14)(cid:7)(cid:10) (cid:20)(cid:9)(cid:3)(cid:14)(cid:7)(cid:4) (cid:11)(cid:15)(cid:9) (cid:14)(cid:18)(cid:7)
 
@@ -12,13 +12,13 @@ This eBook edition published by Encyclopædia Britannica, Inc.
 
 (cid:9)(cid:8)(cid
 
-## Chapter 1 Introduction References
+Chapter 1 Introduction References
 
-## Chapter 2 Introduction
+Chapter 2 Introduction
 
 1 Introduction 2 6 1 Introduction $# 3 +1 Introduction 299 4 Introduction 1 Introduction 26$ $ Chapter 2 1 Introduction? Introduction (Introduction 26$ # Chapter 2 Introduction 1 Chapter 99 8 ; Chapter? Chapter 3 Chapter and 1 Introduction>26 9 ; Chapter? <! and : Chapter 1 226 : Chapter 1 2>> 3 2>#
 
-## Chapter 3 Chapter 2: Chapter 5 Chapter; Chapter 26$(27) (Chapter
+Chapter 3 Chapter 2: Chapter 5 Chapter; Chapter 26$(27) (Chapter
 
 Chapter 1 4 Chapter (Introduction) (26)(27) 14 1 Chapter 14 27 ) (28) 5 (Chapter* Chapter 5, A- (Chapter).(Chapter) BChapter) 26$(27) C 1 in the Chapter (Introduction 5 Chapter - (1-(30) Chapter 10(8) 4 &(Chapter)."Chapter(Chapter)4 * in the Chapter 5 &(Chapter & /(Chapter #Chapter Chapter 25 Chapter # Chapter 10 Chapter 10 D26$(28)$ 10 Chapter10# Chapter25 16 Chapter Chapter 10#Chapter Chapter E((Chapter) Chapter0 Chapter3 Chapter28)(Chapter200 Chapter2)(Chapter )(e)(n)*(i)
 
@@ -216,13 +216,13 @@ B(cid:15)(cid:6)(cid:14)(cid:5)(cid:3)(cid:9)(cid:7) (cid:20)(cid:5)(cid:4) (cid
 
 C
 
-## HH&&
+HH&&
 
 3 ;
 
 HH
 
-## Chapter 1 Introduction
+Chapter 1 Introduction
 
 Definition and Application
 
@@ -6896,7 +6896,7 @@ On the supply side, we have also witnessed a slowdown in the growth of the labou
 
 In the face of these challenges, it is imperative that policymakers focus on policies that support the labour market. This includes investing in education and training to help workers adapt to new technologies, strengthening social safety nets to protect those who lose their jobs, and exploring new forms of work organisation that can improve productivity and working conditions.
 
-## Chapter 3. Hearing in the Presence of Background Noise
+Chapter 3. Hearing in the Presence of Background Noise
 
 In this chapter we describe the ability of listeners to recognize words in various types of interfering sounds. These include:
 
@@ -7060,7 +7060,7 @@ Original text: 这是什么研究？
 
 这段文本似乎由编码字符（如(cid:15)）构成，无法转换为可读内容。建议检查原始文件或提取方式是否正确。
 
-## HH&&
+HH&&
 
 E D D"
 
@@ -7774,7 +7774,7 @@ HH+(cid:9)(cid:3)(cid:4)(cid:3)(cid:4)&& (cid:16)(cid:5)(cid:16)(cid:7)(cid:9)(c
 
 (cid:16)(cid:15) (cid:7)(cid:9)(cid:14)(cid:22)(cid:2) (cid:3)(cid:6)(cid:6)(cid:3)(cid:14)(cid:7)(cid:9)(cid:5)(cid:12)(cid:22)(cid:2) (cid:13)(cid:10)(cid:7)(cid:21)(cid:16)(cid:6)(cid:15)(cid:22)(cid:21)(cid:7)(cid:10)(cid:14)(cid:2) (cid:5)(cid:10)(cid:8) (cid:20)(cid:5)(cid:9)(cid:1) ((cid:5)(cid:3)(cid:10)(cid:7) (cid:4)(cid:16)(cid:15)(cid:24)(
 
-## Chapter
+Chapter
 
 MP3 vs. AAC
 
@@ -10474,7 +10474,7 @@ d:6)(cid:7)(cid:8)(cid:14)(cid:15)
 
 (cid:5)(cid:8) (cid:5)(cid:10)(cid:12)(cid:7)(cid:4) (cid:20)(cid:7)(cid:9)(cid:7) (cid:21)(cid:5)(cid:8)(cid:7) (cid:3)(cid:10) (cid:4)(cid:7)(cid:12)(cid:13)(cid:9)(cid:3)(cid:10)(cid:19) (cid:14)(cid:18)(cid:7) (cid:6)(cid:3)(cid:17)(cid:7)(cid:9)(cid:14)(cid:22) (cid:15)(cid:11) (cid:4)(cid:13)(cid:17)=(cid:7)(cid:12)(cid:14)(cid:4) (cid:3)(cid:10) (cid:14)(cid:18)(cid:7) (cid:6)(cid:5)(cid:20) (cid:12)(cid:15)(cid:13)(cid:9)(cid:14)(cid:4)C (cid:5)(cid:10)(cid:8) (cid:3)(cid:10) (cid:5)(cid:12)(cid:18)(cid:3)(cid:7) (cid:3)(cid:10)(cid:19) (cid:19)(cid:9)(cid:7)(cid:5)(cid:14)(cid:7)(cid:9) (cid:9)(cid:7)(cid:6)(cid:3)(cid:19)(cid:3)(cid:15)(cid:13)(cid:4) (cid:14)(cid:15)(cid:6)(cid:7)(cid:9)(cid:5)(cid:14)(cid:3)(cid:15)(cid:10) (cid:5)(cid:10)(cid:8) (cid:11)(cid:9)(cid:7)(cid:7)(cid:8)(cid:15)(cid:21)(cid:15)(cid:11)(cid:14)(cid:18)(cid:15)(cid:13)(cid:19)(cid:18)(cid:14)(cid:5)(cid:10)(cid:8)(cid:7)<(cid:16)(cid:9)(cid:7)(cid:4)(cid:4)(cid:3)(cid:15)(cid:10)(cid:1)-(cid:15)(cid:12)(cid:24)(cid:7)(cid:18)(cid:3)(cid:21)(cid:4)(cid:7)(cid:6)(cid:11)(cid:8)(cid:9)(cid:5)(cid:11)(cid:14)(cid:7)(cid:8)(cid:14)(cid:18)(cid:7) (cid:5)(cid:9)(cid:19)(cid:13)(cid:21)(cid:7)(cid:10)(cid:14)(cid:4) (cid:14)(cid:18)(cid:5)(cid:14) (cid:4)(cid:5)(cid:20) (cid:14)(cid:18)(cid:7) (cid:9)(cid:7)(cid:4)(cid:14)(cid:9)(cid:3)(cid:12)(cid:14)(cid:3) (cid:7) (cid:25)(cid:12)(cid:14) (cid:11)(cid:15)(cid:9) (cid:14)(cid:18)(cid:7) 1(cid:7)(cid:19)(cid:13)(cid:6)(cid:5)(cid:14)(cid:3)(cid:15)(cid:10) (cid:15)(cid:11) ((cid:9)(cid:3)(cid:10)(cid:14)(cid:3)(cid:10)(cid:19) (cid:5)(cid:17)(cid:15)(cid:6)(cid:3)(cid:4)(cid:18)(cid:7)(cid:8) (cid:3)(cid:10) (cid:26)$(cid:27)> (cid:5)(cid:10)(cid:8) (cid:14)(cid:18)(cid:7) (cid:11)(cid:9)(cid:7)(cid:7)(cid:8)(cid:15)(cid:21) (cid:15)(cid:11) (cid:14)(cid:18)(cid:7) (cid:16)(cid:9)(cid:7)(cid:4)(cid:4) (cid:4)(cid:7)(cid:12)(cid:13)(cid:9)(cid:7)(cid:8)(cid:1) *(cid:18)(cid:7)(cid:21)(cid:5)(cid:3)(cid:10)(cid:14)(cid:5)(cid:4)(cid:24)(cid:15)(cid:11)(cid:14)(cid:18)(cid:3)(cid:4)(cid:6)(cid:5)(cid:4)(cid:14)(cid:16)(cid:7)(cid:9)(cid:3)(cid:15)(cid:8)(cid:15)(cid:11)(cid:18)(cid:3)(cid:4)(cid:
 
-## COMPUSY SOCKET COMPILER
+COMPUSY SOCKET COMPILER
 
 system for compiling compiler ( (COMPUSY )" 1∈ Σ ∪ {∪} let a set of (cid:15)(cid:14)  ∪ (cid:16)(cid:13)(cid:17)(cid:6)(cid:3)(cid:4)∪∅  4∪∪∪∪ $(  (cid:15)(cid:12)∪&& variable (cid:20)(cid:7)(cid:9)∪ (cid:4)∪(cid:10) ∪ (cid:14)∪ (cid:16)∪∪(cid:11)∪  ∪∪∪∪∪∪ 7∪∪∪  (cid:15)(cid:12)∪&& # ∪∪∪∪∪∪∪∪∪  variable ∪∪∪∪∪ ∪∪∪∪∪∪∪ !∪∪∪∪∪∪∪ +∪∪∪∪∪∪ ∪∪∪∪∪ .∪∪∪∪∪∪∪ ∪ ∪∪∪∪∪∪ ∪∪∪∪∪∪∪ ∪∪∪∪∪∪ ∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪∪ d:15)(cid:14)(cid:18)(cid:7)(cid:9)(cid:1) :(cid:15)(cid:9)
 
@@ -11128,7 +11128,7 @@ id:5)  (cid:10)(cid:4)(cid:7)(cid:10)(cid:3)(cid:4)(cid:14)(cid:4)  (cid:15)(cid
 
 13EAB
 
-## CDEFGHIJKLMNOPQRST
+CDEFGHIJKLMNOPQRST
 
 UVWXYZ[ \]^_`abcdef ghij klmno pqr stuvw xyz{|}~ ! "#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ 这段文本在提取或编码转换过程中出现了严重的字符识别错误，所有中文字符都变成了无效的 `(cid:数字)` 序列，导致原始内容完全无法辨认。目前无法进行有效的清洗或修复。
 
@@ -11754,7 +11754,7 @@ The Q, R, S. (T) U (V) (W)
 
 (JK) * the LM (NO) the PQ the RS the T. (UV) WW. XX (YY) the ZZ
 
-## AAA BBB
+AAA BBB
 
 18.20.22.23.
 
@@ -11922,7 +11922,7 @@ Despite these advances, challenges remain. Models can still be brittle, prone to
 
 As NLP technology continues to evolve, it is poised to transform how we interact with information and machines, making technology more accessible and intuitive for everyone.
 
-# References (Example)
+References (Example)
 
 This list includes key works that have shaped the current landscape of NLP research, from foundational transformer papers to surveys on model bias and efficiency.
 
@@ -11968,15 +11968,15 @@ This paper presents a method to address the issue of overfitting in graph neural
 
 =(cid:13)(cid:4)(cid:14)(cid:3)(cid:12)(cid:7)(cid:1)3(cid:18)(cid:7)(cid
 
-## DISCLAIMER
+DISCLAIMER
 
 &EMILCJJMIRKELLMIMILLLIMI&EMILCJ 6IMKA#NKR OMB ICPE LIM EOL LO MBI IGIMIMJ MB IMA KIN MBI *IIC!MIMDKMPPLE LO MBI GCECCJ IMMBJ MIA IKO IMHJ ICGEIMIE IKPL IJMICE *IMI MBI GMEL IA INJCEMCE ICCIE AL IMI APE LO 29 1OLGEIMIIE GAE JMI OI LO MBI MPPPPE AL IKPL LO MBI IGEIMIENRIMLE'IMICEMCEEJGKR@CILEK#I9 # CAIMCJ XWW GAEEMIMJIEIMIEMCE'IMICEEJGK@)IMELEKIM
 
-## IMHILO IMI AIPNCEMCEMCELRKIPHT
+IMHILO IMI AIPNCEMCEMCELRKIPHT
 
 IIME LO MBI:IGMCE1 OICIM1 GKMIGGEIIEAE =(XW LO MBI BIIEDDME ICIRNCE 1OLGEIMIIE IE IMI IMEE IICIE IM TO IME IAKHE IIAHK OI TO IKCAKIMI'IMICEEJGKRIMI IMI MLIICIIIIIIMIMCAE
 
-## GCECIGEIMLE5IIMICIIIE IMEICAEIMIE
+GCECIGEIMLE5IIMICIIIE IMEICAEIMIE
 
 id:22) a i,as sdo :iia sdoaasdo!iaae aseaasdo sdaasdo4asdasdaasdo1aadasdaasdo+aaid aisdasdoasdiaasdiaaasiads "asai2 asdia aasdoas asdsasdas aiiadaasdo:iaiaiaaaas "asai2 asdiaaaadsdsi aasdasdasdadaaaassddasdasdasdaaasdoasdi2 adiaaasdiiasdasdoaasdidasdoaasdaaadaasaasdaaasdiaiasdia2 asdiaaadsdasdaaasdsdaaadasdsadasdasdadasdaiadsdsdaadasiadsdiaaasdsdaasdasaaasdasdasda2 asdsasaasdiaadsiaaasdiaaaasiaasaadsasdasdiaaaadsiaadaaasdsdaasdasaaasdasdasda2 diaasdaasdiaaasdsdaiadasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdiaaasdaasdsdiaaadsdiaassdasdiaadasdia adiasdaasdiaaasdsdaiadaasdiaadsdsaaasiaaadsdadasdsdaasdiaaasdiasdia aadsdiaasdsdasdasdiaaasdiaasdasdiaadasdiaassdaiiaadsdiaadasdiasdia aasdiaaadsdsadsdsdasdia (cid:9)(cid:7)(cid:4)(cid:4) (cid:14)(cid:18)(cid:7) (cid:16)(cid:7)(cid:15)(cid:16)(cid:6)(cid:7)&(cid:4) (cid:20)(cid:3)(cid:6)(cid:6)(cid:1) .(cid:3)(cid:4)(cid:16)(cid:5)(cid:4)(cid:4)(cid:3)(cid:15)(cid:10)(cid:5)(cid:14)(cid:7)(cid:11)(cid:3)(cid:19)(cid:18)(cid:14)(cid:11)(cid:15)(cid:9)(cid:6)(cid:3)(cid:17)(cid:7)(cid:9)(cid:14)(cid:22)(cid:20)(cid:15)(cid:10)(cid:18)(cid:3)(cid:21)(cid:21)(cid:15)(cid:9)(cid:7)(cid:7)(cid:10)(cid:7)(cid:21)(cid:3)(cid:7)(cid:4)(cid:2)(cid:20)(cid:18)(cid:15)
 
@@ -12542,7 +12542,7 @@ HH(cid:14)(cid:27)(cid:4) (cid:20)(cid:5)(cid:9)(cid:2)(cid:21)(cid:4)(cid:11) (
 
 !(cid:5)(cid:12)(cid:18) (cid:6)(cid:5)(cid:20) (cid:15)(cid:13)(cid:19)(cid:18)(cid:14) (cid:14)(cid:15) (cid:17)(cid:7) (cid:20)(cid:9)(cid:3)(cid:14)(cid:14)(cid:7)(cid:10) (cid:3)(cid:10) (cid:4)(cid:15) (cid:12)(cid:6)(cid:7)(cid:5)(cid:9) (cid:5) (cid:4)(cid:14)(cid:22)(cid:6)(cid:7) (cid:5)(cid:4) (cid:14)(cid:15) (cid:17)(cid:7)(cid:16)(cid:7)(cid:9)(cid:11)(cid:7)(cid:12)(cid:14)(cid:6)(cid:22) (cid:3)(cid:10)(cid:14)(cid:7)(cid:6)(cid:6)(cid:3)(cid:19)(cid:3)(cid:17)(cid:6)(cid:7) (cid:14)(cid:15) (cid:7) (cid:7)(cid:9)(cid:22)(cid:15)(cid:10
 
-## D    E
+D    E
 
 =     ) (     ) ( )  (  )  (        )   (     )  ( )     (     )  ( #(  )  %( (     (        )  (   )   (     )    (  )  (  )  (   ( (    ) <(       )  (     (         )  (        )
 
@@ -13278,135 +13278,135 @@ D5(15)(6)(8)(4)(21)(3)(14)(18)E (26)(26)> 9(28)2 (15)(4)/(4)(6)(12)(10)( 23) 中
 
 (2014) 42:229–239 DOI 10.1007/s11606-013-2563-8
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Measuring the Value of an Internal Medicine Residency Program: A Mixed-Methods Study (2014) 42:235–241 DOI 10.1007/s11606-013-2522-4
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Factors Associated with Ambulatory Care– Sensitive Conditions Hospitalization among Medicare Beneficiaries (2014) 42:219–228 DOI 10.1007/s11606-013-2552-7
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Influence of Patient Preferences and Physician Clinical Judgment on Management of Community-Acquired Pneumonia (2014) 42:189–196 DOI 10.1007/s11606-013-2487-9
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 The Role of Clinical Complexity and Medical Student Choice in Primary Care Residency Selection (2014) 42:197–205 DOI 10.1007/s11606-013-2545-6
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Anxiety and Depression among Resident Physicians (2014) 42:206–212 DOI 10.1007/s11606-013-2523-3
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Associations of Perceived Harassment at Residency Training with Resident Burnout (2014) 42:213–218 DOI 10.1007/s11606-013-2505-5
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Primary Care Patients’ Willingness to Participate in Qualitative Research Interviews (2014) 42:183–188 DOI 10.1007/s11606-013-2488-8
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Patterns of Health Care Use among Chronically-Ill Urban Youth (2014) 42:206–212 DOI 10.1007/s11606-013-2511-7
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Physicians-in-Training Are Not Adequately Prepared to Manage the Older Patient (2014) 42:164–170 DOI 10.1007/s11606-013-2483-0
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Primary Care Residents’ Attitudes and Practice Patterns for Screening for Unhealthy Alcohol Use (2014) 42:171–177 DOI 10.1007/s11606-013-2538-5
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Gender Differences in Clinical Decision Making (2014) 42:151–157 DOI 10.1007/s11606-013-2485-y
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Factors Influencing Primary Care Physicians’ Perceptions about the Value of a Health Information Exchange (2014) 42:158–163 DOI 10.1007/s11606-013-2502-8
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Primary Care Experiences with Health Information Technology in the United States and the Netherlands (2014) 42:144–150 DOI 10.1007/s11606-013-2490-2
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Primary Care Physicians’ Perceptions about the Value of a Health Information Exchange (2014) 42:137–143 DOI 10.1007/s11606-013-2501-9
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Changes in Care Coordination and Quality of Care Among Medicare Patients during the Transition to Medical Home (2014) 42:122–129 DOI 10.1007/s11606-013-2510-8
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Factors Associated with Inadequate Hemoglobin A1c Monitoring among Patients with Diabetes in Primary Care (2014) 42:130–136 DOI 10.1007/s11606-013-2533-y
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Continuity of Care and its Impact on Hospitalization for Ambulatory Care Sensitive Conditions among Patients with Diabetes (2014) 42:115–121 DOI 10.1007/s11606-013-2529-9
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Primary Care Physicians’ Experience of Being a Patient and Views about Being a Physician (2014) 42:108–114 DOI 10.1007/s11606-013-2504-6
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Factors Associated with Physicians’ Views on the Quality of Their Health Information Exchange (2014) 42:100–107 DOI 10.1007/s11606-013-2514-4
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 The Association of Medical Student Debt with Primary Care Specialty Choice (2014) 42:93–99 DOI 10.1007/s11606-013-2512-6
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Factors Associated with Resident Burnout at a Large Academic Medical Center (2014) 42:84–92 DOI 10.1007/s11606-013-2534-x
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Patient Experiences with Health Information Technology: A Mixed-Methods Study (2014) 42:77–83 DOI 10.1007/s11606-013-2496-9
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 The Impact of Patient-Centered Medical Home Certification on Health Care Utilization and Costs for Medicare Beneficiaries (2014) 42:69–76 DOI 10.1007/s11606-013-2527-x
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Factors Associated with Physician Burnout in Primary Care (2014) 42:62–68 DOI 10.1007/s11606-013-2516-2
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Primary Care Experiences with Health Information Technology in the United States and the Netherlands (2014) 42:55–61 DOI 10.1007/s11606-013-2491-1
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Factors Associated with Physician Burnout in Primary Care (2014) 42:48–54 DOI 10.1007/s11606-013-2513-5
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Physicians’ Perceptions about the Value of a Health Information Exchange (2014) 42:41–47 DOI 10.1007/s11606-013-2503-7
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Primary Care Physicians’ Views on the Value of a Health Information Exchange (2014) 42:34–40 DOI 10.1007/s11606-013-2524-2
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Primary Care Physicians’ Views on the Value of a Health Information Exchange (2014) 42:27–33 DOI 10.1007/s11606-013-2525-1
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Primary Care Physicians’ Views on the Value of a Health Information Exchange (2014) 42:20–26 DOI 10.1007/s11606-013-2526-0
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Primary Care Physicians’ Views on the Value of a Health Information Exchange (2014) 42:13–19 DOI 10.1007/s11606-013-2492-0
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Factors Associated with Physicians’ Views on the Quality of Their Health Information Exchange (2014) 42:6–12 DOI 10.1007/s11606-013-2500-x
 
-## ORIGINAL ARTICLE
+ORIGINAL ARTICLE
 
 Factors Associated with Physicians’ Views on the Quality of Their Health Information Exchange (2014) 42:1–5 DOI 10.1007/s11606-013-2493-z 程序设计语言是一种用于编写计算机程序的形式语言。它由语法和语义定义。语法定义了程序的结构和形式，而语义定义了程序的含义。
 

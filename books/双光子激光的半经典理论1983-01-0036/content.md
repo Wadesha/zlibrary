@@ -2,7 +2,7 @@
 
 3, No.
 
-# OPTICA SINICA
+OPTICA SINICA
 
 1983年1月 Acta Janua可1983
 
@@ -162,9 +162,9 @@ Lett.
 
 [10] M.
 
-# Takatsuji
+Takatsuji
 
-# Physica
+Physica
 
 1977, vol. A
 
@@ -186,7 +186,7 @@ Rev.
 
 Sargent et al.
 
-# Classical Physics
+Classical Physics
 
 (Addison-Wesley Pub.
 
@@ -196,7 +196,7 @@ Inc.
 
 Semiclassical theory of a two-photon laser
 
-# WANG ZHICHENG AND CAO LIMIN
+WANG ZHICHENG AND CAO LIMIN
 
 (Department of Physics
 
@@ -206,7 +206,7 @@ University of Lanzhou)
 
 revised 1 March 1982)
 
-# Abstract
+Abstract
 
 The semiclassical lamb method is applied to the problem of a single mode two-photon laser (TPL).
 
@@ -214,7 +214,7 @@ The steady-state solutions of the amplitude equation are obtained
 
 and their stability properties are analysed.
 
-# It is found that
+It is found that
 
 for TPL there exist threshold requirements both for pumping and for the light field intensity.
 

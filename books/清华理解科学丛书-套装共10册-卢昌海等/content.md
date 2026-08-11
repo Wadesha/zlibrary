@@ -154,11 +154,11 @@ ABC猜想浅说一、什么是ABC猜想？二、ABC猜想为什么重要？三�
 
 = x a
 
-# T bc
+T bc
 
 - x b
 
-# T ac
+T ac
 
  来说能量动量张量 T ab
 
@@ -168,7 +168,7 @@ T ab）与对称（即 T ab
 
 =T ba）保证了角动量的守恒（即 ǝ a
 
-# J abc
+J abc
 
  =0）。这种角动量被称为轨道角动量它涵盖所有的经典角动量（包括经典意义下的“自旋”——即自转角动量）。另一方面，我们也知道并非所有的角动量都具有能量动量起源比如量子意义下的自旋就不具有能量动量起源（因为一个有自旋粒子完全可以是无质量的）。如果我们把这种所谓“内禀”（即不具有能量动量起源）的角动量记为 S abc，则总角动量可以表示为 J abc
 
@@ -176,19 +176,19 @@ T ab）与对称（即 T ab
 
 +x a
 
-# T bc
+T bc
 
 -x b
 
 T ac。这时角动量守恒 ǝ a
 
-# J abc
+J abc
 
  =0将会要求
 
  ǝ a
 
-# S abc
+S abc
 
 = T cb
 
@@ -196,7 +196,7 @@ T ac。这时角动量守恒 ǝ a
 
 这一式子表明除非内禀角动量单独守恒（即 ǝ a
 
-# S abc
+S abc
 
  =0）否则能量动量张量将是非对称的（即 T ab
 
@@ -214,11 +214,11 @@ T ac。这时角动量守恒 ǝ a
 
 =x a
 
-# T bc
+T bc
 
 -x b
 
-# T ac
+T ac
 
  具有了完全的普遍性而我们在前面提到过量子意义下的自旋就不具有能量动量起源。因此，角动量与能量动量之间的这种关系式似乎不该具有那么大的普遍性起码不该将量子意义下的自旋包括在内。而一旦认定量子意义下的自旋是一种与能量动量无关的角动量那它对时空的影响就没有理由被包含在能量动量对时空的影响——即爱因斯坦场方程——之中。另一方面我们也不能简单地把自旋对时空的影响从理论中丢弃掉因为虽然尚不存在自旋对时空产生影响的任何观测证据（考虑到自旋的微小这是不足为奇的）但由于轨道角动量对时空的影响是广义相对论的确凿推论在理论上单单把自旋对时空的影响丢弃掉无疑是极不自然的。这些都表明爱因斯坦-嘉当理论对自旋的处理——即既承认它对时空有影响又不把这种影响归结于能量动量——是有一定合理性的。除此之外爱因斯坦-嘉当理论还有其他一些值得探讨的特点比如它可以将时空流形切空间上的结构群从广义相对论中的洛伦兹群（Lorentz group）推广到庞加莱群（Poincaré group）——这是嘉当提出这一理论的原始动机之一（我们所提及的量子意义下的自旋在当时尚未被发现）又比如它有可能对（部分地）消除广义相对论中的奇点问题起到一定帮助不过所有这些合理性及值得探讨的特点都未能使爱因斯坦-嘉当理论得到太多的关注。原因在我看来有不止一条比如爱因斯坦-嘉当与广义相对论的差别涉及到了像自旋这样的量子效应从而不仅现在哪怕将来也几乎没有任何可能得到直接的观测支持（引力在这种尺度上太过微弱）。此外，像有自旋粒子产生的引力场那样的问题由于场源的量子特征无法忽略很可能根本就不能用经典理论来处理
 
@@ -568,9 +568,9 @@ Boerner）也提出了类似的观点并在德、英、美等国获得了专利�
 
 the final frontier
 
-# StarTrek
+StarTrek
 
-# The Next Generation
+The Next Generation
 
  试图挑战自然的人常会被问到为什么要用自己的生命去冒险。我有一位酷爱登山的朋友一同在哥伦比亚大学（Columbia University）念研究生期间的某个夏天他登上了北美洲的最高峰——海拔6 194米的麦金利峰（Mount McKinley）。我在系里遇见了刚从雪域高原回来的他。锐利的紫外线灼黑了他的皮肤，使我几乎认不出来，但一种敬意在我心中油然而生。我没有问他为什么要去登山我知道登山家有一句震撼人心的名言因为山在那里（Because it's there）。小时候喜欢看星星，常可以看上几个小时不知倦怠。我知道天空中几乎每一颗小小的星星都要比我们脚下这个看似巨大的蓝色星球大上数百万倍
 
@@ -862,7 +862,7 @@ Tipler）研究了一个无限长的旋转柱体外部的时空
 
 1941—）及默顿（Robert C.
 
-# Merton
+Merton
 
 1944—）等人提出了有关金融衍生品（Derivatives）的数学模型。这个数学模型（称为布莱克-斯科尔斯模型）的基础是一组偏微分方程而这组偏微分方程与物理学上用来模拟随机过程的某些方程式具有一定的相似性。显然，物理学家们在研究这种方程式上具有很大的优势。而且这种优势不仅仅来自于那些方程式与物理方程式之间的相似性更多地是来自物理学家们所具有的处理包括那种方程式在内的各种复杂问题的普遍技巧以及修正旧模型构建新模型的能力。在瞬息万变的金融世界里，这种能力无疑具有极大的重要性。金融衍生品在20世纪70年代时还是一种不太重要的东西默顿在当年论文的开头甚至表示为此发展一套理论也许是不值得的。但在30多年后的今天，金融衍生品的市场规模却远远超过了像股票那样的传统金融产品。1997年，默顿和斯科尔斯因为当年那“也许是不值得的”工作获得了诺贝尔经济学奖（布莱克很遗憾地因为已经去世无法分享这一荣誉）。而物理学家参与其中共同打造的这种以金融模型分析为主要职责的新角色也早已成为了金融界的一种重要的新兴职业定量分析师（quantitative analyst
 
@@ -1006,13 +1006,13 @@ Wald）沃勒（Ivar Waller）X
 
 ABC猜想
 
-# CCD
+CCD
 
-# Excite
+Excite
 
-# Math Overflow
+Math Overflow
 
-# SETI
+SETI
 
 SU（2）SU（3）# TNT
 
@@ -1152,7 +1152,7 @@ The Quest of the Truth: From A.
 
 Einstein to S.
 
-# Hawking
+Hawking
 
 物含妙理总堪寻
 
@@ -1292,7 +1292,7 @@ A为光源，D为半透明半反射的玻片。入射到D上的光线分成两�
 
 沿着以太漂移的方向
 
-# DM 2
+DM 2
 
 与以太漂移方向垂直。图1-11迈克耳孙干涉实验示意图在迈克耳孙干涉装置中运动的光波就像在河中游泳的人一样。如图1-12所示，河水以速度v相对于河岸流动，河宽AB＝l 0。一个游泳的人从A出发以速度u（相对于河水）游到下游B′点再返身以同一速度u游回A点
 
@@ -1314,7 +1314,7 @@ AB′的长度与河宽相等即AB′＝l 0
 
 沿以太漂移的方向
 
-# DM 1
+DM 1
 
 则垂直以太漂移方向。这时光经过DM 2  的时间反而比经过DM 1  的时间长。仪器装置转动90°的结果将使到达观测镜T的两束光所经历的时间差了2Δt
 
@@ -1856,7 +1856,7 @@ Dover: Dover Publications．1923．中译本．相对论原理［M］．爱因�
 
 I, Mathematical Principles of Natural Philosophy［M］# Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 1934.［47］朗道，栗弗席兹．邹振隆，校．场论［M］．8版.
 
@@ -1886,33 +1886,33 @@ I, Mathematical Principles of Natural Philosophy［M］# Cambridge
 
 General Relativity［M］.
 
-# Chicago and London
+Chicago and London
 
-# The University of Chicago Press
+The University of Chicago Press
 
 1984.［60］Hawking S W, Ellis G F R.
 
 The large scale structure of space-time［M］.
 
-# Cambridge
+Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 1973.［61］Birrell N D, Davies P C W.
 
 Quantum Fields in Curved Space［M］.
 
-# Cambridge
+Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 1982.［62］Miller A I.
 
 Albert Einstein’s Special Theory of Relativity［M］.
 
-# London
+London
 
-# Addison-Wesley Publishing Company Inc
+Addison-Wesley Publishing Company Inc
 
 198.
 
@@ -1922,15 +1922,15 @@ Essential Relativity［M］.
 
 New York: Springer-Verlag, 1977.［64］Misner C W
 
-# Thorne K S
+Thorne K S
 
 Wheeler J A.
 
 Gravitation［M］.
 
-# San Francisco
+San Francisco
 
-# Freeman W H Company
+Freeman W H Company
 
 1973.［65］王永久．经典黑洞与量子黑洞［M］．北京科学出版社，2008.［66］王永久.
 
@@ -2186,7 +2186,7 @@ not even wrong（连错误都不如）(3)。当然，荣格的粉丝也别生气
 
 A Scientific Biography of Wolfgang Pauli［M］．Oxford
 
-# Oxford University Press
+Oxford University Press
 
 2002.［2］Miller I．Deciphering the Cosmic Number
 
@@ -2198,13 +2198,13 @@ Inc.，2009.［3］Peierls R．Bird of Passage
 
 Recollections of a Physicist［M］．Princeton
 
-# Princeton University Press
+Princeton University Press
 
 1985.［4］Weisskopf V．The Joy of Insight
 
 Passions of a Physicist［M］．New York
 
-# Basic Books
+Basic Books
 
 1992.［5］戈革．史情室文帚（下）［M］．北京：中国工人出版社，1999.
 
@@ -2270,13 +2270,13 @@ Passions of a Physicist［M］．New York
 
 A Scientific Biography of Wolfgang Pauli［M］．Oxford
 
-# Oxford University Press
+Oxford University Press
 
 2002.［2］Mehra J
 
 Rechenberg H．The Historical Development of Quantum Theory［M］．Berlin
 
-# Springer
+Springer
 
 2000.［3］Seth S．Crafting the Quantum
 
@@ -2284,13 +2284,13 @@ Arnold Sommerfeld and the Practice of Theory
 
 1890—1926［M］．Boston
 
-# The MIT Press
+The MIT Press
 
 2010.［4］Weisskopf V．The Joy of Insight
 
 Passions of a Physicist［M］．New York
 
-# Basic Books
+Basic Books
 
 1992.［5］玻尔．尼耳斯·玻尔集（第五卷）［M］．戈革译．北京：科学出版社
 
@@ -2516,7 +2516,7 @@ EPR论文非但不是一个低级错误而且是一项影响深远的研究那�
 
 Niels Bohr's Chinese translator［J］．AIP History Newsletter，2001，XXXIII（2）.［16］Bohr N．Phys．Rev.，1935，48：696.［17］d'Espagnat B．Conceptual Foundations of Quantum Mechanics［M］．New York：Perseus Books Publishing，LLC.，1999.［18］Einstein A
 
-# Podolsky B
+Podolsky B
 
 and Rosen N．Phys．Rev
 
@@ -2524,21 +2524,21 @@ and Rosen N．Phys．Rev
 
 777.［19］Feynman R．The Feynman Lectures on Physics（Vol Ⅲ）［M］．Boston
 
-# Addison-Wesley Publishing Company
+Addison-Wesley Publishing Company
 
 1965.［20］Heisenberg W．Physics and Philosophy［M］．New York
 
-# Harper Perennial Modern Classics
+Harper Perennial Modern Classics
 
 2007.［21］Waerden B L．Sources of Quantum Mechanics［M］．New York
 
-# Dover Publications
+Dover Publications
 
 Inc．1968.［22］Whitaker A．Einstein
 
 Bohr and the Quantum Dilemma［M］．Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 2006.
 
@@ -2684,27 +2684,27 @@ EPR的实在性判据倒的确可以被认为——从玻尔的新立场看—�
 
 还使得一些理解并认同相对论的专业人士被迫发表违心的反相对论言论成为“口是心非”的反对者。但总体来说德、苏、中这三家反相对论的缘由和风格虽各不相同却有一个共同特点那就是都倚仗了非科学的手段——无论那手段是纳粹主义马列主义，还是其他教条——来抨击相对论从而完全有别于科学探索。我们如今回顾那些反相对论运动的可笑与可悲，并不是要说明相对论不容挑战。诚然，相对论作为一个受到无数观测与实验支持的理论具有极为坚实的经验基础但科学上的任何理论都不是金科玉律相对论也不例外。只不过探索一个科学理论的缺陷或推翻一个科学理论必须使用科学的方法其他手段则大都徒劳无益。那样的手段若是个人使用导致的通常只是个人闹剧——就像如今仍屡见不鲜的民间“科学家”们的闹剧一样但若得到国家机器的支持而被强制推行则会使科学蒙难国家蒙羞，历史蒙尘。这是我们从那些反相对论运动中最该吸取的教训。参考文献［1］Graham L R．Science
 
-# Philosophy
+Philosophy
 
 and Human Behavior in the Soviet Union［M］．New Yrok
 
-# Columbia University Press
+Columbia University Press
 
 1987.［2］Grundmann S．The Einstein Dossiers［M］．Berlin
 
-# Springer
+Springer
 
 2004.［3］Illy J．Albert Meets America［M］．Baltimore
 
-# The John Hopkins University Press
+The John Hopkins University Press
 
 2006.［4］Kojevnikov A B．Stalin's Great Science：The Times and Adventures of Soviet Physicists［M］．London：Imperial College Press，2004.［5］Levenson T．Einstein in Berlin［M］．New York
 
-# Bantam Books
+Bantam Books
 
 2004.［6］Pais A．Subtle is the Lord［M］．Oxford
 
-# Oxford University Press
+Oxford University Press
 
 1982.［7］Wazeck M．The relativity deniers［J］．New Scientist
 
@@ -3056,9 +3056,9 @@ changhai.
 
 org/）浏览。人名索引阿哈罗诺夫（Yakir Aharonov）阿蒙森（Roald Amundsen）艾伯纳（Dieter Ebner）艾伦菲斯特（Paul Ehrenfest）艾萨克森（Walter Isaacson）爱丁顿（Arthur Eddington）爱因斯坦（Albert Einstein）奥本海默（J．Robert Oppenheimer）奥格·玻尔（Aage Bohr）奥斯特瓦尔德（Friedrich Ostwald）贝尔（John Stewart Bell）贝索（Michael Besso）毕安基（Luigi Bianchi）毕尔克尼斯（Christopher Bjerknes）波利亚（George Pólya）波普尔（Karl Popper）波斯特（Emil Post）玻恩（Max Born）玻尔（Harald Bohr）玻尔（Niels Bohr）玻姆（David Bohm）玻特（Walther Bothe）仓格尔（Heinrich Zangger）查基尔（Don Zagier）戴森（Freeman Dyson）戴维斯（Martin Davis）德拜（Peter Debye）德布罗意（de Broglie）德斯帕那特（Bernard d'Espagnat）狄拉克（Paul Dirac）丁肇中丢番图（Diophantus）厄尔曼（John Earman）恩兹（Charles Enz）法蒂夫（D．K．Faddeev）费恩曼（Richard Feynman）费马（Pierre de Fermat）费米（Enrico Fermi）芬克尔斯坦（David Finkelstein）冯·弗莱克（John Hasbrouck Van Vleck）弗兰克（James Franck）弗伦奇（Anthony French）福克（Vladimir Fock）福勒（Ralph H．Fowler）伽莫夫（George Gamow）盖革（Hans Geiger）戈革哥德尔（Kurt Gödel）格尔克（Ernst Gehrcke）格兰姆（Gørgen Gram）格里莫尔（Clark Glymour）格罗斯曼（Marcel Grossmann）宫苏艺郭汉英哈达玛（Jacques Hadamard）哈代（Godfrey Hardy）海森伯（Werner Heisenberg）赫尔布兰德（Jacques Herbrand）胡大年惠勒（John Archibald Wheeler）惠塔克（Andrew Whitaker）惠特克（Edmund Whittaker）霍尔顿（Gerald Holton）霍夫丁（Harald Høffding）卡拉西奥多里（Constantin Carathéodory）卡鲁查（Theodor Kaluza）康普顿（Arthur Compton）康瑞（Brian Conrey）科里（Leo Corry）克尔凯郭尔（Søren Kierkegaard）克拉默斯（Hendrik Anthony Kramers）克莱因（Oskar Klein）克朗尼希（Ralph Kronig）克林（Stephen Kleene）库尔恰托夫（Igor Kurchatov）拉马努金（Srinivasa Ramanujan）兰道（Edmund Landau）朗道（Lev Landau）劳厄（Max von Laue）勒波维茨（Joel Lebowitz）勒纳德（Philipp Lenard）雷恩（Jürgen Renn）黎曼（Bernhard Riemann）李特伍德（John Littlewood）李政道里奇（Gregorio Ricci-Curbastro）栗弗席茨（Vladimir Lifshits）列文森（Norman Levinson）吕丁格（Erik Rüdinger）楼世拓卢瑟福（Ernest Rutherford）鲁本斯（Heinrich Rubens）罗巴切夫斯基（Nikolai Lobachevsky）罗宾逊夫人（Julia Robinson）罗伯森（Peter Robertson）罗瑟（John Rosser）罗森菲尔德（Léon Rosenfeld）洛伦兹（Hendrik Lorentz）马蒂亚塞维奇（Yuri Matiyasevich）马尔科夫（A．A．Markov）马赫（Ernst Mach）马斯洛夫（S．Yu．Maslov）麦克斯韦（James Clerk Maxwell）梅拉（Jagdish Mehra）梅西亚（Albert Messiah）蒙哥马利（Hugh Montgomery）米（Gustav Mie）米尔斯（Robert Mills）米列娃·爱因斯坦（Mileva）穆尔（Ruth Moore）纳什（John Nash）南部阳一郎（Yoichiro Nambu）能斯特（Walther Nernst）牛顿（Isaac Newton）诺特（Emmy Noether）欧德里兹科（Andrew Odlyzko）派尔斯（Rudolf Peierls）派斯（Abraham Pais）潘诺夫斯基（Erwin Panofsky）泡利（Wolfgang Pauli）彭罗斯（Roger Penrose）蓬皮埃利（Enrico Bombieri）普朗克（Max Planck）普森（Charlesdela Vallée-Poussin）普特南（Hilary Putnam）丘奇（Alonzo Church）屈儆诚荣格（Carl Jung）赛尔伯格（Atle Selberg）施塔赫尔（John Stachel）束星北斯科特（Robert Falcon Scott）斯莱特（John Slater）斯塔克（Johannes Stark）斯陶耳岑堡（Klaus Stolzenburg）斯特恩（Otto Stern）斯特劳斯（Ernst Straus）苏步青苏士侃（Leonard Susskind）索波列夫（Sergei Sobolev）索尔（Tilman Sauer）索末菲（Arnold Sommerfeld）塔尔斯基（Alfred Tarski）泰勒（Edward Teller）汤川秀树（Hideki Yukawa）图灵（Alan Turing）托德洛夫（Ivan Todorov）托梅尔普劳兹（Senta Trömel-Plötz）外尔（Hermann Weyl）王淦昌韦斯科夫（Victor Weisskopf）韦伊（André Weil）维格纳（Eugene Wigner）魏茨泽克（Carl Friedrich von Weizsäcker）魏德涅夫斯基（Sebastian Wedeniwski）魏兰德（Paul Weyland）温伯格（Steven Weinberg）温特伯格（Friedwardt Winterberg）沃恩茨（Daniela Wuensch）沃克（Evan Harris Walker）乌伦贝克（George Uhlenbeck）吴大猷吴健雄西格尔（Carl Ludwig Siegel）希尔伯特（David Hilbert）肖恩哈格（Arnold Schönhage）谢希德许良英薛定谔（Erwin Schrödinger）雅默（Max Jammer）亚伯拉罕（Max Abraham）杨振宁姚琦英菲尔德（Leopold Infeld）约尔当（Pascual Jordan）约飞（Abram Joffe）詹姆士（William James）竺可桢术语索引
 
-# BKS
+BKS
 
-# EPR
+EPR
 
 X射线
 
@@ -3136,9 +3136,9 @@ X射线
 
 7讨论名词索引人名索引参考文献后记返回总目录作者简介卢昌海出生于杭州本科就读于复旦大学物理系毕业后赴美留学于2000年获美国哥伦比亚大学物理学博士学位目前旅居纽约。著有《那颗星星不在星图上寻找太阳系的疆界》《太阳的故事》和《黎曼猜想漫谈》并曾在《中国青年报》《数学文化》《科幻世界》《现代物理知识》《中学生天地》《科学画报》等报纸杂志上发表几十篇科普及专业科普作品。FROM
 
-# SINGULARITIES
+SINGULARITIES
 
-# TO WORMHOLES
+TO WORMHOLES
 
 从奇点到虫洞
 
@@ -3334,15 +3334,15 @@ Vishveshwara）沃尔德（Robert Wald）沃尔克（Arthur Walker）伍尔加�
 
 伊尔玛能（Tom Ilmanen）伊斯雷尔（Werner Israel）尤瑟福（Ulvi Yurtsever）约德杰斯（Peter Yodzis）约尔当（Pascual Jordan）参考文献综合读物   1.
 
-# Ciufolini I
+Ciufolini I
 
-# Wheeler J A
+Wheeler J A
 
 Gravitation and Inertia [M].
 
-# Princeton
+Princeton
 
-# Princeton University Press
+Princeton University Press
 
 1995.
 
@@ -3352,9 +3352,9 @@ Hawking S W, Ellis G F R.
 
 The Large Scale Structure of Space-Time [M].
 
-# Cambridge
+Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 1975.
 
@@ -3384,9 +3384,9 @@ Wald R M.
 
 General Relativity [M].
 
-# Chicago
+Chicago
 
-# University of Chicago Press
+University of Chicago Press
 
 1984.
 
@@ -3394,7 +3394,7 @@ General Relativity [M].
 
 Witten L.
 
-# Gravitation
+Gravitation
 
 An Introduction to Current Research [M].
 
@@ -3446,7 +3446,7 @@ Geometry-Dep.
 
 de Matematica
 
-# Universidade de Coimbra-September 1999
+Universidade de Coimbra-September 1999
 
 39-52.
 
@@ -3456,9 +3456,9 @@ Hawking S W, Penrose R.
 
 The Nature of Space and Time [M].
 
-# Princeton
+Princeton
 
-# Princeton University Press
+Princeton University Press
 
 1996.
 
@@ -3534,7 +3534,7 @@ Relativity, 2004, 7: 1.
 
  4.
 
-# Gibbons G W
+Gibbons G W
 
 et al. Positive Mass Theorems for Black Holes [J].
 
@@ -3666,7 +3666,7 @@ Phys.
 
 Joshi P S.
 
-# Cosmic Censorship
+Cosmic Censorship
 
 A Current Perspective [J].
 
@@ -3684,9 +3684,9 @@ Mars M.
 
 An Overview on the Penrose Inequality [J].
 
-# Journal of Physics
+Journal of Physics
 
-# Conference Series
+Conference Series
 
 2007, 20
 
@@ -3722,7 +3722,7 @@ Phys.
 
 Singh T P.
 
-# Gravitational Collapse
+Gravitational Collapse
 
 Black Holes and Naked Singularities [J].
 
@@ -3758,11 +3758,11 @@ Singapore: World Scientific, 1999.
 
  2.
 
-# Dalvit D
+Dalvit D
 
-# Milonni P
+Milonni P
 
-# Roberts D
+Roberts D
 
 Rosa F (eds).
 
@@ -3786,7 +3786,7 @@ Rev.
 
 Halpern P.
 
-# Cosmic Wormholes
+Cosmic Wormholes
 
 The Search for Interstellar Shortcuts [M].
 
@@ -3820,7 +3820,7 @@ Lett.
 
 Milton K A.
 
-# The Casimir Effect
+The Casimir Effect
 
 Physical Manifestations of Zero-Point Energy [M].
 
@@ -3860,7 +3860,7 @@ Norton Company, 1995.
 
 Visser M.
 
-# Lorentzian Wormholes
+Lorentzian Wormholes
 
 From Einstein to Hawking [M].
 
@@ -4786,7 +4786,7 @@ Ar（同时放出一个电子以平衡电荷）。37  Ar是一种放射性元素
 
 Jr.，1914—2006）率先展开了这方面的实验研究。考虑到氯在常温常压下是气体体积过于庞大戴维斯采用了常温常压下呈液态的四氯化碳（Carbon Tetrachloride
 
-# CCl 4
+CCl 4
 
 他的实验室位于地下5米左右，使用的四氯化碳约为3 800升。在这样简陋的条件下他只能得到一个有关太阳中微子数量的很宽松的上限比理论值高出了好几个数量级。[5]
 
@@ -4798,9 +4798,9 @@ Jr.，1914—2006）率先展开了这方面的实验研究。考虑到氯在常
 
  戴维斯的这个新实验被称为Homestake实验它的探测器位于地下1 500米深处。这种“深挖洞”的做法是太阳中微子实验中的标准做法目的是减少其他因素——比如宇宙线——的干扰。为了便于相互比较，人们往往用等效水深来表示中微子探测器的深度。Homestake实验中的这个1 500米的深度用等效水深来表示大约为4 200米。在Homestake实验中探测物质是近40万升（约600吨）的四氯乙烯（Tetrachloroethylene
 
-# C 2
+C 2
 
-# Cl 4
+Cl 4
 
   图9.
 
@@ -5354,19 +5354,19 @@ Wells）维恩（Wilhelm Wien）魏茨泽克（Carl von Weizsäcker）沃芬斯�
 
 詹森（Pierre Janssen）术语索引
 
-# GALLEX
+GALLEX
 
 g模
 
-# Homestake
+Homestake
 
 MSW效应
 
 p模
 
-# SAGE
+SAGE
 
-# SNO
+SNO
 
 γ射线《费恩曼物理学讲义》《关于两大世界体系的对话》《科学与当代世界》《圣经》《时间机器》《世界的和谐》《天体运行论》《物理学的进化》《宇宙体系论》《自然通史和天体论》《自然哲学的数学原理》A
 
@@ -5460,7 +5460,7 @@ Copernicus and Modern Astronomy［M］.
 
 New York：Dover Publications Inc，2004.［2］Bartusiak M.
 
-# Archives of the Universe
+Archives of the Universe
 
 100 Discoveries That Transformed Our Understanding of the Cosmos［M］.
 
@@ -5472,17 +5472,17 @@ Berlin：Springer-Verlag，2010.［4］Bilenky S.
 
 Introduction to the Physics of Massive and Mixed Neutrinos［M］.
 
-# Singapore
+Singapore
 
-# World Scientific Publishing Co Pte Ltd
+World Scientific Publishing Co Pte Ltd
 
 2005.［5］Celnikier L M.
 
 Find a Hotter Place！A History of Nuclear Astrophysics［M］.
 
-# Singapore
+Singapore
 
-# World Scientific Publishing Co Pte Ltd
+World Scientific Publishing Co Pte Ltd
 
 2006.［6］Chandrasekhar S.
 
@@ -5492,7 +5492,7 @@ Find a Hotter Place！A History of Nuclear Astrophysics［M］.
 
 上海：远东出版社，1992.［7］Chaplin W J.
 
-# Music of the Sun
+Music of the Sun
 
 The Story of Helioseismology［M］.
 
@@ -5504,33 +5504,33 @@ London：Adam Charles Black，1893.［9］Crelinsten J.
 
 Einstein's Jury：The Race to Test Relativity［M］.
 
-# Princeton
+Princeton
 
-# Princeton University Press
+Princeton University Press
 
 2006.［10］Dwivedi B N.
 
 Dynamic Sun［M］.
 
-# Cambridge
+Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 2003.［11］Enghag P.
 
 Encyclopedia of the Elements［M］.
 
-# Hoboken
+Hoboken
 
-# Wiley-VCH Verlag GmbH Co KGaA
+Wiley-VCH Verlag GmbH Co KGaA
 
 2004.［12］Foukal P V.
 
 Solar Astrophysics［M］.
 
-# Hoboken
+Hoboken
 
-# Wiley-VCH Verlag GmbH Co KGaA
+Wiley-VCH Verlag GmbH Co KGaA
 
 2004.［13］Franklin A.
 
@@ -5542,9 +5542,9 @@ Yanagida T.
 
 Physics of Neutrinos and Applications to Astrophysics［M］.
 
-# Berlin
+Berlin
 
-# Springer-Verlag Berlin Heidelberg
+Springer-Verlag Berlin Heidelberg
 
 2003.［15］Galileo G（author）.
 
@@ -5552,9 +5552,9 @@ Finocchiaro M（ed）.
 
 The Essential Galileo［M］.
 
-# Indinapolis
+Indinapolis
 
-# Hackett Publishing Company
+Hackett Publishing Company
 
 Inc，2004.［16］Giunti C.
 
@@ -5566,15 +5566,15 @@ Oxford：Oxford University Press，2007.［17］Golub L.
 
 Pasachoff J M.
 
-# Nearest Star
+Nearest Star
 
 The Surprising Science of Our Sun［M］.
 
 Cambridge：Harvard University Press，2002.［18］Harrington P S.
 
-# Eclipse
+Eclipse
 
-# The What
+The What
 
 Where，When
 
@@ -5590,9 +5590,9 @@ New York：John Wiley Sons，Inc，2008.［19］Holton G.
 
 The Cambridge Illustrated History of Astronomy［M］.
 
-# Cambridge
+Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 1997.［21］Isaacson W.
 
@@ -5600,13 +5600,13 @@ Einstein：His Life and Universe［M］.
 
 New York：Simon Schuster，2008.［22］Jackson M W.
 
-# Spectrum of Belief
+Spectrum of Belief
 
 Joseph von Fraunhofer and the Craft of Precision Optics［M］.
 
 Cambridge：The MIT Press，2000.［23］Kennefick D.
 
-# Not Only Because of Theory
+Not Only Because of Theory
 
 Dyson，Eddington and the Competing Myths of the 1919 Eclipse Expedition［J/OL］.
 
@@ -5624,17 +5624,17 @@ org/abs/0709.
 
 The Cambridge Encyclopedia of the Sun［M］.
 
-# Cambridge
+Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 2009.［26］Lang K R.
 
 The Sun from Space［M］.
 
-# Berlin
+Berlin
 
-# Springer-Verlag Berlin Heidelberg
+Springer-Verlag Berlin Heidelberg
 
 2009.［27］Littmann M.
 
@@ -5654,7 +5654,7 @@ org/abs/0907.
 
 Total Solar Eclipses［M］.
 
-# Berlin
+Berlin
 
 Springer Science + Business Media
 
@@ -5664,7 +5664,7 @@ The Story of Astronomy［M］.
 
 New York：Perseus Publishing，1995.［31］Pais A.
 
-# Subtle is the Lord
+Subtle is the Lord
 
 The Science and the Life of Albert Einstein［M］.
 
@@ -5684,9 +5684,9 @@ The Joseph Henry Press，2001.［35］Stix M.
 
 The Sun：an Introduction［M］.
 
-# Berlin
+Berlin
 
-# Springer-Verlag Berlin Heidelberg
+Springer-Verlag Berlin Heidelberg
 
 2004.［36］Tassoul J.
 
@@ -5696,13 +5696,13 @@ A Concise History of Solar and Stellar Physics［M］.
 
 Berlin：Princeton University Press，2004.［37］Taylor S R.
 
-# Solar System Evolution
+Solar System Evolution
 
 A New Perspective［M］.
 
-# Cambridge
+Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 2001.［38］Thomas I（trans）.
 
@@ -5710,7 +5710,7 @@ Selections Illustrating the History of Greek Mathematics Ⅱ［M］.
 
 London：William Heinemann Ltd，1941.［39］Ward P，Brownlee D.
 
-# Rare Earth
+Rare Earth
 
 Why Complex Life Is Uncommon in the Universe［M］.
 
@@ -5722,17 +5722,17 @@ New York：John Wiley Sons，Ltd，2004.［41］Zirker J B.
 
 Journey from the Center of the Sun［M］.
 
-# Princeton
+Princeton
 
-# Princeton University Press
+Princeton University Press
 
 2004.［42］Zirker J B.
 
 The Magnetic Universe［M］.
 
-# Baltimore
+Baltimore
 
-# The Johns Hopkins University Press
+The Johns Hopkins University Press
 
 2009.［43］黄润乾.
 
@@ -5828,7 +5828,7 @@ The Magnetic Universe［M］.
 
 33宇宙学第二部分附录参考文献跋返回总目录作者简介张轩中，北京师范大学物理系理论物理专业毕业从事离子阱与质谱仪器研究。著有《相对论通俗演义》，曾在《北京青年报》等媒体发表多篇文艺与科学评论。SUNRISE
 
-# A Story of
+A Story of
 
 the Quantum Theory and Relativity
 
@@ -6096,9 +6096,9 @@ cn
 
 # 序
 
-# SEARCH
+SEARCH
 
-# FOR THE EDGE OF THE SOLAR SYSTEM
+FOR THE EDGE OF THE SOLAR SYSTEM
 
 我与本书的作者是熟悉的。当年，我为复旦物理系高年级少数优秀学生开了一个讨论班学习量子理论初期发展的历史希望能够更好地理解其中的一些难点问题。就是在这个讨论班上当时还是大学一年级新生的卢昌海主动请求作个报告要介绍海森堡的矩阵力学。可以想象，我当然是带着极其怀疑的眼光答应了他的请求主要还是不想伤害一个年轻人的热情和自尊。但结果着实让我和他的学长们大吃一惊，他真的已经完全掌握这部分内容了！一年之后，他又提出要免修物理系最重头的全部“四大力学”课程即理论力学、热力学与统计物理量子力学和电动力学。为此，系里专门为他组成阵容超豪华的名教授团队，一门门笔试加口试地进行。全部结束之后，每一位参加测试的教授都真的被这个年轻人的才华折服了。据我所知，一位低年级学生能免修全部的“四大力学”课程在复旦物理系的历史上还从未有过而且成绩还是无可争辩的全优。或许这一“光辉纪录”还会保持相当长的时间吧。就是这样一位当年的才子，今天已成为一位优秀的科普作家。除了这本新版的《那颗星星不在星图上——寻找太阳系的疆界》清华大学出版社还出版了他的另外两部科普著作《太阳的故事》和《黎曼猜想漫谈》都很精彩。其中，后一本书还得到了大数学家王元的褒奖和推荐。另外，昌海目前还在努力地写作，相信会有更多的佳作问世。回想当年一套《十万个为什么》几乎成为我们这代人青少年时期科普作品的代名词。所幸的是，这种时代一去不复返了。今天的情景已完全不同了，书店里的科普作品可谓琳琅满目。多是多矣，然而拿起来翻阅几页后，还能不让人失望的却不多见。归纳起来可以说，一些作者对什么是真正好的科普作品还缺乏认识。第一，科普作品绝非“浅”知识的堆积，更不是一堆知识，知识一堆。第二，科普作品需要将深奥的道理和知识用浅显的语言讲出来道明白，但它不应该被庸俗化更不允许被误导。第三，如果科普作品的文字（包括翻译的文字）读起来比作品内容本身还难懂的话怎能不让人沮丧而无语呢？事实上，若非才、学、识皆备，很难写出好的科普作品。昌海的这本书就是这样一本难得的佳作，这是一次从地球出发的太空“深度游”。作者的“才”就在于他能将那些重要“景点”的来龙去脉交代得清清楚楚如数家珍，让人有身临其境之感。在不知不觉、轻松愉快的气氛中，对太阳系的结构形成了一幅生动的物理图像。有别于一般专业作品，一部好的科普作品，要求作者有好的文字。昌海的文字表达不仅简洁干净，而且还能在一些节骨眼上展现幽默和诙谐读起来赏心悦目。作者的“学”体现在对那些常被人讹传或误解夸张的历史事件进行分析和澄清证据确凿，令人信服。在逐字逐句地通读完这本书之后最令我佩服的是作者的“识”
 
@@ -6108,9 +6108,9 @@ cn
 
 # 自序
 
-# SEARCH
+SEARCH
 
-# FOR THE EDGE OF THE SOLAR SYSTEM
+FOR THE EDGE OF THE SOLAR SYSTEM
 
 在我为自己的第三本书《黎曼猜想漫谈》撰写后记时曾对前两本书没有前言或后记的原因作过这样的解释并不是不想写而是因为那两本书的写作及出版过程都很平淡（或曰顺利）没什么值得叙述的。若生添一篇前言或后记，不免有灌水之嫌。现在我却要为那两本书中的第一本——《寻找太阳系的疆界》的修订版“生添”一篇自序了其“灌水之嫌”且容我辩白几句（希望不会越辩越黑）。之所以要写这篇自序，主要有两个原因。首先是因为距离本书初版的问世已经过了三年多在如今这个快节奏的时代里算是一段不太短的时间了。而且对于本书来说这三年多的时间颇具代表性甚至可以说是走过了一个生死轮回从而多少有了一点谈“历史”的资历——就像久历了岁月的人多少可以谈点往事一样。其次是因为修订版——或许是出于促销方面的考虑——对书名作了变更。我虽由衷地希望出版社不要因出版我的作品而亏损心底里却更害怕读者因书名变更而将修订版当成新书误买以致血压升高因此想在尽可能靠前的文字——即这篇自序——中提个醒。不过，这一提醒是否真有效力却殊难预料因为读者买书前未必都会看自序网购的读者则是想看也未必看得到。倘若哪位读者不幸仍中了书名变更之“招”
 
@@ -6506,7 +6506,7 @@ Jane Luu应该被称为卢考虑到一个字的中文名用起来比较别扭本
 
 引起了很多人的反对反对者从天文学家到天文爱好者从普通民众到占星术士应有尽有。以前太阳系有九大行星时人们曾用九大行星的英文开首字母编写过一些便于记忆的英文短句比如：My Very Educated Mother Just Served Us Nine Pizza（我那受过良好教育的妈妈刚给我们做了九个比萨饼）冥王星（“P”luto）被剥夺行星资格后有人戏谑般地用剩下的八个开首字母也编了一个英文短句
 
-# Most Vexing Experience
+Most Vexing Experience
 
 Mother Just Served Us Nothing（最气恼的经历妈妈没给我们做任何东西）。当然，也有比较认真的反对者，比如有人对表决的代表性提出了质疑。他们指出，参与行星定义表决的天文学家只有424人（其中投反对票者为42人）不到与会人数的16％与国际天文联合会的会员总数相比更是连5％都不到不能充分地代表国际天文联合会。不过这种质疑初看起来颇有说服力，其实却不然。因为国际天文联合会的会员并非人人都对行星定义感兴趣因此投票率的高低未必能衡量投票质量的好坏。另一方面，424人从统计学角度讲已经不算是太小的样本统计误差只有百分之几超过90％的大比率通过绝非统计误差所能干扰。除非有迹象表明未投票的天文学家看待行星定义的态度与已投票者存在系统性的差异否则更多的人投票只会使赞成及反对的票数大致按比例增加却几乎不可能改变投票结果。当然最重要的是，行星定义无论如何改变所影响的只是我们对天体的称呼与分类而不是天体本身。冥王星是行星也好是矮行星也罢它就是那个在六十亿千米之外围绕太阳运动直径约2300千米
 
@@ -6624,23 +6624,23 @@ Jr）斯特恩（Alan Stern）斯威福特（Lewis Swift）泰森（Neil Tyson�
 
 Archives of the Universe [M].
 
-# New York
+New York
 
-# Vintage Books
+Vintage Books
 
 2004
 
 2．Beatty J K
 
-# Petersen C C
+Petersen C C
 
 Chaikin A.
 
 The New Solar System.
 
-# London
+London
 
-# Cambridge University Press
+Cambridge University Press
 
 1999
 
@@ -6654,9 +6654,9 @@ Celestial Mechanics, 1970,3: 67-80.
 
 Beyond Pluto [M].
 
-# London
+London
 
-# Cambridge University Press
+Cambridge University Press
 
 2001.
 
@@ -6670,7 +6670,7 @@ Baltic Astronomy, 2007, 16（3）：443-449.
 
 Bode's Law and the Discovery of Ceres [J].
 
-# Astrophysics and Space Science Library
+Astrophysics and Space Science Library
 
 1993,183
 
@@ -6678,15 +6678,15 @@ Bode's Law and the Discovery of Ceres [J].
 
 Planets X and Pluto [M].
 
-# Tucson
+Tucson
 
-# University of Arizona Press
+University of Arizona Press
 
 1980.
 
  8．Kollerstrom N.
 
-# An Hiatus in History
+An Hiatus in History
 
 The British Claim for Neptune's Co-prediction, 1845-1846 [J].
 
@@ -6694,7 +6694,7 @@ Hist of Sci, 2006, 44 (3): 349-371.
 
  9．Littmann M.
 
-# Planets Beyond
+Planets Beyond
 
 Discovering the Outer Solar System [M].
 
@@ -6702,15 +6702,15 @@ New York: Dover Publications, Inc.
 
 , 2004  10．Miner E D.
 
-# Uranus
+Uranus
 
-# The Planet
+The Planet
 
 Rings and Satellites [M].
 
-# Hoboken
+Hoboken
 
-# John Wiley Sons
+John Wiley Sons
 
 1998
 
@@ -6720,9 +6720,9 @@ Weaver J H.
 
 The Story of Astronomy [M].
 
-# New York
+New York
 
-# Perseus Publishing
+Perseus Publishing
 
 1995
 
@@ -6730,9 +6730,9 @@ The Story of Astronomy [M].
 
 The Planet Observer's Handbook [M].
 
-# London
+London
 
-# Cambridge University Press
+Cambridge University Press
 
 1994
 
@@ -6740,9 +6740,9 @@ The Planet Observer's Handbook [M].
 
 The Neptune File [M].
 
-# New York
+New York
 
-# Walker Publishing Company
+Walker Publishing Company
 
 Inc.
 
@@ -6750,7 +6750,7 @@ Inc.
 
  14．Tyson N.
 
-# The Pluto Files
+The Pluto Files
 
 The Rise and Fall of America's Favorite Planet [M].
 
@@ -6762,13 +6762,13 @@ Norton Company, Inc.
 
  15．Weintraub D A.
 
-# Is Pluto a Planet
+Is Pluto a Planet
 
 A Historical Journey through the Solar System [M].
 
-# Princeton
+Princeton
 
-# Princeton University Press
+Princeton University Press
 
 2006.
 
@@ -7224,7 +7224,7 @@ C钟校对，再次对回A钟的时刻为t A3，显然t A3－t A2，即图9-4中
 
 1961．［2］Newton I．Mathematical Principles of Natural Philosophy［M］．Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 1934．［3］朗道，栗弗席兹．场论［M］.
 
@@ -7258,35 +7258,35 @@ C钟校对，再次对回A钟的时刻为t A3，显然t A3－t A2，即图9-4中
 
 2010．［15］Wald R M．General Relativity［M］．Chicago
 
-# The University of Chicago Press
+The University of Chicago Press
 
 1984．［16］Hawking S W
 
 Ellis G F R．The Large Scale Structure of Space-time［M］．Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 1973．［17］Birrell N D
 
 Davies P C W．Quantum Fields in Curved Space［M］．Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 1982．［18］Rindler W．Essential Relativity［M］．New York
 
-# Springer-Verlag
+Springer-Verlag
 
 1977．［19］Misner C W
 
-# Thorne K S
+Thorne K S
 
 Wheeler J A．Gravitation［M］．San Francisco
 
-# Freeman W H Company
+Freeman W H Company
 
 1973．［20］王永久．经典黑洞与量子黑洞［M］．北京科学出版社，2008．［21］Prigogine I．From Being to Becoming［M］．San Francisco
 
-# Freeman W H and Company
+Freeman W H and Company
 
 1980．［22］普里高津．从存在到演化［M］．曾庆宏严士健，马本堃等，译．上海上海科学技术出版社
 
@@ -7366,7 +7366,7 @@ Oxford Univ．Press
 
 2017
 
-# ISBN 978-7-302-46992-6
+ISBN 978-7-302-46992-6
 
 Ⅰ．①运… Ⅱ．①吴… Ⅲ．①科学知识－普及读物 Ⅳ．①Z228
 
@@ -8172,13 +8172,13 @@ D（杰姆斯•哈德利法律博士）# The Number Seven
 
 Essays Philological and Critical (New York
 
-# Holt Williams
+Holt Williams
 
 1873), page 325
 
 1858年．第3篇：Helena Petrovna Blavatsky（海伦娜•佩特罗弗纳•布拉瓦茨基夫人）# The Number Seven
 
-# Theosophist
+Theosophist
 
 June.
 
@@ -8186,11 +8186,11 @@ June.
 
 Miller（乔治•米勒尔）# The Magical Number Seven
 
-# Plus or Minus Two
+Plus or Minus Two
 
 Some Limits on Our Capacity for Processing Information
 
-# Psychological Review
+Psychological Review
 
 63, 81-97
 
@@ -8288,9 +8288,9 @@ cn
 
    绘画：张京谨以本书献给清华大学附属中学纪念母校诞生一百周年。前言
 
-# THE MISTY UNIVERSE
+THE MISTY UNIVERSE
 
-# THE SKY OF THE ROAD
+THE SKY OF THE ROAD
 
  “宇宙宇宙学、航天航天科技”这些词汇已为人们耳熟能详。宇宙大爆炸、黑洞的观测确认；宇宙微波背景辐射和恒星光谱红移的测定；人造卫星，飞船探月、探火星的飞行器飞离太阳系、飞向更遥远太空等航天活动为越来越多的人所知晓引起各个年龄层人们的好奇与兴趣。那么，从古至今，宇宙科学与航天科技经历了怎样的过程？发生过哪些大的著名事件？人们是如何看待和认识这些的？这些事件对人类自身又产生了何种影响？特别是时至今日人类对我们身在其中的宇宙本质究竟了解到何种程度有哪些重要的研究理论和成果？根据国内外众多专著的论述和历史书籍的记载，本书会对这些内容一一予以讲述。记得多年前夏日晴朗夜晚仰望星空，无限深邃天穹广阔，繁星璀璨给人以无尽的遐想；看到夜空中流星的划过，人造航天器的移行，感叹人生之短暂，宇宙之浩渺。又经历了多少岁月随着时代的变迁科学的进步，技术的发展思想的解放，使人类有了更深切的感悟宇宙处于永恒的变化运动中。除此之外，世上不存在绝对之物。任何理论、任何思想，都应该受到宇宙不断变化、运动的检验并加以修正，使之趋于完善。从本书讲述的宇宙、航天发展历史中的诸多事件充分证明了这点。至于某些利益权贵集团像西方中世纪教廷为了维持宗教统治墨守成规，残酷镇压那些勇于探索敢于提出新理论的学者对他们进行宗教审判迫害，甚至将他们火刑烧死使西方社会坠入黑暗世纪。这是很为现代文明社会所不齿的。随着科技的进步探测水平的提高人们对宇宙的理解会更加符合宇宙的真实并相信：宇宙的规律是可以逐步把握的。顺应宇宙的发展方向破除各种陈旧之束缚确立对宇宙真实的认知应用于周围的世界会使我们的社会生活和思想趋向科学与和谐。具有宇宙之精神，对真理的自由探索与不断追求，正是我们共同的宇宙观、理念与信仰。按照宇宙科学和航天科技发展的历史进程我们划分为五个大的时期来顺序讲述远古时代关于宇宙的众多神话传说可称为宇宙学说的启蒙阶段我国史书上有关的天象记录和天文历法记载是其中亮点。这是第一时期。从公元前6世纪到公元3世纪在中国，关于早期宇宙科学的各项内容大体已经完备一个富有特色的初级体系已经建立起来；而古希腊、罗马的学者在宇宙的本源和结构理论上则出现了激烈争斗此后西方进入黑暗的中世纪。宇宙学沦入了神学深渊，地心说主宰了宇宙学。这是第二时期。从公元3世纪到17世纪在中国，在宇宙观念仪器制造、历法编算和大地测量等方面取得了许多成就达到高峰，但后来逐渐衰败下来经历了从繁荣发展—鼎盛—衰落的过程。而西方，熬过了漫长的黑暗世纪后
 

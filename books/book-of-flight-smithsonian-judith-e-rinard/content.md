@@ -82,7 +82,7 @@ TL506.U62W37 2001 629.1'074753 2001 年由 Firefly Books Ltd. 在加拿大出版
 
 多伦多 Willowdale，安大略省，加拿大 M2H 3K1，Victoria Park 大道 3680 号
 
-## C2001-930715-2
+C2001-930715-2
 
 2001 年由 Firefly Books (U.S.) Inc. 在美国出版。
 
@@ -351,27 +351,27 @@ P.O.Box 1338, Ellicott Station 布法罗，纽约州 14205 由 Charles O. Hyman�
 
 就让飞机自行其是吧。"
 
-## ORANDE
+ORANDE
 
-## OU1NZAINE
+OU1NZAINE
 
-## D AVIATION
+D AVIATION
 
-## BA1E
+BA1E
 
 0E
 
-## SEINE
+SEINE
 
 °E LA BA ' -
 
-## DEAUVILLE
+DEAUVILLE
 
 LE
 
-## HAVRE
+HAVRE
 
-## TROUV1LLE
+TROUV1LLE
 
 路易·布莱里奥（1872–1936）
 
@@ -381,7 +381,7 @@ LE
 
 - 兰斯坠机 众多"伤亡"之一，一名飞行赛事参赛者的飞机在坠毁处倒扣在地。对于早期航展上那些脆弱的飞机来说，这是常有的事。
 
-## HARRIET QUIMBY
+HARRIET QUIMBY
 
 - 哈丽雅特·奎姆比（Harriet Quimby，1884–1912）
 
@@ -393,7 +393,7 @@ LE
 
 WOWtt WCORO
 
-## FUGHT FROM
+FUGHT FROM
 
 格伦·柯蒂斯（Glenn Curtiss，1878–1930）
 
@@ -439,7 +439,7 @@ II
 
 CURSE vou,
 
-## REP BAROND
+REP BAROND
 
 ^mjMdkm,.
 
@@ -626,7 +626,7 @@ s^vzr
 
 H
 
-## FOKKER T-2
+FOKKER T-2
 
 现藏于博物馆的福克 T-2 于 1923 年完成了首次不间断飞越美国的飞行。右图中，飞行员约翰·麦克里迪（左）和奥克利·凯利站在为这次飞行所用的 737 加仑汽油和 40 加仑机油旁。
 
@@ -1015,7 +1015,7 @@ F-86"佩刀"喷气式 一架北美 F-86"佩刀"喷气式飞机划破长空，向
 
 -
 
-## M16-15S
+M16-15S
 
 三架米格-15 在朝鲜上空编队疾飞。敏捷迅速，米格机比 F-86 爬升更快、飞得更快。然而其共产主义中国和朝鲜飞行员的技艺，不如那些经历过二战的美国老牌飞行员。
 
@@ -1612,7 +1612,7 @@ I **>*& trm inn tfa • ,
 X大奖奖杯 为激发新的设计构想，这座X大奖奖杯将颁发给一项新型太空发射飞行器竞赛的获胜者。仿照早期航空奖项，由私人资助的X大奖还将包括1000万美元奖金。
 超级X 在这幅艺术构想中，X-43，即超级X研究机，呼啸着冲向太空的边缘。这类设计用于以数倍音速飞行的飞机，有朝一日可能被用来将飞行器发射入太空轨道。
 
-## X-33
+X-33
 
 X-33，或称VentureStar，在这幅艺术构想中在地球轨道上飞行。它是为降低太空旅行成本而设计的众多可重复使用飞行器构想之一。它将像火箭一样起飞、进入轨道，然后像飞机一样水平着陆。
 
@@ -1620,13 +1620,13 @@ X-33，或称VentureStar，在这幅艺术构想中在地球轨道上飞行。�
 
 -
 
-## I ZO
+I ZO
 
 母舰 这幅画展示了超级X将如何被发射：搭载在B-52机翼下方的一枚火箭上。在40000英尺高度投放后，火箭将超级X推升至100000英尺，然后脱落。飞机将依靠自身动力继续飞行。
 
 I 测试，测试 科学家文斯·劳施手持一个安装在火箭上的超级X模型，置于风洞中。风洞测试表明，这类飞机可以飞到10马赫以抵达太空。在右侧的艺术构想中，一枚飞马座（Pegasus）火箭将超级X顶在头部托起。
 
-## X-37
+X-37
 
 在这幅假想场景中，X-37准备从航天飞机的有效载荷舱发射。这架飞行器约为航天飞机长度的一半，将在轨道上运行长达21天，进行实验。然后它将依靠自身返回地球。
 
@@ -1846,7 +1846,7 @@ Long, NASM (SI 2000-9362); 71 BL: SI 2001-1888:71 TR: NASM-1B10487;71 CTR:NASM-9
 
 Sgt. Lono Kollars, USAF; 73 CR: USAF photo by Scon Spitzer; 73 BR: DoD photo by Staff Sgt. Jerry Morrison, USAF; 74 BL: © Budd Davisson (SI-2001-1891);74-75:© James A.Sugar; 75 TL: NASA-DFRC ECN-12604;75 TR: © Breitling SA, courtesy NASM (NASM 9A-00020); 75 CR: Carolyn Russo, NASM, 75 BR: © Breitling SA, courtesy NASM (NASM 9A- 0001 7); 76 L: SI-A-5367; 76 BC: SI-77-1 4261 ; 76 R: © 2001 Howard S. Friedman; 76-77: SI-77- 1020; 77 BLSI-73-7925; 77 T: B Anthony Stewart, © 1940 National Geographic Society; 77 CL: © Clark University (SI-A-44528-A); 77 CR: © Clark University (SI-A-42103); 78 BL: Eric F.Long, NASM (TMS- A19751576000).SI;78TR:NASM(TMS-A197U115000),SI; 78 CTR: NASA-DRFC EC88-0180-4; 78 BR: NASA-DRFC ECN- 225; 78-79: Eric F Long, NASM (SI 94-2284); 79 BL: NASA-DRFC EC65-884;79 BR: NASA-DRFC EC61-0034.80 BL: NASA-LARC EL- 1996-00089; 80 TR: NASA 61-MR3-109 80- 81 T: NASA-JSC S65-30428; 80-81 B: NASA-JSC 564-2233 1 ; 81 TR: NASA-JSC S65-63197;81 CTR: Eric F. Long, NASM (SI 97-1 6235); 81 CBR: NASA-JSC S62-00303; 81 BR: Eric F.Long, NASM (SI 98-15802-11);82L: NASA-JSC S69-3996J.82BC: NASA M-108;82-83T: NASA-KSC KSC-69P-0168, 82-83 B: all rocket drawings © Peter Alway;83 TR: NASA-KSC KSC-92PC- 1895, 84 BL: Erie F.Long, NASM (51 99-1 5165-6); 84 TC: Eric F Long, NASM (SI 99-151951:84-85 T: Fred Freeman.Sflfum Blockhouse, 1968, NASM; 84-85 B: Eric F.Long, NASM (SI 99- 1 5 164-2); 85 R: NASA; 86 BL: NASA-JSC S69-38749, 86-87:
 
-## NASA-JSC AS1
+NASA-JSC AS1
 
 1 -40-5868:87 TR: NASA-JSC S69-31 740, 87 CR: NASA-JSC S75-29715;87 BR: NASA 69-H-1421.88 BL: 马克·阿维诺，NASM (SI 97-15094);88-89: 埃里克·F·朗，NASM (SI 2000-9371 ); 89 TR: NASA-JSC S71 -2 1 244; 89 BR: NASA-JSC AS1 2-49-7278; 90 L: 埃里克·F·朗，NASM (SI 98-15805): 90 BC: NASA-JSC AS16-1 17-18825.90 B: NASA AS16-107-17432 至 AS16-107-17440;90-91: NASA-JSC AS16-114- 18423,92 BL: NASA-JSC AS 16- 11 7- 18840; NASA-JSC AS16- 117-18841,92 TR: NASA-JSC AS12-51-7510;92CR: NASA- JSC AS16-1 13-18294;92-93: NASA-KSC AS11 44-6642.94 BL: NASA-JSC S72- 1 5409; 94 TC: NASA-JSC S73-23952; 94-95: NASA-JSC SL14-143-4706;95 TL: NASA-JSC SL3-108-1307; 95 TR: NASA-JSC SL3-108-1278; 95 TR: © 2001 霍华德·S.
 
@@ -1908,7 +1908,7 @@ Smithsonian 国家航空航天博物馆——飞行之梦与人类历史一样�
 
 萤火虫出版社图书（A Firefly Book）
 
-## ISBN 1-55209-599-1
+ISBN 1-55209-599-1
 
 78155 5 1495 美国 $14.95 加拿大 $19.95
 

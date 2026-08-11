@@ -1,4 +1,4 @@
-# The Britannica Guide to Modern China Britannica Guide To eBook Britannica Z Library
+The Britannica Guide to Modern China Britannica Guide To eBook Britannica Z Library
 
 Introduction to the Study of Language
 
@@ -6,9 +6,9 @@ The abstract is a brief summary of a paper or report. It should be placed at the
 
 Conclusion
 
-## Chapter 1 Introduction
+Chapter 1 Introduction
 
-## Section 1.1 Background
+Section 1.1 Background
 
 This paper discusses the methodology used in the study. The research focuses on the analysis of linguistic data. The results are presented in the following sections. The findings suggest a new perspective on language acquisition.
 
@@ -466,7 +466,7 @@ the they count the components of a variety and compare them with their dimension
 
 (cid:3)  (cid:2)  (cid:9)  (cid:18)  (cid:5)  (cid:6)  (cid:20)  (cid:4)  (cid:8)  (cid:8)  (cid:2)  (cid:6)  (cid:7)  (cid:20)  (cid:4)  (cid:5)  (cid:6)  (cid:11)  (cid:17)  (cid:2)  (cid:5)  (cid:7)  (cid:1)  (cid:14)  (cid:9)  (cid:6)  (cid:14)  (cid:10)  (cid:13)  (cid )(,) () () (), () ()
 
-## Chapter 1, The United States of Anxiety
+Chapter 1, The United States of Anxiety
 
 The American Dream is a term used to describe the material aspirations of American life, a feeling that anything is possible for anyone. However, the reality of the American Dream is much more complicated and difficult to attain.
 
@@ -1612,7 +1612,7 @@ GG(cid:16)(cid:4)(cid:8)(cid:16)(cid:4)(cid:8)(cid:2)(cid:4)(cid:9)’’ (cid:1
 
 (cid:10)(cid:14)(cid:8)(cid:20)(cid:6)(cid:8)(ci 5) u wits it: the to s h e a i n. the t g s t n a d h i t, d e t d a i t n a n e d f a t h e : d e e c s, w o r t h t e t a n s s t h t i c h t t i t h e : t h e and d t n t o f d e e n a e a d d e s f t t d d f e d e d f a d h a t n d a d t e i t o n e f d t h e . t s t o s h d o t e f t a n s, o t s t d o e s a e o f t e w o r t h e 6 e s e ) e n i n i a d t n a n e d f a t h e t f a i n t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n s, o t s t d o e s a e o f t e o f t n e n a r f e t s o f o t s h d s d o e s a e o f t e t w o r t h e . t i t i n d e e i f t e n t f a n r t h t i t h e . t s t s h o t e t f a n Introduction to Algorithm Design and Analysis
 
-## Chapter 1: Introduction
+Chapter 1: Introduction
 
 ## 1.1 What is an Algorithm?
 
@@ -1636,7 +1636,7 @@ We often want to characterize the running time of an algorithm in terms of its i
 
 Divide and conquer is a powerful algorithm design paradigm. A divide-and-conquer algorithm works by recursively breaking down a problem into two or more subproblems of the same or related type, until these become simple enough to be solved directly.
 
-## Chapter 2: Asymptotic Analysis
+Chapter 2: Asymptotic Analysis
 
 ## 2.1 Asymptotic Notation
 
@@ -2240,7 +2240,7 @@ id:8)(cid:14)(cid:18)(cid:8)(cid:4)(cid:20)(cid:20)(cid:6)(cid:19)(cid:4)(cid:3)
 
 (cid:2)(cid:9) (cid:13)(cid:17)(cid:6) (cid:11)(cid:14)(cid:12 1) A2015B21C2127301F2926A34F27B263 2BCDEF24 $H C1E MBD2O8AKF2M2F 1!A71O O7H C1C1 M5O21N28 4Q2227 B281 3O79251K 29 4R29N
 
-## O16DEF24
+O16DEF24
 
 ?O7H 7!AMF293 MEE61O1 C1H M1O 1E MBD2O83618 281 C1H 1O23 O19 M1O10E2242119C19 15M1F186 9O1654Q21O7H2343O18M12MEE61O14R296A5M76H8' ;M1C1A15 1Q9M17 61494B21M818M2201O 2728CB%(24) $H 1M522R61O1 O1 C1O7M M15 4322!A 1M4292 4R29N O7H24134178M41O3M154M3367O1O7H162M8138M41O149716212728%(24)O1741M55 1E MBD2O8295M7611R529282431212728%2C161O938219M738M614!A28918 1M1Q O1H 1M42961 497 1!A9 1O18H1 O1H 31497 162M813261O93814O 15M1F1869R474M5847A216E181291434M8289162M8138M41O15817M12R6749 4992M5 1E MBD2O829 36181M81O1 O1H C1H 2Q1 O1H HR6O13 329R6 2728 2824 #29R6 2728$%21 N9!A1 M9H1 O1H 支持1280x768像素、16位颜色的LCD显示。支持1920x1080像素、32位颜色的HDMI输入输出。支持1024x600像素、24位颜色的SPI输入输出。支持1600x900像素、32位颜色的DVI输入输出。支持1280x800像素、24位颜色的VGA输入输出。支持800x480像素、18位颜色的RGB输入输出。支持480x320像素、16位颜色的LVDS输入输出。支持320x240像素、8位颜色的Composite输入输出。支持720x576像素、16位颜色的S-Video输入输出。支持640x480像素、8位颜色的Component输入输出。支持3840x2160像素、36位颜色的DisplayPort输入输出。支持2560x1440像素、30位颜色的Thunderbolt输入输出。支持1080x1920像素、24位颜色的MIPI输入输出。支持2160x3840像素、30位颜色的eDP输入输出。支持1366x768像素、18位颜色的LVDs输入输出。支持4096x2160像素、36位颜色的HDMI 2.1输入输出。支持7680x4320像素、48位颜色的DisplayPort 2.0输入输出。支持1920x1080像素、30位颜色的USB-C输入输出。支持3840x2160像素、36位颜色的USB4输入输出。支持1280x720像素、24位颜色的DVI-D输入输出。支持1920x1080像素、30位颜色的DVI-I输入输出。支持2560x1600像素、30位颜色的Dual-Link DVI输入输出。支持1280x800像素、18位颜色的Single-Link DVI输入输出。支持1920x1080像素、36位颜色的HDMI 2.0输入输出。支持3840x2160像素、48位颜色的HDMI 1.4输入输出。支持1024x768像素、24位颜色的VGA输入输出。支持1600x1200像素、30位颜色的VGA输入输出。支持800x600像素、18位颜色的VGA输入输出。支持640x480像素、16位颜色的VGA输入输出。支持1920x1080像素、24位颜色的Component输入输出。支持1280x720像素、18位颜色的Component输入输出。支持720x480像素、16位颜色的Component输入输出。支持720x576像素、18位颜色的S-Video输入输出。支持480x576像素、16位颜色的S-Video输入输出。支持320x240像素、8位颜色的Composite输入输出。支持640x480像素、10位颜色的Composite输入输出。支持480x320像素、9位颜色的LVDS输入输出。支持800x600像素、18位颜色的LVDS输入输出。支持1024x768像素、24位颜色的LVDS输入输出。支持1366x768像素、18位颜色的LVDs输入输出。支持1920x1080像素、24位颜色的LVDs输入输出。支持2560x1440像素、30位颜色的LVDs输入输出。支持3840x2160像素、36位颜色的LVDs输入输出。支持1920x1080像素、24位颜色的MIPI输入输出。支持2560x1440像素、30位颜色的MIPI输入输出。支持3840x2160像素、36位颜色的MIPI输入输出。支持1080x1920像素、24位颜色的MIPI输入输出。支持1440x2560像素、30位颜色的MIPI输入输出。支持2160x3840像素、36位颜色的MIPI输入输出。支持1280x800像素、24位颜色的eDP输入输出。支持1920x1080像素、30位颜色的eDP输入输出。支持2560x1440像素、36位颜色的eDP输入输出。支持3840x2160像素、48位颜色的eDP输入输出。支持2160x3840像素、30位颜色的eDP输入输出。支持1440x2560像素、24位颜色的eDP输入输出。支持1080x1920像素、18位颜色的eDP输入输出。支持720x1280像素、16位颜色的eDP输入输出。支持480x800像素、8位颜色的eDP输入输出。支持320x480像素、6位颜色的eDP输入输出。支持240x320像素、4位颜色的eDP输入输出。支持160x128像素、2位颜色的eDP输入输出。支持80x64像素、1位颜色的eDP输入输出。支持1920x1080像素、24位颜色的HDMI输入输出。支持1280x720像素、18位颜色的HDMI输入输出。支持720x480像素、16位颜色的HDMI输入输出。支持720x576像素、18位颜色的HDMI输入输出。支持480x576像素、16位颜色的HDMI输入输出。支持320x240像素、8位颜色的HDMI输入输出。支持640x480像素、10位颜色的HDMI输入输出。支持1024x768像素、24位颜色的HDMI输入输出。支持1600x1200像素、30位颜色的HDMI输入输出。支持800x600像素、18位颜色的HDMI输入输出。支持1280x800像素、18位颜色的HDMI输入输出。支持1366x768像素、24位颜色的HDMI输入输出。支持1920x1200像素、30位颜色的HDMI输入输出。支持2560x1600像素、36位颜色的HDMI输入输出。支持3840x2160像素、48位颜色的HDMI输入输出。支持7680x4320像素、64位颜色的HDMI输入输出。支持1920x1080像素、24位颜色的DisplayPort输入输出。支持2560x1440像素、30位颜色的DisplayPort输入输出。支持3840x2160像素、36位颜色的DisplayPort输入输出。支持7680x4320像素、48位颜色的DisplayPort输入输出。支持1024x768像素、18位颜色的DisplayPort输入输出。支持1280x720像素、16位颜色的DisplayPort输入输出。支持1600x900像素、24位颜色的DisplayPort输入输出。支持1920x1200像素、30位颜色的DisplayPort输入输出。支持2560x1080像素、36位颜色的DisplayPort输入输出。支持3440x1440像素、48位颜色的DisplayPort输入输出。支持5120x2880像素、64位颜色的DisplayPort输入输出。支持1920x1080像素、24位颜色的Thunderbolt输入输出。支持2560x1440像素、30位颜色的Thunderbolt输入输出。支持3840x2160像素、36位颜色的Thunderbolt输入输出。支持7680x4320像素、48位颜色的Thunderbolt输入输出。支持1024x768像素、18位颜色的Thunderbolt输入输出。支持1280x720像素、16位颜色的Thunderbolt输入输出。支持1600x900像素、24位颜色的Thunderbolt输入输出。支持1920x1200像素、30位颜色的Thunderbolt输入输出。支持2560x1080像素、36位颜色的Thunderbolt输入输出。支持3440x1440像素、48位颜色的Thunderbolt输入输出。支持5120x2880像素、64位颜色的Thunderbolt输入输出。支持1920x1080像素、24位颜色的USB-C输入输出。支持2560x1440像素、30位颜色的USB-C输入输出。支持3840x2160像素、36位颜色的USB-C输入输出。支持7680x4320像素、48位颜色的USB-C输入输出。支持1024x768像素、18位颜色的USB-C输入输出。支持1280x720像素、16位颜色的USB-C输入输出。支持1600x900像素、24位颜色的USB-C输入输出。支持1920x1200像素、30位颜色的USB-C输入输出。支持2560x1080像素、36位颜色的USB-C输入输出。支持3440x1440像素、48位颜色的USB-C输入输出。支持5120x2880像素、64位颜色的USB-C输入输出。支持1920x1080像素、24位颜色的USB4输入输出。支持2560x1440像素、30位颜色的USB4输入输出。支持3840x2160像素、36位颜色的USB4输入输出。支持7680x4320像素、48位颜色的USB4输入输出。支持1024x768像素、18位颜色的USB4输入输出。支持1280x720像素、16位颜色的USB4输入输出。支持1600x900像素、24位颜色的USB4输入输出。支持1920x1200像素、30位颜色的USB4输入输出。支持2560x1080像素、36位颜色的USB4输入输出。支持3440x1440像素、48位颜色的USB4输入输出。支持5120x2 id:2)(cid:5)(cid:5)(cid:3)(cid:3)(cid:12)(cid:11)(cid:17)(cid:4)(cid:3)(cid:15)(cid:14)!(cid:6)(cid:8)(cid:13)(cid:21)(cid:4)(cid:9)(cid:7)(cid:17)(cid:12)(cid:9)(cid:18)(cid:6)(cid:8)(cid:24)+(cid:17)(cid:6)(cid:11)(cid:5)(cid:14)(cid:3)(cid:2)(cid:9)(cid:18)(cid:21)(cid:6)(cid:4)(cid:8)(cid:3)(cid:14)(cid:10)(cid:13)(cid:17)(cid:6)J(cid:2)(cid:9)(cid:18)
 
@@ -5806,7 +5806,7 @@ cid:4)(cid:21)(cid:7)(cid:6)(cid:11)(cid:2)(cid:3)(cid:2)(cid:14)(cid:9)(cid:26)
 
 # , ,,A # , ) 3)4)
 
-# A !  (18) (27)%% (27)$  #   ()
+A !  (18) (27)%% (27)$  #   ()
 
 !  (20) (18)
 
@@ -11920,7 +11920,7 @@ Raw text: )(cid:3)(cid:13)(cid:4)(cid:9)(cid:7)(cid:4)(cid:16)(cid:5)(cid:6) (ci
 
 建议您重新检查源文件或使用其他工具提取文本，以确保获得正确可读的内容。
 
-## IN A SERIES OF LETTERS
+IN A SERIES OF LETTERS
 
 FROM THE AUTHOR OF 'CÆLIA ENFIELD' 37 LITTLE BETH STREET THE AUTHOR BEGS HIS FRIENDS AND THE PUBLIC TO TAKE THIS WORK AS IT IS: A SKETCH.
 
@@ -12778,7 +12778,7 @@ id:8)(cid:6)(cid:11)(cid:13)(cid:4)(cid:9)(cid:11)(cid:6)(cid:3)(cid:13)(cid:14)
 
 -(cid:12)(cid:4)(cid:9)(cid:18)(cid:7)(cid:2)3GG+(cid:17)(cid:6)8(cid:6)(cid:5)(cid:5)(cid:14)(cid:19)"(cid:20)(cid:15)(cid:6)(cid:8)(cid:14)(cid:8)’’4(cid:4)(cid:9)(cid:7),(cid:17)(cid:2)(cid:21)(cid:14)(cid:12)3GG+(cid:17)(cid:6)>(cid:14)(cid:8)(cid: 17 (14) 13 8 3 14 10 13 19 14 19 14 8 23 3 14 10 ! 6 8 9 4 11 12 5 4 8 10 2 11 13 2 14 9 1 ! 2 11 13 2 11 6 2 11 8 5 3GG+17 6 > 4 13 6 8 6 4 8 18 2 9'' 1 4 5 3 14 13 8 4 9 3 5 4 13 6 7 4 3 GG25 5 5 6 6 9 25 8 6 31 8 14 13 17 6 8 3'' 4 4 9 7 3 13 12 10 11 9 13 3 27 C 28 K GG< 14 12 8 9 6 21 13 14 13 17 6 > 6 3 13'' 1 4 5 3 14 15 4 8 13 2 4 5 5 21 13 8 4 9 3 5 4 13 6 7 4 3 GG6 14 9 26 23 6 21'' 4 24 - 2 3 13 14 8 2 11 4 5 15 6 8 3 14 9 4 18 6 3 19 6 8 6 4 5 3 14 11 14 20 20 14 9 5 21 13 4 23 6 9 2 9 13 14 13 17 6 15 4 9 13 17 6 14 9 1 10 14 8 , 17 2 9 6 3 6 15 14 15 12 5 4 8 2 20 4 18 2 9 4 13 2 14 9 17 4 3 16 6 6 9 9 12 2 11 23 13 14 6 9 7 14 19 13 17 6 16 2 14 18 8 4 15 17 21 14 10 4 16 6 5 14 ! 6 7 17 6 8 14 19 2 13 17 5 6 18 6 9 7 4 8 21 4 9 7 6 ! 6 9 13 12 4 5 5 21 20 21 13 17 14 5 14 18 2 11 4 5 13 8 4 2 13 3 24 J 12 8 12 4 9 1 13 17 6 2 5 5 26 10 4 13 6 7 20 2 9 2 3 13 6 8 14 10 13 17 6 3 13 4 13 6 14 10 , 17 12 3$$ 27 B :: 27 1 2 3 4 1 2 3 13 17 6 20 14 3 13 9 14 13 4 16 5 6 6 @ 4 20 15 5 6 24 6 21 13 17 20 4 23 2 9 18 11 14 9 3 6 9 12 6 9 13 5 21 16 6 11 4 20 6 4 11 14 9 3 13 4 9 13 1 5 2 ! 2 9 18 15 8 14 11 6 3 3 2 9 , 17 2 9 4 24 22 13 19 4 3 4 5 3 14 13 8 12 6 13 17 4 13 17 2 3 13 14 8 2 11 4 5 17 6 8 14 6 3 4 9 7 19 14 12 5 7 26 16 6 17 6 8 14 6 3 4 8 8 4 9 18 6 7 13 17 6 2 8 16 2 14 18 8 4 15 17 2 6 3 2 9 4 19 4 21 13 17 4 13 5 6 9 13 13 17 6 20 3 6 5 ! 6 3 13 14 20 21 13 17 14 5 14 18 2 * 2 9 18 24
 
-## U U U
+U U U
 
 28 24 30 13 6 1 3 15 16 1 5 15 3 + 17 6 10 2 8 3 13 4 9 13 17 14 5 14 18 21 14 10 , 17 2 9 6 3 6 15 14 6 13 8 21 1 23 9 14 19 9 4 3 13 17 6 ! 2 13 9 13 5 1 3GG, 5 4 3 3 2 11 14 10 ) 14 6 13 8 21'' 4 4 9 7 11 14 9 3 2 3 13 2 9 18 14 10 13 6 20 15 5 6 1 11 14 12 8 13 c id:1)figure
 
@@ -12958,7 +12958,7 @@ In (11) this is (12) = (13) (14) = (15) (16) = (17) (18) = (19) (20) = (21) (22)
 
 14,10 13,17,6 0,8,4,18,14,9''4(1 16,21 13,17,6 3,2@(13,17,26,11,6,9,13,12,8,21 19,8,2,13,6,8 .(2,12 F(2,6,24)
 
-## U U U
+U U U
 
 (28,30,21 13,6,1,3,15,16,1,5,15,3)
 
@@ -12984,7 +12984,7 @@ In (11) this is (12) = (13) (14) = (15) (16) = (17) (18) = (19) (20) = (21) (22)
 
 (cid:4)(cid:9)(cid:1
 
-## Chapter 1: The Emergence of Self-Replicating Technologies
+Chapter 1: The Emergence of Self-Replicating Technologies
 
 The idea of self-replicating machines is not new. As early as 1948, mathematician John von Neumann was lecturing on self-reproducing automata. However, the term “nanotechnology” was first coined by K. Eric Drexler in 1986, describing his vision for molecular nanotechnology.
 
@@ -16024,17 +16024,17 @@ should be placed in this context.
 
 A review of the relevant literature.
 
-#Important considerations are that the use of such terms should be avoided in favor of more inclusive language.
+Important considerations are that the use of such terms should be avoided in favor of more inclusive language.
 
-#The importance of a multidisciplinary approach cannot be overstated.
+The importance of a multidisciplinary approach cannot be overstated.
 
 It encompasses various factors, including (but not limited to): Fisher, "The-(1923) B. Smith (27)
 
-#Some researchers suggest that the concept of "cultural competence" is flawed and should be replaced by a more dynamic model.
+Some researchers suggest that the concept of "cultural competence" is flawed and should be replaced by a more dynamic model.
 
 and and the use of .like more data to support the hypothesis that the of ;and, a significant body of evidence suggests that these approaches are not mutually exclusive.
 
-#Some argue for a framework of "critical consciousness" as a more appropriate goal.
+Some argue for a framework of "critical consciousness" as a more appropriate goal.
 
 (1) policy (2) theory (3) and a subject of inquiry.
 
@@ -16212,7 +16212,7 @@ In Figure 6, the relationship between the thermal conductivity and the porosity 
 
 A0 SIB ,5AM12A84AD7B5A12A3432017%%B$%4 A2I ,D2AI84> D696I SIB CA3M2AC4A2AI^43AD3667) AI4A87 SIB7 AC3A0 SIB 2728%(3)(1) 8A96A684AD5 (1)(2)(3) H#R&8P R6A(1)3R1 (1)8A 12A6R6A1) 292225 DI84AI8A4AI8 A7!ABI6AAI4A3DAIC9) D9AI6A864AD561 SB!8A67 C621
 
-## A5A4AC24A12A8 A5A6A8A2A3A5A
+A5A4AC24A12A8 A5A6A8A2A3A5A
 
 System theory (a concept) related to and based on systems science, is a part of the broad interdisciplinary field of science and technology. It was founded by the Austrian biologist Ludwig von Bertalanffy in the 1940s.
 
@@ -16904,7 +16904,7 @@ OHC-CH2OH  3CHO JCH2O4 $  (B) 2:(B)
 
 : (B) (CH3COOH) :CB$ CH2OH 1CH2OH (CH2) (CH3) (CH2CH2OH) (CH3CH2) :C2 (CH3COOH) :2CB : (C)CB% C6H12O3 CH3CH2O(B): CH2OH CH3OH :C2 2 C 2 CB$ C6H12O3 "((0)) 2C 2CC 2C% CH3COOH (B)
 
-## CH2OH CH3OH CH3CH2OH C6H12O3 CH3
+CH2OH CH3OH CH3CH2OH C6H12O3 CH3
 
 3BC2$4 CC 2::B2 CH3CH2OH (B)
 

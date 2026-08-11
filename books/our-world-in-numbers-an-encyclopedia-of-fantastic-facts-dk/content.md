@@ -2116,7 +2116,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （THE PHANTOM
 
-## OF THE OPERA）
+OF THE OPERA）
 
 原版制作有130名演职人员、22次场景变换和服装。
 
@@ -2164,7 +2164,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （THE CAPTURE OF
 
-## MILETUS）
+MILETUS）
 
 让观众落泪而被罚款1,000
 
@@ -2182,7 +2182,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （ANTHONY
 
-## MORIGERATO）
+MORIGERATO）
 
 在2011年于纽约一所舞蹈学校创造了每分钟1,163次
 
@@ -2236,7 +2236,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （BUNGEE DROP IN A
 
-## MOVIE）
+MOVIE）
 
 ，由特技人韦恩·迈克尔（Wayne Michaels）从一座瑞士水力发电大坝为詹姆斯·邦德电影《黄金眼》（GoldenEye，1995）完成。
 
@@ -2280,7 +2280,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （NUMBER OF
 
-## CREDITS）
+CREDITS）
 
 ——在《十二生肖》（Chinese Zodiac，2012）中15次。
 
@@ -2296,7 +2296,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （ORIGINAL
 
-## POSTER）
+POSTER）
 
 以690,000美元售出。
 
@@ -2310,9 +2310,9 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （CHARLIE AND
 
-## THE CHOCOLATE
+THE CHOCOLATE
 
-## FACTORY，2005）
+FACTORY，2005）
 
 分拣坚果。
 
@@ -2338,7 +2338,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （A TABLE
 
-## TENNIS BALL）
+TENNIS BALL）
 
 仅重
 
@@ -2360,7 +2360,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （CONSECUTIVE
 
-## squash games）
+squash games）
 
 。
 
@@ -2384,7 +2384,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （SHORT-TRACK
 
-## SPEED-SKATING）
+SPEED-SKATING）
 
 比赛中，滑冰者速度可达45公里/小时（28英里/小时）。
 
@@ -2412,7 +2412,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （THAN THE
 
-## BALLS）
+BALLS）
 
 2012年，12岁的汤姆·沙尔（Tom Schaar）成为第一个在滑板完成1080（即3整圈旋转）的人。
 
@@ -2514,7 +2514,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （TRANSFER
 
-## FEE）
+FEE）
 
 为15千克（33磅）
 
@@ -2536,7 +2536,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （SLOVAKIAN WOMEN'S ICE
 
-## HOCKEY TEAM）
+HOCKEY TEAM）
 
 平均每44秒进一球，在2008年奥运会上以82比0击败保加利亚。
 
@@ -2592,7 +2592,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （TOP
 
-## OLYMPIANS）
+OLYMPIANS）
 
 ## 文字
 
@@ -2662,7 +2662,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （POWERFUL SCANNING
 
-## ELECTRON MICROSCOPE）
+ELECTRON MICROSCOPE）
 
 阅读。
 
@@ -2670,7 +2670,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （US LIBRARY
 
-## OF CONGRESS）
+OF CONGRESS）
 
 每天向其馆藏添加约10,000件新物品。
 
@@ -2708,7 +2708,7 @@ ILLACME PLENIPES——雌性可有多达 750 条腿，而雄性最多有 562 条
 
 ## （WRAP AROUND
 
-## THE GLOBE）
+THE GLOBE）
 
 超过16次。
 
@@ -2772,7 +2772,7 @@ a basketball court）。
 
 ## （THE LONGEST
 
-## CARROT EVER）
+CARROT EVER）
 
 长到
 
@@ -2800,7 +2800,7 @@ a basketball court）。
 
 ## （LONGEST
 
-## DOG TONGUE）
+DOG TONGUE）
 
 ，测量为43厘米（17英寸）——相当于2只小狗的长度。
 
@@ -2814,7 +2814,7 @@ a basketball court）。
 
 ## （SPECIES
 
-## OF HAMSTER）
+OF HAMSTER）
 
 ，但只有5种通常作为宠物饲养。
 
@@ -2844,7 +2844,7 @@ a basketball court）。
 
 ## （MILLION
 
-## REPTILES）
+REPTILES）
 
 在法国作为宠物饲养，超过任何其他欧盟国家。
 
@@ -2860,7 +2860,7 @@ a basketball court）。
 
 ## （HIGHEST
 
-## JUMP）
+JUMP）
 
 ，一项1997年创下的纪录。
 
@@ -2888,7 +2888,7 @@ a basketball court）。
 
 ## （€21
 
-## BILLION）
+BILLION）
 
 。
 
@@ -2898,9 +2898,9 @@ a basketball court）。
 
 ## （GUNTHER IV, a
 
-## GERMAN SHEPHERD
+GERMAN SHEPHERD
 
-## dog, has a personal fortune of some $375
+dog, has a personal fortune of some $375
 
 ## 百万
 
@@ -2986,7 +2986,7 @@ a basketball court）。
 
 ## （ONE OF THE LARGEST STONE
 
-## STRUCTURES on Earth, the）
+STRUCTURES on Earth, the）
 
 ## 大
 
@@ -2994,7 +2994,7 @@ a basketball court）。
 
 ## （GREAT
 
-## PYRAMID）
+PYRAMID）
 
 覆盖的面积约等于200个网球场。
 
@@ -3060,7 +3060,7 @@ a basketball court）。
 
 ## （CARACALLA
 
-## PUBLIC BATHS）
+PUBLIC BATHS）
 
 有50个熔炉，每天燃烧超过8吨木材。
 
@@ -3148,11 +3148,11 @@ a basketball court）。
 
 ## （9.5 times
 
-## bigger than
+bigger than
 
-## BUCKINGHAM
+BUCKINGHAM
 
-## PALACE）
+PALACE）
 
 。
 
@@ -3194,7 +3194,7 @@ a basketball court）。
 
 ## （SACRIFICES
 
-## TO THE GODS）
+TO THE GODS）
 
 高60米（240英尺），相当于14辆双层巴士的高度。
 
@@ -3218,7 +3218,7 @@ a basketball court）。
 
 ## （GODS
 
-## AND GODDESSES）
+AND GODDESSES）
 
 。
 
@@ -3246,9 +3246,9 @@ a basketball court）。
 
 ## （AZTECS
 
-## AND
+AND
 
-## INCAS）
+INCAS）
 
 在14和15世纪，阿兹特克帝国在中美洲繁荣发展，而印加帝国沿安第斯山脉延伸4,000公里（2,500英里）。两种伟大文化都因1521年起西班牙士兵的到来而被摧毁。
 
@@ -3280,7 +3280,7 @@ a basketball court）。
 
 ## （INCA
 
-## EMPIRE'S）
+EMPIRE'S）
 
 人口接近1,200万。
 
@@ -3302,7 +3302,7 @@ a basketball court）。
 
 ## （HOGWARTS
 
-## CASTLE）
+CASTLE）
 
 在《哈利·波特》电影中。
 
@@ -3350,7 +3350,7 @@ a basketball court）。
 
 ## （KUMBHALGARH
 
-## FORT）
+FORT）
 
 拥有世界上最长的堡垒城墙。
 
@@ -3370,9 +3370,9 @@ a basketball court）。
 
 ## （THE LARGEST
 
-## CASTLE IN
+CASTLE IN
 
-## THE WORLD）
+THE WORLD）
 
 是波兰的马尔堡城堡（MALBORK CASTLE）。这座13世纪的城堡占地21公顷（52英亩），曾容纳约3,000名骑士。
 
@@ -3390,7 +3390,7 @@ a basketball court）。
 
 ## 16,000,000
 
-## BRICKS）
+BRICKS）
 
 被用于建造美国佛罗里达群岛的杰弗逊堡（FORT JEFFERSON）。尽管建造了30年，该堡垒从未完工，也未装备武器。
 
@@ -3422,7 +3422,7 @@ Al-Zahrawi 在约公元1000年撰写了医学百科全书 AL-TASRĪF（《方法
 
 ## （OTTOMAN
 
-## EMPIRE）
+EMPIRE）
 
 始于公元1299年的土耳其，持续了623年。
 
@@ -3434,9 +3434,9 @@ Al-Zahrawi 在约公元1000年撰写了医学百科全书 AL-TASRĪF（《方法
 
 ## （THE CAPITAL
 
-## OF THE SAFAVID
+OF THE SAFAVID
 
-## EMPIRE）
+EMPIRE）
 
 迁至今天的伊朗伊斯法罕。该城市有162座清真寺、48所学校和超过250个公共浴场。
 
@@ -3482,7 +3482,7 @@ Al-Zahrawi 在约公元1000年撰写了医学百科全书 AL-TASRĪF（《方法
 
 ## （SULTAN
 
-## MURAD II）
+MURAD II）
 
 于1444年放弃王位，任命他的儿子穆罕默德二世（MEHMED II），他当时
 
@@ -3492,7 +3492,7 @@ Al-Zahrawi 在约公元1000年撰写了医学百科全书 AL-TASRĪF（《方法
 
 ## （YEARS
 
-## OLD）
+OLD）
 
 ，为新统治者。
 
@@ -3504,7 +3504,7 @@ Al-Zahrawi 在约公元1000年撰写了医学百科全书 AL-TASRĪF（《方法
 
 ## （SULEIMAN THE
 
-## MAGNIFICENT）
+MAGNIFICENT）
 
 统治了[?]年[?]个月。
 
@@ -3542,7 +3542,7 @@ Al-Zahrawi 在约公元1000年撰写了医学百科全书 AL-TASRĪF（《方法
 
 ## （SONGHAI
 
-## KINGDOM）
+KINGDOM）
 
 扩大到覆盖超过1,400,000平方公里（540,000平方英里）。
 
@@ -3560,7 +3560,7 @@ Al-Zahrawi 在约公元1000年撰写了医学百科全书 AL-TASRĪF（《方法
 
 ## （SANKORÉ
 
-## UNIVERSITY）
+UNIVERSITY）
 
 有25,000名学生。
 
@@ -3578,7 +3578,7 @@ Al-Zahrawi 在约公元1000年撰写了医学百科全书 AL-TASRĪF（《方法
 
 ## （PIECES
 
-## OF GOLD）
+OF GOLD）
 
 。
 
@@ -3588,13 +3588,13 @@ Al-Zahrawi 在约公元1000年撰写了医学百科全书 AL-TASRĪF（《方法
 
 （1483–1514），贝宁帝国5位伟大
 
-##  warrior
+warrior
 
 ## 国王
 
 ## （WARRIOR
 
-## KINGS）
+KINGS）
 
 中的第二位，据说赢得了200场战役。
 
@@ -3608,9 +3608,9 @@ Al-Zahrawi 在约公元1000年撰写了医学百科全书 AL-TASRĪF（《方法
 
 ## 1460,
 
-## THE KINGDOM
+THE KINGDOM
 
-## OF BENIN）
+OF BENIN）
 
 贝宁王国由16,000公里（10,000英里）的土屏障防御。
 
@@ -3664,9 +3664,9 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （TOP
 
-## LONGEST-REIGNING
+LONGEST-REIGNING
 
-## MONARCHS）
+MONARCHS）
 
 不断变化的
 
@@ -3684,7 +3684,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （CRAKOW
 
-## SHOES）
+SHOES）
 
 的尖头可以延伸到脚趾外多达24厘米（9½英寸）。
 
@@ -3718,7 +3718,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （MARIE
 
-## ANTOINETTE）
+ANTOINETTE）
 
 （1755–1783）
 
@@ -3742,7 +3742,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （GOLD
 
-## DUST）
+DUST）
 
 售出。
 
@@ -3756,11 +3756,11 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （SHAVED
 
-## THEIR HEADS
+THEIR HEADS
 
-## AND
+AND
 
-## WORE WIGS）
+WORE WIGS）
 
 以保护他们免受阳光和头虱的伤害。
 
@@ -3808,7 +3808,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （HIGH
 
-## HEELS）
+HEELS）
 
 最早由
 
@@ -3826,9 +3826,9 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （KEEP
 
-## THEIR BOOTS IN
+THEIR BOOTS IN
 
-## THE STIRRUPS）
+THE STIRRUPS）
 
 。
 
@@ -3842,7 +3842,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （MESSENGER
 
-## RAN 40 KM）
+RAN 40 KM）
 
 （25英里）在公元前490年马拉松战役后宣布雅典对波斯的胜利。
 
@@ -3916,7 +3916,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （SCIENCE AND
 
-## TECHNOLOGY）
+TECHNOLOGY）
 
 ## 元素
 
@@ -3944,7 +3944,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （BONES
 
-## AND TEETH）
+AND TEETH）
 
 中。
 
@@ -3990,7 +3990,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （RECYCLING
 
-## ALUMINIUM CAN）
+ALUMINIUM CAN）
 
 节省的能量足以让电视运行3小时。
 
@@ -4004,7 +4004,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （WELCOME
 
-## STRANGER）
+STRANGER）
 
 是有史以来发现的最大的纯金块。它于1869年在澳大利亚被发现，重66千克（145.5磅）。
 
@@ -4088,7 +4088,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （CONVERTED INTO
 
-## LIGHT）
+LIGHT）
 
 ——其余作为热能损失。
 
@@ -4106,7 +4106,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （HEAT
 
-## ENERGY）
+ENERGY）
 
 以卡路里（cal）测量。
 
@@ -4124,7 +4124,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （34.5 million
 
-## NEWTONS OF THRUST）
+NEWTONS OF THRUST）
 
 ，约为
 
@@ -4134,7 +4134,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （COMMERCIAL JET
 
-## AIRCRAFT）
+AIRCRAFT）
 
 产生的288倍。
 
@@ -4156,7 +4156,7 @@ K'INICH JANAAB' PAKAL • 帕伦克玛雅王国 68年 • 615–683年
 
 ## （ENERGY
 
-## AND FORCES）
+AND FORCES）
 
 融化1克（0.04盎司）冰大约需要334焦耳的能量。
 

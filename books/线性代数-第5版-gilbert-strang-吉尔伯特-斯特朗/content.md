@@ -86,17 +86,17 @@ Alan Edelman 处理 Julia(并且更多)。Alex Townsend 处理7.
 
 Don Spickler 关于编码的网站特别优秀。我要感谢 Jon Bloom
 
-# Jack Dongarra
+Jack Dongarra
 
-# Hilary Finucane
+Hilary Finucane
 
-# Pavel Grinfield
+Pavel Grinfield
 
-# Randy LeVeque
+Randy LeVeque
 
-# David Vogan
+David Vogan
 
-# Liang Wang
+Liang Wang
 
 以及 Karen Willcox。3的特征脸孔来自 Matthew Turk 与 Jeff Jauregui
 
@@ -614,9 +614,9 @@ p2, p3) = q1p1 + q2p2 + q3p3 = 点积。零点积表示账目平衡。如果 q·
 
 计算上的注解
 
-# MATLAB
+MATLAB
 
-# Python
+Python
 
 Julia 可以直接进行整个向量的计算不用透过向量的分量。当 v, w 定义完成后就可以直接得到 v + w。以行的方式输入 v, w，利用符号 prime ' 可以转置成列向量。2v + 3w 写成2*v + 3*w。除非结尾输入半分号符号“;”，否则结果会马上显示出来。MATLAB v = [2 3 4]' ; w = [1 1 1]'
 
@@ -1482,7 +1482,7 @@ mit.
 
 edu/linearalgebra 会看到 Julia
 
-# Python
+Python
 
 R 的部分强大功能。Python 是一个流行的通用程序语言结合 Numpy 与 SciPy 的软件包提供一个全方位的科学计算环境。continuum.
 

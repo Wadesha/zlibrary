@@ -1,6 +1,5 @@
 ) (Z-Library).
 
---- Page 1 ---
 
 160 ILLUSTRATIONS IN COLOUR
 
@@ -8,7 +7,6 @@
 
 # GREAT BRITAIN AND EUROPE
 
---- Page 2 ---
 
 # A LITTLE GUIDE IN COLOUR
 
@@ -30,7 +28,6 @@
 
 # FISHES
 
---- Page 3 ---
 
 # TREES
 
@@ -56,7 +53,6 @@ PAUL HAMLYN .
 
 # LONDON
 
---- Page 4 ---
 
 # Conifer Broad-leaved tree
 
@@ -70,7 +66,6 @@ Genève
 
 , Geneve
 
---- Page 5 ---
 
 # INTRODUCTION
 
@@ -162,7 +157,6 @@ at least in the southern parts
 
 of the country.
 
---- Page 6 ---
 
 # CONTENTS
 
@@ -214,7 +208,6 @@ INDEX ,
 
 5 - D cn On
 
---- Page 7 ---
 
 # THE VEGETATIVE
 
@@ -270,7 +263,6 @@ aerial system.
 
 # SYSTEM
 
---- Page 8 ---
 
 short distance behind
 
@@ -392,7 +384,6 @@ outwards and inwards.
 
 into phloem towards the outside and xylem towards
 
---- Page 9 ---
 
 a
 
@@ -500,7 +491,6 @@ nut) or drooping (Weep-
 
 ing Willow).
 
---- Page 10 ---
 
 a
 
@@ -594,7 +584,6 @@ of water evaporates from the leaf.
 
 # This transpiration
 
---- Page 11 ---
 
 # VERTICAL SECTION OF A STOMA
 
@@ -890,7 +879,6 @@ cones and for this and other reasons they are usually
 
 put in a group separate from the conifers.
 
---- Page 20 ---
 
 # THE UTILIZATION OF TREES
 
@@ -994,7 +982,6 @@ is the
 
 basis of much of the paper-making industry while the
 
---- Page 21 ---
 
 charcoal prepared by incomplete combustion of wood
 
@@ -1100,7 +1087,6 @@ variegated foliage or colourful
 
 flowers.
 
---- Page 22 ---
 
 # THE NAMES OF TREES
 
@@ -1212,7 +1198,6 @@ of Nomenclature
 
 only one of these can be valid.
 
---- Page 23 ---
 
 # CONIFERS
 
@@ -1326,7 +1311,6 @@ Spruces are inserted singly on the stem but their leaf
 
 scars differ.
 
---- Page 24 ---
 
 # CONIFERS
 
@@ -1364,7 +1348,6 @@ inserted singly on the stem.
 
 similar to those of broad-leaved trees.
 
---- Page 25 ---
 
 on the basis of the form and arrangement of leaves.
 
@@ -1392,7 +1375,6 @@ Cedrus, Larix
 
 Tsuga, Taxodium, Taxus, Sequoia
 
---- Page 26 ---
 
 ARAUCARIA ARAUCANA (Molina) Koch
 
@@ -1440,7 +1422,6 @@ gardens in Britain.
 
 (Araucariaceae)
 
---- Page 27 ---
 
 SEQUOIADENDRON GIGANTEUM Buchholz (Big Tree)
 
@@ -1482,7 +1463,6 @@ in Britain especially in western areas.
 
 (Taxodiaceae)
 
---- Page 28 ---
 
 CRYPTOMERIA JAPONICA Don, D.
 
@@ -1528,7 +1508,6 @@ distinct differences in habit.
 
 (Taxodiaceae)
 
---- Page 29 ---
 
 JUNIPERUS SABINA L.
 
@@ -1574,7 +1553,6 @@ of the 16th century.
 
 (Cupressaceae)
 
---- Page 30 ---
 
 THUJA OCCIDENTALIS L.
 
@@ -1630,7 +1608,6 @@ America.
 
 (Cupressaceae)
 
---- Page 31 ---
 
 LIBOCEDRUS DECURRENS Torrey (Incense Cedar)
 
@@ -1678,7 +1655,6 @@ Eight other species are known.
 
 (Cupressaceae)
 
---- Page 32 ---
 
 CHAMAECYPARIS LAWSONIANA Parl.
 
@@ -1726,7 +1702,6 @@ are also variable in habit.
 
 (Cupressaceae)
 
---- Page 33 ---
 
 # Cupressus
 
@@ -1782,7 +1757,6 @@ cashmeriana).
 
 (Cupressaceae)
 
---- Page 34 ---
 
 JUNIPERUS COMMUNIS L.
 
@@ -1836,7 +1810,6 @@ are also used for flavouring gin.
 
 (Cupressaceae)
 
---- Page 35 ---
 
 PICEA ABIES (L.
 
@@ -2160,7 +2133,6 @@ and is much used in building work.
 
 (Pinaceae)
 
---- Page 46 ---
 
 PINUS PINEA L.
 
@@ -2212,7 +2184,6 @@ thin coats.
 
 (Pinaceae)
 
---- Page 47 ---
 
 # Pinus virginiana
 
@@ -2270,7 +2241,6 @@ la ti folia) is a valuable source of timber.
 
 (Pinaceae)
 
---- Page 48 ---
 
 PINUS PONDEROSA Douglas (Western Yellow Pine)
 
@@ -2310,7 +2280,6 @@ here.
 
 (Pinaceae)
 
---- Page 49 ---
 
 PINUS RIGIDA Mill.
 
@@ -2350,7 +2319,6 @@ but is not of great commercial importance.
 
 (Pinaceae)
 
---- Page 50 ---
 
 PINUS PALUSTRIS Mill.
 
@@ -2398,7 +2366,6 @@ The cones of the last named spe cies are often over a foot long and weigh three 
 
 pounds, (Pinaceae)
 
---- Page 51 ---
 
 PINUS ARMANDI Franch.
 
@@ -2438,7 +2405,6 @@ but the cone is not so stout.
 
 (Pinaceae)
 
---- Page 52 ---
 
 PINUS CEMBRA L.
 
@@ -2488,7 +2454,6 @@ is most flourishing in mountain areas.
 
 (Pinaceae)
 
---- Page 53 ---
 
 PINUS STROBUS L.
 
@@ -2536,7 +2501,6 @@ tree which reaches 250 feet.
 
 (Pinaceae)
 
---- Page 54 ---
 
 LARIX DECIDUA Mill.
 
@@ -2596,7 +2560,6 @@ leaves soft Evergreen
 
 leaves rigid
 
---- Page 55 ---
 
 This handsome evergreen conifer is a native of the
 
@@ -2658,7 +2621,6 @@ scented wood is easy to work and is put to many uses.
 
 (Pinaceae)
 
---- Page 56 ---
 
 TSUGA CANADENSIS (L.
 
@@ -2710,7 +2672,6 @@ room.
 
 (Pinaceae)
 
---- Page 57 ---
 
 TAXODIUM DISTICHUM Richard, L.
 
@@ -2760,7 +2721,6 @@ durable and easy to work.
 
 (Taxodiaceae)
 
---- Page 58 ---
 
 TAXUS BACCATA L.
 
@@ -2822,7 +2782,6 @@ geographical species.
 
 (Taxaceae)
 
---- Page 59 ---
 
 SEQUOIA SEMPERVIRENS (L.
 
@@ -2876,7 +2835,6 @@ an ornamental tree but the wood is of poor quality.
 
 (Taxodiaceae)
 
---- Page 60 ---
 
 GINKGO BILOBA L.
 
@@ -2934,7 +2892,6 @@ years.
 
 (Ginkgoaceae)
 
---- Page 61 ---
 
 # BROAD-LEAVED TREES
 
@@ -3032,7 +2989,6 @@ these headings the next separation depends on whether
 
 the leaves are opposite or alternate.
 
---- Page 62 ---
 
 # BROAD-LEAVED TREES
 
@@ -3106,7 +3062,6 @@ toothed or lobed
 
 # Acer
 
---- Page 63 ---
 
 # BROAD-LEAVED TREES
 
@@ -3150,7 +3105,6 @@ e) Leaves palmate
 
 151-152
 
---- Page 64 ---
 
 # Diospyros virginiana
 
@@ -3234,7 +3188,6 @@ rarely planted in Britain.
 
 (Ebenaceae)
 
---- Page 65 ---
 
 CERCIS SILIQUASTRUM L.
 
@@ -3286,7 +3239,6 @@ flowers.
 
 (Caesalpiniaceae)
 
---- Page 66 ---
 
 MAGNOLIA SPP.
 
@@ -3412,13 +3364,11 @@ American species with leaves up to three feet long.
 
 (Magnoliaceae)
 
---- Page 67 ---
 
 # Magnolia grandiflora
 
 # Magnolia acuminata
 
---- Page 68 ---
 
 MACLURA POMIFERA Schneid.
 
@@ -3470,7 +3420,6 @@ their skins.
 
 (Moraceae)
 
---- Page 69 ---
 
 SALIX VIMINALIS L.
 
@@ -3528,7 +3477,6 @@ common.
 
 (Salicaceae)
 
---- Page 70 ---
 
 SALIX ALBA L.
 
@@ -3590,7 +3538,6 @@ Willow (p.
 
 (Salicaceae)
 
---- Page 71 ---
 
 SALIX BABYLONICA L.
 
@@ -3644,7 +3591,6 @@ in autumn.
 
 (Salicaceae)
 
---- Page 72 ---
 
 SALIX FRAGILIS L.
 
@@ -3710,7 +3656,6 @@ rated leaves and olive-brown twigs.
 
 (Salicaceae)
 
---- Page 73 ---
 
 SALIX PURPUREA L.
 
@@ -3766,7 +3711,6 @@ the banks.
 
 (Salicaceae)
 
---- Page 74 ---
 
 female catkin
 
@@ -3830,7 +3774,6 @@ decoration on Palm Sunday.
 
 (Salicaceae)
 
---- Page 75 ---
 
 female catkin
 
@@ -3892,7 +3835,6 @@ to wear off during the summer.
 
 (Salicaceae)
 
---- Page 76 ---
 
 POPULUS NIGRA L.
 
@@ -3968,7 +3910,6 @@ effected by cuttings.
 
 (Salicaceae)
 
---- Page 77 ---
 
 # POPULUS DELTOIDES Marshall
 
@@ -4000,7 +3941,6 @@ not as long as they are wide.
 
 (Salicaceae)
 
---- Page 78 ---
 
 male catkin
 
@@ -4054,7 +3994,6 @@ are sometimes found.
 
 (Salicaceae)
 
---- Page 79 ---
 
 POPULUS TREMULOIDES Michx.
 
@@ -4098,7 +4037,6 @@ tion since the middle of the 18th century.
 
 (Salicaceae)
 
---- Page 80 ---
 
 fruits
 
@@ -4144,7 +4082,6 @@ Hornbeam makes an excellent hedge.
 
 (Corylaceae)
 
---- Page 81 ---
 
 FAGUS SYLVATICA L.
 
@@ -4194,7 +4131,6 @@ hard pale wood is often used for making furniture.
 
 (Fagaceae)
 
---- Page 82 ---
 
 BETULA PENDULA Roth (Silver Birch)
 
@@ -4286,7 +4222,6 @@ and they have all been derived from this species.
 
 (Rosaceae)
 
---- Page 102 ---
 
 CRATAEGUS OXYACANTHOIDES Thuill.
 
@@ -4396,13 +4331,11 @@ of Arimathea.
 
 (Rosaceae)
 
---- Page 103 ---
 
 | Crataegus oxyacanthoides
 
 0 x Crataegus monogyna
 
---- Page 104 ---
 
 MESPILUS GERMANICA L.
 
@@ -4454,7 +4387,6 @@ between them are known.
 
 (Rosaceae)
 
---- Page 105 ---
 
 # Morus rubra
 
@@ -4512,7 +4444,6 @@ its leaves are used to feed silk-worms.
 
 (Moraceae)
 
---- Page 106 ---
 
 BROUSSONETIA PAPYRIFERA Vent.
 
@@ -4552,7 +4483,6 @@ is occasionally found in gardens in Britain.
 
 (Moraceae)
 
---- Page 107 ---
 
 QUERCUS ROBUR L.
 
@@ -4596,7 +4526,6 @@ is no longer required in quantity for ship building.
 
 (Fagaceae)
 
---- Page 108 ---
 
 QUERCUS PETRAEA (Mattuschka) Lieb.
 
@@ -4644,7 +4573,6 @@ to pests and diseases.
 
 (Fagaceae)
 
---- Page 109 ---
 
 QUERCUS PYRENAICA Willd.
 
@@ -4684,7 +4612,6 @@ disease especially in wet summers.
 
 (Fagaceae)
 
---- Page 110 ---
 
 QUERCUS CERRIS L.
 
@@ -4734,7 +4661,6 @@ is a variable hybrid between the Cork Oak
 
 (Fagaceae)
 
---- Page 111 ---
 
 QUERCUS ILEX L.
 
@@ -4758,7 +4684,6 @@ and cabinet-making.
 
 (Oleaceae)
 
---- Page 121 ---
 
 PAULOWNIA TOMENTOSA Koch, C.
 
@@ -4802,7 +4727,6 @@ pointed capsule containing numerous winged seeds.
 
 (Scrophulariaceae)
 
---- Page 122 ---
 
 CATALPA SPP.
 
@@ -4914,7 +4838,6 @@ three to five pointed lobes.
 
 # The small flowers are
 
---- Page 123 ---
 
 # Catalpa speciosa
 
@@ -4946,7 +4869,6 @@ Leaves often in threes Leaves always in opposite pairs
 
 Fruit a long pod-like capsule Fruit an ovoid capsule
 
---- Page 124 ---
 
 ACER PSEUDOPLATANUS L.
 
@@ -4992,7 +4914,6 @@ fine-grained wood is used for broom-heads and toys.
 
 (Aceraceae)
 
---- Page 125 ---
 
 ACER PLATANOIDES L.
 
@@ -5048,7 +4969,6 @@ turn dark red in the autumn.
 
 (Aceraceae)
 
---- Page 126 ---
 
 corky stem
 
@@ -5100,7 +5020,6 @@ and turnery.
 
 (Aceraceae)
 
---- Page 127 ---
 
 ACER MONSPESSULANUM L.
 
@@ -5142,7 +5061,6 @@ wood is used in furniture-making.
 
 (Aceraceae)
 
---- Page 128 ---
 
 # NORTH AMERICAN MAPLES
 
@@ -5244,9 +5162,7 @@ saccharum the BlackMaple has a Sugary Sap which is sometimes extracted
 
 commercially: (Aceraceae)
 
---- Page 129 ---
 
---- Page 130 ---
 
 ACER OPALUS Mill.
 
@@ -5300,7 +5216,6 @@ atropurpureum.
 
 (Aceraceae)
 
---- Page 131 ---
 
 CLADRASTIS TINCTORIA Raf.
 
@@ -5346,7 +5261,6 @@ wood.
 
 (Caesalpiniaceae)
 
---- Page 132 ---
 
 GYMNOCLADUS CANADENSIS Lam.
 
@@ -5396,7 +5310,6 @@ making a kind of coffee.
 
 (Caesalpiniaceae)
 
---- Page 133 ---
 
 SOPHORA JAPONICA L.
 
@@ -5446,7 +5359,6 @@ viciifolia, a shrub from China.
 
 (Leguminosae)
 
---- Page 134 ---
 
 ROBINIA PSEUDOACACIA L.
 
@@ -5546,13 +5458,11 @@ are covered with stiff hairs.
 
 (Papilionaceae)
 
---- Page 135 ---
 
 # Robinia pseudoacacia
 
 # Robinia hispida
 
---- Page 136 ---
 
 fruits
 
@@ -5608,7 +5518,6 @@ Europe.
 
 (Leguminosae)
 
---- Page 137 ---
 
 CEDRELA SINENSIS Juss.
 
@@ -5662,7 +5571,6 @@ Fruit a capsule, seeds winged
 
 Fruit one-seeded, winged
 
---- Page 138 ---
 
 leaf scar with seven endings
 
@@ -5710,7 +5618,6 @@ adjacent ground.
 
 (Simarubaceae)
 
---- Page 139 ---
 
 shell and seed male catkin
 
@@ -5746,7 +5653,6 @@ Apart from the fruits this tree is grown for its hard beautifully figured wood w
 
 (Juglandaceae)
 
---- Page 140 ---
 
 JUGLANS NIGRA L.
 
@@ -5768,7 +5674,6 @@ The fruits are of no value for eating but the hard durable wood is put to many u
 
 (Juglandaceae)
 
---- Page 141 ---
 
 JUGLANS CINEREA L.
 
@@ -5804,7 +5709,6 @@ Outer layer of fruit does not split into four valves
 
 Outer layer of fruit splits into four valves
 
---- Page 142 ---
 
 CARYA OVATA Koch (Shellbark Hickory)
 
@@ -5832,7 +5736,6 @@ which is a tall tree with bright yellow buds and inedible fruits.
 
 (Juglandaceae)
 
---- Page 143 ---
 
 axillary bud
 
@@ -5864,7 +5767,6 @@ The elongated wings of the fruit are at an acute angle.
 
 (Juglandaceae)
 
---- Page 144 ---
 
 stem spine
 
@@ -5900,7 +5802,6 @@ is Ceratonia siliqua.
 
 (Caesalpiniaceae)
 
---- Page 145 ---
 
 SORBUS DOMESTICA L.
 
@@ -5932,7 +5833,6 @@ but this has now been destroyed.
 
 (Rosaceae)
 
---- Page 146 ---
 
 fruits
 
@@ -5964,7 +5864,6 @@ aria (p.
 
 (Rosaceae)
 
---- Page 147 ---
 
 KOELREUTERIA PANICULATA Laxm.
 
@@ -5990,7 +5889,6 @@ It is sometimes planted in gardens for its attractive foliage and it also fruits
 
 (Sapindaceae)
 
---- Page 148 ---
 
 fruiting head
 
@@ -6020,7 +5918,6 @@ it can be a nuisance to gardeners because of the long suckers it produces so fre
 
 (Anacardiaceae)
 
---- Page 149 ---
 
 fruits
 
@@ -6070,7 +5967,6 @@ female.
 
 (Aceraceae)
 
---- Page 150 ---
 
 FRAXINUS EXCELSIOR L.
 
@@ -6114,7 +6010,6 @@ grown for its timber which is tough and durable.
 
 (Oleaceae)
 
---- Page 151 ---
 
 cluster of flowers
 
@@ -6166,7 +6061,6 @@ stem was formerly used medicinally.
 
 (Oleaceae)
 
---- Page 152 ---
 
 FRAXINUS AMERICANUS L.
 
@@ -6218,7 +6112,6 @@ profunda.
 
 (Oleaceae)
 
---- Page 153 ---
 
 AESCULUS HIPPOCASTANUM L.
 
@@ -6260,7 +6153,6 @@ occasionally two brown seeds.
 
 (Hippocastanaceae)
 
---- Page 154 ---
 
 AESCULUS PAVIA (Red Buckeye)
 
@@ -6308,7 +6200,6 @@ with pink or red flowers occur.
 
 (Hippocastanaceae)
 
---- Page 155 ---
 
 # NAMES AND ABBREVIATIONS
 
@@ -6600,7 +6491,6 @@ i N.
 
 # Willdenow
 
---- Page 156 ---
 
 # BIBLIOGRAPHY
 
@@ -6720,7 +6610,6 @@ Araucaria araucana .
 
 Chamaecyparis lawsoniana 30 Larix decidua .
 
---- Page 157 ---
 
 # Libocedrus decurrens
 

@@ -1,4 +1,4 @@
-# The Art of Linear Algebra zh CN
+The Art of Linear Algebra zh CN
 
 The Art of Linear Algebra – Graphic Notes on “Linear Algebra for Everyone” – Kenji Hiranabe ∗ with the kindest help of Gilbert Strang † translator: Kefang Liu ‡
 

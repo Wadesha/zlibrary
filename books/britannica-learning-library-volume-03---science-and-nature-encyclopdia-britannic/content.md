@@ -1,22 +1,22 @@
-# Science and Nature
+Science and Nature
 
-# Uncover the mystery of everyday marvels
+Uncover the mystery of everyday marvels
 
 from rocks to rainbows.
 
-# PROJECT TEAM
+PROJECT TEAM
 
-# Charles Cegielski
+Charles Cegielski
 
 Judith West, Editorial Project Manager
 
-# Christopher Eaton
+Christopher Eaton
 
-# Editor and Educational Consultant
+Editor and Educational Consultant
 
 Kathryn Harper, U.
 
-# Editorial Consultant
+Editorial Consultant
 
 Marilyn L.
 
@@ -24,29 +24,29 @@ Barton, Senior Production Coordinator
 
 Gene O.
 
-# Larson
+Larson
 
-# Editors
+Editors
 
-# Theodore Pappas
+Theodore Pappas
 
 Anthony L.
 
-# Green
+Green
 
-# Mary Rose McCudden
+Mary Rose McCudden
 
 Andrea R.
 
-# Field
+Field
 
 Michael J.
 
-# Anderson
+Anderson
 
-# Colin Murphy
+Colin Murphy
 
-# Locke Petersheim
+Locke Petersheim
 
 Indu Ramchandani (Encyclopædia Britannica India)
 
@@ -56,9 +56,9 @@ Rashi Jain (India)
 
 Kristine A.
 
-# Strom
+Strom
 
-# Design and Media Specialists
+Design and Media Specialists
 
 Nancy Donohue Canfield, Design
 
@@ -76,133 +76,133 @@ Kraus, Illustrations
 
 Michael Nutter, Maps
 
-# Jeannine Deubel
+Jeannine Deubel
 
-# Copy Editors
+Copy Editors
 
-# Barbara Whitney
+Barbara Whitney
 
 Laura R.
 
-# Gabler
+Gabler
 
-# Dennis Skord
+Dennis Skord
 
-# COPY
+COPY
 
 Lisa Braucher, Data Editor
 
 Paul Cranmer, Indexer
 
-# Glenn Jenne
+Glenn Jenne
 
-# Mary Kasprzak
+Mary Kasprzak
 
 ENCYCLOPÆDIA BRITANNICA PROJECT SUPPORT TEAM
 
-# Joan Lackowski
+Joan Lackowski
 
-# EDITORIAL
+EDITORIAL
 
-# Linda Berris
+Linda Berris
 
-# Robert Curley
+Robert Curley
 
-# Brian Duignan
+Brian Duignan
 
-# Kathleen Kuiper
+Kathleen Kuiper
 
-# Kenneth Pletcher
+Kenneth Pletcher
 
-# Jeffrey Wallenfeldt
+Jeffrey Wallenfeldt
 
-# Anita Wolff
+Anita Wolff
 
 INFORMATION MANAGEMENT/
 
 Judith West, Editorial Project Manager
 
-# Mark Domke
+Mark Domke
 
-# INDEXING
+INDEXING
 
-# Michael Frassetto
+Michael Frassetto
 
-# Carmen-Maria Hetrea
+Carmen-Maria Hetrea
 
-# James Hennelly
+James Hennelly
 
-# Edward Paul Moragne
+Edward Paul Moragne
 
-# Sherman Hollar
+Sherman Hollar
 
-# Marco Sampaolo
+Marco Sampaolo
 
-# Sheila Vasich
+Sheila Vasich
 
 Mansur G.
 
-# Abdullah
+Abdullah
 
-# Keith DeWeese
+Keith DeWeese
 
-# Catherine Keich
+Catherine Keich
 
-# Robert Lewis
+Robert Lewis
 
-# Stephen Seddon
+Stephen Seddon
 
-# Tom Michael
+Tom Michael
 
-# Janet Moredock
+Janet Moredock
 
-# Steven Bosco
+Steven Bosco
 
-# Gavin Chiu
+Gavin Chiu
 
 Steven N.
 
-# Kapusta
+Kapusta
 
-# Bruce Walters
+Bruce Walters
 
 Carol A.
 
-# Gaines
+Gaines
 
-# Mark Wiechec
+Mark Wiechec
 
-# Cate Nichols
+Cate Nichols
 
-# COMPOSITION TECHNOLOGY
+COMPOSITION TECHNOLOGY
 
-# Mel Stagner
+Mel Stagner
 
-# Kathy Nakamura
+Kathy Nakamura
 
-# MANUFACTURING
+MANUFACTURING
 
 Nadia C.
 
-# Venegas
+Venegas
 
-# Dennis Flaherty
+Dennis Flaherty
 
-# Kim Gerber
+Kim Gerber
 
-# ILLUSTRATION
+ILLUSTRATION
 
-# INTERNATIONAL BUSINESS
+INTERNATIONAL BUSINESS
 
-# Christine McCabe
+Christine McCabe
 
-# Leah Mansoor
+Leah Mansoor
 
-# Thomas Spanos
+Thomas Spanos
 
 Isabella Saccà
 
-# MEDIA ASSET MANAGEMENT
+MEDIA ASSET MANAGEMENT
 
 ENCYCLOPÆDIA BRITANNICA, INC.
 
@@ -212,19 +212,19 @@ Safra, Chairman of the Board
 
 Jorge Aguilar-Cauz, President
 
-# Michael Ross
+Michael Ross
 
-# Senior Vice President
+Senior Vice President
 
-# Corporate Development
+Corporate Development
 
 Dale H.
 
-# Hoiberg
+Hoiberg
 
-# Senior Vice President and Editor
+Senior Vice President and Editor
 
-# Marsha Mackenzie
+Marsha Mackenzie
 
 Managing Editor and Director of Production
 
@@ -238,7 +238,7 @@ Cover insert photos (left)
 
 Diebold/Corbis
 
-# International Standard Book Number
+International Standard Book Number
 
 978-1-59339-504-9
 
@@ -254,9 +254,9 @@ or by any information storage and retrieval system
 
 without permission in writing from the publisher.
 
-# BRITANNICA LEARNING LIBRARY
+BRITANNICA LEARNING LIBRARY
 
-# SCIENCE AND NATURE 2008
+SCIENCE AND NATURE 2008
 
 Britannica.
 
@@ -272,9 +272,9 @@ Pat.
 
 Off.
 
-# Science and Nature
+Science and Nature
 
-# I N T R O D U C T I O N
+I N T R O D U C T I O N
 
 What are tsunamis?
 
@@ -284,7 +284,7 @@ Why do some leaves turn red?
 
 What woman won two Nobel Prizes in the sciences?
 
-# To help you on your journey
+To help you on your journey
 
 we’ve provided the following guideposts in Science and Nature
 
@@ -326,19 +326,19 @@ Have a great trip!
 
 A fallen maple leaf shows its autumn colors.
 
-# Science and Nature
+Science and Nature
 
-# TABLE OF CONTENTS
+TABLE OF CONTENTS
 
 I NTRODUCTION .
 
-# SOME ESSENTIALS
+SOME ESSENTIALS
 
 Atoms: Building Blocks of Matter .
 
-# Liquids
+Liquids
 
-# Solids
+Solids
 
 and Gases
 
@@ -354,7 +354,7 @@ Sand: The Nitty-Gritty .
 
 Echoes: Sounds That See in the Dark .
 
-# Diamonds
+Diamonds
 
 The Hardest-Working Gemstones in the World .
 
@@ -362,13 +362,13 @@ Energy: The Power of Life .
 
 Volcanoes: Mountains of Smoke and Fire.
 
-# Leaves
+Leaves
 
 The Science of Their Changing Colors .
 
 Fossils: Ancient Life in Stone .
 
-# PHENOMENA OF NATURE
+PHENOMENA OF NATURE
 
 Temperatures: Hot and Cold.
 
@@ -384,15 +384,15 @@ Tyrannosaur: The Tyrant King.
 
 Rainbows: Arcs of Color.
 
-# Mammoths and Mastodons
+Mammoths and Mastodons
 
 Ancient Elephants .
 
-# Thunder and Lightning
+Thunder and Lightning
 
 Nature’s Fireworks .
 
-# NATURE SCIENTISTS
+NATURE SCIENTISTS
 
 Cyclones and Tornadoes: Nature’s Fury.
 
@@ -400,7 +400,7 @@ Luther Burbank: Inventing New Plants .
 
 Acid Rain: Killer Downpour.
 
-# Marie Curie
+Marie Curie
 
 Discovering a New Kind of Science.
 
@@ -414,11 +414,11 @@ GLOSSARY .
 
 INDEX.
 
-# Building Blocks of Matter
+Building Blocks of Matter
 
 Everything in the world is made up of molecules.
 
-# Our bodies
+Our bodies
 
 our clothes
 
@@ -432,7 +432,7 @@ air, water
 
 sky—everything.
 
-# Molecules are so small
+Molecules are so small
 
 though
 
@@ -440,7 +440,7 @@ that we can’t see them with our naked eyes.
 
 But molecules aren’t the smallest things.
 
-# Molecules are made up of atoms
+Molecules are made up of atoms
 
 which are smaller still.
 
@@ -472,7 +472,7 @@ READ THESE ARTICLES…
 
 ENERGY • LIQUIDS
 
-# SOLIDS
+SOLIDS
 
 AND GASES • MARIE CURIE
 
@@ -482,7 +482,7 @@ Atoms are the smallest things of all.
 
 ANSWER: FALSE.
 
-# Atoms can be split into electrons
+Atoms can be split into electrons
 
 protons
 
@@ -492,7 +492,7 @@ and all of which are smaller than the atom itself.
 
 And quarks are even smaller than those.
 
-# ATOMS
+ATOMS
 
 Did you know that many of the things you may see or use every day—such as the water in a glass
 
@@ -508,7 +508,7 @@ or a gas.
 
 The form they take depends mostly on their temperature.
 
-# When water gets cold enough
+When water gets cold enough
 
 it becomes a hard solid we call “ice.
 
@@ -540,17 +540,17 @@ But that water does keep its own size.
 
 It measures one cup.
 
-# Everyday liquids such as milk
+Everyday liquids such as milk
 
 paint, and gasoline act this same way.
 
 Gases do not keep their own shape or their own size.
 
-# When air is pumped into a football
+When air is pumped into a football
 
 it takes the shape and size of the ball.
 
-# As more air is pumped in
+As more air is pumped in
 
 the ball gets harder but not much bigger.
 
@@ -558,7 +558,7 @@ The air changes its size and shape to fit the container.
 
 LIQUIDS, SOLIDS, AND GASES
 
-# Answer
+Answer
 
 S = melts
 
@@ -628,15 +628,15 @@ or large pieces of furniture.
 
 That’s why we don’t usually hear echoes in the house.
 
-# ECHOES
+ECHOES
 
 Did you know that echoes can help some animals “see” in the dark?
 
-# In pitch-dark caves bats fly easily
+In pitch-dark caves bats fly easily
 
 never bumping into anything and even catching tiny insects in the air.
 
-# As they fly
+As they fly
 
 they make tiny whistle-like sounds.
 
@@ -648,7 +648,7 @@ Human beings have learned to harness the power of echoes for navigation too.
 
 Submarines traveling underwater use sonar to bounce sounds off of solid objects so that they can tell where those objects are located—sort of like undersea bats!
 
-# Answer
+Answer
 
 Bats use echoes to tell what is around them in the dark.
 
@@ -658,11 +658,11 @@ LEARN MORE!
 
 READ THESE ARTICLES… ENERGY
 
-# RAINBOWS
+RAINBOWS
 
-# WAVES
+WAVES
 
-# Without energy in our bodies
+Without energy in our bodies
 
 we wouldn’t be able to do anything.
 
@@ -672,7 +672,7 @@ Energy is usable power.
 
 And all energy is related to some kind of motion.
 
-# All living things need energy
+All living things need energy
 
 no matter what they do.
 
@@ -698,7 +698,7 @@ It isn’t only living things that have energy.
 
 A dead tree has hidden energy.
 
-# When we burn its wood
+When we burn its wood
 
 it gives off warmth
 
@@ -732,15 +732,15 @@ we couldn’t drive cars or cook food.
 
 We wouldn’t have light at nighttime.
 
-# Basically
+Basically
 
 we’d have to use the energy of our own bodies.
 
 And that would mean eating a lot more and doing a lot less.
 
-# ENERGY
+ENERGY
 
-# Answer
+Answer
 
 Heat energy comes from things that burn.
 
@@ -750,9 +750,9 @@ LEARN MORE!
 
 READ THESE ARTICLES… MARIE CURIE
 
-# LEAVES
+LEAVES
 
-# THUNDER AND LIGHTNING
+THUNDER AND LIGHTNING
 
 These sentences are all mixed up.
 
@@ -766,7 +766,7 @@ Find and correct the error in the following sentence
 
 Leaves turn red if they have a lot of carbon dioxide in them when the sunlight shines on them.
 
-# Answer
+Answer
 
 Leaves turn red only if they have lots of sugar in them when the sunlight shines on them.
 
@@ -792,7 +792,7 @@ a gas in the air.
 
 Plants need carbon dioxide to live and grow.
 
-# When leaves use carbon dioxide
+When leaves use carbon dioxide
 
 another gas
 
@@ -806,29 +806,29 @@ So it lets the oxygen go.
 
 Animals and humans need oxygen to live.
 
-# Their bodies use the oxygen
+Their bodies use the oxygen
 
 and what do you think they have left over?
 
 Carbon dioxide.
 
-# When animals and humans breathe out
+When animals and humans breathe out
 
 they let the carbon dioxide go.
 
 It’s easy to see that plants and animals and humans help each other this way.
 
-# In places where it gets cool in autumn
+In places where it gets cool in autumn
 
 a plant loses its chlorophyll
 
 and its leaves may turn yellow or red.
 
-# The yellow was there all summer
+The yellow was there all summer
 
 but there was so much green that the yellow didn’t show until the green went away.
 
-# Temperature measures how much
+Temperature measures how much
 
 a) heat something has.
 
@@ -838,7 +838,7 @@ c) pressure something has.
 
 Answer: a) heat something has.
 
-# We can use our fingers
+We can use our fingers
 
 our tongue
 
@@ -892,15 +892,15 @@ LEARN MORE!
 
 READ THESE ARTICLES… DEW • LIQUIDS
 
-# SOLIDS
+SOLIDS
 
 AND GASES • VOLCANOES
 
-# Dew
+Dew
 
 Susan and her mother had come to the park for an early morning walk.
 
-# They
+They
 
 最近天气一直很好，很暖和。夜晚宁静，天空几乎万里无云。公园的草地闪闪发光，眨着眼睛。“那些是钻石吗？”苏珊问道。看起来就像有人在夜里把细小的钻石撒满了整个草地。苏珊弯下腰，摸了摸其中一个闪光点。“是水！”她惊讶地叫道。“水是怎么到这儿来的？昨晚下雨了吗？“不，这不是雨水。是露水。“什么是露水？”苏珊急切地想知道。“它来自空气。你知道，所有的空气里都含有一些水分，”妈妈说。“可是我在空气里没看到任何水啊，”苏珊环顾四周说道。“不，你当然看不到。它以水蒸气的形式存在，像雾一样，只是非常稀薄，”妈妈说。“那么水是怎么到草叶上的呢？“你知道蒸汽碰到冷的东西会重新变成水，对吧？”苏珊点了点头。“嗯，在某些夜晚，空气温暖且充满了水汽，”妈妈继续说道，“但是草地和地面是凉的。所以当温暖空气中的水汽接触到这些较冷的表面时……”
 
@@ -916,7 +916,7 @@ They can show up in the spray of a fountain or a waterfall
 
 or you can make your own with a hose.
 
-# Set the nozzle to create a spray
+Set the nozzle to create a spray
 
 aim it away from the Sun
 
@@ -928,15 +928,15 @@ The name gives you the first letter of each of the colors of the rainbow
 
 in the order that they occur in the rainbow.
 
-# Like this
+Like this
 
 Red, Orange
 
-# Yellow
+Yellow
 
 Green, Blue
 
-# Indigo
+Indigo
 
 Violet.
 
@@ -944,31 +944,31 @@ How can the name "Roy G.
 
 Biv" help you remember the colors of the rainbow?
 
-# Answer
+Answer
 
 The name gives you the first letter of each of the colors of the rainbow
 
 in the order that they occur in the rainbow.
 
-# Like this
+Like this
 
 Red, Orange
 
-# Yellow
+Yellow
 
 Green, Blue
 
-# Indigo
+Indigo
 
 Violet.
 
 DID YOU KNOW?
 
-# Rainbows are actually full circles
+Rainbows are actually full circles
 
 but we only see the part of them that is above the ground.
 
-# It can be fun playing in a gentle rain
+It can be fun playing in a gentle rain
 
 splashing in puddles and chasing raindrops.
 
@@ -978,7 +978,7 @@ True or false?
 
 In a thunderstorm it's a good idea to take shelter under a tree.
 
-# Thunderheads are the large
+Thunderheads are the large
 
 dark, often fast-moving clouds that come out during storms.
 
@@ -988,7 +988,7 @@ and that rumbling indicates the presence of lightning.
 
 The rumbling is the sound lightning makes as it arcs across the sky.
 
-# During a thunderstorm
+During a thunderstorm
 
 electricity collects in the clouds.
 
@@ -1010,7 +1010,7 @@ buildings
 
 and radio towers are often struck.
 
-# Actually
+Actually
 
 there are two parts to a lightning strike.
 
@@ -1040,7 +1040,7 @@ A tree is likely to be struck by lightning in a storm.
 
 It's better to get inside a car or a house, which will protect you even if it's struck.
 
-# Fill in the blank
+Fill in the blank
 
 The quietest part of a cyclone is the _______
 
@@ -1058,11 +1058,11 @@ it is called a "hurricane.
 
 " In the western Pacific Ocean, it is known as a "typhoon.
 
-# From above
+From above
 
 a cyclone looks like a huge spinning doughnut of clouds.
 
-# The center of the storm
+The center of the storm
 
 the doughnut hole
 
@@ -1070,21 +1070,21 @@ is called the "eye.
 
 " The eye is quiet and cloudless.
 
-# When the eye passes overhead
+When the eye passes overhead
 
 it might seem like the storm has ended.
 
-# But within an hour or two
+But within an hour or two
 
 the eye passes and the other side of the storm hits.
 
 With its strong winds a cyclone also brings flooding rains and sometimes very high ocean waves.
 
-# When a cyclone hits land
+When a cyclone hits land
 
 it causes severe damage.
 
-# The combination of wind
+The combination of wind
 
 rain, and waves can knock down trees
 
@@ -1102,7 +1102,7 @@ But a tornado also has very strong winds
 
 so it too can be very destructive.
 
-# It can knock a tree over
+It can knock a tree over
 
 peel the roof off a house
 
@@ -1110,7 +1110,7 @@ and even lift a car off the ground.
 
 The wind can blow a car off its track or lift a house straight into the air.
 
-# Fortunately
+Fortunately
 
 tornadoes usually die soon after they start.
 
@@ -1118,13 +1118,13 @@ LEARN MORE!
 
 READ THESE ARTICLES…
 
-# CLOUDS
+CLOUDS
 
-# TSUNAMIS
+TSUNAMIS
 
-# WAVES
+WAVES
 
-# Answer
+Answer
 
 The eye of a cyclone is the part where there are no clouds or winds.
 
@@ -1160,7 +1160,7 @@ Such rain is called “acid rain.
 
 This is how it happens.
 
-# We burn fuels such as coal
+We burn fuels such as coal
 
 gas, and oil in our factories.
 
@@ -1176,25 +1176,25 @@ carbonic acid
 
 and nitric acid.
 
-# When it rains
+When it rains
 
 these acids fall to earth with the water.
 
 Acid doesn’t fall to earth only in the form of rain.
 
-# It can also fall as snow
+It can also fall as snow
 
 sleet, and hail.
 
 It can even be in fog.
 
-# Acid rain harms many forms of life
+Acid rain harms many forms of life
 
 including human life.
 
 It also damages buildings.
 
-# The acid eats through stone
+The acid eats through stone
 
 metal, and concrete.
 
@@ -1224,9 +1224,9 @@ READ THESE ARTICLES…
 
 CLOUDS • LEAVES • LIQUIDS
 
-# SOLIDS
+SOLIDS
 
-# AND GASES
+AND GASES
 
 © 2008 Encyclopædia Britannica, Inc.
 
@@ -1236,7 +1236,7 @@ Answer: e) all of the above.
 
 © 2008 Encyclopædia Britannica, Inc.
 
-# WAVES
+WAVES
 
 The ocean never seems to sit still.
 
@@ -1254,7 +1254,7 @@ The top of a wave is called the “crest
 
 ” and the lowest part in between the crests is known as the “trough.
 
-# When waves roll through the open ocean
+When waves roll through the open ocean
 
 they’re called “swell.
 
@@ -1268,13 +1268,13 @@ A gentle wind makes long waves that don’t rise very high.
 
 But stronger winds push harder on the water and create taller waves.
 
-# Big storms mean strong winds
+Big storms mean strong winds
 
 and that means huge
 
 powerful waves.
 
-# Major ocean storms
+Major ocean storms
 
 called “hurricanes” or “typhoons
 
@@ -1284,7 +1284,7 @@ Some are so big they can smash oceanside houses into pieces or tip over ships th
 
 During violent storms waves have been known to reach to the tops of lighthouses and to toss boats completely out of the water.
 
-# The most destructive waves are tsunamis
+The most destructive waves are tsunamis
 
 but they’re quite different from other waves.
 
@@ -1296,11 +1296,11 @@ LEARN MORE!
 
 READ THESE ARTICLES…
 
-# CYCLONES AND TORNADOES
+CYCLONES AND TORNADOES
 
-# SAND
+SAND
 
-# TSUNAMIS
+TSUNAMIS
 
 Answer: a) surf.
 
@@ -1322,7 +1322,7 @@ Soon enough…
 
 Massive waves caused by the earthquake rose up from the ocean.
 
-# These violent waves
+These violent waves
 
 each more than three stories high
 
@@ -1352,7 +1352,7 @@ Tsunamis travel fast and have the force to destroy entire coastal communities wi
 
 A tsunami can travel at speeds of 450 miles per hour or more (as fast as a jet plane) and packs tremendous force.
 
-# As the tsunami approaches land
+As the tsunami approaches land
 
 it grows larger.
 
@@ -1364,11 +1364,11 @@ In December 2004 an earthquake caused a major tsunami in the Indian Ocean.
 
 The earthquake struck off the coast of Indonesia.
 
-# Two hours later
+Two hours later
 
 waves as high as 30 feet hit coastal areas some 750 miles away.
 
-# The tsunami killed more than 200
+The tsunami killed more than 200
 
 000 people in at least 10 countries.
 
@@ -1376,11 +1376,11 @@ LEARN MORE!
 
 READ THESE ARTICLES…
 
-# CYCLONES AND TORNADOES
+CYCLONES AND TORNADOES
 
-# VOLCANOES
+VOLCANOES
 
-# WAVES
+WAVES
 
 Answer: c) high winds
 
@@ -1394,7 +1394,7 @@ or landslide.
 
 Tsunamis travel fast and can cross an entire ocean in a day.
 
-# When they reach shore
+When they reach shore
 
 they can cause massive damage.
 
@@ -1410,9 +1410,9 @@ The word “tsunami” comes from the Japanese words “tsu” (harbor) and “n
 
 What causes a tsunami?
 
-# Answer
+Answer
 
-# An underwater earthquake
+An underwater earthquake
 
 volcanic eruption
 
@@ -1420,13 +1420,13 @@ or landslide.
 
 How fast can a tsunami travel?
 
-# Answer
+Answer
 
 Up to 450 miles per hour in the open ocean.
 
 How tall can a tsunami be?
 
-# Answer
+Answer
 
 It can be up to 100 feet tall when it reaches shore.
 
@@ -1446,7 +1446,7 @@ Because there are so many things about the Earth that geologists study
 
 geology is divided into many individual areas.
 
-# For instance
+For instance
 
 the study of physical geology looks at the changes that take place inside the Earth and the reasons for those changes.
 
@@ -1474,7 +1474,7 @@ DINOSAURS: A MYSTERY DISAPPEARANCE
 
 FOSSILS • ROCKS AND MINERALS
 
-# Answer
+Answer
 
 geology—Earth
 
@@ -1496,7 +1496,7 @@ paleontologist chemicals in rocks
 
 You might think that rocks are pretty dull.
 
-# But rocks tell the history of the Earth
+But rocks tell the history of the Earth
 
 including stories of giant explosions
 
@@ -1506,29 +1506,29 @@ and buried forests turning to stone.
 
 Rocks are made up of one or more minerals.
 
-# Most minerals are inorganic
+Most minerals are inorganic
 
 which means that they are not made from living things.
 
 They are substances that occur naturally in the earth.
 
-# Some minerals are metals
+Some minerals are metals
 
 such as iron and gold.
 
-# Others are nonmetallic
+Others are nonmetallic
 
 like quartz and calcite.
 
 Some minerals contain the hardened remains of animals and plants.
 
-# Limestone rock
+Limestone rock
 
 for example
 
 is made up largely of bits and pieces of shells and skeletons of sea creatures.
 
-# All rocks fall into one of three groups
+All rocks fall into one of three groups
 
 depending on how they are formed.
 
@@ -1560,7 +1560,7 @@ pressure
 
 or chemical reactions deep within the Earth.
 
-# For example
+For example
 
 limestone can change into marble.
 
@@ -1578,7 +1578,7 @@ And an ounce of gold can be drawn into a wire more than 40 miles long.
 
 © 2008 Encyclopædia Britannica, Inc.
 
-# R O C K S A N D M I N E R A L S
+R O C K S A N D M I N E R A L S
 
 答案：大多数矿物是无机的，这意味着它们不是来源于生物。白垩我们所称的“白垩”起源于恐龙生活在地球上的那个时代。那时海洋不断上升，最终覆盖了地球上大部分陆地。那些海洋中生活着数十亿微小的动物。它们非常小，你无法看见——甚至比句子末尾的句点还要小。这些微小生物拥有由元素钙构成的壳。当这些动物死亡时，它们的壳沉到海底。经过数千年，海底积累了多层贝壳。随着越来越多的贝壳从上方挤压下来，底部的贝壳变得更硬并开始粘在一起。最终这些贝壳变成了一种名为“方解石”的矿物，即被称为“石灰岩”的岩石的主要成分。第一块白垩形成后数百万年过去了。地球表面改变了形状，陆地和海洋形成了新的海岸线。这使得许多白垩层留在陆地上，既在大陆内部也沿海岸线分布。在英格兰的一些地区，有高达800英尺的白垩悬崖。这些就是著名的多佛白垩崖，它们几乎全由白垩构成！如果你从那些悬崖上拿一块白垩，你可以用它在黑板上写字。但你如今在教室里使用的白垩，并不是从悬崖或地下挖出来的一块。它是在工厂里通过混合多种其他材料制成的。了解更多！阅读这些文章……
 
@@ -1616,7 +1616,7 @@ They must be cut and shaped to be used in jewelry.
 
 And diamonds are so hard that nothing can cut them except another diamond.
 
-# Using diamond-edged tools
+Using diamond-edged tools
 
 the diamond cutter carefully shapes and polishes the diamond so that it has straight edges and smooth surfaces.
 
@@ -1630,7 +1630,7 @@ Red, blue
 
 and green diamonds are difficult to find.
 
-# Yellow
+Yellow
 
 orange
 
@@ -1640,7 +1640,7 @@ Sometimes people even find black diamonds.
 
 Only the clearest diamonds become glittering gems.
 
-# But because of their hardness
+But because of their hardness
 
 even dull-looking diamonds are still valuable as cutting tools.
 
@@ -1654,7 +1654,7 @@ Raw diamonds look like chunks of glass when they’re first found.
 
 Deep under the Earth’s surface it’s so hot that even rock melts.
 
-# Sometimes this molten rock
+Sometimes this molten rock
 
 called “magma
 
@@ -1668,7 +1668,7 @@ or vent
 
 that lets the lava out is a volcano.
 
-# A volcano may explode violently
+A volcano may explode violently
 
 throwing rocks for miles.
 
@@ -1718,7 +1718,7 @@ That steam can also be used to produce electricity.
 
 Also, plants grow very well in the rich soil left by volcanoes.
 
-# And valuable gems
+And valuable gems
 
 such as diamonds
 
@@ -1728,7 +1728,7 @@ Should you like to see something that lived millions of years ago?
 
 You can if you find a fossil.
 
-# The remains or traces of plants
+The remains or traces of plants
 
 animals
 
@@ -1750,13 +1750,13 @@ for example
 
 looks like the tracing of a fern leaf.
 
-# Usually
+Usually
 
 the harder portions of an organism are what last long enough to become fossils.
 
 Sometimes the hard structures are preserved almost whole.
 
-# For instance
+For instance
 
 entire fossilized dinosaur bones have been petrified
 
@@ -1772,7 +1772,7 @@ You can tell the fossils in the big photo used to be fish.
 
 After they died—millions of years ago—they sank to the riverbed and became covered with soft mud.
 
-# Their flesh wasted away
+Their flesh wasted away
 
 but their bones were held together by the mud.
 
@@ -1782,11 +1782,11 @@ It was filled with dust and dirt blown by the winds.
 
 The bones of the fish stayed where they were.
 
-# Slowly
+Slowly
 
 the mud of the riverbed turned to stone.
 
-# Finally
+Finally
 
 somebody found this fossil while digging where the river once was.
 
@@ -1814,7 +1814,7 @@ long ago.
 
 Many of the dinosaurs were the largest and scariest creatures that ever walked on land.
 
-# All of them
+All of them
 
 large and small
 
@@ -1826,7 +1826,7 @@ snakes
 
 and lizards.
 
-# You may be familiar with the brontosaur
+You may be familiar with the brontosaur
 
 or “thunder lizard.
 
@@ -1840,13 +1840,13 @@ The apatosaur was still pretty impressive
 
 it was as much as 70 feet long.
 
-# No matter what you call it
+No matter what you call it
 
 this creature certainly must have sounded like thunder when it walked.
 
 The apatosaur was a plant-eating dinosaur.
 
-# Others
+Others
 
 including the tyrannosaur
 
@@ -1876,7 +1876,7 @@ LEARN MORE!
 
 READ THESE ARTICLES… DINOSAURS
 
-# A MYSTERY DI
+A MYSTERY DI
 
 恐龙化石科学家们对化石中混合信息的困惑。腕龙的名字意味着“不诚实的蜥蜴”，指的是这种野兽抢劫邻居的习惯。哪项原因不被认为是恐龙消失的原因？a) 小行星撞击地球
 
@@ -1906,11 +1906,11 @@ b) elephants.
 
 c) dinosaurs.
 
-# Believe it or not
+Believe it or not
 
 thousands of years ago some elephants wore heavy fur coats.
 
-# Actually
+Actually
 
 the mammoth was an ancestor of the modern elephant.
 
@@ -1930,7 +1930,7 @@ about 10
 
 000 years ago.
 
-# Mastodons and mammoths were a lot alike
+Mastodons and mammoths were a lot alike
 
 but the mastodons were on the planet first.
 
@@ -1946,11 +1946,11 @@ Mammoths were the size of modern elephants.
 
 The woolly mammoth had a thick furry yellowish brown undercoat with longer bristly hair over it.
 
-# Like the mastodon
+Like the mastodon
 
 the mammoth had small ears and very long tusks.
 
-# Despite these dangerous tusks
+Despite these dangerous tusks
 
 both animals ate only grass and other plants.
 
@@ -1998,7 +1998,7 @@ He did this by putting pollen from the flowers of one type of plant onto the sti
 
 Getting the new plants he wanted was not easy.
 
-# The white blackberry took Burbank 65
+The white blackberry took Burbank 65
 
 000 tries to get right.
 
@@ -2018,11 +2018,11 @@ Do you like french fries?
 
 Then thank Mr. Burbank.
 
-# He invented the Idaho potato
+He invented the Idaho potato
 
 a favorite source of fries.
 
-# M A R I E C U R I E
+M A R I E C U R I E
 
 The French scientist Marie Curie became the first woman to win the Nobel Prize
 
@@ -2040,7 +2040,7 @@ the great French university.
 
 She was one of the best students there.
 
-# She worked very hard
+She worked very hard
 
 often late into the night
 
@@ -2052,11 +2052,11 @@ and tea day after day.
 
 Marie married Pierre Curie after completing her science course.
 
-# Pierre was also a scientist
+Pierre was also a scientist
 
 and the two worked together.
 
-# Another scientist
+Another scientist
 
 named Henri Becquerel
 
@@ -2080,7 +2080,7 @@ A major form of power generation based on nuclear energy has been developed
 
 a process involving radioactivity.
 
-# And in geology
+And in geology
 
 radioactivity is used to determine the age of ancient rocks.
 
@@ -2088,13 +2088,13 @@ Marie’s entire life was spent working for science.
 
 She fell ill and eventually died because of working so closely with radioactive materials.
 
-# She knew about this risk
+She knew about this risk
 
 but she felt her work was too important to stop.
 
 Marie Curie was awarded the Nobel Prize in 1903 for her work on radioactivity and in 1911 for discovering radium.
 
-# C H A R L E S D A R W I N
+C H A R L E S D A R W I N
 
 All cultures tell a story about how life came to be on Earth.
 
@@ -2104,7 +2104,7 @@ But what does science tell us?
 
 A scientist named Charles Darwin came up with a very different idea about how humans and other creatures came to be.
 
-# In 1831
+In 1831
 
 at age 22
 
@@ -2114,9 +2114,9 @@ He sailed to the coast of South America and to some Pacific islands
 
 such as the Galapagos.
 
-# On the trip
+On the trip
 
-# Darwin studied many species
+Darwin studied many species
 
 or groups
 
@@ -2128,7 +2128,7 @@ The fossils showed that plants and animals living on Earth long ago were differe
 
 Darwin wondered why these old species had disappeared and the new species had developed.
 
-# After much thought
+After much thought
 
 here’s what Darwin decided
 
@@ -2136,7 +2136,7 @@ Living things must work hard for food and shelter
 
 so only those that do this best will survive.
 
-# Small individual strengths
+Small individual strengths
 
 such as being bigger or faster
 
@@ -2154,7 +2154,7 @@ He also believed that over time the same species living in different surrounding
 
 Darwin published his theory in his books On the Origin of Species and The Descent of Man.
 
-# He proposed that all living things
+He proposed that all living things
 
 including humans
 
@@ -2164,7 +2164,7 @@ Many people do not accept Darwin’s theory.
 
 But it remains the most widely accepted scientific theory.
 
-# G L O S S A R Y
+G L O S S A R Y
 
 absorb soak up fossil an imprint or other trace in rock particle tiny bit or piece of an animal
 
@@ -2324,7 +2324,7 @@ apatosaurs
 
 also called brontosaurs (dinosaurs)
 
-# LEARN MORE look under paleontology
+LEARN MORE look under paleontology
 
 cross-pollination
 
@@ -2356,11 +2356,11 @@ brontosaurs (dinosaurs)
 
 look under apatosaurs
 
-# LEARN MORE look under clouds
+LEARN MORE look under clouds
 
 Burbank, Luther (American plant breeder)
 
-# LEARN MORE look under plants
+LEARN MORE look under plants
 
 calcite (mineral)
 
@@ -2372,7 +2372,7 @@ Did you know?
 
 carbon (chemical element)
 
-# LEARN MORE look under waves
+LEARN MORE look under waves
 
 carbon dioxide (chemical compound)
 
@@ -2382,11 +2382,11 @@ chalk (rock)
 
 chlorophyll
 
-# LEARN MORE look under photosynthesis
+LEARN MORE look under photosynthesis
 
 cirrus clouds
 
-# LEARN MORE look under clouds
+LEARN MORE look under clouds
 
 clouds
 
@@ -2394,7 +2394,7 @@ cold: look under temperatures
 
 evolution (scientific theory)
 
-# Charles Darwin
+Charles Darwin
 
 LEARN MORE look under dinosaurs; fossils
 
@@ -2440,7 +2440,7 @@ stratus clouds
 
 clouds page20
 
-# LEARN MORE look under plants
+LEARN MORE look under plants
 
 life survival of the fittest (biology)
 
@@ -2482,7 +2482,7 @@ leaves page15
 
 rocks and minerals page36
 
-# Luther Burbank page56 thunderheads
+Luther Burbank page56 thunderheads
 
 look under cumulonimbus clouds
 
@@ -2492,7 +2492,7 @@ solids
 
 and gases (states of matter) page8
 
-# LEARN MORE look under atoms
+LEARN MORE look under atoms
 
 magma (molten rock)
 
@@ -2540,7 +2540,7 @@ look under cyclones
 
 rain (weather) clouds page20
 
-# Marie Curie page59
+Marie Curie page59
 
 rainbows (weather) page23
 
@@ -2554,7 +2554,7 @@ rocks and minerals page36 Did you know?
 
 page34
 
-# LEARN MORE look under fossils
+LEARN MORE look under fossils
 
 volcanoes page45
 
@@ -2580,7 +2580,7 @@ photograph page37 LEARN MORE look under echoes
 
 tsunamis
 
-# Charles Darwin page61
+Charles Darwin page61
 
 sediment (geology)
 
@@ -2612,7 +2612,7 @@ nuclear energy solids (state of matter)
 
 look under
 
-# Marie Curie page59 liquids
+Marie Curie page59 liquids
 
 solids
 

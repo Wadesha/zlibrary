@@ -86,11 +86,11 @@ Seaborn库。此外，系列丛书封面设计致敬梵高《鸢尾花》要是�
 
 用来展示数学动画数据分析、机器学习算法。Streamlit是个开源的Python库能够方便快捷搭建部署交互型网页App。Streamlit非常简单易用、很受欢迎。Streamlit兼容目前主流的Python数据分析库比如NumPy
 
-# Pandas
+Pandas
 
-# Scikit-learn
+Scikit-learn
 
-# PyTorch
+PyTorch
 
 TensorFlow等等。Streamlit还支持Plotly、Bokeh、Altair等交互可视化库。本书中很多App设计都采用 Streamlit + Plotly方案。此外，本书专门配套教学视频手把手和大家一起做App。大家可以参考如下页面更多了解Streamlit
 
@@ -114,9 +114,9 @@ com 运行Jupyter无需IDE，只需要浏览器。Jupyter容易分块执行代�
 
 要么inline打印数据要么将数据写到csv或Excel文件中再打开。图像结果不具有交互性比如不能查看某个点的值或者旋转3D图形可以考虑安装 (jupyter-matplotlib)。注意，利用Altair或Plotly绘制的图像支持交互功能。对于自定义函数，目前没有快捷键直接跳转到其定义。但是，很多开发者针对这些问题都开发了插件，请大家留意。大家可以下载安装Anaconda
 
-# JupyterLab
+JupyterLab
 
-# Spyder
+Spyder
 
 PyCharm等常用工具都集成在Anaconda中。anaconda.
 
@@ -180,7 +180,7 @@ com 第5章讲解Python常用数据类型，比如数字、字符串、列表、
 
 主要介绍Matplotlib
 
-# Plotly
+Plotly
 
 Seaborn这三个库中最常用的几种可视化函数。第10章首先介绍了一幅图的重要组成元素并讲解如何用Matplotlib和Plotly绘制线图。第11章介绍几种最常用的二维和三维可视化方案比如散点图、等高线图热图、网格面等等。大家如果对可视化特别感兴趣的话，也可以平行学习《可视之美》。第12章主要介绍如何用Seaborn完成样本数据统计描述这章讲解的可视化方案包括直方图小提琴图、箱型图散点图概率密度分布等等。数据这个板块主要介绍NumPy，一共有6章，占全书1/6。NumPy是一个用于科学计算和数据分析的Python库。它提供了高效的多维数组对象以及用于对这些数组执行各种数学逻辑、统计操作的函数。在机器学习中
 
@@ -262,13 +262,13 @@ Python具有广泛的用途比如：► 机器学习
 
 Python在数据科学和机器学习领域非常受欢迎因为它有很多强大的库和工具如NumPy
 
-# Pandas
+Pandas
 
 Scikit-learn等。► 深度学习
 
 Python的深度学习工具比如PyTorch
 
-# TensorFlow
+TensorFlow
 
 常用来开发各种人工智能应用比如智能设备无人驾驶、自然语言处理工具等。Page 3 | Chapter 1聊聊“巨蟒” | Book 1《编程不难》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。com/Visualize-ML 本书配套微课视频均发布在B站——生姜DrGinger
 
@@ -298,7 +298,7 @@ MacOS、Linux等因此Python具有很好的跨平台性。图2所示为本书涉
 
 是由一组模块和包组成的软件组件提供了一系列函数类、变量和常量等用于解决特定问题。Python标准库是Python官方提供的一组库包含了大量的模块和功能可以直接使用。此外，还有第三方库如NumPy
 
-# Pandas
+Pandas
 
 Matplotlib等用于数据处理科学计算、可视化等领域。需要注意的是，模块是最小的可重用代码单元，而包和库是由多个模块组成的更大的结构。在Python中，通常使用import语句来引入需要使用的包、库或模块。Page 4 | Chapter 1聊聊“巨蟒” | Book 1《编程不难》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。com/Visualize-ML 本书配套微课视频均发布在B站——生姜DrGinger
 
@@ -352,11 +352,11 @@ com ► 数据可视化
 
 Python中有许多数据可视化的库例如Matplotlib
 
-# Seaborn
+Seaborn
 
 Plotly等可以帮助用户将数据可视化呈现出来从而更好地理解数据的分布趋势等信息。本书的绘图部分将蜻蜓点水地讲解Matplotlib
 
-# Seaborn
+Seaborn
 
 Plotly常用绘图命令。“鸢尾花书”的《可视之美》一册将专门讲解数据可视化这一话题。► 图像处理
 
@@ -378,7 +378,7 @@ SciPy等可以帮助用户进行矩阵运算微积分、最优化统计分析等
 
 Python中有很多用于数据分析的库和工具例如Pandas
 
-# Matplotlib
+Matplotlib
 
 Seaborn等可以帮助用户对数据进行统计分析可视化呈现等。► 数学建模
 
@@ -446,7 +446,7 @@ Mac 和Linux Anaconda Anaconda可谓“科学计算全家桶”
 
 包含科学计算领域可能用到的大部分 Python工具包括 Python 解释器常用的第三方库包管理器、IDE 等。前文提到的JupyterLab
 
-# Spyder
+Spyder
 
 PyCharm这三个IDE都在Anaconda中。什么是Anaconda？Anaconda是一个流行的Python发行版，由Anaconda, Inc.
 
@@ -454,17 +454,17 @@ PyCharm这三个IDE都在Anaconda中。什么是Anaconda？Anaconda是一个流�
 
 SciPy、Pandas
 
-# Matplotlib
+Matplotlib
 
-# Scikit-learn
+Scikit-learn
 
 Jupyter Notebook等。它还包括一个名为conda的软件包管理器可以帮助用户安装更新和管理Python库和依赖项。Anaconda还提供了一个名为Anaconda Navigator的图形用户界面用户可以通过这个界面轻松地管理他们的Python环境安装和卸载库启动Jupyter Notebook等操作。除了Python环境和库之外
 
 Anaconda还包括许多其他工具和应用程序如Spyder
 
-# PyCharm
+PyCharm
 
-# VS Code
+VS Code
 
 R语言环境等等使得它成为数据科学家和研究人员的首选工具之一。Anaconda 可以安装在多个平台上包括 Windows
 
@@ -486,7 +486,7 @@ io/zh_CN/latest/install.
 
 html 注意，Anaconda安装后大概占用5G空间。有Python开发经验的读者可以根据需求自行分别安装JupyterLab
 
-# Spyder
+Spyder
 
 PyCharm。在Windows上安装Anaconda可以按照以下步骤进行：a) 下载。anaconda.
 
@@ -1620,7 +1620,7 @@ x == 0结果为True
 
 elif x == 0
 
-# FalseFalseTrueprint Trueprint Start
+FalseFalseTrueprint Trueprint Start
 
 End 图6.
 
@@ -1692,7 +1692,7 @@ visualize.
 
 com Loop ends?
 
-# FalseTrueprint Start
+FalseTrueprint Start
 
 End 图10.
 
@@ -1814,17 +1814,17 @@ visualize.
 
 com Python中有很多常用的包包括数据处理和可视化机器学习和深度学习网络编程、Web开发等。其中，常用的可视化包包括Matplotlib
 
-# Seaborn
+Seaborn
 
 Plotly等机器学习常用的包包括NumPy
 
-# Pandas
+Pandas
 
-# Statsmodels
+Statsmodels
 
-# Scikit-learn
+Scikit-learn
 
-# TensorFlow
+TensorFlow
 
 Streamlit等。Matplotlib是Python中最流行的绘图库之一可用于创建各种类型的静态图形如线图、散点图柱状图、等高线图等。Seaborn是基于Matplotlib的高级绘图库提供了更美观更丰富的图形元素和绘图样式。Plotly是一款交互式绘图库可用于创建各种类型的交互式图形如散点图、热力图面积图、气泡图等支持数据可视化的各个方面包括统计学可视化科学可视化、金融可视化等。NumPy是Python中常用的数值计算库提供了数组对象和各种数学函数用于高效地进行数值计算和科学计算。Pandas是Python中常用的数据处理库提供了高效的数据结构和数据分析工具可用于数据清洗数据处理和数据可视化。Scikit-learn是Python中常用的机器学习库提供了各种常见的机器学习算法和模型包括分类、回归聚类、降维等。TensorFlow是谷歌开发的机器学习框架提供了各种深度学习模型和算法可用于构建神经网络卷积神经网络循环神经网络等深度学习模型。Streamlit可以通过简单的Python脚本快速构建交互式数据分析机器学习应用程序。本书前文介绍过如何安装更新、删除某个具体包下面我们聊一聊如何在Python中导入包。导入包下面以NumPy为例介绍几种常用的导入包的方式。第一种，直接导入整个NumPy包
 
@@ -2382,7 +2382,7 @@ discard("orange") 集合的好处是可以用交集并集、差集等集合操�
 
 4, 5, 6} set3 = set1 & set2 # 交集 set4 = set1 | set2 # 并集 set5 = set1 - set2 # 差集 ABAB
 
-# ABAB
+ABAB
 
 ABAB− 图18.
 
@@ -2442,7 +2442,7 @@ D是矩阵列数 (number of columns in the matrix)。矩阵X的行索引就是1�
 
 x1,1代表矩阵第1行、第1列元素，xi,j代表矩阵第i行、第j列元素。n × Dn rowsD columnsFirst row
 
-# First columnith rowjth columnxi
+First columnith rowjth columnxi
 
 j1,1 1
 
@@ -4634,7 +4634,7 @@ com 9.
 
 OOP) 是一种编程范式它将数据和操作数据的方法组合在一起形成一个对象。在面向对象编程中一个对象拥有一组属性 (用来描述对象的特征) 和方法 (用来设定对象的行为)。对象可以与其他对象互动，实现特定的功能。面向对象编程强调封装、继承和多态等概念，使程序更易于维护和扩展。在 Python 中一切皆为对象可以通过 class 关键字来定义一个类类中可以包含属性和方法然后通过实例化对象来使用类中的属性和方法。打个比方，OOP中的类 (class) 就好比图1中的成套餐具，相当一种模板。盘子好比属性 (attribute)，用来装各种食物 (数据)；刀叉好比方法 (method)，用来用餐 (操作)。而实例 (instance) 则相当于一个个具体的套餐盘中餐可以是凉菜炒饭、炒面等等。AttributesMethod (knife)Method (fork)
 
-# InstancesClass
+InstancesClass
 
 图1.
 
@@ -5160,13 +5160,13 @@ com 9.
 
 5父类、子类在面向对象编程中父类 (parent class) 和子类 (child class) 之间是一种继承关系。父类，也称基类、超类，在继承关系中层次更高；子类，也称派生类，可以继承父类的属性和方法，从而实现代码的重用和扩展。子类可以有多个，并且一个子类也可以再被其他类继承，形成继承的层级结构。简单来说，父类提供了一个通用模板。如图8所示，盘子 + 刀叉，这个组合就相当于父类。而午餐、晚餐一方面继承了“盘子 + 刀叉”，并在此基础上进行了扩展和订制。午餐的餐具组合为：父类 (盘子 + 刀叉) + 碗；晚餐的餐具组合为：父类 (盘子 + 刀叉) + 酒杯。AttributesMethod (knife)Method (fork)Parent class
 
-# Child classChild class
+Child classChild class
 
 图8.
 
 面向对象编程中父类、子类关系图9代码演示了如何定义父类 Animal 和子类 Chicken
 
-# Rabbit
+Rabbit
 
 Pig。首先，a 定义了一个 Animal 父类。e定义了Animal的两个属性——名字、年龄；Animal有两个方法——吃饭f、睡觉g。b c d分别定义了三个子类 Chicken、Rabbit、Pig。它们分别继承了父类 Animal 的属性和方法，并且分别定义了自己的属性和方法。当一个类继承自另一个类时，子类可以通过super .
 
@@ -5430,9 +5430,9 @@ com ► 刻度 (Tick)：刻度标记，表示坐标轴上的数据值。► 标�
 
 在Matplotlib中所有绘图元素都被视为艺术家对象包括图像区域子图区域、坐标轴刻度、标签、图例等等。可视化工具图1这幅图是用Matplotlib库绘制。Matplotlib是Python中最基础的绘图工具。鸢尾花书中最常用的绘图库包括
 
-# Matplotlib
+Matplotlib
 
-# Seaborn
+Seaborn
 
 Plotly。Matplotlib可能是Python中最常用的绘图库
 
@@ -5446,7 +5446,7 @@ Streamlit则倾向于采用Plotly。本书第六大板块“数据”会介绍Pa
 
 Seaborn的统计描述可视化方案。2使用Matplotlib绘制线图下面我们聊一下如何用Matplotlib可视化正弦余弦函数，图2所示代码生成图3。下面我们逐块讲解这段代码；此外，请大家在JupyterLab中复刻这段代码，并绘制图3。大家会在鸢尾花书中发现我们用Python代码生成的图像和书中的图像很多细节上并不一致。产生这种偏差的原因有很多。首先，为了保证矢量图像质量及可编辑性每幅Python代码生成的图形都会经过多道后期处理。后期处理的工具包括 (但不限于) Inkscape
 
-# MS Visio
+MS Visio
 
 Adobe Illustrator。使用怎样的工具要根据图片类型、图片大小等因素考虑。也就是说哪怕图2这种简单的线图中的所有“艺术家 (artist)”
 
@@ -5930,7 +5930,7 @@ colormap主要用于绘制二维图形如热图、散点图等高线图等。它
 
 viridisplasmacividis(a) 均匀(b) 单色渐变
 
-# GreysBluesReds
+GreysBluesReds
 
 (c) 双色渐变GnBuOrRdBuPu
 
@@ -7750,7 +7750,7 @@ visualize.
 
 ml@gmail.
 
-# Petal length
+Petal length
 
 图23.
 
@@ -8180,7 +8180,7 @@ com 图31.
 
 用Matplotlib和Plotly可视化三维等高线代码请大家完成下面3道题目。分别用Matplotlib
 
-# Seaborn
+Seaborn
 
 Plotly绘制鸢尾花数据集花瓣长度、宽度散点图并适当美化图像。分别用Matplotlib和Plotly绘制如下二元函数等高线图并用语言描述图像特点 (等高线形状疏密分布、增减最大值、最小值等等)。12 112 212 1 212 1 22212 1 22212 1 22212 1 2 1 22212 1 2212 112 1 22212 1 2 1 2
 
@@ -9240,11 +9240,11 @@ ml@gmail.
 
 com Sepal length (cm)Sepal width (cm)Petal length (cm)Petal width (cm)Sepal length (cm)Sepal width (cm)Petal length (cm)Petal width (cm)Species0
 
-# Setosa1
+Setosa1
 
-# Versicolor2
+Versicolor2
 
-# Virginica
+Virginica
 
 图44.
 
@@ -12962,7 +12962,7 @@ Pandas基础知识需要学习Pandas的数据结构包括Series和DataFrame
 
 掌握如何创建读取、修改、删除索引和切片等操作以及如何处理缺失值和重复值等数据清洗技巧。数据操作：Pandas提供了丰富的数据操作函数例如数据筛选排序、合并、聚合透视等等。需要学习这些函数的用法和应用场景，以便在数据分析和处理中灵活运用。数据可视化：Pandas本身具备一些基本可视化工具；同时Pandas可以与Matplotlib
 
-# Seaborn
+Seaborn
 
 Plotly等库结合使用进行数据可视化大家需要学习如何使用这些库进行可视化和图表绘制。时间序列：Pandas中的时间序列是一种强大的数据结构用于处理时间相关的数据它能够轻松地对时间索引的数据进行清理切片、聚合和频率转换等操作。同时，配合Statsmodels等Python库可以进一步完成时间序列分析建模模拟、机器学习等。2创建数据帧从字典、列表
 
@@ -13790,7 +13790,7 @@ com 20 Indexing and Slicing Pandas DataFrame
 
 Pandas 索引和切片利用DataFrame 的行列标签、整数索引生命就是一个实验。实验做的越多，越好。All life is an experiment.
 
-# The more experiments you make
+The more experiments you make
 
 the better.
 
@@ -16132,21 +16132,21 @@ DataFram e.
 
 nunique 计算DataFrame 中每列中的唯一值数量
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4Covariance matrix0.
 
@@ -16176,21 +16176,21 @@ X4Covariance matrix0.
 
 522.
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4Correlation matrix1 0.
 
@@ -16286,35 +16286,35 @@ corr abcde 图4.
 
 鸢尾花数据帧groupby(['species']) 计算统计量 Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4'species' == 'setosa''species' == 'versicolor''species' == 'virginica'0.
 
@@ -16418,35 +16418,35 @@ ml@gmail.
 
 com Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X410.
 
@@ -16922,9 +16922,9 @@ ml@gmail.
 
 com ► 时间序列的切片和索引：可以使用时间序列的标签或位置进行切片和索引。► 时间序列的重采样可以将时间序列转换为不同的时间间隔例如将日频率的数据转换为月频率的数据。► 移动窗口函数可以对时间序列数据进行滑动窗口操作计算滑动窗口内的统计指标例如均值、方差等。► 时间序列的分组操作可以将时间序列数据按照时间维度进行分组从而进行聚合操作例如计算每月的平均值最大值等。► 时间序列的聚合操作可以对时间序列数据进行聚合操作例如计算每周每月、每季度的总和平均值等。► 时间序列的可视化可以使用 Pandas
 
-# Matplotlib
+Matplotlib
 
-# Seaborn
+Seaborn
 
 Plotly等库对时间序列数据进行可视化例如绘制线形图散点图、直方图等。2缺失值缺失值 (missing value) 指的是数据集中的某些值缺失或未被记录的情况。它们可能是由于测量设备故障、记录错误、样本丢失或数据清洗不完整等原因导致的。缺失值可能在数据分析和建模中产生严重的影响因为它们会导致数据样本的大小不一致使得数据的统计分布和关系不准确或无法得出。另外，许多机器学习算法无法处理缺失值，必须对其进行处理或者删除。图2.
 
@@ -17398,7 +17398,7 @@ sympify(2).
 
 is_real True
 
-# True from sympy import Rational
+True from sympy import Rational
 
 Rational (1
 
@@ -17490,7 +17490,7 @@ Interval (0
 
 right_open =True)
 
-# Interval.
+Interval.
 
 Ropen(0
 
@@ -17502,7 +17502,7 @@ Interval (0
 
 right_open =False)
 
-# Interval.
+Interval.
 
 Lopen(0
 
@@ -18340,7 +18340,7 @@ xy
 
 (2,0)(8,8)
 
-# Euclidean distance
+Euclidean distance
 
 图1.
 
@@ -18562,11 +18562,11 @@ Normalize 函数将数据规范化到 [0
 
 1] 区间，然后再将规范化后的数据传递给颜色映射对象来获取对应的颜色。《可视之美》还会进一步介绍非线性映射，以及如何构造颜色映射。# BuYlRd
 
-# BuYlRd
+BuYlRd
 
 0Color mappingColor mapping
 
-# MinMaxNormalize
+MinMaxNormalize
 
 图5.
 
@@ -19014,7 +19014,7 @@ com (a) ρ = 0.
 
 9PDFPDFPDF
 
-# PDFPDFPDF
+PDFPDFPDF
 
 PDFPDFPDF(b) ρ = 0.
 
@@ -19536,17 +19536,17 @@ visualize.
 
 ml@gmail.
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal width
+X4Sepal width
 
-# X2Petal length
+X2Petal length
 
 X3 0.
 
@@ -19576,17 +19576,17 @@ X3 0.
 
 平面散点图 + 椭圆，鸢尾花数据集
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal width
+X4Sepal width
 
-# X2Petal length
+X2Petal length
 
 X3ρ = 0.
 
@@ -19646,17 +19646,17 @@ com 'species' == 'versicolor'0.
 
 79X1X2X3X2X3X4
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal width
+X4Sepal width
 
-# X2Petal length
+X2Petal length
 
 X3ρ = 0.
 
@@ -19676,17 +19676,17 @@ X3ρ = 0.
 
 'species' == 'versicolor'
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal width
+X4Sepal width
 
-# X2Petal length
+X2Petal length
 
 X3ρ = 0.
 
@@ -19936,7 +19936,7 @@ R-squared: 0.
 
 649Method
 
-# Least Squares F-statistic
+Least Squares F-statistic
 
 59Date
 
@@ -19944,7 +19944,7 @@ XXXXXXXXXXXXXXXX Prob (F-statistic)
 
 05e-12Time
 
-# XXXXXXXX Log-Likelihood
+XXXXXXXX Log-Likelihood
 
 -67.
 
@@ -20026,9 +20026,9 @@ com 27.
 
 PCA) 是数据降维的重要方法之一。简单来说，通过线性变换主成分分析将原始多维数据投影到一个新的正交坐标系将原始数据中的最大方差成分提取出来。举个例子，主成分分析实际上寻找数据在主元空间内投影。图9所示杯子它是一个3D物体在一张图展示杯子而且尽可能多地展示杯子细节就需要从空间多个角度观察杯子并找到合适角度。这个过程实际上是将三维数据投影到二维平面过程。这也是一个降维过程，即从三维变成二维。图10展示杯子六个平面上投影结果。# H1H2
 
-# H3H4
+H3H4
 
-# H5H6
+H5H6
 
 图9.
 
@@ -20050,9 +20050,9 @@ ml@gmail.
 
 com H1
 
-# H2H3H4
+H2H3H4
 
-# H5H6
+H5H6
 
 图10.
 
@@ -20510,7 +20510,7 @@ com 0.
 
 5 yr1 yr2 yr5 yr7 yr10 yr20 yr30 yrPC1PC2PC3Raw dataPrincipal component scores
 
-# CorrelationCorrelationPCA
+CorrelationCorrelationPCA
 
 图20.
 
@@ -21350,7 +21350,7 @@ ML) 是人工智能 (Artificial Intelligence
 
 AI) 的一个子领域是通过计算机算法自动地从数据中学习规律并用所学到的规律对新数据进行预测或者分类的过程。本书这个板块将会着重介绍Python中Scikit-Learn这个机器学习工具。深度学习是一种机器学习的子领域它是通过建立多层神经网络模型自动地从原始数据中学习到更高级别的特征和表示从而实现对复杂模式的建模和预测。Python中常用的深度学习工具有TensorFlow
 
-# PyTorch
+PyTorch
 
 Keras等这些工具不在本书讨论范围内。自然语言处理 (Natural Language Processing
 
@@ -21416,17 +21416,17 @@ ml@gmail.
 
 com 机器学习流程图5所示为机器学习的一般流程。Input dataBlack boxReal worldOriginal dataProcessed data
 
-# Training setCollect dataProcess data
+Training setCollect dataProcess data
 
-# Validation setMachine learningLearning
+Validation setMachine learningLearning
 
-# Evaluation
+Evaluation
 
-# Trained modelYes
+Trained modelYes
 
 deployValidateFeature extractionFeature selection
 
-# MonitorPredictTest setModel selection
+MonitorPredictTest setModel selection
 
 Pass?
 
@@ -21452,11 +21452,11 @@ ml@gmail.
 
 com ◄ 测试模型：使用测试集评估模型的性能，并进行模型的调整和改进。◄ 应用模型：将模型应用到新数据中进行预测或分类等任务。◄ 模型监控：监控模型在实际应用中的性能，并进行调整和改进。以上是机器学习的一般分步流程，不同的任务和应用场景可能会有一些变化和调整。在实际应用中还需要考虑数据的质量模型的可解释性模型的复杂度和可扩展性等问题。2有标签数据无标签数据根据输出值有无标签如图6所示数据可以分为有标签数据 (labelled data) 和无标签数据 (unlabelled data)。鸢尾花数据显然是有标签数据。删去鸢尾花最后一列标签，我们便得到无标签数据。有标签数据和无标签数据是机器学习中常见的两种数据类型它们在不同的应用场景中有不同的用途。简单来说，有标签数据对应有监督学习，无标签数据对应无监督学习。Input variables or featuresUnobservedUnsupervised learning
 
-# NaNUnlabeledXy
+NaNUnlabeledXy
 
 Input variables or featuresResponse variableSupervised learning
 
-# LabeledXy
+LabeledXy
 
 Input variables or featuresMixedSemi-supervised learning
 
@@ -21628,7 +21628,7 @@ the search for knowledge
 
 and unbearable pity for the suffering of mankind.
 
-# These passions
+These passions
 
 like great winds
 
@@ -22282,11 +22282,11 @@ Sepal lengthSepal widthPetal lengthPetal widthSpecies150 data points 图6.
 
 Sepal length (cm)Sepal width (cm)Petal length (cm)Petal width (cm)Sepal length (cm)Sepal width (cm)Petal length (cm)Petal width (cm)Species0
 
-# Setosa1
+Setosa1
 
-# Versicolor2
+Versicolor2
 
-# Virginica
+Virginica
 
 图7.
 
@@ -22704,7 +22704,7 @@ com 29.
 
 6训练集 vs 测试集在机器学习中训练集和测试集是用于训练和评估模型性能的两个关键数据集。Scikit-Learn库提供了工具和函数来处理和划分这些数据集。# Random selectFeatures
 
-# XTarget
+XTarget
 
 y Xy SplitTraining set
 
@@ -22748,35 +22748,35 @@ c_[X_test
 
 y_test] 转化为测试集Pandas DataFrame。# Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal width
+X2Petal width
 
-# X4Petal length
+X4Petal length
 
 Species, Y
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal width
+X2Petal width
 
-# X4Petal length
+X4Petal length
 
-# Species
+Species
 
-# YSepal length
+YSepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal width
+X2Petal width
 
-# X4Petal length
+X4Petal length
 
 Species, YSplitTraining set
 
-# Test set
+Test set
 
 图13.
 
@@ -22904,7 +22904,7 @@ com 30 Regression Methods in Scikit -Learn
 
 Scikit -Learn 回归一元线性回归二元线性回归多项式回归想象力比知识更重要因为知识是有限的而想象力概括世界上的一切推动着进步，并且是知识进化的源泉。Imagination is more important than knowledge.
 
-# For knowledge is limited
+For knowledge is limited
 
 whereas imagination embraces the entire world
 
@@ -23728,7 +23728,7 @@ ml@gmail.
 
 com v1v2v1v2
 
-# Rotatee1e2
+Rotatee1e2
 
 [e1, e2][v1, v2]e1e2
 
@@ -23736,11 +23736,11 @@ com v1v2v1v2
 
 坐标系旋转
 
-# ABCDEF
+ABCDEF
 
 G
 
-# HIJKLMNOP
+HIJKLMNOP
 
 图7.
 
@@ -24522,7 +24522,7 @@ k = 4Neighborhood
 
 k = 8
 
-# Neighborhood
+Neighborhood
 
 k = 12Neighborhood
 
@@ -24928,9 +24928,9 @@ com 采用核技巧，将图14二维数据，投射到三维核曲面上；很�
 
 Kernel surface Class 1, C1 Class 2, C2
 
-# Decision hyperplane Original data
+Decision hyperplane Original data
 
-# Mapped to kernel surface
+Mapped to kernel surface
 
 图14.
 
@@ -25076,7 +25076,7 @@ a) Calculate distances
 
 b) Assign clustersc) Update means
 
-# IterationsConvergence
+IterationsConvergence
 
 图3.
 
@@ -25272,9 +25272,9 @@ GMM) 将样本分为多个高斯分布每个高斯分布对应一个簇。与K�
 
 GMM 不仅能够将数据点分配到不同的簇还可以为每个簇分配一个概率值表明数据点属于该簇的可能性。如图6所示，多元高斯分布中，协方差矩阵决定高斯分布的形状。# Identity matrix
 
-# Equal diagonal entries
+Equal diagonal entries
 
-# Unequal diagonal entries
+Unequal diagonal entries
 
 Non-diagonal matrixCovariance matrix1111Diagonal matrix
 
@@ -25834,7 +25834,7 @@ Django和Flask等可以帮助开发人员更轻松地进行Web开发数据科学
 
 Spyder默认界面工具栏 (1) 里包含了众多代码调试工具。代码的编写和修改则显示在Python代码编辑器交互界面用于显示代码的运行结果和生成的图片。在变量显示区可以查看当前变量的名称、占用空间和值。Page 3 | Chapter 34了解一下Spyder | Book 1《编程不难》| 鸢尾花书从加减乘除到机器学习
 
-# InlineAutomaticQt5Qt4TkinterAutomatic
+InlineAutomaticQt5Qt4TkinterAutomatic
 
 图2.
 
@@ -26192,7 +26192,7 @@ com 35.
 
 1什么是Streamlit？Streamlit 是一个用于构建数据科学和机器学习应用程序的开源 Python 库。Streamlit能够以简单且快速的方式创建交互式应用程序，无需繁琐的前端开发。Streamlit有如下主要功能。用户交互：Streamlit 具有构建用户界面的功能可以添加各种交互元素例如滑块、下拉菜单和复选框以使用户能够与应用程序进行互动并动态地改变应用程序的行为。数据可视化：Streamlit 提供了丰富的图表和可视化组件能够直观地展示数据和模型的结果。Streamlit还支持Matplotlib
 
-# Seaborn
+Seaborn
 
 Plotly 等库创建图表并将其集成到应用程序中。模型展示：Streamlit 支持在应用程序中展示机器学习模型的结果。可以用Streamlit加载模型并使用它们对新数据进行预测。这对于展示模型的性能、解释结果或进行实时预测非常有用。部署和共享：Streamlit 提供了一个简单的部署机制可以轻松地将应用程序部署到 Web 上并与其他人共享。本章主要介绍如何使用Streamlit的核心功能下两章分别介绍如何用Streamlit创建数据分析机器学习相关App应用。安装安装Anaconda后，可以进一步安装Streamlit。如图1所示对于Windows用户先打开Anaconda Navigator
 
@@ -26352,9 +26352,9 @@ area_chart )、直方图 (st.
 
 bar_chart ) 等。但是Streamlit支持其他主流Python可视化库比如Matplotlib
 
-# Plotly
+Plotly
 
-# Altair
+Altair
 
 Page 6 | Chapter 35 Streamlit搭建Apps | Book 1《编程不难》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及PDF文件下载：https://github.
 

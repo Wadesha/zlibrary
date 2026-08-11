@@ -4907,11 +4907,11 @@ DNA 结构的发现无疑是生物学上的重大突破。然而，它并未立�
 
 S B t s a u o r h n e s t r o e f t m d r e i c s t a h a te n a v t i r l s i i l s g g W id i l t s o y d h o e n a g y e f o c u o n d d e a f o m h e b i n y e D a a i h w g s o r h e h t i i o 6 c c d 4 h c d e
 
-## G T C A G T C
+G T C A G T C
 
 CAG G A TC AGT A C CAG TC
 
-## G AG T C A G T
+G AG T C A G T
 
 破解密码意味着基因是 DNA 的片段。马歇尔·尼伦伯格（1967）的工作表明，仅仅由一种类型碱基组成的三联体（如 TTT、CCC、AAA）编码什么氨基酸。从这些实验中他们发现，DNA 碱基三联体 TTT 编码氨基酸苯丙氨酸（phenylalanine），而 CCC 编码脯氨酸（proline）。
 

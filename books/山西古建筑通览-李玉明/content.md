@@ -1126,7 +1126,7 @@ Located in Xiexi Village, Jixian County and founded in 1023 in the Song Dynasty,
 
 山西古建築通覽小西天大殿 The matn hall in the Small Western Paradise 隰縣小西天 Xiao Xitian (The Small Western Par­ adise) in Xixian County 小西天原稱F佛庵，在E隰町’ 凰III・爲山西省重點文物保護單位，建於明崇禎匕年］公元1634年)口庵分上b 兩院'下院有無量殿及廂房，上院建大雄寳殿*左右設文殊、普賢殿；大雄寶殿內滿佈懸塑*金憩懈煌•十方壯觀， 是中國明末彰塑藝術的珍品: Xiao Xitian, or the Small W笳tern Paradise, formerly called the Monasterty to Multi—Buddhas, located in Mt. Fenghuang ( Phoenix) nea『 Chengguan, Xixian County* and built in 1632 in the Ming Dynasty.has been listed among the sites of historic value undec Shanxi provinaal protection.The monastery is divided into the upper and the lower parts.In the lo\wr part are the Hall to Amitayas and the wmg rooms. In the upper
 
-## part is the Brand Hall to Mahavira flanked on
+part is the Brand Hall to Mahavira flanked on
 
 the left and the right by the Halls to Manjusri and to Samantabhadra. In the Grand Hall to Mahavira are full of overhanging gifted sculptures.
 
@@ -1198,8 +1198,8 @@ Wang Zhende for the tremendous effort he has made for the publication of the pre
 
 图韦在版编目（C I P ）数据山西占建筑通览/李玉明主编.一2版.一太原：山西人民出版社,2001.8
 
-## ISBN 7-203-04379-7
+ISBN 7-203-04379-7
 
 1 .山...II .李...皿.古建筑-【1|西省 IV.K928.71 中国版本图启馆CIP数据核字（2001 ）第054612号 28B
 
-## ISBN 7-203-04379-7
+ISBN 7-203-04379-7

@@ -872,565 +872,565 @@ Flims Laax Falera 的单板滑雪乐趣
 伯尔尼大教堂（Bern Münster）主入口上方华丽的门廊
 LÄNGGASSE
 
-## KIRCHENFELD
+KIRCHENFELD
 
-## ALTSTADT
+ALTSTADT
 
-## ALTE NB ERG
+ALTE NB ERG
 
-## SPITALACKER
+SPITALACKER
 
 Dalmazibrücke Monbijou- brücke Lorrainebrücke Kornhausbrücke Altenbergsteg Kirchenfeld- brücke
 
-## GESELLSCHAFTSTRASSE
+GESELLSCHAFTSTRASSE
 
-## M A L E R W E G
+M A L E R W E G
 
-## SIEDELSTRASSE
+SIEDELSTRASSE
 
-## S U L G E N E
+S U L G E N E
 
-## C K S T R A S S E
+C K S T R A S S E
 
 S U L G
 
-## ENECKS
+ENECKS
 
 T R .
 
 B R Ü C
 
-## K E N S T R A
-
-## S S E
-
-## RATHAUSGASSE
-
-ZEUGHAUSG.
-
-## AMTHAUSGASSE
-
-SCHAUPLATZG.
-
-## ALTENBERGSTRASSE
-
-## ALTENB
-
-## ERGRAIN
-
-SCHÄNZLISTRASSE
-
-## SONNENBERG-
-
-## STRASSE
-
-## GOTTHELF-      STRASSE
-
-## LAGERWEG
-
-## ENGEHALDENSTRASSE
-
-## HALLWYLSTRASSE
-
-## RABBENTAL-        STRASSE
-
-## J UN
-
-K E R N G A S S E
-
-## SPEICHERGASSE
-
-## GENFERGASS
-
-E
-
-## N EU EN GA SS E
-
-## KORN-
-
-## HAUS-
-
-## PLATZ
-
-## BREITENRAIN-
-
-## PLATZ
-
-DAL M A
-
-## ZIQUAI
-
-## FALKEN-
-
-## PLATZ
-
-W A
-
-## B E R N S T R
-
-## A S S
-
-E BÜRENSTRA S S E
-
-## T I L L I E R S T R A S S E
-
-## A E G E R T E N S T R A S S E
-
-T H O R M A N N S T R .
-
-## A L L M E N D S T R A S S E
-
-## E L I S A B E T H E N S T
-
-R .
-
-## SCH E I BE NSTR ASSE
-
-S C H Ü T Z E N W E G
-
-## S T O C K E R E N W E G
-
-## QUARTIER-
-
-## GASSE
-
-## ALPENEGGSTRASSE
-
-S U L G E N R A I N
-
-## D A L M A Z I Q U A I
-
-## D A L M A Z I Q U A I
-
-## E R L E N W E G
-
-WALDHÖHEWEG
-
-## G R E Y E R Z S T R A S S E
-
-## PA P P E LW E G
-
-## T U R N W E G
-
-## R AN DW EG
-
-## U F E RW EG
-
-## J UR ASTR AS S E
-
-## HUMBO
-
-## LDTSTRA
-
-SSE
-
-## F L U R S T R A S S E
-
-## H A L L
-
-## E R S T R A S S
-
-E
-
-## M A R Z I L I S T R A S S E
-
-## AAR S
-
-## T R AS S E
-
-## A A R ST R A S S E
-
-## M A R I E N S T R A S S E
-
-SCHÜTTESTRASSE
-
-## G REY E RZ ST R A SS E
-
-## L O R R A I N E S T R A S S E
-
-## B E R N
-
-## A S T R A S S E
-
-## HELVETIASTRASSE
-
-## BRUNNGASSHALDE
-
-## SPITALACKERSTRASSE
-
-## B R E I T E N R E I N S T R A S S E
-
-## S PI TALG ASS E
-
-## KO R N H A U S ST R A S S E
-
-## THUNSTRASSE
-
-N EUB RÜ CK S T R A SS E
-
-## BUNDES-
-
-## PLATZ
-
-## BAHNHOF-
-
-## PLATZ
-
-## WAISENHAUS-
-
-## PLATZ
-
-## BUBENBERG-
-
-## PLATZ
-
-## CASINO-
-
-## PLATZ
-
-## HELVETIA-
-
-## PLATZ
-
-S A N D R A I
-
-## N S T R A
+K E N S T R A
 
 S S E
 
-## W Y L E R S T R A S S E
+RATHAUSGASSE
 
-## M I T T E L S T R A S S E
+ZEUGHAUSG.
 
-ZÄHRINGERSTR.
+AMTHAUSGASSE
 
-## D A M M W E G
+SCHAUPLATZG.
 
-H O D
+ALTENBERGSTRASSE
 
-## L E R S T R A S S E
+ALTENB
 
-BEUNDENFELDSTR.
+ERGRAIN
 
-## MOSERSTR ASSE
+SCHÄNZLISTRASSE
 
-J U B I L Ä U M S S T R A S S E
+SONNENBERG-
 
-## VIKTORIARAIN
+STRASSE
 
-## V IKTOR IAST R AS S E
+GOTTHELF-      STRASSE
 
-## B U N D E S G A S S E
+LAGERWEG
 
-## KOCHERGASSE
+ENGEHALDENSTRASSE
 
-## S C H A N Z E N S T R A S S E
+HALLWYLSTRASSE
 
-## KLEINE
+RABBENTAL-        STRASSE
 
-## EFFINGERSTRASSE
+J UN
 
-W
+K E R N G A S S E
 
-## ESTTANGENTE
+SPEICHERGASSE
 
-## TIEFENA
-
-US T RAS SE
-
-## N O R D R I
-
-N G
-
-## BOLLWERK
-
-M
-
-## O N B I J O U S T R
-
-## A S S E
-
-## K I R C H E N F E L D S T R A S S E
-
-## MONBIJOUSTRASSE
-
-## N O R D R I N G
-
-## LAUPENSTRASSE
-
-## EIGERSTR
-
-A SSE M O
-
-## N B I
-
-J O U B R Ü C K E Bern K l e i n e S c h a n z e Monbijou park Botanischer Garten Marzi- libad Grosse Schanze A a r e A a r e Mattenschwelle Bärenplatz Heiliggeistkirche Dreifaltigkeitskirche Bundeshaus Zytglogge Münstergasse Kramgasse Kunstmuseum Kursaal Bibliothek Exakte Wissenschaften Münster St Vinzenz Kunsthalle Kirche St Peter und Paul Gerechtigkeits- gasse Rathaus Marktgasse Französische Kirche Erlacherhof Schweizerisches Alpines Museum Bernisches Historisches Museum Naturhistorisches Museum Museum für Kommunikation St Ursula's Church Dampfzentrale
-
-## BERN
-
-## SCHOSSHALDE
-
-Untertorbrücke Nydeggbrücke
-
-## A L P E N S T R A S S E
-
-GRYPHENHÜBELIWEG
-
-## TAVELWEG
-
-## WAT TENWYLWEG
-
-## STEIGERWEG
-
-## EGELBERGSTRASSE
-
-## EG E
-
-## LGA SSE
-
-## G A N T RIS C
-
-## H ST R A SS
-
-E F
-
-## A MI LI ENS PAZ IERG ANG
-
-## BI T Z IU SST R AS S E
-
-## HA SP ELWEG
-
-## FR I
-
-## EDL IST RA SS
+GENFERGASS
 
 E
 
-## WEI SSW EG
+N EU EN GA SS E
 
-## B EYE LE RW EG
+KORN-
 
-## SA LV I SB ERG STR AS S E
+HAUS-
+
+PLATZ
+
+BREITENRAIN-
+
+PLATZ
+
+DAL M A
+
+ZIQUAI
+
+FALKEN-
+
+PLATZ
+
+W A
+
+B E R N S T R
+
+A S S
+
+E BÜRENSTRA S S E
+
+T I L L I E R S T R A S S E
+
+A E G E R T E N S T R A S S E
+
+T H O R M A N N S T R .
+
+A L L M E N D S T R A S S E
+
+E L I S A B E T H E N S T
+
+R .
+
+SCH E I BE NSTR ASSE
+
+S C H Ü T Z E N W E G
+
+S T O C K E R E N W E G
+
+QUARTIER-
+
+GASSE
+
+ALPENEGGSTRASSE
+
+S U L G E N R A I N
+
+D A L M A Z I Q U A I
+
+D A L M A Z I Q U A I
+
+E R L E N W E G
+
+WALDHÖHEWEG
+
+G R E Y E R Z S T R A S S E
+
+PA P P E LW E G
+
+T U R N W E G
+
+R AN DW EG
+
+U F E RW EG
+
+J UR ASTR AS S E
+
+HUMBO
+
+LDTSTRA
+
+SSE
+
+F L U R S T R A S S E
+
+H A L L
+
+E R S T R A S S
+
+E
+
+M A R Z I L I S T R A S S E
+
+AAR S
+
+T R AS S E
+
+A A R ST R A S S E
+
+M A R I E N S T R A S S E
+
+SCHÜTTESTRASSE
+
+G REY E RZ ST R A SS E
+
+L O R R A I N E S T R A S S E
+
+B E R N
+
+A S T R A S S E
+
+HELVETIASTRASSE
+
+BRUNNGASSHALDE
+
+SPITALACKERSTRASSE
+
+B R E I T E N R E I N S T R A S S E
+
+S PI TALG ASS E
+
+KO R N H A U S ST R A S S E
+
+THUNSTRASSE
+
+N EUB RÜ CK S T R A SS E
+
+BUNDES-
+
+PLATZ
+
+BAHNHOF-
+
+PLATZ
+
+WAISENHAUS-
+
+PLATZ
+
+BUBENBERG-
+
+PLATZ
+
+CASINO-
+
+PLATZ
+
+HELVETIA-
+
+PLATZ
+
+S A N D R A I
+
+N S T R A
+
+S S E
+
+W Y L E R S T R A S S E
+
+M I T T E L S T R A S S E
+
+ZÄHRINGERSTR.
+
+D A M M W E G
+
+H O D
+
+L E R S T R A S S E
+
+BEUNDENFELDSTR.
+
+MOSERSTR ASSE
+
+J U B I L Ä U M S S T R A S S E
+
+VIKTORIARAIN
+
+V IKTOR IAST R AS S E
+
+B U N D E S G A S S E
+
+KOCHERGASSE
+
+S C H A N Z E N S T R A S S E
+
+KLEINE
+
+EFFINGERSTRASSE
+
+W
+
+ESTTANGENTE
+
+TIEFENA
+
+US T RAS SE
+
+N O R D R I
+
+N G
+
+BOLLWERK
+
+M
+
+O N B I J O U S T R
+
+A S S E
+
+K I R C H E N F E L D S T R A S S E
+
+MONBIJOUSTRASSE
+
+N O R D R I N G
+
+LAUPENSTRASSE
+
+EIGERSTR
+
+A SSE M O
+
+N B I
+
+J O U B R Ü C K E Bern K l e i n e S c h a n z e Monbijou park Botanischer Garten Marzi- libad Grosse Schanze A a r e A a r e Mattenschwelle Bärenplatz Heiliggeistkirche Dreifaltigkeitskirche Bundeshaus Zytglogge Münstergasse Kramgasse Kunstmuseum Kursaal Bibliothek Exakte Wissenschaften Münster St Vinzenz Kunsthalle Kirche St Peter und Paul Gerechtigkeits- gasse Rathaus Marktgasse Französische Kirche Erlacherhof Schweizerisches Alpines Museum Bernisches Historisches Museum Naturhistorisches Museum Museum für Kommunikation St Ursula's Church Dampfzentrale
+
+BERN
+
+SCHOSSHALDE
+
+Untertorbrücke Nydeggbrücke
+
+A L P E N S T R A S S E
+
+GRYPHENHÜBELIWEG
+
+TAVELWEG
+
+WAT TENWYLWEG
+
+STEIGERWEG
+
+EGELBERGSTRASSE
+
+EG E
+
+LGA SSE
+
+G A N T RIS C
+
+H ST R A SS
+
+E F
+
+A MI LI ENS PAZ IERG ANG
+
+BI T Z IU SST R AS S E
+
+HA SP ELWEG
+
+FR I
+
+EDL IST RA SS
+
+E
+
+WEI SSW EG
+
+B EYE LE RW EG
+
+SA LV I SB ERG STR AS S E
 
 BRECHBÜH L ERS T R .
 
 A L T
 
-## E R AARGAU
+E R AARGAU
 
 E R
 
-## STALDEN
+STALDEN
 
 BRÜGGLERWEG
 
-## SPITTELERST
+SPITTELERST
 
 R
 
-## ASSE
+ASSE
 
-## ALTENBERGS
+ALTENBERGS
 
 T R .
 
 GRYPHENHÜBELIWEG
 
-## ENSINGERSTRASSE
+ENSINGERSTRASSE
 
-## STEINERSTRASSE
+STEINERSTRASSE
 
-## SEMINARSTRASSE
+SEMINARSTRASSE
 
-## G AN TR IS C H STR A S S E
+G AN TR IS C H STR A S S E
 
-## WASSERWERKGASSE
+WASSERWERKGASSE
 
 B L U ME N B ERGST R.
 
-## L O M B A C H W E G
+L O M B A C H W E G
 
-## E L F E N A U W E G
+E L F E N A U W E G
 
 M Ü L I N E N S T R A S S E
 
-## K A LC H E G G W E G
+K A LC H E G G W E G
 
 J O L I M O N T S
 
-## T R A S S E
+T R A S S E
 
-## B URGE RNZIELWEG
+B URGE RNZIELWEG
 
-## KASTHOFERSTRASSE
+KASTHOFERSTRASSE
 
-## STAUFERSTRASSE
+STAUFERSTRASSE
 
-## GRUBERSTRASSE
+GRUBERSTRASSE
 
-## WIESENSTRASSE
+WIESENSTRASSE
 
 M
 
-## UR IF E LDWEG
+UR IF E LDWEG
 
-## ALLEEW EG
+ALLEEW EG
 
-## W I T T I G KO F E N W EG
+W I T T I G KO F E N W EG
 
-## W ER N E R ST R AS S E
+W ER N E R ST R AS S E
 
-## W I L L A D I N G W E G
+W I L L A D I N G W E G
 
 BÜRGLENSTRASSE SCHÖNBURGSTR.
 
 KL EIN ER M U R I
 
-## STALDEN
+STALDEN
 
 SCHÄNZLISTR .
 
 L E R B ER
 
-## STRASS
+STRASS
 
 E
 
-## ATTINGHAUSEN-
+ATTINGHAUSEN-
 
 STR.
 
-## BREITFELDSTRASSE
+BREITFELDSTRASSE
 
 MILITÄRSTR.
 
 B
 
-## U C H S E R S
+U C H S E R S
 
-## T R A S S
+T R A S S
 
 E
 
-## SCHIFFL
+SCHIFFL
 
-## AUBE
+AUBE
 
-## KOLLERWEG
+KOLLERWEG
 
 HÖHEWEGH BANTIGERSTR.
 
-## T H U N ST R A S S E
+T H U N ST R A S S E
 
-## SCH OS
+SCH OS
 
-## SH A LD
+SH A LD
 
-## E N ST R A SS E
+E N ST R A SS E
 
-## SPITALACKERSTRASSE
+SPITALACKERSTRASSE
 
-## B R U N N A
+B R U N N A
 
-## D E R
+D E R
 
-## N S T R A S S
+N S T R A S S
 
 E
 
-## SCHOSSHALDENSTRASSE
+SCHOSSHALDENSTRASSE
 
-## JUNGFRAUSTRASSE
+JUNGFRAUSTRASSE
 
-## NYDEGG-
+NYDEGG-
 
 HOF
 
-## THUN-
+THUN-
 
-## PLATZ
+PLATZ
 
 B R U N N A D E R N S T R .
 
-## ELFENSTRASSE
+ELFENSTRASSE
 
-## B U C
+B U C
 
 H S E R S T R A
 
-## S S E
+S S E
 
-## GIAC
+GIAC
 
-## OMET
+OMET
 
-## TISTRASSE
+TISTRASSE
 
 B R U N N A D E R N S T R .
 
-## KASERNENSTRASSE
+KASERNENSTRASSE
 
-## RODTMATTSTRASSE
+RODTMATTSTRASSE
 
 A6 A6
 
-## M URI S
+M URI S
 
-## TA LD
+TA LD
 
 E N
 
-## A R G A
+A R G A
 
-## U E R S T A L D E N
+U E R S T A L D E N
 
-## MU R IST R A SSE
+MU R IST R A SSE
 
-## O S T E R
+O S T E R
 
 M U
 
-## N D I G E
+N D I G E
 
-## N S T R A S S
+N S T R A S S
 
 E
 
-## M U R I S T R A
+M U R I S T R A
 
-## S S E
+S S E
 
 VIK TO R
 
-## IASTRA
+IASTRA
 
 SS E
 
-## L A U
+L A U
 
-## B E G G S T
+B E G G S T
 
-## R A S S
+R A S S
 
 E
 
-## L A U
+L A U
 
-## B E G S T
+B E G S T
 
-## R A S S E
+R A S S E
 
-## O S T R
+O S T R
 
-## I N G
+I N G
 
-## T H U N S T R A S S E
+T H U N S T R A S S E
 
-## M U R I S
+M U R I S
 
-## T R A S S E
+T R A S S E
 
-## WELTPOSTSTRASSE
+WELTPOSTSTRASSE
 
 D ä h l h ö l z l i w a l d Schosshalden- friedhof Rosen- garten Egelsee Petruskirche Zentrum Paul Klee Nydeggkirche Bear Park 0 metres 0 yards N
 
@@ -2043,83 +2043,83 @@ U S T R A S S E
 
 R Ü
 
-## TIST
+TIST
 
 RA S S E
 
-## RUGE
+RUGE
 
 NS T R A S S E O
 
-## ELESTR
+ELESTR
 
 AS S E HERTIGÄSSLI
 
-## FREIE
+FREIE
 
 S T
 
-## RASSE
+RASSE
 
-## WE I SS ENA UST R AS SE
+WE I SS ENA UST R AS SE
 
 M Ü
 
-## HLEHOL
+HLEHOL
 
 Z STR A SSE L
 
-## EH NW E
+EH NW E
 
 G VO RH O L
 
-## ZSTR
+ZSTR
 
 A S SE MI T TLE RE
 
-## STRASSE
+STRASSE
 
 ST E
 
-## INDLER
+INDLER
 
 S
 
-## TRAS
+TRAS
 
 S E OB E
 
-## RE GO
+RE GO
 
 L D E Y W Y D E N B E A T E N B E R G ST R
 
-## ASSE
+ASSE
 
 OBERE BÖNIGSTRAS SE B E AT E N B
 
-## E RG ST RA S S E
+E RG ST RA S S E
 
-## HAUPTSTRASSE
+HAUPTSTRASSE
 
 WY
 
-## CHEL
+CHEL
 
-## STRASSE
+STRASSE
 
-## LINDENALLEE
+LINDENALLEE
 
-## GSTEI
+GSTEI
 
-## GSTRASSE
+GSTRASSE
 
 HA U PT STR A S SE WE
 
-## I SS E N A UST R AS S E
+I SS E N A UST R AS S E
 
 S E
 
-## E STRA
+E STRA
 
 S S E Reformierte Kirche Tourismuseum Heimwehfluh Kunsthaus Interlaken Bödelibahn Unterseen 0公里 0英里 N
 
@@ -7316,11 +7316,11 @@ K A T H A R I N E N G.
 
 S C
 
-##  HWERTGASSE
+HWERTGASSE
 
 E N G E L G A S S E
 
-## BOHL
+BOHL
 
 BRÜHLGA SSE
 
@@ -8294,17 +8294,17 @@ SF 3.30
 
 ## 咖啡
 
-## SF
+SF
 
 ## 啤酒
 
-## SF
+SF
 
 ## 晚餐
 
 ## 双人
 
-## SF
+SF
 
 护照与签证 关于入境要求（包括签证），请咨询您最近的瑞士大使馆，或查看瑞士的在线签证系统。欧盟国民以及英国、美国、加拿大、澳大利亚和新西兰公民需要有效护照，但停留不超过三个月无需签证。
 
@@ -8332,15 +8332,15 @@ Guten tag/bonjour/buongiorno（你好） Auf wiedersehen/au revoir/arrivederci�
 
 ## 节省
 
-## SF
+SF
 
 ## 花费
 
-## SF
+SF
 
 ## 挥霍
 
-## SF
+SF
 
 ## 出发
 
@@ -8356,7 +8356,7 @@ Guten tag/bonjour/buongiorno（你好） Auf wiedersehen/au revoir/arrivederci�
 
 他们持有有效的欧洲健康保险卡（EHIC）。注意英国全球健康保险卡（GHIC）在瑞士无效。
 
-## EHIC
+EHIC
 
 ∑ ec.europa.eu 疫苗接种 有关COVID-19疫苗接种要求的信息，请咨询政府建议（第270页）。
 
@@ -8476,7 +8476,7 @@ km/h（31英里/小时）
 
 6公里（4英里）
 
-## SF
+SF
 
 巴士 18分钟 米卢斯-弗赖堡（MLH）
 
@@ -8484,11 +8484,11 @@ km/h（31英里/小时）
 
 6公里（4英里）
 
-## SF
+SF
 
 巴士 35分钟 日内瓦国际机场 4公里（2英里）
 
-## SF
+SF
 
 火车 6分钟 机场（GVA）
 
@@ -8496,11 +8496,11 @@ km/h（31英里/小时）
 
 6公里（4英里）
 
-## SF
+SF
 
 巴士 15分钟 恩加丁机场 7公里（4英里）
 
-## SF
+SF
 
 巴士 17分钟 圣莫里茨-萨梅丹（SMV）
 
@@ -8508,7 +8508,7 @@ km/h（31英里/小时）
 
 ## 2.5公里（2英里）
 
-## SF
+SF
 
 巴士 4分钟 锡永机场（SIR）
 
@@ -8516,13 +8516,13 @@ km/h（31英里/小时）
 
 20公里（12英里）
 
-## SF
+SF
 
 巴士 45分钟 苏黎世机场（ZRH）
 
 10公里（6英里）
 
-## SF
+SF
 
 火车 10分钟 伯尔尼至巴塞尔 1小时 伯尔尼至日内瓦 2小时 伯尔尼至苏黎世 1小时 伯尔尼至卢塞恩
 
@@ -8554,7 +8554,7 @@ km/h（31英里/小时）
 
 伯尔尼纳快车 ∑ rhb.ch 冰川快车 ∑ glacierexpress.ch 黄金通道线 ∑ mob.ch 哥达全景快车 ∑ sbb.ch
 
-## SBB/CFF/FFS
+SBB/CFF/FFS
 
 ∑ sbb.ch 瑞士旅行系统 ∑ swisstravelsystem.com 长途巴士旅行 Eurolines提供瑞士目的地与其他欧洲城市之间的多条长途巴士路线。
 

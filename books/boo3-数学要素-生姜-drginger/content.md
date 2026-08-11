@@ -86,11 +86,11 @@ Seaborn库。此外，系列丛书封面设计致敬梵高《鸢尾花》要是�
 
 用来展示数学动画数据分析、机器学习算法。Streamlit是个开源的Python库能够方便快捷搭建部署交互型网页App。Streamlit非常简单易用、很受欢迎。Streamlit兼容目前主流的Python数据分析库比如NumPy
 
-# Pandas
+Pandas
 
-# Scikit-learn
+Scikit-learn
 
-# PyTorch
+PyTorch
 
 TensorFlow等等。Streamlit还支持Plotly、Bokeh、Altair等交互可视化库。本书中很多App设计都采用 Streamlit + Plotly方案。此外，本书专门配套教学视频手把手和大家一起做App。大家可以参考如下页面更多了解Streamlit
 
@@ -114,9 +114,9 @@ com 运行Jupyter无需IDE，只需要浏览器。Jupyter容易分块执行代�
 
 要么inline打印数据要么将数据写到csv或Excel文件中再打开。图像结果不具有交互性比如不能查看某个点的值或者旋转3D图形可以考虑安装 (jupyter-matplotlib)。注意，利用Altair或Plotly绘制的图像支持交互功能。对于自定义函数，目前没有快捷键直接跳转到其定义。但是，很多开发者针对这些问题都开发了插件，请大家留意。大家可以下载安装Anaconda
 
-# JupyterLab
+JupyterLab
 
-# Spyder
+Spyder
 
 PyCharm等常用工具都集成在Anaconda中。anaconda.
 
@@ -180,7 +180,7 @@ com 第10章到第14章都是围绕函数展开。有几点值得强调学习任
 
 Numpy、Sympy
 
-# Matplotlib
+Matplotlib
 
 Seaborn等。《数学要素》一册还强调数学文化内容安排上尽可能沿着数学发展先后脉络为大家展现整副历史图景。本书还介绍数学史上关键人物，让大家看到数学如何薪火相传、接续发展。为了帮助大家阅读英文文献以及学术交流，本书还特别总结常用数学知识的英文表述。下面让我们一起开始《数学要素》一册的学习之旅。Page 1 | Chapter 1万物皆数 | Book 3《数学要素》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。com/Visualize-ML 本书配套微课视频均发布在B站——生姜DrGinger
 
@@ -576,11 +576,11 @@ Five minus three is equal to two.
 
 Three subtract ed from five equa ls two.
 
-# If you subtract three from five
+If you subtract three from five
 
 you get two.
 
-# If you take three from five
+If you take three from five
 
 you get two.
 
@@ -1018,7 +1018,7 @@ Two c ross three equa ls six.
 
 The product of two and three is six .
 
-# If yo u mu ltiply two by three
+If yo u mu ltiply two by three
 
 you get six.
 
@@ -1120,21 +1120,21 @@ py介绍如何求余，求余数的运算符为 %。分数最常见的分数 (fr
 
 分数相关英文表达数学表达英文表达1,1 22 One half
 
-# A half
+A half
 
-# One over two 1
+One over two 1
 
 2 One to two 32− Minus three -halves
 
-# Negative three-halves 1
+Negative three-halves 1
 
 1 33 One over thr ee
 
 One third 1,1 44 One over four
 
-# One fourth
+One fourth
 
-# One qua rter
+One qua rter
 
 One di vided by four 114 One an d one fourth 1/5 One fi fth 3/5 Three fi fths 1
 
@@ -1144,7 +1144,7 @@ aabb a over b
 
 a divid ed by b
 
-# The ratio of a to b
+The ratio of a to b
 
 The numerator is a while the denominator i s b 2.
 
@@ -1300,11 +1300,11 @@ visualize.
 
 com @==@@=Vector and vector
 
-# Matrix and vector
+Matrix and vector
 
-# Square matrix
+Square matrix
 
-# Diagonal matrix
+Diagonal matrix
 
 Rectangular matrix@@=
 
@@ -1954,7 +1954,7 @@ com 图16所示为常见三维几何体它们依次是：正球形 (sphere)
 
 六棱柱 (hexagonal prism) 和五棱锥 (pentagonal prism)。# CubeConeSphereCylinderCone frustum
 
-# CuboidParallelepiped
+CuboidParallelepiped
 
 Square-based pyramidTriangle-based pyramidTriangular prismTetrahedronSquare pyramid frustum
 
@@ -2022,7 +2022,7 @@ visualize.
 
 com 投影大家平时一定会见到阳光和灯光下各种物体留下的影子，这就是投影。比如，图20所示为一个马克杯在不同角度的投影。# H2H3H4
 
-# H5H6
+H5H6
 
 图20.
 
@@ -2368,7 +2368,7 @@ AB The set capital A contai ns or is equal to the set capital B.
 
 The intersection of the set capital A and the set capital B.
 
-# A intersection B
+A intersection B
 
 Page 6 | Chapter 4代数 | Book 3《数学要素》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。com/Visualize-ML 本书配套微课视频均发布在B站——生姜DrGinger
 
@@ -2392,7 +2392,7 @@ AB− The relative comple ment of the set capital B in the set capital A.
 
 The relative complement of set capital B with respect to set capital A.
 
-# AB C
+AB C
 
 The intersect ion of capital A and the set capital B union capital C.
 
@@ -2404,7 +2404,7 @@ capital B.
 
 文氏图集合之间的关系也可以用文氏图 (Venn diagram) 表达。图4给出的是两个集合常见关系文氏图。ABABABAB
 
-# ABAB
+ABAB
 
 ABAB− 图4.
 
@@ -3206,7 +3206,7 @@ Page 8 | Chapter 5笛卡尔坐标系 | Book 3《数学要素》| 鸢尾花书从
 
 θA
 
-# CEF
+CEF
 
 r = 1sin(θ)csc(θ)cos(θ)sec(θ)O 图8.
 
@@ -3944,7 +3944,7 @@ The open interv al from a to b.
 
 The interval fr om a to b, exclusive.
 
-# The values betwee n a and b
+The values betwee n a and b
 
 but not including the endpoints .
 
@@ -3960,7 +3960,7 @@ The closed interv al from a to b.
 
 The interval from a to b, inclusiv e.
 
-# The values between a and b
+The values between a and b
 
 including the endpoints .
 
@@ -3972,11 +3972,11 @@ inclu sive.
 
 (],ab |xa x b 
 
-# The half -open interv al from a to b
+The half -open interv al from a to b
 
 excluding a and including b.
 
-# The values between a and b
+The values between a and b
 
 excluding a and including b.
 
@@ -3998,11 +3998,11 @@ ml@gmail.
 
 com [, )ab |xa x b 
 
-# The half -open interval from a to b
+The half -open interval from a to b
 
 including a and excluding b.
 
-# The values between a and b
+The values between a and b
 
 including a and excluding b.
 
@@ -4670,7 +4670,7 @@ x2ABC
 
 DE
 
-# FGHIJK
+FGHIJK
 
 L
 
@@ -4884,9 +4884,9 @@ com (a)(b) Class 1, C1 Class 2, C2
 
 B、C、D、E和“决策边界”的距离用到的就是本节讲到的“点到直线距离”；计算l1和l2“间隔”宽度用到的是“平行线间距离” 而图18中暖色和冷色两个区域就是通过不等式划定的区域。暖色区域的样本点分类为红色 ●，即C1；冷色区域的样本点分类为蓝色 ●，即C2。l112
 
-# EDCBADecision boundary Class 1
+EDCBADecision boundary Class 1
 
-# C1 Class 2
+C1 Class 2
 
 Page 16 | Chapter 7距离 | Book 3《数学要素》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及PDF文件下载：https://github.
 
@@ -5352,7 +5352,7 @@ ml@gmail.
 
 com 22212xxr+= (1) 其中，r为半径 (radius)。正圆的周长为2πr，正圆的面积为πr2。x1x2
 
-# CircleCenterDiameter
+CircleCenterDiameter
 
 Radiusx1x2Center (c1, c2)Origin (a)(b)
 
@@ -5438,7 +5438,7 @@ x1x2(a)(b)Co-vertex
 
 Co-vertexVertexVertexFocusFocusMajor axisMinor axisSemi-minor axisSemi-major axis
 
-# VertexVertex
+VertexVertex
 
 Center 图7.
 
@@ -5506,7 +5506,7 @@ c可以通过下式计算得到
 
 图7 (b) 椭圆两个焦点坐标分别为 (0, −c) 和 (0, c)。x1x2
 
-# F1PF2
+F1PF2
 
 图9.
 
@@ -5656,7 +5656,7 @@ ml@gmail.
 
 com z1z2x1x2Centralize
 
-# Rotate
+Rotate
 
 Scale 图15.
 
@@ -5692,9 +5692,9 @@ x1Sepal width
 
 x2Setosa
 
-# C1Versicolor
+C1Versicolor
 
-# C2Virginica
+C2Virginica
 
 图18.
 
@@ -5838,11 +5838,11 @@ x1x2
 
 x1x2(a)(b)
 
-# AsymptoteOFocus
+AsymptoteOFocus
 
-# F1OFocus
+F1OFocus
 
-# F2AsymptoteFocus
+F2AsymptoteFocus
 
 Focus, F2图22.
 
@@ -5850,7 +5850,7 @@ Focus, F2图22.
 
 21bxxa= (38) 图23所示为左右开口双曲线右侧部分不同切点处若干条渐变切线。容易发现，图23切线斜率，要么大于b/a，要么小于−b/a。也就是说，切线在 (−∞, −b/a) 和 (b/a, +∞) 两个区间之内。x1x2
 
-# Asymptote
+Asymptote
 
 图23.
 
@@ -6008,7 +6008,7 @@ com 9.
 
 第一宇宙速度因此被称作环绕速度 (orbit speed)。提高航天器绕行速度，轨道变为椭圆轨道 (elliptical orbit)。Bound orbitsCircular orbitElliptic orbitEscape orbit (parabolic)
 
-# Unbound orbitsHyperbolic trajectory
+Unbound orbitsHyperbolic trajectory
 
 图1.
 
@@ -6720,7 +6720,7 @@ com 图5.
 
 细胞核周围围绕着树突 (dendrite)。树突接受外部刺激，并将信号传递至神经元内部。# DendriteCell body
 
-# AxonAxon terminal
+AxonAxon terminal
 
 SynapseElectronic signalNucleus 图6.
 
@@ -6824,7 +6824,7 @@ com 简单来说连续函数 (continuous function) 是指函数y = f(x) 当自�
 
 还有跳跃间断 (jump discontinuity)。在学习极限 (limit) 之后函数的连续性 (continuity) 更容易被定义。此外，函数的连续性和可导性 (differentiability) 有着密切联系。导数是本书第15章要讨论的内容。xOAsymptotic discontinuity
 
-# Jump discontinuityPoint discontinuity
+Jump discontinuityPoint discontinuity
 
 图10.
 
@@ -8138,7 +8138,7 @@ ml@gmail.
 
 com 1 11fxx=+− (16) 其中，x ≠ 1。如图23所示，y = 1为 (16) 对应反比例函数的水平渐近线；x = 1为竖直渐近线。-3-2-1123-3-2-1123
 
-# Vertical asymptoteHorizontal asymptote
+Vertical asymptoteHorizontal asymptote
 
 图23.
 
@@ -8526,7 +8526,7 @@ y is equal to log bas e a of x.
 
 lny Log y to the base e
 
-# Log to the ba se e of y
+Log to the ba se e of y
 
 Natural log (o f) y 2log 8 3= The log base 2 of 8 is e qual to 3.
 
@@ -9008,7 +9008,7 @@ invent them
 
 they are powerful.
 
-# In fact
+In fact
 
 mathematics is
 
@@ -9084,7 +9084,7 @@ c相当于f(x1
 
 x2) 平面的某一条等高线即f(x1, x2) 等高线为直线。举个例子图1所示图像对应如下解析式
 
-# T112 1 221
+T112 1 221
 
 1yxfxx x xx=+==wx (5) 图1 (a) 所示为 (5) 对应平面图中黑色直线对应x1 + x2 = 0
 
@@ -9126,7 +9126,7 @@ w向量垂直于等高线并指向f(x1
 
 x2) 增大方向。这并非巧合，实际上w向量便是梯度向量 (gradient vector)。本书在前文讲解不等式时提到过梯度这个概念不过当时我们关注的是梯度的反方向即梯度下降方向。本系列丛书内容不断深入，大家会理解w的几何意义以及梯度向量这一重要概念。这里先给大家留下一个印象。此外，相信大家已经意识到向量是个多面手向量不仅仅是一列或一行数还是有方向的线段。大家会在本系列丛书《矩阵力量》经常听到这句提醒——有向量的地方，就有几何！希望大家在看到向量出现时，多从几何视角思考向量的几何内涵。第二个例子图2所示平面对应解析式如下
 
-# T112 1 221
+T112 1 221
 
 1yxfxx x xx−=− + ==wx (7) 图2 (b) 中黄箭头同样指向 f(x1
 
@@ -9168,7 +9168,7 @@ b = 0时
 
 f(x1, x2) 平面高度仅仅受到x1影响。图3所示图像对应如下解析式
 
-# T112 121
+T112 121
 
 0yxfxx xx−=− ==wx (8) 图3 (a) 所示平面平行于x2轴即纵轴。图3 (b) 所示f(x1, x2) 平面等高线同样平行于x2轴。图3 (b) 中黄色箭头为函数 f(x1
 
@@ -9194,7 +9194,7 @@ b = 0时
 
 f(x1, x2) 平面仅仅受到x2影响。图4所示图像对应如下解析式
 
-# T112 220
+T112 220
 
 1xfxx xxy===wx (9) 图4 (a) 所示平面平行于x1轴。图4 (b) 所示f(x1, x2) 平面等高线同样平行于x1轴。图4 (b) 中黄色箭头同样为 f(x1
 
@@ -9718,7 +9718,7 @@ com 本书第16章介绍的偏导数这个工具，用的也是“降维”这�
 
 0) 距离相同这些等高线就是欧氏距离“等距线”。4(a)(b)
 
-# Minimumx1x2 2 1012 2 1012
+Minimumx1x2 2 1012 2 1012
 
 2 1012 2 1012x1x2f(x1, x2)21
 
@@ -10470,7 +10470,7 @@ com Index
 
 kCumulative sum
 
-# SkTerm
+SkTerm
 
 akIndex
 
@@ -10480,7 +10480,7 @@ k(a)(b)
 
 kCumulative sum
 
-# SkTerm
+SkTerm
 
 akIndex
 
@@ -12090,7 +12090,7 @@ del y Partial y
 
 The partial de rivative of y yx Partial derivative of y with respect to x
 
-# Partial y over part ial x
+Partial y over part ial x
 
 Partial derivati ve with respect to x of y 22yx Partial two y by partial x squared
 
@@ -12952,7 +12952,7 @@ b) = fx2x1(a
 
 将 (20) 写成矩阵运算形式
 
-# TT11 1 1 1 2 1 11222 2 1 2 2 2 2
+TT11 1 1 1 2 1 11222 2 1 2 2 2 2
 
 , ,1, , .
 
@@ -13674,7 +13674,7 @@ dxbxafx y x==先消去x
 
 变成有关y的一元函数；然后再对y积分
 
-# Eliminate A function of
+Eliminate A function of
 
 d d ,d dxdb y dx bca y cx ayfx y xy fx y xy=====  
 
@@ -13708,7 +13708,7 @@ com 如果调换积分顺序先对y积分，dydycfx y y== 相当于消去y
 
 得到有关x的一元函数；然后再对x积分
 
-# Eliminate A function of
+Eliminate A function of
 
 d d ,d dybd x by dac x ay cxfx y yx fx y yx=====  
 
@@ -15936,11 +15936,11 @@ ml@gmail.
 
 com Sepal length (cm)Sepal width (cm)Petal length (cm)Petal width (cm)Sepal length (cm)Sepal width (cm)Petal length (cm)Petal width (cm)Species0
 
-# Setosa1
+Setosa1
 
-# Versicolor2
+Versicolor2
 
-# Virginica
+Virginica
 
 图4.
 
@@ -16078,13 +16078,13 @@ ml@gmail.
 
 com Sepal length
 
-# X102468Sepal width
+X102468Sepal width
 
-# X202468403020100Count403020100Count
+X202468403020100Count403020100Count
 
-# Petal length
+Petal length
 
-# X302468Petal width
+X302468Petal width
 
 X402468403020100Count403020100Count(a)(b)
 
@@ -16190,11 +16190,11 @@ ij j iXX XX= (10) 这就解释了为什么协方差矩阵为对称矩阵。对�
 
 13 4212Sepal length
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
-# Sepal width
+Sepal width
 
 686 0.
 
@@ -16230,7 +16230,7 @@ S pal length, Se9p8l width.
 
 34Petal length
 
-# Petal width
+Petal width
 
 XX (11) 图14所示为鸢尾花数据协方差矩阵热图。Page 14 | Chapter 21统计入门 | Book 3《数学要素》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及PDF文件下载：https://github.
 
@@ -16246,21 +16246,21 @@ visualize.
 
 ml@gmail.
 
-# Sepal length
+Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4Covariance matrix0.
 
@@ -16294,35 +16294,35 @@ X4Covariance matrix0.
 
 鸢尾花数据协方差矩阵热图考虑标签当然在计算协方差时我们也可以考虑到数据标签。图12所示为三个不同标签数据各自的协方差矩阵热图。# Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4C1, setosaC2
 
@@ -16484,11 +16484,11 @@ com 鸢尾花数据的相关性系数矩阵P具体为
 
 13 4212Sepal length
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
-# Sepal width
+Sepal width
 
 000 0.
 
@@ -16524,25 +16524,25 @@ S pal length, Se6p0l width.
 
 34Petal length
 
-# Petal width
+Petal width
 
 XX (17) 图14所示为P的热图。观察相关性系数矩阵P
 
 可以发现花萼长度X1和花萼宽度X2线性负相关花瓣长度X3和花萼宽度X2线性负相关花瓣宽度X4和花萼宽度X2线性负相关。当然，鸢尾花数据集样本数量有限，通过样本数据得出的结论远不足以推而广之。# Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X4Correlation matrix1 0.
 
@@ -16582,35 +16582,35 @@ versicolorC3
 
 virginicaSepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Sepal length
+X4Sepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
 X410.
 
@@ -16722,7 +16722,7 @@ com 22 Vectors Meet Coordinate Systems
 
 their advance was slow and their applications limited.
 
-# But when these sciences joined company
+But when these sciences joined company
 
 they drew from each other fresh vitality and thenceforward marched on at a rapid pace toward perfection.
 

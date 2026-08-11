@@ -2,7 +2,6 @@ A Guide to Feynman Diagrams in the Many-Body Problem (Richard D.
 
 Mattuck) (Z-Library).
 
---- Page 1 ---
 
 # A Guide to Feynman Diagrams
 
@@ -12,7 +11,6 @@ Richard D.
 
 # Mattuck
 
---- Page 2 ---
 
 # DOVER BOOKS ON
 
@@ -144,7 +142,6 @@ P7M37 1992]
 
 # CIP
 
---- Page 7 ---
 
 # Preface to the second edition
 
@@ -288,7 +285,6 @@ the diagram-
 
 matic calculation of the magnetization and transition point for the ferromag-
 
---- Page 8 ---
 
 vi PREFACE TO THE SECOND EDITION
 
@@ -396,7 +392,6 @@ the production of the second edition.
 
 Copenhagen, 1974
 
---- Page 9 ---
 
 # Preface to the first edition
 
@@ -540,7 +535,6 @@ it can be used (by those who like to start withsomething simple) as a supplement
 
 vii
 
---- Page 10 ---
 
 viii PREFACE TO THE FIRST EDITION
 
@@ -688,7 +682,6 @@ especially to thank Professor H.
 
 Hojgaard Jensen, both for giving me the
 
---- Page 11 ---
 
 # PREFACE TO THE FIRST EDITION ix
 
@@ -844,7 +837,6 @@ Richard D.
 
 # Mattuck
 
---- Page 12 ---
 
 # Contents
 
@@ -936,7 +928,6 @@ tion.
 
 xi
 
---- Page 13 ---
 
 xii CONTENTS
 
@@ -984,7 +975,6 @@ or atomic physics
 
 etc. It deals rather with general methods applicable to all many-body systems.
 
---- Page 18 ---
 
 2 A GUIDE TO FEYNMAN DIAGRAMS [0.0
 
@@ -1052,7 +1042,6 @@ and this sometimes makes it difficult to apply.
 
 It was this lack of a systematic method which kept the many-body field in its cradle well up into the 1950s.
 
---- Page 19 ---
 
 # 0.1 THE MANY-BODY PROBLEM FOR EVERYBODY |
 
@@ -1136,7 +1125,6 @@ Fig.
 
 3 Two-body System
 
---- Page 20 ---
 
 4 A GUIDE TO FEYNMAN DIAGRAMS [0.2
 
@@ -1182,7 +1170,6 @@ Hence it is referred to as an ‘elementary excitation’ of the system.
 
 ) We now consider some examples of quasi particles.
 
---- Page 21 ---
 
 # 0.2 THE MANY-BODY PROBLEM FOR EVERYBODY 5
 
@@ -1286,7 +1273,6 @@ normalized’ interaction.
 
 Or ‘cloud’
 
---- Page 22 ---
 
 6 A GUIDE TO FEYNMAN DIAGRAMS [0.2]
 
@@ -1498,7 +1484,6 @@ Fig.
 
 8 Extra Electron Shot into Electron Gas
 
---- Page 24 ---
 
 8 A GUIDE TO FEYNMAN DIAGRAMS [0.2
 
@@ -1592,7 +1577,6 @@ holes and lifted out electrons.
 
 This combination is called the quasi electron.
 
---- Page 25 ---
 
 2) THE MANY-BODY PROBLEM FOR EVERYBODY 9
 
@@ -1672,7 +1656,6 @@ the presence of some displaced ions (Fig.
 
 13b).
 
---- Page 26 ---
 
 10 A GUIDE TO FEYNMAN DIAGRAMS [0.3
 
@@ -1806,7 +1789,6 @@ and a wavelength
 
 The plasma wave may be visualized as built up of ‘holes’
 
---- Page 27 ---
 
 3) THE MANY-BODY PROBLEM FOR EVERYBODY 11
 
@@ -1886,7 +1868,6 @@ Patterson (1964).
 
 Pines (1963), chap.
 
---- Page 28 ---
 
 # Chapter 1
 
@@ -2024,7 +2005,6 @@ the system colliding with the other particles for a while (i.e.
 
 let it ‘ propagate’
 
---- Page 29 ---
 
 2) FEYNMAN DIAGRAMS 13
 
@@ -2644,7 +2624,6 @@ quasi particles have a new energy
 
 ε = p^2 / 2m*
 
---- Page 42 ---
 
 26 A GUIDE TO FEYNMAN DIAGRAMS [2.2
 
@@ -2738,7 +2717,6 @@ interacting and non-interacting cases.
 
 # Probability density is plotted on the
 
---- Page 43 ---
 
 2) CLASSICAL QUASI PARTICLES 27
 
@@ -2824,7 +2802,6 @@ t1; r1
 
 t1) ∝ exp[ − (t2−t1)/τ ]
 
---- Page 44 ---
 
 28 A GUIDE TO FEYNMAN DIAGRAMS (2.3
 
@@ -2974,7 +2951,6 @@ could scatter twice on the giraffe before falling to r2.
 
 And so on.
 
---- Page 45 ---
 
 3) CLASSICAL QUASI PARTICLES 29
 
@@ -3000,7 +2976,6 @@ Fig.
 
 3 Classical Analogue Machine to Illustrate the Single-particle Propagator
 
---- Page 46 ---
 
 30 A GUIDE TO FEYNMAN DIAGRAMS [2.
 
@@ -3492,7 +3467,6 @@ in a magnetic field ( – (e/c) A·p)
 
 and in nuclear physics.
 
---- Page 60 ---
 
 44 A GUIDE TO FEYNMAN DIAGRAMS (3.2)
 
@@ -3588,7 +3562,6 @@ a particle is introduced into the (in this case
 
 initially empty) system in state
 
---- Page 61 ---
 
 2] QUANTUM QUASI PARTICLES 45
 
@@ -3736,7 +3709,6 @@ V = V₁₂.
 
 Hence the probability amplitude per unit time that the system under-
 
---- Page 62 ---
 
 46 A GUIDE TO FEYNMAN DIAGRAMS (3.2)
 
@@ -3788,7 +3760,6 @@ of conservation of momentum here)
 
 after cancelling the i’s
 
---- Page 63 ---
 
 2] QUANTUM QUASI PARTICLES 47
 
@@ -4020,7 +3991,6 @@ Feynman (1962), p.
 
 168, §2.
 
---- Page 79 ---
 
 5) QUANTUM QUASI PARTICLES 63
 
@@ -4146,7 +4116,6 @@ Table 3.
 
 66).
 
---- Page 80 ---
 
 # Chapter 4
 
@@ -4270,7 +4239,6 @@ Hartree and Hartree-Fock will be discussed in detail in this chapter
 
 latter two are in chapter 10.
 
---- Page 81 ---
 
 2) QUASI PARTICLES IN FERMI SYSTEMS 65
 
@@ -4412,7 +4380,6 @@ state, Fig.
 
 To draw this,
 
---- Page 82 ---
 
 66 A GUIDE TO FEYNMAN DIAGRAMS [4.2]
 
@@ -4534,7 +4501,6 @@ surface.
 
 surface.
 
---- Page 83 ---
 
 3] QUASI PARTICLES IN FERMI SYSTEMS 67
 
@@ -4664,7 +4630,6 @@ kN}(r_1, .
 
 , r_N) + B.
 
---- Page 84 ---
 
 68 A GUIDE TO FEYNMAN DIAGRAMS [4.3]
 
@@ -4770,7 +4735,6 @@ number notation and we have
 
 = ∏_i δ_{n_i' n_i} (4.
 
---- Page 85 ---
 
 3] QUASI PARTICLES IN FERMI SYSTEMS 69
 
@@ -5014,7 +4978,6 @@ a_1 |1> = 0, b_2 |0> = |2>,
 
 c_1 |1> = 0, c_1† |> = 0.
 
---- Page 87 ---
 
 3) QUASI PARTICLES IN FERMI SYSTEMS 71
 
@@ -5140,7 +5103,6 @@ m} V_{km} a_k† a_m + Σ_{k
 
 m} V_{km} b_k b_m†.
 
---- Page 88 ---
 
 72 A GUIDE TO FEYNMAN DIAGRAMS (4.4
 
@@ -5268,7 +5230,6 @@ Note that G^-
 
 is called an ‘advanced’ propagator or Green’s function.
 
---- Page 89 ---
 
 4) QUASI PARTICLES IN FERMI SYSTEMS 73
 
@@ -5920,7 +5881,6 @@ For example, diagram (5) in (4.
 
 63) is the exchange of diagram (4).
 
---- Page 99 ---
 
 5) QUASI PARTICLES IN FERMI SYSTEMS 83
 
@@ -6046,7 +6006,6 @@ the reversed bubble gives
 
 k ω 2
 
---- Page 100 ---
 
 84 A GUIDE TO FEYNMAN DIAGRAMS {4.5
 
@@ -6174,7 +6133,6 @@ with the wiggly line
 
 even though the interaction itself is independent of ω.
 
---- Page 101 ---
 
 5) QUASI PARTICLES IN FERMI SYSTEMS 85
 
@@ -6248,7 +6206,6 @@ many writers draw these diagrams lying down
 
 thus:
 
---- Page 102 ---
 
 # A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -6298,7 +6255,6 @@ aouds-(m 切 ) aogds-(1史
 
 (pogyzatx auorspjon) jonuatod ousasxa ou yim waisds uopusaf-Auou 3U112D421L4 J0/dlpttO1121P wossvig 5个3198L
 
---- Page 103 ---
 
 6) QUASI PARTICLES IN FERMI SYSTEMS 87
 
@@ -6590,7 +6546,6 @@ propagator
 
 (factorizable potential).
 
---- Page 117 ---
 
 # Chapter 5
 
@@ -6702,7 +6657,6 @@ That is, is the
 
 ‘Fermi vacuum to Fermi vacuum transition amplitude’.
 
---- Page 118 ---
 
 102 A GUIDE TO FEYNMAN DIAGRAMS (5.1)
 
@@ -6820,7 +6774,6 @@ in the classical pinball machine case.
 
 Then, we will show how to calculate
 
---- Page 119 ---
 
 2) GROUND STATE ENERGY AND VACUUM AMPLITUDE 103
 
@@ -6970,7 +6923,6 @@ this is just
 
 the probability that the trigger is pulled)
 
---- Page 120 ---
 
 104 A GUIDE TO FEYNMAN DIAGRAMS (5.2)
 
@@ -7204,7 +7156,6 @@ E - E_0 = includegraphics[width=0.
 
 end{equation}
 
---- Page 132 ---
 
 116 A GUIDE TO FEYNMAN DIAGRAMS [5.6
 
@@ -7292,7 +7243,6 @@ E_{ text{ladder}} = E_0 + includegraphics[width=0.
 
 end{equation}
 
---- Page 133 ---
 
 6] GROUND STATE ENERGY AND VACUUM AMPLITUDE 117
 
@@ -7360,7 +7310,6 @@ show why the fifth and sixth diagrams after the ‘1’ in (5.
 
 occur.
 
---- Page 134 ---
 
 # Chapter 6
 
@@ -7474,7 +7423,6 @@ other non-equilibrium properties |
 
 14) | Yields temperature dependence of properties in (3) |
 
---- Page 135 ---
 
 DIAGRAM METHODS IN THE MANY-BODY PROBLEM 119
 
@@ -7550,7 +7498,6 @@ For example:
 
 chapter 13):
 
---- Page 136 ---
 
 120 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -7616,7 +7563,6 @@ open oyster diagrams,
 
 yields Hartree-Fock quasi particles.
 
---- Page 137 ---
 
 DIAGRAM METHODS IN THE MANY-BODY PROBLEM 121
 
@@ -7676,7 +7622,6 @@ factors.
 
 A simple example of this is to evaluate the matrix element
 
---- Page 147 ---
 
 3) OCCUPATION NUMBER FORMALISM 131
 
@@ -7760,7 +7705,6 @@ pp.30
 
 37) still holds,
 
---- Page 148 ---
 
 132 A GUIDE TO FEYNMAN DIAGRAMS (7.4)
 
@@ -7856,7 +7800,6 @@ Similarly, H_int is translated by (7.
 
 43) into
 
---- Page 149 ---
 
 4) OCCUPATION NUMBER FORMALISM 133
 
@@ -7936,7 +7879,6 @@ k'} (Mk^2 + Lk^4) δ_{kk'} c^†_k c_{k'}
 
 = Σ_{k<k_F} (k^2/2m) c^†_k c_k + Σ_{k<k_F} (Mk^2 + Lk^4) c^†_k c_k
 
---- Page 150 ---
 
 134 A GUIDE TO FEYNMAN DIAGRAMS (7.4)
 
@@ -8012,7 +7954,6 @@ Putting this in (7.
 
 | gives
 
---- Page 151 ---
 
 4) OCCUPATION NUMBER FORMALISM 135
 
@@ -8092,7 +8033,6 @@ S_x = frac{1}{2} sum_k (c_{k uparrow}^ dagger c_{k downarrow} + c_{k downarrow}^
 
 S_z = frac{1}{2} sum_k (c_{k uparrow}^ dagger c_{k uparrow} - c_{k downarrow}^ dagger c_{k downarrow})
 
---- Page 158 ---
 
 # Chapter 8
 
@@ -8160,7 +8100,6 @@ The elementary excitations turn out to be a set of quasi particles and an equal 
 
 together with an interaction term.
 
---- Page 159 ---
 
 2] MORE ABOUT QUASI PARTICLES 143
 
@@ -8258,7 +8197,6 @@ H = sum_k epsilon_k c_k^ dagger c_k + frac{1}{2} sum_{k_1
 
 k_2, q} V c_{k_1+q}^ dagger c_{k_2-q}^ dagger c_{k_2} c_{k_1}
 
---- Page 160 ---
 
 144 A GUIDE TO FEYNMAN DIAGRAMS [8.2
 
@@ -8360,7 +8298,6 @@ since none of the other diagrams in (4.
 
 67) where the propagator is only approximately given by the sum over bubble graphs.
 
---- Page 161 ---
 
 2] MORE ABOUT QUASI PARTICLES 145
 
@@ -8436,7 +8373,6 @@ ment with (8.
 
 10).
 
---- Page 167 ---
 
 4) MORE ABOUT QUASI PARTICLES 151
 
@@ -8564,7 +8500,6 @@ say t_c
 
 for it to become ‘clothed’ so it will
 
---- Page 168 ---
 
 152 A GUIDE TO FEYNMAN DIAGRAMS (8.4)
 
@@ -8686,7 +8621,6 @@ calculate the order of magnitude
 
 of how far out from the Fermi surface the quasi-particle picture is still valid.
 
---- Page 169 ---
 
 4) MORE ABOUT QUASI PARTICLES 153
 
@@ -8710,7 +8644,6 @@ and show that H’ in (8.
 
 19) yields the same energy.
 
---- Page 170 ---
 
 # Chapter 9
 
@@ -8818,7 +8751,6 @@ precisely the same as (8.
 
 31, 32).
 
---- Page 171 ---
 
 2) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 155
 
@@ -9242,7 +9174,6 @@ thus:
 
 Ie
 
---- Page 181 ---
 
 6) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 165
 
@@ -9338,7 +9269,6 @@ cies) entering each vertex =sum of those leaving.
 
 Eliminate all ‘anomalous’
 
---- Page 182 ---
 
 166 A GUIDE TO FEYNMAN DIAGRAMS (9.6
 
@@ -9376,7 +9306,6 @@ h b
 
 +
 
---- Page 183 ---
 
 6) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 167
 
@@ -9452,7 +9381,6 @@ intermediate momentum
 
 | | (include sum over spins)
 
---- Page 184 ---
 
 168 A GUIDE TO FEYNMAN DIAGRAMS (9.7
 
@@ -9578,7 +9506,6 @@ N, is variable throughout the calculation.
 
 # The chemical
 
---- Page 185 ---
 
 7) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 169
 
@@ -9702,7 +9629,6 @@ For a non-interacting system (#7
 
 =0), the exact propagator G is just equal to G0
 
---- Page 186 ---
 
 170 A GUIDE TO FEYNMAN DIAGRAMS (9.8)
 
@@ -9776,7 +9702,6 @@ bubbles thus:
 
 P| tee (9.
 
---- Page 187 ---
 
 8) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 171
 
@@ -9842,7 +9767,6 @@ B=¢-i
 
 B= 一 x 十 et+g 十阿 (9.
 
---- Page 188 ---
 
 172 A GUIDE TO FEYNMAN DIAGRAMS (9.8
 
@@ -9914,7 +9838,6 @@ a - “ (9.
 
 2π am engg te tid
 
---- Page 189 ---
 
 8) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 173
 
@@ -9998,7 +9921,6 @@ y (9.
 
 |k−q|>k_F,
 
---- Page 190 ---
 
 174 A GUIDE TO FEYNMAN DIAGRAMS (9.8
 
@@ -10114,7 +10036,6 @@ we must have
 
 ωep = tt tat hens: (9.
 
---- Page 191 ---
 
 8) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 175
 
@@ -10232,7 +10153,6 @@ Thouless (1964).
 
 Noziéres (1964), chap.
 
---- Page 192 ---
 
 176 A GUIDE TO FEYNMAN DIAGRAMS {9.8
 
@@ -10310,7 +10230,6 @@ Why are the cases |l| > k_F
 
 # 9.11 Verify (9.38').
 
---- Page 193 ---
 
 # Chapter 10
 
@@ -10424,7 +10343,6 @@ high-density electron gas.
 
 Another significant use of the general partial sums is that they have an
 
---- Page 194 ---
 
 178 A GUIDE TO FEYNMAN DIAGRAMS [10.2
 
@@ -10540,7 +10458,6 @@ directed (k
 
 be summed in a similar fashion.
 
---- Page 195 ---
 
 2) DYSON’S EQUATION AND LADDER APPROXIMATIONS 179
 
@@ -10652,7 +10569,6 @@ energy parts:
 
 t ; Fo (10.
 
---- Page 196 ---
 
 180 A GUIDE TO FEYNMAN DIAGRAMS [10.2
 
@@ -10774,7 +10690,6 @@ By analogy with the argument around (4.
 
 73), Σ(k,ω) is a generalized
 
---- Page 198 ---
 
 182 A GUIDE TO FEYNMAN DIAGRAMS [10.2]
 
@@ -10832,7 +10747,6 @@ value of each diagram is then the algebraic product of the values of its parts
 
 or
 
---- Page 199 ---
 
 3] DYSON'S EQUATION AND LADDER APPROXIMATIONS 183
 
@@ -10948,7 +10862,6 @@ tive way to the case of nuclear matter (see §12.
 
 4), where a/r₀~4, provided
 
---- Page 200 ---
 
 184 A GUIDE TO FEYNMAN DIAGRAMS (10.3)
 
@@ -11048,7 +10961,6 @@ or
 
 (10.
 
---- Page 201 ---
 
 4) DYSON'S EQUATION AND LADDER APPROXIMATIONS 185
 
@@ -11184,7 +11096,6 @@ points of maximum density form a body-centred cubic lattice called the
 
 Wigner lattice.
 
---- Page 202 ---
 
 186 A GUIDE TO FEYNMAN DIAGRAMS (10.4)
 
@@ -11230,7 +11141,6 @@ Fig.
 
 q,x)
 
---- Page 214 ---
 
 198 A GUIDE TO FEYNMAN DIAGRAMS 10.7
 
@@ -11272,7 +11182,6 @@ Substituting this in (10.
 
 x= +1→0, and integrating over ω, yields:
 
---- Page 215 ---
 
 7] DYSON’S EQUATION AND LADDER APPROXIMATIONS 199
 
@@ -11310,7 +11219,6 @@ function θ, and applying (3.
 
 76), we find for the real and imaginary parts
 
---- Page 216 ---
 
 200 A GUIDE TO FEYNMAN DIAGRAMS [10.7
 
@@ -11398,7 +11306,6 @@ Schweber (1961), pp.57 ff.
 
 — basic definitions.
 
---- Page 217 ---
 
 7] DYSON’S EQUATION AND LADDER APPROXIMATIONS 201
 
@@ -11530,7 +11437,6 @@ i.e., contribution from particle
 
 lines much greater than that from hole lines.
 
---- Page 218 ---
 
 202 A GUIDE TO FEYNMAN DIAGRAMS [10.7
 
@@ -11564,7 +11470,6 @@ q>2 (q in units of kF).
 
 What is dΠ(q,0)/dq at q=2?
 
---- Page 219 ---
 
 # Chapter 11
 
@@ -11630,7 +11535,6 @@ exact propagator in the first diagram
 
 thus:
 
---- Page 220 ---
 
 204 A GUIDE TO FEYNMAN DIAGRAMS [11.1]
 
@@ -12190,7 +12094,6 @@ n_k is the expectation value of
 
 Naive Guess at Form of Momentum Distribution Function in Interacting Fermi System]
 
---- Page 226 ---
 
 210 A GUIDE TO FEYNMAN DIAGRAMS 11.3
 
@@ -12308,7 +12211,6 @@ are nearly independent—see last paragraph in §8.
 
 True Momentum Distribution Function in Interacting Fermi System]
 
---- Page 227 ---
 
 4] PERTURBATION THEORY AND THE FERMI SURFACE 213
 
@@ -12374,7 +12276,6 @@ If we define the sum of all irreducible vertex parts by
 
 [Diagram placeholder]
 
---- Page 228 ---
 
 212 A GUIDE TO FEYNMAN DIAGRAMS 11.4
 
@@ -12864,7 +12765,6 @@ The correlation energy is then just the sum over all orders
 
 (12.
 
---- Page 238 ---
 
 222 A GUIDE TO FEYNMAN DIAGRAMS (12.4)
 
@@ -12964,7 +12864,6 @@ then the mean
 
 separation of two nucleons is cm or about three times the hard
 
---- Page 239 ---
 
 4) GROUND STATE ENERGY 223
 
@@ -13026,7 +12925,6 @@ these graphs is
 
 (12.
 
---- Page 240 ---
 
 224 A GUIDE TO FEYNMAN DIAGRAMS (12.4)
 
@@ -13080,7 +12978,6 @@ found that
 
 (12.
 
---- Page 241 ---
 
 4] GROUND STATE ENERGY 225
 
@@ -13168,7 +13065,6 @@ by the new interaction diagram
 
 (12.
 
---- Page 242 ---
 
 226 A GUIDE TO FEYNMAN DIAGRAMS (12.4)
 
@@ -13226,7 +13122,6 @@ Brout (1963).
 
 # 12.4 Verify (12.42).
 
---- Page 243 ---
 
 # Chapter 13
 
@@ -13346,7 +13241,6 @@ and acquire a renormalized frequency dispersion
 
 law and a finite lifetime.
 
---- Page 244 ---
 
 228 A GUIDE TO FEYNMAN DIAGRAMS (13.2)
 
@@ -13510,7 +13404,6 @@ if t4 > t2 > t3 > t1
 
 where the diagrams represent the sum over all time-ordered contributions.
 
---- Page 246 ---
 
 230 A GUIDE TO FEYNMAN DIAGRAMS (13.3)
 
@@ -13608,7 +13501,6 @@ This yields the ‘density
 
 fluctuation propagator’ (which is a special case of the particle-hole propagator)
 
---- Page 247 ---
 
 3] COLLECTIVE EXCITATIONS 231
 
@@ -13702,7 +13594,6 @@ This is just the series of ‘polarization parts’ (see (10.
 
 is called the ‘polarization propagator’.
 
---- Page 248 ---
 
 232 A GUIDE TO FEYNMAN DIAGRAMS 13.4
 
@@ -14084,7 +13975,6 @@ R(t) = ⟨D_0| U(t)|D_0⟩ e^{iW^t}.
 
 (14.
 
---- Page 264 ---
 
 248 A GUIDE TO FEYNMAN DIAGRAMS (14.4)
 
@@ -14168,7 +14058,6 @@ Ow O~d
 
 (14.
 
---- Page 265 ---
 
 14,5] FERMI SYSTEMS AT FINITE TEMPERATURE 249
 
@@ -14254,7 +14143,6 @@ W, + Ww,
 
 (14.
 
---- Page 266 ---
 
 250 A GUIDE TO FEYNMAN DIAGRAMS 4.5
 
@@ -14328,7 +14216,6 @@ Fig.
 
 2 Contours used in the Finite Temperature Calculation
 
---- Page 267 ---
 
 5] FERMI SYSTEMS AT FINITE TEMPERATURE 251
 
@@ -14432,7 +14319,6 @@ experiments are done at real frequencies
 
 we want the real frequency version of
 
---- Page 268 ---
 
 252 A GUIDE TO FEYNMAN DIAGRAMS 14.5
 
@@ -14566,7 +14452,6 @@ Parry (1964)
 
 Kadanoff (1962).
 
---- Page 269 ---
 
 5] FERMI SYSTEMS AT FINITE TEMPERATURE 253
 
@@ -14666,7 +14551,6 @@ superconductivity.
 
 This means that in first approximation we can neglect
 
---- Page 274 ---
 
 258 A GUIDE TO FEYNMAN DIAGRAMS [15.3
 
@@ -14802,7 +14686,6 @@ renormalized by interaction with
 
 electrons (appendix J).
 
---- Page 275 ---
 
 3} DIAGRAM METHODS IN SUPERCONDUCTIVITY 259
 
@@ -14960,7 +14843,6 @@ which have non-vanishing matrix elements between two |N_1
 
 ⟩ are
 
---- Page 276 ---
 
 260 A GUIDE TO FEYNMAN DIAGRAMS [15.3
 
@@ -15070,7 +14952,6 @@ In the ‘superconducting’ case we have by (15.
 
 0, 1⟩ (15.
 
---- Page 277 ---
 
 3] DIAGRAM METHODS IN SUPERCONDUCTIVITY 261
 
@@ -15158,7 +15039,6 @@ if there were only two pair states
 
 then:
 
---- Page 278 ---
 
 262 A GUIDE TO FEYNMAN DIAGRAMS [15.3
 
@@ -15266,7 +15146,6 @@ E_g = E_normal−2N(0) (ℏω)exp|−1/N(0)V| (15.
 
 Thus the energy is lowered by the attractive interaction.
 
---- Page 279 ---
 
 3] DIAGRAM METHODS IN SUPERCONDUCTIVITY 263
 
@@ -15410,7 +15289,6 @@ since below K_F removal of an electron with εₖ <0
 
 adds energy to the system.
 
---- Page 280 ---
 
 264 A GUIDE TO FEYNMAN DIAGRAMS [15.4
 
@@ -15498,7 +15376,6 @@ momenta equal in magnitude but opposite in direction (i.
 
 e, a Cooper pair)
 
---- Page 281 ---
 
 4] DIAGRAM METHODS IN SUPERCONDUCTIVITY 265
 
@@ -15606,7 +15483,6 @@ infinitely large superconductor—see Mattuck and Johansson (1968)
 
 Appendix D.
 
---- Page 282 ---
 
 266 A GUIDE TO FEYNMAN DIAGRAMS [15.4
 
@@ -15758,7 +15634,6 @@ down.
 
 chapter 17.
 
---- Page 283 ---
 
 5] DIAGRAM METHODS IN SUPERCONDUCTIVITY 267
 
@@ -15852,7 +15727,6 @@ function was paired (15.
 
 If this assumption could somehow be squeezed
 
---- Page 284 ---
 
 268 A GUIDE TO FEYNMAN DIAGRAMS [15.5
 
@@ -15978,7 +15852,6 @@ c_k^† = ( c_{k↑}^†
 
 c_{-k↓} ) (15.
 
---- Page 285 ---
 
 5] DIAGRAM METHODS IN SUPERCONDUCTIVITY 269
 
@@ -16080,7 +15953,6 @@ G = G^0 + G^0 Σ G
 
 (15.
 
---- Page 286 ---
 
 270 A GUIDE TO FEYNMAN DIAGRAMS [15.5
 
@@ -16154,7 +16026,6 @@ G( □ (′.
 
 l】]'一氨′('|'】--亘(_(，(量′) (15.
 
---- Page 287 ---
 
 6] DIAGRAM METHODS IN SUPERCONDUCTIVITY 271
 
@@ -16312,7 +16183,6 @@ combined Coulomb Frohlich
 
 interaction interaction interaction
 
---- Page 288 ---
 
 272 A GUIDE TO FEYNMAN DIAGRAMS (15.7
 
@@ -16436,7 +16306,6 @@ A
 
 (15.
 
---- Page 289 ---
 
 7] DIAGRAM METHODS IN SUPERCONDUCTIVITY 273
 
@@ -16560,7 +16429,6 @@ equal to the quasi-electron Hamiltonian (15.
 
 formalism.
 
---- Page 290 ---
 
 274 A GUIDE TO FEYNMAN DIAGRAMS (15.7
 
@@ -16640,7 +16508,6 @@ non-interacting) state.
 
 (Take t=0*.
 
---- Page 291 ---
 
 # Chapter 16
 
@@ -16732,7 +16599,6 @@ given by
 
 O(8) = ettHote tht, (16.
 
---- Page 301 ---
 
 6] PHONONS FROM A MANY-BODY VIEWPOINT 285
 
@@ -16808,7 +16674,6 @@ k>0
 
 * Gap Gao
 
---- Page 302 ---
 
 286 A GUIDE TO FEYNMAN DIAGRAMS 06.6
 
@@ -16862,7 +16727,6 @@ The author wishes to thank Prof. H.
 
 Hajgaard Jensen for the many stimulating conversations which motivated this work and for his careful reading and criticism of the manuscript.
 
---- Page 303 ---
 
 # Chapter 17
 
@@ -16944,7 +16808,6 @@ spontaneously start to line up parallel to one another.
 
 This emergence of long-range order marks the transition to the ferromagnetic state.
 
---- Page 304 ---
 
 288 A GUIDE TO FEYNMAN DIAGRAMS 17.1
 
@@ -17020,7 +16883,6 @@ M= haKS〉2
 
 Niel 万〈S2 (17.
 
---- Page 305 ---
 
 1] PHASE TRANSITIONS IN FERMI SYSTEMS 289
 
@@ -17116,7 +16978,6 @@ the coupling constant A for the interaction between particles).
 
 # A single fermion
 
---- Page 306 ---
 
 290 A GUIDE TO FEYNMAN DIAGRAMS (17.1
 
@@ -17128,7 +16989,6 @@ Fig.
 
 (b) ‘Condensed’ Phase
 
---- Page 307 ---
 
 2) PHASE TRANSITIONS IN FERMI SYSTEMS 291
 
@@ -17226,7 +17086,6 @@ assume the temperature is zero.
 
 If we look at some arbitrary spin—‘spin A’—we see that another
 
---- Page 308 ---
 
 292 A GUIDE TO FEYNMAN DIAGRAMS [17.2
 
@@ -17314,7 +17173,6 @@ is a function of O
 
 F = F_r(O) (17.
 
---- Page 309 ---
 
 3) PHASE TRANSITIONS IN FERMI SYSTEMS 293
 
@@ -17430,7 +17288,6 @@ Hence the normal expansion is invalid in the ferromagnetic case
 
 because it does not include the anomalous spin-flip processes which are
 
---- Page 310 ---
 
 294 A GUIDE TO FEYNMAN DIAGRAMS (17.3)
 
@@ -17562,7 +17419,6 @@ In Table 17.
 
 propagator listed there is also a Hermitian conjugate which has been omitted).
 
---- Page 311 ---
 
 3) PHASE TRANSITIONS IN FERMI SYSTEMS 295
 
@@ -17650,7 +17506,6 @@ showing how in (17.
 
 4) acts as an anomalous propagator.
 
---- Page 312 ---
 
 296 A GUIDE TO FEYNMAN DIAGRAMS (17.4)
 
@@ -17772,7 +17627,6 @@ case §15.
 
 MJ §6.
 
---- Page 313 ---
 
 4) PHASE TRANSITIONS IN FERMI SYSTEMS 297
 
@@ -18118,7 +17972,6 @@ transitions
 
 the simplest way to do this is to start in the normal phase and
 
---- Page 319 ---
 
 6] PHASE TRANSITIONS IN FERMI SYSTEMS 303
 
@@ -18222,7 +18075,6 @@ The magnetic susceptibility tensor and its Fourier transform are related to
 
 and its Fourier transform by
 
---- Page 320 ---
 
 304 A GUIDE TO FEYNMAN DIAGRAMS (17.6)
 
@@ -18328,7 +18180,6 @@ which is exactly the result for the transition point in (17.
 
 36).
 
---- Page 322 ---
 
 306 A GUIDE TO FEYNMAN DIAGRAMS [17.6
 
@@ -18410,7 +18261,6 @@ and eliminating we find that the temperature for which diverges is
 
 given by
 
---- Page 323 ---
 
 6] PHASE TRANSITIONS IN FERMI SYSTEMS 307
 
@@ -18694,7 +18544,6 @@ where
 
 H = T(R) + H(r)
 
---- Page 357 ---
 
 # APPENDICES 341
 
@@ -18786,7 +18635,6 @@ calculation, the result:
 
 H = Σq ħωq (aq*aq + ½) (9.
 
---- Page 358 ---
 
 342 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -18888,7 +18736,6 @@ it may be shown (see above reference) that if we let ψ0 be
 
 the lowest-energy eigenfunction of H then all the other eigenfunctions are
 
---- Page 359 ---
 
 # APPENDICES 343
 
@@ -18994,7 +18841,6 @@ it as a set of nq quanta each having energy ħωq
 
 together with a ground state
 
---- Page 360 ---
 
 344 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -19158,7 +19004,6 @@ number operators for the elementary excitations.
 
 ‘dispersion law’ or ‘excitation spectrum’).
 
---- Page 361 ---
 
 # APPENDICES 345
 
@@ -19288,7 +19133,6 @@ space method.
 
 but Dirac’s formulation has the
 
---- Page 362 ---
 
 346 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -19442,7 +19286,6 @@ A·B = |A||B|cos θ_AB = c
 
 = a number or ‘scalar’.
 
---- Page 364 ---
 
 348 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -19612,7 +19455,6 @@ p); Example
 
 H = -ħ²∇²/2m + V(r).
 
---- Page 366 ---
 
 350 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -20452,7 +20294,6 @@ and evaluating this sum by the same technique gives
 
 F(1,2,3) = POLO +2“ 7) ee (N.
 
---- Page 413 ---
 
 # APPENDICES 397
 
@@ -20526,7 +20367,6 @@ directly from the original graph by drawing a dotted line cutting the graph into
 
 two pieces:
 
---- Page 414 ---
 
 398 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -20644,7 +20484,6 @@ z₂=5-4+3 becomes z₂=z₂+ 2 iδ
 
 etc. When this is done
 
---- Page 415 ---
 
 # APPENDICES 399
 
@@ -20700,7 +20539,6 @@ R(z+2iδ; 1,.
 
 +185 —-4+3—w) <a 厂 u 分
 
---- Page 416 ---
 
 400 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -20780,7 +20618,6 @@ integral over 3 and 4 in the first term of (N.
 
 17).
 
---- Page 417 ---
 
 # APPENDICES 401
 
@@ -20854,7 +20691,6 @@ with many particles
 
 entering and leaving.
 
---- Page 418 ---
 
 # Answers to Exercises
 
@@ -20896,7 +20732,6 @@ r) = c+ c2[P(r)+P(0)]+ c3[P(r2)+P(r)P(0)+P(0)P(r)+P(02)]+c4.
 
 # 2.4 P(r1;r) = meso
 
---- Page 419 ---
 
 # ANSWERS TO EXERCISES 403
 
@@ -20978,7 +20813,6 @@ dp dq
 
 iosaey (% y B 丿 G GSO) n Way Wire Wop Bae
 
---- Page 420 ---
 
 404 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -21042,7 +20876,6 @@ The result then follows immediately.
 
 - 中 ( 闭东扬口
 
---- Page 421 ---
 
 # ANSWERS TO EXERCISES 405
 
@@ -21156,7 +20989,6 @@ yeaa D cli cctigenn:
 
 mn
 
---- Page 422 ---
 
 406 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -21232,7 +21064,6 @@ k 志 f qe x 1Go(p, β)x iGlp+a, β +ε).
 
 # 9.9 Because they violate rule (2) in §9.6.
 
---- Page 423 ---
 
 # ANSWERS TO EXERCISES 407
 
@@ -21316,7 +21147,6 @@ w) = i | Go(p", ε”) Go(q—p”, w— ε”) u2-
 
 (c) 17(0,0) 2 (w—kr); 77(0,0) a?
 
---- Page 424 ---
 
 408 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -21412,7 +21242,6 @@ f dB=0 for di> and = +/ for ei< from which the result follows
 
 immediately.
 
---- Page 425 ---
 
 # ANSWERS TO EXERCISES 409
 
@@ -21452,7 +21281,6 @@ where 月二二 Vimim-
 
 # Chapter 13
 
---- Page 426 ---
 
 410 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -21514,7 +21342,6 @@ k, wn > > iDok—G, w,—€n)
 
 x( 一2
 
---- Page 427 ---
 
 # ANSWERS TO EXERCISES 411
 
@@ -21600,7 +21427,6 @@ ImhV(@
 
 - 顶 ^/ '二′青 My, u]+ 殆 Y 石矶 [&o Ue.
 
---- Page 428 ---
 
 412 A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -21674,7 +21500,6 @@ H3闹
 
 , f (build-up) 二2m*L7/h
 
---- Page 429 ---
 
 # ANSWERS TO EXERCISES 413
 
@@ -21834,7 +21659,6 @@ McGraw‑Hill
 
 New York (1965).
 
---- Page 431 ---
 
 (C)
 
@@ -22060,7 +21884,6 @@ in The Many‑Body Problem (Bergen School Lectures)
 
 Fronsdal, Benjamin, New York (1962).
 
---- Page 432 ---
 
 (1)
 
@@ -22280,7 +22103,6 @@ Hugenholtz, N.
 
 28, 201 (1965).
 
---- Page 433 ---
 
 (T)
 
@@ -22486,7 +22308,6 @@ Phys.
 
 science (1969).
 
---- Page 434 ---
 
 # A GUIDE TO FEYNMAN DIAGRAMS
 
@@ -22684,7 +22505,6 @@ Moment Systems, Ph.
 
 Thesis, Cornell University (1971).
 
---- Page 435 ---
 
 (7)
 
@@ -22920,7 +22740,6 @@ Many-Body Problem (Les Houches)
 
 Paris (1959).
 
---- Page 436 ---
 
 (T)
 
@@ -23148,7 +22967,6 @@ Lundqvist (Eds.
 
 Academic Press (1973).
 
---- Page 437 ---
 
 # REFERENCES 421
 
@@ -23210,7 +23028,6 @@ Ziman, J.
 
 (1962).
 
---- Page 438 ---
 
 # Index
 
@@ -23362,7 +23179,6 @@ destruction operator: see creation and
 
 destruction operators
 
---- Page 439 ---
 
 diagram dictionary for
 
@@ -23550,7 +23366,6 @@ effective mass of quasi particle, 4 ff.
 
 62, 63, 94, 99, 185, 192, 384
 
---- Page 440 ---
 
 # INDEX
 
@@ -23732,7 +23547,6 @@ at finite temperature, 247
 
 Heisenberg picture, 155
 
---- Page 441 ---
 
 Hilbert space, extended, 127
 
@@ -23900,7 +23714,6 @@ quasi particles in, 92, 183
 
 nuclear quanta, 1}
 
---- Page 442 ---
 
 # INDEX 427
 
@@ -24052,7 +23865,6 @@ micrometers, spectroscopes, more.
 
 (USO) 24034-7 Pa.
 
---- Page 453 ---
 
 # CATALOG OF DOVER BOOKS
 
@@ -24296,7 +24108,6 @@ Problems.
 
 65609-8 Pa.
 
---- Page 454 ---
 
 # CATALOG OF DOVER BOOKS
 
@@ -24546,7 +24357,6 @@ theories of elasticity and structure.
 
 $10.
 
---- Page 455 ---
 
 # CATALOG OF DOVER BOOKS
 
@@ -24818,7 +24628,6 @@ Appendices.
 
 $17.
 
---- Page 456 ---
 
 # CATALOG OF DOVER BOOKS
 
@@ -25082,7 +24891,6 @@ conditions containing parameters.
 
 64685-8 Pa.
 
---- Page 457 ---
 
 # CATALOG OF DOVER BOOKS
 
@@ -25314,7 +25122,6 @@ exer-cises
 
 63833-2 Pa.
 
---- Page 458 ---
 
 # CATALOG OF DOVER BOOKS
 
@@ -25568,7 +25375,6 @@ problems, most answered.
 
 20370-0 Pa.
 
---- Page 459 ---
 
 # CATALOG OF DOVER BOOKS
 

@@ -40,21 +40,21 @@
 
 如果说，求真与审美，是这套丛书难以评估的价值，那么，极端的智慧与极致的想象，则是这套丛书无法穷尽的魅力！谨以此书纪念约翰·贝尔——20世纪后半叶杰出的量子理论家。他的著作、演讲和个人通信启发了我们。弄清楚事情的因果关系不是很好吗，即便这在实用上不是必要例如，假设量子力学被发现不遵从精确的形式体系，假设这种形式体系超越了实用目的，我们发现有一种挥之不去的力量坚定地指向主题之外，引向观察者的心灵，引向佛经圣典，引向上帝，甚至唯一的引力，这难道不是非常有趣么？——约翰·贝尔致谢在本书成文期间，我们从那些阅读过本书零星篇章的初稿和修改稿的同事所提出的建议、批评和更正当中获益良多。我们衷心感谢
 
-# Leonard Anderson
+Leonard Anderson
 
-# Phyllis Arozena
+Phyllis Arozena
 
-# Donald Coyne
+Donald Coyne
 
-# Reay Dick
+Reay Dick
 
-# Carlos Figueroa
+Carlos Figueroa
 
-# Freda Hedges
+Freda Hedges
 
-# Nick Herbert
+Nick Herbert
 
-# Alex Moraru
+Alex Moraru
 
 Andrew Neher和Topsy Smalley给予的帮助。我们热诚感谢本书前一版的编辑Michael Penn给予的颇具眼光的忠告和支持，感谢本版编辑Phyllis Cohen提出的真知灼见、她的持续支持和对本书进一步完善所给予的鼓励。我们感谢本书出版编辑
 
@@ -298,7 +298,7 @@ F=Ma。这就是牛顿的运动普适定律。但是在牛顿所处的时代，�
 
 1　迈克尔·拉缪斯作品（1991年）。版权所有：American Institute of
 
-# Physics
+Physics
 
 我们常常说到电子、原子和其他微观对象的行为，就好像我们直接观察到它们，就好像它们像小的绿宝石那样是一种实际存在。如，我们可能会说：“α粒子受到金原子核反弹。”）但实际上我们需要考虑的只是实验室仪器的响应。1932年，即玻尔提出哥本哈根解释的短短几年后，约翰·冯·诺伊曼提出了一种严格的处理，它也被称为哥本哈根解释。诺伊曼认为，如果量子力学如所声称的那样是普遍适用的，那么它最终将不可避免地遇到意识问题。然而，冯·诺伊曼论证道，从任何实用角度看，我们可以经典地考虑宏观仪器。这种解释强调：玻尔的微观和宏观的分离只是一种绝好的近似。我们在第17章里再去详细讨论冯·诺伊曼的结论。它警告说，无论何时，只要我们提到“观察”，就总潜伏着意识问题。希望避开哲学问题的大多数物理学家欣然接受了玻尔的哥本哈根稍后我们将看到，物理学家偶尔也会偏离这种思辨的航道，但是一旦我们从事实际的物理研究或物理教学，便回到神奇的哥本哈根解释上来。随着技术上不断突破经典和量子领域之间模糊不清的疆界，当今的物理学家对于原子的实在性表现出更多的不安。因此，我们将审慎研究哥本哈根解释，这也是前沿物理学家所默许的立场。怎样的哥本哈根解释才是可接受的虽然我们在第8章中将物理学的难言之隐以故事的形式提了出来，但这种实验的真实版本在任何时候都可以进行。我们甚至可以用讲座示范的方式（用光子或电子）来显示这些矛盾的结果。图10.
 
@@ -340,7 +340,7 @@ F=Ma。这就是牛顿的运动普适定律。但是在牛顿所处的时代，�
 
 2　阿隆·德雷克画的薛定谔的狗（2000年）。版权所有：American
 
-# Institute of Physics
+Institute of Physics
 
 虽然量子力学的神秘特征在物理课上仍然很难讨论，但学生的兴趣在增加。最畅销的量子力学教科书拿活猫做封面，拿死猫做封底
 
@@ -744,65 +744,65 @@ Curl）于1985年率先发三人因此荣获了1996年度诺贝尔化学奖。C6
 
 霍金关注黑洞以来出现的最有激情的思想……格林用人人都懂的语言解释了弦。《旧金山纪事报》格林做了件了不起的事情，用生活的语言解释了弦理论的思想。它明白如话地说明了那个理论对时空结构的非凡洞察。《新科学家》一本出类拔萃的书。格林为我们多彩的生活带来了一片引人入胜的天地。《自然》布莱恩·格林的杰作，是霍金弹起的旋律中的最后（可惜！个音符，最美的一个！《伦敦晨星报》非专业的语言，没有一点儿数学，多得惊人的材料……格林清晰简明地写了一部现代科学探险……恐怕没有哪个读者不会被他的激情和兴奋所感动。《费城调查者报》太吸引人了……一部辉煌的作品……没有一个方程，人人都能看懂，格林写的谈弦的书，解释了为什么弦会在献身者们中间激起那么大的激情……它让我们能在家中感觉那个抽象得吓人的弦世界，使我们认识到应该认真地看待它。《星期日电讯报（伦敦）》格林在用知识、智慧和惊人的鉴别能力写作。Alan Lightman（《爱因斯坦之梦》作者），《哈佛杂志》他的比喻常常使那些原本艰深的概念变得美妙而活泼。《宇宙的琴弦》是一本值得一读的书……爱因斯坦也会满意的。《发现》杂志布莱恩·格林让复杂可怕的弦理论走近了每一个人。他凭着惊人的天才，用寻常的语言描绘了可怜的人类感觉以外的维度里可能发生着的事情。《出版者周刊》自《时间简史》的空前成功以来，还没有一本科学读物引起如此的轰动。《星期日时报（伦敦）》布莱恩·格林以他动人的文字把外行的人们带到了物理学的前《基督教科学箴言报》一篇来自宇宙学和物理学前沿的（没有方程的）精彩报道。《美国科学家》格林善于阐释最富挑战的科学思想，他的充满洞察的解释会令每一个人耳目一新。《天文学杂志》《宇宙的琴弦》已成为科学解释的经典巨著……弦理论将最终影响我们对美本身的认识。《纽约时报》格林把弦理论带给了广大的读者，揭示了它的含义。那是他穿行在现代物理学的历史和复杂里创造的业绩。《科学新闻》# 序爱因斯坦在生命的最后30年里一直在寻找所谓的统一场论——一个能在单独的包罗万象的协和的框架下描绘自然力的理论。激励爱因斯坦的不是我们常想的那些与科学事业相关的东西，例如，为了解释这样或那样的实验数据。实际上，驱使他的是一种热忱的信念：对宇宙的最深刻认识将揭示一个最大的宇宙奇迹，那就是，它所依赖的基本原理是那么简单而有力。爱因斯坦渴望以前所未有的清晰来表现宇宙的活动，让每一个人都敬畏它那美妙动人的旋律。爱因斯坦从未实现他的梦，主要原因是那底牌还没看清楚：那时，自然力和物质的许多基本特征我们还不知道，或者知之甚少。在过去的半个世纪，每一代新生物理学家——经历无数的曲折，走过数不清的死胡同——都不断在前辈的基础上添砖加瓦，构筑起越来越完整的宇宙行为知识体系。当年，爱因斯坦满怀热情追求统一理论，却空手归来；如今，物理学家相信他们终于发现了一个框架，能把这些知识缝合成一个无缝的整体——一个单一的理论，一个原则上能描述一切现象的理论，这就是超弦理论，我们这本书的主题。我写《宇宙的琴弦》，是为了把物理学研究前沿的惊人发现带给广大的读者，特别是那些没有经过数学和物理学训练的人。在过去的几年里，我开过一些超弦理论的普及演讲，发现很多人都渴望了解当代研究说了哪些关于宇宙定律的东西，那些定律如何要求重建一个不朽的宇宙概念，在对终极理论追求的背后，藏着哪些挑战。这本书解释了爱因斯坦、海森伯以来的主要物理学成就，描述了那些发现是如何在我们时代的科学突破中四处开花结果的，我希望这能丰富读者的知识和满足读者的好奇心。我也希望《宇宙的琴弦》能令那些有一定科学修养的读者感兴趣，对自然科学的学生和老师来说，我希望这本书不但能具体提供一些现代物理学的基本材料，如狭义相对论、广义相对论和量子力学；同时也能把从四面八方走来寻求统一理论的研究者们兴奋和激动之情传给大家。对于热心的科普读者，我向他们解释了近10年来我们在认识宇宙的过程中获得的振奋人心的进展；对于其他学科领域的同事，我希望这本书能给他们一种忠实而平静的感觉，使人了解为什么弦理论家会那么津津乐道追求终极自然理论的那么一点点进步。超弦理论撒开了一张大网。它是一个深广的主题，融合着许多重要的物理学发现。这个理论统一了大与小的定律，大到统领宇宙的尽头，小到深入物质的核心。我们能通过许多不同的道路走近它。择的是我们不断演化着的空间和时间的认识，我认为这是一条特别扣人心弦的发展道路，它扫荡旧观念，引来了许多迷人的新发现。斯坦向世界证明空间和时间在以一种陌生的令人惊讶的方式活动着。如今，前沿的研究已经通过许多卷缩在宇宙纤维里的隐藏维度把他的发现综合进量子宇宙——那些维度的复杂几何很可能是打开某些空前幽深的问题的钥匙。我们将看到，尽管有些概念令人难以捉摸，但还是可以通过实际的类比来把握它们。理解了这些思想，一个惊人的革命性的宇宙图景将展现在面前。贯穿全书，我都紧扣科学，同时也常常通过类比和比喻，让读者对科学家如何形成当今的宇宙概念有一个直观的认识。尽管我避开了专业术语和数学方程，但因为涉及的新概念太多，为了能完全跟上概念的发展，读者可能还得不时停下来，想想这儿，想想那儿。分的几章（集中谈最新进展）比其他部分更抽象；我会小心地先警告读者，内容结构也经过了适当安排，以便读者可以匆匆浏览或者跳过它们，而不会对全书的逻辑有太大的影响。为便于读者记住正文里引进的概念，我编了一个科学名词解释。当然，马虎的读者可能会完全跳过书后的注释，但认真的读者会在注释中看到正文的一些观点被扩充了，简化的思想也更清晰了，经过数学训练的人还能在那儿发现一些更富专业情趣的东西。我在写这本书的过程中得到过许多人的帮助，我要感谢他们。David Steinhardt 以极大的耐心阅读了原稿，以编辑的眼光慷慨地提出了很好的建议，并给了我极大的鼓励。David Morrison, Ken
 
-# Vineberg
+Vineberg
 
-# Raphael Kasper
+Raphael Kasper
 
-# Nicholas Boles
+Nicholas Boles
 
-# Steven Carlip
+Steven Carlip
 
-# Arthur Greenspoon
+Arthur Greenspoon
 
-# David Mermin
+David Mermin
 
 Michael Popowits和Shani
 
 Offen认真读了原稿，具体谈了读后的感觉，提出了令本书大为增色的另外还有不少朋友也读过全部原稿，并提出了建议和鼓励，他们是Paul Aspinwall
 
-# Persis Drell
+Persis Drell
 
-# Michael Duff
+Michael Duff
 
-# Kurt
+Kurt
 
-# Gottfried
+Gottfried
 
-# Joshua Greene
+Joshua Greene
 
-# Teddy Jefferson
+Teddy Jefferson
 
-# Marc Kamionkowski
+Marc Kamionkowski
 
-# Yakov Kanter
+Yakov Kanter
 
-# Andras Kovacs
+Andras Kovacs
 
-# David Lee
+David Lee
 
-# Megan McEwen
+Megan McEwen
 
-# Nari
+Nari
 
-# Mistry
+Mistry
 
-# Hasan Padamsee
+Hasan Padamsee
 
-# Ronen Plesser
+Ronen Plesser
 
-# Massimo Poratti
+Massimo Poratti
 
-# Fred
+Fred
 
-# Sherry
+Sherry
 
-# Lars Straeter
+Lars Straeter
 
-# Steven Strogatz
+Steven Strogatz
 
-# Andrew Strominger
+Andrew Strominger
 
-# Henry Tye
+Henry Tye
 
 Cumrun Vafa和Gabriele Veneziano。我要特别感谢
 
@@ -810,49 +810,49 @@ Raphael Gunner，他在本书写作初期曾提出过很有远见的批评，使
 
 Sidney Coleman也给了我重要的指导和帮助。我很高兴与下列朋友进行过有益的交流
 
-# Carol Archer
+Carol Archer
 
-# Vicky Cassel
+Vicky Cassel
 
-# Anne Coyle
+Anne Coyle
 
-# Michael Duncan
+Michael Duncan
 
-# Jane Forman
+Jane Forman
 
-# Wendy Greene
+Wendy Greene
 
-# Erik Jendresen
+Erik Jendresen
 
-# Gary Kass
+Gary Kass
 
-# Shiva Kumar
+Shiva Kumar
 
-# Robert Mawhinney
+Robert Mawhinney
 
-# Pam Morehouse
+Pam Morehouse
 
-# Pierre Ramond
+Pierre Ramond
 
 Amanda Salles和Eero Simoncelli。我感谢Costas
 
 Efthimiou帮我核对事实，寻找资料，还把我的说明正文的草图绘成线条图，而Tom Rockwell 又凭他神圣的艺术家的眼光将那些图重新创作我也感谢Andrew Hanson和Jim Sethna，他们曾帮助我准备几幅特殊的图件。感谢Howard Georgi
 
-# Sheldon Glashow
+Sheldon Glashow
 
-# Michael Green
+Michael Green
 
-# John
+John
 
-# Schwarz
+Schwarz
 
-# John Wheeler
+John Wheeler
 
-# Edward Witten
+Edward Witten
 
 当然还有Andrew
 
-# Strominger
+Strominger
 
 Cumrun Vafa和Gabriele Veneziano
 
@@ -1574,7 +1574,7 @@ Line）的，为压抑在直线上的人们带来一线希望。也许因为灵�
 
 九维空间和一维时间——的计算后来证明是近似的。20世纪90年代中，惠藤根据他本人的发现和前人的一些结果（得克萨斯A&M大学的
 
-# Michael Daff
+Michael Daff
 
 剑桥大学的Chris Hull和Paul Townsend）提出了令人信服的证据，说明近似计算实际上丢失了一个空间维。他的结论令多数弦理论家大吃一惊：弦理论实际需要十一维，十维的空间和一维的时间。我们到第12章才讨论这个重要结论，现在忽略它不会给以下的讨论带来什么影响。第二，如果弦理论的方程（应该说近似方程；在第12章以前我们都在这个近似方程下讨论）证明宇宙有9个空间维和1个时间维，为什么其中的3个空间维（和那个时间维）是大的展开的维，而其余6个维是小的卷缩的呢？为什么它们不都展开或者卷缩？为什么不会是其他可能的情形呢？目前没人知道答案。如果弦理论是对的，我们总会找出答案的，可我们对理论的认识，还不够深入，还回答不了这些问当然，这并不是说没人勇敢地尝试过回答它们。例如，从宇宙学的观点看，我们可以想象所有的维原来都是紧紧卷缩着的，然后，3个空间维和1个时间维在大爆炸中展开，一直膨胀到今天的尺度；的空间维仍然卷缩在一起。至于为什么只展开了3维，我们也有大概的说法，将在第14章讨论。不过，实在说来，这些解释还只是略具雏在后面的讨论中，我们假定除了3个以外，别的空间维都是卷缩的，这是为了符合我们看到的周围世界。现代研究的一个基本目标就是确立这种假设来自理论本身。第三，弦理论需要那么多额外的维，其中会不会有更多的时间维那样不正好与多维的空间对应吗？用心想一想，你会发现那才真是令人困惑的事情。关于多维空间，我们总还有些认识，因为我们生活的世界一直都在与三维打交道。但多维时间意味着什么呢？个时间跟我们寻常感觉和经历的时间相同，而另外的时间却多少有些
 
@@ -2394,7 +2394,7 @@ Disk”（爱因斯坦与刚性转盘）。[3] 专业的读者会发现，在转
 
 Pais, Subtle is the Lord（New York
 
-# Oxford University Press
+Oxford University Press
 
 1982），253。# 第4章
 
@@ -2456,13 +2456,13 @@ Volkov,
 
 Sorota，等等。他们的一些工作编辑在Rosanne Di Stefano
 
-# Notes on the
+Notes on the
 
-# Conceptual Development of Supersymmetry
+Conceptual Development of Supersymmetry
 
-# Institute for Theortical
+Institute for Theortical
 
-# Physics
+Physics
 
 State University of New York at Stony Brook
 
@@ -2576,7 +2576,7 @@ symmetry）表面上完全不同的两个或多个理论能得出完全相同的
 
 doughnut）面包圈（环）的推广，有多个孔或柄。多维孔洞（Multidimensional hole）面包圈在高维情形的推广。多重宇宙（Multiverse）假想的扩大的宇宙，我们的宇宙不过是无数独立的不同宇宙中的一个。二维球面（Two-dimensional sphere）见球面。翻转变换（Flop transition）空间卡—丘形态的演化形式。在演化中破裂，然后自我修复，而产生的结果在弦理论背景下则是温和的、可以接受的。反粒子（Antiparticle）反物质的粒子。反物质（Antimatter）与寻常物质有相同的引力性质，但有相反的电荷和相反的核力荷。非微扰的（Nonperturbative）有效性独立于近似的、微扰的计算的理论所具有的特征；是理论的一种精确特性。费曼路径求和（Feynman sum-over-paths）一种量子力学思维形式，假想粒子从一点运动到另一点要经过两点间所有可能的路径。费米子（Fermion）一种粒子或弦振动模式，具有半奇数的自旋，一般为物质粒子。辐射（Radiation）波或粒子携带的能量。干涉模式（Interference pattern）来自不同位置的波因为相互叠加而形成的波动图样。高维超引力（High-dimensional supergravity）高于4维的超引力理论。共振（Resonance）物理系统振动的一种自然状态。观测者（Observer）理想化的（通常是假想的）测量相关物理性质的人或仪器。光电效应（Photoelectric effect）电子在光照下从金属表面逸出的现象。光滑，光滑空间（Smooth, Smooth space）空间结构平直或微弱弯曲的特殊区域，没有褶皱、破裂或任何类型的裂痕。光子（Photon）电磁力场的最小单元，电磁力的信使粒子，最小的一束光。光子钟（Light clock）通过记数一个光子在两个镜面间往返的次数来测量时间流逝的一种假想时钟。广义相对论（General relativity）爱因斯坦建立的引力理论，证明了空间和时间通过它们的弯曲传递引力。规范对称（Gauge symmetry）引力以外的3种力的量子力学图景所依据的对称性原理。它包括物理系统在电荷、位置（空间）和时间改变下的一些不变性。核（Nucleus）原子的中心，由质子和中子组成。荷（Charge）见力荷。黑洞（Black hole）理论预言的天体的最后归宿，巨大的引力场将一切事物（包括光）紧紧捕获在一个极小的空间里（由它的事件视界所包围的空间）。黑洞熵（Black-hole entropy）黑洞内部所表现的熵。宏观（Macroscopic）指寻常经历的典型的较大尺度，与微观相环（Torus）面包圈的2维表面。积（Product）两个数相乘的结果。极端黑洞（Extremal black hole）具有一定质量下的最大可能力荷的黑洞。加速度（Acceleration）物体速度大小或方向的改变量，参见速胶子（Gluon）强力场的最小作用单元，强力的信使粒子。镜像对称性（Mirror symmetry）弦理论背景下的一种对称性，互为镜像的两个卡—丘空间，在选择为弦理论的卷缩维的几何形式时，将生成相同的物理。卷缩维（Curled-up dimension）没有大的可观测延展的空间维；挤压、卷曲在微小的空间区域，因而不能直接探测。绝对零度（Absolute zero）自然界可能出现的最低温度，开尔文（Kelvin）温标的零度（0K），或约-273摄氏度（-273℃）。均匀振动（Uniform vibration）弦的整体运动，没有任何形变。卡拉比—丘（成桐）空间，卡拉比—丘（成桐）形态（Kalabi-
 
-# Yau space
+Yau space
 
 Kalabi-Yau shape）弦理论要求的多余空间维所能卷缩形成的空间（形态），与理论的方程相应。卡鲁扎—克莱茵理论（Kaluza-Klein theory）将多余卷缩维与量子力学结合在一起的一种理论。开尔文（Kelvin）以绝对零度为基准的一种热力学温标。开弦（Open string）弦的一种，有两个自由端。克莱茵—戈登方程（Kline-Golden equation）相对论量子场论的一个基本方程。夸克（Quark）受强力作用的粒子，有6种类型（上、下、粲、奇、顶、底）和3种“颜色”（红、绿、蓝）。快子（Tachyon）质量（平方）为负的粒子，它在理论中的出现通常会带来矛盾。拉普拉斯决定论（Laplacian determinism）宇宙像时钟那样运行，某一时刻宇宙的完整信息能够决定它在未来和过去任意时刻的状黎曼几何（Riemann geometry）描写任意维弯曲形态的数学框架，在爱因斯坦广义相对论的时空描述中起着关键作用。力荷（Force charge）粒子具有的对某种力的作用产生一定响应的性质。例如，粒子的电荷决定了它对电磁力的反应。粒子加速器（Particle accelerator）使粒子产生近光速并将其挤压在一起以探测物质结构的机器。粒子物理学标准模型（Standard model of particle physics）关于引力外的3种力及其与物质相互作用的高度成功的理论。是量子色动力学与弱电理论的强有力统一。粒子族（Families）物质粒子有组织地分成3组，每一组被称为一每一族粒子带有相同的电荷和核力荷，但后一族的粒子有更大的量子（Quanta）根据量子力学，物质可以分解成的最小物理单例如，光子是电磁场的量子。量子场论（Quantum field theory）见相对论量子场论。量子电动力学（Quantum electrodynamics
 
@@ -2600,7 +2600,7 @@ Perturbative method）见微扰论。微扰论（Perturbative theory）一种简
 
 “大”的理论体系。通常是超弦理论的简称。弦模式（String mode）弦可能表现的形式（如振动模式，缠绕形式等）。弦耦合常数（String coupling constant）一个（正）数着一根弦如何分裂为两根，或者两根弦如何结合成一根——弦理论的基本过程。每个弦理论都有自己的耦合常数，其值可以由方程来决不过，我们现在的方程还不足以得出任何有用的信息。耦合常数小于1意味着微扰论是有效的。相（Phase）用于物质时，指它可能的状态：固相、液相和气相。更一般地说，指一个物理系统在所依赖的某个性质（温度，弦耦合常数值，时空形式等）发生改变时所可能表现的图像。相变（Phase transition）物理系统从一个相到另一个相的转相对论量子场论（Relativistic quantum field theory）融合了狭义相对论的关于场（如电磁场）的量子力学理论。相对性原理（Principle of relativity）狭义相对论的中心原理，声称所有匀速运动的观测者都遵从相同的物理学定律，因每一个匀速运动的观测者都可以说自己是静止的。这个原理被推广为等效原信使粒子（Messenger particle）力场的最小作用单位，力的微观携带者。虚粒子（Virtual particles）从真空瞬时生成的粒子，根据不确定性原理，依靠借能量而存在，然后在瞬间湮灭，从而还回能量。薛定谔方程（Schr dinger equation）量子力学中决定概率波演化的方程。延展维（Extended dimension）大的能直接显现的空间（和时空）维，是我们熟悉的维，与卷缩维相对。引力（Gravitational force）自然界4种相互作用中最弱的那一种，曾经用牛顿的万有引力定律来描写，后来用爱因斯坦的广义相对论来描写。引力子（Graviton）引力场的最小作用单元，引力相互作用的信使粒子。宇宙微波背景辐射（Cosmic microwave background radiation）在大爆炸产生的随着宇宙膨胀而稀薄、冷却的充满宇宙的微波辐射。宇宙学常数（Cosmological constant）爱因斯坦为了满足静态宇宙而添加在他原来的广义相对论方程里的一个修正常数，可以解释为真空的常数能量密度。宇宙学的标准模型（Standard model of cosmology）大爆炸理论加上总结在粒子物理学标准模型的关于引力外的3种力的认识。原初核合成（Primordial nucleosynthesis）发生在大爆炸后最初3分钟时的原子核生成。原子（Atom）物质的基本构成要素，由原子核（包括质子和中子）和核外的一群绕核旋转的电子构成。杂化E弦理论（Heterotic-E string theory）即杂化E8 ×E8弦理论，5种超弦理论之一，其中的闭弦的右向振动与Ⅱ型弦的相同，而左向振动涉及玻色弦。与杂化O弦理论有重要而微妙的区别。杂化O弦理论（Heterotic-O string theory）即杂化O（32）弦理论，5种超弦理论之一，其中的闭弦的右向振动与Ⅱ型弦的相同，而左向振动涉及玻色弦。与杂化E弦理论有重要而微妙的区别。振动模式（Oscillatory pattern
 
-# Vibrational mode
+Vibrational mode
 
 Vibrational pattern）弦振动时准确的峰、谷数和振幅大小。振动数（Vibrational number）描写弦的均匀振动的能量的数；这个整体运动的能量不同于与形变相关的能量。振幅（Amplitude）波峰的最大高度或波谷的最大深度。质子（Proton）带正电荷的粒子，一般存在于原子核，由3个夸克组成（2个上夸克和1个下夸克）。中微子（Neutrino）电中性粒子，只服从弱作用。中子（Neutron）电中性粒子，通常出现在原子核中，由3个夸克组成（2个下夸克，1个上夸克）。锥形变换（Conifold transition）空间的卡—丘部分的一种演化形式，其结构先发生破裂，然后自我修复，但产生的物理结果在弦理论背景下是温和的、可以接受的。这里出现的破裂比翻转变换的更严自旋（Spin）我们所熟悉的同一名称的量子力学形式。粒子有一定量的内禀自旋，要么是整数，要么是半整数（以普朗克常量为单位），永不改变。Ⅰ型弦理论（Type I string theory）5种超弦理论的一种，包括开弦和闭弦。2膜（Two-brane）见膜。ⅡA型弦理论（TypeⅡA string theory）5种超弦理论中的一种，包括具有左右对称振动模式的闭弦。ⅡB型弦理论（TypeⅡB string theory）5种超弦理论中的一种，包括具有左右对称振动模式的闭弦。3膜（Three-brane）见膜。ATB“大爆炸之后”（“After The Bang”）的缩写，通常用来表示自大爆炸以来的时间。BPS态（BPS states）超对称理论中的物质构成，其性质可以通过以对称性为基础的论证完全决定。M理论（M-theory）第二次超弦革命出现的理论，将以前的5个超弦理论统一在一个宏大框架内。M理论似乎是一个包含着11个时空维的理论，还有很多方面有待认识。（包罗万象的理论，Theory of Everything）囊括所有力和物质的量子力学理论。W玻色子（W boson）见弱规范玻色子。Z玻色子（Z boson）见弱规范玻色子。推荐读物 [89]
 
@@ -2610,9 +2610,9 @@ Flatland：A Romance of Many
 
 Dimensions.
 
-# Princeton
+Princeton
 
-# Princeton Univer sity Press
+Princeton Univer sity Press
 
 1991.
 
@@ -2644,7 +2644,7 @@ and Charles C.
 
 Mann.
 
-# The Second
+The Second
 
 Creation.
 
@@ -2700,7 +2700,7 @@ New York：Viking，1997.
 
 Feynman, Richard.
 
-# The Character of Physical
+The Character of Physical
 
 Law.
 
@@ -2744,19 +2744,19 @@ New York：Bantam Books，1988.
 
 Hawking, Stephen, and Roger Penrose.
 
-# The Nature of Space
+The Nature of Space
 
 and Time.
 
-# Princeton
+Princeton
 
-# Princeton University Press
+Princeton University Press
 
 1996.
 
 Hey, Tony, and Patric Walters.
 
-# Einstein's
+Einstein's
 
 Mirror.
 
@@ -2778,7 +2778,7 @@ Press，1994.
 
 Lederman, Leon, with Dick Teresi.
 
-# The God
+The God
 
 Particle.
 
@@ -2796,9 +2796,9 @@ Lindley, David.
 
 Where Does the Weirdness Go？New York：Basic Books，1996.
 
-# Overbye
+Overbye
 
-# Dennis
+Dennis
 
 Lonely Heart of the Cosmos.
 
@@ -2872,7 +2872,7 @@ Rodin）说得更干脆：“一条规定的线贯通着大宇宙，赋予了一
 
 “奇异”的，也有说“杂优”的，前一个说法不太确切，后一个说法意思很准确（原文借生物学名词Heterosis，杂种优势），但不太好我以为说“杂化”就蛮好（当然不能说“杂种”）。一些数学味道极浓的词，如Conifold
 
-# Orbifold
+Orbifold
 
 Flop Transition等我在读过原始论文后还是没能想到直观的表达方式。我请教过作者，怎么用一个普通的词来表达那些空间变换过程。作者的回答跟他在书里讲的一样具体，例如，他建议用Gluefold来说Orbifold，这在英文里当然是通俗一点儿了，可惜中文没有这样造词的。最后，译者大胆杜撰了几个自以为不那么佶屈聱牙的说法。好在原文都附在后面，读者自能鉴实际上，我以为离开了数学背景，许多概念是不大可能说明白甚至，直观和通俗有时竟能成为误会的根源。不过作者讲得很巧妙，读者不会迷失方向的。请读者找那些数学来看看，真的很有趣。另外，作者为不同文字的译者——可见这书在世界各地都受欢迎
 
@@ -2926,7 +2926,7 @@ A Theory of Everything?（中译本《超弦：一个包罗万象的理论？》
 
 Dreams of a Final Theory（New York
 
-# Pantheon
+Pantheon
 
 1992），p.（中译本《终极理论之梦》也收在《第一推动丛书》中。者注）[7] 1998年5月11日对E.
 
@@ -2948,11 +2948,11 @@ Natural Philosophy and His System of the World.
 
 trans.
 
-# Motte and
+Motte and
 
 Florian Cajori（Berkeley
 
-# University of Chicago Press
+University of Chicago Press
 
 1962），Vol.
 
@@ -2964,7 +2964,7 @@ I, p.
 
 Albert Einstein（New York
 
-# Viking
+Viking
 
 1997），p.
 
@@ -3018,7 +3018,7 @@ Anchor，1989），p.
 
 QED：The Strange Theory of Light and Matter（Princeton
 
-# Princeton University Press
+Princeton University Press
 
 1988）.（费恩曼这本小书的中译本是“走进费曼丛书”里的一种，《QED：光和物质的奇异理论》，张钟静译，湖南科学技术出版社，2013。——译者注）[25] Stephan Hawking.
 
@@ -3076,13 +3076,13 @@ Series, Aspen, Colorado，1997.
 
 [42] 关于这一点的更深入的讨论和相关思想见Steven Weinberg
 
-# Dreams of
+Dreams of
 
 a Final Theory（温伯格，《终极理论之梦》）。[43] Edwin Abbott
 
 Flatland（Princeton
 
-# Princeton University Press
+Princeton University Press
 
 1991）.
 
@@ -3092,7 +3092,7 @@ Pais, Subtle is the Lord：The
 
 Science and the Life of Albert Einstein（Oxford
 
-# Oxford University
+Oxford University
 
 Press，1982），p.
 
@@ -3150,7 +3150,7 @@ York：Plenum，1990），p.
 
 Interactions（New York
 
-# Warner Books
+Warner Books
 
 1988），335.
 
@@ -3158,7 +3158,7 @@ Interactions（New York
 
 A Theory of Everything?
 
-# Paul Davies
+Paul Davies
 
 and Julian Brown（Cambri-dge
 
@@ -3196,7 +3196,7 @@ Kühn（Berlin：SpringerVerlag，1988），p.
 
 Cole, New York Times Magazine
 
-# October 18
+October 18
 
 1987，p.
 
@@ -3210,11 +3210,11 @@ Columbine，1992），p.
 
 [69] 跳过第6章“准确地回答”一节的读者，回头去看看那一节的开头应该是有好处的。[70] 1998年5月11日惠藤的谈话。[71] 1996年6月21日，霍金在阿姆斯特丹引力、黑洞和弦学术会议上的演讲。[72] 1997年12月29日格拉肖的谈话。[73] Laplace
 
-# Philosophical Essay on Probabilities
+Philosophical Essay on Probabilities
 
 trans.
 
-# Andrew
+Andrew
 
 Dale（New York：Springer-Verlag，1995）.
 
@@ -3222,35 +3222,35 @@ Dale（New York：Springer-Verlag，1995）.
 
 in Hawking and Roger Penrose
 
-# The Nature of
+The Nature of
 
 Space and Time（Princeton
 
-# Princeton Univensity Press
+Princeton Univensity Press
 
 1995），p.（中译本即《第一推动丛书》里的《时空本性》——译者注）。[75] 霍金1997年6月21日在阿姆斯特丹引力、黑洞和弦学术会议上的演讲。[76] 1997年12月29日斯特罗明戈的谈话。[77] 1998年1月12日瓦法的谈话。[78] 霍金1997年6月21日在阿姆斯特丹引力、黑洞和弦学术会议上的演讲。[79] 瓦法1998年1月12日的谈话。[80] 1998年5月19日维尼齐亚诺的谈话。[81] 斯莫林的观点见他的书The Life of the Comos（New York
 
-# Oxford
+Oxford
 
 University Press，1977）。[82] 1998年3月4日惠藤的谈话。[83] Sir Isaac Newton’s Mathematical Principles of Natural
 
-# Philosophy and His system of the World
+Philosophy and His system of the World
 
 trans.
 
 Motte and Calori（Berkeley
 
-# University of California Press
+University of California Press
 
 1962，vol.I
 
 [84] 1998年1月12日瓦法的谈话。[85] 1998年5月11日惠藤的谈话。[86] 引自Banesh Hoffman
 
-# Helen Dukas
+Helen Dukas
 
-# Albert Einstein
+Albert Einstein
 
-# Creator and
+Creator and
 
 Rebel（New York：Viking，1972），p.
 
@@ -3258,7 +3258,7 @@ Rebel（New York：Viking，1972），p.
 
 Klein，“Einstein
 
-# The Life and Times
+The Life and Times
 
 by R.
 
@@ -3268,7 +3268,7 @@ Clark”（book review）Science 174，pp.1315—1316.
 
 The Ascent of Man（Bostion
 
-# Little
+Little
 
 Brown，1973），p.
 
@@ -3662,9 +3662,9 @@ Snow，The two Cultures（Cambridge U.
 
 Press, Cambridge，1993）。[2] Aristotle
 
-# The Complete Works of Aristotle
+The Complete Works of Aristotle
 
-# The Revised Oxford
+The Revised Oxford
 
 Edition，J.
 
@@ -3686,17 +3686,17 @@ drscience.
 
 com获取。[5] B.
 
-# Greene
+Greene
 
-# The Elegant Universe
+The Elegant Universe
 
-# Superstrings
+Superstrings
 
-# Hidden Dimensions
+Hidden Dimensions
 
 and the Quest for the Ultimate Theory（Norton
 
-# New York
+New York
 
 1999）.（中译本《宇宙的琴弦》，[美]B.
 
@@ -3704,21 +3704,21 @@ and the Quest for the Ultimate Theory（Norton
 
 年——译者注）[6] J.
 
-# Horgan
+Horgan
 
-# The End of Science
+The End of Science
 
-# Facing the Limits of Knowledge in
+Facing the Limits of Knowledge in
 
 the Twilight of the Scientific Age（Addison-Wesley
 
-# Reading
+Reading
 
 Massachusetts，1997）.（中译本《科学的终结：在科学时代的暮色中审视知识的限度》，[美]约翰·霍根著，孙雍君等译，远方出版社，1997年——译者注）[7] I.
 
-# Prigogine
+Prigogine
 
-# The End of Certainty
+The End of Certainty
 
 Time, Chaos
 
@@ -3726,15 +3726,15 @@ and the New Laws
 
 of Nature（Simon and Schuster
 
-# New York
+New York
 
 1997）.（中译本《确定性的终结：时间、混沌与新自然法则》，[美]伊利亚·普利高津著，湛敏译，上海科技教育出版社，1998年——译者注）[8] P.
 
-# Anderson
+Anderson
 
-# More is Different
+More is Different
 
-# Science 177
+Science 177
 
 393（1972）.
 
@@ -3758,7 +3758,7 @@ Sci .
 
 [1] Ansel Adams
 
-# American Experience
+American Experience
 
 Ric Burns导演详细信息见
 
@@ -3768,7 +3768,7 @@ pbs.
 
 org/wgbh/amex/ansel。[2] J.
 
-# Faragher
+Faragher
 
 Rereading Frederick James Turner（Yale U.
 
@@ -3780,7 +3780,7 @@ New Haven，1999）.
 
 Endless Frontier（中译本《科学没有止境的前沿》范岱年、解道华等译，商务印书馆，2004年——译者注）中，建立具有开拓精神的科学联合体是报告的核心概念。这份报告最终促成了美国国家科学基金的设立。Zachary，# Endless frontier
 
-# Vannevar Bush
+Vannevar Bush
 
 Engineer of the American Century（MIT Press, Cambridge, Mass.，1997）（中译本《无尽的前沿——布什传》，G·帕斯卡尔·扎卡里著，周惠民、周玖、邹际平译，上海科技教育出版社，1999年——译者注）和V.
 
@@ -3808,7 +3808,7 @@ Torge，Teodesy
 
 3rd edition（Walter de Gruyter
 
-# Berlin
+Berlin
 
 2001）。[4] 1656　年克里斯蒂安·惠更斯（Christiaan Huygens
 
@@ -3816,7 +3816,7 @@ Torge，Teodesy
 
 Yoder，Unraveling Time
 
-# Christiaan Huygensandthe
+Christiaan Huygensandthe
 
 Mathematization of Nature（Cambridge U.
 
@@ -3832,7 +3832,7 @@ Norton, New York，1971）。如果想自己建个业余的傅科摆，可参见
 
 Stong，Scientifc American 198，115（1958）。傅科的原始文献：M.
 
-# Foucault
+Foucault
 
 “Démonstration du Movement de Rotation de la
 
@@ -3872,7 +3872,7 @@ Sci.
 
 22，20（1881）和A.
 
-# Michelson and
+Michelson and
 
 Morley, ibid.
 
@@ -3880,37 +3880,37 @@ Morley, ibid.
 
 Whittaker，AHistoryofthe
 
-# Theoriesof Aetherand Electricity
+Theoriesof Aetherand Electricity
 
 The Classical Theories（Nelson
 
 and Sons, London，1951）。[7] 后现代科学哲学的文献可谓汗牛充栋。被引述得最广泛的著作要属利奥塔
 
-# Lyotad
+Lyotad
 
 1924—1998）的The Postmodern Condition
 
-# A Report on
+A Report on
 
 Knowledge（U.
 
 of Minnesota Press, Minneapolis，1984）。# Lefebvre
 
-# Introductionto Modernity
+Introductionto Modernity
 
 Twelve Preludes（Verso
 
 London，1995），以及M.
 
-# Foucault
+Foucault
 
-# The Order of Things
+The Order of Things
 
-# An Archaeology
+An Archaeology
 
 of the Human Sciences（Random House
 
-# New York
+New York
 
 1994）。还有大量反后现代主义的文献，例如N.
 
@@ -3922,15 +3922,15 @@ Press, Oxford，1998）和
 
 Sokal and J.
 
-# Bricmont
+Bricmont
 
-# Fashionable Nonsense
+Fashionable Nonsense
 
-# Postmodern
+Postmodern
 
 Intellectuals’ Abuse of Science（St.Martin’s Press
 
-# New York
+New York
 
 1998）。[8] 1953　年12月18日朗缪尔在诺尔斯实验室（Knolls Research
 
@@ -3984,15 +3984,15 @@ Rev.
 
 Guth and A.
 
-# Lightman
+Lightman
 
 The Infationary Universe（Perseus
 
-# Publishing
+Publishing
 
-# Cambridge
+Cambridge
 
-# Massachusetts
+Massachusetts
 
 1998）.
 
@@ -4000,15 +4000,15 @@ The Infationary Universe（Perseus
 
 这里e是电子电荷，h是普朗克常量。[13] 关于邓小平的文献很多，尤其是在历史事件方面更为复杂。# Meisner
 
-# The Deng Xiaoping Era
+The Deng Xiaoping Era
 
-# An Inquiryintothe Fateof Chinese
+An Inquiryintothe Fateof Chinese
 
-# Socialism
+Socialism
 
 1978—1994（Hill and Wang
 
-# New York
+New York
 
 1996）。[14] 墨菲定律说的是：如果什么事要出错，那它就一定会出错。按照美国空军飞行训练中心的档案记录，墨菲定律出自1949年的爱德华空军基地的爱德华·A.
 
@@ -4028,7 +4028,7 @@ Cohen和
 
 Witman的英译本 The Principia
 
-# The Mathematical Principles of
+The Mathematical Principles of
 
 Natural Philosophy（U.
 
@@ -4046,7 +4046,7 @@ Norton, New York，1996）。[2] 在今天，“时钟般精确的宇宙”是�
 
 Goerner，Afterthe Clockwork Universe（Floris
 
-# Edingburgh
+Edingburgh
 
 1999）。[3] 彗星实际上是以很扁的椭圆轨道运动并且周期性地回归，这是Edmund
 
@@ -4054,11 +4054,11 @@ Halley最先发现的，他用牛顿力学预言了以他名字命名的彗星�
 
 and A.
 
-# Druyan
+Druyan
 
 Comet（Ballantine
 
-# New York
+New York
 
 1997）。哈雷的关于发现彗星的原始文献见E.
 
@@ -4080,13 +4080,13 @@ Kowal，Scientific American 243，52（1980）和P.
 
 Moore，The Planet Neptune（Wiley
 
-# Chichester
+Chichester
 
 1988）。冥王星则是由帕西瓦尔·罗威尔（Percival Lowell
 
 1855—1916）预言并由汤博（Clyde Tombaugh，1906—1997）于1930年发现的，见S.
 
-# Stern and
+Stern and
 
 Tholen, Plutoand Charon（U.
 
@@ -4110,7 +4110,7 @@ Press, Cambridge，2001）中找到。[7] 第一个航海用的回转罗盘是�
 
 1908年在德国制作的，用的是马克斯·舒勒提出的原理。1911年，艾尔莫·斯佩里（Elmer Sperry）发明了造价更低廉的回转仪并发明了陀螺形船用稳定器。# Hughes
 
-# Elmer Sperry
+Elmer Sperry
 
 Inventorand Engineer（Johns Hopkins
 
@@ -4128,13 +4128,13 @@ Press, Chicago，1978）.
 
 King，The Historyofthe Telescope（Griffin
 
-# London
+London
 
 1955）。[10] 摘自《试金者》（Ⅱ Saggiatore），伽利略的其他著作可从S.
 
 Drake主编的 Discoveries and Opinions of Galileo（Barnes and Noble
 
-# New York
+New York
 
 1989）中找到。亦见S.
 
@@ -4146,7 +4146,7 @@ Comets of 1618（U.
 
 of Pennsylvania Press
 
-# Philadelphia
+Philadelphia
 
 1960）。[11] 关于宗教裁判所对伽利略的审判和监禁的情节，在许多优秀出版物中都有描
 
@@ -4178,11 +4178,11 @@ att.
 
 net/～numericana/answer。[14] J.
 
-# Brackenridge
+Brackenridge
 
-# The Key to Newtonian Dynamics
+The Key to Newtonian Dynamics
 
-# The Kepler
+The Kepler
 
 Problemandthe Principia（U.
 
@@ -4194,11 +4194,11 @@ Conath，Buddhismfor the
 
 West：Theravada
 
-# Mahayana
+Mahayana
 
 and Vajrayana（Mc Graw-Hill
 
-# New York
+New York
 
 1974）。[16] 关于混沌的书很多，但最好的还是它的发现者写的著作：E.
 
@@ -4208,11 +4208,11 @@ of Washington Press, Seattle，1994）。# Gleick
 
 Chaos：Makinga New Science（Penguin
 
-# New York
+New York
 
 1998）和
 
-# Williams
+Williams
 
 Chaos Theory Tamed（Joseph Henry Press
 
@@ -4226,7 +4226,7 @@ edu/university_library/if/false_syllogisms。[18] 关于中性氦原子的表面
 
 Scoles, ed.
 
-# Atomic and
+Atomic and
 
 Molecular Beam Methods, Vols .
 
@@ -4290,9 +4290,9 @@ invominneso—ta.
 
 com。# Capossela
 
-# Ice Fishing
+Ice Fishing
 
-# AComplete Guide
+AComplete Guide
 
 Basicto Advanced（Countryman Press, Woodstock, VT，1992）。[2] 见http：//icefishingoutdoors.
 
@@ -4354,17 +4354,17 @@ Pople，Ab Initio Molecular
 
 Orbital Theory（Wiley, New York，1986）。较好的入门性教科书是
 
-# Halpern
+Halpern
 
 Experimental Physical Chemistry（Prentice-Hall
 
-# Upper
+Upper
 
 Saddle River, New Jersey，1997）。[5] 用简单法则对相变进行的最著名的说明是二维伊辛（Ising）模型的昂萨格详细解释见K.
 
 Huang，Statistical Mechanics（Wiley
 
-# New York
+New York
 
 1963）的349页及其后几页。原始参考文献见L.
 
@@ -4402,7 +4402,7 @@ Stock, and
 
 Stock，Elements of X-Ray Diffraction（Prentice Hall
 
-# New York
+New York
 
 2001）和J.
 
@@ -4426,13 +4426,13 @@ Kapitsa, Nature 141，79（1938）。4 He
 
 超流体理论见I.
 
-# Khalatnikov
+Khalatnikov
 
-# An Introductiontothe Theoryof
+An Introductiontothe Theoryof
 
 Superfluidity（Benjamin
 
-# New York
+New York
 
 1966）和D.
 
@@ -4440,7 +4440,7 @@ Pines and P.
 
 Nozieres，The Theory of Quantum Fluids（Benjamin
 
-# New York
+New York
 
 1966）。[11] 聚合物和玻璃的缓慢晶化使它们变得非常有用，其结果是它们都成为晶体。见 The Development of Crystalline Order in Thermoplastic Polymers（Oxford U.
 
@@ -4448,29 +4448,29 @@ Press, Oxford，2001）和I.
 
 Gutzo—w，The Vitreous State：# Thermodynamics
 
-# Structure
+Structure
 
-# Rheology
+Rheology
 
 and Crystallization（Springer, Heidelberg，1995）.
 
 [12] 蛋白质晶体学是一门不为大多数物理学家所了解的冷门学科。Bergfors, ed.，Crystallizationof Proteins
 
-# Techniques
+Techniques
 
-# Strategies
+Strategies
 
 and Tips（International University Line
 
-# La Jolla
+La Jolla
 
 1998）和A.
 
-# Mc Pherson
+Mc Pherson
 
 Crystallization of Biological Macromolecules（Cold Spring Harbor Laboratory
 
-# Woodbury
+Woodbury
 
 NY，1999）。[13] 关于用非弹性X射线散射方法探测原子运动的文献，见M.
 
@@ -4482,7 +4482,7 @@ Lett .
 
 83，3317（1999）及其文后参考文献。[14] 有关相变的物理文献都是技术性的且不易懂，某些关键性文献见
 
-# Stanley
+Stanley
 
 Introductionto Phase Transitionsand Critical Phenom—
 
@@ -4498,13 +4498,13 @@ Press, London，2001）。[15] 实用冶金学方面的课题很多，也很复�
 
 Metallurgy（Mc Graw-Hill
 
-# New York
+New York
 
 1986）。[16] 有关玻璃和玻璃形成问题的书有很多，例如，E.
 
 Donth，The Glass
 
-# Transition
+Transition
 
 Relaxation Dynamics in Liquids and Disordered Materials（Springer, Heidelberg，2001）。无序介质的有序化方面的经典文献是
 
@@ -4520,7 +4520,7 @@ Mezard,
 
 Parisi, and M.
 
-# Virasoro
+Virasoro
 
 Spin Glass Theoryand Beyond（World
 
@@ -4548,7 +4548,7 @@ Gu，Opticsof Liquid Crystal
 
 Displays（Wiley, New York，1999）。关于向列相的进一步信息见P.
 
-# Gennes
+Gennes
 
 The Physics of Liquid Crystals（Oxford U.
 
@@ -4560,13 +4560,13 @@ cornell.
 
 edu/sethna.
 
-# Order
+Order
 
 Parameters/Intro.
 
 html。[19] 二维薄膜的熔炼不同于传统熔炼的思想最早见于J.
 
-# Kosterlitz and
+Kosterlitz and
 
 Thouless，J.
 
@@ -4612,7 +4612,7 @@ Lett.
 
 88，100404（2002）。[23] P.
 
-# Anderson
+Anderson
 
 Basic Notions in Condensed Matter Physics（Addison-Wesley, New York，1984）.
 
@@ -4638,7 +4638,7 @@ B 62，11751（2000）。[25] 对非定域性的理解是现代冶金学和晶�
 
 Bacon，Introductionto Dislocations（Butterworth-Heinemann
 
-# Burlington
+Burlington
 
 Mass.，2001）和J.
 
@@ -4672,11 +4672,11 @@ Quantum Theoryof Fields, Vols.
 
 Press, London，1995）。[27] S.
 
-# Kauffman
+Kauffman
 
-# At Home in the Universe
+At Home in the Universe
 
-# The Search for Laws of
+The Search for Laws of
 
 Self-Organization and Complexity（Oxford U.
 
@@ -4698,7 +4698,7 @@ Laloe, and B.
 
 Dui的 Quantum Mechanics（Wiley
 
-# New York
+New York
 
 1992）。[2] 这里不考虑瘾君子。作为父母，我有责任坦率地指出，我和我妻子都坚决反对对毒品的任何程度的尝试，我们甚至不喝酒。[3] 阿博特和科斯特勒的“Who’s on First”节目先是在广播里实况播出即被拍成电影 The Naughty Nineties。成百个网站上有其资料，恕不一一列
 
@@ -4718,11 +4718,11 @@ Faye，Neils Bohr
 
 His Heritage and Legacy.
 
-# An Antirealist View
+An Antirealist View
 
 of Quantum Mechanics（Kluwer
 
-# Dordrecht
+Dordrecht
 
 1991）。[5] 贝克莱的著作曾多次重印。Berkeley and J.
 
@@ -4754,11 +4754,11 @@ Princeton，1983）。文章中，薛定谔将猫当作“荒谬的”事例，�
 
 New York；2000）。[8] 你可以从各种网站上找到伯恩斯—艾伦喜剧演出队的作品和录音。Biythe and S.
 
-# Sackett
+Sackett
 
-# Say Goodnight Gracie
+Say Goodnight Gracie
 
-# The Story of Burns and
+The Story of Burns and
 
 Allen（E.
 
@@ -4786,11 +4786,11 @@ Milburn and P.
 
 Davies，The Feynman
 
-# Processor
+Processor
 
 Quantum Entanglement and the Computing Revolution（Perseus Publishing
 
-# Cambridge
+Cambridge
 
 MA，1999）。[11] 放大器产生的量子噪声的问题完全是一个物理问题。最好的参考文献都是相当有技术性的：H.
 
@@ -4798,11 +4798,11 @@ Haus，Electromagnetic Noiseand Quantum Optical
 
 Measurements（Springer
 
-# Heidelberg
+Heidelberg
 
 2000）。亦见Y.
 
-# Yammamoto and
+Yammamoto and
 
 Haus，Rev.
 
@@ -4846,13 +4846,13 @@ edu/hmb/thehmb/history4.
 
 shtml。[14] C.
 
-# Rossetti
+Rossetti
 
-# Rossetti
+Rossetti
 
 Poems（Knopf
 
-# New York
+New York
 
 1993）.
 
@@ -4880,9 +4880,9 @@ Paterson,
 
 and D.
 
-# Golderg
+Golderg
 
-# Computer Architecture
+Computer Architecture
 
 A Quantitative Approach（Morgan Kaufmann, San Francisco，2002）。[3] 关于半导体的功能和设计的优秀参考资料见C.
 
@@ -4890,7 +4890,7 @@ Sah，Fundamentals of
 
 Solid-State Electronics（World Scientific
 
-# Singapore
+Singapore
 
 1991）。[4] 要搞懂为什么这里会有脏话，见B.
 
@@ -4900,7 +4900,7 @@ Ritchie，The
 
 CProgramming Language（Prentice Hall
 
-# New York
+New York
 
 1988）。[5] 关于软件垄断问题已有相当多的高度政治化倾向的文献。一些代表性著作有
 
@@ -4910,35 +4910,35 @@ Aulett，World War 3.
 
 New York，2001）；# Mc Kenzie
 
-# Truston Trial
+Truston Trial
 
-# How the Microsoft
+How the Microsoft
 
 Case Is Reframing the Rules of Competition（Perseus Publishing
 
 Cambridge, Massachusetts，2000）；Kopel，Antitrust after
 
-# Microsoft
+Microsoft
 
 The Obsolescence of Antitrust in the Digital Era（Heartland Institute
 
-# Chicago
+Chicago
 
-# Illinois
+Illinois
 
 2001）；# Liebowitz and
 
-# Margolis
+Margolis
 
-# Winners
+Winners
 
-# Losers
+Losers
 
 and Microsoft（Independent
 
 Institute, Oakland, CA，2001）。Lessing的 The Future of Ideas（Random House
 
-# New York
+New York
 
 2001）则讨论了数字所有权的更大范围的影响。[6] 芯片的发热也是设计上不得不考虑的限制因素之一。2004年春，因特尔宣布，由于过度发热，暂时中止最新一代微处理器的设计（代码名为Tajas和
 
@@ -4950,7 +4950,7 @@ com/articles/50233.
 
 html。[7] 关于量子计算机的文献有很多，好在现在这种增长趋势明显放缓。# Johnson
 
-# A Shortcut Through Time
+A Shortcut Through Time
 
 The Pathtoa Quantum Computer（Knopf, New York，2003）；Brylinski and G.
 
@@ -4958,7 +4958,7 @@ Chen，Mathematics of
 
 Quantum Computing（Chapman and Hall
 
-# London
+London
 
 2002）；Bouwmeester,
 
@@ -4968,23 +4968,23 @@ Zeilinger, and A.
 
 Ekert，The Physics of Quantum
 
-# Information
+Information
 
-# Quantum Cryptography
+Quantum Cryptography
 
-# Quantum Teleportation
+Quantum Teleportation
 
-# Quantum
+Quantum
 
 Computation（Springer, Heidelberg，2000）。[8] B.
 
-# Schneider
+Schneider
 
-# Applied Cryptography
+Applied Cryptography
 
-# Protocols
+Protocols
 
-# Algoritlims
+Algoritlims
 
 Source Code in C（Wiley, New York，1995）.
 
@@ -4996,7 +4996,7 @@ Ewing，Analogand
 
 Computer Electronicsfor Scientists（Wiley
 
-# New York
+New York
 
 1993）。[10] 有关半导体物理原理的经典文献见J.
 
@@ -5004,15 +5004,15 @@ Phillips，Bondsand Bands in
 
 Semiconductors（Academic Press
 
-# New York
+New York
 
 1973）。[11] 布劳恩还发明了示波器。Kurylo，Ferdinand Braun, a Lifeofthe
 
 Nobel Prizewinner and Inventor of the Cathode-Ray Oscilloscope（MIT Press
 
-# Cambridge
+Cambridge
 
-# Massachusetts
+Massachusetts
 
 1981）。亦见http：//www.
 
@@ -5024,7 +5024,7 @@ de/englisch/f_braun.
 
 htm。[12] 半导体中电子和空穴的冲击运动可通过回旋共振效应直接探测到。# Landwehr
 
-# Landau Level Spectroscopy
+Landau Level Spectroscopy
 
 Part Ⅱ（North-Holland
 
@@ -5032,15 +5032,15 @@ Amsterdam，1990）。[13] 非晶态电子学的综述文章见J.
 
 Kanicki，Amorphous and
 
-# Microcrystalline Semiconductor Devices
+Microcrystalline Semiconductor Devices
 
-# Volume II
+Volume II
 
-# Materials and
+Materials and
 
 Device Physics（Artech
 
-# Norwood
+Norwood
 
 MA，1992）。[14] 掺磷硅晶体的类氢线谱的一个绝好例子见G.
 
@@ -5050,7 +5050,7 @@ B 23，5472（1981）。[15] 摩尔定律的原始文献见G.
 
 Moore，Electronics 38（1965）。# Fallows
 
-# The Atlantic Monthly 288
+The Atlantic Monthly 288
 
 44（2001）和
 
@@ -5064,11 +5064,11 @@ htm。[16] 例如，见J.
 
 Lindl，Inertial Confinement Fusion
 
-# The Quest for
+The Quest for
 
 Ignition and Energy Cain Using Indirect Drive（Springer
 
-# Berlin
+Berlin
 
 1997）。[17] 关于道家哲学有许多畅销书，见A.
 
@@ -5176,15 +5176,15 @@ mainau.
 
 Hoddeson and V.
 
-# Daitch
+Daitch
 
-# True Genius
+True Genius
 
-# The Life and Science of
+The Life and Science of
 
 John Bardeen（Joseph Henry Press
 
-# Princeton
+Princeton
 
 NJ，2002）.
 
@@ -5224,11 +5224,11 @@ IEEE Int.
 
 Solid State Circuits Conf.，32-33，1963。[6] William Shockley有着声名卓著的多彩生涯。他移居加利福尼亚，并在那里播撒了硅谷的种子。他还沉迷于研究智力遗传的影响。# Shockley and
 
-# Pearson
+Pearson
 
-# Shockleyon Eugenicsand Race
+Shockleyon Eugenicsand Race
 
-# The Application of Science
+The Application of Science
 
 to the Solution of Human Problems（Scott-Townsend Publishers
 
@@ -5242,7 +5242,7 @@ Madison, and
 
 Jay，The Federalist Papers（Mento
 
-# New York
+New York
 
 1961）。http：//www.
 
@@ -5252,9 +5252,9 @@ org/pbei/cato/heq 01.
 
 pdf。[9] K.
 
-# Orrison
+Orrison
 
-# Writtenin Stone
+Writtenin Stone
 
 Making Cecil B.
 
@@ -5278,11 +5278,11 @@ org/free/marx。[12] 10　18 =1000000000000000000.
 
 [13] F.
 
-# Voltaire
+Voltaire
 
-# Candide or Optimism
+Candide or Optimism
 
-# A Fresh Translation
+A Fresh Translation
 
 Backgrounds, Criticism（W.
 
@@ -5316,9 +5316,9 @@ Press, London，2001）。[17] 这种现象在俄罗斯叫白夜。在瑞典，�
 
 万亿美元。# Schwartz
 
-# Atomic Audit
+Atomic Audit
 
-# The Costs and Consequencesof
+The Costs and Consequencesof
 
 Nuclear Weapons Since 1940（Brookings Inst.
 
@@ -5344,7 +5344,7 @@ Schrieffer，Theory of
 
 Superconductivity（Benjamin
 
-# New York
+New York
 
 1983）。[4] 关于3 He的文献可谓汗牛充栋。Vollhardt and P.
 
@@ -5352,7 +5352,7 @@ Wölfle，The
 
 Superfluid Phasesof Helium 3（Taylor and Francis
 
-# London
+London
 
 1990）；Osheroff，Rev.
 
@@ -5364,7 +5364,7 @@ Phys .
 
 Propertiesof Super Fluid3 He（World
 
-# Singapore
+Singapore
 
 1998）。http：//booium.
 
@@ -5430,7 +5430,7 @@ Abrikosov, L.
 
 Gorkov, and
 
-# Dzyaloshinskii
+Dzyaloshinskii
 
 Methods of Quantum Field Theory in Statistical
 
@@ -5444,31 +5444,31 @@ Landolt-Börnstein
 
 Group　Ⅲ
 
-# Crystal and Solid
+Crystal and Solid
 
-# State Physics
+State Physics
 
-# Vol 19
+Vol 19
 
-# Magnetic Properties of Metals
+Magnetic Properties of Metals
 
-# Subvolume d1
+Subvolume d1
 
-# Rare Earth Elements
+Rare Earth Elements
 
 Hydridesand Mutual Alloys（Springer
 
-# Berlin
+Berlin
 
 1991）。关于稀土化合物和稀土合金的磁性还有许多文献，见J.
 
-# Jensen and
+Jensen and
 
-# Mackintosh
+Mackintosh
 
 Rare Earth Magnetism（Clarendon Press
 
-# Oxford
+Oxford
 
 1991）。最早发现元素钬的螺旋反铁磁性的是W.
 
@@ -5516,7 +5516,7 @@ Einstein，Ann.
 
 Physik 17，891（1905）。[2] A.
 
-# Eddington
+Eddington
 
 The Mathematical Theory of Relativity（Cambridge
 
@@ -5524,7 +5524,7 @@ University Press, London，1965），p.
 
 [3] 对称性写起来非常有趣，因此这方面好的读物很多，常见的有L.
 
-# Lederman
+Lederman
 
 and C.
 
@@ -5536,11 +5536,11 @@ Rosen，Symmetry
 
 Discovered（Cambridge University Press
 
-# London
+London
 
 1975）。# Coleman
 
-# Aspects of Symmetry
+Aspects of Symmetry
 
 Selected Erice Lectures（Cambridge
 
@@ -5548,17 +5548,17 @@ University Press, London，1985）。[4] R.
 
 P, Feynman et al.
 
-# Six Not-So-Easy Pieces
+Six Not-So-Easy Pieces
 
-# Einstein's
+Einstein's
 
-# Relativity
+Relativity
 
-# Symmetry
+Symmetry
 
 and Space-Time（Perseus
 
-# New York
+New York
 
 1997）.
 
@@ -5602,19 +5602,19 @@ com/Warp20%speed.
 
 htm。[9] 或莫里哀著名的例子：催眠药起作用是因为它的“催眠特性”。[10] 优秀的综述见S.
 
-# Perlmutter
+Perlmutter
 
-# Supernovae
+Supernovae
 
-# Dark Energy
+Dark Energy
 
 and the
 
-# Accelerating Universe
+Accelerating Universe
 
-# Physics Today
+Physics Today
 
-# April 2003
+April 2003
 
 53，亦见
 
@@ -5632,7 +5632,7 @@ Vol.
 
 3：Supersymmetry（Cambridge University Press
 
-# London
+London
 
 2000）。# 第11章
 
@@ -5640,19 +5640,19 @@ Vol.
 
 Flake，The Computational Beauty of
 
-# Nature
+Nature
 
-# Computer Explorations of Fractals
+Computer Explorations of Fractals
 
 Chaos, Complex Systems
 
 and Adaptation（MIT Press
 
-# Cambridge
+Cambridge
 
 1998）。还有一本是
 
-# Mandelbrot
+Mandelbrot
 
 The Fractal Geometry of Nature（W.
 
@@ -5674,7 +5674,7 @@ fractalus.
 
 com/galleries/home。[2] Stephen Wolfram也强烈感受到这一点他认为存在一门新科学为此他出版了一本书：S.
 
-# Wolfram
+Wolfram
 
 A New Kind of Science（Wolfram Research
 
@@ -5738,9 +5738,9 @@ Rev.
 
 A 27，1495（1983）。[5] 见M.
 
-# Gardner
+Gardner
 
-# Wheels
+Wheels
 
 Life, and Other Mathematical Amusements
 
@@ -5762,7 +5762,7 @@ Gray，Winning Ways for Your Mathematical Plays
 
 Particular（Academic Press
 
-# Burlington
+Burlington
 
 MA，1982）和J.
 
@@ -5770,7 +5770,7 @@ Conway，On
 
 Numbers and Games（Academic Press
 
-# Burlington
+Burlington
 
 MA，1976）。互联网上也有很多关于康威《生命》的材料，好的站点有
 
@@ -5792,13 +5792,13 @@ htm。[6] 纳米管是眼下学术界最感兴趣的课题。Dresselhaus,
 
 Dresselhaus, and P.
 
-# Eklund
+Eklund
 
-# The Science of Fullerenes and Carbon
+The Science of Fullerenes and Carbon
 
 Nanotubes（Academic Press
 
-# Burlington
+Burlington
 
 MA，1996）。原始发现的论文是
 
@@ -5872,7 +5872,7 @@ Sci.
 
 97，28（2000）。[2] 这些关系在P.
 
-# Anderson
+Anderson
 
 Conceptsin Solids（World Scientific
 
@@ -5880,7 +5880,7 @@ Singapore，1998）一书中有简明的解释。[3] 1974　年，哈伦·埃利
 
 Love and the Heart of the World（Avon Books
 
-# New York
+New York
 
 1969）。[4] 关于相变过程中标度不变性和可重正化性的文献有很多。我通常推荐的是它的发现者写的教科书：L.
 
@@ -5890,7 +5890,7 @@ Dynamics and Renormalization in Statistical Physics（Cambridge
 
 University Press, London，1996）。需要指出的是，通常人们认为，这些现象的量子（即零温度）版本定性上与“统计”（即有限温度）版本是类似的，见
 
-# Sachdev
+Sachdev
 
 Quantum Phase Transitions（Cambridge University Press
 
@@ -5906,13 +5906,13 @@ Press, London，1984）.
 
 Itzykson et al.，Statistical Field
 
-# Theory Volume I
+Theory Volume I
 
 From Brownian Motion to Renormalization and
 
 Lattice GaugeTheory（Cambridge University Press
 
-# London
+London
 
 1989）和
 
@@ -5920,11 +5920,11 @@ Cardy et al.
 
 Scaling and Renormalization in Statistical Physics（Cambridge University Press
 
-# London
+London
 
 1996）。[6] 临界乳光的经典情形是通过热压缩气体实现的。例如，J.
 
-# White and
+White and
 
 Maccabee，Phys.
 
@@ -5934,7 +5934,7 @@ Lett.
 
 26，1468（1971）曾报道二氧化碳在临界点处的光散射情形。更易得到的例子源自化学系统：P.
 
-# Egelstaff and
+Egelstaff and
 
 Wingnall, J.
 
@@ -5966,11 +5966,11 @@ Lett .
 
 60，1852（1988）。[7] 故事《猎火鸡上当记》最早见于《神秘的陌生人》后收入 Mark Twain
 
-# Collected Tales
+Collected Tales
 
-# Sketches
+Sketches
 
-# Speeches and Essays
+Speeches and Essays
 
 Budd, ed.（Library of America
 
@@ -5988,11 +5988,11 @@ NY，2002）（中译本《科学发现的逻辑》查汝强、邱仁宗译沈�
 
 Wang et al.
 
-# Strongly Correlated Electronic
+Strongly Correlated Electronic
 
 Materials（Westview Press
 
-# Boulder
+Boulder
 
 CO，1994）。[10] 关于硅的7×7问题的原始解见K.
 
@@ -6018,11 +6018,11 @@ Lett.
 
 Gibbons et al.，eds.，The Future of Theoretical Physics and
 
-# Cosmology
+Cosmology
 
 A Celebration of Stephen Hawking’ s 60th Birthday（Cambridge University Press
 
-# London
+London
 
 2003）。# 第13章
 
@@ -6038,13 +6038,13 @@ Flexner,
 
 eds.，Protease Inhibitorsin AIDSTherapy（Marcel Dekker
 
-# New York
+New York
 
 2001）。[4] 眼下对干细胞研究充满争议，因此常可在新闻中见到。由全国（指美国）卫生研究所给出的综述性分析可从其网站得到
 
-# Stem Cells
+Stem Cells
 
-# Scientifc Progress
+Scientifc Progress
 
 and Future Directions，http：//www.
 
@@ -6062,15 +6062,15 @@ net/golden.
 
 html。[6] M.
 
-# Shelley
+Shelley
 
-# Frankenstein
+Frankenstein
 
 or the Modern Prometheus（Palgrave
 
-# Macmillan
+Macmillan
 
-# New York
+New York
 
 2000）（中译本《弗兰肯斯坦》[英]雪莱著丁超译，中国人民大学出版社，2004年）。关于这部小说的研究文献有很多，见M.
 
@@ -6096,27 +6096,27 @@ Virol .
 
 Broad，Bioterror
 
-# Researchers Builda More Lethal Mousepox
+Researchers Builda More Lethal Mousepox
 
-# New York Times
+New York Times
 
-# November
+November
 
 1，2003。[8] 见E.
 
 Teller and J.
 
-# Shoolery
+Shoolery
 
-# Memoirs
+Memoirs
 
-# A Twentieth-Century Journal
+A Twentieth-Century Journal
 
 of Science and Politics（Perseus Press
 
-# Cambridge
+Cambridge
 
-# Massachusetts
+Massachusetts
 
 2002）。[9] 我从世界上最大的c DNA阵列供货商Affymetrix公司得到的估计是每年10亿美元，见http：//biz.
 
@@ -6142,17 +6142,17 @@ edu/corelabs/genomic/default.
 
 Feedback Control（Wiley, New York，2005）。[12] 放大器的解释见S.
 
-# Franco
+Franco
 
-# Design with Operational Amplifers and
+Design with Operational Amplifers and
 
 Analog Integrated Circuits（Mc Graw Hill
 
-# New York
+New York
 
 1997）。[13] 例如，见A.
 
-# Fersht
+Fersht
 
 Structure and Mechanismin Protein Science
 
@@ -6238,15 +6238,15 @@ Lett.
 
 77，4458（1996）及其所附文献。[17] W.
 
-# Stegner
+Stegner
 
-# Beyond the Hundredth Meridian
+Beyond the Hundredth Meridian
 
-# John Wesley Powell
+John Wesley Powell
 
 and the Second Opening of the West（Penguin
 
-# New York
+New York
 
 1992）.
 
@@ -6300,7 +6300,7 @@ com/archive/021003/firstbase.
 
 html。[4] Bolt
 
-# Beranek
+Beranek
 
 and Newman（BBN）是一家设在马萨绪塞州坎布里奇的公司，它接下了建造DARPAnet的第一份合同订单。见http：//www.
 
@@ -6322,9 +6322,9 @@ Lett .
 
 163（1974）。[7] 见J.
 
-# Huizenga
+Huizenga
 
-# Cold Fusion
+Cold Fusion
 
 The Scientifc Fiascoofthe Century（Oxford University Press, London，1994）。[8] 见
 
@@ -6344,13 +6344,13 @@ com。[10] W.
 
 Broad，Star Warriors（Simon and Schuster
 
-# New York
+New York
 
 1986）；Broad，Teller's War：The Secret Story Behind the Star
 
 Wars Deception（Simon and Schuster
 
-# New York
+New York
 
 1992）。亦见《大西洋》月刊1988年4月C.
 
@@ -6368,7 +6368,7 @@ org/nuclear/nif2/findings.
 
 asp。利弗莫尔的国家点火装置受到国家（美国）资源保护委员会的强烈反对。[12] 舍恩的这一事件已有大量报道，见2002年9月26日《纽约时报》上K.
 
-# Chang
+Chang
 
 的文章 Panel Says Bell Labs Scientist Faked Discoveries。对Lucent接受处罚的官方表述见
 
@@ -6380,11 +6380,11 @@ com/news_events/researchreview.
 
 html，亦见
 
-# Laughlin
+Laughlin
 
-# Physics Today
+Physics Today
 
-# December 2002
+December 2002
 
 10及其所附文献。[13] 见2002年9月10日《奥克兰论坛报》上Ian Horfman的文章
 
@@ -6428,11 +6428,11 @@ stanford.
 
 edu/dept/physics/Lighter_Side/Skit。[17] R.
 
-# Bradbury
+Bradbury
 
 The Martian Chronicles（William Morrow
 
-# New York
+New York
 
 1997）.
 
@@ -6440,7 +6440,7 @@ The Martian Chronicles（William Morrow
 
 [1] 贡布雷希特教授有着非常广泛的兴趣，我们大概可以称他为谨慎的伊壁鸠鲁主义者（会享受生活的人——译者注）。网上援引他的话说他情愿在最大程度上享受生活的快乐，像品尝精美食品、观看体育比赛，在极为复杂的大学校园生活中保持活力，并让大学校园始终成为新思想的天堂。Gumbrecht，The
 
-# Powers of Philology
+Powers of Philology
 
 Dynamicsof Textual Scholarship（U.
 
@@ -6450,7 +6450,7 @@ Press, Champaign, IL，2002）；Lenoir and H.
 
 Gumbrecht，Inscribing
 
-# Science
+Science
 
 Scientific Texts and the Materiality of Communication（Stanford U.
 
@@ -6472,7 +6472,7 @@ Steinfardt一起荣获2002年度狄拉克奖。Linde，Inflationand Quantum
 
 Cosmology（Academic Press
 
-# Burlington
+Burlington
 
 MA，1990）。[3] 米切尔教授对生物自组织性尤感兴趣，如社会性昆虫的群落问题。# Mitchell
 
@@ -6480,9 +6480,9 @@ Biological Complexityand Integrative Pluralism（Cambridge U.
 
 Press, Cambridge，2003）。[4] 布拉夫曼教授的兴趣包括电迁移、微机电系统（MEMS）中的疲劳、纳米尺度晶体管的金属氧化物介电性质和包装材料薄膜界面的机械特性。他还是斯坦福本科学院的副教务长。[5] 皮克斯托克教授已就她所认为的西方社会有必要建立在敬奉上帝的基础之上等问题写了许多文章。她还对由资深科学精英来定义实在的权力提出挑战。# Pickstock
 
-# After Writing
+After Writing
 
-# On the Liturgical Consummation of
+On the Liturgical Consummation of
 
 Philosophy（Blackwell, Oxford，1997）和G.
 
@@ -6492,17 +6492,17 @@ Milbank, and
 
 Pickstock, eds.
 
-# Radical Orthodoxy
+Radical Orthodoxy
 
 ANew Theology（Routledge
 
 London，1999）。[6] 德捷拉希教授是位具有双重身份的学者，他发明了避孕药，同时又写小说和
 
-# Djerassi
+Djerassi
 
 This Man’ s Pill
 
-# Refectionson the50th
+Refectionson the50th
 
 Birthdayofthe Pill（Oxford U.
 
@@ -6512,7 +6512,7 @@ Pill, Pygmy Chimps
 
 and Degas Horse
 
-# The Remarkable Autobiography
+The Remarkable Autobiography
 
 of the Award Winning Scientist Who Synthesized the Birth Control
 
@@ -6520,15 +6520,15 @@ Pill（Basic Books, New York，1998）；Djerassi，Oxygen（Wiley,
 
 New York，2001）。[7] 西尔教授关注的是人们的哲学观点如何影响到他们的感知并最终改变他们的生活道路。Seel，Asthetik des Erschemens（Hansen
 
-# Miinchen
+Miinchen
 
 2000）；Seel，Sich Bestimmen Lassen
 
-# Studien zur theoretische und
+Studien zur theoretische und
 
 praktischen Philosophic（Suhrkamp
 
-# Frankfurt
+Frankfurt
 
 2002）。[8] 施曼特—贝瑟拉特教授提出了一种很可信的理论：楔形文字写作源于贸易所需的计算习俗。# Schmandt-Besserat
 
@@ -6536,7 +6536,7 @@ How Writing Came About（U.
 
 Texas Press, Austin，1996）。[9] 福特教授的主要兴趣在反歧视和物业法。Ford，Racial Culture：ACritique（Princeton University Press
 
-# Princeton
+Princeton
 
 NJ，2004）。[10] 威诺格拉德教授是计算机智能研究的先驱之一。他的两个学生创办了互联网搜索公司Google。Winograd and F.
 
@@ -6548,7 +6548,7 @@ A New Foundation for Design（Addison-Wesley
 
 Boston，1987）。[11] 卡布里兹教授的主要兴趣在文献学，尤以但丁的《神曲》与西方文学其他重要作品——特别是维吉尔的《埃涅阿斯纪》和《圣经》——之间的关系研究而蜚声国际。Kablitz and G.
 
-# Neumann
+Neumann
 
 Mimesis und Simulation（Rombach
 
@@ -6558,7 +6558,7 @@ Pfeiffer，Interpretation und
 
 Lektüre（Rombach, Freiburg，2001）。[12] W.
 
-# Godzich
+Godzich
 
 The Culture of Literacy（Harvard U.
 
@@ -6600,9 +6600,9 @@ com。# 第16章
 
 [1] 虽然“lessness”一词在英语里最早出现可追溯到1635年但这个词可算是个新词，见D.
 
-# Coupland
+Coupland
 
-# Generation X
+Generation X
 
 Tales for An Accelerated Culture（St.Martin’s Press, New York，1992）。[2] D.
 
@@ -6620,13 +6620,13 @@ MD，1961），p.
 
 Ando, Hiroshi Eisaki
 
-# Atsushi Fujimori
+Atsushi Fujimori
 
-# Naoto
+Naoto
 
-# Nagaosa
+Nagaosa
 
-# Tajima
+Tajima
 
 Yoshi Tokura和Shen-ichi Uchida。如果算上Sadamichi
 
@@ -6888,7 +6888,7 @@ Lawton为俄克拉荷马州与得克萨斯州边境上的俄州小镇。——�
 
 memory.
 
-# The sun is setting at Dulles
+The sun is setting at Dulles
 
 and I am aboard a half-empty
 
@@ -6910,7 +6910,7 @@ and trucks
 
 are scurrying about on the tarmac in the dark.
 
-# The plane pushes
+The plane pushes
 
 back, then bumps and rattles across the taxiways in a sullen sort
 
@@ -6922,7 +6922,7 @@ Today parts and Burger Kings—the haunt of exhausted economic
 
 soldiers washing downstream like spent salmon for the bears.
 
-# At the
+At the
 
 end of the runway the plane pauses
 
@@ -6952,7 +6952,7 @@ and its magnificent body is impelled forward effortlessly
 
 as it exuberantly rotates into the sky.
 
-# The lights of the city
+The lights of the city
 
 recede and vanish
 
@@ -6960,7 +6960,7 @@ and the back of the plane is again dark.
 
 [70] Abbie Hoffman（1936—1989）美国20世纪60年代青年国际党（Youth
 
-# International Party
+International Party
 
 Yippies）的发起人之一一位自我认同的社会无政府主义者，70年代以反叛著称的激进的社会政治活动家。出生于马萨诸塞州伍斯特市的一个犹太人家庭，早年曾被学校赶出校门，1955年在伍斯特预备学校完成中学学业，后进入布兰迪斯大学，1959年获学士学位，后进入加利福尼亚大学伯克利分校攻读心理学硕士学位。后涉嫌参与毒品交易，沦为逃犯。曾著有《十条顶呱呱的戒律》（The Ten Crack Commandements）。——译者摘自
 
@@ -6994,7 +6994,7 @@ org/wiki/Abbie_Hoffman#_note—0
 
 Pistols）乐队中掌管低音鼓；Tupac Shakur（1971—1996），舞台名2Pac,
 
-# Makaveli
+Makaveli
 
 美国著名的说唱乐（rap music）艺术家同时也是电影明星和社会活动家。——译者注
 
@@ -7036,7 +7036,7 @@ Processor, IMP）”合同定单。该项目是DARPAnet研发的一个子课题�
 
 1922—1992）国著名出版商，1952年创办《疯狂》（Mad）杂志，这是迄今为止最风行的英文幽默月刊，以多种文字行销世界二十几个国家。约翰·格林李夫·惠蒂埃（John
 
-# Greenleaf Whittier
+Greenleaf Whittier
 
 1807—1893）美国废奴运动时期的著名诗人。他的诗歌有强烈的战斗性，反映了美国废奴斗争中的重大事件，有如一部废奴运动的编年
 
@@ -7198,7 +7198,7 @@ Brownlow）的一些树上。为了从他的定律中得出肯定的预言，说
 
 Laplace，1749—1827）和其他一些人认为连这假设都没有必要——也只是在时间的开端给所有的物体一个推动，其后就再也不需要他管实际上当时根本不知道时间是否会有一个开端。总之，天体的运动成为可以预知的了。虽然人类在宇宙中的地位变得无关紧要，但是人们开始赞美人类聪明才智的力量。不可避免地，这导致了神学上对上帝和人类关系的重新评价。教会的教条几乎是黯然失色了。然而牛顿意识到他自己工作的局限性。他写道：“我不过只是像一个在海边玩耍的孩子，以偶尔间发现了一个更光滑的卵石或者更漂亮的贝壳为乐，而我面前仍是一片未知的真理大海。”（这个独特的比喻很可能是二手货，牛顿从来没有去过海上，甚至于连去海边散步都没有过。）实际上，牛顿在其自然观上是与上帝合作的，因为他有着强烈的宗教信仰。他坚持认为太阳系需要上帝时时刻刻的照料，否则就会不稳定。对于牛顿来说，上帝是宇宙的造物主和维护者，但这却使莱布尼兹讥讽牛顿的上帝好像一个二等钟表匠，造出来的钟表每次停下来还非要他自己去维修不可。为了检验他的新理论的预言，牛顿利用了弗雷姆斯蒂德（John
 
-# Flamsteed
+Flamsteed
 
 1646—1719）的月亮运动的观测结果后者是格林尼治天文台的首任皇家天文学家，也是牛顿为了知识产权问题后来与之争吵的另一位科学家。格林尼治天文台当时除了做纯研究外，还在另一项工作中起着重要作用：为使船只在海上能够找到所在的经度而做天文观测（纬度可以通过测量恒星的地平高度而得到）。尽管弗雷姆斯蒂德和他的后继者作了大量观测，这一工作直到1767年才算完成。也是在这个时间前后，来自亨伯河边巴洛城的一个木匠哈里森（John
 
@@ -7282,7 +7282,7 @@ Sitter）对双星绕它们的公共中心转动时所发出的光的分析。�
 
 1777—1855）认识到了这一点并且做了许多实验，去探测我们的三维空间偏离平直的程度。是，无论是他本人，还是后来继续做这件事的人，都没有在地面实验中探查出空间的任何弯曲。这当然不会使我们感到惊奇，因为欧氏几何对我们来说是相当准确地成立，否则学校里就不会开这门课了。然而，纯数学家通常是不考虑真实的物理世界的。在19世纪，他们开始构想任意维数和曲率的抽象空间，并且极为详尽地描述它们的几何性质。这个工作是高斯开创的，他的学生黎曼（Georg Friedrich
 
-# Bernhard Riemann
+Bernhard Riemann
 
 1826—18 66）发展了它后来使这一理论臻于完善的，主要是克里斯多夫（Bruno Christoffel），李奇—卡拉斯特罗（Ricci—Curastro）和李微—西威塔（Tullio Levi—Civita）。些卓越的数学家阐明，度规结构可以告诉我们空间的情况，特别是它是平直的（欧氏的）还是弯曲的（非欧氏的）。当这些发现刚刚被得出的时候，它们仅仅是使一个小圈子里的数学家从学术上感兴趣的东西。直到爱因斯坦的工作成果问世以后，人们才广泛地认识到这些智慧之果所具有的深刻物理意义。除此之外，也只是由于爱因斯坦和他后继者的工作，时间才同样被纳入几何之如我们前面提到过的，闵可夫斯基关于狭义相对论的研究表明，为了数学物理上的目的，可以把时间作为像另一维空间那样处理。样一来，不仅可以谈论平直的和弯曲的空间，而且可以谈论平直的和弯曲的时空。刚到苏黎世的时候，爱因斯坦并不知道黎曼的工作，以及这件工作对于他本人正在思考的问题的重要意义。但是当他跟格罗斯曼讨论引力问题的时候，格罗斯曼告诉他说，他要寻找的东西是一种时空，它具有所谓的黎曼几何结构，这种结构完全不同于狭义相对论的欧几里得性质。时空的关键特点是，即使它在大尺度上弯曲，在小尺度上也可以看做是平直的，正像一个人站在板球场上，会觉得地球看上去很平坦这样一来，对于描述发生在时空局部区域的事件，狭义相对论和洛伦兹变换仍然可以成立。但是当这个区域扩展到时空曲率变得显著的时候，情况就不再是这样的了。这就像是，板球场在板球队员看来是平坦的，而它所在的那块大陆，在一个宇航员看来却是弯曲的。球面的半径越大，它的曲率越小，而且在任何一点的周围，看来是局部平坦的区域也就越大。从欧氏几何转变为黎曼几何，这是使爱因斯坦得出他的后牛顿引力表示式的关键。起初他还得到了格罗斯曼的帮助。1914年爱因斯坦迁居柏林，在那里他最后完成了广义相对论，他的这一论文题目是
 
@@ -8332,7 +8332,7 @@ Peccei）和海伦·奎因（Helen Quinn）找到了一种扩充方程的方法�
 
 “Axion”，听起来就像我给这种粒子取的名字。因此，当我在理论上提出一种假设的粒子从而解决了轴向流问题时，我感到宇宙是收敛但当我将论文投到《物理快报》（Physical Review letters）后，问题出来了。我告诉编辑，这个词是指轴向流，不是指洗涤剂，问题才解决。]检验这些可能性的伟大实验目前正在进行，有幸的话我们将在几年之内就可以更清楚地知道什么是暗物质。关于暗能量我们知道得更少。它似乎完全是均匀分布的，时时处处都具有相同的密度，就像是时空固有的一种性质。与任何常规物质（甚至与超对称粒子或轴子）不同，暗能量施加的是负压强。将你扯碎！幸运的是，尽管暗能量占到宇宙全部质量的70%左右，但它的密度却只有水的密度的约7×10-30倍，其负压强也只能抵消普通大气压的约7×10-14 ——还不到万亿分之一。对于什么是暗能量，我不知道我们什么时候会有更明确的概念。我猜想这得要很长时间。望我是错的。最后的话我已经向你展示了我收集的最光滑的鹅卵石、最漂亮的贝壳和尚未被发现的海洋。我希望你喜欢它们。毕竟，它们是你的世界。致谢本书的大部分内容来自我过去几年里在各地做的如下一些公开演讲：“宇宙是个奇怪的地方”“世界的数值菜单”“质量起源与引力的虚弱性”和“以太的韧性”等。在此我要感谢上述演讲的主办者，是他们给了我这些机会，同时我还要感谢我的听众，他们给我提出了许多有趣的问题并反馈了许多有用的信息。我要感谢麻省理工学院给予的大力支持；感谢诺蒂克理论物理研究所（Nordita）在写作上给予的慷慨支持；感谢牛津大学为本书的完成所给予的慷慨支持。我要感谢Betsy Devine和Al Shapere对原稿进行的仔细阅读，它使本书在很多方面得到了重要改进。我还要感谢Carol Breen对原稿的意见，特别是对第6章较早版本所提供的帮助。我要感谢John Brockman和Katinka Matson敦促我写作本书
 
-# Bill Frucht
+Bill Frucht
 
 Sandra Beris和Perseus出版集团的大力帮助和鼓励。Betsy的支持和投入始终是我最大的动力。附录 A　粒子有质量，世界有能量正如我们在第3章讨论过的，E=mc2只对静止的孤立物体才成立。对运动物体，正确的质能方程是这里v是速度。对于静止物体（ν=0），它变成E=mc2。当物体——例如，质子和电子——被加速时，ν通常是变化的，但m保持不变。因此，该方程告诉我们，E变了。乍一听，你可能会觉得这听上去与本书里所讨论的主要内容正好我们说，能量是守恒的，但质量却不是。怎么回事？能量守恒适用于系统而不是个别的物体。物体系统的总能量包括动能（上述公式给出）和势能项的贡献，后者反映了物体间的相互作势能项由其他公式给出，它取决于物体之间的距离、它们的电荷以及其他因素。只有总能量是守恒的。孤立物体具有恒定速度。这是牛顿运动第一定律，与第零定律不同的是，它在现代物理学中似乎仍是成立的。当一个物体是孤立的，我们可以将它本身看成一个系统。因此，物体的能量应当守恒，从公式上看也是如此。相反，当一个物体的速度发生变化时，这一变化是个信号，即物体不再是孤立的了。其他一些物体对它有作用，从而产生速度的变一个物体对另一个物体的作用通常引起它们之间的能量转移。时只有总能量是守恒的，每个单独物体的能量则否。当我们用夸克和胶子形成质子时，这些概念就都用到了。角度来看，静止的质子是一个存在夸克和胶子相互作用的复杂系统。单个的夸克和胶子质量很小，但这并不意味着整个系统不能拥有大量我们把系统能量称为E。它在时间上是守恒的，只要整个系统
 
@@ -8428,7 +8428,7 @@ Gross）和我决定提出基于渐近自由的量子色动力学，暂不考虑
 
 e（电子）、μ（μ子）和τ（τ轻子）及其中微子中的一个。些粒子的色荷为零。电子、μ子和τ轻子都有电荷-e。中微子带零电它们都参与弱相互作用。它们有很好（但不完美）的守恒律，按照这一守恒律，电子—反电子总数加上电子中微子—电子反中微子的总数在时间上保持不变（即使其中个别粒子的数目可能会改变），μ子和τ子的情形也同样。例如，μ子衰变的最终产物是一个电子、一个μ子中微子和一个电子反中微子。无论是初态还是终态，μ子的轻子数均为1，电子的轻子数均为零。这些“轻子数守恒律”在中微子振荡现象中失效。统一理论曾预言到轻子数守恒有小的破缺。因此对它的实验观测结果使我们有信心认为这些理论是正确的。[见中微子]
 
-# LHC
+LHC
 
 大型强子对撞机的缩写。LHC利用了欧洲核子研究中心旧的LEP的它使用质子而不是电子和正电子来进行碰撞从而达到更高的能如果LHC不能做出大的发现，就让人奇怪了。至少，我们应当找出构成网格的奇异的超导体。局域对称性允许在不同时空区域之间进行独立变换的一种对称性。局域对称性是一个非常重要的必要条件，很少有方程能够满足。反之，通过假设局域对称性，我们可以导出非常具体的麦克斯韦型和杨—米尔斯型正是这些方程刻画了核心理论和世界。由于一些令人感兴趣但不为人知的历史原因，局域对称性也叫规范对称性。[见对称性，麦克斯韦方程组，杨—米尔斯方程]
 
@@ -8452,11 +8452,11 @@ p=h/λ中，这里p是光子的动量，λ代表光的波长。普朗克单位�
 
 质子有电荷e，其多少与核外电子同，但符号相反。氢的原子核是单个质子。质子的已知寿命至少长于1032年——远远长于宇宙的寿命——但统一理论预言，质子的寿命不会远长于现有的极限，检验这一预言的实验目前正在进
 
-# QCD
+QCD
 
 量子色动力学的简称。[见色动力学]
 
-# QED
+QED
 
 量子电动力学的简称。它是结合进量子理论的电动力学。磁场里既有自发活动（虚光子）也有来自离散的类粒子单位（真正的光子）的扰动[亦见电动力学，光子，量子场]
 
@@ -8464,11 +8464,11 @@ p=h/λ中，这里p是光子的动量，λ代表光的波长。普朗克单位�
 
 正如我们看到的，量子场论的所有这些结果都反映了物理实在的各个重要方面。夸克与胶子一起构成强作用力（实验层面）或量子色动力学（理论层面）的主角。它们是自旋为1/2的费米子。U夸克有3种不同的味——u（上）、c（粲）和t（顶）——其中每一味都具有相同的电荷2e/3和一个单位的色荷（红、白或蓝）；此外，D夸克也有3种不同的味——d（下）、s（奇异）和b（底），每一味也有3种色和电荷 − e/3。用过程可以将一种味变成另一种。因此（色）胶子改变夸克的色荷但不改其味，而W玻色子变味而不改其色。夸克不能直接被观察到，但会在喷注上（实验方面）留下它们的印迹，并被用作建造可观察强子的构件（理论方面）。所有核心的相互作用都保持夸克减去反夸克后总数的守恒。这就是所谓的“重子数守恒”，它确保质子的稳定性。一理论一般认为，存在夸克到轻子转变的相互作用，并由此可能导致质子的衰变。但到目前为止，这种衰变还没有被观测到。[见所有下划线条目]
 
-# RHIC
+RHIC
 
 相对论性重离子对撞机的缩写。RHIC位于长岛的布鲁克海文国家实验室。在非常小的体积和非常短的时间内发生的这种RHIC碰撞提供了与宇宙大爆炸极早期相似的极端条件。薛定谔方程电子波函数的近似方程。薛定谔方程不满足平移对称性，也就是说它与狭义相对论不协调。但它提供了对速度不是很快的电子的好的说明，而且比更准确的狄拉克方程更容易掌握。薛定谔方程是量子化学和固体物理学大多数实际工作的基础。屏蔽正电荷吸引负电荷，从而使电荷被抵消（屏蔽）。这样，正电荷的全部电性力只有在电荷附近才能感受到，离电荷较远的地方力变得很弱，因为大部分力被集聚的负电荷抵消掉了。屏蔽概念在金属理论中非常重要，因为金属中含有可移动的电子。这个概念对“虚空”即网格也非常重要。在此情形下，负的荷是由虚粒子充当的。虽然具体的虚粒子呈此起彼伏的状态，但虚粒子总数是稳定的，并使得网格成为一种动力学介质。[亦见反屏蔽，网格，虚粒子]
 
-# SLAC
+SLAC
 
 斯坦福直线加速器中心的简称。这个装置曾在核心理论的建立过程中起到关键性作用。弗里德曼、肯德尔、泰勒和其合作者正是在这个装置上得到了质子内部结构的高分辨快曝光相片，从而引领我们走上了量子色动力学的道路。实际上，他们用的这台两英里长的电子加速器提供的是一部超级闪光纳米显微镜。自旋基本粒子的自旋是对其角动量的一种量度。角动量则是一个与空间转动有关的守恒量，它与（普通）动量在空间平移下的守恒关系非常相似。[亦见动量]在经典力学里，物体的角动量是对物体的角运动的量度。基本粒子的自旋值是h/2π的整数或整数加1/2倍，这里h是普朗克常数。自旋的大小是每种类型粒子的一个稳定特征。轻子和夸克的自旋值是1/2，因为它们的自旋是h/2π的1/2倍。质子和中子也有自旋1/2。光子、胶子、W玻色子和Z玻色子的自旋为1。介子和假设的希格斯子的自旋为0。光的偏振就是光子自旋的物理体现。孤立物体的角动量是一个守恒量。要改变其角动量我们必须施以快速旋转的陀螺有很大的角动量，这正是它们具有不同寻常的反抗外力能力的主要原因。自发性对称破缺当一组方程的稳定解的对称性小于方程自身的对称性时，我们说它的对称性是自发破缺的。值得注意的是，如果能量条件有利于形成凝聚或背景场，就像第8章和附录B中所讨论的情形，那么就可能会发生这种情况。这时稳定解将是一种充满材料的空间，其性质在某些（前）对称性变换下改变。因此，这种变换已不再是没有差异的区分
 
@@ -8590,7 +8590,7 @@ com/bio/maxbio.
 
 pdf 中有刘易斯·坎贝尔和威廉·加内特（Lewis Campbell and William Garnett）著的《麦克斯韦的生平、书信和作品选集及其科学贡献概要》（The Life of
 
-# James Clerk Maxwell
+James Clerk Maxwell
 
 with a selection from his correspondence
 
@@ -8598,7 +8598,7 @@ and occ asional writings and a sketch of his contributions to
 
 science）。这是关于麦克斯韦的一个绝好的文献源，其中除了老式的优美传记之外，还对他的科学贡献进行了准确的介绍，书中包含了麦克斯韦大量的构图和信件，甚至有一些十四行诗。P139　删除多余的或不重要的信息在进行好的数据压缩设计时，除了使信息短这一简单目标外，还要考虑到其他一些方面。可能会容许某些类型的错误，只要它们不造成严重破坏。例如JPEG格式将连续图像变成离散的像素，并保持适当的色彩精度，通常就是这样来制造好看的“复制品”。有时我们也可能在要传递的信息中加入一些冗余成分，甚至不惜使之变长，这主要是针对优先确保准确性或是信道十分嘈杂等情形。天文测量或全球定位系统（GPS）卫星传递报告就采用这种方式。同样，当人们在进行譬如工程或经济方面的数学建模时，就可能非常关注方程对误差或数据的宽容度，并尽可能容纳经验输入。但是理论物理学则对数据的可压缩性和准确性极度重视。P141　就数据压缩这个最终目的而言在现代数据压缩的概念基础方面，我推荐大卫·麦凯（David Mac Kay）的《信息论》（Information Theory
 
-# Inference
+Inference
 
 and Learning Algorithms）（Cambridge出版公司）。至于理论构建以及哥德尔和图灵的工作方面，见李明和保罗维塔尼（Ming Li and Paul Vitányi）的《柯尔莫哥洛夫复杂性及其应用导论》（An Intr oduction to Kolmog orov
 
@@ -8634,7 +8634,7 @@ Mohapatra）的《统一性和超对称性》（Springer出版公司）都是权
 
 as Siren）”一文见《希腊宗教研究序言》（Prolegomenmatothe
 
-# Study of Greek Religion
+Study of Greek Religion
 
 1922年第3版
 
@@ -8700,11 +8700,11 @@ Waterhouse）的绘画《塞壬》（约1900年）。图版10源于理查德·�
 
 2010年3月于清华园本书是维尔切克为对物理学感兴趣的读者写的一本有关物理学基本相互作用（着重于强相互作用）知识的书。维尔切克以他那惯有的诙谐风趣的语言，从大众熟悉的物质、质量和能量等概念出发，去探索这些概念的底层意义，由此引出他一生中最重要的贡献——渐近自由概念，并最后落脚在他提出的“网格”概念上（详见第8章）。尔切克看来，网格是宇宙时空的基元。他用它直观地解释了普通物质的来源、引力的起源，并通过类比将整个宇宙想象成巨大的网格超导我们不能不佩服物理学家想象力的丰富！同样是因为他是一位物理学家，因此严谨求实的科学态度使他在书的最后指出了网格概念所不能解释的质量起源问题，譬如电子、夸克、中微子以及可能存在的希格斯子的质量起源问题，更不用说还有暗物质和暗能量等的起源问所以说，物理学任重道远，绝不是只剩下仅需修补的“细节”问弗兰克·维尔切克是目前国际上最杰出的理论物理学家之一。为美国麻省理工学院物理系理论物理学教授，其研究领域横跨粒子物理、凝聚态物理和宇宙学等领域。他在普林斯顿大学跟戴维·格罗斯做研究生时提出的渐近自由概念，确定了使原子核紧密结合的色胶子的属性。这项工作使他与导师格罗斯和另一位独立提出这一概念的胡夫·波利策（Huph David Politzer）共同荣获了2004年度诺贝尔物理除此之外，他还以发展量子色动力学、提出轴子、提出并运用新的量子统计形式等工作而闻名。像大多数富于社会责任心和深邃哲学思想的科学大家一样，维尔切克在普及科学知识、传播科学理念方面亦不遗余力且具独到之处，我们通过本书可有体会。在本书出版之前，他还写过一本高级科普著作《神奇的实在》（Fantastic
 
-# Realities
+Realities
 
 49Mind Journe ysanda Tripto Stockholm
 
-# World
+World
 
 Scientific：2006）。此外，他做的讲演和电视节目也广受欢迎。本书在翻译过程中，有些引文的译文参考了国内已有的译文文本，它们是：《牛顿自然哲学著作选》（H.
 
@@ -8768,7 +8768,7 @@ x2，x3
 
 [47] 更准确地说，牛顿理论近似描述广义相对论的结果。当物体的运动速度与光速相比较慢，且物体质量不是很大或质量密度不是很高时，牛顿理论是有效的。[48] 之前我们已经讨论了超短距离和超大能量之间的密切联系。见书后的附注和某些额外的评论。[49] 一会儿我会给出例外情形。[50] 全书都写到了中微子及其性质。（它们确有相互作用，只是非常非常罕）由于这个课题过于专业，有点偏离我们的主题，因此我谈得非常简洁。为详细的讨论及其进一步的参考资料，见书末本章下的附注。[51] 如上所述，中微子是一种特殊情形。[52] 正如我们刚才讨论的，严格来说，电磁作用是一种SU（2）和U（1）产物的因此，SU（1）并不完全是电磁作用。它有自己的适当名称——超荷。通常喜欢用更熟悉的而不是那种学究式正确的术语。[53] 关于这一点，后面还会更多地谈到，见第21章。[54] 我在第8章提到过这一点。[55] 成功的数值计算的惊人结果支持这一点——说明见后。[56] 关于定量上的更多内容，见下一章和书末本章注释。[57] 即由光子、电子、夸克和胶子构成的物质种类。[58] 这方面更深的讨论见附录B。[59] 这段引文见David Brewster于1855年出版的著作《牛顿爵士的生平及发现之怀想》（Memoirs of the Life
 
-# Writings
+Writings
 
 and Discoveries of
 

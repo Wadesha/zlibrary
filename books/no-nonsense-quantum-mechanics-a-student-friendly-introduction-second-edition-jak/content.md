@@ -1,6 +1,5 @@
 Second Edition (Jakob Schwichtenberg) (Z-Library).
 
---- Page 1 ---
 
 # Jakob Schwichtenberg
 
@@ -18,7 +17,6 @@ FROM THE AUTHOR OF THE BESTSELLING TEXTBOOK
 
 # PHYSICS FROM SYMMETRY
 
---- Page 2 ---
 
 # WHEN THINGS GET TOUGH
 
@@ -48,9 +46,7 @@ THE TRUTH ALWAYS TURNS OUT TO BE SIMPLER THAN YOU THOUGHT.
 
 # RICHARD FEYNMAN
 
---- Page 3 ---
 
---- Page 4 ---
 
 # JAKOB SCHWICHTENBERG
 
@@ -62,7 +58,6 @@ THE TRUTH ALWAYS TURNS OUT TO BE SIMPLER THAN YOU THOUGHT.
 
 # NO-NONSENSE BOOKS
 
---- Page 5 ---
 
 no-nonsense
 
@@ -102,13 +97,10 @@ Each copy of No-Nonsense Quantum Mechanics has a unique ID which helps to preven
 
 BOOK EDITION: 2.
 
---- Page 6 ---
 
 # Dedicated to my parents
 
---- Page 7 ---
 
---- Page 8 ---
 
 # Preface
 
@@ -186,7 +178,6 @@ spend months in a state of confusion.
 
 Also, rest reassured that
 
---- Page 9 ---
 
 * This is known as the “Curse of
 
@@ -304,7 +295,6 @@ for example
 
 to build my
 
---- Page 10 ---
 
 reputation.
 
@@ -438,7 +428,6 @@ let’s begin.
 
 ing this book as much as I have enjoyed writing it.
 
---- Page 11 ---
 
 # Karlsruhe
 
@@ -496,7 +485,6 @@ Bill Courtney and John D.
 
 Nelson.
 
---- Page 12 ---
 
 # Before we dive in
 
@@ -602,7 +590,6 @@ versity Press, Oxford England New
 
 York, 2011.
 
---- Page 13 ---
 
 # Notation
 
@@ -674,11 +661,8 @@ We are ready to dive in (after a short look at the table
 
 of contents).
 
---- Page 14 ---
 
---- Page 15 ---
 
---- Page 16 ---
 
 # Contents
 
@@ -738,7 +722,6 @@ eee 85
 
 5 Summary 99
 
---- Page 17 ---
 
 Part II Essential Quantum Systems and Tools
 
@@ -804,7 +787,6 @@ Part III What Your Professor is Not Telling You About
 
 # 14.1 The Pilot Wave Formulation..............
 
---- Page 18 ---
 
 # 14.2 Path Integrals ...............-000005.
 
@@ -836,9 +818,7 @@ B_ Fourier Transform
 
 # Index
 
---- Page 19 ---
 
---- Page 20 ---
 
 # Part I
 
@@ -862,9 +842,7 @@ nononsensebooks .
 
 com/qm/part1.
 
---- Page 21 ---
 
---- Page 22 ---
 
 Now it’s time to get serious.
 
@@ -1012,7 +990,6 @@ ematics that allows us to describe
 
 symmetries.
 
---- Page 23 ---
 
 22 NO-NONSENSE QUANTUM MECHANICS
 
@@ -1098,7 +1075,6 @@ Newton’s Second Law Angular Momentum
 
 # Spin
 
---- Page 24 ---
 
 # CONTENTS
 
@@ -1124,9 +1100,7 @@ take a deep breath and then
 
 let’s dive in.
 
---- Page 25 ---
 
---- Page 26 ---
 
 Bird’s-Eye View of Quantum
 
@@ -1194,7 +1168,6 @@ eigenvalues
 
 expectation values).
 
---- Page 27 ---
 
 26 NO-NONSENSE QUANTUM MECHANICS
 
@@ -1300,7 +1273,6 @@ experiment:
 
 where Ô is an operator and O_spec is a number.
 
---- Page 28 ---
 
 BIRD’S-EYE VIEW OF QUANTUM MECHANICS 27
 
@@ -1428,7 +1400,6 @@ in terms of basis vectors
 
 v = v_x e_x + v_y e_y + v_z e_z.
 
---- Page 29 ---
 
 28 NO-NONSENSE QUANTUM MECHANICS
 
@@ -1524,7 +1495,6 @@ work, we can calculate expectation values by "sandwiching" the
 
 corresponding operator between a bra and the corresponding
 
---- Page 30 ---
 
 BIRD’S-EYE VIEW OF QUANTUM MECHANICS 29
 
@@ -1626,7 +1596,6 @@ AB - BA = 0
 
 there is a common set of eigenstates.
 
---- Page 31 ---
 
 30 NO-NONSENSE QUANTUM MECHANICS
 
@@ -1752,7 +1721,6 @@ describe the system.
 
 The time-evolution of quantum systems is described by the
 
---- Page 32 ---
 
 BIRD’S-EYE VIEW OF QUANTUM MECHANICS 31
 
@@ -1824,9 +1792,7 @@ let’s take a step back and talk
 
 about these concepts in a bit more detail.
 
---- Page 33 ---
 
---- Page 34 ---
 
 # Essential Quantum Features
 
@@ -1878,7 +1844,6 @@ Group, New York, 2011.
 
 978-0465025015
 
---- Page 35 ---
 
 34 NO-NONSENSE QUANTUM MECHANICS
 
@@ -1934,7 +1899,6 @@ bullet
 
 gun
 
---- Page 36 ---
 
 # ESSENTIAL QUANTUM FEATURES 35
 
@@ -1994,7 +1958,6 @@ very tiny bullets.
 
 when we shoot electrons towards
 
---- Page 37 ---
 
 36 NO-NONSENSE QUANTUM MECHANICS
 

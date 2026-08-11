@@ -356,7 +356,7 @@ Vol.
 
 Strickland, S.
 
-# Circumscribing science
+Circumscribing science
 
 Johann Wilhelm Ritter and the Physics of Sidereal Man [D].
 
@@ -378,7 +378,7 @@ Erfurt：Henningschen Buchhandlung, 1803.
 
 Trumpler, M.
 
-# Questioning Nature
+Questioning Nature
 
 Experimental Investigations of Animal Electricity [D].
 
@@ -388,7 +388,7 @@ dissertation, 1992.
 
 Wetzels, W.
 
-# Johann Wilhelm Ritter
+Johann Wilhelm Ritter
 
 Physik im Wirkungsfeld der deutschen Romantik [M].
 
@@ -406,9 +406,9 @@ Jardine, eds.
 
 , Romanticism and the Sciences [M].
 
-# Cambridge
+Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 1990: 199–212.
 
@@ -470,7 +470,7 @@ Cheney, M.
 
 Tesla：Man Out of Time [M].
 
-# Englewood Cliffs
+Englewood Cliffs
 
 NJ：Prentice—Hall
 
@@ -488,7 +488,7 @@ Nygaard.
 
 ies, Together with Some of its Most Surprising Effects’ [J].
 
-# Philosophical Transactions
+Philosophical Transactions
 
 1735, 39
 
@@ -498,9 +498,9 @@ Heilbron, J.
 
 Elements of Early Modern Physics [M].
 
-# Berkeley
+Berkeley
 
-# University of California Press
+University of California Press
 
 1982.
 
@@ -508,7 +508,7 @@ Jex-Blake, A.
 
 ‘Death by Electric Currents and by Lightning’ [J].
 
-# The British Medical Journal
+The British Medical Journal
 
 1913, 1(2724)
 
@@ -526,7 +526,7 @@ Montoya T.
 
 ‘Failures in Outdoor Insulation Caused by Bird Excrement’ [J].
 
-# Electric Power Systems Research
+Electric Power Systems Research
 
 2010, 80
 
@@ -536,7 +536,7 @@ Needham, J.
 
 ‘Concerning Some New Electrical Experiments Lately Made at Paris’ [J].
 
-# Philosophical Transactions
+Philosophical Transactions
 
 1746, 44
 
@@ -546,9 +546,9 @@ Riely, E.
 
 ‘Benjamin Franklin and the American Turkey’ [J].
 
-# Gastronomica
+Gastronomica
 
-# The Journal of Food and Culture
+The Journal of Food and Culture
 
 2006, 6(4)
 
@@ -556,13 +556,13 @@ Riely, E.
 
 Schiffer, M.
 
-# Draw the Lightning Down
+Draw the Lightning Down
 
 Benjamin Franklin and Electrical Technology in the Age of Enlightenment [M].
 
-# Berkeley
+Berkeley
 
-# University of California Press
+University of California Press
 
 2003.
 
@@ -572,7 +572,7 @@ Watson, W.
 
 Lately Published’ [J].
 
-# Philosophical Transactions
+Philosophical Transactions
 
 1751, 47
 
@@ -582,7 +582,7 @@ Winkler, J.
 
 ‘Concerning the Effects of Electricity upon Himself and his Wife’ [J].
 
-# Philosophical Transactions
+Philosophical Transactions
 
 1746, 44
 
@@ -604,13 +604,13 @@ stm.
 
 de la Peña, C.
 
-# The Body Electric
+The Body Electric
 
 How Strange Machines Built the Modern American [M].
 
-# New York
+New York
 
-# New York University Press
+New York University Press
 
 2003.
 
@@ -640,7 +640,7 @@ New York Times, 1912-2-18(C4).
 
 Electricity as a Growth Stimulator’ [J].
 
-# Scientific American
+Scientific American
 
 1913-10-11
 
@@ -654,7 +654,7 @@ New York Times, 1912-8-18(SM1).
 
 ‘Novel Application of Electricity’ [J].
 
-# New England Medical Gazette
+New England Medical Gazette
 
 1869, 4(3)
 
@@ -664,7 +664,7 @@ Spence, C.
 
 ‘Early Uses of Electricity in American Agriculture’ [J].
 
-# Technology and Culture
+Technology and Culture
 
 1962, 3(2)
 
@@ -678,7 +678,7 @@ Andrews, C.
 
 with Special Emphasis on Special Sense Orifices as Portals of Entry’ [J].
 
-# Seminars in Neurology
+Seminars in Neurology
 
 1995, 15(3)
 
@@ -690,11 +690,11 @@ New York Times, 1939-11-1(17).
 
 Friedman, J.
 
-# Out of the Blue
+Out of the Blue
 
 A History of Lightning—Science
 
-# Superstition
+Superstition
 
 and Amazing Stories of Survival [M].
 
@@ -718,9 +718,9 @@ Schaffer, eds.
 
 Studies in the Natural Sciences [M].
 
-# Cambridge
+Cambridge
 
-# Cambridge University Press
+Cambridge University Press
 
 1989, 31–66.
 
@@ -730,7 +730,7 @@ Henley, W.
 
 in Securing Buildings Against the Stroke of Lightning’ [J].
 
-# Philosophical Transactions
+Philosophical Transactions
 
 1774, 64
 
@@ -756,9 +756,9 @@ Kouwenhoven.
 
 ‘Injuries Produced in the Organism by the Discharge from an Impulse Generator’ [J].
 
-# Journal of Industrial Hygiene
+Journal of Industrial Hygiene
 
-# October 1931
+October 1931
 
 13(8): 326–30.
 
@@ -792,7 +792,7 @@ A New Look at a Roman Religious Institution in the Light of Rev 13
 
 13–15’ [J].
 
-# Journal of Biblical Literature
+Journal of Biblical Literature
 
 1984, 103(4)
 
@@ -800,13 +800,13 @@ A New Look at a Roman Religious Institution in the Light of Rev 13
 
 Schiffer, M.
 
-# Draw the Lightning Down
+Draw the Lightning Down
 
 Benjamin Franklin and Electrical Technology in the Age of Enlightenment [M].
 
-# Berkeley
+Berkeley
 
-# University of California Press
+University of California Press
 
 2003.
 
@@ -814,11 +814,11 @@ Wall, W.
 
 ‘Experiments of the Luminous Qualities of Amber
 
-# Diamonds
+Diamonds
 
 and Gum Lac’ [J].
 
-# Philosophical Transactions
+Philosophical Transactions
 
 1708, 26
 
@@ -848,7 +848,7 @@ Gerstell, R.
 
 ‘How You Can Survive an A—Bomb Blast’ [N].
 
-# Saturday Evening Post
+Saturday Evening Post
 
 1950-1-7
 
@@ -878,7 +878,7 @@ Vol.
 
 1, New York
 
-# The Ronald Press Company
+The Ronald Press Company
 
 1944, 389–412.
 
@@ -890,9 +890,9 @@ in Tanner
 
 , Stress and Psychiatric Disorder [M].
 
-# Oxford
+Oxford
 
-# Blackwell Scientific Publications
+Blackwell Scientific Publications
 
 1950.
 
@@ -906,7 +906,7 @@ Millar.
 
 ‘Employment of Air-Raid Noises in Psychotherapy’ [J].
 
-# British Medical Journal
+British Medical Journal
 
 1941-8-2
 
@@ -924,7 +924,7 @@ London: Random House, 2000.
 
 Shurcliff, W.
 
-# Bombs at Bikini
+Bombs at Bikini
 
 The Official Report of Operation Crossroads [M].
 
@@ -934,13 +934,13 @@ Wise and Co, 1947.
 
 Weisgall, J.
 
-# Operation Crossroads
+Operation Crossroads
 
-# The Atomic Tests at Bikini Atoll
+The Atomic Tests at Bikini Atoll
 
 [M].
 
-# Annapolis
+Annapolis
 
 MD: Naval Institute Press
 
@@ -968,9 +968,9 @@ Clarke, W.
 
 ‘VD Control in Atom-Bombed Areas’ [J].
 
-# Journal of Social Hygiene
+Journal of Social Hygiene
 
-# January 1951
+January 1951
 
 37(1)3–7.
 
@@ -978,7 +978,7 @@ Gerstell, R.
 
 How to Survive an Atomic Bomb, [M].
 
-# Washington
+Washington
 
 DC: Combat Forces Press
 
@@ -988,7 +988,7 @@ Hanifan, D.
 
 Physiological and Psychological Effects of Overloading Shelters [M].
 
-# Santa Monica
+Santa Monica
 
 CA: Dunlap and Associates
 
@@ -1008,19 +1008,19 @@ Los Angeles Times, 1955-5-7(1).
 
 ‘Pig 311’ [Z].
 
-# Record Unit 365
+Record Unit 365
 
-# Series 4
+Series 4
 
-# Box 25
+Box 25
 
-# Folder 1
+Folder 1
 
 in Animal Information Files
 
 1855–1986 and undated
 
-# National Zoological Park
+National Zoological Park
 
 Office of Public Affairs.
 
@@ -1038,23 +1038,23 @@ Collier’s 1951-8-11, 128(6)24–5, 54.
 
 Rose, K.
 
-# One Nation Underground
+One Nation Underground
 
 The Fallout Shelter in American Culture [M].
 
-# New York
+New York
 
-# New York University Press
+New York University Press
 
 2001.
 
 Vernon, J.
 
-# Project Hideaway
+Project Hideaway
 
 A Pilot Feasibility Study of Fallout Shelters for Families [M].
 
-# Princeton
+Princeton
 
 NJ: Princeton University
 
@@ -1086,9 +1086,9 @@ Dupont, D.
 
 ‘Nuclear Explosions in Orbit’, [J].
 
-# Scientific American
+Scientific American
 
-# June 2004
+June 2004
 
 290(6)100–7.
 
@@ -1100,9 +1100,9 @@ Gamow.
 
 ‘A Rocket around the Moon’ [J].
 
-# Scientific American
+Scientific American
 
-# June 1957
+June 1957
 
 196(6)47–53.
 
@@ -1136,7 +1136,7 @@ O’Neill, D.
 
 How Alaska Escaped Nuclear Excavation’ [J].
 
-# Bulletin of the Atomic Scientists
+Bulletin of the Atomic Scientists
 
 1989, 45(10)28–37.
 
@@ -1164,7 +1164,7 @@ Ulivi, P.
 
 Harland.
 
-# Lunar Exploration
+Lunar Exploration
 
 Human Pioneers and Robotic Surveyors [M].
 
@@ -1210,7 +1210,7 @@ Science, 1965-7-19, 149(3680)141–4.
 
 Dyson, G.
 
-# Project Orion
+Project Orion
 
 The True Story of the Atomic Spaceship [M].
 
@@ -1236,7 +1236,7 @@ Hoff.
 
 Effects of Suggestion and Bias in Identification from Photographs’ [J].
 
-# Bulletin of the Psychonomic Society
+Bulletin of the Psychonomic Society
 
 1975, 6(1)71–4.
 
@@ -1252,7 +1252,7 @@ Greer, D.
 
 The Reliability of Testimony in Criminal Trials’ [J].
 
-# British Journal of Criminology
+British Journal of Criminology
 
 1971, 11(2)131–54.
 
@@ -1274,15 +1274,15 @@ Journal of the American Institute of Criminal Law and Criminology
 
 Münsterberg, H.
 
-# On the Witness Stand
+On the Witness Stand
 
 Essays on Psychology and Crime [M].
 
-# Garden City
+Garden City
 
 NY: Doubleday
 
-# Page & Company
+Page & Company
 
 1917.
 
@@ -1290,7 +1290,7 @@ Von Liszt, F.
 
 ‘Strafrecht und Psychologie’ [J].
 
-# Deutsche Juristen-Zeitung
+Deutsche Juristen-Zeitung
 
 1902, 7
 
@@ -1306,7 +1306,7 @@ Hubbell.
 
 ‘“Egocentricity” in Adult Conversation’ [J].
 
-# Journal of Social Psychology
+Journal of Social Psychology
 
 1938, 9(2)227–34.
 
@@ -1318,7 +1318,7 @@ Burtt.
 
 ‘A Study of Conversations’ [J].
 
-# Journal of Comparative Psychology
+Journal of Comparative Psychology
 
 1924, 4
 
@@ -1338,11 +1338,11 @@ Journal of Abnormal Psychology and Social Psychology
 
 Stein, M.
 
-# Lovers
+Lovers
 
-# Friends
+Friends
 
-# Slaves
+Slaves
 
 The Nine Male Sexual Types [M].
 
@@ -1358,7 +1358,7 @@ O’Shea.
 
 A Study of Direction Giving in Iran and England’ [J].
 
-# European Journal of Social Psychology
+European Journal of Social Psychology
 
 1976, 6(4)447–58.
 
@@ -1384,7 +1384,7 @@ Coney.
 
 ‘Uninformed Response Error in Survey Research’ [J].
 
-# Journal of Marketing Research
+Journal of Marketing Research
 
 1981, 18(3)370–4.
 
@@ -1392,7 +1392,7 @@ Payne, S.
 
 ‘Thoughts about Meaningless Questions’ [J].
 
-# Public Opinion Quarterly
+Public Opinion Quarterly
 
 1950, 14(4)687–96.
 
@@ -1404,7 +1404,7 @@ Presser.
 
 ‘The Assessment of “No Opinion” in Attitude Surveys’ [J].
 
-# Sociological Methodology
+Sociological Methodology
 
 1979, 10
 
@@ -1414,9 +1414,9 @@ Asch, S.
 
 ‘Opinions and Social Pressure’ [J].
 
-# Scientific American
+Scientific American
 
-# November 1955
+November 1955
 
 193(5)31–5.
 
@@ -1434,13 +1434,13 @@ New York：Reinhold Publishing Corp.
 
 Korn, J.
 
-# Illusions of Reality
+Illusions of Reality
 
 A History of Deception in Social Psychology [M].
 
-# Albany
+Albany
 
-# State University of New York Press
+State University of New York Press
 
 1997.
 
@@ -1450,13 +1450,13 @@ Latané, B.
 
 Darley.
 
-# The Unresponsive Bystander
+The Unresponsive Bystander
 
 Why Doesn’t He Help?
 
 [M].
 
-# Englewood Cliffs
+Englewood Cliffs
 
 NJ：Prentice—Hall
 
@@ -1464,7 +1464,7 @@ Inc, 1970.
 
 Milgram, S.
 
-# Obedience to Authority
+Obedience to Authority
 
 An Experimental View [M].
 
@@ -1478,7 +1478,7 @@ Science,1973, 179(4070)250–8.
 
 ‘The Contextual Nature of Psychiatric Diagnosis’ [J].
 
-# Journal of Abnormal Psychology
+Journal of Abnormal Psychology
 
 1975, 84(5)462–74.
 
@@ -1486,13 +1486,13 @@ Spitzer, R.
 
 ‘On Pseudoscience in Science
 
-# Logic in Remission
+Logic in Remission
 
 and Psychiatric Diagnosis
 
 A Critique of Rosenhan’s “On Being Sane in Insane Places”’ [J].
 
-# Journal of Abnormal Psychology
+Journal of Abnormal Psychology
 
 1975, 84(5) 442–52.
 
@@ -1500,7 +1500,7 @@ Kaplan, R.
 
 ‘Reflections on the Doctor Fox Paradigm’ [J].
 
-# Journal of Medical Education
+Journal of Medical Education
 
 1974, 49(3)310–12.
 
@@ -1516,7 +1516,7 @@ Donnelly.
 
 A Paradigm of Educational Seduction’ [J].
 
-# Journal of Medical Education
+Journal of Medical Education
 
 1973, 48(7)630–5.
 
@@ -1530,7 +1530,7 @@ Williams.
 
 A Study of Lecturer Effectiveness and Ratings of Instruction’ [J].
 
-# Journal of Medical Education
+Journal of Medical Education
 
 1975, 50(2) 149–56.
 
@@ -1552,7 +1552,7 @@ Gorillas & Chimpanzees [M].
 
 London：Osgood, McIlvaine & Co, 1896.
 
-# Apes and Monkeys
+Apes and Monkeys
 
 Their Life and Language [M].
 
@@ -1560,13 +1560,13 @@ Boston：Ginn & Company, 1900.
 
 Radick, G.
 
-# The Simian Tongue
+The Simian Tongue
 
 The Long Debate about Animal Language [M].
 
-# Chicago
+Chicago
 
-# University of Chicago Press
+University of Chicago Press
 
 2007.
 
@@ -1644,11 +1644,11 @@ Köhler, W.
 
 The Mentality of Apes [M].
 
-# New York
+New York
 
-# Harcourt
+Harcourt
 
-# Brace & Company
+Brace & Company
 
 1925.
 
@@ -1670,11 +1670,11 @@ Teuber, M.
 
 ‘The Founding of the Primate Station
 
-# Tenerife
+Tenerife
 
 Canary Islands’ [J].
 
-# American Journal of Psychology
+American Journal of Psychology
 
 1994, 107(4)551–81.
 
@@ -1682,7 +1682,7 @@ Witmer, L.
 
 ‘A Monkey with a Mind’ [J].
 
-# Psychological Clinic
+Psychological Clinic
 
 1909-12-15
 
@@ -1712,7 +1712,7 @@ Kortlandt, A.
 
 The Wild [J].
 
-# Scientific American
+Scientific American
 
 1962, 206(5)
 
@@ -1730,9 +1730,9 @@ Kuhn, eds.
 
 , Neue Ergebnisse der Primatologie [M].
 
-# Stuttgart
+Stuttgart
 
-# Gustav Fischer Verlag
+Gustav Fischer Verlag
 
 1966, 208–24.
 
@@ -1740,7 +1740,7 @@ How Might Early Hominids Have Defended Themselves Against Large Predators and Fo
 
 [J].
 
-# Journal of Human Evolution
+Journal of Human Evolution
 
 1980, 9
 
@@ -1748,7 +1748,7 @@ How Might Early Hominids Have Defended Themselves Against Large Predators and Fo
 
 Röell, D.
 
-# The World of Instinct
+The World of Instinct
 
 Niko Tinbergen and the Rise of Ethology in the Netherlands (1920–1950) [M].
 
@@ -1766,15 +1766,15 @@ Fedigan, eds.
 
 , Primate Encounters
 
-# Models of Science
+Models of Science
 
-# Gender
+Gender
 
 and Society [M].
 
-# Chicago
+Chicago
 
-# Chicago University Press
+Chicago University Press
 
 2000, 116–37.
 
@@ -1800,7 +1800,7 @@ and Male–Male Sexual Behavior in the Stumptail Monkey
 
 with Special Attention to the Female Orgasm [J].
 
-# Archives of Sexual Behavior
+Archives of Sexual Behavior
 
 1974, 3(2)
 
@@ -1808,19 +1808,19 @@ with Special Attention to the Female Orgasm [J].
 
 Dewsbury, D.
 
-# Monkey Farm
+Monkey Farm
 
 A History of the Yerkes Laboratories of Primate Biology
 
-# Orange Park
+Orange Park
 
-# Florida
+Florida
 
 1930–1965 [M].
 
-# Lewisburg
+Lewisburg
 
-# Bucknell University Press
+Bucknell University Press
 
 2006.
 
@@ -1838,7 +1838,7 @@ Hamilton, G.
 
 A Study of Sexual Tendencies in Monkeys and Baboons [J].
 
-# Journal of Animal Behavior
+Journal of Animal Behavior
 
 1914, 4(5)
 
@@ -1846,9 +1846,9 @@ A Study of Sexual Tendencies in Monkeys and Baboons [J].
 
 Haraway, D.
 
-# Primate Visions
+Primate Visions
 
-# Gender
+Gender
 
 Race, and Nature in the World of Modern Science [M].
 
@@ -1858,7 +1858,7 @@ Hrdy, S.
 
 The Woman that Never Evolved [M].
 
-# Cambridge
+Cambridge
 
 MA: Harvard University Press
 
@@ -1878,7 +1878,7 @@ Michael.
 
 The Clutching Reaction and Orgasm in the Female Rhesus Monkey (Macaca mulatta) [J].
 
-# Journal of Endocrinology
+Journal of Endocrinology
 
 1968, 40(1)
 
@@ -1898,7 +1898,7 @@ A Journey to Freedom [J].
 
 Smithsonian, April 1981, 12(1): 90–101.
 
-# Freed from Keepers and Cages
+Freed from Keepers and Cages
 
 Chimps Come of Age on Baboon Island [J].
 
@@ -1906,17 +1906,17 @@ Smithsonian, June 1988, 19(3): 36–49.
 
 Douthwaite, J.
 
-# The Wild Girl
+The Wild Girl
 
-# Natural Man
+Natural Man
 
 and the Monster
 
 Dangerous Experiments in the Age of Enlightenment [M].
 
-# Chicago
+Chicago
 
-# University of Chicago Press
+University of Chicago Press
 
 2002.
 
@@ -1928,7 +1928,7 @@ Chicago Tribune, 1976-1-8.
 
 Hess, E.
 
-# Nim Chimpsky
+Nim Chimpsky
 
 The Chimp Who Would Be Human [M].
 
@@ -1940,19 +1940,19 @@ Kellogg, W.
 
 Kellogg.
 
-# The Ape and the Child
+The Ape and the Child
 
 A Study of Environmental Influence upon Early Behavior [M].
 
-# New York
+New York
 
-# McGraw-Hill Book Company
+McGraw-Hill Book Company
 
 Inc, 1933.
 
 Peterson, D.
 
-# Chimpanzee Travels
+Chimpanzee Travels
 
 On and Off the Road in Africa [M].
 
@@ -1964,7 +1964,7 @@ Lucy: Growing Up Human.
 
 A Chimpanzee Daughter in a Psychotherapist’s Family [M].
 
-# Palo Alto
+Palo Alto
 
 CA: Science and Behavior Books
 
@@ -1978,11 +1978,11 @@ Contributions to the Physiology of the Stomach.
 
 XLV.
 
-# Hunger
+Hunger
 
 Appetite and Gastric Juice Secretion in Man During Prolonged Fasting (Fifteen Days) [J].
 
-# American Journal of Physiology
+American Journal of Physiology
 
 1918, 45
 
@@ -2000,13 +2000,13 @@ Transactions of the American Philosophical Society
 
 Elmore, J.
 
-# Joseph Goldberger
+Joseph Goldberger
 
 An Unsung Hero of American Clinical Epidemiology [J].
 
-# Annals of Internal Medicine
+Annals of Internal Medicine
 
-# September 1994
+September 1994
 
 121(5)
 
@@ -2014,11 +2014,11 @@ An Unsung Hero of American Clinical Epidemiology [J].
 
 Goldberger, J.
 
-# The Transmissibility of Pellagra
+The Transmissibility of Pellagra
 
 Experimental Attempts at Transmission to the Human Subject [J].
 
-# Southern Medical Journal
+Southern Medical Journal
 
 1917-4-1
 
@@ -2034,7 +2034,7 @@ Centralblatt für Bakteriologie und Parasitenkunde
 
 748–9.
 
-# Has an Appetite for Hardware
+Has an Appetite for Hardware
 
 Glass and Gravel [N].
 
@@ -2044,7 +2044,7 @@ Hoelzel, F.
 
 The Rate of Passage of Inert Materials through the Digestive Tract [J].
 
-# American Journal of Physiology
+American Journal of Physiology
 
 1930, 92
 
@@ -2054,7 +2054,7 @@ Koino, S.
 
 Experimental Infections on Human Body with Ascarides [J].
 
-# Japan Medical World
+Japan Medical World
 
 1922-11-15
 
@@ -2074,7 +2074,7 @@ Spallanzani on Spontaneous Generation and Digestion [J].
 
 Proceedings of the Royal Society of Medicine
 
-# February 1930
+February 1930
 
 23(4): 495–510.
 
@@ -2082,9 +2082,9 @@ La Roche, R.
 
 Yellow Fever Considered in its Historical
 
-# Pathological
+Pathological
 
-# Etiological
+Etiological
 
 and Therapeutical Relations [M].
 
@@ -2124,7 +2124,7 @@ Beverages Obtained from Soda Fountain Machines in the U.
 
 Contain Microorganisms Including Coliform Bacteria [J].
 
-# Internat
+Internat
 
 International Journal of Food Microbiology
 
@@ -2136,7 +2136,7 @@ Baerg, W.
 
 ‘The Effects of the Bite of Latrodectus mactans Fabr’ [J].
 
-# Journal of Parasitology
+Journal of Parasitology
 
 1923, 9(3)161–9.
 
@@ -2144,7 +2144,7 @@ Barnes, J.
 
 ‘Cause and Effect in Irukandji Stingings’ [J].
 
-# Medical Journal of Australia
+Medical Journal of Australia
 
 1964-6-13
 
@@ -2156,7 +2156,7 @@ Blair, A.
 
 Experimental Study of the Effects of the Bite of the Female Latrodectus mactans in Man’ [J].
 
-# Archives of Internal Medicine
+Archives of Internal Medicine
 
 1934, 54(6)831–43.
 
@@ -2178,7 +2178,7 @@ Dye.
 
 ‘Conscious Neurosensory Mapping of the Internal Structures of the Human Knee without Intraarticular Anesthesia’ [J].
 
-# American Journal of Sports Medicine
+American Journal of Sports Medicine
 
 1998, 26(6)773–7.
 
@@ -2206,13 +2206,13 @@ Brown.
 
 ‘Functional Afferent Innervation of Testis’ [J].
 
-# Journal of Neurophysiology
+Journal of Neurophysiology
 
 1973, 36(3)425–33.
 
 Ryan, C.
 
-# The Pre-Astronauts
+The Pre-Astronauts
 
 Manned Ballooning on the Threshold of Space [M].
 
@@ -2234,9 +2234,9 @@ Schmidt, eds.
 
 Adaptive Mechanisms and Strategies of Prey and Predators [M].
 
-# Albany
+Albany
 
-# State University of New York Press
+State University of New York Press
 
 1990, 387–419.
 
@@ -2290,7 +2290,7 @@ New York Times, 1932-4-2(23).
 
 Freud, S.
 
-# Cocaine Papers
+Cocaine Papers
 
 edited by Anna Freud [M].
 
@@ -2326,9 +2326,9 @@ Kane, E.
 
 ‘Autoappendectomy：A Case History’ [J].
 
-# International Journal of Surgery
+International Journal of Surgery
 
-# March 1921
+March 1921
 
 34(3)100–2.
 
@@ -2344,7 +2344,7 @@ Murphy, L.
 
 ‘Self-Performed Operations for Stone in the Bladder’ [J].
 
-# British Journal of Urology
+British Journal of Urology
 
 1969, 41(5)515–29.
 
@@ -2356,7 +2356,7 @@ Bermel.
 
 ‘Autoappendicectomy in the Antarctic’ [J].
 
-# British Medical Journal
+British Medical Journal
 
 2009, 339
 
@@ -2374,7 +2374,7 @@ of Hartford Connecticut
 
 ’ [J].
 
-# Providence Medical and Surgical Journal
+Providence Medical and Surgical Journal
 
 1848-5-31
 
@@ -2428,9 +2428,9 @@ Holstein, B.
 
 ‘The Mysterious Disappearance of Ettore Majorana’ [J].
 
-# Journal of Physics
+Journal of Physics
 
-# Conference Series
+Conference Series
 
 2009, 173
 

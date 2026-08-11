@@ -1,6 +1,5 @@
 Jacques Dupont-Roc etc.) (Z-Library).
 
---- Page 1 ---
 
 # Claude Cohen-Tannoudji
 
@@ -126,7 +125,6 @@ Calculation of g(p).
 
 # Evaluation of the
 
---- Page 2 ---
 
 Derivatives of g(p).
 
@@ -272,7 +270,6 @@ Formalism with Complex Fields, g.
 
 # Hamiltonian Formalism and
 
---- Page 3 ---
 
 # Quantization with Complex Fields
 
@@ -408,7 +405,6 @@ Lagrangian.
 
 # The Lagrangian in the Coulomb Gauge
 
---- Page 4 ---
 
 The Hamiltonian in the Presence of an External Field—a.
 
@@ -652,7 +648,6 @@ V INTRODUCTION TO THE COVARIANT FORMULATION OF
 
 # QUANTUM ELECTRODYNAMICS
 
---- Page 8 ---
 
 # Introduction
 
@@ -802,7 +797,6 @@ Charge and Current Density.
 
 # Connection with the
 
---- Page 9 ---
 
 Covariant Notation.
 
@@ -938,7 +932,6 @@ Absorption (of photons)
 
 Action:
 
---- Page 10 ---
 
 for a discrete system, 81
 
@@ -1054,7 +1047,6 @@ of vector functions, 51, 55
 
 Bessel:
 
---- Page 11 ---
 
 Bessel functions, 345e
 
@@ -1886,7 +1878,6 @@ Hamiltonian for particles in an external field
 
 for a Dirac particle, 410
 
---- Page 17 ---
 
 electric dipole representation (E · r)
 
@@ -2044,7 +2035,6 @@ in the electric dipole representation
 
 312, 315
 
---- Page 18 ---
 
 in the Power-Zienau-Woolley representation
 
@@ -2206,7 +2196,6 @@ Light intensity, 185
 
 Linear response, 221, 352e
 
---- Page 19 ---
 
 Linear susceptibility, 221, 352e
 
@@ -2354,7 +2343,6 @@ in reciprocal space, 12, 21
 
 Mechanical momentum, 20, 177, 271, 290
 
---- Page 20 ---
 
 Mode, 24
 
@@ -2508,7 +2496,6 @@ scalar and longitudinal normal variables
 
 transverse normal variables, 25, 29, 374
 
---- Page 21 ---
 
 O
 
@@ -2650,7 +2637,6 @@ in the Goppert-Mayer approach
 
 in the Henneberger approach, 277, 345e
 
---- Page 22 ---
 
 in the Power-Zienau-Woolley approach
 
@@ -2814,7 +2800,6 @@ for a real field, 94, 148e
 
 second quantization, 414, 439
 
---- Page 23 ---
 
 Quantization of the electromagnetic field
 
@@ -2954,7 +2939,6 @@ see also Covariant
 
 (QED.
 
---- Page 24 ---
 
 description of classical particles, 107
 
@@ -3074,7 +3058,6 @@ of the transverse polarization, 290, 329
 
 S-matrix:
 
---- Page 25 ---
 
 definition, 299, 317
 
@@ -3210,7 +3193,6 @@ from the Coulomb gauge to the Lorentz gauge (or vice versa)
 
 Goppert-Mayer transformation, 269, 304
 
---- Page 26 ---
 
 # Henneberger transformation
 
@@ -3394,7 +3376,6 @@ Vacuum, 186, 189, 252e, 385, 386, 394
 
 Vacuum fluctuations, 191, 199, 279
 
---- Page 27 ---
 
 # Vector potential
 
@@ -3436,7 +3417,6 @@ Z
 
 see Power-Zienau-Woolley transformation
 
---- Page 28 ---
 
 # Preface
 
@@ -3532,7 +3512,6 @@ treat the
 
 # XVII
 
---- Page 29 ---
 
 # XVII Preface
 
@@ -3564,7 +3543,6 @@ We want to thank particularly Jean Dalibard
 
 who has been of such great help in the development of the exercises.
 
---- Page 30 ---
 
 # Introduction
 
@@ -3624,7 +3602,6 @@ the canonical quantization
 
 two operators whose commutator equals iℏ then represent the two correspond-
 
---- Page 31 ---
 
 2 Introduction
 
@@ -3754,7 +3731,6 @@ generally sufficient for the low-energy domain treated here.
 
 In addition,
 
---- Page 32 ---
 
 # Introduction 3
 
@@ -4148,7 +4124,6 @@ To begin, one writes Equations (B.
 
 variables of the particles and and the associated operators.
 
---- Page 63 ---
 
 34 Classical Electrodynamics D.2
 
@@ -4264,7 +4239,6 @@ physically equivalent.
 
 It is thus possible to construct many equivalent
 
---- Page 64 ---
 
 2 Various Possible Quantization Schemes 35
 
@@ -4316,7 +4290,6 @@ D), Akhiezer and Berestetskii (Chapter I)
 
 Cohen-Tannoudji (§1).
 
---- Page 65 ---
 
 36 Classical Electrodynamics E
 
@@ -4392,7 +4365,6 @@ where in writing the right-hand side
 
 we have noted that
 
---- Page 66 ---
 
 1 The “Transverse” Delta Function 37
 
@@ -4536,7 +4508,6 @@ where r is the position of the electron with respect to the nucleus and where it
 
 further understood that the dipole-dipole interaction is regularized at r = 0.
 
---- Page 74 ---
 
 1 Angular Momentum of the Electromagnetic Field 45
 
@@ -4722,11 +4693,9 @@ since A_⊥ is gauge invariant [see (B.
 
 26)].
 
---- Page 75 ---
 
 46 Classical Electrodynamics B,.1
 
---- Page 76 ---
 
 2 Angular Momentum of the Electromagnetic Field 47
 
@@ -4884,7 +4853,6 @@ always been respected and is as it appears in the equations.
 
 # If one neglects
 
---- Page 77 ---
 
 48 Classical Electrodynamics B,.2
 
@@ -5818,7 +5786,6 @@ is a constant of the motion which generally corresponds to the energy (*) and th
 
 This is never the case here.
 
---- Page 113 ---
 
 84 Lagrangian and Hamiltonian Approach ILA.1
 
@@ -5898,7 +5865,6 @@ This equation allows one to express as a function of the other coordinates and t
 
 so that
 
---- Page 114 ---
 
 ILA.
 
@@ -5968,7 +5934,6 @@ We denote by and the momenta conjugate with and respectively.
 
 # One gets
 
---- Page 115 ---
 
 86 Lagrangian and Hamiltonian Approach ILA.1
 
@@ -6024,7 +5989,6 @@ Quantities and satisfying (A.
 
 21) are called canonically conjugate.
 
---- Page 116 ---
 
 ILA.
 
@@ -6330,7 +6294,6 @@ one can derive
 
 F
 
---- Page 134 ---
 
 ILB.
 
@@ -6464,7 +6427,6 @@ field is a relativistic scalar field.
 
 it is a function of the electromag-
 
---- Page 135 ---
 
 106 Lagrangian and Hamiltonian Approach ILB3
 
@@ -6580,7 +6542,6 @@ term 一 Zuac2
 
 the Lagrangian Lp given in (B.
 
---- Page 136 ---
 
 ILB.
 
@@ -6696,7 +6657,6 @@ A(t, 0) = A(t, ) 十 F(r 1) (B.
 
 U(r) = U(r 0一 £ F(r 1) (B.
 
---- Page 137 ---
 
 108 Lagrangian and Hamiltonian Approach ILB.3
 
@@ -7528,7 +7488,6 @@ starting from the principle of least action.
 
 # The action
 
---- Page 160 ---
 
 §4 Functional Derivative 131
 
@@ -7610,7 +7569,6 @@ very similar to those developed in the discrete case.
 
 graph shows how this method is used with the Hamiltonian.
 
---- Page 161 ---
 
 132 Lagrangian and Hamiltonian Approach §5
 
@@ -7704,7 +7662,6 @@ finds then
 
 δA = (∂H/∂Π) (31.
 
---- Page 162 ---
 
 §5 Functional Derivative 133
 
@@ -7728,7 +7685,6 @@ equations of a continuous system in a form analogous to that of the
 
 discrete case.
 
---- Page 163 ---
 
 134 Lagrangian and Hamiltonian Approach B.1
 
@@ -7820,7 +7776,6 @@ dt₂ = t₂′ − t₂ (3.
 
 δx(t) = x′(t) − x(t).
 
---- Page 164 ---
 
 1 Symmetries of the Lagrangian in the Coulomb Gauge 135
 
@@ -7884,7 +7839,6 @@ Finally, combining (6) and (7), we get
 
 = p(t₂) dx₂ − H(t₂) dt₂, (8)
 
---- Page 165 ---
 
 136 Lagrangian and Hamiltonian Approach B.2
 
@@ -7974,7 +7928,6 @@ it follows that the total momentum Σp_a is a constant of the
 
 motion.
 
---- Page 166 ---
 
 By3 Symmetries of the Lagrangian in the Coulomb Gauge 137
 
@@ -8090,7 +8043,6 @@ which gives
 
 Thus the invariance of the Lagrangian (16)
 
---- Page 167 ---
 
 138 Lagrangian and Hamiltonian Approach B,.4
 
@@ -8192,7 +8144,6 @@ P = Σ p_a + ∫ d³k π(k) · (−i k) A(k).
 
 (22)
 
---- Page 168 ---
 
 5 Symmetries of the Lagrangian in the Coulomb Gauge 139
 
@@ -8292,7 +8243,6 @@ Finally, the interaction
 
 Lagrangian between the particles and field contains the scalar product
 
---- Page 169 ---
 
 140 Lagrangian and Hamiltonian Approach By5
 
@@ -8364,7 +8314,6 @@ theorem can refer to more advanced works on field theory such as
 
 Bogoliubov and Shirkov (Chapter I) or Itzykson and Zuber (Chapter 1).
 
---- Page 170 ---
 
 Cyl Electrodynamics in the Presence of an External Field 141
 
@@ -8442,7 +8391,6 @@ find dS as a function of dA_i'(r)
 
 and dA_i(r).
 
---- Page 182 ---
 
 5 Exercises 153
 
@@ -8508,7 +8456,6 @@ dA_i = A_i(r) - A_i(r - ξ) = -ξ · ∇A_i(r).
 
 # In particular
 
---- Page 183 ---
 
 154 Exercises D.6
 
@@ -8572,7 +8519,6 @@ c) Using the results above
 
 show that there are redundant dynamical variables in the Lagrangian (1).
 
---- Page 184 ---
 
 6 Exercises 155
 
@@ -8662,7 +8608,6 @@ the conjugate momenta of z and z* coincide (to within a multiplicative factor) w
 
 which prevents basing a Hamiltonian theory on H.
 
---- Page 185 ---
 
 156 Exercises D.6
 
@@ -8770,7 +8715,6 @@ for a Lagrangian having the structure given in (1)
 
 it is possible to find the Hamiltonian using (2) providing that one remembers that z* and ż satisfy (19).
 
---- Page 186 ---
 
 7 Exercises 157
 
@@ -8870,7 +8814,6 @@ or anticommutation relations between ψ(r) and ψ*(r') postulated to
 
 quantize the field?
 
---- Page 192 ---
 
 8 Exercises 163
 
@@ -8978,7 +8921,6 @@ b), and the first term is, using (3.
 
 (18)
 
---- Page 193 ---
 
 164 Exercises D.8
 
@@ -9076,7 +9018,6 @@ H = Σ_n E_n c_n† c_n.
 
 (30)
 
---- Page 194 ---
 
 8 Exercises 165
 
@@ -9766,7 +9707,6 @@ using (8)
 
 w₁(r) = |6|² + |7|², (26)
 
---- Page 241 ---
 
 212 Quantum Electrodynamics in the Coulomb Gauge A.
 
@@ -9820,7 +9760,6 @@ the observation time is short compared to the correlation time of the phase fluc
 
 and it is possible then to extract the information of interest from w₁.
 
---- Page 242 ---
 
 # Interference Phenomena 213
 
@@ -9868,7 +9807,6 @@ and E_i^(-)(r
 
 t) represents the absorption of a photon in mode i at point r and time t.
 
---- Page 243 ---
 
 214 Quantum Electrodynamics in the Coulomb Gauge A.
 
@@ -9884,7 +9822,6 @@ Schematic representation of the four amplitudes which interfere in the double co
 
 The symbols have the same meanings as in Figure 2.
 
---- Page 244 ---
 
 5 Interference Phenomena 215
 
@@ -10006,7 +9943,6 @@ Hager, G.
 
 Leuchs,
 
---- Page 245 ---
 
 216 Quantum Electrodynamics in the Coulomb Gauge
 
@@ -10082,7 +10018,6 @@ Phys.
 
 , 29, 539 (1961).
 
---- Page 246 ---
 
 COMPLEMENT B_I
 
@@ -10198,7 +10133,6 @@ The equation of evolution for a_i(t) [Equation (B.
 
 da_i/dt + iω_i a_i = s_i (2)
 
---- Page 247 ---
 
 218 Quantum Electrodynamics in the Coulomb Gauge
 
@@ -10298,7 +10232,6 @@ at time t.
 
 All that is necessary is to substitute (6) and the adjoint expression in
 
---- Page 248 ---
 
 219 Quantum Field Radiated by Classical Sources
 
@@ -11160,7 +11093,6 @@ P(x 2 = !
 
 m+ CON) PTE CNY
 
---- Page 270 ---
 
 Dui.
 
@@ -11258,7 +11190,6 @@ What is the physical consequence of the nonzero value of the
 
 commutator [ap, dg]?
 
---- Page 271 ---
 
 242 Exercises Dut6
 
@@ -11378,7 +11309,6 @@ By using results relating to quasi-classical states
 
 show that
 
---- Page 272 ---
 
 # Diy 6 Exercises 243
 
@@ -11492,7 +11422,6 @@ precision of one component of the field is accompanied by an increase in the unc
 
 the quadrature component.
 
---- Page 273 ---
 
 244 Exercises Dyy6
 
@@ -11618,7 +11547,6 @@ AN = √(N) = v] a_p = √21.
 
 (17)
 
---- Page 274 ---
 
 # Din 6 Exercises 245
 
@@ -11720,7 +11648,6 @@ phase is accompanied by an increase in the amplitude uncertainty.
 
 developed for the other cases.
 
---- Page 275 ---
 
 246 Exercises Din.7
 
@@ -11774,7 +11701,6 @@ a) a_q = (a - a*)/(i√2).
 
 Walls, Nature, 306, 141 (1983).
 
---- Page 276 ---
 
 Din.
 
@@ -11856,7 +11782,6 @@ find Ta_pT*:
 
 Ta_pT* = T(a_p)T* = (1/√2)(TaT* + Ta* T*) = b_p = a_p e^r (13)
 
---- Page 277 ---
 
 248 Exercises Din.
 
@@ -11944,7 +11869,6 @@ H = ℏω a* a + iℏA(a*² e^{-2iωt} – a² e^{2iωt}) qd) (1)
 
 where a* and a are the creation and annihilation operators of the mode.
 
---- Page 278 ---
 
 Din.
 
@@ -12606,7 +12530,6 @@ and
 
 = (T H + i dT/dt) T |ψ⟩, (A.
 
---- Page 291 ---
 
 262 Other Equivalent Formulations of Electrodynamics IV.
 
@@ -12728,7 +12651,6 @@ showing that
 
 if this is also the case for F.
 
---- Page 292 ---
 
 3 How to Get Equivalent Formulations 263
 
@@ -12822,7 +12744,6 @@ L and L’
 
 there is no longer justification for using H₁.
 
---- Page 293 ---
 
 264 Other Equivalent Formulations of Electrodynamics IV.
 
@@ -12930,7 +12851,6 @@ Lett.
 
 86A, 269 (1981).
 
---- Page 294 ---
 
 3 How to Get Equivalent Formulations 265
 
@@ -12954,7 +12874,6 @@ electric fields in the two cases.
 
 (An example of this is discussed in Exercise 1.
 
---- Page 295 ---
 
 266 Other Equivalent Formulations of Electrodynamics IV.
 
@@ -13054,7 +12973,6 @@ commutation relations are r_α and p_α = −iℏ∇_α.
 
 # In the standard quantum
 
---- Page 296 ---
 
 2 Charges Coupled to an External Field 267
 
@@ -13210,7 +13128,6 @@ Diu, and Laloë
 
 Complement H_y
 
---- Page 298 ---
 
 3 Charges Coupled to an External Field 269
 
@@ -13344,7 +13261,6 @@ Phys.
 
 273 (1931).
 
---- Page 299 ---
 
 270 Other Equivalent Formulations of Electrodynamics IV.
 
@@ -13436,7 +13352,6 @@ U'(r, t) = U_ext(r, t) + r ⋅ dA_ext(0, t)/dt (B.
 
 29b)
 
---- Page 300 ---
 
 3 Charges Coupled to an External Field 271
 
@@ -13540,7 +13455,6 @@ Lett.
 
 , 21, 838 (1968).
 
---- Page 305 ---
 
 276 Other Equivalent Formulations of Electrodynamics IV.
 
@@ -13662,7 +13576,6 @@ unchanged
 
 pL(2) = pL = p, (B.
 
---- Page 306 ---
 
 4 Charges Coupled to an External Field 277
 
@@ -13786,7 +13699,6 @@ Z,(0, t)/m
 
 from the mean position.
 
---- Page 307 ---
 
 278 Other Equivalent Formulations of Electrodynamics IV.
 
@@ -13918,7 +13830,6 @@ Fierz, Nuovo Cimento,
 
 15, 167 (1938).
 
---- Page 308 ---
 
 4 Charges Coupled to an External Field 279
 
@@ -14026,7 +13937,6 @@ d = ∑_i q_i r_i (C.
 
 m = 1/2 ∑_i q_i r_i × v_i (C.
 
---- Page 318 ---
 
 3 The Power-Zienau-Woolley Transformation 289
 
@@ -14130,7 +14040,6 @@ the kinetic energy of the particles
 
 the energy of the transverse field
 
---- Page 319 ---
 
 290 Other Equivalent Formulations of Electrodynamics IV.
 
@@ -14172,7 +14081,6 @@ u) + (1/ε_0) P] (C.
 
 Π_⊥(r) = 1/(c²) ∂A_⊥(r)/∂t (C.
 
---- Page 320 ---
 
 3 The Power-Zienau-Woolley Transformation 291
 
@@ -14310,7 +14218,6 @@ important consequences for the study of the interaction between two
 
 distant charge systems (see Complement C_γ).
 
---- Page 321 ---
 
 292 Other Equivalent Formulations of Electrodynamics IV.
 
@@ -14640,7 +14547,6 @@ H₀ + A(t)H in the first representation.
 
 # Since the unitary transformation
 
---- Page 330 ---
 
 2 Simplified Form of Equivalence for the S-Matrix 301
 
@@ -14750,7 +14656,6 @@ Haller, private communication).
 
 the transformations envisioned here.
 
---- Page 331 ---
 
 302 Other Equivalent Formulations of Electrodynamics IV.
 
@@ -14880,7 +14785,6 @@ Lamb transition.
 
 See Complement Bγγ, §3.
 
---- Page 332 ---
 
 3 Simplified Form of Equivalence for the S-Matrix 303
 
@@ -15024,7 +14928,6 @@ of Phys.
 
 , 142, 80 (1982).
 
---- Page 333 ---
 
 304 Other Equivalent Formulations of Electrodynamics Ay.
 
@@ -15166,7 +15069,6 @@ reading this complement does
 
 not require knowledge of the ideas introduced in Chapters II and IV.
 
---- Page 334 ---
 
 1 Electric Dipole Hamiltonian 305
 
@@ -15244,7 +15146,6 @@ By using (1) and (2), we find
 
 (6)
 
---- Page 335 ---
 
 306 Other Equivalent Formulations of Electrodynamics Ay.
 
@@ -15320,7 +15221,6 @@ Thus, in the new description we find a much simpler relation between the
 
 momentum and the velocity.
 
---- Page 336 ---
 
 2 Electric Dipole Hamiltonian 307
 
@@ -15420,7 +15320,6 @@ since the operator **A**(**0**
 
 *t*) acts like a
 
---- Page 337 ---
 
 308 Other Equivalent Formulations of Electrodynamics Ay.
 
@@ -15558,7 +15457,6 @@ displacement generated at R i by ,.
 
 # Now the displacement generated by
 
---- Page 343 ---
 
 314 Other Equivalent Formulations of Electrodynamics Ay3
 
@@ -15660,7 +15558,6 @@ analogous to (3) and (14)
 
 but where d(1) is now a classical function
 
---- Page 344 ---
 
 # Ai3 Electric Dipole Hamiltonian 315
 
@@ -15718,7 +15615,6 @@ dipole with the displacement at the point about which the dipole is
 
 localized.
 
---- Page 345 ---
 
 316 Other Equivalent Formulations of Electrodynamics By.
 
@@ -15818,7 +15714,6 @@ final times for the transit of the wave packet (see Figure 1).
 
 # It is clear that
 
---- Page 346 ---
 
 2 One-Photon and Two-Photon Processes 317
 
@@ -15906,7 +15801,6 @@ Consider first the case of a one-photon resonant transition
 
 To first order in q and with the long-wavelength approximation
 
---- Page 347 ---
 
 318 Other Equivalent Formulations of Electrodynamics By-2
 
@@ -16394,7 +16288,6 @@ Rev.
 
 A 20, 1553 (1979).
 
---- Page 356 ---
 
 Ch. One-Photon and Two-Photon Processes 327
 
@@ -16486,7 +16379,6 @@ Rev.
 
 A, 8, 2835 (1973).
 
---- Page 357 ---
 
 328 Other Equivalent Formulations of Electrodynamics Ch.
 
@@ -16584,7 +16476,6 @@ system ℜ₂
 
 and for the longitudinal electric field created by ℜ₂.
 
---- Page 358 ---
 
 2 Interaction of Two Localized Systems 329
 
@@ -16750,7 +16641,6 @@ as well as the
 
 Coulomb interaction energy between the reference distributions ρ_{01} and ρ_{02}.
 
---- Page 360 ---
 
 1 The Poincaré Gauge 331
 
@@ -16968,7 +16858,6 @@ Quantum Mechanics of One- and Two-Electron Atoms
 
 1957.
 
---- Page 369 ---
 
 340 Exercises E,y.2
 
@@ -17058,7 +16947,6 @@ These results are given in the following table
 
 which includes also the contribution of the other intermediate np levels in order to clarify the discussion.
 
---- Page 370 ---
 
 E,y.
 
@@ -18236,7 +18124,6 @@ that is
 
 the variables evolving
 
---- Page 392 ---
 
 V Introduction to the Covariant Formulation 363
 
@@ -18284,7 +18171,6 @@ the Coulomb interaction and its interpretation as resulting from an
 
 exchange of photons between the two charges (Part D).
 
---- Page 393 ---
 
 364 Introduction to the Covariant Formulation V.
 
@@ -18360,7 +18246,6 @@ property to be true a priori for the free field
 
 the radiation Lagrangian
 
---- Page 394 ---
 
 A1 Classical Electrodynamics in the Lorentz Gauge 365
 
@@ -18470,7 +18355,6 @@ where is the current four-vector .
 
 In what follows in this chapter,
 
---- Page 395 ---
 
 366 Introduction to the Covariant Formulation V.
 
@@ -18564,7 +18448,6 @@ a, b) of Chapter I].
 
 latter can be put in the form
 
---- Page 396 ---
 
 A1 Classical Electrodynamics in the Lorentz Gauge 367
 
@@ -18634,7 +18517,6 @@ relative to ψ is just the Dirac equation in the presence of the potential A_μ 
 
 exercises 5 and 6).
 
---- Page 397 ---
 
 368 Introduction to the Covariant Formulation
 
@@ -18724,7 +18606,6 @@ Note finally that the condition (A.
 
 in which case A'_μ is also a potential satisfying the Lorentz condition.
 
---- Page 398 ---
 
 2 Classical Electrodynamics in the Lorentz Gauge 369
 
@@ -18812,7 +18693,6 @@ since the interaction Lagrangian does not involve Ȧ_i and
 
 It is useful for what follows to rewrite the Lorentz subsidiary condition
 
---- Page 399 ---
 
 370 Introduction to the Covariant Formulation V.
 
@@ -18908,7 +18788,6 @@ nian H of the field coupled to such external sources
 
 where the currents j_k are given functions of k and t.
 
---- Page 400 ---
 
 A3 Classical Electrodynamics in the Lorentz Gauge 371
 
@@ -20602,7 +20481,6 @@ and the number of particles by 0 (terms in c_p^† c_q and d_p^† d_q) or by 2 
 
 such as the use of products in the normal
 
---- Page 449 ---
 
 420 Introduction to the Covariant Formulation Av3
 
@@ -20652,7 +20530,6 @@ iℏ ∂ψ/∂t = [ψ, H]
 
 (55)
 
---- Page 450 ---
 
 Av3 Theory of the Electron–Positron Field 421
 
@@ -20726,7 +20603,6 @@ This equation results on one hand from the equation of motion of A_μ
 
 and on
 
---- Page 451 ---
 
 422 Introduction to the Covariant Formulation Av3
 
@@ -20788,7 +20664,6 @@ A^{(-)}(k) = a_k^† + (i/√(2ℏω_k)) (ρ^*(k) + ik·j^*(k)/ω_k) (65)
 
 evolves as e^{+iωt}.
 
---- Page 452 ---
 
 Av3 Theory of the Electron–Positron Field 423
 
@@ -20842,7 +20717,6 @@ and Pitaevskii
 
 Schweber.
 
---- Page 453 ---
 
 424 Introduction to the Covariant Formulation Av
 
@@ -20896,7 +20770,6 @@ The Pauli-Fierz~Kramers
 
 transformation tries to remove from the total transverse vector potential the
 
---- Page 459 ---
 
 430 Introduction to the Covariant Formulation By.
 
@@ -21020,7 +20893,6 @@ and Grynberg
 
 Complement By.
 
---- Page 460 ---
 
 1 Justification of the Nonrelativistic Theory 431
 
@@ -21124,7 +20996,6 @@ with
 
 is the relativistic quantum electrodynamic Hamiltonian in Coulomb gauge.
 
---- Page 461 ---
 
 432 Introduction to the Covariant Formulation B
 
@@ -21226,7 +21097,6 @@ Barut, ed.
 
 1984, p.
 
---- Page 462 ---
 
 2 Justification of the Nonrelativistic Theory 433
 
@@ -21288,7 +21158,6 @@ since it is necessary to specify the momentum and spin
 
 of the particles as well as the number of photons of the transverse field.
 
---- Page 463 ---
 
 434 Introduction to the Covariant Formulation Bv.
 
@@ -21356,7 +21225,6 @@ spinors uσ and vσ):
 
 ρ(r) = qħ P(r) ψ(r) (51)
 
---- Page 464 ---
 
 2 Justification of the Nonrelativistic Theory 435
 
@@ -21472,7 +21340,6 @@ which thus has no matrix elements between different
 
 manifolds.
 
---- Page 465 ---
 
 436 Introduction to the Covariant Formulation By.
 
@@ -21570,7 +21437,6 @@ perturbation theory in order to get terms of order 0 in 1/c.
 
 # Its effect in
 
---- Page 466 ---
 
 2 Justification of the Nonrelativistic Theory 437
 
@@ -21676,7 +21542,6 @@ ijk
 
 = [p − A (rn)² − qh σ + Bir) (63)
 
---- Page 467 ---
 
 438 Introduction to the Covariant Formulation By.
 
@@ -21788,7 +21653,6 @@ and Pitayevski.
 
 §§23 and 26.
 
---- Page 468 ---
 
 2 Justification of the Nonrelativistic Theory 439
 
@@ -23682,7 +23546,6 @@ Coupled to an External Field—a.
 
 # The Unitary Transformation Suggested
 
---- Page 506 ---
 
 # Contents
 
@@ -23786,7 +23649,6 @@ The Potentials in the Poincaré Gauge 2.
 
 Xl
 
---- Page 507 ---
 
 # XIV
 
@@ -23902,7 +23764,6 @@ The Form of the Subsidiary Condition in Quantum Theory.
 
 Problems Raised by the Construction of State Space
 
---- Page 508 ---
 
 # Contents Xv
 
@@ -24052,7 +23913,6 @@ Interaction .
 
 0 cee tte reser ers 418
 
---- Page 509 ---
 
 # XVI Contents
 

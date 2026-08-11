@@ -348,7 +348,6 @@ plicit Form of the Master Equation in the Impact Limit
 
 xvii
 
---- Page 18 ---
 
 xviii
 
@@ -466,7 +465,6 @@ Superradiant and Subradiant States .
 
 Radiative Cascade of a Harmonic Oscillator .
 
---- Page 19 ---
 
 # Contents
 
@@ -556,7 +554,6 @@ Electric Dipole Hamiltonian .
 
 xix
 
---- Page 20 ---
 
 # Preface
 
@@ -692,7 +689,6 @@ sufficient for analyzing in simple terms the extremely large variety of
 
 xxi
 
---- Page 21 ---
 
 xxii Preface
 
@@ -766,7 +762,6 @@ to Christophe Salomon
 
 who checked the translation.
 
---- Page 22 ---
 
 # Atom-Photon Interactions
 
@@ -864,7 +859,6 @@ Next, we have to consider ‘the coupling
 
 with the quantum field which is characterized by its elementary excita-
 
---- Page 23 ---
 
 2 Introduction
 
@@ -1022,7 +1016,6 @@ evolution of the atom.
 
 such an evolution may
 
---- Page 24 ---
 
 # Introduction 3
 
@@ -1164,9 +1157,7 @@ although they are identical only in the
 
 absence of charged particles.
 
---- Page 25 ---
 
---- Page 26 ---
 
 # Atom-Photon Interactions
 
@@ -1244,7 +1235,6 @@ late the transition amplitudes and to understand the way the discrete state
 
 of H₀ can be traced in the eigenstates of H.
 
---- Page 27 ---
 
 6 Transition Amplitudes in Electrodynamics I
 
@@ -1294,7 +1284,6 @@ scattering
 
 etc.) that we will review in Chapter II.
 
---- Page 28 ---
 
 A—PROBABILITY AMPLITUDE ASSOCIATED WITH A PHYSICAL PROCESS 7
 
@@ -1398,7 +1387,6 @@ which the eigenstates |φ_n⟩ and eigenvalues E_n are known
 
 and a perturba-
 
---- Page 29 ---
 
 8 Transition Amplitudes in Electrodynamics A
 
@@ -1472,7 +1460,6 @@ to H₀ to eliminate the free evolution exponentials in t_i and in t_f due to
 
 H₀; see Complement Aₐ, §1).
 
---- Page 30 ---
 
 B—TIME DEPENDENCE OF TRANSITION AMPLITUDES 9
 
@@ -1572,7 +1559,6 @@ zero, and δE is the shift of state |ψ⟩ due to the coupling V
 
 given by the
 
---- Page 31 ---
 
 10 Transition Amplitudes in Electrodynamics 1.B.2
 
@@ -1680,7 +1666,6 @@ E, is coupled by V to a continuum |φ⟩ of eigenstates of H_0
 
 E of |φ⟩ varies continuously).
 
---- Page 32 ---
 
 2 Time Dependence of Transition Amplitudes 11
 
@@ -1774,7 +1759,6 @@ perturbative calculation gives (conservation of the norm)
 
 |U_{ψψ}(T)|^2 = 1 − Γ T (B.
 
---- Page 33 ---
 
 12 Transition Amplitudes in Electrodynamics 1.B.3
 
@@ -1878,7 +1862,6 @@ It allows the exponential decay described by expression (B.
 
 obtained.
 
---- Page 34 ---
 
 3 Time Dependence of Transition Amplitudes 13
 
@@ -1960,7 +1943,6 @@ Indeed, the identity
 
 # ABT BOA ore
 
---- Page 35 ---
 
 14 Transition Amplitudes in Electrodynamics 1.B.3
 
@@ -2102,7 +2084,6 @@ proportional to δ(T(E
 
 — E,) only at the lowest order in V.
 
---- Page 36 ---
 
 # Application to Electrodynamics 15
 
@@ -2220,7 +2201,6 @@ Hy = =f d*r{E2(r) + c?
 
 which can also be expressed simply as function of the annihilation and
 
---- Page 37 ---
 
 16 Transition Amplitudes in Electrodynamics 1.C3
 
@@ -2316,7 +2296,6 @@ Ay=d Fann Hp.
 
 a a
 
---- Page 38 ---
 
 # LC3 Application to Electrodynamics 17
 
@@ -2420,7 +2399,6 @@ center of mass of the group of particles
 
 and on the other hand
 
---- Page 39 ---
 
 18 Transition Amplitudes in Electrodynamics LC.5
 
@@ -2560,7 +2538,6 @@ for example
 
 strong interactions responsible for the cohesion of nuclei.
 
---- Page 40 ---
 
 5 Application to Electrodynamics 19
 
@@ -2714,7 +2691,6 @@ results in a great simplification in the higher order terms of the perturbative
 
 expansion of the transition amplitudes.
 
---- Page 43 ---
 
 22 Transition Amplitudes in Electrodynamics 1.C.5
 
@@ -2774,7 +2750,6 @@ see the Appendix and the refer-
 
 ences therein.
 
---- Page 44 ---
 
 1 Perturbative Calculation of Transition Amplitudes 23
 
@@ -2856,7 +2831,6 @@ to the vectors |ψ(t)⟩ and operators A of the Schrödinger representation
 
 t₀ being a reference instant that we take as the origin of time (t₀ = 0).
 
---- Page 45 ---
 
 24 Transition Amplitudes in Electrodynamics A.1
 
@@ -2952,7 +2926,6 @@ gives, taking into account (3.
 
 t_i) |ψ_I(t_i)⟩ (7)
 
---- Page 46 ---
 
 2 Perturbative Calculation of Transition Amplitudes 25
 
@@ -3042,7 +3015,6 @@ U₀(t_2, t_1) V(t_1) U₀(t_1, t_i).
 
 (13.
 
---- Page 47 ---
 
 26 Transition Amplitudes in Electrodynamics A.2
 
@@ -3134,7 +3106,6 @@ where we have set V_fi = ⟨φ_f| V |φ_i⟩.
 
 # We assume here that V is time
 
---- Page 48 ---
 
 2 Perturbative Calculation of Transition Amplitudes 27
 
@@ -3190,7 +3161,6 @@ Figure 1.
 
 Variations of the function δ_T ( E_f − E_i ) versus (E_f − E_i).
 
---- Page 49 ---
 
 28 Transition Amplitudes in Electrodynamics A.2
 
@@ -3256,7 +3226,6 @@ Equation (21) may thus be rewritten
 
 where
 
---- Page 50 ---
 
 2 Perturbative Calculation of Transition Amplitudes 29
 
@@ -3334,7 +3303,6 @@ by substituting (27) into (25)
 
 we obtain
 
---- Page 51 ---
 
 30 Transition Amplitudes in Electrodynamics A,.2
 
@@ -3472,7 +3440,6 @@ F_{fi} = δ_{fi} — 2πi δ( E_f - E_i) T_{fi}
 
 (30)
 
---- Page 52 ---
 
 3 Perturbative Calculation of Transition Amplitudes 31
 
@@ -3562,7 +3529,6 @@ using (31) and (32)
 
 P(T) ≈ 4π^2 |<φ_f|V|i>|^2 * (T^2/4π^2ħ^2) * sinc^2[(E_i - E_f)T/2ħ] (34)
 
---- Page 53 ---
 
 32 Transition Amplitudes in Electrodynamics A,3
 
@@ -3670,7 +3636,6 @@ Diu, and Laloé
 
 assume here that V_{ii} = V_{ff} = 0.
 
---- Page 54 ---
 
 3 Perturbative Calculation of Transition Amplitudes 33These conditions define a domain D
 
@@ -3744,7 +3709,6 @@ p(E) = V/(2π³ħ³) √(2ME).
 
 (42)
 
---- Page 55 ---
 
 3 Transition Amplitudes in Electrodynamics 34
 
@@ -3818,7 +3782,6 @@ E∈δE;
 
 B∈δB;
 
---- Page 56 ---
 
 3 Perturbative Calculation of Transition Amplitudes 35
 
@@ -3932,7 +3895,6 @@ in addition
 
 δB_f is sufficiently small so that the integral over δB becomes
 
---- Page 57 ---
 
 3 Perturbative Calculation of Transition Amplitudes 36
 
@@ -4016,7 +3978,6 @@ if |ψ_i⟩ represents an
 
 incident free particle having a well-defined momentum.
 
---- Page 58 ---
 
 3 Perturbative Calculation of Transition Amplitudes 37
 
@@ -4086,7 +4047,6 @@ that the scattering cross-section does not depend on L.
 
 Same bibliography as for Chapter I.
 
---- Page 59 ---
 
 3 Perturbative Calculation of Transition Amplitudes 38
 
@@ -4160,7 +4120,6 @@ of the
 
 Hamiltonian H₀.
 
---- Page 60 ---
 
 1 Description of the Effect of a Perturbation by an Effective Hamiltonian 39
 
@@ -4282,7 +4241,6 @@ the energy levels of the Hamiltonian H are clustered
 
 as are those of H₀
 
---- Page 61 ---
 
 40 Transition Amplitudes in Electrodynamics B,.1
 
@@ -4422,7 +4380,6 @@ Fabre, J.
 
 Physique, 37, 993 (1976).
 
---- Page 62 ---
 
 2 Description of the Effect of a Perturbation by an Effective Hamiltonian 41
 
@@ -4520,7 +4477,6 @@ Phys.
 
 , 73, 5711 (1980).
 
---- Page 63 ---
 
 42 Transition Amplitudes in Electrodynamics B,.2
 
@@ -4730,7 +4686,6 @@ Walther, Opt.
 
 Acta, 32, 1105 (1985).
 
---- Page 95 ---
 
 74 Some Interaction Processes between Photons and Atoms IIA.
 
@@ -4786,7 +4741,6 @@ n-2.
 
 so that the external quantum numbers are ignored.
 
---- Page 96 ---
 
 IIA.
 
@@ -4862,7 +4816,6 @@ This is why the name “radiative dissociation” is given to such a process.
 
 the frequency of the emitted photon can vary within a certain interval and the spectrum
 
---- Page 97 ---
 
 76 Some Interaction Processes between Photons and Atoms IIA.
 
@@ -4954,7 +4907,6 @@ Phys.
 
 , 21, 95 (1980).
 
---- Page 98 ---
 
 IIA.
 
@@ -5020,7 +4972,6 @@ This calculation is a perturbative one with regard to the potential created by
 
 the ion and it uses the Pauli-Fierz representation introduced in Complement By.
 
---- Page 99 ---
 
 78 Some Interaction Processes between Photons and Atoms ILB.
 
@@ -5156,7 +5107,6 @@ quantities — Erec/ħ and +Erec/ħ [compare (A.
 
 1)].
 
---- Page 100 ---
 
 2 Absorption Process
 
@@ -5220,7 +5170,6 @@ ut) Figure 7.
 
 a absorption of a photon (ħω > Eion).
 
---- Page 101 ---
 
 80 Some Interaction Processes between Photons and Atoms IL.
 
@@ -5362,7 +5311,6 @@ a photon ħω is proportional to the matrix element ⟨g|e^{-i k·r} |e⟩
 
 where |g⟩ is the ground state and |e⟩ is the state of the continuum with
 
---- Page 102 ---
 
 I1L.
 
@@ -5448,7 +5396,6 @@ see Bethe and Salpeter
 
 Section 69.
 
---- Page 103 ---
 
 82 Some Interaction Processes between Photons and Atoms TI.
 
@@ -5502,7 +5449,6 @@ of the ionization continuum.
 
 Chapter VII.
 
---- Page 104 ---
 
 4 Absorption Process
 
@@ -5624,7 +5570,6 @@ Some important states of the global “‘atom + radiation” system appear-
 
 ing in the study of the absorption process.
 
---- Page 105 ---
 
 84 Some Interaction Processes between Photons and Atoms II.
 
@@ -5764,7 +5709,6 @@ which, according to Fermi’s golden rule
 
 is on
 
---- Page 106 ---
 
 4 Absorption Process
 
@@ -5858,7 +5802,6 @@ for example
 
 # Chapter II
 
---- Page 111 ---
 
 90 Some Interaction Processes between Photons and Atoms II.
 
@@ -5974,7 +5917,6 @@ Schultz-Dubois, Vol.
 
 Chapters 5 and 6.
 
---- Page 112 ---
 
 2 Scattering Process 91
 
@@ -6058,7 +6000,6 @@ See Photons and Atoms—Introduction to Quantum Electrodynamics
 
 Figure 2.
 
---- Page 113 ---
 
 92 Some Interaction Processes between Photons and Atoms II.
 
@@ -6146,7 +6087,6 @@ to arrive at another point O’’ on the
 
 parabola by successively carrying out the translation OO’ corresponding to the
 
---- Page 114 ---
 
 3 Scattering Process 93
 
@@ -6254,7 +6194,6 @@ We now return to the case in which the frequency ω of the incident
 
 photon is very close to the frequency ω_ba = (E_b — E_a)/ħ of an atomic
 
---- Page 115 ---
 
 94 Some Interaction Processes between Photons and Atoms II.
 
@@ -6350,7 +6289,6 @@ Vol.
 
 1977, Chapter 4.
 
---- Page 123 ---
 
 102 Some Interaction Processes between Photons and Atoms I.
 
@@ -6474,7 +6412,6 @@ Academic Press, New York, 1984, p.
 
 Shen, Chapter 22.
 
---- Page 124 ---
 
 3 Multiphoton Processes
 
@@ -6580,7 +6517,6 @@ for instance
 
 a two-photon ionization process obtained either
 
---- Page 125 ---
 
 104 Some Interaction Processes between Photons and Atoms IL.
 
@@ -6672,7 +6608,6 @@ Third harmonic generation (with quasi-
 
 resonance at the discrete level c).
 
---- Page 126 ---
 
 4 Multiphoton Processes
 
@@ -6820,7 +6755,6 @@ dephasing may thus appear between the two waves
 
 resulting in destructive interference between the contributions of successive
 
---- Page 127 ---
 
 106 Some Interaction Processes between Photons and Atoms II.
 
@@ -6960,7 +6894,6 @@ Lett.
 
 , 38, 1077 (1977)].
 
---- Page 128 ---
 
 5 Multiphoton Processes
 
@@ -7046,7 +6979,6 @@ first order in incident field (a) and second
 
 order (b).
 
---- Page 129 ---
 
 108 Some Interaction Processes between Photons and Atoms II.
 
@@ -7146,7 +7078,6 @@ Lett.
 
 , 57, 687 (1986).
 
---- Page 130 ---
 
 III.
 
@@ -7284,7 +7215,6 @@ amplitude ⟨i|U(T)|i⟩
 
 for which Figure 31 shows the lowest-order terms
 
---- Page 131 ---
 
 110 Some Interaction Processes between Photons and Atoms ILE.
 
@@ -7370,7 +7300,6 @@ increase in its mass from m to m + δm (according to (E.
 
 a term of order 1 in the expansion of p²/2(m + δm) in powers of δm/m).
 
---- Page 132 ---
 
 ILE.
 
@@ -7514,7 +7443,6 @@ an integral over ω that diverges logarithmically
 
 will not consider here the problems involved in the appearance of divergent
 
---- Page 133 ---
 
 112 Some Interaction Processes between Photons and Atoms ILE.
 
@@ -7638,7 +7566,6 @@ K’ = −k in the intermedi-
 
 ate state,
 
---- Page 134 ---
 
 1 Radiative Corrections
 
@@ -7696,7 +7623,6 @@ and to calculate the radiative shifts of these levels
 
 as we did
 
---- Page 135 ---
 
 114 Some Interaction Processes between Photons and Atoms ILE.
 
@@ -7750,7 +7676,6 @@ which can be represented by the diagrams in Figure 34.
 
 ⟨ψ|U(T)|ψ⟩ = e^{−iA′T/ℏ} e^{−ΓT/2} (E.
 
---- Page 136 ---
 
 ILE.
 
@@ -7792,7 +7717,6 @@ what is the physical significance of the parameters Γ and Δ′ appearing in th
 
 10)?
 
---- Page 137 ---
 
 116 Some Interaction Processes between Photons and Atoms ILE.
 
@@ -7870,7 +7794,6 @@ Wolf), North-Holland
 
 V, p.
 
---- Page 138 ---
 
 ILE.
 
@@ -7918,7 +7841,6 @@ Phys.
 
 B 11, 563 (1978).
 
---- Page 139 ---
 
 118 Some Interaction Processes between Photons and Atoms ILF.
 
@@ -7992,7 +7914,6 @@ Such an indirect coupling may also be described by a particle “effective Hamil
 
 δV
 
---- Page 140 ---
 
 ILF.
 
@@ -8122,7 +8043,6 @@ where γ is an infinitely small positive quantity.
 
 §8-4.
 
---- Page 142 ---
 
 ILF.
 
@@ -8174,7 +8094,6 @@ lated, is an eigenstate of H
 
 whose properties are invariant in a time translation.
 
---- Page 155 ---
 
 134 Some Interaction Processes between Photons and Atoms
 
@@ -8298,7 +8217,6 @@ taking (20) into account,
 
 J
 
---- Page 156 ---
 
 Ay 2 Photodetection Signals and Correlation Functions 135
 
@@ -8374,7 +8292,6 @@ GN(w), centered about a central frequency ω₀
 
 and extends over an interval
 
---- Page 157 ---
 
 136 Some Interaction Processes between Photons and Atoms
 
@@ -8502,7 +8419,6 @@ with terms (n_j) and 1 inside the parentheses in (25.
 
 b)].
 
---- Page 158 ---
 
 Ay3 Photodetection Signals and Correlation Functions 137
 
@@ -8602,7 +8518,6 @@ The integration domain over t' and t" in (30) is shown in Figure 3.
 
 Because of the exponential decrease of Gₐ(t' − t") with t' − t", the
 
---- Page 159 ---
 
 138 Some Interaction Processes between Photons and Atoms
 
@@ -8674,7 +8589,6 @@ is equal to
 
 We have thus demonstrated that the ionization rate is proportional to the
 
---- Page 160 ---
 
 Ay 4 Photodetection Signals and Correlation Functions 139
 
@@ -8774,7 +8688,6 @@ Let us now assume that the incident radiation has a frequency spectrum
 
 such that it can resonantly excite only a single discrete excited state |b)
 
---- Page 161 ---
 
 140 Some Interaction Processes between Photons and Atoms Ay-4
 
@@ -8888,7 +8801,6 @@ WexcAt <1.
 
 , these
 
---- Page 162 ---
 
 Ay 4 Photodetection Signals and Correlation Functions 141
 
@@ -9012,7 +8924,6 @@ in the excited state decreases exponentially with a time constant ("/2)7!
 
 because of spontaneous emission (I” is the natural width of the excited
 
---- Page 163 ---
 
 142 Some Interaction Processes between Photons and Atoms Ay 4
 
@@ -9184,7 +9095,6 @@ with increasing time from the outside to the inside.
 
 Glauber, Nussenzweig.
 
---- Page 168 ---
 
 By Radiative Corrections in the Pauli-Fierz Representation 147
 
@@ -9324,7 +9234,6 @@ Pauli and M.
 
 Fierz, Nuovo Cimento, 15, 167 (1938).
 
---- Page 169 ---
 
 148 Some Interaction Processes between Photons and Atoms By.
 
@@ -9428,7 +9337,6 @@ accompanying field is well known in classical electrodynamics.
 
 It derives,
 
---- Page 170 ---
 
 Radiative Corrections in the Pauli-Fierz Representation 149
 
@@ -9538,7 +9446,6 @@ see also Photons and Atoms—Introduction to Quantum Electrodynamics
 
 Complement C.
 
---- Page 171 ---
 
 150 Some Interaction Processes between Photons and Atoms By 1
 
@@ -9666,7 +9573,6 @@ the particle at the instant t
 
 the sum of the Coulomb field and’ of that
 
---- Page 172 ---
 
 By Radiative Corrections in the Pauli-Fierz Representation 151
 
@@ -10284,7 +10190,6 @@ the external
 
 electric force acting on the particle divided by m and evaluated at r
 
---- Page 181 ---
 
 160 Some Interaction Processes between Photons and Atoms § 3
 
@@ -10392,7 +10297,6 @@ Rev.
 
 , 74, 1157 (1948),
 
---- Page 182 ---
 
 § 3 Radiative Corrections in the Pauli-Fierz Representation 161
 
@@ -10520,7 +10424,6 @@ and the
 
 physical meaning of these modifications is very clear.
 
---- Page 183 ---
 
 162 Some Interaction Processes between Photons and Atoms § 3
 
@@ -10670,7 +10573,6 @@ Phys.
 
 Kramers, Nuovo Cimento, 15, 108 (1938).
 
---- Page 184 ---
 B.
 
 3 Radiative Corrections in the Pauli-Fierz Representation 163
@@ -10823,9 +10725,7 @@ radiation.
 
 This is the point of view adopted in the chapter.
 
---- Page 185 ---
 
---- Page 186 ---
 
 # Atom-Photon Interactions
 
@@ -10935,7 +10835,6 @@ in that they lead to nonperturbative expressions for the transition ampli-
 
 tudes.
 
---- Page 187 ---
 
 166 Nonperturbative Calculation of Transition Amplitudes Ill
 
@@ -11091,7 +10990,6 @@ uously the time evolution from a regime of exponential decay to a regime
 
 of Rabi oscillations.
 
---- Page 188 ---
 
 TIT.
 
@@ -11619,7 +11517,6 @@ All the expressions derived in the preceding subsection are exact.
 
 will now show how they are particularly well suited to approximations of a
 
---- Page 201 ---
 
 180 Nonperturbative Calculation of Transition Amplitudes III.
 
@@ -11733,7 +11630,6 @@ words, approximation (B.
 
 40) is equivalent to making a partial resummation
 
---- Page 202 ---
 
 III.
 
@@ -11789,7 +11685,6 @@ contains only a single state |b⟩
 
 and let us now consider expression (B.
 
---- Page 203 ---
 
 182 Nonperturbative Calculation of Transition Amplitudes III.
 
@@ -11907,7 +11802,6 @@ that the approximation (B.
 
 from G_b(z).
 
---- Page 204 ---
 
 III.
 
@@ -12293,7 +12187,6 @@ Such a situation actually corresponds to the simple model of
 
 continuum considered in Complement C,.
 
---- Page 210 ---
 
 III.
 
@@ -12409,7 +12302,6 @@ photon kε and pass from b to a is obtained by using the contour integral
 
 only the contour C_+ contributes and
 
---- Page 211 ---
 
 191 Nonperturbative Calculation of Transition Amplitudes III.
 
@@ -12499,7 +12391,6 @@ inators 1/(z − E
 
 24).
 
---- Page 212 ---
 
 192 Nonperturbative Calculation of Transition Amplitudes III.
 
@@ -12613,7 +12504,6 @@ is thus finally
 
 ⟨a; kε | G(E + iη) | b; 0⟩ =
 
---- Page 213 ---
 
 193 Nonperturbative Calculation of Transition Amplitudes III.
 
@@ -12665,7 +12555,6 @@ Passage from the excited state c to the ground state a by spontaneous
 
 order in which the two photons are emitted.
 
---- Page 214 ---
 
 194 Nonperturbative Calculation of Transition Amplitudes III.
 
@@ -12749,7 +12638,6 @@ situation where the three levels a
 
 b, c are nearly equidistant.
 
---- Page 215 ---
 
 194 Nonperturbative Calculation of Transition Amplitudes III.
 
@@ -12819,7 +12707,6 @@ thogonal subspaces
 
 may be developed to study the problem of radiative
 
---- Page 216 ---
 
 III.
 
@@ -12943,7 +12830,6 @@ Rev.
 
 145 (1968).
 
---- Page 217 ---
 
 196 Nonperturbative Calculation of Transition Amplitudes III.
 
@@ -13009,7 +12895,6 @@ where
 
 The spectral distribution of photons emitted on the transition c > b is
 
---- Page 218 ---
 
 III.
 
@@ -13121,7 +13006,6 @@ metastable level 2s_{1/2} being very close in energy to the unstable level
 
 We show in this subsection how a weak coupling
 
---- Page 219 ---
 
 198 Nonperturbative Calculation of Transition Amplitudes III.
 
@@ -13451,7 +13335,6 @@ of return by spontaneous emission to level a is negligible).
 
 # For this type of
 
---- Page 233 ---
 
 212 Nonperturbative Calculation of Transition Amplitudes
 
@@ -13481,7 +13364,6 @@ Goldberger and Watson (Chapter
 
 VIII), Roman (§4-5).
 
---- Page 234 ---
 
 COMPLEMENT A,
 
@@ -13579,7 +13461,6 @@ G_u(z) = (u|G(z)|u) = (u| — H |
 
 be the matrix element of G(z) in this state.
 
---- Page 235 ---
 
 214 Nonperturbative Calculation of Transition Amplitudes
 
@@ -13655,7 +13536,6 @@ so that
 
 |G_u(z)| < 1/δ.
 
---- Page 236 ---
 
 A similar demonstration allows us to show that the derivative of
 
@@ -13757,7 +13637,6 @@ which, according to (5), equals
 
 (8)
 
---- Page 237 ---
 
 Figure 1.
 
@@ -13851,7 +13730,6 @@ The function G_u(z) is analytic in the upper half-plane.
 
 # We can make an
 
---- Page 238 ---
 
 analytic continuation of this function beyond the cut onto the lower
 
@@ -13945,7 +13823,6 @@ varies as 1/r”*' (for reasons of homogeneity).
 
 Goldberger and Watson (Chapter VIII).
 
---- Page 243 ---
 
 222 Nonperturbative Calculation of Transition Amplitudes By l
 
@@ -14061,7 +13938,6 @@ we will consider that the initial and final
 
 states of the scattering are eigenstates of the unperturbed Hamiltonian
 
---- Page 244 ---
 
 # By l Nonperturbative Expressions 223
 
@@ -14161,7 +14037,6 @@ then in the form
 
 G(z) = Go(z) + G(z)VG,(z).
 
---- Page 245 ---
 
 224 Nonperturbative Calculation of Transition Amplitudes By l
 
@@ -14275,7 +14150,6 @@ such a function is zero
 
 because when multiplied by a slowly varying
 
---- Page 246 ---
 
 # Bul Nonperturbative Expressions 225
 
@@ -14391,7 +14265,6 @@ Ty; = 6o lV + VGCE; + in)Vig;).
 
 (13)
 
---- Page 247 ---
 
 226 Nonperturbative Calculation of Transition Amplitudes Bul
 
@@ -14509,7 +14382,6 @@ replacing (b
 
 # This
 
---- Page 248 ---
 
 # Bul Nonperturbative Expressions 227
 
@@ -14595,7 +14467,6 @@ contributions of the processes in which the first and the last events are not
 
 the absorption of the initial photon and the emission of the final photon.
 
---- Page 249 ---
 
 228 Nonperturbative Calculation of Transition Amplitudes By l
 
@@ -14699,7 +14570,6 @@ state.
 
 the correct asymptotic states of the scattering
 
---- Page 250 ---
 
 # By 2 Nonperturbative Expressions 229
 
@@ -14829,7 +14699,6 @@ constant representing the projection of |¥
 
 # Let us
 
---- Page 251 ---
 
 230 Nonperturbative Calculation of Transition Amplitudes By 2
 
@@ -14894,7 +14763,6 @@ describe the quantum transverse field associated with the atom.
 (k)|W,).
 
 # The relation
---- Page 257 ---
 
 236 Nonperturbative Calculation of Transition Amplitudes By B
 
@@ -14996,7 +14864,6 @@ W_{ba}(k',k) the commutator of a(k') and V(k)
 
 which, according to (25)
 
---- Page 258 ---
 
 # B Nonperturbative Expressions 237
 
@@ -15074,7 +14941,6 @@ For k ≠ k’
 
 the second member of (55) reduces to the first term and
 
---- Page 259 ---
 
 238 Nonperturbative Calculation of Transition Amplitudes By B
 
@@ -15184,7 +15050,6 @@ Phys.
 
 , 27, 339 (1955), and by Kroll.
 
---- Page 260 ---
 
 Complement C_II Discrete State Coupled to a Finite-Width Continuum 239
 
@@ -15358,7 +15223,6 @@ H₀ — λV?
 
 = F(z)
 
---- Page 262 ---
 
 C2 Discrete State Coupled to a Finite-Width Continuum 241
 
@@ -15506,7 +15370,6 @@ lim 2 λ² [Γ₀(E)/2] +
 
 (13.
 
---- Page 264 ---
 
 C2 Discrete State Coupled to a Finite-Width Continuum 243
 
@@ -15626,7 +15489,6 @@ where Γ₀(E) is defined in (11)
 
 that is again
 
---- Page 265 ---
 
 244 Nonperturbative Calculation of Transition Amplitudes C3
 
@@ -15724,7 +15586,6 @@ half-maximum of this function
 
 continuum.
 
---- Page 266 ---
 
 C3 Discrete State Coupled to a Finite-Width Continuum 245
 
@@ -15788,7 +15649,6 @@ introduce the parameter
 
 1 1 +∞
 
---- Page 267 ---
 
 246 Nonperturbative Calculation of Transition Amplitudes C4
 
@@ -15866,7 +15726,6 @@ crossing the E axis at E₀).
 
 # We now
 
---- Page 268 ---
 
 Cyy-4 Discrete State Coupled to a Finite-Width Continuum 247
 
@@ -15934,7 +15793,6 @@ E_max − E₀ − ℏA_Γ(E_max) = 0.
 
 (27)
 
---- Page 269 ---
 
 248 Nonperturbative Calculation of Transition Amplitudes Cin-4
 
@@ -16010,7 +15868,6 @@ A_c² = ℏ² E₀
 
 ∫ dE T_Γ(E)/E² (29)
 
---- Page 270 ---
 
 Cyd Discrete State Coupled to a Finite-Width Continuum 249
 
@@ -16136,7 +15993,6 @@ the reduced density operator S describes neither the radiation
 
 field nor the correlations existing between the particles and the radiation field.
 
---- Page 280 ---
 
 A Introduction— Overview 259
 
@@ -16284,7 +16140,6 @@ Photons and Atoms—Introduction to Quantum Electrodynamics
 
 III-C-3 and Complement Cγ.
 
---- Page 281 ---
 
 260 Radiation Considered as a Reservoir IV.A
 
@@ -16414,7 +16269,6 @@ ment Aγ shows that the two-time averages appearing in the master
 
 radiation (see Chapters V and VI).
 
---- Page 282 ---
 
 A Introduction—Overview 261
 
@@ -16464,7 +16318,6 @@ Such a calculation demonstrates the close connection
 
 that exists between fluctuations and dissipation.
 
---- Page 283 ---
 
 262 Radiation Considered as a Reservoir IV.B.1
 
@@ -16516,7 +16369,6 @@ an equation that can be iterated to give
 
 + (1/iℏ)^2 ∫_t^{t+Δt} dt' ∫_t^{t'} dt'' [V_I(t'), [V_I(t''), ρ_I(t'')]] + .
 
---- Page 284 ---
 
 2 Derivation of the Master Equation 263
 
@@ -16708,7 +16560,6 @@ R_{uv} = ⟨u| R |v⟩ (B.
 
 ω_u = E_u/ℏ.
 
---- Page 287 ---
 
 266 Radiation Considered as a Reservoir IV.B.3
 
@@ -16754,7 +16605,6 @@ which can still be written in the form
 
 ρ(t) = σ_S(t) ⊗ σ_R(t) + ρ_corr(t) (B.
 
---- Page 288 ---
 
 3 Derivation of the Master Equation 267
 
@@ -16846,7 +16696,6 @@ and these are the
 
 ones that cause ρ to evolve,
 
---- Page 289 ---
 
 268 Radiation Considered as a Reservoir IV.B.3
 
@@ -16936,7 +16785,6 @@ only a narrow strip of width τ_R
 
 near 0B contributes (hatched area).
 
---- Page 290 ---
 
 4 Derivation of the Master Equation 269
 
@@ -17002,7 +16850,6 @@ as exp i(ω_ac − ω_db)t'.
 
 the dependence on t' of the first term
 
---- Page 291 ---
 
 270 Radiation Considered as a Reservoir IV.B.4
 
@@ -17074,7 +16921,6 @@ of t and Δt and are given by the integral over τ of (B.
 
 L_ac,bd = (1/Δt) ∫0 Δt dτ x
 
---- Page 292 ---
 
 4 Derivation of the Master Equation 271
 
@@ -17186,7 +17032,6 @@ mate to neglect in (B.
 
 ω_cd| is not very small compared with 1/Δt.
 
---- Page 293 ---
 
 272 Radiation Considered as a Reservoir IV.C.1
 
@@ -17578,13 +17423,11 @@ Equation (C.
 
 ab
 
---- Page 304 ---
 
 1 Two-Level AtomBy taking the limit L — ∞ and by calling 7j(p) (with j = a
 
 b) the
 
---- Page 314 ---
 
 2 Two-Level Atom Coupled to the Radiation Field 293
 
@@ -17678,7 +17521,6 @@ the momentum p is identical to Mv
 
 so that the function 7j(p) is also the
 
---- Page 315 ---
 
 294 Radiation Considered as a Reservoir IV.E.2
 
@@ -17764,7 +17606,6 @@ the delta function in powers of Ep and Eb
 
 (which is equivalent after integration over ω to expanding the factor
 
---- Page 316 ---
 
 2 Two-Level Atom Coupled to the Radiation Field 295
 
@@ -17818,7 +17659,6 @@ we find that the contribution of the terms in η² and ε to τ is written
 
 The terms in ηε come from the second-order terms of the expansion
 
---- Page 317 ---
 
 296 Radiation Considered as a Reservoir IV.E.2
 
@@ -17932,7 +17772,6 @@ order 0 in η and ε
 
 7a(p) and 7b(p) tend with a very short time constant
 
---- Page 318 ---
 
 2 Two-Level Atom Coupled to the Radiation Field 297
 
@@ -18002,7 +17841,6 @@ by multiplying both sides of (E.
 
 the two terms of the right-hand side by parts and assuming that 7(p) tends
 
---- Page 319 ---
 
 298 Radiation Considered as a Reservoir IV.E.2
 
@@ -18060,7 +17898,6 @@ It appears in the form of a sum of expressions of the same type as (5) correspon
 
 The function is even in .
 
---- Page 325 ---
 
 304 Radiation Considered as a Reservoir Ay-l
 
@@ -18116,7 +17953,6 @@ it has a forced oscillation motion of complex amplitude
 
 The coefficient of proportionality is the linear susceptibility of the
 
---- Page 326 ---
 
 Ay-l Fluctuations and Linear Response 305
 
@@ -18178,7 +18014,6 @@ To first order in (*), an
 
 Exercise 6 in Complement .
 
---- Page 327 ---
 
 306 Radiation Considered as a Reservoir Ay-l
 
@@ -18222,7 +18057,6 @@ and it is advantageous to separate its real and imaginary parts which characteri
 
 Note that is even in , and that is odd.
 
---- Page 328 ---
 
 Awl Fluctuations and Linear Response 307
 
@@ -18274,7 +18108,6 @@ is equal to
 
 (31)
 
---- Page 329 ---
 
 308 Radiation Considered as a Reservoir Ay-l
 
@@ -18334,7 +18167,6 @@ b) for is integrated by parts and combined with (35)
 
 one finds that the contribution from is cancelled and that
 
---- Page 330 ---
 Ay.
 
 1 Fluctuations and Linear Response 309
@@ -18431,7 +18263,6 @@ x — +P—— |(6(w + + 8(@ - +
 
 (38)
 
---- Page 331 ---
 
 310 Radiation Considered as a Reservoir Ay.1
 
@@ -18551,7 +18382,6 @@ ay S Hada = UE, ~ Esa (42)
 
 t b
 
---- Page 332 ---
 
 1 Fluctuations and Linear Response 311
 
@@ -18665,7 +18495,6 @@ for the reservoir and the linear susceptibility of the atom.
 
 # It thus describes
 
---- Page 333 ---
 
 312 Radiation Considered as a Reservoir Ay.2
 
@@ -18853,7 +18682,6 @@ The interpretation of Equation (D.
 
 9), written for i = 1,
 
---- Page 452 ---
 
 2 Master Equation for the Dressed Atom 431
 
@@ -18917,7 +18745,6 @@ The projection of (D.
 
 3) on the right over |2(N)) and on the left over ⟨1(N)| gives
 
---- Page 453 ---
 
 432 The Dressed Atom Approach VI.D.2
 
@@ -18959,7 +18786,6 @@ and where
 
 ⟨i(N)|σ|i(N)⟩ = σ_{i(N)}.
 
---- Page 454 ---
 
 2 Master Equation for the Dressed Atom 433
 
@@ -18985,7 +18811,6 @@ called the “detailed balance condition” and also satisfies the normalization
 
 where the time constant is the inverse of
 
---- Page 455 ---
 
 434 The Dressed Atom Approach VI.D.2
 
@@ -19079,7 +18904,6 @@ would show that σ_ij^P obeys the evolution equation
 
 σ_ij^P = [i(qe, + 2) ~ Deon] σ_ij^P (D.
 
---- Page 456 ---
 
 3 Master Equation for the Dressed Atom 435
 
@@ -19145,7 +18969,6 @@ If we consider the coherences between adjacent manifolds (|N — N'| «
 
 35) can be approximated by P(N), so that
 
---- Page 457 ---
 
 436 The Dressed Atom Approach VI.D.3
 
@@ -19273,7 +19096,6 @@ the free evolution exponential.
 
 ⟨1(N)|σ|1(N'⟩) = e^{-i H_nn τ} Π_nn P(N) (D.
 
---- Page 458 ---
 
 VLE.
 
@@ -19405,7 +19227,6 @@ b), (A^+_i1) = —(A^+_i2), we
 
 tion equations
 
---- Page 460 ---
 
 VLE1 Discussion of a Few Applications 439
 
@@ -19491,7 +19312,6 @@ According to (D.
 
 emitted per second in this line.
 
---- Page 461 ---
 
 440 The Dressed Atom Approach VI.E.1
 
@@ -19597,7 +19417,6 @@ When the last term of (E.
 
 1), it gives rise to the
 
---- Page 462 ---
 
 1 Discussion of a Few Applications 441
 
@@ -19747,7 +19566,6 @@ expressions for the weights of the lines [see (E.
 
 terms of populations of dressed states and spontaneous emission rates.
 
---- Page 463 ---
 
 442 The Dressed Atom Approach VI.E.2
 
@@ -19853,7 +19671,6 @@ or the transition
 
 b -> c (b).
 
---- Page 464 ---
 
 2 Discussion of a Few Applications 443
 
@@ -19977,7 +19794,6 @@ B, 5, 123
 
 (1998).
 
---- Page 465 ---
 
 444 The Dressed Atom Approach VI.E.2
 
@@ -20139,7 +19955,6 @@ Lett.
 
 , 38, 1077 (1977).
 
---- Page 466 ---
 
 2 Discussion of a Few Applications 445
 
@@ -20279,7 +20094,6 @@ Dover, New York
 
 1975, §10-9.
 
---- Page 467 ---
 
 446 The Dressed Atom Approach VI.E.3
 
@@ -20365,7 +20179,6 @@ depends only on
 
 We calculate here such a photon-correlation signal and show that the
 
---- Page 468 ---
 
 3 Discussion of a Few Applications 447
 
@@ -20463,7 +20276,6 @@ which finally gives
 
 for the trace appearing in (E.
 
---- Page 469 ---
 
 448 The Dressed Atom Approach VI.E.3
 
@@ -20545,7 +20357,6 @@ double sum over and of (E.
 
 This, finally,
 
---- Page 470 ---
 
 3 Discussion of a Few Applications 449
 
@@ -20667,7 +20478,6 @@ fluorescence photon emitted after the first photon detected at .
 
 corresponds to
 
---- Page 471 ---
 
 450 The Dressed Atom Approach VI.E.3
 
@@ -20759,7 +20569,6 @@ for example
 
 # Cohen-Tannoudji
 
---- Page 472 ---
 
 3 Discussion of a Few Applications 451
 
@@ -20845,7 +20654,6 @@ Figure 14.
 
 intermittent fluorescence to be observed.
 
---- Page 473 ---
 
 452 The Dressed Atom Approach VI.E3
 
@@ -20921,7 +20729,6 @@ initial conditions c₁(0) = 1
 
 c₂(0) = c₃(0) = 0.
 
---- Page 474 ---
 
 3 Discussion of a Few Applications 453
 
@@ -21107,7 +20914,6 @@ Lett.
 
 (1986).
 
---- Page 475 ---
 
 454 The Dressed Atom Approach VI.E.4
 
@@ -21219,7 +21025,6 @@ but rather
 
 modes reproducing the spatial dependence of the laser field.
 
---- Page 476 ---
 
 VIL.
 
@@ -21313,7 +21118,6 @@ described by a wave packet having very small dimensions (compared to the
 
 wavelength of the laser field) and moving sufficiently slowly so that one
 
---- Page 477 ---
 
 456 The Dressed Atom Approach VI.E.4
 
@@ -21411,7 +21215,6 @@ Chapter V from the optical Bloch equations (see the references at the end
 
 of the chapter).
 
---- Page 478 ---
 
 4 Discussion of a Few Applications 457
 
@@ -21491,7 +21294,6 @@ The fluctuating force in Figure 18 produces a diffusion of the atomic
 
 momentum characterized by the diffusion coefficient
 
---- Page 479 ---
 
 458 The Dressed Atom Approach V.E.4
 
@@ -21563,7 +21365,6 @@ the fluctuations of radiative forces are presented in the reference given at the
 
 chapter.
 
---- Page 480 ---
 
 4 Discussion of a Few Applications 459
 
@@ -21693,7 +21494,6 @@ Phys.
 
 197 (1985), and references therein.
 
---- Page 481 ---
 
 460 The Dressed Atom Approach A,
 
@@ -21875,7 +21675,6 @@ No transitions are induced by V between the level |ψᵢ⟩ and the level
 
 |ψⱼ⟩.
 
---- Page 488 ---
 
 1 The Dressed Atom in the Radio-Frequency Domain 467
 
@@ -21949,7 +21748,6 @@ resonant term at ωij = 0:
 
 (25)
 
---- Page 489 ---
 
 468 The Dressed Atom Approach A§.2
 
@@ -22073,7 +21871,6 @@ Phys.
 
 (Paris), 34, 523 (1973); 34, 537 (1973).
 
---- Page 490 ---
 
 2 The Dressed Atom in the Radio-Frequency Domain 469
 
@@ -22173,7 +21970,6 @@ V = −μ·B(0).
 
 (34)
 
---- Page 491 ---
 
 470 The Dressed Atom Approach A§.2
 
@@ -22223,7 +22019,6 @@ tion e of the rf magnetic field.
 
 Two particular cases are considered.
 
---- Page 492 ---
 
 2 The Dressed Atom in the Radio-Frequency Domain 471
 
@@ -22311,7 +22106,6 @@ b), and for (40)].
 
 they are written with the same letters.
 
---- Page 493 ---
 
 472 The Dressed Atom Approach
 
@@ -22371,7 +22165,6 @@ or, for coherent detection,
 
 the populations of the states or must be summed over .
 
---- Page 494 ---
 
 3 The Dressed Atom in the Radio-Frequency Domain 473
 
@@ -22417,7 +22210,6 @@ we can approximate the matrix element (48.
 
 b) by
 
---- Page 495 ---
 
 474 The Dressed Atom Approach
 
@@ -22459,7 +22251,6 @@ a population transfer between the unperturbed states and is associated with each
 
 This transition between these two states of the dressed atom is interpreted as a spin flip
 
---- Page 496 ---
 
 3 The Dressed Atom in the Radio-Frequency Domain 475
 
@@ -22501,7 +22292,6 @@ Because the state is coupled only to the state
 
 the sum over contains only the term
 
---- Page 497 ---
 
 476 The Dressed Atom Approach
 
@@ -22627,7 +22417,6 @@ see Messiah
 
 Chapter XV.
 
---- Page 503 ---
 
 482 The Dressed Atom Approach Ay-4
 
@@ -22717,7 +22506,6 @@ and not make the approximation consisting of replacing z by E₀.
 
 for example Abragam (Chapter II).
 
---- Page 504 ---
 
 Ay-4 The Dressed Atom in the Radio-Frequency Domain 483
 
@@ -22813,7 +22601,6 @@ B, 6,
 
 L214 (1973).
 
---- Page 505 ---
 
 484 The Dressed Atom Approach Ay 4
 
@@ -22939,7 +22726,6 @@ with the three types of photons
 
 ω₋, and ω then being present.
 
---- Page 506 ---
 
 Ay4 The Dressed Atom in the Radio-Frequency Domain 485
 
@@ -23077,7 +22863,6 @@ B, 6,
 
 L218 (1973).
 
---- Page 507 ---
 
 486 The Dressed Atom Approach Ay-4
 
@@ -23169,7 +22954,6 @@ matrix whose matrix elements are
 
 The factor ⟨N| exp[iΩ(a† — a)/ħω] |N⟩ can be calculated explicitly (see the
 
---- Page 508 ---
 
 A_4 The Dressed Atom in the Radio-Frequency Domain 487
 
@@ -23249,7 +23033,6 @@ Phys.
 
 (Paris), 26, 409 (1965),
 
---- Page 509 ---
 
 488 The Dressed Atom Approach A_4
 
@@ -23311,7 +23094,6 @@ WN )) Figure 3.
 
 |20N)) ing collisions.
 
---- Page 517 ---
 
 496 The Dressed Atom Approach By .2
 
@@ -23419,7 +23201,6 @@ dt Ψ(N)|G|2(N)) = −(κ + iε) Ψ(N)|G|2(N)) (14)
 
 This point will be justified in subsection 4.
 
---- Page 518 ---
 
 2 Collisional Processes in the Presence of Laser Irradiation 497
 
@@ -23529,7 +23310,6 @@ By using the secular approximation,
 
 (*) We omit the index AL of ρ when there is no ambiguity.
 
---- Page 519 ---
 
 498 The Dressed Atom Approach By.2
 
@@ -23623,7 +23403,6 @@ N + 1) and |b
 
 # Starting at
 
---- Page 520 ---
 
 2 Collisional Processes in the Presence of Laser Irradiation 499
 
@@ -23717,7 +23496,6 @@ collisions with the atoms X and the conditions defining the impact limit
 
 # The dressed states in the
 
---- Page 521 ---
 
 500 The Dressed Atom Approach By.2
 
@@ -23827,7 +23605,6 @@ of the coherences σ_a and σ_ab of the bare atom.
 
 The right-hand side of (30) is
 
---- Page 522 ---
 
 3 Collisional Processes in the Presence of Laser Irradiation 501
 
@@ -23973,7 +23750,6 @@ Lett.
 
 46, 111 (1981).
 
---- Page 523 ---
 
 502 The Dressed Atom Approach B.3
 
@@ -24103,7 +23879,6 @@ we have assumed that the matrix element of the dipole between a and b does not v
 
 significantly during the collision (see §1-a).
 
---- Page 524 ---
 
 3 Collisional Processes in the Presence of Laser Irradiation 503
 
@@ -24191,7 +23966,6 @@ decrease the difference |π_b’ — π_a’| between the steady-state populatio
 
 in agreement with the picture in Figure 3.
 
---- Page 525 ---
 
 504 The Dressed Atom Approach B.3
 
@@ -24425,7 +24199,6 @@ Lett.
 
 , 59, 40 (1987).
 
---- Page 531 ---
 
 510 The Dressed Atom Approach By -4
 
@@ -24521,7 +24294,6 @@ Lett.
 
 , 6, 348 (1981).
 
---- Page 532 ---
 
 4 Collisional Processes in the Presence of Laser Irradiation 511
 
@@ -24595,7 +24367,6 @@ in the perturbative limit
 
 on the order of
 
---- Page 533 ---
 
 512 The Dressed Atom Approach By,-4
 
@@ -24721,7 +24492,6 @@ whose order of magnitude is Ω/|Δ₂|.
 
 In this limit, the
 
---- Page 534 ---
 
 By,.
 
@@ -24797,7 +24567,6 @@ to the level |b
 
 N) near the crossing points located at times t_y and t_δ.
 
---- Page 535 ---
 
 514 The Dressed Atom Approach By.4
 
@@ -24893,7 +24662,6 @@ Yakovlenko, JETP Lett.
 
 41, 233 (1975).
 
---- Page 536 ---
 
 # Atom-Photon Interactions
 
@@ -24961,7 +24729,6 @@ the vector potential A over the range of the wave functions of states a
 
 and b.
 
---- Page 537 ---
 
 516 Exercises Ex.
 
@@ -25173,7 +24940,6 @@ where a₀ is the Bohr radius.
 
 @yt 3πε₀ ħ c³ α c
 
---- Page 539 ---
 
 518 Exercises Ex.
 
@@ -25903,7 +25669,6 @@ Rev.
 
 , 121, 508 (1961).
 
---- Page 555 ---
 
 534 Exercises Ex.
 
@@ -25993,7 +25758,6 @@ What is the width of this resonance?
 
 polarizations eᵢ and eⱼ satisfy for this resonance to be observed?
 
---- Page 556 ---
 
 6 Exercises
 
@@ -26051,7 +25815,6 @@ in the solid angle dΩ, about kⱼ is
 
 (12)
 
---- Page 557 ---
 
 536 Exercises Ex.
 
@@ -26125,7 +25888,6 @@ Scattering amplitudes whose interference gives rise to the level-crossing
 
 resonance.
 
---- Page 558 ---
 
 7 Exercises 537
 
@@ -26875,7 +26637,6 @@ is the momentum of the oscillator and is the component of the
 
 vector potential evaluated at .
 
---- Page 611 ---
 
 590 Exercises Ex.5
 
@@ -26963,7 +26724,6 @@ respectively
 
 between and
 
---- Page 612 ---
 
 15 Exercises 591
 
@@ -27065,7 +26825,6 @@ We must now sum (28) over all the possible permutations of the three frequencies
 
 and w,.
 
---- Page 616 ---
 
 15 Exercises 595
 
@@ -27187,7 +26946,6 @@ starts from any excited state |u,,).
 
 It allows us to show that the interference between the 7!
 
---- Page 617 ---
 
 596 Exercises Ex.6
 
@@ -27299,7 +27057,6 @@ exponential is then independent of 4 and » and can then be factored out of the 
 
 inverting the order of the summations over v and u and by using the Hermiticity of V which
 
---- Page 618 ---
 
 17 Exercises 597
 
@@ -27409,7 +27166,6 @@ Rev.
 
 A, 12, 1919 (1975).
 
---- Page 619 ---
 
 598 Exercises Ex.7
 
@@ -27497,7 +27253,6 @@ d
 
 Sto] = He (8)
 
---- Page 620 ---
 
 17 Exercises 599
 
@@ -27889,7 +27644,6 @@ The dressed atom method introduced in Chapter
 
 VI will be used to describe the atom + laser mode system.
 
---- Page 630 ---
 
 20 Exercises 609
 
@@ -27995,7 +27749,6 @@ order in ε’, of the preceding equations.
 
 elements g_{ij}^{(N)} proportional to ε’ e^{iφ’} whose time dependence is e^{-iω’t}.
 
---- Page 631 ---
 
 610 Exercises Ex.0
 
@@ -28087,7 +27840,6 @@ for these velocity groups
 
 that exp[—(v_z²/u²)] can be replaced by 1 in (4).
 
---- Page 632 ---
 
 20 Exercises 611
 
@@ -28141,7 +27893,6 @@ i= ∫ [ f_i/(Ω s_i) ] / [1 + (Ω s_i/Γ)²] dv_z (7.
 
 deduce from this result that
 
---- Page 633 ---
 
 612 Exercises Ex.0
 
@@ -28229,7 +27980,6 @@ It is then sufficient to express these trigonometric functions as a function of 
 
 Exercise 19].
 
---- Page 634 ---
 Ex.
 
 20 Exercises 613
@@ -28424,7 +28174,6 @@ Equations (20) result in |v_1| «< u and |v_2| «<u.
 
 the velocity groups that make an important contribution to (α) are such that the Boltzmann exponential can be replaced by 1.
 
---- Page 635 ---
 
 614 Exercises Ex.0
 
@@ -28442,7 +28191,6 @@ Figure 1.
 
 Graphical determination of the velocity groups which are resonant with the probe beam.
 
---- Page 636 ---
 
 20 Exercises 615
 
@@ -28510,7 +28258,6 @@ n= Fy> t+
 
 ° 2 ass?
 
---- Page 637 ---
 
 20 Exercises 617
 
@@ -28584,7 +28331,6 @@ s^4 1 25656 6456 2
 
 37 eral’ art 9 (32)
 
---- Page 638 ---
 
 618 Exercises Ex.0
 
@@ -28702,7 +28448,6 @@ Bloembergen, North-Holland, Amsterdam,
 
 97; Letokhov and Chebotayev (Chapter 3).
 
---- Page 640 ---
 
 20 Exercises 619
 
@@ -28812,7 +28557,6 @@ a@
 
 instead of (34.
 
---- Page 641 ---
 
 620 Exercises Ex.0
 
@@ -28884,7 +28628,6 @@ energy diagram of the dressed atom [see Figure 1 and Equation (20)] and are inde
 
 of γ.
 
---- Page 642 ---
 
 # Atom-Photon Interactions
 
@@ -28984,7 +28727,6 @@ refer to Photons and Atoms—Introduction to Quantum Electrodynamics for a more 
 
 presentation.
 
---- Page 643 ---
 
 622 Appendix App.
 
@@ -29066,7 +28808,6 @@ whereas its spatial Fourier transform is designated by the same
 
 cursive or italic letter.
 
---- Page 644 ---
 
 App. Appendix 623
 
@@ -29172,7 +28913,6 @@ moments possibly carried by the particles (g_a is the g factor for the
 
 particle a) with the magnetic field B(r).
 
---- Page 651 ---
 
 630 Appendix App.
 
@@ -29238,7 +28978,6 @@ P = Σ_a p_a + P_tr.
 
 (47)
 
---- Page 652 ---
 
 App. Appendix 631
 
@@ -29298,7 +29037,6 @@ H_RR = Σ_{kλ} ℏω_k a_{kλ}† a_{kλ}.
 
 (54)
 
---- Page 653 ---
 
 632 Appendix App.
 
@@ -29398,7 +29136,6 @@ affected by the transverse field that we are looking for.
 
 However, in the
 
---- Page 654 ---
 
 App. Appendix 633
 
@@ -29480,7 +29217,6 @@ E_tr = ⊗_{kλ} E_{kλ}.
 
 (62)
 
---- Page 655 ---
 
 634 Appendix App.
 
@@ -29542,7 +29278,6 @@ The state |α_{kλ}⟩ is an eigenstate of the annihilation operator a_{kλ} hav
 
 eigenvalue α_{kλ},
 
---- Page 656 ---
 
 App. Appendix 635
 
@@ -29934,9 +29669,7 @@ Power, Loudon
 
 and Haken.
 
---- Page 661 ---
 
---- Page 662 ---
 
 # Atom-Photon Interactions
 
@@ -30102,7 +29835,6 @@ Addison-Wesley, Reading, Mass.
 
 (1966).
 
---- Page 663 ---
 
 642 References
 
@@ -30354,7 +30086,6 @@ Wolf,
 
 North-Holland, Amsterdam (1981), p.
 
---- Page 664 ---
 
 # References 643
 
@@ -30418,9 +30149,7 @@ Van Kampen, N.
 
 Holland, Amsterdam (1981).
 
---- Page 665 ---
 
---- Page 666 ---
 
 # Atom-Photon Interactions
 
@@ -30570,7 +30299,6 @@ atom; Dressed atom
 
 Autler-Townes (doublet or effect), 444
 
---- Page 667 ---
 
 646 Index
 
@@ -30826,7 +30554,6 @@ Coherence(s) (of the density matrix)
 
 flat, 49
 
---- Page 668 ---
 
 # Index 647
 
@@ -31030,7 +30757,6 @@ for a two-level atom, 399, 402, 405
 
 Dipole (atomic), see also Correlation;
 
---- Page 669 ---
 
 648 Index
 
@@ -31266,7 +30992,6 @@ in Coulomb gauge, 626
 
 in the electric dipole representation
 
---- Page 670 ---
 
 elementary excitations, 634
 
@@ -31474,7 +31199,6 @@ Heisenberg-Langevin equations:
 
 for a damped harmonic oscillator, 340,
 
---- Page 671 ---
 
 650 Index
 
@@ -31710,7 +31434,6 @@ Lifetime, 12, 57, 73, 187, 202, 515, 580
 
 317, 327
 
---- Page 672 ---
 
 Linear response, 155, 302, 306.
 
@@ -31942,7 +31665,6 @@ time-independent form
 
 360, 363
 
---- Page 673 ---
 
 652 Index
 
@@ -32156,7 +31878,6 @@ broadband and weak intensity, 260, 284,
 
 289, 312
 
---- Page 674 ---
 
 classical versus quantum descriptions,
 
@@ -32398,7 +32119,6 @@ general, 96, 379
 
 intermittent, 451
 
---- Page 675 ---
 
 Resonance fluorescence (Continued)
 
@@ -32638,7 +32358,6 @@ for the reduced populations and
 
 coherences of the dressed atom, 433,
 
---- Page 676 ---
 
 # Index
 
@@ -32874,7 +32593,6 @@ operator, 564, 629, 637
 
 Vertex, 20
 
---- Page 677 ---
 
 Vibration:
 
@@ -32926,7 +32644,6 @@ Wigner-Bnillouin expansion, 229
 
 Wigner distribution, 331
 
---- Page 678 ---
 
 # Atom-Photon Interactions
 
@@ -33046,7 +32763,6 @@ broadband and weak intensity, 260, 284,
 
 289, 312
 
---- Page 674 ---
 
 classical versus quantum descriptions,
 
@@ -33288,7 +33004,6 @@ general, 96, 379
 
 intermittent, 451
 
---- Page 675 ---
 
 Resonance fluorescence (Continued)
 
@@ -33532,7 +33247,6 @@ for the reduced populations and
 
 coherences of the dressed atom, 433.
 
---- Page 676 ---
 
 # Index
 
@@ -33768,7 +33482,6 @@ operator, 564, 629, 637
 
 Vertex, 20
 
---- Page 677 ---
 
 Vibration:
 
@@ -33820,7 +33533,6 @@ Wigner-Bornillouin expansion, 229
 
 Wigner distribution, 331
 
---- Page 678 ---
 
 # Atom-Photon Interactions
 

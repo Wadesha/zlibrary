@@ -76,7 +76,6 @@ examples also serve to illustrate the kinds of substantive economic ques-
 
 tions that can be studied by the analytical methods in this book.
 
---- Page 11 ---
 
 4 1 / Introduction
 
@@ -450,7 +449,6 @@ The unique optimum for the maximization problem of interest is the one solution 
 
 The following exercise illustrates how (5)—(6) can be used to solve for the optimum in a particular example.
 
---- Page 15 ---
 
 12 2 / An Overview
 
@@ -620,7 +618,6 @@ We do not at this point “know” v
 
 but we have defined it as the maxi-
 
---- Page 16 ---
 
 14 2 / An Overview
 
@@ -840,7 +837,6 @@ periods?
 
 This exercise contains most of the information that can be established
 
---- Page 17 ---
 
 16 2 / An Overview
 
@@ -1090,7 +1086,6 @@ realizations is information that is available when the decision is being
 
 carried out but is unknown in period 0 when the decision is being made.
 
---- Page 18 ---
 
 18 2 / An Overview
 
@@ -3120,7 +3115,6 @@ due to Blackwell
 
 for establishing that certain operators are contraction mappings.
 
---- Page 34 ---
 
 50 3 | Mathematical Preliminaries
 
@@ -3234,7 +3228,6 @@ To show that Tv = v
 
 note that for all n and all v₀ ∈ S
 
---- Page 35 ---
 
 52 3 | Mathematical Preliminaries
 
@@ -3752,7 +3745,6 @@ i=1
 
 " Show that T is continuous.
 
---- Page 39 ---
 
 60 3 | Mathematical Preliminaries
 
@@ -4044,7 +4036,6 @@ with x?
 
 An answer is provided in the following theorem.
 
---- Page 40 ---
 
 62 3 | Mathematical Preliminaries
 
@@ -5066,7 +5057,6 @@ Substituting this into (10) gives (9) for t = 0.
 
 tinuing by induction establishes (9) for all t.
 
---- Page 47 ---
 
 76 4 1 Dynamic Programming under Certainty
 
@@ -5284,7 +5274,6 @@ let T:
 
 X ⇉ X be the correspondence describing the feasibility constraints
 
---- Page 48 ---
 
 78 4 | Dynamic Programming under Certainty
 
@@ -6124,7 +6113,6 @@ Theorems 4.
 
 13 then establish that
 
---- Page 53 ---
 
 88 4 | Dynamic Programming under Certainty
 
@@ -6312,7 +6300,6 @@ we will in this context define the function f + a by
 
 (f + a)(x) = f(x) + a‖x‖,
 
---- Page 54 ---
 
 90 4 / Dynamic Programming under Certainty
 
@@ -6444,7 +6431,6 @@ for any λ ≥ 0
 
 then
 
---- Page 55 ---
 
 92 4 | Dynamic Programming under Certainty
 
@@ -7436,7 +7422,6 @@ y°) = θ(k
 
 y) + (1 − θ)(k', y').
 
---- Page 66 ---
 
 114 5 | Applications of Dynamic Programming
 
@@ -7612,7 +7597,6 @@ We will call a function W with these properties an aggregator function.
 
 W(x, z) is interpreted as the utility enjoyed from now on if x ∈ R^L is
 
---- Page 67 ---
 
 116 5 | Applications of Dynamic Programming
 
@@ -7844,7 +7828,6 @@ norm.
 
 W_2(1 − c, y) = x.
 
---- Page 68 ---
 
 118 5 | Applications of Dynamic Programming
 
@@ -8058,7 +8041,6 @@ Exercise 5.
 
 Use the functional equation for w to verify that this conjecture is correct and to show that ā = 1/(2 − δ).
 
---- Page 72 ---
 
 126 5 | Applications of Dynamic Programming
 
@@ -8190,7 +8172,6 @@ x ∈ (m₁
 
 m₂].
 
---- Page 73 ---
 
 128 5 | Applications of Dynamic Programming
 
@@ -9146,7 +9127,6 @@ then
 
 lim xt = X.
 
---- Page 83 ---
 
 148 6 | Deterministic Dynamics
 
@@ -9352,7 +9332,6 @@ written
 
 (3) 0 = βFxy zt+2 + (Fxy + βFxx)zt+1 + (Fxx + βFxx)zt.
 
---- Page 84 ---
 
 150 6 | Deterministic Dynamics
 
@@ -9528,7 +9507,6 @@ problem (SP).
 
 This sequence satisfies (2) and has lim xt = X.
 
---- Page 85 ---
 
 152 6 / Deterministic Dynamics
 
@@ -10018,7 +9996,6 @@ Lemma 6.
 
 # Stochastic Models
 
---- Page 91 ---
 
 7 Measure Theory and Integration
 
@@ -10594,7 +10571,6 @@ It is called the Borel algebra for and is denoted by
 
 any set in is called a Borel set.
 
---- Page 94 ---
 
 170 7 | Measure Theory and Integration
 
@@ -10756,7 +10732,6 @@ we have no way—yet—of being sure that this measure can be extended in a cons
 
 We will return to this example later.
 
---- Page 95 ---
 
 172 7 | Measure Theory and Integration
 
@@ -10892,7 +10867,6 @@ Thus an algebra is closed under complementation and finite union.
 
 then, an algebra is in an important sense smaller than a -algebra.
 
---- Page 96 ---
 
 174 7 | Measure Theory and Integration
 
@@ -11088,7 +11062,6 @@ Then Theorems 7.
 
 That is, (1) does indeed define a
 
---- Page 97 ---
 
 176 7 | Measure Theory and Integration
 
@@ -11884,7 +11857,6 @@ the intersection of every nested decreasing sequence A₁ ⊃ A₂ ⊃ .
 
 of sets in 𝒞.
 
---- Page 109 ---
 
 200 7 Measure Theory and Integration
 
@@ -11974,7 +11946,6 @@ Hence it suffices to show that 𝒞 is closed under complementation and finite i
 
 For each A ∈ 𝒞, define
 
---- Page 110 ---
 
 # 7.6 The Monotone Class Lemma 201
 
@@ -12030,7 +12001,6 @@ We will often want to use this type of argument to show that a property P holds 
 
 Therefore, by
 
---- Page 111 ---
 
 202 7 Measure Theory and Integration
 
@@ -12252,7 +12222,6 @@ Notice that it follows directly from these two definitions that
 
 , all .
 
---- Page 111 ---
 
 204 7 | Measure Theory and Integration
 
@@ -12416,7 +12385,6 @@ such that
 
 , all .
 
---- Page 112 ---
 
 206 7 | Measure Theory and Integration
 
@@ -12920,7 +12888,6 @@ is well defined
 
 although it may take on the value .
 
---- Page 116 ---
 
 214 8 | Markov Processes
 
@@ -13028,7 +12995,6 @@ where the second line follows from the Monotone Convergence Theorem (cf. Exercis
 
 is a probability measure [property (a) in the definition of a transition function].
 
---- Page 117 ---
 
 216 8 | Markov Processes
 
@@ -13122,7 +13088,6 @@ Use Theorem 7.
 
 13 and the Monotone Class Lemma.
 
---- Page 128 ---
 
 238 8 | Markov Processes
 
@@ -13390,7 +13355,6 @@ the set A, the graph of τ.
 
 A = {C ∈ ℝ × X × Z: C ⊂ A}
 
---- Page 131 ---
 
 244 9 | Stochastic Dynamic Programming
 
@@ -13610,7 +13574,6 @@ Let Assumptions 9.
 
 , Consider the relationship between solutions to (2) and to (5) and (6).
 
---- Page 132 ---
 
 246 9 | Stochastic Dynamic Programming
 
@@ -14720,7 +14683,6 @@ empirical tests based on Euler equations
 
 see Hall (1978).
 
---- Page 153 ---
 
 10 Applications of Stochastic
 
@@ -14928,7 +14890,6 @@ Next, suppose that instead of (Z2) we have
 
 sequence of random shocks {z_t} is a Markov process generated by Q.
 
---- Page 154 ---
 
 290 10 | Applications of Stochastic Dynamic Programming
 
@@ -16168,7 +16129,6 @@ achieved successes.
 
 # His probability of a success at this
 
---- Page 165 ---
 
 312 10 / Applications of Stochastic Dynamic Programming
 
@@ -16274,7 +16234,6 @@ Exercise 10.
 
 ing (1).
 
---- Page 166 ---
 
 314 10 / Applications of Stochastic Dynamic Programming
 
@@ -16796,7 +16755,6 @@ lim_{k→∞} (1/n_k) ∑_{t=0}^{n_k-1} Π^{t+1} = Q = ΠQ.
 
 lim_{k→∞} (1/n_k) ∑_{t=0}^{n_k-1} Π^{t+1} = ΠQ.
 
---- Page 173 ---
 
 328 11 / Strong Convergence of Markov Processes
 
@@ -16944,7 +16902,6 @@ otherwise F would be an ergodic set.
 
 R_{00} has at least one row sum that is strictly less than one.
 
---- Page 174 ---
 
 330 11 / Strong Convergence of Markov Processes
 
@@ -17928,7 +17885,6 @@ and Gihman and Skorohod
 
 (1974) for more extensive treatments of general Markov processes.
 
---- Page 185 ---
 
 12 Weak Convergence of
 
@@ -18634,7 +18590,6 @@ demand has a continuous distribution.
 
 and study the resulting Markov process.
 
---- Page 204 ---
 
 390 13 / Convergence Results for Markov Processes
 
@@ -18864,7 +18819,6 @@ For present purposes it is convenient to take
 
 Output rather than the capital stock as the state variable and to use the
 
---- Page 205 ---
 
 392 13 | Convergence Results for Markov Processes
 
@@ -19414,7 +19368,6 @@ ciently large, θ = θ implies D(θ) = 0.
 
 Show that D is continuous by verifying the hypotheses of Theorem
 
---- Page 215 ---
 
 412 13 | Convergence Results for Markov Processes
 
@@ -19576,7 +19529,6 @@ and Prescott (1974)
 
 but the analysis here is quite different.
 
---- Page 216 ---
 
 14 Laws of Large Numbers
 
@@ -20254,7 +20206,6 @@ pp.10-
 
 We are now ready to establish our final result.
 
---- Page 227 ---
 
 436 14 / Laws of Large Numbers
 
@@ -20396,13 +20347,11 @@ ment of the Norms Ergodic Lemma in Section 14.
 
 35).
 
---- Page 228 ---
 
 # PART IV
 
 # Competitive Equilibrium
 
---- Page 229 ---
 
 15 Pareto Optima and
 
@@ -20494,7 +20443,6 @@ ing the connection between competitive equilibria and Pareto optima.
 
 To do this we develop the connections somewhat differently from the
 
---- Page 230 ---
 
 442 15 / Pareto Optima and Competitive Equilibria
 
@@ -20648,7 +20596,6 @@ Y
 
 Figure 15.
 
---- Page 231 ---
 
 444 15 | Pareto Optima and Competitive Equilibria
 
@@ -20882,7 +20829,6 @@ all x ∈ S}
 
 = sup_{||x|| ≤ 1} |φ(x)|.
 
---- Page 232 ---
 
 446 15 | Pareto Optima and Competitive Equilibria
 
@@ -21392,7 +21338,6 @@ Continuity in this norm rules out the preferences in
 
 tion in the distant future ought not to matter very much.
 
---- Page 240 ---
 
 462 15 / Pareto Optima and Competitive Equilibria
 
@@ -21624,7 +21569,6 @@ and can be written as
 
 where each is a continuous linear functional on .
 
---- Page 241 ---
 
 464 15 / Pareto Optima and Competitive Equilibria
 
@@ -22238,7 +22182,6 @@ With a little more structure on preferences
 
 we can use these interest
 
---- Page 248 ---
 
 478 16 | Applications of Equilibrium Theory
 
@@ -23226,7 +23169,6 @@ Consumer has preferences induced by an aggregator function
 
 that is assumed to satisfy conditions (W1)–(W5) of
 
---- Page 257 ---
 
 496 16 / Applications of Equilibrium Theory
 
@@ -23400,7 +23342,6 @@ Prove that an allocation is Pareto optimal if and
 
 only if it attains the supremum in (3).
 
---- Page 258 ---
 
 498 16 | Applications of Equilibrium Theory
 
@@ -23544,7 +23485,6 @@ and strictly concave.
 
 (Note that labor supply is assumed to be bounded below by zero and above by L −.
 
---- Page 261 ---
 
 504 17 | Fixed-Point Arguments
 
@@ -23694,7 +23634,6 @@ for all x′ ∈ X
 
 and ∫ τ(dx′) = 1.
 
---- Page 262 ---
 
 506 17 | Fixed-Point Arguments
 
@@ -25146,7 +25085,6 @@ with slopes bounded below by zero and
 
 above by the slope of ψ.
 
---- Page 287 ---
 
 556 18 / Equilibria in Systems with Distortions
 
@@ -25246,7 +25184,6 @@ the continuity of the operator T is also
 
 straightforward.
 
---- Page 288 ---
 
 558 18 / Equilibria in Systems with Distortions
 
@@ -25466,7 +25403,6 @@ Next, define the analogue to the operator T defined in (7)
 
 The following exercise then parallels Exercise 18.
 
---- Page 289 ---
 
 560 18 / Equilibria in Systems with Distortions
 
@@ -25550,7 +25486,6 @@ Blume (1982) and Duffie et al. (1988) contain results on the existenceof station
 
 # General Index
 
---- Page 290 ---
 
 # References
 
@@ -25704,7 +25639,6 @@ Baltimore: Johns Hopkins University
 
 Press.
 
---- Page 291 ---
 
 564 References
 
@@ -26138,7 +26072,6 @@ Cambridge: Cam-
 
 bridge University Press.
 
---- Page 292 ---
 
 566 References
 
@@ -26560,7 +26493,6 @@ Measure Theory.
 
 New York: Springer-Verlag.
 
---- Page 293 ---
 
 568 References
 
@@ -26974,7 +26906,6 @@ Expectations and the neutrality of money.
 
 Journal of Economic Theory 4:103–124.
 
---- Page 294 ---
 
 570 References——— 1978.
 
@@ -27414,7 +27345,6 @@ only to final states.
 
 Review of Economic Studies 28:98-104.
 
---- Page 295 ---
 
 572 References
 
@@ -27820,7 +27750,6 @@ Nonlinear Functional Analysis and Its Applications.
 
 New York: Springer-Verlag.
 
---- Page 296 ---
 
 # Index of Theorems
 
@@ -28064,7 +27993,6 @@ A solution to the functional equation is the supremum function
 
 any plan generated by the policy correspondence attains the supremum 246
 
---- Page 297 ---
 
 # Index of Theorems
 
@@ -28264,7 +28192,6 @@ Contraction result for operators defined by expected values 509
 
 Contraction result for operators defined by logarithms of expected values 511
 
---- Page 298 ---
 
 Theorem 17.
 
@@ -28476,7 +28403,6 @@ Brock, W.
 
 , 35, 129, 161, 315, 412,
 
---- Page 299 ---
 
 Value function (continued)
 
@@ -28566,7 +28492,6 @@ Zilcha, I.
 
 , 35, 315
 
---- Page 300 ---
 
 586 General Index
 
@@ -29144,7 +29069,6 @@ in a currency economy, 401–402,
 
 in a credit economy, 402–403, 413
 
---- Page 303 ---
 
 580 General Index
 

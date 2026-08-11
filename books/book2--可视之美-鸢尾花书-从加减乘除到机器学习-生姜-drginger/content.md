@@ -112,9 +112,9 @@ App开发本书几乎每一章都至少有一个用 Strea mlit开发的App
 
 用来展示数学动画数据分析、机器学习算法。Streamlit 是个开源的 Python库能够方便快捷搭建部署交互型网页 App。Streamlit 非常简单易用、很受欢迎。Streamlit兼容目前主流的 Python数据分析库比如 NumPy
 
-# Pandas
+Pandas
 
-# Scikit-
+Scikit-
 
 learn、PyTorch、TensorFlow 等等。Streamlit还支持 Plotly
 
@@ -144,9 +144,9 @@ com 运行 Jupyter无需 IDE，只需要浏览器。Jupyter容易分块执行代
 
 或Excel文件中再打开。图像结果不具有交互性，比如不能查看某个点的值，或者旋转3D图形，可以考虑安装 (jupyter -matplotli b)。注意，利用 Altair或Plotly绘制的图像支持交互功能。定义函数，目前没有快捷键直接跳转到其定义。但是，很多开发者针对这些问题都开发了插件，请大家留意。大家可以下载安装 Anaconda
 
-# JupyterLab
+JupyterLab
 
-# Spyder
+Spyder
 
 PyCharm等常用工具都集成在 Anaconda
 
@@ -234,9 +234,9 @@ Plotly可交互图片页、GIF动图、Streamlit App应用等。想要学好这�
 
 Python可视化库 (Matplotlib
 
-# Seaborn
+Seaborn
 
-# Plotly
+Plotly
 
 Bokeh、ProPlot等) 的技术文档多尝试不同的可视化方案和美化设计。彩色
 
@@ -606,17 +606,17 @@ com/51 31944 66
 
 visuali ze.
 
-# Caribou
+Caribou
 
-# White -winged
+White -winged
 
 scoter
 
-# Palm warbler
+Palm warbler
 
-# Whooping craneSalmon
+Whooping craneSalmon
 
-# Monarch
+Monarch
 
 butterfly
 
@@ -850,9 +850,9 @@ visualize.
 
 com ► 是否允许手绘？► 图片大小尺寸？比例如何？► 一幅图是否可以多子图？子图布局有何要求？► 图片内文字字体 (Times New Roman
 
-# Aria l
+Aria l
 
-# Roboto
+Roboto
 
 ► 文字字号最大、最小几号？文字颜色是否有要求？► 图片中的文字是否要求可编辑？► 图片中是否可以嵌入公式？► 黑白、彩色？配色有何特殊要求？► 如何保证彩色图片在黑白灰的呈现效果？► 是否需要针对色盲群体调整配色？► 颜色采用 RGB，还是 CMYK？► 图中线宽、线型是否有要求？► 是否有必要删除隐藏图层的元素？► 图片是静态，还是交互？► 图片的格式？矢量图，还是像素图？► 图片如果过大，是否可以光栅化 (rasterize )？► 像素图的像素要求如何？最小、最大像素？► 图片是否需要单独保存，并提交？► 图片文件格式 (JPEG、PNG、GIF、SVG、TIFF、PDF .
 
@@ -878,13 +878,13 @@ com 2.
 
 3头脑风暴：知识网络富有创意的可视化方案可以为数据插上 “翅膀”！根据你要传达的信息和数据的性质，选择适合的图表类型，从而提高可视化的效果和可读性。图5所示为鸢尾花数据集，图16所示为以鸢尾花数据为起点的知识网。图6 ~ 图16为从鸢尾花书精选出来和鸢尾花数据集有关的可视化方案。# IndexSepal length
 
-# X1Sepal width
+X1Sepal width
 
-# X2Petal length
+X2Petal length
 
-# X3Petal width
+X3Petal width
 
-# X4Species
+X4Species
 
 C
 
@@ -892,9 +892,9 @@ C
 
 C1
 
-# Versicolor
+Versicolor
 
-# C252
+C252
 
 149Virginica
 
@@ -992,9 +992,9 @@ Sepal width, X2
 
 Petal length, X3
 
-# Petal width
+Petal width
 
-# X4Covariance matrix Correlation matrix
+X4Covariance matrix Correlation matrix
 
 # 0.69 0.042 1.3 0.523.0
 
@@ -1034,7 +1034,7 @@ com/51 3194466
 
 visualize.
 
-# Sepal length
+Sepal length
 
 x1 Sepal width
 
@@ -1058,7 +1058,7 @@ x3 Petal width
 
 4 5 6 7 8
 
-# Sepal length
+Sepal length
 
 x1 (cm)9 3Petal length
 
@@ -1090,9 +1090,9 @@ visualize.
 
 Sepal length Sepal width Petal length Petal widthSepal length Sepal width Petal length Petal widthSetosa
 
-# Versicolor
+Versicolor
 
-# Virginica
+Virginica
 
 图18.
 
@@ -1104,7 +1104,7 @@ fX1,X2(x1,x2), joint PDF
 
 4 5 6 7 812345
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -1154,7 +1154,7 @@ x3x4(a) (b)
 
 图10四维空间的 “旋转”超椭球在三维空间中的四个投影
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -1172,7 +1172,7 @@ X2(C3|x1
 
 x2), posterior
 
-# Sepal length
+Sepal length
 
 x1 Sepal length
 
@@ -1236,13 +1236,13 @@ x2 (cm)kNN classifier ( k = 4
 
 weights = 'uniform') Setosa
 
-# C1 Versicolor
+C1 Versicolor
 
-# C2 Virginica
+C2 Virginica
 
-# Decision boundary
+Decision boundary
 
-# Decision boundary
+Decision boundary
 
 # 4.5 5.0 5.5 6.0 6.5 7.0 7.5 8.0
 
@@ -1280,9 +1280,9 @@ visualize.
 
 com 除了以上提到的工具还有其他一些流行的 Python可视化库如 Bokeh
 
-# Altair
+Altair
 
-# ProPlot
+ProPlot
 
 Plotni ne等等它们都提供了不同的特点和功能可以根据具体需求选择适合的工具来进行数据可视化。# 2.5美化完善：优化默认效果利用 Python完成可视化时，利用各种设置美化完善图像是重要的一环。读过《编程不难》这本书的读者对图15都不陌生。如图15所示，一幅图的基本构成部分包括以下几个部分：► 图像区域 (Figure )：整个绘图区域的边界框，可以包含一个或多个子图。► 子图区域 (Axes )
 
@@ -1314,7 +1314,7 @@ html
 
 2.6后期制作：丰富图片细节后期制作是可视化重要环节之一。以鸢尾花书为例，用 Python导出的矢量图不会被直接用到图书当中。每一幅都至少经过两个软件后期处理之后才会使用。常用的后期制作软件包括：# Adobe Illustrator
 
-# Adobe Photoshop
+Adobe Photoshop
 
 Inkscape (免费 )
 
@@ -1472,7 +1472,7 @@ plotly.
 
 graph_objects.
 
-# Contour
+Contour
 
 箭头图
 
@@ -1854,7 +1854,7 @@ plotly.
 
 graph_objects.
 
-# Surface
+Surface
 
 线框图
 
@@ -2068,7 +2068,7 @@ bottom: 0.
 
 如图1所示这些参数的值为0到1之间的浮点数表示相对于图像的宽度或高度的百分比。0 (0%) 1 (100%)0 (0%)1 (100%)
 
-# HeightWidth
+HeightWidth
 
 Page 3 | Chapter 3子图布局 | Book 2《可视之美》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。co m/Visua lize-ML
 
@@ -2886,7 +2886,7 @@ visualize.
 
 对数坐标，图片参考 Scientific Visualization
 
-# Python & Matplotlib
+Python & Matplotlib
 
 Page 13 | Chapter 4装饰 | Book 2《可视之美》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。co m/Visua lize-ML
 
@@ -3242,7 +3242,7 @@ com 7 Colors
 
 Matplotlib中如何设置颜色越是垂垂老矣病痛缠身、捉襟见肘我越想创造热情洋溢井然有序、光彩照人的作品还以颜
 
-# The more ugly
+The more ugly
 
 old, nasty
 
@@ -3286,11 +3286,11 @@ spectrum Increasing wavelength (decreasing frequency)
 
 1022102010181016101410121010108106104102100Hz
 
-# Gamma rays X rays
+Gamma rays X rays
 
-# UltravioletInfrared Microwave
+UltravioletInfrared Microwave
 
-# Radio wavesFM AM Long radio waves
+Radio wavesFM AM Long radio waves
 
 图1.
 
@@ -3344,7 +3344,7 @@ com 本书后文大家会看到 RGB颜色模型的色彩空间。# Green
 
 (1, 0, 0)
 
-# FF0000
+FF0000
 
 图3.
 
@@ -4122,7 +4122,7 @@ coordinate 或polar angle 或azimuth )。θP (r, θ)
 
 O
 
-# Polar axis
+Polar axis
 
 图5.
 
@@ -4422,17 +4422,17 @@ visualize.
 
 ml@gmail.
 
-# RGB spaceRotate cube
+RGB spaceRotate cube
 
 and add seams
 
-# Force RGBCMY
+Force RGBCMY
 
 into a plane
 
-# Expand horizontal slices
+Expand horizontal slices
 
-# HSV color
+HSV color
 
 modelHSL color
 
@@ -4560,11 +4560,11 @@ Red60°
 
 Yellow120°
 
-# Green
+Green
 
 180°
 
-# Cyan
+Cyan
 
 240°
 
@@ -4682,13 +4682,13 @@ rainbow
 
 (f) 反向发散
 
-# RdBu
+RdBu
 
-# RdYlBu
+RdYlBu
 
-# RdYlGn
+RdYlGn
 
-# Spectral
+Spectral
 
 coolwarm
 
@@ -4702,27 +4702,27 @@ cividis(a) 均匀
 
 (b) 单色渐变
 
-# Greys
+Greys
 
-# Blues
+Blues
 
-# Reds
+Reds
 
 (c) 双色渐变
 
-# GnBu
+GnBu
 
-# OrRd
+OrRd
 
-# BuPu
+BuPu
 
 (d) 三色渐变
 
-# YlGnBu
+YlGnBu
 
-# YlOrBr
+YlOrBr
 
-# PuBuGn
+PuBuGn
 
 图1.
 
@@ -4814,7 +4814,7 @@ html
 
 viridis
 
-# Blues
+Blues
 
 cool
 
@@ -5250,7 +5250,7 @@ R (0, 0) RB(a) RdYlBu
 
 4)(0, 0, 0)
 
-# G GG
+G GG
 
 图18.
 
@@ -5524,7 +5524,7 @@ R (0, 0) RB(a)
 
 4)(0, 0, 0)
 
-# GG G
+GG G
 
 G
 
@@ -5624,7 +5624,7 @@ R (0, 0) RB(a)
 
 4)(0, 0, 0)
 
-# GG G
+GG G
 
 G
 
@@ -5764,7 +5764,7 @@ com 10.
 
 Zero-dimensional One-dimensionalTwo-dimensionalThree -dimensional
 
-# Moving points
+Moving points
 
 generate linesMoving lines
 
@@ -5896,7 +5896,7 @@ versicolor
 
 virginica
 
-# Petal length
+Petal length
 
 6(a) (b)
 
@@ -5906,7 +5906,7 @@ virginica
 
 (g) (h)Petal length
 
-# Petal width
+Petal width
 
 4species
 
@@ -5916,11 +5916,11 @@ versicolor
 
 virginica
 
-# Petal width
+Petal width
 
-# Petal length
+Petal length
 
-# Petal width
+Petal width
 
 species
 
@@ -6836,9 +6836,9 @@ x 坐标数组和 y 坐标数组用于指定要填充的多边形区域的顶点
 
 x 和 y 的长度必须相同，且每个元素都对应一个多边形的顶点。图6给出的例子还用到了旋转，《矩阵力量》会介绍如何利用线性代数工具完成旋转操作。图7所示为利用正方形可视化最小二乘回归原理。add_p atch 是 matplotl ib 库中 Axes 对象的一个方法用于向一个子图中添加一个图形元素。个方法可以添加多种不同类型的图形元素，例如矩形、多边形、圆形、椭圆、箭头等等。add_patch 方法前需要先创建一个对应的图形元素对象例如 Circile
 
-# Rectangle
+Rectangle
 
-# Polygon
+Polygon
 
 Ellipse、Arrow 等。然后，可以使用 add_patch 方法将这个对象添加到指定的子图中。在添加完成
 
@@ -6896,15 +6896,15 @@ stackplot 函数是 matplotlib 库中用于绘制堆叠面积图的函数。堆�
 
 dataframe绘制堆叠面积图，如图8所示。1950 1960 1970 1980 1990 2000 2010
 
-# YearAfrica
+YearAfrica
 
-# Asia
+Asia
 
-# Europe
+Europe
 
-# Latin America
+Latin America
 
-# North America
+North America
 
 Austr/Oceania
 
@@ -6982,7 +6982,7 @@ com 13 Polar Plots
 
 We are just an advanced breed of monkeys on a minor planet of a very average star.
 
-# But we can
+But we can
 
 understand the Universe.
 
@@ -8620,15 +8620,15 @@ ml@gmail.
 
 Petal length, x3 (cm)Setosa
 
-# Versicolor
+Versicolor
 
-# Virginica
+Virginica
 
 Petal length, x3 (cm)Setosa
 
-# Versicolor
+Versicolor
 
-# Virginica
+Virginica
 
 图5.
 
@@ -8932,7 +8932,7 @@ com 19 3D Line Plot
 
 Two, never give up work.
 
-# Work gives
+Work gives
 
 you meaning and purpose and life is empty without it.
 
@@ -9110,7 +9110,7 @@ ipynb绘制图5。# 19.2火柴梗图类似平面直角坐标系在三维直角�
 
 000.
 
-# PMF
+PMF
 
 15x10.
 
@@ -9868,9 +9868,9 @@ com 21.
 
 Matplotlib中三维空间等高线和填充等高线实际上可以指定三个不同方向。面，我们分别介绍这三种不同获取等高线的方向。# Along z
 
-# Along y
+Along y
 
-# Along xxyzxyz
+Along xxyzxyz
 
 xyz
 
@@ -10038,11 +10038,11 @@ visualize.
 
 ml@gmail.
 
-# Along x3
+Along x3
 
-# Along x2
+Along x2
 
-# Along x1x1x2x3x1x2x3
+Along x1x1x2x3x1x2x3
 
 x1x2x3
 
@@ -11438,9 +11438,9 @@ patches 已经不陌生了。matplotlib.
 
 patches 是 Matplot lib 库中的一个模块，可以使用它来绘制如图1圆形、矩形、多边形、箭头等等。# Circle Rectangle Wedge
 
-# RegularPolygon Ellipse Arrow
+RegularPolygon Ellipse Arrow
 
-# PathPatch FancyBboxPatch Line2D
+PathPatch FancyBboxPatch Line2D
 
 图1.
 
@@ -11692,17 +11692,17 @@ ml@gmail.
 
 43579
 
-# V0 V1V2
+V0 V1V2
 
-# V1V2 V3
+V1V2 V3
 
-# V2 V3V4
+V2 V3V4
 
 2V4
 
-# V0V5
+V0V5
 
-# V0V5
+V0V5
 
 V6
 
@@ -11710,7 +11710,7 @@ V6
 
 V7
 
-# V7V3
+V7V3
 
 V8巴都万数列 (Padovan Sequence) 的前3项均为1
 
@@ -11810,7 +11810,7 @@ visualiz e.
 
 ml@gmail.
 
-# P0 P1P2
+P0 P1P2
 
 P0,1P1,2P2,0
 
@@ -12354,7 +12354,7 @@ visu alize.
 
 ml@gmail.
 
-# Projectionx1x2 planex2x3 plane
+Projectionx1x2 planex2x3 plane
 
 x1x3 plane
 
@@ -12382,7 +12382,7 @@ visu alize.
 
 ml@gmail.
 
-# Projectionz1z2 planez2z3 plane
+Projectionz1z2 planez2z3 plane
 
 z1z3 plane
 
@@ -12676,7 +12676,7 @@ visualize.
 
 ml@gmail.
 
-# Petal length Petal length
+Petal length Petal length
 
 图6.
 
@@ -13138,9 +13138,9 @@ H1
 
 H2
 
-# H3H4
+H3H4
 
-# H5H6
+H5H6
 
 图4.
 
@@ -13150,9 +13150,9 @@ H1
 
 H2
 
-# H3H4
+H3H4
 
-# H5H6
+H5H6
 
 Page 7 | Chapter 27几何变换 | Book 2《可视之美》| 鸢尾花书从加减乘除到机器学习本PDF文件为作者草稿发布目的为方便读者在移动终端学习终稿内容以清华大学出版社纸质出版物为准。版权归清华大学出版社所有，请勿商用，引用请注明出处。代码及 PDF文件下载：https://git hub.
 
@@ -13682,7 +13682,7 @@ com 缩放图5所示为从四个投影视角展示等比例缩放、非等比例
 
 Angle) 是飞机绕其纵轴旋转的角度，用于描述飞机的侧倾程度。当飞机向右侧倾斜时，翻滚角为向左倾斜时，翻滚角为负值。俯仰角 (Pitch Angle) 是飞机绕其横轴旋转的角度用于描述飞机的仰角或俯角。当飞机向上抬头时，俯仰角为正值；向下俯冲时，俯仰角为负值。偏航角 (Yaw Angle) 是飞机绕其垂直轴旋转的角度用于描述飞机的航向偏转。当飞机顺时针旋转时，偏航角为正值；逆时针旋转时，偏航角为负值。如图4所示这些角度通常使用欧拉角 (Euler Angl es) 系统来表示其中翻滚角、俯仰角和偏航角分别绕飞机的纵轴、横轴和垂直轴旋转。图6、图7、图8所示为从四个投影视角展示旋转操特别地，图8中正方体分别经过三个方向旋转。# Pitch
 
-# RollYaw
+RollYaw
 
 图3.
 
@@ -14164,7 +14164,7 @@ com 29.
 
 线段上的 B(13/16)。当t在 [0, 1] 之间连续取值时，我们便得到了二阶贝塞尔曲线上的一系列点。图5给出几个不同的贝塞尔曲线，P1点坐标为随机生成。大家可能已经发现，贝塞尔曲线一般不会经过 P1点，除非 P0、P1、P2三点在同一条直线上。# P0P1
 
-# P2P2P0
+P2P2P0
 
 P1
 
@@ -14172,7 +14172,7 @@ P1
 
 二阶贝塞尔曲线原理
 
-# P0P1
+P0P1
 
 P2B(13/16)3/16 13/16
 
@@ -16488,7 +16488,7 @@ z = a + bi
 
 a+b
 
-# ReIm
+ReIm
 
 θ
 
@@ -17492,35 +17492,35 @@ ml@gmail.
 
 Alekhine, Alexander
 
-# Fischer
+Fischer
 
-# Robert JSpassky
+Robert JSpassky
 
-# Boris V Petrosian
+Boris V Petrosian
 
-# Tigran V Tal
+Tigran V Tal
 
-# Mikhail NBronstein
+Mikhail NBronstein
 
-# David IGunsberg
+David IGunsberg
 
-# Isidor A
+Isidor A
 
 Chigorin, Mikhail I
 
 Steinitz, Wilhelm
 
-# Zukertort
+Zukertort
 
-# Johannes H Bogoljubow
+Johannes H Bogoljubow
 
-# Efim D Capablanca
+Efim D Capablanca
 
-# Jose RaulLasker
+Jose RaulLasker
 
-# EmanuelSchlechter
+EmanuelSchlechter
 
-# Carl
+Carl
 
 Kasparov, Gary
 
@@ -17530,15 +17530,15 @@ Korchnoi, Viktor LEuwe, Max
 
 Keres, Paul
 
-# Botvinnik
+Botvinnik
 
-# Mikhail M Reshevsky
+Mikhail M Reshevsky
 
-# Samuel H Smyslov
+Samuel H Smyslov
 
-# Vassily V Tarrasch
+Vassily V Tarrasch
 
-# Siegbert
+Siegbert
 
 Janowski, Dawid M Marshall, Frank J
 
@@ -17838,7 +17838,7 @@ Sepal length, x1Sepal width, x2
 
 Sepal length, x1Sepal width, x2
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
@@ -17896,7 +17896,7 @@ Sepal length, x1Sepal width, x2
 
 Sepal length, x1Sepal width, x2
 
-# Sepal length
+Sepal length
 
 x1Sepal width
 
