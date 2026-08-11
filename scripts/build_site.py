@@ -205,7 +205,7 @@ hr.page { border:none; border-top:1px dashed var(--line); margin:2em 0 1em; }
 """
 
 JS_APP = r"""
-var CATS=[], LANG='all', Q='', SORT='title';
+var CATS=[], LANG='all', Q='', SORT='type';
 function setLang(l){ LANG=l; document.querySelectorAll('.lf').forEach(b=>b.classList.remove('active'));
   document.querySelector('.lf.'+l).classList.add('active'); apply(); }
 function setCat(c){ CATS = (CATS.includes(c)) ? CATS.filter(x=>x!==c) : [c];
@@ -239,7 +239,8 @@ function sortRows(){
   rows.sort((x,y)=>{
     if(SORT==='title') return x.dataset.title.localeCompare(y.dataset.title);
     if(SORT==='author') return (x.dataset.author||'~').localeCompare(y.dataset.author||'~');
-    return 0;
+    var co=function(li){return parseInt(li.dataset.catorder||'999',10);};
+    return co(x)-co(y) || x.dataset.title.localeCompare(y.dataset.title);
   });
   rows.forEach(r=>ul.appendChild(r));
 }
@@ -264,18 +265,22 @@ function setWidth(d){ var w=parseInt(getComputedStyle(document.documentElement).
 
 def render_index(manifest):
     books = manifest["books"]
+    # 主题顺序：按 config.CATEGORY_ORDER 聚集（"其他"置末），而非字母序
+    cat_rank = {c: i for i, c in enumerate(config.CATEGORY_ORDER)}
     # 主题清单（用于筛选条）
-    cats = sorted({b.get("category", "其他") for b in books})
+    cats = sorted({b.get("category", "其他") for b in books},
+                  key=lambda c: (cat_rank.get(c, 999), c))
     cat_chips = "".join(
         f'<button class="btn cat" data-cat="{html.escape(c)}" onclick="setCat(\'{html.escape(c)}\')">{html.escape(c)}</button>'
         for c in cats)
     items = []
-    for b in sorted(books, key=lambda x: x["title"].lower()):
+    for b in sorted(books, key=lambda x: (cat_rank.get(x.get("category", "其他"), 999), x["title"].lower())):
         rel = f"books/{b['slug']}/index.html"
         lang = b["language"]
         badge = "中" if lang == "zh" else "EN"
         author = b.get("author") or ""
         cat = b.get("category", "其他")
+        catorder = cat_rank.get(cat, 999)
         meta_bits = [f'<span class="tag {lang}">{badge}</span>',
                      f'<span class="tag">{html.escape(cat)}</span>']
         if author:
@@ -284,7 +289,7 @@ def render_index(manifest):
         items.append(
             f'<li class="book" data-title="{html.escape(b["title"].lower())}" '
             f'data-author="{html.escape(author.lower())}" data-cat="{html.escape(cat)}" '
-            f'data-lang="{lang}" data-slug="{html.escape(b["slug"])}">'
+            f'data-catorder="{catorder}" data-lang="{lang}" data-slug="{html.escape(b["slug"])}">'
             f'<a class="title" href="{rel}">{html.escape(b["title"])}</a>'
             f'<span class="meta">{" ".join(meta_bits)}</span></li>'
         )
@@ -297,7 +302,8 @@ def render_index(manifest):
     <button class="btn lf all active" onclick="setLang('all')">全部</button>
     <button class="btn lf zh" onclick="setLang('zh')">中文</button>
     <button class="btn lf en" onclick="setLang('en')">English</button>
-    <button class="btn sort title active" onclick="setSort('title')">按书名</button>
+    <button class="btn sort type active" onclick="setSort('type')">按类型</button>
+    <button class="btn sort title" onclick="setSort('title')">按书名</button>
     <button class="btn sort author" onclick="setSort('author')">按作者</button>
   </div>
   <div class="chips">{cat_chips}</div>

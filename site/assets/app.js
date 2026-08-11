@@ -1,5 +1,5 @@
 
-var CATS=[], LANG='all', Q='', SORT='title';
+var CATS=[], LANG='all', Q='', SORT='type';
 function setLang(l){ LANG=l; document.querySelectorAll('.lf').forEach(b=>b.classList.remove('active'));
   document.querySelector('.lf.'+l).classList.add('active'); apply(); }
 function setCat(c){ CATS = (CATS.includes(c)) ? CATS.filter(x=>x!==c) : [c];
@@ -33,7 +33,8 @@ function sortRows(){
   rows.sort((x,y)=>{
     if(SORT==='title') return x.dataset.title.localeCompare(y.dataset.title);
     if(SORT==='author') return (x.dataset.author||'~').localeCompare(y.dataset.author||'~');
-    return 0;
+    var co=function(li){return parseInt(li.dataset.catorder||'999',10);};
+    return co(x)-co(y) || x.dataset.title.localeCompare(y.dataset.title);
   });
   rows.forEach(r=>ul.appendChild(r));
 }
