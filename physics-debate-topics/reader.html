@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>物理争议话题 · 翻页阅读</title>
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif; background: #0a0e17; color: #e0e6f0; min-height: 100vh; overflow: hidden; }
+    header { background: linear-gradient(135deg, #0f1a2e 0%, #1a2a4a 100%); border-bottom: 1px solid #1e3050; padding: 0 24px; position: sticky; top: 0; z-index: 100; }
+    header .inner { max-width: 800px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; height: 56px; }
+    header .logo { font-size: 18px; font-weight: 700; color: #fff; display: flex; align-items: center; gap: 8px; }
+    header .logo span { color: #6baeff; }
+    header .nav-links { display: flex; gap: 4px; }
+    header .nav-links a { padding: 6px 14px; border-radius: 6px; font-size: 13px; color: #8899bb; text-decoration: none; transition: all 0.2s; }
+    header .nav-links a:hover { color: #fff; background: rgba(107,174,255,0.12); }
+    .progress-bar { position: fixed; top: 56px; left: 0; right: 0; height: 3px; background: #1a2a4a; z-index: 99; }
+    .progress-bar .fill { height: 100%; width: 5%; background: linear-gradient(90deg, #6baeff, #f0c060); transition: width 0.4s ease; }
+    .reader { max-width: 720px; margin: 0 auto; padding: 40px 24px 100px; height: calc(100vh - 59px); overflow-y: auto; scroll-behavior: smooth; }
+    .reader::-webkit-scrollbar { width: 4px; }
+    .reader::-webkit-scrollbar-track { background: transparent; }
+    .reader::-webkit-scrollbar-thumb { background: #1e3050; border-radius: 2px; }
+    .page { display: none; animation: fadeIn 0.35s ease; }
+    .page.active { display: block; }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    .page-num { font-size: 12px; font-weight: 600; color: #6baeff; letter-spacing: 1px; margin-bottom: 4px; }
+    .page-title { font-size: 26px; font-weight: 800; color: #fff; margin-bottom: 20px; line-height: 1.3; }
+    .page .formula-box { font-family: "Times New Roman", "STIX", serif; font-style: italic; font-size: 22px; color: #f0c060; background: rgba(240, 192, 96, 0.06); border: 1px solid rgba(240, 192, 96, 0.15); border-radius: 10px; padding: 16px 20px; text-align: center; margin-bottom: 24px; line-height: 1.5; }
+    .page .section-label { font-size: 12px; font-weight: 600; color: #6baeff; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px; margin-top: 20px; }
+    .page .section-label:first-of-type { margin-top: 0; }
+    .page .section-body { font-size: 15px; line-height: 1.8; color: #c0c8d8; margin-bottom: 6px; }
+    .page .section-body .highlight { color: #f0c060; font-weight: 600; }
+    .page .section-body .blue { color: #6baeff; font-weight: 600; }
+    .page .divider { height: 1px; background: #1a2a4a; margin: 24px 0; }
+    .page .hook { background: rgba(107, 174, 255, 0.06); border-left: 3px solid #6baeff; border-radius: 0 8px 8px 0; padding: 14px 18px; margin-top: 20px; font-size: 15px; color: #8899bb; line-height: 1.7; }
+    .page .hook strong { color: #e0e6f0; }
+    .page .tag { display: inline-block; margin-top: 16px; padding: 4px 14px; border-radius: 12px; font-size: 12px; background: rgba(107, 174, 255, 0.1); color: #6baeff; }
+    .nav-bar { position: fixed; bottom: 0; left: 0; right: 0; background: linear-gradient(0deg, #0a0e17 60%, transparent); padding: 20px 24px 28px; display: flex; justify-content: center; gap: 12px; z-index: 90; }
+    .nav-bar .btn { padding: 12px 32px; border: 1px solid #1e3050; border-radius: 10px; background: #111a2e; color: #8899bb; font-size: 15px; cursor: pointer; transition: all 0.2s; font-family: inherit; min-width: 120px; text-align: center; user-select: none; }
+    .nav-bar .btn:hover:not(:disabled) { border-color: #6baeff; color: #fff; background: #1a2a4a; }
+    .nav-bar .btn:disabled { opacity: 0.3; cursor: not-allowed; }
+    .nav-bar .btn.primary { background: #6baeff; color: #fff; border-color: #6baeff; }
+    .nav-bar .btn.primary:hover:not(:disabled) { background: #5a9df0; border-color: #5a9df0; }
+    .nav-bar .page-info { display: flex; align-items: center; color: #445577; font-size: 14px; padding: 0 8px; min-width: 80px; justify-content: center; }
+    .nav-bar .page-info span { color: #8899bb; font-weight: 600; }
+    .kbd-hint { position: fixed; bottom: 90px; left: 50%; transform: translateX(-50%); color: #334466; font-size: 12px; text-align: center; pointer-events: none; }
+    .kbd-hint kbd { display: inline-block; padding: 2px 8px; border: 1px solid #1e3050; border-radius: 4px; font-size: 11px; font-family: inherit; background: #111a2e; color: #556688; }
+    .goto-wrapper { display: flex; align-items: center; gap: 6px; }
+    .goto-wrapper input { width: 44px; padding: 6px 8px; border: 1px solid #1e3050; border-radius: 6px; background: #111a2e; color: #e0e6f0; font-size: 14px; text-align: center; font-family: inherit; outline: none; }
+    .goto-wrapper input:focus { border-color: #6baeff; }
+    .goto-wrapper input[type=number] { -moz-appearance: textfield; }
+    .goto-wrapper .goto-btn { padding: 6px 12px; border: 1px solid #1e3050; border-radius: 6px; background: #1a2a4a; color: #8899bb; font-size: 13px; cursor: pointer; font-family: inherit; transition: all 0.2s; }
+    .goto-wrapper .goto-btn:hover { border-color: #6baeff; color: #fff; }
+    @media (max-width: 600px) { .page-title { font-size: 22px; } .page .formula-box { font-size: 18px; padding: 12px 16px; } .page .section-body { font-size: 14px; } .reader { padding: 24px 16px 120px; } .nav-bar { flex-wrap: wrap; gap: 8px; padding: 16px 16px 24px; } .nav-bar .btn { padding: 10px 20px; font-size: 14px; min-width: 80px; flex: 1; } .nav-bar .page-info { min-width: 60px; font-size: 13px; order: -1; width: 100%; } .goto-wrapper { display: none; } .kbd-hint { display: none; } }
+    .overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.85); display: flex; align-items: center; justify-content: center; z-index: 200; backdrop-filter: blur(8px); animation: fadeIn 0.3s ease; }
+    .overlay.hidden { display: none; }
+    .overlay-card { background: #111a2e; border: 1px solid #1e3050; border-radius: 16px; padding: 40px 36px; max-width: 480px; width: 90%; text-align: center; }
+    .overlay-card h2 { font-size: 22px; color: #fff; margin-bottom: 8px; }
+    .overlay-card p { font-size: 14px; color: #667799; line-height: 1.7; margin-bottom: 6px; }
+    .overlay-card .shortcuts { display: flex; flex-direction: column; gap: 10px; margin: 20px 0; text-align: left; }
+    .overlay-card .shortcuts .row { display: flex; align-items: center; gap: 12px; font-size: 14px; color: #8899bb; }
+    .overlay-card .shortcuts .row kbd { display: inline-block; min-width: 60px; padding: 4px 10px; border: 1px solid #2a4a7a; border-radius: 5px; font-size: 12px; font-family: inherit; background: #0f1a2e; color: #6baeff; text-align: center; }
+    .overlay-card .start-btn { margin-top: 16px; padding: 12px 48px; border: none; border-radius: 10px; background: #6baeff; color: #fff; font-size: 16px; font-weight: 600; cursor: pointer; font-family: inherit; transition: background 0.2s; }
+    .overlay-card .start-btn:hover { background: #5a9df0; }
+  </style>
+</head>
+<body>
+<header>
+  <div class="inner">
+    <div class="logo">⚛ <span>Physics</span> Debates</div>
+    <div class="nav-links">
+      <a href="index.html">主页</a>
+      <a href="popular.html">网红物理</a>
+      <a href="background.html">背景</a>
+    </div>
+  </div>
+</header>
+<div class="progress-bar"><div class="fill" id="progressFill"></div></div>
+<div class="overlay" id="overlay">
+  <div class="overlay-card">
+    <h2>📖 翻页阅读</h2>
+    <p>20 个物理争议话题，一页一个，点击翻页。</p>
+    <div class="shortcuts">
+      <div class="row"><kbd>←</kbd><span>上一页</span></div>
+      <div class="row"><kbd>→</kbd><span>下一页</span></div>
+      <div class="row"><kbd>G</kbd><span>跳转到指定页码</span></div>
+      <div class="row"><kbd>I</kbd><span>重新显示操作说明</span></div>
+    </div>
+    <p style="color:#445577;font-size:13px;margin-top:4px">页面底部也有翻页按钮和页码输入框</p>
+    <button class="start-btn" onclick="closeOverlay()">开始阅读</button>
+  </div>
+</div>
+<div class="reader" id="reader">
+  <div class="page active" data-page="1">
+    <div class="page-num">#01</div>
+    <div class="page-title">E = mc² —— 质能公式到底什么意思？</div>
+    <div class="formula-box">E = mc²</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">从狭义相对论出发，物体能量 E = γmc²，其中 γ = 1/√(1−v²/c²)。当 v=0 时 γ=1，得到 E₀ = mc²。静止的物体也有能量。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">"质量转化为能量"这个说法是错的。质量不会"变成"能量，质量本身就是能量的一种形式。太阳发光不是质量消失了，而是质能形式变了。但几乎所有科普书都在说"质量转化为能量"。</div>
+    <div class="section-label">更深层的争议</div>
+    <div class="section-body">E = mc² 里的 m 到底是"静止质量"还是"相对论质量"？物理学家自己吵了几十年。现代粒子物理只认静止质量，但很多教材还在用相对论质量。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 你学物理的时候，老师说的是"质量转化为能量"还是"质量和能量是同一个东西"？</div>
+    <span class="tag">相对论</span>
+  </div>
+  <div class="page" data-page="2">
+    <div class="page-num">#02</div>
+    <div class="page-title">双生子佯谬 —— 谁更年轻？</div>
+    <div class="formula-box">t' = t / √(1 − v²/c²)</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">从洛伦兹变换出发：t' = γ(t − vx/c²)，其中 γ = 1/√(1−v²/c²)。哥哥以近光速飞出去再回来，固有时 τ = ∫√(1−v²/c²) dt，比弟弟在地球上的时间短。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">一直有人问：为什么不是弟弟年轻？从哥哥的参考系看，弟弟也在高速运动。对称性被加速过程打破了——哥哥掉头时经历了加速。但"掉头"这个瞬间，哥哥的"同时面"发生了剧烈旋转。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 双生子问题，只用狭义相对论能不能完全解释清楚？</div>
+    <span class="tag">相对论</span>
+  </div>
+  <div class="page" data-page="3">
+    <div class="page-num">#03</div>
+    <div class="page-title">不确定性原理 —— 不是测量精度问题</div>
+    <div class="formula-box">Δx · Δp ≥ ħ/2</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">这不是实验误差，而是数学定理。位置算符 x̂ 和动量算符 p̂ 的对易子 [x̂, p̂] = iħ。根据柯西-施瓦茨不等式，任意两个不对易的算符，其标准差乘积至少为 ħ/2。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">很多人说"不确定性原理是因为测量干扰了粒子"。不对。不确定性原理说的是：就算你测量技术无限好，位置和动量也不可能同时确定。这是量子世界的本质属性，不是测量仪器的局限。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 你觉得不确定性是世界的本质，还是我们太笨了测不准？</div>
+    <span class="tag">量子力学</span>
+  </div>
+  <div class="page" data-page="4">
+    <div class="page-num">#04</div>
+    <div class="page-title">薛定谔方程 —— 波函数到底代表什么？</div>
+    <div class="formula-box">iħ ∂ψ/∂t = Ĥψ</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">薛定谔从德布罗意关系 E = ħω, p = ħk 出发，假设平面波 ψ = exp[i(kx−ωt)]，对时间求导得 iħ∂ψ/∂t = Eψ，对空间求导得 −ħ²/2m · ∂²ψ/∂x² = p²/2m · ψ。总能量 E = p²/2m + V，就得到了这个方程。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">方程本身是对的，但 ψ 到底是什么？玻恩说 |ψ|² 是概率密度。但概率是"我们对系统的知识"还是"系统的客观状态"？薛定谔本人到死都不接受概率解释。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 你觉得波函数是真实的物理波，还是我们脑子里的信息？</div>
+    <span class="tag">量子力学</span>
+  </div>
+  <div class="page" data-page="5">
+    <div class="page-num">#05</div>
+    <div class="page-title">贝尔不等式 —— 爱因斯坦错在哪</div>
+    <div class="formula-box">|E(a,b) − E(a,c)| ≤ 1 + E(b,c)</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">假设粒子有"预先决定"的自旋值（隐变量），且测量结果只取决于测量方向和局域隐变量。那么对三个测量方向 a,b,c，关联函数必须满足这个不等式。贝尔在1964年推导出来的，纯数学，没有漏洞。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">量子力学预言这个不等式会被违反——实验证实了。这意味着局域实在论不成立。但问题来了：你选择放弃"实在论"还是放弃"局域性"？多数物理学家选择放弃局域实在论，但具体放弃哪一半，还在吵。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 你愿意相信"上帝掷骰子"，还是相信"超光速存在"？</div>
+    <span class="tag">量子纠缠</span>
+  </div>
+  <div class="page" data-page="6">
+    <div class="page-num">#06</div>
+    <div class="page-title">紫外灾难 —— 量子力学是这样诞生的</div>
+    <div class="formula-box">u(ν,T) = 8πν²/c³ · kT  →  u(ν,T) = 8πhν³/c³ · 1/(e^(hν/kT)−1)</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">瑞利-金斯从经典电磁理论出发，把空腔内的电磁波看作驻波，每个模式能量 kT，得到 u ∝ ν²kT。这个公式在低频对，在高频发散——能量趋于无穷。这就是"紫外灾难"。普朗克假设能量是 hν 的整数倍，得到了正确的公式。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">普朗克一开始不觉得"量子化"是真实的——他以为只是数学技巧。但爱因斯坦后来用这个想法解释了光电效应。普朗克自己花了十几年才接受量子是真实的物理存在。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 如果你是1900年的物理学家，你敢相信能量不是连续的吗？</div>
+    <span class="tag">量子力学</span>
+  </div>
+  <div class="page" data-page="7">
+    <div class="page-num">#07</div>
+    <div class="page-title">光电效应 —— 光到底是波还是粒子？</div>
+    <div class="formula-box">E_kin = hf − W</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">经典电磁理论预言：光强越大，电子动能越大。但实验结果是：频率低于某个阈值，再强也没电子出来；频率够了，电子动能只跟频率有关。爱因斯坦说：光是一份一份的"光子"，每个光子能量 E = hf。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">当时几乎所有物理学家都不信，包括普朗克本人。密立根花了十年做实验想证明爱因斯坦错了，结果反而精确验证了公式。后来康普顿效应直接证明了光子有动量 p = h/λ。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 光到底是波还是粒子，还是说——这个问题本身就不该这么问？</div>
+    <span class="tag">量子力学</span>
+  </div>
+  <div class="page" data-page="8">
+    <div class="page-num">#08</div>
+    <div class="page-title">焅与时间箭头 —— 为什么回不去？</div>
+    <div class="formula-box">S = k ln W</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">玻尔兹曼说，熵 S = k ln W，W 是微观状态数。系统倾向于从低概率状态走向高概率状态，因为高概率状态的数量远远多于低概率状态，所以熵几乎总是增加。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">微观物理定律都是时间反演对称的，不区分过去和未来。熵增定律却是宏观的，明显区分了方向。必须引入一个"初始条件"的假设。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 时间箭头来自熵增，那熵增来自哪里？</div>
+    <span class="tag">热力学</span>
+  </div>
+  <div class="page" data-page="9">
+    <div class="page-num">#09</div>
+    <div class="page-title">宇宙常数问题 —— 差了 122 个数量级</div>
+    <div class="formula-box">G_μν + Λg_μν = 8πG/c⁴ · T_μν</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">爱因斯坦 1917 年加入 Λ 让宇宙静止。1998 年发现宇宙加速膨胀，Λ 被重新启用——作为暗能量的数学表示。量子场论估算真空能量密度约为 10¹¹³ J/m³，但天文观测测出的暗能量密度约为 10⁻⁹ J/m³。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">两个数字差了 10¹²² 倍——1 后面跟着 122 个 0。这是物理学史上最大的数值偏差，没有任何理论能解释为什么这个数字这么小。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 两个数字差了122个数量级，你觉得问题出在量子场论，还是出在广义相对论？</div>
+    <span class="tag">宇宙学</span>
+  </div>
+  <div class="page" data-page="10">
+    <div class="page-num">#10</div>
+    <div class="page-title">黑洞熵 —— 信息悖论从公式里长出来</div>
+    <div class="formula-box">S = kA / 4l²p</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">贝肯斯坦 1972 年提出黑洞有熵，熵正比于表面积。霍金 1974 年用弯曲时空量子场论推导出黑洞会辐射——霍金辐射。霍金辐射是纯热辐射，不携带任何关于黑洞内部的信息。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">把一本书扔进黑洞，书里的信息应该被编码在黑洞的微观态中。但霍金辐射不携带这些信息，黑洞蒸发完后信息就消失了。量子力学要求"信息守恒"——这就是"黑洞信息悖论"。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 你觉得信息到底能不能消失？</div>
+    <span class="tag">黑洞</span>
+  </div>
+  <div class="page" data-page="11">
+    <div class="page-num">#11</div>
+    <div class="page-title">奥伯斯佯谬 —— 为什么夜空是黑的？</div>
+    <div class="formula-box">∫₀^∞ nL dr = ∞</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">假设恒星密度 n 均匀，每颗恒星发光功率 L。距离 r 处球壳厚度 dr，球壳上有 4πr²·n·dr 颗恒星。每颗恒星照度 = L/4πr²。总照度 = ∫₀^∞ nL dr = 无穷大。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">这个推导在数学上完全正确，但现实是夜空是黑的。说明至少有一个前提假设是错的。是宇宙有限？恒星寿命有限？宇宙在膨胀？还是光的红移？</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 这个"无穷大"的推导，你看出哪个假设有问题了吗？</div>
+    <span class="tag">宇宙学</span>
+  </div>
+  <div class="page" data-page="12">
+    <div class="page-num">#12</div>
+    <div class="page-title">卡西米尔效应 —— 真空真的"空"吗？</div>
+    <div class="formula-box">F = π²ħcA / 240d⁴</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">两块无限大平行金属板之间，电磁场只能存在特定频率的驻波（边界条件）。板外模式连续，板内模式离散。真空零点能的总和在板内和板外不一样，这个能量差产生吸引力。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">卡西米尔效应 1948 年被预言，1997 年被实验验证。但真空零点能到底是不是"真实的"？卡西米尔力可以完全用"相对论性范德瓦尔斯力"解释，不需要零点能概念。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 真空是真的"空"，还是充满能量的？</div>
+    <span class="tag">量子场论</span>
+  </div>
+  <div class="page" data-page="13">
+    <div class="page-num">#13</div>
+    <div class="page-title">精细结构常数 —— 1/137 的谜</div>
+    <div class="formula-box">α = e²/4πε₀ħc ≈ 1/137.035999...</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">α 是电子电荷平方除以光速和普朗克常数的乘积。它是一个无量纲常数——没有单位，纯数字。这意味着它的值不依赖于任何单位制，是宇宙的一个"基本参数"。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">没有任何理论能推导出 α 为什么是 1/137。它是直接从实验测出来的。狄拉克认为 α 可能会随时间变化——如果它变了，所有原子结构都会变。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 1/137，你觉得这个数字是巧合，还是背后有更深的理论？</div>
+    <span class="tag">量子电动力学</span>
+  </div>
+  <div class="page" data-page="14">
+    <div class="page-num">#14</div>
+    <div class="page-title">狄拉克方程 —— 反物质是被"算"出来的</div>
+    <div class="formula-box">(iγᵘ∂ᵘ − m)ψ = 0</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">狄拉克想找一个满足狭义相对论的量子力学方程，引入四个 γ 矩阵，得到了这个方程。它自动给出了电子的自旋，而且自然出现了正负能量解。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">正能量解对应电子，负能量解对应什么？狄拉克最初猜想是"质子"。但奥本海默算出来，负能量解的质量必须和电子一样。1932 年安德森在宇宙射线中发现了正电子。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 你觉得反物质是"真实存在的"，还是方程的数学结果？</div>
+    <span class="tag">量子力学</span>
+  </div>
+  <div class="page" data-page="15">
+    <div class="page-num">#15</div>
+    <div class="page-title">康普顿效应 —— 光子有动量</div>
+    <div class="formula-box">λ' − λ = h/mc · (1 − cosθ)</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">X 射线打中电子发生散射。假设光子像粒子一样有能量 E = hf 和动量 p = h/λ，与静止电子发生弹性碰撞。能量守恒和动量守恒联立，得到 Δλ = h/mc · (1−cosθ)。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">康普顿用经典电磁理论完全无法解释散射光波长为什么变长。必须把 X 射线当成粒子——光子。康普顿效应和光电效应一起，迫使物理学家接受了"波粒二象性"。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 一个东西既是波又是粒子，你怎么在脑子里想象它？</div>
+    <span class="tag">量子力学</span>
+  </div>
+  <div class="page" data-page="16">
+    <div class="page-num">#16</div>
+    <div class="page-title">热力学 vs 时间 —— 隐藏的假设</div>
+    <div class="formula-box">dS ≥ 0</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">一个系统有 W 种微观状态，如果每种状态概率相等，熵 S = k ln W。系统从少的状态走向多的状态，所以熵增加。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">如果时间反演，所有速度反向，熵会减少。但现实中我们只看到熵增。洛施密特悖论指出：任何证明熵增的推导，必然隐含了"分子混沌假设"——但这个假设本身就引入了时间方向。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 没有初始条件就推不出熵增——那宇宙的初始条件是谁设的？</div>
+    <span class="tag">热力学</span>
+  </div>
+  <div class="page" data-page="17">
+    <div class="page-num">#17</div>
+    <div class="page-title">德布罗意波 —— 物质也有波长</div>
+    <div class="formula-box">λ = h/p</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">德布罗意 1924 年提出：既然光有波粒二象性，那物质是不是也有？他假设粒子的动量 p 和波长 λ 的关系和光子一样：λ = h/p。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">这个公式太简单了，简单到当时很多人觉得"不过是个类比"。1927 年戴维森-革末实验用电子轰击镍晶体，看到了衍射条纹——电子确实是波。但一个电子通过双缝，什么在干涉？</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 一个电子通过双缝，它是怎么"知道"另一条缝存在的？</div>
+    <span class="tag">量子力学</span>
+  </div>
+  <div class="page" data-page="18">
+    <div class="page-num">#18</div>
+    <div class="page-title">相对论动量 —— 为什么不能超光速</div>
+    <div class="formula-box">p = mv / √(1 − v²/c²)</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">在相对论中，动量守恒要求动量定义修正为 p = γmv，其中 γ = 1/√(1−v²/c²)。当 v → c 时，γ → ∞，动量 → ∞。要加速到光速，需要无穷大的能量。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">公式本身没有争议。但"相对论质量"这个概念，在物理学家中已经基本被淘汰了，但科普书和很多教材还在用。E = mc² 里的 m 到底是哪个 m？</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 你觉得"质量随速度增加"这个说法，是便于理解还是造成了混乱？</div>
+    <span class="tag">相对论</span>
+  </div>
+  <div class="page" data-page="19">
+    <div class="page-num">#19</div>
+    <div class="page-title">波函数坍缩 —— 数学上到底发生了什么？</div>
+    <div class="formula-box">|ψ⟩ = c₁|0⟩ + c₂|1⟩ → |0⟩ 或 |1⟩</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">量子力学中有两条演化规则。第一条是薛定谔方程——决定性的、连续的。第二条是波函数坍缩——非决定性的、突变的。第二条规则不是从第一条推导出来的，是硬加进去的。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">没有任何数学推导能说明"什么时候"薛定谔方程停止，"什么时候"坍缩开始。冯·诺依曼证明，把测量仪器也纳入量子系统，坍缩仍然不会发生。这意味着坍缩只能发生在"人类意识"这个层面。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 从数学上看，波函数坍缩完全是薛定谔方程外的"额外规则"。你觉得这是理论的缺陷，还是量子世界的本质？</div>
+    <span class="tag">量子力学</span>
+  </div>
+  <div class="page" data-page="20">
+    <div class="page-num">#20</div>
+    <div class="page-title">爱因斯坦场方程 —— 改左边还是右边？</div>
+    <div class="formula-box">G_μν = 8πG/c⁴ · T_μν</div>
+    <div class="section-label">推导过程</div>
+    <div class="section-body">左边 G_μν 是爱因斯坦张量，描述时空弯曲。右边 T_μν 是能量-动量张量，描述物质分布。方程被验证了无数次（水星近日点进动、引力透镜、引力波）。</div>
+    <div class="section-label">争议在哪</div>
+    <div class="section-body">如果暗物质不存在，右边算出来就不对，左边也不能解释星系旋转。是修改左边（修改引力理论），还是修改右边（加暗物质）？这是目前物理学最大的争议之一。</div>
+    <div class="hook"><strong>评论区抛问题：</strong> 方程两边，你觉得哪边更可能有问题？左边（引力理论）还是右边（物质分布）？</div>
+    <span class="tag">引力</span>
+  </div>
+</div>
+<div class="nav-bar">
+  <button class="btn" id="prevBtn" onclick="goTo(currentPage - 1)">← 上一页</button>
+  <div class="page-info"><span id="pageNum">1</span> / 20</div>
+  <div class="goto-wrapper">
+    <input type="number" id="gotoInput" min="1" max="20" placeholder="页" onkeydown="if(event.key==='Enter')goToPage()">
+    <button class="goto-btn" onclick="goToPage()">跳转</button>
+  </div>
+  <button class="btn primary" id="nextBtn" onclick="goTo(currentPage + 1)">下一页 →</button>
+</div>
+<div class="kbd-hint"><kbd>←</kbd> <kbd>→</kbd> 翻页 &nbsp;·&nbsp; <kbd>G</kbd> 跳转 &nbsp;·&nbsp; <kbd>I</kbd> 操作说明</div>
+<script>
+  const totalPages = 20;
+  let currentPage = 1;
+  const pages = document.querySelectorAll('.page');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const pageNumSpan = document.getElementById('pageNum');
+  const progressFill = document.getElementById('progressFill');
+  const gotoInput = document.getElementById('gotoInput');
+  const overlay = document.getElementById('overlay');
+  function goTo(page) {
+    if (page < 1 || page > totalPages) return;
+    currentPage = page;
+    pages.forEach(p => p.classList.remove('active'));
+    document.querySelector(`.page[data-page="${page}"]`).classList.add('active');
+    pageNumSpan.textContent = page;
+    progressFill.style.width = `${(page / totalPages) * 100}%`;
+    prevBtn.disabled = page === 1;
+    nextBtn.disabled = page === totalPages;
+    document.getElementById('reader').scrollTop = 0;
+  }
+  function goToPage() {
+    const val = parseInt(gotoInput.value);
+    if (val >= 1 && val <= totalPages) { goTo(val); gotoInput.value = ''; }
+  }
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'ArrowLeft') { goTo(currentPage - 1); e.preventDefault(); }
+    if (e.key === 'ArrowRight') { goTo(currentPage + 1); e.preventDefault(); }
+    if (e.key === 'g' || e.key === 'G') { e.preventDefault(); gotoInput.focus(); gotoInput.select(); }
+    if (e.key === 'i' || e.key === 'I') { e.preventDefault(); overlay.classList.remove('hidden'); }
+  });
+  function closeOverlay() { overlay.classList.add('hidden'); }
+  goTo(1);
+</script>
+</body>
+</html>
